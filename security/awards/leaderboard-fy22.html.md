@@ -34,7 +34,7 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@engwan](https://gitlab.com/engwan) | 13 | 840 |
 | [@WarheadsSE](https://gitlab.com/WarheadsSE) | 14 | 830 |
 | [@xanf](https://gitlab.com/xanf) | 15 | 740 |
-| [@pks-t](https://gitlab.com/pks-t) | 16 | 700 |
+| [@pks-gitlab](https://gitlab.com/pks-gitlab) | 16 | 700 |
 | [@ifrenkel](https://gitlab.com/ifrenkel) | 17 | 700 |
 | [@dsearles](https://gitlab.com/dsearles) | 18 | 700 |
 | [@cwoolley-gitlab](https://gitlab.com/cwoolley-gitlab) | 19 | 700 |
@@ -220,7 +220,7 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@jcaigitlab](https://gitlab.com/jcaigitlab) | 27 | 200 |
 | [@fjsanpedro](https://gitlab.com/fjsanpedro) | 28 | 200 |
 | [@theoretick](https://gitlab.com/theoretick) | 29 | 200 |
-| [@pks-t](https://gitlab.com/pks-t) | 30 | 200 |
+| [@pks-gitlab](https://gitlab.com/pks-gitlab) | 30 | 200 |
 | [@changzhengliu](https://gitlab.com/changzhengliu) | 31 | 200 |
 | [@garyh](https://gitlab.com/garyh) | 32 | 160 |
 | [@pshutsin](https://gitlab.com/pshutsin) | 33 | 120 |
@@ -371,7 +371,7 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | Nominee | Rank | Points |
 | ------- | ----:| ------:|
 | [@manojmj](https://gitlab.com/manojmj) | 1 | 900 |
-| [@pks-t](https://gitlab.com/pks-t) | 2 | 500 |
+| [@pks-gitlab](https://gitlab.com/pks-gitlab) | 2 | 500 |
 | [@djadmin](https://gitlab.com/djadmin) | 3 | 400 |
 | [@pgascouvaillancourt](https://gitlab.com/pgascouvaillancourt) | 4 | 400 |
 | [@10io](https://gitlab.com/10io) | 5 | 380 |
