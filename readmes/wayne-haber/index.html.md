@@ -82,15 +82,13 @@ Corresponding handbook pages:
 * [Data Science](https://about.gitlab.com/handbook/engineering/development/data-science/#dashboards)
 * [Growth](https://about.gitlab.com/handbook/engineering/development/growth/#cross-functional-backlog)
 
+
 # 2023 Q1 OKRs
 
 [OKR Search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=wayne&type%5B%5D=objective&milestone_title=FY24-Q1&first_page_size=20)
 
 Themes:
-* Application health
-* Team member career growth
-* Mature the Platform to be the leading DevSecOps platform 
-* Increase revenue by growing a customer result mindset and delivering results 
-
-
-
+* Application health (error budgets, Rails upgrade, Vue upgrade, improve observability, etc)
+* Team member career growth (training, yearly assessment followup, complete BIC gap analysis, etc)
+* Mature the Platform to be the leading DevSecOps platform  (Use GitLab for OKRs, team MR rate, etc)
+* Increase revenue by growing a customer result mindset and delivering results (key secure/govern/data science feature delivery, reduce customer facing bugs, and stay ahead of SLA on security issues)
