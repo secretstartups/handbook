@@ -19,4 +19,8 @@ Check if the related confidential security issue has the label `~"security-fix-i
 
 In GitLab, @ mention `@gitlab-com/gl-security/appsec` and the AppSec engineer on rotation will respond. In Slack, reach out on `#sec-appsec`.
 
+### I ran a scan on 3rd party images used by GitLab and found vulnerabilities on them. Can they be updated?
+
+We do not maintain 3rd party images. As appropriate we will follow our [Disclosure Guidelines for Vulnerabilities in 3rd Party Software](https://about.gitlab.com/security/disclosure/#disclosure-guidelines-for-vulnerabilities-in-3rd-party-software), our [Vulnerability Management Policy](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/), and our [Release and Maintenance Policy](https://docs.gitlab.com/ee/policy/maintenance.html). 
+
 ___
