@@ -276,6 +276,8 @@ Common issues that may need to be addressed for a job to correctly publish on Li
 
 - If the option to `Publish to Free Job Boards` within Greenhouse is selected, this information will override the location information. You should unselect the option `Publish to Free Job Boards`.
 
+### Removing unwanted source code that will cause errors on LinkedIn
+
 Prior to 2022 we used a more complex system to post jobs to various locations. If your job is showing up in places it should not, you may need to remove existing code from the source code in Greenhouse. To do this, follow these steps:
 
 - Click on the < > on the menu bar in the description text box to open the source code
