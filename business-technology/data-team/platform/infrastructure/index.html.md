@@ -134,61 +134,27 @@ This was mapped to the domain in Route 53 by the infrastructure team, documented
 
 ##### TLS
 
-A certificate was generated for the airflow.gitlabdata.com domain via [this infrastructure issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/9205).
-This certificate was saved to a kubernetes secret by running the command `kubectl create secret tls airflow-tls --cert=airflow.gitlabdata.com.chained.crt --key=airflow.gitlabdata.com.key` - these are the actual filenames for the chained certificate and key.
-This created the secret `airflow-tls`.
-The certificate files (site, chain, chained (site+chain), and key) are also stored in the Data Team Secure vault in 1password.
+TLS/SSL certificates are used to protect both the end users' information while it's in transfer, and to authenticate the website's organization identity to ensure users are interacting with legitimate website owners. 
 
-We decided to use the [NGINX Ingress Controller](https://kubernetes.github.io/ingress-nginx/) since it has excellent built-ins for redirecting and enforcing TLS.
-To install NGINX into the cluster follow below steps:
-1) If helm is not installed in system install it using command `brew install helm`.  
-2) Then add nginx-stable version to helm repo using command `helm repo add nginx-stable https://helm.nginx.com/stable`.  
-3) To get the latest version of stable use `helm repo update`.  This should give output similar to below 
+**New Setup**   
+A certificate and certificate key was generated for the airflow.gitlabdata.com domain via [this infrastructure issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/9205) 
+This certificate was saved to a kubernetes secret by running the command  
+`kubectl create secret tls airflow-tls --cert=airflow.gitlabdata.com.chained.crt - -key=airflow.gitlabdata.com.key`.      
 
-    ```
-    Hang tight while we grab the latest from your chart repositories...
-    ...Successfully got an update from the "nginx-stable" chart repository
-    ...Successfully got an update from the "ingress-nginx" chart repository
-    Update Complete. ⎈Happy Helming!⎈
-    ```
+ `airflow.gitlabdata.com.chained.crt` and `airflow.gitlabdata.com.key`  are the actual filenames for the chained certificate and key.
 
-4) To check helm repo status use command `helm repo list`
+This created the secret `airflow-tls`.  
 
-  ```
-  NAME         	URL
-  ingress-nginx	https://kubernetes.github.io/ingress-nginx
-  nginx-stable 	https://helm.nginx.com/stable`
-  ```
+**Renew of Certificate**
+At the moment this is being done manually. The certificate issued is valid for an year and expriers yearly. New certificate was reissue using this [issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8420).
+To update the certificate in Kubernetes secret below steps can be followed. 
+1. Download the certificate from sslmate for airflow.gitlabdata.com.(To be done by SRE team). Request access to the vault to access the new certificate. 
+2. `cat airflow.gitlabdata.com.chained.crt | base64 > secret.new` Convert the certificate to base64 encoding. 
+3. Connect to the cluster `gcloud container clusters get-credentials data-ops --zone us-west1-a --project gitlab-analysis`
+4. Edit the `airflow-tls` kube secret using `kubectl edit secrets airflow-tls`
+5. Opened up editor and update tls.crt value in the yaml file. 
 
-
-5) Use command to `The NGINX Ingress Controller`  
-  `helm install airflownginx nginx-stable/nginx-ingress --values nginx_values.yaml `
-  It will provide output as below 
-  ```
-    NAME: airflownginx
-    LAST DEPLOYED: Wed Oct 20 19:01:38 2021
-    NAMESPACE: default
-    STATUS: deployed
-    REVISION: 1
-    TEST SUITE: None
-    NOTES:
-    The NGINX Ingress Controller has been installed.  
-  ```
- The [NGINX value file](https://gitlab.com/gitlab-data/data-image/-/blob/93b20e4286d2a383e46eac091c68d162156223bd/airflow_image/manifests/nginx_values.yaml) defines what the load balancer IP address is. The load balancer IP is set to the address generated in the previous section.
-The values passed into the install command are expanded in the [controller-deployment.yaml file](https://github.com/helm/charts/blob/b7afaf9d8875f6aa1cfed4c0422cb28e51d823a3/stable/nginx-ingress/templates/controller-deployment.yaml#L111-L117).
-
-If NGINX needs to be deleted and reinstalled that can be done via `helm delete airflownginx`.
-
-The [ingress definition](https://gitlab.com/gitlab-data/data-image/-/blob/93b20e4286d2a383e46eac091c68d162156223bd/airflow_image/manifests/ingress.yml) was also updated with these settings:
-
-- [force-ssl-redirect](https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/annotations/#server-side-https-enforcement-through-redirect) is true
-- tls is set for airflow.gitlabdata.com using the `airflow-tls` kubernetes secret
-- All traffic matching the host is sent to the `airflow-webserver` service and not the [default backend](https://kubernetes.github.io/ingress-nginx/user-guide/default-backend/)
-
-Although not strictly necessary, it is cleaner to delete the ingress when applying changes. This can be done via the UI in GCP or via the command `kubectl delete ingress airflow-ingress`.
-Applying the new configuration is done via the command `kubectl apply -f ingress.yaml`
-
-
+The certificate files (cert and key) are also stored in the Data Team Secure vault in 1password under name `airflow_tls_certificate_key`.
 
 ### Viewing Airflow Logs in GCP
 
