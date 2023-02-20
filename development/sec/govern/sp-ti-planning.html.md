@@ -42,7 +42,7 @@ fulfill the original issue's requirements.
 
 ### Refinement
 
-Issues in the `workflow::refinement` state are either assigned by EMs to individuals engineers for refinement, or are assigned randomly by the triage bot based on the [assign-refinement policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/container-security/assign-refinement.yml). Note that [Epics are slightly different](#epic-engineering-dri).
+Issues in the `workflow::refinement` state are either assigned by EMs to individuals engineers for refinement, or are assigned randomly by the triage bot based on the [assign-refinement policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/security-policies/assign-refinement.yml) ([Threat Insights policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/threat-insights/assign-refinement.yml)). Note that [Epics are slightly different](#epic-engineering-dri).
 
 Engineers assigned to refine issues are encouraged to ask questions and push back on PM if issues lack the information and/or designs required for successful refinement and execution.
 
@@ -203,7 +203,7 @@ The issue verification should be done by someone else other than the MR author[^
 1. When an engineer has merged their work, they should move their issue into the verification status, indicated by the `~workflow:verification` label and wait until they receive notification that their work has been deployed on staging via the release issue email. 
 1. If possible, after the engineer has received the notification and verified their work in staging, they leave a comment summarizing the testing that was complete.
 1. After the change is avaiable on .com/production, the engineer should verify again, leave a comment summarizing the testing that was completed, and unassign themselves from the issue. Also provide a link to a project or page, if applicable.  
-1. Unassigned issues in the `~workflow:verification` state are are assigned randomly by the triage bot based on the [verification policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/container-security/verification.yml) to an applicable team engineer. This engineer should then additionally verify the issue.
+1. Unassigned issues in the `~workflow:verification` state are are assigned randomly by the triage bot based on the [verification policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/assign_dev_for_verification.rb) to an applicable team engineer. This engineer should then additionally verify the issue.
 1. Once the issue has been verified in production by both engineers, add the `workflow::complete` label and close the issue.
 
 [^4]: To minimize cycle time between engineers, it's preferable that the writing engineer verify their work, as they will be able to start working on the issue again immediately if it turns out that the issue has not been sufficiently resolved. Waiting for another engineer to find obvious failures will increase turn around time.
