@@ -153,6 +153,11 @@ process is different.
 
 ### How can I determine what environment my merge request is currently in?
 
+The [release tools](https://gitlab.com/gitlab-org/release-tools/) makes use of `workflow::` labels
+in MRs to indicate which stage of the [deployments process](#gitlabcom-deployments-process) a merge
+request is in. For example, the presence of the `workflow::production` label in a merge request
+indicates it has been deployed to production.
+
 See [this](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/deploy/auto-deploy.md#status-of-a-merged-mr-or-a-commit)
 guide for more information.
 
