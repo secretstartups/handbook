@@ -124,7 +124,7 @@ Exposure of information and secrets is handled a little differently to vulnerabi
     + Using the API, gather the output of [`/api/v4/user`](https://docs.gitlab.com/ee/api/users.html#for-normal-users-1) and [`/api/v4/personal_access_tokens/self`](https://docs.gitlab.com/ee/api/personal_access_tokens.html#using-a-request-header) for the SIRT incident.
     + [Revoke the token](https://docs.gitlab.com/ee/api/personal_access_tokens.html#using-a-request-header-1)
     + Post a comment in `#security-revocation-self-service` using [this message template](https://gitlab.com/gitlab-com/gl-security/runbooks/-/blob/master/sirt/misc/exposed_secrets.md#communication-with-the-owner)
-  + If the information is leaked via a comment, make the Issue or MR confidential
+  + If the information was leaked in an issue, make the Issue confidential and leave an internal note explaining why it's been made confidential.
 - Use the `/security` slack command to initiate an incident
   + Learn more about engaging the SEOC: https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call
   + In the description section, include a link to the HackerOne report and any other useful information
@@ -143,6 +143,29 @@ Exposure of information and secrets is handled a little differently to vulnerabi
   + Check the history on issue / MR descriptions
   + Check git commit history
   + Check build artifacts
+  + Use Advanced Search to look for similar patterns in other projects used by GitLab team members
+
+#### Triaging exposed personal data
+
+Similar to how we handle exposed secrets, we sometimes handle exposed personal data which also doesn't need a GitLab Project Issue, CVSS or CVE.
+
+- Mitigate the incident if possible
+  + If the information was leaked in an issue, make the Issue confidential and leave an internal note explaining why it's been made confidential.
+  + :warning: Bear in mind that turning an issue confidential doesn't turn attachments confidential. 
+- Use the `/security` slack command to initiate an incident
+  + Learn more about engaging the SEOC: https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call
+  + In the description section, include a link to the HackerOne report and any other useful information
+    + If possible, share the reporter's IP address(es) and time(s) the reporter accessed the sensitive data to assist with incident response.
+  + "Not Urgent" is usually fine for these kind of leaks. The SEOC typically responds quickly anyway.
+- Add information to the SIRT issue.
+  + Add any comments to the SIRT issue with context or information that might be helpful.
+- In the H1 report use the reference field to link to the SIRT issue (for example if the incident issue is `https://gitlab.com/gitlab-sirt/incident_XXXX/-/issues/1` the reference should be `gitlab-sirt/incident_XXXX/-/issues/1`
+- Identify the most appropriate [non-CVSS bounty amount](https://gitlab-com.gitlab.io/gl-security/appsec/cvss-calculator/) and add your initial [suggested bounty](https://docs.hackerone.com/programs/bounties.html#suggesting-bounties) in H1
+- Use `/h1 bounty REPORT_ID` to create a comment on the Bug Bounty Council issue
+  + Note that we are importing it using `bounty` only here.
+- Support SIRT as required and, if applicable, follow the process for [handling severity::1/priority::1 issues](./handling-s1p1.html)
+- Investigate the location of the exposure, and locations like it, for further exposure.
+  + Check the history on issue / MR descriptions
   + Use Advanced Search to look for similar patterns in other projects used by GitLab team members
 
 #### Triaging features behind a feature flag
