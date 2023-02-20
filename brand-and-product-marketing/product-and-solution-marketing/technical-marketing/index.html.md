@@ -257,7 +257,6 @@ GitLab Technical Marketing Demo Resources - (Planned Q2)
 
 [Security Dashboard](https://vimeo.com/670888630)
 
-[Security Alert Dashboard for Container Network Policy Alerts + Cloud Native Security](https://vimeo.com/670893448)
 
 [Container Security](https://vimeo.com/670892567)
 
