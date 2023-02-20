@@ -219,7 +219,7 @@ It's a great chance to get to know who you work with, talk about everyday things
 
 #### Scheduling a Coffee Chat
 
-GitLab Team Members can easily schedule a Coffee Chat in Google Calendar and link it to Zoom, with a 1-click link to the video call.
+GitLab Team Members can easily schedule a Coffee Chat in Google Calendar and link it to Zoom, with a 1-click link to the video call. When scheduling coffee chats with executive leadership, please reach out to their EBA to find a mutually available time. If they are not on the list in the [EBA Handbook](https://about.gitlab.com/handbook/eba/#executive-business-administrator-team), please follow the steps below: 
 
 Watch this [short video](https://youtu.be/zbbEn_PznK0) to see how it's done.
 
