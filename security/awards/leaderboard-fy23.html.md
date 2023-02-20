@@ -11,6 +11,50 @@ title: "Security Awards Leaderboard"
 
 This page is [auto-generated and updated every Mondays](../security-awards-program.html#process).
 
+# Leaderboard FY24
+
+## Yearly
+
+### Development
+
+| Nominee | Rank | Points |
+| ------- | ----:| ------:|
+| [@rmarshall](https://gitlab.com/rmarshall) | 1 | 100 |
+| [@dustinmm80](https://gitlab.com/dustinmm80) | 2 | 50 |
+
+### Engineering
+
+Category is empty
+
+### Non-Engineering
+
+Category is empty
+
+### Community
+
+Category is empty
+
+## FY24-Q1
+
+### Development
+
+| Nominee | Rank | Points |
+| ------- | ----:| ------:|
+| [@rmarshall](https://gitlab.com/rmarshall) | 1 | 100 |
+| [@dustinmm80](https://gitlab.com/dustinmm80) | 2 | 50 |
+
+### Engineering
+
+Category is empty
+
+### Non-Engineering
+
+Category is empty
+
+### Community
+
+Category is empty
+
 # Leaderboard FY23
 
 ## Yearly
