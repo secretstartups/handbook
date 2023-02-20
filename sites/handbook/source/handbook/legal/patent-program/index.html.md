@@ -54,7 +54,7 @@ You should submit an Invention Disclosure Form any time you think you may have m
 
 In order to maintain the confidentiality of your invention, do not discuss it on a public or even confidential GitLab issue or on any slack channels - all correspondence concerning the invention should take place via [patent-program@gitlab.com](mailto:intellectualproperty@gitlab.com).
 
-Also, for related guidance on how to review third-party patent functionality, visit the [Guidelines for reviewing third-party patents](https://internal-handbook.gitlab.io/handbook/legal-and-compliance/productguidance/#guidelines-for-reviewing-third-party-patents) (accessible to team members only).
+Also, for related guidance on how to review third-party patent functionality, visit the [Guidelines for reviewing third-party patents](https://internal-handbook.gitlab.io/handbook/legal-and-corporate-affairs/legal-and-compliance/productguidance/#guidelines-on-reviewing-third-party-patents) (accessible to team members only).
 
 ## Conditions of participation
 
