@@ -359,7 +359,7 @@ Step 5: After Merge to the master, we need to apply the newly prepared deploymen
 
 ## Debugging and manual testing of meltano.yml file for newly created tap
 Follow below steps to copy the meltano.yml to the running container to test the newly created meltano.yml file is correct and it will
-- Connect to the required cluster. In our case `data-ops-meltano` which is current active cluster using command `gcloud container clusters get-credentials data-ops-meltano--zone us-west1-a --project gitlab-analysis`
+- Connect to the required cluster. In our case `data-ops-meltano` which is current active cluster using command `gcloud container clusters get-credentials data-ops-meltano --zone us-west1-a --project gitlab-analysis`
 - Connect to the container using command `kubectl exec -it gitlab-production-meltano-7bd5cdd65b-zsz9k --namespace=meltano  -c meltano-tap  /bin/bash`. 
   - Note:- Pod name might change to get the correct pod name use `kubectl get pods --namespace=meltano`
 - Copy modified meltano.yml to  container from local `kubectl cp meltano.yml default/gitlab-production-5f8fd9ccb-npvxl:/projects`
