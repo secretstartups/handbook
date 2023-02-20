@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/account-escalation-proce
 | Property        | Value                                                                                                                                             |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Date Created    | 2022-11-15                                                                                                                                        |
-| Target End Date | 2023-01-31                                                                                                                                        |
+| Target End Date | 2023-03-31                                                                                                                                        |
 | Slack           | [#wg_account_escalation](https://gitlab.slack.com/archives/C04B5SWTVEY) (only accessible from within the company)   |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1CC3kuNSMYJR91hbHKIyTVN3FC9SjiNkLR0zRKOvJA5k/edit) (only accessible from within the company) |
 
@@ -50,7 +50,6 @@ This is a non-comprehensive list of topics to be discussed.
 
 | Working Group Role      | Username        | Person                                                                   | Title                                                           |
 | :---------------------- | :-------------- | ------------------------------------------------------------------------ | :-------------------------------------------------------------- |
-| Executive Stakeholder   | @tcooney | Tom Cooney | VP Customer Support|
 | Executive Stakeholder   | @spatching| Sherrod Patching | VP Customer Success Management |
 | Facilitator             | @lyle | Lyle Kozloff | Director of Global Support Readiness|
 | Member                  | @manuel.kraft | Manuel Kraft | Customer Success Manager (EMEA) |
