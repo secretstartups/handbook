@@ -12,6 +12,8 @@ description: "The group::foundations team owns the navigation structures of the 
 
 The [`group::foundations` team](/handbook/product/categories/#foundations-group) owns the navigation structures of the GitLab product. Please review this information if you plan to propose changes to GitLab navigation.
 
+> Note: a [Code Owners approval rule](https://docs.gitlab.com/ee/user/project/code_owners.html) is in place to prevent unapproved changes to the navigation. If you have not followed this process, your Merge Request will be blocked.
+
 ## What is navigation
 
 Navigation refers to elements that aid users in moving around GitLab, which includes their organization and wayfinding clues. The navigation experience directly impacts the usability and discoverability of our features. 
