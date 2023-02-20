@@ -222,6 +222,18 @@ In order to measure `GitLab improvement issues opened per review` the following 
 can be used in the [`gitlab-com`](https://gitlab.com/gitlab-com) and [`gitlab-org`](https://gitlab.com/gitlab-org) groups:
 - `~SecResearch Followup::Ecosystem`
 
+### Code Review Sessions
+
+Upon [request from team members](https://gitlab.com/gitlab-com/gl-security/security-research/sec-research/-/issues/new?issuable_template=Code%20review%20session)(internal link) the Security Research team will host "Code Review Sessions"
+in which we'll pair on security reviews for a given piece of code. Those sessions will be
+recorded.
+
+The reviews will all be around vulnerability identification.
+
+The intention for these sessions is learning on both sides, challenge us with some
+interesting new technologies or software concepts, and in return we'll do our best to
+share our approaches in vulnerability identification to the given codebase.
+
 ## Bug bounties and speaker fees
 
 As a result of Security Research it might occur that a team member gets offered
