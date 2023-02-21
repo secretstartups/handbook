@@ -11,6 +11,8 @@ Data Intelligence (DI) is a part of Field Operations reporting to Revenue Operat
 
 Data intelligence aims at ensuring that impacted parties understand the data and the best uses of the data. This is achieved through enablement to the field on data enrichment, data governance, data cleaning, and overall fostering a data culture to make data-driven decisions and drive results. 
 
+Our Data Governance page can be found [here](https://about.gitlab.com/handbook/sales/field-operations/data-intelligence/data-governance/)
+
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
 - Brianna Vandre, Senior Manager, Data Intelligence
@@ -23,26 +25,16 @@ The detailed Data Intelligence Handbook is located in the [internal handbook](ht
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
-<div class="flex-row" markdown="0" style="height:80px">
-    <a href="/handbook/marketing/integrated-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Operations</a>
-    <a href="/handbook/marketing/brand-and-product-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Brand & Product Marketing</a>
-    <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Strategy & Analytics</a>
-    <a href="/handbook/marketing/growth/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Growth</a>
-    <a href="/handbook/marketing/strategy-performance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Strat & Analytics</a>
-</div>
-<div class="flex-row" markdown="0" style="height:80px">
-    <a href="/handbook/marketing/sales-development/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Development</a>
-    <a href="/handbook/marketing/corporate-marketing/corporate-communications/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Communications</a>
-   <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
-    <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
-</div>   
-<div class="flex-row" markdown="0" style="height:80px">
-    <a href="/handbook/finance/procurement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Procurement</a>
-    <a href="/handbook/legal/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Legal</a>
-    <a href="/handbook/business-technology/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Technology</a>
-    <a href="/handbook/engineering/infrastructure/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Infrastructure</a>
-    <a href="/handbook/support/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Support</a>
-</div>
+* Sales Operations
+* Sales Systems
+* Marketing Operations
+* People Operations
+* Finance Analytics
+* Sales Strategy & Analytics
+* Marketing Strategy & Analytics
+* The Data Team
+* Sales Development
+* Compliance
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to Communicate with Us
 
@@ -54,7 +46,7 @@ We do not use or create tool-specific Slack channels (e.g. `#zoominfo`).
 
 **Salesforce**
 
-The Data Intelligence team uses the '@sales-support' Chatter in Salesforce to help you make changes or manage account changes in Salesforce. Please note, the more information you can provide in your support request, the faster the request can be resolved. Use the '@sales-support' Chatter for support with:
+The Data Intelligence team uses the `@sales-support` Chatter in Salesforce to help you make changes or manage account changes in Salesforce. Please note, the more information you can provide in your support request, the faster the request can be resolved. Use the `@sales-support` Chatter for support with:
 * Account Merges: Merging duplicate accounts in different ownership
 * Account Name Changes: Investigating and Changing the Account Name, note: this is not to change the account to the correct owner, this is to change the account name to reflect the legal name. Example: Company name = "ABC" but legally it is "ABC, Inc." 
 * Account Hierarchy Clean-up
@@ -69,7 +61,7 @@ The Data Intelligence Team does not support the following:
 * Order Type Review/Updates
 * ISR Field Population
 * PubSec/Government Account Review
-* Please see the Sales Operations team to assist with these [requests] (https://about.gitlab.com/handbook/sales/field-operations/sales-operations/)
+* Please see the Sales Operations team to assist with these [requests](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/)
 
 ### Focus Fridays
 
@@ -79,19 +71,10 @@ The Data Intelligence Team does not support the following:
 
 For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-technology/tech-stack-applications/) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company. Below are tools that are primarily owned and managed by data intelligence.
 
-<details>
-<summary markdown='span'>
-Integrated with Salesforce
-</summary>
 
-- [LeanData link TBD]()
-- [OpenPrise link TBD]()
-- [OpenPrise TAMI link TBD]()
-- [OpenPrise Cognism link TBD]()
-- [OpenPrise D&B link TBD]()
-- [ZoomInfo link TBD]() 
-- [ZoomInfo Databrick/Everstringlink TBD]() 
+### Integrated with Salesforce
 
-<details>
-<summary markdown='span'>
-Integrated with Salesforce
+* LeanData
+* OpenPrise
+* OpenPrise Enrichment: TAMI, Cognism, D&B
+* ZoomInfo
