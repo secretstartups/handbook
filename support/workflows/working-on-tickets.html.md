@@ -254,3 +254,16 @@ There will be times when you may be leading an escalation or otherwise working t
    1. assign the ticket to the engineer who provided the solution, or if you
       can't make that determination, assign it to an engineer who has
       significantly contributed to the ticket throughout its life cycle
+
+### 7. How can I open a new ticket on behalf of a customer?
+
+   As detailed in the [Support General Policies](https://about.gitlab.com/support/general-policies/#we-handle-each-incident-within-a-single-support-ticket) it is GitLab policy to handle each individual incident, problem or issue within a single support ticket. If a situation arises where you need to open a new ticket on behalf of a customer then please use the following steps: 
+
+1. Go to the [Submit a Request](https://support.gitlab.com/hc/en-us/requests/new) Ticket Portal.
+2. Enter the customer's details (Self-Managed or SaaS, email address, subject, problem description etc.).
+    - Use the customer's existing Zendesk Ticket to obtain the necessary customer information to complete the form.
+3. Once the form is submitted the form will not provide the corresponding ticket id. You can however obtain the new ticket id by performing a search on the customers details such as email address.
+
+Please note: The above approach is required in order to ensure that the ticket is routed correctly and is assigned an SLA.
+
+
