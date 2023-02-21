@@ -104,7 +104,7 @@ Core DevOps Solutions have DRIs and a wealth of internally-focused and externall
 | **PM** | Jackie Porter  | Daniel Gruesso | Viktor Nagy | n/a |
 | **Resource page** | [CI resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/)| [SCM resource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/) | [GitOps resource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/) | [Agile planning](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/agile/) |
 | **Capabilities page** | [CI](https://about.gitlab.com/features/continuous-integration/) | [SCM capabilities](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/) | URL tbd | URL tbd |
-| **Topic page** | [CI-CD](https://about.gitlab.com/topics/ci-cd/) | [SCM](https://about.gitlab.com/version-control/) | [What is GitOps?](/topics/gitops/) | 
+| **Topic page** | [CI-CD](https://about.gitlab.com/topics/ci-cd/) | [SCM](https://about.gitlab.com/topics/version-control/) | [What is GitOps?](/topics/gitops/) | 
 | **Campaign page** | [CI landing page](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/) | [SCM landing page](https://about.gitlab.com/why/simplify-collaboration-with-version-control/) | [GitOps landing page](/why/gitops-infrastructure-automation/) | tbd |
 | **Sales resources** | tbd| **web-selling only** |[Infrastructure Automation](https://about.gitlab.com/handbook/marketing/sales-plays/gitops/) | t bd) |
 | **Slack channel** | #gtm-ci-cd | | n/a | #gtm-gitops | na |
