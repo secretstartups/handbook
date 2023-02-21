@@ -13,7 +13,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ----
 
-One of the responsibilities of Customer Success Managers is collaborating with the Product team to prioritize feature and help build the roadmap by indicating demand for features from customers and relaying customers' use cases and experiences.
+One of the responsibilities of Customer Success Managers is collaborating with the Product team to [prioritize feature](/handbook/product/product-processes/customer-issues-prioritization-framework/#priority-points) and help build the roadmap by indicating demand for features from customers and relaying customers' use cases and experiences.
 
 ## Product interacting with CSMs
 
@@ -51,16 +51,16 @@ The Sisense page automation will detect when Salesforce links are added and use 
 
 In preparation of a call, make sure to [prepare both the customer and Product](/handbook/product/how-to-engage/#examples-a-customer-has-a-feature-request) in advance.
 
-### Customer collaboration project
+### [Customer collaboration project](/handbook/customer-success/csm/customer-collaboration-project/)
 
 Customers that are assigned a Customer Success Manager typically have a [collaboration project](/handbook/customer-success/csm/engagement/) on GitLab.com, which is used to share information, document customer details, and track issues in a place that both the GitLab team and the customer's team can access.
 
-Generally, CSMs maintain a main issue that lists out all feature requests the customer is interested in with links to the public GitLab issue.
+Generally, CSMs maintain a main issue and/or enable the [CS-Tool - TAM issue tracker](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/tam-issue-tracking), which list out all feature requests the customer is interested in with links to the public GitLab issue.
 
 When a customer expresses interest in a feature, the CSM should capture that in two places:
 
 - As a [comment or issue in the main GitLab project](#gitlab-issues)
-- With an entry in the main feature tracking issue of the customer's collaboration project
+- With an entry in the main feature tracking issue of the [customer's collaboration project](https://about.gitlab.com/handbook/customer-success/csm/customer-collaboration-project/)
 
 The feature tracking issue should be maintained regularly by updating priority (elaborated on below) and milestones as the single source of truth on customer product needs. It can also be used for reviewing metrics of previously delivered feature requests.
 
@@ -70,7 +70,7 @@ If there is a lot of discussion with the customer about a specific feature reque
 
 #### High priority requests
 
-If a customer has [identified an issue that is high priority](/handbook/product/product-processes/), such as a work-stoppage bug or a feature required for the customer to meet a deadline, follow the expected steps for logging and tracking customer feature requests above by adding the customer's interest in a GitLab issue and including it in the collaboration project issue. In addition, reach out to the Product Manager responsible for the part of GitLab the issue addresses and discuss it with them directly. A general idea of high priority is that the customer needs a particular feature as soon as possible.
+If a customer has [identified an issue that is high priority](/handbook/product/product-processes/), such as a work-stoppage bug or a feature required for the customer to meet a deadline, follow the expected steps for logging and tracking customer feature requests above by adding the customer's interest in a GitLab issue and including it in the collaboration project issue. In addition, [reach out to the Product Manager](https://about.gitlab.com/handbook/product/how-to-engage/#where-to-reach-product-managers) [responsible for the part of GitLab](https://about.gitlab.com/handbook/product/how-to-engage/#which-product-manager-should-i-contact) the issue addresses and discuss it with them directly. A general idea of high priority is that the customer needs a particular feature as soon as possible.
 
 #### Medium Priority Requests
 
@@ -87,6 +87,10 @@ Follow the [steps for logging and tracking customer feature requests](#gitlab-is
 If a customer is unable to continue using GitLab without a specific feature, the CSM should begin the [triaging the account](/handbook/customer-success/csm/health-score-triage/). This should be rare, but if it does occur set up regular check-ins with the Product and Engineering teams to assess the status of the feature, expectations, and potential secondary plans. Please also refer to the details of a [critical customer merge request](https://docs.gitlab.com/ee/development/code_review.html#customer-critical-merge-requests).
 
 **Note:** you should still take the steps shown above to indicate customer interest, so that it's noted publicly. This is just an additional step to accelerate Product looking at and addressing the issue.
+
+#### Interest or Feedback on an exiting Feature Request
+
+A CSM can log in an existing GitLab issue the Interest or Feedback of a customer with [the template](https://about.gitlab.com/handbook/product/how-to-engage/#feedback-template) provided by the product team.
 
 #### Bugs
 
