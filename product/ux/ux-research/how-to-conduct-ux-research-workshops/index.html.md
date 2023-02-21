@@ -30,6 +30,8 @@ _Late phases of research_
 * **Research retrospective workshop:** An open dialog between UX Researchers and/or stakeholders that is used to reflect on the positives and negatives of a research project. Also, this workshop is used to identify areas of improvement and action items for future related projects. ([Mural board template](https://app.mural.co/template/c7f8b5ab-fa8d-477a-8424-a1d72e1f4858/559f7b77-1ff9-4d82-8a5a-f551078378f3))
 * **Research summary workshop:** A way to collaboratively analyze research data within the team as it is obtained, so stakeholders are able to contribute to the final research output. This is used to increase stakeholder buy-in with the research findings and help reduce the amount of time spent on data analysis. This type of workshop helps to eliminate any surprises in a final research report since recommendations are discussed and agreed upon ahead of time by the team. ([Mural board template](https://app.mural.co/template/5ba6a117-a578-49ab-abbf-2fb686b0d529/f6022aa3-249b-4f82-9d9c-2960de2ecc8e))
 
+* **Usability Benchmark recommendations alignment workshop:** After running a [Usability Benchmark](https://about.gitlab.com/handbook/product/ux/ux-research/usability-benchmarking/) this is a process for running a recommendations alignment workshop with your stakeholders. ([Mural board template](https://app.mural.co/t/gitlab2474/template/6c725b01-a3be-422e-8cec-d8823e9aaa73))
+
 If the UX Researcher determines a UX research workshop would be best for their project, they should allocate approximately **1 week** of setup time for a workshop. The following sections highlight the main aspects to consider ahead of time.
 
 ## Step 2: Choose between async or sync workshops
