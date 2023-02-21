@@ -90,7 +90,6 @@ MVC means reducing the scope so we can ship quickly. It doesn’t mean shipping 
 Examples:
 - Ship a feature through the API and not the UI -  [See this release post](hhttps://about.gitlab.com/releases/2022/09/22/gitlab-15-4-released/#graphql-api-endpoint-for-deleting-attachments-from-project) as a great example of this approach was used to build a GraphQL endpoint for deleting attachment from a project. 
 - Exposing a minimal set of functionality  - [See this release post](https://about.gitlab.com/releases/2022/11/22/gitlab-15-6-released/#admin-area-runners-job-queued-and-duration-times) where a basic read-only page displaying queued jobs was added and more capabilities were added in subsequent releases. 
-- Dogfooding - OKR functionality was built out and dogfooding began in Q1 FY2024. We intend to discover additional features needed for a viable end user experience by using this functionality ourselves and doing user research in parallel. 
 
 There are scenarios when an MVC approach is not advised. These include:
 - When changing core parts of the experience - An example of a core experience is [comments](https://docs.gitlab.com/ee/user/discussions/#comments-and-threads). When building this out for work items, we waited to release the new feature to end users until we reached parity with comments in Issues and MRs.
