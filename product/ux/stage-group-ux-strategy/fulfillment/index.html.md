@@ -17,9 +17,8 @@ description: "The Fulfillment UX team supports the Fulfillment section to provid
 
 - [Jacki Bauer](/company/team/#jackib) ([Jacki's ReadMe](https://gitlab.com/jackib/jacki-bauer/blob/master/README.md)) - Product Design Manager
 - [Emily Sybrant](/company/team/#esybrant) - Product Designer, Billing & Subscription Management
-- [Matthew Nearants](/company/team/#mnearents) - Senior Product Designer, Utilization
 - [Philip Joyce](/company/team/#philipjoyce) - Senior Product Designer, Purchase
-- [Nick Hertz](/company/team/#nickhertz) - UX Researcher, Fulfillment and Growth
+- [Nick Hertz](/company/team/#nickhertz) - UX Researcher, Fulfillment
 
 ## UX Health
 One of the ways we track our progress is by measuring the UX of our different workflows (scorecards) and progress towards closing out issues that impact UX (issues labeled SUS:Impacting).
