@@ -18,6 +18,7 @@ Since the launch of the engineering director shadow program in September of 2021
 
 Some blogs from previous shadows:
 
+1. [My experience shadowing an Engineering Director for a week](https://www.linkedin.com/pulse/my-experience-shadowing-engineering-director-week-mrunal-kapade/) - [Mrunal Kapade](https://linkedin.com/in/mrunalk)
 1. [What I Learned as a Development Director](https://awkwardferny.medium.com/what-i-learned-as-an-engineering-director-shadow-at-gitlab-1a783cb564d0) - [@fjdiaz](https://gitlab.com/fjdiaz)
 1. [The engineering director shadow experience at GitLab](https://about.gitlab.com/blog/2022/04/01/engineering-director-shadow/) - [@warias](https://gitlab.com/warias)
 
@@ -149,16 +150,14 @@ No, not at this time.
 | [Toni Lovejoy](https://linkedin.com/in/tonilovejoy) | Non-GitLab shadow - Developer from [Circulo Health](https://www.circulohealth.com/) |
 | [Anshul Riyal](https://gitlab.com/anshulriyal) | [GitLab Hero Community Contributor](https://about.gitlab.com/community/heroes/members) |
 | [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](https://about.gitlab.com/company/team/?department=core-team) |
+| [Mrunal Kapade](https://linkedin.com/in/mrunalk) | Non-GitLab shadow - Engineering Leader |
+| [Alexander Chueshev](https://gitlab.com/achueshev) | Development: [GitLab ModelOps AI Assisted](https://about.gitlab.com/company/team/?department=modelops-ai-assisted) |
 
 ## Schedule
 
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| Jan 30 | [Mrunal Kapade](https://linkedin.com/in/mrunalk) | Non-GitLab shadow - Engineering Leader |
-| Feb 6| [Alexander Chueshev](https://gitlab.com/achueshev) | Development: [GitLab ModelOps AI Assisted](https://about.gitlab.com/company/team/?department=modelops-ai-assisted) |
-| Feb 13 | Available | |
-| February 20|  Available | |
 | February 27|  Available | |
 | March 6    |  Available | |
 | March 13   |  Available | |
