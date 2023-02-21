@@ -26,6 +26,9 @@ As part of [GitLab Support on-call](/handbook/support/on-call/), Support Manager
 1. Acting as a [notification point for security incidents](#act-as-a-notification-point-for-security-incidents)
 1. Help avoid SLA breaches. See [Working on Tickets](/handbook/support/workflows/working-on-tickets.html) for details.
 
+**Note:** You (or the CMOC/CEOC) may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices.html) to action these requests.
+
+
 ## Handling customer emergencies and incidents
 
 The [Support Engineer on-call](/handbook/support/on-call/) is the first responder for customer emergencies. Managers support this work as follows:
