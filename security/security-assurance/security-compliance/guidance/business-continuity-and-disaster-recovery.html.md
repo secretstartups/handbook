@@ -57,7 +57,7 @@ The business continuity and disaster recovery plan is comprehensive by nature an
 * [Business Continuity Exercise Runbook Template](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/new?issuable_template=Business_Continuity_Exercise_Runbook)
 * [Business Continuity Plan for Malicious Software Attack(s)](https://gitlab.com/gitlab-com/business-ops/Business-Operations/-/issues/264)
 * [Business Continuity Test - April 30th, 2020 - Retrospective](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/1838)
-* [Business Impact Analysis in the handbook](/handbook/business-ops/gitlab-business-continuity-plan#business-impact-analysis)
+* [Business Impact Analysis in the handbook](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html)
 * [Data Protection Impact Assessment (DPIA) Policy](/handbook/legal/privacy/dpia/)
 * [Data Protection Impact Assessments or DPIAs](/handbook/legal/privacy/#privacy-terms)
 * [Data Protection Office and the Privacy Office](https://about.gitlab.com/privacy/#data-protection)	
