@@ -420,6 +420,8 @@ To make a change request to the dashboard, please submit an issue to the [Buyer 
 
 [#dex-standup](https://app.slack.com/client/T02592416/C048CL8D6BY/thread/CBMQE38E5-1667249358.287239)
 
+[#dex-alerts](https://gitlab.slack.com/archives/C04N3EBAR36)
+
 [#marketing](https://gitlab.slack.com/archives/C0AKZRSQ5)
 
 [#website](https://gitlab.slack.com/archives/C62ERFCFM)
@@ -443,7 +445,8 @@ Beginning in FY23Q3, all changes to the marketing site made by team members outs
 ### Things we don't do
 
 1. **Content changes**. You can do these yourself, it's one of the many awesome things about GitLab!
-    1. Here's our documentation about how to use [GitLab's Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/)
+    1. [Here's a quick video](https://www.youtube.com/watch?v=XbQ5JuiJBWQ) on how to edit content for the marketing site. The video walks through the proccess of editing /competiton pages, but the same steps apply to any marketing page.
+        1. Documentation about how to use [GitLab's Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/)
     1. Want to learn more about our CMS? [Here's the documentation](https://about.gitlab.com/handbook/marketing/netlifycms/)
 2. **Create content**. You can collaborate with our excellent [Global Content team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/) for these needs.
 3. **Create branded assets, custom graphics, illustrations**. Our [Brand design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/) is so good at this, you definitely want their expertise.
@@ -465,7 +468,6 @@ We love collaborating on work that drives our North Star and supporting metrics.
     <li>@meganfilo</li>
     <li>@miraclebanks</li>
     <li>@ndubord</li>
-    <li>@tywilliams</li>
 </details>
 
 ## Digital Experience FAQ
