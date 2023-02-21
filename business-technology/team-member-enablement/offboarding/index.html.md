@@ -41,7 +41,10 @@ See the detailed steps that are linked where applicable.
 
 1. Coordinate with your manager to ensure all important Google Docs stored in your `My Drive` have been migrated to a `Shared Drive` where appropriate.
 
-    - **Standard Process:** Your manager will gain access to all `My Drive` documents after your last day of employment via [Google Drive Sharing](https://support.google.com/drive/answer/2494822?hl=en&ref_topic=7000947). 
+    - **Standard Process:** Your manager will gain access to all `My Drive` documents after your last day of employment via [Google Drive Sharing](https://support.google.com/drive/answer/2494822?hl=en&ref_topic=7000947). Managers: The way that files are shared is different than Mail and Calendar. You are given editor access to everything in the Former Team-Members **My Drive** and can access them by going into Google Drive and in the search box type the following to see their files
+
+    ```owner:theiremail@gitlab.com to:youremail@gitlab.com```
+
     - **Proactive Process:** If you wish to share your files with your manager prior to your last day, you can do this by granting them access read or write access to files and folders from your `My Drive` via Google Drive Sharing.
         - **Instructions:** [How to use Google Drive Sharing](/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace/google-drive-sharing#how-to-share-google-drive-files)
 
