@@ -23,6 +23,12 @@ On a high-level goal, we are trying to understand what happened in a given time 
 
 We suggest for teams to pause and reflect on what transpired and encourage collaboration to distinguish between what worked from what didn't work during a particular time period. It also allows for Solution Architecture teams to re-align given field observations coming from our customers.
 
+The following diagram shows the Solution Architecture Retrospective Overview. 
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/da94d876-9df6-4916-b5f4-a48d0f5fea99" id="eS_y6JdDjATk"></iframe></div>
+
+Solution Architecture Retrospective feedback critically impacts customers and other cross-functional teams, including Product, Sales and Marketing. Based on the retrospection insights, Solution Architects can improve product alignment and prioritisation. Apart from the Solution Architecture team, many other cross-functional teams will benefit from Solution Architecture Retrospection Feedback and use it to improve internal alignment and enhance the customer-centric approach. 
+
 
 ## What is an agile retrospective feedback session?
 
