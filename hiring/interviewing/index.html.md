@@ -58,7 +58,7 @@ Within Prelude, interviewers can set their interviewing availability, set daily 
 **Note** - if you cannot log in, it may be because you do not have a Greenhouse account, which is required. Please submit an Access Request if this is the case for you.
 - Scroll down to add notes and adjust the dates and times to match your preferences. Then ensure that your time zone is correct so that it matches your availability.
 
-![Interviewing availability](sites/handbook/source/handbook/hiring/interviewing/Availability.png)
+![Interviewing availability](sites/handbook/source/handbook/hiring/interviewing./Availability/png)
 
 **_Examples of helpful notes include:_**
 - “Can schedule 1 hour outside of availability with advance notice”
@@ -68,11 +68,11 @@ Within Prelude, interviewers can set their interviewing availability, set daily 
 
 Additionally, you can help us understand which meetings are moveable and which are not. We’ve set up some recommendations in your Prelude account to get you started, but you can adjust these preferences yourself.
 
-![Scheduling conflicts](sites/handbook/source/handbook/hiring/interviewing/Conflicts.png)
+![Scheduling conflicts](sites/handbook/source/handbook/hiring/interviewing./Conflicts/png)
 
 In Preferences, interviewers also have the ability to set daily and weekly Interview Limits. See screenshot below for an example. If you need assistance in setting this preference, please reach out to ces@gitlab.com as we can set these for you as well.
 
-![Interview limits](sites/handbook/source/handbook/hiring/interviewing/Limits.png)
+![Interview limits](sites/handbook/source/handbook/hiring/interviewing./Limits/png)
 
 ## Greenhouse
 
