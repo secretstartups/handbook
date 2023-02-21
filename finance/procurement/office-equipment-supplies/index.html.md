@@ -26,7 +26,7 @@ Team members who have started during the year before this expense policy took ef
 
 ### All Team Members- 500 USD (or equivalent local currency) Refresh Guidelines
 1. These amounts were set after a thorough analysis and review of team members’ expense data during the previous four years and benchmarked with other remote companies.  Anything over this amount will be at the expense of the team member and no exceptions will be made.
-2. This is a yearly refresh amount.  It will reset at the beginning of each year.
+2. This is a yearly refresh amount.  It will reset at the beginning of each fiscal year (202X-02-01 to 202Y-01-31).
 3. Any unused funds will not roll over to the next year. 
 4. We want you to do you and refresh your office the way you want it.  There is no restriction regarding which office equipment you may purchase, with the exception of Airpods (they are highly discouraged and not reimbursable).  Please note that these purchases are still reviewed by your manager and accounting teams, and any misappropriation of these funds will be flagged.
 
