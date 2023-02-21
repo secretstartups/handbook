@@ -55,7 +55,7 @@ Rules define actions to take, based on the project categories. These actions are
 
 | Categories | Actions | 
 | -------- | ----------- |
-|  All except `deprecated` | Download [Dependencies] (including if no category is defined) |
+|  All (even if no category is defined) | Download [Dependencies] |
 |  `product`, `library` \| `use_pat` \| `website` \| `api/service` \| `green/yellow/red-data` \| `3rdparty` | Download [Vulnerability Reports], [Dependencies], [Protected branches], and [CI/CD configuration] |
 |  `fork` | Download [Protected branches] |
 
