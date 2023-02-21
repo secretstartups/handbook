@@ -96,9 +96,10 @@ This position reports to the [Security Manager, Application Security](#security-
 The role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Application Security Engineer Responsibilities
-* Includes all [Senior level responsibilities listed](#senior-application-security-engineer-responsibilities).
+* Serve as mentor to other AppSec team members, providing guidance and support.
+* Ability to assist in [Senior level responsibilities](#senior-application-security-engineer-responsibilities) if needed.
 * Take initiative and drive changes in our bug bounty program which position us as the leading authority amongst other programs.
-* Become a significant stakeholder on improving security releases, lead and influence cross-functional positive changes.
+* Lead and influence cross-functional positive changes across the Security organization.
 * Drive the most difficult or highly complex application security reviews and threat modeling. Provide expert guidance and direction for other team members when they encounter challenges in their security reviews. Own documentation and procedures surrounding application security reviews as well as lead by example for what successful application security reviews look like.
 * Scale application security by developing automated security testing or centralized security libraries which scale directly with developers and enable them to more easily write secure code.
 * Champion recruiting activities.
