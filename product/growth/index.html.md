@@ -127,10 +127,6 @@ engineering team may ship smaller improvements independently of Manage's direct 
 and - like a contribution coming from the wider community - ultimately own the final result.
 
 ### UX
-
-#### Product Designer Assignments
-* Matej Latin: Activation
-* Kevin Comoli: Acquisition
  
 
 #### How UX participates in milestone planning 
