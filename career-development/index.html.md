@@ -360,6 +360,29 @@ subgraph Based on Merit &amp; Company Need
   click eng:efi "/job-families/engineering/infrastructure/engineering-fellow/";
 ```
 
+#### Incubation Engineering Department
+
+```mermaid
+  graph LR;
+
+  subgraph Merit Based
+  inc:int(Intermediate Incubation Engineer) --> inc:snr(Senior Incubation Engineer);
+  end
+
+  subgraph Based on Merit &amp; Company Need
+  inc:snr(Senior Incubation Engineer)-->inc:stf(Staff Incubation Engineer);
+  inc:stf(Staff Incubation Engineer)-->inc:pre(Principal Incubation Engineer);
+  inc:dir(Director, Incubation Engineering)-->inc:vp(VP of Incubation Engineering);
+  end
+
+  click inc:int "/job-families/engineering/incubation/engineer/#incubation-engineer";
+  click inc:snr "/job-families/engineering/incubation/engineer/#senior-incubation-engineer";
+  click inc:stf "/job-families/engineering/incubation/engineer/#staff-incubation-engineer";
+  click inc:pre "/job-families/engineering/incubation/engineer/#principal-incubation-engineer";
+  click inc:dir "/job-families/engineering/incubation/management/#director-incubation-engineering";
+  click inc:vp  "/job-families/engineering/incubation/management/#vp-of-incubation-engineering";
+```
+
 ## Apprenticeship for Learning
 
 Typically, an apprenticeship provides an individual with an overview of a position or field over a short period of time. It’s surface-level learning geared towards team members who are still exploring their interests and deciding what options they’d like to pursue. If the field of interest, it's subject matter experts and the department they want to learn more about can support this effort, then this offers a good opportunity for an internship. For more information on the process please review this handbook section on [Internship for Learning](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internship-for-learning).
