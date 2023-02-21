@@ -31,14 +31,14 @@ This is not meant to limit creativity. It's a [boring](/handbook/values/#boring-
 | Publish Week 	| Author & Topic	|
 |--------------	|------------------ |
 | 2023-02-06   	| [Jeremy Wagner](https://gitlab.com/jeremywagner) - How to deploy a React application to AWS S3 using GitLab |
-| 2023-02-13   	|        	        |
+| 2023-02-13   	| SKO      	        |
 | 2023-02-20  	| [Julie Byrne](https://gitlab.com/juliebyrne) - Getting Started with GitLab Security |
-| 2023-02-27 	|        	        |
-| 2023-03-06   	|        	        |
-| 2023-03-13  	|        	        |
+| 2023-02-27 	| [Noah Ing](https://gitlab.com/noah.ing) - Terraform Multi Environments with GitLab      	        |
+| 2023-03-06   	| [Siddharth Mathur](https://gitlab.com/smathur-gl) - TBD |
+| 2023-03-13  	| [Sophia Manicor](https://gitlab.com/smanicor) - TBD  |
 | 2023-03-20  	|        	        |
 | 2023-03-27   	|        	        |
-| 2023-04-03   	|        	        |
+| 2023-04-03   	| [Cailey Pawlowski](https://gitlab.com/cpawlowski) - TBD  |
 | 2023-04-10   	|        	        |
 | 2023-04-17   	|        	        |
 | 2023-04-24  	|        	        |
