@@ -50,6 +50,7 @@ This is not meant to limit creativity. It's a [boring](/handbook/values/#boring-
 | 2022-08-02  	| [Madou Coulibaly](https://gitlab.com/madou) and [Joe Randazzo](https://gitlab.com/jrandazzo) -  [How to provision dynamic review environments using merge requests and Argo CD](/blog/2022/08/02/how-to-provision-reviewops/)      |
 | 2022-09-23  	| [Joe Randazzo](https://gitlab.com/jrandazzo) -  [CI/CD Modernization with GitLab](https://www.youtube.com/watch?v=QGAaif8lY0A&ab_channel=GitLabUnfiltered)     
 | 2022-10-06   	| [Jeremy Wagner](https://gitlab.com/jeremywagner) -  [How to automate testing for a React application with GitLab](/blog/2022/11/01/how-to-automate-testing-for-a-react-application-with-gitlab/)     |
+| 2022-01-27   	| [Sarah Bailey](https://gitlab.com/sbailey1) -  [All About The Merge Request](https://www.youtube.com/watch?v=eTIVgyknA9w)     |
 
 ## DRI rotation
 
