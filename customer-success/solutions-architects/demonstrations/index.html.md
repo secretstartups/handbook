@@ -27,9 +27,9 @@ Solutions Architects are occasionally called on at a moments notice to give a de
 
 - The [GitLab Demo Systems](/handbook/customer-success/demo-systems/) provides a catalog of demos and the sandbox infrastructure for performing demos.
 - The [GitLab.org Group level](https://gitlab.com/groups/gitlab-org/-/roadmap) clearly represents GitLab Epics, Roadmaps and cross-project issue views used for planning releases
-- A [GitLab.com project](https://gitlab.com/jkrooswyk/joel-springsample/boards/579466) driven by Auto DevOps which includes a populated issue board as well as an active Merge Request is highly useful for describing value of workflow utilizing GitLab Auto DevOps for build, test, security and review
+- A [GitLab.com project](https://gitlab.com/jkrooswyk/joel-springsample/-/boards/579466) driven by Auto DevOps which includes a populated issue board as well as an active Merge Request is highly useful for describing value of workflow utilizing GitLab Auto DevOps for build, test, security and review
 - This [GitLab.com project](https://gitlab.com/gitlab-examples/security/security-reports/merge_requests/2) is commonly utilized specifically for security discussions
-- The [production monitoring for GitLab.com](https://gitlab.com/charts/gitlab/environments/190276/metrics) is useful for any discussion regarding custom and in-app monitoring
+- The [production monitoring for GitLab.com](https://gitlab.com/gitlab-org/charts/gitlab/-/metrics?environment=190276) is useful for any discussion regarding custom and in-app monitoring
 - The [production Grafana instance](https://dashboards.gitlab.com/d/000000159/ci?refresh=5m&orgId=1) showing GitLab Runner details is a great way to represent the art of the possible as it relates to monitoring and dashboards
 - The GitLab [Direction](/direction/) page in the Handbook is often beneficial for future-looking product vision questions and discussions about upcoming features
 - Optional: [Integrations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/integrations/) may be loaded and ready to discuss by leveraging the standard demo environments
@@ -67,12 +67,12 @@ There are a variety of locations for demo groups and projects today. We are in t
 
 Today, demo groups and projects are split between several distinct locations.  We are in the process of building out a [Demo Catalog Project](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/demo-catalog) to easily search for existing demos.  Please consider contributing to the demo catalog.  Instructions can be found within the project README.  While this is being built out, here are various locations where you will find demo groups and projects:
 
-1. [GitLab Demo Portal Catalog Libraries](https://gitlabdemo.com/catalog/libraries) - provides demo scenarios with corresponding videos and project build out on the GitLab demo environment. Some demo projects also have wiki pages with additional resources, such as a link to a slide presentation, demo script, and objection handling.
+~~1. [GitLab Demo Portal Catalog Libraries](https://gitlabdemo.com/catalog/libraries) - provides demo scenarios with corresponding videos and project build out on the GitLab demo environment. Some demo projects also have wiki pages with additional resources, such as a link to a slide presentation, demo script, and objection handling.~~
 1. [GitLab.com](https://gitlab.com) - there are a variety of groups and projects with Content
     - [GitLab Examples](https://gitlab.com/gitlab-examples) are used by product groups for feature validation, speed runs, demos, and feature showcasing in docs. The [GitLab CI/CD Examples documentation](https://docs.gitlab.com/ee/ci/examples/) points our customers to these for their own use as well.
 
 - [Guided Explorations](https://gitlab.com/guided-explorations) - has projects for a variety of topics, from language-specific feature flag examples, various DevOps patterns, pipeline tips, tricks, and hacks for windows, and more.
-- [GitLab CS Tools](https://gitlab.com/gitlab-cs-tools) - group that provides projects for GitLab cs automation and migration tools
+- [GitLab CS Tools](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools) - group that provides projects for GitLab cs automation and migration tools
 - [Customer Success Demos](https://gitlab.com/gitlab-com/customer-success/demos) - centralized location for demos used by Customer Success, including a set of golden repos for different application types, security demos, and more.
 
 ## Slide Decks for SA Demos
