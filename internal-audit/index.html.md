@@ -106,7 +106,7 @@ The scope of the IA Team’s activities encompasses, but is not limited to, obje
 
 The Company’s Vice President, Internal Audit will report periodically to E-group and the [Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) regarding: 
 * The IA Teams plan and performance relative to its plan; 
-* The IA Team’s conformance with The IIA’s Code of Ethics and Standards, and action plans to address any significant conformance issues; 
+* The IA Team’s conformance with The IIA’s [Code of Ethics](https://docs.google.com/document/d/1gmmkxqsz8BKYWcq9tY-3nSuS9IL91ajrQBKliD82Vh4/edit) and Standards, and action plans to address any significant conformance issues; 
 * The Company’s significant risk exposures and control issues, including fraud risks, governance issues, and other matters requiring the attention of, or requested by, the [Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/); 
 * Results of audit engagements or other activities; 
 * Resource requirements; and 
@@ -142,7 +142,7 @@ The Company’s Vice President, Internal Audit has the responsibility to:
 
 #### Quality Assurance and Improvement Program 
 
-The IA Team will maintain a quality assurance and improvement program that covers all aspects of the IA Team. The program will include an evaluation of the IA Team’s conformance with the Standards and an evaluation of whether internal auditors apply The IIA’s Code of Ethics. The program will also assess the efficiency and effectiveness of the IA Team and identify opportunities for improvement. 
+The IA Team will maintain a quality assurance and improvement program that covers all aspects of the IA Team. The program will include an evaluation of the IA Team’s conformance with the Standards and an evaluation of whether internal auditors apply [The IIA’s Code of Ethics](https://docs.google.com/document/d/1gmmkxqsz8BKYWcq9tY-3nSuS9IL91ajrQBKliD82Vh4/edit). The program will also assess the efficiency and effectiveness of the IA Team and identify opportunities for improvement. 
 
 The Company’s Vice President, Internal Audit will communicate to E-group and the [Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) on the IA Team’s quality assurance and improvement program, including results of internal assessments (both ongoing and periodic) and external assessments conducted at least once every five years by a qualified, independent assessor or assessment team from outside the Company.
 
