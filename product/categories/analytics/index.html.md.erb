@@ -52,14 +52,33 @@ The product department determines our [investment](https://internal-handbook.git
 * We don't currently maintain 1:1:1:1 ratio for the additional Software Engineer in Test (SET) DRI but desire to have singular stable-counterparts between SETs and product groups.
 * We will strive to maintain at least 6 developers (FE + BE) in each product group
 
-
 ### SaaS Performance Indicators
 TBD
+
+### Analytics Stack ownership
+
+The [Analytics Stack](https://gitlab.com/groups/gitlab-org/-/epics/8562) drives the functionality required to operate Product Analytics features within GitLab.
+
+The Analytics Stack is currently composed of the following functionality:
+
+- Event ingestion: Jitsu, [to be replaced by Snowplow](https://gitlab.com/groups/gitlab-org/-/epics/9865)
+- Data storage: Clickhouse
+- Data querying: Cube
+
+An ownership model is explicitly called out as different groups within the Analytics Section are responsible for different pieces of functionality in the Analytics Stack:
+
+| Functionality | Owner | Key Stakeholder |
+|---|---|---|
+| Event ingestion | Product Intelligence | Product Analytics |
+| Data storage | Product Analytics | Product Intelligence |
+| Data querying | Product Analytics | Product Intelligence |
+
+With this model, Owners are required to notify Key Stakeholders of significant changes to any Functionality, given that there may be impact to other pieces of Functionality working upstream/downstream.
 
 ## Meetings
 TBD
 
-### Analtics Section Manager Meetings
+### Analytics Section Manager Meetings
 TBD
 
 #### Async Meeting
