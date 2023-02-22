@@ -181,7 +181,7 @@ needs, and that might save you and the customer time and effort as well.
 
 ### 1. How many new tickets should I pick up each week?
 
-Each week, each Support Engineer should aim at least to meet, and preferably to exceed, [the
+Each week, every Support Engineer should aim at least to meet, and preferably to exceed, [the
 appropriate baseline](/handbook/support/support-engineer-responsibilities.html#ticket-baseline) from the following list for the number of first responses:
 
 - **Self-managed focus: 6 tickets**
@@ -195,7 +195,7 @@ are available, which will result in us exceeding our goal.
 
 #### What if I can't meet baseline?
 
-There will be times when you may be leading an escalation or otherwise working through challenging tickets and you cannot take on new ticket assignment. This is okay! The key is to make sure you have coordinated with your group and collaborated with your Manager so they are aware of the risks to our team.
+There will be times when you may be leading an escalation, working through challenging tickets or focus on non-ticket work and you cannot take on new ticket assignment. This is okay! The key is to make sure you have coordinated with your SGG and Manager so they are aware of the risks to our team.
 
 
 ### 2. What can I do when I'm stuck and I really need help?
