@@ -17,8 +17,7 @@ title: "Marketing Finance"
 * [Allocadia (Marketing Financial Planning tool)](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/)
  
 ## Allocadia Training Materials
-* [Recorded Allocadia Training - 2022-02-17](https://youtu.be/KzalNgirORo)
-* [Allocadia Training Deck - 2022-02-17](https://docs.google.com/presentation/d/1PZFYEl7mmQp_TIlrNEkA6lL3A3lHQu_iBecYkQVvJ3A/edit?usp=sharing)
+* [Allocadia Training Deck - 2023-02-20](https://docs.google.com/presentation/d/1ZzT_0aekJNFmTIYMvV3jn8TOxh0V-4IskPIWQ49Vd9o/edit?usp=sharing)
  
 ## Finance Business Partner Alignment
  
