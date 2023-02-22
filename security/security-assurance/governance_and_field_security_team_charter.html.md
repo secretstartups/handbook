@@ -18,9 +18,9 @@ The mission of the Governance and Field Security team is to: (i) drive the devel
 
 Please refer to the following roles and responsibilities for Governance and Field Security team members:
 
-### [Goverance team member roles and responsibilities](https://about.gitlab.com/job-families/engineering/security-governance/)
+### [Goverance team member roles and responsibilities](https://about.gitlab.com/job-families/security/security-governance/)
 
-### [Field Security team member roles and responsibilities](https://about.gitlab.com/job-families/engineering/field-security/)
+### [Field Security team member roles and responsibilities](https://about.gitlab.com/job-families/security/field-security/)
 
 ## High Level Core Competencies
 
