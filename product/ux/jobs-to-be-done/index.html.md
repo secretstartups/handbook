@@ -37,47 +37,71 @@ All GitLab Jobs to be Done can be found in the [jobs-to-be-done.yml file](https:
 
 First, let's set the terminology we use for JTBD.
 
-- **Job**: Something a customer wants to accomplish. For example, the main job of a GitLab customer could be stated as, "build and deploy software." The job always starts with a verb.
 - **Job performer**: The person who does the job. Usually, we talk about these people in terms of personas. They are [buyers](/handbook/product/personas/#buyer-personas), [developers](/handbook/product/personas/#sasha-software-developer), [sysadmins](/handbook/product/personas/#sidney-systems-administrator), and so on.
-- **Job statement**: A succinct statement that brings together the circumstance, goal, and outcome of a job.
-- **Task**: A step in the process of completing a job.
-- **Need**: Requirements for the job. Can be a system, business, or user requirement. Examples may include words like fast, inexpensive, efficient, less, more, must have, should have.
+- **Job**: Something a customer wants to accomplish. For example, the main job of a GitLab customer could be stated as, "build and deploy software." The job always follows the pattern (verb + object + clarifier) and is also refered to as the _job statement_.
 - **Situation**: Describes the circumstances a person is in when they need a job done.
-- **Outcome**: The desired end state and/or feeling that a job performer has for doing a job.
+- **Need**:A job performer's desired outcome or end state. The need statement follows the pattern (direction + measure + object + clarifier), for example, _minimize the time it takes to review an MR_.
+- **Job story**: A succinct statement that brings together the circumstance, goal, and outcome of a job.
+- **Main job**: The primary job the preformer want to accomplish.
+- **Small job**: A smaller, more practical job that corresponds roughly to steps or stages in a main job.
+- **Micro-job**: A task related to a little job.
 
 ## How to write a JTBD
 
-When we refer to JTBD in our work at GitLab, we are referring to the **job statement**. A job statement provides the context of what is happening while someone is trying to accomplish a goal. In contrast, a job is _only_ the thing they want to accomplish. A job statement includes: the job, the situation, and the outcome. 
+When we refer to JTBD in our work at GitLab, we are referring to the **job story**. A job story provides the context of what is happening while someone is trying to accomplish a goal. In contrast, a job is _only_ the thing they want to accomplish. A job story includes: the job, the situation, and the need.
 
-In the broader industry, what we call a _job statement_ is usually referred to as a _job story_. Why do we call job stories "job statements" at GitLab? Because "job stories" sounds too similar to "user stories," and we tend to fall into the trap of writing those, instead. That doesn't give us room to innovate and ensure that we're helping people accomplish the job.
+We write our job stories using the standard format:
 
-We write our job statements using the standard format:
+**"When [situation], I want to [job], so I can [need/outcome]."**
 
-**"When [situation], I want to [job], so I can [outcome]."**
+Example: When I am on triage rotation, I want to address the business-critical risks in my organizations assets, so I can minimize the likelihood of a security incident.
+
+Job stories are modular, allowing us to innovate and solve problems in different ways. A practical application of this flexibility is to craft the job story at a lower altitude making it more applicable to the problem area we are addressing. Keep in mind that the situation and need will not change from the main job story; however, by including more detail in the form of the job stage or step [small job(s)] and narrowing our job (I want to) down to the micro-job level, we achieve a job story that can guide our work more tactically.
+
+**"When [situation + job stage/step], I want to [micro-job], so I can [need]**
+
+Example: When I am on triage rotation and prioritizing business-critical risks, I want to review the most recent risks detected in my assets, so I can minimize the likelihood of a security incident.
 
 JTBD are difficult to get right. Before you begin, you have to have a clear understanding of what someone is wanting to accomplish, and that understanding should be validated with past research and customer conversations.
 
-It is crucial to ensuring that the job statements are grounded in experience and not theory. We must have a high level of confidence in our job statements before we can put them into use.
+It is crucial to ensuring that the job stories are grounded in experience and not theory. We must have a high level of confidence in our user's jobs, circumstances, and needs before we can put them into use.
 
 ## Determining the scope of a JTBD
 
-Job statements can be written at different levels or altitudes. 
+Job stories can be written at different levels or altitudes. For the majority of our work, we write job stories for stage groups as we craft experiences for features or sets of related features. If you're writing a job story for your stage group, consider this guiding principle to determine the appropriate altitude: If the job is applicable to more than 3 user types, it's likely the altitude is set too high for a small job (consider whether it is a main job, instead).
 
 ### Main Jobs
 
 To help determine longer-term product direction, JTBD can be written for an entire stage or across multiple stages.
 
-A main job is often expressed as a utilitarian goal. It’s an act that will be performed and should have a clear end state&mdash;the “done” part of JTBD. It shouldn’t include adjectives like quick, easy, or inexpensive (because those are considered to be needs) or the metrics by which job performers compare solutions (this is handled separately). The main job is also different from your marketing message or value proposition statement, which tends to be persuasive to evoke an emotion. 
+A main job is often expressed as a utilitarian goal. It’s an act that will be performed and should have a clear end state&mdash;the “done” part of JTBD. It shouldn’t include adjectives like quick, easy, or inexpensive (because those are considered to be needs) or the metrics by which job performers compare solutions (this is handled separately). The main job is also different from your marketing message or value proposition statement, which tends to be persuasive to evoke an emotion.
 
 Don’t define a main job too narrowly. A small job will limit your field of vision, but also will constrain your efforts. When in doubt, go broader, and define a main job that is larger rather than smaller. Ask “why?” and “how?” to move the level of granularity of the main job up or down.
 
-Example: Release secure code
+Example: Address business-critical risk in my organization's assets.
 
-### Sub-Jobs
+### Small jobs
 
-For the majority of our work, we write job statements for stage groups as we craft experiences for features or sets of related features. If you're writing a job statement for your stage group, consider this guiding principle to determine the appropriate altitude: If the job is applicable to more than 3 user types, it's likely the altitude is set too high for a sub-job (consider whether it is a main job, instead).
+Small jobs are more practical and correspond to the main job's stages or steps. Small jobs answer the question, "How does the job get done?" in the context of the main job and approximate the process a user moves through to accomplish their goal. Each job step is a small job.
 
-Examples: Identify vulnerabilities that can lead to an exploit; Identify applications most at risk in an organization
+Examples: _Prioritize_ business-critical vulnerabilities in my assets; _Determine_ the impact of a business-critial risk in my application; _Escalate_ a business-critical risk for remediation.
+
+### Micro-jobs
+Tasks a user may undergo to accomplish their small job. At this level, we define the sub-processes or actions a user will take to complete a step (small job) of their main job.
+
+Examples of tasks related to the small job, _Prioritize business-critical vulnerabilities in my assets_; Review the most recent risks detected in my assets; Refine the list of risks by relevancy; Refine the list of risks by impact.
+
+### JTBD Hierarchy
+
+Using our examples, we can produce a JTBD hierarchy, confirming we operate at the right altitude.
+
+- **Main job**: Maintain an acceptable level of risk in my organizations assets.
+- **Small job**: Prioritize business-critical vulnerabilities in my assets.
+- **Micro jobs**: Review the most recent risks detected in my assets; Refine the list of risks by relevancy; Refine the list of risks by impact.
+
+_JTBD hierarchy diagram_
+
+![JTBD hierarchy diagram](JTBD_Diagram.png)
 
 ## Prioritizing JTBD
 
@@ -89,20 +113,18 @@ Often, we find there are many JTBD for one category. We are striving to have 2-3
 - Conduct [generative problem validation research](/handbook/product/ux/ux-research/problem-validation-and-methods/#when-to-use-problem-validation) using broad questions. For example, ask questions like, "tell me what you do as a software engineer."
 - Run abbreviated 30-minute job interviews with a minimum of 5 participants (direct questions). For example, ask questions based on the JTBD such as, "tell me about the last time you made an architectural decision. What went well? What didn't go so well?" Document your interview using the [JTBD Interview Note template](https://docs.google.com/spreadsheets/d/e/2PACX-1vSX5b57MKfLFl59TfiN61rWNkm2Qctb8cVy40JUGsF6FyEcy3jhPBUxY-4D3exXxqXPwwBkcSOb0HT8/pub?output=xlsx).
 
-## JTBD, user stories, and tasks
+## Job stories and user stories
 
 Read "[What is and isn't a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/#what-is-a-jtbd)".
 
-Job statements are different than user stories and tasks. They are designed to be persona, product, and solution agnostic and have a close relationship with user stories and tasks. This allows us to think more deeply about the context, rather than just a _role with a goal_.
+[Job stories differ from user stories](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) because they are persona, product, and solution agnostic. This allows us to think more deeply about the user's context, motivations, and needs rather than just a _title, task, and goal_.
 
 _Example:_
 
-- **Job:** Help me to **make effective architectural decisions**.
-- **Job statement:** When my development ecosystem begins to mature, I want an overall understanding of my organization’s registries and specific package usage, so I can make effective architectural decisions.
-- **Task:** View a list of packages we use.
+- **Job**: Address business-critical risks in my organization's assets.
+- **Job story**: When I am on triage rotation, I want to address business-critical risks in my organization's assets, so I can minimize the likelihood of a security incident.
+- **User story**: As a Security Analyst, I want to address vulnerabilities in my applications, So that I can ensure there are no unattended risks.
 
-In its most basic form, you will have a job statement that is associated with one or more user stories that are made up of multiple tasks. You'll use each of these at different moments within the design process.
+Job stories offer a higher-level view of the main objective. However, when written at a lower altitude, they can serve the same function as user stories, guiding your solutions while keeping the main job, circumstances, and need in mind.
 
-Job statements offer a high-level view of the main objective. User stories guide your solutions as you create wireframes and tasks become the steps required to complete the job.
-
-If you want a detailed breakdown of each segement of the job statement, learn more about the [structure of a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-structure-a-jtbd).
+If you want a detailed breakdown of each segement of the JTBD, learn more about the [structure of a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-structure-a-jtbd).
