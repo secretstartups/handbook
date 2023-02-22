@@ -60,7 +60,7 @@ Expand your CI/CD knowledge while we cover advanced topics that will accelerate 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_1EbvurYOQL2mZILd1qU2pg)
 
 #### Holistic Approach to Securing the Development Lifecycle
-##### March 17th, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
+##### March 22nd, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
 
 Join this one-hour webinar to gain a better understanding of how to successfully shift security left to find and fix security flaws during development, and to do so more easily and with greater visibility and control than typical approaches can provide.
 
