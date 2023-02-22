@@ -160,20 +160,23 @@ deciding which of them to do first.
    to help
 1. Make sure that all new tickets in your group's view receive a meaningful
    first response within SLA
-1. Triage all "Needs-org" tickets to ensure the correct SLA is applied to the ticket
 1. Make sure your assigned tickets are all up to date and progressing
    appropriately
+1. Make sure there are no unassigned tickets in your group by:
+   1. Taking assignment if you have capacity
+   1. Asking others in the group to do so if you don't
+   1. [Bring the ticket to managers](/handbook/support/workflows/how-to-get-help.html#bring-the-ticket-to-managers) if the group is at capacity
 1. Help on tickets assigned to others in your group by:
    1. posting an internal note with relevant helpful information, OR
    1. answering questions from the assignee in your group Slack channel, OR
    1. asking the assignee if they'd like to pair on the ticket, OR
    1. responding directly to the customer, **preferably only if a response
       is needed urgently AND the assignee is unavailable to work the ticket**
-1. Help on tickets within your [FlexiPods](https://about.gitlab.com/handbook/support/workflows/working-with-pods.html) (if applicable)
 1. Attend to indirect ticket work you have to do, such as:
    - docs updates
    - issue creation or contributions
    - training
+1. Help on tickets within your [FlexiPods](/handbook/support/workflows/working-with-pods.html) (if applicable)
 1. Help on tickets outside of FlexiPods and assigned to other groups (Seniors may recognize if other groups are struggling and can decide if a group has the capacity to help)
 
 #### Maximizing group success
