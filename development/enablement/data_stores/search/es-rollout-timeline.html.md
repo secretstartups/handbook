@@ -12,7 +12,7 @@ title: Advanced Global Search Rollout on GitLab.com
 ## Steps and Enhancements
 
 - 2019-11-05: [Search security rapid action](https://gitlab.com/gitlab-org/gitlab/-/issues/35705) started.
-  - Advanced Global Search went through 3 rounds of enable-disable in the prior 2 months due to 3 security issues discovered by HackerOne only hours after going online. See [12.3.3](https://about.gitlab.com/releases/2019/10/02/security-release-gitlab-12-dot-3-dot-3-released/), [12.3.5](https://about.gitlab.com/blog/2019/10/07/security-release-gitlab-12-dot-3-dot-5-released/), and [12.4.1/12.3.6](https://about.gitlab.com/releases/2019/10/30/security-release-gitlab-12-dot-4-dot-1-released/).
+  - Advanced Global Search went through 3 rounds of enable-disable in the prior 2 months due to 3 security issues discovered by HackerOne only hours after going online. See [12.3.3](https://about.gitlab.com/releases/2019/10/02/security-release-gitlab-12-dot-3-dot-3-released/), [12.3.5](https://about.gitlab.com/releases/2019/10/07/security-release-gitlab-12-dot-3-dot-5-released/), and [12.4.1/12.3.6](https://about.gitlab.com/releases/2019/10/30/security-release-gitlab-12-dot-4-dot-1-released/).
   - Team decided to take a systematic approach to discover and fix issues.
   - [Rapid action weekly agenda](https://docs.google.com/document/d/1PW4x814ItUcgcsz9e6jCu1cTrOeB7zHSjANBiviH6ho/edit#heading=h.mjyv33y6vsrg).
   - All engineering attention (2 engineers) swarmed on the security rapid action.
