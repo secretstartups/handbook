@@ -50,6 +50,7 @@ To become a driver, submit an MR to this page adding yourself to the table below
 | **Jeremy Wagner**      | Americas SMB, Mid-Market     |
 | **Madou Coulibaly**    | EMEA SMB, Mid-Market         |
 | **Idir Ouhab Meskine** | EMEA Enterprise              |
+| **Alexander Dess**     | EMEA Enterprise              |
 | **Sameer Kamani**      | PubSec                       |
 | **Linc Williams**      | PubSec USN, USMC,DHA         |
 | **Ben Ridley**         | APAC PubSec                  |
