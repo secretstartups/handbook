@@ -18,117 +18,84 @@ twitter_creator: '@gitlab'
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The Account Based Marketing Team is responsible for the strategy and implementation of Account Based Marketing campaigns and tactics to drive pipeline from a key accounts list (developed in collaboration with Sales and Marketing). We approach ABM strategy with a data-driven approach, continually testing and evaluating success of campaigns and tactics, connecting closely throughout the process across marketing, sales, and SDR teams for a fully integrated approach.
-
-### Goals
-{: #goals}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-The goals for new first-order key account SAOs are derived from workbacks of sales pipeline projections and total accounts in the key account list. Attainment of these goals is a collaborative effort across ABM, Campaigns, Field Marketing, Sales, SDR, and Digital.
-
-### Key Metrics
-{: #key-metrics}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-- **North Star Metric:** Sales Accepted Opportunities (SAO) from New First Order Key Accounts
-- **Supporting Metrics:** Markenting Qualified Accounts (MQA), individual paid channel and campaign metrics
-
-## FY23 Plans
-
-To see an overview of the FY23 ABM Plan, GitLab team members can search Google Drive for `ABM FY23 Plan`.
-
-### OKRs
-{: #okrs}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-**OKRs = Objective + Key Result**
-
-#### FY23-Q3 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3192))
-
-- [Uplift engagement by 50% in 1:1 accounts and 30% in 1:few accounts](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/1059)
-- [Deliver 90 SAOs out of Key Account List](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3287)
-- [Refresh Key Account List with Sales](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3293)
-
-#### FY23-Q2 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2825))
-
-- [Deliver 90 SAOs from Key Account List](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2826)
-
-#### FY23-Q1 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2602))
-
-- [Update Key Account Account List in Collaboration with Sales](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2604)
-- [Update Demandbase Foundations](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2669)
-- [Define approach for integrated ABM campaigns between Marketing, SDR and Sales](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2668)
-
-#### FY22-Q4 OKRs ([Epic](https://gitlab.com/groups/gitlab-com/-/epics/1654))
-
-- [Harvest Leads from "Engaged with People" Accounts](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2491)
-- [Define approach (sales and marketing) for Ideal Customer Profile & Focus Account List](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2475)
-- [Build stronger integrations of data and automation for Demandbase and tech stack](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2495)
+ABM is a marketing strategy that concentrates resources on a set of target accounts. We create personalized campaigns designed to engage each account on a singular basis or a cohort of accounts based on specific attributes and needs of the accounts. The ultimate goal is for ABM to align with teams across Marketing and Sales to work in tandem to create personalized buying experiences for a mutually-identified set of high-value accounts — the goal for which is increased deal velocity and pipeline. Attainment of our KPIs and goals is a collaborative effort across ABM, Sales, XDR, Field Marketing, Digital Marketing, and Marketing Campaigns.
 
 ## Team Structure
 {: #team-structure .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* Jackie Gragnola - Senior Manager, Marketing Campaigns & ABM
-* Megan O'Dowd - Senior Account Based Markeitng Manager, Americas and Public Sector
-* Marci Geisler - Senior Account Based Marketing Manager, APAC and EMEA
+* Megan O'Dowd - Senior Account Based Markeitng Manager, ENT & MM for AMER and US Public Sector
+* Marci Geisler - Senior Account Based Marketing Manager, ENT & MM for APAC and EMEA
 
-### Responsibilities
-{: #responsibilities}
+### Key Metrics
+{: #key-metrics}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+- More specific details to come in this section as we work with MS&A to build out an ABM specific dashboard. 
+- Account progression and lift based on engagement/time on our website
+- Individual paid channel and campaign metrics
+- Lead conversion rate from INQ to MQL (only for leads that have the source of ABM)
+- Work with Field Marketing to drive X% of ABM Accounts to an
 
-[See Account Based Marketing Job Family](https://about.gitlab.com/job-families/marketing/account-based-marketing-manager/)
+## FY24 Strategy
+{: #fy24-strategy .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+To see an overview of the FY24 ABM Strategy, GitLab team members can review this [epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3532).
 
-- Strategize, execute, and optimize a data-driven ABM strategy to achieve sales goals
-- Develop and deploy multi-channel ABM campaigns, including crafting strategy, aligning internal teams, and project managing execution
-- Apply an experimentation mindset to ABM campaigns to drive, test, learn, and optimize
-- Iterate and optimize campaigns based on data and analysis of ABM campaigns and tactics
-- Collaborate with ABM leadership team (sales and marketing interlock) to select key accounts
-- Deliver account research and analysis to drive ABM strategies
+### FY24 Focus Countries
+{: #focus-countries .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+ABM team focus countries can be found [here](https://internal-handbook.gitlab.io/handbook/sales/globalization/#globalization) in the internal handbook. 
+
+## ABM Key Account List
+{: #abm-key-account-list .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Our key account list consists of Mid-Market and Enterprise accounts that the sales/XDR org are also heavily focusing on while still adhering to requirements from Marketing leadership. We work with Sales Strategy to understand key accounts for Sales. We also connect with Sales leadership to review our ABM Key Account list to ensure alignment and awareness.
+
+Requirements for our FY24 Key Account list can be found in the #fy24-strategy.
+
+### What accounts make up the AMB Key Account list
+{: #what-accounts-make-up-the-abm-key-account-list}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+You can determine what accounts are part of the ABM Key Account list via the `ABM Tier` field on accounts in SFDC. If this field is populated - the account (and the full hierarchy) is part of the ABM Key Account List. You can build a SFDC report using the `ABM Tier` field to see the full list. 
+
+There are two types of ABM Key Accounts
+
+#### Tier 1
+{: #tier-1}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+These accounts will have a custom marketing campaign built specifically around the needs of the account. An ABM manager will bring together Sales, XDR, Field Marketing, Marketing Campaigns, and Product Marketing to discuss the goals and needs of the account. From there, the ABM manager will build out a campaign and work closely with the other stakeholders on the call to assist or lean into activities they have running. These accounts are nominated by AVPs. As there are only two ABM managers, the nomination is a rotation between AMER, US PubSec, EMEA and APAC. Once an account hits the aligned goals established during the kick-off call, the ABM marketing campaign will still run (perhaps a lighter version) but recurring syncs and spend will lower.
+
+#### Tier 2
+{: #tier-2}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+These accounts will be grouped together based on specific attributes (industry, competitive intent, role, buying stage, etc.) A custom ABM campaign will be created aligning to the attributes of the account grouping. ABM will also align closely with Field Marketing and Marketing campaigns to drive to specific events/assets. We will have an issue for each cohort of accounts and will provide relevant updates/key metrics for visibility to all stakeholders and sales teams.
+
+## ABM Tactics
+{: #abm-key-account-list .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+- LinkedIn Sponsored Content
+     - Sponsored ads: Sponsored Content allows us to publish ads in the LinkedIn newsfeed across both desktop and mobile. We can target a specific audience of people which helps us raise awareness and drive quality leads.
+     - Sponsored InMail: targets specific audiences through the platform’s message center.
+- Display Advertising: Mobile and desktop advertisements served to a specific audience on a specific list of websites
+- [Drift](/handbook/marketing/marketing-operations/drift/): a chat platform to engage visitors on our webpages 
+- [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/): a global gifting platform 
+- [Terminus Email Signature Banners](/handbook/marketing/marketing-operations/terminus-email-experiences/): Ads within an email signature that are targeted based on email address domain. 
 
 ## Communication
 {: #communication .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-In line with GitLab's overall [communication guidelines](https://about.gitlab.com/handbook/communication/), ABM managers work through MRs first and issues second (in order to preserve documentation), and our slack channel [#abmteam](https://gitlab.slack.com/archives/CFBT2HSEB) is used for team updated and quick questions.
+Our slack channel [#abmteam](https://gitlab.slack.com/archives/CFBT2HSEB) is used for team updated and quick questions.
 
 The [#integrated-marketing](https://gitlab.slack.com/archives/C02AHJ999BN) channel is used for interaction with the larger Integrated Marketing team, and the [#im-hangout](https://gitlab.slack.com/archives/C01C8AQ625D) channel is used for weekly check-ins and connecting on a personal level.
-
-In between bi-weekly ABM Team calls:
-* **Updates** should be added to MRs when possible
-   - Add to #abmteam Slack
-   - Include link to MR (preferred) or issue
-* **Topics** that need input should be added as an MR when possible, with issues as a secondary option, and pinged in Slack.
-   - Add to #abmteam Slack
-   - Include link to MR (preferred) or issue
 
 ## Project Management
 {: #project-management .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-### Prioiritization
-{: #prioritization-boards}
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
-1. [ABM Team - Prioritization](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536730?label_name[]=ABM)
-   - At start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](/handbook/marketing/account-based-marketing/#prioritization-labels).
-   - Consider the time you have available in a 2 week period, recognizing meeting commitments and planned PTO.
-   - Only add issues to account for 70% of your available work hours. Don't max out at 100% since there will likely be things that arise and need immediate attention throughout milestone.
-   - *Ask yourself: considering realistic time this milestone, am I overcommitting? The first to drop from a milestone should be "Low" priority issues based on [definitions](/handbook/marketing/account-based-marketing/#prioritization-labels).*
-   - Discuss milestone with Jackie and if need help determining what to drop and how to communicate (potentially) to issue requestors.
-1. [ABM Team - Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?milestone_title=%23started&)
-   - Minimize the "Low" and "Medium" columns. Your focus should first be on the "Top" and "High" priority issues.
-   - Prioritize completion of "Top" priority issues, then "High" priority issues.
-
-### Boards
-
-* [Overall ABM Prioritization](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536730?label_name[]=ABM)
-* [Current Milestone Prioritization](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?scope=all&label_name[]=ABM&assignee_username=megan_odowd)
-   - [Megan's Current Milestone Priorities](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?scope=all&label_name[]=ABM&assignee_username=megan_odowd)
-   - [Marci's Current Milestone Priorities](https://gitlab.com/groups/gitlab-com/marketing/-/boards/3536724?label_name[]=ABM&assignee_username=marcigee)
-
-### Labels
-{: #labels}
+### ABM Labels in GitLab
+{: #abm-labels-in-gitlab}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Prioritization labels
@@ -169,7 +136,6 @@ We ask that teams request work using the following issue templates in the ABM pr
 Note on timelines: Requests will be committed to as bandwidth permits.
 
 **ABM Team Issues:**
-* [abm-milestoneplan](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm-milestoneplan) - opened by ABM manager and due prior to start of new milestone
 * [abm-wip-issue](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm-wip-issue) - opened by ABM team for issues being committed to in current milestone
 * [abm-plan-issue](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm-plan-issue) - opened by ABM team for issues in a future milestone
 * [abm-analysis](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm-analysis) - opened by ABM team to complete specific reporting and analysis
@@ -177,79 +143,14 @@ Note on timelines: Requests will be committed to as bandwidth permits.
 * [abm-qbr-takeaways](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=abm-qbr-takeaways) - opened by ABM team for QBRs
 * [finance-accruals](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=finance-accruals) - opened by ABM team manager in prep for end of quarter accruals process
 
-**Demandbase Issues:**
-* [demandbase-campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=demandbase-campaign) - opened by ABM team when new Demandbase campaign being defined (new audience and scope)
-* [demandbase-campaign-analysis](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=demandbase-campaign-analysis)
-* [demandbase-bug](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=demandbase-bug)
-* [demandbase-icp](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=demandbase-icp)
-* [demandbase-keyword-set](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=demandbase-keyword-set)
-
 **LinkedIn Issues:**
 * [linkedin-campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=linkedin-campaign)
 
-**Other Tactics:**
-* [sigstr-campaign](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=sigstr-campaign) - opened by AMB team to create ABM Sigstr campaign
-* [direct-mail](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=direct-mail) - opened by ABM team for Direct Mail campaigns
-* [content-syndication](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=content-syndication) - opened by ABM team for Content Syndication campaigns
-* [pathfactory-track](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=pathfactory-track) - opened by ABM team when new Pathfactory track is needed; when possible, use existing PF tracks
-* [pathfactory-explorehub](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/new?issuable_template=pathfactory-explorehub) - opened by ABM team when new Pathfactory ExploreHub Page is needed
 
 ## Budgeting
 {: #budgeting .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The Senior Manager, Marketing Campaigns and ABM manages the budget in Allocadia.
+ABM manages their budget in Allocadia.
 
 [See budget-related Allocadia timelines here](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates)
-
-## Integrations
-{: #integrations .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-This MURAL: [ABM Tech Stack Integrations & Data Flow](https://app.mural.co/t/gitlab2474/m/gitlab2474/1638470414418/ae87dd31e87d2fe1153849b00add3f87853daf63?sender=jgragnola2053) is a Work In Progress diagram to outline the integrations between Demandbase and other systems in our Marketing tech stack. The will continue to be updated as more information is made available.
-
-### Current Demandbase Integrations
-{: #demandase-integrations}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-1. Maketo
-1. Salesforce
-1. LinkedIn
-1. Sisense (datatable through DataStream)
-
-## Reporting
-{: #reporting .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-### PMG Paid Digital Reporting
-{: #reporting-pmg}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-The ABM team uses the [PMG Reporting Dashboard](https://datastudio.google.com/reporting/19WMqzyDxrl1fK3puZ3kI7Pzig3Oex_BL/page/p_32tuunsvlc?s=l-p946nzu0I) to track performance and metrics for all paid media campaigns run through the PMG and GitLab Digital team. This dashboard covers many field breakdowns that PMG has mapped based on specific UTM values and naming conventions. The dashboard breaks down performance from top to bottom by Channel, Budget, Segment, Geo, Content, Language and weekly & monthly comparisons. The top of the dashboard features several filters to customize your view.
-
-#### Viewing ABM Campaigns
-{: #reporting-pmg-abm}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-The default filter on the dashboard shows digital campaigns only. To show all paid campaigns, including ABM, select ALL fields under the **`Budget`** filter. Once the **`Budget`** filter is showing all values go to the **`Team`** filter. This dropdown will show multiple marketing departments. Select **`abm`** to see a summary of the ABM campaigns running or were previously ran depending on the date range.
-
-If you want to see the performance and metrics for a single campaign you can select a specific campaign code under the **`Campaign Code`** filter. **`Campaign Code`** is the utm_campaign value added to our landing page URLs. Be sure to check your date range when selecting specific campaigns.
-
-Note that refreshing your screen will reset the filters in the dashboard. You can also click **`Reset`** at the top right of the dashboard. If the data has trouble loading or is loading with erros, click **`Refresh Data`** in the menu bar at the top left of the dashboard. For more details on how to navigate the PMG reporting dashboard you can refer to this [issue](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/811#note_714815706).
-
-
-### Drift
-{: #drift}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-Drift is a chat platform used by SDRs to engage visitors on select webpages. When a site visitor interacts with the bot they will be taken through a customized series of questions offering the option to view the PathFactory track, chat with an SDR or schedule time to speak with an SDR.
-
-We can create a specific welcome message, playbook, or chat landing page for ABM accounts. More information can be found here. To create any of the above open a [Drift Campaign Issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=Drift_Campaign_Request) for our Marketing Operations team.
-
-
-### Reachdesk
-{: #reachdesk}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-- [Campaign planning form](https://t.sidekickopen84.com/s3t/c/5/f18dQhb0S7kF8bpWvzW1DZxRD59hl3kW7_k2841CXdp3VQ0pvR2Swq73W2dykgq2N21Fh101?te=W3R5hFj4cm2zwW3M664f1JwJkBW41Pyvm43T4N9W3XC0_s3Zt3prW3VGywv366F5gW3K9xWb3VM81QW1pMt-51Q6BcGW1-Ypky24VJRp4ntSp1&si=8000000006035619&pi=7e0db2db-c953-4cc3-ae8b-748774cbaef5) - for any items you would like the project management team to source directly to our warehouses for you. This could be branded swag or any other bespoke goods that are not available on the Marketplace. 
-- [Landing page request form](https://t.sidekickopen84.com/s3t/c/5/f18dQhb0S7kF8bpWvzW1DZxRD59hl3kW7_k2841CXdp3VQ0pvR2Swq73W2dykgq2N21Fh101?te=W3R5hFj4cm2zwW3M664f1JwJkBW41Pyvm43T4N9W3XC1qb45WXkVW2HKC1J1ZqsG0W3GJbqC1X6PNZW1pMt-51Q6BcGW1-Ypky24VJRp4ntSp1&si=8000000006035619&pi=7e0db2db-c953-4cc3-ae8b-748774cbaef5) - this is one link that can be sent to multiple recipients, and the gifts will be automatically fulfilled via this page. 
-- [Help documents](https://t.sidekickopen84.com/s3t/c/5/f18dQhb0S7kF8bpWvzW1DZxRD59hl3kW7_k2841CXdp3VQ0pvR2Swq73W2dykgq2N21Fh101?te=W3R5hFj4cm2zwW3T1lhw49JH8JW1JzBqR45lYLGW3z8m_b3K9cSfW3K72cD43SNGrW3Fdy8c41Y25wW20Ybfx1--tgWW3K6jZw3H8_MV0&si=8000000006035619&pi=7e0db2db-c953-4cc3-ae8b-748774cbaef5) - access to our help document section, anything specific you would like me to provide please do let me know.
