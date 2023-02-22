@@ -197,13 +197,13 @@ installations (ex: staging.gitlab.com) is _not_ included in total SaaS xMAU or P
 #### Generating Paid SaaS xMAU 
 
 Since Service Ping is reported at an installation-level, there is not a way that we can 
-differentiate paid from total usage within the metrics. For self-managed instances, we have the 
-license and plan type, so it is easy to attribute a subset of pings to paid xMAU. However, since 
-gitlab.com is a single installation reporting a single ping, we do not have a way to break down 
-the aggregates by product tier, plan type, or namespace. As a work-around, we replicate Service 
-Ping metrics using the Gitlab.com Postgres replica tables. The challenge comes in that we can 
-only replicate a subset of Service Ping metrics, database metrics, and we are not able to 
-replicate Redis counters.
+differentiate paid from total usage within the metrics. For self-managed installations, we have 
+the license and plan type, so it is easy to attribute a subset of pings to paid xMAU. However, 
+since gitlab.com is a single installation reporting a single ping, we do not have a way to break 
+down the aggregates by product tier, plan type, or namespace. As a work-around, we replicate 
+Service Ping metrics using the Gitlab.com Postgres replica tables. The challenge comes in that 
+we can only generate a subset of Service Ping metrics, database metrics, using the Postgres 
+replica. We cannot replicate Redis counters using the Gitlab.com db.
  
 - [Database metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#database-metrics)
   (also referred to as "batch counters") are simple SQL-generated counters. The SQL queries
@@ -212,11 +212,20 @@ replicate Redis counters.
 - [Redis counters](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#redis-metrics)
   are NOT SQL-generated counters. They also track actions that are not in the GitLab.com
   Postgres DB such as page views and frontend interactions.
- 
-Therefore, only some metrics can be recreated using the Gitlab.com Postgres replica.
+
+Beyond being a database metric, there is a second requirement to generate Paid SaaS xMAU: we 
+need to be able to attribute the action or event to a plan. To do so, the source tables used 
+in the SQL query need to carry information about the project or namespace (ex: `project_id`, 
+`namespace_id`). Without those identifiers, we have no way of knowing whether the action was 
+tied to a paid plan.
+
 That means that, for now, we are not able to calculate some of the Paid SaaS xMAU metrics
-like Monitor SMAU. Product Intelligence is actively working to find a way to replicate Redis 
-counters ([Epic here](https://gitlab.com/groups/gitlab-org/-/epics/6833)).
+like Monitor SMAU. 
+
+Product Intelligence is actively working to replicate Redis counters by instrumenting events 
+in Snowplow ([Epic here](https://gitlab.com/groups/gitlab-org/-/epics/6833)). This work is 
+in-flight and the Data team is working to model the data. Once complete, we will have the 
+ability to generate additional paid SaaS metrics.
  
 ## Data sources
  
