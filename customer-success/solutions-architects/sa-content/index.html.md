@@ -36,7 +36,7 @@ This is not meant to limit creativity. It's a [boring](/handbook/values/#boring-
 | 2023-02-27 	| [Noah Ing](https://gitlab.com/noah.ing) - Terraform Multi Environments with GitLab      	        |
 | 2023-03-06   	| [Siddharth Mathur](https://gitlab.com/smathur-gl) - TBD |
 | 2023-03-13  	| [Sophia Manicor](https://gitlab.com/smanicor) - TBD  |
-| 2023-03-20  	|        	        |
+| 2023-03-20  	| [Sam Morris](https://gitlab.com/sam) -  CI and Secure in Mono-Repos   	        |
 | 2023-03-27   	|        	        |
 | 2023-04-03   	| [Cailey Pawlowski](https://gitlab.com/cpawlowski) - TBD  |
 | 2023-04-10   	|        	        |
