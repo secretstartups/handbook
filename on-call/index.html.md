@@ -32,8 +32,7 @@ If you're a GitLab team member looking for help with a security problem, please 
 
 - We do 7 days of 8-hour shifts in a follow-the-sun style, based on your location.
 - After 10 minutes, if the alert has not been acknowledged, support management is alerted. After a further 5 minutes, _everyone_ on the customer on-call rotation is alerted.
-- Unless advised otherwise by the technical account manager or your manager, [assume good intent](/handbook/support/on-call/#assume-good-intent)
-  to give every emergency ticket from customers with priority support [the emergency SLA](../../support/#priority-support).
+- All tickets that are raised as emergencies will receive [the emergency SLA](../../support/#priority-support). The on-call engineer's first action will be to [determine if the situation qualifies as an emergency](/handbook/support/workflows/customer_emergencies_workflows.html#determine-if-the-situation-qualifies-as-an-emergency) and work with the customer to find the best path forward.
 - After 30 minutes, if the customer has not responded to our initial contact with them, let them know that the emergency ticket will be closed and that you are opening a normal priority ticket on their behalf. Also let them know that they are welcome to open a new emergency ticket if necessary.
 - You can view the [schedule](https://gitlab.pagerduty.com/schedules#PIQ317K) and the [escalation policy](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH) on PagerDuty. You can also opt to [subscribe to your on-call schedule](https://support.pagerduty.com/docs/schedules-in-apps#section-export-only-your-on-call-shifts), which is updated daily.
 - After each shift, _if_ there was an alert / incident, the on call person will send a hand off email to the next on call explaining what happened and what's ongoing, pointing at the right issues with the progress.
