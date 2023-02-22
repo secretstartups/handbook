@@ -124,3 +124,6 @@ In the [GitLab team retrospective group](https://gitlab.com/gl-retrospectives), 
 
 Also, open an MR to add or remove team members in the [team.yml](https://gitlab.com/gitlab-org/async-retrospectives/-/blob/master/teams.yml) file in [async-retrospectives](https://gitlab.com/gitlab-org/async-retrospectives).
 
+### Growth & Development
+
+When working with your team members on any Growth & Development requests, please refer to the [Growth and Development Benefit guidelines](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/). After you have approved the request, please also remember to add the expense to the [UX Growth and Development Expenses spreadsheet](https://docs.google.com/spreadsheets/d/1hLm_XEX3Vux1Co_dMY5A74io8oqXArDAX6MonlBOYNg).
