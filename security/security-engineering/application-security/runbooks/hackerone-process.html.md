@@ -113,6 +113,7 @@ the responsible engineering team:
     - If you relied on the HackerOne Triage Team's validation of the issue, consider setting time in your calendar to validate it yourself. This will help if you need to validate the fix later.
     - If full impact is needed to be assessed against GitLab infrastructure, instead of testing in https://gitlab.com, use https://staging.gitlab.com/help to sign in with your GitLab email account
         - If multiple users are needed, use credentials for users gitlab-qa-user* stored in 1password Team Vault to access the staging environment
+    - If the report is for a bug that can be detected without authentication (in GitLab or anything else we host) consider reaching out to the Red Team or Vulnerability Management to help create a Nuclei template that we can include into our scanning
 - Remember to review the `Pending Disclosure` tab and follow [our disclosure process](#closing-out--disclosing-issues)
 
 #### Triaging exposed secrets
