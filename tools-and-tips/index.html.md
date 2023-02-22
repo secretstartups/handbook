@@ -679,6 +679,8 @@ To use Find a Time:
     - Guests who are optional will not appear in the availability table by default.
     You can add them by checking their name in the "Guests" area on the right hand side.
 
+For meetings spanning across multiple time zones and with external parties, [Time & Date Calculator](https://www.timeanddate.com/worldclock/meeting.html) can help determine the best time to schedule.
+
 ### GitLab availability calendar
 
 The GitLab Availability Calendar has been deprecated to allow for GitLab to scale effectively.
