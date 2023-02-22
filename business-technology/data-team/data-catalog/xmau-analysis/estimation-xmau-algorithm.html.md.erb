@@ -51,6 +51,36 @@ our current methodologies are. For the sake of transparency and to enable self-s
 the mechanisms and details of how and where we generate components of our methodologies are 
 included throughout the page.
 
+## The Current Methology ('metric/version check - subscription based estimation')
+
+Total Ping with Estimate = (Recorded Ping)/(Percent Reporting)
+
+To estimate the missing proportion of Ping metric value we currently calculate the percentage of reporting installations which is measured as: 
+
+Percent Reporting = (Number of Ping Reporting with Correct Version)/(Total number of Subscriptions)
+
+Below is a table with fake data to represent a theoretical collection of Ping data to illustrate how it is estimated. Note that the "Actual Usage" is not data we really have but meant to illustrate a theoretical target and show which types of installations we would have Ping data for. There are 2 rows I'd like to draw immediate attention to. The first row shows SaaS data and it will not be included in the estimation as we have complete reporting on it and so it is not required. The final row shows the installations that have opted-out of Ping, are self-managed and do not have a subscription. These are intended to show the unknown number of potential users and activity that exists in this group as we have no way of knowing their activity. 
+
+
+| Installation Type               | Number of Installations | Subscription? | Ping Opt-In | Version Instrumented | Metric Opted In | Actual Usage | Reported Value |
+|---------------------------------|-------------------------|---------------|-------------|----------------------|-----------------|--------------|----------------|
+| SaaS                            | 1                       | Yes           | Yes         | Yes                  | Yes             | 30           | 30             |
+| Right Version Opted in          | 60                      | Yes           | Yes         | Yes                  | Yes             | 80           | 80             |
+| Wrong Version Installations     | 30                      | Yes           | Yes         | No                   | Yes             | 30           | NULL           |
+| Metric Opted Out                | 15                      | Yes           | Yes         | Yes                  | No              | 20           | NULL           |
+| No Ping Opt-in                  | 9                       | Yes           | No          | Yes                  | No              | 10           | NULL           |
+| No subscription, Ping Reporting | 20                      | No            | Yes         | Yes                  | Yes             | 30           | 20             |
+| No Ping, No data                | ?                       | No            | No          | Yes                  | No              | ?            | NULL           |
+
+If we add up the subscriptions as installations on the correct version and opted-in for this Ping metric we see 80 are reporting. Adding up the total subscriptions we get 134. This gives us a percentage reporting estimate of 59.7%. 
+
+To estimate the total metric value for this we take the reported value of 100 and divide it by 59.7% for an estimated total of 168.
+
+## Visual Representation of Ping Estimation Example
+<figure>
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vReo9HIBYJJle_AtsnoESr1I7FO7fNMqlYv-uJN6L19Bxx1v6-sMCrY5FoRLZxkbqCzfCcDcYZhxgyG/pub?w=964&amp;h=607">
+</figure>
+
 ### Technical details
 
 **What we know**
