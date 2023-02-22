@@ -22,13 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ## February 2023
 
-#### Advanced CI/CD
-##### February 21st, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_9cCjKrT3R1-pGKOCYM--sQ)
-
 #### DevSecOps/Compliance
 ##### February 23rd, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
 
