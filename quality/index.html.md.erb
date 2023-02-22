@@ -172,7 +172,6 @@ graph TD
 <%
 vp_role = 'Vice President of Quality'
 director_qe_role = 'Director of Quality Engineering'
-director_cs_role = 'Director, Contributor Success'
 quality_em_role = 'Manager, Quality Engineering'
 ep_em_role = 'Backend Engineering Manager, Engineering Productivity'
 director_ea_role = 'Director, Engineering Analytics'
@@ -181,11 +180,11 @@ roles_regexp = /(Engineer in Test|Engineering Productivity|Staff Infrastructure 
 
 #### Management team
 
-<%= shared_team_members(role_regexps: [/(#{vp_role}|#{director_qe_role}|#{director_cs_role}|#{quality_em_role}|#{ep_em_role}|#{director_ea_role})/i]) %>
+<%= shared_team_members(role_regexps: [/(#{vp_role}|#{director_qe_role}|#{quality_em_role}|#{ep_em_role}|#{director_ea_role})/i]) %>
 
 #### Individual contributors
 
-<%= stable_counterparts(role_regexp: roles_regexp, direct_manager_role: /(#{quality_em_role}|#{ep_em_role}|#{director_cs_role}|#{director_ea_role})/) %>
+<%= stable_counterparts(role_regexp: roles_regexp, direct_manager_role: /(#{quality_em_role}|#{ep_em_role}|#{director_ea_role})/) %>
 
 ### Staffing planning
 
