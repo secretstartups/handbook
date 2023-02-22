@@ -107,7 +107,8 @@ In situations involving True-Up waiver requests, L&R Support can:
 L&R Support cannot:
 
 - Provide an in-depth explanation as why an overage has occurred, support can only collate the data that proves whether an overage has occurred or not.
-- Be the arbiter as whether a True-Up can be waived or not, this is the responsibility of sales as detailed in [waived true-ups policy and approval requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements).
+- Provide detailed analysis on the nature of the overage (e.g. confirm if overage accounts were logged into or not, confirm how and when accounts were created or provide a timeline of the duration of any overages, etc.)
+- Be the arbiter for whether a True-Up can be waived or not; this is the responsibility of Sales as detailed in [waived true-ups policy and approval requirements](/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements).
 
 
 ## Specific workflows to pass to Sales
