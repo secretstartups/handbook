@@ -44,6 +44,7 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 ### Quarterly Prioritization List
 
 - [FY23-Q4](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/61)
+- [FY24-Q1](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/66)
 
 ### Quarterly Work: Weekly Progress
 
@@ -52,6 +53,7 @@ description: "The Self-Service Data Team is responsible for leveraging data to o
 | FY23-Q2 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/106) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/108) |
 | FY23-Q3 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/152) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/151) |
 | FY23-Q4 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/226) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/214) |
+| FY24-Q1 | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/289) | [Issue](https://gitlab.com/gitlab-com/sales-team/self-service/-/issues/286) |
 
 
 ## Working with us
