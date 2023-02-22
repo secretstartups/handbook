@@ -66,6 +66,5 @@ To log in, visit [Prelude.co](https://Prelude.co), click "Sign In", click "Sign 
 1. Go down to the Attributes section on the left hand panel and select `Interviewer Preferences`
 1. Add availability preferences, ensure the time zone is accurate, and consider interview limits.
 
-Read about how to organize your calendar on the [Interviewer Calendar Maintenance](/handbook/) page. 
-
+Read about how to organize your calendar on the [Interviewer Prep Requirements](https://about.gitlab.com/handbook/hiring/interviewing/) page.
 
