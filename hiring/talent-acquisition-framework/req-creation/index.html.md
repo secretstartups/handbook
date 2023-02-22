@@ -20,46 +20,71 @@ Prior to starting the req creation process, a Hiring Manager should follow the s
 - Job Family URL
 - Employment Type (New Hire or Backfill. If a backfill, the name of the teammate and last day of employment)
 
-* **For Evergreen Req Creation Process please visit the end of this page**
-
 For the Product and Engineering backfill or transfer process, see this [handbook page](https://about.gitlab.com/handbook/engineering/#rd-backfill--transfer-process). 
-
-### Adding Openings to the Hiring Plan (DRI: Hiring Manager)
-
-The Hiring Manager carries the responsibility to ensure that openings in Greenhouse align to what’s included in GitLab Hiring Plan. Therefore, the Hiring Manager, Finance, and Talent Acquisition can stay aligned on what’s in plan, so that they can track towards their predetermined hiring targets. If you are looking to add or make changes to the GitLab Hiring Plan, please visit the [Finance section of the handbook](/handbook/finance/).
 
 ### Create or Review the Job Family (DRI: Hiring Manager)
 
-Once the req is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed. If there is no existing job family, follow the steps to [create a new job family](/handbook/hiring/job-families/#job-families). A compensation benchmark for the role should be set by working with the Compensation & Benefits team.
+
+Once the req is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed. If there is no existing job family, they should follow the steps to [create a new job family](/handbook/hiring/job-families/#job-families). A compensation benchmark for the role should be set by working with the Compensation & Benefits team.
+
+
+It is important to ensure this process is done early, because it takes time to go through approvals and Total Rewards will not approve a job opening without a matching job family.
+
 
 ### Opening Vacancies in Greenhouse (DRI: Recruiter)
+
+#### Terms you need to know
+ * **Job:** A job refers to the job title (ex: Customer Support Specialist). This will also be what appears on external job boards. In the case there are multiple positions open that are the same, and we only want to list once, we can have multiple 'openings' (see next section) opened within one 'Job'. Each job will have a unique identifier called a Requisition ID (example- 1001).
+
+ * **Opening:** A job can have multiple openings attached to it (ex: you are hiring 3 Customer Support Specialists. You would then have 1 ‘Job’ and 3 ‘openings’ against that job). A job can have multiple openings against it, but an opening can not be associated with multiple jobs. Each opening will have a unique identifier called an Opening ID (example- 1001-1, 1001-2, 1001-3).
+
+ * **GHPiD:** GHP ID is the link between Adaptive (what we use to track our operating plan) and Greenhouse (our ATS). A GHP ID has a one to one relationship with an Opening ID. It is the key interlock between our hiring plans and our Talent Acquisition activity. This is a custom field in Greenhouse.
+
+#### Determining what type of job to open
+There are a few options for what to open in Greenhouse. 
+
+ * **Open a new job**
+
+ * **Open an additional opening onto an existing job**
+   - If the job is currently open, you can add an additional opening through the approvals page. It is vital that each opening is opened, associated with the correct GHPiD and documented in Greenhouse so reporting can tell us how many positions are open. 
+ * **Reopen an old job**
+   - We do not reopen old jobs. This decision will be revisited in FY24 Q3, at which time we may allow old jobs to be reopened if they were opened after a specific date.
+ * **Evergreen job**
+   - An Evergreen Job is a requisition that is 'always open'... more specifically, it is used when we have at least 3 openings for a particular job repeated each quarter. There is then one Evergreen job posted for internal, external and passive candidates. It is important that no candidate is hired to an Evergreen job, and instead is moved to an approved opening (aka - an opening with a single corresponding GHPiD). 
+   - **When should an Evergreen req be used?** 
+TA Leadership will open EVG roles at the start of a fiscal year, with a quarterly review cadence, by leveraging the hiring plan and attrition assumptions. Typically, EVG postings will be utilized when there are multiple openings for a set of roles (3 or more) that have very similar technical qualifications and are expected to be hired on a regular basis (for example, Business Development Rep, AMER). These roles usually span multiple teams and hiring managers., but are all interviewed with the same process by the same interviewer 'pool'. 'Regular basis' refers to consistent volume over a period of 3+ quarters.
+   - **How do I open an evergreen req?**
+All evergreen reqs need to be approved by TALT (Jake Foster, Ursula Knezevic or Jess Dallmar) prior to opening. 
+
+If you are looking to open a job for pipeline reasons, because a Hiring Manager has requested that you work on a role that will be open in the future but has not been approved, instead of an EVG role use our Greenhouse CRM. More information and enablement on our CRM will be coming in FY24 Q2.
+
 
 For positions that are included in the GitLab Hiring Plan, the Recruiter will create approved in-plan requisitions.
 
 **The Recruiter will:**
 
-1. [Log in](/handbook/hiring/greenhouse/#how-to-join-greenhouse) to [Greenhouse](https://gitlab.greenhouse.io/users/sign_in) and hover over the plus sign in the top right corner of their dashboard, and then click [Create a Job](https://app2.greenhouse.io/plans/new).
-1. Click on [Start from a copy of an existing job](https://gitlab.greenhouse.io/get_started/show_existing_jobs). From there, select `Any Status` at the top bar, select `Draft`, and choose the template for the division. Please note that when creating a requisition, the `Start from Scratch` option should **not** be used, as important elements needed will **not** be included.
-1. Once you've selected a template to copy, the first screen will ask for **Basic Job Info**.
-1. The `Internal Job Name` is only viewable within Greenhouse, and the `External Job Name` is what appears on the jobs page. Enter in the requisition's title in these fields, including _Specialty_, if applicable. These two fields should almost always be the same, but if you have questions, please reach out to the Compensation & Benefits Team.
-    - If only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
-1. `Department` is the department this role will fall under. Always choose a department and **not** a division (e.g. for a Security Engineer opening, choose **Security** within the `Engineering` division, and do **not** choose `Engineering`). If you are unsure of what department to choose, reach out to the Compensation & Benefits team.
-1. If a requisition can be located anywhere GitLab hires, check `Anywhere` next to `Office`. If an opening is dedicated to a certain region or time zone, uncheck the `Anywhere` box and select any of the predetermined regions or time zones. If a region or time zone is not shown in the list, please reach out to the [Recruiting Ops Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new). In addition to the region or time zone you've selected, it's recommended to also choose `Remote` so that it's clear to applicants that the opening is both located in a particular area but also still remote.
-1. Click `Generate IDs` to create a requisition ID
-1. Under `Employment Type`, select if your opening is a _Full-Time_, _Part-Time_, _Intern_, or _Contract_ role. We strongly advise offering both full-time and part-time options for most requisitions. Please note that _Contract_ refers to a true consultant, who works on short-term projects. This is seldom used.
-1. Most positions will not be marked confidential. If you have prior approval from Jess Dallmar, Rich Kahn, and Enablement, you can select `Yes` under `Confidential?`. Anyone who has access to a position will have access to view the job in a report, so selecting `Yes` will ensure that the Enablement team specifically excludes any jobs with this selected. It does _not_ change access or permissions, so you will still need to evaluate those to remove anyone who should not see your job.
-1. `Salary` will be input by the Total Rewards Team. The salary can be found in the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/), which is available to all team members and advanced candidates.
-    - Take the `benchmark x level x 0.45` for the low end and `benchmark x level x 0.8` on the high end.
-    - For roles not in the compensation calculator: Leave blank if not known. The Total Rewards team will edit as the first level of approval. The Total Rewards will pull survey data in San Francisco for this role then apply the same formula for `0.45` on the low end and `0.8` on the high end.
-1. `CO/WA Salary Range` `CA/NY/NJ Salary` and will be input by the Total Rewards Team if the role accepts US applicants, unless the role is state-specific outside of Colorado, New York, and New Jersey (eg. a sales role that will only hire in Florida and Georgia). Recruiters can use `1-1` as the range as a placeholder when submitting the req for approval. The Recruiter will use the approved ranges from Total Rewards in their job post.
-1. Scroll down to the `Openings Secton`
-1. Click `Generate Opening IDs` to create an opening ID
-1. Enter the `Target Start Date` as listed on the GitLab Hiring Plan
-1. Enter the `Hiring Manager`
-1. Under `Type` choose if this is a _New Hire_ or a _Backfill_. If you select _Backfill_, please enter the name of the teammate you are backfilling on the line below.
-1. Enter the `GHP ID` listed on the GitLab Hiring Plan
 
-1. Click `Create Job & Continue`.
+1. [Log in](/handbook/hiring/greenhouse/#how-to-join-greenhouse) to [Greenhouse](https://gitlab.greenhouse.io/users/sign_in) and hover over the plus sign in the top right corner of their dashboard, and then click [Create a Job](https://app2.greenhouse.io/plans/new).
+1. Click on [Start from a copy of an existing job](https://gitlab.greenhouse.io/get_started/show_existing_jobs). From there, select `Any Status` at the top bar, select `Draft`, and choose the template for the division. If you need a template created, please speak with a member of the Enablement team.
+1. Once you've selected a template to copy, the first screen will ask for **Basic Job Info**.
+1. The `Internal Job Name` is only viewable within Greenhouse, and the `External Job Name` is what appears on the jobs page. Enter in the requisition's title in these fields, including _Specialty_, if applicable. These two fields should almost always be the same.
+   - If only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
+1. `Department` is the department this role will fall under. Always choose a department and **not** a division (e.g. for a Security Engineer opening, choose **Security** within the `Engineering` division, and do **not** choose `Engineering`). If you are unsure of what department to choose, reach out to your FP&A partner.
+1. If a requisition can be located anywhere GitLab hires, check `Anywhere` next to `Office`. If an opening is dedicated to a certain region or time zone, uncheck the `Anywhere` box and select any of the predetermined regions or time zones. In addition to the region or time zone you've selected, it's recommended to also choose `Remote` so that it's clear to applicants that the opening is both located in a particular area but also still remote.
+1. Click `Generate IDs` to create a requisition ID. You’ll need this again when you set up your opening(s).
+1. Under `Employment Type`, select if your opening is a _Full-Time_, _Part-Time_, _Intern_, or _Contract_ role. _Contract_ refers to a true consultant, who works on short-term projects, and not someone in a country like the Netherlands who requires a one-year contract before indefinite. Recruiters will typically not hire Contractors.
+1. Most positions will not be marked confidential. If you have prior approval from Jess Dallmar, Rich Kahn, and Enablement, you can select `Yes` under `Confidential?`. Anyone who has access to a position will have access to view the job in a report, so selecting `Yes` will ensure that the Enablement team specifically excludes any jobs with this selected. It does _not_ change access or permissions, so you will still need to evaluate those to remove anyone who should not see your job.
+1. `Salary` will be input by the Total Rewards Team.
+   - Total Rewards will use `benchmark x level x 0.45` for the low end and `benchmark x level x 0.8` on the high end.
+1. `CO/WA Salary Range` `CA/NY/NJ Salary` and will be input by the Total Rewards Team if the role accepts US applicants, unless the role is state-specific outside of Colorado, New York, and New Jersey (eg. a sales role that will only hire in Florida and Georgia). Recruiters can use `1-1` as the range as a placeholder when submitting the req for approval. The Recruiter will use the approved ranges from Total Rewards in their job post.
+1. Fill in the `Openings Section`. Start by clicking `Generate Opening IDs` to create an opening ID - it will be your req ID with -1, -2, etc following it.
+1. Enter the `Target Start Date` as listed on the GitLab Hiring Plan
+1. Under `Type` choose if this is a _New Hire_, _Evergreen_, or a _Backfill_. If you select _Backfill_, please enter the name of the teammate you are backfilling on the line below. If you choose _Evergreen_, ensure this is first approved by Jess Dallmar.
+1. Enter the `GHP ID` listed on the GitLab Hiring Plan 
+1. Fill in all other fields and continue on to the following pages.
+
+
+
 1. The next page consists of all of the **attributes** interviewers will be evaluating for candidates in their scorecards across the full interview process. These may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ. The Recruiter will pdate the scorecard after the kick-off Session.
 1. Click `This looks good, NEXT` at the right of your screen.
 1. The `Interview Plan`, is where you'll craft the hiring process and scorecards for each step in the process. The interview plan may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ. The Recruiter will update the interview plan after the Kick-off Session.
@@ -323,35 +348,30 @@ Recruiters should unselect or leave unselected the option in Greenhouse to "publ
 
 Sometimes we need to post vacancies on specialist job boards to attract talent. The budget for this will come from the Department with the open Req, and department leaders will need to approve the neccessary budget.   
 
-## Evergreen Requisitions 
+### Evergreen Jobs
 
-An Evergreen Requisition is a requisition used to pipeline candidates on a continual basis. This is done by keeping the Evergreen req posted for internal, external and passive candidates. It is important that no candidate is hired to an Evergreen req, and instead is moved to an approved headcount req (as mentioned below).
+#### Creating an Evergreen Requisition
 
-When should an Evergreen req be used?
 
-* When there are multiple openings of the same role and hiring needs to be completed in a volume basis (for example, Sales Development Representative)
-* When there are multiple openings of roles that have very similar technical qualifications  that are expected to be hired on a regular basis (for example, intermediate backend engineer). These roles can sometimes span multiple teams (for example, Ops, Growth and Fulfillment)
+* After securing approval from Jess Dallmar, Follow the Req Creation process found here. In addition, please be aware of these added steps:
+  * Start the Req title with “Evergreen” followed by the name of the req (example Evergreen - Sales Development Representative)
+  * Select “Evergreen” when selecting opening Type
+  * Set the GHPID to “EVERGREEN”. Both of the steps to label the job as an Evergreen help ensure they do not show up in some reporting.
 
-How do you request an Evergreen req?
 
-* Contact the [Recruiting Manager](/handbook/hiring/recruiting-alignment/#talent-acquisition-leader-alignment) aligned with your function to discuss whether it’s appropriate to open an Evergreen req for your needs.
+#### Hiring a Candidate from an Evergreen Requisition
 
-### Creating an Evergreen Requisition
-
-* Follow the Req Creation process found here. In addition, please be aware of these added steps:
-   * Start the Req title with “Evergreen” followed by the name of the req (example Evergreen - Sales Development Representative)
-   * Select “Evergreen” when selecting opening Type
-
-### Hiring a Candidate from an Evergreen Requisition 
 
 * It is important that before a candidate can be hired, there must be a separate, team-specific req that is tied to the approved headcount and lists the appropriate GHP ID required to hire a candidate. This approved, team-specific headcount req is not posted for applications.
 * Once a candidate is identified in the Evergreen req and you have an approved, team-specific headcount req to move the candidate to, proceed with the following steps:
-   * Once interviews are completed, BEFORE you move the candidate to the offer stage, click “Add, transfer, or remove candidates jobs.” 
+  * Once interviews are completed, BEFORE you move the candidate to the offer stage, click “Add, transfer, or remove candidates jobs.”
 (NOTE: It is important that all interviews and scorecards are completed before you take any action to move a candidate from an Evergreen req. Interviews and open scorecards will not transfer once the candidate is moved.)
-   * Select “Transfer to a Different Job”
+  * Select “Transfer to a Different Job”
 (NOTE: Please be sure to select “Transfer” as opposed to “Add”)
-   * Once a candidate is Transferred to the approved headcount req, you can move to offer in that req.
+  * Once a candidate is Transferred to the approved headcount req, you can move to offer in that req.
 
-### Sourcing Candidates for an Evergreen Req
+
+#### Sourcing Candidates for an Evergreen Req
+
 
 * When sourcing passive candidates for an Evergreen Req, it is important that you add the prospect to the Evergreen req, as opposed to the approved, team-specific headcount req associated with the Evergreen req. Adding prospects to the Evergreen req will ensure that the prospect follows the appropriate interview process and that the appropriate data will be captured.
