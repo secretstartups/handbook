@@ -104,27 +104,6 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 
 <br>
 
-## Audit Committee Meeting Deck Preparation Guidelines (Earnings Meeting)
-
-**Responsibility: [Chief Financial Officer](https://about.gitlab.com/company/team/#brobins) / [Principal Accounting Officer](https://about.gitlab.com/company/team/#daleb04)**
-
-1. All the audit committee decks should be saved in [google drive](https://drive.google.com/drive/folders/1nqK9DZC84qbV6b6rKwjt0NgpVjip1WnW).
-1. Refer to GitLab [Board Calendar](https://docs.google.com/spreadsheets/d/1gL3prs44PoHnMldz7nKOuV-WGXw3bc4CbiKOrqpfuJo/edit?usp=sharing) and identify Audit Committee Meeting Date.
-1. Copy the [Format](https://docs.google.com/presentation/d/15k15TYvTGkxZizBds1geY3lTlIq1nfU9ofwwynoY9dM/edit#slide=id.g6478e21bce_0_0) of the Audit Committee meeting deck and rename the deck as **Audit Committee Earnings Meeting YYYY-MM-DD**
-1. Update the agenda slide of the deck by referring to the [Earnings Meeting Calendar in the handbook](https://about.gitlab.com/handbook/board-meetings/committees/audit/#audit-committee-earnings-meeting-calendar-)
-1. Discuss the agenda slide with Principal Accounting Officer to ensure all the required updates for the Audit Committee meeting are added in the agenda.
-1. Once the agenda is finalized, create slides for each agenda item and assign to respective DRI’s with a due date for completion; at least  10 days before the meeting.
-1. Tag all the DRI’s on the Audit Committee slack channel (for specific Audit Committee meeting date) by linking the Deck.Also communicate the due date for completion of the deck.
-1. Follow up with all the DRI's at least a week before the due date.
-1. Once respective DRI's update their slides, review the format, update slides to ensure format is consistent across all the slides.
-1. Set up a call for CFO's review along with Principal Accounting Officer and all the DRI's. Make necessary changes to the deck based on CFO's review feedback.
-1. Update Audit Committee [meeting notes](https://docs.google.com/document/d/1D6wpUqqx9y_AcMyJr2XmdGsaauvplkLFmgbjUh9ESX0/edit#heading=h.z9jx6knlzkiq) with links to Audit Committee Materials,update agenda for topics to be discussed in the meeting.
-1. Reach out to an EBA to CFO to ensure all the meeting invitees have access to the materials linked in the agenda.
-1. Reach out to a team member in Corpoarte Legal department to upload the final deck and all the attachments to the deck to Boardvantage at least a week prior to the meeting. The CFO will notify the Committee members of such via email and copying relevant DRIs.  
-1. On the meeting day
-    - Make note of the action items, add them to 'Ask from the AC Earnings Meeting' tab in the [Board calendar](https://docs.google.com/spreadsheets/d/1gL3prs44PoHnMldz7nKOuV-WGXw3bc4CbiKOrqpfuJo/edit?usp=sharing) and track them to completion.
-
-
 ### Audit Committee Compliance and Special Topics Meeting Calendar <BR>
 
 #### Management, Accounting and Reporting
@@ -236,21 +215,3 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 
 <br>
 
-## Audit Committee Meeting Deck Preparation Guidelines (Compliance and Special Topics Meeting)
-
-**Responsibility: [Chief Financial Officer](https://about.gitlab.com/company/team/#brobins) / VP, Internal Audit**
-
-1. All the audit committee decks should be saved in [google drive](https://drive.google.com/drive/folders/1nqK9DZC84qbV6b6rKwjt0NgpVjip1WnW).
-1. Refer to GitLab [Board Calendar](https://docs.google.com/spreadsheets/d/1gL3prs44PoHnMldz7nKOuV-WGXw3bc4CbiKOrqpfuJo/edit?usp=sharing) and identify Audit Committee Meeting Date.
-1. Copy the [format](https://docs.google.com/presentation/d/15k15TYvTGkxZizBds1geY3lTlIq1nfU9ofwwynoY9dM/edit#slide=id.g6478e21bce_0_0) of the Audit Committee meeting deck and rename the deck as **Audit Committee Compliance and Special Topics Meeting YYYY-MM-DD**
-1. Update the agenda slide of the deck by referring to the [Compliance and Special Topics Meeting Calendar in the handbook](https://about.gitlab.com/handbook/board-meetings/committees/audit/#audit-committee-compliance-and-special-topics-meeting-calendar-)
-1. Discuss the agenda slide with VP, Internal Audit to ensure all the required updates for the Audit Committee meeting are added in the agenda.
-1. Once the agenda is finalized, create slides for each agenda item and assign to respective DRI’s with a due date for completion; at least  10 days before the meeting.
-1. Tag all the DRI’s on the Audit Committee slack channel (for specific Audit Committee meeting date) by linking the Deck.Also communicate the due date for completion of the deck.
-1. Follow up with all the DRI's at least a week before the due date.
-1. Once respective DRI's update their slides, review the format, update slides to ensure format is consistent across all the slides.
-1. Set up a call for CFO's review along with VP, Internal Audit and all the DRI's. Make necessary changes to the deck based on CFO's review feedback.
-1. Update Audit Committee [meeting notes](https://docs.google.com/document/d/1OlPLYhRZCZYXcDIWKxbjiqVKZwJIhX1qACoFRBM6-Co/edit#heading=h.88hblk9nnamv) with links to Audit Committee Materials,update agenda for topics to be discussed in the meeting.
-1. Reach out to an EBA to CFO to ensure all the meeting invitees have access to the materials linked in the agenda.
-1. Reach out to a team member in Corpoarte Legal department to upload the final deck and all the attachments to the deck to Boardvantage at least a week prior to the meeting. The CFO will notify the Committee members of such via email and copying relevant DRIs.  
-1. On the meeting day, make note of the action items, add them to 'Ask from the AC Special topics meeting' tab in the [Board calendar](https://docs.google.com/spreadsheets/d/1gL3prs44PoHnMldz7nKOuV-WGXw3bc4CbiKOrqpfuJo/edit#gid=1189093767) and track them to completion.
