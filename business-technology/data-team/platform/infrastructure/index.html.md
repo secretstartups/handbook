@@ -566,17 +566,42 @@ The `dbt_image` directory contains everything needed for building and pushing th
 ### Creating New Images
 {: #new-images}
 
-Production images are only built when a git tag is pushed on the master branch. Our current release flow is as follows:
+Docker images are only built and pushed to Container Registry when the respective commit has been **tagged**. 
 
+Any commit irrespective if it's on the master or development branch can be tagged (and built!). Therefore, you can begin using an image prior to it being merged into master.
+
+Instructions:
+1. Commit an image change within the [Data Infrastructure repo](https://gitlab.com/gitlab-data/data-image)
+1. Choose tag name, see 'Choose Tag Name' section below
+2. Create a tag, see the 'Creating Tags' section below
+3. The build pipelines will automatically run. This takes around 40 minutes. There will be a green checkmark in the [tags page](https://gitlab.com/gitlab-data/data-image/-/tags) next to your tag when it's completed.
+4. Make a new MR anywhere these images are referenced to update the tag. 
+    - For example, [analytics/dags/airflow_utils.py](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/airflow_utils.py#L12-17) may need to be updated.
+
+
+##### Choose Tag Name
+The `tag name` depends on if you're tagging a master or dev commit. 
+
+If you're tagging a master commit (already merged to master), you need this formatting: `v0.0.25`. Go to the [data-image/tags](https://gitlab.com/gitlab-data/data-image/-/tags) page to identity the previous versioned tag.
+
+If you're creating a test image using a development commit, you can name your tag arbitrarily.
+
+##### Creating Tags
+You can create a tag via the command line OR using the UI.
+
+Option 1: Command line
 ```
 # Either on the master branch or in a feature branch run:
 git tag v<sem_ver>
 
-# Push the tag
+# Push the latest tag
 git push origin $(git describe --tags --abbrev=0)
 ```
 
-The build pipelines will automatically run. Make a new MR anywhere these images are referenced to update the tag.
+Option 2: GitLab UI
+1. Go to the [Create new tag page](https://gitlab.com/gitlab-data/data-image/-/tags/new)
+2. Tag name: `v<sem_ver>`
+3. Create from \<branch\>: Creates a tag associated to the latest commit of that branch
 
 ## Python Housekeeping
 
