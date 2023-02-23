@@ -765,6 +765,20 @@ If you'd like to save time by cloning an existing quote, you can do so by doing 
     * The quote should not be extended for more than 30 days past the day it's updated. 
 3. Click save on the bottom of the page and the new expiration date should be relfected on the quote PDF.
 
+#### Quoting Different Product Tiers, Deployment Types, and Term Lengths on the Same Quote
+
+Can we have different product tiers (premium and ultimate) on one quote? 
+
+ * We cannot have different product tiers (premium and ultimate) on one quote. They will have to be on two quotes as separate instances."
+
+Can we have different deployment types (SaaS and Self-Managed) on one quote? 
+
+ * We cannot have different deployment types (SaaS and Self-Managed) on one quote. They will have to be on two quotes and separate instances."
+
+Can we have different term lengths on one quote? 
+
+* We cannot have different term lengths on one quote. They will have to be on two quotes as separate instances."
+
 #### How to Create a Draft Proposal
 
 Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal. 
