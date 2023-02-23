@@ -74,7 +74,8 @@ Check that the ticket meets basic eligibility for STAR treatment:
 
 ## Submitting a Support Ticket Attention Request (STAR) / Starring a ticket
 
-**Important**
+### **Important**
+
 The STAR form is available only during our [Global Support Hours](https://about.gitlab.com/support/#hours-of-operation); outside of these hours the form is disabled.
 
 The following instructions apply to both customer tickets and Internal Requests.
@@ -91,13 +92,24 @@ There are two ways of STAR'ing a ticket:
 
 ### Via the Zendesk `STAR` app
 
-This will automatically populate some of the required fields already, which makes it easier to STAR a ticket. Only the following information is required:
+When you use this method, the app automatically acquires most of the required information directly from the ticket. That's a lot less work for you, and you can be assured that the data will already be validated before it is sent to the Support Managers for evaluation.
+
+You will only need to provide:
 
 - Urgency
 - Plan
 - GitLab.com group URL or name
 - Reason this ticket needs additional attention
 - Desired result
+
+#### Validation
+
+The Zendesk `STAR` App will automatically validate the following before submiting the request:
+
+- The submission time is within [Support hours](https://about.gitlab.com/support/#hours-of-operation)
+- A valid namespace is entered (SaaS and SaaS Account forms only)
+- The ticket was created more than 30 minutes ago
+- The ticket is using a valid support form (SaaS, SaaS Account, Self-Managed, L&R, Open Partner, Select Partner, Alliance Partner)
 
 ### Definition of STAR Urgency Levels
 
