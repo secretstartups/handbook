@@ -74,6 +74,20 @@ Each group in Verify is encouraged to define their own process based on what wor
 * [Verify:Runner](/handbook/engineering/development/ops/verify/runner/)
 * [Verify:Pipeline Insights](/handbook/engineering/development/ops/verify/pipeline-insights/)
 
+### Developer Onboarding in Verify
+
+Welcome to the team! Whether you're joining GitLab as a new hire, transferring internally, or ramping up on the CI domain knowledge to tackle issues in our area, you'll be assigned an [onboarding/shadowing buddy](/company/culture/all-remote/onboarding/#how-to-onboard-new-hires-remotely) so you can have someone to work with as you're getting familiarized with our codebase, our tech stack and general development processes on your Verify team.
+
+Read over this page as a starting point and feel free to set up regular sync or async conversations with your buddy. We recommend setting up weekly touch points, at a minimum, and joining our regular team syncs to learn more about how we work. (Reach out to our Engineering Managers for an invite to those recurring meetings). Please also schedule a few coffee chats to meet some members of our team. You will be assigned a team specific developer onboarding issue (For example, [Pipeline Execution Developer onboarding checklist](https://gitlab.com/gitlab-org/ci-cd/onboarding/-/blob/master/.gitlab/issue_templates/verify-pipeline-execution_developer-onboarding.md)) for you to go through. It contains admin tasks to complete (as a new team member, if relevant), and also links to technical documentation, meeting agendas, and recordings.
+
+Issues labelled with `~onboarding` are smaller issues to help you get onboarded into the CI feature area. We typically work Kanban, so if there aren't [any `~onboarding` issues in the current milestone](https://gitlab.com/groups/gitlab-org/-/boards/1372896?milestone_title=%23started&label_name[]=onboarding), reach out to the Product Manager and/or Engineering Managers to see which issues you can start on as part of your onboarding period.
+
+In May 2021, we introduced the [CI Shadow Program](https://gitlab.com/gitlab-com/Product/-/issues/2542), which we are trialing as a way to onboard existing GitLab team members from other Engineering teams to the CI domain and contribute to CI features.
+
+#### Onboarding by Reviewing Merge Requests
+
+In addition to helping new hires through any issues with their set up or assigned tasks, it's recommended that onboarding buddies add them as a reviewer on any MRs they're being asked to review. This further builds their CI knowledge and allows for CI domain expertise to be shared amongst all engineers in Verify.  Similar to our [trainee maintainership and reviewer mentorship programs](https://about.gitlab.com/handbook/engineering/workflow/code-review/#reviewer-mentorship-program), onboarding buddies can re-assign MRs to their onboarding team member to review, and then provide them with direct feedback on their MR review afterwards.
+
 ### API development
 
 Our API exists in two formats ([REST](https://docs.gitlab.com/ee/api/#rest-api) and [GraphQL](https://docs.gitlab.com/ee/api/#graphql-api)) which should allow the same degree of querying.
@@ -109,12 +123,6 @@ These updates are an opportunity for the engineer to add detail to the status an
 In the Verify stage, we value [MR Rate](/handbook/engineering/metrics/#merge-request-rate) as a shared performance indicator for team collaboration, iteration, customer results. The entire team is responsible for iterative scope in issues. This starts with product management creating a clear problem statement connected to user insights. UX then adds interaction specifications and acceptance criteria to then be considered and weighed by the engineering team. Teams are encouraged to iterate on scope so as to delivery the [smallest thing possible](/handbook/values/#iteration).
 
 By considering MR Rate as a measure of throughput, product management is focused on creating decomposed pieces of scope to improve the user experience. This encourages the UX and engineering teammates to provide simpler ways to solve the same problem, ultimately improving the throughput of the entire team.
-
-### Decoupled project management
-
-Many of the groups in CI/CD have separate Frontend and Backend Engineering Managers. Given each group's ability to define their own process, groups may also consider decoupling project management functions from people management functions.
-
-For example, a group's managers could determine that one of them will be the DRI for a given project, or the entire group. That individual would then be responsible for planning for the whole team, instead of splitting the planning responsiblity between two managers which requires extra coordination.
 
 ## Stable Counterparts
 
