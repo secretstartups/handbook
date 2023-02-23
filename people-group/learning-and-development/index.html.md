@@ -92,13 +92,14 @@ The Learning & Development team has a number of resources to help team members l
 </div>
 
 
+### Partnerships at GitLab
 
+Multiple teams across the company contribute to learning and development of our team members. Below is a list of some teams we partner with and how we collaborate. 
 
-
-### What are we not responsible for?
-
-1. Customer & Product Training
-2. Designing, developing, and delivering comprehensive training to all team members
+1. Education Services: Share sustomer & product training with team members on Level Up
+1. Talent Brand: Telling career growth stories
+1. People Operations: Measuring imapct of learning and development on team member engagement
+2. Select Department Subject Matter Experts: Legal, Compliance, and other specific courses
 
 ## GitLab Learning Strategy & Roadmap
 
