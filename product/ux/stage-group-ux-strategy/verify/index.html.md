@@ -17,7 +17,8 @@ The features in the [Verify stage](/stages-devops-lifecycle/verify/) help users 
 
 * [Pipeline Execution UX](/handbook/product/ux/stage-group-ux-strategy/ci-cd/pipeline-execution/)
 * Pipeline Authoring UX - _coming soon_
-* Pipeline Insights _coming soon_ & [Runner UX](/handbook/product/ux/stage-group-ux-strategy/ci-cd/runner/)
+* Pipeline Security _coming soon_
+* [Runner UX](/handbook/product/ux/stage-group-ux-strategy/ci-cd/runner/)
 
 
 The Verify UX team is part of the [CI/CD UX team](/handbook/product/ux/stage-group-ux-strategy/ci-cd/). Our goal is to empower our customers by streamlining, expanding, and enabling increasingly complex configurations. We do so by providing the best management experience when setting up, configuring, or troubleshooting pipelines. Our design mission is to bring to the forefront simple ways to make GitLab the tool of choice for continuous integration users.
@@ -26,9 +27,9 @@ Our biggest partners are the stages under the CI/CD section ([Release](/directio
 
 ## Verify UX Team
 
-- [Veethika Mishra](https://gitlab.com/v_mishra) - Senior Product Designer for Pipeline Execution (PE)
-- TBD - Product Designer for Pipeline Authoring (PA)
-- [Gina Doyle](https://gitlab.com/gdoyle) - Product Designer for Pipeline Insights (PI) and Runner
+- [Veethika Mishra](https://gitlab.com/veethika) - Senior Product Designer for Pipeline Security (PS)
+- [Sunjung Park](https://gitlab.com/sunjungp) - Senior Product Designer for Pipeline Authoring (PA)
+- [Gina Doyle](https://gitlab.com/gdoyle) - Senior Product Designer for Runner
 - [Rayana Verissimo](https://gitlab.com/rayana) - Product Design Manager
 - [Marcel Amirault](https://gitlab.com/marcel.amirault) and [Suzanne Selhorn](https://gitlab.com/sselhorn) - Technical Writers
 
