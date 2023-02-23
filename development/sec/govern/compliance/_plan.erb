@@ -22,6 +22,7 @@ The following is an example of an implementation approach from [https://gitlab.c
 1. *(if feature flag enabled)* Update the `Projects::CreateService` and `Groups::CreateService` to update newly created projects and sub-groups with the main groups setting
 1. *(if feature flag enabled)* Update the Groups API to show the settings value
 1. Tests tests and more tests :muscle:
+   - In particular, cover both happy and unhappy paths, and consider tests for scenarios that could result in false positives or negatives
 
 ~frontend
 
@@ -29,17 +30,19 @@ The following is an example of an implementation approach from [https://gitlab.c
 1. Create new Vue app to render the contents of the section
 1. Create new setting and submission process to save the value
 1. Tests tests and more tests :muscle:
+   - In particular, cover both happy and unhappy paths, and consider tests for scenarios that could result in false positives or negatives
 
 ~documentation
 
 1. Update docs page eg https://docs.gitlab.com/ee/administration/audit_events.html
 1. Update the GraphQL examples https://gitlab.com/gitlab-org/govern/compliance/graphql-example-requests
 
+~quality
+
+1. Add new group-level end-to-end test based on existing project-level end-to-end test (include the path to the existing test eg `path/to/existing_test`)
+
 ```
 
-The [DRI](/handbook/people-group/directly-responsible-individuals/) is **highly** recommended to ping a relevant counterpart or domain expert if an issue covers multiple
-disciplines (for example backend and frontend) before moving the issue to `workflow::scheduling`. This gives
-the domain expert the opportunity to approve the implementation plan or raise any potential pitfalls or
-concerns before work begins.
+The [DRI](/handbook/people-group/directly-responsible-individuals/) will ping a relevant counterpart (Quality, UX, etc) and domain expert (database, backend, frontend) before moving the issue to `workflow::scheduling`. This gives the domain expert the opportunity to approve the implementation plan or raise any potential pitfalls or concerns before work begins.
 
 Once an issue has been estimated, it can then be moved to `workflow::scheduling` to be assigned a milestone before finally being `workflow::ready for development`.
