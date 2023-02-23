@@ -128,10 +128,11 @@ The goal is for coaches to add type, stage, and group labels, so that the releva
 This report contains community merge requests that may require some attention from GitLab team members.
 
 * Frequency: Weekly.
-* Assignees: [Contributor Success team](/handbook/engineering/quality/contributor-success/) + [Code Contributor Program Manager](/job-families/marketing/code-contributor-program-manager/).
-* Listed merge requests:
-  1. Merge requests from new unique monthly contributors, but idle for 7 days.
-  1. Merge requests idle for 28 days, excluding the ones listed in 1.
+* Assignees: [Contributor Success team](/handbook/engineering/quality/contributor-success/) + volunteer wider community members.
+* Listed merge requests (all awaiting GitLab response):
+  1. Merge requests from new contributors idle for 7 days.
+  1. Merge requests idle for 21 days (excluding ~group::runner).
+  1. ~group::runner merge requests idle for 21 days.
 * Triage action:
   1. Determine if the merge request should be followed through or closed.
   1. Determine if the merge request is ready or further changes are required.
