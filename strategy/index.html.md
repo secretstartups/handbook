@@ -54,9 +54,8 @@ Ensure that GitLab is the default when customers buy DevSecOps software.
 Build upon our current platform to meet current and future user needs. 
 
 1. Be recognized as the leader in the DevSecOps Platform Category
+    1. Be a replacement for the [existing Best In Class (BIC) tools](https://about.gitlab.com/devops-tools/) so people can switch from DIY DevOps to a DevSecOps Platform.
     1. [GitHub best in class comparison](/competition/github/) and differentiation 
-    1. GitHub Differentiation 
-    1. DIY best in class comparison
     1. [Plan](/direction/plan/)
         1. Provide mature planning solution to Ultimate customers
         1. Custom fields
