@@ -60,6 +60,7 @@ Team members are reimbursed on different schedules depending on their location. 
 * Upon review, if more clarification is needed for a certain expense, the AP team will contact the team member in the Navan tool to ask for justification of the transaction before approving or rejecting the expense.
 * The AP team will reach out to the team member’s manager if additional approval is needed.
 * If the claim is over the advised guidance, the claim will be rejected with a note for the team member.  The team member should be able to rectify the claim and resubmit.
+* Where the team member has already received approval from from manager, that approval should be attached as a receipt on the claim transaction.
 * Any claim made which does not fall into the policy is not reimbursable.
 * There will be occasions where if you have claimed an item and it needs to be reimbursed back to Gitlab, you will need to follow the reimbursement process in Navan for submission of the funds.
 
@@ -117,7 +118,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6021 - Professional dues, membership fees</td>
     <td class="tg-0pky">5021 - Professional dues, membership fees COGS</td>
     <td class="tg-0pky">Books, dues &amp; subscriptions</td>
-    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.</td>
+    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.<br> - $25.00 limit per month.</td>
   </tr>
   <tr>
     <td class="tg-btxf">Business Cards</td>
@@ -125,7 +126,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-btxf">6040 - Office Supplies</td>
     <td class="tg-btxf">5040 - Office Supplies COGS</td>
     <td class="tg-btxf">Office Supplies</td>
-    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo. Refer to the <a href="https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards"><span style="color:#905">Ordering Business Cards</span></a>.</td>
+    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo. Refer to the <a href="https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards"><span style="color:#905">Ordering Business Cards</span></a>.<br> - $15.00 limit per month.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Car Rental</td>
