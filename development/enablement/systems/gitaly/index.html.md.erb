@@ -187,6 +187,12 @@ The Gitaly consumers are:
 * [GitLab Workhorse](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/workhorse/index.md)
 * [GitLab Elasticsearch Indexer](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer)
 
+## Gitaly Deprecations
+
+Gitaly offers many customer facing features. As such, all deprecations to customer facing features will follow the standard [GitLab feature deprecations guidance](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) and announced within the [deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations.html). 
+
+Gitaly also offers many non-customer facing features, which are used by GitLab and other customers who directly interface with Gitaly. These Gitaly level deprecations will not be announced using the above methods as they are not designed for GitLab end users to interface with directly. Some examples of these non-customer facing features are storage level APIs, which should never be called by GitLab users.
+
 ## Retrospectives
 
 At the beginning of each release, the Gitaly EM will create a retrospective issue
