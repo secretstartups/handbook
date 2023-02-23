@@ -1342,7 +1342,7 @@ To get in touch with the [e-group](/company/team/?department=executive) on Slack
 | CProdO | `#product`   |
 | CTO    | `#cto`       |
 | CRO    | `#cro`       |
-| CMO    | `#marketing` |
+| CMO    | `#cmo` |
 | CPO    | `#cpo` |
 | CLO    | `#legal`     |
 
