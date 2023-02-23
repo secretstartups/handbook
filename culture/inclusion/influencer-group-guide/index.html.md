@@ -81,6 +81,15 @@ A GitLab team member who is responsible and accountable for specific deliverable
 
 *   For example, members who volunteer to be part of the newletter group.
 
+## Achieving Action
+
+To ensure that the group is achieving action the following steps will happen. 
+
+* The DIB Influencer Group will decide on a goal that they want to achieve for a quarter
+* The Leads and DIB Team will put together a series of actions that can be taken by the DIB Influencer Group
+* These bite-sized actions will be posted to all DIB Influencer Group members on a bi-weekly basis for the group members to take action on. 
+* On a monthly basis the DIB Influencer Group will meet to discuss the action taken and any results from the action
+
 ## Selection Criteria: 
 
 * [The team member must be performing](https://about.gitlab.com/handbook/leadership/underperformance/) in their role and not part of any performance management process as confirmed by the People Group
