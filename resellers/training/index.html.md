@@ -13,15 +13,15 @@ description: >-
 
 - - -
 
-<span class="colour" style="color: rgb(0, 0, 0);">GitLab offers global, role-based training and enablement to help you grow your skills and validate your expertise in GitLab. The GitLab Partner Enablement Team has created a robust program to support GitLab partners in selling, marketing, and providing services to GitLab customers. We offer training materials and prescriptive learning paths to support all roles within your organization including, accreditations for sales, pre-sales technical, and certifications for technical consulting services. </span>
+GitLab offers global, role-based training and enablement to help you grow your skills and validate your expertise in GitLab. The GitLab Partner Enablement Team has created a robust program to support GitLab partners in selling, marketing, and providing services to GitLab customers. We offer training materials and prescriptive learning paths to support all roles within your organization including, accreditations for sales, pre-sales technical, and certifications for technical consulting services.
 
 ## <span class="colour" style="color: rgb(252, 109, 38);">Benefits of GitLab Accreditations</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">GitLab has a commitment to enabling our partners with the skills that they need to best support current and future GitLab customers. This includes offering a combination of GitLab Partner Accreditations for Sales, Pre-Sales Technical, and Customer Success roles, as well as offering GitLab Certifications for partners committed to providing GitLab services to customers.  </span>
+GitLab has a commitment to enabling our partners with the skills that they need to best support current and future GitLab customers. This includes offering a combination of GitLab Partner Accreditations for Sales, Pre-Sales Technical, and Customer Success roles, as well as offering GitLab Certifications for partners committed to providing GitLab services to customers.
 
 ## <span class="colour" style="color: rgb(252, 109, 38);">Learn at your own pace</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">At GitLab we value asynchronous working relationships, that's why all of our Partner Accreditations and Certifications are self-paced and offered online. Learn anytime and anywhere with access to our training system using your GitLab Partner Portal login. 
+At GitLab we value asynchronous working relationships, that's why all of our Partner Accreditations and Certifications are self-paced and offered online. Learn anytime and anywhere with access to our training system using your GitLab Partner Portal login.
 
 | Sales| Pre-Sales Technical | Customer Success |
 | :---         | :---:    | ---:          |
@@ -38,7 +38,7 @@ description: >-
 
 ### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Verified Sales Core Associate</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">The GitLab Sales Core course provides the fundamental knowledge for individuals new to selling and delivering GitLab services. The GitLab Sales Core course is the prerequisite for all pre-sales technical and sales professionals. By completing this course and scoring above 80% on the exams, you will earn a GitLab Verified Sales Core completion badge and will contribute to the Sales Accreditation program requirements for your company. </span>
+The GitLab Sales Core course provides the fundamental knowledge for individuals new to selling and delivering GitLab services. The GitLab Sales Core course is the prerequisite for all pre-sales technical and sales professionals. By completing this course and scoring above 80% on the exams, you will earn a GitLab Verified Sales Core completion badge and will contribute to the Sales Accreditation program requirements for your company.
 
 **Course Content Summary** (approx. 3 hours to complete)
 - Introduction to GitLab culture and product
@@ -51,13 +51,13 @@ description: >-
 
 ### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Sales Specialties</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">GitLab Sales Specialties dive deeper into specified GitLab use cases including: DevOps Platform, Continuous Integration (CI), DevSecOps, and Agile Management.</span>
+GitLab Sales Specialties dive deeper into specified GitLab use cases including: DevOps Platform, Continuous Integration (CI), DevSecOps, and Agile Management.
 
 
 
 #### <span class="colour" style="color: rgb(56, 13, 117);">GitLab DevOps Platform Sales Specialist </span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">The GitLab Sales Specialist in DevOps Platform will prepare learners with an understanding of the DevOps lifecycle and how to increase their customers' operational efficiencies. Upon the completion of this course learners will be able to define a DevOps Platform and be able to position GitLab as the superior DevOps Platform. </span>
+The GitLab Sales Specialist in DevOps Platform will prepare learners with an understanding of the DevOps lifecycle and how to increase their customers' operational efficiencies. Upon the completion of this course learners will be able to define a DevOps Platform and be able to position GitLab as the superior DevOps Platform.
 
 **Course Content Summary** (approx. 40 minutes to complete)
 - What is a DevOps Platform?
@@ -71,7 +71,7 @@ description: >-
 
 #### <span class="colour" style="color: rgb(56, 13, 117);">GitLab DevSecOps Sales Specialist </span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">The DevSecOps Sales Specialist will prepare pre-sales professionals with industry relevant knowledge on the DevSecOps Market, Industry, and provide the best practices from GitLab in the DevSecOps space.</span>
+The DevSecOps Sales Specialist will prepare pre-sales professionals with industry relevant knowledge on the DevSecOps Market, Industry, and provide the best practices from GitLab in the DevSecOps space.
 
 **Course Content Summary (approx. 1 hour to complete)
 - The DevSecOps Market
@@ -86,7 +86,7 @@ description: >-
 
 #### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Continuous Integration Sales Specialist </span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">The GitLab Continuous Integration Sales Specialist course provides learners with a fundamental framework of Continuous Integration (CI). At the end of this session, you will be able identify target personas for a CI conversation, understand the CI market, and position the GitLab CI solution.</span>
+The GitLab Continuous Integration Sales Specialist course provides learners with a fundamental framework of Continuous Integration (CI). At the end of this session, you will be able identify target personas for a CI conversation, understand the CI market, and position the GitLab CI solution.
 
 **Course Content Summary** (approx. 1 hour to complete)
 - What is Continuous Integration?
@@ -100,22 +100,21 @@ description: >-
 
 #### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Agile Management Sales Specialist </span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">The GitLab Agile Management Sales Specialist course will guide learners through the basics of Agile Management, the Agile Management market, and the GitLab Agile Management Solution. At the end of this course, sales professionals will be able to position GitLab Agile Management as a part of the DevOpsPlatform solution. </span>
+The GitLab Agile Management Sales Specialist course will guide learners through the basics of Agile Management, the Agile Management market, and the GitLab Agile Management Solution. At the end of this course, sales professionals will be able to position GitLab Agile Management as a part of the DevOpsPlatform solution.
 
 **Course Content Summary** (approx. 1 hour to complete)
 - What is Agile Management?
 - Agile Management Market Requirements
 - Target Personas
-- GitLab’s Agile Management Solution </span>
+- GitLab’s Agile Management Solution
 
-<span class="colour" style="color: rgb(0, 0, 0);"><u>**Prerequisites**:</u></span>
-<span class="colour" style="color: rgb(0, 0, 0);">GitLab Verified Sales Core Associate</span>
+**Prerequisites**:< GitLab Verified Sales Core Associate
 
 
 
 ### <span class="colour" style="color: rgb(56, 13, 117);">**GitLab Sales Professional Accreditation**</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">Upon the completion of the Verified Sales Core badge AND all four of the Sales Specialties, learners will be awarded the GitLab Sales Professional Certification. Certified GitLab Sales Professionals are able to identify GitLab target audiences, summarize the GitLab Solution Portfolio, and successfully position the value of GitLab to customers. </span>
+Upon the completion of the Verified Sales Core badge AND all four of the Sales Specialties, learners will be awarded the GitLab Sales Professional Certification. Certified GitLab Sales Professionals are able to identify GitLab target audiences, summarize the GitLab Solution Portfolio, and successfully position the value of GitLab to customers.
 
 **Accreditation Requirements (approx. 6 hours to complete)
 - GitLab Verified Sales Core Associate 
@@ -130,7 +129,7 @@ description: >-
 
 ### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Verified Solutions Architect Core Associate</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">This fundamental course is designed for pre-sales technical professionals such as Solutions Architects or Sales Engineers and goes in depth demonstrating, deploying, integrating, and optimizing GitLab Solutions. The GitLab Solutions Architect Core meets the program requirements for pre-sales technical accreditation. </span>
+This fundamental course is designed for pre-sales technical professionals such as Solutions Architects or Sales Engineers and goes in depth demonstrating, deploying, integrating, and optimizing GitLab Solutions. The GitLab Solutions Architect Core meets the program requirements for pre-sales technical accreditation.
 
 **Course Content Summary** (approx 40 minutes to complete
 - GitLab Integrations
@@ -142,7 +141,7 @@ description: >-
 
 ### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Professional Services Engineer (PSE)</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">GitLab Professional Services Engineer (PSE) certification is a technical deep dive to help partners validate their ability to deliver implementation, migration, and consulting services to customers. This certification consists of six modules. Upon completion learners will possess the skills needed to deploy the GitLab Platform, migrate data to GitLab, and provide workflow advisory services for customers. This certification satisfies the PSE requirement for the GitLab [Certified Professional Services Partner Certification](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-professional-services-partner-requirements).
+GitLab Professional Services Engineer (PSE) certification is a technical deep dive to help partners validate their ability to deliver implementation, migration, and consulting services to customers. This certification consists of six modules. Upon completion learners will possess the skills needed to deploy the GitLab Platform, migrate data to GitLab, and provide workflow advisory services for customers. This certification satisfies the PSE requirement for the GitLab [Certified Professional Services Partner Certification](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-professional-services-partner-requirements).
 
 **Certification Requirements** (approx. 10 hours to complete)
 - [Gitlab Implementation Specialist](https://about.gitlab.com/services/pse-certifications/implementation-specialist/)
@@ -154,27 +153,26 @@ description: >-
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Accessing Training Materials </span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">All enablement materials can be accessed via the GitLab Partner Portal. Job aides, white papers, and battlecards can be found in the central [library when you log in](https://partners.gitlab.com/prm/English/s/assets). </span>
+All enablement materials can be accessed via the GitLab Partner Portal. Job aides, white papers, and battlecards can be found in the central [library when you log in](https://partners.gitlab.com/prm/English/s/assets). </span>
 
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Enrolling in Accreditation and Certification Courses</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">To sign up for any of the courses listed on this page, please visit the training section on the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/c/Training) and select Level Up. You do not require a seperate login or credentials to access the GitLab Training Portal from the Partner Portal. </span>
+To sign up for any of the courses listed on this page, please visit the training section on the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/c/Training) and select Level Up. You do not require a seperate login or credentials to access the GitLab Training Portal from the Partner Portal.
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Accreditation vs. Certification</span>
 
-<span class="colour" style="color: rgb(0, 0, 0);">[A GitLab Technical Certification](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) requires learners to first pass a written assessment, followed by a hands-on lab assessment proctored by GitLab. This includes our Professional Services Engineer Certification and upcoming Managed Services Engineer Certification as well as access to new GitLab Certifications launching in 2022. 
+[A GitLab Technical Certification](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) requires learners to first pass a written assessment, followed by a hands-on lab assessment proctored by GitLab. This includes our Professional Services Engineer Certification and upcoming Managed Services Engineer Certification as well as access to new GitLab Certifications launching in the future.
 
 A GitLab Accreditation is unique to GitLab Partners and GitLab field sales members and requires learners to pass a written assessment. This includes Accreditation pathways such as Sales Professional Accreditation. 
 
 GitLab Partners have access to both GitLab Certifications and Accreditations within our Learning Experience Platform. 
- </span>
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Badge Award Process</span>
 GitLab uses Credly to award our Technical Certifications and Accreditations. Once you have successfully completed all components of an Accreditation or Certification, you will receive an email notification. You will need to accept the badge. Once you accept the badge, you will be able to share your badge, attach your badge to your email, and attach your badge to your LinkedIn profile. Please refer to the below links to assist you in managing your badge(s):
 
 - [Accepting a Credly badge](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/4/nw0aGmV6G5Esfsk-xF_4sA/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvc2VjdGlvbnMvMzYwMDAzMjA1MDcyLS1BY2NlcHRpbmctYS1CYWRnZQ)
-- [Sharing your Credly badge](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/5/ZKE61sST9_rPpsj-lUbkwg/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIwOTY0MjcyLUhvdy1kby1JLXNoYXJlLW15LWJhZGdlLQ))  
+- [Sharing your Credly badge](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/5/ZKE61sST9_rPpsj-lUbkwg/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIwOTY0MjcyLUhvdy1kby1JLXNoYXJlLW15LWJhZGdlLQ) 
 - [Attach your Credly badge to your email signature](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/6/ZnaKBtuiWTTM1pqvhYwqIQ/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIxMjIxNjkxLUNhbi1JLWF0dGFjaC1teS1iYWRnZS10by1teS1lbWFpbC1zaWduYXR1cmUt)
 - [How to add your Credly badge to your LinkedIn profile](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/7/m68qrTeXEYBjC2rF1uBYmA/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIxMjIxNDkxLUhvdy1jYW4tSS1hZGQtbXktYmFkZ2UtdG8tbXktTGlua2VkSW4tcHJvZmlsZS1hbmQtc2hhcmUtdG8tbXktZmVlZC0)
 - [How to add a secondary email address to your Credly profile](https://support.credly.com/hc/en-us/articles/360021220951-Can-I-add-multiple-emails-to-my-account-#:~:text=Click%20on%20the%20profile%20icon%20at%20the%20top%20right%2Dhand,email%20the%20primary%20email%20address.)
