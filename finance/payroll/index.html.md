@@ -29,7 +29,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 - GitLab Inc (US) - ADP
 - GitLab GmbH (Germany) - CloudPay
 - GitLab LTD (UK) - Papaya Global
-- GitLab PTY (Australia) - [iiPay](#iipay---australia)
+- GitLab PTY (Australia)
 - GitLab PTY (New Zealand) - CloudPay
 - GitLab Canada Corp (Canada) - CloudPay
 - GitLab Ireland Ltd (Ireland) - CloudPay
@@ -219,27 +219,19 @@ If you experience login issues, please send an e-mail to uspayroll@gitlab.com so
 ### Australia, UK, Belgium, Netherlands, Finland, Germany, Ireland, New Zealand, Japan, France, Singapore & South Korea Monthly Payroll Process
 
 1. The due date for payroll changes to the providers is usually the 10th of each month with exception of Australia (12th) and UK (15th).  If the due date falls on a weekend or a holiday, then it will be the business day before. Please review the relevant [Payroll Calendar links](#payroll-cut-off-dates) in the Payroll Cut Off Dates section on this page.  If a new team member starts after the Payroll cut off they will be paid in the following months Payroll with the salary back dated (ie if you start on the 16th June, you will be paid in the July Payroll for the month of July and back dated for June).
-1. The Total Rewards Team will add certain bonuses, promotions, title changes and other relevant information to the Payroll Changes template.
-1. Payroll will gather all changes, along with any commissions, salary changes & expenses (expenses for only UK, Finland, Canada, France, South Korea & Singapore) and enter onto a password protected file.
-1. Payroll sends the payroll changes file to the local payroll providers.
-1. The Local payroll providers will send the payroll reports to Payroll for review and approval.
-1. The Payroll Specialist will review and notify Payroll Manager for final review and approval.  Once that is completed then final approval will be sent before the 21st of the month.
-1. Payroll & final reports will be uploaded and saved into the relevant Entity folder.
-1. Payroll will notify the Payments team of funds due.
-1. GL reporting will be worked on once available from the local provider and forwarded to the GL team at least 4 days before check date.
 
 ### Changing bank information
 
-1. If changing banking information for any reason please ensure to let nonuspayroll@gitlab.com know, and then update Workday accordingly. Please see WorkDay guide [here](https://about.gitlab.com/handbook/people-group/workday/workday-guide/#workday-guides). 
+1. Please update WorkDay Payment Elections and Payroll team will receive a notification. Please see WorkDay guide [here](/handbook/people-group/workday/workday-guide/#workday-guides). 
 
-### Global Upside - France
+### France
 
 1. All new hires will receive an invite from Global Upside to access the Egnyte platform (for uploading new hire documents securely) and all team members should receive access to the Mihi platform (for time & leave tracking) 
 1. Managers are required to approve hours & leave through the Mihi portal to which they will receive an invite and should receive a notification when approvals are due (usually by the 8th of each month). Please find the France [Payroll Calendar](https://about.gitlab.com/handbook/finance/payroll/#payroll-cut-off-dates) in the Payroll Cut Off Dates section below. If a Manager is going to be out of office and needs to delegate an approver (usually the direct Manager), & they can do so by emailing gitlab@globalupside.com       
 1. Team members in France will need to use PTO by Deel in Slack to show that they are out of office, and will also need to enter the same into the Mihi platform.
-1. Expenses are to be submitted on Expensify and should be final approved as per the Payroll calendar, Payroll will forward these to Global Upside for processing.
+1. Expenses are to be submitted on Navan Expense and should be final approved as per the Payroll calendar, Payroll will forward these to Global Upside for processing.
 
-### iiPay - Australia
+### Australia
 
 For team members of GitLab PTY (Australia), to view payslips visit the [iiPay sign-in portal](https://pay.iipaysp.com/GITL).
 
@@ -249,10 +241,17 @@ For Leavers, you can request for extended access to the iiPay portal to retrieve
 
 **Password reset**: your _GitLab email_ is your username to reset the password.
 
+Important: It is required for team member to update their state in WorkDay. 
+
+### Germany
+
+1. New hire team member must provide Social Insurance number (Sozialversicherungsnummer) and TAX ID number (Steueridentifikationsnummer) correctly in the LPI form. Mske sure to update this in your WorkDay Personal > IDs.
+1.  If this is your first employment in Germany and don’t have the above details, please send them to payroll as soon as you will receive it by post.
+
 
 ## iiPay - Contractors
 
-1. Team members must submit their salary invoices through BambooHR and expenses through Expensify by the 8th of each month. For example, submit May salary invoice in the month of May, which is the current month.
+1. Team members must submit their salary invoices through BambooHR by the 8th of each month and expenses through Navan Expense and have them approved by 6th of the month. For example, submit May salary invoice in the month of May, which is the current month.
 
 1. To enter salary invoice in BambooHR:
    * Visit "My Info" page
@@ -274,7 +273,7 @@ For Leavers, you can request for extended access to the iiPay portal to retrieve
 1.  The invoice will be visible in BambooHR at that time
 1.  Note - Once Payroll approved the invoice, any corrections to that invoice must be edit by Payroll through correction request(s) email to       nonuspayroll@gitlab.com
 1.  All invoices will be approve by Payroll by the 9th of each month
-1.  For expense reimbursement, team member will need to submit through Expensify and report(s) must be approved by managers by the 8th of each month
+1.  For expense reimbursement, team member will need to submit through Navan Expense and report(s) must be approved by managers by the 8th of each month
 1.  Accounts Payable will approve all expense reports by the 8th of each month and forward to Payroll.
 1.  If the 8th fall on the holidays or weekend, then the due date will move to the last business day before the 8th.
 1.  For all new hires starting after the 8th of each month, then the current month payment will be paid with the following month's invoice as separate payment. For example, new joiner who joined after 8th April to submit pro-rated April salary invoice by the 8th of the following month, which is 8th of May.
@@ -309,7 +308,7 @@ For Leavers, you can request for extended access to the iiPay portal to retrieve
 
 Team members from the above countries will get paid through CXC Global on or around the 25th of each month: 
 
-1. Team members should ensure their expenses are final approved on Expensify before the 8th of each month so they can include them on their invoice to CXC.
+1. Team members should ensure their expenses are final approved on Navan Expense before the 6th of each month so they can include them on their invoice to CXC.
 1. Payroll will gather & submit any commission, bonus, and expenses to CXC by the 10th of each month (unless this falls on a weekend then it will be the working day before). This is to give CXC time to invoice GitLab for the cost and for GitLab to turn around the payment to ensure funding.
 1. Team members should submit their monthly invoice (Salary, bonus, commission, expense, etc) to CXC Global <gitlabpayrollteam@cxcglobal.com> any time between the 12th to the 15th of each month using either the following [template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) or any other format as preferred. 
 1. CXC checks that the Payroll submission matches with the invoice, thereafter payment is issued.
@@ -345,7 +344,7 @@ Payroll changes will be sent by the 10th of the month.  Global Upside will send 
 - Sweden
 - Luxembourg
 
-The internal cut off is by the 8th of each month for team members to have expenses fully approved in order to meet the Payroll. Payroll changes will be sent to Remote by the 10th of each month. Payroll changes includes changes on member's information, bonus, commission, expense etc. Remote will provide the  payroll report along with the invoices. Once reviewed and approved, Payroll will forward the invoices to the Accounts Payable team. Paydate is the 25th of each month (unless any unforeseen banking issue then please allow 1 or 2 days before the last day of the month).
+The internal cut off is by the 6th of each month for team members to have expenses fully approved in order to meet the Payroll. Payroll changes will be sent to Remote by the 10th of each month. Payroll changes includes changes on member's information, bonus, commission, expense etc. Remote will provide the  payroll report along with the invoices. Once reviewed and approved, Payroll will forward the invoices to the Accounts Payable team. Paydate is the 25th of each month (unless any unforeseen banking issue then please allow 1 or 2 days before the last day of the month).
 
 #### Papaya Global
 
@@ -381,7 +380,7 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 ### Payroll accuracy for each check date = 100%
 Payroll is paid on time and accurately for each check date.
 
-### Payroll journal entry reports submitted to Accounting <= Payroll date + 2 business days
+### Payroll journal entry reports submitted to Accounting <= Payroll date - 2 business days
 Payroll journal entry reports are to be submitted to Accounting GL team:
 - Non-US legal entities (except for Canada)- four calendar days before the check date
 - US and Canada - two calendar days before the check date
