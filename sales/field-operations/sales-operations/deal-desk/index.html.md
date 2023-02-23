@@ -758,6 +758,13 @@ If you'd like to save time by cloning an existing quote, you can do so by doing 
     * If you did not select the Maintain Quote option, you are redirected to the Quote Detail page of the newly cloned quote.
 4. Please note that you cannot clone the products on an amendment (add-on or renewal quote.)
 
+#### How to Extend a Quote Expiration Date
+
+1. On the Quote Detail page of the quote you want to extend, click "Edit Quote Details".
+2. On the "Edit Quote Details" page change the "Valid Until" field to the new expiration date
+    * The quote should not be extended for more than 30 days past the day it's updated. 
+3. Click save on the bottom of the page and the new expiration date should be relfected on the quote PDF.
+
 #### How to Create a Draft Proposal
 
 Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal. 
@@ -842,6 +849,8 @@ E.  If you have **multiple quote objects** under one opportunity, the quote you 
 F.  Please note that we should avoid processing contract reset if the customer is only looking to add additional users mid-term as this can be processed via add-on and amend subscription quote object.
 
 G. Please note that backdated amendments for adding additional users can be processed before renewal but once renewal is processed any overusage can only be processed by charging the customer for true-ups.
+
+
 
 ### Alliance Marketplace Private Offers
 
