@@ -68,13 +68,25 @@ Ensure alignment between the customer and the Zuora account:
 
 Set the customer as a subscription management contact by creating a billing account membership:
 
-1. Locate the CustomersDot billing account for the provided Zuora account
-1. Navigate to the `Billing account memberships` section
-1. Select the `+ Add new` action
-1. Select the proper customer and CustomersDot billing account for the new subscription management request
-1. Click `Save`
+1. Locate the CustomersDot billing account for the provided Zuora account.
+1. Navigate to the `Billing account memberships` section.
+1. Select the `+ Add new` action.
+1. Select the proper customer and CustomersDot billing account for the new subscription management request.
+1. Click `Save`.
 
 **Note:** If a customer already has a billing account membership, it is not currently possible to create a second billing account membership for this customer.
+
+Remove an existing billing account membership to associate a customer with a different billing account:
+
+1. Navigate to the `Billing account memberships` section.
+1. Locate the correct billing account membership (e.g. by searching for the customer's email address).
+1. Open the billing account membership and select `x Delete` action.
+1. Confirm the correct billing account membership was selected.
+1. Select `Yes, I'm sure`.
+1. See the `Billing account membership successfully deleted`  success notification.
+1. Refer to the paragraph above if you want to add a new billing account membership to the customer.
+
+**Note:** If the deleted billing account membership was the only one associated with the billing account, please ensure that this is the desired state.
 
 ## Change subscription management contact workflow
 
