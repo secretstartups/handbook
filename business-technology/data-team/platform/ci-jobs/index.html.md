@@ -113,6 +113,13 @@ The following jobs use the same selection syntax as the regular DBT runs, but th
 
 Specify which model to run with the variable `DBT_MODELS`. Clones all models in the provided selection. Does not run any DBT tests or validation. This job will fail for the same errors as the existing DBT process (i.e. ensure that you have selected the correct lineage above your model).
 
+#### 🏗️🔆run_changed_️clone_model_dbt_select
+
+Clones all models in the provided selection. Does not run any DBT tests or validation. This job will fail for the same errors as the existing DBT process (i.e. ensure that you have selected the correct lineage above your model).
+Runs all the models in the MR diff whose SQL has been edited. Does not pickup changes to schema.yml / source.yml, only .sql files.
+* (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
+* (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models.
+
 ### ⚙️ dbt Run
 
 These jobs are defined in [`snowflake-dbt-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/snowflake-dbt-ci.yml)
