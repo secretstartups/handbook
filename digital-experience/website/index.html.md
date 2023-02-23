@@ -613,37 +613,36 @@ Important guidelines to keep in mind:
 
 The [`/resources`](/resources/) section of the website contains downloadable files and links to helpful content.
 
-1. To add a resource, edit the [`resources.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/resources.yml) file.
-1. To create a new entry for your resource, use this template and add it to the top of `resources.yml`:
+1. To add a resource, edit the [`resources-list.yml`](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/resources/resources-list.yml) file in the Buyer Experience repo.
+1. To create a new entry for your resource, use this template and add it to the top of `resources-list.yml`, just below the top `resources:` tag:
 
 ```
-- title:
-  url:
-  image: /images/resources/gitlab.png
-  type: Pick one --> 'Blog post' 'One-pager' 'Report' 'Webcast' 'White paper'
-  topics:
-    - Cloud native
-    - Code review
-    - Continuous delivery
-    - Continuous integration
-    - DevOps
-    - Git
-    - GitLab
-    - On-demand training
-    - Public Sector
-    - Security
-    - Software development
-  solutions:
-    - Distributed teams
-    - Accelerated delivery
-    - Executive visibility
-    - Project compliance
-    - Security and quality
+resources:
+  - title:
+    url:
+    type: Pick one --> 'Blog post' 'One-pager' 'Report' 'Webcast' 'White paper'
+    language:
+    topics:
+      - Cloud native
+      - Code review
+      - Continuous delivery
+      - Continuous integration
+      - DevOps
+      - Git
+      - GitLab
+      - On-demand training
+      - Public Sector
+      - Security
+      - Software development
+    solutions:
+      - Distributed teams
+      - Accelerated delivery
+      - Executive visibility
+      - Project compliance
+      - Security and quality
 ```
 
 1. **Uploading a PDF**: If the resource you'd like to add is a PDF, it can be uploaded to [`/pdfs/resources/`](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/pdfs/resources/).
-1. **Selecting an image**: Each resources has a thumbnail image based on their topic; select the most relevant image for the content. The current thumbnail images are shown below and can be found [here](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/resources).
-![ALT](/images/resources/resource-page-thumbnails.png)
 1. **Selecting a type**: All resource types are listed in the code snippet above; select one that best fits your content. If the resource does not fit the current types, please submit a proposal for new resource type(s).
 1. **Selecting topics & solutions**: The code snippet above provides all of the current topics and solutions; chose the topics and solutions that best apply to the content. Please note they are case sensitive and incorrect casing or spelling will result in the generation of new, unwanted, topics and/or solutions.
 
