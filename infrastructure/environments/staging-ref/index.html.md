@@ -106,15 +106,41 @@ To promote your user to Admin, please sign in as Admin using the `Staging Ref cr
 
 Note that Staging Ref environment is shared across all engineers. If you plan to perform changes to GitLab Admin settings, use the [`#staging-ref`](https://gitlab.slack.com/archives/C02LN0K1N3Y) Slack channel to communicate changes broadly.
 
+#### SSH access and Rails console
+
+If you have `gcloud` or `kubectl` set up locally, then follow [Connect from your local terminal](#connect-from-your-local-terminal). If not, then you can opt to [connect via your browser](#connect-via-your-browser).
+
+##### Connect via your browser
+
+1. Get [access to the GCP project `gitlab-staging-ref`](#request-access-to-gcp-project-and-environment)
+1. Visit **GCP > Kubernetes > Workloads** in [the `gitlab-staging-ref` project](https://console.cloud.google.com/kubernetes/workload/overview?project=gitlab-staging-ref)
+1. Click the Workload `gitlab-toolbox`
+1. In the **Managed pods** section, click on the **Name** of a Running pod. For example, the **Name** looks like `gitlab-toolbox-5955db475c-ng2xr`.
+1. Click the **Kubectl** dropdown near the top
+1. Hover over **Exec** to reveal a sub menu
+1. Click **toolbox**
+1. A Cloud Shell should start up
+1. Edit the command `kubectl exec gitlab-toolbox-5955db475c-ng2xr -c toolbox -- ls` to execute the `bash` command with the [interactive and TTY options](https://docs.docker.com/engine/reference/commandline/container_exec/). It should look like `kubectl exec -it gitlab-toolbox-5955db475c-ng2xr -- bash` (the toolbox will have a different suffix).
+1. At this point, you should be logged in to the toolbox pod. For Rails console, run `gitlab-rails console`.
+1. See [Kubernetes cheat sheet](https://docs.gitlab.com/charts/troubleshooting/kubernetes_cheat_sheet.html#gitlab-specific-kubernetes-information) for more
+
+##### Connect from your local terminal
+
+1. Navigate to the [staging-ref cluster](https://console.cloud.google.com/kubernetes/clusters/details/us-east1-c/staging-ref-10k-hybrid/details?project=gitlab-staging-ref&cloudshell=false)
+1. Click **Connect**
+1. Copy the command and run it locally to get `kubeconfig`
+1. Follow [Kubernetes cheat sheet](https://docs.gitlab.com/charts/troubleshooting/kubernetes_cheat_sheet.html#gitlab-specific-kubernetes-information)
+1. Also see [additional developer tools](https://docs.gitlab.com/charts/development/environment_setup.html#additional-developer-tools)
+
 #### Request access to GCP project and environment
 
 If you need access to Staging Ref components in the GCP project(`gitlab-staging-ref`), please reach out in the `#staging-ref` Slack channel. [Quality Engineering Managers](/handbook/engineering/quality#management-team) can [add](https://support.google.com/groups/answer/2465464?hl=en) you to [`gcp-staging-ref-sg@gitlab.com` Google group](https://groups.google.com/a/gitlab.com/g/gcp-staging-ref-sg/members).
 
 As another option you can create an issue in [the access-request project](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request). Requests for access to server environments requires the approval of your manager and an Infrastructure manager.
 
-A simplified process to request SSH access to Staging Ref virtual machines and the GKE cluster is being worked on in [issue#343938](https://gitlab.com/gitlab-org/gitlab/-/issues/343938).
-
 Note that GitLab configuration changes will be overwritten by a new deployment to the environment. Environment updates can be locked if needed by a request to `@release-managers` in the `#staging-ref` Slack channel.
+
+A simplified process to request SSH access to Staging Ref virtual machines and the GKE cluster is being worked on in [issue#343938](https://gitlab.com/gitlab-org/gitlab/-/issues/343938).
 
 #### Trigger QA pipelines
 
