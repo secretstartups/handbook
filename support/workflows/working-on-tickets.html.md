@@ -255,7 +255,11 @@ There will be times when you may be leading an escalation, working through chall
       can't make that determination, assign it to an engineer who has
       significantly contributed to the ticket throughout its life cycle
 
-### 7. How can I open a new ticket on behalf of a customer?
+### 7. How many issues or incidents should I handle in a single support ticket?
+
+   As detailed in [Support General Policies](https://about.gitlab.com/support/general-policies/#we-handle-each-incident-within-a-single-support-ticket) it is GitLab's policy to handle each unique issue or incident within a single support ticket.
+
+### 8. How can I open a new ticket on behalf of a customer?
 
    As detailed in the [Support General Policies](https://about.gitlab.com/support/general-policies/#we-handle-each-incident-within-a-single-support-ticket) it is GitLab policy to handle each individual incident, problem or issue within a single support ticket. If a situation arises where you need to open a new ticket on behalf of a customer then please use the following steps: 
 
