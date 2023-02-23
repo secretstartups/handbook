@@ -154,3 +154,11 @@ The team will track total number of MRs merged with the `Beautifying our UI` lab
 
 * We don't know how much time will be required during the experiment for these pairings to be successful, so we can't predict the impact to participants' regular milestone work, OKRs, and so on.
 * The experiment will focus on fixing friction points identified during heuristic reviews, which means that we won't conduct user research. There is a possibility that we will inadvertently introduce new friction points.
+
+## UX Paper Cuts Team
+
+The UX Paper Cuts team is a small team responsible for identifying and fixing small, but impactful, usability issues in the GitLab product. The term "paper cut" refers to a small, seemingly insignificant problem that can cause annoyance or frustration for users. When considered as a collective, these problems can reduce the overall impression users have of the product.
+
+The UX Paper Cuts team continuously improves the user experience by creating merge requests to address these small issues. By focusing on small details, the team helps create a more polished and user-friendly interface, leading to increased user satisfaction, engagement, and, ultimately, a more successful product. 
+
+You can find changes made by the UX Paper Cuts by following along in the [GitLab Polish Gallery](https://nicolasdular.gitlab.io/gitlab-polish-gallery/), the internal Slack channel `#ux_paper_cuts_mrs`, or by searching the GitLab label [UX Paper Cuts](https://gitlab.com/dashboard/merge_requests?scope=all&state=all&label_name[]=UX%20Paper%20Cuts). 
