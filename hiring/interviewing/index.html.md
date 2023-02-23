@@ -74,6 +74,16 @@ In Preferences, interviewers also have the ability to set daily and weekly Inter
 
 ![Interview limits](./Limits.png)
 
+## Guide
+Guide is the Interview Confirmation tool CES uses to send candidates their interview schedule. Guide provides candidates information about what their interview journey looks like, their interviewers, and Gitlab! You have the ability as an interviewer to update your Guide profile which can include a photo, bio and more about your role here at GitLab. 
+
+**Logging into Guide**
+- To log in, simply visit [Guide](https://app.guide.co/account/profile) and use your GitLab email to log in.
+- Once logged in, Click on your initials in the top right corner of the screen. 
+- Select Account and Preferences
+- Select Edit Profile
+- Finally, select Save Changes
+
 ## Greenhouse
 
 Greenhouse is our Applicant Tracking System. To activate your greenhouse profile, simply log into Greenhouse via Okta. This will launch the application and activate your profile. If you do not have a Greenhouse tile in your Okta account, please reach out to IT and submit and AR to have this added.
