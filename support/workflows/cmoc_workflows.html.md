@@ -191,21 +191,7 @@ A better response would be to assume that an action was requested, relay your in
 
 #### Create Incident
 
-You can create an incident on Status.io with minimal effort through Slack (provided by Woodhouse) **OR** manually if need be (e.g., Slack is down or you need to customize the incident more than what the Slack form allows).
-
-#### Create Through Slack
-{:.no_toc}
-
-You simply need to issue `/incident post-statuspage` from anywhere on Slack. You will be presented with a pre-filled form that you can update to your liking. Once submitted, the incident will be broadcast to the following media:
-
-- Email subscribers
-- Webhook subscribers
-- Slack subscribers
-- IRC (#gitlab on [Libera Chat](https://libera.chat))
-- MS Teams subscribers
-- [Twitter](https://twitter.com/gitlabstatus)
-- [RSS feed](https://status.gitlab.com/pages/5b36dc6502d06804c08349f7/rss)
-- [iCalendar](webcal://status.gitlab.com/pages/5b36dc6502d06804c08349f7/calendar/all.ics)
+You can create an incident directly through the `status.io` website **OR** through Slack (provided by Woodhouse). It is recommended to use the `status.io` website directly as it permits further customization of the incident beyond what the Slack form allows. It is also easier to confirm that the incident was created properly when using the `status.io` website. 
 
 #### Create Through Status.io
 {:.no_toc}
@@ -233,6 +219,20 @@ Then, fill out all of the details of the incident. The following values should b
 The following is an example of an incident ready to be created regarding a delay in job processing on GitLab.com, and is generally what this page should look like before being submitted based on the guidelines above.
 
 ![Incident details](/images/support/cmoc_incident_details.png){: .shadow}
+
+#### Create Through Slack
+{:.no_toc}
+
+You simply need to issue `/incident post-statuspage` from anywhere on Slack. You will be presented with a pre-filled form that you can update to your liking. Once submitted, the incident will be broadcast to the following media:
+
+- Email subscribers
+- Webhook subscribers
+- Slack subscribers
+- IRC (#gitlab on [Libera Chat](https://libera.chat))
+- MS Teams subscribers
+- [Twitter](https://twitter.com/gitlabstatus)
+- [RSS feed](https://status.gitlab.com/pages/5b36dc6502d06804c08349f7/rss)
+- [iCalendar](webcal://status.gitlab.com/pages/5b36dc6502d06804c08349f7/calendar/all.ics)
 
 #### Notify Stakeholders
 
