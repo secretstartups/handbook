@@ -185,6 +185,11 @@ The Corporate Development team is responsible for overseeing and facilitating th
 
 The integration process is outlined in our [acquisition integration page](/handbook/acquisitions/acquisition-process/integration/).
 
+### Terminated Acquisition Engagements
+
+1. The corporate development acquisition lead will archive all slack channels associated with the acquisition. 
+1. In accordance with the signed NDA, the GitLab corporate development acquisition lead, and all other deal participants in possession of preliminary and confirmatory deal diligence materials, will make best effort to remove the materials from GitLab's internal drives and repositories.
+
 ## Acquisition Team
 
 An acquisition team will consist of the following GitLab functional team members:
