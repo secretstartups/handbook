@@ -86,17 +86,17 @@ TT220: GitLab Package, Configure, and Release
 >
 > 3 credit hours
 
-TT230: GitLab Manage, Monitor, and Govern
+TT230: GitLab Manage, Monitor, and Govern (deprecated)
 > In this class, we will learn about manage, monitor, and govern functionality. Topics include how we allow engineering leaders to make proactive decisions to optimize their organizations and infrastructure.
 >
 > 3 credit hours
 
-TT240: GitLab Workshop 2
+TT240: GitLab Workshop 2 (deprecated)
 > Learn GitLab by seeing it in action. In this class, we will walk through what a new customer does when setting up the product and explain how we are different from our competitors.
 >
 > 3 credit hours
 
-TT241: Free to Paid
+TT241: Free to Paid (deprecated)
 > In this class, we talk about how to identify free users in your accounts, connect with prospects, and ultimately handle the free-to-paid conversation.
 >
 > 3 credit hours
@@ -128,7 +128,7 @@ TT301: Security as a Differentiator
 >
 > 3 credit hours
 
-TT305: AWS and Google Alliances
+TT305: AWS and Google Alliances (deprecated)
 > In this class, we will learn about what alliances are and discuss our co-sell motions with Amazon and Google. Great for those that are planning on working AWS/Google events.
 >
 > 3 credit hours
@@ -153,35 +153,25 @@ TT332: Leadership Perspectives
 >
 > 3 credit hours
 
-TT380: Technical Questions for Sales
+TT380: Technical Questions for Sales (deprecated)
 > This is a class offered by the sales enablement organization equipping salespeople to answer the most commonly asked technical questions. You may see the curriculum [here](/handbook/sales/training/technical-questions-for-sales/). This class is delivered async only.
 >
 > 5 credit hours
 
-TT381: The Sales Required 7
+TT381: The Sales Required 7 (deprecated)
 > This is another class offered by the sales enablement organization and covers Ryan O'Neil's required seven sales process. Recommended for those considering applying to the commercial sales organization.
 >
 > 5 credit hours
 
 **Role-Based Classes -**
 
-Inbound (WIP):
+Inbound:
 > Covers inbound workflow best practices (call, email, Drift), time management and note taking.
 >
 > 5 credit hours
 
 Outbound:
 > Covers the different modalities of outreach (call, email, LinkedIn), identifying focus accounts and personas, time management, note taking, and best practices for working with sales.
->
-> 5 credit hours
-
-Associate Business Development (WIP):
-> Covers best practices for the associate business development role. This pathway is currently being constructed.
->
-> 5 credit hours
-
-Management (WIP):
-> Covers management best practices including various Salesforce views to monitor, KPIs to watch, and meetings to attend.
 >
 > 5 credit hours
 
@@ -208,7 +198,7 @@ To qualify for promotions, sales development team members are required to keep u
 | First quarter  | TT100, TT101, TT102, TT103, TT110, onboarding checklist, sales quick starts | TT100, TT101, TT102, TT103, TT110, onboarding checklist, sales quick starts |
 | Second quarter | Inbound, TT120, TTT201, T210, TT211, TT251 | Outbound, TT120, TT201, TT210, TT211, TT251 |
 | Third quarter  | TT200, TT220, TT300 | TT200, TT220, TT300 |
-| Fourth quarter | TT301, TT305, TT330 | TT301, TT305, TT330 |
+| Fourth quarter | TT301, TT330 | TT301, TT330 |
 
 To see your current progress, see [here](https://docs.google.com/spreadsheets/d/1P7QvZ09F8OT7LJTeMRYbu6_Oxjw9UdouaJ5Oeo8SU8k/edit?usp=sharing).
 
