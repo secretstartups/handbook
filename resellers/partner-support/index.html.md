@@ -21,11 +21,9 @@ This page is intended for Sales and Channel team members to review quick links a
 ## Meet the Team
 ### Who We Are
 - Evon Collett (she/her) - Manager, Partner Help Desk
-- Reena Yap (she/her) - Senior Partner Help Desk Specialist
-- Kim Stagg (they/them) - Senior Partner Help Desk Specialist
 - Yulia Imbert (she/her) - Partner Help Desk Specialist   
 
-_All team members work all regions, according to the timezone they work within. [For fastest answers](https://about.gitlab.com/handbook/resellers/partner-support/#how-to-contact-us), please ensure you're reaching out via team forums and not to individual Partner Help Desk team members._
+_All team members work all regions, according to the timezone they work within. For fastest answers see [How to contact us](https://about.gitlab.com/handbook/resellers/partner-support/#how-to-contact-us), please do not contact individual Partner Help Desk team members via DM or chatter._
 
 ## Team Responsibilities
 - Channel account record support in SFDC
@@ -35,7 +33,7 @@ _All team members work all regions, according to the timezone they work within. 
 - Additional responsibilities to be documented
 
 ### Out of Scope
-_As part of the programs team, the Partner Help Desk team is not a part of the sales process, but works with partners to move throughout the partner program and increase their partner benefits._
+_The Partner Help Desk team is not a part of the sales process, but works with partners to move throughout the partner program and increase their partner benefits._
 - Channel quoting & quoting assistance (please chatter `@partner operations` on the record)
    - Please note that `@partner operations` is responsible for distributor quoting. [The sales team is responsible for reseller-direct quoting.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) It is not the Channel Manager's responsibility to quote channel opportunities.
 - Partner Account Creation
