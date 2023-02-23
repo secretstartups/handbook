@@ -99,6 +99,52 @@ Probably a couple more of them are count:
 ### Specific guidelines
 With a good framework definition on the high level of using the proper architectural approach for designing and structuring the `Python` code, now it is time to do a deep dive and leverage details should make the difference between good and the outstanding code.  
 
+### Project setup - Poetry
+
+For project setup, we are using [poetry](https://python-poetry.org/). 
+
+`Poetry` is a python dependency management tool to manage dependencies, packages, and libraries in your python project. It will help you to make your project more simple by resolving dependency complexities in your project and managing to install and update for you.
+
+Here is the set of command we are using to initiate and install `Python` (in our case it is `3.10.3`), refer to the file [onboarding_script.zsh](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/onboarding_script.zsh).
+
+One good example of how we define `pyproject.toml` file to run and execute the `poetry` setting is exposed 👇 below:
+```bash
+[tool.poetry]
+name = "app"
+version = "0.1.0"
+description = "Automated Service Ping Metrics Check"
+authors = ["{}"]
+readme = "README.md"
+homepage = "https://gitlab.com/gitlab-data/service-ping-metrics-check/README.md"
+repository = "https://gitlab.com/gitlab-data/service-ping-metrics-check"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.85.0"
+uvicorn = "^0.18.3"
+black = "^22.8.0"
+pylint = "^2.15.3"
+flake8 = "^5.0.4"
+mypy = "^0.971"
+vulture = "^2.6"
+pytest = "^7.1.3"
+python-decouple = "^3.6"
+flatten-dict = "^0.4.2"
+sqlparse = "^0.4.3"
+snowflake-connector-python = "^2.7.12"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+start = "app.sharehouse.main:start"
+```
+
+The full file is exposed in the file [service-ping-metrics-check/pyproject.toml](https://gitlab.com/gitlab-data/service-ping-metrics-check/-/blob/main/pyproject.toml) as a part of [**Service ping metrics check**](https://gitlab.com/gitlab-data/service-ping-metrics-check) project.
+
 #### Idioms
 A programming idiom, put simply, is nothing else but a way to write code. Idiomatic Python code is often referred to as being `Pythonic`. Although there is usually one — and preferably not only one — obvious way to do it. The way to write idiomatic Python code can be non-obvious to Python beginners. 
 So, good idioms must be consciously acquired.
@@ -550,7 +596,7 @@ import some_local_module
 from another_local_module import something
 ```
 
-Also, linters should help you with this issue: `mypy`, `flake8`, `pylint`. 
+Also, linters should help you with this issue: `iSort`, `mypy`, `flake8`, `pylint`. 
 
 ##### Docstrings
 * Docstrings should be used in every single file.
@@ -593,7 +639,7 @@ def bar(some_str: str) -> None:
     return
 ```
 
-##### How to integrate Environment Variables
+#### How to integrate Environment Variables
 
 To make functions as reusable as possible, it is highly discouraged _(unless there is a **"very"** good reason)_ from using environment variables directly in functions _(there is an example of this below)_.
 Instead, the best practice is to either pass in the variable you want to use specifically or pass all of the environment variables in as a dictionary.
@@ -635,7 +681,7 @@ bar("foo", env_vars)
 
 ```
 
-##### Parsing Dates 
+#### Parsing Dates 
 Ideally, never hardcode the date format using datetime.strptime unless absolutely necessary in cases where the format is very unusual. A better solution is to use the generic date parser in the dateutil library, as it handles a large variety of formats very reliably: 
 
 ```python
@@ -648,14 +694,14 @@ from dateutil import parser as date_parser
 datevar = date_parser.parse(tstamp)
 ```
 
-##### Package Aliases
+#### Package Aliases
 
 We use a few standard aliases for common third-party packages. They are as follows:
 
 * `import pandas as pd`
 * `import numpy as np`
 
-##### Variable Naming Conventions
+#### Variable Naming Conventions
 
 Adding the type to the name is good self-documenting code.
 When possible, always use descriptive naming for variables, especially with regards to data type. Here are some examples:
@@ -690,7 +736,7 @@ bar(some_str, another_string)
 bar(some_str=some_str, another_string=another_string)
 ```
 
-##### Making your script executable
+#### Making your script executable
 
 If your script is not able to be run even though you've just made it, it most likely needs to be executable. Run the following:
 
@@ -700,7 +746,7 @@ chmod 755 yourscript.py
 
 For an explanation of chmod 755 read this [askubuntu page](https://askubuntu.com/questions/932713/what-is-the-difference-between-chmod-x-and-chmod-755).
 
-##### Mutable default function arguments
+#### Mutable default function arguments
 
 Using mutable data structures as default arguments in functions can introduce bugs into your code. This is because a new mutable data structure is created once when the function is defined, and the data structure is used in each successive call.
 
@@ -725,15 +771,6 @@ Output:
 
 > **Note:** Handy link for this topic: [Python gotchas](https://docs.python-guide.org/writing/gotchas/)
 
-##### Linting
-
-Our main linter is [`Black`](https://github.com/ambv/black). We use the default configuration of it.
-
-There is a manual CI job in the `review` stage (`Python` section) that will lint the entire repo and return a non-zero exit code if files need to be formatted. It is up to both the MR author and the reviewer to make sure that this job passes before the MR is merged. To lint the entire repo, run the command:
-```bash
-$ jump analytics
-$ black .
-```
 
 #### Exception handling
 
@@ -782,9 +819,10 @@ while maximum_backoff_sec > (2 ** n):
 * Pipeline specific operations should be stored in /extract.
 * The folder structure in extract should include a file called `extract_{source}_{dataset_name}` like `extract_qualtrics_mailingsends` or `extract_qualtrics` if the script extracts multiple datasets. This script can be considered the main function of the extract, and is the file which gets run as the starting point of the extract DAG.
 
-#### Unit Testing
 
-[Pytest](https://docs.pytest.org/en/7.1.x/) is used to run unit tests in the `/analytics` project. The tests are executed from the root directory of the project with the `python_pytest` CI pipeline job. The job produces a `JUnit` report of test results which is then processed by `GitLab` and displayed on merge requests.
+#### Unit Testing with `pytest`
+
+[**Pytest**](https://docs.pytest.org/en/7.2.x/index.html) is used to run unit tests in the `/analytics` project. The tests are executed from the root directory of the project with the `python_pytest` CI pipeline job. The job produces a `JUnit` report of test results which is then processed by `GitLab` and displayed on merge requests.
 
 Most functional tests frameworks, and `pytest` as well, follow the `Arrange-Act-Assert` model:
 
@@ -797,13 +835,22 @@ Most functional tests frameworks, and `pytest` as well, follow the `Arrange-Act-
 ##### Writing New Tests
 
 New testing file names should follow the pattern `test_*.py` so they are found by `pytest` and easily recognizable in the repository. 
-New testing files should be placed in a directory named `test`. The test directory should share the same parent directory as the file that is being tested.
+New testing files should be placed in a directory named `test`, usually under the current working folder. The test directory should share the same parent directory as the file that is being tested. For instance, you are working on integration `xyz`, probably you should have folder structure like following:
+```bash
+# a typical folder structure for xyz integration
+|-- xyz
+    |-- src
+        | -- __init__.py
+        | -- execute.py
+    |-- test              # here you should put your test files
+        | -- test_xyz.py
+```
 
 A testing file should contain one or more tests. 
 Test functions should have `test_*` naming pattern in their name. 
 An individual test is created by defining a function that has one or many plain Python `assert` statements. 
-* If the asserts are all True, the test passes. 
-* If any asserts are False, then the test will fail.
+* If the asserts are all `True`, the test passes. 
+* If any asserts are `Fals`e, then the test will fail.
 
 > **Note:** When writing imports, it is important to remember that tests are executed from the root directory. 
 
@@ -960,6 +1007,73 @@ test.py ...                                                                     
 = 3 passed in 6.03s =
 ```
 
+##### Using pytest with exceptions
+
+Sometimes, there is a use case you want to force expectations in `pytest` module. The solution is fairly simple, here is an example:
+```python
+def test_namespace_file_error(usage_ping):
+    """
+    Test file loading
+    """
+    with pytest.raises(FileNotFoundError):
+        get_meta_data_from_file(file_name="THIS_DOES_NOT_EXITS.json")
+
+# in case this file doesn't exist, the function will raise an exception, and test will pass
+
+# Also, the handy option is to enrich pytest.raises with match statement
+    with pytest.raises(ValueError, match="Raising error to.*"):
+        run_metric_checks()
+```
+
+##### Using pytest with fake RESTful API
+
+Use the [`unitest.mock`](https://docs.python.org/3/library/unittest.mock.html) library when you need to test your code against a RESTful API. `unitest.mock` allows you define API calls and responses, enabling you to test such behaviors within a test environment. 
+Usage is pretty simple:
+
+```python
+from unittest import mock
+
+import pytest
+import requests
+import responses
+
+# define fake response, use fixture mechanism
+@pytest.fixture(name="fake_response")
+def mocked_responses():
+    """
+    Mock routine to create fake response
+    """
+    with responses.RequestsMock() as rsps:
+    yield rsps
+    
+    
+# test fake response
+def test_convert_response_to_json(fake_response):
+    """
+    Test function: convert_response_to_json
+    """
+
+    expected = {"test1": "pro", "test2": "1"}
+    fake_response.get(
+    "http://some_gitlab_api_url/test",
+    body='{"test1": "pro", "test2": "1"}',
+    status=200,
+    content_type="application/json",
+    )
+
+    resp = requests.get("http://some_gitlab_api_url/test")
+
+    assert resp == expected
+
+# Let's combine unitest.mock and pytest.raises
+def test_get_response(utils):
+    """
+    Force fake url and raise a Connection Error
+    """
+    with pytest.raises(ConnectionError):
+        _ = utils.get_response("http://fake_url/test")
+```
+
 ##### Beyond pytest: Useful pytest Plugins
 When `pytest` is not able to answer your needs is more complicated scenarios, handy plugins should be found. By now, didn't find any usage outside of `pytest` in `/analytics` repo, and it is good to know there are some useful tools can help you do your work.
 * [pytest-randomly](https://github.com/pytest-dev/pytest-randomly) - Pytest plugin to randomly order tests and control `random.seed`.
@@ -967,23 +1081,97 @@ When `pytest` is not able to answer your needs is more complicated scenarios, ha
 * [Full plugin list](https://docs.pytest.org/en/latest/reference/plugin_list.html) - list of `pytest` plugins.
 
 
-#### Tools for supporting our coding quality
+#### Tools for supporting coding quality
 
 Python community provides a comprehensive set of tools to ensure code quality and high standards for the codebase. 
 The idea is to list a couple of tools from our toolbox for the code quality and expose some interesting items worth considering as a potential option for future use.
 
-Libraries already in use and automated in CI pipeline:
-* [`black`](https://github.com/psf/black)
-* [`mypy`](http://mypy-lang.org/)
-* [`pylint`](https://pylint.org/)
+##### Black
 
-Nice to check, explore and considering:
+Our main linter is [**Black**](https://pypi.org/project/black/). We use the default configuration of it.
+
+There is a manual CI job in the `review` stage (`Python` section) that will lint the entire repo and return a non-zero exit code if files need to be formatted. It is up to both the MR author and the reviewer to make sure that this job passes before the MR is merged. To lint the entire repo, run the command:
+```bash
+$ jump analytics
+$ black .
+```
+
+If you want to check all files _(without formatting)_ in the entire repo or any particular folder of rile using `black`, run:
+
+```bash
+# for the entire repo, run
+$ jump analytics
+$ run black --check .
+
+# for particular folder, run
+$ run black --check extract/
+
+# for particular folder, run
+$ run black --check extract/saas_usage_ping/usage_ping.py
+```
+
+##### mypy
+
+* [`mypy`](http://mypy-lang.org/)
+
+> Mypy is an optional static type checker for `Python` that aims to combine the benefits of dynamic _(or `duck`)_ typing and static typing. Mypy combines the expressive power and convenience of Python with a powerful type system and compile-time type checking. Mypy type checks standard Python programs.
+
+```bash
+# Run mypy for extract/ folder
+mypy extract/ --ignore-missing-imports
+```
+
+
+##### flake8
+
+Your tool for style guide enforcement: 
+[**Flake8**]((https://flake8.pycqa.org/en/latest/)) is a popular lint wrapper for python. Under the hood, it runs three other tools and combines their results: pep8 for checking style. pyflakes for checking syntax. mccabe for checking complexity.
+
+```bash
+flake8 . --ignore=E203,E501,W503,W605
+```
+
+##### pylint
+
+[**Pylint**](https://pylint.org/) is a static code analyser for Python.
+
+> Pylint analyses your code without actually running it. It checks for errors, enforces a coding standard, looks for code smells, and can make suggestions about how the code could be refactored. Pylint can infer actual values from your code using its internal code representation (astroid). If your code is import logging as argparse, Pylint will know that argparse.error(...) is in fact a logging call and not an argparse call.
+
+`Pylint` is highly configurable and permits to write plugins in order to add your own checks _(for example, for internal libraries or an internal rule)_. Pylint also has an ecosystem of existing plugins for popular frameworks and third party libraries.
+
+```bash
+# we use pylint and exclude some of check to reduce the noise (ie. line-too-long)
+pylint extract/ --ignore=analytics/dags --disable=line-too-long,E0401,E0611,W1203,W1202,C0103,R0801,R0902,W0212
+```
+
+##### xenon
+
+[**Xenon**](https://pypi.org/project/xenon/) is a monitoring tool based on Radon. It monitors your code’s complexity. Ideally, Xenon is run every time you commit code. Through command line options, you can set various thresholds for the complexity of your code. It will fail _(i.e. it will exit with a non-zero exit code)_ when any of these requirements is not met.
+
+```bash
+run xenon --max-absolute B --max-modules B --max-average A . -i transform,shared_modules
+```
+
+##### vulture
+
+[**Vulture**](https://pypi.org/project/vulture/) finds unused code in Python programs. This is useful for cleaning up and finding errors in large code bases. If you run Vulture on both your library and test suite you can find untested code.
+
+Due to 🐍Python's dynamic nature, static code analyzers like Vulture are likely to miss some dead code. Also, code that is only called implicitly may be reported as unused. Nonetheless, Vulture can be a very helpful tool for higher code quality.
+
+```bash
+run vulture . --min-confidence 100
+```
+
+##### Few more handy libraries 
+
+For more elements on how we automated linter to keep code quality on the elevated level, refer to [🐍 Python CI jobs](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#-python). All of these linters can be tested automatically and for that purpose, we created a comprehensive set of commands using [Makefile](https://gitlab.com/gitlab-data/analytics/-/blob/master/Makefile).
+
+In addition, recommendation to check, explore and considering:
 * [`pycodestyle`](https://github.com/PyCQA/pycodestyle)
-* [`flake8`](https://flake8.pycqa.org/en/latest/)
 * [`yapf`](https://github.com/google/yapf)
 * [`autopep8`](https://pypi.org/project/autopep8/)
 * [`HowDOI`](https://github.com/gleitz/howdoi) - good tool for a quick search.
-
+* [`iSort`](https://pycqa.github.io/isort/) - isort is a Python utility / library to sort imports alphabetically, and automatically separated into sections and by type.
 
 #### Tools for automating our coding quality standards
 
