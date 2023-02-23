@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Data Processing Agreement and Standard Contractual Clauses"
+title: "GitLab Data Processing Addendum and Standard Contractual Clauses"
 description: "This agreement ..."
 ---
 
