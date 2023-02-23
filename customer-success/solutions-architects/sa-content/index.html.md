@@ -25,32 +25,33 @@ This is not meant to limit creativity. It's a [boring](/handbook/values/#boring-
 1. Sign up as an author by adding your username to the calendar table next to the publish date of your choice. Multiple people are welcomed and encouraged to post during the same week.
 2. Choose a topic from the [demo wishlist](https://drive.google.com/drive/u/0/search?q=title:%225%20Minute%20Demo%20Framework:%20Demo%20Wishlist%22%20type:document)(_internal only_) or [framework tutorials](https://drive.google.com/drive/u/0/search?q=title:%22Framework%20Tutorials%22%20type:sheet)(_internal only_) list. Add the topic to the calendar table next to your username and publish date. Feel free to bring your own topic!
 3. Create your video or blog post. Please store all code examples in the [Guided Explorations](https://gitlab.com/guided-explorations) group to share with customers.
+4. If creating a video, please add your video to the [Solutions Architecture GitLab Unfiltered Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko87g05LlHroe7eLPzCPJUY).
 
 ## Calendar
 
-| Publish Week 	| Author & Topic	|
-|--------------	|------------------ |
-| 2023-02-06   	| [Jeremy Wagner](https://gitlab.com/jeremywagner) - How to deploy a React application to AWS S3 using GitLab |
-| 2023-02-13   	| SKO      	        |
-| 2023-02-20  	| [Julie Byrne](https://gitlab.com/juliebyrne) - Getting Started with GitLab Security |
-| 2023-02-27 	| [Noah Ing](https://gitlab.com/noah.ing) - Terraform Multi Environments with GitLab      	        |
-| 2023-03-06   	| [Siddharth Mathur](https://gitlab.com/smathur-gl) - TBD |
-| 2023-03-13  	| [Sophia Manicor](https://gitlab.com/smanicor) - TBD  |
-| 2023-03-20  	| [Sam Morris](https://gitlab.com/sam) -  CI and Secure in Mono-Repos   	        |
-| 2023-03-27   	|        	        |
-| 2023-04-03   	| [Cailey Pawlowski](https://gitlab.com/cpawlowski) - TBD  |
-| 2023-04-10   	|        	        |
-| 2023-04-17   	|        	        |
-| 2023-04-24  	|        	        |
+| Publish Week | Author                                            | Topic                                                    | Content Type |
+|--------------|---------------------------------------------------|----------------------------------------------------------|--------------|
+| 2023-02-06   | [Jeremy Wagner](https://gitlab.com/jeremywagner)  | How to deploy a React application to AWS S3 using GitLab |              |
+| 2023-02-20   | [Julie Byrne](https://gitlab.com/juliebyrne)      | Getting Started with GitLab Security                     |              |
+| 2023-02-27   | [Noah Ing](https://gitlab.com/noah.ing)           | Terraform Multi Environments with GitLab                 |              |
+| 2023-03-06   | [Siddharth Mathur](https://gitlab.com/smathur-gl) |                                                          |              |
+| 2023-03-13   | [Sophia Manicor](https://gitlab.com/smanicor)     |                                                          |              |
+| 2023-03-20   | [Sam Morris](https://gitlab.com/sam)              | CI and Secure in Mono-Repos                              |              |
+| 2023-03-27   |                                                   |                                                          |              |
+| 2023-04-03   | [Cailey Pawlowski](https://gitlab.com/cpawlowski) | Analytics for Premium GitLab Users                       |              |
+| 2023-04-10   |                                                   |                                                          |              |
+| 2023-04-17   |                                                   |                                                          |              |
+| 2023-04-24   |                                                   |                                                          |              |
 
-## Example posts
+## Published Blogs & Videos
 
-| Publish date 	| Author & Topic	|
-|--------------	|------------------ |
-| 2022-08-02  	| [Madou Coulibaly](https://gitlab.com/madou) and [Joe Randazzo](https://gitlab.com/jrandazzo) -  [How to provision dynamic review environments using merge requests and Argo CD](/blog/2022/08/02/how-to-provision-reviewops/)      |
-| 2022-09-23  	| [Joe Randazzo](https://gitlab.com/jrandazzo) -  [CI/CD Modernization with GitLab](https://www.youtube.com/watch?v=QGAaif8lY0A&ab_channel=GitLabUnfiltered)     
-| 2022-10-06   	| [Jeremy Wagner](https://gitlab.com/jeremywagner) -  [How to automate testing for a React application with GitLab](/blog/2022/11/01/how-to-automate-testing-for-a-react-application-with-gitlab/)     |
-| 2022-01-27   	| [Sarah Bailey](https://gitlab.com/sbailey1) -  [All About The Merge Request](https://www.youtube.com/watch?v=eTIVgyknA9w)     |
+| Publish Date | Author                                                                                       | Topic                                                                                                                                            | Content Type |
+|--------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 2022-08-02   | [Madou Coulibaly](https://gitlab.com/madou) and [Joe Randazzo](https://gitlab.com/jrandazzo) | [ How to provision dynamic review environments using merge requests and Argo CD ]( /blog/2022/08/02/how-to-provision-reviewops/ )                | Blog         |
+| 2022-09-23   | [Joe Randazzo](https://gitlab.com/jrandazzo)                                                 | [ CI/CD Modernization with GitLab ]( https://www.youtube.com/watch?v=QGAaif8lY0A&ab_channel=GitLabUnfiltered )                                   | Video        |
+| 2022-10-06   | [Jeremy Wagner]( https://gitlab.com/jeremywagner )                                           | [ How to automate testing for a React application with GitLab ]( /blog/2022/11/01/how-to-automate-testing-for-a-react-application-with-gitlab/ ) | Blog         |
+| 2022-01-27   | [ Sarah Bailey ]( https://gitlab.com/sbailey1 )                                              | [ All About The Merge Request ]( https://www.youtube.com/watch?v=eTIVgyknA9w )                                                                   | Video        |
+|              |                                                                                              |                                                                                                                                                  |              |
 
 ## DRI rotation
 
