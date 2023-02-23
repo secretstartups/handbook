@@ -450,8 +450,30 @@ Also include:
 - Milestone: `Backlog` until the work is scheduled for a milestone.
 - Assignee: `None` until the work is scheduled for a milestone. In the issue description or comments, mention (`@username`) the Technical Writer assigned to the group for awareness.
 - Description: starts with `Docs:` or `Docs feedback:`
+- A task checklist or next step to deliver an MVC. For more information, see [Issue state](/handbook/product/product-processes/#issue-state).
+- Labels: 
+  - `tw::triaged`
+  - (Optional, if the issue is suitable for a community contributor) `Seeking community contributions`, `good for new contributors`
 
 If an issue requires input from the development team before a Technical Writer can start work, it should follow the stage and group's issue lifecycle. For an example of an issue lifecyle, take a look at [Plan Stage Issues](/handbook/engineering/development/dev/plan/#issues).
+
+### Review and triage docs-only backlog issues
+
+Routine review and triage of documentation feedback and improvement issues for your groups helps us spend the [time we have](https://about.gitlab.com/handbook/product/ux/technical-writing/#prioritization) on actionable issues that improve the user experience.
+
+#### Prerequisites
+
+- An issue triage board for each group that you are the assigned technical writer for. If you don't have an issue triage board for your group, set one up called `Docs only backlog triage - group name`. See an [example board](https://gitlab.com/gitlab-org/gitlab/-/boards/5285286?not%5Blabel_name%5D%5B%5D=type%3A%3Afeature&not%5Blabel_name%5D%5B%5D=type%3A%3Abug&label_name%5B%5D=documentation&label_name%5B%5D=group%3A%3Aproject%20management) for the `Project Management` group.
+    - The filter criteria should include **Label=**`documentation`, **Label=**`group::groupname`, **Label!=**`type::feature`, **Label!=**`type:bug`.
+    - In **Edit board**, make sure `Show the Open list` is selected.
+    - On the issue board, select **Create list**, and set Label to `tw:triaged`.
+
+To review and triage documentation feedback and improvement issues for your groups:
+
+1. Once a month, on the issue triage boards for your groups, check the **Open** list for new issues.
+1. Apply the labels described in [Documentation feedback and improvements](#documentation-feedback-and-improvements).
+1. Aim to keep the list of Open, untriaged issues at **<10**.
+1. Share the triaged list with the group and group PM.
 
 ## Topic types and team progress
 
