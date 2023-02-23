@@ -134,7 +134,7 @@ echo '!/opt/sentinelone/mount' | sudo tee -a /etc/aide.conf
 
 1. Edit `config.cfg` and update `S1_AGENT_CUSTOMER_ID`:
 
-   1. Replace `tanuki` with your GitLab email username.
+   1. Replace `tanuki` with the username portion (the part before the `@` sign or the [local-part per RFC2822](https://www.rfc-editor.org/rfc/rfc2822)) of your GitLab email address. 
    1. Replace `ABCD1234` with your laptop's serial number.
    1. Verify that the edited variable is formatted correctly with a hyphen separating the GitLab email and serial number. For example, `S1_AGENT_CUSTOMER_ID=jdoe@gitlab.com-ABCD1234`.
 
