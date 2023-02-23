@@ -19,6 +19,7 @@ title: Travel
 1. Hotels will generally expect you to have a physical credit card to present upon check-in. This credit card will be kept on file for the duration of your stay. Even if your lodging was pre-paid by the company or by using a company credit card, the Hotel may still require a card to be on file for "incidentals".
 1. If you incur any work-travel related expenses (on your personal card or a GitLab company card), please make sure to save the original receipt.
 1. When your trip is complete, please file an expense report via Navan Expense or include the receipts on your next monthly invoice.
+1. Team member should be responsible for any increases in the airfare ticket price related to personal reasons, except for sickness and family emergencies.
   
 
 
