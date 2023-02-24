@@ -15,7 +15,7 @@ canonical_path: "/company/team/structure/working-groups/frontend-observability/"
 
 | Property | Value |
 |-|-|
-| Date Created | 2021-07-14 |
+| Date Created | 2021-07-14 (Paused from 2022-06-01 to 2023-02-24) |
 | End Date | TBD |
 | Slack | [#wg_frontend-observability](https://gitlab.slack.com/archives/C0265BTH1EV) (only accessible from within the company) |
 | Google Doc | [Working Group Agenda](https://docs.google.com/document/d/1GuW6_IyYgSTi6IFI2adc3lrOJTfVoATkF2maZ5lToqg) (only accessible from within the company) |
@@ -60,13 +60,13 @@ Ideally the functional lead is someone who is an IC that might be affected by th
 
 | Working Group Role | Person | Stakeholder Department | Title |
 |-|-|-|-|
-| Executive Sponsor | Tim Zallmann |  | Senior Director |
-| Facilitator | Sam Beckham | Frontend:Verify | Frontend Engineering Manager |
-| Functional Lead | Sarah Groff Hennigh-Palermo | Frontend:Verify::Pipeline Authoring | Senior FE Engineer |
-| Functional Lead | Drew Cimino | Backend:Verify::Pipeline Execution | Backend Engineer |
+| Executive Sponsor | Tim Zallmann | Development | Senior Director |
+| Facilitator | Sam Beckham | Manage:Foundations | Engineering Manager |
+| Functional Lead | Miguel Rincon | Verify::Runner | Senior Frontend Engineer |
+| Functional Lead | Drew Stachon | Verify::Pipeline Execution | Backend Engineer |
 | Functional Lead | Andrew Newdigate | Infrastructure | Distinguished Engineer |
-| Member | José Vargas López | Frontend:Verify::Pipeline Execution | Senior FE Engineer |
-| Member | Thomas Randolph | Frontend:Create::Code Review | Senior FE Engineer |
-| Member | Marius Bobin | Backend:Verify::Pipeline Execution | Backend Engineer |
-| Member | Miguel Rincon | Frontend:Verify::Runner | Senior FE Engineer |
-| Member | Dov Herskhovitch | Product Manager:Verify::Pipeline Authoring | Senior Product Manager |
+| Member | José Vargas López | Verify::Pipeline Execution | Senior Frontend Engineer |
+| Member | Marius Bobin | Verify::Pipeline Execution | Backend Engineer |
+| Member | Daniele Rossetti | Monitor::Visualization | Senior Frontend Engineer |
+| Member | Vitaly Slobodin | Fulfillment | Staff Frontend Engineer |
+
