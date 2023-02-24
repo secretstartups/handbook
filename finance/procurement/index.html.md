@@ -271,8 +271,8 @@ Exceptions to the PO Policy are:
 
 - [GitLab Vendor Terms and Conditions](https://about.gitlab.com/handbook/finance/procurement/vendor-guidelines/)
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
-- [Data Processing Addendum (pre-signed)](https://drive.google.com/file/d/12HC2BEuXwxRFiUGAki7-CjmHclHRGwHK/view?usp=sharing)
-- [EU Standard Contractual Clauses](https://drive.google.com/file/d/1oOgETU0YZrp_JhM88oI57DsLEh1qpvFV/view?usp=sharing)
+- [Data Processing Addendum (unlocked for editing)](https://docs.google.com/document/d/1U8jCxpRc21fNu6_VsYxsSSun3G7s4b2Q/edit?usp=share_link&ouid=101595031187349560306&rtpof=true&sd=true)
+- [EU Standard Contractual Clauses](https://drive.google.com/file/d/17I4nirg99UPsrDi28VS1-R0B2FcKTKbz/view?usp=share_link)
 - [US Contractor Agreement](https://docs.google.com/document/d/1A8mnzoJ_lJ3MP-ZUTm29n1Xev4H6EQyG/edit?usp=sharing&ouid=101595031187349560306&rtpof=true&sd=true)
 - [SOW Template](https://docs.google.com/document/d/1IUgGGxmNSPZ3gJK-qt2LZ1vsKJZG1oWs/edit?usp=sharing&ouid=101595031187349560306&rtpof=true&sd=true)
 - [Change Request Template](https://docs.google.com/document/d/1AHagOA8g_RSt9cpVHrlxiRHKOutcxvJ6/edit?usp=sharing&ouid=101595031187349560306&rtpof=true&sd=true)
