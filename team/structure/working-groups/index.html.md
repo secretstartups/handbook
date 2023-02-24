@@ -208,6 +208,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Expense Management](/company/team/structure/working-groups/expense-management/)
 1. [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
 1. [Frontend Observability](/company/team/structure/working-groups/frontend-observability/)
+1. [GitLab Administration](/company/team/structure/working-groups/administration/)
 1. [GitLab Dedicated](/company/team/structure/working-groups/gitlab-dedicated/)
 1. [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
 1. [GitLab.com SAAS Data Pipeline](/company/team/structure/working-groups/gitlab-com-saas-data-pipeline)
