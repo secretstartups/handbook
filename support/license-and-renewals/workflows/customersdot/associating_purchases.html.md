@@ -5,7 +5,11 @@ category: CustomersDot
 description: Associating subscription with another account on CustomersDot account and for changing primary contact.
 ---
 
-{:.no_toc}
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ----
 
