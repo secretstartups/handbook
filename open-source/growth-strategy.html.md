@@ -116,7 +116,7 @@ Increase awareness with content and events to drive large amounts of contributor
 
 #### Increase social presence
 
-* **Why:** Increase our social media presence beyond the currently limited mediums (Twitter, gitter), which will allow us to tap into existing developer communities.  
+* **Why:** Increase our social media presence beyond the currently limited mediums (Twitter, Discord), which will allow us to tap into existing developer communities.  
 * **Epic:** <https://gitlab.com/groups/gitlab-com/quality/-/epics/15>
 * **DRI:** [Community Relations team](/handbook/marketing/community-relations/)
 
