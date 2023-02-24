@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Vendor Guidelines"
+title: "Vendor Terms and Conditions"
 ---
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
