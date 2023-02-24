@@ -133,8 +133,6 @@ Finally, next to the success plan due date, change the "Status" of the success p
 
 The ROI success plan is the "public-facing" plan that we develop and maintain in collaboration with the customer. It is intended to be shared between GitLab and the customer, and should be considered the foundation of our strategic engagement and the reference for an [Executive Business Review](/handbook/customer-success/csm/ebr/).
 
-This success plan contains a few key components that combine to provide a summary of the customer, their business outcomes, and what we are doing to achieve them with GitLab.
-
 #### Share a ROI Success Plan
 
 To share a ROI Success Plan, click the link icon next to the success plan due date and status, search for the users you want to share it with, then click "Preview and Send" and send the email. Alternatively, you can export the success plan by clicking "Export" at the top right.
@@ -145,47 +143,64 @@ The [account plan](/handbook/sales/account-planning/) is owned by the SAL or AE 
 
 ## Components of a Success Plan
 
+A CSM-led success plan should contain:
+
+  1. A summary of the customer's business
+  1. At least one desired business outcome
+  1. Product adoption milestones needed to achieve the outcome(s)
+  1. Measures of success for each milestone (i.e. baseline/current state and desired state).
+  1. Estimated dates for each milestone
+
 ### Strategy
 
-The strategy section is a high-level overview of what GitLab is doing with the customer. At a glance, the reader should be able to see what we plan to do with the customer to drive value and success, and also to improve adoption and growth. This does not need to be as detailed as the [objectives](#objectives), but it should still let the reader understand what our overall plan is. This is required and especially important for ROI success plans, but still important for internal success plans so it's easy to understand what our strategy is.
+The strategy section should capture the customer's desired business outcomes, and what GitLab is doing in realizing them.
+
+Examples:
+  1. *Improved developer productivity*
+  1. *Reduced total cost of ownership*
+  1. *Improved security posture*
+
+Additional resources that may be helpful in discovering your customer's business outcomes are:
+  1. [GitLab's Value Framework](https://docs.google.com/document/d/1Jb5suvFEXTnbJRR5PPzMKxvgyeUTyJ5A5mS1losFueI/edit) (Internal GitLab)
 
 ### Highlights
 
-Customer highlights, like the [strategy section](#strategy), is a high-level overview of the customer. This can include:
+Customer highlights is a high-level overview of the customer and other contextual details. This can include the following suggested headings:
 
 - The business the customer is in
 - Major focuses, interests, pain points, etc.
-- Our relationship with the customer
+- Key customer personas [and our relationship with them]
 - Risk factors to their continued relationship with us
 
-Reviewing the highlights, the reader should be able to quickly understand the customer's business, why they bought GitLab, and what they are interested in achieving. The highlights section is also required for ROI success plans and recommended for internal success plans.
+It can also be valuable to capture significant past outcomes in this section, for example:
 
-### Customer Details
+  #### Achievements
+    - *20xx-xx-xx - Customer migrated 100 projects from legacy SCM tool*
+    - *20xx-xx-xx - Customer upgraded to Ultimate in pursuit of increased governance and compliance*
+    - *20xx-xx-xx - CSM conducted a workshop with ### attendees which qualified an opportunity for xyz*
 
-The purpose of these fields is to provide additional, helpful information as you create and work on the Success Plan. The fields are from Salesforce.
-
-[CP] fields are all from the Command Plan associated with the most recent Closed - Won New Business. Use these fields to track if the customer is adopting GitLab for their intended purpose. Refer to [Command Plan handbook page](/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) for details on field definitions.
-
-- Collaboration Project URL
-- Account Team - SA, CSM, Account Owner
-- [CP] Primary Value Driver
-- [CP] Primary Use Cases
-- [CP] Why GitLab?
-- [CP] Competition
-- [CP] Metrics
-- [CP] Identify Pain
+Reviewing the highlights, the reader should be able to quickly understand the customer's business, why they originally bought GitLab/upgraded to Ultimate and any _significant_ achievements to date
 
 ### Objectives
 
-Objectives are at the heart of a strong success plan, because they describe both the intended business outcomes and the actions we will take to achieve those outcomes. Well-crafted objectives provide an actionable plan that resonates with everyone involved, both within GitLab and on the customer side.
+Well-crafted objectives provide an actionable plan towards a customer's desired outcome. They should resonate with both GitLab and the customer.
 
-A good objective should contain three components:
+Each objective CTA should be clearly related to a customer's business outcome (the "why"). This is ideally in the title, or within the CTA's comments.
 
-- The customer's stated business outcome (the "why")
-- The end state we will deliver (the "what")
-- Metrics to determine whether we've succeeded
+Objectives should capture:
+  1. Product adoption milestones (the "what", e.g. implement CI templates, migrate to GitLab package registry, introduce secret detection), with clear DRIs
+  1. Timeframe (in the CTA or associated task's due dates)
+  1. Success criteria outlining the customer's desired state (with measures of both current state & desired state). It's ok if a customer doesn't know, and finding a baseline measure becomes a task within the objective. Start by asking.
 
-With these three elements, you can develop an objective that allows you to track progress on the actual implementation, while measuring progress and tying the results back to a strategic business outcome. You are able to address the needs of the customer's operations team, as well as their business and strategic interests.
+  #### Example:
+  ![Example Success Plan Objective](/handbook/customer-success/csm/success-plans/success_plan_objective.png "Example Success Plan Objective")
+
+Within a success plan objective (or "CTA"), tasks can be used to further decompose the plan, assign customer DRIs and provide more timeline detail.
+
+  #### Example:
+  ![Example Success Plan Task](/handbook/customer-success/csm/success-plans/success_plan_cta_task_example.png "Example Success Plan Task")
+
+With these three elements, you can develop an objective that allows you to measure and report on progress towards outcomes throughout your book in a scalable way.
 
 #### Objective Categories
 
@@ -206,6 +221,21 @@ Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) (GitLab only) 
 1. What is not considered stage adoption
 
 For understanding the Use Case Enablement and Expansion reporting, see [Reporting on Expansion and Enablement Objectives](/handbook/customer-success/csm/stage-enablement-and-expansion/#reporting-on-expansion-and-enablement-objectives).
+
+### Customer Details
+
+The purpose of these fields is to provide additional, helpful information as you create and work on the Success Plan. The fields are from Salesforce.
+
+[CP] fields are all from the Command Plan associated with the most recent Closed - Won New Business. Use these fields to track if the customer is adopting GitLab for their intended purpose. Refer to [Command Plan handbook page](/handbook/sales/command-of-the-message/command-plan/#opportunity-overview) for details on field definitions.
+
+- Collaboration Project URL
+- Account Team - SA, CSM, Account Owner
+- [CP] Primary Value Driver
+- [CP] Primary Use Cases
+- [CP] Why GitLab?
+- [CP] Competition
+- [CP] Metrics
+- [CP] Identify Pain
 
 #### Business Outcomes vs. Value Drivers
 
