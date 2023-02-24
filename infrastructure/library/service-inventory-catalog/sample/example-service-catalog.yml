@@ -27,13 +27,6 @@ teams:
   engagement_policy: # Link to doc that talks about engagement
                      # and escalation policy
   oncall_schedule:   # Link to pagerduty oncall schedule
-- name: gitter
-  url: /handbook/engineering/dev-backend/gitter/
-  manager_slug: eng-manager-gitaly
-  slack_channel: g_gitaly
-  engagement_policy: # Link to doc that talks about engagement
-                     # and escalation policy
-  oncall_schedule:   # Link to pagerduty oncall schedule
 - name: manage
   url: /handbook/engineering/dev-backend/manage/
   manager_slug: ruben-d
@@ -63,7 +56,6 @@ services:
     - distribution
     - geo
     - gitaly
-    - gitter
     - manage
     - plan
   label: Service:API
