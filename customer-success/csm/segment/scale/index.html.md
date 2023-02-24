@@ -53,7 +53,7 @@ A key metric we will use to systematically identify at-risk customers will be li
 
 ### Enable
 
-Onboarding and enablement for this customer segment are primarily through one-to-many webinar sessions. In addition, a personal CSE reach-out occurs on day 21 to ensure the customer is on-track for success. A Scale CSE's goal with any one-to-one customer interaction is to put the customer on a path for success and ensure they know their ongoing resources (support team, blog, learning resources, etc.) 
+Onboarding and enablement for this customer segment are primarily through one-to-many webinar sessions. In addition, a personal CSE reach-out occurs on day 21 to ensure the customer is on-track for success. The [Customer Onboarding Best Practices deck](/handbook/customer-success/csm/segment/scale/customer-onboarding-best-practices/) should be used for this call. A Scale CSE's goal with any one-to-one customer interaction is to put the customer on a path for success and ensure they know their ongoing resources (support team, blog, learning resources, etc.) 
 
 A Scale CSE's engagement with any one customer will be limited in total customer interactions, most often to two or three. Additional targeted customer reach-outs for triggered events such as missed time-to-first-value poor onboarding NPS scores may occur throughout the customer lifecycle.
 
