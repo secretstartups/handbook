@@ -112,9 +112,9 @@ The renew subscription feature allows customers to renew their SaaS or Self-mana
 
 ## CustomersDot Admin Panel
 
-The target audience is the internal GitLab team, and covers the [admin panel](https://customers.gitlab.com/admin/) of the [CustomersDot](https://customers.gitlab.com). Customers or subscription managers should refer to the [Customers](https://docs.gitlab.com/ee/subscriptions/) section of GitLab's user documentation for help in using the portal, or the [licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/) for questions on subscriptions such as how users are counted.
+The target audience is the internal GitLab team, and covers the [admin panel](https://customers.gitlab.com/admin/) of the [Customers Portal](https://customers.gitlab.com). Customers or subscription managers should refer to the [Customers](https://docs.gitlab.com/ee/subscriptions/) section of GitLab's user documentation for help in using the portal, or the [licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/) for questions on subscriptions such as how users are counted.
 
-### Sales Use of CustomersDot Admin
+### Sales use of CustomersDot Admin
 
 For members of our sales teams, you can learn more about how to use CustomerDot for common use cases in our [Field Operations - CustomersDot Access and Use](/handbook/sales/field-operations/customersdot-access-and-use/) page.
 
@@ -128,40 +128,105 @@ After your initial search, you can further filter the search results.
 
 In the search results, any account which has a subscription tied to it will have a "Subscription" badge next to their name.
 
-### Account
+### Customers
 
-#### Edit Account Details
+#### Search for a customer
 
-To edit an account's details, such as name.
+1. Navigate to `Customers` in the admin panel.
+1. Enter details of a customer to search for in the empty text box. (E.g. email address or domain of the customer).
+1. Click on `Refresh` or hit `Enter` on your keyboard to initiate the search.
+1. You can refine your current search by clicking on `Add filter`.
+1. Select one or more additional filters that should be applied.
+1. Click on `Refresh` again.
 
-1. Impersonate the user.
+#### Update customer details
+
+**Note:** The updated customer details are synced to the matching Zuora BillTo/SoldTo contact. 
+
+1. Select the correct customer by clicking on the ✎ icon in the `Customers` section.
+1. You can now update `First name`, `Last name`, and `Email`.
+1. Click on `Save`.
+
+Deactivate login for Customer
+
+If you want to update the physical address of the customer or other details, you need to impersonate the customer.
+
+1. In the  desired customer's detail view, click on `Impersonate`.
+1. You are now get redirected to impersonate the user.
 1. Follow the [user documentation on updating details](https://docs.gitlab.com/ee/subscriptions/#change-your-personal-details).
 
-#### Edit SFDC or Zuora account
+#### Deactivate login for a customer
 
-1. Find existing customer and click on `Edit`.
-1. Edit the SFDC or Zuora ID as needed.
-1. Save.
+1. Select the correct customer by clicking on the ✎ icon in the `Customers` section.
+1. Untick `Login activated`
+1. Click on `Save`.
 
-### View history of account changes
+The customer is now blocked from accessing their Customers Portal account.
 
-1. Find existing customer.
-1. Click on `History`.
+**Note:** That does not affect the ability to access their GitLab.com account.
+
+#### View history of customer account changes
+
+1. In the desired customer's detail view, click on `History`.
+1. You will see a list of all events and logs that happened to the customer record.
+
+**Note:** If a user is `admin:xyz@gitlab.com` in a log line, that indicates a change on the customer's record that was done via the admin panel.
 
 #### GitLab Groups
 
-If an account has a connected GitLab.com user account, then a list of namespaces will show with relevant information including current plan.
+If a customer has a connected GitLab.com user account, then a list of namespaces will show with relevant information including current plan.
+
+**Note:** This only works as long as the customer's `access_token` is valid.
 
 The list of namespaces are:
 
 - personal namespace
 - top level group namespaces where user is `Owner`
 
+### Billing Accounts
+
+The billing account is the representation of a billing entity which is mostly connected to an organization. The billing account has data associated to Zuora, SFDC, important company information and all billing account memberships.
+
+#### Search for a billing account
+
+1. Navigate to `Billing accounts` in the admin panel.
+1. Enter details of a billing account to search for in the empty text box. (E.g. name).
+1. Click on `Refresh` or hit `Enter` on your keyboard to initiate the search.
+1. You can refine your current search by clicking on `Add filter`.
+1. Select one or more additional filters that should be applied.
+1. Click on `Refresh` again.
+
+#### View history of billing account changes
+
+1. In the desired billing account's detail view, click on `History`.
+1. You will see a list of all events and logs that happened to the billing account.
+
+### Billing Acccount Memberships
+
+The billing account membership defines the relation between a customer and a billing account. The customer will be able to see the subscription in their Customers Portal account if there is a billing account membership with an active subscription.
+
+Currently a customer can only have one billing account membership.
+
+#### Add a new billing account membership
+
+Adding a new billing account membership between a customer and a billing account results in the customer becoming a [subscription management contact](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#add-subscription-management-contact-workflow).
+
+1. Navigate to the `Billing account memberships` section.
+1. Select the `+ Add new` action.
+1. Select the proper customer and CustomersDot billing account for the new subscription management request.
+1. Click `Save`.
+
+#### Delete the billing account membership of a customer
+
+1. Navigate to the `Billing account memberships` section.
+1. Open the desired billing account membership and select `x Delete` action.
+1. Confirm the correct billing account membership was selected.
+1. Select `Yes, I'm sure`.
+1. See the `Billing account membership successfully deleted` success notification.
+
 ### Trials
 
 #### Check, change, or extend trial expiry date
-
-> **Note:** Until [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643) are resolved, this is unlikely to be available.
 
 1. Find the customer who initiated the trial.
 1. Click on the `GitLab Groups`.
