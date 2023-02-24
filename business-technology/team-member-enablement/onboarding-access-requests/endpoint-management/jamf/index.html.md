@@ -44,6 +44,10 @@ We performed a proof of concept of multiple solutions and determined [Jamf](http
 
 Yes. It is safe to install and there is no threat to install the certificate. What you're seeing is expected as the Jamf Pro CA is a self-signed certificate and is technically not trusted until it is installed.
 
+## Migration Assistant is blocked
+
+If you are issued a refreshed or replacement laptop, please do not transfer data from your old machine via Migration Assistant. Based off of feedback from Jamf support, a lengthy troubleshooting process, and extensive testing, we have determined that Migration Assistant breaks endpoint communication with the Jamf Pro server. If you need to transfer any files, please either use the web version or the desktop application of [Google Drive](https://about.gitlab.com/handbook/tools-and-tips/#adding-google-drive-to-your-mac).
+
 # Linux laptops
 
 We do not have Linux-based endpoint management in place at this time. We are using [DriveStrike](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) to perform remote disk wipes in case a linux device is lost, stolen, or the team-member is offboarded. There will be a second initiative to address Linux-based endpoint management in the future.
