@@ -142,10 +142,6 @@ Fabio: we are introducing [group-level security dashboard](https://gitlab.com/gi
 
 [See analytics ideas here](/direction/#analytics). In particular, we want to have a variety of charts in a [generic dashboard with lots of chart types](https://gitlab.com/groups/gitlab-org/-/epics/313), including those for executive-level / senior leadership consumption.
 
-##### Integrate Gitter
-
-We're working on this, see [our Gitter roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=Gitter).
-
 ##### Better support for non-developer workflows (designers, writers)
 
 Andreas: Yes! I think we have an enormous potential here, especially for roles that are very close to the development workflow. Read: Designers, Technical writers. I plan to discover how we can support Designers needs better in our product in 2019. There will be a new product category "Product Design Management" planned for 2019.
