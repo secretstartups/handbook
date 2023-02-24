@@ -12,10 +12,10 @@ description: "Landing page for many of the handbook pages the talent acquisition
 
 ## Hiring pages
 
+- [Interviewer Prep Requirements](/handbook/hiring/interviewing/)
 - [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
 - [Diversity, Inclusion & Belonging  Talent Acquisition Initiatives](/company/culture/inclusion/talent-acquisition-initiatives/)
 - [Greenhouse](/handbook/hiring/greenhouse/)
-- [Interviewing](/handbook/hiring/interviewing/)
 - [Prelude](/handbook/hiring/prelude)
 - [Overview of Job Families](/handbook/hiring/job-families)
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
