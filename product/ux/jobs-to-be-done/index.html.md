@@ -39,8 +39,8 @@ First, let's set the terminology we use for JTBD.
 
 - **Job performer**: The person who does the job. Usually, we talk about these people in terms of personas. They are [buyers](/handbook/product/personas/#buyer-personas), [developers](/handbook/product/personas/#sasha-software-developer), [sysadmins](/handbook/product/personas/#sidney-systems-administrator), and so on.
 - **Job**: Something a customer wants to accomplish. For example, the main job of a GitLab customer could be stated as, "build and deploy software." The job always follows the pattern (verb + object + clarifier) and is also refered to as the _job statement_.
-- **Situation**: Describes the circumstances a person is in when they need a job done.
-- **Need**:A job performer's desired outcome or end state. The need statement follows the pattern (direction + measure + object + clarifier), for example, _minimize the time it takes to review an MR_.
+- **Circumstance**: Describes the circumstances a person is in when they need a job done.
+- **Need**: A job performer's desired outcome or end state. The need statement follows the pattern (direction + measure + object + clarifier), for example, _minimize the time it takes to review an MR_.
 - **Job story**: A succinct statement that brings together the circumstance, goal, and outcome of a job.
 - **Main job**: The primary job the preformer want to accomplish.
 - **Small job**: A smaller, more practical job that corresponds roughly to steps or stages in a main job.
@@ -48,17 +48,17 @@ First, let's set the terminology we use for JTBD.
 
 ## How to write a JTBD
 
-When we refer to JTBD in our work at GitLab, we are referring to the **job story**. A job story provides the context of what is happening while someone is trying to accomplish a goal. In contrast, a job is _only_ the thing they want to accomplish. A job story includes: the job, the situation, and the need.
+When we refer to JTBD in our work at GitLab, we are referring to the **job story**. A job story provides the context of what is happening while someone is trying to accomplish a goal. In contrast, a job is _only_ the thing they want to accomplish. A job story includes: the job, the circumstance, and the need.
 
 We write our job stories using the standard format:
 
-**"When [situation], I want to [job], so I can [need/outcome]."**
+**"When [Circumstance], I want to [job], so I can [need/outcome]."**
 
 Example: When I am on triage rotation, I want to address the business-critical risks in my organizations assets, so I can minimize the likelihood of a security incident.
 
-Job stories are modular, allowing us to innovate and solve problems in different ways. A practical application of this flexibility is to craft the job story at a lower altitude making it more applicable to the problem area we are addressing. Keep in mind that the situation and need will not change from the main job story; however, by including more detail in the form of the job stage or step [small job(s)] and narrowing our job (I want to) down to the micro-job level, we achieve a job story that can guide our work more tactically.
+Job stories are modular, allowing us to innovate and solve problems in different ways. A practical application of this flexibility is to craft the job story at a lower altitude making it more applicable to the problem area we are addressing. Keep in mind that the circumstance and need will not change from the main job story; however, by including more detail in the form of the job stage or step [small job(s)] and narrowing our job (I want to) down to the micro-job level, we achieve a job story that can guide our work more tactically.
 
-**"When [situation + job stage/step], I want to [micro-job], so I can [need]**
+**"When [Circumstance + job stage/step], I want to [micro-job], so I can [need]**
 
 Example: When I am on triage rotation and prioritizing business-critical risks, I want to review the most recent risks detected in my assets, so I can minimize the likelihood of a security incident.
 
@@ -76,7 +76,7 @@ To help determine longer-term product direction, JTBD can be written for an enti
 
 A main job is often expressed as a utilitarian goal. It’s an act that will be performed and should have a clear end state&mdash;the “done” part of JTBD. It shouldn’t include adjectives like quick, easy, or inexpensive (because those are considered to be needs) or the metrics by which job performers compare solutions (this is handled separately). The main job is also different from your marketing message or value proposition statement, which tends to be persuasive to evoke an emotion.
 
-Don’t define a main job too narrowly. A small job will limit your field of vision, but also will constrain your efforts. When in doubt, go broader, and define a main job that is larger rather than smaller. Ask “why?” and “how?” to move the level of granularity of the main job up or down.
+Don’t define a main job too narrowly. A small job will limit your field of vision, but also will constrain your efforts. When in doubt, go broader, and define a main job that is larger rather than smaller. Ask “why?” to move higher in altitude during interviews, and “how?” to lower the altitude of the main job.
 
 Example: Address business-critical risk in my organization's assets.
 
