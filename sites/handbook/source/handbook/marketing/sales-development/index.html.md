@@ -391,23 +391,34 @@ The SDR Managers will be responsible for facilitating lead routing level changes
 
 #### Levels
 
-**Disclaimer**: for SDRs that start mid-month, their first (partial) month will be deemed “month 0” for the purposes of these rules of engagement.
+**Disclaimer**: for SDRs that start mid-month (third Monday or later), their first (partial) month will be deemed “month 0” for the purposes of these rules of engagement.
 
 ##### Onboarding
 
-* Typical Timeframe: Months 0-1
+* Timeframe: Month 0
 * Parameters: SDR not on quota, leads are off in LeanData, Drift is off
 
-##### Ramping
+#####  Ramping 1
 
-* Typical Timeframe: Month 2
-* Parameters: SDR is on 50% quota, leads are set at 50% in LeanData, Drift is off
+* Timeframe: Month 1
+* Parameters: SDR is on 25% quota, leads are set at 50% in LeanData, Drift is off
+
+#####  Ramping 2
+
+* Timeframe: Month 2
+* Parameters: SDR is on 50% quota, leads are set at 100% in LeanData, Drift is off
+
+#####  Ramping 3
+
+* Timeframe: Month 3
+* Parameters: SDR is on 75% quota, leads are set at 100% in LeanData, SDR is added to Drift
+* To add SDRs to Drift, create a new [access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) and copy and paste in the code for the [Drift access request template](https://gitlab.com/-/ide/project/gitlab-com/team-member-epics/access-requests/edit/master/-/.gitlab/issue_templates/role_baseline_access_request_tasks/department_sales_development/role_sales_development_representative_drift.md)
 
 ##### Expert
 
-* Typical Timeframe: Months 3+
-* Parameters: SDR is on full quota, leads are set at 100% in LeanData, SDR is added to Drift queues via access request. SDR is now able to create their own Outreach sequences (pending approval).
-* To add SDRs to Drift, create a new [access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) and copy and paste in the code for the [Drift access request template](https://gitlab.com/-/ide/project/gitlab-com/team-member-epics/access-requests/edit/master/-/.gitlab/issue_templates/role_baseline_access_request_tasks/department_sales_development/role_sales_development_representative_drift.md)
+* Timeframe: Months 4+
+* Parameters: SDR is on full quota, leads are set at 100% in LeanData, Drift is on
+* SDR is now able to create their own Outreach sequences [pending approval](https://about.gitlab.com/handbook/marketing/sales-development/sales-development-tools/#outreach-sequence-creation-process).
 
 #### Performance Requirements
 
