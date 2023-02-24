@@ -51,7 +51,18 @@ Requester's Ticket:
 
 If the namespace owner makes a response (don’t remove my namespace) follow these steps:
 
-1. Apply the [`Support::SaaS::Name Squatting Policy::Cancel Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057441960) Macro to the **namespace owner's response**.
+1. Use the following snippet as the response in the **namespace owner's** ticket and set the ticket to `solved`:
+
+<details>
+  <summary markdown="span">Namespace Owner Response - Received</summary>
+
+  <p>Hi,</p>
+
+  <p>Thank you for confirming that you wish to maintain control of the requested namespace.  Per our [Name Squatting Policy](https://about.gitlab.com/handbook/support/workflows/namesquatting_policy.html#namespace-owner-responded), we have cancelled this request and will not release your namespace.</p>
+
+  <p>I'll mark this ticket as solved, please reach out if you have any further questions.</p>
+</details>
+
 1. Apply the [`Support::SaaS::Name Squatting Policy::Failed Namespace Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465039) to the **namespace requester's ticket**.
 
 #### Namespace owner has not responded
@@ -118,7 +129,6 @@ __________________
 * [`Support::SaaS::Name Squatting Policy::First Response`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569840)
 * [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059)
 * [`Support::SaaS::Name Squatting Policy::Successful Namespace Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569820)
-* [`Support::SaaS::Name Squatting Policy::Cancel Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057441960)
 
 **Automations**
 
