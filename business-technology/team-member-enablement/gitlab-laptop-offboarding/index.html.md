@@ -21,7 +21,10 @@ Any team member leaving Gitlab must review this handbook page thoroughly and in 
 
 ### Before your last day.
 
-Ensure your laptop is enrolled in [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf) (for Mac’s). If you have a laptop with Linux, please reach out to #it-help in slack to have the Linux laptop enrolled in [Drivestrike](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) before your last day.
+
+If you have a Mac, ensure your laptop is enrolled and communicating with [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf). 
+
+If you have a Linux laptop, ensure that it is [enrolled](https://about.gitlab.com/handbook/it/guides/drivestrike/) in DriveStrike.
 
 Please schedule a time with an IT Analyst to wipe your laptop, you can find our Laptop Wipe Schedules in this [handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
  
