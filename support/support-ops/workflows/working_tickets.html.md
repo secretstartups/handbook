@@ -78,10 +78,15 @@ issues locating an account, please reach out to your fellow Support Operations
 Specialists for assistance.
 
 After locating them in [cDot](https://customers.gitlab.com/admin), click the
-`Edit` tab to go to the customer edit page. On this page, copy the 
-`Salesforce account` value. You will then use this to search in Zendesk for the
-organization in question (use `salesforce_id:xxx` for the 18 character values
-and `sfdc_short_id:xxx` for the 15 character values).
+`Show` tab to go to the customer info page.
+
+On this page, locate the `Billing accounts ` value and click on the link.
+
+On the page that loads, locate the `Salesforce account` value.
+
+You will then use this to search in Zendesk for the organization in question
+(use `salesforce_id:xxx` for the 18 character values and `sfdc_short_id:xxx` for
+the 15 character values).
 
 Once you have located the organization via search, you can then associate the
 user to that organization (pending no organization notes specifying otherwise).
