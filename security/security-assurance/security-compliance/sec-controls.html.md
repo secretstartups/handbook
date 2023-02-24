@@ -446,7 +446,7 @@ ITGCs are a subset of the GCF controls. Please refer to [GitLab SOX ITGC Complia
 
 </details>
 
-# List of NIST 800-53 controls by family (currently only specific to Dedicated):
+# List of NIST 800-53 controls by family (Used by Commercial and Dedicated teams beginning FY24 Q1):
 _Detailed sub-controls are included in the various control family pages_
 
 <details markdown="1">
