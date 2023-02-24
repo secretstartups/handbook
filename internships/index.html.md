@@ -30,7 +30,7 @@ To validate and refine our approach to offering internships at an [all-remote co
 Requests for opening an intern requisition will be evaluated on the following criteria:
 1. Mentorship
     - Does the team have a manager and 1-2 engineers willing to serve as mentors for the duration of the program?
-    - Do the mentors have previous experience mentoring interns or junior engineers? Previous experience is a nice-to-have, but not a must-have.
+    - Do the mentors have previous experience mentoring interns or associate engineers? Previous experience is a nice-to-have, but not a must-have.
 1. Workload
     - Does the team have a roadmap containing low weight issues with few dependencies suitable for an intern?
 1. Team Size and maturity
@@ -50,7 +50,7 @@ The process for opening an intern requisition would be as follows:
 1. Recruitment/sourcing starts for intern
 1. The recommended minimum length for an internship is three months, but can be up to six months
 1. The goal is to bring the intern on board for a fulltime Engineering role after the internship
-1. The DRI should connect with the Department Head and People Business Partner when they would want to promote the intern to an intermediate level role at the end of the internship
+1. The DRI should connect with the Department Head and People Business Partner when they would want to promote the intern to an associate level role at the end of the internship
 1. Before hiring, during the internship, and when potentially transitioning to full-time the DRI (manager) is responsible for aligning communication with the stakeholders.
 
 ## Candidate qualifying criteria
@@ -69,7 +69,7 @@ As an example of an intern position in our job families please review the [Softw
 
 ### Duration and timing
 
-The ideal duration is a minimum of three months. Internships will last no more than six months. The expectation is that interns move to grow into associate/junior or intermediate level engineers ([example](https://about.gitlab.com/job-families/engineering/development/backend/intermediate/)) at the end of their internship. The review of the level will be performed at the end of the internship.
+The ideal duration is a minimum of three months. Internships will last no more than six months. The expectation is that interns move to grow into associate or intermediate level engineers ([example](https://about.gitlab.com/job-families/engineering/development/backend/)) at the end of their internship. The review of the level will be performed at the end of the internship.
 
 An internship can start as soon as both the intern and the company are ready to begin.
 
@@ -132,7 +132,7 @@ For intern candidates we are setting the bar high at the application stage and a
 
 ### Hiring process after the internship
 
-After the internship the aim would be to hire the intern as an Intermediate Engineer (depending on previous experience).
+After the internship the aim would be to hire the intern as an Associate Engineer (depending on previous experience).
 The timeline for hiring decisions in a 4 month program would be as follows:
 - Week 8: Check in on feedback with all hosting teams
 - Week 10: Performing performance/skills assessments with interns based on the Job Families and [Competencies](/handbook/competencies/#where-we-use-competencies)
