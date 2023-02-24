@@ -39,7 +39,7 @@ For a more in-depth overview of an established RCA process, please review [this 
 
 Root cause analysis findings are useful beyond those participating in the project and analysis. Sharing these findings can help others learn from the experience of others. Utilize [multimodal communication](/handbook/communication/#multimodal-communication) to share your RCA findings including:
 
-* Engineering week in review [Slack channel](https://gitlab.slack.com/messages/CJWA4E9UG) / [Google document](https://docs.google.com/document/d/1Oglq0-rLbPFRNbqCDfHT0-Y3NkVEiHj6UukfYijHyUs/edit)
+* Engineering week in review [Slack channel](https://gitlab.slack.com/messages/CJWA4E9UG) / [Google document](https://drive.google.com/drive/search?q=%22engineering%20week%20in%20review%22%20source:domain)
 * [#development Slack channel](https://gitlab.slack.com/messages/C02PF508L)
 * Your team's monthly (or more regular) retrospective(s)
 
