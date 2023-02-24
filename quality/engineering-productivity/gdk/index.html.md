@@ -18,7 +18,7 @@ title: "Direction - GDK"
   epics on this category page. Sharing your feedback directly on GitLab.com is 
   the best way to contribute to our vision.
 * Please share feedback directly via [email](mailto:contributors@gitlab.com), 
-  [Twitter](https://twitter.com/gitlab). There's also a [Gitter contributor channel](https://gitter.im/gitlabhq/contributors) you can give us feedback and ask questions in.
+  [Twitter](https://twitter.com/gitlab). There's also a [Discord #contribute channel](https://discord.gg/gitlab) you can give us feedback and ask questions in.
 * If you're a GDK user, we'd always love to hear from you!
 
 ### Overview
