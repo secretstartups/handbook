@@ -886,14 +886,14 @@ With this it is easier to store and view files such as videos, analyst reports (
 
 Here's how to do this:
 
-![Download Drive Sync Animation](/images/handbook/tools-and-tips/downloaddrivesync.gif)
+![Download Drive for desktop](~/sites/handbook/source/handbook/tools-and-tips/drive-for-desktop.png)
 
 1. Make sure you are logged into your GitLab account in Google Drive in your browser
 1. Go to your Google Drive (https://drive.google.com)
 1. Click on the "Settings" icon (Gear) to the right of the search field
-1. From the resulting menu, select "Download Drive File Stream for Mac"
+1. From the resulting menu, select "Get Drive for desktop"
 1. It might pull up a new page/tab and use your personal login.
-If it does this you won't see "Download & install Drive File Stream" on the page.
+If it does this you won't see "Download & install Drive for desktop" on the page.
 Switch to your GitLab account.
 1. Download and install
 
