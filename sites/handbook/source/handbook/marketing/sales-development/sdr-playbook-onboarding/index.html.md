@@ -28,17 +28,19 @@ The goal in all of this is to ensure that you feel confident and comfortable to 
 * Attend the SQS workshop
 * Complete the 13-week Command of the Message Fast Start program
 
-## BDR/SDR Quota for Months 0-3 and Compensation
+## BDR/SDR Quota for Months 0-4 and Compensation
 For BDRs and SDRs joining on the first Monday of the month
-* Month 0 = no quota
-* Month 1 = 50% quota
-* Month 2 = 100% quota
+* Month 1 = 25% quota
+* Month 2 = 50% quota
+* Month 3 = 75% quota
+* Month 4 = 100% quota
 
 For BDRs and SDRs joining GitLab on the 15th or after of the month
 * Month 0 = no quota
-* Month 1 = no quota
+* Month 1 = 25% quota
 * Month 2 = 50% quota
-* Month 3 = 100% quota
+* Month 3 = 75% quota
+* Month 4 = 100% quota
 
 Quota and compensation will be assigned by the BDR/SDR Manager and discussed in the first 1:1. If a fully ramped BDR/SDR transfers BDR/SDR teams they will have a 50% ramp for month 1 and 100% quota for month 2.
 
