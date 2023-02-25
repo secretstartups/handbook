@@ -77,6 +77,8 @@ Online channels are any channels that would be directly associated with your web
 
 Buyer touchpoints are automatically created when a form is submitted on one of the GitLab.com domains for these online channels, therefore we do not need to create SFDC campaigns to track these.
 
+**Important:** AMM (Bizible) online touchpoint generation is creating online touchpoints **only** if the website visitor has cookies enabled. Depending on the users location, he might have the cookies enabled by default or he'll be promted with the OneTrust banner to choose whether he allows cookies or not. **If the user chooses not to allow cookies, AMM (Bizible) will not be creating online touchpoints for that website interaction (i.e form submit) and the lead won't be captured as an INQ in Sisense reporting dashboards.** Additional documenation about the different [consent models](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust/#consent-models) and the [geographic OneTrust banner rules](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust/#banner-rules) can be found on the [OneTrust handbook page](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust).  
+
 #### Offline
 Offline channels are associated with initiatives like direct mail, trade shows or hospitality events, marketing or sales research, and pretty much any other channel where a person’s engagement cannot be tracked digitally or where they physically attend. A quick rule of thumb: if there is a list uploaded and the person took an action, they are offline buyer touchpoints.
 
@@ -140,13 +142,13 @@ The Custom Attribution Model, based on the Machine Learning Algorithm is a livin
 
 To allow for the most up to date weights, the Marketing Operations team does constant refreshes of the Custom Attribution Model. As to have proper documentation, here in the handbook you can see the weight changes made, and when they occured.  
 
-Currently, the custom machine learning model has the following weights for each stage (updated July 15th 2022): 
+Currently, the custom machine learning model has the following weights for each stage (updated February 14th 2023): 
 
-- **First Touch** - 18.9%
-- **Lead Creation** - 18.7%
-- **Opportunity Creation** - 18.2%
-- **SAO** - 12%
-- **Closed (Lost, Won)** - 22.2%
+- **First Touch** - 22.6%
+- **Lead Creation** - 22.7%
+- **Opportunity Creation** - 14.7%
+- **SAO** - 10.1%
+- **Closed (Lost, Won)** - 20%
 - **Middle Touches** - 10.0%
 
 The custom model weights, is scheduled to be updated on a yearly basis, at the end of the FY (first week into the new FY). The previous weights can be seen [here](https://docs.google.com/spreadsheets/d/1gE0rLgVjz04kEEaZtw763SLcKlRcq5y4/edit#gid=1524071528). 

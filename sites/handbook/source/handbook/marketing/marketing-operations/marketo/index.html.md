@@ -107,7 +107,7 @@ All forms should follow these guidelines:
 - Label width = 150 / Field width = 300
 - Fields should be stacked in a vertical line
 - `Country` field label should be `Country/Region`
-- `State/Province` only visible when `Country` = `United States` or `Canada`; the visibility rule dynamically displays `Province` when `Canada` is selected or `State` when `United States` is selected 
+- `State/Province` only visible when `Country` = `United States` or `Canada` or `Australia`; the visibility rule dynamically displays `Province` when `Canada` is selected or `State` when `United States` or `Australia` is selected 
 - Generally `City` is only visible when `Country` = `Ukraine`
 - Forms should all contain a checkbox to obtain consent to `opting in` to communications via email
 - When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine
