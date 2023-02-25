@@ -160,7 +160,7 @@ Any line items within a category or subcategory default inherit the details from
 - Existing SFDC campaign - this is a dropdown that includes all campaigns that align wit the hierarchy that have been set up in SFDC; if it does not relate to an actual SFDC event/campaign, this can be left blank.
     - Note: If the SFDC campaign has not been created at the time of the entry you will not need to manually go back and add the campaign in the details panel. Once the SFDC campaign has been created the Allocadia<>SFDC synch will match the Allocadia line item to the SFDC campaign and your campaign will then show up in your details panel.
 - Campaign Name to be Created - add the campaign name here that will be used to create the Marketo program and SFDC campaign utilizing the `ISO date_event name` structure (example - 20220520_TheBestEventEver)
-- Payment method - select the type of invoice or Expensify expense. Other will be rarely used.
+- Payment method - select the type of invoice or Naven Expense. Other will be rarely used.
 - Segment - if the spend is for a specific segment or segments, choose it/allocate percentage to them here. If its for all, simply select all and save.
 - Start Date - the date the expense begins. This will be used for accruals and can be pulled into reports to show timing of software renewals, etc.
 - End Date - the date the expense ends. This will be used for accruals and can be pulled into reports to show timing of software renewals, etc. If you are unsure of what to use for the start or end dates, please reach out to our Finance Business Partners.
@@ -342,6 +342,40 @@ There is no integration with Marketo. However, through the [Marketo program/SFDC
 
 We will eventually be able to use an FTP data integration to download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do it's best guess but without the Allocadia ID, we will need to confirm or correct.
 
+
+#### Mapping Expenses
+
+The huge advantage of having an Allocadia ID tagged throughout the systems is that it can then be used to easily match line item plans/forecasts with actuals.
+Allocadia has set up the following (hardcoded!) mapping for our instance:
+
+1. Map to a Line Item by ID, using the 7 digits found in Class: Name
+
+If Class: Name is not “- No Class -“, map to a Line Item by a match on the Existing Salesforce Campaign field
+If Class: Name is not “- No Class -“, map to a Line Item by a match on the Campaign Name to be Created field
+If Class: Name is not “- No Class -“, map to a Line Item by a match on the Comments field. 
+
+2. If Department: Name field = [name], map to the activity plan with a matching Department: Name rollup panel field value
+**NOTE: This means that if we change the name of the activity plan department, we need to let Allocadia know!**
+
+3. If Department: Name = Field Marketing + Subsidiary: Name = `Gitlab XXX`, map to the `Y REGION` folder
+
+To find expenses that need to be mapped after the Netsuite actual upload, go to the home page. In the `Actuals` column, see if your `Map` column has a Map (#) in red. If so, click on that link, and it will open a new screen to show you what needs to be mapped. Scroll over to see descriptions, invoice numbers, etc from Netsuite. All you do is select the hierarchy category and then the line item to match each one to. Then hit map. You can also bulk map by shifting /clicking several lines and then hit bulk map for a smaller screen with its own “map” button.
+
+If you accidentally map something incorrectly, it can be corrected. You'll need to go to the Activities grid for the line item where you accidentally mapped it, right click and select `Go to Actuals`. A new screen will appear where hopefully you see your error line and you can delete by scrolling to the far right.
+
+##### Field Marketing Expense Mapping
+
+We strive to have all monthly expenses mapped within 3 business days of actuals being loaded by Finance.
+
+# Deprecated Handbook Content
+This section contains information we are not ready to delete just yet. The functionality is not currently being used, but if we do decide to bring it back in some form we want to have this information handy to reference.
+
+## Allocadia integration to Coupa
+
+<details markdown="1">
+
+<summary>We have turned off the functionality to create Coupa purchase requests from the Allocadia details panel. We are working with Zip, the new procurment tool, to explore an integration between Allocadia & Zip to create similiar functionality that is described below.</summary>
+
 ### [Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/)
 Via an integration of Allocadia and Coupa, Marketers are able to create a Coupa Request from within Allocadia. This is a one way push of data from Allocadia into Coupa, so if you make any changes within the Coupa request, please note it will not be updated automatically within Allocadia. Video walk through of how to create a Coupa requisition directly from Allocadia can be found [here](https://youtu.be/XroayEye3kY).
 
@@ -394,27 +428,3 @@ Via an integration of Allocadia and Coupa, Marketers are able to create a Coupa 
 * Click on your Coupa req link and review 
 * At this point you can make any adjustments needed and even [add an approver](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-an-approver)
 * When you are ready to submit your req, click `Submit`
-
-#### Mapping Expenses
-
-The huge advantage of having an Allocadia ID tagged throughout the systems is that it can then be used to easily match line item plans/forecasts with actuals.
-Allocadia has set up the following (hardcoded!) mapping for our instance:
-
-1. Map to a Line Item by ID, using the 7 digits found in Class: Name
-
-If Class: Name is not “- No Class -“, map to a Line Item by a match on the Existing Salesforce Campaign field
-If Class: Name is not “- No Class -“, map to a Line Item by a match on the Campaign Name to be Created field
-If Class: Name is not “- No Class -“, map to a Line Item by a match on the Comments field. 
-
-2. If Department: Name field = [name], map to the activity plan with a matching Department: Name rollup panel field value
-**NOTE: This means that if we change the name of the activity plan department, we need to let Allocadia know!**
-
-3. If Department: Name = Field Marketing + Subsidiary: Name = `Gitlab XXX`, map to the `Y REGION` folder
-
-To find expenses that need to be mapped after the Netsuite actual upload, go to the home page. In the `Actuals` column, see if your `Map` column has a Map (#) in red. If so, click on that link, and it will open a new screen to show you what needs to be mapped. Scroll over to see descriptions, invoice numbers, etc from Netsuite. All you do is select the hierarchy category and then the line item to match each one to. Then hit map. You can also bulk map by shifting /clicking several lines and then hit bulk map for a smaller screen with its own “map” button.
-
-If you accidentally map something incorrectly, it can be corrected. You'll need to go to the Activities grid for the line item where you accidentally mapped it, right click and select `Go to Actuals`. A new screen will appear where hopefully you see your error line and you can delete by scrolling to the far right.
-
-##### Field Marketing Expense Mapping
-
-We strive to have all monthly expenses mapped within 3 business days of actuals being loaded by Finance.
