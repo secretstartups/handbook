@@ -185,7 +185,6 @@ If you included the Allocadia ID, follow these steps. Otherwise, you'll need to 
 If you did not include the Allocadia ID in the description, you'll need to update the steps below:
 - Update `Campaign Type Details` to reflect the [type of MDF campaign](/handbook/marketing/channel-marketing/) it is.  
 - Change the `Campaign Owner` to your name
-- Update `Large Bucket` based on [criteria](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
 - Update `Start Date` to the date of launch
 - Update `End Date` to when the campaign concludes
 - Update `Budgeted Cost` - If cost is $0 list 1 in the Budgeted Cost field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by 0 you will always get 0 as the pipe2spend calculation.
@@ -244,7 +243,6 @@ GitLab can drive webcasts with Alliance Partners using [On24](https://about.gitl
 
  -   Update  `Campaign Type Details` 
 -   Change the  `Campaign Owner`  to your name
--   Update  `Large Bucket`  based on  [criteria](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
 -   Update  `Start Date`  to the date of launch
 -   Update  `End Date`  to when the campaign concludes
 -   Update  `Budgeted Cost`  - If cost is $0 list 1 in the Budgeted Cost field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by 0 you will always get 0 as the pipe2spend calculation.
@@ -270,7 +268,6 @@ If a form isn't available to capture registration, follow these additional steps
 
  -   Update  `Campaign Type Details` 
 -   Change the  `Campaign Owner`  to your name
--   Update  `Large Bucket`  based on  [criteria](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
 -   Update  `Start Date`  to the date of launch
 -   Update  `End Date`  to when the campaign concludes
 -   Update  `Budgeted Cost`  - If cost is $0 list 1 in the Budgeted Cost field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by 0 you will always get 0 as the pipe2spend calculation.
