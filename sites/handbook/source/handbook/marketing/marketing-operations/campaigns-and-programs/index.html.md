@@ -13,18 +13,6 @@ description: "Campaigns are used to track efforts of marketing tactics - field e
 
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaign aligns our efforts across Marketing, Sales and Finance.
 
-### Campaign Large Buckets
-Campaign buckets are used to improve reporting at a high level and Allocadia forecasting. A bucket must be selected when a new campaign is created.
-
-|Name|Description|Examples|
-|-------|--------------|---------|
-|Brand          | Activities meant to elevant the GitLab brand          | All-Remote, share of voice campaigns        |
-|Lead Generation|Efforts designed to bring in NEW leads to our database|Inbound Marketing, Conferences, Content Syndication, Webinars, Prospect Events in regions|
-|Pipeline Generation & Acceleration|Efforts to develop and accelerate leads in our database to purchase|Webinars, Workshops, Owned Events|
-|Users & Community| Campaigns geared towards GitLab users and Community|Commit, Meetups|
-|E-Commerce Conversion|Campaigns that do not require a touch by sales to close|`Buy Now` in our store|
-
-Campaign Types and Large Buckets will not always be 1:1, as certain programs could fall into multiple buckets (like webcasts, content).
 
 ### Campaign Cost Tracking
 
@@ -464,8 +452,11 @@ If this is to set up a program that involves a channel partner, you must also fo
 * If this is `Self-Service with Promotion` or `Speaking Session` follow the below activation instructions:
      * Click the `Smart Campaigns` folder
      * Select the `01a Registration Flow` smart campaign
-     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
-     * Click to the `Schedule` tab and click `Activate`     
+          * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
+     * Click to the `Schedule` tab and click `Activate`    
+     * Select the `04 Interesting Moments` smart campaign
+          * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
+     * Click to the `Schedule` tab and click `Activate` 
      * (NO ACTION) If a list is used to import registrants/attendants, the `03 - Processing - No Shows / Attendees` smart campaign will be run after the list is uploaded.
      * For `Speaking Session` also select the `02-Interesting Moments` smart campaign, click to the `Schedule` tab and click `Activate` 
 * If this is an `Executive Roundtable`
@@ -527,7 +518,6 @@ All programs have different necessities so it will be important to determine how
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign owner` to your name
-    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Confirm that start date and end date populated correctly (this is automated).
     - Update the `Is this an in person event` dropdown, based on `in-person` vs `virtual` type
     - Update the event epic
@@ -616,7 +606,6 @@ These steps are not yet configured. If you are planning to do this for your next
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
-    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch
@@ -678,7 +667,6 @@ These steps are not yet configured. If you are planning to do this for your next
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
-    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch
@@ -730,7 +718,6 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
-    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch
@@ -759,7 +746,6 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Direct Mail progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
 - Change the `Campaign Owner` to your name
 - Confirm the `type` is `Direct Mail`
-- Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
 - Update the event epic
 - Update the description
 - Update `Start Date` to the date of launch
@@ -847,7 +833,6 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
     - Add `Parent Campaign` of `2020_Social_LinkedIn_Lead Gen`
-    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch

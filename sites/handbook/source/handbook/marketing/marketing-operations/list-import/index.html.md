@@ -56,7 +56,7 @@ The following data cleanup is required for any list prior to sending it to the M
      - Person name separated into two columns - `First Name` `Last Name`
      - Duplicates must be reviewed and reduced
      - Address separated into individual fields (`Street`, `City`, `State/Province`, `Zip/Postal Code`, `Country`)
-     - `Country` that **are not** `United States` or `Canada` *must* have `State` field deleted or cleared as it will create conflicts and will not sync to SFDC
+     - `Country` that **are not** `United States`, `Australia` or `Canada` *must* have `State` field deleted or cleared as it will create conflicts and will not sync to SFDC
 - Please use the correct member statuses based on the definitions and type [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status). They must be exact matches, no abbreviations.
 - Preferred format for Marketo upload is .csv, but will accept an .xls, or .xlsx. Provide as Google Sheet in the upload issue. **DO NOT** upload the file directly on the issue. Uploading files to the issue exposes ALL collected personal data to the internet and opens GitLab up to litigation
 - Record ownership will be assigned using established lead routing, which is [controlled by LeanData](/handbook/marketing/marketing-operations/leandata/)

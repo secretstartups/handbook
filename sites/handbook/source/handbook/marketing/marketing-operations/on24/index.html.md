@@ -210,9 +210,9 @@ Follow these steps to apply a console template:
 
 ##### Marketo Program Templates and the Differences 
 
-- Alliance template: [YYYYMMDD_EventName_Alliance_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13129A1)
+- Alliance template: [YYYYMMDD_EventName_Alliance_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME14006A1)
   - This program uses `FORM 3299: Alliances` and fills in the `CRM Partner ID` field using the `my.partnerid}} program token. Be sure to fill in the token. 
-- Partner template: [YYYYMMDD_EventName_Channel_Partner_Webcast_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13050A1)
+- Partner template: [YYYYMMDD_EventName_Channel_Partner_Webcast_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME14001A1)
   - This program uses the `FORM 3432: Channel Partner Webcast` form. This form fills in field `Channel Record` with `true` in order to appropriately route the registrants. 
 - Webcast template: [YYYYMMDD_EventName_Webcast_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME12620A1)
   - This is a standard webcast program with no bells and whistles, uses `FORM 1592 Webcast`. 

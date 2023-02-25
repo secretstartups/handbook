@@ -29,17 +29,6 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
-The team is split into 3 main pillars, click on them below for additional information and who is a member of each. Currently enablement falls under Awareness & Consideration.
-
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="/handbook/marketing/marketing-operations/awareness-consideration" class="btn btn-purple" style="width:175px;margin:5px;">Awareness & Consideration</a>
-    <a href="/handbook/marketing/marketing-operations/conversion-expansion" class="btn btn-purple" style="width:170px;margin:5px;">Conversion & Expansion</a>
-    <a href="/handbook/marketing/marketing-operations/marketing-enablement" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Enablement</a>
-  </div>
-</div>
-
-
 
 | Person | Role |
 | ------ | ------ |
@@ -150,12 +139,11 @@ If an issue includes a weight of 21 or more, that issue may be promoted to an ep
 
 ### Labeling
 
-We use labels for four purposes:
+We use labels for three purposes:
 
 1. Categorize the tool or area that is affected
 1. Show priority
 1. Identify the stage they are in
-1. Track current and future proposed OKRs
 
 <details>
 <summary markdown='span'>
@@ -216,16 +204,6 @@ Stage
 
 </details>
 
-<details>
-<summary markdown='span'>
-OKR Tracking
-</summary>
-
-- `MktgOps-Current-OKR` - Current OKR that the MktgOps team owns
-- `MktgOps-Proposed-OKR` - Proposed OKR for the future, used to help track and plan for next quarter
-- `MktgOps-Support-OKR` - Current OKR for another team, but MktgOps is highly involved in supporting it
-
-</details>
 
 ### Milestones
 
