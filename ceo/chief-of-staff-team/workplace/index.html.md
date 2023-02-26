@@ -510,12 +510,6 @@ Our scheduled asynchronous weeks in 2022 are:
 
 ### Meet the Strategy and Operations (Workplace) team
 
-**Darren Murph**
-
-* Title: Head of Remote
-* GitLab handle: `dmurph`
-* Slack handle: `dmurph`
-
 [**Laurel Farrer**](/handbook/ceo/chief-of-staff-team/readmes/lfarrer/)
 
 * Title: Principle Strategy and Operations: Workplace
