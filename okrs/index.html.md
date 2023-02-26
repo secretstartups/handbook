@@ -75,7 +75,7 @@ Objectives should be:
 ### Criteria for Key Results
 
 Key Results should be: 
-1. **Aspirational** - Aggressive but realistic stretch goals; if it feels uncomfortable, it's a good KR.
+1. **Aspirational** - Ambitious but realistic stretch goals; if it feels uncomfortable, it's a good KR.
    1. If you achieve less than 70% of your KR, it may have not been achievable. If you are regularly achieving 100% of your KRs, your goals may not be ambitious enough.
 1. **Linked** - Be aligned to an Objective and be relevant to teams one level down; this alignment also allows KRs to easily roll down to become objectives one level down.
    1.  KRs should not be too specific that the KR needs to be rolled more than one level down. 
