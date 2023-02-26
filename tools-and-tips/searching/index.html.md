@@ -52,7 +52,7 @@ The steps below show you how to set up a keyword search for searching the GitLab
 |---|---|
 | 1. Right-click on the address bar in Chrome and select `Manage Search Engines...` | ![Manage search engine](/images/handbook/tools-and-tips/searching/1_manage_search_engine.png) |
 | 2. In the `Site search` section, click the `Add` button | ![Add search engine](/images/handbook/tools-and-tips/searching/2_add_search_engine.png) |
-| 3. In the new `Add search engine` dialog, enter the following then click `Add`: <br> a. `GitLab handbook` in *Search Engine* <br> b. `hb` in *Keyword* <br> c. `https://about.gitlab.com/#stq=%s` in *URL* | ![Enter search engine details](/images/handbook/tools-and-tips/searching/3_enter_search_engine_details.png) |
+| 3. In the new `Add search engine` dialog, enter the following then click `Add`: <br> a. `GitLab handbook` in *Search Engine* <br> b. `hb` in *Keyword* <br> c. `https://about.gitlab.com/handbook/#stq=%s` in *URL* | ![Enter search engine details](/images/handbook/tools-and-tips/searching/3_enter_search_engine_details.png) |
 
 **Alternative:** The above adds the GitLab Handbook site search function to Chrome.  If you would prefer to continue to use Google search engine to site search the Handbook, in step 3.c. above you can add `https://www.google.com/search?q=site:about.gitlab.com %s` in *URL*
 
@@ -69,7 +69,7 @@ The steps below show you how to set up a keyword search for searching the GitLab
 | 1. Click on `Bookmarks` on the menu bar, then click `Show All Bookmarks` | ![Firefox Searching](/images/handbook/tools-and-tips/searching/FF_1_Library_Menu.png) |
 | 2. Select `Bookmarks Menu` on the left | ![Firefox Searching](/images/handbook/tools-and-tips/searching/FF_2_Select_Bookmarks_Menu.png) |
 | 3. Click on the gear icon and select `New Bookmark...` | ![Firefox Searching](/images/handbook/tools-and-tips/searching/FF_3_New_Bookmark.png) |
-| 4. In the new popup dialog, enter the following then click `Add`: <br> a. `Search GitLab handbook` in *Name* <br> b. `https://about.gitlab.com/#stq=%s` in *Location* <br> c. `hb` in *Keyword* | ![Firefox Searching](/images/handbook/tools-and-tips/searching/FF_4_Bookmark_Details.png) |
+| 4. In the new popup dialog, enter the following then click `Add`: <br> a. `Search GitLab handbook` in *Name* <br> b. `https://about.gitlab.com/handbook/#stq=%s` in *Location* <br> c. `hb` in *Keyword* | ![Firefox Searching](/images/handbook/tools-and-tips/searching/FF_4_Bookmark_Details.png) |
 
 To test this, open a new tab and in the address bar type `hb iteration` and press enter.
 The GitLab handbook page should load with the search results for `iteration` showing.
