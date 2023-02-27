@@ -22,11 +22,10 @@ description: "This page serves as the Channel Operations team page and includes 
 - Colleen Farris - Senior Director, Channel and Alliance Operations
 - Niles Jamshaid - Senior Manager, Partner Operations
 - Dennis Zeissner - Senior Partner Operations Analyst
-- Yinying Huang - Partner Operations Manager
 - Nick Scala - Director, Channel Operations
-- Bhano Pippala - Channel Sales Operations Analyst
-- Jeff Cho - Channel Sales Operations Analyst
-- Morgan Fuller - Channel Sales Operations Analyst
+- Bhano Pippala - Channel Operations Analyst
+- Jeff Cho - Channel Operations Analyst
+- Morgan Fuller - Channel Operations Analyst
 - Marcella Summers - Manager, Alliance Operations
 - Jack Cassidy - Alliance Operations Analyst 
 
@@ -43,7 +42,7 @@ description: "This page serves as the Channel Operations team page and includes 
 
 Please refer to our [Channel Ops Coverage Model](https://docs.google.com/spreadsheets/d/1kzlowacL9c5bh3C5lN2FWVA9gFO8RXf2OmFg8qmd69E/edit?usp=sharing) for details on Channel Operations Specialist alignment by Geo, Channel Sales Director, and Distributor.
 
-#### Partner Operations (Niles, Dennis, Yinying)
+#### Partner Operations (Niles, Dennis)
 - Operationalize process changes for the partner organizaition (Channel and Alliances)
 - Translate business requirements to technical deliverables, test deliverables in staging environments, deploy changes and communicate process changes to the broader field team
 - Oversee compensation close cycles, SSOT reporting and process automation
@@ -120,8 +119,14 @@ Partner Sourced Deal Registration logic needs to match `Sales Qualified Source =
 
 For more information: [Deal Registration Program Overview](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#deal-registration-program-overview).
 
-### Billing Contacts in Partner Accounts
-When onboarding a new partner that will be purchasing directly from GitLab, a billing account must be created. Upon being notified of a new partner, the Channel Manager should ensure there is a contact created within the account that represents the partner's account's payable contact information. Chatter '@billing-ops' on the account record, provide the accounts payable contact information, and ask for a billing account to be set up. Partner accounts that will transact via distribution do not need a billing account set up. More information on billing accounts can be found on the [Billing Operations Handbook Page](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/).
+### Billing Account and Billing Account Contact on Partner Account Record
+Billing Account and Billing Account Contact records must be created when onboarding a new partner that will be purchasing directly from GitLab. The Channel Manager should take the following action upon being notified of a new partner:
+1. Create a contact record on the partner account that represents the partners accounts payable contact information with naming convention "[Partner Account Name] - Accounts Payable"
+2. Chatter `@Billing Ops` on the Partner Account with the partners accounts payable contact information to request that they create a Billing Account
+
+Partner accounts that will transact via distribution do not need a Billing Account. 
+
+More information on billing accounts can be found on the [Billing Operations Handbook Page](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/).
  
 ### Quoting Requirements for Channel Deals
 When a deal is being transacted via the Channel, and a discount other than the defined Program discounts are being offered, a GitLab quote is ***required***. At a minimum, a [Draft Proposal](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-draft-proposal) needs to be created and provided to the Partner.
