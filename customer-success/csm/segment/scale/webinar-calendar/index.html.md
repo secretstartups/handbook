@@ -22,13 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ## February 2023
 
-#### DevSecOps/Compliance
-##### February 23rd, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_TPHOE_SFRQGZzGnTJ-HJ2Q)
-
 #### Git Basics
 ##### February 28th, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
 
