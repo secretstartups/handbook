@@ -251,18 +251,50 @@ When a ticket is filed using the incorrect form, agents will use the
 form, tag the ticket, and leave an internal note. From there, we are expected
 to review the ticket and resolve the problem.
 
-To do this, the best approach is often to create a new ticket for the customer
-using the correct form. When doing this, review the original ticket to best
-determine which form to use (if you are unsure, reach out to a Support Manager
-or Support Ops Manager for assistance).
+To accomplish this, we need to review the ticket and determine the next steps.
+As the ticket as not gotten a first response from the correct team (because it
+was using the wrong form), we should be setting the stage to FRT when we correct
+the form. If doing so would cause the ticket to instantly breach, we instead
+want to create a new ticket.
+
+```mermaid
+graph TD;
+  A-->B;
+  B-->C;
+  C-->|Yes| D;
+  C-->|No| I;
+  D-->|Yes| E;
+  D-->|No| H;
+  E-->F;
+  F-->G;
+  A(Ticket comes to Ops due to<br>incorrect form)
+  B(Ops determines correct form)
+  C{Will the ticket breach FRT<br>SLA is moved over currently?}
+  D{Does the ticket have previous<br>agent replies?}
+  E(Leave an internal note detailing<br>what you have found and why it is not<br>being moved)
+  F(Post in the channel responsible<br>for the ticket based off the correct<br>form asking someone to reply to the ticket first)
+  G(Move the ticket to the correct<br>form with the stage being NRT after<br>someone has replied on the ticket)
+  H(Create a new ticket and use the macro<br>Support::Support-Ops::Response<br>to original ticket using an incorrect form)
+  I(Move the ticket to the correct form,<br>setting stage to FRT, removing<br>assignee, and ensuring the SGG is blank)
+```
 
 **Notes**: 
 
 1. If the ticket needs to undergo the Needs-Org process, please do that
-in the original ticket first. We want the new ticket to be as ready to be
-worked as possible, and starting a new ticket we created for an end-user with
-the Needs-Org process is not a great customer experience.
-1. If you determine the ticket is from a free or community user, there is no need to create a new ticket. Instead, simply change the form to the appropriate support form and ensure the SaaS/Self-managed Subscription is set to 'Free User'. This will ensure the ticket will have no SLA and will be visible in the [Free user tickets](https://gitlab.zendesk.com/agent/filters/360038103100) view. 
+   in the original ticket first. We want the new ticket to be as ready to be
+   worked as possible, and starting a new ticket we created for an end-user with
+   the Needs-Org process is not a great customer experience.
+1. If you determine the ticket is from a free or community user, there is no
+   need to create a new ticket. Instead, simply change the form to the
+   appropriate support form and ensure the SaaS/Self-managed Subscription is set
+   to 'Free User'. This will ensure the ticket will have no SLA and will be
+   visible in the
+   [Free user tickets](https://gitlab.zendesk.com/agent/filters/360038103100)
+   view.
+1. When moving tickets to a new form, do your best to fill out the ticket
+   metadata for the team that will work the ticket.
+
+##### If you are making a new ticket
 
 Once you determine the correct form, you should review what ticket fields that
 form uses and what information is missing. In the original ticket, leave an
@@ -298,6 +330,10 @@ Some notes to help in filing the ticket properly:
   > clear that up and get you working with the correct team, we are filing this
   > new ticket on your behalf.
   >
+  > Your original response was:
+  >
+  > <DESCRIPTION_FROM_ORIGINAL_TICKET>
+  >
   > During our review of ticket #<ID_OF_ORIGINAL_TICKET>, we did find some
   > needed information was missing. Please comment back as soon as possible
   > with the following information:
@@ -310,10 +346,6 @@ Some notes to help in filing the ticket properly:
   > * A GitLabSOS report (https://gitlab.com/gitlab-com/support/toolbox/gitlabsos/) if you are using Omnibus
   > * A KubeSOS report (https://gitlab.com/gitlab-com/support/toolbox/kubesos/) if you are using Kubernetes
   >
-  > Your original request's ticket description was as follows:
-  >
-  >
-  > <DESCRIPTION_FROM_ORIGINAL_TICKET>
 * Markdown does not work for customer filed tickets. Try to limit the markdown
   used to markdown that will still render properly in plaintext
 
