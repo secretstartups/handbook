@@ -117,6 +117,10 @@ The 5-Minute Demo Framework is a method to quickly produce technical content tha
 - How to provision dynamic review environments using merge requests and Argo CD - [Blog Post](https://about.gitlab.com/blog/2022/08/02/how-to-provision-reviewops/)
 - How to automate testing for a React application with GitLab - [Blog Post](https://about.gitlab.com/blog/2022/11/01/how-to-automate-testing-for-a-react-application-with-gitlab/)
 - CI/CD Modernization with GitLab - [YouTube Link](https://www.youtube.com/watch?v=QGAaif8lY0A) or [Highspot Pitch Link](https://gitlab.highspot.com/items/6335dbcb985c4ea802afcf8d?lfrm=srp.0)
+- Build, Test, and Deploy to Google Cloud with GitLab CI/CD - [YouTube Link](https://www.youtube.com/watch?v=wcrwEkVDEwg)
+- DRY Development: A cheatsheet on reusability throughout GitLab - [Blog Post](https://about.gitlab.com/blog/2023/01/03/keeping-your-development-dry/)
+- Simple Kubernetes management with GitLab - [Blog Post](https://about.gitlab.com/blog/2022/11/15/simple-kubernetes-management-with-gitlab/)
+- GitLab GitOps Workflow - [Youtube Link](https://www.youtube.com/watch?v=dqPmAJX8Xng)
 
 ### Topic Curation
 
