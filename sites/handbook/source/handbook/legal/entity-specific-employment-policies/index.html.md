@@ -138,6 +138,26 @@ The handbook also has a wealth of information and recommendations for setting up
   * [Equipment Examples](https://about.gitlab.com/handbook/finance/expenses/#-not-sure-what-to-buy-equipment-examples)
   * [Hardware Expense Guide](https://about.gitlab.com/handbook/finance/expenses/#-hardware)
 
+**Working Time Regulations**
+
+_What are the Working Time Regulations?_
+
+The Working Time Regulations (1998) were introduced to support the health and safety of workers by setting maximum requirements for the number of hours that they can work, paid time off and rest periods.
+
+_The 48-hour working week_
+
+The regulations state it is illegal for you to work any time over a total of 48 hours each week. You can agree to exceed this limit if you want to, but you cannot be mandated to work more than 48 hours per week.
+Average working hours are calculated over a ‘reference’ period, which is usually 17 weeks. This means you can work more than 48 hours one week, as long as the average over 17 weeks is less than 48 hours a week.
+For more information about the 48-hour working week restrictions, please visit the [government's website](https://www.gov.uk/maximum-weekly-working-hours).
+
+_How to opt-out of the 48-hour working week_
+
+It is entirely your decision if you would like to work more than an average of 48 hours a week. GitLab is committed to enabling team members to maintain a healthy work-life balance, but on occasion (for example during periods of high customer demand) you may be asked to work longer hours. To ensure that we remain compliant with the regulations, we ask you to opt out of them, in case such a need arises. 
+If you would like to opt-out, you can do this by signing this written agreement, known as the opt-out agreement. You may have chosen to sign/confirm this agreement already during your onboarding. The duration of the agreement is indefinite. If you haven't already signed [this agreement](https://docs.google.com/document/d/1DRu62fqQW7OQV0lS6evf_XxdQ-0IVZl1Jk_LmSgEhDo/edit#heading=h.tkxekwf0szl9) but would like to do so, you can make a copy of this document, add your name and sign it, and email a copy to people-connect@gitlab.com, with a request that it be saved with your documents in Workday.
+
+_How do I cancel my opt-out agreement?_
+
+You can choose to cancel your opt-out agreement at any time. The notice period you are required to give is three months.
 
 </details>
 
