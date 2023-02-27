@@ -347,8 +347,15 @@ While the below measurements do not impact your quota attainment, they are monit
 
 ![Sales Dev Career Path Visual](/images/handbook/marketing/sales-development/SalesDevCareer2.png)
 
-
-
+## After Promotion Transition
+After being promoted from SDR to BDR or BDR to an external department, your existing pipeline will not move with you but rather will be reassigned to the team you are leaving. This includes:
+ * Stage 0 opportunities (will be reassigned to the rep's previous manager)
+ * Assigned accounts, including AWA
+ * Assigned leads, including all MQLs
+ * Active Outreach sequences (alternatively, these can be marked finished)
+ * Pending Outreach tasks outside of sequences
+ * Any planned follow up that is outside of the areas specified above
+ * Any leads that reach out to you in your new role that were originally sourced in your old role
 
 ## Flexible working
 At GitLab we have flexible working hours. This means that you can organize your working day as you like and are not expected to arrive and leave at a set time every day, but we do expect MQL’s to be followed up within 1 hour (during business hours) so communication with your manager will be necessary if you plan to be out for an extended period of time. Managers will provide direction on the routing of leads during that time.
