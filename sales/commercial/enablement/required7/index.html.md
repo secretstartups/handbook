@@ -43,27 +43,27 @@ You’ve now got some time to do some investigation on some of your accounts. Yo
   <tr>
    <td><strong>Logging call notes with (ii) in the title</strong></td>
    <td>Every verbal interaction with an account is logged.</td>
-   <td>It is important to have a log of what was discussed previously, as no one has a memory that good. It also enables your buddy or manager to take over.</td>
+   <td>It is important to have a log of what was discussed previously, as no one has a memory that good. It also enables your buddy or manager to take over. In addition, the Customer Success Managers, Solutions Architects and Product teams review call notes for their own jobs.</td>
   </tr>
   <tr>
    <td><strong>Rank/tier all of your accounts </strong></td>
-   <td>Any customer with CARR higher than 0 or any prospect with an open opportunity needs to be tiered</td>
-   <td>We have to portion out our time relative to the potential of the account.</td>
+   <td>Any customer with CARR higher than 0 or any prospect with an open opportunity needs to be ranked.</td>
+   <td>We have to portion out our time relative to the potential of the account. It is also used for sales campaigns to focus on the customers where we will get the best return on our efforts.</td>
   </tr>
   <tr>
    <td><strong>Keep your next steps up to date</strong></td>
    <td>Next steps must be up to date <span style="text-decoration:underline;">every day</span></td>
-   <td>Time kills deals and we have a lot of opps - next steps are the way to keep on top of opps, resulting in more deals closed</td>
+   <td>Time kills deals and we have a lot of opps - next steps are the way to keep on top of opps, resulting in more deals closed and a better customer experience.</td>
   </tr>
   <tr>
    <td><strong>Your opportunities have to be up to date</strong></td>
    <td>$ amount, opp name, type, stage & close dates must be accurate at all times</td>
-   <td>Enables you to forecast with precision</td>
+   <td>Enables you to forecast with precision.</td>
   </tr>
   <tr>
    <td><strong>Command plans for all deals over $5k amount or $10k ARR (SMB) or $10k amount or $20k ARR (Mid-Market)</strong></td>
    <td>Overview section must be completed for deals over $5k in SMB (Total Contract Value, not ARR) or $10k in Mid-Market. Full for deals over $10k ARR in SMB or $20k in Mid-Market</td>
-   <td>The command plan is a guide of how well qualified your opportunity is and signposts what needs to happen next.</td>
+   <td>The command plan is a guide of how well qualified your opportunity is and signposts what needs to happen next. If you have not spoken to the customer yet, then add in questions you will ask in the Command Plan fields. If the deal is going through a partner then work with the partner and the Channel Account Manager (CAM) to get the answers required.</td>
   </tr>
   <tr>
    <td><strong>Custom pitch deck built for all opps over $5k amount (SMB) or $10k amount (Mid-Market)</strong></td>
@@ -77,7 +77,7 @@ You’ve now got some time to do some investigation on some of your accounts. Yo
   </tr>
 </table>
 
-**The required 7 are not optional. They must be up to date by 5pm in your timezone every day.**
+**The required 7 are not optional. They must be up to date by 5pm in your timezone every day. If you are on PTO or otherwise out, your back-up is required to help. AEs are expected to cover as much as they possibly can before taking time off, so as not to leave the backup with a huge workload.**
 # The 7 in detail
 
 ## 1/ Call notes
@@ -107,39 +107,40 @@ Call notes must be logged against the opportunity record, _NOT_ the account. Thi
 ### Pro tips
 
 - If the deal is low value, the call notes do not have to be perfect, detailed essays. A paragraph summary is fine.
-- You can copy and paste your notes from your custom deck.
+- You can copy and paste your notes from your custom deck and this is encouraged for [effiency](https://about.gitlab.com/handbook/values/#efficiency).
+- Using a template for notes is a way of completing notes quicker.
 - Your notes should not take more than a couple of minutes to tidy up after a call if you take raw notes during the call.
 
-## 2/ Ranking/tiering your accounts
+## 2/ Ranking your accounts
 
-The goal of ranking your accounts (customers AND prospects) is to enable you to prioritise your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow ARR by spending the right amount of time depending on the potential and current value of the customer/prospect.
+The goal of ranking your accounts (customers AND prospects) is to enable you to prioritize your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow ARR by spending the right amount of time depending on the potential and current value of the customer/prospect.
 
 ### When to do it
 
-You should rank/tier your accounts within 24 hours of getting them assigned to you. For SMB, they will appear in your regional dashboard.
+You should rank your accounts within 24 hours of getting them assigned to you. Accounts that require ranking will appear in your team's Required 7 dashboard.
 
-_Important: you should also re-tier your accounts when you get new information on them._
+_Important: you should also re-rank your accounts when you get new information on them._
 
 ### How to do it
 
-Do some brief research on the customer’s employee count, current subscription (or license tier of interest if it’s a prospect) and make a judgement on its potential. Once you have decided which tier it should be in, mark the account as such in Salesforce and enter notes that outline why you chose that tier. You can also check out the [account ranking section on the handbook](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) for more detailed information.
+Do some brief research on the customer’s employee count, LinkedIn Insights, latest news, current subscription (or license tier of interest if it’s a prospect) and make a judgement on its potential. Once you have decided which rank it should be in, mark the account as such in Salesforce and enter notes that outline why you chose that rank. You can also check out the [account ranking section on the handbook](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) for more detailed information.
 
-Here are some things to consider when tiering an account:
+Here are some things to consider when ranking an account:
 
-- Tier 1s and 1.5s are those accounts that you will pay most attention to - which ones are most worthy of the most time? Which customers and prospects will get you the most ARR this year?
-- Tier 2s are generally your future growth accounts that you will work proactively
-- Tier 3s will be mostly reactive and high-volume
+- Rank 1s and 1.5s are those accounts that you will pay most attention to - which ones are most worthy of the most time? Which customers and prospects will get you the most ARR this year?
+- Rank 2s are generally your future growth accounts that you will work proactively
+- Rank 3s will be mostly reactive and high-volume
 - Consider both the potential growth in the customer/prospect and the impact if they churned
 
 ### Examples & further resources
 
-Video: [Ryan O’Nell going through how to efficiently tier your accounts](https://youtu.be/M-5OhlYxmFI)
+Video: [Ryan O’Nell going through how to efficiently rank your accounts](https://youtu.be/M-5OhlYxmFI)
 
 ### Pro tips
 
-- Get into the habit of double-checking an account’s tier whenever you engage with it.
-- Include your sources that you have checked, so you can check them again when you re-tier the account in the future
-- Re-tier the account when you get it. Your tier 3 may be the previous AE’s tier 2.
+- Get into the habit of double-checking an account’s rank whenever you engage with it.
+- Include your sources that you have checked, so you can check them again when you re-rank the account in the future.
+- Re-rank the account when you get it. Your rank 3 may be the previous AE’s rank 2.
 - Use [inline editing](https://youtu.be/M-5OhlYxmFI) to quickly update multiple accounts at once.
 
 ## 3/ Keeping next steps up to date
@@ -156,10 +157,9 @@ In the next steps field in an opportunity, put in the next actions **you** will 
 
 ### Pro tips
 
-- Use an opportunity view in Salesforce to work through your next steps
-- Remember, you have to set next steps on all opportunities. Not doing so is essentially saying, “I’m not doing anything with this opportunity”
-- If you haven’t been able to get in touch with a low-value customer and they are coming up to their renewal (within the next month), put **CWFP** (Closed Won From Portal) in the next steps field and set the close date to the middle of the next month
-- If prospect or customer 'goes dark', next step should reflect what you would do IF they reply back. Then if prospect reaches back out, reopen the opportunity if in the desginated grace period of 30 days.
+- Use an opportunity view in Salesforce to work through your next steps.
+- Remember, you have to set next steps on *all* opportunities. Not doing so is essentially saying, “I’m not doing anything with this opportunity”
+- If prospect or customer 'goes dark', next step should reflect what you would do IF they reply back. Then if the prospect reaches back out, reopen the opportunity.
 
 ## 4/ Keeping your opportunities up to date
 
@@ -167,7 +167,7 @@ You know how annoying it is having to switch between Salesforce and Clari when d
 
 ### When to do it
 
-Immediately after an interaction with the account.
+Immediately after an interaction with the account and check through all your open opportunities every day before you log off for the day.
 
 ### How to do it
 
@@ -176,9 +176,11 @@ Make sure your opportunities have the following up to date at all times:
 - No zero dollar values
 - Opportunity name has the license tier and number of licenses
 - Close dates follow [close date conventions](https://docs.google.com/document/d/1TK3X22rBPIOwR9PkopK4snmVVkyCyvdTwKJ_eszH48I/edit)
+- Close dates are not in the past
 - Next steps are up to date
 - Opportunity type should be accurate (new business, add-on, renewal)
 - Sales stage must reflect the current status of the opportunity
+- The opportunity should not be left open if it is clearly not going anywhere
 
 ### Examples & further resources
 
@@ -190,9 +192,9 @@ Command Plans are your guide throughout your opportunities. They signpost where 
 
 ### When to do it
 
-They should be created as soon as you have spoken to the account. If you have not yet spoken to them, then the command plan must be filled in with the questions you will ask when you do speak to them.
+They should be created as soon as you have spoken to the account. If you have not yet spoken to them, then the command plan must be filled in with the questions you will ask when you do speak to them. If the deal is going through a partner then work with the partner and the Channel Account Manager (CAM) to get the answers required.
 
-_You need to continually update your Command Plan with every interaction with an account. A good Command Plan will get more content over time._
+_You need to continually update your Command Plan with every interaction with an account. A good Command Plan will get more content over time. Opportunities in stage 2 or above must have real information in the Command Plan, i.e. no template questions._
 
 ### How to do it
 
@@ -221,7 +223,7 @@ Pitch decks are the foundation of your relationship with the customer or prospec
 
 ### When to do it
 
-Pitch decks should be created prior to any two-way conversation with an account with an opportunity (renewal or new/additional) amount over $5k.
+Pitch decks should be created prior to any two-way conversation with an account with an opportunity (renewal or new/additional) amount over $5k (SMB) or $10k (MM). They must contain ALL the required elements (see 'How to do it' below) and MUST be sent to the customer after each Zoom call or face-to-face meeting.
 
 _You need to continually update your pitch deck with every interaction with an account. They should be used in <u>every</u> two-way conversation._
 
