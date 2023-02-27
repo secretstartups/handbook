@@ -115,7 +115,8 @@ All [**Partner Co-Sell**](https://about.gitlab.com/handbook/sales/field-operatio
 [**Partner Sourced Deal Registration**](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration) opportunities also require an authorized GitLab Partner to transact, and must also be found/created and registered in the [GitLab Partner Portal](https://partners.gitlab.com/) (excludes Alliances and GSIs). The applicable GitLab Channel Managers must approve the registered opportunity to qualify for partner program discounts and incentives. Partner Sourced Deal Registration opportunities are either:
 1. Net-new to GitLab
 2. An upsell/add-on for an existing GitLab customer
-Partner Sourced Deal Registration logic needs to match `Sales Qualified Source = Channel Generated` on the opportunity.  
+
+An approved Partner Sourced Deal Registration results in `Sales Qualified Source = Partner Generated` on the opportunity.  
 
 For more information: [Deal Registration Program Overview](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#deal-registration-program-overview).
 
@@ -265,19 +266,19 @@ The process to request the [legal team’s involvement in partner contracts](htt
  
 ### Use Cases
 - **Numbers 1 & 4**
-  - Channel Partner submits Partner Sourced Deal Reg and no Opportunity exists in the system. Therefore, the Initial source is CQL and SQS defaults to Channel Generated.
+  - Channel Partner submits Partner Sourced Deal Reg and no Opportunity exists in the system. Therefore, the Initial source is CQL and SQS defaults to Partner Generated.
   - This applies to both New and Growth orders
 - **Number 2**
   - Channel submits an order for a deal that we did not have an opportunity in the system for but did not submit a Partner Sourced Deal Reg
 - **Number 3**
   - Deal is transacting thru the channel but it was sourced by either a GitLab AE or SDR
 - ***Exception***
-  - AE or SDR creates an opportunity prior to a valid Partner Sourced Deal Reg being submitted and approved. *If the Deal Registration is approved the opportinity will automatically update SQS = Channel Generated when the approved Deal Registration has been approved and linked. 
+  - AE or SDR creates an opportunity prior to a valid Partner Sourced Deal Reg being submitted and approved. *If the Deal Registration is approved the opportinity will automatically update SQS = Partner Generated when the approved Deal Registration has been approved and linked. 
  
 ### Default Logic
-1. If `Partner Sourced Deal Reg = True` and no opportunity exists, then `Initial Source = CQL` > `SQS = Channel Generated`
+1. If `Partner Sourced Deal Reg = True` and no opportunity exists, then `Initial Source = CQL` > `SQS = Partner Generated`
 2. Alliances and OEM Logic: No Deal Registration applied but if `Initial Source = CQL` then
-`SQS = Channel Generated`
+`SQS = Partner Generated`
  
 ### SFDC Opportunity Source Field Values for Channel
 - **Initial Source**:
@@ -285,7 +286,7 @@ The process to request the [legal team’s involvement in partner contracts](htt
 - **Sales Qualified Source**:
   - _Channel_: The Channel Partner has converted the Lead/CQL to a qualified opportunity, or has created a brand new opportunity without a prior lead being in the system. This field defaults to Channel when `Initial Source = CQL`.
 - **DR - Deal Engagement**:
-  - _Partner Sourced_: Partner has either found the original opportunity or an upsell to a current customer. If the `Initial Source  = Channel Qualified Lead` or `Sales Qualified Source = Channel Generated`, then the deal is Partner Sourced.
+  - _Partner Sourced_: Partner has either found the original opportunity or an upsell to a current customer. If the `Initial Source  = Channel Qualified Lead` or `Sales Qualified Source = Partner Generated`, then the deal is Partner Sourced.
 *Please visit the [Marketing Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source) for Intial Source definition and context.
  
  
@@ -295,7 +296,7 @@ The process to request the [legal team’s involvement in partner contracts](htt
 In order to transact with GitLab, a partner must both be authorized by GitLab, and have completed at least one sales training.
  
 ### Partner Co-Sell
-All Channel deals are considered Partner Co-Sell opportunities unless there is an approved Partner Sourced Deal Registration or the Opportunities Sales Qualified Source = Channel Generated. These opportunities are not sourced solely by a partner, but highlight the relationship between GitLab and partners in the selling process. Partner Co-Sell deals do not require the partner to submit a deal registration, and should be processed according to standard Partner Co-Sell discounts as identified in the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/).
+All Channel deals are considered Partner Co-Sell opportunities unless there is an approved Partner Sourced Deal Registration or the Opportunities Sales Qualified Source = Partner Generated. These opportunities are not sourced solely by a partner, but highlight the relationship between GitLab and partners in the selling process. Partner Co-Sell deals do not require the partner to submit a deal registration, and should be processed according to standard Partner Co-Sell discounts as identified in the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/).
 
 ### US Public Sector Preferred Partner Co-Sell Request Process
 
@@ -680,17 +681,17 @@ Below are descritpions of the different columns in the Channel Forecasting modul
 | Column | Description | SFDC Filters |
 |---|---|---|
 | Partner Sourced Plan | Your Partner Sourced target |  |
-| Partner Sourced Net Won | Closed Won and Closed Lost Renewal opps (Churn included) | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Actual Churn | Closed Lost Renewals opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Forecast Category <> Decommission, Decommissioned` AND ((`Stage = 8-Closed Lost` AND `Type = Renewal`) OR (`Stage = Closed Won` AND `Net ARR < 0`)) |
-| Partner Sourced Net Commit | **Rep’s call**, based on Commit SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Forecast Category = Commit, Closed` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Net 50/50 | **Rep’s call**, based on 50/50 SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND ((`Stamped Opp Owner User Segment = Mid-Market,SMB` AND `Forecast Category = Commit, Best Case, Closed`) OR (`Stamped Opp Owner User Segment = Large, PubSec` AND `Net 50/50 = TRUE`) OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Net Best Case | **Rep’s call**, based on Best Case SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND (`Forecast Category = Commit, Best Case, Closed` OR ((`Stage = 8-Closed Lost`) AND (`Type = Renewal`)) |
-| Partner Sourced Forecasted Churn | **Rep’s call**, based on SFDC Renewal Forecast Health | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Type = Renewal` AND `Forecast Category <> Decommission, Decommissioned` AND `Renewal Forecast Category = Red` |
-| Partner Sourced Pipeline | Open Partner Sourced Opps | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
+| Partner Sourced Net Won | Closed Won and Closed Lost Renewal opps (Churn included) | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Actual Churn | Closed Lost Renewals opps | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Forecast Category <> Decommission, Decommissioned` AND ((`Stage = 8-Closed Lost` AND `Type = Renewal`) OR (`Stage = Closed Won` AND `Net ARR < 0`)) |
+| Partner Sourced Net Commit | **Rep’s call**, based on Commit SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND (`Forecast Category = Commit, Closed` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Net 50/50 | **Rep’s call**, based on 50/50 SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND ((`Stamped Opp Owner User Segment = Mid-Market,SMB` AND `Forecast Category = Commit, Best Case, Closed`) OR (`Stamped Opp Owner User Segment = Large, PubSec` AND `Net 50/50 = TRUE`) OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Net Best Case | **Rep’s call**, based on Best Case SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND (`Forecast Category = Commit, Best Case, Closed` OR ((`Stage = 8-Closed Lost`) AND (`Type = Renewal`)) |
+| Partner Sourced Forecasted Churn | **Rep’s call**, based on SFDC Renewal Forecast Health | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Type = Renewal` AND `Forecast Category <> Decommission, Decommissioned` AND `Renewal Forecast Category = Red` |
+| Partner Sourced Pipeline | Open Partner Sourced Opps | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
 | Partner Sourced New Logo Plan | Your Partner Sourced New Logo target count |  |
-| Partner Sourced New Logo Net Won | Closed Won New Logo opp count | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced New Logo Forecast | **Rep’s call**, based on Sourced New Logo  | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
-| Partner Sourced New Logo Net ARR Forecast | forecasted Net ARR of Sourced New Logo Opps to close in Q | `Deal Path = Channel` AND `Sales Qualified Source = Channel Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
+| Partner Sourced New Logo Net Won | Closed Won New Logo opp count | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced New Logo Forecast | **Rep’s call**, based on Sourced New Logo  | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
+| Partner Sourced New Logo Net ARR Forecast | forecasted Net ARR of Sourced New Logo Opps to close in Q | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
  
 ## Alliances and OEMs
 Please visit the [Alliances Handbook](https://about.gitlab.com/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal-handbook.gitlab.io/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
