@@ -30,6 +30,8 @@ First, we need **one** of the following in order to verify eligibility for the
 ownership change:
 
 1. Approval from the existing contact
+   - If the billing account has different SoldTo and BillTo contacts, we can only accept approval from the existing **SoldTo** contact.
+   - The BillTo contact must provide a recent GitLab invoice.
 1. Prior subscription contract
 1. Recent GitLab invoice (last 12 months)
    - This option is not available for customers who purchased through a reseller. Instead, the reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket. The reseller can then provide the invoice as proof of identity.
