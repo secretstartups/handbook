@@ -150,20 +150,20 @@ The programs below are available to our Tech Touch and Scale CSM customer segmen
 
 | Program                         | Category    | Content  | Email Send Time                                              | Program Type |
 |---------------------------------|-------------|----------|---------------------------------------------------------|--------|
-| Onboarding Enrollment   | Onboarding  | [Copy doc](https://docs.google.com/document/d/1VmJ_UWWbbTvMnjagixhPRWTomzLZmWJBI4t04pwFiOY/edit?usp=sharing) | 0-2 days of contract date                        | Time based trigger |
-| Onboarding Series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | 2-5 days | Time based trigger |
-| CI Enablement Series | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) |  15-20 days   | Time based trigger |
-| DevSecOps Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | 35-40 days  | Time based trigger |
-| CD Enablement Series    | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | 55-60 days     | Time based trigger |
-| Agile Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | 65-70 days   | Time based trigger |
-| Monthly Newsletters  | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/85)     | Sent Monthly on Fridays  | Time based trigger |
-| NPS Post-Onboarding Survey | Onboarding  | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | 60 days after contract date  | Time based trigger |
-| NPS Pre-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | ~ 120 days before Next renewal date | Time based trigger |
-| NPS/CSAT Post-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/308)    | 60 days after Next renewal date        | Time based trigger |
-| Monthly Webinar Invitations     | Enablement  | [Handbook](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/)   | Sent monthly dependent on event date                     | Time based trigger |
-| Post Churn Survey            | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/293)    | Opportunity marked Closed-Lost, Active Subscription = 0 | Usage based trigger |
-| Low License Utilization (SMB Only)    | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/114)    | License Utilization less than 75%, customer between 90-150 days of contract | Usage based trigger |
-| High PTC (value 1 or 2)    | Retention   | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/153)    | 6-9 months before next renewal date, PTC Value = 1 or 2| Usage based trigger |
+| Onboarding Enrollment   | Onboarding  | [Copy doc](https://docs.google.com/document/d/1VmJ_UWWbbTvMnjagixhPRWTomzLZmWJBI4t04pwFiOY/edit?usp=sharing) | 0-2 days of contract date                        | Time-based trigger |
+| Onboarding Series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | 2-5 days | Time-based trigger |
+| CI Enablement Series | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) |  15-20 days   | Time-based trigger |
+| DevSecOps Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | 35-40 days  | Time-based trigger |
+| CD Enablement Series    | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | 55-60 days     | Time-based trigger |
+| Agile Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | 65-70 days   | Time-based trigger |
+| Monthly Newsletters  | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/85)     | Sent Monthly on Fridays  | Time-based trigger |
+| NPS Post-Onboarding Survey | Onboarding  | [Issue](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/274)    | First Value Date, or 90 days after contract date, whichever is first  | Time- and usage-based trigger |
+| NPS Pre-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | ~ 120 days before Next renewal date | Time-based trigger |
+| NPS/CSAT Post-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/308)    | 60 days after Next renewal date        | Time-based trigger |
+| Monthly Webinar Invitations     | Enablement  | [Handbook](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/)   | Sent monthly dependent on event date                     | Time-based trigger |
+| Post Churn Survey            | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/293)    | Opportunity marked Closed-Lost, Active Subscription = 0 | Usage-based trigger |
+| Low License Utilization (SMB Only)    | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/114)    | License Utilization less than 75%, customer between 90-150 days of contract | Usage-based trigger |
+| High PTC (value 1 or 2)    | Retention   | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/153)    | 6-9 months before next renewal date, PTC Value = 1 or 2| Usage-based trigger |
 
 <br>
 
