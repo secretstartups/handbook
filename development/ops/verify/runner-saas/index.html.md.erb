@@ -49,8 +49,25 @@ categtory](/handbook/product/categories/#runner-group)
 As a team we maintain several projects. The <https://gitlab.com/gitlab-com/runner-maintainers> group
 is added to each project with maintainer permission. We also try to align tools and versions used across them.
 
+We maintain these projects for operating GitLab SaaS runners.
+
 - [GCP Windows Shared Runners base VM image](https://gitlab.com/gitlab-org/ci-cd/shared-runners/images/gcp/windows-containers)
 - [macOS VM images](https://gitlab.com/gitlab-org/ci-cd/shared-runners/images/macstadium/orka)
+- [macOS runbooks](https://gitlab.com/gitlab-org/ci-cd/shared-runners/macos)
+- [ci-runners Deployer](https://gitlab.com/gitlab-com/gl-infra/ci-runners/deployer)
+- [ci-runners K8S Workloads](https://gitlab.com/gitlab-com/gl-infra/ci-runners/k8s-workloads)
+- [config-mgmt environments (all `ci*` and `r-saas-*` folders)](https://gitlab.com/gitlab-com/gl-infra/config-mgmt/-/tree/master/environments)
+- [`runner-manager*` roles in chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo/)
+- [cookbook-gitlab-runner](https://gitlab.com/gitlab-cookbooks/cookbook-gitlab-runner)
+- [cookbook-wrapper-gitlab-runner](https://gitlab.com/gitlab-cookbooks/cookbook-wrapper-gitlab-runner)
+
+In addition to the SaaS related projects above, we maintain the following core runner projects.
+
+- [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner)
+- [Taskscaler](https://gitlab.com/gitlab-org/fleeting/taskscaler)
+- [Fleeting](https://gitlab.com/gitlab-org/fleeting/fleeting)
+- [Fleeting Plugins](https://gitlab.com/gitlab-org/fleeting?filter=fleeting-plugin)
+- [Custom Executor Autoscaler](https://gitlab.com/gitlab-org/ci-cd/custom-executor-drivers/autoscaler)
 
 ## Development Process
 
