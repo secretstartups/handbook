@@ -304,7 +304,7 @@ Control groups are also used for digital customers in order to measure the impac
 
 ## Program update tracker
 
-Customer email programs are updated when new content is added, existing content changes, or existing content needs to be removed.
+Customer email programs are updated when new content is added, existing content changes or existing content needs to be removed.
 
-The [program update tracker](https://docs.google.com/spreadsheets/d/1NyxIjucb8vQ-1Lch2vgzb801NNGLn7cd2iq8LuTtFlQ/edit?usp=sharing) allows us to see what the general contents of each program contains so we can quickly determine which programs need to be updated.
+The [program update tracker](https://docs.google.com/spreadsheets/d/1NyxIjucb8vQ-1Lch2vgzb801NNGLn7cd2iq8LuTtFlQ/edit?usp=sharing) allows us to see what the general contents of each program contain so we can quickly determine which programs need to be updated.
 
