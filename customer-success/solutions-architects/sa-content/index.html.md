@@ -32,7 +32,7 @@ This is not meant to limit creativity. It's a [boring](/handbook/values/#boring-
 | Publish Week | Author                                            | Topic                                                    | Content Type |
 |--------------|---------------------------------------------------|----------------------------------------------------------|--------------|
 | 2023-02-06   | [Jeremy Wagner](https://gitlab.com/jeremywagner)  | How to deploy a React application to AWS S3 using GitLab |              |
-| 2023-02-20   | [Julie Byrne](https://gitlab.com/juliebyrne)      | Getting Started with GitLab Security                     |              |
+| 2023-02-20   | [Julie Byrne](https://gitlab.com/juliebyrne)      | Getting Started with GitLab Security                     | Blog         |
 | 2023-02-27   | [Noah Ing](https://gitlab.com/noah.ing)           | Terraform Multi Environments with GitLab                 |              |
 | 2023-03-06   | [Siddharth Mathur](https://gitlab.com/smathur-gl) |                                                          |              |
 | 2023-03-13   | [Sophia Manicor](https://gitlab.com/smanicor)     |                                                          |              |
@@ -40,7 +40,7 @@ This is not meant to limit creativity. It's a [boring](/handbook/values/#boring-
 | 2023-03-27   |                                                   |                                                          |              |
 | 2023-04-03   | [Cailey Pawlowski](https://gitlab.com/cpawlowski) | Analytics for Premium GitLab Users                       |              |
 | 2023-04-10   |                                                   |                                                          |              |
-| 2023-04-17   |                                                   |                                                          |              |
+| 2023-04-17   | [Julie Byrne](https://gitlab.com/juliebyrne)             |  Preparing for a GitLab data migration  | Blog, related [video](https://youtu.be/L11mZqQKuwo) already created |
 | 2023-04-24   |                                                   |                                                          |              |
 
 ## Published Blogs & Videos
@@ -51,7 +51,7 @@ This is not meant to limit creativity. It's a [boring](/handbook/values/#boring-
 | 2022-09-23   | [Joe Randazzo](https://gitlab.com/jrandazzo)                                                 | [ CI/CD Modernization with GitLab ]( https://www.youtube.com/watch?v=QGAaif8lY0A&ab_channel=GitLabUnfiltered )                                   | Video        |
 | 2022-10-06   | [Jeremy Wagner]( https://gitlab.com/jeremywagner )                                           | [ How to automate testing for a React application with GitLab ]( /blog/2022/11/01/how-to-automate-testing-for-a-react-application-with-gitlab/ ) | Blog         |
 | 2022-01-27   | [ Sarah Bailey ]( https://gitlab.com/sbailey1 )                                              | [ All About The Merge Request ]( https://www.youtube.com/watch?v=eTIVgyknA9w )                                                                   | Video        |
-|              |                                                                                              |                                                                                                                                                  |              |
+|   2023-01-09  | [Julie Byrne](https://gitlab.com/juliebyrne) | [Migrating from Self-Managed to SaaS](https://youtu.be/L11mZqQKuwo)     | Video |
 
 ## DRI rotation
 
