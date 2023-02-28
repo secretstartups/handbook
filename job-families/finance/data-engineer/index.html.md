@@ -124,7 +124,7 @@ Business Justification: The staff level requires deep technical and functional k
 
 ## Specialties
 
-### Senior Date Engineer Big Data
+### Senior Data Engineer Big Data
 
 #### Requirements
 * All requirements of an Senior Data Engineer
