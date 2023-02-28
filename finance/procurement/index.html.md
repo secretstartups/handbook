@@ -25,6 +25,19 @@ Anytime a purchase is being made on behalf of GitLab that does not qualify as a 
 <a href="https://docs.google.com/presentation/d/1p4TVSjwa79zbVs-7iDZ3_YrR8WQgB7jC7ZC_iKyUq3Y/edit#slide=id.g127b84edaab_0_0"><img src="process2.png" alt="Procurement process"></a>
 
 
+### Procurement Team Alignment
+Division alignment for spend over >$25k USD:
+Marketing - Ashley Abbate
+Sales - Ashley Abbate
+Product - Adrienne Ruhaak
+Engineering - Adrienne Ruhaak
+People - Adrienne Ruhaak
+Finance - Adrienne Ruhaak
+Legal - Adrienne Ruhaak
+
+All division spend <$25k USD - Dasha Yarmusik
+
+Individual Software Purchases - Anam Shaikh
 
 ### Shared Goals
 Procurement is a cross-functional team that supports GitLab as a public company. We have four key objectives monitored in the following ways:
