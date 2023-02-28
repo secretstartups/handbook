@@ -103,11 +103,11 @@ GitLab approves the use of Linux, and Apple's macOS. Microsoft Windows is prohib
     As many purchases of laptops have occurred with employees making the purchases and then being reimbursed by GitLab, a remote employee would typically be making a purchase of a laptop pre-loaded with Windows Home Edition.
 - Windows Home Edition is notoriously [hard to secure](https://www.markloveless.net/blog/2019/1/15/dealing-with-windows-10).
 
-Further information on GitLab authorized operating systems, versions, and exception process is available on the [Approved OSs](/handbook/security/approved_os.html) page.
+Further information on GitLab authorized operating systems, versions, and exception process is available on the [Approved Operating Systems for GitLab Team Member Endpoint Systems](/handbook/it/operating-systems/) page.
 
 The operating system choices have obviously affected the hardware selection process.
 
-Apple hardware is the common choice among GitLab team members. Team members may also select a Dell Linux laptop if they are familiar with Linux and capable of self-support.
+Apple hardware is the common choice among GitLab team members. Team members may also select a Dell Linux laptop if they are familiar with Linux and capable of self-support, as long as they are using an approved operating system.
 
 NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased Apple products only. Apple does **not** have an employee discount program for GitLab at this time.
 
@@ -259,7 +259,7 @@ You must open an issue in the [Team Member Enablement Issue Tracker](https://git
 
 Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
 
-Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [Jamf for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe).
+Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [Jamf for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe). Also, ensure that you have installed [SentinelOne](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#endpoint-management-technologies) in order to keep your laptop secure.
 
 If, however, the repair is going to be expensive and take weeks to fix and you have no back up laptop, your best option is to replace the laptop.
 
@@ -301,7 +301,7 @@ If purchasing, our Manager of IT, or Lead, IT Analyst will approve, and we will 
 Then, if the employee decides to move forward with purchasing, our accounting department will reach out with payment information.
 
 If a team member decides to retain their laptop, they are required to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by GitLab.
-GitLab provided laptops must be wiped with [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#apple-laptops) for Macs, and [Drivestrike](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) for Linux, this ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe. Under no circumstance should you perform your own disk wipe unless you are doing so to troubleshoot a technical problem with the laptop.
+GitLab provided laptops must be wiped with [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#apple-laptops) for Macs, and [Drivestrike](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) for Linux, this ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe. Under no circumstance should you perform your own disk wipe unless you are doing so at the request of IT, to troubleshoot a technical problem with the laptop.
 If GitLab discovers that a device has not been wiped according to policy, GitLab may act to enforce a remote wipe without notice.
 
 If team members opt not to keep or purchase their existing laptops, they can return them to GitLab.
@@ -446,6 +446,10 @@ IT Ops has an automated workflow that triggers upon a notification from PeopleOp
 
 
 * The former team-member (FTM) is removed from all Google groups
+* The former team-member (FTM) is locked from access to their laptop
+* The former team-member (FTM) is removed from access to all GitLab provisioned services linked to their Okta account
+* The former team-member (FTM) is removed from access to all GitLab provisioned services not linked to their Okta account
+* Unless there is a legal hold on their laptop, the laptop is securely wiped
 * The FTM’s manager is setup as a delegate to their Gmail and Google Calendar
 * The FTM’s manager gains editor privileges to all “My Drive” Google Drive Files
 * The FTM’s account is moved to the Former Team Members OU
