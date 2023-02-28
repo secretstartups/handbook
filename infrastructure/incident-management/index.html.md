@@ -319,17 +319,20 @@ If you are a GitLab team member and would like to report a possible incident rel
 
 ### Report an Incident via Slack
 
-Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archives/C101F3796) channel in GitLab's Slack and follow the prompts. This will open an incident issue. If you suspect the issue is an emergency, tick the "Page the engineer on-call" box - not the incident manager or communications manager boxes. You do not need to decide if the problem is an incident, and should err on the side of paging the engineer on-call if you are not sure. We have triage steps below to make sure we respond appropriately. Reporting high severity bugs via this process is the preferred path so that we can make sure we engage the appropriate engineering teams as needed.
+Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archives/C101F3796) channel in GitLab's Slack and follow the prompts to open an incident issue.
+It is always better to err on side of choosing a higher severity, and declaring an incident for a production issue, even if you aren't sure.
+Reporting high severity bugs via this process is the preferred path so that we can make sure we engage the appropriate engineering teams as needed.
 
 ![Incident Declaration Slack window](incident-declare-slack.png)
 _Incident Declaration Slack window_
 
 | Field | Description |
 | ----- | ----------- |
-| Title | Give the incident as descriptive as title as you can. Please prepend the title with a date in the format YYYY-MM-DD |
-| Severity | If unsure about the severity to choose, but you are seeing a large amount of customer impact, please select S1. More details here: [Incident Severity](#incident-severity). |
-| Tasks: page the on-call engineer | If you'd like to page the on-call engineer, please check this box. If in doubt, err on the side of paging if there is significant disruption to the site. |
-| Tasks: page on-call managers | You can page the incident and/or communications managers on-call. |
+| Title | Give the incident as descriptive as title as you can. Please include the date in the format YYYY-MM-DD which should be present by default. |
+| Severity | If unsure about the severity, but you are seeing a large amount of customer impact, please select S1 or S2. More details here: [Incident Severity](#incident-severity). |
+| Service | If possible, select a service that is likely the cause of the incident. Sometimes this will also be the service impacted. If you are unsure, it is fine to leave this empty. |
+| Page engineer on-call / incident manager / communications manager on-call | **Leave these checked** unless the incident is severity 1 or severity 2, and does not require immediate engagement (this is unusual), or if the person submitting the incident is the EOC. **We will not page anyone for severity 3 and severity 4 incidents, even if the boxes are checked**. |
+| Confidential | This will mark the issue confidential, do this for all security related issues or incidents that primarily contain information that is not [SAFE](/handbook/legal/safe-framework/#what-is-safe). We generally prefer to leave this unchecked, and use confidential notes for information that cannot be public. |
 
 ![Incident Declaration Results](incident-declare-results.png)
 
@@ -463,8 +466,8 @@ Incident Managers and Engineers On-Call can use the following table as a guide f
 | ------------- | ------------- | -------------|
 | `~severity::1` |  &emsp;  - GitLab.com is unavailable or severely degraded for the typical GitLab user<br>&emsp;  - Any data loss directly impacting customers<br>&emsp;  - The [guaranteed self-managed release date](/handbook/engineering/releases/#timelines) is put in jeopardy<br>&emsp;  - It is a [high impact security incident](https://about.gitlab.com/handbook/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br>&emsp; - It is an internally facing incident with full loss of metrics observability (Prometheus down)<br><br>[Incident Managers](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) should be paged for all `~severity::1` incidents| Past `severity::1` [Issues](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A1&first_page_size=100)|
 | `~severity::2` |   &emsp;  - GitLab.com is unavailable or degraded for a small subset of users <br>&emsp;- Gitlab.com is degraded but a reasonable workaround is available<br>&emsp;- Any [moderate impact security incident](https://about.gitlab.com/handbook/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br><br>[Incident Managers](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) should be paged for all `~severity::2` incidents| Past `severity::2` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A2&first_page_size=100)|
-| `~severity::3` |   &emsp;  - Broad impact on GitLab.com and minor inconvenience to typical user's workflow <br>&emsp;- A workaround is not needed<br>&emsp;- Any [low impact security incident](https://about.gitlab.com/handbook/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br><br>Incident Managers should **NOT** be paged for `~severity::3` incidents| Past `severity::3` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A3&first_page_size=100)|
-| `~severity::4` |   &emsp;  - Minimal impact on GitLab.com typical user's workflow<br><br>Incident Managers should **NOT** be paged for `~severity::4` incidents| Past `severity::4` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A4&first_page_size=100)|
+| `~severity::3` |   &emsp;  - Broad impact on GitLab.com and minor inconvenience to typical user's workflow <br>&emsp;- A workaround is not needed<br>&emsp;- Any [low impact security incident](https://about.gitlab.com/handbook/security/security-operations/sirt/severity-matrix.html#functional-impact-rating-examples)<br>&emsp;- Most internally facing issues pertaining to blocked deployments | Past `severity::3` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A3&first_page_size=100)|
+| `~severity::4` |   &emsp;  - Minimal impact on GitLab.com typical user's workflow | Past `severity::4` [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/?sort=updated_desc&state=closed&label_name%5B%5D=severity%3A%3A4&first_page_size=100)|
 
 ### Alert Severities
 
