@@ -91,7 +91,7 @@ In addition to the same requirements, responsibilities, and performance indicato
 
 The Manager, Infrastructure (Switchboard) leads [a Fullstack team](/handbook/engineering/starting-new-teams/#fullstack-teams) responsible for the GitLab Dedicated customer-facing control panel referred to as "Switchboard".
 
-The team consists of [Backend Engineers](/job-families/engineering/backend-engineer/) and [Frontend Engineers](/job-families/engineering/frontend-engineer/).
+The team consists of [Backend Engineers](/job-families/engineering/backend-engineer/) and [Frontend Engineers](/job-families/engineering/development/frontend/).
 
 In addition to the same requirements, responsibilities, and performance indicators defined above for the Manager, Infrastructure, the Switchboard specialty requires:
 
