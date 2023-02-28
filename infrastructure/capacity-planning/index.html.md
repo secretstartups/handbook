@@ -77,7 +77,7 @@ The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This
 example, a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate and if the issue
 requires investigation.
 1. If the engineer observes an unexplained trend they will note down their findings and find an appropriate DRI to investigate further and remediate. We use the
-[Infradev Process](/handbook/engineering/workflow/#infradev) and the [Engineering Allocation meeting](/handbook/engineering/#engineering-allocation) to assist with the prioritization of these capacity alerts.
+[Infradev Process](/handbook/engineering/workflow/#infradev) and the [Engineering Allocation Process](/handbook/engineering/#engineering-allocation) to assist with the prioritization of these capacity alerts.
    1. These issues can be the catalyst for other issues to be created in the 'gitlab-org/gitlab' tracker by the stage groups for further investigation. These
 issues must be connected to the capacity planning issues as related issues.
 1. Any issue concerning resource saturation or capacity planning in any tracker should have the "GitLab.com Resource Saturation' label applied.
