@@ -69,4 +69,4 @@ Ideally the functional lead is someone who is an IC that might be affected by th
 | Member | Marius Bobin | Verify::Pipeline Execution | Backend Engineer |
 | Member | Daniele Rossetti | Monitor::Visualization | Senior Frontend Engineer |
 | Member | Vitaly Slobodin | Fulfillment | Staff Frontend Engineer |
-
+| Member | Adeline Yeung | Infrastructure | Site Reliability Engineer |
