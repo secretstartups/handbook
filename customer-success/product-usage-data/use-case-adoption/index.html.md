@@ -111,6 +111,28 @@ Gainsight Rules mark boolean fields as true on `Company` object for accounts wit
 
 Once marked, the number of “true” booleans for each account are summed. If an account has a green SCM, CI, CD and DevSecOps, this would be a 4 score. If none of the use cases are green, this would be 0 and if all of the use case scores are N/A, this would be NULL to mean no usage stats have been recorded.
 
+## Product Health Score Drop CTA
+
+Using the Gainsight Rules Engine, we have created a mechanism for a Call to Action (CTA) to be created every time a Product Health Score drops from Green to Yellow/Red or from Yellow to Red. The CTA is assigned to the Customer Success Manager (CSM) for follow up, and no playbooks will be associated with the CTA. The CSM will have the option to manually create/add tasks to the CTA in order to keep track of actions taken towards correcting the decrease in score.
+
+Through this CTA, the CSM is notified quickly when a customer may be decreasing their usage of an area of the product, so that they can investigate, ask discovery questions, and triage early, in order to help customers adopt and avoid potential churn or contraction down the line.
+
+While there may be some false positives (for example holiday breaks when no one is working), we prefer to be extra cautious when it comes to potential risk, so we ask CSMs to do their due diligence when receiving these CTAs to ensure their customer is not facing new blockers, company changes, etc. that could affect their renewal, and if they are to begin the [triage process](/handbook/customer-success/csm/health-score-triage/) immediately.
+
+The CSM may also be able to spot trends of where customers may have lagging usage either over time or across their books of business and suggest best practices to their customers to help with expectations and adoption.
+
+This logic applies to the following Scores:
+- CI Adoption
+- CD Adoption
+- DevSecOps Adoption
+- License Utilization
+- SCM Adoption
+- User Engagement 
+
+_Notes:_
+- Applicable to CSM-managed customer accounts only
+- Rule is scheduled to run on a daily basis at 2am PT
+
 ## License Utilization in Gainsight
 
 License Utilization is calculated on a subscription level. In Gainsight, we roll up stats from all subscriptions under an account and display it at the account level. Billable User Count comes from Operational Metrics for both SaaS and Self-Managed customers (Self-Managed stats are limited to customers in version 14.0 or later). Subscription stats are brought over from Zuora. 
