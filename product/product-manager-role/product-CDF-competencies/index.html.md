@@ -144,54 +144,50 @@ The process followed was:
 1. Schedule AMAs  
 1. Remove `## Pilot Program for New CDF` from New CDF Page on 2023-01-05 
 
-### CDF for Product Leadership
+## CDF for Product Leadership
 The below table outlines the Career Development Framework used for [Product Leaders](/handbook/product/product-leadership/#product-leaders).
 
-| [Product Leadership Role](/job-families/product/product-management-leadership/) | Group Manager PM | Director PM | Senior Director PM |
-| ------------- | ---------------- | ----------- | ------------------ |
-| **Validation Track Skills** | Demonstrates and coaches product validation techniques to others. Leads strategic research that spans and extends beyond product scope. Spots opportunities for cross-group, cross-stage, or cross-section collaboration and learning. Develops strong partnership with Product Design leadership. Ensures effectiveness of R&D investment. | Ensures consistent execution of validation track skills across a large team. Spots opportunities for cross-stage collaboration and shares relevant validation activities across teams. Enables strong partnership with UX Research and Product Design to ensure our R&D investment is effective | |
-| **Build Track Skills** | Demonstrates and coaches build track skills to others. Spots and actions on global optimizations across product groups. Coaches PMs on building high-performance Product Groups. Partners with Engineering Leadership to ensure product groups attain cross-functional performance indicators and that R&D resources are being effectively allocated. Establishes and executes a portfolio management strategy across stages in sections.| Ensures consistent execution of build track skills across a large team. Responsible for the health of working relationships with fellow Engineering Directors. Evaluates and optimizes product hierarchy to ensure we are organized to efficiently deliver on our R&D investments. Coaches groups to create a high-performance organization that meets performance indicators across functions. Establishes and executes portfolio management strategy across scope with peer Directors. | |
-| **Business Skills** | Demonstrates and coaches business skills to others. Regularly maintains high-level Direction and ensures Direction alignment across the scope. Develops a deep understanding of the adoption funnel across groups and stages. Partners with GTM on assigned Use Cases. Establishes a deep understanding of competitive and emergent solutions. Leads acquisition and new investment business case creation. Capable of managing business results across a range of product domains. | Works cross-stage and cross-functionally to ensure an excellent end-to-end customer experience. Excellent at understanding and managing the business impact across a wide range of product domains. Capable of making key pricing & packaging recommendations. [Champions acquisition opportunities](https://about.gitlab.com/handbook/acquisitions/acquisition-process/#early-diligence) including business case creation. Proactively manages adoption funnels and performance indicators across stages. Identifies GTM opportunities and engages with leaders to capitalize on them. | |
-| **Communication Skills** | Demonstrates and coaches communication skills to others. Consistently communicates a product vision, and creates a bias towards action in their communication. Recognized as a thought leader internally and externally. Excellent presentation skills at all levels of the company. Spots murkiness and escalates issues cleanly to appropriate levels of authority when decisions or progress are blocked. Able to represent GitLab Section Direction deeply and company-wide roadmap broadly.  | Visible leader cross-functionally. Establishes a compelling team purpose that is aligned to the overall organizational vision. Inspires a broader team to achieve results. Identifies disconnects to vision and takes appropriate action. | |
-| **People Management Skills** | Provides regular performance feedback and career coaching to their team. Enables capacity and efficiency in team members they support. Develops trust with direct reports. Aligns team with larger Stage vision and goals. Translates and aligns strategy in a meaningful way for the team, building a shared understanding of team goals and targets. Uses situational leadership techniques to provide the appropriate level of guidance and latitude to team members. Proactively identifies and fills talent gaps. Adept at caring personally for team members. Provides candid real-time feedback. | Aligns team with scope's larger vision and goals. Provides appropriate level of guidance and latitude to managers and individuals. Experienced at hiring and at managing out underperformance. Excellent at caring personally for team members. Provides candid real-time feedback. | |
+| Competency | Outcomes | [Group Manager](/job-families/product/product-management-leadership/) | [Director](/job-families/product/product-management-leadership/)| [Senior Director](/job-families/product/product-management-leadership/) | [VP](/job-families/product/product-management-leadership/) |
+| --- | --- | --- | --- | --- | --- |
+| **Product Roadmap & Product-Led Growth:** This competency is about setting and attaining the product direction as defined by the teammate. The teammate is being evaluated on connecting data to product strategy, influencing communication skills internally, planning ambitiously, while effectively practicing iteration, and delivering on the needs of the market. | MAU growth/retention, ARR Influence, Cross-company alignment for product roadmap   | Leads strategic research that spans and extends beyond product scope. Plans on an annual and quarterly product vision cadence. Spots opportunities for cross-group, cross-stage, or cross-section collaboration and learning. Demonstrates and coaches business skills to others. Regularly maintains high-level Direction and ensures Direction alignment across the scope. Develops a deep understanding of the adoption funnel across groups and stages. | Executes research and customer interviewing across the section as a GitLab representative. Plans on a 3-year to annual product vision cycle. Creates opportunities for cross-stage and cross-section collaboration. Active coach for business skills across the product organization, including feedback on opportunity canvases, product proposals, and MVCs.  | Represents GitLab product in strategic customer calls, Customer Advisory Board Sessions, and prospects to inform 5-year+ product vision and strategy. Contributes to annual themes, yearlies, and OKRs to align section with broader company strategy. Provides coaching to direct reports on crafting vision in respective areas. |  |
+| **Sensing Mechanisms:** This competency is about being able to balance and understand the various inputs of the user, customer, market, and landscape for GitLab. This will include the various levers the teammate will use to inform the product direction and use to shape the execution plans. Each function will have different mixes of sensing mechanisms required for that function, although, to effectively satisfy the requirements of the Product Competency all sensing mechanisms should be addressed at some level in the development framework for the teammate's development. | Continuous evaluation of competitive landscape, active participation and execution of merger and acquisition, drives GTM alignment on key product deliveries, and engages SUS/PNPS for user interviews.  | Partners with GTM on assigned Use Cases. Establishes a deep understanding of competitive and emergent solutions. Leads acquisition and new investment business case creation. Capable of managing business results across a range of product domains. | Capable of making key pricing & packaging recommendations for section. Champions acquisition opportunities including business case creation. Proactively manages adoption funnels and performance indicators across stages. Identifies GTM opportunities and engages with leaders to capitalize on them for the section. | Contributes to pricing discussions across the portfolio and makes recommendations on strategy. Identifies and champions acquisition opportunities and provides coaching to direct reports on effective positioning and business case creation. Leads cross-section dialogue on product performance indicators and helps identify opportunities for cross-section partnership. Works with GTM and Customer success leadership to deliver on portfolio priorities.  |  |
+| **Thought Leadership:** This competency is about the recognition of having technical ownership and being a resource or authority in the domain that the teammate is an expert in. This measure will vary across the Product organization and will be evaluated as an illustration of the Product teammate's capacity to deliver on the domain expertise or represent GitLab to the community. | Represent GitLab externally in industry talks, podcasts, or conferences. Creates content for product vision. Coaches teammates on employing effective thought leadership mechanisms. Actively engages analysts for generating market priorities.  | Consistently communicates a product vision and creates a bias towards action in their communication. Recognized as a thought leader internally and externally. Excellent presentation skills at all levels of the company. Spots murkiness and escalates issues cleanly to appropriate levels of authority when decisions or progress are blocked. Able to represent GitLab Section Direction deeply and company-wide roadmap broadly. | Establishes a compelling team purpose that is aligned with the overall organizational vision. Inspires a broader team to achieve results. Identifies disconnects to vision and takes appropriate action. | Actively engages the market, analysts, and other software leaders in the industry to represent GitLab and our product management philosophy. Active participant in industry conferences. Engages analysts in portfolio discussions.  |  |
+| **Aligning Teams Using Values:** This competency is about how the teammate facilitates team execution and performance using GitLab values. | Lives CREDIT values. Coaches others on CREDIT Values. OKR execution and completion by the team. Stage and Section Say/Do ratios or MR rates are attaining targets.  | Develops strong partnership with Product Design leadership in Stage. Ensures effectiveness of R&D investment. Partners with Engineering Leadership to ensure product groups attain cross-functional performance indicators and that R&D resources are being effectively allocated. Establishes and executes a portfolio management strategy across stages in sections. Aligns team with larger Stage vision and goals. Translates and aligns strategy in a meaningful way for the team, building a shared understanding of team goals and targets. Uses situational leadership techniques to provide the appropriate level of guidance and latitude to team members. Proactively identifies and fills talent gaps. Adept at caring personally for team members. Provides candid real-time feedback. | Enables strong partnership with UX Research and Product Design to ensure our R&D investment is effective across stages and the section. Responsible for the health of working relationships with fellow Engineering Directors. Evaluates and optimizes product hierarchy to ensure we are organized to efficiently deliver on our R&D investments. Coaches groups to create a high-performance organization that meets performance indicators across functions. Establishes and executes portfolio management strategy across scope with peer Directors. Aligns team with scope's larger vision and goals. Provides appropriate level of guidance and latitude to managers and individuals. Experienced at hiring and at managing underperformance. Excellent at caring personally for team members. Provides candid real-time feedback. | Enables strong partnership with UX Research and Product Design to ensure our R&D investment is effective across the portfolio. Responsible for the health of working relationships with Engineering functions and product organization. Provides coaching on the effective use of R&D investments. Coaches product team to create a high-performance organization that meets performance indicators across functions. Coaches direct reports on portfolio management strategy. Aligns product team with scope's larger vision and goals. Provides appropriate level of guidance and latitude to managers and individuals. Expert at hiring and at managing underperformance. Excellent at caring personally for team members. Provides candid real-time feedback. |  |
+
 
 Typical scope and reporting structure is documented in the [Product Management Leadership job family](/job-families/product/product-management-leadership/).
 
 ##### CDF Topics For Group Managers of Product
 Responsibilities outlined in the [Group Manager of Product Job Family page](/job-families/product/product-management-leadership/#group-manager-product-gmp).
 
-**Validation Track Skills**
+**Product Roadmap & Product Led Growth**
 * Coaching of team members on validation track skills
 * Strategic research
 * Driving cross-group connections in service of a single-app experience
-* Partnership with Design leadership
-
-**Build Track Skills**
-* Coaching of team members on build track skills
-* Global optimization across product groups
-* High performance of Product Groups
-
-**Business Skills**
-* Coaching of team members on business skills
-* Direction updates
 * Adoption Funnel across product groups
 * Partnership with GTM via Use Case assignment
+
+**Sensing Mechanisms**
+* Coaching of team members on business skills
+* Acquisitions
 * Deep understanding, synthesis, and communication of competitive landscape and emergent solutions 
 * Business Cases for new investment
-* Acquisitions
+* Direction updates
 
-**Communication Skills**
-* Coaching of team members on communication skills
+**Thought Leadership**
 * Presenting broader GitLab Roadmap
-* Representing your scope
+* Represent GitLab at Conferences 
 
-**People Management Skills**
-
-* Career Coaching
-* Performing CDF Reviews
+**Aligning Teams with Value**
+* Partnership with Design leadership
+* High-performing team
 * Enabling direct reports to be more efficient
-* Strategy alignment
-* Rapport with direct reports
+* Shared understanding of team goals and targets
+* Hiring and at managing underperformance. 
+* Caring personally for team members. 
+* Candid real-time feedback. 
+
+** Note ** Aligning Teams with Values includes People Management Skills
 
 ### Evaluating Product Manager's potential
 When evaluating a product manager's potential, in addition to the [generic information](/handbook/people-group/talent-assessment/#what-is-potential) outlined, we also want to evaluate potential based on the unique and outsized impact PMs can have. We acknowledge that the evaluation will remain more qualitative than quantitative, but rather than shy away from making an evaluation, we will lean in using the information below.
