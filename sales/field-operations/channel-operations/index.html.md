@@ -256,9 +256,9 @@ The process to request the [legal team’s involvement in partner contracts](htt
 ![4-Ch_Reporting_Tagging](/handbook/sales/field-operations/channel-operations/images/4-Ch_Reporting_Tagging.png)
  
 ### Definitions
-1. **Deal Path**: How the deal is transacted. Values can be Channel, Direct, or Web. Includes Referral Ops for Channel.
+1. **Deal Path**: How the deal is transacted. Values can be Partner, Direct, or Web. Includes Referral Ops for Partner.
 2. **Partner Sourced Deal Reg**: Partner submits a Registration for their sourced opportunity via the Partner Portal. For the purposes of this matrix the assumption is the Deal Reg is approved. If the deal is not Partner Sourced then Deal Reg does not apply.
-3. **Initial Source**: SFDC Lead value that is populated based on lead source. Will default to CQL (Channel Qualified Lead) when a Partner submits a Partner Sourced Deal Reg and an Opportunity does not already exist in the system.
+3. **Initial Source**: SFDC Lead value that is populated based on lead source. Will default to CQL (Partner Qualified Lead) when a Partner submits a Partner Sourced Deal Reg and an Opportunity does not already exist in the system.
 4. **SQS (Sales Qualified Sourced)**: Who converts/creates the Opportunity in SFDC. Can only be 1 value
 5. **Deal Type**: Whether or not the partner is taking paper or not
 6. **Order Type**: Customer order designation in SFDC. New First Order or Growth
@@ -681,17 +681,17 @@ Below are descritpions of the different columns in the Channel Forecasting modul
 | Column | Description | SFDC Filters |
 |---|---|---|
 | Partner Sourced Plan | Your Partner Sourced target |  |
-| Partner Sourced Net Won | Closed Won and Closed Lost Renewal opps (Churn included) | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Actual Churn | Closed Lost Renewals opps | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Forecast Category <> Decommission, Decommissioned` AND ((`Stage = 8-Closed Lost` AND `Type = Renewal`) OR (`Stage = Closed Won` AND `Net ARR < 0`)) |
-| Partner Sourced Net Commit | **Rep’s call**, based on Commit SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND (`Forecast Category = Commit, Closed` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Net 50/50 | **Rep’s call**, based on 50/50 SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND ((`Stamped Opp Owner User Segment = Mid-Market,SMB` AND `Forecast Category = Commit, Best Case, Closed`) OR (`Stamped Opp Owner User Segment = Large, PubSec` AND `Net 50/50 = TRUE`) OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Net Best Case | **Rep’s call**, based on Best Case SFDC Opps | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND (`Forecast Category = Commit, Best Case, Closed` OR ((`Stage = 8-Closed Lost`) AND (`Type = Renewal`)) |
-| Partner Sourced Forecasted Churn | **Rep’s call**, based on SFDC Renewal Forecast Health | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Type = Renewal` AND `Forecast Category <> Decommission, Decommissioned` AND `Renewal Forecast Category = Red` |
-| Partner Sourced Pipeline | Open Partner Sourced Opps | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
+| Partner Sourced Net Won | Closed Won and Closed Lost Renewal opps (Churn included) | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Actual Churn | Closed Lost Renewals opps | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Forecast Category <> Decommission, Decommissioned` AND ((`Stage = 8-Closed Lost` AND `Type = Renewal`) OR (`Stage = Closed Won` AND `Net ARR < 0`)) |
+| Partner Sourced Net Commit | **Rep’s call**, based on Commit SFDC Opps | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND (`Forecast Category = Commit, Closed` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Net 50/50 | **Rep’s call**, based on 50/50 SFDC Opps | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND ((`Stamped Opp Owner User Segment = Mid-Market,SMB` AND `Forecast Category = Commit, Best Case, Closed`) OR (`Stamped Opp Owner User Segment = Large, PubSec` AND `Net 50/50 = TRUE`) OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced Net Best Case | **Rep’s call**, based on Best Case SFDC Opps | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND (`Forecast Category = Commit, Best Case, Closed` OR ((`Stage = 8-Closed Lost`) AND (`Type = Renewal`)) |
+| Partner Sourced Forecasted Churn | **Rep’s call**, based on SFDC Renewal Forecast Health | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Type = Renewal` AND `Forecast Category <> Decommission, Decommissioned` AND `Renewal Forecast Category = Red` |
+| Partner Sourced Pipeline | Open Partner Sourced Opps | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
 | Partner Sourced New Logo Plan | Your Partner Sourced New Logo target count |  |
-| Partner Sourced New Logo Net Won | Closed Won New Logo opp count | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced New Logo Forecast | **Rep’s call**, based on Sourced New Logo  | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
-| Partner Sourced New Logo Net ARR Forecast | forecasted Net ARR of Sourced New Logo Opps to close in Q | `Deal Path = Channel` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
+| Partner Sourced New Logo Net Won | Closed Won New Logo opp count | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
+| Partner Sourced New Logo Forecast | **Rep’s call**, based on Sourced New Logo  | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
+| Partner Sourced New Logo Net ARR Forecast | forecasted Net ARR of Sourced New Logo Opps to close in Q | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
  
 ## Alliances and OEMs
 Please visit the [Alliances Handbook](https://about.gitlab.com/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal-handbook.gitlab.io/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
