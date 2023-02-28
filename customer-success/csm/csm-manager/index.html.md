@@ -20,23 +20,24 @@ This page provides an overview on relevant CSM leadership processes.
 
 ## CSM Leadership
 
-| Name | Region | Role | [Sales Segment](/handbook/sales/field-operations/gtm-resources/#segmentation) | [CSM Segment](/handbook/customer-success/csm/segment/) |
+| Name | [Sales Segment](/handbook/sales/field-operations/gtm-resources/#segmentation) | Region | Level | Account Segment |
 |---|---|---|---|---|
-| [Sherrod Patching](/company/team/#spatching) | Global | VP | Enterprise & Commercial | All CSM Segments |
-| [Christiaan Conover](/company/team/#christiaanconover) | AMER | Director | Enterprise | Strategic & Growth |
-| [Taylor Lund](/company/team/#taylorlund) | Global | Manager | Enterprise & Strategic | Scale |
-| [Chloe Whitestone](/company/team/#chloe) | AMER | Manager | All (ENT, COMM, PubSec) | ENT Growth; COMM Strategic (interim) |
-| [Christina Souleles](/company/team/#csouleles) | EMEA | Manager | Enterprise & Commercial | Growth |
-| [Lauren Han](/company/team/#lauhan) | Global | Manager | Commercial | Growth |
-| [Sophie Pouliquen](/company/team/#spouliquen1) | AMER East | Manager | Enterprise | Strategic |
-| [Tiffany McAtee](/company/team/#tiffanymcatee.gitlab) | AMER East | Manager | Enterprise | Strategic |
-| [John Woods](/company/team/#jwoods06) | AMER West | Sr Manager | Enterprise | Strategic |
-| [Jamie Reid](/company/team/#jrreid) | AMER West | Manager | Enterprise | Strategic |
-| [Dave Thompson](/company/team/#dthompson3) | APAC | Manager | Enterprise | Strategic |
-| [Michael Leutz](/company/team/#mrleutz) | EMEA | Sr Manager | Enterprise | Strategic |
-| [James Wormwell](/company/team/#jwormwell) | EMEA | Manager | Enterprise | Strategic |
-| [Robert Clark](/company/team/#robclark14) | PubSec | Manager | PubSec | Strategic |
-| [Steven Terhar](/company/team/#SteveTerhar) | PubSec | Manager | PubSec | Strategic |
+| [Sherrod Patching](/company/team/#spatching) | Enterprise & Commercial | Global | VP | All Segments |
+| [Taylor Lund](/company/team/#taylorlund) | Enterprise, Commercial, & PubSec | Global | Manager | N/A |
+| [Christiaan Conover](/company/team/#christiaanconover) | Enterprise | AMER | Director | Strategic & Major |
+| [Chloe Whitestone](/company/team/#chloe) | Enterprise | AMER East | Manager | Strategic |
+| [Sophie Pouliquen](/company/team/#spouliquen1) | Enterprise | AMER East | Manager | Major |
+| [Tiffany McAtee](/company/team/#tiffanymcatee.gitlab) | Enterprise | AMER East | Manager | Major |
+| TBH | Enterprise | AMER West | Manager | Strategic |
+| [Jamie Reid](/company/team/#jrreid) | Enterprise | AMER West | Manager | Major |
+| [Dave Thompson](/company/team/#dthompson3) | Enterprise | APAC | Manager | N/A |
+| [Michael Leutz](/company/team/#mrleutz) | Enterprise | EMEA | Director | N/A |
+| [James Wormwell](/company/team/#jwormwell) | Enterprise | EMEA | Manager | N/A |
+| [Ally Frusciano](/company/team/#afrusciano) | Commercial | Global | Director | Territory & Key |
+| [Lauren Han](/company/team/#lauhan) | Commercial | AMER | Manager | Territory |
+| [Christina Souleles](/company/team/#csouleles) | Commercial | EMEA | Manager | N/A |
+| [Robert Clark](/company/team/#robclark14) | PubSec | PubSec | Manager | N/A |
+| [Steven Terhar](/company/team/#SteveTerhar) | PubSec | PubSec | Manager | N/A |
 
 ## CSM Manager Responsibilities & Requirements
 
