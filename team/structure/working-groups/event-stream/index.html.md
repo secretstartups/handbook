@@ -16,16 +16,42 @@ canonical_path: "/company/team/structure/working-groups/event-stream/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | 2021-09-20 |
-| Target End Date | - |
+| Target End Date | 2023-04-01 |
 | Slack           | #wg_event-stream (only accessible from within the company) |
 | Google Doc      | [Event Stream Working Group Agenda](https://docs.google.com/document/d/1unlrVd1M1N-d3GI2DP7R9gXJxBXHjY2rOKR5hsGHuKI/edit?usp=sharing) (only accessible from within the company) |
 | Issue Label | ~WorkingGroup::EventStream |
 
-## Goals
+## Context 
+
+There are currnetly 3+ methods for publishing and listening to events withint the Gitlab product. 
+There is no single standard for events and there is no standard way of publishing and subscribing to events from other 
+Gitlab systems and services.
+
+There is a growing need to standardize events and how to publish and consume them for both Gitlab.com and self-managed installs.
+
+## Exit Criteria
 
 This Working Group has the following goals:
 
- 1. Determine if an Event Stream is necessary and feasible for Saas _and_ on-prem
+ 1. Document the current event systems
+ 1. Document the currently identified use cases for an event stream
+ 1. Define and socialize an architecture for a standardized event stream and events
+    1. Architecture Blueprint for Event Stream usage within Gitlab and self-managed
+    1. Define sene and secure defaults. Provide security recommendations and guidelines.
+ 1. Define a rollout strategy and plan
+    1. SaaS rollout strategy for current use cases
+    1. Prepare the groundwork for adding the event stream to our reference architectures
+ 1. Develop a communication plan to socialize the outcome of the working group
+
+### Exit Criteria Progress
+
+| Criteria                                 | Start Date   | Completed Date   | Progress   | DRI   |
+| ----------                               | ------------ | ---------------- | ---------- | ----- |
+| Document current event systems           |              |                  |            |       |
+| Document use cases                       |              |                  |            |       |
+| Develop and social architecture stragety |              |                  |            |       |
+| Develop rollout stragegy                 |              |                  |            |       |
+| Develop and implement communication plan |              |                  |            |       |
 
 ## Definitions
 
