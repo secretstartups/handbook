@@ -40,12 +40,12 @@ This working group aims to build on the previous work from the [internship-pilot
 - ✅ Open an evergreen internship for applicants
 - ✅ Identify and work with several hiring managers to review, screen, and interview candidates for specific roles 
 
-#### Stage 2: Iterate on the process with a small number of teams  `=> 50%`
+#### Stage 2: Iterate on the process with a small number of teams  `=> 100%`
 
 - ✅ Create role specific recruitment funnels
 - ✅ Determine requirements and benchmarks for technical interviews
-- Support managers, teams, and interns through the first round of internships 
-- Re-introduce the Junior level, renamed Associate, and add as a pathway from internship
+- ✅ Support managers, teams, and interns through the first round of internships 
+- ✅ Re-introduce the Junior level, renamed Associate, and add as a pathway from internship
 
 #### Stage 3: Plan for FY24 `=> 0%`
 
