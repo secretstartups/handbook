@@ -35,7 +35,11 @@ We take employee concerns very seriously and encourage all GitLab Team Members t
 
 #### [Commercial](https://about.gitlab.com/handbook/legal/commercial/)
 
-The Commercial Legal Team works with our Sales and Partnership Team Members to deliver GitLab software and services. In addition, this team is responsible for reviewing and approving all agreements with regards to the procurement of goods and services. Resources include the [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/), Procurement Guide, and other resources which provide how best to engage the Commercial Team, as well as assist in efficiently reaching terms with our vendors, customers and partners, including negotiating terms and providing business and legal recommendations.
+The Commercial Legal Team works with our Sales and Partnership Team Members to deliver GitLab software and services. In addition, this team is responsible for reviewing and approving all agreements with regards to the procurement of goods and services. Resources include the [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/), Procurement Guide, and other resources which provide how best to engage the Commercial Team, as well as assist in efficiently reaching terms with our vendors, customers and partners, including negotiating terms and providing business and legal recommendations. 
+
+For all questions or requests related to a specific Partner and/or Customer, including non-standard NDA requests, contract review / negotiations and general legal questions, please open a [Legal Request](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal) in SFDC. 
+
+For matters opened in GitLab Issues that require the Commercial Legal Team's attention, follow the GitLab Commercial Legal [labeling instructions](https://about.gitlab.com/handbook/legal/customer-negotiations/#commercial-legal-issues) to notify the team.
 
 
 #### [Corporate](https://about.gitlab.com/handbook/legal/publiccompanyresources/)
