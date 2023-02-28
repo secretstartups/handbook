@@ -36,6 +36,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**Escalation Process**](#escalation-process) |  [**GitLab Legal Commercial Coverage Model & Best Practices for a Legal Call**](#gitlab-legal-commercial-coverage-model-and-best-practices-for-a-legal-call) |
 | [**CLM Process**](#clm-process) |  |   
 | [**RFP Process**](#rfp-process) |  |   
+| [**Commercial Legal Issues**](#commercial-legal-issues) |  |  
 
 ## OPERATIONAL
 
@@ -154,6 +155,13 @@ In instances where a Customer or a Partner has requested material non-standard t
 
 ## RFP Process
 With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, please find information in the [RFP Process](https://about.gitlab.com/handbook/security/security-assurance/field-security/Field-Security-RFP.html) handbook page. 
+
+## Commercial Legal Issues
+
+For issues that are being handled outside of Salesforce (e.g., project-based work) and require the Commercial Legal team's attention, apply the label `legal-commercial::to-do`. This will update the [Commercial Legal Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/5411841) and allow the team to assign appropriately. We also use the following labels:
+- `legal-commercial::in progress` means the Commercial Legal team is actively working on the issue
+- `legal-commercial::pending requester` means the Commercial Legal team has a requirement or task that must be met by the requester before the issue progresses
+- `legal-commercial::done` means the Commercial Legal team has finished their portion of the issue
 
 
 ## EDUCATIONAL
