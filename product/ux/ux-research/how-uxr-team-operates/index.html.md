@@ -32,7 +32,7 @@ The designated UX Researcher is the go-to person for their assigned [stage group
 | **Plan**:Project Management, Product Planning, Certify, Optimize | [Danika Teverovsky]|
 | **Secure**: Static Analysis, Dynamic Analysis, Composition Analysis, Dynamic Analysis: Fuzz Testing, Vulnerability Research <br> **Govern**: Security Policies, Threat Insights, Compliance | [Michael Oliver] |
 | **Create**: Source Code, Editor, Code Review | [Ben Leduc-Mills] |
-| **Ops**: Pipeline Execution, Pipeline Authoring, Runner, Pipeline Insights, Package | [Erika Feldman] |
+| **Ops**: Pipeline Execution, Pipeline Authoring, Runner, Pipeline Security, Package | [Erika Feldman] |
 
 [Will Leidheiser]: https://gitlab.com/wleidheiser
 [Nicholas Hertz]: https://gitlab.com/NickHertz

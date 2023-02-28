@@ -20,7 +20,6 @@ The features in the [Verify stage](/stages-devops-lifecycle/verify/) help users 
 * Pipeline Security _coming soon_
 * [Runner UX](/handbook/product/ux/stage-group-ux-strategy/ci-cd/runner/)
 
-
 The Verify UX team is part of the [CI/CD UX team](/handbook/product/ux/stage-group-ux-strategy/ci-cd/). Our goal is to empower our customers by streamlining, expanding, and enabling increasingly complex configurations. We do so by providing the best management experience when setting up, configuring, or troubleshooting pipelines. Our design mission is to bring to the forefront simple ways to make GitLab the tool of choice for continuous integration users.
 
 Our biggest partners are the stages under the CI/CD section ([Release](/direction/ops/#release) & [Package](/direction/ops/#package)), Dev ([Create](/direction/create/)), and Ops ([Configure](/direction/configure/)).

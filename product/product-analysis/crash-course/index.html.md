@@ -307,8 +307,8 @@ Slack channel for the Verify:Pipeline Authoring product category.
 **#g_runner**
 Slack channel for the Verify:Runner product category. 
 
-**#g_pipeline-insights**
-Slack channel for the Verify:Pipeline Insights product category.
+**#g_pipeline-security**
+Slack channel for the Verify:Pipeline Security product category.
 
 **Team members**
 
