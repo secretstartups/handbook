@@ -447,6 +447,10 @@ For information on how to quote late renewals, [see here](https://about.gitlab.c
 
 **Note:** If you cannot view the video, make sure you are logged in to GitLab Unfiltered. You can [learn more about how to log in or request access to GitLab Unfiltered here!](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) 
 
+##### **Transacting a Separate Add-on Opportunity prior to Renewal**
+Customers and partners may wish to transact an add-on opportunity ahead of their renewal (e.g., within one month of renewal date) to avoid true-ups on the renewal order. Important to note, the add-on opportunity must be closed-won in Salesforce before the renewal quote can be created. This ensures the license count and revenue metrics on the active subscription are updated to reflect the additional seats prior to quoting the renewal opportunity.
+
+
 #### Quoting Channel Deals
 
 ##### Standard Partner/Reseller Quotes
@@ -744,6 +748,20 @@ Occasionally, changes will be made to a Custom SOW after an opportunity has been
 #### Creating Decomission Opportunties
 
 Deal Desk will create Decommission (Refund) Opportunities for both Sales Assisted and Web Direct Orders. All refund requests should be sent to AR Team at AR@gitlab.com. Once approved AR Team will tag Sales Support (Deal Desk) to create a refund opportunity. Deal Desk will then contact Billing Ops Team who will processed the refund in Zuora.
+
+#### Adding "GitLab Admin" to a Salesforce Contact Record
+You will receive an error when submitting an opportunity for approval if the "Sold To" contact on the quote is not a GitLab Admin. Follow the below steps to update the contact record to GitLab Admin so that you may submit your opportunity for approval.
+1. Navigate to Contacts on the customer account record
+2. Select the contact record you would like to make the GitLab Admin
+3. Edit `Role` on the contact to select GitLab Admin
+4. Save the contact record
+
+#### Recall a Quote from Approvals
+
+The quote record locks once it has been submitted for approval. If you have already submitted the quote for approval but find you need to make further changes, you can recall the quote from approvals, make the changes, and then resubmit. To recall a quote from approvals for further edits: 
+1. Scroll down to the Approval History section of the quote and click `Recall`
+2. Make changes to the quote and save
+3. Submit for Approval 
 
 #### How to Clone an Existing Quote
 
