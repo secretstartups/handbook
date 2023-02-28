@@ -26,8 +26,7 @@ group, the best way is to
 
 ### Ready-to-use query links
 
-Click on the appropriate one of these links to run a query specific to your
-group:
+Click on the appropriate link for your current/new group to run a query that finds all of your tickets _not_ in your new group:
 
 * [Baobab](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_baobab%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
 * [Ginkgo](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_ginkgo%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
@@ -43,7 +42,7 @@ The actual query string looks like this:
 assignee:me -custom_field_4414446722578:GROUP_TAG status<closed -form:"Support Ops" -form:"GitLab Incidents" -form:"L&R" -form:"Emergencies"
 ```
 
-where `GROUP_TAG` is your group's tag. See
+where `GROUP_TAG` is your current group's tag. See
 [Zendesk group tasks](#zendesk-group-tags) for the actual values.
 
 As an example, the search query for those in the Maple group is:
@@ -82,8 +81,8 @@ assignee:me -custom_field_4414446722578:ticket_group_maple status<closed -form:"
 Once you have the list of tickets, you can use Zendesk's bulk edit feature. To
 do this, click the checkbox on the top left side of the search results. It can
 be a bit hard to see; look to the left of the ID column. Then, click the
-blue `Edit x tickets` button on the right side of the page (`x` will be the
-number of tickets). On the popup modal that appears, locate the SGG ticket field
+blue `Edit` button on the bottom of the page. Next to the edit button you should see the number of tickets selected.
+On the popup modal that appears, locate the SGG ticket field
 on the left side (should be towards the top of the list). Click in the dropdown
 for it and select your group's name. Next, click the black `Submit` button.
 This starts a background job to update the tickets. When the job finishes,
