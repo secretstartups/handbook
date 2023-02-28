@@ -39,7 +39,7 @@ Sometimes it's best to get help from team members working directly in the produc
 #### How to determine which product group is the right one?
 There are a few ways to determine which product group works on which feature.
 
-1. Search within the [Product Categories](https://about.gitlab.com/handbook/product/categories/) handbook page. On this page, you can do a Command ⌘ + F search for the feature in question. For example, if the question is on Review Apps, you can do a Command ⌘ + F search to see that the Review Apps feature is under the [Pipeline Insights](https://about.gitlab.com/handbook/product/categories/#pipeline-insights-group) group. If the question is related to our product roadmap, you can review the direction page associated with each product group.
+1. Search within the [Product Categories](https://about.gitlab.com/handbook/product/categories/) handbook page. On this page, you can do a Command ⌘ + F search for the feature in question. For example, if the question is on Review Apps, you can do a Command ⌘ + F search to see that the Review Apps feature is under the [Pipeline Security](https://about.gitlab.com/handbook/product/categories/#pipeline-security-group) group. If the question is related to our product roadmap, you can review the direction page associated with each product group.
 
 1. Search within the documentation. Let's say you are wondering which product group could help with a question on [GitLab's Security Dashboard](https://docs.gitlab.com/ee/user/application_security/security_dashboard/). If you scroll to the bottom of the page and click `View page source`, you'll see which product Stage and Group the Security Dashboard rolls up to. In this case, it's the Threat Insights group.
 ![image-1.png](./image-1.png)
