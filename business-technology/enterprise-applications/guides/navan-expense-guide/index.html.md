@@ -177,6 +177,8 @@ Connect your bank account to Navan to receive reimbursements for out-of-pocket e
 Please note that you can link only one account at a time. To add a different account for reimbursements, you must first unlink the existing account.
 {: .alert .alert-warning}
 
+##### In the mobile app
+
 **Log in to your bank account**
 1. Navigate to the `Profile` icon on your Navan app, then tap `Expense settings`.
 2. Tap `Bank account`.
@@ -191,6 +193,17 @@ Please note that you can link only one account at a time. To add a different acc
 4. Use the dropdown menu to select the country where the bank account was opened.
 5. Enter the required bank account information.
 6. Tap `Review`, then `Link account` to authorize the connection.
+
+##### In the web app
+
+1. Open the menu and select `Expenses`.
+2. Select `Settings`.
+3. Expand the `Bank Account` section.
+4. Click on `Link bank account manually`.
+
+![liquid-image-31](/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/web-bank-account.png)
+
+
 
 > Check the _[How do I connect my personal banking information to Navan Expense?](https://app.tripactions.com/app/helpcenter/articles/expense/myself/getting-started-for-expense-users/connect-personal-banking)_ article to learn how to connect your card or account.
 
@@ -652,6 +665,53 @@ A deposit for each transaction will be made into your bank account. If you submi
 #### If my expenses are rejected, can I go back to edit and resubmit?
 
 Expenses will need to be fully resubmitted if rejected. 
+
+#### Where can I see Navan Expense product releases?
+
+Navan Expense product releases are shared in the following blog: [Navan Expense product release announcements](https://app.tripactions.com/app/helpcenter/articles/expense/admin/general-settings/navan-expense-product-release-announcements)
+
+## Navan Expense Training
+
+#### End User Training
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/3lnIPfXwyk0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+This video covers:
+- What is Navan Expense
+- Navan Mobile App
+- How to connect your bank account to Navan
+- How to submit an expense
+- How to itemize an expense
+- How to add participants
+- How to submit mileage
+- My Reimbursements
+- Policies
+- Calendar Integration
+- Using the Navan Web App
+- Q&A
+
+#### Manager Training
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/3OJn7UbGAJ0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+This video covers:
+- What is Navan Expense
+- Navan Mobile App
+- How to connect your bank account to Navan
+- How to submit an expense
+- How to itemize an expense
+- How to add participants
+- How to submit mileage
+- My Reimbursements
+- Policies
+- Calendar Integration
+- Using the Navan Web App
+- Manager dashboard
+- Q&A
 
 ## Navan Expense Support
 
