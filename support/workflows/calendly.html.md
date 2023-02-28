@@ -89,6 +89,10 @@ We copy customer calls to the *GitLab Support* Google calendar using a [Zapier z
 
 If the Zap is working, you should see the calendar event copied within a minute or two. If the customer cancels, similarly, it'll be removed from the Support calendar.
 
+### Ticket ID in calendar events
+
+Please [add a **required question**](https://help.calendly.com/hc/en-us/articles/226893168#invitee-question-and-answer-types-0-5) to your personal Calendly customer events. This question should ask the customer to enter the GitLab Support ticket number when they schedule with you. This ensures the ticket number is shown on the calendar events, and provides context for others to join and help out on a call.
+
 ## Generating a single-use Calendly link
 
 #### using Chrome plug-in / Firefox extension
