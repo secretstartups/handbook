@@ -15,7 +15,7 @@ subcategory: Customer Info
 ## Looking up customer account details
 
 While working on tickets, you may need to look up customer information. Common
-use cases include [associating tickets with the appropriate organization](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html),
+use cases include associating tickets with the appropriate organization,
 checking a customer's subscription plan and looking up the customer's technical
 account manager.
 

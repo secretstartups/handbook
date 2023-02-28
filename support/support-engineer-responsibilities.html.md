@@ -109,7 +109,7 @@ and so all of Support, to meet that goal. How?
 
 Everyone is responsible for [Triaging tickets](/handbook/support/workflows/ticket_triage.html) to make sure they have:
 
-1. [An associated organization](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html)
+1. An associated organization
 1. The correct ticket form (such as `SaaS`, if they're asking for
    GitLab.com support).
 

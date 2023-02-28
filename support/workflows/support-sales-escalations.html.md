@@ -27,7 +27,7 @@ Use the [finding the customer’s account owner](/handbook/support/workflows/loo
 
 |Escalation Scenario|Channel|Relevancy|
 |--|--|--|
-|[Add a customer to an organization](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#adding-a-customer-to-an-organization-all-zendesk-users)|Slack: `#account-management`|Needs Org Workflow|
+|Add a customer to an organization |Slack: `#account-management`|Needs Org Workflow|
 |[Pass a lead to Sales](/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales)|Zendesk: cc @AM, Slack: `#sales` for new business, `#account-management` for renewals|Ticket Workflow: License and Renewals queue|
 | [Professional Services engagement request](https://about.gitlab.com/services/)|Slack: `#account-management` @mention AO | Ticket Workflow: All queues|
 
@@ -44,7 +44,7 @@ Since CSMs are assigned based on [certain criteria](/handbook/customer-success/c
 |Involve CSM if a customer files a ticket requesting [upgrade assistance](/handbook/support/workflows/upgrade-assistance.html#the-process) but there is no corresponding internal issue|Zendesk: cc @CSM, Slack: @mention CSM|Ticket Workflow: Self Managed|
 |Involve CSM if we identify a need for training a user from customer’s end, or, if customer requests for it directly|Zendesk: cc @CSM, Slack: @mention CSM|Ticket Workflow: All queues|
 |Make CSM aware of tickets which require managing customer relationship due to expectations mismatch|Zendesk: cc @CSM Slack: @mention CSM|Ticket Workflow: All queues|
-|[Add a customer to an organization](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#adding-a-customer-to-an-organization-all-zendesk-users)|Slack: #account-management|Needs Org Workflow|
+|Add a customer to an organization |Slack: #account-management|Needs Org Workflow|
 
 ## Scale Customer Success Engineer (CSE) engagement
 
