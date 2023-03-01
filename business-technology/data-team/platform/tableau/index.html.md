@@ -23,7 +23,56 @@ description: "Tableau at GitLab"
 
 ## Tableau
 
-[Tableau](https://www.tableau.com) is our newest Business Intelligence tool. It is a [leader](https://interworks.com/blog/2021/02/24/the-2021-gartner-bi-magic-quadrant-visualized-in-tableau/) in the Business Intelligence space. We are currently deploying it as part of a pilot project for key use cases and are readying the environment for a full production release. 
+[Tableau](https://www.tableau.com) is our new Enterprise Business Intelligence tool. It is a [leader](https://interworks.com/blog/2021/02/24/the-2021-gartner-bi-magic-quadrant-visualized-in-tableau/) in the Business Intelligence space. We are applying the [Tableau Blueprint](https://help.tableau.com/current/blueprint/en-us/bp_overview.htm) to launch our Tableau production environment. The Tableau Blueprint outlines the processes and best practices from thousands of Tableau customers. We will apply these processes and best practices in accordance GitLab's TeamOps and culture.
+
+## Roadmap
+
+<details markdown=1>
+
+<summary><b>FY24 Tableau Deployment Roadmap</b></summary>
+
+- FY24-Q1
+    - Ready Tableau Online environment for Production Releases
+    - Focus on GTM and Finance
+    - Develop a list of Top SSOT Dashboards for GTM and Finance
+    - Move the CFO and Headcount Dashboards to full Production
+    - Develop project plan for deprecating the legacy schema in Snowflake
+- FY24-Q2
+    - Focus on GTM and Finance
+    - GTM and Finance teams to migrate key content to Tableau Production
+    - Deprecate GTM and Finance related data models in the legacy schema
+    - Develop additional data models for R&D to support Tableau migration in Q3
+- FY24-Q3
+    - Bring R&D, People, and the rest of the Enterprise into focus
+    - Business teams to migrate key content
+    - Deprecate R&D and People related data models in the legacy schema in Snowflake
+- FY24-Q4
+    - Focus on the whole company
+    - Business teams to migrate key content
+    - Deprecate remaining data models in the legacy schema in Snowflake
+    - Complete Tableau migration efforts
+
+</details>
+
+## Governance
+
+<details markdown=1>
+
+<summary><b>Governance Model</b></summary>
+
+We use a Self-Governing model at GitLab.
+
+In a self-governing model, there is strong collaboration between IT and business users. Certified content and data sources are available, and ad-hoc content is being created regularly by Creators and Explorers. Viewers understand the delineation between certified and ad-hoc, sandbox content states. The process of validation, promotion, and certification is well-defined and well-understood by users of all skill levels. With increasing analytical skills across the organization, the boundaries between the roles of the Modern Analytics Workflow are fluid as users switch from consuming to creating to promoting content with the appropriate level of permissions.
+
+</details>
+
+<details markdown=1>
+
+<summary><b>BIOps</b></summary>
+
+Our Tableau self-governing model is administerd and enforced in the [GitLab Tableau Project](https://gitlab.com/gitlab-data/tableau) using BIOps. The BIOps approach will levarage GitLab's repository, maintainer and code review functionality to administer the governance model. Tableau does not currently have a Git integration so our BIOps is not fully automated and there are some limitations. The README file is coming soon which will describe the BIOps workflow. We will iterate on this approach with the GTM and Finance teams during Q1 and Q2 and adjust and adapt as needed.
+
+</details>
 
 ## Access
 
@@ -180,19 +229,6 @@ Unused licenses will be reclaimed by the data team.
 ## Production and Pilot environment
 
 In FY24 we are readying our environment for true production releases. 
-
-### Timeline
-
-- FY24Q1
-    - Ready Tableau Online environment for Production Releases
-    - Move the first dashboards to full Production
-    - Focus on GTM and Finance
-- Middle of FY24: 
-    - Purchase additional user licenses
-    - Focus on the rest of the organization
-    - Business teams to migrate key content
-- Late FY24
-    - Complete migration efforts
 
 ### Folder structure and permissions
 
