@@ -189,7 +189,7 @@ A: GitLab is a publicly traded company (NASDAQ: GTLB) and is not defined as a di
 
 **Q: I'm a GitLab team member and I received an ESG questionnaire through an RFP. What do I do?**
 
-A: Please follow the steps outlined in the [RFP process](/handbook/security/security-assurance/field-security/Field-Security-RFP/).
+A: Please follow the steps outlined in the [RFP process](https://about.gitlab.com/handbook/security/security-assurance/field-security/Field-Security-RFP.html).
 
 **Q: Does GitLab sponsor/fund nonprofit organizations?**
 
