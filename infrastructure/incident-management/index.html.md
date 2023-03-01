@@ -78,31 +78,32 @@ Edits made during a zoom call only last for the length of the call, so it should
 
 These definitions imply several on-call rotations for the different roles. Note that not all incidents include engagement from Incident Managers or Communication Managers.
 
-### Incident Responsibilities
+### Responsibilities
 
-#### Incident Status Updates - EOC/Incident Manager
+#### Incident Manager (IM)
 
-1. During an active incident, the EOC is initially responsible for posting regular status updates in the `Current Status` section of the incident issue description. These updates should summarize the current customer impact of the incident and actions we are taking to mitigate the incident. These updates should occur at regular intervals based on the severity of the incident.
-These status updates are used to:
-    1. Help construct a detailed incident timeline to be used in Root Cause Analysis.
-    1. Ensure CMOC has up to date and accurate information to communicate to customers and other stakeholders.
-    1. Ensure others in the company can track the state of the incident and the impact it is having on customers.
-1. Once an Incident Manager has been engaged in the incident these responsibilities shift to the Incident Manager.
+When paged, the Incident Managers have the following responsibilities during a Sev1 or Sev2 incident and should be engaged on these tasks immediately when an incident is declared:
 
-#### Incident Timeline Updates - EOC/Incident Manager
+1. Responsible for posting regular status updates in the `Current Status` section of the incident issue description. These updates should summarize the current customer impact of the incident and actions we are taking to mitigate the incident. This is the most important section of the incident issue, it will be referenced to status page updates, and should provide a summary of the incident and impact that can be understood by the wider community.
+1. Ensure that the incident issue has all of the [required labels](#required-labeling) applied.
+1. If present, ensure that the `Summary for CMOC notice / Exec summary` in the incident description is filled out as soon as possible.
+1. Ensure that all corrective actions, investigations or followups have corresponding issues created and associated to the incident issue.
+1. Ensuring that the Timeline section of the incident is accurate.
+1. Ensuring that the root cause is stated clearly and plainly in the incident description, linking to a confidential note or issue if the root cause cannot be made public.
+1. Determining when the incident has been resolved and ensuring that it is closed and labeled when there is no more user impact.
+1. If necessary, help the EOC to engage development using the [InfraDev escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html).
 
-1. During an active incident, the EOC is initially responsible for ensuring that actions and events relevant to the issue and its resolution are captured in the timeline. These timeline updates should be captured in the `Timeline` tab of the incident issue.
-1. Once an Incident Manager has been engaged in the incident these responsibilities shift to the Incident Manager. With the Incident Manager taking the initiative to capture these to preserve space for the EOC to work on mitigation. The EOC should therefore update the Incident Manager in the incident call with items relevant to the timeline.
+The Incident Manager is the DRI for all of the items listed above, but it is expected that the IM will do it with the support of the EOC or others who are involved with the incident. If an incident runs beyond a scheduled shift, the Incident Manager is responsible for handing over to the incoming IM.
 
-##### Incident Mitigation Methods - EOC/Incident Manager
-
-1. If wider user impact has been established during an S1 or S2 incident, as EOC you have the authority - without requiring further permission - to [Block Users](https://docs.gitlab.com/ee/user/admin_area/moderate_users.html#block-a-user) as needed in order to mitigate the incident. Make sure to follow [Support guidelines regarding `Admin Notes`](../../../support/workflows/admin_note.html#adding-the-note), leaving a note that contains a link to the incident, and any further notes explaining why the user is being blocked.
-    1. If users are blocked, then further follow-up will be required. This can either take place during the incident, or after it has been mitigated, depending on time-constraints.
-        1. If the activity on the account is considered [abusive](../../security/security-operations/trustandsafety/#what-is-abuse), report the user to [Trust and Safety](../../security/security-operations/trustandsafety/#-contact-us) so that the account can be permanently blocked and cleaned-up. Depending on the nature of the event, the EOC may also consider reaching out to the SIRT team.
-        1. If not, [open a related confidential incident issue and assign it to CMOC](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data) to reach out to the user, explaining why we had to block their account temporarily.
-        1. If the EOC is unable to determine whether the user's traffic was malicious or not, please engage the [SIRT](../../security/security-operations/sirt/) team to carry out an investigation.
+The IM won't be engaged on these tasks unless they are paged, which is why the default is to page them for all Sev1 and Sev2 incidents.
+In other situations, to engage the Incident Manager run `/pd trigger` and choose the `GitLab Production - Incident Manager` as the impacted service.
 
 #### Engineer on Call (EOC) Responsibilities
+
+The Engineer On Call is responsible for the mitigation of impact and resolution to the incident that was declared.
+The EOC should reach out to the Incident Manager for support if help is needed or others are needed to aid in the incident investigation.
+
+For Sev3 and Sev4 incidents, the EOC is also responsible for [Incident Manager Responsibilities](##incident-manager-im), second to mitigating and resolving the incident.
 
 1. **As EOC, your highest priority for the duration of your shift is the stability of GitLab.com.**
 1. The SSOT for who is the current EOC is the [GitLab Production](https://gitlab.pagerduty.com/service-directory/PATDFCE) service definition in PagerDuty.
@@ -129,6 +130,14 @@ These status updates are used to:
 1. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
 1. The EOC should not consider immediate work on an incident completed until the top description section in the Incident Issue (above the "Incident Review" section) is filled out with useful information to describe all the key aspects of the Incident.
 1. After the incident is resolved, the EOC should review the comments and ensure that the [corrective actions](#corrective-actions) are added to the issue description, regardless of the incident severity. If it has a `~review-requested` label, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review/), in some cases this may be be a synchronous review meeting or an async review depending on what is requested by those involved with the incident.
+
+##### Incident Mitigation Methods - EOC/Incident Manager
+
+1. If wider user impact has been established during an S1 or S2 incident, as EOC you have the authority - without requiring further permission - to [Block Users](https://docs.gitlab.com/ee/user/admin_area/moderate_users.html#block-a-user) as needed in order to mitigate the incident. Make sure to follow [Support guidelines regarding `Admin Notes`](../../../support/workflows/admin_note.html#adding-the-note), leaving a note that contains a link to the incident, and any further notes explaining why the user is being blocked.
+    1. If users are blocked, then further follow-up will be required. This can either take place during the incident, or after it has been mitigated, depending on time-constraints.
+        1. If the activity on the account is considered [abusive](../../security/security-operations/trustandsafety/#what-is-abuse), report the user to [Trust and Safety](../../security/security-operations/trustandsafety/#-contact-us) so that the account can be permanently blocked and cleaned-up. Depending on the nature of the event, the EOC may also consider reaching out to the SIRT team.
+        1. If not, [open a related confidential incident issue and assign it to CMOC](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data) to reach out to the user, explaining why we had to block their account temporarily.
+        1. If the EOC is unable to determine whether the user's traffic was malicious or not, please engage the [SIRT](../../security/security-operations/sirt/) team to carry out an investigation.
 
 #### When to Engage an Incident Manager
 
