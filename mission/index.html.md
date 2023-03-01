@@ -85,13 +85,13 @@ Our Mission is on a 30 year [cadence](/company/cadence/#30-years){:data-ga-name=
 
 ### Purpose
 
-Our purpose is to help people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform, and we accomplish this purpose , 
+[Our purpose](/company/purpose/) is to help people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform. 
 
 Our mission is the way we realize [our purpose](/company/purpose/). By making it so **everyone can contribute**, we increase access for people to be creators. With more contributors and more creators, we increase both the volume and velocity of innovation. More innovation drives economic progress that [benefits consumers, businesses, and the economy as a whole](https://www.ecb.europa.eu/ecb/educational/explainers/tell-me-more/html/growth.en.html). As a result, innovation both directly and indirectly increases the total volume of available opportunities and average value of each individual opportunity.
 
 Access to a broader set of more valuable opportunities ultimately **increases people's lifetime earnings**. 
 
-[Our purpose](/company/purpose/) is on the same 30 year cadence as our mission. Our purpose informs our mission, which directly or indirectly informs the rest of the items in [our cadence](/company/cadence/). As a result, progress for the items on our [cadence page](/company/cadence/) like [Yearlies](/company/yearlies/) creates progress for both our mission and purpose.
+[Our purpose](/company/purpose/) is on the same 30 year cadence as our mission. [Our purpose](/company/purpose/) informs our mission, which directly or indirectly informs the rest of the items in [our cadence](/company/cadence/). As a result, progress for the items on our [cadence page](/company/cadence/) like [Yearlies](/company/yearlies/) creates progress for both our mission and [our purpose](/company/purpose/).
 
 ### Vision
 
@@ -99,7 +99,7 @@ Our mission is the inspiration for [our vision](/company/vision/){:data-ga-name=
 
 ### Values
 
-Our mission guides our path, and our [values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"} are the principles we live along this path.
+Our mission guides our path, and [our values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"} are the principles we live along this path.
 
 ## Customer acceptance
 
