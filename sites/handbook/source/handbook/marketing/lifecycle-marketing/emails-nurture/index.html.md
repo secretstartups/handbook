@@ -74,12 +74,12 @@ In the event of an severity::1 (critical) security vulnerability email communica
 ## QA process
 {: #qa-processes .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-**FY23-Q4**: Lifecycle Marketing will be running a Q4 trial of reviewing **all** emails prior to send to ensure compliance with email best practices. Team members are responsible fo reviewing and optimizing their own emails, following the latest [email best practices from lifecycle marketing](handbook/marketing/lifecycle-marketing/emails-nurture/#best-practices). Lifecycle will be partnering will email stakeholders to improve email performance and drive the best results for our campaigns, as well as maintain brand consistency across all email touchpoints.
+**FY23-Q4**: Lifecycle Marketing will be running a Q4 trial of reviewing **all** emails prior to send to ensure compliance with email best practices. Team members are responsible fo reviewing and optimizing their own emails, following the latest [email best practices from lifecycle marketing](/handbook/marketing/lifecycle-marketing/emails-nurture/#best-practices). Lifecycle will be partnering will email stakeholders to improve email performance and drive the best results for our campaigns, as well as maintain brand consistency across all email touchpoints.
 
 **FY24-Q1**: In Q1 of FY24, we will share out how we will continue to scale the email review process.
 
 Email workflow:
-First step in requesting an email from lifecycle begins by creating an issue using the appropriate [issue template](handbook/marketing/lifecycle-marketing/#request-issue-templates) in GitLab.
+First step in requesting an email from lifecycle begins by creating an issue using the appropriate [issue template](/handbook/marketing/lifecycle-marketing/#request-issue-templates) in GitLab.
 
 ### Team variations to QA process
 {: #qa-processes-by-team}
