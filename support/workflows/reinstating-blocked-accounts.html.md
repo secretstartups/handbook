@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Reinstating blocked accounts
+title: Locked & Blocked Accounts
 category: GitLab.com
 subcategory: Security
 description: How to determine if a blocked user can be re-instated if it has been blocked
@@ -14,23 +14,29 @@ description: How to determine if a blocked user can be re-instated if it has bee
 
 # Overview
 
-This workflow is to determine if a blocked user can be re-instated if it has been blocked by us.
+This workflow page will describe how to action on Locked & Blocked accounts. Sometimes users believe they are blocked, but their accounts are locked. The Admin User UI provides information regarding whether a user account is locked or blocked in `/admin/user/USERNAME`. It will say `(Locked)` or `(Blocked)` next to the name at the top. Currently, this functionality is not available in the API, but it has been requested in [gitlab#391635](https://gitlab.com/gitlab-org/gitlab/-/issues/391635).
 
-All blocked accounts should have an admin note with a link to a relevant issue.
+Our implementation of [Arkose Protect](https://docs.gitlab.com/ee/integration/arkose.html#arkose-protect) does _not_ affect account locking, but instead can prevent users from signing in without solving the challenge.
 
 # Locked accounts
 
-Sometimes users believe they are blocked, but their accounts are locked.
+When a user has been identified as locked, you can use the [`Support::SaaS::Account Locked` macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Account%20Locked.yaml) to help explain the situation to the user. A user can be locked if:
 
-The Admin User UI provides information regarding whether a user account is locked in `/admin/user/USERNAME`. It will say `(Locked)` next to the name at the top.
+2FA is **not** enabled:
+  - They do not have 2FA enabled and there have been 3 or more failed login attempts within 24 hours.
+  - Accounts are **not** unlocked automatically. The user receives an email with a six-digit unlock code _after_ a successful login. They are then redirected to a verification page where they can unlock their account by entering the code. The code is valid for 60 minutes only, but they can request a new code by clicking a link on the verification page.
 
-Currently, this functionality is not available in the API, but it has been requested in [gitlab#391635](https://gitlab.com/gitlab-org/gitlab/-/issues/391635).
+2FA **is** enabled:
+  - There have been 5 or more failed login attempts within 10 minutes.
+  - Accounts are unlocked automatically after a 10 minute waiting period.
 
-There is a [`Support::SaaS::Account Locked` macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Account%20Locked.yaml) which you can use to help explain the situation to the user. Please see the macro for information on when the account gets locked.
+If the user does not receive a verification email with the 6-digit code, it's likely that the primary email address is inactive or inaccessible. If a user does not have access to their primary email address, they cannot unlock their account or reset their password. Consider other workflows such as [swapping email addresses](https://about.gitlab.com/handbook/support/workflows/account_changes.html#account-access-requests) if a user is not able to access their primary email. 
 
-If the user cannot find the email to unlock their account in their email account, they can [request a password reset](https://gitlab.com/users/password/new) email. Going through the password reset process should unlock their account.
+All verification emails with unlock codes and password reset emails bypass Mailgun suppressions. Mail delivery of these emails can also be seen in Mailgun.
 
-# Blocked Account Process
+# Blocked Accounts
+
+This workflow is used to determine if a blocked user can be reinstated if it has been blocked by us. All blocked accounts should have an admin note with a link to a relevant issue.
 
 1. Only proceed with the next steps if any of the following scenarios is true:
     1. The email address the user has used to raise their request matches an email address associated with the account the request is intended for. 
