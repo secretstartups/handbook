@@ -113,7 +113,7 @@ Successfully achieving our KR of a beta value stream means progress against our 
 
 ## Gantt Chart
 
-Below is a visual example of our cadence and is subject to change based on company and team schedules.
+Below is a visual example of our cadence and is subject to change based on company and team schedules. Dates are approximate.
 
 ```mermaid
 gantt
@@ -122,16 +122,28 @@ gantt
     axisFormat %b
 
     section Fiscal Year at a Glance
-    FY starts                   :02-01, 1d
-    Quarter Kickoff             :02-05, 1d
-    End of Q1                   :04-30, 1d
-    Quarter Kickoff             :05-05, 1d
-    End of Q2                   :07-31, 1d
-    Quarter Kickoff             :08-05, 1d
-    End of Q3                   :10-31, 1d
-    Quarter Kickoff             :11-05, 1d
-    End of Q4                   :01-31, 1d
+    FY starts                   :milestone, m1, 02-01, 1d
+    Q1 Quarter Kickoff          :02-20, 1d
+    GitLab Assembly             :03-15, 1d
+    End of Q1                   :milestone, m2,04-30, 1d
+    Q2 Quarter Kickoff          :05-15, 1d
+    GitLab Assembly             :06-15, 1d
+    End of Q2                   :milestone, m3,07-31, 1d
+    Q3 Quarter Kickoff          :08-15, 1d
+    GitLab Assembly             :09-15, 1d
+    End of Q3                   :milestone, m4,10-31, 1d
+    Q4 Quarter Kickoff          :11-15, 1d
+    GitLab Assembly             :12-15, 1d
+    End of Q4                   :milestone, m5,01-31, 1d
 
+    section Finance Activities
+    Start Q4 Earnings Prep      :01-26, 1d
+    Long Range Outlook planning exercise :04-15, 90d
+    Start Q1 Earnings Prep      :04-25, 1d
+    Start Q2 Earnings Prep      :07-25, 1d
+    Annual Plan Prep            :09-15, 135d
+    Start Q3 Earnings Prep      :10-25, 1d
+        
     section E Group Offsite
     January                     :01-05, 4d
     April                       :04-04, 4d
@@ -149,26 +161,29 @@ gantt
     December                    :12-14, 1d
 
     section Monthly Releases
-    Release                        :01-22, 1d
-    Release                        :02-22, 1d
-    Release                        :03-22, 1d
-    Release                        :04-22, 1d
-    Major Release                        :05-22, 1d
-    Release                        :06-22, 1d
-    Release                        :07-22, 1d
-    Release                        :08-22, 1d
-    Release                        :09-22, 1d
-    Release                        :10-22, 1d
-    Release                        :11-22, 1d
-    Release                        :12-22, 1d
+    Release                     :milestone, m12,01-22, 1d
+    Release                     :milestone, m1,02-22, 1d
+    Release                     :milestone, m2,03-22, 1d
+    Release                     :milestone, m3,04-22, 1d
+    Major Release               :milestone, m4,05-22, 1d
+    Release                     :milestone, m5,06-22, 1d
+    Release                     :milestone, m6,07-22, 1d
+    Release                     :milestone, m7,08-22, 1d
+    Release                     :milestone, m8,09-22, 1d
+    Release                     :milestone, m9,10-22, 1d
+    Release                     :milestone, m10,11-22, 1d
+    Release                     :milestone, m11,12-22, 1d
 
     section OKR
-    OKR prep                    :03-30, 31d
+    OKR prep                    :01-01, 31d
+    next FQ starts              :02-01, 1d
+    OKR prep                    :03-15, 46d
     next FQ starts              :05-01, 1d
-    OKR prep                    :06-30, 31d
+    OKR prep                    :06-15, 46d
     next FQ starts              :08-01, 1d
-    OKR prep                    :08-30, 31d
+    OKR prep                    :08-15, 46d
     next FQ starts              :10-01, 1d
+    OKR prep                    :12-15, 16d
 
     section Sales Key Dates
     SKO                         :02-13, 4d
@@ -189,7 +204,6 @@ gantt
     Compensation Training         :10-01
     Performance Factor Review            :11-01
     Annual Comp Review Inputs Evaluated/Proposed to Compensation Group for next FY :12-01
-
 
     section People Dates
     DIB Survey                      :05-02, 14d
