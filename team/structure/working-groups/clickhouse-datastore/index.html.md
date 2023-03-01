@@ -74,7 +74,6 @@ This Working Group has the following goals:
 | Facilitator DRI | Sam Goldstein | Director of Engineering, Ops |
 | Co-Facilitator | Nick Nguyen | Senior Engineering Manager, Data Stores |
 | Co-Facilitator | Nicole Williams | Senior Engineering Manager, Monitor & Runner |
-| Co-Facilitator | Albert Salim | Senior Backend Engineer, Verify:Pipeline Insights |
 | Functional Lead - Analytics | Mikołaj Wawrzyniak | Staff Backend Engineer, Analyze:Product Intelligence |
 | Functional Lead - Optimize | Adam Hegyi | Staff Backend Engineer, Plan:Optimize |
 | Functional Lead - ModelOps | Mon Ray| Engineering Manager, ModelOps |
