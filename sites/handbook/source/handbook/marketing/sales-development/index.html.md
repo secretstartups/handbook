@@ -1424,7 +1424,7 @@ Past Business Development Representatives have shared their best practice steps 
 
 ## Sales Development Organization Time Off
 
-While we have a "no ask, must tell" PTO policy we ask that, in accordance with the [Time Off Policy](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), you give your manager a heads up early of your intended time off so that they can help arrange cover for your tasks, if necessary. We want to help our team members being able to [fully unplug from work](https://about.gitlab.com/company/culture/all-remote/mental-health/mental-health-awareness-learning-path/#part-1-your-mental-health-matters) during their PTO, while not having to worry about their workload or target attainment. Based on this, we have created this PTO Territory Planning Issue that you can use to strategize your work and be aligned to the GitLab value of being a [Manager of One](/handbook/leadership/#managers-of-one).
+While we have a "no ask, must tell" PTO policy we ask that, in accordance with the [Time Off Policy](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off), you give your manager a heads up early of your intended time off so that they can help arrange cover for your tasks, if necessary. We want to help our team members being able to fully unplug from work during their PTO, while not having to worry about their workload or target attainment. Based on this, we have created this PTO Territory Planning Issue that you can use to strategize your work and be aligned to the GitLab value of being a [Manager of One](/handbook/leadership/#managers-of-one).
 
 To help BDRs and SDRs who are on PTO please review [this video](https://www.youtube.com/watch?v=sDzeqbd0Jes) on how to sequence on behalf of your teammembers.
 
