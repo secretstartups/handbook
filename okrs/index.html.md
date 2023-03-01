@@ -167,15 +167,15 @@ Part of the individual performance review is the answer to: how much did this pe
 
 ## Alignment
 
-OKRs are our quarterly priorities that create progress for our [Yearlies](/yearlies/), which are our annual company goals. Since OKRs create progress for yearlies, OKRs are aligned to one of the yearlies. 
+OKRs are our quarterly priorities that create progress for our [Yearlies](/company/yearlies/), which are our annual company goals. Since OKRs create progress for yearlies, OKRs are aligned to one of the yearlies. 
 
 OKRs are directly aligned to yearlies and not directly aligned to one of the three pillars of the [three year strategy](/strategy/#three-year-strategy). However, since the yearlies are aligned to one of the strategic pillars, OKRs are indirectly aligned to one of the strategic pillars.
 
 ## Cadence
 
-OKRs are part of our company [cadence](/cadence/). 
+OKRs are part of our company [cadence](/company/cadence/). 
 
-Since OKRs create progress for our [Yearlies](/yearlies/), by achieving our quarterly priorities, we create progress for the rest of the items on the cadence page. By achieving our yearlies, we create progress to achieving our [strategy](/strategy/). Achieving our strategy is key to realizing our [vision](/vision/), [mission](/mission/), and eventually [purpose](/purpose/). In this way, OKRs are quarterly building blocks that create progress toward longer term goals.
+Since OKRs create progress for our [Yearlies](/company/yearlies/), by achieving our quarterly priorities, we create progress for the rest of the items on the cadence page. By achieving our yearlies, we create progress to achieving our [strategy](/strategy/). Achieving our strategy is key to realizing our [vision](/company/vision/), [mission](/company/mission/), and eventually [purpose](/company/purpose/). In this way, OKRs are quarterly building blocks that create progress toward longer term goals.
 
 ## OKR Process at GitLab
 
