@@ -255,6 +255,13 @@ The CEO's Quarterly Kickoff Slides usually cover:
 1. Fourth week of the last month of the current quarter - ensure time is scheduled for the chosen date for the CEO to send the comms
 1. Second full week of the new quarter - ping the CEO to send the comms on the correct day. Attend the AMA which follows.
 
+#### Schedule for remaining FY24 and first FY25 Quarterly Kickoffs
+
+1. FY24-Q2: Review/Record 2023-05-08 and 2023-05-10. Share the video on 2023-05-15. AMA on 2023-05-17
+1. FY24-Q3: Review/Record 2023-08-07 and 2023-08-09. Share the video on 2023-08-14. AMA on 2023-08-16
+1. FY24-Q4: Review/Record 2023-11-06 and 2023-11-08. Share the video on 2023-11-13. AMA on 2023-11-15
+1. FY25-Q1: Review/Record 2024-02-05 and 2024-02-07. Share the video on 2024-02-12. AMA on 2024-02-14
+
 ### How to prepare the Slides
 
 **Note:** A member of the CoST is the DRI for this but we coordinate with Internal Comms, Legal, and the EBA team to get the slides prepared, recorded, shared, and AMA scheduled.
