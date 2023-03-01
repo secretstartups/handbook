@@ -138,7 +138,7 @@ The goal is to catch scope creep, ensure we are iterating in ways that deliver m
 
 ## Distribution dependency maintenance policy
 
-Distribution team follows below dependency maintenance policy in order to achieve our [technology vision](handbook/engineering/development/enablement/systems/distribution/#vision).
+Distribution team follows below dependency maintenance policy in order to achieve our [technology vision](/handbook/engineering/development/enablement/systems/distribution/#vision).
 
 ### OS
 

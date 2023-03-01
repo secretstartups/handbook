@@ -56,7 +56,7 @@ Due to the load on the Distribution team, the SLO is longer than that of the res
 of the company:
 
 * From GitLab team members: Review-response SLO < 4 business days
-* From authors of [Leading Organizations](handbook/engineering/workflow/code-review/#leading-organizations): Review-response SLO < 6 business days
+* From authors of [Leading Organizations](/handbook/engineering/workflow/code-review/#leading-organizations): Review-response SLO < 6 business days
 
 The team aims to return to the company-wide SLO standard dependent upon expanding the team and paying down technical debt.
 
