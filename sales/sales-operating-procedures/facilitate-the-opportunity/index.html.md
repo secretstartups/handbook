@@ -158,10 +158,10 @@ A Technical Commit takes place within the Technical Evaluation POV through a ser
 #### 3.1.2 Finding your champions
 
 A **Champion** is the person within your client's organization that will sell on your behalf when you're not there. They will guide you through the decision making process, introduce you to key players and decision makers, and alert you when things go wrong.
-For medium to high engagement deals, try to obtain a minimum both a **technical champion** and a **business champion**. The technical champion can guide you through the Technical Evaluation steps and hopefully help get the Technical Commit. The business champion if he or she is not one in the same as the technical champion will provide you with insight into the paper process, decision makers, and internal organizations that have influence on whether the opportunity moves forward or not. The criteria for a champion are as follows:
+For medium to high engagement deals, try to obtain a minimum both a **technical champion** and a **business champion**. The technical champion can guide you through the Technical Evaluation steps and hopefully help get the Technical Commit. The business champion if they are not one in the same as the technical champion will provide you with insight into the paper process, decision makers, and internal organizations that have influence on whether the opportunity moves forward or not. The criteria for a champion are as follows:
 
 - Someone that has influence and be at least Manager/Director level or above
-- Demonstrate that he or she has sway on the decision making process
+- Demonstrate that they have sway on the decision making process
 - Can remove barriers to the deal
 - Will put their value currency on the line to push the initiative
 
