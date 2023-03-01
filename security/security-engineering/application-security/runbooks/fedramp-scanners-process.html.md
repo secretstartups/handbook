@@ -53,7 +53,7 @@ Findings are to be triaged from this [vulnerability report](https://gitlab.com/g
 #### For each finding from DAST and container scanners:
 
 - Create a confidential tracking issue for each reported vulnerability.
-- Add the labels ~security  ~"bug::vulnerability" and relevant group labels.
+- Add the labels ~security  ~"bug::vulnerability" ~"FedRAMP::Vulnerability" and relevant group labels.
 - Add severity and priority labels:
   - Match the severity of the tracking issue to the severity of the CVSS from NIST NVD.
   - If CVSS is not available, use the CVSS from the vendor.
