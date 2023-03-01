@@ -125,7 +125,7 @@ link on the right-hand side of the email address. Doing so will make a pop-up
 box appear. A pop-up box will appear asking you to confirm the deletion. Click
 the black `Delete address` button to confirm.
 
-## Change managemenet
+## Change management
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/MSkyalDswso" frameborder="0" allowfullscreen="true"> </iframe>
