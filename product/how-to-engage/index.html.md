@@ -140,7 +140,6 @@ The following ~customer is interested in this capability
 
 - Subscription: ~"GitLab Ultimate" OR ~"GitLab Premium" OR ~"GitLab Free" 
 - Product: ~"self-managed" OR ~SaaS 
-- Number of Licenses:
 - Link to request:
 - Priority: ~customer priority::
 - Why interested:
