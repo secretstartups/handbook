@@ -15,13 +15,13 @@ description: "Overview of the SAFE Framework at GitLab."
 
 ### **Why SAFE?**
 
-GitLab has accomplished a number of milestones and [Transparency](https://about.gitlab.com/handbook/values/#transparency) has been essential to our success from the beginning. As GitLab matures, and we evolve to viewing Transparency as both Internal Transparency and External Transparency, we want to equip Team Members with the tools to enable responsible transparency in order to protect GitLab and our Team Members. To do so, there are certain factors we need to consider when we share information in the form of videos, blog posts, social media posts, interviews, presentations, epics, issues, merge requests or any other format. Accordingly, along the lines of our[ CREDIT](https://about.gitlab.com/handbook/values/#credit) values, we have created the “**SAFE”** framework to serve as a guide. 
+GitLab has accomplished a number of milestones and [Transparency](/handbook/values/#transparency) has been essential to our success from the beginning. As GitLab matures, and we evolve to viewing Transparency as both Internal Transparency and External Transparency, we want to equip Team Members with the tools to enable responsible transparency in order to protect GitLab and our Team Members. To do so, there are certain factors we need to consider when we share information in the form of videos, blog posts, social media posts, interviews, presentations, epics, issues, merge requests or any other format. Accordingly, along the lines of our[ CREDIT](/handbook/values/#credit) values, we have created the “**SAFE”** framework to serve as a guide. 
 
-Also, consistent with our [CREDIT](https://about.gitlab.com/handbook/values/) values, this is a living framework and we will iterate on this framework based on lessons learned in the course of GitLab’s evolution.
+Also, consistent with our [CREDIT](/handbook/values/) values, this is a living framework and we will iterate on this framework based on lessons learned in the course of GitLab’s evolution.
 
-By contributing, Team Members will help GitLab continue to keep our [CREDIT](https://about.gitlab.com/handbook/values/#credit) values front and center while making sure we continue to prioritize [Transparency](https://about.gitlab.com/handbook/values/#transparency). If you have any questions, please ask them in the[ #safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
+By contributing, Team Members will help GitLab continue to keep our [CREDIT](/handbook/values/#credit) values front and center while making sure we continue to prioritize [Transparency](/handbook/values/#transparency). If you have any questions, please ask them in the[ #safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
 
-For all materials requiring legal review, refer to the [Materials Legal Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process).
+For all materials requiring legal review, refer to the [Materials Legal Review Process](/handbook/legal/materials-legal-review-process).
 
 ### **WHAT IS SAFE?**
 
@@ -30,9 +30,9 @@ For all materials requiring legal review, refer to the [Materials Legal Review P
 The **S** in “**S**AFE” serves as a reminder to make sure that Team Members are not sharing information which could be considered **S**ensitive information without  express approval from GitLab Legal. Things to consider before disclosing:
 1. What is considered **S**ensitive information? 
 
-     a) Any company confidential information that is [not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public). 
+     a) Any company confidential information that is [not public](/handbook/communication/confidentiality-levels/#not-public). 
      
-     b) Any data that reveals information not [generally known or not available](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal) [externally](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal) may be considered sensitive information. Sensitive information includes:
+     b) Any data that reveals information not [generally known or not available](/handbook/communication/confidentiality-levels/#internal) [externally](/handbook/communication/confidentiality-levels/#internal) may be considered sensitive information. Sensitive information includes:
 
     * Team Member data (individual performance, start dates, departures)
     * Customer or partner information (logos, trademarks, spend)
@@ -55,7 +55,7 @@ The disclosure of sensitive or material nonpublic information  may be harmful to
 The **A** in S**A**FE serves as a reminder to double-check that the information Team Members  are sharing is **A**ccurate. Things to consider before disclosing:
 
 1. Is the information being disclosed verifiable? Is there a reference that can be cited? Is there data to backup the information? How would we be able to prove it is accurate if required by an external party?
-1. Are you [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for the accuracy of the material? If you are not able to cite a reference or you are not the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for this information, did you receive approval from the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) to share this data?
+1. Are you [DRI](/handbook/people-group/directly-responsible-individuals/) for the accuracy of the material? If you are not able to cite a reference or you are not the [DRI](/handbook/people-group/directly-responsible-individuals/) for this information, did you receive approval from the [DRI](/handbook/people-group/directly-responsible-individuals/) to share this data?
 
 Team Members have a responsibility to make sure that the information they are sharing is **A**ccurate. Team Members and third parties rely on the information presented and may incorporate the same information in works they may produce. Not only should Team Members make sure that the information is **A**ccurate, but they should be able to provide the underlying data, if applicable, to support the accuracy or confirm the methodology used to achieve the data.  Estimates should clearly be marked as estimates. Also, if the data is continually changing, Team Members should indicate an “as of” date when sharing so that everyone is aware of the date the shared data is accurate as of.
 
@@ -64,7 +64,7 @@ Team Members have a responsibility to make sure that the information they are sh
 The **F** in SA**F**E serves as a reminder that the company’s **F**inancial information is so important to protect that it requires CFO’s approval prior to sharing externally. Things to consider before disclosing:
 
 1. Is there a **F**inancial element such as dollars, performance metrics, or margins including actual results or future expectations contained in the information you are about to share? 
-1. Does the information you are about to share include any [forward-looking ](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/#you-can-protect-gitlab-by-not-sharing-the-following-data-with-the-public-on-your-social-media-profiles) [statements](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/#you-can-protect-gitlab-by-not-sharing-the-following-data-with-the-public-on-your-social-media-profiles)? This includes quantitative (something that CAN be expressed as a	number) and qualitative (something that CANNOT be expressed as a number) statements. 
+1. Does the information you are about to share include any [forward-looking ](/handbook/marketing/team-member-social-media-policy/#you-can-protect-gitlab-by-not-sharing-the-following-data-with-the-public-on-your-social-media-profiles) [statements](/handbook/marketing/team-member-social-media-policy/#you-can-protect-gitlab-by-not-sharing-the-following-data-with-the-public-on-your-social-media-profiles)? This includes quantitative (something that CAN be expressed as a	number) and qualitative (something that CANNOT be expressed as a number) statements. 
 1. Is the information related to process and procedures rather than financials and data? Information related to process and procedures is safer to distribute.
 - For example, it would be ok to share the timeline related to when quarterly financials need to be complete but it would not be ok to share the quarterly financial results.
 
@@ -110,16 +110,14 @@ The Director of Legal, Corporate and Senior Director, Investor Relations will re
 
 4. Other Mediums:
 - If you shared or see information which has been shared via a another medium that does not fit within the SAFE framework please send a link to the original post immediately via Slack to the Director of Legal, Corporate via the [#safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel. 
-- The Director of Legal, Corporate and Senior Director, Investor Relations will review it and, if necessary, contact the appropriate [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) to have the information revised to be compliant or if needed, removed. 
+- The Director of Legal, Corporate and Senior Director, Investor Relations will review it and, if necessary, contact the appropriate [DRI](/handbook/people-group/directly-responsible-individuals/) to have the information revised to be compliant or if needed, removed. 
 
 ### **How do we reinforce SAFE?**
 
 We reinforce SAFE by:
 
-
-
-1. Providing a safe space to report mistakes via the [#safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel - we [assume positive intent](https://about.gitlab.com/handbook/values/#assume-positive-intent) and believe in [blameless problem solving](https://about.gitlab.com/handbook/values/#blameless-problem-solving).
+1. Providing a safe space to report mistakes via the [#safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel - we [assume positive intent](/handbook/values/#assume-positive-intent) and believe in [blameless problem solving](/handbook/values/#blameless-problem-solving).
 2. Having SAFE Ambassadors from teams across the company to help answer questions.
-3. By emphasizing the SAFE framework during [onboarding](https://about.gitlab.com/handbook/people-group/general-onboarding/#onboarding-at-gitlab).
-4. By using the “SAFEty First” emoji ![Safety First Emoji](./safety-first.png) to remind Team Members about the SAFE framework.
+3. By emphasizing the SAFE framework during [onboarding](/handbook/people-group/general-onboarding/#onboarding-at-gitlab).
+4. By using the `:safe-tanuki:` emoji ![Safe Tanuki](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/raw/master/design/_progress/vic/SAFE-tanuki/png/SAFE-tanuki-128x128px.png) to remind Team Members about the SAFE framework.
 5. By providing training to our Team Members on responsible transparency practices and compliance regulations. These trainings reinforce the concepts of Internal GitLab Transparency, i.e. information that should be shared only with our Team Members, versus External Public Transparency, i.e. information that can be shared with the world.
