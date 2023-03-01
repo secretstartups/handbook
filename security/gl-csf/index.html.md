@@ -114,7 +114,7 @@ system helps to get started with the Threat Modeling activity.
 
 #### Threat Modeling
 
-Create or update a corresponding [Threat Model](handbook/security/threat_modeling/).
+Create or update a corresponding [Threat Model](/handbook/security/threat_modeling/).
 
 #### OSS Ecosystem Testing
 
