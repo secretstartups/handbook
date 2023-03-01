@@ -31,7 +31,7 @@ The [central data team](/handbook/business-technology/data-team/) serves as the 
 | [Sales Analytics](/handbook/sales/field-operations/sales-strategy/) | Melia Vilain & Noel Figuera |
 | Customer Success Analytics | Michael Arntz |
 | Digital Experience | Dennis Charukulvanich  |
-| [People Analytics](handbook/people-group/people-ops-tech-analytics/people-analytics/) | Adrian Perez |
+| [People Analytics](/handbook/people-group/people-ops-tech-analytics/people-analytics/) | Adrian Perez |
 | Central Data Team | Marcus Laanen |
 
 ## Objectives of the FACE
