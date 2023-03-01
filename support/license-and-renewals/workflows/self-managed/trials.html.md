@@ -17,7 +17,7 @@ must be issued and applied to the instance in order to "extend" a license.
 Requests for grace period extensions, temporary keys, temporary extensions, temporary licenses, 
 and trial extensions all require generating a trial License.
 
-Sales will often request through a [Zendesk Ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) that we extend the duration of Self-Managed trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User gitlab_support@example.com, with the submitter cc'd on the ticket. The following workflow should be followed to service them.
+Sales will often request through an [Internal Request / Zendesk Ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) that we extend the duration of Self-Managed trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User `gitlab_support@example.com`, with the submitter cc'd on the ticket. The following workflow should be followed to service them.
 
 If any fields when opening the ticket were filled out incorrectly, send a public reply in the ticket asking the submitter to supply the missing information.
 
@@ -30,17 +30,15 @@ Support tries as much as possible to refrain from issuing non-trial licenses.
 We are allowed to issue trial licenses because they:
 
 - Have no grace period
-- Don't affect historical data tracking
-- Aren't tied to any subscriptions for revenue purposes
-
-### How to create a new trial license
-
-Users should initiate a request on their own by clicking on the following link:  https://about.gitlab.com/free-trial/?hosted=self-managed
+- Do not affect historical data tracking
+- Are not tied to any subscriptions for revenue purposes
 
 ### How to extend an expired or soon to expire license
 
+**Note:** Unlike [SaaS](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials), a Self-managed extension does **not** require a pre-existing Trial license. Instead, start with the current almost-expired license, or most-recent expired license.
+
 1. Before taking any action to create the trial license, get confirmation from
-   the customer that they understand and accept the
+   the customer (or GitLab Sales contact) that they understand and accept the
    [constraints](https://about.gitlab.com/free-trial/#what-is-included-in-my-free-trial-what-is-excluded)
    that accompany a trial. Use the `Support::L&R::Trial Subscription - Exclusions Sign Off`
    macro in Zendesk for this purpose. Be sure to assign the ticket to
@@ -61,6 +59,10 @@ Users should initiate a request on their own by clicking on the following link: 
 
 If you need to [send a trial license to another contact](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html#overview), 
 use the `Forward license email` tab after saving the new license.
+
+### How to create a new trial license
+
+Users should initiate a request on their own by clicking on the following link:  https://about.gitlab.com/free-trial/?hosted=self-managed
 
 ### Emergency Weekend Licenses
 
