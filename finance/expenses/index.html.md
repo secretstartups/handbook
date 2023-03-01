@@ -118,7 +118,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6021 - Professional dues, membership fees</td>
     <td class="tg-0pky">5021 - Professional dues, membership fees COGS</td>
     <td class="tg-0pky">Books, dues &amp; subscriptions</td>
-    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.<br> - $25.00 limit per month.</td>
+    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.<br> -  $15 per item per quarter.</td>
   </tr>
   <tr>
     <td class="tg-btxf">Business Cards</td>
@@ -126,7 +126,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-btxf">6040 - Office Supplies</td>
     <td class="tg-btxf">5040 - Office Supplies COGS</td>
     <td class="tg-btxf">Office Supplies</td>
-    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo. Refer to the <a href="https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards"><span style="color:#905">Ordering Business Cards</span></a>.<br> - $15.00 limit per month.</td>
+    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo. Refer to the <a href="https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards"><span style="color:#905">Ordering Business Cards</span></a>.<br> -  $15 per item per quarter.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Car Rental</td>
@@ -214,7 +214,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6013 - Business Meals &amp; Entertainment</td>
     <td class="tg-0pky">5013 - Business Meals &amp; Entertainment COGS</td>
     <td class="tg-0pky">Entertaining clients</td>
-    <td class="tg-0pky">$1,500.00 per transaction.</td>
+    <td class="tg-0pky">$50 limit per person for lunch and $100 limit per person for dinner.</td>
   </tr>
   <tr>
     <td class="tg-btxf">Meals: Company Provided while Traveling</td>
@@ -246,7 +246,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6064 - Telephone</td>
     <td class="tg-0pky">5064 - Telephone COGS</td>
     <td class="tg-0pky">Cell phone</td>
-    <td class="tg-0pky">- Policy is set at $50, anything over that amount will still be considered for approval as we know there are exceptions, and will be checked and approved on an individual basis depending on the user's circumstances, i.e. location etc.  A note that employees using their phone service outside of their country should try to obtain a contract which includes roaming services.<br>- Itemized Receipt required.<br>- If itemized bill, is not available, then the costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.<br>- No monthly hardware costs for internet service is reclaimable.<br>- Tablets, Watches, Phone Device are not reimbursable.</td>
+    <td class="tg-0pky">- Policy is set at $50, anything over that amount will still be considered for approval as we know there are exceptions, and will be checked and approved on an individual basis depending on the user's circumstances, i.e. location etc.  A note that employees using their phone service outside of their country should try to obtain a contract which includes roaming services.<br>- Itemized Receipt required.<br>- If itemized bill, is not available, then the costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.<br>- No monthly hardware costs for phone service is reclaimable.<br>- Tablets, Watches, Phone Device are not reimbursable.</td>
   </tr>
   <tr>
     <td class="tg-btxf">Postage/Shipping/Customs Fees</td>
@@ -310,7 +310,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6046 - Parking, Gas, Tolls, Mileage</td>
     <td class="tg-0pky">5046 - Parking, Gas, Tolls, Mileage COGS</td>
     <td class="tg-0pky">Public transport, tolls &amp; parking</td>
-    <td class="tg-0pky">- Ground Transportation (taxis, ubers) at $100 limit per ride.<br>- Fuel, mileage, parking, tolls at $300 limit per day.</td>
+    <td class="tg-0pky">- Ground Transportation (taxis, ubers) at $100 per round trip.<br>- Fuel, mileage, parking, tolls at $75 limit per day.</td>
   </tr>
   <tr>
     <td class="tg-btxf">Travel (Other)</td>
