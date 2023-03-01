@@ -11,128 +11,184 @@ description: "Available development paths and resources for Customer Success Man
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-As a Customer Success Manager, it is essential to understand what resources are available for your personal and professional development.   This page strives to be a place for leadership and CSMs to contribute to resources available for the progression and development of the CSM team.
+As a Customer Success Manager, it is essential to understand what resources are available for your personal and professional development.  This page strives to be a place for leadership and CSMs to contribute to resources available for the progression and development of the CSM team.
 
-## Key handbook sections, roadmaps and L&D platforms for enablement:
+## Key handbook sections, roadmaps and L&D platforms for enablement
+
 1. [CSM Planned Enablement Roadmap for FY24](https://docs.google.com/presentation/d/1maP9grsRJTlEsPsvQSw3d2jxw6BB-tgnURmA2lvOC_I/edit#slide=id.g1d865653f95_8_0)
 1. [CSM Enablement Corner](https://docs.google.com/document/d/1xyaxc37iCDtfeabo2NXCRV31pNOdvieXoVDxJw_aXoM/edit?usp=sharing) (updated Quarterly with Key Dates and CSM required actions)
 
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTB9tOQWZ771-M2nrIQkqIpx3XF7f9q1xXbBRkW5D-_UAyksak626FVn0Ovrj0j7rHDurML4N8f83IY/embed?start=false&loop=false&delayms=3000&slide=id.g2060538b15c_0_0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+## Customer Success Management - Learning and Development Resources
 
-1. [Customer Success Education & Enablement (All-CS)](/handbook/customer-success/education-enablement/)
-1. [New CSM Sales Quickstart Learning Path](/handbook/sales/onboarding/sales-learning-path/): Delivered through scheduled training sessions and pre/post work, with portions applicable only to the CSM role.
-1. [Edcast](https://gitlab.edcast.com/): For certifications, learning paths and more!
+The content is divided into three key categories of competencies. [LevelUp](https://levelup.gitlab.com/learn/dashboard) is GitLab's Learning Experience Platform for certifications, learning paths and more! If you have ideas about a course you'd like to develop, consider checking out the [Learning Evangelist Training](https://levelup.gitlab.com/courses/learning-evangelist-training).
 
+**💡 [Customer Success Management](#general-csm)     💬 [Soft Skills](#soft-skills)     🚀 [Technology and Domain Knowledge](#tech-domain)**
 
-## Personal development
+---
 
-### General skills
+{: #general-csm}
+### 💡 Customer Success Management 
 
-- GitLab's Learning Experience Platform, [GitLab Learn](https://gitlab.edcast.com/?fromLogin=true). We are building courses to upskill, reskill, and grow team member skills. If you have ideas about a course you'd like to develop, consider checking out the [Learning Evangelist Learning Path](https://gitlab.edcast.com/pathways/learning-evangelist-training).
+#### CSM Best Practises and Examples at GitLab
 
-### Chorus Playlist
+- [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best CSM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices.
 
-- [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best CSM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices. 
+#### Customer Success Management
 
-### LinkedIn Learning
+- [Customer Success Management Fundamentals](https://www.linkedin.com/learning/customer-success-management-fundamentals) (LinkedIn Learning)
+- [Business Fundamentals for Customer Success Managers](https://www.linkedin.com/learning/business-fundamentals-for-customer-success-managers) (LinkedIn Learning)
+- [Avoiding Common Pitfalls in Customer Success Management](https://www.linkedin.com/learning/avoiding-common-pitfalls-in-customer-success-management) (LinkedIn Learning)
+- [Onboarding and Adoption Best Practices for Customer Success Management](https://www.linkedin.com/learning/onboarding-and-adoption-best-practices-for-customer-success-management) (LinkedIn Learning)
+- [Engagement Evaluation Best Practices for Customer Success Management](https://www.linkedin.com/learning/engagement-evaluation-best-practices-for-customer-success-management) (LinkedIn Learning)
+- [Value Realization Best Practices for Customer Success Management](https://www.linkedin.com/learning/value-realization-best-practices-for-customer-success-management) (LinkedIn Learning)
+- [Building Rapport with Customers](https://www.linkedin.com/learning/building-rapport-with-customers/) (LinkedIn Learning)
+- [Customer Experience: Journey Mapping](https://www.linkedin.com/learning/customer-experience-journey-mapping) (LinkedIn Learning)
+- [Advanced Business Development Communication & Negotiation](https://www.linkedin.com/learning/advanced-business-development-communication-and-negotiation/taking-it-to-the-next-level) (LinkedIn Learning)
+- [Sales: Customer Success](https://www.linkedin.com/learning/sales-customer-success) (LinkedIn Learning)
+- [Customer Success by Nick Mehta, Dan Steinman, Lincoln Murphy, Maria Martinez](https://learning.oreilly.com/library/view/customer-success/9781119167969/) (O'reilly Books)
+- [The Customer Success Professional's Handbook](https://learning.oreilly.com/library/view/the-customer-success/9781119624615/) (O'reilly Books)
+- [Sales & Customer Success Learning Path in SQS](/handbook/sales/onboarding/sales-learning-path/): Parallel to the scheduled training sessions in the [Sales Quick Start (SQS)](/handbook/sales/onboarding/), with [Rolebased content](/handbook/sales/onboarding/sales-learning-path/#customer-success-quick-start---role-based-curriculum) (Instructor-Led Sessions)
 
-[Handbook details about LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/).
+#### Leadership
 
-Recommended courses:
+- [GitLab Company-Wide Mentorship Program](/handbook/people-group/learning-and-development/mentor/company-program/) (HB)
+- [GitLab Leadership development program - Elevate](/handbook/people-group/learning-and-development/elevate/)
+- [CEO Shadow Program](/handbook/ceo/shadow/)
+- [Sounding Board](https://www.soundingboardinc.com/request-demo/) (External resource with online coaching)
+- [New Manager Foundations](https://www.linkedin.com/learning/new-manager-foundations-2/)
+- [Being a good mentor](https://www.linkedin.com/learning/being-a-good-mentor/)
 
-- [The Six Morning Habits of High Performers](https://www.linkedin.com/learning/the-six-morning-habits-of-high-performers/six-practices-to-get-back-on-track-16454204?u=2255073)
-- [Unconscious Bias](https://www.linkedin.com/learning/unconscious-bias/)
-- [Devops Foundations](https://www.linkedin.com/learning/devops-foundations/)
-- [How to Make Strategic Thinking a Habit](https://www.linkedin.com/learning/how-to-make-strategic-thinking-a-habit/why-make-strategic-thinking-a-habit?u=2255073)
-- [Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking](https://www.linkedin.com/learning/psychological-safety-clear-blocks-to-innovation-collaboration-and-risk-taking/psychological-safety-clear-blocks-to-problem-solving-and-innovation?u=2255073)
-- [Improving Your Listening Skills](https://www.linkedin.com/learning/improving-your-listening-skills/welcome?u=2255073)
+#### Executive Communication
 
-We also have a list of [Recommended Learning Paths](/handbook/people-group/learning-and-development/linkedin-learning/#recommended-learning-paths).
+As CSMs have positioned themselves to be more strategic and reach Director, VP, and CISO personas, we have to adjust our communication styles and consider how to cater them for executives. These resources will aid CSMs with executive presence and communication.
 
-### How PS Technical Instructors Teach Technical Concepts
+- We have two team members in L&D who are certified in [Crucial Conversations](/handbook/leadership/crucial-conversations/). We have 1-2 sessions per quarter.
+- [Connecting with Executives](https://www.linkedin.com/learning/connecting-with-executives-2)
+- [Issue: Executive Communication Best Practices](https://gitlab.com/gitlab-com/customer-success/csm/-/issues/712)
+- [Google Doc (Actively being updated)](https://docs.google.com/document/d/1lkk_25XwOOw9eN-NqxuupZsDWRdWPbmFYD8RP8cWXz8/) - Lee Faus, Brian Wald, and Francis Ofungwu share themes (four pillars) they are hearing from executives around GitLab's platform
+- Sandler Articles
+  - [How to Use DISC Assessments to Appropriately Customize Workplace Communication](https://www.sandler.com/blog/how-use-disc-assessments-appropriately-customize-workplace-communication/) (Article)
+  - [Up Front Contracts](https://www.dwood.sandler.com/blog/Up-Front-Contracts) (Article)
+- [Pyramid Principle for Slide Presentation](https://www.myconsultingoffer.org/case-study-interview-prep/pyramid-principle/) (Article)
+- [Tim Ferris - how I prepare for keynotes](https://tim.blog/2010/04/11/public-speaking-how-i-prepare-every-time/) (Article)
+
+#### Public Speaking and Enablement
+
+- [Top Facilitation Techniques and Tactics For Great Remote Workshops](https://www.youtube.com/watch?v=JsRxF0I3eaI) - 16 minutes, timestamped per question (YouTube Video)
+- [How to Create and Run a Brilliant Remote Workshop](https://www.linkedin.com/learning/how-to-create-and-run-a-brilliant-remote-workshop/how-to-run-a-brilliant-remote-workshop?autoplay=true&resume=false&u=2255073) - 48 minutes, listen to Part 2 but know that GitLab will advise on tools to use for your workshops. (LinkedIn Learning)
+- [GitLab Speaker Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-speaker-training-2021) - 35 minutes, requirement for external speakers about GitLab
+- [Tips & Tricks for an Engaging Remote Workshop](https://global.hitachi-solutions.com/blog/tips-tricks-for-remote-workshops/) (Article)
+- [How to Run an Engaging Remote Workshop: Tips for Stress-Free Collaboration](https://dscout.com/people-nerds/remote-workshops) (Article)
+- [10 tips on how to deliver an engaging remote workshop](https://excopartners.com/2021/10/09/10-tips-on-how-to-deliver-an-engaging-remote-workshop) (Article)
+- [Communicating with Confidence](https://www.linkedin.com/learning-login/share?account=2255073&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcommunicating-with-confidence%3Ftrk%3Dshare_ent_url%26shareId%3Db7EUHzikS6iSUIMO0n%252Fq9A%253D%253D) (LinkedIn Learning)
+- [Dynamic Public Speaking by University of Washington](https://www.coursera.org/specializations/public-speaking) (Coursera)
+- [Storytelling and influencing: Communicate with impact](https://www.coursera.org/learn/communicate-with-impact) (Coursera)
+
+{: #soft-skills}
+### 💬 Soft Skills 
+
+- [Professional Soft Skills Learning Pathway](https://www.linkedin.com/learning/paths/professional-soft-skills-learning-pathway) (LinkedIn Learning)
+- [Kind Engineering: How to Engineer Kindness](https://www.youtube.com/watch?v=OGFsM2lcF60) (YouTube)
+- [Secrets to Optimal Client Service](https://www.youtube.com/watch?v=hJbwyN4ZoCg) (YouTube)
+- [Selling Solutions vs Solving Problems](https://www.youtube.com/watch?v=9ZuWLs7ZNpY) (YouTube)
+- [Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking](https://www.linkedin.com/learning/psychological-safety-clear-blocks-to-innovation-collaboration-and-risk-taking/psychological-safety-clear-blocks-to-problem-solving-and-innovation?u=2255073) (LinkedIn Learning)
+- [Improving Your Listening Skills](https://www.linkedin.com/learning/improving-your-listening-skills/welcome?u=2255073) (LinkedIn Learning)
+- [The Six Morning Habits of High Performers](https://www.linkedin.com/learning/the-six-morning-habits-of-high-performers/six-practices-to-get-back-on-track-16454204?u=2255073) (LinkedIn Learning)
+- [Unconscious Bias](https://www.linkedin.com/learning/unconscious-bias/) (LinkedIn Learning)
+- [How to Make Strategic Thinking a Habit](https://www.linkedin.com/learning/how-to-make-strategic-thinking-a-habit/why-make-strategic-thinking-a-habit?u=2255073)  (LinkedIn Learning)
+- [Leading with Emotional Intellignece](https://www.linkedin.com/learning/leading-with-emotional-intelligence-3/lead-with-emotional-intelligence) (LinkedIn Learning)
+
+{: #tech-domain}
+### 🚀 Technology and Domain Knowledge
+
+#### GitLab for CSMs
+
+- [Customer Success Education & Enablement (All-CS)](/handbook/customer-success/education-enablement/)
+- Self Certifications are available on [LevelUp](https://levelup.gitlab.com/learn/dashboard?labels=%5B%22Technical%20Certifications%22%5D&values=%5B%22certification%22%5D):
+  - [CI/CD Professional Pathway](https://levelup.gitlab.com/learn/course/gitlab-certified-devops-professional-bundle/)
+  - This includes the Pathways:
+    - [GitLab Certified Git Associate](https://levelup.gitlab.com/learn/course/gitlab-certified-git-associate/)
+    - [GitLab Certified Project Management Associate](https://levelup.gitlab.com/learn/course/gitlab-certified-project-management-specialist-bundle/)
+    - [GitLab Certified CI/CD Associate](https://levelup.gitlab.com/learn/course/gitlab-ci-cd-specialist-self-paced-bundle/)
+    - [GitLab Certified Security Specialist](https://levelup.gitlab.com/courses/gitlab-certified-security-specialist)
+- [GitLab 101](/handbook/people-group/learning-and-development/gitlab-101/)
+- [GitLab 201](/handbook/people-group/learning-and-development/gitlab-201/)
+- [Learning GitLab](https://www.linkedin.com/learning/learning-gitlab-14539757/) (LinkedIn Learning)
+- [Continuous Delivery with GitLab](https://www.linkedin.com/learning/continuous-integration-and-continuous-delivery-with-gitlab/) (LinkedIn Learning)
+- [Introduction to GitLab CI & DevOps with AWS](https://www.youtube.com/watch?v=PGyhBwLyK2U) (YouTube)
+  - [Introduction to GitLab CI & DevOps with AWS - Course Notes](https://gitlab.com/gitlab-course-public/freecodecamp-gitlab-ci/-/blob/main/docs/course-notes.md) (Git Repo)
+- [GitLab CI CD Tutorial for Beginners](https://www.youtube.com/watch?v=qP8kir2GUgo) (YouTube)
+
+#### DevOps
+
+- [Devops Foundations](https://www.linkedin.com/learning/devops-foundations/) (LinkedIn Learning)
+
+#### Software Development
+
+- [Software Development Life Cycle (SDLC)](https://www.linkedin.com/learning/software-development-life-cycle-sdlc) (LinkedIn Learning)
+
+#### DevSecOps
+
+- [Get started with GitLab application security](https://docs.gitlab.com/ee/user/application_security/get-started-security.html)
+- [Application Security in DevSecOps](https://www.linkedin.com/learning/application-security-in-devsecops) (LinkedIn Learning)
+
+#### Git
+
+- [Git Basics Episode 1 - What is Version Control?](https://git-scm.com/video/what-is-version-control) (External Video)
+- [Git Basics Episode 2 - What is Git?](https://git-scm.com/video/what-is-git) (External Video)
+- [Git Basics Episode 3 - Get Going with Git](https://git-scm.com/video/get-going) (External Video)
+- [Git Basics Episode 4 - Quick Wins with Git](https://git-scm.com/video/quick-wins) (External Video)
+
+#### Markdown
+
+- [Handbook Markdown Guide](/handbook/markdown-guide/)
+- [GitLab Flavored Markdown (GLFM)](https://docs.gitlab.com/ee/user/markdown.html)
+- [Handbook Style Guide](/handbook/style-guide/)
+- [Markdown Tutorial](/blog/2018/08/17/gitlab-markdown-tutorial/)
+
+#### Docker
+
+- [Docker Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=pg19Z8LL06w) (Youtube)
+- [Docker Desktop on your Mac](https://about.gitlab.com/handbook/tools-and-tips/mac/#docker-desktop)
+
+#### Kubernetes
+
+- [What is Kubernetes - Kubernetes explained in 15 mins](https://www.youtube.com/watch?v=VnvRFRk_51k) (YouTube)
+- [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4) (YouTube)
+
+## How PS Technical Instructors Teach Technical Concepts
 
 These are videos of actual 8-hour courses given live to customers by GitLab's Education Services department. These are good examples of how to present technical concepts in a structured format.
 
 > The Education Services team is working on shorter, edited versions of these class videos. They'll replace these links with the edited versions when they're available. For now just fast-forward through labs and breaks in these unedited class recordings.
 
-Access codes and recording links can be found in this [internal doc](https://docs.google.com/document/d/1WNwz_2TbavLgEVG86eENu4Mf_StjYt77h-d-364l3bM/edit?usp=sharing). 
-
-- GitLab with Git Basics - presented by Chris Cowell
-  - Part 1 
-  - Part 2
-- CI/CD - presented by Nick Lotz
-  - Part 1
-  - Part 2
-- Security Essentials - presented by Chris Cowell
-  - Part 1
-  - Part 2
-- GitLab for Project Managers - presented by Nick Lotz and Chris Cowell
-  - Part 1 and Part 2 
-  
-### Soft skills
-- [Developing your Emotional Intelligence](https://www.linkedin.com/learning/developing-your-emotional-intelligence/benefits-of-building-emotional-intelligence)
-- [Leading with Emotional Intellignece](https://www.linkedin.com/learning/leading-with-emotional-intelligence-3/lead-with-emotional-intelligence)
-
-#### Public Speaking
-- [Communicating with Confidence](https://www.linkedin.com/learning-login/share?account=2255073&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcommunicating-with-confidence%3Ftrk%3Dshare_ent_url%26shareId%3Db7EUHzikS6iSUIMO0n%252Fq9A%253D%253D) (LinkedIn Learning)
-- [Institute of Public Speaking Virtual One-Day Class](https://www.instituteofpublicspeaking.com/event-registration/)
-- [Dynamic Public Speaking by University of Washington](https://www.coursera.org/specializations/public-speaking)
-- [Storytelling and influencing: Communicate with impact](https://www.coursera.org/learn/communicate-with-impact)
-
-#### Executive Communication
-As CSMs have positioned themselves to be more strategic and reach Director, VP, and CISO personas, we have to adjust our communication styles and consider how to cater them for executives. These resources will aid CSMs with executive presence and communication. 
-
-[Issue](https://gitlab.com/gitlab-com/customer-success/csm/-/issues/712)
-
-* Masterclass - [The Art of Persuasion: Daniel Pink teaches sales](https://www.google.com/aclk?sa=l&ai=DChcSEwiy-uC73ID7AhXrFdQBHUy_CnoYABAAGgJvYQ&sig=AOD64_0qcqVfaFgCQyMi-xSOIiJbxW61yw&q&adurl&ved=2ahUKEwi179W73ID7AhXmgmoFHcUgCgIQ0Qx6BAgHEAE) and [Chris Voss - Win Workplace Negotiations](https://www.masterclass.com/sessions/classes/win-workplace-negotiations?campaignid=15627870842&adgroupid=139859366148&adid=570516991108&utm_term=chris%20voss%20masterclass&utm_campaign=%5BCV2%5C+%7C+Search+%7C+Brand+%7C+Instructor_PM+%7C+USA+%7C+EN+%7C+MAX+%7C+EG%7CPP+%7C+INSS+-+CV2+%7C+US&utm_source=google&utm_medium=cpc&utm_content=570516991108&hsa_acc=9801000675&hsa_cam=15627870842&hsa_grp=139859366148&hsa_ad=570516991108&hsa_src=g&hsa_tgt=kwd-1465336023099&hsa_kw=chris%20voss%20masterclass&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAwc-dBhA7EiwAxPRylAtqiaBRdja8jxGJrQAU4D-yX2tiOmM4OMaklUMR6GyFcDw6cVfz6hoCF4kQAvD_BwE)
-* Twitter thread - [How Mckinsey presents to executives](https://twitter.com/supermode_/status/1584210331487739904)
-* Google Doc (Actively being updated) - Lee Faus, Brian Wald, and Francis Ofungwu share themes (four pillars) they are hearing from executives around GitLab's platform - https://docs.google.com/document/d/1lkk_25XwOOw9eN-NqxuupZsDWRdWPbmFYD8RP8cWXz8/edit
-* Sandler Articles
-     - [How to Use DISC Assessments to Appropriately Customize Workplace Communication](https://www.sandler.com/blog/how-use-disc-assessments-appropriately-customize-workplace-communication/)
-     - [Up Front Contracts](https://www.dwood.sandler.com/blog/Up-Front-Contracts)
-* Pyramid Principle for Slide Presentation
-     - https://www.myconsultingoffer.org/case-study-interview-prep/pyramid-principle/
-* [Tim Ferris - how I prepare for keynotes](https://tim.blog/2010/04/11/public-speaking-how-i-prepare-every-time/)
-* Dan Pink [Drive](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) and [To Sell is Human](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905)
-* ["What Got You Here Won't Get You There"](https://www.amazon.com/What-Got-Here-Wont-There/dp/B000MGBNGW/ref=sr_1_1?keywords=what+got+you+here+won%27t+get+you+there&qid=1672771567&s=books&sprefix=what+go+you+here+%2Cstripbooks%2C148&sr=1-1)
-* ["Hard Things About Hard Things"](https://www.amazon.com/Hard-Thing-About-Hard-Things-audiobook/dp/B00I0A6HUO/ref=sr_1_1?keywords=hard+things+about+hard+things&qid=1672771605&s=audible&sprefix=hard+thin%2Caudible%2C138&sr=1-1) entertaining story about grit, constantly reassessing your skills against your current job (that changes)
-* [SCIPAB messaging by Mandell](https://www.mandel.com/scipab-messaging-tool) 
-
-
-### Technical
-
-- Self Certifications are available for the professional services courses on LevelUp:
-  * [CI/CD Professional Pathway](https://levelup.gitlab.com/learn/course/gitlab-certified-devops-professional-bundle/)
-  - This includes the Pathways:
-    * [GitLab Certified Git Associate](https://levelup.gitlab.com/learn/course/gitlab-certified-git-associate/)
-    * [GitLab Certified Project Management Associate](https://levelup.gitlab.com/learn/course/gitlab-certified-project-management-specialist-bundle/)
-    * [GitLab Certified CI/CD Associate](https://levelup.gitlab.com/learn/course/gitlab-ci-cd-specialist-self-paced-bundle/)
-    * [GitLab Certified Security Specialist](https://levelup.gitlab.com/courses/gitlab-certified-security-specialist)
-- [GitLab Technical Training delivered by Professional Services](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
-- MIT's online program: [Cloud & DevOps: Continuous Transformation](https://professionalprograms.mit.edu/es/programa-online-cloud-devops-transformacion-continua/) covers strategical implementation of the DevOps and Cloud tools
-- [Cloud Infrastructure Technical Skills](/handbook/customer-success/education-enablement/#cloud-infrastructure) 
-
-### Leadership
-
-- We are currently revamping our mentorship program and [manager lean coffees](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/123) as a first step
-- We are currently revamping our leadership development program. You can learn more on the [Elevate handbook page](/handbook/people-group/learning-and-development/elevate/)
-- We have two team members in L&D who are certified in [Crucial Conversations](/handbook/leadership/crucial-conversations/). We have 1-2 sessions per quarter 
-- [CEO Shadow Program](/handbook/ceo/shadow/)
-- [Sounding Board](https://www.soundingboardinc.com/request-demo/): External resource with online coaching
-- [New Manager Foundations](https://www.linkedin.com/learning/new-manager-foundations-2/)
-- [Being a good mentor](https://www.linkedin.com/learning/being-a-good-mentor/)
+Access codes and recording links can be found in this [internal doc](https://docs.google.com/document/d/1WNwz_2TbavLgEVG86eENu4Mf_StjYt77h-d-364l3bM/edit?usp=sharing).
 
 ## Career development
 
 ### Within the CSM job family
-- The [CSM Job Family page](https://about.gitlab.com/job-families/sales/customer-success-management/) is kept updated with the roles and responsibilities of each level within the CSM job family
+
+- The [CSM Job Family page](/job-families/sales/customer-success-management/) is kept updated with the roles and responsibilities of each level within the CSM job family
 - The [CSM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit#gid=0) enables a CSM to determine areas of opportunity in working towards their next level of seniority
 
-
 ### Within the CS org
-- [The SA Job Family page](https://about.gitlab.com/job-families/sales/solutions-architect/) is kept update with the roles, responsibilities and technical expectations of an SA. For CSMs interested in moving into SA roles, they can work with their managers on learning paths to develop the technical and sales skills where needed.
+
+- [The SA Job Family page](/job-families/sales/solutions-architect/) is kept update with the roles, responsibilities and technical expectations of an SA. For CSMs interested in moving into SA roles, they can work with their managers on learning paths to develop the technical and sales skills where needed.
 
 ### Within GitLab, outside of CS
+
 - While there is no 'formula' for moving into roles in other teams, we welcome CSM growth and desire to explore alternative areas with GitLab.  For CSMs looking to move into different groups outside of CS, the first step is to review the job family requirements and connect with their manager on determining a path. It is encouraged for managers to connect with the group's team leaders in question to build out a development plan that will have the best chances of success. 
+
+## External Sources/Tools linked here
+
+### LinkedIn Learning
+
+[Handbook details about LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/).  
+
+We also have a list of [Recommended Learning Paths](/handbook/people-group/learning-and-development/linkedin-learning/#recommended-learning-paths).
+
+### Coursera
+
+[Handbook details about Coursera](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#self-service-learning-skillserve-coursera-others)
