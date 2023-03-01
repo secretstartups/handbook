@@ -76,29 +76,7 @@ Some dedicated Slack channels:
 
 Every week the [refinement bot](https://gitlab.com/gitlab-org/configure/refinement/) assigns a team member as the refinement DRI, who is responsible for refining **4 issues from the top of the `~"workflow::refinement"` list** (the list is prioritised top to bottom) in the [Milestone Board](#milestone-board) **and another issue of their choice** with a ping to the EM and/or PM explaining the reasoning.
 
-The refinement process consists of:
-
-- Follow the [refinement guidelines](#refinement-guidelines), assign a weight, and label the issue `~"workflow::ready for development"`
-- OR Determine there is not enough information or too much uncertainty and clearly document the required next steps, and questions in the description and mention the PM, EM and/or PD for their awareness.
-
-Note that it's expected that most refinements may need conversations with Product Manager, Product Designer, or Engineering Manager, and pulling in other Engineers when necessary is encouraged.
-
-#### Refinement Guidelines
-
-- [ ] This issue describes a problem to solve, and it's confirmed.
-- [ ] This issue describes a proposal that outlines a solution for the problem to solve.
-- [ ] This issue includes a UX proposal, if necessary, that is up-to-date and has been validated.
-- [ ] This issue requires a technical proposal (e.g. link to the code to be changed), and it's added and up-to-date.
-- [ ] This issue could affect application performance, and the concern is explained in the issue description.
-- [ ] This issue could affect application security, and the concern is explained in the issue description.
-- [ ] This issue is the smallest iteration possible and doesn't require further break down.
-- [ ] This issue is linked to related, blocking and blocked issues, and it's up-to-date.
-- [ ] This issue is labeled correctly.
-- [ ] This issue requires PoC, prototype or Technical Evaluation due to its high complexity, and it's already finished.
-- [ ] This issue description is actionable and clear, therefore a weight was added. If both ~backend and ~frontend work are required, add `~backend-weight::*` and `~frontend-weight::*` labels as well.
-- [ ] Finally, add ~"workflow::ready for development" label to this issue.
-
-
+The refinement process is described in the [issue template](https://gitlab.com/gitlab-org/configure/refinement/-/blob/main/templates/default.erb).
 
 ### Technical Discovery meetings
 
