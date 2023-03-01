@@ -34,16 +34,16 @@ The Annual Plan process [finishes two quarters after](https://about.gitlab.com/c
 
 ### Objectives and Key Results (OKRs)
 
-1. [Objectives and Key Results (OKRs)](/okrs/) are our quarterly priorities that create progress for our yearly goals.
-1. As a result, [OKRs](/okrs/) are aligned to one of the yearlies. 
-1. While [OKRs](/okrs/) are not directly aligned to one of the three pillars of the [three year strategy](/strategy/#three-year-strategy), since OKRs are aligned to one of the yearlies, and the yearlies are aligned to one of the pillars, OKRs are indirectly aligned to one of the strategic pillars.
-from our [cadence](/cadence/).
-1. [OKRs](/okrs/) have a duration of one quarter while Yearlies are annual goals with a duration of a year.
-1. [OKRs](/okrs/) are composed of Objectives and Key Results while Yearlies have only one component, the annual goal.
+1. [Objectives and Key Results (OKRs)](/company/okrs/) are our quarterly priorities that create progress for our yearly goals.
+1. As a result, [OKRs](/company/okrs/)) are aligned to one of the yearlies. 
+1. While [OKRs](/company/okrs/) are not directly aligned to one of the three pillars of the [three year strategy](/strategy/#three-year-strategy), since OKRs are aligned to one of the yearlies, and the yearlies are aligned to one of the pillars, OKRs are indirectly aligned to one of the strategic pillars.
+from our [cadence](/company/cadence/).
+1. [OKRs](/company/okrs/) have a duration of one quarter while Yearlies are annual goals with a duration of a year.
+1. [OKRs](/company/okrs/) are composed of Objectives and Key Results while Yearlies have only one component, the annual goal.
 
 ## Cadence
 
-1. The [three year strategy](/company/strategy/#three-year-strategy) is on a 3 year cadence and is inspiration for the Yearlies, which are on a 1 year [cadence](/company/cadence/#year). The three year strategy is reviewed as part of [E-Group offsite calendar](/offsite/#offsite-topic-calendar). 
+1. The [three year strategy](/company/strategy/#three-year-strategy) is on a 3 year cadence and is inspiration for the Yearlies, which are on a 1 year [cadence](/company/cadence/#year). The three year strategy is reviewed as part of [E-Group offsite calendar](/company/offsite/#offsite-topic-calendar). 
 1. Yearlies are established during E-Group offsite as a once-a-year topic in the [offsite topic calendar](https://about.gitlab.com/company/offsite/#offsite-topic-calendar). 
 1. Yearlies are the company's goals for the next 12 months unless the Yearly is achieved sooner than 12 months or E-Group decides that a Yearly should be updated. 
 1. In line with our value of [Iteration](https://about.gitlab.com/handbook/values/#iteration), Yearlies are reviewed during each E-Group offsite as a [recurring discussion topic](/company/offsite/#recurring-discussion-topics) and updated or replaced if the Yearly needs to be changed sooner than 12 months after being established. 
