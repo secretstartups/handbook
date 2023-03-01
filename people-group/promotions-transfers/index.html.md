@@ -78,7 +78,7 @@ Below is the timeline for FY24:
      - Effective date for promotions: 2023-02-01. 
      - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicated 1:1 with individuals, updates can be posted publicly in #team-member-updates.
      
-- FY24-Q2: _Tentative_
+- FY24-Q2: 
   - Planning: March 15 to April 1
   - Calibrations: April 1 to April 15
   - Processing: April 15 to May 1 (promotions must be added to HRIS by April 20)
