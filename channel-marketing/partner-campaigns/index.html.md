@@ -306,7 +306,7 @@ Below are the glossary of fields used for Channel and Alliance partner campaigns
 | [Vartopia Partner Account](https://gitlab.my.salesforce.com/00N8X00000FnjVo?setupid=LeadFields) | X               |                 |             |             |                  |
 
 
-Go to the [Vartopia page](handbook/marketing/marketing-operations/vartopia/) to review fields that are relevant to Vartopia.
+Go to the [Vartopia page](/handbook/marketing/marketing-operations/vartopia/) to review fields that are relevant to Vartopia.
 
 ### Alliance Record
 This field shows when a record belongs to an Alliance Partner meaning they are an employee of said Alliance Partner. When this field is checked = `true`, the record will be suppressed from general marketing communications.
