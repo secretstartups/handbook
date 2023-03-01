@@ -48,7 +48,8 @@ Negotiating Terms and Conditions: [Negotiating Terms](https://about.gitlab.com/h
 
 ## Negotiating Terms
 - For any purchases made by GitLab, there must be applicable terms and conditions. 
-- GitLab prefers to use the [Standard Terms and Conditions](https://about.gitlab.com/handbook/finance/procurement/vendor-guidelines/#standard-vendor-terms-and-conditions), which includes terms related to purchasing both software and/or professional services.
+- GitLab may use the [Standard Terms and Conditions](https://about.gitlab.com/handbook/finance/procurement/vendor-guidelines/#standard-vendor-terms-and-conditions), which includes terms related to purchasing both software and/or professional services.
+- In the event a vendor is providing services which include accessing, processing or controlling GitLab data, the GitLab Legal team may require the vendor to provide the list of sub-processors relevant to the services provided to GitLab. In addition, based on the data made available to the vendor, a DPA may be required, which will be engaged by the Privacy team.  
 - For information regarding purchase requests and negotiation thresholds, please visit the [Procurement handbook](/handbook/finance/procurement/).
 
 ## GitLab Legal Procurement Process
