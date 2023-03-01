@@ -168,7 +168,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from February 1, 
                 1. Senior Director of Corporate Marketing KR: Be included in 5% of coverage coming out of KubeCon
                 1. Senior Director of Corporate Marketing KR: TanukiAdventure social media trends in Amsterdam
             1. **Sr. Director of Product Marketing Strategic Marketing:** Activate use case GTM model (aligned with content pillars)
-                1. Sr. Director of Product Marketing KR: Complete [P1 BOM deliverables](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/) for first 3 use cases based on sales input, business priority and competitive landscape
+                1. Sr. Director of Product Marketing KR: Complete P1 BOM deliverables for first 3 use cases based on sales input, business priority and competitive landscape
                 1. Sr. Director of Product Marketing KR: Create Analyst Landscapes for Q1 prioritized use cases
                 1. Sr. Director of Product Marketing KR: Create Timeline Plan for Supporting Remainder of AR-related Use Case BOM for each of Q1 prioritized Use Case
                 1. Sr. Director of Product Marketing KR: Identify Customer References required for Q1 prioritized Use Cases
