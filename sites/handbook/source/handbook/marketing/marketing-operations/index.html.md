@@ -19,7 +19,7 @@ description: "Marketing Operations (MktgOps) supports the entire Marketing team 
 Marketing Operations (MktgOps) supports the marketing organization to streamline processes and manage related tools. We work closely with multiple teams to ensure information between systems is seamless, data is as accurate as possible, and terminology is consistent in respective systems. Our team's primary functions are:
 
 - Project management of marketing technology stack
-- Streamline and standardize processes related to tools 
+- Streamline and standardize processes related to tools
 - Data cleanliness and accuracy
 - Best practices and strategy on marketing technology
 - Continuous improvement of marketing systems
@@ -37,12 +37,12 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Staff Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#staff-marketing-operations-manager) |
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
-| [Robert Rosu](https://gitlab.com/RobRosu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | 
-| [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | 
+| [Robert Rosu](https://gitlab.com/RobRosu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Salina Tran](https://gitlab.com/stran5) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
-| [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
-| [Evan Mathis](https://gitlab.com/emathis) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | 
-| [Bryce Weatherford](https://gitlab.com/bweatherford) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | 
+| [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
+| [Evan Mathis](https://gitlab.com/emathis) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
+| [Bryce Weatherford](https://gitlab.com/bweatherford) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) |
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
@@ -55,10 +55,10 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 </div>
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/marketing/sales-development/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Development</a>
-    <a href="/handbook/marketing/corporate-marketing/corporate-communications/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Communications</a>
+    <a href="/handbook/marketing/corporate-communications/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Communications</a>
    <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
     <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
-</div>   
+</div>
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/finance/procurement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Procurement</a>
     <a href="/handbook/legal/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Legal</a>
@@ -73,8 +73,8 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 
-- [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
-- [#hbupdate-mktgops](https://gitlab.slack.com/archives/mktgops) - This channel is used to automatically post new [handbook updates](#handbook-updates) that have been merged. 
+- [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration.
+- [#hbupdate-mktgops](https://gitlab.slack.com/archives/mktgops) - This channel is used to automatically post new [handbook updates](#handbook-updates) that have been merged.
 
 **Salesforce**
 
@@ -117,25 +117,25 @@ If an emergency communication needs to be send out, Marketing Ops will need to a
 
 ### Issues
 
-The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue or for small checks and questions, use the `~MktgOps::0 - To Be Triaged` label anywhere within the GitLab repo. 
+The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue or for small checks and questions, use the `~MktgOps::0 - To Be Triaged` label anywhere within the GitLab repo.
 
  If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
 
-With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. 
+With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies.
 
-Please do not reopen issues that have been closed in a previous milestone. If you find that you have additional questions about a closed issue, comment in the issue and ping the marketing ops DRI who worked the issue. The DRI within our team will determine whether an issue needs to be reopened and pulled into a current milestone. 
+Please do not reopen issues that have been closed in a previous milestone. If you find that you have additional questions about a closed issue, comment in the issue and ping the marketing ops DRI who worked the issue. The DRI within our team will determine whether an issue needs to be reopened and pulled into a current milestone.
 
 
 ### OKRs
 To track progress on and provide visibility to team OKRs each quarter, Marketing Operations uses the OKR feature in GitLab to organize our team-wide work. Current Marketing Operations OKRs can be found [here](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=MktgOps&first_page_size=100).
 
-Check out our [quarterly highlights trackers](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/?sort=created_date&state=all&label_name%5B%5D=mktgops-highlights&first_page_size=20) to learn more about the key results we've accomplished. 
+Check out our [quarterly highlights trackers](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/?sort=created_date&state=all&label_name%5B%5D=mktgops-highlights&first_page_size=20) to learn more about the key results we've accomplished.
 
 
 
 ### Epics
 
-If an issue includes a weight of 21 or more, that issue may be promoted to an epic in order to properly scope the work across multiple issues. Epics will also be used by our team if it relates to an OKR and requires multiple issues in scope to complete the work. Tool implementations also often are tracked within epics. 
+If an issue includes a weight of 21 or more, that issue may be promoted to an epic in order to properly scope the work across multiple issues. Epics will also be used by our team if it relates to an OKR and requires multiple issues in scope to complete the work. Tool implementations also often are tracked within epics.
 
 ### Labeling
 
@@ -159,7 +159,7 @@ Categories
 - `SMOps/Systems - Changelog`: Used to track changelog issues that will impact Sales Operations or Systems
 - `MktgOps-Support`: Internal label used by MktgOps team to track non-issue work and support
 - `MktgOps-Future Feature`: Something to consider for a future project as time allows. Timeframe: As time allows
-- `dg-campaigns`, `ABM`, `lifecycle-mktg`: Used on issues created by these teams for easier tracking of their requests. 
+- `dg-campaigns`, `ABM`, `lifecycle-mktg`: Used on issues created by these teams for easier tracking of their requests.
 
 </details>
 
@@ -230,7 +230,7 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 | `SDR-HB Update` | `#hbupdate-sdr` |
 | `ABM-HB Update` | `#hbupdate-abm` |
 
-#### Milestone MRs 
+#### Milestone MRs
 
 The marketing operations team uses collective merge requests, known as our milestone MRs, to make multiple updates across our handbook, see high-level updates in 1 MR, and avoid conflicts with each other. Here is an [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71109). We list all major changes with our GitLab username in the description after a commit and link any relevant issues that the commit closes out. If you have an update for the marketing operations handbook, please feel free to use our milestone MR to make a commit and tag us for review to avoid conflicts.
 
@@ -240,7 +240,7 @@ The marketing operations team uses collective merge requests, known as our miles
 
 ### Focus Fridays
 
-The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. 
+The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues.
 
 ### Marketing Changelog
 
@@ -275,7 +275,7 @@ Integrated with Salesforce
 - [ReachDesk](/handbook/marketing/marketing-operations/reachdesk/)
 - [RingLead](/handbook/marketing/marketing-operations/ringlead/)
 - [Terminus Email Experiences](/handbook/marketing/marketing-operations/terminus-email-experiences)
-- [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/) 
+- [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
 
 </details>
 
@@ -300,7 +300,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 ### Renewal process for marketing technology budget owners
 
 - Renewal discussion should start 90 days before contract end date (6 months+ for complex tools with many integrations - DemandBase, Outreach, etc…).
-- For new software that has been approved create a business case to attach to the Coupa ([example](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6171)). 
+- For new software that has been approved create a business case to attach to the Coupa ([example](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6171)).
 - With Procurements submit an RFP every 2 years or for tools over 50K+.
 - POC for any new tools or new features before signing a contract.
 - No auto-renewals and 2 year contracts should have massive cost savings.
@@ -328,8 +328,8 @@ The general process for a new tool evaluation is:
 1. Requirements gathering - document user stories, requirements, and features
 1. Evaluation - attend demos and compare features
 1. Stakeholder alignment - align stakeholders on vendor of choice
-1. Privacy and security reviews - ensure that the selected tool is compliant 
-1. Negotiations and procurement 
+1. Privacy and security reviews - ensure that the selected tool is compliant
+1. Negotiations and procurement
 1. Implementation
 1. Post-Implementation Review & Retro
 
@@ -365,21 +365,21 @@ For budgetary reasons, Marketing Operations will be performing quarterly, bi-qua
   - Terminus (formerly Sigstr)
   - Drift
   - Marketo
-  - Litmus 
+  - Litmus
 
-- Tools included under the monthly guidelines: 
+- Tools included under the monthly guidelines:
   - Zoominfo (for more information regarding the Zoominfo process feel free to review the [Process: Monthly ZoomInfo License Review GDoc](https://docs.google.com/document/d/1-_miWHyUPxcgJxoGWTPLI41bVFveBFYjthpW8M3Ui48/edit)
 
 ### Remaining Licenses Communications Plan
 
-The communication plan applies to tools like Zoominfo and Outreach and is created to detail the communications that are sent regarding remaining licenses. It speaks to what communications go out, when they take place and in what format. 
+The communication plan applies to tools like Zoominfo and Outreach and is created to detail the communications that are sent regarding remaining licenses. It speaks to what communications go out, when they take place and in what format.
 
 | **Communication** | **Format** | **Details** | **Owner** |
 |---------------------------------- | ---------- | ------------------------------------- | -------------- |
 | Update on [Mops Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/) whenever comms, format or the owner details get adjusted. | Update Mktgops Handbook and post a notification in #sdrleadership_mktgops slack channel. | Tool owners will update the Mktgops Handbook page whenever the comms, format or owner detail change. In addition, tool owners will post a memo in the #sdrleadership_mktgops slack channel. | Rob Rosu / Gillian Murphy |
 | Monthly Zoominfo/Outreach License Gsheet Update | [GSheet](https://docs.google.com/spreadsheets/d/1jiWuht9gm2GHYpFX24609Ko4K8EEqxp-WI88y2yO2MI/edit#gid=1723653236) | Zoominfo/Outreach owner will update the License Gsheet on a monthly basis. Sales leadership will have access to the GSheet. | Rob Rosu / Gillian Murphy |
 | 5 Licenses Remaining Notification (Zoominfo/Outreach) | In #sdrleadership_mktgops slack channel | When we’re down to 5 Zoominfo/Outreach licenses remaining, a notification will be sent to sales leadership via the #sdrleadership_mktgops slack channel. | Rob Rosu / Gillian Murphy |
-| Quarterly Sales Reps Hiring Plan Update | [SSOT SDR SFDC Hierarchy of Roles](https://docs.google.com/spreadsheets/d/1egLt1RfVNRcGckYkgtkOwdcOqDjdsfcJCsrRiwzxPLY/edit#gid=0) | Sales leadership will update the Sales Rep Hiring plan on a quarterly basis. | Ramona Elliott | 
+| Quarterly Sales Reps Hiring Plan Update | [SSOT SDR SFDC Hierarchy of Roles](https://docs.google.com/spreadsheets/d/1egLt1RfVNRcGckYkgtkOwdcOqDjdsfcJCsrRiwzxPLY/edit#gid=0) | Sales leadership will update the Sales Rep Hiring plan on a quarterly basis. | Ramona Elliott |
 
 ### Working with Sales Systems for New Fields and/or Permission Set Updates
 
@@ -392,7 +392,7 @@ If a field needs to be created in Marketo AND SFDC, it must be created in SFDC f
 If you need assistance with Sales Systems follow the next steps:
 1. Open an [Sales System issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in their project and assign the label `MktgOps/Systems-Request`. Then, add to the corresponding Epic as a related issue, or in the description ([FY23Q4 Example](https://gitlab.com/groups/gitlab-com/-/epics/2043).
 2. Determine the type of request you have:
-    - Fast Track Requests: 
+    - Fast Track Requests:
        1. Permission Set only updates (72 hour SLA w/ Systems)
        2. New Field Creation (1 week SLA w/ Systems)
             - if able, create a changeset in the Marketing Sandbox and link to it in the issue for faster deployment.
@@ -400,7 +400,7 @@ If you need assistance with Sales Systems follow the next steps:
 3. Add [prioritization label](/handbook/marketing/marketing-operations/#labeling) of `MktgOpsPrio::00: Requested`
     - If a *Fast Track* Request, slack #mktgops and tag Amy Waller to flag to the System Prioritization Slack Channel
 4. Prioritization labels will be updated on a regular cadence. If they are labeled `MktgOpsPrio::01: In Queue`, they have been added to the agenda for the Sales Systems Prioritization call that occurs each Tuesday.
-5. Once a milestone is added and the issue is discussed, the label will be updated to `MktgOpsPrio::02: Actioned` by the MktgOps representative that is in the prioritization call. Fast Tracks will often be actioned before the Tuesday call. 
+5. Once a milestone is added and the issue is discussed, the label will be updated to `MktgOpsPrio::02: Actioned` by the MktgOps representative that is in the prioritization call. Fast Tracks will often be actioned before the Tuesday call.
     * Once the label has been updated to `MktgOpsPrio::02: Actioned`, follow along with the Sales Systems labels for next steps.
 6. Systems will first push any updates to the Staging environment first, and will require Business Owner Acceptance before they will deploy to production. This is an important step that represents acceptance of the solution, its testing, and the authority to change the related process.
 7. Once in production, MktgOps should confirm the field/update in SFDC and corresponding/impacted systems.
@@ -536,16 +536,16 @@ One of the following must occur to have a lead move from `Raw` to `Inquiry`
 
 ## Data Cleanliness and Accuracy Process
 
-Marketing Operations has the responsibility for cleaning and enriching our database of leads/contacts with the most complete and up to date information. 
+Marketing Operations has the responsibility for cleaning and enriching our database of leads/contacts with the most complete and up to date information.
 
-The cleaning part of this process is being done with the Cleanse functionality of the lead/contact deduplication tool, Ringlead. 
+The cleaning part of this process is being done with the Cleanse functionality of the lead/contact deduplication tool, Ringlead.
 
-The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data. 
+The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data.
 
-This cleaning & enrichment process has 3 main priorities:  
+This cleaning & enrichment process has 3 main priorities:
 
-1. **Enrich net new leads with Marketo Webhook**  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
-2. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via the Marketo Webhook.  
+1. **Enrich net new leads with Marketo Webhook**  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms.
+2. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via the Marketo Webhook.
 3. **Assure Data Cleanliness & Accuracy** - The Marketing Operations team is following the recommended deduplication order of operations as detailed below:
     * Lead to Lead Deduplication  (*Completed - Runs weekly on Fridays and Saturdays*)
     * Account Deduplication (This part is currently performed using Openprise by Sales Operations)
@@ -556,19 +556,19 @@ This cleaning & enrichment process has 3 main priorities:
 
 For more information regarding our data deduplication process visit the [Ringlead Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/ringlead/).
 
-**Cleaning & Enrichment Frequency:** While the enrichment jobs for net new leads, from our forms, work on a continuous bases, when it comes to enrichment of our existing leads & contacts in SFDC, this is done via scheduled enrichment jobs as follows: 
+**Cleaning & Enrichment Frequency:** While the enrichment jobs for net new leads, from our forms, work on a continuous bases, when it comes to enrichment of our existing leads & contacts in SFDC, this is done via scheduled enrichment jobs as follows:
 
-1. All leads are enriched on a weekly basis, on every Saturday.   
+1. All leads are enriched on a weekly basis, on every Saturday.
 2. All leads created in the last 7 Days are enriched daily to make sure no new leads from list uploads miss enrichment and also to make sure our sales teams have the most up to date information when working them.
-3. All contacts in our SFDC instance get enriched weekly, every Saturday. 
+3. All contacts in our SFDC instance get enriched weekly, every Saturday.
 
-You can find more details on the enrichment process in our [Zoominfo Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/). 
+You can find more details on the enrichment process in our [Zoominfo Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/).
 
 ### Cleaning Test Leads
 
 Testing processes and automation are critical for quality assurance in our systems.
 
-As a tester, you create test leads to ensure processes work as expected. These test leads are mixed among real records, causing inaccuracies in our reporting. Marketing Operations has created best practices that make it easier to spot and delete test leads. 
+As a tester, you create test leads to ensure processes work as expected. These test leads are mixed among real records, causing inaccuracies in our reporting. Marketing Operations has created best practices that make it easier to spot and delete test leads.
 
 The next time you test a program, remember set `Job Title` = `Test` and they will be removed promptly.
 
@@ -578,32 +578,32 @@ Notice any test leads? Please open an [issue](https://gitlab.com/gitlab-com/mark
 
 ### Internal DNC (Do Not Call) Lists
 
-Internal DNC List are maintained using the `Do Not Call` checkbox on the lead/contact record layouts. The sales development organization has a clear process on how and in what context should the box be checked. Please visit the [Sales Development Handbook page - Cold Calling Checklist](https://about.gitlab.com/handbook/marketing/sales-development/#cold-calling-checklist) section to find out more about it. 
+Internal DNC List are maintained using the `Do Not Call` checkbox on the lead/contact record layouts. The sales development organization has a clear process on how and in what context should the box be checked. Please visit the [Sales Development Handbook page - Cold Calling Checklist](https://about.gitlab.com/handbook/marketing/sales-development/#cold-calling-checklist) section to find out more about it.
 
 ### External DNC (Do Not Call) Lists
 
-To be compliant with international DNC (Do Not Call) regulations and minimize the risk of litigation, a process was implemented for making sure the records that appear on external DNC lists are not contacted via phone (this applies to both `Direct Dial Phone Numbers` and `Mobile Phone Numbers`). 
+To be compliant with international DNC (Do Not Call) regulations and minimize the risk of litigation, a process was implemented for making sure the records that appear on external DNC lists are not contacted via phone (this applies to both `Direct Dial Phone Numbers` and `Mobile Phone Numbers`).
 
-This information gets passed to us with the help of Zoominfo, which populates the `[ZI] Do Not Call - Direct Phone` and `[ZI] Do Not Call - Mobile Phone` fields with the `Yes` value whenever a phone number is found to be on an external DNC list. 
+This information gets passed to us with the help of Zoominfo, which populates the `[ZI] Do Not Call - Direct Phone` and `[ZI] Do Not Call - Mobile Phone` fields with the `Yes` value whenever a phone number is found to be on an external DNC list.
 
 With Marketo automation we are then using these two fields to hide the phone number information on the following fields: `[ZI] Phone Number`, `Phone` (standard field - only if it matches the `[ZI] Phone Number` value), `[ZI] Mobile Phone Number` and `Mobile Phone` (standard field - only if it matches the `[ZI] Mobile Phone Number` value).
 
-For more information, please visit this [mural](https://app.mural.co/t/gitlabmops4601/m/gitlabmops4601/1656333829598/2c60a74604bf29d3abb2de06358a36b56a3325a1?sender=u0b94b30ee620c147d6af0933). 
+For more information, please visit this [mural](https://app.mural.co/t/gitlabmops4601/m/gitlabmops4601/1656333829598/2c60a74604bf29d3abb2de06358a36b56a3325a1?sender=u0b94b30ee620c147d6af0933).
 
 ### Zoominfo Opt Out Lists
 
-[Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/) is our SSOT when it comes to data enrichment of our leads/contacts and accounts. 
+[Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/) is our SSOT when it comes to data enrichment of our leads/contacts and accounts.
 
-To be compliant with the latest privacy policies and safeguard our database from potential litigation, Zoominfo's recommendation for contacts that have opted out of their database is to: 
+To be compliant with the latest privacy policies and safeguard our database from potential litigation, Zoominfo's recommendation for contacts that have opted out of their database is to:
 
 >If you have downloaded any of these contact records from ZoomInfo or uploaded them to your internal systems, you must remove >them unless you have an independent lawful basis to possess and use such person's personal data.
- 
+
 **Note:** This only applies for leads/contacts that do NOT currently have an existing business relationship
 
-After collaborating with Gitlab's privacy department, it was decided to create a process for removing said contacts from our database. 
+After collaborating with Gitlab's privacy department, it was decided to create a process for removing said contacts from our database.
 
-The current process takes place on a weekly basis and is implemented with the help of a Marketo Program. It takes advantage of the `Zoominfo Non-Matched Reason` field which is populated by Zoominfo. All leads/contacts that have the  `OPT_OUT` value, enter the process and are checked for additional activites that could qualify as independent lawful basis to be kept. If they lack said activites they will be removed from our database. 
+The current process takes place on a weekly basis and is implemented with the help of a Marketo Program. It takes advantage of the `Zoominfo Non-Matched Reason` field which is populated by Zoominfo. All leads/contacts that have the  `OPT_OUT` value, enter the process and are checked for additional activites that could qualify as independent lawful basis to be kept. If they lack said activites they will be removed from our database.
 
-For more information, please visit this [mural](https://app.mural.co/t/gitlabmops4601/m/gitlabmops4601/1656333829598/2c60a74604bf29d3abb2de06358a36b56a3325a1?sender=u0b94b30ee620c147d6af0933). 
+For more information, please visit this [mural](https://app.mural.co/t/gitlabmops4601/m/gitlabmops4601/1656333829598/2c60a74604bf29d3abb2de06358a36b56a3325a1?sender=u0b94b30ee620c147d6af0933).
 
 If you have any questions or concerns feel free to open an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the Marketing Operations team.
