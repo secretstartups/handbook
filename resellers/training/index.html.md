@@ -144,16 +144,17 @@ This fundamental course is designed for pre-sales technical professionals such a
 GitLab Professional Services Engineer (PSE) certification is a technical deep dive to help partners validate their ability to deliver implementation, migration, and consulting services to customers. This certification consists of six modules. Upon completion learners will possess the skills needed to deploy the GitLab Platform, migrate data to GitLab, and provide workflow advisory services for customers. This certification satisfies the PSE requirement for the GitLab [Certified Professional Services Partner Certification](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-professional-services-partner-requirements).
 
 **Certification Requirements** (approx. 10 hours to complete)
+
 - [Gitlab Implementation Specialist](https://about.gitlab.com/services/pse-certifications/implementation-specialist/)
-- [GitLab Migration Specialist](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-migration-services-engineer/)
-- [GitLab Certified Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/)
-- [GitLab CI/CD Specialist](https://about.gitlab.com/services/education/gitlab-cicd-associate/)
-- [GitLab Security Specialist](https://about.gitlab.com/services/education/gitlab-security-specialist/)
-- [GitLab Project Management Specialist](https://about.gitlab.com/services/education/gitlab-project-management-associate/)
+- [GitLab Certified Migration Services Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-migration-services-engineer/)
+- [GitLab Certified Git Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/)
+- [GitLab Certified CI/CD Associate](https://about.gitlab.com/services/education/gitlab-cicd-associate/)
+- [GitLab Certified Security Specialist](https://about.gitlab.com/services/education/gitlab-security-specialist/)
+- [GitLab Certified Project Management Associate](https://about.gitlab.com/services/education/gitlab-project-management-associate/)
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Accessing Training Materials </span>
 
-All enablement materials can be accessed via the GitLab Partner Portal. Job aides, white papers, and battlecards can be found in the central [library when you log in](https://partners.gitlab.com/prm/English/s/assets). </span>
+All enablement materials can be accessed via the GitLab Partner Portal. Job aides, white papers, and battlecards can be found in the central [library when you log in](https://partners.gitlab.com/prm/English/s/assets).
 
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Enrolling in Accreditation and Certification Courses</span>
