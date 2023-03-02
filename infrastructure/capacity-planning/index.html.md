@@ -164,6 +164,26 @@ If the issue belongs to a specific team, the team label will also be applied.
 ## Examples of Capacity Issues
 
 In this section, we discuss a few capacity planning issues and describe how we applied the process above when addressing them. 
+### redis-cache / redis_primary_cpu potential saturation
+
+[gitlab-com/gl-infra/capacity-planning#364](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/364)
+
+We split out some operations from redis-cache to a new redis-repository-cache instance to reduce our CPU utilisation on redis-cache. We had planned this for weeks in advance due to a capacity planning warning, and we were able to roll this out the day after we had a production page about CPU saturation for redis-cache.
+
+If we hadn't had the capacity planning step in there, we may have noticed this problem much later, and had to scramble to implement mitigations in a high-pressure environment. Instead, we just accelerated our existing timeline slightly, and resolved it with a clean solution.
+
+#### Timeline
+
+1. 2022-09-21: our capacity planning process creates [redis-cache / redis_primary_cpu potential saturation](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/364) to warn about potential future saturation. At this time we noted that it was a risk, but not guaranteed to saturate in the next three months.
+1. 2022-10-20: we create [Introduce Redis Cluster for redis-ratelimiting](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/823) (leading to [Horizontally Scale redis-cache using Redis Cluster](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/878)), representing the long-term solution to this.
+1. 2022-12-05: having [analyzed the workload for Redis Cache](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/857#note_1197165845), we decide to work on [Functional Partitioning for Repository Cache to mitigate Redis saturation forecasts](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/857). This is because [Introduce Redis Cluster for redis-ratelimiting](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/823) will take longer to deliver, and we might not be able to deliver it before the forecast saturation date.
+1. 2022-12-06: we create [Migrate repository cache from redis-cache to new shard on VMs](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/860) to capture the core work in moving data from one Redis instance to another.
+1. 2022-12-14: the new instance is [available for testing in our pre-production environment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/860#note_1209608054).
+1. 2023-01-11: we [confirm that the current capacity forecast](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/857#note_1236188131) does not predict saturation, but we expect this is due to the end-of-year holidays.
+1. 2023-01-27: we roll out the new redis-repository-cache on the `pre` and `gstg` environments in [gitlab-com/gl-infra/scalability#2050](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2050) and [gitlab-com/gl-infra/scalability#2052](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2052).
+1. 2023-01-31: we have a production incident warning of imminent redis-cache CPU saturation in [gitlab-com/gl-infra/production#8335](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8335).
+1. 2023-01-31: we bring in the work to roll out to `gprd` as a result, from [gitlab-com/gl-infra/production#8309](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8309). This was intended to happen the following week [due to staff availability](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/8309#note_1258218604).
+1. 2023-02-10: we have gone from CPU utilisation above 90% to below 70%, and the capacity planning issue ([redis-cache / redis_primary_cpu potential saturation](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/364)) issue automatically closes once the data updates for this partitioning.
 
 ### monitoring / go_memory potential saturation
 
