@@ -37,9 +37,9 @@ This involves close collaboration with [GitLab's CEO](/handbook/ceo/) and [Chief
 
 ### All-Remote Flywheel
 
-The All-Remote Flywheel is focused on continually evolving and refining GitLab's all-remote environment (e.g. tooling, approach to meetings, collaboration, and communication, total rewards/compensation) in order to drive stronger brand awareness, marketing potential, and thought leadership. If our [organizational design principles](https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8) continue to stay ahead of the curve, we're able to lead marketing conversations on all-remote and the future of work. This also drives happier, more efficient team members, and impacts elements such as time-to-hire and team member retention. 
+The All-Remote Flywheel is focused on continually evolving and refining GitLab's all-remote environment (e.g. tooling, approach to meetings, collaboration, and communication, total rewards/compensation) in order to drive stronger brand awareness, marketing potential, and thought leadership. If our [organizational design principles](https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8) continue to stay ahead of the curve, we're able to lead marketing conversations on all-remote and the future of work. This also drives happier, more efficient team members, and impacts elements such as time-to-hire and team member retention.
 
-Strong all-remote marketing may bolster industry trust in the GitLab brand and product due to the [halo effect](https://www.investopedia.com/terms/h/halo-effect.asp). E.g., If [The Remote Playbook](http://allremote.info/) inspires a firm's remote transition blueprint, said firm is likely to show favoritism to GitLab's product offerings and services. 
+Strong all-remote marketing may bolster industry trust in the GitLab brand and product due to the [halo effect](https://www.investopedia.com/terms/h/halo-effect.asp). E.g., If [The Remote Playbook](http://allremote.info/) inspires a firm's remote transition blueprint, said firm is likely to show favoritism to GitLab's product offerings and services.
 
 ```mermaid
 graph BT;
@@ -62,7 +62,7 @@ We believe that the [people practice](/teamops/) and [operating principles](/han
 
 Follow our work and collaborate in the [TeamOps Q4-FY23 Epic](https://gitlab.com/groups/gitlab-com/-/epics/1978).
 
-The team's KR is defined within [GitLab CEO's OKR](/company/okrs/fy23-q4/#okrs). 
+The team's KR is defined within [GitLab CEO's OKR](/company/okrs/fy23-q4/#okrs).
 
 In Q4-FY23, our KR is: **Certify at least 100 GitLab team members and 1 person in each department as TeamOps Trainer: Level 1**
 
@@ -72,16 +72,16 @@ In Q4-FY23, our KR is: **Certify at least 100 GitLab team members and 1 person i
 
 TeamOps Trainers are team members who are internal champions of GitLab’s values, operating principles, and ways of working, inclusive of all functions and departments. They aspire to mentor and share with others GitLab’s ways of working, both inside and outside of the organization.
 
-A TeamOps Trainer transitions through three stages of TeamOps understanding. 1) Recall => 2) Apply => 3) Teach 
+A TeamOps Trainer transitions through three stages of TeamOps understanding. 1) Recall => 2) Apply => 3) Teach
 
-In Q4-FY23, we are hosting TeamOps Trainer Pilot Workshops. 
+In Q4-FY23, we are hosting TeamOps Trainer Pilot Workshops.
 
-The purpose of the first version of this program is to collect feedback and resources as part of a larger go to market strategy, including: 
-- Focus Group – Content testing, feedback, and iteration as beta test before TeamOps is released to the public market with a more formal sales strategy. 
+The purpose of the first version of this program is to collect feedback and resources as part of a larger go to market strategy, including:
+- Focus Group – Content testing, feedback, and iteration as beta test before TeamOps is released to the public market with a more formal sales strategy.
 - Content/Model Prototyping – Test the viability of creating a network of TeamOps representatives for future phases of TeamOps growth. (“Train the Trainer”)
 - Content Creation – Scale content related to TeamOps by empowering all of GitLab to contribute blog posts and social threads.
 
-Creation of and participation in this program also supports the [FY23-Q4 OKR to Grow Careers](https://about.gitlab.com/company/okrs/fy23-q4/) of GitLab team members. 
+Creation of and participation in this program also supports the [FY23-Q4 OKR to Grow Careers](https://about.gitlab.com/company/okrs/fy23-q4/) of GitLab team members.
 
 Apply to become a TeamOps Trainer and learn more about the program in [this GitLab issue](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/cos-team/-/issues/305).
 
@@ -117,7 +117,7 @@ GitLab's overview video on its [all-remote culture](/company/culture/all-remote/
 ### Presentations (slide deck)
 
 
-GitLab's Workplace team collaborated with Brand and Corporate Communications to create a **TeamOps Presentation Template** on Google Slides, entitled [Making Teamwork an Objective Discipline](https://docs.google.com/presentation/d/1jYsr0rFOEUdZlbULmM25qvLOxP7QL5A2tnhio4x3ymw/edit?usp=sharing). Please *make a copy* of this presentation to edit photos and names, personalizing it to your specific need. 
+GitLab's Workplace team collaborated with Brand and Corporate Communications to create a **TeamOps Presentation Template** on Google Slides, entitled [Making Teamwork an Objective Discipline](https://docs.google.com/presentation/d/1jYsr0rFOEUdZlbULmM25qvLOxP7QL5A2tnhio4x3ymw/edit?usp=sharing). Please *make a copy* of this presentation to edit photos and names, personalizing it to your specific need.
 
 You may be asked to give a presentation on how GitLab works as an all-remote team, including requests that are specific to your role (sales, engineering, finance, people, etc.).
 
@@ -257,7 +257,7 @@ The course, titled "[How to Manage a Remote Team](https://www.coursera.org/learn
 
 ### GitLab Remote Work Foundation Certification
 
-Anyone in the world (yes, this includes those who are not employed by GitLab) may take the [GitLab Remote Work Foundation Certification](/company/culture/all-remote/remote-certification/) and [TeamOps practitioner certification](https://levelup.gitlab.com/learn/course/teamops) to improve their remote fluency. 
+Anyone in the world (yes, this includes those who are not employed by GitLab) may take the [GitLab Remote Work Foundation Certification](/company/culture/all-remote/remote-certification/) and [TeamOps practitioner certification](https://levelup.gitlab.com/learn/course/teamops) to improve their remote fluency.
 
 
 
@@ -306,7 +306,7 @@ GitLab's [Brand and Digital Design](/handbook/marketing/digital-experience/) tea
 
 ## Approvals
 
-Any GitLab team member is welcome to offer 1:1 advice or consultations on remote work. **If you're asked to give a broader presentation or webinar to a group, private or public, please create a new issue in Corporate Marketing per the instructions in [How To Contribute](/handbook/marketing/corporate-marketing/#how-to-contribute) with details of the request.**
+Any GitLab team member is welcome to offer 1:1 advice or consultations on remote work. **If you're asked to give a broader presentation or webinar to a group, private or public, please create a [new issue in Corporate Marketing](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new).**
 
 An example of these details in an issue can be found [here](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/2177).
 
@@ -320,7 +320,7 @@ The team will be available to help direct if you feel unprepared, or pair the cr
 
 ### The Remote Playbook by GitLab
 
-[The Remote Playbook by GitLab](https://learn.gitlab.com/allremote/remote-playbook) is our premier guide to understanding and implementing remote work. It has been downloaded over 150,000 times by leaders and teams across the globe. 
+[The Remote Playbook by GitLab](https://learn.gitlab.com/allremote/remote-playbook) is our premier guide to understanding and implementing remote work. It has been downloaded over 150,000 times by leaders and teams across the globe.
 
 ### GitLab Remote Work Report
 
@@ -330,7 +330,7 @@ For example, 86% of respondents believe remote work is the future and 62% of res
 
 ### Work-from-Home Field Guide
 
-The [Work-from-Home Field Guide](/company/culture/all-remote/work-from-home-field-guide/) was co-created by GitLab and Herman Miller. It combines GitLab's expertise on [remote work](https://learn.gitlab.com/allremote/remote-playbook) and [management philosophy](/teamops/) with Herman Miller's deep understanding of workspaces and design. 
+The [Work-from-Home Field Guide](/company/culture/all-remote/work-from-home-field-guide/) was co-created by GitLab and Herman Miller. It combines GitLab's expertise on [remote work](https://learn.gitlab.com/allremote/remote-playbook) and [management philosophy](/teamops/) with Herman Miller's deep understanding of workspaces and design.
 
 ### Remote Work playlist on GitLab Unfiltered
 
@@ -437,7 +437,7 @@ Events should create an inclusive atmosphere, welcoming and beneficial to those 
 
 #### REMOTE by GitLab
 
-We gathered the workplace design community in June 2021 for **REMOTE by GitLab**, a half-day symposium exploring the future of workplace design, strategy, and culture. [Learn more](/company/culture/all-remote/events/#remote-by-gitlab) about the event, and [watch the recorded sessions](https://www.youtube.com/c/Gitlab/playlists?view=50&sort=dd&shelf_id=1). 
+We gathered the workplace design community in June 2021 for **REMOTE by GitLab**, a half-day symposium exploring the future of workplace design, strategy, and culture. [Learn more](/company/culture/all-remote/events/#remote-by-gitlab) about the event, and [watch the recorded sessions](https://www.youtube.com/c/Gitlab/playlists?view=50&sort=dd&shelf_id=1).
 
 [This epic](https://gitlab.com/groups/gitlab-com/-/epics/1219) outlines the workstreams associated with bringing REMOTE by GitLab to life.
 
