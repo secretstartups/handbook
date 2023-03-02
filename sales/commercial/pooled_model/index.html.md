@@ -409,11 +409,33 @@ If the Pooled Customer raises a support ticket, it will be picked up via Zendesk
 
 - If a Pooled AE has capacity, they will click on an open case in the [Pooled Sales Team Queue](https://gitlab.my.salesforce.com/500?fcf=00B8X000009wTi0) and assign it to themselves, by changing the **Case Owner**.
 - Based on the email address entered during case creation, the Contact and Account will be automatically populated on the case. If there is no match, the Pooled AE should manually add in the customer Contact. This will then auto populate the Account field.
-- Information pertaining to the case will be displated in the **Web Form Details Section**, and/ or the **Description** box, based on the trigger that created the case.
+- Information pertaining to the case will be displated in the **Web Form Details Section**, and/ or the **Description** box, based on the trigger that created the case.  If the case was creaetd from a Reactive Trigger (RT), the relevant renewal opportunity will be listed in the **Description** box.
 - Once assigned to a Pooled AE, the **Status** should be set to **In Progress**. This will also update the **Date/ Time First Responded** and **Time to First Response** fields.
 - The **Case Reason** should be updated based on the nature of the customer's request. If the case owner is unsure of what **Case Reason** to select, they can refer to this [document](https://docs.google.com/document/u/0/d/1cWuGo4XCAQmzMBcfUjF7Emr2undkz1ufcUFt4HKmIns/edit).
-- To work the case, the Pooled AE should contact the customer, adding relevant activities to the case, and/ or the related opportunity. They are also able to update the **Notes** field on the case,
+- To work the case, the Pooled AE should contact the customer, adding activities to the case, and relating them to any applicalbe renewal opportunity. They are also able to update the **Notes** field on the case,
 - Once a Case is considered resolved, the **Status** should be set to one of the four Closed options, and the **Resolution Action** updated. This will automatically update the **Date/ Time Closed** field.
 - If applicable, the related opportunity should also be closed. 
 - At any time, a Pooled AE can view their cases by navigating to the **My Cases** list view in Salesforce.
+
+### FAQ
+ 
+Q. 	Will Cases be added to the queue everyday?
+
+A.	Yes, we expect new Cases to be created daily, and to total approx. 80 per month.
+
+Q. 	Can I pick up any Case in the queue?
+
+A.	No, you must pick up the oldest Case currently in the queue.
+
+Q.	Is there an SLA in place?
+
+A.	Yes, all Cases should be picked up and responded to within 24 hours (8 business hours) of entering the queue.
+
+Q.	What happens if a Case comes into the queue, and another Pooled AE is working a case under the same Account?
+
+A.	In this scenario, the new Case will automatically assigned to the owner of the current open case.  Regardless, when picking up a case you should check the account to double check no open Pooled Sales Cases exist on the case.
+
+Q.  Where can I provide feedback on this model/ process?
+
+A.  Please submit all feedback via the #self_service_ae_feedback_loop slack channel
 
