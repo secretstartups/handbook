@@ -72,7 +72,7 @@ We are moving [group-level IP restriction](https://docs.gitlab.com/ee/user/group
 ----
 GitLab's user conference, **[Commit](https://about.gitlab.com/events/commit/), is coming soon** (virtual and in-person) and our [Call For Papers](https://docs.google.com/forms/d/e/1FAIpQLSe9_KaaOE0vnMVkAOLSg58V_4WiJffiFsVRpDO904Q4slpZSg/viewform) is open. Have a contact that should apply? Let them know! Deadline is June 1.
 
-See the [main epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/668) for full details, and learn more about [spiffs for participants](/handbook/marketing/corporate-marketing/#customer-speakers).
+See the [main epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/668) for full details.
 
 ### What's New in GitLab 🚀
 The GitLab 12.10 release just went live! Here are the takeaways for customers and prospects:
