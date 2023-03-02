@@ -37,7 +37,7 @@ This is not meant to limit creativity. It's a [boring](/handbook/values/#boring-
 | 2023-03-06   | [Siddharth Mathur](https://gitlab.com/smathur-gl) |                                                          |              |
 | 2023-03-13   | [Sophia Manicor](https://gitlab.com/smanicor)     |                                                          |              |
 | 2023-03-20   | [Sam Morris](https://gitlab.com/sam)              | CI and Secure in Mono-Repos                              |              |
-| 2023-03-27   |                                                   |                                                          |              |
+| 2023-03-27   | [Michael Balzer](https://gitlab.com/mbalzer)      |                                                          |              |
 | 2023-04-03   | [Cailey Pawlowski](https://gitlab.com/cpawlowski) | Analytics for Premium GitLab Users                       |              |
 | 2023-04-10   |                                                   |                                                          |              |
 | 2023-04-17   | [Julie Byrne](https://gitlab.com/juliebyrne)             |  Preparing for a GitLab data migration  | Blog, related [video](https://youtu.be/L11mZqQKuwo) already created |
