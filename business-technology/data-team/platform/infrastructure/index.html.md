@@ -42,6 +42,7 @@ As an example consider the DAG and task naming for the `gitlab_com_db_extract` D
 Starting with Summer of 2021 we've introducted a more abbreviated, but hopefully equally descriptive way of describing some of the most common DAGs we create and this convention should be used in all DAG created since. Please use a prefix to indicate whats performed by that DAG. For example, if we had created the gitlab extract DAG after this convention it should be named `el_gitlab_com_db_extract` since it performs both extraction and loading phases, whereas `greenhouse_extract` would be `l_greenhouse` as it only loads extracted data from S3 into Snowflake.
 
 List of prefix indicators
+
 | Prefix | Indicator |
 | ------ | --------- |
 | `e`    | Extract   |
