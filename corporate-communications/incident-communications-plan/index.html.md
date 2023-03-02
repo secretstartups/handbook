@@ -119,7 +119,7 @@ A number of these recommendations directly or indirectly align with [GitLab’s 
 
 Additionally, we need to be sure we:
 - Communicate early and often, [as much as necessary](/handbook/values/#iteration)
-- Always use the [GitLab brand voice](/handbook/marketing/corporate-marketing/#brand-personality)
+- Always use the [GitLab brand voice](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/)
 
 #### Meet Stakeholders Where They Are
 
