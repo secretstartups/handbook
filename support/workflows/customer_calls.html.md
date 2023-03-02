@@ -186,7 +186,7 @@ It's important to remember that customers also don't want to waste time on calls
 
 Having a customer engaged in forming the agenda for the call will help you do research and be well prepared. Ask the customer for (or prepare your own set of) questions that will need to be answered during the call. Once you have a list, (to the extent that time allows) answer them prior to the call within the ticket or provide instructions for how the customer can answer them for you.
 
-For each item on your call agenda, seek to find a way to shift towards an async workflow to complete it prior to the call. For example, if the customer wants a call to demonstrate an issue: ask them to record their screen while reproducing the issue and tailing logs, then and attaching the recording and relevant logs.
+For each item on your call agenda, seek to find a way to shift towards an async workflow to complete it prior to the call. For example, if the customer wants a call to demonstrate an issue: ask them to record their screen while reproducing the issue and tailing logs, and then attach the recording and relevant logs.
 
 This will (potentially):
 - let you more deeply engage the customer in troubleshooting asynchronously
@@ -338,4 +338,4 @@ See more tips on our [All Remote Workspace page](/company/culture/all-remote/wor
 
 #### Krisp.ai License for GitLab Support Team
 
-[Krisp.ai](https://krisp.ai/) will mute background noise when you're in a noisy environment so you can hear and be heard more easily on calls. You may consider installing this app for your calls. GitLab Support team has a [Teams Pro license](https://krisp.ai/pricing/). If you are interested in getting one, kindly leave a comment at [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3773). Currently, it is unavailable for Linux.
+[Krisp.ai](https://krisp.ai/) will mute background noise when you're in a noisy environment so you can hear and be heard more easily on calls. You may consider installing this app for your calls. GitLab Support team has a [Teams Pro license](https://krisp.ai/pricing/). If you are interested in getting one, kindly leave a comment at [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4642). Currently, it is unavailable for Linux.
