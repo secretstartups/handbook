@@ -41,6 +41,31 @@ For Sales teams, we use this escalation path:
 - [Duplicate records in `Instance Data` table](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/255)
 - [Snowflake > Gainsight connector - known data issues](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/98)
 
+
+## Account Classification Fields (FY24)
+
+With some changes made in FY24, some fields used in Gainsight for account classification purposes have shifted. In order to align more with the Sales org, the same fields with the same naming conventions that are used in Salesforce are now being used in Gainsight.
+
+### Fields no longer used in Gainsight
+
+|Field                             | Description                                                                                                                                           | 
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CSM Team                         | The team name of the CSM. This field is now exclusively used for comp and is no longer used in Gainsight.                                             |
+| CSM Segment                      | The CS-defined segment. This was used in FY23 but no longer applies in FY24, so is no longer used in Gainsight                                        |
+| Account Owner Team               | The team name of the Sales account owner on the account. This field is no longer used or maintained in Salesforce, and is no longer used in Gainsight.|
+
+### Fields Used Now in Gainsight
+ 
+|Field                             | Description                                                                                       | Example Values                    |
+|----------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------|
+| Sales Segment                    | The sales-determined segment based on employee count                                              | Large, Mid-Market, SMB, PubSec    |
+| Account Demographics: Geo        | The general location in the world the account is located                                          | AMER, EMEA                        |
+| Account Demographics: Region     | If applicable, a more specific location within a Geo                                              | WEST, DACH                        | 
+| Account Demographics: Business Unit | The type of business                                                                           | ENTG, COMM                        |
+| Account Demographics: Role Type  | Which type of team will work with the account                                                     | MAJ, STR, KEY, TERR               |
+| PubSec Type                      | Determines if an account is a PubSec account and where it is located in the world (US vs non-US)  | US-PubSec, ROW-PubSec             |
+
+
 ## Gainsight User Provisioning
 
 Users must first be set up in Salesforce in order to sync to Gainsight. Certain provisioning and licensing also must be done in Salesforce before the user can be set up in Gainsight correctly.
