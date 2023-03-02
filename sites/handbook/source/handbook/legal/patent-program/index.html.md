@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Patent Program"
-description: "Learn about GitLab's Patent Program"
+title: "Patents"
+description: "Learn about Patents and GitLab's Patent Program"
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
@@ -11,10 +11,6 @@ description: "Learn about GitLab's Patent Program"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-
-## Innovation at GitLab
-
-Innovation is key to GitLab’s success. The GitLab Patent Program seeks to maximize the competitive and commercial value of GitLab’s intellectual property rights and capitalize on the time and effort invested by team members in developing patentable inventions. The Program establishes a process to systematically identify valuable inventions, assess their patentability and, where appropriate, enable successful prosecution and registration of a patent covering the invention.
 
 ## Why patents?
 
@@ -36,7 +32,11 @@ GitLab holds the following registered patents:
 - US patents [9,767,005](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22peach+fuzzer%22.ASNM.&OS=AN/%22peach+fuzzer%22&RS=AN/%22peach+fuzzer%22) and [9,098,352](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9098352.PN.&OS=PN/9098352&RS=PN/9098352), Chinese patent [104346277A](http://ensearch.cnipr.com.cn/sipo_EN/search/detail.do?method=view&parm=16b414c21a2f19d11b2c18401bcd1a5f183a19461ad91be11a601c4c07792e231f4c21ba22572195236c20482755275723ca24be2221222525702494250d26c0274025822c3f29092a7c29a02d6d2d6f28fa2ed62bd12c892f482c34330947932f5c2c0a2ac731b9333c316c366534e7318235ee337934f1360837f03747371b371a34e231bf38f13b04390c3e0d3f6f39ea3dc63c573d6d3e683e4c26d918c33ffe3c523c273e354334405c47c545774302408e4423458947b84688462d46a946c846aa436f47554bcc49784a2d), and pending European patent application [14175419.2](https://register.epo.org/espacenet/regviewer?AP=14175419&CY=EP&LG=en&DB=REG) covering _metaphor based language fuzzing of computer code_
 - US patent [9,323,597](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=%22peach+fuzzer%22.ASNM.&OS=AN/%22peach+fuzzer%22&RS=AN/%22peach+fuzzer%22) covering _flow based fault testing_
 
-## Patent Awards
+## GitLab's Patent Program
+
+Innovation is key to GitLab’s success. The GitLab Patent Program seeks to maximize the competitive and commercial value of GitLab’s intellectual property rights and capitalize on the time and effort invested by team members in developing patentable inventions. The Program establishes a process to systematically identify valuable inventions, assess their patentability and, where appropriate, enable successful prosecution and registration of a patent covering the invention.
+
+### Patent Awards
 
 As a recognition of the efforts of team members who develop inventions for GitLab, named inventors who contribute patentable inventions under the Patent Program may be eligible for Patent Awards totalling $1,750 U.S. dollars, as follows:
 - Level One Patent Award: $250 for each named inventor on each patent application submission accepted for filing by GitLab, payable after acceptance.
@@ -44,20 +44,37 @@ As a recognition of the efforts of team members who develop inventions for GitLa
 - Level Three Patent Award: $1,000 for each named inventor on each patent issued to GitLab, payable after patent issue.
 
 
-## How to participate
+### How to participate
 
-To disclose an invention, complete an [Invention Disclosure Form](https://docs.google.com/document/d/1BndxggJyA3aMdYav-ghNwpTdNcfgJcrHFRlT6u8KFD8/copy) and email it to [patent-program@gitlab.com](mailto:intellectualproperty@gitlab.com).
+To disclose an invention, complete an [Invention Disclosure Form](https://docs.google.com/document/d/1BndxggJyA3aMdYav-ghNwpTdNcfgJcrHFRlT6u8KFD8/copy) and email it to [patent-program@gitlab.com](mailto:patent-program@gitlab.com).
 
-The Invention Disclosure Form **must not be shared outside GitLab, even to former GitLab team members**. If the input of a former GitLab team member is required to complete the form, contact [patent-program@gitlab.com](mailto:intellectualproperty@gitlab.com) to discuss before proceeding.
+* To disclose an improvement to an invention, complete an [Invention Improvement Disclosure Form](https://docs.google.com/document/d/1SEt7Wf2RRk1y_x9Ho1Q504LFQjqEJxlK/copy) and email it to patent-program@gitlab.com. 
 
-You should submit an Invention Disclosure Form any time you think you may have made an invention. **The sooner you submit the Form, the better.** Since you may be overly conservative in determining what constitutes an invention, you should submit a Form even if you aren’t sure that your work is sufficiently novel to be an invention. So, err on the side of disclosing, leaving it to the Legal Team, and our external patent specialists, to decide whether to file, retain as a trade secret, or publish to preempt.
+The Invention Disclosure and Invention Improvement Disclosure forms  must not be shared outside GitLab, even to former GitLab team members. If the input of a former GitLab team member is required to complete either form, contact patent-program@gitlab.com to discuss before proceeding.
 
-In order to maintain the confidentiality of your invention, do not discuss it on a public or even confidential GitLab issue or on any slack channels - all correspondence concerning the invention should take place via [patent-program@gitlab.com](mailto:intellectualproperty@gitlab.com).
+You should submit an **Invention Disclosure Form** any time you think you may have created a new, inventive process, product, or product feature. Since you may be overly conservative in determining what constitutes an invention, or an improvement to an invention, you should submit the applicable Form even if you aren’t sure that your work is sufficiently novel to be an invention or improvement. 
 
-Also, for related guidance on how to review third-party patent functionality, visit the [Guidelines for reviewing third-party patents](https://internal-handbook.gitlab.io/handbook/legal-and-corporate-affairs/legal-and-compliance/productguidance/#guidelines-on-reviewing-third-party-patents) (accessible to team members only).
+You should submit an **Invention Improvement Disclosure Form** anytime you think you have made a novel improvement to a previously disclosed invention. 
 
-## Conditions of participation
+The sooner you submit the applicable Form, the better. Always err on the side of disclosing, leaving it to the Legal and Corporate Affairs Team, and our external patent specialists, to decide whether to file, retain as a trade secret, or publish to preempt.
 
+### Discussion of inventions and improvements to inventions
+
+Follow the guidelines below related to the discussion of inventions, treatment of underlying source code, and software licensing throughout the stages of patent prosecution:
+
+
+| Patent Process Stage                                                                                                                                     | Default Treatment of Underlying Software Code   | Public discussion of the Invention?                                                                                                                        | Underlying Software Code License                                                                                            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Discovery: Team member has identified a potential invention and has completed or plans to complete an Invention Disclosure Form                          | Closed source.                                  | All discussions related to an invention in the Discovery phase should be kept [internal](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal) (only accessible to team members).                                  | Software should not be released until the application is filed.                                                             |
+| Patent application has been filed                                                                                                                        | Open source or source available as appropriate. | The invention may be discussed publicly. Do not discuss the patent application itself, including statements about what the application seeks to protect.   | Software can be licensed under the EE or MIT license with no additional considerations required from a patent perspective.  |
+| Granted patent                                                                                                                                           | Open source or source available as appropriate. | The invention may be discussed publicly. Do not discuss the patent itself, including statements about what the patent protects.                            | Software can be licensed under the EE or MIT license with no additional considerations required from a patent perspective.  |
+| Improvement to existing or pending patents                                                                                                               | Closed source.                                  | All discussions related to the improvements of existing or pending patents should be kept [internal](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal) (only accessible to team members).                      | Software should not be released until the application is filed.                                                             |
+| Rejected patents. This includes disclosed inventions and improvements that are determined to not qualify for patent protection as communicated by LACA.  | Open source or source available as appropriate. | The rejected patent may be discussed publicly.                                                                                                             | Software can be licensed under the EE or MIT license with no additional considerations required from a patent perspective.  |
+
+If you have any questions or concerns, reach out to #legal.
+For guidance on how to review third-party patent functionality, visit the [Guidelines for reviewing third-party patents](https://internal-handbook.gitlab.io/handbook/legal-and-compliance/productguidance/#guidelines-for-reviewing-third-party-patents) (accessible to GitLab team members only).
+
+### Conditions of participation
 - Inventors must be current GitLab Team Members to participate in the GitLab Patent Program and be eligible for the receipt of Patent Awards.
 - GitLab may change or terminate the Program at any time.
 - GitLab reserves the right in its sole discretion to decide whether to file for a patent on submissions or retain submissions as a trade secret or publish to preempt.
