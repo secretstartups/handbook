@@ -21,6 +21,15 @@ In addition to leading development for these development sub-departments, I also
 * Public speaking on various topics
 * Mentoring inside and outside of GitLab
 
+# Prioritization and results philosphy
+
+* Teams determine high confidence due dates on the highest priority items.
+* Teams do a [blameless RCA](/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html) if those due dates are significantly missed. 
+* Teams say no to or deprioritize lower priority things in order to deliver [results](/handbook/values/#efficiency) on the highest priority items.  
+* Teams depend on their [stable counterparts](/blog/2018/10/16/an-ode-to-stable-counterparts/) in product management, quality, and design to help with deciding on priorities and then achieving them
+* Teams publish weekly updates on the highest priority items to keep the focus on them and to keep them on track
+
+
 # Background
 
 I’m a veteran of three successful startups (including GitLab) and have experience in multiple areas, including healthcare, finance, and security.
@@ -60,11 +69,6 @@ Links about Wayne:
 * I prefer that, when feasible, all recorded meetings should be made public on GitLab Unfiltered. I continue to be pleaseantly surprised by how this can increase collaboration inside and outside the team.
 * I always try to explain the “why". Engineers are often asked to focus on the “what” and “how”.  However, explaining the "why" makes sure they are engaged and also enables the engineers to find better ways to achieve the goals.
 
-# Video meetings
-
-* I am working on interrupting people less, slowing down my pace, and pausing more often. I am working on these things to increase the clarity of what I am communicating. In particular, rather than interrupting a speaker when I have something to say, I am trying to indicate that via non-verbal communication via video.
-* When on video, I will sometimes use the Zoom emoji feature rather than interrupting the speaker to express my feedback on something.
-
 # Engineering Director shadow program
 
 I created and continue to operate the [Engineering director shadow program](/handbook/engineering/development/shadow/director-shadow-program.html), which allows anyone at GitLab to shadow me for a week and provides mentoring, learning opportunities, and career development exploration.
@@ -82,13 +86,21 @@ Corresponding handbook pages:
 * [Data Science](https://about.gitlab.com/handbook/engineering/development/data-science/#dashboards)
 * [Growth](https://about.gitlab.com/handbook/engineering/development/growth/#cross-functional-backlog)
 
+# What I am working on improving
+
+Please be an [accountability partner](https://medium.com/@MaryLouWrites/accountability-partners-what-are-they-and-how-do-i-get-some-c5ebd1a828ef) for me on the following items:
+
+* When I make requests or ask questions, always include the priority and expected time frames 
+* Avoid asking questions in public formus that inadvertently create high priority work because they are interpreted as high priority because I am asking (when that is not what I intended)
+* Use my [standing desk](https://www.webmd.com/fitness-exercise/standing-desks-help-beat-inactivity) at least two hours a day.
 
 # 2023 Q1 OKRs
 
 [OKR Search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=wayne&type%5B%5D=objective&milestone_title=FY24-Q1&first_page_size=20)
 
 Themes:
-* Application health (error budgets, Rails upgrade, Vue upgrade, improve observability, etc)
-* Team member career growth (training, yearly assessment followup, complete BIC gap analysis, etc)
-* Mature the Platform to be the leading DevSecOps platform  (Use GitLab for OKRs, team MR rate, etc)
-* Increase revenue by growing a customer result mindset and delivering results (key secure/govern/data science feature delivery, reduce customer facing bugs, and stay ahead of SLA on security issues)
+* Application health: Error budgets, Rails upgrade, Vue upgrade, Improve observability
+* Team member career growth: Training, Yearly assessment followup, Complete Best In Class (BIC) gap analysis
+* Mature the Platform to be the leading DevSecOps platform: Use GitLab for OKRs, Team MR rate
+* Increase revenue by growing a customer result mindset and delivering results: Key secure/govern/data science feature delivery, Reduce customer facing bugs, Stay ahead of SLA on security issues
+
