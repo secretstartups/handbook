@@ -102,7 +102,7 @@ The training environment disables code quality scanning by default. This section
 1. In the left navigation pane, click **CI/CD > Pipelines**.
 1. Wait for the most recent pipeline to show **passed** status. This might take as long as 5 minutes.
 1. In the left navigation pane, click **Merge requests**. Click the **Draft: Branch A** MR to see the MR details page.
-1. Half-way down the MR details page, it says **No changes to code quality**. If you refresh the page, the pane will change to say **Code quality improved on 2 points**. This means you have fixed 2 code quality problems on **branch-A** which remain unfixed on **main**.
+1. Half-way down the MR details page, if it says **No changes to code quality**, you may have to refresh the page.  The pane should say **Code Quality scans found 2 fixed findings.**. This means you have fixed 2 code quality problems on **branch-A** which remain unfixed on **main**.
 1. **Expand** the code quality pane to see the code quality problems you fixed on **branch-A**.
 1. To transport or save the results of code quality scanning, the json artifact is available on the Pipelines page by clicking on the verticle ellipses right of the page.  
 
