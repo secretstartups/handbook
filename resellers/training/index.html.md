@@ -153,7 +153,7 @@ GitLab Professional Services Engineer (PSE) certification is a technical deep di
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Accessing Training Materials </span>
 
-All enablement materials can be accessed via the GitLab Partner Portal. Job aides, white papers, and battlecards can be found in the central [library when you log in](https://partners.gitlab.com/prm/English/s/assets). </span>
+All enablement materials can be accessed via the GitLab Partner Portal. Job aides, white papers, and battlecards can be found in the central [library when you log in](https://partners.gitlab.com/prm/English/s/assets).
 
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Enrolling in Accreditation and Certification Courses</span>
