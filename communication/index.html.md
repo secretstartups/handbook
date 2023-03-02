@@ -114,11 +114,11 @@ At GitLab, we are [public by default](/handbook/values/#public-by-default), but 
 
 The above examples overlap with the [GitLab's SAFE Framework](/handbook/legal/safe-framework/) examples. We recommend you to further review that page for more information and context.
 
-### What are the risks? 
+### What are the risks?
 
 1. **Legal risk:** These are the risks that arise from regulations and laws that govern GitLab or the market in which it operates. This includes content that would compromise a GitLab team member, customer, or user's personal data and/or privacy.
 1. **Morale risk:** Raising GitLab sensitive topics that may be misinterpreted without the opportunity to ask clarifying questions can create risk to team culture and/or morale.
-1. **PR risk:** Remember that anything you document could ultimately be shared/viewed externally. Consider that a discussion in a public MR or issue is a demonstration of our [values](https://about.gitlab.com/handbook/values/) to those outside of GitLab who are looking to learn more about how we collaborate. 
+1. **PR risk:** Remember that anything you document could ultimately be shared/viewed externally. Consider that a discussion in a public MR or issue is a demonstration of our [values](https://about.gitlab.com/handbook/values/) to those outside of GitLab who are looking to learn more about how we collaborate.
 
 We encourage communicating risks to GitLab, its team members, or customers in a synchronous 1:1 setting.
 
@@ -540,16 +540,16 @@ If folks are involved in a meeting and have capacity to do so, they should take 
 1. Meetings at GitLab should have notes (for a single source of truth and to enable async participation among other reasons)
 1. In the absence of this joint commitment to note-taking, this is the type of work that is likely to fall disproportionately to [underrepresented groups](https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/may/09/they-feel-guilty-why-women-should-say-no-to-office-housework). This is not in line with our [diversity, inclusion, and belonging value](/company/culture/inclusion/).
 
-It may look like a few people are already taking notes, do not see this as a deterrent for helping. Initial note takers may be first to show up and then see it as their responsibility to continue if no one else is stepping in. 
+It may look like a few people are already taking notes, do not see this as a deterrent for helping. Initial note takers may be first to show up and then see it as their responsibility to continue if no one else is stepping in.
 
 While meetings recordings are helpful, written notes are more efficient to read and offer greater opportunities for async engagement. Takes notes even when a meeting is being recorded.
 
 #### Engaging EBAs in note-taking
-[GitLab Executive Business Administrators](/handbook/eba/) sometimes support teams by taking notes. Since note taking takes time away from their other activities and can often be done by other folks, consider the following before engaging an EBA in a meeting solely for note taking purposes. 
+[GitLab Executive Business Administrators](/handbook/eba/) sometimes support teams by taking notes. Since note taking takes time away from their other activities and can often be done by other folks, consider the following before engaging an EBA in a meeting solely for note taking purposes.
 
 1. Can the folks already in this meeting cover note taking responsibilities, or is there a reason to engage an EBA in this capacity?
 1. Can other folks be identified ahead of time or at the start of the meeting to ensure adequate coverage?
-1. How does this stack against the EBAs other priorities? You can check directly with the EBA or their manager. 
+1. How does this stack against the EBAs other priorities? You can check directly with the EBA or their manager.
 
 ### Smart note taking in meetings
 
@@ -561,7 +561,7 @@ Consider the following best practice when taking notes in meetings:
 1. Note-taking can be a lot for a single person to stay on top of--especially when there is a fast moving conversation with many speakers. Team members should still feel empowered to contribute by helping with notes as needed, even if there is someone assigned.
 1. Ask others to scribe answers in real-time to allow the person who asked the question to focus on the answer. Touch up the answer when the conversation has moved on to something less relevant.
 1. It can be hard to keep up with the dialog and capture quality notes when there's fast back and forth conversation. Lead by example and write when you're not talking, expect others will write when you're talking.
-1. Focus on noting speakers and their key points over capturing all words said. Extensive note-taking should not happen at the expense of correct note-taking. 
+1. Focus on noting speakers and their key points over capturing all words said. Extensive note-taking should not happen at the expense of correct note-taking.
 1. [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for audio-only playbacks.
 1. Use discretion in taking notes if sensitive topics are being discussed. For example, do not takes notes on [not-public information](/handbook/communication/confidentiality-levels/#not-public) if the agenda may be available to an audience who should not be privy to this information.
 1. If someone requests folks to stop taking notes, stop for the duration of the discussion unless there is verbal confirmation that note-taking should resume. Ask for the confirmation before typing before you resume note-taking.
@@ -571,7 +571,7 @@ If you have any questions about what may or may not be a sensitive topic, please
 
 ### No presenting in meetings
 
-[Presenting](/handbook/communication/#common-meeting-problems) during meetings requires valuable synchronous time. Instead, recorded presentations make content accessible, prevent confusion, and increase participation for team members that prefer consuming content [asynchronously](/handbook/values/#bias-towards-asynchronous-communication). Remember it is not required to have a presentation or have a pre-recorded presentation. 
+[Presenting](/handbook/communication/#common-meeting-problems) during meetings requires valuable synchronous time. Instead, recorded presentations make content accessible, prevent confusion, and increase participation for team members that prefer consuming content [asynchronously](/handbook/values/#bias-towards-asynchronous-communication). Remember it is not required to have a presentation or have a pre-recorded presentation.
 
 In the video below, GitLab CEO Sid Sijbrandij explains why there are no presentations in meetings.
 
@@ -598,9 +598,9 @@ There are times when presenting during a meeting is needed. This may occur when 
 
 **Best Practices for Pre-Recorded Presentations**
 
-1. Use Zoom to create a pre-recorded video presentation. 
-1. Post the recrding to the GitLab [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and attach it to the meeting agenda. 
-1. At least 24 hours in advance of the meeting, announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand. 
+1. Use Zoom to create a pre-recorded video presentation.
+1. Post the recrding to the GitLab [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and attach it to the meeting agenda.
+1. At least 24 hours in advance of the meeting, announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand.
 
 ### Meeting introduction guidelines
 
@@ -663,20 +663,20 @@ The following chart shows some helpful suggestions/considerations for scheduling
 
 ##### APAC/AMER
 
-| Timezone    | Start    | End     | 
-|-------------|----------|---------| 
+| Timezone    | Start    | End     |
+|-------------|----------|---------|
 | Sydney      | 09:00 AM | 11:00AM |
 | Tokyo       | 08:00 AM | 10:00AM |
-| Hong Kong   | 07:00 AM | 09:00AM | 
-| Ho Chi Minh | 07:00 AM | 08:00AM | 
-| PST         | 04:00 PM | 06:00PM | 
-| EST         | 07:00 PM | 09:00PM | 
+| Hong Kong   | 07:00 AM | 09:00AM |
+| Ho Chi Minh | 07:00 AM | 08:00AM |
+| PST         | 04:00 PM | 06:00PM |
+| EST         | 07:00 PM | 09:00PM |
 
 ##### EMEA/APAC
 
 | Timezone          | Start    | End      |
-| ------------------|----------|----------| 
-| Lisbon/Dublin     | 08:00 AM | 10:00 AM | 
+| ------------------|----------|----------|
+| Lisbon/Dublin     | 08:00 AM | 10:00 AM |
 | Paris/Rome        | 09:00 AM | 11:00 AM |
 | Istanbul/Tel Aviv | 10:00 AM | 12:00 PM |
 | Mumbai            | 12:30 PM | 02:30 PM |
@@ -1000,11 +1000,11 @@ Watch the replay below:
 
 ### Communicating dates and time
 
-> **Note**: This handbook section is the [Single Source of Truth (SSoT)](/handbook/values/#single-source-of-truth) for communicating dates and time at GitLab. The [all-remote playbook](/company/culture/all-remote/effective-communication/#communicating-dates-and-time) links here. 
+> **Note**: This handbook section is the [Single Source of Truth (SSoT)](/handbook/values/#single-source-of-truth) for communicating dates and time at GitLab. The [all-remote playbook](/company/culture/all-remote/effective-communication/#communicating-dates-and-time) links here.
 
-1. {: #iso-dates} Always use [ISO dates](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) in all writing and legal documents since other formats [lead to online confusion](http://xkcd.com/1179/). 
-   1. Use `yyyy-mm-dd`, for example 2015-04-13, and never 04-13-2015, 13-04-2015, 2015/04/13, 20150413, 2015.04.13, nor April 13, 2015. Even if you use an unambiguous alternative format it is still harder to search for a date, sort on a date, and for other team members to know we use the ISO standard. 
-   1. For months use `yyyy-mm`, so 2018-01 for January. 
+1. {: #iso-dates} Always use [ISO dates](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) in all writing and legal documents since other formats [lead to online confusion](http://xkcd.com/1179/).
+   1. Use `yyyy-mm-dd`, for example 2015-04-13, and never 04-13-2015, 13-04-2015, 2015/04/13, 20150413, 2015.04.13, nor April 13, 2015. Even if you use an unambiguous alternative format it is still harder to search for a date, sort on a date, and for other team members to know we use the ISO standard.
+   1. For months use `yyyy-mm`, so 2018-01 for January.
    1. Refer to a year with CY18 (never with 2018) and a quarter with CY18-Q1 to prevent confusion with fiscal years and quarters. If the year is obvious from the context it is OK to use Dec 4, but not 12/4, since the ordering isn't obvious when using two numbers but when naming the month it is clear that the number is the day of the month.
    1. **Note:** The blog uses Associated Press Style for dates as its guide because it's a publication. See the [editorial guidance](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#dates) for how to format dates in the blog.
 1. GitLab operates on a [Fiscal Year](/handbook/finance/#fiscal-year) offset from the calendar year. When referring to a fiscal year or quarter, please use the following abbreviations:
@@ -1013,11 +1013,11 @@ Watch the replay below:
    1. When referring to a quarter in a future or past year, combine the two above: "FY21-Q1"
    1. When financial data is presented include a note to indicate fiscal year (e.g. "Fiscal Year ending January, 31 'yy")
 1. We recommend considering documenting times in UTC in addition to Pacific in engineering and product management.  We recommend this because these teams often span more than three time zones, the standard is for systems to log information in UTC (which is used when documenting production root cause analysis), and it is useful to do so when coordinating cross-functional activities related to the monthly release.
-   1. Tip: It can be helpful to add UTC as a [secondary timezone in your Google calendar](/handbook/tools-and-tips/#time-zone). 
+   1. Tip: It can be helpful to add UTC as a [secondary timezone in your Google calendar](/handbook/tools-and-tips/#time-zone).
 1. We use Pacific Time (PT) for all other uses since we are a San Francisco-based company.
-   1. Tip: You can [add multiple local times](/handbook/tools-and-tips/#world-clock) from other team members' time zone to your calendar sidebar. For macOS, additional [utilities](/handbook/tools-and-tips/mac/#macos-utilities) can help with timezone visualization and conversion. 
+   1. Tip: You can [add multiple local times](/handbook/tools-and-tips/#world-clock) from other team members' time zone to your calendar sidebar. For macOS, additional [utilities](/handbook/tools-and-tips/mac/#macos-utilities) can help with timezone visualization and conversion.
 1. We communicate time using the [12-hour clock format](https://en.wikipedia.org/wiki/12-hour_clock). As such, make sure to include `AM` or `PM`.
-   1. Please refer to time as `9:00 AM Pacific` or `9:00 PM PT` as well as `9:00 AM UTC` (for engineering and product related items). It isn't often necessary to specify whether a timezone is currently observing Daylight Saving Time, and such references are often incorrect, so prefer "PT" to "PDT" or "PST" unless you have a specific need to differentiate between PDT and PST. 
+   1. Please refer to time as `9:00 AM Pacific` or `9:00 PM PT` as well as `9:00 AM UTC` (for engineering and product related items). It isn't often necessary to specify whether a timezone is currently observing Daylight Saving Time, and such references are often incorrect, so prefer "PT" to "PDT" or "PST" unless you have a specific need to differentiate between PDT and PST.
 1. Please remember that not everyone is working in the same timezone; what may be morning for you is evening for someone else. Try to say 3 hours ago or 4 hours from now, or use a timestamp, including a timezone reference.
 
 ### Visuals
@@ -1381,14 +1381,14 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#women`                             | Employee resource group for members and allies.                                                                                                                                                                                      |
 
 #### Questions
- 
+
 If you have a question that you can’t find the answer to in our handbook (or you need help finding something in the handbook) team members across the company are here to help.
- 
+
 If your question relates to one or more of the following topics, go directly to the subject matter experts/source in the designated slack channel to ensure your question is addressed.
- 
+
 Are you a subject matter expert in your role or knowledgeable in a topic-specific channel on Slack? Add the topic and channel to the grid so team members know where to go if they have questions on that topic.
- 
- 
+
+
 | Topic                              | Ask your question in                                                                                                                                                                                                                              |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Any People Team related questions                       | `#people-connect`                                                      |
@@ -1407,11 +1407,11 @@ Are you a subject matter expert in your role or knowledgeable in a topic-specifi
 | Security | `#security` |
 | Stock options, RSUs, vesting schedule                           | `#stock-admin`                                                                                     |
 | Using Git in the terminal                         | `#git-help`                 |
- 
+
 If your question doesn’t relate to any of the above topics:
 
 - Ask it in the `#questions` Slack channel
-- Once you receive an answer, document it in the handbook and post the MR link in your question thread 
+- Once you receive an answer, document it in the handbook and post the MR link in your question thread
 - :heavy_check_mark: once you’ve been helped
 
 ### Random
@@ -1453,14 +1453,14 @@ Read more about how GitLab combats [burnout, isolation, and anxiety in an all-re
 1. **How will I login to the new Workspace?**
      - Simply navigate to your gitlab.okta.com portal and use the Slack SSO Tile as you normally would. You can click [here](https://docs.google.com/document/d/1uIdqjOFJzUkqzDhwITXC0NlNqm4BLQ9PKN9-AOaROt8/edit?usp=sharing) for instructions. (GitLab Team Only)
 1. **Will all the old channels and messages be available in the new Workspace?**
-    - Yes, all channels and messages will be migrated with the Workspace. 
+    - Yes, all channels and messages will be migrated with the Workspace.
 1. **How will the new workspace look different from the old one**
    - You will be able to see all your channels and messages as normal, except now you’ll see multiple workspaces. This environment design will help us better manage SAFE communication and data.
 1. **Will external accounts (guest accounts) be migrated as well?**
-   - Yes, all guest/partner accounts will be migrated to the new grid space. 
+   - Yes, all guest/partner accounts will be migrated to the new grid space.
 1. **Do I need to sign back into Slack after the migration or will I stay signed in?**
-   - Yes, you will have to sign back into Slack on your devices via Okta. 
-1. **Will my Slack applications still work as expected.** 
+   - Yes, you will have to sign back into Slack on your devices via Okta.
+1. **Will my Slack applications still work as expected.**
    - Yes, we expect most if not all applications to work as expected after the migration with the exception of reauthorizations.
 1. **Is there any changes with how GitLab Slack Admins can view/use Slack data?**
    - No, we were already on the Enterprise Select plan.
@@ -1538,7 +1538,7 @@ Google Docs can be useful when rapidly [iterating](/handbook/values/#iteration)/
 #### Pageless is the GitLab preferred format
 
 Google Docs [Pageless format](https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=en) is the preferred format for company documents that won't be printed. If a document is likely going to be printed (for example, a contract) the older paged style is acceptable. See [Good practices and helpful tips](#good-practices--helpful-tips) for help navigating the pageless format.
- 
+
 #### Link sharing
 
 If you _do_ need a Google Doc, create one with your company Google Workspace (formerly G Suite)
@@ -1683,7 +1683,7 @@ Key practices to consider during any meeting are listed below.
 
 GitLab team members are not authorized to speak with the media or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
 
-For more, please visit the [Corporate Communications handbook section](/handbook/marketing/corporate-marketing/#corporate-communications-and-pr-public-relations).
+For more, please visit the [Corporate Communications handbook section](/handbook/marketing/corporate-communications/).
 
 ### Paid external speaking requests
 
