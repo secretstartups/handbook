@@ -18,8 +18,8 @@ This part of the handbook is for the blog editorial team. If this isn't you, you
 ## Other related pages
 
 - [Blog handbook](/handbook/marketing/blog/)
-- [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
-and [tone of voice guidelines](https://design.gitlab.com/brand/overview/#tone-of-voice)
+- [Brand guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/)
+
 
 ## Goal: Grow our audience, engage readers, and convert readers into subscribers
 
@@ -236,7 +236,7 @@ With the exception of time-sensitive announcements and news, we are aiming to ha
 
 ## Reviewing blog post pitches
 
-The Editorial team reviews the `Blog::Pitch` list on a rolling basis and will respond to authors about how to proceed in comments. 
+The Editorial team reviews the `Blog::Pitch` list on a rolling basis and will respond to authors about how to proceed in comments.
 
 ### What to look for
 
