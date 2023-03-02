@@ -17,6 +17,10 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/"
 
 The mission of the GitLab Women TMRG is to cultivate an inclusive environment that supports and encourages those who identify as women to advance their skills and leadership potential through connection, mentorship, collaboration and discussion. This group shall serve as a forum for women to find their voice and be heard within the GitLab community. Through networking, socializing, and professional development, we hope to attract and retain women into GitLab’s positions. This group is open to all members of the GitLab community.
 
+Click through to meet some of the women working at GitLab!
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="Women of GitLab" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63ff7caec23a9700126f4213" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
 ### Pillars
 
 This TMRG is focused on 4 key areas of impact. We call them our pillars. Review the table below to read about the purpose of each pillar and results the TMRG has achieve for each.
