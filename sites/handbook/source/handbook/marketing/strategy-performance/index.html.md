@@ -5,7 +5,7 @@ description: >-
   Marketing Strategy and Analytics supports the entire Marketing team to
   develop and execute a Global Marketing Strategy by working with Marketing
   Leadership and GTM teams as well as owning the overall measurement strategy
-  for GitLab marketing. 
+  for GitLab marketing.
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
@@ -34,7 +34,7 @@ We are a small team with a leader and data analysts.
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/marketing/revenue-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Revenue Marketing</a>
-    <a href="/handbook/marketing/corporate-marketing" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Marketing</a>
+    <a href="/handbook/marketing/corporate-communications" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Communications</a>
     <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Community Relations</a>
     <a href="/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Product and Solution Marketing</a>
     <a href="/handbook/marketing/inbound-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Inbound Marketing</a>
@@ -52,7 +52,7 @@ We are a small team with a leader and data analysts.
 
 **Slack channels**
 
-We can be reached via our own [#mktg-strat-perf](https://gitlab.slack.com/archives/C01HTAYQBM5) channel, although we also monitor the general [#marketing](https://gitlab.slack.com/archives/C0AKZRSQ5) channel and [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
+We can be reached via our own [#mktg-strat-perf](https://gitlab.slack.com/archives/C01HTAYQBM5) channel, although we also monitor the general [#marketing](https://gitlab.slack.com/archives/C0AKZRSQ5) channel and [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration.
 
 
 ## <i id="biz-tech-icons" class="far fa-life-ring"></i>How to Get Help
@@ -88,7 +88,7 @@ Mktg Strategy uses a [local issue board](https://gitlab.com/gitlab-com/marketing
 
 #### Issue Weights
 
-Mktg Strategy uses the Fibonnacci sequence when creating [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html). We start with a weight of 2, smaller is too simple for an issue. Similarly, we break any issue larger than 13 into an epic. 
+Mktg Strategy uses the Fibonnacci sequence when creating [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html). We start with a weight of 2, smaller is too simple for an issue. Similarly, we break any issue larger than 13 into an epic.
 
 ### Epics
 
