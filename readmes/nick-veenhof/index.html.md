@@ -10,12 +10,12 @@ job: "Director of Contributor Success"
  - [GitLab profile](https://gitlab.com/nick_vh)
  - [LinkedIn profile](https://www.linkedin.com/in/nickveenhof/) 
  - [Twitter](https://twitter.com/Nick_vh)
- - [Function profile](https://about.gitlab.com/job-families/engineering/quality/contributor-success/management/#director-contributor-success)
+ - [Function profile](https://about.gitlab.com/job-families/marketing/community-relations/contributor-success/management/#director-contributor-success)
 
 ## About me
 
 Hi! I started with GitLab in April, 2022 as a [Servant leader](https://about.gitlab.com/job-families/engineering/development/management/#requirements) (Director of Contributor Success) in the area of 
-[Contributor Success](https://about.gitlab.com/handbook/engineering/quality/contributor-success/).
+[Contributor Success](https://about.gitlab.com/handbook/marketing/community-relations/contributor-success/).
 I live in [Ghent, Belgium](https://en.wikipedia.org/wiki/Ghent)  and my primary 
 operating hours are [9 AM to 5:30 PM (CEST)](https://www.timeanddate.com/worldclock/belgium/ghent).
 
