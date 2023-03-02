@@ -7,7 +7,7 @@ title: Corporate Communications Manager
 
 Corporate Communications managers at GitLab have a unique opportunity to contribute to our [mission](/company/mission/#mission). Through your leadership, experience, and insight, you will position GitLab as a trustworthy partner to customers with a strong track record of addressing business challenges, increase overall brand awareness, provide air cover for business as a whole, and come up with thought leadership opportunities. This position will work across teams and the globe to develop and execute integrated communications campaigns in line with GitLab initiatives. You will be expected to prioritize and manage your work with minimal guidance from leadership or other corporate communications team members.
 
-We work in a unique way at GitLab, where flexibility and independence meet a high paced, pragmatic way of working. And everything we do is in the open. We recommend looking at our [corporate marketing handbook](/handbook/marketing/corporate-marketing/) to get started.
+We work in a unique way at GitLab, where flexibility and independence meet a high paced, pragmatic way of working. And everything we do is in the open. We recommend looking at our [corporate communications handbook](/handbook/marketing/corporate-communications/) to get started.
 
 ## Job Grade
 
@@ -84,7 +84,7 @@ Manager, Corporate Communications is a [grade 8](/handbook/total-rewards/compens
 #### Job Grade
 Staff Corporate Communications Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each specialized function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Market data yields an output of 35 companies that use this type of level with an average of 2 incumbents. 
+**Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each specialized function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Market data yields an output of 35 companies that use this type of level with an average of 2 incumbents.
 
 ## Responsibilities
 * Develop QoQ and YoY integrated communications programs.
@@ -107,7 +107,7 @@ Staff Corporate Communications Manager is a [grade 8](/handbook/total-rewards/co
 Senior Manager, Corporate Communications is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
-* Managing a portion of the Corporate Communications budget. 
+* Managing a portion of the Corporate Communications budget.
 * Develop and execute integrated programs that further the overall corporate marketing objectives and goals.
 * Manage a team of direct reports, freelancers and agencies, ensuring their results contribute to the overall corporate marketing objectives and goals.
 
@@ -124,7 +124,7 @@ Senior Manager, Corporate Communications is a [grade 9](/handbook/total-rewards/
 
 The Principal Corporate Communications Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each business function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Survey data yields a return of 18 organizations with an average of 1 incumbent in the principal level within Marketing Communications. A comparable role at GitLab is the Principal Internal Communications Manager. 
+**Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each business function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Survey data yields a return of 18 organizations with an average of 1 incumbent in the principal level within Marketing Communications. A comparable role at GitLab is the Principal Internal Communications Manager.
 
 ## Responsibilities
 * Lead public company communication program; including quarterly earnings press releases and activities, investor updates, media interviews, etc.
@@ -142,7 +142,7 @@ The Principal Corporate Communications Manager is a [grade 9](/handbook/total-re
 The Director of Corporate Communications leads the overall corporate communications team, including public relations, executive communication, internal communication and social media work.
 
 ### Job Grade
-The Director of Corporate Communications is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). 
+The Director of Corporate Communications is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 * 12+ years experience managing public relations and communications teams
@@ -180,9 +180,9 @@ The executive communications manager will work closely with the executive leader
 * Highly organized, detail-oriented and able to meet deadlines consistently.
 
 ### Senior Executive Content Communications Manager (CEO)
-The executive communications to CEO specialty manager for the corporate communications team will work closely with the manager of the executive communications program, the CEO, and the CEO’s Chief of Staff team to extend the reach of the CEO’s participation in external events, bylined articles and more. 
+The executive communications to CEO specialty manager for the corporate communications team will work closely with the manager of the executive communications program, the CEO, and the CEO’s Chief of Staff team to extend the reach of the CEO’s participation in external events, bylined articles and more.
 
-#### Responsibilities 
+#### Responsibilities
 * Own the CEO executive communications visibility program, driving its strategy and executing on said strategy with agency support.
 * Work closely with the CEO’s Chief of Staff team to develop strong narrative presentations and content for internal and external speaking opportunities.
 * Work with the brand, design, technical marketing team and others needed to develop state of the art slide decks for internal and external events.
@@ -197,7 +197,7 @@ The executive communications to CEO specialty manager for the corporate communic
 * Have the ability to explain complex DevOps concepts at varying levels of technical detail, according to the technical abilities and interests of the audience
 * Actively follows relevant technical media including Hacker News, relevant twitter personalities, and blogs
 
-#### Requirements 
+#### Requirements
 * 6+ years experience in public relations and/or marketing communications
 * Experience working directly with CEOs of technology companies.
 * Experience executing CEO communications programs.
@@ -221,7 +221,7 @@ The Principal Internal Communications Manager is part of the Talent Brand team w
 
 ## Career Ladder
 
-The next step for this role will be Senior Director, Corporate Commmunications which is yet to be defined. 
+The next step for this role will be Senior Director, Corporate Commmunications which is yet to be defined.
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
@@ -247,14 +247,14 @@ The VP, Corporate Communications is a grade 12.
 * Define and execute on a holistic corporate communications strategy, resulting in consistency across all channels
 * Responsible for strategic messaging, storytelling and thought leadership in partnership with analysts, influencers, customers, the community, and media
 * Develop and lead internal and external communications programs
-* Oversee industry and analyst relations, messaging, and positioning strategies 
+* Oversee industry and analyst relations, messaging, and positioning strategies
 * Create and manage crisis management protocol
 * Successfully build campaigns to help elevate the GitLab brand in the world
 * Manage, build, and lead a strong team by recruiting, coaching, and developing team members.
 * Trusted advisor to the CEO, CMO and rest of executive team
 
 ## Requirements
-* Proven progressive experience in corporate marketing in a fast-paced and public software company.  
+* Proven progressive experience in corporate marketing in a fast-paced and public software company.
 * Experience with Software-as-a-Service offerings and open core software a plus.
 * Proven track record developing and executing successful B2B corporate communications.
 * Fluency with public company disclosure requirements, including Regulation FD
@@ -282,7 +282,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * 45 minute interview with our VP of Product Marketing
 * 45 minute interview with our VP of Integrated Marketing
 * 30 minute interview with our Director of Corp Comms
-* 30 minute interview with our Director, Analyst Relations 
+* 30 minute interview with our Director, Analyst Relations
 * 30 minute interview with our Chief Legal Officer
 * Successful candidates will subsequently be made an offer via video, phone, or email.
 
