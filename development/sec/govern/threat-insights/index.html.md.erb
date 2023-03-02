@@ -47,11 +47,15 @@ Additional information about how we operate can be found on the [Planning page](
 
 We follow these guidelines when submitting MRs for review when the change is within the Threat Insights domain:
 
+1. Aim to request at least one of the reviews from someone outside our group. This helps avoid a code knowledge silo.
+1. For time-critical reviews, consider using internal reviewers and maintainers.
 1. The initial review should be performed by a member of the team. This helps the team by:
-   - Faster reviews, as the reviewer is already familiar with the domain
-   - Additional awareness of changes taking place within the domain
-   - Identifying changes that don't align with what is happening with the domain 
-1. For GraphQL changes, the MR should be reviewed by a frontend engineer as soon as possible. This helps to validate the interface, and allows changes to be made before tests are written.
+   - Faster reviews, as the reviewer is already familiar with the domain.
+   - Additional awareness of changes taking place within the domain.
+   - Identifying changes that don't align with what is happening with the domain.
+   - Providing additional confidence from a domain expert to the external maintainer reviewer that the change behaves as expected.
+1. GraphQL merge requests should be reviewed by a frontend engineer as soon as possible. This
+   helps to validate the interface, and allows changes to be made before tests are written.
 
 ### Issue Boards
 
