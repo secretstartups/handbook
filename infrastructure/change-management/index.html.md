@@ -124,9 +124,9 @@ These are changes with high impact or high risk. If a change is going to cause d
 1. Changes which include downtime must be pre-communicated to users. Follow the guidance for [Communicating a change that requires downtime](/handbook/engineering/infrastructure/change-management/#communicating-a-change-that-requires-downtime-maintenance-window)
 1. All the database changes related should have a review by a DBRE.
 1. Have the change approved by Infrastructure management at the Sr. Manager level or above by obtaining the `manager_approved` label on the Change Request issue.
-1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
-(The source is pagerduty, if you don't have access try [getting assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance))
-1. Announce the start of the plan execution in the `#production` Slack channel directly notifying the EOC using the `@sre-oncall` alias and have the change approved by the EOC by obtaining the `eoc_approved` label on the Change Request issue.
+1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and make them aware the change plan.
+(The source is pagerduty, if you don't have access try [getting assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance)) 
+1. Announce the start of the plan execution in the `#production` Slack channel directly notifying the EOC using the `@sre-oncall` alias to ensure there are no ongoing incidents that could impact the timing of the change.  Once confirmed the EOC will apply the `eoc_approved` label and the change can proceed.
 1. Join The "Situation Room" zoom channel with the EOC and obtain verbal approval to start the plan execution.
 
 The EOC must be engaged for the entire execution of the change.
