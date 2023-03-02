@@ -170,6 +170,8 @@ If you are testing changes to tests in the `data-tests` project, you can pass in
 
 You can also add `--fail-fast` to the end of the model selection to quickly end the dbt call at the first failure. Read the [dbt docs](https://docs.getdbt.com/reference/commands/run#failing-fast) for more information.
 
+If removing a model it's useful to run any dbt pipeline just to check it still compiles. In example you could run +dim_date to check that it works.
+
 #### 🐭specify_model
 
 Specify which model to run with the variable `DBT_MODELS`
