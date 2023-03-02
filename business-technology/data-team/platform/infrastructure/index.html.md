@@ -423,10 +423,21 @@ The resource manifests for kubernetes live in `airflow-image/manifests/`. To cre
 #### Managing Persistent Volume Claim and its Data
 {: #managing-pvc}
 
-The persistent volume claim for Airflow is defined in the [`persistent_volume.yaml` manifest](https://gitlab.com/gitlab-data/data-image/-/blob/master/airflow_image/manifests/persistent_volume.yaml). It is used in the [deployment for logs](https://gitlab.com/gitlab-data/data-image/-/blob/master/airflow_image/manifests/deployment.yaml#L25-27) and writes to the [`/usr/local/airflow/logs` directory](https://gitlab.com/gitlab-data/data-image/-/blob/master/airflow_image/manifests/deployment.yaml#L76-77). If the persistent volume claim is full, there are two solutions:
+The persistent volume claim for Airflow is defined in [persistent_volume.yaml](https://gitlab.com/gitlab-data/airflow-infrastructure/-/blob/main/airflow_image/manifests/persistent_volume.yaml). 
+
+Furthermore, the persistent volume is referenced in 2 sections of deployment.yaml:
+- [Declaration](https://gitlab.com/gitlab-data/airflow-infrastructure/-/blob/main/airflow_image/manifests/deployment.yaml#L25-27) of persistent volume
+- [Mounted](https://gitlab.com/gitlab-data/airflow-infrastructure/-/blob/main/airflow_image/manifests/deployment.yaml#L91-92) to `/usr/local/airflow/logs`
+
+To check the current capacity of the persistent volume claim, you can run the following:
+`kubectl exec -it <airflow-deployment-pod-name> -- df -h /usr/local/airflow/logs`
+
+If the persistent volume claim is full, there are two solutions:
 
 - Increase the volume available for the claim
 - Delete data from the claim
+
+For more detail on the 2 solutions, see below.
 
 ##### Deleting Data
 
