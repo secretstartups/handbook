@@ -158,8 +158,6 @@ No, not at this time.
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| February 27|  Available | |
-| March 6    |  Available | |
 | March 13   |  Available | |
 | March 20   |  Available | |
 | March 27   |  Available | |
