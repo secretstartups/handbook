@@ -390,30 +390,20 @@ As detailed above, however the case will have the subject **HR: SDR Created**
 
 ### Support Ticket
 
-If the Pooled Customer raises a support ticket, it will be picked up via zendesk by a Support Engineer.  If this Support Engineer now needs to loop in Sales, and the owner of the account in SFDC is the Pooled Sales User, the below process should be followed.
+If the Pooled Customer raises a support ticket, it will be picked up via Zendesk by a Support Engineer.  If this Support Engineer now needs to loop in Sales, and the owner of the account in SFDC is `Pooled Sales User [ DO NOT CHATTER ]`, the [Working with Sales - Salesforce `Account Owner` is `POOLED USER [ DO NOT CHATTER ]`](sites/handbook/source/handbook/support/license-and-renewals/workflows/working_with_sales.html.md) workflow should be followed.
 
-#### Process/ Support Engineer Steps
+#### Self Service Ops
 
-- Navigate in Salesforce to the Pooled Account needing attention from a Pooled AE.
-- Log a case on the Account (please do NOT Chatter).
-- Select **Create New Case** and select **Pooled Sales Case** as the case record type.
-- Change **Case Origin** to **SMB Pool Internal Created**.
-- Search the **Contact Name** of the end user contact.
-- Describe the ask of the AE in the case **Description**. Include any relevant links or resources.
-- Enter **Support Ticket** in the **Subject** field.
-- Select a **Case Reason** based on the customers needs. If you are unsure of what **Case Reason** to select, please refer to this [document](https://docs.google.com/document/u/0/d/1cWuGo4XCAQmzMBcfUjF7Emr2undkz1ufcUFt4HKmIns/edit).
-- Check the **Assign using active assignment rules** checkbox, and click **Save**.
-- This Case will now drop into the **Pooled Sales Queue**, and will be actioned by a Pooled AE.
-
-If the Support Engineer does not have the nessecery Salesforce permissions to create a case, they can follow the below process instead;
-
-- Chatter the **@AMER Pooled AEs** group in Salesforce.  Include details of the request and the zendesk ticket link.
-- Self Service Ops will pick up the message, and create a case as detailed above.  They will also respond to the chatter message to acknowledge the request. 
-
-If the Support Engineer does not have Salesforce access, they can follow the below process instead;
-
-- Post a message in the  the **#smb-pooled-ae** slack group.  Include details of the request and the zendesk ticket link.
-- Self Service Ops will pick up the message, and create a case as detailed above.  They will also respond to the message to acknowledge the request. 
+- Self Service Ops will pick up the message, respond to the chatter message to acknowledge the request, and create a case as detailed below: 
+    - Log a case on the Account. 
+    - Select **Create New Case** and select **Pooled Sales Case** as the case record type.
+    - Change **Case Origin** to **SMB Pool Internal Created**.
+    - Search the **Contact Name** of the end user contact.
+    - Describe the ask of the AE in the case **Description**. Include any relevant links or resources.
+    - Enter **Support Ticket** in the **Subject** field.
+    - Select a **Case Reason** based on the customers needs. If you are unsure of what **Case Reason** to select, please refer to this [document](https://docs.google.com/document/u/0/d/1cWuGo4XCAQmzMBcfUjF7Emr2undkz1ufcUFt4HKmIns/edit).
+    - Check the **Assign using active assignment rules** checkbox, and click **Save**.
+    - This Case will now drop into the **Pooled Sales Queue**, and will be actioned by a Pooled AE.
 
 ### How Pooled AEs work Cases
 
