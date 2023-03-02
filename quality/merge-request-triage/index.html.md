@@ -29,7 +29,7 @@ A merge request is considered initially triaged when it has a:
 - `~"Community contribution"` label applied
 - "Thank you" message posted by [`@gitlab-bot`](https://gitlab.com/gitlab-bot) with more details on the process
 
-The initial triage is automated by the [Contributor Success team](/handbook/engineering/quality/contributor-success/) via the [Community contribution thank you note](/handbook/engineering/quality/triage-operations/#community-contribution-thank-you-note) reactive triage automation.
+The initial triage is automated by the [Contributor Success team](/handbook/marketing/community-relations/contributor-success/) via the [Community contribution thank you note](/handbook/engineering/quality/triage-operations/#community-contribution-thank-you-note) reactive triage automation.
 
 #### Partial triage (`gitlab-org`)
 
@@ -65,7 +65,7 @@ A merge request is considered completely triaged when it has a:
 
 - milestone set if the merge request with the `~"Community contribution"` label is merged.
 
-This triage process is automated by the [Contributor Success team](/handbook/engineering/quality/contributor-success/) via the [Add milestone to community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#add-milestone-to-community-merge-requests) scheduled triage automation.
+This triage process is automated by the [Contributor Success team](/handbook/marketing/community-relations/contributor-success/) via the [Add milestone to community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#add-milestone-to-community-merge-requests) scheduled triage automation.
 
 ### Inactive merge requests triage policy (`gitlab-org`)
 
@@ -86,7 +86,7 @@ Community contributions are valuable, and we should handle them as effectively a
 | [Complete Triage for Merged Merge Requests](#complete-triage-for-merged-merge-requests-gitlab-org) | 1 day ([this is automated for `gitlab-org/gitlab`](/handbook/engineering/quality/triage-operations/#add-milestone-to-community-merge-requests)) |
 | [Time to assign reviewer](#complete-triage-for-open-merge-requests-gitlab-org) | 2 hours ([this is automated](/handbook/engineering/quality/triage-operations/#automated-review-request)) |
 
-If an SLO isn't met, reach out to the [Contributor Success team](/handbook/engineering/quality/contributor-success/).
+If an SLO isn't met, reach out to the [Contributor Success team](/handbook/marketing/community-relations/contributor-success/).
 
 ## Merge request triage for the `gitlab-com/www-gitlab-com` project
 

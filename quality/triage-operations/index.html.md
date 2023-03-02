@@ -109,7 +109,7 @@ to update the generated files as well.
 
 ### Community-related triage reports
 
-These reports are owned by the [Contributor Success team](/handbook/engineering/quality/contributor-success/).
+These reports are owned by the [Contributor Success team](/handbook/marketing/community-relations/contributor-success/).
 
 #### Newly created community merge requests
 
