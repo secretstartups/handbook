@@ -86,7 +86,23 @@ The refinement process is described in the [issue template](https://gitlab.com/g
 
 #### Milestone Planning
 
-#### Weights
+#### Issue Weighting
+
+The weights we use are:
+
+| Weight     | Extra investigation | Surprises    | Collaboration |
+| ---------- | ------------------- | ------------ | --------      |
+| 1: Trivial | not expected        | not expected | not required  |
+| 2: Small   | possible            | possible     | possible      |
+| 3: Medium  | likely              | likely       | likely        |
+| 5: Large   | guaranteed          | guaranteed   | guaranteed    |
+
+Anything 5 or larger should be broken down, these should not be `ready for development`. We would likely turn a 5 into an epic, into a research and implementation issue or a [technical discovery](TBD).
+
+Occasionally, a proof-of-concept (POC) is necessary to determine a feasible technical path. When one is required, the engineer will create a POC issue that contains the context of the research to be conducted along with the goals of the POC. This
+issue will be scheduled for work before any further breakdown of tasks is performed. Once the technical path is clear, the engineer can proceed to weight the issue and/or break down the issue further to guide implementation. Every POC issues should contain a list of questions we want to answer, the definition of done should include the answers and suggested next steps.
+
+Not all POCs will be successful, and that is OK! Some avenues of research may not be successful, and the POC will have saved us from investing significant time in a solution that will not meet our needs. The goal is early feedback and fast iteration.
 
 #### GitLab Terraform Provider
 
