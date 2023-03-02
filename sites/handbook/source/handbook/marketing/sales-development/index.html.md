@@ -1099,16 +1099,16 @@ The corporate process is the same as the field process detailed above with the e
 *  The BDR DRI lead needs to have their focus account list as well as the shared sequence completed, reviewed, and approved at least three weeks prior to the event so that we will have three weeks of promotion
 *  **For strategic marketing campaigns categorized as direct mail or workshops, where there was BDR assistance in strategically driving attendence, we will ask marketing to import campaign MQLs and other designated "Hot" leads to the BDR assigned on the associated account.**
 
-**Event Follow Up**
+##### **Event Follow Up**
 
 *  BDR project lead needs to have the follow up sequence cloned, revised and reviewed with management and FMM one week prior to the event. Other event sequences can be found in the FY24 Events/Campaigns Outreach collection. The copy doc for the event is linked in the event Epic and can be used for reference.
 *  FMM will ensure leads from Field Marketing initiatives will be routed within 48 hours.
 *  BDR Project lead should keep an eye on the [Event List Upload Slack Channel](https://gitlab.slack.com/archives/CQ8ADJMHT) for the announcement of the lead list upload. Once the leads are in SFDC, BDR Project lead to announce this and share the Outreach Sequence with the relevant BDR/SDR team Slack Channels dependent on the location of the event.
 
-**Sequence Information**
+##### **Sequence Information**
 - Please clone one of the Master Event Sequences found in the [Events Outreach collection](https://app1a.outreach.io/sequences?direction=desc&order=recent&content_category_id%5B%5D=47) and pre-populate as many of the variables as possible. If all of the variables can be populated manually or through Outreach/Salesforce, change the email type from ‘manual’ to ‘auto.’ Work with your manager and the FMM to make any other additional adjustments that may be needed.
 
-**White Glove Event Follow Up Sequence (SALs Included)**
+##### **White Glove Event Follow Up Sequence (SALs Included)**
 - For more personal events, such as Executive Roundtables, there many be more detailed Last Event Notes that have an ask to include the people who interacted with the prospect at the event. For these situations we have a [specialized white glove sequence](https://app1a.outreach.io/sequences/12260). The goal of this sequence is to reach out to the prospect quickly and to include our SALs/AEs in the conversation.
 - The first step is to put the prospect in [the Sequence](https://app1a.outreach.io/sequences/12260). From there customize the first email step to include the people mentioned in the Last Event Notes. You can also delay the time that the first email goes out so you have more time to get feedback from the SAL/AE if needed.
 - Next send a screenshot of the first email step to the SAL/AE's that will be CC'd. Explain to them that this strategy creates space for them to engage with more specific messaging if the prospect is unresponsive. NOTE: There is a generic task on Day 12 to reach out to the SAL/SA if there has not been any engagement. The goal is to keep them in the loop and for you to work together to engage the prospect.
