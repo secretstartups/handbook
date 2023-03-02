@@ -165,6 +165,11 @@ The [Demo Systems](/handbook/customer-success/demo-systems/) provide an always-o
 
 The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), powered by [HackyStack](https://gitlab.com/gitlab-com/business-technology/engineering/tools/hackystack), automates the provisioning of AWS acccounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
 
+## FY24 Roadmap
+
+The [IT - Consolidated Projects Roadmap](https://docs.google.com/spreadsheets/d/1ojnTFGB2iYJz9kNPYdoLc4PeyDqAN60gu9cQBrKpHJQ/edit?pli=1#gid=955721517) is available for internal team members to track IT planned initiatives.
+
+
 ## Career Opportunities
 
 You can see all of our [job families](https://about.gitlab.com/job-families/finance/) to learn more about the roles in our department. You can see our open positions at [https://jobs.gitlab.com](https://jobs.gitlab.com). 
