@@ -227,6 +227,87 @@ dbt specific:
 
 We use SQLFluff to enforce [SQL style guide](/handbook/business-technology/data-team/platform/sql-style-guide/) on our code. To have the SQLFluff in the DBT venv you will have to rebuild it. The make prepare-dbt or more specifically the pipenv install from within that command will install the correct version of the tool into the venv. If you have done that and it is not working you can try a direct install of version 0.9.3 using the pip installer.
 
+### VSCode extension: dbt Power User
+
+[dbt Power User](/handbook/business-technology/data-team/platform/sql-style-guide/) makes VScode seamlessly work with dbt. The guide below will allow you to install dbt Power User if you followed the [Venv workflow](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#Venv-workflow).
+
+Before we start, there are some settings to adjust in your VScode:
+- Go in Code > Settings > Settings…
+    - Search for ‘Python info visibility’ > Set this setting as ‘Always’
+    - In a terminal, run `make run-dbt` as described in the [Using dbt](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#using-dbt) section. Once it ran and the new shell spawned, run `echo $VIRTUAL_ENV`. Copy that value.
+        - Search for ‘venv path’ in VScode settings. 
+        - Set this setting to the path that you copied last step, which should look like `/Users/<username>/Library/Caches/pypoetry/virtualenvs/` if you followed a standard installation. Remove the last part of the path `analytics-*******-py3.10` at the time of writing.
+- Open VScode in /analytics (File > Open Folder... or Workspace...)
+- You now see a python interpreter selector at the bottom right of VScode, click on it
+    - In the popup field, you should now see the analytics venv(s) shown as type `poetry`, and the one used for dbt. Select it.
+- Install extension `dbt-power-user`
+- Follow only step `How to setup the extension > Associate your .sql files the jinja-sql language` [here](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user)
+
+- In VScode, go back to the File view and find the `analytics/.vscode/settings.json` file that was created when you opened `/analytics` with vscode (create `.vscode/settings.json` if you cannot find it). This file will define the settings of VScode when opened in `/analytics`
+
+Add this in your `settings.json` file:
+
+```
+{
+"terminal.integrated.env.osx": {
+"SHELL":"/bin/zsh",
+"DBT_PROFILES_DIR": "../../../.dbt/",
+"DATA_TEST_BRANCH":"main",
+"SNOWFLAKE_PROD_DATABASE":"PROD",
+"SNOWFLAKE_PREP_DATABASE":"PREP",
+"SNOWFLAKE_SNAPSHOT_DATABASE":"SNOWFLAKE",
+"SNOWFLAKE_LOAD_DATABASE":"RAW",
+"SNOWFLAKE_STATIC_DATABASE":"STATIC",
+"SNOWFLAKE_PREP_SCHEMA":"preparation",
+"SNOWFLAKE_TRANSFORM_WAREHOUSE":"ANALYST_XS",
+"SALT":"pizza",
+"SALT_IP":"pie",
+"SALT_NAME":"pepperoni",
+"SALT_EMAIL":"cheese",
+"SALT_PASSWORD":"416C736F4E6F745365637265FFFFFFAB"
+},
+"dbt.queryLimit": 500
+}
+```
+
+<div class="panel panel-warning">
+**Note**
+{: .panel-heading}
+
+  <div class="panel-body">
+
+    If the code base is updated with new values for these environment variables, you will have to update them in your `settings.json` according to the values of variables located in the `Makefile` at the root of the analytics repository.
+
+  </div>
+</div>
+
+- Edit `DBT_PROFILES_DIR` so that it points to your `~/.dbt/` folder (it seems that path must be relative and pointing to your `~/.dbt` folder, from the `/analytics` folder)
+- Restart VScode and re-open the analytics workspace
+- Check that dbt-power-user is running by navigating through models with Command+click (dbt needs some time to init).
+Ignore any warnings about dbt not up to date.
+- Open a random model, right click in the sql code, Click `run dbt model` and check for output.
+
+If you are getting an error of the type:
+```
+dbt.exceptions.RuntimeException: Runtime Error
+  Database error while listing schemas in database ""PROD_PROD""
+  Database Error
+    002043 (02000): SQL compilation error:
+    Object does not exist, or operation cannot be performed.
+```
+  - then change the target profile used by dbt: navigate to dbt-power-user extension settings (Extensions > dbt-power-user > cog > Extension settings) and edit the setting called `Dbt: Run Model Command Additional Params` (same for build) 
+<div class="panel panel-warning">
+**Note**
+{: .panel-heading}
+
+  <div class="panel-body">
+
+    When running/building/testing a model from VS code UI, the terminal window popping is only a log output. Cmd+C does not stop the job(s), nor clicking the Trash icon in VS code. If you want to stop a job started via VScode, go through the Snowflake UI and your job list and kill the job(s) from there.
+
+  </div>
+</div>
+
+
 ### Configuration for contributing to dbt project
 
 If you're interested in contributing to dbt, here's our recommended way of setting up your local environment to make it easy.
