@@ -55,7 +55,7 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 ### Annual Compensation Review Timeline
 
 ##### November:
-1. Members of the Total Rewards team, People Business Partners, and People Tech will sync on a weekly basis to coordinate on Annual Compensation Review and the Talent Assessment cycle.
+1. Members of the Total Rewards team, People Business Partners, and People Technology will sync on a weekly basis to coordinate on Annual Compensation Review and the Talent Assessment cycle.
 1. Benchmarks and Location Factors
    * The Total Rewards team will review all benchmarks and location factors associated with the Compensation Calculator and propose revised inputs to the Total Rewards leader for approval/implementation.
 1. Talent Assessment
@@ -90,7 +90,7 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
     * Hereafter divisional leaders (or department leaders as applicable) can review and discuss tentative budgetary impact for the division (or department as applicable).
 1. January 13th: People Business Partner check on the progress/Budget impact.
 1. January 20th: Aim to have all Managers/Senior Managers/Directors reviewed their slates. Justifications must be included in the notes section for all increase exceptions (for example: any above 10% performance increase,etc.) for planning to be complete. These justifications will be reviewed and approved by Department and Division leaders. Please connect with your manager or [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to determine if you department or division has additional due dates embedded by level. 
-1. January 24th - Total Rewards Review & Pay Equality Analysis
+1. January 24th: Total Rewards Review & Pay Equality Analysis
 1. January 20th - January 23rd: Department Heads/People Business Partners review budget impact and deficiencies, before moving to E-Group.
 1. January 25th - January 26th: For E-Group to review and approve final compensation changes.
 1. January 30th: Total Rewards will present all compensation changes to the Compensation Group for final approval.
@@ -102,7 +102,20 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 1. February 1st - February 4th: Total Rewards will audit all of the updates to Workday and provide Payroll with a report of all increases effective February 1
 1. February 16th: Compensation and job title visibility will be returned to team members in Workday.
 
-In February, Director+ leaders will plan Phase 2 of the Annual Compensation Review cycle by planning Equity.  Exact dates for this Phase will be communicated in January.
+### Equity Review Timeline
+
+##### March:
+1. March 9th: The equity review cycle opens in Workday for Directors and above to plan refresh grants for eligible team members.
+1. March 15th: Directors and Senior Directors have completed their recommendations in Workday. 
+1. March 16th: VPs review and plan the refresh grants via their provided sheets. 
+1. March 20th: Approved through VP level and sent to e-group for initial review
+1. March 22nd: Total Rewards Review & Pay Equality Analysis
+1. March 27th: E-Group to review and approve final compensation changes
+1. March 28th: Total Rewards will share all equity refresh grants to the Compensation Group for final approval
+1. March 30th: All grants approved by the board or delegate
+1. April 4th - April 14th: Total Compensation statements generated and managers to communicate all grants to team members
+
+After the communication window has closed, grants will be updated in E*Trade over the next few weeks.
 
 ## Talent Assessment and Annual Compensation Review 
 
@@ -142,14 +155,15 @@ If a manager has a team member on their team who is red circled (paid over the t
 
 ### Growth Potential Factor 
 
-While Performance Factors are used to calibrate on cash compensation increases, reinforcing GitLab’s pay for performance Compensation Philosophy, managers are encouraged to use the Growth Potential Factor (developing - growing - exceeding) as an input to calibrate on the equity refresh. The refresh is a long term incentive which can reinforce the long term growth potential of the team member.
+While Performance Factors are used as the primary calibration tool for cash compensation increases and refresh equity grants, reinforcing GitLab’s pay for performance Compensation Philosophy, managers are encouraged to use the Growth Potential Factor (developing - growing - exceeding) as an additional input to calibrate on the equity refresh. The refresh is a long term incentive which can reinforce the long term growth potential of the team member.
 
 In calibrating the equity refresh, we recommend managers to take the following into account:
+* Performance Factor
 * [Growth Potential factor](/handbook/people-group/talent-assessment/#what-is-growth)
 * Unvested Equity Holdings
 * Value Vesting the next fiscal year 
 
-Cash and equity are two levers available to managers to determine an appropriate Total Compensation for team members. Note that equity planning will be conducted separately from cash compensation planning for FY24. To ensure a connection between growth potential factor and compensation outcomes, Directors and above team members will be provided with talent assessment results during planning. More information on the [Equity Refresh Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#equity-refresh-review-cycle) can be found below.
+Cash and equity are two levers available to managers to determine an appropriate Total Compensation for team members. Note that equity planning will be conducted separately from cash compensation planning for FY24. To ensure a connection between talent assessments and compensation outcomes, Directors and above team members will be provided with talent assessment results during planning. More information on the [Equity Refresh Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#equity-refresh-review-cycle) can be found below.
 
 ### Key Talent 
 
@@ -273,33 +287,41 @@ Each team member who receives a base salary increase due to promotion, market ad
 ## Equity Refresh Review Cycle
 
 ### Determining RSU Refresh Grants
-This will be updated in February.
+
+To be added closer to launch. 
 
 ### Director and Above Review in Workday
 
-1. Navigate to your Workday inbox and click on the task titled **FY24 Annual Equity Review (due 2023-02-XX)**
+1. Navigate to your Workday inbox and click on the task titled **FY24 Annual Equity Review (due 2023-03-20 for Director/Sr Director)**
 1. After logging in, you will land on the Organization Summary page which includes an overview and status of your equity budget and spend for team members who report to or roll up to you.
    * ![equity](/images/handbook/people-group/equity.jpeg)
-1. Similar to cash compensation planning, you will enter your equity recommendations into a grid. The grid contains the same 5 leftmost columns. However, there is only one grid view and there is a smart panel on the right that updates based on the selected team member. Additional information is included to add context and help you with your equity refresh grant allocations:
+1. Similar to cash compensation planning, you will enter your equity recommendations into the planning grid. The grid contains the same 5 leftmost columns. However, there is only one grid view and there is a smart panel on the right that updates based on the selected team member. Additional information is included to add context and help you with your equity refresh grant allocations:
+   * FY23 Job Profile and Job Grade
+   * Ongoing equity range
+       * The range to be used for the refresh will be the team member's range based on their role on 2023-01-31. 
    * Unvested Equity as of 2023-02-01
+       * This will calculated to dollars based on a share price assumption that will be disclosed in the help text of the planning screen. 
    * Value Vesting from 2023-02-01 to 2024-01-31
-   * Last Equity Refresh Grant
-   * Last Promotion Grant Effective Date
-   * Last Promotion Grant Amount
-1. Enter your refresh grant amounts in the **Proposed Refresh Grant Amount (USD**) column.
+       * This will calculated to dollars based on a share price assumption that will be disclosed in the help text of the planning screen. 
+   * FY23 Equity Refresh Grant Amount
+       *  This field will have the original intended value (not current value) of the team member's last refresh grant if they received one in FY23. 
+   * Proposed FY24 Q1 Promotion Grant Amount
+       * The promotional grant for the cycle that just took place effective February 1 is included in the grid for reference. This grant is still pending full approval during the March grant approval and so is not included in the unvested equity or value vesting fields.
+   * The smart panel will contain the team member's FY24 job title as well as their FY23 and FY24 compa ratio for context on decisions made during the cash review cycle. 
+1. Enter your refresh grant amounts in the **Proposed Refresh Grant Amount (USD)** column. _Please be sure to include a comment of justification if allocating above the refresh grant range maximum unless directed to do so._
 1. After entering all your recommendations, select _Continue_ and _Submit_.
 
 ### Budget In Workday 
 
-This will be updated in February.
+Budgets are sent down to planners per the guidelines provided above in the [Determining RSU Refresh Grants section](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-rsu-refresh-grants).
 
 ### Communicating Equity Refresh Grant
 
-This will be updated in February.
+All equity refresh grants will be finalized during the grant approval to take place on March 30th. Once fully approved, Total Compensation statements will be generated by April 4th to be used in conversations with team members. Visibility to these grants in Workday will be limited until April 14th in order to allow managers sufficient time to communicate. Managers will have access to the Total Compensation statement on the team member's record once generated. 
 
 #### Total Compensation Statement
 
-This will be updated in February.
+To update by the end of February.
 
 ## Compensation Program Budget
 
