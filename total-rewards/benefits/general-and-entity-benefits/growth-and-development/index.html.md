@@ -15,7 +15,7 @@ description: A description of programs and resources for team members to access 
 
 At GitLab, team members have access to the [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) to access external resources to develop their career.
 
-The Growth and Development benefit is managed in partnership with the Total Rewards and Learning and Development team. 
+The Growth and Development benefit is managed in partnership with the Total Rewards and Learning and Development team.
 
 ### Questions?
 
@@ -25,7 +25,7 @@ The Growth and Development benefit is managed in partnership with the Total Rewa
 | Qualified programs, suggested courses, conferences, etc, and feedback from your learning | Learning and Development team via #learnignanddevelopment Slack channel |
 | Other | #people-connect Slack channel for support in determining the best team |
 
-## Growth and Development Benefit Eligibility 
+## Growth and Development Benefit Eligibility
 
 * Team members who are full-time and have been employed for three months can participate in this benefit. If you are a part-time GitLab team member, you may still be eligible to participate in this benefit but your reimbursement might be reduced. These situations will be discussed on a case-by-case basis.
 * Team members who are meeting performance expectations in their current role:
@@ -67,7 +67,7 @@ The Growth and Development policy is meant to further team members' learning and
 
 * Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send growth-development@gitlab an email with the details of your application (refer to the issue templates for the information required).
 
-**Step 3:** Request approval on the issue. Manager approval is needed for all applications and Executive Leader approval is needed for applications above $1000 USD. 
+**Step 3:** Request approval on the issue. Manager approval is needed for all applications and Executive Leader approval is needed for applications above $1000 USD.
 
 * Once the manager has approved, there is no further action to be taken by the manager. They can unassign themselves to the issue if they wish. Total Rewards will update the labels on the issue.
 
@@ -76,13 +76,13 @@ The Growth and Development policy is meant to further team members' learning and
   - Customer Success: David Sakamoto (VP of Customer Success)
   - Commercial Sales: Ryan O'Nell (VP of Commercial Sales)
   - Field Operations: David Hong (VP of Field Operations)
-  - Worldwide Channels: David Helfer (interim VP of Worldwide Channels) 
+  - Worldwide Channels: David Helfer (interim VP of Worldwide Channels)
 
 * **Sales Development organization executive signature should be routed by the following:**
  - Sales Development/Business Development: Jean-Baptiste Larramendy (AVP, Sales Development)
 
-**Step 4:** Claim for reimbursement: 
-* If you have signed up for academic study, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you receive your grade/transcript (this can be done at the end of each semester if your course is split into semesters or at the end of the program). You may close the issue once you have received reimbursement for the whole program. 
+**Step 4:** Claim for reimbursement:
+* If you have signed up for academic study, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you receive your grade/transcript (this can be done at the end of each semester if your course is split into semesters or at the end of the program). You may close the issue once you have received reimbursement for the whole program.
 * For other types of Growth & Development opportunities, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you have obtained the reimbursement requirement per the [descriptions below](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). You may close the issue once you have gained approval for your application.
 
 ## Bulk Applications
@@ -94,14 +94,14 @@ The Growth and Development policy is meant to further team members' learning and
 **If the cost is [$1,000 USD or less](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 
 * Claim your expenses via [Navan Expense](/handbook/finance/expenses/#-introduction):
-  - Include a screenshot of your approved Growth & Development issue. 
+  - Include a screenshot of your approved Growth & Development issue.
   - In your Navan Expense report, select the classification or tag "Growth and Development".
-  - Please make sure the issue matches your Navan Expense claim amount. Your Navan Expense claim will be audited against the Growth & Development issue amount. 
+  - Please make sure the issue matches your Navan Expense claim amount. Your Navan Expense claim will be audited against the Growth & Development issue amount.
 * Please claim conference and workshop meals and lodging that cost $1,000 USD and below per receipt via [Navan Expense](/handbook/finance/expenses/#-introduction).
 
 **If the cost is [over $1,000 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
-* For conference/workshop tickets and lodging (that are above $1,000 USD per receipt), memberships, please send the invoice to `growth-development@gitlab.com` once you have signed up. 
-* For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab.com`. 
+* For conference/workshop tickets and lodging (that are above $1,000 USD per receipt), memberships, please send the invoice to `growth-development@gitlab.com` once you have signed up.
+* For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab.com`.
 * For professional development and certifications, please send a copy of your certificate or proof of completion to `growth-development@gitlab.com`.
 * For coaching recieved outside of our Coaching Right Now vendor, please send a copy of your paid invoice to `growth-development@gitlab.com`
 * Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
@@ -128,7 +128,7 @@ Please contact [Payroll](mailto:payroll@gitlab.com) for any tax-related question
 
 The course must be from a credentialed college or university and must be relevant to your career development goals and development. If the education provider does not allow for tuition/payment deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course/program. The relevance of the classes taken for each semester will be subject to the approval of the manager. The grade must be equivalent to a “B”.
 
-**Eligibility for Reimbursement:** A final grade report or transcript is required to receive reimbursement. 
+**Eligibility for Reimbursement:** A final grade report or transcript is required to receive reimbursement.
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
@@ -156,13 +156,13 @@ _The specifics of your coaching sessions will not be communicated to GitLab._ Wh
 
 **Eligibility for Reimbursement:** Managers or Individual Contributors job grade 8+. Coaching Right Now will invoice GitLab directly.
 
-Coaching Right Now is our preferred and vetted coaching partner. If for some reason the coaches offered via Coaching Right Now do not fit your needs, please open an issue using the [Other G&D Types (Under $300 USD) template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-GD-under). After approvals, team members will provide a paid invoice to GitLab as proof for reimbursement. 
+Coaching Right Now is our preferred and vetted coaching partner. If for some reason the coaches offered via Coaching Right Now do not fit your needs, please open an issue using the [Other G&D Types (Under $300 USD) template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-GD-under). After approvals, team members will provide a paid invoice to GitLab as proof for reimbursement.
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
 ### English Language Courses
 
-**Description:** As GitLab expands globally, we want to support our team members where English may not be their first language. Managers are encouraged to recommend this benefit to team members whose engagement as a part of GitLab and/or performance may be improved by further developing their English language skills. 
+**Description:** As GitLab expands globally, we want to support our team members where English may not be their first language. Managers are encouraged to recommend this benefit to team members whose engagement as a part of GitLab and/or performance may be improved by further developing their English language skills.
 
 Examples of English Language Courses:
      1. [Coursera](https://www.coursera.org/browse/language-learning/learning-english) offers a wide variety of online English courses in partnership with various reputable colleges and universities, like the [Business English for Non-Native Speakers course](https://www.coursera.org/specializations/business-english-speakers) and the [Improve your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english) . Their courses range from improving your English language skills to more specialized courses that focus on English for STEM or career development.
@@ -173,7 +173,7 @@ Examples of English Language Courses:
      6. [Duolingo](https://www.duolingo.com/) offers gamified way to learn English, plus other languages.
      7.  [Memrise](https://www.memrise.com/) is helpful for vocabulary building.
      8. [italki](https://www.italki.com/teachers/english) to find a English tutor. 1:1 instruction is often necessary for continued improvement, especially once a person has reached basic proficiency.
-     9. English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university. 
+     9. English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university.
 
 **Eligibility for Reimbursement:** Courses offered in-person or online by a credential college or university or an English language school are eligible for reimbursement. Invoice/receipt when submitting through Navan Expense.
 
@@ -181,7 +181,7 @@ Examples of English Language Courses:
 
 ### Professional Development/Certifications/Licenses
 
-**Description:** Any certifications/licenses that you and your manager think will be relevant to your development. 
+**Description:** Any certifications/licenses that you and your manager think will be relevant to your development.
 
 **Eligibility for Reimbursement:** Certifications and licenses related to your career development goals. For reimbursements above $1,000 USD, a final grade report or satisfactory certificate of completion will be required to receive reimbursement.
 
@@ -189,7 +189,7 @@ Examples of English Language Courses:
 
 ### Professional Dues/Membership
 
-**Description:** Any professional development membership or dues that will be relevant to your growth and development. 
+**Description:** Any professional development membership or dues that will be relevant to your growth and development.
 
 **Eligibility for Reimbursement:** Professional membership to an accredited organization that aligns with your role. Professional dues needed in order to continue members in an accredited organization. An invoice for the dues/membership is required.
 
@@ -197,9 +197,9 @@ Examples of English Language Courses:
 
 ### Workshops and Conferences
 
-**Description:** Work-related conferences including registration, lodging, and meals. The costs for travelling to and from an event should be expensed separately from the training budget following the [existing travel expense policy](/handbook/finance/expenses/), with your manager approval. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](/handbook/marketing/corporate-marketing/#speakers) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment. 
+**Description:** Work-related conferences including registration, lodging, and meals. The costs for travelling to and from an event should be expensed separately from the training budget following the [existing travel expense policy](/handbook/finance/expenses/), with your manager approval. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Communications](/handbook/marketing/corporate-communications/speaking-resources/) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment.
 
-**Eligibility for Reimbursement:** Before scheduling any travel or time off to attend a conference, please discuss your request with your manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After manager approval, the team member needs to submit a Growth & Development form for expenses either [over $1,000 or under $1,000](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits). Once all parties sign the document, they can schedule travel. Please review current [GitLab travel policy](https://about.gitlab.com/handbook/travel/) for the most up-to-date information about booking and planning conference travel and determine if travel is [business essential](/handbook/travel/) during Covid-19. Reimbursement for the workshop or conference fee, and for related expenses will be processed once proof of attendance is provided. Attach a copy of the Growth & Development Benefit Form to your expenses. 
+**Eligibility for Reimbursement:** Before scheduling any travel or time off to attend a conference, please discuss your request with your manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After manager approval, the team member needs to submit a Growth & Development form for expenses either [over $1,000 or under $1,000](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits). Once all parties sign the document, they can schedule travel. Please review current [GitLab travel policy](https://about.gitlab.com/handbook/travel/) for the most up-to-date information about booking and planning conference travel and determine if travel is [business essential](/handbook/travel/) during Covid-19. Reimbursement for the workshop or conference fee, and for related expenses will be processed once proof of attendance is provided. Attach a copy of the Growth & Development Benefit Form to your expenses.
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
@@ -207,25 +207,25 @@ Examples of English Language Courses:
 
 **Description:** GitLab supports team members who wish to continue their growth within their professional career. The course must be related to your career development goal, Individual Growth Plan (IGP), and/or serves the [mission](/company/mission/) of GitLab as a company.
 
-**Eligibility for Reimbursement:** A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. 
+**Eligibility for Reimbursement:** A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD.
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
 ### Code Based Learning
 
-**Description:**The company will pay for courses related to learning how to code (for example Learning Rails on Codecademy), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel. 
+**Description:**The company will pay for courses related to learning how to code (for example Learning Rails on Codecademy), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel.
 
-**Eligibility for Reimbursement:** The course must be related code based learning. A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. 
+**Eligibility for Reimbursement:** The course must be related code based learning. A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD.
 
 **Approver (above $1,000 USD):** Manager, E-Group Member
 
-### [LinkedIn Learning](https://www.linkedin.com/learning/?u=2255073) 
+### [LinkedIn Learning](https://www.linkedin.com/learning/?u=2255073)
 
 **Before using your Growth & Development Benefit for a LinkedIn Learning license, check in the #learninganddevelopment Slack channel if there are any L&D allocated licenses available.**
 
 **Description:**  The Learning & Development team have an allocation of LinkedIn Learning licenses that can be assigned to team members, but their may be periods of time when the license limit is reached, which may cause long wait times for one to become available for new team members. In these instances we encourage team members to utilise their Growth & Development benefit to purchase their own license, which will help facilitate participation in L&D initiatives.
 
-**Eligibility for Reimbursement:** When there are no company LinkedIn Learning licenses available. Invoice/receipt required when submitting through Navan Expense. 
+**Eligibility for Reimbursement:** When there are no company LinkedIn Learning licenses available. Invoice/receipt required when submitting through Navan Expense.
 
 **Approver (above $1,000 USD):**  N/A as an annual license cost does not exceed $1,000 USD.
 
@@ -246,7 +246,7 @@ The L&D and Total Rewards teams will collaborate to purchase the course license 
 The following programs have been contributed by leaders across the organization. These programs may be approved under the Growth and Development policy. If you know of a specific course or program that you or a team member has benefited from, please open an MR and add to this page.
 
 | Department | Program | Notes |
-| ----- | ----- | ----- | 
+| ----- | ----- | ----- |
 | Any | [Crucial Conversations](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/) | `Crucial Conversations skills represent the standard in effective communication and the marker of high-performance individuals and organizations everywhere.` |
 | Any | [MIT Cultural Awareness for Global Business](https://professionalprograms.mit.edu/online-program-in-cultural-awareness-for-global-business/) | `help professionals improve their intercultural and global leadership skills so that they can succeed in today’s multicultural business environments.` |
 | Any | [MIT Leadership and Innovation](https://professionalprograms.mit.edu/online-program-leadership-and-innovation/) | `MIT Professional Education has created the online Leadership & Innovation program, which merges the development of leadership skills with the vision needed to address innovation processes in organizations.` |
@@ -255,10 +255,10 @@ The following programs have been contributed by leaders across the organization.
 | Any | [O'Reilly Technical Training](https://www.oreilly.com/online-learning/) | O’Reilly learning provides individuals, teams, and businesses with expert-created and curated information covering all the areas that will shape our future—including artificial intelligence, operations, data, UX design, finance, leadership, and more. Currently, O'Reilly licenses are available for Customer Success Team Members (Professional Services, Solutions Architects, and Customer Success Managers.) Access will be given automatically to these team members through a role-based entitlement. Team members in other groups can leverage the G&D benefit to purchase a subscription at our discounted rate by contacting our sales rep, Jason Baca (jbaca@oreilly.com). |
 | Any | [Udemy](https://www.udemy.com/) | Online courses in a variety of content areas |
 | Any | [Coursera](https://www.coursera.org/) | Online courses in a variety of content areas |
-| Any | [LinkedIn Learning Certification Prep and Continuing Education](https://learning.linkedin.com/certification-and-continuing-education-programs) | `LinkedIn Learning offers on-demand courses to help individuals prepare for professional certification exams and earn continuing education units (CEU's)` | 
+| Any | [LinkedIn Learning Certification Prep and Continuing Education](https://learning.linkedin.com/certification-and-continuing-education-programs) | `LinkedIn Learning offers on-demand courses to help individuals prepare for professional certification exams and earn continuing education units (CEU's)` |
 | Any | [Toastmasters Membership](https://www.toastmasters.org/) | For those looking to practice public speaking, improve communication and build leadership skills, joining a local Toastmasters group is a great opportunity to develop these skills in a supportive environment away from work. Recommended for those interested in [Becoming a Speaker](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/)
 | Sales/Technical Sales/Marketing | [MIT Cloud and DevOps Online Program](https://professionalprograms.mit.edu/online-program-cloud-devops-continuous-transformation/) | `MIT Professional Education is proud to announce this new, practical program that will explain the vast technological transformation that has occurred in recent years. Content and activities are designed to allow participants to become part of this transformation through technologies such as DevOps and Cloud Computing.` |
-| Engineering Managers/Directors | [7CTOs](https://7ctos.com/) | Executive coaching for CTOs | 
+| Engineering Managers/Directors | [7CTOs](https://7ctos.com/) | Executive coaching for CTOs |
 | Engineering Managers/Directors | [PlatoHQ](https://www.platohq.com/) | Leadership mentorship for engineering teams |
 | Finance/Accounting | Licenses and CPE Credits | Program Examples: Certified public accountant, Certified financial analyst, Certified management accountant, Enrolled agent, Certified internal auditor, Certified fraud examiner, Chartered global management accountant, Certified Payroll Professional, Fundamental Payroll Certification |
 | Development and Product | [Certified Agile Leadership](https://www.scrumalliance.org/get-certified/agile-leadership/certified-agile-leadership) | `Scrum Alliance certified agilists who teach Certified Agile Leadership demonstrate years of real-world experience and success coaching agile teams and supporting agile transformations.` |
@@ -269,10 +269,10 @@ The following programs have been contributed by leaders across the organization.
 | Security | [Offensive Security](https://www.offensive-security.com/) | Rigorous and specialized infosec training. |
 | Any | [The Power of Habit](https://cruciallearning.com/the-power-of-habit/) | 3-5 hours of self-paced learning. Read a review from GitLab team member [here](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/597#note_1083831440) |
 
-## Benefit processing documentation for the Total Rewards team 
+## Benefit processing documentation for the Total Rewards team
 
 ### Processing Growth and Development Applications
-Reimbursements for over $1,000 USD will be processed by the following: 
+Reimbursements for over $1,000 USD will be processed by the following:
 
 1. Team member opens a new Growth & Development issue and requests for approval from their Manager and Executive Leader (if the application is over $1000 USD).
 1. Total Rewards will log the application on their Growth & Development Benefit log and assign the label `GrowthDevelopment::Logged`.
@@ -284,13 +284,13 @@ Reimbursements for over $1,000 USD will be processed by the following:
 1. Total Rewards will update the status of the application on the log and change it to `Payroll Notified`.
 1. Once payroll is notified, reimbursement will occur in the following pay cycle for the team member.
 
-### Administration of Your 4th Trimester 
+### Administration of Your 4th Trimester
 
 1. If the team member lives in a country where this benefit is considered taxable income (currently only in Australia and some cases in Belgium), notify payroll.
-1. Total Rewards will send an introductory email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
+1. Total Rewards will send an introductory email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program.
 
 **Billing:**
-Your 4th Trimester will bill GitLab for this benefit quarterly with 50% at intake and 50% at the completion of the coaching program per participant. If there are more than 5 participants in a quarter, there will be a discount on the bill. If there are any tax implications for the GitLab team member, Total Rewards will work with payroll to ensure this is reported compliantly. 
+Your 4th Trimester will bill GitLab for this benefit quarterly with 50% at intake and 50% at the completion of the coaching program per participant. If there are more than 5 participants in a quarter, there will be a discount on the bill. If there are any tax implications for the GitLab team member, Total Rewards will work with payroll to ensure this is reported compliantly.
 
 ### Recoupment of Growth & Development Reimbursements
 
@@ -298,7 +298,7 @@ Process for Total Rewards Analysts for recouping Growth & Development reimbursem
 
 * Check when the reimbursement was processed (via payroll changes sheets)
 * Ask payroll for the pay stubs
-* Fill out a [Recoupment Notice Form](https://docs.google.com/document/d/1gKJlcLbQ-Y9KZZniYHRptG6qIOzleyDaCdbQWEkswTA/edit?ts=6033d0b3) 
+* Fill out a [Recoupment Notice Form](https://docs.google.com/document/d/1gKJlcLbQ-Y9KZZniYHRptG6qIOzleyDaCdbQWEkswTA/edit?ts=6033d0b3)
 * Have the form audited by someone in the Total Rewards team
 * Stage the document in DocuSign
 * Fill out the Growth & Development Recoupment Log
