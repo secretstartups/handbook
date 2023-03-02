@@ -1019,8 +1019,8 @@ Double credit nor double compensation will be given
 
 ## BDR Event Promotion and Sales Dev Org Follow Up
 
-To increase engagement at Field and Corporate Marketing events, it’s helpful to have BDR’s involved with pre-event outreach, on-site participation, or a combination of both.
-Learn more about [Field](/handbook/marketing/field-marketing/) and [Corporate Marketing](/handbook/marketing/corporate-marketing/) via their linked handbook pages.
+To increase engagement at Field and Corporate events, it’s helpful to have BDR’s involved with pre-event outreach, on-site participation, or a combination of both.
+Learn more about [Field](/handbook/marketing/field-marketing/) and [Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/) via their linked handbook pages.
 
 ### Approvals Required
 The FMM Regional team & the AMER or EMEA/APAC Regional Senior BDR Manager will review the upcoming quarter event calendar to discuss which events needs BDR support and what level of support would be needed. The Regional Senior BDR Manager will sign off on the related event support by referencing the "BDR approved" column in the [Marketing Calendar SSOT worksheet](/handbook/marketing/#marketing-calendar). FMMs will then open the related FMM/ISR/SDR issue mentioning the Regional Senior BDR Manager. The Regional Sr. BDR Manager will assign a Manager DRI who will then include related BDRs participating in the event's BDR pre and post tasks.
