@@ -116,3 +116,11 @@ Note: `Manager` denotes a management of a certain specialty, whereas `Manager,` 
 | Technical Marketing Manager	           | Senior Technical Marketing Manager          |                                   |
 | Manager, Technical Marketing	         | Director, Technical Marketing         |                                   |
 | Director, Technical Marketing	   | Senior Director, Technical Marketing               |                                   |
+
+### Contributor Success Fullstack Engineer Career Path
+
+These are the expected competencies of the Fullstack Engineer, Contributor Success role by career level.
+
+1. [Intermediate](/handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/intermediate/)
+1. [Senior](/handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/senior/)
+1. [Staff](/handbook/marketing/career-development/matrix/marketing/community-relations/contributor-success/staff/)
