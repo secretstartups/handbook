@@ -46,6 +46,8 @@ See DR issue template definitions below.
 ### Assets in scope
 Only the assets and scan types listed [here](https://internal-handbook.gitlab.io/handbook/engineering/horse/pubsec/fedramp-boundary-vulnerability-scanning/) are in-scope. Do not submit a DR for a scan type (e.g. SAST) or asset not included within the production authorization boundary.
 
+Vulnerabilities in-scope for FedRAMP get the `FedRAMP::Vulnerability` label applied. See AppSec's [FedRAMP Vulnerability Scanning and Triage Process](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/fedramp-scanners-process.html#for-each-finding-from-dast-and-container-scanners) for more details, as well as [standard vulnerability labels](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues/34199373).
+
 ## Roles & Responsibilities
 
 | Role | Responsibility |
@@ -76,11 +78,11 @@ If approved, the ISSO will notify all involved parties via the GitLab issue with
 ### DR types
 The following definitions were adopted from the FedRAMP PMO and all 3 have issue templates for submitting DR requests:
 - [**Risk adjustments**](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx): A reduction in the scanner-cited risk level of a finding justified through existing or new compensating controls that reduce likelihood and/or impact of exploitation. 
-  - **TEMPORARY GUIDANCE ON VENDOR DEPENDENCY RISK ADJUSTMENT DRs**: Due to significant resource strain, no reporting obligations for GitLab at this time, and pending automation, please do not submit Risk Adjustment DRs for Red Hat UBI vendor dependencies. Please continue to apply the `Vulnerability::Vendor Base Container Fix Unavailable` label on the vulnerability issues until this is automated.
+  - **TEMPORARY GUIDANCE ON VENDOR DEPENDENCY RISK ADJUSTMENT DRs**: Due to significant resource strain, no reporting obligations for GitLab at this time, and pending automation, please do not submit Risk Adjustment DRs for Red Hat UBI vendor dependencies. Please continue to apply the `Vulnerability::Vendor Base Container::Fix Unavailable` label on the vulnerability issues until this is automated.
 - [**False positives**](https://csrc.nist.gov/glossary/term/false_positive): An alert that incorrectly indicates that a vulnerability is present. Justified through documentation and evidence.
 - [**Operational requirements**](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx): A finding that cannot be remediated, often because the system will not function as intended, or because a 3rd party/vendor explicitly indicated it does not intend to offer a fix to their product. FedRAMP will not approve an OR for a High vulnerability; however, the risk may be mitigated and adjusted accordingly. 
 
-Vendor Dependency vulnerabilities, in which GitLab is dependent on a 3rd party vendor or open source project to remediate a vulnerability, can technically fall into any of the categories above. These vulnerability issues must always be identifed using the `Vulnerability::Vendor Base Container Fix Unavailable` label (or `Vulnerability::Vendor Package Fix Unavailable` if not part of a container base image). Special handling is required for Critical and High severity vendor dependencies so that risk can be mitigated to an acceptable level.
+Vendor Dependency vulnerabilities, in which GitLab is dependent on a 3rd party vendor or open source project to remediate a vulnerability, can technically fall into any of the categories above. These vulnerability issues must always be identifed using the `Vulnerability::Vendor Base Container::Fix Unavailable` label (or `Vulnerability::Vendor Package::Fix Unavailable` if not part of a container base image). Special handling is required for Critical and High severity vendor dependencies so that risk can be mitigated to an acceptable level.
 
 ### Workflow Labels
 
