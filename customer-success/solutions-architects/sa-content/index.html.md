@@ -52,6 +52,7 @@ This is not meant to limit creativity. It's a [boring](/handbook/values/#boring-
 | 2022-10-06   | [Jeremy Wagner]( https://gitlab.com/jeremywagner )                                           | [ How to automate testing for a React application with GitLab ]( /blog/2022/11/01/how-to-automate-testing-for-a-react-application-with-gitlab/ ) | Blog         |
 | 2022-01-27   | [ Sarah Bailey ]( https://gitlab.com/sbailey1 )                                              | [ All About The Merge Request ]( https://www.youtube.com/watch?v=eTIVgyknA9w )                                                                   | Video        |
 |   2023-01-09  | [Julie Byrne](https://gitlab.com/juliebyrne) | [Migrating from Self-Managed to SaaS](https://youtu.be/L11mZqQKuwo)     | Video |
+|   2023-02-06  | [Siddharth Mathur](https://gitlab.com/smathur) | [Setting Up OIDC to Get Credentials from Google Cloud](https://www.youtube.com/watch?v=Psfy3dIa6w8&list=PL05JrBw4t0KrjbWGBOq710-WAUpQTVial)     | Video |
 
 ## DRI rotation
 
