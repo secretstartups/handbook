@@ -34,6 +34,10 @@ or speak with a Support Operations Manager when you are unsure.
 
 ## Performing changes to shadow rotations
 
+This type of change is classifed as a
+[Criticality 4](https://about.gitlab.com/handbook/support/support-ops/workflows/change_criticalities.html#criticality-4)
+level change.
+
 **NOTE** If you are removing 100% of users from a schedule, you should add the
 user "Support Ops Bot" on the schedule. This will prevent the layer from being
 deleted due to a lack of users.
@@ -47,6 +51,12 @@ The general guidelines for doing shadow rotation changes are:
   the schedule
 
 ## Performing changes to non-shadow rotations
+
+This type of change is classifed as a
+[Criticality 1](https://about.gitlab.com/handbook/support/support-ops/workflows/change_criticalities.html#criticality-1)
+level change.
+
+
 
 The general guidelines for doing non-shadow rotation changes are:
 
