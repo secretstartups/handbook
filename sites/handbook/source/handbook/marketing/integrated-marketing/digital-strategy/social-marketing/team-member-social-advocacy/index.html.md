@@ -21,14 +21,14 @@ twitter_creator: gitlab
 
 ### Social Advocacy Strategy
 
-To enable all GitLab team members to confidently and comfortably share GitLab related stories on their personal social media channels in a way that is risk adverse yet provides measureable performance. 
+To enable all GitLab team members to confidently and comfortably share GitLab related stories on their personal social media channels in a way that is risk adverse yet provides measureable performance.
 
-#### Goals of social media advocacy 
+#### Goals of social media advocacy
 
 - Improve the organic reach of GitLab messaging
 - Increase traffic to our site from social media, particularly to blogs and campaign content
 - Reduce brand and team member risk by providing curated content to publish
-- Secondary: aid in sales processes for social selling initiatives 
+- Secondary: aid in sales processes for social selling initiatives
 - Secondary: drive recruitment to accelerate hiring values-drive team members
 
 #### Benefits of social advocacy to all team members
@@ -82,7 +82,7 @@ When you click the share icon on any story, you’ll see that we’ve added a su
 As often as you like, but try to make a habit of logging in at least once a week, as we are constantly adding new and useful information.
 </p>
 <p>
-We will make sure that any time-sensitive stories find their way to you through Slack, like in the #whats-happening-at-gitlab channel. 
+We will make sure that any time-sensitive stories find their way to you through Slack, like in the #whats-happening-at-gitlab channel.
 </p>
 <p>
 There are other ways to stay in touch with the latest stories to share:
@@ -101,7 +101,7 @@ If you run your workday via your calendar, consider adding a 25 min block once a
 <details><summary>Can I automate Bambu?</summary>
 
 <p>
-It’s possible to spend less than 25 minutes every time you log into Bambu to schedule content on your social media channels for a week or two. <a href="https://bambu.zendesk.com/hc/en-us/articles/360004450291-Sharing-a-Story">We highly recommend taking advantage of the “Send Later” button feature</a> when you want to share a story. 
+It’s possible to spend less than 25 minutes every time you log into Bambu to schedule content on your social media channels for a week or two. <a href="https://bambu.zendesk.com/hc/en-us/articles/360004450291-Sharing-a-Story">We highly recommend taking advantage of the “Send Later” button feature</a> when you want to share a story.
 </p>
 
 </details>
@@ -143,10 +143,10 @@ The GitLab Social Team are the administrators of the social advocacy program. Ad
 <details><summary>Curators (or Contributors)</summary>
 
 <p>
-Curators are selected intentionally to drive our advocacy content strategy and specific team members are asked to take on the role of a curator as a part of their everyday jobs at GitLab. We will have curators representing all areas of GitLab the brand and the product in order to curate a list of related content worth sharing on social media. 
+Curators are selected intentionally to drive our advocacy content strategy and specific team members are asked to take on the role of a curator as a part of their everyday jobs at GitLab. We will have curators representing all areas of GitLab the brand and the product in order to curate a list of related content worth sharing on social media.
 </p>
 <p>
-Curators have all Reader access as well as the ability to curate stories and submit them to a Manager or Admin for approval. 
+Curators have all Reader access as well as the ability to curate stories and submit them to a Manager or Admin for approval.
 </p>
 <p>
 Join the #social-advocacy-curators Slack channel to stay in touch with the curator program and the latest news. This channel is intended for team members who are identified as content curators only.
@@ -173,7 +173,7 @@ Join the #social-advocacy Slack channel to stay in touch with the program and th
 
 ### Suggesting content for team members to share on Bambu
 
-While we have a team of content curators working to add relevant and fresh content for the whole team to share on a regular basis, you may come across content that you'd like us to consider adding to Bambu, mainly content from 3rd party sources: your own blogs or a partner website link. Here's how to suggest content to an admin to add to Bambu. 
+While we have a team of content curators working to add relevant and fresh content for the whole team to share on a regular basis, you may come across content that you'd like us to consider adding to Bambu, mainly content from 3rd party sources: your own blogs or a partner website link. Here's how to suggest content to an admin to add to Bambu.
 
 - Click the +Suggest Story button in the upper right hand corner
 - Paste the story URL and click Suggest Story
@@ -185,7 +185,7 @@ Please note that most of what is approrpriate to share that comes from GitLab wi
 
 Elevate the way they use Bambu, and in turn produce more content shares, engagement and overall content impact. You can become a power user in less than 15 minutes a day!
 
-##### Schedule a post at least every other day. 
+##### Schedule a post at least every other day.
 
 We certainly don’t want you to share just for the sake of sharing, but with Bambu, you’ll have relevant content curated for you almost daily. By sharing more often, it signals to your social audience that you are a go-to source of information and expertise.
 
@@ -193,7 +193,7 @@ Schedule content in advance using the content scheduler function in Bambu. Consi
 
 Scheduling stories on your social media channels is the best way to automate some of the manual work behind promoting content on social media. While it still requires you to check out Bambu and to edit the copy suggestions, you can "set it and forget it" and bulk a week or two worth of social posts in one short period of time. This is how the scheduling feature looks in Bambu.
 
-<img src="/images/handbook/marketing/corporate-marketing/bambu-scheduling-screenshot.png" alt="Sreenshot of Bambu scheduling feature">
+<img src="/images/handbook/marketing/integrated-marketing/social-marketing/bambu-scheduling-screenshot.png" alt="Sreenshot of Bambu scheduling feature">
 
 ##### Customize the post copy with your point of view.
 
@@ -203,7 +203,7 @@ Pro tip: If you’re stuck on what to say, think “how would I explain this con
 
 ##### Engage beyond the share
 
-When your audience really connects with a post you’ve shared, they may comment with their thoughts or even a question. It’s a great opportunity to start a dialogue by replying to their comment and sharing more of your perspective. 
+When your audience really connects with a post you’ve shared, they may comment with their thoughts or even a question. It’s a great opportunity to start a dialogue by replying to their comment and sharing more of your perspective.
 
 Pro tip: Aim to reply to comments within 1-2 days to keep the conversation timely and relevant
 
@@ -215,7 +215,7 @@ Pro tip: Aim to reply to comments within 1-2 days to keep the conversation timel
 
 The Slack integration will allow us to broadcast a Bambu story link to Slack, giving our team the headsup on big news items that we'd like to share. This will allow GitLab to continue operating like GitLab. You can also check out the latest stories on Bambu inside of any Slack channel by using `/bambu` for a private message showing you our top stories.
 
-<img src="/images/handbook/marketing/corporate-marketing/bambu-slack-stories-screenshot.png" alt="Sreenshot of Bambu stories in Slack">
+<img src="/images/handbook/marketing/integrated-marketing/social-marketing/bambu-slack-stories-screenshot.png" alt="Sreenshot of Bambu stories in Slack">
 
 #### Okta
 
@@ -225,13 +225,13 @@ Offboarding: When a team member loses access to Okta, they will also lose access
 
 - Review the offboarding issue for team member name
 - Remove team member's account from Bambu by deleting it entirely
-- Check off the `Access Deprovisioned` box. 
+- Check off the `Access Deprovisioned` box.
 
 ### Contests
 
 We'll run contests for team members from time to time to enable more sharing across particular topics or campaigns. You'll find out about these contests in the #whats-happening-at-gitlab Slack channel in the coming months.
 
-### Reporting and Metrics 
+### Reporting and Metrics
 
 [Bambu provides a report center to outline all of the possibilities here](https://bambu.zendesk.com/hc/en-us/articles/360020038351-Bambu-Report-Guide).
 
@@ -251,42 +251,42 @@ Ad value or equivalency - similar to how we measure this for the brand, this is 
 
 ##### Why did we choose Bambu over [some other platform]?
 
-There are dozens of employee social media advocacy tools, many of which operate similarly. We chose Bambu due to the deep ties with our existing social media management software, Sprout Social, and the potential to streamline the "brand-to-team-member" content process. It's also pretty easy to use. 
+There are dozens of employee social media advocacy tools, many of which operate similarly. We chose Bambu due to the deep ties with our existing social media management software, Sprout Social, and the potential to streamline the "brand-to-team-member" content process. It's also pretty easy to use.
 
 ##### I was not able to provide feedback on the tool selection process, the rollout of this program, or the topics and strategy. What gives?
 
-This project has operated inside of the social team for a long time and has had to overcome many challenges from across the company in order to launch. We're thrilled that you'd want to provide feedback, however, we've developed the program with the right team members attached and providing feedback. For your ideas, please consider opening an issue for a future iteration where the team can consider your ideas to be included at a later time. 
+This project has operated inside of the social team for a long time and has had to overcome many challenges from across the company in order to launch. We're thrilled that you'd want to provide feedback, however, we've developed the program with the right team members attached and providing feedback. For your ideas, please consider opening an issue for a future iteration where the team can consider your ideas to be included at a later time.
 
 ##### Will Bambu replace the use of issues for social media enablement for team members?
 
-Yes, that was a part of the original goal. Using GitLab issues for social enablement is an extremely manual process that has not been efficent. Bambu will allow a centralized and easy to use administration to the entire company while also helping us to understand performance metrics. 
+Yes, that was a part of the original goal. Using GitLab issues for social enablement is an extremely manual process that has not been efficent. Bambu will allow a centralized and easy to use administration to the entire company while also helping us to understand performance metrics.
 
 ##### What personally identifiable data is available for GitLab?
 
-GitLab is not given any personal information about your social media profiles, actions, comments, DM, or any other element. When you connect your social media channels to Bambu it provides a way for you to schedule and publish content on your social channels automatically using all of the APIs available on these social channels. It also provides a top level, no context review of performance metrics on *posts you published on your personal social media channels through Bambu only. 
+GitLab is not given any personal information about your social media profiles, actions, comments, DM, or any other element. When you connect your social media channels to Bambu it provides a way for you to schedule and publish content on your social channels automatically using all of the APIs available on these social channels. It also provides a top level, no context review of performance metrics on *posts you published on your personal social media channels through Bambu only.
 
-The data that GitLab receives shows your posts published through Bambu: 
+The data that GitLab receives shows your posts published through Bambu:
 - Reach - or how many people saw the posts you published through Bambu
-- Engagements - or how many actions people took on the posts you published through Bambu; comments, likes, shares, etc. 
+- Engagements - or how many actions people took on the posts you published through Bambu; comments, likes, shares, etc.
 - Clicks - or how many times people clicked on the link you published in your post through Bambu
 
 *GitLab cannot see who liked your posts, what their comments were on your posts, who shared your posts, or any information relating to posts that are not published through Bambu (so all of your personal activity is still personal).*
 
 Here is a look at the data that is personally identified with individual team members. Note again that we cannot see the context behind the data and this is only for content that is scheduled and published through Bambu.
 
-<img src="/images/handbook/marketing/corporate-marketing/Bambu-Data-1.png" alt="Sreenshot of Bambu data">
+<img src="/images/handbook/marketing/integrated-marketing/social-marketing/Bambu-Data-1.png" alt="Sreenshot of Bambu data">
 
 ##### Why are preview images, titles, and text not included within shared posts?
 
 There may be an issue with the page you're trying to use for the story. Preview images, titles, and text are dictated by the data in the frontmatter of the page, and we may not have control over what appears here. [Learn more about how to determine what information gets pulled by social channels here.](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#data-needed-on-pages-in-order-for-links-to-work-on-social-media)
 
-##### Can I share content that is not alredy in Bambu through Bambu for better reporting? 
+##### Can I share content that is not alredy in Bambu through Bambu for better reporting?
 
 No, we do not have this feature activated and it is not on our roadmap.
 
 ##### Can I suggest individual pieces of content be added to Bambu?
 
-Yes, there is a suggestion feature built into the tool. You'll see a `Suggest Story` button on the top left of your screen. However, we have an active group of curators who are responsbile for curating content. We are asking that the team keep their suggestions to away from [topics that are already accounted for with DRIs](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#current-list-of-curators). Please connect with the DRI for a topic if you believe a piece of content should be added, since they are the responsible party on their assigned topic. Applying a team member's suggestion is entirely at the discretion of the social team and/or the assigned DRI for a specific topic and is subjective to what else is being promoted, if there are more important pieces of content for that topic, etc. 
+Yes, there is a suggestion feature built into the tool. You'll see a `Suggest Story` button on the top left of your screen. However, we have an active group of curators who are responsbile for curating content. We are asking that the team keep their suggestions to away from [topics that are already accounted for with DRIs](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#current-list-of-curators). Please connect with the DRI for a topic if you believe a piece of content should be added, since they are the responsible party on their assigned topic. Applying a team member's suggestion is entirely at the discretion of the social team and/or the assigned DRI for a specific topic and is subjective to what else is being promoted, if there are more important pieces of content for that topic, etc.
 
 Please keep in mind that providing a suggestion is only the first piece of the work necessary for the content to appear for the entire team to share on Bambu. We'd still need to vet the content for standards, legal review, write copy for the posts, and release it to be available in the platform. Adding suggestions adds more work for the social team and our team of curators, so make it worth it!
 
@@ -294,7 +294,7 @@ Please keep in mind that providing a suggestion is only the first piece of the w
 
 While Bambu offers the possibility to connect with both Salesforce and Marketo for appropriate attribution, these features have not yet been activated. Issues for connecting [Salesforce](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1635) and [Marketo](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/4739) are opened and need to be completed. If you believe these connections are important for your use of Bambu, please reach out to me and the other stakeholders in the appropriate issue linked above.
 
-##### Where does the content in Bambu come from? 
+##### Where does the content in Bambu come from?
 
 The content in Bambu comes from a group of GitLab team members we call curators, they help us to source and promote content that is important in their line of work. Folks from the security team will provide security related content, our all remote team will provide content about remote work, and so on. If there is a focus that is not being represented and it would provide content that the team actually wants to promote, please reach out in #social-advocacy-curators Slack channel with your idea. Please note that in the first few months of this program launch, we are not prioritizing more topics and more curators, so while the idea might be great, we'll need to add any additional thoughts to a future iteration. [Learn more about our curator program](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/).
 
@@ -304,34 +304,34 @@ This could be a for a number of reasons. If the topic is already covered in Bamb
 
 ##### What's in the next iteration of Bambu and social advocacy?
 
-Sales: We're interested in getting our sales team and their sales-adjacent partners access to content that will help them drive better results as well as plug into the tools they use, like Marketo and Salesforce, for proper attribution data. 
+Sales: We're interested in getting our sales team and their sales-adjacent partners access to content that will help them drive better results as well as plug into the tools they use, like Marketo and Salesforce, for proper attribution data.
 
-Talent Brand: We'd like to work with the talent aquisition and talent brand teams to curate more employer brand content that could lend in securing better talent in our pipeline. 
+Talent Brand: We'd like to work with the talent aquisition and talent brand teams to curate more employer brand content that could lend in securing better talent in our pipeline.
 
-If you are in one of these teams and would like to volunteer your time to build these iterations out, please reach out to the social team in the  #social-advocacy-curators Slack channel. 
+If you are in one of these teams and would like to volunteer your time to build these iterations out, please reach out to the social team in the  #social-advocacy-curators Slack channel.
 
 ## Best Practices
 
 Here are some best practices for using Bambu for GitLab-related social media posts.
 
-##### Use Your Voice 
+##### Use Your Voice
 
-- Write posts in your own personal voice and style. 
-- Be sure to refer to GitLab with “we” and not "I" (as appropriate) to represent the company and the community. Remember that even if you are not a formal spokesperson for the company, people will see you as a representative of GitLab. 
+- Write posts in your own personal voice and style.
+- Be sure to refer to GitLab with “we” and not "I" (as appropriate) to represent the company and the community. Remember that even if you are not a formal spokesperson for the company, people will see you as a representative of GitLab.
 - If you choose to address competitors, highlight positive differences (focus on the ways that GitLab outperforms other solutions)
 - For example, if someone complains about GitLab’s product, you can suggest they’d tell us more by providing feedback in the issue tracker. Someone thinks GitLab could be better? Invite them to submit a feature proposal.
 
-##### Social Media Structure and Style 
+##### Social Media Structure and Style
 
-Make sure your copy follows the AIDA Model, a copywriting formula to drive interest and action from your audience. 
+Make sure your copy follows the AIDA Model, a copywriting formula to drive interest and action from your audience.
 
-- Attention: Catch your audience’s attention to create awareness. 
+- Attention: Catch your audience’s attention to create awareness.
 - Interest: Drive interest by connecting with your reader.
 - Desire: Generate desire by explaining what they get out of it.
 - Action: Move your reader to take action. (ex. ‘Learn more’)
-- Try to visually break it into paragraphs or one-liners (even using emojis/bullets) for longer copy. For example: 
+- Try to visually break it into paragraphs or one-liners (even using emojis/bullets) for longer copy. For example:
 ```
-GitLab has been a catalyst for change when it comes to the evolution of #DevSecOps. 
+GitLab has been a catalyst for change when it comes to the evolution of #DevSecOps.
 
 That’s why we were recognized as a challenger in the 2021 Gartner Magic Magic Quadrant for Application Security Testing! 🏆
 
@@ -340,19 +340,19 @@ Learn more about this award. 👇
 
 ##### Ideal post length
 
-- Twitter: 70 to 100 characters 
+- Twitter: 70 to 100 characters
 - LinkedIn: around 100 characters
-- Facebook: around 100 characters 
+- Facebook: around 100 characters
 
 You can always go longer or use threaded tweets, but this is a good recommendation based on the top performing posts across these channels.
 
-##### Addressing and Avoiding Conflict 
+##### Addressing and Avoiding Conflict
 
-Feel free to disagree with people. Try to inform the person (respectfully) and provide any links they may need to make a more informed decision. Begin your response with “I disagree” as opposed to “You’re wrong.” 
+Feel free to disagree with people. Try to inform the person (respectfully) and provide any links they may need to make a more informed decision. Begin your response with “I disagree” as opposed to “You’re wrong.”
 
 Sometimes, the best course of action is to walk away and not engage with the person at all. Use your judgment in how you approach rude or off-putting comments from strangers in real life to help you decide.
 
-You can choose not to engage with arguments, step away from the conversation and delegate to someone else, or give a simple acknowledgment (e.g. “Thanks for sharing your opinion.”) 
+You can choose not to engage with arguments, step away from the conversation and delegate to someone else, or give a simple acknowledgment (e.g. “Thanks for sharing your opinion.”)
 
 For a foundational understanding of these nuances, read [GitLab's guide to communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/).
 

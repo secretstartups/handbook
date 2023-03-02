@@ -17,7 +17,7 @@ twitter_creator: "gitlab"
 ℹ️ This page is the single source of truth for all administrative tasks, templates, and project management needs focused on GitLab brand social channels. If your question is "how?", the answer will be here.
 {:.alert .alert-info .text-justify}
 
-## Social Media Project Management 
+## Social Media Project Management
 
 [Epic Roadmap](https://gitlab.com/groups/gitlab-com/-/roadmap?scope=all&utf8=✓&state=opened&label_name[]=Social%20Media){:.btn .btn-purple-inv}
 [Issue Board by Milestone](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/boards/1655815?&label_name[]=Social%20Media){:.btn .btn-purple-inv}
@@ -32,9 +32,9 @@ Many requests for social media coverage could sound like one ask, but ultimately
 ℹ️ For an anything to get promoted on social, **there must be a dedicated social issue**. Most campaigns with multiple activation points also require an epic. Not sure what you need? Message the team in the #social_media_action Slack channel.
 {:.alert .alert-info .text-justify}
 
-Head to the [corporate marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues) and create a new issue with the best template below. 
+Head to the [corporate marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues) and create a new issue with the best template below.
 
-##### General Request Templates 
+##### General Request Templates
 
 [General Request](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-general-request.md){:.btn .btn-purple-inv}
 [Listening Report Requests](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-listening.md){:.btn .btn-purple-inv}
@@ -60,45 +60,45 @@ Head to the [corporate marketing project](https://gitlab.com/gitlab-com/marketin
 
 - Sometimes it is not possible to schedule posts when desired due to any number of reasons, but the social team will work with you to make sure you're supported.
 - The social team reserves the right to not publish for a myriad of reasons including crisis moments, calendar priorities, and other elements. We'll do our best to explain why when asked.
-- If you haven't done so already, consider [GitLab's Social Advocacy Program](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/) as an additional resource for amplification. Advocacy allows your marketing messages to be given to GitLab Team Members to share on their own personal social media channels. If your team does not have a designated [curator](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#current-list-of-curators), you can suggest the piece of content through [Bambu](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#bambu-our-social-advocacy-tool) for approval. 
+- If you haven't done so already, consider [GitLab's Social Advocacy Program](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/) as an additional resource for amplification. Advocacy allows your marketing messages to be given to GitLab Team Members to share on their own personal social media channels. If your team does not have a designated [curator](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#current-list-of-curators), you can suggest the piece of content through [Bambu](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#bambu-our-social-advocacy-tool) for approval.
 
 ### Request workflows
 
 - When a social media issue template is used, the requestor is required to fill in as much info as they have that is appropriate to fulfill the request.
-- Issues are automatically assigned to the `@social` group, which contains the entire social team and is added to the `social media - triage` milestone. 
-- A member of the social team will see the issue in their to-do's, and can either pick up the issue to work on themselves or discuss it with other team members about who is best equipped to fulfill the request. 
+- Issues are automatically assigned to the `@social` group, which contains the entire social team and is added to the `social media - triage` milestone.
+- A member of the social team will see the issue in their to-do's, and can either pick up the issue to work on themselves or discuss it with other team members about who is best equipped to fulfill the request.
 - The team member who is going to do the work unassigns other team members and leaves themselves as the only assignee.
 - Team member considers timelines, workloads, event dates, and other information to then assign the issue to a `mktg: 202x-xx-xx` milestone according to when the work is expected to be completed _or_ when there needs to be another touchpoint between the social team and the requestor. Milestones are best viewed on an [Issue Board like this one.](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/boards/1655815?&label_name[]=Social%20Media) This expresses a timeline easier to understand workloads.
 - Adding a due date is only required when the milestone selected is _not when the work will be delivered_, so in the event the milestone is another touchpoint. Some requestors may add a due date themselves. If the date needs to change from what the requestor selected, simply tag them in a comment and let them know why it has changed.
 
 #### Blog coverage workflow
 
-GitLab's blogs play a vital role in brand social's success, particularly from the POV of topics that go deep into technical specifics. While we do not share posts for 100% of blogs published, we do share approx. 90% of blogs that are published. There is no set of determining factors as to which blogs we ought to share which we don't share. These specifics are subjective and usually accompanied by details from the editorial team that help us to understand the context of the blog. E.g., if a blog is published solely for SEO or other marketing needs, the content of the blog is likely to be useless for the majority of social followers, so we'll decide to skip it. On the opposite side, if a blog is tied to a GTM campaign, these are almost always shared on brand social due to usually being true-top-of-funnel content that social audiences would benefit from. From the social perspective, the critical question to answer is, "would our audiences benefit from seeing a link to this blog? How?". 
+GitLab's blogs play a vital role in brand social's success, particularly from the POV of topics that go deep into technical specifics. While we do not share posts for 100% of blogs published, we do share approx. 90% of blogs that are published. There is no set of determining factors as to which blogs we ought to share which we don't share. These specifics are subjective and usually accompanied by details from the editorial team that help us to understand the context of the blog. E.g., if a blog is published solely for SEO or other marketing needs, the content of the blog is likely to be useless for the majority of social followers, so we'll decide to skip it. On the opposite side, if a blog is tied to a GTM campaign, these are almost always shared on brand social due to usually being true-top-of-funnel content that social audiences would benefit from. From the social perspective, the critical question to answer is, "would our audiences benefit from seeing a link to this blog? How?".
 
 Below is the workflow for publishing blogs on brand social channels.
 
 - Social team member sees new blogs in the #content-updates Slack channel
 - Social team member takes the link and heads to Sprout's publishing settings to set the UTMs: https://app.sproutsocial.com/settings/publishing/)
 - Under URL tracking, click "+add url"
-- Set the parameter for campaign and save it. For basic blogs, the campaign is blog. If it can be (or is explicitly) tied to a marketing campaign, use that campaign utm. e.g., 10years, seeingisbelieving, devopsplatform. If you are unsure, ask the editorial team inside the Slack thread for the blog. 
+- Set the parameter for campaign and save it. For basic blogs, the campaign is blog. If it can be (or is explicitly) tied to a marketing campaign, use that campaign utm. e.g., 10years, seeingisbelieving, devopsplatform. If you are unsure, ask the editorial team inside the Slack thread for the blog.
 - Head to Sprout's publishing tab: https://app.sproutsocial.com/publishing/, and schedule blog content. When you add the URL of the blog to the post, it will automatically add UTMs based on the channel and use the preconfigured campaign UTM from above.
 
 Key parameters on sharing blogs
 
 - Suggested copy is provided by the editorial team via the "click to tweet" box at the bottom of every blog. Please feel free to use this copy directly or tweak as desired. If there is not a "click to tweet" box at the bottom of the blog, consider reviewing paragraphs 1 and 2, as well as the last paragraph of the blog, for copy ideas
 - Schedule each blog at least 1x across Twitter, Facebook, and LinkedIn, unless the blog would only benefit from key niche audiences on specific channels (e.g. community-oriented posts for Twitter, or job related ones on LinkedIn). Our audiences do have a great amount of cross-pollination, so many blogs will make sense across channels.
-- Consider scheduling additional timeslots 2-8 weeks ahead of your first scheduled posts. E.g. a new product launch, timed details are included with end dates, etc. If there are weeks between posts, using the same copy is fine. However, if these posts would appear back-to-back week over week, consider editing the copy to be different. 
-- General blog coverage without subjective needs added may look like this: 
-   - Copy 1 scheduled on FB, TW, LI 
+- Consider scheduling additional timeslots 2-8 weeks ahead of your first scheduled posts. E.g. a new product launch, timed details are included with end dates, etc. If there are weeks between posts, using the same copy is fine. However, if these posts would appear back-to-back week over week, consider editing the copy to be different.
+- General blog coverage without subjective needs added may look like this:
+   - Copy 1 scheduled on FB, TW, LI
    - Copy 1 scheduled on TW again in 2 weeks
    - Copy 2 scheduled on FB, TW, and LI approx 4 weeks from the original scheduled date above.
-- Unless dates/times require specific publishing time windows, the specific publishing volume and timelines aren't are important as it is to dynamically create variability in our content and our topics by mixing blogs and topics with other posts. 
+- Unless dates/times require specific publishing time windows, the specific publishing volume and timelines aren't are important as it is to dynamically create variability in our content and our topics by mixing blogs and topics with other posts.
 
 ## Organic Social and GTM Motions
 
-The social team does not create or own the core messaging for GTMs. We'll take campaign manager approved messaging, apply the [GitLab tone of voice](https://design.gitlab.com/brand/overview/#tone-of-voice), and include social practices. 
+The social team does not create or own the core messaging for GTMs. We'll take campaign manager approved messaging, apply the [GitLab tone of voice](https://design.gitlab.com/brand/overview/#tone-of-voice), and include social practices.
 
-We use the following workflow to make sure teams are aligned and able to organize effectively. 
+We use the following workflow to make sure teams are aligned and able to organize effectively.
 
 #### Social and GTM Two-Step Process
 
@@ -109,8 +109,8 @@ GTM Campaign Manager should create a new issue, fill out the details, and attach
 [Social GTM Request Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-gtm-organic.md){:.btn .btn-purple-inv}
 
 ##### Recording the work once it's done
-    
-For each new reporting period (Quarter of Half); the social team will open a new organic social child epic. We'll use this child-epic as a repo after the work on an issue is completed. Since tactics (webinar, whitepaper, etc) each have their own child-epic already, we'll execute the work with an issue attached to these epics, close the issue and move to our social epic for record keeping. 
+
+For each new reporting period (Quarter of Half); the social team will open a new organic social child epic. We'll use this child-epic as a repo after the work on an issue is completed. Since tactics (webinar, whitepaper, etc) each have their own child-epic already, we'll execute the work with an issue attached to these epics, close the issue and move to our social epic for record keeping.
 
 [Social GTM Child Epic Code](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/epic_templates/social-gtm-epic.md
 ){:.btn .btn-purple-inv}
@@ -119,11 +119,11 @@ For each new reporting period (Quarter of Half); the social team will open a new
 
 In order for links to be successfully shared on social media, there are a few elements that are required to include in GitLab-owned pages including the handbook, all marketing website links, and even "3rd-party" sites we operate like Meetup, Hopin, and other sites for user registration and events.
 
-These elements help to populate the opengraph, sometimes called a social sharing card. 
+These elements help to populate the opengraph, sometimes called a social sharing card.
 
 The social team may reject any request to share links in social posts that do not include these elements
 
-![elements-of-an-opengraph](/images/handbook/marketing/corporate-marketing/elements-of-an-opengraph.png)
+![elements-of-an-opengraph](/images/handbook/marketing/integrated-marketing/social-marketing/elements-of-an-opengraph.png)
 
 There are a number of reasons these elements are required. These elements...
 - are more inclusive due to the nature of the elements - providing additional text to describe links in place of being able to understand the content visually
@@ -135,13 +135,13 @@ The elements are:
 - Page description
 - a unique-to-page-content image
 - "alt text" that describes the above image for the hearing impared
-- Twitter specific elements that help the channel identify authors and make our links more discoverable 
+- Twitter specific elements that help the channel identify authors and make our links more discoverable
 
 See below for code that can be added to the frontmatter of all pages. If you're using a "3rd-party" GitLab owned instance like Hopin or Meetup, these sites automate this need when you attach a core image, include a title in the event/page, and other elements.
 
-### Adding an image embed to links for sharing on social media 
+### Adding an image embed to links for sharing on social media
 
-No matter the circumstance, the social team will need a visual asset to accompany our posts. In many cases, it's most effective and time efficient if these images were created with the linked page development and added to the frontmatter before publicizing the link to teams who need to use it for promotional efforts. When there is not an image already embedded in the frontmatter of a page that GitLab owns or operates, the social team can either spend time creating our own images or reject the request. In many cases, it won't be an appropriate use of time for the social team to create our own images. 
+No matter the circumstance, the social team will need a visual asset to accompany our posts. In many cases, it's most effective and time efficient if these images were created with the linked page development and added to the frontmatter before publicizing the link to teams who need to use it for promotional efforts. When there is not an image already embedded in the frontmatter of a page that GitLab owns or operates, the social team can either spend time creating our own images or reject the request. In many cases, it won't be an appropriate use of time for the social team to create our own images.
 
 ###### Consider using an existing template in our Canva Enterprise account. These images have been approved to use
 
@@ -152,7 +152,7 @@ No matter the circumstance, the social team will need a visual asset to accompan
 - [Website Specific Content with Photo Template](https://www.canva.com/design/DAEexpNkq5Q/_5UM_sNe0YL7DJ_aOgK0Xw/view?utm_content=DAEexpNkq5Q&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 - [Big Announcement Template](https://www.canva.com/design/DAEexVDOW3s/5ogpNGfPRZf-BPSZ4GMeJw/view?utm_content=DAEexVDOW3s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 
-Need help? Reach out to #social_media_action Slack channel.  
+Need help? Reach out to #social_media_action Slack channel.
 
 ### Adding Frontmatter to GitLab-owned pages for proper social sharing
 
@@ -213,7 +213,7 @@ Please see [details in the Digital Marketing handbook](/handbook/marketing/integ
 ### Links in bio with LinkTree
 [LinkTree](https://linktr.ee/) is bio link tool. The Social Media team uses LinkTree to drive traffic to the GitLab website. Folks will click the link in bio and have a few options to choose from before landing on a webpage. The GitLab brand Linktree is: https://linktr.ee/GitLab
 
-At GitLab we have multiple CTA's and campaign goals. The idea here is that a LinkTree will give our community an exit route and determine themselves- on where they land. Once you click the link in bio you'll have tiles to choose from: Homepage, Handbook, Press, Blog, Get a Free Trial, etc. Tile options are a continuous iteration as they will change to reflect current campaigns. 
+At GitLab we have multiple CTA's and campaign goals. The idea here is that a LinkTree will give our community an exit route and determine themselves- on where they land. Once you click the link in bio you'll have tiles to choose from: Homepage, Handbook, Press, Blog, Get a Free Trial, etc. Tile options are a continuous iteration as they will change to reflect current campaigns.
 
 LinkTree credentials are managed via the Social Media Vault in 1 Password. Links in the LinkTree would need to be approved by the social team, as these links are considered inventory for organic social.
 
@@ -393,9 +393,9 @@ Our LinkedIn Events strategy is to raise attendance from x to xx or from xx to x
 
 LinkedIn Events are a great way to expand awareness of GitLab ran events. LinkedIn Page Admins can use LinkedIn Events to bring their professional community together safely and in real-time. Only page admins have the ability to create events under the GitLab brand LinkedIn page.
 
-Not every event at GitLab should have a LinkedIn Event landing page. We should be highly selective to field marketing and corporate marketing efforts. If we determine specific events for GTMs or other topics would be of interest to the community, we can add those events on a case-by-case basis. 
+Not every event at GitLab should have a LinkedIn Event landing page. We should be highly selective to field marketing and corporate marketing efforts. If we determine specific events for GTMs or other topics would be of interest to the community, we can add those events on a case-by-case basis.
 
-It's also important to consider the user journey, by using a LinkedIn Event page we are adding steps to registering for an event. Therefore, when an event has an appropriate landing or registration page, especially if these pages offer rich insight to the event happenings, the need for a LinkedIn Event page becomes smaller. 
+It's also important to consider the user journey, by using a LinkedIn Event page we are adding steps to registering for an event. Therefore, when an event has an appropriate landing or registration page, especially if these pages offer rich insight to the event happenings, the need for a LinkedIn Event page becomes smaller.
 
 **It is currently unclear if performance inside of LinkedIn Events produces measureable results inside of the social team's reporting structure. In the event this data is not present, it will be difficult to decide on using LinkedIn Events for corporate events due to the lack of performance data associated with the event page itself.**
 
@@ -405,7 +405,7 @@ In order for a speaker to be added to a LinkedIn Event, they will need to be per
 
 ##### Required elements for a LinkedIn Event page
 
-All of the following elements should be coming from the team member who is the event organizer. The social team is not responsible for creating a brand and purpose for the event. 
+All of the following elements should be coming from the team member who is the event organizer. The social team is not responsible for creating a brand and purpose for the event.
 
 - Event name (up to 75 characters)
 - Start/End date and time in a specific timezone (LinkedIn will convert to the users local timezone when it appears to them)
@@ -423,30 +423,30 @@ If these elements aren't provided or necessary, the event imagery will be whatev
 
 ### Non-social team admin access to select social channels
 
-In some instances, GitLab team members who are not on the social team will have administrative access to a social channel. This makes sense when team members manage paid social advertising, create events, or handle reporting as part of their roles. 
+In some instances, GitLab team members who are not on the social team will have administrative access to a social channel. This makes sense when team members manage paid social advertising, create events, or handle reporting as part of their roles.
 
-All team members, including those on the social team, who have access to an admin console on any social channel will need to prove that their accounts are secured with 2FA, preferably with an app or code generator and not their mobile device. We recommend using 1 Password, which we have access to as team members of GitLab. 
+All team members, including those on the social team, who have access to an admin console on any social channel will need to prove that their accounts are secured with 2FA, preferably with an app or code generator and not their mobile device. We recommend using 1 Password, which we have access to as team members of GitLab.
 
-When admin access is granted on channels where the available permission settings are above what is necessary for non-social team members to successfully run their tasks, there will be explicit guidelines from the social team on what and where to click and to manage so that non-social team members do not accidentally interfere with social operations. 
+When admin access is granted on channels where the available permission settings are above what is necessary for non-social team members to successfully run their tasks, there will be explicit guidelines from the social team on what and where to click and to manage so that non-social team members do not accidentally interfere with social operations.
 
-With the availability to post to a channel, respond to users, or edit company information, comes serious risk in damaging our brand in the eyes of the community, our team, the media, investors, or other stakeholders. It's not about preventing silly mistakes, this is focused on protecting GitLab, our team members, and our community from malicious activity or other damage that could reflect on the company. 
+With the availability to post to a channel, respond to users, or edit company information, comes serious risk in damaging our brand in the eyes of the community, our team, the media, investors, or other stakeholders. It's not about preventing silly mistakes, this is focused on protecting GitLab, our team members, and our community from malicious activity or other damage that could reflect on the company.
 
 #### Field Marketing team access to LinkedIn events feature
 
 ##### 🔗 [View the field marketing LinkedIn admin for events quick training video on private Unfiltered channel](https://youtu.be/VxVxdjeRkps)
 
-The field marketing team is enabled to use the GitLab brand LinkedIn channel to create events, so that GitLab is seen as the event organizer. If you need to connect with who the field marketing LinkedIn events admin is, please message the social team in the #social_media_action Slack channel. 
+The field marketing team is enabled to use the GitLab brand LinkedIn channel to create events, so that GitLab is seen as the event organizer. If you need to connect with who the field marketing LinkedIn events admin is, please message the social team in the #social_media_action Slack channel.
 
-The field marketing events admin can only create, edit, and maintain the events listings on the GitLab LinkedIn page and they are not authorized to write posts, edit the page or its contents, or to respond to users. 
+The field marketing events admin can only create, edit, and maintain the events listings on the GitLab LinkedIn page and they are not authorized to write posts, edit the page or its contents, or to respond to users.
 
-Events that are authorized to be promoted as organized by the GitLab brand include demos, webinars, speaker sessions, Connect, Commit, and other virtual and in-person events that the GitLab brand and company can and will fully support. 
+Events that are authorized to be promoted as organized by the GitLab brand include demos, webinars, speaker sessions, Connect, Commit, and other virtual and in-person events that the GitLab brand and company can and will fully support.
 
-Events that are not authorized to be promoted as organized by the GitLab brand include: team member celebrations, non-GitLab hosted events, events where a partner is the lead and already have an event page, and promoting events or campaigns that use social good initiatives for lead generation. 
+Events that are not authorized to be promoted as organized by the GitLab brand include: team member celebrations, non-GitLab hosted events, events where a partner is the lead and already have an event page, and promoting events or campaigns that use social good initiatives for lead generation.
 
-LinkedIn events should only be used for events and not for campaigns. Events are defined as a specific moment in time on a calendar in which the expectation is that users will join synchronously. Campaigns are defined as initiatives that run for a longer than a specific moment in time and where users can participate asynchronously. 
+LinkedIn events should only be used for events and not for campaigns. Events are defined as a specific moment in time on a calendar in which the expectation is that users will join synchronously. Campaigns are defined as initiatives that run for a longer than a specific moment in time and where users can participate asynchronously.
 
 ### Social channel colors
-Please use the following hex colors to represent the channels in reports, in charts, or when calling it out in plain text. 
+Please use the following hex colors to represent the channels in reports, in charts, or when calling it out in plain text.
 - Facebook - #1778F2
 - Insta - #8A3AB9
 - LI - #0E76A8
@@ -457,7 +457,7 @@ Please use the following hex colors to represent the channels in reports, in cha
 Social Media profile assets would include profile images and banners. Banners are specific to each site and should include the latest best practices in dimensions and care for where designs appear in the asset, so that they are visibile on desktop and on mobile properly. [This Google Drive folder includes existing approved assets](https://drive.google.com/drive/folders/1OTF7Ef07OflOIt6lSTmzhbv3SXgHMczE). Note, this folder is only accessible to the communications and brand design team at this time.
 
 ### User Generated Content confirmation
-The following code is required when asking for team members or anyone in the wider community to submit elements that the social team intends to create content around. Please include this on rules pages or in Google Forms, or in any location where we'd be asking for content from users. 
+The following code is required when asking for team members or anyone in the wider community to submit elements that the social team intends to create content around. Please include this on rules pages or in Google Forms, or in any location where we'd be asking for content from users.
 
 <details>
  <summary markdown='span'>

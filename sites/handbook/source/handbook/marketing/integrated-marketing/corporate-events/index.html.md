@@ -40,7 +40,7 @@ twitter_creator: gitlab
 
 ## Meet the Corporate Events Team and How to Reach Us
 * Michelle Lee - Corporate Events Manager - @eelellehcimebi
-* Suli Stuelpnagel - Corporate Events Content Manager - @sstuelp 
+* Suli Stuelpnagel - Corporate Events Content Manager - @sstuelp
 * Amanda Shen - Corporate Events Coordinator - @amandawshen
 
 ### Current Slack Corporate Event Channels
@@ -56,13 +56,13 @@ twitter_creator: gitlab
   <tr>
    <td><strong>#corporate-events-team</strong>
    </td>
-   <td>General planning questions and open to all team members to inquire about upcoming or past events 
+   <td>General planning questions and open to all team members to inquire about upcoming or past events
    </td>
   </tr>
   <tr>
    <td><strong>#commit-on-the-road</strong>
    </td>
-   <td>General Commit On the Road planning questions and open to all team members to ask any questions 
+   <td>General Commit On the Road planning questions and open to all team members to ask any questions
    </td>
   </tr>
   <tr>
@@ -79,11 +79,11 @@ twitter_creator: gitlab
 
 General Questions: [events at gitlab dot com](mailto:events@gitlab.com)
 
-Contribute-related Questions: [contribute at gitlab dot com](mailto:contribute@gitlab.com) 
+Contribute-related Questions: [contribute at gitlab dot com](mailto:contribute@gitlab.com)
 
 Commit-related Questions: [commit at gitlab dot com](mailto:commit@gitlab.com)
 
-Commit Sponsorship Questions: [sponsorcommit at gitlab dot com](mailto:sponsorcommit@gitlab.com) 
+Commit Sponsorship Questions: [sponsorcommit at gitlab dot com](mailto:sponsorcommit@gitlab.com)
 
 
 ## How We Evaluate and Build Potential Events
@@ -138,7 +138,7 @@ Suggested events will be subject to a valuation calculation - will it meet or ex
     * Exceed minimum threshold of 8X ROI for any events that also have a demand generation.
     * Aim to keep the cost per lead for a live event around $100.
 * Thought Leadership and Education
-* Corporate Events Team OKRs are algined quarterly to the Integrated Marketing (therefore the CMO) OKRs. 
+* Corporate Events Team OKRs are algined quarterly to the Integrated Marketing (therefore the CMO) OKRs.
 
 ## Third Party Sponsored Events
 
@@ -153,13 +153,13 @@ Suggested events will be subject to a valuation calculation - will it meet or ex
 
 ### Process
 
-**Goal:** ensure that GitLab’s presence is widely recognized at all sponsored events. 
+**Goal:** ensure that GitLab’s presence is widely recognized at all sponsored events.
 
 Each fiscal year the Corporate Events Content Manager (ECM) will created a Sponsored Events Speaking Session + CFP Tracker that keeps track of whether our sponsorship includes a speaking session and if not ensuring that, if possible, our Developer Evangelism team is submitting to present in the event's CFP. This tracker will be linked in the [FY24 Sponsored Events & Epics](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3526).
 
 #### If our sponsorship **does include** speaking session
 
-If our sponsorship does include a speaking session, the sponsored events manager will create an issue with all pertinent information provided by the event. They will tag the ECM and all pertinent parties that will assist in choosing a session topic into the issue. 
+If our sponsorship does include a speaking session, the sponsored events manager will create an issue with all pertinent information provided by the event. They will tag the ECM and all pertinent parties that will assist in choosing a session topic into the issue.
 
 Once a session topic is chosen, the sponsored events manager will hand off to the ECM and they will ensure that that all deadlines are met and content is submitted per the events requirements, content is approved by legal if needed, social cards and social copy is made and provided to speakers, and calendar hold is sent to the speakers so they know where they are going on the day of their session.
 
@@ -171,12 +171,12 @@ If a session is chosen by an event for a CFP that was submitted, the sponsored e
 
 If the event we are sponsoring is not on the Developer Evangelism team's radar to submit the CFP the ECM will start the conversation with the DE team via a comment on the [strategy issue](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3538?_gl=1*1jqjp5x*_ga*MTM3Mzg1MjIwNS4xNjU1MjE1MTQy*_ga_ENFH3X7M5Y*MTY3NTcxNDEzNC4xNzkuMC4xNjc1NzE0MTM0LjAuMC4w).
 
-### Tiering of 3rd party conferences 
-* Tier 1 - 
-* Tier 2 - 
-* Tier 3 - 
+### Tiering of 3rd party conferences
+* Tier 1 -
+* Tier 2 -
+* Tier 3 -
 
-### Teams we work with internally at Tier 1 shows 
+### Teams we work with internally at Tier 1 shows
     * Event Marketing — Project management, execute logistics, budget management, event staffing/training, lead collection/reporting, and ancillary events
     * Field Marketing — Field communication, meeting program support, onsite booth support, ancillary event support
     * Inside Sales Rep  — Drive registration, booth support, lead follow-up
@@ -184,56 +184,56 @@ If the event we are sponsoring is not on the Developer Evangelism team's radar t
     * Product/Alliance Marketing — Messaging, content creation (blogs, sponsorship deliverables, post event emails etc), onsite booth support
     * Technical Marketing — Demos creation, onsite support
     * Social and Communications — Pre-event, on-site, post-event social content creation, PR & media
-    * Lifecycle Marketing — Event landing pages, email blasts, database email reviews, SEO, copyedit 
+    * Lifecycle Marketing — Event landing pages, email blasts, database email reviews, SEO, copyedit
     * Recruiting - Onsite booth support
     * Design — Look & feel, tone, collateral (print), digital, environmental
     * Large & MidMarket sales teams - Attending & setting up meetings
     * [Leading Organization Team](/handbook/marketing/community-relations/leading-organizations/) — Executive/customer meetings, attending social events (ex: receptions, dinners), panel discussions, speaking engagements, media interviews
-   
-### Staffing 3rd party sponsored event booths 
+
+### Staffing 3rd party sponsored event booths
 The Corporate Events team collaborates with teams listed above to determine who should help to staff our 3rd party sponsored event booths. We aim to have a certain number of staff to booth size ratio that enables GitLab representatives to be diverse, knowledgeable, and welcoming for attendees. The number of staff we need is also dependent on how many days the conference schedule is. We try to utilize the following formula to staff our booths:
 
-10x10 booth or smaller and a 2 day conference = 8-10 staff members 
-10x10 booth or smaller and a 3 day conference = 12-15 staff members 
+10x10 booth or smaller and a 2 day conference = 8-10 staff members
+10x10 booth or smaller and a 3 day conference = 12-15 staff members
 
-#### Staffing for a 10X10 Booth 
+#### Staffing for a 10X10 Booth
 
 Example of our staffing requirements for our 10x10 or smaller booth over 2 days:
 1-2 - Sales/Field
-6 - Demos/Technical questions 
-1 - Corp Events 
+6 - Demos/Technical questions
+1 - Corp Events
 TBD	Speakers - dependent on numbers of CFP accepted
 
-10x20 booth and a 2 day conference = 14-16 staff members 
+10x20 booth and a 2 day conference = 14-16 staff members
 10x20 booth and a 3 day conference = 18-20 staff members
 
-#### Staffing for a 10X20 Booth 
+#### Staffing for a 10X20 Booth
 
 Example of our staffing requirements for our 10x20 booth over 2 days:
 4 - Sales/Field
-10 - Demos/Technical questions 
-1 - Corp Events 
+10 - Demos/Technical questions
+1 - Corp Events
 TBD	Speakers - dependent on numbers of CFP accepted
 
-20x20 booth or larger and a 3 day conference = 32-35 staff members  
-20x20 booth or larger and a 4 day conference = 40 staff members 
+20x20 booth or larger and a 3 day conference = 32-35 staff members
+20x20 booth or larger and a 4 day conference = 40 staff members
 
 #### Staffing for a 20X20 Booth
 Example of the staffing requirements for our 20x20 booth over 3 days:
 6 -	Sales/Field
 12 - Demos/Technical Questions
 4 - Host Counters
-3 - Corp Events 
+3 - Corp Events
 8 - Lightning Talks
 TBD	Speakers - dependent on numbers of CFP accepted
 
-These are estimated numbers that the Corporate Events team uses to account for budget and passes. Numbers may vary based on expected number of attendees at the show and how many days the conference is. We understand there are serveral business use cases where team members can travel and attend these same conferences to meet with partners, customers, and prospects. However, if the staff member is not staffing the booth or there for other purposes, the Corporate Events team is unable to cover the team member's travel and pass. 
+These are estimated numbers that the Corporate Events team uses to account for budget and passes. Numbers may vary based on expected number of attendees at the show and how many days the conference is. We understand there are serveral business use cases where team members can travel and attend these same conferences to meet with partners, customers, and prospects. However, if the staff member is not staffing the booth or there for other purposes, the Corporate Events team is unable to cover the team member's travel and pass.
 
 
 ## GitLab Commit On the Road
 
 * Commit On the Road - [Planning Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3618)
-* GitLab Commit On the Road, GitLab’s user conference, is an event that connects you to the ideas, technologies, and people that are driving DevSecOps transformation and is for the technology champions responsible for building, operating and securing applications. 
+* GitLab Commit On the Road, GitLab’s user conference, is an event that connects you to the ideas, technologies, and people that are driving DevSecOps transformation and is for the technology champions responsible for building, operating and securing applications.
 * This event will be a one day event with a single track featuring GitLab team members, customers, and partners. This roadshow will start in Q2 across 10+ cities.
 
 
@@ -275,7 +275,7 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
   <tr>
    <td><strong>Sponsored Corporate Events</strong>
    </td>
-   <td>For all Sponsored in-person trade shows, events, auxiliary events, etc. 
+   <td>For all Sponsored in-person trade shows, events, auxiliary events, etc.
    </td>
   </tr>
   <tr>
@@ -287,7 +287,7 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
   <tr>
    <td><strong>Virtual Conference</strong>
    </td>
-   <td>For all Virtual Sponsored Events 
+   <td>For all Virtual Sponsored Events
    </td>
   </tr>
   <tr>
@@ -299,7 +299,7 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
   <tr>
    <td><strong>GitLab Commit </strong>
    </td>
-   <td>For all Commit Event related 
+   <td>For all Commit Event related
    </td>
   </tr>
 </table>
@@ -444,7 +444,7 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
 
 ## Virtual Events at GitLab
 
-At GitLab, the Corporate Events team owns events that meet specific criteria (link), including those events that have a global hybrid or virtual element. By design, virtual events at GitLab are not a simple video call nor are they a static playlist. GitLab virtual events aim to retain the same [brand personality](https://about.gitlab.com/handbook/marketing/corporate-marketing/#brand-personality), engagement, inclusivity, and fun as our in-person events.
+At GitLab, the Corporate Events team owns events that meet specific criteria (link), including those events that have a global hybrid or virtual element. By design, virtual events at GitLab are not a simple video call nor are they a static playlist. GitLab virtual events aim to retain the same [brand personality](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), engagement, inclusivity, and fun as our in-person events.
 
 
 ### Lead time
@@ -539,18 +539,18 @@ When working with a vendor or supplier, the team will ensure that the selected v
 * Provide pronoun stickers or pins for attendees to include on their badges.
 * Use inclusive language and naming conventions in all messaging and content.
 * Provide a safe environment for all attendees with additional resources available.
-* Ensure enough time is given for any team member who may need to apply for a visa when applicable. 
+* Ensure enough time is given for any team member who may need to apply for a visa when applicable.
 * The ability for team members or attendees to do normal activities safely and without restrictions at the event (i.e. gender neutral bathrooms, lactation room, prayer room, etc).
 * Provide a physically safe environment for as many people to participate  in activities/excursions (i.e. accessibility).
 
 ## Environmental Sustainability Initiatives
-At GitLab, the Corporate Events team wants to continue to play our part and operate with integrity when we are making decisions. The team is consciously making decisions that help align with the company’s social and environmental efforts. 
+At GitLab, the Corporate Events team wants to continue to play our part and operate with integrity when we are making decisions. The team is consciously making decisions that help align with the company’s social and environmental efforts.
 
-The Corporate Events team works with our [swag vendor](https://about.gitlab.com/handbook/marketing/corporate-marketing/#swag-merchandise-handling) that sources swag with a goal of 95% of swag is sustainable or eco-friendly or work with companies that have sustainable initiatives. Some categories that the Corporate Events team considers when selecting suppliers are:
+The Corporate Events team works with our [swag vendor](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) that sources swag with a goal of 95% of swag is sustainable or eco-friendly or work with companies that have sustainable initiatives. Some categories that the Corporate Events team considers when selecting suppliers are:
 * Union Made Products
 * Give-Back Programs
 * Eco Products
-* Supplier Diversity 
+* Supplier Diversity
     * Women Owned
     * Black Owned
     * Asian-Am Owned
