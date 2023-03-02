@@ -23,7 +23,7 @@ Blogs fall into the following categories:
 Engineering-driven content performs very well on our blog, so if you have an idea, please ping @sgittlen on Slack. We're eager to showcase all the technical how-to and deep-dive content we can.
 
 ## Turnaround time from idea to publication
-Our "SLA": The blog team will review all ideas - labeled in the template with `Blog::Pitch` within two business days and get back to you with suggestions/go-forward approval. Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](https://about.gitlab.com/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval. This process can take time, just to set expectations. 
+Our "SLA": The blog team will review all ideas - labeled in the template with `Blog::Pitch` within two business days and get back to you with suggestions/go-forward approval. Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](https://about.gitlab.com/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval. This process can take time, just to set expectations.
 
 If you're just looking for feedback on an idea, Slack @sgittlen for same-day turnaround.
 
@@ -34,7 +34,7 @@ Publishing of blog posts occurs according to an editorial calendar. However, tha
 ## Blog publishing goals
 Volume of posts: We aim to publish four blog posts a week but can most likely find a place for your post, even on busy weeks. So please send us your ideas and let us worry about the scheduling.
 
-Traffic from posts: Ideally every post we publish should support our goal of driving traffic to the website. We apply SEO best practices to posts. It's a combination of art, science, and (sometimes) luck, and we do our best to maximize the page views each post will receive. 
+Traffic from posts: Ideally every post we publish should support our goal of driving traffic to the website. We apply SEO best practices to posts. It's a combination of art, science, and (sometimes) luck, and we do our best to maximize the page views each post will receive.
 
 ### Blog page metrics
 You can self-service checking page views post publication by using [our dashboards](https://about.gitlab.com/handbook/marketing/blog/blog-metrics/).
@@ -45,8 +45,7 @@ You can self-service checking page views post publication by using [our dashboar
 ## Other related pages
 - [Git guide for the blog](/handbook/marketing/blog/git-guide/)
 - [Editorial team page (including blog style guide)](/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
-- [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
- and [tone of voice guidelines](/handbook/marketing/corporate-marketing/#tone-of-voice)
+- [Brand guidelines](https://design.gitlab.com/)
 - [Monthly release post](/handbook/marketing/blog/release-posts/)
 
 ## Who can publish content to the GitLab blog?
@@ -55,11 +54,11 @@ You can self-service checking page views post publication by using [our dashboar
 The editorial team members are the [directly responsible individuals (DRI) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/).
 
 ## How to suggest a blog post
-The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @Sgittlen. 
+The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @Sgittlen.
 
 Please go down the checklist and makes sure you've accounted for all items.
 
-If your post is time-sensitive, please ping @sgittlen on Slack. Otherwise, the editorial team will reach out to you to discuss timing. 
+If your post is time-sensitive, please ping @sgittlen on Slack. Otherwise, the editorial team will reach out to you to discuss timing.
 
 1. Feel free to start your draft using this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit), which has all the relevant information already embedded. Then see the [formatting guidelines](#formatting-guidelines) for help with creating and formatting your blog post MR.
 1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
@@ -89,7 +88,7 @@ When the merge request has been reviewed by the Editorial team, please assign th
 - Accuracy of the technical components of the blog. (i.e., If we're using the wrong CLI command or stating something inaccurate about their service/product offering)
 - The headline, only in cases where the partner or their product or services are named in the headline
 
-We should not proceed to publish the blog post until the partner manager has received the feedback and/or has received acknowledgment from the partner that they have read the draft within the 48-hour window. 
+We should not proceed to publish the blog post until the partner manager has received the feedback and/or has received acknowledgment from the partner that they have read the draft within the 48-hour window.
 
 ### Joint announcements
 
@@ -247,7 +246,7 @@ We try to keep images on the blog neutral in terms of gender, ethnicity, etc. Th
 
 ##### Original images
 
-If you would like an original design for your blog post image, please [open a design request](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates). 
+If you would like an original design for your blog post image, please [open a design request](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates).
 
 If you prefer, you can [create an image](#preparing-images) yourself. If using Artificial Intelligence to create an image, follow the [legal guidance for use of "AI-generated images"](https://about.gitlab.com/handbook/legal/ip-public-materials-guidelines/#ai-generated-images).
 
@@ -290,7 +289,7 @@ for SEO, and it appears underneath the title of your post on the post itself and
 
 These are included to help readers find similar posts if they are interested in a particular subject. Tags appear at the top of each blog post, and clicking on a tag takes you to [/blog/tags](/blog/tags.html) where you can view all tagged posts and browse by tag.
 
-You can include as many tags as you like, separated by commas. Please only include tags from the following list, and note that they are case sensitive. 
+You can include as many tags as you like, separated by commas. Please only include tags from the following list, and note that they are case sensitive.
 
 - agile
 - ARM
@@ -326,7 +325,7 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - partners
 - patch releases
 - performance
-- product 
+- product
 - production
 - releases
 - remote work
@@ -545,7 +544,7 @@ Cover image by [owner name and surname](link) on [Unsplash](link)
 {: .note}
 ```
 
-You can paste this from the box that appears on Unsplash when you have downloaded an image. 
+You can paste this from the box that appears on Unsplash when you have downloaded an image.
 
 For original images generated by artificial intelligence, link to the engine used. For example:
 
@@ -865,7 +864,7 @@ This is usually because the image filename and what you entered in the frontmatt
 
 Make sure that the image path is correct (i.e. it begins with `/images/blogimages/` – no missing slash at the front, no `source` before the first slash).
 
-It often helps to look at the file of [another recent blog post that is already live](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/blog/blog-posts) and compare it to your file to see if there are any discrepancies.  
+It often helps to look at the file of [another recent blog post that is already live](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/blog/blog-posts) and compare it to your file to see if there are any discrepancies.
 
 ## When your blog post has been published
 
