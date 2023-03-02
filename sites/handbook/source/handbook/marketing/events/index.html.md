@@ -17,7 +17,7 @@ title: GitLab Event Information
 There are 3 groups within marketing who handle external events. Each group has a specific purpose. Please review each page for specific details.
 
 - [Community Relations](/handbook/marketing/community-relations/evangelist-program/)
-- [Corporate Events](/handbook/marketing/corporate-marketing/#corporate-events)
+- [Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/)
 - [Field Marketing](/handbook/marketing/field-marketing/)
 
 ## COVID-19 Event Disclaimer
@@ -49,7 +49,7 @@ Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidanc
 
 ## Suggesting an Event
 
-To determine who would handle the event, please refer to our [events decision tree](https://docs.google.com/spreadsheets/d/1aWsmsksPfOlX1t6TeqPkh5EQXergt7qjHAjGTxU27as/edit#gid=0). If it is not clear who should own an event based on the decision tree, please email `events@gitlab.com`. 
+To determine who would handle the event, please refer to our [events decision tree](https://docs.google.com/spreadsheets/d/1aWsmsksPfOlX1t6TeqPkh5EQXergt7qjHAjGTxU27as/edit#gid=0). If it is not clear who should own an event based on the decision tree, please email `events@gitlab.com`.
 
 *Note: If a GitLab team member receives an inbound request for sponsorship, please direct the requestor to this section of the handbook so that person can determine the best course of action.*
 
@@ -61,12 +61,12 @@ Please _only request_ event support/sponsorship if your proposed event fits the 
 
 If your event fits the criteria above and you would like support from marketing, create an issue in the appropriate marketing project.
 
-- **Community Relations** - We are unable to support inbound requests for sponsorship of community events for the remainder of FY23. 
+- **Community Relations** - We are unable to support inbound requests for sponsorship of community events for the remainder of FY23.
 - [**Corporate Events**](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_Sponsored_Corporate_Events) - use the "Event-Request" template
 - **Field Marketing**
   `Please Note:` _These requests will be reviewed by the appropriate regional Field Marketing Manager. Even if the event is free or low-cost, all requests must be approved by Field Marketing prior to any commitment to ensure the event or tactic aligns to the marketing strategy, meets SAO objectives and Field Marketing can properly execute to maximize GitLab’s future success._ - To suggest a Field Marketing event (in-person or virtual) or other tactic for review, please open an [`Event_Tactic_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Event_Tactic_Request) issue and follow the instructions.
 
-Be sure you review the issue template and provide all necessary information that is asked of you in the issue. 
+Be sure you review the issue template and provide all necessary information that is asked of you in the issue.
 
 ## Event Execution
 
@@ -156,7 +156,7 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 * [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - Corp DRI creates, assigns to Verticurl
 * [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - Corp DRI creates, assigns to Corp DRI
 * [ ] [Email Invitation Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-corp-conference-email) - for tier 1 events only - Corp DRI creates one for single invitation, assigns to Corp DRI, Lifecycle (@aklatzkin), and Verticurl
-* [ ] [Add to blog newsletter issue]() - for tier 1 events only - Corp DRI creates one for tier 1 events, assigns to Blog team (@sgittlen) 
+* [ ] [Add to blog newsletter issue]() - for tier 1 events only - Corp DRI creates one for tier 1 events, assigns to Blog team (@sgittlen)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-corp-conference-email) - Corp DRI creates, assigns to Corp DRI, Lifecycle (@aklatzkin), and Verticurl
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - Corp DRI creates, assigns to Corp DRI and MOps
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - Corp DRI creates, assigns to Corp DRI
@@ -238,10 +238,10 @@ cc @jburton to create list upload issue and DMA request as required
    - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/).
    - Use template to standardize the data following the [list import guidelines](/handbook/sales/field-operations/gtm-resources/).
 
-### Securing a hotel room block 
-Should the event organizer offer a hotel room block option at a discounted rate and the GitLab event DRI would like to secure this room block, there are two options you can take to secure the contract: 
+### Securing a hotel room block
+Should the event organizer offer a hotel room block option at a discounted rate and the GitLab event DRI would like to secure this room block, there are two options you can take to secure the contract:
 
-1. An actual contract is offered and GitLab will put down a corporate card to secure the room block, but the individuals checking in will ultimately pay for the hotel (and then expense the hotel back to GitLab) - the event DRI should open a [virtual card request via coupa](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/). 
+1. An actual contract is offered and GitLab will put down a corporate card to secure the room block, but the individuals checking in will ultimately pay for the hotel (and then expense the hotel back to GitLab) - the event DRI should open a [virtual card request via coupa](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/).
 1. A full contract is not offered, but a request for a credit card authorization is requested for GitLab to secure a room block, but the individuals checking in will ultimately pay for the hotel (and then expense the hotel back to GitLab) - the event DRI should open a [request in the legal project](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template) outlining the information that is being requested. Please include the discounted room rate, cut-off date, and the total amount anticipated in the unlikely event the full amount would be charged to the credit card if the event were to be cancelled.
 
 ### Ancillary Events
@@ -435,7 +435,7 @@ It is important that we are communicating with our customers and prospects that 
 
 It is important that we are communicating with our customers and prospects when we are attending an event. This is done through a targeted email sent through Marketo & also through BDR & AE/SAL outreach.
 
-- Most of the time we do not receive a pre event attendee list, but if we do, that will be shared in the issue. 
+- Most of the time we do not receive a pre event attendee list, but if we do, that will be shared in the issue.
 - We recommend BDRs & AE/SALs contact customers and prospects before event using talking points provided by content DRI with the goal of setting up meetings/ demos at the event. Invite them to anything specific we have happening at or around event.
 - If there is not an attendee list process is as follows:
    - Target speakers for outreach.
@@ -461,7 +461,7 @@ We use several email aliases for pre and post event outreach. Below are guidline
 
 During the registration process, it is important to track any potential dietary concerns. Please note that there is no longer a separate field in the registration form for dietary restrictions and this information is not tracked in SFDC. The FMM will need to include a note on the LP copy doc, instructing registrants to email with any specific dietary restrictions. It is up to the FMM if they would like to utilize their personal `@gitlab.com` email address & cc `regional@` alias.
 
-**Example Verbiage for LP:**  
+**Example Verbiage for LP:**
 
 At GitLab we aim to make our events accessible to everyone, regardless of disability or special needs. We vet all of our venues for accessibility. If you have a disability, special needs, or specific dietary restrictions, please reach out to us by responding to this email to let us know and we will follow up with you pre-event. This information will be kept private and will be distributed only to the individuals who need it to complete your accommodation request.
 
@@ -469,7 +469,7 @@ At GitLab we aim to make our events accessible to everyone, regardless of disabi
 
 If the FM DRI for an event needs to reach out to someone prior to the event, they will do so leveraging their personal `@gitlab.com` email address & cc `regional@` alias.
 
-#### Sales Nominated process 
+#### Sales Nominated process
 The sales nominated process allows for records to be added to the campaign in order for the record to receive an invite to the event
 - SALs/SDRs should add members to campaign to be invited to event, using the appropriate `Campaign Status`:
   - `Sales Invited` = You have personally invited the person to the event.
@@ -533,7 +533,7 @@ The sales nominated process allows for records to be added to the campaign in or
 ##### Suggested Attire
 
 - Wear at least one piece of branded GitLab clothing. If you prefer to wear something dressier than the GitLab branded items available that is also acceptable. Feel free to wear our sticker on your clothing.
-- GitLab branded lanyard, to be provided to you by the event DRI. 
+- GitLab branded lanyard, to be provided to you by the event DRI.
 - If the conference is business casual try some nice jeans (no holes) or dress pants.
 - Clean, closed-toed shoes please.
 - A smile.
@@ -546,23 +546,23 @@ The sales nominated process allows for records to be added to the campaign in or
   - Events laptop (for slideshow) + HDMI cable + charger + dongles
   - Backup power banks
   - Mints & hand sanitizer
-  - One pagers + GitLab cheat sheets - don't bring too much paper though. 
+  - One pagers + GitLab cheat sheets - don't bring too much paper though.
 
-- An in person pre-event booth meeting is to be scheduled by event DRI the day before or morning of the event and is to held within the booth. All event attendees should be in attendance. The event DRI should have this added as a calendar invite on the attendees calendar and should include the event venue, address, booth number, and link to the event issue within the calendar invite. 
+- An in person pre-event booth meeting is to be scheduled by event DRI the day before or morning of the event and is to held within the booth. All event attendees should be in attendance. The event DRI should have this added as a calendar invite on the attendees calendar and should include the event venue, address, booth number, and link to the event issue within the calendar invite.
 
-##### Booth presentation material 
+##### Booth presentation material
 - [Standard pitch deck](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7)
 - [Generic Marketing Reel](https://docs.google.com/presentation/d/1mpKjngTzYvvoAeV-uk3NSt9EuAdEgytabXRIiq_a56U/edit?usp=sharing)
 - [Video asset with demo](https://drive.google.com/drive/folders/1yT48wPMLvBlpSIqMXIiMqmAhfX1oLDJa)
-- [Visual of DevOps stages](https://docs.google.com/presentation/d/1PoJaXkhzSKbhPOc6Hc1uccYP9hLczHTxp6elyqMtp64/edit#slide=id.g149430ecd5f_0_3998) - please confirm in the #product-marketing slack room if this is up to date before using 
+- [Visual of DevOps stages](https://docs.google.com/presentation/d/1PoJaXkhzSKbhPOc6Hc1uccYP9hLczHTxp6elyqMtp64/edit#slide=id.g149430ecd5f_0_3998) - please confirm in the #product-marketing slack room if this is up to date before using
 - [What is GitLab?](https://www.youtube.com/watch?v=-_CDU6NFw7U)
-- [GitLab Infomercial Video](https://www.youtube.com/watch?v=gzYTZhJlHoI) 
+- [GitLab Infomercial Video](https://www.youtube.com/watch?v=gzYTZhJlHoI)
 - [Ebook - Scaled-CI-CD](/uploads/943e0e01dbcce9f014da1189997575a3/gitlab-scaled-ci-cd-.pdf)
 - [Ebook - Remote Playbook](/uploads/34642ae8653ed51280dde1a9c7385add/remote-playbook.pdf)
 - [Whitepaper - Reduce Cycle Time to Deliver Value](/uploads/ede3b3e00db838518bd29845ba9a7507/source_resources_downloads_201906-whitepaper-reduce-cycle-time.pdf)
 - [The Forrester Wave - Cloud-Native Continuous Integration Tools](/uploads/9ad85130be17d9ced05647283d738f40/The_Forrester_Wave___Cloud-Native_Continuous_Integration_Tools__Q3_2019.pdf)
-- [Ebook - 2020 DevSecOps Report](/uploads/cc655c78ad1a23ce8ade736c4d3c2311/2020-devsecops-report.pdf)   
-- [Video - Making the case for CI/CD in your organization](https://www.youtube.com/watch?v=MqxcGV9NT8k&feature=emb_logo)  
+- [Ebook - 2020 DevSecOps Report](/uploads/cc655c78ad1a23ce8ade736c4d3c2311/2020-devsecops-report.pdf)
+- [Video - Making the case for CI/CD in your organization](https://www.youtube.com/watch?v=MqxcGV9NT8k&feature=emb_logo)
 - [Use Case - NVIDIA - How GitLab Geo supports NVIDIA's innovation](https://about.gitlab.com/customers/Nvidia/)
 - [Solution Brief - GitLab on AWS](/uploads/74879d7fa7e1919948d9674d6e4be315/source_resources_downloads_GitLab_AWS_Solution_Brief.pdf)
 - [Solution Brief - GitLab on GCP](/uploads/d830cb6d747573e252c5a6520884010a/source_resources_downloads_GitLab_GCP_Solution_Brief.pdf)
@@ -719,7 +719,7 @@ If you need support, use the #mktgops slack channel.
 
 ## Swag for Events
 
-Swag selection and creation is managed by Corporate Marketing. All information on swag can be found in the [Corporate Marketing handbook](/handbook/marketing/corporate-marketing/#swag). For event related swag and tracking purposes, we utilize the tags `swag_corporate` and `swag_community`.
+All information on swag can be found in the [swag process handbook](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/). For event-related swag and tracking purposes, we utilize the tags `swag_corporate` and `swag_community`.
 
 For all details regarding Field Marketing Swag and Event Assets, please visit the Field Marketing page [here](/handbook/marketing/field-marketing/#field-marketing-swag).
 
@@ -729,7 +729,7 @@ GitLab's Community Relations team reviews and manages our community events (typi
 
 ## Specifics for Corporate Events
 
-- See [Corporate Events Handbook](/handbook/marketing/corporate-marketing/#corporate-events)
+- See [Corporate Events Handbook](/handbook/marketing/integrated-marketing/corporate-events/)
 
 ## Specifics for Field Marketing Events
 
@@ -744,8 +744,8 @@ Field Marketing utilizes the [QR Code Generator](https://login.qr-code-generator
 Corporate Events utilizes [QR Code Generator](https://www.qr-code-generator.com/) to create specific QR Codes to track how many people are visiting CTA weblinks. We  promote through different pieces of collateral passed out at the booth and signage we have created promoting registration for an on-site ancillary or virtual event. Other use cases such as people scanning to attend onsite virtual activities such as coding challenges or UX surveys.
 
 For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
-1. Make a copy of the GitLab branded [Google Form](https://docs.google.com/forms/d/1zLqYmfC-yfFQagTri4QIOkExu8Z2IN80s-R7tGJB4E4/edit). *Ensure you are logged into your GitLab Google account in order to access the form.* 
-1. Proceed to fill in all required information including: 
+1. Make a copy of the GitLab branded [Google Form](https://docs.google.com/forms/d/1zLqYmfC-yfFQagTri4QIOkExu8Z2IN80s-R7tGJB4E4/edit). *Ensure you are logged into your GitLab Google account in order to access the form.*
+1. Proceed to fill in all required information including:
     * Event title
     * Event description (optional)
 1. Proceed to fill in all required information you'd like to collect from participants. If you are using the QR code for lead collecting purposes, please include the following fields (remember to make all fields mandatory):
@@ -758,13 +758,13 @@ For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
     * Country
     * State/Province for US and Canada only (if you are not located in the US or Canada, please respond with n/a)
 1. If you are collecting addresses for a swag or raffle send, please make sure to add the following verbiage to your form - `By giving us your address, you are giving us permission to mail items to your home or office. We will not use this data for any other purposes.`
-1. Integrate your Google Form with your planning spreadsheet 
+1. Integrate your Google Form with your planning spreadsheet
     * With an established Planning Spreadsheet for your event (preferred method)
       * Navigate to the `responses` tab of your Google form
       * Select the 3-button stop sign icon
       * Click `Select response destination`
       * Click `Select existing spreadsheet`
-      * Choose the established Planning Spreadsheet from your Google Drive 
+      * Choose the established Planning Spreadsheet from your Google Drive
       * Select `Ok`
       * Now the established Planning Spreadsheet will be linked to your Google form
     * Without an established Planning Spreadsheet
@@ -775,20 +775,20 @@ For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
       * Now the newly created spreadsheet will be linked to your Google form
 1. Create your QR Code and link your Google Form
     * Navigate to the [QR Code Generator](https://login.qr-code-generator.com/) website and log in using the password found in the Marketing 1Pass
-    * In the upper right-hand corner of the screen select `Create QR Code` 
+    * In the upper right-hand corner of the screen select `Create QR Code`
     * Select your QR Code `Type`
     * Click `Next` at the bottom of the page
-    * Fill out QR Code Title & Description 
-1. Create your QR code with the following design specs: 
-    * **Frame:** If adding a frame, enter `#171321` ([Charcoal](https://design.gitlab.com/brand-design/color#primary-color-palette)) for the frame color.  
+    * Fill out QR Code Title & Description
+1. Create your QR code with the following design specs:
+    * **Frame:** If adding a frame, enter `#171321` ([Charcoal](https://design.gitlab.com/brand-design/color#primary-color-palette)) for the frame color.
       * This color ensures proper contrast (other brand approved colors can be used, but no need to get fancy with gradients or anything)
-    * **QR code:** Select `More Options`. 
-      * `Code color:` Enter `#171321` for the code color and `#FFFFFF` for the background color. 
-      * `Shape style:` Select the dotted code (third selection from left). 
+    * **QR code:** Select `More Options`.
+      * `Code color:` Enter `#171321` for the code color and `#FFFFFF` for the background color.
+      * `Shape style:` Select the dotted code (third selection from left).
       * `Edges:` Select the option with two curved corners (fourth selection from the left on the top row). Adjust the outer and inner color to `#171321`.
     * **Logo:** Select the solid Charcoal tanuki. This tanuki has a transparent background and should be the only logo placed for the center of the QR code.
-    * **NOTE:** Keep the design/shape of the QR code within the brand aesthetic (no odd or unorganized shapes).  
-    * **NOTE:** When placing the QR code into your collateral, the [design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/) advises that it should be no smaller than 1" x 1" for efficient scanning.  
+    * **NOTE:** Keep the design/shape of the QR code within the brand aesthetic (no odd or unorganized shapes).
+    * **NOTE:** When placing the QR code into your collateral, the [design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/) advises that it should be no smaller than 1" x 1" for efficient scanning.
     * ![QR code styling](/handbook/marketing/events/qr-code-handbook.png)
 5. Add in URL link to CTA. Example CTAs listed below:
 
@@ -896,7 +896,7 @@ If you need more information about our exact involment in an specific event plea
 Save event images and headers here: Save images for featured events [here](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/tree/main/static/nuxt-images/events)
 
 
-If you don't have merge permissions, or if you're having trouble with the pipeline, you can assign an [Engineer on the Digital Experience team](/handbook/marketing/digital-experience/) (commonly, `@lduggan`) to be a **Reviewer** on the MR, or post in #digital-experience-team on slack. 
+If you don't have merge permissions, or if you're having trouble with the pipeline, you can assign an [Engineer on the Digital Experience team](/handbook/marketing/digital-experience/) (commonly, `@lduggan`) to be a **Reviewer** on the MR, or post in #digital-experience-team on slack.
 
 ### Details to be included (all of which are mandatory in order for your MR to pass the build):
 
@@ -922,10 +922,10 @@ If you don't have merge permissions, or if you're having trouble with the pipeli
   type: Conference
   date_starts: January 1, 2050 # Month DD, YYYY
   date_ends: January 3, 2050 # Month DD, YYYY
-  description: The Best DevOps Conference Ever brings together the best minds in the DevOps land. 
+  description: The Best DevOps Conference Ever brings together the best minds in the DevOps land.
   location: Neverland, NVR
   region: APAC
-  social_tags: 
+  social_tags:
     - DEVOPS4LIFE
     - DevOps
   event_url: https://2050.bestdevops.org
@@ -960,7 +960,7 @@ featured:
 
 ## Email Process for Events
 
-For corporate conferences, we will send emails in accordance with the standards set [here](https://docs.google.com/spreadsheets/d/1aTCrUlc87BDLAqqAju7ZEbL8Wu0VZNfWd1MhdAccRDA/edit?usp=sharing) and summarized below: 
+For corporate conferences, we will send emails in accordance with the standards set [here](https://docs.google.com/spreadsheets/d/1aTCrUlc87BDLAqqAju7ZEbL8Wu0VZNfWd1MhdAccRDA/edit?usp=sharing) and summarized below:
 - Tier 1:
    - 1 pre-event email
    - 1 post show follow-up email
@@ -979,35 +979,35 @@ For corporate conferences, we will send emails in accordance with the standards 
 
 ## Speaking at events
 
-If you’re looking for information about speaking at an events head over to our [Corporate Marketing page](/handbook/marketing/corporate-marketing/#speakers) for complete details.
+If you’re looking for information about speaking at an events head over to our [Corporate Communications page](/handbook/marketing/corporate-communications/speaking-resources/) for complete details.
 
-### Paying for Speaker travel 
-At times, GitLab may offer to pay for a person's travel if they will be speaking about their usage of GitLab at an event. 
+### Paying for Speaker travel
+At times, GitLab may offer to pay for a person's travel if they will be speaking about their usage of GitLab at an event.
 
 There is no contract that needs to be in place in order for payment to happen. The GitLab team member should do the following:
 
-#### Option A 
- 
-1. Ensure that the expense is accounted for in a line items within (Allocadia)[/handbook/marketing/strategy-performance/allocadia/]. The spend type should default to what was selected at the `Sub-Category` level. 
-1. Open a [Coupa virtual card](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/#what-is-virtual-card) for the amount of money you believe will need to be on the card to account for the trip. 
-   * Take into consideration airfare, car service, hotel stay, and dining. 
-   * Ensure you've added the correct Allocadia ID to the virtual card. 
-1. Once the virtual card has been created, share the card number with the speaker and ask that the speaker use this card for all travel related items where possible. 
-   * Also recommend to the speaker to add the virtual card to their digital wallet that will allow them to tap and pay from their mobile device without having a physical card. 
-1. Supporting documentation - could be an email that confirms this person will travel for GitLab - should be uploaded for the Coupa card to be created.  
+#### Option A
 
-##### Hotel stay 
+1. Ensure that the expense is accounted for in a line items within (Allocadia)[/handbook/marketing/strategy-performance/allocadia/]. The spend type should default to what was selected at the `Sub-Category` level.
+1. Open a [Coupa virtual card](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/#what-is-virtual-card) for the amount of money you believe will need to be on the card to account for the trip.
+   * Take into consideration airfare, car service, hotel stay, and dining.
+   * Ensure you've added the correct Allocadia ID to the virtual card.
+1. Once the virtual card has been created, share the card number with the speaker and ask that the speaker use this card for all travel related items where possible.
+   * Also recommend to the speaker to add the virtual card to their digital wallet that will allow them to tap and pay from their mobile device without having a physical card.
+1. Supporting documentation - could be an email that confirms this person will travel for GitLab - should be uploaded for the Coupa card to be created.
 
-While we would like for the hotel to be secured using the Coupa Virtual Card as well, at times a hotel may ask for a physical card to be provided upon check-in for incidentals. The speaker may either present their own card and then apply for reimbursement OR a GitLab team member may provide their own credit card. 
+##### Hotel stay
 
-If the GitLab team member provides their own card, then the expense should be accounted for in the following way upon submitting the expense report: 
-1. Category = Marketing Field Events OR Brand Marketing - depending on if you are in Field Marketing vs. another group in marketing - by selecting one of these categories, it puts the expense in the program spend bucket vs. the employee travel bucket within the financial systems. 
-1. Classification = MUST add the Allocadia ID that has been created in Netsuite for this event 
+While we would like for the hotel to be secured using the Coupa Virtual Card as well, at times a hotel may ask for a physical card to be provided upon check-in for incidentals. The speaker may either present their own card and then apply for reimbursement OR a GitLab team member may provide their own credit card.
 
-#### Option B 
-The speaker would like to pay for everything themselves and would like for GitLab to reimburse them. 
+If the GitLab team member provides their own card, then the expense should be accounted for in the following way upon submitting the expense report:
+1. Category = Marketing Field Events OR Brand Marketing - depending on if you are in Field Marketing vs. another group in marketing - by selecting one of these categories, it puts the expense in the program spend bucket vs. the employee travel bucket within the financial systems.
+1. Classification = MUST add the Allocadia ID that has been created in Netsuite for this event
 
-In this case the speaker will need to complete a [reimbursement form](https://docs.google.com/spreadsheets/d/1CxJMQ06GK_DCqihVaZ0PXxNhumQYzgG--nw_ibPV0XA/edit#gid=0) and submit with receipts back to GitLab. GitLab will pay immediately upon receipt. 
+#### Option B
+The speaker would like to pay for everything themselves and would like for GitLab to reimburse them.
+
+In this case the speaker will need to complete a [reimbursement form](https://docs.google.com/spreadsheets/d/1CxJMQ06GK_DCqihVaZ0PXxNhumQYzgG--nw_ibPV0XA/edit#gid=0) and submit with receipts back to GitLab. GitLab will pay immediately upon receipt.
 
 ## Virtual Events
 
