@@ -18,11 +18,11 @@ On this page you will be provided an overview of what is needed to start and sus
 TMRGs are voluntary, team member-led groups focused on fostering diversity, inclusion and belonging within GitLab. These groups help team members build stronger internal and external connections; offer social, educational, and outreach activities; create development opportunities for future leaders; and increase engagement among team members.
 
 Team Member **Resource Group** provide support for an underrepresented group
-- The purpose for this type of TMRG is to develop and elevate that underrepresented group within Gitlab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging. 
+- The purpose for this type of TMRG is to develop and elevate that underrepresented group within Gitlab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging.
 
 Team Member **Advocacy Group**
-- Team Member Advocacy Groups provide company-backed support to GitLab team members through action, enablement and opportunity. As a result, they meet the specific and unique needs of demographics that are outside the scope of TMRGs. These groups provide education, resources, and community to enable increased visibility to leadership and the broader organization. A successful TMAG promotes team member engagement, well-being, retention, mobility and equity. 
- 
+- Team Member Advocacy Groups provide company-backed support to GitLab team members through action, enablement and opportunity. As a result, they meet the specific and unique needs of demographics that are outside the scope of TMRGs. These groups provide education, resources, and community to enable increased visibility to leadership and the broader organization. A successful TMAG promotes team member engagement, well-being, retention, mobility and equity.
+
 
 ### What is not an TMRG at GitLab
 There are many types of groups and not all of them meet the criteria of being a GitLab supported TMRG. Here are some examples of those that would not be considered TMRGs here at GitLab:
@@ -45,29 +45,29 @@ Ordered alphabetically to avoid the perception that any TMRG is more important t
 | [GitLab DiversABILITY](https://about.gitlab.com/company/culture/inclusion/erg-gitlab-diversability/) | [Kaitlyn Chappell](https://gitlab.com/kchappell) [Wil Spillane](https://gitlab.com/wspillane) | #diverse_ability | [Sign up for future meetings (google form)](https://forms.gle/5g2wVB577Lr7M3CH7) | [DiversABILITY Agenda](https://docs.google.com/document/d/130LH9QPewms025z4OFxNNUYnjcQ53D1049EZOL2WdWc/edit?usp=sharing) | TBC |
 | [Early Career Professionals](https://groups.google.com/a/gitlab.com/g/earlycareertmdg) | [Kristi Piechnik](https://gitlab.com/kpdoespr) and [Amruta Kulkarni](https://gitlab.com/akulks) | #early-career-tmdg | [Sign up for future meetings with Google Group](https://groups.google.com/a/gitlab.com/g/earlycareertmdg) | TBD | Craig Mestel |
 | [GitLab Generational Understanding](/company/culture/inclusion/tmrg-gitlab-generational-understanding/) | Miles Russell, Terri Chu, Darwin Sanoy | #generational_understanding | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/Generational_Differences_ERG) | [Generational Understanding Agenda](https://docs.google.com/document/d/1h81q60KnCJFsATKjZKOFglBmgkv8TlGrKY8punX2SEg/edit?usp=sharing) | TBC
-| [Global Voices](/company/culture/inclusion/tmrg-global-voices) | [Eliran Mesika](https://gitlab.com/eliran.mesika) | #global-voices-tmrg | |  | 
+| [Global Voices](/company/culture/inclusion/tmrg-global-voices) | [Eliran Mesika](https://gitlab.com/eliran.mesika) | #global-voices-tmrg | |  |
 | [GitLab Gente](/company/culture/inclusion/tmrg-gitlab-gente/) | [Pilar Mejia](https://gitlab.com/pmejia) [Hugo Azevedo](https://gitlab.com/hugoazevedo) [Romer Gonzalez](https://gitlab.com/romerg) [Chris Cruz](https://gitlab.com/chriscruz) | #gente | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/latinxtmrg) | [Gente Agenda](https://docs.google.com/document/d/15I-Lp9BO1FgnSCxANPiTemrvbcSLppf_xp8I0vIUbPY/edit?usp=sharing) | Wendy Barnes |
 | [Black @ GitLab](/company/culture/inclusion/tmrg-gitlab-black/) | [April Marks](https://gitlab.com/aprilmarks) [Marcus Carter](https://gitlab.com/marcusbriancarter) [Madou Coulibaly](https://gitlab.com/madou)| #black-at-gitlab |  [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/black-tmrg) | [Black @ GitLab Agenda](https://docs.google.com/document/d/1G9Be3e3hjj3gexLmrmR1bqzaEErP-4BfDgJR4q_jUTw/edit#heading=h.vf9sdppkn4e0) | [David DeSanto](https://gitlab.com/david) |
 | [GitLab Pride](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-pride/) | [Alex Hanselka](https://gitlab.com/ahanselka) and [Helen Mason](https://gitlab.com/hmason) | #lgbtq | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/pride-tmrg) | [Pride Agenda](https://docs.google.com/document/d/11D-Izm5mbopEUCY036Qr0bHx6UePMyfkzhUfNDE-mnk/edit?usp=sharing) | Robin Schulman |
 | GitLab Veterans | [Christopher Graham](https://gitlab.com/crgraham87), [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman), and [John Mason](https://gitlab.com/john-mason) | #veterans | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/veterantmrg) | [Vets Agenda](https://docs.google.com/document/d/1fOCi5b74r34zukzH728VgIp_bgOzqj7FXWxneir6BlU/edit?usp=sharing) | Brian Robins |
 | [GitLab Women](/company/culture/inclusion/tmrg-gitlab-women/) | [Kyla Gradin Dahl](https://gitlab.com/kyla) [Samantha Lee](https://about.gitlab.com/company/team/#slee24) | #women | [Sign up for future meetings (google group)](https://groups.google.com/a/gitlab.com/g/womenstmrg) | [Women Agenda](https://docs.google.com/document/d/1bJ3Y8IVjnssPpRa3IUafdzC0wsJUU6rYCGf-YEiDHeg/edit) | Robin Schulman and Michael McBride |
-| [GitLab Caregivers](/company/culture/inclusion/tmrg-caregivers) | Jackie Porter, Gena Schwam | #caregivers-tmrg | TBA | [Caregivers Agenda](https://docs.google.com/document/d/1taPLNLkVvTayEzySFUU5XKZeSK9tmsK-WELu_Pp14m8/edit?usp=sharing)| Executive Sponsor| 
+| [GitLab Caregivers](/company/culture/inclusion/tmrg-caregivers) | Jackie Porter, Gena Schwam | #caregivers-tmrg | TBA | [Caregivers Agenda](https://docs.google.com/document/d/1taPLNLkVvTayEzySFUU5XKZeSK9tmsK-WELu_Pp14m8/edit?usp=sharing)| Executive Sponsor|
 
-## Executive Sponsorship 
+## Executive Sponsorship
 
-An Executive Sponsor can be any leader at GitLab who is at VP level or above. The role of an executive sponsor is to support the development of the TMRG, provide advocacy at the leadership level, connect the TMRG to GitLab's mission & goals and provide mentorship to TMRG leaders. 
+An Executive Sponsor can be any leader at GitLab who is at VP level or above. The role of an executive sponsor is to support the development of the TMRG, provide advocacy at the leadership level, connect the TMRG to GitLab's mission & goals and provide mentorship to TMRG leaders.
 
 **Requirements:**
 - An executive sponsor does not have to be a member of the underrepresented group but has the capacity to be an ally to the group
 - Be able to offer a time commitment to the TMRG both sync and async
 - Have the capacity to learn more about the underrepresented group if they are unfamiliar with the needs of the group
-- Have taken the [psychological safety course](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/courses/psychological-safety-understanding-empowerment-and-self-reflection) 
+- Have taken the [psychological safety course](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/courses/psychological-safety-understanding-empowerment-and-self-reflection)
 
-**Accountabilities and Commitments:** 
+**Accountabilities and Commitments:**
 
 - Provide TMRG leads with key business insights (eg.,Company OKRs) and ensure leads understand the company’s strategic vision
-- Allocate time to TMRG leaders (bi-monthly or as agreed upon with TMRG leads) to understand TMRG needs and resources 
-- Advocate for the TMRG with DIB team and E-Group to gain leadership buy-in 
+- Allocate time to TMRG leaders (bi-monthly or as agreed upon with TMRG leads) to understand TMRG needs and resources
+- Advocate for the TMRG with DIB team and E-Group to gain leadership buy-in
 - Provide leadership guidance to TMRG leads when goals are misaligned to company or DIB goals
 - Provide TMRG updates to E-Group once/quarter with the assistance of DIB Team
 - Minimum one year commitment
@@ -75,27 +75,27 @@ An Executive Sponsor can be any leader at GitLab who is at VP level or above. Th
 
 **Choosing an Executive Sponsor:**
 
-- Any E-Group member with the capacity to be an executive sponsor for a TMRG will be the first to be allocated as an executive sponsor. E-Group members should only be an executive sponsor to one TMRG but this is not a hard and fast rule. 
-- If an E-Group Member is not available for executive sponsorship, TMRG leaders can identify a VP level team member to be their executive sponsor. This nomination by the TMRG must be approved by the E-Group in the E-Group weekly meeting. 
-- Alternatively, the TMRG can ask the DIB Team to identify a suitable Executive Sponsor. Upon which the DIB Team will ask the E-Group (Via the E-Group Weekly Meeting) for recommendations from their Direct Reports who are at VP level who could be suitable executive sponsors. 
-- The Chief of Staff to the CEO or the Chief People Officer will ensure that this is added to the agenda of the E-Group Weekly Meeting when the situation occurs. 
+- Any E-Group member with the capacity to be an executive sponsor for a TMRG will be the first to be allocated as an executive sponsor. E-Group members should only be an executive sponsor to one TMRG but this is not a hard and fast rule.
+- If an E-Group Member is not available for executive sponsorship, TMRG leaders can identify a VP level team member to be their executive sponsor. This nomination by the TMRG must be approved by the E-Group in the E-Group weekly meeting.
+- Alternatively, the TMRG can ask the DIB Team to identify a suitable Executive Sponsor. Upon which the DIB Team will ask the E-Group (Via the E-Group Weekly Meeting) for recommendations from their Direct Reports who are at VP level who could be suitable executive sponsors.
+- The Chief of Staff to the CEO or the Chief People Officer will ensure that this is added to the agenda of the E-Group Weekly Meeting when the situation occurs.
 
-### The Importance of Executive Sponsorship 
+### The Importance of Executive Sponsorship
 
-#### Being a Diverse Business is important for business success 
+#### Being a Diverse Business is important for business success
 
-Being a diverse business has been shown to greatly benefit a business on multiple fronts, with Talent, Investors and Customers all wanting to see clear and meaningful impact. Here are some interesting insights from a number of reports: 
+Being a diverse business has been shown to greatly benefit a business on multiple fronts, with Talent, Investors and Customers all wanting to see clear and meaningful impact. Here are some interesting insights from a number of reports:
 
 The [McKinsey latest report Diversity Wins](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters) provided some amazing insights into how diversity can enhance business performance had some interesting and exciting statistics:
     * Top quartile on gender diversity meant a 25% likelihood of financial outperformance than the bottom quartile
     * Top quartile on ethnic diversity meant a 36% likelihood of financial outperformance than the bottom quartile
 
-The [Deloitte 2021 Global Human Capital Trends: Special report](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends.html)  also provided some great insights into how Diversity, Inclusion & Belonging is perceived by team members & outside talent. 
+The [Deloitte 2021 Global Human Capital Trends: Special report](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends.html)  also provided some great insights into how Diversity, Inclusion & Belonging is perceived by team members & outside talent.
     - Organizations embracing a diverse and inclusive culture have a 22% lower turnover rate and a 22% increase in employee productivity
-    - 93% of respondents agreed that belonging drives organisational performance 
+    - 93% of respondents agreed that belonging drives organisational performance
     - 55% of respondents felt that leadership only addressed racial injustice by writing or speaking about it, not by taking action
 
-In the [2021 Edelman Trust research](https://www.edelman.com/sites/g/files/aatuss191/files/2021-03/2021%20Edelman%20Trust%20Barometer.pdf) it shows that it may be very important to customers and investors to know where an organization stands on societal issues. 86% percent of global respondents expect CEOs to publicly speak out about societal challenges, which of course can extend to the wider E-Group. 
+In the [2021 Edelman Trust research](https://www.edelman.com/sites/g/files/aatuss191/files/2021-03/2021%20Edelman%20Trust%20Barometer.pdf) it shows that it may be very important to customers and investors to know where an organization stands on societal issues. 86% percent of global respondents expect CEOs to publicly speak out about societal challenges, which of course can extend to the wider E-Group.
 
 [2021 Axios-Harris Poll 100](https://theharrispoll.com/partners/media/axios-harrispoll-100/), which ranks US organizations for their reputation in the marketplace, noted that organizations “with a clear point of view and that deliver not only great products but also an impact on society” ranked at the top of the list.
 
@@ -103,34 +103,34 @@ In the [2021 Edelman Trust research](https://www.edelman.com/sites/g/files/aatus
 
 #### Being an effective Executive Sponsor
 
-In the [A 2021 Great Place to Work survey](https://www.greatplacetowork.com/resources/blog/new-research-shows-leaders-are-missing-the-promise-and-problems-of-employee-resource-groups) they measured data around Executive Sponsorship and showed: 
+In the [A 2021 Great Place to Work survey](https://www.greatplacetowork.com/resources/blog/new-research-shows-leaders-are-missing-the-promise-and-problems-of-employee-resource-groups) they measured data around Executive Sponsorship and showed:
 
     * 100% of Executive Sponsors say company leadership encourages participation across ERGs. Only 52% of ERG leaders think that’s true.
     * 78% of Executive Sponsors believe involvement in ERGs support career advancement, but only 40% of ERG leaders agree.
     * 91% of Executive Sponsors feel a sense of belonging at work, but only 76% of ERG leaders say the same.
 
-We want to ensure our Executive Sponsors are the exception to this data. 
-    * We should ensure we are using TMRGs as a great proving ground for career advancement. 
-    * That as leaders of the business you are setting the standard for participation for the wider team. 
-    * That TMRG leaders feel valued and that they are at the height of belonging at GitLab. 
+We want to ensure our Executive Sponsors are the exception to this data.
+    * We should ensure we are using TMRGs as a great proving ground for career advancement.
+    * That as leaders of the business you are setting the standard for participation for the wider team.
+    * That TMRG leaders feel valued and that they are at the height of belonging at GitLab.
 
 **Tips and Advice on being a great Executive Sponsor**
 
-    * Be an excellent listener to TMRG leads and members 
+    * Be an excellent listener to TMRG leads and members
     * Don’t just acknowledge concerns, work to understand concerns
     * Listen first, understand next and act/help later
-    * Advocate for the TMRGs needs at throughout GitLab 
-    * Share the TMRGs concerns with other executives 
-    * Work to advocate for the TMRGs mission to wider audiences 
-    * Actively evangelise new policies, programs and celebrations 
-    * Challenge the TMRG Leads to think creatively & big 
-        * TMRGs should start small and build momentum but when the time is right get the TMRG to think creatively and bigger. 
-        * Provide a sounding board and access to support to allow this to occur. 
+    * Advocate for the TMRGs needs at throughout GitLab
+    * Share the TMRGs concerns with other executives
+    * Work to advocate for the TMRGs mission to wider audiences
+    * Actively evangelise new policies, programs and celebrations
+    * Challenge the TMRG Leads to think creatively & big
+        * TMRGs should start small and build momentum but when the time is right get the TMRG to think creatively and bigger.
+        * Provide a sounding board and access to support to allow this to occur.
     * Become a mentor to TMRG Leads - this is a great opportunity to build our leaders of the future
     * Ensure that the TMRG are aligning to DIB and Business Goals
     * Provide key insights into GitLab
     * Provide Feedback on Mission, Strategy and Goals
-    * Above all, create a Psychologically Safe space for leaders 
+    * Above all, create a Psychologically Safe space for leaders
 
 
 ## Benefits of TMRGs
@@ -266,8 +266,8 @@ Straight for Equality](https://ctb.ku.edu/en/table-of-contents/culture/cultural-
 
 ### Selection Criteria:
 
-* The team member must be performing in their role and not part of any performance management process as confirmed by the People Group. 
-* Must be a full-time GitLab team member. This includes PEO and full-time contractor team members. 
+* The team member must be performing in their role and not part of any performance management process as confirmed by the People Group.
+* Must be a full-time GitLab team member. This includes PEO and full-time contractor team members.
 * At least 6-month tenure at GitLab
 * Ideally already an active TMRG member if the TMRG already exists
 * Approval from your direct manager, support to commit the time and to use this leadership role as a professional development opportunity
@@ -278,7 +278,7 @@ Straight for Equality](https://ctb.ku.edu/en/table-of-contents/culture/cultural-
 * The DIB Team will announce a vacancies for TMRG leadership in the appropriate slack channels
 * The nomination process will stay open for two weeks from the original slack message
 * A team member will nominate themselves for a lead role by completing the TMRG Lead Nomination Issue template
-* The DIB team will consult with existing TMRG members, Leads, The People Team, Executive Sponsors and Managers to decide who will take the leadership position. This is to ensure the best person for the TMRG program is selected and diversity of departments, geography and URGs are properly represented. 
+* The DIB team will consult with existing TMRG members, Leads, The People Team, Executive Sponsors and Managers to decide who will take the leadership position. This is to ensure the best person for the TMRG program is selected and diversity of departments, geography and URGs are properly represented.
 
 
 ### Qualities of a TMRG leader:
@@ -286,20 +286,20 @@ Straight for Equality](https://ctb.ku.edu/en/table-of-contents/culture/cultural-
 * Possesses facilitation, team-building, and collaboration skills
 * Has a desire to build a presence for the TMRG within GitLab
 
-### TMRG Lead Training 
+### TMRG Lead Training
 
-All TMRG Leads should either watch the video or read through the slides of this training to ensure they are fully versed in the responsibilities, accountablilities and governance of TMRG leads. 
+All TMRG Leads should either watch the video or read through the slides of this training to ensure they are fully versed in the responsibilities, accountablilities and governance of TMRG leads.
 
 [Video](https://www.youtube.com/watch?v=nLikJeVI9FY)
 [Slides](https://docs.google.com/presentation/d/1YhJsk0E20gdPQjMZYuwnUkCjohJkw0CNbqv8ge4creY/edit)
 
 ## Roles Within the Group
 
-#### Team Member Resource Group Members 
+#### Team Member Resource Group Members
 
  At GitLab we all contribute!  Everyone has an opportunity to lead and provide feedback within the group.
 
-#### Executive Sponsor 
+#### Executive Sponsor
 
 An executive GitLab team member who is responsible and accountable for strategic support of the group
 
@@ -310,14 +310,14 @@ An executive GitLab team member who is responsible and accountable for strategic
 * Partner with TMRG leads on issues, concerns, and resource needs of the community
 * May provide additional budget
 
-#### TMRG Lead 
+#### TMRG Lead
 
 A GitLab team member or team members who are responsible and accountable for strategic direction and operations of the TMRG.
 
 **Responsibilities**
 * Operational lead/leaders of the TMRG
 * Meets with the DIB team on a quarterly basis as a minimum
-* Responsible for submitting annual strategy using the [Annual Strategy Template](https://docs.google.com/presentation/d/1Zpz6z_0x3rbjYzUd6fSAojg8ME3FKfWPrI7cD4HmV48/edit?usp=sharing) 
+* Responsible for submitting annual strategy using the [Annual Strategy Template](https://docs.google.com/presentation/d/1Zpz6z_0x3rbjYzUd6fSAojg8ME3FKfWPrI7cD4HmV48/edit?usp=sharing)
 * Responsible for submitting a quarterly strategy using the [Quarterly Strategy issue template in the DIB project](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/new#) for the TMRG
 * Work with business leaders on the success of DIB and the TMRG at GitLab
 * Facilitate TMRG meetings both async and sync ensuring inclusivity across geographical regions
@@ -328,7 +328,7 @@ A GitLab team member or team members who are responsible and accountable for str
 These accountabilities are important factors in ensuring that the TMRG maintains TMRG Status. The DIB team may: remove TMRG Leads if they are not achieving the accoutabilities, remove the TMRG status or change the status of the TMRG to a TMDG
 
 * Ensuring that the TMRG has a structured plan. Detailed quarterly and a high-level annual plan. These plans should be submitted and discussed with the DIB Team.
-* Delivery on the TMRG Plan 
+* Delivery on the TMRG Plan
 * Managing the TMRG budget, including tracking TMRG budget spend. This will ensure we know how to allocate future budgets.
 * Engaging and growing the TMRG members
 
@@ -348,18 +348,18 @@ Leader of Talent Acquisition/Retention: Promoting, growing, and developing the T
 Treasurer: managing the budget of the TMRG, working on necessary approvals internally and looking at the ROI of any events that take place.
 
 ### TMRG Working Groups
-The idea for TMRG Working Groups was born in the Women's TMRG where they had many ideas but individuals were not able to make the time commitment to becoming sub-committee leads but were able to commit short periods to individual projects. 
+The idea for TMRG Working Groups was born in the Women's TMRG where they had many ideas but individuals were not able to make the time commitment to becoming sub-committee leads but were able to commit short periods to individual projects.
 
 **How it works:**
-- The TMRG will create issues for projects they wish to complete within a quarter within the TMRG Project. 
-- Either via Slack, Regular Synchoronous Meetings or another method of communication. Release the projects to TMRG Members inviting participants to help on the project. 
+- The TMRG will create issues for projects they wish to complete within a quarter within the TMRG Project.
+- Either via Slack, Regular Synchoronous Meetings or another method of communication. Release the projects to TMRG Members inviting participants to help on the project.
 - The project should elect a leader for the duration of the project. Who will act as a DRI of ensuring that it is completed in a timely fashion and assign tasks to the other members of the project.
-- Once the project is done, the group will disband and are free to participate in a new working group or simply move back to being an active member of the TMRG 
+- Once the project is done, the group will disband and are free to participate in a new working group or simply move back to being an active member of the TMRG
 
 ### TMRG leader term of service
 TMRG leaders to commit at least one year to their leadership role, with the option for less if a situation arises which means they are no longer able to perform the role.
 
-In January of each year, a selection process should be undertaken to allow other team members the opportunity to nominate themselves to lead the TMRG. If no one wishes to nominate themselves the existing leaders will automatically be invited back to lead the TMRG providing they still meet the selection criteria. 
+In January of each year, a selection process should be undertaken to allow other team members the opportunity to nominate themselves to lead the TMRG. If no one wishes to nominate themselves the existing leaders will automatically be invited back to lead the TMRG providing they still meet the selection criteria.
 
 ### TMRG leader succession
 Leadership succession is critical to sustaining TMRGs and keeping leaders energized. Ideally, outgoing leaders will have and overlap with incoming new leaders by acting as advisors to ensure a seamless transition.
@@ -460,7 +460,7 @@ We have provided a number of optional resources for TMRGs to use that assist in 
 * [Estabished TMRG Roadmap Template](https://docs.google.com/spreadsheets/d/19Qa6xLIaoxOBbPIoMjYTcL87lx1y1exGGB6z4iD64tY/edit?usp=sharing): This template gives some examples of a yearly roadmap for established or mature stage TMRGs
 * [Budget Tracker](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit?usp=sharing): This is a simple budget tracker for Lead or a treasurer of a TMRG to plan and keep a track of the annual budget given to TMRGs.
 
-### TMRG Goal Setting 
+### TMRG Goal Setting
 
 Having short terms and long term goals for the TMRG is extremely important in developing and the continued success of the TMRG. Goals are vital to helping GitLab as a whole move to a more inclusive environment for your under-represented or at risk group.
 
@@ -468,32 +468,32 @@ Having short terms and long term goals for the TMRG is extremely important in de
 
 - **Action orientated** - it is easy to get bogged down in a problems, issues or complaints. Having goals for issues will allow you to move from frustration to action
 - **Visibility** - Goals will allow you to talk to and broadcast goals to a wider audience including executive sponsor, GitLab leadership and wider team member population
-- **Make GitLab more Inclusive** - by setting goals for the TMRG you are ensuring that we bring in inclusive practices and move the needle for your TMRG 
+- **Make GitLab more Inclusive** - by setting goals for the TMRG you are ensuring that we bring in inclusive practices and move the needle for your TMRG
 
 **How to set goals for the TMRG**
 
 - Work with the wider TMRG on the TMRGs priorities
-    - Leadership should distill these down into a manageable number of goals 
+    - Leadership should distill these down into a manageable number of goals
 - Utilise a goal setting methodology such as [OKRs](https://about.gitlab.com/company/okrs/) or [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) to set the goals in a practical way
-- Add these goals to your quarterly strategy issue for the TMRG 
-- Assign a working group or DRI/s to the goal 
-- Share the goals with your executive sponsor and the wider GitLab team through the Monthly Initiatives Call 
+- Add these goals to your quarterly strategy issue for the TMRG
+- Assign a working group or DRI/s to the goal
+- Share the goals with your executive sponsor and the wider GitLab team through the Monthly Initiatives Call
 - Engage with key stakeholders, i.e. Talent Acquisition if the goal relates to hiring
 - Prepare for goal obstacles and push back. What are the values you are implementing with this goal?
 - Importantly! Define how the goal would be beneficial for the at-risk group and GitLab as a whole. This will help gain buy in from key stakeholders
 
-**Goal Setting Activities** 
+**Goal Setting Activities**
 
-To help develop goals you may want to utilise goal setting activities to assist in identifying the right goals. 
+To help develop goals you may want to utilise goal setting activities to assist in identifying the right goals.
 
-- Backward Goal Setting: This is where you start with a large goal or objective. Then distilling this down to smaller goals & objectives to achieve the larger goal. 
+- Backward Goal Setting: This is where you start with a large goal or objective. Then distilling this down to smaller goals & objectives to achieve the larger goal.
 
-- Success Goal Setting: Similar to the above, but you will define what success looks like, either with a measurable or an outlook. The set goals and objectives that will help get to that end state. 
+- Success Goal Setting: Similar to the above, but you will define what success looks like, either with a measurable or an outlook. The set goals and objectives that will help get to that end state.
 
 
 ### Finance & Budgets for TMRGs
 
-Each TMRG has a budget of $8000 per year (subject to change during each fiscal year planning) to assist in the activities they wish to engage in to further develop the TMRG, Enable and Empower the members, develop activities & events or to buy merchandise. 
+Each TMRG has a budget of $8000 per year (subject to change during each fiscal year planning) to assist in the activities they wish to engage in to further develop the TMRG, Enable and Empower the members, develop activities & events or to buy merchandise.
 
 **Expenses could include but not limited to:**
 
@@ -503,9 +503,9 @@ Each TMRG has a budget of $8000 per year (subject to change during each fiscal y
 - Sponsoring a partnership with a external vendor
 - Making a donation to a relevant charitable organization
 - Lunch & Learns
-- TMRG Social Activities 
+- TMRG Social Activities
 
-Feel free to get creative with how you support and engage the TMRG utilising the budget to do so. 
+Feel free to get creative with how you support and engage the TMRG utilising the budget to do so.
 
 **Quarterly Forecast Process**
 
@@ -517,20 +517,20 @@ On a quarterly basis, each TMRG DRI is responsible for updating the [TMRG Foreca
 - September
 - November - (adjusted timing to align with Annual Planning)
 
-From FY24 we will be requiring all TMRGs to have had the budget finalised in the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) by the 2nd of week of the Quarter. 
+From FY24 we will be requiring all TMRGs to have had the budget finalised in the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) by the 2nd of week of the Quarter.
 
-The DIB team will also do a final check 30 days before the end of the quarter to see if your budget will be spent before the end of the quarter. 
+The DIB team will also do a final check 30 days before the end of the quarter to see if your budget will be spent before the end of the quarter.
 
-As our finance processes are a use it or lose it policy we want to ensure that if budget is not being utilised we can reassign that budgetted amount to other initiatives, TMGs or supporting external partnerships. 
+As our finance processes are a use it or lose it policy we want to ensure that if budget is not being utilised we can reassign that budgetted amount to other initiatives, TMGs or supporting external partnerships.
 
 **Submitting/Approval of Expenses**
 
-Purchases made on behalf of Gitlab should follow the [procurement process outlined in the handbook](https://about.gitlab.com/handbook/finance/procurement/#--what-is-procurement). 
-Prior to submitting a Coupa requisition, please adjust the Billing portion of the requisition for each line item by selecting the magnifying glass. Confirm that the expense is coded to Department: G&A: DIB and Class (tag): TMRG. If procurement or The DIB Team are submitting the requisition on your behalf, please give them instructions to make these adjustments. If these changes are not made, then the expense will default to the team member’s department and the expense will not align to the TMRG budget. 
+Purchases made on behalf of Gitlab should follow the [procurement process outlined in the handbook](https://about.gitlab.com/handbook/finance/procurement/#--what-is-procurement).
+Prior to submitting a Coupa requisition, please adjust the Billing portion of the requisition for each line item by selecting the magnifying glass. Confirm that the expense is coded to Department: G&A: DIB and Class (tag): TMRG. If procurement or The DIB Team are submitting the requisition on your behalf, please give them instructions to make these adjustments. If these changes are not made, then the expense will default to the team member’s department and the expense will not align to the TMRG budget.
 
-**Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/marketing/corporate-marketing/merchandise-handling/#swag-for-tmrgs).
+**Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-for-tmrgs).
 
-**Charitable Contributions-** For all Charitable Contributions please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/finance/procurement/charitable-contributions/) before submitting through Coupa. Please note that all charitable contributions must receive Board approval, so please allow 1-3 months for processing and approval. 
+**Charitable Contributions-** For all Charitable Contributions please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/finance/procurement/charitable-contributions/) before submitting through Coupa. Please note that all charitable contributions must receive Board approval, so please allow 1-3 months for processing and approval.
 
 **Team Member Expensed-** In some instances, TMRG team members will need to follow the [expense reimbursement policy](https://about.gitlab.com/handbook/finance/expenses/). If an item is purchased individually upfront (i.e. meals, books) and the item was budgeted, the team member will submit the receipt to get reimbursed. Reach out in #expense-reporting-inquiries for a new expense tag prior to the event.
 When submitting expenses for reimbursement, please add the “TMRG” classification and the expense tag to your expense when submitting the report.
