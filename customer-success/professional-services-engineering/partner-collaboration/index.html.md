@@ -89,15 +89,23 @@ If the project requirements exceed the current capacity of the available resourc
         - Migration (Profile coming soon)
         - Project Management (Profile coming soon)
         - Training (Profile coming soon)
+    - Sr. Channel Solutions Mgr Creates Establish PS Partnership Issue where we track completion of all necessary paperwork. We also track creation & completion of company profiles in required systems & tools. Please see list below: 
+        - Review & Signing of Master Subcontracting & Training Agreement
+        - Review & Signing of Data Privacy Addendum & SCCs
+        - Partner Company Profile Creation in Procurement Tool (Coupa)
+        - Partner Folder Created in Google Drive
+        - Partner Profile Created in Partner Tracking Tool
+        - Partner Channel Created in Slack    
 
 1. Partner Vetting
     - Sr. Channel Solutions Manager sends [Skills Matrix Form](https://docs.google.com/forms/d/e/1FAIpQLScxgCHtbuLl53HrzH55hTpXxCSCXeUDRo6uyM2YKxy9QHMI0w/viewform?usp=sf_link) for Consultant to complete prior to meetings with PS Team Members. 
-    - Sr. Channel Solutions Manager shows Partner Principal how consultants may access the Soft Skills Course which allows PS to assess consultative skills. 
-    - Consultants must complete Soft Skills Course (in GitLab Learn)
+    - Sr. Channel Solutions Manager goes over with Partner Principal how consultants can record a 2-3 minute video demonstrating their soft skills & consultative skills.
+    - Consultants must complete Soft Skills Course (upload their video to a google drive and share the link)
     - Sr. Channel Solutions Mgr / Director of PS reviews/approves Soft Skills Course submission
+    - Sr. Channel Solutions Mgr confirms that consultants have completed the [PSE Certificaton](https://levelup.gitlab.com/learn/learning-path/gitlab-certified-services-engineer-professional-learning-path) (at minimum the Migration & PM certs)
 
 1. Partner Onboarding
-    - Partner principals requests consultants to register on [Gitlab's Partner Portal](https://partners.gitlab.com). _This will result in an email to the consultant's inbox for them to open the "Welcome to Edcast" & activate their account for Onboarding._
+    - Partner principals requests consultants to register on [Gitlab's Partner Portal](https://partners.gitlab.com).
         - GitLab Learn (Thought Industries)
             - [Migration](https://gitlab.edcast.com/pathways/gitlab-migration-services-engineer-pathway)
             - [Implementation](https://gitlab.edcast.com/pathways/gitlab-implementation-engineer-specialist-pathway)
@@ -106,20 +114,26 @@ If the project requirements exceed the current capacity of the available resourc
                 - [Gitlab Certified CI/CD Specialist](https://gitlab.edcast.com/pathways/gitlab-certified-ci-cd-specialist-pathway-for-gitlab-partner)
                 - [Gitlab Certified Associate Pathway](https://gitlab.edcast.com/pathways/gitlab-certified-associate-pathway-for-gitlab-partners)
                 - [Gitlab Certfied Project Management Specialist](https://gitlab.edcast.com/pathways/gitlab-certified-project-management-specialist-pathway-for-g-this)
-        - PSE Onboarding
-            - Complete either Migration or Implementation Certification
-            - Project Coordinator to schedule 30-45 min technical deep-dive with a Senior PSE
+        - PSE Consultant Onboarding
+            - Project Coordinator to schedule 30-45 min technical deep-dive with a Senior PSE to ensure consultant right match for project. 
             - Interview results captured in partner tracking sheet
             - Sr. PSE approval needed to move forward with onboarding
+            - Sr. Channel Solutions Mgr. creates an Access Request for consultant to gain access to necessary systems & tools for them to complete their project. 
+            - Sr. Channel Solutions Mgr creates & assigns an Onboarding Issue to consultant. They also schedule a call with PS Ops Team to go over operaional tasks & timesheet submission process. 
+            - Project Coordinator introduces Consultant to Project PM & kicks off Project. 
+            
         - Project Manager Onboarding 
             - Consultant PM completes GitLab Certfied Project Management Specialist
-            - Partner principals create [Gitlab Onboarding Issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/onboarding-epics) for Project Managers and assign it to Consultant
+            - Sr. Channel Solutions Mgr schedules 30 minute call with Director of PS or Sr. PM to ensure consultant is right fit for project. Approval is required to move forward with onboarding. 
+            - Sr. Channel Solutions Mgr. creates an Access Request for consultant to gain access to necessary systems & tools for them to complete their project. 
+            - Sr. Channel Solutions Mgr creates & assigns an Onboarding Issue to consultant. They also schedule a call with PS Ops Team to go over operaional tasks & timesheet submission process. 
             - Consultant must complete onboarding issue and mark onboarding issue as completed 
-    - Consultant must use the same email address they used for training to ensure onboarding issue is tied to the correct entity. 
+            - Project Coordinator introduces Consultant to Project Team & kicks off Project. 
     - Professional Services Operations Team Tasks
         - PS Ops Teams assigns an Onboarding Buddy 
         - Onboarding Buddy will follow the Consultant throughout the project
         - PS Ops Team manages the Consultant onboarding journey. 
+            - Review all necessary operational tasks including timesheet submission. 
 
 
 1. Partner Projects
