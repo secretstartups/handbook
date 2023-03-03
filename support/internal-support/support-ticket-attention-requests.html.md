@@ -92,6 +92,10 @@ There are two ways of STAR'ing a ticket:
 
 ### Via the Zendesk `STAR` app
 
+To access, click on the Apps button located in the top right of the page (underneath your profile icon). When you click on it, it will expand to show the STAR form within Zendesk.
+
+![Zendesk App Button.png](images/Zendesk_App_Button.png)
+
 When you use this method, the app automatically acquires most of the required information directly from the ticket. That's a lot less work for you, and you can be assured that the data will already be validated before it is sent to the Support Managers for evaluation.
 
 You will only need to provide:
@@ -101,6 +105,10 @@ You will only need to provide:
 - GitLab.com group URL or name
 - Reason this ticket needs additional attention
 - Desired result
+
+Here is how the form will appar in the Zendesk App:
+
+![Zendesk STAR App Form.png](images/Zendesk_STAR_App_Form.png)
 
 #### Validation
 
