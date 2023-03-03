@@ -18,7 +18,7 @@ Since the launch of the engineering director shadow program in September of 2021
 
 Some blogs from previous shadows:
 
-1. [My experience shadowing an Engineering Director for a week](https://www.linkedin.com/pulse/my-experience-shadowing-engineering-director-week-mrunal-kapade/) - [Mrunal Kapade](https://linkedin.com/in/mrunalk)
+1. [My experience shadowing an Engineering Director for a week](https://www.waynehaber.com/2023/03/my-experience-shadowing-engineering.html) - [Mrunal Kapade](https://linkedin.com/in/mrunalk)
 1. [What I Learned as a Development Director](https://awkwardferny.medium.com/what-i-learned-as-an-engineering-director-shadow-at-gitlab-1a783cb564d0) - [@fjdiaz](https://gitlab.com/fjdiaz)
 1. [The engineering director shadow experience at GitLab](https://about.gitlab.com/blog/2022/04/01/engineering-director-shadow/) - [@warias](https://gitlab.com/warias)
 
@@ -164,7 +164,7 @@ No, not at this time.
 | April 3    |  Available | |
 | April 10   |  Available | |
 | April 17   |  Available | |
-| April 24   |  [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) - outside shadow |
+| April 24   |  [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer from [Alarm.com](https://alarm.com/) |
 | May 1      |  Available | |
 | May 8      |  Available | |
 | May 15     |  Available | |
