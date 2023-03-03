@@ -45,9 +45,9 @@ The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitla
 1. **CEO KR**: [Deliver Value Stream Dashboards MVC 1 Beta](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121991904)
 
 ### 2. CEO: [Mature the Platform to be the leading DevSecOps platform](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121988427)
-1. **CEO KR**: [Deliver a clear comparison that is linked to the roadmap](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121992976)
-1. **CEO KR**: [Complete Best in Class (BIC) delta milestones for FY24-Q1 for all groups](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121993000)
-1. **CEO KR**: [Figure out what we need to do to move the needle on SUS. Should include specific deliverables that are measurable](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121993931)
+1. **CEO KR**: [Complete BIC comparison for each stage in internal handbook](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121992976)
+1. **CEO KR**: [Complete delta BIC improvements for 5 stages, baseline all remaining stages](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121993000)
+1. **CEO KR**: [Deliver 31 of 31 dropdown pajamas components, resolve 26 Usability Benchmarking Issues (Secure, Release, and Create) and complete Usability Benchmarking for Verify](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121993931)
 1. **CEO KR**: [Achieve AI Assisted Code Suggestions MVC open beta (AI Assisted BIC)](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121994196)
 
 ### 3. CEO: [Grow careers through encouraging a customer result mindset](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/121988698)
