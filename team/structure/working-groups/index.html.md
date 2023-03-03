@@ -9,13 +9,13 @@ canonical_path: "/company/team/structure/working-groups/"
 {:.no_toc}
 
 - TOC
-{:toc}
+  {:toc}
 
 ## What's a Working Group?
 
 Like all groups at GitLab, a [working group](https://en.wikipedia.org/wiki/Working_group) is an arrangement of people from different functions. What makes a working group unique is that it has defined roles and responsibilities, and is tasked with achieving a high-impact business goal fast. A working group disbands when the goal is achieved (defined by exit criteria) so that GitLab doesn't accrue bureaucracy.
 
-Working groups are for important work that needs to be done quickly, when asynchronous work would be too slow. 
+Working groups are for important work that needs to be done quickly, when asynchronous work would be too slow.
 
 ### CEO Handbook Learning Discussion on Working Groups
 
@@ -113,7 +113,7 @@ Working Groups should follow the guidance outlined in [Building High Performing 
 
 The DRI should stand up meetings at the cadence appropriate for the Working Group, depending on the urgency/importance and timelines associated. The cadence of meetings should map to how quickly you are moving and the amount of synchronously touch points needed for alignment and decision making input.
 
-For example, you may have a high priority project in which decisions have been signed off on and change is not anticipated. Folks are clear on their roles and are staying on top of their activities as tracked in issues and epics. You may not need to meet more than once every two weeks to ensure alignment. Alternatively, you may be part of a project in which new deliverables are being reviewed daily and fast decisions have to be made. In this instance, it is appropriate to meet more than once a week. 
+For example, you may have a high priority project in which decisions have been signed off on and change is not anticipated. Folks are clear on their roles and are staying on top of their activities as tracked in issues and epics. You may not need to meet more than once every two weeks to ensure alignment. Alternatively, you may be part of a project in which new deliverables are being reviewed daily and fast decisions have to be made. In this instance, it is appropriate to meet more than once a week.
 
 All meetings should have an [agenda](/company/culture/all-remote/meetings/#4-all-meetings-must-have-an-agenda). [Live Doc Meetings](/company/culture/all-remote/live-doc-meetings/) have Google Docs as the preferred tool for taking meeting notes in an agenda. Please use the [GitLab Live Doc Meeting Agenda Template](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU) as a starting point. If there's no agenda for an upcoming session, cancel the meeting.
 
@@ -199,6 +199,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Account Escalation Process](/company/team/structure/working-groups/account-escalation-process)
 1. [API Vision](/company/team/structure/working-groups/api-vision/)
 1. [Category Leadership](/company/team/structure/working-groups/category-leadership/)
+1. [CI/CD Build Speed time-to-result](/company/team/structure/working-groups/ci-build-speed/)
 1. [ClickHouse Datastore](/company/team/structure/working-groups/clickhouse-datastore/)
 1. [Cross Functional Prioritization](/company/team/structure/working-groups/cross-functional-prioritization/)
 1. [Dashboards](/company/team/structure/working-groups/dashboards/)
