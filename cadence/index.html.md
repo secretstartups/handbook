@@ -31,8 +31,7 @@ Items on this page are grouped into a cadence based on the underlying period of 
 
 How elements of our cadence fit together over time:
 
-1. [Our Purpose](/company/purpose/) is the reason GitLab exists. Our purpose is to help people **increase their lifetime earnings** through training, access to opportunities, and the DevOps platform.
-1. [Our Mission](/company/mission) is the way we realize our purpose of increasing people's lifetime earnings. Our mission is to make it so that **everyone can contribute** by using our product, to our product, and to our company.
+1. [Our Mission](/company/mission) is to make it so that **everyone can contribute** by using our product, to our product, and to our company.
 1. [Our Vision](/company/vision) is what we want the product to evolve into in the next 10 years, **AllOps** - a single application for DevSecOps, ModelOps, and a Servicedesk.
 1. [Our Strategy](/company/strategy/) is what we'll focus on over the next 3 years in order to make progress towards our vision. Our strategy is to be the leading **DevSecOps Platform** by focusing on our three strategic pillars: Customer Results, Maturing the Platform, and Growing Careers.
 1. [Our Yearlies](/company/yearlies/) are annual goals to make progress to our three year strategy. We have 3 goals per strategic pillar, for **9 goals** in total.
@@ -48,18 +47,18 @@ How other elements relate to our cadence:
 
 Below is an example of how we will accomplish our longer term cadence goals by successfully completing our shorter term goals. 
 
-1. Our mission is to do that by making sure **everyone can contribute to our product** and our company. Similar to our purpose, part of the achievement of this will depend on our product driving results for a larger audience of users.
+1. Our mission is to do that by making sure **everyone can contribute to our product** and our company. Part of the achievement of this will depend on our product driving results for a larger audience of users.
 1. Because our **users contribute to our product** GitLab has a high rate of innovation and we can have an ambitious scope for the product. The vision for the scope of our product is an **AllOps** solution – a single application for DevSecOps, ModelOps, and a Servicedesk. A **Value Stream Delivery overview** will be a key part of this platform. 
 1. Our strategy supports our AllOps vision. One of our strategic pillars is [Customer Results](/strategy/#1-customer-results). This includes extending **[Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/)** to provide more value to more users.
 1. Our yearlies are how we're going to execute our strategy. One of [our FY24 Yearlies](/company/yearlies/) is to `increase NetARR from Ultimate up-tiers` which we'll accomplish in part by providing more value to business users with features like **[Value Stream Dashboards for Executives](https://gitlab.com/groups/gitlab-org/-/epics/9317)**.
 1. Our OKRs are how we're going to make progress on our yearly goals. A CEO key result is to launch **Value Stream Dashboards** MVC 1 Beta in FY24-Q1.
 
-Successfully achieving our KR of a beta value stream means progress against our Yearly value stream dashboard goal, strategic goal of extending value stream management to more users, vision of an AllOps solution, mission of everyone contributing, and purpose of people increasing their earnings. While the KR is a single building block, our successful completion within the quarter leads to progress against our longer term goals. 
+Successfully achieving our KR of a beta value stream means progress against our Yearly value stream dashboard goal, strategic goal of extending value stream management to more users, vision of an AllOps solution, and mission of everyone contributing. While the KR is a single building block, our successful completion within the quarter leads to progress against our longer term goals. 
 
 ## 30 years
 
-- [Our purpose](/company/purpose/)
 - [Our mission](/company/mission/)
+- [Our purpose](/company/purpose/)
 - [Lifespan of the average company](https://www.bbc.com/news/business-16611040), 10 years to get into the S&P500, then 15 in it, and 5 of decline for a total of 30
 - [Lifespan of Amazon](https://www.forbes.com/sites/richardkestenbaum/2018/11/16/amazon-is-not-too-big-to-fail-bezos/#65fba0621626) "Amazon is not too big to fail...In fact, I predict one day Amazon will fail. Amazon will go bankrupt. If you look at large companies, their lifespans tend to be 30-plus years, not a hundred-plus years."
 - [Generation is also 30 years](https://www.ncbi.nlm.nih.gov/pubmed/10677323)
