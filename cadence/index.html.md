@@ -27,7 +27,7 @@ Below are the cadences we have at GitLab:
 
 Items on this page are grouped into a cadence based on the underlying period of time that the item pertains to, not based on when the item is updated. For example, our [strategy](/company/strategy/#three-year-strategy) looks three years out but is reviewed [annually by E-Group](/company/offsite/#offsite-topic-calendar) and may be updated more frequently if the need arises.
 
-### Cadence Definitions
+### Cadence Examples
 
 How elements of our cadence fit together over time:
 
@@ -43,7 +43,7 @@ How other elements relate to our cadence:
 1. [Key Performance Indicators (KPIs)](/company/kpis/) are measures of performance for important things we do as a company all the time. If you want to change a KPI in a quarter this typically will be an OKR.
 1. [Our Values](/handbook/values/) are the principles we follow in pursuing the items on this Cadence page but are not part of any cadence.
 
-### Example of Cadence Flow
+### Cadence Flow
 
 Below is an example of how we will accomplish our longer term cadence goals by successfully completing our shorter term goals. 
 
