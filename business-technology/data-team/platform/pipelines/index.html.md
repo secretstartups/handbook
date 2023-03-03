@@ -854,3 +854,29 @@ The [Clari child page](https://about.gitlab.com/handbook/business-technology/dat
 - Need two DAG's to support the following edge cases: 
     - late updated records
     - weeks in the quarter starting prematurely
+
+## Level Up / Thought Industries Extract
+[Thought Industries](https://www.thoughtindustries.com/) is the name of the vendor that provides
+GitLab with a Learning Management System internally known as [Level Up](https://levelup.gitlab.com/catalog).
+
+This extract sources from the [Thought Industry API](https://api.thoughtindustries.com/#thought-industries-api) with the goal of providing data to the 'Learning and Development' team at GitLab.
+
+Currently, there are 4 endpoints/tables that are being extracted:
+- Course Completions
+- Logins
+- Visits
+- Course Views
+
+#### Code Structure
+There is one parent class- ThoughtIndustries()- and for each API endpoint, a corresponding child class.
+
+The logic between each endpoint is very similar, so the parent class contains all the logic. The key logic is in the [fetch_from_endpoint()](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/level_up_thought_industries/src/thought_industries_api.py#L52) function. The docstring within the function has more detail on implementation.
+
+#### DAG structure
+The [DAG](https://gitlab.com/gitlab-data/analytics/-/blob/b757e93c7512455c2a806f864b1008aca356ccbd/dags/extract/level_up_thought_industries_extract.py) has been designed to be idempotent- if a DAG run is cleared and 're-run', it will always generate the same output.
+
+Each endpoint conveniently offers a `startDate` and `endDate` parameter. 
+
+As such, each DAG run's `execution_date` and `next_execution_date` are used for the 'startDate' and 'endDate'. Since the DAG has a daily schedule, each task always returns data for the last 24-hour period.
+
+To do backfills for a longer period of time, it may be useful to follow the [handbook guidelines](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#backfills) on backfilling from the command line.
