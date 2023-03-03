@@ -105,6 +105,14 @@ In written communication, I appreciate the top-down approach. Set the subject he
 
 I get many email on which I am only cc'd on, I would very much appreciate if you started emails intended specifically for me with "Sid," or some other salutation that makes it clear that the message is for me.
 
+### Presentations and slide decks
+
+Share slide decks in advance of meeting with me per [no presenting in meetings](/handbook/communication/#no-presenting-in-meetings) communication guideline. I can be tagged in a relevant Slack channel. 
+
+When sharing slides with me, limit the content on each slide to one concept. Avoid condensing multiple concepts into one slide. Additionally, the slide title should be specific to the content on that slide. For example, instead of condensing two lists onto one slide, separate the lists onto two separate slides with slide titles specific to each list.
+
+This also applies if you are [providing slides for me to present](/#ceo-voice).
+
 ### Connecting on Social Media
 
 I have accounts on [LinkedIn](https://www.linkedin.com/in/sijbrandij) and [Facebook](https://www.facebook.com/sytse). I will not send invites to team members on those networks since as the CEO I don't want to impose myself on anyone. But I would love to connect and I will happily accept your LinkedIn and Facebook friend request. Please ping the Staff EBA to the CEO in #eba-team on slack and they will accept your connection request. You can also find me on Twitter as [@sytses](https://twitter.com/sytses), I won't request to follow private twitter accounts, I assume I'm welcome to follow public twitter accounts, if not please let me know.
@@ -347,6 +355,7 @@ When preparing scripts or documents in my voice, please follow these guidelines.
 1. Celebrate, but don't boast or brag.
 1. Rarely make comparisons to other people, especially negative ones. Comparing to competitors is fine, usually in the context of highlighting what differentiates GitLab.
 1. Explain [the why](https://simonsinek.com/product/start-with-why/).
+1. When providing slides for me to present, follow the [presentations and slide decks guidance](/#presentations-and-slide-decks).
 
 ## Transport
 
