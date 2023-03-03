@@ -61,7 +61,7 @@ Team members are reimbursed on different schedules depending on their location. 
 * The AP team will reach out to the team member’s manager if additional approval is needed.
 * If the claim is over the advised guidance, the claim will be rejected with a note for the team member.  The team member should be able to rectify the claim and resubmit.
 * Where the team member has already received approval from from manager, that approval should be attached as a receipt on the claim transaction.
-* Any claim made which does not fall into the policy is not reimbursable.
+* Any claim made which does not fall into the policy is not reimbursable. If an item is out of policy and approved by your manager, then please obtain and attach your manager's approval email prior to submitting the expense. This will then be reviewed by Expense team Admin and could need further approval from VP/ VP of Finance.
 * There will be occasions where if you have claimed an item and it needs to be reimbursed back to Gitlab, you will need to follow the reimbursement process in Navan for submission of the funds.
 
 ### Manager Expectations
@@ -118,7 +118,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6021 - Professional dues, membership fees</td>
     <td class="tg-0pky">5021 - Professional dues, membership fees COGS</td>
     <td class="tg-0pky">Books, dues &amp; subscriptions</td>
-    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.<br> -  $15 per item per quarter. Expenses higher than this limit require manager's approval.</td>
+    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.<br> -  $15 per item per quarter. Expenses higher than this limit require manager's approval and must be attached to the expense transaction.</td>
   </tr>
   <tr>
     <td class="tg-btxf">Business Cards</td>
@@ -126,7 +126,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-btxf">6040 - Office Supplies</td>
     <td class="tg-btxf">5040 - Office Supplies COGS</td>
     <td class="tg-btxf">Office Supplies</td>
-    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo. Refer to the <a href="https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards"><span style="color:#905">Ordering Business Cards</span></a>.<br> -  $15 per item per quarter.</td>
+    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo. Refer to the <a href="https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards"><span style="color:#905">Ordering Business Cards</span></a>.<br> -  $15 per item per quarter. Expenses higher than this limit require manager's approval and must be attached to the expense transaction.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Car Rental</td>
@@ -142,7 +142,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-btxf">6076 - Co Working Space</td>
     <td class="tg-btxf">5076 - Co Working Space COGS</td>
     <td class="tg-btxf">Other</td>
-    <td class="tg-btxf">- $700.00 Limit per month.<br> - Full Receipts to the provided.<br> - Copy of approved email must be submitted with first month submission.<br> - If co-working space is expensed in the month then you are only able to expense the internet reimbursement for the days that the co-working space is not paid for. i.e. if you have a contract for co-working space for the month, then you are unable to claim Internet as an expense in that month. This is also applicable on a pro-rata basis.</td>
+    <td class="tg-btxf">- $700.00 Limit per month.<br> - Full receipts to be provided.<br> - Copy of approved email must be submitted with first month submission.<br> - Parking, meals, beverages, access cards and other additional expenses in a co-working facility are not reimbursable. Only the rent for the space is reimbursable.<br> - If co-working space is used together with a combination of working from home, we will allow the reimbursement of the internet cost for where you spend most of your time. i.e. if you expense a co-working space for a full month then internet for home cannot be expensed. If you expense co-work for a few days in a month then home internet can be expensed in full.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Conferences</td>
@@ -190,7 +190,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-btxf">6031 - Internet</td>
     <td class="tg-btxf">5031 - Internet COGS</td>
     <td class="tg-btxf">Internet access</td>
-    <td class="tg-btxf">- Policy is set at $80, anything over that amount will still be considered for approval as we know there are exceptions, and will be checked and approved on an individual basis depending on the user's circumstances, i.e. location etc.<br>- Itemized Receipt required.<br>- If an itemized bill is not available, costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.<br>- No monthly hardware costs for internet service is reclaimable.<br>- If co-working space is also expensed in the month then you are only able to expense the internet reimbursement for the days that the co-working space is not paid for. i.e. if you have a contract for co-working space for the month, then you are unable to claim Internet as an expense in that month. This is also applicable on a pro-rata basis.<br></td>
+    <td class="tg-btxf">- Policy is set at $80, anything over that amount will still be considered for approval as we know there are exceptions, and will be checked and approved on an individual basis depending on the user's circumstances, i.e. location etc.<br>- Itemized Receipt required.<br>- If an itemized bill is not available, costs will only be reimbursed for the element relating to Internet Access, i.e. if you pay for tv, internet and phone, the invoice should be divided by 3/# of services and we will pay this value only.<br>- No monthly hardware costs for internet service is reclaimable.<br>- If co-working space is used together with a combination of working from home, we will allow the reimbursement of the internet cost for where you spend most of your time. i.e. if you expense a co-working space for a full month then internet for home cannot be expensed. If you expense co-work for a few days in a month then home internet can be expensed in full.<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">Laptops, insurance and repairs</td>
