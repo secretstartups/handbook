@@ -131,8 +131,8 @@ If you find yourself struggling to get your environment set up, try reaching out
 
 - After each review round, you should remove yourself as a reviewer and post a summary comment, letting the author know if changes are required following your review.
 - To address any outstanding UX concerns that deviate from the MVC, you should create follow-up issues and label them as `UX debt` (learn more about this label in [how we use labels](/handbook/product/ux/ux-department-workflow/#how-we-use-labels)).
-- When you're confident that the MR meets all requirements, to handoff the MR, see the [responsibility of the reviewer](https://docs.gitlab.com/ee/development/code_review.html#the-responsibility-of-the-reviewer).
 - If you complete an MR for work that isn't within your specific group, you should consider following up with the original author to discuss their documentation (ex. "This was unclear... In the future, you may want to..."). This can be thought of as a casual retrospective and can be synchronous or asynchronous. 
+- When you're confident that the MR meets all requirements you must [approve it](https://docs.gitlab.com/ee/development/code_review.html#getting-your-merge-request-reviewed-approved-and-merged) by hitting the Approved button in the merge request widget. To handoff the MR, see the [responsibility of the reviewer](https://docs.gitlab.com/ee/development/code_review.html#the-responsibility-of-the-reviewer).
 
 ## Performance indicator
 
