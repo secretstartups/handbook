@@ -165,7 +165,7 @@ Sick Pay will be coordinated with [Short-Term Disability](/handbook/total-reward
 
 #### Sick Time Procedures - Netherlands
 
-Employees of GitLab B.V. have further rights and responsibilities regarding sick time based on Dutch law, as written into their employment [contracts](/handbook/people-group/contracts-probation-periods/#employee-contractor-agreements):
+Employees of GitLab B.V. have further rights and responsibilities regarding sick time based on Dutch law, as written into their employment [contracts](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/employment_contracts/):
 
 - Team members should report sick time via PTO by Deel as aligned above.
 - If the sick leave extends 8 days it should be reported to the Absence Management team via `leaves@gitlab.com` by the Manager and (if possible) team member.
