@@ -9,6 +9,8 @@ description: "Information regarding the Legal & Corporate Affairs Team"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
  
 ## Legal and Corporate Affairs Handbook
 
