@@ -151,26 +151,24 @@ Without the answers to these questions we risk spending significant time and ene
 
 #### People
 
-In order to help facilitate a Value Stream Assessment, a number of GitLab team members will be required to take part. The roles of these members generally fall into the following:
-
-- **Facilitator** - A team member fully versed in the Value Stream Mapping process who is responsible for leading the session; ensuring that discussion is staying on-topic, at the right level and at the required pace.
-- **Account Leader** - The account leader's responsibility is to ensure that the long term strategic vision for the customer/prospect is considered when discussing desired future state and they can also provide additional context to the current state.
-- **Scribe** - A team member who's primary purpose is to document the session, capture key metrics as they emerge which will later be used to create a Value Stream Map.
+| Role    | Responsibilities | GitLab Roles |
+| -------- | ------- |------- |
+| Scribe(s)  |A team member who's primary purpose is to document the session, capture key metrics as they emerge which will later be used to create a Value Stream Map. |  AE, Shadow SA, CSM |
+| Facilitator |A team member fully versed in the Value Stream Mapping process who is responsible for leading the session; ensuring that discussion is staying on-topic, at the right level and at the required pace.    |  SA |
+| Account Leader |Ensure that the long term strategic vision for the prospect is considered when discussing desired future state and they can also provide additional context to the current state.  Schedule meetings with the Value Stream Assessment participants.  Send summary followup emails after each session ([template](https://docs.google.com/document/d/1Aq9J8akzXOngW2vP4GmObviZDP1lo9uRvbEl4ytxgQM/edit))Update VSA Tracking fields in Salesforce.| AE |
 
 #### Process
 
-The process which we will go through, at a high level, is as follows:
+The process which we will go through, at a high level, is as follows  (per functional persona/team, in a single workshop or across a few meetings):
 
 1. Why we are here? (Exec sponsor led)
 1. Re-iterate expectations set in the planning meeting
     1. Start and end points for the value stream
 1. Current state
-    1. Initial process "walk-through"
-        1. Capture people, processes and technology
-    1. 2nd process "walk-through"
-        1. Metrics gathering (Lead Time, Process Time, Percent Complete and Accurate)
-    1. Anylse metrics and identify bottlenecks and improvement areas
-1. Design future state
+    1. Initial process "walk-through" / information discovery
+        1. Capture people, processes and technology per persona/team ([information disovery guide](https://docs.google.com/spreadsheets/d/1uaXYION8me79Akm9KKhItAEZmGxaiZmKX8zRlLbs7vI/edit#gid=666358624))
+    1. 2nd process "walk-through" (if needed)
+1. Design future state (when doing a single workshop with all personas)
     1. Review the expectations again, to align the team on the target they are aiming to create
     1. Determine "right work" (which processes and steps are required for the value stream to be optimal)
         1. Remove processes and process steps when they are truely unnecessary
@@ -181,9 +179,7 @@ The process which we will go through, at a high level, is as follows:
     1. Managing the work
         1. How will we measure if the value stream is performing as we intended? (KPIs)
         1. Who will monitor and manage the value stream performance?
-1. Develop transformation plan (likely completed async)
-    1. For the transformation plan as a whole, we capture accountable parties and progress review dates
-    1. For each process block transformation, capture the measurable target, proposed countermeasures, execution method, owner and timeline (later, status as well)       
+ 
 
 #### Tools
 
@@ -268,6 +264,29 @@ It is recommended to review the executive briefing with your champion, key stake
 
     - Yes. We would like to start with application development team if so. This helps us understand an overview of their development process(idea-production) process.
 
+
+
+### Salesforce Tracking
+
+The Account Leader (AE) is responsible for maintaining the Salesforce opportunity level VSA Tracking Fields outline below:
+
+- **VSA Start Date** - When the VSA kickoff call with the prospect/customer commences.  
+- **VSA End Date** - The date the VSA readout is presented to the prospect/customer.
+- **VSA Status** - The status of the VSA where
+  - **Planning** - Internal qualification and planning is occuring.  VSA start date should not be set when in planning.
+  - **Pitched** - We've positioned a VSA with the prospect/customer.  VSA start date should not until VSA kickoff.
+  - **Accepted** - When the customer has agreed to do a VSA and has scheduled a kickoff call.
+  - **In-process** - We've had a kickoff call, are actively facilitating the VSA, or are compiling the result for the readout.
+  - **Completed** - We have presented the VSA executive readout to the prospect/customer.  VSA End Date should be set.
+  - **Stalled** - We were in-process but the prospect/customer is non-responsive and we can't schedule additional interviews.
+- **VSA Readout** - The sentiment from the VSA Readout meeting.
+  - **Positive** - The prospect/customer was highly receptive to our recommendations and we have progressive next steps.
+  - **Neutral** - The prospect/customer was receptive but we do not have clear next steps.
+  - **Negative** - The prospect/customer was not receptive to our recommendation.
+- **VSA URL** - The URL to the VSA Readout presentation
+- **VSA Start Date Net ARR** - Auto populated field
+
+Update the following fields.
 
 ## Training and Enablement
 
