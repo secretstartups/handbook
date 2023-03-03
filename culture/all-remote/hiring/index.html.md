@@ -266,7 +266,7 @@ Rather than attempting to incorporate in every country where an all-remote compa
 * **C2C (Contractor)**: A corp to corp arrangement, whereby a corporation or LLC invoices GitLab BV for GitLab related work.
 * **IND (Contractor)**: By far the most widely applicable. The individual contractor arrangement can be used in countries where GitLab is hiring, yet does not have an entity or PEO agreement in place. This allows an individual to invoice GitLab BV as an individual or via their own company with no partners.
 
-Learn more about [employee types and hiring partners](/handbook/people-group/contracts-probation-periods/#employee-types-at-gitlab) across countries in the [Contracts](/handbook/people-group/contracts-probation-periods/) section of GitLab's Handbook.
+Learn more about [employee types and hiring partners](/handbook/people-group/contracts-probation-periods/#employee-types-at-gitlab) across countries in the [Contracts, Probation Periods & PIAA](/handbook/people-group/contracts-probation-periods/) handbook page.
 
 It is not always practical to understand the nuances of local regulations in-house. Wherever GitLab has an entity or contractor, we have external counsel to advise and ensure that we are compliant.
 
