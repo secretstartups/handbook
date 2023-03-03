@@ -62,7 +62,6 @@ For information regarding process, epic codes, templates and more, please visit 
 
 We will sponsor regional 3rd party events in an effort to build the GitLab brand and also to gather leads. Different types of 3rd party events include, but are not limited to:
 
-- DevOps Days
 - Agile Events
 - City run technology meetings
 - Customer/prospect run DevOps events on invite
