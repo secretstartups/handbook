@@ -186,7 +186,17 @@ If you are working with a partner and need a distributor quote sent, please eith
     *   monitors opportunity to ensure it is updated to Closed-Won.
     *   notifies Distributor when order has been fully processed.
 
- 
+#### Distributor e-Marketplaces 
+
+GitLab is activating Distributor e-Marketplaces for customers to transact via GitLab authorized resellers. There are specific requirements for partners prior to activating their e-Marketplace capability, including:    
+
+- Partner is an authorized GitLab Open or Select partner in good standing.
+- GitLab e-Marketplace page that includes an overview of the partner’s technical expertise and/or services offerings.
+- GitLab review of the draft page, and GitLab’s written (email) approval provided to the Distributor. 
+
+GitLab reserves the right to pause or deactivate a partner’s e-Marketplace offering if issues arise. 
+For more information about Distributor e-Marketplaces, partners should [contact their distributor](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#transacting-through-distribution), or their GitLab Channel Manager. 
+
 ## SFDC Field Definitions
 ### Section I: Partner Sourced Deal Registration
 - **DR - Partner**: The reseller partner that ‘submitted’ the Partner Sourced Deal Registration that the GitLab Sales Team subsequently ‘approved’ in the system.
