@@ -164,7 +164,7 @@ No, not at this time.
 | April 3    |  Available | |
 | April 10   |  Available | |
 | April 17   |  Available | |
-| April 24   |  Available | |
+| April 24   |  [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) - outside shadow |
 | May 1      |  Available | |
 | May 8      |  Available | |
 | May 15     |  Available | |
