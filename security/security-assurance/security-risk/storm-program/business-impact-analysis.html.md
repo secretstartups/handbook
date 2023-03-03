@@ -51,12 +51,12 @@ A BIA is initiated as the result of GitLab's [process for adding net-new systems
 
 1. A formal BIA questionnaire is distributed to the Technical Owners for each system, as listed in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) or Merge Request related to adding the system to the Tech Stack. If there are multiple individuals listed as Technical Owners, one team member will be selected. Launch a new BIA Questionnaire from GitLab's GRC Application, ZenGRC, by following these steps:
       1. Click 'System of Record' > 'Programs' > 'Business Impact Analysis Activities'
-      2. Locate the 'Business Impact Analysis - New Systems' Project
+      2. Locate the 'Business Impact Analysis - New Systems' Project (Select correct Fiscal Year)
       3. Click the 3 dots on the top right-hand corner > 'Send New Questionnaire'
       4. Search for and select the 'Business Impact Analysis (BIA)' questionnaire template
       5. Populate the Recipient Details section. The Recipient is "Internal" (input name/GitLab email of one Technical Owner only). 
       6. Search for and select the 'BIA Questionnaire (New System)' email template
-      7. Update the Title/Subject, Greeting, Message body, Reply-To email, and Due Date accordingly.  Target completion of the BIA Questionnaire is approx. two weeks.
+      7. Update the Title/Subject, Greeting, Message body, Reply-To email, and Due Date accordingly.  Target completion of the BIA Questionnaire is two weeks.
       8. Click 'Review' > 'Submit' when ready
       9. Map the appropriate System Object to the BIA Questionnaire by clicking the pencil icon in the 'map:system' column.
       
@@ -65,6 +65,18 @@ Additional information on completing a questionnaire (recipient's perspective) c
 2. Upon sending the BIA Questionnaire to the Technical Owner of the new system via ZenGRC, a GitLab Issue is created in the [Third Party Risk Management GitLab Project using the ["New System - TS Add and BIA Tracking"](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issue[title]=New%20System%20-%20[System%20Name]%20-%20TS%20Add%20and%20BIA%20Tracking&issuable_template=New%20System%20-%20TS%20Add%20and%20BIA%20Tracking) Issue template.  The purpose of creating this Issue is to track progress of: (1) the addition of the new system to the Tech Stack and (2) the BIA Questionnaire for the new system.  The Issue template should be fully populated, including the URL of the BIA Questionnaire sent for the new system (in ZenGRC) and the URL of the new system's corresponding 'Tech Stack Add MR' created post-TPRM review.  This Issue is not deemed "Closed" until the BIA Questionnaire is completed per ZenGRC AND the 'Tech Stack Add MR' is successfully merged.
 3. Once the BIA Questionnaire responses are received, the data will be sanitized and aggregated. Follow-ups with the Technical Owner will be completed as required to ensure the data used is accurate, complete, and objective.
 4. Mission Critical systems are identified and next steps are taken to ensure that a system recovery/business continuity plan is documented accordingly.
+
+### SLAs and Escalation Path
+##### Target SLAs (Due Date):
+- Completion of Tech Stack MR (Add New System) = 1 week after MR creation
+- Completion of BIA Questionnaire (New System) = 2 weeks after sending to Technical Owner
+
+##### Escalation Path[^1]
+1. Due Date +1 Business Day: Notify Technical Owner or Delegate in a public Slack channel (e.g. #sec-assurance).
+2. Due Date +5 Business Days: Notify Manager of Technical Owner or Delegate in a public Slack channel (e.g. #sec-assurance).
+3. Due Date +10 Business Days: Issue Risk Acceptance following the [TPRM Risk Acceptance Process](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html#tprm-risk-acceptance-process).
+
+[^1]: Security Risk should use discretion when actioning these steps (e.g. consider progress made in completing Tech Stack MR/BIA Questionnaire).
 
 ### Existing Systems (Frequency based on Critical System Tier)
 
