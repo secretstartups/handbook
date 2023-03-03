@@ -30,24 +30,30 @@ For a comprehensive view of our [nurture programs](https://about.gitlab.com/hand
 {: #meet-the-team}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Jackie Gragnola** _Senior Manager, Marketing Campaigns & ABM_
-
-- **Team Prioritization**: plan prioritization of email campaigns, free user campaigns, and overarching projects
-- **Hiring**: organize rolling hiring plan to scale with organization growth
-- **Onboarding**: create smooth and effective onboarding experience for new team members to ramp quickly and take on responsibilities on the team
-- **Transition of Responsibilities**: plan for and organize efficient handoff to new team members and between team members when prioritization changes occur
 
 **Luis Diego D'Ambrosio** _Senior Lifecycle Marketing Manager_
 
-- **Intelligent Nurture**: DRI for organization of new content additions to the intelligent nurture, build of new streams within the nurture architecture in collaboration with marketing operations
+- **Intelligent Nurture - Enterprise & PubSec**: DRI for organization of new content additions to the intelligent nurture, build of new streams within the nurture architecture in collaboration with marketing operations
 - **Communication of Nurture Updates**: regularly update the larger marketing team about updates to the Intelligent Nurture
+- **Email point of contact/support**: Reviewing and optimizing EMEA & APAC events (fmm & corp) and campaigns sends to ensure best practices and compliance with the GitLab brand
+- **GitLab 16**: Creating the promotional and follow-up email plans for the GitLab 16 launch event
+- **Localization within emails**: Owning the translation and localization strategy for email
+- **Calendaring and stakeholder conversations (Supporting)**: Assist in the calendaring conversations led by @aklatzkin and be back-up in case of OOO
+- **Re-engagement nurture**: Develop and implement strategy for re-engagement email nurture
 
-**Allie Klatzkin** _Lifecycle Marketing Manager_
+
+
+**Allie Klatzkin** _Senior Lifecycle Marketing Manager_
 
 - **Free User Campaigns**: DRI for free user efficiency project, focused on progression of free users to trial to paid
 - **Trial User Campaigns**: DRI for trial nurture, focused on progressing trial users to paid
+- **Intelligent Nurture - SMB & Mid-market**: DRI for organization of new content additions to the intelligent nurture, build of new streams within the nurture architecture in collaboration with marketing operations
+- **Customer MVCs**: (connection with Dir. Digital Success on CS Ops side)
+- **Calendaring and stakeholder conversations (DRI)**: Lead weekly email calendar conversations to ensure we are prioritizing our email sends per audience
 - **Email Templates**: define needs, organize design, and manage development and testing of new email templates
 - **Email Best Practices, Processes & Optimization**: enable teams across GitLab (mainly Marketing and Sales Dev) on email best practices, as well as streamlining, scaling, and improving email performance
+- **GitLab Commit**: Global templates and scaling process for promoting and following up from GitLab Commit.
+- **Email point of contact/support**: Reviewing and optimizing AMER & Global events (fmm & corp), campaigns, and newsletter email sends to ensure best practices and compliance with the GitLab brand
 
 
 ### OKRs
@@ -220,7 +226,7 @@ The following issue templates are used by the campaigns team to organize their w
 
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
-- `/assign @` - issues should have only DRI based on who will complete the work in the issue. If work needs to be completed by multiple people, consider breaking into separate issues with clear deliverables and due dates. (example: `/assign @jgragnola`)
+- `/assign @` - issues should have only DRI based on who will complete the work in the issue. If work needs to be completed by multiple people, consider breaking into separate issues with clear deliverables and due dates. (example: `/assign @aklatzkin`)
 - `/due 2021-` - add due date based on workback schedules (example: `/due 2020-07-13` or `/due tomorrow` or `/due 07/13/2020`)
 - `/milestone %` - add milestone based on the due date of the issue (example: `/milestone %"Mktg: ` )
 - `/weight ` - add weight between 1-5, with 1 being easiest (between 1-4 hours of time) and 5 being most complext (a full week of work). The majority of issues should fall into 1-2. If estimation is weight of 3+, break into separate issues for more manageable pieces to fit into milestones. (example: `/weight 1`)
@@ -297,13 +303,11 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 - [All Team Members Priorities Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791)
 - [Luis Deigo D'Ambrosio Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=dambrold)
 - [Allie Klatzkin Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=aklatzkin)
-- [Jackie Gragnola Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?scope=all&milestone_title=%23started&assignee_username=jgragnola)
 
 ##### Board View by Milestone
 - [All Team Members Priorities Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?milestone_title=%23started)
-- [Luis Deigo D'Ambrosio by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=dambrold)
+- [Luis Diego D'Ambrosio by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=dambrold)
 - [Allie Klatzkin by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?label_name[]=mktg-demandgen&assignee_username=Aklatzkin&milestone_title=Any%20Milestone)
-- [Jackie Gragnola by Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/3702791?scope=all&label_name[]=mktg-demandgen&assignee_username=jgragnola)
 
 ##### Board View Current Mile by Team Members
 - [Current Milestone by Team Members](https://gitlab.com/groups/gitlab-com/-/boards/1948068?milestone_title=%23started&label_name[]=dg-campaigns)
@@ -317,7 +321,6 @@ The lifecycle marketing team uses the overall 2-week marketing milestones (forma
 - [All Team Members Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started)
 - [Luis Deigo D'Ambrosio Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=dambrold)
 - [Allie Klatzkin Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=aklatzkin)
-- [Jackie Gragnola Current Milestone](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&state=opened&milestone_title=%23started&assignee_username[]=jgragnola)
 
 ##### Issues by Status
 - [Issues in triage status (campaigns)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-status%3A%3Atriage)
@@ -378,7 +381,7 @@ The workback timeline is to be created by the Lifecycle Marketer to organize the
    - For reference: [UTM Strategy Handbook](https://about.gitlab.com/handbook/marketing/utm-strategy)
 
 ## :busts_in_silhouette: Team
-* Lifecycle Marketing: @Aklatzkin (supported by manager, @jgragnola) 
+* Lifecycle Marketing: @Aklatzkin
 * Growth Product:  
 * Marketing Operations: 
 * Data Team: 
