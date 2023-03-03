@@ -67,7 +67,7 @@ The Engineering Productivity team focuses on the following workstreams and the a
   * [GitLab project pipeline](https://docs.gitlab.com/ee/development/pipelines.html) improvements to improve efficiency, quality or duration.
 * **Dogfood use**: Dogfood GitLab product features to improve developer workflow and provide feedback to product teams.
   * Use new features from related product groups (Analytics, Monitor, Testing).
-  * Improve usage of [Review Apps] for GitLab development and testing.
+  * Improve usage of [Review apps](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html) for GitLab development and testing.
 * **Engineering support**: Participate in activities related to [Engineering MR Rate](/handbook/engineering/performance-indicators/#engineering-mr-rate) and [Quality KPIs](/handbook/engineering/quality/performance-indicators/).
   * [`#master-broken`](/handbook/engineering/workflow/#broken-master) pipeline monitoring.
   * KPI corrective actions such as [Review Apps stabilization](/handbook/engineering/quality/performance-indicators/#review-app-deployment-success-rate-for-gitlab).
@@ -75,7 +75,7 @@ The Engineering Productivity team focuses on the following workstreams and the a
 * **Engineering workflow**: Develop automated processes for improving label classification hygiene in support of product and Engineering workflows.
   * [Automated issues and merge requests triage](/handbook/engineering/quality/triage-operations/).
   * Improvements to the labelling classification and automation used to support Engineering measurements.
-  * See the [GitLab Triage], and [GitLab triage operations] projects for examples.
+  * See the [`gitlab-triage` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage), and [Triage operations](https://gitlab.com/gitlab-org/quality/triage-ops) projects for examples.
 * **Do it for wider community**: Increase efficiency for wider GitLab Community contributions.
 * **Dogfood build**: Enhance and add new features to the GitLab product to improve engineer productivity.
 
@@ -135,16 +135,16 @@ The Engineering Productivity team uses [modified prioritization and planning gui
 
 ## Projects
 
-1. [GitLab] CI [Pipeline configuration optimization and stability](https://docs.gitlab.com/ee/development/pipelines.html).
-1. [GitLab] [Review apps] provisioning.
-1. [GitLab triage operations] for issues, merge requests, community contributions.
-1. [GitLab Triage] engine, used by [GitLab triage operations].
+1. `gitlab-org/gitlab` [pipeline configuration, optimization, and stability](https://docs.gitlab.com/ee/development/pipelines.html).
+1. `gitlab-org/gitlab` [Review apps](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html) provisioning and [infrastructure](https://gitlab.com/gitlab-org/quality/engineering-productivity-infrastructure/-/tree/main/review-apps).
+1. [Triage operations](https://gitlab.com/gitlab-org/quality/triage-ops) for issues/merge requests/epics, and [infrastructure](https://gitlab.com/gitlab-org/quality/engineering-productivity-infrastructure/-/tree/main/qa-resources).
+1. [`gitlab-triage` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage), used by [Triage operations](https://gitlab.com/gitlab-org/quality/triage-ops).
 1. [Development department metrics](/handbook/engineering/development/performance-indicators) for measurements of Quality and Productivity.
-1. [GitLab Dangerfiles] for shared [Danger](https://docs.gitlab.com/ee/development/dangerbot.html#danger-bot) rules and plugins.
-1. [GitLab Styles] for shared [RuboCop cops](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec).
-1. [GitLab Development Kit (GDK)] continued development.
-1. [GitLab feature flag alert] for reporting on GitLab feature flags.
-1. [GitLab RSpec Profiling Statistics] for profiling information on RSpec tests in CI.
+1. [`gitLab-dangerfiles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles) for shared [Danger](https://docs.gitlab.com/ee/development/dangerbot.html#danger-bot) rules and plugins.
+1. [`gitLab-styles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles) for shared [RuboCop cops](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec).
+1. [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit) continued development.
+1. [GitLab feature flag alert](https://gitlab.com/gitlab-org/gitlab-feature-flag-alert) for reporting on GitLab feature flags.
+1. [GitLab RSpec Profiling Statistics](https://gitlab.com/gitlab-org/rspec_profiling_stats) for profiling information on RSpec tests in CI.
 
 ## Active Quarter OKRs
 
@@ -173,14 +173,16 @@ Note: Due to the switch to GitLab's OKR system, we no longer have the ability to
 
 The Engineering Productivity team creates metrics in the following sources to aid in operational reporting.
 
-- [Sisense Broken Master Pipeline Root Cause Analysis](https://app.periscopedata.com/app/gitlab/1082465/Master-Broken-Incidents-Root-Cause-Analysis)
-- [Sisense Engineering Productivity Dashboard](https://app.periscopedata.com/app/gitlab/1115916/Engineering-Productivity-Dashboard)
-- [Sisense Quality Engineering KPIs](https://app.periscopedata.com/app/gitlab/516343/Quality-KPIs)
-- [Sisense Engineering Productivity Sandbox](https://app.periscopedata.com/app/gitlab/496118/Engineering-Productivity-Sandbox)
-- [Sisense Engineering Productivity Pipeline](https://app.periscopedata.com/app/gitlab/564156/Engineering-Productivity---Pipeline)
-- [Sisense Engineering Productivity Jobs Durations](https://app.periscopedata.com/app/gitlab/652085/Engineering-Productivity---Pipeline-Build-Durations)
-- [Sisense Engineering Productivity Package And QA Durations](https://app.periscopedata.com/app/gitlab/869271/Engineering-Productivity---Package-And-QA-Durations)
-- [Sisense GitLab Issue Triage Dashboard](https://app.periscopedata.com/app/gitlab/621211/WIP:-GitLab-Issue-Triage-Dashboard)
+- [Engineering Productivity Dashboard](https://app.periscopedata.com/app/gitlab/1115916/Engineering-Productivity-Dashboard)
+- [Quality Department KPIs](https://app.periscopedata.com/app/gitlab/516343/Quality-Department-KPIs)
+- [Broken Master Pipeline Root Cause Analysis](https://app.periscopedata.com/app/gitlab/1082465/Master-Broken-Incidents-Root-Cause-Analysis)
+- [Time to First Failure](https://app.periscopedata.com/app/gitlab/878780/Time-to-first-failure-(TtFF))
+- [Test Intelligence Accuracy](https://app.periscopedata.com/app/gitlab/1116767/Test-Intelligence-Accuracy)
+- [Engineering Productivity Pipeline Health](https://app.periscopedata.com/app/gitlab/564156/EP---Pipelines-health)
+- [Engineering Productivity Jobs Durations](https://app.periscopedata.com/app/gitlab/652085/Engineering-Productivity---Pipeline-Build-Durations)
+- [Engineering Productivity Package And QA Durations](https://app.periscopedata.com/app/gitlab/869271/Engineering-Productivity---Package-And-QA-Durations)
+- [Issue Triage Dashboard](https://app.periscopedata.com/app/gitlab/621211/EP---Issue-Triage)
+- [Engineering Productivity Sandbox](https://app.periscopedata.com/app/gitlab/496118/Engineering-Productivity-Sandbox)
 - [GitLab-Org Native Insights](https://gitlab.com/groups/gitlab-org/-/insights)
 - [Review Apps monitoring dashboard](https://app.google.stackdriver.com/dashboards/6798952013815386466?project=gitlab-review-apps)
 - Triage Reactive monitoring dashboards
@@ -280,7 +282,6 @@ Developers can add labels to run jobs in addition to the ones selected by the pi
 - `~"pipeline:run-all-jest"`
 - `~"pipeline:run-as-if-foss"`
 - `~"pipeline:run-as-if-jh"`
-- `~"pipeline:run-on-pg11"`
 - `~"pipeline:run-praefect-with-db"`
 - `~"pipeline:run-single-db"`
 
@@ -292,26 +293,13 @@ This is a list of Engineering Productivity experiments where we identify an oppo
 
 | Experiment | Status | Hypothesis | Feedback Issue or Findings |
 | --- | --- | --- | --- |
+| [Automatic issue creation for test failures](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/182) | In Progress | The goal is to track each failing test in `master` with an issue, so that we can later automatically quarantine tests. | [Feedback issue](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/182). |
 | [Always run predictive jobs for fork pipelines](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1170) | Complete | The goal is to reduce the CI minutes consumed by fork pipelines. The "full" jobs only run for canonical pipelines (i.e. pipelines started by a member of the project) once the MR is approved. | |
-| [Retry failed specs in a new process after the initial run](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1148) | Complete | Given that a lot of flaky tests are unreliable due to previous test which are affecting the global state, retrying only the failing specs in a new RSpec process should result in a better overall success rate. | https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1148#note_914106156 |
-| [Experiment with automatically skipping identified flaky tests](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1069) | Complete | Skipping flaky tests should reduce the number of false broken `master` and increase the `master` success rate. | We found that this doesn't seem to have a negative impact on `master` stability so the experiment was made opt-out. |
+| [Retry failed specs in a new process after the initial run](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1148) | Complete | Given that a lot of flaky tests are unreliable due to previous test which are affecting the global state, retrying only the failing specs in a new RSpec process should result in a better overall success rate. | [Results show that this is useful](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1148#note_914106156). |
+| [Experiment with automatically skipping identified flaky tests](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1069) | Complete - Reverted | Skipping flaky tests should reduce the number of false broken `master` and increase the `master` success rate. | We found out that it can actually break `master` in some cases, so we reverted the experiment with [`gitlab-org/gitlab!111217`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/111217). |
 | [Experiment with running previously failed tests early](https://gitlab.com/gitlab-org/gitlab/-/issues/333857) | Complete | We have not noticed a significant improvement in feedback time due to other factors impacting our Time to First Failure metric. | |
-| [Store/retrieve tests metadata in/from pages instead of artifacts](https://gitlab.com/gitlab-org/gitlab/-/issues/335675) | In Progress | We're only interested in the latest state of these files, so using Pages makes sense here. Also, this would simplify the logic to retrieve the reports and reduce the load on GitLab.com's infrastructure. | [There are some transient problems where a Cloudflare page is returned instead of the expected JSON file](https://gitlab.com/gitlab-org/gitlab/-/issues/337319). |
-| [Reduce pipeline cost by reducing number of rspec tests before MR approval](https://gitlab.com/gitlab-org/gitlab/-/issues/336063) | In Progress | Reduce the CI cost for GitLab pipelines by running the most applicable rspec tests for changes prior to approval | Improvements needed to [identify and resolve selective test gaps](https://gitlab.com/groups/gitlab-org/quality/engineering-productivity/-/epics/6) as this impacted pipeline stability. |
-| [Enabling developers to run failed specs locally](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/58569) | In Progress | Enabling developers to run failed specs locally will lead to less pipelines per merge request and improved productivity from being able to fix regressions more quickly | <https://gitlab.com/gitlab-org/gitlab/-/issues/327660> |
+| [Store/retrieve tests metadata in/from pages instead of artifacts](https://gitlab.com/gitlab-org/gitlab/-/issues/335675) | Complete | We're only interested in the latest state of these files, so using Pages makes sense here. This simplifies the logic to retrieve the reports and reduce the load on GitLab.com's infrastructure. | This has been [enabled since 2022-11-09](https://gitlab.com/gitlab-org/gitlab/-/issues/377423#note_1166315874). |
+| [Reduce pipeline cost by reducing number of rspec tests before MR approval](https://gitlab.com/gitlab-org/gitlab/-/issues/336063) | Complete | Reduce the CI cost for GitLab pipelines by running the most applicable rspec tests for changes prior to approval | Improvements needed to [identify and resolve selective test gaps](https://gitlab.com/groups/gitlab-org/quality/engineering-productivity/-/epics/6) as this impacted pipeline stability. |
+| [Enabling developers to run failed specs locally](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/58569) | Complete | Enabling developers to run failed specs locally will lead to less pipelines per merge request and improved productivity from being able to fix regressions more quickly | [Feedback issue](https://gitlab.com/gitlab-org/gitlab/-/issues/327660). |
 | [Use dynamic analysis to streamline test execution](https://gitlab.com/gitlab-org/gitlab/-/issues/222369) | Complete | Dynamic analysis can reduce the amount of specs that are needed for MR pipelines without causing significant disruption to master stability | [Miss rate of 10%](https://gitlab.com/gitlab-org/gitlab/-/issues/222369#note_480768617) would cause a large impact to master stability. Look to leverage dynamic mapping with local developer tooling. Added [documentation](https://docs.gitlab.com/ee/development/pipelines/index.html#rspec-predictive-jobs) from the experiment. |
 | [Using timezone for Reviewer Roulette suggestions](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/34862) | Complete - Reverted | Using timezone in Reviewer Roulette suggestions will lead to a reduction in the mean time to merge | Reviewer Burden was inconsistently applied and specific reviewers were getting too many reviews compared to others. More details in the [experiment issue](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/563#note_397680373) and [feedback issue](https://gitlab.com/gitlab-org/gitlab/-/issues/227123) |
-
-[GitLab]: https://gitlab.com/gitlab-org/gitlab
-[GitLab Insights]: https://gitlab.com/gitlab-org/gitlab-insights
-[GitLab Triage]: https://gitlab.com/gitlab-org/gitlab-triage
-[GitLab triage operations]: https://gitlab.com/gitlab-org/quality/triage-ops
-[Review apps]: https://docs.gitlab.com/ee/development/testing_guide/review_apps.html
-[GitLab Development Kit (GDK)]: https://gitlab.com/gitlab-org/gitlab-development-kit
-
-[GitLab docs]: https://gitlab.com/gitlab-org/gitlab-docs
-[GitLab Dangerfiles]: https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles
-[GitLab Styles]: https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles
-[GitLab feature flag alert]: https://gitlab.com/gitlab-org/gitlab-feature-flag-alert
-[Gitlab RSpec Profiling Statistics]: https://gitlab.com/gitlab-org/rspec_profiling_stats
-
