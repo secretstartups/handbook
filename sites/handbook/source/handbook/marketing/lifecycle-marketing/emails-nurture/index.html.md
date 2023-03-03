@@ -45,7 +45,11 @@ This page focuses on emails and nurture programs, owned and managed by Lifecycle
 ## GitLab Email Calendar
 {: #calendar .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-We have moved our email calendar to Asana! We will have email stakeholder syncs each Thursday to review emails for the upcoming two weeks. If you need the call added to your calendar, please ask Allie Klatzkin. To ensure this is done smoothly, please add your emails to the calendar as soon as you know that they are upcoming (regardless if you have all information). Due to limited seats, we will be providing 1-2 seats per team on the calendar. Please reach out to your team's DRI with any questions. 
+We have moved our email calendar to Asana! We will have email stakeholder syncs each Thursday to review emails for the upcoming two weeks. If you need the call added to your calendar, please ask Allie Klatzkin. To ensure this is done smoothly, please add your emails to the calendar as soon as you know that they are upcoming (regardless if you have all information). 
+
+**All emails must be added to the calendar before he Email Stakeholder call the week before send**. Emails added after the call will be pushed to the next week.
+
+Due to limited seats, we will be providing 1-2 seats per team on the calendar. Please reach out to your team's DRI with any questions. 
 
 **Calendar goal**
 * Prioritize our emails to ensure we are sending the right emails to the right audience at the right time.
