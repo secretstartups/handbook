@@ -63,27 +63,65 @@ We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee
 
 List of features managed by the [billing and subscription management group](https://about.gitlab.com/direction/fulfillment/billing-and-subscription-management/) within the [Fulfillment section](https://about.gitlab.com/direction/fulfillment/).
 
-#### Renew Subscription
+#### Subscription Renewal and Auto-Renewal
 
-The renew subscription feature allows customers to renew their SaaS or Self-managed subscriptions. This feature is available through the `Renew` button on the subscription card in the [Customers Portal](https://customers.gitlab.com/).
+Customers can renew their SaaS or Self-managed subscriptions using either auto-renewal or manual renewal. By default, subscriptions are set to auto-renew. Customers who are not eligible for auto-renew or do not want to auto-renew their subscription can manually renew their subscription through the `Renew` button on the subscription card in the [Customers Portal](https://customers.gitlab.com/).
+
+##### Auto-Renewal eligibility
+
+As of 2023-01-21, almost all of the subscriptions enrolled in auto-renewal (identified in Zuora as `Subscription.TurnOnAutoRenew = Yes`) will be scheduled for auto-renewal and processed. Certain exceptions exist:
+
+We will not attempt to auto-renew if:
+
+* Self-Managed customer is not on Cloud Licensing
+* Customer is not on QSR
+* Customer is on QSR, but QSR failed and there’s overage
+* Customer’s credit card is expired
+
+Auto-renewal will fail if:
+
+* Credit card payment failed
+* EoA subscription has more than 25 users
+* Another system error that wasn’t accounted for previously
+
+Accounts and Subscriptions excluded from auto-renewal:
+
+1. Subscriptions purchased via a Reseller or another Channel partner (where the customer didn’t transact with GitLab directly).
+2. Subscriptions for Education, OSS, or Startup (i.e. Community Programs).
+3. Subscriptions with non-standard term (not in 12 month term increments).
+4. Multi-year subscriptions (with term greater than 12 months). This is a temporary measure until [this epic](https://gitlab.com/groups/gitlab-org/-/epics/9591) is done.
+5. Accounts with the following settings in Zuora:
+   1. `Account.PO Required = Yes` (customer notifies GitLab they have a “no PO, no Pay policy”, booking requirement and pre-billing).
+   2. `Account.Portal Required = Yes` (customer notifies GitLab that they require invoices to be manually uploaded to a billing portal, and includes non-PO, PO, contract, or SOW).
+   3. `Account.Support Hold = Yes` (customers are placed on support hold when accounts become >90 days past due without payment commitment).
+   4. `Account.Credit Hold = Yes` (customers are placed on credit hold when any balance is written off to bad debt)
+
+There’s an automated process (Zuora Workflow) that sets `Subscription.TurnOnSeatReconciliation__c` to No for the use cases listed above.
+
 
 ##### GitLab Docs for SaaS (public)
 
 - [Preparing for renewal](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#prepare-for-renewal-by-reviewing-your-account)
 - [Renewing a subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#renew-or-change-a-gitlab-saas-subscription)
-- [Community programs renewal workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/automated-community-programs/#renewal)
+- [Automatic subscription renewal](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#automatic-subscription-renewal)
 
 ##### GitLab Docs for Self-managed (public)
 
 - [Preparing for renewal](https://docs.gitlab.com/ee/subscriptions/self_managed/#prepare-for-renewal-by-reviewing-your-account)
 - [Renewing a subscription](https://docs.gitlab.com/ee/subscriptions/self_managed/#renew-subscription-manually)
+- [Automatic subscription renewal](https://docs.gitlab.com/ee/subscriptions/self_managed/#automatic-subscription-renewal)
+
+##### Other public docs
+
+- [Auto-renewals FAQ](https://about.gitlab.com/pricing/faq-improved-billing-and-subscription-management/#auto-renewals)
 - [Community programs renewal workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/automated-community-programs/#renewal)
 
 ##### Developer docs
 
-- [Walkthrough video](https://www.youtube.com/watch?v=OnjxaAUQb98)
-- [Snapshot of steps](https://app.mural.co/t/gitlab2474/m/gitlab2474/1674849812502/a4f3c7b6a1026911837d1c78d903b4d6522ab21d?sender=d04730c1-f654-453a-ba0a-208f33c27b93)
+- [Renewal: UX Scorecard](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2160)
 - [Creating a subscription in Zuora to renew it in a local environment](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/zuora/zuora_tips_and_tricks.md#create-a-subscription)
+- [Auto-Renew: Custom auto-renew feature](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/flows/custom_auto_renew/index.md)
+- [Auto-Renew: Experience Flowchart (password protected)](https://www.figma.com/file/4IAnGWRKIxIKqMLUDxWf1A/Autorenew-experience-flowchart?node-id=0%3A1&t=x31XThz7dVzhhIaK-0)
 - [Generating coupon codes for community programs renewals](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/community_programs/coupons.md#coupons)
 
 ##### Related terminology
@@ -93,22 +131,6 @@ The renew subscription feature allows customers to renew their SaaS or Self-mana
 - [Seat usage](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#how-seat-usage-is-determined)
 - [Seats owed](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#seats-owed)
 
-
-#### Auto-Renewals
-
-##### GitLab Docs for SaaS
-
-- [Automatic subscription renewal](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#automatic-subscription-renewal)
-- [Auto-renewals FAQ](https://about.gitlab.com/pricing/faq-improved-billing-and-subscription-management/#auto-renewals)
-
-##### GitLab Docs for Self-managed
-
-- [Automatic subscription renewal](https://docs.gitlab.com/ee/subscriptions/self_managed/#automatic-subscription-renewal)
-
-##### Developer Documentation
-
-- [Custom AutoRenew feature](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/flows/custom_auto_renew/index.md)
-- [Experience Flowchart (password protected)](https://www.figma.com/file/4IAnGWRKIxIKqMLUDxWf1A/Autorenew-experience-flowchart?node-id=0%3A1&t=x31XThz7dVzhhIaK-0)
 
 ## CustomersDot Admin Panel
 
