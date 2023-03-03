@@ -94,7 +94,7 @@ Once the entity of the chosen candidate has been determined and the CES team has
 
 ### How to add a contract into Greenhouse
 
-1. In the GitLab Handbook, you'll navigate to [this link](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/) as a SSOT for all contract templates. Only the People Group, Finance, and Legal should have access to this folder.
+1. In the internal GitLab Handbook, you'll navigate to [this link](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/employment_contracts/) as a SSOT for all contract templates. Only the People Group, Finance, and Legal should have access to this folder.
 1. Navigate to the correct entity of the contract you're attempting to update on the handbook page.
 1. Click the link to the contract you're wanting to upload and it will open the Google Document.
 1. Navigate to `File`, click `Download` and select `Microsoft Word`.
@@ -106,7 +106,7 @@ Once the entity of the chosen candidate has been determined and the CES team has
     1. Check all of the token/fields to ensure they are formatted correctly (`{{ }}`). For each of the fields with curly brackets (`{ }`) in the template on Google Drive, find and replace that field (including the curly brackets) with the corresponding Greenhouse tokens (including the curly bracket). For example, `{Contributor Name}` in the Drive template will be replaced with `{{CANDIDATE_NAME}}`.
 1. To delete a contract template from Greenhouse, click the three dots `...` to the right of the template name, then click delete and confirm.
 
-The SSOT for the contract templates are on [this handbook page updated by Legal and People Connect](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/). Any updates to contracts will be done there first, and then the talent acquisition team needs to be pinged to be made aware of the changes so they can update the corresponding Greenhouse template.
+The SSOT for the contract templates are on [this handbook page updated by Legal and People Connect](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/employment_contracts/). Any updates to contracts will be done there first, and then the talent acquisition team needs to be pinged to be made aware of the changes so they can update the corresponding Greenhouse template.
 
 These steps are executed by the **People Connect and Legal teams** when contracts are being updated, but for reference, if any changes need to be made to the templates, these tasks can be referenced below:
    1. Some fields that are not necessarily clear are the compensation fields as there are separate fields for the _vacancy_ and for the _candidate_; we want the candidate fields for the contract, so in Greenhouse, the appropriate token for salary is `{{CURRENCY}}`, bonus is `{{BONUS_AMOUNT}}`, and stock options is `{{STOCK_OPTIONS}}`. Another field that is easily confused is the title; the `{{JOB_NAME}}` is the name of the vacancy, which is not always necessarily the same as the title the candidate will have; to make sure it is always correct and includes the appropriate level and specialty for the candidate, use the token `{{FULL_TITLE__INCLUDING_LEVEL_AND_SPECIALTY_}}`.
@@ -301,7 +301,7 @@ _Note: It is essential that People Connect Team members are informed of all chan
 A contractor requests a modification to their contract due to a name change/company incorporation (Example: The individual recently incorporated a company, and would like to invoice GitLab through their company versus individually)
 
 * The People Connect Team member should log the requested change in the Documents section of the team member Workday profile, using the 'Contracts and Changes' document category.
-* The People Connect Team member should draft the new contract using the appropriate template in the [Employment and Contractor Agreements](/handbook/people-group/contracts-probation-periods/#employment-agreements) section. ***Please remember to always make a copy of the template before editing.***
+* The People Connect Team member should draft the new contract using the appropriate template in the [Employment Contracts](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/employment_contracts/) internal handbook page. ***Please remember to always make a copy of the template before editing.***
 
 _Important: Employment contracts cannot be backdated. If a team member requests to backdate a contract for invoicing purposes, an addendum should be added to the contract stating: "As the Contractor has not invoiced GitLab for payment since their start date on `contractor start date`, GitLab will pay the Contractor for this period of time in accordance with the Contractor’s base compensation". The start date on the new contract should always reflect the date the contract is staged for signatures._
 
