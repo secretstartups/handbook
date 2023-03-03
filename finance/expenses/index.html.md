@@ -118,7 +118,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6021 - Professional dues, membership fees</td>
     <td class="tg-0pky">5021 - Professional dues, membership fees COGS</td>
     <td class="tg-0pky">Books, dues &amp; subscriptions</td>
-    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.<br> -  $15 per item per quarter.</td>
+    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.<br> -  $15 per item per quarter. Expenses higher than this limit require manager's approval.</td>
   </tr>
   <tr>
     <td class="tg-btxf">Business Cards</td>
