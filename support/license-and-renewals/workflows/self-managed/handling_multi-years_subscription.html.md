@@ -11,9 +11,9 @@ category: GitLab Self-Managed licenses
 
 From time to time, you will run into cases where customer has a multi-year subscription. This is only possible if a subscription is purchased through Sales, since there's no option to make a multi-year subscription from [CustomersDot](https://customers.gitlab.com).
 
-### Problem with multi-year subscriptions:
-1. The license is automatically generated for the **first year only**. Read more at [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/#i-purchased-a-multi-year-subscription-why-is-my-license-only-for-1-year)
-1. The license is always generated with the first year's start/end date for any future updates to the subscription.
+### Problems with multi-year subscriptions:
+1. Multi-year subscriptions on a legacy or offline license are automatically generated for the **first year only**. Multi-year subscriptions on [cloud licensing](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/) are [generated for the full subscription term](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4816). Read more at [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/#i-purchased-a-multi-year-subscription-why-is-my-license-only-for-1-year). 
+1. When a multi-year subscription on a legacy or offline license has a subscription update (i.e. add seats) after year 1 of the subscription term, the license is generated with the first year's start/end date, which can cause the customer to receive an already expired license. [The fix for this](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3421) is in progress, expected March 2023. Cloud license subscription updates are synced automatically to the customer's instance and aligned to the current subscription dates.
 
 ---
 
