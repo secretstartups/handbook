@@ -66,7 +66,7 @@ The compensation calculator is updated in December and June with the proper exch
 
 ### Disclaimer
 
-The compensation calculator is a tool to assist the Total Rewards team in determining a compensation package for new and existing team members. The results of the calculator are not binding. Written correspondence through a [contract or letter of adjustment](/handbook/people-group/contracts-probation-periods/#employee-contractor-agreements) specify all official compensation changes. We reserve the right to change the calculator at any point in time.
+The compensation calculator is a tool to assist the Total Rewards team in determining a compensation package for new and existing team members. The results of the calculator are not binding. Written correspondence through a [contract](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/employment_contracts/) or letter of adjustment](/handbook/people-group/contracts-probation-periods/#letter-of-adjustment) specify all official compensation changes. We reserve the right to change the calculator at any point in time.
 
 ### Reporting a Discrepancy
 
