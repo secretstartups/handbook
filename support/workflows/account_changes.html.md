@@ -66,17 +66,26 @@ We can also use this workflow when a user cannot add an email address to their a
 
 For more information on unverified/unconfirmed accounts, please see the [confirmation emails](confirmation_emails.html) workflow.
 
-Only use this process if the account shows **no** activity. If an account shows any activity tied to any type of contribution (such as snippets, or comments in a project or group), use the [Account Ownership Verification](account_verification.html) workflow instead.
+The primary (for paid users only, all users should be able to get a new confirmation email) and secondary email (for all users until [#367823](https://gitlab.com/gitlab-org/gitlab/-/issues/367823) is resolved) can be released following the process below.
 
 To release an email address for an inactive account:
 
-1. Confirm that the email address the user is trying to add exists on a different account.
-1. Verify that the account shows **no activity** and is not a member of any projects or groups. Additionally, confirm that the following are true:
-    - The user is unverified
-    - The user has never logged in
-    - The user has no data (No groups or projects)
-    1. If the account **is** verified or data exists, inform the original requestor that the email is **not eligible** for release. They can [request an account deletion](/handbook/support/workflows/personal_data_access_account_deletion.html#zendesk) if necessary.
-1. Add the new email address as a CC to the ticket and ask the user to respond to the ticket from the email address they wish to add.
+### Verify account status and ownership
+
+Check the user's activity page:
+
+1. If an account shows any activity tied to any type of contribution (such as snippets, or comments in a project or group), use the [Account Ownership Verification](account_verification.html) workflow to verify ownership.
+1. If the account shows **no** activity:
+  1. Confirm that the email address the user is trying to add exists on a different account.
+  1. Verify that the account shows **no activity** and is not a member of any projects or groups. Additionally, confirm that the following are true:
+      - The user is unverified
+      - The user has never logged in
+      - The user has no data (No groups or projects)
+1. If the account **is** verified or data exists, inform the original requestor that the email is **not eligible** for release. They can [request an account deletion](/handbook/support/workflows/personal_data_access_account_deletion.html#zendesk) if necessary.
+
+### If eligible for email release
+
+1. If applicable, add the new email address as a CC to the ticket and ask the user to respond to the ticket from the email address they wish to add.
 1. Once the user has replied to confirm they own the email address, update the email address with `+release`. For example, if the email address is `johndoe@example.com`, then update the email address on the account to `johndoe+release@example.com`.
     - This can be done with Admin access or [via Chatops](./chatops.html#Update-a-Users-Primary-Email)
 1. Add an [Admin Note](admin_note.html) to the user's account.
