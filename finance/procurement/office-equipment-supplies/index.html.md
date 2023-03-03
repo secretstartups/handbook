@@ -18,6 +18,7 @@ In addition, as of 2023-02-08, team members will get a yearly refresh of 500 USD
 Team members who have started during the year before this expense policy took effect, and have not yet expensed key parts of their home office equipment (such as office chair, desk and monitor) are also eligible for the New Hire 1,500 USD stipend. In order to claim this, please email expenses@gitlab.com and explain your situation. The team will assist you with provisioning the Virtual Card. 
 
 ### New Hires- 1,500 USD (or equivalent local currency) Guidelines
+
 1. These amounts were set after a thorough analysis and review of team members’ expense data during the previous two years and benchmarked with other remote companies.  Anything over this amount will be at the expense of the team member and no exceptions will be made.
 2. The virtual card provided will expire after one year of issue.  
 3. Any unused funds will not roll over to the next year.
@@ -25,12 +26,12 @@ Team members who have started during the year before this expense policy took ef
 5. We want you to do you and set up your office the way you want it.  There is no restriction regarding which office equipment you may purchase, with the exception of Airpods (they are highly discouraged due to audio quality issues & limited battery life and should not be purchased), phones, and tablets. Please note that these purchases are still reviewed by your manager and accounting teams, and any misappropriation of these funds will be flagged.
 
 ### All Team Members- 500 USD (or equivalent local currency) Refresh Guidelines
+
 1. These amounts were set after a thorough analysis and review of team members’ expense data during the previous four years and benchmarked with other remote companies.  Anything over this amount will be at the expense of the team member and no exceptions will be made.
 2. This is a yearly refresh amount.  It will reset at the beginning of each fiscal year (202X-02-01 to 202Y-01-31).
 3. Any unused funds will not roll over to the next year. 
 4. We want you to do you and refresh your office the way you want it.  There is no restriction regarding which office equipment you may purchase, with the exception of Airpods (they are highly discouraged due to audio quality issues & limited battery life and should not be purchased), phones, and tablets. Please note that these purchases are still reviewed by your manager and accounting teams, and any misappropriation of these funds will be flagged.
 
+For any questions about this process or about utilizing your Virtual Card, please reach out in the [#expense-reporting-inquiries](https://gitlab.slack.com/archives/C012ALM8P29) Slack channel. 
 
-
-
-For any questions about this process or about utilizing your Virtual Card, please reach out in the [#expense-reporting-inquiries](https://gitlab.slack.com/archives/C012ALM8P29) Slack channel.
+For questions on how to submit your home office expenses, including which categories to use, please refer to the [Expenses handbook page](https://about.gitlab.com/handbook/finance/expenses/).
