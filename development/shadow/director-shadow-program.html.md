@@ -158,7 +158,7 @@ No, not at this time.
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| March 13   |  Available | |
+| March 13   |  [Praveen Elamkootil](http://linkedin.com/in/ekpraveen) | Non-GitLab shadow |
 | March 20   |  Available | |
 | March 27   |  Available | |
 | April 3    |  Available | |
