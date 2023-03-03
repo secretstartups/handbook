@@ -42,9 +42,10 @@ Sales Operations main focus is on the Sales organization.
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/sales/field-operations/data-intelligence/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Data Intelligence</a>
-
+</div>
 
 ## **Sales Operations Process Links**
+
 1. [Quote-to-Cash / Buyer Experience Documentation](/handbook/sales/field-operations/sales-operations/buyer-experience/)
 1. [Sales Operations Internal Page](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.tl3z53xvd1wc)
 1. [Sales Operations Monthly Close](https://internal-handbook.gitlab.io/handbook/sales/sales-operations/#sales-operations-monthly-close)
@@ -59,4 +60,3 @@ Sales Operations main focus is on the Sales organization.
 1. [Salesforce Inbox](https://docs.google.com/document/d/1b7_xJHra448hNKwP5pp2ZzhBmTtv8A6ni-SX5v71dqw/edit#heading=h.aj14ljatuu6r)
 1. [Chorus](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/go-to-market/chorus/)
 1. [LinkedIn Sales Insights](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/linkedin-sales-insights.html)
-
