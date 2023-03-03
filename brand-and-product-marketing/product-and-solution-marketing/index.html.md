@@ -194,7 +194,7 @@ Existing collateral can be found in HighSpot (sales facing) and in Path Factory 
 
 ### Key demo Videos
 
-- [DevOps Platorm](https://player.vimeo.com/video/646577717?h=8e30af6265) (~6 minutes)
+- [DevOps Platform](https://player.vimeo.com/video/646577717?h=8e30af6265) (~6 minutes)
 - [GitLab CI Overview](https://www.youtube.com/embed/ljth1Q5oJoo) (~6 mins)
 - [GitLab CD Overview](https://youtu.be/L0OFbZXs99U) (~19 mins)
 - [GitLab Security Overview](https://youtu.be/XnYstHObqlA) (~8 mins)
