@@ -268,6 +268,23 @@ Data is integrated from Snowflake to Gainsight on a monthly basis. Over time, th
    1. Attach to the [data quality epic](https://gitlab.com/groups/gitlab-data/-/epics/216).
    1. Please include screenshots for troubleshooting and _mark issue as confidential_.
 
+### Re-mapping License<>Subscription mapping
+
+If your customer IS sending data but it does not appear in Gainsight, here are the instructions to manually re-map it.
+
+1. Confirm GitLab is receiving the data
+   1. For self-managed instances, confirm we are receiving recent pings in [Version App](https://version.gitlab.com/) from their production instance
+   1. For SaaS, if you're not seeing the namespace data in Gainsight then we know there's a breakage (no need to confirm)
+1. Find the subscription id that should be mapped to the instance in question and the license id (license md5) of that instance.
+1. Share with CS Ops via this [issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/new?issuable_template=Manual%20License%20Mapping%20Self-Managed)(DRI: Brandon)
+1. CS Ops to update the CSV file
+   1. [Self-managed CSV file](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/license_md5_to_subscription_mapping_temp.csv)
+   1. NEED TO ADD SaaS CSV FILE
+1. Data Team (DRI: Miles) reviews and approves change
+1. Data Team assigns to manager for merging (DRI: Israel)
+
+Note: this process may take several days or a week, given schedules and load. Please be patient as this is an entirely manual process until automation resolves these issues.
+
 ### Data sources and application
 
 Below are the various data sources, their definitions, and uses.
