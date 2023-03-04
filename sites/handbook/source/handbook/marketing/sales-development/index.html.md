@@ -300,8 +300,8 @@ While the below measurements do not impact your quota attainment, they are monit
 
 
 * **Sales Development Representative (SDR) to Sales Development Representative Team Lead (SDR TL) Criteria**
-    * 6 Months in the SDR Role
-    * Consistent performance over a 6 month time period on fully-ramped quota (Average over 100%)
+    * Minimum 9 months in the SDR Role
+    * Hitting quota cumulatively over the last **fully-ramped** 5 months
     * Willingness to coach and up-level their peers
     * Endorsement from SDR management
     * Demonstration of GitLab's Values
@@ -309,23 +309,23 @@ While the below measurements do not impact your quota attainment, they are monit
         * NOTE: Not every SDR will have the opportunity to become a team lead. Interviews will take place when a spot is available. A successful applicant must make a 3 month minimum commitment to the Team Lead Role before they can pursue a promotion into another role.
 
  * **Sales Development Representative (SDR) to Business Development Representative (BDR)**
-    * 12 Months in a SDR Role
-    * Hitting or exceeding quota for 2 quarters cumulatively (neither quarter can be below 80% attainment)
+    * Minimum 12 months in the SDR Role
+    * Hitting quota cumulatively over the last 2 **fully-ramped** quarters (neither quarter can be below 80% attainment)
     * Endorsement from current SDR manager
     * Demonstration of GitLab's Values
     * Completion of SDR Q1-Q4 Tanuki Techs
         * NOTE: All promotions require a formal application + interview. Performance and adherence to our values will guarantee an interview but the SDR will have to demonstrate that they are the best candidate during the interview process. Factors such as interview performance, headcount, and language requirements can influence promotion timelines.
 
 * **Business Development Representative (BDR) to Senior Business Development Representative (Senior BDR)**
-    * 6 Months in the BDR Role
-    * Hitting or exceeding full quota for 4 months (averaged)
+    * Minimum 6 months in the BDR Role
+    * Hitting quota cumulatively over the last 6 months (**fully-ramped** months must hit 100% cumulatively)
     * Endorsement from BDR management
     * Demonstration of GitLab's Values
     * Completion of BDR Q1-Q2 Tanuki Techs
 
 * **Business Development Representative (BDR) to Business Development Representative Team Lead (BDR Team Lead)**
-    * 6 Months in the BDR Role
-    * Consistent performance over a 6 month time period (average above 100%)
+    * Minimum 9 months in the BDR Role
+    * Hitting quota cumulatively over the last **fully-ramped** 5 months
     * Willingness to coach and up-level their peers
     * Endorsement from BDR management
     * Demonstration of GitLab's Values
@@ -333,8 +333,8 @@ While the below measurements do not impact your quota attainment, they are monit
         * NOTE: Not every BDR will have the opportunity to become a team lead. Interviews will take place when a spot is available. A successful applicant must make a 3 month minimum  commitment to the Team Lead Role before they can pursue a promotion into another role.
 
 * **Business Development Representative (BDR) and Business Development Representative Team Lead (BDR Team Lead) to Next Step**
-    * Minimum 12 Months in a BDR Role
-    * Hitting or exceeding quota for 2 quarters cumulatively (neither quarter can be below 80% attainment)
+    * Minimum 12 months in the BDR Role
+    * Hitting quota cumulatively over the last 2 **fully-ramped** quarters (neither quarter can be below 80% attainment)
     * Endorsement from BDR management
     * Demonstration of GitLab Values
     * Completion of BDR Q1-Q4 Tanuki Techs
