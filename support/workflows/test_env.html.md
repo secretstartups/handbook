@@ -57,6 +57,11 @@ purposes.
 
 You can create (ephemeral) testing environments. We recommend using the support-resources project for doing so.
 
+You're free to create any testing environments that you need in order to perform your role, however be advised that:
+- Cloud resources are not free: please delete or shutdown any instances you aren't using.
+- Multi-node reference architectures are _very_ expensive to run, so be particularly mindful of not leaving them active longer than you need to.
+- You shouldn't expose your instances to the public Internet or run without TLS. Instances vulnerable to known RCEs or other exploits detected through automated scans will be shut down without warning. Please review [Securing Cloud Testing Environments](#securing-cloud-testing-environments) before you create your first instance.
+
 ### GCP
 
 #### GitLab Sandbox Cloud for GCP (preferred)
@@ -273,6 +278,8 @@ For testing LDAP integrations with a self-managed GitLab instance, you may consi
 
 Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment. 
 
+The [GitLab Red Team](/handbook/engineering/security/threat-management/red-team/) regularly scans GitLab's cloud environments for publicly accessible instances with known vulnerabilities. Instances vulnerable to known RCEs or other exploits detected through automated scans will be shut down without warning.
+
 ### IP Filtering
 
 A highly effective way to secure your cloud instances is to apply the [concept of IP filtering](https://www.oreilly.com/library/view/linux-network-administrators/1565924002/ch09s03.html) for each test instance you create whether its a GitLab instance or otherwise.  For the majority of cases, this means source IP filtering from one or more [CIDR block ranges](https://whatismyipaddress.com/cidr) ensuring that only certain IPs and integrations can interact with the GitLab instance, therefore reducing the attack surface of the GitLab organization as a whole.
@@ -320,6 +327,8 @@ sudo rm -f /opt/gitlab/embedded/bin/exiftool
 sudo printf '#!/bin/bash \n\ncat -' > /opt/gitlab/embedded/bin/exiftool
 sudo chmod a+x /opt/gitlab/embedded/bin/exiftool
 ```
+
+## Local Testing Environments
 
 ### Install Docker
 
