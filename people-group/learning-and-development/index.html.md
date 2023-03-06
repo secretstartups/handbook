@@ -47,7 +47,7 @@ _Performance indicators_
 
 ## Team Member Resources
 
-The Learning & Development team has a number of resources to help team members learn new skills. Click the buttons below to learn more about each one:
+The Learning & Development team has a number of resources to help team members learn new skills. Click the button(s) below to learn more about each one:
 
 <div class="flex-row" markdown="0">
   <div>
