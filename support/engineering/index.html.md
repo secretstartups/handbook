@@ -65,6 +65,10 @@ end of each week with a list of support team contributions merged in the past we
 - [ExplainShell](https://explainshell.com/) - Break down a terminal command
 - [Espanso](https://espanso.org/) - An extremely versatile text expander (a.k.a. text replacer or canned response tool)
 - [LanguageTool](https://languagetool.org/) - A Grammarly-like, free, **offline** grammar, spelling, and style checker
+- [Insomnia](https://insomnia.rest/) - Build, debug, and test API queries, and generate the code for them
+- Menu bar clocks (macOS)
+   - [iStat Menus](https://bjango.com/mac/istatmenus/) - Robust system monitor for the toolbar, including highly customizable clock options
+   - [UTC Time](https://sindresorhus.com/utc-time) - Simple app for displaying UTC time, with options to copy various date formats
 
 ### Useful Browser Extensions
 
