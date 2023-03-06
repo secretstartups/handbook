@@ -16,15 +16,30 @@ This page lists various apps that may be useful for your workflow at GitLab.
 
 ### General security tip
 
+Please review our [acceptable use policy](/handbook/people-group/acceptable-use-policy/).
+
 Some tools and extensions integrate into your various work accounts and will
 request certain permissions for them. Please always be cautious of the
 permissions requested by the application. For example a GitLab integration that
 only requests to be able to read your user profile can be appropriate, however
 an integration shouldn't be able to have read or write access the API. Similarly,
-it isn't recommended to input a GitLab [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html)
+you should not input a GitLab [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html)
 linked to your work account in a third-party tool.
 
-When in doubt, you can always ask in the `#security` Slack channel.
+Here are some non-exhaustive guidelines:
+
+- If the application requires credentials (password, access token, etc.) to any of your work accounts (GitLab, Google, Okta, etc.) please do not enter the credentials and remove the application
+- If the application uses OAuth, make sure to only allow access to your account if the permissions required by the application are very minimal (such as accessing your public profile)
+
+    ![OAuth authorization screen with profile scope](oauth1.png)
+
+    If the application requires anything such as read-only access to the API or anything that could grant access to confidential data please do not continue the authentication process and remove the application
+
+    ![OAuth authorization screen with profile and read_api scope](oauth2.png)
+- When installing something from an "app store" of some sort, look for the reviews, the number of downloads and especially for "badges" that show that the application was reviewed by the app store. For example the Chrome Web Store has a [featured badge](https://support.google.com/chrome_webstore/answer/1050673?visit_id=638011195121439702-999154480&p=cws_badges&rd=1#cws_badges&zippy=%2Cunderstand-chrome-web-store-badges) for popular trustworthy applications
+- When in doubt, do not install the application
+
+In any case, you are encouraged to use our [Individual Use Software Request](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/#how-do-i-submit-a-request-for-new-individual-use-software) process prior to installing third party apps.
 
 ## Internet browsers
 
