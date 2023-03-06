@@ -294,7 +294,7 @@ To add new objectives in GitLab, follow the steps below:
          1. Add `OKR` label.
          1. Add [division label](https://gitlab.com/gitlab-com/gitlab-OKRs/-/labels?subscribed=&search=division) to assign to the relevant division (i.e. Sales, Product, etc).
             1. CEO OKRs are designated with a division::CEO scoped label. 
-         1. Only Product & Engineering cascade OKRs below division level, so for Product & Engineering OKRs, in addition to division labels, follow [issue worfklow](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) to add the Section/Stage/Group scoped labels to assign the OKR to the relevant parts of [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy).
+         1. Only Product & Engineering cascade OKRs below division level, so for Product & Engineering OKRs, in addition to division labels, follow [stage labels](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels) to add the Section/Stage/Group scoped labels to assign the OKR to the relevant parts of [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy).
          1. Each part of hierarchy should have a label. For example, an OKR for a group would have a division label, a section label, a stage label, and a group label.
 1. Review the objective against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared.
       1. If objective contains confidential information, but objective has already been created, the objective can still be set to confidential by clicking the menu in the top right and selecting `Turn on confidentiality`.
@@ -317,7 +317,7 @@ To add new key results in GitLab, follow the steps below:
       1. Add labels so that KR is [searchable/filterable](#search-and-filter-okrs): 
          1. Add `OKR` label.
          1. Add [division label](https://gitlab.com/gitlab-com/gitlab-OKRs/-/labels?subscribed=&search=division) to assign to the relevant division (i.e. Sales, Product, etc). CEO OKRs are designated with a `division::CEO` scoped label. 
-         1. Only Product & Engineering cascade OKRs below division level. For Product & Engineering OKRs, in addition to division labels, follow [issue worfklow](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) to add the Section/Stage/Group scoped labels to assign the OKR to the relevant parts of [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy).
+         1. Only Product & Engineering cascade OKRs below division level. For Product & Engineering OKRs, in addition to division labels, follow [stage labels](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels) to add the Section/Stage/Group scoped labels to assign the OKR to the relevant parts of [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy).
          1. Each part of hierarchy should have a label. For example, an OKR for a group would have a division label, a section label, a stage label, and a group label. 
 1. Review the key result against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared. 
       1. If KR contains confidential information, but KR has already been created, the KR can still be set to confidential by clicking the menu in the top right and selecting `Turn on confidentiality`.
