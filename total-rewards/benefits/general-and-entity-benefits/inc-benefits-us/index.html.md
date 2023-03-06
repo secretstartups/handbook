@@ -208,7 +208,7 @@ Accredo is Cigna's specialty pharmacy. For more information on managing your spe
 | Team Member + Child(ren) | $0  | $188 | $184 |             
 | Family                   | $0  | $426 | $416 |
 
- ##### _2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
+##### _2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
  
 | Tier                     | HDHP-HSA | EPO  | PPO  |
 |--------------------------|:---:|:----:|:----:|
