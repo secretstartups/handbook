@@ -35,6 +35,7 @@ GitLab QA is being used in several Distribution projects to validate that GitLab
 | [GitLab Charts](https://gitlab.com/gitlab-org/charts/gitlab)                  | Full       | Triggered [manually in merge requests](https://gitlab.com/gitlab-org/charts/gitlab/-/blob/master/.gitlab-ci.yml)                              |
 | [GitLab Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) | Smoke      | Run [automatically in merge requests](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator/-/blob/master/.gitlab-ci.yml)        |
 | [GitLab Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) | Reliable   | [Scheduled nightly](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator/-/pipeline_schedules)               |
+| [GitLab Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) | Full       | [Manually triggered](https://docs.gitlab.com/operator/developer/ci.html#qa-pipelines)               |
 | [Reference Architecture Tester](https://gitlab.com/gitlab-org/distribution/reference-architecture-tester)                                                | Full       | [Manually triggered](https://gitlab.com/gitlab-org/omnibus-gitlab/-/blob/master/doc/development/pipelines.md#rat) and FIPS QA Nightly    |
 
 Check [Running GitLab QA](https://docs.gitlab.com/charts/development/gitlab-qa/) for information on how
