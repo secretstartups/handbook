@@ -55,4 +55,11 @@ To audit seats:
 
 Deprovisioners are included on offboarding issue templates.
 
-To deprovision, search for the team member's email address from the `Admin settings > Members` section. The team member is removed from the organization regardless of their account type/role. If a team member was an `Editor`, remember to remove them from the [Figma seats spreadsheet](https://docs.google.com/spreadsheets/d/1WjjUd3izZYGD8MDgLrJ6rI7x4tCpECLZwm-GEuC5jLE/edit#gid=0).
+- To deprovision, search for the team member's email address from the `Admin settings > Members` section. Use the ellipsis (⋯) menu to the right of the member's information and select 'Remove'.
+- The team member is removed from the organization regardless of their account type/role.
+- If a team member was an Editor, remember to remove them from the [Figma seats spreadsheet](https://docs.google.com/spreadsheets/d/1WjjUd3izZYGD8MDgLrJ6rI7x4tCpECLZwm-GEuC5jLE/edit#gid=0).
+- When a member is removed:
+  - Anyone with 'can edit' access to the member's files will be able to continue editing and can move the files.
+  - Their draft files stay within the organization and admins can view and manage the files.
+
+For more information, refer to Figma's [Remove people from an organization](https://help.figma.com/hc/en-us/articles/360040453453-Remove-people-from-an-organization) documentation.
