@@ -106,7 +106,7 @@ The following metrics and definitions are the core of how GitLab performs benchm
 | Measure | Definition | Scope | Calculation | Example |
 |:------------:|:-------------:|:-------:|:---------------:|:---------------:|
 | **Completion Rate** | % of users who successfully complete the task | Measured per participant, reported per task | Completed = 1, incomplete = 0. <br> Then sum and divide by total participants. **Note:** completion criteria for each task should be carefully enumerated with your stakeholders prior to running your study |  4 completions out of 5 participants for task 3 results in 80% completion rate  |
-| **Time on task** | Time spent from start to finish of task  | Measured per participant, reported per task | Start timer on verbal cue, stop timer when participant signals that they have completed the task or have no path forward | Avg. time to completion for task 9 = 2:11 |
+| **Time on task** | Time spent from start to finish of task  | Measured per participant, reported per task for each participant who meets the task completion criteria  | Start timer on verbal cue, stop timer when participant signals that they have completed the task or report that they have no path forward | Avg. time to completion for task 9 = 2:11 |
 | **CES** (Customer Effort Score) | Qualitative measure of perceived effort (1-7, 1 = extreme effort, 7 = effortless) | Measured per task, reported as average | At the end of the task, ask the participant, "On a scale of 1-7 where, 1 is extremely difficult and 7 is extremely easy, how easy was it for you to complete this task?"| Avg. CES for task 13 = 5.9 |
 | **Error Type Count**  | Number of the different type of errors or mistakes made during task completion | Measured per task, reported as average or mean | Errors need to be defined alongside the 'happy' or optimal path the user should take  | 2.6 avg. errors for task X|
 | **Error Rate** | The number of different types of errors observed over the number of steps in the task | Per task | Take the number of observed types of errors and divide by the number of steps or actions in that task. | Task A has 5 steps. There are 10 participants in the study. Our total steps (denominator) is therefore 50. The numerator is the observed errors across all participants for task A. Suppose there are 20 errors recorded for task A. Error rate is thus 20/50, or 40% |
@@ -115,19 +115,22 @@ The following metrics and definitions are the core of how GitLab performs benchm
 | **UMUX lite** |  Canonically, UMUX lite is a 2-question survey that measures perceived usefulness and usability of a system or product. For benchmarking at GitLab, we tend to use it to measure usability against the specific JTBD in our study. |  Collected once per JTBD at end of session.  |    1 question, on a 7-point Likert scale from strongly disagree to strongly agree.    | On a scale of 1-7, where 1 is strongly disagree and 7 is strongly agree, how much to do agree with the statement, "This system helps me perform (insert description of JTBD here)" |
 
 #### Notes on scoring and metrics
-For completion and scoring:
-- If a task is incomplete, **do not** enter time on task for that participant on that specific task.
-- If a task is incomplete, **do** include the CES score and error count.
-- If a participant believes they have finished the task, but they have not met the completion criteria, mark the task as **incomplete**. 
-- If a participant believes they have not completed the task, but they **have** met the completion criteria, mark the task as **incomplete**.
+Scoring task success vs. failure:
+- If the participant has met the task criteria, mark the task as a **success**.
+- If a participant believes they have finished the task, but they **have not met the completion criteria**, mark the task as **failure**. 
+- If a participant believes they have not completed the task, but they **have** met the completion criteria, mark the task as **success**.
 
-For per-task metrics:
-- Report all metrics with a 95% confidence interval, unless you have a clear reason to do otherwise.
+What data to include when you calculate task metrics: 
+- If a participant does not meet the completion criteria for the task, **do not enter time on task for that participant** on that specific task. We want to measure the time it takes to successfully complete the task and therefore don't want to include the times for participants who didn't complete each task. 
+- **Do include the CES score and error count for all participants**. We want to understand the experience for everyone, regardless if they successfully completed the task.  
+
+For the per-task metrics:
+- Report time on task metrics with a 95% confidence interval, unless you have a clear reason to do otherwise.
 - For completion rate, use the [adjusted Wald calculation](https://measuringu.com/calculators/wald/#:~:text=It%20uses%20the%20Wald%20Formula,of%201.96%20or%20approximately%202.) for the confidence interval.
 - For time on task, use a natural log calculation for confidence interval, and report geometric mean rather than the median as a recommended [best practice](https://measuringu.com/calculators/time_intervals/). 
 - Precisely defining and accurately counting errors is **tricky** and does not always need to be performed. If you plan to do it, you must be very clear about the definition for errors in your tasks. 
 - If you collect error rate, report it per task. Count errors against all possible steps for that task, including multiple recorded errors from the same participant on the same part of a task (for example, clicking the same wrong link several times). This may leave you with an error rate greater than 100%.
-- For the Customer Effort Score (CES): If N is less than 30, use the population standard deviation to calculate your confidence interval. If N is greater than 30, use the standard deviation calculation. [Here's a handy calculator](https://www.calculator.net/standard-deviation-calculator.html) that includes both options and confidence intervals. 
+- For the Customer Effort Score (CES): If your sample is less than 30, use the population standard deviation to calculate your confidence interval. If N is greater than 30, use the standard deviation calculation. [Here's a handy calculator](https://www.calculator.net/standard-deviation-calculator.html) that includes both options and confidence intervals. 
 
 #### Severity calculation
 In each session, you will record (per task) the severity number that most closely represents that user's experience as defined on [this handbook page](https://about.gitlab.com/handbook/engineering/quality/issue-triage/). This methodology is similar to the widely-known [Nielsen/Norman system](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/), but inverse (where low numbers in our system are of greater severity). 
