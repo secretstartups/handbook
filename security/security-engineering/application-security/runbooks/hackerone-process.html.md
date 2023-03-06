@@ -288,7 +288,13 @@ Sometimes there will be a breakdown in effective communication with a reporter. 
 - Consider writing the response multiple times, and have the response reviewed by the person you consulted.
 - Once diffused, if the general situation is not currently documented, open an MR to the handbook on how it can be handled in the future.
 
-Where appropriate, follow HackerOne's "See something, say something" policy as described in their [Code of Conduct](https://www.hackerone.com/policies/code-of-conduct). Use a "Team Only" comment on this issue in question and `@` mention the HackerOne triager, email `support@hackerone.com`, or ask an AppSec team member to reach out direct via the HackerOne Customer Slack.
+If the situation leads to a code of conduct violation, follow the process for addressing Code of Conduct violations.
+
+#### Addressing Code of Conduct violations
+
+When behavior violates HackerOne's [Code of Conduct](https://www.hackerone.com/policies/code-of-conduct) we use the Bug Bounty Council to discuss, agree on, and document our response. Add a comment to the current Bug Bounty Council Issue using the template found in the issue description.
+
+In line with our Transparency value, we should try to explain to the researcher why we've taken action and what those actions were. However in some instances (e.g. program bans) it may be appropriate to let HackerOne handle all communication, to keep our team members safe from potential abuse or retribution.
 
 #### Reports potentially affecting third parties
 
