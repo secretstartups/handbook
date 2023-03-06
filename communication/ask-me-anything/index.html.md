@@ -167,23 +167,3 @@ All actions and follow up items should live in the [Reverse AMA EPIC](https://gi
 
 If your underrepresented group has not been assigned a Diversity, Inclusion & Belonging team directly responsible individual please contact Candace or Liam. 
 
-
-## Reverse AMA Schedule - past and upcoming
-
-| Date | URG / TMRG | Leader | DIB DRI - This person will help drive ToDos to completion |
-| ---------- | -------- | ---- | ----- | 
-| 2020-11-10 | Black Team Members in Engineering | Eric Johnson (CTO) | Candace Byrdsong-Williams |
-| 2021-02-05 | Black Team Members & CEO | Sid Sijbrandij (CEO) |
-| 2021-03-31 | Women in Engineering | David DeSanto (VP, Product) / Eric Johnson (CTO) | Liam McNally |
-| 2021-04-01 | Women in Engineering | David DeSanto (VP, Product) / Eric Johnson (CTO) | Liam McNally |
-| 2021-04-06 | Latinx | Sid Sijbrandij (CEO) | Liam McNally |
-| 2021-05-06 | Black Team Members & CEO | Sid Sijbrandij (CEO) | Candace Byrdsong-Williams |
-| 2021-06-03 | Black Team Members & CEO | Sid Sijbrandij (CEO) | Candace Byrdsong-Williams |
-| 2021-06-22 | Latinx | Sid Sijbrandij (CEO) | Liam McNally  |
-| 2021-07-08 | Black Team Members & CEO | Sid Sijbrandij (CEO) | Candace Byrdsong-Williams |
-| 2021-08-05 | Black Team Members & CEO | Sid Sijbrandij (CEO) | Candace Byrdsong-Williams |
-| 2021-09-02 | Black Team Members & CEO | Sid Sijbrandij (CEO) | Candace Byrdsong-Williams |
-| 2021-10-05 | Latinx | Sid Sijbrandij (CEO) | Liam McNally  |
-| 2021-10-07 | Black Team Members & CEO | Sid Sijbrandij (CEO) | Candace Byrdsong-Williams |
-| 2021-11-04 | Black Team Members & CEO | Sid Sijbrandij (CEO) | Candace Byrdsong-Williams |
-| 2021-12-02 | Black Team Members & CEO | Sid Sijbrandij (CEO) | Candace Byrdsong-Williams |
