@@ -63,7 +63,6 @@ Here are some steps you can take to get started optimizing your profile.
 
 LinkedIn's "Rock Your Profile" session for GitLab (held 2020-02-28):
 - [Watch the recording](https://gitlab.zoom.us/rec/play/7JQvduygpm03HILHsASDVPF5W9S8KfmshCdN-vcOnxrmBXILNlCnMrcUZbNqFhhr7peLThzLGQANuhue?startTime=1582907384000)
-- [View the slides](https://view.pointdrive.linkedin.com/presentations/81ac57f1-75b8-4b3c-95bb-eeef8008aab4?auth=d54802e3-29ec-4755-8cea-5bc1a0e090e0)
 
 ______
 
