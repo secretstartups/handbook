@@ -25,8 +25,7 @@ graph TD
   B[Offboarding issue is created, manager is assigned] --> C
   C[Offboarding merge request is created] --> D
   D[Team member is removed from gitlab-com and gitlab-org] --> E
-  E[1 day after: removed from Guardian] --> F
-  F[5 Days after: Issue reminder]
+  E[1 day after: removed from Guardian] --> G
   G[Informational email is sent to the departing team member] --> |2 days before departure| H
   H[Slack message is sent to the departing team member]
 ```
@@ -75,13 +74,3 @@ In the event that the merge request has become out of date and the `/rebase` qui
 When a team member leaves GitLab they also need to be _terminated_ on Guardian. We have a daily check for offboarded team members. Every day we check if there are any new offboarding issues created for the day before. For those, we check if the team member is located in the United States. If there are matches, we create a file with the following naming convention: `04_employee_termination_mmddyyhhmmss.csv` and add the users employee id and their end date to the file. This is then uploaded to Guardian so they can process it.
 
 You can read more about how team members are added to Guardian [here](/handbook/people-group/engineering/onboarding#sync-to-guardian).
-
-### Redirect rule reminder
-
-When a team member is offboarded, there's a redirect rule that is setup on Google Workspace for
-the outgoing team member. After 5 days this redirect rule needs to be removed.
-To make sure this isn't forgotten, a scheduled pipeline is set up for the bot to leave a
-GitLab issue comment reminding the People Connect Team member to remove the rule.
-
-Currently, the pipeline is scheduled to run everyday at 04:00 AM UTC. It will comment on
-all the offboarding issues created 5 days before the current date.
