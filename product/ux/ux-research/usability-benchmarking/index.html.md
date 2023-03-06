@@ -34,6 +34,19 @@ When leading a benchmarking study, you will need to coordinate with several stak
 
 The early planning stages are crucial for setting the rest of your study up for success. In order to maximize the first few weeks of study planning, communicate with your stakeholders on how they would prefer to provide feedback. If you are getting feedback async, make sure to provide firm deadlines that are non-negotiable. In cases where those deadlines are not being met, try pivoting to sync communication such as a scheduled meeting to help stay on the research timeline.
 
+### Sample and recruiting 
+You will want to consider your sample when recruiting for a usability benchmark study. While there are not set guidelines for the sample, you want to consider a general mix of participants across these factors: 
+- Persona(s) relevant to the area the study covers to make sure that you're testing with your target users.
+- Company size that the participant works for, as that can influence the types of tasks that users typically perform and/or give them better mastery if they're working at Enterprise scale.
+- Team size that the participant is directly on. Those on All-in-One teams will have more experience across the platform and will likely be more skilled at any tasks as they have a better understanding of how aspect of the platform work together. Team size greatly impacts how users interact with GitLab.
+- SaaS vs Self-Managed license type for the company that the participant works for. Self-Managed users may be working with earlier versions of GitLab which might impact their performance.
+- GitLab tenure for the individual participant. Those with more experience with GitLab have background knowledge to assist them on completing tasks. You may want to explicitly sample newer or brand-new users depending on the workflows and/or tasks. Generally, obtaining a mixture is good practice. 
+- Industry verticle of the company that the participant works for. Different industries may approach tasks in a different manner. 
+- Individual experience in their role, exclusive of their GitLab tenure. Those with more experience in their role will bring different background knowledge to completing tasks. 
+- Interface preference that the participant works in. Dependent on their preference some participants will use GitLab's web UI or the terminal. This will impact how they approach tasks.
+
+You want to try to avoid over indexing on participants from any one of these factors. For example, avoid sampling all participants that have Self-Managed licensing. When opening you recruitment issue, describe your ideal target sample for your benchmark so that the Research Operations Coordinator can best match their recruitment efforts.
+
 ### Protocol
 Each protocol is tailored to the topic and specifics of the study it belongs to, but often contains similar sections. Generally, you will want to cover the following (many of these are commmon to all moderated studies):
 
