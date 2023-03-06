@@ -57,10 +57,3 @@ Flaky tests negatively impact several teams and areas:
 - Defining acceptable thresholds for action like quarantining/focus on refactoring
 - Step towards unlocking merge train
 
-### Proposals
-
-#### Automatically skip flaky tests
-
-Given that flaky tests are unreliable, and that we have a report of flaky tests, we could just skip them automatically.
-
-See the [dedicated experiment issue](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1069).
