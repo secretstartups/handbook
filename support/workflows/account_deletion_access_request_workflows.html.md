@@ -142,6 +142,49 @@ If the user fails to respond within 7 calendar days, apply the `Account Verifica
   <p>Regards,</p>
 </details>
 
+#### **Step 1.5:** Blocked Accounts
+
+If the user account is not blocked, skip this section.
+
+If the user account is blocked:
+
+1. Follow the [reinstating a blocked account workflow](reinstating-blocked-accounts.html#blocked-accounts). Generally, this means opening a Trust and Safety issue for evaluation.
+2. Reply to the user to let them know.
+
+<details>
+  <summary markdown="span">Account Blocked - For Security review</summary>
+
+  <p>Greetings,</p>
+
+  <p>The account which you have submitted a request for is blocked. We have submitted a request for our Security team to review. Once they have reviewed, we will provide you an update.</p>
+
+  <p>Regards,</p>
+</details>
+
+If the account is unblocked, let the user know, then follow the rest of the process as normal. If needed, include other information about the verification process in the next reply.
+
+<details>
+  <summary markdown="span">Account Unblocked by Security</summary>
+
+  <p>Greetings,</p>
+
+  <p>Our security team has unblocked the account. We are proceeding with the request.</p>
+
+  <p>Regards,</p>
+</details>
+
+If the account stays blocked, apply the `Account Verification Failed` and `Deletion Request:: Denied` labels to the issue, and close it with the following:
+
+<details>
+  <summary markdown="span">Request Closed - Account Blocked by Security</summary>
+
+  <p>Greetings,</p>
+
+  <p>At this time, we cannot delete your account because your data must be retained in order for us to comply with our legal obligations, such as protecting against illegal or fraudulent activities; infringement of IP rights; distribution of harmful or offensive content; violations of the security or integrity of a computer or network.</p>
+
+  <p>Regards,</p>
+</details>
+
 #### **Step 2:** Evaluate
 
 Evaluate the answers to the challenge questions that the user has provided using the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#evaluating-challenge-answers) workflow with a data classification of `RED` along with the [Risk Factor Worksheet](https://docs.google.com/spreadsheets/d/1RyPghnls0NbrWQK7-qtlVW9_jj8mQAygX83n96Asxlo/edit) (GitLab internal) for data and privacy requests to confirm if the verification passes or fails.
