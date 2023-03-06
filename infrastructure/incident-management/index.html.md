@@ -84,6 +84,7 @@ These definitions imply several on-call rotations for the different roles. Note 
 
 When paged, the Incident Managers have the following responsibilities during a Sev1 or Sev2 incident and should be engaged on these tasks immediately when an incident is declared:
 
+1. In the event of an incident which has been triaged and confirmed as a clear Severity 1 impact, notify Infrastructure leadership via PagerDuty [Infrastructure Leadership Escalation](https://gitlab.pagerduty.com/escalation_policies#PO2KR8R) This notification should occur 24/7.
 1. Responsible for posting regular status updates in the `Current Status` section of the incident issue description. These updates should summarize the current customer impact of the incident and actions we are taking to mitigate the incident. This is the most important section of the incident issue, it will be referenced to status page updates, and should provide a summary of the incident and impact that can be understood by the wider community.
 1. Ensure that the incident issue has all of the [required labels](#required-labeling) applied.
 1. If present, ensure that the `Summary for CMOC notice / Exec summary` in the incident description is filled out as soon as possible.
@@ -92,6 +93,8 @@ When paged, the Incident Managers have the following responsibilities during a S
 1. Ensuring that the root cause is stated clearly and plainly in the incident description, linking to a confidential note or issue if the root cause cannot be made public.
 1. Determining when the incident has been resolved and ensuring that it is closed and labeled when there is no more user impact.
 1. If necessary, help the EOC to engage development using the [InfraDev escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html).
+1. If applicable, coordinate the incident response with [business contingency activities](/handbook/business-technology/gitlab-business-continuity-plan/).
+1. If there is a `~review-requested` label on the incident, after the incident is resolved, the Incident Manager is the DRI of the [post-incident review](/handbook/engineering/infrastructure/incident-review/). The DRI role can be delegated.
 1. Following the first significant Severity 1 or 2 incident for a new Incident Manager, schedule a feedback coffee chat with the Engineer On Call, Communications Manager On Call, and (optionally) any other key participants to receive actionable feedback on your engagement as Incident Manager.
 
 The Incident Manager is the DRI for all of the items listed above, but it is expected that the IM will do it with the support of the EOC or others who are involved with the incident. If an incident runs beyond a scheduled shift, the Incident Manager is responsible for handing over to the incoming IM.
@@ -167,39 +170,6 @@ EOCs are responsible for responding to alerts even on the weekends.  Time should
 
 If a `~severity::3` and `~severity::4` occurs multiple times and requires weekend work, the multiple incidents should be combined into a single `severity::2` incident.
 If assistance is needed to determine severity, EOCs and Incident Managers are encouraged to contact [Reliability Leadership via PagerDuty ](https://gitlab.pagerduty.com/schedules#P12EH0Z)
-### Incident Manager Responsibilities
-
-1. When the Incident Manager is engaged on an incident, they are responsible for keeping the `Current Status` section of the incident issue regularly updated.
-1. The SSOT for who is the current Incident Manager is the [GitLab Production - IMOC](https://gitlab.pagerduty.com/service-directory/PE8A5MX) service definition in PagerDuty.
-1. The Incident Manager should engage when requested by the EOC. The IM will not be requested for every incident, typically only S1/S2 incidents. [Incident Manager incident Checklist in runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/incidents/general_incidents.md#imoc-checklist)
-1. When possible, the Incident Manager should [monitor](https://gitlab.slack.com/archives/CB7P5CJS1) ongoing [incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues?scope=all&utf8=%E2%9C%93&state=opened) and engage with the incident if it escalates to a user-impacting incident. In most cases this will happen via the EOC escalating to the Incident Manager.
-1. The Incident Manager should support the EOC by contacting team members from other teams as well as escalating within management when required.
-    1. If the Incident Manager is unable to obtain a response through Slack channels, they should escalate to a manager or director to obtain assistance.
-    1. They assemble a 'bench' during an incident, arranging appropriate reviewers and maintainers ahead of time to stand-by to reduce review coordination time of critical MRs.
-1. They evaluate information provided by team members, provide direction as necessary or when requested, and coordinate to ensure all Team Members necessary to restore service are engaged.
-1. If applicable, coordinate the incident response with [business contingency activities](/handbook/business-technology/gitlab-business-continuity-plan/).
-1. In the event of an incident which has been triaged and confirmed as a clear Severity 1 impact, notify Infrastructure leadership via PagerDuty [Infrastructure Leadership Escalation](https://gitlab.pagerduty.com/escalation_policies#PO2KR8R) This notification should occur 24/7.
-1. The IM should not consider immediate work on an incident completed until the top description section in the Incident Issue (above the "Incident Review" section) is filled out with useful information to describe all the key aspects of the Incident.
-1. After the incident is resolved, the Incident Manager is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review/).
-1. For high severity bugs that affect customers, the Incident Manager is responsible for making sure Incident Reviews are coordinated with other departments in Engineering and go through the complete Incident Review process.
-1. When engaged in an active incident near the end of an Incident Manager shift, the current Incident Manager owns the decision as to whether to continue in their role or to transition the active incident to the incoming Incident Manager. In most cases, this transition should be the expected default behavior.
-1. During a shift where no Incident Manager engaged incidents have occurred, no transition ("handover") is required.
-1. Note that our internal tooling automatically mentions the user of the IM on shift during the creation of all incident issues. This does not mean IMs are expected to engage with those issues. Only when an Incident Manager has been paged or an issue has been handed off to them is there an expecation of engagement with an incident issue.
-
-To engage the Incident Manager: either run `/pd trigger` in Slack, then select the "GitLab
-Production - IMOC" service, or create an incident in [the Pagerduty page for the service](https://gitlab.pagerduty.com/service-directory/PE8A5MX).
-
-#### IM Severity 1 Checklist
-
-During a Severity 1 Incident there is a lot going on. Here is a checklist of the most important things to keep track of:
-
-1. Ensure the description is updated to include the Overall summary and incident duration.
-1. Notify Infrastructure leadership via PagerDuty [Infrastructure Leadership Escalation](https://gitlab.pagerduty.com/escalation_policies#PO2KR8R) This notification should occur 24/7. The Infrastructure Leader responding to this escalation should carry out the responsibilities listed under [Infrastructure Leadership Escalation](/handbook/engineering/infrastructure/incident-management/#infrastructure-leadership-escalation).
-1. Ensure that the root cause is clearly articulated and the appropriate `RootCause::` label is used OR that a clear path of investigation to determine root cause is continuing.
-1. Review that the mitigation steps were reasonable, effective, and don't leave us in a state vulnerable for other problems.
-1. Review that the necessary external communications have been completed (Engage CMOC for this).
-1. Ensure that any Sev1/P1 Corrective Actions have clear ownership and engagement.
-1. Ensure that any ongoing effort or oversight by future IM and EOC shifts is supported with handoff notes and sync handoff (if needed).
 
 #### Infrastructure Leadership Escalation
 
