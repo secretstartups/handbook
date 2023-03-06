@@ -37,7 +37,7 @@ We rely on a combination of [self triage](https://gitlab.com/gitlab-org/quality/
 - `~"type::bug"`: assign a [severity label](#severity).
   - If ~"severity::1" or ~"severity::2": mention the PM/EM from the [group](#group-labels)
 - Assign a [group label](#group-labels).
-  - If there is no suitable group label: assign a [stage ("devops") label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels).
+  - If there is no suitable group label: assign a [stage ("devops") label](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels).
 - Optionally tag relevant [domain experts](https://about.gitlab.com/company/team/structure/#expert).
 
 ## Complete Triage
@@ -46,16 +46,16 @@ An issue is considered completely triaged when all of the following criteria are
 
 - It is partially triaged.
 - It has a milestone set.
-- It has a [priority label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) applied for `~"type::bug"` and `~"UX Debt"`.
+- It has a [priority label](https://docs.gitlab.com/ee/development/labels/index.html#priority-labels) applied for `~"type::bug"` and `~"UX Debt"`.
 
 ## Type Labels
 
-Type labels are defined on the [issue workflow page](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels).
+Type labels are defined on the [labels page](https://docs.gitlab.com/ee/development/labels/index.html#type-labels).
 If you are unsure about the type, you can tag the product or engineering manager for the [group](#group-labels) and ask their opinion.
 
 ## Group labels
 
-Assigning a [group label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels) allows `gitlab-bot` to automatically assign the right stage label.
+Assigning a [group label](https://docs.gitlab.com/ee/development/labels/index.html#group-labels) allows `gitlab-bot` to automatically assign the right stage label.
 The [Features by Group](/handbook/product/categories/features) listing can help find the right group.
 
 ## Priority
@@ -79,7 +79,7 @@ If you need help estimating severity, tag the group's corresponding [Software En
 
 Note: Theses severity definitions apply to issues only. Please see [Severity Levels section](/handbook/engineering/infrastructure/incident-management/#severities) of the [Incident Management page](/handbook/engineering/infrastructure/incident-management/) for details on incident severity.
 
-[Severity labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) help us determine urgency and clearly communicate the impact of a `~"type::bug"` on users. There can be multiple categories of a `~"type::bug"`. Severity is also applicable to non-`type::bug` `~SUS::Impacting` issues.
+[Severity labels](https://docs.gitlab.com/ee/development/labels/index.html#severity-labels) help us determine urgency and clearly communicate the impact of a `~"type::bug"` on users. There can be multiple categories of a `~"type::bug"`. Severity is also applicable to non-`type::bug` `~SUS::Impacting` issues.
 
 The presence of bug category labels `~"bug::availability"`, `~"bug::performance"`, `~"bug::vulnerability"`, and `~UX` denotes to use the severity definition in that category. When a `~"type::bug"` correspond to multiple categories, the severity to apply should be the higher, for example, if an issue has a `~"severity::2"` for `~"bug::availability"` and a `~"severity::1"` for `~"bug::performance"` then the severity assigned to the issue should be `~"severity::1"`.
 
@@ -301,7 +301,7 @@ Follow one of these links:
 Pick an issue, with preference given to the oldest in the list, and evaluate it with a critical eye, bearing the [issue triage practices](#issue-triage-practices) below in mind. Some questions to ask yourself:
 
 - Do you understand what the issue is describing?
-- What labels apply? Particularly consider [type, stage and severity](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) labels.
+- What labels apply? Particularly consider [type, stage and severity](https://docs.gitlab.com/ee/development/labels/index.html) labels.
 - How critical does it seem? Does it need to be escalated to a product or engineering manager, or to the security team?
 - Would the `~"bug::vulnerability"` label be appropriate?
 - Should it be made confidential? It's usually the case for `~"bug::vulnerability"` issues or
@@ -448,7 +448,7 @@ Sort by "Author: your username" and close any issues which you know have been fi
 
 ### Product feedback issues
 
-Some issues may not fall into the [type labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels), but they contain useful feedback on how GitLab features are used.
+Some issues may not fall into the [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels), but they contain useful feedback on how GitLab features are used.
 These issues should be mentioned to the product manager and labeled as `~"Product Feedback"` in addition to the group, category and stage labels.
 <https://gitlab.com/gitlab-org/gitlab/-/issues/324770> is an example of a Product Feedback issue.
 
