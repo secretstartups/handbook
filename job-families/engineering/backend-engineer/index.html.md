@@ -110,9 +110,9 @@ Engineering Managers have the following job-family performance indicators. Perfo
 
 Read more about [levels](/handbook/hiring/vacancies/#definitions) at GitLab here.
 
-### Junior Backend Engineer
+### Associate Backend Engineer
 
-The Junior level in the Engineering Division was deprecated in favor of the [Engineering Internship Program](/handbook/engineering/internships/) and will lead directly into an Intermediate level position upon success.
+The Associate level in the Engineering Division is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Intermediate Backend Engineer
 
