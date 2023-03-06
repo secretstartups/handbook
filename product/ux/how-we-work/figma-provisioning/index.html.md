@@ -33,10 +33,10 @@ Every approved Figma seat must have a corresponding access request issue with bu
 
 As a provisioner, ensure:
 
-* The team member's manager has approved access. Note: This is not necessary for Product Designers within the UX department as they are approved by default.
-* An Editor seat is actually needed for anyone outside of Product Design. Free seats are often enough for team members outside of Product Design. They can still view and comment on design files to collaborate.
-* There is budget approval for all team members outside of the UX department. If there is no mention of budget in the issue, reach out to the team member's manager to understand the budget impact and whether there was budget consideration prior to opening the access request. If needed, reach out to the UX finance partner to understand the budget impact.
-* Approved seats are added to the [Figma seats spreadsheet](https://docs.google.com/spreadsheets/d/1WjjUd3izZYGD8MDgLrJ6rI7x4tCpECLZwm-GEuC5jLE/edit#gid=0).
+- The team member's manager has approved access. Note: This is not necessary for Product Designers within the UX department as they are approved by default.
+- An Editor seat is actually needed for anyone outside of Product Design. A 'Viewer only' role is often enough for a team member outside of Product Design. They can still view and comment on design files to collaborate. [Learn more about roles in Figma](https://help.figma.com/hc/en-us/articles/360039960434).
+- There is budget approval for all team members outside of the UX department. If there is no mention of budget in the issue, reach out to the team member's manager to understand the budget impact and whether there was budget consideration prior to opening the access request. If needed, reach out to the UX finance partner to understand the budget impact.
+- Approved seats are added to the [Figma seats spreadsheet](https://docs.google.com/spreadsheets/d/1WjjUd3izZYGD8MDgLrJ6rI7x4tCpECLZwm-GEuC5jLE/edit#gid=0).
 
 ### Quarterly audits
 
