@@ -26,7 +26,7 @@ This page explains the main choices available to you. Some guidelines:
     * [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups/-/blob/master/README.md) via local (Virtualbox, VMWare, libvirt) VMs
 1. For K8s Helm installations, we recommend using GKE - see the section below.
 1. If you need to replicate specific cloud provider environments (e.g. for a scaled architecture), see the sections on GCP, AWS and Azure below.
-1. Consider joining the [#support-testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) to share your own tips and tricks for testing environments.
+1. Consider joining the [#spt_testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) to share your own tips and tricks for testing environments.
 
 Have fun!
 
@@ -48,10 +48,14 @@ If you no longer require a previously provisioned paid tier test group, please s
 
 ## Testing Environment License
 
-For a test you will need to make an [internal issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) requesting one.
+To request a license for testing, you will need to create an [internal issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request).
 
 Please keep in mind *you can't generate licenses for customers* only for testing
 purposes.
+
+### AWS Marketplace Resources
+
+Note that when using some AWS Marketplace resources, free trials (including GitLab Ultimate) may automatically renew. You should always prefer using test licenses, but ensure that you [cancel any AWS Marketplace subscriptions](https://aws.amazon.com/premiumsupport/knowledge-center/cancel-marketplace-subscription/) if you trial anything for testing purposes.
 
 ## Cloud Testing Environments
 
