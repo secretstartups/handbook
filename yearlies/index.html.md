@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Yearlies"
-description: ""
+description: "Yearlies are the annual goals for the company. Yearlies should have measurable deliverables."
 ---
 
 ## On this page
