@@ -30,13 +30,6 @@ Wondering if you are doing okay with your onboarding? Need some suggestions or g
 </figure>
 <!-- blank line -->
 
-### Michael Balzer
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/UYDI-2lAHQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-<!-- blank line -->
 
 
 ## Team Member Video Process
