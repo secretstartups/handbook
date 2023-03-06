@@ -36,7 +36,6 @@ This working group will organize all the domain experts needed, surface critical
 | Functional Lead: Infrastructure | Stephen Dumesnil | Engineering Manager, US Public Sector Services   |
 | Functional Lead: Compliance    | Corey Oas       | Manager, Security Compliance, Dedicated Markets |
 | Executive Stakeholder          | David DeSanto  | VP, Product                       |
-| Member                         | Jim Riley       | Federal ASM, Public Sector Sales           |
 | Member                         | Chris Maurer    | Public Sector Manager, Customer Success    |
 | Member                         | Vincy Wilson    | Quality Engineering Manager, Fulfillment, Growth, Sec, Enablement |
 | Member                         | Joanna Shih     | Quality Engineering Manager, Ops           |
