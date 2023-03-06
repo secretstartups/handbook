@@ -32,10 +32,12 @@ The Disaster Recovery Working Group will determine the work needed to [improve t
 
 In the context of this working group:
 
-1. **Recovery Point Objective (RPO)**: target duration of time in which data might be lost due to a major incident.
-1. **Recovery Time Objective (RTO)**: target duration of time and service level within which a business process must be restored after a disaster to avoid unacceptable consequences of a break in business continuity.
+1. **Recovery Point Objective (RPO)**: maximum duration of time in which data might be lost due to an incident.
+1. **Recovery Time Objective (RTO)**: maximum duration of time that a service is unavailable due to an incident.
 
-This working group is working towards [the proposed targets for both RPO and RTO](/handbook/engineering/infrastructure/product-management/proposals/disaster-recovery/#proposal).
+### Exit criteria
+
+The exit criteria and target goals for the working group are defined in this internal only document: https://docs.google.com/document/d/1KYHv6c7FSOGzREqzvi8X4vCWkei0fuSPQJxbiw9NMnQ/edit#heading=h.jphyi4qgv8ip
 
 ### Sequence Order Of Deliverables and Exit Criteria
 
@@ -50,21 +52,21 @@ Planned:
 
 | Working Group Role                       | Person                           | Title                                                           |
 |------------------------------------------|----------------------------------|-----------------------------------------------------------------|
-| Executive Stakeholder                    | Steve Loyd                       | VP of Infrastructure                                            |
+| Executive Stakeholder                    | Jörg Heilig                      | CTO                                                             |
 | Facilitator/DRI                          | Gerardo Lopez-Fernandez          | Engineering Fellow, Infrastructure                              |
-| Functional Lead                          | Fabian Zimmer                    | Group Product Manager, Enablement                               |
+| Product Management DRI                   | Joshua Lambert                   | Director of Product Management, Enablement                      |
 | Member                                   | Chun Du                          | Director of Engineering, Enablement                             |
-| Development DRI                          | Juan Silva                       | Fullstack Engineering Manager, Geo                              |
-| Product Management DRI                   | Sampath Ranasinghe               | Senior Product Manager, Geo                                     |
+| Member                                   | Juan Silva                       | Fullstack Engineering Manager, Geo                              |
+| Member                                   | Sampath Ranasinghe               | Senior Product Manager, Geo                                     |
 | Member                                   | John Jarvis                      | Staff SRE, Infrastructure                                       |
 | Member                                   | Michele Bursi                    | Engineering Manager, Delivery                                   |
 | Member                                   | Sami Hiltunen                    | Senior Backend Engineer, Gitaly                                 |
 | Member                                   | Mark Wood                        | Senior Product Manager, Gitaly.                                 |
-| Member                                   | Steve Azzopardi                  | Senior SRE, Infrastructure.                                     |
+| Member                                   | Steve Azzopardi                  | Staff SRE, Infrastructure.                                      |
+| Member                                   | Fabian Zimmer                    | Director of Product Management, SaaS Platforms                  |
 
 ## Related Links
 
 - [Disaster Recovery at GitLab](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)
-- [GitLab.com Disaster Recovery Proposal](/handbook/engineering/infrastructure/product-management/proposals/disaster-recovery/index.html)
-- [Q3 OKR - Improve SaaS Product Disaster Recovery](https://app.ally.io/objectives/2228872?skipQuickView=true)
+- [Q1 OKR - Improve SaaS Disaster Recovery](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/122397485)
 - [DR presentation (internal)](https://docs.google.com/presentation/d/1-8KxO31IvOb7DYT3N0j8Add-3A0FZquIYQ2vjmLLU2s/edit#slide=id.g1319217f3a3_0_0)
