@@ -101,7 +101,7 @@ Going forward, every milestone, we will ask Product Designers and Engineers to v
 | 15.10 (2023-02-18) |                   |                   |
 | [15.11 (2023-03-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/387070) | Annabel Gray | Phil Hughes |
 | 16.0 (2023-04-18)  |                   |                   |
-| 16.1 (2023-05-18)  |                   |                   |
+| [16.1 (2023-05-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/394768)  |  Veethika M   |   Payton Burdette |
 | 16.2 (2023-06-18)  |                   |                   |
 
 <details>
