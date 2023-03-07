@@ -79,19 +79,18 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
-| AC-1 | Policy and Procedures | Addresses the establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the AC family. |
-| AC-2 | Account Management | Identification of authorized system users and the specification of access privileges. |
+| AC-1 | Policy and Procedures | Develop, document, and disseminate an access control policy and procedures that address the controls in the Access Control (AC) family implemented within GitLab Inc. and its associcated in-scope systems. |
+| AC-2 | Account Management | Develop and document processes for defining, authorizing, monitoring, and modifying user access to GitLab's systems. |
 | AC-3 | Access Enforcement | Enforce approved authorizations for logical access to information and system resources in accordance with applicable access control policies. |
-| AC-4 | Information Flow Enforcement | Enforce approved authorizations for controlling the flow of information within the system and between connected systems. |
-| AC-5 | Separation of Duties | Separation of duties addresses the potential for abuse of authorized privileges and helps to reduce the risk of malevolent activity without collusion. |
-| AC-6 | Least Privilege | Employ least privilege for specific duties and information systems allowing only authorized accesses for users (or processes acting on behalf of users) which are necessary to accomplish assigned tasks in accordance with organizational missions and business functions. |
-| AC-7 | Unsuccessful Login Attempts | The need to limit unsuccessful logon attempts and take subsequent action when the maximum number of attempts is exceeded. |
-| AC-11 | Device Lock | Temporary actions taken when users stop work and move away from the immediate vicinity of information systems but do not want to log out because of the temporary nature of their absences. |
-| AC-17 | Remote Access | Access to organizational information systems by users (or processes acting on behalf of users) communicating through external networks (e.g., the Internet). |
-| AC-18 | Wireless Access | Use authentication protocols that provide authenticator protection and mutual authentication. |
-| AC-19 | Access Control for Mobile | Protection and control of mobile devices requires users to take physical action to protect and control such devices when outside of controlled areas. |
-| AC-20 | Use of External Systems | Identify external systems that are used by but not part of organizational systems and for which the organization has no direct control over the implementation of required controls or the assessment of control effectiveness. |
-| AC-21 | Information Sharing | Information that may be restricted in some manner based on some formal or administrative determination. |
+| AC-4 | Information Flow Enforcement | Enforce approved authorizations for controlling the flow of information within and between GitLab's systems. |
+| AC-5 | Separation of Duties | Identify and document defined roles and associated system access authorizations to support separation of duties. |
+| AC-6 | Least Privilege | Employ the principle of least privilege, allowing only authorized accesses for users (or processes acting on behalf of users) that are necessary to accomplish assigned tasks. |
+| AC-7 | Unsuccessful Logon Attempts | Enforce a limit of consecutive invalid logon attempts by a user and respond when the maximum number of unsuccessful attempts is exceeded. |
+| AC-17 | Remote Access | Establish requirements and authorization controls before allowing remote access connections to GitLab's systems. |
+| AC-18 | Wireless Access | Establish requirements and authorization controls before allowing wireless network  connections to GitLab's systems. |
+| AC-19 | Access Control for Mobile Devices | Establish requirements and authorization controls before allowing mobile device connections to GitLab's systems. |
+| AC-21 | Information Sharing | Develop, document, and disseminate information classification and sharing guidance for users. |
+| AC-22 | Publicly Accessible Content | Implement a process to remove nonpublic information and to review and approve content prior to opening such content to the public. |
  
 </details>
 
