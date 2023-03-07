@@ -635,7 +635,7 @@ When you come across leads that fall into this category, it is best to remove th
 
 Lead/contact statuses allow anyone in Salesforce to understand where a lead is at in their journey. The automation mentioned below is all done through an Outreach.io trigger.
 
-* Once a lead has been placed in an Outreach sequence, the lead status will automatically change from MQL, Inquiry, or Raw to Accepted marking that you are actively working on this lead.
+* Once the first step of an Outreach sequence is complete, the lead status will automatically change from MQL, Inquiry, or Raw to Accepted marking that you are actively working on this lead.
 * When a lead responds to you via email, their status will again automatically change. This time it will change from Accepted to Qualifying. You will manage these leads from your S3 and B5 lead views.
     * If you are not working on qualifying this lead further, you will need to manually change the status to Nurture so that this lead is back in Marketing nurture and isn’t stuck in your My Qualifying view. If you have spoken to the lead by phone and are qualifying them, you need to manually change the status to from Accepted to Qualifying
 * When looking at your qualifying view please sequence leads that have no recent last activity + no active tasks + are not actively being sequenced into one of our follow up sequences that have the "Follow up Ruleset Sequences". You can read more about our [rulesets here](/handbook/marketing/marketing-operations/outreach/#rulesets)
