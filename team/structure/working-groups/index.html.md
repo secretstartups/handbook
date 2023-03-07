@@ -9,7 +9,7 @@ canonical_path: "/company/team/structure/working-groups/"
 {:.no_toc}
 
 - TOC
-  {:toc}
+{:toc}
 
 ## What's a Working Group?
 
