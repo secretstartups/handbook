@@ -53,7 +53,6 @@ This list has been pre-approved so if any team-member needs access to these syst
 | BambooHR                         | Human Resource Platform                             | Employee, Manager (if people manager)                                                                    | Read+Write                       |                              
 | CultureAmp                       | Survey Management                                   | User                                                                       | Read+Write                       |
 | EdCast                           | Structured and personal learning experiences        | User                                                                       | Read-Only                        |
-| Expensify                        | Expense Claims and Management                       | User                                                                       | Read+Write                       |
 | GitLab.com                       | GitLab Application for Staff                        | Developer role in gitlab-org and gitlab-com groups                         | Read+Write                       |      
 | Grafana                          | GitLab Dashboard                                    | User                                                                       | Read-Only                        |
 | Greenhouse                       | Recruiting Portal                                   | Basic                                                                      | Read+Write                       |
@@ -63,7 +62,7 @@ This list has been pre-approved so if any team-member needs access to these syst
 | Navex Global                     | LMS Training tool                                   | Employee                                                                   | Read-Only                        |
 | Okta                             | Identity and Single Sign On                         | User                                                                       | Read-Only                        |
 | PTO by Deel            | PTO tool                                            | User                                                                       | Read+Write                       |
-| TripActions                      | Travel booking                                      | Employee                                                                   | Read+Write                       |
+| Navan                      | Travel booking/Expense Claims and Management                                      | User                                                                  | Read+Write                       |
 | Slack                            | GitLab async communications                         | Member                                                                     | Read+Write                       |
 | Sisense (Periscope)              | Data Analysis and Visualisation                     | User                                                                       | Read-Only                        |
 | Will Learning                    | Staff Training and Awareness Portal                 | User                                                                       | Read-Only                        |
