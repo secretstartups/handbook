@@ -68,7 +68,7 @@ The table below lists all exit criteria for the working group. This is the [top-
 | # | Completed Date | Progress | DRI             | Criteria                                                                                                                                        |
 |---|----------------|----------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | TBD            | 10%       | @g.hickman      | [Define the vision of the GitLab API for the future years](https://gitlab.com/groups/gitlab-org/-/epics/8633) |
-| 2 | TBD            | 0%       | @alexkalderimis | [Set the foundation of a cohesive development strategy going forward](https://gitlab.com/groups/gitlab-org/-/epics/8634)                        |
+| 2 | TBD            | 0%       | @m_gill | [Set the foundation of a cohesive development strategy going forward](https://gitlab.com/groups/gitlab-org/-/epics/8634)                        |
 | 3 | TBD            | 0%       |     | [Capture work needed for next generation API](https://gitlab.com/groups/gitlab-org/-/epics/8115)                       |
 | 4 | TBD            | 15%       | @.luke          | [Clarify the lifecycle of the API](https://gitlab.com/groups/gitlab-org/-/epics/7667)                                                           |
 | 5 | TBD            | 15%       | @kpaizee        | [Improve the documentation of the API](https://gitlab.com/groups/gitlab-org/-/epics/8636)                                                    |
@@ -84,7 +84,6 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Facilitator             | @arturoherrero  | [Arturo Herrero](https://about.gitlab.com/company/team/#arturoherrero)   | Engineering Manager, Manage:Integrations                     |
 | Facilitator             | @g.hickman      | [Grant Hickman](https://about.gitlab.com/company/team/#g.hickman)        | Senior Product Manager, Manage:Integrations                  |
 | Functional Lead         | @.luke          | [Luke Duncalfe](https://about.gitlab.com/company/team/#.luke)            | Senior Backend Engineer, Manage:Integrations                 |
-| Functional Lead         | @alexkalderimis | [Alex Kalderimis](https://about.gitlab.com/company/team/#alexkalderimis) | Senior Backend Engineer, Manage:Integrations                 |
 | Functional Lead         | @axil           | [Achilleas Pipinellis](https://about.gitlab.com/company/team/#axil)      | Senior Technical Writer, Enablement                             |
 | Functional Lead         | @Andysoiron     | [Andy Soiron](https://about.gitlab.com/company/team/#Andysoiron)         | Senior Backend Engineer, Manage:Integrations                 |
 | Member                  | @grzesiek       | [Grzegorz Bizon](https://about.gitlab.com/company/team/#grzesiek)        | Principal Engineer, Verify                                      |
