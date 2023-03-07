@@ -58,7 +58,7 @@ Due to limited seats, we will be providing 1-2 seats per team on the calendar. P
 
 **Process to add emails to the calendar:**
 
-[Email issue templates](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#request-issue-templates), in Campaigns, Marketing Ops, Corporate Marketing, and Field Marketing projects, will have the ~email-calendar label on them which will automatically add emails to the calendar. If your issue does not have the ~email-calendar label, please add it to ensure visibility for the calendar. 
+[Email issue templates](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/#issue-templates), in Campaigns, Marketing Ops, Corporate Marketing, and Field Marketing projects, will have the ~email-calendar label on them which will automatically add emails to the calendar. If your issue does not have the ~email-calendar label, please add it to ensure visibility for the calendar. 
 
 Steps to add to the Asana calendar:
 * Ensure the label for "email-calendar" is added to your issue.
