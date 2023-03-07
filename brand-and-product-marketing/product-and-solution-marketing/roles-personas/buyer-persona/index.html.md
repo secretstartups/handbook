@@ -138,7 +138,7 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
 
 
 * **Potential Titles:**
-   * Application Development Executive (VP, etc) / Application Development Director / Application Development Manager / Product Development / Product Management (May also include: Application Developer, Software Developer, Software Engineer)   
+   * Application Development Executive (VP, etc) / Application Development Director / Application Development Manager / Product Development / Application Developer / Software Developer/ Softwware Engineer  
      
 * **Reports to:**
    * Director or VP App Development  
@@ -167,8 +167,9 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
 
 * **Biggest Challenges:**     
    * The need to increase speed of development
-   * Silo’d teams and workflows 
-   * Transition to DevOps is challenging for certain legacy workloads and environments     
+   * Siloed teams and workflows 
+   * Transition to DevOps is challenging for certain legacy workloads and environments  
+   * Context switching between point solutions   
 
 * **Gains Information by:**  
    * Primary: Analyst reports / Conference presos / Tech videos & demos / Webinars / eBooks
@@ -178,7 +179,8 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
   
 * **Purchasing Role:**
 1. Influencer
-1. Initiator / Identifier of Need and Researcher
+1. Likely an Initiator / Identifier of Need and Researcher
+1. Probably a Researcher
 1. Decision-Maker for renewals (but not likely for first order)
 
 ---
@@ -195,13 +197,20 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    * I’m an Influencer and Researcher for tech purchases but I am very often the decision-maker
    * My biggest challenges are dealing with team silos and workflows and the lack of a strong security culture with the risk that entails
 
+* **My Messaging:**
+   * Gitlab offers one of the broadest breadths of security tools in the industry
+   * GitLab helps create a secure DevSecOps framework for the entire organization
+   * By enabling Dev to find some security issues, GitLab enables InfoSec to focus on higher priorities
+   * GitLab helps organizations extract more value from existing security tools
+
 * **Potential Titles:**
    * CISO / Deputy CISO / Director or VP CyberSecurity / Cloud Security Architect / Information Security Operations Manager / IT Security Manager / Sr. Manager, DevSecOps  
        
 * **Reports to:**
-   * CTO, CIO, or SVP Engineering   
+   * CTO, CIO, CISO, or SVP of Engineering   
 
 * **Job Responsibilities:**  
+   * Drive application and product development activities
    * Monitor ongoing operations and actively hunt for and detect adversaries   
    * Build and maintain a security-aware culture   
    * Drive adoption and optimization of cyber tool sets for a streamlined user experience – implement appropriate controls while identifying opportunity for automation across the stack
@@ -211,7 +220,7 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    * Number of Incidents / Time to Respond & Mitigate  
     
 * **Goals & Objectives:**
-   * Create and own the long term security vision and strategy that inspires confidence    
+   * Create and own a confidence-inspiring long-term security vision and strategy    
    * Minimize the impact of cyber events and return the organization to normal status quickly 
 
 * **Motivated by:**
@@ -230,18 +239,22 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    * Lack of security culture prioritization (poor password hygiene leading to credential stuffing)
    * Securing the hybrid workforce with zero-trust
 
-* **Gains Information by:**  
-   * Primary: Analyst reports / Conference presos / Research reports / Technical videos & demos /
-Webinars
-   * Secondary: Blog posts / eBooks / Infographics / Social Media / Video stories from similar
-organizations
+* **Content Sources for Tech Purchasing Decisions:**  
+   * Primary: Analyst reports / Conference presos / Research reports / Technical videos & demos / Webinars
+   * Secondary: Blog posts / eBooks / Video stories from similar organizations / Infographics / Social Media / 
    * Tertiary: Podcasts
    * Internal Influencers: C-Suite / Network Administrator / Directors, VPs and senior engineers & analysts / Evaluators / security management teams / CISO / IT SME / User Testing
   
 * **Purchasing Role:**
 1. Influencer
 1. Researcher
-1. Decision-Maker
+1. Often a Decision-Maker
+
+
+* **Buyer's Journey:**
+   * Awareness:  Tech demo video series, Analyst Reports, Conference Presentations
+   * Consideration:  Blog posts, Customer Video Testimonials, Security infographic
+   * Decision: LinkedIn/Twitter, Reddit, Podcast
 
 ---
 
