@@ -876,8 +876,8 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 | AMER Public Sector | Kira Aubrey & Haley McComber | Chris Novello|
 | APAC | Kate Baker | Dirk de Vos |
 | APAC - Japan | Shu Kawaguchi |  |
-| EMEA Southern Europe | Juliette Francon | Tristan Ouin |
-| EMEA MEA | Juliette Francon | Matthew Coughlan |
+| EMEA Southern Europe | Marcus Hall (Juliette Francon on Mat Leave) | Tristan Ouin |
+| EMEA MEA | Marcus Hall (Juliette Francon on Mat Leave) | Matthew Coughlan |
 | EMEA Northern Europe | Elena Sheveleva | Michal Kulakowski |
 | EMEA UK/I | Neha Pujari | Matthew Coughlan |
 | EMEA Central Europe | Sarina Kraft | Ilaria Pazienza |
