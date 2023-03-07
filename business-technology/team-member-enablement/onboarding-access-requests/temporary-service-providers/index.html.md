@@ -23,7 +23,7 @@ If the vendor requires access to systems to complete work, the vendor manager (i
 
 Please read instructions on how to request access to the following applications (managed by IT):
 
-- **GitLab:** Temporary Service Providers can follow [the instructions on how to get started with GitLab](https://about.gitlab.com/get-started/) to create a GitLab account. Be aware their username should have `-ext` postfix, e.g., .`janedoe-ext`. From there, the manager can include their username information in their access request along with the minimum groups/projects they need to complete job duties.
+- **GitLab:** Temporary Service Providers can follow [the instructions on how to get started with GitLab](https://about.gitlab.com/get-started/) to create a GitLab account. Be aware their username should have `-ext` postfix, e.g., .`janedoe-ext`. From there, the manager can include their username information in their access request along with the minimum groups/projects they need to complete job duties. Contractors who will make contributions to GitLab directly should be added to the `gitlab-org/contractors` group, so that automations related to triage and review can be run against their merge requests.
 - **GSuite/Google Workspace**: Google Workspace access (including a @gitlab.com email address) will not be provided unless there are reasons why Temporary Service Providers would require it. Documents and shared drives within G Suite/Google Workspace can be shared outside of GitLab so a @gitlab.com email address isn't required for that purpose. Situations where we would provide access are:
 
     - Temporary Service Providers are _required_ to send emails from a @gitlab.com email (justification on why it is required needs to be provided)
