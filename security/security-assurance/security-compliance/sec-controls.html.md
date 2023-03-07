@@ -351,17 +351,17 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
-| SA-1 | Policy and Procedures | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. | 
-| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
-| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
-| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
-| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
-| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
-| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
-| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
-| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
-| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
-| SA-1 | Information Security Program Plan | Establishment of system and services acquisition policy and procedures that address the controls in the SA family implemented within systems and organizations. |
+| SA-1 | Policy and Procedures | Develop, document, and disseminate system and services acquisition policy and procedures that address the controls in the Service Acquisition (SA) control family implemented within GitLab Inc. and it's associated in-scope systems and services. | 
+| SA-2 | Allocation of Resources | Allocate required resources to protect information security and privacy requirements related to system and services acquisition and sustainment as part of the business planning and capital planning and investment process. |
+| SA-3 | System Development Life Cycle | Establish a system development life cycle to support the successful development, implementation, and operation of GitLab's systems. |
+| SA-4 | Acquisition Process | Establish an acquisition process covering security and privacy requirements to support system, system component and system service acquisitions and implementations. |
+| SA-8 | Security and Privacy Engineering Principles | Develop and implement systems security and privacy engineering principles in the specification, design, development, implementation, and modification of system and system components. |
+| SA-9 | External System Services | Define required security and privacy requirements for external system services and monitor for ongoing control compliance. |
+| SA-10 | Developer Configuration Management | Establish a change management program for developers of a system, system component, or system service. |
+| SA-11 | Developer Testing and Evaluation | Establish a developer testing and evaluation plan for all post-design stages of the system development life cycle including a plan for flaw identification and remediation. |
+| SA-15 | Development Process, Standards, and Tools | Establish a development process that supports GitLab's change management program and addresses GitLab's security and privacy requirements. |
+| SA-17 | Developer Security and Privacy Architecture and Design | Acquire security and privacy design and architecture documentation for acquired systems and services and validate such documentation supports GitLab's security and privacy requirements. |
+| SA-21 | Developer Screening | Establish and implement access controls and screening criteria for external developers performing work on acquired systems and services. |
  
 </details>
 
