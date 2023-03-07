@@ -10,7 +10,7 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 
 ## Responsibilities
 
-- Partner with our customers in taking that established in the pre-sales command plan, and turning the customers desired positive business outcomes into actionable objectives
+- Partner with our customers in taking what was established in the pre-sales command plan, and turning the customers desired positive business outcomes into actionable objectives
 - Know the GitLab platform, our more common best practices, and use cases in order to guide the customer
 - Understand the customer journey and be able to guide them on future adoption
 - Act as the GitLab liaison for GitLab questions, issues, or escalations.  Work with GitLab Support, Product Management (i.e., roadmaps), or other teams as needed
