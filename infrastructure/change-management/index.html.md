@@ -156,6 +156,9 @@ These are changes that are not expected to cause downtime in Production, but whi
 1. Have the change approved by Infrastructure management at the manager level or above by obtaining the `manager_approved` label on the Change Request issue.
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
 (The source is pagerduty, if you don't have access try [getting assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance))
+   * [APAC EOC Schedule](https://gitlab.pagerduty.com/schedules/PF02RF0)
+   * [EMEA EOC Schedule](https://gitlab.pagerduty.com/schedules/P40KYLY)
+   * [Americas EOC Schedule](https://gitlab.pagerduty.com/schedules/POL1GSQ)
 1. Announce the start of the plan execution in the `#production` Slack channel directly notifying the EOC using the `@sre-oncall` alias and have the change approved by the EOC by obtaining the `eoc_approved` label on the Change Request issue.
 
 ### Criticality 3
