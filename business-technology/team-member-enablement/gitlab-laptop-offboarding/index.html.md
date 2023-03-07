@@ -16,7 +16,7 @@ Any team member leaving Gitlab must review this handbook page thoroughly and in 
 
 **All laptops must be wiped by a member of the IT team on or before your last day of employment. If you perform the laptop wipe yourself, you will be forced to wipe it again, so please refrain from doing that twice, and contact us instead.**
 
-**Please note you must have a laptop wipe appointment scheduled on your last day. If you do not contact Gitlab IT (gitlab-laptop-recovery@gitlab.com or #it-help if you have access to Gitlab’s Slack workspace) on your last day your laptop will be pin code locked 24 hours later. To reverse this, please email gitlab-laptop-recovery@gitlab.com.**
+**Please note you must have a laptop wipe appointment scheduled on your last day. If you do not contact Gitlab IT (gitlab-laptop-recovery@gitlab.com or #it-help if you have access to Gitlab’s Slack workspace) on your last day, your laptop will immediately locked with a pin code. To reverse this, please email gitlab-laptop-recovery@gitlab.com.**
 
 
 ### Before your last day.
@@ -24,11 +24,11 @@ Any team member leaving Gitlab must review this handbook page thoroughly and in 
 
 If you have a Mac, ensure your laptop is enrolled and communicating with [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf). 
 
-If you have a Linux laptop, ensure that it is [enrolled](https://about.gitlab.com/handbook/it/guides/drivestrike/) in DriveStrike.
+If you have a Linux laptop, ensure that it is [enrolled](https://about.gitlab.com/handbook/it/guides/drivestrike/) in DriveStrike and that SentinelOne is [installed](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/#how-do-i-install-the-sentinelone-agent-on-linux). Once installed, contact an IT team member to confirm that both solutions are showing up in their systems of record, and for any additional support. Do not attempt to uninstall, disable or block these services on your own, because it may trigger security alerts and cause unnecessary security inquiries. 
 
 Please schedule a time with an IT Analyst to wipe your laptop, you can find our Laptop Wipe Schedules in this [handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
  
-**Please confirm you have no personal data or files on your laptop before your last day. Once ITOps wipes the laptop any of this information will be permanently deleted.** 
+**Please confirm you have no personal data or files on your laptop before your last day. Once ITOps wipes the laptop any of this information will be permanently deleted. In the case of involuntary or mutual separation, because IT will not be able to determine which files are personal and because we have a responsiblity to keep GitLab secure, no access to your laptop will be provided.** 
  
 ### On your last day.
 
