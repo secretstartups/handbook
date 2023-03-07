@@ -6,7 +6,7 @@ description: "Guidance on how to provision/deprovision Figma"
 
 ## Provisioners/Deprovisioners
 
-Figma provisioners/deprovisioners are found in the [Tech Stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml#L1759).
+Figma provisioners/deprovisioners are found in the [Tech Stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml#L1780).
 
 While multiple departments have team members with [Editor](https://help.figma.com/hc/en-us/articles/360039960434-Roles-in-Figma#editor) roles as paid seats, the UX department is responsible for provisioning and deprovisioning all seats.
 
