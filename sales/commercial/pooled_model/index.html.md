@@ -439,3 +439,7 @@ Q.  Where can I provide feedback on this model/ process?
 
 A.  Please submit all feedback via the #self_service_ae_feedback_loop slack channel
 
+Q.  Is additional enablement material available?
+
+A.  Yes, please see this [slide deck](https://docs.google.com/presentation/d/1ZKQcwKQ-CVYwzB3hTZxdGwZCmbG6pd7bxisV9W3PBw4/edit#slide=id.g1b67626b5ba_0_242), and this enablement [video](https://drive.google.com/file/d/1AARhk-Cb090gM6_fg77lNbf85ccW4kJY/view). 
+
