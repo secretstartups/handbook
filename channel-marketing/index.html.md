@@ -75,8 +75,8 @@ Own the strategy, relationship and ongoing, consistent engagement with the Selec
 In partnership with field sales, drive MQL's to convert to SAO's.  The field marketing managers are responsible for articulating which areas of the business require the most attention and where we need channel partner engagement to drive demand generation plans.
 *   ## GEO Field Marketing Director
 Develops the strategy and conversion targets for the team in partnership with field sales leadership.
-*   ## Global Channel Marketing Director
-Develops scalable demand generation campaigns and tactics for partners to generate Partner Sourced opportunities.
+*   ## Partner Program Managers
+Develops scalable marketing programs to support Partners 
 *   ## Channel Marketing Manager
 Responsible for supporting CAMS in specific geographies, by creating demand generation marketing plans with Focus Partners. In charge of planning MDF activites and improving Partner's participating in various Channel programs.
 
@@ -93,16 +93,21 @@ that details the FMM process where CAMs can read more about how to complete [the
 ## Requesting MDF funds
 * Approved Select Partners will submit [MDF proposals through the Partner Portal](https://partners.gitlab.com/English/Partner/SFDC/MDF2/Request/Create), and GitLab approvers will be notified of the request via email.
     +  The MDF proposal will go through 3 levels of approvals 
-       + Level 1 approval - Channel Account Manager (CAM)
+       + Level 1 approval - Channel Marketing Manager (CMMs)
        + Level 2 approval - Samara Souza, Sr Partner Program Manager
     +  Once the MDF request has been either approved or declined the partner will be notified: 
           + If declined, the Channel Marketing DRI will reach out to the partner and let them know. We will copy the CAM on the notificiation
-          + If approved, the FMM will be the DRI for reaching out to the partner contact in the proposal to review dates of execution and provide any other guidance
-          + If approved, channel marketing manager will [open an epic](/handbook/marketing/channel-marketing/channel-marketing-epics/) and correlating sub-issues defined therein. 
+          + If approved, the MDF Operation's team (Samara or Teri) will [open an epic](/handbook/marketing/channel-marketing/channel-marketing-epics/) and correlating sub-issues defined therein. 
     + Once Epic has been created, channel marketing manager will create the sub-issues listed in the epic. Includes (links are to templates):
               + Campaign Creation (Assign to Verticurl and add in ~verticurl label)
               + List Upload
-              + MDF PoP
+              + MDF POP
+                  + For POP issues add labels:
+                  + <MDF-POP> and use the scoped lables below to work through the approval process:
+                  + <MDF::POP Pending> issues created but POP has not yet been received
+                  + <MDF::POP Approval Needed> once POP is received change this status to have Samara Souza approve the POP documents submitted
+                  + <MDF:: POP Approved> POP has been reveiwed and is approved, list can be uloaded into List upload issue, Zip requistion can be created
+                  + <MDF:: POP Completed> Once all of the steps above are completed, change to this status and close the MDF POP issue
          + Make sure to add issues to the epic!
     + Once all sub-issues are completed, close out the epic.
         
@@ -122,15 +127,16 @@ These activities are captured as `Campaign Type Details` on the campaign level i
     + Click on the MDF activity listed
     + Go to attachements and upload POP and Invoice
 * Once a POP is completed, the Partner Program Manager will create an issue [`channel_mdf_pop`](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new#channel_mdf_pop) and complete Step 1 
-* Once Step 1 is completed, Samara Souza will send Finance the invoice for their review and reimbursement payment to the partner
+   + MDF POP labels need to be created in order to track POP process. Labels as listed above.
+* Once Step 1 is completed, Samara Souza or supporting team member will open a Zip requisition for reimbursement payment to the partner
 
 ## Requesting Swag for Channel Events and Awards
 CAMs can now order swag for approved co-marketing events or other approved awards through Channel Marketing’s partner swag portal.  Please allow 10-15 business days for the approval and processing of your request plus additional shipping time. The event start date cannot be within 3 weeks of the request as items may not arrive in time. Please allow plenty of time for the Swag to be delivered.
 
 **Please note we have a new vendor, and the new portal information will be available shortly. In the meantime please follow the following steps to get your swag ordered**
-1. Reach out to Samara Souza via Slack @samarasouza
+1. Reach out to your Channel Marketing Managers
 2. Have the following information ready: date of the envent, contact information and shipping address
-3. Samara will coordinate with the CAM directly to get the items shipped
+3. CMMs will coordinate with the CAM/Parnter directly to get the items shipped
  
 
 ## Partner-Initiated GitLab Free Trial Lead Gen Program
