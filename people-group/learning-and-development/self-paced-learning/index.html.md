@@ -107,3 +107,16 @@ Due to limited licenses, we ask that team members use one license at a time from
 1. The vendor will return an email with new signup codes. Update the [license usage sheet](https://docs.google.com/spreadsheets/d/1gHwWy7TKAXem24NVCUmq94sICp_yCocDaf_onUZ3BPg/edit#gid=0) with these codes and certification counts.
 1. Restart the `first time license allocation steps`.
 
+## GCP Learning
+
+As a GCP Partner, GitLab has *unlimited* seats to Google Cloud's [Skills Boost Platform for Partners](https://partner.cloudskillsboost.google/catalog). This portal includes a wide array of learning materials related to Google Cloud's offerings, ranging from introductory to advanced.
+
+This is a completely self-paced learning platform with a variety of learning formats, including video content and hands-on labs style engagement.
+
+For those interested in pursuing a certification, exam vouchers are available upon completing certification learning pathways, and commemorative Google swag is issued upon completing and passing a Professional level exam!
+
+### Sign Up
+
+Any current GitLab team member can gain access to the learning platform by filling out [this form](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html). Required information includes your first and last name, your gitlab email address, a phone number, and your location. While it asks you to identify areas of interest, this is optional, and you are not limited to just the area of interest you've indicated.
+
+Once you've submitted the form, you will receive a welcome email from partner-training@google.com within 1-3 business days with instructions for how to access the learning platform. Once you gain access, all the learning content is available to you, and you can engage as much or as little as suits your individual learning goals and level of interest.
