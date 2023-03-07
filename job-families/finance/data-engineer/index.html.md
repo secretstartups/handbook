@@ -5,15 +5,15 @@ title: "Data Engineering"
 
 The Data Engineer job family is focused on an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of strong quality data insights to drive business decisions in all areas of GitLab. The Data Engineer job family is essentially software engineers who have a particular focus on data movement and orchestration.
 
-### Data Engineer (Junior)
+## Data Engineer (Junior)
 
 The Data Engineer (Junior) reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
 
-#### Data Engineer Job Grade
+### Data Engineer Job Grade
 
 The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Data Engineer (Junior) Requirements
+### Data Engineer (Junior) Requirements
 
 * Experience using Python, Java, or Scala for data processing (Python preferred)
 * Knowledge of and experience with data-related Python packages
@@ -26,7 +26,7 @@ The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/c
 * Ship small features independently
 * Ability to use GitLab
 
-#### Data Engineer (Junior) Responsibilities
+### Data Engineer (Junior) Responsibilities
 
 * Maintain our [data platform](/handbook/business-technology/data-team/platform/) with timely and quality data
 * Build and maintain data pipelines from internal databases and SaaS applications
@@ -38,15 +38,15 @@ The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/c
 * Collaborate with other functions to ensure data needs are addressed
 * This position is always [central](/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
 
-### Data Engineer (Intermediate)
+## Data Engineer (Intermediate)
 
 The Data Engineer (Intermediate) reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
 
-#### Data Engineer Job Grade
+### Data Engineer Job Grade
 
 The Data Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Data Engineer (Intermediate) Requirements
+### Data Engineer (Intermediate) Requirements
 
 * 2+ years hands-on experience deploying production quality code
 * Professional experience using Python, Java, or Scala for data processing (Python preferred)
@@ -63,7 +63,7 @@ The Data Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensa
 * Ship small features independently
 * Ability to use GitLab
 
-#### Data Engineer (Intermediate) Responsibilities
+### Data Engineer (Intermediate) Responsibilities
 
 * Maintain our data warehouse with timely and quality data
 * Build and maintain data pipelines from internal databases and SaaS applications
@@ -75,15 +75,15 @@ The Data Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensa
 * Collaborate with other functions to ensure data needs are addressed
 * This position is always [central](/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
 
-### Senior Data Engineer
+## Senior Data Engineer
 
 The Senior Data Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
 
-#### Senior Data Engineer Job Grade
+### Senior Data Engineer Job Grade
 
 The Senior Data Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Data Engineer Responsibilities
+### Senior Data Engineer Responsibilities
 
 * Extends the Data Engineer (Intermediate) responsibilities
 * Understand and implement data engineering best practices
@@ -94,12 +94,12 @@ The Senior Data Engineer is a [grade 7](/handbook/total-rewards/compensation/com
 * Great communication: Regularly achieve consensus amongst teams
 * Perform technical interviews
 
-#### Senior Data Engineer Requirements
+## Senior Data Engineer Requirements
 
 * Extends that of the Data Engineer (Intermediate) requirements
 * Relevant experience for a Senior Data Engineer
 
-## Staff Data Engineer
+### Staff Data Engineer
 
 The Staff Data Engineer role extends the [Senior Data Engineer](#responsibilities) role.
 
@@ -127,11 +127,26 @@ Business Justification: The staff level requires deep technical and functional k
 ### Senior Data Engineer Big Data
 
 #### Requirements
-* All requirements of an Senior Data Engineer
+* All requirements of a Senior Data Engineer
 * Expertise in designing and developing distributed data pipelines using big data technologies on large scale data sets demonstrated with years of proven experience.
 * Has experience with various streaming data concepts, such as Kafka.
 * Can lead full scale Data Lake implementations.
 * Has good understanding of Lambda Architecture.
+
+### Senior Data Security Engineer
+
+#### Responsibilities
+* All responsibilities of a Senior Data Engineer
+* Works together with the GitLab security department to keep our Data Platform secure from an internal- and external perspective
+* Establish policy and data security controls to protect data in our Data Platform
+* Ensures the compliance of policy, processes and procedures
+* Assess security effectiveness of our Data Platform
+
+#### Requirements
+* All requirements of a Senior Data Engineer
+* Self starter on data security initiatives 
+* Has good understanding of data security principles
+* Understanding of data encryption protocols
 
 ## Performance Indicators (PI)
 
