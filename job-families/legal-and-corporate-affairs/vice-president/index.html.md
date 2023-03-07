@@ -1,15 +1,15 @@
 ---
 layout: job_family_page
-title: Vice President
+title: Director of Compliance
 ---
-## VP, Compliance
-The VP, Compliance reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for providing counsel and guidance related to the design, implementation and monitoring of policies and procedures to ensure GitLab’s compliance with applicable laws and regulations. 
+## Director of Compliance
+The Director of Compliance reports to the [Senior Director of Legal, Corporate](https://about.gitlab.com/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal), and is responsible for providing counsel and guidance related to the design, implementation and monitoring of policies and procedures to ensure GitLab’s compliance with applicable laws and regulations. 
 
-### VP, Compliance: Job Grade
+### Director of Compliance: Job Grade
 
-The VP, Compliance is a [Grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of Compliance is a [Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### VP, Compliance: Responsibilities
+### Director of Compliance: Responsibilities
 
 * Architect and manage GitLab’s full suite of global compliance programs including, but not limited to, organizational strategies, policies and practices
 * Advise E-Group and other key stakeholders including the GitLab Board of Directors on compliance matters including procedures and practices regarding anti-bribery and anti-corruption, contracts, confidentiality, conflicts of interest, privacy and security and other matters
@@ -18,9 +18,9 @@ The VP, Compliance is a [Grade 12](/handbook/total-rewards/compensation/compensa
 * Build and retain a global compliance team and ensure appropriate and cooperative allocation of responsibilities
 
 
-### VP, Compliance: Requirements
+### Director of Compliance: Requirements
 
-* 15+ years of compliance experience, including program creation, implementation, and enablement
+* 8+ years of compliance experience, including program creation, implementation, and enablement
 * Effective collaborator who embraces iteration in order to innovate, drive, and scale best-in-class compliance programs and policies, drive strategy with stakeholders from multiple functions, and anticipate evolving risk in a global market
 * Deep knowledge and proven track record of success with ranging compliance matters
 * Outstanding cross-functional partnership skills, with a confirmed ability to identify, initiate and lead efforts with both internal and external teams
@@ -34,7 +34,7 @@ The VP, Compliance is a [Grade 12](/handbook/total-rewards/compensation/compensa
 
 
 ## Performance Indicators
-* Performance indicators will be set by the incoming VP of Legal, Compliance, upon joining GitLab. 
+* Performance indicators will be set by the incoming Director of Compliance, upon joining GitLab. 
 
 ## Career Ladder
 
@@ -44,6 +44,7 @@ The next step in the VP of Legal job family is not yet defined
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters
+* Next, candidates will be invited to schedule an interview with the hiring manager
 * Next, candidates will be invited to schedule an interview with our Chief Legal Officer
 * Then selected candidates will be invited to schedule with additional team members of the legal and corporate affairs department
 * Next, candidates will be invited to schedule interviews with directors and/or executives in relevant functional areas
