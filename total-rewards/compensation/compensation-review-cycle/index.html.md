@@ -123,6 +123,14 @@ Performance and growth potential factors are assessed as part of the [Talent Ass
 
 ### Performance Factor
 
+The Performance Factor is the core input for two key pieces of our Total Rewards:
+1. Cash
+2. Equity
+
+Cash and equity are two levers available to managers to determine an appropriate Total Compensation for team members. Note that equity planning will be conducted separately from cash compensation planning for FY24. To ensure a connection between talent assessments and compensation outcomes, Directors and above team members will be provided with talent assessment results during planning. More information on the [Equity Refresh Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#equity-refresh-review-cycle) can be found below.
+
+#### Cash 
+
 Recommendations from Total Rewards for discretionary cash compensation increases based on performance factor:
 * Developing in role = 0-2% increase
 * Performing in role = up to 4% increase
@@ -153,9 +161,9 @@ Performance increases are not capped at 8%. If a manager would like to suggest a
 
 If a manager has a team member on their team who is red circled (paid over the top end of the compensation range), in order for the person to receive an increase, the manager will need to submit a compensation exception request with their People Business Partner to Total Rewards which will then be reviewed and approved by the Compensation Group. The Total Rewards team will notify the People Business Partners of the team members red-circled once the new ranges are set for proactive review.
 
-### Growth Potential Factor 
+#### Equity
 
-While Performance Factors are used as the primary calibration tool for cash compensation increases and refresh equity grants, reinforcing GitLab’s pay for performance Compensation Philosophy, managers are encouraged to use the Growth Potential Factor (developing - growing - exceeding) as an additional input to calibrate on the equity refresh. The refresh is a long term incentive which can reinforce the long term growth potential of the team member.
+Performance Factors are also used the primary calibration tool for refresh equity grants, reinforcing GitLab’s pay for performance Compensation Philosophy. Managers are also encouraged to use the ***Growth Potential Factor*** (developing - growing - exceeding) as an additional input to calibrate on the equity refresh. The refresh is a long term incentive which can reinforce the long term growth potential of the team member.
 
 In calibrating the equity refresh, we recommend managers to take the following into account:
 * Performance Factor
@@ -163,7 +171,6 @@ In calibrating the equity refresh, we recommend managers to take the following i
 * Unvested Equity Holdings
 * Value Vesting the next fiscal year 
 
-Cash and equity are two levers available to managers to determine an appropriate Total Compensation for team members. Note that equity planning will be conducted separately from cash compensation planning for FY24. To ensure a connection between talent assessments and compensation outcomes, Directors and above team members will be provided with talent assessment results during planning. More information on the [Equity Refresh Cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#equity-refresh-review-cycle) can be found below.
 
 ### Key Talent 
 
