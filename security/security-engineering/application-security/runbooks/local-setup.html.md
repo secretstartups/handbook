@@ -41,4 +41,4 @@ When testing requires using multiple users, an Incognito / Private tab is an eas
 
 Some bugs require connecting to a service. An example is using `ngrok` to stub a fake GitLab server in ["CVE-2022-0244: Arbitrary file read via the bulk imports UploadsPipeline"](https://gitlab.com/gitlab-org/gitlab/-/issues/349524#steps-to-reproduce).
 
-Making your local machine accessible from the internet is [not permitted](/handbook/security/#other-servicesdevices), which precludes tools like `ngrok` or `localtunnel`. Use GitLab's [Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/) to host mock servers instead.
+Making your local machine accessible from the internet is [not permitted](/handbook/security/#other-servicesdevices), which precludes tools like `ngrok` or `localtunnel`. Use GitLab's [Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/) to host mock servers instead. Refer to [Secure Cloud testing environments](/handbook/support/workflows/test_env.html.md#securing-cloud-testing-environments) for advice on how to secure your Sandbox Cloud test environments.
