@@ -58,11 +58,16 @@ When vulnerabilities are manually discovered during open-scope work, an issue wi
 
 We want to measure the things that matter. We are currently tracking the recommendations we provide across the organization and breaking them into the following three categories:
 
-- Detections & Alerts
-- Security Controls
-- Processes and Procedures
+- Detections & Alerts (using the label `RTRec::Detection`)
+- Security Controls (using the label `RTRec::Control`)
+- Processes and Procedures (using the label `RTRec::Process`)
 
 This is done by opening individual issues for each recommendation generated during an operation or open-scope activity and tagging those issues with specific labels. We can then look back and see the time and effort put into each category and how the recommendations were received and acted upon.
+
+The following issue boards provide a consolidated view of these recommendations. Most issues will be confidential and visible only to GitLab team members:
+
+- [Red Team Recommendations: gitlab-org](https://gitlab.com/groups/gitlab-org/-/boards/5351140)
+- [Red Team Recommendations: gitlab-com](https://gitlab.com/groups/gitlab-com/-/boards/5350979)
 
 We will not measure our team's performance based on simply counting the number of recommendations over a specific time period. Instead, we will try to understand how the recommendations ultimately impact the organization and what we can do to become a more effective Red Team.
 
