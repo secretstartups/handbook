@@ -22,9 +22,10 @@ The annual StORM assessment is conducted on a predefined schedule from year to y
 
 |Timing|Activities|
 |-----|-----|
-|February|Risk Appetite Survey is sent out to Senior Leadership to establish GitLab's Annual Risk Appetite|
-|March - April|Annual StORM interviews are kicked off for risk identification. Interviews with team members operating in a Manager capacity or higher (e.g. Staff, Principal, Distinguished, etc.) across the organization will be conducted. Once these interviews are completed, risks will be reviewed with the Security Risk Manager and Director of Security Assurance for approval/agreement of risks identified. Once these approvals are obtained, risk ownership meetings will be held with identified risk owners.|
-|May|The [annual StORM reports](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html) are prepared, reviewed, and approved|
+|March|Risk Appetite Survey is sent out to Senior Leadership to establish GitLab's Annual Risk Appetite|
+|April-May|Annual StORM information gathering is kicked off for risk identification. Once completed, newly identified risks will be documented and quality reviewed. |
+|May-June|The [annual StORM reports](/handbook/security/security-assurance/security-risk/storm-program/#step-5-annual-storm-reports) are prepared, reviewed, and approved.|
+|June-July|Risk treatment plans are developed for risks identified during the ARA and a retrospective is held to capture improvement opportunities for StORM.|
 
 ## Risk Appetite and Tolerance Scoring
 
