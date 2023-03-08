@@ -174,10 +174,11 @@ Customer highlights is a high-level overview of the customer and other contextua
 
 It can also be valuable to capture significant past outcomes in this section, for example:
 
-  #### Achievements
-    - *20xx-xx-xx - Customer migrated 100 projects from legacy SCM tool*
-    - *20xx-xx-xx - Customer upgraded to Ultimate in pursuit of increased governance and compliance*
-    - *20xx-xx-xx - CSM conducted a workshop with ### attendees which qualified an opportunity for xyz*
+#### Achievements
+
+  - *20xx-xx-xx - Customer migrated 100 projects from legacy SCM tool*
+  - *20xx-xx-xx - Customer upgraded to Ultimate in pursuit of increased governance and compliance*
+  - *20xx-xx-xx - CSM conducted a workshop with ### attendees which qualified an opportunity for xyz*
 
 Reviewing the highlights, the reader should be able to quickly understand the customer's business, why they originally bought GitLab/upgraded to Ultimate and any _significant_ achievements to date
 
@@ -192,12 +193,12 @@ Objectives should capture:
   1. Timeframe (in the CTA or associated task's due dates)
   1. Success criteria outlining the customer's desired state (with measures of both current state & desired state). It's ok if a customer doesn't know, and finding a baseline measure becomes a task within the objective. Start by asking.
 
-  #### Example:
+#### Example 1:
   ![Example Success Plan Objective](/handbook/customer-success/csm/success-plans/success_plan_objective.png "Example Success Plan Objective")
 
 Within a success plan objective (or "CTA"), tasks can be used to further decompose the plan, assign customer DRIs and provide more timeline detail.
 
-  #### Example:
+#### Example 2:
   ![Example Success Plan Task](/handbook/customer-success/csm/success-plans/success_plan_cta_task_example.png "Example Success Plan Task")
 
 With these three elements, you can develop an objective that allows you to measure and report on progress towards outcomes throughout your book in a scalable way.
