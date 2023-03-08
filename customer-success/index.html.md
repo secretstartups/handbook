@@ -84,6 +84,10 @@ See the [Terrain Mapping Engagements Page](/handbook/customer-success/customer-t
 - [Customer Success Manager handbook](/handbook/customer-success/csm/)
 - [Commercial CSM handbook](/handbook/customer-success/comm-sales/#customer-success-managers)
 
+### Renewals Managers
+- [Renewals Managers handbook](https://about.gitlab.com/handbook/customer-success/renewals-managers/home)
+
+
 ### Demo Systems
 
 - [Demo Systems documentation](/handbook/customer-success/demo-systems/)

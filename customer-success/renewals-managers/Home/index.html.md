@@ -1,0 +1,92 @@
+---
+layout: handbook-page-toc
+title: Renewals Managers 
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+Global Renewals Organization
+---
+
+View the Renewals Manager handbook pages [How We Do It](https://about.gitlab.com/handbook/customer-success/renewals-managers/How) or [What we do](https://about.gitlab.com/handbook/customer-success/renewals-managers/What) for additional content on how renewals managers execute their tasks. 
+
+Renewals Managers --> visit the internal handbook [page](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/) for more information.
+
+---
+The Global Renewals Organization is part of the [GitLab Customer Success](https://about.gitlab.com/handbook/customer-success/) function. We partner with Customer Success, field sales, our ecosystem of partners, support and marketing organizations to deliver maximum value to GitLab customers throughout their subscription lifecycle.
+
+The Global Renewals Organization is made up of *renewals managers*. A renewals manager looks after a customers entire existing book of renewable business and manages those renewal opportuntities in Salesforce from inception (day one after a new sale) to renewal booking. A renewals manager is aligned to a territory, and supports customers within that territory by working in coordination with an account team (typically made up of a Customer Success Manager/Engineer and Account Executive).
+
+The Global Renewals Organization is divided into four geographic areas of coverage:
+
+- **APAC**: Slack channel --> [#apac-renewals-mgr] (private, internal only) 
+- **EMEA**: Slack channel --> [#emea-renewals-mgr] (private, internal only)
+- **Public Sector (USA only)**: Slack channel --> [#pubsec-renewals-mgr] (private, internal only)
+- **Americas**: Slack channel --> [#amer-renewals-mgr] (private, internal only)
+
+Other ways to reach members of the Global Renewals Organization include: 
+
+- Global renewals manager slack channel --> [#global-renewals-managers] (public, world-wide team channel used for best practices, questions, updates)
+- Global renewals leadership slack channel: [#global-renewals-leadership] (private, managers wide channel used for updates, questions, best practices)
+
+
+## Mission Statement
+
+To maintain the highest renewal rate in the DevSecOps industry. 
+
+
+## Vision 
+
+To be the defining subscription renewals organization among peers in the SaaS industry. 
+
+
+## Values
+
+- ### Customer first
+  The renewals team exists to service the needs of our customers. We prioritize what's best for the customer before what's best for GitLab. 
+- ### Collaboration always
+   As much as possible, we emphasize team goals over individual achievement. 
+
+- ### Continous improvement
+   The renewals organization is dedicated to developing a community of renewals **scientists** that seek to identify process waste and poor customer experience and develop practices for improvement. 
+
+## Strategy
+
+Our strategy defines how we win in the market we have chosen to compete. It is not timebound; simply a series of declartive statements about the competitive advantages we seek and the systems that will deliver those advantages. 
+
+### Market
+
+ Enterprise and Growth sales segments
+
+### How we win
+
+1. More impactful customer engagement via a thoughtfully architected and executed subscription lifecycle
+2. More efficient and effective renewal operations
+3. A better customer renewal experience driven by a culture of small, incremental continuous improvement
+4. An empowering team culture
+
+### Capabilities and managmeent systems necessary
+
+*Capabilities*
+
+- Renewals enabling SFDC configuration
+- Renewal outreach automation and tracking
+- Risk tagging and forecasting integration 
+- Risk mitigation system
+- Late renewal identification
+- Trustworthy SFDC KPIs
+
+*Systems* 
+- Management dashboards
+- Temp key tracking
+- Churn budgeting and forecasting
+- Balanced renewals scorecard
+- Risk identification / mitigation process
+- Renewal forecasting
+- Real time renewals performance tracking
+
+
