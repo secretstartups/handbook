@@ -188,9 +188,8 @@ When creating an individual/bulk access request, use the following information:
 
 As you work through the queue and on issues, if you spot something in the
 [Fulfillment backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Afulfillment)
-that would makes things better for customers and Support, please don’t forget to
-label it with `Support Priority` - this helps the product team in prioritizing
-for the next milestone.
+that would makes things better for customers and Support, please label it with
+`Support Interest::Categorize`. See [Support's issue list for Fulfillment](./workflows/managing_product_issues.html.md/#supports-issue-list-for-fulfillment) for more information.
 
 ##### Fulfillment stage
 {:.no_toc}
