@@ -55,23 +55,5 @@ If you think this is something you would be interested in learning about, maybe 
 
 **Team Manager:** Charl de Wit @cjdewit
 
-## Red Team
-GitLab's internal red team extends the objectives of penetration testing by examining the security posture of the organization and their ability to implement effective cyber defenses. Penetration testing is a specialized type of assessment conducted on information systems or individual system components to identify vulnerabilities that could be exploited by adversaries. Such testing can be used to either validate vulnerabilities or determine the degree of resistance organizational information systems have to adversaries within a set of specified constraints (e.g., time, resources, and/or skills).
-
-Red team exercises provide more comprehensive assessments that reflect real-world conditions over penetration testing. The exercises can further be used to improve security awareness and training and to assess levels of security control effectiveness. GitLab utilizes NIST 800-53 Revision 4 security control CA-8 to define the Red Team and their mission. The control can be found on [NIST.gov](https://nvd.nist.gov/800-53/Rev4/control/CA-8).
-
-The Red Team operates under a predefined set of [rules of engagement](/handbook/security/threat-management/red-team/red-team-roe.html). The rules of engagement exist to inform GitLab's team members on how the team operates during engagements. It provides guidelines for determining scope, the ethics we employ during our engagements, how we collaborate as a security team, and how we escalate vulnerabilities and exploits we discover during those engagements
-
-**Schedule / Topics Covered:**
-- RED101.1: GitLab’s Red Team Approach / Past exercise overview
-- RED101.2: Red Team Threat Modeling
-- RED101.3: Secret Scanning
-- RED101.4: Hands On Red Team Exercise
-
-**Course Length:**
-4 days, 8 hours
-
-**Team Manager:** Steve Manzuik @smanzuik
-
 ## Enrollment
 Ready to enroll? [Click here](/handbook/security/security-shadow.html) for more information.
