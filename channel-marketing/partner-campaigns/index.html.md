@@ -25,15 +25,17 @@ Keep in mind, they will still be eligible for `operational` email sends - which 
 Leads that are actively being worked by the partner will be excluded from scoring. Once they are no longer being worked by the partner, they will be scored again. More details on the [scoring page](/handbook/marketing/marketing-operations/marketo/#scoring-model). 
 
 ## Passing to Vartopia and Partner Visibility
-In order for the Partner to be able to see and action the lead in Vartopia, the SFDC fields must be populated: `Vartopia Partner Account`, `Prospect Share Status` and `Partner Prospect Status`.
+In order for the Partner to be able to see and action the lead in Vartopia, the SFDC fields must be populated: `Vartopia Partner Account`, `Prospect Share Status` and `Partner Prospect Status`. Learn more about [Vartopia](/handbook/marketing/marketing-operations/vartopia/). 
 
-To see more about Vartopia, visit the [handbook page](/handbook/marketing/marketing-operations/vartopia/). 
+### Partner Recall
+
+We intend to launch the first phase of the recall process for partner leads in the “Prospects” module in the GitLab Partner Portal on **April 18, 2023**. The recall process is built to be able to pull back leads that are not being actioned. [See the full overview.](/handbook/marketing/marketing-operations/vartopia/#partner-recall)
 
 ## Types of Partner Campaigns
 Each campaign has it's own ROE for lead routing and email practices. Follow the [Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1637023136930/1fd8a497f2500ef8d7f12920d71595d0c412fa91?sender=awaller1257) to find the type of event and the follow up that results from it.
 
-## Issue first - Partner Pilot
-In an attempt to extend our GitLab [CREDIT](/handbook/values/#credit) values to our partner ecosystem, the EMEA teams have decided to run a pilot with partners where the partner will be invited to collaborate in GitLab issues for joint event execution. More info can be found in the [Partner Pilot Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/7263)
+### Issue first - Partner Pilot
+In an attempt to extend our GitLab [CREDIT](/handbook/values/#credit) values to our partner ecosystem, the EMEA teams have decided to run a pilot with partners where the partner will be invited to collaborate in GitLab issues for joint event execution. More info can be found in the [Partner Pilot Issue.](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/7263)
 
 ### Partner Only Campaigns - MDF funded
 These campaigns are GitLab funded via MDF, but all leads are passed to the partner. We upload these lists into our systems to be able to track pipeline from resulting Deal Registrations in Vartopia. You can find Marketo and SFDC Campaign set up [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
