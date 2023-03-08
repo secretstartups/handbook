@@ -203,8 +203,8 @@ Unpaid carer’s leave can be taken:
 
 <summary>Family and Domestic Violence Leave</summary>
 
-* All team members are entitled to 5 days of unpaid family and domestic violence leave each year. This leave will run concurrently with GitLab PTO. Team members should notify the Absence Management team (leaves@gitlab.com) if they need to make use of this leave.
-* For more information on Family and Domestic Violence Leave, please visit the Fair Work Ombudsman Website.
+*From February 1, 2023 all team members, including part-time and casual employees, are entitled to 10 days of paid family and domestic violence leave each year. This leave will run concurrently with GitLab PTO. Team members should notify the Absence Management team (leaves@gitlab.com) if they need to make use of this leave.
+* For more information on Family and Domestic Violence Leave, please visit the [Fair Work Ombudsman Website](https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave).
 * Resources: 
   * [1800RESPECT](https://www.1800respect.org.au/)
   * [Safe Steps](https://www.safesteps.org.au/)
