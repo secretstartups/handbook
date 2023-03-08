@@ -100,6 +100,12 @@ For a detailed explanation of the Quote to Cash process, visit the [Channel Oper
 
 Post-sales support, license resends, email changes, and other subscription assistance is the [responsibility of the partner named on the opportunity](https://about.gitlab.com/handbook/resellers/partner-support/#customer-support-subscription-changes-and-email-updates).
 
+## Creating a Partner Billing Account for a New Partner Entity
+We do not create entire new accounts for separate partner entities with the same parent company name in SFDC. Instead, you should:
+1. Create a new contact under the partner account with the billing address and email address you receive from the partner for the new billing entity. Save the contact.
+2. Chatter @Billing Ops from the Partner Account. Copy the link to the newly created contact from the first step and paste it into your chatter request and ask that a new Billing Account be created using the linked contact.
+   - Billing Ops will create a billing account and after about 2 hours, it will be usable for quoting.
+ 3. Sales Reps can then select that billing account as the Invoice Owner and use the contact you created as the Invoice Owner Contact in their quotes.
 
 ## Partner Insights
 The Partner Help Desk team provides ["Partner Insights"](https://docs.google.com/presentation/d/17O9HGNvKxgUpLG3ySA0LQxutsYJjewSNYzaA1q6JrGA/edit#slide=id.g177fa90e31f_0_190) slide decks to Channel Managers for help with preparing for QBRs and other partner executive meetings. These insights are intended to help Channel Managers have productive conversations with partners to identify what is going well so it can be replicated, as well as address opportunities for improvement to develop stronger and more valuable partnerships. 
