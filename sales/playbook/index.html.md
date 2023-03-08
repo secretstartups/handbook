@@ -15,7 +15,7 @@ description: "The Enterprise Sales department at GitLab focuses on delivering ma
 ## Overview
 Welcome to the Enterprise Sales handbook page!
 
-The Enterprise Sales department is part of [GitLab Sales](https://about.gitlab.com/handbook/sales/#welcome-to-the-sales-team-homepage) and includes both Large and Public Sector sales teams. The sales field in Enterprise is made up of [Strategic Account Leaders (SALs)](https://about.gitlab.com/job-families/sales/strategic-account-leader/) who collaborate closely with their [deal team](https://about.gitlab.com/handbook/sales/#customer-success) (Inside Sales, Customer Success, Sales Development, Channel & Alliances and more) and work across functions to deliver maximum value to strategic and large prospects and customers throughout their entire journey with GitLab. When thinking about 'what good looks like' in this department, refer to your [job family](https://about.gitlab.com/job-families), the [field competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/), and our [GitLab values](https://about.gitlab.com/handbook/values/).
+The Enterprise Sales department is part of [GitLab Sales](https://about.gitlab.com/handbook/sales/#welcome-to-the-sales-team-homepage) and includes both Large and Public Sector sales teams. The sales field in Enterprise is made up of [Major and Strategic Account Executives (MAEs and SAEs)](https://about.gitlab.com/job-families/sales/strategic-account-leader/) who collaborate closely with their [deal team](https://about.gitlab.com/handbook/sales/#customer-success) (Inside Sales, Customer Success, Sales Development, Channel & Alliances and more) and work across functions to deliver maximum value to strategic and large prospects and customers throughout their entire journey with GitLab. When thinking about 'what good looks like' in this department, refer to your [job family](https://about.gitlab.com/job-families), the [field competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/), and our [GitLab values](https://about.gitlab.com/handbook/values/).
 
 Besides this page, there are a few bookmarks you’ll want to set that will be your main sources of truth during your everyday work. These are:
 
@@ -36,8 +36,7 @@ As the account lead, your role centers on successfully orchestrating all of the 
 
 [View the Enterprise Seller playbook](https://docs.google.com/presentation/d/1DSaVx25EmzGN9vbjsE1llXRl7hnNzHWYxOH8eBORIF4/edit#slide=id.g116c2ce1845_0_0) for guidance on what types of meetings to host with your deal team and extended team, as well as how their roles and responsibilities might intersect with yours.
 
-<details>
-<summary> At a glance: How to collaborate with extended deal team members</summary>
+##### At a glance: How to collaborate with extended deal team members
 
 |Extended deal team members | How you collaborate |
 |---------------------------|---------------------|
@@ -51,7 +50,6 @@ As the account lead, your role centers on successfully orchestrating all of the 
 |[Strategic Field Organization](https://about.gitlab.com/handbook/customer-success/solutions-architects/strategic-field-org/)| Or the strategic field team for large engagements that require a high degree of strategic planning - such as DevSecOps transformation, solution recommendations, and advisory for our customer's senior technical leadership in high-value, strategic deals ($400k+).|
 | Compete:| You may also bring in the compete team to help with intelligence or positioning. Use the #competition channel on Slack to collaborate and view important resources in their bookmarks.  |
 | [Customer Advocacy team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/sales-support/):| You may want to construct a deal where the customer agrees to be reference or to logo usage, or perhaps you've delivered incredible value and they are ready to be a case study. |
-</details>
 
 
 ## Sales planning
