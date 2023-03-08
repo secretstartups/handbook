@@ -159,6 +159,8 @@ If a partner is working with a customer and they need help with a technical issu
 
 To update an email address on a customer’s subscription, as well as request a license resend, the partner must submit a support request as mentioned above. Any subscription changes, even in addition to support requests, need to be done through the ticket submission process. 
 
+Channel Managers or Sales can escalate a partner or customers request to a Support Manager after they partner or customer has submitted a ticket by following the Support team's [STAR process](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html#submitting-a-support-ticket-attention-request-star--starring-a-ticket).
+
 More information can be found in the [Partner Guide](https://partners.gitlab.com/prm/English/s/assets?id=404715).
 
 ## Creating a Partner Portal Login
