@@ -52,6 +52,7 @@ Team members are reimbursed on different schedules depending on their location. 
    - If an itemized bill is not available , costs will only be reimbursed for the element relating to Internet Access , i.e. if you pay for tv, internet & phone - the invoice should be divided by 3 /# of services and we will pay this value only.
 * Anything submitted outside of these guidelines will be flagged as Out of Policy.
 * All work-related expenses (internet, co-working space, other monthly subscription, etc.) are not reimbursable while on Leave of any kind.
+* As with any third-party, it is best practice to limit the amount of personal data shared. The inclusion of [personal data](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-definitions) on your receipts is not required to submit an expense, so feel free to redact personal data for increased [privacy](https://about.gitlab.com/handbook/legal/privacy/#what-data-privacy-means).  However, this is not a required step. For those that choose not to redact personal data from your expense receipts, the privacy and security controls in place at Navan [were evaluated](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) and they are designed to adequately protect your information.
 
 ### Out of Policy Transactions
 
