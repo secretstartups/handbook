@@ -3,15 +3,15 @@ layout: job_family_page
 title: "Product Marketing Management"
 ---
 
-### Manager, Product Marketing
+### Senior Manager, Product Marketing
 
-The Manager, Product Marketing reports to the Director of Product Marketing.
+The Senior Manager, Product Marketing reports to the Director of Product Marketing.
 
-#### Manager, Product Marketing Job Grade 
+#### Senior Manager, Product Marketing Job Grade 
 
-The Manager, Product Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Product Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, Product Marketing Responsibilities
+#### Senior Manager, Product Marketing Responsibilities
 
 * Recruit, coach and manage product marketing managers that live our values
 * Set organization direction, staff for scale and develop the skills and career paths of all team members
@@ -22,7 +22,7 @@ The Manager, Product Marketing is a [grade 9](/handbook/total-rewards/compensati
 * Partner and work closely with Technical Product Marketing, Product Management, Sales, Engineering, Customer Success, and other Marketing functions.
 * Make sure the success metrics such as quarterly OKRs are identified, met, and communicated across key stakeholders.
 
-#### Manager, Product Marketing Requirements
+#### Senior Manager, Product Marketing Requirements
 
 * 8-10 years of product marketing experience.
 * Experience with DevOps and/or developer tooling
@@ -101,46 +101,13 @@ The Senior Director, Product & Solutions Marketing is a [grade 11](/handbook/tot
 * Ability to use GitLab
 
 
-### Manager, Technical Marketing
-
-The Manager, Technical Marketing Director of Product Marketing.  
-
-#### Manager, Technical Marketing Job Grade 
-
-The Manager, Technical Marketing is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Manager, Technical Marketing Responsibilities
-
-* Recruit, coach and manage technical product marketing managers that live our [values](/handbook/values/)
-* Set organization direction, staff for scale and develop the skills and career paths of all team members
-* Ensure all our technical product marketing managers are very effective.
-* Promote  and identify underperformance proactively.
-* Own the quality, effectiveness and performance of the product marketing team results.
-* Measure and improve the happiness and productivity of the team.
-* Partner and work closely with Product Marketing, Product Management, Sales, Engineering, Customer Success, and other Marketing functions.
-* Make sure the success metrics such as quarterly OKRs are identified, met, and communicated across key stakeholders.
-
-#### Manager, Technical Marketing Requirements
-
-* 5+ years of technical product marketing experience.
-* Experience with DevOps and/or developer tooling
-* Team player with strong intra-personal skills, skilled at project management and cross-functional collaboration.
-* 5+ years experience in hiring, scaling, managing and leading a team.
-* Understand the difference between managing and leading a team.
-* Experience managing external vendors and agencies.
-* Enterprise software company experience.
-* Passionate about open source and developer tools.
-* Strong communication skills.
-* You share our [values](/handbook/values/), and work in accordance with those values.
-* Ability to use GitLab
-
 ###  Manager, Partner and Channel Marketing
 
 This Manager, Partner and Channel Marketing reports to the Director of Product Marketing.
 
 #### Manager, Partner and Channel Marketing Job Grade 
 
-The Manager, Partner and Channel Marketing is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Partner and Channel Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Partner and Channel Marketing Responsibilities
 
@@ -167,102 +134,6 @@ The Manager, Partner and Channel Marketing is a [grade 9.5](/handbook/total-rewa
 * Strong communication skills.
 * You share our [values](/handbook/values/), and work in accordance with those values.
 * Ability to use GitLab
-
-### Manager, Competitive Intelligence
-
-The Manager, Competitive Intelligence reports to the Director of Product Marketing.
-
-#### Manager, Competitive Intelligence Responsibilities
-
-* Recruit, coach and manage a competitive intelligence team that lives our values.
-* Set organization direction, staff for scale and develop the skills and career paths of all team members.
-* Ensure all our competitive intelligence managers are effective and deliver results.
-* Own the quality, effectiveness and performance of the competitive intelligence team results.
-* Measure and improve the happiness and productivity of the team.
-* Promote  and identify underperformance proactively.
-* Partner and work closely with the Product Marketing, Technical Marketing, Product Management, Sales, Engineering, Customer Success, and other Marketing functions.
-* Make sure the success metrics such as quarterly OKRs are identified, met, and communicated across key stakeholders.
-
-#### Manager, Competitive Intelligence Requirements
-
-* 8-10 years of product marketing, technical marketing or competitive intelligence experience.
-* Experience with DevOps and/or developer tooling.
-* Team player with strong intra-personal skills, skilled at project management and cross-functional collaboration.
-* 5+ years experience in hiring, scaling, managing and leading a team.
-* Understand the difference between managing and leading a team.
-* Experience managing external vendors and agencies.
-* Enterprise software company experience.
-* Passionate about open source and developer tools.
-* Strong communication skills.
-* You share our [values](/handbook/values/), and work in accordance with those values.
-* Ability to use GitLab
-
-### Manager, Market Insights
-
-The Manager, Market Insights reports to the Director of Product Marketing.
-
-#### Manager, Market Insights Job Grade 
-
-The Manager, Market Insights is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Manager, Market Insights Responsibilities
-
-* Recruit, coach and manage product marketing managers that live our values.
-* Set organization direction, staff for scale and develop the skills and career paths of all team members.
-* Ensure all our product marketing managers are very effective.
-* Promote and identify underperformance proactively.
-* Own the quality, effectiveness and performance of the product marketing team results.
-* Measure and improve the happiness and productivity of the team.
-Partner and work closely with Strategic Marketing, Product Management, Sales, Engineering, Customer -Success, and other Marketing functions.
-* Make sure the success metrics such as quarterly OKRs are identified, met, and communicated across key stakeholders.
-
-#### Manager, Market Insights Requirements
-
-* 8-10 years of product marketing experience.
-* Past experience in market and customer research roles.
-* Knowledge around, and an ability to help prepare for industry analyst briefings as required.
-* Experience with DevOps and/or developer tooling.
-* Team player with strong intra-personal skills, skilled at project management and cross-functional collaboration.
-* 5+ years experience in hiring, scaling, managing and leading a team.
-* Understand the difference between managing and leading a team.
-* Experience managing external vendors and agencies.
-* Enterprise software company experience.
-* Passionate about open source and developer tools.
-* Strong communication skills.
-* You share our values, and work in accordance with those values.
-* Ability to use GitLab.
-
-### Director, Market Strategy & Insights
-This role reports to the Vice President of Portfolio Marketing.
-
-#### Director, Market Strategy & Insights Job Grade
-The Director, Market Strategy & Insights is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Director, Market Strategy & Insights Responsibilities
-* Drive the strategy that enables GitLab to create category-leading GTM programs based on timely market insights and inputs.
-* Create and amplify our analyst relations programs to distill category and market trends. Synthesize those insights into initiatives that inform, educate, and influence the analyst community to accurately position GitLab’s vision and approach.
-* Lead our customer reference functions to evolve into an enterprise-grade voice of the customer strategic function, scaling globally across customer advisory boards and enabling executive briefings.
-* Translate market insights and customer engagements to influence GitLab’s platform strategy and roadmap so that we accelerate our category-defining trajectory.
-* Conduct market studies with trusted independent vendors to analyze addressable market trends and insights to shape our GTM investments and strategies.
-* Collaborate with and connect stakeholders across R&D and GTM to ensure cross functional alignment on key objectives and results.
-* Ensure processes are designed, documented, understood, and followed in a way that minimizes bad or incomplete data.
-* Lead, manage, and grow a team by coaching existing members and closing talent gaps where needed through acquisition of new team members.
-* Proactively manage program budgets and negotiate contracts with vendors.
-
-#### Director, Market Strategy & Insights Requirements
-* 12+ years of experience including 5+ years of management experience
-* Direct experience in the enterprise software industry
-* Prior experience at category-leading/defining software companies is a plus
-* Insights into the frameworks or approach of analyst firms is a plus
-* Experience managing a growing team of high single-digit to double-digit members is a plus
-* Strong leadership presence with clear and concise communication (verbal and written)
-* Balance of strategic vision and tactical execution
-* Adept at creating and managing multiple global programs
-* Excellent planning, organizational and initiative management skills
-* BA or equivalent experience; MBA a plus
-* You share our [values](/handbook/values/), and work in accordance with those values.
-* Ability to use GitLab
-
 
 ### Director, Global Partner Marketing
 
