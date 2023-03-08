@@ -43,6 +43,7 @@ Navigate to career development resources located throughout the GitLab handbook:
     <a href="/handbook/people-group/learning-and-development/linkedin-learning/#how-to-access-linkedin-learning" class="btn btn-purple" style="width:200px;margin:5px;">LinkedIn Learning Courses</a>
     <a href="/handbook/people-group/learning-and-development/self-paced-learning/#linux-foundation-courses" class="btn btn-purple" style="width:200px;margin:5px;">Linux Foundation Courses</a>
     <a href="/handbook/people-group/learning-and-development/self-paced-learning/#oreilly-learning" class="btn btn-purple" style="width:200px;margin:5px;">O'Reilly Learning</a>
+    <a href="/handbook/people-group/learning-and-development/self-paced-learning/#gcp-learning" class="btn btn-purple" style="width:200px;margin:5px;">GCP Learning</a>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#professional-developmentcertificationslicenses" class="btn btn-purple" style="width:200px;margin:5px;">Professional Certifications</a>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#workshops-and-conferences" class="btn btn-purple" style="width:200px;margin:5px;">Attend a Workshop/Conference</a>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training" class="btn btn-purple" style="width:200px;margin:5px;">Crucial Conversations</a>
