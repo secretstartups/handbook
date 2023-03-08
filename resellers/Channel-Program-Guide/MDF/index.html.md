@@ -61,7 +61,7 @@ You are asked to use reasonable efforts to promote and market GitLab products an
 
 ### Passing Leads
 
-GitLab has the ability to automatically pass marketing-qualified leads (MQL’s) to partners that appear in the GitLab partner portal.  These leads must be accepted within 5 business days, and actioned upon within 10 business days.  Instructions on how to accept/reject/reassign a lead or register a deal and submit to GitLab for approval can be found via [this link](https://www.youtube.com/watch?v=BmmiH_ctALk) or in the [partner portal](https://partners.gitlab.com/English/).  Leads not accepted within 5 business days and/or not actioned upon within 10 business days, will automatically be reclaimed by GitLab and re-assigned.
+GitLab has the ability to automatically pass marketing-qualified leads (MQL’s) to partners that appear in the GitLab partner portal. Instructions on how to accept/reject/reassign a lead or register a deal and submit to GitLab for approval can be found via [this link](https://www.youtube.com/watch?v=BmmiH_ctALk) or in the [partner portal](https://partners.gitlab.com/English/). 
 
 MDF reimbursement requirements for demand-generation efforts include a copy of the joint event lead list. This list is considered confidential and the property of both GitLab and the authorized GitLab partner, and will be used for the sole purpose of tracking lead progress and calculating the activities return on investment. By submitting your MDF request, you agree to these terms and conditions.
 
