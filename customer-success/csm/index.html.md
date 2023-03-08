@@ -14,7 +14,7 @@ description: "The Customer Success Management team at GitLab is a part of the Cu
 [<button class="btn btn-primary" type="button" style="padding: 15px 30px; font-size: 24px;">Digital Touch</button>](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
 [<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Scale</button>](/handbook/customer-success/csm/segment/scale/)
 [<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Growth</button>](/handbook/customer-success/csm/segment/mid-touch/)
-[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Strategic</button>](/handbook/customer-success/csm/segment/strategic/)
+[<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">Enterprise</button>](/handbook/customer-success/csm/segment/enterprise/)
 [<button class="btn btn-primary" type="button"  style="padding: 15px 30px; font-size: 24px;">CSE</button>](/handbook/customer-success/csm/cse/)
 
 ## Mission Statement

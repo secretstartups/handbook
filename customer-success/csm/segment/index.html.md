@@ -25,4 +25,4 @@ Segment criteria are [defined in the Customer Success Manager wiki](https://gitl
 [<button class="btn btn-primary" type="button">Digital Touch</button>](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
 [<button class="btn btn-primary" type="button">Scale</button>](scale/)
 [<button class="btn btn-primary" type="button">Growth</button>](mid-touch/)
-[<button class="btn btn-primary" type="button">Strategic</button>](strategic/)
+[<button class="btn btn-primary" type="button">Enterprise</button>](enterprise/)
