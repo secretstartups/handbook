@@ -13,65 +13,74 @@ description: This page is about working with sales.
 
 ## General workflow
 
-1. Respond to the customer on Zendesk:
+### 1. Respond to the customer on Zendesk
    1. Assign the ticket to yourself.
    1. Select the appropriate specific workflow to follow (see below).
    1. Check the `Escalated to sales` box and set the ticket status to `Open`.
    1. Set the ticket status to `Pending`.
-   1. N.B. A Zendesk trigger will prevent a ticket from being set to `Pending` when an agent made an internal note instead of a public comment. It will set the ticket back to `Open` when that happens.
-      So if you check the `Escalated to sales` box and set the ticket status to `Pending`, it will be reverted to status `Open`.
-      Saving a second time as `Pending` will also work.
-1. Leave a message for the Salesforce `Account Owner` on Chatter with the
-   relevant details.
-   * Consider adding the following note in the Chatter message:
+
+_**NB:** A Zendesk trigger will prevent a ticket from being set to `Pending` when an agent made an internal note instead of a public comment. It will set the ticket back to `Open` when that happens. So if you check the `Escalated to sales` box and set the ticket status to `Pending`, it will be reverted to status `Open`. Saving a second time as `Pending` will also work._
+
+### 2. Leave a message for the Salesforce `Account Owner` on Chatter with the relevant details
+   1. Consider adding the following note in the Chatter message:
      > Please note that according to the "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) we expect a reply from you on this chatter within 24 hours (excluding weekend, Family and Friends Day & global holidays) stating when/if you will contact the customer.
-   * Share the link to the Chatter message (right-click on timestamp) in an internal note on the ticket.
+   2. Share the link to the Chatter message (right-click on timestamp) in an internal note on the ticket.
      * Note that you can only link to the original Chatter message, not to any of its comments.
-   * You may want to check the account owner's Slack status to see if they're
+   3. You may want to check the account owner's Slack status to see if they're
      currently taking time off work.
-   * If reaching out to the account owner on Slack (always on `#support_to_sales_escalation`
+   4. If reaching out to the account owner on Slack (always on `#support_to_sales_escalation`
      and always *as a courtesy*), link them the Chatter message and ask them to
      respond there.
-   * Note: Support should be able to rely on the Salesforce `Account Owner`
-     field to determine who is responsible for the account. If that is incorrect,
-     escalate it immediately (see point `3(i)`).
-1. Escalation procedure:
-   1. If the Salesforce `Account Owner` is unable/unwilling to assist
-      1. Mention the account owner's direct manager in a Chatter comment.
-      * Examples of being unable/unwilling to assist:
-        * Account owner no longer works at GitLab.
-        * Account owner says the account is not theirs any more.
-        * Account owner says they have no time to help.
-   1. If the Salesforce `Account Owner` is not a person
-      1. If it's an SMB AMER account, Chatter `AMER Pooled AEs`, otherwise:
-      1. Find the person in charge of the [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation)
-        and [sales territory](/handbook/sales/territories/)
-        and mention them in a Chatter comment. 
-   1. If anyone you reach out to does not respond within 24 hours (excluding weekend, Family and Friends Day & global holidays):
-      1. Mention the person's direct manager in a Chatter comment.
-         * Suggested message text:
-           > Following the "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> within the agreed upon time.
-         * From VP level onwards, mention them in a Slack message in
-           `#support_to_sales_escalation` in addition to a Chatter comment.
-           * Suggested message text in Chatter:
-             > Following the "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
-           * Suggested message text in Slack:
-             > Following the "Working with Sales workflow" I'm escalating support ticket https://gitlab.zendesk.com/agent/tickets/<ticket number\> as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
-      1. Repeat as necessary every 24 hours and go one step up the reporting
-         line, going all the way up to CEO if necessary.
-   * It is helpful to refer to the [company organization chart](https://comp-calculator.gitlab.net/org_chart)
-     to see who to escalate to.
-1. When someone from sales says they'll be in touch with the customer:
-   1. Post an update to the ticket, mentioning:
-      * The name of the person who will be in touch.
-      * Tell the customer to let us know if they haven't heard back within 2
-        business days.
-      * Inform the customer that if we don't receive a reply from them within 20 days following our last reply,
-        our ticketing system will mark the ticket as solved. If the customer then doesn't respond within 7 days
-        of the ticket being marked as solved, our ticketing system will proceed to close the ticket
-        (see [Handling unresponsive tickets](https://about.gitlab.com/support/general-policies/#handling-unresponsive-tickets)).
-      * Set the ticket status to `Pending`.
 
+_**NB:** Support should be able to rely on the Salesforce `Account Owner` field to determine who is responsible for the account. If that is incorrect, escalate it **immediately**._
+
+### 3. Escalation procedure
+
+##### If the Salesforce `Account Owner` is incorrect or unable/unwilling to assist
+
+* Mention the account owner's direct manager in a Chatter comment.
+* Examples of being unable/unwilling to assist:
+  * Account owner no longer works at GitLab.
+  * Account owner says the account is not theirs any more.
+  * Account owner says they have no time to help.
+
+##### If the Salesforce `Account Owner` is `POOLED USER [ DO NOT CHATTER ]`
+
+* Chatter the [**@AMER Pooled AEs**](https://gitlab.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F98X000000oPQS) group in Salesforce.  
+* If the Support Engineer does not have Salesforce access, post a message in the [**#smb-pooled-ae**](https://gitlab.slack.com/archives/C036C3W83U1) slack channel. 
+* In your post, include: 
+  * details of the request
+  * the Zendesk ticket link
+
+##### If the Salesforce `Account Owner` is not a person and is not `POOLED USER [ DO NOT CHATTER ]`
+
+1. Find the person in charge of the [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation)
+  and [sales territory](/handbook/sales/territories/) and mention them in a Chatter comment. In your post, include: 
+    * details of the request
+    * the Zendesk ticket link
+1. If anyone you reach out to does not respond within 24 hours (excluding weekend, Family and Friends Day & global holidays): 
+  * Mention the person's direct manager in a Chatter comment.
+    * Suggested message text:
+      > Following the "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> within the agreed upon time.
+2. From VP level onwards, mention them in a Slack message in `#support_to_sales_escalation` in addition to a Chatter comment.
+    * Suggested message text in Chatter:
+      > Following the "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
+    * Suggested message text in Slack:
+      > Following the "Working with Sales workflow" I'm escalating support ticket https://gitlab.zendesk.com/agent/tickets/<ticket number\> as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
+3. Repeat as necessary every 24 hours and go one step up the reporting line, going all the way up to CEO if necessary.
+    * It is helpful to refer to the [company organization chart](https://comp-calculator.gitlab.net/org_chart)
+   to see who to escalate to.
+
+### 4. When someone from Sales confirms that they'll be in touch with the customer
+
+1. Post an update to the ticket, mentioning:
+    * The name of the person who will be in touch.
+    * Tell the customer to let us know if they haven't heard back within 2 business days.
+    * Inform the customer that if we don't receive a reply from them within 20 days following our last reply,
+      our ticketing system will mark the ticket as solved. If the customer then doesn't respond within 7 days
+      of the ticket being marked as solved, our ticketing system will proceed to close the ticket
+      (see [Handling unresponsive tickets](https://about.gitlab.com/support/general-policies/#handling-unresponsive-tickets)).
+2. Set the ticket status to `Pending`.
 
 _(Pro tip: create a personal ticket view where "Escalated to Sales" = checked, to pull these out into their own queue)_
 
