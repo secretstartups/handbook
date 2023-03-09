@@ -808,23 +808,21 @@ For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
 
 ### AMER Field Marketing Badge and Event Check-In Process
 
-**Items to Purchase:**
+#### Items to Purchase
 
-- [Badge Carrying Case](https://www.pcnametag.com/redi-reg2-badge-case-orreg.html?gclid=EAIaIQobChMI8vnJmoik5QIVGJSzCh3Gxw9oEAQYBSABEgIQZfD_BwE)
-- [Avery Badges with Clear Holder and Badge Clips](https://www.avery.com/products/namebadges/74541)
-- [Speaker Ribbons](https://www.namebadgeproductions.com/product/4648/4-stick-n-stack-horizontal-ribbons)
+*When purchasing badges, make sure to check the badge holders you wish to purchase to see if they include badge paper. Many kits do, but some do not. If purchasing paper separately, make sure your badge paper is the same size as your badge holder (generally 3x4). Please note these items do not need to be purchased through Avery directly, cheaper purchasing options include stores like Staples, Amazon, and Office Depot.*
 
-**Marketo Check-in App on iPad:**
+- [Badge Carrying Case for 3x4 badges](https://www.pcnametag.com/redi-reg2-badge-case-orreg.html?gclid=EAIaIQobChMI8vnJmoik5QIVGJSzCh3Gxw9oEAQYBSABEgIQZfD_BwE) - Optional
+- [Speaker Ribbons](https://www.namebadgeproductions.com/product/4648/4-stick-n-stack-horizontal-ribbons) - Optional
+- Badge Paper and Badge Holder Options (3x4)
+   - [Avery Badge Paper Only](https://www.avery.com/products/namebadges/5392)
+   - [Avery Magnetic Badge Holders with Badge Paper](https://www.avery.com/products/namebadges/8781)
+   - [Amazon Magnetic Badge Holders (with 1 clip lanyard option as well) WITHOUT Badge Paper](https://www.amazon.com/gp/product/B07MLQCHBV/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1)
+   - [Avery Clip Badge Holders with Badge Paper](https://www.avery.com/products/namebadges/74541)
+   - [Avery Badge Holders for 1 Clip Lanyards WITHOUT Badge Paper](https://www.avery.com/products/namebadges/74471)
+   - [Avery Badge Holders for 2 Clip Lanyards with Badge Paper](https://www.avery.com/products/namebadges/74459)
 
-- Please review the [Marketo Check-in App Instructions](/handbook/marketing/events/#marketo-check-in-app)
-- In order to use the Marketo Check-in App, you must have a wifi connected device.
-- Before the event, use your personal Marketo login to log in to the Marketo Check-in App on the iPad and make sure it is working properly and that your event is displayed. NOTE: Your event is pulled into the app 7 days before the event begins and will not show up before this time.
-- The Marketo Check-in App will pull attendees in alphabetical order unless the first letter of the attendee’s name is not capitalized. Those attendees will show up out of order at the very bottom of the list of names. As a result, it is often faster to check attendees off as attended in a spreadsheet as they come in (see below instructions) and then check them in on the Marketo App after registration.
-- You must use this process for GitLab owned events. MktgOps will NOT complete a list upload as FMM is supposed to use the Marketo Check-in App.
-
-**Creating Event Badges:**
-
-**SFDC**
+#### SFDC Registration Data Pull
 
 - Log into SFDC, click Reports and search for `Name Tag Export` in the `Field Marketing` folder, or go to this [link](https://gitlab.my.salesforce.com/00O4M000004aIM0).
 - Update `Select Campaign` by clicking the lookup next to the field
@@ -833,14 +831,14 @@ For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
 - This generates a report with everyone who has registered for the event.
 - Click `Export Details`
 - Under the `Export File Format` field, select either `Excel Format` or `Comma Delimited` (whichever works best on your laptop)
-- This will create a downloaded file of registered members. From here, copy and paste into a Google sheets document and make any corrections to capitalization, spelling errors, etc.. This document will be utilized when creating the badge template so remember to also filter alphabetically by last name. If you will be checking off attendees utilizing this spreadsheet, remember to add a check-in column as well.
+- This will create a downloaded file of registered members. From here, copy and paste into a Google sheets document and make any corrections to capitalization, spelling errors, etc. This document will be utilized when creating the badge template so remember to also filter alphabetically by last name. If you will be checking off attendees utilizing this spreadsheet, remember to add a check-in column as well.
 
-**Avery Template**
+#### Avery Template
 
 - Go to avery.com and log in with the events login found in the Marketing 1pass
 - Under `Templates` select `Avery Design & Print`
 - Click `Start Designing`
-- Under `Quick Search`, type in the badge number found on the box of your previously purchased Avery badges (link provided in `Items to Purchase` above) - Avery 74541
+- Under `Quick Search`, type in the badge number found on the box of your previously purchased Avery paper (links provided in `Items to Purchase` above) 
 - Select either one-sided or two-sided (if you intend to print on the back of the badge) and click `Select this Template`
 - At the top of the page select `Apply from a Saved Project`
 - Click `Select and Customize` on the horizontal orientation option
@@ -856,6 +854,21 @@ For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
 - Remember to save your design to the account or your personal computer
 - Click `Open PDF` and print utilizing the Avery badge paper previously purchased
 - Separate individual badges, stuff in clear holders/clips that come with the badge paper, and arrange in badge carrying case
+
+
+#### Spreadsheet Check-in for Event
+- Pull the list of attendees the day of the event using the SFDC Registration Data Pull instructions above.
+- Add a column to your spreadsheet for attended/no show.
+- Check off attendees on the spreadsheet as they check-in.
+- Upload lead list after the event using your spreadsheet information.
+
+#### Marketo Check-in App on iPad for Event
+- Please review the [Marketo Check-in App Instructions](/handbook/marketing/events/#marketo-check-in-app)
+- In order to use the Marketo Check-in App, you must have a wifi connected device.
+- Before the event, use your personal Marketo login to log in to the Marketo Check-in App on the iPad and make sure it is working properly and that your event is displayed. NOTE: Your event is pulled into the app 7 days before the event begins and will not show up before this time.
+- The Marketo Check-in App will pull attendees in alphabetical order unless the first letter of the attendee’s name is not capitalized. Those attendees will show up out of order at the very bottom of the list of names. As a result, it is often faster to check attendees off as attended in a spreadsheet as they come in (see below instructions) and then check them in on the Marketo App after registration.
+- A lead list is not required when using the Marketo check-in app as leads are synced directly to the Marketo program.
+
 
 ### Field Marketing Venue Search
 
