@@ -9,7 +9,7 @@ This page was inspired by the recent trend of Engineering Manager READMEs. _e.g.
 
 ## Christie Lenneville’s README
 
-My name is Christie Lenneville, and I’m the Vice President of User Experience at GitLab. My department includes Product Design, UX Research, and Technical Writing.
+My name is Christie Lenneville, and I’m the Vice President of User Experience at GitLab. My department includes Product Design, UX Research, and Technical Writing. If you're a GitLab team member and you'd like to meet with me, I manage my own calendar. You're welcome to send me an invite, but please make it modifiable, in case I need to move it around a bit.
 
 * [GitLab Handle](https://gitlab.com/clenneville)  
 * [Team Page](/company/team/#clenneville)  
