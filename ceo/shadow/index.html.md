@@ -411,12 +411,6 @@ You will not attend a meeting when:
 1. If any participant in the meeting is uncomfortable.
 1. If the CEO wants more privacy.
 
-###### Social calls
-{:.no_toc}
-
-When it comes time for the [Social calls](/handbook/communication/#social-call), CEO shadows should attend on their own.
-You are encouraged to share your experience as a shadow with your call group while you are shadowing.
-
 ###### E-Group Weekly Meetings and E-Group Quarterly Offsites
 {:.no_toc}
 
