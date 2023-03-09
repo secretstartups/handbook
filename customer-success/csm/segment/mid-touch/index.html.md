@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "CSM (TAM) Segment: Growth"
+title: "CSM (TAM) Segment: Commercial"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -14,15 +14,15 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ## Overview
 
-The Growth team consists of Customer Success Managers assigned to dedicated accounts, leading with a programmatic approach to grow a large customer base, and aligning on and building success goals with each customer through usage reporting and strategic touchpoints. Our primary focuses are on reducing and addressing risk, ensuring positive onboarding for long-term success, and driving enablement and adoption throughout the customer journey.
+The Commercial team consists of Customer Success Managers assigned to dedicated accounts, leading with a programmatic approach to grow a large customer base, and aligning on and building success goals with each customer through usage reporting and strategic touchpoints. Our primary focuses are on reducing and addressing risk, ensuring positive onboarding for long-term success, and driving enablement and adoption throughout the customer journey.
 
-For more information about the Growth team's regions and books of business, please refer to our [internal wiki](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments).
+For more information about the Commercial team's regions and books of business, please refer to our [internal wiki](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments).
 
 ## Customer Lifecycle Journey
 
-Growth accounts have their own unique lifecycle journey to ensure they reach their full return on investment and can scalably grow and expand.
+Commercial accounts have their own unique lifecycle journey to ensure they reach their full return on investment and can scalably grow and expand.
 
-![Growth Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
+![Commercial Customer Lifecycle Management](/images/handbook/customer-success/Customer_Lifecycle_Journey_Named_TAM.png)
 
 ### Align and Onboard
 
@@ -107,7 +107,7 @@ Being a CSM at GitLab means that every day will be different, and you'll always 
 
 ### Prioritization
 
-Please refer to our [prioritization guidelines](/handbook/customer-success/csm/engagement/#growth-accounts) for details about how Growth accounts are prioritized and what Priority 1 and Priority 2 mean in practice.
+Please refer to our [prioritization guidelines](/handbook/customer-success/csm/engagement/#growth-accounts) for details about how Commercial accounts are prioritized and what Priority 1 and Priority 2 mean in practice.
 
 ### Propensity Models
 
@@ -125,7 +125,7 @@ Actual results for accounts can be found both on customer accounts and dashboard
 
 ### Pillars of Success
 
-There are 7 pillars that we have identified as crucial for success as Growth CSMs. It is expected and normal for all CSMs to have higher proficiency in some areas and lower in others, especially when taking [job level](/company/team/structure/#layers) into consideration, but these are all areas we are continually striving to be better at, as there are always opportunities to learn and improve.
+There are 7 pillars that we have identified as crucial for success as Commercial CSMs. It is expected and normal for all CSMs to have higher proficiency in some areas and lower in others, especially when taking [job level](/company/team/structure/#layers) into consideration, but these are all areas we are continually striving to be better at, as there are always opportunities to learn and improve.
 
 1. Communication
   - Frequent and honest communication with customers and internal stakeholders, so everyone knows what is happening and what to expect
@@ -145,7 +145,7 @@ There are 7 pillars that we have identified as crucial for success as Growth CSM
 
 ### Rhythm of Business
 
-While the motions in the [rhythm of business](/handbook/customer-success/csm/rhythm/) will remain the same as the Strategic segment, the Growth CSM team will have a slightly different approach to their workflow and books of business.
+While the motions in the [rhythm of business](/handbook/customer-success/csm/rhythm/) will remain the same as the Enterprise segment, the Commercial CSM team will have a slightly different approach to their workflow and books of business.
 
 A breakdown of what their expected tasks and hours spent for each can be found below, including a breakdown of those hours at a weekly, monthly, quarterly, and yearly perspective.
 
@@ -176,11 +176,11 @@ Gainsight plays a huge role in ensuring CSMs are equipped and able to manage the
 
 For general guidance on using Gainsight, please refer to the [CSM handbook page](/handbook/customer-success/csm/gainsight/).
 
-However, the Growth team has some specific usage of Gainsight, outlined below.
+However, the Commercial team has some specific usage of Gainsight, outlined below.
 
 ### Timeline
 
-[Timeline](/handbook/customer-success/csm/gainsight/timeline/) entries are one of the most important elements of Gainsight for the Growth team. CSMs need to stay up to date on adding Timeline entries (within 3 business days of the call occurring), in order to ensure their metrics are accurate and we have a pulse on customer health, persona involvement, and overall engagement.
+[Timeline](/handbook/customer-success/csm/gainsight/timeline/) entries are one of the most important elements of Gainsight for the Commercial team. CSMs need to stay up to date on adding Timeline entries (within 3 business days of the call occurring), in order to ensure their metrics are accurate and we have a pulse on customer health, persona involvement, and overall engagement.
 
 To ensure your calls are logged correctly, make sure to select `Customer Call` as the type, unless you are hosting a workshop, in which case choose `Workshop`.
 
@@ -200,7 +200,7 @@ It's acceptable for success plans to have more than one objective which may or m
 
 ### CTAs
 
-The [Cockpit](/handbook/customer-success/csm/gainsight/ctas/#cockpit) houses all call-to-actions and success plan objecties that are assigned to CSMs. However, it can get very noisy and it's easy to get CTA-fatigue. To help avoid this, it's recommended for all Growth CSMs to make the following adjustments in their Cockpit:
+The [Cockpit](/handbook/customer-success/csm/gainsight/ctas/#cockpit) houses all call-to-actions and success plan objecties that are assigned to CSMs. However, it can get very noisy and it's easy to get CTA-fatigue. To help avoid this, it's recommended for all Commercial CSMs to make the following adjustments in their Cockpit:
 
 1. At the top right where it says `Due Date`, click the dropdown and select `Type`.
    - This will organize your CTAs into different categories which will make triaging them easier; refer to the handbook page on [different types of CTAs](/handbook/customer-success/csm/gainsight/ctas/#types-of-ctas).
