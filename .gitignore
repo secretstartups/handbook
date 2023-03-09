@@ -15,3 +15,4 @@
 
 # Ignore code quality output
 markdownlint-cli2-codequality.json
+/scripts/issue_log
