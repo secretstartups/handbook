@@ -126,7 +126,13 @@ If you do not meet one or more of the above requirements, please file a request 
 
 #### Transferring a partner visa to a highly skilled migrant visa
 
-Someone already in the Netherlands on a partner visa can be transferred to their own highly skilled migrant visa in order to not be dependent anymore. The process will take about 4-6 weeks if they are already in the Netherlands and don’t have to wait for an entry sticker or have to go for appointments to get registered. This is subject to above eligibility criteria and approvals. Please email people-connect@gitlab.com if you have any questions or to start this process.
+Someone already in the Netherlands on a partner visa can be transferred to their own highly skilled migrant visa in order to not be dependent anymore. The process can take up to three months and is subject to above eligibility criteria and executive approval. Please email people-connect@gitlab.com to start this process.
+
+Tasks for People Connect:
+1. The People Connect team member emails HR Savvy (see contact details in 1password) to confirm the total amount of fees for this process since they are subject to change
+1. The People Connect team member emails the team member's Division's E-Group leader for their written approval and includes the total amount of fees in the email
+1. Once approved the People Connect team member emails HR Savvy with the team member in cc to request the visa transfer
+1. HR Savvy will supply all the documentation needed to the team member to apply for the visa transfer
 
 #### Resources
 
