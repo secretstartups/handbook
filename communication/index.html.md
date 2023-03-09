@@ -851,44 +851,6 @@ Fireside chats are informal conversations between a host and a guest. The guest 
 
 Format: In advance of the call, the host will prepare questions and share them with the guest. During the call, the host will moderate the conversation with the guest, by verbalizing the prepared questions. There is specific amount of time reserved at the end of the agenda for questions from attendees.
 
-#### Social call
-
-At GitLab, social calls are considered an important way to foster culture while organically creating connections between team members with similar interests or hobbies.
-
-These calls happen three times a month at varying times to ensure that team members in all timezones are able to take part. We currently have one open or random topic room along with three topic specific ones based on the most popular channels within Slack i.e. `#gaming`, `#fitlab` and `#intheparenthood` which team members need not be a part of to join in.
-
-Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back and review points of interest.
-
-The use of a document also serves to ensure that everyone gets a chance to contribute to the conversation.
-
-Social call attendance is not mandatory however the sessions do serve as a great way to get to know fellow team members, take a break or (depending on your region) start the day on a fun note.
-
-##### Monthly call cycle
-
-| Social Call   | Day(s)               | Time       |
-| ------------- | -------------------- | ---------- |
-| **APAC/EMEA** | First Tuesday of every month | 11:00PM PT |
-| **EMEA/AMER** | First Tuesday of every month | 06:00AM PT |
-| **AMER/APAC** | First Tuesday of every month | 15:00PM PT |
-
-All social calls are in the Team Meetings Calendar - the sessions are titled Talkative Tuesdays - GitLab Social Call and once you have opened the invite you will see a brief introduction followed by the three topics all of which have unique links for both Zoom and the respective Google Doc.
-
-Being mindful of those who will be taking part, team members are asked to join on time and mute their microphones when they are not speaking. Social calls are not moderated and with this in mind all those who take part play this role and should feel free to chime in if and when necessary.
-
-If you have any questions around the Social Call schedule please be sure to engage with the People Connect Team via the #people-connect channel. Feedback and suggestions are welcome and can be documented in the comments section of [this issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/969).
-
-_Using call attendance data along with feedback and suggestions provided by team members call topics will be reviewed and if necessary adjusted on a quarterly basis._
-
-#### Mindfulness Call
-
-- The Mindfulness Call is a new call at GitLab. To start it will be led twice per week:,
-   - Mindfulness Call 1 - EMEA/ APAC: Tuesdays 1:00AM PT for 15 minutes
-   - Mindfulness Call 2 - AMER/ EMEA: Thursdays 9:30AM PT for 15 minutes
-- The call is a short time for GitLab team members to spend time together in a guided meditation of centering and refocusing. There is [evidence that meditating together has additional benefits over meditating alone](https://www.mindful.org/benefit-meditating-alone-together/).
-- The call will be led by either @mlebeau or @haileyrae to start, but we are looking for other volunteers and encourage others to step up and lead these calls when one of the facilitators has a conflict and cannot attend. Ultimately, we'd like more volunteers especially in other time zones, so that this can be offered multiple times in a week for all GitLab team members to benefit.
-- The call will start promptly. The call will not be recorded. There is no intent to have discussion or Q&A around the call.
-- No previous experience is necessary, nothing extra is needed other than a comfortable seat and 15 minutes.
-
 #### Walk and Talk calls
 
 A Walk and Talk call is when team members step away from their computers and get outside for a meeting. The difference between a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) and a Walk and Talk call is that a Walk and Talk call be held with people that you interact with frequently at GitLab. It could be social in nature or focused on a specific problem/topic that needs to be discussed. If it's a problem-solving focused discussion, the outcome should be captured in a merge request. It should not be used if the problem being discussed requires screen sharing or detailed note taking. There are great physical and mental health benefits to a walk and talk call. There are also benefits with [increased focus and creativity](https://www.quora.com/What-are-the-advantages-of-a-walking-1-1-meeting). A Walk and Talk can also help prevent [Zoom fatigue](https://news.northeastern.edu/2020/05/11/zoom-fatigue-is-real-heres-why-youre-feeling-it-and-what-you-can-do-about-it/).
