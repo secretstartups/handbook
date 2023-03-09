@@ -11,7 +11,11 @@ description: "Available development paths and resources for Customer Success Man
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-As a Customer Success Manager, it is essential to understand what resources are available for your personal and professional development.  This page strives to be a place for leadership and CSMs to contribute to resources available for the progression and development of the CSM team.
+As a Customer Success Manager at GitLab, you should feel empowered to take the time to invest in yourself and your career, leaning into the [70-20-10 rule for development](/handbook/people-group/learning-and-development/career-development/#70-20-10-rule-for-development). 
+
+To be intentional about our commitment to continuous improvement, the first Friday afternoon of every calendar month is strongly encouraged to be protected and used for personal and professional development, either individually or in collaboration with other GitLab team members.
+
+To this end, it is essential to understand what resources are available for your personal and professional development, and the remainder of this page strives to be a place for leadership and CSMs to contribute to the resources available for the progression and development of the CSM team.
 
 ## Key handbook sections, roadmaps and L&D platforms for enablement
 
