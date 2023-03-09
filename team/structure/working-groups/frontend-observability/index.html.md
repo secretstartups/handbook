@@ -40,13 +40,13 @@ This group will not focus on instrumentation around user actions for product rea
 
 This working group will have fulfilled its purpose when:
 
-* The `@sentry/browser` package is upgraded to version `6.10.0` or higher
-* Sentry is configured to track and report frontend errors reliably
-* Sentry is configured to monitor our performance with performance tracing
-* We have decided what client performance data to send to Prometheus
-* The aforementioned client performance data is sent to and tracked in Prometheus
-* A triaging / diagnosing process is created for sentry errors
-* Documentation is written that allows other frontend engineers to contribute
+- [ ] The `@sentry/browser` package is upgraded automatically via renovate
+- [ ] Sentry is configured to track and report frontend errors reliably
+- [ ] Sentry is configured to monitor our performance with performance tracing
+- [ ] We have decided what client performance data to send to Prometheus
+- [ ] The aforementioned client performance data is sent to and tracked in Prometheus
+- [ ] A triaging / diagnosing process is created for sentry errors
+- [ ] Documentation is written that allows other frontend engineers to contribute
 
 ## Roles and Responsibilities
 
