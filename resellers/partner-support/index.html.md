@@ -32,24 +32,23 @@ _All team members work all regions, according to the timezone they work within. 
 - Partner rebate payments and tracking
 - Additional responsibilities to be documented
 
-### Out of Scope
-_The Partner Help Desk team is not a part of the sales process, but works with partners to move throughout the partner program and increase their partner benefits._
-- Channel quoting & quoting assistance (please chatter `@partner operations` on the record)
-   - Please note that `@partner operations` is responsible for distributor quoting. [The sales team is responsible for reseller-direct quoting.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) It is not the Channel Manager's responsibility to quote channel opportunities.
-- Partner Account Creation
-- SFDC opportunity record assistance (please chatter `@partner operations` on the record)
+### Where to Get Help for Frequent Support Needs
+
+- Channel quoting & quoting assistance, chatter `@Partner Operations` on the record
+   - Please note that `@Partner Operations` is responsible for distributor quoting currently. [The sales team is responsible for reseller-direct quoting.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) It is not the Channel Manager's responsibility to quote channel opportunities.
+- Partner Account Creation, chatter `@Partner Operations`
+- SFDC opportunity record assistance, chatter `@Partner Operations` on the record
 - Pre- and post-sales support. The SA, sales, and support teams should be utilized for these needs. 
-- Billing account set-up (please chatter the partner account owner or `@billing ops`)
+- Billing account set-up - chatter the partner account owner or `@Billing Ops` see [Creating a Partner BIlling Account](https://about.gitlab.com/handbook/resellers/partner-support/#creating-a-partner-billing-account-for-a-new-partner-entity) for instructions.
 - Channel Account Management and training
-   - The Partner Help Desk provides enablement tools, how-to guides, and support getting into GitLab’s partner systems. We answer questions and troubleshoot for partners and CAMs who may have questions via partnersupport@gitlab.com. One-on-one trainings and live portal walkthroughs are out of scope. For assistance with these, CAMs are encouraged to use the tools listed below.
+   - Partner Operations provides enablement tools, how-to guides, and support getting into GitLab’s partner systems. We answer questions and troubleshoot for partners and CAMs who may have questions via partnersupport@gitlab.com. One-on-one trainings and live portal walkthroughs are out of scope. For assistance with these, CAMs are encouraged to use the tools listed below.
 
-_For a more detailed explanation of the differences between the Partner Help Desk and Partner Operations, visit [Tagging Partner Operations or Partner Help Desk in Salesforce](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#tagging-partner-operations-or-partner-help-desk-in-salesforce)._
 
-## How to contact us 
-The **#channel-programs-ops** Slack should be the first mode of contact for GitLab team members for all urgent and/or non-SFDC-record-related. If the request is related to an SFDC partner account record, please chatter `@partner help desk` on the record. 
+## How to Contact Us 
+The **#channel-programs-ops** Slack should be the first mode of contact for GitLab team members for all urgent and/or non-SFDC-record-related. If the request is related to an SFDC partner account record, please chatter `@Partner Operations` on the record. 
 
 Slack Best Practices  
-**Please avoid contacting the Partner Help Desk team members directly via Slack.** Utlizing the #channel-programs-ops Slack channel is best to ensure timely coverage, helps others who may have similar questions, and aligns with our [Transparency value](https://about.gitlab.com/handbook/values/#transparency).
+**Please do not contact the Partner Operations team members directly via Slack.** Utlizing the #channel-programs-ops Slack channel is best to ensure timely coverage, allows multiple people to chime in to assist, helps others who may have similar questions, and aligns with our [Transparency value](https://about.gitlab.com/handbook/values/#transparency).
 
 Partners can contact the Partner Support team at partnersupport@gitlab.com.
 
@@ -108,24 +107,28 @@ We do not create entire new accounts for separate partner entities with the same
  3. Sales Reps can then select that billing account as the Invoice Owner and use the contact you created as the Invoice Owner Contact in their quotes.
 
 ## Partner Insights
-The Partner Help Desk team provides ["Partner Insights"](https://docs.google.com/presentation/d/17O9HGNvKxgUpLG3ySA0LQxutsYJjewSNYzaA1q6JrGA/edit#slide=id.g177fa90e31f_0_190) slide decks to Channel Managers for help with preparing for QBRs and other partner executive meetings. These insights are intended to help Channel Managers have productive conversations with partners to identify what is going well so it can be replicated, as well as address opportunities for improvement to develop stronger and more valuable partnerships. 
+The Partner Operations team provides ["Partner Insights"](https://docs.google.com/presentation/d/17O9HGNvKxgUpLG3ySA0LQxutsYJjewSNYzaA1q6JrGA/edit#slide=id.g177fa90e31f_0_190) slide decks to Channel Managers for help with preparing for QBRs and other partner executive meetings. These insights are intended to help Channel Managers have productive conversations with partners to identify what is going well so it can be replicated, as well as address opportunities for improvement to develop stronger and more valuable partnerships. 
 
 Only Channel Managers and their directors can request Partner Insights. If you are not a Channel Manager but have an executive partner meeting and want to request Partner Insights for a specific partner, please work with that partner's Channel Manager to determine if your request is needed (i.e. whether or not a deck already exists or if the information you're looking for can be obtained from the Channel Manager) or to have the Channel Manager make the request. 
 
 Completed Partner Insights slide decks are attached to the Partner Account in Google Docs, Notes and Attachments in SFDC. 
 
 ### Requesting a Partner Insights Slide Deck
-To request a Partner Insights slide deck, Channel Managers should chatter `@Partner Help Desk` on the partner account record and provide the date (or expected date) of the partner meeting, as well as the date the Partner Insights deck is needed. (Requests are limited to three (3) Partner Insights Requests at once per Channel Manager.) This will open a case for the Partner Help Desk, and will be claimed by a member of the team. _Please be sure to provide at least 5 working days for the team to complete the deck._
+To request a Partner Insights slide deck, Channel Managers should chatter `@Partner Operations` on the partner account record and provide:
+-  Date (or expected date) of the partner meeting
+-  Date the Partner Insights deck is needed. Please also provide 
+-  If you need a full deck or if you are fine with just the automated data we can pull (i.e. no training or rebate data needed).
 
-Once the deck is completed, PHD will attach the Google slide deck to the partner account and then chatter the Channel Manager with the Partner Insights link. The deck is complete, but the Channel Managers are able to edit the deck if they wish. 
+*Requests are limited to three (3) Partner Insights Requests at once per Channel Manager.* This will open a case for the Partner Operations to review and it will be assigned to a member of the team. _Please be sure to provide at least 5 working days for the team to complete the deck._
+
+Once the deck is completed, we will attach the Google slide deck to the partner account and then chatter the Channel Manager with the Partner Insights link. The deck is complete, but the Channel Managers are able to edit the deck if they wish. 
 
 ### Partner Insights Details
 - Currently, only Select Partners are eligible for Partner Insights.
 - The date of the data pull is on the first page of the Partner Insight. Please note this date as additional opportunities may close between the date of the data pull and the date of the presentation.
 - Each partner will only get one Partner Insights deck per quarter. A second request within the same quarter will be denied. 
-- Bulk requests (more than 3 partners) for Partner Insights must first be approved prior to requesting in chatter. This includes regional requests by Channel Directors. A minimum of two weeks notice is requested for bulk requests.
+- Bulk requests (more than 3 partners) for Partner Insights must first be approved by the Manager of the Partner Support team prior to requesting in chatter. This includes regional requests by Channel Directors. A minimum of two weeks notice is requested for bulk requests.
     - For bulk requests, post the requested partner names and brief business justification for the bulk request in the #channel-programs-ops Slack channel, no tagging necessary.  
-- Channel Managers are free to request a walk-through with PHD to go over the completed Partner Insights deck, if they would like. 
 - Customization of a Partner Insights deck (including custom data requests) is not currently in scope. Only the out-of-the-box slide deck information and data is available. 
 - Additional data must be requested from the [Partner Operations team](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#how-to-contact-us), and not from the Partner Help Desk. 
 
@@ -141,16 +144,16 @@ For detailed information and requirements, visit the [Partner Training, Certific
 
 
 ## NFR Licenses
-Please review the [NFR policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nrf-not-for-resale-license) to see details about what partners can be eligible to receive. If a Partner would like to request a NFR license, they should be directed to log into the Partner Portal, click on the `Support` tab, and chose the "NFR" icon. They'll be directed to a Google form that sends their request to the Partner Help Desk. They should review the NFR Policy link in the form prior to submitting it to understand the requirements. 
+Please review the [NFR policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nrf-not-for-resale-license) to see details about what partners can be eligible to receive. If a Partner would like to request a NFR license, they should be directed to log into the Partner Portal, click on the `Support` tab, and chose the "NFR" icon. They'll be directed to a Google form that sends their request to the Partner Operations team. Partners should review the NFR Policy link in the form prior to submitting it to understand the requirements. 
 
-When Partner Help Desk receives the request, they will review the partner account to verify the partner meets NFR eligibility requirements. If they do, Partner Help Desk will submit the NFR request to GitLab's license support team to be fulfilled. If the partner does not meet the eligibility requirements, they will email the submitter and explain the missing requirements and how to fulfill them. 
+When Partner Operations receives the request, they will review the partner account to verify the partner meets NFR eligibility requirements. If they do, Partner Operations will submit the NFR request to GitLab's license support team to be fulfilled. If the partner does not meet the eligibility requirements, they will email the submitter and explain the missing requirements and how to fulfill them. 
 
 ### NFR Requests Outside of Program Guidelines
 If a partner needs additional NFR users or licenses OR wants to use a license outside of the parameters set by the NFR policy, CAMs and SAs should consult to determine if the partner should be paying for a license to invest in their GitLab practice and work with Sales to help the partner purchase license(s) for their own internal use. 
 
-Otherwise, the NFR options on the internal request form only grant the Partner Help Desk rights to request NFRs that follow standard program guidelines. If it is determined that the partner should not pay for additional users or licenses above what the NFR program offers, the CAM or SA must make an exception request using GitLab Support's [internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/), and choose the **Other** option. (Requests outside of program guidelines will be auto-rejected if the NFR option is chosen in the form.)
+Otherwise, the NFR options on the internal request form only grant the Partner Operations team rights to request NFRs that follow standard program guidelines. If it is determined that the partner should not pay for additional users or licenses above what the NFR program offers, the CAM or SA must make an exception request using GitLab Support's [internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/), and choose the **Other** option. (Requests outside of program guidelines will be auto-rejected if the NFR option is chosen in the form.)
 
-In your request, please provide the business justification for why the partner needs NFR users or licenses in excess of the program allotment and the GitLab Support team will let you know what is needed to move forward. Director-level approval may be required. Not all requests will be granted. The CAM or SA should update the Account Notes section of the partner account in Salesforce with any pertinent details for special NFR considerations.
+In your request, please provide the business justification for why the partner needs NFR users or licenses in excess of the program allotment and the GitLab Support team will ask for approvals from your manager and the Programs team. Director-level approval may be required. Not all requests will be granted. The CAM or SA should update the Account Notes section of the partner account in Salesforce with any pertinent details for special NFR considerations.
 
 ## Customer Support, Subscription Changes and Email Updates
 When customers purchase through a partner, it is the partner's responsibility to ensure a ticket is submitted for any changes or support needs. 
@@ -159,7 +162,7 @@ If a partner is working with a customer and they need help with a technical issu
 
 To update an email address on a customer’s subscription, as well as request a license resend, the partner must submit a support request as mentioned above. Any subscription changes, even in addition to support requests, need to be done through the ticket submission process. 
 
-Channel Managers or Sales can escalate a partner or customers request to a Support Manager after they partner or customer has submitted a ticket by following the Support team's [STAR process](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html#submitting-a-support-ticket-attention-request-star--starring-a-ticket).
+Channel Managers or Sales can escalate a partner or customers ticket to a Support Manager after the partner or customer has submitted a ticket by following the Support team's [STAR process](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html#submitting-a-support-ticket-attention-request-star--starring-a-ticket).
 
 More information can be found in the [Partner Guide](https://partners.gitlab.com/prm/English/s/assets?id=404715).
 
