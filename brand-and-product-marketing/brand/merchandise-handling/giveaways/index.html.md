@@ -12,7 +12,7 @@ Examples of when a GitLab teams might host a giveaway could include:
 *  Completion of a survey by the first 300 participants
 *  Participation in a challenge
 
-GitLab Giveaways are meant to serve as recognition and celebration of a specific group within our community. If you're looking to recognize an individual community member for their contributions, please use our [Nomination for Community Swag process](/handbook/marketing/community-relations/code-contributor-program/community-appreciation/).
+GitLab Giveaways are meant to serve as recognition and celebration of a specific group within our community. If you're looking to recognize an individual community member for their contributions, please use our [Nomination for Community Swag process](/handbook/marketing/community-relations/contributor-success/community-appreciation/).
 
 ### Notes on Giveaway Processing Iterations
 
