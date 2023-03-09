@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
-title: "Channel Operations"
-description: "This page serves as the Channel Operations team page and includes standard channel reporting links, and details for managing Channel opportunities"
+title: "Partner Operations"
+description: "This page serves as the Partner Operations team page and includes standard channel reporting links, and details for managing partner opportunities"
 ---
 
 ## On this page
@@ -15,7 +15,7 @@ description: "This page serves as the Channel Operations team page and includes 
 {::options parse_block_html="true" /}
 
 
-# Welcome to the Channel Operations Page!
+# Welcome to the Partner Operations Page!
  
 ## Meet the Team
 ### Who We Are
@@ -38,7 +38,7 @@ description: "This page serves as the Channel Operations team page and includes 
 
 #### Channel Operations (Nick, Bhano, Jeff, Morgan)
 - Develop, manage, and improve operational processes for the Channel (Distributor and Reseller) sales organization
-- Provide operational support and enablement to sales and cross-functional teams for Channel related inquiries (e.g., opportunities, quotes and orders, pricebooks, reporting)
+- Provide operational support and enablement to sales and cross-functional teams for Channel related inquiries (e.g. opportunities, quotes and orders, pricebooks, reporting)
 
 Please refer to our [Channel Ops Coverage Model](https://docs.google.com/spreadsheets/d/1kzlowacL9c5bh3C5lN2FWVA9gFO8RXf2OmFg8qmd69E/edit?usp=sharing) for details on Channel Operations Specialist alignment by Geo, Channel Sales Director, and Distributor.
 
@@ -49,17 +49,17 @@ Please refer to our [Channel Ops Coverage Model](https://docs.google.com/spreads
 
 
 ### How to Contact Us
-The **#channel-programs-ops** Slack channel can be leveraged for inquiries. Both the Channel Operations Team and the Channel Programs Team monitor this slack channel.
-If you are reporting a problem or have suggestions, changes, or similar, please open an issue on the [Channel Operations Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2552402?&label_name[]=Channel%20Ops) for operational issues, or the [Channel Team’s Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1508300?label_name[]=Channel) for program issues.
+The **#channel-programs-ops** Slack channel can be leveraged for inquiries. Both the Partner Operations Team and the Channel Programs Team monitor this slack channel.
+If you are reporting a problem or have suggestions, changes, or similar, please open an issue on the [Partner Operations Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2552402?&label_name[]=Channel%20Ops) for operational issues, or the [Channel Team’s Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1508300?label_name[]=Channel) for program issues.
  
-### The Channel Operations Issue Board
-On the [Channel Operations Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2552402?&label_name[]=Channel%20Ops), each column represents a type of request (feature request, alliances, data & reporting, etc.). When you submit a request to the Channel Operations board, the team will assign the issue and add the corresponding tags. The Channel Operations Board also uses progress tags on issues to show the status of open issues. Each issue is updated regularly with notes and progress tags and should be checked before reaching out to the team for status updates. 
+### The Partner Operations Issue Board
+On the [Partner Operations Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2552402?&label_name[]=Channel%20Ops), each column represents a type of request (feature request, alliances, data & reporting, etc.). When you submit a request to the Partner Operations board, the team will assign the issue and add the corresponding tags. The Partner Operations Board also uses progress tags on issues to show the status of open issues. Each issue is updated regularly with notes and progress tags and should be checked before reaching out to the team for status updates. 
  
-To open an issue with Channel Operations and select [New Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues).
+To open an issue with Partner Operations and select [New Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues).
 
 #### Issue Templates
 
-[**Utilizing Issue Templates:**](https://docs.google.com/presentation/d/13E7WITgquG-oqnvTwP_aIh4zdqbMnRjB1NCZEX7Xc1U/edit#slide=id.g20a53d489f_0_213) In an effort to have a standard way of taking in requests from the cross-functional teams and help **guide users** through providing the right information to diagnose issues, the Channel Operations team has created issue templates.
+[**Utilizing Issue Templates:**](https://docs.google.com/presentation/d/13E7WITgquG-oqnvTwP_aIh4zdqbMnRjB1NCZEX7Xc1U/edit#slide=id.g20a53d489f_0_213) In an effort to have a standard way of taking in requests from the cross-functional teams and help **guide users** through providing the right information to diagnose issues, the Partner Operations team has created issue templates.
 
 **How to get started**
 
@@ -509,9 +509,9 @@ When a Channel Manager either receives an email alert, or sees a new registratio
 11. The Partner goes through the Proof of Execution process:
    - The partner sends the Proof of Execution (POE), customer signed statement of work (SOW), or other customer-verified proof of execution to `Partnersupport@gitlab.com`.
    - The partner completes the [POE form](https://forms.gle/1AXbStjZCKuWecTf7).
-12. The Partner Help Desk will ensure the Deal ID is listed on the POE, upload it to the opportunity, and chatter the Channel Manager. The Partner Help Desk will then update the Service Attach Deal Registration Status to Closed-Won.
-13. After the close of quarter in which the resale deal is closed-won*, Channel Operations will pull a report of Closed-Won Service Attach Deal Registrations for rebate payments. Channel Operations sends the report to Partner Help Desk.
-14. Partner Help Desk submits the payments to Coupa for reseller payouts. Resellers should receive payment within 45 days of the start of the new quarter.
+12. The Partner Operations team will ensure the Deal ID is listed on the POE, upload it to the opportunity, and chatter the Channel Manager. The Partner Operations team will then update the Service Attach Deal Registration Status to Closed-Won.
+13. After the close of quarter in which the resale deal is closed-won*, Channel Operations will pull a report of Closed-Won Service Attach Deal Registrations for rebate payments. 
+14. Partner Operations submits the payments to Coupa for reseller payouts. Resellers should receive payment within 45 days of the start of the new quarter.
 
  
 Rebate payouts will be reported and paid after each GitLab quarter close.
@@ -539,28 +539,20 @@ If an approver will not be able to approve opportunities due to PTO or some othe
 ## Letters of Authorization
 When a partner needs a Letter of Authorization, they must log into the partner portal and request one from the “Letter of Authorization” button along the top of the page. If a partner does not log in to the portal, they will not be able to access this request, ensuring that only authorized partners can access the link. 
 
-The partner will be prompted to input basic company information that will auto-fill the letter of authorization. When they click submit, an email will be sent to the Partner Help Desk, who will need to validate that the partner is authorized, and then click the “approve” button in the email. 
+The partner will be prompted to input basic company information that will auto-fill the letter of authorization. When they click submit, an email will be sent to partnersupport@gitlab.com. Partner Operations will need to validate that the partner is authorized, and then click the “approve” button in the email. 
 
 Upon approval, the letter of authorization will be automatically sent to the legal team who will approve and initial the letter before sending it to GitLab's PAO for signature. Once signed, the letter of authorization will be sent directly to the partner via email. The letter is good for one calendar year from the date on the letter. 
 
-
 ## Partner Help Desk Support and Communication
  
-**Internal Team Members:** Chatter @Partner Help Desk in Salesforce or for general questions, post in the Slack channel #channel-programs-ops. Please review [Working with Partner Help Desk](https://docs.google.com/presentation/d/1tT5xcx04mlFyuftL5ECPH1VCZ0pkhW7caqnCkM7a-Ro/edit#slide=id.p1). 
+ Please see the [Partner Support](https://about.gitlab.com/handbook/resellers/partner-support/) page.
 
 **External Communication:** Email partnersupport@gitlab.com to include a partner or other external stakeholder for help with partner-related requests. PHD team members monitor the queue and email inbox throughout the day in all time zones.  
 
-Partner Help Desk’s primary internal communication channel is the #channel-programs-ops Slack channel. For help with specific partner account records in Salesforce, please chatter @Partner Help Desk. This will automatically create a case in the Partner Help Desk (PHD) queue.  
+### Tagging Partner Operations in Salesforce
 
-**Please do not tag PHD team members directly in chatter or make a request through Slack direct message. Always use @Partner Help Desk for SFDC requests or post in #channel-programs-ops in Slack for general questions.**. This ensures our team is working as efficiently as possible for everyone and that you are covered in case the team member who replied first becomes unavailable.
-If someone is working on a case, they will continue to support until the case is closed. If a matter was resolved, but needs to be revisited, please chatter @Partner Help Desk to reopen a case.
-To Chatter the PHD team, tag @Partner Help Desk in Chatter on the related opportunity or account page and a short sentence on your request. If the PHD team needs more information or needs to pull in another team, we will follow up directly via Chatter. If you need to involve a partner, please email partnersupport@gitlab.com, instead of an individual PHD team member so any team member can jump in as something moves forward.
+Here is a general list of items you can chatter @Partner Operations for assistance with in Salesforce. Please continue to refer to our respective handbooks for in-depth information before tagging. 
 
-### Tagging Partner Operations or Partner Help Desk in Salesforce
-
-Here is a general list of items that can help you decide when to tag @Partner Operations or @Partner Help Desk in Salesforce. Please continue to refer to our respective handbooks for in-depth information before tagging. 
-
-**Partner Operations**
 Most internal Salesforce (SFDC) and Vartopia system questions and changes, including:
 - Channel Compensation Questions
 - Channel Manager Territory Mapping and Account Assignment
@@ -569,7 +561,6 @@ Most internal Salesforce (SFDC) and Vartopia system questions and changes, inclu
 - Distributor Quote Requests
 - SFDC Reporting Issues
 
-**Partner Help Desk**
 Most partner-facing questions and changes to the Impartner (Partner Portal) system, including:
 - General Channel Program Questions
 - Partner Portal Access Issues and Resources
@@ -588,7 +579,7 @@ Most partner-facing questions and changes to the Impartner (Partner Portal) syst
  
 
 ## Channel Partner Price Files
-The following price files are provided by Channel Ops in Google Sheet, Excel, and PDF format:
+The following price files are provided by Partner Ops in Google Sheet, Excel, and PDF format:
 - **Distribution Price Files** for Resale Opportunities, including reseller and distributor discounts for the main program.
 - **Public Sector Price Files** for Resale Opportunities, including reseller and distributor discounts for the main program.
 - **Partner (Direct Reseller) Price Files** for Resale Opportunities, including reseller discounts for the main program.
@@ -596,7 +587,7 @@ The following price files are provided by Channel Ops in Google Sheet, Excel, an
 
 ### How to Access the Price Files (Partners)
 
-Distributor and Reseller partners can access the [Partner Portal](https://partners.gitlab.com/English/) for the current GitLab Price File. If you have any issues accessing the Partner Portal, please contact the Partner Help Desk team at [partnersupport@gmail.com](mailto:partnersupport@gmail.com).
+Distributor and Reseller partners can access the [Partner Portal](https://partners.gitlab.com/English/) for the current GitLab Price File. If you have any issues accessing the Partner Portal, please contact the Partner Operations team at [partnersupport@gmail.com](mailto:partnersupport@gmail.com).
 
 ### How to Access and Share the Price Files (GitLab Team Member)
 
@@ -621,9 +612,9 @@ If there are any questions, please reach out to the #channel-programs-ops Slack 
 
 ## Price File Update Process
 
-At the beginning of the [second month of every quarter](https://about.gitlab.com/handbook/finance/#fiscal-year), Channel Operations will create an issue and reach out to product and professional services (PS) departments to collect information on any new changes, additions, or discontinuations of part numbers. It is the **responsibility of the product/PS departments** to provide any and all information about SKUs that will be active on the first date of the next quarter. 
+At the beginning of the [second month of every quarter](https://about.gitlab.com/handbook/finance/#fiscal-year), Partner Operations will create an issue and reach out to product and professional services (PS) departments to collect information on any new changes, additions, or discontinuations of part numbers. It is the **responsibility of the product/PS departments** to provide any and all information about SKUs that will be active on the first date of the next quarter. 
 
-Once the price book is updated, Channel Operations will tag the product and professional services team to check to make sure the information is up-to-date before publishing. The due date for this approval is five (5) business days before the end of the second month of a given quarter.*
+Once the price book is updated, Partner Operations will tag the product and professional services team to check to make sure the information is up-to-date before publishing. The due date for this approval is five (5) business days before the end of the second month of a given quarter.*
 
 The following departments/people will be tagged for gathering this information:
 
@@ -638,7 +629,7 @@ The following departments/people will be tagged for FYI/Additional Input:
 * **Deal Desk**: Jesse Rabbits
 * **PubSec Channel**: Pilar Meija
 
-After all product approvals are complete, Channel Operations will request approval in the same issue from the following Channel Teams/Individuals:
+After all product approvals are complete, Partner Operations will request approval in the same issue from the following Channel Teams/Individuals:
 
 * **Channel & Alliances**: Colleen Farris
 * **Programs:** Ed Cepulis
@@ -650,13 +641,13 @@ Please reach out to the #channel-programs-ops Slack channel for assistance.
 
 ### Internal Price File Communications
 
-Channel Operations will post a message on the slack channel #partner-fyi to share the updated Price Files and call out any major changes. 
+Partner Operations will post a message on the slack channel #partner-fyi to share the updated Price Files and call out any major changes. 
 
 ### External Price File Communications
 
 Updated Price Files will be uploaded to the Partner Portal approximately 30 days before the upcoming fiscal quarter. 
 
-Channel Operations will share a copy of the pricelists to the main contacts of each distributor and work with the distributor to ensure any applicable contract vehicles are updated (e.g., Public Sector contracts).
+Partner Operations will share a copy of the pricelists to the main contacts of each distributor and work with the distributor to ensure any applicable contract vehicles are updated (e.g., Public Sector contracts).
 
 ## SFDC Channel Manager Activity Tracker
 
@@ -677,7 +668,7 @@ The Channel Managers use a [tracking system](https://docs.google.com/presentatio
 
 **Note:** if you are creating a Business Plan for a Pubsec partner, please include “Pubsec” after partner name e.g. BoxBoat (Pubsec) FY23 Business Plan
 
-4. Please submit your contacts in the [Business Plan Sheet](https://docs.google.com/spreadsheets/d/1dL805MUQF8xJcbB7d_-wHyTM62euB9I6hVsAOW_CekE/edit#gid=1093608913)  for the Channel Operations team to grant them access.
+4. Please submit your contacts in the [Business Plan Sheet](https://docs.google.com/spreadsheets/d/1dL805MUQF8xJcbB7d_-wHyTM62euB9I6hVsAOW_CekE/edit#gid=1093608913)  for the Partner Operations team to grant them access.
 5. Review status with Select Partner during QBR’s
 
 **Feedback:** You can submit your feedback on the second tab of the [Business Plan Sheet](https://docs.google.com/spreadsheets/d/1dL805MUQF8xJcbB7d_-wHyTM62euB9I6hVsAOW_CekE/edit#gid=1093608913)
