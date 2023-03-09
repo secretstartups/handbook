@@ -555,28 +555,8 @@ Once the report is downloaded (or the event/tactic has ended and all swag has be
 - One (1) business day after the issue is due, FMC to ping the FMM in the list clean and upload issue to remind them leads are due
 - FMC will make sure leads have been provided or continue to remind the FMM, if needed
 
-# FMM Localization Process
-
-We do follow the global direction to translate content for [P0 and P1 priority countries](/handbook/marketing/localization/#priority-countries). For translating requests for P0 and P1 countries, work with our content team [following this process](/handbook/marketing/localization/#translating-content-for-campaigns).
-
-At times, there is a need to translate content outside of the priorities countries, please follow the process below. Keep in mind that only content used as part of a campaign and in support of a revenue goal will be approved.
-
-For complete details on Smartling, our translation tool, please see the [Smartling page.](/handbook/marketing/localization/smartling/)
-
-## Outside of focus countries for GitLab owned events and campaigns
-- FMM to create the Content translation issue request using the [`FMM_localization_request`](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=FMM_localization_request) issue template
-- Provide a justification
-- Outline how this content is to be used to achieve a revenue or opportunity created goal
-- Make sure it is 100% aligned to achieve sales goals
-- Need functional leader approval
-
-## Outside of focus countries for Channel for GitLab owned campaigns
-- FMM to create the Content translation issue request using the [`FMM_localization_request`](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=FMM_localization_request) issue template
-- For channel leadgen campaigns, we prefer that the Channel partner pays for the translation of assets we provide in English
-- Provide a justification
-- Outline how this content is to be used to achieve a revenue or opportunity created goal
-- Make sure it is 100% aligned to achieve partner goals
-- Needs functional leader approval
+# Counntires of focus 
+In alignment with the FY24 Marketing strategy, Field Marketing focuses on specific countries. Details can be found here in our [internal handbook](https://internal-handbook.gitlab.io/handbook/marketing/fy24-strategy/#target-markets-and-marketing-prioritization). 
 
 # Field Marketing Swag
 
@@ -665,6 +645,10 @@ Delivery options and timelines are provided during the ordering process. Any new
 ## Swag for Non-Field Marketing Teams
 
 If you are looking to order swag or event assets for a non-Field Marketing event or would like to order swag for a customer, please see [details here](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/).
+
+## AMER Field Marketing Badge and Event Check-In Process
+
+For details regarding this process, please visit our Events Page [here](/handbook/marketing/events/#amer-field-marketing-badge-and-event-check-in-process).
 
 # Field Marketing Fedex Account
 
@@ -853,11 +837,10 @@ You will note in Allocadia in the details panel if you need SA support. [Video w
 
 # Field Marketing/Channel Marketing Engagement and GTM Strategy
 
-GitLab launched its [channel sales program](https://about.gitlab.com/handbook/resellers/) in April 2020.
+WIP TO BE UPATED based on FY24. 
 
-As part of that program, each Channel Account Manager (CAM) will have a maximum of 3-5 Select Channel partners for [P0 and P1 regions](https://about.gitlab.com/handbook/marketing/localization/#priority-countries). The complete list of Select Channel Partners are identified in SFDC [here](https://gitlab.my.salesforce.com/00O4M000004aSq6). (*Please note, SFDC is the SSOT for our roster of Select Partners.)
+The complete list of Select Channel Partners are identified in SFDC [here](https://gitlab.my.salesforce.com/00O4M000004aSq6). (*Please note, SFDC is the SSOT for our roster of Select Partners.)
 
-GitLab will continuously iterate on Select Partners, so it is a best practice to check the [SFDC list](https://gitlab.my.salesforce.com/00O4M000004aSq6) frequently. Each regional Field Marketing Manager should work closely with their CAM to become familiar with the Select Partners within their respective regions and their core competencies.
 
 In order for a GitLab Partner to reach Select status, the Select Partner must:
 - Have a fully executed Partner contract in place
@@ -934,6 +917,12 @@ If you are a FMM receiving questions about the Channel Portal, then please direc
 
 Please head over to [their page](/handbook/marketing/channel-marketing/) to check out their work and process.
 For more details on what the Channel Programs team does, please head to their [page](https://about.gitlab.com/handbook/sales/channel/).
+
+# Field Marketing with Alliance Partners 
+## AWS 
+## Google 
+### Register your event with Google 
+* If you have a joint event you are running with Google and you would like for their sales and marketing teams to help recruit attendees, you must [register your event here](https://docs.google.com/forms/d/e/1FAIpQLSfWoX35znH5PpR2LTlL7DQzCf3CoW2KkOc9egEa_FoaH6XC4A/viewform). 
 
 # Field Marketing - Public Sector
 
