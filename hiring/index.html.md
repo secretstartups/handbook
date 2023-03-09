@@ -10,6 +10,29 @@ description: "Landing page for many of the handbook pages the talent acquisition
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Executive Summary
+Over the next 3 years, GitLab has a [strategy](https://about.gitlab.com/company/strategy/#three-year-strategy) to ensure GitLab is the default when customers buy DevSecOps software, mature our platform, and grow GitLab careers and beyond. 
+
+As a Talent Acquisition team, we are responsible for enabling the hiring of talent that is essential to achieve this strategy. This page outlines our vision, mission, and a fiscal year strategic roadmap to position GitLab for success. 
+
+## Introduction 
+At the core of our team’s vision, mission, and strategy is our ability to impact GitLab’s overarching [mission](https://about.gitlab.com/company/mission/): to make it so that **everyone can contribute**. When **everyone can contribute**, users become contributors and we greatly increase the rate of innovation. 
+
+As a Talent Acquisition team, we have an outsized impact on GitLab’s ability to make this mission a reality, by connecting top talent to profound careers from wherever they are in a truly distributed, remote workforce. 
+
+### Talent Acquisition Vision Statement
+To create globally inclusive access to opportunities so that **everyone can contribute**.
+
+### Talent Acquisition Mission Statement
+It is the Talent Acquisition Team’s mission to predictably build distributed, representative teams that enable our vision of creating globally inclusive access to opportunities so that **everyone can contribute**. 
+
+### Our Guiding Principles
+As we set out over the next decade to achieve this vision, we will continue to rely on core guiding principles to define how we build toward the future. 
+  1. **Experience**: Stakeholder experience is central to all that we do. We are not purely a service provider but a partner and advisor in creating a best-in-class experience while building GitLab as a company. The Talent Acquisition team looks after building an experience for our customers, stakeholders, and partners that stands true to our [CREDIT](https://about.gitlab.com/handbook/values/) values and provides a level of care we are proud of - no matter the outcome. 
+  1. **Inclusivity**: Applying best practices in the craft of Talent Acquisition has an outsized impact on our ability to build a representative workforce here at GitLab. By embedding inclusivity as a guiding principle, we design fair and equitable processes into the fabric of all that we do, rather than retroactively adding parameters to solve systemic challenges in the societies we exist in   
+  1. **Predictability**: Our ability to have the right people, in the right jobs, at the right time is imperative to our ability to execute our commitments and plans as an organization. In order to achieve that, our team must design with an eye for accuracy and forecastability in any program, process or experience we enable. 
+
+
 ## Hiring pages
 
 - [Interviewer Prep Requirements](/handbook/hiring/interviewing/)
