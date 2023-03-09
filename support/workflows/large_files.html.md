@@ -43,6 +43,29 @@ When the customer uploads files, an internal comment will be made on the ticket
 the FTP user was generated for. To access the file, use the same credentials
 generated previously.
 
+### Windows users and archive files
+
+If a customer using a Windows machine uploads any files, it's possible their FTP
+client may change the file slightly. See
+[here](https://unix.stackexchange.com/questions/203151/remove-special-pattern-m-from-script-which-got-appended-after-ftp-from-windows)
+
+If the customer uploaded any archives, and you attempt to extract the archive,
+it may come up with an invalid format error:
+
+```
+$ tar --list -f gitlabsos.main-a_20230215115744.tar.gz
+
+gzip: stdin: invalid compressed data--format violated
+tar: Child returned status 1
+tar: Error is not recoverable: exiting now
+```
+
+To resolve this, force `dos2unix` to run on the archive first:
+
+```
+dos2unix -f gitlabsos.main-a_20230215115744.tar.gz
+```
+
 ## File deletion
 
 When the ticket the FTP user was generated for is closed, the FTP user (and
