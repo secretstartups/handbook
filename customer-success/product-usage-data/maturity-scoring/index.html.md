@@ -129,11 +129,24 @@ The following metrics are used to determine a customer's DevSecOps Adoption Scor
 [Adoption Guide Reference Link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#adoption-guide)
 <br>
 
+#### Additional CSM enablement 
+In this (internal) [enablement session](https://youtu.be/MQkIlvlsBUA), CSOps & a fellow CSM will walk you through:
+- How & Why we chose the CD Metrics
+- How thresholds are established
+- How to calculate and build a customer-ready presentation deck
+- What are deployments? Why do they matter? How to drive the conversation with customers
+- Three customer scenarios with different deployment strategies
+
+<!-- blank line -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQkIlvlsBUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- blank line -->
+
 #### Resources
 - [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (internal only)
 - [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1T4vINvjXu4dGBEUHdZb3ohxJG91p11QC1zOWrUNHD4E/edit?usp=sharing) (internal only)
     - In order to generate the slides shown in the video above - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
         - Instructions on using the sheet can be found in this [internal video](https://youtu.be/oWuX_jtLnLI)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's CI Metrics to export and calculate the Adoption score
+
 
 ##### **Disclaimer:**  The scoring criterias & thresholds will continue to evolve as we iterate
