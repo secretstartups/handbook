@@ -39,14 +39,11 @@ One fiscal quarter (purchase date) with 90% of devsecops customers adopting with
 | DRI                   | Sherrod Patching      | VP, Customer Success Management        |
 | Member                | Francis Ofungwu       | Field CISO                        |
 | Member                | Jonathan Fullam       | Sr Director, Solution Architecture           |
-| Member                | Melani  Ross          | Director, Professional Services |
-| Member                | Tanya Helin           | RVP, Enterprise East                   |
-| Member                | Rich Phillips         | ASM, Enterprise East         |
+| Member                | Tanya Helin           | RVP, Enterprise East                   || Member                | Rich Phillips         | ASM, Enterprise East         |
 | Member                | Nick Christou         | Director of Sales, SMB                         |
 | Member                | Hillary Benson        | Director, Product Management            |
-| Member                | Nick Wilson           | Sr Product Manager - Govern  |
 | Member                | Derek Ferguson        | Sr Product Manager - Secure and Govern | 
-| Member                | Saumya Upadhyaya      | Principal Product Marketing Manager |
+| Member                | Brian Mason           | Product Marketing Manager |
 | Member                | Jeff Beaumont         | Sr Director CS Operations |
-| Member.              | Rob Parker             | Sr Director, Data & Analytics | 
+| Member.              | Klaudia Magda           | Sr Data Scientist | 
 
