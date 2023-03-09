@@ -782,7 +782,7 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 * **Confirm Date:** The webcast idea issue (date request issue) must be complete and confirmed before creation of the epic, issues, and workback.
 * **Campaign Webcast Epic:** campaign manager creates webcast epic (using code below)
 * **Related Issues:** campaign manager creates the issues as designated in the GANTT sheet, and associates to the campaign webcast epic
-* **Technical Demo Series** After the epic for a technical demo is created, add it to the appropriate parent epic. This allows us to see all of the related technical demos at a glance. Parent epics can be found [here](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2291) and are denoted with `Top Level Epic` (ex, [Technical Demo Series] DevSecOps Demo (Top Level Epic))
+* **Technical Demo Series** After the epic for a technical demo is created, add it to the appropriate parent epic. This allows us to see all of the related technical demos at a glance. Parent epics can be found [here](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3553) and are denoted with `Top Level Epic` (ex: [FY24 Tech Demo Series] Automated Software Delivery)
 
 [View the webcast workback timeline GANTT here](https://docs.google.com/spreadsheets/d/1A4c2OodEAsOlN4Ek-rBiLlwkdF0AvX5YBiY4mhkZd-M/edit#gid=666473040)
 
