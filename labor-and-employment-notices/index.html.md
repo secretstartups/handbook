@@ -53,8 +53,8 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### California
 * [California Law Prohibits Workplace Discrimination and Harassment](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/10/Workplace-Discrimination-Poster_ENG.pdf)
 * [Transgender Rights in the Workplace](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2019/08/DFEH_TransgenderRightsWorkplace_ENG.pdf)
-* [Your Rights and Obligations as a Pregnant Employee](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/12/Your-Rights-and-Obligations-as-a-Pregnant-Employee_ENG.pdf)
-* [Family Care & Medical Leave & Pregnancy Disability Leave](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/12/CFRA-and-Pregnancy-Leave_ENG.pdf) 
+* [Your Rights and Obligations as a Pregnant Employee](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2023/01/Your-Rights-and-Obligations-as-a-Pregnant-Employee_ENG.pdf)
+* [Family Care & Medical Leave & Pregnancy Disability Leave](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2023/01/CFRA-and-Pregnancy-Leave_ENG.pdf) 
 * [Industrial Welfare Commission Wage Order](https://www.dir.ca.gov/IWC/IWCArticle04.pdf)
 * [California Minimum Wage](https://www.dir.ca.gov/iwc/MW-2022.pdf)
 * [Paid Sick Leave](https://www.dir.ca.gov/DLSE/Publications/Paid_Sick_Days_Poster_Template_(11_2014).pdf)
@@ -339,7 +339,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Minimum Wage](https://dol.ny.gov/system/files/documents/2021/12/ls207.pdf)
 * [Wage Theft Prevention](https://dol.ny.gov/system/files/documents/2021/03/p715.pdf)
 * [Paid Family Leave](http://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/pfl-at-a-glance-2023.pdf)
-* [New York State Disability Statement of Rights (DB217S)](http://www.wcb.ny.gov/content/main/forms/AllForms.jsp)
+* [New York State Disability Statement of Rights (DB217S)](https://www.wcb.ny.gov/content/main/forms/db271s.pdf)
 * [Rights of Nursing Mothers to Express Breast Milk in the Work Place](https://dol.ny.gov/system/files/documents/2021/02/ls702_guidelines_regarding_the_rights_of_nursing_mothers_to_express_breast_milk_in_the_work_place.pdf)
 * [Child Labor Law - permitted working hours](https://dol.ny.gov/system/files/documents/2021/03/ls171.pdf)
 * [Prohibition of Employer Retaliation](https://dol.ny.gov/system/files/documents/2022/02/ls740_1.pdf)
@@ -376,7 +376,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Sick Time](https://www.oregon.gov/boli/employers/Documents/BOLI_SickLeave.pdf)
 * [Oregon OSHA's COVID-19 Standard for all Workplaces](https://osha.oregon.gov/OSHAPubs/5504.pdf)
 * [Workplace Accommodations Notice](https://drive.google.com/file/d/1qe-dqjG5ClcglfGFo75bojPXgIAkmAg7/view?usp=sharing)
-* [Paid Leave Notice Poster](https://paidleave.oregon.gov/DocumentsForms/Paid-Leave-ModelNotice-Poster-EN.pdf)
+* [Paid Leave Notice Poster](https://d1o0i0v5q5lp8h.cloudfront.net/paidleave/live/assets/resources/Paid-Leave-ModelNotice-Poster-EN.pdf)
 
 ### Pennsylvania
 * [Minimum Wage Law](https://www.dli.pa.gov/Individuals/Labor-Management-Relations/llc/minimum-wage/Documents/LLC-1.pdf))
