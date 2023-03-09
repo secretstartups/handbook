@@ -105,15 +105,14 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
 ### Equity Review Timeline
 
 ##### March:
-1. March 9th: The equity review cycle opens in Workday for Directors and above to plan refresh grants for eligible team members.
-1. March 15th: Directors and Senior Directors have completed their recommendations in Workday. 
-1. March 16th: VPs review and plan the refresh grants via their provided sheets. 
-1. March 20th: Approved through VP level and sent to e-group for initial review
-1. March 22nd: Total Rewards Review & Pay Equality Analysis
-1. March 27th: E-Group to review and approve final compensation changes
-1. March 28th: Total Rewards will share all equity refresh grants to the Compensation Group for final approval
-1. March 30th: All grants approved by the board or delegate
-1. April 4th - April 14th: Total Compensation statements generated and managers to communicate all grants to team members
+1. March 9th, 12 PM PT: The equity review cycle opens in Workday for Directors and above to plan refresh grants for eligible team members.
+1. March 15th, 12 PM PT: Directors/Senior Directors complete their recommendations in Workday. 
+1. March 16th, 8 AM PT: VPs complete their recommendations for their reports and review/approve the recommendations of their Directors/Senior Directors.
+1. March 16th, 12 PM PT: Compensation team completes audits and shares results with E-Group leaders. 
+1. March 17th, 5 PM PT: E-Group reviews and approves final equity refresh grant changes.
+1. March 20th: Total Rewards shares all equity refresh grants to the Compensation Group for final approval by EOD.
+1. March 21st: All grants are approved by the Comp Group and the board or delegate.
+1. March 27th - April 7th: Total Compensation statements are generated and managers communicate all grants to team members.
 
 After the communication window has closed, grants will be updated in E*Trade over the next few weeks.
 
@@ -163,14 +162,13 @@ If a manager has a team member on their team who is red circled (paid over the t
 
 #### Equity
 
-Performance Factors are also used the primary calibration tool for refresh equity grants, reinforcing GitLab’s pay for performance Compensation Philosophy. Managers are also encouraged to use the ***Growth Potential Factor*** (developing - growing - exceeding) as an additional input to calibrate on the equity refresh. The refresh is a long term incentive which can reinforce the long term growth potential of the team member.
+Performance Factors are also used as the primary calibration tool for refresh equity grants, reinforcing GitLab’s pay for performance Compensation Philosophy. Managers are also encouraged to use the ***Growth Potential Factor*** (developing - growing - exceeding) as an additional input to calibrate on the equity refresh. The refresh is a long term incentive which can reinforce the long term growth potential of the team member.
 
 In calibrating the equity refresh, we recommend managers to take the following into account:
 * Performance Factor
 * [Growth Potential factor](/handbook/people-group/talent-assessment/#what-is-growth)
 * Unvested Equity Holdings
 * Value Vesting the next fiscal year 
-
 
 ### Key Talent 
 
@@ -295,13 +293,37 @@ Each team member who receives a base salary increase due to promotion, market ad
 
 ### Determining RSU Refresh Grants
 
-To be added closer to launch. 
+In determining the equity refresh grants for team members, Total Rewards recommends Directors and above utilize the following guidance:
+
+1. Review the **Performance Factor**: 
+    * Developing Performance = no equity refresh grant. 
+       * Team members rated Developing Performance are assumed to not be receiving an equity refresh grant. A trade off may be required from another team member if you decide to give a team member rated Developing a grant.
+    * Performing Performance = the recommended equity refresh grant is between the minimum and median of the range. 
+    * Exceeding Performance = the recommended equity refresh grant is between the median and maximum of the range. 
+    * If allocating more or over any of the recommended ranges above, please be sure to align your budget as this may require a trade off from other refresh equity grants.
+1. Review the **Growth Potential Rating**: 
+    * After following the guidance on Performance ratings, Directors and above have the discretion to factor in Growth Potential within that guidance. This means that Growth Potential can help determine the place within the equity range to be in the beginning or more towards the higher end of the range. 
+1. **Key Talent**:
+    * For team members designated as key talent, Directors and above are encouraged to review team members' total compensation (cash + equity) and recommend equity refresh grants to ensure team members are truly incentivized through the next fiscal year in the total compensation package.
+1. Other contextual points that can be considered include:
+    * Increase provided during the Cash Compensation Review cycle. 
+       * The total compensation package should be taken into consideration when allocating a grant. For example, if a team member received a smaller cash increase due to budget limitations, you may want to consider recommending a larger equity refresh grant. If a team member received a larger cash increase, you may want to consider a smaller equity grant. 
+       * The cash compa ratios in FY23 & FY24 have been provided in the smart panel (blue box located to the right of the planning grid) to show how the compa ratios shifted as a result of the cash compensation review cycle.
+       * If you need additional context around the decisions made during the cash compensation review cycle, feel free to use the resources available to you (i.e. Workday reports, Compensation Statements, PBPs, etc.)  
+    * Total unvested holdings and value vesting over the next year. 
+       * Particularly, these can be used to evaluate how a team member’s holdings compare to that of their peers and to understand their potential earnings over time. It is important to compare holdings of team members within the context of their equity refresh range and tenure at GitLab as these factors may influence differences in total holdings.
+       * Planners are also encouraged to review how a team member's total unvested holdings compares to their value vesting over the next year. For example, if these two numbers are similar that means the team member will be vesting a large portion of their remaining unvested value over the next year. A refresh grant allocated during this cycle can be used to retain this team member further into the future.
+    * Recent promotion. 
+       * It is recommended to provide a team member who received a promotional grant in the last year a refresh equity grant if their performance is satisfactory since these are 2 different reward programs and typically the promotional grant is smaller than what a team member may receive during the equity refresh cycle. 
+          * The promotional grants proposed in Q1 FY24 have been shown on the grid since they are still pending approval in March and therefore are not included in the unvested holdings fields.
+    * Hire Date. 
+       * A more recently hired team member’s tenure can be used along with how their unvested holdings compare to their peers. The eligibility cut off for the cycle is September 5th (6 months) so the recommendation would not be to use hire date as a major criteria in determining whether a team member receives a grant. Rather, this can be used in conjunction with other contextual data points. For example, if a team member was provided a large grant when hired, then you may want to dial down their grant to align their unvested holdings with their peers.
+1. Planners cannot recommend grants above 2x the maximum of the equity range or recommend a grant below the minimum of the equity range. 
 
 ### Director and Above Review in Workday
 
-1. Navigate to your Workday inbox and click on the task titled **FY24 Annual Equity Review (due 2023-03-20 for Director/Sr Director)**
+1. Navigate to your Workday inbox and click on the task titled **FY24 Annual Equity Review**
 1. After logging in, you will land on the Organization Summary page which includes an overview and status of your equity budget and spend for team members who report to or roll up to you.
-   * ![equity](/images/handbook/people-group/equity.jpeg)
 1. Similar to cash compensation planning, you will enter your equity recommendations into the planning grid. The grid contains the same 5 leftmost columns. However, there is only one grid view and there is a smart panel on the right that updates based on the selected team member. Additional information is included to add context and help you with your equity refresh grant allocations:
    * FY23 Job Profile and Job Grade
    * Ongoing equity range
@@ -318,17 +340,19 @@ To be added closer to launch.
 1. Enter your refresh grant amounts in the **Proposed Refresh Grant Amount (USD)** column. _Please be sure to include a comment of justification if allocating above the refresh grant range maximum unless directed to do so._
 1. After entering all your recommendations, select _Continue_ and _Submit_.
 
+**For more detailed instructions with screenshots, please reference the Workday Job Aid shared with all planners.**
+
 ### Budget In Workday 
 
 Budgets are sent down to planners per the guidelines provided above in the [Determining RSU Refresh Grants section](/handbook/total-rewards/compensation/compensation-review-cycle/#determining-rsu-refresh-grants).
 
 ### Communicating Equity Refresh Grant
 
-All equity refresh grants will be finalized during the grant approval to take place on March 30th. Once fully approved, Total Compensation statements will be generated by April 4th to be used in conversations with team members. Visibility to these grants in Workday will be limited until April 14th in order to allow managers sufficient time to communicate. Managers will have access to the Total Compensation statement on the team member's record once generated. 
+All equity refresh grants will be finalized during the grant approval to take place on March 21st. Once fully approved, Total Compensation statements will be generated by March 27th to be used in conversations with team members. Visibility to these grants in Workday will be limited until April 10th in order to allow managers sufficient time to communicate. Managers will have access to the Total Compensation statement on the team member's record once generated. 
 
 #### Total Compensation Statement
 
-To update by the end of February.
+To update in March prior to statement launch.
 
 ## Compensation Program Budget
 
