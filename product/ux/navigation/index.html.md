@@ -20,11 +20,24 @@ Navigation refers to elements that aid users in moving around GitLab, which incl
 
 Listed in [Pajamas](https://design.gitlab.com/patterns/navigation) are the elements that impact navigation.
 
+## When to consider making a change to the navigation
+
+New additions are very deliberate and are made to optimize user workflows. Proposals should include a business case or data that supports it as key/foundational functionality within GitLab.
+
+We do not add new items in order to:
+
+- Improve discoverability of new features. Instead, look for other opportunities to highlight the functionality throughout the product.
+- Optimize for the potential future. We should be forward thinking without over optimizing. As features are developed and added, we can look into what changes may need to occur to support a growing feature.
+
+
 ## How to propose a change that impacts navigation
 
-Before opening an issue, review the [guidelines in Pajamas](https://design.gitlab.com/patterns/navigation). It is worth checking the [direction page](/direction/manage/foundations/navigation_settings/) to see how your proposal aligns or conflicts with upcoming changes. If you would like to propose a navigation change, then you can use this [issue template](https://gitlab.com/gitlab-org/gitlab/-/issues\new?issuable_template=Navigation%20Proposals) to kick off a discussion with the `group::foundations` team. 
+Note: We are not adding top-level navigation changes until 6 months after our new navigation launches.
 
-The [Product Manager for Foundations](/handbook/product/categories/#foundations-group) must approve any proposal as the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual). They will consult with UX counterparts to consider the impact on the user experience based on user research and business needs. UX and Product Management leadership may also be engaged for feedback when necessary.
+1. Before opening an issue, review the [elements and patterns for navigation in Pajamas](https://design.gitlab.com/patterns/navigation). It is worth checking the [direction page](/direction/manage/foundations/navigation_settings/) to see how your proposal aligns or conflicts with upcoming changes. 
+1. If you are ready to propose a navigation change, use this [issue template](https://gitlab.com/gitlab-org/gitlab/-/issues\new?issuable_template=Navigation%20Proposals) to kick off a discussion with the `group::foundations` team. 
+1. The [Product Manager for Foundations](/handbook/product/categories/#foundations-group) must approve any proposal as the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual). They will consult with UX counterparts to consider the impact on the user experience based on user research and business needs. UX and Product Management leadership may also be engaged for feedback when necessary.
+1. When you have approval and are ready to start implementation, then follow the [GitLab Docs on adding items to the navigation](https://docs.gitlab.com/ee/development/navigation_sidebar.html#adding-page-specific-vue-content).
 
 ### Utilizing feature flags
 
