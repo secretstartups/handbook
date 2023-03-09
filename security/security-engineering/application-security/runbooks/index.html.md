@@ -36,6 +36,7 @@ _- You're on HackerOne rotation and have to deal with a hard report_
 - [Holiday and Friends and Family day coverage](./holiday-coverage.html)
 - [Gem Review Guidelines for AppSec Engineers][10]
 - [FedRAMP vulnerabilities triage runbook and guidance][11]
+- [How to handle upstream security patches?][12]
 
 [1]: ./hackerone-process.html
 [2]: ./handling-s1p1.html
@@ -48,6 +49,7 @@ _- You're on HackerOne rotation and have to deal with a hard report_
 [9]: ./scw-engagement-plan.html
 [10]: ./gem-review-guidelines.html
 [11]: ./fedramp-scanners-process.html
+[12]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/runbooks/upstream_security_patches.md
 [Verifying Security Fixes]: ./verifying-security-fixes.html
 [AppSec Review Template Process]: ./review-process.html
 [Investigating Package Hunter Findings]: ./investigating-package-hunter-findings.html
