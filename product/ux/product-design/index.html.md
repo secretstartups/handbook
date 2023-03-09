@@ -22,6 +22,8 @@ Each Product Designer is assigned to an area of our product, called Stage Groups
 Information about product categories and links to team members and direction pages can be found [here](/handbook/product/categories/).
 
 Some UX teams have documented detailed information about their ways of working and stage groups, and these can be found here: 
+* [Dev](/direction/dev/)
+    *  [Create UX](/handbook/product/ux/stage-group-ux-strategy/create/)
 * [Ops](/direction/ops/) (`@gitlab-com/gitlab-ux/ops-ux`)
     * [CI/CD](/handbook/product/ux/stage-group-ux-strategy/ci-cd/) (`@gitlab-com/gitlab-ux/cicd-ux`)
         * [Verify UX](/handbook/product/ux/stage-group-ux-strategy/verify/)
