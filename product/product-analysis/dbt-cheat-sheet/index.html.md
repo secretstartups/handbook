@@ -82,8 +82,8 @@ CLONE PROD.common.dim_ping_metric
 
 Note: the schema must already exist in your development database in order to clone the model
 
-<details markdown="1">
-  <summary>How to create a new schema in your development database</summary>
+<details><summary>How to create a new schema in your development database
+</summary>
 
 ```
 CREATE SCHEMA IF NOT EXISTS {DEV_DATABASE}.{SCHEMA_NAME};
