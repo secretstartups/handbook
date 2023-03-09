@@ -76,3 +76,4 @@ This Working Group has the following goals:
 | Member             | Artur Fedorov         | Senior Frontend Engineer, Secure                                  |
 | Member             | Frédéric Caplette     | Senior Frontend Engineer, Verify:Pipeline Authoring               |
 | Member             | Eduardo Sanz Garcia   | Senior Frontend Engineer, Manage:Authentication and Authorization |
+| Member             | Ross Byrne            | Fullstack Engineer, Growth:Acquisition                            |
