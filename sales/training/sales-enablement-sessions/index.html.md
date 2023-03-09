@@ -23,9 +23,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Mar 9 | FY24-Q1 Revenue Play | Product Marketing |
 | Mar 16 | Alliances: OCI Enablement | Alliances Team |
-| Mar 23 | FY24-Q1 Competition Corner  | Joe K. |
+| Mar 23 | VSA Tracking  | TBD |
 | Mar 30 | Positioning Professional Services | Bryan M. & Jonathan F. |
 | Apr 6 | ISV Partner Program Launch | Alliances Team |
 | Apr 13 | FY24-Q1 - Channel Program Update  | Channel Team |
@@ -40,6 +39,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-03-09 | **[FY24-Q1 Revenue Play](https://youtu.be/Hii30ErvqE8)** | Private |
 | 2022-02-23 | **[Sales Ops Update: Quote Studio](https://youtu.be/l46EeHRuVWw)** | Private |
 | 2022-02-09 | **[Partner Solution Showcase](https://youtu.be/5XjvEjjfC14)** | Private |
 | 2023-02-02 | **[SKO Preview](https://youtu.be/9FnxFK9RKzM)** | Private |
