@@ -125,7 +125,7 @@ The project owner is responsible for following the steps below to create the epi
 * [ ] [Pathfactory track issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) (only open if we receive and can use recording)
 
 ## Post event tasks:
-- [ ] [Ordering a swag appreciation gift](https://about.gitlab.com/handbook/marketing/community-relations/code-contributor-program/community-appreciation/) for speakers
+- [ ] [Ordering a swag appreciation gift](https://about.gitlab.com/handbook/marketing/community-relations/contributor-success/community-appreciation/) for speakers
 - [ ] [Request add to Resources](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition)
 
 #### Opt in language applicable to all scenarios below and all geographies:

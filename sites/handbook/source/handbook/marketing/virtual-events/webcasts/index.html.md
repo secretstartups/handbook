@@ -175,7 +175,7 @@ Create a [webcast date request issue](https://gitlab.com/gitlab-com/marketing/de
 **Step 3: Executing the webcast**
 * Campaign Manager acts as the project manager and the moderator for the webcast
   + *Make sure the slides and that the webcast is made available as on-demand asset post webcast*
-* If applicable, [set up a swag link](/handbook/marketing/community-relations/code-contributor-program/community-appreciation/) to give to the partner presenter as a thank you.
+* If applicable, [set up a swag link](/handbook/marketing/community-relations/contributor-success/community-appreciation/) to give to the partner presenter as a thank you.
 
 **Step 4: Post-event follow up**
 * Work with the Campaign Manager on the follow up email for attendees and no shows of the webcast. The follow-up email(s) should be prepped and ready to go (minus links to the recording) 48 hours prior to the live event. The following is minimum guidance for what should be included in the follow-up email:
