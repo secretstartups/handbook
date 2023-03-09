@@ -169,6 +169,10 @@ The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), 
 
 The [IT - Consolidated Projects Roadmap](https://docs.google.com/spreadsheets/d/1ojnTFGB2iYJz9kNPYdoLc4PeyDqAN60gu9cQBrKpHJQ/edit?pli=1#gid=955721517) is available for internal team members to track IT planned initiatives.
 
+### Weekly Project Update
+
+The Business Technology team uses [Rolly](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues/?sort=created_date&state=opened&label_name%5B%5D=EntApps-weekly-rollup&first_page_size=20) to communicate project status, activities in progress and any risks or blockers. 
+
 
 ## Career Opportunities
 
