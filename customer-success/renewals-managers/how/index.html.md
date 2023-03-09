@@ -9,7 +9,7 @@ title: Renewals Managers - How we do it
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the Renewals Manager handbook pages [Home](https://about.gitlab.com/handbook/customer-success/renewals-managers/Home) or [What we do](https://about.gitlab.com/handbook/customer-success/renewals-managers/What) for additional content on how renewals managers execute their tasks. 
+View the Renewals Manager handbook pages [Home](https://about.gitlab.com/handbook/customer-success/renewals-managers/home) or [What we do](https://about.gitlab.com/handbook/customer-success/renewals-managers/what) for additional content on how renewals managers execute their tasks. 
 
 ---
 
@@ -128,4 +128,4 @@ The renewals organization puts a focus on execution through a balanced series of
 - Closing Velocity: Average quote to close time (measured by stage progression)
 - Customer Satisifacation: NPS, CSat scores 
 
-I
+

@@ -8,7 +8,7 @@ title: Renewals Managers - What we do
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the Renewals Manager handbook pages [How We Do It](https://about.gitlab.com/handbook/customer-success/renewals-managers/How) or [Home](https://about.gitlab.com/handbook/customer-success/renewals-managers/Home) for additional content on how renewals managers execute their tasks. 
+View the Renewals Manager handbook pages [How We Do It](https://about.gitlab.com/handbook/customer-success/renewals-managers/how) or [Home](https://about.gitlab.com/handbook/customer-success/renewals-managers/home) for additional content on how renewals managers execute their tasks. 
 
 
 ---
