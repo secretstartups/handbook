@@ -295,6 +295,9 @@ There are set location options in Greenhouse to make this possible. Recruiters c
 
 If you have a job that needs to show up in a different subset of countries, you can choose the most appropriate location tag and manually adjust the countries where that job shows up by following the instructions under the "Publishing jobs to LinkedIn" section.
 
+#### Preventing a job posting from appearing on LinkedIn
+
+To prevent a job from ever being posted on LinkedIn, include the tag #LI-DNI somewhere in the job description. This will indicate to the LinkedIn job wrapping system to ignore this job and it will not be posted on LinkedIn.
 
 #### Adding additional job posting rules for LinkedIn postings
 
