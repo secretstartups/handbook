@@ -1,0 +1,53 @@
+---
+layout: handbook-page-toc
+title: Product Intelligence Group
+description: "The Product Intelligence draft documentation for new proposed event system"
+---
+# Product Intelligence Events
+
+Product Intelligence events provide the ability to record information about different actions occurring in a GitLab system installation.
+
+## Event
+
+Everything starts with an event. An event can be any action happening in a system. Such actions might be initiated by user interaction like displaying a Merge Request page or hovering the mouse cursor over the top navigation search. Other actions can result from background system processing like scheduled pipeline succeeding or receiving API calls from 3rd party system. Regardless of the sources if some action is useful for drawing some insights and helping make more educated business decisions, that action can produce persistent record holding information that it has occurred. The persistent record would be later called an event record, and besides holding information about some specific action happening in the system it can contain additional details about the context (state of GitLab system) that accompanied this action.
+
+Despite the fact that events are at the center of Product Intelligence, they are unable to provide complete information that can power business decisions. The information that single action happened is not informative enough and might be caused by a coincidence, in order to have a robust foundation it is necessary to look for sets of events sharing common traits. For example, a single event documenting a paid user visiting Merge Request page after a new feature was released tells nothing about the success of this new feature. However, if one counts the number of Merge Request page view event happening in the week before the new feature release and then compares it with the number of events for the week following the feature release, then that person will be able to gauge if the new feature increased popularity of Merge Request page.
+
+Described in the example process of counting events based on common traits in defined time frames is the process that leads to the creation of a second important entity in Product Intelligence: a metric.
+
+## Metric
+
+A metric is a piece of Product Intelligence data that results from analyzing sets of event records defined by some common traits and limited to some time frame. Metrics are a crucial counterpart for events allowing them both to work in tandem and provide deep and meaningful insights that help make better business or product decisions.
+
+In the following section of this guide, you will be familiarized with technical details on how to configure your metrics, and events and who tie them together.
+
+## Implementation
+
+### Event
+
+#### Definition
+
+#### Instrumentation
+
+#### Life cycle
+
+### Metric
+
+### Design
+
+You can use Snowplow events on SaaS to create ad hoc metric without definition in order to explore data and prototype metrics
+before creating metrics definitions and including them into reporting from self-managed instances
+
+#### Definition
+
+#### Instrumentation
+
+#### Life cycle
+
+## Using Product Intelligence data
+
+### Event dictionary
+
+### Metric dictionary
+
+### Data Visualization
