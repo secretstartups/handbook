@@ -120,6 +120,10 @@ To ensure the health and safety of our team members in Germany, and to maintain 
 
 ### United Kingdom
 
+## Specific to UK based employees
+
+[GitLab LTD (UK) Homeworking and Flexible Working Policy](https://docs.google.com/document/d/1zUNgTR-PBPNbL0mNJMNs8kSDOJm_VDqil_Rv3EHAb2E/edit?usp=sharing)
+
 **Health and Safety**
 
 [GitLab Ltd Health and Safety Risk Assessment](https://docs.google.com/document/d/1rJmwBW6eP7Db5VF2_GlFBr-DbDQfLbEHkn-IUHzekhM/edit?usp=sharing)
