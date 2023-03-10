@@ -87,6 +87,52 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
 Please reference this page for an overview of the [CSM Rhythm of Business (daily to yearly)](https://about.gitlab.com/handbook/customer-success/csm/rhythm/)
 Please reference this page for an overview of the areas your CSM will engage with you in: [CSM Points of Engagement](/handbook/customer-success/csm/services/)
 
+### Customer Journey
+
+![GitLab Customer Journey Map](/images/handbook/customer-success/customer-journey-map.png)
+
+
+<table>
+<thead>
+  <tr>
+    <th>Journey Stage</th>
+    <th>Activities</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Pre-Sales & Alignment</td>
+    <td><ul><li><a href="/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/">Value Stream Assessment</a></li>
+    <li><a href="/handbook/customer-success/pre-sales-post-sales-transition/">Sales to CS Handoff</a></li>
+    <li><a href="/handbook/customer-success/csm/engagement/#customer-personas">Identify Personas</a></li></ul></td>
+  </tr>
+  <tr>
+    <td>Onboard</td>
+    <td><ul><li><a href="/handbook/customer-success/csm/onboarding/#kickoff-call">CSM Kickoff & Intro</a></li>
+    <li><a href="/handbook/customer-success/csm/onboarding/#1st-cadence-call-future-growth-discussion--checklist">Establish Cadence Calls</a></li>
+    <li><a href="/handbook/customer-success/csm/success-plans/">Create Success Plan</a></li></ul></td>
+  </tr>
+  <tr>
+    <td>Enable</td>
+    <td><ul><li><a href="handbook/customer-success/csm/workshops/">Enablement Workshops</a></li>
+    <li><a href="/handbook/customer-success/product-usage-data/use-case-adoption/">Measure Primary Use Case Adoption</a></li></ul></td>
+  </tr>
+  <tr>
+    <td>Expand</td>
+    <td><ul><li><a href="/handbook/customer-success/product-usage-data/use-case-adoption/">Adopt Additional Use Cases</a></li>
+    <li><a href="/handbook/customer-success/csm/stage-enablement-and-expansion/">Expansion Discovery</a></li></ul></td>
+  </tr>
+  <tr>
+    <td>Optimize & Renew</td>
+    <td><ul><li><a href="/handbook/customer-success/csm/ebr/">Executive Business Review</a></li>
+    <li><a href="/handbook/customer-success/csm/risk-mitigation/">Ongoing Risk Review</a></li>
+    <li><a href="/handbook/customer-success/csm/renewals/">Renewal Discussions</a></li></ul></td>
+  </tr>
+</tbody>
+</table>
+
+
+
 ## FY24 Annual OKRs (Big Rocks)
 
 **Objective:**  The 3 ‘big rocks’ to take on in FY24 with the overall goal of moving our team forwards. These rocks need to move us forwards as a team and as individuals, enabling us to scale, be impactful, and be inspired/fulfilled in our roles. 
@@ -162,9 +208,8 @@ Position CSMs to identify opportunity & risk through excellent account managemen
 - [CSM PTO Guidelines](/handbook/customer-success/csm/pto/)
 - [CSM READMEs](/handbook/customer-success/csm/readmes/) (Optional)
 
-### Customer Journey
 
-##### CSM-Assigned:
+##### CSM-Assigned
 
 - [Transitioning a Customer from Pre-Sales to Post-Sales](/handbook/customer-success/pre-sales-post-sales-transition/)
 - [Account Engagement and Prioritization](/handbook/customer-success/csm/engagement/)
