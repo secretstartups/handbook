@@ -1,12 +1,12 @@
 ---
 layout: job_family_page
 title: "Executive Business Administration"
-description: "Executive Business Administrator's at GitLab toggle seamlessly between various systems to accomplish an array of tasks, while staying focused on prioritization and escalating urgent issues."
+description: "Executive Business Administrators at GitLab toggle seamlessly between various systems to accomplish an array of tasks, while staying focused on prioritization and escalating urgent issues."
 ---
 
 ## About the role
 
-Executive Business Administrator's at GitLab toggle seamlessly between various systems including Google Workspace, Slack, Expensify, Zoom and GitLab to accomplish an array of tasks, while staying focused on prioritization and escalating urgent issues. EBA's at GitLab are self-driven, collaborative, and agile team members who are experienced in managing multiple priorities, juggling various responsibilities, and anticipating executives’ needs. EBA's at GitLab pride themselves with being exceptionally organized, relentlessly resourceful, calm under pressure, strategic multi-takser, with a deep love of logistics and ability to thrive in a dynamic start-up environment.
+Executive Business Administrators (EBAs) at GitLab toggle seamlessly between various systems including Google Workspace, Slack, TripActions, Zoom, and GitLab to accomplish an array of tasks, while staying focused on prioritization and escalating urgent issues. EBAs at GitLab are self-driven, collaborative, and agile team members who are experienced in managing multiple priorities, juggling various responsibilities, and anticipating the executive's needs. EBAs at GitLab are exceptionally organized, relentlessly resourceful, calm under pressure, and strategic multitaskers with a deep love of logistics and the ability to thrive in a dynamic start-up environment. 
 
 ## Levels
 
@@ -32,14 +32,14 @@ The Executive Business Administrator is a [grade 5](/handbook/total-rewards/comp
 * Maintains and tracks manager and teams project list and goals
 * Attend team staff meetings, track agenda and assist Executive to keep team on course
 * Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
-* Provide coverage for other EBA's
+* Provide coverage for other EBAs
 * Assist with ad hoc projects, events and travel arrangements as needed
 
 #### Executive Business Administrator (Associate) Requirements
 
 * Previous 2+ years of administrative experience at a quickly-scaling or large company
 * Successful history of managing the calendars, expenses, and travel of multiple executives
-* Extensive technical skills in Google Workspace, Zoom, Slack, and Expensify
+* Extensive technical skills in Google Workspace, Zoom, Slack, and TripActions
 * Must be proactive and able to deal with ambiguity, prioritize own work and resources, and juggle multiple tasks in a manner transparent to the team, and work independently to achieve results with a high degree of accuracy
 * Exceptional communication and interpersonal skills and ability to interact autonomously with internal and external partners
 * Maintain the confidentiality of highly sensitive material with tact and professionalism
@@ -53,7 +53,7 @@ The Executive Business Administrator is a [grade 5](/handbook/total-rewards/comp
 * A desire to learn, have fun and work hard
 * A passion for GitLab
 * A sincere willingness to help out
-* Able to work collaboratively with EBA's across the organization
+* Able to work collaboratively with EBAs across the organization
 * An orientation towards team success
 * Ability to use GitLab
 
@@ -81,7 +81,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 * Contribute to team meetings and offsites by assisting with the production of materials and pre-reads, taking notes, and tracking action items
 * Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
 * Provide general project support as needed including ad-hoc reporting
-* Provide coverage for other E-Group EBA's
+* Provide coverage for other E-Group EBAs
 * Contributes to broader EBA community by building strong cross functional relationships with other EBAs
 
 #### Executive Business Administrator (Intermediate) Requirements
@@ -89,7 +89,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 * Previous 3+ years of administrative experience at a quickly-scaling or large company
 * Successful history of managing the calendars, expenses, and travel of multiple executives
 * Experience predicting, prioritizing, and assisting an executive’s workload
-* Extensive technical skills in Google Workspace, Zoom, Slack, and Expensify
+* Extensive technical skills in Google Workspace, Zoom, Slack, and TripActions
 * Must be proactive and able to deal with ambiguity, prioritize own work and resources, and juggle multiple tasks in a manner transparent to the team, and work independently to achieve results with a high degree of accuracy
 * Exceptional communication and interpersonal skills and ability to interact autonomously with internal and external partners
 * Maintain the confidentiality of highly sensitive material with tact and professionalism
@@ -103,7 +103,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 * A desire to learn, have fun and work hard
 * A passion for GitLab
 * A sincere willingness to help out
-* Able to work collaboratively with EBA's across the organization
+* Able to work collaboratively with EBAs across the organization
 * An orientation towards team success
 * Ability to use GitLab
 
@@ -117,18 +117,18 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 
 #### Senior Executive Business Administrator Responsibilities
 
-* Support members of our Executive Group [E-Group](https://about.gitlab.com/company/team/structure/#e-group) or [CEO-Skips Leadership](https://about.gitlab.com/company/team/structure/#ceo-skips) across various time-zones
-* Own and proactively manage a complex, changing, high-volume calendar across multiple time-zones. Ensure Executive is preppared for every meeting
+* Support members of our Executive Group [E-Group](https://about.gitlab.com/company/team/structure/#e-group) or [CEO-Skips Leadership](https://about.gitlab.com/company/team/structure/#ceo-skips) across various timezones
+* Own and proactively manage a complex, changing, high-volume calendar across multiple timezones. Ensure Executive is prepared for every meeting
 * Make recommendations for the Executive in regard to their time management, prioritization, delegation and organization
 * Seamlessly coordinate extensive domestic and international travel including air and ground transportation, hotel reservations, security, visas and other travel documentation. Accompanying the Executive when necessary
 * Run cadence of weekly staff meetings and other important meetings, including planning agenda, organization, and follow-up on action items, while infusing our company values throughout
 * Plan events such as team off-sites, team building activities and company kick-offs as needed
 * Draft internal and external communications on behalf of Executive
 * Assist the full life cycle of recruiting including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of new hires
-* Manage Executives email inbox including drafting internal and external communications on behalf of Executive
+* Manage Executive's email inbox including drafting internal and external communications on behalf of Executive
 * Compile receipts to submit timely and accurate expense reports on a monthly basis
 * Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
-* Provide coverage for other Sr. E-Group EBA's
+* Provide coverage for other Senior E-Group EBAs
 * Run and lead special projects upon request
 * Must be able to work flexible hours to support international business meetings and some travel is required in most roles
 * Other duties as assigned in support of the business (ad hoc tasks)
@@ -137,11 +137,11 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 #### Senior Executive Business Administrator Requirements
 
 * Previous 5+ years of administrative experience supporting a C-Staff Executive at a quickly-scaling or large company
-* Bachelor's’ Degree preferred. High school diploma or general education degree (GED) required
+* Bachelor's Degree preferred. High school diploma or general education degree (GED) required
 * Self-starter who can operate independently and move quickly from one task to another; creative problem solver, seeks "win-win" solutions; energized by challenges with superb attention to detail
-* Extensive technical skills with Google Workspace, Zoom, Slack and Expensify among other tools
+* Extensive technical skills with Google Workspace, Zoom, Slack and TripActions among other tools
 * Demonstrated Leadership mindset in prior roles—ability to influence culture/environment around them
-* Proven leadership skills and demonstrates “one team” mindset; able to lead other EBA’s and partner well across GitLab
+* Proven leadership skills and demonstrates “one team” mindset; able to lead other EBAs and partner well across GitLab
 * Experience with event planning & coordination to include support for large meetings, off-sites and company events
 * Detailed and goal-oriented planner; possesses the ability to appropriately prioritize business needs and handle multiple tasks in a fast-paced environment
 * Approachable and effective communicator across various communication channels and with all levels of the organization
@@ -157,9 +157,9 @@ The Manager, Executive Business Administrator is a job [grade 8](/handbook/total
 
 #### Manager, Executive Business Administrator
 
-* Support a member of our Executive Group [E-Group](https://about.gitlab.com/company/team/structure/#e-group) in various time-zones
+* Support a member of our Executive Group [E-Group](https://about.gitlab.com/company/team/structure/#e-group) in various timezones
 * Hire, develop and retain the function's EBA team by setting the strategy and prioritizing GitLab’s Objectives and Key Results (OKRs)
-* Own and proactively manage a complex, changing, high-volume calendar across multiple time-zones. Ensure Exec is prepped for every meeting
+* Own and proactively manage a complex, changing, high-volume calendar across multiple timezones. Ensure Exec is prepped for every meeting
 * Make recommendations for the Executive in regard to their time management, prioritization, delegation and organization
 * Seamlessly coordinate extensive domestic and international travel including air and ground transportation, hotel reservations, security, visas and other travel documentation. Accompanying the Executive when necessary
 * Run cadence of weekly staff meetings and other important meetings, including planning agenda, organization, and follow-up on action items, while infusing our company values throughout
@@ -169,7 +169,7 @@ The Manager, Executive Business Administrator is a job [grade 8](/handbook/total
 * Manage Executives email inbox including drafting internal and external communications on behalf of Executive
 * Compile receipts to submit timely and accurate expense reports on a monthly basis
 * Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
-* Provide coverage for other Sr. E-Group EBA's
+* Provide coverage for other Senior E-Group EBAs
 * Run and lead special projects upon request
 * Must be able to work flexible hours to support international business meetings and some travel is required in most roles
 * Other duties as assigned in support of the business (ad hoc tasks)
@@ -177,9 +177,9 @@ The Manager, Executive Business Administrator is a job [grade 8](/handbook/total
 #### Manager, Executive Business Administrator Requirements
 
 * Previous 7+ years of administrative experience supporting a C-Staff Executive at a quickly-scaling or large company
-* Bachelor's’ Degree preferred. High school diploma or general education degree (GED) required
+* Bachelor's Degree preferred. High school diploma or general education degree (GED) required
 * Self-starter who can operate independently and move quickly from one task to another; creative problem solver, seeks "win-win" solutions; energized by challenges with superb attention to detail
-* Extensive technical skills with Google Workspace, Zoom, Slack and Expensify among other tools
+* Extensive technical skills with Google Workspace, Zoom, Slack and TripActions among other tools
 * Demonstrated Leadership mindset in prior roles—ability to influence culture/environment around them
 * Proven leadership skills and demonstrates “one team” mindset; able to lead other EBA’s and partner well across GitLab
 * Experience with event planning & coordination to include support for large meetings, off-sites and company events
@@ -204,7 +204,7 @@ The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/t
 
 * Strategically and methodically support our Chief Executive Officer in the Pacific time zone - serving as a partner in handling correspondence, including confidential and sensitive materials
 * Proactively and without supervision, anticipate needs and follow through diligently, often using knowledge of the executive, their direct reports, external parties, and company values to make decisions that lead to more effective executive attention and communication
-* Maintain the executives’ calendars in a thoughtful and purposeful manner, ensuring meetings contain the appropriate attendees, agenda items, and any changes are done with full consideration of a global team, spanning multiple time zones; ensure executive is prepped and briefed as necessary for each meeting
+* Maintain the CEO's calendars in a thoughtful and purposeful manner, ensuring meetings contain the appropriate attendees, agenda items, and any changes are done with full consideration of a global team, spanning multiple time zones; ensure executive is prepped and briefed as necessary for each meeting
 * Make recommendations for the executive in order to more effectively manage their time, prioritize, delegate and organize
 * Seamlessly coordinate extensive travel including air and ground transportation, hotel reservations, security, visas, and any other travel documentation
 * Maintain cadence of weekly meetings and other important meetings, including planning agenda, organization, and follow-up on action items, while infusing our company values throughout
@@ -225,7 +225,7 @@ The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/t
 * Experience supporting a C-Level Executive(s) as an EA or executive business partner at a quickly-scaling company, effectively representing the personal brand of the executive as well as the company’s culture and value
 * High integrity and track record of maintaining confidentiality of all work product and sensitive information
 * Strong attention to detail and proofreading ability
-* Extensive technical skills with Google Workspace, Zoom, Slack and Expensify among other tools; demonstrated ability to adopt technical tools quickly (i.e. GitLab.com)
+* Extensive technical skills with Google Workspace, Zoom, Slack and TripActions among other tools; demonstrated ability to adopt technical tools quickly (i.e. GitLab.com)
 * Self-starter who can operate independently and move quickly from one task to another; creative problem solver, seeks "win-win" solutions; energized by challenges with superb attention to detail
 * Excellent interpersonal skills and business acumen; ability to communicate with team members, partnering well across GitLab, and external parties at all levels
 * Proven leadership skills and demonstrates “one team” mindset; able to be a role model for all other EBA’s
@@ -239,19 +239,20 @@ The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/t
 
 ## Career Ladder
 
-An Executive Business Administrators career path can take various routes depending on the long term career goals and aspirations of an EBA. One path that is routinely taken is that of a career EBA and is someone who is passionate about being in the EBA role for the long-term resulting in becoming a Senior, Staff, or Principal EBA at GitLab to a member of our E-Group. Another path that is open to an EBA is one where they decide to leverage their experience as an EBA to transition into a new role such as (but not limited to) a Chief of Staff, Project Manager, Recruiter, Corporate Events Manager, Business Analyst, Executive Communications, PR, Internal Communications, People Connect Specialist, People Business Partner, etc.
+An Executive Business Administrator's career path can take various routes depending on the long term career goals and aspirations of an EBA. One path that is routinely taken is that of a career EBA and is someone who is passionate about being in the EBA role for the long-term resulting in becoming a Senior, Staff, or Principal EBA at GitLab to a member of our E-Group. Another path that is open to an EBA is one where they decide to leverage their experience as an EBA to transition into a new role such as (but not limited to) a Chief of Staff, Project Manager, Recruiter, Corporate Events Manager, Business Analyst, Executive Communications, PR, Internal Communications, People Connect Specialist, People Business Partner, etc.
 
 ## Performance Indicator
 * [Leadership SAT Survey](https://about.gitlab.com/handbook/eba/#leadership-sat-survey)
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please note that depending on what level of role GitLab is hiring for, the hiring process and order of interviews may differ. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/). 
 
 * Qualified candidates will be invited to schedule an initial screening with a Global Recruiter
-* Next, candidates will be invited to schedule a first interview with an Executive Business Administrator
+* Next, candidates will be invited to schedule a first interview with the hiring manager the role will report to
 * Next, candidates will be invited to schedule additional interviews with the Executive Business Administrator team
-* Next or in parallel with EBA team interview, candidates will be invited to complete a 5 hour timed assessment
+* Next or in parallel with the EBA team interview, candidates will be invited to complete a detailed assessment
+* Next, candidates may be asked to meet with the department's People Business Partner
 * Final candidates will then be invited to schedule interviews with members of the leadership team the role will be supporting
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
