@@ -14,9 +14,6 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ---
 
-## CSE Vision
-To be the world's most customer-centric company, where customers can accelerate their own missions with frictionless adoption and value realisation of The One DevOps Platform.
-
 ## CSE Mission
 The Customer Success Engineer (CSE) provides deep subject matter expertise on GitLab technical and product solutions and best practices in order to drive measurable value for GitLab customers.  CSEs work alongside CSMs to provide customers with technical guidance, go in-depth on use case implementation, and demonstrate the value of GitLab product capabilities, leading to product adoption, expansion, and greater value realized by our customers.
 
@@ -24,7 +21,7 @@ The Customer Success Engineer (CSE) provides deep subject matter expertise on Gi
 
 ## Team
 | Name                                             | Region    | 
-|:------------------------------------------------:|:---------:| 
+|------------------------------------------------|---------| 
 | [Martin Brümmer](https://gitlab.com/mbruemmer)   | EMEA      | 
 | [Philippe Charriere](https://gitlab.com/k33g)    | EMEA      | 
 | [Nick Wilson](https://gitlab.com/nwilson-gitlab) | AMER East | 
