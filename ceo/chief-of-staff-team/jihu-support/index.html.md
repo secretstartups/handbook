@@ -167,6 +167,10 @@ There are times where [`main-jh` branch](https://jihulab.com/gitlab-cn/gitlab) i
 1. GitLab Facilitator will notify GitLab Inc team members in the #jihu-engineering channel. 
 1. JiHu will add the MR and root cause of the failure to <https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/215>
 
+##### Merge requests with broken JiHu validation pipeline
+
+Check [What to do when the validation pipeline failed](jihu-validation-pipelines.html#what-to-do-when-the-validation-pipeline-failed) for more details.
+
 #### MR escalation
 
 Please refer to our [guidelines](https://docs.google.com/document/d/1zEiPBZ1D90LJdxBJDl45B4N-umqtR0VGt3803OgHjMo/edit?usp=sharing).
