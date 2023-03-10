@@ -203,10 +203,10 @@ If your request meets any of the below criteria, add the additional time noted f
 - Turn time is based on the level of negotiation required and the suppliers willingness to meet budget and benchmark indicators.
 
 ### Security Review: 4-14 Days 
-- This activity cannot begin until **after** the supplier completes the security/privacy questionnaire and supplies their security documentation. Oftentimes, it can take a week for the supplier to respond and complete the requested materials. The SLA begins once that is completed.
-- Time before this activity can begin is entirely dependent upon the supplier's response time and maturity of security protocols.
-- [Security Third Party Risk Management](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) review is required for: All SaaS purchases, and other purchase types where the supplier will have access to orange and/or red data (excluding field marketing events).
-- **TIP:** To increase speed of approval, upload any security compliance documentation (such as the SOC-2 report) to the Coupa Request and notify your supplier contact they will be receiving a request from  ZenGRC for completion ASAP.
+- [Security Third Party Risk Management](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) reviews are required for vendors that collect, process, or store Orange / Red Data, software providers (SaaS and On-premise), and independent contractors / consultants. (Excluding field marketing events)
+- This activity cannot begin until **after** the supplier completes the security and supplies their security documentation. Oftentimes, it can take 1-2 weeks for the supplier to respond and complete the requested materials. The security review SLA begins once that is completed. Time before this activity can begin is entirely dependent upon the supplier's response time and maturity of security protocols.
+- **TIP:** To increase speed of approval, upload any security compliance documentation (SOC-2 Report, ISO27001 Certificate) to the ZipHQ Request and notify your supplier contact they will be receiving a request from ZenGRC for completion ASAP.
+- For any inquiries and questions, please tag @securityrisk in the #procurement slack channel. 
 
 ### Legal Review: 3 Days - 3+ Weeks  
  _Note: The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended_
