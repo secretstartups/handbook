@@ -71,6 +71,9 @@ To engage with GitLab, partners start by completing the online Channel Partner r
 
 Execution of the Master Partner Agreement results in  access to the GitLab Partner Portal.  Other members of your team will be able to register and be associated with your account by registering at [partners.gitlab.com](https://partners.gitlab.com). At that time, you will  have access to sales tools, technical resources, and training courses. Once one member of your team completes the GitLab Sales Core training, your company will also be able to enter deal registrations and referral transactions.  
 
+### Enablement Assets to Grow your Business with GitLab
+Bookmark our [Field Team Enablement](/handbook/resellers/partner-enablement/) page to stay up to date with the latest messaging, best collateral, and curated content.  Living out our values of [Efficiency](/handbook/values/#efficiency) and [Transparency](/handbook/values/#transparency), most of the enablement assets at GitLab are freely available for everyone. This curated guide for your field sales, presales, and delivery teams will help you locate the best material from the huge GitLab ecosystem.
+
 ## More Resources
 This page provides an overview of the Channel partner program, requirements, benefits. Additional information about our services, certifications and tools and resources can be found on the following pages:
 
@@ -79,6 +82,7 @@ This page provides an overview of the Channel partner program, requirements, ben
 * [Channel Services Catalog](/handbook/resellers/services/services-catalog/)
 * [Channel Partner Training and Certifications](/handbook/resellers/training/)
 * [Channel Partners: Working with GitLab](/handbook/resellers/channel-working-with-GitLab/)
+* [Channel Field Team Enablement](/handbook/resellers/partner-enablement/)
 * [Channel Tools and Resources](/handbook/resellers/channel-tools-resources/)
 * [Alliance Program](https://about.gitlab.com/partners/technology-partners/)
 
