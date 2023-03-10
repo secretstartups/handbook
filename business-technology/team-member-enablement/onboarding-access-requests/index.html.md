@@ -16,7 +16,7 @@ title: "GitLab onboarding and machine management"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
 
 </div>
 </div>
@@ -29,14 +29,14 @@ The GitLab IT team is here to help you through any onboarding struggles you migh
 
 # Scope
 
-At GitLab, we use centralized laptop management for company-issued laptops. If you are in possession of a company-issued laptop, the details below apply to you. However, not all endpoint management technologies GitLab deploys will be required for Apple, Linux, and Windows laptops. Some technologies may be specific to the hardware platform or operating system. 
+At GitLab, we use centralized laptop management for company-issued laptops. If you are in possession of a company-issued laptop, the details below apply to you. However, not all endpoint management technologies GitLab deploys will be required for Apple, Linux, and Windows laptops. Some technologies may be specific to the hardware platform or operating system.
 
 # Roles & Responsibilities
 
-| Role | Responsibility | 
+| Role | Responsibility |
 |-----------|-----------|
 | GitLab Team Members | Responsible for following the requirements in this procedure |
-| Business Technology | Responsible for implementing and executing this procedure | 
+| Business Technology | Responsible for implementing and executing this procedure |
 | Business Technology Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
 # Procedure
@@ -56,14 +56,14 @@ Please note that we are adding supported countries to this list as we discover o
 You can test this by going to order a MacBook Pro (or Dell) from the regional Apple store, and seeing if they let you customize a build or alternately refer you to local retailers.
 If the latter, see below.
 
-If your country is not listed above or for any general laptop procurement questions please contact IT-Help@gitlab.com or your Candidate Experience Specialist to discuss alternate options. 
+If your country is not listed above or for any general laptop procurement questions please contact IT-Help@gitlab.com or your Candidate Experience Specialist to discuss alternate options.
 If the team member desires financial assistance to purchase the hardware, the Company will advance the funds to help facilitate the purchase (see Exception Processes below).
 
 ### Laptop Purchasing and Shipping Process
 
 Once Team Member Enablement receives your laptop order we start working on purchasing your laptop and any additional equipment requested. We leverage business relationships with several different vendors across the globe to accomplish this remotely. Please note delivery times will vary depending on location, supply of hardware, vendor selection, and shipping method.
 
-However, we may be able to work out priority or overnight delivery. We will not be able to service this for all cases and regions at this time but please feel free to reach out to IT-Help@gitlab.com or talk with your hiring manager to review all options available. 
+However, we may be able to work out priority or overnight delivery. We will not be able to service this for all cases and regions at this time but please feel free to reach out to IT-Help@gitlab.com or talk with your hiring manager to review all options available.
 
 If you are a hiring manager or member of the hiring/recruiting team, you may check the status and content of a new hires order in the [IT Equipment Order Process Project](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/it-equipment-order-processing)
 
@@ -111,21 +111,21 @@ Apple hardware is the common choice among GitLab team members. Team members may 
 
 NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased Apple products only. Apple does **not** have an employee discount program for GitLab at this time.
 
-##### Apple Hardware
+#### Apple Hardware
 
 - Macbook Pro 14" and 16" - M1 Max / 10-Core CPU / 24-core GPU / 32GB Unified memory / 512GB or 1TB storage. **Performance model**
-- MacBook Pro 16” - Intel i7 or i9 / 512 SSD / 32 RAM - **Legacy performance model** - Limited supply; we may offer this model depending on availability the new M1 Max model. 
+- MacBook Pro 16” - Intel i7 or i9 / 512 SSD / 32 RAM - **Legacy performance model** - Limited supply; we may offer this model depending on availability the new M1 Max model.
 - Macbook Pro 13" -  M1 / 16Gb / 512GB - **Standard model**
 
-Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for. 
+Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for.
 
 
-##### Linux Hardware
+#### Linux Hardware
 
 IT strongly encourages team members to select Macs; please only request a Linux laptop if you are experienced in Linux and capable of self-support.
 {: .alert .alert-info}
 
--  \*\* Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are eligible for Dell Precision Mobile Workstation laptops from the 5500 or 5700 lines. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [15.6” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop).  
+-  \*\* Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are eligible for Dell Precision Mobile Workstation laptops from the 5500 or 5700 lines. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [15.6” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop).
 - Everyone else is eligible for laptops from the Dell Latitude 7300 line. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [13.3” display / 256 GB SSD / 16 GB of RAM / Intel Quad-Core i5 CPU](https://www.dell.com/en-uk/work/shop/laptop-computers-for-businesses/latitude-7300-business-laptop/spd/latitude-13-7300-laptop)
 
 
@@ -155,13 +155,13 @@ By its very nature, GitLab has historically been very open as a company, startin
 Having developed a Data Classification Policy and currently implementing Zero Trust, we've had to make adjustments in laptop recommendations.
 Our laptop vendor selection criteria is as follows:
 
-##### Team member need
+#### Team member need
 
 The main needs center around processing power and the operating system support for required workloads.
 Most modern systems meet the processing power needs of our team members.
 Apple macOS and Dell Linux distributions meet the operating system needs.
 
-##### Security needs
+#### Security needs
 
 GitLab needs the ability to ensure a secure and stable platform.
 From an operating system perspective, macOS and Linux meet the basic needs.
@@ -176,7 +176,7 @@ From a hardware point of view, we have to examine security issues such as supply
 Some vendors have had these issues involving the operating system, although in many cases it has been directly related to Microsoft Windows.
 However, if a vendor has had potential supply chain issues involving firmware or hardware, we will consider other vendors first.
 
-##### Compliance needs
+#### Compliance needs
 
 To meet compliance needs for the various certifications, programs, and industry regulations, we have to meet criteria including the ability to restrict access to sensitive data to company-issued laptops running company-monitored software.
 In many cases we need to be able to prove this via auditing, including outside auditors.
@@ -192,7 +192,7 @@ For that reason, we will restrict our vendor list to vendors that are currently 
 This simplifies the ability to support those customers which may impose restrictions on team members working in support roles for that customer solely based upon the hardware they are using.
 In other words, we eliminate this possibility of becoming a situation to be managed.
 
-##### Logistics needs
+#### Logistics needs
 
 To be able to use a laptop vendor, we have to be able to purchase and ship hardware to our team members regardless of where they live.
 Therefore the vendor should be able to handle most if not all shipping requirements to all team members. Our current hardware provider for US and most international locations is CDW. GitLab laptops that are procured from CDW will come with GitLab branded asset labels by default. Please refer to this issue for more information on GitLab asset labels. [GitLab Branded Laptop Labels](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/it-ops-issue-tracker/-/issues/352)
@@ -217,17 +217,17 @@ Links in the list below are to sample items, other options can be considered.
 
 ### Laptop Recycle
 
-Laptops being returned to the company that are no longer fit for service will be recycled with our vendor [AnythingIT](https://www.anythingit.com/). GitLab receives a monetary credit for each laptop recycled and this credit is applied to our purchasing balance through other vendors. 
+Laptops being returned to the company that are no longer fit for service will be recycled with our vendor [AnythingIT](https://www.anythingit.com/). GitLab receives a monetary credit for each laptop recycled and this credit is applied to our purchasing balance through other vendors.
 
-Laptops that are being returned that are still fit for service (less then 1 year old) will be warehoused with AnythingIT and repurposed as needed. 
+Laptops that are being returned that are still fit for service (less then 1 year old) will be warehoused with AnythingIT and repurposed as needed.
 
 We no longer encourage Apple's Trade-In program. Any laptop being returned, regardless of condition, should be sent to AnythingIT.
 
-## Laptop Donations 
+### Laptop Donations
 
-Donating hardware/laptops will help people in disadvantaged areas and/or from underrepresented groups with their ability to learn about technology. Therefore GitLab offers the possibility to donate hardware devices to [vendors on a curated list](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0) after 3 years of use. This curated list has been a result of the [Upstream Diversity Working Group](https://about.gitlab.com/company/team/structure/working-groups/upstream-diversity/).  
+Donating hardware/laptops will help people in disadvantaged areas and/or from underrepresented groups with their ability to learn about technology. Therefore GitLab offers the possibility to donate hardware devices to [vendors on a curated list](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0) after 3 years of use. This curated list has been a result of the [Upstream Diversity Working Group](https://about.gitlab.com/company/team/structure/working-groups/upstream-diversity/).
 
-The vendors on the list have been meeting the following criteria: 
+The vendors on the list have been meeting the following criteria:
 1. Their focus group should be people in disadvantaged areas and/or underrepresented groups
 1. They should be non-profit
 1. Their values have to align with GitLab's CREDIT values
@@ -235,19 +235,19 @@ The vendors on the list have been meeting the following criteria:
 
 If you, as a GitLab team member, would like to add a vendor aligned with the cirteria, please comment in the [Vendor sheet](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0).
 
-### Logistics
-If you decide to donate your laptop instead of the Trade-in program in terms of logistics you have the following options: 
-- Drop off: If there's a vendor close to your location and they are open to drop off you can drop off the device. 
-- Sending: If the vendor offers to collect the device you can find that option in Column F of the sheet. 
+#### Logistics
+If you decide to donate your laptop instead of the Trade-in program in terms of logistics you have the following options:
+- Drop off: If there's a vendor close to your location and they are open to drop off you can drop off the device.
+- Sending: If the vendor offers to collect the device you can find that option in Column F of the sheet.
 - AnythingIT: (US only) AnythingIT offers the possibility to send a box and collect your device. They will donate it to the charity: www.RockOurVets.org
 
-### Steps for donating your hardware
+#### Steps for donating your hardware
 
-1. Create an issue for [laptop replacement](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) 
-1. Indicate in the issue you want to donate your used laptop to a vendor on the curated list. 
-1. Indicate in the issue which option of logistics will be used: Drop off, Sending via vendor or AnythingIT (US only). 
-1. For security reasons we want to make sure all laptops are fully wiped before drop off or sending. 
-1. When you receive your new laptop, complete the donation. 
+1. Create an issue for [laptop replacement](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement)
+1. Indicate in the issue you want to donate your used laptop to a vendor on the curated list.
+1. Indicate in the issue which option of logistics will be used: Drop off, Sending via vendor or AnythingIT (US only).
+1. For security reasons we want to make sure all laptops are fully wiped before drop off or sending.
+1. When you receive your new laptop, complete the donation.
 
 ### Laptop Repair
 
@@ -324,7 +324,7 @@ Reformatting a computer is not sufficient in these cases because it is possible 
 
 ### Snipe-IT
 
-The Team Member Enablement Team has been busy iterating and setting up [Snipe-IT open source asset management](https://snipeitapp.com/). As of April 2021, GitLab has an asset tracking application that is the source of truth for all GitLab hardware! If you are a member of GitLab you can sign in and view the application at https://snipeit.gitlab.net/ (Use your Okta credentials). 
+The Team Member Enablement Team has been busy iterating and setting up [Snipe-IT open source asset management](https://snipeitapp.com/). As of April 2021, GitLab has an asset tracking application that is the source of truth for all GitLab hardware! If you are a member of GitLab you can sign in and view the application at https://snipeit.gitlab.net/ (Use your Okta credentials).
 
 How does it work exactly?
 
@@ -454,11 +454,11 @@ IT Ops has an automated workflow that triggers upon a notification from PeopleOp
 * The FTM’s manager gains editor privileges to all “My Drive” Google Drive Files
 * The FTM’s account is moved to the Former Team Members OU
 * Remove the FTM account from the Global Address List
-* All of the account’s sign in cookies/sessions are cleared and the account password is reset to a random 64 character password 
+* All of the account’s sign in cookies/sessions are cleared and the account password is reset to a random 64 character password
 * The account’s recovery email is set to null
 * The account’s recovery phone number is set to null
 * The FTM’s auto-response email message is setup.
- 
+
 #### These are the steps that follow after the Former Team Member has been gone for 90 days
 
 * All of the former team-member (FTM) aliases are removed
@@ -478,19 +478,19 @@ IT Ops has an automated workflow that triggers upon a notification from PeopleOp
 **Immediate Slack notification:**
 
 > Hello `<Manager Firstname>``<Manager Lastname>`, you are receiving this notification to let you know that one of your direct reports `<Firstname>``<LastName>` has been deprovisioned from GitLab’s Google Workspace. In keeping with our standard offboarding policy you will receive a copy of this user’s Google Drive data as well as delegated access to their email and calendar account. This delegate access will remain available to you for 90 days after which the account will be closed, and all data will be archived. Please be sure to copy anything you wish to keep to your own account before this time. For more information about how to access this data please see information in this Handbook page (provide link).
-> 
+>
 > You will receive another notification 30 days before and then a final notification at 1 week before this account is closed. If you have any questions about this process, or need assistance with access the data, please feel free to reach out to the Corp IT team in the #it_help Slack channel.
 
 **30 Days Slack notification**
 
-> Hello `<Manager Firstname>``<Manager Lastname>`, you are receiving this notification to let you know that one of your direct reports `<Firstname>``<LastName>` was deprovisioned from GitLab’s Google Workspace 60 days ago. In keeping with our standard offboarding policy you will continue to have delegated access to their email and calendar account for another 30 days after which the account will be closed, and all data will be archived. Please be sure to copy anything you wish to keep to your own account before this time. For more information about how to access this data please see information in this Handbook page (provide link). 
-> 
+> Hello `<Manager Firstname>``<Manager Lastname>`, you are receiving this notification to let you know that one of your direct reports `<Firstname>``<LastName>` was deprovisioned from GitLab’s Google Workspace 60 days ago. In keeping with our standard offboarding policy you will continue to have delegated access to their email and calendar account for another 30 days after which the account will be closed, and all data will be archived. Please be sure to copy anything you wish to keep to your own account before this time. For more information about how to access this data please see information in this Handbook page (provide link).
+>
 > You will receive another notification at 1 week before this account is closed. If you have any questions about this process, or need assistance with access the data, please feel free to reach out to the Corp IT team in the #it_help Slack channel.
 
 **7 Days Slack notification**
 
-> Hello `<Manager Firstname>``<Manager Lastname>`, you are receiving this notification to let you know that one of your direct reports `<Firstname>``<LastName>` was deprovisioned from GitLab’s Google Workspace 83 days ago. In keeping with our standard offboarding policy you will continue to have delegated access to their email and calendar account for another 7 days after which the account will be closed, and all data will be archived. Please be sure to copy anything you wish to keep to your own account before this time. For more information about how to access this data please see information in this Handbook page (provide link). 
-> 
+> Hello `<Manager Firstname>``<Manager Lastname>`, you are receiving this notification to let you know that one of your direct reports `<Firstname>``<LastName>` was deprovisioned from GitLab’s Google Workspace 83 days ago. In keeping with our standard offboarding policy you will continue to have delegated access to their email and calendar account for another 7 days after which the account will be closed, and all data will be archived. Please be sure to copy anything you wish to keep to your own account before this time. For more information about how to access this data please see information in this Handbook page (provide link).
+>
 > This is the final notification. If you have any questions about this process, or need assistance with access the data, please feel free to reach out to the Corp IT team in the #it_help Slack channel.
 
 **Final Slack notification**
