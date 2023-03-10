@@ -114,6 +114,16 @@ Help maintain updates (in collaboration with the escalation team) to the escalat
 
 **Side note:** Future desire - consider syncing Slack and Google doc updates or Slack and incident issue updates via some form of automation.
 
+#### Pausing Daily Updates
+
+Escalations sometimes enter a "monitoring" period, when we don't anticipate any activity for mutiple days. When this occurs, it's appropriate to pause the daily updates. To do so, post in the Slack channel for the Account Escalation and clearly define, 1) the current state of the escalation, and 2) a timeline of when we can expect the updates to resume. For example:
+
+> **Status:** Customer intends to upgrade Redis in their production environment in 5 days (15-Mar-2023).
+
+> **Next steps:** Monitor for any updates from the customer over the next 5 days. If no issues are reported during this time, next update is targeted for 15-Mar-2023.
+
+When daily updates are paused, continue to check every day for activity which would warrant resuming the updates.
+
 ### Step 4: Evaluate Progress
 
 Determine if progress on the current tasks has slowed or stalled. If either of these is true, work with the Lead Support Engineer to [escalate further to a specialized development team](/handbook/engineering/development/processes/Infra-Dev-Escalation/) to ensure that work is progressing in the right direction.
