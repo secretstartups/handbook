@@ -72,11 +72,17 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
 * **Summary:**
    * I’m really motivated by leading organizational change
    * I’m an Influencer and Initiator/Identifier of need for tech purchases but I am very often the decision-maker
-   * My biggest challenges are silo’d teams and workflows along with the need to increase the speed of development as well as  scaling efficiencies and new ways of working across multiple projects and environments
+   * My biggest challenges are siloed teams and workflows along with the need to increase the speed of development as well as  scaling efficiencies and new ways of working across multiple projects and environments
    * Key messaging concepts to include in the buyer’s journey: budget, cost, ROI, cost analysis, value, etc. 
 
+* **My Messaging:**
+   * Create secure code faster with continuous improvment through accelerated feedback loops
+   * Do less with more with built-in support automation and integrations with 3rd-party sevices
+   * Enforce compliance, have visibility, and better prepare for audits
+   * Have visibility across your entire SDLC and Supply Chain
+
 * **Potential Titles:**
-   * CTO / CINO / CDO / Founder / Owner / VP 
+   * CIO/ CTO / CINO / CDO / Founder / Owner / VP 
 
 * **Reports to:**
    * CEO / Board
@@ -89,18 +95,19 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    * Plan and direct implementation of new IT systems
 
 * **Job is Measured by:**  
-   * Results / Speed    
+   * Results / Speed (time to market)   
 
 * **Goals & Objectives:**
-   * Helping IT to play a more strategic role in achieving business objectives      
+   * Helping IT to play a more strategic role in achieving business objectives (tied to Digital Transformation)     
 
 * **Motivated by:**
    * Contributing to solving real problems 
    * Leading organizational change
    * Having autonomy / independence
+   * Empowering teams without sacrificing security & quality
 
 * **Biggest Challenges:**    
-   * Silo’d teams and workflows
+   * Siloed teams and workflows
    * The need to increase the speed of development
    * Scaling efficiencies and new ways of working across multiple projects and environments  
    * Slow digital transformation initiatives   
@@ -109,7 +116,7 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    * Retention of people who do not want to work on uninteresting platforms
    * High cost of downtime
 
-* **Gains Information by:**  
+* **Sources for Tech Purchasing Decisions:**  
    * Primary: Events & Meetups / Conference presos / Case studies / Webinars
    * Secondary: Announcements & Press releases / Websites / Blog posts / Email updates & Newsletters / Whitepapers
    * Tertiary: Podcasts
@@ -117,8 +124,14 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
   
 * **Purchasing Roles:**
 1. Influencer
-1. Decision-maker
+1. Decision-maker (relies on users/influencers for renewal decisions)
 1. Initiator/Identifier of need
+1. User
+
+* **Recommended Buyer's Journey**
+   * Awareness: CIO Round Table, Conference Presos, Case studies
+   * Considerations: Blog posts, white papers, cusotm website landing page
+   * Decision: topical campaigin email with CTA, Podcasts, Press releases/announcements
 
 
 ---
@@ -424,7 +437,13 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
  * **Summary:**  
    * I’m really motivated by being more effective and efficient
    * I’m both an Influencer and Decision-maker
-   * My biggest challenges are that the transition to DevOps is challenging for certain legacy workloads and environments, the need to increase the speed of development, and the disjointed developer experience
+   * My biggest challenges are that the transition to DevSecOps is challenging for certain legacy workloads and environments, the need to increase the speed of development, and the disjointed developer experience
+
+* **My Messaging:**
+   * Improve productiv through the use of a single platform to reduce context switching and improve communications
+   * Increase the spped of development through the use of automation and CI/CD
+   * Gain increased visibility with reporting across the entire project
+   * East the tranition to a true DevSecOps framework for legacy applications
 
 * **Potential Titles:**
    * PMO Lead / Agile Coach or Consultant / IT Program Manager / Senior Project Manager   
@@ -456,19 +475,24 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
    * Contributing to solving real problems
 
 * **Biggest Challenges:**    
-   * Transition to DevOps is challenging for certain legacy workloads and environments
+   * Transition to DevSecOps is challenging for certain legacy workloads and environments
    * The need to increase the speed of development  
    * The disjointed developer experience   
 
-* **Gains Information by:**  
+* **Sources for Tech Purchasing Decisions:**  
    * Primary: Announcements & Press releases / Analyst reports / Blog posts / Conference presos / Video stories from similar organizations
    * Secondary: eBooks / Websites / Whitepapers
    * Tertiary: (Minimally) Webinars / Podcasts
-   * Internal Influencers: Devops Consultants / Developers / System Administrators / DBAs / PMO / Security Product Management
+   * Internal Influencers: DevSecps Consultants / Developers / System Administrators / DBAs / PMO / Security / Product Management
 
 * **Purchasing Role:**
 1. Influencer
 1. Decision-maker
+
+* **Recommended Buyer's Journey:**
+   * Awareness: Press releaes, analyst reports, blog posts
+   * Consideratoin: Conference presos, customer vidoe testimonials, ebook, custom web landing page
+   * Decision: Whitepaper, webinars, podcasts
 
 ---
 
@@ -486,22 +510,28 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
       - Tool and process sprawl 
       - Anything manual / lack of automation
       - The need to increase the speed of development
-      - Silo’d teams and workflows
+      - Siloed teams and workflows
       - Scaling efficiencies and new ways of working across multiple projects and environments
       - Not being able to find/hire/retain the right skill sets
 
+* **My Messaging:**
+   * Reduce administrative overhead with fewer contracts to negotiate and maintain
+   * Simplify the workflow with fewer tools and less process sprawl
+   * Improve cross-team communications with a single tool for all groups
+   * Lower overall costs and see up to a 400% ROI
+
 * **Potential Titles:**
-   *  CFO, VP Finance / CLO / COO / CMO, VP Mktg / CHRO, VP HR / Head of Procurement  
+   *  CFO, VP Finance / Chief Legal Officer / COO / CMO, VP Mktg / CHRO, VP HR / Head of Procurement  
 
 * **Reports to:**
    * CEO / President   
 
 * **Job Responsibilities:**  
-   Could include:    
+  
    * Managing the procurement approval process   
    * LegalOps
    * Everything as Code (Marketing / Training / etc.)
-   * Onboarding (employees / customers / partners) 
+   * Onboarding processes(employees / customers / partners) 
    * Project Management
    * Anything that requires SSOT functionality
 
@@ -509,7 +539,7 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
    * Efficiency / Productivity / (KPIs vary by Division)    
 
 * **Goals & Objectives:**
-   * Manage business operations effectively / efficiently   
+   * Manage business operations effectively and efficiently   
 
 * **Motivated by:**
    * Contributing to solving real problems 
@@ -520,19 +550,24 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
    * Tool and process sprawl
    * Anything manual / lack of automation  
    * The need to increase the speed of development   
-   * Silo’d teams and workflows
+   * Siloed teams and workflows
    * Scaling efficiencies and new ways of working across multiple projects and environments
    * Not being able to find/hire/retain the right skill sets
 
-* **Gains Information by:**  
+* **Sources for Tech purchasing Decisions:**  
    * Primary: Analyst reports / Case studies / Blog posts / References & testimonials from customers
 / Websites /Email updates / newsletters
    * Secondary: Announcements & Press releases / Peer review sites / Conference presos
-   * Internal Influencers: Within team / C-level / Software development lead
+   * Internal Influencers: Internal team / C-level / Software development lead
   
 * **Purchasing Role:**
 1. Influencer
 1. Decision-maker
+
+* **Recommended Buyer's Journey:**
+   * Awareness: Analyst reports, Case studies, Customer Video Testimnials, Customer Website Landing Page
+   * Cosideration: Press releases, blog posts, conference presos
+   * Decision: Peer reviews (G2), Functional 'how-to' webinars, Topical campaigns email w CTA
 
 ---
 
