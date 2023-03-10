@@ -60,6 +60,88 @@ We use a self-governing model at GitLab. In a self-governing model, there is str
 
 Our Tableau self-governing model is administerd and enforced in the [GitLab Tableau Project](https://gitlab.com/gitlab-data/tableau) using BIOps. The BIOps approach will leverage GitLab's repository, maintainer and code review functionality to administer the governance model. Tableau does not currently have a Git integration so our BIOps is not fully automated and there are some limitations. The README file is coming soon which will describe the BIOps workflow. We will iterate on this approach with the GTM and Finance teams during Q1 and Q2 and adjust and adapt as needed.
 
+### Tableau Project Architecture
+
+The Project Architecture in Tableau Online is replicated and governed in the GitLab Tableau Project. Please see the [GitLab Tableau Project](https://gitlab.com/gitlab-data/tableau) for more details. Below are descriptions of the project folders and a sample of the project architecture found in Tableau online.
+
+<details markdown=1>
+
+<summary><b>Project and Sub-Project Folder Descriptions</b></summary>
+
+* **Top Level Project Folders:** **The top level project provides what the purpose of the workbook is.** There are four top level projects; Production, Ad-hoc, Development, and Resources. This is the highest folder level that the Tableau user lands on. These folders guide the user either down a Production path to view certified content, an Ad-hoc path to view Ad-Hoc content, a development path to view sandbox content, or a resources path to access workbook templates and certified data sources to be used in workbook development.
+    * **2nd Level Sub-Project Folders:** **The 2nd level project provides who the primary owner of the workbook is.** This level of the architecture contains sub-projects for each department and cross-funtional business motion such as the Go To Market Motion. Each department and cross-funtional business motion will have their own sub-project. This gives us flexibility to create different types of security at the sub-project level based on specific departmental and business motion needs.  
+        * **3rd Level Sub-Project Folders:** **The 3rd level project provides a rating of how much validation and auditing was done on the workbook.** This level of the architecture contains sub-projects for Trusted Data, Business Certified Workbooks, and Data Sources. There is a simple naming convention used to prefix the content name with a department or business motion abbreviation. This helps with searching for content in Tableau. This architecture gives us flexibility to scale the Tableau program, add row and column level security, and iterate on the SAFE program in future iterations. 
+            * **4th Level Sub-Project Folders:**  **The 4th level project provides security around who can see the workbook.** Our SAFE Data Program,is applied on this level of the architecture. This allows us flexibility to apply more security controls, by department, in the future to include enhanced SAFE Data program controls, row and column level security, and security around confidential information. Applying the security at this level will allow for customized, and scalable security programs by department and business motion.
+
+</details>
+
+<details markdown=1>
+
+<summary><b>Project Architecture</b></summary>
+
+1. **Resources**
+    1. **Workbook Templates**
+    1. **Data Sources**
+1. **Development** (Sandbox Environment)
+    1. **Customer Success**
+        1. **Team Member Name**
+            1. **SAFE**
+                1. Workbook Name
+            1. Workbook Name    
+    2. **Sales**
+    3. **Marketing**
+    4. **Finance**
+    5. **Data Team**
+    6. etc. 
+1. **Ad-hoc** (Maps to our [Ad-Hoc Data Development Process](/handbook/business-technology/data-team/data-development/#ad-hoc-data-development))
+    1. **Customer Success**
+        1. **SAFE**
+            1. CS: Workbook Name
+        1. CS: Workbook Name
+    1. **Data Sources**
+        1. CS: Data Source Name
+        1. CS: Virtual Connection Name
+1. **Production** (Maps to our [Trusted Data Development Process](/handbook/business-technology/data-team/data-development/#trusted-data-development))
+    1. **Go To Market**
+        1. **Trusted Data** (Passes 100% of Trusted Data Standards)
+            1. **SAFE**
+                1. GTM: Workbook Name
+            1. GTM: Workbook Name
+        1. **Business Certified** (Does not pass 100% of Trusted Data Standards, but is the SSOT for an area of Business Analysis. These workbooks should have a remediation plan to receive Trusted Data Certification.)
+            1. **SAFE**
+                1. GTM: Workbook Name
+            1. GTM: Workbook Name
+        1. **Data Sources**
+            1. GTM: Data Source Name
+            1. GTM: Virtual Connection Name
+    1. **Customer Success**
+        1. **Trusted Data** (Passes 100% of Trusted Data Standards)
+            1. **SAFE**
+                1. CS: Workbook Name
+            1. CS: Workbook Name
+        1. **Business Certified Workbooks** (Does not pass 100% of Trusted Data Standards, but is the SSOT for an area of Business Analysis. These workbooks should have a remediation plan to receive Trusted Data Certification.)
+            1. **SAFE**
+                1. CS: Workbook Name
+            1. CS: Workbook Name
+        1. **Data Sources**
+            1. CS: Data Source Name
+            1. CS: Virtual Connection Name
+    2. **Sales**
+    3. **Marketing**
+    4. **Finance**
+    5. **Data Team**
+    6. etc. 
+
+</details>
+
+### BIOPs Workflows
+
+We have three workflows that our Tableau Developer and Viewer community will follow. They are Access Request, Development, and Production Publishing Workflows. 
+
+1. Access Request Workflow..coming soon..
+2. Development Workflow..coming soon..
+3. Production Publishing Workflow..coming soon..
+
 ## Deployment
 
 Tableau Cloud leverages GitLab's existing technology investments and integrates into our IT infrastructure to provide a self-service, modern analytics platform for our users.
