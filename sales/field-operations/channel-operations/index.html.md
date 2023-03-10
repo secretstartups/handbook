@@ -165,14 +165,14 @@ Sales Reps and/or ISRs are [responsible for quoting](https://about.gitlab.com/ha
 Distributors have their own pricelist and are equipped to self-quote and order new business or other order types from it without receiving an official GitLab quote, as long as pricing is at standard programmatic discounts. So, there may be times, especially in multiple bid scenarios, where you may not be aware of the partner(s) bidding on an opportunity until we receive a PO.
 
 #### External Distributor Quote Requests
-If a reseller requests a quote from a distributor via the aliases above, any non-PubSec distributors will contact partnerorderops@gitlab.com to request an official quote. Partner Order Ops will generate and provide the quote to distribution upon request as long as the request aligns to standard programmatic discounts. To further clarify internal rules of engagement, Partner Order Ops:
+If a reseller requests a quote from a distributor via the aliases above, any non-PubSec distributors will contact partnersupport@gitlab.com to request an official quote. Partner Order Ops will generate and provide the quote to distribution upon request as long as the request aligns to standard programmatic discounts. To further clarify internal rules of engagement, Partner Order Ops:
 *   will include the GitLab Sales rep when sending a quote to distribution for visibility and awareness, but does not have an added internal approval step when discounting is programmatic (quote is auto-approved as it's programmatic).
 *   will contact the GitLab Sales rep for approval prior to the quote being finalized and sent when discounting is non-programmatic.
 
 #### Internal Distributor Quote Requests 
 If you are working with a partner and need a distributor quote sent, please either: 
 *   chatter @ Partner Operations on the opportunity with the [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote).
-*   email the [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) and opportunity link to partnerorderops@gitlab.com.
+*   email the [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) and opportunity link to partnersupport@gitlab.com.
 
 #### Partner Order Operations Quote and Order Management Process
 *   Partner Order Ops generates quote with [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote), ensuring:
