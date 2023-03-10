@@ -37,7 +37,7 @@ this workflow.
       template. A Fulfillment PM will review the request and move it to the
       relevant team and trackers if they accept it.
 1. Add the appropriate labels to the issue or epic:
-   - Add `Support Interest::Categorize` to indicate that GitLab Support wants to see this
+   - Add `Support Priority::Categorize` to indicate that GitLab Support wants to see this
      addressed
    - If it is impacting a customer's ability to use the GitLab licensing
      functionality successfully, then add `Customer::Impact` and `UX`
@@ -63,10 +63,10 @@ The issue list spreadsheet is available to all GitLab Team Members. To access it
 #### List contents
 
 The spreadsheet should always contain on its main sheet the full list of all
-epics and issues that have any `Support Interest::xxx` label, and no other epics
-or issues.
+open epics and issues that have any `Support Priority::xxx` label, and no other
+epics or issues.
 
-We encourage everyone who applies the `Support Interest::Categorize` label to
+We encourage everyone who applies the `Support Priority::Categorize` label to
 take an extra moment to add the labeled issue or epic to the end of the list in
 the spreadsheet. The [Regional DRIs](../index.html#regional-dris) will also look
 for newly-labeled items each month and will add them to the list before
@@ -84,7 +84,7 @@ out of the Top 10 section, or change the order within the section, are the
 colored with a red theme, indicating the hottest issues. All items in this
 section, except those being
 [reviewed for possible reprioritization](#review-for-possible-reprioritization),
-have the label `Support Interest::Now`.
+have the label `Support Priority::1`.
 
 ##### Next 10 - NOT Ordered
 
@@ -96,15 +96,16 @@ section are the [Regional DRIs](../index.html#regional-dris).** This section
 of the list is colored with a yellow theme - almost hot. All items in this
 section, except those being
 [reviewed for possible reprioritization](#review-for-possible-reprioritization),
-have the label `Support Interest::Next`.
+have the label `Support Priority::2`.
 
 ##### All the Rest - Not Ordered
 
 The third and final section contains all the remaining items in no particular
 order. All issues and epics should be added to this section when they are
-first labeled with `Support Interest::Categorize`. At the next prioritization
+first labeled with `Support Priority::Categorize`. At the next prioritization
 exercise, those items will be moved to one of the other two sections of the
-list (and appropriately labeled) or relabeled `Support Interest::Later`. This
+list (and appropriately labeled) or relabeled `Support Priority::3`
+or `Support Priority::4`. This
 section of the list is colored with a green theme.
 
 #### Review for possible reprioritization
@@ -112,15 +113,15 @@ section of the list is colored with a green theme.
 Anyone who wants to request that any issue or epic in the list be reviewed for
 possible reprioritization should:
 
-1. Apply the `Support Interest::Review` label
+1. Apply the `Support Priority::Review` label
 1. Add a comment to the issue or epic outlining how they think it should be
    prioritized and their reasoning
 
 #### List structure - columns
 
-| Epic or Issue | Title | Description | Support Interest Label |Product Group | Product DRI | Update |
+| Epic or Issue | Title | Description | Support Priority Label |Product Group | Product DRI | Update |
 | ------------ | ----------- | ------------- | ------------- | ------------- | ----------- | ------ |
-| The issue or epic number, with link | Exact title from the epic or issue | A longer description of the issue or epic, still no more than a few sentences.  | The part of the label after `Support Interest::` | The product group that owns the item. **This is set by the Product Managers** | The Product Manager. **This is set by the Product Managers** | Status information. Questions from Product or Development to each other or Support. This is the only really dynamic column. |
+| The issue or epic number, with link | Exact title from the epic or issue | A longer description of the issue or epic, still no more than a few sentences.  | The part of the label after `Support Priority::` | The product group that owns the item. **This is set by the Product Managers** | The Product Manager. **This is set by the Product Managers** | Status information. Questions from Product or Development to each other or Support. This is the only really dynamic column. |
 
 #### Primary contributors
 
@@ -134,13 +135,13 @@ possible reprioritization should:
   - ask questions and provide status updates
 - L&R Support [Regional DRIs](../index.html#regional-dris)
   - move items between the list sections
-  - add items labeled `Support Interest::Categorize` to the list and remove
+  - add items labeled `Support Priority::Categorize` to the list and remove
     no-longer-needed items from the list
   - Populate and sort the Top 10 list
   - Populate the Next 10 list
   - ask and answer questions
 - L&R SEs
-  - add items labeled `Support Interest::Categorize` to the list
+  - add items labeled `Support Priority::Categorize` to the list
   - ask and answer questions
 
 #### Prioritizing the Top 10
