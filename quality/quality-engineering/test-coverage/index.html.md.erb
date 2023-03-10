@@ -10,23 +10,22 @@ description: "The Quality Department has coverage to support testing particular 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Offline Airgapped GitLab QA scenario
+### Offline environments / Airgapped GitLab QA scenario
 
-The Quality Department has a GitLab QA scenario that supports offline or air-gapped testing.
-We also have other resources for offline testing.
+The Quality Department has a GitLab QA scenario that supports [offline environment / air-gapped](https://docs.gitlab.com/ee/user/application_security/offline_deployments) testing.
 The [scenario](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/lib/gitlab/qa/scenario/test/instance/airgapped.rb) `Test::Instance::Airgapped` is part of [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md#testinstanceairgapped)
-test scenarios. It installs and uses `iptables` on the test instance to drop traffic other
-than specific ports which allow our test access to the test instance.
+test scenarios. The suite runs against a test environment including [Gitaly Cluster](https://docs.gitlab.com/ee/administration/gitaly/) which have been configured using `iptables` to drop traffic other than specific ports which allow our test access to the test instances.
 
 #### Test run schedule
 
 This is triggered on the [Nightly build](https://gitlab.com/gitlab-org/quality/pipeline-common/-/blob/master/ci/nightly/qa.gitlab-ci.yml#L181),
-where [smoke tests](https://docs.gitlab.com/ee/development/testing_guide/smoke.html) for CE and EE are executed. Results of the Nightly pipeline
+where a near full suite of tests for CE and EE are executed (exclusions are made for tests of product features which depend on network connectivity 
+such as importing data from external sources). Results of the Nightly pipeline
 can be found in the generated [Allure report](https://gitlab-qa-allure-reports.s3.amazonaws.com/nightly/master/index.html),
 where test states such as failures can be filtered on.
 Nightly pipelines are visible at the
 [Nightly Pipelines](https://gitlab.com/gitlab-org/quality/nightly/-/pipelines?page=1&scope=all&username=gitlab-bot) page (internal only).
-The offline airgapped smoke test job names are `ce:airgapped-smoke` and `ee:airgapped-smoke`.
+The offline environment / airgapped test job names are `ce:airgapped` and `ee:airgapped`.
 This is one of the [pipelines monitored by the Quality Engineering team](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#qa-test-pipelines) as part of the 
 [Quality Department pipeline triage on-call rotation](/handbook/engineering/quality/quality-engineering/oncall-rotation/).
 
