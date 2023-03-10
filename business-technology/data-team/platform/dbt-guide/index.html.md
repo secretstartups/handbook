@@ -845,7 +845,106 @@ This configuration can be done using the `generate_warehouse_name` macro within 
 
 ### Sample Data in Development
 
-To streamline local development on local models, a way to sample, or use a subset of the data, will be made available to the developers.  This tool will allow developers the option of using sample data, or full data depending on what the situation calls for, allowing them to iterate quickly on the structure of models using sample data and then switch to full data when validation is needed.  Using this in conjunction with local cloning of tables should improve the developer cycle time.
+To streamline local development on local models, a way to sample, or use a subset of the data, is made available to the developers. This tool will allow developers the option of using sample data, or full data depending on what the situation calls for, allowing them to iterate quickly on the structure of models using sample data and then switch to full data when validation is needed. Using this in conjunction with local cloning of tables should improve the developer cycle time.  
+
+When selecting the tool to use, the developer should consider speed gained from the tool and the consequence of leaving the sampling in the code. A Random Sample is easy to add to the code, but if left in the code base, it puts the quality of the production data at risk, whereas a Sample Table will take longer to set up, but has no risk to the production data.
+
+
+#### Random Sample
+
+With the macro [`sample_table`](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.sample_table) the developer will be able to select a random percent of the target table.  This macro takes a percentage value which represent the amount of the target table to be returned.  While the sample is random it is also deterministic, meaning that if the target table has not changed each query will return the same rows.  If this macro is left in the code it will be executed in production and ci environments so it should be removed before merging in to the main code branch.
+
+Example Use:
+
+```sql
+
+SELECT *
+FROM {{ ref('dim_date') }} {{ sample_table(3) }}
+
+-- Resolve to:
+SELECT *
+FROM dev_prod.common.dim_date SAMPLE SYSTEM (3) SEED (16)
+
+
+```
+
+
+#### Sample Table
+
+With a sample table the developer creates a table that represents a sub set of the data in the target table that existing models will use instead of the original table.  This requires configuring the desired samples and performing operations to create the sample tables.  When configuring the sample the sample clause can use the `sample_table` macro or any filtering statement that can be used after the `FROM` statement such as `LIMIT`, `WHERE`, or `QUALIFY`. These sample tables will only be used in non production and ci environments and will not appear in the model lineage.
+
+Workflow steps:
+
+- Clone the target sample tables
+  - Using a command such as [`clone-dbt-select-local-user`](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#cloning-into-local-user-db) ensure that there is a full data table to sample from.
+- Configure the sample for each table to be created
+  - Samples are configured in the `samples` macro in the `samples_yml` variable
+    ```yml
+
+    samples:
+      - name: dim_date
+        clause: "{{ sample_table(3) }}"
+
+    # Or 
+
+    samples:
+      - name: dim_date
+        clause: "WHERE date_actual >= DATEADD('day', -30, CURRENT_DATE())"
+
+    ```
+
+- Construct the sample tables
+  - Using the `run-operation` command execute the `create_sample_tables` macro
+
+    ```
+    dbt run-operation create_sample_tables
+    ```
+
+- Develop and iterate as needed
+- Final test run using the full data
+  - Override the `local_data` variable to be `full-data` as part of the dbt execution
+
+    ```
+    dbt run -s dim_date --vars 'local_data: full_data'    
+    ```
+- Remove sample configuration
+  - Remove the list of samples from the `samples_yml` before merging the code changes
+
+
+Example Use:
+
+```sql
+-- Sample configuration
+/*
+samples:
+  - name: dim_date
+    clause: "WHERE date_actual >= DATEADD('day', -30, CURRENT_DATE())"
+*/
+
+-- dbt run-operation create_sample_tables executes the following command
+CREATE OR REPLACE TRANSIENT TABLE dev_prod.common.dim_date__sample AS SELECT * FROM dev_prod.common.dim_date WHERE date_actual >= DATEADD('day', -30, CURRENT_DATE());
+
+-- In model ref function will retrieve the sample table
+SELECT *
+FROM {{ ref('dim_date') }}
+
+-- Resolves to:
+SELECT *
+FROM dev_prod.common.dim_date__sample
+
+
+```
+#### How Sampleing Macors Work
+
+For more details on how the macros used in sampleing function see the following documentaion:
+
+- [create_sample_tables](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.create_sample_tables)
+- [generate_sample_table_sql](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.generate_sample_table_sql)
+- [get_sample_relation](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.get_sample_relation)
+- [is_table_sampled](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.is_table_sampled)
+- [sample_table](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.sample_table)
+- [samples](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.samples)
+- [ref](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.ref)
 
 
 
