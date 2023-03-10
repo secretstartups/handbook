@@ -291,6 +291,11 @@ Next, merge the merge request:
 
 The `#master-broken-mirrors` channel is to be used to identify unique failures for those projects and flaky failures are not expected to be retried/reacted to in the same way as `#master-broken`.
 
+### Broken JiHu validation pipelines
+
+We run JiHu validation pipelines in some of the merge requests, and it can be
+broken at times. When this happens, check [What to do when the validation pipeline failed](../../ceo/chief-of-staff-team/jihu-support/jihu-validation-pipelines.html#what-to-do-when-the-validation-pipeline-failed) for more details.
+
 ## Security Issues
 
 Security issues are managed and prioritized by the security team. If you are assigned to work on a security issue in a milestone,
