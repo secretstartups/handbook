@@ -151,8 +151,8 @@ To extend a trial SaaS extension.
 ```o.update!(product_rate_plan_id: Plan::ULTIMATE_SAAS_1_YEAR_PLAN, quantity: 25, end_date: Date.parse('2022-11-09'), trial: false)```
    - View the important info below for what values to substitute as needed
 1. Execute the command to synchronise the update: ```Gitlab::Namespaces::UpdatePlanInfoService.new(o, force_sync: true).execute```
-1. Edit the admin notes for the group to document the partner has an NFR subscription and link the issue
-1. Set the shared CI quota to 400
+1. In GitLab.com admin, edit the group and update the **Quota of CI/CD minutes** to 400. See next step on how to find the admin screen.
+1. [Add an admin note](../../../workflows/admin_note.html) for the group to document the partner has an NFR subscription and link the issue.
 
 Some important information to consider:
 
