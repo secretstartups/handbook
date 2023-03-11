@@ -160,12 +160,12 @@ Sales Reps and/or ISRs are [responsible for quoting](https://about.gitlab.com/ha
  
 **For US PubSec:**
 *   Partners transact with Carahsoft via gitlab@carahsoft.com
-*   PubSec distribution is not managed by GitLab Partner Order Operations
+*   PubSec distribution is not managed by GitLab Partner Support
 
 Distributors have their own pricelist and are equipped to self-quote and order new business or other order types from it without receiving an official GitLab quote, as long as pricing is at standard programmatic discounts. So, there may be times, especially in multiple bid scenarios, where you may not be aware of the partner(s) bidding on an opportunity until we receive a PO.
 
 #### External Distributor Quote Requests
-If a reseller requests a quote from a distributor via the aliases above, any non-PubSec distributors will contact partnersupport@gitlab.com to request an official quote. Partner Order Ops will generate and provide the quote to distribution upon request as long as the request aligns to standard programmatic discounts. To further clarify internal rules of engagement, Partner Order Ops:
+If a reseller requests a quote from a distributor via the aliases above, any non-PubSec distributors will contact partnersupport@gitlab.com to request an official quote. Partner Support will generate and provide the quote to distribution upon request as long as the request aligns to standard programmatic discounts. To further clarify internal rules of engagement, Partner Support:
 *   will include the GitLab Sales rep when sending a quote to distribution for visibility and awareness, but does not have an added internal approval step when discounting is programmatic (quote is auto-approved as it's programmatic).
 *   will contact the GitLab Sales rep for approval prior to the quote being finalized and sent when discounting is non-programmatic.
 
@@ -174,15 +174,15 @@ If you are working with a partner and need a distributor quote sent, please eith
 *   chatter @ Partner Operations on the opportunity with the [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote).
 *   email the [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote) and opportunity link to partnersupport@gitlab.com.
 
-#### Partner Order Operations Quote and Order Management Process
-*   Partner Order Ops generates quote with [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote), ensuring:
+#### Partner Support Quote and Order Management Process
+*   Partner Support generates quote with [necessary quote information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#opportunity-requirements-to-request-a-quote), ensuring:
     *   standard programmatic discounts are applied for both distributor and reseller; or,
     *   if discounts requested are non-standard, approvals are requested and received either via quote approval flow or chatter.
-*   Partner Order Ops sends quote to distributor with Opportunity Owner copied.
-*   Partner Order Ops receives distributor PO and confirms whether all information on PO matches GitLab quote as aligned to [opportunity booking requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements).
-    *   If PO and quote match, Partner Order Ops attaches PO to opportunity.
-    *   If PO and quote do not match, Partner Order Ops requests any necessary PO updates from distributor, or makes any internal quote adjustments as needed.
-*   Partner Order Ops attaches PO to opportunity and then submits opportunity for approval. Partner Order Ops then: 
+*   Partner Support sends quote to distributor with Opportunity Owner copied.
+*   Partner Support receives distributor PO and confirms whether all information on PO matches GitLab quote as aligned to [opportunity booking requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements).
+    *   If PO and quote match, Partner Support attaches PO to opportunity.
+    *   If PO and quote do not match, Partner Support requests any necessary PO updates from distributor, or makes any internal quote adjustments as needed.
+*   Partner Support attaches PO to opportunity and then submits opportunity for approval. Partner Support then: 
     *   monitors opportunity to ensure it is updated to Closed-Won.
     *   notifies Distributor when order has been fully processed.
 
