@@ -44,9 +44,8 @@ way.
    1. Ask them to confirm what support level they intend to purchase on the new
       offering.
    1. Ask them the target date for completing the migration.
-1. Open a Support Ops issue using the
-   [Add Zendesk Organization Notes or Tags Request](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request)
-   template:
+1. Open a Support Ops issue in 
+   [this project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-organizations):
    1. Specify that the request is to support a product offering migration.
    1. Specify the new support level to be applied to the organization.
    1. Specify the migration target date.
