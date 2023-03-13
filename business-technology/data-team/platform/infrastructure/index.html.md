@@ -578,12 +578,14 @@ The `dbt_image` directory contains everything needed for building and pushing th
 ### Creating New Images
 {: #new-images}
 
+#### How Creating Images works
 Docker images are only built and pushed to Container Registry when the respective commit has been **tagged**. 
 
 Any commit irrespective if it's on the master or development branch can be tagged (and built!). Therefore, you can begin using an image prior to it being merged into master.
 
-Instructions:
-1. Commit an image change within the [Data Infrastructure repo](https://gitlab.com/gitlab-data/data-image)
+#### Instructions
+1. Commit an image change within the [Data Infrastructure repo](https://gitlab.com/gitlab-data/data-image). 
+    - Generally, this will be done via a merge request to master, but it's possible to tag any commit from any branch.
 1. Choose tag name, see 'Choose Tag Name' section below
 2. Create a tag, see the 'Creating Tags' section below
 3. The build pipelines will automatically run. This takes around 40 minutes. There will be a green checkmark in the [tags page](https://gitlab.com/gitlab-data/data-image/-/tags) next to your tag when it's completed.
@@ -599,9 +601,15 @@ If you're tagging a master commit (already merged to master), you need this form
 If you're creating a test image using a development commit, you can name your tag arbitrarily.
 
 ##### Creating Tags
-You can create a tag via the command line OR using the UI.
+Two options:
 
-Option 1: Command line
+Option 1: GitLab UI
+1. Go to the [data-image/tags](https://gitlab.com/gitlab-data/data-image/-/tags) page and click 'New tag'
+1. Tag name: `v<sem_ver>`
+1. Create from \<branch\>: Creates a tag associated to the latest commit of that branch
+1. Add a message describing this release/change
+
+Option 2: Command line
 ```
 # Either on the master branch or in a feature branch run:
 git tag v<sem_ver>
@@ -609,11 +617,6 @@ git tag v<sem_ver>
 # Push the latest tag
 git push origin $(git describe --tags --abbrev=0)
 ```
-
-Option 2: GitLab UI
-1. Go to the [Create new tag page](https://gitlab.com/gitlab-data/data-image/-/tags/new)
-2. Tag name: `v<sem_ver>`
-3. Create from \<branch\>: Creates a tag associated to the latest commit of that branch
 
 ## Python Housekeeping
 
@@ -1060,24 +1063,25 @@ See the following demo video on how to perform a DBT Full Refresh in Airflow:
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/OIBdemRSAiQ"></iframe></figure>
 
 
-
 ## GitLab Data Utilities
 
 This is a project for centralizing handy functions we use across the team. Project is <https://gitlab.com/gitlab-data/gitlab-data-utils>
 
 ### Cutting a release
+Steps:
+1. Create an MR and make necessary changes within [gitlab-data-utils](https://gitlab.com/gitlab-data/gitlab-data-utils) repo
+1. When changes are complete, increment the minor version in all versioned locations in the project by running `bumpversion --current-version <current-existing-version> patch`
+    - bumpversion command will automatically increment and *commit* the version changes
+1. Merge utils MR to master
+1. After it's merged, [create a new tag in utils](https://gitlab.com/gitlab-data/gitlab-data-utils/-/tags), incrementing the previous tag by one. This automatically publishes a new release to PyPI.
 
-1. Increment the minor version in setup.py.  The minor version is the second number, i.e. `1` in `0.1.0`.  Currently, updating only the minor version is supported.
-1. Make an MR for this change and get it merged into master.
-1. Checkout and pull master locally so you have the version change you just made.  From the root folder of `gitlab-data-utils`, run `make release`, this will make sure you don't have any pending changes and will push a new tag to the GitLab repo.  This in turn will run the pipeline to publish to pypi.
-1. For consistency with pypi, cut a GitLab release with a command similar to this:
-    ````
-    curl --header 'Content-Type: application/json' --header "PRIVATE-TOKEN: <your-private-token>" \
-     --data '{ "name": "GitLab Data Utilities v0.0.1", "tag_name": "v0.0.1", "description": "Initial tagged release"}' \
-     --request POST https://gitlab.com/api/v4/projects/12846518/releases
-     ````
-1. Update the docker image as was done in [this merge request](https://gitlab.com/gitlab-data/data-image/-/merge_requests/98)
+### Use new release
+In order to use the updated utils package, you will generally have to update these 2 repos as well:
+- data-image
+- analytics
+
+For more instructions, refer to this [handbook section](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#new-images).
 
 ## Upgrading dbt for production
 
-See the [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/infrastructure/upgrading_dbt_version.md) for instructions on how to independently and asyncronously upgrade dbt.
+See the [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/infrastructure/upgrading_dbt_version.md) for instructions on how to independently and asynchronously upgrade dbt.
