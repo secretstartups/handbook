@@ -25,7 +25,7 @@ No yearly board for FY21.
 | ------- | ----:| ------:|
 | [@shinya.maeda](https://gitlab.com/shinya.maeda) | 1 | 400 |
 | [@stanhu](https://gitlab.com/stanhu) | 2 | 300 |
-| [@pks-gitlab](https://gitlab.com/pks-gitlab) | 3 | 200 |
+| [@pks-t](https://gitlab.com/pks-t) | 3 | 200 |
 | [@10io](https://gitlab.com/10io) | 4 | 200 |
 | [@jaime](https://gitlab.com/jaime) | 5 | 200 |
 | [@mksionek](https://gitlab.com/mksionek) | 6 | 200 |

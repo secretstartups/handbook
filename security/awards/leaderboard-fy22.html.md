@@ -34,7 +34,7 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@engwan](https://gitlab.com/engwan) | 13 | 840 |
 | [@WarheadsSE](https://gitlab.com/WarheadsSE) | 14 | 830 |
 | [@xanf](https://gitlab.com/xanf) | 15 | 740 |
-| [@pks-gitlab](https://gitlab.com/pks-gitlab) | 16 | 700 |
+| [@pks-t](https://gitlab.com/pks-t) | 16 | 700 |
 | [@ifrenkel](https://gitlab.com/ifrenkel) | 17 | 700 |
 | [@dsearles](https://gitlab.com/dsearles) | 18 | 700 |
 | [@cwoolley-gitlab](https://gitlab.com/cwoolley-gitlab) | 19 | 700 |
@@ -47,7 +47,7 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@philipcunningham](https://gitlab.com/philipcunningham) | 26 | 600 |
 | [@gonzoyumo](https://gitlab.com/gonzoyumo) | 27 | 600 |
 | [@leipert](https://gitlab.com/leipert) | 28 | 580 |
-| [@alan](https://gitlab.com/alan) | 29 | 580 |
+| [@mparuszewski](https://gitlab.com/mparuszewski) | 29 | 580 |
 | [@igor.drozdov](https://gitlab.com/igor.drozdov) | 30 | 500 |
 | [@alexpooley](https://gitlab.com/alexpooley) | 31 | 500 |
 | [@shreyasagarwal](https://gitlab.com/shreyasagarwal) | 32 | 500 |
@@ -203,7 +203,7 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@mkaeppler](https://gitlab.com/mkaeppler) | 10 | 500 |
 | [@hortiz5](https://gitlab.com/hortiz5) | 11 | 460 |
 | [@bdenkovych](https://gitlab.com/bdenkovych) | 12 | 440 |
-| [@alan](https://gitlab.com/alan) | 13 | 400 |
+| [@mparuszewski](https://gitlab.com/mparuszewski) | 13 | 400 |
 | [@ggeorgiev_gitlab](https://gitlab.com/ggeorgiev_gitlab) | 14 | 400 |
 | [@peterhegman](https://gitlab.com/peterhegman) | 15 | 400 |
 | [@cam_swords](https://gitlab.com/cam_swords) | 16 | 400 |
@@ -220,7 +220,7 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@jcaigitlab](https://gitlab.com/jcaigitlab) | 27 | 200 |
 | [@fjsanpedro](https://gitlab.com/fjsanpedro) | 28 | 200 |
 | [@theoretick](https://gitlab.com/theoretick) | 29 | 200 |
-| [@pks-gitlab](https://gitlab.com/pks-gitlab) | 30 | 200 |
+| [@pks-t](https://gitlab.com/pks-t) | 30 | 200 |
 | [@changzhengliu](https://gitlab.com/changzhengliu) | 31 | 200 |
 | [@garyh](https://gitlab.com/garyh) | 32 | 160 |
 | [@pshutsin](https://gitlab.com/pshutsin) | 33 | 120 |
@@ -310,7 +310,7 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@toupeira](https://gitlab.com/toupeira) | 19 | 170 |
 | [@pshutsin](https://gitlab.com/pshutsin) | 20 | 140 |
 | [@mksionek](https://gitlab.com/mksionek) | 21 | 120 |
-| [@alan](https://gitlab.com/alan) | 22 | 100 |
+| [@mparuszewski](https://gitlab.com/mparuszewski) | 22 | 100 |
 | [@nick.thomas](https://gitlab.com/nick.thomas) | 23 | 90 |
 | [@mwoolf](https://gitlab.com/mwoolf) | 24 | 90 |
 | [@Andysoiron](https://gitlab.com/Andysoiron) | 25 | 90 |
@@ -371,7 +371,7 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | Nominee | Rank | Points |
 | ------- | ----:| ------:|
 | [@manojmj](https://gitlab.com/manojmj) | 1 | 900 |
-| [@pks-gitlab](https://gitlab.com/pks-gitlab) | 2 | 500 |
+| [@pks-t](https://gitlab.com/pks-t) | 2 | 500 |
 | [@djadmin](https://gitlab.com/djadmin) | 3 | 400 |
 | [@pgascouvaillancourt](https://gitlab.com/pgascouvaillancourt) | 4 | 400 |
 | [@10io](https://gitlab.com/10io) | 5 | 380 |
@@ -471,7 +471,7 @@ This page is [auto-generated and updated every Mondays](../security-awards-progr
 | [@lauraMon](https://gitlab.com/lauraMon) | 28 | 80 |
 | [@dustinmm80](https://gitlab.com/dustinmm80) | 29 | 80 |
 | [@rmarshall](https://gitlab.com/rmarshall) | 30 | 80 |
-| [@alan](https://gitlab.com/alan) | 31 | 80 |
+| [@mparuszewski](https://gitlab.com/mparuszewski) | 31 | 80 |
 | [@mcelicalderonG](https://gitlab.com/mcelicalderonG) | 32 | 80 |
 | [@iamphill](https://gitlab.com/iamphill) | 33 | 80 |
 | [@digitalmoksha](https://gitlab.com/digitalmoksha) | 34 | 80 |
