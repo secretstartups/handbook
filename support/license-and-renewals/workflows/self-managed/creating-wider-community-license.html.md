@@ -11,15 +11,16 @@ category: GitLab Self-Managed licenses
 
 ## Overview
 
-Our [Code Contributor Program](https://about.gitlab.com/handbook/marketing/community-relations/code-contributor-program/#contributing-to-the-gitlab-enterprise-edition-ee) allows community contributors to contribute to GitLab Enterprise Edition. After trialling for 30 days, a EE license for 3 months can be generated if requested by a Community Relations team member using [the request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). Subsequent requests can be processed every 3 months.
+Our [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/#contributing-to-the-gitlab-enterprise-edition-ee) allows community contributors to contribute to GitLab Enterprise Edition. After trialling for 30 days, an EE license for 90 days can be generated if requested by a Contributor Success team member using [the internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). Subsequent requests can be processed as necessary.
 
 ## Actioning
-An internal request will be received [similar to this example](https://gitlab.zendesk.com/agent/tickets/293087), which should contain the required information to generate a 90-day license. Follow the [procedure to create a new license](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#create-a-new-license), ensuring the following:
+
+An internal request will be received [similar to this example](https://gitlab.zendesk.com/agent/tickets/293087), which should contain the required information to generate a license. Follow the [procedure to create a new license](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#create-a-new-license), ensuring the following:
 
 - Plan: `Ultimate`, unless specified otherwise.
 - Trial: `Yes` (is ticked)
 - Starts at: (The current date)
-- Expires at: (90 days from the current date)
+- Expires at: (90 days or 1 year from the current date)
 
 ## Responding
 
