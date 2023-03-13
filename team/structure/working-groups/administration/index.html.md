@@ -53,3 +53,5 @@ The maintenance and enhancement of GitLab Administration functions has been a sh
 | Member                                   | Oriol Lluch Parellada (@o-lluch)  | Engineering Manager, Infrastructure |
 | Member                                   | Hannah Sutor (@hsutor)  | Senior Product Manager - Auth |
 | Member                                   | Falko Sieverding (@fsieverding)  | Customer Success Manager, EMEA |
+| Member                                   | Shawn Sichak (@ssichak)  | Senior Security Engineer, Trust and Safety |
+| Member                                   | Manuel Kraft (@manuel.kraft)  | Customer Success Manager, EMEA |
