@@ -89,17 +89,17 @@ Notes:
 
 ## Paragraphs, breaks, and horizontal lines
 
-Regular paragraphs are obtained by just writing text lines. If you hit **enter** between two lines,
-both lines will be joined into a single paragraph, which is called [wrapping text][wrap].
-But, if you leave a blank line between them, they will split into two paragraphs.
+Regular paragraphs are obtained by just writing text lines:
+
+* If you hit **enter** between two lines, both lines will be joined into a single paragraph, which is called [wrapping text][wrap].
+* If you leave a blank line between them, they will split into two paragraphs.
+* If you end a line with a backslash (`\`) or two spaces, the next line appears on a new line in the same paragraph (a line break).
 
 In some Git tools, `diffs` in future MRs may be easier to understand with additional line breaks, however GitLab's web interface as well as many desktop Git tools feature substring change highlighting within lines and side-by-side or similar version comparison so there is no need for artificial line breaks.
 
 ### Wrapping Text
 
-Splitting long lines (preferably up to 100 characters) can make it easier to provide feedback on small chunks of text. Do
-not leave blank spaces after the last word of the line broken within a paragraph, unless you want it to be intentionally
-broken with a `<br>`.
+Splitting long lines (preferably up to 100 characters) can make it easier to provide feedback on small chunks of text.
 
 #### Regular paragraphs and automatic join
 
