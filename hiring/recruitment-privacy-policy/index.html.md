@@ -27,7 +27,7 @@ We may collect the following personal data from you when you apply for a positio
 *Information We Collect from Other Parties*
 
 We may collect personal data from other parties as part of the recruitment process. For example:
-* Information provided from agencies performing background checks;
+* Information provided from agencies performing background checks or right to work verifications;
 * Information from public sources and social media sites;
 * Information from recruitment agencies that you have asked to support you in finding a job;
 * Information provided by GitLab team members who have referred you for a job.
@@ -42,11 +42,11 @@ We may collect and use your personal data for the following purposes:
 * For other purposes as described to you at the time we collect your personal data.
 
 #### When Does GitLab Share Your Data and Who are the Recipients?
-As pert of the recruitment process, GitLab may disclose your personal data in the following circumstances:
+As part of the recruitment process, GitLab may disclose your personal data in the following circumstances:
 * Internally with GitLab team members, contractors, and vendors who require the information to administer and manage the recruitment process;
 * To third-party service providers which process personal data on our behalf to provide certain services, such as background checks;
 * To third-parties with whom you instruct GitLab to share your personal data;
-* We may share your personal dataif we believe it is reasonably necessary to comply with valid legal process (e.g., subpoenas, warrants) or protect the rights, property, or safety, of GitLab, our employees, or users;
+* We may share your personal data if we believe it is reasonably necessary to comply with valid legal process (e.g., subpoenas, warrants) or protect the rights, property, or safety, of GitLab, our employees, or users;
 * If GitLab is acquired or transferred (including in connection with a bankruptcy or similar proceedings), we may share your personal data with the acquiring or receiving entity. 
 
 #### Legal Basis for Processing Your Personal Data
@@ -57,7 +57,7 @@ If you are located in the European Economic Area (EEA), United Kingdom, or Switz
 
 *Legitimate Interest:* We process certain personal data for our legitimate interests. These legitimate interests include, for example, administering the recruitment process and managing applicants effectively.
 
-*Performance of a Contract:* We process personal data to perform steps that are necessary prior to entering an employment contract with you, where you are considered for employment.'
+*Performance of a Contract:* We process personal data to perform steps that are necessary prior to entering an employment contract with you, where you are considered for employment.
 
 *Compliance with Legal Obligations:* In some cases, we may have a legal obligation to process your personal data, such as to meet our legal requirements or in response to a court or regulatory order. We also may need to process your personal data to protect vital interests, or to exercise, establish, or defend legal claims.
 
@@ -73,7 +73,7 @@ Access to your personal data is controlled and GitLab maintains a comprehensive 
 
 #### Data Retention
 
-Your personal data will be retained until the end of the employment application process plus a reasonable period thereafter. If your job application is successful, the personal data collected during the recruitment process will be added to your human resources file and retained for the duration of your employment.
+Your personal data will be retained until the end of the employment application process plus a reasonable period thereafter. If your job application is successful and you accept a position, the personal data collected during the recruitment process will be added to your human resources file and retained for the duration of your employment.
 
 #### Your Rights and Choices
 
@@ -95,5 +95,5 @@ The controller of your personal data is the GitLab affiliate who is hiring.
 
 #### Policy Updates
 
-This policy was last updated on `2021-03-24`.
+This policy was last updated on `2023-03-14`.
 
