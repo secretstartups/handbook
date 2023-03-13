@@ -16,7 +16,7 @@ GitLab's Marketing Site (about.gitlab.com) is led by the [Digital Experience Tea
 
 The [DRI](/handbook/people-group/directly-responsible-individuals/) for the Marketing Site is [Michael Preuss](https://gitlab.com/mpreuss22), and internal GitLab team members can drop questions in Slack at #digital-experience-team
 
-This documentation refers to GitLab Website pages that live in the [`www-gitlab-com` repository](https://gitlab.com/gitlab-com/www-gitlab-com). The Digital Experience team is migrating GitLab's Marketing Site to the <a href="/handbook/marketing/digital-experience/buyer-experience-repository/">Buyer Experience Repository</a></li>.
+This documentation refers to GitLab Website pages that live in the [`www-gitlab-com` repository](https://gitlab.com/gitlab-com/www-gitlab-com). The Digital Experience team is migrating GitLab's Marketing Site to the [Buyer Experience Repository](/handbook/marketing/digital-experience/buyer-experience-repository).
 
 ## Objectives
 
@@ -36,7 +36,7 @@ Generate demand for GitLab by:
 
 ## Scope
 
-The GitLab marketing site, or simply the "GitLab Website" refers to all of the content on `https://about.gitlab.com` and the contents of `sites/uncategorized` in the www-gitlab-com rexcept for:
+The GitLab marketing site, or simply the "GitLab Website" refers to all of the content on `` and the contents of `sites/uncategorized` in the www-gitlab-com rexcept for:
 
 - The Docs: `docs.gitlab.com`
 - The GitLab.com product: `gitlab.com`
@@ -67,7 +67,7 @@ TBD - format will be a table with a list of tracking tools and brief description
 
 For example: Google Analytics web metrics
 
-GitLab also publishes a [list of all the technology](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) that GitLab currently uses to support the business.
+GitLab also publishes a [list of all the technology](/handbook/business-technology/tech-stack-applications/) that GitLab currently uses to support the business.
 
 ## Definitions
 
@@ -129,7 +129,7 @@ Similar content can appear as a topic, solution, and in the product section with
 - A category page `/product/continuous-integration` would talk about the capabilities and features that are part of GitLab's CI functionality and the value it has.
 
 ## Requesting Support
-If you need support please review the information on the [Digital Experience Hanbook Page](https://about.gitlab.com/handbook/marketing/digital-experience/#requesting-support)
+If you need support please review the information on the [Digital Experience Hanbook Page](/handbook/marketing/digital-experience/#requesting-support)
 
 ## Updating the Marketing Website
 
@@ -264,7 +264,7 @@ How to create an analyst report page in 5 not-so-easy steps.
 
 #### AR Part 3: Create and upload a report image
 
-1. Create an image of the report. Opening a PDF in Mac preview you can go to File > Export and select JEPG to save the 1stst page of the report. For example: https://about.gitlab.com/images/analysts/cloud-ci-thumb.png. This is a tricky step because what you name the file is very important. It is highly recommended that you use “kabob case” meaning all lowercase letters with dashes in between the words instead of spaces. It looks like shish kabob :)
+1. Create an image of the report. Opening a PDF in Mac preview you can go to File > Export and select JEPG to save the 1stst page of the report. For example: /images/analysts/cloud-ci-thumb.png. This is a tricky step because what you name the file is very important. It is highly recommended that you use “kabob case” meaning all lowercase letters with dashes in between the words instead of spaces. It looks like shish kabob :)
 1. Upload the image to the `/images/analysts/` folder.
 1. Open the WebIDE from your MR. This is a tricky step. If you don't’ open the WebIDE from your MR then you’ll be working on a different branch. Changes you make on that branch won’t show up in your MR. Alternatively, you can keep the WebIDE open in a tab and continue to make changes after you add each commit. As long as you commit to the same branch it will update on the same MR.
 1. On the edit tab, open the `source` folder, then the `images` folder, then the `analysts` folder. This is kinda tricky because you have to scroll past a lot of folders to find the one you want. The folders are in alphabetical order.
@@ -344,7 +344,7 @@ When adding an image to a webpage, be sure that you optimize the image first.
 ### Updating the team page and org chart
 
 1. Both the [team page](/company/team/) and [org chart](https://comp-calculator.gitlab.net/org_chart) are updated based on your individual [team member .yml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team_members/person).
-1. Follow the directions to [add or update your team page entry](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page).
+1. Follow the directions to [add or update your team page entry](/handbook/git-page-update/#12-add-yourself-to-the-team-page).
 
 ### Updating the homepage promo banner (`hello-bar`)
 
@@ -455,8 +455,8 @@ This list is used in the automated triage operation ["Stage and group labels inf
 - `body`: content added in markdown will be [auto-generated](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/config.rb#L133) and turned into a page at `/product/<category>/`. Features and missing features sections are automatically added to the generated category pages based on what category a feature belongs to in `features.yml`. c.f. [Project Management](/solutions/agile-delivery/) (and auto-generated page from the [`body` section in `categories.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/categories.yml#L148)) with [Continuous Integration](/stages-devops-lifecycle/continuous-integration/) (a [custom page](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/stages-devops-lifecycle/continuous-integration/index.html.haml).)
 - `opportunity`: values can be `Core`, `Adjacent`, `Distant` - is this category considered part of our existing `Core` DevOps platform, a directly `Adjacent` set of capabilities or a `Distant` vision for future breadth.
 - `differentiation`: values can be `Winning`,`Compelling`,`Minimal` - is this category sufficiently differentiated from competitors to be considered capable of consistently `winning`, providing an `compelling` additive component to our single platform value or adding only `minimal` differentiated value.
-- `ux_scorecard_score`: value should be a letter score, following the [grading rubric](https://about.gitlab.com/handbook/product/ux/ux-scorecards/#grading-rubric)
-- `ux_scorecard_link`: should link to the specific issue for the scorecard for this category. More details on [UX Scorecards here](https://about.gitlab.com/handbook/product/ux/ux-scorecards/#setup)
+- `ux_scorecard_score`: value should be a letter score, following the [grading rubric](/handbook/product/ux/ux-scorecards/#grading-rubric)
+- `ux_scorecard_link`: should link to the specific issue for the scorecard for this category. More details on [UX Scorecards here](/handbook/product/ux/ux-scorecards/#setup)
 - `dogfooding_status`: values can be `planned`, `limited`, and `exclusive`. Described in detail and used on `/source/direction/dogfooding`
 - `dogfooding_issue`: should link to the specific issue tracking dogfooding for this issue, per the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)
 - `dogfooding_group`: should list the right group/team/role/individual inside GitLab that should use the capability
@@ -497,7 +497,7 @@ Any change to a Stage or Group, or a significant change to a Category, is a majo
 
 Due to their impact, executive approval for major changes is required in addition to the PMs, PMMs, and EMs responsible. Follow the approval process defined on the [categories page](/handbook/product/categories/#changes).
 
-After merging, changes to feature categories will trickle down into [error budgets](/handbook/engineering/error-budgets#how-to-change-error-budget-attribution) at the start of next month when the [Scalability group](/handbook/engineering/infrastructure/scalability) gets an automated issue [like this one](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2040). Someone from the [Projections team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/projections.html) will change the ownership in the application, and update error budgets accordingly. As a product manager, nothing more needs to be done. The Projections team might reach out on the original merge request for clarification if needed.
+After merging, changes to feature categories will trickle down into [error budgets](/handbook/engineering/error-budgets#how-to-change-error-budget-attribution) at the start of next month when the [Scalability group](/handbook/engineering/infrastructure/scalability) gets an automated issue [like this one](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/2040). Someone from the [Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html) will change the ownership in the application, and update error budgets accordingly. As a product manager, nothing more needs to be done. The Projections team might reach out on the original merge request for clarification if needed.
 
 **Minor changes**
 
@@ -541,7 +541,7 @@ To add a new feature, add a feature block to under the `features:` section of th
 - **self_managed**: `true`, `false` or `not_applicable`, defaults to `true`. Is this feature or capability available for self-managed users? Use `not_applicable` for features that do not apply to a self-managed service, for example the operational characteristics of our SaaS services.
 - **dedicated**: `true`, `false` or `not_applicable`, defaults to `true`. Is this feature or capability available for GitLab Dedicated? Use `not_applicable` for features that do not apply to a SaaS service, such as the operational details of the service itself, like `Fault-tolerant PostgreSQL`.
 - **gitlab_com**: `true`, `false` or `not_applicable`, defaults to `true`. Is this feature or capability available on GitLab.com? Because GitLab.com tiers map 1:1 to self-managed tiers setting this will automatically assign the GitLab.com tier. E.g. `gitlab_core: true` + `gitlab_com: true` == `GitLab.com Free`. Adding a tiers fields is what powers the tier badges on product pages and comparison pages, as well as powers the tier [feature comparison of the pricing page](/pricing/feature-comparison/). Use `not_applicable` for features that do not apply to GitLab.com, such as the operational details of the service itself, like `Fault-tolerant PostgreSQL`.
-- **gitlab_com_parity**: For features which are currently not available on GitLab.com, but still applicable, this field should used to provide a rationale or path towards parity. Supports markdown, links to issues are encouraged. Content shows up on the [GitLab.com missing features list](https://about.gitlab.com/features/).
+- **gitlab_com_parity**: For features which are currently not available on GitLab.com, but still applicable, this field should used to provide a rationale or path towards parity. Supports markdown, links to issues are encouraged. Content shows up on the [GitLab.com missing features list](/features/).
 - **toolname**<a name="feature_status_defs"></a>: any tool from the `devops_tools:` section such as `jira:`, `circle_ci:`, `blackduck:`, etc. that does or does not have this feature. Holds a value of either `true` or `false` or `partially` or is blank (indicating subfields with details should exist).
     - `true` or `false` or `partially`: Examples of `partially` are if a DevOps tool has some but not all of the feature described, or if they have the feature, but only through a plugin. If using `partially` it is highly recommended to instead add `details` as to what partially actually means (see next)
     - <blank>:<a name="feature_status_details"></a> Means that the feature for this particular toolname have a sub-section with details:
@@ -667,9 +667,9 @@ ruby scripts/get-most-recent-commits.rb
 
 It doesn't exactly map to URLs on about.GitLab.com, but this should be able to give you a pulse of what gets updated and how frequently. It only checks files in `data/` and `sites/uncategorized/` for now. For each file tracked in git in both of those folders, it grabs the file name and its most recent commit date (as known to git on your machine - so it will be incorrect if you haven't recently fetched or pulled from master).
 
-Most of the `data/` files map closely to a URL on the website. For instance, `data/topic/ci-cd.yml` is the data for https://about.gitlab.com/topics/ci-cd/. So you should be able to scan through the CSV and get a good sense of how recently we've updated data files.
+Most of the `data/` files map closely to a URL on the website. For instance, `data/topic/ci-cd.yml` is the data for /topics/ci-cd/. So you should be able to scan through the CSV and get a good sense of how recently we've updated data files.
 
-The files in `sites/uncategorized` are a little more complex. Some of them are straightforward, like `sites/uncategorized/source/get-started/index.html.md` is `https://about.gitlab.com/get-started/`. Others are a little more meta, but still give you good information, like `sites/uncategorized/source/includes/cms/topic/body.html.haml` will tell you how recently we have updated the layout for the body partials of the aforementioned topic pages.
+The files in `sites/uncategorized` are a little more complex. Some of them are straightforward, like `sites/uncategorized/source/get-started/index.html.md` is `/get-started/`. Others are a little more meta, but still give you good information, like `sites/uncategorized/source/includes/cms/topic/body.html.haml` will tell you how recently we have updated the layout for the body partials of the aforementioned topic pages.
 
 Getting a direct mapping of each URL and its corresponding files is possible, but not practical. The only way we can find that out is by hooking into the [Middleman sitemap](https://www.rubydoc.info/gems/middleman-core/Middleman/Sitemap), which is [only available to us in templates](https://middlemanapp.com/advanced/sitemap/#accessing-the-sitemap-from-code). That means we have to have a Middleman instance running (or run the build process). But getting the most recent commit date requires having Ruby run a [system call](https://www.rubyguides.com/2018/12/ruby-system/) to run `git log -1 --format=%cd --date=short /path/to/file` for each and every file. It takes a long time, and including that in Middleman somewhere would impact the overall pipeline negatively.
 
@@ -738,7 +738,7 @@ If you need to **temporarily** preview an item in the review app before release,
 
 ### What logos do we have permission to use?
 
-On the about.gitlab.com website we have approval to use the customer logos lisited at the following link, [Approved customer logos for promotion](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#approved-customer-logos-for-promotion)
+On the about.gitlab.com website we have approval to use the customer logos lisited at the following link, [Approved customer logos for promotion](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#approved-customer-logos-for-promotion)
 </details>
 <details markdown="1">
 
