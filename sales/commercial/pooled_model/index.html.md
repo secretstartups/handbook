@@ -390,7 +390,7 @@ As detailed above, however the case will have the subject **HR: SDR Created**
 
 ### Support Ticket
 
-If the Pooled Customer raises a support ticket, it will be picked up via Zendesk by a Support Engineer.  If this Support Engineer now needs to loop in Sales, and the owner of the account in SFDC is `Pooled Sales User [ DO NOT CHATTER ]`, the [Working with Sales - Salesforce `Account Owner` is `POOLED USER [ DO NOT CHATTER ]`](sites/handbook/source/handbook/support/license-and-renewals/workflows/working_with_sales.html.md) workflow should be followed.
+If the Pooled Customer raises a support ticket, it will be picked up via Zendesk by a Support Engineer.  If this Support Engineer now needs to loop in Sales, and the owner of the account in SFDC is `Pooled Sales User [ DO NOT CHATTER ]`, the [Working with Sales - Salesforce `Account Owner` is `POOLED USER [ DO NOT CHATTER ]`](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html#if-the-salesforce-account-owner-is-pooled-user--do-not-chatter-) workflow should be followed.
 
 #### Self Service Ops
 
@@ -416,6 +416,13 @@ If the Pooled Customer raises a support ticket, it will be picked up via Zendesk
 - Once a Case is considered resolved, the **Status** should be set to one of the four Closed options, and the **Resolution Action** updated. This will automatically update the **Date/ Time Closed** field.
 - If applicable, the related opportunity should also be closed. 
 - At any time, a Pooled AE can view their cases by navigating to the **My Cases** list view in Salesforce.
+- Since these cases are to be worked on a reactive basis, and are deemed low priority, the below follow up cadence should be followed.  
+
+| *Day 1* | *Day 3* | *Day 5*| *Day 7*        | 
+|----------------------|--------|-----------------|-------------------|
+| Email          | Call | Email   | Email      | 
+
+- A Pooled AE should look to resolve/ close a case within 7 days of it being opened. 
 
 ### FAQ
  
