@@ -308,15 +308,6 @@ The GitLab Billing Manager will pull an expense report after each month end to b
 
 If there are other questions in regards to the GitLab Travel policy, refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/)
 
-GitLab Partner Travels:
-
-Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. 
-The Project Manager or Project Coordinator will provide the partner the travel budget.  
-Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the following details
-   * Separate line item for expenses on the invoice 
-   * One PDF document to include receipts for each expense
-Expenses are to be invoiced in the month in which they have incurred.
-
 
 ### Kantata Project Status/ Colors
 
