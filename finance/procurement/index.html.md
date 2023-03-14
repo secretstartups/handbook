@@ -216,7 +216,7 @@ If your request meets any of the below criteria, add the additional time noted f
 
 ### Security Review: 4-14 Days 
 - [Security Third Party Risk Management](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) reviews are required for vendors that collect, process, or store Orange / Red Data, software providers (SaaS and On-premise), and independent contractors / consultants. (Excluding field marketing events)
-- This activity cannot begin until **after** the supplier completes the security and supplies their security documentation. Oftentimes, it can take 1-2 weeks for the supplier to respond and complete the requested materials. The security review SLA begins once that is completed. Time before this activity can begin is entirely dependent upon the supplier's response time and maturity of security protocols.
+- This activity cannot begin until **after** the supplier completes the security questionnaire and supplies their security documentation. Oftentimes, it can take 1-2 weeks for the supplier to respond and complete the requested materials. The security review SLA begins once that is completed. Time before this activity can begin is entirely dependent upon the supplier's response time and maturity of security protocols.
 - **TIP:** To increase speed of approval, upload any security compliance documentation (SOC-2 Report, ISO27001 Certificate) to the ZipHQ Request and notify your supplier contact they will be receiving a request from ZenGRC for completion ASAP.
 - For any inquiries and questions, please tag @securityrisk in the #procurement slack channel. 
 
@@ -226,6 +226,7 @@ If your request meets any of the below criteria, add the additional time noted f
 - A Privacy Review is required for all SaaS purchases and other purchase types where the supplier will receive from GitLab or collect on GitLab's behalf red/orange data.  
 - A DPA/SCCs are often made part of the agreement with the supplier. Generally, Privacy would prefer to use our DPA/SCCs but if the the supplier provides their DPA/SCCs as an exhibit to the main agreement, Legal and Privacy may use the supplier's version to arrive at a final agreed upon version. Procurement will obtain executed versions of DPA/SCCs in the Final Buyer Review stage.
 - **TIP:** To increase speed of approval, add a link to the suppliers privacy notice; upload the suppliers Transfer Impact Assessment Guide; and upload a word version of their DPA/SCCs if the supplier requuests us to use their version.
+
 ### Legal Review: 3 Days - 3+ Weeks  
  _Note: The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended_
 
