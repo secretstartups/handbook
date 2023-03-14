@@ -12,14 +12,16 @@ title: Renewals Managers
 Global Renewals Organization
 ---
 
-View the Renewals Manager handbook pages [How We Do It](https://about.gitlab.com/handbook/customer-success/renewals-managers/how) or [What we do](https://about.gitlab.com/handbook/customer-success/renewals-managers/what) for additional content on how renewals managers execute their tasks. 
+View the Renewals Manager handbook pages:
+- [How We Do It](https://about.gitlab.com/handbook/customer-success/renewals-managers/how) - Information about how renewals managers execute on the mission.
+- [What we do](https://about.gitlab.com/handbook/customer-success/renewals-managers/what) - Information about what tasks and activities renewals managers perform.
 
 Renewals Managers --> visit the internal handbook [page](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/) for more information.
 
 ---
 The Global Renewals Organization is part of the [GitLab Customer Success](https://about.gitlab.com/handbook/customer-success/) function. We partner with Customer Success, field sales, our ecosystem of partners, support and marketing organizations to deliver maximum value to GitLab customers throughout their subscription lifecycle.
 
-The Global Renewals Organization is made up of *renewals managers*. A renewals manager looks after a customers entire existing book of renewable business and manages those renewal opportuntities in Salesforce from inception (day one after a new sale) to renewal booking. A renewals manager is aligned to a territory, and supports customers within that territory by working in coordination with an account team (typically made up of a Customer Success Manager/Engineer and Account Executive).
+The Global Renewals Organization is made up of *renewals managers*. A renewals manager looks after a customers entire existing book of renewable business and manages those renewal opportuntities in Salesforce from inception (day one after a new sale) to renewal booking. A renewals manager is aligned to a territory and supports customers within that territory by working in coordination with an account team (typically made up of a Customer Success Manager/Engineer, a Solutions Architect, and an Account Executive).
 
 The Global Renewals Organization is divided into four geographic areas of coverage:
 
@@ -32,6 +34,7 @@ Other ways to reach members of the Global Renewals Organization include:
 
 - Global renewals manager slack channel --> [#global-renewals-managers] (public, world-wide team channel used for best practices, questions, updates)
 - Global renewals leadership slack channel: [#global-renewals-leadership] (private, managers wide channel used for updates, questions, best practices)
+- Global renewals organization feedback channel: [#renewals-org-ideas-and-feedback] (public, world-wide feedback channel)
 
 
 ## Mission Statement
@@ -49,24 +52,23 @@ To be the defining subscription renewals organization among peers in the SaaS in
 - ### Customer first
   The renewals team exists to service the needs of our customers. We prioritize what's best for the customer before what's best for GitLab. 
 - ### Collaboration always
-   As much as possible, we emphasize team goals over individual achievement. 
-
+   As much as possible, we emphasize **team** goals over individual achievement. 
 - ### Continous improvement
-   The renewals organization is dedicated to developing a community of renewals **scientists** that seek to identify process waste and poor customer experience and develop practices for improvement. 
+   The renewals organization is dedicated to developing a community of renewals **scientists** that seek to identify process waste and poor customer experience to develop practices for improvement. 
 
 ## Strategy
 
-Our strategy defines how we win in the market we have chosen to compete. It is not timebound; simply a series of declartive statements about the competitive advantages we seek and the systems that will deliver those advantages. 
+Our strategy defines how we win in the market we have chosen to compete. It is not timebound - simply a series of declartive statements about the competitive advantages we seek and the systems that will deliver those advantages. 
 
 ### Market
 
- Enterprise and Growth sales segments
+ Enterprise and Growth sales segments, with a focus on customers that are under full renewals lifecycle management.
 
 ### How we win
 
 1. More impactful customer engagement via a thoughtfully architected and executed subscription lifecycle
 2. More efficient and effective renewal operations
-3. A better customer renewal experience driven by a culture of small, incremental continuous improvement
+3. A better customer renewal experience driven by a culture of small, incremental continuous improvements
 4. An empowering team culture
 
 ### Capabilities and managmeent systems necessary
