@@ -13,7 +13,9 @@ description: 'Details on generating GitLab licenses for GitLab team members'
 
 ## Overview
 
+This page is meant for Support Operations team members to action on a request for a self-managed license.
 
+GitLab team members wanting to request a plan or license should file an access request, more details can be found on [the internal support page](../../internal-support/#gitLab-plan-or-license-for-team-members).
 
 ## Process
 
