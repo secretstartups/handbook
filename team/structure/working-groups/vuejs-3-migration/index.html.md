@@ -77,3 +77,4 @@ This Working Group has the following goals:
 | Member             | Frédéric Caplette     | Senior Frontend Engineer, Verify:Pipeline Authoring               |
 | Member             | Eduardo Sanz Garcia   | Senior Frontend Engineer, Manage:Authentication and Authorization |
 | Member             | Ross Byrne            | Fullstack Engineer, Growth:Acquisition                            |
+| Member             | Samantha Ming         | Senior Frontend Engineer, Govern:Threat Insights                            |
