@@ -80,6 +80,9 @@ SIRT's goal is detection and response of anomalies and security events - on the 
 
 
 ## Working With Us
+
+To request an infrastructure security review, please create an issue using [the security review template](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security/bau/-/issues/new?issue[title]=Security%20Review%20Request%3A%20{%2B%20Service%2FFeature%20Name%20%2B}&issuable_template=production_readiness)
+
 To engage with the team:
 
 1. [Create an issue](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security/bau/-/issues) in our issue tracker dedicated to Business as Usual (BAU) activities and general inquiries.
