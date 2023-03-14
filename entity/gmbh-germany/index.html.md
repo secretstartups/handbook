@@ -138,7 +138,7 @@ How to Apply:
 Team members are entitled to 100% of their salary, to be paid by GitLab, for up to the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab's [Sick Time](https://about.gitlab.com/handbook/paid-time-off/#sick-time-procedures---all-team-members) policy. 
 * If a team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less than the team member's salary.
 
-Beginning January 1, 2023 team members with statutory health insurance are not required to provide GitLab with a hard copy of their certificate of incapacity to work (AU certificate). Instead, the health insurance company will provide corresponding incapacity data electronically and GitLab will then "call up" this data.  Team members are still required to report their absence to GitLab by selecting the `Out Sick` label in PTO by Deel.  
+Beginning January 1, 2023 team members with statutory health insurance are not required to provide GitLab with a hard copy of their certificate of incapacity to work (AU certificate). Instead, the health insurance company will provide corresponding incapacity data electronically and GitLab will then "call up" this data.  Team members are still required to report their absence to GitLab by first notifying the Absence Management team (leaves@gitlab.com) and then by selecting the `Out Sick` label in PTO by Deel.  
 * Team Members with private health insurance will still be required to email leaves@gitlab.com a hard copy of their certificate no later than the 4th day of illness.
 
 #### During COVID-19
