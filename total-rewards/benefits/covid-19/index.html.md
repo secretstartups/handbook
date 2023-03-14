@@ -14,7 +14,7 @@ description: "Information on the support GitLab is offering in relation to COVID
 
 ## Team Member and Manager Support During COVID
 
-With the continued uncertainty of COVID 19 and the lack of visibility on how things will progress throughout 2022, we wanted to offer additional guidance for how we continue to support our team members, managers and the GitLab business. Knowing that there is not a one size solution that fits all team members we are looking at what can we do collectively to ensure that communication, collaboration, engagement, performance and overall team member well-being is being addressed as we navigate these ever changing and challenging times.  We are a family and friends first company however we do also have a business to run so this section is to offer recommendations, suggestions, guidelines and best practices for all team members and managers.
+With the continued uncertainty of COVID 19 and the lack of visibility on how things will progress going forward, we wanted to offer additional guidance for how we continue to support our team members, managers and the GitLab business. Knowing that there is not a one size solution that fits all team members we are looking at what can we do collectively to ensure that communication, collaboration, engagement, performance and overall team member well-being is being addressed as we navigate these ever changing and challenging times.  We are a family and friends first company however we do also have a business to run so this section is to offer recommendations, suggestions, guidelines and best practices for all team members and managers.
 
 ### Manager Guidelines/Best Practices
 
