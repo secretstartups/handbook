@@ -151,7 +151,7 @@ In line with GitLab's approach to blameless root cause analysis in both [Profess
 
 ## Communication Guidelines
 
-The following are guidelines on who to notify when an account is yellow or red. This includes the [update frequency for the triage issue](#update-frequency). Please make sure the following people are notified with the respective customer health ratings.
+The following are guidelines on who to notify when an account is yellow or red. This includes the [update frequency for the triage issue](/handbook/customer-success/csm/renewals/index.html.md#update-frequency). Please make sure the following people are notified with the respective customer health ratings.
 
 ### Yellow Health Rating
 
