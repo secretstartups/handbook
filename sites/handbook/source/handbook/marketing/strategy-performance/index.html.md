@@ -90,6 +90,24 @@ Mktg Strategy uses a [local issue board](https://gitlab.com/gitlab-com/marketing
 
 Mktg Strategy uses the Fibonnacci sequence when creating [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html). We start with a weight of 2, smaller is too simple for an issue. Similarly, we break any issue larger than 13 into an epic.
 
+### Triage Schedule
+
+We follow a weekly triage schedule and alternate responsibility between the team:
+
+| Week of | Team Members |
+| ----------- | ----------- |
+| 2023-03-13 | David, Robert |
+| 2023-03-20 | Jerome, Djordje |
+| 2023-03-27 | David, Robert |
+| 2023-04-03 | Jerome, Djordje |
+| 2023-04-10 | David, Robert |
+| 2023-04-17 | Jerome, Djordje |
+| 2023-04-24 | David, Robert |
+| 2023-05-01 | Jerome, Djordje |
+
+Dennis is responsible for all web analytics triage.
+
+
 ### Epics
 
 In order to categorize various related issues, we make use of epics to help each team member organize their work, especially when it crosses multiple milestones. If it is a Mktg Strategy epic, we will add the `In Epic` label to it, so that we can easily see that it is part of an epic on our kanban board.
