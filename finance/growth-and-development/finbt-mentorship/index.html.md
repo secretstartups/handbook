@@ -14,7 +14,23 @@ title: FinBT Mentorship Program
 
 Mentorship is an opportunity to learn from personal experience, background, and perspective. Mentorship builds trust, provides a safe space to make mistakes, and encourages growth for both the mentor and mentee. 
 
-Starting in Q1FY24 the FinBT team will pilot a limited mentorship program for FinBT Team Members. The purpose in having a specific mentorship program for FinBT is to provide opportunities for Team Members to get mentorship to develop the specific skills that are important for members of this team and will provide opportunities for career development and networking.
+Starting in Q1FY24 the FinBT Department will pilot a limited mentorship program for FinBT Team Members. The purpose in having a specific mentorship program for FinBT is to provide opportunities for Team Members to get mentorship to develop the specific skills that are important for members of this team and will provide opportunities for career development and networking.
+
+# Why consider Department Level Mentorship?
+Both department-level and company-wide mentorship programs have their own unique benefits.
+
+## Department Level Mentorship program:
+1. Targeted support: Mentees receive targeted support and guidance from a mentor who is familiar with the specific challenges and opportunities within their department or team.
+1. Building team cohesion: A department-level mentorship program can foster a sense of team cohesion and collaboration, as mentees and mentors work together to achieve departmental goals.
+1. Promoting best practices: A department-level mentorship program can promote the sharing of best practices within a department, improving overall performance and productivity.
+1. Developing departmental leadership: Mentees can develop leadership skills within their specific department, which can help drive growth and development within the team.
+
+## Company-wide Mentorship program:
+1. Exposure to different perspectives: A company-wide mentorship program can expose mentees to different perspectives and experiences from mentors in different departments or areas of the company.
+1. Networking opportunities: A company-wide mentorship program can provide mentees with opportunities to expand their professional network beyond their own department.
+1. Cross-functional collaboration: A company-wide mentorship program can facilitate cross-functional collaboration and innovation by promoting communication and sharing of ideas across different parts of the company.
+1. Talent development: A company-wide mentorship program can help develop a pipeline of talent across the organization, identifying and developing potential leaders and high-performers.
+
 
 # Benefits and Expectations
 
@@ -50,13 +66,9 @@ Starting in Q1FY24 the FinBT team will pilot a limited mentorship program for Fi
 
 _Adapted from the [NCWIT Mentoring-in-a-Box Mentoring Basics - A Mentor's Guide to Success](https://www.ncwit.org/sites/default/files/legacy/pdf/IMentor_MentorGuide.pdf), section What Are the "Dos" of Mentoring and [People Grove resources](https://support.peoplegrove.com/hc/en-us/articles/360001265792-Structure-Goals-and-Agendas)_
 
-# Find a mentor
+# Participating in the Pilot Program
 
-The following team members are available as mentors. Schedule a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) to get the conversation started!
-
-The `Expertise` column comes from the team member .yaml entry and might not include all subjects they can help you with.
-
-<%= mentors %>
+TBD
 
 
 # Resources
