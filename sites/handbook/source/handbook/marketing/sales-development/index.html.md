@@ -113,19 +113,22 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 | Accepted Lead | A lead that an SDR or BDR agrees to work until qualified in or qualified out |
 | Account | An organization tracked in salesforce.com. An account can be a prospect, customer, former customer, integrator, reseller, or prospective reseller |
 | AM | Account Manager |
-| AE | Account Executive |
+| AE | Account Executive, can be Major or Strategic in AMER/EMEA Enterprise |
 | APAC | Asia-Pacific |
 | BDR | Business Development Represenative - focused on outbound |
 | CAM | Channel Account Manager |
 | CS | Customer Success |
+| DACH | Germany, Austria and Switzerland region |
 | EMEA | Europe, Middle East, and Africa |
 | EULA | End User License Agreement |
 | High intent | an event, webcast, demo that is a strong indicator of purchase or evaluation |
 | Inquiry | an Inbound request or response to an outbound marketing effort |
 | IQM | Initial Qualifying Meeting |
 | LATAM | Latin America (includes all of Central & South America) |
-| MQL | Marketo Qualified Lead - an inquiry that has been qualified through systematic means (e.g. through demographic/firmographic/behavior lead scoring) |
+| META | Middle East, Turkey and Africa Region |
+| MQL | Marketing Qualified Lead - an inquiry that has been qualified through systematic means (e.g. through demographic/firmographic/behavior lead scoring) |
 | MVC | [Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc) (not Model View Controller) |
+| NEUR | Northern Europe Region |
 | NORAM | North America |
 | Qualified Lead | A lead that a BDR or SDR has qualified, converted to an opportunity and assigned to a Sales Representative (Stage `0-Pending Acceptance`) |
 | RD | Regional Director |
@@ -136,6 +139,7 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 | [SAO](/handbook/marketing/sales-development/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
 | SDR | Sales Development Representative - focused on inbound |
 | Self Serve | A sales method where a customer purchases online through our web store. Also known as a "web direct" |
+| SEUR | Southern Europe Region |
 | SLA | Service Level Agreement |
 | SQO | Sales Qualified Opportunity |
 | CSM | Customer Success Manager |
@@ -162,12 +166,13 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 **BDR Team Breakdown**
      *  PubSec
      *  AMER Mid-Market
-     *  AMER Large Expand
-     *  AMER Large Land East
-     *  AMER Large Land West
+     *  AMER West
+     *  AMER Central
+     *  AMER East
      *  EMEA Mid-Market
-     *  EMEA Large Expand
-     *  EMEA Large Land
+     *  EMEA NEUR
+     *  EMEA DACH
+     *  EMEA SEUR
      *  APAC Large/MM
 
 ## Explaining the Sales Development Organizations Structure
@@ -177,7 +182,7 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 **Attributes of team:**
 * Fast Response Time
 * Global coverage
-* Aligned w Marketing re: SLAs and Feedback on campaigns
+* Aligned with Marketing re: SLAs and Feedback on campaigns
 * Defined and prescriptive inbound processes
 * Round Robin assignment rules
 * Talent Incubator for BDR Teams
@@ -194,7 +199,7 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 
 
 ## Segmentation of BDR Team
-The Business Development team aligns to the [Commercial](/handbook/sales/commercial/),Large, and PubSec sales teams. These teams are broken down into three segments: [Large, Mid-Market and SMB](/handbook/sales/field-operations/gtm-resources/#segmentation) which are based on the total employee count of the Global account. *Note: The commercial sales team includes both Mid-Market and SMB. This segmentation allows BDRs and Sales to be focused in their approach and messaging. The segments are aligned to a region/vertical and then divided one step further via territories in the regions. Our single source of truth for determining the number of employees is  Zoominfo.
+The Business Development team aligns to the [Commercial](/handbook/sales/commercial/),Large, and PubSec sales teams. These teams are broken down into three segments: [Large, Mid-Market and SMB](/handbook/sales/field-operations/gtm-resources/#segmentation) which are based on the total employee count of the Global account. *Note: The commercial sales team includes both Mid-Market and SMB. This segmentation allows BDRs and Sales to be focused in their approach and messaging. The segments are aligned to a region/vertical and then divided one step further via territories in the regions. Our single source of truth for determining the number of employees is Zoominfo.
 * [Sales segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 * Sales territories(Link to Come)
 * [Determining if a lead is in your territory](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
@@ -249,31 +254,43 @@ Quota is made up of the following depending on [sales segment](/handbook/sales/f
 - BDRs and SDRs are not responsible for uptiering customer accounts from a paid lower tier to a higher tier, ie. from Premium to Ultimate, this is the responsibility of sales.
 
 #### Sales Development Org Compensation Breakdown
-**Team Member OTE (SDR/BDR MM, ENT Land & Pub Sec)**
+**Team Member OTE (SDR/MM BDR, APAC BDR, & Pub Sec)**
 * 70% Base Pay
 * 30% Variable Pay:
-    * 70% Individual Quota:
+    * 100% Individual Quota:
         * No floor or ceiling
         * Accelerator x 1.5 after meeting 100% of target
-    * 30% Team Quota:
-        * Floor of 75%
-        * Ceiling of 150%
-        * Accelerator x 1.25 from 100% to 150%
+        * 1.3 x High LAM New Logo Kicker for APAC/Pub Sec BDRs
 
-**Team Member OTE (ENT Expand)**
+
+**Team Member OTE (ENT BDR Strategic)**
 * 70% Base Pay
 * 30% Variable Pay:
-    * 50% Individual Quota:
+    * 80% Individual Quota:
+        * 20% Growth SAOs
+        * 60% First Order SAOs
+        * 1.3 x High LAM New Logo Kicker
         * No floor or ceiling
-        * Accelerator x 1.5 after meeting 100% of target
-    * 25% Net ARR:
-        * No Floor
-        * Ceiling of 200%
-        * No Accelerator
-    * 25% Team Quota:
-        * Floor of 75%
-        * Ceiling of 150%
-        * Accelerator x 1.25 from 100% to 150%
+        * Accelerator x 1.75 after meeting 100% of target of either SAO type for that type
+    * 20% Pooled Net ARR Bookings:
+        * 75% Floor
+        * Ceiling of 140%
+        * Accelerator x 1.25 from 100% to 140%
+    
+**Team Member OTE (ENT BDR Major)**
+* 70% Base Pay
+* 30% Variable Pay:
+    * 80% Individual Quota:
+        * 50% SAOs
+        * 1.3 x High LAM New Logo Kicker
+        * No floor or ceiling
+        * Accelerator x 1.75 after meeting 100% of SAO target
+        * 30% Net ARR Pipeline
+        * No floor with a 200% ceiling, no accelerator
+    * 20% Pooled Net ARR Bookings:
+        * 75% Floor
+        * Ceiling of 140%
+        * Accelerator x 1.25 from 100% to 140%
 
 ## Activity & Results Metrics
 
