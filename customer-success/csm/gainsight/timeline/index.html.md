@@ -22,7 +22,7 @@ The Timeline view in Gainsight gives us a chronological overview of our activiti
 
 - **CTA View**: When you click on the details of a specific CTA or success plan Objective, there is a Timeline tab. You can add entries from here that will be linked to the CTA. These timeline entries will also appear on the company and global timelines.
 
-
+ 
 ## Activity types
 
 The following activities can be logged in Gainsight:
@@ -33,6 +33,11 @@ The following activities can be logged in Gainsight:
 - **Email**: Message sent to the customer, or message thread between the TAM and the customer.
 - **At-Risk Update**: An update (similar to above) and used exclusively with red customers for providing updates specific to a risk. See [At-Risk CTA](/handbook/customer-success/csm/health-score-triage/#at-risk-cta) for details.
 - **Workshop**: A customer workshop, which can include GitLab Days, Workshops, Lunch and & Learns, and more.
+
+### Chorus Recordings
+When Chorus is used to record a call, a record is created in Salesforce. That activity record is then synced to Gainsight and will appear on the Timeline. CSMs can edit these activities and add additional information such as External Attendees, CSM Sentiment, etc.
+
+Note: these activities will only count towards the Last Activity Date and the Engagement score if they are created by the CSM (or in other words, if the CSM was the owner of the Chorus call).
 
 ### Last Activity Date
 

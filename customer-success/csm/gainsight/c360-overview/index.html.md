@@ -54,6 +54,9 @@ On each account's 360, there is a "Follow" button next to the account name. If y
 
 The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/strategic-marketing/customer-reference-program/). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer]().
 
+#### Chorus Opt Out
+The `Chorus/Notetaker Opt Out` field on the C360 Attributes section allows a CSM to check the box if they know that the customer does not want calls to be recorded. This field is currently only for the CSM's information and does not update any other system.
+
 #### NPS and CSAT Scores
 
 For information on customer surveys and how the NPS and CSAT scores are calculated and the types of questions asked, please refer to the [NPS and CSAT scores handbook page](/handbook/customer-success/csm/gainsight/c360-overview/nps-csat-scores).
