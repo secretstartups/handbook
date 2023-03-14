@@ -18,8 +18,8 @@ A usability study, or usability testing, employs a test script to ensure a syste
 * Finding what their preferences for completing a task are
 * Uncovering opportunities to improve the product
 
-## What is a website testing script?
-At the heart of a usability study stands the website testing script, or test script, which the moderator follows during test sessions in order to execute task based usability testing and ensure consistency.
+## What is a testing script?
+At the heart of a usability study stands the testing script, or test script, which the moderator follows during test sessions in order to execute task based usability testing and ensure consistency.
 
 A test script:
 * **Helps to make sure you will be covering what you set out to cover.** It helps to ensure that you meet your usability study research objectives and that you come out of the study with the answers you need to make progress on your project.
@@ -91,6 +91,15 @@ Finally, pay close attention to how you phrase your tasks to avoid bias, leading
 To learn more about writing good tasks, we highly recommend reading this helpful NN/g article:
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://www.nngroup.com/articles/better-usability-tasks/).
 
+**Tip 1**: For each task, add a link in your script for the prototype/webpage that’s relevant for that task. Not only will it help your teammates who will review the script to understand what the task is about, but it will also allow you to quickly resend the relevant link should the participant need it again.
+
+**Tip 2**: Consider noting under each task, in light gray, ‘What we expect them to do’ (for example, "Follow the CI pipeline and go into the SAST job output") to remind the moderator of the possible paths for completing the task. This will assist the moderator in helping participants to recover, in case they fail a task which is a prerequisite for the following task.
+
+**How to order your tasks**  
+* If your tasks can build on top of each other in a sensible way, make sure you order your tasks to reflect that. For example, Task 1 could be around navigating to a certain page and Task 2 around reviewing that page.
+* Cluster together tasks that belong to the same topic or area of the product.
+* As a general rule, start with the tasks that matter most to you. It will take time mastering moderating usability sessions, and it is common to fall behind on time when you’re just starting out. Therefore, start with what matters most to you, and leave what’s merely nice to have to the end of the test.
+
 **How to structure each usability testing scenario**  
 For each task, consider whether some setup is required to provide context and appropriate motivation for the participant. If so, describe a relevant scenario prior to giving the task. Lets look at some usability test cases examples:  
 
@@ -102,15 +111,6 @@ Then, consider adding some more specific questions and prompts that the moderato
 * What is this page about?
 * Is SAST running right now?
 * What would you do next, if anything?
-
-**Tip 1**: For each task, add a link in your script for the prototype/webpage that’s relevant for that task. Not only will it help your teammates who will review the script to understand what the task is about, but it will also allow you to quickly resend the relevant link should the participant need it again.
-
-**Tip 2**: Consider noting under each task, in light gray, ‘What we expect them to do’ (for example, "Follow the CI pipeline and go into the SAST job output") to remind the moderator of the possible paths for completing the task. This will assist the moderator in helping participants to recover, in case they fail a task which is a prerequisite for the following task.
-
-**How to order your tasks**  
-* If your tasks can build on top of each other in a sensible way, make sure you order your tasks to reflect that. For example, Task 1 could be around navigating to a certain page and Task 2 around reviewing that page.
-* Cluster together tasks that belong to the same topic or area of the product.
-* As a general rule, start with the tasks that matter most to you. It will take time mastering moderating usability sessions, and it is common to fall behind on time when you’re just starting out. Therefore, start with what matters most to you, and leave what’s merely nice to have to the end of the test.
 
 #### Usability study wrap-up questions
 Here, you can get the participant’s broad impressions about what they saw and experienced. These are some standard questions to consider:
