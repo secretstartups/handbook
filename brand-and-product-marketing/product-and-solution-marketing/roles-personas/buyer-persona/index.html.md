@@ -292,17 +292,25 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    
 * **Summary:**
    * Having autonomy and independence is my biggest motivator
-   * While I’m an Influencer, Researcher, and Initiator, I am a strong Decision-Maker—my purchases lead ARR and First Orders for GitLab
-   * My biggest challenges are transitioning to DevOps due to legacy workloads and environments, silo’d teams and workflows, and 
+   * While I’m an Influencer, Researcher, and Initiator, I am a strong Decision-Maker — my purchases lead ARR and First Orders for GitLab
+   * My biggest challenges are transitioning to DevSecOps due to legacy workloads and environments, siloed teams and workflows, and 
 scaling efficiencies and new ways of working across multiple projects and environments
 
+* **My Messaging:**
+   * GitLab supports your multi-cloud strategy by allowing you to deploy anywhere with no cloud vendor lock-in
+   * Implement guardrails to control access to cloud envirionments and incrementally deploy your appliations to the cloud
+   * Increase deployment velocity with auomation and CI/CD
+   * A single platform improves communciations with Dev, Sec, and other departments
+
+
 * **Potential Titles:**
-   * Architect/Manager/Director/VP of: Infrastructure Engineering, Platform, Engineering, Operations, IT Operations, CloudOps, Architecture, Systems   
+   * Architect/Manager/Director/VP of: Infrastructure Engineering, Platform, Engineering, Software Operations, IT Operations, CloudOps, Architecture, Systems   
        
 * **Reports to:**
    * CIO or VP, Platform / Infrastructure   
 
 * **Job Responsibilities:**  
+   * Drive digital transformation, cloud migration/ IT moderniation, and DevSecOps transformation efforts
    * Design and coordinate implementation of automated solutions to replace or enhance manual processes  
    * Collect requirements, researches, and analyzes alternatives, and make recommendations for IT infrastructure solutions   
    * Ensure that new IT infrastructure solutions are designed and deployed to meet functional, security and technical requirements 
@@ -332,17 +340,24 @@ scaling efficiencies and new ways of working across multiple projects and enviro
    * Silo’d teams and workflows  
    * Scaling efficiencies and new ways of working across multiple projects and environments   
   
-* **Gains Information by:**  
-   * Primary: Technical videos & demos / Conference presos /Analyst reports /Blog posts / Case Studies
+* **Content Sources for Tech Purchasing Decisions:**  
+   * Primary: Technical videos & demos / Conference presos / Analyst reports /B log posts / Case Studies
    * Secondary: Peer review sites / eBooks / Websites / Events & Meetups / Podcasts
    * Tertiary: Social media / Infographics
    * Internal Influencers: User & Quality Testing / PMs / Solutions & Tech Architects / Platform
-Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / Innovation Team / IT Director / Head of Development & Sr. Developers / Peers / Partners
+Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / Innovation Team / IT Director / Head of Development & Sr. Developers / Peers / Partner companies
   
 * **Purchasing Role:**
 1. Influencer
-1. Initiator / Identifier of Need & Researcher
-1. Decison-Maker (this group is the lead ARR and First Order purchaser of GitLab)
+1. Probably a researcher
+1. Likely an Initiator / Identifier of Need & Researcher
+1. Decison-Maker: this group is the lead ARR and First Order purchaser of GitLab
+
+
+* **Recommended Buyer's Journey:**
+   * Awareness: Tech demo video servies, case studies, conference presentation
+   * Consideration: Peer reviews, customer video testimonials, ebook
+   * Decision:  LinkedIn/Twitter, Reddit, Infographic
 
 ---
 
@@ -358,8 +373,13 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
    * I’m very often a Decision-Maker but I also am an Influencer, and Initiator
    * My biggest challenges are tool and process sprawl and anything manual / lack of automation
 
+* **My Messaging:**
+   * A single platform makes it easier to enforce compliance across the entire software life cycle
+   * GitLab can pull reports from all projects, groups, and departments making preparing for audits much easier
+   * Vulternability and Dependcy manageemnt are easier through SBOM creationg, license approvals policies, and security dashboards
+
 * **Potential Titles:**
-   * Compliance Officer / Director or Manager: Risk & Regulatory, Audit, or Ethics, Governance    
+   * Compliance Officer / Director or Manager: Risk & Regulatory, Audit, Ethics, Governance    
 
 * **Reports to:**
    * CEO / COO / CFO / CLO / Head of Compliance   
@@ -386,7 +406,7 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
    * Anything manual / lack of automation 
    * Silo’d teams and workflows   
   
-* **Gains Information by:**  
+* **Sources for Tech Purchasing Decisions:**  
    * Primary: Announcements & Press releases /Conference presos / Analyst reports / Case studies / Events & Meetups
    * Secondary: Email updates & newsletters / References & testimonials from customers / Blog posts / Peer review sites / Webinars
    * Tertiary: Social media / Podcasts
@@ -396,6 +416,11 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
 1. Decision-maker
 1. Influencer
 1. Initiator/ Identifier of need
+
+* **Recommended Buyer's Journey**
+   * Awareness: Tech demo video series, case studies, conference presentations
+   * Consideration: Peer reviews, customer video testimonials, ebook
+   * Decision: LinkedIn/ Twitter, Reddit, Infographic
 
 ---
 
@@ -410,6 +435,11 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
    * I’m really motivated by being more efficient and effective
    * I’m an Influencer and Researcher for tech purchases but I am very often the decision-maker
    * My biggest challenges are tool and process sprawl and the volume of required integrations (and associated maintenance). My job also restricts tooling choices (and I don’t like the tools I am allowed to use)
+
+* **My Messaging:**
+   * A single platform reduces tool sprawl and requires few integrations reducting associated maintenance
+   * Establish success delivery porcesses by setting up prodcedural guidelines
+   * Ease communication between different teams to build partnerships and develop solutions
   
 * **Potential Titles:**
    * Manager/Director: Release and Change Management / Test, QA / Engagement / Scrum Master   
@@ -421,9 +451,10 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
    * Coordinates and manages the entire SDLC   
    * Ensures teams can work together well to complete projects   
    * Identifies functional requirements for each department to ensure the completion of SW development 
+   * Ensure the team delivers the project on time and according to cusotmer specifications
 
 * **Job is Measured by:**  
-   * Meeting Delivery Milestones (Speed) / Quality    
+   * Meeting Delivery Milestones (Velocity) / Quality    
 
 * **Goals & Objectives:**
    * Establishing a successful delivery process by setting up procedural guidelines   
@@ -440,7 +471,7 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
    * My job restricts tooling choices (and I don’t like the tools I am allowed to use)  
    * Volume of required integrations (and associated maintenance)   
 
-* **Gains Information by:**  
+* **Sources for Tech Purchasing Decisions:**  
    * Primary: Announcements & Press releases / Blog posts / Analyst reports / Technical videos & demos / Social media
    * Secondary: eBooks / Case studies / Conference presos
    * Internal Influencers: Infrastructure Team
@@ -449,6 +480,11 @@ Engineers / C-Suite / Heads of Engineering & Data Science / DevOps Engineers / I
 1. Influencer
 1. Researcher
 1. Decision-maker
+
+* **Recommended Buyers Journey:**
+   * Awareness: Press releases, Blog posts, Tech demos
+   * Consideration: ebook, Case studies, Conference presos
+   * Decision:  Analyst report, Reddit threads, LinkedIn/Twitter
 
 ---
 
