@@ -119,14 +119,14 @@ If the project requirements exceed the current capacity of the available resourc
             - Interview results captured in partner tracking sheet
             - Sr. PSE approval needed to move forward with onboarding
             - Sr. Channel Solutions Mgr. creates an Access Request for consultant to gain access to necessary systems & tools for them to complete their project. 
-            - Sr. Channel Solutions Mgr creates & assigns an Onboarding Issue to consultant. They also schedule a call with PS Ops Team to go over operaional tasks & timesheet submission process. 
+            - Sr. Channel Solutions Mgr creates & assigns an Onboarding Issue to consultant. They also schedule a call with PS Ops Team to go over operaional tasks (including submitting project expenses (please see end of page for process)) & timesheet submission process. 
             - Project Coordinator introduces Consultant to Project PM & kicks off Project. 
             
         - Project Manager Onboarding 
             - Consultant PM completes GitLab Certfied Project Management Specialist
             - Sr. Channel Solutions Mgr schedules 30 minute call with Director of PS or Sr. PM to ensure consultant is right fit for project. Approval is required to move forward with onboarding. 
             - Sr. Channel Solutions Mgr. creates an Access Request for consultant to gain access to necessary systems & tools for them to complete their project. 
-            - Sr. Channel Solutions Mgr creates & assigns an Onboarding Issue to consultant. They also schedule a call with PS Ops Team to go over operaional tasks & timesheet submission process. 
+            - Sr. Channel Solutions Mgr creates & assigns an Onboarding Issue to consultant. They also schedule a call with PS Ops Team to go over operaional tasks (including submitting project expenses (please see end of page for process)) & timesheet submission process. 
             - Consultant must complete onboarding issue and mark onboarding issue as completed 
             - Project Coordinator introduces Consultant to Project Team & kicks off Project. 
     - Professional Services Operations Team Tasks
@@ -135,8 +135,17 @@ If the project requirements exceed the current capacity of the available resourc
         - PS Ops Team manages the Consultant onboarding journey. 
             - Review all necessary operational tasks including timesheet submission. 
 
-
-1. Partner Projects
+### Partner Onboarding
+- PS Ops Team sets Consultant up in Kantata
+- PS Ops Team meets with Consultant to [review how to log time](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations), etc.             
+- PS Ops Team submits Access Request Issues
+    - Requesting access to appropriate technical tools (hardware & software)
+    - Requesting to add Consultant to appropriate slack channel(s)
+    - PS GitLab Project Manager starts the project with the Consultant
+- PS GitLab Project Manager tracks Consultant hours against SOW
+- PS GitLab Project Manager keeps tabs on total burn vs. project burn to ensure Consultant can complete the project as per the terms of the SOW
+- PS GitLab Project Manager raises risk of Change Order to PS Ops as appropriate
+- Consultant holds weekly check-in outside of customer meetings, including with their onboarding buddy. _Consultant and PS Onboarding Buddy ensure clear communication (as Consultant have less access to slack)._
 
 ### Consulting Subcontractor Prime Partner Statement of Work (SOW) Process (WIP)
 
@@ -183,31 +192,23 @@ After a Consulting Coordinator works with the partner lead on an agreed project 
 the Consulting Coordinator will send the work authorization form for the partner to review and execute.
 The Consulting Coordinator will track the Work Authorizations against the funding on the Prime Partner SOW.   
   
+### Customer Project Onsite Travel 
+When a GitLab Partner Travels:
+
+Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator will provide the partner the travel budget. Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the following details:
+
+- Separate line item for expenses on the invoice
+- One PDF document to include receipts for each expense 
+
+Expenses are to be invoiced in the month in which they have incurred    
+   
     
-  
-  
-    
-  1. Partner Onboarding
-        - PS Ops Team sets Consultant up in Kantata
-             - PS Ops Team meets with Consultant to [review how to log time](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations), etc.             
-        - PS Ops Team submits Access Request Issues
-            - Requesting access to appropriate technical tools (hardware & software)
-            - Requesting to add Consultant to appropriate slack channel(s)
-        - PS GitLab Project Manager starts the project with the Consultant
-        - PS GitLab Project Manager tracks Consultant hours against SOW
-             - PS GitLab Project Manager keeps tabs on total burn vs. project burn to ensure Consultant can complete the project as per the terms of the SOW
-             - PS GitLab Project Manager raises risk of Change Order to PS Ops as appropriate
-        - Consultant holds weekly check-in outside of customer meetings, including with their onboarding buddy. _Consultant and PS Onboarding Buddy ensure clear communication (as Consultant have less access to slack)._
-
-
-1. Partner Offboarding
-    - PS Project Manager invites Consultant to Project Retrospective meeting (as appropriate)
-    - PS Project Manager submits an Access Request to:
-        - Remove the Consultant from the customer project slack channel
-        - Remove access to any project specific GitLab tools or development work spaced
-            - Ensure Consultant is not working on any other ongoing projects
-    - PS Onboarding Buddy or PS GitLab Project Manager sends Consultant Survey to gather feedback on project & onboarding experience. 
-
+### Partner Offboarding
+- PS Project Manager invites Consultant to Project Retrospective meeting (as appropriate)
+- PS Project Manager submits an Access Request to:
+- Remove the Consultant from the customer project slack channel
+- Remove access to any project specific GitLab tools or development work spaced
+- Ensure Consultant is not working on any other ongoing projects
 
 
 
