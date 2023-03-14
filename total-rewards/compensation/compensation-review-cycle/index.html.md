@@ -299,7 +299,9 @@ In determining the equity refresh grants for team members, Total Rewards recomme
     * Developing Performance = no equity refresh grant. 
        * Team members rated Developing Performance are assumed to not be receiving an equity refresh grant. A trade off may be required from another team member if you decide to give a team member rated Developing a grant.
     * Performing Performance = the recommended equity refresh grant is between the minimum and median of the range. 
+       * Note: Not all eligible team members rated Performing will receive an equity grant. However, if a grant is allocated we recommend it to be between the minimum and median of the equity range. 
     * Exceeding Performance = the recommended equity refresh grant is between the median and maximum of the range. 
+       * Note: Not all eligible team members rated Exceeding will receive an equity grant. However, if a grant is allocated we recommend it to be between the median and maximum of the equity range. 
     * If allocating more or over any of the recommended ranges above, please be sure to align your budget as this may require a trade off from other refresh equity grants.
 1. Review the **Growth Potential Rating**: 
     * After following the guidance on Performance ratings, Directors and above have the discretion to factor in Growth Potential within that guidance. This means that Growth Potential can help determine the place within the equity range to be in the beginning or more towards the higher end of the range. 
@@ -319,6 +321,7 @@ In determining the equity refresh grants for team members, Total Rewards recomme
     * Hire Date. 
        * A more recently hired team member’s tenure can be used along with how their unvested holdings compare to their peers. The eligibility cut off for the cycle is September 5th (6 months) so the recommendation would not be to use hire date as a major criteria in determining whether a team member receives a grant. Rather, this can be used in conjunction with other contextual data points. For example, if a team member was provided a large grant when hired, then you may want to dial down their grant to align their unvested holdings with their peers.
 1. Planners cannot recommend grants above 2x the maximum of the equity range or recommend a grant below the minimum of the equity range. 
+1. If a planner has remaining budget, but is at the participation rate of 85%, we recommend adding the proposed grant with a note in the grid to say: "This grant can be removed to align to participation rate." 
 
 ### Director and Above Review in Workday
 
