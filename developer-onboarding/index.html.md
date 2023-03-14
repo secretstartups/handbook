@@ -111,16 +111,7 @@ volunteer contributors.
 
 ### Working on GitLab EE (developer licenses)
 
-GitLab EE requires a license key to be used.
-
-Team members should [open an issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request)
-using the `GitLab_Team_Member_License_request` template. In the issue, request for a license that is valid for a year, and provide "Developer on-boarding"
-as the reason for a longer expiration.
-
-Wider community members should contact the [Code Contributor Program](https://about.gitlab.com/handbook/marketing/community-relations/code-contributor-program/#contact)
-who should use the [GitLab Support Internal Request](https://gitlab-com.gitlab.io/support/internal-requests-form/) (**Other > Wider Community License**) to request a license.
-
-[Learn more about working with licensing and subscriptions internally.](https://about.gitlab.com/handbook/support/internal-support/)
+GitLab EE requires a license key to be used. Follow the [Contributing to the GitLab Enterprise Edition](/handbook/marketing/community-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee) guide.
 
 ### Ruby Gems
 
