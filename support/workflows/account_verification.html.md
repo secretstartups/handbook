@@ -49,7 +49,7 @@ In order for a SaaS user to be a candidate for the [workflow](#workflow), one of
 1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
 1. The user is the primary billing contact on a current invoice for a SaaS purchase.
 1. GitLab team member (account managers, CSMs or others) collaborate with the holder of this account in an account management project.
-
+1. The user account is required for SSO access to Customers Portal to manage a paid subscription - see: [Conditions for 2FA Reset when account is used to access Customers Portal](#conditions-for-2fa-reset-consideration).
 
 More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
 
@@ -61,6 +61,20 @@ While Support typically identifies users by their membership in a paid namespace
 1. [Owner vouch](#authenticating-an-owner-vouch) is required.
    - Do not associate the user to the organization until Owner vouch process is completed.
 1. If the user is classed as an [Enterprise user](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#enterprise-users) the user or an owner of the paid group raises the ticket.
+
+### Conditions for 2FA Reset when account is used to access Customers Portal
+
+[Customers Portal](https://customers.gitlab.com) requires all customers to access through a [Linked Gitlab Account](https://docs.gitlab.com/ee/subscriptions/#link-a-gitlabcom-account).
+
+2FA can be reset when one of following conditions are met:
+
+1. The request is made by the primary billing contact on the latest invoice for a GitLab subscription.
+1. The GitLab account is linked to the customers portal account for the primary billing contact on the latest invoice for a subscription purchase.
+
+If one of the above conditions is met the user is eligible for our 2FA reset process.
+
+If an invoice can not be provided, suggest [sign in with legacy email/password](https://customers.gitlab.com/customers/sign_in?legacy=true), where an invoice can be downloaded. 
+
 
 ## Workflow
 
