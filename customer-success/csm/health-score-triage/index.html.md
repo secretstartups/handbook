@@ -151,7 +151,7 @@ In line with GitLab's approach to blameless root cause analysis in both [Profess
 
 ## Communication Guidelines
 
-The following are guidelines on who to notify when an account is yellow or red. This includes the [update frequency for the triage issue](/handbook/customer-success/csm/renewals/index.html.md#update-frequency). Please make sure the following people are notified with the respective customer health ratings.
+The following are guidelines on who to notify when an account is yellow or red. This includes the [update frequency for the triage issue](/handbook/customer-success/csm/renewals/#update-frequency). Please make sure the following people are notified with the respective customer health ratings.
 
 ### Yellow Health Rating
 
@@ -254,75 +254,6 @@ If a CSM has marked a production instance under a Premium subscription, DevSecOp
 
 </details>
 <br>
-
-## GitLab Account Triage Project
-
-An account risk issue should be created in the [Account Triage Project](https://gitlab.com/gitlab-com/customer-success/account-triage) if the customer health assessment is either yellow or red. These are also viewable in the [CSM Risk Account Issue Board.](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
-
-### Update Frequency
-
-When an account is in triage, keep the triage issue updated as follows:
-
-- **Red:** All next steps should have an associated date and the update frequency needs to be ahead of expiring due dates.  The minimum update frequency on a red account should be bi-weekly to ensure that usage stats are fresh and focus is not lost.
-- **Yellow:** At a minimum monthly, ahead of pending due dates and as new information is available
-
-If nothing of note has occured since the last update, indicate that as well as the next steps you are taking.
-
-### Issue Template
-
-When creating an issue in the [Account Triage](https://gitlab.com/gitlab-com/customer-success/account-triage) project, the default template will set up the details you should include. Follow the instructions laid out in the issue description by the template for what information should be documented in the issue.
-
-#### Issue Labels
-
-When creating triage issues, it's important to apply the correct labels to the issue, so that we can easily track, have a holistic view of the at risk accounts, and be able to triage regionally and/or by priority. It is expected for each issue to contain one of each of the below label categories. Please refer to the [issue template](#issue-template) for more details on how to use them.
-
-##### Risk Labels
-
-- `~HS::Green`: Green Health Rating
-- `~HS::Yellow`: Yellow Health Rating
-- `~HS::Red`: Red Health Rating
-
-##### Region Labels
-
-- `~US-WEST`
-- `~US-EAST`
-- `~EMEA`
-- `~APAC`
-- `~LACSM`
-- `~Commercial`
-
-##### Issue Classification Labels
-
-- `~E&A` Expected and Avoidable
-- `~E&U` Expected and Unavoidable
-- `~U&A` Unexpected and Avoidable
-- `~U&U` Unexpected and Unavoidable
-
-##### Customer Success Risk Reasons
-
-- `~risk::lack of adoption`
-- `~risk::product experience`
-- `~risk::lack of engagement`
-- `~risk::loss of sponsor or champion`
-- `~risk::customer sentiment`
-- `~risk::other organizational factors`
-- `~risk::lack of budget`
-- `~risk::competition`
-- `~risk::covid-19`
-
-##### DevOps Stage Label
-
-If the account is labeled with a Customer Success Risk Reason of "product experience",
-CSMs are encouraged to add a DevOps stage label (i.e. `~devops::*`)
-to the triage issue, and clearly identify any related issues that are blocking adoption or required
-to improve the customer's product experience within the triage issue.
-
-Identify the Product DRI by from our [product categories](/handbook/product/categories/#devops-stages)
-page and ping them in the issue.
-As the CSM responsible for the at-risk account, you are accountable for coordinating all resources.
-Engage early and often with product and any other groups required to advocate for your customer's desired outcomes.
-
-Because `devops::` labels are scoped; please choose the highest-impact stage label and apply it.
 
 ## Related Processes
 
