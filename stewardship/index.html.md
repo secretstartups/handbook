@@ -110,7 +110,7 @@ GitLab the product [plays well with others](/handbook/product/gitlab-the-product
 Community is seen as a marketing tool instead of as participants working to make the product better together. -
 We care deeply about our community and depend on all GitLabbers to help us improve our [category and stage maturity](/direction/maturity/){:data-ga-name="maturity"}{:data-ga-location="body"}.
 We have [Merge Request Coaches](/job-families/expert/merge-request-coach/){:data-ga-name="merge request coaches"}{:data-ga-location="body"} who help contributors get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria){:data-ga-name="contribution acceptance criteria"}{:data-ga-location="body"},
-and [wider community contributions per release](/handbook/marketing/community-relations/code-contributor-program/#wider-community-contributions-per-milestone){:data-ga-name="wider community contributions per release"}{:data-ga-location="body"} is [a GitLab KPI](/company/kpis/#gitlab-kpis){:data-ga-name="a gitlab kpi"}{:data-ga-location="body"}.
+and [wider community contributions per release]/handbook/marketing/community-relations/performance-indicators/#wider-community-merged-mrs-per-release){:data-ga-name="wider community contributions per month"}{:data-ga-location="body"} is [a GitLab KPI](/company/kpis/#gitlab-kpis){:data-ga-name="a gitlab kpi"}{:data-ga-location="body"}.
 
 **Deployment Constrained.**
 Customers are afraid of confusing or unsanctioned licenses entering a business environment. -
