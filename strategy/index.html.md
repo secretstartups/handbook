@@ -176,7 +176,7 @@ graph BT;
 | More Users | [Stage Monthly Active Users](/handbook/product/performance-indicators/){:data-ga-name="stage monthly active user"}{:data-ga-location="body"} | Product |
 | More Contributions | [Unique Wider Community Contributors per month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month){:data-ga-name="community contributors per month"}{:data-ga-location="body"} | Community Relations and Engineering |
 | More Contributions | [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr){:data-ga-name="MRARR"}{:data-ga-location="body"} | Community Relations and Engineering |
-| More Contributions | [Wider community contributions per release](/handbook/marketing/community-relations/code-contributor-program/#wider-community-contributions-per-milestone){:data-ga-name="wider community contributors per release"}{:data-ga-location="body"} | Community Relations and Engineering |
+| More Contributions | [Wider community contributions per release](/handbook/marketing/community-relations/performance-indicators/#wider-community-merged-mrs-per-release){:data-ga-name="wider community contributors per release"}{:data-ga-location="body"} | Community Relations and Engineering |
 | More Features | [Merge Requests per release per engineer in product development](/handbook/engineering/development/performance-indicators/#average-mrs-development-engineers-month){:data-ga-name="mrs per engineer"}{:data-ga-location="body"} | Engineering and Product Management |
 | More Revenue | [IACV](/handbook/sales/#incremental-annual-contract-value-iacv){:data-ga-name="IACV"}{:data-ga-location="body"} vs. plan | Sales and Marketing |
 
@@ -219,7 +219,7 @@ graph TB
 
 Legend with links to the relevant metrics:
 
-1. [Wider community contributions Turbo](/handbook/marketing/community-relations/code-contributor-program/#wider-community-contributions-per-milestone){:data-ga-name="contributions per milestone"}{:data-ga-location="body"}{:data-ga-name="contributions per milestone"}{:data-ga-location="body"}
+1. [Wider community contributions Turbo](/handbook/marketing/community-relations/performance-indicators/#wider-community-merged-mrs-per-release){:data-ga-name="contributions per milestone"}{:data-ga-location="body"}{:data-ga-name="contributions per milestone"}{:data-ga-location="body"}
 1. [R&D Overall MR Rate](/handbook/engineering/performance-indicators/#rd-overall-mr-rate){:data-ga-name="mr rate"}{:data-ga-location="body"}
 1. [Stage maturity](/direction/maturity/){:data-ga-name="maturity"}{:data-ga-location="body"} increase
 1. [MAU](/handbook/product/performance-indicators/){:data-ga-name="MAU"}{:data-ga-location="body"} increase
