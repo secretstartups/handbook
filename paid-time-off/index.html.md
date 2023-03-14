@@ -34,7 +34,7 @@ Another great example of taking time off is a GitLab team member taking a day to
 
 If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
-Paid time off is in addition to any [official public holidays](#holidays) that apply to the country where you live. When accounting for such holidays in [PTO by Deel](#pto-by-deel), do specify a "Public Holidays" event. This helps us to ensure that all of our Team Members are meeting at least the [Statutory Vacation Requirements](#statutory-vacation-requirements).
+Paid time off is in addition to any [official public holidays](#holidays) that apply to the country where you live, and [Friends and Family days](/company/family-and-friends-day/). When accounting for in [PTO by Deel](#pto-by-deel), please use the label `Public Holiday` or `Friends and Family`. This helps us to ensure that all of our Team Members are meeting at least the [Statutory Vacation Requirements](#statutory-vacation-requirements).
 
 As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way. **Please note that for audit and compliance purposes, all team members are required to use [PTO by Deel](#pto-by-deel) as the single source of truth to accurately track and communicate all time off.**
 
