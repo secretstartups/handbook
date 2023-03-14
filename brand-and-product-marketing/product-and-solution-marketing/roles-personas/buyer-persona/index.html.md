@@ -145,9 +145,15 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    
 * **Summary:**
    * I want to choose the technology/tools I use to do my work
-   * I’m mostly an Influencer and Researcher for tech purchases (but sometimes I am the Identifier of a need)
+   * I’m mostly an Influencer and Researcher for tech purchases (but sometimes I am the Initiator/Identifier of a need)
    * My biggest challenges are increasing the speed of development and dealing with team silos and workflows while constantly switching between multiple point solutions
-   * Key messaging concept: Highlight the developer experience gap vs integrated The One DevSecOps platform as value proposition
+   * Key messaging concept: Highlight the developer experience gap vs the integrated One DevSecOps platform as a value proposition
+
+* **My Messaging:**
+   * Spend more time coding and less time context switching
+   * Receive feedback from secuirty and other teams in the same tool you use for development
+   * Get real-time feedback with automated CI tools
+   * Easy collaboration for quicker resolution and deployment
 
 
 * **Potential Titles:**
@@ -157,7 +163,8 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    * Director or VP App Development  
 
 * **Job Responsibilities:**  
-   * Lead a team of full-stack developers    
+   * Drive application and product development activities  
+   * Lead a team of full-stack developers  
    * Manage the iteration cycle, ensure capacity, and participate in both high-level and detailed design for new product capabilities and improvements   
    * Collaborate with architects and developers on specifications, designs, standards, code reviews, and test capabilities
    * Scale efficiencies and new ways of working across multiple projects and environments 
@@ -183,16 +190,21 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    * Silo’d teams and workflows 
    * Transition to DevOps is challenging for certain legacy workloads and environments     
 
-* **Gains Information by:**  
+* **Sources for Tech Purchasing Decisions:**  
    * Primary: Analyst reports / Conference presos / Tech videos & demos / Webinars / eBooks
    * Secondary: Video stories from similar orgs / Events & Meetups (Developer Relations outreach) / Podcasts / Infographics / Websites
    * Tertiary: Social Media / Emails & Newsletters
-   * Internal Influencers: Senior members in the group / execs in engineering and PLM orgs / CTO / Head of DevOps / Architects and developer advocates
+   * Internal Influencers: Senior team members / Architects and Developer Advocates / Execs in Engineering and PLM Orgs / CTO / Head of DevOps / 
   
 * **Purchasing Role:**
 1. Influencer
 1. Initiator / Identifier of Need and Researcher
 1. Decision-Maker for renewals (but not likely for first order)
+
+* **Buyers Journey:**
+   * Awareness: Tech demos, Developer Relations Outreach, Analyst Reports, Webinar
+   * Consideration: Customer video testimonials, Local Meetups, Podcast
+   * Decision: LinkedIn/twitter, Reddit Threads, Topical email campaigns
 
 ---
 
