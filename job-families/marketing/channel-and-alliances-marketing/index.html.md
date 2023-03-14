@@ -2,15 +2,15 @@
 layout: job_family_page
 title: Channel and Alliances Marketing team
 ---
-The Global Channels and Alliances marketing team is a team of demand generation professionals dedicated to the creation of tools, assets and programs that support our partners demand generation efforts.  The team is lead by the Director of Global Channels and Alliances marketing and reports to the VP of Integrated Marketing. 
+The Global Channel Marketing team is a team of demand generation professionals dedicated to the creation of tools and programs that support our partners demand generation efforts.  The team sits within the Integrated Marketing organization. 
 
 # Channel Marketing
 
 ## Channel Marketing Program Specialist
 
-Channel Marketing Program Specialists work with our marketing, operations and sales teams to build the foundation for a world class global partner marketing program that will drive customer acquisition and revenue growth for GitLab.
+Channel Marketing Program Specialists work with our marketing, operations and channel sales teams to build the foundation for a world class global partner marketing program that will drive customer acquisition and revenue growth for GitLab.
 
-This team works from a global charter to develop key services offerings and repeatable practices that scale to support our growing partner and channel ecosystems. The team is responsible for working cross-functionally with channel sales, marketing operations, product marketing, finance, and legal to ensure our programs reflect GitLab’s culture, goals and objectives while mandating they are held to the highest ethical standards.  The Channel Marketing Specialist reports to the Director of Global Channels and Alliances Marketing.
+This team works from a global charter to develop key services offerings and repeatable practices that scale to support our growing partner and channel ecosystems. The team is responsible for working cross-functionally with Integrated Marketing peers, channel sales, marketing operations, product marketing, finance, and legal to ensure our programs reflect GitLab’s culture, goals and objectives while mandating they are held to the highest ethical standards.  The Channel Marketing Specialist reports to the Director of Field Marketing.
 
 ### Job Grade
 
@@ -19,19 +19,19 @@ The Channel Marketing Program Specialist is a [grade 5](/handbook/total-rewards/
 ### Responsibilities
 
 * Create, maintain and manage our partner marketing services offerings that allow partners to develop integrated demand generation campaigns.  Offerings include: co-branded, dynamic partner microsites, on-prem and SAAS free trial program, partner references program and many more!
-* Plan, manage, execute and measure the adoption and on-going support of partner trial syndication across Open and Select partners, Distributors, GSI’s and Alliances partners.
+* Plan, manage, execute and measure the adoption and on-going support of partner trial syndication across Focus, Open and Select partners, Distributors, GSI’s and Alliances partners.
 * Develop a global planning and reporting process that is inclusive of adoption and usage of these powerful demand generation tools. 
 * Develop standard, repeatable and stable processes that promote and enable operational efficiency.
-* Work with Channel Marketing Director to create and deliver standardized reporting to global channel sales, VP of Integrated Marketing and field marketing leaders to showcase the pipeline impact of global channel marketing efforts.
 * Implement channel marketing initiatives, programs, communication vehicles, and sales tools to drive increased market adoption and channel revenue goals.
-* Assist sales team in the development of actionable and measurable programs for our channel partners.
 * Accurately track activity performance and provide well-informed recommendations on future resource and budget allocation.
 * Assist in the preparation of reports to help evaluate activity and reseller effectiveness, conversion rate, and relative performance.
+* Work with Field Marketing Director to create and deliver standardized reporting to global channel sales, VP of Integrated Marketing and field marketing leaders to showcase the pipeline impact of global channel marketing efforts.
 * Complete other duties as assigned to meet company channel goals.
 
 ### Requirements
 
-* A marketing professional with experience with Path Factory is a plus.  Strong project management skills is a key requirement.  You will be successful in this role if you are a natural problem solver and logical thinker.
+* A marketing professional with experience in the channel or technology space.  
+* Strong project management skills. You will be successful in this role if you are a natural problem solver and logical thinker.
 * Someone who possesses an understanding of the channel, is a detail-oriented professional and has the ability to develop cross-functional relationships.
 * A teammate who is comfortable making data driven decisions.
 * A colleague who thrives in a positive, supportive and collaborative environment.
@@ -47,9 +47,9 @@ A successful channel marketing program specialist would consider their next step
 
 ## Channel Marketing Manager
 
-Channel Marketing managers work with our channel account managers, field marketing managers, global channel marketing team driving customer acquisition and revenue growth for GitLab.
+Channel Marketing managers work with our channel account managers, field marketing managers, and global channel marketing team driving customer acquisition and revenue growth for GitLab.
 
-This team works from a global charter to develop key services offerings and repeatable practices that scale to support our growing partner and channel ecosystems. The team is responsible for working cross-functionally with channel sales, marketing operations, product marketing, finance, and legal to ensure our programs reflect GitLab’s culture, goals and objectives while mandating they are held to the highest ethical standards.  The Channel Marketing manager reports to the Director of Global Channels and Alliances Marketing.
+This team works from a regional charter to develop key services offerings and repeatable practices that scale to support our growing channel ecosystems. The team is responsible for working cross-functionally with Integrated Marketing peers, Field Makrketing Managers, channel sales, marketing operations, product marketing, finance, and legal to ensure our programs reflect GitLab’s culture, goals and objectives while mandating they are held to the highest ethical standards.  The Channel Marketing manager reports to the Regional Field Marketing Manager. 
 
 ### Job Grade
 
@@ -57,12 +57,12 @@ The Channel Marketing Manager is a [grade 7](/handbook/total-rewards/compensatio
 
 ### Responsibilities
 
-* Create and foster deep relationships with marketing counterparts in our Select partner community. Work together to identify growth goals and develop multi-quarter, integrated demand generation campaigns that align to those goals. 
+* Create and foster deep relationships with marketing counterparts in our Select/Focus partner community. Work together to identify growth goals and develop multi-quarter, integrated demand generation campaigns that align to outlined goals. 
 * Educate our partners on the marketing services offerings that GitLab has developed for their use.  Offerings include: co-branded, dynamic partner microsites, on-prem and SAAS free trial program, partner references program and many more.
 * Incorporate marketing services offerings into every partner campaign.
 * Measure, monitor and adjust campaigns to ensure long term success.
 * Develop standard, repeatable and stable processes that promote and enable operational efficiency.
-* Work with Channel Marketing Director to identify top producing partners; key success factors for replication and scale.  
+* Work with regional Channel Sales leader to identify top producing partners; key success factors for replication and scale.  
 * Implement channel marketing initiatives, programs, communication vehicles, and sales tools to drive increased market adoption and channel revenue goals.
 * Accurately track activity performance and provide well-informed recommendations on future resource and budget allocation.
 * Complete other duties as assigned to meet company channel goals.
@@ -80,11 +80,11 @@ The Channel Marketing Manager is a [grade 7](/handbook/total-rewards/compensatio
 * Meet/exceed assigned quarterly OKR's
 * Meet/exceed NFO SAO goals (new first order sales accepted opportunities)
 * Meet/exceed Select partner growth expectations
-* Positive feedback from peers, Channel Account manager and partner colleagues
+* Positive feedback from peers, Channel Account Manager and partner colleagues
 
 ### Career Ladder
 
-A successful channel marketing manager would consider their next step to be a senior channel marketing manager taking on more complex partner accounts; a channel program manager or perhaps a field marketing manager or content marketing manager.
+A successful channel marketing manager would consider their next step to be a senior channel marketing manager taking on more complex partner accounts; a channel program manager, a field marketing manager or perhaps content marketing manager.
 
 ## Senior Channel Marketing Manager
 
@@ -103,7 +103,7 @@ The Senior Channel Marketing Manager is a [grade 8](/handbook/total-rewards/comp
 * Incorporate marketing services offerings into every partner campaign.
 * Measure, monitor and adjust campaigns to ensure long term success.
 * Develop standard, repeatable and stable processes that promote and enable operational efficiency.
-* Work with Channel Marketing Director to identify top producing partners; key success factors for replication and scale.  
+* Work with regional Channel Sales leader to identify top producing partners; key success factors for replication and scale.  
 * Implement channel marketing initiatives, programs, communication vehicles, and sales tools to drive increased market adoption and channel revenue goals.
 * Accurately track activity performance and provide well-informed recommendations on future resource and budget allocation.
 * Complete other duties as assigned to meet company channel goals.
@@ -263,52 +263,6 @@ Career progression for this role can take many forms.  This team member receives
 
 Within this department, this team member would take on more strategic projects that continue to drive value for our channel partners. Projects that offer exposure into sales and sales leadership and have a measurable effect on revenue. A natural next step for the right person could include people management.
 
-# Alliances Marketing
-
-## Alliances Marketing Manager
-
-The Alliances Marketing Manager is responsible for the development and implementation of integrated marketing campaigns, client-facing programs and event sponsorships. This team oversees aspects of marketing strategy, content development, core messaging and positioning. This team creates targeted integrated marketing campaigns to drive pipeline and create visibility and strength of our Alliance relationships. Members of this team build and maintain relationships with Alliance partners and collaborate with key stakeholders to clearly define requirements and deliver expected results.
-
-Alliances Marketing Managers are responsible for driving alliance marketing programs, building internal and external awareness of technology solutions in a fast-paced team environment. The team develops a broad understanding of GitLab market offerings and eco-system solutions to create effective alliance marketing initiatives. In this hands-on role, team members must be an exceptional communicator with critical thinking and proactive problem-solving skills.  This role supports GitLab’s Alliances team and reports to the Director, Global Channel and Alliances Marketing.
-
-### Job Grade
-
-The Alliances Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Responsibilities
-
-* Plan and deliver effective marketing programs which build pipeline for alliance programs and drive business growth for GitLab’s Alliances go to market initiatives
-* Measure effectiveness of marketing activities and adjust plans and tactics based upon collected metrics; Contribute to the creation of ROI reports
-* Create strategic messaging and positioning to differentiate GitLab and advance awareness of capabilities, offerings, solutions and successes across the broader organization and in the marketplace
-* Develop annual and quarterly marketing plans to meet business goals and work closely with leadership and cross-functional teams to execute agile plans and support tracking of marketing budgets aligned to alliance strategy.
-* Maintain project timelines and deliverables to ensure successful execution of programs with reporting and tracking of leads; consult and collaborate with stakeholders to clearly define requirements and expected results 
-* Collaborate with key relationship managers, alliance, and sales teams to develop integrated alliance marketing campaigns through marketing automation, events, thought leadership, collateral, and digital.
-* Design event strategy for annual conferences, regional events, roundtables and alliance sponsored events; engaging in sponsorship negotiations; Execute agreed upon plans to support initiatives within described budgets
-* Identify and drive marketing programs leveraging alliance market development funds and GitLab investments
-* Maintain processes to ensure consistently high quality of marketing deliverables, coordinating internal service providers and external vendors supporting projects as required
-* Contribute to the success of the Marketing team by sharing marketing best practices across Alliance teams and identify opportunities to leverage content and messaging from related areas of the organization
-* Work closely with team members to share best practices and leverage marketing programs and initiatives; create a culture of collaboration and iteration. 
-
-
-### Requirements
-
-* A seasoned marketing professional with experience managing alliance partners. Someone who is a natural problem solver and logical thinker.
-* Someone who possesses a deep understanding of the channel, is a detail-oriented professional and has the ability to develop cross-functional relationships.
-* A teammate who is comfortable making data driven decisions.
-* A colleague who thrives in a positive, supportive and collaborative environment.
-* A future GitLabber who is excited about joining a fast paced, high energy company that isn't afraid to try new things, seek out answers to questions not yet formed and to fail fast and move on. 
-
-### Performance Indicators
-
-* Successful planning and completion of alliance partner marketing demand generation campaigns that produced pipeline for GitLab.
-* Deep relationships with alliance partner marketing counterparts. Futhering our strategic relevance within the account.  
-* Meet/exceed assigned quarterly OKRs
-
-### Career Ladder
-
-Career progression for this role can take many forms.  This team member receives lots of exposure into sales leaderships, Alliances sales, field marketing, channel marketing events, AR, PR and brand team so career paths in those departments are possible. 
-
-Within this department, this team member would take on more strategic projects that continue to drive value for our channel partners.  Projects that offer exposure into sales and sales leadership and have a measurable effect on revenue.  A natural next step for the right person could include people management.
 
 ### Hiring Process
 
