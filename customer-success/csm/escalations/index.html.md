@@ -108,7 +108,7 @@ If a [Critical or High-Level escalation](/handbook/customer-success/csm/escalati
 
 #### For all account escalations
 
-1. Create a temporary slack channel to facilitate communication internally at GitLab. This channel will remain open until the escalation is closed and should be listed in the escalation document. Name the channel #a_customername_escalation and ensure it is a public channel so that relevant parties can be easily added/find the channel. 
+1. Create a temporary slack channel to facilitate communication internally at GitLab. This channel will remain open until the escalation is closed and should be listed in the escalation document. Name the channel #esc_customername and ensure it is a public channel so that relevant parties can be easily added/find the channel. 
 
 1. Set up and document an internal standup cadence series while the escalation is running and put the details in the tracker doc
    - At least the major stakeholders from each team involved in the escalation should be invited directly in the calendar invite.
