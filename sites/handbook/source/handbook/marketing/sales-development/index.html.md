@@ -73,7 +73,7 @@ In your first month at GitLab we want to help ensure you have everything you nee
 
 The Sales Development Organization will conduct enablement and training on a wide range of topics such as workflow/processes, campaigns, alignment with other teams, tool training, product training, etc. BDR/SDR enablement sessions are scheduled on an as needed basis and will be made available for BDR/SDR teams to consume asynchronously.
 
-To view previously recorded BDR/SDR Enablement content, you can view the [BDR/SDR Enablement Video Library here](https://www.youtube.com/playlist?list=PL05JrBw4t0KrjbznnEEiCtxUfT8-OV6X8)
+To view previously recorded BDR/SDR Enablement content, you can view the [BDR/SDR Enablement Video Library here](https://www.youtube.com/playlist?list=PL05JrBw4t0KrjbznnEEiCtxUfT8-OV6X8) (must be logged in as the GitLab Unfiltered YouTube user).
 
 - If you would like to request or run an enablement session on a specific topic, please fill out [this issue](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new?issuable_template=sdr_enablement_series_request).
 
