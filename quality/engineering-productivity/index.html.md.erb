@@ -232,6 +232,67 @@ Be sure to give a heads-up to `#development`,`#eng-managers`,`#product`, `#ux` S
 and the Engineering week in review when an automation is expected to triage more
 than 50 notifications or change policies that a large stakeholder group use (e.g. team-triage report).
 
+### Asynchronous Issue Updates
+
+Communicating progress is important but status doesn't belong in one on ones as it can be more appropriately communicated with a broader audience using other methods. The "standup" model used by a lot of organizations practicing scrum assumes a certain time of day for those to happen. In the context of a timezone distributed team, there is no "9am" that the team shares. Additionally, the act of losing and gaining context after completing work for the day only to gain it again to share a status update is context switching. The intended audience of the standup model assumes that it's just the team but in GitLab's model, that means folks need to be aware of where this is being communicated (slack, issues, other). Since this information isn't available to the intended audience, the information needs to be duplicated which at worst means there's no single source of truth and at a minimum means copy pasting information.
+
+The proposal is to trial using an Asynchronous Issue Update model, similar to [what the Package Group uses](https://about.gitlab.com/handbook/engineering/development/ops/package/#async-issue-updates). This process would replace the existing daily standup update we post in Slack with `Geekbot`. The time period for the trial would be a milestone or two, depending on feedback cycles. 
+
+The async daily update communicates the progress and confidence using an issue comment and the milestone health status using the Health Status field in the issue. A daily update may be skipped if there was no progress. Merge requests that do not have a related issue should be updated directly. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. Where there are blockers or you need support, Slack is the preferred space to ask for that. Being blocked or needing support are more urgent than email notifications allow.
+
+When communicating the health status, the options are:
+- `on track` - when the issue is progressing as planned
+- `needs attention` - when the issue requires attention or intervention to keep it on schedule
+- `at risk` - when there is a risk the issue will not be completed according to schedule
+
+The async update comment should include:
+- what percentage complete the work is, in other words, how much work is done to put all the required MRs in review
+- the confidence of the person that their estimate is correct
+- notes on what was done and/or if review has started
+- it could be good to specify the relevant dependencies in the update, if there are multiple people working on it
+
+Example:
+```
+Status: 20% complete, 75% confident, expecting to go into review tomorrow
+```
+
+Include one entry for each associated MR
+
+Example:
+```
+Issue status: 20% complete, 75% confident
+
+MR statuses:
+!11111 - 80% complete, 99% confident - docs update - need to add one more section
+!21212 - 10% complete, 70% confident - api update - database migrations created, working on creating the rest of the functionality next
+```
+
+##### How to measure confidence?
+
+Ask yourself, how confident am I that my % of completeness is correct?.
+
+For things like bugs or issues with many unknowns, the confidence can help communicate the level of unknowns. For example, if you start a bug with a lot of unknowns on the first day of the milestone you might have low confidence that you understand what your level of progress is.
+Your confidence in the work may go down for whatever reason, it's acceptable to downgrade your confidence. Consideration should be given to retrospecting on why that happened.
+#### Weekly Epic updates
+
+A weekly update should be added to epics you're assigned to and/or are actively working on. The update should provide an overview of the progress across the feature. Consider adding an update if epic is blocked, if there are unexpected competing priorities, and even when not in progress, what is the confidence level to deliver by the expected delivery date. A weekly update may then be skipped until the situation changes. Anyone working on issues assigned to an epic can post weekly updates.
+
+The epic updates communicate a high level view of progress and status for quarterly goals using an epic comment. It does not need to have issue or MR level granularity because that is part of each issue updates.
+
+The weekly update comment should include:
+- Status: ok, so-so, bad? Is there something blocked in the general effort?
+- How much of the total work is done? How much is remaining? Do we have an ETA?
+- What's your confidence level on the completion percentage?
+- What is next?
+- Is there something that needs help/support? (tag specific individuals so they know ahead of time)
+
+##### Examples
+
+Some good examples of epic updates that cover the above aspects:
+- https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793
+- https://gitlab.com/groups/gitlab-org/-/epics/5152#note_1029337901
+
+
 ## Test Intelligence
 
 As the owner of [pipeline configuration](https://docs.gitlab.com/ee/development/pipelines/index.html) for the [GitLab project](https://gitlab.com/gitlab-org/gitlab), the Engineering Productivity team has adopted several test intelligence strategies aimed to improve pipeline efficiency with the following benefits:
