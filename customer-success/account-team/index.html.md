@@ -21,7 +21,7 @@ The account team works together to drive value, success, and growth for a custom
 
 An Enterprise account team is comprised of the following people:
 
-- [Strategic Account Leader (SAL)](/job-families/sales/strategic-account-leader/)
+- [Major/Strategic Account Executive (SAE)](/job-families/sales/strategic-account-leader/)
 - [Solutions Architect (SA)](/job-families/sales/solutions-architect/)
 - [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/csm/services/#csm-alignment)
 
@@ -37,7 +37,7 @@ In Mid-Market, Solutions Architects are pooled so they are not aligned with spec
 
 ## Roles and Responsibilities 
 
-### Strategic Account Leader (SAL) / Account Executive (AE)
+### Account Executive (AE)
 - Negotiates contracts and price on initial sale and renewals
 - Should have a strategy for prospects and how to close
 - Works with the Solutions Architect (SA) on pre-sales prospects and post-sale upgrades
@@ -90,6 +90,17 @@ Account teams may choose to include the [Sales Development Representative (SDR)]
 - Gainsight
 - [Customer collaboration project](/handbook/customer-success/csm/customer-collaboration-project/)
 - Customer meeting notes
+
+## Leadership Alignment - Sales and CSM Management
+
+The Area Sales Manager (ASM) and CSM Manager should also be meeting regularly (bi-weekly or monthly) to ensure cross functional alignment. 
+
+The CSM Manager is the DRI for the meeting, and topics to be covered at a management level include:
+- Organizational updates: headcount changes, GTM strategy, process iterations, etc.
+- Review red/at-risk accounts: current actions and help needed
+- Renewal opportunities: forecasted churn rate for the current and next fiscal quarter, cross-check that projected ASM churn matches CSM projections 
+- Growth opportunities: accounts or opportunities where additional resources are needed, strategize on growth potential
+- Feedback: individual team member wins and feedback
 
 ## Working Together throughout the Customer's Lifecycle  
 
