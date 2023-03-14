@@ -73,7 +73,7 @@ Take 5 minutes to review the [updated Sales Order Processing handbook page](/han
 
 ----
 The Channel Ops team has announced **multiple updates and improvements to Channel processes**:
-1. The [@ Partner Help Desk Chatter alias](/handbook/sales/field-operations/channel-operations/#partner-help-desk-support-and-communication) is now live in Salesforce for Partner-related requests
+1. The [@ Partner Help Desk Chatter alias](/handbook/sales/field-operations/channel-operations/#partner-support-and-communication) is now live in Salesforce for Partner-related requests
 1. New [partner discount structures](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1K/ZtACDN.hFA1h_ST3qrbWSnzw6HQosEw467XKt6XHN2s) and [partner requirements](/handbook/resellers/) are now live
 1. [Channel Neutral](https://gitlab.slack.com/archives/C013X9Z6892/p1620252796114200) will now be calculated during the end of month close process based on validated deal attribution and will no longer show an estimate in SFDC while a deal is open
 
