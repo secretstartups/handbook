@@ -55,7 +55,7 @@ _**NB:** Support should be able to rely on the Salesforce `Account Owner` field 
 ##### If the Salesforce `Account Owner` is not a person and is not `POOLED USER [ DO NOT CHATTER ]`
 
 1. Find the person in charge of the [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation)
-  and [sales territory](/handbook/sales/territories/) and mention them in a Chatter comment. In your post, include: 
+  and [sales territory](https://internal-handbook.gitlab.io/handbook/sales/sales-operations/#territory-management) and mention them in a Chatter comment. In your post, include: 
     * details of the request
     * the Zendesk ticket link
 1. If anyone you reach out to does not respond within 24 hours (excluding weekend, Family and Friends Day & global holidays): 
