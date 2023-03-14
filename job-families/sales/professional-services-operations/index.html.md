@@ -116,6 +116,44 @@ Provide administrative, technical and event coordination for remote and onsite t
 * Demonstrated progressive experience with remote delivery tools such as Zoom Webinar, WebEx, MS Teams, Slack, etc.
 * Previous experience in a data-driven, analytics-centric role
 
+### Professional Services Operations Analyst
+
+The Professional Services Operations Analyst reports to Sr. Manager, Professional Services Operations
+
+#### Professional Services POperations Analyst Job Grade
+
+The Professional Services Operations Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+
+#### Professional Services Operations Analyst Responsibilities
+
+This role will provide business operations support for the Professional Services department. Reporting to the Operations Sr. Manager, this role will primarily be focused on non-revenue generating activities required by the Professional Services team.  The responsibilities will include, but are not limited to, report creation, QBR and data analysis, documenting processes, process improvement support, PSA administration.
+
+* Implement best practices as it pertains to process and procedures
+* Implement best practice for metrics tracking for the Professional Services teams (e.g. weekly reporting reviews monthly and quarterly reports and QBR data
+* Contribute to policy and procedure implementation documentation
+* Maintain and administer our PSA systems (e.g. Kantata, Financial Force, Open Air)
+* Collaborate with Professional Services leaders to provide reports focused on financial and resource management data to aid with revenue and budgetary goals
+* Develop, analyze and publish key metrics for successful projects and deliverables
+* Support Professional Services staff to better understand revenue, customer project hours worked, and target attainment goals
+* Provide regular operational status updates to Professional Services Leaders
+* Play a contributory role in the weekly forecast review meetings
+* Participate in month and quarter end close activities
+* Act as liaison between the Project Management and  Finance department
+* Ensure timely and complete new PS team member onboarding with content tailored to the new hires’ positions
+* Maintain and contribute to all professional services operations department processes
+* Assist as a team backup to the project coordinators
+
+####  Professional Services Operations Analyst Requirements
+
+* Bachelor’s degree required, preferably in Finance, Accounting, Statistics, or Business Management
+* Demonstrated progressive industry experience in a Professional Services Operations or similar role for a high-tech company
+* Professional Services Automation (PSA) tools experience recommended (i.e. Kantata, NetSuite Openair, FinancialForce)
+* Previous experience in a data-driven, analytics-centric role
+* Working understanding of Professional Services cost structures strongly preferred
+* Strong experience with the entire Google suite as well as Microsoft Excel including pivot tables, analyzing and formatting data, use of filters, and creating charts and graphs
+* Excellent communication and presentation skills
+
+
 ## Performance Indicators
 
 * [CSAT](/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10 
