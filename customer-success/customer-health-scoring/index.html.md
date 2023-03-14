@@ -8,6 +8,8 @@ description: "Customer Account Scoring overview and methodology framework to imp
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
+{:toc .hidden-md .hidden-lg}
+
 {::options parse_block_html="true" /}
 
 ---
