@@ -142,17 +142,29 @@ On the Zip homepage, click “New Requests” in the top right corner of the web
 {: .panel-heading}
 <div class="panel-body">
 To help expedite the review and approval of your purchase request, be prepared to provide the following information in your Zip Request. If you don't know all of this information yet or are wanting support to negotiate that's ok!
+
+
 - Spend Information:
     - Provide all of the spend details including required budget amount, contract term, and line item details. 
     - The Line Item Breakdown should match the line items on the Order Form/Contract and should be entered separately for each year of the contract if a multi-year term.
     - The sum of the Line Items must equal the amount entered for budget.
     - Check the boxes of the supporting documentation received. You will upload these in the Documents section at the end of the request process
+
+
 - IT & Security Information:
     - Complete the Data Information section. Depending on your selection(s), additional required questions will appear.
+
         - If any data will be shared, a Vendor Security Review will be completed. The vendor will receive an email communication from ZenGRC requesting information regarding their security protocols.
+
+        - If any personal data will be shared or accessed, a Privacy Review may be required. The vendor will receive communication from Zip requesting information regarding their data privacy practices.
+
         - Be as specific as you can about the type of data the vendor and/or system will have access to, and specifics about how they will receive that data. Failure to complete this section accurately will delay the review and approval of your request.
-        - If any data will be shared, the Vendor will need to sign our DPA and SCC’s as directed by federal and global requirements.
-            - **TIP:** To increase speed of approval send your supplier contact [DPA](https://docs.google.com/document/d/1U8jCxpRc21fNu6_VsYxsSSun3G7s4b2Q/edit?usp=share_link&ouid=101595031187349560306&rtpof=true&sd=true) and [SCC’s](https://drive.google.com/file/d/17I4nirg99UPsrDi28VS1-R0B2FcKTKbz/view?usp=share_link) for signature right away. Also alert them to the request from ZenGRC for security completion. Let them know review and approval can't begin without these pieces.
+
+        - If any personal data will be shared, the Vendor will need to sign our DPA and SCC’s as directed by state and/or country statutory requirements.
+
+            - **TIP:** To increase speed of approval send your supplier contact GitLab's [DPA](https://docs.google.com/document/d/1U8jCxpRc21fNu6_VsYxsSSun3G7s4b2Q/edit) and [SCC’s](https://drive.google.com/file/d/17I4nirg99UPsrDi28VS1-R0B2FcKTKbz/view) for review right away. For the DPA, please inform the supplier contact that Scheudle 1 and Schdule 3 must be completed by the supplier.  Also alert them to the request from ZenGRC for security completion and Zip for privacy review completion. Let them know review and approval can't begin without these pieces.
+
+        
 - Documents & Surveys:
     - For any software renewal/add-on that is based on usage (e.g. user quantities), a usage report is required for Procurement’s review. This can be uploaded in the Documents section under ‘Please attach any additional files for reference’ at the end of the request process.
         - Based on the usage report, Procurement will review the request to increase, decrease, or hold quantities flat.
@@ -208,6 +220,12 @@ If your request meets any of the below criteria, add the additional time noted f
 - **TIP:** To increase speed of approval, upload any security compliance documentation (SOC-2 Report, ISO27001 Certificate) to the ZipHQ Request and notify your supplier contact they will be receiving a request from ZenGRC for completion ASAP.
 - For any inquiries and questions, please tag @securityrisk in the #procurement slack channel. 
 
+### Privacy Review: 4-14 Days
+- This activity begins **after** the supplier completes a Privacy and Trade Compliance Assessment form and a Transfer Impact Assessment Form (where personal data is transferred from the EU to the U.S.) Oftentimes, it can take a week for the supplier to respond and complete the requested forms. The SLA begins once that is completed.
+- Time before this activity can begin is entirely dependent upon the supplier's response time and whether a DPA/SCCs are required. 
+- A Privacy Review is required for all SaaS purchases and other purchase types where the supplier will receive from GitLab or collect on GitLab's behalf red/orange data.  
+- A DPA/SCCs are often made part of the agreement with the supplier. Generally, Privacy would prefer to use our DPA/SCCs but if the the supplier provides their DPA/SCCs as an exhibit to the main agreement, Legal and Privacy may use the supplier's version to arrive at a final agreed upon version. Procurement will obtain executed versions of DPA/SCCs in the Final Buyer Review stage.
+- **TIP:** To increase speed of approval, add a link to the suppliers privacy notice; upload the suppliers Transfer Impact Assessment Guide; and upload a word version of their DPA/SCCs if the supplier requuests us to use their version.
 ### Legal Review: 3 Days - 3+ Weeks  
  _Note: The amount of time for review, and to reach execution, is based on the details below. Use these SLA's as guidelines, noting that each contract review process is unique and if additional terms, requirements, and/or risks are identified the timeline for completion may be extended_
 
@@ -236,6 +254,8 @@ If your request meets any of the below criteria, add the additional time noted f
 - Professional Services / Training: Requires detailed review to ensure intellectual property ownership aligns with our intentions, as well as, reasonable obligations being placed upon GitLab. 
 
 - Marketing / Events: Generally, requires the least amount of time to review as the obligations are standardized given the event in question and program provided. Details regarding events may include negotiations with regards to Force Majeure, cancellation (including penalty), and ensuring the terms of the Agreement align with those of the requesting GitLab Team Members.  
+
+- Data Processing Agreement (DPA)/Standard Contractual Clauses (SCCs): Required when personal data is shared with, accesssed, or collectd by the supplier on behalf of GitLab. DPA/SCCs are generally affixed to an agreement but may be required as a separate agreement upon the determination of Privacy.
 
 **Additional Details**
 - As discussed above, the turnaround time for the review of an Agreement is contingent on many factors. The goal of the legal team is to review and provide red-lines as thoroughly and promptly as possible. 
