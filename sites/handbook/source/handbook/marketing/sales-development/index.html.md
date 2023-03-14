@@ -257,7 +257,7 @@ Quota is made up of the following depending on [sales segment](/handbook/sales/f
 **Team Member OTE (SDR/MM BDR, APAC BDR, & Pub Sec)**
 * 70% Base Pay
 * 30% Variable Pay:
-    * 100% Individual Quota:
+    * 100% Individual SAO Quota:
         * No floor or ceiling
         * Accelerator x 1.5 after meeting 100% of target
         * 1.3 x High LAM New Logo Kicker for APAC/Pub Sec BDRs
