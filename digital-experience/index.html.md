@@ -255,37 +255,9 @@ Here is the documentation for [GitLab Burndup Charts](https://docs.gitlab.com/ee
 
 Burnup charts have separate lines for total work and completed work. The total line shows changes to the scope of a milestone. When an open issue is moved to another milestone, the “total issues” goes down but the “completed issues” stays the same. The completed work is a count of issues closed. When an issue is closed, the “total issues” remains the same and “completed issues” goes up.
 
+### Iteration Changelogs
 
-### Iteration Statistics  
-
-Iteration statistics are calculated on the Friday at the end of a iteration cycle. The engineering manager for each group calculates these manually. 
-
-Here is [an example](https://gitlab.com/gitlab-com/marketing/digital-experience/announcements/-/issues/27#note_1145320809) from the Search, Nav, and Support group.
-
-Here is template to use for posting in the annoucement issue: 
-
-```
-Here are the numbers:
-
-**xx% closing rate for** ~"dex-group::search-nav-support"
-- [x of the x issues](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-group%3A%3Asearch-nav-support&iteration_id=70857&first_page_size=20) are closed with the remaining 9 in progress or in review.
-
-**11% unplanned work** ~"dex-unplanned"
-- [x of our x issues](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=closed&label_name%5B%5D=dex-group%3A%3Asearch-nav-support&label_name%5B%5D=dex-unplanned&iteration_id=70857&first_page_size=20) was unplanned work. 
-
-**xx% contribute to our OKRs**
-- [x of the issues](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=opened&label_name%5B%5D=dex-group%3A%3Asearch-nav-support&epic_id=557653&iteration_id=68484&first_page_size=20) level up to our [FY23Q3 OKRs ](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/136) 
-
-**71% completion rate for** ~"dex::ux"
-- [x of the x UX issues](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=all&label_name%5B%5D=dex-group%3A%3Asearch-nav-support&label_name%5B%5D=dex%3A%3Aux&iteration_id=70857&first_page_size=20) are complete
-
-**xx% completion rate for** ~"dex::engineering"
-- [x of the x engineering issues](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/issues/?sort=created_date&state=all&label_name%5B%5D=dex-group%3A%3Asearch-nav-support&label_name%5B%5D=dex%3A%3Aengineering&iteration_id=70857&first_page_size=20) are complete
-
-**xx% to carry over to next iteration**
-- [x of x weight points completed](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/boards/4852249?label_name[]=dex-group%3A%3Asearch-nav-support&iteration_id=70857). x remaining weight points will be reduced and carried over to next iteration.
-
-```
+At the end of every iteration we run a scheduled pipeline job that generates a [changelog for the Buyer Expeirence repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/CHANGELOG.md). It shows all the chnages made to the project with semanitc commits. 
 
 ## **FAQ:**
 ### Iteration boards
@@ -461,11 +433,15 @@ We love collaborating on work that drives our North Star and supporting metrics.
 ### DEX team members with platform access
 <details>
     <summary>LaunchDarkly</summary>
+    <li>@aleal-ext</li>
+    <li>@dcharukulvanich</li>
     <li>@fqureshi</li>
     <li>@jgarc</li>
     <li>@justin.vetter</li>
+    <li>@lduggan</li>
     <li>@mpenagos-ext</li>
     <li>@meganfilo</li>
+    <li>@mpreuss</li>
     <li>@miraclebanks</li>
     <li>@ndubord</li>
 </details>
@@ -474,6 +450,7 @@ We love collaborating on work that drives our North Star and supporting metrics.
 
 <details>
     <summary>Previous <b>Quarterly Plans & OKRs</b></summary>
+    <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/210">FY24Q1 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/175">FY23Q4 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/136">FY23Q3 Digital Experience Quarterly Plan & OKRs</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/107">FY23Q2 Digital Experience Quarterly Plan & OKRs</a></li>
@@ -498,14 +475,6 @@ We love collaborating on work that drives our North Star and supporting metrics.
 
 </details>
 <details>
-    <summary>Requesting homepage promotion</summary>
-    <ul>
-      <li>Use <a href="https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion">this template</a> to request addition to the content calendar for homepage promotion</li>
-      <li>If this is for a campaign, please put in the request as part of the initial campaign distribution plan</li>
-      <li>For more information on this process click <a href="https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/#homepage-promotion-guidelines">here</a></li>
-    </ul>
-</details>
-<details>
     <summary>Image Requirements</summary>
     <ul>
       <li>See <a href="https://about.gitlab.com/handbook/marketing/digital-experience/image-guidelines/">image guidelines</a> for specs</li>
@@ -517,36 +486,5 @@ We love collaborating on work that drives our North Star and supporting metrics.
     <ul>
       <li>SEO and keyword analysis from the Search Team <a href="https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=keyword-research-request">Issue Templates</a> is recommended.</li>
       <li>See <a href="https://about.gitlab.com/handbook/marketing/digital-experience/website/#naming-conventions">naming conventions</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Related Pages</summary>
-    <ul>
-      <li><a href="/handbook/marketing/digital-experience/data-dictionary/">Data Attribute Dictionary</a></li>
-      <li><a href="/handbook/marketing/digital-experience/buyer-experience-repository/">Buyer Experience Repository</a></li>
-      <li><a href="/handbook/marketing/digital-experience/digital-definitions/">Digital Definitions</a></li>
-      <li><a href="/handbook/marketing/digital-experience/engineering-ab-tests/">Engineering AB Tests</a></li>
-      <li><a href="/handbook/marketing/digital-experience/engineering-gitlab-product/">Engineering GitLab Product</a></li>
-      <li><a href="/handbook/marketing/digital-experience/engineering-marketo/">Engineering Marketo</a></li>
-      <li><a href="/handbook/marketing/digital-experience/figma/">Figma Process</a></li>
-      <li><a href="/handbook/marketing/digital-experience/foundations-agenda/">Foundations Agenda</a></li>
-      <li><a href="/handbook/marketing/digital-experience/writing-description-templates/">How to Write Templates</a></li>
-      <li><a href="/handbook/marketing/digital-experience/image-guidelines/">Image Guidelines</a></li>
-      <li><a href="/handbook/marketing/digital-experience/marketo-page-template/">Marketo Page Template</a></li>
-      <li><a href="/handbook/marketing/digital-experience/navigation-repository/">Navigation Repository</a></li>
-      <li><a href="/handbook/marketing/digital-experience/onetrust-cookie-consent/">OneTrust Implementation</a></li>
-      <li><a href="https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui">Slippers Design System</a></li>
-      <li><a href="/handbook/marketing/digital-experience/video-bands/">Video Bands</a></li>
-      <li><a href="/handbook/marketing/digital-experience/website/">Website</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Checklists</summary>
-    <ul>
-      <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Checklist-Basic.md">All Merge Requests</a></li>
-      <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-AB-Checklist.md">AB Test MR</a></li>
-      <li><a href="https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/editorial-team/#diversity-inclusion-and-belonging">Diversity, Inclusion, and Belonging</a></li>
-      <li><a href="https://about.gitlab.com/handbook/marketing/digital-experience/website/merge-requests/#website-specific-reviews">Key page regression testing</a></li>
-      <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-Redirect-Checklist.md">Redirect MR</a></li>
     </ul>
 </details>
