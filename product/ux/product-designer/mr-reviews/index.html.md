@@ -103,7 +103,6 @@ If you find yourself struggling to get your environment set up, try reaching out
 - Follow our review best practices for [everyone](https://docs.gitlab.com/ee/development/code_review.html#everyone) and [reviewers](https://docs.gitlab.com/ee/development/code_review.html#reviewing-a-merge-request).
    - Remember that reviewing someone else's work is a dialogue and is an opportunity to build trust and rapport within your team.
 - Separate each topic into its comment thread so that they can be discussed and resolved separately. If possible, create threads on the line(s) of code related to the topic.
-   - If you are using a Review App, optionally use the [Visual Reviews feedback form](https://docs.gitlab.com/ee/ci/review_apps/#visual-reviews) to create comment threads. By default, it will capture the URL and your browser type, operating system, and screen size. Share your thoughts about this feature in the [feedback issue](https://gitlab.com/gitlab-org/gitlab/-/issues/363056).
 - Ensure the author is clear on what is required from them to address/resolve the suggestion.
     - Consider using the [Conventional Comment format](https://conventionalcomments.org/#format) to convey your intent.
     - For non-mandatory suggestions, decorate with (non-blocking) so the author knows they can optionally resolve within the merge request or follow-up at a later stage.
