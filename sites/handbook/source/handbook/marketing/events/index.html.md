@@ -433,10 +433,10 @@ It is important that we are communicating with our customers and prospects that 
 
 ### Event Outreach
 
-It is important that we are communicating with our customers and prospects when we are attending an event. This is done through a targeted email sent through Marketo & also through BDR & AE/SAL outreach.
+It is important that we are communicating with our customers and prospects when we are attending an event. This is done through a targeted email sent through Marketo & also through BDR & AE/SAE outreach.
 
 - Most of the time we do not receive a pre event attendee list, but if we do, that will be shared in the issue.
-- We recommend BDRs & AE/SALs contact customers and prospects before event using talking points provided by content DRI with the goal of setting up meetings/ demos at the event. Invite them to anything specific we have happening at or around event.
+- We recommend BDRs & AE/SAEs contact customers and prospects before event using talking points provided by content DRI with the goal of setting up meetings/ demos at the event. Invite them to anything specific we have happening at or around event.
 - If there is not an attendee list process is as follows:
    - Target speakers for outreach.
    - Utilize previous years attendee list that can be found in SFDC. That person may not be attending, but their colleague might be. Ask for intros.
@@ -471,7 +471,7 @@ If the FM DRI for an event needs to reach out to someone prior to the event, the
 
 #### Sales Nominated process
 The sales nominated process allows for records to be added to the campaign in order for the record to receive an invite to the event
-- SALs/SDRs should add members to campaign to be invited to event, using the appropriate `Campaign Status`:
+- SAEs/SDRs should add members to campaign to be invited to event, using the appropriate `Campaign Status`:
   - `Sales Invited` = You have personally invited the person to the event.
   - `Sales Nominated` = Marketing will invite the person on your behalf. They will receive invitation email pre-event plus any confirmations/reminders if they register. [Video training on how add is also available.](https://drive.google.com/open?id=1QNB3DXXWtnmMBvzeHPkT7cRmigJdIWq5)
   - `Marketing Invited` = Marketing will be sending geo-targted invitation emails to specific events pulling the names from our active database. Anyone included in this master send will be added to the campaign with this status.
