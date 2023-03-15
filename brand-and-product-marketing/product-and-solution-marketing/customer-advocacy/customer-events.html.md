@@ -35,11 +35,11 @@ To request a reference customer to speak and/or otherwise support an event the f
    marketing team etc.
    1. CRM will load the request into Reference Edge for tracking purposes.
    2. CRM will pull a SFDC report of customers in billing city/state/area to view an applicable pool of speakers, as well as a report in Reference Edge. The CRM will review the [SFDC report of customers that have already been asked to reference](https://gitlab.my.salesforce.com/00O4M000004dvWq) for us recently to refine the available pool. 
-   3. CRM will create a table from the report in the issue listing AE/SAL and customer accounts. CRM will tag any additional AEs/SALs in the issue.
-   4. CRM will work with AEs/SALs to identify customer stories (if known).
+   3. CRM will create a table from the report in the issue listing AE/SAE and customer accounts. CRM will tag any additional AEs/SAEs in the issue.
+   4. CRM will work with AEs/SAEs to identify customer stories (if known).
    5. CRM will co-ordinate with the Sales and the requestor to refine the speaker pool.
    6. CRM will decide if a customer is appropriate for the outreach based upon other references that involve that customer.
-   7. CRM and AE/SALs will reach out with speaking request to approved customers giving customers a minimum of 60 days before the event to respond.
+   7. CRM and AE/SAEs will reach out with speaking request to approved customers giving customers a minimum of 60 days before the event to respond.
    8. If customer accepts, introduction to the requestor is coordinated to lead the event engagement.
    9. If customer outreach is unsuccessful (max 2 customers approached), the requestor can look at internal or other alternatives, taking their event forward without further CRM involvement.
    10. Customer Speaker Request issue is closed out once a customer has accepted to speak or if no connection with the customer was made after 2 attempts to connect. From there all communication on the logistics will take place in the main event issue and any content communication will take place in the PMM support issue, listed below.
@@ -48,7 +48,7 @@ To request a reference customer to speak and/or otherwise support an event the f
    13. Requestor will make themselves available to assigned PMM and CRM to ensure content requirements and event themes/audience is well understood.
    14. PMM will lead content generation and content review meetings (with coordination support provided by CRM as needed) with CRM and requestor invited to attend to as optional attendees.
    15. CRM will review the final content and approve that it reflects and showcases customer story.
-   16. Requestor and/or AE/SALs will provide direct logistical support (incl dry run session) to the reference customer speaker for both virtual and in-person events with the CRM informed.
+   16. Requestor and/or AE/SAEs will provide direct logistical support (incl dry run session) to the reference customer speaker for both virtual and in-person events with the CRM informed.
    17. CRM will review the event post execution for reference opportunities and repurposing of the delivered content in Customer Reference Portrait.
    18. CRM will update the event campaign in SFDC under the "ReferenceEdge" section with the unique speakers reference id "ReferenceProfileID". Reference ID's for speakers are found under the [Reference Profile](https://gitlab.my.salesforce.com/a7H/o) section of ReferenceEdge. If an on-demand offer is created for the recorded session the CRM will update the on-demand campaign ID (usually has prefix PF for Pathfactory) with the Reference ID also. Check this [SFDC report](https://gitlab.my.salesforce.com/00O4M000004aKoh) that your customer events (live and on demand) are listed.
 
@@ -61,8 +61,8 @@ Note: If travel is required for a customer speaker, this will not be funded by t
    4. Requestor to identify tier of customer requested. (Enterprise, Commercial, SMB)
    5. Customer Reference Manager identifies pool of proposed customers with Reference Edge, SFDC, and Alliance customer stories.
    6. CRM distributes pool to requestor and works with them to identify a short list of customers to request.
-   7. CRM reaches out to appointed SALs/AEs of customers to verify timing of request.
-   8. CRM or SAL/AE outreach to customer a minimum of 60 days before the event.
+   7. CRM reaches out to appointed SAEs/AEs of customers to verify timing of request.
+   8. CRM or SAE/AE outreach to customer a minimum of 60 days before the event.
    9. If customer outreach is successful, the Alliance Manager is introduced to lead the engagment
    10. If customer outreach is unsuccessful (max 2 customers approached), the Alliance Manager can look at internal or other alternatives, taking their event forward without further CRM involvement.
    11. When a reference customer agrees to present; the Alliance manager should open a SM Request issue for content support with the PMM team.
@@ -73,11 +73,11 @@ Note: If travel is required for a customer speaker, it is covered by different p
    1. Please open an issue on the [Customer Reference Board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/927283?&label_name[]=Customer%20Reference%20Program) with the label "Customer Speaking Requests" a minimum of 75 days before the event. Please note if the customer needs to approve and collaborate on a marketing plan; we require 90 days notice as we will need to work with the customers marketing team etc.
    2. Please send a slack notification to the regional [Customer Reference Manager](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/#which-customer-reference-team-member-should-i-contact)  with a link to the issue.
    3. CRM will pull a SFDC report of customers to view an applicable pool of speakers as well as a report in Reference Edge.
-   4. CRM will create a table from the report in the issue listing AE/SAL and customers. CRM will tag any additional AEs/SALs in the issue.
-   5. CRM will work with AEs/SALs to identify customer stories (if known).
+   4. CRM will create a table from the report in the issue listing AE/SAE and customers. CRM will tag any additional AEs/SAEs in the issue.
+   5. CRM will work with AEs/SAEs to identify customer stories (if known).
    6. CRM coordinate with the Marketing manager to refine the speaker pool.
    7. CRM will decide if a customer is appropriate for the outreach based upon other references that involve that customer.
-   8. CRM and AE/SALs will reach out with speaking request to customers giving customers a minimum of 45 days before the event to respond.
+   8. CRM and AE/SAEs will reach out with speaking request to customers giving customers a minimum of 45 days before the event to respond.
    8. If customer accepts, introduction to the marketing manager is coordinated.
    9. If customer outreach is unsuccessful (max 2 customers approached), the Event Manager can look at internal alternatives and takes their event forward without further CRM involvement.
    10. When the customer agrees to present; the Marketing manager should open an SM Request issue for content support with the PMM team.
@@ -104,7 +104,7 @@ Note: If travel is required for a customer speaker, it is covered by different p
    2. Analyst Relations team adds a slack message with the issue in the "Customer_References" Channel.
    3. Customer Reference Team will work with the Analyst Relations manager to narrow down the pool of potential customers based on used stages etc. CRM will pull a [Gainsight report](https://gitlab.my.salesforce.com/00O4M000004aHH4) on customers using GitLab for that use case and work with internal teams on confirming the correct customers for outreach
    4. CRM will confirm and document with the CSM/Customer Success team that the customer is appropriate for this research and will make the PMM aware of the internal team's approval of customer selection. 
-   5. CRM to outreach to SAL/AEs for customers to get approval to speak for report. CRM will liaise with the AR team re customers selected etc
+   5. CRM to outreach to SAE/AEs for customers to get approval to speak for report. CRM will liaise with the AR team re customers selected etc
    6. CRM to outreach to customer for request to speak for report. CRM to update the appropriate AR issue for this report to advise AR team.
    7. CRM will update ReferenceEdge post the AR activity.
 

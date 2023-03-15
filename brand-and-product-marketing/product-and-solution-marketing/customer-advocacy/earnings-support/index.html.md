@@ -26,8 +26,8 @@ These are existing ENT/MM customers who increased their spend/number of licenses
    * Largest deal sizes - $100K ARR or above
    * Globally recognizable brands
    * **GOAL:** Source 3 customers who provide legal permission to mention their business by name and use their logo in earnings statement (if not already received)
-      * Named growth customers, in collaboration with SAL/CSM/CR, will create a customer story that contains 2 - 3 sentences on the business value  that Gitlab provides to them.
-   * If customers do not agree to be mentioned by name, the SAL/CSM/CR will create an anonymized version of the customer story. 
+      * Named growth customers, in collaboration with SAE/CSM/CR, will create a customer story that contains 2 - 3 sentences on the business value  that Gitlab provides to them.
+   * If customers do not agree to be mentioned by name, the SAE/CSM/CR will create an anonymized version of the customer story. 
 
 ## Earnings Toolkit
 To help make the outreach, legal permissions, and content creation as straightforward as possible, the CR team has created an [Earnings Toolkit](https://drive.google.com/drive/folders/1QgMxoAjNGNX0BkhjxcTuAHVRxP_lsPbJ?usp=sharing), that contains:
@@ -42,18 +42,18 @@ The sourcing process is a continuous activity for the Customer Reference team; w
 
 Quarter Start - Mid-Quarter (First 6 weeks)
 * CR creates a new earnings script document in the current quarter folder, earnings tracking issue to collect nominations and record progress.
-* CR monitors closed/won activity, performs outreach to SAL/CSMs to start the process.
-* SAL/CSM to perform outreach activities to the customers.
+* CR monitors closed/won activity, performs outreach to SAE/CSMs to start the process.
+* SAE/CSM to perform outreach activities to the customers.
 * CR to provide authoring support for customer stories.
 
 Mid-Quarter - Quarter End (Second 6 weeks)
-* CR continues to monitor closed/won activity and provide needed SAL/CSM support. Creates tracking spreadsheet of the closed/won deals to date; spreadsheet is refreshed on a weekly basis.
-* SAL/CSM continue to perform outreach activities and customer story creation.
+* CR continues to monitor closed/won activity and provide needed SAE/CSM support. Creates tracking spreadsheet of the closed/won deals to date; spreadsheet is refreshed on a weekly basis.
+* SAE/CSM continue to perform outreach activities and customer story creation.
 * CR to report out weekly status in earnings reference channel, status document, and in the issue.
 
 Quarter End - Earnings Report (~4 - 6 weeks)
 * CR and Investor Relations review FO and Growth content collected to date; identify any additional needs or any in-progress content.
-* CR to work with SAL/CSM on any updates required.
+* CR to work with SAE/CSM on any updates required.
 
 Post-Statement:
    * CR to track Reference activity in ReferenceEdge

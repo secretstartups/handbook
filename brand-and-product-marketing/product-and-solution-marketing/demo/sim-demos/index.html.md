@@ -32,7 +32,7 @@ Both the legacy click-through demos and the new sim demos are available from the
 ### Who can use click-through and sim demos?
 
 * New employees - Use it to learn the product.
-* SDRs , Solution Architects, SAL, - Deliver GitLab demos to customers.
+* SDRs , Solution Architects, SAE, - Deliver GitLab demos to customers.
 * Executives - Deliver keynote demos, or deliver demos to executives.
 * Field marketing - use sim demos in trade shows and events.
 * Whenever you need to deliver GitLab demo, but you don't have internet access.
