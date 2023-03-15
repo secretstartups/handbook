@@ -285,6 +285,12 @@ a stable branch, even when feature flags are used. This might be necessary if
 the changes are deemed problematic, too invasive, or there simply isn't enough
 time to properly measure how the changes behave on GitLab.com.
 
+## Community contributions
+
+Feature flag rollouts require access to internal GitLab systems. Because of this restriction, a community contribution will require assistance from a GitLab team member to [rollout](#rollout) the feature flag. 
+
+During the [planning](#planning) phase it is essential that the EM and PM are pinged by the MR Coach or a GitLab Team member, who executes the review, on the feature flag rollout issue to get it scheduled/planned/refined. Also they should tag the feature flag rollout issue in the final MR using the feature flag, so that the EM and PM are aware that the rollout will be required soon.
+
 ## Dashboard & Metrics
 
 For more information on the lifecycle of a feature flag, such as how many are introduced per release, how long they exist in the application, or how long they've been enabled, [see this dashboard](https://app.periscopedata.com/app/gitlab/792066/Engineering-::-Feature-Flags) (internal only). We also carry 7 days worth of data [in Kibana](https://log.gprd.gitlab.net/goto/d060337c017723084c6d97e09e591fc6) (internal only) for feature flags that become disabled or enabled.
