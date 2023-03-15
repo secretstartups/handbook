@@ -208,6 +208,7 @@ Remediation of this vulnerability happens within the SIRT issue and typically in
 - After Bug Bounty Council approval:
   + If 30 days have passed since the issue was triaged, the approved award may be paid in advance of a confirmed fix using the `04 - Bounty Award / Reviewed and Awarded Prior to Fix` common response.
   + Once a fix is shipped, award the remaining amount (or full amount if none was awarded at time of triage) using the `02 - Bounty Award` common response
+  + Add a 💰 emoji to the the bug bounty council thread after paying the bounty award.
 
 We can award GitLab swag to reporters who have submitted a quality report that did not qualify for a monetary reward in our Bug Bounty program. To award swag, please follow the [swag nomination process](/handbook/marketing/community-relations/contributor-success/community-appreciation/#nomination-process) that is managed by our Community Relations team.
 
