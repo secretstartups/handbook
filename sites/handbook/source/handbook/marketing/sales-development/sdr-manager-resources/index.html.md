@@ -53,7 +53,7 @@ To help structure your usage of the above, you can follow the steps below during
 
 | Resource | Purpose |   
 | :----: | :-----: | 
-|  SSoT Sales > Sales Development Territory Alignment Sheet  | Can be found in Manager Home Base sheet. Single source of truth document for Sales Development to AE/SAL/Territory Alignment | 
+|  SSoT Sales > Sales Development Territory Alignment Sheet  | Can be found in Manager Home Base sheet. Single source of truth document for Sales Development to AE/SAE/Territory Alignment | 
 |  [LeanData Change Request Issue Template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment)  | Use this template to request any update in lead routing/SDR alignment. Use a new issue for each SDR. Once this request is received, Marketing Operations will update LeanData, the SSoT alignment spreadsheet, Drift routing/team, and the `BDR Assigned` Salesforce field. Confirmation of completion will be stated on the issue prior to close. Please note: if an SDR or a number of SDRs are changing teams within the org, an [internal transition](/handbook/marketing/sales-development/sdr-manager-resources/#internal-team-transition) issue will be created with this as one of the steps. |
 |  [SDR Internal Transition issue template](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new?issuable_template=sdr_internal_team_change) | Use this issue template when you have an SDR moving from one team within our SDR org team to another. More information can be found in the [internal trasition section](/handbook/marketing/sales-development/sdr-manager-resources/#internal-team-transition) below. |
 

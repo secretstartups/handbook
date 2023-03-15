@@ -133,7 +133,7 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 | Qualified Lead | A lead that a BDR or SDR has qualified, converted to an opportunity and assigned to a Sales Representative (Stage `0-Pending Acceptance`) |
 | RD | Regional Director |
 | ROW | Rest of World |
-| SAL | Strategic Account Leader |
+| SAE | Strategic Account Executive |
 | Sales Admin | Sales Administrator |
 | Sales Serve | A sales method where a quota bearing member of the sales team closes the deal |
 | [SAO](/handbook/marketing/sales-development/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
@@ -190,7 +190,7 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 
 #### Business Development Representatives (BDRs) - Outbound focused
 **Attributes of team:**
-* Alignment with SALs/AE & Sales leadership
+* Alignment with SAEs/AE & Sales leadership
 * Alignment with Field Marketing + ABM
 * Strategic account planning and research
 * Targeted and creative messaging
@@ -203,7 +203,7 @@ The Business Development team aligns to the [Commercial](/handbook/sales/commerc
 * [Sales segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 * Sales territories(Link to Come)
 * [Determining if a lead is in your territory](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
-* [BDR and Sales alignment](/handbook/marketing/sales-development/sales-sdr-alignment/) - working with your SAL or AE!
+* [BDR and Sales alignment](/handbook/marketing/sales-development/sales-sdr-alignment/) - working with your SAE or AE!
 
 ## Sales Development Organization Standards
 
@@ -225,7 +225,7 @@ We hold our Sales Development Org accountable to three pillars:
     - Maintain SFDC data integrity by [following the outbound workflow](/handbook/marketing/sales-development/#outbound-workflow) in researching and prospecting accounts.
 
 
-    - Maintain [cross-functional relationships](/handbook/marketing/sales-development/#working-with-sales-1) in terms of outbound account planning. Attend each initial qualifying meeting (IQM) with the AE/SAL you work with. Document accurate up-to-date notes in SFDC, including adding the Contacts you have been in communication with and attaching all corresponding connects and attempts to the Contact record. Communicating with the AE/SAL teams before and after the meeting to ensure accurate briefs are provided and tangible mutually agreed-upon next steps are set.
+    - Maintain [cross-functional relationships](/handbook/marketing/sales-development/#working-with-sales-1) in terms of outbound account planning. Attend each initial qualifying meeting (IQM) with the AE/SAE you work with. Document accurate up-to-date notes in SFDC, including adding the Contacts you have been in communication with and attaching all corresponding connects and attempts to the Contact record. Communicating with the AE/SAE teams before and after the meeting to ensure accurate briefs are provided and tangible mutually agreed-upon next steps are set.
 
 - **Displaying business and sales accumen** in terms of appropriate use of sales methodologies and strategic preparation prior to each touchpoint with prospects.
 
@@ -494,7 +494,7 @@ SDR Managers will monitor key metrics and ensure they are being handled effectiv
 
 * **Partner Prospecting Status:** If this is populated, the lead/contact is being worked by a partner and the Sales Dev team should not proceed with outreach. Instead the rep should change the ownership to Marketo Integration. BDRs should not bring these into their outreach on AWA’s.
 
-* **Actively Working Status:** An account researched and chosen by the BDR and/or SAL- based on alignment to ICP, news insights, company initiative, intent, ABM list etc. This is an account that the BDR will proactively be performing strategic outreach to. There is no limit to how long an account can stay in “Actively working” status as long as outreach is continuing to be made.
+* **Actively Working Status:** An account researched and chosen by the BDR and/or SAE- based on alignment to ICP, news insights, company initiative, intent, ABM list etc. This is an account that the BDR will proactively be performing strategic outreach to. There is no limit to how long an account can stay in “Actively working” status as long as outreach is continuing to be made.
 BDRs will work these leads.
 
 * **Requirements to remain in Actively Working status:** All  “BDR comments” fields will need to be populated within 10 days of moving into “Actively Working” status and a minimum of 5 people will need to be added to sequences within 15 days of the “Actively Working” timestamp. Accounts will move back to queued should criteria not be met.
@@ -506,7 +506,7 @@ BDRs will work these leads.
 * **Worked in FY status:** Accounts with this BDR prospecting status are actively worked but has not had prospects active in sequence in the last 30 days. Being moved to “Worked in FY”  indicates that they have gone through being an Actively Working” account this FY. An account in this status can be moved back into “Actively Working” working status later that year if desired.
     * SDR will work MQLs for that account.
 
-* **Restricted status:** SAL indicated that this account cannot be worked by BDR. BDRs should be the only ones changing the BDR Prospecting Status. So if you’re asked to move an account into Restricted Status, please make sure you note the reason for the restriction in the BDR comments section under “BDR account research”.
+* **Restricted status:** SAE indicated that this account cannot be worked by BDR. BDRs should be the only ones changing the BDR Prospecting Status. So if you’re asked to move an account into Restricted Status, please make sure you note the reason for the restriction in the BDR comments section under “BDR account research”.
     * SDR will reroute to the BDR Assigned for these accounts
     * BDR to liaise with Sales to decide what to do with inbound Leads:
         * If there's a duplicate Contact please convert the Lead and merge into the Contact
@@ -544,7 +544,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
  * **Is the Account in “Worked in FY” Status?**
     * **Yes:** It is worked by the SDR team
 * **Is the Account in “Restricted” Status?**
-    * **Yes:** It should be routed to the BDR assigned. The BDR assigned will chatter the SAL about whether they'd like them to reach out or whether they would like to own that responsibility. They'll have a certain window to respond (likely 24-48 hours depending on what JB says).
+    * **Yes:** It should be routed to the BDR assigned. The BDR assigned will chatter the SAE about whether they'd like them to reach out or whether they would like to own that responsibility. They'll have a certain window to respond (likely 24-48 hours depending on what JB says).
         * If they reply back that the BDR can work, the BDR will continue with the prospect as a lead record and take action.
         * If they reply back that they want to be responsible, the BDR will convert the lead so that it becomes a contact.
 
@@ -583,7 +583,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
     *   SDRs/BDRs should use this screen to check to see if 1) the matched account is an “Actively Working” account that would cause the lead to need to be re-routed to the BDR Assigned or 2) whether there is a duplicate record that needs to be merged or 3) whether there is another lead at that company active in sequence.
         *   The lead owner will make sure to use search techniques that allow for the most accurate results. On the Find Duplicates screen, they will need to scroll to the `Matched Account` section to see if the BDR prospecting status is “Actively Working”. If so, they will need to transfer to BDR.
         *   If it is not an Actively Working account, then the next step is to scroll to the top to see if there are `Matched Leads` or `Matched Contacts` that are a match. If so, then our merging process here will need to be followed.
-        *  The lead owner should also check the `Matched Opportunities` Section to see if there is an active Opportunity for the account be it SAL/AE-owned or Channel owned (`Resale Partner` last column) The lead owner should determine if this lead is related to any active opportunity and then pass along the lead if relevant.
+        *  The lead owner should also check the `Matched Opportunities` Section to see if there is an active Opportunity for the account be it SAE/AE-owned or Channel owned (`Resale Partner` last column) The lead owner should determine if this lead is related to any active opportunity and then pass along the lead if relevant.
         *   If there is another lead at the same company with a Lead Status of MQL, ownership is determined by the lead whose MQL Date is the earliest. If there is another lead at the same company with a Lead Status of Accepted or Qualifying, pass the MQL to the owner of the accepted/qualifying lead.
     *  Should a BDR receive a lead not associated with an Actively Working account, they are responsible for assigning the lead back to the SDR who assigned it to them. If it came from LeanData, they should chatter mktgops support on the record so that it can be routed correctly.
 
@@ -667,7 +667,7 @@ Lead/contact statuses allow anyone in Salesforce to understand where a lead is a
 
 * [The same video](https://www.youtube.com/watch?v=LOKgeIi5yfA) also showcases the [Auto Follow Up to Book a Meeting Sequence](https://app1a.outreach.io/sequences/9543) SDRs and BDRs can use when a prospect responds to one of their sequences.
 
-## Process for scheduling an IQM with AE/SAL
+## Process for scheduling an IQM with AE/SAE
 
 Whether it be from inbound follow up or outbound prospecting, you’re going to be engaging with prospects who are directly involved in a project or team related to the potential purchase of GitLab within a buying group, either as an evaluator, decision-maker, technical buyer, or influencer. During those interactions, you’ll be looking to gather information related to the SAO qualification criteria.
 
@@ -680,28 +680,28 @@ As an SDR or BDR, you will work to connect with inbound/outbound leads that you 
 
 #### When do I create an Opportunity?
 
-1. **You have scheduled time with AE/SAL to speak with the prospect.** <br>
-If you are scheduling time with an AE/SAL to speak to the prospect based on a qualifying conversation you have had with the prospect, an opportunity needs to be created and placed in stage 0. On the opportunity, all "required qualification" fields need to be filled in. Please ensure that the close date is set realistically: Close Date defaults to the end of the existing financial quarter but large opportunities have a longer sales cycle. 
+    1. **You have scheduled time with AE/SAE to speak with the prospect.** <br>
+If you are scheduling time with an AE/SAE to speak to the prospect based on a qualifying conversation you have had with the prospect, an opportunity needs to be created and placed in stage 0. On the opportunity, all "required qualification" fields need to be filled in.
 
 2. **You have obtained a commitment/willigness from a prospect to discuss further.** <br>
 If you have a meaningful two-way communication with a prospect, but have not had the required qualification criteria to move to the Sales team, you can create an opportunity under your name so that you better track your warm conversations. These opportunities may also be used for better collaboration with your team, as they can be reviewed and brain-stormed upon during team meetings.
 
 #### Who owns the opportunity at this point?
-1. **You have scheduled time with AE/SAL to speak with the prospect.** <br>
-When you have entered the qualification criteria onto the opportunity, and have received calendar confirmation from all parties for the intro call with sales, you will change ownership to the AE/SAL. After you have saved opp owner, you will add yourself to the BDR/SDR field. The opportunity will remain in stage 0.
+1. **You have scheduled time with AE/SAE to speak with the prospect.** <br>
+When you have entered the qualification criteria onto the opportunity, and have received calendar confirmation from all parties for the intro call with sales, you will change ownership to the AE/SAE. After you have saved opp owner, you will add yourself to the BDR/SDR field. The opportunity will remain in stage 0.
 
 2. **You have obtained a commitment/willigness from a prospect to discuss further.** <br>
 At this point, the opportunity will be in your ownership but you can not have yourself listed in the Business Development Representative or Sales Development Representative field. There is a validation rule that will not allow the opp owner and the SDR/BDR representative field to be the same member.
 
 #### When will it be credited as an SAO?
-After the SAL/AE meets with the prospect to verify and supplement qualification criteria, they will move the opportunity into Stage 1. The AE/SAL is expected to move the opportunity into the correct stage within 48 hours of the meeting date reflected in the "Next Step" date field. Please ensure all BDR/SDR required qualification fields are up to date before the opportunity moves to Stage 1, as the Sales Development team is unable to edit opportunities that are past stage 0.
+After the SAE/AE meets with the prospect to verify and supplement qualification criteria, they will move the opportunity into Stage 1. The AE/SAE is expected to move the opportunity into the correct stage within 48 hours of the meeting reflected in the "Next Step" date field.
 
 If the opportunity is for a new group of users in a Large account where sales is working on a large "central" opportunity, then your opportunity should be merged to that opportunity for you to get credit for the users you have brought to the deal. [See under Stage 8](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) in the Sales Go To Market Handbook
 
 
 * [ How to create an opportunity](/handbook/sales/field-operations/gtm-resources/#creating-a-new-business-opportunity-from-lead-record)
 
-Before scheduling the meeting with the AE/SAL, you will need to verify the sales organization RoE
+Before scheduling the meeting with the AE/SAE, you will need to verify the sales organization RoE
 
 1. On ZoomInfo or other sources, verify the [parent/child segmentation:](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/). All accounts in a hierarchy will adopt the MAX segmentation of any account in the hierarchy and ownership between segments is determined accordingly.
 2. On ZoomInfo or other sources, verify the HQ of the company or the ultimate user. Unless the account is Named, lead ownership is determined based on the HQ of a company, regardless of the lead's location geographically.
@@ -731,7 +731,7 @@ Your manager will review the information and decide whether SAO credit is warran
 
 BDR outbound lead generation is done by prospecting to companies and individuals who could be a great fit for our product. Prospecting is the process of finding and developing new business through searching for potential customers with the end goal of moving these people through the sales funnel until they eventually convert into customers.
 
-BDRs will work closely with their dedicated SAL or AE to choose which accounts move into “Actively Working”. Together they will build a strategy for those companies. It is crucial that outreach is very intentional and strategic. When reaching out, we want BDRs to offer value and become a trusted advisor, ensuring a positive impression is left whether there is current demand or not.
+BDRs will work closely with their dedicated SAE or AE to choose which accounts move into “Actively Working”. Together they will build a strategy for those companies. It is crucial that outreach is very intentional and strategic. When reaching out, we want BDRs to offer value and become a trusted advisor, ensuring a positive impression is left whether there is current demand or not.
 
 Below, we break down our outbound process in 10 actionable steps, and we include a 2' video walkthrough of each step along with any associated documentation.
 
@@ -879,7 +879,7 @@ After having manually shortlisted the accounts that are applicable to your campa
     ii. Prospects with sequence steps past due
     iii. Prospects that have been moved to `Qualifying` status but have not had any outreach since. <br>
 
-2. To utilize the BDR fields in maintaing an automated 1:1 outbound agenda with the AEs/SALs that you collaborate with, please follow the [link here](/handbook/marketing/sales-development/sales-sdr-alignment/#expectations-and-strategic-processes) for a list or report templates that may be cloned and customized.
+2. To utilize the BDR fields in maintaing an automated 1:1 outbound agenda with the AEs/SAEs that you collaborate with, please follow the [link here](/handbook/marketing/sales-development/sales-sdr-alignment/#expectations-and-strategic-processes) for a list or report templates that may be cloned and customized.
 
 **Important Note**
 You do not have to wait until the end of the month or quarter to change the BDR prospecting status, you just have to make sure you stay under the limit for your segment and move the account to either “Queued” or “Worked in FY” based on criteria.
@@ -899,7 +899,7 @@ If a related AE or SDR relays information that was not picked up in the BDR's re
 Exception to the process:
 * the BDR can see that the MQL was put into a low touch sequence, or;
 * the existing MQL is from a large account where BDR outreach can be made into different units or subsidiaries in that account.
-If so, can ask SAL to request via chatter on the lead record that this account be placed into “Actively Working” so that BDR can reach out to others at the account.
+If so, can ask SAE to request via chatter on the lead record that this account be placed into “Actively Working” so that BDR can reach out to others at the account.
 
 Accounts should not be moved to “Actively Working” until the BDR is ready to begin account research, strategy, and sequencing leads. There will be a set # of days that a BDR has to complete these actions before the account moves back to a BDR prospecting status of “Queued”
 
@@ -1125,10 +1125,10 @@ The corporate process is the same as the field process detailed above with the e
 ##### **Sequence Information**
 - Please clone one of the Master Event Sequences found in the [Events Outreach collection](https://app1a.outreach.io/sequences?direction=desc&order=recent&content_category_id%5B%5D=47) and pre-populate as many of the variables as possible. If all of the variables can be populated manually or through Outreach/Salesforce, change the email type from ‘manual’ to ‘auto.’ Work with your manager and the FMM to make any other additional adjustments that may be needed.
 
-##### **White Glove Event Follow Up Sequence (SALs Included)**
-- For more personal events, such as Executive Roundtables, there many be more detailed Last Event Notes that have an ask to include the people who interacted with the prospect at the event. For these situations we have a [specialized white glove sequence](https://app1a.outreach.io/sequences/12260). The goal of this sequence is to reach out to the prospect quickly and to include our SALs/AEs in the conversation.
-- The first step is to put the prospect in [the Sequence](https://app1a.outreach.io/sequences/12260). From there customize the first email step to include the people mentioned in the Last Event Notes. You can also delay the time that the first email goes out so you have more time to get feedback from the SAL/AE if needed.
-- Next send a screenshot of the first email step to the SAL/AE's that will be CC'd. Explain to them that this strategy creates space for them to engage with more specific messaging if the prospect is unresponsive. NOTE: There is a generic task on Day 12 to reach out to the SAL/SA if there has not been any engagement. The goal is to keep them in the loop and for you to work together to engage the prospect.
+##### **White Glove Event Follow Up Sequence (SAEs Included)**
+- For more personal events, such as Executive Roundtables, there many be more detailed Last Event Notes that have an ask to include the people who interacted with the prospect at the event. For these situations we have a [specialized white glove sequence](https://app1a.outreach.io/sequences/12260). The goal of this sequence is to reach out to the prospect quickly and to include our SAEs/AEs in the conversation.
+- The first step is to put the prospect in [the Sequence](https://app1a.outreach.io/sequences/12260). From there customize the first email step to include the people mentioned in the Last Event Notes. You can also delay the time that the first email goes out so you have more time to get feedback from the SAE/AE if needed.
+- Next send a screenshot of the first email step to the SAE/AE's that will be CC'd. Explain to them that this strategy creates space for them to engage with more specific messaging if the prospect is unresponsive. NOTE: There is a generic task on Day 12 to reach out to the SAE/SA if there has not been any engagement. The goal is to keep them in the loop and for you to work together to engage the prospect.
 
 #### Outbound Campaign Process
 
@@ -1138,7 +1138,7 @@ BDRs have found particular success when organizing campaigns alongside regional 
 
 **Process Steps**
 
-**Step 1:** Speak with your BDR Manager to identify the Field Marketing Manager (FMM) assigned to your SAL’s & AE's/Territory/Targeted Accounts. Set a meeting with the FMM to discuss existing Campaigns in motion, your ideas for Campaigns, and previously successful Campaigns (15-minute meeting over Zoom).
+**Step 1:** Speak with your BDR Manager to identify the Field Marketing Manager (FMM) assigned to your SAE’s & AE's/Territory/Targeted Accounts. Set a meeting with the FMM to discuss existing Campaigns in motion, your ideas for Campaigns, and previously successful Campaigns (15-minute meeting over Zoom).
 [Example of a Successful Campaign](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1750)
 
 **Step 2:** Once you've identified a Campaign to launch, work closely with your FMM (FMM will create an Issue in GitLab related to the campaign), and then go into Salesforce Reporting to generate a targeted Contact list for the campaign.
@@ -1182,7 +1182,7 @@ A Federal Systems Integrator (FSI) is a private company whom requires US-based s
 
 The US PubSec team does not cover Universities, Agencies, and Contractors who are not based in the US. These prospects will be routed to the respective Commercial BDR/SDR covering that territory.
 
-The PubSec BDRs will work closely with PubSec FMM's and MPM's on pre and post-event outreach. For events that are limited in attendance capacity, the PubSec ISRs & SALs will own pre and post-event strategy, not the BDR's.
+The PubSec BDRs will work closely with PubSec FMM's and MPM's on pre and post-event outreach. For events that are limited in attendance capacity, the PubSec ISRs & SAEs will own pre and post-event strategy, not the BDR's.
 
 [SDR PubSec Issue Board](//gitlab.com/groups/gitlab-com/-/boards/1864446?label_name[]=SDR%20Pub%20Sec) - used to track relevant GitLab issues involving the PubSec BDR team. This is a global issue board and will capture all issues in any group/sub-group in the GitLab.com repo when any of the following scoped labels are used.
 
@@ -1235,13 +1235,13 @@ Requirements:
 *  Generate IACV Pipeline
 
 ### Working with Sales
-BDRs and SDRs should be in regular communication with the SALs that they support. When taking on new accounts or supporting a new SAL, it is the responsibility of the  BDR/SDR to set up a kickoff call to:
+BDRs and SDRs should be in regular communication with the SAEs that they support. When taking on new accounts or supporting a new SAE, it is the responsibility of the  BDR/SDR to set up a kickoff call to:
 1. Review the focus accounts
-2. Gather actionable intelligence from SALs/AEs
+2. Gather actionable intelligence from SAEs/AEs
 3. Review outbound BDR plays, campaigns, field tactics, and other offers
 4. Document the plan using docs, a spreadsheet, or the Sales Development quarterly issue plan
 
-Recurring SAL<>BDR/SDR meetings can be scheduled or take place on an as-needed basis. As BDRs/SDRs are not directly aligned with SAL we encourage async updates as much as possible
+Recurring SAE<>BDR/SDR meetings can be scheduled or take place on an as-needed basis. As BDRs/SDRs are not directly aligned with SAE we encourage async updates as much as possible
 
 Slack is encouraged for informal communication, but anything related to strategy, approach, or outreach should be documented.
 
@@ -1252,7 +1252,7 @@ Slack is encouraged for informal communication, but anything related to strategy
 
 * **High LAM** - High # of Estimated Dev Count left to purchase GitLab (you will need to consider the number in relation to employee size)
 * **High DB QS** - High Demandbase Qualification Score (greater than 70)
-* **SAL Insights** - Detail any SAL/AE given direction: sometimes found in Account Rank Notes/AE Notes fields
+* **SAE Insights** - Detail any SAE/AE given direction: sometimes found in Account Rank Notes/AE Notes fields
 * **Persons with LIMs** - Uncover via Demandbase or SFDC reporting that there has been recent engagement from persons at account
 * **Tech Used** - List technologies they use that signal they may be a good fit
 * **Triggers** - List any compelling events or “Why’s” that signal this is a good time to reach out. If there are none, write “None”.
@@ -1308,7 +1308,7 @@ Examples of the Outbound Prospecting Framework [Can be found here](https://docs.
 The Global Enterprise Expand BDR team is responsible for creating qualified meetings, sales accepted opportunities, and pipeline within existing customer accounts (Accounts with total CARR in parent/children/subsidiaries in a hierarchy) in the Large - Enterprise Segment.
 The team is composed of BDRs who focus on strategic account-based, persona-based outreach, strategic outbound prospecting, social selling, and creative outreach to create and expand internal champions that align with the [GitLab value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and use cases.
 The aim for the BDR is to find new business units within these customer account hierarchies who are looking to move from a competitor/GitLab Core/CE to a paid version of GitLab.
-SALs alone are responsible for renewing/uptiering existing paid customer instances to a higher paid version of the product, eg from Standard to Premium.
+SAEs alone are responsible for renewing/uptiering existing paid customer instances to a higher paid version of the product, eg from Standard to Premium.
 
 ### How GitLab defines a customer
 
@@ -1323,9 +1323,9 @@ Accounts with no check in the box fall to the Expand team.
 
 ### AMER Enterprise Expand Alignment
 
-AMER Enterprise BDR Expand Team is aligned to account territories in US West and US East regions. Each region has verified Growth scores/CARR per territory that help determine the equitable spread of BDR alignments as shown below. Target accounts are based on SAL strategy, potential CARR, Intent data (propensity to buy), and industry.
+AMER Enterprise BDR Expand Team is aligned to account territories in US West and US East regions. Each region has verified Growth scores/CARR per territory that help determine the equitable spread of BDR alignments as shown below. Target accounts are based on SAE strategy, potential CARR, Intent data (propensity to buy), and industry.
 
-| **Role**                    | **BDR**                | **Territory Alignment**                                                                                                                                                                                             | **Strategic Account Leader**                                                   |
+| **Role**                    | **BDR**                | **Territory Alignment**                                                                                                                                                                                             | **Strategic Account Executive**                                                   |
 |-------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | AMER   | Andrew Finegan     | Large-AMER-Central-3, Large-AMER-Central-2, Large-AMER-Northeast-4, Large-AMER-Southeast-4                              | Tony Scafidi, Brandon Greenwell, Matt Pretrovick, TBH       |
 | AMER   | Bryan Tibbitts     | Large-AMER-Southeast-1, Large-AMER-Southeast-2, Large-AMER-Central-4, Large-AMER-Northeast-5,                               | Patrick Byrne, Chris Graham, Ruben Govender, Katie Evans  |
@@ -1338,7 +1338,7 @@ AMER Enterprise BDR Expand Team is aligned to account territories in US West and
 
 ### EMEA Enterprise Expand Alignment
 
-EMEA Enterprise BDR Expand Team is aligned to account territories in Northern Europe, DACH, France/Southern Europe, and emerging markets. Target accounts are based on SAL strategy, potential CARR, Intent data (propensity to buy), and industry.
+EMEA Enterprise BDR Expand Team is aligned to account territories in Northern Europe, DACH, France/Southern Europe, and emerging markets. Target accounts are based on SAE strategy, potential CARR, Intent data (propensity to buy), and industry.
 
 | **Role**         |  **BDR**             |  **Lead & Account Assignments**      |
 | :------------- |  :--------------------------------- | :----------------- |
@@ -1373,7 +1373,7 @@ In case of any AE requests for outbounding, the go-to BDRs above are briefed to 
 ### Expand BDRs are responsible for:
 
 - Accounts with their name in the `BDR Assigned` field
-- Leading account planning efforts with SALs/CSMs/ISRs and creating in-depth account plans for top focus expand accounts and other accounts in their hierarchy
+- Leading account planning efforts with SAEs/CSMs/ISRs and creating in-depth account plans for top focus expand accounts and other accounts in their hierarchy
 - Qualifying and converting marketing-generated leads (MQLs) and inquiries into sales accepted opportunities (SAOs)
 - Aligning their outbound/inbound prospecting efforts to field/corporate/strategic/account based marketing campaigns
 - Educating prospects and making positive impressions
@@ -1390,29 +1390,29 @@ In case of any AE requests for outbounding, the go-to BDRs above are briefed to 
 
 
 ## Working with Sales
-Expand BDRs should prioritize communication with the SALs within territories they are aligned to. BDRs will organize and schedule a kickoff call to:
+Expand BDRs should prioritize communication with the SAEs within territories they are aligned to. BDRs will organize and schedule a kickoff call to:
 - Review the focus expand accounts (including all children/subsidiaries of over 500 employees)
-- Gather actionable intelligence from SALs/CSMs/ISRs and discuss key expand strategy
-- Research the account with the SALs/CSMs/ISRs, see if LinkedIn introductions can be made
+- Gather actionable intelligence from SAEs/CSMs/ISRs and discuss key expand strategy
+- Research the account with the SAEs/CSMs/ISRs, see if LinkedIn introductions can be made
 - Research the account on LISN and select 10 - 15 contacts who follow GitLab or who fall into the personas we target
 - Review outbound BDR plays, campaigns, field tactics, and other offers
-- Review [Outreach persona sequences](/handbook/marketing/sales-development/#outbound-messaging) with SAL:
+- Review [Outreach persona sequences](/handbook/marketing/sales-development/#outbound-messaging) with SAE:
 - Document the plan using docs, a spreadsheet, and/or the BDR quarterly issue plan
 
-Recurring SAL|BDR meetings can be scheduled or take place on an as-needed basis.
+Recurring SAE|BDR meetings can be scheduled or take place on an as-needed basis.
 
 Slack is encouraged for informal communication (team slack channel), however, anything related to strategy, approach, or outreach should be documented.
 
 ## Expansion Strategies, Account Ranking, and Rules of Engagement
 
 ### Strategies:
-- Growth within an existing customer account: BDR should strategically partner with SAL/ISR to identify additional business units to bring into the conversation as growth opportunities. Renewal dates should be exploited.
+- Growth within an existing customer account: BDR should strategically partner with SAE/ISR to identify additional business units to bring into the conversation as growth opportunities. Renewal dates should be exploited.
 - Expansion into parent/children/subsidiaries of existing customer accounts: These are accounts that fall within the corporate hierarchy within Salesforce. If a child/subsidiary account is identified via ZoomInfo but not in our system, then BDR should follow the following process:
 Create a LEAD for that account and then convert to CONTACT to create the ACCOUNT when you qualify your first lead.
 - Free to paid upgrades: Existing Core/CE users can be targeted to upgrade to a paid version of GitLab
 
 ### [Ranking](/handbook/sales/field-operations/gtm-resources/#definitions-for-enterprise-account-ranking) and prioritization of accounts:
-- Rank 1: Expand with Purpose (EwP) accounts should be closely/strategically worked with SALs. These accounts have High Demandbase intent scores and should therefore be High touch by BDR.
+- Rank 1: Expand with Purpose (EwP) accounts should be closely/strategically worked with SAEs. These accounts have High Demandbase intent scores and should therefore be High touch by BDR.
 - Rank 2: ICP Ultimate parent accounts that have Core/CE-Users in a hierarchy, Total CARR/LAM for account, Med/Low Demandbase intent scores, and small renewals in current FQ.
 - Rank 3: As above but are not our ICP
 

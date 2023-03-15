@@ -14,7 +14,7 @@ title: "SDR & Sales Alignment"
 The purpose of the **Global Sales-SDR Alignment Framework** is to provide an outbound guideline that helps identify goals, provide better alignment, and highlight expectations for the following roles:
 
 1. Marketing: [Sales Development Representative](https://about.gitlab.com/job-families/marketing/sales-development-representative/) (SDR)
-1. Sales: [Strategic Account Leader](https://about.gitlab.com/job-families/sales/strategic-account-leader/) (SAL)
+1. Sales: [Strategic Account Executive](https://about.gitlab.com/job-families/sales/enterprise-account-executive/) (SAE)
 1. Sales: [Account Executive](https://about.gitlab.com/job-families/sales/account-executive/) (AE)
 1. Sales: [Inside Sales Representative](https://about.gitlab.com/job-families/sales/public-sector-inside-account-representative/) (ISR)
 
@@ -26,7 +26,7 @@ subgraph Marketing Division
     A[SDR]
 end
 subgraph Sales Division
-    A <--> B[SAL]
+    A <--> B[SAE]
     A <--> C[AE]
     A <--> D[ISR]
 end
@@ -60,7 +60,7 @@ This weekly meeting is critical to drive and ensure alignment between teams.
 
 The resources below are meant to be cloned and customized, and to be used to structure OB collaboration in 1:1s. Accounts in the BDR organisation are prioritized based [on the guidelines here](https://docs.google.com/presentation/d/1O5unjpSTYQFENlfheUi6_ZNV2fbrIqQjxNBqtwhEaYw/edit#slide=id.g11de9359282_0_12) while [the handbook page here](https://about.gitlab.com/handbook/marketing/sales-development/#bdr-outbound-process) shares more detail in the BDR org's process.
 
-1. [Queued Accounts Template](https://gitlab.my.salesforce.com/00O8X000008QoME) - This report will indicate the accounts that the AE/SAL has nominated for outbound efforts by switching the account's `BDR Prospecting Status = Queued`
+1. [Queued Accounts Template](https://gitlab.my.salesforce.com/00O8X000008QoME) - This report will indicate the accounts that the AE/SAE has nominated for outbound efforts by switching the account's `BDR Prospecting Status = Queued`
 2. [Actively Working Accounts Template](https://gitlab.my.salesforce.com/00O8X000008QoM4) - This report will indicate the accounts currently being worked on a BDR, and will include next step dates and relevant strategy fields. The logic behind using these fields in outlined [here](https://gitlab.com/gitlab-com/marketing/sdr/uploads/2fdadc1e76ddd57ceaac706362242b2d/Screenshot_2022-03-15_at_16.29.09.png), with a [practical example here](https://gitlab.com/gitlab-com/marketing/sdr/uploads/7759ffcea589453e562811f3d3c0fd8d/Screenshot_2022-03-15_at_1.35.05_PM.png)
 3. [Closed:Lost Template](https://gitlab.my.salesforce.com/00O8X000008QoQk) - This report will indicate past Closed: Lost accounts in your territory, it can be expanded further by adjusting the Close Date field.
 4. [CI Usage Template](https://gitlab.my.salesforce.com/00O8X000008QoMO) - This is the list of CE users with a high purchase rate of CI minutes.
