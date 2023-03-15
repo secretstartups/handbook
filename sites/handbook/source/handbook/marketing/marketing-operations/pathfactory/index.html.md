@@ -208,8 +208,8 @@ Track labels are used to document the channels that a content track is distribut
 | outreach | content track is sent via [Outreach](/handbook/marketing/marketing-operations/outreach/) |
 | paid search | content track is part of a paid search campaign |
 | paid social | content track is part of a paid social campaign |
-| SAL inbound | content track is enabled for PathFactory for Sales for SALs to share inbound |
-| SAL outbound | content track is enabled for PathFactory for Sales for SALs to share outbound |
+| SAE inbound | content track is enabled for PathFactory for Sales for SAEs to share inbound |
+| SAE outbound | content track is enabled for PathFactory for Sales for SAEs to share outbound |
 | SDR inbound | content track is enabled for PathFactory for Sales for SDRs to share inbound |
 | SDR outbound | content track is enabled for PathFactory for Sales for SDRs to share outbound |
 | survey/quiz | content track is shared in a survey or quiz |

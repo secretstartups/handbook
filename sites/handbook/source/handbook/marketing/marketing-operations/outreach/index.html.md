@@ -31,7 +31,7 @@ When provisioning new users or altering current users' credentials for role chan
   - PubSec team members should be added to the role: PubSec
   - Pubsec Managers should be added to the role : PubSec Managers
   - All other managers- incl XDR/Sales/CSMs managers should be added to : Sales Org Management
-  - Anyone not in a management or pub sec should be added to : Sales Org- XDR, AE, SALs, CSM
+  - Anyone not in a management or pub sec should be added to : Sales Org- XDR, AE, SAEs, CSM
 - When a current user changes roles, sales-ops will create a new SFDC profile for their new role. These means _every_ role change will require remapping between Outreach profiles and SFDC profiles. Remap a user by:
     - Proceed to `Plugins` under Outreach settings
     - Click into the `Salesforce` plugin, then select `User`, followed by `Mappings`
@@ -268,7 +268,7 @@ Prospects that get deleted in Outreach live in the recycle bin until permanently
 
 ### Keeping Outreach Tidy
 
-Marketing Ops will be responsible for pausing and locking sequences owned by former team members and for deleting tasks owned by former team members. The MktgOps team will also be responsible for monitoring and cleaning the SAL's and AE's unused sequences and overdue tasks, as necessary. Procedure for the former team members clean up process is as follows:
+Marketing Ops will be responsible for pausing and locking sequences owned by former team members and for deleting tasks owned by former team members. The MktgOps team will also be responsible for monitoring and cleaning the SAE's and AE's unused sequences and overdue tasks, as necessary. Procedure for the former team members clean up process is as follows:
 - During the deprovisioning process, any former team member with an Outreach profile will be added to the `Former Team Member` Outreach team. This instruction has been added to the deprovisioning template.
 - Use the `Sort & Filter` function of Outreach to track tasks and sequences owned by members of the `Former Team Members` team. Tasks can be outright deleted, sequences deactivated and locked. Instructions for locking sequences below.
 - If there are sequences owned by members of the `Former Team Members` team that are being used by current GitLab team members, change ownership of the sequence to a current team member. MktgOps users are preferred, but change to a team member using the sequence where appropriate.

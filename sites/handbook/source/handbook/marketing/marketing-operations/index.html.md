@@ -476,7 +476,7 @@ Status in the table below means:
 | Prospecting | outbound |  | Active |
 | Prospecting - General | outbound |  | Active |
 | SDR Generated | outbound | Sourced by an SDR through networking or professional groups | Active |
-| Zoominfo | outbound | Sourced by SDR/BDR/AE/SAL/ASM | Active |
+| Zoominfo | outbound | Sourced by SDR/BDR/AE/SAE/ASM | Active |
 | Cognism | outbound | Sourced by SDR/BDR | Active |
 | Conference | paid demand gen | Stopped by our booth or received through event sponsorship | Active |
 | Owned Event | paid demand gen | Events that are created, owned, run by GitLab | Active |
