@@ -92,7 +92,7 @@ The GitLab Field and Marketing organizations have aligned on a go-to-market appr
 1. How does this acquisition augment our existing [**customer use cases**](/handbook/use-cases/)?
 
     2. Role-based learning objectives
-After the value-based messaging has been completed, partner with the Field Enablement team to define role-based learning objectives. To get started, the team should answer the below questions for Sales Development Reps and each field role (e.g. Account Executive / Strategic Account Leader, Channel Sales Manager, Solution Architect, Customer Success Manager, Professional Services Engineer) as it relates to the acquisition:
+After the value-based messaging has been completed, partner with the Field Enablement team to define role-based learning objectives. To get started, the team should answer the below questions for Sales Development Reps and each field role (e.g. Account Executive / Strategic Account Executive, Channel Sales Manager, Solution Architect, Customer Success Manager, Professional Services Engineer) as it relates to the acquisition:
 
 1. **Knowledge gaps**: What does that role need to KNOW that they may not know today?
 1. **Behavior gaps**: What does that role need to be able to DO, ARTICULATE, and/or SHOW that they may not be able to today?
