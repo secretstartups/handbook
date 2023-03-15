@@ -634,6 +634,7 @@ As detailed in our [Learning & Development Handbook](/handbook/people-group/lear
 A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) is created when the one of the following criteria is met;
 
 - Migration from Individual Contributor to Manager
+- Migration from Individual Contributor to Team Lead
 - Migration from Manager to Individual Contributor
 - Migration of Team
 
