@@ -80,7 +80,7 @@ For users that need to gain access to Gainsight, an Access Request (AR) must be 
 
 ### License provisioning in Salesforce
 
-This process is typically handled by the IT and Sales Systems teams.
+This process is handled by the CSOPs team.
 
 Navigate to [this link](https://gitlab.my.salesforce.com/ui/setup/mfpackage/UserLicenses/d?allPackageId=033U0000000CdVi&packageLicenseId=0504M000000XZsn&retURL=%2F0A3%3Fsetupid%3DImportedPackage%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DStudio) or follow these steps in Salesforce:
 
@@ -89,6 +89,15 @@ Navigate to [this link](https://gitlab.my.salesforce.com/ui/setup/mfpackage/User
 1. Find `Gainsight CSM`.
 1. Click **Manage Licenses**. This will display the number of allowed vs used licenses.
 1. Click **Add Users** to find a person to add. They must already exist as a user in Salesforce.
+
+We will also add the Gainisght NXT Permission Set 
+
+1. Click Setup
+1. Click Manage Users > Users
+1. Find user and click on their name
+1. Find"Permission Set Assignments" > "Edit Assignments"
+1. Under "Available Permission Sets" find "Gainsight NXT"
+1. Click on "Add" (right pointing arrow icon) > "Save"
 
 Removal of licenses is handled by the Sales Ops team.
 
@@ -108,8 +117,8 @@ Once a license has been provisioned in Salesforce, you may then set them up with
 1. Navigate to [User Management](https://gitlab.gainsightcloud.com/v1/ui/usermanagement) in Gainsight.
 1. Search for the user (recommended to search by email address).
 1. Click the `...` menu and choose `Edit User`.
-1. Under `License Type`, select `Full User`.
-1. Click **Add Permission Bundles** and add the user to the correct bundle (this is usually specified on the Access Request issue). You can also do this from the [Permission Bundles](https://gitlab.gainsightcloud.com/v1/ui/navigation#/bundles) page in Gainsight.
+1. Under `License Type`, select `Full User` for CSMs, CS Leaders, and CS Ops Team. For other roles, CSOPs will provide either Viewer Analytcis or Internal Collaborator based on role. 
+1. Click **Add Permission Bundles** and add the user to the correct bundle (this is usually specified on the Access Request issue). You can also do this from the [Permission Bundles](https://gitlab.gainsightcloud.com/v1/ui/navigation#/bundles) page in Gainsight. CSMs Should be assigned the TAM Bundle
 1. Click **Update**.
 
 You may also need to click the `...` menu and select `Activate User` if they still show as `Inactive`.
