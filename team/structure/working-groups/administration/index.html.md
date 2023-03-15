@@ -19,17 +19,17 @@ canonical_path: "/company/team/structure/working-groups/administration/"
 | End Date       | TBD                                                          |
 | Slack          | #wg_administration (only accessible from within the company) |
 | Google Doc     | [Working Group Agenda](https://docs.google.com/document/d/1WKxclMpCIXzXJUcQ0WfsjT_x8ytXuw40KHCoR2LUMzk/edit# )|
-| Issue Board    | TBD |
-| Epic           | TBD |
-| Overview & Status | TBD |
+| Issue Board    | [Administration Working Group](https://gitlab.com/groups/gitlab-org/-/boards/5461629?label_name[]=WorkingGroup%3A%3AAdministration) |
+| Epic           | [GitLab Administration Working Group](https://gitlab.com/groups/gitlab-org/-/epics/10067) |
+| Overview & Status | In Progress |
 
 ### Charter
 
-The GitLab Administration Working Group will determine the work needed to maintain [GitLab Administrator](https://docs.gitlab.com/ee/administration/) functions healthy, identify DRI groups for requests, and redirect issues to corresponding groups for resolution. This group is a temporary DRI for all GitLab Administrator functions until a team is funded to be a permanent DRI.
+The GitLab Administration Working Group will determine the work needed to maintain [GitLab Administrator](https://docs.gitlab.com/ee/administration/) functions healthy, identify owning groups for requests, and redirect issues to corresponding groups for resolution. This group is a temporary owner for all GitLab Administrator functions until a team is funded to be a permanent owner.
 
 ### Context
 
-The maintenance and enhancement of GitLab Administration functions has been a shared responsibility among Development groups. This often triggers the same questions about shared responsibilities - who owns this and who should work on this. Before a development DRI group can be identified, a working group will help us to maintain the related functions to run GitLab (the software) smoothly.
+The maintenance and enhancement of GitLab Administration functions has been a shared responsibility among Development groups. This often triggers the same questions about shared responsibilities - who owns this and who should work on this. Before a development owning group can be identified, a working group will help us to maintain the related functions to run GitLab (the software) smoothly.
 
 ### Exit Criteria 
 
