@@ -402,7 +402,8 @@ FMMs are to provide a 5 business day lead time for all plan to WIP requests in o
 
 When an event is rescheduled or cancelled, the FMC is responsible for updating the [Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493).
 - For a reschedued event, the FMC will update the start and end dates in columns A & B.
-- For a cancelled event, the FMC will select the event line item and add a strikethrough to indicate the event has been cancelled.
+- For a cancelled event, the FMC will select the event line item and add a strikethrough to indicate the event has been cancelled or simply delete the line item. 
+- Ensure the SFDC campaign has been marked `aborted` 
 
 ## Rescheduling or Cancelling a Self-Service Event
 
