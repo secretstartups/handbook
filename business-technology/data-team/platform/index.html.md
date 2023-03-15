@@ -853,7 +853,7 @@ The [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/s
 
 Some of those are: 
 1. **X-Ray fitted curves calculation:** Quarterly process that create a table with fitted curves to historical coverage ratios. This data is used within the X-Ray dashboard.
-2. **QTD Pre-Aggregated data for X-Ray and SAL Heatmap:** Daily process to precalculate data aggregations at different levels. This process is much easier to run in Python than with SQL and we will be able to upload the data directly into `Snowflake`.
+2. **QTD Pre-Aggregated data for X-Ray and SAE Heatmap:** Daily process to precalculate data aggregations at different levels. This process is much easier to run in Python than with SQL and we will be able to upload the data directly into `Snowflake`.
 
 For future iterations, the Jupyter notebooks will be able to access to gSheets documents, opening the door to automating some of our regular data extracts.
 
