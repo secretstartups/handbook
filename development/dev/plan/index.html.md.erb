@@ -159,11 +159,42 @@ We feel it is important to document and communicate, that changing of any item's
 
 #### Active Quarter OKRs
 
-As we migrate to using GitLab to track OKRs, the active quarter (FY24-Q1) Objectives will be visible [here](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&type%5B%5D=objective&label_name%5B%5D=devops%3A%3Aplan&label_name%5B%5D=division%3A%3AEngineering&milestone_title=FY24-Q1&first_page_size=100) and Key Results [here](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=division%3A%3AEngineering&label_name%5B%5D=devops%3A%3Aplan&milestone_title=Q4&type%5B%5D=key_result&first_page_size=100).
+As we migrate to using GitLab to track OKRs, the active quarter (FY24-Q1) Objectives will be visible [here](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&type%5B%5D=objective&label_name%5B%5D=devops%3A%3Aplan&label_name%5B%5D=division%3A%3AEngineering&milestone_title=FY24-Q1&not%5Blabel_name%5D%5B%5D=group%3A%3A%2a&first_page_size=20) and Key Results [here](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=division%3A%3AEngineering&label_name%5B%5D=devops%3A%3Aplan&type%5B%5D=key_result&milestone_title=FY24-Q1&not%5Blabel_name%5D%5B%5D=group%3A%3A%2a&first_page_size=20).
 
 #### Previous Quarter OKRs
 
 FY23-Q4 OKRs were conducted in Ally.io and are no-longer available.
+
+#### Drafting OKRs using GitLab
+
+Guidance is available, including a video guide, on [how to use GitLab for OKRs](https://about.gitlab.com/company/okrs/#how-to-use-gitlab-for-okrs).
+
+GitLab currently offers some freedom in how to structure OKR hierarchies. We take the following approach in Plan:
+
+* EMs are encouraged to create group-level KRs under stage-level Objectives directly, without creating their own OKR structure.
+* Group KRs and Stage Objectives should ladder into a higher Objective, which can exist anywhere in the organization. In the development of OKRs a stage-level Objective laddered directly into a CEO KR.
+* They should be created or added as **child objectives and key results** of their parent so that progress roll-ups are visible.
+* Product development goals are established in milestone planning, following the regular [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/), and not in OKRs.
+
+Doing this ensures the hierarchy will be as simple, consistent and shallow as possible. This improves navigability and visibility, as we currently don't have good hierarchy visualization for OKRs.
+
+An example of a valid single OKR hierarchy is:
+
+```mermaid
+flowchart TD
+    A[Plan Objective] --> B(Project Management KR)
+    A --> C[Product Planning KR]
+    A --> D[Optimize KR]
+    A --> E[Knowledge KR]
+    A --> K[Principal Engineer KR]
+    A --> L[SEM KR]
+```
+
+Ownership is indicated using labels and assignee(s). The label indicates the group and/or stage, assignee the DRI. 
+
+OKRs should have the following labels:
+* Group, Stage, and Section (as appropriate).
+* Division (~"Division::Engineering") to distinguish from other functions.
 
 ### Retrospectives
 
