@@ -326,7 +326,7 @@ Dual career tracks can be added to each job family (regardless of division) when
 | 11    | Senior Director |	                                |
 | 10    |	Director	      |                                 |
 | 9	    | Manager (Sales) <br> Senior Manager (Sales)        |         	                      |
-| 8	    | Manager (Demand Generation)                |	Enterprise    |
+| 8	    | Manager (Demand Generation)                |	Alliance Business Development Manager <br> Enterprise  |
 | 7			|                 | Mid Market                      |
 | 6			|                 | SMB/SDR Lead & Acceleration                             |
 | 5			|                 | Analyst/ SDR  |
