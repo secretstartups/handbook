@@ -233,7 +233,7 @@ The following types of promotions/transfers can be processed through Greenhouse:
 
 For any transfer being submitted through Greenhouse [hiring process](/handbook/hiring/), the following is required:
 
-- The positions must be open for a minimum of 24 hours
+- The positions must be open for a minimum of 5 calendar days
 - There must be a minimum of 2 interviews completed before moving to an offer for a candidate
 
 ## Hiring for VP+ Roles
