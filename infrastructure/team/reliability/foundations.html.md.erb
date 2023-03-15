@@ -35,7 +35,7 @@ The Services that the Foundations team is responsible for fall into two general 
 | K8s | K8S workloads deployments, Cluster addons | Autodeploy remains with Delivery, and anything Delivery related is co-owned with Delivery |
 | Config | Terraform, Chef, Image Builds | The core TF repos are owned by Foundations, while specific modules may be maintained by the teams that use them |
 | Service discovery | Consul | |
-| Secrets Management | Vault | |
+| Secrets Management | Vault | Vault is offered as a service to enable teams to manage their own secrets |
 | Ops | Ops.gitlab.net, Ops Runners | |
 
 #### Edge
@@ -46,13 +46,8 @@ The Services that the Foundations team is responsible for fall into two general 
 | DNS | AWS Route 53, Cloudflare | |
 | Load Balancing | HAProxy, Ingress | |
 | Networking | HAProxy, Cloudflare | |
+| RBAC/IAM | Teleport, GCP IAM permissions and project creation | |
 
-#### Access Provisioning
-
-| Service | Description | Co-Ownership? |
-| ------- | ----------- | --------- |
-| Authenticated Access | Teleport | |
-| GCP | Manage IAM permissions and CGP Project creation | |
 
 ### Overlap
 
@@ -89,3 +84,43 @@ The Foundations Team must maintain a broad and diverse set of technical skills w
  * Slack Channel: [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6)
  * [Issue Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/5309050?label_name%5B%5D=team%3A%3AFoundations)
  * [Foundations team meeting agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit?usp=sharing)
+ * [Foundations OKRs](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Sub-Department%3A%3AReliability&label_name%5B%5D=Reliability%3A%3AFoundations&first_page_size=20)
+
+## How We Work
+
+ ### Values
+
+ In addition to striving to embrace GitLab's values, the Foundations team seeks to embody the following:
+
+  * Excellence - We do work at a high technical standard, and build maintainable systems with a long term perspective.
+  * Connection - We work in a way that is collaborative and feels connected to each other.
+  * Fun! - While the work we do is important, we can laugh, make jokes and enjoy our work day to day.
+  * Trust and Safety - We build trust by doing what we say we’re going to do when we say we’ll do it, or communicating clearly when and why that didn’t happen. We feel safe to show up and say what is on our minds. We feel safe asking for help.
+  * Ownership - We are responsible for the services we own, and we can make considered decisions about the things we are responsible for, while caring about the stakeholders who consume our work.
+  * Courage - We are willing to try new things in service of improving our infrastructure. We accept the associated risks and take responsibility when things go wrong.
+
+### Processes
+
+* Sync meetings
+  * We have weekly synchronous meetings in two different time zones to encourage discussion, give status updates, and connect as a team.
+    * [Agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit?usp=sharing)
+    * The meetings are recorded
+  * We have monthly retrospective meetings in two different time zones
+    * We review our wins and look for ways we can improve
+    * These meetings are not recorded to create a safe space for sharing transparently
+  * We have twice weekly Triage meetings available to us to ensure that incoming external requests are seen and responded to quickly.
+    * Incoming issues are scoped and prioritized in the Triage meetings
+    * They are then brought to team syncs for discussion and assignment, unless they are very urgent, in which case we will bring them to the team via Slack.
+
+* Standup
+  * We have Geekbot automated checkins on Mondays and Fridays in the [#infra_foundations_lounge](https://gitlab.slack.com/archives/C04QVEXBVL3) channel
+
+* Communication
+  * [GitLab OKRs](/handbook/engineering/okrs/) capture our commitments for each quarter and are generally updated every Tuesday
+  * GitLab Epics capture large pieces of work and those labeled "In Progress" are also generally updated on Tuesdays
+  * GitLab Issues capture smaller, concrete pieces of work, and those labeled "In Progress" should be updated twice weekly or whenever a portion of work has been completed.
+  * Slack is the default method of reaching out between team members
+    * [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) is for work related discussions, external requests, etc
+    * [#infra_foundations_lounge](https://gitlab.slack.com/archives/C04QVEXBVL3) is for socializing and standups
+    * [#g_infra_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) is for automated MR notifications
+ 
