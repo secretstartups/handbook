@@ -182,7 +182,7 @@ Please see [/handbook/leadership/no-matrix-organization](/handbook/leadership/no
 
 ## Stable counterparts
 
-We want to promote organic cross-functional collaboration by giving people stable counterparts for other functions they need to work with. For example, each Strategic Account Leader (SAL) works with one Sales Development Representative (SDR). With our [categories](/handbook/product/categories/) every backend team of developers maps to a [Product Manager (PM)](/job-families/product/product-manager/) and a [frontend team](/handbook/engineering/frontend/#teams).
+We want to promote organic cross-functional collaboration by giving people stable counterparts for other functions they need to work with. For example, each Strategic Account Executive (SAE) works with one Sales Development Representative (SDR). With our [categories](/handbook/product/categories/) every backend team of developers maps to a [Product Manager (PM)](/job-families/product/product-manager/) and a [frontend team](/handbook/engineering/frontend/#teams).
 
 Giving people a **stable counterpart** allows for more social trust and familiarity, which speeds up decision making, prevents communication problems, and reduces the risk of conflicts. This way we can work effectively cross functionally without the [downsides of a matrix organization](#no-matrix-organization).
 
