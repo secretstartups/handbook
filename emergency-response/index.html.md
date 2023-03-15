@@ -71,7 +71,7 @@ For Marketing Operations - When OOO/PTO please add this to the backup team membe
       * Creating [Landing Page request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request)
 * Providing approval list and who signs off on the email
     * Legal, Customer Service VP and VP of the function who is initiating the communication (i.e., Security, Engineering, Infrastructure) are required to sign off
-* [Notifying affected field teams](/handbook/security/security-operations/sirt/security-incident-communication-plan.html#communicating-internally) (Customer Success, CSM, SAL/AE, SA, Professional Services)
+* [Notifying affected field teams](/handbook/security/security-operations/sirt/security-incident-communication-plan.html#communicating-internally) (Customer Success, CSM, SAE/AE, SA, Professional Services)
    * Also make sure to notify #sales and #customer-success before email is set to go out
 * Approving test email 
 * Providing any edits to the test email
@@ -121,7 +121,7 @@ The following approvers are needed for the copy and list size:
  - Vice President of the function who is initiating the communication (i.e., Security, Engineering, Infrastructure)
  - Legal (copy only)
  - Marketing Operations Manager
- - Appropriate field teams driven by the scope of customers receiving the communication (SAL/AE, SA, CSM, Professional Services)
+ - Appropriate field teams driven by the scope of customers receiving the communication (SAE/AE, SA, CSM, Professional Services)
  - Support, if there is any call to action in the communication to contact support
 
 
