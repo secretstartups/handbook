@@ -108,7 +108,7 @@ Please refer to the specific linked issue for each event for details as they unf
 [Provide your input](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=value-framework-feedback) on what enhancements you'd like to see in the next release (1.2) of [Command of the Message](/handbook/sales/command-of-the-message/) to help you uncover customer needs and articulate GitLab's value and differentiation.
 
 ### Team Member Spotlight 🔦
-Cherry Han was nominated for going above and beyond as an SA to support SALs and GitLab's customers and prospects as a trusted technical advisor. Learn how Cherry embodies the GitLab values of Results, Collaboration, and Efficiency, and hear more about her many talents – including painting, cooking, and an impressive green thumb!
+Cherry Han was nominated for going above and beyond as an SA to support SAEs and GitLab's customers and prospects as a trusted technical advisor. Learn how Cherry embodies the GitLab values of Results, Collaboration, and Efficiency, and hear more about her many talents – including painting, cooking, and an impressive green thumb!
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/XOfO1C1waxY" frameborder="0" allowfullscreen="true"> </iframe>

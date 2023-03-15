@@ -61,7 +61,7 @@ Questions? Reach out to #sales-support.
 ----
 There are **[new fields/attributions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#managing-channel-opportunities) on Opportunities in SFDC to enhance visibility of partner value and drive efficiency with Channel quotes/orders**.  👀 Changes include a new field showing the deal type, new logic that will improve channel approvals and comp calculations, and more.
 
-The team has also launched a **[contest for SALs and AEs](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/435) with a $200 prize** to find the best examples of where this information helps lead to Partner collaboration that influences, expands, and/or accelerates an opportunity.
+The team has also launched a **[contest for SAEs and AEs](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/435) with a $200 prize** to find the best examples of where this information helps lead to Partner collaboration that influences, expands, and/or accelerates an opportunity.
 
 ----
 Professional Services now has a formalized process for internal team leads to **request delivery of our customer-facing live training** for their team members! 🏋️‍♂️ Check out [this updated handbook page](/handbook/customer-success/professional-services-engineering/working-with/#requesting-training-for-gitlab-team-members) to get your team trained and certified.

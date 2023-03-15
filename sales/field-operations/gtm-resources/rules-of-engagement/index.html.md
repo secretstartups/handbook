@@ -49,13 +49,13 @@ The data sources used to properly segment and route an account are defined and e
 
 #### Qualifying Accounts
 
-- SALs/AEs are responsible for validating accounts assigned to them in SFDC are accurately segmented. A reasonable effort should be made to check employee count, Account hierarchy, and Headquarters location. 
+- SAEs/AEs are responsible for validating accounts assigned to them in SFDC are accurately segmented. A reasonable effort should be made to check employee count, Account hierarchy, and Headquarters location. 
 
     
 
 #### Account Ownership: 
 
-Only active Field Sales (AE/SAL) members can own accounts.  The exceptions to this rule include:
+Only active Field Sales (AE/SAE) members can own accounts.  The exceptions to this rule include:
 1. Field Sales Management temporarily covering an account
 1. Sales Admin - ownership is temporary while our data enrichment tools determine the correct Sales member
 1. Non-Sales members who own "test" or "junk" accounts 
@@ -65,14 +65,14 @@ Account ownership will be determined by the Sales Segment and Address.  All chil
 **The following two policies apply to account ownership in the middle of the Fiscal year:**
 
 1. **Feb 1st Confirmed Segment** applies to when an Account is accurately aligned to the correct segment and owner at the beginning of the year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner until the subsequent year. 
-    - Upon discovery of inaccurate ZoomInfo data (examples: bad data, wrong parent account) resulting in incorrect assignment, the SAL/AE is to partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAL/AE. 
-2. **Stale Accounts Exception to Feb 1st Confirmed Segment** implies (i) when an Account's employee count deems it should move segments and there has been no SFDC activity records logged within the last 9 weeks, there's no open opportunity and/or close plan prior to a request from the receiving SAL/AE, the team should collaborate to move the Account immediately to the new owner. (ii) Accounts with churn expected during the current FY, which is either known or should reasonably be known by the SAL/AE should remain with the existing SAL/AE through the end of the FY.
+    - Upon discovery of inaccurate ZoomInfo data (examples: bad data, wrong parent account) resulting in incorrect assignment, the SAE/AE is to partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAE/AE. 
+2. **Stale Accounts Exception to Feb 1st Confirmed Segment** implies (i) when an Account's employee count deems it should move segments and there has been no SFDC activity records logged within the last 9 weeks, there's no open opportunity and/or close plan prior to a request from the receiving SAE/AE, the team should collaborate to move the Account immediately to the new owner. (ii) Accounts with churn expected during the current FY, which is either known or should reasonably be known by the SAE/AE should remain with the existing SAE/AE through the end of the FY.
 
 **Important Notes**
-- Non-compliance to these policies goes against the GitLab values and it will be up to the SAL or AE Leadership Team's discretion as to applicable disciplinary action.
-- If an Account is identified as incorrectly assigned to you, regardless of whether you know someone in the Account, the SAL/AE should not engage in any capacity and instead partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAL/AE. The transferring SAL/AE is expected to take this action and actively communicate in a manner that optimizes the prospect/customer experience. 
-- In the event a SAL/AE unknowingly engages with an Account that is not theirs, they should log SFDC activity and notify the correct Account owner. If there is no collaboration initiated with the correct Account owner, your actions will be reviewed by your segment and regional leadership team.
-- SALs/AEs are not permitted to sell into accounts they do not own in SFDC.  
+- Non-compliance to these policies goes against the GitLab values and it will be up to the SAE or AE Leadership Team's discretion as to applicable disciplinary action.
+- If an Account is identified as incorrectly assigned to you, regardless of whether you know someone in the Account, the SAE/AE should not engage in any capacity and instead partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAE/AE. The transferring SAE/AE is expected to take this action and actively communicate in a manner that optimizes the prospect/customer experience. 
+- In the event a SAE/AE unknowingly engages with an Account that is not theirs, they should log SFDC activity and notify the correct Account owner. If there is no collaboration initiated with the correct Account owner, your actions will be reviewed by your segment and regional leadership team.
+- SAEs/AEs are not permitted to sell into accounts they do not own in SFDC.  
 
 #### Parent/Child Segmentation:
 
@@ -80,11 +80,11 @@ All Accounts in a hierarchy will adopt the MAX Segmentation of any account in th
 
 ### Named Account
 
-An account that is owned by a Sales Rep with a headquarters outside of his or her designated geographical territory. Named accounts are identified by the Named Account Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) or Account Executive (AE) along with all records (LEADS and CONTACTS) associated with that Named Account and any related Child accounts within or added to SFDC.  Named accounts will be reviewed annually to determine if they should be moved to the Global Account Owner at that time or remain Named. 
+An account that is owned by a Sales Rep with a headquarters outside of his or her designated geographical territory. Named accounts are identified by the Named Account Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Executive (SAE) or Account Executive (AE) along with all records (LEADS and CONTACTS) associated with that Named Account and any related Child accounts within or added to SFDC.  Named accounts will be reviewed annually to determine if they should be moved to the Global Account Owner at that time or remain Named. 
 
 #### Key Account
 
-An account that has been identified as important for the Area, Region and Segment and where we want to focus our sales efforts. Key Accounts may also be marked as Named Accounts. Each Strategic Account Leader should have 15-20 Key Accounts on average in their territory.  Key Accounts are identified at the beginning of the fiscal year by the ASM, RD or VP of the specific region and will be reviewed annually. Any changes to the Key Accounts list would need to be reviewed and approved by ASM, RD and VP of the region. The 'Key Account' field will be checked for these accounts.
+An account that has been identified as important for the Area, Region and Segment and where we want to focus our sales efforts. Key Accounts may also be marked as Named Accounts. Each Strategic Account Executive should have 15-20 Key Accounts on average in their territory.  Key Accounts are identified at the beginning of the fiscal year by the ASM, RD or VP of the specific region and will be reviewed annually. Any changes to the Key Accounts list would need to be reviewed and approved by ASM, RD and VP of the region. The 'Key Account' field will be checked for these accounts.
 
 #### Public Sector Account: 
 
@@ -141,7 +141,7 @@ All Embargoed Accounts will remain in Sales Admin per ROE for Banned Countries
 
 #### Community Programs (OSS/EDU/Startups) Accounts
 
-For Accounts where there's an OSS/EDU/Startups opportunity, ownership of that Account will remain with the active Field Sales (AE/SAL) member. However, the relevant Community Program DRI will manage the OSS/EDU/Startups relationship and will be identified in a separate field on the Account called Community Program Owner.
+For Accounts where there's an OSS/EDU/Startups opportunity, ownership of that Account will remain with the active Field Sales (AE/SAE) member. However, the relevant Community Program DRI will manage the OSS/EDU/Startups relationship and will be identified in a separate field on the Account called Community Program Owner.
 
 #### Field Permissions
 
@@ -168,8 +168,8 @@ _Any request to transfer an account for any reason must follow the outlined exce
      - **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales    Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will either be moved immediately or marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Accounts that have CARR must be flagged to be reviewed at the quarter to review the sum of CARR on all of the AEs accounts requested to move.If the sum of CARR for all requested accounts is under $50K the accounts can be moved as agreed upon. If the sum of CARR for all requested accounts is over $50K Sales Operations will work with Sales Strategy to evaluate the potential impact on AEs quota and work directly with the ASM an accounts will remain with the current owner until a decision is made. Flagged accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
      - **Sales Operations Immediate and Quarterly Account Review Process** 
              1. Accounts that can be moved immediately by Sales Operations: 
-                 1. Public Sector accounts owned by non-Public Sector AEs/SALs 
-                 1. Non-Public Sector accounts owned by Public Sector SALs
+                 1. Public Sector accounts owned by non-Public Sector AEs/SAEs 
+                 1. Non-Public Sector accounts owned by Public Sector SAEs
                  1. EDU/OSS/Startups accounts owned by a Community Programs team member 
                  1. Web directs that are enriched with inaccurate data resulting in incorrect accounts assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
                  1. Newly created accounts with inaccurate data resulting in incorrect account assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
@@ -196,14 +196,14 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 **Understanding Opportunity Assignment, Rules and Definitions**
 
 1. **Opportunity Ownership:** 
-    1. Only active Field Sales (AE/SAL) members can own opportunities. The exceptions to this rule include:
+    1. Only active Field Sales (AE/SAE) members can own opportunities. The exceptions to this rule include:
         1. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
-            - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE/SAL owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Commumity Programs team member manages the relationship.
-        1. **Reseller opportunities**: which can be owned by the AE/SAL or channel manager
+            - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE/SAE owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Commumity Programs team member manages the relationship.
+        1. **Reseller opportunities**: which can be owned by the AE/SAE or channel manager
     1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
         1. Those noted in the aforementioned section
         1. Holdover opportunities
-        1. When an Renewals Manager or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAL
+        1. When an Renewals Manager or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAE
         1. Stage of the opportunity at time of account ownership change
 1. **Sales Admin Owned Opportunities:** When new opportunities are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
     - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process.  Twice weekly Sales Operations reviews the corresponding opportunity and updates the Opportunity owner to match the Account owner (unless exceptions apply).  
@@ -214,7 +214,7 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 #### Guiding Principles of the Policy:
 1. **Preserve necessary business momentum** - holdovers primarily exist to preserve momentum on key deals in flight, thus mitigating the pipeline impact of GTM related business disruption.
 1. **Align incentives** 
-     - The secondary purpose of holdovers is to give individual contributor Account Owners (AEs and SALs) an opportunity to be compensated on labor-intensive deals that are near closure at the time an account is transitioned
+     - The secondary purpose of holdovers is to give individual contributor Account Owners (AEs and SAEs) an opportunity to be compensated on labor-intensive deals that are near closure at the time an account is transitioned
      - However, holdovers delay account transition and the formation of new pipeline by the new account owner because new account owners are not paid on holdover net ARR.
 1. **Minimize holdover volume** - volume should be minimized to the most impactful and mature deals in flight at the time of account transition
 1. Stage based criteria is not applicable for opportunities moving out of the Commercial segment. Stage criteria does not apply to holdovers for Commercial because Commercial leadership does not want this criteria to artificially inflate the value of the pipeline. Holdovers should be selected wisely as there will be no extensions to the holdover timeline.

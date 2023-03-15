@@ -113,7 +113,7 @@ From [avoiding common discovery pitfalls](https://youtu.be/04kviW1GkW4) to [co-s
 
 ### Team Member Spotlight 🔦
 
-#### [Alyssa Belardi - SAL, AMER West](https://about.gitlab.com/company/team/#abelardi)
+#### [Alyssa Belardi - SAE, AMER West](https://about.gitlab.com/company/team/#abelardi)
 
 ![Alyssa-Belardi-TMS-Thumb](/handbook/sales/field-communications/field-flash-newsletter/images/Alyssa-Belardi-TMS-Thumb.jpeg)
 

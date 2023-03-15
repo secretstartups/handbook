@@ -39,14 +39,14 @@ It is important to note that Sales Development opportunities could come from inb
 **Primary Activities** to Complete in This Stage:
 
 - Begin filling out [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (in required qualification criteria section of the opportunity) - Identify pain/need, Economic buyer, or path to the economic buyer for prospects, plus decision process for inbound leads or current customers.
-- Schedule discovery call with AE or SAL
+- Schedule discovery call with AE or SAE
 - For SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity](https://about.gitlab.com/handbook/marketing/sales-development/#qualification-criteria-and-saos) criteria.
 - SDR schedules call, sends invites, creates an event on the account object, names the event: GitLab Introductory Meeting - {{Account Name}}. - 
-- Input the next step date to highlight when the meeting is set for. Once the invite is accepted by both parties the opportunity ownership will be transferred to the AE/SAL.
-- After the discovery conversation and once the sales team has validated that the opportunity meets our Sales Accepted Opportunity criteria, the SAL or AE will move the opportunity to the next stage (Stage 1) and the Amount field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the Sales Accepted Date field on the opportunity record.
-- If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to an 9-Unqualified stage (this is the only time an opportunity can move into 9-Unqualified stage): SAL / AE should provide a reason as to why the opportunity is deemed unqualified for coaching purposes.
+- Input the next step date to highlight when the meeting is set for. Once the invite is accepted by both parties the opportunity ownership will be transferred to the AE/SAE.
+- After the discovery conversation and once the sales team has validated that the opportunity meets our Sales Accepted Opportunity criteria, the SAE or AE will move the opportunity to the next stage (Stage 1) and the Amount field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the Sales Accepted Date field on the opportunity record.
+- If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAE or AE should move the opportunity to an 9-Unqualified stage (this is the only time an opportunity can move into 9-Unqualified stage): SAE / AE should provide a reason as to why the opportunity is deemed unqualified for coaching purposes.
 - All Opps that are sales assisted must first enter this stage before they can be moved further in the pipeline. If they do not enter this stage at some point you will encounter a validation rule error.
-- For renewal opportunities, 0-Pending Acceptance is only to be used if the renewal is not being actively worked by the Account Executive/Strategic Account Leader.
+- For renewal opportunities, 0-Pending Acceptance is only to be used if the renewal is not being actively worked by the Account Executive/Strategic Account Executive.
 - Sales Dev team will not create renewal opportunities.
 
 **Exit Criteria:** 
@@ -54,7 +54,7 @@ It is important to note that Sales Development opportunities could come from inb
 _These activities must be completed before moving the prospect to the next stage_
 
 - Completion of sales qualification meeting 
-- Validation by SAL/AE of the information collected by the Sales Development team member
+- Validation by SAE/AE of the information collected by the Sales Development team member
 - Agreed upon next step 
 
 ----

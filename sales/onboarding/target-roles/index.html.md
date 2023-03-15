@@ -12,7 +12,7 @@ title: "Targeted Sales & Customer Success Roles for Sales Quick Start (SQS)"
 
 ## Targeted Sales & Customer Success Roles for Sales Quick Start (SQS)
 *  Targeted roles for the Sales Quick Start learning path include recently hired: 
-   - Enterprise and Public Sector Strategic Account Leaders (SALs)
+   - Enterprise and Public Sector Strategic Account Executives (SAEs)
    - Mid-Market and SMB Account Executives (AEs)
    - Inside Sales Reps (ISRs)
    - Solution Architects (SAs) 

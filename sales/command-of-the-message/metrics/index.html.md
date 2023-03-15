@@ -11,7 +11,7 @@ description: "Practical tips for sales reps to demystify the Metrics component o
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-Many sales reps find the Metrics component of the Command of the Message customer conversation framework to be a difficult one. To learn more, check out the Force Management blog, ["Why Sales Reps Struggle with Metrics in the Sales Conversation."](https://www.forcemanagement.com/blog/why-sales-reps-struggle-with-metrics-in-the-sales-conversation) One of the most common challenges is that many customers don't have good metrics, they aren't measuring, and they may not know what to measure. Check out the below video from Nico Ochoa (Strategic Account Leader, US West).
+Many sales reps find the Metrics component of the Command of the Message customer conversation framework to be a difficult one. To learn more, check out the Force Management blog, ["Why Sales Reps Struggle with Metrics in the Sales Conversation."](https://www.forcemanagement.com/blog/why-sales-reps-struggle-with-metrics-in-the-sales-conversation) One of the most common challenges is that many customers don't have good metrics, they aren't measuring, and they may not know what to measure. Check out the below video from Nico Ochoa (Strategic Account Executive, US West).
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/wkhVEg2C11M" frameborder="0" allowfullscreen="true"> </iframe>
@@ -49,9 +49,9 @@ Another critical way to embrace your role as a trusted advisor is to become and 
 </figure>
 
 ## Be a Good Storyteller
-The best Metrics conversations are **STORIES** that articulate quantifiable measurements and proof of the business benefits of the solution to the customer’s problem(s). John May (Strategic Account Leader, US East) leverages this [DORA State of DevOps 2019 slide](https://docs.google.com/presentation/d/1cNcqXbcYR5pEfz-t8_VBE86fqdma_Jc7ws5Icm9FDKY/edit?usp=sharing) to emotionally appeal to individuals' desire to become elite performers and highlight relevant success stories of organizations ([Ticketmaster](/blog/2017/06/07/continuous-integration-ticketmaster/), [Verizon Connect](https://www.youtube.com/watch?v=zxMFaw5j6Zs), [Paessler AG](/customers/paessler/), and more) that have become Elite Performers by adopting and expanding their GitLab footprint. Learn more from John in this [Art Behind Command of the Message](https://youtu.be/-iIK7SlplEo) sales enablement videocast (GitLab internal only, Oct 2019, 26 minutes).
+The best Metrics conversations are **STORIES** that articulate quantifiable measurements and proof of the business benefits of the solution to the customer’s problem(s). John May (Strategic Account Executive, US East) leverages this [DORA State of DevOps 2019 slide](https://docs.google.com/presentation/d/1cNcqXbcYR5pEfz-t8_VBE86fqdma_Jc7ws5Icm9FDKY/edit?usp=sharing) to emotionally appeal to individuals' desire to become elite performers and highlight relevant success stories of organizations ([Ticketmaster](/blog/2017/06/07/continuous-integration-ticketmaster/), [Verizon Connect](https://www.youtube.com/watch?v=zxMFaw5j6Zs), [Paessler AG](/customers/paessler/), and more) that have become Elite Performers by adopting and expanding their GitLab footprint. Learn more from John in this [Art Behind Command of the Message](https://youtu.be/-iIK7SlplEo) sales enablement videocast (GitLab internal only, Oct 2019, 26 minutes).
 
-Listen to how Nico Ochoa (Strategic Account Leader, US West) explains the value of GitLab by talking in terms of a software factory and applying lean manufacturing principles. More specifically, GitLab applies these principles to take waste out of the process of developing and deploying applications to increase operational efficiencies, deliver better products faster, and reduce security and compliance risk.
+Listen to how Nico Ochoa (Strategic Account Executive, US West) explains the value of GitLab by talking in terms of a software factory and applying lean manufacturing principles. More specifically, GitLab applies these principles to take waste out of the process of developing and deploying applications to increase operational efficiencies, deliver better products faster, and reduce security and compliance risk.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/vtlAs68YY8M" frameborder="0" allowfullscreen="true"> </iframe>
@@ -86,7 +86,7 @@ Watch the below video and check out GitLab's [Value Stream Management](/solution
   <iframe src="https://www.youtube.com/embed/jE56J-kQRao" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Listen to Nico Ochoa (Strategic Account Leader, US West) describe his role in [helping a large tech firm be able to measure success and improve business outcomes](https://youtu.be/m1Gori76d-I) (GitLab internal only, June 2020, 3 minutes).
+Listen to Nico Ochoa (Strategic Account Executive, US West) describe his role in [helping a large tech firm be able to measure success and improve business outcomes](https://youtu.be/m1Gori76d-I) (GitLab internal only, June 2020, 3 minutes).
 
 ### Technical Metrics
 **Technical metrics** highlight measurable results that prove the solution's capabilities.

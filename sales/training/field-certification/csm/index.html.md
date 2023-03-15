@@ -44,7 +44,7 @@ Below is the holistic learner journey for CSMs and provides context for the info
 
 **Course 5: Pre- to Post Sales Handoff**
 *Differentiate between when a CSM should get involved in commercial and enterprise accounts
-* Review the Customer Use Case with SAL and SA
+* Review the Customer Use Case with SAE and SA
 * Analyze the Customer’s Background
 * Identify gaps in understanding for planning phase
 

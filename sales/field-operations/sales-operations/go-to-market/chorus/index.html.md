@@ -73,9 +73,9 @@ Managers can submit an issue in the [Sales Operations project](https://gitlab.co
 
 ## Swim Lanes
 ### Recorder Access
-- US SALs and AEs
+- US SAEs and AEs
 - US CSM and SAs
-- ROW SALs, AEs, CSM, and SAs upon completion of [Chorus GDPR Training](https://levelup.gitlab.com/learn/course/chorusai-recording-compliance-training-1/chorusai/overview?client=internal-team-members)
+- ROW SAEs, AEs, CSM, and SAs upon completion of [Chorus GDPR Training](https://levelup.gitlab.com/learn/course/chorusai-recording-compliance-training-1/chorusai/overview?client=internal-team-members)
 
 ### Listener Access
 - All SDR/BDR team members

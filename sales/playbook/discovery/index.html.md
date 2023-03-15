@@ -196,17 +196,17 @@ Sales multi-threading refers to the concept of engaging and developing relations
 
 **Overall Discovery**
 - [Executing Great Discovery](https://theaudible-readypodcast.sounder.fm/episode/33-executing-great-discovery-w-brian-walsh) podcast (31 minutes)
-- [Discovery is a Process](https://youtu.be/7icHj3UdSVw) featuring Matt Petrovick (GitLab Strategic Account Leader) (2.5 minutes)
+- [Discovery is a Process](https://youtu.be/7icHj3UdSVw) featuring Matt Petrovick (GitLab Strategic Account Executive) (2.5 minutes)
 - [Matt Petrovick's Favorite Discovery Call](https://youtu.be/3jxBPQxCwEo) (3 minutes)
 - [Matt Petrovick's Most Memorable Discovery Call](https://youtu.be/Zngf1HzNuEo) (2 minutes)
 
 **Preparation**
-- [Be Match Ready!](https://youtu.be/teAWL9YUy30) featuring Peter Davies (GitLab Strategic Account Leader) (2 minutes)
+- [Be Match Ready!](https://youtu.be/teAWL9YUy30) featuring Peter Davies (GitLab Strategic Account Executive) (2 minutes)
 
 **Active Listening**
 - [Improve Your Active Listening Skills](https://theaudible-readypodcast.sounder.fm/episode/improve-your-active-listening-skills-w-patrick-mc) podcast (15 minutes)
 - [Why Are You Talking?](https://theaudible-readypodcast.sounder.fm/episode/why-are-you-talking) podcast (9 minutes)
-- [Use the Customer's Words and Stop Talking](https://youtu.be/lV_DGNB_bcQ) featuring Peter Davies (GitLab Strategic Account Leader) (0.5 minutes)
+- [Use the Customer's Words and Stop Talking](https://youtu.be/lV_DGNB_bcQ) featuring Peter Davies (GitLab Strategic Account Executive) (0.5 minutes)
 
 **Attaching to the Biggest Problem**
 - [How to Enable Reps to Sell Higher](https://theaudible-readypodcast.sounder.fm/episode/decision-process-brian-walsh) podcast (27 minutes) 
@@ -216,4 +216,4 @@ Sales multi-threading refers to the concept of engaging and developing relations
 
 **Multi-Threading**
 - [Navigating the Decision Process with Multiple Buyers](https://theaudible-readypodcast.sounder.fm/episode/decision-process) podcast (11.5 minutes)
-- [Multi-threading with Application Security](https://youtu.be/9FTpDK-q11o) featuring Matt Petrovick (GitLab Strategic Account Leader) (1 minute)
+- [Multi-threading with Application Security](https://youtu.be/9FTpDK-q11o) featuring Matt Petrovick (GitLab Strategic Account Executive) (1 minute)

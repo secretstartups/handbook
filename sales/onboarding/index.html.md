@@ -63,7 +63,7 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 
 To accelerate ramp time and to support the GitLab values of results, iteration and efficiency, we have optimized the field onboarding program to provide new team members with the core information and essential competencies paired with the day-to-day skills that they need to be successful in their individual role. Learning is combined with specialized on the job training and a more robust shadowing program to ensure that new team members can contextualize and apply what they are learning throughout the entire onboarding journey. 
 
-The onboarding program includes individual role-based learning journeys for AEs, SALs, SAs, CSMs, CAMs, ABDMs and ISRs. Each role-based learning journey is designed based on the unique needs of each segment and includes the following milestones: 
+The onboarding program includes individual role-based learning journeys for AEs, SAEs, SAs, CSMs, CAMs, ABDMs and ISRs. Each role-based learning journey is designed based on the unique needs of each segment and includes the following milestones: 
 
 * Month 1: Understand role and GitLab product (SQS & Pre-work)
 * Month 2: Meet customers
@@ -81,7 +81,7 @@ GitLab's role-based learning journeys are based on milestones and enable us to d
 
 Click on a link below to begin your role based journey. 
 
-- Enterprise Strategic Account Leader - [Enterprise Sales: What every SAL needs to know (30-60-90 days)](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/enterprise-sales-sal-30-60-90-days) 
+- Enterprise Strategic Account Executive - [Enterprise Sales: What every SAE needs to know (30-60-90 days)](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/enterprise-sales-sal-30-60-90-days) 
 - Commercial Account Executive - [Commercial Sales - Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/commercial-sales-onboarding-journey)
 - Solutions Architect - [Solutions Architect: 30-60-90 Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/solutions-architect-30-60-90-onboarding-journey)
 - Customer Success Managers

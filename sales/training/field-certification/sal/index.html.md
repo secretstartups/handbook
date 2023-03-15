@@ -15,15 +15,15 @@ To support and scale GitLab’s continued growth and success, the Field Enableme
 
 Accreditation badges will align to the critical customer engagements as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each customer interaction.
 
-## Strategic Account Leader Curriculum 
-The below slide shows the holistic learner journey for SALs and provides context for the information included throughout the learning program. 
+## Strategic Account Executive Curriculum 
+The below slide shows the holistic learner journey for SAEs and provides context for the information included throughout the learning program. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000&slide=id.g94bb3b04a3_0_271" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 ## Building the Territory & Pipeline Learning Path 
-This is the first learning path in development for SALs which will consist of 5 courses. The learning objectives for each course are outlined below.
+This is the first learning path in development for SAEs which will consist of 5 courses. The learning objectives for each course are outlined below.
 
 **Course 1: [Co-Selling with Partners](https://gitlab.edcast.com/insights/ECL-9a30df21-dff0-4ac5-8ffa-e67429860dfd)**
 * The different types of partners GitLab works with

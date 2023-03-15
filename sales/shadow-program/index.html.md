@@ -62,7 +62,7 @@ This is your chance to sit back and put on your critical-thinking hat. As you go
 
 
 ## Graduating from the program
-At some point during onboarding, new hires are invited to a weekly series with their peers where they’ll share and learn from each other, hear advice and lessons learned from tenured SALs, and even customers. This looks different for different segments, and may run at different times depending on your start date. If this is relevant to you, you'll receive an invite from your sales enablement lead and attending will be part of your certification. 
+At some point during onboarding, new hires are invited to a weekly series with their peers where they’ll share and learn from each other, hear advice and lessons learned from tenured SAEs, and even customers. This looks different for different segments, and may run at different times depending on your start date. If this is relevant to you, you'll receive an invite from your sales enablement lead and attending will be part of your certification. 
  
 **Certification:** The program completes with a pitch review where new hires record themselves presenting the One Platform story. This is also a key part of graduating from the overall onboarding journey and usually occurs at the end of the new hire's first 90 days. This recording is graded by a manager and a passing score must be achieved to graduate. Once shadows graduate from this program, they'll achieve the coveted Customer-Ready certification badge.
 

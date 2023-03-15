@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Account Planning
 description: >-
-  Account planning helps the SAL and the larger account team elevate
+  Account planning helps the SAE and the larger account team elevate
   opportunity-driven conversations into value-based conversations that focus on
   the customer's value drivers.
 ---
@@ -15,17 +15,17 @@ description: >-
 
 ## Overview
 
-An account plan is a document or record that contains important details about a customer or prospect, including information about the organization's business, strategic objectives, mission-critical priorities, goals and motivations, competitive landscape, pertinent technology stack details, key contacts and relationship maps, and the Strategic Account Leader's (SAL) strategy and action plan over varying time horizons (6 months, 12 months, 18 months) to establish and expand a mutually beneficial, long-term strategic relationship.
+An account plan is a document or record that contains important details about a customer or prospect, including information about the organization's business, strategic objectives, mission-critical priorities, goals and motivations, competitive landscape, pertinent technology stack details, key contacts and relationship maps, and the Strategic Account Executive's (SAE) strategy and action plan over varying time horizons (6 months, 12 months, 18 months) to establish and expand a mutually beneficial, long-term strategic relationship.
 
-The SAL should think about account planning as if they were the CEO of their own territory. If you were a CEO, what information would you need to give banks, investors, or employees to demonstrate that you have a viable business plan that you can execute? An account plan is a business plan that helps the team analyze and execute on the business with a specific account. Like a CEO, the SAL need a leadership team to effectively plan for the account. Be sure to leverage the Solutions Architect, Customer Success Manager, and Channel Partners as you strategize and build the account plan!
+The SAE should think about account planning as if they were the CEO of their own territory. If you were a CEO, what information would you need to give banks, investors, or employees to demonstrate that you have a viable business plan that you can execute? An account plan is a business plan that helps the team analyze and execute on the business with a specific account. Like a CEO, the SAE need a leadership team to effectively plan for the account. Be sure to leverage the Solutions Architect, Customer Success Manager, and Channel Partners as you strategize and build the account plan!
 
 **Get started with the [Account Planning template](https://docs.google.com/presentation/d/1eZvbplyD5btVKW_QET2X4Whr6GOB2Etub8jjEJpQ_Ks/edit#slide=id.g16fb994af68_0_4) in our shared Google Drive** (internal team members only).
 
 ## Why Account Planning?
 
-Account planning helps the SAL and the larger account team elevate opportunity-driven conversations into value-based conversations that focus on the customer's [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Good account plans help the team focus on what matters to earn strategic partner status with the customer which, in turn, will drive increased share of wallet and predictable growth. Account planning is NOT about creating a report for management--it's about helping the team create a strategic plan for long-term customer growth and retention.
+Account planning helps the SAE and the larger account team elevate opportunity-driven conversations into value-based conversations that focus on the customer's [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Good account plans help the team focus on what matters to earn strategic partner status with the customer which, in turn, will drive increased share of wallet and predictable growth. Account planning is NOT about creating a report for management--it's about helping the team create a strategic plan for long-term customer growth and retention.
 
-An effective account plan defines a clear strategy and action plan to grow and expand customer relationships and will help the SAL and the team:
+An effective account plan defines a clear strategy and action plan to grow and expand customer relationships and will help the SAE and the team:
 
 - Better understand the customer's financial health, market position, strategic objectives, risks, key partners, tech stack, relationships with other DevOps vendors, and more
 - Prioritize pursuits based on where GitLab can alleviate challenges and pain points that the customer is currently experiencing that are getting in the way of reaching desired business outcomes
@@ -89,7 +89,7 @@ Mapping the org allows us to analyze where we are strong and where we have vulne
 
 If the account plan is with an existing customer, Net Promoter Score (NPS) data may provide helpful insights into and help track relationship health and trends.
 
-As the SAL builds and continues to refine the account plan, consider the following:
+As the SAE builds and continues to refine the account plan, consider the following:
 
 - What existing relationships does the team need to continue to nurture and strengthen?
 - What new relationships does the team need to establish, why, and how will we do it?
@@ -116,7 +116,7 @@ With this understanding, you can begin to formulate a strategy for where and how
 
 ### Action Plan
 
-_This is the most important part of the account plan!_ Once the SAL and the team plan the work, be sure to work the plan! Account plans are meaningless if there is no clear plan of action for achieving the objectives. Once the SAL and the team identify a prioritized set of objectives that will help the team deliver more value to the customer in support of the customer's strategic business initiatives, begin to identify and assign action items that will enable the team to achieve each objective. An action plan should clearly document the following:
+_This is the most important part of the account plan!_ Once the SAE and the team plan the work, be sure to work the plan! Account plans are meaningless if there is no clear plan of action for achieving the objectives. Once the SAE and the team identify a prioritized set of objectives that will help the team deliver more value to the customer in support of the customer's strategic business initiatives, begin to identify and assign action items that will enable the team to achieve each objective. An action plan should clearly document the following:
 
 1. What is each team member trying to achieve?
 1. How will each team member achieve success?
@@ -185,7 +185,7 @@ A quarterly cadence to review and update plans can help to ensure that plans ref
 
 - Account plans should be thoughtful, collaborative, and cross-functional with contributions and input from the entire account team including Solutions Architects, Customer Success Managers, Sales Leadership, Partners, and more
 - Account plans are living documents, and a customer’s business and strategies are always subject to change; share the account plan with the account team regularly to maintain a fresh understanding of the customer's needs and to keep everyone informed and aligned
-- Account reps should use QBRs and/or other recurring meetings such as SAL-SA-CSM calls to review progress, update objectives and/or action plans, and align on next steps
+- Account reps should use QBRs and/or other recurring meetings such as SAE-SA-CSM calls to review progress, update objectives and/or action plans, and align on next steps
 - If you would like to work with your customer to build an account plan, there is a [GoogleSlide Template](https://docs.google.com/spreadsheets/d/1Rqpy6qz9f90GBw4XNn5RyJIZU0ShboraF7LR9gHmQw0/edit?usp=sharing) you can print out and bring to the customer meeting to work on together.
 - Review the below ten reasons why strategic plans fail according to [this Forbes article](https://www.forbes.com/sites/aileron/2011/11/30/10-reasons-why-strategic-plans-fail/) and take proactive steps to avoid these pitfalls
     1. Having a plan simply for plan's sake

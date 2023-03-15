@@ -312,14 +312,14 @@ All Channel deals are considered Partner Co-Sell opportunities unless there is a
 
 The Partner Sourced Deal Registration process is the same for commercial and US Pubsec business. The instructions below apply _only_ to US Public Sector CoSell opportunities.
 
-1. Each public sector partner is provided a link to a Google form by either the SAL, ISR, or Channel Manager. This form must be completed in order for a partner to receive Preferred Partner Co-Sell discounts.
+1. Each public sector partner is provided a link to a Google form by either the SAE, ISR, or Channel Manager. This form must be completed in order for a partner to receive Preferred Partner Co-Sell discounts.
 2. When a partner becomes aware of an opportunity, they must fill in the Google form, which will timestamp all of the relevant data to a [Google sheet](https://docs.google.com/spreadsheets/d/1Cd5xEDdfiiyMW81oykv6Gq58nG1kn3Sxz9h7adY1o8U/edit?usp=sharing).
-3. Part of filling out the Google form requires the partner to input the name and email of the SAL with whom they’ve discussed this. When that email address is inputted into the form and the form is submitted, that SAL will receive notification of a Pubsec Co-Sell opportunity.
-4. The SAL will then approve or deny the submission based on Handbook guidelines. 
+3. Part of filling out the Google form requires the partner to input the name and email of the SAE with whom they’ve discussed this. When that email address is inputted into the form and the form is submitted, that SAE will receive notification of a Pubsec Co-Sell opportunity.
+4. The SAE will then approve or deny the submission based on Handbook guidelines. 
    - The business reason for accepting a preferred partner submission must be noted on the Google form. 
-   - The SAL’s approval or denial will be time stamped in the Google sheet.
+   - The SAE’s approval or denial will be time stamped in the Google sheet.
 5. Once a partner is approved and selected, the 18-digit opportunity ID will be shared with them.
-6. If a partner was previously approved but is now being removed, that SAL can selected the “Removed” option and enter the partner’s email address to notify them   
+6. If a partner was previously approved but is now being removed, that SAE can selected the “Removed” option and enter the partner’s email address to notify them   
 
 All submissions will be recorded and tracked for audit purposes. The chosen preferred partner should match the Resale Partner on the quote with the Partner Co-Sell discount.    
 
@@ -334,9 +334,9 @@ The following are explicit guidelines for approved US Public Sector Partners to 
 
 Partner Requirements:
 - Must be an approved US Public Sector Partner, [authorized to transact with GitLab](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#standard-channel-practices)   
-- The partner must have completed one meeting with the SAL for the opportunity
+- The partner must have completed one meeting with the SAE for the opportunity
    -This meeting must have included a conversation about alignment of how we can work together to land with vision and expand with purpose 
-- The partner must have filled out the Public Sector Co-Sell form and include the 18-digit Opportunity ID provided by the SAL
+- The partner must have filled out the Public Sector Co-Sell form and include the 18-digit Opportunity ID provided by the SAE
 
  
 ### Partner Sourced Deal Registration
@@ -484,7 +484,7 @@ When a Channel Manager either receives an email alert, or sees a new registratio
 2. Check to make sure that there is a Service Attach Type in the Service Attach Type field.
    - Note that there could likely be another Partner Sourced Deal Registration for the license resale opportunity. The resale registration will populate in the opportunity fields, while the Service Attach registration will only be linked to the opportunity. 
    - A Service Attach Deal Registration MUST attach to a license sale opportunity. There will almost always be an opportunity in the system, and it is best practice for a Channel Manager to process the Partner Sourced Deal Registration first, if there is one, before processing the Service Attach Deal Registration.
-3. Discuss the opportunity with the appropriate AE/SAL and decide to either approve or deny the registration(s).
+3. Discuss the opportunity with the appropriate AE/SAE and decide to either approve or deny the registration(s).
 4. Click “Link/Create Opportunity.”
    ![9-Link_Create_Opp](/handbook/sales/field-operations/channel-operations/images/9-Link_Create_Opp.png)
 5. On the Link/Create Opportunity page, first search for the opportunity in the provided list and/or by doing a “Global Search.”

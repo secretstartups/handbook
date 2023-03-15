@@ -54,7 +54,7 @@ Learn more about GitLab's community programs and their respective DRIs in the [C
 
 See point 13 on the [Go to Market Rules of Engagement Handbook page](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/) for details on handling accounts with a Community Programs-related opportunity.
 
-Please note that even if there is not a sales related opportunity on an account, all accounts must remain in the AE/SAL name. If a Community Programs-related opportunity is incorrectly in the AE/SAL name, please chatter @Sales-Support in SFDC for assistance with changing the owner to the proper Community Programs team member.
+Please note that even if there is not a sales related opportunity on an account, all accounts must remain in the AE/SAE name. If a Community Programs-related opportunity is incorrectly in the AE/SAE name, please chatter @Sales-Support in SFDC for assistance with changing the owner to the proper Community Programs team member.
 
 ### Lead routing
 
@@ -88,7 +88,7 @@ Important points:
 
 * For applications to the education program, the Community Programs team does not require proof of use case nor do we enforce it. The applying entity agrees to our legal terms—use case included—as described in the Education Program Agreement [Purpose section](/handbook/legal/education-agreement/#2-purpose). 
 
-* For applications to the open source program, the Community Programs team requires proof of use case at the time of application (new and renewing) in the form of a screenshot. The applying entity agrees to our legal terms—use case included—as described in the Open Source Program Agreement [2.Purpose & Eligibility Section](/handbook/legal/opensource-agreement/#2-purpose--eligibility). If a SAL/AE has concerns regarding potential violation of the the use case, please contact our team in the #community-programs channel and provide the SFDC opportunity in question.
+* For applications to the open source program, the Community Programs team requires proof of use case at the time of application (new and renewing) in the form of a screenshot. The applying entity agrees to our legal terms—use case included—as described in the Open Source Program Agreement [2.Purpose & Eligibility Section](/handbook/legal/opensource-agreement/#2-purpose--eligibility). If a SAE/AE has concerns regarding potential violation of the the use case, please contact our team in the #community-programs channel and provide the SFDC opportunity in question.
 
 * In the case that a community program member no longer meets the program requirements, the Community Programs team works with the sales team to identify a path forward to transition from free to paid. 
 
@@ -116,7 +116,7 @@ Important points:
 
 * For any inbound requests for renewals, direct the community member to the self-service instructions rather than forwarding an email or carbon copying an email to a community program team members' personal GitLab email address. Given the volume of program members, we cannot provide optimal service from our personal email addresses. 
 
-* At this time, the Community Programs team does not actively conduct outreach for renewals or manage renewal opportunities in SFDC. If the automatically generated renewal opportunity expires before the community program member reaches out for renewal, the SAL/AE has the option to request that the opportunity be closed-lost. No other action is required. 
+* At this time, the Community Programs team does not actively conduct outreach for renewals or manage renewal opportunities in SFDC. If the automatically generated renewal opportunity expires before the community program member reaches out for renewal, the SAE/AE has the option to request that the opportunity be closed-lost. No other action is required. 
 
 * Startup subscriptions are valid for one year only. Renewals must be paid after the initial 12-month, zero-dollar subscription license has expired. Special pricing does not exist. The community programs team does not actively route Startups program members to the sales team at this time. 
 

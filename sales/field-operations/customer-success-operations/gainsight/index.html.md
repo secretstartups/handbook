@@ -137,7 +137,7 @@ Below are the Gainsight bundles (permission sets) and relevant access categories
 <details>
 <summary markdown='span'>Gainsight bundles and access categories</summary>
 
-| Area                                  | Capability                                                                  | Default Bundle (Admin role) | SAL Users | View_Group | CSM Journey Orchestrator | CSM Users | GS Admin sans provisioning |
+| Area                                  | Capability                                                                  | Default Bundle (Admin role) | SAE Users | View_Group | CSM Journey Orchestrator | CSM Users | GS Admin sans provisioning |
 |---------------------------------------|-----------------------------------------------------------------------------|-----------------------------|-----------|------------|--------------------------|-----------|----------------------------|
 | Home                                  | Dashboard view access                                                       | ✓                           | ✓         |            | ✓                        | ✓         | ✓                          |
 | Timeline                              | End user account Timeline history view                                      | ✓                           | ✓         | ✓          |                          | ✓         | ✓                          |
@@ -156,10 +156,10 @@ Below are the Gainsight bundles (permission sets) and relevant access categories
 
 ### Page Layouts
 C360 page layouts allow us to hide or display different C360 views to users in Gainsight. We currently have three main page layouts:
-- Default Layout: The default layout for CSMs and non-SALs. The CSM field is displayed but not editable.
+- Default Layout: The default layout for CSMs and non-SAEs. The CSM field is displayed but not editable.
 - CSM Edit Layout: An exact copy of the default layout except the CSM field is editable.
    - This is assigned to users where the `CSM Edit?` field on the User object = Yes
-- Account planning: Layout specifically for Sales/SALs for account planning.
+- Account planning: Layout specifically for Sales/SAEs for account planning.
    - This is assigned to users where the `Page Layout` field on the User object = Account Planning
 
 ## Data permissions

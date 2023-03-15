@@ -20,7 +20,7 @@ The Command Plan consists of the below 3 sections. The Opportunity Overview sect
 1. [**MEDDPPICC**](/handbook/sales/command-of-the-message/command-plan/#meddppicc)
 1. [**Close Plan Details**](/handbook/sales/command-of-the-message/command-plan/#close-plan-details)
 
-At the enterprise account level, the Command Plan is owned by the [Strategic Account Leader](/job-families/sales/strategic-account-leader/) who creates the plan and updates the contents accordingly. It is used as a living pre-sales document, and its objectives are converted into [Gainsight Success Plan objectives](/handbook/customer-success/csm/success-plans/#objectives) at the time of [account onboarding](/handbook/customer-success/csm/onboarding/).
+At the enterprise account level, the Command Plan is owned by the [Strategic Account Executive](/job-families/sales/enterprise-account-executive/) who creates the plan and updates the contents accordingly. It is used as a living pre-sales document, and its objectives are converted into [Gainsight Success Plan objectives](/handbook/customer-success/csm/success-plans/#objectives) at the time of [account onboarding](/handbook/customer-success/csm/onboarding/).
 
 You can find the Command Plan button in the `Opportunity Detail` section of the Salesforce opportunity object (see image below) or in Clari. Please note that Command Plans are capped at 5000 characters in Salesforce to encourage sales team members to be crisp and succinct. To do so, the Command Plan should focus on future-looking plans and remove details that are no longer relevant to the current close plan. For information you'd like to remove from the Command Plan but keep for historical purposes, please add that information as a new activity record on the opportunity.
 
@@ -60,7 +60,7 @@ Note: The Manager Review Info section (immediately below the Manager Review sect
 </figure>
 
 ### Enterprise Area Sales Manager Expectations
-An opportunity consult should be conducted with Strategic Account Leaders (SALs) at least once a month for every $50K+ opportunity. For SALs with fewer than three $50K+ opportunities, consider conducting monthly opportunity consults for their top 3 opportunities.
+An opportunity consult should be conducted with Strategic Account Leaders (SAEs) at least once a month for every $50K+ opportunity. For SAEs with fewer than three $50K+ opportunities, consider conducting monthly opportunity consults for their top 3 opportunities.
 
 ### Commercial Area Sales Manager Expectations
 An opportunity consult should be conducted with Mid Market Account Executives (AEs) at least once a month for every $20K+ opportunity and with SMB Account Executives (AEs) at least once a month for every $10K+ opportunity. 

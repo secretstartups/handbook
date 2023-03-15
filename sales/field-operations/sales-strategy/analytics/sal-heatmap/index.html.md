@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Sales Strategy - SAL Heatmap dashboard"
+title: "Sales Strategy - SAE Heatmap dashboard"
 ---
 
 ## On this page
@@ -9,15 +9,15 @@ title: "Sales Strategy - SAL Heatmap dashboard"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## SAL Heatmap dashboard
+## SAE Heatmap dashboard
 
 ### Goal
 
-The SAL Heatmap provides a high level view of current achivement, pipe coverage to quota and pipe generation for each SAL within a region.
+The SAE Heatmap provides a high level view of current achivement, pipe coverage to quota and pipe generation for each SAE within a region.
 
-**Example screenshot of the SAL Heatmap:**
+**Example screenshot of the SAE Heatmap:**
 
-![SAL Heatmap](sal_heatmap.jpg "SAL Heatmap")
+![SAE Heatmap](sal_heatmap.jpg "SAE Heatmap")
 
 ### Access
 
@@ -37,11 +37,11 @@ Most of these metrics are available for current quarter, next quarter and next q
 
 Each RD is able to set up a set of OKRs for their region, specially for future quarters. For current quarters and FY, the OKR is set as the median of all the team members. The colors of the heatmap are based on those OKRs.
 
-![Color code](okrs_colorcode.jpg "SAL Heatmap")
+![Color code](okrs_colorcode.jpg "SAE Heatmap")
 
 ### Coverage calculation
 
-Coverage is calculated per SAL as `Open Pipe Stage X+ / Remainder to Quota`.
+Coverage is calculated per SAE as `Open Pipe Stage X+ / Remainder to Quota`.
 
 **Remainder to Target** is calculated as  `Quota - Booked Net ARR` for current quarter
 

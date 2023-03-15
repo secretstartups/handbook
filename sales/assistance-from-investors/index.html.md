@@ -43,7 +43,7 @@ We have great investors who can and want to help us penetrate strategic accounts
     - Accounts with the largest potential/biggest impact (Fortune 500/Global 2000 and large marquee tech brands in the Investor's ecosystem)
     - Account has not been introduced to Investor team in the past
 - Top Account Approval Process
-    - If the above minimum criteria is met, the SAL/AE must meet with their direct manager to review and seek their approval.
+    - If the above minimum criteria is met, the SAE/AE must meet with their direct manager to review and seek their approval.
     - Only approved Accounts can be added to the Investor Introductions Tracker.
 - **No more than 20 Top Accounts** will be included and approved per quarter across all regions and segments
     - Top Accounts are refreshed quarterly

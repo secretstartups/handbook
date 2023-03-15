@@ -17,9 +17,9 @@ description: "Prospecting is the process of initiating and developing new busine
 
 _What is warm?_ Warm is when you know there’s a good reason why you need to reach out to your prospect, it's for their benefit that you're getting in touch, and you know why they’re likely to need your solution now. 
 
-**You own your pipeline.** For strategic account leaders (SALs), prospecting should be a part of your regular sales activities. This means blocking dedicated time on your calendar to plan, strategize with your team, and reach out to your top prospects every single week. After all, if you don’t have a pipeline, you don’t have a business. And as the CEO of your territory or area, you need to dedicate time to your future business as much as your current business to reach your target.
+**You own your pipeline.** For strategic account leaders (SAEs), prospecting should be a part of your regular sales activities. This means blocking dedicated time on your calendar to plan, strategize with your team, and reach out to your top prospects every single week. After all, if you don’t have a pipeline, you don’t have a business. And as the CEO of your territory or area, you need to dedicate time to your future business as much as your current business to reach your target.
 
-**It takes a team effort to achieve results.** The SAL owns the customer relationship, but all team members can and should participate in strategy, planning, and execution. SALs should work closely with their sales development reps (SDRs), channel account manager, and also sync with their Field Marketing team member. 
+**It takes a team effort to achieve results.** The SAE owns the customer relationship, but all team members can and should participate in strategy, planning, and execution. SAEs should work closely with their sales development reps (SDRs), channel account manager, and also sync with their Field Marketing team member. 
 
 **Team is external, too.** Think about the technology partners that can help you scale your approach. Engage with these partners, identify the right entry point, and present GitLab jointly with the partner to your customer. Exercise the muscle of engaging early and working with partners to identify new customers.
 
@@ -59,7 +59,7 @@ Work with your [Sales Development team member](https://about.gitlab.com/handbook
 
 Work with your Sales Development team member to:
 - Decide which format of approach is best (email, linkedin, phone), and what your cadence will be: 
-- Customize the [Prospecting Sequences for SALs](https://docs.google.com/document/d/1ksEGBsDVjQGkSeq8ESKf9Jdy-N7wREq_stnLutJBPTo/edit#heading=h.ufep756p4z4j) template or create your own. 
+- Customize the [Prospecting Sequences for SAEs](https://docs.google.com/document/d/1ksEGBsDVjQGkSeq8ESKf9Jdy-N7wREq_stnLutJBPTo/edit#heading=h.ufep756p4z4j) template or create your own. 
 - Organize the [qualifying questions](https://about.gitlab.com/handbook/sales/qualification-questions/) and [customer use cases](https://about.gitlab.com/handbook/use-cases/) that might be relevant. 
 - **Practice your elevator pitch.** Both you and your SD teammate need to practice your pitches together to make sure you’re aligned on what you want the customer or prospect to hear. Really work on your tone of voice. You know you’re ready if you can easily tweak it based on who you’re talking to and what’s relevant to them. 
 
@@ -70,7 +70,7 @@ Work with your Sales Development team member to:
 
 
 ## Put your strategy into action
-**Use the [Pipeline Generation Toolkit for Enterprise SALs](https://docs.google.com/presentation/d/1Uo1_Ly_nRhgRwoesja3vHM0K9e-dwdRSZdTyCbVYAhI/edit?usp=sharing) to get started on prospecting.** 
+**Use the [Pipeline Generation Toolkit for Enterprise SAEs](https://docs.google.com/presentation/d/1Uo1_Ly_nRhgRwoesja3vHM0K9e-dwdRSZdTyCbVYAhI/edit?usp=sharing) to get started on prospecting.** 
 
 Remember to triple-check your messages before you send them to prospects and customers. Getting details about them and their company wrong is cited in the [State of Sales 2021 report](https://business.linkedin.com/sales-solutions/b2b-sales-strategy-guides/the-state-of-sales-2021-report) as one of the top deal-breakers in the eyes of buyers.
 
@@ -79,7 +79,7 @@ Remember to triple-check your messages before you send them to prospects and cus
 Teams at GitLab find success when they dedicate time to prospecting and customer-centric activity. Whether you're meeting with a prospect, a partner, or with growth customers, setting up an Outbound day to focus on bringing customer's value can boost your results and let your team members know not to schedule or pre-book internal meetings during your dedicated customer time. 
 
 #### **AMER's Outbound Wednesday Initiative**
-- Mission: In alignment with the GitLab Value of Iteration, we want to give time back to the customer-facing teams, SALs, SAs, BDRs, TAMs / CSMs, ISRs, and Channel Account Managers, to allow for customer focus and partner-facing time. In addition, we feel it will allow for more significant customer and partner collaboration.
+- Mission: In alignment with the GitLab Value of Iteration, we want to give time back to the customer-facing teams, SAEs, SAs, BDRs, TAMs / CSMs, ISRs, and Channel Account Managers, to allow for customer focus and partner-facing time. In addition, we feel it will allow for more significant customer and partner collaboration.
 
 - Why it matters: We recognize that there is an abundance of internal meetings and requests. To help foster more customer centricity, we have developed the concept of “Outbound Wednesdays.”
 
@@ -145,9 +145,9 @@ Holding hurts our prospective customers because while they’re sitting there, t
 #### Tools 
 The toolkit above will be your main resource and contains things like a sequencing template for you to copy and modify for your own pipeline generation activities. It also includes the resources below which we’ve described here for easier access. To explore additional tools available, check out [our tech stack page.](https://about.gitlab.com/handbook/business-technology/tech-stack) 
 
-**[Outreach.io](https://university.outreach.io/page/prospector-learning-track)** is a tool used to automate emails in the form of sequences. Users can track open rates, click through rates, response rates for various templates and update sequences based on these metrics. Outreach.io also helps to track sales activities such as calls. All emails/calls/tasks that are made through Outreach.io are automatically logged in Salesforce with a corresponding disposition. See below for a list of current call dispositions, what they mean and scenarios on when to use each of them. All SALs can request access to Outreach.io by submitting an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) (if you do not already have access). 
+**[Outreach.io](https://university.outreach.io/page/prospector-learning-track)** is a tool used to automate emails in the form of sequences. Users can track open rates, click through rates, response rates for various templates and update sequences based on these metrics. Outreach.io also helps to track sales activities such as calls. All emails/calls/tasks that are made through Outreach.io are automatically logged in Salesforce with a corresponding disposition. See below for a list of current call dispositions, what they mean and scenarios on when to use each of them. All SAEs can request access to Outreach.io by submitting an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) (if you do not already have access). 
 
-**[LinkedIn Sales Navigator](https://www.linkedin.com/business/sales/blog/sales-navigator/what-is-linkedin-sales-navigator)** is one of the main prospecting tools we use at GitLab. It features a powerful set of search capabilities, improved visibility into extended networks, and personalized algorithms to help you reach the right decision maker. All SALs have access to LSN. [Click to go to the EdCast training.](https://gitlab.edcast.com/insights/learning-linkedin-sales) And view additional videos and tutorials on [the handbook page](https://about.gitlab.com/handbook/sales/training/social-selling/).
+**[LinkedIn Sales Navigator](https://www.linkedin.com/business/sales/blog/sales-navigator/what-is-linkedin-sales-navigator)** is one of the main prospecting tools we use at GitLab. It features a powerful set of search capabilities, improved visibility into extended networks, and personalized algorithms to help you reach the right decision maker. All SAEs have access to LSN. [Click to go to the EdCast training.](https://gitlab.edcast.com/insights/learning-linkedin-sales) And view additional videos and tutorials on [the handbook page](https://about.gitlab.com/handbook/sales/training/social-selling/).
 
 **[DemandBase](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/)** is used by Sales Development who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account. 
 

@@ -63,7 +63,7 @@ description: "Operations, Procedures, Documentation"
 | Qualified Lead | A lead a Business Development Rep or Sales Development Rep has qualified, converted to an opportunity and assigned to a Sales Representative (Stage `0-Pending Acceptance`) |
 | RD | Regional Director |
 | ROW | Rest of World |
-| SAL | Strategic Account Leader |
+| SAE | Strategic Account Executive |
 | Sales Admin | Sales Administrator |
 | Sales Serve | A sales method where a quota bearing member of the sales team closes the deal |
 | [SAO](/handbook/marketing/sales-development/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
@@ -110,7 +110,7 @@ Opportunity: #opportunity-stages
 
 Sales Accepted Opportunity: #criteria-for-sales-accepted-opportunity-sao
 
-## SAL Sales Capacity
+## SAE Sales Capacity
 
 The following calculation is used to measure/plan for sales capacity.
 This is a calculation only and should be used to set goals and plan.
@@ -236,7 +236,7 @@ Account Ranking in SFDC allows sales to focus and prioritize activities for thei
 
 In order to rank accounts each Enterprise Sales rep would update the 'Account Rank' field located in Account Rank Information section and can also add the Account Rank Notes. The Account rank should be added at the Ultimate Parent Account level and to not more than 50 Accounts. 
 
-[The Account Ranking Guide](https://docs.google.com/document/d/1u2Dg_jorRi_tgcC_2L-FjAmEqnMya76bvZ6WmAt4qGA/edit) can be used to help the Strategic Account Leader focus on a cadence to target each Account Rank. 
+[The Account Ranking Guide](https://docs.google.com/document/d/1u2Dg_jorRi_tgcC_2L-FjAmEqnMya76bvZ6WmAt4qGA/edit) can be used to help the Strategic Account Executive focus on a cadence to target each Account Rank. 
 
 #### Definitions for Enterprise Account Ranking: 
 
@@ -290,8 +290,8 @@ U.S. Public Sector: Routed to the U.S. Public Sector Inside Sales team.
 Follow up must be tracked as an activity on the record within SFDC.
 
 Requests submitted through the professional services page will be routed following `Global Account Ownership` rules.
-Notification of form submission will be sent to the Strategic Account Leader (SAL) and Sales Development Representative (SDR) as well as Customer Success manager.
-Initial response to form submission is the responsibility of the Account Owner (i.e. SAL).
+Notification of form submission will be sent to the Strategic Account Executive (SAE) and Sales Development Representative (SDR) as well as Customer Success manager.
+Initial response to form submission is the responsibility of the Account Owner (i.e. SAE).
 
 #### Trial Requests
 
@@ -481,7 +481,7 @@ Naming convention for reports and dashboards will leverage sequence of periods (
 ### Criteria for Inbound Sales Accepted Opportunity (SAO)
 
 The following criteria are **required** for inbound SAOs:
-1. An Opportunity is deemed a Sales Accepted Opportunity (SAO) when the Opportunity is moved from Stage `0-Pending Acceptance` to `1-Discovery` by the Strategic Account Leader. 
+1. An Opportunity is deemed a Sales Accepted Opportunity (SAO) when the Opportunity is moved from Stage `0-Pending Acceptance` to `1-Discovery` by the Strategic Account Executive. 
 1. SDRs do not input the Net ARR $ value, the Sales Opportunity owners do.
 1. Required field settings to identify an SAO are:
      - The "SDR Sales Accepted Date" is defined
@@ -530,7 +530,7 @@ Opportunities should be moved to new stage within 48 hours of IQM.
 ### Criteria for Outbound Sales Accepted Opportunity (SAO)
 
 The following criteria are **required** for outbound SAOs:
-1. An Opportunity is deemed a Sales Accepted Opportunity (SAO) when the Opportunity is moved from Stage `0-Pending Acceptance` to `1-Discovery` by the Strategic Account Leader. 
+1. An Opportunity is deemed a Sales Accepted Opportunity (SAO) when the Opportunity is moved from Stage `0-Pending Acceptance` to `1-Discovery` by the Strategic Account Executive. 
 1. BDRs do not input the Net ARR $ value, the Sales Opportunity owners do.
 1. Required field settings to identify an SAO are:
      - The "SDR Sales Accepted Date" is defined
@@ -590,8 +590,8 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
     - Click `SAVE`
 1. Scroll down OPPORTUNITY record to the `Contact Roles` section, **click** `New`. CONTACTS associated to the ACCOUNT will be listed (up to 50 records). You must select a CONTACT as **Primary** and define the `Role`.
     - If you do not define a **Primary** CONTACT marketing attribution & activity influence on the OPPORTUNITY will not be accurately captured.
-1. Change the OPPORTUNITY Owner to the `Account Owner` (i.e. SAL/AM). Click `Save`.
-1. Within the OPPORTUNITY record, click the `Initial Qualifying Meeting` button. Enter the required fields (Start/End dates, Type) and update the description field with any notes the SAL/AM should have and review _before_ taking the scheduled meeting.
+1. Change the OPPORTUNITY Owner to the `Account Owner` (i.e. SAE/AM). Click `Save`.
+1. Within the OPPORTUNITY record, click the `Initial Qualifying Meeting` button. Enter the required fields (Start/End dates, Type) and update the description field with any notes the SAE/AM should have and review _before_ taking the scheduled meeting.
     - Fill in the `Related to` section for BOTH the CONTACT and the OPPORTUNITY
     - Change the `Assigned to` field to the OPPORTUNITY owner
     - Click `Save`
@@ -620,8 +620,8 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
 1. Scroll down OPPORTUNITY record to the `Contact Roles` section, the converted LEAD will automatically be set as **"Primary"**. Click `Edit` and define the `Role`.
     - Add any additional CONTACTS and define their `Role` that need to be associated with the OPPORTUNITY
     - Opportunities must have a **Primary** CONTACT defined so marketing attribution & activity influence is accurately captured.
-    Change the OPPORTUNITY Owner to the `Account Owner` (i.e. SAL/AM). Click `Save`.
-1. Within the OPPORTUNITY record, click the `Initial Qualifying Meeting` button. Enter the required fields (Start/End dates, Type) and update the description field with any notes the SAL/AM should have and review _before_ taking the scheduled meeting.
+    Change the OPPORTUNITY Owner to the `Account Owner` (i.e. SAE/AM). Click `Save`.
+1. Within the OPPORTUNITY record, click the `Initial Qualifying Meeting` button. Enter the required fields (Start/End dates, Type) and update the description field with any notes the SAE/AM should have and review _before_ taking the scheduled meeting.
     - Fill in the `Related to` section for BOTH the CONTACT and the OPPORTUNITY
     - Change the `Assigned to` field to the OPPORTUNITY owner
 1. Update the 'NEXT STEP DATE FIELD' with the date of the next action step (most often an IQM).
@@ -749,7 +749,7 @@ Resellers do not buy licenses; they purchase them on the behalf of an end custom
 For instance, the account name field on an opportunity should never be SHI.
 
 Opportunity Owner:
-The AE/SAL/Channel Manager who is working the deal with the reseller
+The AE/SAE/Channel Manager who is working the deal with the reseller
 
 Deal Registrant:
 The reseller who registered the deal.
@@ -870,10 +870,10 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
 - What to Complete in This Stage:
     - For BDR/SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity criteria](/handbook/marketing/sales-development/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity).
     - The BDR/SDR has scheduled a call via Google Calendar, sent invites, created an event on the account object, named the event: GitLab Introductory Meeting - {{Account Name}}
-    - Once it is confirmed that the opportunity meets our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to the next stage and the `Amount` field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the `Sales Accepted Date` field on the opportunity record.
-    - If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to an `9-Unqualified` stage (this is the only time an opportunity can move into `9-Unqualified` stage) 
+    - Once it is confirmed that the opportunity meets our Sales Accepted Opportunity criteria, the SAE or AE should move the opportunity to the next stage and the `Amount` field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the `Sales Accepted Date` field on the opportunity record.
+    - If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAE or AE should move the opportunity to an `9-Unqualified` stage (this is the only time an opportunity can move into `9-Unqualified` stage) 
     - All Opps that are sales assisted must first enter this stage before they can be moved further in the pipeline. If they do not enter this stage at some point you will encounter a validation rule error.
-    - For renewal opportunities, `0-Pending Acceptance` is only to be used if the renewal is not being actively worked by the Account Executive/Strategic Account Leader.
+    - For renewal opportunities, `0-Pending Acceptance` is only to be used if the renewal is not being actively worked by the Account Executive/Strategic Account Executive.
 
 **1-Discovery**: Uncover as much intelligence about the project as you can, which will be confirmed at later stages throughout the sales cycle.
 
@@ -1061,7 +1061,7 @@ Example Sponsor Activities
 
 #### Account Team
 
-- SAL or AE should take the lead on providing executive sponsor briefing using the [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#). 
+- SAE or AE should take the lead on providing executive sponsor briefing using the [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#). 
 - CSM should contribute to sponsor updates and engagement, including:
   - Progress on delivering to outcomes, progress, and customer successes and wins
   - Updates on any notable issues (past or present), concerns, and/or key customer requirements

@@ -82,7 +82,7 @@ The goal of developing and presenting a good pitch is to obtain a **verbal commi
 
 **As a rule, a GitLab Sales Pitch deck should be no more than 10-15 slides**. You can use the [GitLab Customer Template](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit#slide=id.g6bb3f57e89_0_50) and reduce it to the recommended number of slides. 
 
-For Enterprise Strategic Account Leaders, you can also use this [GitLab ENT SAL Proposal Template](https://docs.google.com/presentation/d/1HHDMXLZHm6VWduLB4qr5POOehfPCK6ssea7d99Qf3H0/edit#slide=id.gefbf6346ee_0_6) to give you a headstart on a custom proposal for your customer. 
+For Enterprise Strategic Account Leaders, you can also use this [GitLab ENT SAE Proposal Template](https://docs.google.com/presentation/d/1HHDMXLZHm6VWduLB4qr5POOehfPCK6ssea7d99Qf3H0/edit#slide=id.gefbf6346ee_0_6) to give you a headstart on a custom proposal for your customer. 
 
 It is also recommended that the presentation be more visual rather than text heavy. A GitLab customer deck should contain the following components:
 
@@ -109,22 +109,22 @@ The next component of the pitch deck is showing how GitLab can help. This will r
 
 This part of the customer deck will help orient your customer to what GitLab is and how we can help them.
 
-#### 1.2.3 AE/SAL transition to Solution Architect
+#### 1.2.3 AE/SAE transition to Solution Architect
 
-The data gathered from the discovery calls is analyzed by **AE/SAL** to make the determination of whether to qualify the lead in terms of GitLab value to their organization. Upon determination of qualifying, the AE/SAL then should engage a **Solution Architect** to begin the transition to the scoping phase of the sales process.
+The data gathered from the discovery calls is analyzed by **AE/SAE** to make the determination of whether to qualify the lead in terms of GitLab value to their organization. Upon determination of qualifying, the AE/SAE then should engage a **Solution Architect** to begin the transition to the scoping phase of the sales process.
 
-1. **AE/ SAL performs a Gap Analysis** of data captured from discovery questioning and is held in the Customer Requirements document. Align customer requirements on the spreadsheet to the specific GitLab product line and denote if GitLab does or does not meet the requirement. This analysis will also provide you with possible devOps cycle entry points as customer requirements and goals do vary.
-1. **AE/SAL introduces and engages** the Solution Architect in technical conversations and reviews Customer Requirement Document with Solution Architect.
-1. **AE/SAL updates relevant SFDC** fields with new information for formal handoff to the Solution Architect for **Scoping**. Utilize the **[Command Plan](/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity.
+1. **AE/ SAE performs a Gap Analysis** of data captured from discovery questioning and is held in the Customer Requirements document. Align customer requirements on the spreadsheet to the specific GitLab product line and denote if GitLab does or does not meet the requirement. This analysis will also provide you with possible devOps cycle entry points as customer requirements and goals do vary.
+1. **AE/SAE introduces and engages** the Solution Architect in technical conversations and reviews Customer Requirement Document with Solution Architect.
+1. **AE/SAE updates relevant SFDC** fields with new information for formal handoff to the Solution Architect for **Scoping**. Utilize the **[Command Plan](/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity.
 
 ## Step 2: Scoping
 
-Scoping represents an opportunity to discuss customer requirements in more detail. This step is the primary responsibility of a **Solution Architect (SA)**. The SA will do a deep-dive technical requirements review based on the documents provided by the AE/SAL. The SAs main goal in scoping is to understand all the necessary elements that need to be brought into the project scope and identify the pieces that need to be brought together in order to produce a successful outcome for all stakeholders. The tasks necessary to accomplish proper scoping are the following:
+Scoping represents an opportunity to discuss customer requirements in more detail. This step is the primary responsibility of a **Solution Architect (SA)**. The SA will do a deep-dive technical requirements review based on the documents provided by the AE/SAE. The SAs main goal in scoping is to understand all the necessary elements that need to be brought into the project scope and identify the pieces that need to be brought together in order to produce a successful outcome for all stakeholders. The tasks necessary to accomplish proper scoping are the following:
 
 1. **Review the Customer Requirements** document and any associated meeting notes to identify gaps and create more indepth discovery questions related to technical capabilities.
 1. **Perform high-level technical discovery calls** with the customer and work together to review the [Customer Requirements Document](https://docs.google.com/spreadsheets/d/1y1nk7TmjxOxaO8nUg6w1YO04X9wwtz39MnP7NHXq6ec/edit#gid=0) and gather more context and insight into the customer’s requirements.
 1. **Analyze** the updated requirements against GitLab products to determine a fit assessment. If a fit is determined, initiate a Technical Evaluation.
-1. **[Identify Opportunities to Sell Professional Services](/handbook/customer-success/professional-services-engineering/selling/)**. The SAL/ISR can find the general services the PS team offers on the services page or for more details specific SKU offerings, on the full catalog. The SAL/ISR can pull the SA in for help selecting services needed based on customer requirements.
+1. **[Identify Opportunities to Sell Professional Services](/handbook/customer-success/professional-services-engineering/selling/)**. The SAE/ISR can find the general services the PS team offers on the services page or for more details specific SKU offerings, on the full catalog. The SAE/ISR can pull the SA in for help selecting services needed based on customer requirements.
 
 ## Step 3: [Technical Evaluation](/handbook/customer-success/comm-sales/customer-buyer-journey.html#step-2-technical-evaluation)
 
@@ -140,16 +140,16 @@ Technical evaluation is where the prospective customer evaluates the fit of GitL
 
 [Command of the Message](/handbook/sales/command-of-the-message/) is defined as "being audible ready to define solutions to customers’ problems in a way that differentiates you from your competitors & allows you to charge a premium for your products & services.” This means you must in many ways understand the customers pain points and goals better than they do and speak to real solutions. The solution is presented to the customer through a pitch deck.
 
-At this point, it may also be beneficial to egage the [Risk and Field Security Team](/handbook/security/security-assurance/field-security/) to provide security assurance support. Prior to making a financial commit, many customers will require security due diligence. The AE, SAL or SA may utilize the [Customer Assurance Package](/handbook/security/security-assurance/field-security/customer-assurance-package.html) for self-service resources or request assistance through the [Customer Assurance Activities Procedure](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html).
+At this point, it may also be beneficial to egage the [Risk and Field Security Team](/handbook/security/security-assurance/field-security/) to provide security assurance support. Prior to making a financial commit, many customers will require security due diligence. The AE, SAE or SA may utilize the [Customer Assurance Package](/handbook/security/security-assurance/field-security/customer-assurance-package.html) for self-service resources or request assistance through the [Customer Assurance Activities Procedure](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html).
 
 ### 3.1 When to present the GitLab Demonstration
 
 Should you include the demonstration within the same meeting as the sales pitch? Typically 50% of the time the demonstration is presented in the same meeting with the pitch deck being delivered first.
 
-However, this is an audible-ready moment where the **AE/SAL and SA need to meet as a team and discuss** if the customer is ready for the demonstration. This should be an agenda item at the regular account management meetings and each team needs to set the criteria of whether to combine a pitch deck meeting with a demonstration on a customer by customer basis. The demonstration should be tailored to the customers specific pain points and business goals. Again, traditional sales representatives tend to overwhelm customers with a long overview of the company and its product features in the hopes that one of the features will resonate with the customer and create a sense of urgency to buy.
+However, this is an audible-ready moment where the **AE/SAE and SA need to meet as a team and discuss** if the customer is ready for the demonstration. This should be an agenda item at the regular account management meetings and each team needs to set the criteria of whether to combine a pitch deck meeting with a demonstration on a customer by customer basis. The demonstration should be tailored to the customers specific pain points and business goals. Again, traditional sales representatives tend to overwhelm customers with a long overview of the company and its product features in the hopes that one of the features will resonate with the customer and create a sense of urgency to buy.
 
-- **(SAL/AE) Conduct 30-day Trial POV**. During this trial the sales representative and technical buyer should have established metrics for success. These metrics will help measure how involved GitLab will be in the trial. The sales representative should have weekly touch points to see how GitLab is performing against Metrics within the POV trial.
-- **(SAL/AE) Perform Paper Process Discovery** during the end trial POV. Obtain information on who needs to sign off from the technical buyer. Document the paper process and determine the economic buyer(s) and work to get access to the economic buyer through the technical champion. The goal is to integrate the economic buyer into the process at this point.
+- **(SAE/AE) Conduct 30-day Trial POV**. During this trial the sales representative and technical buyer should have established metrics for success. These metrics will help measure how involved GitLab will be in the trial. The sales representative should have weekly touch points to see how GitLab is performing against Metrics within the POV trial.
+- **(SAE/AE) Perform Paper Process Discovery** during the end trial POV. Obtain information on who needs to sign off from the technical buyer. Document the paper process and determine the economic buyer(s) and work to get access to the economic buyer through the technical champion. The goal is to integrate the economic buyer into the process at this point.
 
 #### 3.1.1 Getting the Technical Commit
 

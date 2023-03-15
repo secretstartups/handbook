@@ -111,7 +111,7 @@ For a full list of virtual events, see a convenient [calendar view in the Market
 - [GitLab Partner Tech Chat: Running Sprint Meetings (Scrum) using Boards and Iterations](https://gitlab.zoom.us/meeting/register/tJAqceisqjooGdB2yRBTpBdmPTYdCHW2gWtd) - Dec. 10
 
 ### Enablement Corner 🧠
-Throughout December, the Field Enablement team will launch the first [Field Certification Program](/handbook/sales/training/field-certification/) courses for SALs, AEs, SAs & CSMs. This program will help us achieve predictability as a business and recognize individual mastery of the skills and knowledge you need to thrive in your role. Look out for more information coming very soon about the first course for your role!
+Throughout December, the Field Enablement team will launch the first [Field Certification Program](/handbook/sales/training/field-certification/) courses for SAEs, AEs, SAs & CSMs. This program will help us achieve predictability as a business and recognize individual mastery of the skills and knowledge you need to thrive in your role. Look out for more information coming very soon about the first course for your role!
 
 ----
 YOUR input is needed so Field Enablement can make it easier to find valuable content when you need it to support your customer engagements. [Please complete this survey](https://gitlab.fra1.qualtrics.com/jfe/form/SV_d51m0MuwRnpJ6Xb) (10 minutes or less) to help us better understand how you currently find and create content.

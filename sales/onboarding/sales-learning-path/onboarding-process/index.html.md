@@ -30,7 +30,7 @@ title: "Sales & Customer Success Onboarding Process"
 ## Role-based onboarding journeys
 To accelerate ramp time and to support the GitLab values of results, iteration and efficiency, we have optimized the field onboarding program to provide new team members with the core information and essential competencies paired with the day-to-day skills that they need to be successful in their individual role. Learning is combined with specialized on the job training and a more robust shadowing program to ensure that new team members can contextualize and apply what they are learning throughout the entire onboarding journey. 
 
-The onboarding program includes individual role-based learning journeys for AEs, SALs, SAs, CSMs, CAMs, ABDMs and ISRs. Each role-based learning journey is designed based on the unique needs of each segment and includes the following milestones: 
+The onboarding program includes individual role-based learning journeys for AEs, SAEs, SAs, CSMs, CAMs, ABDMs and ISRs. Each role-based learning journey is designed based on the unique needs of each segment and includes the following milestones: 
 
 * Month 1: Understand role and GitLab product (SQS & Pre-work)
 * Month 2: Meet customers

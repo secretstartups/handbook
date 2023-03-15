@@ -72,7 +72,7 @@ The **latest Sales Play is now available related to the [Atlassian Server EOL an
 
 ### Team Member Spotlight 🔦
 
-#### Susannah Reed - Federal SAL, Civilian
+#### Susannah Reed - Federal SAE, Civilian
 
 ![Susannah-Reed-TMS-Thumb](/handbook/sales/field-communications/field-flash-newsletter/images/Susannah-Reed-TMS-Thumb.png)
 

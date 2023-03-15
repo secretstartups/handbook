@@ -132,10 +132,10 @@ The inverse of historical pipeline coverage against actuals is the historical wi
         <td><a href="https://app.periscopedata.com/app/gitlab:safe-dashboard/919263/Go-To-Market-Analytics-Hub-v1.0">GTM Analytics Hub</a><br>Please find the link under Net ARR/Pipeline section </td>
     </tr>
     <tr>
-        <td>SAL Heatmap</td>
+        <td>SAE Heatmap</td>
         <td> 
             <ul> 
-                <li> Tabular views containing Pipeline Coverage to Quota and Pipeline Generation per different opportunity stages for each Strategic Account Leader within a region</li>
+                <li> Tabular views containing Pipeline Coverage to Quota and Pipeline Generation per different opportunity stages for each Strategic Account Executive within a region</li>
                 <li> The color scale is based on OKR target</li>
             </ul>
         </td>
@@ -189,10 +189,10 @@ Check out Coverage Historical Curves (at the bottom of the [Deep Dive dashboard]
 
 <br>
 
-#### Interpreting SAL Heatmap
-- You can see Attainment, Pipeline Coverage and Generation summary per Strategic Account Leader by Region. 
-- You can drill down from the Geo/Region level from Pipeline X-Ray Dashboard to SAL level in SAL Heatmap.
-  - 🔴 You see that the overall Coverage is a lot lower than historical coverages and most of the SALs haven't reach their goals.
+#### Interpreting SAE Heatmap
+- You can see Attainment, Pipeline Coverage and Generation summary per Strategic Account Executive by Region. 
+- You can drill down from the Geo/Region level from Pipeline X-Ray Dashboard to SAE level in SAE Heatmap.
+  - 🔴 You see that the overall Coverage is a lot lower than historical coverages and most of the SAEs haven't reach their goals.
     - Have there been any changes in Sales Motion? The new strategic decision might have affected negatively.
   - 🟠 You see that there is one particular team member who struggles with Pipeline Generation.
     - This can be a conversation starter. Is there anything you can do as Sales Leadership to support? 
@@ -209,7 +209,7 @@ We iterate on the definition of Sales Accepted Opportunities (SAOs), Pipeline Ge
 Please refer to Permission Handling section below
 
 - **It is a little overwhelming with so many dashboards. Which one is the most important one that I should keep an eye on regularly?**
-  - If you are looking for insights related to current (and upcoming future quarters) and you want to know if your team (or globally) is on the right trajectory for achieving the target, you can leverage the “Pipeline X-Ray: Current & Next Quarters Overview” dashboard. After checking specific region/ order type, you might be interested in more granular detail and move on to the "SAL Heatmap" to check metrics per each SAL.
+  - If you are looking for insights related to current (and upcoming future quarters) and you want to know if your team (or globally) is on the right trajectory for achieving the target, you can leverage the “Pipeline X-Ray: Current & Next Quarters Overview” dashboard. After checking specific region/ order type, you might be interested in more granular detail and move on to the "SAE Heatmap" to check metrics per each SAE.
   - If you would like to see metrics development for a longer timeframe (across multiple years and quarters) for various segments (Sales Segment, Order Type, Geo etc), you can check out the “Pipeline Velocity & Generation” dashboard.
 
 - **Are there any SFDC reports that I can refer to to cross-check numbers?** <br>

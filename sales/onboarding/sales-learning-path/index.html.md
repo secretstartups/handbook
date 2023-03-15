@@ -125,7 +125,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **Sales Roles (Material, - Handbook - 30 minutes)**
    - Review the sales roles based on the customer segment you will cover.
    - Read the [Handbook](/handbook/sales/)
-   - Read the [Strategic Account Leader (Enterprise) Role Description](https://about.gitlab.com/job-families/sales/strategic-account-leader/)
+   - Read the [Strategic Account Executive (Enterprise) Role Description](https://about.gitlab.com/job-families/sales/enterprise-account-executive/)
    - Read the [Account Executive (Mid-Market) Role Description](https://about.gitlab.com/job-families/sales/account-executive/)
    - Read the [Customer Advocate (SMB) Role Description](https://about.gitlab.com/job-families/sales/smb-customer-advocate/)
    - Read the [Sales Development Representative Role Description](https://about.gitlab.com/job-families/marketing/sales-development-representative/)

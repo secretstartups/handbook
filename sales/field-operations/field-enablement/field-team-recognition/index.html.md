@@ -60,7 +60,7 @@ In total, 12 team members from across the Field organization will be recognized.
 **Enterprise Sales**
 1. LAM-iest Lander Award
 1. Leader of the Quarter Award
-1. FY23-Q3 SAL Rookie Award
+1. FY23-Q3 SAE Rookie Award
 
 **Commercial Sales**
 1. R7 Results Delivery Award

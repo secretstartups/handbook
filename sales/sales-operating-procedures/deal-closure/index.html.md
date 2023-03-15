@@ -122,6 +122,6 @@ The final stage is signature. By this time the due diligence, negotiations, and 
 ## 6. Next Steps
 
 1. Update the opportunity in Salesforce as Closed/Won or Lost
-2. AE/SAL coordinates a [Welcome Call](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/issues/24) to introduce the CSM to the customer stakeholders.
+2. AE/SAE coordinates a [Welcome Call](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/issues/24) to introduce the CSM to the customer stakeholders.
 
 Congratulations! You are now ready to move the deal to the [Retain and Expand](/handbook/sales/sales-operating-procedures/retain-and-expand/) phase.

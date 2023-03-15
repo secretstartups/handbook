@@ -91,7 +91,7 @@ If your receive the error message "SUCCESS_PLAN_OBJECTIVES_UPDATED_FAILED" when 
 
 This is because two SFDC accounts were merged into one. What happens is this:
 1. Salesforce has 2 records of the same account
-1. SAL/or someone asks SalesOps/Deal Desk to merge
+1. SAE/or someone asks SalesOps/Deal Desk to merge
 1. The two Salesforce accounts are merged
 1. Gainsight does not "merge" because they were already merged in Salesforce
 1. Gainsight recognizes one was deleted and marks it with the "TO BE DELETED" title for CS Ops to review and/or delete it

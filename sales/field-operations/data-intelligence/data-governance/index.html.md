@@ -59,12 +59,12 @@ ZoomInfo (ZI) is sales intelligence software that provides a database of busines
 #### Administration
 ZoomInfo management is shared between the Data Intellgience team who manages and provisions licenses to the sales team members, and the Marketing Operations team who manages and provisions licenses to the marketing team members. 
 
-Marketing Operations (MOps) provisions ZI licenses for marketing team (BDAs/SDRs/BDRs), and Data Intelligence provisions for field sales roles (AEs, SALs, ASMs, ISRs). 
+Marketing Operations (MOps) provisions ZI licenses for marketing team (BDAs/SDRs/BDRs), and Data Intelligence provisions for field sales roles (AEs, SAEs, ASMs, ISRs). 
 
 In ZI we use the following group roles to make this determination: 
 
 - BDA/BDR/SDR/BDR Manager/ SDR Manager/ XDR Manager falls under Marketing
-- AEs/SALs/ASMs/ISRs and their associated managers fall under Sales.
+- AEs/SAEs/ASMs/ISRs and their associated managers fall under Sales.
 
 As such, the Marketing Operations team has a page dedicated to ZoomInfo which contains helpful information, including enablement. See the link [here.](/handbook/marketing/marketing-operations/zoominfo/)
 
