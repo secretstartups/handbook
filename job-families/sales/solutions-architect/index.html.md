@@ -375,7 +375,7 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 - Extends the responsibilities of Principal Solutions Architect
 - Provide executive-level, thought leadership on strategic opportunities (i.e., new logo and growth)
 - Curate and manage field feedback, while collaborating with the product team on roadmap and issue prioritization
-- Scale and grow regional-level expertise within the field (SAL/AE,SA,CSM) through contributions to enablement and content
+- Scale and grow regional-level expertise within the field (SAE/AE,SA,CSM) through contributions to enablement and content
 - Act as a prospect / customer advocate on DevSecOps transformation initiatives
 
 #### Field CTO Requirements
@@ -399,7 +399,7 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 - Act as a prospect / customer advocate on security related matters
 - Curate and manage security related field feedback, while collaborating with the product team on issue prioritization
 - Contribute to security sales strategy and playbooks in while collaborating with marketing and product teams
-- Scale and grow regional-level expertise within the field (SAL/AE,SA,CSM) through contributions to enablement and content
+- Scale and grow regional-level expertise within the field (SAE/AE,SA,CSM) through contributions to enablement and content
 - Bootstrap security Communities of Practice at GitLab for cross-functional collaboration in order to drive ARR for GitLab
 
 #### Field Security Officer Requirements
@@ -426,7 +426,7 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 * Guide technical evaluations via POC/POV ownership, RFP/audit support, and workshop design.
 * Curate and manage Public Sector DevOps related field feedback, while collaborating with the marketing and product team on issue prioritization
 * Contribute to Public Sector sales strategy and playbooks in while collaborating with marketing and product teams
-* Scale and grow regional-level expertise within the field (SAL/AE,SA,CSM) through contributions to enablement and content
+* Scale and grow regional-level expertise within the field (SAE/AE,SA,CSM) through contributions to enablement and content
 * Build deep relationships with people within customer environments to enable them to be GitLab advocates.
 * Serve as the customer advocate to other GitLab teams, including Product Development, Sales, and Marketing.
 * Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners.

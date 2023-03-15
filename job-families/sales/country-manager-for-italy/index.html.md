@@ -39,11 +39,11 @@ The Country Sales Manager for Italy is a [grade 9](/handbook/total-rewards/compe
 * Recommend marketing strategies
 * Drive the awareness of GitLab in Italy through all possible media channels ( press, forums, social networks, …)
 * Help open, develop, nurture strong relationships with the best partners in Italy 
-* Leverage connections with Consulting Companies in order to influence decisions at the highest level of the targeted accounts (direct accounts and the accounts of aligned SALs)
+* Leverage connections with Consulting Companies in order to influence decisions at the highest level of the targeted accounts (direct accounts and the accounts of aligned SAEs)
 * Define and execute a 3-year strategy for Italy, in conjunction with the Southern Europe ASM, which fits with the Corporate strategy (i.e. $1B by fall 2024). Specifically propose which accounts to prioritize and how to win them quickly, together with the adequate ecosystem
 * Provide the Southern Europe ASM a truly accurate and reliable forecast that will enable planning resources best for GitLab in the country
 * Leverage intelligently the resources available in EMEA in order to overachieve against target
-* Hire, ramp up and pace future SALs and ISRs as a team leader in the country
+* Hire, ramp up and pace future SAEs and ISRs as a team leader in the country
 * Guarantee that the GitLab Values and Handbook will be leveraged by all newcomers to the Italian Team 
 
 #### Country Sales Manager for Italy Requirements

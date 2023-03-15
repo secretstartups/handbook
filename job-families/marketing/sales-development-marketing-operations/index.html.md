@@ -113,7 +113,7 @@ The Manager, Global Sales Development Operations is a grade 8.
 * Identifies needs in process improvement, with primary focus on BDR workflows
 * Responsible for designing effective processes and providing visibility on adoption of those processes by Sales Development management team
 * Recruits, develops and guides a team to execute on key outbound pipeline generation strategies
-* Establishes, Standardizes, Documents and Monitors all aspects related to Sales Development operational excellence. This includes standardizing Sales Dev Playbooks, agendas (1:1's, SAL/BDR, Team Meeting), shared/public views in tools, sales dev issue templates & sales dev issue boards
+* Establishes, Standardizes, Documents and Monitors all aspects related to Sales Development operational excellence. This includes standardizing Sales Dev Playbooks, agendas (1:1's, SAE/BDR, Team Meeting), shared/public views in tools, sales dev issue templates & sales dev issue boards
 * Oversees the testing, optimization and measurement of Sales Dev Outreach messaging so that it's aligned to our brand and uses “best in class” resources/strategies in collaboration with product marketing
 * Conducts bi-weekly 1:1s with sales dev leadership to review key processes and ensure effective pass downs 
 
@@ -147,7 +147,7 @@ The Senior Manager, Global Sales Development Operations is a [grade 9](/handbook
 * Identifies needs in process improvement, with primary focus on BDR workflows
 * Responsible for designing effective processes and providing visibility on adoption of those processes by Sales Development management team
 * Recruits, develops and guides a team to execute on key outbound pipeline generation strategies
-* Establishes, Standardizes, Documents and Monitors all aspects related to Sales Development operational excellence. This includes standardizing Sales Dev Playbooks, agendas (1:1's, SAL/BDR, Team Meeting), shared/public views in tools, sales dev issue templates & sales dev issue boards
+* Establishes, Standardizes, Documents and Monitors all aspects related to Sales Development operational excellence. This includes standardizing Sales Dev Playbooks, agendas (1:1's, SAE/BDR, Team Meeting), shared/public views in tools, sales dev issue templates & sales dev issue boards
 * Oversees the testing, optimization and measurement of Sales Dev Outreach messaging so that it's aligned to our brand and uses “best in class” resources/strategies in collaboration with product marketing
 * Conducts bi-weekly 1:1s with sales dev leadership to review key processes and ensure effective pass downs 
 

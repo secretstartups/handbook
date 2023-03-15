@@ -138,7 +138,7 @@ The Staff, CSM is a [grade 9](/handbook/total-rewards/compensation/compensation-
 - Experience and a proven track record with the additional responsibilities of a Staff CSM
 - Ability to manage executive relationships and discussions (VP/CxO)
 - High-performance ability to pitch and execute stage expansions, balancing business and technical and adjusting messaging to audience (technical / exec).
-- Skilled in bringing in a SAL/AE/ISR to see through upsell opportunities, whilst maintaining executive overlay and ensuring a positive customer experience.
+- Skilled in bringing in a SAE/AE/ISR to see through upsell opportunities, whilst maintaining executive overlay and ensuring a positive customer experience.
 - Technical / DevOps domain expertise
 - Proven ability to manage a global account
 - Excellent moderation and communication skills
