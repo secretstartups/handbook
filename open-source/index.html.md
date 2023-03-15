@@ -51,7 +51,7 @@ In the future, we might have a single organization for forks. That will allow us
 
 ## Using open source software
 
-For information on using open source software, and when team members must seek legal input on their use, see the [Legal & Corporate Affairs Product handbook]((/handbook/legal/product/#using-open-source-software).
+For information on using open source software, and when team members must seek legal input on their use, see the [Legal & Corporate Affairs Product handbook](/handbook/legal/product/#using-open-source-software).
 
 ### Using forks in your code
 
