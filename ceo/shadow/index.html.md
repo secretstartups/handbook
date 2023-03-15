@@ -837,7 +837,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2022-01-04 | 2022-01-14 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) | Learning & Development Manager | [What I Learned From Shadowing the CEO of GitLab](https://www.linkedin.com/pulse/what-i-learned-from-shadowing-ceo-gitlab-josh-zimmerman/?trackingId=fNh8oCxzT9uxnuQffP%2Fd1A%3D%3D) |
 | 2022-01-18 | 2022-01-28 | [Cesar Saavedra](https://gitlab.com/csaavedra1) | Sr. Technical Marketing Manager | [Being a GitLab CEO Shadow](https://www.linkedin.com/pulse/being-gitlab-ceo-shadow-cesar-saavedra/?trackingId=y6tHk3NjTLyW1yPhu%2Bm7Zw%3D%3D) |
 | 2022-01-24<br>2022-02-14 | 2022-01-28<br>2022-02-17 | [Darby Frey](https://gitlab.com/darbyfrey) | Staff Fullstack Engineer |  |
-| 2022-02-14 | 2022-02-25 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Leader |  |
+| 2022-02-14 | 2022-02-25 | [Mark Scheuber](https://gitlab.com/mscheuber)  - Sr. Strategic Account Executive |  |
 | 2022-02-22 | 2022-03-04 | [Jonathan Miller](https://gitlab.com/JonathanMiller) | FP&A Manager, R&D |  |
 | 2022-02-28 | 2022-03-11 | [Fiona O'Keeffe](https://gitlab.com/FionaOKeeffe) | Senior Reference Program Manager | |
 | 2022-03-07 | 2022-03-18 | [Byron Boots](https://gitlab.com/byronboots) | Senior Security Asssurance Engineer | |
