@@ -166,14 +166,14 @@ No, not at this time.
 | April 17   |  Available | |
 | April 24   |  [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer from [Alarm.com](https://alarm.com/) |
 | May 1      |  Available | |
-| May 8      |  Available | |
+| May 8      |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager - Netflix |
 | May 15     |  Available | |
 | May 22     |  Available | |
 | May 29     |  Available | |
 | June 5     |  Available | |
 | June 12    |  Available | |
 | June 19    |  Available | |
-| June 26    |  Available | |
+| June 26    |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager - Netflix |
 | July 3     |  Available | |
 | July 10    |  Available | |
 | July 17    |  Available | |
