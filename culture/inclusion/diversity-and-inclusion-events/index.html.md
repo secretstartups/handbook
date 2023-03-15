@@ -47,7 +47,7 @@ On this page you will be provided an overview of the Diversity, Inclusion & Belo
 |          | DIB Sessions at Virtual Contribute 2020                         |
 | May      | Moved from Diversity & Inclusion to Diversity, Inclusion & Belonging  |
 | Jun      | Conducted Live Learning on Recognizing Bias                     | 
-|          | Published DIB Blog ["Our journey to a more diverse and inclusive workplace"](https://about.gitlab.com/blog/2020/06/16/our-journey-to-a-diverse-and-inclusive-workplace/?utm_medium=social&utm_source=linkedin&utm_campaign=blog) |
+|          | Published DIB Blog ["Our journey to a more diverse and inclusive workplace"](https://about.gitlab.com/blog/2020/06/16/our-journey-to-a-diverse-and-inclusive-workplace/) |
 | Jul      | [Fireside Chat with GitLab TMRG MIT Leads](https://www.youtube.com/watch?v=YUHevXdCWeY&feature=youtu.be)                        |
 | Aug      | Full Diversity Inclusion and Belonging Track at Virtual Commit 2020 |
 |          | GitLab Recognized for [Top CEOs for in Diversity in 2020](https://www.usatoday.com/story/money/2020/07/20/job-hunting-heads-microsoft-google-ranked-best-ceos-diversity/5449921002/) |
@@ -78,4 +78,4 @@ On this page you will be provided an overview of the Diversity, Inclusion & Belo
 |          | [DIB Framework](https://docs.google.com/presentation/d/1OMgmYc52J02PWacw72ZM_c-R6FYni-BibAhfV514KcQ/edit?usp=sharing)                                                  |
 | Oct | [Slack Channels for all TMRGs and DIB Advisory Group added](https://about.gitlab.com/company/culture/inclusion/#ergs---employee-resource-groups)       |
 | Dec | [Live Learning Inclusion Training](https://www.youtube.com/watch?v=gsQ2OsmgqVM&feature=youtu.be)                              |
-|          | [Received DIB Comparably Award](https://about.gitlab.com/blog/2020/01/29/comparably-awards-gitlab-top-culture-diversity-awards/?utm_medium=social&utm_source=linkedin&utm_campaign=blog) |
+|          | [Received DIB Comparably Award](https://about.gitlab.com/blog/2020/01/29/comparably-awards-gitlab-top-culture-diversity-awards/) |
