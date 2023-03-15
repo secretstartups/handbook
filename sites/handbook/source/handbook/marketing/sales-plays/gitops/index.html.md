@@ -49,7 +49,7 @@ graph TB
   click C2 "./#required-capabilities"
   click D2 "./#positioning-value"
 
-  Z3[Sales Tactics] -.- A3[SALs / AEs] 
+  Z3[Sales Tactics] -.- A3[SAEs / AEs] 
   A3 -.- B3[SAs / CSMs]
   B3 -.- C3[SDRs]
   click Z3 "./#sales-tactics"
@@ -198,7 +198,7 @@ Detailed list of Q&A [here](https://about.gitlab.com/handbook/marketing/brand-an
 ## Sales Play Tactics {#sales-tactics}
 {: .alert .alert-gitlab-orange}
 
-### SALs and AEs  {#sals-aes}
+### SAEs and AEs  {#sals-aes}
 
 How to identify if you need to lead with a GitOps conversation?
 
