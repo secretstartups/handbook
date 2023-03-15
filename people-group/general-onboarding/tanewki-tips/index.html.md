@@ -124,7 +124,7 @@ As point 36 on our [communication handbook page](/handbook/communication/#writin
 | MRR | Monthly Recurring Revenue | 
 | PCV | ProServe Contract Value | 
 | SA | Solution Architect |
-| SAL | Strategic Account Leader | 
+| SAE | Strategic Account Executive | 
 | SQL | Sales Qualified Lead |
 | SRE | Site Reliability Engineer |
 | CSM | Customer Success Manager | 

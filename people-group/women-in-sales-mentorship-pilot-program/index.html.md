@@ -87,20 +87,20 @@ The program will last for up to 3-months if both the mentor and the mentee remai
 |-----------------------------------|-----------------|
 | **Michael McBride** CRO| **Helen Mason** Area Sales Manager, SMB |
 | **Robin Schulman** CLO| **Madeline Hennessy** Area Sales Manager, SMB |
-| **Brandon Jung** VP, Alliances| **Allison Mueller** Strategic Account Leader |
+| **Brandon Jung** VP, Alliances| **Allison Mueller** Strategic Account Executive |
 | **Mike Pyle** VP, Enterprise | **Alyssa Belardi** Account Executive - Mid Market |
 | **Carol Teskey** Sr. Director, People Success | **Christine Yoshida** Manager, Professional Services Practice |
 | **Danielle Morrill** Head of Corporate Marketing|  **Tanuja Paruchuri** Senior Program Manager, Sales Enablement|
 | **Mark Rogge** Director, Regional Sales|  **Taylor Medlin** Solutions Architect |
 | **Dale Richard Brown** Principal Accounting Officer| **Amy Brandenburg** Technology Partner Manager |
-| **Michelle Hodges** VP of Global Channels| **Susannah Reed** Strategic Account Leader|
+| **Michelle Hodges** VP of Global Channels| **Susannah Reed** Strategic Account Executive|
 | **Bryan Wise** VP, IT|  **Sophie Pouliquen** Senior Customer Success Manager |
 | **Eric Brinkman** Senior Director, Product Management| **Jenna McCarthy** Customer Success Manager|
 | **Kristen Lawrence** Director, Customer Success|  **Chloe Whitestone** Customer Success Manager|
 | **Craig Mestel** VP, Finance |  **Kyla Gradin** Account Executive - Mid Market|
-| **David Sakamoto** VP, Customer Success|  **Annette Kristensen** Strategic Account Leader |
-| **Ryan O'Nell** VP, Commercial Sales |  **Katherine Evans** Strategic Account Leader |
-| **Ryan O'Nell** VP, Commercial Sales| **Anja Loether** Strategic Account Leader |
+| **David Sakamoto** VP, Customer Success|  **Annette Kristensen** Strategic Account Executive |
+| **Ryan O'Nell** VP, Commercial Sales |  **Katherine Evans** Strategic Account Executive |
+| **Ryan O'Nell** VP, Commercial Sales| **Anja Loether** Strategic Account Executive |
 
 
 ## Success Metrics
