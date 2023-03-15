@@ -16,7 +16,7 @@ description: "Customer Account Scoring overview and methodology framework to imp
 
 ## Vision
 
-The Customer Health Score assists GitLab Account Teams in understanding the relative health of customers for the purposes of predicting expansion, retention, and churn through understanding the customer's product adoption, risks, and engaging with GitLab. The initial versions will focus more on adoption. Over time, we will iterate to make them more predictive as we validate leading indicators.
+The Customer Health Score assists GitLab Account Teams to understand the relative health of customers to guide through expansion, retention, and churn through understanding the customer's product adoption, risks, and engagement with GitLab.
 
 
 ## Scoring methodologies
@@ -55,26 +55,6 @@ Looking through just one lens provides a limited view. In a happier example, a c
 
 ![Customer Health Vision](https://lucid.app/publicSegments/view/cccc6a4b-adad-4fcf-aba6-ddc53310111d/image.png)
 <br><br>
-
-## PROVE Components
-
-| **Category**   | **Health Measure**         | **Example**                                                  | **Why?**                                                     | **Metrics**                                                  | **Account Type** | **Maturity** |
-| -------------- | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- | ------------ |
-| **Product**    | License Activation         | The customer has assigned all licenses                                            | Has the customer deployed their licenses? This is an indicator of seat reduction / expansion                      | License utilization                                          | All              | 100%          |
-| **Product**    | User Engagement            | 73% of users are Monthly Active Users                                         | Are users logging in and using the product?                  | Unique Monthly Active Users / billable_user_count               | All              | 100%; [in progress](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/387)          |
-| **Product**    | Adoption (Use Case)        | Use Case adoption                                            | Is the customer adopting use cases and progressing into “stickier” areas of GitLab? | SCM —> CI —> DevSecOps adoption                              | All              | 100%          |
-| **Risk**       | CSM Sentiment              | The sentiment as determined by the CSM, if applicable        | What has the CSM determined from cadence calls?              | CSM Sentiment                                                | CSM owned        | 100%         |
-| **Outcomes**   | ROI Success Plan           | Ensure the ROI Success Plan is aligned to customer           | A missing or poorly constructed Success Plan highlights a lack of alignment between GitLab and customer desired outcomes. | Green Success Plans Delivered EBRs                           | CSM owned        | 100%         |
-| **Outcomes**   | Positive Business Outcomes (PBOs) | Completed Success Plan Objectives                            | Failed or missed PBOs can be a sign of distress; successful PBOs can highlight renewal expansion | Successfully completing at least one PBO each year            | CSM owned        | Not started  |
-| **VoC**        | Support - Escalations      | Emergency support tickets                                      | Emergency support tickets can indicate unhappiness or frustration | Measure if there are Emergency support tickets in the last 90 days | All              | 100%  |
-| **VoC**        | Support - Engagement       | Customer sends in tickets                                    | Determining if the customer is engaged with Support          | Retain existing methodology, but tweak to allow more tickets as a good thing | All              | 70%         |
-| **VoC**        | Support - CSAT             | Customer completes CSAT surveys and provides feedback        | Is the customer giving feedback and what are the scores (response + outcomes) | Benchmark a minimum XX% response rate for green health and provide CSAT results to CSM | All              | Not started  |
-| **VoC**        | NPS Surveys                | The customer responds to and provides high scores            | Because surveys are a good indicator of the customer’s perception of the product and company; this can | Survey responses rates + survey scores                       | All              | Not started  |
-| **Engagement** | Engagement                 | Recency of CSM cadence call                                  | Lack of customer engagement                                  | Date of last CSM cadence call                                | CSM owned        | 100%         |
-| **Engagement** | Executive Sponsorship      | Are stakeholders aligned and communicating?                  | Lack of alignment and communication can indicate a disconnect between execs and ROI | Recency of aligned stakeholder communication                 | CSM owned        | Not started  |
-| **Engagement** | Events                     | Is the customer attending GitLab events?                     | Event attendance indicates customer engagement, dialogues with team members, and face-to-face interactions | TBD                                                          | All              | Not started  |
-| **Engagement** | Certifications             | Are users within the account taking certifications? Are they maintaining their certifications? | Obtaining GitLab certifications is a positive for us and the customer; it also indicates their involvement in GitLab, knowledge of using GitLab, and provides an inference as an internal champion | TBC                                                          | All              | Not started  |
-
 
 
 ## Customer health categories and risks
@@ -308,6 +288,26 @@ The next iteration is a model where each use case incorporates X number of metri
 Example: CI has ten individual features with one metric per feature and each metric is equally weighted at 10. Each metric can score between 0-10 with some being zero, some being 5, and others being 10. The aggregate score would be 65 out of 100. The CSM could then evaluate each metric to see which features are being adopted and which ones need improvement.
 
 While the product usage health will be summarized, a separate health view will allow users to view each individual component. This allows users to quickly skim overall health and, when applicable, to look into the details to see which features are not being utilized.
+
+## PROVE Components
+
+| **Category**   | **Health Measure**         | **Example**                                                  | **Why?**                                                     | **Metrics**                                                  | **Account Type** | **Maturity** |
+| -------------- | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- | ------------ |
+| **Product**    | License Activation         | The customer has assigned all licenses                                            | Has the customer deployed their licenses? This is an indicator of seat reduction / expansion                      | License utilization                                          | All              | 100%          |
+| **Product**    | User Engagement            | 73% of users are Monthly Active Users                                         | Are users logging in and using the product?                  | Unique Monthly Active Users / billable_user_count               | All              | 100%; [in progress](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/387)          |
+| **Product**    | Adoption (Use Case)        | Use Case adoption                                            | Is the customer adopting use cases and progressing into “stickier” areas of GitLab? | SCM —> CI —> DevSecOps adoption                              | All              | 100%          |
+| **Risk**       | CSM Sentiment              | The sentiment as determined by the CSM, if applicable        | What has the CSM determined from cadence calls?              | CSM Sentiment                                                | CSM owned        | 100%         |
+| **Outcomes**   | ROI Success Plan           | Ensure the ROI Success Plan is aligned to customer           | A missing or poorly constructed Success Plan highlights a lack of alignment between GitLab and customer desired outcomes. | Green Success Plans Delivered EBRs                           | CSM owned        | 100%         |
+| **Outcomes**   | Positive Business Outcomes (PBOs) | Completed Success Plan Objectives                            | Failed or missed PBOs can be a sign of distress; successful PBOs can highlight renewal expansion | Successfully completing at least one PBO each year            | CSM owned        | Not started  |
+| **VoC**        | Support - Escalations      | Emergency support tickets                                      | Emergency support tickets can indicate unhappiness or frustration | Measure if there are Emergency support tickets in the last 90 days | All              | 100%  |
+| **VoC**        | Support - Engagement       | Customer sends in tickets                                    | Determining if the customer is engaged with Support          | Retain existing methodology, but tweak to allow more tickets as a good thing | All              | 70%         |
+| **VoC**        | Support - CSAT             | Customer completes CSAT surveys and provides feedback        | Is the customer giving feedback and what are the scores (response + outcomes) | Benchmark a minimum XX% response rate for green health and provide CSAT results to CSM | All              | Not started  |
+| **VoC**        | NPS Surveys                | The customer responds to and provides high scores            | Because surveys are a good indicator of the customer’s perception of the product and company; this can | Survey responses rates + survey scores                       | All              | Not started  |
+| **Engagement** | Engagement                 | Recency of CSM cadence call                                  | Lack of customer engagement                                  | Date of last CSM cadence call                                | CSM owned        | 100%         |
+| **Engagement** | Executive Sponsorship      | Are stakeholders aligned and communicating?                  | Lack of alignment and communication can indicate a disconnect between execs and ROI | Recency of aligned stakeholder communication                 | CSM owned        | Not started  |
+| **Engagement** | Events                     | Is the customer attending GitLab events?                     | Event attendance indicates customer engagement, dialogues with team members, and face-to-face interactions | TBD                                                          | All              | Not started  |
+| **Engagement** | Certifications             | Are users within the account taking certifications? Are they maintaining their certifications? | Obtaining GitLab certifications is a positive for us and the customer; it also indicates their involvement in GitLab, knowledge of using GitLab, and provides an inference as an internal champion | TBC                                                          | All              | Not started  |
+
 
 ## Predictive Analytics
 

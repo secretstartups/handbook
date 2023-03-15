@@ -4,6 +4,15 @@ title: "Health Scoring - Calculations and Methodology"
 description: "How we measure a customer's health score for general GitLab and different use cases"
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+{::options parse_block_html="true" /}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+---
+
 To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Gainsight Scorecard Attributes and Calculations](/customer-health-scoring/#gainsight-scorecard-attributes-and-calculations).
  
 
@@ -108,9 +117,10 @@ A green score signifies that a customer is adopting that specific use case. On t
 Use this chart to understand how many use cases each of your customers have adopted.
 
 <details>
-<summary>
-##### Calculation of use case adoption counts for SCM, CI, CD and DevSecOps
+<summary> Gainsight calculation rules
 </summary>
+
+##### Calculation of use case adoption counts for SCM, CI, CD and DevSecOps
 
 Gainsight Rules mark boolean fields as true on `Company` object for accounts with green scores. These boolean fields are named SCM Adoption, CI Adoption, CD Adoption and DevSecOps Adoption. 
 
@@ -123,7 +133,7 @@ Using the Gainsight Rules Engine, we have created a mechanism for a Call to Acti
 
 Through this CTA, the CSM is notified quickly when a customer may be decreasing their usage of an area of the product, so that they can investigate, ask discovery questions, and triage early, in order to help customers adopt and avoid potential churn or contraction down the line.
 
-While there may be some false positives (for example holiday breaks when no one is working), we prefer to be extra cautious when it comes to potential risk, so we ask CSMs to do their due diligence when receiving these CTAs to ensure their customer is not facing new blockers, company changes, etc. that could affect their renewal, and if they are to begin the [triage process](/handbook/customer-success/csm/health-score-triage/) immediately.
+While there may be some false positives (for example holiday breaks when no one is working), we prefer to be extra cautious when it comes to potential risk, so we ask CSMs to do their due diligence when receiving these CTAs to ensure their customer is not facing new blockers, company changes, etc. that could affect their renewal, and if they are to begin the [triage process](/handbook/customer-success/csm/renewals/#gitlab-account-triage-project) immediately.
 
 The CSM may also be able to spot trends of where customers may have lagging usage either over time or across their books of business and suggest best practices to their customers to help with expectations and adoption.
 
@@ -168,12 +178,6 @@ Please note that there may be situations where fields are blank or don't seem to
 * If any one subscription has a blank value in either the Billable User Count or Total Licenses Sold fields, the Account License Utilization % will be N/A, and Billable Users Sum and/or Licensed Users Sum will reflect N/A amount as well since the cumulative calculation cannot be made 
 
 If the reporting look good (no missing stats), see how to [report bad usage stats](#reporting-bad-usage-statistics) below.
-
-### Scorecard
-
-There is a health scorecard measure called License Usage within the Product Usage measure. This results in green/yellow/red based on the account's license usage health per [Gainsight Scorecard Attributes and Calculations](/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations). 
-
-For more on Product Usage Statistics health scoring in Gainsight, see [Product Usage Statistics](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/).
 
 ### Reporting Bad Usage Statistics
 
