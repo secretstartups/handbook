@@ -3,18 +3,6 @@ layout: job_family_page
 title: "Alliances Job Family Matrix"
 ---
 
-### Alliances Business Development
-
-| Role | Grade |
-| -- | - |
-| [Junior Alliances Business Development Manager](#junior-alliances-business-development-manager) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Alliances Business Development Manager](#alliances-business-development-manager) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Alliances Business Development Manager](#senior-alliances-business-development-manager) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Manager, Alliances Business Development](#manager-alliances-business-development) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Manager, Alliances Business Development](#senior-director-channel-programs-enablement) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Director, Alliances Business Development](#director-alliances-business-development) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Director, Alliances Business Development](#senior-director-alliances-business-development) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-
 ### Alliances Partner Manager
 
 | Role | Grade |
@@ -44,135 +32,7 @@ title: "Alliances Job Family Matrix"
 
 ## Alliance Business Development
 
-### Junior Alliances Business Development Manager
-
-The Junior Alliances Business Development Manager reports to Manager, Alliances Business Development.
-
-#### Job Grade
-The Junior Alliances Business Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Responsibilities
-
-To be defined at time of business need.
-
-#### Requirements
-
-To be defined at time of business need.
-
-### Alliances Business Development Manager
-
-The Alliances Business Development Manager reports to Manager, Alliance Business Development.
-
-#### Job Grade
-The Alliances Business Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Responsibilities
-
-* Responsible for the day-to-day relationship management of alliance partners
-* Act as a liaison between the GitLab and assigned alliance  partners.
-* Build, maintain, and manage relationships with current and prospective alliance partners.
-* Establish productive, professional relationships with key personnel in assigned partner accounts.
-* Coordinate the involvement of GitLab personnel, including support, service, and management resources, in order to meet partner performance objectives and partners’ expectations.
-* Sell through partner organizations to end users in coordination with partner sales resources.
-* Meet assigned targets for profitable sales volume and strategic objectives in assigned partner accounts.
-* Manage direct/channel conflict by fostering excellent communication between the partner and direct teams
-* Ensures partner compliance with Alliance Partner programs and agreements
-* Participate in a partner planning process that develops mutual performance objectives, financial targets, and critical milestones associated with a productive partner relationship.
-* Identifies partner GTM &/or services offerings; working with partner sales resources, services, marketing, etc. develop & launch offerings to point of incremental join revenue achievement
-* Builds relationships with technology vendors to identify mutual greenfield opportunities with shared partners
-
-#### Requirements
-
-* Previous experience of driving alliances sales ideally within the same product category and partner.
-* Experience selling in the Software Development Tools and/or Application Lifecycle   Management space via channel partnerships
-* Experience managing partner relationships that are based in developing and delivering service offerings tied to vendor product
-* Experience selling Open Source Solutions
-* Demonstrated progressive experience with B2B sales
-* Demonstrated progressive experience selling high technology products in assigned territory in a channel model
-* Interest in GitLab, and open source software
-* Effective communicator with excellent interpersonal skills and an ability to build strong relationships with partners and GitLab teams.
-* Strong personal network within the industry.
-* Driven, highly motivated and results driven.
-* You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
-* Ability to use GitLab
-* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/).
-
-
-### Senior Alliances Business Development Manager
-
-The Senior Alliances Business Development Manager reports to Manager, Alliance Business Development.
-
-#### Job Grade
-The Senior Alliances Business Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Responsibilities
-
-To be defined at time of business need.
-
-#### Requirements
-
-To be defined at time of business need.
-
-### Manager, Alliances Business Development 
-
-The Manager, Alliances Business Development reports to Director, Alliance Business Development.
-
-
-#### Job Grade
-The Manager, Alliances Business Development is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Responsibilities
-
-To be defined at time of business need.
-
-#### Requirements
-
-To be defined at time of business need.
-
-### Senior Manager, Alliances Business Development
-
-The Senior Manager, Alliances Business Development reports to Director, Alliance Business Development.
-
-#### Job Grade
-The Senior Manager, Alliances Business Development is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Responsibilities
-
-To be defined at time of business need.
-
-#### Requirements
-
-To be defined at time of business need.
-
-### Director, Alliances Business Development 
-
-The Director, Alliances Business Development reports to VP, Alliances.
-
-#### Job Grade
-The Director, Alliances Business Development is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Responsibilities
-
-To be defined at time of business need.
-
-#### Requirements
-
-To be defined at time of business need.
-
-### Senior Director, Alliances Business Development 
-
-The Senior Director, Alliances Business Development reports to VP, Alliances.
-
-#### Job Grade
-The Senior Director, Alliances Business Development is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Responsibilities
-
-To be defined at time of business need.
-
-#### Requirements
-
-To be defined at time of business need.
+The [Alliance Business Development](/job-families/alliances/alliance-business-development/) job family has been moved to its own page.
 
 ## Alliances Partner Manager
 
@@ -206,7 +66,7 @@ Presentation skills with a high degree of comfort speaking with executives, IT M
 * Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 * Ability to use GitLab
 
-### Alliances Partner Manager 
+### Alliances Partner Manager
 The  Alliances Partner Manager reports to Manager, Alliances Partner Managers.
 
 #### Job Grade
@@ -328,7 +188,7 @@ To be defined at time of business need.
 To be defined at time of business need.
 
 
-## Partnerships 
+## Partnerships
 
 ### Director, Partnerships
 The Director, Partnerships reports to VP, Alliances.
@@ -347,7 +207,7 @@ The Director, Partnerships is a [grade 10](/handbook/total-rewards/compensation/
 * Evaluate effectivity of partner relationships and engagements in delivering positive ROI.
 * Speak regularly in public as the voice for GitLab and the partner
 * SA level expertise with GitLab AND the partners technology
-* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ## Requirements
 
@@ -381,7 +241,7 @@ The VP of Alliances is a [grade 12](/handbook/total-rewards/compensation/compens
 * Design, develop and execute engagement plans with Alliance key stakeholder while tracking Key Performance Indicators (KPI’s)
 * Coordinate and collaborate with cross-functional organizations within GitLab to include marketing, products, finance, legal, sales, engineering and people operations
 * Manage each stage of the alliance lifecycle and monitor the ROl and risk for both partners
-* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/) 
+* Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 #### Requirements
 * 6-8 years of senior leadership (VP or C-level) in planning and closing partnership deals valued at over $50M with enterprise technology companies
@@ -403,7 +263,7 @@ The VP of Alliances is a [grade 12](/handbook/total-rewards/compensation/compens
 
 ## Career Ladder
 
-The next step in the Alliances job family is not yet defined at GitLab. 
+The next step in the Alliances job family is not yet defined at GitLab.
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
