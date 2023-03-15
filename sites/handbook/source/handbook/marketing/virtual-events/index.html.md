@@ -63,7 +63,7 @@ As soon as you create the epic for the sponsored virtual event, add the event to
 
 ##### Confirmed external virtual events 
 {: #calendar-confirmed-external-virtual-event}
-Once the sponsorship has been confirmed, go to your calendar event and remove `Hold` from the event title. **Note:** In the spirit of efficiency and to avoid creating multiple calendar invites, please include the epic or issue, add the marketing DRI, any GitLab speakers and/or attendees (SALs, SAs, etc.), as well as any other team members who would benefit from being included in the calendar invite as this invite will provide a hold for team members participating in the event. The 3rd party sponsor will send out additional event details separately.
+Once the sponsorship has been confirmed, go to your calendar event and remove `Hold` from the event title. **Note:** In the spirit of efficiency and to avoid creating multiple calendar invites, please include the epic or issue, add the marketing DRI, any GitLab speakers and/or attendees (SAEs, SAs, etc.), as well as any other team members who would benefit from being included in the calendar invite as this invite will provide a hold for team members participating in the event. The 3rd party sponsor will send out additional event details separately.
 * For sponsored webcasts, change the event title to `[WC sponsored] Event title` (e.g: `[WC sponsored] Securing your pipeline with GitLab and WhiteSource`).
 * For sponsored virtual conferences, change the event title to  `[VC sponsored] Event title` (e.g: `[VC sponsored] Predict 2021`).
 * For executive round tables, change the event title to `[ER sponsored] Event title` (e.g: `[ER sponsored] DevOps 101`).
