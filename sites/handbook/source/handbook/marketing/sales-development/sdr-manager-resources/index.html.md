@@ -177,6 +177,18 @@ On your new hire's first day, the assigned People Connect Team member will [sche
 ## Internal Team Transition
 If an SDR or a group of SDRs will be moving from one SDR team to another, please open [this SDR internal transition template](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new?issuable_template=sdr_internal_team_change) as the automatic people ops issue does NOT get created for this type of transition. Please complete the steps in this issue to ensure the SDR changing teams has everything they need.
 
+## Career Mobility Issues
+
+A career mobility issue should be opened 2 weeks before the transition date by the people connect team. If the aligned manager does not see that issue created 2 days before the scheduled transition date, the manager should reach out to the People Connect Team via the [#people-connect Slack Channel](https://gitlab.slack.com/archives/C02360SQQFR).
+
+**People connect opens mobility issue if any of the following are true:**
+
+1. If there is a change in department.  Ex. SDR/BDR moves to the SMB Sales Team
+2. Someone changes from Individual Contributor to Manager
+3. Someone changes from Individual Contributor to Team Lead
+4. Someone Changes from Manager to Individual Contributor
+5. Someone Changes Teams
+
 ## Leave of Absence
 If an SDR will be out for a prolonged period of time, please follow the proper processes and complete the SDR leave checklist.
 - [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave)
