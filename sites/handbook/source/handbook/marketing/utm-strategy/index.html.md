@@ -124,6 +124,7 @@ Values (available as picklist in the UTM builder googlesheet):
 * abm	= Account Based Marketing
 * ptnr = Partner Marketing
 * chnl = Channel Marketing
+* cmp = Marketing Campaigns
 
 #### utm_allptnr
 {: #utm-allptnr}
