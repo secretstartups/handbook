@@ -680,11 +680,11 @@ As an SDR or BDR, you will work to connect with inbound/outbound leads that you 
 
 #### When do I create an Opportunity?
 
-    1. **You have scheduled time with AE/SAL to speak with the prospect.** <br>
-If you are scheduling time with an AE/SAL to speak to the prospect based on a qualifying conversation you have had with the prospect, an opportunity needs to be created and placed in stage 0. On the opportunity, all "required qualification" fields need to be filled in.
+1. **You have scheduled time with AE/SAL to speak with the prospect.** <br>
+If you are scheduling time with an AE/SAL to speak to the prospect based on a qualifying conversation you have had with the prospect, an opportunity needs to be created and placed in stage 0. On the opportunity, all "required qualification" fields need to be filled in. Please ensure that the close date is set realistically: Close Date defaults to the end of the existing financial quarter but large opportunities have a longer sales cycle. 
 
 2. **You have obtained a commitment/willigness from a prospect to discuss further.** <br>
-If you have a meaningful two-way communication with a prospect, but have not had the required qualification criteria to move to the Sales team, you can create an opportunity under your name so that you better track your warm conversations. These opportunities may also be used for better collaboration with your team, as they can be reviewed and brain-stormed upon during team huddles.
+If you have a meaningful two-way communication with a prospect, but have not had the required qualification criteria to move to the Sales team, you can create an opportunity under your name so that you better track your warm conversations. These opportunities may also be used for better collaboration with your team, as they can be reviewed and brain-stormed upon during team meetings.
 
 #### Who owns the opportunity at this point?
 1. **You have scheduled time with AE/SAL to speak with the prospect.** <br>
@@ -694,7 +694,7 @@ When you have entered the qualification criteria onto the opportunity, and have 
 At this point, the opportunity will be in your ownership but you can not have yourself listed in the Business Development Representative or Sales Development Representative field. There is a validation rule that will not allow the opp owner and the SDR/BDR representative field to be the same member.
 
 #### When will it be credited as an SAO?
-After the SAL/AE meets with the prospect to verify and supplement qualification criteria, they will move the opportunity into Stage 1. The AE/SAL is expected to move the opportunity into the correct stage within 48 hours of the meeting reflected in the "Next Step" date field.
+After the SAL/AE meets with the prospect to verify and supplement qualification criteria, they will move the opportunity into Stage 1. The AE/SAL is expected to move the opportunity into the correct stage within 48 hours of the meeting date reflected in the "Next Step" date field. Please ensure all BDR/SDR required qualification fields are up to date before the opportunity moves to Stage 1, as the Sales Development team is unable to edit opportunities that are past stage 0.
 
 If the opportunity is for a new group of users in a Large account where sales is working on a large "central" opportunity, then your opportunity should be merged to that opportunity for you to get credit for the users you have brought to the deal. [See under Stage 8](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) in the Sales Go To Market Handbook
 
