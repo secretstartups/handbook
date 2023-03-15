@@ -11,7 +11,7 @@ category: GitLab Self-Managed licenses
 
 ## Overview
 
-Our [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/#contributing-to-the-gitlab-enterprise-edition-ee) allows community contributors to contribute to GitLab Enterprise Edition. After trialling for 30 days, an EE license for 90 days can be generated if requested by a Contributor Success team member using [the internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). Subsequent requests can be processed as necessary.
+GitLab allows community contributors to [contribute to GitLab Enterprise Edition](/handbook/marketing/community-relations/contributor-success/community-contributors-workflows.html#contributing-to-the-gitlab-enterprise-edition-ee). After trialling for 30 days, an EE license for 90 days can be generated if requested by a Contributor Success team member using [the internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). Subsequent requests can be processed as necessary.
 
 ## Actioning
 
