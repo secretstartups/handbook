@@ -43,7 +43,7 @@ The collaborative `Tier 1 Team` is led by an [ABM Manager](/handbook/marketing/a
 
 **Tier 1 team members:**
 * Account Based Marketing (DRI)
-* Strategic Account Leader
+* Strategic Account Executive
 * Solution Architect
 * Business Development Rep
 * Revenue Programs
@@ -103,7 +103,7 @@ The collaborative `Tier 1 Team` is led by an [ABM Manager](/handbook/marketing/a
 ## :busts_in_silhouette: Team
 * Account Based Marketing: 
 * Marketing Campaigns: 
-* SAL: 
+* SAE: 
 * BDR: 
 * Field Marketing: 
 * Partner Marketing: 

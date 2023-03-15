@@ -452,7 +452,7 @@ In order to make a Workshop functional there are a number of teams that have to 
 - PMM’s (If Necessary)
 - DemandBase
 - FMC - Scheduling
-- SAL - Host
+- SAE - Host
 - FMM - Overall Organization
 
 Each organization mentioned above has its own SLA’s that are factored into the workback document that's detailed out in the [workshop section of our handbook](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/).
