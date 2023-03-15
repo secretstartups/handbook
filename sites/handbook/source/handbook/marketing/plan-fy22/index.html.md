@@ -183,7 +183,7 @@ May include:
 {: #sales-plays .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-A sales play's intended audience is sales (SALs, SAs, CSMs, SDR as applicable) to arm the sales teams as a part the outbound motion. In some cases, there will also be inbound marketing campaign component. The playbook prepares the sales person with both prescriptive actions to take as part of the outbound motion, as well as how to respond in the case of a supporting inbound marketing campaign.
+A sales play's intended audience is sales (SAEs, SAs, CSMs, SDR as applicable) to arm the sales teams as a part the outbound motion. In some cases, there will also be inbound marketing campaign component. The playbook prepares the sales person with both prescriptive actions to take as part of the outbound motion, as well as how to respond in the case of a supporting inbound marketing campaign.
 
 The Sales Play should include (at minimum):  
 - Context (promise/offer)
