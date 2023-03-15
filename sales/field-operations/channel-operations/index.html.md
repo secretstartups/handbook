@@ -510,7 +510,7 @@ When a Channel Manager either receives an email alert, or sees a new registratio
    - The partner sends the Proof of Execution (POE), customer signed statement of work (SOW), or other customer-verified proof of execution to `Partnersupport@gitlab.com`.
    - The partner completes the [POE form](https://forms.gle/1AXbStjZCKuWecTf7).
 12. The Partner Operations team will ensure the Deal ID is listed on the POE, upload it to the opportunity, and chatter the Channel Manager. The Partner Operations team will then update the Service Attach Deal Registration Status to Closed-Won.
-13. After the close of quarter in which the resale deal is closed-won*, Channel Operations will pull a report of Closed-Won Service Attach Deal Registrations for rebate payments. 
+13. After the close of quarter in which the resale deal is closed-won*, Partner Operations will pull a report of Closed-Won Service Attach Deal Registrations for rebate payments. 
 14. Partner Operations submits the payments to Coupa for reseller payouts. Resellers should receive payment within 45 days of the start of the new quarter.
 
  
