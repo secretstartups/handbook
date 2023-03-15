@@ -42,9 +42,9 @@ The following members of other functional teams are our stable counterparts:
 
 ## Common Links
 
-- [General Slack channel](https://gitlab.slack.com/archives/s_)
-- [Standup Slack channel](https://gitlab.slack.com/archives/s)
-- [Social Slack channel](https://gitlab.slack.com/archives/s)
+- [General Slack channel](https://gitlab.slack.com/archives/C04SS157XSQ)
+- [Standup Slack channel](https://gitlab.slack.com/archives/CPJ6QAV9S)
+- [Social Slack channel](https://gitlab.slack.com/archives/C04QL4HKV0C)
 
 Some dedicated Slack channels:
 
@@ -111,8 +111,6 @@ If there are no topics, the meeting can be cancelled for the week.
 
 ### Planning
 
-#### Milestone Planning
-
 #### Issue Weighting
 
 The weights we use are:
@@ -131,7 +129,7 @@ issue will be scheduled for work before any further breakdown of tasks is perfor
 
 Not all POCs will be successful, and that is OK! Some avenues of research may not be successful, and the POC will have saved us from investing significant time in a solution that will not meet our needs. The goal is early feedback and fast iteration.
 
-#### GitLab Terraform Provider
+### GitLab Terraform Provider
 
 The [GitLab Terraform Provider](/handbook/engineering/projects/#terraform-provider-gitlab) is managed by the Environments group.
 
@@ -152,6 +150,7 @@ All the columns are prioritised top to bottom
 Our goal is to move towards a continuous delivery model so the team completes tasks regularly, and keeps working off of a prioritized backlog of issues. We default to team members self-scheduling their work:
 
 - Team members self-assign issues from the [Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/4176401?label_name[]=group%3A%3Aenvironments&?not[label_name][]=configure%3A%3Aparked) that are in the `workflow:ready for development` column and has the current milestone.
+-  `~Deliverable` issues take priority over any other work, as they are the main focus of each milestone and inform our [say-do ratio](#say-do-ratio).
 - Once a team member has completed their assigned issues, they are expected to go to the group issue boards and assign themselves to the next unassigned `workflow:ready for development` issue.
 - The issues on the board are in priority order based on importance (the higher they are on the list, the higher the priority). This order is set by the product manager.
 - If all issues are assigned for the milestone, team members are expected to identify the next available issue to work on based on the team's work prioritization (see below).
@@ -161,7 +160,26 @@ Our goal is to move towards a continuous delivery model so the team completes ta
 
 In addition to the self-scheduling of feature development, the manager will from time to time assign bugs, or other work deemed important, directly to a team member.
 
-#### Organizing our backlog
+#### Say-do ratio
+
+Our team keeps track of their commitment with `say-do` ratios, two metrics are important: **say-do** and **reprioritized say-do**
+
+- Say-do **only** applies to `~Deliverable` issues.
+- By the 17th of the month the `~Deliverable` label is applied to the upcoming milestone issues by the EM.
+- We aim roughly to assign one `~Deliverable` for each engineer, this may change milestone by milestone.
+- Any issue that has the `~Deliverable` label at that point is considered as *promised to be delivered* and is part of our say-do ratio.
+- If at any time during the milestone a `~Deliverable` label is removed or the issue is removed from the milestone that issue does **not** count anymore in the `reprioritized say-do` metric, but still does count for `say-do`.
+
+We aim to achieve 100% `re-prioritized say-do` and at least 80% `say-do`.
+
+##### Example
+
+- In the milestone 15.11 we have 10 `~Deliverable` issues labelled as such by the 17th of March 2023
+- Along the way we realise that 5 of those `~Deliverable` issues will not make it, and reasonably before the end of the milestone, we move them to 16.0
+- At the end of the milestone there is an hiccup and of those 5 remaining issues, 1 is not completed.
+
+Our `say-do` ratio would be 40% (4 out of 10)
+Our `reprioritized say-do` would be 80% (4 out of 5)
 
 ### MR reviews
 
