@@ -92,7 +92,13 @@ Mktg Strategy uses the Fibonnacci sequence when creating [issue weights](https:/
 
 ### Triage Schedule
 
-We follow a weekly triage schedule and alternate responsibility between the team:
+We follow a weekly triage schedule and alternate responsibility between the team.
+
+During your rotation, you are expected to:
+  - Triage new issues in our board according to our stakeholder alignment, checking at least twice per day.
+  - Triage or help with new messages in [#mktg-strat-analytics](https://gitlab.slack.com/archives/C01HTAYQBM5)
+
+We will follow the schedule below:
 
 | Week of | Team Members |
 | ----------- | ----------- |
