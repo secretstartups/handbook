@@ -49,7 +49,7 @@ While handling the subscription provisioning requests, we might encounter a 502 
 
 - We can verify that by [retrieving the token information](https://docs.gitlab.com/ee/api/oauth2.html#retrieving-the-token-information)(grab the `access_token` from the customer portal and call the API endpoint to retrieve the `resource_owner_id` attribute, which should be the same as the  GitLab.com `userID`).
 
-To fix this, we should **completely unlink the GitLab.com account with the customer portal** account using the [unlink_customer console function](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#unlink_customer)
+To fix this, we should **completely unlink the GitLab.com account with the customer portal** account using the [unlink_customer console function](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#unlink_customer) or `Unlink GitLab.com account` form in the ZenDesk ticket Mechanizer app.
 
 ## Force Associate SaaS Subscription  
 
