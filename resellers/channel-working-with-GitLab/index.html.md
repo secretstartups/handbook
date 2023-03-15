@@ -112,6 +112,10 @@ These are GitLab owned leads that are stuck in “Prospect Share Status" = "Pend
 
 Once a lead is recalled, it will be reassigned to Gitlab Inc. for internal follow up. 
 
+### Video walk through of the process outlined above
+
+https://vimeo.com/807924930
+
 ### Definitions
 
 #### Prospect Share Status
