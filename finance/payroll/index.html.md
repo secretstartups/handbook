@@ -222,7 +222,9 @@ If you experience login issues, please send an e-mail to uspayroll@gitlab.com so
 
 ### Changing bank information
 
-1. Please update WorkDay Payment Elections and Payroll team will receive a notification. Please see WorkDay guide [here](/handbook/people-group/workday/workday-guide/#workday-guides). 
+1. Team Members can update their bank information on Workday by following the 'add and edit payment elections' [Workday Guide](/handbook/people-group/workday/workday-guide/#workday-guides). Workday will notify the Payroll team with an automatic email notification. 
+1. Bank information changes are considered in the current pay period if submitted before the [Payroll cut off dates](/handbook/finance/payroll/#payroll-cut-off-dates). If the change occurs after Payroll cut off dates, it is advisable to keep your old bank account open for the current pay period.
+1. Connect your bank account with [Navan](/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/#connecting-your-bank-account-for-reimbursements) to receive expense reimbursements on the same bank account.
 
 ### France
 
