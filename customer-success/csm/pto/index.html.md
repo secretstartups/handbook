@@ -29,11 +29,11 @@ Before your PTO begins, please follow these additional guidelines:
 
 ## Establish Coverage
 
-When a CSM is out of office, they can rely on their SALs/AEs and/or SAs to lead customer meetings or respond to requests. Make sure your account teams know in advance that you'll be out and for how long so they can be prepared.
+When a CSM is out of office, they can rely on their SAEs/AEs and/or SAs to lead customer meetings or respond to requests. Make sure your account teams know in advance that you'll be out and for how long so they can be prepared.
 
 You can ask [another CSM](#backup-csms) to cover for you as well, but they likely don't have the same context as the account team, so you'll need to brief them on any important initiatives.
 
-For any specific customer needs (escalating tickets, logging issues, etc.), the CSM should rely on either the SA or backup CSM, and higher-level or sales-related items should be handled by the SAL/AE.
+For any specific customer needs (escalating tickets, logging issues, etc.), the CSM should rely on either the SA or backup CSM, and higher-level or sales-related items should be handled by the SAE/AE.
 
 Be sure to confirm with whoever will be covering for you the dates you'll be out to ensure they don't also have PTO scheduled or other conflicts. Then, add them and their coverage responsibilities into PTO by Deel.
 
@@ -68,7 +68,7 @@ As the East team continues to trial this program, they will share feedback and i
 
 In accordance with our ["no ask, must tell"](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) policy, ensure that you are informing the relevant team members of your out-of-office plan. This includes:
 
-- SAL/AE and SA for the accounts you cover
+- SAE/AE and SA for the accounts you cover
 - [Backup CSM](#backup-csms)
 - Your manager (via PTO by Deel)
 

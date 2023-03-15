@@ -12,7 +12,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ---
 
-[<button class="btn btn-primary" type="button">Request A Scale CSE (SAL/AE Only) </button>](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/scale-engagement-request/-/issues/new?_gl=1*vjjya7*_ga*MTEyODE3ODIyOC4xNjA0NTA4NzU0*_ga_ENFH3X7M5Y*MTY2NzkxMjA3NS4xOTYuMS4xNjY3OTE0MjA5LjAuMC4w#)
+[<button class="btn btn-primary" type="button">Request A Scale CSE (SAE/AE Only) </button>](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/scale-engagement-request/-/issues/new?_gl=1*vjjya7*_ga*MTEyODE3ODIyOC4xNjA0NTA4NzU0*_ga_ENFH3X7M5Y*MTY2NzkxMjA3NS4xOTYuMS4xNjY3OTE0MjA5LjAuMC4w#)
 
 ## Overview
 
@@ -75,7 +75,7 @@ Use-Case Enablement:
 
 ### Expand & Renew
 
-Expansion is primarily driven by the SAL or AE in this segment, though a key driver for expansion is product enablement and familiarity. Scale CSEs will be looking for expansion opportunities in their conversations with customers, and will pass along potential opportunities to their sales counterparts to do further discovery and demos. Targeted email campaigns based on expansion potential (LAM) may be sent from Scale CSEs periodically to drive expansion as well. 
+Expansion is primarily driven by the SAE or AE in this segment, though a key driver for expansion is product enablement and familiarity. Scale CSEs will be looking for expansion opportunities in their conversations with customers, and will pass along potential opportunities to their sales counterparts to do further discovery and demos. Targeted email campaigns based on expansion potential (LAM) may be sent from Scale CSEs periodically to drive expansion as well. 
 
 #### Metrics for Expand & Renew
 

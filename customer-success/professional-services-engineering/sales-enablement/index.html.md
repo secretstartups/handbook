@@ -53,7 +53,7 @@ For gitlab.com users, [implementation services](/services/implementation/) focus
 The implementation services [Rapid Results](/services/rapid-results/) packages have a standard SKU, but have specific bounds to the large cloud service providers and HA/DR architectural patterns. If your customers' needs fall outside of those bounds, you will need to engage in a [custom-scoping exercise](/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services).
 
 #### Education Services
-As with any new software being introduced at a company, users tend to need training to know how to use it. We have excellent [education services](/services/education/) that span the spectrum of basics to advanced; administrators to general users. All of our education services have standard SKUs, which makes the process easy for the ISR/SAL to offer to a customer.
+As with any new software being introduced at a company, users tend to need training to know how to use it. We have excellent [education services](/services/education/) that span the spectrum of basics to advanced; administrators to general users. All of our education services have standard SKUs, which makes the process easy for the ISR/SAE to offer to a customer.
 
 #### Integration Services
 Customers tend to have tools and systems with which they need to establish integrations. We offer [integration services](/services/implementation/integration/) for customers who need systems like LDAP, Jira, Jenkins, etc. to work with gitlab.

@@ -39,7 +39,7 @@ Individual GitLab team members can request to audit a customer-facing training s
 
 ### For Sales Reps and SAs: How to order Professional Services
 
-1. To order Professional Services, the SAL or ISR [creates an Opportunity in SFDC](/handbook/sales/field-operations/gtm-resources/) using the record type "Professional Services Only."
+1. To order Professional Services, the SAE or ISR [creates an Opportunity in SFDC](/handbook/sales/field-operations/gtm-resources/) using the record type "Professional Services Only."
 
 1. The next steps depend on whether the services needed are standard or custom.
 
@@ -75,10 +75,10 @@ As there may be many projects and proposals in flight at any time, there are a f
 
 #### Custom services SOW creation and approval
 
-When scoping custom SOWs, the Professional Services Engagement Manager partners with the SA/CSM/SAL to create a custom engagement that will help meet the customer's needs, and push the SOW through the appropriate approval process. All Custom SOW's will require approval from PS Leadership.
+When scoping custom SOWs, the Professional Services Engagement Manager partners with the SA/CSM/SAE to create a custom engagement that will help meet the customer's needs, and push the SOW through the appropriate approval process. All Custom SOW's will require approval from PS Leadership.
 
 ##### Estimate creation
-* The account team (SAL/ISR/SA/CSM) can initiate the process by creating a new scoping issue via the [Services Calculator](https://services-calculator.gitlab.io/). Through this process they will be asked some high-level questions, and a SSOT table will arrive in the issue to drive the scoping process. The SA/CSM should work with the Customer initially to complete this as well as they can. The Professional Services Engagement Manager will then create an Estimate based upon the inputs provided, and provide a link for review.
+* The account team (SAE/ISR/SA/CSM) can initiate the process by creating a new scoping issue via the [Services Calculator](https://services-calculator.gitlab.io/). Through this process they will be asked some high-level questions, and a SSOT table will arrive in the issue to drive the scoping process. The SA/CSM should work with the Customer initially to complete this as well as they can. The Professional Services Engagement Manager will then create an Estimate based upon the inputs provided, and provide a link for review.
 
 ##### SOW creation
 * Once the Estimate has been reviewed by the account team and Customer, any feedback received, and refinement made, we can then move to generating the SOW. As part of the scoping issue, the Engagement Manager will need to understand whether there is an MSA in place, or standard terms are to be used.
@@ -100,7 +100,7 @@ The labels are (from left to right):
 * `proposal::Estimate_Feedback`: The Estimate is with the account team and/or Customer for review. The Engagement Manager is awaiting feedback and confirmation prior to moving to SOW.
 * `proposal::SOW_WIP`: The Engagement Manager is drafting the SOW and preparing a [Cost Estimate](/handbook/customer-success/vision/#professional-services-standard-cost) using the [SOW Cost Estimate Calculator](https://docs.google.com/spreadsheets/d/16KFNRFe4E_oaqU7_ZGivoO7eU3-65dkMgVvK5Jvb7ZQ/edit#gid=158441360) for margin calculation purposes
 * `proposal::Ready For Approval`: The Engagement Manager has prepared the required SOW, and triggered the approval requests. Approvals are now required prior to releasing the SOW.
-* `proposal::Approved`: The SOW is now approved, and ready for execution. The SAL/AE should gain a Legal stamp via a Legal Case in SFDC before releasing the SOW for signature.
+* `proposal::Approved`: The SOW is now approved, and ready for execution. The SAE/AE should gain a Legal stamp via a Legal Case in SFDC before releasing the SOW for signature.
 
 
 ### Scheduling Professional Services

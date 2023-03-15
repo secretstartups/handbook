@@ -67,7 +67,7 @@ Below is an overview of the EBR process from start to finish. Timelines are list
 | [Final review with customer](#final-review-with-customer) | CSM leading, meeting with customer contacts and account team members | 2-3 weeks prior to scheduled EBR date | Validate that the content and intended messaging is aligned with their org's expectations, and that we have accurate details regarding their objectives. |
 | [Final internal review & prep](#final-internal-review--prep) | CSM leading, all GitLab attendees & presenters | 2 weeks prior to scheduled EBR date | This meeting needs to include all GitLab team members who will be present for the EBR and ensure that everyone is aligned on the plan and objectives. **The slide deck and talk track is complete by this meeting, except for any minor adjustments done during this review.** |
 | [Send agenda & event details](#send-agenda--event-details) | CSM | 1 week prior to scheduled EBR date | Email all participants with the agenda for the meeting, and other relevant details to ensure everyone is prepared for the EBR. |
-| [Delivery](#delivery) | CSM leading, in collaboration with SAL/AE and leadership | 6 months before upcoming renewal | This is the main event! Everyone involved is clear on their role and the goals for the EBR. |
+| [Delivery](#delivery) | CSM leading, in collaboration with SAE/AE and leadership | 6 months before upcoming renewal | This is the main event! Everyone involved is clear on their role and the goals for the EBR. |
 | [Follow-ups](#follow-ups) | CSM managing; others specified for each follow-up | 0-7 days after EBR delivery | Follow-ups that have rapid turnaround should be completed within a few days of the EBR, and no later than one week. Examples include product feature information and scheduling of subsequent meetings. |
 | [Success planning](#success-planning) | CSM | 0-3 days after EBR delivery | Success planning is a critical part of a successful EBR, since the information learned from and discussed during the EBR feeds directly into our strategic roadmap for the customer and is documented in the success plan. |
 
@@ -268,7 +268,7 @@ If you do not plan to conduct the EBR within a reasonable timeframe (discuss thi
  
 ## EBR Enablement
 
-- A SAL/AE can be a great partner in positioning EBRs. For more on the value of EBRs, with customer examples, please watch [this internal EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
+- A SAE/AE can be a great partner in positioning EBRs. For more on the value of EBRs, with customer examples, please watch [this internal EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
     - [Deck](https://docs.google.com/presentation/d/1sWj5HJR4IxdOMg7GiuEjlS5GvFYzYdtLW3QsX6IsxCM/edit#slide=id.g20a53d489f_0_213) used in the recording (internal)
     - [Objection handing document](https://docs.google.com/document/d/1WzvklnloC22WffVcLYupLy3kqSsEbHNtcj47xrb07As/) referred to in the recording (internal)
 - Follow [this link](https://gitlab.edcast.com/pathways/CSM-executive-business-reviews) to access the EBR certification on EdCast.

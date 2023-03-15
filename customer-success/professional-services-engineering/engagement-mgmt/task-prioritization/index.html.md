@@ -21,7 +21,7 @@ The list of job responsibilities is in ranked order with the highest priority ta
 - Sending SOW to Dale Brown (Principal Accounting Officer) and customer for signature. Alternatively sending SOW to Brian Robins (Chief Financial Officer) if Dale is unavailable.
 - Creating a COGS and uploading to salesforce
 
-**Note: SOW processing activities are a collaboration between the EM and the account team; who the “DRI” is will vary based on the circumstances.  For smaller, tactical opportunities, the EM might own the entire process with little or no SAL involvement.  For larger, strategic opportunities, especially when there are licenses and services being sold together, the SAL might handle all of the communication with the customer themselves.  It’s important to have a conversation with the SAL for each opportunity to gain agreement on how that opportunity will be worked.  It’s also important to keep a collaborative mindset when working with the SALs.**
+**Note: SOW processing activities are a collaboration between the EM and the account team; who the “DRI” is will vary based on the circumstances.  For smaller, tactical opportunities, the EM might own the entire process with little or no SAE involvement.  For larger, strategic opportunities, especially when there are licenses and services being sold together, the SAE might handle all of the communication with the customer themselves.  It’s important to have a conversation with the SAE for each opportunity to gain agreement on how that opportunity will be worked.  It’s also important to keep a collaborative mindset when working with the SAEs.**
 
 **Suggested SLAs:**
 - 48 hours from confirmation of customer intent to move forward with an SOW to SOW draft in their hands.

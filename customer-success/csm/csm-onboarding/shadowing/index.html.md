@@ -26,7 +26,7 @@ The [cadence call](/handbook/customer-success/csm/cadence-calls/) is a core elem
 It's important to prep for any customer calls in advance to ensure everyone is getting full value out of the synchronous time. To shadow pre-call prep, it involves both shadowing internal calls and shadowing CSMs 1:1 while they prepare.
 
 - SALSATAM call
-  - CSMs [meet regularly with each of their SAL/AE and SA teams](/handbook/customer-success/account-team/#account-team-meeting) to ensure they are in sync on their efforts to turn prospects into customers, and engagemnt with existing customers. A new team member will shadow account team meetings to learn about how they should be conducted.
+  - CSMs [meet regularly with each of their SAE/AE and SA teams](/handbook/customer-success/account-team/#account-team-meeting) to ensure they are in sync on their efforts to turn prospects into customers, and engagemnt with existing customers. A new team member will shadow account team meetings to learn about how they should be conducted.
 - Creating [meeting agenda](/handbook/customer-success/csm/cadence-calls/#cadence-call-notes)
 - Gathering required information for call (issue follow-ups, creating demos, reviewing gaps in Gainsight entries, etc.)
 - Creating calendar invite (if needed)
@@ -59,4 +59,4 @@ The [cadence call](/handbook/customer-success/csm/cadence-calls/) is a core elem
 
 ## Account team meetings
 
-CSMs [meet regularly with each of their SAL/AE and SA teams](/handbook/customer-success/account-team/#account-team-meeting) to ensure they are in sync on their efforts to turn prospects into customers, and engagemnt with existing customers. A new team member will shadow account team meetings to learn about how they should be conducted.
+CSMs [meet regularly with each of their SAE/AE and SA teams](/handbook/customer-success/account-team/#account-team-meeting) to ensure they are in sync on their efforts to turn prospects into customers, and engagemnt with existing customers. A new team member will shadow account team meetings to learn about how they should be conducted.

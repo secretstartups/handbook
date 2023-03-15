@@ -90,7 +90,7 @@ For CSM Managers, here is a short checklist to assist in the review:
 - [Customer Onboarding:](#customer-onboarding-review) Customers in the Onboarding phase have been reviewed and onboarding status and notes are complete
 - [Success Plans:](#success-plan-review) Customers have a Success Plan, it is being communicated with the customer, and the CSM is using it as the guiding document
 - [Triage and Health:](#triage-and-health-review) Health for all CSM-assigned accounts have been updated within the last month, and any accounts in Triage are being evaluated
-- [Renewal Review:](#renewal-review) Upcoming customer renewals have been reviewed — the CSM has updated customer health and communicated with the SAL and SA for the upcoming renewal
+- [Renewal Review:](#renewal-review) Upcoming customer renewals have been reviewed — the CSM has updated customer health and communicated with the SAE and SA for the upcoming renewal
 
 ### Account Assignment
 
@@ -102,7 +102,7 @@ When an Account meets the critera, the following will happen:
 - Once the field has been updated with the CSM name, Gainsight will fire the onboarding playbook
 - **If** the account meets the above criteria and the CSM is not assigned, Gainsight will fire a CTA (call to action) for the CSM manager asking them to assign the account.  Gainsight will then 'listen' for the CSM field to be populated and will fire the onboarding playbook once the field has been updated with the CSM name
 
-While the SAL owns the transition-to-CSM aspect, the CSM Manager will then ensure the new account is assigned to a CSM and Onboarding has commenced.
+While the SAE owns the transition-to-CSM aspect, the CSM Manager will then ensure the new account is assigned to a CSM and Onboarding has commenced.
 
 #### Assignment Resources
 
@@ -141,7 +141,7 @@ On a regular basis, the CSM Manager should review their team's active Onboarding
 On a regular basis the CSM Manager should review their team's [Success Plans](/handbook/customer-success/csm/success-plans/). At a minimum, the review should include:
 
 1. What is the customer's documented strategy and is that aligned to why they bought?
-1. Are all parties (SAL/AE, SA, CSM, customer) aligned on the stated goals?
+1. Are all parties (SAE/AE, SA, CSM, customer) aligned on the stated goals?
 1. If the objectives are met, are they in the customer's best interest?
 1. Are the outcomes measurable (either as a deliverable or quantifiable)?
 1. Is the customer on track to meet or exceed their business outcomes?
@@ -179,7 +179,7 @@ At least twice-monthly the CSM Manager should review their region's dashboard fo
 1. Is the health of each account up to date?
 1. Based on this analysis, what are my next steps for the customer's success and our Gross and Net Retention goals?
 
-The CSM Manager should then work with their CSM to ensure collaboration with the GitLab team (SAL/AE, SA, and CSM) for a successful renewal.
+The CSM Manager should then work with their CSM to ensure collaboration with the GitLab team (SAE/AE, SA, and CSM) for a successful renewal.
 
 ## Renewal Resources
 

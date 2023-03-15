@@ -27,7 +27,7 @@ Process to close PS business (Must be Fixed Fee), charged upfront via AWS Market
 - EM receives signed SOW
 - Confirm all normal EM processes are complete
 - EM to send chatter message to @Prathyusha Lakshmipuram, @peteGoldberg and @sales-support with the information collected below
-- EM or SAL to send the email with offer to the customer -  EMAIL TEMPLATE
+- EM or SAE to send the email with offer to the customer -  EMAIL TEMPLATE
 - Once customer accepts it and we have confirmation from AWS that it has closed, AWS Alliances team will update the SFDC opportunity and Deal Desk will close out the opp as we would with any direct deal.
     - Note: Customer can select whether they require a Purchase Order via the AWS marketplace - this is done wholly between AWS marketplace and customer)
 

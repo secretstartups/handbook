@@ -59,7 +59,7 @@ Meetings are integral to interfacing with customers; whether we are joining a ca
       1. Duration of contract/last renewal date
 1. Locate and study **custom deck** from AE (Link to Custom Pitch Deck in Salesforce or reach out to AE directly)
 1. Perform general research of the company and related industry to give better context.
-1. Reach out to AE/SAL and let them know about the meeting; discuss strategy, insights. Add AE/SAL as optional to all calls. 
+1. Reach out to AE/SAE and let them know about the meeting; discuss strategy, insights. Add AE/SAE as optional to all calls. 
 1. Join the call at least 10-15 minutes early to prepare and be ready to allow customers to join from the waiting room.
 1. Confirm that Chorus is recording and that customer is aware (usually informed through the Calendly invite)
 1. Ensure quick discreet access to:
@@ -74,9 +74,9 @@ Meetings are integral to interfacing with customers; whether we are joining a ca
 
 ## Scale Engagement Request Process
 
-Account owners (AEs, SALs) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to track ad-hoc engagement requests through the [Scale Engagement Request](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/scale-engagement-request) GitLab project to help qualify the engagement and help the CSE prepare for a productive conversation with the customer.
+Account owners (AEs, SAEs) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to track ad-hoc engagement requests through the [Scale Engagement Request](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/scale-engagement-request) GitLab project to help qualify the engagement and help the CSE prepare for a productive conversation with the customer.
 
-### Requesting Scale CSE Engagement (Account Owners only - AEs, SALs)
+### Requesting Scale CSE Engagement (Account Owners only - AEs, SAEs)
 
 Only account owners should file a new issue requesting a Scale CSE engagement for their customer. Other stakeholders at GitLab (Solutions Architects, Support, Professional Services) may identify a potential opportunity for Scale CSE engagement, but ultimately the account owner should be notified to follow through the request process and communicate to the customer that a request has been made.
 

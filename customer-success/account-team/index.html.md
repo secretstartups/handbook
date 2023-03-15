@@ -21,7 +21,7 @@ The account team works together to drive value, success, and growth for a custom
 
 An Enterprise account team is comprised of the following people:
 
-- [Major/Strategic Account Executive (SAE)](/job-families/sales/strategic-account-leader/)
+- [Strategic Account Executive (SAE)](/job-families/sales/strategic-account-executive/)
 - [Solutions Architect (SA)](/job-families/sales/solutions-architect/)
 - [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/csm/services/#csm-alignment)
 
@@ -37,7 +37,7 @@ In Mid-Market, Solutions Architects are pooled so they are not aligned with spec
 
 ## Roles and Responsibilities 
 
-### Account Executive (AE)
+### Strategic Account Executive (SAE) / Account Executive (AE)
 - Negotiates contracts and price on initial sale and renewals
 - Should have a strategy for prospects and how to close
 - Works with the Solutions Architect (SA) on pre-sales prospects and post-sale upgrades
@@ -46,7 +46,7 @@ In Mid-Market, Solutions Architects are pooled so they are not aligned with spec
 ### Solutions Architect (SA)
 - Should lead discovery calls to find out where and why the prospect is having issues in the SDLC
 - Runs POVs and scopes out SOWs
-- The technical advisor to the SAL for prospects and upgrades
+- The technical advisor to the SAE for prospects and upgrades
 - Handle all pre-sale technical activities to be handed off to the CSM after the technical win stage
 - Owns the technical side for responding to RFP/RFIs
 
@@ -79,9 +79,9 @@ Account teams may choose to include the [Sales Development Representative (SDR)]
 
 - *No specific person/role is the boss. You are a TEAM.*
 - Tasks should be agreed upon during the SALSACSM meeting and fall into each person’s area of responsibility.
-- SAs and SALs need to work together to ensure a smooth sales process, from discovery to demo to POV to final sale.
+- SAs and SAEs need to work together to ensure a smooth sales process, from discovery to demo to POV to final sale.
 - SAs and CSMs need to work together to ensure a smooth transition for the customer.
-- CSMs and SALs need to work together to ensure a smooth onboarding, continued customer happiness, growing accounts, driving stage adoption, and to lock in the renewal for years to come.
+- CSMs and SAEs need to work together to ensure a smooth onboarding, continued customer happiness, growing accounts, driving stage adoption, and to lock in the renewal for years to come.
 
 ### Tools to Use During the Meeting 
 

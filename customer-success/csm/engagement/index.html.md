@@ -26,7 +26,7 @@ Customer Success Managers will typically manage customer engagements via a GitLa
 
 1. Somewhere between step 3 and step 7 of the customer journey sequence, a Solutions Architect should create a project for the customer in GitLab and include a Professional Services Engineer and Customer Success Manager who are best aligned with the customer account. This typically only applies to Enterprise accounts.
 2. After the Customer Success Manager has been aligned with the account, they will assign themselves to the “Customer Success Manager” field within Salesforce.
-3. The Customer Success Manager confirms that a new customer project has been created based on the [Enterprise](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template) or the [Commercial](https://gitlab.com/gitlab-com/account-management/commercial/templates/new-customer-project/) Customer Success Plan Template. If it hasn't, they need to create it and work with the Strategic Account Leader/Account Executive and/or Solutions Architect to complete it. This _should_ have been done prior to Customer Success Management involvement for all Enterprise accounts. For Commercial accounts, the CSM will create the project once they receive the account and determine it is beneficial to have a customer project.
+3. The Customer Success Manager confirms that a new customer project has been created based on the [Enterprise](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template) or the [Commercial](https://gitlab.com/gitlab-com/account-management/commercial/templates/new-customer-project/) Customer Success Plan Template. If it hasn't, they need to create it and work with the Strategic Account Executive/Account Executive and/or Solutions Architect to complete it. This _should_ have been done prior to Customer Success Management involvement for all Enterprise accounts. For Commercial accounts, the CSM will create the project once they receive the account and determine it is beneficial to have a customer project.
 4. Follow the steps in the PLEASE-READ-THESE-INSTRUCTIONS.md file.
 
 ### Start a customer upgrade engagement
@@ -38,7 +38,7 @@ Customer Success Managers will typically manage customer engagements via a GitLa
 
 ### Where does a Customer Success Manager fit in?
 
-During the pre-sales process for Enterprise accounts, a Solutions Architect owns the project with assistance from the Strategic Account Leader and should include the Professional Services Engineer if there is one assigned. A Customer Success Manager is involved but only for visibility. Until the account becomes a paying customer the project remains in pre-sales. Once the customer has paid, the Strategic Account Leader will set up the "Welcome to GitLab" call along with the key GitLab employees (SAL, SA, PSE and Customer Success Manager) and the customer. There is a preloaded issue for this in the project template.
+During the pre-sales process for Enterprise accounts, a Solutions Architect owns the project with assistance from the Strategic Account Executive and should include the Professional Services Engineer if there is one assigned. A Customer Success Manager is involved but only for visibility. Until the account becomes a paying customer the project remains in pre-sales. Once the customer has paid, the Strategic Account Executive will set up the "Welcome to GitLab" call along with the key GitLab employees (SAE, SA, PSE and Customer Success Manager) and the customer. There is a preloaded issue for this in the project template.
 
 For Commercial accounts, the Account Executive owns the pre-sales process and [engages a Solutions Architect](/handbook/customer-success/solutions-architects/#commercial-engagement-model) as needed. Once the account becomes a paying customer, the Customer Success Manager will create a customer project if it will be useful to their relationship with the customer, and the Account Executive will schedule a "Welcome to GitLab" call with the customer and the Customer Success Manager.
 
@@ -80,7 +80,7 @@ There are situations when a CSM needs to disengage with a customer. Examples inc
 
 When this happens, it is important to manage the disengagement so that the customer understands the reason, and is clear on who they should communicate with going forward. Here are some recommendations for how to have this conversation:
 
-- Do it in person (or face-to-face via Zoom), and include the SAL/AE since they will retain the relationship.
+- Do it in person (or face-to-face via Zoom), and include the SAE/AE since they will retain the relationship.
 - Be honest about the reason. Each situation will be different, and it's a good idea to talk it over with your manager.
 - Go over their options for assistance going forward (below).
 - Send a follow-up that summarizes what was discussed, including their assistance options.
@@ -88,7 +88,7 @@ When this happens, it is important to manage the disengagement so that the custo
 Recommended options to review with the customer include:
 
 - Troubleshooting, errors, outages, and basic "how to" technical questions should go to Support.
-- Complex "how to" and workflow advice should be sent _in writing_ to the SAL/AE. Doing it in writing lets them work with the whole of Customer Success asynchronously to get the best solution.
+- Complex "how to" and workflow advice should be sent _in writing_ to the SAE/AE. Doing it in writing lets them work with the whole of Customer Success asynchronously to get the best solution.
 - If disengagement is due to the customer downgrading/churning, identify the features they will lose access to with the [feature comparison](https://about.gitlab.com/pricing/feature-comparison/) page. 
 - Online resources such as the GitLab documentation, blog, YouTube channels, [community forum](https://forum.gitlab.com/) and other relevant materials that they can for self-serve guidance.
 
@@ -212,7 +212,7 @@ Since the parameters used to evaluate customer prioritization will change over t
 
 #### Priority exceptions
 
-There are occasions that warrant a customer to be prioritized differently than the model indicates. In cases where the CSM and/or SAL believes this is true, an exception may be made.
+There are occasions that warrant a customer to be prioritized differently than the model indicates. In cases where the CSM and/or SAE believes this is true, an exception may be made.
 
 Examples of when an exception may be appropriate include:
 
@@ -220,7 +220,7 @@ Examples of when an exception may be appropriate include:
 - A customer with large [LAM](/handbook/sales/sales-term-glossary/) but no clear & active growth path
 - A customer with [risk](/handbook/customer-success/csm/health-score-triage/) (which is not factored into the prioritization model) which requires higher engagement to address and mitigate the risk)
 
-In order to make an exception, the CSM or SAL should discuss the details with the members of the [account team](/handbook/customer-success/account-team/#enterprise) and their respective managers. Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
+In order to make an exception, the CSM or SAE should discuss the details with the members of the [account team](/handbook/customer-success/account-team/#enterprise) and their respective managers. Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
 
 ### Growth Accounts
 
@@ -244,7 +244,7 @@ The following two cases require further consideration and/or triage before autom
 
 1. **Low PTC score**: If an account has a 1 or 2 PTC score, this is an important indicator that we need to do discovery with the customer on potential risk as soon as possible. We receive PTC scores 6 months prior to renewal, so we need to act on it quickly and ask the soft renewal question. If the answer is not a clear "yes, we will renew flat or more", then the customer qualifies for red/P1. 
 2. **Non-engagement**: If an account is new to GitLab and does not respond to our introduction or engage within 1 month of purchase, this qualifies them to be red/P1. If an account was previously engaged but doesn't show up to calls anymore, the CSM should send an email immediately after they miss a call, and if we don't hear back from the customer within 1 week, they then qualify for red/P1.
-    - The CSM should attempt to reach out 2-3 times with the contacts they have available. If they are not successful, the Sales team should own the outreach going forward, whether that is the SAL, AE, or ISR. CS and Sales leadership can also be requested to reach out to the customer, if provided context and an email template.
+    - The CSM should attempt to reach out 2-3 times with the contacts they have available. If they are not successful, the Sales team should own the outreach going forward, whether that is the SAE, AE, or ISR. CS and Sales leadership can also be requested to reach out to the customer, if provided context and an email template.
 
 #### Onboarding Prioritization
 
@@ -259,7 +259,7 @@ Customer growth is the pillar of what the Growth CSMs do. Much of that growth is
 
 The CSM has the autonomy to review potential growth opportunities in their customer base and determine if the account would benefit from being classified as P1 with additional attention and sync calls.
 
-If the growth opportunity is an uptier from Premium to Ultimate, [the SAL/AE and SA](/handbook/customer-success/#overlap-between-solution-architects-and-customer-success-managers) should be leading this engagement, as it's a pre-sales motion, but the CSM should be involved throughout the process, keeping up to date on requirements, feedback, etc. to ensure that when a customer does upgrade, there is a seamless transition from planning to implementation.
+If the growth opportunity is an uptier from Premium to Ultimate, [the SAE/AE and SA](/handbook/customer-success/#overlap-between-solution-architects-and-customer-success-managers) should be leading this engagement, as it's a pre-sales motion, but the CSM should be involved throughout the process, keeping up to date on requirements, feedback, etc. to ensure that when a customer does upgrade, there is a seamless transition from planning to implementation.
 
 #### Prioritization Differences
 

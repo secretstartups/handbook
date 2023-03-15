@@ -41,7 +41,7 @@ Follow this link for the Success Plan certification on LevelUp: [Click here](htt
 Before we can develop a success plan, we need to understand what is driving the customer's usage of GitLab. This goes beyond the features they are interested in, and extends to the business value GitLab provides.
 
 - Review the opportunity [Command Plan](/handbook/sales/command-of-the-message/command-plan/) in Salesforce
-- Work with the SAL/AE and SA to understand the customer's reasons for purchasing (e.g. [Value Driver](/handbook/sales/command-of-the-message/#customer-value-drivers)) and their expectations or Positive Business Outcomes (PBOs), as well as any potential risks or barriers, key stakeholders, and any other relevant information regarding their desire to use GitLab
+- Work with the SAE/AE and SA to understand the customer's reasons for purchasing (e.g. [Value Driver](/handbook/sales/command-of-the-message/#customer-value-drivers)) and their expectations or Positive Business Outcomes (PBOs), as well as any potential risks or barriers, key stakeholders, and any other relevant information regarding their desire to use GitLab
 - [Prepare discovery questions to discuss with the customer](/handbook/customer-success/csm/success-plans/questions-techniques/) to collect any missing information
 - Review [account onboarding](/handbook/customer-success/csm/onboarding/) and [account engagement](/handbook/customer-success/csm/engagement/) for additional information that is useful to collecting information and developing a relationship
 
@@ -139,7 +139,7 @@ To share a ROI Success Plan, click the link icon next to the success plan due da
 
 #### Account Plan 
 
-The [account plan](/handbook/sales/account-planning/) is owned by the SAL or AE on an account, with the CSM and SA as contributors.  The account plan focuses on the account team's strategy to win, retain, and expand the partnership and business relationship with key customers
+The [account plan](/handbook/sales/account-planning/) is owned by the SAE or AE on an account, with the CSM and SA as contributors.  The account plan focuses on the account team's strategy to win, retain, and expand the partnership and business relationship with key customers
 
 ## Components of a Success Plan
 

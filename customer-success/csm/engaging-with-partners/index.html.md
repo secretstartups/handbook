@@ -9,9 +9,9 @@ title: "Engaging with Partners"
 
 ### Pre-Customer Kick-Off or 1st Engagement:
 
-1. GitLab Partner team introduces CSM & SAL/AE to Partner - ideally before sale closes to not slow down post-sales implementation
+1. GitLab Partner team introduces CSM & SAE/AE to Partner - ideally before sale closes to not slow down post-sales implementation
 
-1. CSM and SAL/AE connects with Partner to align on the role the Partner will play post-sale.  
+1. CSM and SAE/AE connects with Partner to align on the role the Partner will play post-sale.  
 
    * If the Partner has an ongoing engagement with the customer, CSM & Partner to align on post-sale Kick-Off call, collaborating on the Kick-Off deck content and ownership/roles for the call
 

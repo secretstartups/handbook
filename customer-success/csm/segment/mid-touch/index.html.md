@@ -85,7 +85,7 @@ CSMs provide enablement webinars and adhoc sessions to ensure the customer has k
 
 ### Expand and Renew
 
-Expansion is primarily driven by the SAL or AE in this segment, though a key driver for expansion is product enablement and familiarity. Webinars are the primary means of driving interest for customers into new segments, the success of which is tracked through customer engagement scorecards and product usage data insights around new use cases adopted. Low-license utilization reports will focus the CSM on identifying those customers at risk of contraction. The renewal NPS/CSAT survey 110 days before renewal enables the CSM to identify customers that may be challenged at the point of renewal and are not easily identifiable as challenged through product usage data.
+Expansion is primarily driven by the SAE or AE in this segment, though a key driver for expansion is product enablement and familiarity. Webinars are the primary means of driving interest for customers into new segments, the success of which is tracked through customer engagement scorecards and product usage data insights around new use cases adopted. Low-license utilization reports will focus the CSM on identifying those customers at risk of contraction. The renewal NPS/CSAT survey 110 days before renewal enables the CSM to identify customers that may be challenged at the point of renewal and are not easily identifiable as challenged through product usage data.
 
 1. Consistent enablement and expansion webinars and attendance
    1. 3 webinars or workshops per quarter per CSM

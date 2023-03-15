@@ -64,8 +64,8 @@ Projects should be created with a Visibility Level of Private.
 
 #### Please follow these instructions when you receive a customer from pre-sales
 
-1. Check with the SA or SAL if a collaboration project was used in pre-sales, it should be located in [account-management/pre-sales](https://gitlab.com/gitlab-com/account-management/pre-sales).
-2. Check in with the SAL and SA if they want to remove issues before the move.
+1. Check with the SA or SAE if a collaboration project was used in pre-sales, it should be located in [account-management/pre-sales](https://gitlab.com/gitlab-com/account-management/pre-sales).
+2. Check in with the SAE and SA if they want to remove issues before the move.
 3. If the project exists, create a subgroup in [gitlab-com/account-management/](https://gitlab.com/gitlab-com/account-management)/[SEGMENT] named like the customer.
 4. Navigate to the existing collaboration project.
 5. Go to Settings > General > Expand Advanced Settings > Transfer Project - move the project to [gitlab-com/account-management/](https://gitlab.com/gitlab-com/account-management)/[SEGMENT]/[CUSTOMER-GROUP].

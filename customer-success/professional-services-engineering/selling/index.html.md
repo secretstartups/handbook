@@ -39,24 +39,24 @@ graph LR;
 
 ### Step 1: Identify the right service
 
-The SAL/ISR can find the general services the PS team offers on the [services page](/services/) or for more details specific SKU offerings, on the [full catalog](/services/catalog/). The SAL/ISR can pull the SA/CSM in for help selecting services needed based on customer requirements.
+The SAE/ISR can find the general services the PS team offers on the [services page](/services/) or for more details specific SKU offerings, on the [full catalog](/services/catalog/). The SAE/ISR can pull the SA/CSM in for help selecting services needed based on customer requirements.
 
 ### Step 2: Create the opportunity in SFDC
 
-The SAL/ISR [creates a Professional Services Only opportunity](/handbook/sales/field-operations/gtm-resources/).
+The SAE/ISR [creates a Professional Services Only opportunity](/handbook/sales/field-operations/gtm-resources/).
 
 #### Standard Services Only
-If the customer only needs standard services from the service catalog, the SAL/ISR can generate the quote from within the newly created SFDC PS opportunity by:
+If the customer only needs standard services from the service catalog, the SAE/ISR can generate the quote from within the newly created SFDC PS opportunity by:
 1. click `New Quote`.
 1. fill in the required contact information and date fields.
 1. click `next`.
 1. Click the drop down box next to the New Quote Flow and select `Add Add on Products`.
 1. In the Professional Services and Training Row, click the drop down that says `Select Plan` to see the current SKU offerings that can be added to the opportunity.
 
-After following the above process steps, click `Generate PDF` to obtain an Order Form to share with the customer for signature.  The SAL/ISR should meet with the customer to review the service deliverables, duration, and pricing and should confirm no customizations are needed. Again, they can pull in the SA for assistance if needed.
+After following the above process steps, click `Generate PDF` to obtain an Order Form to share with the customer for signature.  The SAE/ISR should meet with the customer to review the service deliverables, duration, and pricing and should confirm no customizations are needed. Again, they can pull in the SA for assistance if needed.
 
 #### Custom-Scoped Services
-If the account team (SAL/ISR/SA/CSM) determines that the customer requires additional services outside of those listed in the [full catalog](/services/catalog/), they should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and submitting with the information required (customer name, GitLab username and email address). If you don't know the specifics, you can submit with the defaults. This will add an issue to the  PS Engagement Manager's queue to follow up with you on next steps. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details.
+If the account team (SAE/ISR/SA/CSM) determines that the customer requires additional services outside of those listed in the [full catalog](/services/catalog/), they should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and submitting with the information required (customer name, GitLab username and email address). If you don't know the specifics, you can submit with the defaults. This will add an issue to the  PS Engagement Manager's queue to follow up with you on next steps. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details.
 
 #### Instructions for creating a Professional Services Quote
 Deal Desk with require a quote for either Service option above.  How to create a quote can be found [here](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#professional-services-quote).
@@ -70,7 +70,7 @@ For custom scoped SOWs, once you receive the SOW from the Sr. Engagement Manager
 ### Step 4: Close the opportunity
 
 #### Closed Won
-Once the services have been rendered and the project is closed, the SAL/ISR should obtain signatures from the customer. The SAL/ISR should move the opportunity to `Closed Won` status
+Once the services have been rendered and the project is closed, the SAE/ISR should obtain signatures from the customer. The SAE/ISR should move the opportunity to `Closed Won` status
 
 As the agreement approaches `Closed Won`, make sure to request `@ps-scheduling` to  identify a potential start date in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) given the [typical lead times for starting a PS engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement).
 

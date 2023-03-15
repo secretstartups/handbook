@@ -18,7 +18,7 @@ The short answer is that it helps us manage the business and eases the selling p
 
 We need a way to determine market trends using bookings and revenue data. We categorize the services we sell into the below taxonomy to measure bookings and revenue to identify market trends. This will help us make data driven investment prioritization decisions rather than judgement calls. Additionally, we need a way to understand the delivery forecast by specific service category and type to ensure we have the staffing and/or partnerships in place to be able to deliver.  
 
-There are many people involved in the selling and delivery of services: the customer, the account team (SA, CSM, SAL), the PS engagement manager, the PS project coordinator, the PS project manager, the PS Engineer (and as we introduce partner selling motions, there could be many more). Its important for everyone to use the same universally-understood language to minimize ambiguity. This will help improve our scoping accuracy, reduce overages, improve predictability, and increase overall Customer Satisfaction.
+There are many people involved in the selling and delivery of services: the customer, the account team (SA, CSM, SAE), the PS engagement manager, the PS project coordinator, the PS project manager, the PS Engineer (and as we introduce partner selling motions, there could be many more). Its important for everyone to use the same universally-understood language to minimize ambiguity. This will help improve our scoping accuracy, reduce overages, improve predictability, and increase overall Customer Satisfaction.
 
 ### Services Taxonomy 
 1. **Categories**: Currently Professional Services offers two major categories of services: `Education` and `Consulting`. 

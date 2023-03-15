@@ -88,7 +88,7 @@ Understand what [stages](/handbook/customer-success/csm/stage-adoption/) the cus
 
 #### Opportunities
 
-Review the open opportunities for the account; is there an upcoming renewal, or is there an upgrade potential? Additionally, by clicking into a closed-won opportunity, you can access the command plan that SALs/AEs complete during the sales process.
+Review the open opportunities for the account; is there an upcoming renewal, or is there an upgrade potential? Additionally, by clicking into a closed-won opportunity, you can access the command plan that SAEs/AEs complete during the sales process.
 
 #### Salesforce Activities
 
@@ -110,7 +110,7 @@ Read through past meeting notes to get full clarity of the history of our engage
 
 #### Meeting History
 
-It can be helpful to look at the history of the types of calls the previous account team has had with the customer. This information most likely can already be found in the meeting notes and/or Gainsight timeline, but if you want to get a list for a high-level understanding of the face-to-face meetings the customer has been involved in, you can pull up the calendars of the SAL/AE, SA, and CSM and search for the customer name in Google Calendar to get a list of all meetings they've had with them in chronological order.
+It can be helpful to look at the history of the types of calls the previous account team has had with the customer. This information most likely can already be found in the meeting notes and/or Gainsight timeline, but if you want to get a list for a high-level understanding of the face-to-face meetings the customer has been involved in, you can pull up the calendars of the SAE/AE, SA, and CSM and search for the customer name in Google Calendar to get a list of all meetings they've had with them in chronological order.
 
 #### Chorus Recordings
 

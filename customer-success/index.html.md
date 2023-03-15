@@ -94,7 +94,7 @@ See the [Terrain Mapping Engagements Page](/handbook/customer-success/customer-t
 
 ## Account Team
 
-The account team is comprised of the Strategic Account Leader/Account Executive, Solutions Architect (Enterprise), and Customer Success Manager.
+The account team is comprised of the Strategic Account Executive/Account Executive, Solutions Architect (Enterprise), and Customer Success Manager.
 
 [More information about the account team](/handbook/customer-success/account-team/)
 

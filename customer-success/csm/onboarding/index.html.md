@@ -86,7 +86,7 @@ The completion of this second customer call marks the completion of customer onb
 Once onboarding is complete, close the onboarding CTA and then move the customer into the `Adoption` phase of the customer lifecycle in Gainsight.
 
 By accomplishing the following tasks, you'll know you have completed onboarding:
-- [ ] Complete internal handoff, where CSM reviews the command plan, adoption goals, priorities, and stakeholders with the SAL/AE and SA
+- [ ] Complete internal handoff, where CSM reviews the command plan, adoption goals, priorities, and stakeholders with the SAE/AE and SA
 - [ ] Assign `GitLab Admin` and/or other persona roles to primary contacts
 - [ ] Complete kickoff call, where the CSM:
    - [ ] Leads introductions (Less than 5 minutes)

@@ -90,21 +90,21 @@ If the Solutions Architect has created a collaboration project, the [account tea
 
 ### CSM introduction to the customer
 
-Following the internal account team meeting, the SA should set up a CSM introduction meeting with the customer. When arranging this meeting, the SA can provide the customer with a high-level overview of the CSM role, and what the CSM engagement _might_ look like going forward. However, the SA (and SAL) should refrain from making any statements on behalf of the CSM, as to what activities they _will_ do.
+Following the internal account team meeting, the SA should set up a CSM introduction meeting with the customer. When arranging this meeting, the SA can provide the customer with a high-level overview of the CSM role, and what the CSM engagement _might_ look like going forward. However, the SA (and SAE) should refrain from making any statements on behalf of the CSM, as to what activities they _will_ do.
 
 Prior to the customer meeting, the CSM should work with the SA to prepare the [CSM program overview deck](https://docs.google.com/presentation/d/1fsIFLcecs6nQxR7g5MHDTT71tx3b1aW9b3d2RX6ZOLk/edit) to be presented as part of the meeting. This will be starting point of the CSM's relationship with the customer, and it's important to convey what the CSM's role is, and the expectations from both sides moving forward. As this one agenda item of the SA's meeting with the customer, the CSM portion should not be extensive and should be used to set the stage for future conversations.
 
 While the opportunity progresses through commercial discussions, the CSM should engage with the SA where appropriate, in order to maintain the relationships with the strategic personnel and decision makers within the organisation.
 
-### Shifting responsibility from SAL & SA to CSM
+### Shifting responsibility from SAE & SA to CSM
 
 Once the opportunity moves [stage](/handbook/sales/field-operations/gtm-resources/) to `Closed Won` the CSM should schedule the kickoff meeting with the customer to go into more detail about the customer's objectives and the CSM program. Please [review the details for the CSM kickoff call](/handbook/customer-success/csm/onboarding/#kickoff-call) to learn more about how to conduct this meeting.
 
-Now that the account is in post-sales, the CSM takes primary responsibility for guidance & best practices conversations, customer enablement, and product usage. Most responsibilities of the SAL & SA will transition to the CSM at this point.
+Now that the account is in post-sales, the CSM takes primary responsibility for guidance & best practices conversations, customer enablement, and product usage. Most responsibilities of the SAE & SA will transition to the CSM at this point.
 
 During customer onboarding, the SA may choose to stay engaged with the customer to help facilitate a seamless introduction and address any ongoing activities from the POV. This should be done in such a way as to allow the CSM to take over those activities, so all conversations with the customer on these items should include the CSM.
 
-Once the account is fully transitioned to post-sales, the SA may be invited by the CSM to [re-engage under certain circumstances](#re-engaging-the-salae-and-sa).
+Once the account is fully transitioned to post-sales, the SA may be invited by the CSM to [re-engage under certain circumstances](#re-engaging-the-saeae-and-sa).
 
 ## Commercial CSM Transition Process
 
@@ -139,11 +139,11 @@ Once the account is fully transitioned to post-sales, the SA may be invited by t
 
 The SA may also be involved, as needed and at the discretion of the SA & their manager, to support customer enablement, EBR delivery, product demo, or other customer-facing activities for which the CSM may ask for assistance.
 
-## Re-Engaging the SAL/AE and SA
+## Re-Engaging the SAE/AE and SA
 
-Common to both Enterprise and Commercial activity, there are instances where the CSM will need to reengage the SAL/AE and SA. Here are a few examples of customer requests the CSM can listen for in order to reengage them: 
+Common to both Enterprise and Commercial activity, there are instances where the CSM will need to reengage the SAE/AE and SA. Here are a few examples of customer requests the CSM can listen for in order to reengage them: 
 
-  - Development of expansion plans with the SAL and CSM leading to tier upgrades
+  - Development of expansion plans with the SAE and CSM leading to tier upgrades
   - A POV, product evaluation, RFP, or security begins for a "new" single team or an enterprise-wide tier upgrade not for renewal purposes
   - SAs may assist CSMs with an existing customer team on an exception basis. SA leadership approval is required.
     - Customer enablement assistance when specifically requested by the CSM team

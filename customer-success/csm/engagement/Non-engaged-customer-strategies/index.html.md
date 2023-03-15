@@ -14,9 +14,9 @@ The playbook contains the following steps:
 
 ## Playbook
 
-1. Sync with SAL/AE on a reach-out strategy
+1. Sync with SAE/AE on a reach-out strategy
    - CSM to day to day contacts
-   - SAL to buyers /influencers/ anyone else they have relationships with
+   - SAE to buyers /influencers/ anyone else they have relationships with
    - SDR to any contacts outside of our relationship
 1. Create a compelling message (s) : Review objectives of the customer and fashion messaging for ‘why’ the customer should engage with us.  Consider the following:
    1. We know they are migrating from another platform, so offer training & enablement
@@ -35,7 +35,7 @@ The playbook contains the following steps:
 - Any known GitLab usernames, check for activity on issues. Try to follow-up to see if they implemented or found workarounds.
 - Google docs meeting notes - look for any Positive Business Outcomes (PBOs) or Required Capabilities, or tech stack mentions.
 - Previous Chorus meetings, find people and reasons to inquire if they were successful, ask for a meeting to see how we can help.
-- SDRs to help prospect, and alert SAL/AE/SA/CSM on meetings or responses. CSM to give SDR pointers on relevant topics.
+- SDRs to help prospect, and alert SAE/AE/SA/CSM on meetings or responses. CSM to give SDR pointers on relevant topics.
 - If different from who we normally work with, contact economic buyer from license app or SFDC
 - If large enough, ask exec group and board for networking/introductions
 - Perform a news search for any major events such as acquisitions, layoffs, product launches

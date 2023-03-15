@@ -78,7 +78,7 @@ Prior to the call, review the following items:
 - Open CTAs
 - Last timeline entry/notes doc to ensure follow-up items were closed out and if not, follow up on them during the next call
 - Renewal date to be aware of upcoming renewal
-- License utilization - if it is lower and the customer is in the second half of their annual contract, discuss the trends around this and expected behavior; if it is above or close to their purchased amount, ensure they are aware and loop in your SAL/AE
+- License utilization - if it is lower and the customer is in the second half of their annual contract, discuss the trends around this and expected behavior; if it is above or close to their purchased amount, ensure they are aware and loop in your SAE/AE
 - Use case scoring, identifying areas where the customer is not green - discuss one or two on the call and include the value of adoption these areas and suggest enablement opportunities
 
 With every customer call, always be sure to have an agenda prepared and share it with the customer in advance. Here is [a template](https://docs.google.com/document/d/1sAt4dFCnPm0vupfFEpZT9dCFLfhgdfCdcj0nOjCM9SI/edit) that some CSMs use to prepare agendas for customer meetings.
@@ -160,7 +160,7 @@ At the end of each customer call any changes to customer health should be reflec
 - If you're comfortable in writing in [Markdown format](/handbook/markdown-guide/), use it to quickly structure your notes in real time.
 - Allow yourself time directly after the call to clean up your notes. Avoid scheduling back-to-back meetings.
 - Practice slowing down call conversations. Stopping the dialog for a few seconds to say “let me write that down” tells the customer what they said is important to you.
-- Ask your SAL/AE/SA to take notes with you. After the meeting combine and add detail.
+- Ask your SAE/AE/SA to take notes with you. After the meeting combine and add detail.
 - Use [Chorus](/handbook/business-technology/tech-stack/#chorus) to record your calls so there's less pressure for you to take note of everything.
 - Sometimes it makes sense for somebody on the [account team](/handbook/customer-success/account-team/) to go back through the call in Chorus to transcribe it.
 - Write notes in whatever is easiest and always copy them to the source of truth meeting notes doc. If you can write them in the source of truth in the first place, you’ll be more efficient and consistent, and your account team will be able to follow along real-time.

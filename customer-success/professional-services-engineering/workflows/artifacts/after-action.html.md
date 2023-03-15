@@ -4,7 +4,7 @@ title: After Action Reports
 category: Artifacts
 ---
 
-The following reports are templates to be filed after a particular activity takes place.  These reports should be distributed to, at a minimum, the customer's SAL, the customer's CSM, your manager and the customer's contacts where appropriate.
+The following reports are templates to be filed after a particular activity takes place.  These reports should be distributed to, at a minimum, the customer's SAE, the customer's CSM, your manager and the customer's contacts where appropriate.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
