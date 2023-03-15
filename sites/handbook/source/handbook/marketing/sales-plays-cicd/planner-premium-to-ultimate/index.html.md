@@ -55,7 +55,7 @@ Emphasis on large due to the relation to verticals + regulated industries, but a
 
 
 #### **Sales teams** {#sales-teams}
- SALs, Account managers, and CSMs
+ SAEs, Account managers, and CSMs
 
 
 #### **Pipeline goal**  {#pipeline-goal}

@@ -23,7 +23,7 @@ Note: Think of a sales play as a recipe. If you follow the recipe, we can achiev
 **Objective** - Convert landed accounts that are already using [CI/CD](/topics/ci-cd/) to expand from GitLab Premium to GitLab Ultimate.
 
 Who is this sales play for?  
-* Primary: SALs and AEs who call on one or more existing GitLab Premium customers  
+* Primary: SAEs and AEs who call on one or more existing GitLab Premium customers  
 * Secondary: SAs and CSMs who support one or more existing GitLab Premium customers  
 
 *Note: This play is FYI only for SDRs because it is upselling tiers, not necessarily expanding seats.*
@@ -202,7 +202,7 @@ These are Sales prescriptive actions to initiate engagement with target audience
 
 **Strategy**
 
-For Enterprise and MM, sales will do active outreach to customers to engage them in conversation using the recommended email templates and conversation flow below, modifying as needed. These accounts will **not** be included in the **automated** email campaign. This allows the SALs greater control over who is contacted in their accounts, and the contacts can be more personal.
+For Enterprise and MM, sales will do active outreach to customers to engage them in conversation using the recommended email templates and conversation flow below, modifying as needed. These accounts will **not** be included in the **automated** email campaign. This allows the SAEs greater control over who is contacted in their accounts, and the contacts can be more personal.
 
 
 **ENT and MM Sales Actions**
