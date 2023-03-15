@@ -52,7 +52,7 @@ FMMs should work with Large & MM sales teams to determine these cities.
 
 ### [GitLab Connect](https://www.youtube.com/watch?v=aKwpNKoI4uU)
 
-GitLab Connect is a full or half day event with both customers and prospects in attendance sharing stories & lessons learned about GitLab. SAL's will be responsible for asking customers to speak and Marketing, through a combination of SDR outreach, database and ad geotargeting will drive attendance to the event. If you would like to propose a GitLab Connect in your city, please follow [these instructions](/handbook/marketing/events/#suggesting-an-event) for requesting an event. Interested in seeing a GitLab Connect in action? [Check it out.](https://www.youtube.com/watch?v=aKwpNKoI4uU)
+GitLab Connect is a full or half day event with both customers and prospects in attendance sharing stories & lessons learned about GitLab. SAE's will be responsible for asking customers to speak and Marketing, through a combination of SDR outreach, database and ad geotargeting will drive attendance to the event. If you would like to propose a GitLab Connect in your city, please follow [these instructions](/handbook/marketing/events/#suggesting-an-event) for requesting an event. Interested in seeing a GitLab Connect in action? [Check it out.](https://www.youtube.com/watch?v=aKwpNKoI4uU)
 
 ### Field Marketing Owned Virtual Events
 
@@ -332,7 +332,7 @@ If you have a quick 1 off question on reporting, then please feel free to ask th
 If you have several questions or a more robust analysis of data you'd like help with, please open a [FMM leadership request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=leadership_request) and assign it to your manager. Your manager will review and will pull in the Director or other folks as needed.
 
 #### Field Marketers within SFDC
-To help with reporting within SFDC, each Field Marketing Manager is assigned the accounts based on SAL/AE assignment. Field Marketing has decided to align with the SAL/AE vs. 100% geo focused in an effort to foster collaboration.  The assignments are done through [Lean Data](/handbook/marketing/marketing-operations/leandata/), which is our lead routing tool.
+To help with reporting within SFDC, each Field Marketing Manager is assigned the accounts based on SAE/AE assignment. Field Marketing has decided to align with the SAE/AE vs. 100% geo focused in an effort to foster collaboration.  The assignments are done through [Lean Data](/handbook/marketing/marketing-operations/leandata/), which is our lead routing tool.
 
 Routing for geo reps is done through zip codes worldwide. Named accounts and the US Public Sector are manually handled differently. Sales Ops will run monthly audits to update PubSec and Named accounts. Field Marketing Management works with Sales Ops to keep this information up to date.
 
@@ -1498,7 +1498,7 @@ using the Direct Mail campaign status progressions. (for example, when a person'
 <summary>Expand below to see details regarding Account-Centric Micro-Campaigns</summary>
 
 
-The purpose of the regional integrated micro-campaign is to build and drive a specific strategy in a region (with a specific list of targeted accounts/look-a-like accounts). This could be based on intent data pulled from our ABM tool, DemandBase, or it could be based on accounts you’ve agreed to target with your SAL. A micro-campaign must include a minimum of 2 different account-centric tactics.
+The purpose of the regional integrated micro-campaign is to build and drive a specific strategy in a region (with a specific list of targeted accounts/look-a-like accounts). This could be based on intent data pulled from our ABM tool, DemandBase, or it could be based on accounts you’ve agreed to target with your SAE. A micro-campaign must include a minimum of 2 different account-centric tactics.
 
 **For example:**
 
@@ -1506,7 +1506,7 @@ The purpose of the regional integrated micro-campaign is to build and drive a sp
 
 ### What does Account-Centric mean?
 
-At times, Field Marketing will run an account-centric approach to its in-region campaigns. Account-Centric is an approach where both sales and marketing are focusing their efforts on a very specific list of targeted accounts in order to increase engagement and ultimately pipeline creation within this list of accounts. The SAL/FMM/SDR are responsible for outlining which accounts are account-centric and accounts can easily pop in and out of being in the account-centric play based on the strategy that’s being executed.
+At times, Field Marketing will run an account-centric approach to its in-region campaigns. Account-Centric is an approach where both sales and marketing are focusing their efforts on a very specific list of targeted accounts in order to increase engagement and ultimately pipeline creation within this list of accounts. The SAE/FMM/SDR are responsible for outlining which accounts are account-centric and accounts can easily pop in and out of being in the account-centric play based on the strategy that’s being executed.
 i.e. If a FMM is targeting to get 15 people into an interactive roundtable discussion, that will greatly impact the number of accounts that are targeted for that specific tactic vs if they were trying to 100+ people into that same discussion.
 
 ### How to track the ROI of your Account-Centric approach
@@ -1668,7 +1668,7 @@ At this time, SimplyDirect is only used by our AMER Field Marketing team.
 #### Successful Usage
 Strategic success is contingent upon close alignment and communication between Marketing and Sales. Marketing will work collaboratively with Sales, Product Marketing and Campaign Managers to develop the survey. Best practice for the survey is 10 questions max. SDR’s will create a follow-up Outreach sequence to leverage when reaching out to those who’ve completed the survey.
 
-Once the survey is complete, SDR’s will leverage the individual results and work with their SAL to:
+Once the survey is complete, SDR’s will leverage the individual results and work with their SAE to:
 - Identify points of interest in the survey pertaining to each individual response (i.e. pain points, number of tools, etc)
 - Create a strategy based on matching those issues with GitLab offerings
 - Customize their outreach communications to initiate conversations towards setting a IQM
@@ -1679,7 +1679,7 @@ Our focus will be geared towards key-decision makers or fellow team members who 
 Examples of personas/titles include: Director/VP of Engineering, Director / VP of Machine Learning (or AI), Director/VP of Enterprise Architecture, Director/VP of Product Development/Engineering, VP of Digital Transformation, Director of Applications, Director of Security (Information Security, IT Security, Application Security), VP of Operations.
 
 #### Phases for SimplyDirect
-- **Phase 1:** Sales and Marketing create the survey and share the target accounts and personas with SimplyDirect. Upon completion, SimplyDirect sends out the survey and shares survey results with the GitLab team via the SimplyDirect portal. The account list shared with SimplyDirect has an SDR assigned to each account so the tool will send the assigned SDR an email notifying them when a survey is completed. FMM will share the portal website, username, and password in the issue for SDRs or SALs to access survey results and analytics. FMM will also provide SDRs with training before launch on how to navigate the portal and share SimplyDirect's best practices. This phase is considered complete once the predetermined number of survey responses is achieved (number of responses will be identified in the SOW). Please note that a gift is sent to survey respondents by SimplyDirect as a thank you for completing the survey (Example: Columbia Jacket/Fleece). SimplyDirect also creates a detailed Pulse Report with survey results when the phase is completed and provides it to GitLab along with a list of high-intent targets who did not complete the survey (see Phase 3 details on how to utilize these additional targets). Access to the portal is not indefinite so a report should be pulled from the SimplyDirect portal in order to add survey responses to our own tracking sheet if needed.
+- **Phase 1:** Sales and Marketing create the survey and share the target accounts and personas with SimplyDirect. Upon completion, SimplyDirect sends out the survey and shares survey results with the GitLab team via the SimplyDirect portal. The account list shared with SimplyDirect has an SDR assigned to each account so the tool will send the assigned SDR an email notifying them when a survey is completed. FMM will share the portal website, username, and password in the issue for SDRs or SAEs to access survey results and analytics. FMM will also provide SDRs with training before launch on how to navigate the portal and share SimplyDirect's best practices. This phase is considered complete once the predetermined number of survey responses is achieved (number of responses will be identified in the SOW). Please note that a gift is sent to survey respondents by SimplyDirect as a thank you for completing the survey (Example: Columbia Jacket/Fleece). SimplyDirect also creates a detailed Pulse Report with survey results when the phase is completed and provides it to GitLab along with a list of high-intent targets who did not complete the survey (see Phase 3 details on how to utilize these additional targets). Access to the portal is not indefinite so a report should be pulled from the SimplyDirect portal in order to add survey responses to our own tracking sheet if needed.
 - **Phase 2:** Leads are uploaded to SFDC automatically through our SimplyDirect<>Marketo integration and SDRs can set up an Outreach sequence to follow-up with these leads by sharing the Pulse Report. There is also an option of a swag giveaway at this phase if a meeting is booked/attended.
 - **Phase 3:** SimplyDirect gathers a list of additional high-intent targets (also contracted in the SOW) that have not opted in to be contacted by GitLab directly. In order to try to capture these additional leads, we can create a Pathfactory track that requires visitors to enter in their contact information to view the track (which includes the Pulse Report and other assets). SimplyDirect includes this Pathfactory link in their follow-up email to the additional contacts. Anyone who enters their contact information in Pathfactory can be sent a follow-up by GitLab.
 

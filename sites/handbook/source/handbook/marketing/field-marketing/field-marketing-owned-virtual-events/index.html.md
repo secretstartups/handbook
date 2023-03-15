@@ -546,7 +546,7 @@ This section focuses on best practices, timelines and logistical set up for a Fi
 * Marketo program, SFDC campaign: FMC
 * Landing page, email creation: Verticurl
 * Host dry run and run day-of event Zoom meeting: FMM
-* Day of event moderator: SAL / ISR
+* Day of event moderator: SAE / ISR
 
 ## Definitions Throughout this Page
 
@@ -673,7 +673,7 @@ In order to cap registration, we remove the registration form on the Landing Pag
 1. Work with Customer Success team (SAs) to identify the lead instructors/presenters. You must have your lead instructor identified at this time and work together to select a date.  
 1. Once a date has been confirmed, Lead SA must coordinate with the Demo Engineer (Logan Stucker) to obtain the demo environment redemption code and discuss SLAs to ensure demo meets code requirements.
 1. If the audience is account centric, if you are not doing paid social media, or need your own workshop due to your account goals, consider [Self-Service without Promotion](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#self-service-with-or-without-promotion-1). Sales can run on their own, or with field marketing. If not, then it would qualify as a Webcast. [Click here for virtual events decision tree for more information.](/handbook/marketing/virtual-events/#decision-tree)   
-1. Work with the Sales Team to identify who your Moderator (MC) will be; recommend this be one of your SALs. Moderator will set the tone for the workshop as well as introduce presenters throughout the event and announce poll questions/answers.
+1. Work with the Sales Team to identify who your Moderator (MC) will be; recommend this be one of your SAEs. Moderator will set the tone for the workshop as well as introduce presenters throughout the event and announce poll questions/answers.
 1. Create a [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_zoom_license_date)
    - The date reservation request must be submitted no less than 32 business days prior to event date for existing copy and content and 45 days prior to the event date for new copy and content.  
    - For workshops, the moderator and lead SA must be secured in order to reserve the date.
@@ -909,7 +909,7 @@ Now that the event is over, it is important to consolidate all of the informatio
 
 1. At the completion of the event, take the number of attendees and add them to a random number generator to select your winner(s).  You can choose how many times you would like to randomize, but usually 3 or 4 times will do it.  Select the number of winners based on your prizes from the top of the list.
 1. Once the winner(s) have been selected, send an email ([click here for template](https://docs.google.com/document/d/1EHGBy9VXEfp6cDDla56a31nChkR4BIv8rmhaii_SRNE/edit)) to the winner(s) to notify them that they’ve won and collect an address to ship the 
-prize to. Option to CC the SAL who is tied to the account to allow them visibility / allow for possible follow up meeting. 
+prize to. Option to CC the SAE who is tied to the account to allow them visibility / allow for possible follow up meeting. 
 1. Once you have the responses from the winner(s), ship the prizes, delete the email with the address and if possible do not save the shipping address in your Amazon/Best Buy account or delete immediately after delivery.  
 
 #### Event Close Process
@@ -941,7 +941,7 @@ If you have a new workshop idea/topic, you can build out a Parent Epic for that 
 | Time | Agenda Topic | Presenter Role | Name |
 | ------ | ------ | ------ | ---- |
 | 09:00-09:10 | Welcome | Moderator / MC |  | 
-| 09:10-09:20 | Introduction to GitLab | SAL/ASM |   | 
+| 09:10-09:20 | Introduction to GitLab | SAE/ASM |   | 
 | 09:20-09:40 | Using GitLab as a PM tool | SA | |
 | 09:40-09:50 | Lab for Project Management | SA |  |
 | 09:50-10:00 | Q/A | Q/A | SAs |
