@@ -25,7 +25,7 @@ Enablement focuses on improving our capabilities and metrics in the following ar
  * [Gitaly](/handbook/engineering/development/enablement/systems/gitaly/)
  * [Application Performance](/handbook/engineering/development/enablement/data_stores/application_performance/)
  * [Global Search](/handbook/engineering/development/enablement/data_stores/search/)
- * [Pods (formerly Sharding)](/handbook/engineering/development/enablement/data_stores/pods/)
+ * [Tenant Scale](/handbook/engineering/development/enablement/data_stores/tenant-scale/)
 
 ## Fiscal Year 2023 Direction
  * Significantly improve the scalability of database by completing the CI decomposition and continuing to the next phase of sharding, as well as making robust database foundations and tooling
@@ -43,7 +43,7 @@ Enablement focuses on improving our capabilities and metrics in the following ar
     { name: 'Gitaly', manager: 'andrashorvath' },
     { name: 'Global Search', manager: 'cliu', regexp: /Global Search/ },
     { name: 'Application Performance', manager: 'pjphillips', regexp: /Application Performance/ },
-    { name: 'Pods', manager: 'arturo-herrero' },
+    { name: 'Tenant Scale', manager: 'arturo-herrero' },
 
  ]
  department_regexp = /(#{Regexp.union(departments.map{ |d| d[:name] })})/

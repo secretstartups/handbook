@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Pods Group
-description: "The Pods Group is the direct outcome of applying our value of Iteration to the direction of the Database Scalability Working Group."
+title: Tenant Scale Group
+description: "The Tenant Scale Group is the direct outcome of applying our value of Iteration to the direction of the Database Scalability Working Group."
 ---
 
 ## On this page
@@ -12,15 +12,13 @@ description: "The Pods Group is the direct outcome of applying our value of Iter
 
 ## Vision
 
-The Pods Group (formerly Sharding group) is focused on a long-term horizontal scaling solution for GitLab. There are multiple proposals and ideas to increase horizontal scalability via solutions such as database sharding and tenant isolation. The charter of this group is to explore, iterate on, validate, and lead implementation of proposals to provide a solution to accommodate Gitlab.com's daily-active user growth.
+The Tenant Scale group (formerly Sharding group or Pods group) is focused on a long-term horizontal scaling solution for GitLab. There are multiple proposals and ideas to increase horizontal scalability via solutions such as database sharding and tenant isolation. The charter of this group is to explore, iterate on, validate, and lead implementation of proposals to provide a solution to accommodate Gitlab.com's daily-active user growth.
 
 As we brainstorm and iterate on horizontal scalability proposals, we will provide implementation details, prototypes, metrics, demos and documentation to support our hypotheses and outcomes.
 
-**Note:** As we iterate towards a rename of the Sharding group to Pods, this page will contain references to both Pods and Sharding.
-
 ## Goals
 
-The executive summary goals for the Pods Group include:
+The executive summary goals for the Tenant Scale group include:
  
 - Support GitLab.com's daily-active user growth
 - Do not allow a problem with any given data store to affect all users
@@ -28,7 +26,7 @@ The executive summary goals for the Pods Group include:
 
 ## Team Members
 
-The following people are permanent members of the Pods Group:
+The following people are permanent members of the Tenant Scale group:
 
 <%= direct_team(manager_slug: 'arturo-herrero') %>
 
@@ -45,19 +43,19 @@ The following members of other functional teams are our stable counterparts:
 <tbody>
 <tr>
 <td>Christina Lohr</td>
-<td><a href="/job-families/product/product-manager/">Senior Product Manager, Pods</a></td>
+<td><a href="/job-families/product/product-manager/">Senior Product Manager, Tenant Scale</a></td>
 </tr>
 <tr>
 <td>Mike Nichols</td>
-<td><a href="/job-families/product/product-designer/">Staff Product Designer, Pods</a></td>
+<td><a href="/job-families/product/product-designer/">Staff Product Designer, Tenant Scale</a></td>
 </tr>
 <tr>
 <td>Amelia Bauerly</td>
-<td><a href="/job-families/product/product-designer/">Senior Product Designer, Pods</a></td>
+<td><a href="/job-families/product/product-designer/">Senior Product Designer, Tenant Scale</a></td>
 </tr>
 <tr>
 <td>Lorena Ciutacu</td>
-<td><a href="/job-families/product/technical-writer/">Technical Writer, Pods</a></td>
+<td><a href="/job-families/product/technical-writer/">Technical Writer, Tenant Scale</a></td>
 </tr>
 </tbody>
 </table>
@@ -66,18 +64,18 @@ The following members of other functional teams are our stable counterparts:
 ## Team IC Gearing
 **Exception Ratio**: 1 Distinguished Engineer, multiple Staff Engineers : Team
 
-**Justification**: The Pods team was formed (originally as the Sharding team) to implement a sharding solution to solve our database limitations as outlined by the [Database Scalability Working Group](https://about.gitlab.com/company/team/structure/working-groups/database-scalability/). The project requires in-depth knowledge of PostgreSQL as well as into the application itself. To borrow some phrasing from the working group: _we recognize this problem cannot be solved to meet our needs and requirements if we limit ourselves to the database: we must consider careful changes in the application to make it a reality_. With that being said, the DRI had to be selective to ensure a small team of engineers can achieve the above requirements to cover every corner of our database and codebase. All candidates were selected based on the required skills profile for the success of the project, to make the best mix and match by covering a spectrum of interests with a minimal group. There have also been multiple Staff engineers borrowed from other teams at various times to execute on these goals. Going forward, we anticipate the team will continue to require the expertise of multiple staff+ level engineers to accomplish our horizontal scalability goals. 
+**Justification**: The Tenant Scale group was formed (originally as the Sharding group, later as the Pods group) to implement a sharding solution to solve our database limitations as outlined by the [Database Scalability Working Group](https://about.gitlab.com/company/team/structure/working-groups/database-scalability/). The project requires in-depth knowledge of PostgreSQL as well as into the application itself. To borrow some phrasing from the working group: _we recognize this problem cannot be solved to meet our needs and requirements if we limit ourselves to the database: we must consider careful changes in the application to make it a reality_. With that being said, the DRI had to be selective to ensure a small team of engineers can achieve the above requirements to cover every corner of our database and codebase. All candidates were selected based on the required skills profile for the success of the project, to make the best mix and match by covering a spectrum of interests with a minimal group. There have also been multiple Staff engineers borrowed from other teams at various times to execute on these goals. Going forward, we anticipate the team will continue to require the expertise of multiple staff+ level engineers to accomplish our horizontal scalability goals. 
 
 ## Meetings
-Where we can we follow the GitLab values and communicate asynchronously.  However, there have a few important recurring meetings.  Please reach out to the [#g_pods](https://gitlab.slack.com/archives/C01TQ838Y3T) Slack channel if you'd like to be invited.
+Where we can we follow the GitLab values and communicate asynchronously. However, there have a few important recurring meetings.  Please reach out to the [#g_tenant-scale](https://gitlab.slack.com/archives/C01TQ838Y3T) Slack channel if you'd like to be invited.
 
 With the globally distributed nature of this team, it is unlikely that we will have a synchronous meeting where everyone will attend. When we have synchronous meetings we will record the meetings and share written summaries with the links to the recordings. Currently we have the following recurring meetings scheduled.
 
- - Weekly Monday - Pods Group Sync (APAC/EMEA) 8:30AM UTC (2:30AM PDT)
- - Weekly Wednesday - Pods Group Sync (EMEA/AMER) 2:30PM UTC (7:30AM PDT)
+ - Weekly Monday - Tenant Scale Group Sync (APAC/EMEA) 8:30AM UTC (2:30AM PDT)
+ - Weekly Wednesday - Tenant Scale Group Sync (EMEA/AMER) 2:30PM UTC (7:30AM PDT)
 
 ## Work
-We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines.  To bring an issue to our attention please add the `~"group::pods"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/data_stores/pods/#stable-counterparts) section above.
+We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines. To bring an issue to our attention please add the `~"group::pods"` label along with any other relevant labels. If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/data_stores/tenant-scale/#stable-counterparts) section above.
 - Issue Creation Workflow - our issue creation workflow can be viewed [here](./issue-creation-workflow.html)
 
 ### Boards
@@ -88,13 +86,13 @@ We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) gui
 
 ### Everyone Can Contribute
 
-Currently the Pods Group is in the early stages of working out what the finished product will be. The task ahead of us is vast and complex. The only way we are going to be able to break this down and iterate on it is to build proofs-of-concept.
+Currently the Tenant Scale group is in the early stages of working out what the finished product will be. The task ahead of us is vast and complex. The only way we are going to be able to break this down and iterate on it is to build proofs-of-concept.
 
 Currently we are in the proof-of-concept stage, in most cases we will need to take them to their logical conclusion. We might reach out to other GitLab teams to help us validate some of the assumptions we have had to make to in order to continue this exploration process. We are not afraid to determine that a proof-of-concept should not be continued. We will take what we learn from the process and apply it to the next one so we can iterate on PoC's in an efficient way.
 
-We have [short toes](https://about.gitlab.com/handbook/values/#short-toes) and welcome contributions, we are also very happy to talk about Pods with anyone that is interested. If you have a question, comment or just want generally know what we are up to and how we are going about it feel free to contact us, we'll make time.
+We have [short toes](https://about.gitlab.com/handbook/values/#short-toes) and welcome contributions, we are also very happy to talk about Cells with anyone that is interested. If you have a question, comment or just want generally know what we are up to and how we are going about it feel free to contact us, we'll make time.
 
-### Pods Group Planning
+### Tenant Scale Group Planning
 We are working on building ourselves a rolling four quarters roadmap to enable transparency about what we are working on. Please visit our [planning page](./planning.html) to see how this process works. 
 
 ### Working Agreement
@@ -115,8 +113,8 @@ It is expected that we share progress early and often by creating recorded demos
 - For planned demos, open an issue to discuss the topics to be demonstrated with the team. Planned demos would include end of milestone or major functionality
 - For ad hoc, spur of the moment or other interesting discoveries that you would like to demo, just create it and announce in Slack
 - Demonstrate functionality, even if incomplete and only working locally
-- The [Sharding Group](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr_xKd1sBqZ5ap_MJnniixO) playlist on GitLab Unfiltered contains all the Sharding Group demos and other recordings. As soon as the first Pods videos are uploaded a Pods playlist will be created and this page will be updated with the appropriate link.
-- Announce the recording availablity to the #g_pods slack channel
+- The [Tenant Scale group](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr_xKd1sBqZ5ap_MJnniixO) playlist on GitLab Unfiltered contains all the Tenant Scale group demos and other recordings. As soon as the first Cells videos are uploaded a Cells playlist will be created and this page will be updated with the appropriate link.
+- Announce the recording availablity to the #g_tenant-scale slack channel
 
 We should be aiming for sharing demos on a weekly basis.
 
@@ -128,16 +126,16 @@ There will be many opportunities for us to undertake proofs of concept (POC). Wh
 
 In the early phases of our work we will create implementation plans for review. As we create these implementation plans we will list them below.
 
-- [Pods blueprint](https://docs.gitlab.com/ee/architecture/blueprints/pods/index.html)
+- [Cells blueprint](https://docs.gitlab.com/ee/architecture/blueprints/pods/index.html)
 - [Migrate CI Tables To New Database Plan](./migrate-ci-tables-to-new-database-plan.html)
 
 ## How We Interview Candidates
 
-We use Ruby on Rails to build our product backed by a PostgreSQL database. You'll be a great fit for the team if you have strong database performance and scaling experience. Pods Group members have the chance to put their mark on the end product and how it will be implemented as well as being at the forefront of building the solution.
+We use Ruby on Rails to build our product backed by a PostgreSQL database. You'll be a great fit for the team if you have strong database performance and scaling experience. Tenant Scale group members have the chance to put their mark on the end product and how it will be implemented as well as being at the forefront of building the solution.
 
 Our goal is to ensure all candidates we hire are in the best position to make fantastic contributions to GitLab, using their technical knowledge and creative expertise in solving problems.
 
-We hold the bar high in hiring quality engineers but also understand the interview process can feel like a long process. Below are the stages for interviewing for Pods Group that balances the need for hiring for success and expediating the process.
+We hold the bar high in hiring quality engineers but also understand the interview process can feel like a long process. Below are the stages for interviewing for Tenant Scale group that balances the need for hiring for success and expediating the process.
 
 We aim to set up and book in all interviews in at the beginning of the interview process so candidates can see and prepare for what lays ahead for them. Feedback from candidates on the process is welcomed and a channel for that feedback will be provided at the beginning.
 
@@ -156,4 +154,4 @@ We aim to set up and book in all interviews in at the beginning of the interview
   * As per the Peer Team Member interview and a further chance for the candidate to demonstrate their fit for the role.
 ## Dashboards
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Pods" } %>
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Tenant Scale" } %>
