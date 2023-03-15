@@ -25,7 +25,7 @@ canonical_path: "/company/okrs/2018-q1/"
     * Marketing: know cost per SQO and customer for each of our campaigns
 * CEO: Make sure that 70% of salespeople are at 70% of quota
   * CMO
-    * Marketing: Make sure each SAL has 10 SAO's per month
+    * Marketing: Make sure each SAE has 10 SAO's per month
   * CRO
     * Sales: Increase IACV by 15% for Strategic / Large / Mid Market
     * Sales: 1 month boot-camp for sales people with rigorous testing
