@@ -13,8 +13,15 @@ category: GitLab Self-Managed licenses
 
 AWS Marketplace offers basic GitLab instance with [Premium](https://aws.amazon.com/marketplace/pp/prodview-amk6tacbois2k) or [Ultimate](https://aws.amazon.com/marketplace/pp/prodview-g6ktjmpuc33zk) license at hourly or annual rate. The subscription is bundled with AWS EC type and managed on AWS side. No [Customers Portal](https://customers.gitlab.com/customers/sign_in) account is created for the customer purchased through AWS Marketplace. The instances created from these purchases use the following default 5 seats licenses:
 
-- [Premium license](https://customers.gitlab.com/admin/license/118882)
+Old licenses (only works on GitLab version older than v15.2)
+
+- [Premium license](https://customers.gitlab.com/admin/license/118882) 
 - [Ultimate license](https://customers.gitlab.com/admin/license/71075)
+
+New licenses
+
+- [Premium license](https://customers.gitlab.com/admin/license/1099015)
+- [Ultimate license](https://customers.gitlab.com/admin/license/1099017)
 
 If the customer needs to go above the 5 users license seats, they would need to reach out to aws-sales@gitlab.com to get a private offer. Once the customer get a private offer with us, a Customers Portal and Zuora account is created for the customer and a new license is generated for the private offer.
 
