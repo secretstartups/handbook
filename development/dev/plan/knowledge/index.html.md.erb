@@ -32,6 +32,28 @@ For more details about the vision for this area of the product, see the
 
 Check out our [jobs page](/jobs/) for current openings.
 
+## Work
+
+### Picking something to work on
+
+The team [build board](https://gitlab.com/groups/gitlab-org/-/boards/5454834?milestone_title=Upcoming&label_name[]=group%3A%3Aknowledge) always shows
+work targeting the upcoming release, organized into workflow columns. The ~"workflow::ready for development" column is ordered by priority.
+
+The following labels are added by the Engineering Manager at the start of the milestone and communicate the priority of the issue to stakeholders:
+* The ~Deliverable label indicates that we have committed to customers that we will deliver this item in the current milestone. 
+* The ~Stretch label indicates that we have not committed to deliver the item but will attempt to make progress on it.
+
+It's OK not to take the top item if you are not confident you can solve it, but please post in #s_plan or #g_knowledge if that's the case, as this
+probably means the issue should be better specified.
+
+### Capacity Planning
+
+<%= partial("handbook/engineering/development/dev/plan/capacity_planning") %>
+
+Typically, 3-month rolling average is a good indicator of the team's capacity. Knowledge is a new team and determining capacity will be difficult at the beginning without clear historical data.
+
+The PM and EM will work to fit ~Deliverable issues into no more than 75% of the team's capacity and allocate the rest to ~Stretch issues.
+
 ### Dashboards
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Knowledge" } %>
