@@ -10,10 +10,6 @@ description: "data build tool (dbt) Cheat Sheet for Functional Analysts"
 - TOC
 {:toc}
 
----
-
-{::options parse_block_html="true" /}
-
 ## Objective of this page
 {:.no_toc}
 
@@ -82,8 +78,7 @@ CLONE PROD.common.dim_ping_metric
 
 Note: the schema must already exist in your development database in order to clone the model
 
-<details><summary>How to create a new schema in your development database
-</summary>
+<details markdown="1"><summary>How to create a new schema in your development database</summary>
 
 ```
 CREATE SCHEMA IF NOT EXISTS {DEV_DATABASE}.{SCHEMA_NAME};
@@ -181,7 +176,7 @@ Use this for changes to workspace schemas (ex: `workspace_product`)
 * [All Other Changes](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/merge_request_templates/All%20Other%20Changes.md): 
 Use this for updates to dbt docs that do not actually change the models
 
-### MR Pipelines & CI jobs
+### MR pipelines & CI jobs
 
 Please see the [Data Team CI Jobs handbook page](/handbook/business-technology/data-team/platform/ci-jobs/) 
 for the most up-to-date information and details about the different CI jobs.
@@ -279,6 +274,8 @@ Functional analysts do not automatically gain access to these databases. In orde
 access, you need to run [❄️ Snowflake > 🔑grant_clones](/handbook/business-technology/data-team/platform/ci-jobs/#grant_clones).
 
 ![grant_clones on pipelines page](/handbook/product/product-analysis/dbt-cheat-sheet/images/grant_clones_on_pipelines_page.png){: .shadow}
+
+{::options parse_block_html="true" /}
 
 <div class="panel panel-info">
 **IMPORTANT**
