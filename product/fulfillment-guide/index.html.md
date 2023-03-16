@@ -238,6 +238,8 @@ Adding a new billing account membership between a customer and a billing account
 1. Select the proper customer and CustomersDot billing account for the new subscription management request.
 1. Click `Save`.
 
+**Note:** We display the `Zuora account name` and `Zuora account ID (in brackets)` in the list of billing accounts.
+
 #### Delete the billing account membership of a customer
 
 1. Navigate to the `Billing account memberships` section.
