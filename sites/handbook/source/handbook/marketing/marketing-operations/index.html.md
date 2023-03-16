@@ -219,6 +219,32 @@ A milestone cannot be closed nor marked complete until the milestone's accompany
   </div>
 </div>
 
+##  Working with Channel Partner Marketing
+
+### Channel Partner Marketing Expectation
+- To open [issues](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) for any new request using the problem statement.
+- Channel Partner Team to respond to mktgops queries on the issue
+- To provide full problem statement on the issue with as much context as possible.
+- Optional - suggested solution for this issue.
+
+### Marketing Ops Expectation
+
+- To use [labels](/handbook/marketing/marketing-operations/#labeling) to denote where the issue is
+- To use [Milestones](https://about.gitlab.com/handbook/marketing/marketing-operations/#milestones) to denote when the work will be done 
+- To provide solution options for the problem statement with clear outline of timeline/ potential blockers.
+- To verify possibility of the suggested solution(if there is one).
+
+### Bi-weekly Meeting
+ New issues will be prioritized within the bi-weekly meeting where Salina can understand if/what work should be deprioritised to complete the new work.
+
+Salina to
+- Add [Priority label](/handbook/marketing/marketing-operations/#labeling)
+- Add [Stage Label](/handbook/marketing/marketing-operations/#labeling)
+- Add milestone to the issue of when she thinks the work will be started
+
+If no new issues- can either discuss issues or skip a week. 
+
+
 ### Handbook Updates
 
 When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related Slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective Slack channel, you must add one of the following corresponding `labels` on the MR. Slack updates will also trigger for MktgOps MRs when created.
@@ -264,7 +290,6 @@ Integrated with Salesforce
 </summary>
 
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
-- [Conversica](/handbook/marketing/marketing-operations/conversica/)
 - [Demandbase](/handbook/marketing/account-based-marketing/demandbase/)
 - [Drift](/handbook/marketing/marketing-operations/drift/)
 - [LeanData](/handbook/marketing/marketing-operations/leandata)
@@ -276,6 +301,8 @@ Integrated with Salesforce
 - [RingLead](/handbook/marketing/marketing-operations/ringlead/)
 - [Terminus Email Experiences](/handbook/marketing/marketing-operations/terminus-email-experiences)
 - [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
+- [Vartopia - Lead Sharing Module](/handbook/marketing/marketing-operations/vartopia/)
+
 
 </details>
 
@@ -284,7 +311,7 @@ Integrated with Salesforce
 Other tools directly used by Marketing and maintained by Marketing Operations
 </summary>
 
-- [Alocadia](/handbook/marketing/strategy-performance/allocadia/)
+- [Allocadia](/handbook/marketing/strategy-performance/allocadia/)
 - Hopin
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/)
