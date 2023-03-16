@@ -181,7 +181,7 @@ In addition, if not otherwise expired (through termination of your employment), 
 
 ## Exercise Window After Termination
 
-If your employment ends for whatever reason, you have a 90 day window to exercise your vested options, or lose them. During this window you would have to pay the exercise price and in some cases the tax on the gain in value of your stock options, which could be considerable. 
+If your employment ends for whatever reason, you have a three month window to exercise your vested options, or lose them. During this window you would have to pay the exercise price and in some cases the tax on the gain in value of your stock options, which could be considerable. 
 
 ## Equity Administration
 
