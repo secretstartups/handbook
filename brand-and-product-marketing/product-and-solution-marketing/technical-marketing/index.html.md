@@ -79,8 +79,6 @@ Dec 10, 2020
 [Leading SCM, CI and Code Review in one application](https://about.gitlab.com/blog/2020/09/30/leading-scm-ci-and-code-review-in-one-application/) - 
 Sep 30, 2020 
 
-[Secure your apps with the built-in security and compliance in GitLab CI](https://about.gitlab.com/blog/2020/10/01/built-in-security-and-compliance-in-gitlab-ci/) - Oct 1, 2020 
-
 [How to integrate Azure DevOps repositories with GitLab](https://about.gitlab.com/blog/2020/07/09/integrating-azure-devops-scm-and-gitlab/) - Jul 9, 2020 
 
 [Get faster and more flexible pipelines with a Directed Acyclic Graph](https://about.gitlab.com/blog/2020/05/12/directed-acyclic-graph/) - May 12, 2020 

@@ -94,7 +94,6 @@ The blog is not the permanent place for tutorials, which should live in the docs
     - Analyst reports. Example:
         - [GitLab named a 'Visionary' in 2019 Gartner Enterprise Agile Planning Tool Magic Quadrant](/blog/2019/05/22/gitlab-identified-by-gartner-as-eapt-visionary/)
     - Partner announcements. Examples:
-        - [GitLab on AWS Marketplace](/blog/2019/06/11/gitlab-on-aws-marketplace/)
         - [GitLab + Salesforce](/blog/2019/05/29/sfdx-promo-trailhead-blog/)
         - [ZEIT launches Now for GitLab](/blog/2019/04/01/zeit-launches-now-for-gitlab/)
     - Offers. Example:
