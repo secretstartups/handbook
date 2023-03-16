@@ -224,7 +224,7 @@ All Marketo templates will have 2 tokens added to them that the campaign owner s
 
 The `CRM Partner ID` can be retrieved by identifying the `Account ID (18)` of the Alliance Partner - refer to this [list](https://gitlab.my.salesforce.com/00O8X000008mxIb).
 
-First, use the general set up found in [campaigns and programs page](https://stackedit.io/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page.
+First, use the general set up found in [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up). The partner steps are nested in the typical Marketo program templates to clone. Once the campaign is cloned, follow the steps below in addition to the other setup steps found on the campaigns and programs page.
 
 ### On24 Webcast Hosted by GitLab (Lead capture via forms) 
 
