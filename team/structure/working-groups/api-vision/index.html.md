@@ -38,7 +38,6 @@ This is a list of topics that we want to discuss:
 - General vision of the GitLab API:
   - REST / GraphQL API consistency.
   - REST first vs. GraphQL first vs. another approach.
-  - Define user personas and consumers: frontend, CLI tooling, etc.
 - Review APIs:
   - General architecture.
   - Permissions and scopes.
@@ -70,11 +69,13 @@ The table below lists all exit criteria for the working group. This is the [top-
 | 1 | TBD            | 10%       | @g.hickman      | [Define the vision of the GitLab API for the future years](https://gitlab.com/groups/gitlab-org/-/epics/8633) |
 | 2 | TBD            | 0%       | @m_gill | [Set the foundation of a cohesive development strategy going forward](https://gitlab.com/groups/gitlab-org/-/epics/8634)                        |
 | 3 | TBD            | 0%       |     | [Capture work needed for next generation API](https://gitlab.com/groups/gitlab-org/-/epics/8115)                       |
-| 4 | TBD            | 15%       | @.luke          | [Clarify the lifecycle of the API](https://gitlab.com/groups/gitlab-org/-/epics/7667)                                                           |
-| 5 | TBD            | 15%       | @kpaizee        | [Improve the documentation of the API](https://gitlab.com/groups/gitlab-org/-/epics/8636)                                                    |
-| 6 | TBD            | 20%       | @arturoherrero | [Create learning paths and content to contribute to the API](https://gitlab.com/groups/gitlab-org/-/epics/8637) |
-| 7 | TBD            | 5%       |                 | [Define minimum levels of performance and stability, with appropriate checks and monitoring](https://gitlab.com/groups/gitlab-org/-/epics/7520) |
-| 8 | TBD            | 35%       | @g.hickman      | [Refresh personas to account for users of our APIs](https://gitlab.com/groups/gitlab-org/-/epics/7760)                                          |
+| 4 | TBD            | 15%       | @.luke          | [API Deprecation and Lifecycle policies](https://gitlab.com/groups/gitlab-org/-/epics/7667)                                                           |
+| 5 | TBD            | 15%       | TBD      | [Create a concept and roadmap to automatically generate API documentation](https://gitlab.com/groups/gitlab-org/-/epics/8636)                                                    |
+| 6 | TBD            | 5%       |   TBD              | [Define minimum levels of performance and stability, with appropriate checks and monitoring](https://gitlab.com/groups/gitlab-org/-/epics/7520) |
+
+| 7 | TBD            |       | | [Investigate REST wrapper over GQL APIs to accelerate development and reduce maintenance](https://gitlab.com/groups/gitlab-org/-/epics/8634) |
+
+| 8 | TBD            |       | | [Robust Open API](https://gitlab.com/groups/gitlab-org/-/epics/8926) |
 
 ## Roles and Responsibilities
 
