@@ -28,7 +28,7 @@ When customers adopt GitLab, they typically do so to solve a particular DevOps p
 **$  PS Project Services:**  [Conduct the PS](https://partners.gitlab.com/prm/English/c/Services) of installation, configuration and integration, and migration from other tools
     
 
-**$$  License Growth Revenue:**  We have a Land and Expand model.  We focus our [incentives for partners](https://content.gitlab.com/viewer/63beda213fcea68482586334) on new licenses (Land) and license growth over the baseline (Expand).  We focus on growth because we provide commercial technical support, so you don’t have to (as much).  Partners play a crucial role in practice and integration support. Still, GitLab maintains a commercial support team (it’s a product after all) that other DevOps product toolchain companies cannot provide.  Customers buy more GitLab from you by vertically expanding their footprint from Premium to Ultimate licenses or increasing their user count horizontally. 
+**$$  License Growth Revenue:**  We have a Land and Expand model.  We focus our [incentives for partners](https://partners.gitlab.com/prm/English/s/assets?id=350001) on new licenses (Land) and license growth over the baseline (Expand).  We focus on growth because we provide commercial technical support, so you don’t have to (as much).  Partners play a crucial role in practice and integration support. Still, GitLab maintains a commercial support team (it’s a product after all) that other DevOps product toolchain companies cannot provide.  Customers buy more GitLab from you by vertically expanding their footprint from Premium to Ultimate licenses or increasing their user count horizontally. 
 
 **$$$ Transformation Services:**  This is your long tail of strategic growth in your customer consulting with the customer on improving their DevSecOps practices leveraging GitLab.  Treat the Platform as an ongoing concern.  In v1, you’ll get it up and going.  In v2, you’ll add security scans.  In v3, you’ll include auto-deployment to the cloud, etc. (simple examples).  v4, etc., etc.  Your opportunity for additional services never diminishes, and you can create a roadmap for your revenue quarter after quarter.
     
@@ -39,7 +39,7 @@ In the material below, you will find sales guides, use cases, training materials
 # Partner Program 
 {: .gitlab-orange}
 
--   Partner Program Overview: [FY23 GitLab Channel Program Guide - March 1, 2022](https://content.gitlab.com/viewer/63bedcf948e576c23fe42028) This document includes details around sales tracks, benefits and requirements at different partner levels.
+-   Partner Program Overview: [FY23 GitLab Channel Program Guide](https://partners.gitlab.com/prm/English/s/assets?id=414926) This document includes details around sales tracks, benefits and requirements at different partner levels.
     
 -   How to request NFRs: Each GitLab partner may request a user license for a GitLab Self Managed Instance as well as a GitLab.com SaaS license [per this handbook page](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#internal-nfr-request-processes).   [Partner Portal](https://partners.gitlab.com/) > [Services](https://partners.gitlab.com/prm/English/c/Services) > [Request an NFR](https://docs.google.com/forms/d/e/1FAIpQLSc8jdwNrVMfVQ4x7XWXwcaMrcO4m2C6nGEq3_tKQWJnftAN_g/viewform)
     
@@ -86,7 +86,7 @@ In the material below, you will find sales guides, use cases, training materials
     
 2.  SaaS on GitLab.com is an increasingly popular option.  [Start a Free Trial](https://gitlab.com/-/trials/new) now.
     
-3.  Pricing is a very simple per-user subscription that is the same whether you are using SaaS or Self Hosted instance.  Customers see the [List Price here](https://about.gitlab.com/pricing).  Review the [Partner Program Incentives Guide](https://content.gitlab.com/viewer/63beda213fcea68482586334) for more details on partner transactions.
+3.  Pricing is a very simple per-user subscription that is the same whether you are using SaaS or Self Hosted instance.  Customers see the [List Price here](https://about.gitlab.com/pricing).  Review the [Partner Program Incentives Guide](https://partners.gitlab.com/prm/English/s/assets?id=350001) for more details on partner transactions.
     
 4.  There are [online ROI calculators](https://about.gitlab.com/calculator/), and your partner team can share more advanced ROI tools with you.
     
