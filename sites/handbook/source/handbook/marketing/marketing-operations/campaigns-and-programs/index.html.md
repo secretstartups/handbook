@@ -337,7 +337,7 @@ For logistical setup and more information, go [here](https://about.gitlab.com/ha
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
-For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
+For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form)
 
 For **virtual events**, there are additional set up details on this [page](/handbook/marketing/virtual-events).
 
@@ -416,8 +416,6 @@ If this is to set up a program that involves a channel partner, you must also fo
     - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector). 
 
 ##### Webcasts and Self-Service Marketo Templates
-- BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6946A1)
-- WebEx GitLab Hosted Webcast: [YYYYMMDD_WebEx_WebcastTopic_Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8983D4)
 - Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
 - Self-Service Virtual Event without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
 - Self-Service Virtual Event with Promotion (with or without Marketo Landing Page): [YYYYMMDD_SelfServiceTopic_Region (with Promotion)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8760A1)
@@ -783,28 +781,38 @@ Important Notes:
    - When token is updated, you can turn on. No changes are necessary for the Flow.
 
 
-## Steps to Setup Linkedin Lead Gen Form *Gated Content Only
+## Steps to Setup Linkedin Lead Gen Form 
 We have listeners set up in Marketo listening certain parameters. Please check the `Marketo Listener` column below to see if a program is already set up in Marketo. If it is, you do not need to create a new listener, you only need to add the content to the program. Otherwise, please follow the process outlined below to ensure leads are being captured.
+
+**Active or in progress campaigns**
+| Campaign                                 | Campaign Parameter for Tracking |Marketo Listener?|
+|------------------------------------------|---------------------------------|-----------------|
+| DevOps GTM - active                      | devopsgtm                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8342A1)|
+| AutoSD - active                          | autosd                          |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG12823A1)|
+| GitOps Use Case - active                 | iacgitops                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6756A1)|
+| Security & Compliance                    |                                 |[No]  | 
+| CI Use Case                              | singleappci                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6803A1)|
+| PubSec - devops GTM only                               | amer-pubsec                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7588A1)|
+
+**Deactivated or old campaigns, no longer in use** These listeners are no longer active and would need to be set-up prior to running a LinkedIn campaign for them.
 
 | Campaign                                 | Campaign Parameter for Tracking |Marketo Listener?|
 |------------------------------------------|---------------------------------|-----------------|
-| CI Use Case                              | singleappci                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6803A1)|
-| GItOps Use Case                          | iacgitops                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6756A1)|
-| Version Control & Collaboration Use Case | vccusecase                      |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6802A1)|
-| Simplify DevOps                          | simplifydevops                  |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7218A1)|
-| Jenkins                                  | cicdcmp2                        |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6976A1)|
+| Version Control & Collaboration Use Case | vccusecase                      |  |
+| Simplify DevOps                          | simplifydevops                  |  |
+| Jenkins                                  | cicdcmp2                        |      |
 | Increase Operational Efficiencies	       | operationalefficiences          ||
 | Deliver Better Products Faster	       | betterproductsfaster            ||
 | Reduce Security and Compliance Risk	   | reducesecurityrisk              ||
 | CI Build & Test Auto	                   | cicdcmp3                        ||
 | OctoCat	                               | octocat                         ||
-| DevSecOps Use Case	                   | devsecopsusecase                | [Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG9200A1)|
+| DevSecOps Use Case	                   | devsecopsusecase                | |
 | AWS	                                   | awspartner                      ||
-| PubSec                                   | amer-pubsec                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7588A1)|
-| DevOps GTM                               | devopsgtm                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8342A1)|
 
 
-If this form is in a different language, make sure that the Linkedin Form has that language in the form name (as spelled below). We currently support:
+
+
+If this form is in a different language, make sure that the Linkedin Form has that exact language in the form name (as spelled below). We currently support:
 - Japanese
 - Italian
 - French
@@ -816,9 +824,9 @@ If this form is in a different language, make sure that the Linkedin Form has th
 When someone fills out these forms, they will be automatically added to the [Language Segmentation](/handbook/marketing/marketing-operations/marketo/#segmentations) allowing them to receive messages in their local language.
 
 
-### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8361A1)
+### Step 1: For new campaigns not listed above, [clone this program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8361A1)
 - Use format `YYYY_Social_[Name]_[parameter]_LinkedIn Lead Gen`
-- Campaign parameter must be one of the [GTM campaign parameters](/handbook/marketing/utm-strategy/#utm-campaign) (usually used as utm_campaign - ex. `iacgitops` or `singleappci`). The Salesforce campaign name must include the campaign parameter for the responses to roll up to the correct campaign on the Sisense Demand Gen dashboard.
+- Campaign parameter must be one of the [GTM campaign parameters](/handbook/marketing/utm-strategy/#utm-campaign) (usually used as utm_campaign - ex. `iacgitops` or `singleappci`). The Salesforce campaign name must include the campaign parameter for the responses to roll up to the correct campaign on the Sisense dashboards.
 
 _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 
@@ -833,31 +841,32 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
     - Add `Parent Campaign` of `2020_Social_LinkedIn_Lead Gen`
-    - Update the event epic
-    - Update the description
+    - Update the epic link in the description
+    - Add the Integrated Campaign
     - Update `Start Date` to the date of launch
     - Update `End Date`
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
     - Click Save
-- Add the Marketo program link and SFDC campaign link to the epic.
+- Add the Marketo program link and SFDC campaign link to the epic or issue.
 
 ### Step 4: Go back into Marketo Template
 - Update local program tokens. Note: The template is set-up for one asset per form. If you have multiple assets, you can add additional tokens for each asset.
 **Smart List**
 - Update the campaign smart list filter with `contains` and the prefix
    - `Fills out Linkedin Lead Gen Form`, `Lead Gen Form Name contains [parameter]` 
-   - Available parameters are [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
-- `Filled out Linkedin Lead Gen Form` filter - Make sure that other programs are excluded if your new campaign will use a similar LinkedIn Lead Gen form name. Common exclusions are `amer-pubsec`, `abmkey`, and `apac-pubsec` as these flow through separate campaigns. This is not a full list of all exclusions required as this will be based on what you are setting up. You can review existing LI Lead Gen programs for examples of exclusions.
-- Other programs are looking for the parameters [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only). If your LI Lead Gen form contains any of these, you will need to exclude your campaign from the existing program processing (for example, if your LI Lead Gen Form contains `devsecopsusecase`, you will need to exclude your LI Lead Gen form name from processing through the others that use `devsecopsusecase`). Please see the testing section below as this provides instructions to make sure you captured exclusions properly.
+   - Available parameters are [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form), or create new if not listed.
+- `Filled out Linkedin Lead Gen Form` filter - Make sure that other programs are excluded if your new campaign will use a similar LinkedIn Lead Gen form name. Common exclusions are `amer-pubsec` and `abmkey`as these flow through separate campaigns. This is not a full list of all exclusions required as this will be based on what you are setting up. You can review existing LI Lead Gen programs for examples of exclusions.
+- Other programs are looking for the parameters [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form). If your LI Lead Gen form contains any of these, you will need to exclude your campaign from the existing program processing (for example, if your LI Lead Gen Form contains `devsecopsusecase`, you will need to exclude your LI Lead Gen form name from processing through the others that use `devsecopsusecase`). Please see the testing section below as this provides instructions to make sure you captured exclusions properly. Note that the ABM Team runs LinkedIn campaigns using `abmkey` and the campaign parameters above, so `abmkey` must always be excluded.
 **Flow**
 - No change to `1 - Remove from Flow` - If you remove this temporarily to test, be sure to add it back in before going live. `Remove from Flow`: Choice 1: If Email Address contains @gitlab.com. Campaign: this campaign. Default Choice: Campaign is Do nothing
 - `2 - Send Email` - This step will vary. In general, you will set Choice 1: If Filled out LinkedIn Lead Gen Form contains [content name from form] then, Email [select appropriate email autoresponder]. You can have multiple choices here, one for each asset. Even if you only have one asset, best practice is to set up a choice with the default of Do Nothing. This is another backup in case the automation fails and will make sure that people don't receive an autoresponder email for another asset because the content name won't be found. You can view an example with multiple assets [here](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC21615C3ZN19).
-- No change to `3 - Change Program Status` - This is automatically in the template. Program: [Marketo program name] - New Status Gated Content > Downloaded
+- No change to `3 - Change Program Status` - This is automatically in the template. Program: [Marketo program name] - New Status Paid Social > Responded
 - `4 - Interesting Moment` Set this up the same way as the Send Email logic, except you will change the description to match the asset. In general, you will set Choice 1: If Filled out LinkedIn Lead Gen Form contains [content name from form] then, Type Milestone, Description: Filled out LinkedIn form to view asset: [asset name]. Default choice should be generic: "Filled out LinkedIn form to view [GTM name] asset."
   - If you set up additional tokens for each asset, you can use the tokens to populate the Interesting Moments
 - No changes to steps 5 and 6.
-- `7 - Change Data Value` - Make sure `opt-in` language is on the Linkedin Form, if not, remove this `opt-in` step in the campaign Flow
+- Step 7: For EMEA or APAC: `7 - Change Data Value` - Delete this step. Those forms use a checkbox to gather consent, so the correct opt-in status will be applied upon submission and this step cannot be included in the flow. 
+- Step 7: For AMER: `7 - Change Data Value` - No change. Keep this step. In AMER, the opt-in language is included on the form, so this step is required to complete the opt-in. 
 - Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All Linkedin programs with your form prefix will now flow through this campaign
 
@@ -866,7 +875,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 - If you have multiple assets, you will need to clone the autoresponder email and update all of the tokens in the email to match the additional tokens you added to the program for each asset.
 
 ### Step 6: Test your LinkedIn Lead Gen Set-up
-- Have your agency (PMG or other) or Digital Marketing send a test record through the form. You can request this in the issue with the agency using the following text, updating the indicated sections:   `The Marketo program has been set-up for [name of asset] in [segment/region if applicable - you will not always need to provide this]. The automation will trigger based on [gtm code] and [content name]. Please submit a test record.`
+- Have Digital Marketing send a test record through the form. You can request this in the issue using the following text, updating the indicated sections:   `The Marketo program has been set-up for [name of asset] in [segment/region if applicable - you will not always need to provide this]. The automation will trigger based on [gtm code] and [content name]. Please submit a test record.`
 - After the test lead is submitted, open the test record in the Marketo database. Go to the `Activity History` and confirm:
    1. The form that was submitted. You will pay attention to the gtm name and the content name. Make sure this is the form you wanted to test. If confirmed, move to step 2.
    1. Confirm the correct autoresponder for the requested asset deployed
@@ -876,7 +885,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
    1. Confirm that the test record was not sent any other emails or added to other programs as a result of this test
 
 ### Step 7: Update this Handbook page
-- Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a `yes` and a link to the parameter and campaign you have set up.
+- Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form) with a `yes` and a link to the parameter and campaign you have set up.
 
 ## Raffles
 Raffles can be associated with many different campaign types and have various ways to enter. You must complete the [legal requirements](https://about.gitlab.com/handbook/legal/marketing-collaboration/#engaging-legal-for-approval) before launching your raffle. 

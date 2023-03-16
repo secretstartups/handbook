@@ -23,7 +23,7 @@ The objective of this process is to reduce the SLA for list imports to a minimum
 1. Once a CSV is created, it is processed through one of our systems and each record is individually validated to ensure data integrity. Certain corrections are applied like transforming country and state codes to country and state names, deleting white spaces, converting well known mistaken values to their correct form, etc.
 1. The process will activate the `Interesting Moments` campaign in the Marketo program so that the Interesting Moment is correctly applied.
 1. Each record is added to the Marketo program according to the program status specified in the import file.
-1. At the end, a slack alert is sent on the #mktgops-test-imports channel with a report containing information regarding created, updated and failed leads.
+1. At the end, a slack alert is sent on the #event_list_upload channel with a report containing information regarding created, updated and failed leads.
 
 #### [Video Explanation of list upload process](https://drive.google.com/file/d/1Wp3yYLZAPeBJs9J7wIBF3R8wFaGN0SF3/view?usp=share_link)
 
@@ -69,7 +69,7 @@ After you populated your spreadsheet with lead data, Download the leads tab as a
 1. Drop your CSV containing lead data into the folder
 1. An automated process will pick up your CSV and start processing each record in your file, validating the data.
 
-**Step 5 - Go to the `#mktgops-test-imports` slack channel.**
+**Step 5 - Go to the `#event_list_upload` slack channel.**
 {: .alert .alert-info}
 
 **When the import finishes processing in Marketo, it will send a slack message with information about:**
@@ -89,7 +89,7 @@ After you populated your spreadsheet with lead data, Download the leads tab as a
 
 **If you want to receive these notifications you can subscribe to the import complete notification labels.**
 
-Pubsec field marketers need to use `List Upload Complete` label on either list import issue or another event related issue if no list upload issue is made. This is optional for private sector uploads. SDR/BDR/Sales can subscribe to this label to get notifications when the import is complete
+Pubsec field marketers need to use `List Upload Complete - PubSec` label on either list import issue or another event related issue if no list upload issue is made. This is optional for private sector uploads, which use `List Upload Complete - Private Sector`. SDR/BDR/Sales can subscribe to this label to get notifications when the import is complete
 
 **Step 6 - Review the report**
 {: .alert .alert-info}

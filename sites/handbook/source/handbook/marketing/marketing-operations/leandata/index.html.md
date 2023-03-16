@@ -36,7 +36,7 @@ Leads that match to accounts but are not able to be routed via owner mappings or
 #### Queue assignment
 Leads that are not yet MQLs or that are no longer being worked by the Sales Development team, are assigned to "holding" queues until they re-MQL. 
 
-Leandata runs a weekly job that looks for leads in `Recycle`, `Bad Data`, `Ineligible`, `Inquiry`, and `Disqualified` statuses, not in an active sequence, and owned by a Sales Dev user and reassigns the lead to the appropriate queue based on status. 
+Leandata runs a weekly job that looks for leads in `Recycle`, `Bad Data`, `Ineligible`, `Inquiry`, and `Disqualified` statuses, not in an active sequence, and owned by a Sales Dev user and reassigns the lead to the appropriate queue based on status. This job runs every Saturday at 7pm PST. It also considers leads related to MDF campaigns by looking at `Vartopia Account ID` and `Lead Acquisition Source` or `Web Form` containing `MDF` and routes to the `Partner Queue`.
 
 #### Exceptions to these rules
 ##### US PubSec lead assignment

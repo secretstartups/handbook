@@ -19,7 +19,8 @@ Outreach is a sales engagement platform helps efficiently and effectively engage
 ##### Non-admin users
 Users will be able to access Outreach through OKTA within 24 hours of gaining access. Please set up the following once you have access:
 
-- Connect your inboxes and calendar to Outreach. Please be aware when you connect your email, Outreach is set up to create prospects from your gmail if they don't already exist in Outreach. Outreach admins and managers can see your email activity to anyone you may email; however, they can only see the subject line of who you are emailing and not the body of the email. Please ensure that you do not put any personal or private information unrelated to work in the subject lines of your gmail messages.   
+- Connect your inboxes and calendar to Outreach. Please be aware when you connect your email, Outreach is set up to create prospects from your gmail if they don't already exist in Outreach. Outreach admins and managers can see your email activity to anyone you may email. If you wish to email anyone personal or there is an email which includes your private information then please make sure to turn off the Outreach activity recording. 
+    - To do this, when composing an email in gmail, look to the Outreach Settings Icon. There will be an option to toggle off "Outreach Enabled". If you do this, your personal email will not be recorded in Outreach. 
 - Update your email signature. If you are a BDR/SDR, then your signature is managed through Terminus.Log into Terminus and update your details and within 24 hours it will update in Outreach.
 - Download and install the [Outreach Everywhere](https://support.outreach.io/hc/en-us/articles/115004084328-Installing-the-Outreach-Everywhere-Chrome-Extension) chrome extension.
 
@@ -147,6 +148,7 @@ XDRs need to choose a call disposition after calling a prospect to note the outc
 |`Incorrect Contact: Left Message`|The wrong person answered the phone and it is the wrong persons phone number (They were not a personal assistant). They took a message for the correct person/gave you the correct number for the contact|
 |`Incorrect Contact: Not Answered/Other`| You got through to the voicemail but the voicemail was for someone other than the person who you were trying to contact. Or the person was not listed in the company directory and you were calling the companies main number|
 |`Incorrect Contact: Answered: Gave Referral` | It was the wrong person but they gave a referral to speak to. Please record in notes who the referral is. |
+|`Incorrect Contact: No Authority`| The person who answered the phone number has no authority nor decision to move forward with a purchase. |
 
 #### Outreach Call Troubleshooting
 
@@ -248,7 +250,7 @@ Select the `Start Import` button on the next screen.
 Outreach stages are a 1:1 match with SFDC Status. The rulesets help push prospects along into the correct stage/status based on their actions. This eliminates the need for triggers to match status to stage.
 
 ### Outreach Automation
-Outreach will make updates based on these scenarios. Triggers fire in order of operation.
+Outreach will make updates based on these scenarios. Triggers fire in order of operation. See the [overview of all the triggers](https://docs.google.com/spreadsheets/d/1qITfwkj5Z0km6gS7KwwhN7qF0Bg9MIpaW3iY_VxfiOE/edit?usp=sharing).
 
 | Trigger Name | Prospect Conditions | Account Conditions | Trigger Actions |
 |---|---|---|---|---|

@@ -346,13 +346,14 @@ To request access to an existing tool in the stack, [please follow the access re
 
 If you are working with a contractor or consultant that requires access to a tool in our stack, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/) as outlined in the procurement handbook.
 
-### Requesting a new tool
+### MarTech Change Management 
+## Requesting a New Tool or Process
 
 If you are interested in or would like to request a new tool be added to the tech stack, [please submit an issue using the tools eval issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) in the Marketing Operations repository. Marketing Operations should be included in new tool evaluations to account for system integrations, budget, etc. Any new tools desired after the budget is set will be handled by transferring budget from the other department to Marketing Operations.
 
 The general process for a new tool evaluation is:
-1. Discovery - understand the request
-1. Requirements gathering - document user stories, requirements, and features
+1. Discovery - understand the request/problem we're trying to solve
+1. Requirements gathering - document user stories, requirements, and features using (this requirements gathering template)[https://docs.google.com/spreadsheets/d/1JsUcCnePqWnc8ownZQEsjsDtMea6pLPk2k-6TV3M_uI/edit#gid=0]
 1. Evaluation - attend demos and compare features
 1. Stakeholder alignment - align stakeholders on vendor of choice
 1. Privacy and security reviews - ensure that the selected tool is compliant
@@ -378,7 +379,7 @@ The general process for a new tool evaluation is:
 | **Peer Reviewer (optional)** | Review and ensure requested change has been documented and there are no undocumented downstream impacts |
 | **Post-Implementation Reviewer (optional)** | Review of the change in production after the change is made to ensure everything is working as expected |
 
-### Tool usage and tool access
+## Tool usage and tool access
 
 For budgetary reasons, Marketing Operations will be performing quarterly, bi-quaterly and for some tools monthly audits, on the user activity of marketing tools. If a team member has not been actively taking advantage of a tool for 45 days (30 days for Zoominfo) or more, they will have access to that tool revoked with 5 business days of notification via email or slack (for Zoominfo). Activity will be determined by user reports pulled by the tools' admins. These reports can be found by viewing issues from the Marketing Ops project with the issue label `Mktg Tool Audit`. The reports will utilize the audit issue template from the Marketing Ops project. To regain access to revoked tools, the team member will need to submit a new access request and follow standard access request procedures. However, user seats will be on a first-come-first-serve basis unless it is determined additional seats should be purchased.
 
@@ -397,7 +398,7 @@ For budgetary reasons, Marketing Operations will be performing quarterly, bi-qua
 - Tools included under the monthly guidelines:
   - Zoominfo (for more information regarding the Zoominfo process feel free to review the [Process: Monthly ZoomInfo License Review GDoc](https://docs.google.com/document/d/1-_miWHyUPxcgJxoGWTPLI41bVFveBFYjthpW8M3Ui48/edit)
 
-### Remaining Licenses Communications Plan
+## Remaining Licenses Communications Plan
 
 The communication plan applies to tools like Zoominfo and Outreach and is created to detail the communications that are sent regarding remaining licenses. It speaks to what communications go out, when they take place and in what format.
 
@@ -408,7 +409,7 @@ The communication plan applies to tools like Zoominfo and Outreach and is create
 | 5 Licenses Remaining Notification (Zoominfo/Outreach) | In #sdrleadership_mktgops slack channel | When we’re down to 5 Zoominfo/Outreach licenses remaining, a notification will be sent to sales leadership via the #sdrleadership_mktgops slack channel. | Rob Rosu / Gillian Murphy |
 | Quarterly Sales Reps Hiring Plan Update | [SSOT SDR SFDC Hierarchy of Roles](https://docs.google.com/spreadsheets/d/1egLt1RfVNRcGckYkgtkOwdcOqDjdsfcJCsrRiwzxPLY/edit#gid=0) | Sales leadership will update the Sales Rep Hiring plan on a quarterly basis. | Ramona Elliott |
 
-### Working with Sales Systems for New Fields and/or Permission Set Updates
+## Working with Sales Systems for New Fields and/or Permission Set Updates
 
 The MktgOps team frequently works with the [Sales Systems team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter) to deploy new/updated fields and permission sets. See the below information regarding the process for working with Sales Systems for these changes and SLAs we adhere to.
 
@@ -561,19 +562,21 @@ One of the following must occur to have a lead move from `Raw` to `Inquiry`
 1. Fill out a form (social or website)
 1. [Behavior score](/handbook/marketing/marketing-operations/marketo/#behavior-scoring) > 10 pts.
 
-## Data Cleanliness and Accuracy Process
+## Data Cleanliness and Enrichment Process
 
 Marketing Operations has the responsibility for cleaning and enriching our database of leads/contacts with the most complete and up to date information.
 
 The cleaning part of this process is being done with the Cleanse functionality of the lead/contact deduplication tool, Ringlead.
 
-The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data.
+The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data. [Cognism](https://about.gitlab.com/handbook/marketing/marketing-operations/cognism/), is another enrichment tool but only for a smaller subset of our lead data. As of now, only the BDRs and Cognism admins have login access. However, Cognism data, can be found in the Cognism fields on the lead/contact layout.
 
-This cleaning & enrichment process has 3 main priorities:
+This cleaning & enrichment process has 5 main priorities:
 
 1. **Enrich net new leads with Marketo Webhook**  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms.
-2. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via the Marketo Webhook.
-3. **Assure Data Cleanliness & Accuracy** - The Marketing Operations team is following the recommended deduplication order of operations as detailed below:
+2. **Instant Enrich for leads** - When new leads are created in SFDC, Instant Enrich functionality kicks in and the record's **[ZI] fields** are enriched upon creation. 
+3. **Enriching new new leads with Scheduled Enrich** - As a back-up to the Instant Enrich functionality, all leads created in the last 24h are enriched through scheduled enrichment, to make sure they contain the most updated information. 
+4. **Existing Database Enrichment** - All lead records in SFDC are enriched regularly to make sure that the leads who change roles/companies are updated with the lastest information. 
+5. **Assure Data Cleanliness & Accuracy** - The Marketing Operations team is following the recommended deduplication order of operations as detailed below:
     * Lead to Lead Deduplication  (*Completed - Runs weekly on Fridays and Saturdays*)
     * Account Deduplication (This part is currently performed using Openprise by Sales Operations)
     * Converting Leads to New Contacts (This step is skipped in our case since it would impact sales workflow considerably. We will re-evaluate if the sales team is not as heavily focused on leads as we are now.)
@@ -585,11 +588,19 @@ For more information regarding our data deduplication process visit the [Ringlea
 
 **Cleaning & Enrichment Frequency:** While the enrichment jobs for net new leads, from our forms, work on a continuous bases, when it comes to enrichment of our existing leads & contacts in SFDC, this is done via scheduled enrichment jobs as follows:
 
-1. All leads are enriched on a weekly basis, on every Saturday.
+1. All leads are enriched on a monthly basis, last Saturday of the month.
 2. All leads created in the last 7 Days are enriched daily to make sure no new leads from list uploads miss enrichment and also to make sure our sales teams have the most up to date information when working them.
-3. All contacts in our SFDC instance get enriched weekly, every Saturday.
+3. All contacts in our SFDC instance get enriched monthly, last Saturday of the month.
 
 You can find more details on the enrichment process in our [Zoominfo Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/).
+
+### Lead List Upload Enrichment 
+
+To be able to upload a lead in our SFDC, it is mandator for the lead to have an email address. Sometimes we do run into situations where the email address is not available. 
+
+To bypass this challenge and still be able to upload the leads in SFDC, please create an **List Upload - Enrichment Request** with this [issue template](insert_link_here_when_available), upload the CSV file in the issue and Mops will use the **Zoominfo Enhance**, **Zoominfo ListMatch** and **Cognism Enhance** functionality to enrich these records with the most up to date information (including the email address). 
+
+**Note:** Such records as lead list uploads with no email addres, that sub-sequently are enriched with the email address through Zoominfo/Cognism enrichment, need to be marked as `Opt-out` as **these individuals did not give us the express consent** that they can be reached to; 
 
 ### Cleaning Test Leads
 
