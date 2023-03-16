@@ -273,6 +273,7 @@ Ensure any changes you make are approved by legal and saved within the OneTrust 
 1. Reconsent will occur after: this will prompt the banner again for users to capture reconsent. The default is 1 year but can be configured by months, years, and days. 
 1. Capture records of consent: cookie ID associated with each user; the consent module logs those preferences. 
 1. Advanced analytics: sends browser type, device type, and country where the user consented. This information will be shown in the dashboard. Toggle this to a specific cookie category (example: performance cookies for Google analytics). 
+1. Google Consent Mode is a feature that controls how Google services, such as Google Analytics and Google Ads, collect and use data from website visitors based on their consent preferences. The Storage Type column contains the fixed [consent type from Google](https://support.google.com/analytics/answer/12334711). Each Storage Type should map to the OneTrust cookie category to ensure Google platforms aligns with OneTrust. 
 
 #### Assigning a Geolocation Rule Group to Domains
 
