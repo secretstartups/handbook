@@ -37,13 +37,6 @@ Jamf was selected as a best option that covered our list of requirements:
 
 We performed a proof of concept of multiple solutions and determined [Jamf](https://www.jamf.com/) to be the best option due to its complete suite of features that meets GitLab compliance and customer requirements as well as providing end-user transparency through accessible logs.
 
-
-## I've tried to install and it's advising that the certificate is `unverified`. Is this normal behaviour?
-
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vTWtYJa5U2MFo7huJVsCmezZkGetrjvR7uKdw5XFsTS26mGOVmrkISwXE5HZ7RKufPXMHqHH5qR1j6D/pub?w=480&h=360">
-
-Yes. It is safe to install and there is no threat to install the certificate. What you're seeing is expected as the Jamf Pro CA is a self-signed certificate and is technically not trusted until it is installed.
-
 ## Migration Assistant is blocked
 
 If you are issued a refreshed or replacement laptop, please do not transfer data from your old machine via Migration Assistant. Based off of feedback from Jamf support, a lengthy troubleshooting process, and extensive testing, we have determined that Migration Assistant breaks endpoint communication with the Jamf Pro server. If you need to transfer any files, please either use the web version or the desktop application of [Google Drive](https://about.gitlab.com/handbook/tools-and-tips/#adding-google-drive-to-your-mac).
@@ -143,6 +136,12 @@ To install Jamf on your Mac hardware device, you will need to launch the **Chrom
 <img src="self-service.png" alt="Self Service" width="400">
 
 - The Self Service tool is an app catalog. Some of the applications can be found from our [GitLab Tools and Tips Other Apps handbook page](https://about.gitlab.com/handbook/tools-and-tips/other-apps/). Apps listed here have been documented as helpful apps for GitLab team members.
+
+## I've tried to install and it's advising that the certificate is `unverified`. Is this normal behaviour?
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vTWtYJa5U2MFo7huJVsCmezZkGetrjvR7uKdw5XFsTS26mGOVmrkISwXE5HZ7RKufPXMHqHH5qR1j6D/pub?w=480&h=360">
+
+Yes. It is safe to install and there is no threat to install the certificate. What you're seeing is expected as the Jamf Pro CA is a self-signed certificate and is technically not trusted until it is installed.
 
 ## MacOS Updates with Nudge
 
