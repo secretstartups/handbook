@@ -74,12 +74,13 @@ These templates should be used during the [onboarding process](/handbook/people-
 * Access requests are required when requesting a role above developer (i.e. maintainer, owner) on the following GitLab repositories and Groups:
 
   - Repos:
-    - www-gitlab-com
+    - www-gitlab-com (Public Handbook Repo) (See note below)
     - [GitLab CE and GitLab EE](https://gitlab.com/gitlab-org/gitlab) (aka single Rails repository)
   - Groups:
-    - gitlab.com and gitlab.org - top level group permissions
+    - [GitLab.com](https://gitlab.com/gitlab-com) and [GitLab.org](https://gitlab.com/gitlab-org) - top level group permissions
+    -NOTE: When provisioning access to a top level group, access is inherited to all sub-groups and projects below the group. For this reason, Owner and Maintainer access should **almost always** be provisioned at the project or sub-group levels rather than at the top parent group level, else we may not adhere to our [principle of least-privilege](https://about.gitlab.com/handbook/security/access-management-policy.html#principle-of-least-privilege).
 
-* Access requests should be submitted when requesting explicit access to private groups, sub-groups, and repositories in order to facilitate deprovisioning.
+* For all projects, access requests should be submitted when requesting explicit access to private groups, sub-groups, and repositories, as well as public facing repositories that are limited in access to GitLab team members in order to facilitate deprovisioning. This also allows for greater oversight of permissions being granted across GitLab projects.
 
 * Requests for access to Infrastructure assets (servers and databases) require a second layer of approval from Infrastructure Management.
 
