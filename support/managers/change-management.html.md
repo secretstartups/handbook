@@ -84,6 +84,10 @@ Include at least the following in the MRs:
   that led to the decision)
 * Summarize the testing, both what tests were run and what the results were
 * Link to the [Message Plan Issue](#the-process-change-rollout-plan)
+* Add the label ~"Manager Attention" to ensure that the support management team are informed about the proposed change
+* As an additional guardrail also add the group `@gitlab-com/support/managers` to the issue to ensure that the support management team are informed about the proposed change
+
+We use the rollout issue template to get acknowledgement of awareness of a new workflow or process.
 
 *NOTE: If there's any part of the proposed changes that cannot be presented through
 a MR, place the information in the issue instead.*
@@ -104,6 +108,8 @@ topic in the [leadership sync meeting](/handbook/support/managers/#organization-
 * Let the team know whether you're proposing a solution based on compelling
   existing data or you're planning to conduct one or more tests (trials) to
   determine which solution to propose.
+* Add the label ~"Manager Attention" to ensure that the support management team are informed about the proposed change
+* As an additional guardrail also add the group `@gitlab-com/support/managers` to ensure that the support management team are informed about the proposed change
   * If you will be testing, then it's suggested that you:
     * Present potential solutions and discuss which of them will be tried
     * Discuss any likely impacts of the tests
@@ -162,6 +168,4 @@ process.
 ### The Process Change Rollout Plan
 When it's time at last to make the change, create a
 [Process Change Rollout Plan issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=support-change-rollout).
-The process change rollout plan template contains instructions to guide you
-through filling in all the appropriate details. And the issue itself then
-describes your full action plan.
+The process change rollout plan template contains instructions to guide you through filling in all the appropriate details. And the issue itself then describes your full action plan.
