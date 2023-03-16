@@ -13,11 +13,6 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ---
 
-We are currently developing new account segmentation which will be implemented in the future. Please see the [Customer Segments](/handbook/customer-success/csm/customer-segments-and-metrics/) page for details.
-{: .alert .alert-info}
-
-There are three models currently offered for Customer Success Manager engagement. These are broken into tiers that currently use Annual Recurring Revenue as a metric for determining a manageable volume for a single Customer Success Manager and the depth of involvement during the engagement.
-
 ## Managing the Customer Engagement
 
 Customer Success Managers will typically manage customer engagements via a GitLab project in the [`account-management` group](https://gitlab.com/gitlab-com/account-management/). This project will be based off the [Enterprise](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template) or the [Commercial](https://gitlab.com/gitlab-com/account-management/commercial/templates/new-customer-project/) Customer Success Plan Template and customized to match the customer's needs as outlined above. The project is pre-loaded with milestones, issues, labels, and a README template to help kick off the project and outline a proof of concept, implementation, and customer onboarding. The following is a short [introduction video](https://youtu.be/b8D67EJjL9w) on GitLab's first iteration of the Customer Success Plan.
