@@ -229,6 +229,14 @@ Within the Environments group we use the following processes and best practices 
 
 The Environments group uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](https://about.gitlab.com/handbook/engineering/development/ops/deploy/environments/quality) for how our team is leveraging these tests.
 
+#### gitlab-agent QA bot
+
+In [`feed_alerts_configure`](https://gitlab.slack.com/archives/C025U6U6HA9) we have a bot that  runs tests at [this project](https://gitlab.com/gitlab-org/configure/k8s-agent-qa/-/pipelines)
+
+If this bot alerts of a failed pipeline, we should treat these the same as a broken master branch. 
+- Check the pipeline for intermittent errors (and retry if this is the case)
+- Otherwise create an investigation issue to dig further/fix.
+
 ## Error Budget
 
 Our target availability is 99.95%
