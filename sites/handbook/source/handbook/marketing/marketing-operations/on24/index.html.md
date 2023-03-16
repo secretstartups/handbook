@@ -224,6 +224,18 @@ Follow these steps to apply a console template:
     - [YYYYMMDD_EventName_ProjectManagement_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13028A1)
     - [YYYYMMDD_EventName_Security_Workshop_On24_template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13033A1)
 
+#### Setting up Landing pages and email assets
+
+Much of the landing page set up is controlled by program tokens, same as email assets. 
+- To see what tokens are used on the LP or email asset, create a draft of the landing page and take note of what tokens you see. Tokens are depicted as something similar to this when they are not plugging in information: {{my.ThisIsAtokenExample}}
+- On landing pages, the LP preview, `elements` and `variables` sections list all available sections of text - many of which have tokens already in place.
+- What the tokens plug in to the LP or email asset and other various assets can be changed at the program level, under the `tokens` section. Many tokens have definitions of what they are and what they plug in to the program assets. Take special care when changing tokens as they can affect buttons/links.
+- The `elements` and `variables` sections on landing pages will help determine the look of the LP. `Elements` is primarily for text editing whereas `variables` affects page meta data and allows toggling of sections' visibility. Feel free to toggle any section on/off to see what appears or disappears. Change the LP to your liking and or use case.
+- With `on-demand` or `gated content` LPs, there is also an option to toggle video/content previews, if the content host allows for the proper embed URL. In [this example](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/landingpage/5910), the embed preview is a Vimeo feature, so mileage may vary on how often video previews can be used. It is video host dependent. To set this up:
+    - Add text to describe the `value` area under the `Value Content` section of the LP `elements`. This element acts as a header for the `value content` section
+    - Place embed preview links and update wording in the `Value Examples` LP `element`. 
+    - Under LP variables, toggle `valueBox Visibility` and `valueBox Examples` to `visible to activate the sections on the LP
+
 ##### Webcasts
 
 After completing the creation of an On24 web event, the next step is to connect the webinar to Marketo. Something to note, only the workshop template has a difference in set up. 
@@ -259,9 +271,10 @@ After completing the creation of an On24 web event, the next step is to connect 
 
 ##### Attended On-Demand
 After accomodations have been made to add the webcast recording in Pathfactory for `Attended On-Demand` purposes, some additional steps must be taken. 
-1. `04 On24 Processing - On Demand - On24` should already be activated and it will remain so as long as the webcast is available to registrants in On24. Only registrants who have signed up via the original webcast registration form should be able to view this in On24, at least as of February 2023.
-2. Add in additional tokens as needed to send out the `On-demand auto responder` asset via the `04 On24 Processing - On Demand - Pathfactory` smart campaign. The main token to fill in is {{my.ondemandURL}}, which is the link to the on-demand PF track.
-3. Activate `04 On24 Processing - On Demand - Pathfactory` when preparations are complete. This smart campaign will email a link to the Pathfactory track where viewers can watch the webcast.
+1. `04 On24 Processing - On Demand - On24` should already be activated and it will remain so as long as the webcast is available to registrants in On24. Only registrants who have signed up via the original webcast registration form should be able to view this in On24.
+2. Add in additional tokens as needed to send out the `On-demand auto responder` asset via the `04 On24 Processing - On Demand - Pathfactory` smart campaign. The main token to fill in is {{my.ondemandURL}}, which is the link to the on-demand PF track. Also fill-in the filters present on the smart list for this program's specifications.
+3. Trade out the form on the landing page when switching to `Attended On-Demand`. In most cases, this means trade `FORM 1592: Webcast` for `FORM 2076: On-demand Webcast`.
+4. Activate `04 On24 Processing - On Demand - Pathfactory` when preparations are complete. This smart campaign will email a link to the Pathfactory track where viewers can watch the webcast.
 
 
 ##### Workshops

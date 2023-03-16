@@ -14,7 +14,7 @@ description: "Partner Deal Registration"
 
 Vartopia is a partner lead sharing and deal registration system designed to maximize the value of [GitLab partner program](https://about.gitlab.com/handbook/resellers/) for channel partners. Partner lead sharing is part of the Prospect Module, while deal registration is part of the New Registrations and Registration Module.
 
-## Prospect Module
+## Prospects Module
 
 ### Channel Partner Lead Flow Overview
 Channel Partners can work with the Channel and Alliance Marketing team to create campaigns that will be shared to the Vartopia module. The [campaign types](/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Joint GitLab and Partner Events, Self-Managed Free Trials, and MDF funded campaigns. The flow starts from Marketo > Salesforce > LeanData > Vartopia.
@@ -23,7 +23,7 @@ The partner lead is:
 1. Created in Marketo via list import or form submission,
 2. Synced SFDC via Salesforce Campaign Sync,
 3. Assigned to `Partner Queue` via LeanData,
-4. Added to the Prospect Module in Vartopia. 
+4. Added to the Prospects Module in Vartopia. 
 
 ### Vartopia Sync Requirements
 In order for the Partner to be able to see and action the lead in Vartopia, the SFDC record must have the following fields updated. Vartopia calls SFDC every hour looking for updates to the SFDC record.
@@ -52,15 +52,19 @@ In the final phase, GitLab Inc. will allow Channel Partners a period of 5 days, 
 
 #### Recall Process Overview
 
-- Phase 1 - recall leads created over 30 days ago
-- Phase 2 - recall leads that have not been accepted after 15 days
-- Phase 3 - recall leads accepted after 5 days, and no actions (not in the qualification stage) after 10 days.
+- Phase 1 - recall leads created over 30 days ago (not accepted nor qualified)
+- Phase 2 - recall leads that have not been accepted after 15 days (not accepted nor qualified)
+- Phase 3 - recall leads accepted after 5 days, and not actions (not qualified) after 10 days.
+
+*Reminder: This only applies to leads acquired from joint events.*
 
 #### Rules
 
 - At any time, a recalled lead participates in another partner campaign, they will not be reassigned to a partner.
 - At any time, a partner lea participates in multiple campaigns will be prioritized to the partner of the first campaign. 
+- At any time, a lead participates in an MDF campaign, they will not and can not be recalled.
 - Actively working leads will not shared to partners which means their `CRM Partner ID` can not be updated or should be removed. The only exception to this rule are leads who participate in an MDF campaign.
+
 
 #### FAQ - Partner Recall
 
@@ -169,7 +173,7 @@ Creating scheduled reports that sends to channel partners' inbox at the start of
 Follow the steps to create a report that summarizes new leads that are assigned to `Partner Prospect Admin`.
 
 1. Log into Vartopia 
-1. Go "Prospect" view, find "Custom Reports" located on the bottom left and click "New".
+1. Go "Prospects" view, find "Custom Reports" located on the bottom left and click "New".
 1. Create New Customer Report
    1. Update Report Name
    1. Update Advanced Filtering 

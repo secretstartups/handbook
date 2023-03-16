@@ -127,9 +127,10 @@ Its also super important that if there are notes, the notes are clear to someone
           - You can also enter an integer in for `Num Employees` and this will automatically update the `Employees Bucket` field if blank.
 
 #### Partner Lead Imports
-If this import is a part of a joint event with partners, you must include the CRM Partner ID as a column in your list upload. You can find a list of these IDs [here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#partner-crm-ids)
 
-If the lead is not meant to be passed to the partner, leave that field blank. 
+If this import is part of a Channel or Alliance marketing campaign, you must include the `CRM Partner ID` as a column in your list upload. You can find a list of these IDs [here](https://about.gitlab.com/handbook/marketing/channel-marketing/partner-campaigns/#crm-partner-id)
+
+If the lead is not associated to a partner, leave that field blank. 
 
 
 ### Campaign Templates - Info for Post-MktgOps Hand-off
