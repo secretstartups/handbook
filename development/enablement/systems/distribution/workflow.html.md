@@ -127,6 +127,46 @@ very urgent can be safely reprioritised due to previous experiences.
 Any of the other projects in teams responsibility do not have a specific process assigned. The items not directly in any of the two above projects
 will be assigned directly and deadlines set by the EM.
 
+## Distribution DRI
+
+In order to minimize disruption and context switching for team members, Distribution designates one engineer on a weekly rotation basis (DRI, Directly Responsible Individual), who will be responsible for the following duties during their normal office hours. For urgent requests outside of those hours, it will be handled via the [on call process](https://about.gitlab.com/handbook/on-call/).
+
+### Expectation
+
+Similar to [Development Escalation Process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#expectation), the DRI is not solely responsible for a resolution of any requests, they should engage any SME and escalate to engineering manager and/or product manager whenever requires. In addition to that, there is also no expectation that the DRI can complete the same amount of `Deliverable` work during the week.
+
+### Duties
+
+The Distribution DRI works on the following areas per the order of the list.
+
+#### During the week
+
+1. Support production incident
+1. [Support customer request and call](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/#engaging-distribution-for-expertise-in-support)
+1. Answer or redirect questions in Slack channel [#g_distribution](https://gitlab.slack.com/archives/C1FCTU4BE)
+1. [Triage issues](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/triage.html)
+1. Response `@gitlab-org/distribution` group mention in GitLab
+1. ***Optional***: work on `Deliverable`
+1. Work on any Distribution topic inspiring you the most
+
+#### Handover
+
+If any request is still on going by the end of the week, the DRI should consider one of the following with their best judgement:
+
+1. Close the request with mitigation and open a follow-up issue to be triaged by our regular triage process.
+1. Update the request with a comment to hand it over to the next week's DRI.
+1. It might be the most efficient way to continue with the request as a SME, however, it is still highly encouraged to hand it over with documentation for knowledge sharing if feasible.
+1. Discuss anything else with the upcoming DRI.
+
+### Other team members
+
+When you are not on DRI duty, please consider the following when the request is not [Stuff that should Just Work](https://gitlab.com/groups/gitlab-org/-/labels?subscribed=&search=Stuff+that+should+Just+Work):
+
+1. Redirect any [active incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) and [deployment blocker](https://about.gitlab.com/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) request to the Distribution DRI during their normal office hours, or take the request if you are the first available team member
+1. Redirect any Slack DM to the channel [#g_distribution](https://gitlab.slack.com/archives/C1FCTU4BE)
+1. Redirect any GitLab direct mention to `@gitlab-org/distribution` group
+1. Redirect any other requests to [How to work with Distribution](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/#how-to-work-with-distribution)
+
 ## Iteration
 
 Use iteration to better control scope and deliver measurable value in each release. A timebox measurement process would ensure that if expected progress isn’t achieved, there’s a procedure to follow.
