@@ -819,7 +819,7 @@ Should you prefer to continue to contribute to an issue under active development
 
 ### MVP
 
-The Contributor Success team is taking over the process of soliciting nominations, choosing an MVP, and adding the content to the release post. ([Issue](https://gitlab.com/gitlab-org/quality/contributor-success/team-task/-/issues/163))
+The Contributor Success team is taking over the process of soliciting nominations, choosing an MVP, and adding the content to the release post. ([Issue](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/163))
 
 The release post manager no longer has any MVP-related tasks.
 
