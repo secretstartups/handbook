@@ -54,6 +54,22 @@ When vulnerabilities are manually discovered during open-scope work, an issue wi
 
 ## Red Team Logistics
 
+### Red Team Report Delivery
+
+All operations end with a final report. We use an issue template which is [shared publicly here](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-issue-templates).
+
+Security risks affect everyone, and it is essential to make our reports approachable and consumable to a broad audience. To achieve this, we make an effort to [use simple language](/handbook/communication/#simple-language). Our goal is to ensure that anyone in the company can understand the reports, even if they don't have a background in security.
+
+After an operation has concluded, we will create a short video summarizing the operation, which should not exceed five minutes. We will then share the following in `#whats-happening-at-gitlab` and cross-post it in `#security`:
+
+- A very short summary of the operation, including the video overview
+- A link to the final report
+- A link to the retrospective issue to solicit questions and feedback
+- A disclaimer to keep the information [SAFE](/handbook/legal/safe-framework/#how-do-we-reinforce-safe).
+- A tagged list of individual operation participants as well as the Security Incident Response Team (SIRT) as a whole for awareness since not all team members participate in an operation each time.
+
+By doing this, we help foster a culture of security awareness throughout the organization and ensure that everyone can benefit from our work.
+
 ### Red Team Metrics
 
 We want to measure the things that matter. We are currently tracking the recommendations we provide across the organization and breaking them into the following three categories:
