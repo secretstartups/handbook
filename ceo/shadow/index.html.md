@@ -144,9 +144,11 @@ Learn more about what to expect from a [remote shadow rotation](#remote-shadow-r
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
 
 
-### Parental Participation
+### Parental participation
 
 We understand that participation in the CEO Shadow Program is optional and can cause hardships at home. To help overcome these challenges and to allow flexibility for parents to participate, there will be some rotations identified as "parent-friendly" weeks. These are weeks when Sid doesn't need a shadow for the full 5 workdays or where the program is split so the weeks are not consecutive.
+
+See the [childcare](#childcare) section in [Travel & Expenses](#travel--expenses) for guidance on how to expense childcare costs.
 
 ### Rotation rhythm
 
@@ -692,13 +694,9 @@ Shadows are able to expense food and beverage during their rotation and should f
 
 #### Childcare
 
-Childcare is provided during the active shadowing period and will be reimbursed via your expense report. You must book the childcare yourself and it is advised you reach out far in advance as childcare "drop-ins" can be limited depending on the week. Currently, GitLab doesn't have a ["Backup Care"](https://www.brighthorizons.com/family-solutions/back-up-care) program so you must tell the childcare it is for a "drop-in". Depending on your hotel accommodations, finding a nearby daycare is most convenient or a daycare nearby the [Millennium tower](https://www.google.com/maps/place/Millennium+Tower+San+Francisco/@37.7905055,-122.3962516,15z/data=!4m2!3m1!1s0x0:0x9fe15ebd4a8300d8?sa=X&ved=2ahUKEwiUoZ_hpb_iAhXBop4KHeOAB2QQ_BIwGHoECAsQCA). Some childcare facilities will require payment at end-of-day or end-of-week via cash/check only so request an invoice/receipt for expense submission purposes.
+Childcare is provided during the active shadowing period and will be reimbursed via an expense report. You must book the childcare yourself and it is advised you reach out far in advance as childcare "drop-ins" can be limited depending on the week. Currently, GitLab doesn't have a ["Backup Care"](https://www.brighthorizons.com/family-solutions/back-up-care) program so you must tell the childcare it is for a "drop-in".
 
-Past Childcare facilities that have been accommodating:
-
-1. [Bright Horizons at 2nd Street](https://child-care-preschool.brighthorizons.com/ca/sanfrancisco/2ndstreet?utm_source=GMB_yext&utm_medium=GMBdirectory&utm_campaign=yext&IMS_SOURCE_SPECIFY=GMB) - This facility is nearest the [Courtyard by Marriott SF Downtown Hotel](https://www.google.com/maps/place/Courtyard+by+Marriott+San+Francisco+Downtown/@37.785751,-122.3997608,16.7z/data=!4m12!1m6!3m5!1s0x8085807c643d1007:0x85815e04bf8d233c!2sCourtyard+by+Marriott+San+Francisco+Downtown!8m2!3d37.7859011!4d-122.3969222!3m4!1s0x8085807c643d1007:0x85815e04bf8d233c!8m2!3d37.7859011!4d-122.3969222).
-    - Contact: [Rose - Current Director](https://child-care-preschool.brighthorizons.com/ca/sanfrancisco/2ndstreet)
-
+If you're traveling for the CEO Shadow program, depending on your hotel accommodations, finding a nearby daycare is most convenient. Some childcare facilities will require payment at end-of-day or end-of-week via cash/check only so request an invoice/receipt for expense submission purposes.
 
 ### Traveling with the CEO
 
