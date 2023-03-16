@@ -224,9 +224,10 @@ Don't display surprise when people say they don't know something, as it is impor
 
 ##### Collaboration is not consensus
 {:.no_toc}
-When collaborating, it is always important to stay above radar and work [transparently](/handbook/values/#transparency), but collaboration is [not consensus](/handbook/leadership/#making-decisions).
+When collaborating, it is always important to stay above radar and work [transparently](/handbook/values/#transparency), but collaboration is [not consensus](/handbook/leadership/#making-decisions) and disagreement is part of collaboration.
 You don't need to ask people for their input, and they shouldn't ask you "Why didn't you ask me?"
 You don't have to wait for people to provide input, if you did ask them.
+You don't need to have everyone agreeing to the same thing - they can [disagree, commit, and disagree](#disagree-commit-and-disagree). [Two-way doors decisions](#make-two-way-door-decisions) can be reversed as part of [disagree, commit, and disagree](#disagree-commit-and-disagree), while one-way door decisions benefit from more input. Recognize these reversible two-way door decisions for when less input is required to iterate faster.
 We believe in permissionless innovation—you don't need to involve people, but everyone can contribute.
 This is core to how we [iterate](/handbook/values/#iteration), since we want smaller teams moving quickly rather than large teams achieving consensus slowly.
 
@@ -473,7 +474,7 @@ We demonstrate results when we do what we promised to each other, customers, use
 ## ⏱️ Efficiency
 {:#efficiency .gitlab-purple}
 
-Working efficiently on the right things enables us to make fast progress, which makes our work more fulfilling.
+Working efficiently on the right things enables us to make fast progress, which makes our work more fulfilling. Efficiency is a foundation for [results](#results), because it helps us to achieve more.
 
 ##### Only Healthy Constraints
 {:.no_toc}
@@ -499,11 +500,15 @@ For example, sales is hard because you are dependent on another organization, an
 {:.no_toc}
 Team members should first [search for their own answers](/company/culture/all-remote/self-service/) and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a [low level of shame](/handbook/values/#low-level-of-shame). [Write down any new information discovered](/handbook/values/#write-things-down) and pay it forward so that those coming after will have better efficiency built on top of practicing collaboration, inclusion, and documenting the results.
 
+Team members have more room to grow themselves when they are able to self-service and self-learn.
+
 ##### Efficiency for the right group
 {:.no_toc}
 Optimize solutions globally for the broader GitLab community. Making a process efficient for one person or a small group may not be the efficient outcome for the whole GitLab community. As an example, it may be best to discard a renewal process that requires thousands of customers to each spend two hours in favor of one that only takes sixty seconds, even when it may make a monthly report less efficient internally! In a decision, ask yourself "For whom does this need to be most efficient?" Quite often, the answer may be your users, contributors, customers, or team members that are dependent upon your decision.
 
 It is easy to prioritize consistency over efficiency because consistency is often more efficient initially. We should slow down when optimizing for consistency. Taking a company-wide lens when evaluating changes will help ensure that new processes will improve efficiency for GitLab as a whole and be the best decision for the company as a whole.
+
+Focus on efficiency should be global in nature, not just local to a given function. Global efficiency could include efficiency with customers, candidates, and contributors as well.
 
 ##### Be respectful of others' time
 {:.no_toc}
@@ -513,7 +518,7 @@ Consider the time investment you are asking others to make with meetings and a p
 {:.no_toc}
 Every dollar we spend will have to be earned back. Be as frugal with company money as you are with your own. In saying this, we ask team members to weigh the cost of purchases against the value that they will bring to the company.
 
-Consider the degree to which a purchase increases your ability to better accomplish your work and achieve business [results](/handbook/values/#results) relative to cost.
+Consider the degree to which a purchase increases your ability to better accomplish your work and achieve business [results](/handbook/values/#results) relative to cost. Lowering overhead reduces the cost to operate the business and lets us shift spend toward other priority areas.
 
 We have [guidelines](/handbook/spending-company-money/#guidelines) around this operating principle to help team members better understand our expensing process and expectations.
 
@@ -533,13 +538,17 @@ Keep one-to-many written communication short, as mentioned in [this HBR study](h
 {:.no_toc}
 We want each team member to be [a manager of one](/handbook/leadership/#managers-of-one) who doesn't need daily check-ins to achieve their goals. Team members are given the freedom to own projects and initiatives and are trusted to see them through to a successful end.
 
+When team members are managers of one they can have an increased work/life balance, because they are more empowered to make decisions around how they allocate their time throughout each day.
+
 ##### Freedom and responsibility over rigidity
 {:.no_toc}
 When possible, we give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes. You should have clear objectives and the freedom to work on them as you see fit. Freedom and responsibility are more efficient than rigidly following a process, [or creating interdependencies](/company/team/structure/#product-groups), because they enable faster decision velocity and higher rates of [iteration](#iteration).
 
+When team members have freedom and responsibility over rigidity, they have more room to help others.
+
 ##### Accept mistakes
 {:.no_toc}
-Not every problem should lead to a new process to prevent them. Additional processes make all actions more inefficient; a mistake only affects one. Once you have accepted the mistake, learn from it.
+Not every problem should lead to a new process to prevent them. Additional processes make all actions more inefficient; a mistake only affects one. Once you have accepted the mistake, learn from it. When team members are free to accept mistakes, they can take more calculated risks.
 
 ##### Move fast by shipping the minimal viable change
 {:.no_toc}
@@ -733,6 +742,14 @@ The most important thing that managers can do is facilitate an environment in wh
 {:.no_toc}
 Long-lasting relationships [are the rocks of life](https://www.youtube.com/watch?v=6_N_uvq41Pg), and come before work. As someone said in our #thanks channel after helping a family member for five days after a hurricane: "THANK YOU to GitLab for providing a culture where "family first" is truly meant".  Use the hashtag: **#FamilyAndFriends1st**
 
+##### Equity not just equality
+
+[Equity vs. Equality: What’s the Difference?](https://www.marinhhs.org/sites/default/files/boards/general/equality_v._equity_04_05_2021.pdf)
+
+> While the terms equity and equality may sound similar, the implementation of one versus the other can lead to dramatically different outcomes for marginalized people.
+>
+> Equality means each individual or group of people is given the same resources or opportunities. Equity recognizes that each person has different circumstances and allocates the exact resources and opportunities needed to reach an equal outcome. 
+
 ##### Diversity, Inclusion & Belonging Competency
 {:.no_toc}
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
@@ -801,6 +818,8 @@ The way to resolve this is to write down only what value you can add with the ti
 
 However, if we take smaller steps and ship smaller, simpler features, we get feedback sooner. Instead of spending time working on the wrong feature or going in the wrong direction, we can ship the smallest product, receive fast feedback, and course correct. People might ask why something was not perfect. In that case, mention that it was an iteration, you spent only "x" amount of time on it, and that the next iteration will contain "y" and be ready on "z".
 
+Iteration enables [results](#results) and [efficiency](#efficiency)
+
 <figure class="video_container">
     <iframe src="https://www.youtube.com/embed/2r0UeZ5p57Y" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -809,7 +828,7 @@ However, if we take smaller steps and ship smaller, simpler features, we get fee
 
 ##### Don't wait
 {:.no_toc}
-Don’t wait. When you have something of value like a potential blog post or a small fix, implement it straight away. Right now, everything is fresh in your head and you have the motivation. Inspiration is perishable. Don’t wait until you have a better version. Don’t wait until you record a better video. Don’t wait for an event (like Contribute). Inventory that isn’t released is a liability since it has to be managed, becomes outdated, and you miss out on the feedback you would have received had you implemented it straight away.
+Don’t wait. When you have something of value like a potential blog post or a small fix, implement it straight away. Right now, everything is fresh in your head and you have the motivation. Inspiration is perishable. Don’t wait until you have a better version. Don’t wait until you record a better video. Don’t wait for an event (like Contribute). Inventory that isn’t released is a liability since it has to be managed, becomes outdated, and you miss out on the feedback you would have received had you implemented it straight away. When we don't wait we signal intent to others that we have a purpose to resolve something.
 
 ##### Set a due date
 {:.no_toc}
@@ -842,11 +861,13 @@ We encourage MVCs to be as small as possible. Always look to make the quickest c
 {:.no_toc}
 If you need to decide something as a team, make a concrete proposal instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time. Every meeting should be a review of a proposal. We should be [brainwriting on our own instead of brainstorming out loud](https://www.fastcompany.com/3033567/brainstorming-doesnt-work-try-this-technique-instead). State the underlying problem so that people have enough context to propose reasonable alternatives. The people that receive the proposal should not feel left out and the person making it should not feel bad if a completely different proposal is implemented. Don't let your desire to be involved early or to see your solution implemented stand in the way of getting to the best outcome. If you don't have a proposal, don't let that stop you from highlighting a problem, but please state that you couldn't think of a good solution and list any solutions you considered.
 
+By making a proposal you also provide better visibility into the work and the context surrounding it.
+
 In this [GitLab Unfiltered video](https://youtu.be/tPTweQlBS54), GitLab CEO and co-founder Sid Sijbrandij converses about iteration in engineering, leveraging proposals to break work into smaller components.
 
 ##### Everything is in draft
 {:.no_toc}
-At GitLab, we rarely mark any content or proposals as drafts. Everything is always in draft and subject to change.
+At GitLab, we rarely mark any content or proposals as drafts. Everything is always in draft and subject to change. When everything is in draft, contributions from team members as well as the wider community are welcomed. By having everything in draft and [assuming others have low context](/company/culture/all-remote/effective-communication/#understanding-low-context-communication), confusion can be reduced as people have shared access to information.
 
 ##### Under construction
 {:.no_toc}
@@ -888,11 +909,11 @@ First, optimize for speed and results (and be deliberate about how your change a
 
 ##### Resist bundling
 {:.no_toc}
-Resist the urge to bundle a series of smaller iterations so team members don't see a project as their last (or best) opportunity to contribute. It's tempting to [create encompassing projects or initiatives](https://news.ycombinator.com/item?id=28463789) that roll many smaller projects up. This incarnation of scope creep drives up cost, encourages fewer risks, and incentivizes perfection (via longer cycle times) over progress.
+Resist the urge to bundle a series of smaller iterations so team members don't see a project as their last (or best) opportunity to contribute. It's tempting to [create encompassing projects or initiatives](https://news.ycombinator.com/item?id=28463789) that roll many smaller projects up. This incarnation of scope creep drives up cost, encourages fewer risks, and incentivizes perfection (via longer cycle times) over progress. When we resist bundling, we reduce the risk that work will be canceled due to scale or scope. By resisting bundling we also reduce the coordination needed because fewer people or teams may be involved.
 
 ##### Make two-way door decisions
 {:.no_toc}
-Most decisions are easy to reverse. In these cases, the [directly responsible individual](/handbook/people-group/directly-responsible-individuals/) should go ahead and make them without approval. Only when you can't reverse them should there be a more thorough discussion.
+Most decisions are easy to reverse. In these cases, the [directly responsible individual](/handbook/people-group/directly-responsible-individuals/) should go ahead and make them without approval. Only when you can't reverse them should there be a more thorough discussion. By [embracing iteration](#embracing-iteration) and making two-way door decisions, we are more efficient and achieve more results.
 
 ##### Changing proposals isn't iteration
 {:.no_toc}
@@ -905,7 +926,7 @@ That said, we would love to work on a two-week release cycle, but that should be
 ##### Embracing Iteration
 {:.no_toc}
 
-In order to embrace iteration, we should have the attitude that we are trying to achieve as much as possible in a small amount of time; it's where we are at the end state of an iteration, that counts. The benefit of iteration is to get feedback from the end-user. Focus on sharing context on the _end of the first iteration_ rather than a _hypothetical future state_ requiring multiple iterations.
+In order to embrace iteration, we should have the attitude that we are trying to achieve as much as possible in a small amount of time; it's where we are at the end state of an iteration, that counts. The benefit of iteration is to get feedback from the end-user. Focus on sharing context on the _end of the first iteration_ rather than a _hypothetical future state_ requiring multiple iterations. By embracing iteration we can increase creativity in incremental components.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/nXfKtnVUhvQ" frameborder="0" allowfullscreen="true"> </iframe>
@@ -1019,7 +1040,7 @@ We demonstrate iteration when we do the smallest viable and valuable thing, get 
 
 Be open about as many things as possible. By making information
 public, we can reduce the threshold to contribution and make collaboration easier.
-Use public issue trackers, projects, and repositories when possible.
+Use public issue trackers, projects, and repositories when possible. Transparency is not communication. Just because something exists in the handbook or elsewhere doesn't mean it's been communicated to the proper folks or channels who should understand or acknowledge it.
 
 An example is the [public repository of this website](https://gitlab.com/gitlab-com/www-gitlab-com/)
 that also contains this [company handbook](/handbook/). Everything we do is public by default, such as the [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/issues) and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/issues) issue trackers, as well as [marketing](https://gitlab.com/groups/gitlab-com/marketing/-/issues) and [infrastructure](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues). Transparency creates awareness for GitLab, allows us to recruit people that care about our values, gets us more and faster feedback from people outside the company, and makes it easier to collaborate with them. It is also about sharing great software, documentation, examples, lessons,
@@ -1037,7 +1058,9 @@ The public process does two things: allows others to benefit from the conversati
 
 In line with our value of transparency and being public by default, all GitLab team member [profiles](https://docs.gitlab.com/ee/user/profile/#user-profile) should be public. Public profiles also enable broader collaboration and efficiencies between teams. To do so, please make sure that the checkbox under the [Private profile](https://docs.gitlab.com/ee/user/profile/#private-profile) option is unchecked [in your profile settings](https://gitlab.com/-/profile). If you do not feel comfortable with your full name or location on your profile, please change it to what feels appropriate to you as these are displayed even on private profiles.
 
-If you believe something shouldn't be public that currently is (or vice versa), then [make a merge request](/handbook/communication/#start-with-a-merge-request) to the relevant page(s) suggesting the change so that you can collaborate with others and discuss with the [DRI](/handbook/people-group/directly-responsible-individuals/).
+If you believe something shouldn't be public that currently is (or vice versa), then [make a merge request](/handbook/communication/#start-with-a-merge-request) to the relevant page(s) suggesting the change so that you can collaborate with others and discuss with the [DRI](/handbook/people-group/directly-responsible-individuals/). When content contains information which is [not public](/handbook/communication/confidentiality-levels/#not-public) it is recommended to remove the specific sections which are not public, put them on their own page in the internal handbook, and then link out to that with a "not public/internal only" note. Always share publicly what we can.
+
+Because we are public by default and have the [SAFE framework](/handbook/legal/safe-framework/) we don't need to make cases for why things should be transparent. If something is unSAFE and needs to remain [not public](/handbook/communication/confidentiality-levels/#not-public) it can be.
 
 ##### Not public
 {:.no_toc}
@@ -1053,6 +1076,8 @@ mistakes. Instead, we should always err on the side of transparency when there
 is a choice to be made between caution or inaction, and transparency. If we make
 a mistake, we now know what the limits of transparency are for the company and
 we should [document this](#not-public). _The only exception to this rule would be in the case when there are legal concerns._
+
+Because some information is [not public](/handbook/communication/confidentiality-levels/#not-public) the public information can be lacking some context. We should be cognizant of that.
 
 We document what is [not public by default](/handbook/communication/confidentiality-levels/#not-public) on our communication page.
 
