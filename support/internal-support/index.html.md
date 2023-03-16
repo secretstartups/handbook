@@ -11,6 +11,21 @@ The purpose of this page is to direct GitLab team members outside of Support on 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Quick reference
+
+If it's not mentioned on this page, it's probably not Customer Support.   
+
+Please read the next sections on [GitLab Support's Purpose](#gitlab-supports-purpose) and [Should I Contact GitLab Support? section](#should-i-contact-gitlab-support) for more information.
+
+| Problem | What to do |
+| ------ | ------ |
+| My customer can't open a ticket (or they get closed)  | Make sure they are a [support contact](https://about.gitlab.com/support/managing-support-contacts/#managing-contacts). Or maybe, [they can't log into ZenDesk](#if-a-customer-cannot-login-to-gitlab-support-zendesk--customer-portal).  |
+| Customer is asking about a ticket | You probably want a [Support Ticket Attention Requestion (STAR)](#i-want-to-escalate-a-ticket). If no ticket, [open one](#requesting-support-for-customers) |
+| My customer has a subscription / license issue  | If a [ticket with the customer](#requesting-support-for-customers) is not possible, open [an internal request](#internal-requests)  |
+| I want to see tickets | Get a [Light Agent ZenDesk account](#requesting-a-zendesk-light-agent-account) |
+
+This is not an exhaustive list. For anything else you believe the Support team covers, please check the table of contents or search this page.
+
 ## GitLab Support's Purpose
 
 GitLab Support provides technical support for GitLab.com and Self-Managed GitLab customers. We do **not** provide support for GitLab team members who are experiencing IT (1Password, Slack, Mac, etc.) issues. If you require assistance with issues of that nature, please contact [Team Member Enablement](/handbook/business-technology/team-member-enablement/self-help-troubleshooting/).
