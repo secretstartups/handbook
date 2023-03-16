@@ -15,7 +15,7 @@ Link to [Commercial Renewal Process](/handbook/customer-success/comm-sales/renew
 
 ## Overview
 
-A key part of the customer relationship lifecycle is the renewal phase. CSMs must proactively track the renewal dates of their customers and align with their Strategic Account Manager (SAE) or Account Executive (AE) to ensure that a customer renewal takes place.
+A key part of the customer relationship lifecycle is the renewal phase. CSMs must proactively track the renewal dates of their customers and align with their Account Executive (AE) to ensure that a customer renewal takes place.
 
 ## Timeframe
 
@@ -33,7 +33,7 @@ Once the above tasks are complete, the playbook and CTA can be closed out as all
 
 A renewal review meeting should have the following attendees:
 
-- Strategic Account Executive
+- Account Executive
 - Customer Success Manager
 - Solutions Architecht, if an upsell is being discussed
 

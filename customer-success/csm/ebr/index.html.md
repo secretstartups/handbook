@@ -21,8 +21,8 @@ CSMs conduct EBRs with their customers as follows:
 
 | Segment | Cadence |
 |---|---|
-| Growth | 20% of book of business is offered an EBR per year, in line with the goal of having [20% of the book of business be PR1](/handbook/customer-success/csm/engagement/#growth-accounts) |
-| Strategic | 1 EBR per customer per year minimum |
+| Commercial | 20% of book of business is offered an EBR per year, in line with the goal of having [20% of the book of business be PR1](/handbook/customer-success/csm/engagement/#growth-accounts) |
+| Enterprise | 1 EBR per customer per year minimum |
 
 ## EBR management for a CSM's book of business
 
@@ -104,8 +104,8 @@ The recommended length of an EBR depends on the customer's segment:
 
 | Segment | Length |
 |---|---|
-| Growth | 60 minutes |
-| Strategic | 90 minutes |
+| Commercial | 60 minutes |
+| Enterprise | 90 minutes |
 
 Any EBR should be structured to provide time for key focus areas, with plenty of discussion on customer objectives and roadmap. If key personas cannot participate for the full session, [arrange the EBR](#planning--assembly) agenda to cover the topic(s) most relevant to these personas at the beginning to ensure maximum benefit to all involved.
 

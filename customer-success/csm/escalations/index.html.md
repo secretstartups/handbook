@@ -27,7 +27,7 @@ Define the process for managing account escalations and define a framework for c
 
 ## Scope
 
-This process addresses critical and high escalations for Strategic customers. This process can also apply to other segments if a strategic partnership or relationship exists. Any GitLab team member can escalate an account on behalf of the customer.
+This process addresses critical and high escalations for CSM-assigned customers. This process can also apply to other segments if a strategic partnership or relationship exists. Any GitLab team member can escalate an account on behalf of the customer.
 
 ## Definitions of Severity Levels
 

@@ -60,7 +60,7 @@ If you are interested in a session that doesn't exist yet, but you're not able o
 
 CSMs should offer sessions early during onboarding, and whenever working on a stage enablement. If the customer wants a session on a topic we do not already have slides for, request more time to prepare, and then work with the Customer Success team to help pull together some slides for the session. Then the newly created session can be added to the list of existing sessions available to other CSMs.
 
-It is recommended to invite another GitLab team member to the session to help with notes, audience management, and Q&A. This helper could be the Solutions Architect or Strategic Account Executive for the account, or it could be a fellow CSM.
+It is recommended to invite another GitLab team member to the session to help with notes, audience management, and Q&A. This helper could be the Solutions Architect or Account Executive for the account, or it could be a fellow CSM.
 
 Consider the typical length of the session when scheduling. It is recommended to coordinate with your champion on the following information:
 

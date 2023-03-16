@@ -20,9 +20,8 @@ Cadence calls are an important aspect of CSM engagement to continue to understan
 
 ## Frequency
 
-- **Strategic Enterprise**: Cadence calls should be weekly during onboarding and at least once per month otherwise, considering specific customer needs and stage in customer lifecycle.
-- **Strategic Commercial**: Cadence calls should be weekly during onboarding and at least once per quarter otherwise, considering specific customer needs and stage in customer lifecycle.
-- **Growth**: Cadence calls should be weekly during onboarding (first month of purchase) and at least once per quarter otherwise. Frequency of cadence calls may vary due to [prioritization](/handbook/customer-success/csm/engagement/#growth-accounts) or customer needs.
+- **Enterprise**: Cadence calls should be weekly during onboarding and otherwise at least biweekly for P1 customers and monthly for P2 customers, considering specific customer needs and stage in customer lifecycle.
+- **Commercial**: Cadence calls should be weekly during onboarding and at least once quarter otherwise, considering specific customer needs and stage in customer lifecycle.
 - **Scale**: Cadence calls are not scheduled on an ongoing basis for Scale CSE customers. Calls with customers are offered programmatically based on the key points defined in the [Scale CSE customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle).
 
 Cadence calls should be [captured in Gainsight](/handbook/customer-success/csm/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
@@ -60,14 +59,14 @@ The following items are to be covered/completed in your initial cadence call/kic
 - Have introductions between the account team and the customer
 - Identify purchase reasons and primary use cases
 - Identify training needs and agree on enablement sessions
-  - New Strategic Customers: Discuss the [Intro to GitLab and the Intro to CI/CD enablement sessions](/handbook/customer-success/csm/workshops/) in your first cadence call
-  - Existing Strategic Customers: Discuss other [enablement sessions](/handbook/customer-success/csm/workshops/) in-line with their desired use cases and potential expansion opportunities (it can be helpful to start discussing future sessions/topics right after one is delivered and it's fresh in their mind)
-  - Mid-Touch & Scale Customers: Share the [landing page for upcoming webinars](/handbook/customer-success/csm/segment/scale/webinar-calendar/), and encourage them to sign up for the Intro to GitLab and the Intro to CI/CD webinars at a minimum
+  - New Customers: Discuss the [Intro to GitLab and the Intro to CI/CD enablement sessions](/handbook/customer-success/csm/workshops/) in your first cadence call
+  - Existing Customers: Discuss other [enablement sessions](/handbook/customer-success/csm/workshops/) in-line with their desired use cases and potential expansion opportunities (it can be helpful to start discussing future sessions/topics right after one is delivered and it's fresh in their mind)
+  - Scale Customers: Share the [landing page for upcoming webinars](/handbook/customer-success/csm/segment/scale/webinar-calendar/), and encourage them to sign up for the Intro to GitLab and the Intro to CI/CD webinars at a minimum
 - Share our [support offerings](https://about.gitlab.com/support/)
 - If the customer is on a SaaS subscription:
   - Share [Status](https://status.gitlab.com/) and [Communications Preferences](https://about.gitlab.com/company/preference-center/) pages with customer
   - Subscribe the GitLab Admin to Status page updates
-- Set up recurring cadence calls (Strategic and Mid-Touch only)
+- Set up recurring cadence calls (CSM-managed only)
 
 #### Prep for ongoing cadence calls
 

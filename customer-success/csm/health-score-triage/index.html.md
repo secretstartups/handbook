@@ -155,7 +155,7 @@ The following are guidelines on who to notify when an account is yellow or red. 
 
 ### Yellow Health Rating
 
-- Account Team (i.e., Strategic Account Executive or Account Executive, Solution Architect)
+- Account Team (i.e. Account Executive and Solution Architect)
 - Regional CSM Manager
 - CSM Director (all non-Public Sector customers) or Director of Customer Success Public Sector (for Public Sector customers)
 
