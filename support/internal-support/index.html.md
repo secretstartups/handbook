@@ -164,7 +164,7 @@ Please consider the following:
 
 #### Obtaining Proof of Delivery for a Subscription
 
-An artifact of the email sent to the customer is automatically created under the account activity history in SFDC when a subscription is created. The subject line will begin with `[GitLab Transactions]`.
+A copy of the license email sent to the customer is automatically logged under the `Activity History` of the `Sold To Contact` in SFDC when a subscription is created. Note that this will be a replica of the email the customer receives, but with the actual license key/activation code removed for compliance purposes. The subject line will begin with `[GitLab Transactions]`.
 
 ### US Federal Internal Requests
 
