@@ -72,10 +72,7 @@ The table below lists all exit criteria for the working group. This is the [top-
 | 4 | TBD            | 15%       | @.luke          | [API Deprecation and Lifecycle policies](https://gitlab.com/groups/gitlab-org/-/epics/7667)                                                           |
 | 5 | TBD            | 15%       | TBD      | [Create a concept and roadmap to automatically generate API documentation](https://gitlab.com/groups/gitlab-org/-/epics/8636)                                                    |
 | 6 | TBD            | 5%       |   TBD              | [Define minimum levels of performance and stability, with appropriate checks and monitoring](https://gitlab.com/groups/gitlab-org/-/epics/7520) |
-
-| 7 | TBD            |       | | [Investigate REST wrapper over GQL APIs to accelerate development and reduce maintenance](https://gitlab.com/groups/gitlab-org/-/epics/8634) |
-
-| 8 | TBD            |       | | [Robust Open API](https://gitlab.com/groups/gitlab-org/-/epics/8926) |
+| 7 | TBD            |       | | [Robust Open API](https://gitlab.com/groups/gitlab-org/-/epics/8926) |
 
 ## Roles and Responsibilities
 
