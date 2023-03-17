@@ -74,14 +74,14 @@ The Senior Integrations Engineer shares the same responsibilities outlined above
 
 ## Manager, Integrations Engineering
 
-The Manager, Integration Engineering reports to the [Sr. Director, Enterprise Applications](https://about.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
+The Manager, Integrations Engineering reports to the [Senior Director, Enterprise Applications](https://about.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
 
 ## Job Grade 
 
-The Manager, Integration Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Integrations Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Manager, Integration Engineering Responsibilities
-- Extends that of the Integration Engineering responsibilities.
+## Manager, Integrations Engineering Responsibilities
+- Extends that of the Integrations Engineering responsibilities.
 - Business Partnership: Influences outcomes in cross-functional settings often.
 - Owns relationships with partners while providing advice and guidance.
 -Team Leadership: Can manage a team to deliver results by dividing and balancing work between employees ensuring that results meet Enterprise Applications standards.
@@ -90,12 +90,48 @@ The Manager, Integration Engineering is a [grade 8](https://about.gitlab.com/han
 - Mentorship: As a manager you mentor other team members in technical delivery, process analysis, and improvement.
 - Autonomy: Delivers and effectively prioritizes projects assigned with clear scope
 
-## Manager, Integration Engineering Requirements
-- Extends that of the Integration Engineer requirements.
+## Manager, Integrations Engineering Requirements
+- Extends that of the Integrations Engineer requirements.
 - Communication: Demonstrated an ability to influence business stakeholders.
 - Experience as owning a portion of system delivery for business function as a Business Technology partner.
 - 5-7 years of experience in an integration engineering or full stack engineer role ideally with an enterprise SaaS software model company.
 
+## Senior Manager, Integrations Engineering
+
+Senior Manager, Integrations Engineering reports to the [Senior Director, Enterprise Applications](https://about.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
+
+## Job Grade 
+
+The Senior Manager, Integrations Engineering is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+## Senior Manager, Integrations Engineering Responsibilities 
+- Extends responsibilities the Manager, Integrations Engineering 
+- Partnerships: 
+    - Working with  internal and external cross functional teams, business stakeholders, service providers, vendors to design, develop and implement enterprise architecture strategies
+    - Provides thought leadership and clear technical direction to the team to deliver results and business value. 
+    - Analyze existing business processes and data flows to develop system designs, delivery roadmaps and integrations to other systems   
+- Strategy: 
+    - Create secure, scalable and high performance enterprise solutions  
+    - Developing methodologies and processes to ensure compliance to Integrations & Architecture strategies 
+    - Responsible for the high-level design and implementations of integrations across the application eco-system by effectively partnering with business users, application developers and vendors 
+- Technical Solutions: 
+    - Responsible to develop and maintain current state and future state technology roadmaps aligned with approved IT Investments and approved by Leadership. 
+    - Support the transformation of the technology architecture to support the company growth plans, building scalable platform solutions as well as building and customizing best in class software products
+    - Lead master data management initiatives from the data modeling side. Design and promote the enterprise data model.
+    - Evaluate alternatives and formulates system scope and objectives to create or modify integration services 
+    - Troubleshoots production problems and works to fix issues 
+- Leadership: 
+    - Builds and leads a transformational team that is required to design and execute on key business and technical strategies. 
+    - Mentors and coaches the team to foster a culture of continuous learning and collaboration.
+
+## Senior Manager, Integrations Engineering Requirements
+- 10+ years of experience in an integration engineering or full stack engineer role ideally with an enterprise SaaS software model company 
+- Demonstrated experience managing and integrating multiple Enterprise Business Platforms such as Marketo, Salesforce, Zuora Billing, Zuora Revenue, Netsuite, Workday, ServiceNow and the likes 
+- Successfully integrated applications and automated business processes resulting in measurable productivity or efficiency gains
+- Designed and built technology-based solutions that improve employee experience
+- Worked with and built global teams in both higher cost and lower cost geographies to balance experience and cost 
+- Expert knowledge of IT best practices, policies, and regulations, including a clear understanding of client/server technology and network architecture
+- Excellent project management skills and strong ability to prioritize.
 
 
 ## Performance Indicators
@@ -110,7 +146,7 @@ The Manager, Integration Engineering is a [grade 8](https://about.gitlab.com/han
 
 ### Career Ladder
 
-The next step in the Integration Engineering job family is to move a higher level IC role which is not yet defined at GitLab.
+The next step in the Integrations Engineering job family is to move a higher level IC role which is not yet defined at GitLab.
 
 ## Hiring Process
 
@@ -119,5 +155,4 @@ The next step in the Integration Engineering job family is to move a higher leve
 - Second round interviews will involve interviews with 2 members of the Data Team and/or others.
 - Third round interview is with the Senior Director of Enterprise Applications.
 - At final stage candidates will meet with the VP of Information Technology.
-
 - Additional details about our process can be found on our [hiring page](/handbook/hiring/).
