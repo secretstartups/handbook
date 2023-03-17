@@ -17,8 +17,8 @@ As an [Development Director at GitLab](/job-families/engineering/development/man
 Since the launch of the engineering director shadow program in September of 2021, Wayne has received great feedback from the shadows from various departments that have participated (marketing, professional services, development, and customer success).
 
 Some blogs from previous shadows:
-
-1. [My experience shadowing an Engineering Director for a week](https://www.waynehaber.com/2023/03/my-experience-shadowing-engineering.html) - [Mrunal Kapade](https://linkedin.com/in/mrunalk)
+1. [My experience as a GitLab Hero in Developer Director Shadow Program ](https://siddharthasthana.dev/blog/my%20experience%20as%20a%20gitlab%20hero%20in%20developer%20director%20shadow%20program%20/) from [Siddharth Asthana](https://gitlab.com/edith007)
+1. [My experience shadowing an Engineering Director for a week](https://mkapade.medium.com/my-experience-shadowing-an-engineering-director-for-a-week-22971d9b4020) - [Mrunal Kapade](https://linkedin.com/in/mrunalk)
 1. [What I Learned as a Development Director](https://awkwardferny.medium.com/what-i-learned-as-an-engineering-director-shadow-at-gitlab-1a783cb564d0) - [@fjdiaz](https://gitlab.com/fjdiaz)
 1. [The engineering director shadow experience at GitLab](https://about.gitlab.com/blog/2022/04/01/engineering-director-shadow/) - [@warias](https://gitlab.com/warias)
 
@@ -46,18 +46,19 @@ For GitLab team member prospective shadows:
 For non-GitLab prospective shadows:
 1. You must be willing to sign a [non-disclosure agreement](/handbook/legal/NDA/) - this is required so that we can protect confidential information.
 1. You must describe why you want to participate in this program, including what you would like to learn.
+1. You must complete free [GitLab TeamOps](https://about.gitlab.com/teamops/) training before your shadow week.
 
-## Process for requesting to be a shadow
+## Process for requesting to be a shadow for GitLab team members
 
 1. Check the schedule below for availability.
 1. Create an MR to add yourself to the table for the weeks in which you want to shadow via an MR. To get started, you can [edit the page here](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/engineering/development/shadow/director-shadow-program.html.md)
-
-For GitLab team member prospective shadows: 
 1. Obtain written approval from your manager that they are ok with you participating via your manager commenting in the MR that they approve, as your workload may need to be significantly reduced for the shadow program duration.
 1. After your manager approves, assign the MR to me to review and merge.
 
-For non-GitLab prospective shadows:
-1. For non-GitLab team members, fill out this [form](https://forms.gle/EoHLLvdaVZLnFNuB7) to apply.
+## Process for requesting to be a shadow for non-GitLab team members
+
+1. Check the schedule below for availability.
+1. Fill out this [form](https://forms.gle/EoHLLvdaVZLnFNuB7) to apply.
 
 ## How does the shadowing work?
 
@@ -102,6 +103,7 @@ For Gitlab team members, it is not a performance evaluation or a step for a futu
 
 ## Preparing for the program
 
+1. Complete free [GitLab TeamOps](https://about.gitlab.com/teamops/) training before your shadow week.
 1. Plan to observe and ask questions
 1. Reduce your workload by at least 75% during the shadowing time period. Don't plan to do your normal amount of usual non-shadow work.
 1. Review my [readme](/handbook/engineering/readmes/wayne-haber/).
@@ -117,9 +119,11 @@ For GitLab team member shadows:
 1. Join the slack channel `#sec-growth-datascience-people-leaders`.
 1. Confirm you have been added to the [wayne shadow program google group](https://groups.google.com/a/gitlab.com/g/wayne-shadow-program/members) so you will have access to documents that may not be open to all GitLab team members (such as 1-1 meeting notes).
 1. If you are not designated an insider and would like to be potentially included in discussions of MNPI, request to be added to the [insider list](/handbook/legal/publiccompanyresources/).
+1. Join and participate in the slack channel `#wayne_shadow_program`
 
 For non-GitLab team member shadows:
-1. Plan to attend Zoom meetings that you get an invite to.
+1. Plan to attend Zoom meetings that you get an invited to.
+1. Participate in the slack channel `#wayne_shadow_program`
 
 ## What to do after you participate
 
@@ -145,21 +149,20 @@ No, not at this time.
 | [@bradleylee](https://gitlab.com/bradleylee) | Customer Success |
 | [@fjdiaz](https://gitlab.com/fjdiaz) | Marketing |
 | [Rafa Carrasco](https://linkedin.com/in/rafael-carrasco) | Non-GitLab shadow - Developer from [Astronomer.io](https://www.astronomer.io/) |
-| [@edith007](https://gitlab.com/edith007) | GitLab community contributor |
+| [Siddharth Asthana](https://gitlab.com/edith007) | GitLab community contributor |
 | [Sladyn Nunes](https://www.linkedin.com/in/sladyn-nunes) | Non-Gitlab shadow - Student from [USC](https://www.usc.edu/) | 
 | [Toni Lovejoy](https://linkedin.com/in/tonilovejoy) | Non-GitLab shadow - Developer from [Circulo Health](https://www.circulohealth.com/) |
 | [Anshul Riyal](https://gitlab.com/anshulriyal) | [GitLab Hero Community Contributor](https://about.gitlab.com/community/heroes/members) |
 | [George Tsiolis](https://gitlab.com/gtsiolis) | [GitLab Core Team Community Contributor](https://about.gitlab.com/company/team/?department=core-team) |
 | [Mrunal Kapade](https://linkedin.com/in/mrunalk) | Non-GitLab shadow - Engineering Leader |
 | [Alexander Chueshev](https://gitlab.com/achueshev) | Development: [GitLab ModelOps AI Assisted](https://about.gitlab.com/company/team/?department=modelops-ai-assisted) |
+ |[Praveen Elamkootil](http://linkedin.com/in/ekpraveen) | Non-GitLab shadow |
 
 ## Schedule
 
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| March 13   |  [Praveen Elamkootil](http://linkedin.com/in/ekpraveen) | Non-GitLab shadow |
-| March 20   |  Available | |
 | March 27   |  Available | |
 | April 3    |  Available | |
 | April 10   |  Available | |
