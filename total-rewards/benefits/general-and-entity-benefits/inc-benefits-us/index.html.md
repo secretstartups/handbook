@@ -756,6 +756,7 @@ To learn more about State-specific leave laws, please visit the [Leave of Absenc
 
 
 **Dental**
+
 | Tier                           | Cigna DPPO |
 |--------------------------------|:----------:|
 | Team Member Only               |   $42.15   |
