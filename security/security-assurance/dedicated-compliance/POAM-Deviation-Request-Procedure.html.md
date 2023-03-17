@@ -77,7 +77,8 @@ If approved, the ISSO will notify all involved parties via the GitLab issue with
 
 ### DR types
 The following definitions were adopted from the FedRAMP PMO and all 3 have issue templates for submitting DR requests:
-- [**Risk adjustments**](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx): A reduction in the scanner-cited risk level of a finding justified through existing or new compensating controls that reduce likelihood and/or impact of exploitation. 
+- [**Risk adjustments**](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx): A reduction in the scanner-cited risk level of a finding justified through existing or new compensating controls that reduce likelihood and/or impact of exploitation. Risk Adjustment DRs are required for all S1/S2 vulnerabilities in 3rd party/vendor dependencies. Risk Adjustment DRs are not required for S3/S4 vulnerabilities in 3rd party/vendor dependencies.
+   - For S3/S4 vulnerabilities in 3rd party/vendor dependencies, if they breach SLA while the label `Vulnerability::Vendor Package::Fix Unavailable` presents, from a compliance/reporting perspective that is okay as long as we are monitoring for when a fix does eventually become available. 
   - **TEMPORARY GUIDANCE ON VENDOR DEPENDENCY RISK ADJUSTMENT DRs**: Due to significant resource strain, no reporting obligations for GitLab at this time, and pending automation, please do not submit Risk Adjustment DRs for Red Hat UBI vendor dependencies. Please continue to apply the `Vulnerability::Vendor Base Container::Fix Unavailable` label on the vulnerability issues until this is automated.
 - [**False positives**](https://csrc.nist.gov/glossary/term/false_positive): An alert that incorrectly indicates that a vulnerability is present. Justified through documentation and evidence.
 - [**Operational requirements**](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx): A finding that cannot be remediated, often because the system will not function as intended, or because a 3rd party/vendor explicitly indicated it does not intend to offer a fix to their product. FedRAMP will not approve an OR for a High vulnerability; however, the risk may be mitigated and adjusted accordingly. 
@@ -112,6 +113,7 @@ Deviation requests are often not permanent as patches are eventually made availa
 
 Once the vulnerability is remediated, apply the label `FedRAMP::DR Status::Vuln Remediated` to both the vulnerability issue and the DR issue.
 
+For issues with label `Vulnerability::Vendor Package::Will Not Be Fixed`, they shall remain open indefinitely or no longer detected by the scanner. Keeping these issues open is important for providing the SSOT of vulnerabilities that are present.
 ## Exceptions
 There are no exceptions allowed to this procedure. 
 
