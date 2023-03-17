@@ -835,7 +835,7 @@ The [Performance Refinement issue board](https://gitlab.com/groups/gitlab-org/-/
 
 ## Infradev
 
-The infradev process is established to identify Issues requiring priority attention in support of SaaS availability and reliability. These escalations are intended to primarily be asyncronous as timely triage and attention is required. In addition to primary management through the Issues, any gaps, concerns, or critical triage is handled in the weekly [GitLab SaaS Infrastructure](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) meeting.
+The infradev process is established to identify issues requiring priority attention in support of SaaS availability and reliability. These escalations are intended to primarily be asyncronous as timely triage and attention is required. 
 
 ### Scope
 
@@ -881,11 +881,11 @@ Issues with `~infradev ~severity::1 ~priority::1 ~production request` labels app
 
 `~infradev` issues requiring a ~"breaking change" should not exist.  If a current `~infradev` issue requires a breaking change then it should split into two issues.  The first issue should be the immediate `~infradev` work that can be done under current SLOs.  The second issue should be  ~"breaking change" work that needs to be completed at the next major release in accordance with [handbook guidance](/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features). Agreement from development DRI as well as the infrastructure DRI should be documented on the issue.
 
-Additionally, an automated status report is generated in the [gitlab-org/infradev-reports](https://gitlab.com/gitlab-org/infradev-reports/-/issues) issue tracker. A new report is opened weekly, and updated regularly. The report categorizes each infradev issue according to several criteria, and can help with the triage and priorization process.
+Infradev issues are also shown in the monthly [Error Budget Report](https://about.gitlab.com/handbook/engineering/error-budgets/#budget-reporting).
 
 ### A Guide to Creating Effective Infradev Issues
 
-Triage of infradev Issues is desired to occur asynchronously. There is also a section of the [Weekly GitLab SaaS meeting](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) which aims to address anything requiring synchronous discussion or which hasn't been triaged. This meeting has time constraints and many of the participants may not have a detailed understanding of the problems being presented. For maximum efficiency, please ensure the following, so that your infradev issues can gain maximum traction.
+Triage of infradev Issues is desired to occur asynchronously. These points below with endure that your infradev issues gain maximum traction.
 
 1. **Use the [InfraDev issue template](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=InfraDev) to create the issue on the gitlab-org/gitlab issue tracker.**
 1. **Clearly state the scope of the problem, and how it affects GitLab.com**. Examples could include:
