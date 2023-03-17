@@ -196,13 +196,13 @@ The customer is now blocked from accessing their Customers Portal account.
 
 #### One-time sign-in url
 
-With the `one-time sign in url` a customer is able to directly sign in to their Customers Portal account.
+With the `one-time sign in url` a customer is able to directly sign in to their Customers Portal account. This works for customers that have or don't have a GitLab.com account linked to their Customers Portal account.
 
 1. Select the correct customer by clicking on the ℹ️ icon in the `Customers` section.
 1. Scroll down and copy the link under `One time sign in url`.
 1. Share the link with the authorized customer.
 
-**Note:** A new one-time sign-in link will be generated after the previous one has been used.
+**Note:** A new one-time sign-in link will be generated after the previous one has been used. The `one-time sign in url` does not log the customer into their GitLab.com account, only their Customers Portal account.
 
 #### GitLab Groups
 
