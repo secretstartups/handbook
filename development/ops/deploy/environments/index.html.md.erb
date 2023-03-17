@@ -320,3 +320,21 @@ on what existing testing does and how to develop features for Auto DevOps.
 - [How to work with slow connections](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/kubernetes/tips_and_troubleshooting.md#qa)
 - [Enabling premium features for development purposes](https://license.gitlab.com/users/sign_in)
 - [Thanos query for complete Auto DevOps pipelines](https://thanos-query.ops.gitlab.net/graph?g0.range_input=2d&g0.max_source_resolution=0s&g0.expr=sum(increase(auto_devops_pipelines_completed_total%7Benv%3D%22gprd%22%7D%5B6h%5D))%20by%20(status)&g0.tab=0)
+
+### Shared Cloud Infrastructure
+
+The Environments group has access to a shared GCP project which can be used for demos, experiments, or to host auxilliary services.
+The project id is `deploy-stage-shared-i-e55e01cb` and was created and provisioned using the following ARs:
+
+- https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/493 (internal)
+- https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/495 (internal)
+
+If you need to create permanent infrastructure in that GCP project, it's encouraged to do it with Terraform
+to easily share and document the setup with the entire group. You can use [this](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/infra)
+GitLab group to host the project.
+
+If the infrastructure is temporary, you can manage it with whichever tools you prefer.
+
+Currently hosted projects:
+
+- [arm64-runners](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/infra/arm64-runners): IaC for arm64-based GitLab runners for some projects requiring it due to the lack of arm64-based shared runners.
