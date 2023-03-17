@@ -23,15 +23,9 @@ Information about product categories and links to team members and direction pag
 
 Some UX teams have documented detailed information about their ways of working and stage groups, and these can be found here: 
 * [Dev](/direction/dev/)
-    *  [Create UX](/handbook/product/ux/stage-group-ux-strategy/create/)
+    * [Create](/handbook/product/ux/stage-group-ux-strategy/create/)
 * [Ops](/direction/ops/) (`@gitlab-com/gitlab-ux/ops-ux`)
     * [CI/CD](/handbook/product/ux/stage-group-ux-strategy/ci-cd/) (`@gitlab-com/gitlab-ux/cicd-ux`)
-        * [Verify UX](/handbook/product/ux/stage-group-ux-strategy/verify/)
-        * [Package UX](/handbook/product/ux/stage-group-ux-strategy/package/)
-        * [Release UX](/handbook/product/ux/stage-group-ux-strategy/release/)
-    * Configure and Monitor (`@gitlab-com/gitlab-ux/configure-monitor-ux`)
-        * [Configure](/direction/configure/)
-        * [Monitor](/direction/monitor/)
 * [Sec](/direction/security/)
     * [Secure and Govern](/handbook/engineering/ux/stage-group-ux-strategy/sec/) (`@gitlab-com/gitlab-ux/secure-govern-ux`)
 * Fulfillment and Growth UX
