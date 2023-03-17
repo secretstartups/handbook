@@ -93,26 +93,26 @@ PSEs or Technical Instructors who deliver GitLab Education Services instructor-l
 
 #### Preparation steps
 
-1. The Project Coordinator will contact the customer with a "Welcome to PS Email".  The email will include proposed training dates and training session planning meeting details, which will include the trainer in the meeting. Trainer participation in this meeting is critical -- please let the Project Coordinator know if you need the meeting to be rescheduled to ensure your attendance.
+1. The Project Coordinator will contact the customer with a "Welcome to Education Services Email" to initiate the training scheduling.  After the training dates and times are confirmed, the Project Coordinator will schedule a training session planning meeting. Trainer participation in this meeting is recommended -- please let the Project Coordinator know if you need the meeting to be rescheduled to ensure your attendance.
 
 1. The Project Coordinator will use these [email communication templates](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing) to ensure communication of the key details with the customer and training participants.
 
 1. During the training planning meeting, be sure to discuss and document all of the event logistics listed in the [Training Event Plan Template](https://docs.google.com/document/d/1huNauyfhFPvLCuo-9T7Ol3FtBDYowYxiP_T5ItP2FN4/edit?usp=sharing). The Project Coordinator will create a draft of the Training Event Plan prior to the meeting and update the document during the training planning meeting.  
-   * During the training planning meeting, the following course introduction are useful to use to review training topics, Zoom teleconferencing, and system requirements.  
-      * [GitLab with Git Basics course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-GitLab+Basics+-+Storyline+output/story.html)  
-      * [GitLab CI/CD course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-+GitLab+CICD+-+Storyline+output/story.html)  
-      * [GitLab for Project Managers course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-+GitLab+PM+-+Storyline+output/story.html)  
-      * [GitLab Security Essentials course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-Security+-+Storyline+output/story.html)  
-      * [GitLab System Administration Basic course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-+GitLab+System+Admin+-+Storyline+output/story.html)  
-      * [GitLab InnerSourcing course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-+InnerSourcing++-+Storyline+output/story.html)  
-
-1. The Project Coordinator will add the confirmed date(s) and start/stop time(s) for each training session to the issue.
+   * During the training planning meeting, the course outline and system requirements pages below are useful to use to review training logistics, topics, teleconferencing, and system requirements.  
+      * [GitLab with Git Basics course outline](https://about.gitlab.com/services/education/gitlab-basics/)  
+      * [GitLab CI/CD course course outline](https://about.gitlab.com/services/education/gitlab-ci/)  
+      * [GitLab for Project Managers course outline](https://about.gitlab.com/services/education/pm/)  
+      * [GitLab Security Essentials course outline](https://about.gitlab.com/services/education/security-essentials/)  
+      * [GitLab System Administration course outline](https://about.gitlab.com/services/education/admin/)  
+      * [System Requirements](https://about.gitlab.com/services/education/prereq/)  
 
 1. The Project Coordinator will set up a Zoom Meeting or Webinar session for each session using [these set up instructions](/handbook/customer-success/professional-services-engineering/remote-training-session-setup/) and add the registration link(s) to the issue. You will receive an email message with your unique link to join the Zoom Meeting or Webinar session. Make sure to locate the Zoom information within the email message and familiarize yourself with the Zoom functionality. Here is a useful Zoom article for [Managing Attendees and Panelists in a Webinar](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-attendees-and-panelists-in-a-webinar). Depending on your Zoom set up, you may want to log into https://zoom.us, go to Join a Meeting, and enter the meeting ID/webinar ID to start the Zoom session.
 
 1. At least 2 weeks prior to the training session, the Project Coordinator will email the session registration link(s) to the customer, asking them to send the link(s) to each of the employees whom they want to attend the session(s). When each person registers, they will receive an automated confirmation email with a Zoom Meeting or Webinar join link unique to each person, along with a link to add the session to their calendar.
 
-1. Contact the PS Instructional Designer to confirm you have the latest versions of course slides and other materials.
+1. The Project Coordinator will advise if a different teleconferencing system is being used for the training and provide additional details for accessing the teleconferencing meeting.
+
+1. Contact the GitLab Education Services team to confirm you have the latest versions of course slides and other materials.
 
 1. Review the train-the-trainer (T3) video for the course you are delivering.
 
@@ -122,47 +122,30 @@ PSEs or Technical Instructors who deliver GitLab Education Services instructor-l
 
 1. Complete the GitLab Training Lab set up steps below. Make sure that you review the lab exercises and ensure that the labs are working properly prior to the first day of class. 
 
-1. When it's time to join the Zoom Meeting or Webinar session as a presenter, use the link to join the session.
+1. When it's time to join the teleconferencing as a presenter, use the provided information to join the session.
 
 ##### Training lab pre-course instructor workflow
 
 PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environment for hands-on course lab activities and hands-on certification assessments. Follow these steps to set up your course attendees for lab access.
 
-**1. Register your account**
-1. Self-register at [gitlabdemo.com](http://gitlabdemo.com/) to create your credentials on the GitLab instance during the automated provisioning process. This will provide you with your own user account and organization group for your own projects. This step is not specific course session, but is a required step as a GitLab team member.
-1. Credentials for your course attendees will be generated  when they redeem an invitation code that you’d provide to them. In essence, we create a unique invitation code for each course session that attendees redeem on [gitlabdemo.com](http://gitlabdemo.com/) on Day 1 of the course session, and their GitLab instance credentials are generated after they enter their code.
+**1. GitLab Demo System invitation codes**
+1. The Project Coordinator will generate the invitation code for your class and provide the invitation code information approximately a week prior to your class start date as part of the instructor friendly reminders post within your Kantata project.
+1. Follow the instructions on the [Demo System Invitation Code Redemption handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/#invitation-code-redemption) to redeem the invitation code and access the lab environment.
+1. For any edits/extensions/etc or any custom redemption rules (different durations than our standards), contact the GitLab Professional Services Operations team for assistance.
 
-**2. Generate invitation codes**
-1. The Project Coordinator will generate the invitation code for your class using the steps below and provide the invitation code information approximately a week prior to your class start date as part of the instructor friendly reminders post within your Mavenlink project.
-1. Visit gitlabdemo.com
-1. Sign in with Okta
-1. Click `Invitation Codes` in the top navigation.
-1. Click the `Create Invitation Code` button in the top right corner.
-1. Fill out the form. Your invitation code is generated and GitLab group is created when you click the green button.
-1. You can see a list of previously created invitation codes and links to relevant details.
-1. For any edits/extensions/etc or any custom redemption rules (different durations than our standards) make a request in the #demo-systems Slack channel
+**2. Share the invitation code and access instructions with attendees**:
+1. On the first day of class, share the invitation code and review the login process with the attendees. Also let them know the expiration date (which is 7 days from the date they generate the login).
 
-**3. Share the invitation code and access instructions below with attendees**: You can do this via an email to attendees as well as including it within their course materials, letting them know the expiration date (which is 7 days from the date you generated the code).
-
-
-**Demo Cloud Access Instructions:**
-1. Visit gitlabdemo.com
-1. Click the blue button for redeeming the code above. An anonymous user account and password will be created.
-1. Click on the red button to download your credentials (very important, don’t forget to do this since you will not be able to access this page again).
-1. Click the blue button to access your group and create your first project.
-
-**4. Training Closeout**:
+#### Training Closeout 
 1. Review the [Instructor Post-Training Checklist](/handbook/customer-success/professional-services-engineering/processes/delivery-checklists/) to ensure that you have followed all of the steps to close out your training class.
-1. The Project Coordinator will download the Zoom attendee report and send a Next Steps email to the customer main point of contact using an email template located in the [email communication templates](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
-1. <strong>For courses that have certification assessments</strong>: When an attendee submits their certification assessment, review their work in the demo lab cloud within 7 days of the attendee's submission and manually release their results using the attendee's completed Google Form. [Here are the detailed instructions](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/wikis/GitLab-Certification-Instructions) for certifying customers.
+1. The Project Coordinator will download the attendance report and send a close out email to the customer using an email template located in the [email communication templates](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
 
 ### Complete 
-For training engagements, check out the [close out procedures on our operations page](/handbook/customer-success/professional-services-engineering/professional-services-operations/#training-close-out). 
-
 For blended engagements, see the `Deploy & Close` section of our [project management page])(/handbook/customer-success/professional-services-engineering/project-mgmt/#project-workflow)
 
 ### Financial Closeout 
 **TODO: Add or link to content about what happens in this step**
+
 
 ## 4. Customer Success
 
