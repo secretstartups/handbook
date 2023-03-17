@@ -194,6 +194,16 @@ The customer is now blocked from accessing their Customers Portal account.
 
 **Note:** If a user is `admin:xyz@gitlab.com` in a log line, that indicates a change on the customer's record that was done via the admin panel.
 
+#### One-time sign-in url
+
+With the `one-time sign in url` a customer is able to directly sign in to their Customers Portal account.
+
+1. Select the correct customer by clicking on the ℹ️ icon in the `Customers` section.
+1. Scroll down and copy the link under `One time sign in url`.
+1. Share the link with the authorized customer.
+
+**Note:** A new one-time sign-in link will be generated after the previous one has been used.
+
 #### GitLab Groups
 
 If a customer has a connected GitLab.com user account, then a list of namespaces will show with relevant information including current plan.
