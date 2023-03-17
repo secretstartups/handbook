@@ -391,6 +391,17 @@ It should not have commits set to squash.
 We do not squash commits because of the [possible negative effects](https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1).
 Then assign the MR to a maintainer for review and merging.
 
+## Team member merge requests being labeled as Community contributions
+
+If you recently created a Merge Request that was labeled as a Community contribution, you can fix this mislabeling issue going forward by updating the GitLab username in your personal entry in the team member directory to match the GitLab account you use for work.
+
+Here is how you can do that:
+1. Search for your last name using Find File feature in the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project OR head to https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person, open the folder that matches with the first initial of your first name, and find your file. 
+1. Open your file. 
+1. Once the file is open, click on the Edit button.
+1. Update the gitlab attribute (typically found on line 11) in the file so that the entry is an **exact match** for the GitLab.com username you use for work.
+1. Create a Merge Request and assign to your manager or ask for help in [mr-buddies](https://gitlab.slack.com/archives/CLM8K5LF4/p1678812429884979) in Slack.
+
 ## Where should content go?
 GitLab has a lot of places you can put web content including the [website](/handbook/marketing/digital-experience/), [blog](/handbook/marketing/blog/), [docs](https://docs.gitlab.com/ee/development/documentation/index.html), and the [handbook](/handbook/handbook-usage/). Here's an overview of where you should create a merge request to add content.
 1. **[blog](/handbook/marketing/blog/)**: The blog is a great place to start. If you don't know where to put content, then write a blog post! Great blogs can always be then copied or modified for the website, docs, and handbook later. Blog posts are especially good for news, announcements, and current trends because blog posts are tied to a specific date.
