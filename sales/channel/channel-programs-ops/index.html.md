@@ -73,70 +73,34 @@ The Partner Help Desk team has compiled a list of issues and solutions to the mo
 
 ## Help Your Partners Become a GitLab Certified Service Partner:
 
-Step 1: Introduce your partners to the [GitLab Certified Service Partner Program](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-service-partner-program-overview) 
+Step 1: Introduce your partners to the [GitLab Service Partner Program](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-service-partner-program-overview) 
 
 Step 2: Set an enablement plan with the partner representative that identifies their key employees who sign up for training and become certified to meet the competency requirements for the program.
 
 Step 3: Build a business plan to incorporate GitLab as a strategic element in their service practice using our [Service Development Framework](https://about.gitlab.com/handbook/resellers/services/services-catalog/)
 
-Note: If partners do not complete the CTP certification within 6 months of starting it, they will not be allowed to complete it.
 
-Step 4: CAMs are required to use GitLab project features to manage their partners through the CTP certification process.
-
-Step 5: CAMs and the PHD award partners their certifications using GitLab Issues. 
-
-#### Process for Enrolling Partners into the GitLab Certified Training Partner Program
-In order to collaborate with partner organizations, the Channel Solutions Architect group has created a sub-group named [Partners](https://gitlab.com/gitlab-com/channel/partners) under the [channels sub-group](https://gitlab.com/gitlab-com/channel) in GitLab.com where the Channel Account Managers share projects directly with our partner contacts. In order to work with a partner directly, the CAM is required to ensure there is an open sub-group for the specific partner under the [Partners sub-group](https://gitlab.com/gitlab-com/channel/partners). 
-1. Check for the partner's sub-group:
-    * Navigate to the [Partners](https://gitlab.com/gitlab-com/channel/partners) sub-group.
-    * Click on the sub-group for the region where the partner is located.
-    * Review the list of partners in that region.
-2. If you did not see the partner in the sub-group for their region, create a sub-group named `Partner Company Name` with two sub-groups (collaboration and internal) under the company sub-group.
-    * Please refer to the [Sub-groups documentation page](https://docs.gitlab.com/ee/user/group/subgroups/) to learn how to create sub-groups.
-    * Please refer to an existing partner company sub-group and use it to as a model for the new one that you are creating.
-3. Whether they had to create a new collaboration sub-group for the partner or there is an existing collboration sub-group for the partner, the CAM is required to add and/or verify that the partner primary contact is a member of the collaboration sub-group with `maintainer` permissions.  
-
-<br>After a partner accepts an invitiation, the CAM:
-1. Will open a project in the [Channel Partner's collaboration sub-group](https://gitlab.com/gitlab-com/channel/partners) using the `GitLab_Certified_Service_Partner_Program` project template.
-2. Name the project "`Partner Company Name` CTP Requirements Project".
-Note: There is a bug that may accidentally put the new project in the templates folder. CAMs are required to verify that the project was created in the correct sub-group by checking the path dropdown and make changes to the path to put the project in the correct sub-group.
-3. Open an issue using the `CTP_Requirement_Tracking_Issue` template in that project. 
-   1. The template automatically engages the GitLab Channel Services team and the GitLab Education Services Delivery team
-   2. The CAM is required to assign themselves and the partner primary contact to the issue. 
-   3. Each assigned team member is required to complete all sections assigned to the their job title within 6 mos of creating the tracking issue.    
-
-The issue is designed to:
-1. Set certification timeline goals
-2. Track completion of all program requirements for becoming a CTP, including:
-   1. Program Entry requirements
-   2. Identify Certified Trainer Candidates
-   2. Competency requirements
-   3. Compliance requirements and setting MBO goals
-   4. Legal and operational requirements
-3. Facilitate internal and partner contributions to the process
-
-When all sections of the issue are completed, the GitLab Education Services Delivery team member will close the issue and proceed with awarding the certification per the GitLab Service Partner Certifications Award Process.
-## Enroll Certified Trainer Candidates 
-1. Ask the Certified Trainer Candidates to open an issue in the `CTP_Requirements_Tracking_Project` using the `GitLab_Certified_Trainer_Candidate_Enrollment_Issue_for_Partners` Issue Template. 
-2. Follow all instructions and complete all tasks in the sections assigned to the candidate in that issue. 
-
-## GitLab Service Partner Certifications Award Process
-
-Channel partners who are compliant with the Channel program are eligible to achieve Certified Service Partner Certifications. We have two Channel Service Partner Certifications: 
-
-
-
-1. GitLab Certified Professional Services Partner (PSP)
-2. GitLab Certified Training Partner (CTP)
-
-The requirements for each GitLab Certified Service Partner certification can be found on the [Channel Services Handbook Page](https://about.gitlab.com/handbook/resellers/services/#becoming-a-certified-service-partner).
+Step 4: CAMs and the PHD award partners their certifications using GitLab Issues. 
 
 
 
 
-### GitLab Certified Professional Services Partner Award Process
+ 
 
-GitLab Field Enablement Channel Program Management is responsible for granting the practitioner level badges per the [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/). Badges will be issued as each practitioner completes the required training and certification exam associated with the GitLab Certified Professional Services Engineer certifications through an automation between the GitLab Learn system and Credly that is managed by GitLab Education Services team. 
+ 
+
+## GitLab Service Partner Badge Award Process
+
+Channel partners who are compliant with the Channel program are eligible to achieve a GitLab  Professional Services Partner (PSP) badge.
+
+The requirements for the GitLab Professional Service Partner badge can be found on the [Channel Services Handbook Page](https://about.gitlab.com/handbook/resellers/services/#becoming-a-certified-service-partner).
+
+
+
+
+### GitLab Professional Services Partner Badge Award Process
+
+Practitioners will be granted badges per the [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/). Badges will be issued as each practitioner completes the required training and certification exam associated accreditations and certifications through an automation between the GitLab Learn system and Credly that is managed by GitLab Education Services team. 
 
 When a partner reaches the required number of GitLab Professional Services Engineers, the GitLab Channel Programs Team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the `Partner_Certification_Award` issue template and assign the CAM responsible for the account to that issue. The CAM and the Partner Help Desk each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
 
@@ -150,15 +114,14 @@ Within 7 calendar days of assignment the CAM will:
     4. Directs partners to our social media sharing kit to help them effectively announce their new certification per our social media kit.
 2. The Issue will also be automatically be assigned to GitLab Partner Help Desk who will: 
     1. Update the partner portal account information with the new certification and include the badge on the partner locator for the account.
-    2. If this is the first GitLab Certified Service Partner certification, grant the partner admin access to the GitLab Service Partner Community after the CAM has notified the partner about their new certification. [This video](https://www.brighttalk.com/webcast/18613/472279) demonstrates how.
-                                                                                                                                                                                                                                                 
-3. If the partner indicates they want to create a Press Release about their new Services Certification; the CAM can follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support)  to request a press release.
+    
+    2. If the partner indicates they want to create a Press Release about their new Services Certification; the CAM can follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support)  to request a press release.
 
-### GitLab Certified Training Partner Award Process
+### GitLab Training Services Partner Award Process
 
-The Channel Sales Manager (CSM) team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the `Partner_Certification_Award` issue template and assign themeselves to that issue. The CSM and the Partner Help Desk (PHD) each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
+The GitLab Education Services Manager team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the `Partner_Certification_Award` issue template and assign themeselves to that issue. The Education Services Manager and the Partner Help Desk (PHD) each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
 
-Within 7 calendar days of assignment the CAM will:
+Within 7 calendar days of assignment the GitLab Education Services Manager will:
 
 
 1. Send the appropriate certification award email to the main partner contact person. The award email contains the following elements:
@@ -168,255 +131,9 @@ Within 7 calendar days of assignment the CAM will:
     4. Directs partners to our social media sharing kit to help them effectively announce their new certification.
 2. The Issue will also be automatically assigned to the PHD who will: 
     1. Update the partner portal account information with the new certification and include the badge on the partner locator for the account.
-    2. If this is the first GitLab Certified Service Partner certification, the PHD will grant the partner admin access to the GitLab Service Partner Community after the CAM has notified the partner about their new certification. [This video](https://www.brighttalk.com/webcast/18613/472279) demonstrates how.
-                                                                                                                                                                                                                                                 
-3. If the partner indicates they want to create a Press Release about their new Services Certification; the CAM can follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support)  to request a press release.
+                      
+    2. If the partner indicates they want to create a Press Release about their new Services Certification; the CAM can follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support)  to request a press release.
 
-
-
-## Channel Service Partners as Subcontractors for GitLab Professional Services
-### RACI-Master Services Agreement (MSA)
-
-
-
-The table below describes how the GitLab Channel team will work with the GitLab Professional Services team when Channel Partners are used to deliver service engagements that were sold on GitLab paper. 
-
-RACI= Accountable, Responsible, Consult, Inform
-   
-
-<table>
-  <tr>
-   <td>
-Deliverable \ Ownership
-   </td>
-   <td>Channel Team
-   </td>
-   <td>Professional Services
-   </td>
-  </tr>
-  <tr>
-   <td>Onboarding process creation including how to engage with GL (contracts, accounting, collaboration/communication)
-   </td>
-   <td>A,R
-   </td>
-   <td>C,I
-   </td>
-  </tr>
-  <tr>
-   <td>Partner onboarding
-   </td>
-   <td>A, R
-   </td>
-   <td>C
-   </td>
-  </tr>
-  <tr>
-   <td>Rate cards
-   </td>
-   <td>C
-   </td>
-   <td>A, R
-   </td>
-  </tr>
-  <tr>
-   <td>Billing and invoice management for a specific project
-   </td>
-   <td>I
-   </td>
-   <td>A,R
-   </td>
-  </tr>
-  <tr>
-   <td>Coordinate delivery with a partner for a specific customer
-   </td>
-   <td>
-   </td>
-   <td>R,A,C,I
-   </td>
-  </tr>
-  <tr>
-   <td>MSA terms for subcontracting arrangement
-   </td>
-   <td>R,I
-   </td>
-   <td>A,C
-   </td>
-  </tr>
-  <tr>
-   <td>Partner SOW for project engagement
-   </td>
-   <td>
-   </td>
-   <td>A,R
-   </td>
-  </tr>
-  <tr>
-   <td>Subcontracting process (SOW, invoicing, etc.)
-   </td>
-   <td>C,I
-   </td>
-   <td>A,R
-   </td>
-  </tr>
-  <tr>
-   <td>“Bench” Relationship Management (FY22) 
-   </td>
-   <td>C,I
-   </td>
-   <td>A,R
-   </td>
-  </tr>
-  <tr>
-   <td>Vetting process for partners 
-   </td>
-   <td>R
-
-   <br>(prelim vetting)
-   </td>
-   <td>A, R
-   </td>
-  </tr>
-</table>
-
-
-
-### RACI-CTP
-The table below describes how the GitLab Channel team will work with the GitLab Education Services Delivery team when Channel Partners are used to deliver service engagements that were sold on GitLab paper.
-
-RACI= Accountable, Responsible, Consult, Inform
-
-
-<table>
-  <tr>
-   <td><strong>Deliverable \ Ownership</strong>
-   </td>
-   <td><strong>Channel Team</strong>
-   </td>
-   <td><strong> Education Services</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Onboarding process creation including how to engage with GL (contracts, accounting, collaboration/communication)
-   </td>
-   <td>R, A
-   </td>
-   <td>C, I
-   </td>
-  </tr>
-  <tr>
-   <td>Partner onboarding: GitLab Partner Program
-   </td>
-   <td>R, A
-   </td>
-   <td>C
-   </td>
-  </tr>
-  <tr>
-   <td>Learning partner and/or trainer onboarding:   CTP/subcontract list
-   </td>
-   <td>I
-   </td>
-   <td>R, A
-   </td>
-  </tr>
-  <tr>
-   <td>Rate cards (PS/EdS offerings)
-   </td>
-   <td>C
-   </td>
-   <td>R, A
-   </td>
-  </tr>
-  <tr>
-   <td>Course Content Price 
-   </td>
-   <td>C
-   </td>
-   <td>R, A
-   </td>
-  </tr>
-  <tr>
-   <td>Billing and invoice management for a specific project
-   </td>
-   <td>I
-   </td>
-   <td>R, A
-   </td>
-  </tr>
-  <tr>
-   <td>Coordinate delivery with a partner for a specific customer
-   </td>
-   <td>
-   </td>
-   <td>R, A, C, I
-   </td>
-  </tr>
-  <tr>
-   <td>MSA terms for subcontracting arrangement
-   </td>
-   <td>C, I
-   </td>
-   <td>R, A
-   </td>
-  </tr>
-  <tr>
-   <td>Partner SOW for project engagement
-   </td>
-   <td>
-   </td>
-   <td>A, R
-   </td>
-  </tr>
-  <tr>
-   <td>Subcontracting process definition (SOW, invoicing, etc.)
-   </td>
-   <td>C, I
-   </td>
-   <td>A, R
-   </td>
-  </tr>
-  <tr>
-   <td>“Bench” Relationship Management (FY22) 
-   </td>
-   <td>C, I
-   </td>
-   <td>R, A
-   </td>
-  </tr>
-  <tr>
-   <td>Vetting process for partners 
-   </td>
-   <td>R (prelim vetting)
-   </td>
-   <td>A, R
-   </td>
-  </tr>
-  <tr>
-   <td>Managing monthly reporting for Channel Excellence:
-   <br>Certified Subcontractor Performance ratings
-   </td>
-   <td>A, C 
-   </td>
-   <td>R 
-   </td>
-  </tr>
-  <tr>
-   <td>Collecting Monthly Metrics
-   </td>
-   <td>
-   </td>
-   <td>A, R
-   </td>
-  </tr>
-  <tr>
-   <td>Managing monthly billing
-   </td>
-   <td>I
-   </td>
-   <td>A, R
-   </td>
-  </tr>
-</table>
 
 
 
