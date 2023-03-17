@@ -61,17 +61,34 @@ The Renewals team primarily uses these key fields on Renewal Opportunities:
 - `Downgrade Details` - free-form field for additional information and insight as to why the customer reduced.
 
 # Renewals Forecast Methodology
-In FY24 The Global Renewals team is responsible for providing the business with a Churn forecast on a regular basis for the Enterprise-Growth (ENTG) Segment. 
+In FY24 The Global Renewals team is responsible for providing the business with a renewal rate and churn forecast on a regular basis for the Enterprise-Growth (ENTG) Segment. 
 
-Providing an accurate, data driven Churn forecast is essential for GitLab’s continued growth as it enables the business to:
+Providing an accurate, data driven forecast is essential for GitLab’s continued growth as it enables the business to:
 - Identify and manage Churn and Contraction risk effectively
 - Drive revenue predictability in support of strategic decision making
 - Analyze and take strategic action on trends within GitLab’s book of business to mitigate risk
 
 ## Approach
-In partnership with AEs, the Renewals team will generate a “bottom-up” Churn forecast whereby every ENTG Renewal Opportunity will contain a forecasted revenue range to predict the outcome or potential outcomes of the Renewal. With every Renewal Opportunity forecasting a “worst case” and a “best case” scenario Renewals Managers will be able to provide a forecast range for their worst case renewal rate and their best case renewal rate for a given time period, territory etc. As risk is identified, categorized, and forecasted, Renewals Managers will alert relevant parties (CSM, AE) using appropriate channels. 
+In partnership with AEs, the Renewals team will generate a “bottom-up” renewal rate and churn forecast whereby every ENTG Renewal Opportunity will contain a forecasted revenue range to predict the outcome or potential outcomes of the Renewal. With every Renewal Opportunity forecasting a “worst case” and a “best case” scenario Renewals Managers will be able to provide a forecast range for their worst case renewal rate and their best case renewal rate for a given time period, territory etc. As risk is identified, categorized, and forecasted, Renewals Managers will alert relevant parties (CSM, AE) using appropriate channels. 
 
 ## How We Forecast Churn and Contraction
+
+The key risk fields for capturing risk on the renewal are:
+
+- `Renewal Risk Category` with the following selections:
+
+    - `Will Renew`: Used when we have full confidence the customer will renew
+    - `Will Churn`: Only used when we have 100% confidence the opportunity will fully churn (rarely used, most cases are not 100%). 
+        - Example: Customer has gone out of business or the U.S. has placed trade sanctions on a country where we do business. 
+    - `Will Churn (actionable)`: Used when the entire opp is at risk, but steps can be taken to mitigate that risk 
+        - Examples: Competitive bidding situation, customer has indicated they are pursuing other alternatives, we believe given the right audience and the right executive involvement we can influence that decision.
+    - `Will Contract`: Used when we have 100% confidence that there will be a reduction in seats on the subscription or a downtier (rarely used)
+        - Examples: Significant workforce reduction at a customer that reduces the number of engineers capable of using the GitLab platform to well below their current seat count (including appropriate buffer levels).
+    - `Will Contract (actionable)`: Used when there is a risk to a portion of the renewal opportunity, but steps can be taken to mitigate that risk, fully or partially. 
+        - Examples: Customer has indicated they are evaluating downtiering to premium - we believe with a SA-led VSA we can demonstrate the value and cost savings associated with the Ultimate version, and influence that decision. 
+
+Both the `Will Churn` and `Will Contract` selections should be manager approved, and occur very close to the `Subscription Renewal Date` - as situations at a customer may change rapidly. These selections indicate that the risk on the opportunity will no longer be actively mitigated. 
+
 The key revenue fields for setting the Renewal forecast are:
 
 - `ARR Basis (for Clari)`
