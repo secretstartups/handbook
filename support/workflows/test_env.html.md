@@ -42,9 +42,7 @@ As usual, public projects get Gold features, but if you need to test paid group 
 Typically, Support team members are added as `Owner` in these groups, while other team members are added as `Maintainer` or `Owner` with an expiry date.
 If you require access, please ask an existing owner.
 
-The [IT Ops](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#gitlab-it-team) team handle provisioning of paid tier test groups on GitLab.com. If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request). This process will ensure that all entitlements are removed during processes such as staff member offboarding. 
-
-If you no longer require a previously provisioned paid tier test group, please submit a new [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for its removal. This ensures that a record of its removal is kept within the same issue tracker as its original creation.
+The [IT Ops](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#gitlab-it-team) team handle provisioning of paid tier test groups on GitLab.com. If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitlabCom_Licensed_Demo_Group_Request). This process will ensure that all entitlements are removed during processes such as staff member offboarding. 
 
 ## Testing Environment License
 
