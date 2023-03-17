@@ -41,6 +41,8 @@ Once in the tenant's OpenSearch site:
 1. Choose "Discover" at the sidebar under OpenSearch Dashboards
 1. On the next screen, you should see logs. Make sure that index `gitlab-*` is selected.
 
+**NOTE:** Logs are rotated weekly. Copy and paste relevant logs into the ticket and/or issues. Screenshots of frequently occurring errors over time are also helpful.
+
 #### Searching logs
 
 Since GitLab Dedicated uses [Cloud Native Hybrid reference architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative), searching logs on OpenSearch is a bit different from [Kibana](./kibana.html).
