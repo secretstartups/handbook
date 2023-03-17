@@ -85,8 +85,8 @@ This process is handled by the CSOPs team.
 Navigate to [this link](https://gitlab.my.salesforce.com/ui/setup/mfpackage/UserLicenses/d?allPackageId=033U0000000CdVi&packageLicenseId=0504M000000XZsn&retURL=%2F0A3%3Fsetupid%3DImportedPackage%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DStudio) or follow these steps in Salesforce:
 
 1. Click **Setup**.
-1. Select `Installed packages`.
-1. Find `Gainsight CSM`.
+1. Select `Installed packages` on the left hand side.
+1. Find `Gainsight CSM` under package name.
 1. Click **Manage Licenses**. This will display the number of allowed vs used licenses.
 1. Click **Add Users** to find a person to add. They must already exist as a user in Salesforce.
 
