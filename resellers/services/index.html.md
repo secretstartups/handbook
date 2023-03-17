@@ -24,7 +24,7 @@ The foundation of the GitLab Channel Services Program consists of two elements o
 
 ## GitLab Service Partner Program Overview
 
-The GitLab Service Partner Program offers our Partners a badge:
+The GitLab Service Partner Program offers our Partners three Certifications:
 
 
 <table>
@@ -143,7 +143,7 @@ at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training
 </table>
 
 ### GitLab Training Service Partner Requirements 
-Please reach out to <a href="mailto:levelup@gitlab.com">levelup@gitlab.com</a>to learn about the GilLab Training Services Partner program. 
+Please reach out to [levelup@gitlab.com](levelup@gitlab.com)  to learn about the GilLab Training Services Partner program. 
 
 <br>
 
@@ -167,8 +167,6 @@ Each Badge offers unique benefits that help partners better prepare themselves t
   </tr>
   <tr>
    <td rowspan="4" >Training Benefits and Technical Resources
-   </td>
-   <td>PSP
    </td>
   </tr>
   <tr>
@@ -210,12 +208,8 @@ Each Badge offers unique benefits that help partners better prepare themselves t
    </td>
   </tr>
   <tr>
-   <td rowspan="2" >Services Related Marketing Benefits
+   <td >Services Related Marketing Benefits
    </td>
-   <td>PSP
-   </td>
-  </tr>
-  <tr>
    <td>Partner Locator Badges:  find partners with capabilities to address and deliver specific outcomes.
    </td>
   </tr>
@@ -233,12 +227,8 @@ Each Badge offers unique benefits that help partners better prepare themselves t
    </td>
   </tr>
   <tr>
-   <td rowspan="2" >Sales Acceleration
+   <td>Sales Acceleration
    </td>
-   <td>PSP
-   </td>
-  </tr>
-  <tr>
    <td>Opportunities for co-delivering services
    </td>
   </tr>
