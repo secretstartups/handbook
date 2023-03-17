@@ -25,6 +25,8 @@ Partners are given access to our [Partner Portal](https://partners.gitlab.com) w
 * GitLab news, communications and program announcements.
  
 Visit the portal at [partners.gitlab.com](https://partners.gitlab.com). There is a walk-through video available on the portal or you can [watch it here](https://drive.google.com/file/d/1cAGBOWrvRRL71zPPrUkwLm0L4BP_MzF_/view).
+
+Please note: if no one from your organization logs in to use our Partner Portal, after 6 months, your portal account will be deactivated. If you need your account reactivated, please contact partnersupport@gitlab.com and they will reactivate you.
  
 ## **GitLab Landing Page Guidelines**
 
