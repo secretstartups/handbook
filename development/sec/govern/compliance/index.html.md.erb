@@ -94,9 +94,9 @@ The issue verification should be done by someone else other than the MR author. 
 - All MRs should have verification steps in the description.
 - When an engineer has merged their work, they should move their issue into the verification status, indicated by the `~workflow:verification` label and wait until they receive notification that their work has been deployed on staging via the release issue email.
 - If possible, after the engineer has received the notification and verified their work in staging, they leave a comment summarizing the testing that was completed in the issue. It would be ideal if the verification includes a brief exploratory test session in addition to the prescribed verification steps. That is, a few minutes spent using the feature in a way you haven't before, which doesn't follow the happy path or the precise verification steps.
-- After the change is available on .com/production, the engineer should verify again, leave a comment summarizing the testing that was completed, and unassign themselves from the issue. Also provide a link to a project or page, if applicable.
-- Unassigned issues in the `~workflow:verification` state are assigned randomly by the triage bot based on the verification policy to an applicable team engineer. This engineer should then additionally verify the issue.
-- Once the issue has been verified in production by both engineers, add the `~workflow::complete` label, assign the issue back to the original engineer and close the issue.
+- After the change is available on .com/production, the engineer should verify again and leave a comment summarizing the testing that was completed. Also provide a link to a project or page, if applicable.
+- Issues in the `~workflow:verification` state are assigned randomly by the triage bot based on the verification policy to an applicable team engineer. This engineer should then additionally verify the issue.
+- Once the issue has been verified in production by both engineers, the verifying engineer will close the issue and unassign themselves. The issue will automatically get the `~workflow::complete` label added.
 
 #### Demos
 During the `workflow::verification` process, we determine whether the Issue requires a demo. If unsure, work with PM to determine if a demo is required. Demos are great for showcasing progress and help users quickly understand how to use a features and its benefits. Our process for this is similar to [Single Engineer Groups Demo](https://about.gitlab.com/handbook/engineering/demos/#single-engineer-groups-demo):
