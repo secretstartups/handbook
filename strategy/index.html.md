@@ -39,7 +39,7 @@ Ensure that GitLab is the default when customers buy DevSecOps software.
     1. Advocate Training
     1. Advocate Certification
     1. Standardize customer value data
-    1. [Exec dashboards](https://gitlab.com/gitlab-org/gitlab/-/issues/370887) 
+    1. [Value Streams Dashboard for Executive](https://gitlab.com/groups/gitlab-org/-/epics/9317) 
 1. Co-create
     1. [Leading Organizations](/handbook/marketing/community-relations/leading-organizations/)
       1. Reaching 1000 monthly contributors
@@ -91,7 +91,7 @@ Build upon our current platform to meet current and future user needs.
     1. Customer Executive Dashboards
     1. AI removes security dupes 
     1. [Governance documentation](https://docs.gitlab.com/ee/administration/compliance.html)
-    1. [DORA documentation](https://docs.gitlab.com/ee/api/dora/metrics.html)
+    1. [DORA documentation](https://docs.gitlab.com/ee/user/analytics/dora_metrics.html)
     1. Snyk migration 
     1. Duplicate efforts
 
