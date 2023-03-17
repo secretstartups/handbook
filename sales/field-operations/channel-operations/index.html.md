@@ -49,7 +49,7 @@ Please refer to our [Channel Ops Coverage Model](https://docs.google.com/spreads
 
 
 ### How to Contact Us
-The **#channel-programs-ops** Slack channel can be leveraged for inquiries. Both the Partner Operations Team and the Channel Programs Team monitor this slack channel.
+The **#partner-programs-ops** Slack channel can be leveraged for inquiries. Both the Partner Operations Team and the Channel Programs Team monitor this slack channel.
 If you are reporting a problem or have suggestions, changes, or similar, please open an issue on the [Partner Operations Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/2552402?&label_name[]=Channel%20Ops) for operational issues, or the [Channel Team’s Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1508300?label_name[]=Channel) for program issues.
  
 ### The Partner Operations Issue Board
@@ -94,8 +94,8 @@ There are a number of different slack channels to serve the different needs of t
 
 | Slack Channel | Description | Topic | Audience | Posting Permissions |
 | ------ | ------ | ------ | ------ | ------ |
-| partner-fyi | Updates to the Channel & Sales teams on Channel program, operations, enablement and marketing. Questions from team members should be posted on the #channel-programs-ops or #channel-sales | _blank_ | any | Channel Operations, Channel Programs, Nima Badiey
-| channel-program-ops | Questions and comments about channel programs and operations | https://about.gitlab.com/handbook/resellers/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | any | any |
+| partner-fyi | Updates to the Channel & Sales teams on Channel program, operations, enablement and marketing. Questions from team members should be posted on the #partner-programs-ops or #channel-sales | _blank_ | any | Channel Operations, Channel Programs, Nima Badiey
+| partner-program-ops | Questions and comments about channel programs and operations | https://about.gitlab.com/handbook/resellers/ and https://about.gitlab.com/handbook/sales/field-operations/channel-operations/ | any | any |
 | channel-sales |  Questions and comments about opportunities, partner connections, field engagement, and other channel sales questions |  | any | any |
 | channels-emea | A channel for the EMEA channels team and stakeholders to collaborate |  | any | any |
 | channels-amer | A channel for the AMER channels team and stakeholders can collaborate |  | any | any |
@@ -255,7 +255,7 @@ For more information about Distributor e-Marketplaces, partners should [contact 
 - A key goal of the GitLab Channel Program is the success of our authorized partners, which means whenever possible, we should work deals with them. We are developing our channel to provide coverage across geos, customer segments and vertical markets. However, there are some situations where customer requires a deal be transacted by a partner that is not willing to join the GitLab Partner Program. Only in those situations should we transact with an unauthorized partner, and only with the explicit approval of the programs team.  
 - Unauthorized partners have not signed a GitLab Partner Agreement.
 - If an unauthorized partner would like to transact GitLab products or services, please have them visit the [Partner Portal](https://partners.gitlab.com/) to sign up. Someone who has authority to accept the Agreement is required.
-- Unauthorized partners cannot transact GitLab products and/or services, unless rare but explicit approval is granted by the programs team. Please reach out to the #channel-programs-ops Slack channel.
+- Unauthorized partners cannot transact GitLab products and/or services, unless rare but explicit approval is granted by the programs team. Please reach out to the #partner-programs-ops Slack channel.
 
 ### Legal Requests for Partner Contracts
 
@@ -325,7 +325,7 @@ All submissions will be recorded and tracked for audit purposes. The chosen pref
 
 Any other partner receiving a quote for the same opportunity will be provided MSRP.    
 
-Further enablement for GitLab Team Members is available. For further information, contact the #channel-programs-ops slack channel.   
+Further enablement for GitLab Team Members is available. For further information, contact the #partner-programs-ops slack channel.   
 
 
 ### Guidelines for approving US Public Sector Co-Sell Partner Submissions
@@ -608,7 +608,7 @@ The file dated two months ago is the one currently in use with our partners. For
 
 The file dated one month in the future is the file that should be provided to partners (especially distributors) to set up their systems. It will go into effect on the date in the file name. 
 
-If there are any questions, please reach out to the #channel-programs-ops Slack channel. 
+If there are any questions, please reach out to the #partner-programs-ops Slack channel. 
 
 ## Price File Update Process
 
@@ -635,7 +635,7 @@ After all product approvals are complete, Partner Operations will request approv
 * **Programs:** Ed Cepulis
 * **Public Sector**: Chris Novello
 
-Please reach out to the #channel-programs-ops Slack channel for assistance. 
+Please reach out to the #partner-programs-ops Slack channel for assistance. 
 
 *Exceptions can be made for updates to core GitLab products (Ultimate and Premium)
 
