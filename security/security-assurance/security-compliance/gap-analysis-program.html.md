@@ -51,7 +51,7 @@ The following phases walk through the gap analysis lifecycle.
 
 ### Gap Analysis Requested
 
-Gap analysis requests can be submitted to the Security Compliance team by any GitLab team member. In order to submit a gap analysis request, submit an issue to the [Gap Analysis Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/gap-analysis/-/issues/new?issuable_template=GapAnalysisRequest) utilizing the 'GapAnalysisRequest' Issue Template. The Security Compliance team will review all submitted Gap Analysis requests and begin the process of performing the gap analysis. If the requested framework has already been assessed, the Gap Analysis Owner will notify the Gap Analysis Requestor and provide them the relevant details over the performed gap analysis. 
+Gap analysis requests can be submitted to the Security Compliance team by any GitLab team member. In order to submit a gap analysis request, submit an issue to the [Gap Analysis Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/gap-analysis/-/issues/new?issuable_template=GapAnalysisRequest) utilizing the 'GapAnalysisRequest' Issue Template. The Security Compliance team will review all submitted Gap Analysis requests and begin the process of prioritizing the gap analysis. If the requested framework has already been assessed, the Gap Analysis Owner will notify the Gap Analysis Requestor and provide them the relevant details over the performed gap analysis. Once the gap analysis request has been reviewed and prioritized, the Gap Analysis DRI will notify the requestor in the submitted request issue of their request status in the overall gap analysis queue. 
 
 ### Performing The Gap Analysis
 
@@ -60,6 +60,17 @@ Once the gap analysis request has been received, a member of the Security Compli
 ### Reporting Gap Analysis Results
 
 Once the gap analysis has been completed and all relevant gaps identified, the Gap Analysis Owner will create a [Gap Analysis Audit Report](https://docs.google.com/presentation/d/1XB8cVvE7weZZuXSaXuX-dlcsyd0bRnI10pG1m7WJEJY/edit#slide=id.p1) outlining the results of the analysis, the identified gaps/observations, and the recommendations for observation closing and new policy/procedure/control formalization. Once the Gap Analysis Audit Report has been reviewed and approved by the Security Compliance Manager and Director of Security Assurance, the Gap Analysis Owner will begin the process of assigning the identified observations in existing controls that map to the assessed framework to relevant stakeholders for remediation via the [Observation Intake and Management](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/-/blob/master/runbooks/1_Observation%20Intake%20and%20Management.md) procedure as well as begin the process of formalizing any new policies/procedures/controls that close the identified gaps. Additionally, it is possible that during the performance of the gap analysis, it is determined that GitLab is already aligned with the standard/framework that is being assessed. In such cases, this will be reported in the [Gap Analysis Audit Report](https://docs.google.com/presentation/d/1XB8cVvE7weZZuXSaXuX-dlcsyd0bRnI10pG1m7WJEJY/edit#slide=id.p1) which will be made available to management and the gap analysis requestor. 
+
+## SLA/Prioritization
+
+Gap analysis requests will be prioritized by the Gap Analysis Program DRI with assistance from Security Compliance leadership within 2 weeks of receipt. Factors such as external requirements, internal initiatives, pre-existing obligations, required deliverables and level of importance based on customer feedback will be utilized in prioritization. Each gap analysis will be assigned a priority level of 1, 2, 3, or 4. Priority levels with their associated completion SLA's can be found below. Stated SLA's include time from prioritization of the gap analysis request to the time the final gap analysis audit report is completed. 
+
+| Priority Level | Completion SLA|
+| ---- | ------ |
+| Priority 1 | The gap analysis is of the highest priority to meet short term requirements/requests. SLA for completion: 1-3 months|
+| Priority 2 | The gap analysis is not an immediate requirement but is of high importance. SLA for completion: 3-9 months |
+| Priority 3 | The gap analysis is of moderate importance and should be completed within the current fiscal year. SLA for completion: 9-12 months|
+| Priority 4 | The gap analysis would be considered a "nice to have" but is currently of low significance/impact. SLA for completion: 12-24 months or when the gap analysis request is next in the queue. |
 
 ## References
 
