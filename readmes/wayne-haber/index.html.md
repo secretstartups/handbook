@@ -56,7 +56,7 @@ Links about Wayne:
 * Some of my favorite business books include:
   * [How to Win Friends and Influence People](https://www.amazon.com/gp/product/B004U7G81O)
   * [The Five Dysfunctions of a Team](https://www.amazon.com/gp/product/B006960LQW)
-  * [The Phoenix Project](https://www.amazon.com/gp/product/B0030V0PEW)
+  * [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8)
   * [Start with Why](https://www.amazon.com/gp/product/B002Q6XUE4)
 * I am in [Atlanta, GA, USA](https://en.wikipedia.org/wiki/Atlanta) (Eastern US).
 * I am most productive in the morning.
