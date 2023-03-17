@@ -227,6 +227,8 @@ There are a few options you can choose from: pick an image from a [library of or
 
 Follow the ["Guidelines for Use of Third-party IP in External Materials"](https://about.gitlab.com/handbook/legal/ip-public-materials-guidelines).
 
+**Note:** Stock images cannot prominently feature a corporate name. The images must be generic in nature.
+
 ##### Library images
 
 We have some original illustrations for our blog categories and most popular topics which you are welcome to choose from. You can view these in [https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/images/blogimages/library](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/images/blogimages/library). In the `image_title:` field in the frontmatter, please enter your chosen image's file path using the format `/images/blogimages/library/engineering.png`.
