@@ -8,9 +8,3 @@ description: "Readme documents for members of Engineering group"
 - pages = pages.reject{|page| page.data.job.nil?}
 
 = partial "handbook/engineering/readmes/toc.html.haml", locals: {pages: pages.sort_by(&:path)}
-
-%h2
-  UX Department
-%ul
-  %li
-    = link_to "Meet some of the UX Department team members", "https://about.gitlab.com/handbook/product/ux/#meet-some-of-our-team-members"
