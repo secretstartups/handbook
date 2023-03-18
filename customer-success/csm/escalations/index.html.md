@@ -108,7 +108,19 @@ If a [Critical or High-Level escalation](/handbook/customer-success/csm/escalati
 
 #### For all account escalations
 
-1. Create a temporary slack channel to facilitate communication internally at GitLab. This channel will remain open until the escalation is closed and should be listed in the escalation document. Name the channel #esc_customername and ensure it is a public channel so that relevant parties can be easily added/find the channel. 
+1. Create a temporary slack channel to facilitate communication internally at GitLab. This channel will remain open until the escalation is closed and should be listed in the escalation document. Name the channel #esc_customername (must start with #esc_ to be included in our data retention policy) and ensure it is a public channel so that relevant parties can be easily added/find the channel. Some more tips & tricks for opening and managing the temporary slack channel can be found below:
+   - a) Create an opening message in the escalation channel which should include the link to the escalation tracker doc + the initial ask / link to it within the gdoc as deep link. 
+      - Example for a potential opening message to get things going:
+        - "_Welcome! This is the channel for the <CUSTOMER_NAME> escalation regarding ongoing performance problems which are impacting the whole user base._"
+           - _The escalation tracker document is ready and available at "<_LINK_>"_
+           - _The initial ask/need from DRI (CSM) to GitLab management is defined in the tracker gdoc - Quote:_
+              - "_We need a GitLab team (member) who can engage with the customer on a daily basis to further analyze the performance issues root cause(s) and identify potential changes to reduce the performance problems for the  users._"
+              - "_Once the root causes are identified, we need a team working with the customer to implement required changes, which may range from configuration updates to changing the architecture of the GitLab platform or involving cloud vendor support for changes in underlying infrastructure._"
+        - "Whats next?"
+           - "Our next sync with the customer team is scheduled for Monday at 10:30am CEST where we would like to have the team (member) defined internally, who can then be introduced to the customer (can be a separate call at afternoon time) to engage in the following days."
+
+   - b) If posted, pin the opening message to the channel, so that it is easily available for everyone. Also add the escalation tracker doc as a SLACK channel bookmark along
+
 
 1. Set up and document an internal standup cadence series while the escalation is running and put the details in the tracker doc
    - At least the major stakeholders from each team involved in the escalation should be invited directly in the calendar invite.
@@ -134,13 +146,13 @@ If a [Critical or High-Level escalation](/handbook/customer-success/csm/escalati
 
 1. Example message for the event when the escalation is identified and created and you have to post to #escalated_customers:
    - New Escalation
-   - **Customer**: <customer_name>
-   - **Slack Channel**: #<a_customer_name_escalation> 
-   - **Tracking Document**: <LINK:Escalation Tracker Doc>
+   - **Customer**: "<customer_name>"
+   - **Slack Channel**: "#<esc_customername>"
+   - **Tracking Document**: "<LINK:Escalation Tracker Doc>"
    - **Severity**: High
    - **Status**: Opened
    - **Description**: "<Example <Customer> platform is impacted by performance problems since several weeks and users are affected on a daily base which is driving the customer into a critical state. The performance problems are also risking their our license expansion.>”
-   - **FYI**: <TAG_YOUR_MANAGER_HERE>
+   - **FYI**: "<TAG_YOUR_MANAGER_HERE>"
 
 
 1. If requested, The [Section leader of Product](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/sections.yml) is responsible for designating Product Leaders who will be the R&D response DRIs for the escalation. That process is expected to happen in the #a_customername_escalation channel with a ping to the relevant [Product section leader](https://about.gitlab.com/handbook/product/categories/). Example:  - This is a newly escalated customer, and we are looking for you to assign a Product Leader to be the R&D DRI for the response.
@@ -150,7 +162,14 @@ If a [Critical or High-Level escalation](/handbook/customer-success/csm/escalati
 
 - DRI owns the functions as outlined here
 - Escalation document kept updated with minimum daily updates
+- The escalation progress should also be communicated to the customer on a regular basis like 3 times per week or more often depending on the situation. (Set up a calender reminder for yourself to make it easier)
 - **Daily Slack updates are posted to the designated customer escalation channel (see escalation doc for format)**
+
+Tips & Tricks:
+
+- Create a daily reminder (at afternoon before you leave, for example) in your Google calendar just for yourself to update the escalation doc + customer SLACK channel with latest status/next steps. This ensures everyone is kept up2date.
+- Depending on the state of the escalation, also think about to setup an GitLab internal cadence for the GitLab team, which is responsible for the escalation:
+   - CSM, SAL, Manager of CSM and potential other involved stakeholders, PS lead and  the DRIs who are working in this escalation actively with the customer and the internal team. This way
 
 ### Closing the Escalation
 
