@@ -18,19 +18,7 @@ title: "Partner Support"
 # Welcome to the Partner Support page
 This page is intended for Sales and Channel team members to review quick links and common questions that come to the Partner Help Desk team.
 
-## Meet the Team
-### Who We Are
-- Evon Collett (she/her) - Manager, Partner Help Desk
-- Yulia Imbert (she/her) - Partner Help Desk Specialist   
-
 _All team members work all regions, according to the timezone they work within. For fastest answers see [How to contact us](https://about.gitlab.com/handbook/resellers/partner-support/#how-to-contact-us), please do not contact individual Partner Help Desk team members via DM or chatter._
-
-## Team Responsibilities
-- Channel account record support in SFDC
-- Channel account data management in Impartner
-- Day-to-day partner questions via partnersupport@gitlab.com
-- Partner rebate payments and tracking
-- Additional responsibilities to be documented
 
 ### Where to Get Help for Frequent Support Needs
 
@@ -45,10 +33,10 @@ _All team members work all regions, according to the timezone they work within. 
 
 
 ## How to Contact Us 
-The **#channel-programs-ops** Slack should be the first mode of contact for GitLab team members for all urgent and/or non-SFDC-record-related. If the request is related to an SFDC partner account record, please chatter `@Partner Operations` on the record. 
+The **#partner-programs-ops** Slack should be the first mode of contact for GitLab team members for all urgent and/or non-SFDC-record-related. If the request is related to an SFDC partner account record, please chatter `@Partner Operations` on the record. 
 
 Slack Best Practices  
-**Please do not contact the Partner Operations team members directly via Slack.** Utlizing the #channel-programs-ops Slack channel is best to ensure timely coverage, allows multiple people to chime in to assist, helps others who may have similar questions, and aligns with our [Transparency value](https://about.gitlab.com/handbook/values/#transparency).
+**Please do not contact the Partner Operations team members directly via Slack.** Utlizing the #partner-programs-ops Slack channel is best to ensure timely coverage, allows multiple people to chime in to assist, helps others who may have similar questions, and aligns with our [Transparency value](https://about.gitlab.com/handbook/values/#transparency).
 
 Partners can contact the Partner Support team at partnersupport@gitlab.com.
 
@@ -151,9 +139,17 @@ When Partner Operations receives the request, they will review the partner accou
 ### NFR Requests Outside of Program Guidelines
 If a partner needs additional NFR users or licenses OR wants to use a license outside of the parameters set by the NFR policy, CAMs and SAs should consult to determine if the partner should be paying for a license to invest in their GitLab practice and work with Sales to help the partner purchase license(s) for their own internal use. 
 
-Otherwise, the NFR options on the internal request form only grant the Partner Operations team rights to request NFRs that follow standard program guidelines. If it is determined that the partner should not pay for additional users or licenses above what the NFR program offers, the CAM or SA must make an exception request using GitLab Support's [internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/), and choose the **Other** option. (Requests outside of program guidelines will be auto-rejected if the NFR option is chosen in the form.)
+Any requests outside of the normal NFR policy must be approved by the Sr. Director of Programs (Ed Cepulis) and the Channel Manager's manager, usually a Channel Director. If it is determined that the partner should not pay for additional users or licenses above what the NFR program offers, the CAM must submit an exception request:
 
-In your request, please provide the business justification for why the partner needs NFR users or licenses in excess of the program allotment and the GitLab Support team will ask for approvals from your manager and the Programs team. Director-level approval may be required. Not all requests will be granted. The CAM or SA should update the Account Notes section of the partner account in Salesforce with any pertinent details for special NFR considerations.
+1. The Channel Manager should email partnersupport@gitlab.com with subject line "NFR Exception for (Partner Name)" and copy Ed Cepulis and their manager / the Channel Director for their region. Include the business justification for the exception and the amount of users requested. 
+
+     - If the partner has not submitted a NFR request in the partner portal per the process above, please have them do so, selecting the amount of users allowed per their partner track so that the team can work on the request if it is approved. They are also welcome to add a note in the comments indicating their Channel Manager will be submitting an exception request on their behalf.
+
+2. Once both directors have approved the request, the Partner Operations team will proceed to fulfill the request.
+
+Other items to note about exception requests:
+- Not all requests will be granted. 
+- Partners cannot receive a NFR exception if they are not compliant with their partner track requirements.
 
 ## Customer Support, Subscription Changes and Email Updates
 When customers purchase through a partner, it is the partner's responsibility to ensure a ticket is submitted for any changes or support needs. 
