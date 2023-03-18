@@ -140,11 +140,13 @@ GitLab division README pages are linked below for context. Reading other READMEs
 - [Engineering READMEs](/handbook/engineering/readmes/)
 - [Marketing Team READMEs](/handbook/marketing/readmes/)
 - [Product READMEs](/handbook/product/readme/)
+    - [UX Department READMEs](/handbook/product/ux/#meet-some-of-our-team-members)
 - [Sales Team READMEs](/handbook/sales/readmes/)
 - [People Group READMEs](/handbook/people-group/readmes/)
 - [Finance Team READMEs](/handbook/finance/readmes/)
 - [Legal Team READMEs](/handbook/legal/readmes/)
 - [Chief of Staff Team to the CEO READMEs](/handbook/ceo/chief-of-staff-team/readmes/)
+
 
 ### Creating Your README
 
@@ -246,7 +248,7 @@ The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sib
 - To form your team
 - To guide what your team does
 - To monitor how well your team is doing
-- to diagnose where your team may be struggling or identify the keys to your team's success
+- To diagnose where your team may be struggling or identify the keys to your team's success.
 
 **7 Stages to developing high performing teams:**
 
@@ -324,7 +326,7 @@ When you give leadership training please [screenshare the handbook instead of cr
 3. [Self-led opportunities to be a mentor](/handbook/people-group/learning-and-development/mentor/) - keep an eye out for a company-wide mentorship program with applications opening at the end of January 2022.
 4. [Join the women's TMRG mentorship group](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) to either be a mentor to practice leadership or get paired with a leader to learn from.
 5. Sign up for [Crucial Conversations training](/handbook/people-group/learning-and-development/learning-initiatives/#crucial-conversations)
-6. Explore opportunities to join the [CEO Shadow program](/handbook/ceo/shadow/) or other division specific shadow programs with the [Chief of Staff](/handbook/ceo/chief-of-staff-team/#chief-of-staff-shadow), [People Connect Shadow Program](/handbook/people-group/people-connect-shadow-program/), [Security](/handbook/security/security-shadow.html), and [Development Director Shadow Program](https://about.gitlab.com/handbook/engineering/development/shadow/director-shadow-program.html).
+6. Explore opportunities to join the [CEO Shadow program](/handbook/ceo/shadow/) or other division specific shadow programs with the [Chief of Staff](/handbook/ceo/chief-of-staff-team/#chief-of-staff-shadow), [People Connect Shadow Program](/handbook/people-group/people-connect-shadow-program/), [Security](/handbook/security/security-shadow.html), and [Development Director Shadow Program](/handbook/engineering/development/shadow/director-shadow-program.html).
 7. Explore the skills needed to successfully transistion from IC to Manager in [GitLab Learn](https://gitlab.edcast.com/channel/coming-soon-transitioning-from-ic-to-manager). 
 8. Explore leadership and management courses on [LinkedIn Learning](https://www.linkedin.com/learning/topics/leadership-and-management?u=2255073)
 9. Watch or listen to one of the many [CEO Handbook Learning sessions](/handbook/people-group/learning-and-development/learning-initiatives/#list-of-ceo-handbook-learning-sessions) with Sid on various leadership topics
