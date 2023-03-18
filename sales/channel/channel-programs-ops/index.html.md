@@ -55,7 +55,7 @@ Where do partners and CAMs submit questions?
 ## Slack Channels
 
 *   #channel-sales for general sales engagement questions.
-*   #channel-programs-ops for questions about the overall GitLab Partner Program, rules, governance, enablement and operational processes from deal registration through order.
+*   #partner-programs-ops for questions about the overall GitLab Partner Program, rules, governance, enablement and operational processes from deal registration through order.
 *   #channel-services for questions about the partner services program and partner engagement in services opportunities.
 *   #resellers for partners to submit questions.
 
@@ -395,11 +395,11 @@ NOD is used to communicate to Partners via targeted emails and the Partner Flash
 * **Special Notifications via email** - using NOD we can create a one-off notification if there is an urgent need to communicate out-of-cycle announcements or send surveys or Partner SKO/Summit notifications.  \
 
 
-**How to get a hold of us:** If you have completed the [engagement process approvals](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#channel-program-engagement-process) or have any questions regarding if/how something should be communicated, please reach out to us via the **#Channel-programs-ops** Slack channel.
+**How to get a hold of us:** If you have completed the [engagement process approvals](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#channel-program-engagement-process) or have any questions regarding if/how something should be communicated, please reach out to us via the **#partner-programs-ops** Slack channel.
 
 **Partner Flash access** - anyone at GitLab can receive Partner Flash or contribute an article.  
 
-* **Partners** - automatically signed up when approved and authorized via the Partner Portal.  If a Partner believes they do not have access please provide the user detail: first and last name, email address, and company name in the** #Channel-programs-ops** Slack channel, and we will investigate.  Typically we find the Partner has inadvertently opted out of communications.  \
+* **Partners** - automatically signed up when approved and authorized via the Partner Portal.  If a Partner believes they do not have access please provide the user detail: first and last name, email address, and company name in the** #partner-programs-ops** Slack channel, and we will investigate.  Typically we find the Partner has inadvertently opted out of communications.  \
 
 * **Internal teams must self-register to receive Partner Flash and Partner Email communications.**
     * Use [this link](https://partnerflash.gitlab.com/login/) to register; it's pretty straightforward, but check out [these instructions](https://docs.google.com/presentation/d/1iX23o0N-G25GXfBs82JsmvLw-7Bc0_8e6Cva1o81hX0/edit#slide=id.g127a0ca15c9_0_266) if you need assistance.
