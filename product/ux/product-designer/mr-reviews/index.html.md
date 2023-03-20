@@ -36,7 +36,7 @@ Community submitted MRs require more context to review and are assigned to the d
 Single Engineer Group (SEG) MRs often require more active collaboration and additional context on the work. UX-related MRs created from a SEG should be reviewed by the design DRI of the group it impacts. 
 
 #### UX Paper Cuts MRs
-MRs created by the UX Paper Cuts team will utilize the [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) to help distribute MR reviews across the Product Design subdepartment.
+MRs created by the UX Paper Cuts team will be handled by the UX Paper Cuts team. If one of the two designers are OOO, then the team will utilize the [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) to help distribute MR reviews across the Product Design subdepartment.
  
 #### Benefits
 - Evenly distribute MR reviews across the Product Designers in the UX Department in support of our [Product Design MR review volume KPI](/handbook/product/ux/performance-indicators/#product-design-mr-review-volume). This will have a more significant impact on higher usage areas of our product by opening up capacity for those designers to increase time spent on creating design solutions.
