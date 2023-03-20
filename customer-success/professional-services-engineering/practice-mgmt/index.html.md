@@ -110,7 +110,7 @@ SKUs for new PS offerings are requested by the PS Practice Manager. To request a
 
 The Practice Manager follows these steps to request creation of a new SKU.
 
-1. Create an [issue in the Finance issue tracker](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=New_PS_SKU) referencing the above requirements
+1. Create an [issue in the Finance issue tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new?issuable_template=CM:%20Add_New_PS_SKU) referencing the above requirements
 1. Review with the Finance Business Partner for Sales
 1. Make any require changes
   1. Include an executive summary with the business rationale
