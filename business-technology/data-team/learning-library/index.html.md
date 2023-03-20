@@ -117,7 +117,7 @@ description: "GitLab Data Team Library"
 - [dbt](https://slack.getdbt.com)
 - [Great Expectations](https://greatexpectations.io/slack)
 - [Locally Optimistic](https://www.locallyoptimistic.com/community/)
-- [Measure](ttps://docs.google.com/forms/d/e/1FAIpQLSdyAxOcI8z1EEiJDW4sGln-1GK9eJV8Y86eljX-uSlole0Vtg/viewform?c=0&w=1)
+- [Measure](https://docs.google.com/forms/d/e/1FAIpQLSdyAxOcI8z1EEiJDW4sGln-1GK9eJV8Y86eljX-uSlole0Vtg/viewform?c=0&w=1)
 - [Meltano](https://join.slack.com/t/meltano/shared_invite/enQtNTM2NjEzNDY2MDgyLWI1N2EyZjA1N2FiNDBlNDE2OTg4YmI1N2I3OWVjOWI2MzIyYmJmMDQwMTY2MmUwZjNkMTBiYzhiZTI2M2IxMDc)
 - [Open Data Community](https://opendatacommunity.slack.com)
 - [Pachyderm](http://slack.pachyderm.io)
