@@ -70,23 +70,41 @@ Changes to Salesforce.com come in a variety of formats but all of them will feat
 1. All changes will be require Business DRI (the requestor) to sign off on the related GitLab Issue once ready and determine a deploy window.
 1. All changes will be be reviewed by the Business DRI once deployed or replicated in production.
 
-In addition, these common types of changes feature additional controls:
+We have defined the following ending Label stages for the Sales Systems workflow. Please see the label name as well as SDLC expectations:
+
+### No Changes to Salesforce.com
+
+Label: `SalesSystems::Deployed - 0 - No Changes`
+Description: This issue is completed. There was no setting, configuration or code change to SFDC. No Sign-off Needed, No Change Set Used.
+
+1. These issues resulted in no Setting, Configuration or Code changes to SFDC.
+1. The most most common use case are question or research issues.
+1. Data changes as part of a backfill for another operations team fall into this category.
+
+### Changes that cannot or are impractical to use a Change Sets (Field Level Security, Sharing Rules, Layout Changes and Assignments):
+
+Label: `SalesSystems::Deployed - 1 - Settings Change`
+Description: This issue is completed. There was a setting change. Sign-off is required, No Change Set Used.
+
+1. These changes will need a special deploy window for the changes to be made by hand. Please coordinate with the Business DRI.
 
 ### Changes that contain Salesforce.com Fields, Workflows, Validation Rules, or other non-code Configuration.
+
+Label: `SalesSystems::Deployed - 2 - Configuration Change`
+Description: This issue is completed. There was a configuration change. Sign-off Required, Change Set screenshot required.
 
 1. These changes will always use a Salesforce.com Changeset that will be linked to the related issue.
 1. The team member who uploards the change set shall ask a different team member to review and deploy the change. (No Self Deploys).
 
 ### Changes that contain Salesforce.com Apex Code, Apex Triggers, or Visualforce Pages:
 
+Label: `SalesSystems::Deployed - 3 - Code Change`
+Description: This issue is completed. There was a code change. Sign-off Required, Change Set Screenshot required, Approved and attached MR required.
+
 1. These changes will require the creation of a Merge Request to our SFDC source repository as instructed below.
 1. These changes will require a code review by at least 1 other Business Systems Engineer before being marked as ready to merge.
 1. These changes will always use a Salesforce.com Changeset to deploy that will be linked to the related issue.
 1. The team member who uploards the change set shall ask a different team member to review and deploy the change. (No Self Deploys).
-
-### Changes that cannot or are impractical to use a Change Sets (Field Level Security, Sharing Rules, Layout Changes and Assignments):
-
-1. These changes will need a special deploy window for the changes to be made by hand. Please coordinate with the Business DRI.
 
 ### Destructive Changes to Salesforce Fields Configration
 
@@ -96,6 +114,15 @@ In addition, these common types of changes feature additional controls:
 
 1. These changes require sign off from the Senior Director of Sales Systems.
 1. These changes will be done via a Salesforce.com Workbench as a [destructive deploy.](https://www.salesforceben.com/way-to-delete-apex-classes-from-production/)
+
+### Milestone Compliance Check Process
+
+Before a Milestone is closed perform the following steps:
+
+1. All non-closed issues, must be removed or pushed to the next milestone.
+1. All closed issues that bear the SalesSystems label must end in on of the 4 deployment stages.
+1. All Issues must have their neccessary artifacts and approvals related to their deployement stage.
+1. Any problems found must be raised to a Sales Systems scrum-master immediately to not delay close.
 
 ### Special Approvals
 
