@@ -96,7 +96,7 @@ Current items available for bulk swag use include:
 
 1. Create custom swag:
 
-If you plan to create custom swag for your giveaway, please follow the guidelines for [requesting swag](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#common-swag-requests).
+If you plan to create custom swag for your giveaway, please follow the guidelines for [requesting swag](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling).
 
 
 Important things to note about custom swag orders:
