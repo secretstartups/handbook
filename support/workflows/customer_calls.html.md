@@ -324,7 +324,7 @@ If you're not comfortable having the call recorded, please involve your manager 
 
 ### Video
 
-You're not required to turn your camera, and some clients may elect not to. At GitLab we [try to have our video on at all times because it's much more engaging for participants](/handbook/communication/#video-calls).
+You're not required to turn your camera on, and some clients may elect not to. At GitLab we [try to have our video on at all times because it's much more engaging for participants](/handbook/communication/#video-calls).
 
 See more tips about video, environment and dress on our [communication page](/handbook/communication/#video-calls) and our [all-remote meetings page](/company/culture/all-remote/meetings/#8-meetings-are-about-the-work-not-the-background).
 
