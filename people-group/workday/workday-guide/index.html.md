@@ -63,6 +63,7 @@ Use these helpful resources for completing team member self-service tasks in Wor
 |Managers|delegate|[Link](https://docs.google.com/document/d/1BDME_47-mif1ZihO5Id-wejbjAU_-PLIr1dJ46z1F_c/edit)|-|
 |Managers|access and use reports|[Link](https://docs.google.com/document/d/19Isxod-o2CJ9GkurkVPqK8dCxbkQO743LoJ12OonOHY/edit)|-|
 |Managers|move team member to another manager|[Link](https://docs.google.com/document/d/1JEobACNSMeHU4pU5DaaF7aqmv9wmSDoXx7veZ6_SM_I/edit)|-|
+|Managers|view job history of a report prior to the HRIS migration|under that team member: `Job -> Worker History -> Worker History by Category -> Staffing & Compensation from Prior System`|-|
 
 
 ## How is Workday being implemented?
