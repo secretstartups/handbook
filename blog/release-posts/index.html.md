@@ -69,11 +69,11 @@ Note: MRs added after the 17th should target the `release-x-y` branch, not `mast
 ### On the 18th
 
 - At <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time>, another **release post automation** task ([scheduled pipeline](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab-ci.yml#L290-299); [rake task](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/lib/tasks/release_post.rake#L373-399)) performs content assembly
-- **Contributor Success** adds the [MVP](#mvp)
 - **Release Post Manager** picks features to highlight and creates the introduction content
 
 ### 18th - 20th
 
+- **Contributor Success** adds the [MVP](#mvp)
 - **Release Post Manager and Technical Writer** perform final reviews
   - Changes after <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time> on the 18th will be done via the `release-X-Y` branch and are subject to approval by the Release Post Manager.
   - The TW Lead verifies the deprecations and removals links in the release post
@@ -819,7 +819,7 @@ Should you prefer to continue to contribute to an issue under active development
 
 ### MVP
 
-The Contributor Success team is taking over the process of soliciting nominations, choosing an MVP, and adding the content to the release post. ([Issue](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/163))
+The Contributor Success team now owns the process for nominating, selecting and adding the GitLab MVP for the release post. See the Contributor Success [GitLab MVP Selection Process](/handbook/marketing/community-relations/contributor-success/mvp-process.html#gitlab-mvp-selection-process).
 
 The release post manager no longer has any MVP-related tasks.
 
