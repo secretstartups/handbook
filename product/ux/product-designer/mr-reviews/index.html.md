@@ -85,6 +85,43 @@ Some MRs have additional set up requirements.
   - [Instructions for the simple installation](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/geo.md).
   - [Video instruction](https://youtu.be/R58mgwDwjM8) and [slide deck](https://docs.google.com/presentation/d/1azikV27LO68xobgJ7v399H1ppnLCmtB_kEKl_IMNI0Q/edit#slide=id.g123a13deda8_0_405) for setting up Geo-GDKs
 - Pipeline Execution: For CI/CD minutes and shared runner usage related features, you need to populate projects with historical CI/CD minutes usage data to test the features or changes. [Instructions for setting up test data for CI/CD minutes usage](/handbook/product/ux/stage-group-ux-strategy/ci-cd/pipeline-execution/#setting-up-test-data-for-cicd-minutes-features).
+  - Merge requests related to CI/CD minutes and shared runner usage usually require some historical usage data, which can be difficult to set up if it doesn't exist already on the local GDK environment. Below is a video and instructions for how to set that up in under 7 minutes.
+   <!-- blank line -->
+   <figure class="video_container">
+   <iframe src="https://www.youtube.com/embed/ym-fU1U-anE" frameborder="0" allowfullscreen="true"> </iframe>
+   </figure>
+   <!-- blank line -->
+   Checkout the branch in the MR and open rails console using `bin/rails console`.
+   **1. Edit CI minutes**
+
+      ApplicationSetting.current.update(shared_runners_minutes: 400)
+      project = Project.find(20)
+      root_namespace = project.root_namespace
+      namespace_usage = Ci::Minutes::NamespaceMonthlyUsage.find_or_create_current(namespace_id: root_namespace.id)
+      Ci::Minutes::NamespaceMonthlyUsage.update_counters(namespace_usage, amount_used: 100, shared_runners_duration: 100)
+      project_usage = Ci::Minutes::ProjectMonthlyUsage.find_or_create_current(project_id: project)
+      Ci::Minutes::ProjectMonthlyUsage.update_counters(project_usage, amount_used: 100, shared_runners_duration: 100)
+   
+   Type `:wq` to exit the log lines. Do not exit the rails console. 
+
+   **2. Add helper method to rails console**
+
+      def increase_ci_usage(project:, date:, amount_used:, shared_runners_duration:)
+      date = date.utc.beginning_of_month
+      project_usage = Ci::Minutes::ProjectMonthlyUsage.where(date: date).safe_find_or_create_by(project_id: project.id)
+      Ci::Minutes::ProjectMonthlyUsage.update_counters(project_usage, amount_used: amount_used, shared_runners_duration: shared_runners_duration)
+      root_namespace = project.root_namespace
+      namespace_usage = Ci::Minutes::NamespaceMonthlyUsage.where(date: date).safe_find_or_create_by(namespace_id: root_namespace.id)
+      Ci::Minutes::NamespaceMonthlyUsage.update_counters(namespace_usage, amount_used: amount_used, shared_runners_duration: shared_runners_duration)
+      end
+
+   **3. Use helper method**
+
+      increase_ci_usage(project: project, date: 1.month.ago, amount_used: 10, shared_runners_duration: 20)
+      
+   The usage quota page should now reflect the changes data.
+
+
 - Secure: 
   - To generate project vulnerabilities, execute `GITLAB_QA_ACCESS_TOKEN=XXXXXXXXXX GITLAB_URL="https://gitlab.com" bundle exec rake vulnerabilities:setup\[<Project_Id>,<Vulnerability_Count>\] --trace` from the `gitlab/qa` directory. Make sure to replace the placeholders in the script with your local access token, project ID, and desired number of vulnerabilities. An example of this might be `GITLAB_QA_ACCESS_TOKEN=asdfASDF1234- GITLAB_URL="http://localhost:3000/" bundle exec rake vulnerabilities:setup\[25,10] --trace`
   - To populate a merge request with vulnerabilities, [follow these steps](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/89526#note_992018561).
