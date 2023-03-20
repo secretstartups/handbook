@@ -10,14 +10,22 @@ description: This is a guide on how to handle requests involving Reseller.
 
 ## Overview
 
-When a customer purchases through a reseller we follow a different workflow to WebDirect or Sales purchases. Note the following for a customer purchase through a reseller:
+Reseller is another word for [Channel Partner](https://about.gitlab.com/handbook/resellers/).
+Note that an [Alliance Partner](https://about.gitlab.com/handbook/support/partnerships/alliance.html)
+is different from a Channel Partner, and is **not** a reseller. See the
+[GitLab Alliances Handbook Page](https://about.gitlab.com/handbook/alliances/) and the
+[Internal Alliances Handbook Page](https://internal-handbook.gitlab.io/handbook/alliances/)
+for more on alliances.
+
+When a customer purchases through a reseller we follow different workflows than
+we do for WebDirect or Sales Assisted purchases. Note the following for a customer purchase through a reseller:
 
 1. The customer will have _NO_ access to Customers Portal. The customer's account is held under the name of the reseller, so there is no unique account for them to login to.
-1. Additions or modifications to the existing subscription made through a reseller must go through the reseller, unless specifically allowed by the reseller
+1. Additions or modifications to the existing subscription made through a reseller must go through the reseller, unless specifically allowed by the reseller.
 
 ### Identifying whether a customer purchased through reseller
 
-Check if a subscription was purchased through reseller by locating the `Invoice Owner` in the customer account on Zuora.
+Check if a subscription was purchased through a reseller by locating the `Invoice Owner` in the customer account on Zuora.
 
 1. [Searching for the customer account in Zuora](https://drive.google.com/file/d/1c7ChL7iCp9nYByBttX_RvWTrOxkVcDAn/view?t=2m09s)
 1. Click on the relevant subscription in the `Subscription Number` column
@@ -61,3 +69,11 @@ Once a reseller customer renews directly with GitLab, we can restore login acces
 - License cannot upload because there's true-up
 
 To move the ticket forward gather any license or subscription information relevant to the ticket, and then follow the [working with sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html) and pass to Sales team.
+
+### More Reseller Workflows
+
+- [Associating purchases - ownership verification](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification)
+- [Associating purchases - Support assisted subscription contact management](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#reseller-customer-note)
+- [Pass to Sales - reseller exemption request](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#2-are-reseller-purchases-considered-the-same-as-sales-assisted-if-a-customer-purchased-after-2022-07-07-and-needs-a-legacy-license-should-we-send-them-to-their-account-manager-to-go-through-the-exemption-process-or-do-we-treat-them-the-same-as-web-direct-and-give-them-a-legacy-license-file-no-questions-asked)
+- [Pass to Sales - reseller subscription change or question](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html#a-reseller-or-reseller-customer-wants-to-change-their-subscription-or-ask-a-question)
+- [Not-for-Resale (NFR) program and policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#not-for-resale-nfr-program-and-policy)
