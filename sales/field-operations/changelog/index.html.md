@@ -16,6 +16,12 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q1-FY24
 
+### 2023-03-20 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/289))
+
+**Sales Ops: [Resume Creation of Google Marketplace Add-on Private Offers](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/310)**
+
+**Alliance Ops: [Google Cloud Marketplace Listing Improvements](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/825)**
+
 ### 2023-02-06 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/267))
 
 **Sales Ops: [Okta Single Sign On Enabled for Clari](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/532)**
