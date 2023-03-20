@@ -113,7 +113,7 @@ Confidence is the assessment of the product and design team's understanding of t
 
 |  | High confidence | Medium confidence | Medium confidence | Low confidence |
 | --- | --- | --- | --- | --- |
-| Is the JTBD informed by research? (not assumptive) | Yes | Yes | No | No |
+| The Team understands both the Main Job and the small job(s) related to the problem area? | Yes | Yes | No | No |
 | Has the problem been validated through research or other means? | Yes | No | Yes | No |
 
 #### Timeframes
