@@ -13,11 +13,11 @@ At the conclusion of each project, we will conduct a root cause analysis using t
 
 ## Scheduling a Root Cause Analysis
 
-1. Create an issue
+1. Create an issue.
 1. Use the [RCA](https://about.gitlab.com/handbook/engineering/root-cause-analysis/).  Changes to that template can be added as an MR to the Professional Services project.
-1. Ensure that the `Root Cause Analysis` label is applied to the issue
+1. Ensure that the `Root Cause Analysis` label is applied to the issue.
 1. Create a calendar event for the root cause analysis, including a link the issue and this page.
-  - Include the SAE, CSM, PSEs, your manager and any other interested GitLab parties
+  - Include the Strategic Account Executive (SAE), Customer Success Manager (CSM), Professional Service Engineer (PSE), your manager, and any other interested GitLab parties.
 
 ## Conducting a Root Cause Analysis
 
