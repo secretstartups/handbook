@@ -63,7 +63,7 @@ This page outlines the Quote to Cash process. Topics include account and opportu
     * Be sure to enter the correct URL under "Domain" as this impacts the identification of the customer and related sales segment.
     * Click Save.
 5. Be sure to enter detailed information regarding the customer or partner, including full legal name, full billing address, and other pertinent details.
-6. If the account is a `Channel` account, it should be created via the partner creating an account in Impartner or manually via Channel Operations. Sales should not create Channel accounts and should Slack [#channel-programs-ops](https://gitlab.slack.com/archives/CTM4T5BPF). 
+6. If the account is a `Channel` account, it should be created via the partner creating an account in Impartner or manually via Channel Operations. Sales should not create Channel accounts and should Slack [#partner-programs-ops](https://gitlab.slack.com/archives/CTM4T5BPF). 
 
 #### How to Create/Edit a Contact
 
