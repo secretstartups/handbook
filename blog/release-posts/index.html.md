@@ -1002,7 +1002,8 @@ It is a required field.
   - [`monitor`](/stages-devops-lifecycle/monitor/)
   - [`secure`](/stages-devops-lifecycle/secure/)
   - [`govern`](/stages-devops-lifecycle/govern/)
-  - [`enablement`](/handbook/product/categories/#enablement-stage)
+  - [`systems`](/handbook/product/categories/#systems-stage)
+  - [`data_stores`](/handbook/product/categories/#data-stores-stage)
 
 The stages display as an icon next to the product tiers' badges linking
 to the stage webpage using a regex:
@@ -1031,7 +1032,7 @@ the `stage_url` to the content block to override the default path:
 
 ```yml
 # Enablement
-stage: enablement
+stage: data_stores
 stage_url: '/handbook/engineering/development/enablement/'
 
 # Growth
