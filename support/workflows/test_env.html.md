@@ -112,8 +112,8 @@ Please use the `support-resources` GCP project or your [GitLab Sandbox Cloud](ht
 <summary>Open me for instructions on how to manually create GKE on your own project.</summary>
 <div markdown="1">
 
-1. Ensure you have selected your own project at the top of [GCC](ttps://console.cloud.google.com).
-1. Open the navigation menu at the top of [GCP](ttps://console.cloud.google.com)
+1. Ensure you have selected your own project at the top of [GCC](https://console.cloud.google.com).
+1. Open the navigation menu at the top of [GCP](https://console.cloud.google.com)
 1. Select **Kubernetes Engine > Create Cluster** from the dashboard.
 1. Enter a name, select a zone, and choose the default static master version unless you have a specific reason to use an alternative version.  It's important to use a server version that will [match your kubectl client version](https://kubernetes.io/docs/tasks/tools/install-kubectl/#before-you-begin).
 
