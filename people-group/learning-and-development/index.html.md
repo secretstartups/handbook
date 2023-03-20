@@ -113,7 +113,7 @@ Multiple teams across the company contribute to learning and development of our 
 
 We are a small team, but we've got a big role to play at GitLab! 
 
-* [Learning and Development Director](/job-families/people-group/learning-development/#learning--development-manager): [Satu Salminen](/company/team/#ssalminen)
+* [Learning and Development Director](/job-families/people-group/learning-development/#learning--development-manager): TBD
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-group/learning-development/#intermediate-learning--development-program-manager): [Jacie Bandur](/company/team/#jbandur)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-group/learning-development/#intermediate-learning--development-program-manager): [Samantha Lee](/company/team/#slee24)
 * [Learning and Development Program Manager](https://about.gitlab.com/job-families/people-group/learning-development/#intermediate-learning--development-program-manager): [Jamie Allen](https://about.gitlab.com/company/team/#jallen16)
