@@ -12,7 +12,7 @@ description: "The Create design team's goal is to facilitate DevSecOps processes
 
 ## Overview
 
-[Create Stage Vision]([https://about.gitlab.com/direction/create/](https://about.gitlab.com/direction/create/))
+[Create Stage Vision](/direction/create/)
 
 The Create stage helps teams accelerate software delivery and reduce cycle times by improving efficiency and collaboration. Essential to software delivery is the process of **creating** each improvement. The Create stage delights engineers, designers, and product managers with tools to design, develop, and review these improvements efficiently.
 
@@ -45,7 +45,7 @@ The Create stage helps teams accelerate software delivery and reduce cycle times
 
 ### Editor
 
-[Group direction page](https://about.gitlab.com/direction/create/editor/)
+[Group direction page](/direction/create/editor/)
 
 Developers often face the obstacle of setting up their local development environment, which can be time-consuming and demotivating. GitLab's Remote Development aims to eliminate this responsibility by providing ephemeral, cloud-based workspaces configured in a single file stored in a repository. This allows for easy provisioning of new environments with a single click, connecting securely from the GitLab Web IDE or desktop editor. Monitoring tools and dashboards are available to manage running and suspended environments, freeing up valuable development time and streamlining onboarding for new developers.
 
@@ -58,12 +58,12 @@ Developers often face the obstacle of setting up their local development environ
 
 Teams working closely with Editor:
 
-- [Configure](https://about.gitlab.com/handbook/product/categories/#configure-stage)
-- [Secure](https://about.gitlab.com/handbook/product/categories/#secure-stage) 
+- [Configure](/handbook/product/categories/#configure-stage)
+- [Secure](/handbook/product/categories/#secure-stage) 
 
 ### Code Review Workflow
 
-[Group direction Page](https://about.gitlab.com/direction/create/code_review_workflow/)
+[Group direction Page](/direction/create/code_review_workflow/)
 
 Code Review is an essential activity of software development. It ensures that contributions to a project maintain and improve code quality and security and is an avenue of mentorship and feedback for engineers. It can also be one of the most time-consuming activities in the software development process.
 
@@ -89,12 +89,12 @@ The code review experience in GitLab involves automation, integration, and secur
 
 Teams working closely with Code Review: Automation & Integration
 
-- [Configure](https://about.gitlab.com/handbook/product/categories/#configure-stage)
-- [Govern](https://about.gitlab.com/handbook/product/categories/#govern-stage)
-- [Package](https://about.gitlab.com/handbook/product/categories/#package-stage)
-- [Release](https://about.gitlab.com/handbook/product/categories/#release-stage)
-- [Secure](https://about.gitlab.com/handbook/product/categories/#secure-stage)
-- [Verify](https://about.gitlab.com/handbook/product/categories/#verify-stage)
+- [Configure](/handbook/product/categories/#configure-stage)
+- [Govern](/handbook/product/categories/#govern-stage)
+- [Package](/handbook/product/categories/#package-stage)
+- [Release](/handbook/product/categories/#release-stage)
+- [Secure](/handbook/product/categories/#secure-stage)
+- [Verify](/handbook/product/categories/#verify-stage)
 
 ##### Code Review Workflow: **Collaboration**
 
@@ -104,12 +104,12 @@ DRI: **Matt Nearents**
 
 Teams working closely with Code Review: Collaboration
 
-- [Manage](https://about.gitlab.com/handbook/product/categories/#manage-stage)
-- [Plan](https://about.gitlab.com/handbook/product/categories/#plan-stage)
+- [Manage](/handbook/product/categories/#manage-stage)
+- [Plan](/handbook/product/categories/#plan-stage)
 
 ### Source code
 
-[Group direction Page](https://about.gitlab.com/direction/create/source_code_management/)
+[Group direction Page](/direction/create/source_code_management/)
 
 Building great software depends on teams working well together. Teams can rarely be divided into areas of complete independence. As cross-functional security, compliance, and growth teams are formed or new services and libraries are created, effective coordination and collaboration are essential.
 
@@ -121,9 +121,9 @@ Building great software depends on teams working well together. Teams can rarely
 
 Teams working closely with Source code:
 
-- [Govern](https://about.gitlab.com/handbook/product/categories/#govern-stage)
-- [Manage](https://about.gitlab.com/handbook/product/categories/#manage-stage)
-- [Secure](https://about.gitlab.com/handbook/product/categories/#secure-stage)
+- [Govern](/handbook/product/categories/#govern-stage)
+- [Manage](/handbook/product/categories/#manage-stage)
+- [Secure](/handbook/product/categories/#secure-stage)
 
 ### Tech writing
 
@@ -133,4 +133,3 @@ Tech writers in Create are very busy due to multiple factors. However, it is sti
 2. **Communicate the intent of your UI text** when asking for feedback from Tech Writing. By answering these questions, you will avoid any potential back and forth in the issue: 
     - What is the task the user is trying to achieve when they encounter this messaging? 
     - What is the problem you are trying to solve with this messaging?
-
