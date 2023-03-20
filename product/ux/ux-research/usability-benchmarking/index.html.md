@@ -181,6 +181,19 @@ Here's our above example in table form:
 | Decimal result | multiply by 100 | 74 |
 | Integer result | map to grading scale (letter grades in this case) | 74 = C |
 
+#### SUS Companion Analysis
+As noted above, triangulating the pain points identified during your benchmark study against the SUS verbatim for your stage helps teams identify which pain points to prioritize by understanding what percentage of the SUS verbatim they address. 
+
+Take the following steps to triangulate your benchmark study findings with the SUS verbatim for your stage. 
+
+1. Compile a set of verbatims from your stage to use in your analysis.
+1. Take out verbatims that are positive-only (e.g., “it’s pretty slick with ci”) and those that are so brief as not to be informative (e.g., “ci”)
+1. Take a random sample of 25% of your verbatims to develop your categories. 
+1. Start with a list of the benchmark pain points for each task and UX theme and add categories as needed to capture new themes like Learnabilty and Documentation. Break-up complex verbatims that reflect multiple themes into separate verbatims. That will help you to apply the categories in a mutually exclusive manner, which is needed to represent the percentage of verbatims that align with different themes. 
+1. You should have a general category of NA (not applicable) for verbatims that can't be categorized. It makes sense that not all verbatim align with benchmark tasks and themes. 
+1. After you've developed your categories, apply them to the entire sample of verbatim that you're including in your analysis. Doing this will help you to make sure that you've considered all the possible categories for each verbatim. 
+1. Report the overall percentage of verbatims that align with benchmark tasks and themes, as well as each individual theme, task, workflow, those from the NA category and any additional categories that you observed (e.g,. Learnability and Documentation) in the appendix to your benchmark report entitled 'SUS Companion Analysis'. 
+
 #### Timeline
 Preparing and conducting a benchmarking study takes time. Below is a sample timeline for starting a typical benchmarking program and running the first study. 
 
