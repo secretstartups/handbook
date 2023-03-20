@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Merchandise Workflow"
+title: "GitLab swag program"
 description: "This page outlines ways to request swag."
 ---
 
@@ -15,36 +15,19 @@ description: "This page outlines ways to request swag."
 Check out the [**GitLab Swag Shop**](https://www.shop.gitlab.com)! 
 
 Free shipping is available to GitLab team members for all items in the swag shop. Visit the #swag Slack channel for the code.
+     
+**_Don't see an item you're looking for?_** Submit requests for future items you'd like to see in the swag shop in [this issue](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-strategy/-/issues/11).
 
-## Common Swag Requests
+_**Note:**_ Please do not work with other vendors outside of our approval process to print your own swag. It's important that we all protect our brand integrity and avoid creating items that violate [brand standards](https://design.gitlab.com/).
 
-1. **You'd like to order swag for yourself or as a gift to someone.**
+### Ordering swag for customers
 
-     You can shop directly from the [GitLab Swag Shop](https://www.shop.gitlab.com). Don't forget the free shipping code available to all GitLab team members (you can find the code in the #swag Slack channel description). Check with your manager to see if it would be appropriate to expense the item(s). 
-
-2. **You have a special order or bulk swag request.** 
-
-     Reach out to Savanah, our swag vendor, at `ssporer@boundlessnetwork.com` or in the #swag Slack channel. More details about special requests below.
-
-### Special Swag Requests
-
-If you want to order swag for your team, customers, events, giveaways, etc., Savanah at [Boundless](https://www.boundlessnetwork.com/) (`ssporer@boundlessnetwork.com`) is your go-to person. Her team understands all of our brand guidelines and can help you select fantastic items within your budget. Once you work with her to select an item, she will get final approval from the GitLab Design team to ensure it adheres to our brand standards.
-
-**Examples of special requests:**
-- A bulk quantity order (more than $200 or 20 items) for your team or a customer
-- Swag for a meeting or event
-- Swag or store credit for a giveaway
-- Special request for items not available on the swag store
-- Swag for GitLab Team Member Resource Groups (TMRGs)
-
-**Before reaching out to Savanah, please be sure:**
-- You _already have approved budget_ or approval to expense the swag items. Unsure if you have budget? Confirm with your manager before contacting Savanah or purchasing items.
-- You have at least 4 weeks lead time. If your request is more urgent, ask Savanah if an expedited shipping option is available (include a business reason for the rush).
+If you want to order swag for customers, your team, events, giveaways, TMRGs, etc., please ensure your team has budget to cover the items, as well as a purchase order (PO) [in Coupa](https://about.gitlab.com/handbook/finance/procurement/coupa-faq/) to cover the order. Unsure if you have budget? Please reach out to your manager or Finance Business Partner. The Brand team does not have budget to cover other departments' swag needs.
 
 **How to make a request:**
 
-1. Be sure you have budget for the order and either approval to expense the swag or a purchase order (PO) in Coupa. If you're unsure, confirm with your manager.
-1. Email Savanah at `ssporer@boundlessnetwork.com`. Include the quantity, total budget (must include shipping, tax, and customs fees), and ideas of items or brands (e.g. jacket, sweater, mug).
+1. Be sure you have budget for the order and either approval to expense the swag or a PO in Coupa. If you're unsure, confirm with your manager. The Brand team does not have budget to cover other teams' swag needs.
+1. Email Savanah at `ssporer@boundlessnetwork.com`. Include the quantity, total budget (must include shipping, tax, and customs fees), and ideas of items or brands (e.g. jacket, sweater, mug). Please allow at least 4 weeks lead time. If your request is more urgent, ask Savanah if an expedited shipping option is available (include a business reason for the rush).
 1. You will be set up with a Boundless account to see ideas and suggestions.
 1. Savanah will send you a spreadsheet template to fill out with addresses. The information must be added in the provided format.
 1. Once you share the PO with Savanah, the Boundless team will upload the invoice to streamline billing.
@@ -91,7 +74,7 @@ There are two main giveaway options for Team Member Resource Groups (TMRGs): A o
 - Your department is billed monthly for shipping fees (to each event or person), as well as storage fees for your inventory.
 - You will work with Savanah (`ssporer@boundlessnetwork.com`) to select the items to be purchased and ongoing inventory management of your items. 
 
-### Swag for GitLab owned or sponsored events
+### Swag for GitLab-owned or sponsored events
 
 [See more details on the Events page.](/handbook/marketing/events/#swag-for-events)
 
@@ -141,7 +124,16 @@ If this was a special order, or you need assistance with tracking, reach out to 
 
 ### Suggesting new items or designs
 
-You can suggest new designs in the #swag Slack channel or email Savanah at `ssporer@boundlessnetwork.com`. 
+Have feedback or suggestions for items you'd like to see in the swag shop? Please add them to [this issue](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-strategy/-/issues/11). The Brand team is growing and more iterations will be made to this process and program in FY24.
 
-The Brand team is growing and more iterations will be made to this process and program in FY24. If you have questions in the meantime, please send a message in the #swag Slack channel. 
+## DRIs for the swag program
 
+| Topic | DRI |
+| ------ | ------ |
+|    Swag shop and special orders    |    Savanah at Boundless: `ssporer@boundlessnetwork.com`    |
+|    Swag program strategy, vendor relationships    |    Brand Strategy team: `@bbula`    |
+|    Swag design    |    Brand Creative team: `@amittner`    |
+|    New hire swag    |    Talent Brand team: `@drogozinski`    |
+|   Anniversary swag     |    People Connect team: `@ameeks`    |
+
+If you have other questions, please send a message in the #swag Slack channel. 
