@@ -257,43 +257,7 @@ If a channel or alliances partner has requested support of their press release w
 
 ### GitLab Vendor Reference Requests
 
-**Guidelines and Approval Process**
-
-If you receive a vendor request for GitLab to act as a reference (case study, blog post, press release, GitLab logo on their website, etc.) for the product, service, and/or technology that your GitLab team is using, please refer to the below guidelines to see if the request meets the criteria for you to move through the approval process and notify the corporate communications (corp comms) team of the request.
-
-**Vendor Reference Criteria**
-
-Please ensure that the vendor meets the below criteria before proceeding with the approval process. If you have any questions on the below criteria or need clarification please reach out to Corp Comms via the #external-comms channel on Slack.
-
-- GitLab team and/or team member(s) need to have been using the product, service and/or technology for at LEAST 6 months prior to the reference request.
-- The product, service, and/or technology has met or exceeded your expectations.
-- E-group member approval for all reference requests except logo use. (E-group member will be for the specific organization using the vendor. For example, if it is a tool the Product team uses, David DeSanto will be the approver for e-group.)
-- If the request involves GitLab logo/brand use, please ensure the vendor follows the below:
-    1. [Trademark Guidelines](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/)
-    1. [Brand Standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-guidelines)
-
-**Approval Process**
-
-If the vendor has met the above criteria, please [submit an issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=vendor-reference-request) in the Corporate Marketing project including the following information for review. Please title the issue `Vendor Reference Request: XYZ Company`. Once the request has been submitted to the corp comms team, please allow for 7-10 days for review and approval of the request. The corp comms team will review all content and relevant info to ensure it follows the SAFE framework and route through the approval process.
-
-- How are you using the vendor/technology?
-- Who is the GitLab DRI for the vendor?
-- Why did you select this vendor/technology over others?
-- How well has the vendor/technology met your expectations and requirements?
-
-**Give more details on the vendor reference request:**
-
-- What is the specific reference request?
-- What assets/content would the vendor like to develop for the reference? (case study, blog post, press release, GitLab logo on their website, etc.) If assets/content have been developed, please attach or include links below to the documents.
-- How will these assets be used externally? Marketing collateral? Website? Media Relations?
-
-**Approver List:**
-
-- [ ] Vendor DRI
-- [ ] Corporate Communications
-- [ ] Brand
-- [ ] E-group member for organization using the vendor (all reference requests except logo use)
-- [ ] Legal ([Legal Materials Review Process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/))
+If you receive a vendor request for GitLab to act as a reference (case study, blog post, press release, GitLab logo on their website, etc.) for the product, service, and/or technology that your GitLab team is using, please refer to the [process outlined](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-strategy/#vendor-reference-requests) on the Brand Strategy team's handbook.
 
 ### GitLab Press Releases
 
