@@ -142,7 +142,7 @@ The recommendation is to use public channels even while it may sometimes feel un
 | ------ | ------ | ------ |
 | #alliances | public | Questions regarding alliance partners |
 | #channel-sales | public | Topics related to channel sales |
-| #channel-programs-ops | public | Topics related to channel programs and operations |
+| #partner-programs-ops | public | Topics related to partner programs and operations |
 | #channel-marketing | public | Topics related to channel marketing |
 | #channel-services | public | Topics related to channel services |
 | #channel-accred-mvp | public | Communication about the channel partner accreditation program |
