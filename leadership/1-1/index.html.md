@@ -12,7 +12,7 @@ title: "1-1"
 Maintaining an effective and efficient agenda is important to get the best out of the 1-1 (read as: one *to* one) meetings you have with your team members. Furthermore this page will take you through other tips and tricks to conduct an effective 1-1 meeting.
 
 ## The 1-1 Agenda
-1. Make sure you use a consistent agenda format from week to week
+1. Make sure you use a consistent agenda format for each 1-1.
 1. Both parties add items to the agenda. Preferably, the majority added by the team member. If the manager puts more than half of the items on the agenda this is an indication that something is wrong.
 1. Reference the [suggested format for leadership](/handbook/leadership/1-1/suggested-agenda-format/) as necessary.
 
@@ -24,8 +24,8 @@ We recorded a training about 1-1s which you can find here:
   <iframe src="https://www.youtube.com/embed/KUxxjGJv1dQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-
-1. Meetings should normally be 25 minutes long once a week. If needed increase the frequency. Avoid scheduling 1-1s less frequently than weekly - it's better to have a short meeting with little to discuss than to go too long without an opportunity to communicate face-to-face.
+1. It's advisable to schedule 1-1's at least once a week.  The choice of synchronous or asynchronous meetings can be made by the manager and their direct report, depending on their preferences and needs. To avoid prolonged periods without face-to-face communication, it is preferable for the manager and their direct report to have a minimum of two regularly scheduled synchronous 1-1s every month, barring any PTO or leave from work.
+   1. For example, some managers schedule 1-1s on alternating weeks, with one week for synchronous meetings and the next week for asynchronous meetings. This approach allows for more dedicated focus time and aligns with our priority of emphasizing asynchronous communication.
 1. Create a Google doc as the [agenda](#the-1-1-agenda) and set the sharing settings exclusively between you and the team member. This should not be a public document because performance feedback should be as private as possible.
 1. From [High Output Management](https://getlighthouse.com/blog/high-output-management/) (edited sightly for language):
     1. “A key point about a one-on-one: it should be regarded as the reports’s meeting, with its agenda and tone set by them ... issues that preoccupy and nag the individual contributor.”
@@ -46,8 +46,8 @@ We recorded a training about 1-1s which you can find here:
   - Anything you think important that happened since the last 1-1
   - What are potential troubles you see for the team
   - What are potential troubles you see for the company
-  - What went well last week?
-  - What went not so well last week?
+  - What went well since last week?
+  - What went not so well since last week?
   - Is there anything I can do to help?
   - Anything non-work related worth mentioning?
   - When x happened, what will you do differently next time?
