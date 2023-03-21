@@ -38,7 +38,7 @@ Have a deal you'd like to nominate? Fill out the [nomination form](https://forms
 ### New and Noteworthy Resources 📓
 There is a wealth of competitive resources available on our website. Share this great content ([GitHub](https://about.gitlab.com/competition/github/), [AzureDevOps](https://about.gitlab.com/devops-tools/azure-devops-vs-gitlab/), [Jenkins](/devops-tools/jenkins-vs-gitlab/), [CircleCI](https://about.gitlab.com/competition/circleci/)) with customers and prospects and better enable your champions to make the case for GitLab. Slack #competition with questions or feedback. [Explore the Compete Page -->](https://about.gitlab.com/compete)
 
-Learn more about how Poland-based tech company MGA realized an 80% time savings by leveraging GitLab’s automated CI and CD. And, learn how Germany-based tech company SVA improved central code management and workflow CI with GitLab Community Edition. [Read More - MGA -->](https://about.gitlab.com/customers/mga/) [Read More - SVA -->](https://about.gitlab.com/customers/sva/)
+Learn more about how Poland-based tech company MGA realized an 80% time savings by leveraging GitLab’s automated CI and CD. And, learn how Germany-based tech company SVA improved central code management and workflow CI with GitLab Community Edition. [Read More - SVA -->](https://about.gitlab.com/customers/sva/)
 
 The Legal team has created a new Handbook page – Sales Guide: Collaborating with GitLab Legal – to help you better understand legal ops and processes and learn about contracting and legal matters that can be used proactively to help you close deals faster. Also check out [this overview video](https://youtu.be/snb-1ENQitI). [Check it out -->](/handbook/legal/customer-negotiations/)
 

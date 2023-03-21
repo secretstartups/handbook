@@ -40,7 +40,6 @@ ICYMI, check out the FY21-Q2 GTM Field Update, which includes brief overviews fr
 
 The Women in Sales Mentorship pilot program has launched! Interested in being a mentor or mentee to advance opportunities for women in sales? Apply by May 8. [See Handbook for Details -->](/handbook/people-group/women-in-sales-mentorship-pilot-program/)
 
-New case study! Learn how Glispa, a Berlin-based mobile advertising firm, experienced a 30% cost savings by switching to GitLab. [Read More -->](https://about.gitlab.com/customers/glispa/)
 
 The new “How to Deploy on AWS from GitLab” whitepaper provides screenshots and instructions for using GitLab with five popular AWS services: Lambda/SAM, EKS, ECS, EC2, and Fargate. [Check it Out -->](https://about.gitlab.com/resources/whitepaper-deploy-aws-gitlab)
 
