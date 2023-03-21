@@ -158,6 +158,7 @@ Sales Reps and/or ISRs are [responsible for quoting](https://about.gitlab.com/ha
 *   In APAC (several countries):  Partners transact with Tech Data/TD Synnex, who can be contacted at: https://www.techdata.com/apac/en/partner-with-us/become-a-partner.html
     *   In India: Partners may also choose to transact with Redington via gitlab@redington.co.in.
     *   In Japan: Partners may also choose to transact with Networld, who can be contacted at: https://www.networld.co.jp/product/gitlab/
+    *   In Thailand: Partners may also choose to transact with Get On Technology, who can be contacted at: https://www.got.co.th/contact
  
 **For US PubSec:**
 *   Partners transact with Carahsoft via gitlab@carahsoft.com
