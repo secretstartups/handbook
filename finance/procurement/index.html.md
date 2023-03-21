@@ -108,7 +108,7 @@ If purchasing Home Office Equipment and/or Software for your individual work use
 
 ### Step 1: Obtain Zip Access
 1. Login to Zip via your [Okta home page](https://gitlab.okta.com/app/UserHome#).
-1. If you need Zip access, see [How to access Zip]().
+1. If you need Zip access, [submit an access request here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request&_gl=1*bsfkbc*_ga*MzkwMDUyMjg5LjE2MzU3NzYxMDA.*_ga_ENFH3X7M5Y*MTY3NzYyMDEwMi4xMzkuMS4xNjc3NjIwOTc3LjAuMC4w).
 1. Review Zip training materials:
     - [Zip End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/)
 
