@@ -633,36 +633,36 @@ The Respond team uses labels for issue tracking and to organize issue boards.  M
 
 ### Issue Labels
 
-|                | Label                             | Required            | Description                                               |
-|----------------|-----------------------------------|---------------------|-----------------------------------------------------------|
-| **Stage**      | `~devops::monitor`                | Yes                 | Identifies which stage of GitLab an issue is assigned to. |
-| **Group**      | `~group::respond`                 | Yes                 | Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers. |
-| **Team**       |                                   | Yes                 | Identifies which team (or both) will develop a solution. |
-|                | `~frontend`                       |                     |                                                            |
-|                | `~backend`                        |                     |                                                            |
-| **Category**   |                                   | No                 | Identifies the correct [Monitor category](https://about.gitlab.com/direction/monitor/#categories) the issue falls under. |
-|                | `~Category:Runbooks`              |                     |                                                            |
-|                | `~Category:Incident Management`   |                     |                                                            |
-|                | `~Category:On-call Schedule Management`|                     |                                                            |
-|                | `~Category:GitLab Self Monitoring`|                     |                                                            |
-|                | `~Category:Error Tracking`        |                     |                                                            |
-|                | `~Category:Synthetic Monitoring`  |                     |                                                            |
-|                | `~Category:Product Analytics`     |                     |                                                            |
-| **Milestone**  | %#.##                             | No                  | While technically not a label, if the issue is being worked on immediately, add the current milestone.  If you know when the issue needs to be scheduled (such as follow-up work), add the future milestone that it should be scheduled in.  Otherwise, leave it empty. |
-| **Priority**   |                                   | Yes, when scheduled | If an issue is scheduled in the current milestone it mush have a `~deliverable` or `~filler` label. |
-|                | `~deliverable`                    |                     | Issues committed to being completed in the current milestone.  |
-|                | `~filler`                         |                     | Issues which are not committed in the current milestone. These are typically either stretch goals, technical debt or non-customer facing. |
-| **Issue Type** |                                   | Yes                 | |
-|                | `~"type::feature"`                |                     | [Feature Issues](/handbook/product/product-processes/#feature-issues) |
-|                | `~"type::bug"`                    |                     | [Bug Issues](/handbook/product/product-processes/#bug-issues) |
-|                | `~technical debt`                 |                     | [Technical Debt](/handbook/product/product-processes/#feature-issues) |
-| **Workflow**   |                                   | Yes                 | |
-|                | `workflow::refinement`            |                     | Issues that need further input from team members in order for it to be `workflow::ready for development`. |
-|                | `workflow::blocked`               |                     | Waiting on external factors or another issue to be completed before work can resume. |
-|                | `workflow::ready for development` |                     | The issue is refined and ready to be scheduled in a current or future milestone. |
-|                | `workflow::in dev`                |                     | Issues that are actively being worked on by a developer. |
-|                | `workflow::in review`             |                     | Issues that are undergoing code review by the development team. |
-|                | `workflow::verification`          |                     | Everything has been merged, waiting for verification after a deploy. |
+- **Stage**: required. Identifies which stage of GitLab an issue is assigned to.
+  - `~devops::monitor`
+- **Group**: required. Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers.
+  - `~group::respond`
+- **Team**: required. Identifies which team (or both) will develop a solution.
+  - `~frontend`
+  - `~backend`
+- **Category**: optional. Identifies the correct [Monitor category](https://about.gitlab.com/direction/monitor/#categories-in-monitor) the issue falls under.
+  - `~Category:Runbooks`
+  - `~Category:Incident Management`
+  - `~Category:On-call Schedule Management`
+  - `~Category:GitLab Self Monitoring`
+  - `~Category:Error Tracking`
+  - `~Category:Synthetic Monitoring`
+  - `~Category:Product Analytics`
+- **Milestone**: optional. While technically not a label, if the issue is being worked on immediately, add the current milestone.  If you know when the issue needs to be scheduled (such as follow-up work), add the future milestone that it should be scheduled in.  Otherwise, leave it empty.
+- **Priority**: required, when scheduled. If an issue is scheduled in the current milestone it mush have a `~deliverable` or `~filler` label.
+  - `~deliverable`: Issues committed to being completed in the current milestone.
+  - `~filler`: Issues which are not committed in the current milestone. These are typically either stretch goals, technical debt or non-customer facing.
+- **Issue Type**: required.
+  - `~"type::feature"`: [Feature Issues](/handbook/product/product-processes/#feature-issues)
+  - `~"type::bug"`: [Bug Issues](/handbook/product/product-processes/#bug-issues)
+  - `~technical debt` : [Technical Debt](/handbook/product/product-processes/#feature-issues)
+- **Workflow**: required. 
+  - `workflow::refinement`: Issues that need further input from team members in order for it to be `workflow::ready for development`.
+  - `workflow::blocked`: Waiting on external factors or another issue to be completed before work can resume.
+  - `workflow::ready for development`: The issue is refined and ready to be scheduled in a current or future milestone.
+  - `workflow::in dev`: Issues that are actively being worked on by a developer.
+  - `workflow::in review`: Issues that are undergoing code review by the development team.
+  - `workflow::verification`: Everything has been merged, waiting for verification after a deploy.
 
 ### Deliverable Labels
 In our group, the (frontend + backend) engineering managers are responsible for adding the `~deliverable` label to any issues that the team is publicly stating that to the best of their ability, they expect that issue to be completed in that milestone. We are not perfect but our goal is that 100% of the issues with that label do ship in the release that they are scheduled in. This allows engineering to share what issues they commit to and helps set expectations for the product manager and for the community.
