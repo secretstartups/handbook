@@ -245,7 +245,6 @@ There are 7 pillars that we have identified as crucial for success as CSMs. It i
 - [Success Plans](/handbook/customer-success/csm/success-plans/)
    - [Developer & Productivity Metrics](/handbook/customer-success/csm/metrics/)
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](/handbook/customer-success/csm/success-plans/questions-techniques/)
-- [Account Growth Plans](/handbook/customer-success/csm/account-growth/)
 - [Use Case Enablement & Use Case Expansion - The Two Use Case Adoption Motions](/handbook/customer-success/csm/stage-enablement-and-expansion/)
    - [Use Case Adoption Metrics](/handbook/customer-success/csm/stage-adoption/)
    - [The Customer Value Received with Service Ping](/handbook/customer-success/csm/service-ping-faq/)
