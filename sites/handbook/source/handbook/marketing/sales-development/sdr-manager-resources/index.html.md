@@ -148,6 +148,18 @@ Example:
 * They can run analytics on this list to see if there has been any recent engagement on these accounts where there may not be outreach going on.
 * They can coach their team to clone as a personal report and create subscription to stay on top of sequencing folks at Actively Working accounts.
 
+## Sales Dev Territory and Role Reports
+
+**[Sales Dev by Salesforce Profile and Role - ](https://gitlab.my.salesforce.com/00O8X000008gonx)**
+
+* Sales Dev Ops profile is the only profile with the ability to help add a member to opps beyond stage 0 (we can't add SDR/BDR to closed won opps however)
+* Certain roles have certain permissions ie. Team Lead roles are able to transfer leads. Director level roles are able to help when account assignments are incorrect by updating account address and employee size information.
+* Roles determine visibility based on the region (AMER, APAC, EMEA). Example: a BDR with EMEA in their role, will be able to see all accounts where the account territory owner has EMEA in their territory role name.
+
+**[Sales Dev Territories by Team role/member associated with each territory - ](https://gitlab.my.salesforce.com/00O8X000008gpBL)**
+
+* This allows you to see what members/roles are associated with each territory. When you need a change in BDR assignment to a territory, please sharethe territory name with Sales Dev Ops, not the name of the account. Search for the account owner name and tell Sales Dev Ops which territory/territories require that BDR to be assigned.
+
 ## Onboarding
 GitLab People Connect Team members will [create the onboarding issue](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/#timing) and start completing the onboarding tasks, no later than one week before the new team member joins. People Connect Team members require a minimum of 4 business days (with the new hire timezone as the basis) before the new hire's start date to complete all onboarding tasks. This issue will be automatically assigned to you. As a manager, you will [also have tasks](/handbook/people-group/general-onboarding/#managers-of-new-team-members) that need to be completed prior to the new team member's start date. 
 
