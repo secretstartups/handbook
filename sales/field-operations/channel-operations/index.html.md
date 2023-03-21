@@ -152,7 +152,7 @@ Sales Reps and/or ISRs are [responsible for quoting](https://about.gitlab.com/ha
 
 ### Transacting Through Distribution
 **For Commercial Markets:**
-*   Open Partners should transact with the authorized distributor(s) in their region.
+*   Open Partners located in regions/countries with active Authorized GitLab Distributors must purchase GitLab via those distributors effective May 1, 2023.  
 *   Select Partners may choose to transact directly with GitLab (excluding certain regions) or via the region's authorized distributor(s).
 *   In EMEA: Partners transact with Amazic via gitlab@amazic.com.
 *   In APAC (several countries):  Partners transact with Tech Data/TD Synnex, who can be contacted at: https://www.techdata.com/apac/en/partner-with-us/become-a-partner.html
