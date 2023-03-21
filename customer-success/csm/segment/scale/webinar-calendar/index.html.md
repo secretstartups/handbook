@@ -22,13 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ## March 2023
 
-#### Advanced CI/CD
-##### March 17th, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_1EbvurYOQL2mZILd1qU2pg)
-
 #### Holistic Approach to Securing the Development Lifecycle
 ##### March 22nd, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
 
