@@ -45,7 +45,7 @@ Below is a breakdown of the 4-part [Renewal Operations Strategy](https://docs.go
 | Person | Role |
 | ------ | ------ |
 | [John Budreski](https://gitlab.com/jbudreski ) | [Manager, Renewal Operations](https://about.gitlab.com/job-families/sales/renewal-operations-analyst/#manager-renewal-operations-requirements) |
-| [Heather Kacmarski](https://gitlab.com/hkacmarski) | [Sales Analytics Analyst](https://about.gitlab.com/job-families/sales/sales-analytics-analyst-jf/) |
+| [Heather Kacmarski](https://gitlab.com/hkacmarski) | [Renewal Operations Analyst](https://about.gitlab.com/job-families/sales/renewal-operations-analyst/) |
 
 ## Get in Touch
 Head over to [#renewal-ops](https://join.slack.com/share/enQtNDQwMzIxMzIzNzQ2Mi1lOGJlNmU2NDg5YzM5YzZlZDc0ZmI2YTM2NzQyZmU2OTM1NWMzMjY0NTFhN2QzMTYxMDI3NGZhNmVlNTY2ZmVm) on Slack to get in touch with us. We use this channel for general Renewal Operations support, and key system status updates. We attempt to avoid direct messages where possible as it discourages collaboration.
