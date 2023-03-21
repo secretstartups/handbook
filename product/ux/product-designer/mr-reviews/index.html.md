@@ -84,7 +84,7 @@ Some MRs have additional set up requirements.
 - Geo: Using the simple installation script, you need to install and configure two **GDKs**. The script does not work on GitPod. The configured GDKs served as a Geo primary and secondary site.
   - [Instructions for the simple installation](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/geo.md).
   - [Video instruction](https://youtu.be/R58mgwDwjM8) and [slide deck](https://docs.google.com/presentation/d/1azikV27LO68xobgJ7v399H1ppnLCmtB_kEKl_IMNI0Q/edit#slide=id.g123a13deda8_0_405) for setting up Geo-GDKs
-- Pipeline Execution: For CI/CD minutes and shared runner usage related features, you need to populate projects with historical CI/CD minutes usage data to test the features or changes. [Instructions for setting up test data for CI/CD minutes usage](/handbook/product/ux/stage-group-ux-strategy/ci-cd/pipeline-execution/#setting-up-test-data-for-cicd-minutes-features).
+- Pipeline Execution: For CI/CD minutes and shared runner usage related features, you need to populate projects with historical CI/CD minutes usage data to test the features or changes.
   - Merge requests related to CI/CD minutes and shared runner usage usually require some historical usage data, which can be difficult to set up if it doesn't exist already on the local GDK environment. Below is a video and instructions for how to set that up in under 7 minutes.
    <!-- blank line -->
    <figure class="video_container">
