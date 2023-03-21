@@ -278,19 +278,24 @@ Congratulations! You made it through the call. Unfortunately, your work is not y
 
 ### Call summary
 
+The call summary is important for confirming with the customer what was said
+and done during the call, and documenting for them and for us the agreed-upon
+action plan.
+
 **Immediately** following your call you should construct the call summary in
 the Zendesk ticket using the macro
 [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274).
-The call summary is important for confirming with the customer what was said
-and done during the call, and documenting for them and for us the agreed-upon
-action plan. And as with all ticket documentation, it is a source of
-valuable information for support engineers looking for resolution guidance from
-tickets similar to their own.
+The macro provides a template to structure the summary and applies ticket tags
+used to track work involving customer calls.
 
 Why should the summary be written immediately? First, your ability to remember
 the details of the call will fade quickly, especially if the call was at the end
 of your day. Second, follow-up action may be required from others, and they
 will only be able to act appropriately if they have the call summary available.
+
+When writing the call summary, keep in mind that your summary will be a source
+of valuable information for support engineers looking for resolution guidance
+from tickets similar to their own.
 
 ## Special Handling
 
