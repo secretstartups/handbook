@@ -106,3 +106,4 @@ To be added once the project is complete
 | Member             | Kris K             | Software Engineer, Google                       |
 | Advisor            | David Fernandez    | Staff Backend Engineer, Package Registry        |
 | Advisor            | Joao Pereira       | Staff Backend Engineer, Container Registry      |
+| Advisor            | Vasilii Iakliushin | Senior Backend Engineer, Source Code            |
