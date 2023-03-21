@@ -23,6 +23,7 @@ description: "This page serves as the Partner Operations team page and includes 
 - Niles Jamshaid - Senior Manager, Partner Operations
 - Dennis Zeissner - Senior Partner Operations Analyst
 - Nick Scala - Director, Channel Operations
+- Roisin Ryan - Sr. Partner Operations Manager 
 - Bhano Pippala - Channel Operations Analyst
 - Jeff Cho - Channel Operations Analyst
 - Morgan Fuller - Channel Operations Analyst
@@ -36,7 +37,7 @@ description: "This page serves as the Partner Operations team page and includes 
 - Onboard new alliance partners, develop and document quote-to-cash processes and best practices
 - Collaborate with our alliance partners, marketplace vendors, and internal departments to create systems integrations that support marketplace transactions
 
-#### Channel Operations (Nick, Bhano, Jeff, Morgan)
+#### Channel Operations (Nick, Roisin, Bhano, Jeff, Morgan)
 - Develop, manage, and improve operational processes for the Channel (Distributor and Reseller) sales organization
 - Provide operational support and enablement to sales and cross-functional teams for Channel related inquiries (e.g. opportunities, quotes and orders, pricebooks, reporting)
 
