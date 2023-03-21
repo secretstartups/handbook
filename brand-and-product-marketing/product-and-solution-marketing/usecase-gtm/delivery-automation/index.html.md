@@ -155,7 +155,7 @@ Automated Software Delivery with GitLab enables your teams to eliminate manual a
 ### Value Proposition (How GitLab does it?)
 
 - **GitLab is one of the easiest platforms to get started with your DevOps journey**
-> “It just worked. That was the biggest success because we didn’t have any problems with installing GitLab, with updating it and it was really simple to start for us,” [MGA](https://about.gitlab.com/customers/mga/)
+> “It just worked. That was the biggest success because we didn’t have any problems with installing GitLab, with updating it and it was really simple to start for us,” [MGA]
 - **GitLab allows you to start where you are in your journey and reduce other tools as your adoption matures**
 > "As per the Forrester Total Economic Impact study, customers were able to eliminate atleast 3 tools per year" [TEI](https://about.gitlab.com/resources/report-forrester-tei/)
 - **GitLab supports your cloud-native application transformations (as well as your traditional applications!)**

@@ -257,7 +257,7 @@ For a list of analysts with a current understanding of GitLab's capabilities for
 * **Result:** 5+ production deploys per day for any given application plus 20+ development environment deploys per day
 * **Sales Segment:** Enterprise
 
-#### [MGA](https://about.gitlab.com/customers/mga/)
+#### MGA
 
 * **Problem** MGA was looking for a cost efficient CI platform that could improve workflow, knowledge, and code quality.
 * **Solution:** GitLab Starter (SCM/CI/CD)

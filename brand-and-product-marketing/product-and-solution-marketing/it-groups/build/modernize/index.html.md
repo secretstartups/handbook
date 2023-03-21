@@ -51,7 +51,7 @@ Embrace kubernetes and cloud native architectures to accelerate application deli
     1. Customer stories/case studies
          1. [Jaguar Land Rover Chris Hill Video](/blog/2018/07/23/chris-hill-devops-enterprise-summit-talk/)
          1. [Human Geo switched from Jenkins to GitLab and cut costs by ⅓](/blog/2017/11/14/humangeo-switches-jenkins-gitlab-ci/)
-         1. CNCF multi-project pipelines [video](https://www.youtube.com/watch?time_continue=373&v=Jc5EJVK7ZZk) and [case study](/customers/cncf/)
+         1. CNCF multi-project pipelines [video](https://www.youtube.com/watch?time_continue=373&v=Jc5EJVK7ZZk)
 
 1. Analyst reports
     1. Forrester CI wave
