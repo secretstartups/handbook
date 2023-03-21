@@ -229,7 +229,7 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
    * GitLab helps organizations extract more value from existing security tools
 
 * **Potential Titles:**
-   * CISO / Deputy CISO / Director or VP CyberSecurity / Cloud Security Architect / Information Security Operations Manager / IT Security Manager / Sr. Manager, DevSecOps  
+   * CISO / Deputy CISO / Director or VP CyberSecurity / Cloud Security Architect / Information Security Operations Manager / IT Security Manager / Sr. Manager, DevSecOps / Softare Security Engineer / Security Consultant / Information Security Analyst 
        
 * **Reports to:**
    * CTO, CIO, CISO, or SVP of Engineering   
