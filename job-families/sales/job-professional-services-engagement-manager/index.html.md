@@ -67,6 +67,37 @@ The Professional Services Engagement Manager (Senior) is a [grade 7](/handbook/t
 * Proactively performs territory and account planning with Area Sales Managers and their Account Leaders. 
 * Designs and executes efforts to improve selling efficiency. 
 
+<!--Following are people managers jobs-->
+
+### Manager, Professional Services Engagement Management
+The Manager, Professional Services Engagement Management, reports to the Director, Professional Services Engagement Management.
+
+#### Manager, Professional Services Engagement Management Job Grade 
+The Manager, Professional Services Engagement Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Manager, Professional Services Engagement Management Responsibilities
+ 
+* Accountable for bookings and revenue goals for scope of area covered by his/her Engagement Management team.
+* Act as a player/coach of a team of Regionally aligned Engagement Managers focused on Professional Services Sales support. 
+* Contribute to continuously improving the Professional Services sales process: proactive services positioning, reactive intake process, SKU selling vs custom scoped engagements, scaling the PS selling motion. Ensure these process improvements are aligned with global PS sales strategy. 
+* Provide feedback to the PS leadership team to create and maintain our services packages and offerings.
+* Work closely with the PS, Sales, Partners, and Product teams to develop best practices and scoping processes and standards, positioning solutions and statements of work to our prospects/customers, and supporting the sales cycle through project kick-off.
+* Provide guidance to Engagement Managers to help resolve negotiations leveraging win-win and give-to-get methodologies. 
+* Provide bookings forecast estimates to Sales and Professional Services Leadership. 
+* Assist in sourcing and assessing partners and contractors to extend our selling and delivery bench.
+* Help distribute customer opportunities evenly across team members ensuring geographic or segment coverage. 
+* Build and maintain a development plan to ensure Engagement Managers are enabled to understand the GitLab product and features, the value selling approach, and current processes/tools used to be effective in their roles. 
+* Remain knowledgeable and up-to-date on GitLab releases.
+* Experienced in collaborating with other managers and executing strategies
+
+#### Manager, Professional Services Engagement Management Requirements
+
+* Experience managing, leading, and/or delivering professional services or customer success.
+* Experience with a subscription-based business model, delivering on-premises and SaaS solutions.
+* Experience partnering with Account Executives, presenting solutions, and implementation methodology during a sales process
+* Experience managing technical, cross-functional professional services teams (e.g., consulting, implementation, trainers, project managers) and delivery partners.
+* Ability to use GitLab
+
 ### Senior Manager, Professional Services Engagement Management
 The Senior Manager, Professional Services Engagement Management, reports to the Director, Professional Services Engagement Management
 
@@ -75,24 +106,24 @@ The Senior Manager, Professional Services Engagement Management is a [grade 9](/
 
 #### Senior Manager, Professional Services Engagement Management Responsibilities
 
+* Accountable for bookings and revenue goals for scope of area covered by his/her Engagement Management team.
 * Leads a team of Engagement Managers focused on Professional Services Sales support. 
-* Lead the Professional Services sales process, collaborate with the sales and sales leadership teams in the pre-sales process to understand our customers' business and technical objectives, and position the appropriate solution.
+* Contribute to continuously improving the Professional Services sales process: proactive services positioning, reactive intake process, SKU selling vs custom scoped engagements, scaling the PS selling motion. Ensure these process improvements are aligned with global PS sales strategy.
 * Provide feedback to the PS leadership team to create and maintain our services packages and offerings.
 * Work closely with the PS, Sales, Partners, and Product teams to develop best practices and scoping processes and standards, positioning solutions and statements of work to our prospects/customers, and supporting the sales cycle through project kick-off.
+* Provide guidance to Engagement Managers to help resolve negotiations leveraging win-win and give-to-get methodologies. Take ownership of resolving negotiations that are at an impasse. 
 * Provide bookings forecast estimates to Sales and Professional Services Leadership. 
 * Assist in sourcing and assessing partners and contractors to extend our selling and delivery bench.
 * Help distribute customer opportunities evenly across team members ensuring geographic or segment coverage. 
-* Lead and manage opportunities for positioning professional services for strategic customers.
-* Build and maintain an enablement plan to ensure Engagement Managers are enabled to understand the GitLab product and features, the value selling approach, and current processes/tools used to be effective in their roles. 
-* Provide leadership and guidance to coach, motivate and lead services team members to their optimum performance levels and career development
+* Build and maintain a development plan to ensure Engagement Managers are enabled to understand the GitLab product and features, the value selling approach, and current processes/tools used to be effective in their roles. 
 * Remain knowledgeable and up-to-date on GitLab releases.
-* Experienced in collaborating with other managers and executing strategies
-* Develop processes that the Professional Services team can continually leverage and grow to become trusted advisors to customers.
+* Provide strategic proposals to leadership to organize and align the Engagement Manager team with the Sales/CS organizations.
+* Experienced in collaborating with other managers, socializing and gaining agreement on strategic proposals, and executing strategies.
 
 #### Senior Manager, Professional Services Engagement Management Requirements
 
-* 5+ years of experience managing, leading, and/or delivering professional services or customer success.
-* 3+ years of experience with a subscription-based business model, delivering on-premises and SaaS solutions.
+* Experience managing, leading, and/or delivering professional services or customer success.
+* Experience with a subscription-based business model, delivering on-premises and SaaS solutions.
 * Experience partnering with Account Executives, presenting solutions, and implementation methodology during a sales process
 * Experience managing technical, cross-functional professional services teams (e.g., consulting, implementation, trainers, project managers) and delivery partners.
 * Ability to use GitLab
@@ -104,7 +135,7 @@ The Director, Professional Services Engagement Management is a [grade 10](/handb
 
 #### Responsibilities
 - Extends the responsibilities of Sr. Manager of Professional Services
-- Forecast and deliver to the Professional Services bookings plan and supporting delivery and revenue recongition goals. 
+- Forecast and deliver to the Professional Services bookings plan and supporting delivery and revenue recognition goals. 
 - Develop strategies and plan to improve services selling, increase service attach, and increase efficiency of services sales processes
 - Develop data-driven growth plan for Engagement Manager team. Execute on hiring plan to staff team appropriately to hit customer satisfaction and financial goals. 
 - Contribute to thought leadership and practice development efforts in order to help evolve and mature practice service areas of GitLab Professional Services.
@@ -130,7 +161,7 @@ The Director, Professional Services Engagement Management is a [grade 10](/handb
 
 ## Career Ladder
 
-The Professional Services Engagment Manager Job Family would move into the [Professional Services Engineer](/job-families/sales/professional-services-engineer/) Job Family or the [Professional Services Practice Manager](/job-families/sales/professional-services-practice-manager/) Job Family.
+The Professional Services Engagement Manager Job Family would move into the [Professional Services Engineer](/job-families/sales/professional-services-engineer/) Job Family or the [Professional Services Practice Manager](/job-families/sales/professional-services-practice-manager/) Job Family.
 
 ## Hiring Process
 
