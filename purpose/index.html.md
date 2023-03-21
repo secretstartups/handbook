@@ -13,7 +13,7 @@ canonical_path: "/company/purpose/"
 
 ## Purpose
 
-GitLab’s purpose is to help people increase their lifetime earnings through access to opportunities and the DevOps platform.
+GitLab’s purpose is to help people increase their lifetime earnings through access to opportunities and the DevSecOps platform.
 
 ## Identifying GitLab's Purpose
 
@@ -21,7 +21,7 @@ GitLab's purpose lies at the intersection of these four circles.
 
 1. World Needs: 
     1. Individual progress (training and access to opportunities)
-    1. Organization progress (DevOps Platform, faster iteration)
+    1. Organization progress ([DevSecOps Platform](/solutions/devops-platform/), faster iteration)
 1. Company skill: iteration (fast innovation, open source contributions) 
 1. Passionate about: open (to contributions, transparency)
 1. Economic value: bundling into a single application 
@@ -41,9 +41,9 @@ Our knowledge sharing empowers everyone, not only to GitLab team members but als
 1. [CEO shadow program](/handbook/ceo/shadow/) also open to [people outside of GitLab](/handbook/ceo/shadow/#eligibility){:data-ga-name="ceo shadow elegibility"}{:data-ga-location="body"} who may be interested 
 1. [Certifications](/blog/2021/04/20/everyone-can-get-certified/){:data-ga-name="everyone can get certified"}{:data-ga-location="body"} outside of GitLab skills, e.g. Diversity, Inclusion, and Belonging and Effective Communication
 
-#### Using GitLab the DevOps platform
+#### Using GitLab the DevSecOps platform
 1. [Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/){:data-ga-name="technical certifications"}{:data-ga-location="body"} to demonstrate proficiency with GitLab 
-1. Best practices in DevOps are [easy through GitLab](/direction/){:data-ga-name="direction"}{:data-ga-location="body"}
+1. Best practices in DevSecOps are [easy through GitLab](/platform/){:data-ga-name="direction"}{:data-ga-location="body"}
 1. Best inclusive practices are easy through GitLab ([rename of the default branch](/blog/2021/03/10/new-git-default-branch-name/){:data-ga-name="default branch name"}{:data-ga-location="body"}, [pronouns in the product](https://twitter.com/gitlab/status/1402306208967561222))
 
 #### Aimed at under-represented or under-resourced groups
@@ -84,9 +84,9 @@ We empower how people work by providing thought leadership on remote work which 
 1. [Engineering mentoring and coaching programs](/handbook/engineering/#mentorship-and-coaching-programs){:data-ga-name="mentoring and couching"}{:data-ga-location="body"} for GitLab team members 
 1. [GitLab Learn](https://gitlab.edcast.com/) courses which can create pathways for targeted groups (for example, career transitioning or new to Open Source)
 
-### DevOps Platform
+### DevSecOps Platform
 
-The DevOps Platform brings together developers, operations and security professionals and empowers them to innovate at new levels-- making it faster, more secure, and more accessible.
+The DevSecOps Platform brings together developers, operations and security professionals and empowers them to innovate at new levels-- making it faster, more secure, and more accessible.
 
 #### Faster
 1. Accelerate the software delivery process to meet business objectives
@@ -106,7 +106,7 @@ The DevOps Platform brings together developers, operations and security professi
 #### More Accessible
 1. Allow anyone to be a creator
 1. Make GitLab easier to use, higher [System Usability Scale (SUS)](/handbook/product/ux/performance-indicators/system-usability-scale/) score
-1. Visibility into DevOps success
+1. Visibility into DevSecOps success
 
 ## Cadence and Alignment
 
