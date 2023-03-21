@@ -139,16 +139,6 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 ----
 
-<big>[Equinix](/customers/equinix/)</big><br>
-**Problem:** Legacy developer tools prevented faster delivery<br>
-**Solution:** GitLab Premium (VC&C)<br>
-**Result:** Consistent code reviews and visibility across the SDLC<br>
-**Differentiators:** Visibility<br>
-**Usecase:** VC&C<br>
-**Vertical:** Technology<br>
-
-----
-
 <big>[Ask Media Group](https://www.askmediagroup.com/microservices-in-practice/)</big><br>
 **Problem:** Managing the process of building and deploying microservices<br>
 **Solution:** GitLab Premium (CI)<br>
@@ -191,17 +181,6 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 **Differentiators:** Single App, VC&C & CI, Security<br>
 **Usecase:** CI, CD, VC&C, DevSecOps<br>
 **Vertical:** Technology<br>
-
-----
-
-<big>[Glispa](/customers/glispa/)</big><br>
-**Problem:** Trouble with orchestration issues led Glispa to seek out GitLab in order to migrate to Kubernetes<br>
-**Solution:** GitLab Premium (CI, CD, SCM)<br>
-**Result:** Migrated to Kubernetes in just 3 months, over 846 projects with 20 runners with 1,000 jobs per runner<br>
-**Value Drivers:** Efficiency, Speed<br>
-**Differentiators:** Single App, SCM & CI, Kubernetes<br>
-**Usecase:** CI, CD, SCM, Simply DevOps<br>
-**Vertical:** Mobile Advertising<br>
 
 ----
 
@@ -277,17 +256,6 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 ----
 
-#### SMB
-<big>[iFarm](/customers/ifarm/)</big><br>
-**Problem:** Desire to improve code quality and delivery speed with global development team<br>
-**Solution:** GitLab Premium<br>
-**Result:** Over 400 hours cut from ‘bug to resolution’ time, 7.5x faster engineering time per bug<br>
-**Value Drivers:** Speed<br>
-**Usecase:** VC&C<br>
-**Vertical:** Agriculture Technology<br>
-
-----
-
 <big>[Hotjar](/customers/hotjar/)</big><br>
 **Problem:** Hotjar, a growing all-remote company, was looking for an enhanced CI/CD tool to replace Jenkins<br>
 **Solution:** GitLab Premium<br>
@@ -318,16 +286,6 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 ----
 
-<big>[MGA](/customers/mga/)</big><br>
-**Problem:** MGA was looking for a cost efficient CI platform that could improve workflow, knowledge, and code quality<br>
-**Solution:** GitLab Free<br>
-**Result:** Projects have grown from 80 to over 240, 10 times better success rates with CD than with manual deploys and 80% increase in time saved moving to GitLab CD<br>
-**Value Drivers:** Efficiency, Speed<br>
-**Usecase:** SCM, CI, CD<br>
-**Vertical:** Technology<br>
-
-----
-
 <big>[Jasper Solutions](/customers/jasper-solutions/)</big><br>
 **Problem:** Jasper Solutions needed a platform that offers security, code management, and consistent pipelines in order to create its dynamic tactical edge “DevSecOps in a box<br>
 **Solution:** GitLab Ultimate (SCM, CI, CD)<br>
@@ -346,16 +304,6 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 **Differentiators:** SCM & CI, Kubernetes<br>
 **Usecase:** SCM, CI, CD<br>
 **Vertical:** Technology Partner<br>
-
-----
-
-<big>[Cloud Native Computing Foundation](/customers/cncf/)</big><br>
-**Problem:** Needed new features in GitLab to meet their business and technical needs<br>
-**Solution:** GitLab CE<br>
-**Result:** Modified their version of GitLab to meet their specific requirements<br>
-**Differentiators:** Open Source, Collaborative Customer Experience, Kubernetes<br>
-**Usecase:** CI, CD, Cloud Native<br>
-**Vertical:** Information Technology and Services<br>
 
 ----
 
