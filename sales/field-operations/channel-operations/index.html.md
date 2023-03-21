@@ -199,6 +199,7 @@ GitLab is activating Distributor e-Marketplaces for customers to transact via Gi
 GitLab reserves the right to pause or deactivate a partner’s e-Marketplace offering if issues arise. 
 For more information about Distributor e-Marketplaces, partners should [contact their distributor](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#transacting-through-distribution), or their GitLab Channel Manager. 
 
+
 ## SFDC Field Definitions
 ### Section I: Partner Sourced Deal Registration
 - **DR - Partner**: The reseller partner that ‘submitted’ the Partner Sourced Deal Registration that the GitLab Sales Team subsequently ‘approved’ in the system.
@@ -553,7 +554,7 @@ Upon approval, the letter of authorization will be automatically sent to the leg
 
 ### Tagging Partner Operations in Salesforce
 
-Here is a general list of items you can chatter @Partner Operations for assistance with in Salesforce. Please continue to refer to our respective handbooks for in-depth information before tagging. 
+Here is a general list of items you can chatter `@Partner Operations` for assistance with in Salesforce. Please continue to refer to our respective handbooks for in-depth information before tagging. 
 
 Most internal Salesforce (SFDC) and Vartopia system questions and changes, including:
 - Channel Compensation Questions
@@ -674,6 +675,23 @@ The Channel Managers use a [tracking system](https://docs.google.com/presentatio
 5. Review status with Select Partner during QBR’s
 
 **Feedback:** You can submit your feedback on the second tab of the [Business Plan Sheet](https://docs.google.com/spreadsheets/d/1dL805MUQF8xJcbB7d_-wHyTM62euB9I6hVsAOW_CekE/edit#gid=1093608913)
+
+
+## Partner Forecast Salesforce Dashboards
+The following partner forecast dashboards have been published for FY24. Please use the dashboard relevant to your partner type and region or segment. You will only have access to view data from your region based on salesforce permissions.
+- Alliance Dashboards
+  - [Global](https://gitlab.my.salesforce.com/01Z8X000000u6oG)
+  - [AMER](https://gitlab.my.salesforce.com/01Z8X000000u6lM)
+  - [APAC](https://gitlab.my.salesforce.com/01Z8X000000u6lR)
+  - [EMEA](https://gitlab.my.salesforce.com/01Z8X000000u6lW)
+- Channel Dashboards
+  - [Global](https://gitlab.my.salesforce.com/01Z4M000000xdrC)
+  - [AMER](https://gitlab.my.salesforce.com/01Z4M000000xfGm)
+  - [APAC](https://gitlab.my.salesforce.com/01Z4M000000xfGr)
+  - [EMEA](https://gitlab.my.salesforce.com/01Z4M000000xfGw)
+  - [Partner Managed](https://gitlab.my.salesforce.com/01Z8X000000u6ks)
+  - [PubSec](https://gitlab.my.salesforce.com/01Z8X000000u6kE)
+
 
 ## Clari Forecasting for Partner Managers and Leaders
 
