@@ -53,7 +53,7 @@ To be the defining subscription renewals organization among peers in the SaaS in
   The renewals team exists to service the needs of our customers. We prioritize what's best for the customer before what's best for GitLab. 
 - ### Collaboration always
    As much as possible, we emphasize **team** goals over individual achievement. 
-- ### Continous improvement
+- ### Continuous improvement
    The renewals organization is dedicated to developing a community of renewals **scientists** that seek to identify process waste and poor customer experience to develop practices for improvement. 
 
 ## Strategy
