@@ -115,6 +115,8 @@ Here is a sample checklist of activities:
 - Deactivate any account, that has not logged-in within the past 60 days from the moment of performing an audit, from Snowflake.
      - Any named user Snowflake account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
      - Validate all user accounts do not have password set.
+- Drop orphaned tables
+     - Tables managed through dbt should be manually dropped when they are no longer needed or managed by dbt. This activity compared tables to the tables managed by dbt for tables that have been orphaned. Identified orphaned tables are validated as not being in use and then dropped.
 
 #### Sisense
 - Deactivate off-boarded employees from Sisense.
