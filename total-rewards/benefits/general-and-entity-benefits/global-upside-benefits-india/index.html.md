@@ -55,10 +55,10 @@ Sodexo Meal Cards are an optional benefit. These Meal Cards work like a Debit Ca
 
 **Maternity Leave:** Team members can take up to 26 weeks of Maternity Leave (for up to 2 occassions).
 
-**Paternity Leave:** Team members can take up to 3 days of Paternity Leave.
+**Paternity Leave:** There is no statutory entitlement for paternity leave, but team members are eligible for [GitLab's Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).  
 
 #### Maternity Leave Payment
-* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 26 weeks.
+* If you are [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 26 weeks.
 * Every female team member availing maternity leave is eligible for an insurance coverage of INR 50,000 for expenses related to delivery.
 
 #### Paternity Leave Payment
