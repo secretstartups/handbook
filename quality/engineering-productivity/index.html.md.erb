@@ -309,7 +309,11 @@ Tests that provide coverage to the code changes in each merge request are most l
 - [RSpec predictive jobs](https://docs.gitlab.com/ee/development/pipelines/#rspec-predictive-jobs) which runs relevant RSpec tests that are mapped to the code changes
 - [Jest predictive jobs](https://docs.gitlab.com/ee/development/pipelines/#jest-predictive-jobs) which runs relevant Jest tests that are mapped to the code changes
 
-Test mapping is done via the [test_file_finder](https://gitlab.com/gitlab-org/ci-cd/test_file_finder) gem. It is worth noting that the gem is supplemented with a [static mapping file](https://gitlab.com/gitlab-org/gitlab/-/blob/master/tests.yml) to account for known gaps, as the automated mapping is not always perfect.
+Test mapping is done via the [test_file_finder](https://gitlab.com/gitlab-org/ci-cd/test_file_finder) gem. We supplement the gem with a [static mapping file](https://gitlab.com/gitlab-org/gitlab/-/blob/master/tests.yml) to account for known gaps, as the automated mapping is not always perfect. Additionally, we have introduced several more advanced mappings in [the `detect-tests` CI job](https://gitlab.com/gitlab-org/gitlab/-/blob/03f6d482ab702c760639c04b59f0ea4b55c9e880/.gitlab/ci/setup.gitlab-ci.yml#L101-141) that are not covered by `test_file_finder`. Below are a few examples:
+
+- Run certain system specs if a Javascript file was changed in an MR ([#386754](https://gitlab.com/gitlab-org/gitlab/-/issues/386754))
+- Run Javascript tests if certain Rails view files are changed in an MR ([#386719](https://gitlab.com/gitlab-org/gitlab/-/issues/386719))
+- Run view specs when Rails partials included in those views are changed in an MR ([#395016](https://gitlab.com/gitlab-org/gitlab/-/issues/395016))
 
 The "Fail-fast" job we are experimenting with is a variation of this strategy. It is to run all of the RSpec tests that are most likely to fail in a single job created in an early stage of the pipeline. See the Fail-fast job section for details.
 
