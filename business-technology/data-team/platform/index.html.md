@@ -394,7 +394,22 @@ If you're running into query time limits please check your query for optimisatio
 ### Data Storage
 
 We use three primary databases: `raw`, `prep`, and `prod`.
-The `raw` database is where data is first loaded into Snowflake; the other databases are for data that is ready for analysis (or getting there).
+The `raw` database is where data is first loaded into Snowflake; the other databases are for data that is ready for analysis (or getting there). 
+
+All tables and views in `prep` and `prod` are controlled (created, updated) via dbt. [Every Quarter](handbook/business-technology/data-team/data-management/#quarterly-data-health-and-security-audit) the Data Platform Team runs a check for tables and views that are not related to a dbt model and will be removed. 
+{: .alert .alert-warning}
+
+The following list of schema are exceptions and not checked:
+
+- `SNOWPLOW_%`
+- `DOTCOM_USAGE_EVENTS_%`
+- `INFORMATION_SCHEMA`
+- `BONEYARD`
+- `TDF`
+- `CONTAINER_REGISTRY`
+- `FULL_TABLE_CLONES`
+- `QUALTRICS_MAILING_LIST`
+- `NETSUITE_FIVETRAN`
 
 There is a `snowflake` database, which contains information about the entire GitLab instance.
 This includes all tables, views, queries, users, etc.
