@@ -177,14 +177,10 @@ EBAs research the best option for a flight and book it according to their execut
 Make sure to add a calendar item for 2 hours before take off for check in and add a separate one for travel time before that in the exec's calendar.
 If a flight was changed or not taken due to delays or other circumstances, make sure to check with the airline for the current flight status.
 
-## TripActions Liquid
-* Coming Soon.
+## Navan
 
-
-## Expensify
-* When you’re logged in, you can find wingman account access for other team members in the top right corner menu.
-* Check their email (if you have access), using the search bar in the top, to find any receipts for the postings in the current expense report.
-* And/or write down what receipts are missing and email to request them if needed.
+EBAs research the best option for a flight and book it according to their executive's schedule. If the Executive requires approving the flights beforehand, please follow that process before booking.  Make sure to add a calendar item for 2 hours before take off for check in and add a separate one for travel time before that in the exec's calendar.
+If a flight was changed or not taken due to delays or other circumstances, make sure to check with the airline for the current flight status.  Navan is the new corporate travel & expense management platform, formerly known as TripActions and Expensify, respectively. EBAs will need delgation access from the managers they support in order to book travel and file expenses on their managers behalf.  Travel itineraries are added to the traveling managers calendar as well as any updates necessary.  Navan requires that all expenses are submitted with receipts.  Any missing receipts or information will cause a delay in the reimbursement process, so please refer to the end-user guide for additional information.  [Navan end-users guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/)
 
 ## Zoom
 * Request Schedule Privilege for executives by having the executive go to their Zoom profile settings and scrolling down to the **Schedule Privilege** section. The executive will need to  click the plus button icon to add the EBA's email address to the **Assign Scheduling Privilege** pop-up box.
