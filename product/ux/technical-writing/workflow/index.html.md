@@ -530,20 +530,6 @@ When a community contributor opens a Hackathon merge request:
 1. Work to merge the merge request.
 1. When you merge, ensure you close the related issue.
 
-## Disqus
-
-The Technical Writing team monitors and responds to comments posted on [docs.gitlab.com](https://docs.gitlab.com/). For example, this [comment and response](https://docs.gitlab.com/ee/user/project/pages/index.html#comment-5730251968) addresses a question from a community member about GitLab Pages.
-
-We use a [Disqus](https://docs.gitlab.com/ee/development/documentation/structure.html#disqus) integration for commenting and discussion on most pages on `docs.gitlab.com`. Disqus is also used as a commenting tool on [blog posts](https://about.gitlab.com/releases/2022/03/22/gitlab-14-9-released/) on `about.gitlab.com`. There is an open issue discussing [alternatives to Disqus](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1135).
-
-We disable the Disqus integration on index and landing pages that contain lists of links. For example, [Contributor and Development Docs](https://docs.gitlab.com/ee/development/) has the comments attribute set to `false`.
-
-We use a [Zapier](https://about.gitlab.com/handbook/marketing/community-relations/workflows-tools/zapier/) integration to feed comments made on documentation pages into the `#docs-comments` Slack channel. The `#community-relations` group is the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml#L1177) owner of both Disqus and Zapier.
-
-The volume of comments is low at around one or two per month.
-
-Technical writers are responsible for checking the `#docs-comments` Slack channel regularly, and responding or routing comments to the [Technical Writer assigned to the group](https://about.gitlab.com/handbook/product/ux/technical-writing/#designated-technical-writers), based on the page [metadata](https://docs.gitlab.com/ee/development/documentation/#metadata).
-
 ### View or make a comment
 
 1. Go to a page on `docs.gitlab.com`. Make sure it is not an index or landing page.
