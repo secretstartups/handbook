@@ -61,8 +61,8 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Safety and Health Protection on the Job](https://www.dir.ca.gov/dosh/dosh_publications/shpstreng012000.pdf)
 * [Notice to Employees - Injuries Caused by Work](https://www.dir.ca.gov/dwc/NoticePoster.pdf)
 * [Whistleblower Protections](https://www.dir.ca.gov/dlse/WhistleblowersNotice.pdf)
-* [Notice to Employees - unemployment, disability, and paid family leave insurance](https://www.edd.ca.gov/pdf_pub_ctr/de1857a.pdf)
-* [Notice to Employees - Unemployment Insurance Benefits](https://www.edd.ca.gov/pdf_pub_ctr/de1857d.pdf)
+* [Notice to Employees - unemployment, disability, and paid family leave insurance](https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de1857a.pdf)
+* [Notice to Employees - Unemployment Insurance Benefits](https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de1857d.pdf)
 * [Sexual Harassment Fact Sheet](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2020/03/Sexual-Harassment-Fact-Sheet_ENG.pdf)
 * [Supplemental Paid Sick Leave - COVID-19](https://www.dir.ca.gov/dlse/COVID19resources/2022-COVID-19-SPSL-Poster.pdf)
 * [Payday Notice](https://drive.google.com/file/d/1eIhDxbf42Jfvy9DjuYiLyuLQFHqMcx9I/view?usp=sharing)
@@ -161,11 +161,11 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Unemployment Insurance Benefits](https://drive.google.com/file/d/1EE20CBOsaC8mXCh7U0jdaIcO-RXSmD9u/view)
 
 ### Illinois
-* [Your Rights Under Illinois Employment Laws](https://www2.illinois.gov/idol/Employers/SiteAssets/Pages/posters/22_Omnibus_Poster_11x17.pdf)
-* [Victims' Economic Security and Safety Act (VESSA)](https://www2.illinois.gov/idol/Employers/SiteAssets/Pages/posters/2022%20VESSA%20Poster%20English.pdf)
+* [Your Rights Under Illinois Employment Laws](https://labor.illinois.gov/content/dam/soi/en/web/idol/employers/posters/23_YourRights_Poster_11x17.pdf)
+* [Victims' Economic Security and Safety Act (VESSA)](https://labor.illinois.gov/content/dam/soi/en/web/idol/employers/posters/2022-vessa-poster-english.pdf)
 * [Pregnancy Rights Notice](https://www2.illinois.gov/dhr/Publications/Documents/Pregnancy_Posting-lgl-ENG14.pdf)
-* [Your Rights Under the Illinois Service Member Employment and Reemployment Rights Act](https://www.illinoisattorneygeneral.gov/rights/mvrb_iserra_poster_0818.pdf)
-* [Sexual Harassment and Discrimination](https://www2.illinois.gov/dhr/Publications/Documents/SH%20and%20DISCRIMINATION%20EMPLOYEE%20POSTER.pdf)
+* [Your Rights Under the Illinois Service Member Employment and Reemployment Rights Act](https://illinoisattorneygeneral.gov/rights/mvrb_iserra_poster_0818.pdf)
+* [Right to Employment Free from Discrimination and Sexual Harassment](https://dhr.illinois.gov/content/dam/soi/en/web/dhr/documents/idhr-employer-notice-poster-v9.22.pdf)
 
 ### Indiana
 * [Unemployment Insurance](https://www.in.gov/dwd/files/X-11.pdf)
@@ -338,7 +338,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Equal Pay Provision](https://dol.ny.gov/system/files/documents/2021/03/ls603_equity_provision.pdf)
 * [Minimum Wage](https://dol.ny.gov/system/files/documents/2021/12/ls207.pdf)
 * [Wage Theft Prevention](https://dol.ny.gov/system/files/documents/2021/03/p715.pdf)
-* [Paid Family Leave](http://docs.paidfamilyleave.ny.gov/content/main/forms/PFLDocs/pfl-at-a-glance-2023.pdf)
+* [Paid Family Leave](https://www.wcb.ny.gov/content/main/forms/PFLDocs/pfl-at-a-glance-2023.pdf)
 * [New York State Disability Statement of Rights (DB217S)](https://www.wcb.ny.gov/content/main/forms/db271s.pdf)
 * [Rights of Nursing Mothers to Express Breast Milk in the Work Place](https://dol.ny.gov/system/files/documents/2021/02/ls702_guidelines_regarding_the_rights_of_nursing_mothers_to_express_breast_milk_in_the_work_place.pdf)
 * [Child Labor Law - permitted working hours](https://dol.ny.gov/system/files/documents/2021/03/ls171.pdf)
