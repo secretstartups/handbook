@@ -15,7 +15,7 @@ The General Team supports the Reliability Team's [overall vision](/handbook/engi
 
 ## Vision
 
-The General Team exists to ensure that all services at GitLab are properly supported by either providing that support directly or routing requests for new work to the appropriate [Reliability team](/handbook/engineering/infrastructure/team/reliability/#reliability-teams) while also being the primary operators and maintainers of the GitLab.com application.  In the short-term (12-24 months), the goal is shrink the overall pool of what we call "General" by assigning ownership of services to Standing Squads so that full attention can be paid to the processes, frameworks, architecture and automation required to properly support the GitLab.com application in the long term (24+ months).
+The General Team exists to ensure that all services at GitLab are properly supported by either providing that support directly or routing requests for new work to the appropriate [Reliability team](/handbook/engineering/infrastructure/team/reliability/#reliability-teams) while also being the primary operators and maintainers of the GitLab.com application.  In the short-term, the goal is shrink the overall pool of what we call "General" by assigning ownership of services to appropriate [Reliability team](/handbook/engineering/infrastructure/team/reliability/#reliability-teams) so that full attention can be paid to the processes, frameworks, architecture and automation required to properly support the GitLab.com application in the long term.
 
 ## Ownership
 
@@ -37,6 +37,18 @@ The General Team is assigned issues based on the services they own.  This curren
 
 #### Overlap
 It is not always easy or possible to definitively determine the primary services associated with an issue, incident, or other piece of work.  When there is a lack of clarity, General Team members should collaborate with other Reliability Teams to determine the best path forward.  If necessary reach out to any Reliability Engineering Manager for assistance.
+
+## How We Work - Prioritization
+### Issues and Epics
+Issues are prioritized utilizing the [Issue Management and Prioritization Process for Reliability](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html).  The issues themselves are managed on The [General Team Issue Board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?label_name%5B%5D=team%3A%3AGeneral).   This board is reviewed a minimum of once per week by the Engineering Manager for the General Team or by another member of the team if the Engineering Manager is not available.  
+
+### OKRs
+OKRs are established following the same process for [issue prioritization](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html).  In addition to OKRs, a variable percentage of team capacity is reserved each quarter for unplanned work (as the General Team will, by default, own any work that does not currently have a pre-defined owner).
+
+### Corrective Actions and Security Issues
+
+`~Severity::1`/`~Severity::2` Corrective Actions and `~reliability::P1`/`~reliability::P2` Security issues are, by default, prioritized over all other types work.
+``By default,`~Severity::1`/`~Severity::2` Corrective Actions and `~reliability::P1`/`~reliability::P2` Security issues are prioritized over all other issue types.
 
 ### Processes
 #### Monthly Availability Updates
@@ -64,8 +76,7 @@ OKRs are updated every Wednesday as required by the [Reliability Process for OKR
 
 ## Performance Indicators
 
- * OKRs - OKRs are generated each quarter based on current commitments while also including spare capacity for unplanned work.
-   * Success Criteria: 85% of OKRs achieved
+ * Success Criteria: 85% of OKRs achieved
  * Issue Metrics
    * Corrective Actions Over Time (specific to the General Team)
      * Success Criteria: Must meet or exceed the Reliability [SLO](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-level-agreements)
@@ -75,7 +86,6 @@ OKRs are updated every Wednesday as required by the [Reliability Process for OKR
     * Success Criteria: TBD
 
 ## Team Members
-
 <%= direct_team(manager_slug: 'afappiano')%>
 
 ## Key Technical Skills
