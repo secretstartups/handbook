@@ -90,11 +90,12 @@ As per
 * [Escalation policy link](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH)
 * Level 1
   * Notify the following users or schedules
-    * Customer Emergencies - AMER
+    * Customer Emergencies - AMER Group 1
+    * Customer Emergencies - AMER Group 2
+    * Customer Emergencies - AMER Group 3
     * Customer Emergencies - EMEA
     * Customer Emergencies - APAC Group 1
     * Customer Emergencies - APAC Group 2
-    * Shadow - Customer Emergencies - AMER
     * Shadow - Customer Emergenices - APAC 1
     * Shadow - Customer Emergenices - APAC 2
     * Shadow - Customer Emergencies - EMEA
@@ -181,44 +182,59 @@ As per
 > On-call schedules are used to map out your coverage needs, and determine who
 > will be notified when an incident is triggered.
 
-### Customer Emergencies - AMER
+### Customer Emergencies - AMER Group 1
 
 This rotation is used for emergencies filed by customers during AMER hours.
 
-* [Schedule link](https://gitlab.pagerduty.com/schedules#PIQ317K)
-* Timezone: (UTC+01:00) Amsterdam
-* Layer 3 Hours:
-  * Sunday:    N/A
-  * Monday:    1700-2100
-  * Tuesday:   1700-2100
-  * Wednesday: 1700-2100
-  * Thursday:  1700-2100
-  * Friday:    1700-2100
-  * Saturday:  N/A
-* Layer 4 Hours:
-  * Sunday:    1700-2100
-  * Monday:    N/A
-  * Tuesday:   N/A
-  * Wednesday: N/A
-  * Thursday:  N/A
-  * Friday:    N/A
-  * Saturday:  1700-2100
-* Layer 5 Hours:
-  * Sunday:    N/A
-  * Monday:    2100-0100
-  * Tuesday:   2100-0100
-  * Wednesday: 2100-0100
-  * Thursday:  2100-0100
-  * Friday:    2100-0100
-  * Saturday:  N/A
-* Layer 6 Hours:
-  * Sunday:    2100-0100
-  * Monday:    N/A
-  * Tuesday:   N/A
-  * Wednesday: N/A
-  * Thursday:  N/A
-  * Friday:    N/A
-  * Saturday:  2100-0100
+* [Schedule link](https://gitlab.pagerduty.com/schedules#PBLAHV7)
+* Timezone: UTC
+* Layer 1
+  * Rotation type: weekly
+  * Handoff time: Monday 1600
+  * Hours:
+    * Sunday:    1600-2200
+    * Monday:    1600-2200
+    * Tuesday:   1600-2200
+    * Wednesday: 1600-2200
+    * Thursday:  1600-2200
+    * Friday:    1600-2200
+    * Saturday:  1600-2200
+
+### Customer Emergencies - AMER Group 2
+
+This rotation is used for emergencies filed by customers during AMER hours.
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#P9FKYZC)
+* Timezone: UTC
+* Layer 1
+  * Rotation type: weekly
+  * Handoff time: Monday 1700
+  * Hours:
+    * Sunday:    1700-2300
+    * Monday:    1700-2300
+    * Tuesday:   1700-2300
+    * Wednesday: 1700-2300
+    * Thursday:  1700-2300
+    * Friday:    1700-2300
+    * Saturday:  1700-2300
+
+### Customer Emergencies - AMER Group 3
+
+This rotation is used for emergencies filed by customers during AMER hours.
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#PP28N7L)
+* Timezone: UTC
+* Layer 1
+  * Rotation type: weekly
+  * Handoff time: Monday 1800
+  * Hours:
+    * Sunday:    1800-0000
+    * Monday:    1800-0000
+    * Tuesday:   1800-0000
+    * Wednesday: 1800-0000
+    * Thursday:  1800-0000
+    * Friday:    1800-0000
+    * Saturday:  1800-0000
 
 ### Customer Emergencies - APAC Group 1
 
@@ -226,15 +242,18 @@ This rotation is used for emergencies filed by customers during the first half
 of APAC hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PQB9Q6K)
-* Timezone: (UTC+01:00) Amsterdam
-* Hours:
-  * Sunday:    0100-0500
-  * Monday:    0100-0500
-  * Tuesday:   0100-0500
-  * Wednesday: 0100-0500
-  * Thursday:  0100-0500
-  * Friday:    0100-0500
-  * Saturday:  0100-0500
+* Timezone: UTC
+* Layer 4
+  * Rotation type: weekly
+  * Handoff time: Tuesday 0000
+  * Hours:
+    * Sunday:    0000-0400
+    * Monday:    0000-0400
+    * Tuesday:   0000-0400
+    * Wednesday: 0000-0400
+    * Thursday:  0000-0400
+    * Friday:    0000-0400
+    * Saturday:  0000-0400
 
 ### Customer Emergencies - APAC Group 2
 
@@ -242,30 +261,47 @@ This rotation is used for emergencies filed by customers during the second half
 of APAC hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PKPXM8K)
-* Timezone: (UTC+01:00) Amsterdam
-* Hours:
-  * Sunday:    0500-0900
-  * Monday:    0500-0900
-  * Tuesday:   0500-0900
-  * Wednesday: 0500-0900
-  * Thursday:  0500-0900
-  * Friday:    0500-0900
-  * Saturday:  0500-0900
+* Timezone: UTC
+* Layer 4
+  * Rotation type: weekly
+  * Handoff time: Tuesday 0400
+  * Hours:
+    * Sunday:    0400-0800
+    * Monday:    0400-0800
+    * Tuesday:   0400-0800
+    * Wednesday: 0400-0800
+    * Thursday:  0400-0800
+    * Friday:    0400-0800
+    * Saturday:  0400-0800
 
 ### Customer Emergencies - EMEA
 
 This rotation is used for emergencies filed by customers during EMEA hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#P9SV029)
-* Timezone: (UTC+01:00) Amsterdam
-* Hours:
-  * Sunday:    0900-1700
-  * Monday:    0900-1700
-  * Tuesday:   0900-1700
-  * Wednesday: 0900-1700
-  * Thursday:  0900-1700
-  * Friday:    0900-1700
-  * Saturday:  0900-1700
+* Timezone: UTC
+* Layer 2 Hours:
+  * Rotation type: daily
+  * Handoff time: 0800
+  * Hours:
+    * Sunday:    N/A
+    * Monday:    0800-1600
+    * Tuesday:   0800-1600
+    * Wednesday: 0800-1600
+    * Thursday:  0800-1600
+    * Friday:    0800-1600
+    * Saturday:  N/A
+* Layer 3
+  * Rotation type: weekly
+  * Handoff time: Monday 0800
+  * Hours:
+    * Sunday:    0800-1600
+    * Monday:    N/A
+    * Tuesday:   N/A
+    * Wednesday: N/A
+    * Thursday:  N/A
+    * Friday:    N/A
+    * Saturday:  0800-1600
 
 ### Incident Management - CMOC (AMER)
 
@@ -273,15 +309,18 @@ This rotation is used for Communications Manager on Call duties during AMER
 hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PG0SHU2)
-* Timezone: (UTC+01:00) Amsterdam
-* Hours:
-  * Sunday:    1700-0100
-  * Monday:    1700-0100
-  * Tuesday:   1700-0100
-  * Wednesday: 1700-0100
-  * Thursday:  1700-0100
-  * Friday:    1700-0100
-  * Saturday:  1700-0100
+* Timezone: UTC
+* Layer 1
+  * Rotation type: weekly
+  * Handoff time: Monday 1600
+  * Hours:
+    * Sunday:    1600-0000
+    * Monday:    1600-0000
+    * Tuesday:   1600-0000
+    * Wednesday: 1600-0000
+    * Thursday:  1600-0000
+    * Friday:    1600-0000
+    * Saturday:  1600-0000
 
 ### Incident Management - CMOC (APAC Group 1)
 
@@ -289,15 +328,18 @@ This rotation is used for Communications Manager on Call duties during the
 first half of APAC hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PGUP5OB)
-* Timezone: (UTC+01:00) Amsterdam
-* Hours: 
-  * Sunday:    N/A
-  * Monday:    0100-0500
-  * Tuesday:   0100-0500
-  * Wednesday: 0100-0500
-  * Thursday:  0100-0500
-  * Friday:    0100-0500
-  * Saturday:  N/A
+* Timezone: UTC
+* Layer 7
+  * Rotation type: weekly
+  * Handoff time: Tuesday 0000
+  * Hours: 
+    * Sunday:    0000-0400
+    * Monday:    0000-0400
+    * Tuesday:   0000-0400
+    * Wednesday: 0000-0400
+    * Thursday:  0000-0400
+    * Friday:    0000-0400
+    * Saturday:  0000-0400
 
 ### Incident Management - CMOC (APAC Group 2)
 
@@ -305,15 +347,18 @@ This rotation is used for Communications Manager on Call duties during the
 second half of APAC hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PMPKHZN)
-* Timezone: (UTC+01:00) Amsterdam
-* Hours: 
-  * Sunday:    N/A
-  * Monday:    0500-0900
-  * Tuesday:   0500-0900
-  * Wednesday: 0500-0900
-  * Thursday:  0500-0900
-  * Friday:    0500-0900
-  * Saturday:  N/A
+* Timezone: UTC
+* Layer 5
+  * Rotation type: weekly
+  * Handoff time: Tuesday 0400
+  * Hours: 
+    * Sunday:    0400-0800
+    * Monday:    0400-0800
+    * Tuesday:   0400-0800
+    * Wednesday: 0400-0800
+    * Thursday:  0400-0800
+    * Friday:    0400-0800
+    * Saturday:  0400-0800
 
 ### Incident Management - CMOC (EMEA)
 
@@ -321,210 +366,221 @@ This rotation is used for Communications Manager on Call duties during AMER
 hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#P59382D)
-* Timezone: (UTC+01:00) Amsterdam
-* Hours: 
-  * Sunday:    0900-1700
-  * Monday:    0900-1700
-  * Tuesday:   0900-1700
-  * Wednesday: 0900-1700
-  * Thursday:  0900-1700
-  * Friday:    0900-1700
-  * Saturday:  0900-1700
+* Timezone: UTC
+* Layer 3
+  * Rotation type: weekly
+  * Handoff time: Monday 0800
+  * Hours: 
+    * Sunday:    0800-1600
+    * Monday:    0800-1600
+    * Tuesday:   0800-1600
+    * Wednesday: 0800-1600
+    * Thursday:  0800-1600
+    * Friday:    0800-1600
+    * Saturday:  0800-1600
 
 ### US Federal On-Call
 
 This rotation is used for emergencies filed by US Federal customers.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#P89ZYHZ)
-* Timezone: (UTC-08:00) Pacific Time (US & Canada)
-* Layer 1 Hours: 
-  * Sunday:    0500-1100
-  * Monday:    0500-1100
-  * Tuesday:   0500-1100
-  * Wednesday: 0500-1100
-  * Thursday:  0500-1100
-  * Friday:    0500-1100
-  * Saturday:  0500-1100
-* Layer 2 Hours: 
-  * Sunday:    1100-1700
-  * Monday:    1100-1700
-  * Tuesday:   1100-1700
-  * Wednesday: 1100-1700
-  * Thursday:  1100-1700
-  * Friday:    1100-1700
-  * Saturday:  1100-1700
+* Timezone: Pacific Time (US & Canada)
+* Layer 1
+  * Rotation type: custom
+    * Shift length: 3 days
+  * Handoff time: 1100
+  * Hours: 
+    * Sunday:    0500-1100
+    * Monday:    0500-1100
+    * Tuesday:   0500-1100
+    * Wednesday: 0500-1100
+    * Thursday:  0500-1100
+    * Friday:    0500-1100
+    * Saturday:  0500-1100
+* Layer 2
+  * Rotation type: custom
+    * Shift length: 3 days
+  * Handoff time: 1100
+  * Hours: 
+    * Sunday:    1100-1700
+    * Monday:    1100-1700
+    * Tuesday:   1100-1700
+    * Wednesday: 1100-1700
+    * Thursday:  1100-1700
+    * Friday:    1100-1700
+    * Saturday:  1100-1700
 
 ### Support Manager - AMER
 
 This rotation is used for Support Managers during AMER hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PTI56V1)
-* Timezone: (UTC+01:00) Amsterdam
-* Hours: 
-  * Sunday:    1700-0100
-  * Monday:    1700-0100
-  * Tuesday:   1700-0100
-  * Wednesday: 1700-0100
-  * Thursday:  1700-0100
-  * Friday:    1700-0100
-  * Saturday:  1700-0100
+* Timezone: UTC
+* Layer 1
+  * Rotation type: weekly
+  * Handoff time: Monday 1600
+  * Hours: 
+    * Sunday:    1600-0000
+    * Monday:    1600-0000
+    * Tuesday:   1600-0000
+    * Wednesday: 1600-0000
+    * Thursday:  1600-0000
+    * Friday:    1600-0000
+    * Saturday:  1600-0000
 
 ### Support Manager - APAC
 
 This rotation is used for Support Managers during APAC hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PWBXTYX)
-* Timezone: (UTC+01:00) Amsterdam
-* Hours: 
-  * Sunday:    0100-0900
-  * Monday:    0100-0900
-  * Tuesday:   0100-0900
-  * Wednesday: 0100-0900
-  * Thursday:  0100-0900
-  * Friday:    0100-0900
-  * Saturday:  0100-0900
+* Timezone: UTC
+* Layer 3
+  * Rotation type: weekly
+  * Handoff time: Tuesday 0000
+  * Hours: 
+    * Sunday:    0000-0800
+    * Monday:    0000-0800
+    * Tuesday:   0000-0800
+    * Wednesday: 0000-0800
+    * Thursday:  0000-0800
+    * Friday:    0000-0800
+    * Saturday:  0000-0800
 
 ### Support Manager - EMEA
 
 This rotation is used for Support Managers during EMEA hours.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PXQ2ZAZ)
-* Timezone: (UTC+01:00) Amsterdam
-* Hours: 
-  * Sunday:    0900-1700
-  * Monday:    0900-1700
-  * Tuesday:   0900-1700
-  * Wednesday: 0900-1700
-  * Thursday:  0900-1700
-  * Friday:    0900-1700
-  * Saturday:  0900-1700
+* Timezone: UTC
+* Layer 1
+  * Rotation type: weekly
+  * Handoff time: Monday 0800
+  * Hours: 
+    * Sunday:    0800-1600
+    * Monday:    0800-1600
+    * Tuesday:   0800-1600
+    * Wednesday: 0800-1600
+    * Thursday:  0800-1600
+    * Friday:    0800-1600
+    * Saturday:  0800-1600
 
 ### SSAT Reviewing Manager
 
 This rotation is used for assigning Support Managers SSAT reviewing duties.
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#P9UIIDY)
-* Timezone: (UTC+00:00) UTC
-* Hours: 
-  * Sunday:    0000-2400
-  * Monday:    0000-2400
-  * Tuesday:   0000-2400
-  * Wednesday: 0000-2400
-  * Thursday:  0000-2400
-  * Friday:    0000-2400
-  * Saturday:  0000-2400
-
-### Shadow - Customer Emergencies - AMER
-
-* [Schedule link](https://gitlab.pagerduty.com/schedules#POZRZ6R)
-* Timezone: (UTC+02:00) Amsterdam
-* Layer 1 Hours:
-  * Sunday:    N/A
-  * Monday:    1700-2100
-  * Tuesday:   1700-2100
-  * Wednesday: 1700-2100
-  * Thursday:  1700-2100
-  * Friday:    1700-2100
-  * Saturday:  N/A
-* Layer 2 Hours:
-  * Sunday:    N/A
-  * Monday:    2100-0100
-  * Tuesday:   2100-0100
-  * Wednesday: 2100-0100
-  * Thursday:  2100-0100
-  * Friday:    2100-0100
-  * Saturday:  N/A
+* Timezone: UTC
+* Layer 1
+  * Rotation type: weekly
+  * Handoff time: Tuesday 0000
+  * Hours: Not restricted to specific times
 
 ### Shadow - Customer Emergenices - APAC 1
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PY3KXMC)
-* Timezone: (UTC+02:00) Amsterdam
-* Hours
-  * Sunday:    N/A
-  * Monday:    0100-0500
-  * Tuesday    0100-0500
-  * Wednesday: 0100-0500
-  * Thursday:  0100-0500
-  * Friday:    0100-0500
-  * Saturday:  N/A
+* Timezone: UTC
+* Layer 1
+  * Rotation type: weekly
+  * Handoff time: Tuesday 0000
+  * Hours
+    * Sunday:    N/A
+    * Monday:    0000-0400
+    * Tuesday    0000-0400
+    * Wednesday: 0000-0400
+    * Thursday:  0000-0400
+    * Friday:    0000-0400
+    * Saturday:  N/A
 
 ### Shadow - Customer Emergenices - APAC 2
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#P6HFQDO)
-* Timezone: (UTC+02:00) Amsterdam
-* Hours
-  * Sunday:    N/A
-  * Monday:    0500-0900
-  * Tuesday    0500-0900
-  * Wednesday: 0500-0900
-  * Thursday:  0500-0900
-  * Friday:    0500-0900
-  * Saturday:  N/A
+* Timezone: UTC
+  * Rotation type: weekly
+  * Handoff time: Tuesday 0400
+  * Hours
+    * Sunday:    N/A
+    * Monday:    0400-0800
+    * Tuesday    0400-0800
+    * Wednesday: 0400-0800
+    * Thursday:  0400-0800
+    * Friday:    0400-0800
+    * Saturday:  N/A
 
 ### Shadow - Customer Emergencies - EMEA
 
 * [Schedule link](https://gitlab.pagerduty.com/schedules#PGS0SE3)
-* Timezone: (UTC+02:00) Amsterdam
-* Hours
-  * Sunday:    N/A
-  * Monday:    0900-1700
-  * Tuesday    0900-1700
-  * Wednesday: 0900-1700
-  * Thursday:  0900-1700
-  * Friday:    0900-1700
-  * Saturday:  N/A
+* Timezone: UTC
+  * Rotation type: weekly
+  * Handoff time: Monday 0800
+  * Hours
+    * Sunday:    N/A
+    * Monday:    0800-1600
+    * Tuesday    0800-1600
+    * Wednesday: 0800-1600
+    * Thursday:  0800-1600
+    * Friday:    0800-1600
+    * Saturday:  N/A
 
 ### Shadow - Incident Management - CMOC (AMER)
 
-* [Schedule link](https://gitlab.pagerduty.com/schedules#)
-* Timezone: (UTC+02:00) Amsterdam
-* Hours
-  * Sunday:    N/A
-  * Monday:    1700-0100
-  * Tuesday    1700-0100
-  * Wednesday: 1700-0100
-  * Thursday:  1700-0100
-  * Friday:    1700-0100
-  * Saturday:  N/A
+* [Schedule link](https://gitlab.pagerduty.com/schedules#PLI1F7W)
+* Timezone: UTC
+  * Rotation type: weekly
+  * Handoff time: Monday 1600
+  * Hours
+    * Sunday:    N/A
+    * Monday:    1600-0000
+    * Tuesday    1600-0000
+    * Wednesday: 1600-0000
+    * Thursday:  1600-0000
+    * Friday:    1600-0000
+    * Saturday:  N/A
 
 ### Shadow - Incident Management - CMOC (APAC 1)
 
-* [Schedule link](https://gitlab.pagerduty.com/schedules#)
-* Timezone: (UTC+02:00) Amsterdam
-* Hours
-  * Sunday:    N/A
-  * Monday:    0100-0500
-  * Tuesday    0100-0500
-  * Wednesday: 0100-0500
-  * Thursday:  0100-0500
-  * Friday:    0100-0500
-  * Saturday:  N/A
+* [Schedule link](https://gitlab.pagerduty.com/schedules#PD1A89Z)
+* Timezone: UTC
+  * Rotation type: weekly
+  * Handoff time: Monday 0000
+  * Hours
+    * Sunday:    N/A
+    * Monday:    0000-0400
+    * Tuesday    0000-0400
+    * Wednesday: 0000-0400
+    * Thursday:  0000-0400
+    * Friday:    0000-0400
+    * Saturday:  N/A
 
 ### Shadow - Incident Management - CMOC (APAC 2)
 
-* [Schedule link](https://gitlab.pagerduty.com/schedules#)
-* Timezone: (UTC+02:00) Amsterdam
-* Hours
-  * Sunday:    N/A
-  * Monday:    0500-0900
-  * Tuesday    0500-0900
-  * Wednesday: 0500-0900
-  * Thursday:  0500-0900
-  * Friday:    0500-0900
-  * Saturday:  N/A
+* [Schedule link](https://gitlab.pagerduty.com/schedules#PV4W0FH)
+* Timezone: UTC
+  * Rotation type: weekly
+  * Handoff time: Monday 0400
+  * Hours
+    * Sunday:    N/A
+    * Monday:    0400-0800
+    * Tuesday    0400-0800
+    * Wednesday: 0400-0800
+    * Thursday:  0400-0800
+    * Friday:    0400-0800
+    * Saturday:  N/A
 
 ### Shadow - Incident Management - CMOC (EMEA)
 
-* [Schedule link](https://gitlab.pagerduty.com/schedules#)
+* [Schedule link](https://gitlab.pagerduty.com/schedules#PNB4FM1)
 * Timezone: (UTC+02:00) Amsterdam
-* Hours
-  * Sunday:    N/A
-  * Monday:    0900-1700
-  * Tuesday    0900-1700
-  * Wednesday: 0900-1700
-  * Thursday:  0900-1700
-  * Friday:    0900-1700
-  * Saturday:  N/A
+* Timezone: UTC
+  * Rotation type: weekly
+  * Handoff time: Monday 0800
+  * Hours
+    * Sunday:    N/A
+    * Monday:    0800-1600
+    * Tuesday    0800-1600
+    * Wednesday: 0800-1600
+    * Thursday:  0800-1600
+    * Friday:    0800-1600
+    * Saturday:  N/A
 
 ## Subscribing to a Schedule
 
