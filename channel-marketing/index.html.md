@@ -224,23 +224,19 @@ Our team is small but mighty and there are a few things that are simply **outsid
 
 
 ## Meet the Team
-
-*   **Coleen Greco**: (aka Greco) Director, Global Channel and Alliances Marketing
        
 **Channel Marketing Team**
-        
-*   **Karen Pourshadi**: Senior Channel Marketing Manager, Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/instant-campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
+
+*   **Samara Souza**: Senior Partner Program Manager, Samara will be focusing on creating new service offerings for our partners to leverage in their demand generation motions including but not limited to: Free trial syndication; case study development, MDF process, and much much more! 
         
 *   **Kelly Walker**: Senior Partner Program Manager, Exec Engagement, Kelly will be focusing on our channel partner events including GitLab Partner Summits and more!
-        
-*   **Samara Souza**: Senior Partner Program Manager, Samara will be focusing on creating new service offerings for our partners to leverage in their demand generation motions including but not limited to: Free trial syndication; case study development, MDF process, and much much more! 
 
-*   **Lauren Roberts**: Partner Marketing Specialist,  Lauren will be focusing on supporting our channel partner programs including the Free trial program; partner microsites, & our MDF process.
+*   **Lauren Roberts**: Partner Marketing Specialist,  Lauren will be focusing on supporting our channel partner programs including the Free trial program; partner microsites, and integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/instant-campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners.  
 
         
-**Alliances Marketing Team**
-        
-*   **Gabby Chorny**: Senior Alliances Marketing Manager.  IBM, RedHat, VMware and developing solution brief for up to 5 ISV partners per quarter.
+*   **Gabby Chorny**: Senior Channel Marketing Manager for AMER and Pub Sec.
+
+*   **Daria Polukanina**: Channel Marketing Manager for EMEA and APAC
 
 
 ## The best way to contact our team is through our Slack channels
