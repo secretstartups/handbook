@@ -16,9 +16,9 @@ title: "Partner Support"
 
 
 # Welcome to the Partner Support page
-This page is intended for Sales and Channel team members to review quick links and common questions that come to the Partner Help Desk team.
+This page is intended for Sales and Channel team members to review quick links and common questions that come to the Partner Operations team.
 
-_All team members work all regions, according to the timezone they work within. For fastest answers see [How to contact us](https://about.gitlab.com/handbook/resellers/partner-support/#how-to-contact-us), please do not contact individual Partner Help Desk team members via DM or chatter._
+_All team members work all regions, according to the timezone they work within. For fastest answers see [How to contact us](https://about.gitlab.com/handbook/resellers/partner-support/#how-to-contact-us), please do not contact individual Partner Operations team members via DM or chatter._
 
 ### Where to Get Help for Frequent Support Needs
 
@@ -46,10 +46,8 @@ Partners can contact the Partner Support team at partnersupport@gitlab.com.
 <summary markdown="span">Quick Links</summary>
 - [Partner Guide (internal-only)](https://docs.google.com/document/d/1HOzcdl22JRRbqo0SLPDsoUiM8NpNkf6-L2eiUHr6HZ4/edit)
 - [Gitlab Partner Portal](https://partners.gitlab.com/English/)
-- [PHD Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/4547475?label_name%5B%5D=Partner%20Help%20Desk)
 - [Channels Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1508300?label_name[]=Channel)
 - [Internal GitLab Channel Partner Program Discounts and Incentive Guide](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing)
-- [Working with Partner Help Desk](https://docs.google.com/presentation/u/0/d/1tT5xcx04mlFyuftL5ECPH1VCZ0pkhW7caqnCkM7a-Ro/edit)
 - [Certification Dashboard](https://docs.google.com/spreadsheets/d/1PnjHrOtZAYlkQpNoSsAzNt0sT1oZh76Xy2x33CfCQ9k/edit?usp=sharing)
 
 </details>
@@ -132,7 +130,7 @@ For detailed information and requirements, visit the [Partner Training, Certific
 
 
 ## NFR Licenses
-Please review the [NFR policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nrf-not-for-resale-license) to see details about what partners can be eligible to receive. If a Partner would like to request or renew a NFR license, they should be directed to log into the Partner Portal, click on the `Support` tab, and chose the "NFR" icon. They'll be directed to a Google form that sends their request to the Partner Operations team. Partners should review the NFR Policy link in the form prior to submitting it to understand the requirements. 
+Please review the [NFR policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nrf-not-for-resale-license) to see details about what partners can be eligible to receive. If a Partner would like to request or renew a NFR license they can review how to in the Partner Handbook on the [Working with GitLab page under "Requesting a GitLab NFR License"](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nfr-not-for-resale-license). They should be directed to log into the Partner Portal, click on the `Support` or `Services` tab, and choose the "NFR" icon. They'll be directed to a Google form that sends their request to the Partner Operations team. Partners should review the NFR Policy link in the form prior to submitting it to understand the requirements. 
 
 When Partner Operations receives the request, they will review the partner account to verify the partner meets NFR eligibility requirements. If they do, Partner Operations will submit the NFR request to GitLab's license support team to be fulfilled. If the partner does not meet the eligibility requirements, they will email the submitter and explain the missing requirements and how to fulfill them. 
 
