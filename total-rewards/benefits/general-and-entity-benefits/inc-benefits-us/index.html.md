@@ -560,7 +560,7 @@ If you leave GitLab and would like to rollover your 401(k) account, contact Fide
  
 ### 401(k) Committee
  
-The 401(k) Committee meets on a regular cadence with Betterment to review how the plan is doing as well as updates from the Betterment investment team. The Committee Members are:
+The 401(k) Committee meets on a regular cadence with Fidelity to review how the plan is doing as well as updates from the Fidelity investment team. The Committee Members are:
 
 Chief People Officer
 Principal Accounting Officer
