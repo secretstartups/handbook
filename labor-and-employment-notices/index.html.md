@@ -51,8 +51,8 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Workers' Compensation Instructions](http://www.awcc.state.ar.us/revisedforms/formp.pdf)
 
 ### California
-* [California Law Prohibits Workplace Discrimination and Harassment](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/10/Workplace-Discrimination-Poster_ENG.pdf)
-* [Transgender Rights in the Workplace](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2019/08/DFEH_TransgenderRightsWorkplace_ENG.pdf)
+* [California Law Prohibits Workplace Discrimination and Harassment](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2023/01/Workplace-Discrimination-Poster_ENG.pdf)
+* [Transgender Rights in the Workplace](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2022/11/The-Rights-of-Employees-who-are-Transgender-or-Gender-Nonconforming-Poster_ENG.pdf)
 * [Your Rights and Obligations as a Pregnant Employee](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2023/01/Your-Rights-and-Obligations-as-a-Pregnant-Employee_ENG.pdf)
 * [Family Care & Medical Leave & Pregnancy Disability Leave](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2023/01/CFRA-and-Pregnancy-Leave_ENG.pdf) 
 * [Industrial Welfare Commission Wage Order](https://www.dir.ca.gov/IWC/IWCArticle04.pdf)
@@ -63,7 +63,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Whistleblower Protections](https://www.dir.ca.gov/dlse/WhistleblowersNotice.pdf)
 * [Notice to Employees - unemployment, disability, and paid family leave insurance](https://www.edd.ca.gov/pdf_pub_ctr/de1857a.pdf)
 * [Notice to Employees - Unemployment Insurance Benefits](https://www.edd.ca.gov/pdf_pub_ctr/de1857d.pdf)
-* [Sexual Harassment Fact Sheet](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/03/SexualHarassmentFactSheet_ENG.pdf)
+* [Sexual Harassment Fact Sheet](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2020/03/Sexual-Harassment-Fact-Sheet_ENG.pdf)
 * [Supplemental Paid Sick Leave - COVID-19](https://www.dir.ca.gov/dlse/COVID19resources/2022-COVID-19-SPSL-Poster.pdf)
 * [Payday Notice](https://drive.google.com/file/d/1eIhDxbf42Jfvy9DjuYiLyuLQFHqMcx9I/view?usp=sharing)
 * [Right to Vote Notice](https://elections.cdn.sos.ca.gov/pdfs/tov-english.pdf)
