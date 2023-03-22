@@ -22,20 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ## March 2023
 
-#### Holistic Approach to Securing the Development Lifecycle
-##### March 22nd, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
-
-Join this one-hour webinar to gain a better understanding of how to successfully shift security left to find and fix security flaws during development, and to do so more easily and with greater visibility and control than typical approaches can provide.
-
-In this session, we will go over the security and compliance features that are available with your GitLab Ultimate account, including:
-- How to achieve comprehensive security scanning without introducing a multitude of tools and systems that expand your attack surface.
-- How to secure and protect your cloud-native applications and IaC environments within existing DevOps workflows.
-- How to use a single source of truth to improve collaboration between development and security.
-- How to manage all of your software vulnerabilities in one place.
-- How to set up compliance pipelines to provide consistent guardrails for developers, and ensure separation of duties
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_7aUVxkpsT2a-zdwkMa233g)
-
 #### DevSecOps/Compliance
 ##### March 28th, 2023 at 12:00PM-1:00PM Eastern Time/5:00-6:00 PM UTC
 
