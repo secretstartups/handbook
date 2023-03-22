@@ -233,7 +233,7 @@ than 50 notifications or change policies that a large stakeholder group use (e.g
 
 Communicating progress is important but status doesn't belong in one on ones as it can be more appropriately communicated with a broader audience using other methods. The "standup" model used by a lot of organizations practicing scrum assumes a certain time of day for those to happen. In the context of a timezone distributed team, there is no "9am" that the team shares. Additionally, the act of losing and gaining context after completing work for the day only to gain it again to share a status update is context switching. The intended audience of the standup model assumes that it's just the team but in GitLab's model, that means folks need to be aware of where this is being communicated (slack, issues, other). Since this information isn't available to the intended audience, the information needs to be duplicated which at worst means there's no single source of truth and at a minimum means copy pasting information.
 
-The proposal is to trial using an Asynchronous Issue Update model, similar to [what the Package Group uses](https://about.gitlab.com/handbook/engineering/development/ops/package/#async-issue-updates). This process would replace the existing daily standup update we post in Slack with `Geekbot`. The time period for the trial would be a milestone or two, depending on feedback cycles. 
+The proposal is to trial using an Asynchronous Issue Update model, similar to [what the Package Group uses](https://about.gitlab.com/handbook/engineering/development/ops/package/#async-issue-updates). This process would replace the existing daily standup update we post in Slack with `Geekbot`. The time period for the trial would be a milestone or two, depending on feedback cycles.
 
 The async daily update communicates the progress and confidence using an issue comment and the milestone health status using the Health Status field in the issue. A daily update may be skipped if there was no progress. Merge requests that do not have a related issue should be updated directly. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. Where there are blockers or you need support, Slack is the preferred space to ask for that. Being blocked or needing support are more urgent than email notifications allow.
 
@@ -250,18 +250,23 @@ The async update comment should include:
 
 Example:
 ```
-Status: 20% complete, 75% confident, expecting to go into review tomorrow
+**Status**: 20% complete, 75% confident
+
+Expecting to go into review tomorrow.
 ```
 
 Include one entry for each associated MR
 
 Example:
 ```
-Issue status: 20% complete, 75% confident
+**Issue status**: 20% complete, 75% confident
 
-MR statuses:
-!11111 - 80% complete, 99% confident - docs update - need to add one more section
-!21212 - 10% complete, 70% confident - api update - database migrations created, working on creating the rest of the functionality next
+Expecting to go into review tomorrow.
+
+**MR statuses**:
+
+- !11111+ - 80% complete, 99% confident - docs update - need to add one more section
+- !21212+ - 10% complete, 70% confident - api update - database migrations created, working on creating the rest of the functionality next
 ```
 
 ##### How to measure confidence?
