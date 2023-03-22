@@ -60,6 +60,7 @@ At a high level, the Release post schedule is:
 - **EMs**:
   - Merge feature release post item MRs if the underlying code was merged _before_ the 17th
   - Merge feature release post item MRs if manually verified to be in the release
+    - MRs can be manually verified using the `/chatops run release check <MR URL> <RELEASE>` chatops command
 
 - **TW Reviewers** merge deprecation and removal MRs
 
