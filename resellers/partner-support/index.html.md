@@ -132,7 +132,7 @@ For detailed information and requirements, visit the [Partner Training, Certific
 
 
 ## NFR Licenses
-Please review the [NFR policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nrf-not-for-resale-license) to see details about what partners can be eligible to receive. If a Partner would like to request a NFR license, they should be directed to log into the Partner Portal, click on the `Support` tab, and chose the "NFR" icon. They'll be directed to a Google form that sends their request to the Partner Operations team. Partners should review the NFR Policy link in the form prior to submitting it to understand the requirements. 
+Please review the [NFR policy](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nrf-not-for-resale-license) to see details about what partners can be eligible to receive. If a Partner would like to request or renew a NFR license, they should be directed to log into the Partner Portal, click on the `Support` tab, and chose the "NFR" icon. They'll be directed to a Google form that sends their request to the Partner Operations team. Partners should review the NFR Policy link in the form prior to submitting it to understand the requirements. 
 
 When Partner Operations receives the request, they will review the partner account to verify the partner meets NFR eligibility requirements. If they do, Partner Operations will submit the NFR request to GitLab's license support team to be fulfilled. If the partner does not meet the eligibility requirements, they will email the submitter and explain the missing requirements and how to fulfill them. 
 
