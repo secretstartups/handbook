@@ -102,7 +102,7 @@ graph LR
 
 For large initiatives, ones that take multiple MRs or have broad-range implications, upstream feature contributions are more efficient and predictable when there's joint upfront planning. In order to set up both teams for success they should follow these guidelines:
 
-1. **At least one milestone prior to the milestone where implementation starts** - JiHu team creates an upstream feature planning issue that provides an overview of the feature scope in English, intended uses, and iterative implementation plan. JiHu will ask the relevant team's PM and EM for feedback on the issue and implementation plan. 
+1. **At least one milestone prior to the milestone where implementation starts** - JiHu team creates an upstream feature planning issue that provides an overview of the feature scope in English, intended uses, and iterative implementation plan. JiHu will ask the relevant team's PM, Product Designer and EM for feedback on the issue and implementation plan. 
    - The relevant GitLab product group will provide feedback on the feature, the relevant iterative implementation plan and provide feedback to JiHu.
 1. **During implementation start** - JiHu team will author MRs following the implementation plan and upstream guidelines below. The review will be done based on the agreement in the feature planing issue.
 
@@ -238,6 +238,16 @@ At times, product managers are asked to provide feedback or directly respond to 
 
 If product managers need help connecting with JiHu counterparts, ping the [Product DRI](#rd-roles) in [#jihu-product](https://gitlab.slack.com/archives/C01S8CFF7HR).
 
+### Product Designer responsibilities
+
+GitLab Product Designers are responsible for reviews and guidance and should not take over the complete design work for issues that JiHu wants to contribute, as JiHu has their own Product Design team that will help get these issues ready for implementation.
+
+**Process**
+
+Once a Product Designer gets pinged on an issue that JiHu intends to contribute upstream, the Product Designer reviews whether that issue already has a clear proposal that does not conflict with our [Pajamas guidelines](design.gitlab.com), the [Product principles](/handbook/product/product-principles) or planned work of their team.
+
+If there is no clear design proposal yet, or there are conflicts with Pajamas or the Product principles, the designer leaves a comment about what is required before the issue should go into implementation.
+
 #### Milestone Product Planning Process with JiHu
 
 To facilitate collaboration and feedback, JiHu plans ahead of GitLab's milestone  planning process to give GitLab product groups time to provide feedback ahead of implementation. The following will happen every milestone:
@@ -267,12 +277,8 @@ GitLab Product Managers are not responsible for JiHu product decisions, but coll
 
 We differentiate proprietary features for JiHu distributions by including them in the `/jh` [directory](https://gitlab.com/gitlab-org/gitlab-jh-mirrors/-/tree/main-jh/jh). However, the majority of contributions from JiHu team members should be outside of the `/jh` directory signaling the expectation that most contributions are to GitLab Core and only certain specific features are exclusive to the /jh offering.
 
-## Design
-
-Process to be added below.
-
 ## Links
 
-- [GitLab licensed its technology to new independent Chinese company](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/)
+- [GitLab licensed its technology to new independent Chinese company](/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/)
 - [GitLab licensing technology to independent Chinese company FAQ](https://about.gitlab.com/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/)
 - [China Service Working Group](https://about.gitlab.com/company/team/structure/working-groups/china-service/)
