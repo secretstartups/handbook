@@ -408,16 +408,41 @@ Please reach out to your Verticurl rep to shut down the landing page, or if you 
 ## Post LIVE Webcast
   
 ### Converting the Webcast to an On-Demand Gated Asset
- 
-#### DRI: FMC
-1. **[Vimeo](/handbook/marketing/marketing-operations/vimeo/)**: Submit an [upload request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) to the Digital Production team and specify Vimeo as the requested platform in the issue. Please include title, description and thumbnail (if any). Your webcast will be reveiwed and uploaded to Vimeo and a video link will be provided.
-1. **Pathfactory**: Login to PathFactory and add the copied Vimeo link to Pathfactory as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content).
-1. **Pathfactory**: Create a new Pathfactory track by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/#content-tracks) and then add your track to the [Changelog](/handbook/marketing/marketing-operations/pathfactory/#changelog). NOTE: You must create a [custom slug](/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings) when creating the Pathfactory track. 
-1. **Marketo**: Click into your campaign’s Marketo program and update the `ondemandUrl` token with the Pathfactory track URL. 
-   * The track URL should NOT contain any `?` question marks (if it does, you did not update the custom URL slug) - [WATCH THE EXPLAINER VIDEO](https://www.youtube.com/watch?v=VHgR33cNeJg)
-   * The URL should NOT contain `https://` and should NOT contain the Pathfactory tracking parameter `lb_email=` (this is already incorporated into all assets of the Marketo program template).
 
-#### DRI: Verticurl
+#### Download Recording to Appropriate Platform
+
+**DRI: FMC**  
+
+**Webcasts:**    
+- **[Vimeo](/handbook/marketing/marketing-operations/vimeo/)**: Submit an [upload request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) to the Digital Production team and specify Vimeo as the requested platform in the issue. Please include title, description and thumbnail (if any). Your webcast will be reveiwed and uploaded to Vimeo and a video link will be provided.
+
+**Workshops:**       
+- **[YouTube Unfiltered](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube)**: FMC to follow the linked instructions for how to upload the recording to YouTube Unfiltered.
+
+#### Pathfactory Track
+
+**DRI: FMC**  
+
+**Webcasts:**    
+- Create a new Pathfactory track by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/#content-tracks) and then add your track to the [Changelog](/handbook/marketing/marketing-operations/pathfactory/#changelog). NOTE: You must create a [custom slug](/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings) when creating the Pathfactory track. 
+- In Pathfactory, add the Vimeo video link as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content). Add this new piece of content to your previously created Pathfactory track.  
+
+**Workshops:**     
+- FMC to have already created a Pathfactory track for the workshop and added the workshop presentation slides from the [webcast prep issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/webcast-prep.md#fmc-tasks-dri-fmc-).
+- In Pathfactory, add the YouTube Unlisted video link as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content). Add this new piece of content to your previously created Pathfactory track.
+
+#### Marketo - FMC
+
+**Webcasts:**  
+- Click into your campaign’s Marketo program and update the `ondemandUrl` token with the Pathfactory track URL. 
+   - The track URL should NOT contain any `?` question marks (if it does, you did not update the custom URL slug) - [WATCH THE EXPLAINER VIDEO](https://www.youtube.com/watch?v=VHgR33cNeJg)
+   - The URL should NOT contain `https://` and should NOT contain the Pathfactory tracking parameter `lb_email=` (this is already incorporated into all assets of the Marketo program template).
+
+**Workshops:**  
+- FMC to have already followed [these instructions](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/webcast-prep.md#fmc-tasks-dri-fmc-) to have added the Pathfactory track to the Marketo token.
+
+#### Marketo - Verticurl
+
 1. **Marketo**: Navigate to the webcast program and update the following My Tokens
    * Update the `formButtonCopy` token to be `Watch now`
    * Update the `formHeaderCopy` token to be `Watch the webcast today`
