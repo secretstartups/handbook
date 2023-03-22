@@ -90,7 +90,7 @@ Time allocation: 15% of 1 engineer.
    1. Container base images
    1. Application dependencies
    1. Programming language
-1. Check in on test failures
+1. Check in on test failures. Check relevant slack channels ([#g_secure-composition-analysis-alerts](https://gitlab.slack.com/archives/C04UX9MQNSJ), [#s_secure-alerts](https://gitlab.slack.com/archives/CAU9SFKNU))
 1. Check latest pipelines for any release failures. If any issue is preventing the automated release process from running, begin the [release failure escalation process](#release-failure-escalation-process).
 1. Consider creating or updating any automation or tooling (related to security, maintainership or support!)
 
@@ -105,7 +105,8 @@ If a support engineer requests assistance via slack and it requires investigatio
     - [#sec-section](https://gitlab.slack.com/archives/C02087FTL5V)
     - [#s_secure-alerts](https://gitlab.slack.com/archives/CAU9SFKNU)
     - [#f_container_scanning](https://gitlab.slack.com/archives/C041F2XJACB)
-1. Monitor [Section Sec Request For Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help/-/issues/?label_name=Help%20group%3A%3Acomposition%20analysis) project for support requests. 
+    - [#g_secure-composition-analysis-alerts](https://gitlab.slack.com/archives/C04UX9MQNSJ)
+1. Monitor [Section Sec Request For Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help/-/issues/?label_name=Help%20group%3A%3Acomposition%20analysis) project for support requests.
 1. Triage bugs and resolve them when given `~priority::1`. (See [Bugs triaging process](#bugs-triaging-process))
 1. Triage infradev issues and resolve them when given `~priority::1`. (See [Infradev triaging process](#infradev-triaging-process))
 
@@ -274,7 +275,7 @@ that have impacted composition analysis in the future.
     /label ~"priority::4"
 
     /label ~"section::sec" ~"devops::secure" ~"group::composition analysis" ~"type::bug" ~"bug::availability"
-    
+
     <!--
     Select one of the following categories
     -->
