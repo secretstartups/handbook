@@ -9,9 +9,9 @@ title: Team Processes
 - TOC
 {:toc}
 
-## Issue Hygiene
+## Issue hygiene
 
-### Must-Haves
+### Must-haves
 
 All issues must have the following:
 
@@ -19,8 +19,9 @@ All issues must have the following:
   * This is the label used to identify and track the team's work
 * `product data analysis` label
 * Workflow label (ex: `workflow::1 - triage`)
-* Priority label (ex: `pdi-priority::2`)
-* Section label (ex: `section::Dev`)
+* PDI priority label (ex: `pdi-priority::2`)
+* Section priority label (ex: `section-priority::1`)
+* Section label (ex: `section::dev`)
   * Answers the question "what section is this work supporting?"
 * Stage label (ex: `devops::manage`)
   * Answers the question "what stage is this work supporting?"
@@ -29,7 +30,7 @@ All issues must have the following:
 * Issue weight
 * Iteration (once the issue is scheduled)
 
-### Issue Workflow
+### Issue workflow
 
 As mentioned above, all issues should have a workflow label. These should be kept up-to-date in 
 order to track the current status of an issue on our [board](https://gitlab.com/groups/gitlab-data/-/boards/2973914). 
@@ -44,7 +45,7 @@ The Product Data Insights team uses a subset of the [workflow labels used by the
 | `workflow::6 - review` | Waiting for or in review | Issue meets [criteria for closure](/handbook/product/product-analysis/team-processes/#checklist-for-closing-an-issue) |
 | `workflow::X - blocked` | Issue needs intervention that assignee can't perform | Work is no longer blocked |
 
-### Blocked Issues
+### Blocked issues
 
 When an issue becomes blocked:
 
@@ -53,7 +54,7 @@ When an issue becomes blocked:
 issue to be unblocked, and an estimated date of when it will be unblocked (if known)
 * Link to the issue that unblocks the work (if applicable)
 
-### Rolling Over Iterations
+### Rolling over iterations
 
 When we start a new iteration, any open issues from the previous iteration do not automatically 
 roll over. As such, we need to be diligent about updating issues to ensure that they do not fall 
@@ -62,7 +63,7 @@ off the radar before they are completed.
 At the end of an iteration, analysts should review any remaining open issues and update the 
 iteration value to ensure we can track the issue on [the iteration board](https://gitlab.com/groups/gitlab-data/-/boards/2973914).
 
-### Unplanned Work
+### Unplanned work
 
 Sometimes high-priority and/or urgent work comes up after an iteration starts. When an unplanned 
 issue is opened mid-iteration:
@@ -74,7 +75,7 @@ issue is opened mid-iteration:
 * If the unplanned work is large enough to displace other planned issues, reach out to the 
 applicable stakeholder so they are aware that their issue is being delayed
 
-### Issues in Other Projects
+### Issues in other projects
 
 Sometimes issues are opened and assigned to analysts outside of the Product Data Insights and 
 Data team projects. As such, they are hard to track (since they will not appear on our board) 
@@ -83,9 +84,9 @@ of opening a placeholder/tracking issue within the Product Data Insights project
 placeholder/tracking issue should contain a link to the original issue, along with the standard 
 labels, iteration, weight, etc.
 
-### Closing an Issue
+## Closing an issue
 
-#### Self-Review
+### Self-review
 
 All code and issues should undergo self-review. While it may seem obvious, it is critical to 
 ensuring the team is producing high-quality, trustworthy work.
@@ -99,7 +100,7 @@ Self-review checklist:
   * If you follow a single entity (ex: your own activity) through the `JOIN`s and other 
   manipulations, the results make sense
 
-#### Peer Review
+### Peer review
 
 You should ask a peer to review your code and/or findings if:
 
@@ -129,12 +130,13 @@ To request a review, [open an MR in the Product Data Insights project](https://g
 * Add the query or code to a file within that new directory
   * Ex: `code_reviews/60/experiment_events_snippet.sql`
 * Once the MR is opened, reach out to the team to see who has capacity to review
+  * Do not merge the code until it has been reviewed and approved
 
 Using MRs for reviews will allow for easy feedback and collaboration. However, the code in that 
 directory will become stale quickly (ex: additional changes may be made to a snippet in a 
 different issue), so the queries should not be considered the SSOT.
 
-#### Checklist for Closing an Issue
+### Checklist for closing an issue
 
 Use the following checklist before closing an issue:
 
@@ -172,7 +174,7 @@ conversation on Slack, discussion in meeting, etc)
   If there are outstanding questions or follow-ups, they can be moved to a new issue and linked
 * Open new issue with next steps or follow-ups and link to original issue (if applicable)
 
-## Team Velocity Calculations
+## Team velocity calculations
 
 The Product Data Insights team uses two different measures of completed work to determine velocity, 
 one based in work done on issues completed during an iteration (Completed Issue Weight), and 
@@ -208,29 +210,29 @@ Here are two examples:
 
 1. An analyst starts an 8-point issue towards the end of an iteration and completes about a half 
 day (3 points) worth of work.
-  1. 0 points are counted towards Completed Issue Velocity
-  1. 3 points are counted towards Total Issue Velocity
+   * 0 points are counted towards Completed Issue Velocity
+   * 3 points are counted towards Total Issue Velocity
 1. In the next iteration, the analyst completes the remaining 5 points of work on the issue they 
 began in the previous iteration.
-  1. 5 points are counted towards Completed Issue Velocity
-  1. 5 points are counted towards Total Issue Velocity
+   * 5 points are counted towards Completed Issue Velocity
+   * 5 points are counted towards Total Issue Velocity
 
-## Style Guidelines
+## Style guidelines
 
 The Product Data Insights group follows the Data team's [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/) 
 and best practices.
 
-## Team Meetings
+## Team meetings
 
 1. Weekly Product Data Insights Knowledge Share & Iteration Planning
-  1. Attendees: Product Data Insights team
-  1. Goals: Weekly knowledge share and collective brainstorming. Every other week the meeting is 
+   * Attendees: Product Data Insights team
+   * Goals: Weekly knowledge share and collective brainstorming. Every other week the meeting is 
   extended to do iteration planning.
-  1. Agenda: [link](https://docs.google.com/document/d/1EdYlCOh29lENz7WB55ONHUohvUeVSXhyCcv-EAfth-I/edit?usp=sharing)
+   * Agenda: [link](https://docs.google.com/document/d/1EdYlCOh29lENz7WB55ONHUohvUeVSXhyCcv-EAfth-I/edit?usp=sharing)
 1. Product Data Insights Office Hours
-  1. See [main Product Data Insights handbook page](/handbook/product/product-analysis/#office-hours)
+   * See [main Product Data Insights handbook page](/handbook/product/product-analysis/#office-hours)
 
-## Gearing Ratios
+## Gearing ratios
 
 At GitLab, we use gearing ratios as [Business Drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) 
 to forecast long term financial goals by function. The Product Data Insights group currently 
@@ -254,7 +256,7 @@ organizations, including Linkedin, Intuit, HubSpot, Squarespace, iHeartRadio, an
 Digital. We found that most maintained a ratio of 1.5-3 PMs per product analyst, in addition to 
 a self-service tool. As such, we feel comfortable setting a target of 3 PM:1 Product Analyst ratio.
 
-### Closing the Gap
+### Closing the gap
 
 The current PM:Product Analyst ratio is ~7:1 - 40 IC product managers (including current 
 openings) and 6 product analysts (5 ICs and 1 IC/Manager hybrid). As we work to close the gap and 
