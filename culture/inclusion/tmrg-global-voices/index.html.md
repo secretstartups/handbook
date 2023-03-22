@@ -23,11 +23,10 @@ The Global Voices TMRG has determined the three main objectives to generate impa
 ## Leads
 1. [Eliran Mesika](https://www.gitlab.com/eliran.mesika) - Lead
 1. [Marin Jankovski](https://www.gitlab.com/marin) - Co-Lead
-1. [Seth Berger](https://www.gitlab.com/sethgitlab) - Co-Lead 
 
 
 ## Executive Sponsors
-[Sid Sijbrandij](https://gitlab.com/sytses), CEO.
+[Jörg Heilig](https://gitlab.com/joergheilig), CTO.
 
 ## Current Goals
 With our mission and objectives in mind, we are taking a goal-oriented approach to iterative improvement. We've decided to work on a rough 6 month horizon, defining goals we'd like to target with that timeframe. For the current active horizon we'll be focusing on two:
