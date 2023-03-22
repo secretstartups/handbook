@@ -171,8 +171,6 @@ Please do not message a release manager in private about release related
 questions or requests. Instead, post your request/question in the [#releases]
 channel.
 
-
-
 ### When do I need to have my MR merged in order for it to be included into the monthly release?
 
 The earlier in the monthly cycle your MR is merged, the higher the chances are for it to be included in that month's release.
@@ -198,9 +196,20 @@ The different processes are documented here:
   - [Critical security releases][process-security-release-critical]
   - [Non-critical security releases][process-security-release-non-critical]
   - [Patch releases][process-patch-release]
+    - 🔊 During 15.10, Delivery is piloting a new GitLab engineer patch release process, details on the [internal pilot][internal-pilot-question] question.
 - GitLab.com releases:
   - [Auto-deploy releases][process-auto-deploy-release]
   - [Hot patch]
+
+### Where I can learn more about the internal patch release pilot for GitLab engineers?
+
+During 15.10, Delivery is piloting a different patch release process for GitLab engineers that allows stage teams to have more control over what changes
+are included in patch release. As part of this pilot, engineers will be enabled to start merging into stable release branches so that they can self-serve
+on bug fixes. This is an initial iteration to enable the [Maintenance Policy Extension][maintenance-policy-extension].
+
+For additional details at the [announcement issue][announcement-issue] and refer to the [new patch release runbook][new-patch-release-runbook] for guidelines.
+
+Feedback is encourage, please leave your thoughts on the [announcement issue][announcement-issue].
 
 ### A security issue was assigned to me, where should I start?
 
@@ -286,3 +295,7 @@ If you need any additional help please ask the Release Managers in the [#release
 [How to fix a broken stable branch]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md
 [post-deploy migrations]: https://docs.gitlab.com/ee/development/database/post_deployment_migrations.html
 [post-deploy migration pipeline documentation]: https://gitlab.com/gitlab-org/release/docs/-/tree/master/general/post_deploy_migration
+[internal-pilot-question]: #where-i-can-learn-more-about-the-internal-patch-release-pilot-for-gitlab-engineers
+[announcement-issue]: https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2886
+[new-patch-release-runbook]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/process_new.md
+[maintenance-policy-extension]: https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/828
