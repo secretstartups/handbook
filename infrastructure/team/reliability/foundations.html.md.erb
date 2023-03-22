@@ -32,21 +32,22 @@ The Services that the Foundations team is responsible for fall into two general 
 
 | Service | Description | Co-Ownership? |
 | ------- | ----------- | --------- |
-| K8s | K8S workloads deployments, Cluster addons | Autodeploy remains with Delivery, and anything Delivery related is co-owned with Delivery |
-| Config | Terraform, Chef, Image Builds | The core TF repos are owned by Foundations, while specific modules may be maintained by the teams that use them |
-| Service discovery | Consul | |
-| Secrets Management | Vault | Vault is offered as a service to enable teams to manage their own secrets |
-| Ops | Ops.gitlab.net, Ops Runners | |
+| K8s | [K8S workloads deployments](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/onboarding/gitlab.com_on_k8s.md), Cluster addons | Autodeploy remains with Delivery, and anything Delivery related is co-owned with Delivery |
+| Config | [Terraform](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/terraform-broken-master.md), [Chef](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/config_management), Image Builds | The core TF repos are owned by Foundations, while specific modules may be maintained by the teams that use them |
+| Service discovery | [Consul](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/consul) | |
+| Secrets Management | [Vault](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/vault) | Vault is offered as a service to enable teams to manage their own secrets |
+| Ops | [Ops.gitlab.net](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/ops), [Ops Runners](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/subnet-allocations.md) | |
 
 #### Edge
 
 | Service | Description | Co-Ownership? |
 | ------- | ----------- | --------- |
-| CDN | Cloudflare, Fastly | |
-| DNS | AWS Route 53, Cloudflare | |
-| Load Balancing | HAProxy, Ingress | |
-| Networking | HAProxy, Cloudflare | |
-| RBAC/IAM | Teleport, GCP IAM permissions and project creation | |
+| CDN | [Cloudflare](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/cloudflare) | |
+| DNS | [AWS Route 53](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/manage-dns-entries.md), [Cloudflare](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/cloudflare) | |
+| Load Balancing | [HAProxy](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/frontend/haproxy.md), Ingress | |
+| Networking | [Cloud VPCs](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/subnet-allocations.md), [Cloudflare](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/cloudflare) | |
+| Rate Limiting | [Rate limiting](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/rate-limiting) | shared ownership with development teams for specific endpoints and with abuse |
+| RBAC/IAM | [Teleport](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/Teleport), GCP IAM permissions and project creation | |
 
 
 ### Overlap
