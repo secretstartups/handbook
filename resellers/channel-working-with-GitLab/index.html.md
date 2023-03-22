@@ -250,9 +250,13 @@ An order is not complete without a signed agreement.
 
 ## Requesting a GitLab NFR (Not-for-Resale) License  
 
-Authorized GitLab Partner fills out the NFR License Request Form which can be found on the [GitLab Partner Portal](https://partners.gitlab.com/English/) on the Services Page. 
-    1. Partner Help desk (PHD) reviews the request and works with the Partner if additional information is needed.
-    2. Once activated the requestor will receive a license key via email.
+Authorized GitLab Partner fills out the NFR License Request Form which can be found on the [GitLab Partner Portal](https://partners.gitlab.com/English/) on the Services or Support tabs. 
+1. Partner Help desk (PHD) reviews the request and works with the Partner if additional information is needed.
+2. Once activated the requestor will receive a license key via email.
+
+### NFR Renewals
+
+GitLab NFR licenses expire after a 12-month subscription period, unless they are add-on licenses, in which case they expire with the Partner’s oldest NFR licenses. Partners must be compliant with the GitLab Partner Program to renew their licenses and they can request a renewed license through the NFR form per the [standard process above](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#requesting-a-gitlab-nfr-not-for-resale-license).
 
 ### Not-for-Resale (NFR) Program and Policy
 
@@ -288,11 +292,6 @@ To be eligible for the NFR Program, Partners must:
 6. GitLab reserves the right to change or cancel the NFR Program at any time and for any or no reason.
 7. Partners can receive one Self-Managed and one SaaS NFR license at the Ultimate level for a 12-month period.
 
-### NFR Renewals
-
-GitLab NFR licenses expire after a 12-month subscription period, unless they are add-on licenses, in which case they expire with the Partner’s oldest NFR licenses. 
-* For Select Partners in good standing, the licenses will be automatically renewed. 
-* For Open Partners in good standing, renewal must be requested.
 
 ### NFR Support
 [Support](https://about.gitlab.com/support) will be provided by the GitLab Support team. GitLab Solution Architects may also be available to help Partners build out training, testing, and lab environments.
