@@ -71,7 +71,7 @@ Providing an accurate, data driven forecast is essential for GitLab’s continue
 ## Approach
 In partnership with AEs, the Renewals team will generate a “bottom-up” renewal rate and churn forecast whereby every ENTG Renewal Opportunity will contain a forecasted revenue range to predict the outcome or potential outcomes of the Renewal. With every Renewal Opportunity forecasting a “worst case” and a “best case” scenario Renewals Managers will be able to provide a forecast range for their worst case renewal rate and their best case renewal rate for a given time period, territory etc. As risk is identified, categorized, and forecasted, Renewals Managers will alert relevant parties (CSM, AE) using appropriate channels. 
 
-## How We Forecast Churn and Contraction
+## Key Renewal Forecasting Fields
 
 The key risk fields for capturing risk on the renewal are:
 
@@ -85,9 +85,76 @@ The key risk fields for capturing risk on the renewal are:
     - `Will Contract`: Used when we have 100% confidence that there will be a reduction in seats on the subscription or a downtier (rarely used)
         - Examples: Significant workforce reduction at a customer that reduces the number of engineers capable of using the GitLab platform to well below their current seat count (including appropriate buffer levels).
     - `Will Contract (actionable)`: Used when there is a risk to a portion of the renewal opportunity, but steps can be taken to mitigate that risk, fully or partially. 
-        - Examples: Customer has indicated they are evaluating downtiering to premium - we believe with a SA-led VSA we can demonstrate the value and cost savings associated with the Ultimate version, and influence that decision. 
+        - Examples: Customer has indicated they are evaluating downtiering to premium - we believe with a SA-led VSA we can demonstrate the value and cost savings associated with the Ultimate version, and influence that decision.
+
+
+## Critiera for how to assign risk (pre and post-quote)
+
+Note: In all instances of risk, assign the `renewal forecast health` to `red`.
+
+- **Pre-quote**
+
+    - For `Will Churn (actionable)` or `Will Contract (actionable)` 
+
+        1. Turn the `renewal forecast health` field `red` by selecting the red dropdown and checking the override box
+        2. Fill in the `Amount` field with the value that is expected to renew (i.e. how much we predict will actually book)
+        3. Fill in the `Renewal ARR Swing` amount with how much of the churn/contraction may be saved with intervention
+        4. Record your `Next Steps` 
+        5. Record the risk intervention idea/ask/motion in the `Manager Notes` section (you can use the risk intervention table for ideas)
+
+        For the other two categories - `Will Churn` and `Will Contract` - use same steps, but no Renewal ARR Swing field is needed
+
+- **Post-quote**
+
+    -   For `Will Churn (actionable)`
+        1. Turn the `renewal forecast health` field `red`
+        2. Fill in the `Renewal ARR Swing` field
+    
+    -   For  `Will Contract (actionable)`
+
+        1. The primary quote should always be showing the most recent/relevant/conservative deal with the contraction risk built in, so the `Renewal ARR swing` field is the only thing that needs to be updated. In the event where there is known risk, but it can't be quoted yet, add the expected amount into the manager notes, and managers will need to manually add this into forecasts. 
+
 
 Both the `Will Churn` and `Will Contract` selections should be manager approved, and occur very close to the `Subscription Renewal Date` - as situations at a customer may change rapidly. These selections indicate that the risk on the opportunity will no longer be actively mitigated. 
+
+All `Will Churn` renewals should be closed-lost by their `Subscription Renewal Date`
+
+
+## Forecasting Goal 
+
+    - Maintain two full quarters of forecasted risk (by the end of Q1, Q2 and Q3 should be forecasted)
+
+
+## Risk Intervention Tactics 
+
+These tactics/motions may not always be approved or appropriate for each risk scenario, but they can serve as a starter and repository for ways in which Renewals Managers may intervene in renewal risk situations. 
+
+    1. Executive involvement - email
+    2. Executive involvement - call w/ decision makers
+    3. Discounted professional services
+    4. CSM/E workshop
+    5. Discount/rebate on specific renewal
+    6. Offer better contract terms (Net 60, etc)
+    7. Product team - features preview
+    8. Favorable ramp deal
+    9. SA VSA engagement 
+    10. Peer phone call (peer of customer)
+    11. Board member contact
+    12. Develop bespoke ROI deck for customer internal justifications
+
+## Quantifying the risk to an opportunity
+
+The following detail different opportunities and our standard appraoch to quantifying/labeling the risk and swing fields.
+
+ 1. **Customer Unresponsive** --> `Will Churn (actionable)` with a full `Renewal Swing ARR` field (full amount of recoverable)
+ 2. **Signed Quote for contraction but waiting on PO** --> `Will Contract`
+ 3. **Competitive bidding situation** --> `Will Churn (actionable)` with a full `Renewal Swing ARR` field (full amount of recoverable)
+ 4. **Early stage risk (underdeployment in the deploy, activiate, adopt phases)** --> `Will Contract (actionable)` with the underdeployed percentage shown as risk on the `Amount` field, and the `Renewal Swing ARR` field showing the underdeployed amount as influencable. 
+ 5. **Procurement risk (new BPA w/ mandatory discounting, customer is using third-party vendor)** --> `Will Contract (actionable)` with the new mandatory or expected discount on the `Amount` field (pre-quote), and the `Renewal Swing ARR` field showing the discount value as actionable. 
+ 6. **Program/project termination** - `Will Churn (actionable)` with a full `Renewal Swing ARR` field (full amount of recoverable)
+
+## Key fields for calculations of the forecast
+
 
 The key revenue fields for setting the Renewal forecast are:
 
