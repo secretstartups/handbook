@@ -69,7 +69,7 @@ This Subscription Agreement (“Agreement”) is between GitLab Inc. with office
  
 “Subscription” refers to the applicable services, support and function(s) of the Software as provided. Subscriptions are provided in tiers / levels as described in Appendix 1 and are based on the number of Users. 
 
-“Subscription Start Date” is, unless otherwise agreed to in writing, the start date, (i) stated on an Order Form, or, the date in which Customer is given access to the Software (whicever is later), or (ii) as indicated via a Website transaction, regardless if such purchase is direct with GitLab or via an Authorized Partner. 
+“Subscription Start Date” is, unless otherwise agreed to in writing, the start date, (i) stated on an Order Form, or, the date in which Customer is given access to the Software (whichever is later), or (ii) as indicated via a Website transaction, regardless if such purchase is direct with GitLab or via an Authorized Partner. 
 
 “Subscription Term” shall begin on the Subscription Start Date and continue for twelve (12) months, unless the term length is otherwise agreed to in an Order Form or web-portal purchase. 
 
