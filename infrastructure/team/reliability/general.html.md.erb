@@ -6,6 +6,9 @@ title: "Reliability:General Team"
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Mission
 
 The General Team supports the Reliability Team's [overall vision](/handbook/engineering/infrastructure/team/reliability/#vision) by supporting services for GitLab.com that do not fit the mission of the other [Reliability Teams](/handbook/engineering/infrastructure/team/reliability/#reliability-teams). See the [dedicated General Team Page](/handbook/engineering/infrastructure/team/reliability/general.html) for more details.
@@ -32,11 +35,28 @@ The General Team is assigned issues based on the services they own.  This curren
 | Infrastructure | This is a broad category to include any work <br> where a service label cannot be assigned or <br> created. |
 | KAS | This service has no permanent team assigned |
 
-### Overlap
+#### Overlap
 It is not always easy or possible to definitively determine the primary services associated with an issue, incident, or other piece of work.  When there is a lack of clarity, General Team members should collaborate with other Reliability Teams to determine the best path forward.  If necessary reach out to any Reliability Engineering Manager for assistance.
 
-## Status Updates
-The General Team provides weekly updates an all Epics following the [Reliability Process for Epics](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#epics).  Epic updates are automatically reflected in the [GitLab SaaS Reliability Work Queue epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/898).
+### Processes
+#### Monthly Availability Updates
+
+The General Team is responsible for ensuring the published Monthly Availability Updates are maintained.  This is currently a manual process.   Items to update include:
+
+ 1. [Historical Service Level Availability](https://about.gitlab.com/handbook/engineering/monitoring/#historical-service-level-availability)
+ 2. [Executive Summary](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#executive-summary)
+ 3. [GitLab.com Availability](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability)
+
+Each of these items should be updated to reflect the most recent month.  ([Sample MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/120675)).
+ 
+Latest results are on the [GitLab.com General SLA Dashboard](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-1M%2FM&to=now-1M%2FM) (internal only)
+ 
+**Note**: Updates must be merged by the 7th day of each month.  This is currently a scheduled event on the Reliability General Team's Calendar.  Contact any member of the team for more details on this process.
+{: .alert .alert-info}
+
+
+## Team Status Updates
+The General Team provides weekly updates all Epics following the [Reliability Process for Epics](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#epics).  Epic updates are automatically reflected in the [GitLab SaaS Reliability Work Queue epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/898).
 
 OKRs are updated every Wednesday as required by the [Reliability Process for OKR Updates](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#okrs)
 
@@ -71,3 +91,4 @@ The General Team must maintain a broad and diverse set of technical skills while
 
  * Issue Board: [All issue by priority](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/3993753?label_name%5B%5D=team%3A%3AGeneral)
  * Slack Channel: #g_infra_general
+ 
