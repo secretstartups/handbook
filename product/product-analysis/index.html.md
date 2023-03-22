@@ -12,14 +12,21 @@ title: Product Data Insights
 ## Product Data Insights Handbook
 {:.no_toc}
 
-The Product Data Insights (formerly known as Product Analysis) group consists of a team of 
+The Product Data Insights (formerly known as "Product Analysis") group consists of a team of 
 product analysts. This group reports to the Senior Director, Product Monetization and serves 
-as a specialized analytics team to support the product organization and product data-related 
+as a specialized analytics team to support the GitLab Product division and product data-related 
 analysis across GitLab.
+
+In addition to supporting the Product division, the Product Data Insights team is an active 
+contributor to the GitLab Data Program. As part of the [Research & Development (R&D) Data Fusion Team](/handbook/business-technology/data-team/#analytics-engineering-team), 
+the product analysts also work closely with members from the central Data team. In addition, 
+the Product Data Insights team is part of the [Functional Analytics Center of Excellence (FACE)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/), 
+along with other functional analytics groups across the GitLab Data Program.
 
 Read more about what we do at GitLab on our [Direction](/direction/product-analysis/) page.
 
-### PDI team members
+### Team members
+{:.no_toc}
 
 * [Carolyn Braza](/company/team/#cbraza): [Senior Manager, Product Data Insights](/job-families/product/product-analyst/#senior-manager-product-data-insights)
 * [Dave Peterson](/company/team/#dpeterson1): [Staff Product Analyst](/job-families/product/product-analyst/#staff-product-analyst)
@@ -28,19 +35,14 @@ Read more about what we do at GitLab on our [Direction](/direction/product-analy
 * [Neil Raisinghani](/company/team/#nraisinghani): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
 * [Emma Neuberger](/company/team/#eneuberger): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
 
-As part of the [Research & Development (R&D) Data Fusion Team](/handbook/business-technology/data-team/#analytics-engineering-team), 
-the product analysts also work closely with members from the central Data team. In addition, 
-the Product Data Insights team is part of the [Functional Analytics Center of Excellence (FACE)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/), 
-along with other functional analytics groups across the GitLab Data Program.
+## Handbook contents
 
-### PDI handbook contents
-
+* [Dashboards, Analysis, & Insights](/handbook/product/product-analysis/dashboards-analysis-insights/)
+* [Team Processes](/handbook/product/product-analysis/team-processes/)
+* [Product Data Insights Data Models Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/)
+* [Crash Course for Product Stage Resources](/handbook/product/product-analysis/crash-course/)
 * [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
 * [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
-* [Team Processes](/handbook/product/product-analysis/team-processes/)
-* [Crash Course for Product Stage Resources](/handbook/product/product-analysis/crash-course/)
-* [Dashboards, Analysis, & Insights](/handbook/product/product-analysis/dashboards-analysis-insights/)
-* [Product Data Insights Data Models Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/)
 * [dbt Cheat Sheet for Functional Analysts](/handbook/product/product-analysis/dbt-cheat-sheet/)
 
 ## Working with us
@@ -53,12 +55,13 @@ You can see our current iteration [here](https://gitlab.com/groups/gitlab-data/-
 ### Issue intake
 
 For all Product Data Insights requests, please create an issue in the 
-[GitLab Data Product Data Insights project](https://gitlab.com/gitlab-data/product-analytics/-/issues), 
+[Product Data Insights project](https://gitlab.com/gitlab-data/product-analytics/-/issues), 
 apply the `Team::PDI` and `product data insights` labels, and follow the guidelines below.
 
 All data issues with the `Team::PDI` label will appear on the [Product Data Insights board](https://gitlab.com/groups/gitlab-data/-/boards/2959103).
 
 #### Issue templates
+{:.no_toc}
 
 Please select the appropriate template based on your type of request and answer as many of the 
 questions as you can. The more information and context we have up front, the faster we are able 
@@ -72,18 +75,47 @@ to triage and begin work on the issue.
 | Iteration planning | [Iteration Planning](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Iteration%20Planning) |
 
 #### Submission due date
+{:.no_toc}
 
 In order to be considered for the upcoming iteration, please open all issues by EOD Monday 
 before the next iteration begins. We understand that urgent matters come up, but please try to 
 adhere to the submission due date for any planned work. 
 
-#### Relative priority
+### Issue prioritization
 
-Please indicate the relative priority of the new issue compared to any other issues you have open 
-in the backlog (if applicable). In general, the issues that are more immediately actionable and 
-impactful to the [company KPIs](/company/kpis/) should be higher in priority.
+The PDI team takes three different priorities into account when scheduling work, each captured 
+by a scoped label:
 
-We ask that PMs apply a `pm-priority::` label to issues to indicate relative priority of the ask.
+1. `section-priority::`
+1. `pm-priority::`
+1. `pdi-priority::`
+
+#### Section priority
+
+Section priority is ultimately determined by section leaders and product leadership. It should 
+align with overall product investments and business impact of the work. Analysts have default 
+guidelines to assign section priority, which then becomes part of the prioritization discussion 
+with section leadership.
+
+Section priority labels will be added by product analysts or section leadership.
+
+| Label | Definition |
+| --- | --- |
+| `section-priority::1` | Work supporting high-impact, high-investment stages or groups; cross-stage analysis | 
+| `section-priority::2` | General work supporting the section; help with PI charts; etc |
+| `section-priority::3` | Low-impact work; "nice-to-haves" |
+
+Most issues will fall under `section-priority::1` and `section-priority::2`.
+
+#### PM priority
+
+PM (Product Manager) priority captures the relative priority of the issue compared to any other 
+issues that the PM (or their group) have open in the backlog (if applicable). In general, the 
+issues that are more immediately actionable and impactful to the [company KPIs](/company/kpis/) 
+should be higher in priority.
+
+We ask that PMs apply a `pm-priority::` label to issues to indicate relative priority of the 
+request.
 
 | Label | Priority |
 | ----- | -------- |
@@ -91,6 +123,26 @@ We ask that PMs apply a `pm-priority::` label to issues to indicate relative pri
 | `pm-priority::2` | Medium |
 | `pm-priority::3` | Low, non-urgent |
 
+#### PDI priority
+
+PDI priority is owned by the individual analyst. The Senior Manager, Product Data Insights will 
+help refine priority based on importance and capacity. The team will work with the Senior 
+Director, Product Monetization and/or Product leadership on trade-offs (if needed).
+
+Section priority and PM priority are both inputs in determining PDI priority. However, the 
+scope of the team's work extends beyond section support (ex: cross-functional initiatives), 
+and therefore there are other considerations, as well.
+
+PDI priority labels will be added by the Product Data Insights team as a part of triage and 
+planning.
+
+| Label | Priority |
+| ----- | -------- |
+| `pdi-priority::1` | **High / Urgent Priority** Any analysis requests that are required to be completed within the current iteration. All requests that have Priority 1 should have a direct KPI and/or OKR that will be affected by the analysis. | 
+| `pdi-priority::2` | **Medium Priority** This is where most requests would fall into. This can be any net-new analysis, reporting (dashboard creation), or exploratory analysis that is needed for decision making. | 
+| `pdi-priority::1` | **Consultant:** This is for any analysis that does not have a direct action as a result of the analysis and/or other low-level, non-urgent requests that can be placed in an analyst's backlog. |
+
+Most issues will fall under `pdi-priority::2` and `pdi-priority::3`.
 
 ### Iteration planning
 
@@ -103,22 +155,11 @@ iteration, the team considers the following:
 * Issue weight
 * Velocity
 * Working days
+* Target work breakdown
 
 #### Issue priority
 
-The Manager, Product Data Insights will help prioritize work based on importance and capacity, and 
-will work with the Senior Director, Product Monetization and VP, Product on trade-offs (if needed).
-
-Prioritization labels will be added by the Product Data Insights team as a part of triage and 
-planning.
-
-| Label | Priority |
-| ----- | -------- |
-| `pdi-priority::1` | **High / Urgent Priority** Any analysis requests that are required to be completed within the current iteration. All requests that have Priority 1 should have a direct KPI and/or OKR that will be affected by the analysis.| 
-| `pdi-priority::2` | **Medium Priority** This is where most requests would fall into. This can be any net-new analysis, reporting (dashboard creation), or exploratory analysis that is needed for decision making. | 
-| `pdi-priority::1` | **Consultant:** This is for any analysis that does not have a direct action as a result of the analysis and/or other low-level, non-urgent requests that can be placed in an analyst's backlog.|
-
-Most issues will fall under `pdi-priority::2` and `pdi-priority::3`.
+Analysts will use the different priority labels (as defined above) as inputs into planning.
 
 #### Issue weight
 
@@ -158,6 +199,23 @@ plan ahead if you know that you will need assistance from the Product Data Insig
 As GitLab team members, we are [encouraged to take PTO](/handbook/paid-time-off/) and observe public 
 holidays in order to maintain a healthy work-life balance. Analyst capacity should be adjusted 
 based on the number of days they are working in the iteration.
+
+#### Target work breakdown
+
+Product Data Insights groups work into three different buckets. During planning, analysts will 
+aim to maintain the following breakdown:
+
+* Section-level priorities: 50%
+  * Backlog DRI: Section leader and/or product leadership
+  * This work can be identified with the `section-priority::1` label
+* Other section work: 25%
+  * Backlog DRI: Product analyst
+  * This work can be identified with the `section-priority::2` or `section-priority::3` labels
+* Cross-functional work and special projects: 25%
+  * Backlog DRI: Senior Manager, PDI (based on the recommendations from the product analysts)
+
+_The distribution of work will vary from iteration to iteration, but the 50/25/25 breakdown 
+is the target state._
 
 ### Urgent issues
 
@@ -220,12 +278,17 @@ questions (which could lead to building a self-service solution) and quickly rep
 
 #### Capacity
 
-The Product Data Insights team is tasked with supporting the entire product organization, in 
+The Product Data Insights team is tasked with supporting the entire Product organization, in 
 addition to other product-related data needs across GitLab. As such, team capacity can be 
 limited as we grow towards our [target gearing ratio](/handbook/product/product-analysis/team-processes/#gearing-ratios). 
 However, limited capacity should not stop GitLab team members from [opening issues for Product Data Insights](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request), 
 it simply means that lower-priority requests will have to wait until resources are available. 
 As the group grows, so will our ability to turn around requests in a shorter period of time.
+
+## Engaging the team
+
+In addition to opening an issue, there are several other methods to engage with the team, both 
+sync and async.
 
 ### Office hours
 
@@ -239,26 +302,24 @@ tasks, brainstorming, and data self-service. More formal requests that answer mo
 questions are captured in issues and go through a more rigorous, structured prioritization process.
 
 #### How to sign up
+{:.no_toc}
 
 The [agenda](https://docs.google.com/document/d/1ZXS-eeZNuRUn7176dZFqsyhIU-DSWYvWuEhogpbTzys/edit#) 
-is first-come, first-served. Walk-ins/drop-ins are always welcome, but if possible, please add 
-your name and topic (or question) by EOD Monday before the next office hours. This allows the 
-team time to review new agenda items ahead of time.
+is first-come, first-served. Walk-ins/drop-ins are always welcome, but if possible, please 
+add your name and topic (or question) before office hours begins. This allows the team time 
+to review new agenda items ahead of time. If we are unable to cover a topic on the agenda, 
+it will be pushed to the following meeting.
 
-If there are multiple items on the agenda, topics will be time-boxed to 30 minutes in order to 
-ensure that, at minimum, we are able to help 2 stakeholders. If topics are too large to be 
-covered in 30 minutes, a team member will reach out to the stakeholder to either reduce the 
-scope or to [open an issue for the team](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request) 
-instead. Stakeholders are welcome to leverage office hours to discuss and define the new issue, 
-which can help reduce async back-and-forth communication in the issue itself. If we are unable 
-to cover a topic on the agenda, it will be pushed to the following meeting.
+Stakeholders are welcome to leverage office hours to discuss and define new issues, 
+which can help reduce async back-and-forth communication in the issue itself. 
 
 #### Example topics
+{:.no_toc}
 
 Office hours are intended for smaller bodies of work, brainstorming, and assistance with 
-data self-service. Since topics are limited to 30 minutes, we ask that stakeholders be mindful 
-of the types of items they add to the agenda. When in doubt, add the topic and we can help scope 
-it. Here are some examples of topics for office hours:
+data self-service. Here are some examples of topics for office hours:
+
+<details markdown="1"><summary>Example Topics</summary>
 
 <details markdown="1"><summary>👍 Example Topic 1: Experiment Setup</summary>
 
@@ -317,24 +378,13 @@ I am going to open an issue for a new analysis.
 
 </details>
 
-Here are some examples of topics _not_ suited for office hours. These topics are too broad to be 
-addressed during office hours and should be captured in an issue. Please note that stakeholders 
-are welcome to come to office hours to discuss the scope and details of the subsequent issue 
-(see example topic 6 above).
-
-<details markdown="1"><summary>👎 Example Topic 7: Net-New Dashboard</summary>
-
-Can you build a dashboard to help me understand invite acceptance rate?
-
 </details>
 
-<details markdown="1"><summary>👎 Example Topic 8: Net-New Analysis</summary>
-
-Can you look into the relationship between stage adoption and retention?
-
-</details>
+If the topic you bring is too broad to be addressed during office hours, we can discuss the 
+work and will redirect you to [open an issue](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request).
 
 #### FAQs
+{:.no_toc}
 
 **What is the difference between topics for office hours and formal data requests?**
 
@@ -350,9 +400,7 @@ is a longer turn-around time given team size and [capacity](/handbook/product/pr
 **What if I don't know if my topic is best suited for office hours or whether I need to open an issue?**
 
 Feel free to ask your analyst partner (if applicable) or in [#data](https://gitlab.slack.com/messages/data/). 
-When in doubt, come to office hours and the team can discuss there. We review agenda items added 
-in advance of office hours, and will flag any topics that are too broad to be covered during 
-office hours.
+When in doubt, come to office hours and the team can discuss there.
 
 ### Slack
 
