@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: “Team Member Enablement”
+title: Team Member Enablement
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
