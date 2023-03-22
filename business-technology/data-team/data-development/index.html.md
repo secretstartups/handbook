@@ -24,6 +24,7 @@ The two approaches are `Ad-Hoc` and `Trusted Data`. `Ad-hoc` development is done
 | Creating own data structures | optional |  N/A | 
 | Visualization using [SiSense](/handbook/business-technology/data-team/platform/sisensecdt) | optional | **required** |
 | Built Using the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw) | optional | optional |
+| Built Using Data from the `COMMON` or `SPECIFIC` schemas | optional | **required** |
 | Registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog/) | N/A | **required** |
 | Follows [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) process | N/A | **required** |
 | Tested using the [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) | N/A | **required** |
