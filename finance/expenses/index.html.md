@@ -40,7 +40,7 @@ Team members are reimbursed on different schedules depending on their location. 
 
 ## <i class="far fa-flag" id="biz-tech-icons"></i> General Guidelines
 
-* Itemized receipts are required for all expenses.  Receipts must contain vendor name, date of purchase, listing of what was purchased, and contains a full breakout of the subtotal and tax amounts.
+* Itemized receipts are required for all expenses.  Receipts must contain vendor name, date of purchase, listing of what was purchased, and contains a full breakout of the subtotal and tax amounts. Snapshot from phone/computer screen of Applications, Card/Bank Statements are not an acceptable form of receipt.
 * Items over 90 days from purchase date will not be reimbursed.
 * The maximum monthly limit to be reimbursed is $5K USD (or local currency equivalent).
 * Expenses that span longer than a month must be submitted on a monthly basis (i.e. although you paid for a year upfront for the internet, you must divide the total by 12 months and submit the cost monthly).
@@ -52,6 +52,7 @@ Team members are reimbursed on different schedules depending on their location. 
    - If an itemized bill is not available , costs will only be reimbursed for the element relating to Internet Access , i.e. if you pay for tv, internet & phone - the invoice should be divided by 3 /# of services and we will pay this value only.
 * Anything submitted outside of these guidelines will be flagged as Out of Policy.
 * All work-related expenses (internet, co-working space, other monthly subscription, etc.) are not reimbursable while on Leave of any kind.
+* For PEO's, as you are aware with Navan, the system will automatically reimburse in the currency of the GitLab organisation you are employed via. To ensure you are reimbursed in the currency in which your PEO needs to be invoiced please submit your expenses in the payment currency you will be invoicing the PEO in. i.e. if you invoice your PEO in USD, then convert the expense into USD prior to submitting the expense report in Navan. This will then allow you to know the exact amount to invoice the PEO every month. If this is not doable then we will convert the currency using the FX rates from Netsuite on the day this expense is transferred to payroll for payment to the PEO.
 * As with any third-party, it is best practice to limit the amount of personal data shared. The inclusion of [personal data](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-definitions) on your receipts is not required to submit an expense, so feel free to redact personal data for increased [privacy](https://about.gitlab.com/handbook/legal/privacy/#what-data-privacy-means).  However, this is not a required step. For those that choose not to redact personal data from your expense receipts, the privacy and security controls in place at Navan [were evaluated](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) and they are designed to adequately protect your information.
 
 ### Out of Policy Transactions
@@ -119,7 +120,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6021 - Professional dues, membership fees</td>
     <td class="tg-0pky">5021 - Professional dues, membership fees COGS</td>
     <td class="tg-0pky">Books, dues &amp; subscriptions</td>
-    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.<br> -  $15 per item per quarter. Expenses higher than this limit require manager's approval and must be attached to the expense transaction.</td>
+    <td class="tg-0pky">Approval required by AP Admin for Navan for all purchases to ensure reasonableness of expense.<br> -  $15 per quarter. Expenses higher than this limit require manager's approval via email. The email should be attached to the expense transaction as an additional receipt.</td>
   </tr>
   <tr>
     <td class="tg-btxf">Business Cards</td>
@@ -127,7 +128,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-btxf">6040 - Office Supplies</td>
     <td class="tg-btxf">5040 - Office Supplies COGS</td>
     <td class="tg-btxf">Office Supplies</td>
-    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo. Refer to the <a href="https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards"><span style="color:#905">Ordering Business Cards</span></a>.<br> -  $15 per item per quarter. Expenses higher than this limit require manager's approval and must be attached to the expense transaction.</td>
+    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo. Refer to the <a href="https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards"><span style="color:#905">Ordering Business Cards</span></a>.<br> -  $15 per quarter. Expenses higher than this limit require manager's approval via email. The email should be attached to the expense transaction as an additional receipt.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Car Rental</td>
@@ -151,7 +152,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6065 - Training &amp; Development</td>
     <td class="tg-0pky">5065 - Training &amp; Development COGS</td>
     <td class="tg-0pky">Conference attendance</td>
-    <td class="tg-0pky">- Needs to have approved G&amp;D Development issue.<br> - AP Admin needs to review expense for approved issue.</td>
+    <td class="tg-0pky">- Needs to have approved G&amp;D Development issue.<br> - AP Admin needs to review expense for approved issue.<br> - No conference expense should be allowed outside of G&D, unless the team member was a speaker for an event.</td>
   </tr>
   <tr>
     <td class="tg-btxf">Equipment</td>
