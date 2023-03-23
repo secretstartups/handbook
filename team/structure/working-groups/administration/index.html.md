@@ -33,10 +33,10 @@ The maintenance and enhancement of GitLab Administration functions has been a sh
 
 ### Exit Criteria 
 
-1. DRIs of the items in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Qz8BCuop-M_s6xF5CEpdHWAjgPAY8NAX3PHLzm90m_4/edit#gid=0) are identified, acknowledged, and documented in the handbook.
-2. DRIs of things related to instance management (upgrade, backup and restore, metrics, performance) and configuration are identified, acknowledged, and documented in the handbook.
+1. Owners of the items in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Qz8BCuop-M_s6xF5CEpdHWAjgPAY8NAX3PHLzm90m_4/edit#gid=0) are identified, acknowledged, and documented in the handbook.
+2. Owners of things related to instance management (upgrade, backup and restore, metrics, performance) and configuration are identified, acknowledged, and documented in the handbook.
 3. A proposal for a new team in case there is a need for certain items of the GitLab Administrator features. There is a chance this is unnecessary if the above two items exhaust all features.
-4. A process of identifying DRIs for future administration features is documented in the handbook.
+4. A process of identifying Owners for future administration features is documented in the handbook.
 
 ## Roles and Responsibilities
 
