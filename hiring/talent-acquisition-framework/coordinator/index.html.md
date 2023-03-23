@@ -315,9 +315,9 @@ It is **important** that the Candidate Experience Specialist notifies the People
 
 ### Next Steps
 
-People Experience Associate will create the onboarding issue and start the [onboarding tasks](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/) no later than one week before the new team member joins. Should a contract not be signed prior to 5 working days from the start date, a new start date will be required.
+People Connect Specialist will create the onboarding issue and start the [onboarding tasks](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/) no later than two weeks before the new team member joins. Should a contract not be signed prior to 10 working days from the start date, a new start date will be required.
 
-For questions about the new team member's onboarding status, you can @mention them in the `#peopleops-confidential` Slack channel.
+For questions about the new team member's onboarding status, you can @mention them in the `#people-connect-ces` Slack channel.
 
 For questions about the new team member's laptop, ping [IT Ops](#it-ops) in Slack. If the questions arise through email, forward the email to itops@gitlab.com and ping IT Ops in #it-ops Slack, and @it-ops-team too due to volume.
 
@@ -335,7 +335,7 @@ Additional process details can be found on the [project README page](https://git
 
 ### Employment Offboarding
 
-When team members depart Gitlab, People Experience will create an offboarding issue. The CES team is responsible for completing tasks under the "@gitlab-com/gl-ces" section. Please note that offboarding issues are time sensitive and should be completed by the due date set on the issue. Completion of these tasks also ensure Gitlab remains compliant. 
+When team members depart Gitlab, People Connect will create an offboarding issue. The CES team is responsible for completing tasks under the "@gitlab-com/gl-ces" section. Please note that offboarding issues are time sensitive and should be completed by the due date set on the issue. Completion of these tasks also ensure Gitlab remains compliant. 
 
 1. Go to [Employment Issues](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues) where the offboarding issues can be found. In the search bar, filter issues by the "CES: To Do" label and work on the issues by due date. Once you open up an offboarding issue, navigate to the "@gitlab-com/gl-ces" section and complete the following steps. 
 
