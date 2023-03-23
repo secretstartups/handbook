@@ -44,7 +44,6 @@ The maintenance and enhancement of GitLab Administration functions has been a sh
 |------------------------------------------|----------------------------------|-----------------------------------------------------------------|
 | Executive Stakeholder                    |                                  |                                                                 |
 | Facilitator/DRI                          |                                  Peter Lu (@plu8) |                                                               Engineering Manager, Distribution:Deploy |
-| Functional Lead                          |                                  |                                                                 |
 | Product Management DRI                   | Dilan Orrino                     |  Product Manager, Distribution                                  |
 | Member                                   | Gosia Ksionek (@mksionek)        |  Backend Engineer, Manage::Authentication & Authorization                      |
 | Member                                   | Christina Lohr (@lohrc)        |  Product Manager, Data Stores::Tenant Scale                      |
