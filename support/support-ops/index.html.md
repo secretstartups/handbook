@@ -167,6 +167,7 @@ team. The current division of responsibilities is:
 |                | [Free user offer processor](https://gitlab.com/gitlab-com/support/support-ops/other-software/free-user-offer-processor) | @jcolyer | @dtragjasi |
 |                | [L&R Internal Request Processor (Global)](https://gitlab.com/gitlab-com/support/support-ops/other-software/lnr-ir-processor)   | @jcolyer | @secole |
 |                | [L&R Internal Request Processor (US Federal)](https://gitlab.com/gitlab-com/support/support-ops/other-software/lnr-ir-processor-us-federal) | @jcolyer | @secole     |
+|                | [1-1-issue-generator](https://gitlab.com/gitlab-com/support/toolbox/1-1-issue-generator/) | @nabeel.bilgrami | @jcolyer |
 |                | [support/team page](https://gitlab.com/gitlab-com/support/team) | Everyone | Everyone |
 | Pagerduty | [Management](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty) | @avilla4 | @jcolyer |
 |           | [Provisioning](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/) | @jcolyer | @lyle |
