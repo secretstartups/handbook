@@ -129,7 +129,7 @@ Each week on Monday, any open MRs and issues still assigned to the previous week
 1. Labels should be created at the **group** level so they can be used in all projects within Marketing group.
     - Labels **should not** be duplicated in individual projects. It creates board/tracking conflicts.
 1. The following are the approved marketing projects, [CMO approval](/handbook/marketing/cmo/) is needed to begin a new project.
-    - [Product Marketing](https://gitlab.com/gitlab-com/marketing/strategic-marketing) (includes PMM, TMM, and Market Insights)
+    - [Product Marketing](https://gitlab.com/gitlab-com/marketing/brand-product-marketing) (includes PMM, TMM, and Market Insights)
     - [Community Relations](https://gitlab.com/gitlab-com/marketing/community-relations)
     - [Digital Marketing Programs](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing)
     - [Demand Generation](https://gitlab.com/gitlab-com/marketing/demand-generation)
