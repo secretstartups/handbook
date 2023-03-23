@@ -10,61 +10,96 @@ description: "The Tenant Scale Group is the direct outcome of applying our value
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Vision
+## About
 
-The Tenant Scale group (formerly Sharding group or Pods group) is focused on a long-term horizontal scaling solution for GitLab. There are multiple proposals and ideas to increase horizontal scalability via solutions such as database sharding and tenant isolation. The charter of this group is to explore, iterate on, validate, and lead implementation of proposals to provide a solution to accommodate Gitlab.com's daily-active user growth.
+The Tenant Scale group (formerly Pods or Sharding group) is part of the [Data
+Stores stage](/handbook/engineering/development/enablement/data_stores/). We
+offer support for groups, projects, and user profiles within our product, but
+our main focus is a long-term horizontal scaling solution for GitLab.
 
-As we brainstorm and iterate on horizontal scalability proposals, we will provide implementation details, prototypes, metrics, demos and documentation to support our hypotheses and outcomes.
+This page covers processes and information specific to the Tenant Scale group.
+See also the [direction page](/direction/enablement/tenant-scale/) and the
+[features we support per category](/handbook/product/categories/features/#data-storestenant-scale-group).
 
-## Goals
+### Contact
+
+To get in touch with us, it's best to create an issue in the relevant
+project (typically [GitLab](https://gitlab.com/gitlab-org/gitlab)) and add the
+`~"group::tenant scale"` label, along with any other appropriate labels.
+
+For urgent items, feel free to use the Slack channel (internal): [#g_tenant-scale](https://gitlab.slack.com/archives/g_tenant-scale).
+
+### Vision
+
+There are multiple proposals and ideas to increase horizontal scalability via
+solutions such as database sharding and tenant isolation. The objective of this
+group is to explore, iterate on, validate, and lead implementation of proposals
+to provide a solution to accommodate GitLab.com's daily-active user growth.
+
+As we brainstorm and iterate on horizontal scalability proposals, we will
+provide implementation details, prototypes, metrics, demos, and documentation to
+support our hypotheses and outcomes.
+
+### Goals
 
 The executive summary goals for the Tenant Scale group include:
- 
+
 - Support GitLab.com's daily-active user growth
 - Do not allow a problem with any given data store to affect all users
 - Minimize or eliminate complexity for our self-managed use-case
 
-## Team Members
+### Team Members
 
 The following people are permanent members of the Tenant Scale group:
 
 <%= direct_team(manager_slug: 'arturo-herrero') %>
 
-## Stable Counterparts
+### Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
+
 <table>
-<thead>
-<tr>
-<th>Person</th>
-<th>Role</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Christina Lohr</td>
-<td><a href="/job-families/product/product-manager/">Senior Product Manager, Tenant Scale</a></td>
-</tr>
-<tr>
-<td>Mike Nichols</td>
-<td><a href="/job-families/product/product-designer/">Staff Product Designer, Tenant Scale</a></td>
-</tr>
-<tr>
-<td>Amelia Bauerly</td>
-<td><a href="/job-families/product/product-designer/">Senior Product Designer, Tenant Scale</a></td>
-</tr>
-<tr>
-<td>Lorena Ciutacu</td>
-<td><a href="/job-families/product/technical-writer/">Technical Writer, Tenant Scale</a></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Person</th>
+      <th>Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Christina Lohr</td>
+      <td><a href="/job-families/product/product-manager/">Senior Product Manager, Tenant Scale</a></td>
+    </tr>
+    <tr>
+      <td>Mike Nichols</td>
+      <td><a href="/job-families/product/product-designer/">Staff Product Designer, Tenant Scale</a></td>
+    </tr>
+    <tr>
+      <td>Amelia Bauerly</td>
+      <td><a href="/job-families/product/product-designer/">Senior Product Designer, Tenant Scale</a></td>
+    </tr>
+    <tr>
+      <td>Lorena Ciutacu</td>
+      <td><a href="/job-families/product/technical-writer/">Technical Writer, Tenant Scale</a></td>
+    </tr>
+  </tbody>
 </table>
 
+### Team IC Gearing
 
-## Team IC Gearing
-**Exception Ratio**: 1 Distinguished Engineer, multiple Staff Engineers : Team
+**Exception Ratio**: 1 Distinguished Engineer, multiple Staff Engineers.
 
-**Justification**: The Tenant Scale group was formed (originally as the Sharding group, later as the Pods group) to implement a sharding solution to solve our database limitations as outlined by the [Database Scalability Working Group](https://about.gitlab.com/company/team/structure/working-groups/database-scalability/). The project requires in-depth knowledge of PostgreSQL as well as into the application itself. To borrow some phrasing from the working group: _we recognize this problem cannot be solved to meet our needs and requirements if we limit ourselves to the database: we must consider careful changes in the application to make it a reality_. With that being said, the DRI had to be selective to ensure a small team of engineers can achieve the above requirements to cover every corner of our database and codebase. All candidates were selected based on the required skills profile for the success of the project, to make the best mix and match by covering a spectrum of interests with a minimal group. There have also been multiple Staff engineers borrowed from other teams at various times to execute on these goals. Going forward, we anticipate the team will continue to require the expertise of multiple staff+ level engineers to accomplish our horizontal scalability goals. 
+**Justification**: The Tenant Scale group was formed to implement a sharding
+solution to solve our database limitations as outlined by the [Database
+Scalability Working Group](https://about.gitlab.com/company/team/structure/working-groups/database-scalability/).
+The project requires deep knowledge of both PostgreSQL and the application
+itself. As the working group has noted, _this problem cannot be solved to meet
+our needs and requirements if we limit ourselves to the database: we must
+consider careful changes in the application to make it a reality_. Given the
+complexity of the task, we have carefully crafted a team with a mix of interests
+and expertise to achieve success. We also anticipate the team will continue to
+require the expertise of multiple staff+ level engineers to accomplish our
+horizontal scalability goals.
 
 ## Meetings
 Where we can we follow the GitLab values and communicate asynchronously. However, there have a few important recurring meetings.  Please reach out to the [#g_tenant-scale](https://gitlab.slack.com/archives/C01TQ838Y3T) Slack channel if you'd like to be invited.
