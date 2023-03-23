@@ -150,7 +150,11 @@ Sanity or Full QA pipeline may be triggered on demand in [staging-ref](https://o
 
 Monitoring implementation was done in ([epic#594](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/594)). Documentation can be found in the [runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/staging-ref/get-monitoring-setup.md).
 
-Dashboards for Staging Ref can be found in Grafana under the [staging-ref folder](https://dashboards.gitlab.net/d/Fyic5Wanz/server-performance?orgId=1). Other existing dashboards may also show Staging Ref information if you select `environment=gstg-ref`. If you need some specific dashboard or some existing dashboard doesn't work please reach out to Infrastructure team Slack channel or in [`#new-staging-for-mixed-deployments`](https://gitlab.slack.com/archives/C02KYEG09QS) channel.
+Dashboards for Staging Ref can be found in Grafana under the [staging-ref folder](https://dashboards.gitlab.net/d/Fyic5Wanz/server-performance?orgId=1). There are other existing dashboards which may also show Staging Ref information if you select `environment=gstg-ref`.
+
+The Geo secondary site is running Grafana at https://geo.staging-ref.gitlab.com/-/grafana. Credentials can be found in `EU site monitoring` section in ["Staging Ref credentials" in 1Password](https://start.1password.com/open/i?a=LKATQYUATRBRDHRRABEBH4RJ5Y&v=6gq44ckmq23vqk5poqunurdgay&i=joq3ryhuirbx3dr66oo3cju4xq&h=gitlab.1password.com).
+
+If you need a specific dashboard or an existing dashboard does not work please reach out to [`#staging-ref`](https://gitlab.slack.com/archives/C02LN0K1N3Y) channel.
 
 #### Upgrade paid plans
 
