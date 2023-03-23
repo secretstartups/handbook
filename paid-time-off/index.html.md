@@ -148,7 +148,9 @@ In keeping with our values of [CREDIT](/handbook/values/), we have crafted the f
 
 **Continuous Time Away (in excess of 5 days or more), or Non-Continuous if related to the same illness:**
 
-Whenever allowed by law, GitLab's Sick Time Policy will supplement a team member's pay up to 100% of their regular salary for up to 25 working days of continuous absences, and run concurrently with any statutory Sick Leave policies team members are eligible for.  Eligibility is calculated on a rolling 12-month period, and only pertains to continuous absences when team members need to be away from work for 5 or more continuous days or non-continuous if related to the same illness.  
+Whenever allowed by law, GitLab's Sick Time Policy will supplement a team member's pay up to 100% of their regular salary for up to 25 working days of continuous absences, and run concurrently with any statutory Sick Leave policies team members are eligible for.  Eligibility is calculated on a rolling 12-month period, and only pertains to continuous absences when team members need to be away from work for 5 or more continuous days or non-continuous if related to the same illness.
+
+We understand some team members may need additional time away to care for a sick family member, but many countries do not offer statutory family care leave and/or pay when needing to care for a sick family member.  If a team member is not eligible for statutory family care leave or pay in their country, GitLab will provide an additional 25 working days of sick time to care for their family member. This means, a team member in a country that does not provide statutory family care leave and/or pay is eligible to receive 25 working days of sick leave for their own condition, plus an additional 25 working days of sick leave to care for an ill family member.  Eligibility is contingent on providing evidence, in accordance with local requirements, supporting the need for Sick Leave to care for their ill family member.  (see medical certificate/doctor's note below for more information)
 
 **Non-Continuous Absences or absences less than 5 continuous days:**
 
