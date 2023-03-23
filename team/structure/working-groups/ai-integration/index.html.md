@@ -15,10 +15,10 @@ canonical_path: "/company/team/structure/working-groups/api-vision/"
 
 | Property        | Value                                                                                                                                             |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Date Created    | 2022-02-07                                                                                                                                        |
+| Date Created    | 2022-03-23                                                                                                                                        |
 | Target End Date | TBD                                                                                                                                               |
-| Slack           | [#wg_ai_integration]() (only accessible from within the company)                                         |
-| Google Doc      | [Working Group Agenda]() (only accessible from within the company) |
+| Slack           | [#wg_ai_integration](https://gitlab.slack.com/archives/C04UL8HMW0L) (only accessible from within the company)                                         |
+| Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/19jVbWVYUPW3m7d2SzsXa2zXIAW7pSb2tdQ-AXWzT_DE/edit) (only accessible from within the company) |
 | Issue Board     | [Issue Board]()                                                |
 | Overview & Status | See [Exit Criteria](#exit-criteria) below |
 
@@ -68,6 +68,7 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Executive Stakeholder   | @timzallmann    | [Tim Zallmann](https://about.gitlab.com/company/team/#timzallmann)       | Senior Director of Engineering, Dev                             |
 | Facilitator             | @tmccaslin  | [Taylor McCaslin](https://about.gitlab.com/company/team/#tmccaslin)   | Group Manager, Product - Data Science                    |
 | Facilitator             | @wayne  | [Wayne Haber](https://about.gitlab.com/company/team/#wayne)   | Director of Engineering |
+| Functional Lead - AI Assisted      | @mray  | [Monmayuri Ray](https://gitlab.com/mray2020)   | Engineering Manager AI Assisted |
 | Functional Lead - UX             | @jmandell  | [Justin Mandell](https://about.gitlab.com/company/team/#jmandell)   | Product Design Manager: Configure, Monitor, Secure & Growth |
 | Functional Lead - Legal             | @m_taylor  | [Matthew Taylor](https://about.gitlab.com/company/team/#m_taylor)   | Sr. Director of Legal |
 | Product representative             | @mushakov | [Melissa Ushakov](https://about.gitlab.com/company/team/#mushakov)   | Group Manager, Product - Plan |
