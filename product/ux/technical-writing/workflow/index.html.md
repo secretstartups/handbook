@@ -453,7 +453,7 @@ Also include:
 - A task checklist or next step to deliver an MVC. For more information, see [Issue state](/handbook/product/product-processes/#issue-state).
 - Labels: 
   - `tw::triaged`
-  - (Optional, if the issue is suitable for a community contributor) `Seeking community contributions`, `good for new contributors`
+  - (Optional, if the issue is suitable for a community contributor) [`Seeking community contributions`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Seeking%20community%20contributions&first_page_size=50), [`quick win`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=quick%20win&first_page_size=50)
 
 If an issue requires input from the development team before a Technical Writer can start work, it should follow the stage and group's issue lifecycle. For an example of an issue lifecyle, take a look at [Plan Stage Issues](/handbook/engineering/development/dev/plan/#issues).
 
