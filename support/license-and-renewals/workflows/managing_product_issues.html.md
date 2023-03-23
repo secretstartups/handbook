@@ -37,9 +37,11 @@ this workflow.
       template. A Fulfillment PM will review the request and move it to the
       relevant team and trackers if they accept it.
 1. Add the appropriate labels to the issue or epic:
-   - Add `Support Priority::Categorize` to indicate that GitLab Support wants to see this
+    1. Add `Support Priority::Categorize` to indicate that GitLab Support wants to see this
      addressed
-   - If it is impacting a customer's ability to use the GitLab licensing
+    1. Add `Support Interest` to ensure inclusion of issues and epics on various product boards
+     and reports that are not priority-based.
+    1. If it is impacting a customer's ability to use the GitLab licensing
      functionality successfully, then add `Customer::Impact` and `UX`
 
 - For general guidance on adding comments and required labels for issues, please
