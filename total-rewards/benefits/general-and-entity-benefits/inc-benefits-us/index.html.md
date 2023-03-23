@@ -489,7 +489,7 @@ Under the New York Life Group Benefit, US Team Members also have access to the N
 * Financial Consultations: a free 30 minute consultation and a 25% discount on tax planning and preparation 
 * An advocate that can help assess your needs, develop solutions, direct you to resources and more! 
 
-For more information and how to access these benefits, please see the [EAP flyer](https://drive.google.com/file/d/181Qgz8Iwsifztwan8DxVvC2X5Mgis00m/view)
+For more information and how to access these benefits, please see the [EAP flyer](https://drive.google.com/file/d/1zidnI4vsFjHuul79zyJqGDEmHirgSAA8/view?usp=sharing)
  
 ### Group Long-Term and Short-Term Disability Insurance
  
