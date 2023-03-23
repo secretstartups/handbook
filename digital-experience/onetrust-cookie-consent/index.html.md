@@ -13,9 +13,9 @@ title: "OneTrust Cookie Consent Implementation"
 
 ## Why OneTrust?
 
-In Q3, the Digital Experience team is implementing [OneTrust](https://www.onetrust.com/products/cookie-consent/) as a tool to replace CookieBot for cookie consent. 
+The Digital Experience team uses [OneTrust](https://www.onetrust.com/products/cookie-consent/) as a tool for cookie consent. 
 
-This implementation will be on `about.gitlab.com` specifically, but if added to the top-level `gitlab.com` domain it will propagate down to all subdomains. This allows visitors to any GitLab domain to configure their cookie preferences once across all GitLab tools. 
+This implementation is on `about.gitlab.com` specifically, but if added to the top-level `gitlab.com` domain it will propagate down to all subdomains. This allows visitors to any GitLab domain to configure their cookie preferences once across all GitLab tools. 
 
 
 ## The OneTrust Tool
@@ -26,7 +26,7 @@ Within OneTrust, we have access to a variety of controls:
 - The test scripts and production scripts that should be placed in the `<head>` of the GitLab website
 - The design of the banner and modal (button colors, logo)
 
-To request access to the OneTrust tool, please reach out to #mktgops in slack
+To request access to the OneTrust tool, please reach out to #mktgops in slack. Note that we cannot change regions or types of consent without legal review. 
 
 ## UX
 
@@ -34,7 +34,7 @@ The look of the modal and banner are currently managed within OneTrust. There ar
 
 Note: There are legal requirements around having the banner appear for certain regions, and having those regions' cookies set too "off" by default. 
 
-Any changes to the UX and other configurations should be published within OneTrust by going to _OneTrust > Cookie Compliance > Scripts > gitlab.com > Publish_. The changes could take up to 4 hours to appear. After clicking publish, we also have the option of re-triggering the cooke consent banners even if viewers have already dismissed it. 
+Any changes to the UX and other configurations should be published within OneTrust by going to _OneTrust > Cookie Compliance > Scripts > gitlab.com > Publish_. The changes could take up to 4 hours to appear. After clicking publish, we also have the option of re-triggering the cooke consent banners even if viewers have already dismissed it. Please do not make changes to the design of the banner or modal without Digital Experience UX team review.
 
 
 ## Implementation
