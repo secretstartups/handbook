@@ -27,7 +27,7 @@ Further details can be found in the [job family description](/job-families/secur
 ### Team Members
 The Security Logging Team is part of the Security Engineering sub-department. [See GitLab's organizational chart and meet our team members](https://comp-calculator.gitlab.net/org_chart).
 
-## Responsibilities
+## Team Responsibilities
 The Security Logging Team is responsible for security focused logging, monitoring, and alerting.
 
 ### What we are responsible for
@@ -122,6 +122,54 @@ To start discussing a new design:
 1. [Create a new issue](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security/team-charter/-/issues/new?issuable_template=design_doc) in the InfraSec Team Charter repo
 1. Select the `design_doc` template
 1. Fill the data as requested
+
+## Security Logging Program Roles and Responsibilities  
+The following roles and responsibilities are specific to the management and execution of the Security Logging Program which is overall the responsibilty of the Security Engineering sub-department.
+
+### Security Logging is responsible for:
+- Ownership of, management, and maintenance of our SIEM
+- Coordinating and executing log source ingestion
+- Overall management and coordination of the security logging program
+- Ownership of the to be developed Security Logging Standard
+- Subject matter experts with regards to the operation and management of the SIEM
+- The data movement and archive of security logging data currently held in Panther
+- Capacity planning and forecasting of licensing and infrastructure costs, as a shared responsibility with InfraSec
+
+### AppSec is responsible for:
+- Working closely with Development to ensure the Security Logging Standard is adopted and followed
+- Advising SecLogging when log formats will change, prior to the change occurring, if known
+- Advising SIRT on any log sources from the application that they may be interested in and recommend new high-value detection considerations to SIRT for new product features or capabilities
+- Helping to bridge the gap between the Security Logging Team and the software engineering teams
+- Helping to identify logging gaps in the application and proposing solutions to close the gaps
+- Aiding and guiding engineering teams that design, develop, or deploy something new on what to log and how to get the logs into the SIEM. This includes logs that SIRT needs to complete investigations.
+
+### InfraSec is responsible for:
+- Working closely with Infrastructure to ensure the Security Logging Standard is adopted and followed
+- Advising SecLogging when log formats will change, prior to the change occurring, if known
+- Advising SIRT on any log sources from the infrastructure that they may be interested in and recommending new high-value detection considerations to SIRT for new product features or capabilities
+- Helping to bridge the gap between the Security Logging Team and the Infrastructure teams
+- Helping to identify logging gaps in the infrastructure and proposing solutions to close the gaps
+- Aiding and guiding engineering teams that design, develop, or deploy something new on what to log and how to get the logs into the SIEM. This includes logs that SIRT needs to complete investigations.
+Capacity planning and forecasting of licensing and infrastructure costs, as a shared responsibility with Security Logging
+
+### SIRT is responsible for:
+- The management and ownership of Panther until it is decommissioned
+- Ensuring that they have the logging data needed to effectively and efficiently execute their responsibilities as incident responders
+- Documenting gaps in logs and using the prioritization procedure to ensure prioritization meets the standards set by the procedure
+- Configuring automation, alerting, and monitoring specific to their needs for incident response
+- Guiding and informing the InfraSec and AppSec teams on logging data critical to SIRT through collaboration and maintenance of the development of the Security Logging Standard
+- Reporting to the Security Logging Team when logs:
+  - Are no longer needed
+  - Are incomplete
+  - Need format improvements or corrections
+  - Require more verbosity
+  - Have efficiency opportunities (e.g. we only use a small portion of sizable logs)
+
+### Everyone else across Security is responsible for:
+- Making requests of the Security Logging Team for logs that you need to execute your responsibilities, we will have a documented process for this soon
+- Submitting issues to SIRT when you have detection suggestions where we have a high return on investment
+
+
 
 ## Additional Resources
 
