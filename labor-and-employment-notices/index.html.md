@@ -35,7 +35,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [State of Alaska Whistleblower Act](https://doa.alaska.gov/dop/fileadmin/StatewidePlanning/pdf/WhistleblowerActPoster.pdf)
 
 ### Arizona
-* [Constructive Discharge Notice](https://hr.az.gov/sites/default/files/Notification_of_Constructive_Discharge_Poster.pdf)
+* [Constructive Discharge Notice](https://hr.az.gov/sites/default/files/2022-06/Notification_of_Constructive_Discharge_Poster.pdf)
 * [Discrimination is Prohibited in Employment](https://www.azag.gov/sites/default/files/publications/2018-07/Discrimination_Brochure.pdf)
 * [Earned Paid Sick Time](https://www.azica.gov/sites/default/files/AZ%20Earned%20Paid%20Sick%20Time%20Poster%202017.pdf)
 * [Employee Safety and Health Protection](https://www.ica.state.az.us/sites/default/files/ADOSH_Poster_WorkplaceSafetyBilingual.pdf)
