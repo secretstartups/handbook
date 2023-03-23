@@ -21,7 +21,7 @@ The Code Contributor Program Manager is a [grade 6](/handbook/total-rewards/comp
 * Manage community contributions including triaging, monitoring, and escalating merge requests.
 * Organize contributor-focused events such as hackathons, contributor summit, and industry conferences.
 * Recognize people in the community, for example with badges, swag, spotlights, and awards.
-* Monitor and participate in community channels such as [Gitter](https://gitter.im/gitlabhq/contributors), [GitLab Forum](https://forum.gitlab.com/),  [reddit](https://www.reddit.com/r/gitlab/), and [CrowdIn](https://crowdin.com/project/gitlab-ee/discussions).
+* Monitor and participate in community channels such as [Discord](https://discord.gg/gitlab), [GitLab Forum](https://forum.gitlab.com/),  [reddit](https://www.reddit.com/r/gitlab/), and [CrowdIn](https://crowdin.com/project/gitlab-ee/discussions).
 
 ### Requirements
 
