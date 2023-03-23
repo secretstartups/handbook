@@ -426,7 +426,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday October 4 | **Available** | DRI | Key Review Date |
 | Thursday October 5 | **Available** | DRI | Key Review Date |
 | Tuesday October 10 | Development | Christopher Lefelhocz | September 27 |
-| Wednesday October 11 | **Available** | DRI | Key Review Date |
+| Wednesday October 11 | IT | Nabitha Rao | October 5 |
 | Thursday October 12 | Infrastructure | Steve Loyd | September 28 |
 | Tuesday October 17 | Support | Tom Cooney | September 28 |
 | Wednesday October 18 | Quality| Mek Stittri | September 28 |
@@ -446,7 +446,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday November 28 | People | Wendy Barnes | November 14 |
 | Wednesday November 29 | **Available** | DRI | Key Review Date |
 | Thursday November 30 | Support | Tom Cooney | November 8 |
-| December 5 | IT | Nabitha Rao | November 28 |
+| Wednesday January 31 | IT | Nabitha Rao | January 23 |
 
 ## Examples of Past Group Conversations
 
