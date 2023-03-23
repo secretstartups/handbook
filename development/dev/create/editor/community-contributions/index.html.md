@@ -98,7 +98,7 @@ Participants of the GitLab Hackathon have an incentive to create a lot of MR's d
 **How can we improve the Editor Group's issue presence during Hackathon's?**
 
 - [Write issues and epics with the wider community as the primary audience](#treat-wider-community-as-primary-audience).
-- Look for opportunities to scope issues such that applying the `Hackathon - Candidate` or the `good for new contributors` label is appropriate.
+- Look for opportunities to scope issues such that applying the [`quick win`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=quick%20win&first_page_size=50) label is appropriate.
 - Organize large refactorings into a single epic with clear instructions and an issue for each directory / file ([example](https://gitlab.com/groups/gitlab-org/-/epics/895)).
 
 **This seems like a lot of work. What do we expect to gain?**

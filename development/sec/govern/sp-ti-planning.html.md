@@ -106,7 +106,7 @@ The goal of the refinement process is to ensure an issue is ready to be worked o
 1. Encourage Community Contributions.
    * If the scope of the issue is well defined and there are no dependencies, consider adding
      [contribution Labels](/handbook/marketing/community-relations/contributor-success/community-contributors-workflows.html#labels).
-   * The `~"good for new contributors"` label is particularly helpful but note that you would
+   * The `~"quick win"` label is particularly helpful but note that you would
      be [volunteering to mentor new contributors](/handbook/marketing/community-relations/contributor-success/community-contributors-workflows.html#issues-for-new-contributors).
 1. Refinement Review.
    * If the weight you've assigned to the issue is 1, move the issue directly to `~"workflow::ready for development"`.
