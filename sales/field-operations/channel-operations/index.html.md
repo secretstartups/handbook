@@ -23,7 +23,7 @@ description: "This page serves as the Partner Operations team page and includes 
 - Niles Jamshaid - Senior Manager, Partner Operations
 - Dennis Zeissner - Senior Partner Operations Analyst
 - Nick Scala - Director, Channel Operations
-- Roisin Ryan - Sr. Partner Operations Manager 
+- Roisin Ryan - Senior Partner Operations Manager 
 - Bhano Pippala - Channel Operations Analyst
 - Jeff Cho - Channel Operations Analyst
 - Morgan Fuller - Channel Operations Analyst
