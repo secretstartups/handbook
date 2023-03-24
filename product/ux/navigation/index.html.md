@@ -32,7 +32,7 @@ We do not add new items in order to:
 
 ## How to propose a change that impacts navigation
 
-Note: We are not adding top-level navigation changes until 6 months after our new navigation launches.
+**Note: We are not considering any top-level navigation changes to the Project or Group sidebar until 6 months after our new navigation launches.**
 
 1. Before opening an issue, review the [elements and patterns for navigation in Pajamas](https://design.gitlab.com/patterns/navigation). It is worth checking the [direction page](/direction/manage/foundations/navigation_settings/) to see how your proposal aligns or conflicts with upcoming changes. 
 1. If you are ready to propose a navigation change, use this [issue template](https://gitlab.com/gitlab-org/gitlab/-/issues\new?issuable_template=Navigation%20Proposals) to kick off a discussion with the `group::foundations` team. 
