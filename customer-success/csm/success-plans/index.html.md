@@ -22,19 +22,88 @@ These are some of the reasons we use a success plan:
 
 - Document the customer’s desired outcomes (e.g., KPIs, problems to solve, benefits to achieve)
 - Align GitLab’s product adoption plan to customer outcomes
-- Define key activity (e.g., change management, training) milestones and timeframes for a successful adoption journey
+- Define key activity (e.g. change management, training) milestones and timeframes for a successful adoption journey
 - Develop shared understanding and commitment to the plan between GitLab and customer stakeholders
-- Serve as baseline to [track delivery of outcomes and adoption](/handbook/customer-success/csm/stage-adoption/)
-- Provide a foundation for the [CSM cadence call](/handbook/customer-success/csm/cadence-calls/) to give relevance to each touchpoint, and lead outcomes-based discussions such as the [Executive Business Reviews](/handbook/customer-success/csm/ebr/)
+- Serve as foundation for measurable outcomes within an [Executive Business Review](/handbook/customer-success/csm/ebr/)
+- Provide a structure for tracking work within the [CSM cadence call](/handbook/customer-success/csm/cadence-calls/)
 
-Success plans are another facet of [account engagement](/handbook/customer-success/csm/engagement/) and are separate from collaboration projects. The success plan is meant for articulating and tracking high-level strategic business objectives, while collaboration projects are best used for technical and tactical initiatives and to act as the primary communication method besides cadence calls on a [day-to-day basis](/handbook/customer-success/csm/gainsight/#gainsight-workflow) on issues to solve.
+Success plans are another facet of [account engagement](/handbook/customer-success/csm/engagement/) and are separate from collaboration projects. The success plan is meant for articulating and tracking high-level strategic business objectives, while collaboration projects are best used for async communication outside of cadence calls, particularly for issues where collaboration with cross-functional groups (e.g. Product & Engineering) is necessary.
 
-As you read through this page, you'll likely notice that the success plan is continually described as a [living document](/#success-plans-are-living-documents); this is intentional! A success plan is **not** a "set it and forget it" exercise. It should be something that the CSM maintains on an ongoing basis and [iterates](/handbook/values/#iteration) on as they learn new information.
+As you read through this page, you'll likely notice the success plan described as a [living document](/#success-plans-are-living-documents); this is intentional! A success plan is **not** a "set it and forget it" exercise. It should be something that the CSM maintains on an ongoing basis and [iterates](/handbook/values/#iteration) on as they learn new information.
 
 ### Success Plan Training Certification 
 Follow this link for the Success Plan certification on LevelUp: [Click here](https://levelup.gitlab.com/courses/elearning-tam-building-success-plans)
 
-## Success Plan Prerequisites
+## Components of a Success Plan
+
+A success plan must contain:
+
+  1. A summary of the customer's business
+  1. At least one desired business outcome
+  1. Product adoption milestones needed to achieve the outcome(s)
+  1. Measures of success for each milestone (i.e. baseline/current state and desired state).
+  1. Estimated dates for each milestone
+
+### Strategy
+
+The strategy section should capture the customer's desired business outcomes, and what GitLab is doing in realizing them.
+
+Examples:
+  1. *Improved developer productivity*
+  1. *Reduced total cost of ownership*
+  1. *Improved security posture*
+
+Additional resources that may be helpful in discovering your customer's business outcomes are:
+  1. [GitLab's Value Framework](https://docs.google.com/document/d/1Jb5suvFEXTnbJRR5PPzMKxvgyeUTyJ5A5mS1losFueI/edit) (Internal GitLab)
+
+### Highlights
+
+Customer highlights is a high-level overview of the customer and other contextual details. This can include the following suggested headings:
+
+- The business the customer is in
+- Major focuses, interests, pain points, etc.
+- Key customer personas [and our relationship with them]
+- Risk factors to their continued relationship with us
+
+It can also be valuable to capture significant past outcomes in this section, for example:
+
+#### Achievements (Optional)
+
+  - *20xx-xx-xx - Customer migrated 100 projects from legacy SCM tool*
+  - *20xx-xx-xx - Customer upgraded to Ultimate in pursuit of increased governance and compliance*
+  - *20xx-xx-xx - CSM conducted a workshop with ### attendees which qualified an opportunity for xyz*
+
+Reviewing the highlights, the reader should be able to quickly understand the customer's business, why they originally bought GitLab/upgraded to Ultimate and any _significant_ achievements to date
+
+### Objectives
+
+Well-crafted objectives provide an actionable plan towards a customer's desired outcome. They should resonate with both GitLab and the customer.
+
+Each objective CTA should be clearly related to a customer's business outcome (the "why"). This is ideally in the title, or within the CTA's comments.
+
+Objectives should capture:
+  1. Product adoption milestones (the "what", e.g. implement CI templates, migrate to GitLab package registry, introduce secret detection), with clear DRIs
+  1. Timeframe (in the CTA or associated task's due dates)
+  1. Success criteria outlining the customer's desired state (with measures of both current state & desired state). It's ok if a customer doesn't know, and finding a baseline measure becomes a task within the objective. Start by asking.
+
+#### Example 1:
+  ![Example Success Plan Objective](/handbook/customer-success/csm/success-plans/success_plan_objective.png "Example Success Plan Objective")
+
+Within a success plan objective (or "CTA"), tasks can be used to further decompose the plan, assign customer DRIs and provide more timeline detail.
+
+#### Example 2:
+  ![Example Success Plan Task](/handbook/customer-success/csm/success-plans/success_plan_cta_task_example.png "Example Success Plan Task")
+
+With these three elements, you can develop an objective that allows you to measure and report on progress towards outcomes throughout your book in a scalable way.
+
+#### Objective Categories
+
+There are five types of objectives: Stage Adoption and ROI.
+
+- **Stage Adoption** objectives are intended to be used only when the end result of the objective is [measurable adoption of a GitLab product stage](/handbook/customer-success/csm/stage-adoption/). For example, if you are going to be driving adoption of GitLab CI (Verify stage) to achieve the stated business outcome, you would categorize the objective as Stage Adoption.
+- **ROI** objectives are essentially for anything that isn't explicitly stage adoption that ties to the customer's positive business outcomes and continued value-add from GitLab. Examples include implementing HA architecture, or enabling integration with existing tools.
+
+## Building a Success Plan
 
 ### Understand the Customer’s Motivation
 
@@ -127,6 +196,16 @@ Tasks will affect the overall completion of the objective, and provide more gran
 
 Finally, next to the success plan due date, change the "Status" of the success plan from "Draft" to "Active". Don't forget this step, as it determines if your success plan with have a green [health score](/handbook/customer-success/csm/health-score-triage/) and if your objectives will show up in your cockpit.
 
+## Manager Approval Process
+
+On a bi-annual basis (once in the first half of the fiscal year February 1 through July 31, and again in the second half ending January 31), success plans must be manager-reviewed and approved via a checkbox within the gainsight interface.
+
+Managers are to coach each CSM they work with to ensure that all required [components](#components-of-a-success-plan) are present, with each plan having at least one active objective.
+
+Once the manager and CSM reach agreement that the success plan is in a good state, the manager should click the appropriate checkbox as shown below:
+
+![Example Success Plan Task](/handbook/customer-success/csm/success-plans/example-approval-checkbox.png "Example Success Plan Task")
+
 ## Types of Success Plans
 
 ### ROI Success Plan
@@ -136,79 +215,6 @@ The ROI success plan is the "public-facing" plan that we develop and maintain in
 #### Share a ROI Success Plan
 
 To share a ROI Success Plan, click the link icon next to the success plan due date and status, search for the users you want to share it with, then click "Preview and Send" and send the email. Alternatively, you can export the success plan by clicking "Export" at the top right.
-
-#### Account Plan 
-
-The [account plan](/handbook/sales/account-planning/) is owned by the SAE or AE on an account, with the CSM and SA as contributors.  The account plan focuses on the account team's strategy to win, retain, and expand the partnership and business relationship with key customers
-
-## Components of a Success Plan
-
-A CSM-led success plan should contain:
-
-  1. A summary of the customer's business
-  1. At least one desired business outcome
-  1. Product adoption milestones needed to achieve the outcome(s)
-  1. Measures of success for each milestone (i.e. baseline/current state and desired state).
-  1. Estimated dates for each milestone
-
-### Strategy
-
-The strategy section should capture the customer's desired business outcomes, and what GitLab is doing in realizing them.
-
-Examples:
-  1. *Improved developer productivity*
-  1. *Reduced total cost of ownership*
-  1. *Improved security posture*
-
-Additional resources that may be helpful in discovering your customer's business outcomes are:
-  1. [GitLab's Value Framework](https://docs.google.com/document/d/1Jb5suvFEXTnbJRR5PPzMKxvgyeUTyJ5A5mS1losFueI/edit) (Internal GitLab)
-
-### Highlights
-
-Customer highlights is a high-level overview of the customer and other contextual details. This can include the following suggested headings:
-
-- The business the customer is in
-- Major focuses, interests, pain points, etc.
-- Key customer personas [and our relationship with them]
-- Risk factors to their continued relationship with us
-
-It can also be valuable to capture significant past outcomes in this section, for example:
-
-#### Achievements
-
-  - *20xx-xx-xx - Customer migrated 100 projects from legacy SCM tool*
-  - *20xx-xx-xx - Customer upgraded to Ultimate in pursuit of increased governance and compliance*
-  - *20xx-xx-xx - CSM conducted a workshop with ### attendees which qualified an opportunity for xyz*
-
-Reviewing the highlights, the reader should be able to quickly understand the customer's business, why they originally bought GitLab/upgraded to Ultimate and any _significant_ achievements to date
-
-### Objectives
-
-Well-crafted objectives provide an actionable plan towards a customer's desired outcome. They should resonate with both GitLab and the customer.
-
-Each objective CTA should be clearly related to a customer's business outcome (the "why"). This is ideally in the title, or within the CTA's comments.
-
-Objectives should capture:
-  1. Product adoption milestones (the "what", e.g. implement CI templates, migrate to GitLab package registry, introduce secret detection), with clear DRIs
-  1. Timeframe (in the CTA or associated task's due dates)
-  1. Success criteria outlining the customer's desired state (with measures of both current state & desired state). It's ok if a customer doesn't know, and finding a baseline measure becomes a task within the objective. Start by asking.
-
-#### Example 1:
-  ![Example Success Plan Objective](/handbook/customer-success/csm/success-plans/success_plan_objective.png "Example Success Plan Objective")
-
-Within a success plan objective (or "CTA"), tasks can be used to further decompose the plan, assign customer DRIs and provide more timeline detail.
-
-#### Example 2:
-  ![Example Success Plan Task](/handbook/customer-success/csm/success-plans/success_plan_cta_task_example.png "Example Success Plan Task")
-
-With these three elements, you can develop an objective that allows you to measure and report on progress towards outcomes throughout your book in a scalable way.
-
-#### Objective Categories
-
-There are two types of objectives: Stage Adoption and ROI.
-
-- **Stage Adoption** objectives are intended to be used only when the end result of the objective is [measurable adoption of a GitLab product stage](/handbook/customer-success/csm/stage-adoption/). For example, if you are going to be driving adoption of GitLab CI (Verify stage) to achieve the stated business outcome, you would categorize the objective as Stage Adoption.
-- **ROI** objectives are essentially for anything that isn't explicitly stage adoption that ties to the customer's positive business outcomes and continued value-add from GitLab. Examples include implementing HA architecture, or enabling integration with existing tools.
 
 ##### Open and Categorize a Stage Adoption Objective within a Success Plan in Gainsight
 
