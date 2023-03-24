@@ -271,7 +271,7 @@ The process to request the [legal team’s involvement in partner contracts](htt
 ### Definitions
 1. **Deal Path**: How the deal is transacted. Values can be Partner, Direct, or Web. Includes Referral Ops for Partner.
 2. **Partner Sourced Deal Reg**: Partner submits a Registration for their sourced opportunity via the Partner Portal. For the purposes of this matrix the assumption is the Deal Reg is approved. If the deal is not Partner Sourced then Deal Reg does not apply.
-3. **Initial Source**: SFDC Lead value that is populated based on lead source. Will default to CQL (Partner Qualified Lead) when a Partner submits a Partner Sourced Deal Reg and an Opportunity does not already exist in the system.
+3. **Initial Source**: SFDC Lead value that is populated based on lead source. Will default to PQL (Partner Qualified Lead) when a Partner submits a Partner Sourced Deal Reg and an Opportunity does not already exist in the system.
 4. **SQS (Sales Qualified Sourced)**: Who converts/creates the Opportunity in SFDC. Can only be 1 value
 5. **Deal Type**: Whether or not the partner is taking paper or not
 6. **Order Type**: Customer order designation in SFDC. New First Order or Growth
@@ -279,7 +279,7 @@ The process to request the [legal team’s involvement in partner contracts](htt
  
 ### Use Cases
 - **Numbers 1 & 4**
-  - Channel Partner submits Partner Sourced Deal Reg and no Opportunity exists in the system. Therefore, the Initial source is CQL and SQS defaults to Partner Generated.
+  - Channel Partner submits Partner Sourced Deal Reg and no Opportunity exists in the system. Therefore, the Initial source is PQL and SQS defaults to Partner Generated.
   - This applies to both New and Growth orders
 - **Number 2**
   - Channel submits an order for a deal that we did not have an opportunity in the system for but did not submit a Partner Sourced Deal Reg
@@ -289,17 +289,17 @@ The process to request the [legal team’s involvement in partner contracts](htt
   - AE or SDR creates an opportunity prior to a valid Partner Sourced Deal Reg being submitted and approved. *If the Deal Registration is approved the opportinity will automatically update SQS = Partner Generated when the approved Deal Registration has been approved and linked. 
  
 ### Default Logic
-1. If `Partner Sourced Deal Reg = True` and no opportunity exists, then `Initial Source = CQL` > `SQS = Partner Generated`
-2. Alliances and OEM Logic: No Deal Registration applied but if `Initial Source = CQL` then
+1. If `Partner Sourced Deal Reg = True` and no opportunity exists, then `Initial Source = PQL` and `SQS = Partner Generated`
+2. Alliances and OEM Logic: No Deal Registration applied but if `Initial Source = PQL` then
 `SQS = Partner Generated`
  
 ### SFDC Opportunity Source Field Values for Channel
 - **Initial Source**:
-  - _Channel Qualified Lead (CQL)_: GitLab Channel Partner created and/or qualified the Lead whether they sourced it themselves or GitLab provided the inquiry to them to work.
+  - _Partner Qualified Lead (PQL)_: GitLab Channel Partner created and/or qualified the Lead whether they sourced it themselves or GitLab provided the inquiry to them to work.
 - **Sales Qualified Source**:
-  - _Channel_: The Channel Partner has converted the Lead/CQL to a qualified opportunity, or has created a brand new opportunity without a prior lead being in the system. This field defaults to Channel when `Initial Source = CQL`.
+  - _Partner_: The Partner has converted the Lead/PQL to a qualified opportunity, or has created a brand new opportunity without a prior lead being in the system. This field defaults to Partner when `Initial Source = PQL`.
 - **DR - Deal Engagement**:
-  - _Partner Sourced_: Partner has either found the original opportunity or an upsell to a current customer. If the `Initial Source  = Channel Qualified Lead` or `Sales Qualified Source = Partner Generated`, then the deal is Partner Sourced.
+  - _Partner Sourced_: Partner has either found the original opportunity or an upsell to a current customer. If the `Initial Source  = Partner Qualified Lead` or `Sales Qualified Source = Partner Generated`, then the deal is Partner Sourced.
 *Please visit the [Marketing Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source) for Intial Source definition and context.
  
  
