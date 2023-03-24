@@ -155,6 +155,177 @@ Tableau Cloud leverages GitLab's existing technology investments and integrates 
 | Backup  | `@snalamaru`  | Yes |
 | Backup  | `@pempey`  | Yes |
 
+### Permissions
+
+Pursuant to GitLab's Transparency value, all GitLab team members will have access to all content in Tableau by default. However, as a Public Company, we have to abide by the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) and limit access to certain sensitive and confidential data in Tableau to team members that need SAFE data to do their jobs. In Tableau, we set these SAFE data permissions via User Groups at the Project level.  
+
+#### User Groups
+
+User Groups are the only prescribed method we use for setting permissions across the Tableau site. A User Group is a collection of users that can be based on a topic, project, or organization structure, that will need to have the same set of access and permissions for content. All users will be a member of their business department User Group and can be added to more User Groups as required. The assignment of users to groups will be documented and controlled from YAML files maintained in the Tableau Project in the Data Group.
+
+<details markdown=1>
+
+<summary><b>Example User Group</b></summary>
+
+```yml
+
+groups:
+  - group_name: group 1
+  - group_name: group 2
+  - group_name: group 3
+
+users:
+  - user_name: team_memebr@gitlab.com
+    site_role: Site Administrator Creator
+    auth_setting: SAML
+    groups:
+      - group 1
+      - group 2
+
+  - user_name: other_team_member@gitlab.com
+    site_role: Viewer
+    auth_setting: SAML
+    groups:
+      - group 1
+
+```
+
+</details>
+
+#### Project Permission Structure
+
+User Groups are applied at the Project and Sub-Project levels. We have two types of User Groups that we apply, Administrator User Groups and Access Control User Groups. The Admistrator User Group gives permissions relating to what administrative tasks the user can do on the project such as moving content, deleting content, and changing permissions on the project. The Access Control User Group gives permissions relating to what access the user has such as viewing and publishing content. 
+
+The Admistrator User Group and the Access Control User Group can be customized to meet the unique needs and requirements of each Project and Sub-Project on the Tableau site. This allows for flexibility to add or customize security controls on an as-needed basis. The assignment of a User Groups permission rule set for a Project or Sub-Project will be documented and controlled from YAML files maintained in the Tableau Project in the Data Group. 
+
+No content is published in the top level Production, Ad-Hoc, and Development Projects. Content is only published in the Sub-Projects under the Top level projects which is a best practice for content, access, and security control. Top level Project (Production, Ad-Hoc, and Development) Leaders will always be a member of the Central Data Team's BI Platform team and will need a site role of Creator to function as Project Administrators for publishing content. [Data Champions](https://about.gitlab.com/handbook/business-technology/data-team/direction/data-champion/) will serve as Project Leaders for the Sub-Projects for their respective functional areas. The Sub-Project Leaders will be added to the applicable Administrator and Access Control Groups in order to have the right permissions to lead the Sub-Project. 
+
+The standard permission rules for top level Projects are noted below: 
+
+| Project     | View             | Publish             | Administer                      |
+|-------------|------------------|---------------------|---------------------------------|
+| Development | All Team Members | All Team Members    | Project and Sub Project Leaders |
+| Ad-hoc      | All Team Members | Sub Project Leaders | Project Leaders                 |
+| Production  | All Team Members | Project Leaders     | Project Leaders                 |
+| Resources   | All Team Members | Project Leaders     | Project Leaders                 |
+
+Below is an example of User Groups and Permissions applied to a Data Team Sub-Project where only Data Team Members can publish in the project, but All Team Members can view the content in the Sub-Project. At the Sub-Project Level, for the User Group Name, `Limited Access Team Members` can replace the `All Team Members` User Group Name for limited access.
+
+| User Group Name           | User Group Type      | Permission Template      |
+|---------------------------|----------------------|----------------------|
+| BI Platform Team          | Administrator Group  | Inherited Administer |
+| Data Team Project Leaders | Administrator Group  | Administer           |
+| Data Team                 | Access Control Group | Publish              |
+| All Team Members          | Access Control Group | View                 |
+
+<details markdown=1>
+
+<summary><b>Example Project Permissions YAML File</b></summary>
+
+```yml
+
+projects:
+  - project_name: Example Project
+    content_permissions: ManagedByOwner
+    project_path: Project Name/Project Name/ 
+    permission_set:
+      - group_name: group 1
+        permission_rule: view
+      - group_name: group 2
+        permission_rule: project_lead
+
+```
+
+</details>
+
+#### Capabilities
+
+[Capabilities](https://help.tableau.com/current/server/en-us/permissions_capabilities.htm) are a Tableau concept that we apply. Permissions are made up of capabilities, or the ability to perform a given action on a piece of content, such as view, filter, download, or delete. Permission rules are the setting for each capability (allowed, denied, or unspecified) for the user group. Permission rules have templates available that make it easier to assign capabilities quickly. 
+
+Templates group sets of capabilities that are often assigned together based on common user scenarios such as View, Publish, and Administer. When we assign a template, its included capabilities are set to Allowed, with the rest left as Unspecified. The templates are built to have all of the capabilities a user would need, for example the Publish template includes everything from the View template plus additional capabilities. 
+
+Below are examples of Permission Templates we use at GitLab. Permission templates are applied to Tableau content. 
+
+| Capability         | View | Publish | Administer |
+|:-------------------|:----:|:-------:|:----------:|
+| View/Interact/Use  | X    | X       | X          |
+| View/Add Comments  | X    | X       | X          |
+| Download Image/PDF | X    | X       | X          |
+| Share Views        | X    | X       | X          |
+| Download Data      |      | X       | X          |
+| Web Edit           |      | X       | X          |
+| Overwrite/Publish  |      | X       | X          |
+| Move               |      |         | X          |
+| Delete             |      |         | X          |
+| Change Permissions |      |         | X          |
+
+Below are examples of Site Roles that we use. Individual users are assigned to site roles and given permissions via site role. Site roles act as an upper limit of what a Tableau User can do on the site.
+
+| Capability            | Viewer | Explorer | Creator |
+|:----------------------|:------:|:--------:|:-------:|
+| View/Interact         | X      | X        | X       |
+| View/Add Comments     | X      | X        | X       |
+| Download Image/PDF    | X      | X        | X       |
+| Download Summary Data | X      | X        | X       |
+| Download Full Data    |        | X        | X       |
+| Share Views           |        | X        | X       |
+| Web Edit              |        | X        | X       |
+| Overwrite/Publish     |        | X        | X       |
+| Move                  |        | X        | X       |
+| Delete                |        | X        | X       |
+| Change Permissions    |        | X        | X       |
+| Create Alerts         |        | X        | X       |
+| Publish Data Source   |        |          | X       |
+| Use Data Flows        |        |          | X       |
+| Site Administration   |        |          | X       |
+
+
+<details markdown=1>
+
+<summary><b>Example Permission Templates YAML File</b></summary>
+
+```yml
+
+permission_templates:
+  - name: view
+    projects:
+      Read: Allow # View
+    workbooks:
+      Read: Allow # View
+      Filter: Allow # Filter
+      ViewComments: Allow # View Comments
+      AddComment: Allow # Add Comments
+      ExportImage: Allow # Download Image/PDF
+      ViewUnderlyingData: Allow # Download Summary Data
+      ShareView: Allow # Share Customized
+    data_sources:
+      Read:  Allow # View
+      Connect: Allow # Connect
+      ExportXml:  Allow # Download Data Source
+    data_roles:
+      Read: Allow # View
+    flows:
+      Read: Allow
+      ExportXml:  Allow # Download Flow
+    lenses:
+      Read: Allow # View
+    metrics:
+      Read: Allow # View
+    virtual_connections:
+      Read:  Allow # View
+      Connect: Allow # Connect
+    databases:
+      Read:  Allow # View
+    tables:
+      Read:  Allow # View
+
+  - name: project_lead
+    projects:
+      ProjectLeader: Allow # Set Project Leader
+```
+
+</details>
+
 <details markdown=1>
 
 <summary><b>Permissions Best Practices for Admins & Project Leaders</b></summary>
