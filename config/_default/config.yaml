@@ -72,9 +72,9 @@ outputformats:
 markup:
   goldmark:
     renderer:
-      unsafe: false
+      unsafe: true
   highlight:
-    style: monokailight
+    style: tango
     lineNos: true
     tabWidth: 2
   tableOfContents:
