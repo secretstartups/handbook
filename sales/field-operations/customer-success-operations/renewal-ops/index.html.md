@@ -25,6 +25,8 @@ The Renewal Operations team is responsible for building, maintaining and optimiz
 - Ensure an exceptional level of data quality within tools and systems
 - Identify, build and iterate process improvements to improve account management effectiveness
 
+Find more information about how we drive the above initiatives on the [Renewals Managers - What we Do](https://about.gitlab.com/handbook/customer-success/renewals-managers/what/) page
+
 
 Below is a breakdown of the 4-part [Renewal Operations Strategy](https://docs.google.com/presentation/u/0/d/1Qv_8SVv3scdKDmF0BNMKbyM9TG5PAJlL4h3pbA-rcjg/edit).
 
@@ -54,7 +56,7 @@ Head over to [#renewal-ops](https://join.slack.com/share/enQtNDQwMzIxMzIzNzQ2Mi1
 
 Renewal Operations supports the Renewals, Success and Sales Teams: Directors & Area Sales Managers, Renewals Managers, Account Executives, Strategic Account Executives and collaborates with Customer Success Operations, Sales Operations and Sales Strategy.
 
-**Renewals Team** is Renewal Operations’ direct focus, our primary customers are Renewals leaders; the insights, strategies, and actionable campaigns are built to assist the Renewal Managers and Account Executives with the renewal process.  Renewals Operations provides intelligent insights for the large amount of upcoming renewals managed by Account Teams to allow a more focused approach.
+[**Renewals Team** ](https://about.gitlab.com/handbook/customer-success/renewals-managers/home/) is Renewal Operations’ direct focus, our primary customers are Renewals leaders; the insights, strategies, and actionable campaigns are built to assist the Renewal Managers and Account Executives with the renewal process.  Renewals Operations provides intelligent insights for the large amount of upcoming renewals managed by Account Teams to allow a more focused approach.
 
 **Customer Success Operations** helps organize and collect pertinent product usage, and  customer health data that the Renewal Operations Team uses to identify insights and engagement strategies. For example, creating automated one-to-many campaigns in Gainsight to support product adoption.
 
@@ -81,16 +83,6 @@ Labels to use when creating new Issues or MRs for Renewal Ops:
 - ROPS::Backlog - Renewal Ops has deprioritized this Issue and will be addressed at a later time
 - ROPS::Completed - Renewal Ops resolved the Issue and is now Closed
 
-## OKRs
-**FY23-Q4**
-
-**Renewal Operations - DRI: John Budreski**
-
-**Scope and design basic operational framework for Direct, Alliance, and Channel renewals**
-
-1. Finalize RevOps structure, job descriptions, structure, and hiring plan to support Renewals motion and team
-2. Define current customer renewal experience flowchart for Direct, Alliance, and Channel customers
-3. Define top ten baseline renewal problems to be solved and requirements and aggregate all operational improvement requirements
 
 ## Contact Us
 
