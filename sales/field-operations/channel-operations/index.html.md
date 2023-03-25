@@ -131,7 +131,7 @@ Partner accounts that will transact via distribution do not need a Billing Accou
 
 More information on billing accounts can be found on the [Billing Operations Handbook Page](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/).
 
-#### How to Locate in SFDC for Quoting
+#### How to Find in SFDC and Use for Quoting
 The Invoice Owner and Invoice Owner Contact on a partner quote represent the partner’s Billing Account and billing account Contact records, respectively.
 
 Billing Account and billing account Contact records for our distributors can be found here. Note, partners that transact via distribution do not need billing records, as the distributor information will be used on the quote.
