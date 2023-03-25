@@ -51,6 +51,8 @@ Renewals managers cover every opportunity that is in their assigned region, howe
 | 2 | [100K < X < 400K] | RM Collaboration w/ AE | Mixed responsibilities - could include customer facing calls, quoting support, risk management, opportunity management |
 | 3 | [X > 400K] | Solely owned by AE | Understand the status of the renewal; Track/update the risk and mitigation on the opportunities; Predictability - should be able to forecast the business |
 
+Note that any changes to the Renewal Ownership (Tier) field within the current Fiscal Year must be submitted by the Renewals Manager or Account Executive and approved by the Manager, Renewals via Chatter on the Opportunity record. 
+
 ## Renewal opportunity activities - by tier 
 The following activities are recommended for each Renewals Manager as a baseline for engagement with a customer throughout their subscription journey. This framework is flexible, and ultimately every Renewals Manager must us their discretion to discern which activities make sense for their customer's experience. 
 
