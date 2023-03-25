@@ -530,7 +530,7 @@ The company offers a 401k plan in which you may make voluntary pre-tax contribut
 ### Administrative Details of 401k Plan
  
 1. You are eligible to participate in GitLab’s 401k as of your hire date. There is no auto-enrollment. You must actively elect your deductions.
-1. You will receive an invitation to register for access to your account on Fidelity [NetBenefits](https://www.netbenefits.com) who is GitLab's plan recordkeeper. For more information about Fidelity, please check out this [Brainshark video](https://https://www.brainshark.com/1/player/fidelityemg?fb=0&r3f1=&custom=gitlab).
+1. You will receive an invitation to register for access to your account on Fidelity [NetBenefits](https://www.netbenefits.com) who is GitLab's plan recordkeeper. For more information about Fidelity, please check out this [Brainshark video](https://www.brainshark.com/1/player/fidelityemg?fb=0&r3f1=&custom=gitlab).
 1. Any changes to your plan information will be effective on the next available payroll.
 1. Once inside the platform you may elect your annual/pay-period contributions and investments.
 1. If you have any questions about making changes to your elections, we recommend that you reach out to Fidelity directly, by chat in the app, or by phone at 800-835-5097. 
