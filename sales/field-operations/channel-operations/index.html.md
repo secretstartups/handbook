@@ -122,13 +122,26 @@ An approved Partner Sourced Deal Registration results in `Sales Qualified Source
 For more information: [Deal Registration Program Overview](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#deal-registration-program-overview).
 
 ### Billing Account and Billing Account Contact on Partner Account Record
-Billing Account and Billing Account Contact records must be created when onboarding a new partner that will be purchasing directly from GitLab. The Channel Manager should take the following action upon being notified of a new partner:
+#### Record Creation
+Billing Account and billing account Contact records must be created when onboarding a new partner that will be purchasing directly from GitLab. The Channel Manager should take the following action upon being notified of a new partner:
 1. Create a contact record on the partner account that represents the partners accounts payable contact information with naming convention "[Partner Account Name] - Accounts Payable"
 2. Chatter `@Billing Ops` on the Partner Account with the partners accounts payable contact information to request that they create a Billing Account
 
-Partner accounts that will transact via distribution do not need a Billing Account. 
+Partner accounts that will transact via distribution do not need a Billing Account or billing account Contact. 
 
 More information on billing accounts can be found on the [Billing Operations Handbook Page](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/).
+
+#### How to Locate in SFDC for Quoting
+The Invoice Owner and Invoice Owner Contact on a partner quote represent the partner’s Billing Account and billing account Contact records, respectively.
+
+Billing Account and billing account Contact records for our distributors can be found here. Note, partners that transact via distribution do not need billing records, as the distributor information will be used on the quote.
+
+To find these records in SFDC for partners that transact directly with GitLab, first navigate to the Partner Account record.
+1. Billing Account - Refer to “Billing Account” in the related list quick links section at the top of the Partner Account record
+2. Billing Account Contact - Open the partner's Billing Account and locate the `Sold To Work Email` (i.e., their Accounts Payable email address). Search for this email in SFDC to determine if a contact record already exists under the Partner Account record
+   - If there **is** an existing contact record for this email on the partner account, use it as the Invoice Owner Contact for your quote
+   - If there **is not** an existing contact record for this email on the partner account, create a new contact record for this email address called "[Partner Name] - Accounts Payable" which you can then use as Invoice Owner Contact on the quote
+
  
 ### Quoting Requirements for Channel Deals
 When a deal is being transacted via the Channel, and a discount other than the defined Program discounts are being offered, a GitLab quote is ***required***. At a minimum, a [Draft Proposal](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-draft-proposal) needs to be created and provided to the Partner.
