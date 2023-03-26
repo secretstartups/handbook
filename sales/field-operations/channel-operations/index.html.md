@@ -208,7 +208,6 @@ If a GitLab Sales Rep is working directly with a reseller and needs to quote tha
 - Our pricing on a two-tier distribution deal is between GitLab and Distributor only. We should **never** include the reseller or customer when sending a distribution quote or discussing distributor pricing.
 - Distributors have their own pricelist and are equipped to self-quote and order new business or other order types from it without receiving an official GitLab quote, as long as pricing is at standard programmatic discounts. There may be times, especially in multiple bid scenarios, where you may not be aware of the partner(s) bidding on an opportunity until we receive a PO.
 
-
 #### Distributor e-Marketplaces 
 
 GitLab is activating Distributor e-Marketplaces for customers to transact via GitLab authorized resellers. There are specific requirements for partners prior to activating their e-Marketplace capability, including:    
@@ -219,6 +218,11 @@ GitLab is activating Distributor e-Marketplaces for customers to transact via Gi
 
 GitLab reserves the right to pause or deactivate a partner’s e-Marketplace offering if issues arise. 
 For more information about Distributor e-Marketplaces, partners should [contact their distributor](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#transacting-through-distribution), or their GitLab Channel Manager. 
+
+### Partner Sales FAQ
+Partners and GitLab Sellers frequently ask questions on how to collaborate with one another throughout the GitLab sales process. Refer to the following resources which document these FAQs and answers from both a Partner and GitLab Seller perspective:
+- [Partner FAQ - Selling with GitLab](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/partner-faq/)
+- [GitLab Sales FAQ - Selling with Partners](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/sales-faq/)
 
 
 ## SFDC Field Definitions
