@@ -12,8 +12,9 @@ title: "Selling with Partners - GitLab Sales FAQ"
 This page documents frequently asked questions from our GitLab Sellers on how to collaborate with partners throughout the sales process. Please contact us at `#partner-programs-ops` in slack or `@Partner Operations` in SFDC chatter if you have any questions or would like to see another question/answer documented on this page.
 
 ## Deal Registration
+
 <details>
-<summary markdown='span'>
+<summary>
 When should my partner submit a Deal Registration? What opportunities are they able to register?
 </summary>
 
@@ -24,7 +25,7 @@ GitLab also has a [Service Attach DR](https://about.gitlab.com/handbook/sales/fi
 </details>
 
 <details>
-<summary markdown='span'>
+<summary>
 My partner is unable to log into the Partner Portal to submit a Deal Registration (DR). How can they get access to submit a DR? 
 </summary>
 
