@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Selling with Partners - GitLab Sales FAQ"
+title: "GitLab Sales FAQ - Selling with Partners"
 ---
 
 ## On this page
