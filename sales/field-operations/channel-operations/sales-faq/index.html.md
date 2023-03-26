@@ -379,3 +379,11 @@ The partner that received the Gitlab invoice (i.e., Distributor for two-tier dea
 
 </details>
 
+<details>
+<summary markdown="span">
+The partner notified us that the customer is unable to use their GitLab Self-Managed activation code as they have an offline or air-gapped environment. How can we provide a legacy or offline license post-sale?
+</summary>
+
+Request approval from your VP via SFDC chatter to provide an offline or legacy license key for a closed-won opportunity. If/when VP approval is granted, [submit an internal support ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) to request an updated license be issued to the customer.
+
+</details>
