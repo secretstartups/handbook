@@ -54,16 +54,16 @@ This page outlines the Quote to Cash process. Topics include account and opportu
 
 1. Click on the Accounts tab in Salesforce.
 2. Click the "New" button.
-3. Select either "Standard" or "Channel" record type. Each record type will have a different account layout.
+3. Select either "Standard" or "Partner" record type. Each record type will have a different account layout.
     * "Standard" = all non-reseller/distributor accounts
-    * "Channel" - only reseller/distributor accounts (note: sales should not create channel accounts, see point 6)
-    * Note: Partners who are also customers must have two separate accounts - one Channel type account, and one Standard type account.
+    * "Partner" - only reseller/distributor/MSP accounts (note: sales should not create partner accounts, see point 6)
+    * Note: Partners who are also customers must have two separate accounts - one Partner type account, and one Standard type account.
 4. On the Create Account screen, do the following:
     * Complete all mandatory fields.
     * Be sure to enter the correct URL under "Domain" as this impacts the identification of the customer and related sales segment.
     * Click Save.
 5. Be sure to enter detailed information regarding the customer or partner, including full legal name, full billing address, and other pertinent details.
-6. If the account is a `Channel` account, it should be created via the partner creating an account in Impartner or manually via Channel Operations. Sales should not create Channel accounts and should Slack [#partner-programs-ops](https://gitlab.slack.com/archives/CTM4T5BPF). 
+6. If the account is a `Partner` account, it should be created via the partner creating an account in Impartner or manually via Partner Operations. Sales should not create Partner accounts and should Slack [#partner-programs-ops](https://gitlab.slack.com/archives/CTM4T5BPF). 
 
 #### How to Create/Edit a Contact
 
@@ -834,7 +834,7 @@ Note: You must log in with your DocuSign credentials to access these educational
 
 #### PO Remittance 
 
-All Purchase Orders should be remitted to the Sales Rep / Opportunity Owner / ISR. This applies to both Direct and Reseller-Direct deals. For Distribution deals, the reseller should send their PO to the Distributor, and the Distributor should remit the Purchase Order to Partnerorderops@gitlab.com. 
+All Purchase Orders should be remitted to the Sales Rep / Opportunity Owner / ISR.
 
 Exceptions for this process are for customers who remit POs to procurement software, such as Ariba. POs sent through Ariba will be attached to the opportunity by the Billing team. 
 
