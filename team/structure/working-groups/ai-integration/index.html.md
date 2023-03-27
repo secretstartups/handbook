@@ -78,5 +78,4 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Development representative             | @andr3 | [André Luís](https://about.gitlab.com/company/team/#andr3)   | FEM: Source Code |
 | Legal representative             | @jbackerman | [Jesse Backerman](https://about.gitlab.com/company/team/#jbackerman)   | Managing Legal Counsel |
 | Vulnerability Research Representative | @idawson | [Isaac Dawson](https://about.gitlab.com/company/team/#idawson) | Staff Vulnerability Researcher |
-| Vulnerability Research Representative | @jthome | [Julian Thome](https://about.gitlab.com/company/team/#julianthome) | Staff Vulnerability Researcher |
 | Vulnerability Research Representative | @dbolkensteyn | [Dinesh Bolkensteyn](https://about.gitlab.com/company/team/#dbolkensteyn) | Sr. Vulnerability Researcher |
