@@ -34,6 +34,10 @@ If the user does not receive a verification email with the 6-digit code, it's li
 
 All verification emails with unlock codes and password reset emails bypass Mailgun suppressions. Mail delivery of these emails can also be seen in Mailgun.
 
+You can see `Account Locked` states in [Kibana](kibana.html) by searching for `json.message: Account Locked`. Here's an example of what it might look like it Kibana:
+
+![locked_account](/images/support/locked_example.png)
+
 # Blocked Accounts
 
 This workflow is used to determine if a blocked user can be reinstated if it has been blocked by us. All blocked accounts should have an admin note with a link to a relevant issue.
