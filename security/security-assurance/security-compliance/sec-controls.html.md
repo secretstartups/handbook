@@ -111,15 +111,11 @@ _Detailed sub-controls are included in the various control family pages_
  
 | Control | Title | Description |
 |---------|-------------|---------------|
-| AU-1 | Policy and Procedures | Establishment of audit and accountability policy and procedures that address the controls in the AU family implemented within systems and organizations. | 
+| AU-1 | Policy and Procedures | Establishment of audit and accountability policy and procedures that address the controls in the AU family implemented within systems and organizations. |
+| AU-2 | Event Logging | Identify events for logging that are relevant to the security of systems and the privacy of individuals and implement a program to support GitLab's event logging requirements. | 
 | AU-3 | Content of Audit Records | Audit record content that may be necessary to support the auditing function of event outcomes including indicators of event success or failure and event-specific results, such as system security and privacy posture after the even occurred. |
-| AU-4 | Audit Log Storage Capacity | Allocating audit log storage capacity to accommodate organization-defined audit log retention requirements. |
 | AU-6 | Audit Record Review, Analysis, and Reporting | Review and analysis system audit records for indications of organization-defined inappropriate or unusual activity and the potential impact. |
-| AU-8 | Time Stamps | Generating time stamps for audit records. |
-| AU-9 | Protection of Audit Information | Protection of audit information on technical protection and limiting the ability to access and execute audit logging tools to authorized individuals. |
 | AU-11 | Audit Record Retention | Retaining audit records for organization-defined time period consistent with records retention policy to provide support for after-the-fact investigations of incidents and to meet regulatory and organizational information retention requirements. |
-| AU-12 | Audit Record Generation | Audit record generation for the event types the system is capable of auditing. |
-| AU-14 | Session Audit | Session auditing implemented to reveal information about individuals that may give rise to privacy risk as well as how to mitigate those risks. |
 
 </details>
 
