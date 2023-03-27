@@ -353,7 +353,7 @@ If you are interested in or would like to request a new tool be added to the tec
 
 The general process for a new tool evaluation is:
 1. Discovery - understand the request/problem we're trying to solve
-1. Requirements gathering - document user stories, requirements, and features using (this requirements gathering template)[https://docs.google.com/spreadsheets/d/1JsUcCnePqWnc8ownZQEsjsDtMea6pLPk2k-6TV3M_uI/edit#gid=0]
+1. Requirements gathering - document user stories, requirements, and features using [this requirements gathering template](https://docs.google.com/spreadsheets/d/1JsUcCnePqWnc8ownZQEsjsDtMea6pLPk2k-6TV3M_uI/edit#gid=0)
 1. Evaluation - attend demos and compare features
 1. Stakeholder alignment - align stakeholders on vendor of choice
 1. Privacy and security reviews - ensure that the selected tool is compliant
