@@ -16,7 +16,7 @@ The DevOps tools below are commonly found in a build-your-own DevOps tool chain.
 #### Issue Tracking
 - [Atlassian Jira](/competition/atlassian/)
 - [Asana](https://asana.com/)
-- [Microsoft TFS/VSTS/Asure DevOps](/devops-tools/azure-devops-vs-gitlab/)
+- [Microsoft TFS/VSTS/Asure DevOps](/competition/azure/)
 - [Pivotal Tracker](https://www.pivotaltracker.com/)
 - Bugzilla
 - JetBrains
@@ -64,7 +64,7 @@ The DevOps tools below are commonly found in a build-your-own DevOps tool chain.
 ### Source code management
 - [GitHub](/competition/github/)
 - [Atlassian Bitbucket](/competition/bitbucket/)
-- [Microsoft TFS/VSTS/Azure DevOps](/devops-tools/azure-devops-vs-gitlab/)
+- [Microsoft TFS/VSTS/Azure DevOps](/competition/azure/)
 - [CA Technologies / Rally](https://www.ca.com/us.html)
 - IBM Rational Clear case
 - Perforce
@@ -105,7 +105,7 @@ The DevOps tools below are commonly found in a build-your-own DevOps tool chain.
 - Atlassian Bamboo
 - [Atlassian Bitbucket](/competition/bitbucket/)
 - [CircleCI](https://circleci.com/)
-- [Microsoft TFS/VSTS/Azure DevOps](/devops-tools/azure-devops-vs-gitlab/)
+- [Microsoft TFS/VSTS/Azure DevOps](/competition/azure/)
 - CodeFresh
 - TeamCity
 - Codeship
@@ -144,7 +144,7 @@ The DevOps tools below are commonly found in a build-your-own DevOps tool chain.
 - [Electric Cloud ElectricFlow](http://electric-cloud.com/products/electricflow/)
 - [CA Technologies](https://www.ca.com/us.html)
 - [XebiaLabs](https://xebialabs.com/)
-- [Microsoft TFS/VSTS/Azure DevOps](/devops-tools/azure-devops-vs-gitlab/)
+- [Microsoft TFS/VSTS/Azure DevOps](/competition/azure/)
 - CodeFresh
 - Red Hat Ansible
 - Clarive
