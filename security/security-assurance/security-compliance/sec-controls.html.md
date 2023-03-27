@@ -130,8 +130,7 @@ _Detailed sub-controls are included in the various control family pages_
 | CA-1 | Policy and Procedures | Establishment of assessment, authorization, and monitoring policy and procedures that address the controls in the CA family implemented within systems and organizations. | 
 | CA-2 | Control Assessments | Selection of assessors with the required skills and technical expertise to develop effective assessment plans to determine the accuracy and completeness of whether the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting requirements. | 
 | CA-3 | Information Exchange | System information exchange requirements between two or more systems. | 
-| CA-5 | Plan of Action and Milestones | Plano f action and milestones to track planned remedial actions. | 
-| CA-6 | Authorization | Authorizing officials responsible and accountable for security and privacy risks associated with the operation and use of organizational systems. | 
+| CA-5 | Plan of Action and Milestones | Plano f action and milestones to track planned remedial actions. |  
 | CA-7 | Continuous Monitoring | Continuous monitoring facilitating ongoing awareness of the system security and privacy posture to support organizational risk management decisions. | 
 | CA-8 | Penetration Testing | Specialized testing to identify vulnerabilities that could be exploited by adversaries. | 
 | CA-9 | Internal System Connections | Connections between organizational systems and separate constituent system components. | 
