@@ -170,7 +170,7 @@ No, not at this time.
 | April 24   |  [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer from [Alarm.com](https://alarm.com/) |
 | May 1      |  Available | |
 | May 8      |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager - Netflix |
-| May 15     |  Available | |
+| May 15     |  [Jeremy Neff](https://www.linkedin.com/in/jeremy-r-neff/) | Non-GitLab shadow |
 | May 22     |  Available | |
 | May 29     |  Available | |
 | June 5     |  Available | |
