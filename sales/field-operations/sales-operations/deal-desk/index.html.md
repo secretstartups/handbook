@@ -454,41 +454,47 @@ Customers and partners may wish to transact an add-on opportunity ahead of their
 #### Quoting Channel Deals
 
 ##### Standard Partner/Reseller Quotes
-- **Quote Template** needs to be manually selected: Authorized Reseller Template
-- **Sold to and Bill to** contacts are linked to the end-customer account (this person will receive the license email)
-- **Invoice Owner** = Partner's billing account 
-- **Invoice Owner Contact** = Partner's contact (this person will receive the invoice)
-- **Resale Partner** = Partner's SFDC account
-- Distributor = Blank
+Creating a reseller-direct (i.e., one-tier reseller) quote is very similar to the process of creating a direct customer quote, where `Sold to Contact` and `Bill to Contact` are still linked to the end-customer account (**Sold to** will receive the license email). The only differences are with the following fields:
+- **Resale Partner** = Reseller's SFDC account
+- **Distributor** = Blank (do not populate)
+- **Quote Template** = Authorized Reseller Quote Template
+- **Invoice Owner** = Reseller's billing account
+- **Invoice Owner Contact** = Reseller's billing contact (this person will receive the invoice)
+- **Discount** - Programmatic partner discounts for the reseller must be added in addition to any customer discounts applied to the quote. There is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) for use by internal GitLab Team Members for ease of quoting.
 
 ##### Distributor Quotes
-- **Quote Template** needs to be manually selected: Distributor Quote Template
-- **Sold to and Bill to** contacts are linked to the end-customer account (this person will receive the license email)
-- **Invoice Owner** = Distributor's billing account 
-- **Invoice Owner Contact** = Distributor's contact (this person will receive the invoice)
+Creating a distributor (i.e., two-tier distribution) quote is very similar to the process of creating a direct customer and/or reseller-direct quote, where `Sold to Contact` and `Bill to Contact` are still linked to the end-customer account (**Sold to** will receive the license email). The only differences are with the following fields:
 - **Resale Partner** = Reseller's SFDC account
-- **Distributor field** = Distributor's SFDC account
+- **Distributor** = Distributor's SFDC account
+- **Quote Template** = Distributor Quote template
+- **Invoice Owner** = Distributor's billing account 
+- **Invoice Owner Contact** = Distributor's billing contact (this person will receive the invoice)
+- **Discount** - Programmatic partner discounts for distributor and reseller must be added in addition to any customer discounts applied to the quote. There is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) for use by internal GitLab Team Members for ease of quoting.
 
 ##### MSP Quotes
 A **Managed Service Provider (MSP)** purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer, the end user, is the one using the licenses.
 
 A. MSP Opportunity Details:
-* The MSP opportunities are linked to the MSP (partner) account (not to the end customer account)
-* The MSP opps should be owned by the sales reps
-* The MSP new business opp is created by Channel Managers/automatically.I f the end customer has an existing subscription either directly or via partner, the related renewal opp will need to be set to Closed Lost by the opp owner on the customer account
-* The MSP opp should always contain the word "MSP" and the name of the end-customer
+* MSP opportunities are always linked to the MSP partner account, not to the end user (i.e., customer) account
+* MSP opportunities should be owned by the sales rep that owns the underlying end user (i.e., customer) account
+* MSP new business opportunities are created by the Channel Manager via the [Deal Registration](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities) process. If the end user has an existing subscription either directly or via partner, the related renewal opp will need to be set to Closed Lost by the opp owner on the customer account
+* MSP opportunities should have the following standard naming convention "[MSP End User] - [# of Seats] [Product Tier] [Deployment] [Order Type] (MSP via [Partner Name])". For example, "CompanyABC - 100 Premium SaaS Renewal (MSP via PartnerXYZ)"
 
 B. MSP Quote Creation Steps: 
-* New MSP subscription: A new subscriptions quote object needs to be created by the rep who manages the MSP opp.
-* Add-on to existing MSP subscription: first the correct subscription should be located on the SFDC account based on the start and end dates of the existing booked opp containing the same customer account name.
-* Renewal to existing MSP subscription: same as above, first the related subscription needs to be identified on the MSP partner account before creating the quote.
-* MSP quote template needs to be selected on the quote object manually.
-* The Sold to and Bill to contact fields on the quote should reflect the MSP partner contacts.
-* Invoice Owner, Resale Partner and Invoice Owner Contact fields should also reflect the MSP partner data. 
-* Distributor field should remain blank.
-* In the special notes section the end customer name should be reflected.
+* New MSP subscription: A new subscription quote needs to be created by the sales rep who manages the MSP opp.
+* Add-on to existing MSP subscription: The correct subscription should be located on the MSP partner account based on the start and end dates of the existing booked opp containing the same customer account name.
+* Renewal to existing MSP subscription: Same as above, the related subscription needs to be identified on the MSP partner account before creating the quote.
+* Quote fields:
+  * **Resale Partner** = MSP's SFDC account
+  * **Distributor** = Blank (do not populate)
+  * **Quote Template** = MSP Quote template
+  * **Special Terms & Notes** = Add the MSP end user name with the following verbiage "MSP owns the licenses on behalf of their end customer [Insert MSP End User name]".
+  * **Sold to and Bill to Contact** = MSP partner contacts (**Sold to** from the MSP will receive the license email)
+  * **Invoice Owner** = Billing Account record of the MSP partner
+  * **Invoice Owner Contact** = Billing Account Contact record (this person will receive the invoice) of the MSP partner
+  * **Discount** = Programmatic partner discounts for the MSP must be added to the quote. There is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) for use by internal GitLab Team Members for ease of quoting.
 
-More details on MSP deal reg can be found in the [Channel Ops handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities).
+More details on MSP Deal Registration can be found in the [Partner Ops handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities).
 
 
 #### Quoting Annual True-Ups
