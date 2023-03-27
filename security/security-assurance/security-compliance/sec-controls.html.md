@@ -242,11 +242,6 @@ _Detailed sub-controls are included in the various control family pages_
 | PE-13 | Fire Protection | To employ and maintain fire detection and suppression systems that are supported by an independent energy source. | 
 | PE-14 | Environmental Controls | To maintain and monitor environmental control levels within the facility where the system resides. | 
 | PE-15 | Water Damage Protection | To protect the system from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel. | 
-| PE-16 | Delivery and Removal | To enforce authorizations for entry and exit of system components that may require restricting access to delivery areas and isolating the areas from the system and media libraries. | 
-| PE-18 | Location of System Components | To position system components within the facility to minimize potential damage and to minimize the opportunity for unauthorized access. | 
-| PE-20 | Asset Monitoring and Tracking | To track and monitor the location and movement of organization-defined assets. | 
-| PE-22 | Component Marking | To mark organization-defined system hardware components indicating the impact level or classification level of the information permitted to be processed, stored, or transmitted by the hardware component. | 
-| PE-23 | Facility Location | To plan the location or site of the facility where the system resides considering physical and environmental hazards. | 
  
 </details>
 
