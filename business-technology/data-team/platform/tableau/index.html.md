@@ -70,8 +70,7 @@ The Project Architecture in Tableau Online is replicated and governed in the Git
 
 * **Top Level Project Folders:** **The top level project provides what the purpose of the workbook is.** There are four top level projects; Production, Ad-hoc, Development, and Resources. This is the highest folder level that the Tableau user lands on. These folders guide the user either down a Production path to view certified content, an Ad-hoc path to view Ad-Hoc content, a development path to view sandbox content, or a resources path to access workbook templates and certified data sources to be used in workbook development.
     * **2nd Level Sub-Project Folders:** **The 2nd level project provides who the primary owner of the workbook is.** This level of the architecture contains sub-projects for each department and cross-funtional business motion such as the Go To Market Motion. Each department and cross-funtional business motion will have their own sub-project. This gives us flexibility to create different types of security at the sub-project level based on specific departmental and business motion needs.  
-        * **3rd Level Sub-Project Folders:** **The 3rd level project provides a rating of how much validation and auditing was done on the workbook.** This level of the architecture contains sub-projects for Trusted Data, Business Certified Workbooks, and Data Sources. There is a simple naming convention used to prefix the content name with a department or business motion abbreviation. This helps with searching for content in Tableau. This architecture gives us flexibility to scale the Tableau program, add row and column level security, and iterate on the SAFE program in future iterations. 
-            * **4th Level Sub-Project Folders:**  **The 4th level project provides security around who can see the workbook.** Our SAFE Data Program,is applied on this level of the architecture. This allows us flexibility to apply more security controls, by department, in the future to include enhanced SAFE Data program controls, row and column level security, and security around confidential information. Applying the security at this level will allow for customized, and scalable security programs by department and business motion.
+        * **3rd Level Sub-Project Folders:**  **The 3rd level project provides security around who can see the workbook.** Our SAFE Data Program is applied on this level of the architecture. This allows us flexibility to apply more security controls, by department, in the future to include enhanced SAFE Data program controls, row and column level security, and security around confidential information. Applying the security at this level will allow for customized, and scalable security programs by department and business motion.
 
 </details>
 
@@ -84,10 +83,9 @@ The Project Architecture in Tableau Online is replicated and governed in the Git
     1. **Data Sources**
 1. **Development** (Sandbox Environment)
     1. **Customer Success**
-        1. **Team Member Name**
-            1. **SAFE**
-                1. Workbook Name
-            1. Workbook Name    
+        1. **SAFE**
+            1. Workbook Name
+        1. Workbook Name    
     2. **Sales**
     3. **Marketing**
     4. **Finance**
@@ -101,27 +99,21 @@ The Project Architecture in Tableau Online is replicated and governed in the Git
     1. **Data Sources**
         1. CS: Data Source Name
         1. CS: Virtual Connection Name
-1. **Production** (Maps to our [Trusted Data Development Process](/handbook/business-technology/data-team/data-development/#trusted-data-development))
-    1. **Go To Market**
-        1. **Trusted Data** (Passes 100% of Trusted Data Standards)
-            1. **SAFE**
-                1. GTM: Workbook Name
-            1. GTM: Workbook Name
-        1. **Business Certified** (Does not pass 100% of Trusted Data Standards, but is the SSOT for an area of Business Analysis. These workbooks should have a remediation plan to receive Trusted Data Certification.)
-            1. **SAFE**
-                1. GTM: Workbook Name
+1. **Production** (Maps to our [Trusted Data Development Process](/handbook/business-technology/data-team/data-development/#trusted-data-development). Workbooks that pass Trusted Data Certification will receive a Certified Stamp. If the Workbook does not pass Trusted Data certification, but is still considered SSOT, Production grade content, the content can still be published in Production, but it will not receive a Certified Stamp. In such cases, there should be an issue with a project plan for the Workbook to receive a Certified Stamp.)
+    1. **Go To Market** 
+        1. **SAFE**
             1. GTM: Workbook Name
         1. **Data Sources**
             1. GTM: Data Source Name
             1. GTM: Virtual Connection Name
+    1. **Team Member** 
+        1. **SAFE**
+            1. Team Member: Workbook Name
+        1. **Data Sources**
+            1. Team Member: Data Source Name
+            1. Team Member: Virtual Connection Name 
     1. **Customer Success**
-        1. **Trusted Data** (Passes 100% of Trusted Data Standards)
-            1. **SAFE**
-                1. CS: Workbook Name
-            1. CS: Workbook Name
-        1. **Business Certified Workbooks** (Does not pass 100% of Trusted Data Standards, but is the SSOT for an area of Business Analysis. These workbooks should have a remediation plan to receive Trusted Data Certification.)
-            1. **SAFE**
-                1. CS: Workbook Name
+        1. **SAFE**
             1. CS: Workbook Name
         1. **Data Sources**
             1. CS: Data Source Name
@@ -134,13 +126,44 @@ The Project Architecture in Tableau Online is replicated and governed in the Git
 
 </details>
 
+### BIOps Roles and Responsibilities
+
+Please see the [project-permission-structure](/handbook/business-technology/data-team/platform/tableau/#project-permission-structure) section for details on the permissions for the below BIOps roles.
+
+| **Department:Team, Business Motion** | **Team Member Name** | **Tableau Online Role**  | **GitLab Tableau Project Role** |
+-------------------------------------- | -------------------- | ------------------------ | --------------------------------|
+| Data: BI Platform             | `@ttnguyen28`, `@iweeks`, `@pempey`, `@nmcavinue`, `@snalamaru` | Top Level Project Leader | Maintainer |
+| Data                          | `@ttnguyen28`, `@iweeks`, `@pempey`, `@nmcavinue`               | Sub-Project Leader       | Code Owner |
+| Customer Success              | `@jdbeaumont`                                                   | Sub-Project Leader       | Code Owner |
+| Marketing                     | `@christinelee`, `@jahye1`                                      | Sub-Project Leader       | Code Owner |
+| People                        | `@aperez349`, `@mccormack514`                                   | Sub-Project Leader       | Code Owner |
+| Product                       | `@cbraza`                                                       | Sub-Project Leader       | Code Owner |
+| Sales                         | `@aileenlu`                                                     | Sub-Project Leader       | Code Owner |
+| Finance: GTM Finance          | `@alixtucker`, `@nbernardo`, `@ofalken`, `@vagrawalg`           | Sub-Project Leader       | Code Owner |
+| Finance: Corporate Finance    | `@james.shen`, `@vagrawalg`                                     | Sub-Project Leader       | Code Owner |
+| Go To Market                  | `@aileenlu`, `@christinelee`, `@alixtucker`, `@nmcavinue`, `@vagrawalg` | Sub-Project Leader | Code Owner |
+| Team Member                   | `@aperez349`, `@james.shen`, `@vagrawalg`, `@nmcavinue`         | Sub-Project Leader       | Code Owner |
+
+1. **Top Level Project Leader / Maintainer Responsibilities:** The Top Level Project leaders come from the BI Platform Team. These leaders are responsibile for publishing content in the Sub-Projects that role up to the Top Level Projects and are responsible for maintaining the GitLab Tableau Project. This role does not specifically include Tableau Online Site Administration responsibilities although several Top Level Project Leaders are also [Tableau Online Site Admins](/handbook/business-technology/data-team/platform/tableau/#tableau-online-admins).
+2. **Sub-Project Leader / Code Owner Responsiblities:** The Sub-Project Leaders come from functional departments and teams. These leaders are responsbile for reviewing and approving content for publishing in their department's folder and in cross-functional Sub-Project folders like the Go To Market folder as Code Owners. 
+
 ### BIOPs Workflows
 
-We have three workflows that our Tableau Developer and Viewer community will follow. They are Access Request, Development, and Production Publishing Workflows. 
+The BIOps Workflow consists of 4 stages; Access Request, Development, Ad-Hoc Publishing, and Production Publishing. Please see the README(Coming soon...) in the GitLab Tableau Project for detailed steps on the workflow to include the process for submitting a Merge Request for Tableau Production publishing, submitting an Issue for Tableau Ad-Hoc publishing, and receiving the necessary maintainer and code owner approvals from Project and Sub-Project leaders for publishing content.  
 
-1. Access Request Workflow..coming soon..
-2. Development Workflow..coming soon..
-3. Production Publishing Workflow..coming soon..
+```mermaid
+graph LR
+  A[Access Request]-->B
+  B[Development]-->C
+  B[Development]-->D
+  C[Ad-Hoc Publishing]-->D
+  D[Production Publishing]
+```
+
+1. **Access Request:** The Access Request stage requires completion of an Access Request. Please see the [Access](/handbook/business-technology/data-team/platform/tableau/#access) section of the Tableau handbook page for more details. 
+2. **Development:** All Tableau Content Development starts in the Development Project Folder. The Development Folder is a Sandbox environment where Tableau developers are free to experiment and iterate with content and share with team members for initial peer reviews. Tableau Developers can organize their Sandbox work using [Collections](https://help.tableau.com/current/pro/desktop/en-us/collections.htm) for easy access and sharing.  **The Development Folder will have the same user experience as our old Sisense BI tool where team members can create and share content on demand without any approvals being required from the BI Platform team.** 
+3. **Ad-Hoc Publishing:** When content in the Development Project Folder is ready for publishing, it can be published in the Ad-Hoc Project Folder if it adheres to the [Ad-Hoc Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) methodology. **Please see the README(Coming soon...) for detailed steps on publishing content to the Ad-Hoc Project Folder.** 
+4. **Production Publishing:** When content in the Development or Ad-Hoc Project Folders is ready for Production publishing, it can be published in the Production Project Folder if it adheres to the [Trusted Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) methodology. Content that adheres to the Trusted Data Development process will get a Certified Stamp in Production. If the content does not adhere to the Trusted Data Development requirements, but is still considered SSOT, Production grade content, the content can still be published in Production, but it will not receive a Certified Stamp. In such cases, there should be an issue with a project plan for the Tableau content to receive a Certified Stamp. **Please see the README(Coming soon...) for detailed steps on publishing content to the Production Project Folder.**
 
 ## Deployment
 
@@ -378,8 +401,8 @@ For most Creators Tableau access also requires [Snowflake access](https://about.
 | People            | `@aperez349`, `@mccormack514` |
 | Product           | `@cbraza` |
 | Sales             | `@aileenlu` |
-| Finance: Sales Finance  | `@ofalken` |
-| Finance: FP&A | `@james.shen` |
+| Finance: GTM Finance  | `@ofalken` |
+| Finance: Corporate Finance | `@james.shen` |
 
 Tableau Desktop users will also need a Yubikey set up in Okta to access content published in Tableau Online. One can be requested using a by filling in a [form](https://docs.google.com/forms/d/e/1FAIpQLScKJ2Th2TU2YZ97WMfU_y2nC5AQKsiNeZ7kXea6-IS2CrEyzA/viewform).
 
