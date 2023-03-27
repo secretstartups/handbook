@@ -36,7 +36,7 @@ Check out a copy of Doug’s [Customer POV Deck](https://docs.google.com/present
 Have a deal you'd like to nominate? Fill out the [nomination form](https://forms.gle/7AYwzgFStrai5D2F7).
 
 ### New and Noteworthy Resources 📓
-There is a wealth of competitive resources available on our website. Share this great content ([GitHub](https://about.gitlab.com/competition/github/), [AzureDevOps](https://about.gitlab.com/devops-tools/azure-devops-vs-gitlab/), [Jenkins](/devops-tools/jenkins-vs-gitlab/), [CircleCI](https://about.gitlab.com/competition/circleci/)) with customers and prospects and better enable your champions to make the case for GitLab. Slack #competition with questions or feedback. [Explore the Compete Page -->](https://about.gitlab.com/compete)
+There is a wealth of competitive resources available on our website. Share this great content ([GitHub](https://about.gitlab.com/competition/github/), [AzureDevOps](https://about.gitlab.com/competition/azure/), [Jenkins](/devops-tools/jenkins-vs-gitlab/), [CircleCI](https://about.gitlab.com/competition/circleci/)) with customers and prospects and better enable your champions to make the case for GitLab. Slack #competition with questions or feedback. [Explore the Compete Page -->](https://about.gitlab.com/compete)
 
 Learn more about how Poland-based tech company MGA realized an 80% time savings by leveraging GitLab’s automated CI and CD. And, learn how Germany-based tech company SVA improved central code management and workflow CI with GitLab Community Edition. [Read More - SVA -->](https://about.gitlab.com/customers/sva/)
 

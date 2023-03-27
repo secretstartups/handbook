@@ -196,7 +196,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Watch the [YouTube Video](https://www.youtube.com/watch?v=a95DQqRTOHw&feature=youtu.be)
    - Check out the [GitLab vs. Jenkins](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab/)
 *  **Azure DevOps**
-   - Check out the [GitLab vs. Azure DevOps](https://about.gitlab.com/devops-tools/azure-devops-vs-gitlab/)
+   - Check out the [GitLab vs. Azure DevOps](https://about.gitlab.com/competition/azure/)
 *  **ACTIVITY: Phone-A-Friend: Competitors (Assignment - 45 Minutes - 10 Points - Pre Work)**
    - Talk with 3 tenured GitLab sales professionals (individual contributors or people managers) and ask them for their tips and tricks on successfully beating the competition. Please take notes from your calls and briefly summarize one or two things you learned from each conversation in the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdCwvGRS_-fV9J57KGYIjkXNEUHDigKoPXss-kf9r3Zjozo9w/viewform?usp=sf_link) to submit the assignment.
 * **QUIZ: Competitors (Assignment - 5 Points - Pre Work)**

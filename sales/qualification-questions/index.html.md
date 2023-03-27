@@ -268,7 +268,7 @@ The key to identifying more GitLab Premium and GitLab Ultimate opportunities is 
 *  Review the battle card and discovery questions [here](https://about.gitlab.com/competition/github/) 
 
 ### Competing/Selling Against Microsoft Azure DevOps
-*  Review the battle card and discovery questions [here](/devops-tools/azure-devops-vs-gitlab/)
+*  Review the battle card and discovery questions [here](/competition/azure/)
 
 ### Competing/Selling against Jenkins
 *  Review the battle card and discovery questions [here](/devops-tools/jenkins-vs-gitlab/) 
