@@ -11,11 +11,6 @@ title: "Application Security Runbooks"
 
 ## Application Security Runbooks
 
-_**Note for new joiners:** whenever you are on a rotation ([HackerOne][1] or [Triage Rotation][4]) or doing your onboarding process and need help or advice, reach out in the `#sec-appsec` Slack channel or ask during an AppSec Sync meeting. Here are some examples on scenarios where you may need ask or need help:_
-_- You're doing your onboarding tasks on threat model or appsec reviews, and you're stuck on it, or don't know how to tackle something in particular_
-_- You're on ping rotation, and you don't know how to deal with a particular situation, or what to do with a specific question_
-_- You're on HackerOne rotation and have to deal with a hard report_
-
 - [HackerOne Process][1]
 - [Procedures for Handling severity::1/priority::1 Issues][2]
 - [Security Engineer Process for both Regular and Critical Security Releases][5]
@@ -37,6 +32,15 @@ _- You're on HackerOne rotation and have to deal with a hard report_
 - [Gem Review Guidelines for AppSec Engineers][10]
 - [FedRAMP vulnerabilities triage runbook and guidance][11]
 - [How to handle upstream security patches?][12]
+- [Working with SIRT][13]
+
+## Note for New team members
+
+Whenever you are on a rotation ([HackerOne][1] or [Triage Rotation][4]) or doing your onboarding process and need help or advice, reach out in the `#sec-appsec` Slack channel or ask during an AppSec Sync meeting. Here are some examples on scenarios where you may need ask or need help:
+
+- You're doing your onboarding tasks, threat modeling, or appsec reviews, and you're stuck on it; or don't know how to tackle something in particular
+- You're on ping rotation and you don't know how to deal with a particular situation or what to do with a specific question
+- You're on HackerOne rotation and have to deal with a hard report
 
 [1]: ./hackerone-process.html
 [2]: ./handling-s1p1.html
@@ -50,6 +54,7 @@ _- You're on HackerOne rotation and have to deal with a hard report_
 [10]: ./gem-review-guidelines.html
 [11]: ./fedramp-scanners-process.html
 [12]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/runbooks/upstream_security_patches.md
+[13]: ./working-with-sirt.html
 [Verifying Security Fixes]: ./verifying-security-fixes.html
 [AppSec Review Template Process]: ./review-process.html
 [Investigating Package Hunter Findings]: ./investigating-package-hunter-findings.html
