@@ -177,7 +177,7 @@ Unsure what content topics align with your asset? Use the table below as a guide
 | Agile | | |
 | All-remote | Content that covers remote work, including best practices, stories, and advice. | [The case for all-remote companies](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/) |
 | Amazon Web Services (AWS) | Content that relates Amazon Web Services. Likely use cases are case studies where the customer uses GitLab + AWS and integration information & tutorials. | [How to set up multi-account AWS SAM deployments with GitLab CI/CD](/blog/2019/02/04/multi-account-aws-sam-deployments-with-gitlab-ci/) |
-| Azure | Content that talks specifically about Microsoft Azure. Likely uses cases are tutorials on using GitLab + Azure cloud or competitive content. | [Competitive analysis page for Azure DevOps](/devops-tools/azure-devops-vs-gitlab/) |
+| Azure | Content that talks specifically about Microsoft Azure. Likely uses cases are tutorials on using GitLab + Azure cloud or competitive content. | [Competitive analysis page for Azure DevOps](/competition/azure/) |
 | Bitbucket | | |
 | Checkmarx | | |
 | Cloud native | Content that relates container-based environments. Specifically, technologies are used to develop applications built with services packaged in containers, deployed as microservices and managed on elastic infrastructure through agile DevOps processes and continuous delivery workflows. | [A Cloud Native Transformation](/webcast/cloud-native-transformation/) |
