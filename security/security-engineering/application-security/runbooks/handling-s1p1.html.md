@@ -23,7 +23,7 @@ Once a potential severity::1/priority::1 issue is made known. The appsec enginee
 
 ## Escalate
 
-1. [Engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html) with a link to the issue.
+1. [Engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html) with a link to the issue, a summary of what has happened, and an description of what SIRT may need to do.
 1. Engage the appropriate [engineering manager and product manager of the affected component](/handbook/product/categories/) in both the issue **and** in the appropriate Slack channels.
 1. Ping `@appsec-leadership` in the `#sec-appsec` Slack channel with a link to the issue. This will help team leadership and other engineers get up to speed, in case they need to step in.
 
