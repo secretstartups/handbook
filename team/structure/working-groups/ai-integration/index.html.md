@@ -73,9 +73,11 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Functional Lead - Legal             | @m_taylor  | [Matthew Taylor](https://about.gitlab.com/company/team/#m_taylor)   | Sr. Director of Legal |
 | Product representative             | @mushakov | [Melissa Ushakov](https://about.gitlab.com/company/team/#mushakov)   | Group Manager, Product - Plan |
 | Product representative             | @sarahwaldner | [Sarah Waldner](https://about.gitlab.com/company/team/#sarahwaldner)   | Group Manager, Product - Create |
+| Product representative             | @joshlambert | [Joshua Lambert](https://about.gitlab.com/company/team/#joshlambert)   | Director of Product, Enablement |
 | Product representative             | @tlinz | [Torsten Linz](https://about.gitlab.com/company/team/#tlinz)   | PM, Source Code |
 | Development representative             | @johnhope | [John Hope](https://about.gitlab.com/company/team/#johnhope)   | SEM, Plan |
 | Development representative             | @andr3 | [André Luís](https://about.gitlab.com/company/team/#andr3)   | FEM: Source Code |
+| Development representative             | @cdu1  | [Chun Du](https://about.gitlab.com/company/team/#cdu1)   | Director of Engineering, Enablement |
 | Legal representative             | @jbackerman | [Jesse Backerman](https://about.gitlab.com/company/team/#jbackerman)   | Managing Legal Counsel |
 | Vulnerability Research Representative | @idawson | [Isaac Dawson](https://about.gitlab.com/company/team/#idawson) | Staff Vulnerability Researcher |
 | Vulnerability Research Representative | @dbolkensteyn | [Dinesh Bolkensteyn](https://about.gitlab.com/company/team/#dbolkensteyn) | Sr. Vulnerability Researcher |
