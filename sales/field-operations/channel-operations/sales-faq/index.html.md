@@ -67,7 +67,12 @@ Where can I find Deal Registration (DR) information on an opportunity?
 
 DR information can be found in two areas on the opportunity:
 1. “Registrations” section in the related list quick links section at the top of the opportunity. This section contains all DRs attached to an opportunity, including approved, expired, rejected, and pending Partner Sourced DRs as well as Service Attach DRs.
+
+![Opp DR Top Section](/handbook/sales/field-operations/channel-operations/images/opp_top_section.png "Deal Registration Opp")
+
 2. “Partner Sourced Deal Registration” section in the body of the opportunity which contains the approved Partner Sourced DR.
+
+![DR Section](/handbook/sales/field-operations/channel-operations/images/dr_section.png "Deal Registration Section in Opp")
 
 </details>
 
@@ -77,6 +82,8 @@ Where can I find information on the partner we quoted on an opportunity?
 </summary>
 
 Please refer to the “Primary Quote Partner Details” section of the opportunity which displays the partner information from the Primary Quote.
+
+![Primary Quote Section](/handbook/sales/field-operations/channel-operations/images/quote_section.png "Primary Quote Section")
 
 </details>
 
