@@ -101,7 +101,6 @@ To be added once the project is complete
 | Member             | Ali Ladhani        | Backend Engineer, Govern                        |
 | Member             | Aaron Huntsman     | Sr. Backend Engineer, Govern                    |
 | Member             | Daniel Tian        | Sr. Frontend Engineer, Govern                   |
-| Member             | Isaac Dawson       | Staff, Vulnerability Research                   |
 | Member             | Julian Thome       | Staff, Vulnerability Research                   |
 | Member             | Kris K             | Software Engineer, Google                       |
 | Advisor            | David Fernandez    | Staff Backend Engineer, Package Registry        |
