@@ -72,31 +72,16 @@ Percentage of all vendor spend for any department that is purchased via PO.
 - SOX Compliance.
 - Streamline the purchasing process.
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> When do I start the Procurement Process?
+## <i class="fas fa-stream" id="biz-tech-icons"></i>  New Zip tool launched 2023-02-01 for all Purchase Requests!
+- Reasons why we chose Zip and the Business Case can be found here.
+
+## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I start the Procurement Process?
 - Before agreeing to any business, legal and/or pricing terms with a supplier, whether in conversation or email
 - Immediately when you receive a contract and/or quote for new and/or recurring business 
     - If you have received a contract from a supplier, tell them you will send to your procurement team for review
 - When you have narrowed down your RFP to the final 1-2 suppliers
-
-## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I start the Procurement Process?
 - Create a Purchase Request in Zip
 - If unsure where to begin, tag the @procurement_team in the #procurement slack channel
-
-## <i class="fas fa-stream" id="biz-tech-icons"></i> What are other Services Procurement Supports?
-Includes RFP Templates, scorecards and Vendor Guidelines for doing business with GitLab:
-
-<div class="flex-row" markdown="0" style="height:110px;justify-content:center">
-     <a href="/handbook/finance/procurement/office-equipment-supplies/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Home Office and Supplies</a>
-  <a href="/handbook/finance/procurement/personal-use-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Individual Use Software</a>
-   <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor Selection Process</a>  
-   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor Terms and Conditions</a>
-   <a href="/handbook/legal/NDA/#" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Non-Disclosure Agreement (NDA)</a>
-   <a href="/handbook/finance/procurement/charitable-contributions/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Charitable Contributions</a>
-   <a href="/handbook/finance/procurement/trial-agreement/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Demo/Trial Agreements</a>
-</div>
-
-## <i class="fas fa-stream" id="biz-tech-icons"></i>  New Zip tool launched 2023-02-01 for all Purchase Requests!
-- Reasons why we chose Zip and the Business Case can be found here.
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i>  When does procurement negotiate my contract and how long does that take?
 - The procurement team negotiates SaaS contracts >$25K, and one-time contracts > $100K. 
@@ -299,6 +284,117 @@ Exceptions to the PO Policy are:
 1. Corporate Credit Card
 1. Urgent Payments not included on list above (approval required from VP, Corporate Controller and/or PAO)
 
+## <i class="fas fa-stream" id="biz-tech-icons"></i>  Vendor lifecycle management
+
+### Summary
+
+The procurement team is responsible for ensuring there is a process for vendors to be managed throughout the lifecycle from:
+    - Selection
+    - Security Review
+    - Contracting
+    - Negotiation
+    - Onboarding
+    - Recurring management and vendor review
+    - Vendor Renewal
+    - Termination
+
+### Selection
+
+Please review the below guidelines:
+1. Review the market capabilities defined by your overall spend before selecting your vendor.
+2. Before sharing details and/or confidential information regarding GitLab business needs, obtain a [Mutual Non-Disclosure Agreement](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view?usp=sharing) from the potential vendor (s). Refer to the [Signature Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) for signing authority.
+3. Use a scorecard to compare vendor capabilities and/or response to RFP.
+    - [Supplier Evaluation Scorecard Template](https://docs.google.com/spreadsheets/d/1DLU8NvpX-ksTcoIDxTYansffCLpXGiPHQTZMgh5VUQk/edit#gid=781943083)
+4. All vendors must adhere to the [GitLab Partner Code of Ethics](https://about.gitlab.com/handbook/legal/partner-code-of-ethics/). It is mandatory all vendors contractually adhere to this if they would like to do business with us. (Note these are typically not required in event related agreements unless the vendor is providing services).
+5. Identify your bid requirements based on your estimated spend. This applies to all new vendor spend, not existing suppliers:
+    - $0 - $100K: No Bid
+    - $101K - $250K: 2 -3 Bids
+    - Greater than $250K: RFP
+
+### Contracting
+
+All work that is done with a vendor must have a completed contract to be compliant and work may not be completed until a contract is in place. Contracts include NDAs, Master Service Agreements and Statements of Works. Our legal team assists with this step in the process. Please see the [legal review process](https://about.gitlab.com/handbook/finance/procurement/#legal-review-3-days---3-weeks) for more details. Additionally, please note that a small number of team members can sign agreements on behalf of GitLab - please see the [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) for more details.
+
+### Negotiation
+
+Procurement team can assist you in your negotiation. The goal is to get the best price inline with benchmarks.
+
+### Security Review
+
+All vendors require a security review. Please see the details of SLA and how to complete this process in our [Zip documentation section](https://about.gitlab.com/handbook/finance/procurement/#security-review-4-14-days).
+
+### Onboarding
+
+In order for your vendor to be able to be paid they need to be onboarded into our systems. The details are in our [Zip documentation section](https://about.gitlab.com/handbook/finance/procurement/#new-supplier-onboarding-2-3-days).
+
+### Recurring management and vendor review
+
+The business owner must run an annual business review with vendors who meet the following criteria:
+    - Over $100K in annual spend
+    - Is up for renewal
+
+The business owner must run a bi-annual business review with vendors who meet the following criteria:
+    - Over $500K in annual spend
+    - Is mission critical software
+
+The business review must cover:
+    - Success criteria of the contract
+    - What is going well
+    - What can be improved
+    - Review of any issues and remediation expected
+
+### Vendor Renewal Process
+
+The procurement team should pull a list every quarter of a rolling 12 month renewals. The source system for this pull is XXX. The list should be reviewed and prioritized with the business owners. The renewal process should start at least 90 days ahead of the renewal date providing ample time to review the terms and decide:
+    - Are there any additional security requirements for the vendor?
+    - Has the vendor had an RFP for pricing in last 3 years?
+    - Do we want to terminate or reduce spend and need to proactively notify per the contract?
+    - Do we want to change any terms of our contract?
+
+## Termination
+
+As part of the renewal process if it is deemed necessary to terminate an agreement that is not Statement of Work based such as a contractor or professional service engagement. The following steps should be taken.
+1. Termination questionnaire should be filled out by the business
+    a. Reason for termination (i.e. no business need, vendor underperformance, new system, etc)
+    b. Data management such as data migration, data retention and deletion
+    c. Timing for the termination
+    d. Notification requirements for the termination
+    e. Costs related to termination
+    f. Communication plan to team members (if necessary)
+2. The legal team should be notified and the existing contract should be reviewed to be able to understand our obligations to cleanly terminate
+3. The procurement team should be engaged to handle any notifications or vendor communications
+
+## <i class="fas fa-book" id="biz-tech-icons"></i> Third Party Risk Management
+
+The procurement team from a compliance and risk perspective has developed a process to handle third party risk to reduce the risk of the following:
+    - Financial Fraud or exposure created by third party behavior such as data leakage, security breach, business continuity, etc
+    - Failure of financial viability of third party impacting delivery
+    - Reputational damage arising from third party behavior
+    - Breach of regulation or law through third party action 
+    - Disruption in customer service due to third parties 
+
+### When do we require a financial viability check?
+
+When all of the following is met:
+    - Vendor is private company, LLC or self-employed
+    - Services provided are required for continued operations 
+        - Cloud hosting services
+        - Services directly related to servicing customers with an uptime requirement
+        - Storage of data that is not recoverable if vendor goes out of business
+        - Software or services where it would take over 1 week to replace or swap
+
+
+### How do we ensure terms to establish GitLab (and our Vendors) rights and responsibilities?
+
+Any time GitLab engages with a third party for the procurement of goods and/or services, which require GitLab to engage in a contract, the GitLab Legal Procurement team will review the terms and conditions. The purpose of this team is to review the contract which GitLab will enter into, and ensure the following:
+    - Terms and conditions which are fair and reasonable given the type(s) of products and/or services being procured; and
+    - Adequate obligations on behalf of GitLab vendors to ensure compliance with, (a) GitLab’s Code of Conduct and other company policies, (b) applicable laws, rules and regulations (including protection of personal data), and (c) the delivery, support and provision of goods and/or services
+In addition to ensuring terms and conditions, the GitLab Legal Procurement team collaborates frequently with procurement and business stakeholders to ensure any (and all) contracts align with the needs of the team. The GitLab Legal Procurement team addresses the needs of stakeholders ranging from complex technical application and platform services, to creating and drafting event contracts to meet the needs of GitLab events.
+
+### How do we prevent disruption in customer service?
+
+Agreements, as GitLab does with its own customers, include obligations that vendor’s have to GitLab. These can include uptime / downtime commitments (for SaaS providers), SLAs (for support), termination rights, and other commercial contract provisions which would enable GitLab to seek relief in the event of disruption
+
 ## <i class="fas fa-book" id="biz-tech-icons"></i> Helpful Documents and Templates
 
 #### Contract Templates
@@ -319,5 +415,23 @@ Exceptions to the PO Policy are:
 * [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
 * [Trademark](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines) - information regarding the usage of GitLab's trademark
 * [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
+
+#### Other Services
+
+* [Home Office and Supplies](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/)
+* [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/)
+* [Vendor Selection Process](https://about.gitlab.com/handbook/finance/procurement/vendor-selection-process/)
+* [Vendor Terms and Conditions](https://about.gitlab.com/handbook/finance/procurement/vendor-guidelines/)
+* [Non-Disclosure Agreement (NDA)](https://about.gitlab.com/handbook/legal/NDA/#)
+* [Charitable Contributions](https://about.gitlab.com/handbook/finance/procurement/charitable-contributions/)
+* [Demo/Trial Agreements](https://about.gitlab.com/handbook/finance/procurement/trial-agreement/)
+
+
+
+
+
+
+
+
 
 {::options parse_block_html="false" /}
