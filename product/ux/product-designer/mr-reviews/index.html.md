@@ -25,7 +25,7 @@ To help triage, be aware of all MRs in your stage group and ask engineers about 
 ### How to assign MR reviews 
 
 #### Stage group MRs
-The [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) will randomly suggest a designer to review. These MRs should have a well-documented design solution. Your role as a reviewer is to ensure the solution is developed as intended. After you've completed your review, cc the [design DRI of the group](/handbook/product/categories/#devops-stages) for awareness. Additionally, if you have further feedback on a particular UX solution, open a follow up issue and mention the design DRI.
+The [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) will randomly suggest a designer to review. These MRs should have a well-documented design solution. Your role as a reviewer is to ensure the solution is developed as intended. After you've completed your review, cc the [design DRI of the group](/handbook/product/categories/#devops-stages) for awareness. Additionally, if you have further feedback on a particular UX solution, open a follow-up issue and mention the design DRI.
   - There may be scenarios where an MR is based on a previous conversation or it proposes a solution that did not have a design associated with it. If this happens, `@ mention` the design DRI to ensure requirements are met. The design DRI should then notify the suggested UX reviewer to complete the MR review when ready.
       - An example is an MR with the label, `~"Internal hackathon"`. The design solution is likely being solved at the time of development.
 
@@ -66,6 +66,7 @@ In general, follow the [Code Review guidelines](https://docs.gitlab.com/ee/devel
     - Link(s) to the related issue(s).
     - _Before_ and _After_ screenshots/videos (if appropriate).
 - To reduce waiting time for [previewing the MR in a live environment](#preview-the-mr) (like Gitpod, your local GDK, or even a Review App), start the environment and let it load in the background while you familiarize yourself with the MR and related issue(s).
+- Some MRs with the `~"UX"` label may not have a design DRI or proposed designs associated with the change. In these cases, it is important to get as much context as you can about the change. If you are unsure how the changes impact other areas of the product, consider bringing in other designers and your design manager to help evaluate the impact of the proposal.
 
 ### Preview the MR
 
@@ -157,11 +158,12 @@ If you find yourself struggling to get your environment set up, try reaching out
 
       </details>
 - Try to find something worth praising the author for, like a thorough MR description or their attention to detail on a certain aspect. But don't make empty praises, only praise them if you recognize the value of what they've done.
-- When there are concerns with an MR consider the following actions to help progress the review:
+- When there are concerns with an MR, especially for those that did not have a design DRI associated with the proposal, consider the following actions to help progress the review:
    - Iterate instead of revert. Consider coaching and guiding the author of the MR towards an ideal solution.
    - Educate to collaborate. You may have more context of the problem than the author. Express your concerns and thoughts, and ask them how might they adapt their solution to accomodate the concerns.
    - Get a second opinion. When you are uncertain about a change feel free to involve a [quad member](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) from your product group, your product design manager, and/or other designers. This can be done directly in the MR or in Slack channels.
-   - Consider creating a follow up issue. The UX reviewer could create a follow up issue to address the concerns of the MR and inform the design DRI of it.
+   - Consider creating a follow-up issue to address the concerns of the MR and inform the design DRI of it.
+   - If changes are behind a feature flag, but there are concerns about the feature going live, consider creating an issue that blocks the full release of the feature with a list of items that need to be addressed (see this [example](https://gitlab.com/gitlab-org/gitlab/-/issues/398152)).
 
 ### Handoff the MR
 
