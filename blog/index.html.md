@@ -294,12 +294,13 @@ These are included to help readers find similar posts if they are interested in 
 You can include as many tags as you like, separated by commas. Please only include tags from the following list, and note that they are case sensitive.
 
 - agile
-- ARM
+- AI/ML
 - AWS
 - bug bounty
 - careers
 - CI
 - CD
+- CI/CD
 - cloud native
 - code review
 - collaboration
@@ -310,6 +311,9 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - design
 - developer survey
 - DevOps
+- DevOps platform
+- DevSecOps
+- DevSecOps platform
 - events
 - features
 - frontend
