@@ -1,4 +1,4 @@
-default: true,
+default: true
 blanks-around-lists: false
 line-length: false
 no-inline-html: false
@@ -12,3 +12,7 @@ heading-style:
 ul-indent: false
 ul-style:
   style: dash
+fix: false
+outputFormatters:
+  - - markdownlint-cli2-formatter-codequality
+  - - markdownlint-cli2-formatter-pretty
