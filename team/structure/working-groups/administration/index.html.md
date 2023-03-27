@@ -40,14 +40,14 @@ The maintenance and enhancement of GitLab Administration functions has been a sh
 
 ## Roles and Responsibilities
 
-| Working Group Role                       | Person                           | Title                                                           |
-|------------------------------------------|----------------------------------|-----------------------------------------------------------------|
-| Executive Stakeholder                    |                                  |                                                                 |
-| Facilitator/DRI                          |                                  Peter Lu (@plu8) |                                                               Engineering Manager, Distribution:Deploy |
-| Product Management DRI                   | Dilan Orrino                     |  Product Manager, Distribution                                  |
-| Member                                   | Gosia Ksionek (@mksionek)        |  Backend Engineer, Manage::Authentication & Authorization                      |
-| Member                                   | Christina Lohr (@lohrc)        |  Senior Product Manager, Data Stores::Tenant Scale                      |
-| Member                                   | Sean Carroll (@sean_carroll)     | Engineering Manager, Create::Source Code                        |
+| Working Group Role                       | Person                           | Title                                                          |
+|------------------------------------------|----------------------------------|----------------------------------------------------------------|
+| Executive Stakeholder                    | Christopher Lefelhocz (@clefelhocz1)           | VP of Development.                                             |
+| Facilitator/DRI                          | Peter Lu (@plu8)                 |                       Engineering Manager, Distribution:Deploy |
+| Product Management DRI                   | Dilan Orrino                     | Product Manager, Distribution                                  |
+| Member                                   | Gosia Ksionek (@mksionek)        | Backend Engineer, Manage::Authentication & Authorization       |
+| Member                                   | Christina Lohr (@lohrc)        |  Senior Product Manager, Data Stores::Tenant Scale               |
+| Member                                   | Sean Carroll (@sean_carroll)     | Engineering Manager, Create::Source Code                       |
 | Member                                   | Joseph Longo (@jlongo_gitlab)  | Manager, Governance and Field Security |
 | Member                                   | Oriol Lluch Parellada (@o-lluch)  | Engineering Manager, Infrastructure |
 | Member                                   | Hannah Sutor (@hsutor)  | Senior Product Manager - Auth |
