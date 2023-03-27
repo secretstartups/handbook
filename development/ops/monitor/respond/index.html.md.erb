@@ -514,25 +514,25 @@ Priorities for scheduling technical debt will apply as follows:
 - **P3**: To be scheduled at a later date
 - **P4**: Backlog, awaiting higher demand
 
-### Weekly async issue updates
+### Weekly async updates
 
-Every Friday, each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
+As part of the [Ops sub-department Async Updates](https://about.gitlab.com/handbook/engineering/development/ops/#async-updates-no-status-in-meetings), the EM is responsible for sharing a weekly team update.
 
-```
-<!---
-Please be sure to update the workflow labels of your issue to one of the following (that best describes the status)"
-- ~"workflow::in dev"
-- ~"workflow::in review"
-- ~"workflow::verification"
-- ~"workflow::blocked"
--->
-### Async issue update
-1. Please provide a quick summary of the current status (one sentence).
-1. When do you predict this feature to be ready for maintainer review?
-1. Are there any opportunities to further break the issue or merge request into smaller pieces (if applicable)?
-```
+Weekly update flow:
+1. Monday
+   1. (human) Close last week's issue, share a link to it in #g_respond.
+   1. (bot) Weekly update is created automatically as an issue in the [gitlab-org/monitor/respond](https://gitlab.com/gitlab-org/monitor/respond/-/blob/master/weekly_update/README.md) project.
+1. Throughout the week
+   1. (human) Noteworthy highlights, blockers, key metrics, etc, are posted manually in a comment thread on the issue.
+1. Friday
+   1. (bot) Issue stats are pulled and inserted in the issue.
+   1. (bot) Highlight thread is copied in the issue.
+   1. (human) Tweak the issue description if needed.
 
-We do this to encourage our team to be more async in collaboration and to allow the community and other team members to know the progress of issues that we are actively working on.
+Links
+- [Past weekly update issues](https://gitlab.com/gitlab-org/monitor/respond/-/issues/?sort=created_date&state=all&label_name%5B%5D=OpsSection%3A%3AWeekly-Update&first_page_size=100)
+- [Automation README](https://gitlab.com/gitlab-org/monitor/respond/-/blob/master/weekly_update/README.md)
+- [Issue template](https://gitlab.com/gitlab-org/monitor/respond/-/blob/master/.gitlab/issue_templates/weekly-update.md?plain=1)
 
 ### Interacting with community contributors
 
