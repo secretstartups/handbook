@@ -201,7 +201,8 @@ _Detailed sub-controls are included in the various control family pages_
 | IR-4 | Incident Handling | To implement incident handling capability for incidents that is consistent with the incident response plan and includes preparation, detection and analysis, containment, eradication, and recovery. | 
 | IR-5 | Incident Monitoring | To track and document incidents. | 
 | IR-6 | Incident Reporting | The requirement for personnel to report suspected incidents. | 
-| IR-8 | Incident Response Plan | To develop and implement a coordinated approach for incident response capability. | 
+| IR-8 | Incident Response Plan | To develop and implement a coordinated approach for incident response capability. |
+| IR-9 | Information Spillage Response | Develop and implement a process for identifying, responding to, and recovering from instances of information spillage. | 
  
 </details>
 
