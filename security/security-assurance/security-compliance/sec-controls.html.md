@@ -179,10 +179,7 @@ _Detailed sub-controls are included in the various control family pages_
 | IA-2 | Identification and Authentication (organizational Users) | To uniquely identify and authenticate organizational users and associate that unique identification with processes acting on behalf of those users. | 
 | IA-3 | Device Identification and Authentication | To uniquely identify and authenticate organization-defined devices and/or types of devices before establishing a local, remote and/or network connection. | 
 | IA-4 | Identifier Management | Receiving authorization from organization-defined personnel or roles to assign an identifier preventing reuse of identifiers for an organization-defined time period. | 
-| IA-5 | Authenticator Management | To manage system authenticators. | 
-| IA-6 | Authentication Feedback | Obscure feedback of authentication information during the authentication process to protect the information from possible exploitation and use by unauthorized individuals. | 
-| IA-7 | Cryptographic Module Authentication | Implement mechanisms for authentication to a cryptographic module that meet the requirements of applicable laws, executive orders, directives, policies, regulations, standards, and guidelines for such authentication. | 
-| IA-8 | Identification and Authentication (non-organizational Users) | To uniquely identify and authenticate non-organizational users or processes acting on behalf of non-organizational users. | 
+| IA-5 | Authenticator Management | To manage system authenticators. |  
 
 </details>
 
