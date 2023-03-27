@@ -221,6 +221,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Maintainership](/company/team/structure/working-groups/maintainership/)
 1. [Modern Applications Go-To-Market](/company/team/structure/working-groups/modern-applications-gtm/)
 1. [Next Architecture Workflow](/company/team/structure/working-groups/next-architecture-workflow/)
+1. [Runtime Update Process](/company/team/structure/working-groups/runtime-update-process)
 1. [Software Supply Chain Security](/company/team/structure/working-groups/software-supply-chain-security/)
 1. [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
 1. [Token Management](/company/team/structure/working-groups/token-management/)
