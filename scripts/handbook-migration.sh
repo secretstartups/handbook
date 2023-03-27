@@ -99,7 +99,7 @@ menu:
 EOF
 
 # Do a find and replace on all handbook and company links
-if [[ $HANDBOOK == false]]; then
+if [[ $HANDBOOK == false ]]; then
   echo "Finding and replacing broken handbook links..."
   find . -type f -name "*.md" -print0 | xargs -0 sed -i '' -e 's~](/handbook~](https://about.gitlab.com/handbook~g'
 fi
@@ -130,15 +130,16 @@ TITLE="Migrated $SECTION from www-gitlab-com to here"
 DESCRIPTION="
 This MR is the result of a subtree split and git pull from www-gitlab-com.  We have run markdown lint in fix mode
 to fix most markdown liniting errors although a number will still persist.  We have updated links which point to
-`/handbook` and `/company` to point to the full URLs on the Handbook.
+\`/handbook\` and \`/company\` to point to the full URLs on the Handbook.
 "
-HANDBOOK_MR_OUTPUT=$(glab mr create --push --no-editor -y -f -b master -a jamiemaynard -l "handbook::operations" -t "$TITLE" -d "$DESCRIPTION")
+HANDBOOK_MR_OUTPUT=$(glab mr create --push --no-editor -y -b main -a jamiemaynard -l "handbook::operations" -t "$TITLE" -d "$DESCRIPTION")
 echo $HANDBOOK_MR_OUTPUT
 
+echo "Moving on to clean up of www-gitlab-com repo..."
+cd $DUBDUBDUB_REPO
 # Setup redirects in dubdubdub
 echo "Setting up redirects in www-gitlab-com..."
-cd $DUBDUBDUB_REPO
-git checkout -b removing-$section-and-adding-redirects
+git checkout -b removing-$SECTION-and-adding-redirects
 # Replace existing redirects with new URL
 gsed -i -e "s~target: /$SECTION~target: https://handbook.gitlab.com/$SECTION~g" data/redirects.yml
 # Add new redirects for migrated content
@@ -146,9 +147,8 @@ for d in $(find $DIRECTORY_TO_SPLIT -type d | gsed -e "s+$DIRECTORY_TO_SPLIT+$SE
 cat << EOF >> data/redirects.yml
 - sources:
     - $d
-    - $d/
   target: https://handbook.gitlab.com/$d
-  comp_op: "="
+  comp_op: "^~"
 EOF
 done
 
@@ -178,7 +178,7 @@ This MR adds redirects for the $SECTION section of the handbook that has been mi
 It removes all migrated code and replaces the content with a README.md advising
 where this section of the handbooks code has moved to and where to get help.
 "
-WWW_MR_OUTPUT=$(glab mr create --push --no-editor -y -f -b master -a jamiemaynard -l "handbook::operations" -t "$TITLE" -d "$DESCRIPTION")
+WWW_MR_OUTPUT=$(glab mr create --push --no-editor -y -b master -a jamiemaynard -l "handbook::operations" -t "$TITLE" -d "$DESCRIPTION")
 echo $WWW_MR_OUTPUT
 
 echo "Cleaning up the copy of www-gitlab-com repo..."
