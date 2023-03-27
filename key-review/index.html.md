@@ -27,7 +27,7 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 
 ## Timing
 
-Meetings are scheduled as: Sales & Marketing, G&A, Product (twice per quarter); Engineering (6 x per year).
+E-Group has decided to reduce the cadence of Group Conversations and Key Reviews to once per quarter. We've heard that preparing for Group Conversations is a big lift for team members, and we've seen that participation has declined over time. By reducing the number of meetings, we hope to increase the quality of presentations, have greater participation, and free up team member preparation time. We'll continue to iterate as we identify ways to increase the value of these sessions. 
 
 ## Scheduling
 
