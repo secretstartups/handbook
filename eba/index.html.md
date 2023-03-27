@@ -30,7 +30,7 @@ This page details processes and general guidelines specific to the Executive Bus
 | [Product](https://about.gitlab.com/handbook/product/) | **Gena Schwam**<br>Sr EBA|  David DeSanto (CProdO) 
 | [Product](https://about.gitlab.com/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (Sr Director of Product Monetization) 
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Michael McBride (CRO)  
-| [Sales](https://about.gitlab.com/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Nima Badiey (VP of Alliances) | [Sales](https://about.gitlab.com/handbook/sales/) 
+| [Sales](https://about.gitlab.com/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Nima Badiey (VP of Alliances) 
 | [Sales](https://about.gitlab.com/handbook/sales/) | **TO BE HIRED - contact @sales-eba-team*<br>Sr EBA | David Hong (VP of Field Operations)
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Victoria Reinhardt**<br>Sr EBA | Ryan O’Nell (VP of Commercial Sales)<br>Mike Pyle (VP of Enterprise Sales) 
 
