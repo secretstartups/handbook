@@ -16,7 +16,7 @@ GitLab does **not** offer any form of work or study sponsorship anywhere in the 
 
 # Travel Visas
 
-For assistance with any employment or relocation visa please reach out to the People Ops Manager. Point of contact for Contribute and travel visas is TBD.
+For assistance with any employment or relocation visa please reach out to the People Connect. 
 
 ## Expensing
 
@@ -106,7 +106,7 @@ It is possible to make an appointment within 2 weeks.
 
 ### Right to Immigrate to the Netherlands
 
-Everyone that meets the following requirements can request to immigrate and relocate to the Netherlands, but you will also still need to pass the formal visa application process to qualify. The requirements are:
+If a team member wishes to immigrate and relocate to the Netherlands, they will need to first follow the [relocation process](https://about.gitlab.com/handbook/people-group/relocation/) and requirements and obtain approval to relocate.  Once approved, team members will also need to pass the formal visa application process to qualify. The requirements are:
 
 1. When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card)
 - Note, that the Dutch government has a higher requirement for team members aged 30 and above. The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
@@ -121,8 +121,6 @@ Tenure of less than 1 year at GitLab may be possibly waived as a requirement if:
   - Violence in your country does not provide a safe environment.
 
 If you meet these requirements, kindly read our [Relocation](https://about.gitlab.com/handbook/people-group/relocation/) handbook page, as well as our specific [Netherlands section](/handbook/people-group/relocation/#relocating-to-the-netherlands), to ensure that your request is evaluated and approved following our protocols. **Please email people-connect@gitlab.com if you have any questions.**
-
-If you do not meet one or more of the above requirements, please file a request with your manager and indicate clearly which requirements you meet and which ones you do not meet. All situations will be reviewed on a case by case basis. If you receive full manager approval, please forward that approval to people-connect@gitlab.com at the start of the process. **Manager approval to proceed does not ensure that you will be approved to relocate and immigrate.**
 
 #### Transferring a partner visa to a highly skilled migrant visa
 
