@@ -257,6 +257,23 @@ As detailed under the preceeding trigger.
 
 As detailed above, however the case will have the subject **PRO: New 1* PTC Account**
 
+### Accounts likely to downtier (Paid to Free) - Proactive Trigger
+
+Accounts that were recently updated and now have Likely to Downtier set to True, meaning they are likely to switch from a paid to free plan.
+
+#### Process
+
+On a daily basis, Self Service Ops will identify accounts owned by the Pooled Sales User that were updated to Likely to Downtier = True in the last 30 days.
+Cases will be created for these which will subsequently drop into the Pooled Sales Queue. 
+
+#### Policy
+
+As detailed under the preceeding trigger.
+
+#### AE Steps
+
+As detailed above, however the case will have the subject **PRO: Account likely to downtier (Paid to Free)**
+
 ### Accounts likely to upgrade to Ultimate - Proactive Trigger
 
 Similar to accounts with a high PTE, these customers could benefit from features found in Ultimate. 
