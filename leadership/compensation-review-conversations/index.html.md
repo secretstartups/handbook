@@ -25,18 +25,18 @@ Please make sure to review and understand the following content with regards to 
 ## Total Compensation Statements
 For FY24, Total Rewards will be providing [Cash Compensation Statements](/handbook/total-rewards/compensation/compensation-review-cycle/#cash-compensation-statement) outlining the compensation increase and/or promotion received during Annual Compensation Review. We recommend reviewing this letter before the conversation and use the letter as preparation to communicate exact approved figures. It is also recommended that you send the letter to the team member after your conversation with them so they can view the details.
 
-After Equity planning has taken place, a more robust [Total Compensation Statement](/handbook/total-rewards/compensation/compensation-review-cycle/#total-compensation-statement) will be released. More information on this is forthcoming.
+After Equity planning has been approved, a more robust [Total Compensation Statement](/handbook/total-rewards/compensation/compensation-review-cycle/#communicating-equity-refresh-grant) will be released. More information on this is forthcoming.
  
 ### Compensation Communication Recommendations 
  
-* **Communicate the increase face-to-face over [Zoom](/handbook/communication/#zoom).** As a manager, this is an opportunity for you to have a conversation with your team member about their compensation,increase and/or equity refresh grant (if applicable). Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing the number or percentage) and allows you to pick up other information like tone and non-verbal cues which can tell you more about how someone is feeling.
+* **Communicate the increase face-to-face over [Zoom](/handbook/communication/#zoom).** As a manager, this is an opportunity for you to have a conversation with your team member about their compensation, increase and/or equity refresh grant (if applicable). Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing the number) and allows you to pick up other information like tone and non-verbal cues which can tell you more about how someone is feeling.
  
 * **Prepare for the call ahead of time.** As a manager, you should have awareness of the following facts about GitLab's compensation principles (please review the handbook's [Global Compensation](/handbook/total-rewards/compensation/) page), any recent changes to the compensation calculator/band and personal details about your team member in Workday:
     * Hire date
     * Current compensation (including base salary, variable pay (where applicable), equity etc.)
     * Date of last compensation adjustment
     * Performance Factor
-    * Growth Factor
+    * Growth Potential Factor
     * Key Talent 
     * Location factor changes
     * Benchmark changes
@@ -55,17 +55,17 @@ After Equity planning has taken place, a more robust [Total Compensation Stateme
  
 ## Compensation Conversations Scenarios
 
-This section provides and overview of potential compensation conversation scenarios with recommendations on how to approach and navigate these conversations. Scenarios are broken out by compensation topic: cash compensation and equity refresh program. 
+This section provides and overview of potential compensation conversation scenarios with recommendations on how to approach and navigate these conversations. 
 
 ### Compensation 
 
 1. **Receiving a Cash Compensation Increase**:
 Sample Script: 
-   * "I am so pleased to inform you that you will be getting a cash compensation adjustment and equity refresh grant as a result of this year’s compensation review. Your compensation increase is based on one or more the following factors (Talent Assessment, Location Factor/Geo Region, Benchmark change and/or Discretionary). 
+   * "I am so pleased to inform you that you will be receiving a cash compensation adjustment as a result of this year’s compensation review. Your compensation increase is based on one or more the following factors (Talent Assessment, Location Factor/Geo Region, Benchmark change and/or Discretionary). 
    * Your salary will be increased to (insert $ amount in local currency) which is a (insert %) adjustment effective, February 1st.
 2. **Equity Refresh Grant (if applicable)**:
 Sample Script: 
-    * "Your equity refresh proposed grant is (insert USD) and will be reviewed for approval at the next applicable quarterly board approval." 
+    * "I am (also) pleased to inform you that your equity refresh proposed grant is (insert USD) and will be reviewed for approval at the next applicable quarterly board approval. The following factors were considered in determining the equity refresh proposed grant (Talent Assessment, Criticality of Role/Skills, Tenure, Unvested equity holdings). This means your total unvested equity is $XX based on the share price of $X (as listed on the Total Compensation Statement)". 
 
    * "Thank you for your hard work and I look forward to continuing to work with you! Do you have any questions?" 
 
@@ -73,8 +73,9 @@ Sample Script:
 
 1. **Not receiving an increase or refresh grant:**   A team member is not receiving an adjustment:
 Sample Script:
-   * "As you know, GitLab just went through our Annual Compensation Review. I wanted to inform you that you are not getting a compensation adjustment at this time. This is due to (examples below)...
-       * A team member is new to the team and at the market range for your aligned role.  "You are meeting performance expectations at this time (if applicable), however, we hire new team members at a competitive market rate and considering your recent start at GitLab, we feel that you are compensated accurately for your role at this time. 
+   *   Cash Compensation Sample Script: 
+        "As you know, GitLab just went through our Annual Compensation Review. I wanted to inform you that you are not be receiving a compensation adjustment at this time. This is due to (examples below)...
+       * A team member is new to the team and at the market range for your aligned role.  "You are meeting performance expectations at this time (if applicable), however, we hire new team members at a competitive market rate and considering your recent start at GitLab, we feel that you are compensated accurately for your role at this time compared to peers in the organization. 
        * A team member is not receiving because they are above range for their role.   "Your compensation is above the market pay range for your role and therefore you are not receiving an additional increase as a part of the Annual Compensation Review. You are meeting performance expectations at this time (if applicable), so let's discuss what you want to work on in the future and create a [development plan](/handbook/people-group/learning-and-development/career-development/) together."
        * A team member needs to improve performance. For questions on specific situations, please work with your People Business Partner.
     * Equity Refresh Sample Scripts: 
@@ -82,11 +83,13 @@ Sample Script:
  Not all team members were able to receive refresh grants, despite eligibility, as it is in the program setup/market alignment that we allocate only to a certain portion of our population. Aligned with our [expected distribution](/handbook/people-group/talent-assessment/#expected-distribution-company-wide/), typically organizations have ~25% of team members “exceeding”, 60-65% “performing”, and 10-15% “developing”. Core performers make up the most significant population in organizations, meaning that difficult decisions needed to be made in this group in terms of who was granted a refresh and who was not. 
  These were the factors considered that contributed to the decision to not allocate an additional refresh for you this year:
         * **_Not enough improvement on identified performance/growth areas:_** "Aligned with our performance discussion in FY23 we have identified improvement areas, such as [EXAMPLES]. Between that review and this equity review, there was not sufficient improvement in the areas identified. Therefore the decision has been made to not grant you additional equity at this time. I would love for us to further discuss those improvement areas and see how I can support you in meeting all expectations going forward. We review equity grants on an annual basis, and I hope we can work together to reassess your eligibility for next cycle."
-        * **_Role or skill based decision:_** "Participation in this program was based on performance and criticality of role. Therefore, not all team members will receive a refresh grant in the annual review cycle. However this is an annual process. You will be eligible to participate in next year’s program."
+        * **_Role or skill based decision:_** "Participation in this program was based on performance and criticality of role/skills. Therefore, not all team members will receive a refresh grant in the annual review cycle. However this is an annual process. You will be eligible to participate in next year’s program."
 
-        * **_Not in good standing with the company:_** There could be factors that have contributed to the fact that currently the team member is not in good standing with the company. Examples here could be: Code of conduct violations or significant behavioral issues. As a communicating manager please discuss these with [Team Member Relations](/handbook/people-group/team-member-relations/) and your People Business Partner. 
+        * **_Not in good standing with the company_** There could be factors that have contributed to the fact that currently the team member is not in good standing with the company. Examples here could be: Code of conduct violations or significant behavioral issues. As a communicating manager please discuss these with [Team Member Relations](/handbook/people-group/team-member-relations/) and your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
 
-        * **_Has been with the company for a shorter period of time:_** Though only team members with less than 6 months of tenure were truly ineligible, when determining who will receive a refresh amongst a group of team members with similar performance, potential, etc., tenure may have been considered. Aligned with the equity refresh program setup and market alignment, we are only able to allocate to a certain portion of our population. Due to allocation restrictions, other factors (such as tenure) might be considered as well. 
+        * **_Has been with the company for a shorter period of time:_** Team members with less than 6 months tenure were not eligible for a refresh based on our eligibility cut off date. However, aligned with the equity refresh program setup and market alignment, not all team members who are eligible based on start date will receive a grant.  Tenure has relevance when considering overall impact of contributions so far, demonstrated performance and growth potential, and unvested equity levels. Tenure was a factor in considering grant allocations.
+
+        * **_A team member's New hire equity grant was significant_**.  "You are meeting performance expectations at this time (if applicable), however, with proposing equity refresh grants we review holdings against hire date and peers for equality. Based on that extensive review, we feel you are well positioned from an equity perspective for your role compared to peers in the organization. 
 
 1. **_Team member was hired after the cut-off date:_** "At GitLab we review compensation (cash + equity + benefits) on a yearly basis. Due to your hire date you were not eligible to receive additional compensation at this time. You will be eligible for the next Annual Compensation Review where we will review both your cash and equity compensation."
 
@@ -110,5 +113,5 @@ Sample Script:
     * Refer back to the conversation you had with your team member at the time performance/growth factors were determined and reiterate the justification and feedback that you provided at that time.
     * If your team member is in good standing from a performance perspective, work with them to put together a [development plan](/handbook/people-group/learning-and-development/career-development/) to help them continue to grow. 
 
-**If you need assistance after reviewing the [handbook](/handbook/total-rewards/compensation/), please work directly with your manager or your [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group/)**
+**If you need assistance after reviewing the [handbook](/handbook/total-rewards/compensation/), please work directly with your manager or your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division)**
 
