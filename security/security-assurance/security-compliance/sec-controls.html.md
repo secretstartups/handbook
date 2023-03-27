@@ -99,9 +99,10 @@ _Detailed sub-controls are included in the various control family pages_
 
 | Control | Title | Description |
 |---------|-------------|---------------|
-| AT-1 | Policy and Procedures | Establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the AT family. |
-| AT-2 | Literacy Training and Awareness | Provide security awareness training that includes a basic understanding of the need for information security and user actions to maintain security and to respond to suspected security incidents. |
-| AT-3 | Role-based Training | Training based on the assigned roles and responsibilities of individuals as well as the security and privacy requirements of organizations and the systems to which personnel have authorized access, including technical training specifically tailored for assigned duties. |
+| AT-1 | Policy and Procedures | Develop, document, and disseminate a training policy and procedures that address the controls in the Awareness and Training (AT) family implemented within GitLab Inc. |
+| AT-2 | Literacy Training and Awareness | Provide security and privacy literacy training to team members and incorporate lessons learned from internal or external security incidents or breaches. |
+| AT-3 | Role-based Training | Provide role-based security and privacy training to appropriate team members and incorporate lessons learned from internal or external security incidents or breaches where appropriate. |
+| AT-4 | Training Records | Document and monitor security and privacy training activities and retain associated training records. |
 
 </details>
 
