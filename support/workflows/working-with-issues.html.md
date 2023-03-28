@@ -32,7 +32,7 @@ Issues are not scheduled for a particular release unless Product adds them to a 
 
 Regardless of the type of issue, please include any relevant information _along_ with a link. Also check that the [correct labels](#adding-labels) have been applied.
 
-Please see the product handbook to see [what information product wants us to provide for feature requests](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature)
+Please see the product handbook to see [what information product wants us to provide for feature requests](/handbook/product/how-to-engage/#customer-feature-requests)
 
 Optional:
 
@@ -102,7 +102,7 @@ and
 
 ## Creating Feature Proposals
 
-As per our [Statement of Support](https://about.gitlab.com/support/statement-of-support/), the Support Team will generally ask the customer to create feature requests. Feature requests with direct feedback from customers are valuable as customers are often best equipped to explain their use case, requirements, and needs. Ask customers to create the feature request issue and share the link with us. Once an issue link is available, [add labels](#adding-labels) and relevant details in the [comments](#adding-comments-on-existing-issues), and [link the source](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature).
+As per our [Statement of Support](https://about.gitlab.com/support/statement-of-support/), the Support Team will generally ask the customer to create feature requests. Feature requests with direct feedback from customers are valuable as customers are often best equipped to explain their use case, requirements, and needs. Ask customers to create the feature request issue and share the link with us. Once an issue link is available, [add labels](#adding-labels) and relevant details in the [comments](#adding-comments-on-existing-issues), and [link the source](/handbook/product/how-to-engage/#customer-feature-requests).
 
 If you create a feature proposal on behalf of a customer, please follow the same process as [Creating Issues](#creating-issues) by using the `Feature Proposal` template. After the issue is created, share the link in a reply encouraging the customer to follow and contribute to the issue.
 
