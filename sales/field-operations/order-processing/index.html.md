@@ -1374,7 +1374,7 @@ If the prospect is still a Lead record that has not converted into an Account, p
 
 #### Renewal Notification Emails
 
-Customer will receive a Renewal notification email for every subscription that they have active - this not only includes subscriptions with recurring charges, but also subscriptions with one-time charges only (like Professional Services and CI Minutes). It can be very confusing to the customer, so please assure them that this type of subscription will not renew and it does not impact their recurring GitLab plan subscription. You can see a [current list of these emails here](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/652#renewal-emails-sent-from-zuora).
+Customer will receive a Renewal notification email for every subscription that they have active - this not only includes subscriptions with recurring charges, but also subscriptions with one-time charges only (like Professional Services and compute credits). It can be very confusing to the customer, so please assure them that this type of subscription will not renew and it does not impact their recurring GitLab plan subscription. You can see a [current list of these emails here](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/652#renewal-emails-sent-from-zuora).
 
 This is a current system limitation. Renewal emails are sent by Zuora - they are very generic and are not customizable based on subscription state, products purchased or customer account settings. Ideally we would not send a renewal email for a subscription with non-renewable products. The work to improve these emails is being explored in [this Epic](https://gitlab.com/groups/gitlab-org/-/epics/6329).
 

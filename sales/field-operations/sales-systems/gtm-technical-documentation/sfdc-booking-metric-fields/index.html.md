@@ -33,7 +33,7 @@ Below is a Data Dictionary and Technical Documentation for our ARR Booking Metri
 | Recurring Amount           | All Recurring dollars (Gitlab Seats, Storage)           | Recurring_Amount__c           |
 | True Up Amount             | All One-time True Up dollars                            | True_Up_Amount__c            |
 | Pro Serv Amount            | All Professional Services Dollars                       | ProServ_Amount__c             |
-| Other Non-Recurring Amount | All other one-time fee products (Additional CI Minutes) | Other_Non_Recurring_Amount__c |
+| Other Non-Recurring Amount | All other one-time fee products (Additional compute credits) | Other_Non_Recurring_Amount__c |
 | Subscription Start Date    | The Start Date of the period for the opportunity        | Start_Date__c                 |
 | Subscription End Date      | The End Date of the period for the opportunity          | End_Date__c                   |
 

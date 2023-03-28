@@ -73,7 +73,7 @@ There is **exciting momentum from the Channel** team including:
 The **Fulfillment team has [created a new handbook page](https://about.gitlab.com/direction/fulfillment/releases/) that will serve as an internal Release post for Fulfillment features**. Highlights from the last milestone (13.5) include:
 1. Manual EULA process is now deprecated
 1. Provide customers with tools to identify Billable Members
-1. CI Minutes updates for Free tier subscribers
+1. Compute credits updates for Free tier subscribers
 1. Much more!
 
 Questions? Reach out in #s_fulfillment.  
