@@ -26,7 +26,41 @@ The guidelines below describe what people in our team commonly expense. Some of 
 1. If team members submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).  
 
 
-## Expense Policy
+## Expense Policy Links and Resources
 
-For further information on Expenses, visit the [Expenses handbook section](/handbook/finance/expenses/). 
+This table captures all of the links for different policies that are documented around using company money. This includes information of when to use our expense tool Navan, when to use a virtual credit card and when to get a PO from Zip. 
+
+
+| Policy Name | Owner | Description |
+| --------------- | ----- |
+| [Expense Policy](https://about.gitlab.com/handbook/finance/expenses/) | CFO | Policy and procedures by which reimbursable expenses are reimbursed |
+| [Travel Policy](https://about.gitlab.com/handbook/travel/) | CAO | Policy and process to book and reimburse travel expenses |
+| [Procurement Process (PO)](https://about.gitlab.com/handbook/finance/procurement/) | VP Finance | Process to engage the procurement team |
+| [Home Office Equipment and Supplies](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/) | CAO | Budget and policy for office equipment |
+| [Spending Company Money](https://about.gitlab.com/handbook/spending-company-money/) | CFO | Our philosophy on spending company money; Links to resources |
+| [GitLab Internal Acceptable Use Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/) | CPO, CLO | Requirements related to the use of GitLab computing resources and data assets by GitLab team members |
+| [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) | CPO | Access external resources to develop their career |
+| [Corporate Credit Card Policy](https://about.gitlab.com/handbook/finance/accounts-payable/corp-credit-cards/) | CFO | Guidelines for acceptable use of physical corporate cards |
+| [Celebrations & Life Events](https://about.gitlab.com/handbook/people-group/celebrations/#sts=Anniversary%20Gifts) | CPO | Gift policy |
+| [GitLab Related Party Transactions](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/) | CLO | Related Party Transactions Policy |
+
+## Ways to spend company money
+
+
+1. Individual expenses that meet the expense policy on your personal credit card: Please see our [Expense Policy](https://about.gitlab.com/handbook/finance/expenses/) to see what we will reimburse and how to get reimbursement.
+
+1. Individual expenses using a virtual card: Please see our [Expense Policy](https://about.gitlab.com/handbook/finance/expenses/)
+
+Individual expenses using a Navan physical card: Please see our [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
+
+Company expenses using a Coupa virtual card:  [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
+
+1. Company expenses using a purchase order: Please see our [Procurement Process (PO)](https://about.gitlab.com/handbook/finance/procurement/) 
+
+
+
+
+
+
+
 
