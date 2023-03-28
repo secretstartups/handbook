@@ -655,6 +655,190 @@ For details regarding this process, please visit our Events Page [here](/handboo
 
 The Field Marketing team utilizes the Field Marketing Fedex Account for shipping (details located in the Marketing 1pass). Please always include a reference when using the account (Allocadia ID, name of event, etc.) so charges can be tracked appropriately. For any questions regarding the Field Marketing Fedex account, please contact `@krogel`.
 
+# Field Marketing Food and Beverage Vendors for Virtual Events
+
+## AMER Field Marketing Virtual Food and Beverage Vendors 
+
+The AMER Field Marketing team utilizes [Grubhub](https://www.grubhub.com/) and [Pizzatime](https://pizzatime.xyz/) for all virtual events with a food and beverage component. Both vendors offer a wide range of food and beverage options to fit the needs of your virtual event best.
+
+### [Grubhub](https://www.grubhub.com/)
+
+#### Order Link Sharing 
+
+It is important to note that there is a limit on link sharing when utilizing the Grubhub platform. When registrant information is uploaded to the platform for event preparation, said registrants will receive a **unique, non-sharable link** to place their order.
+
+#### Grubhub Portal
+
+##### [How to sign into your account](https://corporate.grubhub.com/resource/signing-in/)
+
+- You should have received a [Welcome Email](https://corporate.grubhub.com/resource/signing-in/automated-welcome-emails-for-new-corporate-diners/) through which you created your credentials. If you never received a Welcome Email, please contact your FMC. Go to grubhub.com, click “Sign in” and enter your Grubhub credentials.
+
+How to access the Admin Portal
+
+The Admin Portal is where you manage all aspects of your Corporate Account from adding employees and creating meal credits to viewing invoices and order history.
+
+- To access your Admin Portal, click on the person icon in the upper right corner of the homepage, then Business Account.
+
+_If you do not see the Business account page, you are not an assigned Admin user on the account. Contact your FMC and they will request the appropriate access._
+
+#### Grubhub Training
+
+[Watch Training Video Here](https://www.youtube.com/watch?v=Uh3Kf2VyJ2I) - (Note: You must be logged in to GitLab Unfiltered to view)
+
+#### Grubhub General Support
+
+- [Grubhub Help Center](https://www.grubhub.com/help/contact-us)
+- Grubhub Support Email: help_me@grubhub.com
+- Grubhub Customer Support Number: (877) 585-7878
+
+#### Grubhub Corporate Support
+- [Grubhub Corporate Learning Center](https://corporate.grubhub.com/learning-center)
+- Grubhub Corporate Support Email: clients@grubhub.com
+- Grubhub Corporate Support Number: (844)-478-2249
+    - Press 1 for order status
+    - Press 2 for all other order issues
+    - Press 3 for questions about your account setup 
+
+#### Overview of the Grubhub Ordering Process
+
+_More detailed instructions are listed below._
+
+1. FMM to log into their Grubhub Admin Portal. 
+2. FMM to create a group, naming the group the title of the event. 
+3. FMM to bulk upload registrant information and assign to the created Group.
+4. FMM to create a meal credit for the event, assigning the meal credit with the created group.  
+5. FMC to bulk remove registrant information once the event has concluded and the invoice has been received (all invoices are sent to FMCs on a monthly cadence).   
+
+#### Creating Group Accounts and Meal Credits 
+
+##### [Group Management](https://corporate.grubhub.com/resource/creating-a-group/)
+
+Before you [create a Meal Credit](https://corporate.grubhub.com/resource/faqs-2/meal-credits/), make sure that you have created a Group to associate with that credit.
+
+**Note**: `Employees` in the Grubhub portal, refers to our registrants for an event.
+
+1. Log into corporate.grubhub.com. In the top right corner, click the person icon and select Business Account.
+2. In the navigation bar, hover over Employees & Groups and click “Groups”.
+3. Here, you can manage all your Groups. Select Add new group.
+4. Give your new Group a name (event name) and description, then click Add group.
+5. Now, assign employees to that Group. Employees must first be added to your account before they can be assigned to a Group. 
+    - If you already have employees added to your account, click Add employees and select the employees you want to add to this Group.
+    - If you don’t already have employees added to your account, hover over Employees & Groups in the navigation bar and click Employees. You can manually add employees one by one with the “Add New Employee” button, or [bulk add employees](https://corporate.grubhub.com/resource/admin-portal/uploading-employees-in-bulk/).
+        - It is important to note that when bulk adding employees you must include the name of the group in the upload file where applicable. This ensures the employees are assigned to a group. 
+6. Now you can [create your meal credits](https://corporate.grubhub.com/resource/faqs-2/meal-credits/).
+7. FMC to bulk remove registrant information once the event has concluded and the invoice has been received (all invoices are sent to FMCs on a monthly cadence). 
+
+#### Creating Meal Credits
+
+##### [Creating Meal Credits](https://corporate.grubhub.com/resource/meal-credits/)
+Before you create a Meal Credit, make sure that you have [created a Group to associate with that credit](https://corporate.grubhub.com/resource/creating-a-group/) (details above).
+
+**Note**: `Employees` in the Grubhub portal, refers to our registrants for an event.
+
+1. Hover over “Meal credit settings” and click “Meal credits”. Then, click “Add meal credit”.
+2. Name your meal credit; this is what your employees will see. We suggest including the name of the event or company associated with this meal credit so it’s easy for your employees to identify.
+3. Choose how long this budget is available.
+    - One day budgets are best for single day events (e.g. happy hours, meetings, celebrations). They can also repeat on specific days of the week.
+    - Weekly budgets are best for ongoing meal programs (e.g. providing employees lunch for the week). They can also repeat on a weekly basis.
+4. Then, select the time window for when the order must be placed and delivered, or simply check the “All day” box. Orders can be placed in advance but must be delivered within the designated timeframe.
+5. Next, choose what geographic areas your employees can order from. To ensure they can order from their home, select “Anywhere”.
+6. Under “Order Settings”, you can choose how your employees order their meals. Checking all options provides the most flexibility.
+7. Next, choose to require any sort of expense code/comments at checkout.
+8. Lastly, we recommend notifying your employees when their meal credit becomes available. We’ll send a customized, one-time email the morning their meal credit begins – so long as you create and assign meal credits the night before. Diners added to an existing budget will receive an email the morning after they’re added.
+9. Now, click “Add Meal Credit” and you can start adding groups to your new meal credit.
+10. Scroll down to select the group(s) you want associated with this meal credit and enter the budget amount.
+11. Click “Save” and you’re done!
+
+##### Meal Credits FAQ
+
+How do I create meal credits?
+- Please see the above section, Creating Meal Credits, for a step-by-step guide.
+
+Can I change a meal credit after it starts?
+- Yes. However, the date, frequency, and order window cannot be changed.
+
+My employee is not seeing their meal credit balance and/or is being asked to enter their personal credit card upon checkout. There could be a few reasons. Check to make sure all below items are addressed. If you’re still facing this issue, please reach out to Grubhub Corporte Support. 
+
+- The account your employee is ordering from is not tied to a corporate account. If the employee is tied to the corporate account, please check that a welcome email has been sent and that the employee registered their account.
+- The user is signing in using the wrong email.
+- The user is on the account but not tied to a group.
+- The user is tied to a group that is not tied to an active meal credit.
+- The order exceeds the amount budgeted to the user (credit card may be required to cover overages).
+- The user is attempting to order outside of your company’s allotted ordering times.
+- Meal credits are often location-specific. Is your employee trying to order to the or elsewhere?
+
+#### Details Regarding Grubhub Financials and Budgeting
+
+- It is important to note that Grubhub invoices on a monthly cycle and this invoice will be paid via the FY24 Grubhub Blanket PO. `@nataliepicci` and `@krogel` are the DRIs for the Grubhub monthly invoice.
+- Once the invoice is received, the FMC is to ensure the invoice includes the Grubhub Blanket PO number and the final order amount. The FMC is to send this invoice to AP for processing and the amount is to be added to the forecast line item in the AMER ALL plan in Allocadia.
+    - _To confirm which month the spend will hit in, please refer to our [Prepaid Policy](/handbook/finance/accounting/#prepaid-expense-policy)._
+- The FMM is required to transfer the invoiced Grubhub spend from their regional plan to the AMER ALL plan in Allocadia as soon as the event has concluded. 
+
+#### [Corporate Account Edits](https://corporate.grubhub.com/resource/uploading-employees-manually/)
+
+##### How do I add users to an account?
+
+You are able to upload new employees to your corporate account manually. We recommend that you upload employees manually if you have 10 or fewer; otherwise, we recommend uploading them in [bulk](https://corporate.grubhub.com/resource/admin-portal/uploading-employees-in-bulk/).
+
+1. To upload a new employee manually, click Employees & Groups tab and select Employees.
+2. Then click Add New Employee and input the employee’s information. Please note that first and last name, phone number, and email address are all required.
+3. You will also need to indicate if the user is a standard user or admin user.
+4. Click Add New Employee.
+5. You will now be able to add the employee to any existing Groups so they can be assigned to a line of credit.
+6. Go back to the Employees page, locate this user, and click on the envelope icon near their name to send their [Welcome Email](https://corporate.grubhub.com/resource/signing-in/automated-welcome-emails-for-new-corporate-diners/).
+
+#### Manual Employee Edits FAQ
+
+How do I create another admin user?
+- If the employee already has an account, click on the pencil next to their name, then the “edit” button and under the Permissions section, select “Admin User”. If the employee does not have an account, follow the instructions above.
+
+Removing Individual Employees
+1. Select the person icon at the top right of your screen and Business Account from the drop down menu.
+2. Under Employees & Groups, select Employees. Click the pencil next to the employee you would like to remove.
+
+How do I change a user’s email address?
+- Delete the user and re-add them to the account with the new email address. Make sure to re-add them to their group(s).
+
+What if a user has already registered their email with a personal Grubhub account?
+- The credit will automatically show up on their account when it is active. They do not need to set up a new account.
+
+### [Pizzatime](https://pizzatime.xyz/) 
+
+#### Order Link Sharing 
+
+It is important to note that there is no limit on link sharing when utilizing the Pizzatime platform. Meaning, once registrants receive the link to place their order, **they can share it with non-registrants** who can then redeem it for a meal. 
+
+#### Pizzatime Training
+
+[Watch Training Video Here](https://youtu.be/Jc3QU2HeFZU) - _(Note: You must be logged in to GitLab Unfiltered to view)_
+
+#### Pizzatime Support
+
+- [Pizzatime Help Desk](https://pizzatime.helpscoutdocs.com/)
+- Pizzatime Support Email: pizza@pizzatime.xyz
+
+#### Details Regarding Pizzatime Ordering
+
+- Steps to place your Pizzatime order can be found in the _Steps to Placing your Pizzatime Order_ section below.
+- Once you place your Pizzatime order, Pizzatime will provide a unique ordering link for your event. You will then share this link with your registrants in the registration confirmation email and/or the reminder email (please remember to add to your copy doc), to allow them to place their orders.
+
+#### Details Regarding Pizzatime Financials and Budgeting
+
+- It is important to note that in order to place an order with Pizzatime, you will be required to request a [Coupa Virtual Card](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/) for payment. 
+- Please submit a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) for the Coupa Virtual Card to your FMC with all the required details pertaining to your event. 
+- Note: Ensure all cost estimates have been added to Allocadia. If the final Pizzatime order cost is 10% above or below the requested Coupa Virtual Card amount, please inform your FMC as they will need to submit a [PO Change Request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request). 
+- Note: The order confirmation page on Pizzatime will serve as your order. The steps below detail how to get to the confirmation page.
+- _To confirm which month the spend will hit in, please refer to our [Prepaid Policy](/handbook/finance/accounting/#prepaid-expense-policy)._
+
+#### Steps to Placing your Pizztime Order
+
+1. Proceed to [book your Pizzatime order](https://app.pizzatime.xyz/book/date).
+1. Follow all of the prompts, selecting food & drink options relative to your event details.
+1. Once you reach the confirmation/payment page, take a screenshot of the entire page. Attach this screenshot to your contract request (this serves as your order). 
+1. Submit a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) to your FMC. They will provide you with your Coupa virtual card information, once the order has been approved and the card has been issued.
+1. Once you have the Coupa virtual card information from your FMC, proceed to book/pay for your Pizzatime order via the Pizzatime website.
+1. Provide the payment receipt to your FMC for reference.
+
 # Sourcing New Field Marketing Vendors
 
 Field marketers are always looking for new ways to support the sales teams within their regions and to provide unique, alternative ways to draw potential prospects closer to our company and show value to our current customers in order to expand within those accounts. Field marketers have a vast tool kit of marketing initiatives for precisely that. However, sometimes a gap is identified and field marketers will look to external third party vendors to help fill that gap when it comes to achieving their goals to their marketing metrics.
