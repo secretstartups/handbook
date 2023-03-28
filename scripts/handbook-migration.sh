@@ -114,7 +114,7 @@ if [ ! -d $DUBDUBDUB_REPO/$DIRECTORY_TO_SPLIT ]; then
 
 # Make sure we're on Master and we have have all the latest commits for handbook
 echo -e "${bold}Making sure both repos are up to date...${normal}"
-exit 0
+
 cd $HANDBOOK_REPO
 git checkout main
 git pull
@@ -133,7 +133,8 @@ cd /tmp/gitlab-migration/www-gitlab-com
 echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
 git remote rm origin
 git filter-branch --subdirectory-filter $DIRECTORY_TO_SPLIT -- --all
-git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&$SECTION\//" |
+
+git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&'$SECTION'\//" |
     GIT_INDEX_FILE=$GIT_INDEX_FILE.new \
         git update-index --index-info &&
  mv "$GIT_INDEX_FILE.new" "$GIT_INDEX_FILE"' HEAD
@@ -225,16 +226,12 @@ gsed -i -e "s~target: /$SECTION~target: https://handbook.gitlab.com/$SECTION~g" 
 # Add new redirects for migrated content
 for d in $(find $DIRECTORY_TO_SPLIT -type d | gsed -e "s+$DIRECTORY_TO_SPLIT+$SECTION+g"); do
   target_url="https://handbook.gitlab.com/$d"
-  if [[ $(grep $target_url data/redirects.yml) ]]; then
-    gsed -i -e "s~  target: $target_url~    - /$d\n    - /$d/\n  target: $target_url~" data/redirects.yml
-  else
     cat << EOF >> data/redirects.yml
 - sources:
     - /$d
   target: $target_url
   comp_op: "^~"
 EOF
-  fi
 done
 
 # Remove old content and replace with a README.md
