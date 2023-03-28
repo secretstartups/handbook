@@ -71,6 +71,7 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Functional Lead - AI Assisted      | @mray  | [Monmayuri Ray](https://gitlab.com/mray2020)   | Engineering Manager AI Assisted |
 | Functional Lead - UX             | @jmandell  | [Justin Mandell](https://about.gitlab.com/company/team/#jmandell)   | Product Design Manager: Configure, Monitor, Secure & Growth |
 | Functional Lead - Legal             | @m_taylor  | [Matthew Taylor](https://about.gitlab.com/company/team/#m_taylor)   | Sr. Director of Legal |
+| Pricing representative             | @seanhall | [Sean Hall](https://about.gitlab.com/company/team/#seanhall)   | Principal Pricing Manager, Product |
 | Product representative             | @mushakov | [Melissa Ushakov](https://about.gitlab.com/company/team/#mushakov)   | Group Manager, Product - Plan |
 | Product representative             | @sarahwaldner | [Sarah Waldner](https://about.gitlab.com/company/team/#sarahwaldner)   | Group Manager, Product - Create |
 | Product representative             | @tlinz | [Torsten Linz](https://about.gitlab.com/company/team/#tlinz)   | PM, Source Code |
