@@ -10,11 +10,11 @@ title: "RFP Process"
 {:toc .hidden-md .hidden-lg}
 
 
-## RFP Process
+## Request for Proposal (RFP) Process
 
-The Field Security Team, Legal & Corporate Affairs, Field Ops and Sales have created a process to assist and simplify the RFP process for the Field Team. With regards to RFP's, the Field Team should follow the below steps:
+The Field Security Team, Legal & Corporate Affairs, Field Ops and Sales have created a process to assist and simplify the Request for Proposal or Information process for the Field Team. With regards to RFP's, the Field Team should follow the below steps:
 
-1. Upon receipt of an RFP, the Sales Team Member should ensure that an Account and Opportunity are created in SFDC;
+1. Upon receipt of a Request for Proposal (RFP) or Request for Information (RFI), the Sales Team Member should ensure that an Account and Opportunity are created in SFDC;
 1. If the RFP will require more than a quote being created (e.g. insight and assistance from various stakeholders), the Sales Team Member should request and receive ASM (or higher) approval via Chatter in the SFDC Opportunity. 
 1. The Sales Team Member will review content in [AnswerBase](https://app.vendorpedia.com/vendor-portal/libraries) for any questions related to Security, Legal and ESG. _NOTE:_ All Team Members have a base-line entitlement.
 1. Sales Team Member should engage [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#communicating-with-the-deal-desk-team), per standard process, for any question related to pricing and/or quoting. 
@@ -24,7 +24,7 @@ The Field Security Team, Legal & Corporate Affairs, Field Ops and Sales have cre
 
 ## What Field Security Can't Do
 
-There are parts of the RFP process that fall outside of Field Security's scope. _We cannot write the proposals or provide the following: product or service specifications, implementation schedule, and plans; training or support specifications and terms; information surrounding GitLab's ability to provide the appropriate resources; other GitLab customers' experiences; and anything related to costs, values, pricing, payments, etc._
+There are parts of the Request for Proposal or Request for Information process that fall outside of Field Security's scope. _We cannot write the proposals or provide the following: product or service specifications, implementation schedule, and plans; training or support specifications and terms; information surrounding GitLab's ability to provide the appropriate resources; other GitLab customers' experiences; and anything related to costs, values, pricing, payments, etc._
 
 What _we can do_ is respond to requests relating to security and facilitate other SME's responses to areas such as People/HR, Finance, Privacy, Commercial Legal, etc. 
 
