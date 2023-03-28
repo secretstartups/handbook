@@ -49,7 +49,7 @@ This workshop is *not* intended to provide a "hands-on-keyboard" demo experience
 ## Workshop Materials
 
 * **Basic Workshop** [Intro to CI/CD Lunch and Learn slides](https://docs.google.com/presentation/d/1AO4z6Q8lQE10zCzjNRT5fGcYbYdMZf4AXUAAIodib3E/edit#slide=id.g719d32106a_0_0)
-* **Advanced Workshop** [Advanced CI Workshop Slides](https://docs.google.com/presentation/d/1CBcpyFqmfG99JyzNS2CexRLAhQ4IziMDINFXoKuy9_w/edit)
+* **Advanced Workshop** [Advanced CI Workshop Slides](https://docs.google.com/presentation/d/1cqysPx_93xnzZ853HwIlRd63oA1Ni9MY8kclYv-JMBw/edit)
 * For any auxiliary material, feel free to draw from other decks in the [Lunch and Learns Google Drive Folder](https://drive.google.com/drive/folders/1NnDsqoc-KRdy7hF1jbo6H_59FwzpiKUc?ths=true)
 
 If you'd rather leverage pre-recorded content for an advanced workshop, you could consider using the below:
