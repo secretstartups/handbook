@@ -162,7 +162,7 @@ echo -e "${bold}Performing migration from www-gitlab-com copy to handbook...${no
 cd $HANDBOOK_REPO
 git checkout -b $BRANCH_NAME
 git remote add $SECTION /tmp/gitlab-migration/www-gitlab-com
-git pull $SECTION master --allow-unrelated-histories
+git pull $SECTION master --allow-unrelated-histories --no-edit
 git mv $SECTION content/
 
 echo -e "${bold}Creating index page for new content...${normal}"
@@ -237,7 +237,8 @@ done
 # Remove old content and replace with a README.md
 echo -e "${bold}Removing migrated content from www-gitlab-com...${normal}"
 git rm -r $DIRECTORY_TO_SPLIT/*
-cat << EOF > README.md
+mkdir -p $DIRECTORY_TO_SPLIT
+cat << EOF > $DIRECTORY_TO_SPLIT/README.md
 # $TITLE has been migrated
 
 This handbook content has been migrated to the new handbook site and as such this directory
