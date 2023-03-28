@@ -126,7 +126,7 @@ GitLab Community Programs:
 
 * The [GitLab for Open Source](/solutions/open-source/) Program supports GitLab's mission to make the world a place where anyone can contribute. We help make GitLab the best place for open source projects to grow and thrive.
 
-* The [GitLab for Startups](/handbook/marketing/community-relations/community-programs/startups-program/) Program helps qualifying startups access to our top tiers and 50,000 CI minutes for free for 12 months.
+* The [GitLab for Startups](/handbook/marketing/community-relations/community-programs/startups-program/) Program helps qualifying startups access to our top tiers and 50,000 compute credits for free for 12 months.
 
 As of January 2023, The GitLab for Education Program has over 3 million users of GitLab’s top-tier at over 1,000 educational institutions in over 65+ countries.
 
