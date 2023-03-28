@@ -20,6 +20,7 @@ The Senior Manager, Self-Service Sales report so the Director, Title.
 The Senior Manager, Self-Service Sales is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Self-Service Sales Responsibilities
+
 - Drives, manages and executes the business and revenue of a sales team
 - Prepares forecasts, territory/industry management, and growth plans
 - Establishes and reports on metrics to measure team performance; correct deficiencies where necessary
@@ -32,6 +33,7 @@ The Senior Manager, Self-Service Sales is a [grade 9](https://about.gitlab.com/h
 - Proactively identify and respond to customer issues within the self-service experience. Act as the direct sales resource for our self-service product.
 
 #### Senior Manager, Self-Service Sales Requirements
+
 - Experience selling to Fortune 500; willingness to “roll up your sleeves” and sell
 - Proven track record of meeting or exceeding performance objectives (revenue targets, pipeline targets, etc.)
 - Strong presentation skills; Executive level communication skills (both written and verbal) and the ability to mentor others
@@ -46,6 +48,7 @@ Operational execution and troubleshooting by identifying issues as they surface;
 
 
 ## Performance Indicators
+
 - nARR & FO performance vs. plan for the account base covered by the self-service sales team.
 - nARR & FO leading indicators of sales pipeline coverage & churn.
 - Successly leading team with on target sales capacity & percent of ramped reps at or above quota.

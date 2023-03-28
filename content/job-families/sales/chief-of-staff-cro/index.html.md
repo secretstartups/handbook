@@ -1,16 +1,16 @@
 ---
 layout: job_family_page
-title: Chief of Staff to the CRO 
+title: Chief of Staff to the CRO
 ---
 
-This is a key leadership position on the Chief Revenue Officer’s team. This highly visible role is a trusted partner to the Chief Revenue Officer (CRO) to drive operational excellence and deliver repeatable business results. This role serves as a partner to the CRO as a strategic advisor and executing cross-functional and cross-organization initiatives and activities supporting the CRO's strategy and vision in alignment with our company values.  
+This is a key leadership position on the Chief Revenue Officer’s team. This highly visible role is a trusted partner to the Chief Revenue Officer (CRO) to drive operational excellence and deliver repeatable business results. This role serves as a partner to the CRO as a strategic advisor and executing cross-functional and cross-organization initiatives and activities supporting the CRO's strategy and vision in alignment with our company values.
 
 This role does not overlap with responsibilities [Executive Business Administrators](/job-families/people-group/executive-business-administrator/) already handle. This role could have EBA support, will work closly with the EBA to the CRO, and may directly manage an EBA, although will not have a dedicated EBA themselves.
 
 
 ## Responsibilities
 
-The responsibilities include both directed work initiated by the CRO as well as self-directed leadership work that includes inputs and priorities from the CRO leadership team.  This role will help enable communication, collaboration, strategy execution and special projects across the CRO organization. This individual will work in close partnership with the CRO and other business stakeholders to drive programs, execute and monitor our business strategy.  
+The responsibilities include both directed work initiated by the CRO as well as self-directed leadership work that includes inputs and priorities from the CRO leadership team.  This role will help enable communication, collaboration, strategy execution and special projects across the CRO organization. This individual will work in close partnership with the CRO and other business stakeholders to drive programs, execute and monitor our business strategy.
 
 - Create structure and process for the CRO to improve visibility and accountability with their direct reports
 - Lead and partner on special projects for areas in which the CRO personally oversees (or has a keen interest in)
@@ -32,6 +32,7 @@ The responsibilities include both directed work initiated by the CRO as well as 
 - Maintain and foster a close partnership with the Sales Strategy & Analytics and the broader Field Operations Teams
 
 ### Administration and Meetings
+
 - Manage weekly executive staff meetings, including, but not limited to, setting the agenda, providing insights and analysis to inform strategic conversations. Documents and communicates decisions and action items from meetings. Ensures follow-up and closure of action items to increase accountability
 - Lead the CRO quarterly offsite and quarterly CRO QBR agenda and meeting
 - Prepare for external meetings including board meetings
@@ -45,6 +46,7 @@ The responsibilities include both directed work initiated by the CRO as well as 
 
 
 ## Requirements
+
 - Ability to use GitLab
 - Capacity to become a senior leader at GitLab
 - Passion for doing whatever it takes to solve complex problems and build scalable processes
@@ -56,18 +58,18 @@ The responsibilities include both directed work initiated by the CRO as well as 
 - Ability to shift priorities quickly and act proactively, while maintaining organization and control.
 - Ability to work collaboratively and efficiently with stakeholders throughout the organization
 - Must be able to manage conversations with the Board and C-Suite with ease and confidence
-- Concise written and verbal communication.  
+- Concise written and verbal communication.
 - Ability to work independently and deliver results with little supervision
 - Detail and results-oriented; driven and self-motivated with strong initiative
 - Excellent organization and time management skills; ability to prioritize tasks across multiple projects
 - Problem solver, analytical and organized thinker
-- Proven track record of effectively interacting with senior stakeholders on cross-functional projects.  
+- Proven track record of effectively interacting with senior stakeholders on cross-functional projects.
 - You have [short toes](https://about.gitlab.com/handbook/values/#short-toes) and an aptitude for working well with a wide range of people.
 - “Calm under pressure” demeanor
 - Bachelor's Degree in Business Administration, Finance, or a related discipline or prior work experience in one or more of these disciplines
 - Some travel will be required: Ability to travel to support the CRO, as needed
 - Operational experience in a previous role
-- Structured about how to prioritize work and time.  
+- Structured about how to prioritize work and time.
 
 
 #### Job Grade

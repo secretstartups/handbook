@@ -43,6 +43,7 @@ To be defined at time of business need.
 The Channel Services Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - The Channel Services Manager will serve as a primary point of contact for GitLab’s top services partners and will ensure that services partners are trained and certified to provide professional, consulting, training, & managed services for GitLab customers.
     - For managed services: ensuring that the channel partners are operating compliant practices and offerings with the GitLab best practices.
 - This individual will help GitLab manage the evolution of its services offerings via partners to drive usage adoption of the complete GitLab platform and expansion across the customers’ organizations.
@@ -87,7 +88,7 @@ The Senior Channel Services Manager is a [grade 7](https://about.gitlab.com/hand
 - Work cross-functionally to support the Gitlab Enablement, Professional Services & Customer Success teams in building and improving tools and processes that promote mutual success.
 - Working with the Channel Sales Managers, drive and facilitate partner certifications through eLearning, instructor-led training, boot camps and ongoing certification maintenance.
 - Improve processes for partner services onboarding and engagement with GitLab PS and Sales teams.
-- Create and facilitate communications about GitLab news, opportunities, program details and product updates with channel partners in the regular Channel Programs newsletters and webcasts.  
+- Create and facilitate communications about GitLab news, opportunities, program details and product updates with channel partners in the regular Channel Programs newsletters and webcasts.
 - Find and recommend new Services Partners in collaboration with corporate and regional Channel Sales Managers
 - Ensure our partners have the skills, training, and expertise to implement, operate and support Gitlab solutions.
 
@@ -143,7 +144,7 @@ The Lead Channel Services Manager is a [grade 8](https://about.gitlab.com/handbo
 - Experience working with technical and non-technical resources in a cross-functional sales project management capacity.
 - Previous experience working to establish Channel Services strategy for a technology company.
 - Experience working with partner accreditation programs, specifically with regards to channel business planning and program design.
-- Excellent strategic planning skills demonstrated in aligning deliverables to top level organizational goals.  
+- Excellent strategic planning skills demonstrated in aligning deliverables to top level organizational goals.
 - This position requires regular status reporting, including but not limited to progress toward programmatic goals, quarterly goals, and leadership status updates.
 - Previous communication experience including executive presentation, sales education presentations, internal and external status updates using various digital media formats.
 - Experience with SFDC and Impartner a plus.
@@ -258,6 +259,7 @@ Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vaca
 ### Go To Market (GTM)
 
 ## Performance Indicators
+
 - Partner services delivery - As subcontractor to GitLab PS and direct by partner.
     - Professional services
     - Training

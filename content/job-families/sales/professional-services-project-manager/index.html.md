@@ -11,12 +11,12 @@ title: "Professional Services Project Manager"
 | Senior - 7 |
 
 ## **Performance Indicators**
+
 - Achieve 100% of the global quarterly revenue target
 - Manage customer projects to a successful, on budget, on schedule completion
 - Successfully manage the quarterly revenue forecast (within your pervue) within a 5% margin
 
 # **Professional Services Roles at GitLab**
-
 
 ## **Professional Services Project Manager**
 
@@ -31,6 +31,7 @@ The Professional Services Project Manager is a [grade 6](https://about.gitlab.co
 GitLab Professional Services Project Managers manage high-complexity projects to successful completion from initiation through delivery to closure. In this role, you will coordinate with cross-functional teams and our global customers to complete distinct projects both on time and within budget. Project Managers need to have substantial experience managing IT and software consulting projects and relying on traditional systems and software development methodologies, as well as practical experience with agile project management methodologies.
 
 #### **Professional Services Project Manager Responsibilities**
+
 - Develop and manage detailed schedules to deliver technical and consulting services to GitLab customers
 - Manage customer expectations, project scope, and resources needed to successfully deliver to customer needs
 - Develop and communicate project schedule, status, risks and issues to all levels of stakeholders, ranging from technical staff to executives
@@ -43,6 +44,7 @@ GitLab Professional Services Project Managers manage high-complexity projects to
 
 
 #### **Professional Services Project Manager Requirements**
+
 - Knowledge of specific industry project management and technical delivery methodologies for software (e.g., Project Management Institute (PMI) methodologies, agile/scrum, and/or software SDLC)
 - Bachelor's degree in engineering, computer science or related field
 - Demonstrated progressive experience working as a project manager on IT-based projects
@@ -85,11 +87,13 @@ All of the requirements of an intermeidate Project Manager plus the following:
    - Ensure revenue can be recognized immediately following the completion of the work (swiftly execute Change Orders as needed)
 
 ## **Performance Indicators**
+
 - Achieve 100% of the global quarterly revenue target
 - Manage customer projects to a successful, on budget, on schedule completion
 - Successfully manage the quarterly revenue forecast (within your pervue) within a 5% margin
 
 ## **Career Ladder**
+
 - The next steps for individual contributors is to move into:
     - A Manager role within this Job family or
     - To a Engagement Manager role

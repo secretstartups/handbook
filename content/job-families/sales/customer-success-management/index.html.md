@@ -294,7 +294,7 @@ The Vice President of CSM is a job grade [12](https://about.gitlab.com/handbook/
 - Provide strategic influence with customers accounts as well internally for programs and initiatives, continuously improving customer journey, segmentation approaches, and digital approaches.
 - Lead new developments and improvements across GitLab to improve customer experience, customer-centricity, and growth for GitLab.
 - Provide executive sponsorship for strategic accounts.
-- Develops a clear strategy and vision for their department, inspiring their team through communication in alignment with GitLab's mission,vision, and values.  
+- Develops a clear strategy and vision for their department, inspiring their team through communication in alignment with GitLab's mission,vision, and values.
 - Align and influence the Executive Team and senior leadership on CSM and GTM strategies and tactics.
 - Partner with the sales organization to drive growth and retention and improve efficiency.
 - Lead company-wide strategies and initiatives to improve the customer experience and deliver voice-of-customer metrics and reporting across GitLab.
@@ -309,6 +309,7 @@ The Vice President of CSM is a job grade [12](https://about.gitlab.com/handbook/
 - Serves as an expert in Customer Success Management internally and with customers, partners, and industry communities.
 
 #### Vice President of Customer Success Management Performance Indicators
+
 - Gross and net retention
 - Customer metrics (onboarding, time-to-first value, use case and platform adoption, use case expansion, sentiment measured by NPS, CSAT, or surveys)
 

@@ -15,6 +15,7 @@ The Analyst, Online Sales & Self Service Data reports to the Senior Manager, Onl
 The Analyst, Online Sales & Self Service Growth is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Comfortable working with large data sets via query languages and BI tools for dashboards and reporting
 - Develop reporting structure to track success of self-service business and experiments
 - Gather and track KPI’s requirements from Self-Service Customer Engagement team in order to understand efficiency impact of Low Touch GTM model
@@ -24,6 +25,7 @@ The Analyst, Online Sales & Self Service Growth is a [grade 6](https://about.git
 - Tie together disparate data sources in order to tell cohesive data stories to inform decision making
 
 ### Requirements
+
 - Ability to use GitLab
 - BS/BA degree in business engineering, economics, or related degree OR equivalent combination of education, training, and experience
 - Demonstrated progressive experience in data analytics
@@ -45,6 +47,7 @@ The Senior Analyst, Online Sales & Self Service Data reports to the Senior Manag
 The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Inspire and empower our self-service team  to leverage data to drive action, measure and prove success
 - Continuously find ways to improve our signup flow and self-service buying experience
 - Ownership in scoping, sizing and delivering multiple requests balancing prioritization, efficiency and quality
@@ -57,6 +60,7 @@ The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](https://ab
 - Establish KPIs and targets for measuring the impact of the self-service initiatives
 
 ### Requirements
+
 - Ability to use GitLab
 - BS/BA degree in business engineering, economics, or related degree OR equivalent combination of education, training, and experience
 - Demonstrated progressive experience in data analytics
@@ -80,6 +84,7 @@ The Manager, Online Sales & Self Service Data reports to the Senior Manager, Onl
 The Manager, Online Sales & Self Service Growth is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Inspire and empower our self-service team  to leverage data to drive action, measure and prove success
 - Responsible for hiring and managing an Analyst/Sr. Analyst
 - Create end-to-end data funnel view that allows us to understand the self-service customer experience through data. Leverage to provide feedback to Fulfillment and Growth teams
@@ -94,6 +99,7 @@ The Manager, Online Sales & Self Service Growth is a [grade 8](https://about.git
 - Be proactive and identify trends or flag potential issues
 
 ### Requirements
+
 - Ability to use GitLab
 - BS/BA degree in business engineering, economics, or related degree OR equivalent combination of education, training, and experience
 - Demonstrated progressive experience in data analytics
@@ -117,6 +123,7 @@ The Senior Manager, Online Sales & Self Service Product & Data Analytics reports
 The Senior Manager, Online Sales & Self Service Product & Data Analytics is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Lead product & data analytics for Self Service to drive revenue growth, sales efficiency, customer experience, and customer retention.
 - Develop and execute a product & data analytics solution that will create a full data funnel: product interactions to revenue, establishing and tracking success metrics and aiding in feature prioritization.
 - Through data insights provide sales visibility, inform product roadmap, drive marketing campaigns & customer interactions.
@@ -132,6 +139,7 @@ The Senior Manager, Online Sales & Self Service Product & Data Analytics is a [g
 - Manage prioritization of iteration of online sales funnel and instrumentation.
 
 ### Requirements
+
 - Ability to use GitLab
 - A solid track record of Product & Data Analytics delivery and leadership
 - Has specialized knowledge of Product & Data Analytics technology tools and implementation
@@ -146,6 +154,7 @@ The Senior Manager, Online Sales & Self Service Product & Data Analytics is a [g
 - Ability to handle a fast-paced environment and ambitious workload
 
 ## Performance Indicators
+
 - nARR vs. plan > 1 through development of self-service targets
 - nARR efficiency > 1.0 through development of self-service targets
 - Increased adoption of self-service solutions (buying & account management) driving increased customer satisfaction and Rep productivity leveraging product data insights and recommendations

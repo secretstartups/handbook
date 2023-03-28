@@ -23,7 +23,7 @@ The Director, Channel Programs & Enablement is a [grade 10](https://about.gitlab
 - Communicate channel programs, strategies & events and updates internally to drive alignment throughout the business
 - Work cross-functionally with marketing, product, legal and finance to continue to implement and grow partner programs and ensure alignment across the business
 - Work with partners to solicit feedback on existing programs/processes and implement changes (Partner Advisory Councils, via channel teams, etc)
-- Build a team to effectively manage channel programs, enablement, portal, comms & MDF/incentive management.  
+- Build a team to effectively manage channel programs, enablement, portal, comms & MDF/incentive management.
 
 ### Requirements
 
@@ -43,28 +43,30 @@ The Director, Channel Programs & Enablement is a [grade 10](https://about.gitlab
 
 ## Senior Channel Program Manager
 
-The Channel Program Manager will be responsible for the design, management & execution of Gitlab’s Channels & Alliances Partner Programs.  In addition to the partner programs, the Channel Programs Managers will manage deal registration, recruitment and partner success programs and manage the partner advisory council.  
+The Channel Program Manager will be responsible for the design, management & execution of Gitlab’s Channels & Alliances Partner Programs.  In addition to the partner programs, the Channel Programs Managers will manage deal registration, recruitment and partner success programs and manage the partner advisory council.
 
 ### Job Grade
 
 The Senior Channel Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Collaborate across Channels & Alliances teams to gather requirements for Programs
 - Design, build and manage Partner Programs including the Program Guide, MDF Program, Reseller, Services, Alliances, Deal Registration Program, etc.
 - Design program guides that details requirements and benefits, terms and conditions, etc.
 - Design, build & launch partner portal.
-- Manage all communications to the channel via portal, newsletters, social channels.  
+- Manage all communications to the channel via portal, newsletters, social channels.
 - Design and launch field / channel rules of engagement.
 - Design & launch field enablement on Partner Program, Rules of Engagement, Deal Reg, How to Partner, etc.
 - Collect and manage feedback from channel partners into the ongoing roadmap for the Channel Program.
-- Work cross functionally with sales operations, marketing, finance, enablement and technical teams to secure, operationalize and manage all the committed benefits to the partners.  
-- Document policies and processes to support all aspects of the program and enables global execution.  
-- Establish and track metrics of the program, run a quarterly compliance process with the Channel & Alliances field.  
+- Work cross functionally with sales operations, marketing, finance, enablement and technical teams to secure, operationalize and manage all the committed benefits to the partners.
+- Document policies and processes to support all aspects of the program and enables global execution.
+- Establish and track metrics of the program, run a quarterly compliance process with the Channel & Alliances field.
 - Working with your peers, marketing & Sales operations
 
 ### Requirements
-- Bachelor’s degree with demonstrated progressive experience in channel programs.  
+
+- Bachelor’s degree with demonstrated progressive experience in channel programs.
 - Experience building and managing a partner program in DevOps space
 - Excellent communication, analytical and organizational skills.
 - Execution & revenue focused
