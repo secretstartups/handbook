@@ -28,7 +28,7 @@ ABM is a marketing strategy that concentrates resources on a set of target accou
 * Megan O'Dowd - Senior Account Based Markeitng Manager, ENT & MM for AMER and US Public Sector
 
 ## Key Metrics
-{: #key-metrics}
+{: #key-metrics .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 More specific details to come in this section as we work with MS&A to build out an ABM specific dashboard. 
 - Account progression and lift based on engagement/time on our website
@@ -95,22 +95,22 @@ The [#integrated-marketing](https://gitlab.slack.com/archives/C02AHJ999BN) chann
 ## FY24 Interlocking Teams
 {: #fy24-interlocking-teams .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-##### How we work with Marketing Campaigns:
+#### How we work with Marketing Campaigns:
 With the new structure of Campaigns for FY24 including global vs regional Campaign Managers, this interlock will likely be iterative. As it stands today, we have recurring meetings with the global campaign managers to determine what content and tactics are coming. From there, we will use the data and our conversations with sales to determine what can be leveraged in our ABM specific campaigns. We have an issue/epic for each region that details channels, target audience, KPIs, etc. that will be shared with regional campaign managers as well. 
 
-##### How we work with Digital Marketing:
+#### How we work with Digital Marketing:
 Sync on current priorities and efforts between our teams to explore where there is potential for collaboration on lead tracking/handoff/retargeting in ABM accounts from demand gen efforts. This will help us avoid duplicative efforts to the same target lists. 
 
-##### How we work with Sales/XDR: 
+#### How we work with Sales/XDR: 
 Continue relationship over Tier 1 knowledge shares, but expand the scope of ABM/Sales collab to include Tier 2 cohorts - our Highspot page has been updated with relevant details to meet sales/XDR where they frequently go and ensure alignment with the ABM strategy. 
 
-##### How we work with Lifecycle Marketing:
+#### How we work with Lifecycle Marketing:
 Continue to test email as a channel for our ABM efforts - for Tier 1 (when we have enough opted in contacts) and expanding use of email into our Tier 2 cohorts. 
 
-##### How we work with Field Marketing:
+#### How we work with Field Marketing:
 In planning for Q1 of FY24, FM already had their plans set, so we are looking at opportunities to tie together on driving key accounts to their planned events. In planning for Q2, we are going to try a proactive planning approach on a regional level leveraging key account data, to align with FM’s timelines, rather than after their plans are set.
 
-##### Additional teams we are aligning with in FY24:
+#### Additional teams we are aligning with in FY24:
 - **Customer Advocacy**: we have a standing meeting to discuss how the ABM team is leveraging Customer Advocacy content as well as to learn what is coming down the pipe to start prepping if/how it can be added to our campaigns. 
 - **Field Enablement**: we are working closely with the Sr. Program Manager - Global Enterprise Sales to increase awareness of ABM efforts in the field and ensure ongoing alignment as it pertains to ABM and territory planning.
 - **Marketing Strategy and Analytics**: joining efforts to work through some ongoing reporting issues that the ABM team encounters as well as to build our first dashboard specifically for ABM data. 
