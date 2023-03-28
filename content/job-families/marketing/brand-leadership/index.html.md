@@ -56,7 +56,7 @@ The Director, Brand reports to the Sr. Director, Brand.
 
 #### Director, Brand Job Grade
 
-The Director, Brand is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Brand is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Brand Responsibilities
 
@@ -88,7 +88,7 @@ The Sr. Director, Brand reports to the VP, Corporate Marketing.
 
 #### Sr. Director, Brand Job Grade
 
-The Sr. Director, Brand is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sr. Director, Brand is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sr. Director, Brand Responsibilities
 
@@ -128,4 +128,4 @@ Candidates for these positions can expect the hiring process to follow the order
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

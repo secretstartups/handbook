@@ -7,7 +7,7 @@ The GitLab Sales Development team is looking for a Sales Development Solutions A
 
 ### Job Grade
 
-The Sales Development Solutions Architect is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Sales Development Solutions Architect is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ### Responsibilities
 - Provide presales technical support to influence the discovery of new business opportunities
@@ -46,4 +46,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a technical interview with a Solutions Architect, and another interview with the Manager of Product Marketing
 - Successful candidates will subsequently be made an offer via video or phone call
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

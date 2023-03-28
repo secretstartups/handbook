@@ -9,7 +9,7 @@ The Senior Manager, Product Marketing reports to the Director of Product Marketi
 
 #### Senior Manager, Product Marketing Job Grade
 
-The Senior Manager, Product Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Product Marketing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Product Marketing Responsibilities
 
@@ -33,7 +33,7 @@ The Senior Manager, Product Marketing is a [grade 9](/handbook/total-rewards/com
 - Enterprise software company experience.
 - Passionate about open source and developer tools.
 - Strong communication skills.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
 
 ### Director, Product Marketing
@@ -42,7 +42,7 @@ The Director, Product Marketing reports to the Senior Director, Product & Soluti
 
 #### Director, Product Marketing Job Grade
 
-The Director, Product Marketing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Director, Product Marketing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Director, Product Marketing Responsibilities
 - Define GitLab’s product marketing strategy and roadmap, in collaboration with partners across R&D and GTM
@@ -65,7 +65,7 @@ The Director, Product Marketing is a [grade 10](/handbook/total-rewards/compensa
 - Balance of strategic vision and tactical team-based execution
 - Excellent planning, organizational and initiative management skills
 - B.S. or equivalent experience; MBA a plus
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 
 ### Senior Director, Product & Solutions Marketing
@@ -74,7 +74,7 @@ The Senior Director, Product & Solutions Marketing reports to the Vice President
 
 #### Senior Director, Product & Solutions Marketing Job Grade
 
-The Senior Director, Product & Solutions Marketing is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Director, Product & Solutions Marketing is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Director, Product & Solutions Marketing Responsibilities
 - Define, evolve and evangelize the DevOps platform category positioning on behalf of GitLab
@@ -101,7 +101,7 @@ The Senior Director, Product & Solutions Marketing is a [grade 11](/handbook/tot
 - Adept at creating and managing multiple global programs
 - Excellent planning, organizational and initiative management skills
 - B.S. or equivalent experience; MBA a plus
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 
 
@@ -111,7 +111,7 @@ This Manager, Partner and Channel Marketing reports to the Director of Product M
 
 #### Manager, Partner and Channel Marketing Job Grade
 
-The Manager, Partner and Channel Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Partner and Channel Marketing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Partner and Channel Marketing Responsibilities
 
@@ -136,7 +136,7 @@ The Manager, Partner and Channel Marketing is a [grade 9](/handbook/total-reward
 - Enterprise software company experience.
 - Passionate about open source and developer tools.
 - Strong communication skills.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
 
 ### Director, Global Partner Marketing
@@ -145,7 +145,7 @@ The Director, Global Partner Marketing reports to
 
 #### Director, Global Partner Marketing Job Grade
 
-The Director, Global Partner Marketing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Global Partner Marketing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Global Partner Marketing Responsibilities
 
@@ -193,9 +193,9 @@ The next step for managers of people is to move to the [Director of Product Mark
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates may be invited to interview with the Hiring Manager
 - Next, candidates may be invited to interview with 2-4 Team Members
 - Finally, candidates may be invited to interview with someone from leadership
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

@@ -47,9 +47,10 @@ The UX Researcher (Intermediate) reports to the Director of User Experience Rese
 
 #### Intermediate Job Grade
 
-The UX Researcher (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The UX Researcher (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Intermediate Responsibilities
+
 - Personally initiate and conduct research within or across your stage groups to build deep foundational knowledge of your coverage areas. Research should consist of a mix of solution validation and problem validation projects.
 
 - Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
@@ -72,14 +73,15 @@ The Senior UX Researcher reports to the Director of User Experience Research.
 
 #### Senior Job Grade
 
-The Senior UX Researcher is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior UX Researcher is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Responsibilities
+
 - Personally initiate and conduct research projects within your assigned stage groups and across adjacent stage groups to build deep foundational knowledge of your areas of coverage. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
 
 - Drive a company-wide research-based measure: design or improve upon a methodology (if needed), collect and report out findings.
 
-- Demonstrate thought leadership by delivering 2 [strategic research](/handbook/product/ux/ux-research/strategic-research-at-gitlab/) projects per year.
+- Demonstrate thought leadership by delivering 2 [strategic research](https://about.gitlab.com/handbook/product/ux/ux-research/strategic-research-at-gitlab/) projects per year.
 
 - Communicate, advocate for, and socialize actionable insights in a clear and compelling way
 
@@ -107,9 +109,10 @@ The Staff UX Researcher reports to the Director of User Experience Research.
 
 #### Staff Job Grade
 
-The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff UX Researcher is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Responsibilities
+
 - Through your research, build a knowledge base that positions yourself as a thought leader within GitLab.
 
 - Personally initiate and conduct research within your assigned stage groups, across adjacent stage groups, and across GitLab, to build deep foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to participate in these projects.
@@ -124,7 +127,7 @@ The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/comp
 
 - Develop and maintain the GitLab strategic research program. Educate and mentor others on strategic research while demonstrating the value of strategic research.
 
-- Demonstrate thought leadership by delivering six [strategic research](/handbook/product/ux/ux-research/strategic-research-at-gitlab/) projects per year to showcase.
+- Demonstrate thought leadership by delivering six [strategic research](https://about.gitlab.com/handbook/product/ux/ux-research/strategic-research-at-gitlab/) projects per year to showcase.
 
 - Deliver impactful research that informs decisions across our product lifecycle.
 
@@ -150,7 +153,7 @@ The Principal UX Researcher reports to the Director of User Experience Research.
 
 #### Principal Job Grade
 
-The Principal UX Researcher is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal UX Researcher is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Responsibilities
 
@@ -184,7 +187,7 @@ The Principal UX Researcher is a [grade 9](/handbook/total-rewards/compensation/
 
 - Lead and mentor other Researchers.
 
-- **Impact:** Provide positive influence on [Perception of System Usability](/handbook/product/ux/performance-indicators/#perception-of-system-usability) through deeper understanding of the "why" behind usability complaints and [UX Research Velocity](/handbook/product/ux/performance-indicators/#ux-research-velocity) through guidance that enables other functions (like Product Management and Product Design) to conduct their own research.
+- **Impact:** Provide positive influence on [Perception of System Usability](https://about.gitlab.com/handbook/product/ux/performance-indicators/#perception-of-system-usability) through deeper understanding of the "why" behind usability complaints and [UX Research Velocity](https://about.gitlab.com/handbook/product/ux/performance-indicators/#ux-research-velocity) through guidance that enables other functions (like Product Management and Product Design) to conduct their own research.
 
 ## Hiring Process
 
@@ -192,15 +195,15 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Selected candidates will be invited to schedule a 30-min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters or the Hiring Manager. In this call we will discuss your experience, understand what you are looking for in a UX Research role, discuss your compensation expectations, reasons why you want to join GitLab and answer any questions you have.
 
-- The next step will be a 30-min meeting to cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.  
+- The next step will be a 30-min meeting to cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.
 
-- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20-minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.  
+- After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20-minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.
 
 > ### Why we ask for a pre-recorded presentation
 >
 > 1. It helps create a shared understanding of your work between you and our interviewers ahead of the first interview.
 > 1. It allows us to ask more informed questions about your experience and work during the interview process.
-> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.  
+> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.
 >
 > ### Presentation Topics
 >
@@ -210,15 +213,15 @@ Candidates for this position can expect the hiring process to follow the order b
 > ### What we're looking for
 >
 > - A recording that is up to 20 minutes in duration and returned to us within ten days of your screening call being completed.
-> - Ideally, one case study you present should be relevant to the work you'd expect do at GitLab. This could be because the case study involved research into the [persona(s)](/handbook/product/personas/#user-personas) you'd study at GitLab, the case study related to the DevOps or Developer tooling industry, the case study relates to the [Stage](/handbook/product/categories/#devops-stages) you're interviewing for, is a case study that went across multiple methods, or was a case study that would be considered complex in nature. Note that at GitLab, UX Researchers at any level are working on [problem validation](/handbook/engineering/ux/ux-research-training/problem-validation-and-methods/), [foundational](/handbook/product/ux/ux-research/foundational-research/) or [strategic](/handbook/product/ux/ux-research/strategic-research-at-gitlab/) research projects, while Product Designers conduct solution validation. We'd like to see a case study that is of problem validation, foundational, or strategic nature.
+> - Ideally, one case study you present should be relevant to the work you'd expect do at GitLab. This could be because the case study involved research into the [persona(s)](https://about.gitlab.com/handbook/product/personas/#user-personas) you'd study at GitLab, the case study related to the DevOps or Developer tooling industry, the case study relates to the [Stage](https://about.gitlab.com/handbook/product/categories/#devops-stages) you're interviewing for, is a case study that went across multiple methods, or was a case study that would be considered complex in nature. Note that at GitLab, UX Researchers at any level are working on [problem validation](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/problem-validation-and-methods/), [foundational](https://about.gitlab.com/handbook/product/ux/ux-research/foundational-research/) or [strategic](https://about.gitlab.com/handbook/product/ux/ux-research/strategic-research-at-gitlab/) research projects, while Product Designers conduct solution validation. We'd like to see a case study that is of problem validation, foundational, or strategic nature.
 > - You share the recording using either a [unlisted Youtube link](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a [Google Drive link](https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a [Loom link](https://www.loom.com/).
-> - Your presentation to address each of the topics listed above.  
+> - Your presentation to address each of the topics listed above.
 >
 > ## Some useful resources
 >
 > - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation.
-> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/product/ux/ux-research/), and our [UX Department's handbook](/handbook/product/ux/).
-> - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
+> - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/product/ux/ux-research/), and our [UX Department's handbook](https://about.gitlab.com/handbook/product/ux/).
+> - We work with a [low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call.
 
 - We will schedule the next stages if the recording indicates your past experiences will lead to your success in a role at GitLab.
@@ -227,11 +230,11 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - The next interview is a 50-minute interview with either a Product Design Manager, Product Designer or Product Manager. In this interview, we'll focus on how you collaborate with cross-functional stakeholders and mentor non-researchers in successfully conducting research. This interview is an opportunity for you to understand the stage you will be a part of in more detail, hear a different perspective on the stable counterpart relationship, and ask any questions you have.
 
-- Candidates will the be invited to a 50-minute interview with a UX Research Manager where we'll focus on your experience researching Developers and working with global team members in an Agile setting.  
+- Candidates will the be invited to a 50-minute interview with a UX Research Manager where we'll focus on your experience researching Developers and working with global team members in an Agile setting.
 
 - The final interview is a 1-hour interview with the Director of UX Research. You will discuss your career, your experiences as a UX Researcher, and the role of UX Research at GitLab.
 
 - Successful candidates will subsequently be made an offer via Zoom.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 

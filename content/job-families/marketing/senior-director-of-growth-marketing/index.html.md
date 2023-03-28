@@ -26,7 +26,7 @@ title: "Senior Director of Pipe-to-Spend"
 - Robust understanding of marketing funnels & metrics
 - Experience with Account-based Marketing
 - Stays on top of trends in the space via conferences, publications, social media, etc.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 - Ability to use GitLab
 

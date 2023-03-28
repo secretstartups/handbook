@@ -5,7 +5,7 @@ title: "Vice President of Global Enterprise Sales"
 
 ## Job Grade
 
-The VP, Global Enterprise Sales is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, Global Enterprise Sales is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 

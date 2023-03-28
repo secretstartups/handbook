@@ -11,7 +11,7 @@ The Statutory Compliance and Reporting Senior Manager reports to the [Director o
 
 ### Job Grade
 
-The Statutory Accounting and Compliance Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Statutory Accounting and Compliance Senior Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Work with local service providers for each operating entity to ensure compliance with statutory reporting, collaborating with the Accounting team as needed
@@ -49,10 +49,10 @@ The next step in the Statutory Accounting and Compliance job family is to move t
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Director of Tax
 - Candidates will then be invited to schedule a 45 minute interview with our VP Corporate Controller
 - Finally, candidates may be asked to interview with other members of the Tax team
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

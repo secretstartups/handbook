@@ -23,14 +23,14 @@ As a member of the Editorial team at GitLab, you are part of building the media 
 ### Requirements
 
 - Experience as a content writer, editor, or similar role, preferably in enterprise or open source technology marketing.
-- Strong communication skills without a fear of [over communication](/handbook/communication/).
+- Strong communication skills without a fear of [over communication](https://about.gitlab.com/handbook/communication/).
 - Ability to work [asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 - Extremely detail-oriented and organized (this applies to editing and writing, as well as to project management of your work, using GitLab)
 - Able to meet deadlines
 - Familiarity of the software development process including Git, CI and CD
 - Experience with writing for SEO and keyword research.
 - Proven ability to copywrite and edit.
-- You share our [values](/handbook/values/), and work in accordance with those values. For example: in this role, adopting our transparency value sometimes means that your drafts are visible to the rest of the company and teammates might offer input before you're ready!
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values. For example: in this role, adopting our transparency value sometimes means that your drafts are visible to the rest of the company and teammates might offer input before you're ready!
 - Ability to use GitLab
 - BONUS: A passion for and strong understanding of the industry and our mission.
 
@@ -40,7 +40,7 @@ As a member of the Editorial team at GitLab, you are part of building the media 
 
 #### Job Grade
 
-The Associate Content Editor is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Content Editor is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -57,7 +57,7 @@ The Associate Content Editor is a [grade 5](/handbook/total-rewards/compensation
 
 #### Job Grade
 
-The Intermediate Content Editor is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Content Editor is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -79,7 +79,7 @@ The Intermediate Content Editor is a [grade 6](/handbook/total-rewards/compensat
 
 #### Job Grade
 
-The Senior Content Editor is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Content Editor is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -99,7 +99,7 @@ The Senior Content Editor is a [grade 7](/handbook/total-rewards/compensation/co
 
 #### Job Grade
 
-The Managing Editor is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Managing Editor is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -128,7 +128,7 @@ _ Work with SEO team on optimization goals.
 
 #### Job Grade
 
-The Senior Managing Editor is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Managing Editor is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -158,7 +158,7 @@ The Senior Managing Editor is a [grade 9](/handbook/total-rewards/compensation/c
 - Experience as a people manager.
 - Markdown proficiency.
 - Familiarity of the software development processes including Git, CI and CD
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - BONUS: A passion for and strong understanding of the industry and our mission.
 
 ## Career Progression

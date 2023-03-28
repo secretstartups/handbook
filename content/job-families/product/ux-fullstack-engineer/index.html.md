@@ -6,6 +6,7 @@ title: UX Fullstack Engineer
 Fullstack engineers work across the front- and backend of the the GitLab documentation site and/or product to improve the user experience.
 
 ## Responsibilities
+
 - Develop features and improvements to the documentation site or GitLab product in a secure, well-tested, and performant way.
 - Analyze and interpret highly complex data to arrive at actionable recommendations.
 - Collaborate with Technical Writing Director and other stakeholders (e.g. UX) to maintain a high bar for quality in a fast-paced, iterative environment.
@@ -16,6 +17,7 @@ Fullstack engineers work across the front- and backend of the the GitLab documen
 - Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
 
 ## Requirements
+
 - Ability to use GitLab
 - Professional experience with Ruby and Rails
 - Professional experience with JavaScript and associated web technologies (CSS, semantic HTML)
@@ -60,7 +62,7 @@ The Senior Fullstack Engineer reports to the [Director, Technical Writing](https
 
 #### Senior UX Fullstack Engineer Job Grade
 
-The Senior UX Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior UX Fullstack Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior UX Fullstack Engineer Responsibilities
 
@@ -77,6 +79,5 @@ The Senior UX Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensa
 
 The Senior UX Fullstack Engineer is included in the [Technical Writing MR rate](https://about.gitlab.com/handbook/product/ux/performance-indicators/#technical-writer-mr-rate).
 
-
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 

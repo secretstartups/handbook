@@ -14,7 +14,7 @@ At GitLab, Brand Designers are responsible for ensuring strategic, seamless expe
 
 - Define and create a visual language as an extension of the brand (illustrations, icons, colors, typography, animations, etc.)
 - Be an advocate for consistent and cohesive design throughout the company.
-- Contribute to GitLab's [Brand Standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
+- Contribute to GitLab's [Brand Standards](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
 - Educate others on design thinking, brand experience, and design-driven storytelling.
 - Collaborate with Content Marketing, and others, to establish a clear and concise brand voice, tone, and personality.
 - Collaborate with UX Design to create and maintain a cohesive and consistent brand experience between Marketing and Product.
@@ -28,7 +28,7 @@ At GitLab, Brand Designers are responsible for ensuring strategic, seamless expe
 - Engage in constructive design critiques.
 - Able to work independently, prioritize accordingly, and iterate quickly.
 - Strong communication skills without a fear of over communication.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
 
 ## Individual Contributor Levels
@@ -41,7 +41,7 @@ At GitLab, Brand Designers are responsible for ensuring strategic, seamless expe
 
 #### Job Grade
 
-The Associate Brand Designer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Brand Designer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
 
@@ -54,11 +54,11 @@ Everything in the Associate Brand Designer role, plus:
 
 - Develop visual concepts for digital campaigns, webpages, print, and events.
 - Enable others, non-designers, to create on-brand assets.
-- Actively contribute to GitLab's [Brand Standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
+- Actively contribute to GitLab's [Brand Standards](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
 
 #### Job Grade
 
-The Intermediate Brand Designer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Brand Designer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
 
@@ -80,7 +80,7 @@ Everything in the Intermediate Brand Designer role, plus:
 
 #### Job Grade
 
-The Senior Brand Designer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Brand Designer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
 
@@ -105,7 +105,7 @@ The Senior Brand Designer is a [grade 7](/handbook/total-rewards/compensation/co
 
 #### Job Grade
 
-The Staff Brand Designer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Brand Designer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The Staff Brand Designer role will provide a high level of expertise in solving complex problems with a strong understanding of brand voice, audience, and strategy. Additionally, this role will be key in educating and enabling a consistent brand experience across the organization through industry experience related to creative philosophy, design principles, and brand standards. This role will help shape GitLab’s brand experience through extensive research, exploration, and iteration. Within the market there are a significant number of companies with an average of 7 team members in this type of role at the staff level.
 
@@ -123,7 +123,7 @@ Everything in the Senior Brand Designer role, plus:
 #### Requirements
 
 - 8+ years experience with an in-house team or creative agency.
-- A [manager of one](/handbook/values/#managers-of-one) overseeing brand initiatives from beginning to end, and equally comfortable in a collaborative environment.
+- A [manager of one](https://about.gitlab.com/handbook/values/#managers-of-one) overseeing brand initiatives from beginning to end, and equally comfortable in a collaborative environment.
 - Exceptional communication skills with the ability to pitch creative ideas.
 - Strong sense of concept development, strategy, research, and problem-solving in a fast-paced, iterative environment.
 
@@ -131,7 +131,7 @@ Everything in the Senior Brand Designer role, plus:
 
 #### Job Grade
 
-The Principal Brand Designer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Brand Designer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The Principal Brand Designer role will provide a high level of expertise and ability to think critically and strategically about the GitLab brand experience. This role will be crucial in developing an (iterative) understanding of how the brand drives value to, and resonates with, our enterprise and developer audiences (not just the production of those assets). This role will be key in building and nurturing key cross-functional relationships; resulting in strong brand consistency and experience both internally and externally. In the market there are 20 companies with an average of 7 team members matching to this level.
 
@@ -154,7 +154,7 @@ Everything in the Staff Brand Designer role, plus:
 - 10+ years of senior-level design experience with an in-house team or creative agency.
 - Deep knowledge, passion and expertise in all aspects of layout, typography, illustration, image making, digital and event/brand experience production.
 - Proven ability as a strong mentor, with a passion for supporting team growth, as well as improvement and advancement toward collective and individual goals.
-- A [manager of one](/handbook/values/#managers-of-one) overseeing brand initiatives from beginning to end, and equally comfortable in a collaborative environment.
+- A [manager of one](https://about.gitlab.com/handbook/values/#managers-of-one) overseeing brand initiatives from beginning to end, and equally comfortable in a collaborative environment.
 - Exceptional communication skills with the ability to pitch creative ideas, while forming strong relationships to meet the needs of partners and stakeholders.
 - Strong sense of concept development, strategy, research, and problem-solving in a fast-paced, iterative environment.
 
@@ -165,12 +165,12 @@ Everything in the Staff Brand Designer role, plus:
 Everything in the Senior Brand Designer role, plus:
 
 - Lead the Brand Design team fostering innovation, collaboration, and continual evolution of GitLab's brand experience.
-- Oversee the definition, prioritization, and improvement of GitLab's [Brand Standards](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
+- Oversee the definition, prioritization, and improvement of GitLab's [Brand Standards](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/).
 - Research and develop a greater understanding of GitLab's audience(s); iterating to keep our brand experience relevant and relatable.
 
 #### Job Grade
 
-The Manager, Brand Design is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Brand Design is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
 

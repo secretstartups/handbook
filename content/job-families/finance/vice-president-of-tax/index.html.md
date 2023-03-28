@@ -11,7 +11,7 @@ The Vice President of Tax reports to the [Chief Financial Officer](https://about
 
 ## Job Grade
 
-The Vice President of Ta} is a [grade #12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President of Ta} is a [grade #12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -54,7 +54,7 @@ The next step for the Vice President of Tax job family is not yet defined.
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 - {* Candidates will be invited to schedule a first interview with our PAO.
 - Next, candidates will be invited to schedule a first interview with our CFO.
@@ -62,4 +62,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates will have a 30 min interview with the Chairman of our Audit Committee.
 - Successful candidates will subsequently be made an offer via phone and email.}
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

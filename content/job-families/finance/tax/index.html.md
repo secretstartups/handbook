@@ -21,7 +21,7 @@ The Junior Tax Analyst reports to the Manager, Tax. The responsibilities and req
 
 #### Junior Tax Analyst Job Grade
 
-The Junior Tax Analyst is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Tax Analyst is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Tax Analyst (Intermediate)
 
@@ -29,7 +29,7 @@ The Tax Analyst (Intermediate) reports to the Manager, Tax. The responsibilities
 
 #### Tax Analyst (Intermediate) Job Grade
 
-The Tax Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Tax Analyst (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Tax Analyst
 
@@ -37,7 +37,7 @@ The Senior Tax Analyst resorts to the Manager, Tax.
 
 #### Senior Tax Analyst Job Grade
 
-The Senior Tax Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Tax Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Tax Analyst Responsibilities
 
@@ -75,7 +75,7 @@ The Staff Tax Analyst reports to the Manager, Tax.
 
 #### Staff Tax Analyst Job Grade
 
-The Staff Tax Analyst  is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Tax Analyst  is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Tax Analyst Responsibilities
 
@@ -94,7 +94,7 @@ The Manager, Tax reports to the Director, Tax.
 
 #### Manager, Tax Job Grade
 
-The Manager, Tax is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Tax is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Tax Responsibilities
 
@@ -113,7 +113,7 @@ The Senior Manager, International Tax (Non US) reports to the Director, Internat
 
 #### Job Grade
 
-The Senior Manager, International Tax (Non US) is a job [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, International Tax (Non US) is a job [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, International Tax Responsibilities
 - Models and joins in planning for our economic ownership of IP
@@ -155,7 +155,7 @@ The Directors, Tax report to the [VP, Tax](/job-families/finance/vice-president-
 
 #### Director, Global Tax Accounting and Domestic Tax Job Grade
 
-The Director, Tax  is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Tax  is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Global Tax Accounting and Domestic Tax Responsibilities
 
@@ -191,7 +191,7 @@ The Director, Tax  is a [grade 10](/handbook/total-rewards/compensation/compensa
 
 #### Job Grade
 
-The Director of International Tax is a job [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of International Tax is a job [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 
 #### Director of International Tax Responsibilities
@@ -262,10 +262,10 @@ The Tax job family career ladder is outlined on this page.
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 - Next, qualified candidates will be invited to schedule a first interview with the Hiring Manager
 - Candidates will then be invited to schedule an interview with 2 - 4 team members
 - Finally, candidates may be invited to a final executive interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)

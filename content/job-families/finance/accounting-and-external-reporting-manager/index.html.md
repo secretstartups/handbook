@@ -118,9 +118,9 @@ Director, Accounting and External Reporting shares the same requirements as list
 
 ## Performance Indicators
 
-- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
-- [Percentage of ineffective Sox Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Percentage of ineffective Sox Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Career Ladder
 
@@ -136,4 +136,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be asked to interview with the CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).

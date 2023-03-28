@@ -30,7 +30,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 
 - Qualified candidates receive a short questionnaire from our Global Recruiters
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Prometheus Lead
 - Candidates will then be invited to schedule an interview with the Senior Product Manager, Prometheus
 - Candidates will then be invited to schedule an interview with the Director of Backend
@@ -39,4 +39,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Successful candidates will subsequently be made an offer via email
 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

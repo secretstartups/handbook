@@ -11,9 +11,10 @@ The Recruiting Operations Coordinator supports the Recruiting Team, as well as H
 
 ### Job Grade
 
-The Recruiting Operations Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Recruiting Operations Coordinator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Act as the Directly Responsible Individual (DRI) for the Recruiting Team’s GitLab.com Issue boards.
 - Be the front-line support for a variety of requests regarding systems support, access requests across Recruiting’s systems.
 - Review and act on data insights to drive improvement in Recruiting’s KPIs and PIs.
@@ -22,6 +23,7 @@ The Recruiting Operations Coordinator is a [grade 5](/handbook/total-rewards/com
 - Support initiatives to enhance current systems and programs to enable the Recruiting Team to achieve optimal operational excellence.
 
 ### Requirements
+
 - Ability to use GitLab
 - 1+ year of hands-on experience in a Recruiting or People Operations role within GitLab.
 - Experience in a startup environment.
@@ -37,8 +39,9 @@ The Recruiting Operations Coordinator is a [grade 5](/handbook/total-rewards/com
 - Prior experience using a human resources information system (HRIS), such as BambooHR.
 
 ### Performance Indicators
-- [Hires vs. Plan](/#hires-vs-plan)
-- [Time to Offer Accept](/#time-to-offer-accept-day)
+
+- [Hires vs. Plan](https://about.gitlab.com/#hires-vs-plan)
+- [Time to Offer Accept](https://about.gitlab.com/#time-to-offer-accept-day)
 
 ### Hiring Process
 
@@ -48,7 +51,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Then, candidates will be invited to schedule two 30 minute interviews with two separate Peers and a 30-minute interview with another Recruiting Manager
 - Finally, candidates will be invited to a 45-minute interview with the Hiring Manager
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ## Recruiting Insights Analyst
 
@@ -56,12 +59,14 @@ The Recruiting Insights Analyst is a position we have identified as a need for t
 
 ### Job Grade
 
-The Recruiting Insights Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Recruiting Insights Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - TBD
 
 ### Requirements
+
 - Ability to use GitLab
 - TBD
 
@@ -71,7 +76,7 @@ The Senior Recruiting Program Analyst works to streamline and automate processes
 
 ### Job Grade
 
-The Senior Recruiting Program Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Recruiting Program Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -107,8 +112,8 @@ The Senior Recruiting Program Analyst is a [grade 7](/handbook/total-rewards/com
 
 ### Performance Indicators
 
-- [Hires vs. Plan](/#hires-vs-plan)
-- [Time to Offer Accept](/#time-to-offer-accept-days)
+- [Hires vs. Plan](https://about.gitlab.com/#hires-vs-plan)
+- [Time to Offer Accept](https://about.gitlab.com/#time-to-offer-accept-day)
 
 ### Hiring Process
 
@@ -119,7 +124,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to a 45 minute interview with the Hiring Manager
 - Final, candidates will meet with the VP of Recruiting
 
-As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
 
 ## Manager, Recruiting Operations
 
@@ -127,13 +132,13 @@ This role reports to the Senior Manager, Recruiting Operations and Insights.
 
 ### Job Grade
 
-The Manager, Recruiting Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Recruiting Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
 - Manage a collaborative remote based team that can scale to the dynamic demands of a rapidly growing world-wide technology company
 - Provide coaching to improve performance of team members and drive accountability
-- Conduct [skip-level meetings](/handbook/leadership/skip-levels/)
+- Conduct [skip-level meetings](https://about.gitlab.com/handbook/leadership/skip-levels/)
 - Remove operational roadblocks by troubleshooting and enabling scalable solutions in collaboration with stakeholders
 - Identify  process improvement opportunities and implement changes in a fast-paced environment, consistently documenting in the handbook for institutional knowledge
 - Onboard, mentor, and grow the careers of all team members
@@ -154,9 +159,9 @@ The Manager, Recruiting Operations is a [grade 8](/handbook/total-rewards/compen
 
 ### Performance Indicators
 
-- [Average candidate ISAT](/#interviewee-satisfaction-isat)
-- [Hires vs. Plan](/#hires-vs-plan)
-- [Time to Offer Accept](/#time-to-offer-accept-days)
+- [Average candidate ISAT](https://about.gitlab.com/#interviewee-satisfaction-isat)
+- [Hires vs. Plan](https://about.gitlab.com/#hires-vs-plan)
+- [Time to Offer Accept](https://about.gitlab.com/#time-to-offer-accept-day)
 
 ## Senior Manager, Recruiting Operations and Insights
 
@@ -164,7 +169,7 @@ This role reports to the VP of Recruiting.
 
 ### Job Grade
 
-The Senior Manager, Recruiting Operations and Insights is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Recruiting Operations and Insights is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -182,7 +187,7 @@ The Senior Manager, Recruiting Operations and Insights is a [grade 9](/handbook/
 - Ensure compliance with all international rules and regulations.
 - Manage recruiting operations documentation.
 - Keep it efficient and DRY.
-- Conduct [skip-level meetings](/handbook/leadership/skip-levels/).
+- Conduct [skip-level meetings](https://about.gitlab.com/handbook/leadership/skip-levels/).
 
 ### Requirements
 
@@ -199,12 +204,12 @@ The Senior Manager, Recruiting Operations and Insights is a [grade 9](/handbook/
 
 ### Performance Indicators
 
-- [Average Location Factor](/handbook/people-group/people-group-metrics/#average-location-factor)
-- [Interviewee Satisfaction (ISAT)](/#interviewee-satisfaction-isat)
-- [Candidates Sourced by Recruiting Department vs. Candidates Hired](/#candidates-sourced-by-recruiting-department-vs-candidates-hired)
-- [Hires vs. Plan](/#hires-vs-plan)
-- [Time to Offer Accept](/#time-to-offer-accept-days)
+- [Average Location Factor](https://about.gitlab.com/handbook/people-group/people-group-metrics/#average-location-factor)
+- [Interviewee Satisfaction (ISAT)](https://about.gitlab.com/#interviewee-satisfaction-isat)
+- [Candidates Sourced by Recruiting Department vs. Candidates Hired](https://about.gitlab.com/#candidates-sourced-by-recruiting-department-vs-candidates-hired)
+- [Hires vs. Plan](https://about.gitlab.com/#hires-vs-plan)
+- [Time to Offer Accept](https://about.gitlab.com/#time-to-offer-accept-days)
 
 ### Career Ladder
 
-The next step in the Recruiting Operations and Insights job family could include the [Data Analyst](/job-families/finance/data-analyst/) job family or a role on the [People Success team](/handbook/people-group/).
+The next step in the Recruiting Operations and Insights job family could include the [Data Analyst](/job-families/finance/data-analyst/) job family or a role on the [People Success team](https://about.gitlab.com/handbook/people-group/).

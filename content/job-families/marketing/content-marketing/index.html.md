@@ -12,7 +12,7 @@ The Content Marketing Associate reports to the Manager, Content Marketing.
 
 #### Content Marketing Associate Job Grade
 
-The Content Marketing Associate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Content Marketing Associate is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Content Marketing Associate Responsibilities
 
@@ -41,7 +41,7 @@ The Content Marketing Associate is a [grade 5](/handbook/total-rewards/compensat
 - Strong communication skills without a fear of over communication
 - Familiarity with the content pillar concept
 - Extremely detail-oriented and organized, able to meet deadlines
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 - BONUS: A passion and strong understanding of the industry and our mission
 
@@ -51,7 +51,7 @@ The Content Marketing Manager reports to the Manager, Content Marketing.
 
 #### Content Marketing Manager Job Grade
 
-The Content Marketing Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Content Marketing Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Content Marketing Manager Responsibilities
 
@@ -80,7 +80,7 @@ The Senior Content Marketing Manager reports to the Manager, Content Marketing.
 
 #### Senior Content Marketing Manager Job Grade
 
-The Senior Content Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Content Marketing Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Content Marketing Manager Responsibilities
 
@@ -109,23 +109,23 @@ The Senior Content Marketing Manager is a [grade 7](/handbook/total-rewards/comp
 
 ## Specialties
 
-Read more about what a [specialty](/handbook/hiring/#definitions) is at GitLab here.
+Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/#definitions) is at GitLab here.
 
 ### Development (Dev)
 
-- The Dev specialty maps to the [Dev department](/handbook/product/categories/#dev-department) at GitLab.
+- The Dev specialty maps to the [Dev department](https://about.gitlab.com/handbook/product/categories/#dev-department) at GitLab.
 - This specialty covers the Manage, Plan, and Create stages of the [DevOps lifecycle](/stages-devops-lifecycle/).
 - As a Dev specialist, you are responsible for covering topics that fall under these stages. For example: Workflow policies, project management, value stream management, code review, and source code management.
 
 ### Operations (Ops)
 
-- The Ops specialty maps to the [Ops department](/handbook/product/categories/#ops-department) at GitLab.
+- The Ops specialty maps to the [Ops department](https://about.gitlab.com/handbook/product/categories/#ops-department) at GitLab.
 - This specialty covers the Verify, Package, Release, Configure, and Monitor stages of the [DevOps lifecycle](/stages-devops-lifecycle/).
 - As an Ops specialist,you are responsible for covering topics that fall under these stages. For example: Continuous integration, continuous delivery, application performance management, PaaS, serverless, and Kubernetes.
 
 ### Security (Sec)
 
-- The Security specialty maps to the [Sec department](/handbook/product/categories/#sec-department) at GitLab.
+- The Security specialty maps to the [Sec department](https://about.gitlab.com/handbook/product/categories/#sec-department) at GitLab.
 - This specialty covers the Secure and Govern stages of the [DevOps lifecycle](/stages-devops-lifecycle/).
 - As a Security specialist, you are responsible for covering topics that fall under these stages. For example: Application security, SAST, DAST, container security, open source security, and continuous security testing.
 
@@ -186,7 +186,7 @@ The Manager, Content Marketing reports to [Senior Manager, Global Content](/job-
 
 #### Manager, Content Marketing Job Grade
 
-The Manager, Content Marketing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Content Marketing is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Content Marketing Responsibilities
 
@@ -208,7 +208,7 @@ The Manager, Content Marketing is a [grade 8](/handbook/total-rewards/compensati
 - Strong communication skills without a fear of over communication. This role will require effective collaboration and coordination across internal and external contributors
 - Obsessive about content quality not quantity
 - Regular reporting on content and channel performance
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - BONUS: A passion and strong understanding of the industry and our mission
 
@@ -225,4 +225,4 @@ Applicants for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to interview with 2-5 Team Members
 - There may be a final Executive interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

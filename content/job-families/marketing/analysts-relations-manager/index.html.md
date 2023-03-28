@@ -11,7 +11,7 @@ The Analyst Relations Manager reports to Manager, Analyst Relations.
 
 #### Analyst Relations Manager Job Grade
 
-The Analyst Relations Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Analyst Relations Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Analyst Relations Manager Requirements
 
@@ -25,7 +25,7 @@ The Analyst Relations Manager is a [grade 6](/handbook/total-rewards/compen
 - Self-starter with a strong sense of ownership.
 - Able to prioritize in a complex, fast-paced and lean organization.
 - Passion for helping build a world-class, innovative analyst relations program and desire to own and refine key operational processes
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 
 #### Analyst Relations Manager Responsibilities
@@ -48,7 +48,7 @@ The Senior Analyst Relations Manager reports to Manager, Analyst Relations.
 
 #### Senior Analyst Relations Manager Job Grade
 
-The Senior Analyst Relations Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Analyst Relations Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Analyst Relations Manager Responsibilities
 
@@ -72,7 +72,7 @@ The Staff Analyst Relations Manager reports to Manager, Analyst Relations.
 
 #### Staff Analyst Relations Manager Job Grade
 
-The Staff Analyst Relations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Analyst Relations Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Analyst Relations Manager Requirements
 
@@ -96,7 +96,7 @@ The Manager, Analyst Relations  reports to Manager, Market Insights.
 
 #### Manager, Analyst Relations  Job Grade
 
-The Manager, Analyst Relations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Analyst Relations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Analyst Relations Requirements
 
@@ -120,7 +120,7 @@ The next step in the Analyst Relations job family is not yet defined at GitLab.
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with a Senior Product Marketing Manager
 - Then, candidates will be invited to schedule a 45 minute interview with an Analyst Relations Manager
 - Candidates will then be invited to schedule a 45 minute interview with our VP of Product or a Director of Product.
@@ -129,4 +129,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, selected candidates may be asked to interview with our CMO and/or CEO.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

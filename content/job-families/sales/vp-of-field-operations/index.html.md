@@ -9,7 +9,7 @@ The Vice President, Field Operations is responsible for bringing a strategic vis
 
 ### Job Grade
 
-The VP, Field Operations is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, Field Operations is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -56,4 +56,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, the candidate  will have a 45 min interview with a peer
 - Lastly, the candidate will have a final 45 min interview with the CRO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

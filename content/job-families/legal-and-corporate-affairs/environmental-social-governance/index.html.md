@@ -44,7 +44,7 @@ The ideal candidate has deep expertise in environment, social, and governance pr
 
 ### Senior Director, ESG Job Grade
 
-The Senior Director, ESG is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, ESG is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Senior Director, ESG
 
@@ -100,7 +100,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule an interview with our Chief Legal Officer (as applicable).
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 
 

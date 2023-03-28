@@ -20,7 +20,7 @@ The Senior Strategy and Operations Manager reports to the [Chief of Staff to the
 
 #### Senior Strategy and Operations Manager Job Grade
 
-The Senior Manager Strategy and Operations is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Senior Manager Strategy and Operations is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Senior Strategy and Operations Manager Responsibilities
 
@@ -50,7 +50,7 @@ The Staff Strategy and Operations reports to the [Chief of Staff to the CEO](/jo
 
 #### Staff Strategy and Operations Job Grade
 
-The Staff Strategy and Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Staff Strategy and Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Staff Strategy and Operations Responsibilities
 
@@ -84,7 +84,7 @@ The Principal Strategy and Operations reports to the [Chief of Staff to the CEO]
 
 #### Principal Strategy and Operations Job Grade
 
-The Principal Strategy and Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Principal Strategy and Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Principal Strategy and Operations Responsibilities
 
@@ -107,7 +107,7 @@ The Director of Strategy and Operations reports to the [Chief of Staff to the CE
 
 #### Director of Strategy and Operations Job Grade
 
-The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Director of Strategy and Operations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Director of Strategy and Operations Responsibilities
 
@@ -142,12 +142,12 @@ The Senior Director of Strategy and Operations reports to the [Chief of Staff to
 
 #### Senior Director of Strategy and Operations Job Grade
 
-The Senior Director of Strategy and Operations is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Senior Director of Strategy and Operations is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Senior Director of Strategy and Operations Responsibilities
 
 - Owns initiatives of great importance to the business and consistently delivers great results
-- Act as a [DRI](/handbook/people-group/directly-responsible-individuals/) for top priority initiatives. Play a leadership role in achieving desired business outcomes for projects of high importance to the business
+- Act as a [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for top priority initiatives. Play a leadership role in achieving desired business outcomes for projects of high importance to the business
 - Exercise great autonomy in guiding a project, including leading decision making. This means both having good discretion in making decisions and escalating and involving others, as appropriate
 - Enter projects of great complexity at any point (scoping, alignment, execution, etc.) and can successfully align key stakeholders and steward them toward results
 - Can lead when projects have limited scoping and asks are abstract
@@ -201,7 +201,7 @@ dependencies to achieve project goals
 - Proven ability to manage cross-functional projects with folks at different levels of the business
 - Track record of moving key initiatives from idea to delivery
 - Experience in setting goals and driving toward quantifiable results
-- Ability to operate [iteratively](/handbook/values/#iteration)
+- Ability to operate [iteratively](https://about.gitlab.com/handbook/values/#iteration)
 - Ability to take meetings with and work synchronously with folks in Pacific Time
 
 ##### Strategy and Operations (Technical)
@@ -236,9 +236,9 @@ dependencies to achieve project goals
 
 ## Performance Indicators
 
-- [Throughput - Issues or merge requests closed as measurement of projects iterated on](/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
+- [Throughput - Issues or merge requests closed as measurement of projects iterated on](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
 
-In addition, we are exploring [additional ways to measure performance](/handbook/ceo/chief-of-staff-team/#measuring-results).
+In addition, we are exploring [additional ways to measure performance](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/#measuring-results).
 
 ## Career Ladder
 

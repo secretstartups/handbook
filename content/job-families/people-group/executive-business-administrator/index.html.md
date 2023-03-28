@@ -16,7 +16,7 @@ Executive Business Administrators (Associate) typically report to a leader they 
 
 #### Executive Business Administrator (Associate) Job Grade
 
-The Executive Business Administrator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Executive Business Administrator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Executive Business Administrator (Associate) Responsibilities
 
@@ -31,7 +31,7 @@ The Executive Business Administrator is a [grade 5](/handbook/total-rewards/comp
 - Assist the full life cycle of recruiting including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of new hires
 - Maintains and tracks manager and teams project list and goals
 - Attend team staff meetings, track agenda and assist Executive to keep team on course
-- Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
+- Schedules, live streams and moderates [Group Conversations](https://about.gitlab.com/handbook/group-conversations/)
 - Provide coverage for other EBAs
 - Assist with ad hoc projects, events and travel arrangements as needed
 
@@ -63,7 +63,7 @@ Executive Business Administrators (Intermediate) typically report to directly to
 
 #### Executive Business Administrator (Intermediate) Job Grade
 
-The Executive Business Administrator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Executive Business Administrator is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Executive Business Administrator (Intermediate) Responsibilities
 
@@ -79,7 +79,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 - Assist the full life cycle of recruiting including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of new hires
 - Maintains and tracks manager and teams project list and goals
 - Contribute to team meetings and offsites by assisting with the production of materials and pre-reads, taking notes, and tracking action items
-- Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
+- Schedules, live streams and moderates [Group Conversations](https://about.gitlab.com/handbook/group-conversations/)
 - Provide general project support as needed including ad-hoc reporting
 - Provide coverage for other E-Group EBAs
 - Contributes to broader EBA community by building strong cross functional relationships with other EBAs
@@ -113,7 +113,7 @@ Senior Executive Business Administrators who support an E-Group member report di
 
 #### Senior Executive Business Administrator Job Grade
 
-The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Executive Business Administrator is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Executive Business Administrator Responsibilities
 
@@ -127,7 +127,7 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 - Assist the full life cycle of recruiting including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of new hires
 - Manage Executive's email inbox including drafting internal and external communications on behalf of Executive
 - Compile receipts to submit timely and accurate expense reports on a monthly basis
-- Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
+- Schedules, live streams and moderates [Group Conversations](https://about.gitlab.com/handbook/group-conversations/)
 - Provide coverage for other Senior E-Group EBAs
 - Run and lead special projects upon request
 - Must be able to work flexible hours to support international business meetings and some travel is required in most roles
@@ -153,7 +153,7 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 
 ### Manager, Executive Business Administrator
 
-The Manager, Executive Business Administrator is a job [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Executive Business Administrator is a job [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Executive Business Administrator
 
@@ -168,7 +168,7 @@ The Manager, Executive Business Administrator is a job [grade 8](/handbook/total
 - Assist the full life cycle of recruiting including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of new hires
 - Manage Executives email inbox including drafting internal and external communications on behalf of Executive
 - Compile receipts to submit timely and accurate expense reports on a monthly basis
-- Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
+- Schedules, live streams and moderates [Group Conversations](https://about.gitlab.com/handbook/group-conversations/)
 - Provide coverage for other Senior E-Group EBAs
 - Run and lead special projects upon request
 - Must be able to work flexible hours to support international business meetings and some travel is required in most roles
@@ -198,7 +198,7 @@ The Staff Executive Business Administrator to the CEO reports to the [Chief of S
 
 #### Staff Executive Business Administrator to the CEO Job Grade
 
-The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Executive Business Administrator to the CEO is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Executive Business Administrator to the CEO Responsibilities
 
@@ -216,7 +216,7 @@ The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/t
 - Orchestrate events such as team off-sites and team building activities
 - Serve as a helpful knowledge base for executives and other team members (e.g., other EBAs), especially for processes and procedures, and provide assistance in a hands-on, kind, and proactive manner
 - Work flexible hours to support global business meetings; some travel is required
-- Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
+- Schedules, live streams and moderates [Group Conversations](https://about.gitlab.com/handbook/group-conversations/)
 - Other duties (and ad hoc tasks) as assigned in support of your executive and business
 - Contribute to the broader EBA community by sharing learnings, resources, and mentoring other EBAs as appropriate
 
@@ -242,6 +242,7 @@ The Staff Executive Business Administrator to the CEO is a [grade 8](/handbook/t
 An Executive Business Administrator's career path can take various routes depending on the long term career goals and aspirations of an EBA. One path that is routinely taken is that of a career EBA and is someone who is passionate about being in the EBA role for the long-term resulting in becoming a Senior, Staff, or Principal EBA at GitLab to a member of our E-Group. Another path that is open to an EBA is one where they decide to leverage their experience as an EBA to transition into a new role such as (but not limited to) a Chief of Staff, Project Manager, Recruiter, Corporate Events Manager, Business Analyst, Executive Communications, PR, Internal Communications, People Connect Specialist, People Business Partner, etc.
 
 ## Performance Indicator
+
 - [Leadership SAT Survey](https://about.gitlab.com/handbook/eba/#leadership-sat-survey)
 
 ## Hiring Process
@@ -255,4 +256,4 @@ Applicants for this position can expect the hiring process to follow the order b
 - Next, candidates may be asked to meet with the department's People Business Partner
 - Final candidates will then be invited to schedule interviews with members of the leadership team the role will be supporting
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

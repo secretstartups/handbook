@@ -5,7 +5,7 @@ description: "Learn more about Community Programs roles, responsibilities, requi
 ---
 # Community Programs
 
-The Community Programs team supports communities that align with GitLab's [CREDIT values](/handbook/values/) by executing specific programs that help these communities grow and thrive. These programs include [**GitLab for Education**](/solutions/education/), [**GitLab for Open Source**](/solutions/open-source/), [**GitLab for Startups**](/solutions/startups/), and [**GitLab for Non-Profits**](/handbook/marketing/community-relations/community-programs/education-program/#--gitlab-for-non-profits) Programs. Our mission is to help these communities experience GitLab's vision of a world where everyone can contribute.
+The Community Programs team supports communities that align with GitLab's [CREDIT values](https://about.gitlab.com/handbook/values/) by executing specific programs that help these communities grow and thrive. These programs include [**GitLab for Education**](/solutions/education/), [**GitLab for Open Source**](/solutions/open-source/), [**GitLab for Startups**](/solutions/startups/), and [**GitLab for Non-Profits**](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/education-program/#--gitlab-for-non-profits) Programs. Our mission is to help these communities experience GitLab's vision of a world where everyone can contribute.
 
 The Community Programs team is the DRI for establishing community program requirements and benefits. As each of these programs provides free, unlimited seats of GitLab Ultimate to qualifying applicants (in addition to other benefits), the Community Programs team also oversees the entitlement process. As part of this work, the team leads community outreach efforts, marketing activities, and other strategic engagements (which may include serving on foundation boards, building partnerships, creating enablement and marketing content, delivering public presentations and learning sessions, and sponsoring events). We continually strive to be thought leaders in each respective community.
 
@@ -17,7 +17,7 @@ The Community Programs Evangelist supports and grows GitLab's community by engag
 
 ### Job Grade
 
-The Community Programs Evangelist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Community Programs Evangelist reports to the Manager, Community Programs.
+The Community Programs Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Community Programs Evangelist reports to the Manager, Community Programs.
 
 ### Responsibilities
 - Connect, engage with, and gather feedback from Community Programs members.
@@ -57,7 +57,7 @@ Specialties include [Education](/job-families/marketing/community-programs/#spec
 
 ### Job Grade
 
-The Senior Community Programs Evangelist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Senior Community Programs Evangelist reports to the Manager, Community Programs.
+The Senior Community Programs Evangelist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Senior Community Programs Evangelist reports to the Manager, Community Programs.
 
 ### Responsibilities
 - Extends that of the Community Programs Evangelist.
@@ -85,10 +85,10 @@ The Community Programs Associate Manager reports to the Manager, Community Progr
 
 ### Job Grade
 
-The Community Associate Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Community Associate Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
-- Support the [GitLab for Education](/solutions/education/), [GitLab for Open Source](/solutions/open-source/), [GitLab for Startups](/solutions/startups/), and GitLab for [Non-Profits programs](/handbook/marketing/community-relations/community-programs/education-program/#--gitlab-for-non-profits) (as well as any new programs that are created), as well as associated workflows. This includes responding to all in-bound requests from program members.
+- Support the [GitLab for Education](/solutions/education/), [GitLab for Open Source](/solutions/open-source/), [GitLab for Startups](/solutions/startups/), and GitLab for [Non-Profits programs](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/education-program/#--gitlab-for-non-profits) (as well as any new programs that are created), as well as associated workflows. This includes responding to all in-bound requests from program members.
 - Actively participate in the implementation of, and then lead the maintenance of the Automated Community Programs workflows. This includes improving and troubleshooting related processes and working cross-functionally with associated teams in Product, Fulfillment, Legal, Sales Operations, and Customer Support.
 - Standardize communications for Community Programs. As we evolve our Community Programs, we'll need to make sure that we update all of our outreach and support materials. You will lead this effort and suggest ways we can make our messaging more customer-friendly and effective.
 - Improve efficiency of tools. Make sure we are using all of our current tools in the best way possible. Become the team's expert in using each tool and suggest improved ways to use them to help with program goals.
@@ -100,7 +100,7 @@ The Community Associate Manager is a [grade 5](/handbook/total-rewards/compensat
 
 ### Requirements
 - You thrive at developing process improvements and are an excellent critical thinker.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - You thrive at developing new approaches and refining existing processes to enable teams to work more efficiently.
 - You are pattern-seeking and enjoy creating replicable, scalable processes.
 - You love making sure community members have the best experience possible as they interact with our tools and systems.
@@ -135,7 +135,7 @@ The Intermediate Community Programs Manager extends that of the Community Progra
 
 ### Job Grade
 
-The Intermediate Community Programs Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Community Programs Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Iterate on community program workflows. Work to improve the community programs application workflow by iterating on what we are already building. Proactively look for ways to make the processes even more efficient.
@@ -168,7 +168,7 @@ The Senior Community Programs Manager reports to the Manager, Community Programs
 
 ### Job Grade
 
-The  Senior Community Programs Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Senior Community Programs Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Extends that of the Intermediate Community Programs Manager.
@@ -212,7 +212,7 @@ Specialties include [Education](/job-families/marketing/community-programs/#spec
 
 ### Job Grade
 
-The Manager, Community Programs is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Community Programs is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - The Manager, Community Programs extends that of the Senior Community Program Manager.
@@ -237,7 +237,7 @@ The Senior Manager, Community Programs extends that of the Manager, Community Pr
 
 ### Job Grade
 
-The Senior Manager, Community Programs is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Community Programs is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Extends that of Manager, Community Programs.
@@ -272,7 +272,7 @@ As the Director, Community Programs you will be responsible for managing and bui
 
 ### Job Grade
 
-The Director, Community Programs is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Community Programs is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Build a great team by hiring, training and continually inspiring an outstanding global outreach team to grow the GitLab community.
@@ -308,24 +308,24 @@ The career ladder for the Director, Community Programs is not defined.
 
 ## GitLab for Education
 
-The [GitLab for Education](/handbook/marketing/community-relations/community-programs/education-program/) team’s mission is to facilitate and drive the adoption of DevOps and GitLab at educational institutions around the globe. This program aims to build an engaged community of GitLab evangelists and contributors in the next generation of the workforce and tell the story of how GitLab and DevOps as a discipline, are advancing and transforming teaching, learning, and scientific research.
+The [GitLab for Education](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/education-program/) team’s mission is to facilitate and drive the adoption of DevOps and GitLab at educational institutions around the globe. This program aims to build an engaged community of GitLab evangelists and contributors in the next generation of the workforce and tell the story of how GitLab and DevOps as a discipline, are advancing and transforming teaching, learning, and scientific research.
 
 Team members specializing in Education will focus community building efforts with faculty, students and staff and institutional leaders. This includes building content specific enabling the teaching and learning of GitLab as well conducing scientific research within a DevOps framework. Team members will strive to drive brand awareness at Universities world-wide. Academic associations and publications are primary outlets for publication and public speaking opportunities.  
 
 ## GitLab for Open Source
 
-The [GitLab for Open Source](/handbook/marketing/community-relations/open-source/) teams mission is to help make GitLab the best place for open source projects to grow and thrive.
+The [GitLab for Open Source](https://about.gitlab.com/handbook/marketing/community-relations/open-source/) teams mission is to help make GitLab the best place for open source projects to grow and thrive.
 
 Team members specializing in Open Source will focus community building efforts on by identifying and cultivating strategic relationships with current and potential partners in the context of leading Open Source projects and organizations. This includes enabling large open source projects to move to GitLab setting expectations, proving support, training, advice and help them manage the migration process.
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Candidates may then be offered a 30 minute interview with a peer on the team.
 - Next, candidates will be invited to schedule an interview with a director of the group.
 - Candidates will then be invited to schedule interviews with key team members from relevant company departments that the role will work with closely.
 - Finally, our Chief Marketing Office or Sr. Marketing Director(s) may choose to conduct a final interview.
 Successful candidates will subsequently be made an offer via video, phone, or email.
-- Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+- Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 

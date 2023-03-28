@@ -13,7 +13,7 @@ This job family reports to the Sr. Director of Education Services.
 
 #### Job Grade
 
-The Certification Exam Developer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Certification Exam Developer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
 - Facilitate competency modeling sessions working cross-functionally with SMEs, instructional designers, and other teams (engineering, support, professional services, etc.) to establish the knowledge and performance framework to be used as the basis for developing exams (and associated curricula).
@@ -63,7 +63,7 @@ This role reports to Sr. Manager of Curriculum Development.
 
 #### Job Grade
 
-The Lab Development Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
 - Dive deep into GitLab platform to understand the services and develop effective training for our customers
@@ -119,7 +119,7 @@ This job family reports to the Sr. Director of Education Services.
 
 #### Intermediate Job Grade
 
-The Technical Curriculum Developer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Technical Curriculum Developer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
 - Build relationships and collaborate with SMEs, instructional designers, and other teams (sales, engineering, support, professional services, etc.) to align product roadmaps with content updates or new educational offerings.
@@ -165,7 +165,7 @@ This job family reports to the Sr. Director of Education Services.
 
 #### Job Grade
 
-Associate LMS Administrator, Education Services is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+Associate LMS Administrator, Education Services is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
 - Administer tasks on various education systems including LMS, virtual environment, and accreditation system
@@ -189,7 +189,7 @@ Associate LMS Administrator, Education Services is a [grade 5](/handbook/total-r
 
 #### Job Grade
 
-LMS Administrator, Education Services is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+LMS Administrator, Education Services is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Career Ladder
 
@@ -210,7 +210,7 @@ The Senior Manager of Education Curriculum Development reports into the Senior D
 
 #### Senior Manager of Education Curriculum Development Job Grade
 
-The Senior Manager of Education Curriculum Development is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager of Education Curriculum Development is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager of Education Curriculum Development Responsibilities
 - Manage a high performing direct team of instructional designers, multimedia developers, and lab managers for DevOps and product content and course development to ensure effective education delivery
@@ -244,7 +244,7 @@ The Techincal Instructor (Intermediate) reports to the Senior Manager, Professio
 
 ### Technical Instructor (Intermediate) Job Grade
 
-The Technical Instructor (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Technical Instructor (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Technical Instructor (Intermediate) Responsibilities
 
@@ -284,7 +284,7 @@ The Senior Techincal Instructor reports the Senior Manager, Professional Educati
   
 ### Senior Technical Instructor Job Grade
 
-The Senior Technical Instructor is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Technical Instructor is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
   
 ### Senior Technical Instructor Responsibilities
@@ -343,7 +343,7 @@ The Senior Manager, Education Delivery reports to the Senior Director, Global Ed
 
 #### Senior Manager, Education Delivery Job Grade
 
-The Senior Manager, Education Delivery is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Education Delivery is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Education Delivery Responsibilities
 
@@ -401,7 +401,7 @@ The Senior Director, Education Services reports to the Senior Director, Global P
 
 #### Senior Director, Education Services Job Grade
 
-The Senior Director, Education Services is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Education Services is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Education Services Responsibilities
 
@@ -429,8 +429,8 @@ The Senior Director, Education Services is a [grade 11](/handbook/total-rewards/
 
 ## Performance Indicators
 
-- [Bookings attached rate per agreed plan](/handbook/sales/#pcv)
-- [Services bookings and revenue per agreed plan](/handbook/sales/#pcv)
+- [Bookings attached rate per agreed plan](https://about.gitlab.com/handbook/sales/#pcv)
+- [Services bookings and revenue per agreed plan](https://about.gitlab.com/handbook/sales/#pcv)
 
 ## Career Ladder
 
@@ -440,9 +440,9 @@ The next steps for the Professional Services Education Family would be to move t
 
 Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

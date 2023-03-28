@@ -32,7 +32,7 @@ The payroll department is responsible for processing and distributing payroll in
 
 ## Levels
 
-Read more about [levels](/handbook/hiring/vacancies/#definitions) at GitLab here.
+Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
 
 ## Payroll Specialist
 
@@ -40,7 +40,7 @@ The Payroll Specialist reports directly to the Manager, International Payroll (E
 
 ### Payroll Specialist Job Grade
 
-The Payroll Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Payroll Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Payroll Specialist Responsibilities
 
@@ -63,7 +63,7 @@ The Payroll Analyst, US reports directly to the Senior Manager, Global Payroll O
 
 ### Payroll Analyst, US Job Grade
 
-The Payroll Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Payroll Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Payroll Analyst, US Responsibilities
 
@@ -95,7 +95,7 @@ The Payroll Analyst, EMEA/APAC/LATAM reports directly to the Manger, Internation
 
 ### Payroll Analyst, EMEA/APAC,LATAM Job Grade
 
-The Payroll Analyst, EMEA/APAC/LATAM is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Payroll Analyst, EMEA/APAC/LATAM is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Payroll Analyst, EMEA/APAC,LATAM Responsibilities
 
@@ -127,7 +127,7 @@ The Senior Payroll Analyst reports directly to the Manger, International Payroll
 
 ### Senior Payroll Analyst Job Grade
 
-The Senior Payroll Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Payroll Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Payroll Analyst Responsibilities
 
@@ -221,7 +221,7 @@ The Senior Manager, Global Payroll Operations reports directly to the Senior Dir
 
 ### Senior Manager, Global Payroll Operations Job Grade
 
-The Senior Manager, Global Payroll Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Global Payroll Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Manager, Global Payroll Operations Responsibilities
 
@@ -262,9 +262,9 @@ The Senior Manager, Global Payroll Operations is a [grade 9](/handbook/total-rew
 
 ## Performance Indicators
 
-- [Payroll accuracy for each check date](/handbook/finance/payroll/#payroll-accuracy-for-each-check-date--100)
-- [Payroll journal entry reports submitted to Accounting](/handbook/finance/payroll/#payroll-journal-entry-reports-submitted-to-accounting--payroll-date--2-business-days)
-- [Percentage of ineffective SOX Controls](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Payroll accuracy for each check date](https://about.gitlab.com/handbook/finance/payroll/#payroll-accuracy-for-each-check-date--100)
+- [Payroll journal entry reports submitted to Accounting](https://about.gitlab.com/handbook/finance/payroll/#payroll-journal-entry-reports-submitted-to-accounting--payroll-date--2-business-days)
+- [Percentage of ineffective SOX Controls](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Career Ladder
 
@@ -280,4 +280,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - 30 minute interview with our Senior Manager, Total Rewards
 - 45 minute interview with an Executive for any Manager and above role
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)

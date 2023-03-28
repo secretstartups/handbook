@@ -8,7 +8,7 @@ Directors in Engineering at GitLab see their team as their product. While they a
 
 ## Job Grade
 
-The Director, Engineering is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Engineering is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -42,16 +42,16 @@ The Director, Engineering is a [grade 10](/handbook/total-rewards/compensation/c
 
 ## Performance Indicators
 
-- [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
-- [Team/Group MR Rate](/handbook/engineering/development/performance-indicators/#mr-rate)
-- [Team/Group Review To Merge Time (RTMT)](/handbook/engineering/development/performance-indicators/#review-to-merge-time-rtmt)
-- [Handbook Update Frequency](/handbook/engineering/development/performance-indicators/#handbook-update-frequency)
+- [Hiring Actual vs. Plan](https://about.gitlab.com/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
+- [Team/Group MR Rate](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#mr-rate)
+- [Team/Group Review To Merge Time (RTMT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#review-to-merge-time-rtmt)
+- [Handbook Update Frequency](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#handbook-update-frequency)
 
 ## Hiring Process
 
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with a VP of Development
 - Next, candidates will be invited to schedule a 45 minute second interview with a Director, Engineering
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team
@@ -60,4 +60,4 @@ Candidates for this position can generally expect the hiring process to follow t
 - Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

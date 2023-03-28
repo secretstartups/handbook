@@ -27,7 +27,7 @@ The Revenue Programs job family is responsible for developing and executing effe
 
 ## Levels
 
-Read more about [levels at GitLab](/handbook/hiring/vacancies/#definitions).
+Read more about [levels at GitLab](https://about.gitlab.com/handbook/hiring/vacancies/#definitions).
 
 ### Revenue Programs Specialist (Intermediate)
 
@@ -35,7 +35,7 @@ The Revenue Programs Specialist (Intermediate) reports to the Manager, Revenue P
 
 #### Revenue Programs Specialist (Intermediate) Job Grade
 
-The Revenue Programs Specialist (Intermediate) role is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Revenue Programs Specialist (Intermediate) role is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Revenue Programs Specialist (Intermediate) Responsibilities
 - Manage and execute region-, segment-, or industry-specific sales programs
@@ -54,7 +54,7 @@ The Senior Revenue Programs Specialist reports to the Manager, Revenue Programs 
 
 #### Senior Revenue Programs Specialist Job Grade
 
-The Senior Revenue Programs Specialist role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Revenue Programs Specialist role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Revenue Programs Specialist Responsibilities
 - Manage and execute region-, segment-, or industry-specific sales programs
@@ -81,7 +81,7 @@ The Manager, Revenue Programs reports to the Senior Director of Field Enablement
 
 #### Manager, Revenue Programs Job Grade
 
-The Manager, Revenue Programs role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Revenue Programs role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Revenue Programs Responsibilities
 - Build and/or lead a team of Revenue Program Specialists
@@ -114,7 +114,7 @@ The Senior Manager, Revenue Programs reports to the Senior Director of Field Ena
 
 #### Senior Manager, Revenue Programs Job Grade
 
-The Senior Manager, Revenue Programs role is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Revenue Programs role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Revenue Programs Responsibilities
 - Build and/or lead a team of Revenue Program Specialists and/or Revenue Program Managers
@@ -150,7 +150,7 @@ The Director, Revenue Programs reports to the Senior Director of Field Enablemen
 
 #### Director, Revenue Programs Job Grade
 
-The Director, Revenue Programs role is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Revenue Programs role is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Revenue Programs Responsibilities
 - Build and/or lead a team of Revenue Program Specialists and/or Revenue Program Managers
@@ -205,7 +205,7 @@ The next steps for the Revenue Programs Specialist is to move up within this job
 
 Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview

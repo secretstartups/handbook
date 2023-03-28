@@ -16,7 +16,7 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 
 #### Senior Manager, Development Job Grade
 
-The  Senior Manager, Development is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Senior Manager, Development is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Development Responsibilities
 
@@ -24,7 +24,7 @@ The  Senior Manager, Development is a [grade 9](/handbook/total-rewards/compensa
 - Manage up to six engineering teams
 - Conduct managerial interviews for candidates, and train engineering managers to do said interviews
 - Generate and implement process improvements, especially cross-team processes
-- Hold regular [1:1s](/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
+- Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
 - Management mentorship
 
 #### Senior Manager, Development Requirements
@@ -53,7 +53,7 @@ The  Senior Manager, Development is a [grade 9](/handbook/total-rewards/compensa
 
 #### Principal Engineer Job Grade
 
-The Principal Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Engineer Responsibilities
 
@@ -86,7 +86,7 @@ The Principal Engineer is a [grade 9](/handbook/total-rewards/compensation/compe
 
 #### Director, Development Job Grade
 
-The  Director, Development is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Director, Development is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Development Responsibilities
 
@@ -120,7 +120,7 @@ The  Director, Development is a [grade 10](/handbook/total-rewards/compensation/
 
 #### Distinguished Engineer Job Grade
 
-The Distinguished Engineer is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Distinguished Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Distinguished Engineer Responsibilities
 
@@ -144,7 +144,7 @@ The Distinguished Engineer is a [grade 10](/handbook/total-rewards/compensation/
 
 #### Senior Director, Development Job Grade
 
-The  Senior Director, Development is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Senior Director, Development is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Development Responsibilities
 
@@ -170,7 +170,7 @@ The Senior Distinguished Engineer reports to the [Senior Director, Development](
 
 #### Senior Distinguished Engineer Job Grade
 
-The Senior Distinguished Engineer is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Distinguished Engineer is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Distinguished Engineer Responsibilities
 
@@ -193,7 +193,7 @@ The Senior Distinguished Engineer is a [grade 11](/handbook/total-rewards/compen
 
 #### Engineering Fellow Job Grade
 
-The Engineering Fellow is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Engineering Fellow is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Engineering Fellow Responsibilities
 
@@ -221,7 +221,7 @@ The VP of Development reports to the [Chief Technology Officer](#chief-technolog
 
 #### VP of Development Job Grade
 
-The VP of Development is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+The VP of Development is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
 
 #### VP of Development Responsibilities
 
@@ -246,20 +246,20 @@ The VP of Development is a [grade 12](/handbook/total-rewards/compensation/compe
 
 ## Performance Indicators
 
-- [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
-- [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
-- [Team/Group MR Rate](/handbook/engineering/development/performance-indicators/#mr-rate)
-- [Handbook Update Frequency](/handbook/engineering/development/performance-indicators/#handbook-update-frequency)
+- [Response to Community SLO](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#response-to-community-slo)
+- [Hiring Actual vs. Plan](https://about.gitlab.com/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
+- [Team/Group MR Rate](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#mr-rate)
+- [Handbook Update Frequency](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#handbook-update-frequency)
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
 
 ## Hiring Process
 
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering
 - Next, candidates will be invited to schedule a 45 minute second peer interview with an Engineering Manager
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team
@@ -274,7 +274,7 @@ The Chief Technology Officer reports to the Chief Executive Officer.
 
 #### Chief Technology Officer Job Grade
 
-The Chief Technology Officer is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Chief Technology Officer is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Chief Technology Officer Responsibilities
 
@@ -294,18 +294,18 @@ The Chief Technology Officer is a [grade 12](/handbook/total-rewards/compensatio
 
 #### Chief Technology Officer Performance Indicators
 
-- [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
-- [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
-- [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
-- [Diversity](/handbook/engineering/performance-indicators/#diversity)
-- [Handbook Update Frequency](/handbook/engineering/performance-indicators/#handbook-update-frequency)
-- [Team Member Retention](/handbook/engineering/performance-indicators/#team-member-retention)
+- [Response to Community SLO](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#response-to-community-slo)
+- [Hiring Actual vs. Plan](https://about.gitlab.com/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
+- [Development Department merge request rate](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
+- [Diversity](https://about.gitlab.com/handbook/engineering/performance-indicators/#diversity)
+- [Handbook Update Frequency](https://about.gitlab.com/handbook/engineering/performance-indicators/#handbook-update-frequency)
+- [Team Member Retention](https://about.gitlab.com/handbook/engineering/performance-indicators/#team-member-retention)
 
 #### Chief Technology Officer Hiring Process
 
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering
 - Next, candidates will be invited to schedule a 45 minute second peer interview with an Engineering Manager
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team

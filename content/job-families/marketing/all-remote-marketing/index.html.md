@@ -27,7 +27,7 @@ The All-Remote Marketing team holds a unique position on the corporate marketing
 - Capability to coordinate across many teams and perform in fast-moving startup environment.
 - Aptitude to be a [manager of one](https://about.gitlab.com/company/culture/all-remote/self-service/) and work with minimal supervision.
 - Outstanding written and verbal communications skills.
-- You embrace our [values](/handbook/values/), and work in accordance with those values.
+- You embrace our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
 
 ## Levels
@@ -38,7 +38,7 @@ The All-Remote Coordinator reports to the Head of Remote.
 
 #### All-Remote Coordinator Job Grade
 
-The All-Remote Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The All-Remote Coordinator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### All-Remote Coordinator Responsibilities
 
@@ -61,7 +61,7 @@ All-Remote Evangelist reports to the Head of Remote.
 
 #### All-Remote Evangelist Job Grade
 
-The All-Remote Evangelist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The All-Remote Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### All-Remote Evangelist Responsibilities
 
@@ -84,7 +84,7 @@ The All-Remote Campaign Manager reports to the Senior Manager, All-Remote Campai
 
 #### All-Remote Campaign Manager Job Grade
 
-The All-Remote Campaign Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The All-Remote Campaign Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### All-Remote Campaign Manager Responsibilities
 
@@ -105,7 +105,7 @@ The Senior Campaign Manager, All-Remote reports to the Head of Remote.
 
 #### Senior Campaign Manager, All-Remote Job Grade
 
-The Senior Campaign Manager, All-Remote is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Campaign Manager, All-Remote is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Campaign Manager, All-Remote Responsibilities
 
@@ -126,7 +126,7 @@ The Director, All-Remote (Head of Remote) reports to Senior Director, All-Remote
 
 #### Director, All-Remote (Head of Remote) Job Grade
 
-The Director, All-Remote is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, All-Remote is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, All-Remote (Head of Remote) Responsibilities
 
@@ -148,7 +148,7 @@ The Senior Director, All-Remote reports to Vice President of Corporate Marketing
 
 #### Senior Director, All-Remote Job Grade
 
-The Senior Director, All-Remote is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, All-Remote is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, All-Remote Responsibilities
 
@@ -175,7 +175,7 @@ The Senior Director, All-Remote is a [grade 11](/handbook/total-rewards/compensa
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
+Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 - A 45 minute interview with our Head of Remote
 - A 30 minute interview with one of our Corporate Marketing Heads
 - A 30 minute interview with our Senior Talent Branding Manager
@@ -183,4 +183,4 @@ Qualified candidates will be invited to schedule a 30 minute [screening call](/h
 - Finally, our CMO may choose to conduct a final interview
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

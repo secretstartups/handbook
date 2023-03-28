@@ -27,7 +27,7 @@ The Integrations Engineer develops core services and APIs that serve as an enter
 
 ### Job Grade
 
-The Integrations Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Integrations Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -50,7 +50,7 @@ The Senior Integrations Engineer is the owner of core services and APIs that ser
 
 ### Job Grade
 
-The Senior Integrations Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Integrations Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -142,8 +142,8 @@ The Senior Manager, Integrations Engineering is a [grade 9](https://about.gitla
 
 ## Performance Indicators
 
-- [Evaluating System or Process Efficiency](/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
-- [Average Merge Request](/handbook/business-technology/metrics/#average-merge-request)
+- [Evaluating System or Process Efficiency](https://about.gitlab.com/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
+- [Average Merge Request](https://about.gitlab.com/handbook/business-technology/metrics/#average-merge-request)
 - Evaluating health of integrations
 - Number of integrations implemented that increase the efficiency of the company
 - Total hours saved by improving systems integrations
@@ -156,9 +156,9 @@ The next step in the Integrations Engineering job family is to move a higher lev
 
 ## Hiring Process
 
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 45 minute interview with a senior member of the team.
 - Second round interviews will involve interviews with 2 members of the Data Team and/or others.
 - Third round interview is with the Senior Director of Enterprise Applications.
 - At final stage candidates will meet with the VP of Information Technology.
-- Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+- Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

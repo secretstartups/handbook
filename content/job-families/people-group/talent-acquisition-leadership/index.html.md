@@ -11,7 +11,7 @@ The VP, Talent Acquisition reports to the [CPO](/job-families/people-group/chief
 
 #### VP, Talent Acquisition Job Grade
 
-The VP of Talent Acquisition is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Talent Acquisition is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP, Talent Acquisition Responsibilities
 
@@ -42,7 +42,7 @@ The VP of Talent Acquisition is a [grade 12](/handbook/total-rewards/compensatio
 ## Performance Indicators
 
 - [Active Users with a Recruiting or Hiring Manager LinkedIn Seat](/#active-users-with-a-recruiting-or-hiring-manager-linkedin-seat--x)
-- [Average Location Factor](/handbook/people-group/people-group-metrics/#average-location-factor)
+- [Average Location Factor](https://about.gitlab.com/handbook/people-group/people-group-metrics/#average-location-factor)
 - [Interviewee Satisfaction (ISAT)](/#interviewee-satisfaction-isat)
 - [Candidates Sourced by Talent Acquisition Department vs. Candidates Hired](/#candidates-sourced-by-talent-acquisition-department-vs-candidates-hired)
 - [Cost Per Hire](/#cost-per-hire)
@@ -68,4 +68,4 @@ Candidates for this position can expect the hiring process to follow the order b
   - Next, candidates will be invited to schedule 4 separate 50 minute interviews; Chief People Officer, Chief Technology Officer, Chief Revenue Officer and the Chief Financial Officer
   - Finally, candidates will be invited to a 50 minute interview with the CEO
 
-As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).

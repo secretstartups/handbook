@@ -14,9 +14,10 @@ our acquisition prospect
 [scoring program](https://gitlab.com/gitlab-com/corporate-development/issues/1).
 The program will scrape data from websites, blogs, Twitter, etc., and integrate
 data from external data providers, to identify and score companies that might be
-open to a [soft-landing acquisition](/blog/2019/07/30/gitlab-acquisitions/).
+open to a [soft-landing acquisition](https://about.gitlab.com/blog/2019/07/30/gitlab-acquisitions/).
 
 ## Responsibilities
+
 - Develop features and improvements for a unique acquisition prospect sourcing program
 - Taking a design from idea and developing it into a fully working feature
 - Collaborate with the Corporate Development team and other stakeholders to maintain a high bar for quality in a fast-paced, iterative environment
@@ -26,6 +27,7 @@ open to a [soft-landing acquisition](/blog/2019/07/30/gitlab-acquisitions/).
 - Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
 
 #### Requirements
+
 - Significant development experience as a sole developer to a stand-alone application or main component in one
 - Experience owning a project from concept to production, including proposal, discussion, and execution.
 - Experience developing both frontend and backend of the same product
@@ -45,21 +47,22 @@ open to a [soft-landing acquisition](/blog/2019/07/30/gitlab-acquisitions/).
 - Ability to thrive in a fully remote organization
 - Ability to use GitLab
 
-[values]: /handbook/values/
-[collaboration]: /handbook/values/#collaboration
-[efficiency]: /handbook/values/#efficiency
-[iteration]: /handbook/values/#iteration
-
 ### Performance Indicators
-- [Acquisition velocity](/handbook/product/performance-indicators/)
-- [Qualified acquisition targets](/handbook/product/performance-indicators/)
+
+- [Acquisition velocity](https://about.gitlab.com/handbook/product/performance-indicators/)
+- [Qualified acquisition targets](https://about.gitlab.com/handbook/product/performance-indicators/)
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 - Recruiter screening
 - Sr. Dir. Corporate Development
 - Dir. Corporate Development
 - Dir. Engineering
 - Chief Product Officer
+
+[values]: /handbook/values/
+[collaboration]: /handbook/values/#collaboration
+[efficiency]: /handbook/values/#efficiency
+[iteration]: /handbook/values/#iteration

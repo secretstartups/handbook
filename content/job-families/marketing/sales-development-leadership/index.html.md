@@ -9,7 +9,7 @@ title: "Sales Development Leadership"
 
 #### Director, Global Sales Development Job Grade
 
-The Director, Sales Development is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Sales Development is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Global Sales Development Responsibilities
 
@@ -47,7 +47,7 @@ The Director, Sales Development is a [grade 10](/handbook/total-rewards/compensa
 
 #### Director, Global Business Development Job Grade
 
-The Director, Global Business Development is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Global Business Development is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Global Business Development Responsibilities
 
@@ -85,7 +85,7 @@ The Director, Global Business Development is a [grade 10](/handbook/total-reward
 
 #### Area Vice President, Sales Development Job Grade
 
-The Area Vice President, Sales Development is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Area Vice President, Sales Development is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Area Vice President,Sales Development Responsibilities
 
@@ -111,7 +111,7 @@ The Area Vice President, Sales Development is a [grade 11](/handbook/total-rewar
 
 #### Vice President, Sales Development Job Grade
 
-The Director, Sales Development is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Sales Development is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Vice President, Sales Development Responsibilities
 
@@ -142,7 +142,7 @@ The next step in the Sales Development Leadership job family has not yet been de
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Candidates will then meet with the Senior Director of Revenue Marketing.
 - Candidates will then be asked to schedule an interview with the Manager of Field Marketing, Americas.
 - Candidates will then meet with the CMO.
@@ -150,8 +150,8 @@ Candidates for this position can expect the hiring process to follow the order b
 - Final candidates may be asked to complete an assessment, and  meet with the Senior Director of Revenue Marketing again.
 - Successful candidates will subsequently be made an offer via video or phone.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ### Relevant links
 
-- [Sales Development Handbook](/handbook/marketing/revenue-marketing/sdr/)
+- [Sales Development Handbook](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/)

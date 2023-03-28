@@ -6,7 +6,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Operations sub department](/handbook/security/security-operations/), the [Infrastructure Security](/handbook/security/) engineers own security initiatives related to security of GitLab.com. They are Infrastructure's stable counterparts in the Security department, and as such work with various Infrastructure and Security teams to identify and mitigate security issues, vulnerabilities, and misconfigurations by applying their in-depth knowledge of operating systems, infrastructure, and cloud providers. They work very closely with the Security Incident Response Team and share their findings in a proactive manner. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
+As members of GitLab's [Security Operations sub department](https://about.gitlab.com/handbook/security/security-operations/), the [Infrastructure Security](https://about.gitlab.com/handbook/security/) engineers own security initiatives related to security of GitLab.com. They are Infrastructure's stable counterparts in the Security department, and as such work with various Infrastructure and Security teams to identify and mitigate security issues, vulnerabilities, and misconfigurations by applying their in-depth knowledge of operating systems, infrastructure, and cloud providers. They work very closely with the Security Incident Response Team and share their findings in a proactive manner. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
 
 ## Responsibilities
 - Be a stable counterpart for the Infrastructure department
@@ -21,7 +21,7 @@ As members of GitLab's [Security Operations sub department](/handbook/security/s
 - Substantial knowledge of the Linux operating system
 - Demonstrated experience with running systems at scale
 - Proficiency to communicate over a text-based medium (Slack, GitLab Issues, Email) and can succinctly document technical details
-- Share our [values](/handbook/values/), and work in accordance with those values
+- Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ## Levels
 
@@ -31,7 +31,7 @@ This position reports to the [Manager, Infrastructure Security](#manager-infrast
 
 #### Infrastructure Security Engineer (Intermediate) Job Grade
 
-The Infrastructure Security Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Infrastructure Security Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Infrastructure Security Engineer (Intermediate) Responsibilities
 - Be a stable counterpart for the Infrastructure department
@@ -60,7 +60,7 @@ This position reports to the [Manager, Security Incident Response Team](#manager
 
 #### Senior Infrastructure Security Engineer Job Grade
 
-The Senior Infrastructure Security Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Infrastructure Security Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Infrastructure Security Engineer Responsibilities
 - Extends Infrastructure Security Engineer responsibilities, plus;
@@ -87,7 +87,7 @@ This position reports to the [Manager, Security Incident Response Team](#manager
 
 #### Staff Infrastructure Security Engineer Job Grade
 
-The Staff Infrastructure Security Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Infrastructure Security Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Infrastructure Security Engineer Responsibilities
 - Extends Senior Infrastructure Security Engineer responsibilities, plus;
@@ -108,7 +108,7 @@ This position reports to the [Senior Manager, Infrastructure Security](#senior-m
 
 #### Manager,  Infrastructure Security Job Grade
 
-The  Infrastructure Security Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Infrastructure Security Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Infrastructure Security Responsibilities
 - Hire a world class team of security engineers to work on their team
@@ -144,7 +144,7 @@ This role reports to the [Director of Security Operations](/job-families/securit
 
 #### Senior Manager, Infrastructure Security Job Grade
 
-The Security Incident Response Team Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Incident Response Team Senior Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Infrastructure Security Responsibilities
 - Extends Manager, Infrastructure Security responsibilities, plus;
@@ -187,7 +187,7 @@ The Security Logging Team is a specialty extension of the Infrastructure Securit
 More information can be found here [Security Logging Team Job Family](/job-families/security/security-logging/)
 
 ## Performance Indicators
-- Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume).
+- Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](https://about.gitlab.com/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume).
 
 ### Career Ladder
 
@@ -207,10 +207,10 @@ For details on the Security organisation leadership roles, to include the Securi
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with Security Incident Response Team Manager
 - Candidates will then be invited to schedule an interview with a Site Reliability Engineer & a Security Engineer from our Security Incident Response Team
 - Candidates will then be invited to schedule an interview with VP of Security
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

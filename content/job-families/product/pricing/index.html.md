@@ -47,18 +47,18 @@ The Pricing Analyst reports to the [Director of Pricing](/job-families/product/p
 
 #### Pricing Analyst Job Grade
 
-The Pricing Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Pricing Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Pricing Analyst Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule an interview with the Principal Pricing Manager
 - Next, candidates will be invited to schedule a deep dive interview with a member of the Data Team
 - Next, candidates will be invited to schedule an interview with the Director of Pricing
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ### Senior Pricing Analyst
 
@@ -66,7 +66,7 @@ The Senior Pricing Analyst role reports to the [Director of Pricing](/job-famili
 
 #### Senior Pricing Analyst Job Grade
 
-The Senior Pricing Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Pricing Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Pricing Analyst Requirements
 
@@ -98,19 +98,19 @@ The Principal Pricing Manager reports to the [Director of Pricing](/job-families
 
 #### Principal Pricing Manager Job Grade
 
-The Principal Pricing Manager is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Pricing Manager is a [grade 9.5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Pricing Manager Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule an interview with the Director of Pricing
 - Next, candidates will be invited to schedule an interview with a leader from the Sales Organization (VP of Sales Ops, VP of Sales or CRO)
 - Next, candidates will be invited to schedule an interview with a leader from the Marketing Organization (Sr. Director of Strategic Marketing or CMO)
 - Next, candidates will be invited to schedule an interview with the VP of Product
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ### Director of Pricing
 
@@ -140,13 +140,13 @@ The Director of Pricing reports to the [Sr Director of Product Monetization](/jo
 
 #### Director of Pricing Job Grade
 
-The Director of Pricing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of Pricing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director of Pricing Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule an interview with the Sr Director, Product Monetization
 - Next, candidates will be invited to schedule a deep-dive interview with a Principal Pricing Manager
 - Next, candidates will be invited to schedule an interview with the Director of Product, Fulfillment
@@ -154,7 +154,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule an interview with a leader from the Marketing Organization (VP, Product Marketing)
 - Finally, candidates may be invited to schedule an interview with the VP of Product Management
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ## Performance Indicators
 

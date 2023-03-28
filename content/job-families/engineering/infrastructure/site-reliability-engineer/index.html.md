@@ -33,7 +33,7 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 - Have an urge to document all the things so you don't need to learn the same thing twice.
 - Have an enthusiastic, go-for-it attitude. When you see something broken, you can't help but fix it.
 - Have an urge for delivering quickly and effectively, and iterating fast.
-- Share our [values](/handbook/values/), and work in accordance with those values.
+- Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Have experience with Nginx, HAProxy, Docker, Kubernetes, Terraform, or similar technologies
 - Ability to use GitLab
 
@@ -41,9 +41,9 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 
 - Coding infrastructure automation with [Chef](https://gitlab.com/gitlab-cookbooks/), Ansible, Terraform, and GitLab CI/CD
 - Improving our [Prometheus Monitoring](https://gitlab.com/gitlab-cookbooks/gitlab-prometheus) or building new [metrics](https://gitlab.com/gitlab-org/gitlab-exporter)
-- Helping [release managers](/handbook/engineering/#release-managers) deploy and fix new versions of GitLab-EE.
-- Plan, prepare for, and execute the [migration of GitLab.com](/handbook/engineering/infrastructure/production/architecture/#infra-proposed-cloud-native) from virtual machines running on Google Cloud to cloud-native container-based deployments with Kubernetes using Google Kubernetes Engine.
-- Develop a relationship with a [product group](/handbook/product/categories/), define their SLAs, share GitLab.com data on those SLAs and improve their reliability
+- Helping [release managers](https://about.gitlab.com/handbook/engineering/#release-managers) deploy and fix new versions of GitLab-EE.
+- Plan, prepare for, and execute the [migration of GitLab.com](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/#infra-proposed-cloud-native) from virtual machines running on Google Cloud to cloud-native container-based deployments with Kubernetes using Google Kubernetes Engine.
+- Develop a relationship with a [product group](https://about.gitlab.com/handbook/product/categories/), define their SLAs, share GitLab.com data on those SLAs and improve their reliability
 
 # Leveling of Site Reliability Engineering at GitLab
 
@@ -82,7 +82,7 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 
 #### Job Grade
 
-The Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Site Reliability Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Technical
 
@@ -123,7 +123,7 @@ The Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensatio
 
 #### Job Grade
 
-The Senior Site Reliability Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Site Reliability Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Are Site Reliability Engineers who meet the following criteria:
 
@@ -154,7 +154,7 @@ Are Site Reliability Engineers who meet the following criteria:
 ##### Collaboration and Communication:
 
 1. Leads initiatives and problem definition and scoping, design, and planning through epics and blueprints.
-1. Deep domain knowledge and radiation that knowledge through recorded demos, technical presentations, discussions, and [Incident Reviews](/handbook/engineering/infrastructure/incident-review/).
+1. Deep domain knowledge and radiation that knowledge through recorded demos, technical presentations, discussions, and [Incident Reviews](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/).
 1. Perform and run blameless RCAs on incidents and outages aggressively looking for answers that will prevent the incident from ever happening again.
 1. For stable counterpart assignments, maintain awareness and actively influence stage group plans and priorities through participation in stage group meetings and async discussions. Act as a champion for reliability.
 
@@ -168,7 +168,7 @@ Are Site Reliability Engineers who meet the following criteria:
 
 #### Job Grade
 
-The Staff Site Reliability Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Site Reliability Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Are Senior Production SREs who meet the following criteria:
 

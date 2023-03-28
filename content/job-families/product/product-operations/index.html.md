@@ -6,7 +6,7 @@ description: "This job family represents the product operations department."
 
 This job family represents the Product Operations function within the Product Division. It's a specalized function within Product including both individual contributor roles and people managers.
 
-# Responsibilities
+## Responsibilities
 
 - [Operationalize Outcome Drive Products](https://about.gitlab.com/direction/product-operations/#operationalizing-outcome-driven-products)
    - Identify opportunities to automate GitLab Product Manager's responsibilities and related tasks to help drive consistency and efficency across product managemment.
@@ -20,7 +20,7 @@ This job family represents the Product Operations function within the Product Di
    - Support the Product Division by contributing to the continued development of all PMs across each section
    - Propose changes and incorporate best practices and industry knowledge into GitLab's process, and handbook
 
-# Requirements
+## Requirements
 
 - Ability to use GitLab
 - Proficient at all product manager [base requirements](https://about.gitlab.com/job-families/product/product-manager/#base-requirements-across-all-levels)
@@ -29,13 +29,13 @@ This job family represents the Product Operations function within the Product Di
 - Comfortable with fast-pace and rapid iteration
 - Experience with contributing to Product Operations (either formally or informally) at organizations of various sizes
 
-# Levels
+## Levels
 
-## Senior Product Manager, Product Operations
+### Senior Product Manager, Product Operations
 
-### Role
+#### Role
 
-The mission of the GitLab product team is to consistently create products and experiences that customers love and value. To do this consistently, we strive to create a world class product system in which the extended product team can do the best work of their careers. GitLab is seeking a Senior Product Manager to manage the GitLab product development system as a product and evolve it into a world-class system that can scale rapidly with GitLab the company. The Senior Product Manager will be passionate about the product management discipline and understands the benefits of frameworks/processes and how to optimize them in a way that is effective in delivering value while efficient and as lightweight as possible. The Senior Product Manager will thrive at collaboration with product managers and various cross-functional team members as both customers and partners to better GitLab product development processes as well as GitLab's product offering itself with the initiatives they lead, support and implement.  
+The mission of the GitLab product team is to consistently create products and experiences that customers love and value. To do this consistently, we strive to create a world class product system in which the extended product team can do the best work of their careers. GitLab is seeking a Senior Product Manager to manage the GitLab product development system as a product and evolve it into a world-class system that can scale rapidly with GitLab the company. The Senior Product Manager will be passionate about the product management discipline and understands the benefits of frameworks/processes and how to optimize them in a way that is effective in delivering value while efficient and as lightweight as possible. The Senior Product Manager will thrive at collaboration with product managers and various cross-functional team members as both customers and partners to better GitLab product development processes as well as GitLab's product offering itself with the initiatives they lead, support and implement.
 
 ### Responsibilities
 
@@ -49,7 +49,7 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
 - [Build Qualitative & Quantitive Feedback Loops](https://about.gitlab.com/direction/product-operations/#building-qualitative--quantitative-feedback-loops)
    - Help streamline intelligence as a whole between product management and its stable counterparts within GitLab the company through process/frameworks refinements and automation
    - Leverage automation to boost internal and external knowledge about GitLab's key product communications such as:
-     - Updates to product Vision/Strategy, Section Direction and monthly [kick-offs](/handbook/product/product-processes/)
+     - Updates to product Vision/Strategy, Section Direction and monthly [kick-offs](https://about.gitlab.com/handbook/product/product-processes/)
      - Presentation and discoverability of release post and release notes
      - Design and build systems to better share knowledge and align product management and its stable counterparts such as Marketing, Support, Sales and Customer Support
      - Develop tools for collecting and aggregating larger volumes of customer and user feedback from GitLab issues
@@ -59,7 +59,7 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
    - Help research, organize and recommend resources on product management best practices
    - Contribute content and training [Learning & Development for Product Management](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/) to help up-level the skills of the product team
    - Maintain GitLab Learn for Product Management as a GitLab Learn Curator
-   - Constantly improve the [Product Handbook](/handbook/product/) by working collaboratively across product management to update, improve and maintain it
+   - Constantly improve the [Product Handbook](https://about.gitlab.com/handbook/product/) by working collaboratively across product management to update, improve and maintain it
    - Be the DRI of and expert on how to maintain and best leverage GitLab's various templates
 
 ### Requirements
@@ -77,7 +77,7 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
 - Excellent verbal and written communication skills
 - Excellent organizational skills and ability to manage competing priorities
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ### Other Helpful Experience
 
@@ -110,7 +110,7 @@ As the Group Manager, Product Operations, you will be deeply passionate and know
 - Manage and facilitate overal Product team sync meeting design and frequency
 - Support in  maintanance and review of Product team KPIs
 - Own communication of product team frameworks/processes to other departments like Marketing, Support, Sales and Customer Success as needed
-- Support the [creation of external content](/handbook/product/product-processes/#communication#writing-about-features) including blogs, webinars, and demos
+- Support the [creation of external content](https://about.gitlab.com/handbook/product/product-processes/#communication#writing-about-features) including blogs, webinars, and demos
 
 ### Requirements
 
@@ -126,5 +126,5 @@ As the Group Manager, Product Operations, you will be deeply passionate and know
 - Exceptional verbal and written communication skills
 - Exceptional organizational skills and ability to manage competing priorities
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 

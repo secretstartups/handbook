@@ -9,7 +9,7 @@ As the Code Contributor Program Manager, you will be responsible for enabling me
 
 ### Job Grade
 
-The Code Contributor Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Code Contributor Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -31,7 +31,7 @@ The Code Contributor Program Manager is a [grade 6](/handbook/total-rewards/comp
 - Excellent spoken and written English.
 - Familiarity with developer tools, Git, Continuous Integration, Containers, and Kubernetes.
 - Experience in communicating with writers on a range of technical topics is a plus.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
 
 ## Career Ladder

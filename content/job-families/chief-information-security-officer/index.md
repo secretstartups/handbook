@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Chief Information Security Officer"
 ---
 
@@ -27,12 +26,12 @@ The Chief Information Security Officer (CISO) reports to our CEO. The CISO is re
 
 ## Links
 
-- [Security Handbook](/handbook/security/)
-- [Engineering Workflow](/handbook/engineering/workflow/)
+- [Security Handbook](https://about.gitlab.com/handbook/security/)
+- [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/). Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/). Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 - 30 minute screen call with Recruiter
 - 50 minute interview with CEO

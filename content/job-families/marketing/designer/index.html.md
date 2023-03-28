@@ -10,7 +10,7 @@ As a designer for GitLab you would be responsible for creating and maintaining o
 
 ### Job Grade
 
-The Junior Designer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Designer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Assist in the redesign of the [GitLab website](/).
@@ -24,7 +24,7 @@ The Junior Designer is a [grade 5](/handbook/total-rewards/compensation/compensa
 
 ### Job Grade
 
-The Intermediate Designer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Designer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Set the brand of GitLab
@@ -48,7 +48,7 @@ The Intermediate Designer is a [grade 6](/handbook/total-rewards/compensation/co
 - Experience with HTML / CSS is a plus
 - Illustration experience is a plus
 - Comfortable working very collaboratively on projects, as well as independently.
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 
 ## Career Ladder
@@ -57,6 +57,6 @@ The next step in the Design job family is not yet defined at GitLab.
 
 ## Relevant links
 
-- [Engineering Handbook](/handbook/engineering/)
-- [Engineering Workflow](/handbook/engineering/workflow/)
-- [Product Handbook](/handbook/product/)
+- [Engineering Handbook](https://about.gitlab.com/handbook/engineering/)
+- [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
+- [Product Handbook](https://about.gitlab.com/handbook/product/)

@@ -12,7 +12,7 @@ description: "As a member of the security team at GitLab, you will be working to
 
 As a member of the security team at GitLab, you will be working towards raising the bar on security. We will achieve that by working and collaborating with cross-functional teams to provide guidance on security best practices.
 
-The [Security Team](/handbook/security) is responsible for leading and implementing the various initiatives that relate to improving GitLab's security.
+The [Security Team](https://about.gitlab.com/handbook/security) is responsible for leading and implementing the various initiatives that relate to improving GitLab's security.
 
 ## Responsibilities for Security Engineer roles
 
@@ -46,7 +46,7 @@ The [Security Team](/handbook/security) is responsible for leading and implement
 - You are a team player, and enjoy collaborating with cross-functional teams
 - You are a great communicator
 - You employ a flexible and constructive approach when solving problems
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 
 ## Levels of Security Engineer roles
@@ -61,7 +61,7 @@ The [Security Team](/handbook/security) is responsible for leading and implement
 
 ### Job Grade
 
-The Security Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Security Engineer
 
@@ -75,13 +75,13 @@ The Senior Security Engineer role extends the [Intermediate Security Engineer](#
 
 ***
 
-A Senior Security Engineer may decide to pursue the [security engineering management track](/job-families/security/security-leadership/) at this point, should they wish to. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail on the tracks available for Senior Engineers.
+A Senior Security Engineer may decide to pursue the [security engineering management track](/job-families/security/security-leadership/) at this point, should they wish to. See [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/) for more detail on the tracks available for Senior Engineers.
 
 ***
 
 ### Job Grade
 
-The Senior Security Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Security Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Staff Security Engineer
 
@@ -98,7 +98,7 @@ The Staff Security Engineer role extends the [Senior Security Engineer](#senior-
 
 ### Job Grade
 
-The Staff Security Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Security Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Principal Security Engineer
 
@@ -119,7 +119,7 @@ The Principal Security Engineer role extends the [Staff Security Engineer](#staf
 
 ### Job Grade
 
-The Principal Security Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Security Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Distinguished Security Engineer
 
@@ -140,7 +140,7 @@ The Distinguished Security Engineer role extends the [Principal Security Enginee
 
 ### Job Grade
 
-The Distinguished Security Engineer is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Distinguished Security Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Staff+ Initiatives
 
@@ -392,8 +392,8 @@ All interviews are conducted using Zoom video conferencing software. Candidates 
 - 60 Minute Interview with Director of Security or VP of Security, or both
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
+See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.

@@ -3,12 +3,12 @@ layout: job_family_page
 title: "Chief People Officer"
 ---
 
-The GitLab team has grown quickly and plans to continue to grow while maintaining our culture of [remote working](/blog/2015/04/08/the-remote-manifesto/), embracing development, and building scalable people-oriented policies. The Chief People Officer (CPO) is a strategic leader and consultant that oversees the People Success (People Operations, Learning & Development, Diversity, Inclusion & Belonging, Total Rewards, People Business Partners) and Recruiting functions. The CPO is empowered to grow teams, make data-driven decisions, and deliver transparent and people first programs.
+The GitLab team has grown quickly and plans to continue to grow while maintaining our culture of [remote working](https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/), embracing development, and building scalable people-oriented policies. The Chief People Officer (CPO) is a strategic leader and consultant that oversees the People Success (People Operations, Learning & Development, Diversity, Inclusion & Belonging, Total Rewards, People Business Partners) and Recruiting functions. The CPO is empowered to grow teams, make data-driven decisions, and deliver transparent and people first programs.
 
 ## Responsibilities
 
 - Provide strategy and oversight of the administration of our compensation, benefits, and HRIS system
-- Work to refine and improve our global compensation frameworks including the [Global Compensation Calculator](/handbook/total-rewards/compensation/)
+- Work to refine and improve our global compensation frameworks including the [Global Compensation Calculator](https://about.gitlab.com/handbook/total-rewards/compensation/)
 - Advise the executive team on relevant compliance and employment law and introduce best practices to protect the organization
 - Develop and implement effective training programs for GitLab employees and community
 - Harness the existing culture and values when building out internal people-related policies while devising new ways to reinforce and improve upon the culture
@@ -45,7 +45,7 @@ Scaling
 Values
 
 - You'll share our values, work following those values.
-- You'll help reinforce and nurture our [values](/handbook/values/#how-do-we-reinforce-our-values ) internally.
+- You'll help reinforce and nurture our [values](https://about.gitlab.com/handbook/values/#how-do-we-reinforce-our-values ) internally.
 - Dogfooding: Eating our dog food is important to us. You'll demonstrate a willingness to work with git and GitLab while using GitLab workflows within the People Ops team.
 - Collaboration: You'll respond to company criticism quickly, effectively, and visibly. You'll foster and support an inclusive environment within the People team and the wider organization.
 - Results: It's important we do what we promised to each other, customers, users, and investors. You'll demonstrate this in your approach to leadership.
@@ -58,7 +58,7 @@ Values
 All-remote
 
 - We're able to hire team members across the globe. Part of your role will involve discovering approaches that help us hire team members in as many locations around the world as possible.
-- You'll help reinforce our [communication guidelines](/handbook/communication/). As you'll see, our approach to communication is unique and you'll need to be comfortable adapting your own style.  
+- You'll help reinforce our [communication guidelines](https://about.gitlab.com/handbook/communication/). As you'll see, our approach to communication is unique and you'll need to be comfortable adapting your own style.  
 
 Analytical
 
@@ -77,14 +77,14 @@ Other requirements
 
 ## Performance Indicators
 
-- [12 month team member retention](/handbook/people-group/people-group-metrics/#team-member-retention)
-- [12 month voluntary team member turnover](/handbook/people-group/people-group-metrics/#team-member-turnover)
-- [12 month PIP Success Rate](/handbook/people-group/people-group-metrics/#regrettable-attrition)
-- [Discretionary bonus per employee per month](/handbook/incentives/#discretionary-bonuses)
+- [12 month team member retention](https://about.gitlab.com/handbook/people-group/people-group-metrics/#team-member-retention)
+- [12 month voluntary team member turnover](https://about.gitlab.com/handbook/people-group/people-group-metrics/#team-member-turnover)
+- [12 month PIP Success Rate](https://about.gitlab.com/handbook/people-group/people-group-metrics/#regrettable-attrition)
+- [Discretionary bonus per employee per month](https://about.gitlab.com/handbook/incentives/#discretionary-bonuses)
 - [Engagement survey inclusion questions](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
 - [New Hire Location Factor](/#new-hire-location-factor)
-- [Percent of team members over compensation band](/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
-- [Plan vs Actual](/handbook/finance/financial-planning-and-analysis/#plan-vs-actual)
+- [Percent of team members over compensation band](https://about.gitlab.com/handbook/people-group/people-group-metrics/#percent-over-compensation-band)
+- [Plan vs Actual](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#plan-vs-actual)
 - [Women in company](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
 - [Women in leadership](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
 - [Women voluntary attrition](https://about.gitlab.com/company/culture/inclusion/#performance-indicators)
@@ -92,7 +92,7 @@ Other requirements
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-- Qualified candidates will be invited to schedule at least 2 [screening calls](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters or Talent Acquisition Partners.
+- Qualified candidates will be invited to schedule at least 2 [screening calls](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters or Talent Acquisition Partners.
 - Then a 50 minute meeting with the CEO/Co-Founder,
 - Next, a round of 3 separate 50 minute interviews with the VP of Recruiting, the Senior Director, People Operations and the Chief Legal Officer,
 - Next, a 80 minute interview with the CEO/Co-Founder,

@@ -9,7 +9,7 @@ The Director(s) of Legal are responsible for advising clients across GitLab on l
 
 ### Director, Legal Job Grade
 
-The Director, Legal is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Legal is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Director, Legal Responsibilities
 
@@ -36,7 +36,7 @@ The Director, Legal is a [grade 10](/handbook/total-rewards/compensation/compens
 
 ### Senior Director, Legal Job Grade
 
-The Senior Director, Legal is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Legal is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Director, Legal Responsibilities
 
@@ -147,4 +147,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule interviews with directors and/or executives in relevant functional areas
 - Finally, candidates may be required to meet with the CEO.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

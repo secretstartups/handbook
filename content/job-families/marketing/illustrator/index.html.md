@@ -26,7 +26,7 @@ At GitLab, Illustrators collaborate closely with the Brand Design team to elevat
 - Degree in illustration, graphic design, or related field.
 - Strong portfolio showcasing your illustration skills.
 - Comfortable with Git, HTML, CSS, and Markdown to update [about.gitlab.com](https://about.gitlab.com/).
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Able to create animations and motion graphics from your illustrations is a huge plus.
 - Ability to use GitLab
 
@@ -36,7 +36,7 @@ At GitLab, Illustrators collaborate closely with the Brand Design team to elevat
 
 #### Job Grade
 
-The Associate Illustrator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Illustrator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -53,7 +53,7 @@ The Associate Illustrator is a [grade 5](/handbook/total-rewards/compensation/co
 
 #### Job Grade
 
-The Intermediate Illustrator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Illustrator is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -70,7 +70,7 @@ The Intermediate Illustrator is a [grade 6](/handbook/total-rewards/compensation
 
 #### Job Grade
 
-The Senior Illustrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Illustrator is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 

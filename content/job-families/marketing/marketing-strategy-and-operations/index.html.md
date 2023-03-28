@@ -9,7 +9,7 @@ title: "Marketing Strategy and Platforms"
 
 #### Sr. Director, Marketing Strategy and Platforms Job Grade
 
-The Director, Marketing Strategy is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Marketing Strategy is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sr. Director, Marketing Strategy and Platforms Responsibilities
 
@@ -36,7 +36,7 @@ The Director, Marketing Strategy is a [grade 11](/handbook/total-rewards/compens
 - Experience with marketing attribution models.
 - Experience in analyzing, experimenting and driving results in marketing websites.
 - Ability to think strategically, but also have exceptional attention to detail to drive program management and execution
-- Familiarity with our [tech stack](/handbook/marketing/marketing-operations/#-tech-stack) is a strong plus
+- Familiarity with our [tech stack](https://about.gitlab.com/handbook/marketing/marketing-operations/#-tech-stack) is a strong plus
 - Experience with SQL, Tableau, and/or similar analytical packages a plus
 - Ability to conduct sophisticated and creative analysis, yet translate those results to easily digestible messages, communications, and presentations
 - Interest in GitLab, and open source software
@@ -48,7 +48,7 @@ The Director, Marketing Strategy is a [grade 11](/handbook/total-rewards/compens
 
 #### VP Marketing Strategy and Platforms Job Grade
 
-The VP, Marketing Strategy is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)).
+The VP, Marketing Strategy is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)).
 
 #### VP, Marketing Strategy and Platforms Responsibilities
 
@@ -65,9 +65,9 @@ Requirements
 
 ## Performance Indicators
 
-- [Marketing efficiency ratio](/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
+- [Marketing efficiency ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
 - INQ to SAO conversion rate
-- [Total number of SAOs by month](/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
+- [Total number of SAOs by month](https://about.gitlab.com/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
 
 ## Career Ladder
 
@@ -84,4 +84,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to meet with a panel of their future direct reports Director of Marketing Strategy, Director of Marketing Operations and Head of Digital Experience
 - Finally, candidates will meet either Chief People Officer or Chief Revenue Officer
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

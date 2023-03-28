@@ -7,7 +7,7 @@ The Engineering Fellow role is the individual contributor [equivalent](https://a
 
 ## Job Grade
 
-The Engineering Fellow is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Engineering Fellow is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -23,7 +23,7 @@ The Engineering Fellow is a [grade 12](/handbook/total-rewards/compensation/comp
 - Share expertise across the entire organization.
 - Ship extremely high-impact features and improvements with minimal guidance and support from other members of the organization.
 - Own the Architecture Evolution Workflow, including the Blueprint Review meeting.
-- Manage the [Engineering Fellow Shadow Program](/handbook/engineering/fellow/shadow/).
+- Manage the [Engineering Fellow Shadow Program](https://about.gitlab.com/handbook/engineering/fellow/shadow/).
 - Help Engineering avoid the architecture ["ivory tower"](https://en.wikipedia.org/wiki/Ivory_tower).
 
 ## Specializations
@@ -39,7 +39,7 @@ The Engineering Fellow is a [grade 12](/handbook/total-rewards/compensation/comp
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 60 minute first interview with a VP of Development
 - Next, candidates will be invited to schedule a 45 minute second interview with an Engineering Fellow
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team
@@ -48,4 +48,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

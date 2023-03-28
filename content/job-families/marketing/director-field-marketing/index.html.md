@@ -9,7 +9,7 @@ A qualified Director, Field Marketing has strong understanding of sales-focused 
 
 ## Job Grade
 
-The Director, Field Marketing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Field Marketing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -38,7 +38,7 @@ The Director, Field Marketing is a [grade 10](/handbook/total-rewards/compensati
 - Strong communication skills without a fear of over communication. This role will require effective collaboration and coordination across internal and external stakeholders.
 - Ability to empathize with the needs and experiences of IT leaders, IT ops practitioners, and developers.
 - Extremely detail-oriented and organized, and able to meet deadlines.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - A passion and strong understanding of the developer tools, IT operations tools, and/or IT security markets.
 - Strong understanding of marketing to financial services / fintech, federal agencies, healthcare, automotive, tech, and energy industry verticals.
 - Experience with supporting both direct sales and channel sales teams.
@@ -54,10 +54,10 @@ The next step in the Director, Field Marketing job family is not yet defined at 
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with the Senior Director of Revenue Marketing.
 - Candidates will then be invited to schedule interviews with the Senior Director of Corporate Marketing and the Manager of Marketing Programs.
 - Finally, our CMO may conduct a final interview.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

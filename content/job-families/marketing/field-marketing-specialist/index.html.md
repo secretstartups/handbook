@@ -39,7 +39,7 @@ APAC
 
 ### Job Grade
 
-The Field Marketing Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Field Marketing Coordinator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -62,10 +62,10 @@ The Field Marketing Coordinator is a [grade 5](/handbook/total-rewards/compensat
 
 ### Performance Indicators
 - Responsible for assisting and ensuring the supporting Field Marketing Managers are hitting the following SLAs:
-   - [Webcasts](/handbook/marketing/virtual-events/webcasts/)
-   - [Events](/handbook/marketing/virtual-events/)
-   - [External non-GitLab hosted virtual events](/handbook/marketing/virtual-events/external-virtual-events/)
-   - [Direct mailers](/handbook/marketing/demand-generation/campaigns/direct-mail/)
+   - [Webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/)
+   - [Events](https://about.gitlab.com/handbook/marketing/virtual-events/)
+   - [External non-GitLab hosted virtual events](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/)
+   - [Direct mailers](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/direct-mail/)
    - Completing all FMC/FMS TODOs in our [issues templates](https://gitlab.com/gitlab-com/marketing/field-marketing/-/tree/master/.gitlab/issue_templates) in line with the due dates listed as a result of the workback schedules
 
 ## Field Marketing Specialist
@@ -74,7 +74,7 @@ As Field Marketing Coordinators progress throughout their career at GitLab, or w
 
 ### Job Grade
 
-The Field Marketing Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Field Marketing Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -102,7 +102,7 @@ This role includes all of the performance indicators of the previous level plus:
 
 ### Job Grade
 
-The Senior Field Marketing Specialist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Field Marketing Specialist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -149,4 +149,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our VP of Revenue Marketing may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

@@ -4,7 +4,7 @@ title: "Finance Systems Administration"
 ---
 The Finance Systems Administration job family is responsible for the operational ownership of the software applications in the finance and accounting department.
 
-# Finance System Administrator
+## Finance System Administrator
 
 The Enterprise Applications team provides development and support to the Financial Applications that support GitLabs Core Business processes of Quote To Cash, Procure to Pay and Record to Report.   The purpose of Enterprise Applications are to automate, enforce and make efficient these aforementioned processes.  We accomplish these goals by partnering deeply with our business partners to understand their needs and bring that to life.
 
@@ -12,13 +12,13 @@ The Finance Systems Administration job family is responsible for the operational
 
 This role reports to the [Manager, Financial Systems Administrator](#manager-financial-systems-administrator).
 
-## Responsibilities
+### Responsibilities
 
 - Technical Delivery: Ability to administer and configure finance systems applications to support GitLab business processes while adhering to SOX compliant change management.
 - Process Improvement: Accomplish improvements to finance processes that you support. Understanding the impacts of changes recommended and how to translate them into technical requirements.  Document updated processes in the company handbook.
 - Business Acumen: Understanding of core finance business processes of quote to cash, record to report, and procure to pay.  Understanding of accounting principles and GitLab finance related policies. Motivation for continuous learning in the area.
 - Business Engagement: Engage with your team and  stakeholders regarding their business strategy and objectives for automating and optimizing financial processes.  Meet regularly with business partners to ensure that the financial applications are functioning as designed and supporting their needs.
-- Leadership:  Ability to manage your work  to deliver on agreed to dates and deadlines and communicate any risks or issues to those.  
+- Leadership:  Ability to manage your work  to deliver on agreed to dates and deadlines and communicate any risks or issues to those.
 - Compliance: Supports data, security, and legal governance processes and adherence of guidelines between internal business units and systems in order to ensure efficient and compliance of technical delivery. .
 - Business Partnership: Support Senior Financial Systems administrators  and Managers regarding business strategy, go to market, functional strategy, spending initiatives, ad hoc financial analysis and monthly, quarterly and annual planning. Maintain robust relationships with select cross-functional partners.
 - Project Management: Run small sized projects that improve our ability to make better data focused insights or make the company more efficient.
@@ -26,7 +26,7 @@ This role reports to the [Manager, Financial Systems Administrator](#manager-fin
 - Autonomy: Accomplish goals with moderate supervision from senior members of team.
 - Share our values, and work in accordance with those values.
 
-## Requirements
+### Requirements
 
 - Ability to use GitLab
 - 2-3 years of experience in a systems administrator or business role ideally with a finance focus.
@@ -47,7 +47,7 @@ This role reports to the [Manager, Financial Systems Administrator](#manager-fin
 
 #### Finance Systems Administrator (Intermediate) Job Grade
 
-The Finance Systems Administrator (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Finance Systems Administrator (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Finance Systems Administrator (Intermediate) Responsibilities
 
@@ -63,7 +63,7 @@ The Senior Financial Systems Administrator reports directly to the [Manager, Fin
 
 #### Senior Finance Systems Administrator Job Grade
 
-The Senior Finance Systems Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Finance Systems Administrator is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Finance Systems Administrator Responsibilities
 
@@ -88,14 +88,14 @@ The Manager, Finance Systems Administrator reports to the [Director, Enterprise 
 
 #### Manager, Finance Systems Administrator Job Grade
 
-The Manager, Finance Systems Administrator is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Finance Systems Administrator is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Finance Systems Administrator Responsibilities
 
 - Extends that of the Senior Financial Systems Administrators responsibilities.
 - Business Partnership: Influences outcomes in cross-functional settings often.
 - Owns relationships with partners while providing advice and guidance.
-- Team Leadership: Can manage a team to deliver results by dividing and balancing work between employees ensuring that results meet Enterprise Applications standard.  
+- Team Leadership: Can manage a team to deliver results by dividing and balancing work between employees ensuring that results meet Enterprise Applications standard.
 - Project Management: Run large complex projects that improve our ability to make better data driven insights or makes the company more efficient.
 - Communication: Target audience basic influence to Directors, Sr Directors, Functional VPs and  CFO.
 - Mentorship: As a senior individual contributor, you mentor other team members in technical delivery, process analysis and improvement.
@@ -126,4 +126,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Third round interview is with the Senior Director of Enterprise Applications
 - At final stage candidates will meet with the Principal Accounting Officer and the VP of Business Technology.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

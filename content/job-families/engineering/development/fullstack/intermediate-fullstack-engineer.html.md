@@ -7,7 +7,7 @@ Fullstack Engineers work across the backend and frontend parts of our product. T
 
 ## Job Grade
 
-The Intermediate Fullstack Engineer is a [grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 6 job.
+The Intermediate Fullstack Engineer is a [grade](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) 6 job.
 
 ## Responsibilities
 
@@ -19,7 +19,7 @@ The Intermediate Fullstack Engineer is a [grade](/handbook/total-rewards/compens
 - Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
 - Represent GitLab and its values in public communication around specific projects and community contributions.
 - Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
+- Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
 
 ## Requirements
 
@@ -67,7 +67,7 @@ The Intermediate Fullstack Engineer is a [grade](/handbook/total-rewards/compens
 
 ### Growth
 
-The [Growth sub-department](/handbook/engineering/development/growth/) analyzes the entire customer journey from the acquisition of a customer, to the flow across multiple GitLab features, and even reactivation of lost users. They work in small groups with a product manager, product designer, and a data analyst to scale GitLab usage by connecting users to the existing value that GitLab already delivers.
+The [Growth sub-department](https://about.gitlab.com/handbook/engineering/development/growth/) analyzes the entire customer journey from the acquisition of a customer, to the flow across multiple GitLab features, and even reactivation of lost users. They work in small groups with a product manager, product designer, and a data analyst to scale GitLab usage by connecting users to the existing value that GitLab already delivers.
 
 #### Growth Requirements
 
@@ -75,7 +75,7 @@ The [Growth sub-department](/handbook/engineering/development/growth/) analyzes 
 
 ### Govern
 
-The [Govern sub-department](/handbook/engineering/development/sec/govern/) contributes to development in the [Sec](/handbook/product/categories/#sec-section) section.
+The [Govern sub-department](https://about.gitlab.com/handbook/engineering/development/sec/govern/) contributes to development in the [Sec](https://about.gitlab.com/handbook/product/categories/#sec-section) section.
 
 #### Govern Requirements
 
@@ -86,15 +86,15 @@ The [Govern sub-department](/handbook/engineering/development/sec/govern/) contr
 
 ## Performance Indicators
 
-- [Backend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
-- [Frontend Unit Test Coverage](/handbook/engineering/development/performance-indicators/#frontend-unit-test-coverage)
-- [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
-- [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
+- [Backend Unit Test Coverage](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
+- [Frontend Unit Test Coverage](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#frontend-unit-test-coverage)
+- [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+- [Open MR Age (OMA)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 {Insert hiring process steps here.}
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

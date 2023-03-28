@@ -26,7 +26,7 @@ Creative Operations helps organize and evolve our brand creative processes, syst
 - Engage in constructive design critiques.
 - Able to work independently, prioritize accordingly, and iterate quickly.
 - Strong communication skills without a fear of over communication.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
 
 ## Individual Contributor Levels
@@ -38,7 +38,7 @@ The Senior Creative Operations Manager reports to the Director, Brand.
 
 #### Job Grade
 
-The Senior Creative Operations Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Creative Operations Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 

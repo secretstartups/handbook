@@ -13,7 +13,7 @@ Unless otherwise specified, all Distinguished Engineer roles at GitLab share the
 
 ## Job Grade
 
-The Distinguished Engineer is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Distinguished Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Requirements
 
@@ -72,7 +72,7 @@ The Distinguished Engineer is a [grade 10](/handbook/total-rewards/compensation/
 
 ## Specialties
 
-Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is at GitLab here.
+Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab here.
 
 #### Ops and Enablement
 
@@ -120,4 +120,4 @@ Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is a
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.

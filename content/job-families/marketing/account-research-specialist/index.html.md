@@ -15,7 +15,7 @@ title: "Account Research Specialist"
 - Previous sales development experience
 - A understanding of B2B software sales, open source software, and the developer product space
 - Passionate about technology and strong desire to learn
-- You share our [values](/handbook/values/)
+- You share our [values](https://about.gitlab.com/handbook/values/)
 - Exceptional written and verbal English communication skills
 - Ability to use GitLab
 
@@ -31,4 +31,4 @@ Candidates for this position can expect the hiring process to follow the order b
 Finally, candidates may interview with our CEO
 - Successful candidates will subsequently be made an offer
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

@@ -46,9 +46,9 @@ The Sr. Director, IT Operations is a [level 11](https://about.gitlab.com/handboo
 
 ## Performance Indicators
 
-1. [New Hire Location Factor < 0.69](/handbook/business-technology/metrics/#new-hire-location-factor--069)
-1. [Average Delivery Time of Laptop Machines < 21 days](/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
-1. [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
+1. [New Hire Location Factor < 0.69](https://about.gitlab.com/handbook/business-technology/metrics/#new-hire-location-factor--069)
+1. [Average Delivery Time of Laptop Machines < 21 days](https://about.gitlab.com/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
+1. [Cycle Time for IT Support Issue Resolution](https://about.gitlab.com/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
 
 ## Career Ladder
 
@@ -64,5 +64,5 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Interview with the CFO
 
 Please note that a candidate may declined from the position at any stage of the process.
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 

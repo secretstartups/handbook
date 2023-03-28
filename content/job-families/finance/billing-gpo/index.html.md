@@ -15,7 +15,7 @@ The Billing Operations Analyst, GPO will report to the Manager, Billing Operatio
 
 #### Billing Operations Analyst, GPO Job Grade
 
-The Billing Operations Analyst, GPO is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Billing Operations Analyst, GPO is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Billing Operations Analyst, GPO Responsibilities
 
@@ -45,7 +45,7 @@ The Senior Billing Operations Analyst, GPO will report to the Manager, Billing O
 
 #### Senior Billing Operations Analyst, GPO Job Grade
 
-The Senior Billing Operations Analyst, GPO is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Billing Operations Analyst, GPO is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Billing Operations Analyst, GPO Responsibilities
 
@@ -79,7 +79,7 @@ The Lead Billing Operations Analyst, GPO will report to the Manager, Billing Ope
 
 #### Lead Billing Operations Analyst, GPO Job Grade
 
-The Lead Billing Operations Analyst, GPO is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead Billing Operations Analyst, GPO is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Lead Billing Operations Analyst, GPO Responsibilities
 
@@ -109,7 +109,7 @@ The Manager, Billing Operations GPO will report to the Senior Manager, Billing O
 
 #### Manager, Billing Operations GPO Job Grade
 
-The Manager, Billing Operations GPO is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Billing Operations GPO is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Billing Operations GPO Responsibilities
 
@@ -148,7 +148,7 @@ The Senior Manager, Billing Operations GPO will report to the Director, Billing 
 
 #### Senior Manager, Billing Operations GPO Job Grade
 
-The Lead Billing Operations Analyst, GPO is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead Billing Operations Analyst, GPO is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Billing Operations GPO Responsibilities
 

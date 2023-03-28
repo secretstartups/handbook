@@ -62,7 +62,7 @@ The responsibilities include both directed work initiated by the CRO as well as 
 - Excellent organization and time management skills; ability to prioritize tasks across multiple projects
 - Problem solver, analytical and organized thinker
 - Proven track record of effectively interacting with senior stakeholders on cross-functional projects.  
-- You have [short toes](/handbook/values/#short-toes) and an aptitude for working well with a wide range of people.
+- You have [short toes](https://about.gitlab.com/handbook/values/#short-toes) and an aptitude for working well with a wide range of people.
 - “Calm under pressure” demeanor
 - Bachelor's Degree in Business Administration, Finance, or a related discipline or prior work experience in one or more of these disciplines
 - Some travel will be required: Ability to travel to support the CRO, as needed
@@ -72,7 +72,7 @@ The responsibilities include both directed work initiated by the CRO as well as 
 
 #### Job Grade
 
-The Chief of Staff to the CRO is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Chief of Staff to the CRO is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 
 ## Performance Indicators
@@ -96,7 +96,7 @@ There is no set career path for a Chief of Staff. As such, the role is often vie
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50 minute interview with the CRO
 - Then, candidates will be invited to schedule a 50 minute interview with the VP, Field Operations
 - Next, candidates will be invited to schedule a 50 minute interview with the VP, Enterprise Sales and a 50 minute interview with the VP, Global Channels
@@ -106,6 +106,6 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Majority of the interviews and screening calls will be conducted via a video call. See more details about our interview process here.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
 
 

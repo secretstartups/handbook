@@ -10,7 +10,7 @@ The GitLab Candidate Experience Specialists work to create positive experiences 
 
 ### Job Grade
 
-The Candidate Experience Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Candidate Experience Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -40,7 +40,7 @@ The Candidate Experience Specialist is a [grade 5](/handbook/total-rewards/compe
 - Prior experience using an applicant tracking system, Greenhouse experience is a plus
 - Ability to recognize and appropriately handle highly sensitive and confidential information
 - Experience working remotely is a plus
-- Share our [values](/handbook/values/) and work in accordance with those values
+- Share our [values](https://about.gitlab.com/handbook/values/) and work in accordance with those values
 - Ability to use GitLab
 
 ## Senior Candidate Experience Specialist
@@ -49,7 +49,7 @@ Senior Candidate Experience Specialist shares the same requirements and responsi
 
 ### Job Grade
 
-The Senior Candidate Experience Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Candidate Experience Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -76,7 +76,7 @@ The Associate Manager, Candidate Experience has deep experience in assessing org
 
 ### Job Grade
 
-The Associate Manager, Candidate Experience is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Manager, Candidate Experience is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

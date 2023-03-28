@@ -207,7 +207,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to a 30 minute interview with the Senior Director, Enterprise Applications
 - Finally, our Vice President, People Operations, Technology, and Analytics may choose to conduct a final interview
 
-As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
 
 ## People Analytics
 
@@ -313,4 +313,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a 30 minute interview with our Vice President, Talent Acquisition
 - Finally, our Vice President, People Operations, Technology, and Analytics may choose to conduct a final interview
 
-As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).

@@ -9,7 +9,7 @@ The Executive Recruiter reports to the Director, Executive Search, and is respon
 
 ### Job Grade
 
-The Executive Recruiter is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Executive Recruiter is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -36,7 +36,7 @@ The Executive Recruiter is a [grade 8](/handbook/total-rewards/compensation/comp
 - Ability to build global relationships with managers and colleagues across multiple disciplines and timezones
 - Outstanding written and verbal communication skills across all levels
 - Degree in business, marketing, HR or related field from an accredited institution preferred
-- Share our [values](/handbook/values/), and work in accordance with those values.
+- Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
 
 ## Performance Indicators

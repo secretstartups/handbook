@@ -7,7 +7,7 @@ The Manager of Marketing Programs for GitLab should have a background and hands-
 
 ### Job Grade
 
-The Manager, Marketing Programs is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Marketing Programs is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Develop and execute high-impact, integrated B2B demand generation programs to achieve revenue and pipeline goals.
@@ -44,10 +44,10 @@ Candidates for this position can expect the hiring process to follow the order b
   1. What would differentiate you and make you a great marketing program manager for GitLab?
   1. What is your knowledge of the space that GitLab is in? (e.g. industry trends).
   1. Generally, how would you describe the communication preferences of developers and technical IT management?
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a series of 45 minute interviews with team members Digital Marketing, Marketing Programs, Marketing Ops, and Revenue Marketing.
 - Candidates will then be invited to schedule 45 minute interviews with our Senior Director of Revenue Marketing and possibly our CMO.
 - Finally, our CEO may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

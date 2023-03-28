@@ -25,7 +25,7 @@ The Internal Auditor reports to the Senior Internal Audit Manager.
 
 #### Job Grade
 
-The Internal Auditor is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Internal Auditor is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -74,7 +74,7 @@ The Senior Internal Auditor reports to the Senior Internal Audit Manager.
 
 #### Job Grade
 
-The Senior Internal Auditor is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Internal Auditor is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -114,10 +114,10 @@ The Senior Internal Auditor is a [grade 7](/handbook/total-rewards/compensation/
 
 #### Performance Indicators
 
-- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
 
 #### Career Ladder
 
@@ -143,7 +143,7 @@ The Senior SOX Compliance Anaylst reports to the [Senior Internal Audit Manager]
 
 #### Job Grade
 
-The Senior SOX Compliance Anaylst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior SOX Compliance Anaylst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -172,10 +172,10 @@ The Senior SOX Compliance Anaylst is a [grade 7](/handbook/total-rewards/compens
 
 #### Performance Indicators
 
-- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
 
 #### Career Ladder
 
@@ -198,7 +198,7 @@ The Internal Audit and SOX Manager is responsible for preparing and implementing
 
 #### Job Grade
 
-The Internal Audit and SOX Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Internal Audit and SOX Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Market Justification: This individual will own the program management of Internal Audit and SOX programs. In the market, this type of role is equivalent to a manager level due to the level of management and influence over strategy and execution of large programs with significant impact. Based on market data there are over 100 companies that have this level with an average of two to three incumbents in the role.
 
@@ -239,10 +239,10 @@ Market Justification: This individual will own the program management of Interna
 
 #### Performance Indicators
 
-- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
 
 
 #### Hiring Process
@@ -264,7 +264,7 @@ The Manager, Internal Audit and SOX is responsible for managing the Internal Aud
 
 #### Job Grade
 
-The Manager, Internal Audit is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Internal Audit is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -300,10 +300,10 @@ The Manager, Internal Audit is a [grade 8](/handbook/total-rewards/compensation/
 
 #### Performance Indicators
 
-- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
 
 #### Career Ladder
 
@@ -317,7 +317,7 @@ The Senior Manager, Internal Audit reports to the [VP, Internal Audit](#Vice Pre
 
 #### Job Grade
 
-The Senior Manager, Internal Audit is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Internal Audit is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -371,7 +371,7 @@ This position may have supervisory responsibilities in the future and will be re
 
 #### Job Grade
 
-The Senior Audit Manager, IT and Security is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Audit Manager, IT and Security is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -426,11 +426,11 @@ Identifies control issues and findings timely, and ensures findings are based on
 
 #### Performance Indicators
 
-- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
-- [New Hire Location Factor < 0.69](/handbook/business-technology/metrics/#new-hire-location-factor--069)
+- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [New Hire Location Factor < 0.69](https://about.gitlab.com/handbook/business-technology/metrics/#new-hire-location-factor--069)
 - Completing tasks and audits timely and efficiently
 - Utilizing Best Practices related to audit findings and recommendations.
 
@@ -457,7 +457,7 @@ The Director, Internal Audit reports to the Vice-President, Internal Audit. This
 
 #### Job Grade
 
-The Director, Internal Audit is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Internal Audit is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -495,11 +495,11 @@ The Director, Internal Audit is a [grade 10](/handbook/total-rewards/compensatio
 
 #### Performance Indicators
 
-- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
-- [New Hire Location Factor < 0.69](/handbook/business-technology/metrics/#new-hire-location-factor--069)
+- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [New Hire Location Factor < 0.69](https://about.gitlab.com/handbook/business-technology/metrics/#new-hire-location-factor--069)
 - Completing tasks and audits timely and efficiently
 - Utilizing Best Practices related to audit findings and recommendations.
 - Approval ratings based on surveys above 80% in the first year, moving to 90% in subsequent years.
@@ -518,7 +518,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates will interview with Chairman of the Audit Committee.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
 
 ## Vice President, Internal Audit
 
@@ -527,7 +527,7 @@ The ongoing testing and control review, including the ERM environment will be co
 
 ### Job Grade
 
-The Vice President, Internal Audit is a [grade #12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President, Internal Audit is a [grade #12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 - Overall responsibility for the Yearly Internal Audit Plan approved by the Audit Committee and quarterly updates and reporting package to the Audit Committee.
@@ -582,7 +582,7 @@ The next step in the Vice President Internal Audit job family is to move to a hi
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our PAO
 - Next, candidates will be invited to schedule a 45 minute interview with our CFO.
 - Next, candidates will be invited to schedule a 45 minute interview with our CLO.
@@ -590,5 +590,5 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates will be invited to interview with the Chairman of the Audit Committee.
 Successful candidates will subsequently be made an offer via phone and email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 

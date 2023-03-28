@@ -11,7 +11,7 @@ The Accounts Receivable Associate reports to the Manager, Accounts Receivable or
 
 #### Accounts Receivable Associate Job Grade
 
-The Accounts Receivable Associate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Accounts Receivable Associate is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Accounts Receivable Associate Responsibilities
 
@@ -43,7 +43,7 @@ The Accounts Receivable Analyst reports to the Manager, Accounts Receivable or a
 
 #### Accounts Receivable AnalystJob Grade
 
-The Accounts Receivable Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Accounts Receivable Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Accounts Receivable Analyst Responsibilities
 
@@ -80,7 +80,7 @@ The Senior Accounts Receivable Analyst reports to the Manager, Accounts Receivab
 
 #### Senior Accounts Receivable Analyst Job Grade
 
-The Senior Accounts Receivable Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Accounts Receivable Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Accounts Receivable Analyst Responsibilities
 
@@ -121,7 +121,7 @@ The Lead Accounts Receivable Analyst reports to the Manager, Accounts Receivable
 
 #### Lead Accounts Receivable Analyst Job Grade
 
-The Lead Accounts Receivable Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Lead Accounts Receivable Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Lead Accounts Receivable Analyst Responsibilities
 
@@ -156,7 +156,7 @@ The Manager, Accounts Receivable reports to the Director, Billing & Collections 
 
 #### Manager, Accounts Receivable Job Grade
 
-The Manager, Accounts Receivable is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Manager, Accounts Receivable is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Manager, Accounts Receivable Responsibilities
 
@@ -209,4 +209,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Then, candidates will be invited to schedule a 45 minute interviews with the Hiring Manager and a 30 minute interview with a Peer
 - Finally, candidates will be invited to a 45 minute interview with a member of the Executive team.
 
-See more details about our interview process [here](/handbook/hiring/interviewing/).
+See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).

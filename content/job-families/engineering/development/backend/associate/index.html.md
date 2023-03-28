@@ -30,9 +30,9 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 - Positive and solution-oriented mindset
 - Effective communication skills: [Regularly achieve consensus with peers](https://about.gitlab.com/handbook/values/#collaboration), and clear status updates
 - An inclination towards communication, inclusion, and visibility
-- [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills.
+- [Self-motivated and self-managing](https://about.gitlab.com/handbook/values/#efficiency), with strong organizational skills.
 - Ability to work closely with other parts of the organization
-- Share [our values](/handbook/values/), and work in accordance with those values
+- Share [our values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Ability to thrive in a fully remote organization
 - Ability to use GitLab
 
@@ -76,21 +76,21 @@ as well as some level of understanding of Ruby and Ruby on Rails.
 - [Backend Engineering Manager](https://about.gitlab.com/job-families/engineering/backend-engineer/#backend-engineering-manager)
 
 
-Read more about [levels](/handbook/hiring/vacancies/#definitions) at GitLab here.
+Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
 
 ## Job Grade
 
-The Associate Backend Engineer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Backend Engineer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 - Selected candidates will be invited to complete a short written assessment.
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 90 minute technical interview with either a Backend Engineer or a Backend Engineering Manager
 - Next, candidates will be invited to schedule a 45 minute behavioral interview with an Engineering Manager
 - Candidates will then be invited to schedule a 60 minute interview with a Senior Manager or Director of Engineering
 - Successful candidates will subsequently be made an offer.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

@@ -46,7 +46,7 @@ They work closely with GitLab’s Data team to enable new data capabilities that
 
 #### Engineering Analyst Job Grade
 
-The Engineering Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Engineering Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Engineering Analyst Responsibilities
 
@@ -65,7 +65,7 @@ The Engineering Analyst is a [grade 6](/handbook/total-rewards/compensation/comp
 
 #### Senior Engineering Analyst Job Grade
 
-The Senior Engineering Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Engineering Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Engineering Analyst Responsibilities
 
@@ -89,7 +89,7 @@ The Senior Engineering Analyst role extends the [Engineering Analyst](#engineeri
 
 #### Staff Engineering Analyst Job Grade
 
-The Staff Engineering Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Engineering Analyst is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Engineering Analyst Responsibilities
 
@@ -160,15 +160,15 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 - Selected candidates will be invited to fill out a short questionnaire.
-- Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
+- Next, candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the hiring manager.
 - Next, candidates will be invited to schedule a second technical interview with an Engineering Analyst.
 - Next, candidates will be invited to schedule a third interview with am additional member of the Engineering Analytics Team.
 - Next, candidates will be invited to schedule a forth interview with an additional members of the GitLab Data Team.
 - Finally, candidates may be asked to interview with the VP of Quality.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.

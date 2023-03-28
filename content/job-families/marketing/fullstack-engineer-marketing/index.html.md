@@ -3,7 +3,7 @@ layout: job_family_page
 title: Fullstack Engineer - Marketing
 ---
 
-Fullstack Engineers on the Marketing team work on our marketing site: about.GitLab.com and gitlab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](/handbook/marketing/digital-experience/), and report to a [Engineering Manager, Digital Experience](/job-families/marketing/fullstack-engineer-marketing/#manager-engineering).
+Fullstack Engineers on the Marketing team work on our marketing site: about.GitLab.com and gitlab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/), and report to a [Engineering Manager, Digital Experience](/job-families/marketing/fullstack-engineer-marketing/#manager-engineering).
 
 ## Responsibilities
 - Work with the Marketing Strategy and Platforms team and other stakeholders (Content, DemandGen, Brand, etc.) to iterate on new features and improvements to GitLab's digital marketing platform.
@@ -21,10 +21,10 @@ Fullstack Engineers on the Marketing team work on our marketing site: about.GitL
 - Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems.
 - Experience using design software to collaborate with designers and create pixel perfect web pages (eg. Figma, Sketch).
 - Experience with Git in a professional/workplace environment, ideally using the GitLab product as a user or contributor.
-- The ability to work in an agile, [iterative](/handbook/values/#iteration) development process and embrace feedback from many perspectives.
-- Proficiency in the English language, with the capacity to communicate complex technical problems, provide clear status updates, and [achieve consensus with peers](/handbook/values/#collaboration).
-- [Self-motivated and self-managing](/handbook/values/#efficiency), with great organizational skills and a positive, solution-oriented mindset.
-- An interest in [our values](/handbook/values/), and working in accordance with those values.
+- The ability to work in an agile, [iterative](https://about.gitlab.com/handbook/values/#iteration) development process and embrace feedback from many perspectives.
+- Proficiency in the English language, with the capacity to communicate complex technical problems, provide clear status updates, and [achieve consensus with peers](https://about.gitlab.com/handbook/values/#collaboration).
+- [Self-motivated and self-managing](https://about.gitlab.com/handbook/values/#efficiency), with great organizational skills and a positive, solution-oriented mindset.
+- An interest in [our values](https://about.gitlab.com/handbook/values/), and working in accordance with those values.
 - Prefer experience with JAMstack, Ruby, and Middleman (and/or other static site generators).
 - Prefer SaaS Product company experience.
 - Prefer experience working with a global or otherwise multicultural team.
@@ -38,7 +38,7 @@ The Fullstack Engineer (Intermediate) reports to a [Engineering Manager, Digital
 
 #### Fullstack Engineer (Intermediate) Job Grade
 
-The Fullstack Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Fullstack Engineer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Fullstack Engineer (Intermediate) Responsibilities
 
@@ -70,7 +70,7 @@ The Senior Fullstack Engineer reports to a [Engineering Manager, Digital Experie
 
 #### Senior Fullstack Engineer Job Grade
 
-The Senior Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Fullstack Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Fullstack Engineer Responsibilities
 
@@ -98,7 +98,7 @@ The Manager, Engineering reports the [Director, Digital Experience](/job-familie
 
 #### Manager, Engineering Job Grade
 
-The Manager, Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
 
 #### Manager, Engineering Responsibilities
 - Seek to build out a great team
@@ -119,15 +119,15 @@ The Manager, Engineering is a [grade 8](/handbook/total-rewards/compensation/com
 - You have an expert comprehension of core web and browser concepts (eg. how does JavaScript handle asynchronous code)
 - You have in-depth experience with CSS, HTML, JavaScript, and Modern Web Development
 - You have excellent written and verbal communication skills
-- Our [values](/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you
+- Our [values](https://about.gitlab.com/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you
 - Ability to use GitLab
 
 ## Performance Indicators
 
 ## Performance Indicators
-- [Contributing to the success of Digital Experience's Quarterly Initiatives](/handbook/marketing/digital-experience/#okrs)
-- [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/digital-experience/#iteration-process)
-- [Successfully completing bi-weekly Sprint tasks](/handbook/marketing/digital-experience/#sprint-cycle)
+- [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
+- [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
+- [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)
 
 ## Career Ladder
 
@@ -137,11 +137,11 @@ The next step in the Website Full Stack Development job family is not yet define
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Select candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 30 minute interview with our Director, Digital Experience.
 - Next, candidates will be invited to schedule a 30 minute technical interview with a Senior Engineer and an interview with a Senior Brand Designer on the Digital Experience team.
 - Next, candidates will be invited to schedule a 30 minute interview with a Engineering Manager, Digital Experience.
 - Finally, candidates will be invited to schedule a 30 minute follow up interview with the Director, Digital Experience.
 - Successful candidates will subsequently be made an offer via phone or video.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

@@ -3,21 +3,21 @@ layout: job_family_page
 title: Analytics Engineering
 ---
 
-**Analytics Engineers** sit at the [intersection](/handbook/business-technology/data-team/#data-job-families) of business teams, [Data Analytics](https://about.gitlab.com/job-families/finance/data-analyst) and [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer) and are responsible for bringing robust, efficient, and integrated data models and products to life. Analytics Engineers speak the language of business teams and technical teams, able to translate data insights and analysis needs into models powered by the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform). The successful Analytics Engineer is able to blend business acumen with technical expertise and transition between business strategy and data development.
+**Analytics Engineers** sit at the [intersection](https://about.gitlab.com/handbook/business-technology/data-team/#data-job-families) of business teams, [Data Analytics](https://about.gitlab.com/job-families/finance/data-analyst) and [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer) and are responsible for bringing robust, efficient, and integrated data models and products to life. Analytics Engineers speak the language of business teams and technical teams, able to translate data insights and analysis needs into models powered by the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform). The successful Analytics Engineer is able to blend business acumen with technical expertise and transition between business strategy and data development.
 
 ## Responsibilities
 
 As a team member responsible for helping to bridge the gap between business and technology, the Analytics Engineer role requires equal amounts business acumen and technical acumen.
 
 - Collaborate with team members to collect business requirements, define successful analytics outcomes, and design data models
-- Build trust in all interactions and with [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development)
-- Serve as the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals) for major sections of the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw/)
+- Build trust in all interactions and with [Trusted Data Development](https://about.gitlab.com/handbook/business-technology/data-team/data-development/#trusted-data-development)
+- Serve as the [Directly Responsible Individual](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals) for major sections of the [Enterprise Dimensional Model](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/)
 - Design, develop, and extend [dbt](https://www.getdbt.com/) code to extend the Enterprise Dimensional Model
-- Create and maintain architecture and systems documentation in the [Data Team Handbook](/handbook/business-technology/data-team/)
-- Maintain the [Data Catalog](/handbook/business-technology/data-team/data-catalog/), a scalable resource to support Self-Service and Single-source-of-truth analytics
-- Document plans and results in either issue, MRs, the [handbook](/handbook/), or READMEs following the GitLab tradition of [handbook first!](/handbook/handbook-usage/#why-handbook-first)
+- Create and maintain architecture and systems documentation in the [Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team/)
+- Maintain the [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/), a scalable resource to support Self-Service and Single-source-of-truth analytics
+- Document plans and results in either issue, MRs, the [handbook](https://about.gitlab.com/handbook/), or READMEs following the GitLab tradition of [handbook first!](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first)
 - Implement the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
-- Craft code that meets our internal standards for style, maintainability, and best practices (such as the [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide)) for a high-scale database environment. Maintain and advocate for these standards through code review.
+- Craft code that meets our internal standards for style, maintainability, and best practices (such as the [SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide)) for a high-scale database environment. Maintain and advocate for these standards through code review.
 - Approve data model changes as a Data Team Reviewer and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
 - Provide data modeling expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal, DRY, and scalable database designs and queries in Snowflake and in Periscope.
 
@@ -26,9 +26,9 @@ As a team member responsible for helping to bridge the gap between business and 
 - Ability to use GitLab
 - Ability to thrive in a fully remote organization
 - Positive and solution-oriented mindset
-- Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
-- [Self-motivated and self-managing](/handbook/values/#efficiency), with task organizational skills
-- Great communication: Regularly achieve [consensus](/handbook/values/#collaboration) amongst technical and business teams
+- Comfort working in a highly agile, [intensely iterative](https://about.gitlab.com/handbook/values/#iteration) environment
+- [Self-motivated and self-managing](https://about.gitlab.com/handbook/values/#efficiency), with task organizational skills
+- Great communication: Regularly achieve [consensus](https://about.gitlab.com/handbook/values/#collaboration) amongst technical and business teams
 - Demonstrated capacity to clearly and concisely communicate complex business activities, technical requirements, and recommendations
 - Demonstrated experience with one or more of the following business subject areas: marketing, finance, sales, product, customer success, customer support, engineering, or people
 - 4+ years in the Data space as an analyst, engineer, or equivalent
@@ -45,7 +45,7 @@ The Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/
 
 #### Analytics Engineer Job Grade
 
-The Analytics Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Analytics Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Analytics Engineer Responsibilities
 
@@ -61,7 +61,7 @@ The Senior Analytics Engineer reports to the [Manager, Data.](https://about.gitl
 
 #### Senior Analytics Engineer Job Grade
 
-The Senior Analytics Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Analytics Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Analytics Engineer Responsibilities
 
@@ -69,7 +69,7 @@ Responsibilites for the Senior Analytics Engineer extend the Analytics Engineer 
 
 - Own one or more stakeholder relationship in Go To Market, Research & Development, or General & Administrative business functions
 - Serve as Data Model subject matter expert and data model spokesperson, demonstrated by the ability to address questions quickly and accurately
-- Advocate for the [Data Quality Program](/handbook/business-technology/data-team/data-quality/) and [Trusted Data](/handbook/business-technology/data-team/platform/#tdf) to help ensure all data is profiled, reviewed, and accurate to support critical decisions
+- Advocate for the [Data Quality Program](https://about.gitlab.com/handbook/business-technology/data-team/data-quality/) and [Trusted Data](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf) to help ensure all data is profiled, reviewed, and accurate to support critical decisions
 - Guide [Work Breakdown](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#work-breakdown) Sessions
 - Organize and Plan quarter-long development initiatives per the [Data Team Planning Drumbeat](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/)
 
@@ -90,7 +90,7 @@ The Staff Analytics Engineer reports to the [Manager, Data.](https://about.gitla
 
 #### Staff Analytics Engineer Job Grade
 
-The Staff Analytics Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Analytics Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** From a survey data perspective 98 companies have this role with an average of 3 employee incumbents in all industries. In tech there are 33 companies reporting an average of 2 employee incumbents. The business justification for Analytics Engineer Staff and Principal job grades is to retain and develop deep technical talent by establishing Individual Contributor focused career paths for our team members who do not want to move into [Data People Management](https://about.gitlab.com/job-families/finance/manager-data/). Despite residing in the Finance Division, all Data job families are deeply technical in nature and require knowledge of databases, SQL, and modeling. Education in a technical field, typically Computer Science, Mathematics, Management Information Systems, or Data Analytics is typical for individuals in Data careers. At GitLab, the Analytics Engineer role is critical to support the growing Data Program because it helps glue together the business-facing Data Analyst roles with the technology-focused Data Engineering roles by creating data solutions for both roles. The Analytics Engineer is a specialized in dbt, which GitLab has chosen as the standard for developing Trusted Data Models.
 
@@ -137,7 +137,7 @@ The Principal Analytics Engineer reports to the [Manager, Data](https://about.gi
 
 #### Principal Analytics Engineer Job Grade
 
-The Principal Analytics Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Analytics Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** While there is limited supporting survey data for a grade 9, the same market justification for a Staff Analytics Engineer holds true for a Principal Analytics Engineer. In addition, Analytics Engineering is a relatively new job family in the Data space and is not as mature as the well-established Data Analysis, Data Engineering, and Data Scientist job families. Despite this, the Analytics Engineering job family is growing quickly and there are reasonable analysis to support the addition of new job grades:
   - From a survey data perspective 11 companies have this role with an average of 1 employee incumbent in all industries.
@@ -178,11 +178,11 @@ We are evaluating the addition of levels beyond the Senior level. Currently, bey
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with a Data Director or Manager
 - Next, candidates will be asked to complete a 'take home assessment' that is completed in their own time.
 - Next, candidates will be invited to schedule one or more interviews with members of the Data Team
 - Next, candidates will be invited to schedule one or more interviews with Business Partners
 - Finally, candidates may be asked to interview with our VP, IT or similar
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

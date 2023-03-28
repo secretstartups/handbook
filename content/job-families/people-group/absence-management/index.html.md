@@ -11,7 +11,7 @@ The Absence Management Specialist reports to the Manager, Absence Management.
 
 ### Absence Management Specialist Job Grade
 
-The Absence Management Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Absence Management Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Absence Management Specialist Responsibilities
 
@@ -44,7 +44,7 @@ The Senior Absence Management Partner reports to Manager, Absence Management.
 
 ### Senior Absence Management Partner Job Grade
 
-The Senior Absence Management Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Absence Management Partner is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Absence Management Partner Responsibilities
 
@@ -92,7 +92,7 @@ The Absence Management Manager reports to the Director, Team Member Relations.
 
 ### Absence Management Manager Job Grade
 
-The Absence Management Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Absence Management Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Absence Management Manager Responsibilities
 
@@ -145,4 +145,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - After that, candidates will be invited to interview with the Senior Director, People Success
 - Finally, our CPO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

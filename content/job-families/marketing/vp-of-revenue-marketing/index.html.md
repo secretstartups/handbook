@@ -14,7 +14,7 @@ Our Vice President of Revenue Marketing has proven success collaborating with al
 
 #### Job Grade
 
-The Vice President of Revenue Marketing role is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President of Revenue Marketing role is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -56,9 +56,9 @@ The Vice President of Revenue Marketing role is a [grade 12](/handbook/total-rew
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
-Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
+Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 - A 45 minute interview with Chief Marketing Officer
 - A 30 minute interview with Senior Director of Strategic Marketing
 - A 30 minute interview with Senior Director of Corporate Marketing
@@ -67,4 +67,4 @@ Qualified candidates will be invited to schedule a 30 minute [screening call](/h
 
 ## Relevant Links
 
-- [Marketing Handbook](/handbook/marketing/)
+- [Marketing Handbook](https://about.gitlab.com/handbook/marketing/)

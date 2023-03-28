@@ -7,7 +7,7 @@ Facility security officers (FSOs) are in charge of managing security in their or
 
 As a member of the Security Team at GitLab, you will be working towards raising the bar on security. We will achieve that by working and collaborating with cross-functional teams and global customers to provide guidance on security best practices.
 
-The [Security Team](/handbook/security) is responsible for leading and
+The [Security Team](https://about.gitlab.com/handbook/security) is responsible for leading and
 implementing the various initiatives that relate to improving GitLab's security.
 
 ## Responsibilities
@@ -35,7 +35,7 @@ implementing the various initiatives that relate to improving GitLab's security.
 - You are a team player, and enjoy collaborating with cross-functional teams
 - You are a great communicator
 - You employ a flexible and constructive approach when solving problems
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 
 ## Levels
@@ -51,4 +51,4 @@ Please note: The FSO does not have a grade internally at GitLab.
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.

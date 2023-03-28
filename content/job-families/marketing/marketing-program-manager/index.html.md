@@ -7,7 +7,7 @@ You might describe yourself as inquisitive, creative, organized, and curious. Yo
 
 ### Job Grade
 
-The Marketing Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Marketing Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -35,14 +35,14 @@ The Marketing Program Manager is a [grade 6](/handbook/total-rewards/compensatio
 - Experience with Open Source software, and/or the developer tools space is preferred.
 - Proficiency in MS Excel or Google Sheets.
 - Be familiar with or ready to learn how to use GitLab and Git.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
 
 ## Senior Marketing Program Manager
 
 ### Job Grade
 
-The Senior Marketing Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Marketing Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

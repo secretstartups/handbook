@@ -66,7 +66,7 @@ _May vary by specific job grade or specialty but generally include:_
 - Engagement Rate - the number of times during a reporting period that users engaged with our posts as a percentage of impressions. This metric indicates how engaging particular content or campaigns are overall. Each channel has its own performance average and individual CTAs and campaigns will also be unique
 - Other indicators in relation to the two above which may include: follower growth, follower growth rate, impressions, clicks, response volume
 
-### You must share our [values](/handbook/values/) and work under those values
+### You must share our [values](https://about.gitlab.com/handbook/values/) and work under those values
 
 _A sample of how GitLab's core values show up in Social Marketing:_
 
@@ -101,7 +101,7 @@ Everything is public by default, including our typos, bad takes, and iterations.
 #### Job Grade
 
 {:.no_toc}
-The Social Marketing Associate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Social Marketing Associate is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Responsibilities
 
@@ -130,7 +130,7 @@ The Social Marketing Associate is a [grade 5](/handbook/total-rewards/compensati
 #### Job Grade
 
 {:.no_toc}
-The Social Marketing Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Social Marketing Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Responsibilities
 
@@ -158,7 +158,7 @@ All of the responsibilities of an associate, plus:
 #### Job Grade
 
 {:.no_toc}
-The Senior Social Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Senior Social Marketing Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Responsibilities
 
@@ -200,7 +200,7 @@ Staff Social Marketing Managers on the Social Marketing team are prolific and cr
 #### Job Grade
 
 {:.no_toc}
-The Staff Social Social Marketing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) individual contributor role.
+The Staff Social Social Marketing is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) individual contributor role.
 
 #### Responsibilities
 
@@ -241,7 +241,7 @@ Managers in the Social Marketing team are prolific and creative social media str
 #### Job Grade
 
 {:.no_toc}
-The Manager, Social Marketing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Manager, Social Marketing is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Responsibilities
 
@@ -275,7 +275,7 @@ Senior Managers in the Social Marketing team take their role as a people manager
 #### Job Grade
 
 {:.no_toc}
-The Senior Manager, Social Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Senior Manager, Social Marketing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Responsibilities
 
@@ -310,7 +310,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Anonymous data on social media experience is not accepted. Candidates are required to submit information about the brands they've worked on during the application process. Please include names and data in your resume, cover letter, or other supplemental content to support your candidacy. If you are uncomfortable providing this information on your resume, we will happily discuss during interviews, but we will need to know.
 
-Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 - Next, candidates will be invited to schedule a series of 30-45 minute interviews that may include:
  - Our Head of Social Media
@@ -321,4 +321,4 @@ Qualified candidates will be invited to schedule a [screening call](/handbook/hi
 - Finally, our CMO may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

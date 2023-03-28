@@ -15,7 +15,7 @@ The Manager, Data may report to the [Senior Manager, Data](https://about.gitlab.
 
 #### Job Grade
 
-The Manager, Data is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Data is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -56,7 +56,7 @@ The Manager, Data is a [grade 8](/handbook/total-rewards/compensation/compensati
 
 #### Senior Manager, Data Job Grade
 
-The Senior Manager, Data is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Data is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Data Responsibilities
 
@@ -83,8 +83,8 @@ The Senior Manager, Data is a [grade 9](/handbook/total-rewards/compensation/com
 
 ## Performance Indicators (PI)
 
-- [% of team who self-classify as diverse](/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
-- [CSAT](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [% of team who self-classify as diverse](https://about.gitlab.com/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
+- [CSAT](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 - [SLO Achievement per Data Source](https://about.gitlab.com/handbook/business-technology/metrics/#slo-achievement-per-data-source)
 - WIP: % of queries supported by Enterprise Dimensional Model >= 75%
 
@@ -96,7 +96,7 @@ The next step in the Data Management job family is to move to the [Director of D
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with our Director of Data & Analytics
 - Next, candidates will be invited to schedule one or more interviews with members of the Data Team
 - Next, candidates will be invited to schedule one or more interviews with Business Partners
@@ -155,4 +155,4 @@ The job requirements of this specialization include all of the requirements for 
 - Up to date with technologies and trends in the modern data stack world
 - Ability to use SQL for analyzing and visualizing data
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

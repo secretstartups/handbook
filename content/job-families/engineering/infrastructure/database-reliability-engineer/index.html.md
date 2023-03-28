@@ -43,7 +43,7 @@ The GitLab Database Ecosystem has the following areas of interest:
 - Have solid knowledge of SQL and PL/pgSQL.
 - Have solid knowledge of the internals of PostgreSQL.
 - Have experience working in a distributed production environment.
-- Share our [values](/handbook/values/), and work in accordance with those values.
+- Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Have excellent written and verbal English communication skills.
 - Have an urge to collaborate and communicate asynchronously.
 - Have an urge to document all the things so you don't need to learn the same thing twice.
@@ -73,7 +73,7 @@ The GitLab Database Ecosystem has the following areas of interest:
 
 #### Job Grade
 
-The Database Reliability Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Database Reliability Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 - Provides emergency response either by being on-call or by reacting to symptoms according to monitoring.
@@ -92,7 +92,7 @@ The Database Reliability Engineer is a [grade 6](/handbook/total-rewards/compens
 
 #### Job Grade
 
-The Senior Database Reliability Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Database Reliability Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -114,7 +114,7 @@ The Senior Database Reliability Engineer is a [grade 7](/handbook/total-rewards/
 
 #### Job Grade
 
-The Staff Database Reliability Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Database Reliability Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Staff Database Reliability Engineer are Senior Database Reliability Engineers who additionally meet the following criteria:
 
@@ -158,7 +158,7 @@ Database Reliability Engineers have the following job-family performance indicat
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Qualified candidates will be invited to a 30min [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
+- Qualified candidates will be invited to a 30min [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will move to the first round of interviews.
   - 60 Minute Technical Interview with a Senior DBRE.
   - Two 60 Minute Technical Interviews with a member of the Infrastructure Engineering team
@@ -168,8 +168,8 @@ Candidates for this position can expect the hiring process to follow the order b
 - Successful candidates will subsequently be made an offer.
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
+See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.

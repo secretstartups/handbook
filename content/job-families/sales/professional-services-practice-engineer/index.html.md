@@ -6,7 +6,7 @@ description: "The GitLab Professional Services Consulting Practice organization 
 
 The GitLab Professional Services Consulting Practice organization defines and matures the consulting services offered by GitLab Professional Services (PS) and Partner organizations with a focus on creating long-term success for their customers. The Professional Services Practice Engineer plays a fundamental role in the success of the consulting practice by building and maturing the software and automation that these practices rely upon. The Practice Engineer's direct customers are the PS and Partner consultants who will be using the software during customer engagements. However, the Practice Engineer's goals are aligned with the overall Customer Success organization to maximize value and Customer satisfaction.  
 
-To learn more, see the [Professional Services Engineering handbook](/handbook/customer-success/professional-services-engineering)
+To learn more, see the [Professional Services Engineering handbook](https://about.gitlab.com/handbook/customer-success/professional-services-engineering)
 
 ## Level
 
@@ -16,15 +16,15 @@ The Senior Practice Engineer reports to Sr. Manager of Practice Development.
 
 #### Senior Practice Engineer Job Grade
 
-The Senior Professional Services Practice Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) depending on seniority.
+The Senior Professional Services Practice Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) depending on seniority.
 
 #### Senior Practice Engineer Responsibilities
 
 - Accountable for the efficiency and quality of GitLab Professional Services automation, tools and processes. This includes automation/tools that facilitate service delivery and/or back-office processes used in the selling and management of delivery.  Design, Develop and Deliver multiple projects to meet many business goals.
-- Use our product. [Dogfood](/handbook/values/#dogfooding) by collaborating on the handbook and utilizing GitLab.com, as appropriate.
+- Use our product. [Dogfood](https://about.gitlab.com/handbook/values/#dogfooding) by collaborating on the handbook and utilizing GitLab.com, as appropriate.
 - Collaborate with Product and Engineering on the GitLab product roadmap to ensure core functionality is considered for prioritization.
 - Update professional services offering collateral to increase usability for professional services engineers and partners to use.
-- Create new service offerings to address market demand as it relates to [stage adoption](/handbook/customer-success/csm/stage-adoption/) and [customer retention](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
+- Create new service offerings to address market demand as it relates to [stage adoption](https://about.gitlab.com/handbook/customer-success/csm/stage-adoption/) and [customer retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
 - Create enablement framework to help scale the delivery of professional services migration, implementation and other consulting engagements.
 - Collaborate with Professional Services Engineers, Service Partners, Product Management, Engineering, and Instructional Designers (as appropriate) to develop enablement to scale delivery of consulting services.
 - Ensure delivery model is focused on customer success outcomes while championing efficiency, collaboration, and results
@@ -68,4 +68,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Phone screen with a GitLab Recruiting team member.
 2. Video Interview with the Hiring Manager to outline take home assignment.
 3. Team Interviews with 1-4 team members
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

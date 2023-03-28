@@ -46,7 +46,7 @@ The Manager, Brand Strategy and Growth reports to the Director, Brand Stratgey a
 
 #### Manager, Brand Strategy Job Grade
 
-The Manager, Brand Strategy and Growth is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Brand Strategy and Growth is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Brand Strategy Responsibilities
 
@@ -75,7 +75,7 @@ The Staff Brand Manager reports to the Director, Brand Strategy.
 
 #### Staff Brand Manager Job Grade
 
-The Staff Brand Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Brand Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The Staff Brand Manager provides a high level of expertise in brand, marketing, and strategy to develop integrated marketing campaigns in an effort to increase GitLab’s brand awareness. Additionally, this role is specialized due to industry experience required to collaborate with high-profile individuals, agencies, executives, and other senior stakeholders. This role will help shape GitLab’s brand through collaboration and iteration. A comparable role at GitLab is the [Staff Brand Designer](https://about.gitlab.com/job-families/marketing/brand-designer/#staff-brand-designer).
 
@@ -216,4 +216,4 @@ Candidates for these positions can expect the hiring process to follow the order
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

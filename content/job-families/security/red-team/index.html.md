@@ -6,7 +6,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Threat Management sub department](/handbook/security/threat-management/), the [Red Team](/handbook/security/threat-management/red-team/) conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure.
+As members of GitLab's [Threat Management sub department](https://about.gitlab.com/handbook/security/threat-management/), the [Red Team](https://about.gitlab.com/handbook/security/threat-management/red-team/) conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure.
 
 The Red Team does not perform penetration tests, and the work we do is not focused on delivering a list of vulnerabilities in a specific application or service. Instead, we emulate the real-world tactics, techniques, and procedures (TTPs) of threats that are most relevant to our organization.
 
@@ -48,7 +48,7 @@ This position reports to the [Manager, Red Team](#manager-red-team).
 
 #### Red Team Engineer (Intermediate) Job Grade
 
-The Red Team Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Red Team Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Red Team Engineer (Intermediate) Responsibilities
 - Includes [base-level responsibilities](#responsibilities).
@@ -62,7 +62,7 @@ This position reports to the [Manager, Red Team](#manager-red-team).
 
 #### Senior Red Team Engineer Job Grade
 
-The Senior Red Team Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Red Team Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Red Team Engineer Responsibilities
 - Includes [base-level responsibilities](#responsibilities).
@@ -84,7 +84,7 @@ This position reports to the [Manager, Red Team](#manager-red-team).
 
 #### Staff Red Team Engineer Job Grade
 
-The Staff Red Team Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Red Team Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Red Team Engineer Responsibilities
 - Includes [Senior-level responsibilities](#senior-red-team-engineer-responsibilities)
@@ -106,7 +106,7 @@ This position reports to the [Senior Manager, Threat Management](/job-families/s
 
 #### Principal Red Team Engineer Job Grade
 
-The Principal Red Team Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Red Team Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Red Team Engineer Responsibilities
 - Includes [Staff-level responsibilities](#staff-red-team-engineer-responsibilities)
@@ -132,7 +132,7 @@ This position reports to the [Senior Manager, Red Team](#senior-manager-red-team
 
 #### Manager, Red Team Job Grade
 
-The Red Team Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Red Team Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Red Team Responsibilities
 - Hire a world class team of security engineers to work on their team
@@ -159,7 +159,7 @@ The Red Team Manager is a [grade 8](/handbook/total-rewards/compensation/compens
 - Capability to make sound decisions in the face of ambiguity and imperfect knowledge
 - Willingness to be part of the Security Manager On-Call rotation
 - First hand experience with major cloud providers - GCP, AWS, Azure, Digital Ocean
-- Share our [values](/handbook/values/), and work in accordance with those values
+- Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Alignment with Manager responsibilities as outlined in [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 
 ### Senior Manager, Red Team
@@ -168,7 +168,7 @@ This role extends the Security Incident Response Team Manager role by adding vis
 
 #### Senior Manager, Red Team Job Grade
 
-The Security Incident Response Team Senior Manager is a [9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Security Incident Response Team Senior Manager is a [9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Red Team Responsibilities
 - Extends Manager, Red Team responsibilities, plus;
@@ -194,11 +194,11 @@ The Security Incident Response Team Senior Manager is a [9](/handbook/total-rewa
 - Robust understanding of security issues, mitigations, and a solid grasp of the current global threat landscape
 - Experience with the role of an incident manager during large scale security events
 - Familiarity with major cloud providers - GCP, AWS, Azure, Digital Ocean
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Alignment with Manager responsibilities as outlined in [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 
 ## Performance Indicators
-- Improve the security posture of the organisation by [executing operations that mimic real-world adversaries](/handbook/security/performance-indicators/).
+- Improve the security posture of the organisation by [executing operations that mimic real-world adversaries](https://about.gitlab.com/handbook/security/performance-indicators/).
 
 ### Career Ladder
 
@@ -218,10 +218,10 @@ For details on the Security organization leadership roles, to include the Direct
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with Red Team Manager
 - Candidates will then be invited to schedule an interview with Senior Red Team Engineer, Security Incident Response Team Manager, Trust & Safety Manager
 - Candidates will then be invited to schedule an interview with Director of Security Operations
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

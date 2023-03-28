@@ -64,10 +64,10 @@ The Area Vice President Job Family would move to the [VP of Enteprise Sales](/jo
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to schedule one or more interviews with members of the Enterprise sales team.
 - Next, candidates will be invited to schedule one or more interviews with Business Partners
 - Finally, candidates may be asked to interview with our CRO.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

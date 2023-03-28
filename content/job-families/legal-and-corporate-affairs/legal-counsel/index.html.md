@@ -11,7 +11,7 @@ The Associate Legal Counsel reports to the [Director, Legal](/job-families/legal
 
 ### Associate Legal Counsel  Job Grade
 
-The Associate Legal Counsel is a [Grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Associate Legal Counsel is a [Grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ### Associate Legal Counsel Responsibilities
 
@@ -41,7 +41,7 @@ The Legal Counsel reports to the [Director, Legal](/job-families/legal-and-corpo
 
 ### Legal Counsel Job Grade
 
-The Legal Counsel is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Legal Counsel is a [Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ### Legal Counsel Responsibilities
 
@@ -70,7 +70,7 @@ The Senior Legal Counsel reports to the [Director, Legal](/job-families/legal-an
 
 ### Senior Legal Counsel Job Grade
 
-The Senior Legal Counsel is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Legal Counsel is a [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ### Senior Legal Counsel Responsibilities
 
@@ -100,7 +100,7 @@ The Lead Legal Counsel reports to the [Director, Legal](/job-families/legal-and-
 
 ### Lead Legal Counsel Job Grade
 
-The Lead Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead Legal Counsel is a [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Lead Legal Counsel Responsibilities
 
@@ -162,7 +162,7 @@ The Principal Legal Counsel reports to the [Director, Legal](/job-families/legal
 
 ### Principal Legal Counsel Job Grade
 
-The Principal Legal Counsel is a [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Legal Counsel is a [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 
 ### Principal Legal Counsel Responsibilities
@@ -305,4 +305,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule an interview with our Chief Legal Officer (as applicable).
 - Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

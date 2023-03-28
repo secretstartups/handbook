@@ -22,7 +22,7 @@ The Gitlab PubSec Entity Board (the "Entity Board") will support the leadership 
 - Board members will have a yearly review of their performance.
 
 ## Relevant Links
-- [Sales Handbook](/handbook/sales/public-sector/)
+- [Sales Handbook](https://about.gitlab.com/handbook/sales/public-sector/)
 
 ## Hiring Process
 - By appointment

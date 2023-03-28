@@ -18,7 +18,7 @@ The Senior Background Specialist reports to Director, People Operations
 
 ### Job Grade
 
-The Senior Background Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Background Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Background Check Specialist Responsibilities
 
@@ -50,7 +50,7 @@ The People Compliance Specialist reports to the Vice President of People Operati
 
 ### Job Grade
 
-The People Compliance Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Compliance Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### People Compliance Specialist Responsibilities
 
@@ -69,7 +69,7 @@ The People Compliance Specialist is a [grade 6](/handbook/total-rewards/compensa
 
 ### People Compliance Specialist Requirements
 
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - The capacity to challenge the status quo with all levels of leadership to ensure compliance.
 - The capability to work autonomously and to drive your own performance & development would be important in this role.
 - Willing to make People Compliance as open and transparent as possible.
@@ -103,7 +103,7 @@ The People Compliance Partner reports to the Vice President of People Operations
 
 ### Job Grade
 
-The Senior Compliance Specialist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Compliance Specialist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### People Compliance Partner Responsibilities
 
@@ -162,7 +162,7 @@ The Manager, People Compliance reports to the Vice President of People Operation
 
 ### Job Grade
 
-The Manager, People Compliance is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Compliance is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, People Compliance Responsibilities
 

@@ -25,7 +25,7 @@ The Business Value Manager (Intermediate) reports to the [Manager, Business Valu
 
 #### Business Value Manager (Intermediate) Job Grade
 
-The Business Value Manager (Intermediate) is a [grade #9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Value Manager (Intermediate) is a [grade #9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Business Value Manager (Intermediate) Responsibilities
 - Act as value creation expert on strategic accounts and opportunities by working closely with account stakeholders on key business drivers
@@ -45,7 +45,7 @@ The Senior Business Value Manager reports to the [Manager, Business Value Servic
 
 #### Senior Business Value Manager Job Grade
 
-The Senior Business Value Manager is a [grade #9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Business Value Manager is a [grade #9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Business Value Manager Responsibilities
 - Develop in-depth ROI/TCO value models to quantify business value that can be achieved through GitLab solutions inclusive of product, services, and customer success
@@ -67,7 +67,7 @@ The Manager, Business Value Services Team reports to the [Senior Director, Solut
 
 #### Manager, Business Value Services Team Job Grade
 
-The Manager, Business Value Services Team is a [grade #9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Business Value Services Team is a [grade #9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Business Value Services Team Responsibilities
 - Inherits all responsibilities of the Senior Business Value Manager while also leading the Business Value Services Team
@@ -104,9 +104,9 @@ As with all roles in the Sales Department, the Business Value Services job famil
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 *{add a bulleted list of the hiring process steps here}
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 

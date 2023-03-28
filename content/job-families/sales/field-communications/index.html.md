@@ -16,7 +16,7 @@ The Field Communications Specialist reports to the Manager/Sr. Manager, Field Co
 
 #### Associate Field Communications Specialist Job Grade
 
-The Field Communications Specialist (Intermediate) is a grade [5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Field Communications Specialist (Intermediate) is a grade [5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Associate Field Communications Specialist Responsibilities
 
@@ -47,7 +47,7 @@ The Field Communications Specialist reports to the Manager/Sr. Manager, Field Co
 
 #### Field Communications Specialist (Intermediate) Job Grade
 
-The Field Communications Specialist (Intermediate) is a grade [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Field Communications Specialist (Intermediate) is a grade [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Field Communications Specialist (Intermediate) Responsibilities
 
@@ -56,7 +56,7 @@ The Field Communications Specialist (Intermediate) is a grade [6](/handbook/tota
 - Support the Field Communications announcement calendar, working with DRIs across the business to triage and plan for updates
 - Foster strong partnerships with cross functional teams such as Field Enablement, Product Marketing, and others for aligned content and communication delivery
 - Support senior team members where needed on company initiatives that impact the Field teams
-- Champion efforts to improve Field Communications via GitLab’s [handbook-first approach to learning and development](/handbook/sales/field-operations/field-enablement/#handbook-first-approach-to-gitlab-learning-and-development-materials)
+- Champion efforts to improve Field Communications via GitLab’s [handbook-first approach to learning and development](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/#handbook-first-approach-to-gitlab-learning-and-development-materials)
 - Develop and implement a strategy for soliciting feedback from GitLab Field team members to inform communication priorities and requirements
 - Assist in communication of strategies or messages from senior leadership as needed
 - Take on additional projects and responsibilities as needed
@@ -85,7 +85,7 @@ The Senior Field Communications Specialist reports to the Manager/Sr. Manager, F
 
 #### Senior Field Communications Specialist Job Grade
 
-The Senior Field Communications Specialist is a grade [7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Field Communications Specialist is a grade [7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Field COmmunications Specialist Responsibilities
 
@@ -122,7 +122,7 @@ The Manager, Field Communications reports to the Sr. Manager, Field Communicatio
 
 #### Manager, Field Communications Job Grade
 
-The Manager, Field Communications is a grade [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Field Communications is a grade [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Field Communications Responsibilities
 
@@ -164,7 +164,7 @@ The Senior Manager, Field Communications reports to the [Vice President, Revenue
 
 #### Senior Manager, Field Communications Job Grade
 
-The Senior Manager, Field Communications is a grade [9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Field Communications is a grade [9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Field Communications Responsibilities
 
@@ -205,7 +205,7 @@ The Senior Manager, Field Communications is a grade [9](/handbook/total-rewards/
 
 ## Performance Indicators
 
-- [Field communication/newsletter open and click-through rates](/handbook/sales/field-communications/field-flash-newsletter/#measurement)
+- [Field communication/newsletter open and click-through rates](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/#measurement)
 - Field Comms & Content Pulse Survey response rates
    - Results from benchmark questions related to the Field’s sentiment around feeling informed and enabled in their roles
 - Feedback from key stakeholders, including CRO LT and Field Leaders/Managers
@@ -225,9 +225,9 @@ graph TD;
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will meet with members of the [GitLab Field Operations team](https://about.gitlab.com/company/team/?department=field-operations),
 - Then, candidates will meet with the Manager and/or Senior Manager of Field Communications,
 - Finally, candidates will meet with the VP of Field Operations.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

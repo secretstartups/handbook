@@ -22,5 +22,5 @@ Are you a passionate marketer with strong program management skills who has mast
 - Extremely detail-oriented and organized, able to manage multiple projects to meet deadlines.
 - A passion and strong understanding of developer customer personas and the landscape.
 - Is your college degree in French foreign politics with a minor in interpretive dance but you’ve been hacking together websites since you were 12? Perfect. We understand that your college degree isn’t the only thing that prepares you as a potential job candidate.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab

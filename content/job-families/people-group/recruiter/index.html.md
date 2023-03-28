@@ -9,7 +9,7 @@ The GitLab Recruiter creates a positive experience for candidates and hiring tea
 
 ### Job Grade
 
-The Recruiter is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Recruiter is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -52,7 +52,7 @@ The Recruiter is a [grade 6](/handbook/total-rewards/compensation/compensation-c
 
 ##### Job Grade
 
-The Recruiting Intern is not aligned to a job [grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Recruiting Intern is not aligned to a job [grade](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -78,7 +78,7 @@ The Recruiting Intern is not aligned to a job [grade](/handbook/total-rewards/co
 
 ##### Job Grade
 
-The Associate Recruiter is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Recruiter is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Requirements
 
@@ -95,7 +95,7 @@ Associate recruiters share the same requirements as the Intermediate recruiter l
 
 ##### Job Grade
 
-The Senior Recruiter is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Recruiter is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Requirements
 
@@ -112,7 +112,7 @@ Senior recruiters share the same requirements as the Intermediate recruiter list
 
 ##### Job Grade
 
-The Recruiting Lead is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Recruiting Lead is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -143,7 +143,7 @@ The Recruiting Lead is a [grade 8](/handbook/total-rewards/compensation/compensa
 
 ##### Job Grade
 
-The Manager, Recruiting is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Recruiting is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -174,7 +174,7 @@ The Manager, Recruiting is a [grade 8](/handbook/total-rewards/compensation/comp
 
 ##### Job Grade
 
-The Senior Manager, Recruiting is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Recruiting is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -205,7 +205,7 @@ The Senior Manager, Recruiting is a [grade 9](/handbook/total-rewards/compensati
 
 ##### Job Grade
 
-The Director, Recruiting is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Recruiting is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
 
@@ -243,9 +243,10 @@ The Director, Recruiting is a [grade 10](/handbook/total-rewards/compensation/co
 
 ##### Job Grade
 
-The Senior Director, Talent Acquisition is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Talent Acquisition is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
+
 - Partners with the VP, Talent & Engagement to align on overall plan for talent acquisition to ensure we maintain the high caliber of team members
 - Partner with Finance, Department Leaders and People Business Partners to deliver data-driven workforce planning processes to ensure the right people are in the right roles with a clear view of talent supply and demand
 - Champion the diversity efforts within GitLab to drive a diverse talent pool for our open roles
@@ -256,6 +257,7 @@ The Senior Director, Talent Acquisition is a [grade 11](/handbook/total-rewards/
 - Responsible for accurate and transparent hiring plans that are accessible in real time
 
 ##### Requirements
+
 - Proven experience in high growth global environment building an overall Talent Acquisition strategy and team to hire at scale
 - Successfully driven globally distributed hiring
 - Excellent people management skills, enabling the Talent Acquisition team to reach their full potential
@@ -270,7 +272,7 @@ The Senior Director, Talent Acquisition is a [grade 11](/handbook/total-rewards/
 
 ## Specialities
 
-Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is at GitLab here.
+Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab here.
 
 ### Sales & Marketing
 
@@ -367,7 +369,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our CEO may choose to conduct a final interview
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
+See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
 
 ## Career Ladder
 

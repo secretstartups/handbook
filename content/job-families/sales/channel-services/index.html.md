@@ -26,7 +26,7 @@ title: "Channel Services"
 
 #### Job Grade
 
-The Junior Channel Services Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Channel Services Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -40,7 +40,7 @@ To be defined at time of business need.
 
 ### Job Grade
 
-The Channel Services Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Channel Services Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 - The Channel Services Manager will serve as a primary point of contact for GitLab’s top services partners and will ensure that services partners are trained and certified to provide professional, consulting, training, & managed services for GitLab customers.
@@ -77,7 +77,7 @@ The Channel Services Manager is a [grade 6](/handbook/total-rewards/compensation
 
 ### Job Grade
 
-The Senior Channel Services Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Channel Services Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -114,7 +114,7 @@ The Senior Channel Services Manager is a [grade 7](/handbook/total-rewards/compe
 
 #### Job Grade
 
-The Lead Channel Services Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead Channel Services Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The business need for an individual contributor Lead Channel Services Manager is because they provide a high level of expertise in Channel Services and strategy to develop a roadmap, collaboration opportunities with partners, and cross-functional intiatives that require a greater depth and breadth of experience across business functions. In the market, there are at least 20 organizations that typically have 2 Lead Channel Services Managers.
 
@@ -158,7 +158,7 @@ The Lead Channel Services Manager is a [grade 8](/handbook/total-rewards/compens
 
 #### Job Grade
 
-The Manager, Channel Services is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Channel Services is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -172,7 +172,7 @@ To be defined at time of business need.
 
 #### Job Grade
 
-The Senior Manager, Channel Services is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Channel Services is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -206,7 +206,7 @@ The Senior Manager, Channel Services is a [grade 9](/handbook/total-rewards/comp
 
 #### Job Grade
 
-The Director, Channel Services is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Channel Services is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -241,7 +241,7 @@ The Director, Channel Services is a [grade 10](/handbook/total-rewards/compensat
 
 #### Job Grade
 
-The Senior Director, Channel Services is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Channel Services is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -253,7 +253,7 @@ To be defined at time of business need.
 
 ## Specialties
 
-Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is at GitLab.
+Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab.
 
 ### Go To Market (GTM)
 
@@ -280,4 +280,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Phone screen with a GitLab Recruiting team member
 2. Video Interview with the Hiring Manager
 3. Team Interviews with 1-4 teammates
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

@@ -17,7 +17,7 @@ a variety of tasks towards that end.
 ### Job Grade
 
 The Support Readiness Specialist is a
-[grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+[grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### What you can expect in a Support Readiness Specialist role at GitLab:
 

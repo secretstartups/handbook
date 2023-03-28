@@ -12,7 +12,7 @@ The Technical Accounting Role deeply understands GAAP accounting principles and 
 
 #### Job Grade
 
-The Technical Accounting Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Technical Accounting Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -35,7 +35,7 @@ The Technical Accounting Manager is a [grade 8](/handbook/total-rewards/compensa
 - Proficient with google sheets.
 - Revenue recognition, namely 606, experience highly preferred.
 - Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab.
 
@@ -43,7 +43,7 @@ The Technical Accounting Manager is a [grade 8](/handbook/total-rewards/compensa
 
 #### Job Grade
 
-The Director, Technical Accounting is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Technical Accounting is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -62,10 +62,10 @@ All of the above requirements, plus
 
 ## Performance Indicators
 
-- [Deals reviewed for revenue recognition](/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
-- [Issue opened for all key technical accounting matters](/handbook/finance/accounting/#issue-opened-for-all-key-technical-accounting-matters--2-working-days)
-- [Key technical accounting matters to documented](/handbook/finance/accounting/#key-technical-accounting-matters-to-documented--5-working-days)
-- [Technical accounting queries disposed of](/handbook/finance/accounting/#technical-accounting-queries-disposed-of--2-working-days)
+- [Deals reviewed for revenue recognition](https://about.gitlab.com/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
+- [Issue opened for all key technical accounting matters](https://about.gitlab.com/handbook/finance/accounting/#issue-opened-for-all-key-technical-accounting-matters--2-working-days)
+- [Key technical accounting matters to documented](https://about.gitlab.com/handbook/finance/accounting/#key-technical-accounting-matters-to-documented--5-working-days)
+- [Technical accounting queries disposed of](https://about.gitlab.com/handbook/finance/accounting/#technical-accounting-queries-disposed-of--2-working-days)
 
 ## Hiring Process
 
@@ -82,7 +82,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 #### Job Grade
 
-The Senior Director, Technical Accounting is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Technical Accounting is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -113,4 +113,4 @@ The Senior Director, Technical Accounting is a [grade 11](/handbook/total-reward
 
 The next step in the Technical Accounting Management job family is to move to the [Principal Accounting Officer](/job-families/finance/pao-jf/) job family.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).

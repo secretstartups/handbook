@@ -13,7 +13,7 @@ The Talent Brand Program Manager reports to the Senior Director of Talent Brand 
 
 #### Talent Brand Program Manager Job Grade
 
-The Talent Brand Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Talent Brand Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Talent Brand Program Manager Responsibilities
 
@@ -41,7 +41,7 @@ The Talent Brand Program Manager is a [grade 6](/handbook/total-rewards/compensa
 - Deadline oriented, and able to work in a fast-paced environment with ever-changing priorities
 - Self-motivated with the ability to work both independently and collaboratively
 - Proficient in Google Docs
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 - Ability to use GitLab
 
@@ -55,7 +55,7 @@ The Program Manager, Enablement reports to the Senior Manager, Global Enablement
 
 #### Program Manager, Enablement Job Grade
 
-The Progam Manager, Enablement is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Progam Manager, Enablement is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Program Manager, Enablement Responsibilities
 
@@ -89,7 +89,7 @@ The Senior Program Manager, Enablement reports to the Senior Manager, Global Ena
 
 #### Senior Program Manager, Enablement Job Grade
 
-The Progam Manager, Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Progam Manager, Enablement is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Program Manager, Enablement Responsibilities
 
@@ -126,7 +126,7 @@ The Manager, Global Enablement reports to the Senior Director of Talent Brand & 
 
 #### Manager, Global Enablement Job Grade
 
-The Manager, Recruiting Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Recruiting Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Global Enablement Responsibilities
 
@@ -163,7 +163,7 @@ The Senior Manager, Global Enablement reports to the Senior Director of Talent B
 
 #### Senior Manager, Global Enablement Job Grade
 
-The Senior Manager, Recruiting Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Recruiting Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Global Enablement Responsibilities
 
@@ -211,7 +211,7 @@ The Director of Talent Brand & Talent Acquisition Enablement reports to the [VP 
 
 #### Director of Talent Brand & Talent Acquisition Enablement Job Grade
 
-The Director Talent Brand is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director Talent Brand is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director of Talent Brand & Talent Acquisition Enablement Responsibilities
 
@@ -259,7 +259,7 @@ The Senior Director of Talent Brand & Talent Acquisition Enablement reports to t
 
 #### Senior Director of Talent Brand & Talent Acquisition Enablement Job Grade
 
-The Senior Director Talent Brand is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director Talent Brand is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director of Talent Brand & Talent Acquisition Enablement Responsibilities
 
@@ -289,10 +289,10 @@ The Senior Director Talent Brand is a [grade 11](/handbook/total-rewards/compens
 
 ## Performance Indicators
 
-- [Glassdoor engagement](/handbook/people-group/employment-branding/#glassdoor-engagement)
-- [LinkedIn Talent Brand metrics](/handbook/people-group/employment-branding/#linkedin-talent-brand-metrics)
-- [Team member engagement score](/handbook/people-group/employment-branding/#team-member-engagement-score)
-- [Team member voluntary turnover](/handbook/people-group/people-group-metrics/#team-member-voluntary-turnover)
+- [Glassdoor engagement](https://about.gitlab.com/handbook/people-group/employment-branding/#glassdoor-engagement)
+- [LinkedIn Talent Brand metrics](https://about.gitlab.com/handbook/people-group/employment-branding/#linkedin-talent-brand-metrics)
+- [Team member engagement score](https://about.gitlab.com/handbook/people-group/employment-branding/#team-member-engagement-score)
+- [Team member voluntary turnover](https://about.gitlab.com/handbook/people-group/people-group-metrics/#team-member-voluntary-turnover)
 - [Hires vs. plan](/#hires-vs-plan)
 - [Social Referrals](https://about.gitlab.com/#social-referrals)
 

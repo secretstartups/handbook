@@ -60,7 +60,7 @@ This role reports to the [VP, Corporate Controller](https://about.gitlab.com/job
 
 #### Director, International Accounting Job Grade
 
-The Director, International Accounting is a [10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, International Accounting is a [10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, International Accounting Responsibilities
 
@@ -113,7 +113,7 @@ This role reports to the [VP, Corporate Controller](https://about.gitlab.com/job
 
 #### Senior Director, International Accounting Job Grade
 
-The Senior Director, International Accounting is a [11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, International Accounting is a [11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, International Accounting Responsibilities
 
@@ -174,7 +174,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - There may be a final executive interview
 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 
 

@@ -12,7 +12,7 @@ The Senior SOX Compliance Analyst reports to the Senior Internal Audit Manager.
 
 #### Job Grade
 
-The Senior SOX Compliance Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior SOX Compliance Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -41,10 +41,10 @@ The Senior SOX Compliance Analyst is a [grade 7](/handbook/total-rewards/compens
 
 #### Performance Indicators
 
-- [Percentage of Desktop procedures documented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of controls tested](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of recommendations implemented](/handbook/internal-audit/#internal-audit-performance-measures)
-- [Percentage of audits completed](/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of controls tested](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
+- [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
 
 #### Career Ladder
 

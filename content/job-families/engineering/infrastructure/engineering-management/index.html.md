@@ -6,22 +6,22 @@ title: "Engineering Management - Infrastructure"
 ## Manager, Infrastructure
 
 The Manager, Infrastructure has a primary focus on hiring and building a world-class team, and putting them in the optimal position to succeed.
-They need to be familiar with GitLab's underlying technologies and processes to be able to support their teams growth, as well as be the final conclusive vote in cases where the team is blocked on a path forward. They must also efficiently coordinate across departments to accomplish collaborative goals. More on [Leadership at GitLab in our handbook](/handbook/leadership/#management-group).
+They need to be familiar with GitLab's underlying technologies and processes to be able to support their teams growth, as well as be the final conclusive vote in cases where the team is blocked on a path forward. They must also efficiently coordinate across departments to accomplish collaborative goals. More on [Leadership at GitLab in our handbook](https://about.gitlab.com/handbook/leadership/#management-group).
 
 ### Job Grade
 
-The Manager, Infrastructure is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Infrastructure is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
-- Hire an incredible team that lives our [values](/handbook/values/)
-- Maintain an environment where Team Members can thrive and the team produces [Results](/handbook/values/#results)
+- Hire an incredible team that lives our [values](https://about.gitlab.com/handbook/values/)
+- Maintain an environment where Team Members can thrive and the team produces [Results](https://about.gitlab.com/handbook/values/#results)
 - Hold regular 1:1's with team members
 - Manage agile projects
 - Work across sections within engineering
 - Improve the quality, security and performance of the product
 - Work on small changes outside of the critical path
-- Participate in either the [Release Manager rotation](https://gitlab.com/gitlab-org/release/docs/-/tree/master/release_manager#responsibilities) **OR** the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure that the availability goals for GitLab.com are met.
+- Participate in either the [Release Manager rotation](https://gitlab.com/gitlab-org/release/docs/-/tree/master/release_manager#responsibilities) **OR** the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure that the availability goals for GitLab.com are met.
 
 ### Requirements
 
@@ -45,7 +45,7 @@ The Manager, Infrastructure is a [grade 8](/handbook/total-rewards/compensation/
 
 ### Performance Indicators
 
-The Manager, Infrastructure contributes to the success of [Infrastructure Performance Indicators](/handbook/engineering/infrastructure/performance-indicators).
+The Manager, Infrastructure contributes to the success of [Infrastructure Performance Indicators](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators).
 
 ## Specialties
 
@@ -53,13 +53,13 @@ The Manager, Infrastructure contributes to the success of [Infrastructure Perfor
 
 The Manager, Infrastructure (Delivery) manages the engineering team responsible for tasks relating to release management of GitLab releases as well as continuous delivery/deployment on GitLab.com.
 
-The Manager is responsible for ensuring, and evolving the team mandate described in the [team handbook](/handbook/engineering/infrastructure/team/delivery/), and leading the team that consists of [Site Reliability Engineers](/job-families/engineering/infrastructure/site-reliability-engineer/) and
+The Manager is responsible for ensuring, and evolving the team mandate described in the [team handbook](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/), and leading the team that consists of [Site Reliability Engineers](/job-families/engineering/infrastructure/site-reliability-engineer/) and
 [Backend Engineers](/job-families/engineering/backend-engineer/).
 
 In addition to the same requirements, responsibilities, and performance indicators defined above for the Manager, Infrastructure, Delivery specialty requires:
 
 - Guiding self-managed release and GitLab.com continuous deployment processes
-- Owning the [Mean Time to Production](/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp)
+- Owning the [Mean Time to Production](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp)
 
 ### Manager, Infrastructure (Reliability)
 
@@ -73,7 +73,7 @@ In addition to the same requirements, responsibilities, and performance indicato
 
 The Manager, Infrastructure (Scalability) leads the engineering team responsible for GitLab and GitLab.com at scale, working on the highest priority scalability items in the application in close coordination with all teams in Engineering, and providing feedback to other Engineering teams so they can become better at scalability as well.
 
-The Manager is responsible for ensuring, and evolving the team mandate described in the [team handbook](/handbook/engineering/infrastructure/team/scalability/), and leading the team that consists of [Site Reliability Engineers](/job-families/engineering/infrastructure/site-reliability-engineer/) and [Backend Engineers](/job-families/engineering/backend-engineer/).
+The Manager is responsible for ensuring, and evolving the team mandate described in the [team handbook](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/), and leading the team that consists of [Site Reliability Engineers](/job-families/engineering/infrastructure/site-reliability-engineer/) and [Backend Engineers](/job-families/engineering/backend-engineer/).
 
 In addition to the same requirements, responsibilities, and performance indicators defined above for the Manager, Infrastructure, Scalability specialty requires:
 
@@ -90,7 +90,7 @@ In addition to the same requirements, responsibilities, and performance indicato
 
 ### Manager, Infrastructure (Switchboard)
 
-The Manager, Infrastructure (Switchboard) leads [a Fullstack team](/handbook/engineering/starting-new-teams/#fullstack-teams) responsible for the GitLab Dedicated customer-facing control panel referred to as "Switchboard".
+The Manager, Infrastructure (Switchboard) leads [a Fullstack team](https://about.gitlab.com/handbook/engineering/starting-new-teams/#fullstack-teams) responsible for the GitLab Dedicated customer-facing control panel referred to as "Switchboard".
 
 The team consists of [Backend Engineers](/job-families/engineering/backend-engineer/) and [Frontend Engineers](/job-families/engineering/development/frontend/).
 
@@ -131,14 +131,14 @@ They are capable of managing multiple teams within a specialty, and their projec
 
 #### Senior Engineering Manager, Infrastructure (Platform) Job Grade
 
-The Senior Engineering Manager, Infrastructure is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Engineering Manager, Infrastructure is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
 - Manage the Delivery and Scalability Infrastructure teams
 - Conduct managerial interviews for candidates, and train engineering managers to do said interviews
 - Generate and implement process improvements, especially cross-team processes
-- Hold regular [1:1s](/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
+- Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
 - Management mentorship
 
 
@@ -162,8 +162,8 @@ The Senior Engineering Manager, Infrastructure is a [grade 9](/handbook/total-re
 - Experience working with global teams
 - We value [diversity, inclusion and belonging](https://about.gitlab.com/company/culture/inclusion/) for all team members
 - Be inquisitive: Ask great question
-- Hire and manage multiple teams that live our [values](/handbook/values/)
-- Maintain an environment where Team Members can thrive and the team produces [Results](/handbook/values/#results)
+- Hire and manage multiple teams that live our [values](https://about.gitlab.com/handbook/values/)
+- Maintain an environment where Team Members can thrive and the team produces [Results](https://about.gitlab.com/handbook/values/#results)
 
 ### Director, Infrastructure (Reliability)
 
@@ -171,7 +171,7 @@ The Director, Infrastructure (Reliability) manages the Engineering Reliability t
 
 #### Director, Infrastructure (Reliability) Job Grade
 
-The Director, Infrastructure is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Infrastructure is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Infrastructure (Reliability) Responsibilities
 
@@ -210,7 +210,7 @@ The Senior Director, Infrastructure leads one or more compartments within Infras
 
 #### Senior Director, Infrastructure Job Grade
 
-The Senior Director, Infrastructure is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Infrastructure is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Infrastructure Responsibilities
 
@@ -244,12 +244,12 @@ The VP of Infrastructure manages multiple teams that work on GitLab.com and cont
 
 #### VP of Infrastructure Job Grade
 
-The VP of Infrastructure is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Infrastructure is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP of Infrastructure Responsibilities
 
-- Hire and manage multiple infrastructure teams that live our [values](/handbook/values/)
-- Maintain an environment where Team Members can thrive and the team produces [Results](/handbook/values/#results)
+- Hire and manage multiple infrastructure teams that live our [values](https://about.gitlab.com/handbook/values/)
+- Maintain an environment where Team Members can thrive and the team produces [Results](https://about.gitlab.com/handbook/values/#results)
 - Define the agile development and continuous delivery process
 - Drive quarterly OKRs
 - Work across departments within engineering
@@ -282,8 +282,8 @@ The VP of Infrastructure is a [grade 12](/handbook/total-rewards/compensation/co
 
 #### VP of Infrastructure Performance Indicators
 
-The VP Infrastructure, is responsible for ensuring [Infrastructure Performance Indicators](/handbook/engineering/infrastructure/performance-indicators).
+The VP Infrastructure, is responsible for ensuring [Infrastructure Performance Indicators](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators).
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.

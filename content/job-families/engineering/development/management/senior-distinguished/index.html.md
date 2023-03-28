@@ -9,7 +9,7 @@ Senior Distinguished Engineers are recognized experts in multiple technology dom
 
 ## Job Grade
 
-The Senior Distinguished Engineer is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Distinguished Engineer is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Requirements
 
@@ -29,4 +29,4 @@ Share our values, and work in accordance with those values.
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.

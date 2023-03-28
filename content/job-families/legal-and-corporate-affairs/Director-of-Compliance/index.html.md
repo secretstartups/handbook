@@ -8,7 +8,7 @@ The Director of Compliance reports to the [Senior Director of Legal, Corporate](
 
 ### Director of Compliance: Job Grade
 
-The Director of Compliance is a [Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of Compliance is a [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Director of Compliance: Responsibilities
 
@@ -53,4 +53,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule interviews with directors and/or executives in relevant functional areas
 - Finally, candidates may be required to meet with the CEO.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

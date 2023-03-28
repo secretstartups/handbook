@@ -16,8 +16,8 @@ The Frontend Engineering Manager specializes in Frontend Engineering Management 
 - Get involved in solving bugs and delivering small features
 - Foster technical decision making on the team, and make final decisions when necessary
 - Discern engineering metrics and seek to improve them
-- May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/starting-new-teams/#team-construction) concept
-- Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
+- May have more than one specialty on their team, per our [shared manager team](https://about.gitlab.com/handbook/engineering/starting-new-teams/#team-construction) concept
+- Participate in the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 
 ## Requirements
@@ -29,7 +29,7 @@ The Frontend Engineering Manager specializes in Frontend Engineering Management 
 - You have an expert comprehension of core web and browser concepts (eg. how does JavaScript handle asynchronous code)
 - You have in-depth experience with CSS, HTML, and JavaScript
 - You have excellent written and verbal communication skills
-- Our [values](/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you
+- Our [values](https://about.gitlab.com/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you
 - Ability to use GitLab
 
 ## Nice-to-haves
@@ -48,30 +48,30 @@ The Frontend Engineering Manager specializes in Frontend Engineering Management 
 
 ## Job Grade
 
-The Frontend Engineering Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Frontend Engineering Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Performance Indicators
 
 Frontend Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
 
-- [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
-- [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
-- [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
-- [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
-- [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
-- [Diversity](/handbook/engineering/performance-indicators/#diversity)
-- [Handbook Update Frequency](/handbook/engineering/performance-indicators/#handbook-update-frequency)
-- [Team Member Retention](/handbook/engineering/performance-indicators/#team-member-retention)
+- [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
+- [Open MR Age (OMA)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
+- [Response to Community SLO](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#response-to-community-slo)
+- [Hiring Actual vs. Plan](https://about.gitlab.com/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
+- [Development Department merge request rate](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
+- [Diversity](https://about.gitlab.com/handbook/engineering/performance-indicators/#diversity)
+- [Handbook Update Frequency](https://about.gitlab.com/handbook/engineering/performance-indicators/#handbook-update-frequency)
+- [Team Member Retention](https://about.gitlab.com/handbook/engineering/performance-indicators/#team-member-retention)
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Selected candidates will be invited to a 30 minute [screening call](/handbook/hiring/#screening-call) with our Technical Recruiters
+- Selected candidates will be invited to a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Technical Recruiters
 - Next, candidates will be invited to a 60 minute interview with the Hiring Manager.
 - Candidates will then be invited to a 50 minute peer interview with another Frontend Engineering Manager
 - Candidates will then be invited to a 50 minute direct report interview
 - Candidates will then be invited to a 60 minute interview with the [Skip-Level Manager](https://about.gitlab.com/job-families/engineering/development/management/).
 - Successful candidates will subsequently be made an offer
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

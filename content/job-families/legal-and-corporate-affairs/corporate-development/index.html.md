@@ -13,7 +13,7 @@ deal flow.
 
 #### Job Grade
 
-The Analyst, Corporate Development is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Analyst, Corporate Development is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -39,7 +39,7 @@ The Analyst, Corporate Development is a [grade 6](/handbook/total-rewards/compen
 - Excellent verbal and written communication skills
 - Familiarity with the DevOps space
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 
 ### Corporate Development Manager
@@ -48,7 +48,7 @@ As a Corporate Development Manager, you will be responsible for identifying, sou
 
 #### Job Grade
 
-The Corporate Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Corporate Development Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Prospecting:
 - Develop relationships with tech incubators, investors, and other sources of acquisition targets
@@ -77,7 +77,7 @@ Collaboration:
 - Ability to formulate business opportunities thoroughly, propose sound business cases and line up the decisions at hand in order to drive progress
 - Preferred requirements:
   - Familiarity with the DevOps, Cyber and open-source spaces
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 
 ### Senior Corporate Development Manager
@@ -86,7 +86,7 @@ As a Senior Corporate Development Manager, you will be owning the acquisition pr
 
 #### Job Grade
 
-The Senior Corporate Development Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Corporate Development Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -119,7 +119,7 @@ Collaboration:
 - Ability to formulate business opportunities thoroughly, propose sound business cases and line up the decisions at hand in order to drive progress
 - Preferred requirements:
   - Familiarity with the DevOps, Cyber and open-source spaces
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 
 ## Coporate Development
@@ -127,11 +127,11 @@ Collaboration:
 ### Director, Corporate Development
 
 As a Director, Corporate Development, you will be responsible for sourcing,
-negotiating, and closing [acquisitions](/handbook/acquisitions/).
+negotiating, and closing [acquisitions](https://about.gitlab.com/handbook/acquisitions/).
 
 #### Job Grade
 
-The Director, Corporate Development is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Corporate Development is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -157,22 +157,22 @@ The Director, Corporate Development is a [grade 10](/handbook/total-rewards/comp
 - Demonstrated analytical and data led decision-making
 - Self-starter and team player with ability to achieve or exceed their objectives while working in concert with others
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 #### Performance Indicators
 
-- [Acquisition velocity](/handbook/product/performance-indicators/)
-- [Acquisition success](/handbook/product/performance-indicators/)
-- [Qualified acquisition targets](/handbook/product/performance-indicators/)
+- [Acquisition velocity](https://about.gitlab.com/handbook/product/performance-indicators/)
+- [Acquisition success](https://about.gitlab.com/handbook/product/performance-indicators/)
+- [Qualified acquisition targets](https://about.gitlab.com/handbook/product/performance-indicators/)
 
 ### Senior Director of Corporate Development
 
 As the Senior Director of Corporate Development, you will be responsible for
-building the team to source, negotiate, and close [acquisitions](/handbook/acquisitions/).
+building the team to source, negotiate, and close [acquisitions](https://about.gitlab.com/handbook/acquisitions/).
 
 #### Job Grade
 
-The Senior Director of Corporate Development is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director of Corporate Development is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -204,13 +204,13 @@ The Senior Director of Corporate Development is a [grade 11](/handbook/total-rew
 - Demonstrated analytical and data led decision-making
 - Self-starter and team player with ability to achieve or exceed their objectives while working in concert with others
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 #### Performance Indicators
 
-- [Acquisition velocity](/handbook/product/performance-indicators/)
-- [Acquisition success](/handbook/product/performance-indicators/)
-- [Qualified acquisition targets](/handbook/product/performance-indicators/)
+- [Acquisition velocity](https://about.gitlab.com/handbook/product/performance-indicators/)
+- [Acquisition success](https://about.gitlab.com/handbook/product/performance-indicators/)
+- [Qualified acquisition targets](https://about.gitlab.com/handbook/product/performance-indicators/)
 
 ## Career Ladder
 
@@ -227,6 +227,6 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates may be invited to schedule an interview with the Chief Legal Officer (as applicable).
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 

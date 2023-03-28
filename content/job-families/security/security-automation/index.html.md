@@ -5,7 +5,7 @@ description: "Learn more about GitLab Security Automation roles, requirements, l
 extra_js:
 - libs/mermaid.min.js
 ---
-For members of GitLab's [Security Automation sub department](/handbook/security/security-engineering/automation/), it is the goal of [Security Engineering](/handbook/security/security-engineering/) through leveraging of diverse technologies and an automation first approach, to strive towards improving the efficiency, effectiveness, and accuracy within GitLab's Information Security program with a focus on cost savings. Examples include the creation of automated security issue triage and management solutions, automating handling of repetitive tasks, and defining re-usable security automation architectures. Additionally, the Security Automation team assist other security specialty teams with automation efforts they are leading and developing through the assessment of automation tools, and integration tools and technologies to support automation efforts as needed.
+For members of GitLab's [Security Automation sub department](https://about.gitlab.com/handbook/security/security-engineering/automation/), it is the goal of [Security Engineering](https://about.gitlab.com/handbook/security/security-engineering/) through leveraging of diverse technologies and an automation first approach, to strive towards improving the efficiency, effectiveness, and accuracy within GitLab's Information Security program with a focus on cost savings. Examples include the creation of automated security issue triage and management solutions, automating handling of repetitive tasks, and defining re-usable security automation architectures. Additionally, the Security Automation team assist other security specialty teams with automation efforts they are leading and developing through the assessment of automation tools, and integration tools and technologies to support automation efforts as needed.
 
 ## Responsibilities
 - Design, engineer, deploy, and maintain custom automation products
@@ -35,7 +35,7 @@ This position reports to the [Security Automation Manager](#security-automation-
 
 #### Job Grade
 
-The {Security Engineer, Automation} is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Security Engineer, Automation} is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 - Assist with the design, engineering, deployment, and maintenance of custom automation products
@@ -59,7 +59,7 @@ This position reports to the [Security Automation Manager](#security-automation-
 
 #### Job Grade
 
-The {Senior Security Engineer, Automation} is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Senior Security Engineer, Automation} is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 - Design, engineer, deploy, and maintain custom automation products
@@ -84,7 +84,7 @@ This position reports to the [Security Automation Manager](#security-automation-
 
 #### Job Grade
 
-The {Staff Security Engineer, Automation} is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Staff Security Engineer, Automation} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 - The responsibilities of a Senior Security Engineer, Automation, plus;
@@ -108,7 +108,7 @@ This position reports to the [Security Engineering Director](/job-families/secur
 
 #### Job Grade
 
-The {Distinguished Security Engineer, Automation} is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Distinguished Security Engineer, Automation} is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 - The responsibilities of a Staff Security Engineer, Automation, plus;
@@ -133,7 +133,7 @@ This position reports to the [Security Engineering Director](/job-families/secur
 
 #### Job Grade
 
-The {Security Automation Manager} is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Security Automation Manager} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 - Hire and oversee a world class team of security automation engineers
@@ -174,7 +174,7 @@ This position reports to the [Security Engineering Director](/job-families/secur
 
 #### Job Grade
 
-The {Security Automation Senior Manager} is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Security Automation Senior Manager} is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 - The same responsibilities of a Security Automation Manager, plus the below:
@@ -209,9 +209,9 @@ For details on the Security organization leadership roles, to include the Securi
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50-minute interviews with the hiring manager,
 - Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security orgnaization,
 - Finally, candidates will be invited to schedule a 25-minute interview with the Director of Security Engineering.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

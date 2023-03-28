@@ -61,11 +61,11 @@ You see distributed systems as a core challenge of good test automation infrastr
 
 #### Job Grade
 
-The Software Engineer in Test is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Software Engineer in Test is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
-The Software Engineer in Test responsibilities have been documented under [Intermediate Technical Competencies](/handbook/engineering/career-development/matrix/engineering/quality/software-engineer-in-test/intermediate/#quality) in our Career development page.
+The Software Engineer in Test responsibilities have been documented under [Intermediate Technical Competencies](https://about.gitlab.com/handbook/engineering/career-development/matrix/engineering/quality/software-engineer-in-test/intermediate/#quality) in our Career development page.
 
 ### Senior
 
@@ -73,11 +73,11 @@ The Software Engineer in Test responsibilities have been documented under [Inter
 
 #### Job Grade
 
-The Senior Software Engineer in Test is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Software Engineer in Test is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
-The Senior Software Engineer in Test responsibilities have been documented under [Senior Technical Competencies](/handbook/engineering/career-development/matrix/engineering/quality/software-engineer-in-test/senior/#quality-1) in our Career development page.
+The Senior Software Engineer in Test responsibilities have been documented under [Senior Technical Competencies](https://about.gitlab.com/handbook/engineering/career-development/matrix/engineering/quality/software-engineer-in-test/senior/#quality-1) in our Career development page.
 
 ### Staff
 
@@ -85,11 +85,11 @@ The Senior Software Engineer in Test responsibilities have been documented under
 
 #### Job Grade
 
-The Staff Software Engineer in Test is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Software Engineer in Test is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
-The Staff Software Engineer in Test responsibilities have been documented under [Staff Technical Competencies](/handbook/engineering/career-development/matrix/engineering/quality/software-engineer-in-test/staff/#quality) in our Career development page.
+The Staff Software Engineer in Test responsibilities have been documented under [Staff Technical Competencies](https://about.gitlab.com/handbook/engineering/career-development/matrix/engineering/quality/software-engineer-in-test/staff/#quality) in our Career development page.
 
 ## Career Ladder
 
@@ -99,10 +99,10 @@ The next step for both individual contributors and managers of people is to move
 
 Software Engineers in Test have the following job-family performance indicators.
 
-- [Average CE/EE master end-to-end test suite execution duration per month](/handbook/engineering/quality/performance-indicators/#average-ce-ee-master-end-to-end-test-suite-execution-duration-per-month)
-- [Ratio of quarantine vs total end-to-end tests in master per month](/handbook/engineering/quality/performance-indicators/#ratio-of-quarantine-vs-total-end-to-end-tests-in-master-per-month)
-- [Successful vs failed CE/EE master pipelines per month](/handbook/engineering/quality/performance-indicators/#successful-vs-failed-ce-ee-master-pipelines-per-month)
-- [New issue first triage SLO](/handbook/engineering/quality/performance-indicators/#new-issue-first-triage-slo)
+- [Average CE/EE master end-to-end test suite execution duration per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#average-ce-ee-master-end-to-end-test-suite-execution-duration-per-month)
+- [Ratio of quarantine vs total end-to-end tests in master per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#ratio-of-quarantine-vs-total-end-to-end-tests-in-master-per-month)
+- [Successful vs failed CE/EE master pipelines per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#successful-vs-failed-ce-ee-master-pipelines-per-month)
+- [New issue first triage SLO](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#new-issue-first-triage-slo)
 
 ## Hiring Process
 
@@ -120,4 +120,4 @@ To learn more about someone who may be conducting the interview, find their job 
 - Finally, candidates will be invited to schedule a 45 minute interview with the Head of Quality.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).

@@ -46,7 +46,7 @@ The Contributor Success Engineering Manager manages a team of full-stack enginee
 
 #### Manager, Contributor Success Job Grade
 
-The Contributor Success Engineering Manager  is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Contributor Success Engineering Manager  is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Contributor Success Responsibilities
 
@@ -72,7 +72,7 @@ This is a future level where we will outline the requirements and responsibiliti
 
 #### Senior Manager, Contributor Success Job Grade
 
-The Senior Manager, Contributor Success  is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Contributor Success  is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Contributor Success Responsibilities
 
@@ -87,7 +87,7 @@ The Senior Manager, Contributor Success role extends the [Manager, Contributor S
 
 #### Director, Contributor Success Job Grade
 
-The Director, Contributor Success  is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Contributor Success  is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Contributor Success Responsibilities
 
@@ -127,10 +127,10 @@ The Director, Contributor Success role extends the [Senior Manager, Contributor 
 - Humble, servant leader.
 
 ### Performance Indicators
-- [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)
-- [Open Community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age-ocma)
-- [Community MR Coaches per Month](/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)
-- [Unique Wider Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
+- [MRARR](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#mrarr)
+- [Open Community MR Age (OCMA)](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#open-community-mr-age-ocma)
+- [Community MR Coaches per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)
+- [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
 
 
 ## Hiring Process
@@ -138,11 +138,11 @@ The Director, Contributor Success role extends the [Senior Manager, Contributor 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 - Selected candidates will be invited to fill out a short questionnaire.
-- Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
+- Next, candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the hiring manager, currently the VP of Quality
 - Next, candidates will be invited to schedule a second interview peer Engineering Manager in the Quality Department.
 - Next, Candidates will be invited to schedule a third interview with a Fullstack Contributor Success Engineer.
 - Next, candidates will be invited to schedule a forth interview with an Engineering Productivity Engineer.
 - Finally, candidates will be asked to interview with the CTO.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)

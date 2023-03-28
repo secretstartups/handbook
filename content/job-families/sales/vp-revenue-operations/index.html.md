@@ -9,7 +9,7 @@ The Vice President, Revenue Operations reports to the VP, Field Operations.
 
 #### Vice President, Revenue Operations Job Grade
 
-The Vice President, Revenue Operations is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President, Revenue Operations is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Vice President, Revenue Operations Responsibilities
 - Drive effective revenue operational management for the VP of Field Operations
@@ -39,7 +39,7 @@ The Vice President, Revenue Operations is a [grade 12](/handbook/total-rewards/c
 - Ability to work independently with a high degree of accountability, while also able to collaborate cross-functionally with exceptional intrapersonal skills Proven ability to thrive in a fluid, fast-paced, unpredictable environment.
 - Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values.
 - Ability to use GitLab
-- Aligns with GitLab [Values](/handbook/values/)
+- Aligns with GitLab [Values](https://about.gitlab.com/handbook/values/)
 
 ## Performance Indicators
 
@@ -51,10 +51,10 @@ The next steps for the Title job family has not yet been defined.
 
 ## Hiring Process
 - Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, qualified candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, qualified candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview for qualified candidates
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 

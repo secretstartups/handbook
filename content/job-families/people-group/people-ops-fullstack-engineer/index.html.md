@@ -138,11 +138,11 @@ WIP (and pulling inspiration from: https://gitlab.com/gitlab-com/www-gitlab-com/
 
 ## Performance Indicators
 
-- [Narrow MR Rate](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-narrow-mr-rate)
-- [Overall Handbook Update Frequency Rate](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-overall-handbook-update-frequency-rate)
-- [Bug to first action](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-bug-to-first-action)
-- [Workscope done within a milestone](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-workscope-done-within-a-milestone)
-- [New requests are triaged](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-new-requests-are-triaged)
+- [Narrow MR Rate](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-narrow-mr-rate)
+- [Overall Handbook Update Frequency Rate](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-overall-handbook-update-frequency-rate)
+- [Bug to first action](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-bug-to-first-action)
+- [Workscope done within a milestone](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-workscope-done-within-a-milestone)
+- [New requests are triaged](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-new-requests-are-triaged)
 
 ## Career Ladder
 

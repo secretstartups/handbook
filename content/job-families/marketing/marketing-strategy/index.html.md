@@ -13,7 +13,7 @@ The Manager, Marketing Performance reports to the Director, Marketing Strategy a
 
 #### Manager, Marketing Performance Job Grade
 
-The Manager, Marketing Performance is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Marketing Performance is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Marketing Performance Responsibilities
 
@@ -48,7 +48,7 @@ The Director, Marketing Strategy reports to [the Chief Marketing Officer](https:
 
 #### Director, Marketing Strategy Job Grade
 
-The Director, Marketing Strategy is a [grade #10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Marketing Strategy is a [grade #10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Marketing StrategyResponsibilities
 
@@ -91,10 +91,10 @@ The next step in the Marketing Strategy job family beyond director is not yet de
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to speak with the VP of Revenue Marketing.
 - Next, candidates will be invited to speak with the People Business Partner for Marketing.
 - Finally, candidates will be invited to interview with the Chief Marketing Officer.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

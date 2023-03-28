@@ -7,7 +7,7 @@ title: "Accounting"
 
 ### Job Grade
 
-The Accountant is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Accountant is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -26,7 +26,7 @@ The Accountant is a [grade 6](/handbook/total-rewards/compensation/compensation-
 - Proficient with Excel and Google Sheets
 - International experience is a plus
 - Self-starter with the ability to work remotely and independently and interact with various teams when needed.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 
 - Ability to use GitLab
 
@@ -34,7 +34,7 @@ The Accountant is a [grade 6](/handbook/total-rewards/compensation/compensation-
 
 ### Job Grade
 
-The Senior Accountant is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Accountant is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -64,7 +64,7 @@ The Senior Accountant is a [grade 7](/handbook/total-rewards/compensation/compen
 - Experience working with international subsidiaries, including statutory reporting requirements, strongly preferred
 - Flexible to meet changing priorities and the ability to prioritize workload to achieve on time accurate results
 - Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 
 
 ## Manager, Accounting
@@ -96,7 +96,7 @@ The Manager, Accounting is a [grade 8](https://about.gitlab.com/handbook/total-r
 - International experience preferred.
 - Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision
 - Proficiency with GitLab
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
@@ -104,7 +104,7 @@ The Manager, Accounting is a [grade 8](https://about.gitlab.com/handbook/total-r
 
 ### Job Grade
 
-The Senior Manager, Accounting is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Accounting is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -123,9 +123,9 @@ The next step in the Accounting job family is to move to the [Controller](/job-f
 
 ## Performance Indicators
 
-- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
-- [Percentage of ineffective Sox Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Percentage of ineffective Sox Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Hiring Process
 
@@ -137,7 +137,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be asked to interview with the CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
 
 ## Specialties
 
@@ -181,6 +181,7 @@ TODO
 - Knowledge of GAAP principles
 
 #### Performance Indicators
+
 - [Effective Tax Rate](https://about.gitlab.com/handbook/tax/performance-indicators/#effective-tax-rate-etr)
 - [Budget vs. Actual](https://about.gitlab.com/handbook/tax/performance-indicators/#budget-vs-actual)
 - [Audit Adjustments](https://about.gitlab.com/handbook/tax/performance-indicators/#audit-adjustments)
@@ -188,11 +189,11 @@ TODO
 #### Hiring Process
 
 Candidates for the Tax Accountant position can expect the hiring process to follow the order below:
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to attend a 45 minute interview with Director of Tax
 - Candidates will then be invited to attend a 30 minute interview with our Corporate Controller
 - Candidates will then be inbited to attend a 30 minute interview with Sr. External Accounting & Reporting Manager
 - At final stage, candidates will be invited to a 30 minute interview with our Principle Accounting Officer
 
 Please note that a candidate may be declined from the position at any stage of the process.
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

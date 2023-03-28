@@ -9,7 +9,7 @@ The Solutions Architect helps drive value and change with software development f
 
 This role provides technical guidance and support throughout the entire sales cycle. Solution Architects can help shape and execute a strategy to build mindshare and broad use of the GitLab platform with customers by becoming the trusted advisor. The ideal candidate must be self-motivated with a proven track record in software/technology sales or consulting. Proficiency in connecting technology solutions to measurable business value is critical to a Solutions Architect. Candidates should also have a demonstrated skill to think strategically about business, products, and technical problems.
 
-To learn more, see the [Solutions Architect handbook](/handbook/customer-success/solutions-architects)
+To learn more, see the [Solutions Architect handbook](https://about.gitlab.com/handbook/customer-success/solutions-architects)
 
 ## Levels
 
@@ -27,7 +27,7 @@ The Assocate Solutions Architect reports to the Manager, Solutions Architect.
 
 #### Associate Solutions Architect Job Grade
 
-The Associate Solutions Architect is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Associate Solutions Architect is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Associate Solutions Architect Responsibilities & Requirements
 
@@ -39,7 +39,7 @@ The Solutions Architect reports to the Manager, Solutions Architect.
 
 #### Solutions Architect Job Grade
 
-The Solutions Architect is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Solutions Architect is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Solutions Architect Responsibilities
 
@@ -71,7 +71,7 @@ The Senior Solutions Architect reports to the Manager, Solutions Architect.
 
 #### Senior Solutions Architect Job Grade
 
-The Senior Solutions Architect is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Solutions Architect is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Solutions Architect Responsibilities
 
@@ -100,7 +100,7 @@ The Staff Solutions Architect reports to the Manager, Solutions Architect.
 
 #### Staff Solutions Architect Job Grade
 
-The Staff Solutions Architect is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Staff Solutions Architect is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Staff Solutions Architect Responsibilities
 
@@ -123,7 +123,7 @@ The Principal Solutions Architect reports to the Manager, Solutions Architect.
 
 #### Principal Solutions Architect Job Grade
 
-The Principal Solutions Architect is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Principal Solutions Architect is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Principal Solutions Architect Responsibilities
 
@@ -150,7 +150,7 @@ The Manager, Solutions Architects reports to the Director, Solutions Architect.
 
 #### Manager, Solutions Architects Job Grade
 
-The Manager, Solutions Architects is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Manager, Solutions Architects is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Manager, Solutions Architects Responsibilities
 
@@ -176,7 +176,7 @@ The Senior Manager, Solutions Architects reports to the Director, Solutions Arch
 
 #### Senior Manager, Solutions Architects Job Grade
 
-The Senior Manager, Solutions Architects is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Manager, Solutions Architects is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Manager, Solutions Architects Responsibilities
 
@@ -197,7 +197,7 @@ The Director, Solutions Architects reports to the VP, Customer Success.
 
 #### Director, Solutions Architects Job Grade
 
-The Director, Solutions Architects is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Director, Solutions Architects is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Director, Solutions Architects Responsibilities
 
@@ -230,7 +230,7 @@ The Senior Director, Solutions Architects reports to the VP, Customer Success.
 
 #### Senior Director, Solutions Architects Job Grade
 
-The Senior Director, Solutions Architects is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Director, Solutions Architects is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Director, Solutions Architects Responsibilities
 
@@ -492,7 +492,7 @@ Candidates can expect the hiring process to follow the order below. Please keep 
 
 ### Individual Contributor Hiring Process:
 
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the SA team Manager.
 - Candidates may be invited to schedule an interview with a Solutions Architect peer or other SA team Manager.
 - Then, candidates will be required to deliver a demo of GitLab to a panel of Customer Success attendees using the [Demo Guide](https://gitlab-com.gitlab.io/customer-success/solutions-architecture/sa-candidate-experience/panel_instructions/).
@@ -501,13 +501,13 @@ Candidates can expect the hiring process to follow the order below. Please keep 
 
 ### Management Hiring Process:
 
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with a Customer Success VP or Director.
 - Candidate will then schedule an interview with an SA management peer.
 - Then, candidates will present a business plan to include 30/60/90 day approach, outcomes, and metrics.
 - Candidates may be invited to additional interviews.
 - Successful candidates will be made an offer after references are verified.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
 
 ---

@@ -9,7 +9,7 @@ title: "Professional Services Practice Manager"
 
 #### Professional Services Practice Manager Job Grade
 
-The Professional Services Practice Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Professional Services Practice Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Professional Services Practice Manager Responsibilities
 
@@ -118,7 +118,7 @@ The Manager, Professional Services Practice Management reports into the Senior D
 
 #### Manager, Professional Services Practice Management Job Grade
 
-The Manager, Professional Services Practice Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Professional Services Practice Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Professional Services Practice Management Responsibilities
 
@@ -155,7 +155,7 @@ The Senior Manager, Professional Services Practice Management reports into the S
 
 #### Senior Manager, Professional Services Practice Management Job Grade
 
-The Senior Manager, Professional Services Practice Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Professional Services Practice Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Professional Services Practice Management Responsibilities
 
@@ -244,8 +244,8 @@ The Senior Manager, Professional Services Practice Management is a [grade 9](/ha
 
 #### Performance Indicators
 
-- [Bookings attached rate per agreed plan](/handbook/sales/#pcv)
-- [Services bookings and revenue per agreed plan](/handbook/sales/#pcv)
+- [Bookings attached rate per agreed plan](https://about.gitlab.com/handbook/sales/#pcv)
+- [Services bookings and revenue per agreed plan](https://about.gitlab.com/handbook/sales/#pcv)
 
 ### Career Ladder
 
@@ -259,4 +259,4 @@ Candidates for this position can expect the hiring process to follow the order b
 2. Video Interview with the Hiring Manager
 3. Team Interviews with 1-4 team members
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

@@ -17,7 +17,7 @@ They own the delivery of test automation tools and strategy and coordinate acros
 
 ### Job Grade
 
-The Manager, Quality Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Quality Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Help define the team's road map and author project plans to deliver against that roadmap.
@@ -46,7 +46,7 @@ The Manager, Quality Engineering is a [grade 8](/handbook/total-rewards/compensa
 - Demonstrate longevity at at least one recent job.
 - Ability to be successful managing at a remote-only company.
 - Humble, servant leader.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
  - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab.
 
@@ -71,7 +71,7 @@ Please keep in mind that candidates can be declined from the position at any sta
 As a result an interview can be canceled at any time even if the interviews are very close (e.g. a few hours apart).
 
 - A short questionnaire from our Recruiting team
-- 30 minute [Screening call](/handbook/hiring/#screening-call) with a recruiter
+- 30 minute [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter
 - 1 hour interview with the hiring manager
 - 1 hour technical Interview with a Software Engineer in Test
 - 1 hour direct report interview with two Software Engineers in Test
@@ -84,7 +84,7 @@ The Senior Manager, Quality Engineering role extends the [Manager, Quality Engin
 
 ### Job Grade
 
-The Senior Manager, Quality Engineering is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Quality Engineering is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Manage up to 4 Quality Engineering teams.
@@ -104,7 +104,7 @@ The Senior Manager, Quality Engineering is a [grade 9](/handbook/total-rewards/c
 - Ability to understand, communicate, and improve the quality of multiple teams.
 - Proven track record of successful career development of direct reports.
 - Ability to influence quality across an organization by converting peers outside of QE into champions of quality.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 
 ### Nice-to-have Requirements
 - Experience managing managers.
@@ -116,7 +116,7 @@ Please keep in mind that candidates can be declined from the position at any sta
 As a result an interview can be canceled at any time even if the interviews are very close (e.g. a few hours apart).
 
 - A short questionnaire from our Recruiting team
-- 30 minute [Screening call](/handbook/hiring/#screening-call) with a recruiter
+- 30 minute [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter
 - 1 hour interview with the hiring manager
 - 1 hour technical Interview with a Software Engineer in Test
 - 1 hour direct report interview with two Software Engineers in Test
@@ -129,7 +129,7 @@ The Director, Quality Engineering role extends the [Manager, Quality Engineering
 
 ### Job Grade
 
-The Director, Quality Engineering is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Quality Engineering is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -156,7 +156,7 @@ industry standard libraries (test tooling, orchestration, performance, and etc) 
 - Experience leading Quality focused SLA driven metrics across the Engineering organization (time to resolve bugs, time to merge code, and etc).
 - Experience presenting at conferences and meet-ups in the Quality Engineering space.
 - Proven track record of shipping multiple iterations of an Enterprise Product.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 
 ## VP of Quality
 
@@ -164,7 +164,7 @@ The VP of Quality role extends the [Director, Quality Engineering](#director-qua
 
 ### Job Grade
 
-The VP of Quality is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Quality is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -196,17 +196,17 @@ industry standard libraries (test tooling, orchestration, performance, and etc) 
 - Experience leading Quality focused SLA driven metrics across the Engineering organization (time to resolve bugs, time to merge code, and etc).
 - Experience presenting at conferences and meet-ups in the Quality Engineering space.
 - Proven track record of shipping multiple iterations of an Enterprise Product.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 
 ## Performance Indicators
 
 Quality Engineering Management has the following job-family performance indicators.
 
-- [Hiring actual vs plan](/handbook/engineering/quality/performance-indicators/#hiring-actual-vs-plan)
-- [Diversity](/handbook/engineering/quality/performance-indicators/#diversity)
-- [Handbook update frequency](/handbook/engineering/quality/performance-indicators/#handbook-update-frequency)
-- [Team member retention](/handbook/engineering/quality/performance-indicators/#team-member-retention)
+- [Hiring actual vs plan](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#hiring-actual-vs-plan)
+- [Diversity](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#diversity)
+- [Handbook update frequency](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#handbook-update-frequency)
+- [Team member retention](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#team-member-retention)
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.

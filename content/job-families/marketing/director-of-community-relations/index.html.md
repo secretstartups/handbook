@@ -13,7 +13,7 @@ As the Director, Community Relations, you will be responsible for managing and b
 
 ### Job Grade
 
-The Director, Community Relations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Community Relations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 
 ### Responsibilities

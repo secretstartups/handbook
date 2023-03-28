@@ -13,7 +13,7 @@ The Professional Services Engagement Manager (Intermediate) reports to the Sr. M
 
 #### Professional Services Engagement Manager (Intermediate) Job Grade
 
-The Professional Services Engagement Manager (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Professional Services Engagement Manager (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Professional Services Engagement Manager (Intermediate) Responsibilities
 
@@ -40,7 +40,7 @@ The Professional Services Engagement Manager (Intermediate) is a [grade 6](/hand
 - History of working in a consultative selling environment, where clients seek and value your opinions and see your advice as objective and unbiased
 - BA/BS or equivalent; MBA is a plus
 - * You share our values, and work in accordance with those values.
-- [Leadership at GitLab](/handbook/leadership/)
+- [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/)
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
@@ -50,7 +50,7 @@ The Senior Professional Services Engagement Manager reports to the Sr. Manager, 
 
 #### Senior Professional Services Engagement Manager Job Grade
 
-The Professional Services Engagement Manager (Senior) is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Professional Services Engagement Manager (Senior) is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Professional Services Engagement Manager Responsibilities
 
@@ -75,7 +75,7 @@ The Manager, Professional Services Engagement Management, reports to the Directo
 
 #### Manager, Professional Services Engagement Management Job Grade
 
-The Manager, Professional Services Engagement Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Professional Services Engagement Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Professional Services Engagement Management Responsibilities
 
@@ -106,7 +106,7 @@ The Senior Manager, Professional Services Engagement Management, reports to the 
 
 #### Senior Manager, Professional Services Engagement Management Job Grade
 
-The Senior Manager, Professional Services Engagement Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Professional Services Engagement Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Professional Services Engagement Management Responsibilities
 
@@ -136,7 +136,7 @@ The Senior Manager, Professional Services Engagement Management is a [grade 9](/
 
 The Director, Professional Services Engagement Management, reports to the Director, Professional Services Practice Management
 
-The Director, Professional Services Engagement Management is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Professional Services Engagement Management is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -162,8 +162,8 @@ The Director, Professional Services Engagement Management is a [grade 10](/handb
 
 ## Performance Indicators
 
-- [Bookings per agreed plan (75%)](/handbook/sales/#closed-deal---won)
-- [Revenue per agreed plan (25%)](/handbook/sales/#pcv)
+- [Bookings per agreed plan (75%)](https://about.gitlab.com/handbook/sales/#closed-deal---won)
+- [Revenue per agreed plan (25%)](https://about.gitlab.com/handbook/sales/#pcv)
 
 ## Career Ladder
 
@@ -177,4 +177,4 @@ Candidates for this position can expect the hiring process to follow the order b
 2. Video Interview with the Hiring Manager
 3. Professional Services pre-sales scoping presentation interview session with 1-4 Team Members
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

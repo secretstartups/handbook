@@ -5,7 +5,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Assurance sub department](/handbook/security/security-assurance/), the [Field Security team](/handbook/security/security-assurance/field-security/) serves as the public representation of GitLab's internal Security function. The team is tasked with providing high levels of security assurance to internal and external customers through customer support, sales enablement and security evangelism programs.
+As members of GitLab's [Security Assurance sub department](https://about.gitlab.com/handbook/security/security-assurance/), the [Field Security team](https://about.gitlab.com/handbook/security/security-assurance/field-security/) serves as the public representation of GitLab's internal Security function. The team is tasked with providing high levels of security assurance to internal and external customers through customer support, sales enablement and security evangelism programs.
 
 ## Responsibilities
 - Professionally handle communications with internal and external stakeholders
@@ -26,7 +26,7 @@ This position reports to the Manager, Governance and Field Security at GitLab.
 
 #### Field Security Engineer (Intermediate) Job Grade
 
-The Field Security Engineer is a [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Field Security Engineer is a [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Field Security Engineer (Intermediate) Responsibilities
 - Complete customer security assessments, questionnaires and sales enablement activities within pre defined SLA
@@ -51,7 +51,7 @@ This position reports to the Manager, Governance and Field Security at GitLab.
 
 #### Senior Field Security Engineer Job Grade
 
-The Senior Field Security Engineer is a [7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Field Security Engineer is a [7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Field Security Engineer Responsibilities
 - Extends the Field Security Engineer responsibilities
@@ -81,7 +81,7 @@ This position reports to the Manager, Governance Field Security at GitLab.
 
 #### Staff Field Security Engineer Job Grade
 
-The Staff Field Security Engineer is a [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Field Security Engineer is a [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Field Security Engineer Responsibilities
 - Extends the Senior Field Security Engineer responsibilities
@@ -107,7 +107,7 @@ This position reports to the Director, Security Assurance.
 
 #### Manager, Governance and Field Security Job Grade
 
-The {Manager, Governance and Field Security} is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Manager, Governance and Field Security} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Governance and Field Security Responsibilities
 - Hire and oversee a world class team of Security Governance and Field Security Engineers
@@ -132,7 +132,7 @@ This position reports to the Director, Security Assurance.
 
 #### Senior Manager, Governance and Field Security
 
-The {Senior Manager, Governance and Field Security} is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Senior Manager, Governance and Field Security} is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Governance and Field Security Responsibilities
 - The same responsibilities of a Manager, Governance and Field Security, plus the below:
@@ -174,9 +174,9 @@ For details on the Security organization leadership roles, to include the Securi
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50-minute interviews with the hiring manager,
 - Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security orgnanization,
 - Finally, candidates will be invited to schedule a 25-minute interview with the Director, Security Assurance.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

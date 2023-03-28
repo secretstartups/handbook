@@ -9,7 +9,7 @@ The Director of Partner Programs & Enablement helps manage and support the growt
 
 ### Job Grade
 
-The Director, Channel Programs & Enablement is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Channel Programs & Enablement is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -47,7 +47,7 @@ The Channel Program Manager will be responsible for the design, management & exe
 
 ### Job Grade
 
-The Senior Channel Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Channel Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 - Collaborate across Channels & Alliances teams to gather requirements for Programs
@@ -77,7 +77,7 @@ The Senior Director, Channel Programs & Enablement reports to the [VP of Global 
 
 ### Job Grade
 
-The Senior Director, Channel Programs & Enablement is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Channel Programs & Enablement is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -97,4 +97,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Phone screen with a GitLab Recruiting team member
 2. Video Interview with the Hiring Manager
 3. Team Interviews with 1-4 teammates
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

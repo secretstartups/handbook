@@ -11,14 +11,14 @@ The Data Engineer (Junior) reports to the [Manager, Data.](https://about.gitlab.
 
 ### Data Engineer Job Grade
 
-The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Data Engineer (Junior) is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Data Engineer (Junior) Requirements
 
 - Experience using Python, Java, or Scala for data processing (Python preferred)
 - Knowledge of and experience with data-related Python packages
 - Good understanding of SQL and analytical data warehouses
-- Share and work in accordance with [our values](/handbook/values/)
+- Share and work in accordance with [our values](https://about.gitlab.com/handbook/values/)
 - Constantly improve product quality, security, and performance
 - Desire to continually keep up with advancements in data engineering practices
 - Collaborate with team members to identify requirements, define successful outcomes, and deliver trusted results
@@ -28,7 +28,7 @@ The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/c
 
 ### Data Engineer (Junior) Responsibilities
 
-- Maintain our [data platform](/handbook/business-technology/data-team/platform/) with timely and quality data
+- Maintain our [data platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/) with timely and quality data
 - Build and maintain data pipelines from internal databases and SaaS applications
 - Create and maintain systems documentation
 - Write maintainable, performant code
@@ -36,7 +36,7 @@ The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/c
 - Plan and execute system expansion as needed to support the company's growth and analytic needs
 - Collaborate with [Analytics Engineers](https://about.gitlab.com/job-families/finance/analytics-engineer/) and [Data Analysts](https://about.gitlab.com/job-families/finance/data-analyst/) to drive efficiencies for their work
 - Collaborate with other functions to ensure data needs are addressed
-- This position is always [central](/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
+- This position is always [central](https://about.gitlab.com/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
 
 ## Data Engineer (Intermediate)
 
@@ -44,7 +44,7 @@ The Data Engineer (Intermediate) reports to the [Manager, Data.](https://about.g
 
 ### Data Engineer Job Grade
 
-The Data Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Data Engineer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Data Engineer (Intermediate) Requirements
 
@@ -56,7 +56,7 @@ The Data Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensa
 - Hands-on experience with data pipeline tools (Airflow, Luigi, Azkaban, dbt)
 - Strong data modeling skills and familiarity with the Kimball methodology.
 - Experience with Salesforce, Zuora, Zendesk and Marketo as data sources and consuming data from SaaS application APIs.
-- Share and work in accordance with [our values](/handbook/values/)
+- Share and work in accordance with [our values](https://about.gitlab.com/handbook/values/)
 - Constantly improve product quality, security, and performance
 - Desire to continually keep up with advancements in data engineering practices
 - Catch bugs and style issues in code reviews
@@ -73,7 +73,7 @@ The Data Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensa
 - Plan and execute system expansion as needed to support the company's growth and analytic needs
 - Collaborate with Data Analysts to drive efficiencies for their work
 - Collaborate with other functions to ensure data needs are addressed
-- This position is always [central](/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
+- This position is always [central](https://about.gitlab.com/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
 
 ## Senior Data Engineer
 
@@ -81,7 +81,7 @@ The Senior Data Engineer reports to the [Manager, Data.](https://about.gitlab.co
 
 ### Senior Data Engineer Job Grade
 
-The Senior Data Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Data Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Data Engineer Responsibilities
 
@@ -105,7 +105,7 @@ The Staff Data Engineer role extends the [Senior Data Engineer](#responsibilitie
 
 ### Job Grade
 
-The Staff Data Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Data Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Business Justification: The staff level requires deep technical and functional knowledge that contributes to the overall direction and impacts multiple teams, including working directly with external stakeholders. Market data outlines that a significant number of organizations have approximately 3-4 staff level individual contributors.
 
@@ -127,6 +127,7 @@ Business Justification: The staff level requires deep technical and functional k
 ### Senior Data Engineer Big Data
 
 #### Requirements
+
 - All requirements of a Senior Data Engineer
 - Expertise in designing and developing distributed data pipelines using big data technologies on large scale data sets demonstrated with years of proven experience.
 - Has experience with various streaming data concepts, such as Kafka.
@@ -136,6 +137,7 @@ Business Justification: The staff level requires deep technical and functional k
 ### Senior Data Security Engineer
 
 #### Responsibilities
+
 - All responsibilities of a Senior Data Engineer
 - Works together with the GitLab security department to keep our Data Platform secure from an internal- and external perspective
 - Establish policy and data security controls to protect data in our Data Platform
@@ -143,6 +145,7 @@ Business Justification: The staff level requires deep technical and functional k
 - Assess security effectiveness of our Data Platform
 
 #### Requirements
+
 - All requirements of a Senior Data Engineer
 - Self starter on data security initiatives
 - Has good understanding of data security principles
@@ -150,11 +153,11 @@ Business Justification: The staff level requires deep technical and functional k
 
 ## Performance Indicators (PI)
 
-- [SLO achievement per data source](/handbook/business-technology/metrics/#slo-achievement-per-data-source)
-- [Infrastructure Cost vs Plan](/handbook/business-technology/metrics/#infrastructure-cost-vs-plan)
-- [Number of days since last environment audit](/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
-- [Mean Time between Failures (MTBF)](/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
-- [Mean Time to Repair (MTTR)](/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
+- [SLO achievement per data source](https://about.gitlab.com/handbook/business-technology/metrics/#slo-achievement-per-data-source)
+- [Infrastructure Cost vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#infrastructure-cost-vs-plan)
+- [Number of days since last environment audit](https://about.gitlab.com/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
+- [Mean Time between Failures (MTBF)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
+- [Mean Time to Repair (MTTR)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
 
 ### Career Ladder
 
@@ -164,13 +167,13 @@ The next step in the Data Engineer job family is to move to the [Data Management
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team).
 
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters
 - Next candidates will be invited to complete an assessment
 - On successful completion of the assessment, candidates will then be invited to schedule a first interview with the Hiring Manager
 - Candidates will then be invited to schedule two separate interviews with two  Peers from the Data team
 - Final stage will be with our Senior Director of Data.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ### Career Ladder
 

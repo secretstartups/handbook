@@ -3,9 +3,10 @@ layout: job_family_page
 title: Instructional Designer
 ---
 
-The Learning & Development Instructional Designer is responsible for designing and developing learning practices and experiences for GitLab’s People Group Learning & Development team. This is achieved by enhancing synchronous and asynchronous learning for GitLab team members and the wider community. The goal of this job family is to help audiences achieve their desired learning outcomes by developing new, engaging, and effective learning solutions and instructional experiences.  
+The Learning & Development Instructional Designer is responsible for designing and developing learning practices and experiences for GitLab’s People Group Learning & Development team. This is achieved by enhancing synchronous and asynchronous learning for GitLab team members and the wider community. The goal of this job family is to help audiences achieve their desired learning outcomes by developing new, engaging, and effective learning solutions and instructional experiences.
 
 ## Responsibilities
+
 - Design and develop experiential learning solutions that support adult learning best practices, address needs identified in a job/task analysis, drive behavior change, and improve performance of GitLab customers, partners, and/or sales teams
 - Follow GitLab branding guidelines and standards to ensure content is professional and consistent with corporate look and feel for external audiences
 - Create and curate team member learning content using the latest technology and innovative techniques
@@ -20,6 +21,7 @@ The Learning & Development Instructional Designer is responsible for designing a
 - Take on additional projects and responsibilities as needed
 
 ## Requirements
+
 - Experience designing and developing learning programs across delivery mediums and content types (mobile learning, e-learning, video, gamification, virtual learning, live simulation, and live classroom)
 - Strong oral and written communication skills and diverse experience working with internal customers and stakeholders in both live and virtual environments
 - Proven ability to clearly articulate complex concepts in simple terms is essential
@@ -43,12 +45,14 @@ The Associate Instructional Designer reports to the [Learning & Development Mana
 
 #### Associate Instructional Designer Job Grade
 
-The Associate Instructional Designer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Instructional Designer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Associate Instructional Designer Responsibilities
+
 - Successfully accomplishes responsibilities listed above with minimal direction or oversight
 
 #### Associate Instructional Designer Requirements
+
 - 2+ years related work experience in instructional design (or equivalent combination of transferable experience and education)
 - Experience in successfully prioritizing, managing multiple projects, and working in a team environment
 
@@ -58,9 +62,10 @@ The Instructional Designer (Intermediate) reports to the [Learning & Development
 
 #### Instructional Designer (Intermediate) Job Grade
 
-The Instructional Designer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Instructional Designer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Instructional Designer (Intermediate) Responsibilities
+
 - Facilitate and coordinate delivery of content across multiple platforms (remote, digital, and occasionally on-site)
 - Evaluate the business impact of learning programs through the use of learning and performance metrics
 - Be a guide to Learning & Development team, trainers, and business partners on best practices in instructional design and enablement solutions
@@ -68,6 +73,7 @@ The Instructional Designer (Intermediate) is a [grade 6](/handbook/total-rewards
 - Successfully accomplishes responsibilities with minimal direction or oversight
 
 #### Instructional Designer (Intermediate) Requirements
+
 - 3+ years related work experience in instructional design (or equivalent combination of transferable experience and education)
 - Proven experience designing and developing scalable, engaging, online training is a must
 - Experience working with a variety of Learning Management Systems and Learning Experience Platforms such as EdCast
@@ -79,15 +85,17 @@ The Senior Instructional Designer reports to the [Learning & Development Manager
 
 #### Senior Instructional Designer Job Grade
 
-The Senior Instructional Designer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Instructional Designer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Instructional Designer Responsibilities
+
 - Extends the Instructional Designer (Intermediate) responsibilities
 - Be a mentor to Learning & Development team, trainers, and business partners on best practices in instructional design and enablement solutions
 - Review and approve course content in LXP
 - Proofread, coordinate, approve and maintain curriculum
 
 #### Senior Instructional Designer Requirements
+
 - Extends the Instructional Designer (Intermediate) requirements
 - Bachelor’s degree required; Master’s Degree in Instructional Development, Training Education/Communication is preferred
 - 5+ years related work experience in instructional design (or equivalent combination of transferable experience and education)
@@ -100,16 +108,19 @@ The Senior Instructional Designer is a [grade 7](/handbook/total-rewards/compens
 The Technical Instructional Designer is responsible for designing and developing new, engaging, and effective learning solutions and instructional experiences for GitLab team members and the wider community that help these audiences achieve desired learning outcomes.
 
 #### Technical Instructional Designer Requirements
+
 - Knowledge of the software development life cycle, DevOps, and/or open source software is preferred
 - Familiarity with statically generated websites are preferred, as we take a [handbook-first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach to Learning & Development
 
 #### Technical Instructional Designer Responsibilities
+
 - Gain a working knowledge of the various functional and technological product areas of GitLab
 
 ## Performance Indicators
-- [Engagement Survey Growth and Development Score](/handbook/people-group/learning-and-development/#engagement-survey-growth-and-development-score--x)
-- [Rate of internal job promotions](/handbook/people-group/learning-and-development/#rate-of-internal-job-promotions--x)
-- [12 month voluntary team member turnover related to growth](/handbook/people-group/learning-and-development/#12-month-voluntary-team-member-turnover-related-to-growth--x)
+
+- [Engagement Survey Growth and Development Score](https://about.gitlab.com/handbook/people-group/learning-and-development/#engagement-survey-growth-and-development-score--x)
+- [Rate of internal job promotions](https://about.gitlab.com/handbook/people-group/learning-and-development/#rate-of-internal-job-promotions--x)
+- [12 month voluntary team member turnover related to growth](https://about.gitlab.com/handbook/people-group/learning-and-development/#12-month-voluntary-team-member-turnover-related-to-growth--x)
 
 ## Career Ladder
 
@@ -119,11 +130,11 @@ The next step in the Instructional Design job family is to move into management 
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 30 minute interview with our Learning & Development Manager.
 - Next, the candidate will be invited to interview with a member of the Learning & Development team, an Instructional Design team member from our Sales Enablement team, and a People Business Partner.
 - Next, candidates will be invited to schedule a 30 minute interview with our Director of People Operations.
 - After that, our CEO may choose to conduct a final interview.
 - As a final step, candidates will be asked to share a sample examples from their Instructional Design portfolio from previous jobs that include eLearning, Live Learning, and Virtual Instructor Led Training
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

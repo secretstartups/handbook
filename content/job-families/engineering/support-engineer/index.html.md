@@ -15,7 +15,7 @@ This position is 100% remote.
 
 ### Job Grade
 
-The Support Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Support Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### What you can expect in a Support Engineer role at GitLab:
 
@@ -89,7 +89,7 @@ In addition to the above requirements for Global Support Engineers, you will nee
 
 ### [What it’s like to work here](https://about.gitlab.com/company/culture/#so-thats-what-its-like-to-work-at-gitlab) at GitLab:
 
-The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLab team members are currently located in over 60 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLab team members are fully remote and receive GitLab's [Flexible PTO policy](/handbook/paid-time-off/), where there is no set limit per year on the amount of paid time off a team member can take. You can work incredibly flexible hours, enabled by our [asynchronous approach](https://about.gitlab.com/handbook/communication/) to communication. We’ll also help you set up your [home office environment](https://about.gitlab.com/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](https://about.gitlab.com/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
+The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLab team members are currently located in over 60 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](https://about.gitlab.com/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLab team members are fully remote and receive GitLab's [Flexible PTO policy](https://about.gitlab.com/handbook/paid-time-off/), where there is no set limit per year on the amount of paid time off a team member can take. You can work incredibly flexible hours, enabled by our [asynchronous approach](https://about.gitlab.com/handbook/communication/) to communication. We’ll also help you set up your [home office environment](https://about.gitlab.com/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](https://about.gitlab.com/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
 
 Also, every year or so, we’ll invite you to our [Contribute event](https://about.gitlab.com/events/gitlab-contribute/).
 
@@ -98,7 +98,7 @@ Our hiring process for this Support Engineer position typically follows five sta
 
 ### How you'll grow in the role:
 
-Support career progression is documented in [Engineer Career Development - Support Department](/handbook/engineering/career-development/#support-department).
+Support career progression is documented in [Engineer Career Development - Support Department](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
 
 ### Senior Support Engineer
 
@@ -106,7 +106,7 @@ A Senior Support Engineer is a more experienced engineer who continues to contri
 
 #### Job Grade
 
-The Senior Support Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Support Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Generally they meet the following criteria. They:
 
@@ -116,13 +116,13 @@ Generally they meet the following criteria. They:
 - drive product enhancements and fixes based on product expertise and customer interactions.
 - contribute to one or more complementary projects.
 
-A Senior Support Engineer may be interested in exploring Support Management as an alternative at this point. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail.
+A Senior Support Engineer may be interested in exploring Support Management as an alternative at this point. See [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/) for more detail.
 
 ### Staff Support Engineer
 
 #### Job Grade
 
-The Staff Support Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and is subject to [Staff+ IC Gearing Ratios](/handbook/engineering/career-development/#staff-ic-gearing-ratios). Promotion to the Staff level is based on [merit and company need](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
+The Staff Support Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and is subject to [Staff+ IC Gearing Ratios](https://about.gitlab.com/handbook/engineering/career-development/#staff-ic-gearing-ratios). Promotion to the Staff level is based on [merit and company need](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
 
 A Senior Support Engineer will be promoted to Staff Support Engineer when they have
 demonstrated significant leadership and impact; typically around resolving customer issues. This may
@@ -137,7 +137,7 @@ involve any type of consistent performance above and beyond the senior level. Fo
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
 
 ## How you'll be measured
 
@@ -145,10 +145,10 @@ For more details on the engineering career ladders, please review the [engineeri
 
 Support Engineers have the following job-family Performance Indicators.
 
-- [Customer satisfaction with Support](/handbook/support/performance-indicators/#support-satisfaction-ssat)
-- [Maintain at least average monthly tickets](/handbook/support/performance-indicators/#average-daily-tickets-closed-per-support-team-member)
-- [Service Level Agreement](/handbook/support/performance-indicators/#service-level-agreement-sla)
-- [Ticket deflection through documentation updates](/handbook/support/workflows/how-to-respond-to-tickets.html#improving-the-customer-experience-through-ticket-deflection)
+- [Customer satisfaction with Support](https://about.gitlab.com/handbook/support/performance-indicators/#support-satisfaction-ssat)
+- [Maintain at least average monthly tickets](https://about.gitlab.com/handbook/support/performance-indicators/#average-daily-tickets-closed-per-support-team-member)
+- [Service Level Agreement](https://about.gitlab.com/handbook/support/performance-indicators/#service-level-agreement-sla)
+- [Ticket deflection through documentation updates](https://about.gitlab.com/handbook/support/workflows/how-to-respond-to-tickets.html#improving-the-customer-experience-through-ticket-deflection)
 
 ## Hiring Process
 
@@ -163,4 +163,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Reference Checks.
 - Successful candidates will subsequently be made an offer.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

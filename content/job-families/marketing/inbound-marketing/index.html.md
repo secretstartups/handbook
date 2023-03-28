@@ -23,13 +23,13 @@ Inbound Marketing focuses on expanding GitLab's organic discovery with data-driv
 
 ## Job Grade
 
-- The Inbound Marketing Associate is a [grade #5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
-- The Inbound Marketing Manager is a [grade #6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
-- The Senior Inbound Marketing Manager is a [grade #7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
-- The Manager, Inbound Marketing is a [grade #8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
-- The Senior Manager, Inbound Marketing is a [grade #9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
-- The Director, Inbound Marketing is a [grade #10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
-- The Senior Director, Inbound Marketing is [grade #11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+- The Inbound Marketing Associate is a [grade #5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+- The Inbound Marketing Manager is a [grade #6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+- The Senior Inbound Marketing Manager is a [grade #7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+- The Manager, Inbound Marketing is a [grade #8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+- The Senior Manager, Inbound Marketing is a [grade #9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+- The Director, Inbound Marketing is a [grade #10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+- The Senior Director, Inbound Marketing is [grade #11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 ## Levels
 
@@ -218,7 +218,7 @@ The Senior Director of Inbound Marketing role expands on the Director of Inbound
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters.
 - Selected candidates will be invited to schedule an interview with the Manager, Inbound Marketing.
 - Candidates will then be invited to schedule two separate interviews with members of the Brand and Digital Design team.
 - Candidates will be invited to schedule an interview with our Director of Brand and Digital Design

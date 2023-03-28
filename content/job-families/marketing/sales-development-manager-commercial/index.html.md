@@ -7,7 +7,7 @@ As a Sales Development Representative (SDR) Manager for the Commercial (Small & 
 
 ## Job Grade
 
-The Manager, Sales Development is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Sales Development is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -30,7 +30,7 @@ The Manager, Sales Development is a [grade 8](/handbook/total-rewards/compensati
 - You are obsessed with making customers happy. You know that the slightest trouble in getting started with a product can ruin customer happiness.
 - Passionate about technology and learning more about GitLab
 - Be ready to learn how to use GitLab and Git
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
@@ -43,11 +43,11 @@ The next step in the Manager, Sales Development job family is to move to the [Se
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 - Qualified candidates receive a short questionnaire from our Global Recruiters
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule an interview with the Senior Sales Development Manager
 - Candidates will then be invited to schedule two separate interviews with a SDR Manager and an Area Sales Manager
 - Candidates will be invited to schedule an interview with our Senior Director of Revenue Marketing
 - Finally, candidates may be asked to interview with our CMO
 - Successful candidates will subsequently be made an offer via video or phone call
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)

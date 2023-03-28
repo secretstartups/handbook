@@ -20,7 +20,7 @@ The internship program will be remote and primarily operate in the Pacific time 
 
 #### Compensation
 
-Internships at GitLab offered in the framework described on this page will be paid and follow the same logic as that depicted in our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) and according to our [Global Compensation Principles](/handbook/total-rewards/compensation/). This means that, as usual, the San Francisco benchmark, location and experience factors will be taken into account during the recruitment process and before making an offer. Depending on country regulations, we will have to align with national labor laws.
+Internships at GitLab offered in the framework described on this page will be paid and follow the same logic as that depicted in our [Compensation Calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/) and according to our [Global Compensation Principles](https://about.gitlab.com/handbook/total-rewards/compensation/). This means that, as usual, the San Francisco benchmark, location and experience factors will be taken into account during the recruitment process and before making an offer. Depending on country regulations, we will have to align with national labor laws.
 The Legal Intern is a grade 4 (/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
@@ -47,7 +47,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule with additional team members of Legal and Corporate Affairs.
 - Next, candidates will be invited to schedule an interview with our Chief Legal Officer (as applicable).
 - Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas.
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ## Working at GitLab
 

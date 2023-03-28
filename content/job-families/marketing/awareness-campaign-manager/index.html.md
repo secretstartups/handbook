@@ -10,7 +10,7 @@ The GitLab awareness campaign manager will help run the management of the brand 
 
 ### Job Grade
 
-The Awareness Campaign Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Awareness Campaign Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -46,4 +46,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our CEO may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

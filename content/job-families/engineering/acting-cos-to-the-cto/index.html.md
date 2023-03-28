@@ -19,7 +19,7 @@ This role will help enable communication, collaboration, strategy execution, and
 - Lead the retrospection of the previous quarter OKRs in the first month of your term.
 - Drive future special projects, such as past examples like
     - The [Volunteer Coaching Program for URGs](https://about.gitlab.com/handbook/engineering/volunteer-coaches-for-urgs/)
-    - The vendor selection and implementation of the [Ally OKR system](/handbook/engineering/#allyio-for-okrs)
+    - The vendor selection and implementation of the [Ally OKR system](https://about.gitlab.com/handbook/engineering/#allyio-for-okrs)
 
 #### Communication
 

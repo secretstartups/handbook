@@ -7,7 +7,7 @@ As the Director of Marketing Operations, you will be responsible for leading the
 
 ### Job Grade
 
-The Director, Marketing Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Marketing Operations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -48,7 +48,7 @@ The next step in the Director, Marketing Operations job family is not yet define
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 - A 45 minute interview with future peer/s (Director of Field Marketing; Director of Sales Development)
 - A 45 minute interview with future direct report/s
 - A 45 minute interview with the VP of Revenue Marketing
@@ -56,4 +56,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - A 45 minute interview with our CMO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

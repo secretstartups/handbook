@@ -6,7 +6,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-The [Security Logging](/handbook/security/) engineers own security initiatives related to security of GitLab.com.
+The [Security Logging](https://about.gitlab.com/handbook/security/) engineers own security initiatives related to security of GitLab.com.
 They work to improve the coverage and usability of security-data on GitLab.
 They work very closely with the Security Incident Response Team [[SIRT](https://about.gitlab.com/handbook/security/security-operations/sirt/)] and share findings proactively.
 
@@ -31,7 +31,7 @@ They work very closely with the Security Incident Response Team [[SIRT](https://
 - Experience with one or more programming languages (Python and either Ruby, Go, or PHP)
 - Demonstrated experience with running systems at scale
 - Proficiency to communicate over a text-based medium (Slack, GitLab Issues, Email) and can succinctly document technical details
-- Share our [values](/handbook/values/), and work in accordance with those values
+- Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ## Levels
 
@@ -41,7 +41,7 @@ This position reports to the [Manager, Infrastructure Security](#manager-infrast
 
 #### Infrastructure Security Engineer (Intermediate) Job Grade
 
-The Infrastructure Security Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Infrastructure Security Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Infrastructure Security Engineer (Intermediate) Responsibilities
 
@@ -57,7 +57,7 @@ This position reports to the [Manager, Infrastructure Security](#manager-infrast
 
 #### Senior Infrastructure Security Engineer Job Grade
 
-The Senior Infrastructure Security Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Infrastructure Security Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Infrastructure Security Engineer Responsibilities
 
@@ -88,7 +88,7 @@ This position reports to the [Manager, Infrastructure Security](#manager-infrast
 
 #### Staff Infrastructure Security Engineer Job Grade
 
-The Staff Infrastructure Security Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Infrastructure Security Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Infrastructure Security Engineer Responsibilities
 
@@ -111,7 +111,7 @@ The Staff Infrastructure Security Engineer is a [grade 8](/handbook/total-reward
 
 ## Performance Indicators
 
-- Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume).
+- Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](https://about.gitlab.com/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume).
 
 ### Career Ladder
 
@@ -129,10 +129,10 @@ The Staff Infrastructure Security Engineer is a [grade 8](/handbook/total-reward
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30-minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30-minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Then, candidates will be invited to schedule a 50-minute interview with the team hiring manager.
 - Candidates will be invited to schedule 2 separate 50-minute interviews with Security Research team member peers.
 - Candidates will then be invited to schedule an interview with VP of Security
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

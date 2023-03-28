@@ -12,7 +12,7 @@ The Legal Operations Manager reports to the Sr. Director, Contracts and Legal Op
 
 #### Legal Operations Manager Job Grade
 
-The Legal Operations Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Legal Operations Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Legal Operations Manager Responsibilities
 
@@ -43,7 +43,7 @@ The Director, Contracts and Legal Operations reports to the [Chief Legal Officer
 
 #### Director, Contracts and Legal Operations Job Grade
 
-The Director, Contracts and Legal Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Director, Contracts and Legal Operations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Director, Contracts and Legal Operations Responsibilities
 
@@ -71,9 +71,9 @@ The Director, Contracts and Legal Operations is a [grade 10](/handbook/total-rew
 
 #### Director, Contracts and Legal Operations Performance Indicators
 
-- [Negotiation cycle average days per Quarter](/handbook/legal/#negotiation-cycle-average-days-per-quarter--90-days)
-- [Number of Opportunities closed by Contract Manager(s) per Quarter](/handbook/legal/#number-of-opportunities-closed-by-contract-managers-per-quarter--66)
-- [Percentage of contract negotiations per quarter](/handbook/legal/#percentage-of-contract-negotiations-per-quarter-15)
+- [Negotiation cycle average days per Quarter](https://about.gitlab.com/handbook/legal/#negotiation-cycle-average-days-per-quarter--90-days)
+- [Number of Opportunities closed by Contract Manager(s) per Quarter](https://about.gitlab.com/handbook/legal/#number-of-opportunities-closed-by-contract-managers-per-quarter--66)
+- [Percentage of contract negotiations per quarter](https://about.gitlab.com/handbook/legal/#percentage-of-contract-negotiations-per-quarter-15)
 
 ### Senior Director, Contracts and Legal Operations
 
@@ -123,9 +123,9 @@ The next steps for the Director, Contracts and Legal Operations job family are n
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
 
-- Selected candidates will be invited to schedule a 45 min [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
+- Selected candidates will be invited to schedule a 45 min [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with the hiring manager.
 - Next, candidates will be invited to schedule an interview with a member of the Legal Operations team.
 - Next, candidates will be invited to schedule an interview with additional members of the Legal and Corporate Affairs Team.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

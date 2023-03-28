@@ -10,7 +10,7 @@ The Manager, Accounting Operations  helps drive operational improvements within 
 
 ### Job Grade
 
-The Manager, Accounting Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Accounting Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -35,15 +35,15 @@ The Manager, Accounting Operations is a [grade 8](/handbook/total-rewards/compen
 - International experience preferred.
 - Detail-oriented and able to effectively complete tasks with minimal supervision.
 - Proficiency with GitLab.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
 ## Performance Indicators
 
-- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
-- [Percentage of ineffective Sox Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Percentage of ineffective Sox Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Hiring Process
 
@@ -55,7 +55,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be asked to interview with the CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
 
 ## Career Ladder
 

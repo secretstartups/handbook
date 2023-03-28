@@ -1,6 +1,7 @@
 ---
-layout: job_family_page
 title: "Chief Executive Officer"
+cascade:
+  type: docs
 ---
 
 The CEO reports to the Board of Directors of GitLab, Inc.

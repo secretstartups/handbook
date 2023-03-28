@@ -40,7 +40,7 @@ The Junior Alliances Partner Manager reports to Manager, Alliances Partner Manag
 
 #### Job Grade
 
-The Junior Alliances Partner Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Alliances Partner Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -71,7 +71,7 @@ The  Alliances Partner Manager reports to Manager, Alliances Partner Managers.
 
 #### Job Grade
 
-The Alliances Partner Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Alliances Partner Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -90,7 +90,7 @@ The Senior Alliances Partner Manager reports to Manager, Alliances Partner Manag
 
 #### Job Grade
 
-The Senior Alliances Partner Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Alliances Partner Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -111,7 +111,7 @@ The Staff Alliances Partner Manager reports to Manager, Alliances Partner Manage
 
 #### Job Grade
 
-The Staff Alliances Partner Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Alliances Partner Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -127,7 +127,7 @@ The Manager, Alliances Partner Managers reports to Director, Alliances Partner M
 
 #### Job Grade
 
-The Manager, Alliances Partner Managers is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Alliances Partner Managers is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -158,7 +158,7 @@ The Manager, Alliances Partner Managers reports to Director, Alliances Partner M
 
 #### Job Grade
 
-The Senior Manager, Alliances Partner Managers is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Alliances Partner Managers is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -174,7 +174,7 @@ The Director, Alliances Partner Managers reports to VP, Alliances.
 
 #### Job Grade
 
-The Director, Alliances Partner Managers is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Alliances Partner Managers is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -190,7 +190,7 @@ The Senior Director, Alliances Partner Managers reports to VP, Alliances.
 
 #### Job Grade
 
-The Senior Director, Alliances Partner Managers is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Alliances Partner Managers is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -209,7 +209,7 @@ The Director, Partnerships reports to VP, Alliances.
 
 #### Job Grade
 
-The Director, Partnerships is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Partnerships is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -228,7 +228,7 @@ The Director, Partnerships is a [grade 10](/handbook/total-rewards/compensation/
 - You know the DevOps software ecosystem like the back of your hand.
 - You’re comfortable with code, and enjoy talking with developers and engineering directors alike.
 - You’ve shown that you can build long term (international) strategic relationships, preferably involving open source software.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 - Ability to use GitLab
 
@@ -241,7 +241,7 @@ In this role, you develop and implement a multi-year sales plan to rapidly grow 
 
 #### Job Grade
 
-The VP of Alliances is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Alliances is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -286,5 +286,5 @@ The next step in the Alliances job family is not yet defined at GitLab.
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
-Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 

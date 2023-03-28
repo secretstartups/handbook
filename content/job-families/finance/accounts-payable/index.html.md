@@ -14,7 +14,7 @@ The Accounts Payable Analyst (Intermediate) reports to [Senior Manager, Accounts
 
 #### Accounts Payable Analyst (Intermediate) Job Grade
 
-The Accounts Payable Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Accounts Payable Analyst (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Accounts Payable Analyst (Intermediate) Responsibilities
 
@@ -43,7 +43,7 @@ The Accounts Payable Analyst (Intermediate) is a [grade 6](/handbook/total-rewar
 - International experience is a plus
 - Knowledge of basic accounting principles
 - Self-starter with the ability to work remotely and independently and interact with various teams when needed.
-- You share our [values](/handbook/values/), and work in accordance with those values.
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
 
 ### Senior Accounts Payable Analyst
@@ -52,7 +52,7 @@ The Senior Accounts Payable Analyst reports to [Senior Manager, Accounts Payable
 
 #### Senior Accounts Payable Analyst Job Grade
 
-The Senior Accounts Payable Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Accounts Payable Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Accounts Payable Analyst Responsibilities
 
@@ -78,7 +78,7 @@ Accounts Payable Manager reports to The [Senior Manager, Accounts Payable](/job-
 
 #### Accounts Payable Manager Job Grade
 
-The Accounts Payable Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Accounts Payable Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Accounts Payable Manager Responsibilities
 
@@ -105,7 +105,7 @@ The Senior Manager, Accounts Payable reports to the [Senior Director, Corporate 
 
 #### Job Grade
 
-The Senior Manager, Accounts Payable is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Accounts Payable is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager Responsibilities
 
@@ -164,9 +164,9 @@ The Director, Accounts Payable is a grade 10.
 
 ## Performance Indicators
 
-- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
-- [Percentage of ineffective Sox Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Percentage of ineffective Sox Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Career Ladder
 
@@ -181,4 +181,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - 2 - 4 30 minute peer interviews
 - 45 minute interview with an Executive for any Manager and above role.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).

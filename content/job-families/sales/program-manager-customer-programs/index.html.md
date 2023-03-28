@@ -4,7 +4,7 @@ title: "Program Manager, Customer Programs"
 description: "The Program Manager, Customer Programs is a part of the Customer Success Manager team, and focuses on  enabling the onboarding-only and digital customer segments."
 ---
 
-The Program Manager, Customer Programs is a part of the [Customer Success Manager](/job-families/sales/customer-success-management/) team, and focuses on  enabling the onboarding-only and digital customer segments. They support and enable our digital only (email, surveys, etc) segment of customers and are are responsible for increasing stickiness and customer satisfaction of this segment along with the other members of the [Customer Success team](/handbook/customer-success/).
+The Program Manager, Customer Programs is a part of the [Customer Success Manager](/job-families/sales/customer-success-management/) team, and focuses on  enabling the onboarding-only and digital customer segments. They support and enable our digital only (email, surveys, etc) segment of customers and are are responsible for increasing stickiness and customer satisfaction of this segment along with the other members of the [Customer Success team](https://about.gitlab.com/handbook/customer-success/).
 
 ## Levels
 
@@ -14,7 +14,7 @@ The Program Manager, Customer Programs (Intermediate) reports to the [Director o
 
 #### Program Manager, Customer Programs (Intermediate) Job Grade
 
-The Program Manager, Customer Programs is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Program Manager, Customer Programs is a [Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Program Manager, Customer Programs (Intermediate) Responsibilities
 
@@ -37,7 +37,7 @@ The Program Manager, Customer Programs is a [Grade 6](/handbook/total-rewards/co
 - Experienced administrator of Gainsight and CRM software (Salesforce preferred)
 - Project management mindset and experienced with cross-functional collaboration
 - Be familiar with or ready to learn how to use GitLab and Git
-- Share our [values](/handbook/values/), and work in accordance with those values
+- Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 
 ### Senior Program Manager, Customer Programs
@@ -46,7 +46,7 @@ The Program Manager, Customer Programs reports to the [Director of Customer Succ
 
 #### Senior Program Manager, Customer Programs Job Grade
 
-The Senior Program Manager, Customer Programs is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Program Manager, Customer Programs is a [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Program Manager, Customer Programs Responsibilities
 
@@ -60,10 +60,10 @@ The Senior Program Manager, Customer Programs is a [Grade 7](/handbook/total-rew
 
 ## Performance Indicators
 
-- [Time-to-Value KPI's](/handbook/customer-success/vision/#time-to-value-kpis)
-- [Net Retention](/handbook/customer-success/vision/#retention-and-reasons-for-churn)
-- [Retention, Gross & Net](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
-- [Reason for Churn/Expansion, Dollar Weighted](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
+- [Time-to-Value KPI's](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis)
+- [Net Retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn)
+- [Retention, Gross & Net](https://about.gitlab.com/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
+- [Reason for Churn/Expansion, Dollar Weighted](https://about.gitlab.com/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
 
 ## Career Ladder
 
@@ -73,8 +73,8 @@ The Customer Programs Job Family would flow into the [Customer Success Managers]
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
 - Next, candidates will interview with 2-4 GitLab team members and the hiring manager,
 - Finally, candidates may be asked to complete a final interview with our leadership team.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).

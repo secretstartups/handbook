@@ -12,7 +12,7 @@ The Digital Production Coordinator reports to the Senior Manager, Video.
 
 ### Job Grade
 
-The Digital Production Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Digital Production Coordinator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -52,7 +52,7 @@ The Digital Production Coordinator reports to the Senior Manager, Video.
 
 ### Job Grade
 
-The Digital Producer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Digital Producer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -80,7 +80,7 @@ The Digital Producer is a [grade 6](/handbook/total-rewards/compensation/compens
 - Videography skills a plus
 - Podcasting experience a plus
 - Frequent travel required
-- Our [values](/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you.
+- Our [values](https://about.gitlab.com/handbook/values/) of collaboration, results, efficiency, diversity, iteration, and transparency resonate with you.
 - Ability to use GitLab
 - BONUS: A passion and strong awareness of the industry and our mission
 
@@ -91,7 +91,7 @@ The Digital Production Coordinator reports to the Senior Manager, Video.
 
 ### Job Grade
 
-The Senior Digital Producer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Digital Producer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
