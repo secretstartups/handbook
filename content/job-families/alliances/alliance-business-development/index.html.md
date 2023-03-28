@@ -3,15 +3,6 @@ layout: job_family_page
 title: "Alliance Business Development"
 ---
 
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Alliance Business Development
-
 The Alliance Business Development team is responsible for facilitating co-selling between the Gitlab field sales organization and the sales organizations of strategic public cloud partners such as AWS, Google Cloud and Azure to achieve sales targets. Individual contributor Alliance Business Development Managers are often referred to as “ABDMs”.
 
 ## Levels

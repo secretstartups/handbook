@@ -29,7 +29,7 @@ The Associate Technology Partner Manager is a [grade 5](/handbook/total-rewards/
 1. Demonstrated repeated success leading partner/client engagement plans to fruitful executions, consistently exceeding key performance metrics
 1. Strong presentation skills and the ability to articulate complex concepts to cross functional audiences
 1. Presentation skills with a high degree of comfort speaking with executives, IT Management, and developers
-2. Significant experience with executive presence and a proven ability to lead and facilitate executive meetings including architecture whiteboards
+1. Significant experience with executive presence and a proven ability to lead and facilitate executive meetings including architecture whiteboards
 1. Excellent time management and written/verbal communication skills
 1. Ability to quickly understand technical concepts and explain them to audiences of varying technical expertise
 1. [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
@@ -65,11 +65,12 @@ The Senior Technology Partner Manager is a [grade 7](/handbook/total-rewards/com
 
 #### Senior Technology Partner Manager Responsibilities
 
-- Extends that of the Technology Partner Manager (Intermediate) responsibilities
+Extends that of the Technology Partner Manager (Intermediate) responsibilities
+
 1. Own and lead C-Suite relationships
-2. Speak regularly in public as the voice for GitLab and the partner
-3. SA level expertise with GitLab AND the partners technology
-4. Proactively identify, develop and drive longer-term strategies and initiatives that will deliver rapid business growth globally in conjunction with alliance partners.
+1. Speak regularly in public as the voice for GitLab and the partner
+1. SA level expertise with GitLab AND the partners technology
+1. Proactively identify, develop and drive longer-term strategies and initiatives that will deliver rapid business growth globally in conjunction with alliance partners.
 
 #### Senior Technology Partner Manager Requirements
 
@@ -119,7 +120,7 @@ The Senior Manager, Technology Partner Managers is a [grade 9](/handbook/total-r
 
 - Extends that of the Manager, Technology Parnter Managers responsibilities
 - Sr Manager should have capabilities to build out and manage the automation of multiple partner portal technologies / platforms such as IMPartner, SFDC and CrossBeam
-- Sr. Manager knows how to scale revenue from the vast partnerships that they build.  GTM practises is second nature when hunting and gathering the ISV Partners that they recruit.  
+- Sr. Manager knows how to scale revenue from the vast partnerships that they build.  GTM practises is second nature when hunting and gathering the ISV Partners that they recruit.
 - Sr. Manager has self awareness of when to course correct when it comes to partnership and the people that report to them.  Awareness about "partnership performance" should come from the meta data that they build into the scorecarding of those partnerships.  Nothing should ever come as a surprise to them when it comes to the overarching health of that partnership.
 - GitLab is a revenue generating public company.  This person will be able to track their value add and partnerships in the organization because they know partnership through their experience.
 - Sr. Manager should always be thinking about partner related sales pipeline when it comes to their GTM campaigns with partners and marketing.  A well thought out and instrumented Alliance GTM plan id necessary to drive a strong quarter close and avoid misses throughout the year.

@@ -3,17 +3,15 @@ layout: job_family_page
 title: "Alliances Job Family Matrix"
 ---
 
-### Alliances Partner Manager
-
 | Role | Grade |
 | -- | - |
 | [Junior Alliances Partner Manager](#junior-alliances-partner-manager) | [Grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Alliances Partner Manager](#alliances-partner-manager) | [Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Senior Alliances Partner Manager](#senior-alliances-partner-manager) | [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Staff, Alliances Partner Manager](#staff-alliances-partner-manager) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Manager, Alliances Partner Managers](#manager-alliances-partner-manager) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Manager, Alliances Partner Managers](#senior-manager-alliances-partner-manager) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Director, Alliances Partner Managers](#director-alliances-partner-manager) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Manager, Alliances Partner Managers](#manager-alliances-partner-managers) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Manager, Alliances Partner Managers](#senior-manager-alliances-partner-managers) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Director, Alliances Partner Managers](#director-alliances-partner-managers) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Senior Director, Alliances Partner Managers](#senior-director-alliances-partner-managers) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 
 
@@ -34,7 +32,7 @@ title: "Alliances Job Family Matrix"
 
 The [Alliance Business Development](/job-families/alliances/alliance-business-development/) job family has been moved to its own page.
 
-## Alliances Partner Manager
+## Levels
 
 ### Junior Alliances Partner Manager
 
@@ -246,6 +244,7 @@ In this role, you develop and implement a multi-year sales plan to rapidly grow 
 The VP of Alliances is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Identify, establish and execute agreements with strategic alliance partners to contribute towards our 3-year topline revenue growth plan
 - GitLab runs on the cloud environments of Amazon, Microsoft, Google, IBM, Alibaba, Huawei, Oracle, and Digital Ocean and many of their products are also part of GitLab
 - A recent example of a product that has become part of GitLab is the [acquisition of Gemnasium](https://techcrunch.com/2018/01/30/gitlab-acquires-gemnasium-to-strengthen-its-security-services/)
@@ -261,6 +260,7 @@ The VP of Alliances is a [grade 12](/handbook/total-rewards/compensation/compens
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 #### Requirements
+
 - 6-8 years of senior leadership (VP or C-level) in planning and closing partnership deals valued at over $50M with enterprise technology companies
 - 8+ years of experience in the field of DevOps
 - Experience working in a fast-pace, start-up (500 employees and under), building key partnerships during scaling and pre-IPO
@@ -274,6 +274,7 @@ The VP of Alliances is a [grade 12](/handbook/total-rewards/compensation/compens
 - Ability to use GitLab
 
 ## Performance Indicators
+
 - $ derived from GitLab + Technology partner joint customers
 - Size of Partner Practices - skilled, certified consultants and deliver resources
 - [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
