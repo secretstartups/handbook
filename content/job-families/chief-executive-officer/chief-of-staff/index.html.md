@@ -52,7 +52,7 @@ The responsibilities include both directed work that will mostly be triggered by
 1. Capacity to become a [senior leader](https://about.gitlab.com/company/team/structure/#senior-leaders) at GitLab.
 1. Proven ability to quickly learn new things.
 1. Concise written and verbal communication.
-1. Based in San Francisco, CA, USA to attend in-person [external meeting](/handbook/ceo/shadow/#gitlab-meetings) meetings at [mission control](/handbook/ceo/shadow/#mission-control-guide). For internal GitLab meetings, this role can work from anywhere of your choosing (estimated 80+% of the time).  
+1. Based in San Francisco, CA, USA to attend in-person [external meeting](/handbook/ceo/shadow/#gitlab-meetings) meetings at [mission control](/handbook/ceo/shadow/#mission-control-guide). For internal GitLab meetings, this role can work from anywhere of your choosing (estimated 80+% of the time).
 1. Structured about how to prioritize work and time.
 1. Able to make a clear business case for proposals.
 1. Master’s degree in Engineering or Business Administration or equivalent experience.
@@ -98,5 +98,6 @@ Candidates for this position can expect the hiring process to follow the order b
 As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
 
 ## References
+
 - [What Is a Chief of Staff to the CEO and When Do You Need One?](https://www.bridgespan.org/insights/library/careers/chief-of-staff-role#sidebar-two) by Madeleine Niebauer 2018-09-26
 - [The Chief of Staff to the CEO role in Silicon Valley](https://medium.com/@juliadewahl/the-chief-of-staff-role-in-silicon-valley-182eb93e636e) by Julia DeWahl 2019-04-29

@@ -8,6 +8,7 @@ Internal consultants can quickly gather and analyze all data related to a proble
 They are the internal strategy consultants of GitLab who move from problem to problem in different functional areas.
 
 ## Responsibilities
+
 - Drive special projects that are urgent and important.  Most of these will be of a strategic and cross-functional nature
 - Fill in knowledge gaps of the Chief of Staff to the CEO
 - Identify procedural gaps in existing workflows and work to resolve with optimization, automation, and data
@@ -17,6 +18,7 @@ They are the internal strategy consultants of GitLab who move from problem to pr
 - Demonstrate GitLab values in all work
 
 ## Requirements
+
 - Experience at a strategy consulting firm is preferred
 - 2+ years experience in high growth startup environments is desired
 - Detail-oriented forward thinker, familiar with the industry
@@ -28,6 +30,7 @@ They are the internal strategy consultants of GitLab who move from problem to pr
 - Ability to use GitLab
 
 ## Performance Indicators
+
 - [Meetings shifted from CEO - hours spent in meetings decreases overtime by Chief of Staff to the CEO stepping in, supported by Internal Consultants](/handbook/ceo/chief-of-staff-team/#performance-indicators)
 - [Throughput - Issues or merge requests closed as measurement of projects iterated on](/handbook/ceo/chief-of-staff-team/#performance-indicators)
 
