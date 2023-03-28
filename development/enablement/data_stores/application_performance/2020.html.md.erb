@@ -40,7 +40,7 @@ Not only were we able to fix broken imports for large projects, we were able to 
 Introducing NDJSON also allowed for GitLab to process imports and exports with approximately constant memory use regardless of the project size. Prior to this, imports and exports would increase in memory usage as the project size increased. More details about the impact of NDJSON processing can be found in the [Introduce `.ndjson` as a way to process import](https://gitlab.com/groups/gitlab-org/-/epics/2734) epic.
 
 ### Implement Shared Runner Minute Factors
-In this MVC we implemented the ability to [track accumulated CI minutes on shared runners](https://gitlab.com/groups/gitlab-org/-/epics/2846). This helped to build some of the framework for a proposed feature in a future release.
+In this MVC we implemented the ability to [track accumulated compute credits on shared runners](https://gitlab.com/groups/gitlab-org/-/epics/2846). This helped to build some of the framework for a proposed feature in a future release.
 
 #### Impact - Ability to track and configure limits
 The MVC we built allows for configuring limits and cost factors of shared and public runners. This enabled additional shared runner types such as Windows, as well as customers to purchase additional shared runner minutes if desired.

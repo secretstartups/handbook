@@ -39,7 +39,7 @@ Utilise the Risk Map as a tool to:
 | Quality/Testability | Hard to replicate production traffic to account for performance testing |  | 4 | 4 | 16 |  |
 | Quality/Test covereages | This is a mature product, there are many features and feature sets have yet to have test coverages (historical test gaps) | Escape regession bugs | 4 | 4 | 16 |  |
 | Product/Cost | CI abuse (free tier) |  | 5 | 5 | 25 | Escalations to prevent pipeline abuse underway |
-| Feature/Performance | DB timeout from CI minutes monthy reset |  | 3 | 1 | 3 | This has been mitigated as of 2021-04-01 run, but we are keeping an eye on it. Ongoing CI Minutes Rearchitecture efforts will also help with this |
+| Feature/Performance | DB timeout from compute credits monthy reset |  | 3 | 1 | 3 | This has been mitigated as of 2021-04-01 run, but we are keeping an eye on it. Ongoing compute credits rearchitecture efforts will also help with this |
 | Feature/Performance | Unperformant database queries | Adding load to gitlab.com database, slow page and feature load times | 3 | 3 | 9 | Recent rapid actions has helped, and there's continual effort to address this to ensure we don't regress |
 | Team/Efficiency | Migrating more REST to GraphQL to help unblock FE | FE productivity and delivery | 5 | 3 | 15 |  |
 | Feature/Dependencies | Depends on runner response and processing time<br>- https://gitlab.com/gitlab-org/gitlab/-/issues/326113 <br>- https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3631  | If runners fail to process, jobs are not executed, pipeline is stuck | 5 | 3 | 15 |  |
