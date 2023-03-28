@@ -85,7 +85,6 @@ The presence of bug category labels `~"bug::availability"`, `~"bug::performance"
 
 Once you've determined a severity for an issue add a note that explains in summary why you selected the severity you did. This will help future team members understand your rationale so they will know how to proceed with acting upon the issue.
 
-
 | Type of `~"type::bug"` | `~"severity::1"`: Blocker | `~"severity::2"`: Critical | `~"severity::3"`: Major  | `~"severity::4"`: Low | Triage DRI |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|------------|
 | General bugs   | Broken feature with no workaround or any data-loss. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | [SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) or [QEM](https://about.gitlab.com/handbook/engineering/quality/#management-team) for that product group. |
@@ -97,18 +96,19 @@ Once you've determined a severity for an issue add a note that explains in summa
 | `~"bug::vulnerability"` Security Vulnerability | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/security/#severity-and-priority-labels-on-security-issues) | AppSec team |
 | Global Search | See [Search Prioritization](/handbook/engineering/development/enablement/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/data_stores/search/#severity-labels-for-search-issues-advanced-search-global-search) | |
 | `~test` Bugs blocking end-to-end test execution | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | See [Blocked tests section](#blocked-tests) | [Quality Engineering Sub-Department](/handbook/engineering/quality/quality-engineering/) |
+| `~GitLab.com Resource Saturation` Capacity planning warnings | Mean forecast shows Hard SLO breach within 3 months. | | | | Scalability Engineering Manager (who will hand over to EM that owns the resource) |
 
 ### Severity SLOs
 
 The severity label also helps us define the time a ~"type::bug" or ~"corrective action" of that severity should be completed.
 This indicates the expected timeline & urgency which is used to measure our SLO targets.
 
-| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~"type::bug"` resolution SLO            |
-|----------------|---------|--------------------------------------------------------------------------------|
-| `~"severity::1"` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) |
-| `~"severity::2"` | 30 days | The next release (60 days)                                                     |
-| `~"severity::3"` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |
-| `~"severity::4"` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |
+| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~"type::bug"` resolution SLO | `~"GitLab.com Resource Saturation"` resolution SLO |
+|----------------|---------|--------------------------------------------------------------------------------| ----|
+| `~"severity::1"` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) | Within 2 months |
+| `~"severity::2"` | 30 days | The next release (60 days)                                                     |  |
+| `~"severity::3"` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |  |
+| `~"severity::4"` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |   |
 
 #### Examples of severity levels
 
