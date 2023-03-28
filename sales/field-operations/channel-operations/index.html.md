@@ -134,9 +134,11 @@ More information on billing accounts can be found on the [Billing Operations Han
 #### How to Find Partner Billing Records in SFDC and Use for Quoting
 The Invoice Owner and Invoice Owner Contact on a partner quote represent the partner’s Billing Account and billing account Contact records, respectively.
 
-Billing Account and billing account Contact records for our distributors can be found here. Note, partners that transact via distribution do not need billing records, as the distributor information will be used on the quote.
+**Distributors** - GitLab sellers can access the Billing Account and billing account Contact records [for our distributors here](https://docs.google.com/document/d/1GdXiBtOJm3Kt3aVXRPliEQiZlN0X_uIqU0YNMHZo-VU/edit?usp=sharing). 
 
-To find these records in SFDC for partners that transact directly with GitLab, first navigate to the Partner Account record.
+**Note**, partners that transact via distribution do not need billing records, as the distributor information will be used on the quote.
+
+**Resellers and MSPs** - To find Billing Account and billing account Contact records in SFDC for partners that transact directly with GitLab, first navigate to the Partner Account record.
 1. Billing Account - Refer to “Billing Account” in the related list quick links section at the top of the Partner Account record
 2. Billing Account Contact - Open the partner's Billing Account and locate the `Sold To Work Email` (i.e., their Accounts Payable email address). Search for this email in SFDC to determine if a contact record already exists under the Partner Account record
    - If there **is** an existing contact record for this email on the partner account, use it as the Invoice Owner Contact for your quote
