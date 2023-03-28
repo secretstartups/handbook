@@ -21,7 +21,7 @@ Vendorpedia (a OneTrust tool) is an **internal only** tool that functions as:
 
 [AnswerBase](https://about.gitlab.com/handbook/security/security-assurance/field-security/answerbase.html) is an internal only library of question and answer pairs related to GitLab, Inc. and the GitLab solutions. AnswerBase is a living library that is updated and expanded by questionnaires from our prospects and customers. These questionnaires are related to efforts such as RFx requests, third party risk assessments, and supplier due diligence requests. AnswerBase is designed to serve both Field Security and all other team members.
 
-### RFP Completion
+### Request for Proposal (RFx and RFP) Completion
 
 Vendorpedia will be used to collaborate cross-departmentally to alleviate the painpoints for the Field Team in [completion of RFPs](https://about.gitlab.com/handbook/security/security-assurance/field-security/Field-Security-RFP.html). SME's from relevant departments will have access to Vendorpedia to maintain their own department specific answer libraries, and they will be tagged on answers that need to be added.
 
