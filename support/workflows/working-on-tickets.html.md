@@ -119,6 +119,9 @@ of your group** who is in the preferred region.
       1. Ask in your group's Slack channel for one of the SEs in the target
          region to assign the ticket to themself, to notify the customer of the
          transfer and to continue the ticket work where you left off.
+         1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members. 
+         1. If relevant, cc the [Support Manager on-call](https://about.gitlab.com/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
+         1. Bonus info: You can also use the Slack ["schedule message"](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) feature, to ensure the message pops up within working hours of the intended region.
       1. **Until another SE has taken assignment, keep the ticket assigned to
            yourself and continue to work with the customer.** Be sure to notify
            the customer that you're working on the transfer.
