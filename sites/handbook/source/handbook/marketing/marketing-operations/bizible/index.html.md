@@ -4,6 +4,9 @@ title: "Adobe Marketo Measure (formerly known as Bizible)"
 description: "Adobe Marketo Measure, AMM for short, unifies behavioral and ad data with sales outcomes and machine learning so you can make the right marketing decisions."
 ---
 
+<!-- Please treat Bizible terms as proper nouns and capitalize them. Touchpoint instead of touchpoint. -->
+
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -12,137 +15,76 @@ description: "Adobe Marketo Measure, AMM for short, unifies behavioral and ad da
 
 ## About Adobe Marketo Measure (formerly known as Bizible)
 
-Adobe Marketo Measure, AMM for short, unifies behavioral and ad data with sales outcomes and machine learning so you can make the right marketing decisions.
+Adobe Marketo Measure (AMM) unifies behavioral and ad data with sales outcomes and machine learning so you can make the right marketing decisions.
 
-## Buyer Touchpoints
+### How Adobe Marketo Mesure Tracks Attribution
 
-AMM defines a touchpoint as: Touchpoints refer to the interactions a prospect/lead has with your online or offline marketing efforts.   
+Marketing attribution is the process of assigning revenue credit to marketing activities. AMM tracks a prospect's entire customer journey, from their first interaction with GitLab to purchase. The revenue generated from the deal gets attributed back to the marketing Touchpoints that drove the sale (see below for details on Touchpoints). The amount of revenue credit given to a touchpoint depends on how much that Touchpoint influenced the customer's purchasing decision.
 
-They capture a multitude of information about the interaction such as utm parameters, date/time of the interaction, and type of interaction (form submission, campaign response, etc.). 
+This process allows Marketing to understand the value of each marketing activity.
 
-In Salesforce, the abbreviations for the various touchpoints are as follows (see more in the diagrams below to see how these work in the different models):
+## Adobe Marketo Mesure Components
+
+### Touchpoints
+
+AMM defines a touchpoint as: Touchpoints refer to a prospect/lead's interactions with your online or offline marketing efforts.
+
+Touchpoints capture a multitude of information, such as UTM parameters, the date and time of the interaction, and the type of interaction (form submission, campaign response, etc.). AMM stores Touchpoint records on the lead or contact record in SFDC.
+
+### Buyer Touchpoints (BT)
+
+Buyer Touchpoints are created on lead or contact objects directly. They do not relate to an opportunity and do not have a NET ARR value.
+
+### Buyer Attribution Touchpoint (BAT)
+
+AMM creates Buyer Attribution Touchpoints when Sales accepts an opportunity created on an account with Buyer Touchpoints. AMM only creates Buyer Attribution Touchpoints on Contact objects, and they must relate to an opportunity. BATs have a NET ARR value.
+
+| Buyer Touchpoint (BT) | Buyer Attribution Touchpoint (BAT) |
+| ----- | ----- | 
+| Relates to the Lead & Contact | Relates to the Contact, Account, and Opportunity Objects 
+| Does not relate to the Opportunity Object | Does not relate to the Lead Object |
+| Revenue is not associated to a Buyer Touchpoint |	Assigned revenue when NET ARR of Opportunity is set |
+
+### Channel and Subchannel
+
+[AMM maps Touchpoints](#amm-channel-and-subchannel-mapping) in [channels and subchannels](https://experienceleague.adobe.com/docs/marketo-measure/using/channel-tracking-and-setup/online-channels/marketing-channels-and-subchannels.html?lang=en). 
+
+- Channels - Are the broadest level of Touchpoint groupings and contain many subchannels. Examples of channels include Events, Organic Search, Paid Search, Digital, etc.
+- Subchannels - Give more specific information about the source. Examples include Google (for Paid Search channel, LinkedIn (for Paid Social channel), Executive Roundtable (for events) 
+
+AMM presents channels and subchannels in dot notation. Where `Paid Search.Google` has a channel of `Paid Search` and subchannel of `Google`.
+
+### Touchpoint Position
+
+AMM tracks the position of a touchpoint based on its timing to other touchpoints per person. The abbreviations below are shown in the `Touchpoint Position` field in SFDC.
 - FT - First Touch, a prospect's first-ever interaction
 - LC - Lead Created, prospect submits information
 - OC - Opportunity Creation, prospect intentionally moves toward a purchase decision
 - Closed - Customer Close, prospect makes a purchase
-- Pending - The Pending touchpoint position is stamped only on BATs (Buyer Attribution Touchpoints) not on BTs (Buyer Tocuhpoints). This touchpoint position is shown **only when the opportunity is still open**, because attribution credit must always add up to 100%. To elaborate further, if we're using a [Full Path Model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#full-path) (22,5% to FT, LC, OC, Closed and the remaining 10% for middle touches), while the Opportunity is still open, the remaining 22,5% credit that is allocated to Closed(Lost,Won) must go somewhere else. So, AMM, has the temporary touchpoint Position of Pending to hold this credit. As a second example, let's say we're using our [Custom Attribution Model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#custom-attribution-based-on-bizible-machine-learning-algorithm), in this case, if a opportunity is still open for that particular contact, the 10,1% attribution credit for Closed (Lost, Won) would be shown temporary as Touchpoint Position Pending until that opportunity is Closed, when the Touchpoint position pending will change to the usual Touchpoint Position Closed(Lost, Won). For more information visit this [link](https://nation.marketo.com/t5/marketo-whisperer-blogs/bizible-s-pending-touchpoint-position/ba-p/312477)
+- Pending - [The Pending touchpoint position](https://nation.marketo.com/t5/marketo-whisperer-blogs/bizible-s-pending-touchpoint-position/ba-p/312477) is stamped only on BATs (Buyer Attribution Touchpoints), not on BTs (Buyer Touchpoints). This touchpoint position is shown **only when the opportunity is still open**, providing a temporary value to allow the opportunity credit to sum to 100%.
 
-To note: by default, Adobe Marketo Measure would also create a touchpoint for pageviews (only if it’s the anonymous first touch or the last thing before a milestone stage change, like Opportunity Created for example). This has been discussed in this [issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/887#note_1130386743), where it was shown that web visit TPs (not generally connected with a marketing activity) skew the data considerably.  
+### Attribution Models
 
-Here is AMM's breakdown of how [Touchpoints are generated and mapped](https://docs.marketo.com/display/BIZ/Touchpoint+Generation+and+Mapping):    
+GitLab uses [AMM's Custom Attribution model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#custom-attribution-based-on-bizible-machine-learning-algorithm) based on a unique machine learning algorithm from AMM. The Custom model uses our touchpoint data to calculate attribution weights for each stage based on how much each opportunity stage drove the deal to close. 
 
-#### Touchpoint Generation Methods
-The touchpoint generation process answers the question, “How is AMM going to know that this occurred?” Depending on your feature set and the types of interactions your prospective customers can have, there are up to three ways AMM can pick up on an interaction and create a touchpoint to represent it.
-
-| Type of Interaction                 | Example                                                                                       | Touchpoint Generation Method                                                                                                                                      |
-|-------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Online, on your site(s)             | Form fill                                                                                     | AMM JavaScript                                                                                                                                                |
-| Offline; Online not on your site(s) | Tradeshows; BrightTalk Webcasts (for Attended status TPs); Content syndication partner delivers a list of leads who engaged with your content;  | CRM Campaign membership by adjusting the Enable Bizible Touchpoint setting directly on the campaign or by setting up campaign sync rules in the admin area in AMM. For the Brighttalk Webcasts it's done by the Marketo Programs Integration, through Marketo Program Rules |
-| Sales activity                      | Outbound call by SDR                                                                          | CRM Activity (Task or Event) record synced to AMM, through logic on the Activities page in AMM                                                            |
-
-#### Touchpoint Mapping Methods
-The touchpoint mapping process answers the question, “Once this touchpoint’s been created, how is AMM going to know what channel and subchannel it belongs to?” Each method of touchpoint generation has its own method of touchpoint mapping.
-
-| Type of Interaction                  | Generation Method            | Mapping Method                                                                                                       |
-|--------------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Online, on your site(s)              | AMM JavaScript           | Through the Online Channels page in AMM, by referencing UTM values, landing page, and referring page information |
-| Offline; Online, not on your site(s) | CRM Campaign membership sync or through the Marketo Programs Integration, through Marketo Program Rules | Through the Offline Channels page in AMM, by referencing Campaign Type or the Marketo Program Channel Mapping|                                         |
-| Sales activity                       | CRM Activity sync            | Through the Online Channels page in AMM, by referencing the Campaign Name assigned on the Activities page        |
-
-
-There are two types of AMM Touchpoints as explained below. 
-
-| Buyer Touchpoint (BT) | Buyer Attribution Touchpoint (BAT) |
-| ----- | ----- | 
-| Relates to the Lead, Contact, and Case Objects | Relates to the Contact, Account, and Opportunity Objects 
-| Does not relate to the Opportunity Object | Does not relate to the Lead Object |
-| Revenue is not associated to a Buyer Touchpoint |	Since a Buyer Attribution Touchpoint is associated to an Opportunity, all BATs have revenue associated to them |
-
-##### Sales Activity Tracking in AMM
-AMM looks at two key fields on a Task/Event to determine if a BT/BAT should be created for it, `Disposition` and `Type`. 
-`Type` will become what system/activity category (IQM for example) created the touchpoint.
-`Disposition` is used by AMM to determine when a touchpoint should be created.    
-
-In an ideal scenario, all systems will use one of two options for the `Disposition`. Either `meaningful engagement/move to SAO` or `meaningful engagement` to tell AMM when to create a touchpoint. This will reduce the manual effort on the backend and simplify both reporting and system administration. 
-`meaningful engagement/move to SAO` will be used when there was a quality engagement with the prospect and this lead to the creation of a SAO whereas `meaningful engagement` will be used when there was a quality engagement that did not lead directly to a SAO (such as a meeting that was useful, but didn't indicate the prospect was ready for a sales accepted opportunity).
-
-Example: Initial Qualifying Meetings (IQMs)
-When an IQM is had, the `Type` is set to `IQM` and the disposition currently is set to `Quality Meeting` to indicate that the meeting/IQM should be counted as a touchpoint and was useful to the sales/marketing process.    
-Ideally, `Quality Meeting` would be changed to the more generic, `menaingful engagement`, so that we have parity between the tools and can use a tool-agnostic approach to touchpoint generation. 
-
-
-### Online vs. Offline Touchpoint Management
-#### Online
-Online channels are any channels that would be directly associated with your website or any integrated site – any display advertising, paid search, paid social, organic search, organic social, email, chatbots, etc.    
-
-Buyer touchpoints are automatically created when a form is submitted on one of the GitLab.com domains for these online channels, therefore we do not need to create SFDC campaigns to track these.
-
-**Important:** AMM (Bizible) online touchpoint generation is creating online touchpoints **only** if the website visitor has cookies enabled. Depending on the users location, he might have the cookies enabled by default or he'll be promted with the OneTrust banner to choose whether he allows cookies or not. **If the user chooses not to allow cookies, AMM (Bizible) will not be creating online touchpoints for that website interaction (i.e form submit) and the lead won't be captured as an INQ in Sisense reporting dashboards.** Additional documenation about the different [consent models](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust/#consent-models) and the [geographic OneTrust banner rules](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust/#banner-rules) can be found on the [OneTrust handbook page](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust).  
-
-#### Offline
-Offline channels are associated with initiatives like direct mail, trade shows or hospitality events, marketing or sales research, and pretty much any other channel where a person’s engagement cannot be tracked digitally or where they physically attend. A quick rule of thumb: if there is a list uploaded and the person took an action, they are offline buyer touchpoints.
-
-Offline buyer touchpoints are created either by: 
-1. Adjusting the `Enable Bizible Touchpoints` field on the Salesforce Campaign object to either `Include only "Responded" Campaign Members` or `Include All Campaign Members` 
-2. Through campaign sync rules, which generate TPs for based on well defined criteria. To learn how these rules work please see this [Custom Campaign Sync Adobe Marketo Measure documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/channel-tracking-and-setup/offline-channels/custom-campaign-sync.html?lang=en). 
-
-At Gitlab, as of Jan 2023, we are creating these offline touchpoints through the campaign sync rule approach, as this results in increased automation when it comes to the offline touchpoint creation and less manual setup needed. 
-
-The current campaign sync rules in place can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564) and are based mostly on values found in field like `Campaign Type`, `Campaign Member Status`, `Campaign Name`, `Campaign Member Created Date`. As long as the SFDC campaign is created correctly, has the correct naming and campaign type, the AMM touchpoints will be created automatically.  
-
-[See progression statuses for the standard `Campaign Types` that will have offline buyer touchpoints enabled](/handbook/marketing/marketing-operations/)
-
-## Attribution Models
-
-Marketing attribution is the process of assigning revenue credit to a marketing touchpoint. This is done by tracking a prospect’s entire customer journey, starting from their very first interaction with your company to when the deal closes. The revenue generated from the deal gets attributed back to the marketing touchpoints that drove the sale. The amount of revenue credit given to a touchpoint depends on how much that touchpoint influenced the customer’s purchasing decision.
-
-[Here](https://www.bizible.com/blog/marketing-attribution-models-complete-list) is AMM's breakdown of the major attribution models. 
-
-**Note: GitLab uses a blended approach when it comes to attribution models. The Custom Attribution Model (Based on AMM Machine Learning) is going to be used side-by-side the other attribution models in order to get us closer to the "true" attribution answer.**
-
-Below are the major attribution models that GitLab marketing uses of that list: 
-
-### U-Shaped
-U-Shaped attribution is a great lead generation focused attribution model. It tracks every single touchpoint up to the point of lead creation. It emphasizes the importance of two touchpoints: the first touch that brought the lead to us (while anonymous) - `First Touch` and the touchpoint that converted the lead to a known prospect - `Lead Creation`. These two touches get 40% of the attribution each and the remaining touches equally share the remaining 20%.  
-
-![image](/handbook/marketing/marketing-operations/bizible/U-Shaped-Bizible.png)
-
-### W-Shaped
-W-Shaped attribution takes U-Shaped and expands it to opportunity creation. It emphasizes the importance of three touchpoints: the first touch that brought the lead to us (while anonymous) - `First Touch`, the touchpoint that converted the lead to a known prospect - `Lead Creation`, and the touchpoint that converted that prospect to an opportunity - `Opportunity Creation`. These three touches get 30% of the attribution each and the remaining touches equally share the remaining 10%.
-
-![image](/handbook/marketing/marketing-operations/bizible/W-Shaped-Bizible.png)
-
-### Full Path
-Full Path attribution (or the Z-Shaped model) tracks the entire lifecycle of the record from `First Touch` through the point of becoming a customer - `Customer Close`. Full Path expands on the W-Shaped model by adding a 4th important touchpoint of `Customer Close`, adding it to the 3 important touches of W-Shaped. Each of these 4 touches get 22.5% of the attribution and all of the other touches equally share the remaining 10%. 
-
-![image](/handbook/marketing/marketing-operations/bizible/Full-Path-Bizible.png)
-
-### Linear Attribution
-Linear Attribution is the simplest and most all-encompassing of the multi-touch attribution models and is the model that GitLab is focused on for longterm attribution modeling. In this model every touchpoint from `First Touch` through to `Customer Close` and beyond share equal credit as shown below. 
-
-![image](/handbook/marketing/marketing-operations/bizible/Linear-Bizible.png)
-
-### Custom Attribution (Based on AMM Machine Learning Algorithm)
-Custom Attribution based on the AMM machine learning attribution model uses our touchpoint data to calculate how much attribution weighting should be assigned to each stage. This is determined by how important each stage was in driving deals to close. 
+Adobe Marketo Mesure supports [other attribution methods](https://www.bizible.com/blog/marketing-attribution-models-complete-list) not used by GitLab.
 
 **How is the Machine Learning model Calculated?**
 
-AMM calculates the importance of each custom stage by using the touchpoint data from our account. The criteria used to determine the importance of each stage are:
+AMM calculates the importance of each custom stage by using all of GitLab's touchpoint data. The criteria used to determine the importance of each stage are:
 
 - **Model Accuracy:** If we build a predictive model with the touchpoint data to predict whether we will win a deal eventually, how accurate will the model be? Higher predictive accuracy means that the details of this stage correlates more with whether a deal will close
 - **Conversion Rate:** If Leads or Opportunities at this certain stage convert to the next stage at a high rate, this suggests that the marketing activities that occurred at this stage didn't matter very much. Conversely, if a certain stage converts to the next stage at a low rate, this can suggest that the marketing activities that occurred at this stage were influential in driving the conversion.
 - **Touchpoint Uniqueness Weight:** If a stage occurs as a standalone transition, meaning there weren't any other stage transitions that occurred at the same time, this stage could receive a higher attribution weight. Conversely, if a touchpoint for a stage is shared with other stages (e.g. the touchpoint shares the First Touch, Lead Conversion, and Opportunity Conversion stages) this stage could receive a lower attribution weighting. 
 The final weight for a custom stage is calculated as such:
 
-_**Model Percentage = Model Accuracy x Conversion Rate x Touchpoint Uniqueness Weight**_
+```
+Model Percentage = Model Accuracy x Conversion Rate x Touchpoint Uniqueness Weight
+```
 
-At the end, all the custom stage weights are normalized and converted to % as shown below.
+The Custom Attribution Model's machine learning algorithm improves as it collects more data but does not automatically adjust stage weights. To ensure GitLab is using the best model, during the first month of the fiscal year, the Marketing Operations team updates the weight of each stage. The previous weights can be seen [on this Google Sheet](https://docs.google.com/spreadsheets/d/1gE0rLgVjz04kEEaZtw763SLcKlRcq5y4/edit#gid=1524071528). 
 
-The Custom Attribution Model, based on the Machine Learning Algorithm is a living model. It constantly improves based on the new data coming in. 
-
-To allow for the most up to date weights, the Marketing Operations team does constant refreshes of the Custom Attribution Model. As to have proper documentation, here in the handbook you can see the weight changes made, and when they occured.  
-
-Currently, the custom machine learning model has the following weights for each stage (updated February 14th 2023): 
+Currently the Custom Model has the following weights for each stage (updated February 14th, 2023): 
 
 - **First Touch** - 22.6%
 - **Lead Creation** - 22.7%
@@ -151,46 +93,71 @@ Currently, the custom machine learning model has the following weights for each 
 - **Closed (Lost, Won)** - 20%
 - **Middle Touches** - 10.0%
 
-The custom model weights, is scheduled to be updated on a yearly basis, at the end of the FY (first week into the new FY). The previous weights can be seen [here](https://docs.google.com/spreadsheets/d/1gE0rLgVjz04kEEaZtw763SLcKlRcq5y4/edit#gid=1524071528). 
+### Online vs. Offline Touchpoints
 
-#### How GitLab Calculates Linear Attribution IACV
-Here is an example of how we calculate linear IACV:    
+AMM generates Touchpoints as either online or offline based on how they were created. 
 
-There are two opportunities, Opportunity A and Opportunity B.   
-Opportunity A has an IACV of $10,000. There are a total of 100 touchpoints (attribution touchpoints) associated with that opportunity. Each touchpoint is valued at $100 ($10,000 / 100 touchpoints). We call that the `Weighted Linear IACV`  
+#### Online
+Online Touchpoints are created when users submit a form on a GitLab web property. They are sourced from traditional online marketing channels, including display advertising, paid search, paid social, organic search, organic social, email, chatbots, etc.    
 
-Opportunity B has an IACV of $15,000. There are a total of 100 touchpoints (attribution touchpoints) associated with that opportunity. Each touchpoint is valued at $150 ($15,000 / 100 touchpoints). We call that the `Weighted Linear IACV`
+While offline Touchpoints need an SFDC campaign created beforehand to create touchpoints, online Touchpoints do not.
 
-Of the Touchpoints on Opportunity A, they are split among 2 different campaigns - 60 touches in Campaign Y and 40 in Campaign Z.   
+**Important:** Users must have allowed or not rejected cookies for AMM to create online Touchpoints. GitLab uses OneTrust to manage user [consent on our web properties](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust/#consent-models), [depending on the user's location](https://about.gitlab.com/handbook/marketing/digital-experience/onetrust/#banner-rules) they may have to allow cookies for the AMM script to load. **If the user rejects or opts out of OneTrust consent, AMM will not create online Touchpoints.** 
 
-Of the Touchpoints on Opportunity B, they are split among 2 different campaigns - 40 touches in Campaign Y and 60 in Campaign Z. 
+#### Offline
+Offline Touchpoints are created from interactions outside the web, including visiting a trade show booth, attending a hospitality event, and being sent a direct mailer. These interactions are for channels where a person's engagement cannot be tracked digitally or where they physically attended an event. A quick rule of thumb: if there is a list uploaded and the person took action, they are offline buyer touchpoints.
 
-To calculate the linear attribution IACV in each of those two campaigns we use the following calculation:   
-**Campaign Y** : 60 touches (from Opp A) at a `Weighted Linear IACV` of $100/touch = $6,000 + 40 touches (from Opp B) at a `Weighted Linear IACV` of $150/touch = $6,000. Total: $12,000 linear IACV.    
+Offline buyer touchpoints are created either by: 
+1. Adjusting the `Enable Bizible Touchpoints` field on the Salesforce Campaign object to either `Include only "Responded" Campaign Members` or `Include All Campaign Members` 
+2. Through campaign sync rules, which generate TPs for based on well defined criteria. To learn how these rules work please see this [Custom Campaign Sync Adobe Marketo Measure documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/channel-tracking-and-setup/offline-channels/custom-campaign-sync.html?lang=en). 
 
-**Campaign Z** : 40 touches (from Opp A) at a `Weighted Linear IACV` of $100/touch = $4,000 + 60 touches (from Opp B) at a `Weighted Linear IACV` of $150/touch = $9,000. Total: $13,000 linear IACV. 
+As of January 2023, we are creating offline Touchpoints through the campaign sync rules. This switch decreases manual setup work for the Marketing Operations Team.
+
+The [current campaign sync rules](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564) and are largely based on the `Campaign Type`, `Campaign Member Status`, `Campaign Name`, and `Campaign Member Created Date` fields in SFDC. 
+
+[See progression statuses for the standard `Campaign Types` that will have offline buyer touchpoints enabled](/handbook/marketing/marketing-operations/)
+
+### Page View Tracking
+
+We have disabled page view tracking in AMM. We found that recording page views into our attribution data [skews the data considerably](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/887#note_1130386743).
+
+## Touchpoint Generation & Mapping
+
+Touchpoints are generated one of three ways, on GitLab's Websites, Offline, or through Sales activity. The table below gives examples of how each are sourced.
+
+Once a Touchpoint is created, AMM uses a set of predefined [mapping rules](#amm-channel-and-subchannel-mapping) to assign a [channel and subchannel](#channel-and-subchannel) to each Touchpoint based on how the Touchpoint was generated.
+
+| Type of Interaction     | Example                                                                                                                                       | Touchpoint Generation Method                                                                                                                                                                                    | Mapping Method                                                                                                   |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Online, via our website | Form fill                                                                                                                                     | AMM JavaScript                                                                                                                                                                                                  | By referencing UTM values, session landing page, referring page information |
+| Offline                 | Tradeshows; BrightTalk Webcasts (for Attended status TPs), Content syndication partner delivers a list of leads who engaged with your content | CRM Campaign membership by enabling Touchpoint Generation on the campaign Object, by configuring campaign sync rules in AMM, Brighttalk Webcasts via Marketo Programs Integration through Marketo Program Rules | By referencing Campaign Type or the Marketo Program Channel Mapping    |
+| Sales activity          | Outbound call by SDR                                                                                                                          | CRM Activity (Task or Event) record synced to AMM, through logic on the Activities page in AMM                                                                                                                  | By referencing the Campaign Name assigned on the Activities page        |
+
+AMM has more extensive documentation on how [Touchpoints are generated and mapped](https://docs.marketo.com/display/BIZ/Touchpoint+Generation+and+Mapping).
 
 
-The Checksum is to combine the IACV of both opportunites ($10,000+$15,000=$25,000) and compare it to the sum of the linear IACV of all campaigns those opportunities are a part of: ($12,000+$13,000=$25,000). The results of the sums are equivalent - we are good.   
+## AMM Channel and Subchannel Mapping
 
+Abode Marketo Measure stores a customizable set of rules for online and offline touchpoints separately. They can be edited through either the Online Channels page or Offline Channels page in AMM.
 
-Note: If the IACV of the opportunity/opportunities is/are negative, then the resulting `Weighted Linear IACV` and final linear IACV of the campaign(s) could be negative. 
-
-## AMM Channel and Sub-Channel Mapping
+**Important:** AMM rule changes can only be made once every 7 days. AMM uses this time to re-process all touchpoint data with the new rules.
 
 ### Online Channel Mapping
-The channels and sub-hannels are mapped based on 5 attributes: 
-1. Campaign - this is the `utm_campaign` value on the form URL the form submission occurs on. 
-1. Medium - this is the `utm_medium` value on the form URL the form submission occurs on.
-1. Source - this is the `utm_source` value on the form URL the form submission occurs on.
-1. Landing Page - this is the landing page url that the form submission occurs on. 
-1. Referring Website - this is the website that referred the submitter to the form submission page. 
+The channels and subchannels are mapped based on 5 attributes: 
+1. Campaign - taken from the `utm_campaign` value on the session landing page or form URL where form submission occurs.
+1. Medium - taken from the `utm_medium` value on the session landing page or form URL where form submission occurs.
+1. Source - taken from the `utm_source` value on the session landing page or form URL where form submission occurs.
+1. Landing Page - this is the landing page URL that the form submission occurs on. 
+1. Referring Website - this is the website that referred the submitter to the form submission page.
 
-These rules are hierarchical and will operate in a top-down fashion, so the first rule is checked and then the second, and so on.
+These rules are hierarchical and will operate top-down, so the first rule is checked, then the second, and so on.
 
-**Note: AMM reprocesses your data when you edit the mapping logic, so you won’t be able to change these rules more than once every 7 days.**
+Note: Some Online Touchpoints do not fall into a specific rule with a well-defined source. For example, these Touchpoints could be missing a UTM parameter or have no tracking information. These Touchpoints are mapped to either Direct or Other:
 
-| Channel        | Sub Channel        | Campaign                   | Medium                             | Source                             | Landing Page                              | Referring Website        |
+- Other - Touchpoints with tracking information (utm_source, utm_medium, etc.) that does not match any rule.
+- Direct - Touchpoints that do not have tracking information, e.g. visitors who may have manually typed in a URL or came from another site with no referring URL. 
+
+| Channel        | Subchannel        | Campaign                   | Medium                             | Source                             | Landing Page                              | Referring Website        |
 |----------------|--------------------|----------------------------|------------------------------------|------------------------------------|--------------------------------------------|--------------------------|
 | Paid Search    | Google             |                            | cpc                                | google                             |                                            |                          |
 | Paid Search    | Google             |                            |                                    |                                    |                                            | [AdWords Paid Search]    |
@@ -235,16 +202,13 @@ These rules are hierarchical and will operate in a top-down fashion, so the firs
 | Email          |                    |                            | email;eml;e-mail;hs-email;emailsig |                                    |                                            |                          |
 | Email          |                    |                            |                                    |                                    |                                            | *email.gitlab.com*       |
 | Email          |                    |                            |                                    |                                    |                                            | [Web Mail]               |
-| IQM            | IQM                | Initial Qualifying Meeting |                                    |                                    |                                            |                          |
-| Other          |                    |                            | *                                  |                                    |                                            |                          |
-| Other          |                    |                            |                                    | *                                  |                                            |                          |
-| Direct         | Web Store          |                            |                                    |                                    | *customers.gitlab.com/*                    |                          |
-| Direct         | CI Minutes         |                            |                                    |                                    | *customers.gitlab.com/buy_pipeline_minutes*|                          |
+| Other         |                    |                            | Any Value                                |                                   |                                            |                          |
+| Other         |                    |                            |                                |          Any Value                          |                                            |                          |
 | Direct         | Self Managed Trial |                            |                                    |                                    | *about.gitlab.com/free-trial/self-managed/*|                          |
 | Direct         | Trial Home         |                            |                                    |                                    | *about.gitlab.com/free-trial/*             |                          |
 | Direct         | GitLabCom Trial    |                            |                                    |                                    | *gitlab.com/-/trials/new*                  |                          |
 | Direct         |                    |                            |                                    |                                    |                                            | direct;[Account Website] |
-| Web Referral   |                    |                            |                                    |                                    |                                            | *                        |
+| Web Referral   |                    |                            |                                    |                                    |                                            | Any Value                        |
 
 
 ### Bucket Channel Mapping
