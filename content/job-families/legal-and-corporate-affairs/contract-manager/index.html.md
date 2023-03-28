@@ -74,7 +74,7 @@ The Senior Contract Manager is a [grade 7](/handbook/total-rewards/compensation/
 
 ## Manager, Lead Contract Manager
 
-The Manager, Lead Contract Manager reports to the Sr. Director, Contracts & Legal Operations and is responsible for managing the Contract Managers located globally. They are responsible for the continued growth of the team, as well as, providing leadership in the form of mentoring and creating enablement and training materials for all GitLab Team Members.  
+The Manager, Lead Contract Manager reports to the Sr. Director, Contracts & Legal Operations and is responsible for managing the Contract Managers located globally. They are responsible for the continued growth of the team, as well as, providing leadership in the form of mentoring and creating enablement and training materials for all GitLab Team Members.
 
 ## Job Grade
 
@@ -122,6 +122,7 @@ Read more about what a [specialty](/handbook/hiring/#definitions) is at GitLab h
 
 
 ## Performance Indicators
+
 - [Number of Opportunities closed by Contract Manager(s) per Quarter](/handbook/legal/#number-of-opportunities-closed-by-contract-managers-per-quarter--66)
 - [Response times to initial requests for review](/handbook/legal/#response-times-to-initial-requests-for-review--24-business-hours)
 - [‘Turn-Around’ times on received red-lines](/handbook/legal/#turn-around-times-on-received-red-lines--72-business-hours)

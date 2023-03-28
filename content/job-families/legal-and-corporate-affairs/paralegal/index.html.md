@@ -26,7 +26,7 @@ The Associate Paralegal is a [grade 5](/handbook/total-rewards/compensation/comp
 
 #### Associate Paralegal Requirements
 
-- 1-2 years of experience working in an in-house legal department in a paralegal capacity preferred but will consider comparable experience outside the legal department.  
+- 1-2 years of experience working in an in-house legal department in a paralegal capacity preferred but will consider comparable experience outside the legal department.
 - Paralegal certification preferred but will consider comparable experience in lieu of certification.
 - Strong attention to detail and affinity for use of various types of technologies.
 - Proactive, dynamic and result driven individual with strong organizational skills.
@@ -76,16 +76,18 @@ The Paralegal is a [grade 6](/handbook/total-rewards/compensation/compensation-c
 The Senior Paralegal is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
+
 - Act as the DRI (“Directly Responsible Individual”) with respect to complex / strategic projects and legal matters
 - Guide other Paralegals, and personally develop and add information and content to internal knowledge-base repositories and playbooks
 - Engage leadership across the organization to proactively address requests and projects
 - At the direction of leadership, research legal, regulatory and industry standards to identify areas of improvement to enable GitLab to meet best-in-class standards
-- Prepare documents, conduct due diligence and perform other responsibilities related to subject matter expertise across Corporate, Employment, and Product & Privacy  
+- Prepare documents, conduct due diligence and perform other responsibilities related to subject matter expertise across Corporate, Employment, and Product & Privacy
 - Identify and design new processes and procedures with regards to requests from internal stakeholders
 - Maintain and audit varying types of records
 - Directs research programs and provides actions to be taken by GitLab for review by leadership
 
 #### Requirements
+
 - Minimum of 8+ years experience working in a law firm, in-house legal department, or combination of both, in a paralegal capacity
 - Paralegal certification preferred but will consider comparable experience in lieu of certification
 - Demonstrated ability to successfully manage cross-functional projects
@@ -94,7 +96,6 @@ The Senior Paralegal is a [Grade 7](/handbook/total-rewards/compensation/compens
 - Strong attention to detail and affinity for use of various types of technologies including Slack, G-Suite, Microsoft Office and other applications
 - Proactive, dynamic and result driven individual with strong organizational skills
 - Ability to use GitLab
-
 
 ## Specialties
 
@@ -148,7 +149,6 @@ The Paralegal (Employment) works collaboratively with the GitLab Legal Employmen
 - Experience using GitLab a plus.
 - Bachelor’s degree preferred.
 
-
 #### Paralegal (Employment) Responsibilities
 
 - Assist Employment team with variety of employment compliance matters such as review and update of employment policies.
@@ -168,12 +168,11 @@ The Paralegal (Employment) works collaboratively with the GitLab Legal Employmen
 - Conduct research as required.
 - Assist on other projects as needed.
 
-
 #### Employment Performance Indicators
 
-- [Review legal issue tracker for employment and employment compliance requests and timely respond.](/handbook/legal/#review-the-legal-issue-tracker-daily-ongoing--24-hours).
-- [Track People Ops and People Success Issues for requests for legal support and timely respond.](#review-peopleops-pbp-daily-ongoing--24-hours).
-- [Complete MR’s and Open Epics and Issues to support employment compliance projects](#create-MR-issue-ongoing--100).
+- [Review legal issue tracker for employment and employment compliance requests and timely respond.](https://about.gitlab.com/handbook/legal/#review-the-legal-issue-tracker-daily-ongoing--24-hours).
+- Track People Ops and People Success Issues for requests for legal support and timely respond.
+- Complete MR’s and Open Epics and Issues to support employment compliance projects.
 - Maintain and manage records for employment matters.
 
 ### Paralegal (Privacy & Product)
@@ -181,6 +180,7 @@ The Paralegal (Employment) works collaboratively with the GitLab Legal Employmen
 The Paralegal, Privacy & Product works collaboratively with the Legal Privacy & Product team on a broad range of areas, including privacy, marketing and product. This team member also provides organizational and substantive support to the Legal team and builds out new systems and procedures as needed.
 
 #### Paralegal (Privacy & Product) Requirements
+
 - 5+ years paralegal experience at an international in-house legal department.
 - CIPP certification preferred.
 - Strong written and verbal communication. and organizational and analytical skills.
@@ -193,6 +193,7 @@ The Paralegal, Privacy & Product works collaboratively with the Legal Privacy & 
 - Bachelor’s degree preferred.
 
 #### Paralegal (Privacy & Product) Responsibilities
+
 - Assist the privacy team with a variety of privacy matters such as the intake and review of privacy questionnaires; provide advice relating to data subject access requests and other privacy issues; help manage the privacy program and make process improvements;
 - Assist in handling of DMCA requests and abuse responses;
 - Manage the receipt of law enforcement requests and assist with responses;

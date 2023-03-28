@@ -2,10 +2,8 @@
 layout: job_family_page
 title: Legal Counsel
 ---
- 
-The Legal Counsel job family is responsible for advising clients across GitLab on legal matters related to their functional area of expertise.
 
-# Levels
+The Legal Counsel job family is responsible for advising clients across GitLab on legal matters related to their functional area of expertise.
 
 ## Associate Legal Counsel
 
@@ -54,6 +52,7 @@ The Legal Counsel is a [Grade 6](/handbook/total-rewards/compensation/compensati
 - Build the necessary processes, systems, and documentation to improve legal department processes and resources
 
 ### Legal Counsel Requirements
+
 - 4 - 8 years' legal experience, preferably in a multinational company
 - JD/LLB or local law degree equivalent and admission to local governing body
 - Experience working effectively across business units and internal functions to efficiently resolve business issues
@@ -131,6 +130,7 @@ The Lead Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/compe
 The Managing Legal Counsel is a [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#job-grades).
 
 ### Managing Legal Counsel Responsibilities
+
 - Continue to grow and expand a cohesive commercial legal team and implement efficient processes in support of our customer sales organization
 - Act as an escalation stakeholder, and approver, for reporting Legal Counsel; provide overall guidance in the drafting and negotiation process
 - Participate in annual planning with respect to headcount and budgeting
@@ -144,6 +144,7 @@ The Managing Legal Counsel is a [Grade 8](https://about.gitlab.com/handbook/tota
 - Understand GitLab and GitLab products in order to identify risks, develop solutions, mitigation and negotiation strategies
 
 ### Managing Legal Counsel Requirements
+
 - 8+ years combined law firm and in-house legal department experience, preferably in a multinational company, with a considerable amount of time dedicated to commercial contracting
 - Juris Doctorate/United States law degree (or its equivalent) and bar admission in at least one US state, or the jurisdiction in which the Team Member is employed
 - Successful track record of managing and/or mentoring Legal professionals
@@ -167,7 +168,7 @@ The Principal Legal Counsel is a [Grade 9](/handbook/total-rewards/compensation/
 ### Principal Legal Counsel Responsibilities
 
 - Subject matter expert for whom the legal team and broader internal stakeholders rely upon for expert advice and guidance.
-- Project and Program management responsibilities associated with subject matter expertise.  
+- Project and Program management responsibilities associated with subject matter expertise.
 - Independently manage  strategic and complex legal matters with both internal and external partners
 - Partner and provide leadership to team members and stakeholders across GitLab to provide pragmatic advice to minimize legal risks while advancing the goals of the business
 - Benchmark, advise, draft, maintain and review templates and policies
@@ -193,6 +194,7 @@ The Principal Legal Counsel is a [Grade 9](/handbook/total-rewards/compensation/
 The Senior Managing Legal Counsel is a [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#job-grades).
 
 ### Senior Managing Legal Counsel Responsibilities
+
 - Lead Continue to grow and expand a cohesive commercial legal team and implement efficient processes in support of our customer sales organization
 - Dedicated subject matter expert to resolve escalations and key stakeholder and approver for reporting Legal Counsel and cross-funtional team mebmers; provide overall strategy and guidance in the drafting and negotiation process
 - Participate in annual planning with respect to headcount and budgeting
@@ -206,6 +208,7 @@ The Senior Managing Legal Counsel is a [Grade 9](https://about.gitlab.com/handbo
 - Understand GitLab and GitLab products in order to identify risks, develop solutions, mitigation and negotiation strategies
 
 ### Senior Managing Legal Counsel Requirements
+
 - 10 - 15  years combined law firm and in-house legal department experience, preferably in a multinational company, with a considerable amount of time dedicated to commercial contracting and managing commercial teams or team members
 - Juris Doctorate/United States law degree (or its equivalent) and bar admission in at least one US state, or the jurisdiction in which the Team Member is employed
 - Successful track record of managing and/or mentoring Legal professionals in an in-house environment

@@ -31,10 +31,11 @@ The Director of Compliance is a [Grade 10](/handbook/total-rewards/compensation/
 - Background with building efficiency for scale, and proven ability to iterate and learn things quickly
 - An effective communicator with the ability to use “plain language”, escalate, coordinate, provide feedback, and ask for help
 - Strong operational mindset with ability to prioritize projects and demands
-- Embrace GitLab Values of [Collaboration](https://about.gitlab.com/handbook/values/#collaboration), [Results](https://about.gitlab.com/handbook/values/#results), [Efficiency](https://about.gitlab.com/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion), [Iteration](https://about.gitlab.com/handbook/values/#iteration), and [Transparency](https://about.gitlab.com/handbook/values/#transparency)  
+- Embrace GitLab Values of [Collaboration](https://about.gitlab.com/handbook/values/#collaboration), [Results](https://about.gitlab.com/handbook/values/#results), [Efficiency](https://about.gitlab.com/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion), [Iteration](https://about.gitlab.com/handbook/values/#iteration), and [Transparency](https://about.gitlab.com/handbook/values/#transparency)
 
 
 ## Performance Indicators
+
 - Performance indicators will be set by the incoming Director of Compliance, upon joining GitLab.
 
 ## Career Ladder

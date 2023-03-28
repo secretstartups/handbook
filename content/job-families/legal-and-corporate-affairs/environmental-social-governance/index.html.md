@@ -7,7 +7,7 @@ title: Environmental & Social Governance (ESG)
 
 ### ESG Manager Job Grade
 
-The ESG Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The ESG Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## ESG Manager
 
@@ -16,6 +16,7 @@ The ESG Manager reports to the Senior Director, ESG, and is responsible for cont
 The ideal candidate has deep expertise in environment, social, and governance programs and disclosures. This individual can inspire and influence cross-functional teams and has a strong desire to make a positive impact.
 
 ### ESG Manager Responsibilities
+
 - Participate in the development of the company’s ESG strategy and implements the strategy
 - Contribute to the development and publication of ESG reports including collecting data, material metrics, and consolidating information requests
 - Collect, manage, and submit content to key ESG rating firms and track score progress
@@ -26,6 +27,7 @@ The ideal candidate has deep expertise in environment, social, and governance pr
 
 
 ### ESG Manager Requirements
+
 - 3+ years’ experience in non-financial reporting, corporate social responsibility, ESG disciplines or sustainability
 - Knowledge of key reporting frameworks including GRI, SASB, CDP, and TCFD
 - Experience in managing ESG issues and disclosures, preferably in the tech industry
@@ -50,6 +52,7 @@ The Senior Director, ESG reports to the [Chief Legal Officer, Head of Corporate 
 
 
 ### Senior Director, ESG Responsibilities
+
 - Establish best-in-class strategy and operating plan with regards to GitLab ESG, CSR and sustainability initiatives
 - Identify and prioritize sustainability and social issues; setting goals that support alignment and integration of the ESG, CSR and sustainability vision into overall corporate strategy
 - Develop measurement policies and implement governance processes and disclosure controls to ensure completeness and accuracy of ESG, CSR and sustainability reporting
@@ -65,6 +68,7 @@ The Senior Director, ESG reports to the [Chief Legal Officer, Head of Corporate 
 
 
 ### Senior Director, ESG Requirements
+
 - 6+ years validated experience in sustainability, ESG, CSR or relevant roles
 - Extensive knowledge of global sustainability, ESG and CSR standard methodologies and trends
 - Shown success in the development and execution of successful sustainability strategies

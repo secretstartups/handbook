@@ -24,10 +24,12 @@ Internships at GitLab offered in the framework described on this page will be pa
 The Legal Intern is a grade 4 (/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
+
 - Assist GitLab Legal Team on projects ranging across employment law, privacy and product work and corporate projects.
 - Work on other projects within GitLab Legal as assigned.
 
 ## Requirements
+
 - Completed 2 years of law school
 - Proactive, dynamic and result driven individual with attention to detail
 - Enthusiasm and "self-starter" qualities enabling the intern  to manage responsibilities with an appropriate sense of urgency; the ability to function effectively and efficiently in a fast-paced & dynamic environment

@@ -82,6 +82,7 @@ The Director of Legal, Employment collaborates with clients across GitLab on a b
 The Senior Director of Legal, Litigation & Risk Management reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for providing counsel and guidance related to litigation, claims, and dispute resolution. As part of their role, the Senior Director of Legal, Litigation & Risk Management will collaborate with key leaders across GitLab in order to manage a variety of projects related to risk management and dispute resolution.
 
 ### Senior Director of Legal, Litigation & Risk Management Responsibilities
+
 - Support resolution across a wide range of topics
 - Efficiently handle, including (but not limited to) responding to subpoenas and discovery requests, drafting and revising legal documentation, investigations and negotiating and drafting agreements
 - Coordinate with internal business partners across GitLab to proactively address and resolve matters in support of business objectives
@@ -93,6 +94,7 @@ The Senior Director of Legal, Litigation & Risk Management reports to the [Chief
 - Inform and guide GitLab’s risk management strategies and contribute to GitLab’s global compliance program(s)
 
 ### Senior Director of Legal, Litigation & Risk Management Requirements
+
 - 8+ years of broad litigation experience at a leading law firm and/or in-house, handling various aspects of commercial litigation, alternative dispute resolution, pre-litigation disputes, and internal investigations
 - Effective collaborator who embraces iteration in order to innovate, drive, and scale best-in-class litigation and dispute programs, drive strategy with stakeholders from multiple functions, and anticipate evolving risk in a global market
 - Deep knowledge and proven track record of success with ranging litigation matters, including eDiscovery, document retention policies and procedures; collection, review, and production of documents; and third-party subpoena compliance
@@ -108,22 +110,25 @@ The Senior Director of Legal, Litigation & Risk Management reports to the [Chief
 ## Performance Indicators
 
 ### Corporate
+
 - Timely and accurate contributions to filings and corporate governance matters
 - Successful completion of M&A projects
 - Accurate and complete corporate records
 
 ### Commercial
+
 - Hire and manage a high functioning, empowered team of commercial legal attorneys to partner with our internal clients and customers, as well as collaborate with our Contracts Management team
 - Maintain and update current agreement forms and create new agreements as areas of the business requires
 - Successful creation and administration of ongoing training related to commercial contract terms for internal clients
 
 ### Privacy and Product
+
 - Successful oversight of privacy compliance initiatives
 - Accurate export control administration
 - Management of open source licensing directives nd other intellectucal property matters
 
-
 ### Employment
+
 - Timely and accurate contributions to global employment related matters
 - Accurate and complete employment related templates, forms and policies
 - Successful creation and administration of ongoing employment law related training for internal clients
