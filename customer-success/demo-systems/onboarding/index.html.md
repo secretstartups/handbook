@@ -301,7 +301,7 @@ Learn more about setting up these demos at [gitlab.com/gitlab-learn-labs/webinar
 
 - [ ] **Install GitLab Runners**
 
-You only need to do this if you find yourself running out of shared runner minutes. It is typical that SAs + CSM/Es exhaust their CI minutes quota. While installing and running an agent is an advanced topic, it is something that our customers ask a lot of questions about so it's best to be well versed on the topic. If you are brave you can follow our docs to set up the runner in a different way: https://docs.gitlab.com/runner/install/ 
+You only need to do this if you find yourself running out of shared runner minutes. It is typical that SAs + CSM/Es exhaust their compute credits quota. While installing and running an agent is an advanced topic, it is something that our customers ask a lot of questions about so it's best to be well versed on the topic. If you are brave you can follow our docs to set up the runner in a different way: https://docs.gitlab.com/runner/install/ 
 
 1. First we need to set up an Ubuntu VM before moving forward. Navigate to your GCP project, and click through **Compute Engine > VM instances**.  Next click **CREATE INSTANCE**.
 

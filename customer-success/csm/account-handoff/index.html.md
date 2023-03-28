@@ -134,5 +134,5 @@ Assess the environment where the customer's GitLab instance is hosted.
 - GitLab.com (SaaS) Assessment:
   - Runners Evaluation
     - Private On-Prem Runners
-  - CI Minutes Utilization
+  - Compute Credits Utilization
     - CI usage trends (i.e daily, weekly, monthly etc.)
