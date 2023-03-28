@@ -178,7 +178,7 @@ To find the log entry in `pubsub-rails-inf-gprd-*`:
 
 1. Get the link for the container registry in question. (For exmaple: https://gitlab.example.com/group/project/container_registry/<ContainerRepository>)
 1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
-1. Add a positive filter on `json.graphql.variables` for `*ContainerRepository/1842896.*`.
+1. Add a positive filter on `json.graphql.variables` for `*ContainerRepository/<regitsry id>.*`.
 1. Add a positive filter on `json.graphql.operation_name` for `destroyContainerRepositoryTags`.
 
 #### Searching Kibana for 500 level errors
