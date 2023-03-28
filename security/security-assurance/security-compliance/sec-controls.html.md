@@ -365,17 +365,10 @@ _Detailed sub-controls are included in the various control family pages_
 | SC-1 | Policy and Procedures | Establishment of system and communications protection policy and procedures that address the controls in the SC family implemented within systems and organizations. | 
 | SC-5 | Denial-of-service Protection | To protect against or limit the effects of denial-of-service events. | 
 | SC-7 | Boundary Protection | To monitor and control communications at the external managed interfaces to the system and at key internal managed interfaces within the system. | 
-| SC-8 | Transmission Confidentiality and Integrity | To protect the confidentiality and integrity of transmitted information. | 
-| SC-10 | Network Disconnect | To terminate the network connection associated with a communications session at the end of the session or after the organization-defined time period of inactivity. | 
-| SC-11 | Trusted Path | To provide an isolated trusted communications path for communications between the user and the trusted components of the system. | 
+| SC-8 | Transmission Confidentiality and Integrity | To protect the confidentiality and integrity of transmitted information. |  
 | SC-12 | Cryptographic Key Establishment and Management | To establish and manage cryptographic keys when cryptography is employed within the system. | 
-| SC-13 | Cryptographic Protection | To determine the  cryptographic uses and implement the cryptography required for each specified cryptographic use. | 
-| SC-17 | Public Key Infrastructure Certificates | To issue public key certificates with visibility external to organizational systems and certificates related to the internal operations of systems for which trust is assumed and not derived. | 
-| SC-28 | Protection of Information at Rest | To protect the confidentiality and/or integrity of information at rest. | 
-| SC-38 | Operations Security | To employ a systematic process of operations security controls to protect key organizational information throughout the system development life cycle. | 
-| SC-39 | Process Isolation | To maintain a separate execution domain for each executing system process. | 
-| SC-42 | Sensor Capability and Data | To prohibit the use of devices possessing environmental sensing capabilities in organization-defined facilities, areas, or systems. | 
-| SC-45 | System Time Synchronization | To synchronize system clocks within and between systems and system components. | 
+| SC-18 | Mobile Code | Develop and implement a program to define acceptable and unacceptable mobile code and mobile code technologies, and authorize, monitor, and control the use of mobile code within GitLab's systems. |
+| SC-28 | Protection of Information at Rest | To protect the confidentiality and/or integrity of information at rest. |  
 
 </details>
 
