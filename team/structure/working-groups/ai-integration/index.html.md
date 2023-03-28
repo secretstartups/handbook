@@ -83,3 +83,4 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Legal representative             | @jbackerman | [Jesse Backerman](https://about.gitlab.com/company/team/#jbackerman)   | Managing Legal Counsel |
 | Vulnerability Research Representative | @idawson | [Isaac Dawson](https://about.gitlab.com/company/team/#idawson) | Staff Vulnerability Researcher |
 | Vulnerability Research Representative | @dbolkensteyn | [Dinesh Bolkensteyn](https://about.gitlab.com/company/team/#dbolkensteyn) | Sr. Vulnerability Researcher |
+| ML Engineering Representative | @achueshev | [Alexander Chueshev](https://about.gitlab.com/company/team/#achueshev) | Sr. Backend Engineer AI Assisted |
