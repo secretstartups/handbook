@@ -125,7 +125,7 @@ Note: if they say they do NOT want to shift left and empower developers to find 
 
 GitLab Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance.
 
-*Note: Everything you get in Premium plus all security scanners, vulnerability management, security and compliance dashboards, free guest users, 50,000 CI/CD minutes, a named CSM, and more…*
+*Note: Everything you get in Premium plus all security scanners, vulnerability management, security and compliance dashboards, free guest users, 50,000 compute credits, a named CSM, and more…*
 
 ### How GitLab Does It
 

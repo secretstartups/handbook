@@ -102,7 +102,7 @@ Get maximum benefits from using GitLab by adding Security capabilities of Ultima
 3) Improve visibility while at the same time reducing friction between processes and tools used by dev and app sec teams.
 
 Other thoughts/notes:
-* Everything you get in Premium as well as free guest users, 50,000 CI/CD minutes, and more…
+* Everything you get in Premium as well as free guest users, 50,000 compute credits, and more…
 * GitLab Ultimate provides the single tool DevOps teams need to find and fix vulnerabilities in application code and its environments and to manage their risk from detection through remediation. 
 * GitLab empowers and unites developers and security pros alike using repeatable, defensible processes that automate security and compliance policies from development through production.
 
