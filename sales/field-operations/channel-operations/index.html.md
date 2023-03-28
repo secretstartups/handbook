@@ -187,17 +187,17 @@ GitLab is building out a global Authorized Distributor network similar to many o
 **For Commercial Markets:**
 *   Open Partners located in regions/countries with active Authorized GitLab Distributors must purchase GitLab via those distributors effective May 1, 2023
 *   Select Partners may choose to transact directly with GitLab (excluding certain regions) or via the region's authorized distributor(s)
-*   In EMEA: Partners transact with Amazic via gitlab@amazic.com
-*   In APAC (several countries):  Partners transact with Tech Data/TD Synnex, who can be contacted at: https://www.techdata.com/apac/en/partner-with-us/become-a-partner.html
-    *   In India: Partners may also choose to transact with Redington via gitlab@redington.co.in
-    *   In Japan: Partners may also choose to transact with Networld, who can be contacted at: https://www.networld.co.jp/product/gitlab/
-    *   In Thailand: Partners may also choose to transact with Get On Technology, who can be contacted at: https://www.got.co.th/contact
+*   In EMEA: Partners transact with Amazic via `gitlab@amazic.com`
+*   In APAC (several countries):  Partners transact with [Tech Data/TD Synnex](https://www.techdata.com/apac/en/partner-with-us/become-a-partner.html) via `billy.tjong@techdata.com`
+    *   In India: Partners may also choose to transact with Redington via `gitlab@redington.co.in`
+    *   In Japan: Partners may also choose to transact with [Networld](https://www.networld.co.jp/product/gitlab/) via `gitlab-info@networld.co.jp`
+    *   In Thailand: Partners may also choose to transact with [Get On Technology](https://www.got.co.th/contact) via `gitlab@got.co.th`
 *   In AMER: All Partners transact directly with GitLab; however, this may change in the future as we evaluate our distribution strategy
 
 GitLab sellers can also refer to the [partner billing section](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#how-to-find-partner-billing-records-in-sfdc-and-use-for-quoting) of this handbook for a link to our distributor billing records and guidance on how these records are used in the quoting process.
 
 **For US PubSec:**
-*   Partners transact with Carahsoft via gitlab@carahsoft.com
+*   Partners transact with Carahsoft via `gitlab@carahsoft.com`
 
 #### Rules of Engagement for Distributor Quotes and Orders
 Distributors work directly with GitLab Sellers on the quoting and ordering process. GitLab Sellers can leverage the [partner quoting resources](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-quoting-overview-and-resources), [distributor contact information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#distributor-requirements-and-coverage-by-geo-and-market), and [Selling with Partners - GitLab Sales FAQ](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/sales-faq/) to aid in the quote and order process.
