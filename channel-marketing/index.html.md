@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Global Channel and Alliances Marketing"
-description: "Global Channel and Alliances Marketing supports global channel and alliances sales objectives and providing support to the GitLab channel partner community and customers."
+title: "Global Channel Marketing"
+description: "Global Channel supports global channel sales objectives and providing support to the GitLab channel partner community and customers."
 ---
 
 ## On this page
@@ -15,7 +15,7 @@ description: "Global Channel and Alliances Marketing supports global channel and
 GitLab global and regional channel and alliances sales teams, global and local field sales teams, regional [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) teams, channel account managers, the global alliances team and product marketing team.
 
 ## Our Team
-Global Channel and Alliances Marketing is a team of seasoned professionals supporting global channel and alliances sales objectives and providing support to the GitLab channel partner community and customers.  This small but mighty team is responsible for the development of channel and alliances marketing campaigns that leverage GitLab’s Go to Market Campaigns and value plays.  We work with partners to help them understand what the campaigns are, how to use them to help drive partner sourced opportunities, how to leverage upcoming GitLab webinars/webcasts to drive conversion and how to generate trials for GitLab that they can nurture with prospects.  Channel partners are ultimately responsible for the execution of these campaigns.  
+Global Channel Marketing team is a team of seasoned professionals supporting global channel sales objectives and providing support to the GitLab channel partner community and customers.  This small but mighty team is responsible for the development of channel marketing campaigns that leverage GitLab’s Go to Market Campaigns and value plays.  We work with partners to help them understand what the campaigns are, how to use them to help drive partner sourced opportunities, how to leverage upcoming GitLab webinars/webcasts to drive conversion and how to generate trials for GitLab that they can nurture with prospects.  Channel partners are ultimately responsible for the execution of these campaigns.  
 
 The Global Channel marketing team provides support to partners by creating different campaign assets into leverageable go-to-market programs called Instant Campaigns that partners can easily pick up and run with their customer or prospect lists.  GitLab channel marketing is also responsible for the development, rollout and management of trial enablement programs by which partners can generate trials of GitLab directly from their website, and passing or providing trial leads generated from GitLab’s own website to be worked and converted by partners.  
 
@@ -25,12 +25,12 @@ We partner with regional Channel Account Managers and Field Marketing regional t
 
 As a service bureau to a wide variety of teams, we have support functions that are both in and out of scope at this time.  We have ideated on a list of potential future service capabilities that, as this team is able to add resources and our business plan requires it, we will add to our list of service offerings.  To recommend that we add a service offering to this growing list of potential offerings, please create an issue.
 
-## Current Service Offerings as of Q1 FY22
+## Current Service Offerings
 
 *.  For an in-depth look at the programs and tools we offer our partners, see our [marketing menu of services](https://about.gitlab.com/handbook/marketing/channel-marketing/channel-marketing-epics/Channel-Marketing-Service-Offerings/) page. 
 *   Administering [Marketing Development Fund](https://about.gitlab.com/handbook/marketing/channel-marketing/#requesting-mdf-funds) (MDF) to provide financial reimbursement for APPROVED partner marketing campaigns and events.  Requests must support GitLab GTM initiatives and adhere to the MDF Request Process detailed below. MDF reimbursement will be at 50% of the total campaign request. There are three approval levels and each level has 2 business days to review and approve/decline the MDF proposal. 
-*   Turnkey, integrated [instant marketing campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/instant-campaigns/) provide the collateral materials partners need to run a demand-generation campaign.
-    *   Support and funding for translation and localization of campaign assets from English to another language for [priority countries](https://docs.google.com/spreadsheets/d/1eRrtRPdNSQjtvDrEvPJ_klfqKAatnLIzDjvShXhnSr8/edit?usp=sharing) will be considered upon request For additional information on localization, please visit the [Localization](https://about.gitlab.com/handbook/marketing/localization/#priority-countries) Handbook page.
+*   Turnkey, integrated [instant marketing campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/#What-is-a-Partner-Instant-Marketing-Campaign) provide the collateral materials partners need to run a demand-generation campaign.
+    *   For additional information on localization, please visit the [Localization](https://about.gitlab.com/handbook/marketing/localization/#priority-countries) Handbook page.
 *   Global [external virtual events, workshops](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/), and third party events and webcasts  leveraging Alliance partner “better together” messaging and joint GTM solution customer value propositions.
 *   In partnership with [Channel Programs Operations](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/): 
     *   Develop marketing campaign that targets partner Solution Architects to become advocates of GitLab by delivering GitLab solution overviews, demos and proof of concepts to uncover and convert sales opportunities
@@ -138,16 +138,66 @@ CAMs can now order swag for approved co-marketing events or other approved award
 2. Have the following information ready: date of the envent, contact information and shipping address
 3. CMMs will coordinate with the CAM/Parnter directly to get the items shipped
  
+## What is a Partner Instant Marketing Campaign?
+
+With GitLab Instant Marketing campaign assets, GitLab’s Select and Open partners have access to marketing resources to help them quickly, and easily generate qualified prospects for their sales teams. We’ve developed turnkey, integrated partner campaigns-in-a-box, which we refer to as “Partner Instant Marketing” campaigns, so partners can simply and easily co-brand assets and execute!
+
+These assets leverage GitLab go-to-market motions, such as DevSecOps and Automated Software Delivery, but are modified and expanded (in some cases) for partner use. Campaign assets include: nurture emails, landing pages, short videos, mini-books, social media and paid ads, quick sales guides and sales call scripts. All assets can be found on theGitLab partner portal. 
+
+Our modular campaign is designed to be a flexible, self-service model, so partners can download an entire campaign, or a couple of assets, and the materials are customizable and co-brandable. These campaigns are also available in 6 languages: English, French, German, Japanese, Korean and Spanish. 
+
+Here’s a look at our current campaigns available to partners by logging into the [Marketing Demand Generation section](https://partners.gitlab.com/prm/English/c/marketing-demand-gen) of the partner portal:
+
+- GitLab Free Trials 
+- GitLab with DevOps 
+- GitLab with DevSecOps
+- GitLab Ultimate Upgrade 
+- GitLab Automated Software Delivery 
 
 ## Partner-Initiated GitLab Free Trial Lead Gen Program
 
-Partners now have the ability to place a FREE trial button on their website as a critical call to action to their demand generation plans. Free trials allow users to have 30 day access to the full set of features in the Self-Managed version of GitLab. Once a visitor requests a free trial from a GitLab partner, the record is sent to GitLab for the license key to be generated and assigned to a partner in SFDC. In addition, the lead is then routed automatically via Vartopia to the partner for tracking and follow up. This is the same process that is followed whether the record is considered a lead or a contact within GitLab's instance of SFDC.
+Get all the assets you need to host a GitLab Ultimate SaaS or Self-Managed free trial custom link on your own website and run an end-to-end multi-touch campaign, offering customers and prospects the opportunity to try before they buy. We provide two unique tracking links that direct your prospects and customers to the GitLab 30-day Self-Managed or SaaS free trial registration forms. Free Trial lead requests come in and are tagged with your partner ID and then routed automatically into the partner portal deal registration prospect section. Partners can access and manage their GitLab leads in the same interface as their [deal registration](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).
 
-Partners can access and manage their GitLab leads in the same interface as their [deal registration](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview). When leads are shared with partners, partners will now see an additional tab in the Vartopia GitLab Deal Registration portal called Prospects. Partners can also easily convert their prospects to deal registrations and submit them to GitLab for approval. Please refer to the following assets to walk you through how to access these leads, step by step: 
+We currently offer the Self-Managed form in English, Spanish, German, French, Korean and Japanese and the custom SaaS free trial form in English.
 
-*   [Reference the User Guide](https://drive.google.com/file/d/1IYOPfvwIWgUIknF4JZdTM4BIO-lmm0U2/view?usp=sharing) 
-*   [How-to video](https://youtu.be/e3qXq6TGbMY) 
-*   [GitLab technical setup](/handbook/marketing/channel-marketing/partner-campaigns/)
+*   [Reference the Free Trial Introduction Guide](https://partners.gitlab.com/prm/English/s/assets?id=433002&q=free%20trial) 
+*   [How to grow business using Microsites, Free Trial and Vartopia lead passing Video](https://partners.gitlab.com/prm/English/s/assets?id=429634&q=vartopia) 
+*   [GitLab Lead Management Demo](https://partners.gitlab.com/prm/English/s/assets?id=443125&q=vartopia) 
+*    [GitLab Lead Management Prospect Guide](https://prod.impartner.live/en/s/assets?id=430453&q=prospect)
+
+## How to Sign up for the GitLab Free Trial Program 
+
+- Reach out to the GitLab Global Channel Marketing team via email at partner-marketing@gitlab.com to get your custom free trial link(s) and assign your your Partner Prospect Admin. This role will need to be assigned before you [test](https://partners.gitlab.com/prm/English/s/assets?id=439667&q=prospect) and use your free trial link. 
+   
+   - Please note if you are using the SaaS free trial form you must add the following consent on your website and any marketing materials you are using that point your customers to the SaaS free trial form:
+
+      _I agree that GitLab may share the data in this form with the GitLab partner that referred me to this landing page and GitLab's partner may contact me by email or telephone about relevant products, services and events. You may opt-out at any time by unsubscribing in future emails or contacting the GitLab partner directly._
+
+
+- Next, test your custom URL to ensure you are recieving the leads inside the partner portal deal registration prospect section. 
+
+   - Learn more about where to find your leads by watching this [video](https://player.vimeo.com/video/807924930). 
+
+ - Use our [ready made assets](https://partners.gitlab.com/prm/English/c/marketing-free-trial#:~:text=Step%203%3A%20Get%20the%20word%20out) to create co-branded display ads, social posts, and emails to invite prospects to the trial. Link to your custom free trial URL to drive traffic to the Free Trial landing page. 
+ 
+ -  Once a user registers for a free trial on the landing page, they receive an auto-generated email from GitLab with their license key. Your next step: nurture and convert those leads! The links below provide you with the copy and supporting assets that you need to run your own email campaign to nurture your leads over the next 30-days on their buyer journey, from evaluation to purchase.
+ 
+ You can download the full kit of free trial assets [here](https://partners.gitlab.com/prm/English/s/assets?id=439714&q=free%20trial%20kit).
+
+## GitLab Hosted Partner Microsite Program
+
+Content syndication can be a great way for organizations to get information and messaging onto partnersʼ websites. But often, this content isnʼt optimized for search engines, plus it can become outdated and inaccurate unless partners maintain it, and it offers only limited metric tracking. To help our partners have access to the latest content available, we created a [demand generation Partner Microsite Program](https://partners.gitlab.com/prm/English/s/assets?collectionId=49429&id=429634_View). With a little information and commitment from you, weʼll build and maintain a co-branded microsite with compelling information for your customers. We offer the microsite in English, Spanish, French, German, Japanese and Korean.
+
+Check out a [sample microsite](https://learn.gitlab.com/updated-partner-engl).
+
+## How to Sign up for the GitLab Hosted Partner Microsite Program
+
+- Provide us with your company logo, contact information for a designated person to receive and take action on leads and a value statement for your company (value statement optional).
+- GitLab generates a co-branded microsite with content that is consistently refreshed with the latest GitLab solution-level messaging. The microsite will include a customer call-to-action for a 30-day Free Trial. Weʼll provide you with a unique URL to include in your nurture efforts. Note, the call-to-action for this campaign is for customers to take a 30 day free trial. We currently offer the Self-Managed free trial on our English, Spanish, Korean, Japanese, French and German sites and the SaaS free trial on our English sites.  Note, you can add the 30-day free trial functionality to your own website by accessing [our Free Trial campaign](https://about.gitlab.com/handbook/marketing/channel-marketing/#partner-initiated-gitlab-free-trial-lead-gen-program).
+- You commit to running at least one full nurture effort (including at least three emails **or** a three-month Google ad campaign), pulling a target lead list with a minimum of 50 customers from your own database, taking follow-up action via either telemarketing or direct sales contact on all leads routed to your organization, tracking the results of the leads through your own Salesforce system, and providing GitLab with a report three months after the completion of the campaign. Note: You can create the content for your nurture emails or Google ad campaign, or you can leverage materials in GitLab's [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/#What-is-a-Partner-Instant-Marketing-Campaign).
+- You can schedule custom reporting to recieve leads that come in from your nurture emails and marketing efforts. 
+- GitLab will provide you with metrics reports on a bi-weekly basis.
+- GitLab will manage any changes or updates to the microsite and notify you of changes.
 
 ## Future/Potential Service Offerings
 
@@ -155,35 +205,6 @@ Partners can access and manage their GitLab leads in the same interface as their
 *   Partner marketing concierge services (dependent on funding/resources)
 *   Joint demand generation campaigns with partners
 *   Partner Sales Engineer/Solution Architect marketing program (to become advocates of GitLab)
-
-## Channel Partner Program Participation Overview
-
-Channel Partners can enroll in multiple Partner Programs including the Microsite, Free Trial and UserEvidence offerings. We keep track of the program participation by updating the Salesforce Activity, which can be reviewed in a [SFDC Report](https://gitlab.my.salesforce.com/00O8X00000963dq). 
-
-Anytime a partner registers in a new program, the DRI, `Partner Marketing Coordinator/Specalist` must complete the following steps to ensure we can accurately report on the program participation:
-1. Identify the Partner Account of the Channel Partner Program
-    
-    1a. Ensure the Account Detail - `Account Record Type` = `Partner`
-    
-    1b. Ensure the GitLab Partner Program Info - `Partner Type` = `Channel`
-
-2. On the Account page layout, go to Open Activities, select a `New Event`
-
-3. In the New Event, add the following:
-
-   3a. Input the Subject: 
-      - `Microsite Program - Partner Site`
-      - `Microsite Program - Sales Site` 
-      - `Free Trial Program - Self Managed` 
-      - `Free Trial Program - SaaS` 
-   
-   3b. Select the `Type` to `Marketing`
-
-   3c. Unselect `Reminder`
-   
-   3d. Save
-
-Note, the subject needs to be an exact match of what's displayed above, otherwise, it will not show up in the SFDC report.
 
 ## Beyond our Team’s Scope
 
@@ -247,8 +268,7 @@ Our team is small but mighty and there are a few things that are simply **outsid
    * Enablement is a sales and/or technical motion and the marketing manager can review or include the training as part of a larger initiative (and should) but would not be the one to author the content.  Alliances marketing manager can also lean on our enablement team to help provide resources/assistance.
 * **Sales incentives**
    * Sales incentives are funded out of the Partner Operations team.  The alliances marketing manager will include the incentive as part of a larger initiative but would not be the one to author or fund the incentive.  
-
-**For additional questions, concerns or requests please direct them to: Coleen Greco, Director, Global Channel and Alliances Marketing.** 
+ 
 
 
 ## Meet the Team
@@ -271,4 +291,3 @@ Our team is small but mighty and there are a few things that are simply **outsid
 
 #channel-marketing 
 
-#alliances_partnermktg
