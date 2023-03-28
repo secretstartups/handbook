@@ -80,7 +80,7 @@ With large enterprises we have 2 opportunities:
 
 #### Open Source Projects opportunity
 
-GitLab is committed to supporting open source. ON GitLab SaaS, open source projects get unlimited concurrent jobs and 50K CI pipeline minutes per month for free. The GitHub Integration allows projects who host their code on GitHub to use GitLab for CI/CD for free.
+GitLab is committed to supporting open source. ON GitLab SaaS, open source projects get unlimited concurrent jobs and 50K compute credits per month for free. The GitHub Integration allows projects who host their code on GitHub to use GitLab for CI/CD for free.
 
 #### Broader GitHub community opportunity
 
@@ -187,7 +187,7 @@ possibility, but requires additional complexity such as augmenting how we price.
 
 
 - JAXenter:[GitLab 10.6: CI/CD for GitHub, increased Kubernetes support](https://jaxenter.com/gitlab-10-6-142702.html), Jane Elizabeth, 3.23.18
-    - “As part of their prior commitment to supporting open source, GitLab already offers all public projects their highest tier features for free. This means that open source projects on GitHub will be able to handle hundreds of concurrent jobs with 50,000 free pipeline minutes.”
+    - “As part of their prior commitment to supporting open source, GitLab already offers all public projects their highest tier features for free. This means that open source projects on GitHub will be able to handle hundreds of concurrent jobs with 50,000 free compute credits.”
 
 
 

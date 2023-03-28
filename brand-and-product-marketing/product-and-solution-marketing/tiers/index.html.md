@@ -29,9 +29,9 @@ title: "GitLab tiers"
 
 ## Types of Users
 
-1. Free User - anyone who uses GitLab free tier and does not pay for additional CI minutes or storage (but is eligible to beyond what is included in the free tier). 
+1. Free User - anyone who uses GitLab free tier and does not pay for additional compute credits or storage (but is eligible to beyond what is included in the free tier). 
 2. Trial User - anyone who is currently in trial on one of the paid tiers.
-3. Consumption User - anyone who uses GitLab free tier and pays by consumption for additional CI minutes or storage beyond what is included in the free tier.
+3. Consumption User - anyone who uses GitLab free tier and pays by consumption for additional compute credits or storage beyond what is included in the free tier.
 4. Licensed User - anyone who is on a source-available license
     1. Ultimate User - a licensed user on Ultimate
     2. Premium User - a licensed user on Premium

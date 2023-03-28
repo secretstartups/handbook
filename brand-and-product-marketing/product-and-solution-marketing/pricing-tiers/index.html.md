@@ -31,7 +31,7 @@ title: "GitLab tiers for sales assessment"
 | **End to end Insights and Analytics** | No |	Yes |	Yes |
 | **Enterprise Readiness** (High Availability, Disaster Recovery, Geo Replication support) |	No |	Yes |	Yes |
 | **Enterprise Readiness** (Compliance, Audit logs & Separation of Duties (SoD) |	No | Yes |	Yes |
-| **CI/CD minutes per group** (SaaS only) | 400 | 	10,000 | 	50,000 |
+| **Compute credits per group** (SaaS only) | 400 | 	10,000 | 	50,000 |
 | **Storage Limits per project** (SaaS only)| 10GB | 	10GB | 	10GB |
 
 ### Tier Feature Composition
