@@ -17,7 +17,7 @@ Vartopia is a partner lead sharing and deal registration system designed to maxi
 ## Prospects Module
 
 ### Channel Partner Lead Flow Overview
-Channel Partners can work with the Channel and Alliance Marketing team to create campaigns that will be shared to the Vartopia module. The [campaign types](/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Joint GitLab and Partner Events, Self-Managed Free Trials, and MDF funded campaigns. The flow starts from Marketo > Salesforce > LeanData > Vartopia.
+Channel Partners can work with the Channel Marketing team to create campaigns that will be shared to the Vartopia module. The [campaign types](/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Joint GitLab and Partner Events, Self-Managed Free Trials, and MDF funded campaigns. The flow starts from Marketo > Salesforce > LeanData > Vartopia.
 
 The partner lead is: 
 1. Created in Marketo via list import or form submission,
@@ -35,6 +35,7 @@ Once synced sucessfully between systems, the `Vartopia Transaction Id` in SFDC w
 
 When assigned a lead in Vartopia, the admin will receive an email alert with information about the lead and SLAs attached to it. The `Vartopia Prospect Id` (ex. L-555555) is a unique lead number identified populated by SFDC that shows in Vartopia and SFDC. We can use this as a non-PII identifier in both systems.
 
+### Instructional How To video for partners 
 Watch [this video](https://youtu.be/BmmiH_ctALk) for step by step instructions where partners can view, accept, reject, re-assign and convert leads to deal registration.
 
 #### Vartopia Access
