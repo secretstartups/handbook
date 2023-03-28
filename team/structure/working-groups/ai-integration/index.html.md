@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "AI Integration"
 description: "The GitLab AI Integration Working Group aims to define, coordinate and ramp up integration of AI capabilities into all product areas"
-canonical_path: "/company/team/structure/working-groups/api-vision/"
+canonical_path: "/company/team/structure/working-groups/ai-integration/"
 ---
 
 ## On this page
@@ -19,8 +19,9 @@ canonical_path: "/company/team/structure/working-groups/api-vision/"
 | Target End Date | TBD                                                                                                                                               |
 | Slack           | [#wg_ai_integration](https://gitlab.slack.com/archives/C04UL8HMW0L) (only accessible from within the company)                                         |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/19jVbWVYUPW3m7d2SzsXa2zXIAW7pSb2tdQ-AXWzT_DE/edit) (only accessible from within the company) |
-| Issue Board     | [Issue Board]()                                                |
+| Issue Board     | [Issue Board link TBD]()                                                |
 | Overview & Status | See [Exit Criteria](#exit-criteria) below |
+| Meeting schedule | Weekly on Wednesdays at 8am Pacific |
 
 ## Goal
 
