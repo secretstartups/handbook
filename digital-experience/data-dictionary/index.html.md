@@ -82,7 +82,7 @@ Our data needs to confrom to four APIs:
 
 The values we use in that API are described below by key/value pair, where arrays of each value are arrays of possible values. In practice, only one should be used: 
 
-- `name`: `[Ultimate, Premium, Pipeline Minutes, Storage]`
+- `name`: `[Ultimate, Premium, Compute credits, Storage]`
 - `id`: `[0001, 0002, 0003, 0004]`
 - `price`: `[99, 19, 10, 60]`
 - `brand`: `GitLab`
