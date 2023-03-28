@@ -3,22 +3,102 @@
 # Stop on error
 set -e
 
+# Define colors and styles
+normal="\033[0m"
+bold="\033[1m"
+green="\e[32m"
+yellow="\e[93m"
+red="\e[31m"
+
 #Set up 1password and glab
 export OP_PLUGIN_ALIASES_SOURCED=1
 alias glab="op plugin run -- glab"
 
 # Globals
 HANDBOOK_REPO=$(git rev-parse --show-toplevel)
+DIRECTORY_TO_SPLIT=NOSET
 
 # Command line options
 DUBDUBDUB_REPO=$(git rev-parse --show-toplevel)/../www-gitlab-com
 IS_HANDBOOK=false
 SECTION=job-families
-DIRECTORY_TO_SPLIT=job-families
-BRANCH_NAME=add-$SECTION-to-handbook
-TITLE="Job Families"
-ICON="fa-solid fa-users"
+TITLE=NOTSET
+ICON=NOTSET
+# SECTION=job-families
+# TITLE="Job Families"
+# ICON="fa-solid fa-users"
 
+usage() {
+    echo -e "Usage:"
+    echo -e "  ${bold}${red}-H  --handbook${normal}               Indicates a handbook section is being moved rather than a site"
+    echo -e "  ${bold}${red}-s  --section${normal}                Section directory name"
+    echo -e "  ${bold}${red}-t  --tittle${normal}                 Human readable title of the section being moved"
+    echo -e "  ${bold}${red}-i  --icon${normal}                   FontAwesome icon for new handbook entry"
+    echo -e "  ${bold}${red}-r  --www-rero${normal}               The location of the www-gitlab-com repo"
+
+    echo -e "  ${bold}${red}-v  --version${normal}                Shows version details"
+    echo -e "  ${bold}${red}-h  --help${normal}                   Shows this usage message"
+}
+
+version() {
+    echo "Handbook Migration Script"
+    echo "(c) GitLab 2022"
+    echo "Licensed under the MIT License"
+}
+
+# Process command line arguments
+while [ "$1" != "" ]; do
+    case $1 in
+        -H | --handbook)            IS_HANDBOOK=true
+                                    ;;
+        -s | --section)             shift
+                                    SECTION=$1
+                                    ;;
+        -t | --title)               shift
+                                    TITLE=$1
+                                    ;;
+        -i | --icon)                shift
+                                    ICON=$1
+                                    ;;
+        -r | --www-repo)            shift
+                                    DUBDUBDUB_REPO=$1
+                                    ;;
+        -v | --version)             version
+                                    exit
+                                    ;;
+        -h | --help)                usage
+                                    exit 0
+                                    ;;
+        * )                         echo -e "Unknown option $1...\n"
+                                    usage
+                                    exit 1
+    esac
+    shift
+done
+
+# Check for required arguments
+if [[ $SECTION == "NOTSET" ]]; then
+  echo -e "${red}${bold}Error:${normal}  Section to migratte not set.  Exiting..."
+  exit 1
+fi
+
+if [[ $TITLE == "NOTSET" ]]; then
+  echo -e "${red}${bold}Error:${normal}  Title of section to migratte not set.  Exiting..."
+  exit 1
+fi
+
+if [[ $ICON == "NOTSET" ]]; then
+  echo -e "${red}${bold}Error:${normal}  Icon of section to migratte not set.  Exiting..."
+  exit 1
+fi
+
+# check for directories
+if [ ! -d $DUBDUBDUB_REPO ]; then
+    echo -e "${red}${bold}Error:${normal} Unable located the dubdubdub directory $DUBDUBDUB_REPO. Exiting..."
+    exit 1
+fi
+
+BRANCH_NAME=add-$SECTION-to-handbook
 if [[ $HANDBOOK == true ]]; then
     DIRECTORY_TO_SPLIT=sites/handbook/source/handbook/$SECTION
     NEW_SECTION=content/handbook/$SECTION
@@ -27,14 +107,14 @@ else
     NEW_SECTION=content/$SECTION
 fi
 
-# check for directories
-if [ ! -d $DUBDUBDUB_REPO ]; then
-    echo Unable located the dubdubdub directory $DUBDUBDUB_REPO.
-    exit 1
-fi
+if [ ! -d $DUBDUBDUB_REPO/$DIRECTORY_TO_SPLIT ]; then
+ echo -e "${red}${bold}Error:${normal} Unable located the handbook section to migrate. Exiting..."
+     exit 1
+ fi
 
 # Make sure we're on Master and we have have all the latest commits for handbook
-echo "Making sure both repos are up to date..."
+echo -e "${bold}Making sure both repos are up to date...${normal}"
+exit 0
 cd $HANDBOOK_REPO
 git checkout main
 git pull
@@ -44,13 +124,13 @@ git checkout master
 git pull
 
 # Prepare directories
-echo "Making a copy of the www-gitlab-com repo directory..."
+echo -e "${bold}Making a copy of the www-gitlab-com repo directory...${normal}"
 mkdir /tmp/gitlab-migration
 cp -r $DUBDUBDUB_REPO /tmp/gitlab-migration/www-gitlab-com
 cd /tmp/gitlab-migration/www-gitlab-com
 
 # subtree split the directories
-echo "Performing git subtree split... this might take a few minutes..."
+echo -e "${bold}Performing git subtree split... this might take a few minutes...${normal}"
 git remote rm origin
 git filter-branch --subdirectory-filter $DIRECTORY_TO_SPLIT -- --all
 git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&$SECTION\//" |
@@ -59,7 +139,7 @@ git filter-branch -f --index-filter 'git ls-files -s | sed -e "s/\t\"*/&$SECTION
  mv "$GIT_INDEX_FILE.new" "$GIT_INDEX_FILE"' HEAD
 
 # Clean up everything outside of the content and .git directories
-echo "Cleaning up www-gitlab-com repo before commit and migration..."
+echo -e "${bold}Cleaning up www-gitlab-com repo before commit and migration...${normal}"
 for i in $(/bin/ls -a); do
     case $i in
     .)              continue
@@ -77,14 +157,14 @@ done
 
 # Migrate the content from dubdubdub to handbook using git pull
 # This preserves the git history of all the files we're pulling in
-echo "Performing migration from www-gitlab-com copy to handbook..."
+echo -e "${bold}Performing migration from www-gitlab-com copy to handbook...${normal}"
 cd $HANDBOOK_REPO
 git checkout -b $BRANCH_NAME
 git remote add $SECTION /tmp/gitlab-migration/www-gitlab-com
 git pull $SECTION master --allow-unrelated-histories
 git mv $SECTION content/
 
-echo "Creating index page for new content..."
+echo -e "${bold}Creating index page for new content...${normal}"
 # Create an index page so we can view the content
 cat << EOF > content/$SECTION/_index.md
 ---
@@ -100,16 +180,16 @@ EOF
 
 # Do a find and replace on all handbook and company links
 if [[ $HANDBOOK == false ]]; then
-  echo "Finding and replacing broken handbook links..."
+  echo -e "${bold}Finding and replacing broken handbook links...${normal}"
   find . -type f -name "*.md" -print0 | xargs -0 sed -i '' -e 's~](/handbook~](https://about.gitlab.com/handbook~g'
 fi
 if [[ $SECTION != "company" ]]; then
-  echo "Finding and replacing broken company links..."
+  echo -e "${bold}Finding and replacing broken company links...${normal}"
   find . -type f -name "*.md" -print0 | xargs -0 sed -i '' -e 's~](/company~](https://about.gitlab.com/company~g'
 fi
 
 # Run markdownlint to try to fix as many errors as possible
-echo "Runnig markdownlint in fix mode..."
+echo -e "${bold}Runnig markdownlint in fix mode...${normal}"
 sed -i '' -e 's~"fix": false,~"fix": true,~g' .markdownlint-cli2.jsonc
 sed -i '' -e 's~fix: false~fix: true~g' .markdownlint.yaml
 # Disable fail on error as we're expecting markdown lint to still have errors
@@ -121,7 +201,7 @@ sed -i '' -e 's~"fix": true,~"fix": false,~g' .markdownlint-cli2.jsonc
 sed -i '' -e 's~fix: true~fix: false~g' .markdownlint.yaml
 
 # Commit the result and raise an MR against the new handbook repo
-echo "Commiting changes and rasing a new MR..."
+echo -e "${bold}Commiting changes and rasing a new MR...${normal}"
 git add .
 git commit -m "Migrate $SECTION from www-gitlab-com to handbook"
 
@@ -135,10 +215,10 @@ to fix most markdown liniting errors although a number will still persist.  We h
 HANDBOOK_MR_OUTPUT=$(glab mr create --push --no-editor -y -b main -a jamiemaynard -l "handbook::operations" -t "$TITLE" -d "$DESCRIPTION")
 echo $HANDBOOK_MR_OUTPUT
 
-echo "Moving on to clean up of www-gitlab-com repo..."
+echo -e "${bold}Moving on to clean up of www-gitlab-com repo...${normal}"
 cd $DUBDUBDUB_REPO
 # Setup redirects in dubdubdub
-echo "Setting up redirects in www-gitlab-com..."
+echo -e "${bold}Setting up redirects in www-gitlab-com...${normal}"
 git checkout -b removing-$SECTION-and-adding-redirects
 # Replace existing redirects with new URL
 gsed -i -e "s~target: /$SECTION~target: https://handbook.gitlab.com/$SECTION~g" data/redirects.yml
@@ -158,7 +238,7 @@ EOF
 done
 
 # Remove old content and replace with a README.md
-echo "Removing migrated content from www-gitlab-com..."
+echo -e "${bold}Removing migrated content from www-gitlab-com...${normal}"
 git rm -r $DIRECTORY_TO_SPLIT/*
 cat << EOF > README.md
 # $TITLE has been migrated
@@ -174,7 +254,7 @@ If you need help or assitance with this please reach out to @jamiemaynard (Devel
 
 EOF
 
-echo "Committing changes and raising a new MR on www-gitlab.com..."
+echo -e "${bold}Committing changes and raising a new MR on www-gitlab.com...${normal}"
 git add .
 git commit -m "Removed migrated $SECTION handbook content"
 TITLE="Remove and clean up $SECTION following migration"
@@ -186,7 +266,7 @@ where this section of the handbooks code has moved to and where to get help.
 WWW_MR_OUTPUT=$(glab mr create --push --no-editor -y -b master -a jamiemaynard -l "handbook::operations" -t "$TITLE" -d "$DESCRIPTION")
 echo $WWW_MR_OUTPUT
 
-echo "Cleaning up the copy of www-gitlab-com repo..."
+echo -e "${bold}Cleaning up the copy of www-gitlab-com repo...${normal}"
 rm -rf /tmp/gitlab-migration
 
 cat << EOF
