@@ -32,7 +32,15 @@ Effective July 1, 2022 GitLab provides team members in Germany Personal Accident
 
 Direct Entitlement is excluded from the plan, meaning the premiums are only taxed in the event of a claim payment. Insured value for death due to an accident is 1x annual salary- limited to 500,000 Euros, the insured value for dismemberment due to an accident is 2x annual salary for a 100% claim - limited to 1,000,000 Euros. For additional details please find the [Fact Sheet in English](https://drive.google.com/file/d/1k0DhHjTjEIpharDYeXuM-HPVnTn2iY5J/view?usp=sharing) and the [Fact Sheet in German](https://drive.google.com/file/d/19bK96bs9L1fXJORqjeFQNZ5I2sTmIQG_/view?usp=sharing).  
 
- In the unfortunate event of an accident, please find the Group Personal Accident Flier in [German](https://drive.google.com/file/d/1AbBRSZ1-mkUyITCU0eLhltfRvu3Z3ppy/view?usp=sharing) & in [English](https://drive.google.com/file/d/1GFMTLLgMeyj1EZQ8K0axu8zxhV7jM4QT/view?usp=sharing) with information on how to report an accident and start a claim. 
+In the unfortunate event of an accident, please find the Group Personal Accident Flier in [German](https://drive.google.com/file/d/1AbBRSZ1-mkUyITCU0eLhltfRvu3Z3ppy/view?usp=sharing) & in [English](https://drive.google.com/file/d/1GFMTLLgMeyj1EZQ8K0axu8zxhV7jM4QT/view?usp=sharing) with information on how to report an accident and start a claim. 
+
+Accidents at work that are fatal or lead to an inability to work for more than 3 days must be reported within three days of the accident to our Berufsgenossenschaft VBG. 
+1. If you had an accident, please review the criteria [here](https://www.vbg.de/DE/2_Versicherungsschutz_und_Leistungen/2_Was_ist_versichert/1_Arbeits-_und_Wegeunfaelle/arbeits-_und_wegeunfaelle_node.html;jsessionid=1D2B9247A96790725C91E29C620D9109.live4) to clarify if the accident is insured as a work accident
+1. If it meets the criteria for a work accident, please fill in [this form](https://drive.google.com/file/d/1oIum7DOjuRBdJPGOzv07cIEEdGHVVEcp/view?usp=sharing) and report your accident to the Absence Management Team by emailing the form to leaves@gitlab.com. Fields 2 and 28 will get completed by the Absence Management Team.
+1. The Absence Management Team will [notify the VBG](https://service.vbg.de/arbeits-und-wegeunfall-berufskrankheit/unfallanzeige) about the accident report and inform the specialist for occupational safety.
+
+Further things to note:
+The injured team member has the right to a copy of the accident report and can request the final document by emailing leaves@gitlab.com.
 
 ## Life Insurance
 
