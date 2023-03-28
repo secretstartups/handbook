@@ -207,13 +207,13 @@ git add .
 git commit -m "Migrate $SECTION from www-gitlab-com to handbook"
 
 # Raise the MR using glab cli
-TITLE="Migrated $SECTION from www-gitlab-com to here"
-DESCRIPTION="
+MR_TITLE="Migrated $SECTION from www-gitlab-com to here"
+MR_DESCRIPTION="
 This MR is the result of a subtree split and git pull from www-gitlab-com.  We have run markdown lint in fix mode
 to fix most markdown liniting errors although a number will still persist.  We have updated links which point to
 \`/handbook\` and \`/company\` to point to the full URLs on the Handbook.
 "
-HANDBOOK_MR_OUTPUT=$(glab mr create --push --no-editor -y -b main -a jamiemaynard -l "handbook::operations" -t "$TITLE" -d "$DESCRIPTION")
+HANDBOOK_MR_OUTPUT=$(glab mr create --push --no-editor -y -b main -a jamiemaynard -l "handbook::operations" -t "$MR_TITLE" -d "$MR_DESCRIPTION")
 echo $HANDBOOK_MR_OUTPUT
 
 echo -e "${bold}Moving on to clean up of www-gitlab-com repo...${normal}"
@@ -245,7 +245,7 @@ This handbook content has been migrated to the new handbook site and as such thi
 has been locked from further changes.  If you are looking for this content in the reposity
 you can find it at:
 
-https://gitlab.com/gitlab-com/content-sites/handbook/content/$NEW_SECTION
+https://gitlab.com/gitlab-com/content-sites/handbook/
 
 If you need help or assitance with this please reach out to @jamiemaynard (Develop/Handbooks) or
 @marshall007 (DRI Content Sites).  Alternatively ask your questions on slack in [#handbook](https://gitlab.slack.com/archives/C81PT2ALD)
@@ -255,13 +255,13 @@ EOF
 echo -e "${bold}Committing changes and raising a new MR on www-gitlab.com...${normal}"
 git add .
 git commit -m "Removed migrated $SECTION handbook content"
-TITLE="Remove and clean up $SECTION following migration"
-DESCRIPTION="
+MR_TITLE="Remove and clean up $SECTION following migration"
+MR_DESCRIPTION="
 This MR adds redirects for the $SECTION section of the handbook that has been migrated.
 It removes all migrated code and replaces the content with a README.md advising
 where this section of the handbooks code has moved to and where to get help.
 "
-WWW_MR_OUTPUT=$(glab mr create --push --no-editor -y -b master -a jamiemaynard -l "handbook::operations" -t "$TITLE" -d "$DESCRIPTION")
+WWW_MR_OUTPUT=$(glab mr create --push --no-editor -y -b master -a jamiemaynard -l "handbook::operations" -t "$MR_TITLE" -d "$MR_DESCRIPTION")
 echo $WWW_MR_OUTPUT
 
 echo -e "${bold}Cleaning up the copy of www-gitlab-com repo...${normal}"
