@@ -74,7 +74,7 @@ This fiscal quarter will run from May 1, 2019 to July 31, 2019.
     1. Director of Product, CI/CD: One from `none` to `minimal`, five from `minimal` to `viable`, zero from `viable` to `complete`. => 33%
     1. Director of Product, Ops: Three from `none` to `minimal`, four from `minimal` to `viable`, zero from `viable` to `complete`.
     1. Director of Product, Secure/Defend: One from `none` to `minimal`, three from `minimal` to `viable`, zero from `viable` to `complete`.
-1. VP Product: Sell more CI runner minutes. Add another type of Linux consumption pricing (e.g. larger instances), make add-on CI minutes available to self-managed instances, sell additional $10k IACV in CI runner minutes. => 44%
+1. VP Product: Sell more CI runner minutes. Add another type of Linux consumption pricing (e.g. larger instances), make add-on compute credits available to self-managed instances, sell additional $10k IACV in CI runner minutes. => 44%
 1. VP Eng: [Build our product vision](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4335).
     1. Development: [Increase productivity](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4307). => 85%
     1. Development:
