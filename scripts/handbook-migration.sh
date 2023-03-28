@@ -144,12 +144,17 @@ git checkout -b removing-$SECTION-and-adding-redirects
 gsed -i -e "s~target: /$SECTION~target: https://handbook.gitlab.com/$SECTION~g" data/redirects.yml
 # Add new redirects for migrated content
 for d in $(find $DIRECTORY_TO_SPLIT -type d | gsed -e "s+$DIRECTORY_TO_SPLIT+$SECTION+g"); do
-cat << EOF >> data/redirects.yml
+  target_url="https://handbook.gitlab.com/$d"
+  if [[ $(grep $target_url data/redirects.yml) ]]; then
+    gsed -i -e "s~  target: $target_url~    - /$d\n    - /$d/\n  target: $target_url~" data/redirects.yml
+  else
+    cat << EOF >> data/redirects.yml
 - sources:
-    - $d
-  target: https://handbook.gitlab.com/$d
+    - /$d
+  target: $target_url
   comp_op: "^~"
 EOF
+  fi
 done
 
 # Remove old content and replace with a README.md
