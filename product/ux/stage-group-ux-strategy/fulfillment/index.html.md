@@ -61,7 +61,7 @@ View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playli
 | [Purchasing a GitLab.com Subscription (new user via a Trial)](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2103)| C | Oct 2022 | - Auto sign-in users after email verification <br/> - Allow users to verify email later <br/> - Improve findability of upgrade link <br/> - More immediate access to paid features after purchase |
 | [Purchasing a GitLab.com Subscription (existing user)](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2103) | C | Oct 2022 |- Improve findability of purchase link for a group <br/> - More immediate access to paid features after purchase | 
 | Purchase add-on storage | | | |
-| [Buy add-on CI minutes](https://gitlab.com/gitlab-org/gitlab-design/-/issues/531) | C | April 2020 | Needs to be re-scored to identify opportunities | 
+| [Buy add-on compute credits](https://gitlab.com/gitlab-org/gitlab-design/-/issues/531) | C | April 2020 | Needs to be re-scored to identify opportunities | 
 
 [View Open SUS:Impacting Issues for Purchase](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Apurchase&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
 
