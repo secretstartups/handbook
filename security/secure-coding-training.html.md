@@ -23,6 +23,38 @@ For information on developing security fixes in GitLab, please see the
 The [GitLab Secure Coding Guidelines](https://docs.gitlab.com/ee/development/secure_coding_guidelines.html) (Required) cover how to address specific 
 classes of vulnerabilities that have been identified in GitLab.
 
+## Secure Code Warrior
+
+GitLab uses Secure Code Warrior to provide ongoing secure coding training. Log in via Okta.
+
+### Accessing Secure Code Warrior
+
+All team members with development roles have access to SCW via Okta. However due to seat limitations only new developer hires are encouraged to engage with the platform. 
+
+The AppSec team may, at its discretion, remove inactive users or those who are not new hires. We will let you know if this happens.
+
+### Using Secure Code Warrior
+
+Team members may be assigned Courses. You can complete a Course in any of the available languages, for example Ruby, Go, Vue.JS, Python, or others. Follow these instructions to find and complete your course: <https://help.securecodewarrior.com/hc/en-us/articles/360040802312-Courses-Module-Overview>. Visit <https://portal.securecodewarrior.com/#/courses/course-list> to see your Course list.
+
+We recommend self-selecting Training in the form of Challenges and Missions every month to learn about secure coding and to keep your skills sharp. These hands on examples will help you write better code and spot potential security concerns during code reviews. Learn more at <https://help.securecodewarrior.com/hc/en-us/articles/360035983992-Training-Module-Overview>.
+
+From time to time the Security Department might also run [Tournaments](https://help.securecodewarrior.com/hc/en-us/articles/360036293731-Tournaments-Module-Overview). More information on these will be released ahead of any tournament start date.
+
+### Getting help
+
+Visit the [`#security-secure-code-warrior`](https://gitlab.slack.com/archives/C03HHQAKE8P) Slack channel to chat, ask questions, give feedback, or get help.
+
+Found a bug, confusing content, or incorrect answer? Please use Secure Code Warrior's built in bug reporting by selecting "Help" in the top right, then selecting "Submit bug or feedback". This will help improve the platform for all users.
+
+## GitLab Secure Coding Training
+
+GitLab Secure Coding Training is an annual requirement that must be completed by a sub-group of individuals in the Engineering Department.  GitLab has created in-house training that is being provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party security platform.
+
+This training is intended to help developers identify potential security vulnerabilities early, with the goal of reducing the number of vulnerabilities in the product over time.
+
+## Other Training
+
 ### Language Specific Guidelines
 - [Secure Ruby on Rails with Jim Manico](#secure-coding-training-with-jim-manico) (Recommended)
 - [OWASP Secure Coding in Go](https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.pdf) (Recommended)
@@ -34,15 +66,6 @@ classes of vulnerabilities that have been identified in GitLab.
 - [OWASP Serverless Top 10](https://github.com/OWASP/Serverless-Top-10-Project/raw/master/OWASP-Top-10-Serverless-Interpretation-en.pdf) (Optional)
 - [OWASP Mobile Top 10](https://owasp.org/www-project-mobile-top-10/) (Optional)
 
-## Survey
-
-When you complete the portions of the training that pertain to you, please take [this short survey](https://forms.gle/iQAe4sovtAhTVaoEA) on it.
-
-## GitLab Secure Coding Training
-
-GitLab Secure Coding Training is an annual requirement that must be completed by a sub-group of individuals in the Engineering Department.  GitLab has created in-house training that is being provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party security platform.
-
-This training is intended to help developers identify potential security vulnerabilities early, with the goal of reducing the number of vulnerabilities in the product over time.
 
 ## Secure Coding Training with Jim Manico
 
