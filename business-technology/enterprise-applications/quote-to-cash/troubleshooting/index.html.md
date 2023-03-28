@@ -281,7 +281,7 @@ In case above method does not solves then ask the customer to open a Support tic
 
 ## Common Questions from Customers
 
-##### Customer Question: Where can I track how many CI minutes I've used?
+##### Customer Question: Where can I track how many compute credits I've used?
 
 For individuals on GitLab.com, go to the user settings and at the bottom you see `pipeline quotas` where it shows the usage.
 Group settings have a similar page, but they’ll see `Usage Quotas`.
