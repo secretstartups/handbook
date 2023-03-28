@@ -27,15 +27,15 @@ The CSM team gets notified via Slack whenever a new issue is opened, and they wi
 
 Following the process described here will ensure that customer interest in features is shared with Product properly.
 
-On top of these processes, we've also documented guidelines for when [a customer expressed interest in a feature](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature).
+On top of these processes, we've also documented guidelines for when [a customer expressed interest in a feature](/handbook/product/how-to-engage/#customer-feature-requests).
 
 ### GitLab issues
 
-If your customer has a feature request that doesn't already exist, refer to the [example of how to express the customer's interest](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue. Open an issue in the [gitlab-org issue tracker](https://gitlab.com/gitlab-org/gitlab/-/issues) and choose the **[Feature Proposal](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20Proposal%20-%20lean)** template, following the instructions and providing as much information as possible. Once you've created the issue,  make sure to add the appropriate labels for the [product stage and/or group](/handbook/product/categories/) (e.g `~"devops::plan"`) if known and add a comment tagging the appropriate Product Manager asking for review with the customer's Salesforce account link included.
+If your customer has a feature request that doesn't already exist, refer to the [example of how to express the customer's interest](/handbook/product/how-to-engage/#customer-feature-requests) in an issue. Open an issue in the [gitlab-org issue tracker](https://gitlab.com/gitlab-org/gitlab/-/issues) and choose the **[Feature Proposal](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20Proposal%20-%20lean)** template, following the instructions and providing as much information as possible. Once you've created the issue,  make sure to add the appropriate labels for the [product stage and/or group](/handbook/product/categories/) (e.g `~"devops::plan"`) if known and add a comment tagging the appropriate Product Manager asking for review with the customer's Salesforce account link included.
 
-If your customer would like to report a bug, refer to the [example of how to express the customer's interest](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue and use the **[Bug](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Bug)** template, following the instructions and the same steps as above.
+If your customer would like to report a bug, refer to the [example of how to express the customer's interest](/handbook/product/how-to-engage/#customer-feature-requests) in an issue and use the **[Bug](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Bug)** template, following the instructions and the same steps as above.
 
-To indicate a customer's interest in an existing issue, add the link to their Salesforce account as a comment on the issue and include the guidelines for when [a customer expressed interest in a feature](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) and tag the appropriate Product Manager. 
+To indicate a customer's interest in an existing issue, add the link to their Salesforce account as a comment on the issue and include the guidelines for when [a customer expressed interest in a feature](/handbook/product/how-to-engage/#customer-feature-requests) and tag the appropriate Product Manager. 
 
 Make sure that you are using a customer **account link** and _not_ an **opportunity link**. The Sisense dashboard will only use account links to tabulate interest.
 
@@ -100,7 +100,7 @@ Follow the same [steps as for logging and tracking bugs as with feature requests
 
 ### Escalating Product Issues 
 
-If you have followed the [process of commenting on issues](#gitlab-issues) and have not gotten traction, confirm that [all of the necessary information is included in the issue](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature), including the Salesforce link, use case, etc. Follow up with the Product Manager again in the issue and in the product stage Slack channel (linking to the issue) to get additional attention and team member involvement.
+If you have followed the [process of commenting on issues](#gitlab-issues) and have not gotten traction, confirm that [all of the necessary information is included in the issue](/handbook/product/how-to-engage/#customer-feature-requests), including the Salesforce link, use case, etc. Follow up with the Product Manager again in the issue and in the product stage Slack channel (linking to the issue) to get additional attention and team member involvement.
 
 ### Product CAB Feedback
 
