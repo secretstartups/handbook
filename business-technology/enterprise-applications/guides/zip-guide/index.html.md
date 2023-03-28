@@ -138,11 +138,12 @@ The process to set up a new vendor starts in `Zip`. Simply by creating a new pur
 If there is an existing purchase order that needs a change, follow the steps below to process a change request:
 
 1. Login to your [Okta home page.](https://gitlab.okta.com/app/UserHome)
-2. Click on `+New Request` on the right side of the top menu.
-3. Select the `Request a Change (amend contracts or PO chnage)`
-4. Complete the requisition form. Make sure that you enter the existing `Coupa` purchase order number.
-5. Fill in all the required information and the `Procurement` team will amend the PO in `Coupa` on your behalf.
-6. Attach supporting documentation from the supplier for the change. This could be a SOW, Change Request, and/or Order Form based on the purchase type.
+2. Open ZIP
+3. Click on `+New Request` on the right side of the top menu.
+4. Select the `Request a Change (amend contracts or PO change)`
+5. Complete the requisition form. Make sure that you enter the existing `Coupa` purchase order number.
+6. Fill in all the required information and the `Procurement` team will amend the PO in `Coupa` on your behalf.
+7. Attach supporting documentation from the supplier for the change. This could be a SOW, Change Request, and/or Order Form based on the purchase type.
 
 Please note that a change request will require the same approvals as a new request.
 {: .alert .alert-info}
@@ -152,6 +153,7 @@ Please note that a change request will require the same approvals as a new reque
 Virtual card requests will go through Zip as a regular purchase request.
 
    1. Select `Yes` for the question `Will a virtual card be used to pay this vendor?` and fill in all the relevant information.
+   2. Select `American Express- Virtual Card` in the field `What's the name of the vendor?`
    2. Once the Zip request is approved and is integrated into Coupa, where financial and management approvals will take place, it will trigger virtual card creation in Coupa. 
    3. You will receive an email once the virtual card is ready, and you can also access it directly in Coupa.
 
@@ -159,11 +161,12 @@ Virtual card requests will go through Zip as a regular purchase request.
 ### How to keep track of a request?
 
 1. Login to your [Okta home page.](https://gitlab.okta.com/app/UserHome)
-2. On the Zip home page click on `Requests` on the left side of the page.
+2. Open ZIP
+3. On the Zip home page click on `Requests` on the left side of the page.
 - _A list of all the requests submitted appears._
 - _There are multiple options to search a submitted request(Purchase name,vendor name,request #,etc)._
 - _Drafted request are also accessible in this page._
-3. Once the specific request has been selected, the approval workflow appears at the top of the page.
+4. Once the specific request has been selected, the approval workflow appears at the top of the page.
 
 ![zip-image-6](/handbook/business-technology/enterprise-applications/guides/zip-guide/submitted-request2.png)
 
