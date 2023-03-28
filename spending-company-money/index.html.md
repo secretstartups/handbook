@@ -51,9 +51,9 @@ This table captures all of the links for different policies that are documented 
 
 1. Individual expenses using a virtual card: Please see our [Expense Policy](https://about.gitlab.com/handbook/finance/expenses/)
 
-Individual expenses using a Navan physical card: Please see our [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
+1. Individual expenses using a Navan physical card: Please see our [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
 
-Company expenses using a Coupa virtual card:  [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
+1. Company expenses using a Coupa virtual card:  [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
 
 1. Company expenses using a purchase order: Please see our [Procurement Process (PO)](https://about.gitlab.com/handbook/finance/procurement/) 
 
