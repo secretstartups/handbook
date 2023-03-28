@@ -542,7 +542,7 @@ Update a group's shared runner minutes monthly quota.
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:id` | *Yes* | The namespace ID to update |
-| `:mins` | *Yes* | CI Minutes to update |
+| `:mins` | *Yes* | Compute credits to update |
 
 #### Sample
 
@@ -564,7 +564,7 @@ Update a group's additional runner minutes.
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:namespace` | *Yes* | The namespace to update |
-| `:mins` | *Yes* | CI Minutes to update |
+| `:mins` | *Yes* | Compute credits to update |
 
 #### Sample
 

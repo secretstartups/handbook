@@ -256,7 +256,7 @@ For any customer facing a SaaS Emergency you are empowered to perform any [two-w
 Some examples:
  - manually setting a subscription level
  - adding additional storage
- - adding extra CI minutes
+ - adding extra compute credits
  - toggling a feature flag
 
 During a SaaS Emergency, you have additional visibility into problems that a customer may be facing.
@@ -316,12 +316,12 @@ If there is a known incident, it's acceptable to link to the public status page 
 
 ### Consumption Issues
 
-#### CI Minutes quota is blocking a production deployment
+#### Compute credits quota is blocking a production deployment
 
-A customer may be blocked because they have run out of CI minutes.
+A customer may be blocked because they have run out of compute credits.
 
-1. Advise them to purchase additional minutes or set up individual runners.
-1. At your discretion, as a courtesy, [set an additional 1000 minutes on their namespace through ChatOps](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace)
+1. Advise them to purchase additional compute credits or set up individual runners.
+1. At your discretion, as a courtesy, [set an additional 1000 compute credits on their namespace through ChatOps](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace)
 
 #### Customer has exceeded their storage quota
 

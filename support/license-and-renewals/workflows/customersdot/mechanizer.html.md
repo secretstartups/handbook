@@ -28,16 +28,16 @@ In the app you will have the option to select from the following request types:
 
 **Your GitLab Username** will be automatically added to the form.
 
-### Set CI Minutes to namespace
+### Set compute credits to namespace
 
-Allows setting additional minutes to a customer namespace to the value specified in the `Extra minutes` field.
+Allows setting additional compute credits to a customer namespace to the value specified in the `Extra minutes` field.
 
-> **WARNING:** Additional minutes added this way will last **indefinitely** until used. If the request is to provide "extra minutes" during the trial period only, use the [Manage GitLab Plan and Trials option](#manage-gitlab-plan-and-trials) which will change the *usage quota* to match a paid plan quota for the duration of the trial.
+> **WARNING:** Additional compute credits added this way will last **indefinitely** until used. If the request is to provide "extra compute credits" during the trial period only, use the [Manage GitLab Plan and Trials option](#manage-gitlab-plan-and-trials) which will change the *usage quota* to match a paid plan quota for the duration of the trial.
 
 The form has two required fields:
 
 - **Namespace**: The customer namespace as it appears in the URL.
-- **Extra minutes**: The number of minutes to add
+- **Extra minutes**: The number of compute credits to add
 
 ### Force Associate
 

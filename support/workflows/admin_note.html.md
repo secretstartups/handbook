@@ -19,7 +19,7 @@ The admin note serves as a quick reference for any account changes or action per
 If you encounter a situation with the following cases, an admin note is required.
 
 - User requested change
-- Pipeline minutes reset
+- Compute credits reset
 - Legal case
 - Security or Abuse case
 
@@ -71,5 +71,5 @@ User Blocked:
 Name Squatting Rename:
 `2023-01-16 | Name Squatting Request | https://gitlab.zendesk.com/agent/tickets/123`
 
-Pipeline minutes reset:
-`2023-01-16 | Pipeline minutes reset | Bug | https://gitlab.zendesk.com/agent/tickets/123`
+Compute credits reset:
+`2023-01-16 | Compute credits reset | Bug | https://gitlab.zendesk.com/agent/tickets/123`

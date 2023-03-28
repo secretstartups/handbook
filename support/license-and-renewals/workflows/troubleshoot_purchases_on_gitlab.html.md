@@ -79,9 +79,9 @@ See the example scenarios for a more detailed explanation.
 Let's say a Customer X has an existing Customers Portal account with their email customerX@example.com either because:
 
 - They created an account manually on [Customers Portal](https://customers.gitlab.com/customers/sign_in)
-- Or they previously purchased some CI/CD minutes
+- Or they previously purchased some compute credits
 
-Customer X will get this error if they log in or create an account in GitLab with their email customerX@example.com and attempt to purchase or renew a paid plan or additional storage, or try to purchase more CI/CD minutes from GitLab.  
+Customer X will get this error if they log in or create an account in GitLab with their email customerX@example.com and attempt to purchase or renew a paid plan or additional storage, or try to purchase more compute credits from GitLab.  
 The error is reported because *they did not link their Customers Portal account to a GitLab account before making the purchase.*
 
 🔧 To fix the problem, Customer X needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account).
@@ -97,7 +97,7 @@ For example:
 - The subscription has not yet been applied to a group.
 - Support used [Mechanizer's force associate workaround](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#force-associate) to bypass the need to have a linked GitLab account to apply a subscription and the customer never linked their GitLab account.
 
-Customer Y will get this error if they try to log in or create an account in GitLab with their email customerY@example.com then attempt to purchase or renew a paid plan or additional storage, or try to purchase more CI/CD minutes from GitLab.  
+Customer Y will get this error if they try to log in or create an account in GitLab with their email customerY@example.com then attempt to purchase or renew a paid plan or additional storage, or try to purchase more compute credits from GitLab.  
 The error is reported because *they did not link their Customers Portal account to a GitLab account before making the purchase.*
 
 🔧 To fix the problem, Customer Y needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account).
@@ -108,7 +108,7 @@ And this Customers Portal account has been linked to a GitLab account (check the
 *This could be someone else's GitLab account or Customer Z might have multiple GitLab accounts.*
 
 
-Customer Z will get this error if they try to log in or create an account in GitLab with their email customerZ@example.com then attempt to purchase or renew a paid plan or additional storage, or try to purchase more CI/CD minutes from GitLab.  
+Customer Z will get this error if they try to log in or create an account in GitLab with their email customerZ@example.com then attempt to purchase or renew a paid plan or additional storage, or try to purchase more compute credits from GitLab.  
 The error is reported because CustomersDot does not find a Customers Portal account that is linked to the GitLab account making the purchase yet there is a CustomersDot account whose email is the same as the email in the GitLab account making the purchase.  
 In this case, CustomersDot does not find an account linked to the GitLab account whose email is customerZ@example.com.
 CustomersDot then tries to create an account using the email customerZ@example.com but this fails because a CustomersDot account with this email already exists.
@@ -180,7 +180,7 @@ so that their card does not get locked or blocked.
 
 ## Handling failed credit card verifications
 
-If a customer contacts Support informing that their attempt to use their credit card for verification in order to use CI/CD minutes on shared runners (please note that when a customer verifies using their credit card, it will not be charged but instead will be verified with a one-dollar authorisation transaction). Then you should do the following:
+If a customer contacts Support informing that their attempt to use their credit card for verification in order to use compute credits on shared runners (please note that when a customer verifies using their credit card, it will not be charged but instead will be verified with a one-dollar authorisation transaction). Then you should do the following:
 
 1. Respond to the ticket by using the Zendesk Macro `Support::L&R::Credit Card Authorisation Failed' 
 2. If the customer comes back after 24 hours and confirms they are still unable to proceed, but they have verified their credit card works outside of GitLab.com, then refer them to Trust and Safety for further guidance. The Trust and Safety Team contact details can be found in the handbook: [Working with the GitLab Trust and Safety Team](https://about.gitlab.com/handbook/security/security-operations/trustandsafety/#working-with-gitlab-trust-and-safety-team).

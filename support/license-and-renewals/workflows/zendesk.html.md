@@ -79,8 +79,8 @@ Please also see the table below as a guideline on what `Transaction issue type` 
 | System bugs & incidents | License app | Bug or error is caused by an issue in our License application |
 | System bugs & incidents | GitLab version | Bug or error is caused by an issue in the version of Gitlab running on the SM instance |
 | Plan Change (upgrade, downgrade, product transfer) | | Request to change a subscription by upgrade, downgrade or switching from self-managed to SaaS (or vice-versa) |
-| Consumption (CI minutes, Storage) | CI minutes | Any questions or requests about CI minutes in gitlab.com |
-| Consumption (CI minutes, Storage) | Storage | Any questions or requests about Storage in gitlab.com |
+| Consumption (Compute credits, Storage) | Compute credits | Any questions or requests about compute credits in gitlab.com |
+| Consumption (Compute credits, Storage) | Storage | Any questions or requests about Storage in gitlab.com |
 | Billable members and seats related question | | Questions specifically related to billable members and seat usage |
 | Other | Free form | Please describe the ticket type in the text field |
 
