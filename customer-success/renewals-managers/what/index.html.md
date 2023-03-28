@@ -112,7 +112,8 @@ Note: In all instances of risk, assign the `renewal forecast health` to `red`.
     
     -   For  `Will Contract (actionable)`
 
-        1. The primary quote should always be showing the most recent/relevant/conservative deal with the contraction risk built in, so the `Renewal ARR swing` field is the only thing that needs to be updated. In the event where there is known risk, but it can't be quoted yet, add the expected amount into the manager notes, and managers will need to manually add this into forecasts. 
+        1. Turn the `renewal forecast health` field `red`
+        2. The primary quote should always be showing the most recent/relevant/conservative deal with the contraction risk built in, so the `Renewal ARR swing` field is the only thing that needs to be updated. In the event where there is known risk, but it can't be quoted yet, add the expected amount into the manager notes, and managers will need to manually add this into forecasts. 
 
 
 Both the `Will Churn` and `Will Contract` selections should be manager approved, and occur very close to the `Subscription Renewal Date` - as situations at a customer may change rapidly. These selections indicate that the risk on the opportunity will no longer be actively mitigated. 
