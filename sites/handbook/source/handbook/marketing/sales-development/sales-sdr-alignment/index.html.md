@@ -63,7 +63,7 @@ The resources below are meant to be cloned and customized, and to be used to str
 1. [Queued Accounts Template](https://gitlab.my.salesforce.com/00O8X000008QoME) - This report will indicate the accounts that the AE/SAE has nominated for outbound efforts by switching the account's `BDR Prospecting Status = Queued`
 2. [Actively Working Accounts Template](https://gitlab.my.salesforce.com/00O8X000008QoM4) - This report will indicate the accounts currently being worked on a BDR, and will include next step dates and relevant strategy fields. The logic behind using these fields in outlined [here](https://gitlab.com/gitlab-com/marketing/sdr/uploads/2fdadc1e76ddd57ceaac706362242b2d/Screenshot_2022-03-15_at_16.29.09.png), with a [practical example here](https://gitlab.com/gitlab-com/marketing/sdr/uploads/7759ffcea589453e562811f3d3c0fd8d/Screenshot_2022-03-15_at_1.35.05_PM.png)
 3. [Closed:Lost Template](https://gitlab.my.salesforce.com/00O8X000008QoQk) - This report will indicate past Closed: Lost accounts in your territory, it can be expanded further by adjusting the Close Date field.
-4. [CI Usage Template](https://gitlab.my.salesforce.com/00O8X000008QoMO) - This is the list of CE users with a high purchase rate of CI minutes.
+4. [CI Usage Template](https://gitlab.my.salesforce.com/00O8X000008QoMO) - This is the list of CE users with a high purchase rate of compute credits.
 5. [CE Users Template](https://gitlab.my.salesforce.com/00O8X000008QoQV) - This is a list of CE users per territory
 6. In addition to the above, the BDR team has got access to DemandBase, the template list for which [may be found here](https://about.gitlab.com/handbook/marketing/sales-development/sdr-manager-resources/#actively-working-status-related-demandbase-reports)
 

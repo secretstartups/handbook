@@ -623,7 +623,7 @@ A high touch sequence should be used for higher-quality leads. High touch sequen
 * If you have a question about the behavior of a lead or any other operational issue, you can use the slack channel #mktgops
 * If lead is associated with an account where there are duplicates, chatter sales support on the account record with links to duplicate account(s) and ask them to merge. The chatter should be on the record that seems to be the most active account.
 * For contact requests received requesting event sponsorship, please change ownership to GitLab Evangelist in SFDC & be sure to "check the box" to send a notification.
-* If a lead only has CI minutes, but no paid subsriptions they are considered a prospect and not a customer.
+* If a lead only has compute credits, but no paid subsriptions they are considered a prospect and not a customer.
 
 
 **Technical questions from leads?**
