@@ -42,10 +42,6 @@ The list above is not exhaustive and is subject to be modified as our processes 
 * For KPIs and other metrics, please [see this page][7].
 * For Embedded KPIs which you filter by section, stage, or group, please [see this page][8].
 
-## SpamCheck
-
-- SpamCheck
-
 ## General Role Functions
 
 ### Stable Counterparts
