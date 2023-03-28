@@ -191,6 +191,7 @@ These dates are based on an 8-day accounting close. Corporate FP&A will confirm 
 - WD -2: NetSuite Actuals for current month close included in Adaptive (performed by Corporate FP&A)
 - WD 1: Headcount actuals loaded into Adaptive (performed by Corporate FP&A)
 - WD 2: FP&A Flux distributed and is due one week after and/or one day after Accounting close
+- WD 2: FP&A sends flash to the board (quarter only) - Bookings, revenue estimate and NGOI estimate
 - WD 5: Revenue Closed. Start revenue, billings, collections variance analysis.
 - WD 7: Final entries and allocations booked
 - WD 8-9: FP&A review of AvF complete
