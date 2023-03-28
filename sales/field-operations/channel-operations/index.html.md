@@ -17,37 +17,14 @@ description: "This page serves as the Partner Operations team page and includes 
 
 # Welcome to the Partner Operations Page!
  
-## Meet the Team
-### Who We Are
-- Colleen Farris - Senior Director, Channel and Alliance Operations
-- Niles Jamshaid - Senior Manager, Partner Operations
-- Dennis Zeissner - Senior Partner Operations Analyst
-- Nick Scala - Director, Channel Operations
-- Roisin Ryan - Senior Partner Operations Manager 
-- Bhano Pippala - Channel Operations Analyst
-- Jeff Cho - Channel Operations Analyst
-- Morgan Fuller - Channel Operations Analyst
-- Marcella Summers - Manager, Alliance Operations
-- Jack Cassidy - Alliance Operations Analyst 
+### Vision
 
-### Department Responsibilities
+To be a team of subject matter experts that support the key needs of the partner business both internally and externally with a focus on overall partner experience. To continue to drive initiatives that allow for growth and scale and aligns with the future vision of the business.
 
-#### Alliance Operations (Marcella, Jack)
-- Provide operational support and enablement to our [Alliances team](https://about.gitlab.com/handbook/alliances/) focusing on improving efficiency, effectiveness, and productivity
-- Onboard new alliance partners, develop and document quote-to-cash processes and best practices
-- Collaborate with our alliance partners, marketplace vendors, and internal departments to create systems integrations that support marketplace transactions
-
-#### Channel Operations (Nick, Roisin, Bhano, Jeff, Morgan)
-- Develop, manage, and improve operational processes for the Channel (Distributor and Reseller) sales organization
-- Provide operational support and enablement to sales and cross-functional teams for Channel related inquiries (e.g. opportunities, quotes and orders, pricebooks, reporting)
-
-Please refer to our [Channel Ops Coverage Model](https://docs.google.com/spreadsheets/d/1kzlowacL9c5bh3C5lN2FWVA9gFO8RXf2OmFg8qmd69E/edit?usp=sharing) for details on Channel Operations Specialist alignment by Geo, Channel Sales Director, and Distributor.
-
-#### Partner Operations (Niles, Dennis)
-- Operationalize process changes for the partner organizaition (Channel and Alliances)
-- Translate business requirements to technical deliverables, test deliverables in staging environments, deploy changes and communicate process changes to the broader field team
-- Oversee compensation close cycles, SSOT reporting and process automation
-
+**Key Tenets**
+- Automation: This applies to systems, tools, and processes. It is imperative to the business in order to support the growth and industry expectations.
+- Scale and Productivity: Ability to support more business without an impact to resources. Empower and enable partners for mutual profitability.
+- Collaboration: Bringing awareness and enablement to cross-functional teams about the importance of partners and partner requirements.
 
 ### How to Contact Us
 The **#partner-programs-ops** Slack channel can be leveraged for inquiries. Both the Partner Operations Team and the Channel Programs Team monitor this slack channel.
@@ -69,7 +46,7 @@ To open an issue with Partner Operations and select [New Issue](https://gitlab.c
 
 When you create a new issue, you get the option to "Choose a template" 
 
-**2. Chose a template** 
+**2. Choose a template** 
 
 Once a template has been selected, the description box will be populated with the content of the template ready for completion.
 
@@ -89,7 +66,7 @@ Please ensure your issue is **unassigned** as our team will be assigning issues 
 
 
 
-## Communicating with the Channel Teams via Slack
+## Communicating with the Partner Teams via Slack
 
 There are a number of different slack channels to serve the different needs of the organization. Below is a list of the most common channels, as well as their uses, intended audience, and posting permissions. Please refer to this list often to ensure you’re posting information and asking questions to the appropriate channel. 
 
@@ -269,7 +246,7 @@ Partners and GitLab Sellers frequently ask questions on how to collaborate with 
 - To earn partner discounts, partners will be required to meet compliance requirements (i.e. in good credit standing, have provided quarterly updates on the customer, review within 30 days of renewal, etc).
 - GitLab Sales must work with incumbent channel partners on renewals unless the customer documents in writing that they no longer want to work with the partner.  GitLab cannot offer a direct renewal quote if there is an incumbent partner.
  
-### Tender Offers
+### Tender Offers (Multiple Bids)
 - Tender offers are ones where the customers are requesting multiple bids for a project.
 - Since all partners would be engaged in the sales process and would be creating a bid, all partners qualify for the Partner Co-Sell discount. However, if a partner was early in with the customer (pre-tender) and sourced the deal, then they could receive the higher discount with an approved Partner Sourced Deal Registration. If the partner earning the Partner Sourced discount is not awarded the deal, they would not receive additional referral compensation. Any partner offering their own services would qualify for Service Attach incentives in addition to any sales discounts for which they would qualify. The exception to the above would be for:
   - US PubSec business: In the event there is an approved Partner Sourced Deal Registration on a tender offer, the rest of the partners bidding would receive MSRP (List Price).
