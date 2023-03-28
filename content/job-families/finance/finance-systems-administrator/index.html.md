@@ -10,7 +10,7 @@ The Enterprise Applications team provides development and support to the Financi
 
 The Finance Systems Administration job family is responsible for the operational ownership of the software applications that support Quote to Cash, Procure to Pay, and Record to Report.
 
-This role reports to the [Manager, Financial Systems Administrator](#manager-financial-systems-administrator).
+This role reports to the [Manager, Financial Systems Administrator](#manager-finance-systems-administrator).
 
 ### Responsibilities
 
@@ -59,7 +59,7 @@ The Finance Systems Administrator shares the same requirements outlined above.
 
 ### Senior Finance Systems Administrator
 
-The Senior Financial Systems Administrator reports directly to the [Manager, Financial Systems Administrators](#manager-financial-systems-administrator).
+The Senior Financial Systems Administrator reports directly to the [Manager, Financial Systems Administrators](#manager-finance-systems-administrator).
 
 #### Senior Finance Systems Administrator Job Grade
 

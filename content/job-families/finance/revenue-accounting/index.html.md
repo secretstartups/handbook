@@ -19,7 +19,7 @@ The Associate Revenue Accountant is a [grade 5](https://about.gitlab.com/handboo
 #### Associate Revenue Accountant Responsibilities
 
 - Learn and apply ASC 606 and company revenue recognition policies.
-- Assist in the review of customer contracts for proper revenue recognition in accordance with company policy and revenue recognition accounting standards.  
+- Assist in the review of customer contracts for proper revenue recognition in accordance with company policy and revenue recognition accounting standards.
 - Assist with monthly balance sheet account reconciliations and journal entries for month end close.
 - Assist with revenue team projects and process improvements.
 - Assist with correct application of internal controls.
@@ -58,7 +58,7 @@ The Revenue Accountant is a [grade 6](https://about.gitlab.com/handbook/total-re
 
 ### Senior Revenue Accountant
 
-The Senior Revenue Accountant will report to the Manager, Revenue Accounting or above.  
+The Senior Revenue Accountant will report to the Manager, Revenue Accounting or above.
 
 #### Senior Revenue Accountant Job Grade
 
@@ -86,7 +86,7 @@ The Senior Revenue Accountant is a [grade 7](https://about.gitlab.com/handbook/t
 
 ### Senior Revenue Accountant, Team Lead
 
-The Senior Revenue Accountant, Team Lead will report to the Manager, Revenue Accounting or above.  
+The Senior Revenue Accountant, Team Lead will report to the Manager, Revenue Accounting or above.
 
 #### Senior Revenue Accountant, Team Lead Job Grade
 
@@ -265,9 +265,10 @@ The Vice President, Revenue leads the world-wide revenue organization spanning r
 The Vice President, Revenue, is a [job grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP, Revenue Accounting Responsibilities
+
 - Develop a long term vision for the revenue organization at Gitlab.
 - Set direction, develop and drive strategic plans and objectives for the revenue organization and influence across Gitlab.
-- Drive the ongoing maturation and automation of systems, processes and teams within the revenue organization and across Gitlab.  
+- Drive the ongoing maturation and automation of systems, processes and teams within the revenue organization and across Gitlab.
 - Develop an excellent working relationship with the sales organization and establish yourself as a highly visible and trusted advisor to sales on complex contract negotiations, commercial and go to market decisions.
 - Approve non standard deal terms in accordance with the deal approval matrix and set Annual Recurring Revenue policy for non routine transactions.
 - Develop and maintain excellent collaborative working relationships with other teams across Gitlab, not only with Sales and the * Sales Organization but also including Customer Service, Legal, FP&A, IT, Accounting and Tax.
@@ -276,6 +277,7 @@ The Vice President, Revenue, is a [job grade 12](https://about.gitlab.com/handbo
 - Ensure robust and effective control environment and successful SOX implementation and compliance.
 
 #### VP, Revenue Accounting Requirements
+
 - CPA is required, with minimum 20 years of professional experience with a publicly traded company in a senior revenue leadership role including technology industry experience.
 - Ability to lead a diverse, globally distributed team at scale in a fully remote environment.
 - Ability to negotiate and influence opinions and decision making at the senior leadership level across Gitlab.
@@ -289,7 +291,6 @@ The Vice President, Revenue, is a [job grade 12](https://about.gitlab.com/handbo
 - Demonstrates strong personal integrity, Gitlab values and ethics.
 - Ability to use GitLab.
 
-
 ### Performance Indicators
 
 - [Deals reviewed for revenue recognition = 100%](https://about.gitlab.com/handbook/finance/accounting/#deals-reviewed-for-revenue-recognition--100)
@@ -301,7 +302,6 @@ The Vice President, Revenue, is a [job grade 12](https://about.gitlab.com/handbo
 - [Non GAAP Revenue (Ratable Recognition)](https://about.gitlab.com/handbook/finance/accounting/#non-gaap-revenue-ratable-recognition)
 - [Revenue recognition and accounting for other quote to cash transactions in Net Suite](https://about.gitlab.com/handbook/finance/accounting/#8-revenue-recognition-and-accounting-for-other-quote-to-cash-transactions-in-net-suite)
 - [Percentage of ineffective SOX Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
-
 
 ## Career Ladder
 
@@ -317,6 +317,5 @@ The next step in the Revenue Accounting job family is to move to the [Principal 
 - Meet with People Business Partner for the CFO Organization for 25 minutes
 - Meet with VP of Finance for 50 minutes
 - Meet with CFO for 50 minutes
-
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/)

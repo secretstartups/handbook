@@ -116,6 +116,7 @@ The Senior Manager, International Tax (Non US) reports to the Director, Internat
 The Senior Manager, International Tax (Non US) is a job [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, International Tax Responsibilities
+
 - Models and joins in planning for our economic ownership of IP
 - Assists international team with CFC tax basis, earnings and profits, Subpart F, BEAT, GILTI and FDII calculations
 - Primary contact with outside service provider for our transfer pricing contemporaneous documentation and country by country reporting
@@ -193,7 +194,6 @@ The Director, Tax  is a [grade 10](https://about.gitlab.com/handbook/total-rewar
 
 The Director of International Tax is a job [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-
 #### Director of International Tax Responsibilities
 
 - Plans for, models, and operationalizes our economic ownership of IP
@@ -228,7 +228,6 @@ The Director of International Tax is a job [grade 11](https://about.gitlab.com/h
 Maintaining capital preservation, minimizing any excess cash held by international subsidiaries
 Supervising managers and creating leaders
 The Director of International Tax will have a BS/BA in Accounting or Finance with an MST, MBT, or LLM in taxation. A CPA is preferred.
-
 
 ## Specialties
 

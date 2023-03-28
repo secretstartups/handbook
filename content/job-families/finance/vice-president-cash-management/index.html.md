@@ -6,6 +6,7 @@ title: "Vice President, Cash Management"
 The Cash Management job family will focus on leading and enhancing day-to-day cash management and treasury operations for the organization, including potential hedging of intercompany and foreign currency expense and stock administration. The VP, Cash Management will work closely with finance management to ensure appropriate financial systems and processes have been put in place to effectively manage corporate treasury risks. This job family will oversee all aspects of the cash management function worldwide.
 
 ## Responsibilities
+
 - Direct Responsible Individual and owner of and will lead the monthly close process for our GitLab’s equity and treasury management and is responsible for achieving our target for days to close.
 - Handle Project Management as directed by the PAO.  This will include projects on close to report efficiency, cash management and other projects as needed.
 - Will develop and ensure compliance of GitLab’s cash management and stock administration  policies and procedures in full compliance with US GAAP and SEC reporting standards.
@@ -46,6 +47,7 @@ The Cash Management job family will focus on leading and enhancing day-to-day ca
 The Vice President, Cash Management is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Performance Indicators
+
 - Debt covenant management
 - Foreign exchange hedging strategy
 - [New hire location factor](https://about.gitlab.com/#new-hire-location-factor)

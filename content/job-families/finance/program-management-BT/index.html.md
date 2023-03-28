@@ -13,6 +13,7 @@ The Program Manager, Business Technology job family is responsible for building 
 The Business Technology Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### IT Business Technology Program Manager Responsibilities
+
 - Responsible for program management of a critical project or small to medium scope
 - Successfully dig into deliverables, create a project plan and milestones, and hold teams accountable
 - Document all aspects of the specific programs that are assigned
@@ -23,6 +24,7 @@ The Business Technology Program Manager is a [grade 6](https://about.gitlab.com/
 - Use GitLab to drive programs
 
 ### IT Business Technology Program Manager Requirements
+
 - Experience leading cross-functional teams and influencing without direct authority
 - Intrinsically motivated with an intense curiosity and desire to produce high-quality work
 - Strong problem-solving skills with ability to analyze data, determine insights and develop programs to drive productivity and efficiencies
@@ -38,6 +40,7 @@ The Business Technology Program Manager is a [grade 6](https://about.gitlab.com/
 The Senior Business Technology Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior IT Business Technology Program Manager Responsibilities
+
 - Extends responsibilities of Business Technology Program Managers
 - Responsible for program management of a critical project or medium to large scope
 - Define success metrics of your programs.
@@ -53,6 +56,7 @@ The Senior Business Technology Program Manager is a [grade 7](https://about.git
 - Autonomy: independently delivers and effectively prioritizes projects assigned as high-level goals
 
 ### Senior Business Technology Program Manager Requirements
+
 - Extends Business Technology Program Manager
 - Ability to simplify complex processes
 - Passionate for being an expert and having opinions to make recommendations vs just running the meetings
@@ -61,12 +65,12 @@ The Senior Business Technology Program Manager is a [grade 7](https://about.git
 - Owned business outcomes by working with business area leaders to influence strategy.
 - Drive adoption of new processes across the organization.
 
-
 ### Staff Business Technology Program Manager
 
 The Staff Business Technology Program Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Staff Business Technology Program Manager Responsibilities
+
 - Extends responsibilities of Sr Program Managers Own an IT area such as Quote to Cash, Hire to Retire, Procure to Pay, Record to Report
 - Responsible for program management of a critical project of large scope
 - Help architect the executional framework for cross-functional alignment
@@ -76,6 +80,7 @@ The Staff Business Technology Program Manager is a [grade 8](https://about.gitl
 - Autonomy: independently delivers and effectively prioritizes projects assigned as high-level goals
 
 ### Staff Business Technology Program Manager Requirements
+
 - Extends Senior Business Technology Program Manager
 - Experience delivering large IT programs
 - Experience managing a full portfolio of a business process area and driving measurable impact
@@ -88,6 +93,7 @@ The Staff Business Technology Program Manager is a [grade 8](https://about.gitl
 The Manager, IT Business Technology Program Management is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, IT Business Technology Program Management Responsibilities
+
 - Extends responsibilities of Sr. Program Managers own an IT area such as Quote to Cash, Hire to Retire, Procure to Pay, Record to Report
 - Responsible for program management of a critical project of large scope
 - Help architect the executional framework for cross-functional alignment
@@ -98,6 +104,7 @@ The Manager, IT Business Technology Program Management is a [grade 8](https://a
 - Autonomy: independently delivers and effectively prioritizes projects assigned as high-level goals
 
 ### Manager, IT Business Technology Program Management Requirements
+
 - Extends Senior Business Technology Program Manager
 - Experience delivering large IT programs
 - Experience managing a full portfolio of a business process area and driving measurable impact
@@ -110,6 +117,7 @@ The Manager, IT Business Technology Program Management is a [grade 8](https://a
 The Senior / Principal Manager, IT Business Technology Program Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior / Principal Manager, IT Business Technology Program Management Responsibilities
+
 - Extends responsibilities of Staff Program Managers own an IT area such as Quote to Cash, Hire to Retire, Procure to Pay, Record to Report
 - Responsible for program management of a critical project of large scope
 - Help architect the executional framework for cross-functional alignment
@@ -120,18 +128,19 @@ The Senior / Principal Manager, IT Business Technology Program Management is a 
 - Autonomy: independently delivers and effectively prioritizes projects assigned as high-level goals
 
 ### Senior / Principal Manager, IT Business Technology Program Management Requirements
+
 - Extends responsibilities of Staff Program Managers
 - Experience delivering large IT programs
 - Experience managing a full portfolio of a business process area and driving measurable impact
 - High level of business acumen and ability to understand stakeholder needs across various functions
 - Demonstrated ability to lead through change at scale
 
-
 ### Director, IT Business Technology Program Management
 
 The Director, Business Technology Program Management is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Director, IT Business Technology Program Management Responsibilities
+
 - Build and lead a Program Management function in line with GitLab’s CREDIT and leadership values, including the concept of manager of one.
 - This role will lead, influence, develop a strategy and deliver capabilities to support GitLab’s business technology initiatives
 - Develop strong partnerships with functional leaders to drive focus on business objectives and solve business problems
@@ -145,6 +154,7 @@ The Director, Business Technology Program Management is a [grade 10](https://ab
 - Expert management skills, especially at developing talent. Set goals and priorities for the team.
 
 ### Director, IT Business Technology Program Management Requirements
+
 - Extends: Staff Business Technology Program Manager Experience working with VP+ level stakeholders
 - Experience driving IT strategy and managing multiple business process areas.
 - Participated in multiple large complex implementations (e.g. CRM implementation, ERP implementation, ITSM implementation)
@@ -155,15 +165,16 @@ The Director, Business Technology Program Management is a [grade 10](https://ab
 The Senior Director, Business Technology Program Management is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Director, IT Business Technology Program Management Responsibilities
+
 - Extends: Director, Business Technology Program Management Maintain C-level updates of the portfolio
 - Drive the IT strategy in collaboration with IT Ops and Enterprise Application leadership
 - Improve program management governance process and practice in collaboration with Internal Audit and Business Technology leadership.
 - Become a thought leader for other programs teams in the company at program management developing a center of excellence.
 
 ### Senior Director, IT Business Technology Program Management Requirements
+
 - Extends: Director, Business Technology Program Management Experience working with C-level stakeholders
 - Experience driving IT strategy at a company level Owned multiple large complex implementations (e.g. CRM implementation, ERP implementation, ITSM implementation) Expert in building and leading remote teams
-
 
 ## Performance Indicators
 

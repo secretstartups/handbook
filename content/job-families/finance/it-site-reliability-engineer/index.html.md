@@ -7,7 +7,6 @@ At GitLab, the IT Infrastructure team is responsible for Site Reliability Engine
 
 The IT team collaborates closely with the Engineering Infrastructure Reliability team that is responsible for our GitLab.com SaaS platform (our product infrastructure). The IT, Engineering, and Infrastructure Security teams collaborate to architect, implement, and manage our AWS and GCP infrastructure policies and collectively manage all related services.
 
-
 ## Responsibilities
 
 - Lead the handling of ticket queue (GitLab issues) for AWS and GCP corporate infrastructure requests from team members. This ranges from simple IAM and DNS requests to designing and deploying new scalable application infrastructure.
@@ -19,8 +18,6 @@ The IT team collaborates closely with the Engineering Infrastructure Reliability
 - Document every action so your findings turn into repeatable actions and then into automation.
 - Provide mentorship to IT System Administrators and IT Analysts who have an interest in infrastructure and IaC.
 - Collaborate with other teams to improve services and help with system design, platform management, and capacity planning
-
-
 
 ## Levels
 
@@ -38,7 +35,6 @@ The IT Site Reliability Engineer is a [grade 6](https://about.gitlab.com/handboo
 - Experience working with CI/CD tools and Git
 - Ability to use GitLab
 
-
 #### Responsibilities
 
 The IT Site Reliability Engineers share the same responsibilities outlined above.
@@ -51,7 +47,6 @@ The IT Site Reliability Engineers share the same responsibilities outlined above
 - Cloud Services - Manage, configure and troubleshoot Linux operating system issues (Linux), storage (block and object), networking (VPCs, proxies and CDNs), and administer high-availability PostgreSQL and Redis clusters
 - Monitoring and instrumentation - Implement metrics in Prometheus, Grafana, Elastic, log management and related systems, and Slack/PagerDuty/Sentry integrations
 - Engineering practices -  High availability, data security, reliability and scalability, as well as disaster recovery
-
 
 ### Senior IT Site Reliability Engineer
 
@@ -68,7 +63,6 @@ The Senior IT Site Reliability Engineer has all the same responsibilities as the
 - Advanced knowledge in one of the following scripting languages - Python or Ruby
 - Advanced knowledge of container and microservice technologies
 
-
 #### Senior Responsibilities
 
 The Senior IT Site Reliability Engineer has all the same responsibilities as the intermediate position plus the following:
@@ -80,8 +74,8 @@ The Senior IT Site Reliability Engineer has all the same responsibilities as the
 - Build or implement open source automation and systems to manage AWS and GCP  infrastructure and business applications and related services.
 - Systems architecture design - In a DevOps ecosystem, your systems thinking will allow you to see automation efficiencies in areas outside of infrastructure. At GitLab, everyone can contribute and the IT Operations team welcomes automation and efficiency contributions from all roles.
 
-
 ## Performance Indicators
+
 - [Mean Time between Failures (MTBF)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
 - [Mean Time to Repair (MTTR)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
 - [Number of days since last environment audit](https://about.gitlab.com/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)

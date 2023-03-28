@@ -10,12 +10,12 @@ The Internal Audit and SOX function has a career ladder represented below:
 
 | Role                                                | Grade |
 |-----------------------------------------------------|-------|
-| [Internal Auditor](#internal-auditor) <br> [SOX Compliance Analyst](#Internal-Auditor) | 6 |
-| [Sr Internal Auditor](#Senior-Internal-Auditor) <br> [Sr SOX Compliance Analyst](#Senior-SOX-Compliance-Analyst)| 7 |  
-| [Internal Audit and SOX Manager](#internal-audit-and-SOX-Manager) <br> [Manager, Internal Audit](#Manager-Internal-Audit) | 8
-| [Sr Manager, Internal Audit](#Senior-Manager-Internal-Audit) <br> [Sr Audit Manager, IT and Security](#Senior-Manager-IT-And-Security) | 9 |  
-| [Director, Internal Audit](#Director-Internal-Audit) | 10 |
-|[VP, Internal Audit](#Vice-President-Internal-Audit) | 12 |
+| [Internal Auditor](#internal-auditor) <br> [SOX Compliance Analyst](#internal-auditor) | 6 |
+| [Sr Internal Auditor](#senior-internal-auditor) <br> [Sr SOX Compliance Analyst](#senior-internal-auditor)| 7 |
+| [Internal Audit and SOX Manager](#internal-audit-and-sox-manager) <br> [Manager, Internal Audit](#manager-internal-audit) | 8
+| [Sr Manager, Internal Audit](#senior-manager-internal-audit) <br> [Sr Audit Manager, IT and Security](#senior-audit-manager-it-and-security) | 9 |
+| [Director, Internal Audit](#director-internal-audit) | 10 |
+|[VP, Internal Audit](#vice-president-internal-audit) | 12 |
 
 
 ### Internal Auditor
@@ -194,7 +194,7 @@ Additional details about our process can be found on our [hiring page](https://a
 
 ### Internal Audit and SOX Manager
 
-The Internal Audit and SOX Manager is responsible for preparing and implementing a risk-based SOX audit plan to assess, report on, and make suggestions for improving the company’s key operational and finance activities and internal controls. The position will have a key role in assessing the company’s compliance with the requirements of the Sarbanes-Oxley Act of 2002. This position reports to the Vice President of Internal Audit.  
+The Internal Audit and SOX Manager is responsible for preparing and implementing a risk-based SOX audit plan to assess, report on, and make suggestions for improving the company’s key operational and finance activities and internal controls. The position will have a key role in assessing the company’s compliance with the requirements of the Sarbanes-Oxley Act of 2002. This position reports to the Vice President of Internal Audit.
 
 #### Job Grade
 
@@ -361,7 +361,7 @@ The Senior Audit Manager, IT and Security  shall oversee, perform and execute th
 
 This responsibility includes assessing risk, developing audit scopes, performing audit procedures, and preparing internal audit reports reflecting the results of the work performed and reviewing the work of audit staff.
 
- The Senior Audit Manager, IT and Security will interact heavily with the IT/InfoSec Leadership and must be able to clearly articulate related risks and audit results to technical and non-technical members of executive management. This position reports to the Vice President of Internal Audit.  
+ The Senior Audit Manager, IT and Security will interact heavily with the IT/InfoSec Leadership and must be able to clearly articulate related risks and audit results to technical and non-technical members of executive management. This position reports to the Vice President of Internal Audit.
 
 
 ##### Supervisory Responsibility
@@ -452,7 +452,7 @@ Additional details about our process can be found on our [hiring page](https://a
 
 ### Director, Internal Audit
 
-The Director, Internal Audit reports to the Vice-President, Internal Audit. This position will be responsible for supporting the Vice-President, Internal Audit in preparing and implementing a risk-based audit plan to assess, report on, and recommend improvements to address GitLab’s strategic, business and compliance objectives. Additionally, the position will support in developing and executing the Internal Audit strategic plan and roadmap to build the next generation Audit function.  
+The Director, Internal Audit reports to the Vice-President, Internal Audit. This position will be responsible for supporting the Vice-President, Internal Audit in preparing and implementing a risk-based audit plan to assess, report on, and recommend improvements to address GitLab’s strategic, business and compliance objectives. Additionally, the position will support in developing and executing the Internal Audit strategic plan and roadmap to build the next generation Audit function.
 
 
 #### Job Grade
@@ -530,6 +530,7 @@ The ongoing testing and control review, including the ERM environment will be co
 The Vice President, Internal Audit is a [grade #12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
+
 - Overall responsibility for the Yearly Internal Audit Plan approved by the Audit Committee and quarterly updates and reporting package to the Audit Committee.
 - Initial documentation of GitLab SOX controls, processes, and recommends additional controls where control deficiencies are identified.
 - Is the subject matter expert on controls with GitLab business partners, audit committee, and C-Suite executives.
@@ -554,6 +555,7 @@ Other duties, as directed by the Audit Committee and/or the Chief Financial Offi
 - Handle other audits or reviews as directed by the Audit Committee or Chief Financial Officer.
 
 ## Requirements
+
 - Ability to use GitLab
 - Previous management experience; ability to contribute to the career development of staff and a culture of teamwork and adherence to the Culture within GitLab.
 - Comprehensive knowledge of auditing practices, procedures, and principles, sufficient to interpret and analyze complex concepts and apply them in innovative ways. Skills and knowledge should include an extensive understanding of financial, operational, market and credit risk. Should have expert knowledge of generally accepted auditing standards in the US.
@@ -569,6 +571,7 @@ Other duties, as directed by the Audit Committee and/or the Chief Financial Offi
 - CPA and previous experience as an executive.
 
 ### Performance Indicators
+
 - Development of comprehensive audit plans
 - ERM experience
 - Completing tasks and audits timely and efficiently

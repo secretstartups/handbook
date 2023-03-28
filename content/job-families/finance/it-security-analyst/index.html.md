@@ -8,12 +8,14 @@ The security analyst plays a vital role in keeping an organization’s proprieta
 This job family reports to the [Director, IT Operations](/job-families/finance/director-it-operations/).
 
 ## Responsibilities
+
 - Generate reports for IT administrators and business managers to evaluate the efficacy of the security policies in place.
 - Monitoring security access
 - Performing both internal and external security audits
 - Continuously updating the company’s incident response and disaster recovery plans
 
 ## Requirements
+
 - BA/BS in a business related field and/or equivalent years of education and experience working in a related field
 - 3-5 years experience in Information Technology or Information Security experience.
 - Certified Information Systems Security Professional (CISSP) preferred
@@ -40,7 +42,6 @@ The IT Security Analysts share the same responsibilities outlined above.
 
 The IT Security Analyst position has all the same requirements as the ones outlined above plus the following:
 
-
 ### Senior IT Security Analyst
 
 #### Senior IT Security Analyst Job Grade
@@ -63,8 +64,6 @@ The Senior IT Security Analyst has all the same responsibilities as the intermed
 - Promote awareness of applicable regulatory standards, upstream risks, and industry best
 practices.
 
-
-
 #### Senior IT Security Analyst Requirements
 
 The Senior IT Security Analyst has all the same requirements as the ones outlined above plus the following:
@@ -80,9 +79,8 @@ The Senior IT Security Analyst has all the same requirements as the ones outline
 - Ability to identify and mitigate network vulnerabilities and explain how to avoid them.
 - Understanding of patch management with the ability to deploy patches in a timely manner while understanding business impact.
 
-
-
 ## Performance Indicators
+
 - Evaluate compliance of IT tools or processes
 - Evaluate changes to IT tools and processes based on risk
 - Provide more detailed and more practical guidance to the organization with the goal of improving compliance related processes and/or procedures.

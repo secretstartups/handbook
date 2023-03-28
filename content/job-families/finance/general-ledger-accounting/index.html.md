@@ -8,6 +8,7 @@ description: "The General Ledger Accounting team are responsible for providing t
 The General Ledger Accounting team are responsible for providing timely and accurate month end close financials, that are GAAP compliant.
 
 ## Responsibilities
+
 - Ensure an accurate and timely month end close by preparing various journal entries and account reconciliations for cash, prepaids, accruals, inter-company, fixed assets and various other accounts
 - Coordinate with other departments to obtain transaction information, research reconciling items, and resolve issues
 - Assist and or reconcile bank statements as needed

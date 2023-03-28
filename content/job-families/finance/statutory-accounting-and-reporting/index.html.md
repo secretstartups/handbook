@@ -14,6 +14,7 @@ The Statutory Compliance and Reporting Senior Manager reports to the [Director o
 The Statutory Accounting and Compliance Senior Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Work with local service providers for each operating entity to ensure compliance with statutory reporting, collaborating with the Accounting team as needed
 - Identify and calculate US GAAP to local GAAP adjustments
 - Perform analysis to determine the impact of new accounting standards, changes in accounting policies, impact of non-GAAP policies, etc. on statutory reporting requirements
@@ -29,6 +30,7 @@ The Statutory Accounting and Compliance Senior Manager is a [grade 9](https://ab
 - Facilitate gathering of tax return requests, collaborating with the Accounting and Payroll teams as needed
 
 ### Requirements
+
 - Willingness to learn and use GitLab
 - Eight plus years of a combination of accounting and tax experience, including working with entities outside of the US
 - At least four years working as an auditor in public accounting and/or managing statutory audits
@@ -40,6 +42,7 @@ The Statutory Accounting and Compliance Senior Manager is a [grade 9](https://ab
 
 
 ### Performance Indicators
+
 - [Audit Adjustments](https://about.gitlab.com/handbook/tax/performance-indicators/#audit-adjustments)
 
 ### Career Ladder

@@ -6,6 +6,7 @@ title: IT Systems Engineer
 The IT Systems Engineer is responsible for performing functions such as evaluation, testing, debugging and implementation of applications programs supporting the company infrastructure business processes and operations. Other functions include analyze, install, modify and support operating systems, databases, and utilities software. The IT Systems Engineer also plans, conducts and directs the analysis of business problems with automated systems solutions. This job family reports to the [IT Manager](/job-families/finance/manager-it/).
 
 ## Responsibilities
+
 - Deploy and manage business critical applications in cloud infrastructure like Amazon Web Services (AWS) and Google Cloud Platform (GCP)
 - Collaborate with engineering and security teams to coordinate on IT policies
 - Build policies and scripts to support company owned devices
@@ -20,6 +21,7 @@ The IT Systems Engineer is responsible for performing functions such as evaluati
 - Develop system-monitoring and support automation to enhance and scale the quality of support
 
 ## Requirements
+
 - Experience administering SaaS applications like Okta, Google Workspace, Slack, Zoom
 - Knowledge of configuration management tools like Ansible, Chef, or Terraform
 - Hands-on experience supporting Linux and Mac
@@ -109,7 +111,6 @@ The Staff IT Systems Engineer has all the same responsibilities as the senior po
 - Leading innovation opportunities between several teams with a willingness to experiment and to boldly confront problems of large complexity and scope.
 - Making technical decisions on behalf of the department and organization while providing presentation support to leaders during technical discussions.
 
-
 #### Staff IT Systems Engineer Requirements
 
 The Staff IT Systems Engineer has all the same responsibilities as the ones outlined above plus the following:
@@ -123,6 +124,7 @@ The Staff IT Systems Engineer has all the same responsibilities as the ones outl
 - Ability to use GitLab
 
 ## Performance Indicators
+
 - [Mean Time between Failures (MTBF)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
 - [Mean Time to Repair (MTTR)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
 - [Number of days since last environment audit](https://about.gitlab.com/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)

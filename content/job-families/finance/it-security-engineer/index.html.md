@@ -8,6 +8,7 @@ title: IT Security Engineer
 As a member of the IT Security Operations team at GitLab, you will be working towards raising the bar on security, focusing on securing our internal systems and SaaS applications. We will achieve that by working and collaborating with cross-functional teams to provide guidance on security best practices.
 
 ## Responsibilities for IT Security Engineer roles
+
 - Assess, deploy and optimize security tools as needed to improve security posture
 - Serve as a technical resource for IT, advising on Security related issues
 - Be naturally inquisitive and look constantly for ways to improve
@@ -48,6 +49,7 @@ The IT Security Engineer (Intermediate) reports to the [Manager, IT Security Ope
 The IT Security Engineer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### IT Security Engineer (Intermediate) Responsibilities
+
 - Leverage understanding of fundamental security concepts
 - Triages/handles basic security issues
 - Be positive and solution oriented
@@ -100,6 +102,7 @@ A Staff Security Engineer may decide to pursue the [Manager, IT Security Operati
 .
 
 ## Performance Indicators
+
 - Security tools compliance > 95%
 - Patch compliance > 95%
 
