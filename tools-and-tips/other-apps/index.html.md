@@ -184,7 +184,7 @@ which are similar to the functionality provided by Calendly.
 [Calendly](https://calendly.com/) connects to your Google Calendar so people outside GitLab can easily book a time with you.
 If you are scheduling a meeting with a GitLab team-member, please use Google Calendar and follow handbook guidance when [scheduling a meeting](/handbook/communication/#scheduling-meetings).
 
-1. Set up a [Calendly](https://calendly.com/) account.
+1. Set up a [Calendly](https://calendly.com/). First sign up with your GitLab email address, then accept the terms and conditions and then authentificate with your Google SSO. 
 1. Link it to your GitLab Google Calendar to make it possible for people to schedule a call with you.
 1. Get your personal meeting room URL by going to [Zoom meeting settings](https://gitlab.zoom.us/meeting), selecting the *Personal Room* tab, and copying the value of *Invite Link* (do not use *Copy the invitation*).
 1. If you are using the Basic Calendly Subscription (Unpaid) you will only be able to set-up one event type at a time i.e. either a 15, 30, 45 or 60 minute event - teams making use of one of the Paid Subsciption Tiers such as Customer Support will be able to set up more than one event type.
