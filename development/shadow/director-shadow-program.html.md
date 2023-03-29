@@ -163,8 +163,7 @@ No, not at this time.
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| March 27   |  Available | |
-| April 3    |  Available | |
+| April 3    |  [Nicholas Reynolds](https://www.linkedin.com/in/nicholas-reynolds-84a0631a6/) | Non-Gitlab shadow - Frontend Developer Crema |
 | April 10   |  Available | |
 | April 17   |  [Jonathan Ducharme](https://www.linkedin.com/in/ducharme-jonathan/) | Non-Gitlab shadow - Engineering Manager at AlleyCorp Nord |
 | April 24   |  [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer from [Alarm.com](https://alarm.com/) |
