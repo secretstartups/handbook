@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Application Security Engineer"
 description: "Application Security Engineers work closely with development teams, product managers (PM), and third-party groups to ensure that GitLab products are secure."
 extra_js:

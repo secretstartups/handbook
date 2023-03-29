@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Security Automation Roles"
 description: "Learn more about GitLab Security Automation roles, requirements, levels and more."
 extra_js:

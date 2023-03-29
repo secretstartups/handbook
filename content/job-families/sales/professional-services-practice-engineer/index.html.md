@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Professional Services Practice Engineer"
 description: "The GitLab Professional Services Consulting Practice organization defines and matures the consulting services offered by GitLab Professional Services and Partner organizations."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Designer"
 description: "As a designer for GitLab you would be responsible for creating and maintaining our brand."
 ---

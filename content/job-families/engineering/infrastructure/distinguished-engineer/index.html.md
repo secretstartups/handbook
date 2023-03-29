@@ -1,10 +1,9 @@
 ---
-layout: job_family_page
 title: "Distinguished Engineer, Infrastructure - Job Family"
 description: "Distinguished Engineers are recognized experts in multiple technology domains within GitLab, and represent the senior technical leadership within their organization and throughout the company at large."
 ---
 
-# Distinguished Engineer Roles at GitLab
+## Distinguished Engineer Roles at GitLab
 
 Distinguished Engineers are recognized experts in multiple technology domains within GitLab, and represent the senior technical leadership within their organization and throughout the company at large. They are responsible for helping shape the future direction of the organization, assisting management establish strategic roadmaps, and driving priorities to meet objectives. They also have a strong track record of growing and influencing others, working with all levels of senior leadership, and fostering the psychological safety and happiness of members of their team.
 
@@ -99,13 +98,13 @@ The Senior Distinguished Engineer is a [grade 11](https://about.gitlab.com/handb
 
 ### Requirements
 
-- Extends that of the [Distinguished Engineer](#distinguished-engineer) requirements, with a exclusive focus on leadership and team-member enablement
+- Extends that of the [Distinguished Engineer](#requirements) requirements, with a exclusive focus on leadership and team-member enablement
 
 ### Responsibilities
 
 Share our company values, and work in accordance with those values.
 
-- Extends that of the [Distinguished Engineer](#distinguished-engineer) responsibilities
+- Extends that of the [Distinguished Engineer](#responsibilities) responsibilities
 - The Senior Distinguished Engineer's minimal sphere of influence is across the Engineering division, representing Infrastructure department interests in the company as well as across the industry
 - Focuses on the long term technical vision for the product, engages and contribute to the most important strategic initiatives in the company
 - Works closely with their management peer to influence changes across the technical, as well as process driven intitiatives

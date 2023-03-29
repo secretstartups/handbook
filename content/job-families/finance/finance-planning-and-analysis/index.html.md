@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Financial Planning and Analysis"
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Customer Success Management"
 description: "The Customer Success Management (CSM) team focuses on the themes of align, enable, and expand."
 ---

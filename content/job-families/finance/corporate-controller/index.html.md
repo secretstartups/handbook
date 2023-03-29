@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Corporate Controller"
 description: "The Corporate Controller job family leads the accounting and financial reporting activities and is responsible for the leadership, development and execution of the company’s corporate accounting function."
 ---

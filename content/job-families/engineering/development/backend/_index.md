@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Backend Engineering Roles"
 description: "Learn more about requirements and responsibilities for Backend Engineering roles at GitLab."
 manual_cookiebot: true

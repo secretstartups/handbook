@@ -1,23 +1,14 @@
 ---
-layout: job_family_page
 title: "Incubation Engineering Leadership"
-canonical_path: "/job-families/engineering/incubation/management/"
 ---
 
 The Incubation Engineering Leadership manage the [Incubation Engineering Department](https://about.gitlab.com/handbook/engineering/incubation/). The team members in this department focus on long-term trends and features that are too early to measure via usage or revenue, but are critical to the long term growth and success of GitLab. The projects this department works on align with the "new markets" [investment type](https://internal-handbook.gitlab.io/handbook/product/investment/). Long term, the budget for this area will be ~10% of R&D.
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Levels
 
 ### Director, Incubation Engineering
 
-*The Director, Incubation Engineering reports to the [VP of Incubation Engineering](#vp-of-incubation).
+*The Director, Incubation Engineering reports to the [VP of Incubation Engineering](#vp-of-incubation-engineering).
 
 #### Director, Incubation Engineering Job Grade
 

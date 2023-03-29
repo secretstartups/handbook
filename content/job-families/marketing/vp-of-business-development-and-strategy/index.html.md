@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "VP of Business Development and Strategy"
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Engineering Management - Engineering Analytics"
 ---
 
@@ -39,6 +38,7 @@ Engineering Analytics Manager manages a team of Engineering Analysts that work o
 - Confidentiality in handling sensitive organizational information.
 
 ### Nice to haves
+
 - Experience in a peak performance organization
 - Enterprise software company experience.
 - Developer platform/tool industry experience.
@@ -131,7 +131,7 @@ The Director, Engineering Analytics is a [grade 10](https://about.gitlab.com/han
 
 - Engineering PI Content MR Rate
 - Handbook MR Rate
-- Open Engineering Analytics Issue Age  
+- Open Engineering Analytics Issue Age
 
 ## Hiring Process
 

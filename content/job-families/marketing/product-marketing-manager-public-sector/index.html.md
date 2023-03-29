@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Product Marketing Manager, Public Sector"
 ---
 

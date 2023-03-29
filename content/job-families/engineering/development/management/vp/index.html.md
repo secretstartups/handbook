@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: VP of Development
 ---
 
@@ -23,7 +22,9 @@ Engineering Managers at GitLab see their team as their product. While they are t
 
 ## Job Grade
 
-The VP of Development is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  This role extends the [Senior Director, Development](#senior-director-development) role.  It expands the role to cover full functional and product capabilities at GitLab.
+The VP of Development is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+This role extends the [Senior Director, Development](/job-families/engineering/development/management/senior-director/) role.  It expands the role to cover
+full functional and product capabilities at GitLab.
 
 ## Performance Indicators
 
@@ -35,7 +36,7 @@ The VP of Development is a [grade 12](https://about.gitlab.com/handbook/total-re
 
 ## Hiring Process
 
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 - Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering

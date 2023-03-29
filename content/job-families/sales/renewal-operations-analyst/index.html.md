@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Renewals Operations Analyst"
 description: "The Renewal Operations Team is responsible for providing forecast clarity, scoring renewal growth and retention likelihood, customer analytics, and developing retention action plans."
 ---

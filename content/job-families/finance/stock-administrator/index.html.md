@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Stock Administration"
 description: "Responsible for administering GitLab’s equity incentive program which includes option and RSU grants to team members."
 ---

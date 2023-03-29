@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Community Programs"
 description: "Learn more about Community Programs roles, responsibilities, requirements, and levels."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Fullstack Engineers"
 description: "Fullstack Engineers at GitLab work in the Growth department, which analyzes the entire customer journey from acquisition of a customer, to the flow across multiple GitLab features."
 ---

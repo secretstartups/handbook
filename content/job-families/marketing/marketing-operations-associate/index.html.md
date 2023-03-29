@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Marketing Operations Associate"
 ---
 You understand that setting a foundation for healthy growth in a fast-paced company is effective marketing operations. Your job is to support the Marketing Operations team in meeting our goals of evaluating/selecting/customizing technology to enable effective marketing at GitLab, ensuring high data quality and helping colleagues access that data to enable smarter decisions, and assisting in marketing analysis/planning/strategy. This is an entry level position for Marketing Operations.

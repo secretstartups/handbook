@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Renewals Job Family
 description: The Renewals job family delivers to an essential moment in the customer journey, ensuring we can continue to deliver value and business outcomes through customer retention.
 ---

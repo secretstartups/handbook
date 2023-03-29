@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Candidate Experience"
 description: "The GitLab Candidate Experience Specialists work to create positive experiences for GitLab candidates and hiring teams."
 ---

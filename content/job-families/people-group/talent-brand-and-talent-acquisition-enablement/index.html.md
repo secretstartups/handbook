@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Talent Brand and Talent Acquisition Enablement"
 ---
 

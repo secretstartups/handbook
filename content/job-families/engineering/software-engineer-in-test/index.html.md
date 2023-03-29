@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Software Engineer in Test Job Family"
 description: "Software Engineers in Test at GitLab help grow our test automation efforts across the entire GitLab ecosystem."
 ---
@@ -51,6 +50,7 @@ You see distributed systems as a core challenge of good test automation infrastr
 - Ability to use GitLab
 
 ## Levels
+
 - [Intermediate](/job-families/engineering/software-engineer-in-test/#intermediate)
 - [Senior](/job-families/engineering/software-engineer-in-test/#senior)
 - [Staff](/job-families/engineering/software-engineer-in-test/#staff)

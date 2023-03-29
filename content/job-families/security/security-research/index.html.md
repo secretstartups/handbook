@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Security Research Engineer Roles"
 description: "Learn more about Security Research Engineering roles, responsibilities, requirements and levels."
 extra_js:

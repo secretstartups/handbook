@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Product Operations Job Family"
 description: "This job family represents the product operations department."
 ---

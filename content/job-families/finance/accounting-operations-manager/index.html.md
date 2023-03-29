@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Accounting Operations Management"
 description: "The Manager, Accounting Operations helps drive operational improvements within the finance department, developing a highly efficient, world class accounting process."
 ---

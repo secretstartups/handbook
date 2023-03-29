@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Legal Operations Job Family"
 description: "Learn more about Legal Operations job family levels, roles and responsibilities."
 ---

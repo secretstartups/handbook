@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Senior Frontend Engineer
 ---
 
@@ -47,6 +46,11 @@ Frontend Engineers at GitLab work on our product. This includes both the open-so
 - Ability to thrive in a fully remote organization
 - Ability to use GitLab
 
+[iteration]: https://about.gitlab.com/handbook/values/#iteration
+[collaboration]: https://about.gitlab.com/handbook/values/#collaboration
+[efficiency]: https://about.gitlab.com/handbook/values/#efficiency
+[values]: https://about.gitlab.com/handbook/values
+
 ## Nice-to-haves
 
 - Working knowledge of Ruby on Rails and Haml
@@ -61,6 +65,7 @@ Frontend Engineers at GitLab work on our product. This includes both the open-so
 - Domain knowledge relevant to the product stage in which you are looking to join (e.g. someone with CI/CD experience applying for the Verify & Release team)
 
 ## Levels
+
 - [Intermediate](/job-families/engineering/development/frontend/#intermediate-frontend-engineer)
 - Senior
 - [Staff](/job-families/engineering/development/frontend/#staff-frontend-engineer)

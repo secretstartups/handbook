@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Product Marketing Manager"
 ---
 Product Marketing Managers at GitLab have a unique opportunity to contribute to our [mission](https://about.gitlab.com/company/mission/#mission):

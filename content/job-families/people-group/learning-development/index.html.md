@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Learning & Development Roles"
 description: "The Learning and Development (L&D) job family is responsible for building and maintaining a learning culture at GitLab."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Support Management"
 description: "Support Engineering Management at GitLab isn’t your typical management opportunity because of our approach to the function."
 canonical_path: "/job-families/engineering/support-management/"

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Security Governance"
 description: "Security Governance professionals at GitLab focus on our security governance programs"
 extra_js:

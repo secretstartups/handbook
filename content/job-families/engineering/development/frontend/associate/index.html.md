@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Associate Frontend Engineer
 ---
 
@@ -56,12 +55,12 @@ Frontend Engineers at GitLab work on our product. This includes both the open so
 - Domain knowledge relevant to the product stage in which you are looking to join (eg. someone with CI/CD experience applying for the Verify & Release team)
 
 ## Levels
+
 - Associate
 - [Intermediate](/job-families/engineering/development/frontend/#intermediate-frontend-engineer)
 - [Senior](/job-families/engineering/development/frontend/#senior-frontend-engineer)
 - [Staff](/job-families/engineering/development/frontend/#staff-frontend-engineer)
 - [Frontend Engineering Manager](/job-families/engineering/development/frontend/manager/)
-
 
 Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
 

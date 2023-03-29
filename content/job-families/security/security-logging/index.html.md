@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Security Logging - Roles & Responsibilities"
 description: "Security Logging supports and develops GitLab's security log ingestion platform."
 extra_js:

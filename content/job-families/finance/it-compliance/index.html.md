@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "IT Compliance"
 description: "IT Compliance professionals at GitLab focus on operating our security compliance programs and are proficient in all things security compliance. This includes working with systems owners and administrators to identify, document and monitor current risks and controls."
 ---

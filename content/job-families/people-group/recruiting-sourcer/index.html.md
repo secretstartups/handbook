@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Recruiting Sourcer"
 description: "Sourcers at GitLab are experts at finding the best candidates for a high-tech, distributed company."
 ---

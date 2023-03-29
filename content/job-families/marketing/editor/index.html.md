@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Content Editor"
 description: "As a member of the Editorial team at GitLab, you are part of building the media and publishing arm of GitLab."
 ---

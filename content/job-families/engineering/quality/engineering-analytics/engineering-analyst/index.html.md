@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Engineering Analyst"
 ---
 
@@ -9,6 +8,7 @@ They work closely with GitLab’s Data team to enable new data capabilities that
 
 
 ## Responsibilities
+
 - Create data queries that provide actionable data-driven insights.
 - Create actionable, concise, and presentable data visualizations
 - Ensure accuracy of Performance Indicators in the Engineering Division and all it's departments.
@@ -36,6 +36,7 @@ They work closely with GitLab’s Data team to enable new data capabilities that
 
 
 ### Nice to haves
+
 - Experience in a peak performance organization
 - Enterprise software company experience.
 - Developer platform/tool industry experience.
@@ -114,10 +115,12 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
 ## Specialties
 
 ### Development
+
 - Merge Request Rate (known as Throughput outside of GitLab)
 - Review Efficiency
 
 ### Infrastructure
+
 - Deep understanding of Infrastructure resource utilization, finance & forecast models.
 - Deep understanding of the infrastructure vendor landscape and their cost models.
   - Compute queries
@@ -131,26 +134,31 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
 - Support Infrastructure with cost efficiency in service of GitLab.com and the rest of the company.
 
 ### Quality
+
 - Merge Request Rate (known as Throughput outside of GitLab)
 - Review Efficiency
 - Community Contributions
 
 ### UX
+
 - SUS Scores
 - UX Debt
 
 ### Security
+
 - Security Vulnerabilities
 - Compliance levels
 
 ### Support
+
 - Cost of goods sold
 - CapEx
 
 ## Performance Indicators
+
 - Engineering PI Content MR Rate
 - Handbook MR Rate
-- Open Engineering Analytics Issue Age  
+- Open Engineering Analytics Issue Age
 - Infrastructure Specialty:
   - [Infrastructure Cost per GitLab.com Monthly Active Users](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-per-gitlab-com-monthly-active-users)
   - [Infrastructure cost vs plan](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-vs-plan)

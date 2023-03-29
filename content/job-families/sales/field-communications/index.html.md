@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Field Communications Roles"
 description: "Learn more about Field Communications roles, responsibilities and requirements."
 extra_js:

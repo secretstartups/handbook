@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Security Program Manager"
 description: "Driving security strategy and initiatives company-wide"
 ---

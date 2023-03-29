@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Go-to-Market Planning and Operations"
 description: "The Go-to-Market (GTM) Planning and Operations job family supports GitLab's go-to-market planning and compensation design, as well as the associated analytics and tools."
 ---

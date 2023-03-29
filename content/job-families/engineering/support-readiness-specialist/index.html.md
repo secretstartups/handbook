@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Support Readiness Specialist"
 description: Support Readiness Specialists at GitLab support the daily operations of the global support engineering team
 ---
@@ -60,6 +59,7 @@ backbone and the foundation to our success!
   access to key systems.
 
 #### Additional Requirements
+
 - Zendesk Administrator experience (preferred; or the ability to gain Zendesk
   Administrator Certification within 6 months of start date if required)
 - Zendesk enthusiast who thrives on working in a fast-paced and changing
@@ -116,7 +116,7 @@ To do this you'll:
 progress through [training modules](https://gitlab.com/gitlab-com/support/support-training) or other professional development content.
 - improve publicly available and paid learning content by working with our
 Channel and Learning and Development teams to avoid duplication of
-effort.  
+effort.
 - use your creativity to innovate and discover what can make learning more fun
 and inclusive: compose songs, write poems, film short-format viral video content -
 whatever it takes to improve retention and get better customer outcomes.

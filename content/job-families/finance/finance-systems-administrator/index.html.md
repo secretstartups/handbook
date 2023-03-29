@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Finance Systems Administration"
 ---
 The Finance Systems Administration job family is responsible for the operational ownership of the software applications in the finance and accounting department.

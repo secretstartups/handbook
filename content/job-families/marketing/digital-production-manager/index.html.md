@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Digital Production Roles"
 description: "Learn more about Digital Production roles, responsibilities and requirements."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Internal Audit"
 description: "Internal Audit function is responsible to assess the effectiveness of risk management, control and governance processes."
 ---

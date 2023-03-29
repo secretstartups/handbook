@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Staff Backend Engineer
 ---
 
@@ -10,6 +9,7 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 The Staff Backend Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
+
 - Develop features and improvements to the GitLab product in a secure, well-tested, and performant way.
 - Collaborate with Product Management and other stakeholders within Engineering (Frontend, UX, etc.) to maintain a high bar for quality in a fast-paced, iterative environment.
 - Advocate for improvements to product quality, security, and performance.
@@ -21,6 +21,7 @@ The Staff Backend Engineer is a [grade 8](https://about.gitlab.com/handbook/tota
 - Participate in either Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues **OR** the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
+
 - Ability to use GitLab.
 - Significant professional experience with Ruby on Rails or language required by the specialty.
 - Professional experience with any other technologies that may be required by the specialty.
@@ -39,6 +40,7 @@ The Staff Backend Engineer is a [grade 8](https://about.gitlab.com/handbook/tota
 - Ability to thrive in a fully remote organization.
 
 ## Levels
+
 - [Intermediate](/job-families/engineering/development/backend/intermediate/)
 - [Senior](/job-families/engineering/development/backend/senior/)
 - Staff
@@ -47,6 +49,7 @@ The Staff Backend Engineer is a [grade 8](https://about.gitlab.com/handbook/tota
 ### Staff
 
 #### Staff Responsibilities
+
 - Advocate for improvements to product quality, security, and performance that have particular impact across your team and others.
 - Solve technical problems of the highest scope and complexity for your team.
 - Exert significant influence on the overall objectives and long-range goals of your team.
@@ -58,6 +61,7 @@ The Staff Backend Engineer is a [grade 8](https://about.gitlab.com/handbook/tota
 - Confidently ship large features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
 
 #### Staff Requirements
+
 - TBD
 
 ## Specialties
@@ -219,6 +223,7 @@ The CI/CD Engineering Manager also does weekly stand-up with a team and product 
 [GitLab Geo](https://docs.gitlab.com/ee/administration/geo/) is an enterprise product feature, built to help speed up the development of distributed teams by providing one or more read-only mirrors of a primary GitLab instance. This mirror (a Geo secondary node) reduces the time to clone or fetch large repositories and projects, or can be part of a Disaster Recovery solution.
 
 #### Responsibilties
+
 - Work with the Product Manager to carefully assess technical feasibility of feature requests.
 - Deliver proof-of-concept proposals to help guide technical discussions.
 - Identify ways to deliver complex technical projects in an iterative fashion.
@@ -345,6 +350,7 @@ Gitaly is a service that handles git and other filesystem operations for GitLab 
 - Educate all team members on best practices relating to high availability.
 
 #### Requirements:
+
 - Mandatory: production experience building, debugging, optimising software in large-scale, high-volume environments.
 - Mandatory: Solid production Ruby experience.
 - Highly desirable: Experience working with Go. It’s important that candidates must be willing to learn and work in both Go and Ruby.
@@ -493,6 +499,7 @@ Elasticsearch engineers are focused on delivering a first class global search ex
 - Self-managed installation mechanisms.
 
 ## Performance Indicators
+
 - [Backend Unit Test Coverage](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
 - [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
 - [Open MR Age (OMA)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-age-oma)

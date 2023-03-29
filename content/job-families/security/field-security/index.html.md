@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Field Security"
 extra_js:
 - libs/mermaid.min.js

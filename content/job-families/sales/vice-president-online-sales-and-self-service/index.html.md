@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Vice President, Online Sales and Self Service"
 ---
 

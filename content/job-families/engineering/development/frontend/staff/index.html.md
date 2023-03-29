@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Staff Frontend Engineer
 ---
 
@@ -66,6 +65,7 @@ A Senior Frontend Engineer may want to pursue the engineering management track a
 **Note:** Staff and above positions at GitLab are more of a role than just a "level". We prefer to bring people in as Senior and let the team elevate them to Staff due to an outstanding work history within GitLab.
 
 ## Levels
+
 - [Intermediate](/job-families/engineering/development/frontend/#intermediate-frontend-engineer)
 - [Senior](/job-families/engineering/development/frontend/#senior-frontend-engineer)
 - Staff

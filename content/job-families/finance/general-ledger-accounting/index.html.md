@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "General Ledger Accounting"
 description: "The General Ledger Accounting team are responsible for providing timely and accurate month end close financials, that are GAAP compliant."
 ---

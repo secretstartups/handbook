@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Product Design Management"
 description: "Managers in the UX department at GitLab see the team as their product. While they are credible as designers and know the details of what Product Designers work on, their time is spent hiring a world-class team and putting them in the best position to succeed."
 ---

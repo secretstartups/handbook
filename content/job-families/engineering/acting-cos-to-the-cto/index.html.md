@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Acting Chief of Staff to the CTO"
 description: "This role will help enable communication, collaboration, strategy execution, and special projects across the CTO organization."
 canonical_path: "/job-families/engineering/acting-cos-to-the-cto/"

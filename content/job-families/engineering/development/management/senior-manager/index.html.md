@@ -1,12 +1,11 @@
 ---
-layout: job_family_page
 title: Senior Engineering Manager
 extra_js:
 - libs/mermaid.min.js
 ---
 
 Engineering Managers at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Engineering Leadership at GitLab is cross-discipline. Senior Engineering Managers may or may not manage engineering managers in their role but they must be capable of managing [Backend Engineering Managers](/job-families/engineering/development/backend/manager/),
-[Frontend Engineering Managers](/job-families/engineering/development/frontend/manager/),  
+[Frontend Engineering Managers](/job-families/engineering/development/frontend/manager/),
 and [Fullstack Engineering Managers](/job-families/engineering/development/management/fullstack-manager/).
 
 ## Responsibilities
@@ -85,7 +84,7 @@ The Senior Engineering Manager is a [grade 9](https://about.gitlab.com/handbook/
 
   %% engineer:distinguished(Distinguished Engineer)
   manager:senior(Senior Engineering Manager)
-  
+
   director(Director, Engineering)
 
   manager:frontend --> manager:senior
@@ -111,7 +110,7 @@ The Senior Engineering Manager is a [grade 9](https://about.gitlab.com/handbook/
 
 ## Hiring Process
 
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 1. Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
 1. Candidates will be invited to schedule a 60 minute first interview with a VP of Development

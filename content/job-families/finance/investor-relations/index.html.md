@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Investor Relations"
 description: "The Investor Relations team drives the strategy and long-term market positioning of GitLab in the public financial markets."
 ---

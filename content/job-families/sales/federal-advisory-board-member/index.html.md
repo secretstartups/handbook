@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Federal Advisory Board Member
 description: "The Gitlab PubSec Advisory Board will support the leadership of Company's PubSec Practice, as well as the Company's Corporate Leadership."
 ---

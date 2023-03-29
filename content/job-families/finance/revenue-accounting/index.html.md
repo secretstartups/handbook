@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Revenue Accounting
 description: "The Revenue Accounting Team at Gitlab forms part of the Revenue Organization. The Revenue Accounting Team is responsible for Worldwide Revenue Accounting."
 ---

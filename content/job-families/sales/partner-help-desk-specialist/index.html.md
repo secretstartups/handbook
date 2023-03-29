@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Partner Help Desk Specialist"
 description: "The Partner Help Desk Specialist is responsible for supporting the GitLab partner development, sales enablement, pipeline development and sales transactions. "
 ---

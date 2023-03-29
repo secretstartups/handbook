@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Intermediate Frontend Engineer
 ---
 
@@ -52,6 +51,7 @@ Frontend Engineers at GitLab work on our product. This includes both the open so
 - Domain knowledge relevant to the product stage in which you are looking to join (eg. someone with CI/CD experience applying for the Verify & Release team)
 
 ## Levels
+
 - [Junior](/job-families/engineering/development/frontend/junior/)
 - Intermediate
 - [Senior](/job-families/engineering/development/frontend/#senior-frontend-engineer)

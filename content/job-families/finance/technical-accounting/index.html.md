@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Technical Accounting Management"
 description: "The Technical Accounting Role deeply understands GAAP accounting principles and how to apply those principles to GitLab’s financial statements."
 ---

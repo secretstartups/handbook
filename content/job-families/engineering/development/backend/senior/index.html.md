@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Senior Backend Engineer
 ---
 
@@ -10,6 +9,7 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 The Senior Backend Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
+
 - Develop features and improvements to the GitLab product in a secure, well-tested, and performant way.
 - Collaborate with Product Management and other stakeholders within Engineering (Frontend, UX, etc.) to maintain a high bar for quality in a fast-paced, iterative environment.
 - Advocate for improvements to product quality, security, and performance.
@@ -21,6 +21,7 @@ The Senior Backend Engineer is a [grade 7](https://about.gitlab.com/handbook/tot
 - Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
 
 ## Requirements
+
 - Ability to use GitLab.
 - Significant professional experience with Ruby on Rails or language required by the specialty.
 - Professional experience with any other technologies that may be required by the specialty.
@@ -39,6 +40,7 @@ The Senior Backend Engineer is a [grade 7](https://about.gitlab.com/handbook/tot
 - Ability to thrive in a fully remote organization.
 
 ## Levels
+
 - [Intermediate](/job-families/engineering/development/backend/intermediate/)
 - Senior
 - [Staff](/job-families/engineering/development/backend/staff/)
@@ -47,6 +49,7 @@ The Senior Backend Engineer is a [grade 7](https://about.gitlab.com/handbook/tot
 ### Senior
 
 #### Senior Responsibilities
+
 - Advocate for improvements to product quality, security, and performance that have particular impact across your team.
 - Solve technical problems of high scope and complexity.
 - Exert influence on the overall objectives and long-range goals of your team.
@@ -58,6 +61,7 @@ The Senior Backend Engineer is a [grade 7](https://about.gitlab.com/handbook/tot
 - Improves the [engineering projects](https://about.gitlab.com/handbook/engineering/projects/) at GitLab as a [project maintainer](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer). For more information regarding timelines and exceptions, [see this page](https://about.gitlab.com/handbook/engineering/workflow/code-review/#senior-maintainers).
 
 #### Senior Requirements
+
 - TBD
 
 ## Specialties
@@ -230,6 +234,7 @@ The CI/CD Engineering Manager also does weekly stand-up with a team and product 
 [GitLab Geo](https://docs.gitlab.com/ee/administration/geo/) is an enterprise product feature, built to help speed up the development of distributed teams by providing one or more read-only mirrors of a primary GitLab instance. This mirror (a Geo secondary node) reduces the time to clone or fetch large repositories and projects, or can be part of a Disaster Recovery solution.
 
 #### Responsibilties
+
 - Work with the Product Manager to carefully assess technical feasibility of feature requests.
 - Deliver proof-of-concept proposals to help guide technical discussions.
 - Identify ways to deliver complex technical projects in an iterative fashion.
@@ -255,6 +260,7 @@ Growth: Analytics and Experimentation Engineers build, maintain, and integrate w
 - Comfort multitasking in a highly iterative environment.
 
 ##### Nice to have
+
 - Proven experimentation platform development experience
 - Familiarity with third party experimentation tools
 - Experience with Snowplow
@@ -270,6 +276,7 @@ The Senior Backend Engineer for Product Intelligence extends the Senior Backend 
 #### Requirements
 
 ##### Nice to have
+
 - Proven database development experience with SQL.
 - Postgres database experience with replication, backup, indexing, and partitioning.
 - DevOps experience working with and configuring infrastructure (GCP/AWS, GKE, GCS, IAM).
@@ -330,11 +337,13 @@ The Application Performance team works to improve availability, reliability, and
 #### Requirements
 
 An ideal engineer candidate -
+
 - Expert of Ruby on Rails.
 - Experience of performance tuning and/or architecture, [Example](https://rubykaigi.org/2018/presentations/tenderlove.html).
 - Experience of memory leak troubleshooting, [Example 1](http://www.be9.io/2015/09/21/memory-leak/), [Example 2](https://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby).
 
 Alternatively, some of the following qualifications, may not necessarily be all -
+
 - **Must** be proficient in one or more of the following in preference order
   - Ruby.
   - Go.
@@ -386,7 +395,8 @@ Gitaly is a service that handles git and other filesystem operations for GitLab 
 - Conduct acceptance testing of the features you’ve built.
 - Educate all team members on best practices relating to high availability.
 
-#### Requirements:
+#### Requirements
+
 - Mandatory: production experience building, debugging, optimising software in large-scale, high-volume environments.
 - Mandatory: Solid production Ruby experience.
 - Highly desirable: Experience working with Go. It’s important that candidates must be willing to learn and work in both Go and Ruby.
@@ -533,6 +543,7 @@ Elasticsearch engineers are focused on delivering a first class global search ex
 - Self-managed installation mechanisms.
 
 ## Performance Indicators
+
 - [Backend Unit Test Coverage](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#backend-unit-test-coverage)
 - [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
 - [Open MR Age (OMA)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-age-oma)

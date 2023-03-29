@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Payroll Roles"
 description: "The payroll department is responsible for processing and distributing payroll in a timely and accurate manner and coordinates with external vendors." 
 ---

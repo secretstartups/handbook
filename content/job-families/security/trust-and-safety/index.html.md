@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Trust and Safety"
 description: "Trust & Safety team members are the builders and maintainers of the anti-abuse world at GitLab.com."
 extra_js:

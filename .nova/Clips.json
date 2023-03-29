@@ -1,0 +1,22 @@
+{
+  "clips" : [
+    {
+      "content" : "{{< cardpane >}}\n{{< card-code header=\"**Markdown**\" lang=\"mkd\" >}}\n\n{{< \/card-code >}}\n{{< card header=\"**Output**\" >}}\n<div style=\"padding-left: 5%; padding-top: 5%\">\n\n<\/div>\n{{< \/card >}}\n{{< \/cardpane >}}\n",
+      "name" : "code+output",
+      "scope" : "editor",
+      "syntax" : "markdown"
+    },
+    {
+      "content" : "{{% alert color=\"warning\" %}}\n\n{{% \/alert %}}",
+      "name" : "alert-warning"
+    },
+    {
+      "content" : "{{% alert title=\"Note\" color=\"primary\" %}}\n\n{{% \/alert %}}\n",
+      "name" : "note-block"
+    },
+    {
+      "content" : "[iteration]: https:\/\/about.gitlab.com\/handbook\/values\/#iteration\n[collaboration]: https:\/\/about.gitlab.com\/handbook\/values\/#collaboration\n[efficiency]: https:\/\/about.gitlab.com\/handbook\/values\/#efficiency\n[values]: https:\/\/about.gitlab.com\/handbook\/values",
+      "name" : "values links"
+    }
+  ]
+}

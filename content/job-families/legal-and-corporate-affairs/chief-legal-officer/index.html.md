@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Chief Legal Officer, Head of Corporate Affairs, and Corporate Secretary"
 ---
 Our Chief Legal Officer, Head of Corporate Affairs, and Corporate Secretary is an exceptional lawyer and senior executive that is leading GitLab through the going public process and helping manage our growth as a public company. The Chief Legal Officer has successfully led a high growth technology Company and has at least two years of operating experience as Chief Legal Officer of a public company.  They have the background and experience to act as a strategic partner and business advisor to the CEO and the Board of Directors, as well as the technical depth and leadership experience to run GitLab’s legal function. This particular position provides the opportunity for the Chief Legal Officer to work with a high growth company guided by strong company values put into action on a daily basis. This position reports directly to the CEO.

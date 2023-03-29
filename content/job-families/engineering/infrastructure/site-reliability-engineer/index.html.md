@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Site Reliability Engineer"
 description: "Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other GitLab production systems running smoothly."
 ---
@@ -45,11 +44,12 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 - Plan, prepare for, and execute the [migration of GitLab.com](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/#infra-proposed-cloud-native) from virtual machines running on Google Cloud to cloud-native container-based deployments with Kubernetes using Google Kubernetes Engine.
 - Develop a relationship with a [product group](https://about.gitlab.com/handbook/product/categories/), define their SLAs, share GitLab.com data on those SLAs and improve their reliability
 
-# Leveling of Site Reliability Engineering at GitLab
+## Leveling of Site Reliability Engineering at GitLab
 
-## Areas of expertise/contribution for leveling
+### Areas of expertise/contribution for leveling
 
-### Technical
+#### Technical
+
 - Configuration management: use Chef and Ansible to effectively manage our infrastructure
 - Infrastructure as code: use Terraform and GitLab CI/CD for automation, containerize our environments (Kubernetes), and leverage cloud technologies to meet our goals
 - Systems: manage, configure and troubleshoot operating system issues, storage (block and object), networking (VPCs, proxies and CDNs), and administer high-availability PostgreSQL and Redis clusters
@@ -58,18 +58,21 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 - Use and contribute to code to GitLab
 - Work in a variety of languages: Shell, Ruby, GoLang, Python
 
-### Execution
+#### Execution
+
 - Planning: familiary with agile methodolodies; use epics, issues to drive projects
 - Organization: workload organization, OKR leadership
 - Management: a [manager of one](https://about.gitlab.com/handbook/values/#managers-of-one), able to self-organize and report asynchronously
 
-### Collaboration and Communication
+#### Collaboration and Communication
+
 - Leading and contributing to scope and designs for issues, epics, and OKRs
 - Contributing to the [Handbook](https://about.gitlab.com/handbook/), create and update [runbooks](https://gitlab.com/gitlab-com/runbooks) and [general documentation](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs), and write [blog posts](https://about.gitlab.com/blog/categories/engineering/)
 - Completing Root Cause Analysis (RCA) investigations and perform readiness reviews
 - Improving team practices through code reviews, handoffs of work and incidents
 
-### Influence and Maturity
+#### Influence and Maturity
+
 - Involvement in hiring process: contributing and reviewing questionnaires, qualifying candidates, interviewing.
 - Knowledge sharing, mentoring.
 - Self-awareness, handling conflict in the team, and providing and receiving feedback
@@ -207,7 +210,6 @@ Are Senior Production SREs who meet the following criteria:
 
 SRE's with Delivery specialization focus primarily on improving the software delivery for GitLab.com, as well as self-managed users by improving the release management tooling and processes. They have a wide understanding of the system and application architecture, and have a strong observability background. They are expected to contribute to various GitLab projects with a software delivery focus and point of view.
 
-
 #### Responsibilities
 
 Delivery SRE responsibilities are the same as for their Backend Engineer team colleagues, defined in [the backend engineer role](../../backend-engineer#delivery). While the backend engineers approach their responsibilities from a software developer point of view, the SRE's approach the same problems from the operational perspective and collaborate closely on finding an optimal solution that will safely and quickly deliver code to various supported environments.
@@ -230,14 +232,14 @@ a system that can scale to meet demand.
 #### Responsibilities
 
 1. Analyse existing, create and maintain new GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective).
-2. Troubleshoot, evaluate and resolve operational challenges contributing to defined SLOs.
-3. Define, improve, and engage in adapting architectural application bottlenecks as observed on GitLab.com.
-4. Work with other engineering stakeholders on resolving larger architectural bottlenecks and participate through GitLab.com point of view.
-5. Work in close collaboration with software development teams to consult on scaling concerns.
-6. Contribute to the future roadmap of software development teams and establish strong operational readiness across teams.
-7. Scale systems through automation, improving change velocity and reliability.
-8. Leverage technical skills to partner with team members and be comfortable diving into a problem as needed.
-9. Work to enable other teams to scale through automation, knowledge-sharing, and self-service activities.
+1. Troubleshoot, evaluate and resolve operational challenges contributing to defined SLOs.
+1. Define, improve, and engage in adapting architectural application bottlenecks as observed on GitLab.com.
+1. Work with other engineering stakeholders on resolving larger architectural bottlenecks and participate through GitLab.com point of view.
+1. Work in close collaboration with software development teams to consult on scaling concerns.
+1. Contribute to the future roadmap of software development teams and establish strong operational readiness across teams.
+1. Scale systems through automation, improving change velocity and reliability.
+1. Leverage technical skills to partner with team members and be comfortable diving into a problem as needed.
+1. Work to enable other teams to scale through automation, knowledge-sharing, and self-service activities.
 
 In each of these responsibilities, we focus on the long-term mindset required to harden our systems for growth.
 

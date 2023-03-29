@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Data Engineer, Corporate Development"
 description: "As a Data Engineer in Corporate Development, you'll be in charge of developing
 innovative technical solutions to automate, scale, and streamline business

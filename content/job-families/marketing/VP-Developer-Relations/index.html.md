@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: VP, Developer Relations and Community
 ---
 

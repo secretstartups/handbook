@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Inside Sales Job Family"
 description: "Learn more about Inside Sales job family levels, roles and responsibilities."
 ---

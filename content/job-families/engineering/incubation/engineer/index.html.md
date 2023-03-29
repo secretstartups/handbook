@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Incubation Engineer Roles"
 description: "Incubation Engineers are experienced Full Stack Software Engineers with deep knowledge in a specific domain that are able to work independently to deliver a solution to market."
 canonical_path: "/job-families/engineering/incubation/engineer/"
@@ -9,13 +8,6 @@ Incubation Engineers are experienced Software Engineers with deep knowledge in a
 
 Incubation Engineers work within the [Incubation Engineering Department](https://about.gitlab.com/handbook/engineering/incubation/).
 
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ### Responsibilities
 
 - Develop features and improvements in a secure, well-tested, and performant way
@@ -24,7 +16,7 @@ Incubation Engineers work within the [Incubation Engineering Department](https:/
 - Develop strategies for scaling beyond the Incubation phase
 - Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
 - Regularly [demonstrate](https://about.gitlab.com/handbook/engineering/#engineering-demo-process) progress to stake holders
-- Contribute to documentation and UI design as required  
+- Contribute to documentation and UI design as required
 
 ### Requirements
 

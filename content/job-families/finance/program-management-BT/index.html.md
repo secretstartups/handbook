@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Program Management, Business Technology
 description: "The Program Manager, Business Technology job family is responsible for building and managing world-class information technology systems and business processes."
 ---

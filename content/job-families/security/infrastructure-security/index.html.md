@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Infrastructure Security - Roles & Responsibilities"
 description: "As members of GitLab's Security Operations sub department, the Infrastructure Security engineers own security initiatives related to security of GitLab.com."
 extra_js:

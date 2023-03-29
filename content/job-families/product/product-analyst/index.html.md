@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Product Analyst"
 description: "Product Analysts at GitLab have a unique opportunity to improve the product 
 through data-driven insights and recommendations" 

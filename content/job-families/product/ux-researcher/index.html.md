@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "UX Researcher"
 description: "At GitLab, UX Researchers collaborate with our Product Designers, Product Managers and the rest of the community to assist in determining what features should be built, behave, and priorities."
 ---

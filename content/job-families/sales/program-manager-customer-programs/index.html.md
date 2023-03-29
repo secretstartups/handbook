@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Program Manager, Customer Programs"
 description: "The Program Manager, Customer Programs is a part of the Customer Success Manager team, and focuses on  enabling the onboarding-only and digital customer segments."
 ---

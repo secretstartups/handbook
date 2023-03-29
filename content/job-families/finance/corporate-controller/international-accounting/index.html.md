@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "International Accounting"
 description: " _add high level description of job family_ "
 ---

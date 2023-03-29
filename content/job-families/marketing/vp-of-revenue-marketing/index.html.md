@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Vice President of Revenue Marketing"
 description: "Our Vice President of Revenue Marketing is an innovative and energetic leader, with a knack for empowering high performing teams and an ability to get things done."
 ---

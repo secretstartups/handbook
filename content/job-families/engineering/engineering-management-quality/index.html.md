@@ -1,10 +1,7 @@
 ---
-layout: job_family_page
 title: "Engineering Management - Quality"
 description: "Engineering Managers in the Quality Department are motivated and experienced leaders who grow our test automation efforts across the entire GitLab ecosystem."
 ---
-
-# Quality Management Roles at GitLab
 
 At GitLab, Quality is everyone's responsibility and the output of the Quality Department is instrumental to GitLab’s success.
 
@@ -49,10 +46,11 @@ The Manager, Quality Engineering is a [grade 8](https://about.gitlab.com/handboo
 - Ability to be successful managing at a remote-only company.
 - Humble, servant leader.
 - You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
- - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab.
 
 ### Nice-to-have Requirements
+
 - Management credibility: Past experience as an engineering manager.
 - Experience with non-functional testing like performance, security, and chaos testing.
 - Deep Ruby on Rails or Golang experience.
@@ -82,7 +80,7 @@ As a result an interview can be canceled at any time even if the interviews are 
 
 ## Senior Manager, Quality Engineering
 
-The Senior Manager, Quality Engineering role extends the [Manager, Quality Engineering](#manager-quality-Engineering) role.
+The Senior Manager, Quality Engineering role extends the [Manager, Quality Engineering](#manager-quality-engineering) role.
 
 ### Job Grade
 
@@ -111,6 +109,7 @@ The Senior Manager, Quality Engineering is a [grade 9](https://about.gitlab.com/
 - You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 
 ### Nice-to-have Requirements
+
 - Experience managing managers.
 
 ### Interview Process
@@ -129,7 +128,7 @@ As a result an interview can be canceled at any time even if the interviews are 
 
 ## Director, Quality Engineering
 
-The Director, Quality Engineering role extends the [Manager, Quality Engineering](#quality-engineering-manager) role.
+The Director, Quality Engineering role extends the [Manager, Quality Engineering](#manager-quality-engineering) role.
 
 ### Job Grade
 

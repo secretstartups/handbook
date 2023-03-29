@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Support Operations Management"
 description: Support Operations Specialists at GitLab support the daily operations and systems of the global support engineering team
 ---

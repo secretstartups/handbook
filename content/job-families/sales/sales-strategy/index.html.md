@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Sales Strategy Roles"
 description: "The Sales Strategy Job Family helps develop and execute GitLab's Global Sales Strategy."
 ---

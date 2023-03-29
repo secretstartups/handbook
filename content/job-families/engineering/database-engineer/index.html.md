@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Database Engineer Roles"
 description: "Learn more about Database Engineer roles at Gitlab including requirements, responsibilities and more."
 ---

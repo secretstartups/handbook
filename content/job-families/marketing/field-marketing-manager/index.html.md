@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Field Marketing Manager Roles"
 description: "The Field Marketing Manager position is responsible for all regional marketing supporting sales in their specific region."
 ---

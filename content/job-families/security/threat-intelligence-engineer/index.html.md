@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Threat Intelligence Engineer"
 description: "Threat intelligence engineers research and provide information about specific threats to help us protect from the types of attacks that could cause the most damage."
 ---

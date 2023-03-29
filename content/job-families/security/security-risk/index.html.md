@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Security Risk"
 extra_js:
 - libs/mermaid.min.js

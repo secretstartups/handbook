@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Accounting and External Reporting"
 description: "The Accounting and External Reporting team are responsible for generating accurate and complete financial statements based on the applicable GAAP for all GitLab entities."
 ---

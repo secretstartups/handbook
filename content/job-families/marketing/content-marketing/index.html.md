@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Content Marketing Roles"
 description: "Learn more about Content Marketing roles at Gitlab including levels, responsibilities and requirements."
 ---

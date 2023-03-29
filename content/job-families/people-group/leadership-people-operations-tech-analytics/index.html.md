@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Leadership People Operations, Technology, Analytics, TMR, & Risk
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Backstage Specialist"
 description: "A Backstage Specialist handles behind-the-scenes development that helps improve the productivity of other developers."
 ---

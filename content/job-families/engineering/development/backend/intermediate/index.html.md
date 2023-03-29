@@ -1,11 +1,11 @@
 ---
-layout: job_family_page
 title: Intermediate Backend Engineer
 ---
 
 Backend Engineers at GitLab work on our product. This includes both the open source version of GitLab, the enterprise editions, and the GitLab.com service as well. They work with peers on teams dedicated to areas of the product. They work together with product managers, designers, and frontend engineers to solve common goals
 
 ## Responsibilities
+
 - Develop features and improvements to the GitLab product in a secure, well-tested, and performant way
 - Collaborate with Product Management and other stakeholders within Engineering (Frontend, UX, etc.) to maintain a high bar for quality in a fast-paced, iterative environment
 - Advocate for improvements to product quality, security, and performance
@@ -17,6 +17,7 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 - Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
 
 ## Requirements
+
 - Ability to use GitLab
 - Significant professional experience with Ruby on Rails or language required by the specialty
 - Professional experience with any other technologies that may be required by the specialty
@@ -35,6 +36,7 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 - Ability to thrive in a fully remote organization
 
 ## Nice-to-haves
+
 - Experience in a peak performance organization, preferably a tech startup
 - Experience with the GitLab product as a user or contributor
 - Product company experience
@@ -46,6 +48,7 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 - Passionate about/experienced with open source and developer tools
 
 ## Levels
+
 - Intermediate
 - [Senior](https://about.gitlab.com/job-families/engineering/backend-engineer/#senior-backend-engineer)
 - [Staff](https://about.gitlab.com/job-families/engineering/backend-engineer/#staff-backend-engineer)
@@ -56,9 +59,9 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 The Backend Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Performance Indicators
+
 - [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
 - [Open MR Age (OMA)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
-
 
 ## Hiring Process
 

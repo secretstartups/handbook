@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Accounting Operations"
 description: "The Accounting Operations function is responsible for the strategy and leadership of our Accounting shared services teams"
 ---

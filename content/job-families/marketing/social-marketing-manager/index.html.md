@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Social Marketing Manager"
 description: "Requirements for Social Media roles at GitLab"
 twitter_image: ""

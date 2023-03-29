@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: PubSec Entity Board Director
 description: "The Gitlab PubSec Entity Board will support the leadership of Company's PubSec Practice, as well as the Company's Corporate Leadership."
 ---

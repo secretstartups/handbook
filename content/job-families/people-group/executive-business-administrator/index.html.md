@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Executive Business Administration"
 description: "Executive Business Administrators at GitLab toggle seamlessly between various systems to accomplish an array of tasks, while staying focused on prioritization and escalating urgent issues."
 ---

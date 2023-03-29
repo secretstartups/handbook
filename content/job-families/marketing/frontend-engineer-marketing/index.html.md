@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Frontend Engineering - Marketing
 description: "Frontend Engineering on the Marketing team work on our marketing site. They work closely with product marketing, content marketing, and other members of the Marketing team."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Pricing"
 description: "The Pricing team owns the definition and execution of pricing strategy at GitLab."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Security Incident Response Team"
 description: "As members of GitLab's Security Operations sub department, the Security Incident Response Team detects, manages, and remediates security incidents across GitLab."
 extra_js:

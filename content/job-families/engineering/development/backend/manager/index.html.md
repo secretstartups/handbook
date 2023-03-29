@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Backend Engineering Manager
 description: "The Backend Engineering Manager specializes in Backend Engineering Management as a manager of people."
 ---
@@ -11,6 +10,7 @@ The Backend Engineering Manager specializes in Backend Engineering Management as
 The Backend Engineering Manager role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
+
 - Help your engineers grow their skills and experience
 - Author project plans for epics
 - Run agile project management processes
@@ -28,14 +28,16 @@ The Backend Engineering Manager role is a [grade 8](https://about.gitlab.com/han
 - Participate in the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
+
 - Ability to use GitLab
 - Exquisite brokering skills: regularly achieve consensus amongst departments
 - Demonstrated progressive experience in a leadership role with current technical experience
-- In-depth experience with Ruby on Rails, Go, and/or Git, in addition to any experience required by the position's [specialty](#specialties)
+- In-depth experience with Ruby on Rails, Go, and/or Git, in addition to any experience required by the position's specialty
 - Excellent written and verbal communication skills
 - You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ## Nice-to-haves
+
 - Experience in a peak performance organization
 - Deep Ruby on Rails experience
 - Golang experience
@@ -46,6 +48,7 @@ The Backend Engineering Manager role is a [grade 8](https://about.gitlab.com/han
 - Passionate about open source and developer tools
 
 ## Levels
+
 - [Intermediate](/job-families/engineering/development/backend/intermediate/)
 - [Senior](/job-families/engineering/development/backend/senior/)
 - [Staff](/job-families/engineering/development/backend/staff/)

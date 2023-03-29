@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Support Engineer"
 description: "Support Engineering Management at GitLab isn’t your typical management opportunity because of our approach to the function."
 canonical_path: "/job-families/engineering/support-engineer/"
@@ -48,11 +47,13 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 ### You should apply if:
 
 ### You've got the personality
+
 - you're a natural communicator and delight in using those skills to help others.
 - you love exploring new technologies and figuring things out the hard way.
 - you enjoy solving many small problems per day.
 
 ### You're a support professional
+
 - you’ve got 2+ years of experience in a support or other service-oriented customer facing role.
 - within the last 5 years, you've worked at one company for at least 2 years.
 - you’re experienced in writing support content.
@@ -61,6 +62,7 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 - you're comfortable using support platforms such as ZenDesk and Salesforce.
 
 ### You've got the technical acumen
+
 - you have knowledge of DevOps methodologies and you appreciate the value technologies like Serverless and Kubernetes bring to the software deployment and development process.
 - you’re able to communicate complex technical topics to customers and coworkers of varying technical skill levels.
 - you have excellent Ruby on Rails knowledge and are fluent on the Rails console, or you're proficient in working with another MVC framework (Django, Laravel or others) and will be able to pick up Rails quickly.
@@ -68,6 +70,7 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 - you have excellent Linux systems administration knowledge (LFCE or RHCE equivalent knowledge).
 
 ### You'll be able to thrive at GitLab
+
 - You can successfully complete a background check -- see the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 - you can demonstrate excellent spoken and written English.
 - you have the ability to use GitLab.

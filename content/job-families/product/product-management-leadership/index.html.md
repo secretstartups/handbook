@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Product Management - Leadership"
 description: "This job family represents all Managers in the Product Management department."
 ---

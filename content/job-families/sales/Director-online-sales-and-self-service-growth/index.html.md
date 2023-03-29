@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Director, Online Sales & Self Service Growth
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Security Engineer"
 description: "As a member of the security team at GitLab, you will be working towards raising the bar on security."
 ---

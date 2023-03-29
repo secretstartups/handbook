@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Billing Operations"
 description: "The Billing Operations Team at Gitlab form part of the Revenue Accounting Group and are responsible for the Global Billing Operations within the order to cash process."
 ---

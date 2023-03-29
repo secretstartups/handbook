@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: Fullstack Engineering Manager
 description: "The Fullstack Engineering Manager specializes in Engineering Management as a manager of people."
 ---
@@ -11,6 +10,7 @@ The Fullstack Engineering Manager specializes in Engineering Management as a man
 The *Fullstack Engineering Manager* role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
+
 - Manage a [combined team](https://about.gitlab.com/handbook/engineering/starting-new-teams/#fullstack-teams) of engineers.
 - Help your engineers grow their skills and experience
 - Author project plans for epics
@@ -30,6 +30,7 @@ The *Fullstack Engineering Manager* role is a [grade 8](https://about.gitlab.com
 - Participate in the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
+
 - Ability to use GitLab
 - Exquisite brokering skills: regularly achieve consensus amongst departments
 - 5 years or more experience
@@ -41,6 +42,7 @@ The *Fullstack Engineering Manager* role is a [grade 8](https://about.gitlab.com
 - You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 
 ## Nice-to-haves
+
 - Experience in a peak performance organization
 - Working knowledge of the backend technologies used by your team such as Ruby on Rails or Go
 - Working knowledge of modern frontend frameworks such as React or Vue.js
@@ -51,6 +53,7 @@ The *Fullstack Engineering Manager* role is a [grade 8](https://about.gitlab.com
 - Passionate about open source and developer tools
 
 ## Levels
+
 - Senior [Frontend](/job-families/engineering/development/frontend/senior/),
   [Backend](/job-families/engineering/development/backend/senior/),
   or [Fullstack](/job-families/engineering/development/fullstack/#job-grade) Engineer

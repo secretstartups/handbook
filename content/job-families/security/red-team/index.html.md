@@ -1,5 +1,4 @@
 ---
-layout: job_family_page
 title: "Red Team Roles"
 description: "GitLab's internal Red Team conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure."
 extra_js:
