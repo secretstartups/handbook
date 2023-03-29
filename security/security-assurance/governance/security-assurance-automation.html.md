@@ -31,7 +31,21 @@ This process allows all automation engineers across the Security Division to mai
 
 #### SLAs
 
-Security Assurance Automation Engineers will respond to new requests within **1 business day**.
+The Security Assurance team uses scoped labels to identify the priority and indicate the resolution time of automation requests.
+
+
+* Priority Label - Security Assurance Automation (SAA) followed by the associated priority number.
+* Color - The color of the label.
+* Description - Criteria the issue must fit to be assigned the label.
+* Provide Solution - The time it will take to update the issue and provide a solution to the automation request. 
+
+
+| Priority | Color | Description | Provide Solution |
+| -------- | ---------- | --------- | --- |
+| `~"SAA::1"` | Red | These issues have a direct, immediate impact on business continuity AND are critical for compliance engagements. These are “drop everything so the team can do work” types of requests.                 | 1 Business Day |
+| `~"SAA::2"` | Orange   | These issues have an effect on business continuity or are critical for compliance engagements. | 3 Business Days |
+| `~"SAA::3"` | Yellow | These issues are day to day automations that are not critical but greatly reduce time for manual tasks by the team. The bulk of automation issues will live here.                                  | 4 Business Days |
+| `~"SAA::4"` | Blue    | These issues are automation ideas that may not have a clear path forward or need additional resources to accomplish.                                          | 7 Business Days |
 
 ### Output
 
