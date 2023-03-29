@@ -6,7 +6,7 @@ title: Environmental & Social Governance (ESG)
 
 ### ESG Manager Job Grade
 
-The ESG Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The ESG Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## ESG Manager
 
