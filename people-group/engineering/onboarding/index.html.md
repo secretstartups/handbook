@@ -34,9 +34,8 @@ graph TD
   J[Day 7: Manager and Interview training issues are opened if people manager] --> L
   L[Day 15: Team member is pinged if they have open compliance task on their onboarding issue] --> F
   F[Day 60: Onboarding issue is closed if it wasn't closed already] --> N
-  N[Day 90: Values check] --> O{Probation?}
-  O -->|Yes| D[One month before contract end: send email]
-  O --> |No| B{Netherlands team member}
+  N -->|Yes| D[One month before contract end: send email]
+  N --> |No| B{Netherlands team member}
   B --> |Yes| G[Two month before: Send email]
 ```
 
@@ -286,18 +285,3 @@ if they have onboarding tasks remaining.
 
 Currently, the pipeline is scheduled to be run at 09:30 PM on every Friday. It
 will close all the onboarding issues created before 60 days from that date.
-
-## Values-check in Email
-
-This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/team_member_values_check_in.md
-) that is sent to our team members after 90 days of employment.
-
-> We also send their manager [this email](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/manager_values_check_in.md) as well to notify them of the values check in.
-
-Every day at 10 AM UTC we run a scheduled pipeline. This pipeline will fetch all the team members that are eligible to get this values check-in.
-For every eligible team member we send out two emails:
-
-- one to the team member
-- one to the team member's manager: this is determined by the manager for the team member on Workday
-
-The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: people-connect@gitlab.com` as nobody monitors replies to `peoplespecialists@domain`. The email address is strictly used for automation.
