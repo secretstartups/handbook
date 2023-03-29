@@ -292,7 +292,7 @@ Team members must pass the [income test](https://www.servicesaustralia.gov.au/me
 
 **Applying for Parental Leave in Australia**
 * To initiate your parental leave, please review this [checklist](https://docs.google.com/document/d/17Nxh0Hg3A44i1HmJp0vQj0jMMzFoIQxy/edit?usp=sharing&ouid=108582647308078356493&rtpof=true&sd=true) to ensure reporting timelines are met.  All written requests for Parental Leave can be sent to leaves@gitlab.com. 
-* After submitting your written request for Parental Leave, please enter the dates of your leave into PTY by Roots by selecting the `Parental Leave` label.
+* After submitting your written request for Parental Leave, please enter the dates of your leave into PTO by Deel by selecting the `Parental Leave` label.
 
 **Record-keeping for paid Parental Leave:**
 * In addition to the usual record-keeping requirements, employers that have team members getting government-funded Parental Leave Pay also have to keep the following records:
