@@ -9,12 +9,14 @@ extra_js:
 As members of GitLab's [Security Operations sub department](https://about.gitlab.com/handbook/security/security-operations/), the [Infrastructure Security](https://about.gitlab.com/handbook/security/) engineers own security initiatives related to security of GitLab.com. They are Infrastructure's stable counterparts in the Security department, and as such work with various Infrastructure and Security teams to identify and mitigate security issues, vulnerabilities, and misconfigurations by applying their in-depth knowledge of operating systems, infrastructure, and cloud providers. They work very closely with the Security Incident Response Team and share their findings in a proactive manner. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
 
 ## Responsibilities
+
 - Be a stable counterpart for the Infrastructure department
 - Ownership of efforts related to the securing of GitLab's SaaS infrastructure
 - Ownership of vulnerability management and patching policies
 - Play a key role in the security incident response process
 
 ## Requirements
+
 - Ability to use GitLab
 - Demonstrated experience in cloud security, systems security, or site-reliability engineering
 - Demonstrated experience with incident response
@@ -34,6 +36,7 @@ This position reports to the [Manager, Infrastructure Security](#manager-infrast
 The Infrastructure Security Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Infrastructure Security Engineer (Intermediate) Responsibilities
+
 - Be a stable counterpart for the Infrastructure department
 - Identify and help mitigate security issues, misconfigurations, and vulnerabilities related to GitLab’s cloud, container and Kubernetes infrastructure
 - Implement new, and update existing security measures for the protection of GitLab.com infrastructure
@@ -43,6 +46,7 @@ The Infrastructure Security Engineer is a [grade 6](https://about.gitlab.com/han
 - Participate in the Security Incident Response Team on-call rotation
 
 #### Infrastructure Security Engineer (Intermediate) Requirements
+
 - A minimum of 2 years experience working in site-reliability engineering, cloud security, or system engineering
 - A minimum of 1 year experience working with incident response
 - Good written and verbal communication skills
@@ -63,6 +67,7 @@ This position reports to the [Manager, Security Incident Response Team](#manager
 The Senior Infrastructure Security Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Infrastructure Security Engineer Responsibilities
+
 - Extends Infrastructure Security Engineer responsibilities, plus;
 - Ownership of vulnerability management and patching policies
 - Develop, evangelise, and monitor the adoption of sound cloud security practices
@@ -73,6 +78,7 @@ The Senior Infrastructure Security Engineer is a [grade 7](https://about.gitlab.
 - Ownership and management of preventative security measures and services related to GitLab.com, i.e. WAF, GCP’s Security Command Center
 
 #### Senior Infrastructure Security Engineer Requirements
+
 - A minimum of 5 years experience working in site-reliability engineering, cloud security, or system engineering
 - A minimum of 2 years experience working with incident response
 - Excellent written and verbal communication skills
@@ -90,6 +96,7 @@ This position reports to the [Manager, Security Incident Response Team](#manager
 The Staff Infrastructure Security Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Infrastructure Security Engineer Responsibilities
+
 - Extends Senior Infrastructure Security Engineer responsibilities, plus;
 - Identify inconsistencies in logs and work with Product to standardise them
 - Participate in the Security Incident Manager on-call rotation
@@ -98,6 +105,7 @@ The Staff Infrastructure Security Engineer is a [grade 8](https://about.gitlab.c
 - Ownership of Security Department's dedicated cloud environment
 
 #### Staff Infrastructure Security Engineer Requirements
+
 - A minimum of 7 years experience working in site-reliability engineering, cloud security, or system engineering
 - Profound knowledge of the Linux operating system and common OS hardening practices
 - Experience with secure network design, firewalls, authentication and authorization systems
@@ -111,6 +119,7 @@ This position reports to the [Senior Manager, Infrastructure Security](#senior-m
 The  Infrastructure Security Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Infrastructure Security Responsibilities
+
 - Hire a world class team of security engineers to work on their team
 - Help their team grow their skills and experience
 - Provide input on security architecture, issues, and features
@@ -125,6 +134,7 @@ The  Infrastructure Security Manager is a [grade 8](https://about.gitlab.com/han
 - Assume the role of an Incident Manager during larger security events
 
 #### Manager, Infrastructure Security Requirements
+
 - Proven track record as an experienced member of Security Operations or Incident Response teams - either as an Individual Contributor or as a Manager
 - Experience with leading Security or security-focused Site Reliability teams
 - Experience with working at a SaaS, or product company
@@ -147,6 +157,7 @@ This role reports to the [Director of Security Operations](/job-families/securit
 The Security Incident Response Team Senior Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Infrastructure Security Responsibilities
+
 - Extends Manager, Infrastructure Security responsibilities, plus;
 - Provide tactical oversight of the teams' daily efforts
 - Maintain vision for the teams' immediate and near-term future
@@ -159,6 +170,7 @@ The Security Incident Response Team Senior Manager is a [grade 9](https://about.
 - Being part of the Security Escalation On-Call rotation
 
 #### Senior Manager, Infrastructure Security Requirements
+
 - Experience with leading people managers
 - Experience with leading Security or security-focused Site Reliability teams
 - Experience with working at a SaaS, or product company
@@ -187,6 +199,7 @@ The Security Logging Team is a specialty extension of the Infrastructure Securit
 More information can be found here [Security Logging Team Job Family](/job-families/security/security-logging/)
 
 ## Performance Indicators
+
 - Support the organisation by [ensuring that the Security Engineer On-Call meets SLAs](https://about.gitlab.com/handbook/security/performance-indicators/#sirt-former-security-operations-page-volume).
 
 ### Career Ladder

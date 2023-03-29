@@ -14,6 +14,7 @@ For members of GitLab's [Security Assurance sub department](https://about.gitlab
 Security Compliance professionals at GitLab focus on operating our security compliance programs and are proficient in all things security compliance. They are comfortable operating within our transparent compliance programs and understand how compliance works with cloud-native technology stacks.
 
 ## Responsibilities
+
 - Professionally handle communications with internal and external stakeholders on compliance issues
 - Maintain up-to-date knowledge of GitLab's product, environment, systems and architecture
 - Educate control owners on compliance workflows and processes
@@ -21,6 +22,7 @@ Security Compliance professionals at GitLab focus on operating our security comp
 - Gather and report on established metrics within the security compliance programs
 
 ## Requirements
+
 - Ability to use GitLab
 - Prior experience working with a SaaS company preferred
 - Passion for transparent compliance programs
@@ -36,6 +38,7 @@ This position reports to the Security Compliance Manager role at GitLab.
 The {Security Compliance Engineer} is a [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Security Compliance Engineer (Intermediate) Responsibilities
+
 - Conduct security control test of design and test of operating effectiveness activities
 - Identify observations and manage remediation tasks through to closure while adhering to strict deadlines
 - Support internal and external auditors or advisors as needed
@@ -44,6 +47,7 @@ The {Security Compliance Engineer} is a [6](https://about.gitlab.com/handbook/to
 - Maintain security compliance automation tasks
 
 #### Security Compliance Engineer (Intermediate) Requirements
+
 - A minimum of 2 years' experience working with security compliance programs
 - Demonstrated experience with at least two security control frameworks (e.g. SOC 2, ISO, NIST, COSO, COBIT, etc.)
 - Working understanding of how compliance works with cloud-native technology stacks
@@ -57,6 +61,7 @@ This position reports to the Security Manager, Compliance role at GitLab.
 The {Senior Security Compliance Engineer} is a [7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Compliance Engineer Responsibilities
+
 - The responsibilities of a Security Compliance Engineer, plus;
 - Execute end to end compliance initiatives in accordance with the compliance roadmap
 - Design high-quality test plans and direct security control test activities
@@ -70,6 +75,7 @@ The {Senior Security Compliance Engineer} is a [7](https://about.gitlab.com/hand
 - Recommend new security compliance metrics and automate reporting of existing metrics
 
 #### Senior Security Compliance Engineer Requirements
+
 - A minimum of 5 years' experience defining and shaping compliance programs
 - Demonstrated experience with at least four security control frameworks (e.g. SOC 2, ISO, NIST, COSO, COBIT, etc.)
 - Detailed understanding of how compliance works with cloud-native technology stacks
@@ -83,6 +89,7 @@ This position reports to the Security Manager, Compliance role at GitLab.
 The {Staff Security Compliance Engineer} is a [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Compliance Engineer Responsibilities
+
 - The responsibilities of a Senior Security Compliance Engineer, plus;
 - Maintain expert knowledge of GitLab's product, environment, systems and architecture while mentoring others on this knowledge and helping to shape designs for the sake of security compliance efficiencies
 - Participate in the development and continuous improvement of security compliance metrics
@@ -99,6 +106,7 @@ The {Staff Security Compliance Engineer} is a [8](https://about.gitlab.com/handb
 - Successfully execute on quarterly KRs associated with OKRs
 
 #### Staff Security Compliance Engineer Requirements
+
 - A minimum of 10 years' experience defining and shaping compliance programs with a minimum of 3 years' experience building new compliance programs
 - Proven experience building, maintaining and improving compliance programs from the ground-up
 - Proven experience with successful first-time external certification and attestation audits
@@ -114,6 +122,7 @@ This position reports to the Senior Manager, Security Compliance role at GitLab.
 The {Principal Security Compliance Engineer} is a [9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Security Compliance Engineer Responsibilities
+
 - The responsibilities of a Staff Security Compliance Engineer, plus;
 - Collaborates and makes proposals across several departments on their security compliance work, and helps their team members make informed decisions in alignment with security assurance strategic plans
 - Exposes technology and organizational needs throughout security assurance and proposes technical implementation plans
@@ -131,6 +140,7 @@ The {Principal Security Compliance Engineer} is a [9](https://about.gitlab.com/h
 - Demonstrated achievements that make GitLab's security compliance program an industry leader
 
 #### Principal Security Compliance Engineer Requirements
+
 - A minimum of 15 years' experience defining and shaping compliance programs with a minimum of 5 years' experience building new compliance programs
 - Industry recognized expert at building, maintaining and improving compliance programs from the ground-up
 - Direct experience of successful first-time external certification and attestation audits at GitLab
@@ -146,6 +156,7 @@ This position reports to the Director, Security Assurance.
 The {Manager, Security Compliance} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Security Compliance Responsibilities
+
 - Hire and oversee a world class team of security compliance engineers and Engineers
 - Hold regular 1:1s with team members
 - Maintain a robust common control framework and continuous monitoring program aligned with GitLab's certification roadmap
@@ -158,6 +169,7 @@ The {Manager, Security Compliance} is a [grade 8](https://about.gitlab.com/handb
 - Successfully execute on quarterly OKR(s)
 
 #### Manager, Security Compliance Requirements
+
 - At least 3 years prior experience managing security compliance teams
 - Detailed knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001/2, ISO 27017, ISO 27018, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
 - Detailed knowledge of audit methodologies and standard deliverables
@@ -171,6 +183,7 @@ This position reports to the Director, Security Assurance.
 The {Senior Manager, Security Compliance} is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Security Compliance Responsibilities
+
 - The same responsibilities of a Security Compliance Manager, plus the below:
 - Hold regular 1:1s with team managers and skip-level 1:1s with all members of their team
 - Plan and execute long term strategies that benefit your team and align with strategic objectives
@@ -182,6 +195,7 @@ The {Senior Manager, Security Compliance} is a [grade 9](https://about.gitlab.co
 - Draft and successfully execute on multiple quarterly OKRs
 
 #### Senior Manager, Security Compliance Requirements
+
 - At least 6 years prior experience managing security compliance teams
 - Expert knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
 - Expert knowledge of audit methodologies and standard deliverables
@@ -216,7 +230,6 @@ For level: Manager, Security Compliance
 - Detailed knowledge of regulated information security management frameworks, regulatory requirements and applicable standards such as: NIST 800-53/FedRAMP, NIST 800-171/CMMC, DoD IL, STIGs, FIPS 140-2, HITRUST, GxP, ISO 9001, SOC 1 and SOC 2
 - Detailed knowledge of audit methodologies and standard deliverables
 
-
 ## Segment
 
 ### Security Leadership
@@ -224,6 +237,7 @@ For level: Manager, Security Compliance
 For details on the Security organization leadership roles, to include the Security Assurance Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
+
 - [Security Control Health](https://about.gitlab.com/handbook/security/performance-indicators/#security-control-health)
 
 ## Career Ladder

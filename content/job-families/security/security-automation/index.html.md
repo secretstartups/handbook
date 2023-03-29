@@ -8,6 +8,7 @@ extra_js:
 For members of GitLab's [Security Automation sub department](https://about.gitlab.com/handbook/security/security-engineering/automation/), it is the goal of [Security Engineering](https://about.gitlab.com/handbook/security/security-engineering/) through leveraging of diverse technologies and an automation first approach, to strive towards improving the efficiency, effectiveness, and accuracy within GitLab's Information Security program with a focus on cost savings. Examples include the creation of automated security issue triage and management solutions, automating handling of repetitive tasks, and defining re-usable security automation architectures. Additionally, the Security Automation team assist other security specialty teams with automation efforts they are leading and developing through the assessment of automation tools, and integration tools and technologies to support automation efforts as needed.
 
 ## Responsibilities
+
 - Design, engineer, deploy, and maintain custom automation products
 - Build security tooling and automation for internal use that enable the Security Department to operate at high speed and wide scale
 - Define and own metrics and key performance indicators to determine the effectiveness of the Security Automation program
@@ -17,6 +18,7 @@ For members of GitLab's [Security Automation sub department](https://about.gitla
 - Produce quality automation code
 
 ## Requirements
+
 - Ability to use GitLab
 - You are a team player, and enjoy collaborating with cross-functional teams
 - You employ a flexible and constructive approach when solving problems
@@ -204,6 +206,7 @@ The {Security Automation Senior Manager} is a [grade 9](https://about.gitlab.com
 For details on the Security organization leadership roles, to include the Security Engineering Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
+
 - [Mean-Time-To-Mitigation (MTTM) for severity::1-severity::2-severity::3 security vulnerabilities](https://about.gitlab.com/handbook/security/performance-indicators/#mttm-mean-time-to-mitigation-for-severity1-severity2-severity3-security-vulnerabilities)
 
 ## Career Ladder

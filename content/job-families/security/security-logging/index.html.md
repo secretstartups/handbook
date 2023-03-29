@@ -37,7 +37,7 @@ They work very closely with the Security Incident Response Team [[SIRT](https://
 
 ### Infrastructure Security Engineer (Intermediate)
 
-This position reports to the [Manager, Infrastructure Security](#manager-infrastructure-security).
+This position reports to the [Manager, Infrastructure Security](/job-families/security/infrastructure-security/#manager-infrastructure-security).
 
 #### Infrastructure Security Engineer (Intermediate) Job Grade
 
@@ -53,7 +53,7 @@ The Infrastructure Security Engineer is a [grade 6](https://about.gitlab.com/han
 
 ### Senior Infrastructure Security Engineer
 
-This position reports to the [Manager, Infrastructure Security](#manager-infrastructure-security).
+This position reports to the [Manager, Infrastructure Security](/job-families/security/infrastructure-security/#manager-infrastructure-security).
 
 #### Senior Infrastructure Security Engineer Job Grade
 
@@ -84,7 +84,7 @@ The Senior Infrastructure Security Engineer is a [grade 7](https://about.gitlab.
 
 ### Staff Infrastructure Security Engineer
 
-This position reports to the [Manager, Infrastructure Security](#manager-infrastructure-security).
+This position reports to the [Manager, Infrastructure Security](/job-families/security/infrastructure-security/#manager-infrastructure-security).
 
 #### Staff Infrastructure Security Engineer Job Grade
 
@@ -92,7 +92,7 @@ The Staff Infrastructure Security Engineer is a [grade 8](https://about.gitlab.c
 
 #### Staff Infrastructure Security Engineer Responsibilities
 
-- Includes senior responsibilities listed [here](#senior-security-logging-engineer-responsibilities)
+- Includes senior responsibilities listed [here](#senior-infrastructure-security-engineer-responsibilities)
 - Lead the design, evaluation, implementation and deployment of new security technologies
 - Identify new, and ensure availability of existing GitLab.com data sources and logs that are being used by various GitLab Security teams
 - Have significant ownership in and evangelize security training with development teams
@@ -102,7 +102,7 @@ The Staff Infrastructure Security Engineer is a [grade 8](https://about.gitlab.c
 
 #### Staff Infrastructure Security Engineer Requirements
 
-- Includes senior responsibilities listed [here](#senior-security-logging-engineer-requirements)
+- Includes senior responsibilities listed [here](#senior-infrastructure-security-engineer-requirements)
 - Solid experience using and administrating analysis platforms such as Splunk, ELK, BigQuery, etc...
 - Experience with secure network design, firewalls, authentication and authorization systems
 - Deep technical knowledge of systems in a multi-tenant, cloud environment

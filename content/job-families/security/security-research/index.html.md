@@ -9,6 +9,7 @@ extra_js:
 Security research engineers are subject matter experts (SME) that conduct research in their personal area of expertise to protect GitLab the product and GitLab company assets. They are also expected to participate in the larger security community through blog posts and participation in industry conferences.
 
 ## Responsibilities
+
 - Conduct research in their area of expertise to protect GitLab and GitLab.com assets.
 - Research security posture of FOSS tools that are integrated with GitLab.
 - Report findings to tool developers and track mitigation process, following [responsible disclosure guidelines](https://about.gitlab.com/security/disclosure/#disclosure-guidelines-for-vulnerabilities-in-3rd-party-software).
@@ -19,6 +20,7 @@ Security research engineers are subject matter experts (SME) that conduct resear
 - Support other GitLab initiatives as a SME.
 
 ## Requirements
+
 - Ability to use GitLab
 - Expected experience of 5+ years working in a security engineer role (Application Security, Security Operations, Security Development), with 2+ years of those dedicated to research-related work, or equivalent education.
 - Have a keen eye for identifying complex security problems in software and/or infrastructure, and defining their solutions.
@@ -37,6 +39,7 @@ This position reports to the [Security Manager, Security Research](#security-man
 The role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Research Engineer Responsibilities
+
 - Leverages security expertise in at least one specialty area
 - Conducts focused security research and makes recommendations
 - Triages and handles/escalates security issues independently
@@ -45,6 +48,7 @@ The role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensa
 - Participate in candidate interviews during hiring process
 
 #### Senior Security Research Engineer Requirements
+
 - Includes all [requirements listed above](#requirements).
 
 ### Staff Security Research Engineer
@@ -56,6 +60,7 @@ This position reports to the [Security Manager, Security Research](#security-man
 The role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Research Engineer Responsibilities
+
 - Conduct security research in 2+ specialty areas.
 - Participate in defining GitLab security requirements in area(s) of expertise.
 - Define and implement security technical and process improvements.
@@ -65,6 +70,7 @@ The role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensa
 - Participate in candidate interviews during hiring process
 
 #### Staff Security Research Engineer Requirements
+
 - Includes all Senior level requirements listed.
 - Be a subject matter expert (SME) of at least 2 technical areas impacting the security of the product.
 - Passion for participation in the security community, demonstrated through published research and community involvement.
@@ -79,6 +85,7 @@ This position reports to the [Senior Security Manager, Security Research](#senio
 The role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Security Research Engineer Responsibilities
+
 - Conduct and lead security research projects across multiple functional areas.
 - Solve technical problems of the highest scope, complexity, and ambiguity.
 - Assist in developing team and sub-department roadmap.
@@ -91,6 +98,7 @@ The role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensa
 - Participate in candidate interviews during hiring process.
 
 #### Principal Security Research Engineer Requirements
+
 - Includes all Staff level requirements listed.
 - Demonstrated deep technical expertise in multiple security areas.
 - Demonstrated ability to enact change cross-functionally through efficiency, inclusion, and iteration.
@@ -107,6 +115,7 @@ This position reports to the [Threat Management Director](/job-families/security
 The role is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Distinguished Security Research Engineer Responsibilities
+
 - Includes all [Principal level responsibilities listed](#principal-security-research-engineer-responsibilities).
 - Conduct security research across multiple functional areas within the Engineering department.
 - Take lead role in decision making for GitLab security requirements in area(s) of expertise.
@@ -118,6 +127,7 @@ The role is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compens
 - Work in a leveraged manner influencing other organizations and teams across GitLab with security research approaches and a focus on problem solving.
 
 #### Distinguished Security Research Engineer Requirements
+
 - Includes all [Principal level requirements listed](#principal-security-research-engineer-requirements).
 - Expected 10+ years previous experience on a Security team, including Security Research, and 4+ years in lead position, or relevant education.
 - Creative thinker and problem solver, able to distill complex problems down to actionable items with boring solutions.
@@ -195,6 +205,7 @@ The {Security Research Senior Manager} is a [grade 9](https://about.gitlab.com/h
 For details on the Security organization leadership roles, to include the Security Engineering Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
+
 - To Be Defined (TBD)
 
 ## Career Ladder

@@ -41,12 +41,14 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 The Security Analyst, Trust and Safety is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Security Analyst, Trust and Safety (Intermediate) Responsibilities
+
 - Process abuse reports and DMCA notices relating to GitLab.com
 - Contribute to the creation of documentation, runbooks and workflows
 - Mitigate detected abusive activity on GitLab.com and it's related products and services
 - Manage internal requests from other teams inside and outside the Security Department
 
 #### Security Analyst, Trust and Safety (Intermediate) Requirements
+
 - A minimum of 2 years experience working in either a Security, Data, or Trust and Safety (anti-abuse) Analyst type role
 - Good written and verbal communication skills
 - Basic experience using log analysis platforms such as ELK, bigquery, etc
@@ -61,6 +63,7 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 The Security Analyst, Trust and Safety is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Analyst, Trust and Safety Responsibilities
+
 - Extends Security Analyst, Trust and Safety responsibilities, plus;
 - Handle escalated Trust and Safety issues independently
 - The creation of runbooks, processes and workflows
@@ -69,6 +72,7 @@ The Security Analyst, Trust and Safety is a [grade 7](https://about.gitlab.com/h
 - Assist with recruiting activities and administrative work
 
 #### Senior Security Analyst, Trust and Safety Requirements
+
 - 3+ years of demonstrated experience in anti-abuse processes and workflows, including some experience with incident response
 - Excellent written and verbal communication skills
 - Capability to build working relationships with key stakeholders
@@ -83,6 +87,7 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 The Security Analyst, Trust and Safety is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Analyst, Trust and Safety Responsibilities
+
 - Extends Senior Security Analyst, Trust and Safety responsibilities, plus;
 - SME on anti-abuse methodologies, mentoring and training other members of the Trust and Safety Team
 - Lead the design, evaluation and implementation new Trust and Safety workflows to improve the operational efficiency of the Trust and Safety Team
@@ -90,6 +95,7 @@ The Security Analyst, Trust and Safety is a [grade 8](https://about.gitlab.com/h
 - Contribute towards the creation of a cross-functional team with the goal of limiting the impact of abusive activity on GitLab.com
 
 #### Staff Security Analyst, Trust and Safety Requirements
+
 - 6 years of demonstrated experience in security or anti-abuse processes and workflows, including experience with incident response
 - Profound knowledge of anti-abuse methodologies
 - Demonstrable experience using log analysis platforms such as ELK, bigquery, etc
@@ -127,6 +133,7 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 The Security Engineer, Trust and Safety is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Security Engineer, Trust and Safety (Intermediate) Responsibilities
+
 - Respond to incidents of abusive activity originating from GitLab.com
 - Utilize log ingestion platforms for analyzing and identifying the tactics, techniques and patterns of abusive users
 - Contribute to the creation of documentation and runbooks
@@ -150,6 +157,7 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 The Senior Security Engineer, Trust and Safety is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Engineer, Trust and Safety Responsibilities
+
 - Extends Security Engineer, Trust and Safety responsibilities, plus;
 - Leverages Trust and Safety (anti-abuse) expertise in at least one specialty area
 - Triage and handle escalated issues independently
@@ -157,6 +165,7 @@ The Senior Security Engineer, Trust and Safety is a [grade 7](https://about.gitl
 - Interview security candidates during the hiring process
 
 #### Senior Security Engineer, Trust and Safety Requirements
+
 - 5+ years of demonstrated experience in Software Engineering with some experience in web or cloud security or abuse detection
 - A minimum of 2 years experience working with incident response
 - Excellent written and verbal communication skills
@@ -172,6 +181,7 @@ This position reports to the [Manager, Trust and Safety](#manager-trust-and-safe
 The Staff Security Engineer, Trust and Safety is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Engineer, Trust and Safety Responsibilities
+
 - Extends Senior Security Engineer, Trust and Safety responsibilities, plus;
 - SME on abuse detection and mitigation, mentoring and training other members of the Trust and Safety Team
 - Lead the design, evaluation, implementation and deployment of new abuse detection and mitigation technologies
@@ -179,6 +189,7 @@ The Staff Security Engineer, Trust and Safety is a [grade 8](https://about.gitla
 - Lead efforts to design and collect metrics and behavioral data related to abusive activity on GitLab.com in order to improve the efficiency and effectiveness of the Trust and Safety Team
 
 #### Staff Security Engineer, Trust and Safety Requirements
+
 - 10 years of demonstrated experience in Software Engineering with some experience in web or cloud security or abuse detection
 - Profound knowledge of attack and mitigation methods
 - Experience with application development and architecture
@@ -198,6 +209,7 @@ The Manager, Trust and Safety reports to the [Senior Manager, Trust and Safety](
 The Trust and Safety Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Trust and Safety Responsibilities
+
 - Hire a world class team of security engineers to work on their team
 - Help their team grow their skills and experience
 - Provide input on security architecture, issues, and features
@@ -212,6 +224,7 @@ The Trust and Safety Manager is a [grade 8](https://about.gitlab.com/handbook/to
 - Build a substantial, collaborative partnership with Legal, Infrastructure, Support and Product teams
 
 #### Manager, Trust and Safety Requirements
+
 - Experience with leading abuse operations teams
 - Experience with working at a SaaS, or product company
 - Being comfortable with often not being in control of their time (because abusive activity doesn't respect any schedules)
@@ -232,6 +245,7 @@ The Senior Manager, Trust and Safety reports to the [Director of Security Operat
 The Senior Manager, Trust and Safety is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Trust and Safety Responsibilities
+
 - Extends Manager, Trust and Safety responsibilities, plus;
 - Provide tactical oversight of the teams' daily efforts
 - Maintain vision for the teams' immediate and near-term future
@@ -245,6 +259,7 @@ The Senior Manager, Trust and Safety is a [grade 9](https://about.gitlab.com/han
 - Take part in the Security Escalation On-Call rotation
 
 #### Senior Manager, Trust and Safety Requirements
+
 - Experience with leading people managers
 - Experience with leading security or abuse operations teams
 - Experience with working at a SaaS, or product company
@@ -257,6 +272,7 @@ The Senior Manager, Trust and Safety is a [grade 9](https://about.gitlab.com/han
 - Familiarity with major cloud providers - GCP, AWS, Azure, Digital Ocean
 
 ## Performance Indicators
+
 - Improve the health of GitLab.com, and drive down cost by [mitigating abusive activity](https://about.gitlab.com/handbook/security/performance-indicators/#cost-of-abuse).
 
 ### Career Ladder

@@ -14,12 +14,14 @@ As members of GitLab's [Security Assurance sub department](https://about.gitlab.
 Security Governance professionals at GitLab focus on oversight of our security assurance programs and are proficient in all things regulatory. They have a tight partnership with the externally facing Field Security team, are comfortable operating within our transparent assurance programs and understand how security works with cloud-native technology stacks.
 
 ## Responsibilities
+
 - Professionally handle communications with internal and external stakeholders
 - Maintain up-to-date knowledge of GitLab's product, environment, systems and architecture
 - Educate internal stakeholders on GitLab's Security practices through formal and informational trainings, handbook improvements and security awareness campaigns
 - Gather and report on established metrics within the Security Assurance programs
 
 ## Requirements
+
 - Ability to use GitLab
 - Prior experience working with a SaaS company preferred
 - Experience with at least two security control frameworks (e.g. SOC 2, ISO, NIST, COSO, COBIT, etc.)
@@ -36,6 +38,7 @@ This position reports to the Manager, Governance and Field Security
 The {Security Governance Engineer} is a [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Security Governance Engineer (Intermediate) Responsibilities
+
 - Support the maintenance of the GitLab Control Framework (GCF) to ensure controls align with security strategy, support business objectives, and are consistent with applicable laws and regulations
 - Support the oversight of handbook pages, policies, standards, procedures and runbooks related to Security Governance
 - Participate in Security Assurance technology administration activities
@@ -46,6 +49,7 @@ The {Security Governance Engineer} is a [6](https://about.gitlab.com/handbook/to
 - Maintain governance automation tasks
 
 #### Security Governance Engineer (Intermediate) Requirements
+
 - A minimum of 2 years' experience working with Security Governance and technical writing programs
 - Demonstrated experience with at least two security control frameworks (e.g. SOC 2, ISO, NIST, COSO, COBIT, etc.)
 - Working understanding of security and governance with cloud-native technology stacks
@@ -59,6 +63,7 @@ This position reports to the Manager, Governance and Field Security
 The {Senior Security Governance Engineer} is a [7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Governance Engineer Responsibilities
+
 - The responsibilities of a Security Governance Engineer, plus;
 - Maintain the GitLab Control Framework (GCF) to ensure controls align with security strategy, support business objectives, and are consistent with applicable laws and regulations
 - Publish and maintain handbook pages, policies, standards, procedures and runbooks related to Security Governance
@@ -69,11 +74,12 @@ The {Senior Security Governance Engineer} is a [7](https://about.gitlab.com/hand
 - Mature security training and awareness programs
 
 #### Senior Security Governance Engineer Requirements
+
 - A minimum of 5 years' experience defining and shaping Security Governance and technical writing programs
 - Demonstrated experience with at least four security control frameworks (e.g. SOC 2, ISO, NIST, COSO, COBIT, etc.)
 - Detailed understanding of security and governance with cloud-native technology stacks
 
-### Manager, Governance and Field Security  
+### Manager, Governance and Field Security
 
 This position reports to the Director, Security Assurance.
 
@@ -82,6 +88,7 @@ This position reports to the Director, Security Assurance.
 The {Manager, Governance and Field Security} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Governance and Field Security Responsibilities
+
 - Hire and oversee a world class team of Security Governance and Field Security Engineers
 - Hold regular 1:1s with team members
 - Build a strong, collaborative partnership with Security, Training, Legal, Infrastructure, Sales and Product teams
@@ -94,6 +101,7 @@ The {Manager, Governance and Field Security} is a [grade 8](https://about.gitlab
 - Successfully execute on quarterly OKR(s)
 
 #### Manager, Governance and Field Security Requirements
+
 - At least 3 years prior experience managing information security and customer facing teams
 - Exceptional communication skills, including verbal, written, and presentation skills to a variety of stakeholders
 - Detailed knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
@@ -107,6 +115,7 @@ This position reports to the Director, Security Assurance.
 The {Senior Manager, Governance and Field Security} is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Governance and Field Security Responsibilities
+
 - The same responsibilities of a Security Governance Manager, plus the below:
 - Hold regular 1:1s with team managers and skip-level 1:1s with all members of their team
 - Plan and execute long term strategies that benefit your team and align with strategic objectives
@@ -119,6 +128,7 @@ The {Senior Manager, Governance and Field Security} is a [grade 9](https://about
 - Draft and successfully execute on multiple quarterly OKRs
 
 #### Senior Manager, Governance and Field Security Requirements
+
 - At least 6 years prior experience managing information security and customer facing teams
 - Outstanding communication skills, including verbal, written, and presentation skills to a variety of stakeholders
 - Expert knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
@@ -130,11 +140,13 @@ The {Senior Manager, Governance and Field Security} is a [grade 9](https://about
 This role is interconnected with GitLab's [Security Automation team](https://about.gitlab.com/job-families/security/security-engineer/#security-automation), this specialty is explicitly focused on the development and automation of Security Assurance processes and controls.
 
 #### Security Automation - Security Assurance Operations Requirements
+
 - Previous experience on or supporting Security Governance, Risk, Compliance or Field Security teams.
 - Scripting/coding experience with one or more languages - Python, Ruby, and/or Golang experience a plus
 - Experience operating with GRC applications (ex: ZenGRC, ServiceNow, AuditBoard)
 
 #### Security Automation - Security Assurance Operations Responsibilities
+
 - Collaborate with Security Assurance stakeholders on their automation roadmap, understand their operational processes and assist with developing technical solutions to scale critical business operations
 - Design, engineer, deploy, and maintain custom automation products
 - Participate in end-to-end activities related to implementation planning including assessments, integrations, enhancements, and maintenance with various systems
@@ -153,6 +165,7 @@ This role is interconnected with GitLab's [Security Automation team](https://abo
 For details on the Security organization leadership roles, to include the Security Assurance Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
+
 - [Security Control Health](https://about.gitlab.com/handbook/security/performance-indicators/#security-control-health)
 
 ## Career Ladder

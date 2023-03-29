@@ -15,6 +15,7 @@ GitLab's environment is very different than traditional organizations, and attac
 Our Red Team works **together** with our Blue Team. Even when planning attacks, we are collaborating to make these attacks more difficult to succeed. Our ultimate goal is never to successfully attack a system, but instead to help ensure our organization is prepared when that attack becomes a reality.
 
 ## Responsibilities
+
 - Maintain a deep understanding of GitLab's product offerings, how they work, and how they could be attacked or abused
 - Propose, plan, and execute [Red Team operations](https://about.gitlab.com/handbook/security/threat-management/red-team/#red-team-operations) based on realistic threats to the organization
 - Automate attack techniques, creating custom tooling for specific operations and contributing to general-purpose open source tools
@@ -26,6 +27,7 @@ Our Red Team works **together** with our Blue Team. Even when planning attacks, 
 - Stay informed on current security trends, advisories, publications, and academic research that is relevant our organization
 
 ## Requirements
+
 - Ability to use GitLab
 - Understanding of the MITRE ATT&CK framework
 - Ability to automate tasks by writing basic scripts/programs - we often use Python and Go
@@ -51,9 +53,11 @@ This position reports to the [Manager, Red Team](#manager-red-team).
 The Red Team Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Red Team Engineer (Intermediate) Responsibilities
+
 - Includes [base-level responsibilities](#responsibilities).
 
 #### Red Team Engineer (Intermediate) Requirements
+
 - Includes [base-level requirements](#requirements).
 
 ### Senior Red Team Engineer
@@ -65,6 +69,7 @@ This position reports to the [Manager, Red Team](#manager-red-team).
 The Senior Red Team Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Red Team Engineer Responsibilities
+
 - Includes [base-level responsibilities](#responsibilities).
 - Lead both solo and group Red Team Operations
 - Submit talk abstracts to top tier Information Security conferences
@@ -74,6 +79,7 @@ The Senior Red Team Engineer is a [grade 7](https://about.gitlab.com/handbook/to
 - Participate in candidate interviews during the hiring process
 
 #### Senior Red Team Engineer Requirements
+
 - Includes [base-level requirements](#requirements).
 - Intermediate knowledge of exploit techniques, and common TTPs
 - Intermediate knowledge of one or more programming or scripting languages
@@ -87,6 +93,7 @@ This position reports to the [Manager, Red Team](#manager-red-team).
 The Staff Red Team Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Red Team Engineer Responsibilities
+
 - Includes [Senior-level responsibilities](#senior-red-team-engineer-responsibilities)
 - Identify new Red Team open source project opportunities and internal tooling needs
 - Identify areas of Red Team process improvement
@@ -95,6 +102,7 @@ The Staff Red Team Engineer is a [grade 8](https://about.gitlab.com/handbook/tot
 - Show thought leadership both internally at GitLab and externally with the general community
 
 #### Staff Red Team Engineer Requirements
+
 - Includes [Senior-level requirements](#senior-red-team-engineer-requirements)
 - Profound knowledge of exploit techniques, and common TTPs
 - Senior knowledge of one or more programming or scripting languages
@@ -109,6 +117,7 @@ This position reports to the [Senior Manager, Threat Management](/job-families/s
 The Principal Red Team Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Red Team Engineer Responsibilities
+
 - Includes [Staff-level responsibilities](#staff-red-team-engineer-responsibilities)
 - Solve technical problems of the highest scope, complexity, and ambiguity
 - Guide conversations to remove blockers and encourage collaboration across teams
@@ -120,6 +129,7 @@ The Principal Red Team Engineer is a [grade 9](https://about.gitlab.com/handbook
 - Regularly communicate with the wider GitLab community, via blogs, public speaking, or other methods
 
 #### Principal Red Team Engineer Requirements
+
 - Includes [Staff-level requirements](#staff-red-team-engineer-requirements)
 - Expert knowledge of one or more programming languages including architectural design, tooling, and cloud infrastructure usage
 - Extensive knowledge of offensive cloud security and common vulnerabilities
@@ -135,6 +145,7 @@ This position reports to the [Senior Manager, Red Team](#senior-manager-red-team
 The Red Team Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Red Team Responsibilities
+
 - Hire a world class team of security engineers to work on their team
 - Help their team grow their skills and experience
 - Provide input on security architecture, issues, and features
@@ -150,6 +161,7 @@ The Red Team Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewa
 - Draft and present findings from Red Team operations to relevant stakeholders and business owners
 
 #### Manager, Red Team Requirements
+
 - Proven track record as a member of offensive security, security research, or similar teams
 - Experience with leading security teams
 - Experience with working at a SaaS, or product company
@@ -171,6 +183,7 @@ This role extends the Security Incident Response Team Manager role by adding vis
 The Security Incident Response Team Senior Manager is a [9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Red Team Responsibilities
+
 - Extends Manager, Red Team responsibilities, plus;
 - Provide tactical oversight of the teams' daily efforts
 - Maintain vision for the teams' immediate and near-term future
@@ -184,6 +197,7 @@ The Security Incident Response Team Senior Manager is a [9](https://about.gitlab
 - Take part in the Security Escalation On-Call rotation
 
 #### Senior Manager, Red Team Requirements
+
 - Experience with leading people managers
 - Experience with leading Security or security-focused Site Reliability teams
 - Experience with working at a SaaS, or product company
@@ -198,6 +212,7 @@ The Security Incident Response Team Senior Manager is a [9](https://about.gitlab
 - Alignment with Manager responsibilities as outlined in [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 
 ## Performance Indicators
+
 - Improve the security posture of the organisation by [executing operations that mimic real-world adversaries](https://about.gitlab.com/handbook/security/performance-indicators/).
 
 ### Career Ladder

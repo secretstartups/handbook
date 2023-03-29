@@ -19,6 +19,7 @@ Leaders in the security department at GitLab see the team as their product. Whil
 - Managing Vision and Purpose - Communicates a compelling and inspired vision or sense of core purpose; talks beyond today; talks about possibilities; is optimistic; creates mileposts and symbols to rally support behind the vision; makes the vision shareable by everyone; can inspire and motivate entire units or organizations.
 
 ## Responsibilities
+
 - Own a Sub-department of the GitLab Security Department
 - Run multiple teams within their Sub-department.
 - Hire a world class team of managers and security engineers to work on their teams
@@ -33,6 +34,7 @@ Leaders in the security department at GitLab see the team as their product. Whil
 - Represent the company publicly at conferences
 
 ## Requirements
+
 - Ability to use GitLab
 - Exceptional communication skills, including verbal, written, and presentation skills, to a variety of stakeholders
 - You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
@@ -91,6 +93,7 @@ This position reports to the VP of Security.
 The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Security Assurance Responsibilities
+
 - Recruit, manage, motivate and develop high performing teams
 - Partner with the VP of Security in planning and development of enterprise information security strategy and best practices
 - Drive strategy for the Security Assurance organization, aligned with broader GitLab business initiatives, with a specific focus on expansion of the security certification portfolio
@@ -101,6 +104,7 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 - Act as an advocate for information security practices
 
 #### Director, Security Assurance Requirements
+
 - Proven ability to successfully recruit, manage, motivate and develop high performing teams
 - Relevant, progressive experience managing information security teams
 - Proficient experience with industry standard security and risk frameworks/standards/laws/regulations: NIST 800-53, NIST CSF, HITRUST, PCI, FedRAMP, ISO27002, ISO 31000, etc.
@@ -126,6 +130,7 @@ This position reports to the VP of Security.
 The Director, Application Security is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Security Engineering Responsibilities
+
 - Recruit, manage, motivate and develop high performing teams
 - Partner with the VP of Security in planning and development of enterprise information security strategy and best practices
 - Drive strategy for the Security Engineering organization, aligned with broader GitLab business initiatives, with a specific focus on application security, security research, security automation, and external security communications.
@@ -138,6 +143,7 @@ The Director, Application Security is a [grade 10](https://about.gitlab.com/hand
 - Act as an advocate for information security practices
 
 #### Director, Security Engineering Requirements
+
 - Proven ability to successfully recruit, manage, motivate and develop high performing teams
 - Relevant, progressive experience managing information security teams
 - Proficient experience with security technologies and engineering domains such as application security, cloud security, infrastructure security, containerized application architectures, and security automation
@@ -250,6 +256,7 @@ This position reports to the Chief Technology Officer (CTO).
 The VP of Security is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP of Security Responsibilities
+
 - Set the vision of the Gitlab Security Department with a clear roadmap
 - Build and maintain a rapidly growing team with top-tier talent
 - Run the most transparent security organization in the world
@@ -266,7 +273,8 @@ The VP of Security is a [grade 12](https://about.gitlab.com/handbook/total-rewar
 
 GitLab’s VP of Security must have all of the following attributes.
 
-Must-haves:
+##### Must-haves
+
 - Relevant, progressive experience managing information security teams
 - Excellent written and verbal communication skills
 - Be able to quickly hire top-quality team members and managers
@@ -276,8 +284,10 @@ Must-haves:
 - Possess domain knowledge of common information security management frameworks and regulatory requirements and applicable standards such as ISO 27001, SOC 2, HIPAA, GDPR, PCI, Sarbox, etc.
 - Excellent project and program management skills and techniques
 
-Nice-to-haves
+##### Nice-to-haves
+
 Great candidates will have some meaningful proportion of the following.
+
 - Working knowledge of the GitLab application
 - Relevant Bachelor's degree
 - Prior fast-growing startup experience
@@ -305,6 +315,7 @@ Additional details about our process can be found on our [hiring page](https://a
 For more details on the engineering career ladders, please review the [engineering career development](https://about.gitlab.com/handbook/engineering/career-development/#roles) handbook page.
 
 ## Performance Indicators
+
 - [Security Impact on IACV](https://about.gitlab.com/handbook/security/performance-indicators/#security-impact-on-iacv)
 - [Security Control Health](https://about.gitlab.com/handbook/security/performance-indicators/#security-control-health)
 - [MTTM (Mean-Time-To-Mitigation) for severity::1-severity::2-severity::3 security vulnerabilities](https://about.gitlab.com/handbook/security/performance-indicators/#mttm-mean-time-to-mitigation-for-severity1-severity2-severity3-security-vulnerabilities)

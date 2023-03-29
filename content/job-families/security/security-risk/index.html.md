@@ -8,6 +8,7 @@ extra_js:
 As members of GitLab's [Security Assurance sub department](https://about.gitlab.com/handbook/security/security-assurance/), the Security Risk team identifies, tracks, monitors and advises on security risks both operatioinally and for third party vendors. The team is responsible for implementaion of proactive security risk management programs.
 
 ## Responsibilities
+
 - Professionally handle communications with internal and external stakeholders
 - Maintain up-to-date knowledge of GitLab's product, environment, systems and architecture
 - Identify, review, analyze and manage operational security risks accross business units
@@ -15,6 +16,7 @@ As members of GitLab's [Security Assurance sub department](https://about.gitlab.
 - Gather and report on established metrics within the operational security risk programs
 
 ## Requirements
+
 - Capability to use GitLab
 - Exemplary written and verbal communication and presentation skills
 - Prior experience working with a SaaS company preferred
@@ -23,13 +25,14 @@ As members of GitLab's [Security Assurance sub department](https://about.gitlab.
 
 ### Security Risk Engineer (Intermediate)
 
-This position reports to the Manager, Security Risk at GitLab.  
+This position reports to the Manager, Security Risk at GitLab.
 
 #### Security Risk Engineer (Intermediate) Job Grade
 
 The Security Risk Engineer is a [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Security Risk Engineer (Intermediate) Responsibilities
+
 - Execute operational security risk management activities to include: annual security risk assessments, business impact assessments and ctitical systems assessments
 - Execute third party security risk assessments within SLA
 - Deliver security risk reports to management
@@ -39,6 +42,7 @@ The Security Risk Engineer is a [6](https://about.gitlab.com/handbook/total-rewa
 - Maintain Security Risk automation tasks
 
 #### Security Risk Engineer (Intermediate) Requirements
+
 - At least 2 years of experience conducting risk management activities
 - Demonstrated experience with common risk management standards and models such as: ISO 31000, NIST 800-39, FAIR, ISACA Risk IT, OCTAVE
 - Demonstrated experience with at least two security control frameworks such as: SOC 2, ISO, NIST, COSO, COBIT
@@ -46,13 +50,14 @@ The Security Risk Engineer is a [6](https://about.gitlab.com/handbook/total-rewa
 
 ### Senior Security Risk Engineer
 
-This position reports to the Manager, Security Risk at GitLab.  
+This position reports to the Manager, Security Risk at GitLab.
 
 #### Senior Security Risk Engineer Job Grade
 
 The Senior Security Risk Engineer is a [7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Risk Engineer Responsibilities
+
 - Extends the Security Risk Engineer responsibilities
 - Execute end to end Security Risk initiatives in accordance with the compliance roadmap
 - Develop indicators to identify and control potential security operational risks
@@ -64,6 +69,7 @@ The Senior Security Risk Engineer is a [7](https://about.gitlab.com/handbook/tot
 - Recommend new Security Risk metrics and automate reporting of existing metrics
 
 #### Senior Security Risk Engineer Requirements
+
 - Ability to use GitLab
 - At least 5 years of experience conducting customer support, security and risk management activities
 - Detailed experience with common risk management standards and models such as: ISO 31000, NIST 800-39, FAIR, ISACA Risk IT, OCTAVE
@@ -72,13 +78,14 @@ The Senior Security Risk Engineer is a [7](https://about.gitlab.com/handbook/tot
 
 ### Staff Security Risk Engineer (Risk Manager)
 
-This position reports to the Manager, Security Risk at GitLab.  
+This position reports to the Manager, Security Risk at GitLab.
 
 #### Staff Security Risk Engineer Job Grade
 
 The Staff Security Risk Engineer is a [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Risk Engineer Responsibilities
+
 - Extends the Senior Security Risk Engineer responsibilities
 - Monitor emerging industry threats
 - Maintain expert knowledge of GitLab's product, environment, systems and architecture while mentoring others on this knowledge
@@ -91,6 +98,7 @@ The Staff Security Risk Engineer is a [8](https://about.gitlab.com/handbook/tota
 - Design, develop, and deploy an automated metric reporting for all Security Risk programs
 
 #### Staff Security Risk Engineer Requirements
+
 - At least 10 years of experience conducting security risk management activities
 - Expert experience with common risk management standards and models such as: ISO 31000, NIST 800-39, FAIR, ISACA Risk IT, OCTAVE
 - Expert experience with at least six security control frameworks such as: SOC 2, ISO, NIST, COSO, COBIT
@@ -105,6 +113,7 @@ The Manager, Security Risk reports directly to the Security Assurance Director.
 The Manager, Security Risk is a [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Security Risk Responsibilities
+
 - Hire and oversee a world class team of Security Risk Engineers
 - Evangelize operational security risk programs across GitLab
 - Continuously improve handbook pages, policies, standards, procedures and runbooks related to Security Risk
@@ -117,6 +126,7 @@ The Manager, Security Risk is a [8](https://about.gitlab.com/handbook/total-rewa
 - Draft and successfully execute on quarterly OKRs
 
 #### Manager, Security Risk Requirements
+
 - Exceptional communication skills, including verbal, written, and presentation skills to a variety of stakeholders
 - At least 3 years prior experience managing information security risk teams
 - Detailed knowledge of common risk management standards and models such as: ISO 31000, NIST 800-39, FAIR, ISACA Risk IT, OCTAVE
@@ -131,6 +141,7 @@ The Senior Manager, Security Risk reports directly to the Security Assurance Dir
 The Senior Manager, Security Risk is a [9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Security Risk Responsibilities
+
 - Extends the Manager, Security Risk responsibilities
 - Maintain a 3 year strategic roadmap that ties to business objectives
 - Develop strong relationships with key stakeholders by addressing issues/concerns in timely manner
@@ -141,6 +152,7 @@ The Senior Manager, Security Risk is a [9](https://about.gitlab.com/handbook/tot
 - Provide meaningful data to influence strategic decision based on current and potential security risks
 
 #### Senior Manager, Security Risk Requirements
+
 - At least 6 years prior experience managing information security risk teams
 - Proficient knowledge of common risk management standards and models such as: ISO 31000, NIST 800-39, FAIR, ISACA Risk IT, OCTAVE
 - Detailed knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
@@ -152,6 +164,7 @@ The Senior Manager, Security Risk is a [9](https://about.gitlab.com/handbook/tot
 For details on the Security organization leadership roles, to include the Security Assurance Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
+
 - [Operational Security Risk Management (Tier 2 Risks)](https://about.gitlab.com/handbook/security/performance-indicators/#operational-security-risk-management-tier-2-risks)
 - [Third Party Risk Management](https://about.gitlab.com/handbook/security/performance-indicators/#third-party-risk-management)
 

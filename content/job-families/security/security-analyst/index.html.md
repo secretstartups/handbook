@@ -131,6 +131,7 @@ As always, the interviews and screening call will be conducted via a video call.
 See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
 
 ## External Communications
+
 - [HackerOne Outreach and Engagement](https://about.gitlab.com/handbook/security/performance-indicators/#hackerone-outreach-and-engagement)
 
 ## Career Ladder

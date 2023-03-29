@@ -7,11 +7,13 @@ description: "Driving security strategy and initiatives company-wide"
 The Security Program Manager will be responsible for complete overview and driving security initiatives across product, engineering and business enablement.  This includes the tracking, monitoring and influencing priority of significant security objectives, goals and plans from all security sub-departments.
 
 ## Responsibilities
+
 - Communicate successfully with partners and drive accountability across teams to ensure program objectives are met
 - Gather and examine customer and internal security team needs and opportunities for new information security programs, products and projects
 - Drive organizational needs cross-functionally with product, engineering and finance including tracking and reporting of progress and metrics
 
 ## Requirements
+
 - Experience crafting and executing Information Security initiatives, including capturing and redefining requirements into impactful work items
 - Experience driving cross-functional initiatives according to plan and timelines
 - Prioritize effectively and multitask efficiently
@@ -122,12 +124,15 @@ All requirements of previous roles plus:
 For details on the Security organization leadership roles, to include the Security Engineering Director and VP of Security, see the Security Leadership page.
 
 ## Specialties
+
 - Currently no specialties defined
 
 ## Performance Indicators
+
 - To Be Defined (TBD)
 
 ## Career Ladder
+
 - To Be Defined (TBD)
 
 ## Hiring Process

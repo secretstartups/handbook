@@ -8,12 +8,14 @@ extra_js:
 As members of GitLab's [Security Assurance sub department](https://about.gitlab.com/handbook/security/security-assurance/), the [Field Security team](https://about.gitlab.com/handbook/security/security-assurance/field-security/) serves as the public representation of GitLab's internal Security function. The team is tasked with providing high levels of security assurance to internal and external customers through customer support, sales enablement and security evangelism programs.
 
 ## Responsibilities
+
 - Professionally handle communications with internal and external stakeholders
 - Maintain up-to-date knowledge of GitLab's product, environment, systems and architecture
 - Educate internal and external stakeholders on GitLab’s Security practices through formal and informal training, handbook improvements, white papers, conference presentations and blog posts
 - Gather and report on established metrics within the field security program
 
 ## Requirements
+
 - Capability to use GitLab
 - Exemplary written and verbal communication and presentation skills
 - Prior experience working with a SaaS company preferred
@@ -22,13 +24,14 @@ As members of GitLab's [Security Assurance sub department](https://about.gitlab.
 
 ### Field Security Engineer (Intermediate)
 
-This position reports to the Manager, Governance and Field Security at GitLab.  
+This position reports to the Manager, Governance and Field Security at GitLab.
 
 #### Field Security Engineer (Intermediate) Job Grade
 
 The Field Security Engineer is a [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Field Security Engineer (Intermediate) Responsibilities
+
 - Complete customer security assessments, questionnaires and sales enablement activities within pre defined SLA
 - Maintain the Customer Assurance Package and other self-service customer security resources
 - Maintain GitLab's standard security response database
@@ -41,19 +44,21 @@ The Field Security Engineer is a [6](https://about.gitlab.com/handbook/total-rew
 - Proactively identify new or increased customer security concerns with management
 
 #### Field Security Engineer (Intermediate) Requirements
+
 - At least 2 years of experience conducting customer assurance activities
 - Demonstrated experience with at least two security control frameworks such as: SOC 2, ISO, NIST, COSO, COBIT
 - Working understanding of how security works with cloud-native technology stacks
 
 ### Senior Field Security Engineer
 
-This position reports to the Manager, Governance and Field Security at GitLab.  
+This position reports to the Manager, Governance and Field Security at GitLab.
 
 #### Senior Field Security Engineer Job Grade
 
 The Senior Field Security Engineer is a [7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Field Security Engineer Responsibilities
+
 - Extends the Field Security Engineer responsibilities
 - Maintain up-to-date knowledge of GitLab's product, roadmap, environment, systems and architecture
 - Build a strong, collaborative partnership with Sales, Product, Customer Support and Technical Account teams.
@@ -70,6 +75,7 @@ The Senior Field Security Engineer is a [7](https://about.gitlab.com/handbook/to
 - Monitor and report on new or increased customer security concerns
 
 #### Senior Field Security Engineer Requirements
+
 - Ability to use GitLab
 - At least 5 years of experience conducting customer assurance activities
 - Demonstrated experience with at least four security control frameworks such as: SOC 2, ISO, NIST, COSO, COBIT
@@ -77,13 +83,14 @@ The Senior Field Security Engineer is a [7](https://about.gitlab.com/handbook/to
 
 ### Staff Field Security Engineer
 
-This position reports to the Manager, Governance Field Security at GitLab.  
+This position reports to the Manager, Governance Field Security at GitLab.
 
 #### Staff Field Security Engineer Job Grade
 
 The Staff Field Security Engineer is a [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Field Security Engineer Responsibilities
+
 - Extends the Senior Field Security Engineer responsibilities
 - Maintain proficient knowledge of GitLab's product, roadmap, environment, systems and architecture and help shape strategic decisions focused on meeting customer security demands
 - Mentor other Field Security Engineers and improve knowledge, quality and quantity of the team's output
@@ -97,11 +104,12 @@ The Staff Field Security Engineer is a [8](https://about.gitlab.com/handbook/tot
 - Successfully execute on quarterly KRs asscoiated with OKRs
 
 #### Staff Field Security Engineer Requirements
+
 - At least 10 years of experience conducting customer assurance activities
 - Proficient experience with at least six security control frameworks such as: SOC 2, ISO, NIST, COSO, COBIT
 - Demonstrated industry security experience, particularly in DevSecOps, Application Security and/or Cloud-Native Security
 
-### Manager, Governance and Field Security  
+### Manager, Governance and Field Security
 
 This position reports to the Director, Security Assurance.
 
@@ -110,6 +118,7 @@ This position reports to the Director, Security Assurance.
 The {Manager, Governance and Field Security} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Governance and Field Security Responsibilities
+
 - Hire and oversee a world class team of Security Governance and Field Security Engineers
 - Hold regular 1:1s with team members
 - Build a strong, collaborative partnership with Security, Training, Legal, Infrastructure, Sales and Product teams
@@ -122,6 +131,7 @@ The {Manager, Governance and Field Security} is a [grade 8](https://about.gitlab
 - Successfully execute on quarterly OKR(s)
 
 #### Manager, Governance and Field Security Requirements
+
 - At least 3 years prior experience managing information security and customer facing teams
 - Exceptional communication skills, including verbal, written, and presentation skills to a variety of stakeholders
 - Detailed knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
@@ -135,6 +145,7 @@ This position reports to the Director, Security Assurance.
 The {Senior Manager, Governance and Field Security} is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Governance and Field Security Responsibilities
+
 - The same responsibilities of a Manager, Governance and Field Security, plus the below:
 - Hold regular 1:1s with team managers and skip-level 1:1s with all members of their team
 - Plan and execute long term strategies that benefit your team and align with strategic objectives
@@ -147,6 +158,7 @@ The {Senior Manager, Governance and Field Security} is a [grade 9](https://about
 - Draft and successfully execute on multiple quarterly OKRs
 
 #### Senior Manager, Governance and Field Security Requirements
+
 - At least 6 years prior experience managing information security and customer facing teams
 - Outstanding communication skills, including verbal, written, and presentation skills to a variety of stakeholders
 - Expert knowledge of common information security management frameworks, regulatory requirements and applicable standards such as: ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
@@ -158,6 +170,7 @@ The {Senior Manager, Governance and Field Security} is a [grade 9](https://about
 For details on the Security organization leadership roles, to include the Security Assurance Director and VP of Security, see the Security Leadership page.
 
 ## Performance Indicators
+
 - [Security Impact on ARR](https://about.gitlab.com/handbook/security/performance-indicators/#security-impact-on-iacv)
 
 ## Career Ladder
