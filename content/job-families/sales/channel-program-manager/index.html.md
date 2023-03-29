@@ -16,8 +16,8 @@ The Channel Program Manager will be responsible for the design, management & exe
 | [Lead Channel Program Manager](#lead-channel-program-manager) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 | [Manager, Channel Program](#manager-channel-program) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Senior Manager, Channel Program](#senior-manager-channel-program) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Director, Channel Program](#director-channel-program) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Director, Channel Program](#director-channel-program) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Director, Channel Program](#director-channel-programs) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Director, Channel Program](#director-channel-programs) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 
 ## Junior Channel Program Manager
 

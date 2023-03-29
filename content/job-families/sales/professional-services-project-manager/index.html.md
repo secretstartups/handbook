@@ -16,9 +16,9 @@ title: "Professional Services Project Manager"
 - Manage customer projects to a successful, on budget, on schedule completion
 - Successfully manage the quarterly revenue forecast (within your pervue) within a 5% margin
 
-# **Professional Services Roles at GitLab**
+## **Professional Services Roles at GitLab**
 
-## **Professional Services Project Manager**
+### **Professional Services Project Manager**
 
 
 #### Professional Services Project Manager Job Grade
@@ -60,7 +60,7 @@ GitLab Professional Services Project Managers manage high-complexity projects to
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 
-## **Senior Professional Services Project Manager**
+### **Senior Professional Services Project Manager**
 
 
 #### **Senior Professional Services Project Manager Job Grade**

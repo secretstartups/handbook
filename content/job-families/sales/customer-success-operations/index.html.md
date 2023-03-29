@@ -137,7 +137,7 @@ The Manager Customer Success Operations is a [grade 8](https://about.gitlab.com/
 
 ### Senior Manager, Customer Success Operations
 
-The Senior Manager, Customer Success Operations reports to the [Director Customer Success Operations](#director-customer-success-operations).
+The Senior Manager, Customer Success Operations reports to the [Director Customer Success Operations](/job-families/sales/director-customer-operations/).
 
 #### Job Grade
 
