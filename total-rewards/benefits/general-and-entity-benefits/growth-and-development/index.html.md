@@ -82,6 +82,9 @@ The Growth and Development policy is meant to further team members' learning and
  - Sales Development/Business Development: Jean-Baptiste Larramendy (AVP, Sales Development)
 
 **Step 4:** Claim for reimbursement:
+
+Once the appropriate approvals are provided on the Growth and Development issue, proceed with claiming reimbursement and close the issue. **You do not have to wait for approval or further action from Total Rewards.** 
+
 * If you have signed up for academic study, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you receive your grade/transcript (this can be done at the end of each semester if your course is split into semesters or at the end of the program). You may close the issue once you have received reimbursement for the whole program.
 * For other types of Growth & Development opportunities, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you have obtained the reimbursement requirement per the [descriptions below](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). You may close the issue once you have gained approval for your application.
 
