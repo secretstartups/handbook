@@ -29,9 +29,9 @@ GitLab uses Secure Code Warrior to provide ongoing secure coding training. Log i
 
 ### Accessing Secure Code Warrior
 
-All team members with development roles have access to SCW via Okta. However due to seat limitations only new developer hires are encouraged to engage with the platform. 
+AppSec currently has a limited number of seats available on Secure Code Warrior. Please [check and comment on this issue](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1580) if you'd like access!
 
-The AppSec team may, at its discretion, remove inactive users or those who are not new hires. We will let you know if this happens.
+The AppSec team may, at its discretion, remove users to release seats for other team members. We will let you know if this happens.
 
 ### Using Secure Code Warrior
 
