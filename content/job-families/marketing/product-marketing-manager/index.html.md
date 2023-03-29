@@ -200,6 +200,7 @@ As a Product Marketing Manager, Agile-Planning you will work closely with our ma
 - Has experience aligned with the additional responsibilities of a Principal Product Marketing Manager.
 
 #### Principal Responsibilities
+
 - Translate the company’s revenue objectives into a formal, cohesive solutions marketing strategy, including key imperatives that GitLab solves for customers, how we solve them, and how we scale them through and with partners.
 - Partner with Sales, Sales Development, Customer Success, Marketing, and Product Management to identify and prioritize quarterly GTM plays (including strategy, messaging, content, campaigns, and enablement) that drive quality pipeline and ARR.
 - Work comfortably with complex data sets to identify pipeline gaps and prescribe and prioritize solutions to meet business pipeline gaps.
@@ -270,11 +271,11 @@ As a Customer Advocacy Product Marketer, you will identify, activate, and amplif
 - Establish and maintain a robust Customer Reference Library. Library includes logos, logos + short quotes, logos + full story, and anonymized case studies broken out by vertical, solution, and company size. Multi-media: written, pull-quote images, and videos (for top tier)
 
 #### Senior Responsibilities
+
 - Define and develop a cross-functional programmatic strategy to create customer success content that reinforces key marketing messages including customer pain points, jobs-to-be-done, GitLabs’ solutions, and other marketing content areas as defined.
 - Define and develop, in collaboration with Sales and other stakeholders, a customer incentive strategy and approach that results in additional net new and growth customer references.
 - Own internal advocacy efforts by cultivating and promoting champions; this includes embracing an “always-on” advocacy methodology that highlights the importance of customer references, a definition of internal economic/non-economic incentives and recognition programs for surfacing stories.
 - Leverage customer advocacy insights and lessons learned in relation to Gitlab’s marketing plan and deliverables to influence the overall product marketing strategy and roadmap.
-
 
 ### Analyst Relations
 
@@ -308,8 +309,8 @@ Respond to, serve, and manage internal requests for Industry Analyst/Influencer/
 - Negotiate, secure, and manage contracts and related services ensuring they support both strategic and tactical, near term and future requirements. Ensure that contracted services are fully utilized.
 Support the GitLab reference program, market research activities, and serve as a program manager for the GitLab Thought Leadership Advisory Board.
 
-
 #### Senior Responsibilities
+
 - Extends that of the Analyst Relations Manager responsibilities
 - Be a leader in working cross-functionally to drive the execution of analyst relations plans, aligning with other areas of marketing.
 - Driving negotiations with industry analyst and related firms to consistently optimize spend.
@@ -317,6 +318,7 @@ Support the GitLab reference program, market research activities, and serve as a
 - Be a leader in building and driving process within the Market Insights team.
 
 #### Staff Responsibilities
+
 - Extends that of the Senior Analyst Relations Manager responsibilities
 - 10+ years specific, significant experience in an industry Analyst Relations role in enterprise software.
 - Ability to easily transition from high level strategic thinking to creative and detailed execution.
@@ -324,11 +326,11 @@ Support the GitLab reference program, market research activities, and serve as a
 - Ability and interest to design, build, implement, and use data-driven mechanisms to simplify and speed decision making regarding analyst relations activities.
 
 #### Principal Responsibilities
+
 - Extends that of the Staff Analyst Relations Manager responsibilities
 - Recruit, coach and mentor Analyst Relations team members to live our values.
 - In collaboration with the Director, Product Marketing: define team direction, identify staffing needs for scale, ensure team members are effective, own the quality, effectiveness and performance of the Analyst Relations team results.
 - Measure and improve the happiness and productivity of the team.
-
 
 ### Market Insights
 

@@ -3,7 +3,6 @@ layout: job_family_page
 title: "Community Programs"
 description: "Learn more about Community Programs roles, responsibilities, requirements, and levels."
 ---
-# Community Programs
 
 The Community Programs team supports communities that align with GitLab's [CREDIT values](https://about.gitlab.com/handbook/values/) by executing specific programs that help these communities grow and thrive. These programs include [**GitLab for Education**](/solutions/education/), [**GitLab for Open Source**](/solutions/open-source/), [**GitLab for Startups**](/solutions/startups/), and [**GitLab for Non-Profits**](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/education-program/#--gitlab-for-non-profits) Programs. Our mission is to help these communities experience GitLab's vision of a world where everyone can contribute.
 
@@ -155,8 +154,8 @@ The Intermediate Community Programs Manager is a [grade 6](https://about.gitlab.
 
 ### Requirements
 
- - Extends that of the Community Programs Associate
- Manager.
+- Extends that of the Community Programs Associate
+   Manager.
 - You are extremely proactive.
 - You are extremely detail*oriented.
 - You are able to learn to use GitLab for all of your project management work.
@@ -325,15 +324,15 @@ The Director, Community Programs is a [grade 10](https://about.gitlab.com/handbo
 
 The career ladder for the Director, Community Programs is not defined.
 
-# Specialties
+## Specialties
 
-## GitLab for Education
+### GitLab for Education
 
 The [GitLab for Education](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/education-program/) team’s mission is to facilitate and drive the adoption of DevOps and GitLab at educational institutions around the globe. This program aims to build an engaged community of GitLab evangelists and contributors in the next generation of the workforce and tell the story of how GitLab and DevOps as a discipline, are advancing and transforming teaching, learning, and scientific research.
 
 Team members specializing in Education will focus community building efforts with faculty, students and staff and institutional leaders. This includes building content specific enabling the teaching and learning of GitLab as well conducing scientific research within a DevOps framework. Team members will strive to drive brand awareness at Universities world-wide. Academic associations and publications are primary outlets for publication and public speaking opportunities.
 
-## GitLab for Open Source
+### GitLab for Open Source
 
 The [GitLab for Open Source](https://about.gitlab.com/handbook/marketing/community-relations/open-source/) teams mission is to help make GitLab the best place for open source projects to grow and thrive.
 

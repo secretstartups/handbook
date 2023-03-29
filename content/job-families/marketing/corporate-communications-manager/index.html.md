@@ -216,6 +216,7 @@ The executive communications to CEO specialty manager for the corporate communic
 - Work closely with Executive Business Administrators to plan the external speaking schedule for the year.
 
 #### Technical Qualifications
+
 - Have experience in enterprise software and/or open source
 - Have the ability to explain complex DevOps concepts at varying levels of technical detail, according to the technical abilities and interests of the audience
 - Actively follows relevant technical media including Hacker News, relevant twitter personalities, and blogs
@@ -246,7 +247,6 @@ The [Social Marketing Manager](/job-families/marketing/social-marketing-manager/
 
 The Principal Internal Communications Manager is part of the Talent Brand team within the PeopleOps group, but works very closely with the Corporate Communications team. Internal Communications plans and improves company-wide team member communications to ensure team members feel informed and heard.
 
-
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
@@ -267,9 +267,7 @@ Additional details about our process can be found on our [hiring page](https://a
 The Senior Director, Corporate Communications is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 This role is responsible for corporate PR, financial communications, reputation management, and executive visibility programs, serving to develop, raise, and protect GitLab's reputation and that of its CEO, CMO, and CFO.
 
-
 This role develops and leads a cross-functional, long-term strategic communications strategy that translates and synthesizes GitLab’s executives' vision and voice across organizational and industry topics.
-
 
 #### Responsibilities
 
@@ -302,7 +300,6 @@ This role develops and leads a cross-functional, long-term strategic communicati
 - Comfortable with transparency in our communications, internally and externally
 - You share our values (https://about.gitlab.com/handbook/values) and work following those values.
 - Ability to use GitLab
-
 
 ### VP, Corporate Communications
 
@@ -363,8 +360,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
-
 ## Performance Indicators
-- Increase overall brand awareness through key message pull through in media articles and speaking presentations, secure opportunities for executives to speak at conferences and with media, submit strong award applications.
 
+- Increase overall brand awareness through key message pull through in media articles and speaking presentations, secure opportunities for executives to speak at conferences and with media, submit strong award applications.
 

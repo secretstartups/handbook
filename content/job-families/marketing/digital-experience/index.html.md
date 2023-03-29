@@ -69,7 +69,6 @@ The Digital Experience Operations Manager is a [grade 8](https://about.gitlab.co
 - **Roadmapping:** collaborate with Product Manager on 3 to 6 month roadmaps. Adjusting in real-time based on team progress.
 - **Documentation:** ensuring scalability and efficiency by adding processes to the Digital Experience handbook.
 
-
 #### Digital Experience Operations Manager Requirements
 
 - Exceptional communication and interpersonal skills.
@@ -140,7 +139,7 @@ The Senior Manager, Digital Experience is a [grade 9](https://about.gitlab.com/h
 - Relevant experience managing a group of designers and engineers.
 - Advanced level of HTML, CSS, and JS.
 - Experience as agile project manager a plus.
-  
+
 ### Director, Digital Experience
 
 The Director, Digital Experience reports to the VP, Marketing Strategy and Platforms. The Product Manager (Marketing), Engineering Manager, and Digital Experience Operations Manager report to the Director, Digital Experience.
@@ -177,10 +176,10 @@ The Director, Digital Experience is a [grade 10](https://about.gitlab.com/handbo
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 
 ## Performance Indicators
+
 - [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
 - [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
 - [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)
-
 
 ## Career Ladder
 

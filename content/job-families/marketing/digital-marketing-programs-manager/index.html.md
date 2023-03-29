@@ -132,7 +132,7 @@ The Director, Digital Strategy is a [grade 10](https://about.gitlab.com/handbook
 
 ## Key Performance Indicators
 
-- # of leads/MQLs created, cost per lead
+- No. of leads/MQLs created, cost per lead
 
 - % increase in MQL to SAO conversion rate and nurture progression
 - % of SMB/MM leads from digital source, cost per trial acquisition

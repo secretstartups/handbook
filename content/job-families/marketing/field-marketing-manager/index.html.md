@@ -46,6 +46,7 @@ A successful Field Marketing Manager has substantial understanding of sales-focu
 - Travel up to 50%.
 
 ### Levels
+
 - Field Marketing Manager - Intermediate
 - Senior Field Marketing Manager - Senior
 - Staff, Field Marketing Manager - Staff
@@ -92,6 +93,7 @@ The Field Marketing Manager is a [grade 6](https://about.gitlab.com/handbook/tot
 - Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Key Performance Indicators
+
 - [8X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for region responsible for.
 - Contribution to the outlined FMM ORKs, in alignment with the [Marketing ORKs](https://about.gitlab.com/company/okrs/#most-recent-okrs).
 - Field Marketing plans completed in alignment [with planning schedule](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-planning).

@@ -37,6 +37,7 @@ Contributor Success Fullstack Engineers work on laying down an efficiency founda
 
 
 ### Nice to haves
+
 - Experience in a peak performance organization
 - BS or MS degree in Computer Science
 - Notable ties into the Open Source community
@@ -75,7 +76,7 @@ The Senior Contributor Success Fullstack Engineer is a [grade 7](https://about.g
 
 #### Senior Contributor Success Fullstack Engineer Responsibilities
 
-The Senior Contributor Success Fullstack Engineer role extends the [Contributor Success Fullstack Engineer](#open-source-outreach-fullstack-engineer) role.
+The Senior Contributor Success Fullstack Engineer role extends the [Contributor Success Fullstack Engineer](#contributor-success-fullstack-engineer) role.
 
 - Drive GitLab's contribution efficiency efforts and results.
 - Own one or more Engineering Contributor Success project plans.
@@ -99,7 +100,7 @@ The Staff Contributor Success Fullstack Engineer is a [grade 8](https://about.gi
 
 #### Staff Contributor Success Fullstack Engineer Responsibilities
 
-The Staff Engineering Contributor Success Fullstack Engineer role extends the [Senior Contributor Success Fullstack Engineer](#senior-open-source-outreach-fullstack-engineer) role.
+The Staff Engineering Contributor Success Fullstack Engineer role extends the [Senior Contributor Success Fullstack Engineer](#senior-contributor-success-fullstack-engineer) role.
 
 - Author results-focused proposals to improve GitLab's contribution efficiency and drive them to completion.
 - Propose effective Engineering Contributor Success project plans.

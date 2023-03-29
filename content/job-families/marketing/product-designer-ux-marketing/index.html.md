@@ -2,7 +2,7 @@
 layout: job_family_page
 title: Product Designer (UX) - Marketing
 ---
- 
+
 A Product Design Roles on GitLab's Marketing team, collaborates closely with Product Managers, Engineers, UX Research, and other Product Designers to create a productive, streamlined, and human experience. Product Designers report to a Product Manager.
 
 ## Levels
@@ -67,9 +67,8 @@ The Senior Product Designer is a [grade 7](https://about.gitlab.com/handbook/tot
 
 #### Senior Product Designer (UX) - Marketing Requirments
 
-*
-
 ## Performance Indicators
+
 - [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
 - [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
 - [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)

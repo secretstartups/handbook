@@ -35,9 +35,9 @@ The Sales Development Solutions Architect is a [grade 8](https://about.gitlab.co
 The next step in the Sales Development Solutions Architect job family is not yet defined at GitLab.
 
 ## Performance Indicators
+
 - Run weekly training program
 - Create progressive learning moduals to be rolled out in Google Classroom
-
 
 ## Hiring Process
 

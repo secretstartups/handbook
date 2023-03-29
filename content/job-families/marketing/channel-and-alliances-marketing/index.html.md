@@ -4,8 +4,6 @@ title: Channel Marketing Team
 ---
 The Global Channel Marketing team is a team of demand generation professionals dedicated to the creation of tools and programs that support our partners demand generation efforts.  The team sits within the Integrated Marketing organization.
 
-# Channel Marketing
-
 ## Channel Marketing Program Specialist
 
 Channel Marketing Program Specialists work with our marketing, operations and channel sales teams to build the foundation for a world class global partner marketing program that will drive customer acquisition and revenue growth for GitLab.

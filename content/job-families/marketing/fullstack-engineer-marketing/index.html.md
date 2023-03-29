@@ -6,6 +6,7 @@ title: Fullstack Engineer - Marketing
 Fullstack Engineers on the Marketing team work on our marketing site: about.GitLab.com and gitlab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/), and report to a [Engineering Manager, Digital Experience](/job-families/marketing/fullstack-engineer-marketing/#manager-engineering).
 
 ## Responsibilities
+
 - Work with the Marketing Strategy and Platforms team and other stakeholders (Content, DemandGen, Brand, etc.) to iterate on new features and improvements to GitLab's digital marketing platform.
 - Consistently ship small features and improvements to our [Slippers design system](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui)
 - Help improve the overall experience of our Marketing website through improving the quality of our codebases.
@@ -13,6 +14,7 @@ Fullstack Engineers on the Marketing team work on our marketing site: about.GitL
 - Help plan sprints and complete prioritized issues from the issue tracker.
 
 ## Requirements
+
 - Knowledge of HTML, CSS, HAML and JavaScript (Vue.js).
 - Experience with responsive design and best practices.
 - Knowledge of current web accessibility standards and requirements.
@@ -98,9 +100,10 @@ The Manager, Engineering reports the [Director, Digital Experience](/job-familie
 
 #### Manager, Engineering Job Grade
 
-The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Engineering Responsibilities
+
 - Seek to build out a great team
 - Make your team happy and successful
 - Improve processes to make your team more effective
@@ -112,6 +115,7 @@ The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-
 - Discern engineering metrics and seek to improve them
 
 #### Manager, Engineering Requirements
+
 - Collaborate effectively with others
 - Ability to achieve consensus amongst stakeholders
 - 5 years or more experience related to the responsibilities listed above.
@@ -125,6 +129,7 @@ The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-
 ## Performance Indicators
 
 ## Performance Indicators
+
 - [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
 - [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
 - [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)

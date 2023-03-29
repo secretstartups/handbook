@@ -22,6 +22,7 @@ The Technical Marketing Manager is a [grade 7](https://about.gitlab.com/handbook
 The Senior Technical Marketing Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
+
 - Teach our audiences about modern software delivery methods and how it can be valuable to them, introducing them to new concepts which can help them achieve their goals.
 - Showcase the capabilities of GitLab for the use cases which our audiences care about.
 - Produce technical content such as demos, videos, workshops, tutorials, technical white papers, conference presentations, webinars
@@ -30,6 +31,7 @@ The Senior Technical Marketing Manager is a [grade 8](https://about.gitlab.com/h
 - Provide technical guidance and own demonstrations for analyst report submissions and briefings.
 
 ## Requirements
+
 - 4 to 6 years of hands-on technical experience deploying, configuring and implementing, enterprise software tools and products such as source code management, CI/CD, release automation, infrastructure management, agile project management.
 - Technical background or good understanding of Application Development and IT operations; familiarity with Git, Continuous Integration, Containers, and Kubernetes a plus.
 - 2-3 years experience developing demos, webinars, videos, technical collateral, ROI/value oriented assessments, etc.
@@ -42,6 +44,7 @@ The Senior Technical Marketing Manager is a [grade 8](https://about.gitlab.com/h
 - Ability to use GitLab
 
 ## Senior Requirements
+
 - 4-5 years experience independently developing demos, webinars, videos, technical collateral, ROI/value oriented assessments, etc.
 - At least 6 years enterprise software marketing experience, including 4 in product marketing
 - In-depth industry experience with Agile and DevOps methodologies across the software development lifecycle. Preferably in a large enterprise environment.
@@ -161,6 +164,7 @@ will also be responsible for informing Product Marketing and Product Management 
 - Develop and maintain competitive landscape content including website pages, presentations, demos, and other assets.
 
 #### Senior Responsibilities
+
 - Drive deep competitor analysis including product strategy research, customer research, and technical research.
 - Train and enable sales and partner teams on a technical level to deeply understand competitor features and capabilities vs GitLabs.
 - Drive development of technical collateral such as demos, webinars, videos, competitive battle cards, ROI tools, and assist with customer Requests For Proposals (RFPs).

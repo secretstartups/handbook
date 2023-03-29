@@ -2,7 +2,7 @@
 layout: job_family_page
 title: Product Manager - Marketing
 ---
- 
+
 The Product Manager - Marketing Job Family educates people on the entire [DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/). They communicate the value our [single application](https://about.gitlab.com/handbook/product/single-application) allows developers to invent, create, and deploy modern applications. They communicate how GitLab facilitates [Concurrent DevOps](https://about.gitlab.com/topics/concurrent-devops/) so that teams can work simultaneously instead of sequentially, unleashing collaboration across organizations.
 
 ## Levels
@@ -85,10 +85,10 @@ The Senior Product Manager is a [grade 9](https://about.gitlab.com/handbook/tota
 ## Performance Indicators
 
 ## Performance Indicators
+
 - [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
 - [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
 - [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)
-
 
 ## Career Ladder
 

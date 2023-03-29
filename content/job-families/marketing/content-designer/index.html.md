@@ -17,6 +17,7 @@ As the content designer for GitLab you will be responsible for assisting the mar
 - Create short, punchy videos to explain our awesome features. If we give you a voice-over, you can create a great quick video.
 
 ## Requirements
+
 - Excellent spoken and written English.
 - Self taught or degrees welcome.
 - 2-3 years experience in marketing-focused design is preferred.

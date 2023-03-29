@@ -45,6 +45,7 @@ The Director, Product Marketing reports to the Senior Director, Product & Soluti
 The Director, Product Marketing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Director, Product Marketing Responsibilities
+
 - Define GitLab’s product marketing strategy and roadmap, in collaboration with partners across R&D and GTM
 - Create and solidify the platform value message and proposition - mapping across the platform stages and highlighting category benefits
 - Refine our understanding of buyer/decision-maker personas and journeys to streamline both digital/self-serve and sales-driven/assisted experiences
@@ -58,6 +59,7 @@ The Director, Product Marketing is a [grade 10](https://about.gitlab.com/handboo
 - Manage a team by coaching existing members and closing talent gaps where needed through acquisition of new team members
 
 #### Director, Product Marketing Requirements
+
 - 10+ years of experience including 3+ years of managing senior product marketers at a high-growth B2B SaaS company
 - Direct experience in enterprise software industry
 - Strong understanding and firm grasp of the DevTools market landscape
@@ -77,6 +79,7 @@ The Senior Director, Product & Solutions Marketing reports to the Vice President
 The Senior Director, Product & Solutions Marketing is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Director, Product & Solutions Marketing Responsibilities
+
 - Define, evolve and evangelize the DevOps platform category positioning on behalf of GitLab
 - Create and solidify the platform value message and proposition - mapping across the platform stages and highlighting category benefits
 - Drive our expertise at influencing the buyer/decision-maker personas and journeys to streamline both digital/self-serve and sales-driven/assisted experiences
@@ -92,6 +95,7 @@ The Senior Director, Product & Solutions Marketing is a [grade 11](https://about
 - Lead and grow a team by coaching existing members and closing talent gaps where needed through acquisition of new team members
 
 #### Senior Director, Product & Solutions Marketing Requirements
+
 - 15+ years of experience including 5+ years of managing high-growth teams
 - Direct experience in enterprise software industry
 - Strong understanding and firm grasp of the DevTools market landscape
@@ -103,7 +107,6 @@ The Senior Director, Product & Solutions Marketing is a [grade 11](https://about
 - B.S. or equivalent experience; MBA a plus
 - You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
-
 
 ### Manager, Partner and Channel Marketing
 
@@ -153,11 +156,11 @@ The Director, Global Partner Marketing is a [grade 10](https://about.gitlab.com/
 - Work with Technology and Ecosystem alliance partners to identify, develop and execute joint Go To Market (GTM) campaigns.  Identify and integrate Channel partners into these campaigns as appropriate.
 - Lead a team of partner marketers focused on developing scalable, global campaigns aligned to our approved major GTM motions, developed and executed jointly with partners and our demand generation, field marketing, corporate marketing teams to drive demand resulting in PIOs.
 - Develop unique marketing campaigns and messaging to attract and recruit high value partners to become Gitlab channel partners.
-- Develop Technology, Ecosystem and Channel Partner  marketing engagement strategy to build share of voice and sales preference for GitLab with partner sales, sales engineers, marketing and C-level.  
+- Develop Technology, Ecosystem and Channel Partner  marketing engagement strategy to build share of voice and sales preference for GitLab with partner sales, sales engineers, marketing and C-level.
 - Implement channel partner marketing enablement initiatives, inclusive of programs, tactics, communication vehicles, and enablement tools that will help Channel Partners drive increased market adoption and channel revenue goals.
 - Manage our Market Development Fund (MDF) program including strategy, rules, requests and reimbursement processes.
 - Assist our Channel Sales Managers in the development of actionable and measurable marketing programs for designated Select and Open channel partners.
-- Work with our Demand Generation Campaigns team for content and campaigns that we can enable partners with that support a Top of Funnel (TOFU) land and post sale expand strategy to broaden the GitLab footprint within each of their accounts.  
+- Work with our Demand Generation Campaigns team for content and campaigns that we can enable partners with that support a Top of Funnel (TOFU) land and post sale expand strategy to broaden the GitLab footprint within each of their accounts.
 - Strategize and work with field marketing on regional partner joint GTM market execution to help progress current marketing qualified leads to an opportunity.
 - Working with our Marketing and Channel Sales Ops teams develop ROI performance dashboards for partner marketing initiatives and utilize findings to improve future initiatives.
 - Develop and execute monthly partner marketing webcast enablement sessions  to provide a steady flow of content and demand generation tactics that partners can leverage.
@@ -173,7 +176,7 @@ Work with FP&A to ensure MDF allocations/marketing spend are appropriately alloc
 
 - Minimum of 10+ years of experience in partner marketing with increasing levels of responsibility.
 - Specific experience with Technology, Ecosystem and Channel partners that participate in the DevOps market.
-- Proven track record in the partner community building successful programs and campaigns to support technology alliances sales, channel sales and channel partners.  
+- Proven track record in the partner community building successful programs and campaigns to support technology alliances sales, channel sales and channel partners.
 - Understanding of Software Development and DevOps; familiarity with Git, Continuous Integration, Containers, and Kubernetes a plus.
 - Outstanding communications skills to work across a remote, matrixed environment.
 - Able to coordinate across many teams and iterate and deliver in a fast-moving startup environment.

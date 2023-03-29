@@ -34,6 +34,7 @@ The Contributor Success Engineering Manager manages a team of full-stack enginee
 - Experience leading a team following an iterative, agile development process.
 
 ### Nice to haves
+
 - Experience in a peak performance organization
 - BS or MS degree in Computer Science
 - Notable ties into the Open source community
@@ -81,6 +82,7 @@ The Senior Manager, Contributor Success role extends the [Manager, Contributor S
 - We are not currently hiring for this role & will add more detail responsibilites when the business need arises.
 
 #### Senior Manager, Contributor Success Requirements
+
 - We are not currently hiring for this role & will add more detail requirements when the business need arises.
 
 ### Director, Contributor Success

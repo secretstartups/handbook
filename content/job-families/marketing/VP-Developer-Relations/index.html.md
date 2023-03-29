@@ -6,9 +6,10 @@ title: VP, Developer Relations and Community
 The VP, Developer Relations and Community is responsible for engaging our community including contributors to our open-source product, users of our paid products and participants of our community programs (GitLab for education, etc). You will be responsible for managing and building a team of technical evangelists, community builders and maintainers, marketing program owners and technical content specialists. You will own the community, content and marketing programs needed to meet the goals of having a vibrant active and engaged community and increasing code contributions.
 
 ## Responsibilities
+
 - Define the strategy for our future GitLab community/forums and measure its activity and engagement
-- Build out the strategy, team, marketing programs and systems to expand the community.  
-- Grow active members and engagement.  
+- Build out the strategy, team, marketing programs and systems to expand the community.
+- Grow active members and engagement.
 - Develop the strategy to increase monthly code contributors and contributions to GitLab.
 - Create and maintain a GitLab heroes program to build evangelists in the community to grow the number of evangelists that regularly give talks, write blog posts, and organize meetups about GitLab.
 - Build out key community programs such as open-source, education, non-profits, startups, etc.
@@ -17,6 +18,7 @@ The VP, Developer Relations and Community is responsible for engaging our commun
 - Develop widely read content focussed on users (Development, Security and Operations) of GitLab for our blog, newsletter and YouTube channel. Ensure that content is relevant and syndicated to our community.
 
 ## Requirements
+
 - Ability to use GitLab
 - Proven progressive leadership experience, with an emphasis on people leadership, building teams to scale, and engaging global and local stakeholders.
 - Experience building trusted relationships with executive sponsors and end users.
@@ -41,6 +43,7 @@ The VP, Developer Relations and Commmunity is a [grade 12](https://about.gitlab.
 The career ladder for this role is not yet defined.
 
 ## Performance Indicators
+
 - User content - PageViews
 - DevRel content - PageViews
 - Contributors - Contributors per month

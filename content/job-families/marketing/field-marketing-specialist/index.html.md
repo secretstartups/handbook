@@ -21,6 +21,7 @@ APAC
 - Assist the Field Marketing Manager in seeking both financial and marketing leadership approval on campaigns prior to campaign planning and execution.
 
 ## Requirements
+
 - 2+ years experience in marketing or event management with the desire to learn more about Field Marketing.
 - Organized and efficient, able to develop and execute against a clear plan.
 - Able to clearly communicate new ideas, products, and campaigns to both internal and external stakeholders.

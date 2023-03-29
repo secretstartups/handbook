@@ -3,10 +3,11 @@ layout: job_family_page
 title: Frontend Engineering - Marketing
 description: "Frontend Engineering on the Marketing team work on our marketing site. They work closely with product marketing, content marketing, and other members of the Marketing team."
 ---
- 
+
 Frontend Engineers on the Marketing team work on our marketing site: about.GitLab.com. They work closely with product marketing, content marketing, and other members of the Marketing team. They are a part of the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/), and report to the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
 
 ## Responsibilities
+
 - Work with the Marketing Strategy and Platforms team and other stakeholders (Content, DemandGen, Brand, etc.) to iterate on new features and improvements to GitLab's digital marketing platform.
 - Consistently ship small features and improvements to our [Slippers design system](https://gitlab.com/gitlab-com/marketing/digital-experience/slippers-ui)
 - Help improve the overall experience of our Marketing website through improving the quality of the Frontend features.
@@ -14,6 +15,7 @@ Frontend Engineers on the Marketing team work on our marketing site: about.GitLa
 - Help plan sprints and complete prioritized issues from the issue tracker.
 
 ## Requirements
+
 - Knowledge of HTML, CSS, HAML and JavaScript (jQuery, Vue.js).
 - Experience with responsive design and best practices.
 - Knowledge of current web accessibility standards and requirements.
@@ -33,7 +35,7 @@ Frontend Engineers on the Marketing team work on our marketing site: about.GitLa
 
 ## Levels
 
-### Frontend Engineer (Intermediate)  
+### Frontend Engineer (Intermediate)
 
 The Frontend Engineer (Intermediate) reports the the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
 
@@ -42,22 +44,25 @@ The Frontend Engineer (Intermediate) reports the the [Director, Digital Experien
 The Frontend Engineer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Frontend Engineer (Intermediate) Responsibilities
+
 - Partner with team members on the simplest solutions to problems.
 - Develop features and enhancements to GitLab's marketing site in a secure, well-tested, and performant way.
 - Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
 
 #### Frontend Engineer (Intermediate) Requirements
+
 - 3-5 years experience specializing in frontend development for websites and web applications.
 
-### Senior Frontend Engineer  
+### Senior Frontend Engineer
 
 The Senior Frontend Engineer reports the the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).
 
 #### Senior Frontend Engineer Job Grade
 
-The Senior Frontend Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+The Senior Frontend Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Frontend Engineer Responsibilities
+
 - Work with cross functional partners, acting as a team leader.
 - Advocate for improvements to Marketing website quality, security, and performance that have particular impact across your team.
 - Help to define and improve our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
@@ -65,6 +70,7 @@ The Senior Frontend Engineer is a [grade 7](https://about.gitlab.com/handbook/to
 - Consistently ship moderately sized features and improvements with minimal guidance from other team members.
 
 ### Senior Frontend Engineer Requirements
+
 - 6+ years experience specializing in frontend development for websites and web applications.
 - Critical decision making, and knowing what will have the biggest business impact when prioritizing.
 - Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems.
@@ -76,9 +82,10 @@ The Manager, Engineering reports the the [Director, Digital Experience](/job-fam
 
 #### Manager, Engineering Job Grade
 
-The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Engineering Responsibilities
+
 - Seek to build out a great team
 - Make your team happy and successful
 - Improve processes to make your team more effective
@@ -90,6 +97,7 @@ The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-
 - Discern engineering metrics and seek to improve them
 
 #### Manager, Engineering Requirements
+
 - Collaborate effectively with others
 - Ability to achieve consensus amongst stakeholders
 - 5 years or more experience related to the responsibilities listed above.
@@ -108,6 +116,7 @@ The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-
 - You have domain knowledge relevant to GitLab's Marketing site
 
 ## Performance Indicators
+
 - [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
 - [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
 - [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)

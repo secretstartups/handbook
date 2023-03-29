@@ -5,17 +5,17 @@ title: "Marketing Operations Roles"
 
 You understand that setting a foundation for healthy growth in a fast-paced company is effective marketing operations. In all cases, you share our [values](https://about.gitlab.com/handbook/values/)
 
-# Marketing Operations Independent Contributor (IC) Levels
+## Marketing Operations Independent Contributor (IC) Levels
 
-## Associate Marketing Operations Manager
+### Associate Marketing Operations Manager
 
 Your job is to support the Marketing Operations team in meeting our goals of optimizing technology to enable effective marketing at GitLab, ensuring high data quality and helping colleagues access that data to enable smarter decisions, and assisting in marketing analysis, planning and strategy.  This is an entry level position for Marketing Operations.
 
-### Job Grade
+#### Job Grade
 
 The Associate Marketing Operations Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 Marketing technology
 - Learning tools that marketing has in place to act as backup on various systems as needed
@@ -30,7 +30,7 @@ Marketing data stewardship
 Marketing analysis
 - Providing support to team with ad hoc analysis and/or the underlying data as needed
 
-### Requirements
+#### Requirements
 
 - Exemplary spoken and written English.
 - Experience in sales and/or marketing teams of B2B software, Open Source software, and the developer tools space is preferred.
@@ -42,15 +42,15 @@ Marketing analysis
 - You're a self starter, willing to read and watch in order to learn.  (Be ready to learn and how to use GitLab and Git).
 - Ability to use GitLab.
 
-## Marketing Operations Manager (Intermediate)
+### Marketing Operations Manager (Intermediate)
 
 Your job as marketing operations manager is threefold: maintaining, optimizing, and integrating a set of marketing tech stacks, including Marketo and Outreach. You will work closely with business partners across the organization and help impact change and optimization. You will be able to drive key quarterly OKRs.
 
-### Job Grade
+#### Job Grade
 
 The Marketing Operations Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 Marketing technology
 - Maintain Marketo’s performance and optimize processes.
@@ -60,14 +60,14 @@ Marketing technology
 
 Marketing data stewardship
 - Be proactive and review functionality, workflow, and updating landing pages.
-- Investigate data quality and continuously improve on data quality.  
+- Investigate data quality and continuously improve on data quality.
 - Maintain Marketo database quality, ensure GDPR / CASL compliance.
 
 Marketing data examination
 - Assist in measuring and investigating the different tools.
 - Assist key business partners in measuring the effectiveness of marketing campaigns and marketing automation programs.
 
-### Requirements
+#### Requirements
 
 All of the above requirements and:
 - Two plus years of experience in Marketing Operations or related role.
@@ -77,20 +77,20 @@ All of the above requirements and:
 - You are obsessed with making customers happy. You know that the slightest trouble in getting started with a product can ruin customer happiness.
 - Be ready to learn how to use GitLab and Git.
 
-## Senior Marketing Operations Manager
+### Senior Marketing Operations Manager
 
-### Job Grade
+#### Job Grade
 
 The Senior Marketing Operations Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 All of the above responsibilities and:
 - Oversee strategic and operational initiatives across marketing and with other functions to drive performance improvements, continuously enhance the impact of marketing and help the company continue along its fast growth trajectory.
 - Collaborate across functions to structure problems, conduct analysis, and drive to solutions through a rigorous, data-driven process.
 - Create and manage project plans with clearly defined deliverables and resources, coordinate work streams and dependencies, track and communicate progress, and identify obstacles and ensure they are addressed.
 
-### Requirements
+#### Requirements
 
 All of the above requirements and:
 - Excellent spoken and written English.
@@ -99,17 +99,17 @@ All of the above requirements and:
 - Exemplary oral and written communication skills, including ability to concisely present project deliverables.
 - Ability to work successfully with little guidance.
 
-## Staff Marketing Operations Manager
+### Staff Marketing Operations Manager
 
-### Job Grade
+#### Job Grade
 
 The Staff Marketing Operations Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Justification
+#### Justification
 
 The business need for an individual contributor Staff Manager Marketing Operations Manager role is to have a team member with a high level of expertise working with cross-functional groups and to be able to confidently drive facilitation of problem-solving and influence decisions by being a technical/functional knowledge expert that articulates ideas very well. Heavy cross-department collaboration is expected with a greater emphasis on being a thought partner and having a strong problem-solving skillset. This position is needed to help with alignment with our growing stakeholder list across the company that has complex work requirements we need to support but sometimes do not have a dedicated project driver.  In the market, there are over 75 organizations that typically have 3 to 4 staff level team members.
 
-### Responsibilities
+#### Responsibilities
 
 All of the above responsibilities and:
 - Provide technical and functional knowledge to projects that contribute to overall direction across teams.
@@ -119,7 +119,7 @@ All of the above responsibilities and:
 - Make technical and project decisions for the team.
 - Implement technical and strategic decisions across teams.
 
-### Requirements
+#### Requirements
 
 All of the above requirements and:
 - Can understand and work on complex problems requiring a deep understanding of multiple sources of data to make a recommendation.
@@ -130,17 +130,17 @@ All of the above requirements and:
 - Very well spoken and can articulate thoughts and solutions well.
 - Ability to work successfully with little guidance.
 
-## Principal Marketing Operations Manager
+### Principal Marketing Operations Manager
 
-### Job Grade
+#### Job Grade
 
 The Principal Marketing Operations Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Justification
+#### Justification
 
 The business need for an individual contributor Staff Manager Marketing Operations Manager role is to have a team member with a high level of expertise working with cross-functional groups and to be able to confidently drive facilitation of problem-solving and influence decisions by being a technical/functional knowledge expert that articulates ideas very well. Heavy cross-department collaboration is expected with a greater emphasis on being a thought partner and having a strong problem-solving skillset. This position is needed to help with alignment with our growing stakeholder list across the company that has complex work requirements we need to support but often don’t have a project driver.
 
-### Responsibilities
+#### Responsibilities
 
 - Drives strategic decision-making across teams and sub-departments.
 - Relationship-building with key decision makers and working on unique issues where the solution requires research and cross-team alignment.
@@ -152,7 +152,7 @@ The business need for an individual contributor Staff Manager Marketing Operatio
 - Impact results across teams.
 - Expert in using Gitlab.
 
-### Requirements
+#### Requirements
 
 - Experience working across teams on alignment and being the go-to for managers on complex projects or programs.
 - Entrepreneur mindset that can get projects kicked off with little/no support across teams and sub-departments.
@@ -160,20 +160,20 @@ The business need for an individual contributor Staff Manager Marketing Operatio
 - Able to analyze issues and make decisions impacting multiple teams. These decisions may involve more team members and resources and generally at a higher level of risk and complexity than the manager level.
 - Experience working across teams and/or Sub-department. Often collaborating with Senior Managers/Directors.
 
-# Marketing Operations People Manager Levels
+## Marketing Operations People Manager Levels
 
-## Manager, Marketing Operations
+### Manager, Marketing Operations
 
-### Job Grade
+#### Job Grade
 
 The Manager, Marketing Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 - Effectively influence, align, and collaborate with key functions, particularly Sales, Finance, Compliance, and Legal.
 - Recruit, develop and guide a team to execute on key marketing strategies.
 
-### Requirements
+#### Requirements
 
 - 8+ years of experience with go-to-market operations strategy and business analytics.
 - 5+ years of experience managing marketing vendors and/or team management.
@@ -185,17 +185,17 @@ The Manager, Marketing Operations is a [grade 8](https://about.gitlab.com/handbo
 - Superb analytical, problem-solving capability and help the team make sound conclusions.
 - You believe in teamwork and are not afraid of rolling up your sleeves.
 
-### Career Ladder
+#### Career Ladder
 
 The next step in a Manager, Marketing Operations' career at GitLab is to be a Senior Manager, Marketing Operations. The next step after that would be [Director, Marketing Operations.](https://about.gitlab.com/job-families/marketing/director-marketing-operations/).
 
-## Senior Manager, Marketing Operations
+### Senior Manager, Marketing Operations
 
-### Job Grade
+#### Job Grade
 
 The Senior Manager, Marketing Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and extends the responsibilities of the grade 8 manager level.
 
-### Responsibilities
+#### Responsibilities
 
 - Strategize, prioritize, frame discussions, goal set, and provide leadership across multiple teams and/or the Sub-Department.
 - Fosters decision-making and problem-solving aligned with GitLab's Values across multiple teams and/or Sub-Department.
@@ -205,7 +205,7 @@ The Senior Manager, Marketing Operations is a [grade 9](https://about.gitlab.com
 - Anticipate shifts in direction/strategy, and knows when to prepare or adapt the team based on interactions with leaders and others.
 - Recruit and have a healthy pipeline of talent within the team and create development plans for team members.
 
-### Requirements
+#### Requirements
 
 - Expert experience with go-to market operations, martech, and business analyics.
 - 6+ years of team management and managing vendors
@@ -220,20 +220,20 @@ The Senior Manager, Marketing Operations is a [grade 9](https://about.gitlab.com
 - Lead by example. Can drive decision making but can also roll up your sleeves.
 - Able to Escalate issues to appropriate levels of authority when decisions or progress are blocked and are able to frame the issue.
 
-### Career Ladder
+#### Career Ladder
 
 The next step in a Senior Manager, Marketing Operations career ladder would be [Director, Marketing Operations.](https://about.gitlab.com/job-families/marketing/director-marketing-operations/).
 The next step after that would be [Director, Marketing Operations.](https://about.gitlab.com/job-families/marketing/director-marketing-operations/).
 
-## Director, Marketing Operations
+### Director, Marketing Operations
 
 As the Director of Marketing Operations, you will be responsible for leading the team that ensures effective strategy, efficient investment, and accountability across the GitLab marketing department. You will be responsible for ensuring marketing technology is customized to the needs of its users as well as set up to ensure effective data quality. You will also lead process development, budget administration, and marketing analytics.
 
-### Job Grade
+#### Job Grade
 
 The Director, Marketing Operations is a grade 10.
 
-### Responsibilities
+#### Responsibilities
 
 - Define the Marketing Operations vision and strategy that enables intelligent decisions through precise analysis.
 - Own the marketing operations roadmap, ensuring marketing technology is evaluated, selected, implemented and customized to meet the needs of the marketing department.
@@ -247,7 +247,7 @@ The Director, Marketing Operations is a grade 10.
 - Manage, build, and lead a strong team by coaching and developing existing members and closing talent gaps where needed through acquisition of new team members.
 - Negotiate contracts with vendors.
 
-### Requirements
+#### Requirements
 
 - 10+ years of experience including:
 - 5+ years of management experience.
@@ -264,17 +264,17 @@ The Director, Marketing Operations is a grade 10.
 - Leadership at GitLab.
 - Ability to use GitLab.
 
-### Career Ladder
+#### Career Ladder
 
 The next step in a Director, Marketing Operations' career at GitLab is to be a Senior Director, Marketing Operations.
 
-## Senior Director, Marketing Operations
+### Senior Director, Marketing Operations
 
-### Job Grade
+#### Job Grade
 
 The Senior Director, Marketing Operations is a grade 11.
 
-### Responsibilities
+#### Responsibilities
 
 - Align leadership to marketing operations strategy and work with other teams/sub-departments to get alignment on how their teams plug in and provide feedback.
 - Drive alignment with other teams/sub-departments on the marketing operations roadmap and whether future iterations fit the needs of the marketing leadership team.
@@ -290,7 +290,7 @@ The Senior Director, Marketing Operations is a grade 11.
 - Sets key objectives within the Department and enables the team to achieve results through removing blockers and allocating resources.
 - Communicate within highly visible activities such as speaking with customers, influencing other executives, and representing GitLab on matters of importance to the organization.
 
-### Requirements
+#### Requirements
 
 - 11+ years of experience including:
 - 7+ years of management experience.
@@ -309,7 +309,7 @@ The Senior Director, Marketing Operations is a grade 11.
 - Ability to use GitLab.
 - Uses financial information to keep Department on budget and focused on the right business priorities.
 
-### Marketing Operations Themes for FY23
+#### Marketing Operations Themes for FY23
 
 - Improve data quality to strengthen lead routing, speed to lead, and data integrity
 - Marketing Operations Martech roadmap is compliant with privacy and clear tool swimlanes are documented
@@ -317,7 +317,7 @@ The Senior Director, Marketing Operations is a grade 11.
 - Improve funnel and operational efficiency
 - Enhance lead scoring, routing, and contact data quality
 
-### Performance Indicators for Marketing Operations
+#### Performance Indicators for Marketing Operations
 
 - MOPs martech roadmap: consolidate martech where possible, increase user adoption, utilization, and ROI
 - Increase conversation to meetings scheduled rate by 2% (currently 8.7% conversion) via Drift

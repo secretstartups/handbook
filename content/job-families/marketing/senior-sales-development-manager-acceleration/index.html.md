@@ -9,7 +9,6 @@ As a Senior Manager of Sales Development at GitLab, you’ll get the opportunity
 
 The Senior Manager, Sales Development is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-
 ## Responsibilities
 
 - Build and train members of the Sales Development team to identify, contact, and create qualified opportunities
@@ -26,6 +25,7 @@ The Senior Manager, Sales Development is a [grade 9](https://about.gitlab.com/ha
 - Assist with recruiting, hiring, and onboarding new Sales Development Representatives
 
 ## Requirements
+
 - 5+ years management experience in sales, sales operations, marketing, or customer service for a technical product
 - A proven track record of delivering sales pipeline at a fast growing company with multiple sales segments with an inbound and outbound model
 - Attract, retain, and motivate exceptional team memebers

@@ -8,32 +8,22 @@ twitter_site: "gitlab"
 twitter_creator: "gitlab"
 ---
 
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## Social Marketing Jobs at GitLab
 
 Social Media requires a balance of work behind each of the two words that make up the practice. _Social_, by building trust with our audiences and connecting as personally as appropriate, and _Media_, by scaling our storytelling efforts to brand-level corporate marketing initiatives.
 
 #### The "Social" in Social Media
 
-{:.no_toc}
 The world's best brands feel more like a trusted source of information to their audience than a company. They could even develop friendly relationships with their followers. This is because the world's best brands understand people and weave that understanding into everything they do. Social Marketing at GitLab is a key part of building GitLab's brand into one that is loved by its audience of developers, remote work pros, and IT folks up and down the ladder.
 
 Social Marketing at GitLab focuses on understanding people who make up the GitLab community, creating and sharing content over social channels that they'll find valuable, and educating team members in marketing and beyond on social media best practices for brands, personalities, and how we measure success.
 
 #### The "Media" in Social Media
 
-{:.no_toc}
 The world's most renowned brands are perceived to be larger than life. As GitLab scales to new heights, the Social Marketing team prioritizes opportunities for brand-level storytelling initiatives. By sharing our company values, perspectives on remote work, or leaning into our product's features, we'll help users understand how they feel about GitLab overall.
 
 #### Our perspective on the practice of Social Media
 
-{:.no_toc}
 GitLab is a unique company to work for. While the demands of social marketing don't necessarily turn off, our team has leaned into GitLab's values as a way to build the social marketing department of the future. We do best-in-class work and deliver on our expectations but do not allow the perils of working in social media to burn us out or damage our mental health. We take our company values seriously and integrate them into our daily work as often as possible.
 
 ## Responsibilities
@@ -62,6 +52,7 @@ _Vary by job grade but include:_
 ## Performance Indicators
 
 _May vary by specific job grade or specialty but generally include:_
+
 - Social Ad Value - GitLab-specific social media advertising dollar equivalent (e.g. what GitLab would have had to spend in ad dollars to receive a similar ROI for organic social media efforts). The specific values vary by campaign, timelines, and average cost of advertising at the time.
 - Engagement Rate - the number of times during a reporting period that users engaged with our posts as a percentage of impressions. This metric indicates how engaging particular content or campaigns are overall. Each channel has its own performance average and individual CTAs and campaigns will also be unique
 - Other indicators in relation to the two above which may include: follower growth, follower growth rate, impressions, clicks, response volume
@@ -100,20 +91,16 @@ Everything is public by default, including our typos, bad takes, and iterations.
 
 #### Job Grade
 
-{:.no_toc}
 The Social Marketing Associate is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Responsibilities
 
-{:.no_toc}
 - Write copy and schedule organic social content across channels
 - Monitor and engage with users across social channels who mention us, share their content with our team as appropriate
 - Work with the team to ensure social amplification and engagement is incorporated as part of integrated campaign strategy and execution
 - Contribute to reporting efforts across campaigns and milestones
 
 #### Role Requirements
-
-{:.no_toc}
 
 - Minimum of 1 year of overall professional experience
 - 1-3 years of experience in a social media-related role
@@ -129,12 +116,10 @@ The Social Marketing Associate is a [grade 5](https://about.gitlab.com/handbook/
 
 #### Job Grade
 
-{:.no_toc}
 The Social Marketing Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Responsibilities
 
-{:.no_toc}
 All of the responsibilities of an associate, plus:
 
 - General management of the social calendar and craft social campaigns that will help engage, grow and educate our followers
@@ -144,7 +129,6 @@ All of the responsibilities of an associate, plus:
 
 #### Requirements
 
-{:.no_toc}
 - Minimum of 3 years of overall professional experience
 - 3-5 years experience in a social marketing-related role, preferably in software marketing
 - Proven ability to manage social media channels
@@ -157,12 +141,10 @@ All of the responsibilities of an associate, plus:
 
 #### Job Grade
 
-{:.no_toc}
 The Senior Social Marketing Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Responsibilities
 
-{:.no_toc}
 All of the responsibilities of a manager, plus:
 
 - Independently develop and execute social marketing campaigns from small to large
@@ -175,7 +157,6 @@ All of the responsibilities of a manager, plus:
 
 #### Requirements
 
-{:.no_toc}
 - Minimum of 5 years of overall professional experience
 - 3+ years in a social media-related role
 - 1+ years of enterprise software marketing experience
@@ -189,6 +170,7 @@ All of the responsibilities of a manager, plus:
 ### Staff Social Marketing Manager
 
 Market Justification
+
 - The Staff Social Marketing Manager role will provide a high level of expertise in solving complex problems with a strong understanding of integrated marketing campaigns, audience, and paid & organic social marketing strategy.
 - Additionally, this role will be key in bridging existing gaps between organic social marketing efforts and more enterprise integrated digital marketing initiatives, helping to shape GitLab’s new digital marketing experience.
 - Within public enterprise B2B technology organizations, approximately 1-3 team members exist in similar or the same role(s), particularly as a cross-section between social and digital marketing.
@@ -199,15 +181,15 @@ Staff Social Marketing Managers on the Social Marketing team are prolific and cr
 
 #### Job Grade
 
-{:.no_toc}
 The Staff Social Social Marketing is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) individual contributor role.
 
 #### Responsibilities
 
-{:.no_toc} Extends that of the Senior Social Marketing Manager role, plus:
+Extends that of the Senior Social Marketing Manager role, plus:
+
 - Defines, implements, and regularly iterates on GitLab's social media marketing strategies with a particular focus on integrated digital marketing campaigns
 - Leads end-to-end brand social media marketing campaigns - including paid social where appropriate
-- Oversees all external contributors, like agency vendors and individual contractors, including directing them as appropriate  
+- Oversees all external contributors, like agency vendors and individual contractors, including directing them as appropriate
 - Operates as the social marketing expert on the cross-functional digital marketing team, collaborating on campaign strategy, position, messaging and customer journey mapping and engagement, ensuring social’s contribution to integrated marketing performance
 - Performs regular gap analysis to identify areas of success, improvement, and opportunity
 - Educates team members on social media best practices and manages social media team member engagement program to increase brand awareness
@@ -215,7 +197,6 @@ The Staff Social Social Marketing is a [grade 8](https://about.gitlab.com/handbo
 
 #### Requirements
 
-{:.no_toc}
 - Minimum of 7 years of overall professional experience
 - 5+ years in a social marketing-related role
 - 1+ years of enterprise software marketing experience
@@ -226,7 +207,6 @@ The Staff Social Social Marketing is a [grade 8](https://about.gitlab.com/handbo
 
 #### Career Ladder for Grade 8 IC
 
-{:.no_toc}
 - Additional individual contributor roles beyond grade 8 are not yet defined at GitLab
 - Staff Social Marketing Managers may shift toward team leadership or people management by moving to a grade 8 or grade 9 manager role
 
@@ -240,12 +220,10 @@ Managers in the Social Marketing team are prolific and creative social media str
 
 #### Job Grade
 
-{:.no_toc}
 The Manager, Social Marketing is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Responsibilities
 
-{:.no_toc}
 - Define, implement, and regularly iterate on GitLab's social media marketing strategy
 - Oversee all social marketing initiatives
 - Collaborate with various teams on campaign strategy, position, and messaging
@@ -254,7 +232,6 @@ The Manager, Social Marketing is a [grade 8](https://about.gitlab.com/handbook/t
 
 #### Requirements
 
-{:.no_toc}
 - Minimum of 7 years of overall professional experience
 - 5+ years in a social media-related role
 - 1+ years of enterprise software marketing experience
@@ -274,12 +251,10 @@ Senior Managers in the Social Marketing team take their role as a people manager
 
 #### Job Grade
 
-{:.no_toc}
 The Senior Manager, Social Marketing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Responsibilities
 
-{:.no_toc}
 - Integrate personal social media management philosophy, GitLab's brand voice, and GitLab's values into our social media strategy and content
 - Lead on campaigns, positioning, and messaging as the expert on the GitLab brand
 - Ability to roll up your sleeves when needed
@@ -290,7 +265,6 @@ The Senior Manager, Social Marketing is a [grade 9](https://about.gitlab.com/han
 
 #### Requirements
 
-{:.no_toc}
 - 8+ years of overall professional experience
 - 6+ years in a social media-related role
 - 2+ years of enterprise software marketing experience
@@ -313,11 +287,11 @@ Anonymous data on social media experience is not accepted. Candidates are requir
 Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 - Next, candidates will be invited to schedule a series of 30-45 minute interviews that may include:
- - Our Head of Social Media
- - At least one other member of the social media team
- - Our Director of Corporate Communications
- - A member of a supporting team in events, evangelism, partner marketing, or digital marketing
- - Our Vice President of Integrated Marketing
+- Our Head of Social Media
+- At least one other member of the social media team
+- Our Director of Corporate Communications
+- A member of a supporting team in events, evangelism, partner marketing, or digital marketing
+- Our Vice President of Integrated Marketing
 - Finally, our CMO may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email.
 
