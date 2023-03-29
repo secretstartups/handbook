@@ -166,7 +166,7 @@ No, not at this time.
 | March 27   |  Available | |
 | April 3    |  Available | |
 | April 10   |  Available | |
-| April 17   |  Available | |
+| April 17   |  [Jonathan Ducharme](https://www.linkedin.com/in/ducharme-jonathan/) | Non-Gitlab shadow - Engineering Manager at AlleyCorp Nord |
 | April 24   |  [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer from [Alarm.com](https://alarm.com/) |
 | May 1      |  Available | |
 | May 8      |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager - Netflix |
