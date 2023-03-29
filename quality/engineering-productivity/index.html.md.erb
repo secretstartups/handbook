@@ -9,37 +9,88 @@ description: "The Engineering Productivity team increases productivity of GitLab
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-#### Child Pages
-{:.no_toc}
+## Vision
 
-##### [GDK](/handbook/engineering/quality/engineering-productivity/gdk/)
-{:.no_toc}
+Peak GitLab customer results, efficiently and sustainably delivered by an unencumbered, and toil-free engineering team.
 
-##### [Flaky tests](/handbook/engineering/quality/engineering-productivity/flaky-tests/)
-{:.no_toc}
+## Mission
 
-## Common Links
+Increase GitLab's customer outcomes through efficiency improvements for our entire engineering team. Develop a comprehensive measure of key outcomes and focus on improvements. Measure quality of life, efficiency, and toil reduction improvements in the context of subjective and objective measures. The Engineering Productivity team can't drive efficiency without being efficient ourselves. Measure what matters and focus on that. Build partnerships across organizational boundaries to deliver broad, multi-functional improvements. 
+
+## KPIs
+
+- [Master Pipeline Stability](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#master-pipeline-stability)
+- [Review app deployment success rate](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#review-app-deployment-success-rate)
+- [Time to First Failure (TtFF)](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#time-to-first-failure)
+
+## OKRs
+
+See [FY24Q1 Engineering Productivity OKRs (internal link)](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/122796026)
+
+- [Obj: ARR - Improve Development Efficiency (internal link)](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/905?iid_path=true)
+  - KR: Improve master stability from 94% to 97%
+  - KR: Implement dynamic test parallelization
+  - KR: Improve test intelligence accuracy
+- [Obj: Product - Mature development tools (internal link)](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/930?iid_path=true)
+  - KR: Deliver the first iteration of Development Satisfaction Score
+  - KR: Mature JH Validation Pipeline
+  - KR: GDK Performance Enhancements
+- [Obj: Team Growth and Development (internal link)](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1004?iid_path=true)
+
+## Team
+
+### Members
+
+<%= direct_team(manager_role: 'Director of Engineering Productivity', extra_slugs: ['remy-c']) %>
+
+### Stable Counterpart
+
+| Person | Role |
+| --- | --- |
+| Greg Alfaro | [GDK Project Stable Counterpart](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/gdk/), Application Security |
+
+### Structure
+
+```mermaid
+graph TD
+    A[Infrastructure Quality Department]
+    A --> B(Engineering Analytics)
+    A --> P(Platforms)
+    A --> D(Quality Engineering)
+    A --> E(Engineering Productivity)
+    A --> R(Reliability)
+
+    click A "/handbook/engineering/quality"
+    click B "/handbook/engineering/quality/engineering-analytics"
+    click D "/handbook/engineering/quality/quality-engineering"
+    click E "/handbook/engineering/quality/engineering-productivity"
+    click P "/handbook/engineering/infrastructure/platforms/"
+    click R "/handbook/engineering/infrastructure/reliability/"
+
+    style E fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
+```
+### Communication
 
 | **GitLab Team Handle** | [`@gl-quality/eng-prod`](https://gitlab.com/gl-quality/eng-prod) |
 | **Slack Channel** | [`#g_engineering_productivity`](https://gitlab.slack.com/archives/CMA7DQJRX) |
 | **Team Boards** | [Team Board](https://gitlab.com/groups/gitlab-org/-/boards/978615) & [Priority Board](https://gitlab.com/groups/gitlab-org/-/boards/1333450) |
 | **Issue Tracker** | [`gitlab-org/quality/engineering-productivity/team`](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/) |
 
+### Child Pages
+{:.no_toc}
+
+#### [GDK](/handbook/engineering/quality/engineering-productivity/gdk/)
+{:.no_toc}
+
+#### [Flaky tests](/handbook/engineering/quality/engineering-productivity/flaky-tests/)
+{:.no_toc}
+
+#### [Make review apps faster](/handbook/engineering/quality/engineering-productivity/make-review-apps-faster/)
+{:.no_toc}
+
 ### Office hours
 
 Engineering productivity has monthly office hours on the 3rd Wednesday of the month at 3:00 UTC (20:00 PST) on even months (e.g February, April, etc) open for anyone to add topics or questions to the [agenda](https://docs.google.com/document/d/1_4BapuLIufA_OJ1YSdqdq-aLw4kjBLWQZw2hqSKDsJc/edit#). Office hours can be found in the [GitLab Team Meetings calendar](https://about.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar)
-
-## Vision
-
-The Engineering Productivity team increases productivity of GitLab team members and contributors by shortening feedback loops and improving workflow efficiency for GitLab projects. The team uses a quantified approach to identify improvements and measure results of changes.
-
-### Mission
-
-[Increase pipeline stability](/handbook/engineering/quality/performance-indicators/#master-pipeline-stability), [shorten the feedback loop](/handbook/engineering/quality/performance-indicators/#time-to-first-failure), reduce pipeline cost, and [reduce pipeline duration](/handbook/engineering/quality/performance-indicators/#merge-request-pipeline-duration) for GitLab projects focusing on projects with the largest reach, leveraging GitLab features where possible.
-
-Improve engineering workflow automation to decrease [Open MR Review Time (OMRT)](/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt) and [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma), and decrease [open ~"type::bug" age](/handbook/engineering/quality/performance-indicators/#s1-oba).
-
-Collaborate with the [Contributor Success team](/handbook/marketing/community-relations/contributor-success/) to enable frequent and positive experience of contributions from the Wider GitLab Community.
 
 ### Workstream objectives
 
@@ -52,7 +103,7 @@ The Engineering Productivity team focuses on the following workstreams and the a
 | ~"ep::triage" | [Quality: Triage](https://gitlab.com/groups/gitlab-org/-/epics/1461) |
 | ~"ep::workflow" | [Reviewer Roulette Improvements](https://gitlab.com/groups/gitlab-org/-/epics/3287) |
 
-## Areas of Responsibility
+### Areas of Responsibility
 
 * **See it and find it**: Build automated measurements and dashboards to gain insights into the productivity of the Engineering organization to identify opportunities for improvement.
   * Implement new measurements to provide visibility into improvement opportunities.
@@ -76,41 +127,7 @@ The Engineering Productivity team focuses on the following workstreams and the a
 * **Do it for wider community**: Increase efficiency for wider GitLab Community contributions.
 * **Dogfood build**: Enhance and add new features to the GitLab product to improve engineer productivity.
 
-## Team Structure
-
-Engineering Productivity team resides under the Quality Department operating as a team of Full-stack engineers, led by an Engineering Manager reporting to the
-Quality Department Leader.
-
-```mermaid
-graph TD
-    A[Quality Department]
-    A --> B[Engineering Analytics Team]
-    A --> D(Quality Engineering)
-    A --> E[Engineering Productivity Team]
-    E --> EA[Engineering Productivity Engineer]
-    E --> EB[Engineering Productivity Engineer]
-
-    click A "/handbook/engineering/quality"
-    click B "/handbook/engineering/quality/engineering-analytics"
-    click D "/handbook/engineering/quality/quality-engineering"
-    click E "/handbook/engineering/quality/engineering-productivity"
-
-    style E fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
-    style EA fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
-    style EB fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
-```
-
-## Team Members
-
-<%= direct_team(manager_role: 'Director of Engineering Productivity', extra_slugs: ['remy-c']) %>
-
-### Stable Counterpart
-
-| Person | Role |
-| --- | --- |
-| Greg Alfaro | [GDK Project Stable Counterpart](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/gdk/), Application Security |
-
-## Team meetings
+### Meetings
 
 Engineering Productivity has an alternating [weekly team meeting schedule](https://docs.google.com/document/d/1yzHuosvykzb_kaldjGP9I6wxpNpMXdNEvEFBkHyZpXs/edit#) to allow for all team members to collaborate in times that work for them.
 
@@ -126,11 +143,11 @@ Showcases are done every two months and will be voted on by the team asynchronou
 1. Team members vote with `:thumbsup:` reactions on the ideas they'd like to hear about.
 1. Engineering Manager will identify a DRI to lead the showcase and schedule for the second week of the odd month.
 
-## Work prioritization
+### Work prioritization
 
 The Engineering Productivity team uses [modified prioritization and planning guidelines](prioritization.html) for targeting work within a Milestone.
 
-## Projects
+### Projects
 
 1. `gitlab-org/gitlab` [pipeline configuration, optimization, and stability](https://docs.gitlab.com/ee/development/pipelines.html).
 1. `gitlab-org/gitlab` [Review apps](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html) provisioning and [infrastructure](https://gitlab.com/gitlab-org/quality/engineering-productivity-infrastructure/-/tree/main/review-apps).
@@ -143,30 +160,7 @@ The Engineering Productivity team uses [modified prioritization and planning gui
 1. [GitLab feature flag alert](https://gitlab.com/gitlab-org/gitlab-feature-flag-alert) for reporting on GitLab feature flags.
 1. [GitLab RSpec Profiling Statistics](https://gitlab.com/gitlab-org/rspec_profiling_stats) for profiling information on RSpec tests in CI.
 
-## Active Quarter OKRs
-
-See [FY24Q1 Engineering Productivity OKRs(internal link)](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/122796026)
-
-- Obj: ARR - Improve Development Efficiency
-  - KR: Improve master stability from 94% to 97%
-  - KR: Implement dynamic test parallelization
-  - KR: Improve test intelligence accuracy
-- Obj: Product - Mature development tools
-  - KR: Deliver the first iteration of Development Satisfaction Score
-  - KR: Mature JH Validation Pipeline
-  - KR: GDK Performance Enhancements
-- Obj: Team Growth and Development
-
-## Previous Quarter OKRs
-
-Note: Due to the switch to GitLab's OKR system, we no longer have the ability to view the OKRs from FY23Q4. A hard-copy was made of the state of these OKRs as of 2023-01-30.
-
-- Obj: Product: Increase quality with test efficiency & customer insights
-  - KR: Reduce Time to First Failure P80 from 33 minutes to 20 minutes, 60%
-  - KR: Improve master stability from 90% to 95%, 60%
-  - KR: Improve pipeline incident triage efficiency, 93%
-
-## Engineering productivity team metrics
+### Metrics
 
 The Engineering Productivity team creates metrics in the following sources to aid in operational reporting.
 
@@ -186,22 +180,14 @@ The Engineering Productivity team creates metrics in the following sources to ai
   - [Overview dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/e3e9d8fc-54cd-4a98-b4a3-e81f01d37e26?project=gitlab-qa-resources&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1w)
   - [Processors dashboard](https://console.cloud.google.com/monitoring/dashboards/builder/3338d66b-649c-4ea9-aec9-14ffba96c25f?project=gitlab-qa-resources&dashboardBuilderState=%257B%2522editModeEnabled%2522:false%257D&timeDomain=1w)
 
-## Team gearing ratio
-
-**Exception Ratio**: 2 Staff+ Engineering Team
-
-**Justification**: Engineering Productivity has a wide focus to enable efficiency for GitLab code workflows. The team is implementing productivity improvements and globally optimizing for all workflows (GitLab, JiHu and Contributors). Staff+ team members focus on digging deep into feedback loop bottlenecks ([Solver](https://about.gitlab.com/handbook/engineering/ic-leadership/#solver)) and ensuring that the approach and implementation is scalable ([Tech Lead](https://about.gitlab.com/handbook/engineering/ic-leadership/#tech-lead)) by working with counterparts in Development and Infrastructure departments.
-
-**Future Growth or Anticipated Change**: It is expected that Engineering Productivity will maintain the current ratio during FY22 and re-evaluate in FY23.
-
-## Communication guidelines
+### Communication guidelines
 
 The Engineering Productivity team will make changes which can create notification spikes or new behavior for
 GitLab contributors. The team will follow these guidelines in the spirit of [GitLab's Internal Communication Guidelines](/handbook/people-group/employment-branding/people-communications/).
 
-### Pipeline changes
+#### Pipeline changes
 
-#### Critical pipeline changes
+##### Critical pipeline changes
 
 Pipeline changes that have the potential to have an impact on the GitLab.com infrastructure should follow the [Change Management](/handbook/engineering/infrastructure/change-management) process.
 
@@ -211,7 +197,7 @@ Pipeline changes that meet the following criteria must follow the [Criticality 3
 
 These kind of changes [led to production issues in the past](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3013).
 
-#### Non-critical pipeline changes
+##### Non-critical pipeline changes
 
 The team will communicate significant pipeline changes to [`#development`](https://gitlab.slack.com/messages/C02PF508L) in Slack and the Engineering Week in Review.
 
@@ -223,7 +209,7 @@ Pipeline changes that meet the following criteria will be communicated:
 
 Other pipeline changes will be communicated based on the team's discretion.
 
-### Automated triage policies
+#### Automated triage policies
 
 Be sure to give a heads-up to `#development`,`#eng-managers`,`#product`, `#ux` Slack channels
 and the Engineering week in review when an automation is expected to triage more
@@ -308,7 +294,7 @@ These strategies include:
 - Selective jobs via pipeline rules
 - Selective jobs via labels
 
-### Predictive test jobs via test mapping
+#### Predictive test jobs via test mapping
 
 Tests that provide coverage to the code changes in each merge request are most likely to fail. As a result, merge request pipelines for the [GitLab project](https://gitlab.com/gitlab-org/gitlab) run only the predictive set of tests by default. These include:
 - [RSpec predictive jobs](https://docs.gitlab.com/ee/development/pipelines/#rspec-predictive-jobs) which runs relevant RSpec tests that are mapped to the code changes
@@ -322,7 +308,7 @@ Test mapping is done via the [test_file_finder](https://gitlab.com/gitlab-org/ci
 
 The "Fail-fast" job we are experimenting with is a variation of this strategy. It is to run all of the RSpec tests that are most likely to fail in a single job created in an early stage of the pipeline. See the Fail-fast job section for details.
 
-### Fail-fast job
+#### Fail-fast job
 
 There is a [fail-fast job](https://docs.gitlab.com/ee/development/pipelinesx/#fail-fast-job-in-merge-request-pipelines) in each merge request pipeline aimed to run all the RSpec tests that provide coverage for the code changes, hence are most likely to fail. It uses the same [test_file_finder](https://gitlab.com/gitlab-org/ci-cd/test_file_finder) gem for test mapping. The job provides faster feedback by running early and stops the rest of the pipeline right away if any of the fail-fast job tests fail.
 Take a look at this [youtube video](https://www.youtube.com/watch?v=FCCbxZky5Nk) for details on how [GitLab](https://gitlab.com/gitlab-org/gitlab) implements the fail-fast job with test_file_finder.
@@ -330,18 +316,18 @@ Note that the current design only works with low-impacting merge requests which 
 
 Premium GitLab customers, who wish to incorporate the `Fail-Fast job` into their Ruby projects, can set it up with our [Verify/Failfast](https://docs.gitlab.com/ee/ci/testing/fail_fast_testing.html) template.
 
-### Re-run previously failed tests early
+#### Re-run previously failed tests early
 
 Tests that previously failed in a merge request are likely to fail again, so they provide the most urgent feedback in the next run.
 To grant these tests the highest priority, the [GitLab](https://gitlab.com/gitlab-org/gitlab) pipeline [prioritizes previously failed tests by re-running them early](https://docs.gitlab.com/ee/development/pipelines/#re-run-previously-failed-tests-in-merge-request-pipelines) in a dedicated job, so it will be one of the first jobs to fail if attention is needed.
 
-### Selective jobs via pipeline rules
+#### Selective jobs via pipeline rules
 
 The GitLab pipeline consists of hundreds of jobs, but not all are necessary for each merge request. For example, a merge request with only changes to documenation files do not need to run any backend tests, so we can exclude all backend test jobs from the pipeline.
 See [specify-when-jobs-run-with-rules](https://docs.gitlab.com/ee/ci/jobs/job_control.html#specify-when-jobs-run-with-rules) for how to include/exclude CI jobs based on file changes.
 Most of the pipeline rules for the [GitLab project](https://gitlab.com/gitlab-org/gitlab) can be found in <https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/ci/rules.gitlab-ci.yml>.
 
-### Selective jobs via labels
+#### Selective jobs via labels
 
 Developers can add labels to run jobs in addition to the ones selected by the pipeline rules. Those labels start with `pipeline:` and multiple can be applied. A few examples that people commonly use:
 
