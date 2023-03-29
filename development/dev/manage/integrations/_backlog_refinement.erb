@@ -30,12 +30,11 @@ to look:
 - [Bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aintegrations&label_name[]=type::bug&weight=None)
 - [Issues without weight](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aintegrations&weight=None)
 
-Once identified, the engineering manager will apply the `Backlog
-Refinement::Integrations`, which will indicate the issues are ready for
+Once identified, the engineering manager will apply the `ready for next refinement`, which will indicate the issues are ready for
 refinement.
 
 The engineering manager will use the [Refinement
-Bot](https://gitlab.com/gitlab-org/manage/integrations/refinement-bot)
+Bot](https://gitlab.com/gitlab-org/manage/integrate/refinement-bot)
 to generate an issue with all the issues that have been identified for
 refinement.
 
@@ -43,7 +42,7 @@ refinement.
 
 Over the week, each engineer on the team will look at the list of issues
 selected for backlog refinement. [Current backlog refinement
-issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=Backlog%20Refinement%3A%3AIntegrations).
+issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name%5B%5D=ready%20for%20next%20refinement).
 
 For each issue, each team member will review the issues and provide the
 following information:
@@ -71,7 +70,7 @@ After engineers have had a chance to provide input, the engineering manager will
 engineers, but the final decision is up to the engineering manager taking into
 consideration the uncertainty.
 - Inform stable counterparts if there are any testing or security concerns.
-- Remove the `Backlog Refinement::Integrations` label.
+- Remove the `ready for next refinement` label.
 
 For any issues that were not discussed and given a weight, the engineering
 manager will work with the engineers to see if we need to get more information
