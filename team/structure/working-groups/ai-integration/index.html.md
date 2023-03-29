@@ -86,3 +86,5 @@ The table below lists all exit criteria for the working group. This is the [top-
 | ML Engineering Representative | @achueshev | [Alexander Chueshev](https://about.gitlab.com/company/team/#achueshev) | Sr. Backend Engineer AI Assisted |
 | Third Party Security Risk Representative | @tdilbeck | [Ty Dilbeck](https://about.gitlab.com/company/team/#tdilbeck) | Security Risk Manager |
 | Governance and Field Security Representative | @jlongo_gitlab | [Joseph Longo](https://about.gitlab.com/company/team/#jlongo_gitlab) | Governance and Field Security Manager |
+| Security Automation Representative | @agroleau | [Alexander Groleau](https://about.gitlab.com/company/team/#agroleau) | Senior Security Engineering Manager (Automation) |
+| Security Automation Representative | @imand3r | [Ian Anderson](https://about.gitlab.com/company/team/#imand3r) | Staff Security Engineer (Automation) |
