@@ -39,7 +39,7 @@ The Professional Services Engagement Manager (Intermediate) is a [grade 6](https
 - Collaborative and consultative work style, ability to thrive in a high velocity, highly dynamic work environment
 - History of working in a consultative selling environment, where clients seek and value your opinions and see your advice as objective and unbiased
 - BA/BS or equivalent; MBA is a plus
-- * You share our values, and work in accordance with those values.
+- You share our values, and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/)
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
@@ -152,10 +152,11 @@ The Director, Professional Services Engagement Management is a [grade 10](https:
 - Lead, drive and implement our business strategy and plans to meet all business goals.
 
 #### Requirements
+
 - 5+ years of experience managing, leading, and/or delivering professional services or customer success.
 - 3+ years of experience with a subscription-based business model, delivering on-premises and SaaS solutions.
 - 3+ years of experience in Professional Services sales
-- Experience with consulting services focused on Software Development Lifecycle, Agile/DevOps transformation, Cloud Computing, implementation and migration services.  
+- Experience with consulting services focused on Software Development Lifecycle, Agile/DevOps transformation, Cloud Computing, implementation and migration services.
 - Experience partnering with Account Executives, presenting solutions, and implementation methodology during a sales process
 - Experience managing technical, cross-functional professional services teams (e.g., consulting, implementation, trainers, project managers) and delivery partners.
 - Ability to use GitLab

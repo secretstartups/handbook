@@ -18,6 +18,7 @@ The Senior Analyst, Online Sales & Self Service Growth reports to the Manager, O
 The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Develop strategies and drive team focus based on data insights and findings
 - Partner with Self-Service Growth Managers to create, execute, and measure experiments focused on driving business growth and improving the Self-Service customer experience
 - Partner with direct sales to transform our current go-to-market and support a larger self-service channel
@@ -91,6 +92,7 @@ The Senior Manager, Online Sales & Self Service Growth is a [grade 9](https://ab
 - Responsible for hiring and managing additional growth managers
 
 ### Requirements
+
 - Same requirements as the Manager listed above and also:
 - Ability to develop and foster relations across the organization. (Including sales, product, marketing, customer success)
 - Ability to convey complex information to executives and non-domain individuals
@@ -170,6 +172,7 @@ The Senior Director, Online Sales & Self Service Growth is a [grade 11](https://
 
 
 ## Performance Indicators
+
 - nARR vs. plan > 1
 - nARR efficiency > 1.0
 - Increased adoption of self-service solutions (buying & account management) driving increased customer satisfaction, efficiency and Rep productivity.

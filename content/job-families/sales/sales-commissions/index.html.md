@@ -38,6 +38,7 @@ The Junior Sales Commissions Analyst is a [grade 5](https://about.gitlab.com/han
 - Ability to use GitLab
 
 ## Performance Indicators
+
 - [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
 - [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
 - Rep [IACV per comp](https://about.gitlab.com/handbook/sales/#measuring-sales-rep-productivity)
@@ -73,6 +74,7 @@ The Intermediate Sales Commissions Analyst is a [grade 6](https://about.gitlab.c
 - Ability to use GitLab
 
 ## Performance Indicators
+
 - [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
 - [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
 - Rep [IACV per comp](https://about.gitlab.com/handbook/sales/#measuring-sales-rep-productivity)
@@ -108,6 +110,7 @@ The Senior Sales Commissions Analyst is a [grade 7](https://about.gitlab.com/han
 - Ability to use GitLab
 
 ## Performance Indicators
+
 - [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
 - [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
 - Rep [IACV per comp](https://about.gitlab.com/handbook/sales/#measuring-sales-rep-productivity)
@@ -147,6 +150,7 @@ The Senior Manager, Sales Commissions is a [grade 9](https://about.gitlab.com/ha
 - Ability to use GitLab
 
 ## Performance Indicators
+
 - [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
 - [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
 - Rep [IACV per comp](https://about.gitlab.com/handbook/sales/#measuring-sales-rep-productivity)

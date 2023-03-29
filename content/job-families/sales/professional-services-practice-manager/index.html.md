@@ -48,6 +48,7 @@ The Professional Services Practice Manager is a [grade 6](https://about.gitlab.c
 The Senior Professional Services Practice Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) or [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades), depending on seniority and prior experience.
 
 ### Senior Professional Services Practice Manager Job Responsibilities
+
 - Leads efforts to discover market opportunity for new offerings based on:
     - data gathering from Sales, CS and data analytics teams
     - qualitative and quantative analysis
@@ -81,6 +82,7 @@ The Senior Professional Services Practice Manager is a [grade 7](https://about.g
 The Staff Professional Services Practice Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Staff Professional Services Practice Manager Job Responsibilities
+
 - Establishes strategic vision for a family of offerings by leading efforts to discover market opportunity for new offerings based on:
     - data gathering from Sales, CS and data analytics teams
     - customer and partner feedback

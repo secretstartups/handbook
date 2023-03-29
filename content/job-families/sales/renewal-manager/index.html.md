@@ -28,6 +28,7 @@ The Associate Renewals Manager reports to the Manager, Renewals or Senior Manage
 The Associate Renewals Manager is a grade 5.
 
 ### Associate Renewals Manager Responsibilities
+
 - Maximize customer retention rates through effective sales techniques over the phone, video and email while also minimizing customer churn and contraction.
 - Execute the renewal process to ensure ARR is retained or expanded
 - Evaluate license usage and complete the true-up requirements
@@ -38,6 +39,7 @@ The Associate Renewals Manager is a grade 5.
 - Liaise with customers to ensure POs and order forms are accurately completed to allow for internal deal approval
 
 ### Associate Renewals Manager Requirements
+
 - Related sales or related customer experience (examples SDR, BDR, sales ops, deal desk, customer service, CSM)
 - Demonstrated progressive experience with B2B software sales
 - Experience with subscription GTM approaches for customer success management and renewals
@@ -57,12 +59,14 @@ The Renewals Manager reports to the Manager, Renewals or Senior Manager, Renewal
 The Renewals Manager is a grade 6.
 
 ### Renewals Manager Responsibilities
+
 - Extends to that of an Associate Renewal Manager
 - Additional customer relationship developing responsiblities
 - Ability to identify opportunity and customer level risk and coordinate the mitigation
 - Provide renewals coverage on larger, more strategic customers
 
 ### Renewals Manager Requirements
+
 - Experienced in driving renewals with predictability and delivering to targeted gross retention rates
 - Experienced in managing a customer relationship from a similar role (e.g., Customer Success Manager, SDR, BDR)
 
@@ -75,11 +79,13 @@ The Senior Renewals Manager reports to the Manager, Renewals or Senior Manager, 
 The Senior Renewals Manager is a grade 7.
 
 ### Senior Renewals Manager Responsibilities
+
 - Extends to that of an Renewal Manager
 - Additonal responsiblities in helping design best practices and methodologies for the renewals organizational
 - Provides more coverage of larger, more strategic and complex opportunities
 
 ### Senior Renewals Manager Requirements
+
 - Proven ability to successfully lead renewals with high gross retention, predictability, and customer experience
 - Demonstrated ability to drive larger, more complex transactions (i.e., contract size, net ARR).
 - Contributes to the improvement of renewals process, policies, and tools including helping others on the team
@@ -93,6 +99,7 @@ The Manager, Renewals reports to the Sr. Director, Renewals.
 The Manager, Renewals is a grade 8.
 
 ### Manager, Renewals Responsibilities
+
 - Extends to that of a Senior Renewal Manager.
 - Manage Renewals team to ensure healthy weekly activities
 - Review weekly forecasts and business outcomes with reps and sales managers. This includes win/loss review so we can iterate our approach based on our success and failures.
@@ -102,6 +109,7 @@ The Manager, Renewals is a grade 8.
 - Participates in the design and execution of the Renewals Manager playbooks
 
 ### Manager, Renewals Requirements
+
 - Demonstrated sales or renewals management experience
 - Aptitude for continous improvement philosophy and strategy development and execution
 
@@ -145,6 +153,7 @@ The Senior Director, Renewals is a grade 11.
 - Be accountable for organizational KPIs, including gross retention, on-time renewals, and customer satisfaction
 
 ### Senior Director, Renewals Requirements
+
 - Proven track record of successfully delivering to revenue goals for a SaaS or subscription business at scale in a sales and/or renewal leadership role
 - Experienced in developing and growing global teams and operations as well as leading teams at scale (i.e., managed teams of over 30 team members)
 - Experienced in leading continuous improvement and change management across a broad range of functional stakeholders

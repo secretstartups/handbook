@@ -1,11 +1,11 @@
 ---
 layout: job_family_page
 title: "Global Education Services"
---- 
+---
 
 ### Certification Exam Developer
 
-GitLab’s Education Services team is looking for an experienced certification exam developer responsible for managing the design, development and maintenance of GitLab’s certification exams. In this role, you will lead the efforts to work cross-functionally in designing the competency framework, blueprints, candidate test items, study materials, and test forms.  
+GitLab’s Education Services team is looking for an experienced certification exam developer responsible for managing the design, development and maintenance of GitLab’s certification exams. In this role, you will lead the efforts to work cross-functionally in designing the competency framework, blueprints, candidate test items, study materials, and test forms.
 
 Your goal is to accelerate the adoption of GitLab by ensuring our customers, community and partners of various sizes and industries can gain benefit, demonstrate their product expertise, and advance their careers with GitLab. As a member of the Education Services team, you’ll be part of a team that cares deeply about creating learning experiences that deliver value at scale. We want our customers to not only become GitLab experts, but champions of our brand.
 
@@ -16,6 +16,7 @@ This job family reports to the Sr. Director of Education Services.
 The Certification Exam Developer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
+
 - Facilitate competency modeling sessions working cross-functionally with SMEs, instructional designers, and other teams (engineering, support, professional services, etc.) to establish the knowledge and performance framework to be used as the basis for developing exams (and associated curricula).
 - Own and maintain the certification blueprint that prioritizes and assigns weightage to content categories.
 - Lead certification development efforts to develop test items working closely with SMEs. Recruit, train and schedule them in writing technically sound test items.
@@ -27,6 +28,7 @@ The Certification Exam Developer is a [grade 6](https://about.gitlab.com/handboo
 - Stay up to date with the latest GitLab feature releases
 
 #### Requirements
+
 - B.S. or M.S. or relevant work experience in Computer Science or related engineering discipline
 5+ years experience in enterprise customer-facing curriculum, technical documentation or certification programs (preferably in a subscription environment)
 - Knowledge of the software development life cycle, DevOps and cloud native technologies (kubernetes, containers, and microservices)
@@ -66,6 +68,7 @@ This role reports to Sr. Manager of Curriculum Development.
 The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
+
 - Dive deep into GitLab platform to understand the services and develop effective training for our customers
 - Develop and maintain a cohesive set of real-world, scenario-based labs to reinforce the learning objectives for the courseware by offering hands-on learning for learners
 - Coordinate with the curriculum team to ensure that hands-on labs are built for scalability and long-term support.
@@ -80,6 +83,7 @@ The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/to
 - Own the lab maintenance, including all new environments, and updates/bug fixes for existing environments.
 
 #### Requirements
+
 - 5+ years of experience in IT in a high growth Software as a service (subscription) environment
 - 3+ years of experience in user support in a cloud-first modern IT environment
 - Experience with Instruqt or similar virtual learning platforms
@@ -111,7 +115,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 ### Technical Curriculum Developer
 
-GitLab’s Education Services team is looking for an experienced technical curriculum developer who will help drive our customer, partner and community facing education efforts. In this role, you create new and improve existing courses for the ever-growing solutions that we offer to our customers, partners, and community across the globe.  
+GitLab’s Education Services team is looking for an experienced technical curriculum developer who will help drive our customer, partner and community facing education efforts. In this role, you create new and improve existing courses for the ever-growing solutions that we offer to our customers, partners, and community across the globe.
 
 Your goal is to accelerate the adoption of GitLab by ensuring our customers, community and partners of various sizes and industries can gain benefit, demonstrate their product expertise, and advance their careers with GitLab. As a member of the Education Services team, you’ll be part of a team that cares deeply about creating learning experiences that deliver value at scale. We want our customers to not only become GitLab experts, but champions of our brand.
 
@@ -122,6 +126,7 @@ This job family reports to the Sr. Director of Education Services.
 The Technical Curriculum Developer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
+
 - Build relationships and collaborate with SMEs, instructional designers, and other teams (sales, engineering, support, professional services, etc.) to align product roadmaps with content updates or new educational offerings.
 - Produce high quality materials including presentations, assessments, and more to meet our design requirements.
 - Help create and maintain our technical systems, tools, and environments used in our various training programs.
@@ -132,6 +137,7 @@ The Technical Curriculum Developer is a [grade 6](https://about.gitlab.com/handb
 - Stay up to date with the latest GitLab feature releases
 
 #### Requirements
+
 - 3+ years experience in enterprise customer-facing roles such as curriculum developer, technical trainer and consulting engineer (preferably in a subscription environment)
 - Knowledge of the software development life cycle, DevOps and cloud native technologies (kubernetes, containers, and microservices)
 - Experience with e-learning tools such as Articulate/Rise, Captivate, ScreenFlow, Camtasia
@@ -168,6 +174,7 @@ This job family reports to the Sr. Director of Education Services.
 Associate LMS Administrator, Education Services is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
+
 - Administer tasks on various education systems including LMS, virtual environment, and accreditation system
 - Upload course materials, configuration of functionality such as complex curricula, cohorts, communications, surveys, and notifications in LMS
 - Work with the instructional designers to troubleshoot and resolve technical issues related to accessing the LMS and course content
@@ -180,6 +187,7 @@ Associate LMS Administrator, Education Services is a [grade 5](https://about.git
 - Serve as an embedded chief of staff to the education services leadership team in support of their top initiatives
 
 #### Requirements
+
 - 2-3 years of experience in an Operations, Project/Program Manager, Strategy, or Enablement role in a fast-paced Tech/subscription environment
 - Excellent project management skills
 - Strong analytical, particularly quantitative skills
@@ -213,6 +221,7 @@ The Senior Manager of Education Curriculum Development reports into the Senior D
 The Senior Manager of Education Curriculum Development is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager of Education Curriculum Development Responsibilities
+
 - Manage a high performing direct team of instructional designers, multimedia developers, and lab managers for DevOps and product content and course development to ensure effective education delivery
 - Defines strategy and delivery of engaging GitLab and DevOps educational content for self-paced and instructor-led curriculum
 - Extends the Senior Technical Instructional Designer responsibilities
@@ -275,18 +284,18 @@ The Technical Instructor (Intermediate) is a [grade 6](https://about.gitlab.com/
 - Knowledge of the software development life cycle, DevOps and cloud native technologies (kubernetes, containers, and microservices)
 - Relationships in the software DevSecOps space are a plus
 
-  
+
 ## Senior Technical Instructor
 
-  
+
 The Senior Techincal Instructor reports the Senior Manager, Professional Education Services
 
-  
+
 ### Senior Technical Instructor Job Grade
 
 The Senior Technical Instructor is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-  
+
 ### Senior Technical Instructor Responsibilities
 
 - Extends the Technical Instructor (Intermediate) responsibilities

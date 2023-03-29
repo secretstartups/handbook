@@ -16,12 +16,12 @@ The Inside Sales Representative is a [grade 6](https://about.gitlab.com/handbook
 
 #### Inside Sales Representative Responsibilities
 
- - Ensure healthy weekly activity: calls, leads, demos, and opportunity progression (MEDPPIC).
- - Review weekly forecast and business outcomes with sales leaders.  This includes win/loss analysis so we can iterate approach based on our success and failures.
- - Manage sales order processing including monitoring the system to ensure accurate receipt booking of sales orders, tracking sales shipment, delivery.
- - Responsible for all renewals of all contracts and upgrades in your territory.
- - Improve and maintain Salesforce structure for accurate sub accounts (groups/programs), opportunities and contacts.
- - Collaborates regionally and globally in developing/enhancing standardized processes, reports, and sales programs that facilitate efficient sales operations, effective sales execution, and improved management insight.  This includes ensuring the GitLab sales handbook is followed and/or modified when necessary.
+- Ensure healthy weekly activity: calls, leads, demos, and opportunity progression (MEDPPIC).
+- Review weekly forecast and business outcomes with sales leaders.  This includes win/loss analysis so we can iterate approach based on our success and failures.
+- Manage sales order processing including monitoring the system to ensure accurate receipt booking of sales orders, tracking sales shipment, delivery.
+- Responsible for all renewals of all contracts and upgrades in your territory.
+- Improve and maintain Salesforce structure for accurate sub accounts (groups/programs), opportunities and contacts.
+- Collaborates regionally and globally in developing/enhancing standardized processes, reports, and sales programs that facilitate efficient sales operations, effective sales execution, and improved management insight.  This includes ensuring the GitLab sales handbook is followed and/or modified when necessary.
 - Work with Channel Managers to team on call campaigns and quotes for RFQs through distribution.
 - Manage Reseller relationships: Quoting, Lead generation, Renewals, Product and price list updates.
 
@@ -79,7 +79,7 @@ The Manager, Inside Sales is a [grade 9](https://about.gitlab.com/handbook/total
 - Extends that of the Senior Inside Sales Representative Requirements
 - A true desire to see customers benefit from the investment they make with you
 - Demonstrated progressive experience with B2B software sales
-  
+
 ### Senior Manager, Inside Sales
 
 The Manager, Insides Sales reports to a Federal Sales Director.

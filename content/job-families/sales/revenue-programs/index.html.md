@@ -7,6 +7,7 @@ description: "The Revenue Programs job family is responsible for developing and 
 The Revenue Programs job family is responsible for developing and executing effective pipeline and revenue acceleration strategies and tactics to drive growth within our sales organization.
 
 ## Responsibilities
+
 - Identify, prioritize, and run sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
 - Work cross-functionally (with Portfolio Marketing, Demand Gen, Revenue Marketing, Field Enablement, Sales Strategy, and more) to orchestrate the development, execution, and operationalization of scalable and measurable quarterly sales programs that deliver results
 - Own quarterly pipeline planning to ensure there is structure, scalability and transparency with clear in-quarter execution outputs
@@ -15,6 +16,7 @@ The Revenue Programs job family is responsible for developing and executing effe
 - Collaboratively define success measures and reporting frameworks for implemented programs
 
 ## Requirements
+
 - Experience managing or designing sales or pipeline/revenue acceleration programs, integrated marketing campaigns, and/or go-to-market strategies
 - Proven ability to design and operationalize prescriptive sales programs and strategies
 - Ability to work collaboratively with Sales & Marketing teams and effectively develop relationships with stakeholders at all levels of the organization to remove impediments that block the team’s ability to meet project objectives
@@ -38,10 +40,12 @@ The Revenue Programs Specialist (Intermediate) reports to the Manager, Revenue P
 The Revenue Programs Specialist (Intermediate) role is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Revenue Programs Specialist (Intermediate) Responsibilities
+
 - Manage and execute region-, segment-, or industry-specific sales programs
 - Provide reporting, analytics, and communications support for prioritized sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
 
 #### Revenue Programs Specialist (Intermediate) Requirements
+
 - Collaborates well with others
 - Ability to build, maintain, update and optimize critical dashboards in Salesforce.com and business intelligence (BI) tools for the purpose of tracking the impact of sales programs
 - Strong analytical skills
@@ -57,6 +61,7 @@ The Senior Revenue Programs Specialist reports to the Manager, Revenue Programs 
 The Senior Revenue Programs Specialist role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Revenue Programs Specialist Responsibilities
+
 - Manage and execute region-, segment-, or industry-specific sales programs
 - Provide reporting, analytics, and communications support for prioritized sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
 - Analyze data to identify pipeline gaps
@@ -65,6 +70,7 @@ The Senior Revenue Programs Specialist role is a [grade 7](https://about.gitlab.
 - Collaboratively define success measures and reporting frameworks for implemented programs
 
 #### Senior Revenue Programs Specialist Requirements
+
 - Collaborates well with others
 - Ability to build, maintain, update and optimize critical dashboards in Salesforce.com and business intelligence (BI) tools for the purpose of tracking the impact of sales programs
 - Strong analytical skills
@@ -84,6 +90,7 @@ The Manager, Revenue Programs reports to the Senior Director of Field Enablement
 The Manager, Revenue Programs role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Revenue Programs Responsibilities
+
 - Build and/or lead a team of Revenue Program Specialists
 - Serve as a trusted advisor and business partner to Sales leaders to identify and prioritize sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
 - Work comfortably with complex data sets to identify pipeline gaps and prescribe and prioritize solutions to meet business pipeline gaps
@@ -95,6 +102,7 @@ The Manager, Revenue Programs role is a [grade 8](https://about.gitlab.com/handb
 - Manage sales programs across multiple regions, segments, and/or industries
 
 #### Manager, Revenue Programs Requirements
+
 - People management experience, preferably in a Sales, Sales Ops, Sales Programs, Sales Analytics, Sales Enablement, or related function
 - Collaborates well with others
 - Ability to build, maintain, update and optimize critical dashboards in Salesforce.com and business intelligence (BI) tools for the purpose of tracking the impact of sales programs
@@ -117,6 +125,7 @@ The Senior Manager, Revenue Programs reports to the Senior Director of Field Ena
 The Senior Manager, Revenue Programs role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Revenue Programs Responsibilities
+
 - Build and/or lead a team of Revenue Program Specialists and/or Revenue Program Managers
 - Serve as a trusted advisor and business partner to Sales leaders and collaborate with executives to identify and prioritize sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
 - Work comfortably with complex data sets to identify pipeline gaps and prescribe and prioritize solutions to meet business pipeline gaps
@@ -130,6 +139,7 @@ The Senior Manager, Revenue Programs role is a [grade 9](https://about.gitlab.co
 - Own quarterly pipeline planning to ensure there is structure, scalability and transparency with clear in-quarter execution outputs
 
 #### Senior Manager, Revenue Programs Requirements
+
 - People management experience, preferably in a Sales, Sales Ops, Sales Programs, Sales Analytics, Sales Enablement, or related function
 - Collaborates well with others, including executives across multiple functions
 - Ability to build, maintain, update and optimize critical dashboards in Salesforce.com and business intelligence (BI) tools for the purpose of tracking the impact of sales programs
@@ -153,6 +163,7 @@ The Director, Revenue Programs reports to the Senior Director of Field Enablemen
 The Director, Revenue Programs role is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Revenue Programs Responsibilities
+
 - Build and/or lead a team of Revenue Program Specialists and/or Revenue Program Managers
 - Serve as a trusted advisor and business partner to Sales leaders and collaborate with executives to identify and prioritize sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
 - Work comfortably with complex data sets to identify pipeline gaps and prescribe and prioritize solutions to meet business pipeline gaps
@@ -166,6 +177,7 @@ The Director, Revenue Programs role is a [grade 10](https://about.gitlab.com/han
 - Own quarterly pipeline planning to ensure there is structure, scalability and transparency with clear in-quarter execution outputs
 
 #### Director, Revenue Programs Requirements
+
 - People management experience in a Sales, Sales Ops, Sales Programs, Sales Strategy & Analytics, Sales Enablement, or related function
 - Collaborates well with others, including executives across multiple functions
 - Ability to build, maintain, update and optimize critical dashboards in Salesforce.com and business intelligence (BI) tools for the purpose of tracking the impact of sales programs

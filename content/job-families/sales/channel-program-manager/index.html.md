@@ -3,7 +3,7 @@ layout: job_family_page
 title: "Channel Program Manager"
 ---
 
-The Channel Program Manager will be responsible for the design, management & execution of Gitlab’s Channels & Alliances Partner Programs.  In addition to the partner programs, the Channel Program Managers will manage deal registration, recruitment and partner success programs and manage the partner advisory council.  
+The Channel Program Manager will be responsible for the design, management & execution of Gitlab’s Channels & Alliances Partner Programs.  In addition to the partner programs, the Channel Program Managers will manage deal registration, recruitment and partner success programs and manage the partner advisory council.
 
 
 ## Levels
@@ -58,6 +58,7 @@ The Channel Program Manager will be responsible for the design, management & exe
 - Lead programs for individual role specific areas of focus.  These could include, SMB / MM segment, partner types (e.g. distributors), communications / portal, regions / emerging markets, etc.
 
 #### Requirements
+
 - Bachelor’s degree with demonstrated progressive experience in channel programs.
 - Experience building and managing a partner program, preferably in the DevOps space
 - Excellent communication, analytical and organizational skills.
@@ -88,6 +89,7 @@ The Sr. Channel Program Manager will be responsible for the design, management &
 
 
 #### Requirements
+
 - Bachelor’s degree with demonstrated progressive experience in channel programs.
 - Experience building and managing a partner program, preferably in the DevOps space
 - Excellent communication, analytical and organizational skills.
@@ -102,9 +104,10 @@ The Sr. Channel Program Manager will be responsible for the design, management &
 The Lead Channel Program Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - The Lead Channel Program Manager will set the direction and roadmap for the overall Channel Partner Program.  They will define and lead key initiatives and program changes to increase the program value to partners and GitLab.
 - Responsible for the design, management & execution of Gitlab’s global Channels Partner Programs.
-- Manage deal registration, sales engagement and partner success programs and support partner events.  
+- Manage deal registration, sales engagement and partner success programs and support partner events.
 - Collaborate at senior levels of the Sales, Finance, Marketing and other organizations and drive alignment around specific channel programs with those organizations.
 - Collaborate across Channels & Alliances teams to gather requirements for Programs
 - Design, build and manage Partner Programs including incentive programs, MDF Program, Reseller, Services, Alliances, Deal Registration Program, etc.
@@ -118,6 +121,7 @@ Establish and track metrics of the program, run a quarterly compliance process w
 
 
 #### Requirements
+
 - Bachelor’s degree with demonstrated progressive experience in channel programs.
 - Experience building and managing partner programs, preferably in the DevOps space.  Programs should include incentive, deal registration, MDF, emerging markets and other programs to drive value for partners and GitLab.
 - Excellent communication, analytical and organizational skills.
@@ -163,6 +167,7 @@ The Sr. Manager, Channel Program will be responsible for the design, management 
 - Manage team of Channel Program Managers, establishing team goals, measuring performance and supporting team member career development.
 
 #### Requirements
+
 - Bachelor’s degree with demonstrated progressive experience in channel programs.
 - Experience building and managing a partner program, preferably in the DevOps space
 - Excellent communication, analytical and organizational skills.
@@ -180,7 +185,7 @@ The Director, Channel Programs is a [grade 10](https://about.gitlab.com/handbook
 
 The Director, Channel Program will be responsible for the design, management & execution of Gitlab’s Channels Partner Programs. The Director, Channel Programs will manage a team of Channel Program Managers and Sr. Channel Program Managers In developing, enhancing and measuring the performance of deal registration, sales engagement and partner success programs and support partner events. The Director is expected to establish the vision for the overall channel program, align with Sales on program elements and engagement, and develop the overall financial model for the channel in collaboration with Finance. Collaborate across Channels & Alliances teams to gather requirements for Programs
 - Lead the Channel Program team in designing, developing and managing the overall GitLab Channel Programs and individual program elements.
-- Program value messaging.  Support program managers in developing program guides that details requirements and benefits, terms and conditions, etc.  Support channel events and with content and messaging.  
+- Program value messaging.  Support program managers in developing program guides that details requirements and benefits, terms and conditions, etc.  Support channel events and with content and messaging.
 - Create overall partner experience vision.  Lead team in delivering continuous improvements in partner experience.
 - Support communications to the channel via portal, newsletters, social channels.
 - Collect and manage feedback from channel partners into the ongoing roadmap for the Channel Program.
@@ -191,6 +196,7 @@ The Director, Channel Program will be responsible for the design, management & e
 - Recruit and manage team of Lead and Senior Channel Program Managers, establishing team goals, measuring performance and supporting team member career development.
 
 #### Requirements
+
 - Broad channel experience across programs, operations, marketing and communications
 - Leadership experience in managing program teams and global partner programs
 - Bachelor’s degree with demonstrated progressive experience in channel programs.
@@ -218,6 +224,7 @@ To be defined at time of business need.
 To be defined at time of business need.
 
 ### Performance Indicators
+
 - Partner deal registrations
 - Partner sourced revenue and first orders
 - Partner certifications
