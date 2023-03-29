@@ -33,7 +33,7 @@ graph TD
   E[Day 6: Team members receive a Slack reminder about the anti-harrassment training] --> J
   J[Day 7: Manager and Interview training issues are opened if people manager] --> L
   L[Day 15: Team member is pinged if they have open compliance task on their onboarding issue] --> F
-  F[Day 60: Onboarding issue is closed if it wasn't closed already] --> N
+  F[Day 60: Onboarding issue is closed if it wasn't closed already] --> N{Probation?}
   N -->|Yes| D[One month before contract end: send email]
   N --> |No| B{Netherlands team member}
   B --> |Yes| G[Two month before: Send email]
