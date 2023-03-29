@@ -21,6 +21,7 @@ The Product Marketing Manager, Public Sector has the same requirements as other 
 As a Sr. Product Marketing Manager, Regulated Industries, you will work bring your knowledge and experience of marketing to regulated industries such as the federal government to help shape our go to market strategy, messaging and execution.  You will partner closely with our marketing, engineering, business development, sales team, and partners to help them address the unique requirements of this market.
 
 #### Requirements
+
 - At least 5 years of product marketing experience marketing and selling public sector and or regulated industries such as financial services or health care.
 - Deep understanding of Agile and DevOps methodologies across the entire Software Development Lifecycle, especially the processes and controls typically found in large regulated industries such as public sector and financial services.
 - Experience marketing and selling to the US Federal Govt, DOD and civilian agencies.

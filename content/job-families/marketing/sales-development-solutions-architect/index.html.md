@@ -10,6 +10,7 @@ The GitLab Sales Development team is looking for a Sales Development Solutions A
 The Sales Development Solutions Architect is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ### Responsibilities
+
 - Provide presales technical support to influence the discovery of new business opportunities
 - Provide compelling product demonstrations for Sales Development Reps so that they may communicate effectively with prospects. We want to engage prospects of interest that haven’t yet reached the stage of opportunity and compel them to do so.
 - Develop curriculum and deliver regular and on-going product training to the all Sales Development team. (Ex. onboarding with IT 101, what is DevOps?, What is CI/CD etc.)
@@ -20,6 +21,7 @@ The Sales Development Solutions Architect is a [grade 8](https://about.gitlab.co
 
 
 ### Requirements
+
 - Ability to use GitLab
 - 1-2 years of experience with GitLab or similar products in the DevOps space
 - Ability to interpret customer’s business problems and technical issues, and effectively explain how our solution will align to their needs or requirements

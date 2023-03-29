@@ -250,6 +250,7 @@ As a Competitive Intelligence Product Marketer, you will work closely with a wid
 As a Customer Advocacy Product Marketer, you will identify, activate, and amplify the voice of the customer in order to improve sales success and demonstrate GitLab’s momentum as an enterprise-trusted brand. Customer proof points are a critical enabler of high growth and among the most powerful tools that can be used within the sales process. They help to establish credibility, trust, and reduce the customer’s perception of risk. The primary deliverables are customer references and case studies (written and video), customer quotes, Customer Advisory Board, product peer reviews, and customer speakers.
 
 #### Requirements
+
 - Strong analytical skills and proven ability to use data to optimize program performance and inform future strategies.
 - Plan and operate in a transparent manner for cross-organizational visibility and be a leader in sharing best practices
 - Experience organizing executive customer events that support key customers and provide insights back into all applicable business activities.
@@ -263,6 +264,7 @@ As a Customer Advocacy Product Marketer, you will identify, activate, and amplif
 - Passion for contributing to a world class program and desire to own and refine key operational processes.
 
 #### Responsibilities
+
 - Contribute to the GitLab worldwide customer advocacy program, working cross-functionally between sales, customer success, product, and marketing teams to identify, develop, and engage reference customers.
 - Create, grow, and manage a healthy community of reference customers in a way that respects our customer’s time and effort while maximizing the positive impact of their engagement to them, their organization, and GitLab.
 - Establish and maintain a robust Customer Reference Library. Library includes logos, logos + short quotes, logos + full story, and anonymized case studies broken out by vertical, solution, and company size. Multi-media: written, pull-quote images, and videos (for top tier)
@@ -280,6 +282,7 @@ As a Analyst Relations Product Marketer, you will design, execute, and manage Gi
 The Analyst Relations Product Marketer will create, nurture, and manage positive relationships with industry analysts, industry influencers, and thought leaders, serving as a key, centralized contact point and connector. Additional, this role will establish and maintain regular communication with analysts and influencers via multiple channels which you will develop to engage and educate these communities on GitLab strategy, roadmap and product updates.
 
 #### Requirements
+
 - Strong analytical skills and proven ability to use data to optimize program performance and inform future strategies.
 - Plan and operate in a transparent manner for cross-organizational visibility and be a leader in sharing best practices
 - Prior experience working with industry analysts and influencers in B2B enterprise software and services required.
@@ -294,6 +297,7 @@ The Analyst Relations Product Marketer will create, nurture, and manage positive
 - Passion for contributing to a world class program and desire to own and refine key operational processes.
 
 #### Responsibilities
+
 - Contribute to the GitLab worldwide analyst relations program, working cross-functionally between sales, product and marketing teams to maximize program impact.
 - Ensure all analysts and influencer advice informs all applicable business activities and that analyst/influencer/thought leader publications and/or other interactions mentioning GitLab are leveraged appropriately to help build market awareness, increase lead generation effectiveness, and simplify selling.
 - Plan, schedule, and manage analyst/influencer program activities such as participation in analyst research, conferences, advisory days, briefings, inquiries, and reporting.
@@ -330,7 +334,7 @@ Support the GitLab reference program, market research activities, and serve as a
 
 As a Product Marketing Manager, Market Insights, you will bring your market knowledge and experience to help shape our go to market strategy, messaging and execution.  You will partner closely with our marketing, engineering, business development, sales team, and partners to help them address the unique requirements of the DevOps market.
 
-#### Responsibilies  
+#### Responsibilies
 
 **Grade 7:**
 - Conduct research on current and future Enterprise IT trends through written reports, surveys, interviews and interactions with market analysts, industry conferences, self-study, and interactions with our customers to develop key insights for GitLab.

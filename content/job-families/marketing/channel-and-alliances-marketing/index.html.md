@@ -30,12 +30,12 @@ The Channel Marketing Program Specialist is a [grade 5](https://about.gitlab.com
 
 ### Requirements
 
-- A marketing professional with experience in the channel or technology space.  
+- A marketing professional with experience in the channel or technology space.
 - Strong project management skills. You will be successful in this role if you are a natural problem solver and logical thinker.
 - Someone who possesses an understanding of the channel, is a detail-oriented professional and has the ability to develop cross-functional relationships.
 - A teammate who is comfortable making data driven decisions.
 - A colleague who thrives in a positive, supportive and collaborative environment.
-- Ability to thrive in a fast paced, high energy company, ambitious to try new things, seek out answers to questions not yet formed and to fail fast and move on.  
+- Ability to thrive in a fast paced, high energy company, ambitious to try new things, seek out answers to questions not yet formed and to fail fast and move on.
 
 ### Performance Indicators
 
@@ -62,7 +62,7 @@ The Channel Marketing Manager is a [grade 7](https://about.gitlab.com/handbook/t
 - Incorporate marketing services offerings into every partner campaign.
 - Measure, monitor and adjust campaigns to ensure long term success.
 - Develop standard, repeatable and stable processes that promote and enable operational efficiency.
-- Work with regional Channel Sales leader to identify top producing partners; key success factors for replication and scale.  
+- Work with regional Channel Sales leader to identify top producing partners; key success factors for replication and scale.
 - Implement channel marketing initiatives, programs, communication vehicles, and sales tools to drive increased market adoption and channel revenue goals.
 - Accurately track activity performance and provide well-informed recommendations on future resource and budget allocation.
 - Complete other duties as assigned to meet company channel goals.
@@ -73,7 +73,7 @@ The Channel Marketing Manager is a [grade 7](https://about.gitlab.com/handbook/t
 - Past experience developing integrated campaigns with partners.
 - Ability to articulate results to key stakeholders.
 - Ability to demonstrate success in building strong relationships in a remote environment.
-- Ability to demonstrate how to influence without authority.  
+- Ability to demonstrate how to influence without authority.
 
 ### Performance Indicators
 
@@ -103,7 +103,7 @@ The Senior Channel Marketing Manager is a [grade 8](https://about.gitlab.com/han
 - Incorporate marketing services offerings into every partner campaign.
 - Measure, monitor and adjust campaigns to ensure long term success.
 - Develop standard, repeatable and stable processes that promote and enable operational efficiency.
-- Work with regional Channel Sales leader to identify top producing partners; key success factors for replication and scale.  
+- Work with regional Channel Sales leader to identify top producing partners; key success factors for replication and scale.
 - Implement channel marketing initiatives, programs, communication vehicles, and sales tools to drive increased market adoption and channel revenue goals.
 - Accurately track activity performance and provide well-informed recommendations on future resource and budget allocation.
 - Complete other duties as assigned to meet company channel goals.
@@ -114,7 +114,7 @@ The Senior Channel Marketing Manager is a [grade 8](https://about.gitlab.com/han
 - Past experience developing integrated campaigns with partners.
 - Ability to articulate results to key stakeholders.
 - Ability to demonstrate success in building strong relationships in a remote environment.
-- Ability to demonstrate how to influence without authority.  
+- Ability to demonstrate how to influence without authority.
 
 ### Performance Indicators
 
@@ -163,6 +163,7 @@ The Senior Partner Program Manager, Channel is a [grade 8](https://about.gitlab.
 - Ability to thrive in a fast paced, high energy company, ambitious to try new things, seek out answers to questions not yet formed and to fail fast and move on.
 
 ### Performance Indicators
+
 - 100% of quarterly MDF funds allocated.
 - 75% or more of MDF requests claims.
 - Automation of manual tasks.  Improved partner and employee user experience.
@@ -179,7 +180,7 @@ Within this department, this team member would take on more strategic projects t
 
 Senior Partner Program Managers work with our portfolio marketing team, campaigns team, design team and partner teams to curate partner ready campaigns designed to drive demand (pipeline) for GitLab.  These campaigns, called Instant campaigns, are turnkey in nature and are compromised of valuable assets including but not limited to: digital assets, banner ads, video, social media, blog articles, email copy, webcast and landing page copy, infographics and much more.
 
-Assets can be co-branded and have already been approved by our brand team prior to use.  
+Assets can be co-branded and have already been approved by our brand team prior to use.
 
 The Senior Partner Program manager, Programs reports to the Director of Global Channels and Alliances marketing.
 
@@ -190,7 +191,7 @@ The Senior Partner Program manager, Programs is a [grade 8](https://about.gitlab
 ### Responsibilities
 
 - Create, maintain and manage our partner Instant campaign assets.
-- Partner with our portfolio marketing and campaign team to understand the roadmap of campaigns, target audience, key pain points and positioning to create impactful, easy to execute demand generation assets.  
+- Partner with our portfolio marketing and campaign team to understand the roadmap of campaigns, target audience, key pain points and positioning to create impactful, easy to execute demand generation assets.
 - Work with brand team to ensure all assets are created within GitLab brand guidelines.
 - Work with partners to seek feedback and input regarding the success of these assets.
 - Present and launch campaigns on a quarterly basis through a variety of vehicles included but not limited to: Partner flash, field flash and the quarterly partner marketing webcast.
@@ -198,7 +199,7 @@ The Senior Partner Program manager, Programs is a [grade 8](https://about.gitlab
 
 ### Requirements
 
-- A seasoned marketing professional with proven experience in developing compelling content that will drive prefence for GitLab.  
+- A seasoned marketing professional with proven experience in developing compelling content that will drive prefence for GitLab.
 - Ability to repurpose content into a variety of forms.  Blogs, whitepapers, ebooks, social media content, radio ads and much more.
 - Someone who possesses a deep understanding of a day in the life of a channel partner, is a detail-oriented professional and has the ability to develop cross-functional relationships.
 - A teammate who is comfortable making data driven decisions.
@@ -252,6 +253,7 @@ Complete other duties as assigned to meet company channel goals.
 - Ability to thrive in a fast paced, high energy company, ambitious to try new things, seek out answers to questions not yet formed and to fail fast and move on.
 
 ### Performance Indicators
+
 - Successful planning and completion of partner executive activities including region PLS', Partner SKO
 - Development and successful execution of a sound AR and PR strategy for channel and alliances team.  Broadcast the voice of the program across desired media outlets.
 - Social media strategy for the partner program and a platform for channel and alliance executives to create and maintain a consistent presence on desired platforms.

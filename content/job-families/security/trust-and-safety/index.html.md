@@ -9,11 +9,12 @@ extra_js:
 [Trust & Safety](https://about.gitlab.com/handbook/security/security-operations/trustandsafety/) team members are the builders and maintainers of the anti-abuse world at GitLab.com. They develop the tools and manage the workflows that are needed to monitor, mitigate and report on abusive activity, and are an essential part of our goal of being good internet citizens.
 In the Trust and Safety Team there are two primary role types, Security Engineer and Security Analyst. Where the Security Engineer in Trust and Safety is primarily focused on the creation, maintenance and improvements of the systems and tools required to detect and mitigated abusive activity on GitLab.com, the Security Analysts' primary focus is on the creation, maintenance and processing operational workflows in the team.
 Depending on the role type you are applying for your daily duties could include creating tooling and automation for curbing abusive activity on GitLab.com, assisting with incident response and operational workloads and mitigating abusive activity.
-A successful candidate is someone who is curious and willing to learn, has at least a basic understanding of security concepts, is comfortable moving forward in the face of ambiguity and able to effectively manage competing priorities.  
+A successful candidate is someone who is curious and willing to learn, has at least a basic understanding of security concepts, is comfortable moving forward in the face of ambiguity and able to effectively manage competing priorities.
 
 ## Analyst, Trust and Safety
 
 ### Responsibilities
+
 - Monitor and mitigate abusive activity on GitLab.com
 - Triage and respond to Trust and Safety related incidents and reports
 - Create, maintain and improve operational workflows in Trust and Safety
@@ -21,6 +22,7 @@ A successful candidate is someone who is curious and willing to learn, has at le
 - Assist with training and onboarding of new team members
 
 ### Requirements
+
 - Ability to use GitLab
 - You are a team player, and enjoy collaborating with cross-functional teams
 - You are a great communicator
@@ -97,6 +99,7 @@ The Security Analyst, Trust and Safety is a [grade 8](https://about.gitlab.com/h
 ## Engineering, Trust and Safety
 
 ### Responsibilities
+
 - Triage and respond to Trust and Safety related incidents
 - Assess and integrate new tools and technologies, particularly open-source, in order to improve our operational efficiencies
 - Assist with training and onboarding of new team members
@@ -106,6 +109,7 @@ The Security Analyst, Trust and Safety is a [grade 8](https://about.gitlab.com/h
 - Identify possible new abuse vectors and communicate them to the relevant stakeholders
 
 ### Requirements
+
 - Ability to use GitLab
 - Experience with designing and implementing processes and tools to improve incident handling and resolution
 - Technical knowledge of application development and architecture
@@ -130,6 +134,7 @@ The Security Engineer, Trust and Safety is a [grade 6](https://about.gitlab.com/
 - Identify new potential abuse vectors
 
 #### Requirements
+
 - A minimum of 1 years experience working in either a Security Engineering or Trust and Safety (anti-abuse) type role
 - Good written and verbal communication skills
 - Experience using log analysis platforms such as ELK, bigquery, etc

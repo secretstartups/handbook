@@ -127,6 +127,7 @@ The Director, Contributor Success role extends the [Senior Manager, Contributor 
 - Humble, servant leader.
 
 ### Performance Indicators
+
 - [MRARR](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#mrarr)
 - [Open Community MR Age (OCMA)](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#open-community-mr-age-ocma)
 - [Community MR Coaches per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)

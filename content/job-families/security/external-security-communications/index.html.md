@@ -130,7 +130,7 @@ Principal level responsibilities are inclusive of all Staff level responsibiliti
 
 #### Principal level requirements
 - 12+ years in an external communications or marketing role
-- A multi-domain program leader with proven results driven approach  
+- A multi-domain program leader with proven results driven approach
 - Demonstrable experience developing business aligned marketing and communications strategy
 - Ability to direct others in the development and delivery of complex topics and communicate them effectively to a wider audience
 - Expert cross-functional collaborator and influencer
@@ -146,6 +146,7 @@ Principal level responsibilities are inclusive of all Staff level responsibiliti
 For details on the Security organization leadership roles, to include the Security Engineering Director and VP of Security, see the Security Leadership page.
 
 #### Performance indicators
+
 - Number of security focused pieces of content produced each month
 - Number of customer communications supported each month
 - Number of bug bounty metrics shared to social media each month

@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: Field Marketing Specialist 
+title: Field Marketing Specialist
 ---
 
 ## Field Marketing Specialist
@@ -61,6 +61,7 @@ The Field Marketing Coordinator is a [grade 5](https://about.gitlab.com/handbook
 - Occasional domestic travel to support events - less than 20%.
 
 ### Performance Indicators
+
 - Responsible for assisting and ensuring the supporting Field Marketing Managers are hitting the following SLAs:
    - [Webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/)
    - [Events](https://about.gitlab.com/handbook/marketing/virtual-events/)

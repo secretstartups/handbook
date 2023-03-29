@@ -20,6 +20,7 @@ The Community Programs Evangelist supports and grows GitLab's community by engag
 The Community Programs Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Community Programs Evangelist reports to the Manager, Community Programs.
 
 ### Responsibilities
+
 - Connect, engage with, and gather feedback from Community Programs members.
 - Execute Community Programs initiatives and campaigns.
 - Curate content to enable the relevant community to adopt and be successful with GitLab. This includes blog posts, webinars, videos, eLearning, courses, and best practices.
@@ -31,6 +32,7 @@ The Community Programs Evangelist is a [grade 6](https://about.gitlab.com/handbo
 - Manage projects from start to finish.
 
 ### Requirements
+
 - 3-5 years experience in technical evangelism
 - An understanding of GitLab’s and DevOp’s role in the relevant community.
 - Experience in publishing, journalism, content marketing, social, and events. At least 1 year of experience giving talks and developing technical content.
@@ -40,6 +42,7 @@ The Community Programs Evangelist is a [grade 6](https://about.gitlab.com/handbo
 - Ability to use GitLab.
 
 ### Performance Indicators
+
 - Number of published content (blogs, articles, lessons, videos, workshops)
 - Social media impressions
 - Unique Web Visitors per month
@@ -60,6 +63,7 @@ Specialties include [Education](/job-families/marketing/community-programs/#spec
 The Senior Community Programs Evangelist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Senior Community Programs Evangelist reports to the Manager, Community Programs.
 
 ### Responsibilities
+
 - Extends that of the Community Programs Evangelist.
 - Continuously improve metrics collection, goal setting, and reporting to help team increase contribution to GitLab company goals.
 - Continue to grow influence in respective communities including increased followers.
@@ -67,6 +71,7 @@ The Senior Community Programs Evangelist is a [grade 7](https://about.gitlab.com
 - Drive integrated campaigns to achieve KPIs.
 
 ### Requirements
+
 - Extends that of Community Program Evangelist.
 - Experience growing a social media presence and engaging followers.
 - 2-3 years experience giving talks and developing demos, webinars, videos, and other technical content to audiences of 300 and larger.
@@ -88,6 +93,7 @@ The Community Programs Associate Manager reports to the Manager, Community Progr
 The Community Associate Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Support the [GitLab for Education](/solutions/education/), [GitLab for Open Source](/solutions/open-source/), [GitLab for Startups](/solutions/startups/), and GitLab for [Non-Profits programs](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/education-program/#--gitlab-for-non-profits) (as well as any new programs that are created), as well as associated workflows. This includes responding to all in-bound requests from program members.
 - Actively participate in the implementation of, and then lead the maintenance of the Automated Community Programs workflows. This includes improving and troubleshooting related processes and working cross-functionally with associated teams in Product, Fulfillment, Legal, Sales Operations, and Customer Support.
 - Standardize communications for Community Programs. As we evolve our Community Programs, we'll need to make sure that we update all of our outreach and support materials. You will lead this effort and suggest ways we can make our messaging more customer-friendly and effective.
@@ -99,6 +105,7 @@ The Community Associate Manager is a [grade 5](https://about.gitlab.com/handbook
 - Assist with the operational side of community events and content such as newsletters.
 
 ### Requirements
+
 - You thrive at developing process improvements and are an excellent critical thinker.
 - You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 - You thrive at developing new approaches and refining existing processes to enable teams to work more efficiently.
@@ -118,6 +125,7 @@ Nice-to-haves:
 - Data-oriented and familiar with defining and implementing key performance metrics.
 
 ### Performance Indicators
+
 - Time to Zendesk ticket closure / application award.
 - Percentage of manual vs. automated application processes.
 - Member/contributor satisfaction for community programs.
@@ -138,6 +146,7 @@ The Intermediate Community Programs Manager extends that of the Community Progra
 The Intermediate Community Programs Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Iterate on community program workflows. Work to improve the community programs application workflow by iterating on what we are already building. Proactively look for ways to make the processes even more efficient.
 - Create policies. Assist in developing common policies, processes and resources consistent across all community programs, with a handbook-first approach.
 - Assess new tools. In addition to managing existing tools, you will assess new tools to more effectively serve the GitLab community and to contribute to growth.
@@ -153,6 +162,7 @@ The Intermediate Community Programs Manager is a [grade 6](https://about.gitlab.
 - You are able to learn to use GitLab for all of your project management work.
 
 ### Performance Indicators
+
 - Extends that of the Community Programs Associate Manager.
 - Increased program membership and retention.
 - Increased efficiencies in the application process.
@@ -160,7 +170,7 @@ The Intermediate Community Programs Manager is a [grade 6](https://about.gitlab.
 
 ### Career Ladder
 
-The next step for the Intermediate Community Programs Manager is the Community Programs Manager or Community Programs Speciality Manager.  
+The next step for the Intermediate Community Programs Manager is the Community Programs Manager or Community Programs Speciality Manager.
 
 ## Senior Community Programs Manager
 
@@ -171,6 +181,7 @@ The Senior Community Programs Manager reports to the Manager, Community Programs
 The  Senior Community Programs Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Extends that of the Intermediate Community Programs Manager.
 - Develop and lead the successful execution of Community Program(s).
 - Oversee the routine and operations and decisions that encompass the Community Program(s).
@@ -183,6 +194,7 @@ The  Senior Community Programs Manager is a [grade 7](https://about.gitlab.com/h
 - Establish relationships with program members to produce inspirational case studies of their use of GitLab. Showcase Program Member’s success through case studies, webinars, blog posts, spotlights, and media campaigns.
 
 ### Requirements
+
 - Extends that of the Intermediate Community Programs Manager.
 - Ability to use GitLab.
 - You have 5-7 years of experience running developer relations or community advocacy programs, preferably open source in nature.
@@ -194,6 +206,7 @@ The  Senior Community Programs Manager is a [grade 7](https://about.gitlab.com/h
 - You share our values, and work in accordance with those values.
 
 ### Performance Indicators
+
 - Number of new program members and users adopting GitLab per quarter.
 - Number of renewing program members year over year.
 - Published articles, podcasts, and other content by media and external sources.
@@ -215,6 +228,7 @@ Specialties include [Education](/job-families/marketing/community-programs/#spec
 The Manager, Community Programs is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - The Manager, Community Programs extends that of the Senior Community Program Manager.
 - Enable the Community Programs team to produce and execute their quarterly OKRs.
 - Develop a hiring plan according to the dynamic needs of a rapidly growing organization.
@@ -223,6 +237,7 @@ The Manager, Community Programs is a [grade 8](https://about.gitlab.com/handbook
 - Identify opportunities and build the resources to equip the GitLab team and the wider community to become evangelists for GitLab.
 
 ### Requirements
+
 - Extends that of Senior Community Programs Manager.
 - Demonstrated experience building and scaling communities.
 - Relevant experience managing a global community team's effectiveness strategies, tactics, and action plans for driving adoption and engaging communities.
@@ -233,13 +248,14 @@ The next step for the Manager, Community Programs is the Senior Manager, Communi
 
 ## Senior Manager, Community Programs
 
-The Senior Manager, Community Programs extends that of the Manager, Community Programs. The Senior Manager, Community Programs reports to the Director, Community Relations.  
+The Senior Manager, Community Programs extends that of the Manager, Community Programs. The Senior Manager, Community Programs reports to the Director, Community Relations.
 
 ### Job Grade
 
 The Senior Manager, Community Programs is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Extends that of Manager, Community Programs.
 - Define and execute vision and strategy of the each Community Program to align the programs.
 - Develop and work across teams for alignment on key themes of focus to grow our thought leadership.
@@ -249,6 +265,7 @@ The Senior Manager, Community Programs is a [grade 9](https://about.gitlab.com/h
 - Identifies risks as Community Programs scale and articulates risks to the organization's work and capabilities across programs.
 
 ### Requirements
+
 - Extends that of the Manager, Community Programs requirements
 - Proven experience driving cross functional projects, programs and collaboration.
 - Experience in hiring, scaling, managing and leading a team.
@@ -257,6 +274,7 @@ The Senior Manager, Community Programs is a [grade 9](https://about.gitlab.com/h
 - Proven experience communicating to senior leadership the effectiveness.
 
 ### Performance Indicators
+
 - Number of new program members and users adopting GitLab per quarter.
 - Number of renewing program members year over year.
 - Published articles, podcasts, and other content by media and external sources.
@@ -275,6 +293,7 @@ As the Director, Community Programs you will be responsible for managing and bui
 The Director, Community Programs is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Build a great team by hiring, training and continually inspiring an outstanding global outreach team to grow the GitLab community.
 - Demonstrate sustained growth the membership in each of the Community Programs.
 - Steadily increase share of voice and though leadership by championing the value of DevOps within each community and establishing GitLab as a clear leader.
@@ -286,6 +305,7 @@ The Director, Community Programs is a [grade 10](https://about.gitlab.com/handbo
 - Develop a hiring plan according to the dynamic needs of a rapidly growing organization.
 
 ### Requirements
+
 - 7+ years in Community Program strategy, technical enablement and/or product marketing.
 - Proven experience leading the adoption of technology in various communities.
 - Experience overseeing campaigns that include public relations, events, social, publishing, and content.
@@ -294,6 +314,7 @@ The Director, Community Programs is a [grade 10](https://about.gitlab.com/handbo
 - Experience overseeing campaigns that include public relations, events, social, publishing and content.
 
 ### Performance Indicators
+
 - Extends that of the Senior Manager, Community Programs.
 - Program member participation in Marketing initiatives.
 - Percent increase in program membership.
@@ -310,7 +331,7 @@ The career ladder for the Director, Community Programs is not defined.
 
 The [GitLab for Education](https://about.gitlab.com/handbook/marketing/community-relations/community-programs/education-program/) team’s mission is to facilitate and drive the adoption of DevOps and GitLab at educational institutions around the globe. This program aims to build an engaged community of GitLab evangelists and contributors in the next generation of the workforce and tell the story of how GitLab and DevOps as a discipline, are advancing and transforming teaching, learning, and scientific research.
 
-Team members specializing in Education will focus community building efforts with faculty, students and staff and institutional leaders. This includes building content specific enabling the teaching and learning of GitLab as well conducing scientific research within a DevOps framework. Team members will strive to drive brand awareness at Universities world-wide. Academic associations and publications are primary outlets for publication and public speaking opportunities.  
+Team members specializing in Education will focus community building efforts with faculty, students and staff and institutional leaders. This includes building content specific enabling the teaching and learning of GitLab as well conducing scientific research within a DevOps framework. Team members will strive to drive brand awareness at Universities world-wide. Academic associations and publications are primary outlets for publication and public speaking opportunities.
 
 ## GitLab for Open Source
 

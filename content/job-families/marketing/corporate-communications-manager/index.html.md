@@ -14,6 +14,7 @@ We work in a unique way at GitLab, where flexibility and independence meet a hig
 The Corporate Communications Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Execute integrated communications strategy and vision.
 - Work closely with others in the Corporate Communications department to develop messaging, press releases, contributed articles, event strategy and media relations strategy for GitLab announcements and corporate marketing campaigns.
 - Respond to daily media inquiries in a timely and professional manner.
@@ -23,6 +24,7 @@ The Corporate Communications Manager is a [grade 6](https://about.gitlab.com/han
 - Independently manage projects from start to finish.
 
 #### Requirements
+
 - 6+ years experience in public relations and/or marketing communications.
 - PR agency experience.
 - Experience in enterprise software or developer public relations.
@@ -42,6 +44,7 @@ The Corporate Communications Manager is a [grade 6](https://about.gitlab.com/han
 The Senior Corporate Communications Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Develop integrated communications campaigns.
 - Develop overarching company storylines for media.
 - Have your finger on the pulse of the news and provide creative ideas to gain media coverage.
@@ -51,6 +54,7 @@ The Senior Corporate Communications Manager is a [grade 7](https://about.gitlab.
 - Responsible for ideation of Corp Communications activities, OKRs, and reporting on results.
 
 #### Requirements
+
 - 8+ years experience in public relations and/or marketing communications
 - Experience with crisis communications, executive visibility and investor relations.
 - Experience managing agencies and driving results.
@@ -64,6 +68,7 @@ The Senior Corporate Communications Manager is a [grade 7](https://about.gitlab.
 Manager, Corporate Communications is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Develop QoQ and YoY integrated cross-functional communications programs.
 - Develop overarching company storylines for media.
 - Manage a team of direct reports, freelancers and/or agencies to scale integrated communications programs and ensure their results contribute to the  corporate communications strategy.
@@ -73,6 +78,7 @@ Manager, Corporate Communications is a [grade 8](https://about.gitlab.com/handbo
 - Responsible for ideation of Corp Communications activities, OKRs, and reporting on results.
 
 #### Requirements
+
 - 9+ years experience in public relations and/or marketing communications.
 - Experience developing and executing cross-functional communications programs.
 - Experience managing agencies, freelancers and a team of direct reports to drive results.
@@ -89,6 +95,7 @@ Staff Corporate Communications Manager is a [grade 8](https://about.gitlab.com/h
 **Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each specialized function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Market data yields an output of 35 companies that use this type of level with an average of 2 incumbents.
 
 #### Responsibilities
+
 - Develop QoQ and YoY integrated communications programs.
 - Develop overarching company storylines for media.
 - Strategically lead crisis communications efforts as needed.
@@ -96,6 +103,7 @@ Staff Corporate Communications Manager is a [grade 8](https://about.gitlab.com/h
 - Responsible for ideation of Corp Communications activities, OKRs, and reporting on results.
 
 #### Requirements
+
 - 9+ years experience in public relations and/or marketing communications
 - Experience developing and executing communications programs.
 - Experience driving results.
@@ -110,11 +118,13 @@ Staff Corporate Communications Manager is a [grade 8](https://about.gitlab.com/h
 Senior Manager, Corporate Communications is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Managing a portion of the Corporate Communications budget.
 - Develop and execute integrated programs that further the overall corporate marketing objectives and goals.
 - Manage a team of direct reports, freelancers and agencies, ensuring their results contribute to the overall corporate marketing objectives and goals.
 
 #### Requirements
+
 - 10+ years experience in public relations and/or marketing communications.
 - Experience managing budgets aligning with communications objectives and goals.
 - A natural storyteller with excellent writing skills.
@@ -130,11 +140,13 @@ The Principal Corporate Communications Manager is a [grade 9](https://about.gitl
 **Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each business function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Survey data yields a return of 18 organizations with an average of 1 incumbent in the principal level within Marketing Communications. A comparable role at GitLab is the Principal Internal Communications Manager.
 
 #### Responsibilities
+
 - Lead public company communication program; including quarterly earnings press releases and activities, investor updates, media interviews, etc.
 - Lead business storyline portion of overall Corporate Communications strategy; including developing press releases and contributed articles, event strategy and media relations strategy for GitLab announcements and news.
 - Work closely with executives communications lead to align executive visibility program; including but not limited to key message creation, media relationship building, media tours, contributed articles, and speaking presence.
 
 #### Requirements
+
 - 10+ years experience in public relations and/or marketing communications.
 - Experience running public relations/communications efforts at an enterprise technology company.
 - A natural storyteller with excellent writing skills.
@@ -150,6 +162,7 @@ The Director of Corporate Communications leads the overall corporate communicati
 The Director, Corporate Communications is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
+
 - 12+ years experience managing public relations and communications teams
 - Experience developing overall strategy for corporate communications, public relations and social media teams.
 - Experience managing budgets aligning with communications objectives and goals.
@@ -164,6 +177,7 @@ The Director, Corporate Communications is a [grade 10](https://about.gitlab.com/
 The executive communications manager will work closely with the executive leadership team to develop content for executive speaking opportunities, extend the reach of executive participation in external events, develop a platform for “Pick Your Brain” or other Zoom series, executive contributed articles and more.
 
 #### Responsibilities
+
 - Own the executive visibility program, driving its strategy and executing on the strategy.
 - Work closely with the executive leadership team to develop strong narrative presentations and content for external speaking opportunities.
 - Work with the brand, design, technical marketing team and others needed to develop state of the art slide decks for external events.
@@ -174,6 +188,7 @@ The executive communications manager will work closely with the executive leader
 - Work closely with Executive Business Administrators to plan executive speaking schedules for the year.
 
 #### Requirements
+
 - Experience in public relations and/or marketing communications.
 - Experience developing and executing executive communications programs.
 - Experience in enterprise software and/or open source.
@@ -190,6 +205,7 @@ The executive communications manager will work closely with the executive leader
 The executive communications to CEO specialty manager for the corporate communications team will work closely with the manager of the executive communications program, the CEO, and the CEO’s Chief of Staff team to extend the reach of the CEO’s participation in external events, bylined articles and more.
 
 #### Responsibilities
+
 - Own the CEO executive communications visibility program, driving its strategy and executing on said strategy with agency support.
 - Work closely with the CEO’s Chief of Staff team to develop strong narrative presentations and content for internal and external speaking opportunities.
 - Work with the brand, design, technical marketing team and others needed to develop state of the art slide decks for internal and external events.
@@ -205,6 +221,7 @@ The executive communications to CEO specialty manager for the corporate communic
 - Actively follows relevant technical media including Hacker News, relevant twitter personalities, and blogs
 
 #### Requirements
+
 - 6+ years experience in public relations and/or marketing communications
 - Experience working directly with CEOs of technology companies.
 - Experience executing CEO communications programs.
@@ -255,6 +272,7 @@ This role develops and leads a cross-functional, long-term strategic communicati
 
 
 #### Responsibilities
+
 - Manage GitLab’s reputation and crisis communications on critical corporate issues and initiatives that impact the company’s brand.
 - Initiatives include corporate strategy, organizational changes, or product issues in partnership with the VP of Corporate Communications, Chief Marketing and Strategy Officer, CEO, and Chief Legal Officer.
 - Create executive communications platforms for the CEO, CMO, and CFO aligned to business, financial, and leadership priorities.
@@ -265,6 +283,7 @@ This role develops and leads a cross-functional, long-term strategic communicati
 - In partnership with the VP of Communications, build a Communications Center of Excellence across media relations, analyst relations, social media, crisis management, and executive communications that will scale as GitLab grows.
 
 #### Requirements
+
 - 15+ years of proven progressive experience in corporate and product PR, executive visibility, and reputation and issues management at a fast-paced and public software company.
 - General manager or vice president-level PR agency experience preferred.
 - Extensive team leadership skills, including career development, coaching and scaling global teams.
@@ -294,6 +313,7 @@ The VP, Corporate Communications leads the team responsible for creating the uni
 The VP, Corporate Communications is a grade 12.
 
 #### Responsibilities
+
 - Work closely with the Marketing leadership team to contribute to the definition of the strategic objectives along the customer journey
 - Build strong working relationships cross-functionally, including the executive team
 - Define and execute on a holistic corporate communications strategy, resulting in consistency across all channels
@@ -306,6 +326,7 @@ The VP, Corporate Communications is a grade 12.
 - Trusted advisor to the CEO, CMO and rest of executive team
 
 #### Requirements
+
 - Proven progressive experience in corporate marketing in a fast-paced and public software company.
 - Experience with Software-as-a-Service offerings and open core software a plus.
 - Proven track record developing and executing successful B2B corporate communications.

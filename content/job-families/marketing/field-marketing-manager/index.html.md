@@ -64,6 +64,7 @@ A successful Field Marketing Manager has substantial understanding of sales-focu
 The Field Marketing Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Adapt digital and content marketing programs to the needs of a regional sales team.
 - Create, expand, and accelerate sales opportunities through regional and account-focused marketing execution and managing marketing campaigns that promote our products and/or services, within marketing defined strategy.
 - Support Channel and Alliance Marketing activities with GitLab partners from approval of campaign through execution as required.
@@ -217,12 +218,14 @@ In addition to meeting all of the requirements of a Manager, Field Marketing, th
 The Senior Manager, Field Marketing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Establish, allocate, and track budget down to the sub-region
 - Build out process to integrate channel partners into regional campaigns
 - Plan an integral role in building out and operationalizing the work Field Marketing does to support our growing channel business
 - Play an integral role in building out Field Marketing’s work with cross-functional integrated campaigns
 
 ### Requirements
+
 - 20+ years of experience
 - Past experience running a team of 10+ direct reports
 - Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
@@ -230,7 +233,7 @@ The Senior Manager, Field Marketing is a [grade 9](https://about.gitlab.com/hand
 ### Key Performance Indicators
 
 This role includes all of the performance indicators of the previous level plus:
-- Lead quarterly regional Field Marketing leadership meeting on educational topic of choice  
+- Lead quarterly regional Field Marketing leadership meeting on educational topic of choice
 
 ## Career Ladder
 

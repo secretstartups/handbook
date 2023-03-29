@@ -10,6 +10,7 @@ The Manager of Marketing Programs for GitLab should have a background and hands-
 The Manager, Marketing Programs is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Develop and execute high-impact, integrated B2B demand generation programs to achieve revenue and pipeline goals.
 - Strategize campaign calendar and delegation of campaign planning within the marketing programs team.
 - Work cross-functionally across the marketing organization as well as sales and other teams to design and orchestrate impactful, targeted marketing programs.
@@ -19,6 +20,7 @@ The Manager, Marketing Programs is a [grade 8](https://about.gitlab.com/handbook
 - Oversee our campaign calendar and communicate to marketing team and larger organization, maximizing for return on marketing spend.
 
 ### Requirements
+
 - 5-7 years of enterprise software marketing experience.
 - 2+ years of experience hiring, onboarding, and managing marketing teams.
 - Self-starter with proven track record of project managing and executing integrated marketing campaigns.

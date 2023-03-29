@@ -122,6 +122,7 @@ The Distribution Deploy team is involved with diverse projects and tasks that in
 Package engineers are focused on creating and maintaining the dependency management system that extends GitLab to function as a universal package management tool. The Package team is also improving the [Container Registry](https://gitlab.com/gitlab-org/container-registry) and is responsible for items listed under [Package product category](https://about.gitlab.com/handbook/product/categories/#package-stage).
 
 #### Requirements
+
 - Strong experience with Ruby on Rails and/or Golang.
 - Experience building highly available and performant business-critical product features.
 - Previous work with packaging and distribution technologies (example: npm, Maven, RPM) and/or Docker.
@@ -133,6 +134,7 @@ Package engineers are focused on creating and maintaining the dependency managem
 Runner engineers are primarily responsible for the [GitLab-Runner](https://gitlab.com/gitlab-org/gitlab-runner). The GitLab-Runner service acts as the interface between the rest of GitLab and a user's CI infrastructure, so that whether CI is running on a cluster of Raspberry Pis, a super-computer, or, as in the case with GitLab.com, thousands of virtual machines running in the cloud - it’s the GitLab-Runner that makes this happen. You can learn more about the Runner group on the [Runner product category](https://about.gitlab.com/handbook/product/categories/#runner-group) handbook page.
 
 #### Requirements
+
 - Experience with Ruby on Rails and/or Golang.
 - Experience building highly available and performant business-critical product features.
 - Understanding of how to build instrumented, observable software systems.
@@ -144,6 +146,7 @@ Runner engineers are primarily responsible for the [GitLab-Runner](https://gitla
 Focus on security protection features for GitLab (including policy, vulnerability, dependency, and compliance management). This role will report to and collaborate directly with a Govern Engineering Manager.
 
 #### Requirements
+
 - Strong engineer with Go and Ruby experience.
 - Passion for security.
 - Understanding of all levels of OSI network model and common network protocols.
@@ -155,6 +158,7 @@ Focus on security protection features for GitLab (including policy, vulnerabilit
 - Experience in using GitLab and GitLab CI.
 
 #### Responsibilities
+
 - Develop security components from proposal to polished end result.
 - Integrating 3rd party security tools into production environments deployed by GitLab.
 
@@ -163,11 +167,13 @@ Focus on security protection features for GitLab (including policy, vulnerabilit
 Focus on security features for GitLab. This role will specifically focus on security; if you want to work with Ruby on Rails and not security, please apply to our Backend Engineer role instead. This role will report to and collaborate directly with the Secure Engineering Manager.
 
 #### Requirements
+
 - Strong Go and/or Ruby engineer with security expertise or proven security interest.
 - Passion and interest toward security (scanning, dependencies, etc.).
 - Experience in using GitLab and GitLab CI.
 
 #### Responsibilities
+
 - Develop security tools from proposal to polished end result.
 - Integrating 3rd party security tools into GitLab.
 - Complete our internal Advisories Database.
@@ -181,12 +187,14 @@ Focus on security features for GitLab. This role will specifically focus on secu
 The configuration team works on GitLab's Application Control Panel, Infrastructure Configuration features, our ChatOps product, Feature flags, and our entire Auto DevOps feature set. It is part of our collection of Ops Backend teams.
 
 #### Requirements
+
 - Experienced engineer who is capable of leading and growing a team of senior engineers.
 - For this position, a significant amount of experience with Ruby is a strict requirement. Experience with Go is a plus as we expect that you will likely work on Go during your journey at GitLab.
 - Experience with Docker, Kubernetes platform development.
 - Experience or interest in functions-as-a-service.
 
 #### Responsibilities
+
 - Implement and improve upon our constellation of configuration feature set.
 - Work with the PM team to execute on the roadmap.
 - Ensure we deliver on our commitments to the market by communicating clearly with stakeholders.
@@ -214,6 +222,7 @@ Additionally, we also focus on improving the efficiency, performance, and scalab
 The CI/CD Engineering Manager also does weekly stand-up with a team and product managers to talk about plan for the work in the upcoming week and coordinates a deployment of CI/CD related services with infrastructure team.
 
 #### Requirements
+
 - Go developer with a lot of Kubernetes production experience is a plus.
 
 ### Geo
@@ -228,6 +237,7 @@ The CI/CD Engineering Manager also does weekly stand-up with a team and product 
 - Respond quickly to customer requests for support.
 
 #### Requirements
+
 - Experience designing and building fault-tolerant, distributed systems.
 - Experience building and scaling highly-available systems.
 - Experience with queueing and messaging systems.
@@ -239,6 +249,7 @@ The CI/CD Engineering Manager also does weekly stand-up with a team and product 
 Growth: Analytics and Experimentation Engineers build, maintain, and integrate with GitLab the tools necessary for experimentation and gathering analytics in a privacy-focused manner to enable product teams at GitLab to develop and report on product-led experiments and features.
 
 #### Requirements
+
 - Strong self-direction (this team is being bootstrapped).
 - Experience with A/B, multivariate, or other data-driven methods of testing.
 - Comfort multitasking in a highly iterative environment.
@@ -268,6 +279,7 @@ The Senior Backend Engineer for Product Intelligence extends the Senior Backend 
 - Frontend experience including HTML, CSS, and JavaScript frameworks (Vue.js preferred).
 
 #### Responsibilities
+
 - Build tooling to collect metrics from GitLab.com and self managed instances.
 - Work closely with GitLab's Data team to analyse data pipelines.
 - Build automation to ensure the quality of our collected metrics.
@@ -278,6 +290,7 @@ The Senior Backend Engineer for Product Intelligence extends the Senior Backend 
 Engineering Productivity Engineers are full-stack engineers primarily tasked with improving the productivity of the GitLab developers (from both GitLab Inc and the rest of the community), and making the GitLab project maintainable in the long-term.
 
 #### Responsibilities
+
 - Build automated measurements and dashboards to gain insights into Engineering Productivity
 to understand what is working and what is not.
 - Make suggestions for engineering workflow improvements, monitor the results and iterate.
@@ -289,6 +302,7 @@ to understand what is working and what is not.
 - Help with maintaining GitLab Docs.
 
 #### Requirements
+
 - Experience developing in Ruby (this is a strict requirement).
 - Experience in with test automation frameworks for both front-end and back-end testing.
 - Experience in designing and developing tools and solutions used across teams.
@@ -306,6 +320,7 @@ See the description of the [Quality team](https://about.gitlab.com/handbook/engi
 The Application Performance team works to improve availability, reliability, and performance of the application. We analyze the behavior, recognize bottlenecks, and propose changes. We work to make GitLab a responsive and performant DevOps platform, which offers a great user experience at any scale.
 
 #### Responsibilities
+
 - Identify, troubleshoot, improve and manage memory-intensive aspects of the GitLab application.
 - Explore alternatives outside of the GitLab application for reducing memory consumption through contributions to, e.g., Rails, Ruby, Puma, or other key third-party components.
 - Define and help implement best practices for creating efficient and performant code.
@@ -343,12 +358,14 @@ Alternatively, some of the following qualifications, may not necessarily be all 
 The Ecosystem team is responsible for seamless integration between GitLab and 3rd party products as well as making GitLab products available on cloud service providers’ marketplaces such as AWS. The team plays a critical role in developing APIs and SDK and expanding GitLab market opportunities.
 
 #### Responsibilities
+
 - Design, build, and maintain APIs, Webhooks, and SDK of Gitlab products.
 - Design, build, and maintain solutions to integrate to partner and 3rd party platforms.
 - Design, build, and maintain solutions for integrating with cloud service provider marketplaces, such as AWS.
 - Develop documentation and instructions of how to work with GitLab SDK & APIs.
 
 #### Requirements
+
 - Previous experience developing REST and/or GraphQL APIs using a variety of technologies.
 - Previous experience working with Open API standards such as Swagger.
 - Proficient with Ruby.
@@ -360,6 +377,7 @@ The Ecosystem team is responsible for seamless integration between GitLab and 3r
 Gitaly is a service that handles git and other filesystem operations for GitLab instances, and aims to improve reliability and performance while scaling to meet the needs of installations with thousands of concurrent users, including our site GitLab.com. This position reports to the Gitaly Lead.
 
 #### Responsibilities
+
 - Participate in architectural discussions and decisions surrounding Gitaly.
 - Scope, estimate and describe tasks to reach the team’s goals.
 - Collaborate on designing RPC interfaces for the Gitaly service.
@@ -384,6 +402,7 @@ Gitaly is a service that handles git and other filesystem operations for GitLab 
 A Meltano Engineer will be tasked with executing on the vision of the Meltano project, to bring the product to market.
 
 #### Requirements
+
 - A passion for data science and analytics.
 - Experience with doing initial prototyping, architecture, and engineering work.
 - In-depth experience with Python (no Ruby or Rails experience required for this role).
@@ -396,6 +415,7 @@ A database specialist is an engineer that focuses on database related changes an
 Unlike the [Database Engineer](/job-families/engineering/database-engineer/) position the database specialist title has a balance of application development and knowledge of PostgreSQL. As such Ruby knowledge is absolutely required and deep PostgreSQL knowledge is equally important.
 
 #### Requirements
+
 - Significant professional software engineering experience with Ruby on Rails and PostgreSQL in large production environments.
 - Demonstrated experience with Ruby on Rails or other Ruby frameworks such as Sinatra or Hanami.
 - Expert-level understanding of relational databases, SQL and query optimization techniques and demonstrated ability to both diagnose and prevent performance problems.
@@ -406,6 +426,7 @@ Unlike the [Database Engineer](/job-families/engineering/database-engineer/) pos
 [Gitter](https://gitter.im) specialists are full-stack JavaScript developers who are able to write JavaScript code that is shared between multiple environments. Gitter uses a JavaScript stack running Node.js on the server, and bundled with webpack on the client. The [iOS](https://gitlab.com/gitlab-org/gitter/gitter-ios-app), [Android](https://gitlab.com/gitlab-org/gitter/gitter-android-app), macOS (Cocoa) and [Linux/Windows (NW.js)](https://gitlab.com/gitlab-org/gitter/desktop/) clients reuse [much of the same codebase](https://gitlab.com/gitlab-org/gitter/webapp) but also require some knowledge of Objective-C, Swift and Java. Gitter uses MongoDB, Redis, and Elasticsearch for backend storage.
 
 #### Requirements
+
 - Strong client-side JavaScript experience.
 - Strong production Node.js experience.
 - Highly desirable: MongoDB, Elasticsearch, and Redis experience.
@@ -413,6 +434,7 @@ Unlike the [Database Engineer](/job-families/engineering/database-engineer/) pos
 - Desirable: DevOps experience, working with Linux, Ansible, AWS or similar products.
 
 #### Responsibilities
+
 - Fix prioritized issues from the issue tracker.
 - Triage issues (duplicates, clarification, reproduction steps, prioritization).
 - Create high quality frontend and backend code.
@@ -430,6 +452,7 @@ Unlike the [Database Engineer](/job-families/engineering/database-engineer/) pos
 [Infrastructure](https://about.gitlab.com/handbook/engineering/infrastructure/) specialists work alongside DBREs and SREs and are experienced Ruby/GoLang developers who work in the product with a focus on reliability, observability, performance and scalability at the application level, as well as on resource optimization from an Infrastructure perspective and on operationally relevant features.
 
 #### Requirements
+
 - Strong Ruby and Golang experience required.
 - Strong experience with profiling and metrics analysis.
 - Strong experience with observability tools, including metrics (Prometheus is a plus), structured logging and distributed tracing.
@@ -437,6 +460,7 @@ Unlike the [Database Engineer](/job-families/engineering/database-engineer/) pos
 - ActiveRecord and SQL expertise.
 
 #### Responsibilities
+
 - Fix relevant Infrastructure-related issues from the issue tracker.
 - Develop operations-related features.
 - Focus on reliability, performance and scalability, as well as resource optimization.
@@ -446,6 +470,7 @@ Unlike the [Database Engineer](/job-families/engineering/database-engineer/) pos
 Delivery specialist is an engineer that focuses on improving the engineering release workflows, creates new tools, improves release process and works closely with the whole Engineering team to ensure that every GitLab release reaches the public in time.
 
 #### Responsibilities
+
 - Assures the [GitLab Release Process](https://about.gitlab.com/handbook/engineering/releases/).
 - Creates new tools to automate the release process.
 - Builds new GitLab release features to replace existing custom tooling.
@@ -493,12 +518,14 @@ Other qualifications include:
 Elasticsearch engineers are focused on delivering a first class global search experience throughout GitLab products.  They are experienced Ruby/GoLang developers who focus on implementing core Elasticsearch functions while advising other development teams on best practices (e.g. indexing).
 
 #### Requirements
+
 - Elasticsearch experience - modeling, processing, nodes and index management.
 - Proficient in Go (Golang) and/or Ruby, Ruby on Rails.
 - Desirable: DevOps experience, working with Linux, GCP/AWS, Chef/Ansible, or similar products.
 - Desirable: PostgreSQL experience.
 
 #### Responsibilities
+
 - Building a first class global search implementation.
 - Improve and implement our indexing strategies.
 - Own architecture, performance and scaling of the Elasticsearch solution.

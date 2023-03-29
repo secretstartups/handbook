@@ -16,6 +16,7 @@ requirements and responsibilities:
 <a id="intermediate-requirements"></a>
 
 #### Requirements
+
 - Significant [professional experience](#professional-experience) with Ruby on Rails **or** [language](#primary-programming-language) required by the [specialty](#specialties)
 - Professional experience with any other technologies that may be required by the [specialty](#specialties)
 - Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment
@@ -52,6 +53,7 @@ requirements and responsibilities:
 - Passionate about/experienced with open source and developer tools
 
 #### Responsibilities
+
 - Develop features and improvements to the GitLab product in a secure,
   well-tested, and performant way
 - Collaborate with Product Management and other stakeholders within Engineering (Frontend, UX, etc.) to maintain a high bar for quality in a fast-paced, iterative environment
@@ -309,6 +311,7 @@ Maven and APT and similar. Additionally, the Package team is improving
 the Container Registry and is responsible for items listed under [Package product category](https://about.gitlab.com/handbook/product/categories/#package).
 
 #### Responsibilities
+
 - Develop the architecture by extending existing features
 - Work with the Distribution team on replacing their current delivery system
 - Create and maintain observability of the newly defined features
@@ -319,6 +322,7 @@ the Container Registry and is responsible for items listed under [Package produc
 Focus on security protection features for GitLab (including policy, vulnerability, dependency, and compliance management). This role will report to and collaborate directly with a Govern Engineering Manager.
 
 #### Requirements
+
 - Strong engineer with Go and Ruby experience.
 - Passion for security.
 - Understanding of all levels of OSI network model and common network protocols.
@@ -330,6 +334,7 @@ Focus on security protection features for GitLab (including policy, vulnerabilit
 - Experience in using GitLab and GitLab CI.
 
 #### Responsibilities
+
 - Develop security components from proposal to polished end result.
 - Integrating 3rd party security tools into production environments deployed by GitLab.
 
@@ -339,11 +344,13 @@ Focus on security protection features for GitLab (including policy, vulnerabilit
 Focus on security features for GitLab. This role will specifically focus on security; if you want to work with Ruby on Rails and not security, please apply to our Backend Engineer role instead. This role will report to and collaborate directly with the Secure Engineering Manager.
 
 #### Requirements
+
 - Strong Go and/or Ruby engineer with security expertise or proven security interest.
 - Passion and interest toward security (scanning, dependencies, etc.).
 - Experience in using GitLab and GitLab CI.
 
 #### Responsibilities
+
 - Develop security tools from proposal to polished end result.
 - Integrating 3rd party security tools into GitLab.
 - Complete our internal Advisories Database.
@@ -357,12 +364,14 @@ Focus on security features for GitLab. This role will specifically focus on secu
   The configuration team works on GitLab's Application Control Panel, Infrastructure Configuration features, our ChatOps product, Feature flags, and our entire Auto DevOps feature set. It is part of our collection of Ops Backend teams.
 
 #### Requirements
+
 - Experienced engineer who is capable of leading and growing a team of senior engineers.
 - For this position, a significant amount of experience with Ruby is a strict requirement. Experience with Go is a plus as we expect that you will likely work on Go during your journey at GitLab.
 - Experience with Docker, Kubernetes platform development.
 - Experience or interest in functions-as-a-service.
 
 #### Responsibilities
+
 - Implement and improve upon our constellation of configuration feature set.
 - Work with the PM team to execute on the roadmap.
 - Ensure we deliver on our commitments to the market by communicating clearly with stakeholders.
@@ -395,6 +404,7 @@ Additionally, we also focus on improving the efficiency, performance, and scalab
 The CI/CD Engineering Manager also does weekly stand-up with a team and product managers to talk about plan for the work in the upcoming week and coordinates a deployment of CI/CD related services with infrastructure team.
 
 #### Requirements
+
 - Go developer with a lot of Kubernetes production experience is a plus
 
 ### Geo
@@ -412,6 +422,7 @@ large repositories and projects, or can be part of a Disaster Recovery solution.
 - Respond quickly to customer requests for support
 
 #### Requirements
+
 - Experience designing and building fault-tolerant, distributed systems
 - Experience building and scaling highly-available systems
 - Experience with queueing and messaging systems
@@ -426,6 +437,7 @@ engineers
 enable us to more effectively meet the needs of potential users.
 
 #### Requirements
+
 - Strong self-direction (this team is being bootstrapped)
 - Experience with A/B, multivariate, or other data-driven methods of testing
 - Comfort multitasking in a highly iterative environment
@@ -437,6 +449,7 @@ the GitLab developers (from both GitLab Inc and the rest of the community), and
 making the GitLab project maintainable in the long-term.
 
 #### Responsibilities
+
 - Build automated measurements and dashboards to gain insights into the productivity of the Engineering organization to identify opportunities for improvement.
 - Increase contributor and developer productivity by making measurement-driven improvements to the development tools / workflow / processes, then monitor the results, and iterate.
 - Dogfood GitLab product features to improve developer workflow and provide feedback to product teams.
@@ -447,6 +460,7 @@ making the GitLab project maintainable in the long-term.
 
 
 #### Requirements
+
 - Experience developing in Ruby (this is a strict requirement).
 - Experience in with test automation frameworks for both front-end and back-end testing.
 - Experience in designing and developing tools and solutions used across teams.
@@ -485,6 +499,7 @@ Engineering Productivity Engineers have the following job-family performance ind
 The Application Performance team works to improve availability, reliability, and performance of the application. We analyze the behavior, recognize bottlenecks, and propose changes. We work to make GitLab a responsive and performant DevOps platform, which offers a great user experience at any scale.
 
 #### Responsibilities
+
 - Identify, troubleshoot, improve and manage memory-intensive aspects of the
   GitLab application.
 - Explore alternatives outside of the GitLab application for reducing

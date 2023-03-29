@@ -38,11 +38,13 @@ This position reports to the [Security Automation Manager](#security-automation-
 The {Security Engineer, Automation} is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Assist with the design, engineering, deployment, and maintenance of custom automation products
 - Assist with the evaluation of automation tools for use by the Security Automation team and Seurity Department
 - Assist with the design and gathering of metrics data for the Security Automation program
 
 #### Requirements
+
 - Previous experience on a Security Operations, Software Development, Automation team, or relevant education
 - Good written and verbal communication skills
 - Scripting/coding experience with one or more languages - Python, Ruby, and/or Golang experience a plus
@@ -62,12 +64,14 @@ This position reports to the [Security Automation Manager](#security-automation-
 The {Senior Security Engineer, Automation} is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Design, engineer, deploy, and maintain custom automation products
 - Evaluate automation tools for use by the Security Automation team and Seurity Department
 - Design and gather metrics data for the Security Automation program
 - Represent the Security Automation team as a subject matter expert in at least one technical, product, or conceptual area
 
 #### Requirements
+
 - 5 years previous experience on a Security Operations, Software Development, Automation team, or relevant education
 - Great written and verbal communication skills
 - Hand on scripting/coding experience with one or more languages - Python, Ruby, and/or Golang experience a plus
@@ -87,6 +91,7 @@ This position reports to the [Security Automation Manager](#security-automation-
 The {Staff Security Engineer, Automation} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - The responsibilities of a Senior Security Engineer, Automation, plus;
 - Lead the design, engineering, deployment, and maintenance efforts of custom automation products
 - Define evaluation criteria for automation tools to be used by the Security Automation team and Seurity Department
@@ -94,6 +99,7 @@ The {Staff Security Engineer, Automation} is a [grade 8](https://about.gitlab.co
 - Represent the Security Automation team as a subject matter expert in at least two technical, product, or conceptual area
 
 #### Requirements
+
 - 10 years previous experience on a Security Operations, Software Development, Automation team, or relevant education
 - Excellent written and verbal communication skills
 - Expert scripting/coding skills in one or more languages - Python, Ruby, and/or Golang experience a plus
@@ -111,6 +117,7 @@ This position reports to the [Security Engineering Director](/job-families/secur
 The {Distinguished Security Engineer, Automation} is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - The responsibilities of a Staff Security Engineer, Automation, plus;
 - Drive the design, engineering, deployment, and maintenance of custom automation products
 - Drive the technical direction and roadmap of the Security Automation program
@@ -119,6 +126,7 @@ The {Distinguished Security Engineer, Automation} is a [grade 10](https://about.
 - Work in a leveraged manner influencing other organizations and teams across GitLab with secure automation approaches and a focus on problem solving with automation
 
 #### Requirements
+
 - 15 years previous experience on a Security Operations, Software Development, Automation team, or relevant education
 - Excellent written and verbal communication skills
 - Expert scripting/coding skills in one or more languages - Python, Ruby, and/or Golang experience a plus
@@ -136,6 +144,7 @@ This position reports to the [Security Engineering Director](/job-families/secur
 The {Security Automation Manager} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Hire and oversee a world class team of security automation engineers
 - Help their team grow their skills and experience
 - Provide input on security architecture, issues, and features
@@ -152,6 +161,7 @@ The {Security Automation Manager} is a [grade 8](https://about.gitlab.com/handbo
 - Successfully execute on quarterly OKRs
 
 #### Requirements
+
 - Demonstrable prior people management experience
 Enjoys working hard; is action oriented and full of energy for the things he/she sees as challenging; not fearful of acting with a minimum of planning; seizes more opportunities than others.
 - Can effectively cope with change; can shift gears comfortably; can decide and act without having the total picture; isn’t upset when things are up in the air; doesn’t have to finish things before moving on; can comfortably handle risk and uncertainty.
@@ -177,12 +187,14 @@ This position reports to the [Security Engineering Director](/job-families/secur
 The {Security Automation Senior Manager} is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - The same responsibilities of a Security Automation Manager, plus the below:
 - Maintain reliable, up-to-date, information regarding automation technology changes and trends
 - Execute strategic vision for the Security Automation program
 - Draft and successfully execute on quarterly OKRs
 
 #### Requirements
+
 - At least 5 years prior experience managing security engineering teams
 
 ## Segment

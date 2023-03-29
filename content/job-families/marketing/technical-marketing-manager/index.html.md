@@ -58,6 +58,7 @@ help educate the company about market competitors. You will be responsible for c
 (demos, videos, workshops, tutorials, blogs, whitepapers) to show off GitLab’s planning and portfolio management capabilities.
 
 #### Requirements
+
 - At least 5 years of hands-on experience using Agile planning and portfolio management products or services.
 - Understand market dynamics, the competition, and customer needs of the enterprise agile project and portfolio management.
 - Understand enterprise buyer and user personas tasked with both project and product manager tools and solutions and how to market to them.
@@ -71,6 +72,7 @@ help educate the company about market competitors. You will be responsible for c
 (demos, videos, workshops, tutorials, blogs, whitepapers) to show off GitLab’s cloud native capabilities.
 
 #### Requirements
+
 - At least 5 years of experience with container technologies (such as Kubernetes, Docker), virtualization technologies, and cloud application architectures (such as Microservices).
 - Understand market dynamics, the competition, and customer needs of the enterprise cloud operations and infrastructure teams.
 - Understand enterprise buyer and user personas tasked with operations and infrastructure tools and solutions and how to market solutions to them.
@@ -84,6 +86,7 @@ help educate the company about market competitors. You will be responsible for c
 (demos, videos, workshops, tutorials, blogs, whitepapers) to show off GitLab’s source code related capabilities.
 
 #### Requirements
+
 - At least 5 years of hands-on experience using developer products and services.  such as source code management, api management, review management, code quality, developer metrics, and productivity.
 - Understand market dynamics, the competition, and customer needs of the enterprise application developers.
 - Understand enterprise buyer and user personas tasked with developer tools and solutions and how to market developer solutions to them.
@@ -97,6 +100,7 @@ help educate the company about market competitors. You will be responsible for c
 (demos, videos, workshops, tutorials, blogs, whitepapers) to show off GitLab’s build and test automation capabilities.
 
 #### Requirements
+
 - At least 5 years of hands-on experience using IT software development lifecycle automation and quality products and services such as build automation, test automation, quality management, and agile testing.
 - Understand market dynamics, the competition, and customer needs of the enterprise application developers and software testing / QA.
 - Understand enterprise buyer and user personas tasked with both developer and QA tools and solutions and how to market to them.
@@ -110,6 +114,7 @@ help educate the company about market competitors. You will be responsible for c
 (demos, videos, workshops, tutorials, blogs, whitepapers) to show off GitLab’s application security and defense capabilities.
 
 #### Requirements
+
 - At least 5 years of hands-on experience using cybersecurity products and services such as application security, endpoint security, SIEM, security analytics or network security domains.
 - Understand market dynamics, the competition, and customer needs of the cybersecurity space.
 - Deep understanding of Agile and DevOps methodologies across the entire Software Development Lifecycle, especially as it relates to application security risks, threats, trends, and patterns.
@@ -124,6 +129,7 @@ help educate the company about market competitors. You will be responsible for c
 (demos, videos, workshops, tutorials, blogs, whitepapers) to show off GitLab’s monitoring capabilities.
 
 #### Requirements
+
 - At least 5 years of hands on experience with IT operations monitoring products and services such as tracing, logging, application performance monitoring, incident management, and related metrics.
 - Understand market dynamics, the competition, and customer needs of the enterprise IT operations space.
 - Understand enterprise buyer and user personas tasked with enterprise IT operations and monitoring challenges and pain points and how to market monitoring solutions to them.
@@ -138,6 +144,7 @@ and enabling sales on competitive content (such as competitive cards, objections
 will also be responsible for informing Product Marketing and Product Management about the competitive landscape.
 
 #### Requirements
+
 - At least 5 years developing technical collateral such as demos, webinars, videos, competitive battle cards, ROI tools, and assist with customer Requests For Proposals (RFPs).
 - Prior experience in competitive intelligence, product management, technical product marketing or solution architect roles.
 - Hands-on experience installing, configuring, evaluating, and examining competitive and complementary technologies to compare and differentiate them.
@@ -146,6 +153,7 @@ will also be responsible for informing Product Marketing and Product Management 
 - Sales or sales engineering experience a plus.
 
 #### Responsibilities
+
 - Maintain competitive information repository and keep competitor information up to date.
 - Work and collaborate with different teams including product management, engineering, marketing, and sales teams to examine and identify competitive products strengths, weaknesses, and differentiators.
 - Provide competitive intelligence training, support and consulting to sales, product, marketing, and partner teams.

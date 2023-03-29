@@ -43,6 +43,7 @@ The Threat Intelligence Engineer is a [grade 6](https://about.gitlab.com/handboo
 The Senior Threat Intelligence Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Leverages security expertise in at least one specialty area
 - Triages and handles/escalates security issues independently
 - Conduct security architecture reviews and makes recommendations
@@ -64,6 +65,7 @@ The Staff Security Engineer role extends the [Senior Threat Intelligence Enginee
 The Staff Threat Intelligence Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Recognized security expert in multiple specialty areas, with cross-functional team experience
 - Make security architecture decisions
 - Provide actionable and constructive feedback to cross-functional teams

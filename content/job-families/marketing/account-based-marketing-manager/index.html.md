@@ -88,6 +88,7 @@ The Manager, Account Based Marketing reports to Senior Manager, Marketing Campai
 The Manager, Account Based Marketing is a [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Develop and execute high-impact, integrated ABM programs to achieve revenue and pipeline goals for key accounts
 - Strategize ABM campaign approach and delegation of campaign planning within the Account Based Marketing team
 - Work cross-functionally across the marketing organization as well as sales and other teams to design and orchestrate impactful, targeted ABM campaigns

@@ -20,6 +20,7 @@ They own the delivery of test automation tools and strategy and coordinate acros
 The Manager, Quality Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Help define the team's road map and author project plans to deliver against that roadmap.
 - Draft team's quarterly OKR and manage the team's priorities.
 - Drive improvements to test framework architecture and test coverage.
@@ -36,6 +37,7 @@ The Manager, Quality Engineering is a [grade 8](https://about.gitlab.com/handboo
 - Strong sense of ownership, urgency, and drive.
 
 ### Requirements
+
 - Technical credibility: Past experience as a Software Engineer in Test (or similar title).
 - Experience developing in Ruby or Golang or a proven ability to pick up a new language quickly.
 - Experience with UI & API test automation tools, particularly in Ruby stack (e.g. Capybara, Watir, Selenium).
@@ -87,6 +89,7 @@ The Senior Manager, Quality Engineering role extends the [Manager, Quality Engin
 The Senior Manager, Quality Engineering is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Manage up to 4 Quality Engineering teams.
 - Conduct managerial interviews for candidates, and train engineering managers to do said interviews.
 - Generate and implement process improvements, especially cross-team processes.
@@ -100,6 +103,7 @@ The Senior Manager, Quality Engineering is a [grade 9](https://about.gitlab.com/
 - Improve company awareness of QE initiatives through multi-modal communication and education.
 
 ### Requirements
+
 - Management credibility: Past experience as a (Senior) Engineering Manager.
 - Ability to understand, communicate, and improve the quality of multiple teams.
 - Proven track record of successful career development of direct reports.

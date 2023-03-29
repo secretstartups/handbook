@@ -135,6 +135,7 @@ This position reports to the [Security Engineering Director](/job-families/secur
 The {Security Research Manager} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Hire and oversee a world class team of security researchers
 - Help their team grow their skills and experience
 - Provide input on security architecture, issues, and features
@@ -151,6 +152,7 @@ The {Security Research Manager} is a [grade 8](https://about.gitlab.com/handbook
 - Successfully execute on quarterly OKRs
 
 #### Requirements
+
 - Demonstrable prior people management experience
 Enjoys working efficiently; is action oriented and full of energy for the things he/she sees as challenging; not fearful of acting with a minimum of planning; seizes more opportunities than others.
 - Can effectively cope with change; can shift gears comfortably; can decide and act without having the total picture; isn’t upset when things are up in the air; doesn’t have to finish things before moving on; can comfortably handle risk and uncertainty.
@@ -176,12 +178,14 @@ This position reports to the [Security Engineering Director](/job-families/secur
 The {Security Research Senior Manager} is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - The same responsibilities of a Security Research Manager, plus the below:
 - Maintain reliable, up-to-date, information regarding automation technology changes and trends
 - Execute strategic vision for the Security Research program
 - Draft and successfully execute on quarterly OKRs
 
 #### Requirements
+
 - At least 5 years prior experience managing security engineering teams
 
 ## Segment

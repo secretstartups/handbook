@@ -76,6 +76,7 @@ The GitLab Database Ecosystem has the following areas of interest:
 The Database Reliability Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
+
 - Provides emergency response either by being on-call or by reacting to symptoms according to monitoring.
 - Delivers production solutions that scale, identifying automation points, and proposing ideas on how to improve efficiency.
 - Delivers projects, design solutions, identifying potential issues, tradeoffs and risks.
@@ -162,7 +163,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will move to the first round of interviews.
   - 60 Minute Technical Interview with a Senior DBRE.
   - Two 60 Minute Technical Interviews with a member of the Infrastructure Engineering team
-  - 60 Minute Interview with the Hiring Manager.  
+  - 60 Minute Interview with the Hiring Manager.
 - Next, candidates will move to the second round of interviews.
   - 60 Minute Interview with a Senior Manager/Director of Infrastructure Engineering.
 - Successful candidates will subsequently be made an offer.

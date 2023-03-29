@@ -13,6 +13,7 @@ As a designer for GitLab you would be responsible for creating and maintaining o
 The Junior Designer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Assist in the redesign of the [GitLab website](/).
 - Build and maintain slide decks for various events and presentations.
 - Conceptualize and design landing pages for various campaigns and GitLab features.
@@ -27,6 +28,7 @@ The Junior Designer is a [grade 5](https://about.gitlab.com/handbook/total-rewar
 The Intermediate Designer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Set the brand of GitLab
 - Design a coherent brand image (logo's, icons, colors, typography, etc.)
 - Redesign [our static website](/)

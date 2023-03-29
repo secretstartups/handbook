@@ -50,6 +50,7 @@ The Senior Manager, Sales Development is a [grade 9](https://about.gitlab.com/ha
 As a Senior Sales Development Manager of a territory at GitLab, you will oversee a team of Sales Development Representatives (SDRs) focused on developing qualified opportunities. You will build a clear structure and strategy through working closely with both the sales team and the larger marketing org as well as leveraging data to iterate and improve this strategy and ultimately SDR productivity.
 
 #### Requirements
+
 - Attract, retain, and motivate exceptional SDRs
 - Proven track record establishing, achieving or exceeding goals
 - Build manager relationships with the larger marketing org as well as sales to ensure aligned strategy
@@ -59,6 +60,7 @@ As a Senior Sales Development Manager of a territory at GitLab, you will oversee
 As a Senior Sales Development Manager of a region, you get the opportunity to manage a team of regional managers. You will provide coaching and feedback to your team ensuring both your SDR managers and their Sales Development Reps have what they need to be successful in their role. Partnering closely with sales and marketing in your region, you will assist in the development of campaigns and lead generation strategies that align to regional goals. With that information, you will guide your SDR managers in the roll out and continous iteration and improvemnt of these campaigns as well as monitoring the data to provide updates.
 
 #### Requirements
+
 - Leadership at GitLab
 - Experience managing managers in an outbound prospecting organization at a global organization
 - Management experience in a high growth environment, preferably in sales development or a similar field

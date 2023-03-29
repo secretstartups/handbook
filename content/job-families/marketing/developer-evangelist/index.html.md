@@ -20,7 +20,7 @@ The Developer Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-
 ### Responsibilities
 
 - Lead the conversation around technology trends and best practices in the developer community
-- Create engaging content, including technical talks, blog posts, demos, and videos, that educates the GitLab and open-source community.  
+- Create engaging content, including technical talks, blog posts, demos, and videos, that educates the GitLab and open-source community.
 - Support GitLab's product and engineering efforts by sharing what you learn while engaging with the wider GitLab community and the tech community, at large
 - Conduct interviews with media via phone, podcasts, video, and in-person
 - Be a leader within GitLab and in the wider community
@@ -45,6 +45,7 @@ The Developer Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-
 The Senior Developer Evangelist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Same as Developer Evangelist plus,
 - Contributor to relevant open source projects, foundations, and TAGs in order to give GitLab visibility and share our experience and insights to developments in our areas of interest
 - Support teammates, including senior staff and executive group, in their content creation efforts
@@ -64,6 +65,7 @@ The Senior Developer Evangelist is a [grade 7](https://about.gitlab.com/handbook
 The Staff Developer Evangelist is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
+
 - Same as Senior Developer Evangelist plus,
 - Create content that positions GitLab as a thought leader as measure and generates a large number of impressions and engagement
 - Work cross-functionally with GitLab teams, including GitLab executives, and contribute to GitLab's top-level company goals
@@ -73,7 +75,7 @@ The Staff Developer Evangelist is a [grade 8](https://about.gitlab.com/handbook/
 - Same as Senior Developer Evangelist plus,
 - Hold positions of influence in open source projects and organizations such as TAG leads, maintainer status, author status
 - A growing and engaged social media following of 5,000+ followers or equivalent
-- Experience giving talks and developing demos, webinars, videos, and other technical content at industry events with 1,000+ attendees, or experience as keynote speaker.  
+- Experience giving talks and developing demos, webinars, videos, and other technical content at industry events with 1,000+ attendees, or experience as keynote speaker.
 - A leader who has contributed to the success of teammates and community members
 
 ## Developer Evangelism Program Manager
@@ -114,6 +116,7 @@ The Developer Evangelism Program Manager is a [grade 6](https://about.gitlab.com
 ## Senior Developer Evangelism Program Manager
 
 ### Requirements
+
 - Same as Developer Evangelism Program Manager
 - Continuously improve metrics collection, goal setting, and reporting to help team increase contribution to GitLab company goals
 - Uplevel the speaker's bureau to an influencer bureau and run the program with all modes of content creation in mind - speaking, technical demos, blog posts, media, etc.
