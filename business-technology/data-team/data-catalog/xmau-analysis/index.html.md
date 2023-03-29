@@ -34,13 +34,14 @@ metrics.
  
 ### Quick links
  
-<div class="flex-row" markdown="0" style="height:80px">
- <a href="https://metrics.gitlab.com/" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Service Ping Metrics Dictionary</a>
- <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Self-Managed Estimation Algorithm</a>
- <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html" class="btn btn-purple" style="width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Manager Toolkit</a>
+<div class="d-flex" markdown="0" style="height:80px">
+ <a href="https://metrics.gitlab.com/" class="btn btn-purple" style="white-space:initial;min-width:0;width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Service Ping Metrics Dictionary</a>
+ <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html" class="btn btn-purple" style="white-space:initial;min-width:0;width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Data Guide to Self-Managed Estimation Algorithm</a>
+ <a href="/handbook/business-technology/data-team/data-catalog/self-managed/" class="btn btn-purple" style="white-space:initial;min-width:0;width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Data Guide to Self-Managed Analysis</a>
+ <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html" class="btn btn-purple" style="white-space:initial;min-width:0;width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Manager Toolkit</a>
 </div>
  
-<br><br>
+<br>
  
 <h1 id="headerformat">Getting Started </h1>
  
@@ -55,7 +56,9 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
 - **[Host](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/license/20210204124827_hostname.yml)**
 - **[Instance](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/license/20210201124933_uuid.yml)**
 - **Installation** - the combination of instance uuid and hostname
-- **Instance User Count** - the total number of users on an instance, appears as [active_user_count](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/license/20210204124829_active_user_count.yml) in Service Ping
+  - Analysis is done at the installation level
+- **Instance User Count** - the total number of non-blocked users on an installation, appears 
+as [active_user_count](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/license/20210204124829_active_user_count.yml) in Service Ping
   - "Active" is a misnomer here as it is _NOT_ synonymous with what we consider "active users" 
   for xMAU and PIs. This value represents the number of registered users on an installation vs 
   the number of users who perform a specific action or event.
@@ -113,6 +116,8 @@ Release SMAU. Details on the metrics and the reasoning for the edge case can [be
 
 </div>
 </div>
+
+{::options parse_block_html="false" /}
  
 ### Service Ping metrics
 
@@ -140,10 +145,38 @@ month.
  
 For paid SaaS xMAU, we use the last 28 days of the calendar month. More about the difference
 between Service Ping-generated xMAU (Self-Managed and Total SaaS) and paid SaaS xMAU.
-[below](/handbook/business-technology/data-team/data-catalog/xmau-analysis/index.html#calculation-of-xmau-and-paid-xmau).
+[below](/handbook/business-technology/data-team/data-catalog/xmau-analysis/index.html#difference-between-total-xmau-and-paid-xmau).
+
+### Identifying SaaS data in Service Ping
+
+For total SaaS xMAU, we use the Service Ping payloads generated for the GitLab.com production 
+installation. These payloads are easily identifiable since they are linked to known unique 
+identifiers (specifics below). The filters applied to our data models ensure that data from 
+non-production GitLab.com installations (ex: staging.gitlab.com) is _not_ included in total 
+SaaS xMAU or PIs.
+
+<details markdown="1">
+  <summary>Specifics on identifying the GitLab.com production installation</summary>
+
+In order to identify the GitLab.com production installation, we use `dim_installation_id = '8b52effca410f0a380b0fcffaa1260e7'`. 
+
+Alternatively, you could use `uuid = 'ea8bf810-1d6f-4a6a-b4fd-93e8cbd8b57f'` _AND_ 
+`host_name = 'gitlab.com'`. (Note: `uuid` is synonymous with `dim_instance_id` in our data
+models).
+
+</details>
  
 ## Difference between Total xMAU and Paid xMAU
  
+We have 3 main data sources to calculate xMAU and paid xMAU, the Versions App (Service Ping), 
+the Gitlab.com Postgres database, and Snowplow event data. The table below summarizes which 
+data source is used for those calculations.
+
+|   Delivery   | Total xMAU   | Paid xMAU                   |
+|--------------|--------------|-----------------------------|
+| Self-Managed | Versions App | Versions App                |
+| SaaS         | Versions App | Gitlab.com Postgres Replica; Snowplow events |
+
 ### Paid xMAU definition
  
 Paid xMAU is defined as Monthly Active Users on a Self-Managed installation or gitlab.com 
@@ -152,87 +185,116 @@ as an example.
  
 #### Identifying paid installations and namespaces
  
-In order to determine if a self-managed installation or gitlab.com/SaaS namespace is paid, we use
-the plan type/tier, _not_ the presence of ARR. Those on a paid plan type (ex: Premium,
+In order to determine if a self-managed installation or GitLab.com/SaaS namespace is paid, we use 
+the tier/plan type, _not_ the presence of ARR. Those on a paid tier (ex: Premium,
 Ultimate, etc) are considered to be paid. This means that namespaces or installations belonging
-to an OSS or EDU program, internal project, or other subscription that has a paid plan type but
+to an OSS or EDU program, internal project, or other subscription that has a paid tier but
 does not contribute ARR are considered to be "paid".
  
-Here are more specifics on this identification:
+<details markdown="1">
+  <summary>Specifics on determining tier/plan type</summary>
  
-* Paid Self-Managed xMAU: To identify paid self-managed installations we use the `edition` field
-in the [Service Ping payload](https://docs.gitlab.com/ee/development/service_ping/index.html#example-service-ping-payload),
-selecting only service pings with `EEP`, `EES` and `EEU` edition. The edition value is derived
-from the [plan column in the license table in the CustomersDot database at the time the license
-was generated (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/7257#note_464118474).
-* Paid SaaS xMAU: To identify paid namespaces, we use the plan type associated with the last
+* Paid Self-Managed installations: To identify paid self-managed installations we use 
+`ping_product_tier` in the data models, which is derived from [`edition`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/settings/20210216175604_edition.yml) 
+in the Service Ping payload. Paid installations are those on paid tiers (which is not determined 
+using ARR) (`ping_product_tier != 'Core'`)
+  * Tier is derived in [`common_prep.prep_ping_instance`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_ping_instance). 
+  * The `edition` value is derived from the plan column in the license table in the CustomersDot 
+  database at the time the license was generated ([internal link](https://gitlab.com/gitlab-data/analytics/-/issues/7257#note_464118474)).
+* Paid SaaS namespaces: To identify paid namespaces, we use the plan type associated with the last
 event available during the measurement period. This is similar to the self-managed methodology
 in that we do not look at the plan type _during_ the period, but rather the plan at time of
-reporting.
- 
-**To reiterate, we do not exclude EDU/OSS subscriptions from the paid
-xMAU calculations.**
- 
-### Calculation of xMAU and Paid xMAU
- 
-We have 2 main data sources to calculate xMAU and paid xMAU, the Versions App (Service Ping) and
-the Gitlab.com Postgres database. The table below summarizes which data source is used for
-those calculations.
+reporting. (`plan_was_paid_at_event_date = TRUE`)
+  * Plan type on the last event is identified in [`common_mart_product.rpt_event_xmau_metric_monthly`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_event_xmau_metric_monthly)
 
-|   Delivery   | Total xMAU   | Paid xMAU                   |
-|--------------|--------------|-----------------------------|
-| Self-Managed | Versions App | Versions App                |
-| SaaS         | Versions App | Gitlab.com Postgres Replica |
+</details>
 
-#### Identifying SaaS data in Service Ping
+**To reiterate, we do not exclude EDU/OSS subscriptions from the paid xMAU calculations.**
 
-For total SaaS xMAU, we use the Service Ping payloads generated for the GitLab.com production 
-installation. These payloads are easily identifiable since they are linked to an instance with 
-`uuid = 'ea8bf810-1d6f-4a6a-b4fd-93e8cbd8b57f'` _AND_ `host_name = 'gitlab.com'`. (Note: `uuid` is 
-synonymous with `dim_instance_id` in our data models). You can also simply filter on 
-`dim_installation_id = '8b52effca410f0a380b0fcffaa1260e7'`, which is unique to the gitlab.com 
-production installation. These filters ensure that data from non-production gitlab.com 
-installations (ex: staging.gitlab.com) is _not_ included in total SaaS xMAU or PIs.
+### Generating Paid SaaS xMAU 
 
-#### Generating Paid SaaS xMAU 
+We cannot use Service Ping to report on paid SaaS metrics. Since the metrics are reported at 
+the installation-level, there is not a way to tease apart paid from free namespaces. (This is 
+not a problem for self-managed because the entire installation is attributed to a plan/tier). 
+In order to report paid SaaS xMAU, we need to be able to do two things:
 
-Since Service Ping is reported at an installation-level, there is not a way that we can 
-differentiate paid from total usage within the metrics. For self-managed installations, we have 
-the license and plan type, so it is easy to attribute a subset of pings to paid xMAU. However, 
-since gitlab.com is a single installation reporting a single ping, we do not have a way to break 
-down the aggregates by product tier, plan type, or namespace. As a work-around, we replicate 
-Service Ping metrics using the Gitlab.com Postgres replica tables. The challenge comes in that 
-we can only generate a subset of Service Ping metrics, database metrics, using the Postgres 
-replica. We cannot replicate Redis counters using the Gitlab.com db.
- 
-- [Database metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#database-metrics)
-  (also referred to as "batch counters") are simple SQL-generated counters. The SQL queries
-  used to generate the counters are accessible and easily recreated using the GitLab.com
-  Postgres replica.
-- [Redis counters](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#redis-metrics)
-  are NOT SQL-generated counters. They also track actions that are not in the GitLab.com
-  Postgres DB such as page views and frontend interactions.
+1. Replicate the Service Ping metric using a different data source (ex: Gitlab.com Postgres replica)
+1. Attribute the event/action to a project or namespace (and therefore plan)
 
-Beyond being a database metric, there is a second requirement to generate Paid SaaS xMAU: we 
-need to be able to attribute the action or event to a plan. To do so, the source tables used 
-in the SQL query need to carry information about the project or namespace (ex: `project_id`, 
-`namespace_id`). Without those identifiers, we have no way of knowing whether the action was 
-tied to a paid plan.
+#### Replicating Service Ping counters
 
-That means that, for now, we are not able to calculate some of the Paid SaaS xMAU metrics
-like Monitor SMAU. 
+There are different types of counters to replicate, each generated using a 
+different data source in Service Ping:
 
-Product Intelligence is actively working to replicate Redis counters by instrumenting events 
-in Snowplow ([Epic here](https://gitlab.com/groups/gitlab-org/-/epics/6833)). This work is 
-in-flight and the Data team is working to model the data. Once complete, we will have the 
-ability to generate additional paid SaaS metrics.
+| Metric type | Paid SaaS xMAU data source |
+| --- | --- |
+| Database | Gitlab.com Postgres Replica |
+| Redis & RedisHLL | Snowplow events |
+
+* [Database metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#database-metrics) 
+(also referred to as "batch counters") are simple SQL-generated counters. 
+  * The SQL queries used to generate the database counters are accessible and easily recreated using the 
+GitLab.com Postgres replica.
+
+* [Redis and RedisHLL counters](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#redis-metrics) 
+are NOT SQL-generated counters. They are used to track actions that are not in the GitLab.com 
+Postgres DB (ex: page views and frontend interactions) and for metrics that would non-performant 
+to generate via SQL query (ex: querying a massive table or querying across multiple tables).
+  * Redis and RedisHLL counters _cannot_ be replicated using the Postgres replica.
+  * As a work-around the Product Intelligence team is instrumenting a subset of these counters 
+as Snowplow events. This will allow us to aggregate the events in Snowflake and generate 
+paid SaaS xMAU.
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-warning">
+**Note on replicating Redis and RedisHLL counters with Snowplow events**
+{: .panel-heading}
+<div class="panel-body">
+
+* Replicating Redis and RedisHLL metrics using Snowplow events is still a WIP. The data 
+still needs to be modeled in order to surface it for reporting. In addition, not all Redis or 
+RedisHLL counters have been instrumented in Snowplow.
+* There are some edge cases where we are able to replicate a RedisHLL counter using the 
+GitLab.com Postgres replica. Here is an exception where an engineer has informed the 
+Data team that there is a way to generate the metric via a SQL query 
+([thread here](https://gitlab.com/gitlab-data/analytics/-/issues/5629#note_389537508)) 
+(internal link).
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+#### Attributing replicated counters to a plan
+
+As mentioned above, merely replicating the Service Ping counters is not sufficient to support 
+paid SaaS xMAU reporting - we have to be able to tie the event or action to a plan. This 
+inherently will not be possible for all metrics. 
+
+* In the case of database metrics, the table referenced in the SQL query must have a project 
+or namespace identifier in it.
+* In the case of Redis and RedisHLL metrics, a plan must be associated with the event _and_ 
+included on the Snowplow event. 
+
+<details markdown="1">
+  <summary>Example</summary>
+
+For example, let's look at [usage_activity_by_stage_monthly.manage.count_user_auth](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20220825232557_count_user_auth.yml). 
+This metric measures the number of users logging in. However, a login is not tied to a specific 
+namespace or project, it is only tied to a user.
+
+</details>
  
 ## Data sources
  
-As mentioned above, there are 2 main data sources used for xMAU analysis:
+As mentioned above, there are 3 main data sources used for xMAU analysis:
  
-- Instance-Level Service Ping (Versions App)
-- Gitlab.com Postgres Replica (Gitlab.com db tables)
+* Installation-Level Service Ping (Versions App)
+* Gitlab.com Postgres Replica (Gitlab.com db tables)
+* Snowplow events (Snowplow tables)
+  * These have not yet been incorporated into the data models to be used in xMAU reporting 
+  and analysis
 
 ### Entity relationship diagrams
 
@@ -244,27 +306,10 @@ accessing. This is really when you are looking to dive deeper and gain additiona
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/3a42e56a-028e-45d7-b2ca-5ef489bafd32" id="V73lDe5VEU5q"></iframe></div>
 
-<!-- Do we still need this section? 
-| Diagram/Entity                                 | Description                                                                          |
-|------------------------------------------------|--------------------------------------------------------------------------------------|
-| [Event Data Sources](https://lucid.app/lucidchart/fb925529-e173-428d-831b-4d5982ceac3d/edit?existing=1&token=6730b4fc5d12a5d4176bf0609f58a9229dfe8a82-eml%3Djoshua%2540amplifycp.com%26ts%3D1646680888%26uid%3D166775925&docId=fb925529-e173-428d-831b-4d5982ceac3d&shared=true&invitationId=inv_624938c6-a573-49a8-869f-17252bae59fa&page=meXJoaUV4kZh#) | Bring in Each Event Source at the grain it exists.  Aggregate and merge the data into each level. Any data source can be scaled and merged in at the correct level. |
-| [Simple Diagram](https://lucid.app/lucidchart/fb925529-e173-428d-831b-4d5982ceac3d/edit?existing=1&token=6730b4fc5d12a5d4176bf0609f58a9229dfe8a82-eml%3Djoshua%2540amplifycp.com%26ts%3D1646680888%26uid%3D166775925&docId=fb925529-e173-428d-831b-4d5982ceac3d&shared=true&invitationId=inv_624938c6-a573-49a8-869f-17252bae59fa&page=E3zTdB7RQ2at#) | Bring in Each Event Source at the grain it exists. Aggregate and merge the data into each level. Any data source can be scaled and merged in at the correct level. This diagram shows the high level layout of our event data and how it moves through the different schemas, not the final layout of marts |
-| [Mart Event Source](https://lucid.app/lucidchart/fb925529-e173-428d-831b-4d5982ceac3d/edit?existing=1&token=6730b4fc5d12a5d4176bf0609f58a9229dfe8a82-eml%3Djoshua%2540amplifycp.com%26ts%3D1646680888%26uid%3D166775925&docId=fb925529-e173-428d-831b-4d5982ceac3d&shared=true&invitationId=inv_624938c6-a573-49a8-869f-17252bae59fa&page=lUeQ29Mck~2E#) | Bring in Each Event Source at the grain it exists to an atomic FACT table. All marts downstream represent different aggregations of this atomic level table (ex by namespace, plan, month, etc.) Meant to show the actual flow of data from source all the way through to the COMMON_MART schema |
-| [WIP: Event Data Source Mapping](https://docs.google.com/spreadsheets/d/15I-8uqbAnxQ4lO_uhSmdWlfunh9xm4O_n-QNtJA9A_w/edit#gid=0) |  Event Usage data is captured to provide analytics on how the product is being used.  There are 3 basic types of Event data.  Click level data is captured as the user clicks through the system for navigation and utilizing the product. Event (Snapshot) data is captured from the Application with whatever the Event values are at the time of the capture. Service Ping data is captured at an aggregated level for Instance or Namespace.  This matrix shows how the data is captured and brought into the Data Warehouse. |
-[Amplify ERD Design](https://lucid.app/lucidchart/3a42e56a-028e-45d7-b2ca-5ef489bafd32/edit?invitationId=inv_e0a19114-45d5-4a78-9123-dc3b8991d826&page=O.TAVTjR034b#) | The Amplify ERD showcases the relationships between the fct_service_ping_instance and the relatable dimensional models that surround product usage data. |
-
---> 
-
-<!-- This either needs an update or needs to be removed
-#### Service Ping Data Pipeline [Needs update]
- 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/7ccc1e4a-75fd-4d9f-bd80-8268c5d267b8" id="XKD2Se~QQWM_"></iframe></div>
--->
-
 It can also be helpful to look at the data model lineages in dbt:
 
-- [Service Ping model lineage](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_ping_instance?g_v=1&g_i=%2Bprep_ping_instance%2B)
-- [Gitlab.com usage event model lineage](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_event?g_v=1&g_i=prep_event%2B) 
+- [Service Ping model lineage](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_ping_instance?g_v=1&g_i=%2Bprep_ping_instance%2B)
+- [Gitlab.com usage event model lineage](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_event?g_v=1&g_i=prep_event%2B) 
 (starting at `prep_event`)
 
 ### Data models
@@ -280,23 +325,23 @@ GitLab's Enterprise Dimensional Model (EDM) [here](/handbook/business-technology
  
 | Data Mart/Rpt Name | Grain* | Source |
 | --- | --- | --- |
-| [mart_ping_instance](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_ping_instance) | Service Ping Instance ID | Versions App |
-| [mart_ping_instance_metric](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_ping_instance_metric) | Service Ping Instance ID, Metrics Path | Versions App |
-| [mart_ping_instance_metric_monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_monthly) | Service Ping Instance ID, Metrics Path (limited to the last ping of the month per installation) | Versions App |
-| [rpt_ping_metric_first_last_versions](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_metric_first_last_versions) | Ping Edition, Metrics Path | Versions App |
-| [rpt_ping_latest_subscriptions_monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_latest_subscriptions_monthly) | Month, Subscription, Installation (if available) | Versions App |
-| [rpt_ping_metric_totals_w_estimates_monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly) | Reporting Month, Metrics Path, Estimation Grain, Ping Edition Product Tier, Service Ping Delivery Type | Versions App |
-| [mart_event_valid](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_event_valid) | Event (atomic-level model) | Gitlab.com Postgres Replica |
-| [mart_event_user_daily](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_event_user_daily) | Event Name, Event Date, User ID, Ultimate Parent Namespace ID| Gitlab.com Postgres Replica |
-| [mart_event_namespace_daily](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_event_namespace_daily) | Event Name, Event Date, Ultimate Parent Namespace ID| Gitlab.com Postgres Replica |
-| [rpt_event_plan_monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_event_plan_monthly) | Reporting Month, Plan ID at Event Date, Event Name | Gitlab.com Postgres Replica |
-| [rpt_event_xmau_metric_monthly](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_event_xmau_metric_monthly) | Reporting Month, User Group (total, free, paid), Section Name, Stage Name, Group Name | Gitlab.com Postgres Replica |
+| [mart_ping_instance](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ping_instance) | Service Ping Instance ID | Versions App |
+| [mart_ping_instance_metric](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ping_instance_metric) | Service Ping Instance ID, Metrics Path | Versions App |
+| [mart_ping_instance_metric_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_service_ping_instance_metric_monthly) | Service Ping Instance ID, Metrics Path (limited to the last ping of the month per installation) | Versions App |
+| [rpt_ping_metric_first_last_versions](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_ping_metric_first_last_versions) | Ping Edition, Metrics Path | Versions App |
+| [rpt_ping_latest_subscriptions_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_ping_latest_subscriptions_monthly) | Month, Subscription, Installation (if available) | Versions App |
+| [rpt_ping_metric_totals_w_estimates_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly) | Reporting Month, Metrics Path, Estimation Grain, Ping Edition Product Tier, Service Ping Delivery Type | Versions App |
+| [mart_event_valid](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_event_valid) | Event (atomic-level model) | Gitlab.com Postgres Replica |
+| [mart_event_user_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_event_user_daily) | Event Name, Event Date, User ID, Ultimate Parent Namespace ID| Gitlab.com Postgres Replica |
+| [mart_event_namespace_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_event_namespace_daily) | Event Name, Event Date, Ultimate Parent Namespace ID| Gitlab.com Postgres Replica |
+| [rpt_event_plan_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_event_plan_monthly) | Reporting Month, Plan ID at Event Date, Event Name | Gitlab.com Postgres Replica |
+| [rpt_event_xmau_metric_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_event_xmau_metric_monthly) | Reporting Month, User Group (total, free, paid), Section Name, Stage Name, Group Name | Gitlab.com Postgres Replica |
  
 \* Please see the linked dbt docs for information about each specific model, applied business logic, etc.
  
 #### mart_ping_instance_metric
  
-[`common_mart.mart_ping_instance_metric`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_ping_instance_metric)
+[`common_mart.mart_ping_instance_metric`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ping_instance_metric)
 is the most comprehensive of the Service Ping data marts. (Note: unfiltered Service Ping data
 sets are available in the `common` schema). This data model provides ping- and metric-level 
 data, and joins the Service Ping data with financial and GTM data sources such as subscription, 
@@ -308,7 +353,7 @@ about metric time frames [here](https://docs.gitlab.com/ee/development/service_p
  
 #### rpt_ping_metric_totals_w_estimates_monthly
  
-[`common_mart_product.rpt_ping_metric_totals_w_estimates_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly)
+[`common_mart_product.rpt_ping_metric_totals_w_estimates_monthly`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly)
 is a customized model designed for monthly Service Ping-generated xMAU and PI reporting,
 including estimated uplift.
  
@@ -316,16 +361,16 @@ End-users can then use very simple queries to produce xMAU and PI visualizations
  
 ``` sql
 SELECT
- ping_created_at_month,
- ping_delivery_type,
- ping_product_tier,
- SUM(recorded_usage) AS recorded_usage,
- SUM(estimated_usage) AS estimated_usage,
- SUM(total_usage_with_estimate) AS total_usage_with_estimate
+  ping_created_date_month,
+  ping_delivery_type,
+  ping_product_tier,
+  SUM(recorded_usage) AS recorded_usage,
+  SUM(estimated_usage) AS estimated_usage,
+  SUM(total_usage_with_estimate) AS total_usage_with_estimate
 FROM common_mart_product.rpt_ping_metric_totals_w_estimates_monthly
 WHERE is_smau = TRUE
- AND stage_name = 'create'
- AND estimation_grain = 'metric/version check - subscription based estimation'
+  AND stage_name = 'create'
+  AND estimation_grain IN ('metric/version check - subscription based estimation', 'SaaS')
 GROUP BY 1,2,3
 ORDER BY 1,2,3
 ```
@@ -337,7 +382,7 @@ detailed explanation of each estimation methodology is available [on this page](
  
 #### mart_event_valid
  
-[`common_mart.mart_event_valid`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.mart_event_valid)
+[`common_mart.mart_event_valid`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_event_valid)
 is an atomic-/event-level model which has been enhanced for ease of analysis. It incorporates basic
 business logic* that removes potentially misleading data (ex: events from blocked users) and is
 flexible enough to allow the end user to aggregate and dedupe data, as desired.
@@ -346,7 +391,7 @@ _*Please see dbt docs for full details on business logic_
  
 #### rpt_event_xmau_metric_monthly
  
-[`common_mart_product.rpt_event_xmau_metric_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_event_xmau_metric_monthly)
+[`common_mart_product.rpt_event_xmau_metric_monthly`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_event_xmau_metric_monthly)
 is a customized model designed for monthly paid SaaS xMAU reporting. This model provides user
 counts at the xMAU metric-level (which is not necessarily synonymous with the event-level),
 limited to the appropriate time frame (last 28 days of the month).
