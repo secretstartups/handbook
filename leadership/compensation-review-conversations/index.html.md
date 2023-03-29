@@ -65,7 +65,7 @@ Sample Script:
    * Your salary will be increased to (insert $ amount in local currency) which is a (insert %) adjustment effective, February 1st.
 2. **Equity Refresh Grant (if applicable)**:
 Sample Script: 
-    * "I am (also) pleased to inform you that your equity refresh proposed grant is (insert USD) and will be reviewed for approval at the next applicable quarterly board approval. The following factors were considered in determining the equity refresh proposed grant (Talent Assessment, Criticality of Role/Skills, Tenure, Unvested equity holdings). This means your total unvested equity is $XX based on the share price of $X (as listed on the Total Compensation Statement)". 
+    * "I am (also) pleased to inform you that your equity refresh grant is approved at (insert USD). The following factors were considered in determining the equity refresh grant (Talent Assessment, Criticality of Role/Skills, Tenure, Unvested equity holdings). This means your total unvested equity is $XX based on the share price of $X (as listed on the Total Compensation Statement)". 
 
    * "Thank you for your hard work and I look forward to continuing to work with you! Do you have any questions?" 
 
