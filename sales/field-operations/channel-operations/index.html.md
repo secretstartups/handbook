@@ -177,11 +177,11 @@ GitLab sellers can also refer to the [partner billing section](https://about.git
 *   Partners transact with Carahsoft via `gitlab@carahsoft.com`
 
 #### Rules of Engagement for Distributor Quotes and Orders
-Distributors work directly with GitLab Sellers on the quoting and ordering process. GitLab Sellers can leverage the [partner quoting resources](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-quoting-overview-and-resources), [distributor contact information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#distributor-requirements-and-coverage-by-geo-and-market), and [Selling with Partners - GitLab Sales FAQ](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/sales-faq/) to aid in the quote and order process.
+Distributors work directly with GitLab Sellers on the quoting and ordering process. GitLab Sellers can leverage the [partner quoting resources](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-quoting-overview-and-resources), [distributor contact information](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#distributor-requirements-and-coverage-by-geo-and-market), and [GitLab Sales FAQ - Selling with Partners](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/sales-faq/) to aid in the quote and order process.
 
-If a reseller requests a quote directly from a distributor via the aliases above, any non-PubSec distributors may contact partnersupport@gitlab.com to request an official quote. Partner Support will forward the request to the GitLab Sales Rep that owns the customer account/opportunity for Sales to work the opportunity with the distributor, including creating and providing the quote. 
+If a reseller requests a quote directly from a distributor via the aliases above, any non-PubSec distributors may contact `partnersupport@gitlab.com` to request an official quote. Partner Support will forward the request to the GitLab Sales Rep that owns the customer account/opportunity for Sales to work the opportunity with the distributor, including creating and providing the quote. 
 
-If a GitLab Sales Rep is working directly with a reseller and needs to quote that reseller via a distributor (e.g., they are an Open partner), Sales can leverage the resources above to create the quote and send to distribution.
+If a GitLab Sales Rep is working directly with a reseller and needs to quote that reseller via a distributor (e.g., they are an Open partner), Sales can leverage the resources linked in this section above to create the quote and send to distribution.
 
 **Important to note for GitLab Sellers:**
 - Our pricing on a two-tier distribution deal is between GitLab and Distributor only. We should **never** include the reseller or customer when sending a distribution quote or discussing distributor pricing.
