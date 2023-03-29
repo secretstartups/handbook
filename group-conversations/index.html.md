@@ -353,7 +353,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday April 18 | **Available** | DRI | Key Review Date? |
 | Wednesday April 19 | Finance | Brian Robins | April 12 |
 | Thursday April 20 | Support | Tom Cooney | April 12 |  
-| Tuesday April 25 | People | Wendy Barnes | April 19 |
+| Tuesday April 25 | **Available** | DRI | Key Review Date | 
 | Wednesday April 26 | Infrastructure | Steve Loyd | April 13 |
 | Thursday April 27 | IT | Nabitha Rao | April 20 |  
 | Tuesday May 2 | **Available** | DRI | Key Review Date |
@@ -363,12 +363,12 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday May 10 | **Available** | DRI | Key Review Date |
 | Thursday May 11 | **Available** | DRI | Key Review Date |  
 | Tuesday May 16 | **Available** | DRI | Key Review Date |
-| Wednesday May 17 | People | Wendy Barnes | May 9 |
+| Wednesday May 17 | **Available** | DRI | Key Review Date | 
 | Thursday May 18 | **Available** | DRI | Key Review Date |  
 | Tuesday May 23 | Product | Product Leadership | May 4 |
 | Wednesday May 24 | Finance | Brian Robins | May 17 |
 | Thursday May 25 | **Available** | DRI | Key Review Date |  
-| Tuesday May 30 | **Available** | DRI | Key Review Date |
+| Tuesday May 30 | People | Wendy Barnes | May 24 |
 | Wednesday May 31 | Quality | Mek Stittri | May 25 |
 | Thursday June 1 | Support | Tom Cooney | May 24 |  
 | Tuesday June 6 | **Available** | DRI | Key Review Date |
@@ -391,7 +391,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday July 13 | Support | Tom Cooney | July 5 |
 | Tuesday July 18| **Available** | DRI | Key Review Date |
 | Wednesday July 19 | **Available** | DRI | Key Review Date |
-| Thursday July 20 | People | Wendy Barnes | July 11 
+| Thursday July 20 | **Available** | DRI | Key Review Date | 
 | Tuesday July 25 | Infrastructure | Steve Loyd | July 13 |
 | Wednesday July 26 | **Available** | DRI | Key Review Date |
 | Thursday July 27 | IT | Nabitha Rao | July 19 |
@@ -430,7 +430,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday October 12 | Infrastructure | Steve Loyd | September 28 |
 | Tuesday October 17 | Support | Tom Cooney | September 28 |
 | Wednesday October 18 | Quality| Mek Stittri | September 28 |
-| Thursday October 19 | People | Wendy Barnes | October 11 |
+| Thursday October 19 | **Available** | DRI | Key Review Date | 
 | Tuesday October 24 | **Available** | DRI | Key Review Date |
 | Wednesday October 25 | CRO - Enterprise | ENT Leadership |  |
 | Thursday October 26 | **Available** | DRI | Key Review Date |
