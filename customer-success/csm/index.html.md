@@ -84,7 +84,7 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
     <td>DRI: CSM, AE, Renewals team<br><br>Consulted: Customer<br><br>Informed: Leadership</td>
   </tr>
   <tr>
-    <td><a href="/handbook/customer-success/csm/risk-mitigation/">Managing Risk</a></td>
+  <td><a href="/handbook/customer-success/csm/health-score-triage/">Managing Risk</a></td>
     <td><ul><li>A CSM actively manages risk in a customer account, quickly turning a customer to red when there is any potential risk of contraction or churn (even if this is unconfirmed)</li><li>The CSM is responsible for often communicating to the account team and their manager about risk in their accounts and <a href="/handbook/customer-success/csm/escalations/">triggering/leading the escalation process</a> where needed</li></ul></td>
     <td><ul><li>Risk is actively managed for both Enterprise and Commercial</li><li>Once red, a customer becomes PR1 in both segments</li></ul></td>
     <td>DRI: CSM<br><br>Consulted: AE, Leadership<br><br>Informed: Renewals team</td>
