@@ -226,7 +226,6 @@ Incident delineator `Incident` denotes that an issue should be considered an inc
 | `Incident::Organization::Azure`            | GitLab's Azure environment |
 | `Incident::Organization::DO`               | Digital Ocean environment |
 | `Incident::Organization::GCP`              | GitLab's GCP environment |
-| `Incident::Organization::GCP-Enclave`      | GitLab Security's GCP environment |
 | `Incident::Organization::GSuite`           | Google Workspaces (GSuite, GDrive) |
 | `Incident::Organization::GitLab`           | GitLab the organization and GitLab the product |
 | `Incident::Organization::GitLabPages`      | GitLab.com Pages |

@@ -54,5 +54,4 @@ enough detail to begin an iteration or develop on MVC:
 
 | Plan | Other Resources and Links|
 |------|--------------------------|
-| [Security Enclave](./security-enclave) | [security-operations&16](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/16), [`~"security enclave"` Issue Board](https://gitlab.com/groups/gitlab-com/gl-security/-/boards/1363933?&label_name[]=security%20enclave) |
 | [Security Requirements for Development and Deployment](./security-development-deployment-requirements) | |
