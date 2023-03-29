@@ -190,11 +190,7 @@ categories: news # please choose one category from list below
 image_title: '/images/blogimages/post-cover-image.jpg' # optional – just remove this line if you don't want to use a cover image. See below for more info
 description: "Short description for the blog post"
 tags: tag1, tag2, tag3
-cta_button_text: 'Watch the XXX release webcast live!' # optional
-cta_button_link: 'https://page.gitlab.com/xxx.html' # optional
 guest: true # required when the author is not a GitLab Team Member or there is more than one author
-ee_cta: false # required only if you do not want to display the EE-trial banner
-install_cta: false # required only if you do not want to display the 'Install GitLab' banner
 twitter_text: "Text to tweet" # optional;  If no text is provided it will use post's title.
 featured: yes # reviewer should set.
 postType: content definition # i.e.: content marketing, product, corporate
@@ -202,8 +198,6 @@ related_posts:
   - "/blog/2020/xx/xx/related-post-1/"
   - "/blog/2020/xx/xx/related-post-2/"
   - "/blog/2020/xx/xx/related-post-3/" # please see related posts section below for details
-merch_banner: merch_one # don't need to worry about this field
-merch_sidebar: merch_one # don't need to worry about this field
 ---
 ```
 
