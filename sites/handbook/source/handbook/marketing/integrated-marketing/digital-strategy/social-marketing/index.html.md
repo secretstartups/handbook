@@ -389,7 +389,7 @@ The GitLab Brand Instagram channel reinforces us as an all-remote organization t
  
 We aim to post once a week on Instagram to maintain a steady and ever increasing follower growth. Being consistent with your frequency will avoid seeing a drop in engagement and give folks a reason to follow. It also increases the chance of our content being discovered. 
 
-Because we only post once a week on this channel, it should always be scheduled during the most optimal time according to Sprout Social. Note that if you are scheduling more than one photo per post, you will have to publish natively through the Sprout Social app. [Here are instructions on how to do that.](https://support.sproutsocial.com/hc/en-us/articles/360042617251-Carousel-Posts-on-Instagram)
+Because we only post once a week on this channel, it should always be scheduled during the most optimal time according to Sprout Social. Note that if you are scheduling more than one photo per post, you will have to publish natively through the Sprout Social app. [Here are instructions on how to do that.](https://support.sproutsocial.com/hc/en-us/articles/4884496592141-How-do-I-create-an-Instagram-Carousel-post-)
 
 </details>
 
