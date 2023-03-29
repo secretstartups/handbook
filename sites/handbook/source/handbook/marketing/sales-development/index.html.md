@@ -1062,6 +1062,7 @@ BDRs should not support joint partner related events where there the routing pla
 ### Routing nuances
 * Any BDR 'Sales Nominated' prospects added to the campaign who respond to invite sequence will be worked by the BDR Assigned. If the account isn't in Actively Working status, they will be notified to move the account into Actively Working status so they can continue to work the engaged lead as well as begin strategic outreach to others at the account leveraging this compelling engagement.
 * Drift meetings scheduled related to an Actively Working account will be facilited by the BDR Assigned. All others will route to the SDR org per the normal routing workflow.
+    * Drift Leads will appear as MQLs in the SDRs S1 lead view if the SDR engages the prospect and recieves a business email from them. The SDR who recieves the MQL will be decided by which SDR closed the conversation in Drift, had a meeting booked with the prospect on their calendar, or  was the last routed user to recieve the lead.
 * To test whether speed to lead increases conversion of event leads we will be moving High Priority campaign leads directly into BDR priority views with corresponding [SLA of 60 minute response time](/handbook/marketing/sales-development/#lead-and-contact-views). Any campaign checked as High Priority will have any members that relate to Actively Working accounts marked as High Priority irregardless of their lead status. These will show up in the BDR's priority view.
 * All other leads will route based on our normal routing workflow.
 
