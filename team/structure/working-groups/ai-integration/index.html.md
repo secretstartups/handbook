@@ -21,7 +21,7 @@ canonical_path: "/company/team/structure/working-groups/ai-integration/"
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/19jVbWVYUPW3m7d2SzsXa2zXIAW7pSb2tdQ-AXWzT_DE/edit) (only accessible from within the company) |
 | Issue Board     | [Issue Board link TBD]()                                                |
 | Overview & Status | See [Exit Criteria](#exit-criteria) below |
-| Meeting schedule | Weekly on Wednesdays at 8am Pacific |
+| Meeting schedule | Tuesdays at 8am Pacific and Thursdays at 1pm Pacific |
 
 ## Goal
 
