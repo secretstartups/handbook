@@ -349,7 +349,7 @@ When preparing scripts or documents in my voice, please follow these guidelines.
 1. When writing a script, read it out loud. If it's not easy to say in one try, edit the script to make it easy to speak.
 1. Any time you make a statement, consider whether there exist any data/proof points to back it up, and include the proof. This proof might exist internally through work our teams are doing, or externally through analyst reports or other such reporting.
 1. Familiarize yourself with [GitLab’s Misused Terms](/handbook/communication/top-misused-terms/) and avoid using these. For example, always use “Team members” instead of Employees.
-1. Run text through a readability checker, such as [the ones on this page](https://readabilityformulas.com/free-readability-formula-tests.php).
+1. Run text through a readability checker, such as [the ones on this page](https://readabilityformulas.com/free-readability-formula-tests.php). Aim to have a [Flesch Reading Ease score](https://readabilityformulas.com/flesch-reading-ease-readability-formula.php) above 80. This is the score for a document that is "easy" to read.
 1. Be exact, not approximate.
 1. Don't sugarcoat bad news.
 1. Celebrate, but don't boast or brag.
