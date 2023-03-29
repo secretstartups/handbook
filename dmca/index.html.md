@@ -22,7 +22,7 @@ We will review your submission and take whatever action we deem appropriate unde
 
 ## DMCA Counter Notice requirements
 
-If it is not possible to come to an agreement with the reporting copyright owner, the content owner may submit a DMCA Counter-Notice to dmca@gitlab.com within ten (10) business days of the date of our notice. If we receive a valid counter-complaint, we will email a copy of the notice to the copyright owner. The Counter-Notice is a legal document and must comply with the requirements of the DMCA and must include the following:
+The owner of the allegedly-infringing content may submit a DMCA Counter-Notice to dmca@gitlab.com. The Counter-Notice must comply with the requirements of the DMCA, and must include the following:
 
 1. **Contact Information:** Your name, title (if acting as an agent), physical address, email address, and phone number; 
 2. **Content Identification:** A reasonable identification of the material that has been removed or to which access has been blocked;
@@ -32,6 +32,10 @@ If it is not possible to come to an agreement with the reporting copyright owner
    - If based outside of the United States: “I consent to the jurisdiction of any United States Federal District Court in which GitLab may be found"
 5. **Consent to service of process:** The following statement: “I will accept service of process from the person who provided the original notification or an agent of such person"; and
 6. **Signature:** An electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf.
+
+We will review the counter-notice, and:
+* if the counter-notice doesn't satisfy the DMCA requirements, we'll request a revised submission; or
+* if the counter-notice is complete and valid, we'll forward the counter notice to the person who filed the original takedown notice, advising that the challenged content will be reinstated within 10-14 business days, unless we receive a notification that the copyright owner is seeking a court order regarding this matter.
 
 ## Trademark takedown request requirements 
 
