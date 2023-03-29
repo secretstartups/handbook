@@ -18,7 +18,7 @@ To drive use case enablement and expansion with customers, we need to define exa
 
 ## License Utilization
 
-### License Usage health table
+### Health table
 
 |        | 2-6 Months                               | 6-9 Months                               | > 9 Months                             |
 |--------|------------------------------------------|------------------------------------------|----------------------------------------|
@@ -27,16 +27,7 @@ To drive use case enablement and expansion with customers, we need to define exa
 | 51-75% | Green   | Yellow | Red     |
 | > 75%  | Green   | Green   | Green |
 
-## Use Case Health Scoring
-
-| Use Case (Stage)   | Purpose / Adoption Level | Description                                                  |
-| ------------------ | ------------------------ | ------------------------------------------------------------ |
-| SCM (Create)       | Basic Adoption           | Is my customer using the basic toolset? Most customers should adopt these features pretty quickly into their GitLab journey |
-| CI (Verify)        | Product Stickiness       | As part of their continued adoption and customer journey, we want to help our customers adopt CI, as well as helping their central DevOps teams to better understand their organization's adoption of CI. Use these metrics to help determine progress towards adoption |
-| DevSecOps (Secure) | Enablement & Expansion   | For customers using our security features or who are trialing and wanting to [shift left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/), use these metrics to help identify adoption and track growth |
-| CD (Release) | Enablement & Expansion   | How much has my customer adopted GitLab for deployments? The next path along the customer journey is the [CD use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/) |
-
-### User Engagement
+## User Engagement
 
 User Engagement is intended to measure the number of users logging in each month / billable users.
 
@@ -60,6 +51,17 @@ As the customer progresses through the lifecycle, user engagement is a measure o
 1. Couple that with efforts to drive awareness of GitLab within the account (eg. GitLab for Plan/PM, GitLab for non-developers, normal user enablement). A signal to SAE/AE/BDR to drive account-based outreach. Find unaware or unegaged user cohorts. Encourage them to  bring users onto the platform.
 
 Position as a way for the customer to get value out of the seats they've already paid for, and help the account team ensure more predictable renewal outcomes. It becomes riskier the closer we are to renewal.
+
+
+## Use Case Health Scoring
+
+| Use Case (Stage)   | Purpose / Adoption Level | Description                                                  |
+| ------------------ | ------------------------ | ------------------------------------------------------------ |
+| SCM (Create)       | Basic Adoption           | Is my customer using the basic toolset? Most customers should adopt these features pretty quickly into their GitLab journey |
+| CI (Verify)        | Product Stickiness       | As part of their continued adoption and customer journey, we want to help our customers adopt CI, as well as helping their central DevOps teams to better understand their organization's adoption of CI. Use these metrics to help determine progress towards adoption |
+| DevSecOps (Secure) | Enablement & Expansion   | For customers using our security features or who are trialing and wanting to [shift left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/), use these metrics to help identify adoption and track growth |
+| CD (Release) | Enablement & Expansion   | How much has my customer adopted GitLab for deployments? The next path along the customer journey is the [CD use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/) |
+
 
 ### Source Code Management (SCM)
 
@@ -105,6 +107,23 @@ Adoption timeline: 1 months after license purchase
 | User Deployments Utilization % ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) / Licenses Sold) | < 5%    | 5-12%     | > 12%    |
 | Deployments Per User L28D ([Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) / Licenses Sold) | < 2 | 2 - 7 | > 7 |
 | Successful Deployments % ([Successful Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181923_successful_deployments.yml) / (Successful Deployments - L28D + [Failed Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181924_failed_deployments.yml))) | < 25% | 25% - 80% | > 80% |
+
+## Limitations
+1. All user-based metrics use `licenses sold` as the denominator. This means that while we can see the OVERALL value an account is paying for, we will not see if a new or recently upgraded subscription finds value with a small portion of their `billable users`. E.g., if a customer purchased 500 licenses, but has only deployed 50 licenses (`billable users`), then the account will show red for user-based health scores
+   1. **Resolution**: Next steps are being discussed [here](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/2512)
+1. DevSecOps health scores are currently user based. However, that is an inadequate method to measure value adopted as some customers allow everyone to run scans and some hold those to a small portion of users. The future plan is to look to event based metrics, such as the number of scans and other features (see [epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/253))
+   1. **Resolution**: The DevSecOps health score is [being refactored](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/253) to align to a better proxy 
+1. Usage is measured at the instance level, which is attached to a subscription, attached to an account. So a "Account" health score is a view of a single instance (the most important one) but, for more complex accounts, that can hide the health of other instances and subscriptions (see [graph](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#csmcse-actions)) that shows how a single account can have multiple subscriptions and each subscription could have multiple instances (self-managed only). Process for dealing with [multiple production instances](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#multiple-production-instances-health-scoring)
+   1. **Resolution**: The ideal outcome is to "split" subscriptions apart into relevant child accounts, which is being [discussed here](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3032)
+1. `Billable Users` was a metric introduced in 14.0. Any customers on an older (self-managed) instance will not have this value and License Utilization will appear as NULL (note: this is a non-issue for SaaS customers)
+   1. **Resolution**: Focus on Cloud License adoption
+1. User Engagement: the `unique_active_user` metric debuted in 15.2 and only exists for self-managed instances. This health score will be NULL for all SaaS customers and any self-managed customer on 15.1 or earlier
+   1. **Resolution**: Focus on Cloud License adoption (self-managed)
+   1. **Resolution**: Create [the metric](https://gitlab.com/gitlab-data/analytics/-/issues/11662) for SaaS customers
+1. Most underlying metrics were created on 13.9 or earlier, though any instance on version 12 or earlier will not have metrics
+   1. **Resolution**: 
+1. Usage data is reliant on internet access, the IP address NOT being blocked, and our license<>subscription mapping to be functioning as expected (see [License<>Subscription Mapping epic](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/634) assigned to Fulfillment to resolve)
+   1. **Resolution**: Focus on Cloud License adoption (self-managed)
 
 ## Use Case Adoption Count
 
