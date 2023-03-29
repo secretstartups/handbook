@@ -16,6 +16,7 @@ I’m the director of development for the [secure](/handbook/engineering/develop
 
 In addition to leading development for these development sub-departments, I also focus on:
 
+* Co facilitating the [AI integration working group](/company/team/structure/working-groups/ai-integration/)
 * Protecting GitLab from attackers
 * Coordinating escalations for specific large customers
 * Public speaking on various topics
@@ -91,7 +92,6 @@ Corresponding handbook pages:
 Please be an [accountability partner](https://medium.com/@MaryLouWrites/accountability-partners-what-are-they-and-how-do-i-get-some-c5ebd1a828ef) for me on the following items:
 
 * When I make requests or ask questions, always include the priority and expected time frames 
-* Avoid asking questions in public formus that inadvertently create high priority work because they are interpreted as high priority because I am asking (when that is not what I intended)
 * Use my [standing desk](https://www.webmd.com/fitness-exercise/standing-desks-help-beat-inactivity) at least two hours a day.
 
 # 2023 Q1 OKRs
