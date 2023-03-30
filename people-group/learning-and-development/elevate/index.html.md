@@ -10,50 +10,49 @@ title: Elevate
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-Managers at GitLab enable our mission that [everyone can contribute](/company/mission/) and build our [vision of an AllOPs platform](/company/vision/). We need to equip our people leaders with the skills to lead globally dispersed, all-remote teams to support this growth at scale.
+Managers at GitLab enable our mission that [everyone can contribute](/company/mission/). We need to equip our people leaders with the skills to lead globally dispersed, all-remote teams to support our business growth at scale.
 
-The handbook provides guidance on GitLab [leadership competencies](/handbook/competencies/#manager-and-leadership-competencies) and principles. Bringing these practices to life requires training and practice. **Elevate**, GitLab's leaadership development program, provides opportunity for each people leader to learn to lead effectively at GitLab. 
+The handbook provides guidance on GitLab [leadership competencies](/handbook/competencies/#manager-and-leadership-competencies) and principles. Bringing these practices to life requires training and practice. **Elevate**, GitLab's leaadership development program, provides opportunity for people leaders to learn to lead at GitLab. 
 
 ### Goal
 
-In FY24, 85% of people leaders will successfully complete Elevate.
+In FY24, 85% of people leaders will complete Elevate and earn the GitLab Elevate certification.
 
 ## What is Elevate
 
-Elevate is a highly interactive, all-remote cohort-based program where managers will learn with, and from, each other. The goal is to provide a common, well understood leadership framework which demonstrates GitLab [values](/handbook/values/), [leadership competencies](/handbook/competencies/#manager-and-leadership-competencies), and our [mission](/company/mission/). 
+Elevate is a highly interactive, all-remote program where managers will learn with, and from, each other. The goal is to provide a common, well understood leadership framework which demonstrates GitLab [values](/handbook/values/), [leadership competencies](/handbook/competencies/#manager-and-leadership-competencies), and [mission](/company/mission/). 
 
 In Elevate, participants will:
 
 1. Learn what it means to lead at GitLab
 1. Practice the [Manager & Leadership competencies](/handbook/competencies/#manager-and-leadership-competencies)
-1. Apply learning into practice via an action learning project
 1. Build cross-functional relationships with coaching cohort members
 1. Demonstrate leadership competency by completing the Elevate Leadership Certification
 
 ## What concepts are taught in Elevate
 
-The material covered in Elevate is based on our GitLab [values](/handbook/values/), [leadership competencies](/handbook/competencies/#manager-and-leadership-competencies), and [mission](/company/mission/). Read more about the skills covered in each module below:
+Elevate is organized into 5 learning modules. Read more about the skills covered in each module below:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vStxYG-P-8yUN11RIqpj0duhEbfH08KhMn0qOZ1MhasYc1Yt_rbCQ5NnUcBb5NxwQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Time Commitment
 
-Elevate runs for a total of 6 months. Each month, participants will spend a total of 3-4 hours in the following learning activities. Learning will happen in the same order each month.
+Elevate runs for a total of 5 months and is organized into 5 learning modules. In each module, participants spend a total of 3-4 hours in the following learning activities:
 
-| Steps | Structure | Description | Time Spent |
+| Steps | Title | Description | Time Spent |
 | ----- | ----- | ---------- | ----- |
-| Step 1 | Live Learning Session | 1x monthly instructor led learing session focused on the critical concepts covered that month| 50 minutes |
-| Step 2 | Self-Paced learning | Videos, reading, journaling, and quizzes to reinforce concepts completed in Level Up | 45 minutes |
-| Step 3 | Cohort Group Coaching | Cross-functional group coaching sessions with 10-12 other GitLab people leaders with space to practice current concepts | 80 minutes | 
-| Step 4 | Asses your Learning | Take a quiz in Level Up to assess your understanding of new concepts. |
+| Step 1 | Live Learning Session | 1x monthly synchronous learing session on the relevant module topic | 50 minutes |
+| Step 2 | Asynchronous Learning | Videos, reading, journaling, self-reflections, and quizzes to reinforce concepts completed in Level Up | 45 minutes |
+| Step 3 | Group Coaching | Cross-functional group coaching sessions with 10-12 other GitLab people leaders to practice module concepts | 80 minutes | 
+| Step 4 | Asses your Learning | Take a quiz in Level Up to demonstrate your understanding of new concepts. |
 
-The visual below illustrates the modules and requirements of learners throughout Elevate:
+The visual below illustrates the 5 Elevate modules:
 
 ![visual dispalying the module path for learners in the Elevate program](elevate-path.png){: .shadow.medium.center}
 
 ### Additional expectations
 
-1. Complete an Action Learning Group Project to demonstrate learning
+1. Demonstrate mastery of material at the end of module 5 to earn the GitLab Elevate certification.
 
 
 ## Frequenlty Asked Questions
