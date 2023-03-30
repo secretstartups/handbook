@@ -11,39 +11,19 @@ title: "The Internal Audit Function"
 
 
 # Internal Audit Charter 
-THE AMENDED INTERNAL AUDIT CHARTER WAS APPROVED BY THE AUDIT COMMITTEE ON 2022-03-30
-
-<br>
-
-**Internal Audit Charter Summary:** 
-
-* **Purpose and Mission** – _The purpose of GitLab’s Internal Audit team is to provide independent, objective assurance and consulting services designed to add value and improve GitLab’s operations._ 
-
-* **Standards for the Professional Practice of Internal Auditing** – _The Internal Audit team will govern itself by adherence to the mandatory elements of The Institute of Internal Auditors' International Professional Practices Framework._ 
-
-* **Authority** – _The Company's Vice President, Internal Audit will report functionally to the Audit Committee and administratively (i.e., day-to-day operations) to the Company’s Chief Financial Officer._ 
-
-* **Independence and objectivity** – _The Company's Vice President, Internal Audit will ensure that the Internal Audit department remains free from all conditions that threaten the ability of Internal Auditors to carry out their responsibilities in an unbiased manner, including matters of audit selection, scope, procedures, frequency, timing, and report content._ 
-
-* **Scope of Internal Audit activities** – _The scope of Internal Audit activities encompasses, but is not limited to, objective examinations of evidence for the purpose of providing independent assessments to the Audit Committee, Company management, and outside parties(e.g. KPMG) on the adequacy and effectiveness of governance, risk management, and control processes for GitLab._ 
-
-* **Responsibility** – _examples - submission of Internal Audit plan to Audit Committee on annual basis, communication of ongoing progress against plan, issues and risk mitigations, adherence to relevant policies and procedures, ensure the principles of integrity, objectivity, confidentiality, and competency are applied and upheld._ 
-
-* **Quality Assurance and Improvement Program** - _The Internal Audit team will maintain a quality assurance and improvement program that covers all aspects of the Internal Audit department._ 
-
-* **Approval/signatures** – _The Internal Audit charter is approved by the Audit Committee Chair, CFO, and The Company's Vice President, Internal Audit._
+THE AMENDED INTERNAL AUDIT CHARTER WAS APPROVED BY THE AUDIT COMMITTEE ON 2023-03-29
 
 <br>
 
 #### Purpose and Mission
 
-The purpose of GitLab’s (“**Company**”) internal audit team (“**IA Team**”) is to provide independent, objective assurance and consulting services designed to add value and improve the Company’s operations. The internal audit department helps the Company accomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the effectiveness of governance, risk management, and control processes. 
+The purpose of GitLab’s (“**Company**”) internal audit team (“**IA Team**”) is to provide independent, objective assurance and consulting services designed to add value and improve the Company’s operations. The IA Team helps the Company accomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the effectiveness of governance, risk management, and control processes. 
 
 <br>
 
 #### Standards for the Professional Practice of Internal Auditing 
 
-The internal audit department will govern itself by adherence to the mandatory elements of The Institute of Internal Auditors' International Professional Practices Framework, including the Core Principles for the Professional Practice of Internal Auditing, the Company’s Code of Business Conduct & Ethics (the “**Code of Ethics**”), the Institute of Internal Auditors (IIA) Code of Ethics, the International Standards for the Professional Practice of Internal Auditing (the “**Standards**”), and the Definition of Internal Auditing. The Company’s Vice President, Internal Audit will report periodically to the Company’s E-Group and the Company’s Board of Directors’ [Audit Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) (“**Committee**”) regarding the internal audit department’s conformance to the Code of Ethics and the Standards. 
+The IA Team will govern itself by adherence to the mandatory elements of The Institute of Internal Auditors' International Professional Practices Framework, including the Core Principles for the Professional Practice of Internal Auditing, the Company’s Code of Business Conduct & Ethics (the “**Code of Ethics**”), the Institute of Internal Auditors (IIA) Code of Ethics, the International Standards for the Professional Practice of Internal Auditing (the “**Standards**”), and the Definition of Internal Auditing. The Company’s Vice President, Internal Audit will report periodically to the Company’s E-Group and the Company’s Board of Directors’ [Audit Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) (“**Committee**”) regarding the IA Team’s conformance to the Code of Ethics and the Standards. 
 
 <br>
 
@@ -78,7 +58,7 @@ Members of the IA Team will have no direct operational responsibility or authori
 * Initiating or approving transactions external to the IA Team. 
 * Directing the activities of any Company team member not on the IA Team, except to the extent that such team members have been appropriately assigned to internal audit auditing teams or to otherwise assist members of the IA Team. 
 
-Where the Company’s Vice President, Internal Audit has or is expected to have roles and/or responsibilities that fall outside of internal auditing, safeguards will be established by the IA team and approved by the [Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) to limit impairments to independence or objectivity. 
+Where the Company’s Vice President, Internal Audit has or is expected to have roles and/or responsibilities that fall outside of internal auditing, safeguards will be established by the IA Team and approved by the [Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) to limit impairments to independence or objectivity. 
 
 Members of the IA Team will: 
 * Disclose any impairment of independence or objectivity, in fact or appearance, to the [Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/). 
@@ -86,7 +66,7 @@ Members of the IA Team will:
 * Make balanced assessments of all available and relevant facts and circumstances. 
 * Take necessary precautions to avoid being unduly influenced by their own interests or by others in forming judgments. 
 
-The Company’s Vice President, Internal Audit will report and confirm to the [Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/), at least annually, the organizational independence of the internal audit department. 
+The Company’s Vice President, Internal Audit will report and confirm to the [Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/), at least annually, the organizational independence of the IA Team. 
 
 The Company’s Vice President, Internal Audit will disclose to the [Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) any interference and related implications in determining the scope of internal auditing, performing work, and/or communicating results. 
 
