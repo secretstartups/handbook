@@ -1,6 +1,7 @@
 baseURL: https://handbook.gitlab.com
 languageCode: en-us
 title: The GitLab Handbook
+description: Learn more about GitLab and what makes us tick.
 
 params:
   branch: main
