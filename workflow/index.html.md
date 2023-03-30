@@ -153,6 +153,10 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
       /label ~"master-broken::need-merge-train"
       /label ~"master-broken::infrastructure"
       /label ~"master-broken::runner-disk-full"
+      /label ~"master-broken::gitaly"
+      /label ~"master-broken::external-dependency-unavailable"
+      /label ~"master-broken::failed-to-pull-image"
+      /label ~"master-broken::gitlab-com-overloaded"
       /label ~"master-broken::undetermined"
       ```
 
