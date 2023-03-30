@@ -52,8 +52,6 @@ Balancing MR reviews with other priorities is a challenge, as they can be unpred
 
 If you're struggling with MR reviews, remember to [manage expectations with MR authors](/handbook/engineering/workflow/code-review/#managing-expectation) and let your manager know right away so they can help you. Before taking up a review, make an estimation of your capacity keeping in mind any upcoming time off. If you are unsure of completing the review before leaving for a time off, spin the roulette again to assign the review to a different designer.
 
-
-
 ## Reviewing
 
 In general, follow the [Code Review guidelines](https://docs.gitlab.com/ee/development/code_review.html) (it's a long document, but please read all of it). Exceptions to those guidelines are noted below.
@@ -74,9 +72,9 @@ Always review the MR in a live environment, so that you can experience the chang
 
 #### Specific review requirements
 Some MRs have additional set up requirements. 
-- SaaS-only features: For testing SaaS-only features you'll need to run the GDK as a SaaS version. [Instructions for simulating SaaS version in the GDK](https://docs.gitlab.com/ee/development/ee_features.html#simulate-a-saas-instance)
+- SaaS-only features: For testing SaaS-only features you'll need to run the GDK as a SaaS version. [Instructions for simulating SaaS version in the GDK](https://docs.gitlab.com/ee/development/ee_features.html#simulate-a-saas-instance).
 - Paid features: You'll need a license for these. Request a license via and [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new), using the GitLab_Team_Member_License_Request template. [Instructions for adding the license to your instance](https://docs.gitlab.com/ee/user/admin_area/license_file.html#add-your-license-file-during-installation).
-- You can also switch between CE and EE editions: [How to simulate a CE instance](https://docs.gitlab.com/ee/development/ee_features.html#simulate-a-ce-instance-when-unlicensed)
+- You can also switch between CE and EE editions: [How to simulate a CE instance](https://docs.gitlab.com/ee/development/ee_features.html#simulate-a-ce-instance-when-unlicensed).
 - Pipeline-related features: You'll need to enable a runner to run a pipeline. Review apps have runners available by default. Instructions for enabling a runner in [Gitpod](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/gitpod.md#enable-runners) or [GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/runner.md).
 - Compliance: To test [audit event streaming](https://docs.gitlab.com/ee/administration/audit_event_streaming.html) MRs you might need to set a stream destination URL. You can use [Pipedream](https://pipedream.com/) to generate a temporary destination.
 - Fulfillment: Because of the complicated setup required for CustomersDot, only Fulfillment Product Designers should review CustomersDot MRs and GitLab MRs that require connection to CustomersDot (e.g., the GitLab.com purchase flow).
@@ -84,7 +82,7 @@ Some MRs have additional set up requirements.
   - There are times when it isn't possible or practical for a Product Designer to complete their review via their local environment. At these times, the Product Designer can review screenshots and videos in the MR description or coordinate a demo with the Engineer. Another option for more complicated changes is keeping the change behind a feature flag and reviewing the change on staging after the MR has been merged. This is up to each Product Designer's discretion.
 - Geo: Using the simple installation script, you need to install and configure two **GDKs**. The script does not work on GitPod. The configured GDKs served as a Geo primary and secondary site.
   - [Instructions for the simple installation](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/geo.md).
-  - [Video instruction](https://youtu.be/R58mgwDwjM8) and [slide deck](https://docs.google.com/presentation/d/1azikV27LO68xobgJ7v399H1ppnLCmtB_kEKl_IMNI0Q/edit#slide=id.g123a13deda8_0_405) for setting up Geo-GDKs
+  - [Video instruction](https://youtu.be/R58mgwDwjM8) and [slide deck](https://docs.google.com/presentation/d/1azikV27LO68xobgJ7v399H1ppnLCmtB_kEKl_IMNI0Q/edit#slide=id.g123a13deda8_0_405) for setting up Geo-GDKs.
 - Pipeline Execution: For compute credits and shared runner usage related features, you need to populate projects with historical compute credits usage data to test the features or changes.
   - Merge requests related to compute credits and shared runner usage usually require some historical usage data, which can be difficult to set up if it doesn't exist already on the local GDK environment. Below is a video and instructions for how to set that up in under 7 minutes.
    <!-- blank line -->
@@ -131,7 +129,7 @@ Some MRs have additional set up requirements.
    - Service Desk MRs sometimes require setting up `incoming_email`, `service_desk_email` and MailRoom. These MRs can't be reviewed on GitPod and need a working GDK. Follow the set up instructions in the [GDK docs](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/service_desk_mail_room.md) or this [video walkthrough](https://youtu.be/SdqBOK43MlI).
 - Value Stream Analytics: Value Stream [set up and seed data instructions](https://gitlab.com/-/snippets/2169951/raw/main/blocks.md). Many VSA features require an EE license, [request a developer license](https://about.gitlab.com/handbook/developer-onboarding/#working-on-gitlab-ee-developer-licenses).
 
-If you find yourself struggling to get your environment set up, try reaching out to the [design DRI](/handbook/product/categories/#devops-stages) for help with the specific testing requirements. If you're still having difficulties after an hour or so, it's perfectly acceptable to hand the MR over to the design DRI for review completion. If you have time it might be worthwhile to shadow the design DRI to watch and learn how they complete the MR review.
+**If you find yourself struggling to get your environment set up**, try reaching out to the [design DRI](/handbook/product/categories/#devops-stages) for help with the specific testing requirements. If you're still having difficulties after an hour or so, it's perfectly acceptable to hand the MR over to the design DRI for review completion. If you have time it might be worthwhile to shadow the design DRI to watch and learn how they complete the MR review.
 
 ### Review the MR
 
