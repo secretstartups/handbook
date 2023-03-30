@@ -214,11 +214,11 @@ The Data Platform Team follows a weekly rotation schedule which means that by th
  
 Although running a weekly rotation, we expect the triager to post an EOD announcement in the applicable Slack channels.
 
-### GitLab.com DB structure changes
-1 of the most important data source, that regularly changes, is the GitLab.com database. In order not to break the daily operation, changes to the database needs to be tracked and checked. Any change to the GitLab.com database, is made to the db/structure\.sql file. The Data Team gets notified, by applying labels to the MR, if a change to the db/structure\.sql is made, via the Danger Bot. 
+### GitLab.com databases structure changes
+GitLAb.com databases do regularly change. In order not to break the daily operation, changes to the database needs to be tracked and checked. Any change to the GitLab.com database and CustomerDot database is tracked by the Danger Bot. The Data Team gets notified, by applying labels to the MR, if a change to the db/structure\.sql is made. 
 
 A label `Data Warehouse::Impact Check` is added by the Danger Bot as call to action for the data team. 
-- On triage, the Triager will [check](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name[]=Data%20Warehouse%3A%3AImpact%20Check) for MRs with label `Data Warehouse::Impact Check`.
+- On triage, the Triager will [check](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=opened&label_name[]=Data%20Warehouse%3A%3AImpact%20Check&draft=no&approved_by_usernames[]=Any) for MRs with label `Data Warehouse::Impact Check`.
 
 The following actions are performed by Data Team Triager:
 - Every merge request (`MR`) will be judged
