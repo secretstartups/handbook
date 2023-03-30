@@ -4,7 +4,7 @@ title: The GitLab Handbook
 
 params:
   branch: main
-  project: https://gitlab.com/gitlab-com/content-sites/handbook
+  project: gitlab-com/content-sites/handbook
   plantuml:
     enable: true
     # svg: true
@@ -19,7 +19,7 @@ params:
   links:
     user:
       - name: "Contribute"
-        url: "docs/"
+        url: "/docs/"
         icon: "fa fa-pen"
         desc: "Contribute to the internal handbook"
       - name: "GitLab Repository"
