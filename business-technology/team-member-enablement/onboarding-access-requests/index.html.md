@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab onboarding and machine management"
+title: "GitLab Laptop Management"
 ---
 
 ## On this page
@@ -23,9 +23,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 # Purpose
 
-## GitLab Onboarding
-
-The GitLab IT team is here to help you through any onboarding struggles you might be dealing with. We have a weekly [IT Onboarding Q&A](https://calendar.google.com/calendar/r/eventedit/M3VpajRiNTdmYXM3ZnViZDI1MGVnaHFvdTRfMjAyMDA1MDVUMTYwMDAwWiBtZGlzYWJhdGlub0BnaXRsYWIuY29t) for GitLab new hires to join and discuss any technical issues or concerns they are having during onboarding. Please also refer to [The guide to remote onboarding](https://about.gitlab.com/company/culture/all-remote/onboarding/) for additional onboarding guidance.
+This page displays different pieces of information surrounding GitLab laptop procurement and management. 
 
 # Scope
 
@@ -39,13 +37,13 @@ At GitLab, we use centralized laptop management for company-issued laptops. If y
 | Business Technology | Responsible for implementing and executing this procedure |
 | Business Technology Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
-# Procedure
 
-## Laptops
 
-### Laptop Ordering Process
+## GitLab Laptops
 
-The laptop ordering process starts as soon as an offer is accepted by a candidate and the initial Welcome email is sent by the Candidate Experience Specialist.
+### New Hire Laptop Ordering Process
+
+The laptop ordering process for new hires starts as soon as an offer is accepted by a candidate and the initial Welcome email is sent by the Candidate Experience Specialist.
 This email will include a link to the Notebook Order Form where the new team member will state their intent for obtaining or ordering hardware.
 
 Team members that live in these countries can be serviced via the IT Laptop Ordering Process:
@@ -58,6 +56,42 @@ If the latter, see below.
 
 If your country is not listed above or for any general laptop procurement questions please contact IT-Help@gitlab.com or your Candidate Experience Specialist to discuss alternate options.
 If the team member desires financial assistance to purchase the hardware, the Company will advance the funds to help facilitate the purchase (see Exception Processes below).
+
+### GitLab Laptop Refreshes for Team Members
+
+Team member Laptops can be refreshed after 3 years (of use!) without question. Everyone's needs are different so it is hard to set a clear timeline of when computer upgrades are necessary for all team-members, but team-members become eligible for an updated laptop after 3 years. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) than manager approval will be required before IT can purchase the replacement laptop. If you qualify/complete a laptop refresh, please also refer to our [Laptop Buy back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) below. 
+
+Laptops being requested as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
+
+### GitLab Laptop Replacement Program
+
+We get it, sometimes things happen! If you laptop is broken or not sufficient for your role you can request a replacement laptop if you do not qualify for the 3 year refresh yet. 
+
+Replacement laptops for broken GitLab laptops can be requested as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the Team member Enablement issue tracker project. Please describe the reason for your replacement in the issue. (i.e my screen and battery are damaged,) also please note replacements will require your managers approval in the issue. 
+
+Many team members can use their company issued laptop until it breaks. If your productivity is suffering, you can request a new laptop. The typical expected timeframe for this is about three years, but it can depend on your usage and specific laptop. 
+
+**Please note**
+
+Laptops paid for or reimbursed by the company are property of GitLab and need to be reported with serial numbers, make, model, screen size and processor to IT Ops by adding it to this form: [GitLab laptop information](https://forms.gle/czgiZAT2D1Rxt7Dw6) for proper [asset tracking](/handbook/finance/accounting/#asset-tracking).
+Since these items are company property, you do not need to buy insurance for them unless it is company policy to do so (for example, at the moment we do not purchase Apple Care), but you do need to report any loss or damage to IT Ops as soon as it occurs.
+
+### Laptop Repair
+
+If your laptop is broken and needs to be repaired you can take it into an Apple repair store. You should ensure that you have a recent backup before doing so, and that your laptop is not your only registered device for iCloud two-factor authentication.
+
+If the repair is not going to be too expensive (more than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
+
+You must open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval. Please make sure to attach/include any estimates or reciepts for the repair that you got from Apple (or any authorized service center) in the issue. Picture or PDF will work just fine.
+
+Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
+
+Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [Jamf for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe). Also, ensure that you have installed [SentinelOne](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#endpoint-management-technologies) in order to keep your laptop secure.
+
+If, however, the repair is going to be expensive and take weeks to fix and you have no back up laptop, your best option is to replace the laptop.
+
+In this case please open [an issue to replace](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement).
+Then please follow the guidelines in the template and once you receive the new laptop we can have the old one sent off to our reseller.
 
 ### Laptop Purchasing and Shipping Process
 
@@ -74,7 +108,7 @@ Estimated Delivery Timelines for Gitlab Hardware
 
 ### Key Performance Indicators
 
-KPI 99% of laptops will arrive prior to start date or 21 days from the date of order.
+KPI 90% of laptops will arrive prior to start date or 21 days from the date of order.
 
 ### Exception Processes
 
@@ -94,7 +128,7 @@ If in the rare case that your laptop arrives damaged or unusable prior to your s
 
 ### Laptop Configurations
 
-GitLab approves the use of Linux, and Apple's macOS. Microsoft Windows is prohibited for the following reasons:
+GitLab approves the use of Linux, and Apple's macOS. Microsoft Windows is **prohibited** for the following reasons:
 
 - Due to Microsoft Windows' [dominance in desktop operating systems](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Desktop_and_laptop_computers), Windows is the platform most targetted by spyware, viruses, and ransomware.
 - macOS is preinstalled on Apple computers and Linux is available free of charge. To approve the use of Windows, GitLab would have to purchase Windows Professional licenses, as Windows Home Edition does not satisfy [GitLab's security guidelines](https://about.gitlab.com/handbook/security/).
@@ -125,8 +159,8 @@ Most roles that require higher performance machines are approved for a 14" or 16
 IT strongly encourages team members to select Macs; please only request a Linux laptop if you are experienced in Linux and capable of self-support.
 {: .alert .alert-info}
 
--  \*\* Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are eligible for Dell Precision Mobile Workstation laptops from the 5500 or 5700 lines. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [15.6” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/work/shop/laptops/new-15-5560-workstation/spd/precision-15-5560-laptop).
-- Everyone else is eligible for laptops from the Dell Latitude 7300 line. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [13.3” display / 256 GB SSD / 16 GB of RAM / Intel Quad-Core i5 CPU](https://www.dell.com/en-uk/work/shop/laptop-computers-for-businesses/latitude-7300-business-laptop/spd/latitude-13-7300-laptop)
+**Below are roles that qualify for Linux Laptops**
+-  Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are eligible for Dell Precision Mobile Workstation laptops from the 5500 or 5700 lines. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [15.6” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/shop/laptops/new-15-5560-workstation/spd/precision-15-5570-laptop).
 
 
 \*\*NOTE: The maximum price of Linux laptops is not to exceed **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model a minimum of 14 days, based on your locality, prior to your desired date to receive.
@@ -197,31 +231,11 @@ In other words, we eliminate this possibility of becoming a situation to be mana
 To be able to use a laptop vendor, we have to be able to purchase and ship hardware to our team members regardless of where they live.
 Therefore the vendor should be able to handle most if not all shipping requirements to all team members. Our current hardware provider for US and most international locations is CDW. GitLab laptops that are procured from CDW will come with GitLab branded asset labels by default. Please refer to this issue for more information on GitLab asset labels. [GitLab Branded Laptop Labels](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/it-ops-issue-tracker/-/issues/352)
 
-### Laptop Refresh
+### Laptop Recycle/Return
 
-Team member Laptops can be refreshed after 3 years (of use!) without question. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) than manager approval will be required before IT can purchase the replacement laptop.
-If you feel you need a new laptop to be effective at your job before then, reach out to IT and your manager.
+Laptops being returned to the company will be returned to an IT Team member for data sanitization and repurposing. GitLab IT will provide a shipping label and box upon request at no cost to yourself. 
 
-Replacement laptops for broken GitLab laptops can be requested as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the Team member Enablement issue tracker project.  Laptops ordered as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
-
-This process can also be followed for laptops that are not broken but old enough that you are having trouble completing your work.
-Please refer to the [spirit of spending company money](/handbook/spending-company-money/) when deciding whether or not it is appropriate to replace your functioning laptop.
-Everyone's needs are different so it is hard to set a clear timeline of when computer upgrades are necessary for all team-members, but team-members become eligible for an updated laptop after 3 years.
-If you qualify/complete a laptop refresh, please also refer to our [Laptop Buy back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) below.
-
-Many team members can use their company issued laptop until it breaks.
-If your productivity is suffering, you can request a new laptop.
-The typical expected timeframe for this is about three years, but it can depend on your usage and specific laptop. Laptops paid for by the company are property of GitLab and need to be reported with serial numbers, make, model, screen size and processor to IT Ops by adding it to this form: [GitLab laptop information](https://forms.gle/czgiZAT2D1Rxt7Dw6) for proper [asset tracking](/handbook/finance/accounting/#asset-tracking).
-Since these items are company property, you do not need to buy insurance for them unless it is company policy to do so (for example, at the moment we do not purchase Apple Care), but you do need to report any loss or damage to IT Ops as soon as it occurs.
-Links in the list below are to sample items, other options can be considered.
-
-### Laptop Recycle
-
-Laptops being returned to the company that are no longer fit for service will be recycled with our vendor [AnythingIT](https://www.anythingit.com/). GitLab receives a monetary credit for each laptop recycled and this credit is applied to our purchasing balance through other vendors.
-
-Laptops that are being returned that are still fit for service (less then 1 year old) will be warehoused with AnythingIT and repurposed as needed.
-
-We no longer encourage Apple's Trade-In program. Any laptop being returned, regardless of condition, should be sent to AnythingIT.
+We no longer encourage Apple's Trade-In program. Any laptop being returned, regardless of condition, should be sent to a GitLab IT Team Member. 
 
 ### Laptop Donations
 
@@ -235,36 +249,15 @@ The vendors on the list have been meeting the following criteria:
 
 If you, as a GitLab team member, would like to add a vendor aligned with the cirteria, please comment in the [Vendor sheet](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0).
 
-#### Logistics
-If you decide to donate your laptop instead of the Trade-in program in terms of logistics you have the following options:
-- Drop off: If there's a vendor close to your location and they are open to drop off you can drop off the device.
-- Sending: If the vendor offers to collect the device you can find that option in Column F of the sheet.
-- AnythingIT: (US only) AnythingIT offers the possibility to send a box and collect your device. They will donate it to the charity: www.RockOurVets.org
 
 #### Steps for donating your hardware
 
 1. Create an issue for [laptop replacement](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement)
 1. Indicate in the issue you want to donate your used laptop to a vendor on the curated list.
-1. Indicate in the issue which option of logistics will be used: Drop off, Sending via vendor or AnythingIT (US only).
+1. Indicate in the issue which option of logistics will be used: Local Drop off or Sending via courier.
 1. For security reasons we want to make sure all laptops are fully wiped before drop off or sending.
 1. When you receive your new laptop, complete the donation.
 
-### Laptop Repair
-
-If your laptop is broken and needs to be repaired you can take it into an Apple repair store. You should ensure that you have a recent backup before doing so, and that your laptop is not your only registered device for iCloud two-factor authentication.
-
-If the repair is not going to be too expensive (more than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
-
-You must open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval. Please make sure to attach/include any estimates or reciepts for the repair that you got from Apple (or any authorized service center) in the issue. Picture or PDF will work just fine.
-
-Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
-
-Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [Jamf for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe). Also, ensure that you have installed [SentinelOne](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#endpoint-management-technologies) in order to keep your laptop secure.
-
-If, however, the repair is going to be expensive and take weeks to fix and you have no back up laptop, your best option is to replace the laptop.
-
-In this case please open [an issue to replace](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement).
-Then please follow the guidelines in the template and once you receive the new laptop we can have the old one sent off to our reseller.
 
 ### Configuring New Laptops & Apple IDs
 
@@ -365,75 +358,6 @@ To accomplish this goal we are utilizing Jamf for MacOS devices to obtain only t
 For more information regarding Jamf, refer to our [Endpoint Management](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) handbook page.
 
 For more information regarding DriveStrike, refer to our [DriveStrike](/handbook/it/guides/drivestrike/) handbook page.
-
-### Slack Emoji Workflow
-
-In an effort to improve efficiency and promote self service while using Slack. Our team has created an Emoji workflow in Slack that will send automated messages based on a specific emojis reaction.
-
-The idea is that if a user posts a question in the IT-Help slack channel, an IT technician or anyone in GitLab can react with an emoji and send a message that has helpful information.
-
-All workflows will contain a button that a user can press to request help from a human. This is to show that we are not trying to degrade the employee experience.
-
-#### How does it work?
-
-The process is very simple:
-
-1. Wait for a help request to come into the IT-Help Slack channel
-2. Once a request (slack message) comes in, hover your mouse over it and press the Add reaction button.
-3. Search for the appropriate emoji that correlates to the workflows shown at the table below.
-4. Click the emoji. This will now add the emoji to the message and activate the workflow messages created (shown below)
-
-Below is a table with the current workflows setup:
-
-<table>
-<thead>
-  <tr>
-    <th>Process</th>
-    <th>App/Subject</th>
-    <th>Emoji</th>
-    <th>Message</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>GitLab 2FA Assistance</td>
-    <td>GitLab,dev, staging</td>
-    <td>:gitlab_wizard:</td>
-    <td>For 2FA related problems for your GitLab account, please use your back up codes. If you saved these codes, you can use one of them to sign in.<br>To use a recovery code, enter your username/email and password on the GitLab sign-in page. When prompted for a two-factor code, enter the recovery code.<br>Once you use a recovery code, you cannot re-use it. You can still use the other recovery codes you saved. <br>For more information please visit this <a href="https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#generate-new-recovery-codes-using-ssh">page</a>.</td>
-  </tr>
-  <tr>
-    <td>Okta 2FA Assistance</td>
-    <td>Okta</td>
-    <td>:okta:</td>
-    <td>Hi {user]<br>Did you set up a YubiKey or Touch ID as another form of MFA? Use that to access your settings page to re-set your Okta Verify application.<br>If this was not helpful, an IT technician will reach out for assistance!</td>
-  </tr>
-  <tr>
-    <td>Access Request</td>
-    <td>GitLab</td>
-    <td>:access-request:</td>
-    <td>Hello {user]<br>This request will require you to submit an access request <a href="https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=">here</a>. Please use the appropriate template (If no such template exists use the closest one and customize it)<br>After this request is submitted our team will action it as soon as possible.</td>
-  </tr>
-  <tr>
-    <td>Laptop Repairs</td>
-    <td>Laptops</td>
-    <td>:laptop-repair:</td>
-    <td>Hi {User}<br>In the event that your laptop is broken or damaged we will attempt to repair the machine. Can you please provide your serial number? This will allow us to check the machines warranty<br>Replacement laptops for broken GitLab laptops can be purchased as needed by creating an <a href="https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair">issue</a> in the Team member Enablement issue tracker project.</td>
-  </tr>
-  <tr>
-    <td>Laptop Troubleshooting</td>
-    <td>Laptops</td>
-    <td>:laptop:</td>
-    <td>Hi user. We are sorry to hear that your laptop has started to run slow or you are experiencing freezing in apps. Follow this <a href="https://about.gitlab.com/handbook/business-technology/team-member-enablement/self-help-troubleshooting/#self-help-and-troubleshooting-tips" target="_blank" rel="noopener noreferrer">guide</a> and if you’re still having trouble, let us know! We’ll be monitoring this thread.<br></td>
-  </tr>
-  <tr>
-    <td>Laptop Upgrade</td>
-    <td>Laptops</td>
-    <td>:new-laptop:</td>
-    <td>Hello {user}<br>Team member Laptops can be refreshed after 3 years (of use!) without question. However, if the replacement laptop is outside the standardized specifications listed here than manager approval will be required before IT can purchase the replacement laptop. <br>If you feel you need a new laptop to be effective at your job before then, reach out to IT and your manager.<br>Please submit an upgrade issue <a href="https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement" target="_blank" rel="noopener noreferrer">here</a>.</td>
-  </tr>
-</tbody>
-</table>
-
 
 
 ### Google Workspace Deprovisioning
