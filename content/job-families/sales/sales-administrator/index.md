@@ -1,5 +1,6 @@
 ---
 title: "Sales Administrator"
+RoleName: "Sales Administrator"
 ---
 
 As the Sales Administrator, you will play a critical role in support of our sales team.
@@ -42,7 +43,7 @@ If you are these things, and are passionate about sales support and can demonstr
 - You share our [values](/handbook/#values), and work in accordance with those values.
 - Ability to use GitLab
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Sales Administrator" }) %>
+{{% job-families/sales/performance %}}
 
 ## Hiring Process
 

@@ -1,5 +1,6 @@
 ---
 title: Japan Country Manager
+RoleName: "Japan Country Manager"
 ---
 
 At GitLab, we are fundamentally changing the way our customers get their software to market by putting the entire DevOps lifecycle into a single application. With over 100,000 organizations using the product, GitLab is one of the fastest growing companies in technology. We make our customers successful in achieving their business outcomes with the GitLab product as they move to truly modern DevOps. We know that our customers trust GitLab to take their ideas all the way from plan to shipped product in production. We take that responsibility seriously. We have an incredible existing and rapidly growing customer base with a passionate, supportive open-source community and incredibly talented teams located in 40 countries focused on supporting them.
@@ -40,7 +41,7 @@ The Country Manager is a [grade 10](/handbook/total-rewards/compensation/compens
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Japan Country Manager" }) %>
+{{% job-families/sales/performance %}}
 
 ## Career Ladder
 

@@ -1,5 +1,6 @@
 ---
 title: "Vice President of Global Enterprise Sales"
+RoleName: "VP of Enterprise Sales"
 ---
 
 ## Job Grade
@@ -31,7 +32,7 @@ The VP, Global Enterprise Sales is a [grade 12](https://about.gitlab.com/handboo
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "VP of Enterprise Sales" }) %>
+{{% job-families/sales/performance %}}
 
 ## Career Ladder
 

@@ -1,5 +1,6 @@
 ---
 title: "Sales Systems Leadership"
+RoleName: "Senior Manager Sales Systems"
 ---
 
 ## Manager, Sales Systems
@@ -68,7 +69,7 @@ The Senior Manager, Sales Systems is a [grade 9](/handbook/total-rewards/compens
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Senior Manager Sales Systems" }) %>
+{{% job-families/sales/performance %}}
 
 ## Director, Sales Systems
 

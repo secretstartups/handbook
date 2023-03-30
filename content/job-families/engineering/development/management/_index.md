@@ -14,7 +14,7 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 
 ### Engineering Development Management Roles
 
-<%= job_families('engineering/development/management') %>
+{{< section-inline-toc >}}
 
 ### Senior Engineering Manager, Development
 

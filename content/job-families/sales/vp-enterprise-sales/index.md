@@ -1,5 +1,6 @@
 ---
 title: "Vice President of Enterprise Sales"
+RoleName: "VP of Enterprise Sales"
 ---
 
 ## Job Grade
@@ -66,7 +67,7 @@ Multiple repeatable proof points of recruiting, hiring, developing, and retainin
 - Extends that of the VP, Enterprise Sales requirements
 - Extensive knowledge in the Enterprise landscape within APAC
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "VP of Enterprise Sales" }) %>
+{{% job-families/sales/performance %}}
 
 ## Career Ladder
 

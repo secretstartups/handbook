@@ -1,5 +1,6 @@
 ---
 title: "Director Public Sector Sales"
+RoleName: "Director of Public Sector Sales"
 ---
 
 The Director of Public Sector Sales is responsible for building, managing and leading the Public Sector sales teams by overseeing sales, operations and strategies for new and existing customers of GitLab.
@@ -41,7 +42,7 @@ The Director, Public Sector Sales is a [grade 10](/handbook/total-rewards/compen
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Director of Public Sector Sales" }) %>
+{{% job-families/sales/performance %}}
 
 ## Career Ladder
 

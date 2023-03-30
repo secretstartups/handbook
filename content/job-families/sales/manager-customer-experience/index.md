@@ -1,5 +1,6 @@
 ---
 title: "Manager, Customer Experience"
+RoleName: "Manager, Customer Experience"
 ---
 
 GitLab is a hyper growth company searching for people who are intelligent and agile with strong skills in technology, sales, business, communication and leadership. Desire to lead through change is a must.
@@ -67,7 +68,7 @@ You will have the opportunity to help shape and execute a strategy to help the C
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Manager, Customer Experience" }) %>
+{{% job-families/sales/performance %}}
 
 ## Career Ladder
 

@@ -1,5 +1,6 @@
 ---
 title: "Public Sector Channel Manager"
+RoleName: "Federal Channel Manager"
 ---
 
 As a Public Sector Channel Manager your primary goal will be to build pipeline and channel revenue with high performance partners. This high-energy position requires the candidate to be extremely motivated and results-driven -- with follow through to create and qualify partner-initiated opportunities.
@@ -40,4 +41,4 @@ The Public Sector Channel Manager is a [grade 8](/handbook/total-rewards/compens
 
 The next step in the Public Sector Channel Manager job family is to move to the [Public Sector Area Sales Manager](/job-families/sales/area-sales-manager) job family.
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Federal Channel Manager" }) %>
+{{% job-families/sales/performance %}}
