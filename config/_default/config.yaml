@@ -1,9 +1,11 @@
 baseURL: https://handbook.gitlab.com
 languageCode: en-us
 title: The GitLab Handbook
-description: Learn more about GitLab and what makes us tick.
 
 params:
+  description: Learn more about GitLab and what makes us tick.
+  images:
+      - images/gitlab-cover.png
   branch: main
   project: gitlab-com/content-sites/handbook
   plantuml:
@@ -51,11 +53,11 @@ menu:
     #   name: Project
     #   url: https://gitlab.com/internal-handbook/internal-handbook.gitlab.io
     #   pre: '<i class="fa fa-code"></i>'
-    - weight: 20
+    - weight: -2
       name: GitLab
       url: https://about.gitlab.com/
       pre: '<i class="fab fa-gitlab"></i>'
-    - weight: 30
+    - weight: -1
       name: Current Public Handbook
       url: https://about.gitlab.com/handbook/
       pre: '<i class="fa fa-book"></i>'
