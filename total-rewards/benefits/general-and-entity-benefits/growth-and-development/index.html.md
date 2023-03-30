@@ -244,6 +244,14 @@ Crucial Conversations charges per-learner to deliver this content. Each license 
 
 The L&D and Total Rewards teams will collaborate to purchase the course license on your behalf and the cost will count towwards your Growth and Development budget. Please plan to complete the Crucial Conversations self-paced training and attend at least 4 live training sessions within 3 months of starting the training.
 
+### Mentorship
+
+In some instances, [mentorship resources provided by GitLab](/handbook/people-group/learning-and-development/mentor/) might not fit team member's needs. For example, a team member might be unable to find a mentor at GitLab with the specific experience, identity, or role they are looking for. In these cases, the Growth and Development benefit can be used to cover the cost of meeting with a **paid, external mentor.** 
+
+Examples of where to connect with mentors:
+1. [MentorCruise](https://mentorcruise.com/)
+2. [Locelle](https://locelle.com/)
+
 ## Example programs by department
 
 The following programs have been contributed by leaders across the organization. These programs may be approved under the Growth and Development policy. If you know of a specific course or program that you or a team member has benefited from, please open an MR and add to this page.
