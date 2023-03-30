@@ -181,16 +181,16 @@ Exceptional community members may be able to participate, as well.
 | 2023-01-02 | 2023-01-06 | [Aaron Burgess](https://gitlab.com/GitLabAaron) - IBM Alliance Business Development Manager | AVAILABLE - REMOTE | 
 | 2022-01-09 | 2023-01-13 | NO SHADOWS | NO SHADOWS |
 | 2023-01-16 | 2023-01-20 | [Stacy Cline](https://gitlab.com/slcline) - Sr Director, ESG | [Aaron Burgess](https://gitlab.com/GitLabAaron) - IBM Alliance Business Development Manager  | 
-| 2022-01-23 | 2023-01-27 | NO SHADOWS | NO SHADOWS |
+| 2023-01-23 | 2023-01-27 | NO SHADOWS | NO SHADOWS |
 | 2023-01-30 | 2023-02-02 | NO SHADOWS | NO SHADOWS | 
 | 2023-02-06 | 2023-02-09 | NO SHADOWS | NO SHADOWS | 
-| 2022-02-13 | 2023-02-17 | NO SHADOWS | NO SHADOWS |
-| 2022-02-20 | 2023-02-24 | NO SHADOWS | NO SHADOWS |
-| 2022-02-27 | 2023-03-03 | NO SHADOWS | NO SHADOWS | 
-| 2022-03-06 | 2023-03-10 | NO SHADOWS | NO SHADOWS | 
-| 2022-03-13 | 2023-03-17 | NO SHADOWS | NO SHADOWS | 
-| 2022-03-20 | 2023-03-24 | NO SHADOWS | NO SHADOWS | 
-| 2022-03-27 | 2023-03-31 | NO SHADOWS | NO SHADOWS | 
+| 2023-02-13 | 2023-02-17 | NO SHADOWS | NO SHADOWS |
+| 2023-02-20 | 2023-02-24 | NO SHADOWS | NO SHADOWS |
+| 2023-02-27 | 2023-03-03 | NO SHADOWS | NO SHADOWS | 
+| 2023-03-06 | 2023-03-10 | NO SHADOWS | NO SHADOWS | 
+| 2023-03-13 | 2023-03-17 | NO SHADOWS | NO SHADOWS | 
+| 2023-03-20 | 2023-03-24 | NO SHADOWS | NO SHADOWS | 
+| 2023-03-27 | 2023-03-31 | NO SHADOWS | NO SHADOWS | 
 
 If you have questions regarding the planned rotation schedule, please ping the [EBA to the CEO](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/). The CoS to the CEO to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
