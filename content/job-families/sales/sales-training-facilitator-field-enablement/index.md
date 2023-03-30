@@ -36,7 +36,7 @@ As an integral member of the GitLab Sales and Customer Enablement team, our Sale
 
 #### Job Grade
 
-The Sales Training Facilitator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sales Training Facilitator is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -51,7 +51,7 @@ The Sales Training Facilitator is a [grade 6](/handbook/total-rewards/compensati
 
 #### Job Grade
 
-The Senior Sales Training Facilitator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Sales Training Facilitator is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 

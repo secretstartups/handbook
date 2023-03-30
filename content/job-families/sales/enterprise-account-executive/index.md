@@ -18,7 +18,7 @@ Additional details on career paths within quota carrying roles at GitLab [can be
 
 ### Job Grade
 
-The Associate Strategic Account Executive is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Strategic Account Executive is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -57,7 +57,7 @@ The Strategic Account Executive role extends the Associate Strategic Account Exe
 
 ### Job Grade
 
-The Strategic Account Executive is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Strategic Account Executive is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -97,7 +97,7 @@ The Sr. Strategic Account Executive  role extends the Strategic Account Executiv
 
 ### Job Grade
 
-The Senior Strategic Account Executive is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Strategic Account Executive is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -144,7 +144,7 @@ The Major Account Executive reports  to an Area Sales Manager or Regional Direct
 
 ### Job Grade
 
-The Major Account Executive Leader is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Major Account Executive Leader is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -178,7 +178,7 @@ The Sr. Major Account Executive  role extends the Major Account Executive role o
 
 ### Job Grade
 
-The Senior Major Account Executive Leader is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Major Account Executive Leader is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

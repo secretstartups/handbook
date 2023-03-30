@@ -7,7 +7,7 @@ The Director of Professional Services provides the strategic vision and leads se
 
 ### Job Grade
 
-The Director, Professional Services is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Professional Services is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -39,7 +39,7 @@ The Director, Professional Services is a [grade 10](/handbook/total-rewards/comp
 
 ### Job Grade
 
-The Senior Director, Professional Services is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Professional Services is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 

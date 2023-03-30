@@ -136,7 +136,7 @@ The Staff Frontend Engineer role extends the [Senior Frontend Engineer](#senior-
 
 ## Hiring Process
 
-Candidates for a Frontend Engineering position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for a Frontend Engineering position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 - Selected candidates will be invited to complete a short written assessment.
 - Next, candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
@@ -236,7 +236,7 @@ The Global Search team uses Elasticsearch to develop search features that users 
 
 ## What it’s like to work here at GitLab:
 
-The [culture](/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLab team-members are currently located in 50+ different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe.
+The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLab team-members are currently located in 50+ different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe.
 
 Some of the [benefits](https://about.gitlab.com/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLab team-members are fully remote and receive a "no ask, must tell" paid-time-off policy, where we don’t count the number of days you take off annually. You can work incredibly flexible hours, enabled by our asynchronous approach to [communication](https://about.gitlab.com/handbook/communication/).
 

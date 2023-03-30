@@ -195,7 +195,7 @@ The Backend Engineering Manager role is a [grade 8](https://about.gitlab.com/han
 - Hold regular [1:1's](https://about.gitlab.com/handbook/leadership/1-1/) with all members of their team
 - Give regular and clear feedback around the [individual's performance](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/)
 - Foster technical decision making on the team, but make final decisions when necessary
-- Draft quarterly OKRs and [Engineering KPIs](/company/kpis/#engineering-kpis)
+- Draft quarterly OKRs and [Engineering KPIs](https://about.gitlab.com/company/kpis/#engineering-kpis)
 - Improve product quality, security, and performance
 - Participate in the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
@@ -226,7 +226,7 @@ For more details on the engineering career ladders, please review the [engineeri
 
 ## Hiring Process
 
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 For Individual Contributors:
 

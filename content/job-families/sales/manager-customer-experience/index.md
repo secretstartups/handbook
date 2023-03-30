@@ -76,9 +76,9 @@ The Manager, Customer Experience would move into the Director, Solutions Archite
 
 ## Hiring Process
 
-Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with Director of Customer Success
 - Candidates will then be invited to schedule a second interview with our Manager of Solutions Architects
 - Candidates will also be invited to schedule an interview with our Manager of Professional Services
@@ -86,4 +86,4 @@ Candidates can expect the hiring process to follow the order below. Please keep 
 - Finally, candidates may be asked to interview with the CEO
 - Successful candidates will subsequently be made an offer directly from Director of Customer Success
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).

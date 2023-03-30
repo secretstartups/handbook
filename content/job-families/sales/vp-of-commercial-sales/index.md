@@ -11,7 +11,7 @@ If you have an action mindset and are excited by the idea of quickly scaling glo
 
 ## Job Grade
 
-The VP of Commerical Sales is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Commerical Sales is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
