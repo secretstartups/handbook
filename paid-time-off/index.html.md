@@ -144,38 +144,42 @@ In keeping with our values of [CREDIT](/handbook/values/), we have crafted the f
 
 #### Sick Time Procedures - All Team Members 
 
-*Team members in France, Netherlands, and U.S, please read specific reporting procedures below. All other team members please review your country's statutory [sick time reporting requirements](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits).
+*Team members in France, Netherlands, and U.S, please read specific reporting procedures below. 
+
+All team members, regardless of the duration of sick time, are required to notify GitLab of their absence.  Team members must notify their Manager, first, and then enter the time away in PTO by Deel by selecting the label `Out Sick`.  If your sick time extends beyond 5 days, or less per your country's [statutory sick time reporting requirements] (/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits), team members are required to notify the Absence Management Team (leaves@domain) first, and then enter the time away into PTO by Deel.
 
 **Continuous Time Away (in excess of 5 days or more), or Non-Continuous if related to the same illness:**
 
-Whenever allowed by law, GitLab's Sick Time Policy will supplement a team member's pay up to 100% of their regular salary for up to 25 working days of continuous absences, and run concurrently with any statutory Sick Leave policies team members are eligible for.  Eligibility is calculated on a rolling 12-month period, and only pertains to continuous absences when team members need to be away from work for 5 or more continuous days or non-continuous if related to the same illness.
+Whenever allowed by law, GitLab's Sick Time Policy will supplement a team member's pay up to 100% of their regular salary for up to 25 working days of continuous absences, and run concurrently with any statutory Sick Leave policies team members are eligible for.  Eligibility is calculated on a rolling 12-month period, and only pertains to absences when team members need to be away from work for 5 or more continuous days or non-continuous if related to the same illness.
 
 We understand some team members may need additional time away to care for a sick family member, but many countries do not offer statutory family care leave and/or pay when needing to care for a sick family member.  If a team member is not eligible for statutory family care leave or pay in their country, GitLab will provide an additional 25 working days of sick time to care for their family member. This means, a team member in a country that does not provide statutory family care leave and/or pay is eligible to receive 25 working days of sick leave for their own condition, plus an additional 25 working days of sick leave to care for an ill family member.  Eligibility is contingent on providing evidence, in accordance with local requirements, supporting the need for Sick Leave to care for their ill family member.  (see medical certificate/doctor's note below for more information)
 
 **Non-Continuous Absences or absences less than 5 continuous days:**
 
-If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it, but you still need to report when you take sick time by entering the dates as an `Out Sick` type of OOO event in [PTO by Deel](/handbook/paid-time-off/#pto-by-deel) via Slack. Once entered in PTO by Deel, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems if needed.
+If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it, but you still need to report when you take sick time by notifying GitLab first and then entering the dates in [PTO by Deel](/handbook/paid-time-off/#pto-by-deel) by selecting the label `Out Sick`. 
+    * Once entered in PTO by Deel, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems if needed.
 
-If you end up needing sick leave for more than 5 consecutive calendar days, or 5 non-continuous calendar days related to the same illness, please follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
+If you end up more than 5 consecutive calendar days, or 5 non-continuous calendar days related to the same illness, please follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
 
 #### Sick Time Procedures - USA
-In the United States, team members may experience a qualifying condition under the Family Medical Leave Act (FMLA) after 3 days of continuous or non-continuous absences (if related to the same condition).  If you are missing more than 3 calendar days of work due to a serious medical condition or to care for a family member with a serious medical condition, your time away will be reviewed to determine if it qualifies as leave under the Family Medical Leave Act (FMLA) and/or any concurrent state sick leave statutes. Team Members may notify GitLab as of the 3rd day of their absence, but are required to notify the Absence Management Team [leaves@gitlab.com] no later than the 5th consecutive/non-consecutive absence so that the team can process your time off under the applicable leave laws. 
+In the United States, team members may experience a qualifying condition under the Family Medical Leave Act (FMLA) after 3 days of continuous or non-continuous absences (if related to the same condition).  If you are missing more than 3 calendar days of work due to a serious medical condition or to care for a family member with a serious medical condition, your time away will be reviewed to determine if it qualifies as leave under the Family Medical Leave Act (FMLA) and/or any concurrent state sick leave statutes. Team Members are required to notify the Absence Management Team [leaves@domain] no later than the 5th consecutive/non-consecutive absence, so that the time away can be processed under the applicable leave laws, but may notify the Absence Management Team as of the 3 consecutive/non-consecutive day. 
 
 * Please be aware that certain states in the US require you to notify your employer of the need for a medical leave prior to your first day of leave whenever possible. To ensure timely reporting and prevent any delays in your pay, please follow the instructions listed in the [Family Medical Leave Act](/handbook/people-policies/leave-of-absence/us/) handbook section to report your time away.
 
-Sick Pay will be coordinated with [Short-Term Disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), and/or the equivalent State pay benefits. 
+* Sick Pay will be coordinated with [Short-Term Disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), and/or the equivalent State pay benefits. 
 
 #### Sick Time Procedures - Netherlands
 
 Employees of GitLab B.V. have further rights and responsibilities regarding sick time based on Dutch law, as written into their employment [contracts](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/employment_contracts/):
 
-- Team members should report sick time via PTO by Deel as aligned above.
-- If the sick leave extends 8 days it should be reported to the Absence Management team via `leaves@gitlab.com` by the Manager and (if possible) team member.
+- Team members must notify their manager of any sick leave needed.
+- Team members must then enter the sick time via PTO by Deel as aligned above.
+- If the sick leave extends 8 days it should be reported to the Absence Management team via `leaves@domain` by the Manager and team member (if able).
 - If team members are reporting multiple instances of sick leave in a 28 day timeframe, please reach out to the Absence Management team and your People Business Partner to discuss.
 - Once the Absence Management team has been notified of the sick time they will inform HRSavvy.
 - HRSavvy will be registering the sick time in their HR portal from the first day of absence (retrospectively).
 - GitLab has engaged with an occupational health and safety centre, called [Zorg van de Zaak](https://www.zorgvandezaak.nl/), to assist employees of GitLab B.V. who may need support while being on long-term sick leave.
-- If the team members is on long-term sick leave (8 days of more), Team Member Relations will instruct HRSavvy to register the team member at the occupational health and safety service, depending on the situation and agreement with the team member.
+- If the team members is on long-term sick leave (8 days of more), the Absence Management team will instruct HRSavvy to register the team member at the occupational health and safety service, depending on the situation and agreement with the team member.
 - Zorg van de Zaak's contact details can be found in the People Operations 1Password vault.
 
 #### Sick Time Procedures - France
@@ -188,17 +192,17 @@ Please be aware that certain countries require a medical certificate, doctor's n
 
 Eligibility for GitLab's Sick Time policy will require team members to provide evidence, in accordance with local requirements, supporting the need for Sick Leave.
 
-Team Members may add the evidence to BambooHR themselves or email the Absence Management team (leaves@gitlab.com).  If you choose to upload the evidence, please email leaves@gitlab.com and inform them that you have added it. 
+Team Members should email the documentation to Absence Management team (leaves@domain).  If you choose to upload the evidence in BambooHR, please email leaves@domain and inform them that you have added it. 
 
 ## Communicating Illness-Related Leave
 
-In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the Absence Management Team `leaves@gitlab.com`. The Absence Management Team will inform the People Business Partner and Manager on a need-to-know basis, but will only provide details related to leave dates; not illness. If the manager does become aware of the team members illness, the manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
+In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the Absence Management Team `leaves@domain`. The Absence Management Team will inform the People Business Partner and Manager on a need-to-know basis, but will only provide details related to leave dates; not illness. If the manager does become aware of the team members illness, the manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
 
 ## Accommodations
 
-If you believe you need reasonable accommodations to perform the essential functions of your job in accordance with applicable law(s), please email leaves@gitlab.com (Non-US Only).  [US team members](/handbook/people-policies/inc-usa/#reasonable-accommodation) please follow the steps outlined in the handbook. 
+If you believe you need reasonable accommodations to perform the essential functions of your job in accordance with applicable law(s), please email leaves@domain (Non-US Only).  [US team members](/handbook/people-policies/inc-usa/#reasonable-accommodation) please follow the steps outlined in the handbook. 
 
-If a team member starts the conversation with their manager, or People Business Partner, the manager or People Business Partner should either reach out to the Absence Management Team by emailing `leaves@gitlab.com`, or direct the team member to follow the steps outline in the handbook (links above). 
+If a team member starts the conversation with their manager, or People Business Partner, the manager or People Business Partner should either reach out to the Absence Management Team by emailing `leaves@domain`, or direct the team member to follow the steps outline in the handbook (links above). 
 
 The Absence Management Team will keep a log of all accommodation requests. What can (or must) be accommodated varies from location to location. GitLab will comply with the applicable laws in your specific location.
 
@@ -221,7 +225,7 @@ All team members and Managers, including those employed under a PEO, are expecte
 
 Please be aware that new team members' PTO by Deel accounts are activated and synced automatically once a day, so if you try to access PTO by Deel on your first day and receive an error message, please attempt to access PTO by Deel on Day 2. If you still receive an error message, let your assigned People Connect Team member know in your onboarding issue.
 
-GitLab teammate questions about PTO by Deel can be directed to `#people-connect` Slack channel.
+GitLab team member questions about PTO by Deel can be directed to `#people-connect` Slack channel.
 
 ### Slack Commands
 * `/pto-deel ooo` Create an OOO event.
@@ -365,7 +369,7 @@ Managers have a duty to manage their direct reports wellbeing and ensure that ti
 
 For audit and compliance purposes, managers are responsible for ensuring that their team members track and communicate all time off using [PTO by Deel](#pto-by-deel) as the single source of truth. Whether a team member is taking one day off, or 25+ calendar days off, all team members must use [PTO by Deel](#pto-by-deel).
 
-For audit and compliance purposes, managers have a responsibility to be aware of their direct reports' [statutory time off policies](/handbook/paid-time-off/#statutory-vacation-requirements), as applicable in countries in which GitLab is the employer. Some countries require employers to ensure team members are taking time off, so it is recommended that managers review their direct reports' OOO time frequently, using the reports described in the section below. Managers do not need to understand the ins and outs of the policies; just that team member in specific country receives certain amount of days/year. The specifics of these policies (accrual maximums, rollover, accrual rates, etc) will still be managed within the People Ops team. Please feel free to reach out to `leaves@gitlab.com` with any questions.
+For audit and compliance purposes, managers have a responsibility to be aware of their direct reports' [statutory time off policies](/handbook/paid-time-off/#statutory-vacation-requirements), as applicable in countries in which GitLab is the employer. Some countries require employers to ensure team members are taking time off, so it is recommended that managers review their direct reports' OOO time frequently, using the reports described in the section below. Managers do not need to understand the ins and outs of the policies; just that team member in specific country receives certain amount of days/year. The specifics of these policies (accrual maximums, rollover, accrual rates, etc) will still be managed within the People Ops team. Please feel free to reach out to `leaves@domain` with any questions.
 
 If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans. Reminders can be sent in Slack, shared on a team calendar, or noted during team meetings.
 
