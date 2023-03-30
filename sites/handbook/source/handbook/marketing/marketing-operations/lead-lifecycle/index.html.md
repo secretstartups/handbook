@@ -67,6 +67,8 @@ In addition to our statuses, there are substatus that are required for XDRs to u
 |Invalid email |
 |Spam |
 
+* **Note on Updating Bad Data Leads** If you receive a new email/phone number for a prospect that is in Bad Data, before you sequence them, please first update the data and then place the lead in Recycle. You can use the Recycle status reason of No Response. You will need to wait or force a sync into Outreach before you sequence to make sure the status has updated there, otherwise if the status is still in Bad Data, Outreach will end the sequence.
+
 ## Lifecycle Classifications
 
 We have 6 fields on the lead and contact that's purpose is to represent where the person is in their jouney with GitLab. 
