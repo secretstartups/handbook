@@ -69,7 +69,6 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Executive Stakeholder   | @timzallmann    | [Tim Zallmann](https://about.gitlab.com/company/team/#timzallmann)       | Senior Director of Engineering, Dev                             |
 | Facilitator             | @tmccaslin  | [Taylor McCaslin](https://about.gitlab.com/company/team/#tmccaslin)   | Group Manager, Product - Data Science                    |
 | Facilitator             | @wayne  | [Wayne Haber](https://about.gitlab.com/company/team/#wayne)   | Director of Engineering |
-| Functional Lead - AI Assisted      | @mray  | [Monmayuri Ray](https://gitlab.com/mray2020)   | Engineering Manager AI Assisted |
 | Functional Lead - UX             | @jmandell  | [Justin Mandell](https://about.gitlab.com/company/team/#jmandell)   | Product Design Manager: Configure, Monitor, Secure & Growth |
 | Functional Lead - Legal             | @m_taylor  | [Matthew Taylor](https://about.gitlab.com/company/team/#m_taylor)   | Sr. Director of Legal |
 | Pricing representative             | @seanhall | [Sean Hall](https://about.gitlab.com/company/team/#seanhall)   | Principal Pricing Manager, Product |
@@ -83,7 +82,6 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Legal representative             | @jbackerman | [Jesse Backerman](https://about.gitlab.com/company/team/#jbackerman)   | Managing Legal Counsel |
 | Vulnerability Research Representative | @idawson | [Isaac Dawson](https://about.gitlab.com/company/team/#idawson) | Staff Vulnerability Researcher |
 | Vulnerability Research Representative | @dbolkensteyn | [Dinesh Bolkensteyn](https://about.gitlab.com/company/team/#dbolkensteyn) | Sr. Vulnerability Researcher |
-| ML Engineering Representative | @achueshev | [Alexander Chueshev](https://about.gitlab.com/company/team/#achueshev) | Sr. Backend Engineer AI Assisted |
 | Third Party Security Risk Representative | @tdilbeck | [Ty Dilbeck](https://about.gitlab.com/company/team/#tdilbeck) | Security Risk Manager |
 | Governance and Field Security Representative | @jlongo_gitlab | [Joseph Longo](https://about.gitlab.com/company/team/#jlongo_gitlab) | Governance and Field Security Manager |
 | Security Automation Representative | @agroleau | [Alexander Groleau](https://about.gitlab.com/company/team/#agroleau) | Senior Security Engineering Manager (Automation) |
