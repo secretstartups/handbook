@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/maintainership/"
 | Property        | Value      |
 |-----------------|------------|
 | Date Created    | 2022-04-19 |
-| Target End Date | 2022-07-29 |
+| End Date        | 2023-02-02 |
 | Slack           | [#wg_maintainership](https://gitlab.slack.com/archives/C03CGL9DDL4) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1RuWhO2q7rsgSKrnSCf2xsOrp56SXBHe_z5XKDls5px8/edit#heading=h.epyavtxljcb2)  |
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-com/-/boards/4208478?label_name[]=WorkingGroup%3A%3AMaintainership) |
@@ -56,7 +56,7 @@ Exit criteria for this working group has been completed, however monthly follow 
 
 The maintainership process is described [on this page](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer).
 
-### Exit Criteria (99% completed)
+### Exit Criteria (100% completed)
 
 | #  | Start Date | Target Completion Date | Completed Date | DRI        | Criteria |
 | -- | ------     | ------ | ------         | ------     | ------   |
