@@ -8,7 +8,7 @@ The Director of Field Enablement is a seasoned global Sales, Partner, and Custom
 
 ### Job Grade
 
-The Director, Field Enablement is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Field Enablement is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -42,7 +42,7 @@ The Senior Director of Field Enablement is a seasoned global Sales, Partner, and
 
 ### Job Grade
 
-The Senior Director, Field Enablement is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Field Enablement is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -83,7 +83,7 @@ The Manager of Field Enablement Programs is a global Sales, Partner, and Custome
 
 ### Job Grade
 
-The Manager, Field Enablement Programs is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Field Enablement Programs is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

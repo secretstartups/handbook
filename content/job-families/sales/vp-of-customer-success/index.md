@@ -11,7 +11,7 @@ The Vice President of Customer Success needs an action mindset, are excited by t
 
 ## Job Grade
 
-The VP of Customer Success is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Customer Success is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 

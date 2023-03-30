@@ -12,7 +12,7 @@ entire DevOps lifecycle"
 
 Product Managers at GitLab have a unique opportunity to define the future of the
 entire [DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/). We
-are working on a [single application](/handbook/product/single-application) that
+are working on a [single application](https://about.gitlab.com/handbook/product/single-application) that
 allows developers to invent, create, and deploy modern applications.
 
 We want to facilitate [Concurrent DevOps](https://about.gitlab.com/topics/concurrent-devops/) so that teams can work simultaneously instead of sequentially, unleashing collaboration across organizations.
@@ -24,7 +24,7 @@ We are looking for talented product managers that are excited by the idea to
 contribute to our vision. We know there are a million things we can and want to
 implement in GitLab. Be the one making decisions.
 
-We recommend looking at our [about page](/company/) and at the [product handbook](https://about.gitlab.com/handbook/product/)
+We recommend looking at our [about page](https://about.gitlab.com/company/) and at the [product handbook](https://about.gitlab.com/handbook/product/)
 to get started.
 
 ## Core PM Responsibilities
@@ -35,7 +35,7 @@ As a product manager at GitLab, you are primarily responsible for:
 1. Defining requirements for a solution that is loved by our users and customers
 1. Ensuring our product is viable for GitLab
 
-In addition, as a PM, you also play a critical role in the regular development and operating cadence of GitLab. There are a few specific required tasks that the PMs are directly responsible for in [Core PM Tasks](/handbook/product/product-manager-responsibilities/#core-pm-tasks).
+In addition, as a PM, you also play a critical role in the regular development and operating cadence of GitLab. There are a few specific required tasks that the PMs are directly responsible for in [Core PM Tasks](https://about.gitlab.com/handbook/product/product-manager-responsibilities/#core-pm-tasks).
 
 ### How does a PM ensure they are solving a problem for our users?
 
@@ -48,24 +48,24 @@ In order for a PM to deeply understand the problems our users are facing and det
 - Communicate with users on issues and epics
 - Work with Pre-Sales and Post-Sales to connect with customers and prospects
 - Uncover insights through UX Research
-- Use other [sensing mechanisms](/handbook/product/product-processes/#sensing-mechanisms). It is through user interactions that we can begin to understand what problems our users are facing and identify how we could make product improvements to help eliminate the pain points. These user interactions can present themselves in many different ways.
+- Use other [sensing mechanisms](https://about.gitlab.com/handbook/product/product-processes/#sensing-mechanisms). It is through user interactions that we can begin to understand what problems our users are facing and identify how we could make product improvements to help eliminate the pain points. These user interactions can present themselves in many different ways.
 
 ### How does a PM ensure we build lovable products?
 
-Producing a lovable product requires more than a deep understanding of the problem. At GitLab, we build lovable products by adhering to our [values](/handbook/values/). PMs are expected to be the ambassador of the GitLab values by:
+Producing a lovable product requires more than a deep understanding of the problem. At GitLab, we build lovable products by adhering to our [values](https://about.gitlab.com/handbook/values/). PMs are expected to be the ambassador of the GitLab values by:
 
-- Focusing on [results](/handbook/values/#results).
-- Embracing [iteration](/handbook/values/#iteration). This is the secret to GitLab moving fast, as we get constant feedback and maintain forward momentum toward GitLab's huge [vision](/direction/#vision). PMs play a large role in unlocking iteration as a competency.
-- Being [transparent](/handbook/values/#transparency). This will enable both our development group to contribute and just as important, enable the wider GitLab community to contribute.
-- Being [efficient](/handbook/values/#efficiency). PMs should advocate for the boring solution, optimize for the right group, be the manager of one, always write things down, so they can help their groups also be efficient.
-- Being [collaborative](/handbook/values/#collaboration). PMs ultimately don't ship anything on their own. PMs need to be a great teammate so that the development group can produce great work.
-- Being someone who helps make GitLab a work place of [diversity, inclusion, and belonging](/handbook/values/#diversity-inclusion), so that everyone can come to GitLab and do their best work.
+- Focusing on [results](https://about.gitlab.com/handbook/values/#results).
+- Embracing [iteration](https://about.gitlab.com/handbook/values/#iteration). This is the secret to GitLab moving fast, as we get constant feedback and maintain forward momentum toward GitLab's huge [vision](/direction/#vision). PMs play a large role in unlocking iteration as a competency.
+- Being [transparent](https://about.gitlab.com/handbook/values/#transparency). This will enable both our development group to contribute and just as important, enable the wider GitLab community to contribute.
+- Being [efficient](https://about.gitlab.com/handbook/values/#efficiency). PMs should advocate for the boring solution, optimize for the right group, be the manager of one, always write things down, so they can help their groups also be efficient.
+- Being [collaborative](https://about.gitlab.com/handbook/values/#collaboration). PMs ultimately don't ship anything on their own. PMs need to be a great teammate so that the development group can produce great work.
+- Being someone who helps make GitLab a work place of [diversity, inclusion, and belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion), so that everyone can come to GitLab and do their best work.
 
 ### How does a PM ensure business viability for our product?
 
 It is not sufficient to just know the problems. It is also insufficient to have a solution to the problem that our customers love. PMs also need to ensure that the solution is viable for GitLab.
 
-- PMs participate in and follow the [product development flow](/handbook/product-development-flow/) so that their development group can consistently release features [every month](/releases/).
+- PMs participate in and follow the [product development flow](https://about.gitlab.com/handbook/product-development-flow/) so that their development group can consistently release features [every month](/releases/).
 - PMs [determine the tiers of features](https://about.gitlab.com/company/pricing/)
 - PMs ensure that issues that impact GitLab are appropriately [prioritized](https://about.gitlab.com/handbook/product/product-processes/#prioritization)
 - PMs interface with marketing and sales to promote and enable the sale of the product.
@@ -83,7 +83,7 @@ It is not sufficient to just know the problems. It is also insufficient to have 
 - Excellent communication skills at all levels, including Executive level communication
 - Use [Simple Language](https://about.gitlab.com/handbook/communication/#simple-language) and [MECEFU Terms](https://about.gitlab.com/handbook/communication/#mecefu-terms) to ensure clear and concise communication
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
-- You share our [values](/handbook/values/), and work in accordance with those values
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values
 - Have a growth mindset
 - Trust and empower your development group to deliver great products
 - Receptive to feedback or coaching
@@ -105,7 +105,7 @@ It is not sufficient to just know the problems. It is also insufficient to have 
 
 ### In role levels
 
-Read more about [levels](/handbook/hiring/vacancies/#definitions) at GitLab here. Within the Product Management Career Track we use the [Product Management Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) to determine requirements for PM roles.
+Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here. Within the Product Management Career Track we use the [Product Management Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) to determine requirements for PM roles.
 
 #### Intermediate Product Manager
 
@@ -113,7 +113,7 @@ Beyond the [base requirements](#base-pm-requirements), Product Manager requireme
 
 ##### Job Grade
 
-The Product Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Product Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Product Manager
 
@@ -121,11 +121,11 @@ Senior Product Managers are expected to be experts in their product domain and v
 
 ##### Job Grade
 
-The Senior Product Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Product Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Expectations
 
-Senior Product Managers are leaders at GitLab. In addition to doing the [core of the PM](/handbook/product/product-manager-responsibilities/) job well, we expect them to do the following:
+Senior Product Managers are leaders at GitLab. In addition to doing the [core of the PM](https://about.gitlab.com/handbook/product/product-manager-responsibilities/) job well, we expect them to do the following:
 
 **Drive the product in the right direction**
 - Consistently deliver outsized impact to their stage and category KPIs or other [GitLab KPIs](https://about.gitlab.com/company/kpis/#gitlab-kpis)
@@ -155,7 +155,7 @@ The Principal Product Manager role extends the Senior Product Manager role expec
 
 ##### Job Grade
 
-The Principal Product Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Product Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Expectations
 
@@ -175,11 +175,11 @@ The Senior Principal Product Manager role extends the Principal role expectation
 
 ##### Job Grade
 
-The Senior Principal Product Manager is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Principal Product Manager is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Expectations
 
-Senior Principal Product Managers are experts across multiple domains within GitLab. They are responsible for helping shape the future direction of the organization, assisting management to establish strategic roadmaps, and driving priorities to meet objectives. As a Director-level individual contributor position, Senior Principal Product Managers are expected to perform at a Grade 10 (Director) level according to our [GitLab Job Framework](https://about.gitlab.com/company/team/structure/#individual-contributor-job-framework) and exemplify GitLab's [leadership principles](/handbook/leadership/).  In addition, Senior Principal Product Managers are expected to:
+Senior Principal Product Managers are experts across multiple domains within GitLab. They are responsible for helping shape the future direction of the organization, assisting management to establish strategic roadmaps, and driving priorities to meet objectives. As a Director-level individual contributor position, Senior Principal Product Managers are expected to perform at a Grade 10 (Director) level according to our [GitLab Job Framework](https://about.gitlab.com/company/team/structure/#individual-contributor-job-framework) and exemplify GitLab's [leadership principles](https://about.gitlab.com/handbook/leadership/).  In addition, Senior Principal Product Managers are expected to:
 
 **Drive execution of results**
 - Senior Principal Product Managers are expected to drive outsized business results via their direct contributions. This can include shaping product prioritization, representing Product in GTM motions, unblocking R&D via a heavy focus on iteration or the generation and utilization of data to inform where we direct our R&D investment.
@@ -344,7 +344,7 @@ We're looking for product managers to help us work on the future of DevOps tools
 
 ### Package
 
-We're looking for product managers to cover the [Package stage](/handbook/product/categories/#package) of our DevOps lifycle. This candidate will work specifically on features related to the Docker container registry.
+We're looking for product managers to cover the [Package stage](https://about.gitlab.com/handbook/product/categories/#package) of our DevOps lifycle. This candidate will work specifically on features related to the Docker container registry.
 
 #### Requirements
 
@@ -363,7 +363,7 @@ We're looking for product managers to build the future of [Monitoring stage](htt
 
 ### Distribution
 
-We're looking for product managers to support our [Distribution group](/handbook/product/categories/#admin) and manage our installation, upgrade, and configuration process for our self-managed customers.
+We're looking for product managers to support our [Distribution group](https://about.gitlab.com/handbook/product/categories/#admin) and manage our installation, upgrade, and configuration process for our self-managed customers.
 
 #### Requirements
 
@@ -597,5 +597,5 @@ We're looking for a Product Manager to drive the roadmap for [MLOps](https://abo
 
 ## Relevant links
 
-- [Product Handbook](/handbook/product/)
-- [Engineering Workflow](/handbook/engineering/workflow/)
+- [Product Handbook](https://about.gitlab.com/handbook/product/)
+- [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)

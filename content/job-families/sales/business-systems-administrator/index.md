@@ -25,8 +25,8 @@ They work with a combined team of Business Systems Engineers, Data Analysts, and
 - Salesforce.com App Builder, Architect or other advanced certifications.
 - Experience working at a subscription based product company.
 - Experience working in an Agile team work environment.
-- You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/leadership/#management-group)
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
+- [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
 - Ability to use GitLab
 
 ### Responsibilities
@@ -40,15 +40,15 @@ They work with a combined team of Business Systems Engineers, Data Analysts, and
 
 ### Performance Indicators
 
-- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
-- [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
+- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [System Roll Out vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 {{% job-families/sales/performance %}}
 
 ## Levels
 
-Read more about [levels](/handbook/hiring/vacancies/#definitions) at GitLab here.
+Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
 
 ### Junior Business Systems Administrator
 
@@ -56,7 +56,7 @@ The Junior Business Systems Administrator role extends the Business Systems Admi
 
 #### Job Grade
 
-The Junior Business Systems Administrator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Business Systems Administrator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 
@@ -74,8 +74,8 @@ The Junior Business Systems Administrator is a [grade 5](/handbook/total-rewards
 - Salesforce.com App Builder, Architect or other advanced certifications.
 - Experience working at a subscription based product company.
 - Experience working in an Agile team work environment.
-- You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/leadership/#management-group)
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
+- [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
 - Ability to use GitLab
 
 ### Responsibilities
@@ -89,15 +89,15 @@ The Junior Business Systems Administrator is a [grade 5](/handbook/total-rewards
 
 ### Performance Indicators
 
-- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
-- [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
+- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [System Roll Out vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ### Intermediate Business Systems Administrator
 
 #### Job Grade
 
-The Business Systems Administrator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Systems Administrator is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 
@@ -115,8 +115,8 @@ The Business Systems Administrator is a [grade 6](/handbook/total-rewards/compen
 - Salesforce.com App Builder, Architect or other advanced certifications.
 - Experience working at a subscription based product company.
 - Experience working in an Agile team work environment.
-- You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/leadership/#management-group)
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
+- [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
 - Ability to use GitLab
 
 ### Responsibilities
@@ -130,9 +130,9 @@ The Business Systems Administrator is a [grade 6](/handbook/total-rewards/compen
 
 ### Performance Indicators
 
-- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
-- [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
+- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [System Roll Out vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ### Senior Business Systems Administrator
 
@@ -140,7 +140,7 @@ The Senior Business Systems Administrator role extends the Business Systems Admi
 
 #### Job Grade
 
-The Senior Business Systems Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Business Systems Administrator is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
 
@@ -153,8 +153,8 @@ The Senior Business Systems Administrator is a [grade 7](/handbook/total-rewards
 - Salesforce.com App Builder, Architect or other advanced certifications.
 - Experience working at a subscription based product company.
 - Experience working in an Agile team work environment.
-- You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/leadership/#management-group)
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
+- [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
 - Ability to use GitLab
 
 ### Responsibilities
@@ -168,9 +168,9 @@ The Senior Business Systems Administrator is a [grade 7](/handbook/total-rewards
 
 ### Performance Indicators
 
-- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
-- [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
+- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [System Roll Out vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ### Staff Business Systems Administrator
 
@@ -178,7 +178,7 @@ The Staff Business Systems Administrator role extends the Senior Business System
 
 #### Job Grade
 
-The Staff Business Systems Administrator is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Business Systems Administrator is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
 
@@ -189,8 +189,8 @@ The Staff Business Systems Administrator is a [grade 8](/handbook/total-rewards/
 - Excellent project management and stakeholder management skills.
 - Self-starter that thrives with autonomy.
 - Ability to mentor and grow Junior Business Systems Administrators or direct people management experience.
-- You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](/handbook/leadership/#management-group)
+- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
+- [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
 - Ability to use GitLab
 
 ### Responsibilities
@@ -203,9 +203,9 @@ The Staff Business Systems Administrator is a [grade 8](/handbook/total-rewards/
 
 ### Performance Indicators
 
-- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
-- [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
+- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [System Roll Out vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ## Manager, Sales Systems
 
@@ -218,7 +218,7 @@ The Staff Business Systems Administrator is a [grade 8](/handbook/total-rewards/
 - Delegate issues  to admins & engineering team / members, tackle the issue directly and building processes in Salesforce as needed.
 - Run the Sales Systems's agile development process, demonstrate ability to be a scrum master of scrum masters.
 - Be an advocate for Sales Systems work and release, collaborate with field communications on value delivered.
-- Build, lead, manage a team of Business Systems professionals and hold regular [1:1's](/handbook/leadership/1-1/) with all members of their team.
+- Build, lead, manage a team of Business Systems professionals and hold regular [1:1's](https://about.gitlab.com/handbook/leadership/1-1/) with all members of their team.
 - Help drive business system strategy and direction across Sales, Marketing, Quote to Cash as a cross-functional team.
 - Lead foundational projects and optimize current business processes (e.g. CPQ/QTC) in parternship with operations teams to scale for growth and efficiency.
 - Facilitate successful implementation of new technology and processes, fostering an organization of continuous business process improvement.
@@ -242,9 +242,9 @@ The Staff Business Systems Administrator is a [grade 8](/handbook/total-rewards/
 
 ### Performance Indicators
 
-- [Net ARR vs. plan > 1](/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
-- [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
-- [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
+- [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
+- [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
+- [System Roll Out vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
 ## Career Ladder
 
@@ -253,11 +253,11 @@ The Business Systems Adminstrator Job Family would move into the [Sales Systems 
 ### Hiring Process
 
 Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process.
-To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

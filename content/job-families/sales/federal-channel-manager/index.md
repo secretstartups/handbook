@@ -7,7 +7,7 @@ As a Public Sector Channel Manager your primary goal will be to build pipeline a
 
 ### Job Grade
 
-The Public Sector Channel Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Public Sector Channel Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

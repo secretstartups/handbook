@@ -9,7 +9,7 @@ GitLab's Vice President, Global Channels, is an experienced leader who is at the
 
 ## Job Grade
 
-The VP of Global Channels is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Global Channels is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
