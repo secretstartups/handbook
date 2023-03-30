@@ -92,6 +92,7 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 
 | Marketing Resources    |  Description       |
 | :---- | :---- |
+|  [Lead Lifecycle Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/lead-lifecycle/)| *Handbook page that details the different lead statuses and how we manage our lead lifecycle*|
 |  [Marketing Resource Links](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing)| *GitLab whitepapers, ebooks, webcasts, analyst reports, and more for Sales & Sales Development education*|
 |  [Marketing Events + Gated Content Assets + Webcasts](https://drive.google.com/drive/search?q=%22Events%20Gated%20Content%20Assets%22%20owner:jgragnola%40gitlab.com) | *BDRs and SDRs can use this sheet to refer better understand the marketing assets that are being consumed by prospects. To view the ungated content, click on the link in the Pathfactory or PDF/YouTube columns. Note: Sharing non-gated assets requires manager approval* |
 |  [GitLab Buyer Personas](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/)| *Resource to help GitLab sellers better understand our buyers and audiences*
