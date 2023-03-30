@@ -1,7 +1,7 @@
 ---
 title: "Expert"
 cascade:
-  type: docs
+  type: job-families
 ---
 
 See [Team Structure](https://about.gitlab.com/company/team/structure/#expert).

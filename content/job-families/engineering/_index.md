@@ -1,5 +1,5 @@
 ---
 title: "Engineering Roles"
 cascade:
-  type: docs
+  type: job-families
 ---

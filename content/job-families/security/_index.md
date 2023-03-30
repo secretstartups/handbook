@@ -1,5 +1,5 @@
 ---
 title: "Security Roles"
 cascade:
-  type: docs
+  type: job-families
 ---

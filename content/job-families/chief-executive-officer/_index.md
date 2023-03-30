@@ -1,7 +1,7 @@
 ---
 title: "Chief Executive Officer"
 cascade:
-  type: docs
+  type: job-families
 ---
 
 The CEO reports to the Board of Directors of GitLab, Inc.

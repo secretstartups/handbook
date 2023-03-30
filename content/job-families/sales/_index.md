@@ -1,6 +1,6 @@
 ---
 title: "Sales Roles"
 cascade:
-  type: docs
+  type: job-families
 ---
 
