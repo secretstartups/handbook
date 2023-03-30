@@ -254,6 +254,8 @@ What is GitLab's ECCN?
 
 You can find our ECCN in our [Trade Compliance handbook](https://about.gitlab.com/handbook/legal/trade-compliance/#how-do-trade-control-laws-apply-to-gitlab-software).
 
+</details>
+
 
 ## Post-Sale
 
