@@ -33,7 +33,7 @@ Here is an example markdown template for requesting this addition from your team
 ```markdown
 As a way of tracking our PTO in a shared calendar, the steps outlined below will walk you through how to configure your PTO by Deel to link to this calendar.
 
-1. Under **Slack** -> **PTO by Deel** -> **Home**, click on the dropdown **Settings** > and select `Calendar Sync`
+1. Under **Slack** -> **PTO by Deel** -> **Home**, click on the dropdown under the `Create OOO` and `Chat with Support` buttons. Under the **Settings** heading select `Calendar Sync`.
 1. Click on `Add Calendar` and add your teams shared **Calendar ID** `CALENDAR ID HERE`.
 1. :tada: Give yourself a pat on the back as you are now successfully synced to your teams shared calendar!
 1. When you have completed these tasks, please mark as done below ✅ and unassign yourself.
