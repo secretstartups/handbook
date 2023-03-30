@@ -671,6 +671,14 @@ Lead/contact statuses allow anyone in Salesforce to understand where a lead is a
 
 Whether it be from inbound follow up or outbound prospecting, you’re going to be engaging with prospects who are directly involved in a project or team related to the potential purchase of GitLab within a buying group, either as an evaluator, decision-maker, technical buyer, or influencer. During those interactions, you’ll be looking to gather information related to the SAO qualification criteria.
 
+### Using Chatter in Salesforce
+
+Any changes to lead and contact ownership that you are unable to make yourself are made by your Team Lead or Managers. Please Chatter and tag the relevant people in your direct team. Do not Chatter Sales Support.
+
+If an account you are working is in incorrect AE/SAL ownership this very is likely due to incorrect account data. Changes to account addresses, employees or parent/child association are made by Sales Dev Directors Brian Tabbert (AMER) and Elsje Smart (APAC/EMEA) or Mona Elliott. Please tag the relevant person in Chatter. Do not Chatter Sales Support. Currently we can't change PubSec type or Parent hierarchy.
+
+If an opportunity has incorrect data once it has moved into Stage 1 - Discovery, please Chatter your manager about the required changes, they will then Chatter one of Sales Dev Operations (Ramona, Panos, Ed) once final changes are agreed between you. All the rest of Sales Dev are unable to edit opportunities once they are in Stage 1, so please try and ensure you have all the information on the opportunity _before_ you ask the AE/SAL to accept it.
+
 
 ### Qualification Criteria and SAOs
 
@@ -694,7 +702,9 @@ When you have entered the qualification criteria onto the opportunity, and have 
 At this point, the opportunity will be in your ownership but you can not have yourself listed in the Business Development Representative or Sales Development Representative field. There is a validation rule that will not allow the opp owner and the SDR/BDR representative field to be the same member.
 
 #### When will it be credited as an SAO?
-After the SAE/AE meets with the prospect to verify and supplement qualification criteria, they will move the opportunity into Stage 1. The AE/SAE is expected to move the opportunity into the correct stage within 48 hours of the meeting reflected in the "Next Step" date field.
+After the AE/SAL meets with the prospect to verify and supplement qualification criteria, they will move the opportunity into Stage 1 Discovery. The AE/SAL is expected to move the opportunity into the correct stage within 48 hours of the meeting reflected in the "Next Step" date field.
+
+All of Sales Dev are unable to edit opportunities once they are in Stage 1, so please ensure you have all the information on the opportunity before you ask the AE/SAL to accept it.
 
 If the opportunity is for a new group of users in a Large account where sales is working on a large "central" opportunity, then your opportunity should be merged to that opportunity for you to get credit for the users you have brought to the deal. [See under Stage 8](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) in the Sales Go To Market Handbook
 
