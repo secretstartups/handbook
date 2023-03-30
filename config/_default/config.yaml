@@ -51,6 +51,10 @@ menu:
     #   name: Project
     #   url: https://gitlab.com/internal-handbook/internal-handbook.gitlab.io
     #   pre: '<i class="fa fa-code"></i>'
+    - weight: 20
+      name: GitLab
+      url: https://about.gitlab.com/
+      pre: '<i class="fab fa-gitlab"></i>'
     - weight: 30
       name: Current Public Handbook
       url: https://about.gitlab.com/handbook/
