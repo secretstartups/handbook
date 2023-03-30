@@ -109,8 +109,6 @@ Engineering Managers have the following job-family performance indicators. Perfo
 
 {{< section-inline-toc >}}
 
-<%= job_families('engineering/development/backend') %>
-
 Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
 
 ### Intern, Backend Engineer
