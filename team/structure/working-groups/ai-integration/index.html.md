@@ -89,3 +89,4 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Security Automation Representative | @agroleau | [Alexander Groleau](https://about.gitlab.com/company/team/#agroleau) | Senior Security Engineering Manager (Automation) |
 | Security Automation Representative | @imand3r | [Ian Anderson](https://about.gitlab.com/company/team/#imand3r) | Staff Security Engineer (Automation) |
 | Solutions Architecture Representative / Rapid Prototyping Team Member | @bartzhang | [Bart Zhang](https://about.gitlab.com/company/team/#bartzhang) | Channel Solutions Architect |
+| Product Marketing Representative| @laurenaalves | [Laurena Alves](https://about.gitlab.com/company/team/#laurenaalves) | Senior Product Marketing Manager |
