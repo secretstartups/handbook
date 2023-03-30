@@ -49,7 +49,7 @@ The Channel Account Manager (CAM) assigned to the Deal Registration (DR) has rev
 </details>
 
 
-## Sales process
+## Sales Process
 ### Partner Discounts and Incentives
 
 <details>
