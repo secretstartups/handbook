@@ -1,5 +1,5 @@
 ---
 title: "Product Roles"
 cascade:
-  type: docs
+  type: job-families
 ---

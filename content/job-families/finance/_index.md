@@ -1,5 +1,5 @@
 ---
 title: "Finance Roles"
 cascade:
-  type: docs
+  type: job-families
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alliances Roles"
 cascade:
-  type: docs
+  type: job-families
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marketing Roles"
 cascade:
-  type: docs
+  type: job-families
 ---

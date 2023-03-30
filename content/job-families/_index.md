@@ -1,7 +1,7 @@
 ---
 title: Job Families
 cascade:
-  type: docs
+  type: job-families
 menu:
   main:
     name: Job Families
