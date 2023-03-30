@@ -19,73 +19,11 @@ This page covers the factors to consider for customer health, guidelines for sel
 
 ## CSM Responsibilities
 
-The CSM is responsible for coordinating with all relevant parties to develop a plan to address the risks. Typically, this will involve the account team and communication group ([Communication Guidelines](/handbook/customer-success/csm/health-score-triage/#communication-guidelines)), as well as other relevant stakeholders such as Product Managers, marketing, executive, or engineering team members to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for logging regular updates. When the risks have been addressed bringing the customer to a healthy / green status, the account team can agree to move the account out of triage.
+The CSM is responsible for coordinating with all relevant parties to develop a plan to address account risks. Typically, this will involve the account team and communication group ([Communication Guidelines](/handbook/customer-success/csm/health-score-triage/#communication-guidelines)), as well as other relevant stakeholders such as Product Managers, marketing, executive, or engineering team members to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for logging regular updates. When the risks have been addressed bringing the customer to a healthy / green status, the account team can agree to move the account out of triage.
 
-### Gainsight Responsibilities
+## Tracking Customer Health
 
-CSMs are responsible for keeping Gainsight up to date regarding all of their renewals.
-
-**Timeline Entries**
-- For at-risk renewals occurring this fiscal quarter and next, update Timeline with an At-Risk Update on a **weekly** basis with progress towards risk mitigation over the past week and plans for the upcoming week
-- For at-risk renewals occurring beyond next fiscal quarter, update Timeline with an At-Risk Update on a **monthly** basis with progress towards risk mitigation over the past month and plans for the upcoming month
-
-For those customers not at risk, CSMs should be ensuring they still update CSM Sentiment on at least a quarterly basis to avoid the [score going stale](/handbook/customer-success/csm/health-score-triage/#clearing-stale-health-measures).
-
-**At-Risk CTAs**
-
-CSMs are responsible for managing the CTA for all at-risk accounts including:
-- Create an at-risk CTA as soon as the risk is identified, using the appropriate playbook
-   - `At-Risk` is the generic playbook that is applicable for most situations, but CSMs can select more specific playbooks relevant to the risk type
-- In the CTA, update the `Risk Reason`
-   - By default, the CTA will have `Other Risk Reason`; this needs to be changed to the appropriate reason why the customer is at risk, for example, do they not find value in our product, have they lost budget via layoffs, are we not engaged with them, etc.
-- In the CTA, update the `Risk Impact`
-   - This field does not appear when opening the CTA, and CSMs need to click back into the CTA details after creation to update it
-- In the CTA, update `Stage Name` and `Competitor` fields if applicable
-
-### Mitigation Strategies
-
-For CSM guidance on mitigating risk, please see the [Risk Types, Discovery & Mitigation Strategies](/handbook/customer-success/csm/risk-mitigation) page.
-
-## Customer Health Categories and Risks
-
-Health primarily considers the business impact to GitLab by evaluating the delivery of value and outcomes to customers. The following guideline will provide Customer Success Managers (CSMs) guidance to choose the right health assessment for their customer account. The following are the categories to assess and associated risks with each.
-
-1. **Product adoption and utilization**: There is a delayed, low, or materially reduced usage (i.e., drop in usage) as measured by license usage, features / use cases, product version (i.e., not adopting current versions - self-managed only), and/or GitLab stages. Value and outcome delivery to the customer misses expectations as defined by the customer. This may also be impacted by way the customer is using the product (i.e., processes, operations and/or policies) where the customer may not be leveraging GitLab best practices to maximize the value of the solution.
-1. **Product experience**: Customer has enhancements or defect fixes that are necessary for a customer and have not been delivered. The risk is determined according to the criticality of the request, severity of the issues, and/or number of enhancements and defects. Missed expectations for feature release can also impact product experience.
-1. **Customer engagement**: Customer contact(s) are not responsive, miss meetings and/or unwilling to engage in cadence calls or other engagements like [EBRs](/handbook/customer-success/csm/ebr/). This could indirectly mean the customer does not see value in the solution or the solution has been deprioritized.
-1. **Executive sponsor or champion**: Sponsor or champion leaves the company, moves to a different part of the organization, and/or has reduced scope of influence.
-1. **Customer sentiment**: The customer has expressed concerns and/or dissatisfaction with their experiences with GitLab (i.e., sales, professional services, support, product, etc.) through direct conversations, surveys (e.g., NPS), social media or other communication channels.
-1. **Competitive threats**: Prior to or during the renewal process it is learned that competitors are in play and the result could be a downgrade or churn as the customer is considering alternatives.
-1. **Other organizational factors**: The customer's business performance is materially impacted and declining. The company is acquired, merging with another company, divested or another structural change to customer's business.
-
-## Health Assessment Guidelines
-
-The items below serve as *guidelines* for the CSM to assess and record customer health and should consider where the customer is their lifecycle journey. Account health feeds into [open renewal opportunities](/handbook/customer-success/csm/renewals/#tracking-renewal-opportunity-health-and-risks).
-
-Understanding how Gainsight calculates a measure score to be Red, Yellow, or Green: 
-
-Gainsight scoring framework:
-- Green: 75-100 points
-- Yellow: 50-74 points
-- Red: 0-49 points
-
-[Link to Gainsight Calculation of Measure Group Scores and Overall Score](https://support.gainsight.com/Gainsight_NXT/05Scorecards/02Admin_Guides/Calculation_of_Group_Scores_and_Overall_Scores)
-
-Calculation: ((Score * Weight) + (Score * Weight)... / (Max Potential Score * Weight)
-
-To view the score, hover over the colored circle.
-The weight is shown in the upper right corner of the metric. 
-
-### Reporting and Viewing Health
-
-Use the `Customer Health` (CSM Portfolio Dashboard) report to view the health of every measure for your customers in one single view.
-
-To view Timeline entires where the CSM Sentiment was updated:
-
-1. Go to Global Timeline
-1. Filter by Sentiment = Green, Yellow, or Red
-1. Apply any other specific filters (CSM Name, Timeline date, etc)
-
+CSMs can use Red, Yellow, and Green to reflect their sentiment of a customer's health. Below is an explanation about how to think about a customer's health.
 
 ### Green
 
@@ -112,7 +50,7 @@ Potential risk or significant lack of information leading to uncertainty. Indica
 - Poor experiences with Support, Professional Services or another part of GitLab
 - Working with a single contact at a company (single-threaded).
 
-There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the CSM decides that corrective actions and follow up from team members outside of the CSM group is required the CSM must follow the [At-Risk Customer Process](/handbook/customer-success/csm/renewals/#at-risk-process) and flag the account as Yellow "Requires Triage".
+There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the CSM decides that corrective actions and follow up from team members outside of the CSM group is required the CSM must create an [At Risk Timeline Entry](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) and flag the account as Yellow "Requires Triage".
 
 ### Red
 
@@ -139,17 +77,114 @@ Very rarely, a customer reaches a point at which it is accepted by the account t
 
 In order for a customer to move to the `will churn` stage, the following must be completed:
 
-- [ ] All options discussed in the triage issue and in at-risk reviews have been exhausted
-- [ ] CSM discusses it with their manager and gets agreement on moving to `will churn`
-- [ ] CSM opens a `Will Churn` issue ([`Will Churn` issue template](https://gitlab.com/gitlab-com/customer-success/account-triage/-/issues/new?issuable_template=Will%20Churn%20-%20ENT))
-- [ ] CSM links from the triage issue to the newly created `Will Churn` issue and closes the triage issue
-- [ ] Listed personas in the `Will Churn` issue provide feedback and approval
-- [ ] SAE/AE marks the opportunity as `Will Churn`
-- [ ] CSM updates the Lifecycle Stage in Gainsight C360 > Attributes > Lifecycle Stage to `Will Churn`
+1. All options discussed in the triage issue and in at-risk reviews have been exhausted
+1. CSM discusses it with their manager and gets agreement on moving to `will churn`
+1. CSM opens a `Will Churn` issue ([`Will Churn` issue template](https://gitlab.com/gitlab-com/customer-success/account-triage/-/issues/new?issuable_template=Will%20Churn%20-%20ENT))
+1. CSM links from the triage issue to the newly created `Will Churn` issue and closes the triage issue
+1. Listed personas in the `Will Churn` issue provide feedback and approval
+1. SAE/AE marks the opportunity as `Will Churn`
+1.  CSM updates the Lifecycle Stage in Gainsight C360 > Attributes > Lifecycle Stage to `Will Churn`
 
 In line with GitLab's approach to blameless root cause analysis in both [Professional Services](/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html) and [Engineering](/handbook/engineering/root-cause-analysis/), we follow a similar methodology in the form of a retrospective in the `Will Churn` issue to identify learnings from what went well and what didn't, what we could have done better to avoid this churn, and how we can change our approach in order to avoid future churn. This information is important and required to be included the issue in order to provide context to leadership prior to them approving. This retrospective and lessons learned should also be discussed in the next 1:1 between the CSM and their manager, as well as potentially lead to a handbook or process update shared with the broader team.
 
-## Communication Guidelines
+## Reporting and Viewing Customer Health
+
+Use the `Customer Health` (CSM Portfolio Dashboard) report to view the health of every measure for your customers in one single view.
+
+To view Timeline entires where the CSM Sentiment was updated:
+
+1. Go to Global Timeline
+1. Filter by Sentiment = Green, Yellow, or Red
+1. Apply any other specific filters (CSM Name, Timeline date, etc)
+
+## Gainsight Responsibilities
+
+CSMs are responsible for keeping Gainsight up to date regarding all of their account risks.
+
+### At Risk Timeline Entries
+
+For any account that is Red or Yellow, the following steps for an At Risk timeline update is required: 
+
+1. In the account timeline, log an `At-Risk Update`, marking CSM Sentiment as Red (or Yellow) and any context for the at-risk account
+1. Gainsight will auto create the `At-Risk` CTA (in Cockpit) within 24h
+1. CSM updates CTA [Risk Impact](/handbook/customer-success/csm/health-score-triage/#risk-impact-definitions) and [Risk Reason](/handbook/customer-success/csm/health-score-triage/#risk-reason-definitions) dropdown fields
+   1. In the CTA, update `Stage Name` and `Competitor` fields if applicable
+1. CSM logs new `At-Risk Update` based on [Frequency of At Risk Timeline Entries](/handbook/customer-success/csm/health-score-triage/#frequency-of-at-risk-timeline-entries)
+1. At-Risk Conclusion:
+   1. Customer is won back:
+      1. Log Account-level Timeline `At-Risk Update` type for CSM Sentiment as Green and final notes
+      1. Change customer Lifecycle Stage to Adopting
+      1. Close out CTA with success criteria (Closed-Won, win reasons)
+   1. Customer is lost:
+      1. Log Account-level Timeline `At-Risk Update` type with final update
+      1. Change customer Lifecycle Stage to: Will Churn for a churning customer and Adopting for downgrade customer
+      1. Close out CTA with success criteria (Closed-Lost, loss reasons)
+
+**Tips**:
+
+- **Keep the CTA open until fully resolved**. Resolved can mean the customer is won back, contraction has happened, or they will churn
+- Use `closed-won` when we saved the customer AND had a flat or positive net ARR opportunity
+- Use `closed-lost` when we churned the customer or had contraction
+
+This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
+
+### Frequency of At Risk Timeline Entries
+
+1. If customer renewal is this fiscal quarter or next: 
+   1. Weekly [At-Risk Timeline](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) updates
+      - Entry should include progress towards risk mitigation over the past week and plans for the upcoming week.
+1. If customer renewal is after next fiscal quarter: 
+   1. Monthly [At-Risk Timeline](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) updates
+      - Entry should include progress towards risk mitigation over the past month and plans for the upcoming month.
+
+![GitLab At-Risk Customer Process](images/CSM_AtRisk_Customer_Process.jpeg)
+
+### When to open an Account Escalation
+
+If a CSM has marked an account as [Red](/handbook/customer-success/csm/health-score-triage/#red) and further assistance from Product, Support or Managers+ is needed, open an [Account Escalation](/handbook/customer-success/csm/escalations/).
+
+### Risk impact definitions
+
+1. **Customer Churn** - fully churn the account
+1. **Tier Downgrade** - move down tiers
+1. **Seat Churn** - reduce license seat count
+1. **Customer Sentiment** (Impact Unknown) - customer is unhappy and the impact isn’t quantified
+1. **Competitor** - any competitive intelligence we might be up against
+1. **Stage Name** - stage impact, for example, product deficiencies, direction, or needs.
+
+### Risk reason definitions
+
+#### Lack of adoption
+
+Customer never adopted the product or specific features so they did not get value. This can be because of organizational silos or lack of internal resources. If they didn't adopt because they didn't see / experience value, it should be Product Gap
+
+#### Product Value / Gaps
+
+Prospect or customer used the product and features (i.e., trial, POV, or purchased product), but did not see the value. The product did not meet requirements of the customer. This can also be a prospect where they did not experience perceived value
+
+#### Product Quality / Availability
+
+Prospect or customer used the product and features (i.e., trial, POV, or purchased product) though they did not meet the prospect or customer's needs or expectations. This can be defects, poor performance, or uptime/availability issues. Includes both self-managed and SaaS products
+
+#### Lack of Engagement / Sponsor
+
+We lost or were never able to get engagement with the prospect or customer team. The champion / sponsor left, changed responsibility, or became unresponsive. We were never able to re-establish connection with a new sponsor or champion
+
+#### Loss of Budget
+
+The prospect or customer lost budget due to business contraction, change of priorities, reduction of employees, or other. This was not a competitive loss.
+
+#### Corporate Decision
+
+Due to management decision or policy, the prospect or customer chose a different product but not because of product gaps, adoption, etc. This would be a top-down decision (e.g., ELA, decision to commit to a single provider)
+* **Other** - other company issues that contribute to a blocker for the renewal
+
+### Mitigation Strategies
+
+For CSM guidance on mitigating risk, please see the [Risk Types, Discovery & Mitigation Strategies](/handbook/customer-success/csm/risk-mitigation) page.
+
+
+## At Risk Communication Guidelines
 
 The following are guidelines on who to notify when an account is yellow or red. Please make sure the following people are notified with the respective customer health ratings.
 
@@ -165,7 +200,7 @@ The following are guidelines on who to notify when an account is yellow or red. 
 - Area Sales Manager and Regional Director
 - Vice President of Customer Success
 
-## Gainsight
+## Gainsight Scoring Definitions
 
 ### CSM Sentiment
 
