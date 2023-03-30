@@ -676,11 +676,11 @@ Whether it be from inbound follow up or outbound prospecting, you’re going to 
 
 Qualification criteria is a minimum set of characteristics that a lead must have in order to be passed to sales and become a Sales Accepted Opportunity (SAO), these are split into [Inbound and Outbound Criteria.](/handbook/sales/field-operations/gtm-resources/#opportunities)
 
-As an SDR or BDR, you will work to connect with inbound/outbound leads that you get a response from to obtain the applicable information required. This information is tracked on the qualification criteria on the LEAD, CONTACT, and OPPORTUNITY objects in Salesforce. In order to obtain an SAO, you will need to have the 'required' information filled out on the opportunity including documented 2-way communication on the Contacts in the Opportunity.
+As an SDR or BDR, you will work to connect with inbound/outbound leads that you get a response from to obtain the applicable information required. This information is tracked on the qualification criteria on the LEAD, CONTACT, and OPPORTUNITY objects in Salesforce. In order to obtain an SAO, you will need to have the 'required' information filled out on the opportunity including documented 2-way communication on the Contacts in the Opportunity. Professional Services opportunities are not credited to sales development, these need to be passed straight to the account AEs for them to qualify. 
 
 #### When do I create an Opportunity?
 
-    1. **You have scheduled time with AE/SAE to speak with the prospect.** <br>
+1. **You have scheduled time with AE/SAE to speak with the prospect.** <br>
 If you are scheduling time with an AE/SAE to speak to the prospect based on a qualifying conversation you have had with the prospect, an opportunity needs to be created and placed in stage 0. On the opportunity, all "required qualification" fields need to be filled in.
 
 2. **You have obtained a commitment/willigness from a prospect to discuss further.** <br>
