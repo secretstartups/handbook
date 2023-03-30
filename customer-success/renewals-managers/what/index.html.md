@@ -143,6 +143,20 @@ These tactics/motions may not always be approved or appropriate for each risk sc
     11. Board member contact
     12. Develop bespoke ROI deck for customer internal justifications
 
+## Kicking off the risk mitigation (end-to-end summary)
+
+1. **Allocate the current risk** to the opportunity (pre-quote using the `Amount` field, post-quote using the quote)
+2. **Categorize the risk** using the `Risk Renewal Category` and `Renewal Forecast Health` field (always red if the opp is at risk) 
+3. **Describe the impact of a successful intervention** in the `Renewal Swing ARR` field
+4. **Articulate the interevention being actioned/requested** in the `Manager Notes` field using the following syntax - 
+    - A. [No action required] - start the notes with this if there is no ask
+    - B. [Risk intervention ask/idea] - begin the manager notes with a short phrase describing the intervention tactic, with a *short* summary/context
+4. **Review and prioritize interventions** in your scheduled forecasting calls with the management team. 
+5. **Kick off the intervention in chatter** using this example format:
+    - [Risk Intervention] (Executive involvement - EXEC_NAME email, in the next 2 weeks) Hi EXEC_NAME - our customer is a huge fan of your work and I think an email from you would be impactful in mitigating the risk we are seeing on this opp. Here's a _doc_ with language and context.  @EXEC_NAME, CC: @MANAGER
+    - [Risk Intervention] (CSM/E Workshop - premium feature demo, next week) Hi CSM_Name, if we can demonstrate the efficacy of premium features for this customer we have a chance to save this opp. I've kicked off a triage issue to manage the workshop - here's the _link_. @CSM_Name CC: @MANAGER 
+
+
 ## Quantifying the risk to an opportunity
 
 The following detail different opportunities and our standard appraoch to quantifying/labeling the risk and swing fields.
@@ -191,7 +205,7 @@ Note that if there is no risk on a given Renewal, the worst-case scenario and be
 # Account team collaboration
 Renewals Managers work closely with Customer Success Managers/Engineers and Account Executives. After a customer purchases a subscription with GitLab - they can expect to be engaged by these persona in the following ways:
 
-- **Account Executive**: Manages the overarching customer relationship with GitLab on the account level. Primary focus is on how to grow the customers relationship with GitLab. Account Executives are sales people. 
-- **Customer Success Manager/Engineer**: Dependent upon our segmentation, a CSM or CSE could be assigned to an account or territory. Their primary focus is adoption, outcomes and advocacy. CSM/Es are not sales people - they are specialists in Customer Success.
+- **Account Executive**: Manages the overarching customer relationship with GitLab on the account level. Primary focus is on how to grow the customers relationship with GitLab. Account Executives are sales people. Best practice - CC the CSM/AE on the account when in communciation with customer. 
+- **Customer Success Manager/Engineer**: Dependent upon our segmentation, a CSM or CSE could be assigned to an account or territory. Their primary focus is adoption, outcomes and advocacy. CSM/Es are not sales people - they are specialists in Customer Success. Best practice - CC the CSM/AE on the account when in communciation with customer. 
 - **Renewals Manager**: Manages a customers existing renewable business. Primary focus is on retention, with a secondary focus on growth. Renewals managers are a hybrid role - managing the renewal "sale" and the renewal process. They sit at the intersection of customer success and sales. 
 
