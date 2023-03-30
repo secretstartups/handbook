@@ -51,15 +51,24 @@ our current methodologies are. For the sake of transparency and to enable self-s
 the mechanisms and details of how and where we generate components of our methodologies are 
 included throughout the page.
 
-## The Current Methology ('metric/version check - subscription based estimation')
+### The current methodology ('metric/version check - subscription based estimation')
 
 Total Ping with Estimate = (Recorded Ping)/(Percent Reporting)
 
-To estimate the missing proportion of Ping metric value we currently calculate the percentage of reporting installations which is measured as: 
+To estimate the missing proportion of Ping metric value we currently calculate the percentage 
+of reporting installations which is measured as: 
 
 Percent Reporting = (Number of Ping Reporting with Correct Version)/(Total number of Subscriptions)
 
-Below is a table with fake data to represent a theoretical collection of Ping data to illustrate how it is estimated. Note that the "Actual Usage" is not data we really have but meant to illustrate a theoretical target and show which types of installations we would have Ping data for. There are 2 rows I'd like to draw immediate attention to. The first row shows SaaS data and it will not be included in the estimation as we have complete reporting on it and so it is not required. The final row shows the installations that have opted-out of Ping, are self-managed and do not have a subscription. These are intended to show the unknown number of potential users and activity that exists in this group as we have no way of knowing their activity. 
+Below is a table with fake data to represent a theoretical collection of Ping data to illustrate 
+how it is estimated. Note that the "Actual Usage" is not data we really have but meant to 
+illustrate a theoretical target and show which types of installations we would have Ping data 
+for. There are two rows I would like to draw immediate attention to. The first row shows SaaS 
+data and it will not be included in the estimation as we have complete reporting on it and 
+so it is not required. The final row shows the installations that have opted-out of Ping, 
+are self-managed, and do not have a subscription. These are intended to show the unknown number 
+of potential users and activity that exists in this group as we have no way of knowing their 
+activity. 
 
 
 | Installation Type               | Number of Installations | Subscription? | Ping Opt-In | Version Instrumented | Metric Opted In | Actual Usage | Reported Value |
@@ -72,16 +81,37 @@ Below is a table with fake data to represent a theoretical collection of Ping da
 | No subscription, Ping Reporting | 20                      | No            | Yes         | Yes                  | Yes             | 30           | 20             |
 | No Ping, No data                | ?                       | No            | No          | Yes                  | No              | ?            | NULL           |
 
-If we add up the subscriptions as installations on the correct version and opted-in for this Ping metric we see 80 are reporting. Adding up the total subscriptions we get 134. This gives us a percentage reporting estimate of 59.7%. 
+If we add up the subscriptions as installations on the correct version and opted-in for this 
+Ping metric we see 80 are reporting. Adding up the total subscriptions we get 134. This gives 
+us a percentage reporting estimate of 59.7%. 
 
-To estimate the total metric value for this we take the reported value of 100 and divide it by 59.7% for an estimated total of 168.
+To estimate the total metric value for this we take the reported value of 100 and divide it by 
+59.7% for an estimated total of 168.
 
-## Visual Representation of Ping Estimation Example
+### Visual representation of Ping estimation example
 <figure>
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vReo9HIBYJJle_AtsnoESr1I7FO7fNMqlYv-uJN6L19Bxx1v6-sMCrY5FoRLZxkbqCzfCcDcYZhxgyG/pub?w=964&amp;h=607">
 </figure>
 
-### Technical details
+## Available methodologies
+
+Several different methodologies are available in the reporting models (ex: [`rpt_ping_metric_totals_w_estimates_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly)). 
+We use the field `estimation_grain` to differentiate the methodologies.
+
+Right now, there are 2 components to each `estimation_grain`, a condition and a measure. 
+The "condition" relates to the actual reporting from Service Ping, the "measure" is the value 
+we will use to generate the estimate.
+
+| Condition | Measure | `estimation_grain` |
+| --- | --- | --- |
+| On version with metric | Subscription count | `metric/version check - subscription based estimation`* |
+| On version with metric | Seat count | `metric/version check - seat based estimation` |
+| Reported metric | Subscription count | `reported metric - subscription based estimation` |
+| Reported metric | Seat count | `reported metric - seat based estimation` |
+
+_*This is the original methodology used in the legacy models._
+
+### Knowns and unknowns
 
 **What we know**
 
@@ -112,31 +142,13 @@ To estimate the total metric value for this we take the reported value of 100 an
 
 </details>
 
-**What we don't know**
+**What we do not know**
 
 * Number of active free installations
   * If a free installation does not send us Service Ping, we have no way of knowing it exists
 
 Since we do not have visibility into the entire scope of the free Self-Managed universe, we need 
 to rely on the behavior of paid installations to generate estimates.
-
-## Current methodologies
-
-Several different methodologies are available in the reporting models (ex: [`rpt_ping_metric_totals_w_estimates_monthly`](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly)). 
-We use the field `estimation_grain` to differentiate the methodologies.
-
-Right now, there are 2 components to each `estimation_grain`, a condition and a measure. 
-The "condition" relates to the actual reporting from Service Ping, the "measure" is the value 
-we will use to generate the estimate.
-
-| Condition | Measure | `estimation_grain` |
-| --- | --- | --- |
-| On version with metric | Subscription count | `metric/version check - subscription based estimation`* |
-| On version with metric | Seat count | `metric/version check - seat based estimation` |
-| Reported metric | Subscription count | `reported metric - subscription based estimation` |
-| Reported metric | Seat count | `reported metric - seat based estimation` |
-
-_*This is the original methodology used in the legacy models._
 
 ### Assumptions
 
@@ -324,7 +336,7 @@ hypothetical data to facilitate the step-by-step calculations.
 In both examples we are generating Total Create SMAU, including the 
 estimate. The counter used as SMAU for the Create stage is `usage_activity_by_stage_monthly.create.action_monthly_active_users_project_repo`. 
 
-#### On version with metric x Subscription count
+#### On version with metric x subscription count
 
 To calculate the Estimated SMAU for `estimation_grain = 'metric/version check - subscription based estimation'`, 
 we follow the following process for a given month:
@@ -358,7 +370,7 @@ instrumented (in this case, subscriptions on versions >= 13.3)
       * [This SiSense chart displays the split per month](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Managers:-Supporting-Dashboard?widget=10065654&udv=953103)
   --->
 
-#### Reported metric x Seat count
+#### Reported metric x seat count
 
 To calculate the Estimated SMAU for `estimation_grain = 'reported metric - seat based estimation'`, 
 we follow the following process for a given month:
