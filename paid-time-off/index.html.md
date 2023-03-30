@@ -62,10 +62,12 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `leaves@gitlab.com` with your specific request and the Absence Management Team will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-deel-events). Events can only be changed after the PTO by Deel event has completed itself.
 
 ### Holidays
-1. We encourage all team members to take time off for holidays observed in their country. No one is expected to attend calls on days they are not working or out of the office for an official public holiday. As a company that prides itself on a [family & friends first](/handbook/values/#family-and-friends-first-work-second) approach, it’s a general guideline that if public schools or government offices in your area are closed for a particular national or regional holiday, that it’s recognized for GitLab team members in that location to take off as well. For a listing of official holidays by country, follow these steps:
+1. We encourage all team members to take time off for holidays observed in their country. No one is expected to attend calls on days they are not working or out of the office for an official public holiday. As a company that prides itself on a [family & friends first](/handbook/values/#family-and-friends-first-work-second) approach, it’s a general guideline that if public schools or government offices in your area are closed for a particular national or regional holiday, that it’s recognized for GitLab team members in that location to take that time off as a public holiday as well. For a general listing of official holidays by country, follow these steps:
     1. Go to the [timeanddate.com site](https://www.timeanddate.com/holidays/)
     1. Select your country of residence
     1. Change the dropdown from 'All holidays and national observances' to 'Official holidays' 
+
+We recognize this list may not encompass all state or local public holidays, but please follow the guidance above--if public schools or government offices in your location are closed--then please enter your time off as a public holiday in PTO by Deel.  For any questions related to holidays or how to categorize time off please reach out to `leaves@domain`.
 
 2. If you decide to work on a holiday and then take another day off in lieu of the actual holiday date, we ask that you choose Public Holiday as a PTO category, and in the section `What is this OOO for?` please clarify that this day is taken in lieu of the actual holiday date.
 
