@@ -1,5 +1,6 @@
 ---
 title: "Vice President of Customer Success"
+RoleName: "VP of Customer Success"
 ---
 
 We're looking for an experienced Customer Success and Professional Services leader to lead our Customer Success, Professional Services, and Solutions Architect teams.
@@ -43,7 +44,7 @@ The VP of Customer Success is a [grade 12](/handbook/total-rewards/compensation/
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "VP of Customer Success" }) %>
+{{% job-families/sales/performance %}}
 
 ## Career Ladder
 

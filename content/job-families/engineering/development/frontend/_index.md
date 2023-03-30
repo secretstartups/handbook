@@ -77,7 +77,7 @@ Frontend Engineers have the following job-family performance indicators.
 
 ## Levels
 
-<%= job_families('engineering/development/frontend') %>
+{{< section-inline-toc >}}
 
 Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
 

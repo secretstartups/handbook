@@ -1,5 +1,6 @@
 ---
 title: "Account Manager, Mid-market"
+RoleName: "Account Manager, Mid-Market"
 ---
 
 ## Responsibilities
@@ -26,7 +27,7 @@ title: "Account Manager, Mid-market"
 - You share our [values](/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Account Manager, Mid-Market" }) %>
+{{% job-families/sales/performance %}}
 
 ## Hiring Process
 

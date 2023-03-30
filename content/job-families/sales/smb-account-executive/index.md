@@ -1,5 +1,6 @@
 ---
 title: "SMB Account Executive Roles"
+RoleName: "SMB Customer Advocate"
 description: "Learn more about SMB Account Executive roles at Gitlab including requirements, responsibilities and more."
 ---
 
@@ -59,7 +60,7 @@ As an SMB Named Account Executive you will be responsible for managing customers
 - You share our values, and work in accordance with those values
 - Ability to use GitLab
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "SMB Customer Advocate" }) %>
+{{% job-families/sales/performance %}}
 
 ## SMB Operations
 

@@ -1,5 +1,6 @@
 ---
 title: "Chief Revenue Officer"
+RoleName: "Chief Revenue Officer"
 ---
 
 ## Responsibilities
@@ -17,4 +18,4 @@ title: "Chief Revenue Officer"
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Chief Revenue Officer" }) %>
+{{% job-families/sales/performance %}}

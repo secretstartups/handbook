@@ -1,5 +1,6 @@
 ---
 title: "Sales Training Facilitator, Sales and Customer Enablement"
+RoleName: "Sales Training Facilitator, Sales and Customer Enablement"
 ---
 
 As an integral member of the GitLab Sales and Customer Enablement team, our Sales Training Facilitator is responsible for delivering world-class virtual (and sometimes in-person) global sales training and enablement programs.
@@ -27,7 +28,7 @@ As an integral member of the GitLab Sales and Customer Enablement team, our Sale
 - Share and work in accordance with [GitLab's values](https://about.gitlab.com/handbook/values/).
 - Ability to use GitLab
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Sales Training Facilitator, Sales and Customer Enablement" }) %>
+{{% job-families/sales/performance %}}
 
 ## Levels
 

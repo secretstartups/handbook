@@ -1,5 +1,6 @@
 ---
 title: "Account Executive, Mid-market"
+RoleName: "Account Executive, Mid-Market"
 ---
 
 ## Responsibilities
@@ -17,7 +18,7 @@ title: "Account Executive, Mid-market"
 - Provide account leadership and direction in the pre- and post-sales process
 - Be the voice of the customer by contributing product ideas to our public [issue tracker](https://gitlab.com/gitlab-org/gitlab-ee/issues)
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Account Executive, Mid-Market" }) %>
+{{% job-families/sales/performance %}}
 
 ## Levels
 

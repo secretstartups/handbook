@@ -1,5 +1,6 @@
 ---
 title: Director of Professional Services
+RoleName: Director of Professional Services
 ---
 
 The Director of Professional Services provides the strategic vision and leads service delivery for GitLab’s Professional Services Organization. Reporting to the Vice President of Customer Success, the leader is responsible for developing strategies and operations to deliver best-in-class services (i.e., consulting, implementation and educational services) to help customers accelerate their DevOps transformation. The Director of Professional Services works to build and scale a services business, in a bold, fast-moving, transparent and values-led organization to enable customer and company success.
@@ -32,7 +33,7 @@ The Director, Professional Services is a [grade 10](/handbook/total-rewards/comp
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Director of Professional Services" }) %>
+{{% job-families/sales/performance %}}
 
 ## Senior Director
 

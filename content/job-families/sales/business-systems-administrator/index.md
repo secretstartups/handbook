@@ -1,5 +1,6 @@
 ---
 title: "Business Systems Administrator"
+RoleName:  "Business Systems Administrator"
 description: "Business Systems Administrators work on the configuration of GitLab's Salesforce.com instance and all packages, tools and integrations associated with it."
 ---
 
@@ -43,7 +44,7 @@ They work with a combined team of Business Systems Engineers, Data Analysts, and
 - [Net ARR efficiency > 1.0](/handbook/sales/#iavc-efficiency-ratio)
 - [System Roll Out vs Plan](/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Business Systems Administrator" }) %>
+{{% job-families/sales/performance %}}
 
 ## Levels
 

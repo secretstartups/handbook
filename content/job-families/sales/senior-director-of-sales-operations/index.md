@@ -1,5 +1,6 @@
 ---
 title: "Senior Director of Sales Operations"
+RoleName: "Senior Director of Sales Operations"
 ---
 
 ## Analyst
@@ -30,7 +31,7 @@ title: "Senior Director of Sales Operations"
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Senior Director of Sales Operations" }) %>
+{{% job-families/sales/performance %}}
 
 ## Manager
 

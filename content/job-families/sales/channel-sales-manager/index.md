@@ -1,5 +1,6 @@
 ---
 title: "Channel Sales Manager"
+RoleName: "Channel Sales Manager"
 ---
 
 ## Channel Sales Manager
@@ -42,7 +43,7 @@ The Channel Sales Manager is a [grade 8](/handbook/total-rewards/compensation/co
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Channel Sales Manager" }) %>
+{{% job-families/sales/performance %}}
 
 ## Levels
 

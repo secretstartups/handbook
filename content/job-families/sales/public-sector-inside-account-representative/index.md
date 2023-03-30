@@ -1,5 +1,6 @@
 ---
 title: "Inside Sales Representative"
+RoleName: "Public Sector Inside Account Representative"
 ---
 
 ## Inside Sales Representative
@@ -57,7 +58,7 @@ The Senior Inside Sales Representative is a [grade 7](/handbook/total-rewards/co
 - One year of successful account management at Gitlab with regards to call, deal and other metrics (e.g. managing tasks in SalesForce).
 - Ability and willingness to mentor less experienced PubSec team members.
 
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Public Sector Inside Account Representative" }) %>
+{{% job-families/sales/performance %}}
 
 ## Career Ladder
 
