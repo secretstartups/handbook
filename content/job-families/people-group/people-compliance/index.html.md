@@ -2,13 +2,6 @@
 title: "People Compliance"
 ---
 
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 People Compliance forms part of the People Operations Team at GitLab, and is directly responsible for managing all compliance-related efforts relating to People Operations processes and affecting all GitLab team members. This team will be collaborating very closely with all People Operations and People Success teams, as well as Talent Acquisition, Total Rewards, and Legal teams.
 
 ## Senior Background Check Specialist
@@ -114,7 +107,7 @@ The Senior Compliance Specialist is a [grade 7](https://about.gitlab.com/handboo
 - Support new HRIS implementation by providing historical functional and technical expertise including system configurations, managing settings, business process enhancements, troubleshooting issues, and ensuring overall data quality and integrity
 - Maintain People data security and compliance by regularly analyzing and auditing data in the HRIS
 - Point of contact for Legal, Security Compliance and all internal audit-related queries.
-- DRI for all People Group-related compliance projects. Coordinate, collaborate, administer, and support the enablement of various compliance efforts and projects.  
+- DRI for all People Group-related compliance projects. Coordinate, collaborate, administer, and support the enablement of various compliance efforts and projects.
 - Spearhead complete review and redress of all US and non-US People processes and policies.
 - Implement compliance initiatives and templates that can be utilised for initiatives including: document retention policy for team member information, data protection, and annual training on these.
 - Complete all mandatory country-specific lawful and required reports and compliance initiatives, such as the US-required EEOC and AAP reports.

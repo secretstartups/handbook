@@ -3,13 +3,6 @@ title: "Software Engineer in Test Job Family"
 description: "Software Engineers in Test at GitLab help grow our test automation efforts across the entire GitLab ecosystem."
 ---
 
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/48x1Rok15os" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Software Engineers in Test at GitLab help grow our test automation efforts across the entire GitLab ecosystem.

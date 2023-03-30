@@ -20,13 +20,6 @@ At GitLab, we hold that [managers should be technically competent and experience
 
 We want to live in a world where [everyone can contribute](https://about.gitlab.com/handbook/values/#mission), and as a member of the support team there are no barriers to using your skills to improve the experience of our users, our customers and importantly the folks you’d be supporting as a manager.
 
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## Support Management Roles
 
 ### Manager, Support Engineering
