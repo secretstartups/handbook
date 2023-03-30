@@ -71,3 +71,14 @@
 
 [customer-success]
 /content/handbook/customer-success @spatching @christiaanconover @mrleutz
+
+^[job-families]
+/content/job-families/ @sytses @streas
+/content/job-families/board-of-directors/board_member/ @sytses @robin
+/content/job-families/engineering/incubation/ @bmarnane
+/content/job-families/people-group/recruiting-operations-insights/ @sytses @streas @wendybarnes @rallen3
+/content/job-families/people-group/recruiter/ @sytses @streas @wendybarnes @rallen3
+/content/job-families/people-group/recruiting-sourcer/ @sytses @streas @wendybarnes @rallen3
+/content/job-families/people-group/candidate-experience/ @sytses @streas @wendybarnes @rallen3
+/content/job-families/product/technical-writer/ @clenneville @susantacker @dianalogan @kpaizee @david
+/content/job-families/product/technical-writing-manager/ @clenneville @susantacker @dianalogan @kpaizee @david
