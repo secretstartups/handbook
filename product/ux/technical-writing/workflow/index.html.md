@@ -490,8 +490,8 @@ section of the global navigation.
 
 ## Hackathons
 
-The Technical Writing team hosts a Docs Hackathon twice a year.
-The Docs Hackathon is separate from the [GitLab Hackathon](https://about.gitlab.com/community/hackathon/).
+The Technical Writing team takes part in the [GitLab Hackathon](https://about.gitlab.com/community/hackathon/)
+and sometimes hosts a docs-only Docs Hackathon.
 
 ### Create issues for a Hackathon
 
@@ -529,20 +529,6 @@ When a community contributor opens a Hackathon merge request:
 
 1. Work to merge the merge request.
 1. When you merge, ensure you close the related issue.
-
-### View or make a comment
-
-1. Go to a page on `docs.gitlab.com`. Make sure it is not an index or landing page.
-1. Scroll down to **Help & feedback**, and select **Show and post comments**.
-
-### Respond to a comment
-
-1. In the `#docs-comments` Slack channel, review and triage the comment.
-1. Apply the green check mark emoticon to the comment in Slack to let other Technical Writers know that you have reviewed and triaged the comment.
-1. Take action, tailored to the type feedback:
-    - For actionable documentation fixes such as typos or rewording for clarity, open an MR. Respond to the commenter once the MR is merged, and confirm the action taken.
-    - For questions or feedback on the product, respond to the commenter if you know the answer. Ask for help from the group Product Manager (PM) or Engineering Manager (EM) if you don’t know the answer. You, or the group PM or EM can respond to the commenter. For more complex questions or feedback, open an issue or MR, and link to it in the response.
-1. Apply the `~docs-comments` label to MRs or issues that you create in response to comments.
 
 ## Labels
 
