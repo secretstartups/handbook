@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Enterprise Dimensional Model"
+title: "Enterprise Data Warehouse"
 ---
 
 ## On this page
@@ -9,21 +9,26 @@ title: "Enterprise Dimensional Model"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Background
+## Enterprise Data Warehouse Overview
 
-The Enterprise Dimensional Model (EDM) is GitLab's centralized data model, designed to enable and support the highest levels of accuracy and quality for reporting and analytics. The data model follows the [Kimball](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) technique, including a Bus Matrix and Entity Relationship Diagram. Dimensional Modeling is the third step of our overarching [Data Development Approach](https://about.gitlab.com/handbook/business-technology/data-team/organization/#development-approach) (after Requirements definition and UI Wireframing) and this overall approach enables us to repeatedly produce high-quality data solutions. The EDM is housed in our Snowflake [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) and is generated using [dbt](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/).
+The Enterprise Data Warehouse (EDW) is used for reporting and analysis. It is a central repository of current and historical data from GitLab's Enterprise Applications. We use an ELT method to Extract, Load, and Transform data in the EDW. We use Snowflake as our EDW and use [dbt](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/) to transform data in the EDW. The [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/) contains Analytics Hubs, Data Guides, Data Dictionaries, and Analysis for the data models built in the EDW.
 
-Example SiSense dashboards powered by the EDM include:
+The Production Database in the EDW is used for reporting and analysis by Data Consumers at GitLab. It is composed of 4 major schemas which are `COMMON_`, `SPECIFIC`, `LEGACY_` and `WORKSPACE_` schemas. Below are descriptions of each Schema:
 
-- [TD: Sales Funnel](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual)
-- [TD: Customer Segmentation](https://app.periscopedata.com/app/gitlab/718514/TD:-Customer-Segmentation)
-- [TD: Drillable Net Retention](https://app.periscopedata.com/app/gitlab/763726/TD:-Drillable-Net-Retention)
-- [TD: Pricing Dashoard](https://app.periscopedata.com/app/gitlab/748119/TD:-Pricing-Dashboard---Customer-Overview)
+1. `COMMON_`: This schema is where our Enterprise Dimensional Model (EDM) lives. The EDM is GitLab's centralized data model, designed to enable and support the highest levels of accuracy and quality for reporting and analytics. The data model follows the [Kimball](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) technique, including a Bus Matrix and Entity Relationship Diagrams. Dimensional Modeling follows our [Trusted Data Development](https://about.gitlab.com/handbook/business-technology/data-team/data-development/#trusted-data-development) process and enables us to repeatedly produce high-quality data solutions. Our Enterprise Applications that integrate with each other are great candidates for the Kimball Dimensional Modeling Methodology. 
+
+1. `SPECIFIC_`: This schema is where data from applications that do not integrate with other applications lives. The EDM in the `COMMON_` schema excels at modeling data from Integrated Enterprise Applications; however, not all application data is integrated nor requires the rigor of Dimensional Modeling. The data models in the `SPECIFIC_` schema follow the [Trusted Data Development](https://about.gitlab.com/handbook/business-technology/data-team/data-development/#trusted-data-development) process with the exception of a Dimensional Modeling methodology not being required. A key acceptance criteria for models entering this schema is that the models are built from application data that is not integrated with other application data. 
+
+1. `LEGACY_`: This schema is where data from our old modeling paradigm lives and is in the process of being deprecated by `2024-03-31`. The [Legacy Structure](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#model-structure) is defined in the dbt guide.
+
+1. `WORKSPACE_`: This schema follows the [Ad-Hoc Data Development](https://about.gitlab.com/handbook/business-technology/data-team/data-development/#ad-hoc-data-development) process. This schema is where data modelers can experiment and prototype data solutions.
+
+## Enterprise Dimensional Model (COMMON Schema)
 
 ### Primary Dimensional Modeling Artifacts
 - The [Enterprise Bus Matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=1372061550) consolidates all of our Fact and Dimension tables into an easy-to-use table and is patterned after the [Kimball bus matrix](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/kimball-data-warehouse-bus-architecture/).
 - The [Enterprise Entity Relationship Diagram](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) presents a unified entity-level view of the Fact and Dimension tables.
-- The [Dimensional Modelling Development Process](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#dimensional-modeling) covers our modeling standards, including naming conventions.
+- The [Dimensional Modelling Development Process](https://about.gitlab.com/handbook/business-technology/data-team/data-development/#trusted-data-development) covers our modeling standards, including naming conventions.
 
 ### The Enterprise Dimensional Model 'BIG PICTURE' Diagram
 - We use Lucidchart's [ER diagram template](https://www.lucidchart.com/pages/er-diagrams) to build [Enterprise Entity Relationship Diagram](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) source.
@@ -338,6 +343,10 @@ For performance reasons, it is helpful to keep the slowly changing dimension at 
 In the Enterprise Dimensional Model, we introduce the daily grain in the `COMMON` schema so the snapshot models are available in our reporting tool. These daily snapshot models should end with the suffix `_daily_snapshot`. If a slowly changing dimension requires additional business logic beyond what comes out of the source system and is stored in a `_source` model, the best practice is to create a staging model in the `COMMON_PREP` schema with the transformations and then [build the slowly changing dimension](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#create-snapshot-tables-with-dbt-snapshot) and daily snapshot model from the `COMMON_PREP` model. 
 
 The dbt solution for building snapshot tables will set the `valid_to` field as NULL for the current version of a record, as shown in the first example above. This is how the data will be presented in the `_source` models. When this is transformed into a daily snapshot in the `COMMON` schema, there is flexibility for the analyst to decide how to [set the end date](https://discourse.getdbt.com/t/building-models-on-top-of-snapshots/517) (today's date, a future date, into the infinite future) depending on the business use case.
+
+## SPECIFIC Schema
+
+More details coming soon...
 
 ## Big Data
 
