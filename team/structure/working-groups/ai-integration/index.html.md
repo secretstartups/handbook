@@ -34,6 +34,9 @@ The GitLab AI Integration Working Group aims to define, coordinate and ramp up i
 We want to enable all product teams to be able to use advanced AI capabilities for improving and adding functionality to the product so users can be faster and more productive in their DevSecOps lifecycle. For product teams we want to establish a clear and fast way for going from idea, experiment to production when using AI functionality. Incorporating the services, models and knowhow that the MLOps group has built over time and can provide to the wider team.
 
 The working group will facilitate fast experimentation and prototyping of AI capabilities. We will also advise on what must be considered (and in some cases, get explicit approval on) before moving to production, including legal approval, ethical use of AI, potential necessary changes to terms of service, performance implications, hosting cost implications, infrastructure readiness, security readiness, licensing of 3rd party software/services, appropriate GitLab licensing levels for features, value add in helping users achieve their goals and needs, etc.
+
+More information on the effort and plans can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/ai-strategy/ai-integration-effort/).
+
 ### Goals
 
 This is a list of topics that we want to discuss:
