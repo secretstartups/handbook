@@ -31,12 +31,12 @@ Proof of performance (POP) includes partner-generated invoice AND at least one o
 | **Eligible Activity** | **Description** | **Proof of Performance** |
 |--------------------|---------------------------|-------------------------------------------------------------|
 | **Collateral Sales Tools** | Printed or web-based material developed to assist in your efforts to promote GitLab solutions (product briefs, data sheets, case studies, etc.). The document must include the GitLab logo. | • Electronic version or hard copy of marketing collateral <br> • Graphic files or digital photos that show the integration of GitLab brand/solutions <br> • eDM/Direct mail |
-| **Events** | Any industry or partner event that you plan to attend to promote or host GitLab solutions. This can be done in collaboration with other vendors that don’t compete with GitLab. Events may also include enablement activities. | • Electronic version or hard copy of invitation <br> • Marketing collateral• Photo of display/booth/event <br> • Lead list/Attendee list (to include: Company Name, Contact, Title, Email, Phone, Full Address), Funded Head (Distribution Only) |
+| **Events** | Any industry or partner event that you plan to attend to promote or host GitLab solutions. This can be done in collaboration with other vendors that don’t compete with GitLab. Events may also include enablement activities. | •(REQUIRED) Lead list/Attendee list (to include: Company Name, Contact, Title, Email, Phone, Full Address) <br> • Electronic version or hard copy of invitation <br> • Marketing collateral<br> • Photo of display/booth/event <br> • Funded Head (Distribution Only) |
 | **Partner Sponsorship** | Participation in a partner-led event or activity or third-party event. | • Contract of signed sponsorship |
-| **Partner Training** | In-person or virtual events focused on enablement, sales or technical training. | • Certificate of completion• Group class – attendee list REQUIRED (to include: Company Name, Contact, Title, Email, Phone, Full Address)• Catering/Facilities invoices (if applicable) |
-| **Marketing Materials** | The delivery of co-branded marketing materials (digital or physical) to promote GitLab solutions. Eligible assets include emails, direct mailers and social media posts, and must include the GitLab logo. | • Electronic version or hard copy sample of direct mail, newsletter• Lead list (to include Company Name, Contact, Title, Email, Phone, Full Address) |
-| **Lead Generation/ Telemarketing** | Delivery of co-branded messages via telephone or other mediums to gain net-new customers. The message should focus on GitLab solutions. The contact list should include Company Name, First Name, Last Name, Title, Full Address, Email, Phone. | • Telemarketing script of how GitLab brand or solution were incorporated into the campaign• Itemized call record or campaign metrics• Lead list or call list (to include: Company Name, Contact, Title, Email, Phone, Full Address)• Internal invoice accepted |
-| **Webcast/Webinar** | A syndicated or on-demand web event with the purpose of either lead generation or continuing education. This can be conducted in collaboration with GitLab or GitLab-approved third-party vendors. | • URL to recorded online event, podcast, or presentation that shows integration of GitLab brand and solutions• Lead list/Attendee list (to include: Company Name, Contact, Title, Email, Phone, Full Address)• Invitation to the online event/podcast• Follow up/additional activities |
+| **Partner Training** | In-person or virtual events focused on enablement, sales or technical training. | • Certificate of completion <br> • Group class – attendee list REQUIRED (to include: Company Name, Contact, Title, Email, Phone, Full Address) <br> • Catering/Facilities invoices (if applicable) |
+| **Marketing Materials** | The delivery of co-branded marketing materials (digital or physical) to promote GitLab solutions. Eligible assets include emails, direct mailers and social media posts, and must include the GitLab logo. | • Electronic version or hard copy sample of direct mail, newsletter <br> • Lead list (to include Company Name, Contact, Title, Email, Phone, Full Address) |
+| **Lead Generation/ Telemarketing** | Delivery of co-branded messages via telephone or other mediums to gain net-new customers. The message should focus on GitLab solutions. The contact list should include Company Name, First Name, Last Name, Title, Full Address, Email, Phone. | • (REQUIRED) Lead list or call list (to include: Company Name, Contact, Title, Email, Phone, Full Address) <br> • Telemarketing script of how GitLab brand or solution were incorporated into the campaign <br> • Itemized call record or campaign metrics <br> • Internal invoice accepted |
+| **Webcast/Webinar** | A syndicated or on-demand web event with the purpose of either lead generation or continuing education. This can be conducted in collaboration with GitLab or GitLab-approved third-party vendors. | • (REQUIRED) Lead list/Attendee list (to include: Company Name, Contact, Title, Email, Phone, Full Address) <br> • URL to recorded online event, podcast, or presentation that shows integration of GitLab brand and solutions <br> • Invitation to the online event/podcast <br> • Follow up/additional activities |
 
 ## MDF Process
 
@@ -109,18 +109,18 @@ For partners who are claiming reimbursement for the **first time** only: <br/>
 - CMMs work on creating a strategic marketing plan a month before a new quarter starts. 
 - Internal approvals are needed. Plans are reviews by CMM's Team Managers and MDF Program Owner. 
 - If an MDF activity requires a contract signed or has a specific contract for that particular event, such as sponsorships or conferences, contracts need to be **reveiwed and approved by Legal** before the approval is communicated to the Partner. 
--       * In this case, CMMs are to submit contract to the MDF Program Owner and they will open a Zip request to get approval done. 
+   * In this case, CMMs are to submit contract to the MDF Program Owner and they will open a Zip request to get approval done. 
 - Once internal approvals have been completed, CMMs communicate to Partners actvities that are approved. 
 - Partners are responsible for submitting an MDF request through the Partner Portal. 
 - MDF Program Owner creates Epic: [FY24 MDF Planning Activities and Initiative](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3523) 
--       * This Epic contains all sub regional issues in order to provide visibility to everyone in the Channel organization of all the MDF requests for the year. 
--       * Under the epic we have 4 H1 issues (H1 stands for first half):
--             * [FY24 H1 MDF | EMEA](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/806) 
--             * [FY24 H1 MDF | AMER](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/803) 
--             * [FY24 H1 MDF | PUB SEC](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/804) 
--             * [FY24 H1 MDF | APAC](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/805) 
--       * We use these issues as a place to communicate to the CMMs, add the links to Salesforce. CAMs and Channel Leadership also are informed 
--       * We also confirm on the issues that the MDF request was created by the partner, but linking the MDF number to the table, and from there we working on processing it internally. 
+   * This Epic contains all sub regional issues in order to provide visibility to everyone in the Channel organization of all the MDF requests for the year. 
+      * Under the epic we have 4 H1 issues (H1 stands for first half):
+         * [FY24 H1 MDF | EMEA](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/806) 
+         * [FY24 H1 MDF | AMER](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/803) 
+         * [FY24 H1 MDF | PUB SEC](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/804) 
+         * [FY24 H1 MDF | APAC](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/805) 
+   * We use these issues as a place to communicate to the CMMs, add the links to Salesforce. CAMs and Channel Leadership also are informed 
+   * We also confirm on the issues that the MDF request was created by the partner, but linking the MDF number to the table, and from there we working on processing it internally. 
 
 #### Phase 2: Processing MDF
 
