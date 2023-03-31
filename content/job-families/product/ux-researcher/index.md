@@ -50,21 +50,22 @@ The UX Researcher (Intermediate) is a [grade 6](https://about.gitlab.com/handboo
 
 #### Intermediate Responsibilities
 
-- Personally initiate and conduct research within or across your stage groups to build deep foundational knowledge of your coverage areas. Research should consist of a mix of solution validation and problem validation projects.
+- Personally initiate and conduct research within or across your stage groups to build deep foundational knowledge of your coverage areas. 
 
-- Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
+- Research should consist of a mix of solution validation and problem validation projects.
+Advocate for and socialize actionable insights independently and in a clear and compelling way.
+Conduct impactful research that informs decisions within stage groups.
+With the help of your manager, create high-quality deliverables that tell compelling stories integrated with research findings. This is typically accomplished through reports, presentations, video recordings, etc.
+Know your stage groups: understand the technology, experiences, and features of your assigned stage groups. Maintain a thorough knowledge of the direction and vision for your assigned stage groups.
+Know GitLab users in your stage groups: develop a deep empathic understanding of your users, learn about their needs, and identify gaps.
+With the help of your manager and product leadership, effectively prioritize your research efforts across stage groups. Align with Product teams while considering impact, the goals of your stage groups, the broader product direction, and company objectives.
+Respond to solution validation user research inquiries that are escalated by Product Design.
+Guide Product Managers and Product Designers to conduct research with a high degree of rigor. Help them follow defined research processes (ex: handbook procedures, opening and closing issues for research studies, documenting actionable insights, etc).
+Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade offs between scrappy research and rigor.
+Learn from and be mentored by other UX Researchers.
+Participate in some of the research fielded by Senior and/or Staff Researchers to gain knowledge and exposure to more complex research projects.
+Actively contribute to the UX Research team culture by iterating on existing processes, documentation and contributing to peer reviews.
 
-- Know your stage groups: understand the technology, experiences, and features of your assigned stage groups. Maintain a thorough knowledge of the direction and vision for your assigned stage groups.
-
-- Know your stage group users: develop a deep empathic understanding of your users, learn about their needs, and identify gaps.
-
-- With the help of your manager and product leadership, effectively prioritize your research efforts across stage groups. Align with Product teams while considering impact, the goals of your stage groups, the broader product vision, and company objectives.
-
-- Respond to solution validation user research inquiries that are escalated by Product Design.
-
-- Guide Product Managers and Product Designers to conduct research with a high degree of rigor.  Ensure they are following defined research processes (ex: handbook procedures, opening and closing issues for research studies, documenting actionable insights, etc).
-
-- Actively contribute to the UX Research team culture, processes, and documentation.
 
 ### Senior
 
