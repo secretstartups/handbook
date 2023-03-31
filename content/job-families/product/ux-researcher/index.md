@@ -157,7 +157,7 @@ The Principal UX Researcher is a [grade 9](https://about.gitlab.com/handbook/tot
 
 #### Principal Responsibilities
 
-The Senior responsibilities, plus the responsibilities below:
+The Staff responsibilities, plus the responsibilities below:
 
 - Proactively and consistently make connections between disparate research initiatives. This can be done by: identifying existing research that supplements a new initiative, looking for commonalities in findings to surface larger "macro" insights, through data triangulation, and/or combining similar research efforts. **Set the standard on how this effectively accomplished for the UX Research team.**
 
