@@ -150,39 +150,6 @@ Objectives and Key Results (OKRs) help align our department towards what really 
   - KR: 100% of team members review GitLab competitive analysis => 98%
   - KR: Identify 6 test process improvements in areas that are behind competition maturity => 74%
 
-## Quality Department structure
-
-```mermaid
-graph TD
-    A[Quality Department]
-    A --> B[Engineering Analytics Team]
-    A --> D(Quality Engineering Sub-Department)
-    A --> E[Engineering Productivity Team]
-
-    click A "/handbook/engineering/quality"
-    click B "/handbook/engineering/quality/engineering-analytics"
-    click D "/handbook/engineering/quality/quality-engineering"
-    click E "/handbook/engineering/quality/engineering-productivity"
-```
-
-### Department members
-
-<%
-vp_role = 'Vice President of Quality'
-director_qe_role = 'Director of Quality Engineering'
-quality_em_role = 'Manager, Quality Engineering'
-ep_em_role = 'Backend Engineering Manager, Engineering Productivity'
-director_ea_role = 'Director, Engineering Analytics'
-roles_regexp = /(Engineer in Test|Engineering Productivity|Staff Infrastructure Analyst|Senior Operations Analyst|Contributor Success|Engineering Analyst)/
-%>
-
-#### Management team
-
-<%= shared_team_members(role_regexps: [/(#{vp_role}|#{director_qe_role}|#{quality_em_role}|#{ep_em_role}|#{director_ea_role})/i]) %>
-
-#### Individual contributors
-
-<%= stable_counterparts(role_regexp: roles_regexp, direct_manager_role: /(#{quality_em_role}|#{ep_em_role}|#{director_ea_role})/) %>
 
 ### Staffing planning
 
@@ -225,48 +192,10 @@ In addition to GitLab's [communication guidelines](/handbook/communication) and 
 - [Department meetings](#department-meetings)
 - [Engineering-wide retrospective](#engineering-wide-retrospective)
 
-### Group Conversations
-
-[Group Conversations](/handbook/group-conversations/) or abbreviated as GC for short, runs on an 8-week cadence.
-The Quality department has our own, and we also contribute content to the GC presentation slides for our counterpart product sections.
-
-#### Quality Department Group Conversations
-
-This is a company-wide discussion where we highlight achievements, challenges, and progress of the department.
-You can look up the historical prep of our group conversations using the [`group-conversation`](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues?label_name%5B%5D=group-conversation) label in our issue tracker.
-
-#### Counterpart Product Group Conversations
-
-Quality Engineering Managers are responsible for contributing Quality-focused content to the GC slides for their counterpart product sections.
-At a minimum, details about our related OKRs should be shared, but other info can be shared as appropriate.
-In general, aim to keep the slides informative yet brief and few in number, since we do have our own GC during which we can share more details.
-Following are some ideas for suggested content.
-
-- OKRs
-    - If the GC is in the middle of the quarter, only include current quarter OKRs.
-    - If the GC is near the start/end of a quarter, consider including both previous and next quarter OKRs.
-- Notable achievements or progress
-- Notable gaps or problems
-
 ### Week-in-review
 
 By the end of the week, we populate the **Engineering Week-in-Review document** with relevant updates from our department. The agenda is internal only, please search in Google Drive for 'Engineering Week-in-Review'.
 Every Monday a reminder is sent to all of engineering in the [#eng-week-in-review](https://gitlab.slack.com/messages/CJWA4E9UG) slack channel to read summarize updates in the google doc.
-
-### Department meetings
-
-We try to have as few meetings as possible. We currently have 3 recurring meetings for the whole department. All meeting invites should include a link for [timezone converter](https://www.timeanddate.com/worldclock/meeting.html). Team members are encouraged to populate and review the agenda ahead of time and can propose asynchronous meeting if the agenda is light. Everyone in the Department is free to join and the agenda is available to everyone in the company. Every meeting is also recorded.
-
-1. **Quality Department Bi-Weekly**: This is where the whole department comes together once every 2 weeks to discuss our day-to-day challenges, propose automation framework improvements and catchup on important announcements. This meeting happens in 2 parts to accommodate our team members across multiple timezones.
-    - Part 1 - Alternate Wednesday's @1330 PDT (PDT because the majority of the attendees are in the US and we follow daylight savings)
-    - Part 2 - Alternate Thursday's @0730 UTC
-1. **Quality Department Leadership Weekly**: This weekly brings together Quality's management team to discuss directional plans, long-term initiatives, hiring goals, and to address issues that require attention. This meeting is scheduled for every Wednesday at 1430 UTC (adjusts per PDT).
-1. **Quality Bi-Weekly Test Architecture & Coffee**: This is where the whole department comes together once every 2 weeks to take part in demos and discussions. This meeting also happens in 2 parts to accommodate our team members across multiple timezones.
-    - Part 1 - Alternate Wednesday's 1330 PDT (PDT because the majority of the attendees are in the US and we follow daylight savings)
-    - Part 2 - Alternate Thursday's 0730 UTC
-The demos can be found in Youtube Unfiltered - [Quality Bi-Weekly Test Architecture & Coffee playlist](https://youtube.com/playlist?list=PL05JrBw4t0KqqL3Vw3_5Uv9cxSOdPNhoY)
-1. **Engineering Productivity Team Weekly**: The Engineering Productivity team meets weekly to discuss engineering wide process improvements. This meeting is scheduled for every Tuesday at 1300 UTC.
-1. **Team skip-level**: Every team in Quality has a [skip-level 1:1](/handbook/leadership/skip-levels/) every 4-6 weeks. The purpose of this meeting is to help the department or sub-department leader be a better manager of themselves and direct line managers.
 
 ### Engineering-wide retrospective
 
