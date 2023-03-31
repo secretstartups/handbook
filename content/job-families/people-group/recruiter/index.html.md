@@ -372,5 +372,5 @@ See more details about our hiring process on the [hiring handbook](https://about
 
 ## Career Ladder
 
-The next step in the Recruiting job family is to move to the [Recruiting Leadership](/job-families/people-group/vp-recruiting/) job family.
+The next step in the Recruiting job family is to move to the Recruiting Leadership <!-- [Recruiting Leadership](/job-families/people-group/vp-recruiting/) --> job family.
 

@@ -58,8 +58,8 @@ The Group Manager, Product is a [grade 9](https://about.gitlab.com/handbook/tota
 - Enable product managers to make the most effective decisions when [prioritizing R&D investment](https://about.gitlab.com/handbook/product/product-processes/#how-we-prioritize-work) in their [product groups](https://about.gitlab.com/company/team/structure/#product-groups) so that our upcoming releases contain relevant enhancements for our customers, users, prospects and us.
 - Convene a set of stable counterparts for your assigned [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and Use Cases to ensure R&D and GTM [KPIs](https://about.gitlab.com/company/kpis/) are met
 - Join customer and partner visits that spawn ideas for new features
-- Ensure PMs develop an understanding of the market for their categories, including ensuring that the [DevOps tools](/competition/) and category directions relevant to their markets are up to date
-- Keep relevant [/direction](/direction) pages up to date as our high level roadmap
+- Ensure PMs develop an understanding of the market for their categories, including ensuring that the [DevOps tools](https://about.gitlab.com/competition/) and category directions relevant to their markets are up to date
+- Keep relevant [/direction](https://about.gitlab.com/direction) pages up to date as our high level roadmap
 - Prioritize, build and assess business cases for new or existing opportunities in your group that have no investment
 - Understand deeply and synthesize the market, competition, and upcoming solutions in the space their team is responsible for.
 - Review release post announcements to ensure they focus on user problems and [jobs-to-be-done](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/)
@@ -81,11 +81,11 @@ The next step in the Group Manager, Product is to move to [Director of Product](
 
 ##### Verify
 
-Are responsible for managing the team of product managers covering the [Verify stage groups](https://about.gitlab.com/handbook/product/categories/#verify-stage). Leading the [Verify direction](/direction/ops/#verify) is a high impact position. Works with your team to ensure our [industry-leading CI](/analysts/forrester-cloudci19/) continues to be a [critical entry-point](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) to our single devops platform. Work cross functionally as an expert and invest in your team of high caliber product managers to make sure our [R&D investment in Verify](https://internal-handbook.gitlab.io/handbook/product/investment/) is as effective as possible in fulfilling our [mission to enable everyone to contribute](https://about.gitlab.com/company/mission/#mission).
+Are responsible for managing the team of product managers covering the [Verify stage groups](https://about.gitlab.com/handbook/product/categories/#verify-stage). Leading the [Verify direction](https://about.gitlab.com/direction/ops/#verify) is a high impact position. Works with your team to ensure our [industry-leading CI](https://about.gitlab.com/analysts/forrester-cloudci19/) continues to be a [critical entry-point](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) to our single devops platform. Work cross functionally as an expert and invest in your team of high caliber product managers to make sure our [R&D investment in Verify](https://internal-handbook.gitlab.io/handbook/product/investment/) is as effective as possible in fulfilling our [mission to enable everyone to contribute](https://about.gitlab.com/company/mission/#mission).
 
 ###### Verify - Runner
 
-The GMP for Verify:Runner is responsible for supporting our [Runner product groups](https://docs.gitlab.com/runner/) functional management and vision. Leading the direction as an individual contributor for the categories of [Runner Core](/direction/verify/runner_core/) and [Runner Fleet](/direction/verify/runner_fleet/) while supporting the Product Manager over [Runner SaaS](/direction/verify/runner_saas/), is an high visibility and mission-critical role. You will be working across two product groups to accelerate our [Verify stage direction](/direction/ops/#verify) growth and influence our [SaaS Platforms direction](/direction/saas-platforms/) via the implementation of our [Automated Software Delivery solution](https://about.gitlab.com/solutions/delivery-automation/). Investing in your team to curate Product Management excellence to effectively enable our position of being the [One DevOps Platform](https://about.gitlab.com/topics/devops-platform/).
+The GMP for Verify:Runner is responsible for supporting our [Runner product groups](https://docs.gitlab.com/runner/) functional management and vision. Leading the direction as an individual contributor for the categories of [Runner Core](https://about.gitlab.com/direction/verify/runner_core/) and [Runner Fleet](https://about.gitlab.com/direction/verify/runner_fleet/) while supporting the Product Manager over [Runner SaaS](https://about.gitlab.com/direction/verify/runner_saas/), is an high visibility and mission-critical role. You will be working across two product groups to accelerate our [Verify stage direction](https://about.gitlab.com/direction/ops/#verify) growth and influence our [SaaS Platforms direction](https://about.gitlab.com/direction/saas-platforms/) via the implementation of our [Automated Software Delivery solution](https://about.gitlab.com/solutions/delivery-automation/). Investing in your team to curate Product Management excellence to effectively enable our position of being the [One DevOps Platform](https://about.gitlab.com/topics/devops-platform/).
 
 ##### Enablement
 
@@ -165,7 +165,7 @@ The Director, Product Management is a [grade 10](https://about.gitlab.com/handbo
 - Ensure adequate Career Coaching is available to all Product Managers in your organization
 - Maintain a comprehensive understanding of GitLab's overall, and Section specific Product Direction to spot, propose and complete appropriate [global optimizations](https://about.gitlab.com/handbook/values/#global-optimization) of our R&D investment
 - Analyze GTM metrics and propose and complete improvements to our R&D and GTM interactions including [pricing](https://about.gitlab.com/company/pricing/), product positioning and process
-- Maintain priorities for and champion [acquisitions](https://about.gitlab.com/handbook/acquisitions/) that impact our [product maturity](/direction/maturity/)
+- Maintain priorities for and champion [acquisitions](https://about.gitlab.com/handbook/acquisitions/) that impact our [product maturity](https://about.gitlab.com/direction/maturity/)
 - Perform [product walk-throughs](https://about.gitlab.com/handbook/product/product-processes/#walk-through) regularly to highlight opportunities for improved workflows that span groups, stages and section.
 - Exemplify, coach others on, and contribute to [GitLab values](https://about.gitlab.com/handbook/values/)
 - Drive cross-functional, high impact business workstreams outside of the direct area of ownership
@@ -211,7 +211,7 @@ and reports to the VP of Product.
 
 ##### Fulfilment
 
-Responsible for the [Fulfillment](/direction/fulfillment/) product team, which owns delivering a flexible and powerful billing and licensing system.  Has the opportunity to work cross-functionally to ensure the billing and licensing system meets our evolving business needs and delivers a world class customer experience.
+Responsible for the [Fulfillment](https://about.gitlab.com/direction/fulfillment/) product team, which owns delivering a flexible and powerful billing and licensing system.  Has the opportunity to work cross-functionally to ensure the billing and licensing system meets our evolving business needs and delivers a world class customer experience.
 
 ##### Requirements
 

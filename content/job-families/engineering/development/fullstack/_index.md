@@ -78,7 +78,7 @@ The Staff Fullstack Engineer is a [grade 8](https://about.gitlab.com/handbook/to
 - Maintain and improve the CI/CD pipelines, build processes, and review environments
 - Improve content-authoring experience and tooling
 - Perform and/or coordinate/delegate resolution of any other content sites issues related to infrastructure, code, - architecture, projects, security, CI/CD, builds, deployments, upgrades, performance, scalability, metrics, monitoring, etc
-- Support [dogfooding of GitLab features](/direction/dogfooding/) on [Content Sites](https://about.gitlab.com/handbook/content-websites-responsibility/#what-are-the-content-websites) and related infrastructure
+- Support [dogfooding of GitLab features](https://about.gitlab.com/direction/dogfooding/) on [Content Sites](https://about.gitlab.com/handbook/content-websites-responsibility/#what-are-the-content-websites) and related infrastructure
 
 ### Hiring Process for Handbook Specialty
 

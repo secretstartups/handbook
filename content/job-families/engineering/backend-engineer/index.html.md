@@ -34,10 +34,10 @@ requirements and responsibilities:
 - Ability to use GitLab
 - Comfort and familiarity with our [code review process](https://about.gitlab.com/handbook/engineering/workflow/code-review/)
 
-[values]: /handbook/values/
-[collaboration]: /handbook/values/#collaboration
-[efficiency]: /handbook/values/#efficiency
-[iteration]: /handbook/values/#iteration
+[iteration]: https://about.gitlab.com/handbook/values/#iteration
+[collaboration]: https://about.gitlab.com/handbook/values/#collaboration
+[efficiency]: https://about.gitlab.com/handbook/values/#efficiency
+[values]: https://about.gitlab.com/handbook/values
 
 #### Nice-to-haves
 

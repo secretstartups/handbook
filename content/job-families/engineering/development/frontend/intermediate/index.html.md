@@ -52,7 +52,6 @@ Frontend Engineers at GitLab work on our product. This includes both the open so
 
 ## Levels
 
-- [Junior](/job-families/engineering/development/frontend/junior/)
 - Intermediate
 - [Senior](/job-families/engineering/development/frontend/#senior-frontend-engineer)
 - [Staff](/job-families/engineering/development/frontend/#staff-frontend-engineer)

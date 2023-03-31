@@ -13,10 +13,10 @@ The Junior Designer is a [grade 5](https://about.gitlab.com/handbook/total-rewar
 
 ### Responsibilities
 
-- Assist in the redesign of the [GitLab website](/).
+- Assist in the redesign of the [GitLab website](https://about.gitlab.com).
 - Build and maintain slide decks for various events and presentations.
 - Conceptualize and design landing pages for various campaigns and GitLab features.
-- Create, update, and maintain diagrams and infographics on the GitLab website and [Documentation](/documentation) pages.
+- Create, update, and maintain diagrams and infographics on the GitLab website and [Documentation](https://docs.gitlab.com/) pages.
 - Assist in the conceptualization and design of event and swag items — such as t-shirts, stickers, banners, and conference booths.
 - Create web advertisements for webcasts, landing pages, partnerships, and feature releases.
 
@@ -30,7 +30,7 @@ The Intermediate Designer is a [grade 6](https://about.gitlab.com/handbook/total
 
 - Set the brand of GitLab
 - Design a coherent brand image (logo's, icons, colors, typography, etc.)
-- Redesign [our static website](/)
+- Redesign [our static website](https://about.gitlab.com)
 - Design our marketing materials
 - Design our swag (t-shirts, stickers, etc.)
 - Design for special occasions (product releases, events, etc.)

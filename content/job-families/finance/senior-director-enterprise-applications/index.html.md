@@ -4,8 +4,8 @@ title: Enterprise Applications
 
 ## Senior Director, Enterprise Applications
 
-The Senior Director, Enterprise Applications, reports to the VP of Information Technology, and leads a team of highly-collaborative and results-oriented IT staff tasked with delivering global, high value IT applications across the company. The Senior Director has the skills, experience, drive and passion to ensure that GitLab has the appropriate IT applications to achieve/exceed corporate objectives; to ensure business alignment with executive team members and sponsors; and to anticipate the needs of the business and scale the team to stay ahead of the curve. This function challenges the status quo; thrives and is successful in a dynamic environment.  
-This team member must be motivated and successful at mentoring by building and sustaining professional relationships at all levels of an organization. The Senior Director has well-honed problem solving and decision making skills, is agile and adaptable, and can effectively manage change. This function is both strategic and tactical, can influence adoption, is results oriented, and has a strong client service orientation. The Senior Director has the reputation for raising the bar in terms of quality and execution.  
+The Senior Director, Enterprise Applications, reports to the VP of Information Technology, and leads a team of highly-collaborative and results-oriented IT staff tasked with delivering global, high value IT applications across the company. The Senior Director has the skills, experience, drive and passion to ensure that GitLab has the appropriate IT applications to achieve/exceed corporate objectives; to ensure business alignment with executive team members and sponsors; and to anticipate the needs of the business and scale the team to stay ahead of the curve. This function challenges the status quo; thrives and is successful in a dynamic environment.
+This team member must be motivated and successful at mentoring by building and sustaining professional relationships at all levels of an organization. The Senior Director has well-honed problem solving and decision making skills, is agile and adaptable, and can effectively manage change. This function is both strategic and tactical, can influence adoption, is results oriented, and has a strong client service orientation. The Senior Director has the reputation for raising the bar in terms of quality and execution.
 
 ### Job Grade
 
@@ -13,26 +13,26 @@ The Senior Director, Enterprise Applications is a [grade 11](https://about.gitla
 
 ### Responsibilities
 
-- Strategic and operational IT Application ownership for the following areas: Finance, HR, Sales, Marketing, Support, and Legal  
-- Drive executive level communication / support for the IT Applications strategy  
-- Partner with key business sponsors / executive stakeholders to deliver high value IT solutions  
-- Drive operational excellence while leveraging KPI's to measure the success/value of the IT Applications team  
-- Develop and maintain relationships with client organizations to ensure their IT Application expectations are being met and priorities are set at the appropriate level.  
-- Develop and manage plan of record for the IT Applications portfolio; while driving culture of delivery to commitments  
+- Strategic and operational IT Application ownership for the following areas: Finance, HR, Sales, Marketing, Support, and Legal
+- Drive executive level communication / support for the IT Applications strategy
+- Partner with key business sponsors / executive stakeholders to deliver high value IT solutions
+- Drive operational excellence while leveraging KPI's to measure the success/value of the IT Applications team
+- Develop and maintain relationships with client organizations to ensure their IT Application expectations are being met and priorities are set at the appropriate level.
+- Develop and manage plan of record for the IT Applications portfolio; while driving culture of delivery to commitments
 
 ### Requirements
 
-- Fifteen+ years’ experience in IT, with ten+ years' experience leading and managing an IT organization or Applications group at a fast growing high technology company.  
-- Excellent change management skills and ability to operate effectively in a fast-paced environment.  
-- Experience with SaaS based solution and cloud architectures.  
-- Demonstrated ability to successfully lead and develop global applications organization in collaboration with overall IT strategy.  
-- Demonstrated strength in contract negotiations, vendor management, and capacity planning in a fast growth environment.  
-- Knowledgeable in compliance and information security.  
-- Current on business applications, trends in IT and experience evaluating/implementing new innovative IT solutions  
-- A process-oriented individual, with substantial project management skills, who has the flexibility to thrive in a fast-paced, dynamic organization.  
-- Candidate must have proven ability to consistently and collaboratively resolve issues, mitigate roadblocks, and meet all financial and management goals on time. Will be a self-starter who maps own direction to succeed.  
-- Excellent team management, coaching, and mentoring skills  
-- Must be comfortable with ambiguity and fast change with an ability to adapt quickly and easily.  
+- Fifteen+ years’ experience in IT, with ten+ years' experience leading and managing an IT organization or Applications group at a fast growing high technology company.
+- Excellent change management skills and ability to operate effectively in a fast-paced environment.
+- Experience with SaaS based solution and cloud architectures.
+- Demonstrated ability to successfully lead and develop global applications organization in collaboration with overall IT strategy.
+- Demonstrated strength in contract negotiations, vendor management, and capacity planning in a fast growth environment.
+- Knowledgeable in compliance and information security.
+- Current on business applications, trends in IT and experience evaluating/implementing new innovative IT solutions
+- A process-oriented individual, with substantial project management skills, who has the flexibility to thrive in a fast-paced, dynamic organization.
+- Candidate must have proven ability to consistently and collaboratively resolve issues, mitigate roadblocks, and meet all financial and management goals on time. Will be a self-starter who maps own direction to succeed.
+- Excellent team management, coaching, and mentoring skills
+- Must be comfortable with ambiguity and fast change with an ability to adapt quickly and easily.
 - Relevant business/industry acumen with the ability to quickly and thoroughly understand business priorities, operations, and IT enablement potential.
 - Ability to use GitLab
 
@@ -55,5 +55,5 @@ Candidates for this position can expect the hiring process to follow the order b
 
 ## Career Ladder
 
-The next step in the Enterprise Applications job family is to move to the [VP of IT](/job-families/finance/VP-Information-Technology) job family.
+The next step in the Enterprise Applications job family is to move to the [VP of IT](/job-families/finance/vp-information-technology) job family.
 

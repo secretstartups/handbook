@@ -50,7 +50,7 @@ The Education Program Manager is a [grade 6](https://about.gitlab.com/handbook/t
 
 #### Education Program Manager Responsibilities
 
-- Run and develop the [GitLab for Education](/solutions/education) program. Increase operational efficiencies and streamline processes.
+- Run and develop the [GitLab for Education](https://about.gitlab.com/solutions/education) program. Increase operational efficiencies and streamline processes.
 - Establish relationships with educational institutions to produce inspirational case studies of their use of GitLab. Showcase Program Member’s success through Case Studies, webinars, blog posts, spotlights, and media campaigns.
 - Build the foundations of a GitLab for Education community and engage with program members.
 - Expand the GitLab for Education program with a learning package to facilitate and incentivize the use of GitLab for Educational purposes.
@@ -136,7 +136,7 @@ The Director, Education is a [grade 10](https://about.gitlab.com/handbook/total-
 - Develop and maintain a content roadmap for enabling GitLab in Education Program Members to teach, learn and conduct research with GitLab.
 - Demonstrate thought leadership in Education.
 - Maintain and evolve a standalone digital publication focused on the role DevOps has in Education. Champion GitLab’s prominence therewithin.
-- Work strategically to build a foundation for DevOps as a discipline by increasing the number of courses, curriculum, and offerings on DevOps.  
+- Work strategically to build a foundation for DevOps as a discipline by increasing the number of courses, curriculum, and offerings on DevOps.
 - Share and promote scientific research and publications using GitLab into mainstream media through press, articles, podcasts, with the goal of translating science to industry and highlighting GitLab’s capabilities.
 - Champion the importance of DevOps workforce development in higher education.
 - Collaboratively work across Corporate Marketing, Strategic Marketing, Learning and Development, Sales, and Product to tell GitLab in Education’s story.
