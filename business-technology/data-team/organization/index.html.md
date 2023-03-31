@@ -56,10 +56,6 @@ classDiagram
         Engineering_Analytics : + Business Partner Data Champion
         Engineering_Analytics : + Function Analyst
         Engineering_Analytics : + Analytics Engineer
-    Enterprise_Data <|-- Platform
-        Enterprise_Data : + Business Partner Data Champion
-        Enterprise_Data : + Function Analyst
-        Enterprise_Data : + Analytics Engineer
     Platform : +Data Engineer
   ```
 
@@ -67,19 +63,15 @@ classDiagram
 
 | Data Fusion Team Name | Data Champion Team | Data Champion Name | Manager, Data | Lead Analytics Engineer | Function Analyst(s) | Analytics Engineer(s) | Data Engineer(s) |
 | --------------------- | ------------------ | ------------------ | ------------- | ----------------------- | ---------------- | --------------------- | ---------------- |
-| **Research and Development Data Fusion** | **Product Analysis** | `@cbraza` | `@iweeks` | `@chrissharp` | `@cbraza` `@eneuberger` `@nicolegalang` `@dpeterson1` `@nraisinghani` `@matthewpetersen` | `@chrissharp` `@tpoole1` `@mdrussell` | `@rbacovic ` |
-|                          | **Customer Success**  | `@jdbeaumont` |           |      `@mdrussell`      |  `@cankney` `@bbutterfield`  |                          |
-|                          | **Business Insights**              | `@statimatla`  |     |         | `@jstemmer1` `@kchen6` `@kkarthikeyan` | 
-| **Go to Market Data Fusion** | **Sales Strategy and Analytics** | `@mvilain` | `@iweeks` | `@michellecooper` | `@nfiguera` `@mvilain` | `@jeanpeguero` `@pempey` | `@paul_armstrong` `@Rigerta` |
-|                          | **Marketing Strategy and Performance**  | `@jahye1` |           |                   | `@rkohnke` `@degan` |                           |                          |
-|                          | **Online Sales and Self-Service**  | `@alex_martin` |           |                   | `@mfleisher` |                          |                          |
-|                          | **Business Insights**              | `@statimatla`  |     |         | `@jstemmer1` `@kchen6` `@kkarthikeyan` |                    |                          |
-| **Financial Analytics Data Fusion** | **Corporate Finance** | `@james.shen` | `@iweeks`  | `@michellecooper` | `None` | `@jeanpeguero` | `@paul_armstrong` |
-|                                 | **Sales Finance**            | `@fkurniadi`               |                   |  |  `@ofalken`    |                   |                |
-|                                 | **Business Insights**        | `@statimatla`     |                   |   |  `@vagrawalg` `@zzhang7`    |                   |                |
-| **Engineering Analytics Data Fusion** | **Engineering Analytics** | `@meks` | `@iweeks`  | `@pempey` | `@lmai1` | `@pempey` |  `@jjstark`   |
-| **General and Administrative Data Fusion** | **People Analytics** | `@aperez349` | `@iweeks`  | `@pempey` | `@aperez349` | `@pempey` |  `@Rigerta`   |
-| **Enterprise Data Fusion** | **All Data Fusion Teams** | `All Data Fusion Leads and Champions ` | `@iweeks`  |  `@snalamaru` | `All Function Analysts` |  `@snalamaru` `@tpoole1` | `TBD`   |
+| **Research and Development Data Fusion** | **Product Data Insights** | `@cbraza` | `@iweeks` | `@iweeks` | `@cbraza` `@eneuberger` `@nicolegalang` `@dpeterson1` `@nraisinghani` `@matthewpetersen` | `@jeanpeguero` `@snalamaru` `@mdrussell` | `@rbacovic ` |
+|  | **Customer Success**  | `@jdbeaumont` |           |      `@mdrussell`      |  `@bbutterfield` `@marntz` |  `@mdrussell`  |    |
+| **Go to Market Data Fusion** | **Sales Strategy and Analytics** | `@aileenlu` | `@nmcavinue` | `@michellecooper` | `@nfiguera` `@mvilain` |  `@chrissharp` | `@paul_armstrong` `@Rigerta` |
+|  | **Marketing Strategy and Analytics**  |  `@christinelee` |     |     | `@jahye1` `@rkohnke` `@degan` |                     |                          |
+|  | **Online Sales and Self-Service**  | `@mfleisher` |           |                   | `@mfleisher` |             |              |
+| **Financial Analytics Data Fusion** | **Corporate Finance** | `@james.shen` | `@nmcavinue`  | `@chrissharp` | `@vagrawalg` `@dgupta5` `@smishra27` | `@chrissharp` | `@paul_armstrong` |
+|  | **GTM Finance**  | `@alixtucker` `@nbernardo`  |   |  |  `@ofalken` `@vagrawalg` `@dgupta5` `@smishra27` `@kkarthikeyan`    |     |                |
+| **Engineering Analytics Data Fusion** | **Engineering Analytics** | `@cdeleon_gitlab` | `@nmcavinue`  | `@pempey` | `@lmai1` `@ddeng1` `@raulrrendon` `@clem.lr` | `@pempey` `@lisvinueza` |  `@jjstark`   |
+| **General and Administrative Data Fusion** | **People Analytics** | `@aperez349` | `@nmcavinue`  | `@pempey` | `@aperez349` `@mccormack514` | `@pempey` `@lisvinueza` |  `@Rigerta`   |
 
 The Data Fusion Team has several leadership roles on the team. These leaders live the GitLab `Collaboration` value and achieve great `Results` while doing so. The Manager, Data, Data Champion, and Lead Analytics Engineer provide leadership, mentoring, and guidance to the Data Fusion Team.
 
