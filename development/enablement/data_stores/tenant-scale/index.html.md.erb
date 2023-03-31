@@ -58,32 +58,10 @@ The following people are permanent members of the Tenant Scale group:
 
 The following members of other functional teams are our stable counterparts:
 
-<table>
-  <thead>
-    <tr>
-      <th>Person</th>
-      <th>Role</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Christina Lohr</td>
-      <td><a href="/job-families/product/product-manager/">Senior Product Manager, Tenant Scale</a></td>
-    </tr>
-    <tr>
-      <td>Mike Nichols</td>
-      <td><a href="/job-families/product/product-designer/">Staff Product Designer, Tenant Scale</a></td>
-    </tr>
-    <tr>
-      <td>Amelia Bauerly</td>
-      <td><a href="/job-families/product/product-designer/">Senior Product Designer, Tenant Scale</a></td>
-    </tr>
-    <tr>
-      <td>Lorena Ciutacu</td>
-      <td><a href="/job-families/product/technical-writer/">Technical Writer, Tenant Scale</a></td>
-    </tr>
-  </tbody>
-</table>
+<%= stable_counterparts(
+  role_regexp: /(Tenant Scale|Principal Engineer, Data Stores|Distinguished Engineer, Ops and Enablement)/,
+  direct_manager_role: 'Engineering Manager, Tenant Scale'
+) %>
 
 ### Team IC Gearing
 
