@@ -19,7 +19,9 @@ canonical_path: "/company/team/structure/working-groups/ai-integration/"
 | Target End Date | TBD                                                                                                                                               |
 | Slack           | [#wg_ai_integration](https://gitlab.slack.com/archives/C04UL8HMW0L) (only accessible from within the company)                                         |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/19jVbWVYUPW3m7d2SzsXa2zXIAW7pSb2tdQ-AXWzT_DE/edit) (only accessible from within the company) |
-| Issue Board     | [Issue Board link TBD]()                                                |
+| Epic/Issue Label | `wg-ai-integration` |
+| Epic search     | [Epic Search](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=wg-ai-integration)            |
+| Issue Board     | [Issue Board link](https://gitlab.com/gitlab-org/gitlab/-/boards/5512012?label_name[]=wg-ai-integration)                                                |
 | Overview & Status | See [Exit Criteria](#exit-criteria) below |
 | Meeting schedule | Tuesdays at 8am Pacific and Thursdays at 1pm Pacific |
 
