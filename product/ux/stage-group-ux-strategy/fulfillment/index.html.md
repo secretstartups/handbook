@@ -17,7 +17,6 @@ description: "The Fulfillment UX team supports the Fulfillment section to provid
 
 - [Jacki Bauer](/company/team/#jackib) ([Jacki's ReadMe](https://gitlab.com/jackib/jacki-bauer/blob/master/README.md)) - Product Design Manager
 - [Emily Sybrant](/company/team/#esybrant) - Product Designer, Billing & Subscription Management
-- [Philip Joyce](/company/team/#philipjoyce) - Senior Product Designer, Purchase
 - [Nick Hertz](/company/team/#nickhertz) - UX Researcher, Fulfillment
 
 ## UX Health
