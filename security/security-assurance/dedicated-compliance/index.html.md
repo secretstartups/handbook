@@ -14,7 +14,8 @@ title: "Security Compliance, Dedicated Markets Team"
 Our Mission is to advance customer trust with a focus on customers operating in highly regulated industries or who otherwise have unique security and compliance requirements. We will accomplish this mission by:
 
 1. Enabling [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#gitlab-dedicated) to be the most trusted DevSecOps offering in the market, demonstrated by security certifications and attestations.
-1. Applying compliance automation and guardrails to minimize friction and enable development and infrastructure teams.
+1. Achieving and maintaining industry-specific security certifications such as [FedRAMP](sites/handbook/source/handbook/security/security-assurance/dedicated-compliance/fedramp-compliance.html.md) and [FIPS 140-2 compliance](https://docs.gitlab.com/ee/development/fips_compliance.html#fips-compliance) for the U.S. Public Sector.
+1. Applying compliance automation and compliance-as-code guardrails to minimize [toil](https://sre.google/sre-book/eliminating-toil/) and enable product, development, and infrastructure teams.
 1. Use our own product ([dogfooding](https://about.gitlab.com/handbook/values/#dogfooding)) to meet key security controls, improve our offering, and demonstrate to customers how they can do the same.
 
 For more information on the direction of the GitLab Dedicated category, please see [this page](https://about.gitlab.com/direction/saas-platforms/dedicated/).
@@ -56,11 +57,19 @@ We primarily work out of projects in our [Dedicated Compliance team subgroup](ht
 
 ## <i class="fas fa-id-card" style="color:rgb(110,73,203)" aria-hidden="true"></i> Contact the Team
 
+|  Program | DRI | Responsibilities |
+| --- | --- | --- |
+| Security Compliance (Dedicated Markets) team manager | [@corey-oas](https://gitlab.com/corey-oas) | FedRAMP Authorization Program and compliance/certification roadmap for GitLab Dedicated and GitLab Dedicated for U.S. Government) 
+| GitLab Dedicated security compliance | [@dchangkuon](https://gitlab.com/dchangkuon) | Continuous monitoring, gap assessments, and external audit coordination (e.g. SOC 2 Type 2). |
+| FedRAMP Information System Security Officer (ISSO) | [@niben01](https://gitlab.com/niben01) | FedRAMP vulnerability posture reporting, maintaining Plan of Action & Milestone reporting, and deviation requests |
+| FedRAMP Continuous Monitoring Program | [@kbray](https://gitlab.com/kbray) | Continuous monitoring improvements and automation, significant change identification, and compliance documentation maintenance |
+
 * Slack
    * Feel free to tag us with `@dedicated_compliance` or `@sec-compliance-team` to reach the entire Security Compliance team
-   * The #sec-assurance slack channel is the best place for questions relating to our team (please add the above tag)
+   * The `#sec-assurance` slack channel is the best place for questions relating to our team (please add the above tag)
+   * FedRAMP questions should be directed to the `# wg_fedramp` channel
 * Tag us in GitLab
-   * `@gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/team-security-dedicated-compliance`
+   * `@gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance`
 * Email
    * `security-compliance@gitlab.com`
 * Here are our team's GitLab.com [subgroups and projects](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/team-security-dedicated-compliance)
