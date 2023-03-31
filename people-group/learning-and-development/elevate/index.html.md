@@ -65,18 +65,41 @@ Yes, this is a required training for all people leaders at GitLab.
 
 When the program begins, you'll be added to a Slack group that includes all members of your cohort. The naming convention used is `#elevate-cohort-x`. You can also reach out directly to your manager or the Learning and Development team.
 
-### I missed, or cannot attend, a live learning or coaching sessions. What do I do?
+### I missed, or cannot attend, a live learning or groupu coaching. What do I do?
 
-It's a requirement to make up missed sessions within each month to ensure that you're learning each new skill and moving through the program in the appropriate order. Makeup sessions for Live Learning Session and Cohort Group Coaching will be scheduled monthly. **Please reach out proactively to a member of the Learning and Development Team if you need to be included in a makeup session.**
+It's a requirement to make up missed sessions within each month to ensure that you're learning each new skill and moving through the program in the appropriate order. Please make every effort to attend live sessions as scheduled. If a conflict arises for your assigned group coaching session, you can attend with another cohort. **Please reach out proactively to a member of the Learning and Development Team if you cannot attend a session.**
+
+### What if I have already completed the manager challenge? 
+
+The [Manager Challenge](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/) is a past iteration of leadership development at GitLab. We appreciate the time that past manager challenge participations have dedicated to their growth and development. Elevate is the next iteration in our GitLab manager journey, and is still required of manager challenge participants. 
+
+### When I complete this program will I earn a certificate?
+
+Yes! Upon successful completion of the program, including attendance to all required live sessions, asynchronous learning, and assessments, participatns will be awared the GitLab Elevate certification.
+
+### How often will this program run? 
+
+We currently plan for a new group of ~100 people leaders to start this program every 2-3 months. Our goal is that 85% of our people leaders compplete Elevate by the end of FY24.
+
+### Is there opportunity to participate in the program if I am an aspiring manager? 
+
+Due to our priority to certify 85% of our people leaders in FY24, participation by asipiring managers is not currently an option. 
+
 
 ## Supporting your team in Elevate
 
-People Leaders with direct reports who are in a current Elevate cohort have the responsibilities to ensure the program is a success.
+Engaging managers of people leaders in Elevate helps us to:
+
+1. Engage managers and their direct reports in conversations about growth and development
+2. Demonstrate leadership buy-in for manager development
+3. Ensure participants have a line of communication with their manager to ask questions, raise concerns, and organize workload to participate in Elevate
+
+People Leaders with direct reports who are in a current Elevate cohort could be asked to support in the following ways:
 
 1. Notify team members of nomination and participation in Elevate during a 1:1 meeting and/or via Slack. Communications and timeline will be provided by the Learning and Development team.
 1. Disucss the impact and benefits of Elevate during your 1:1. Answer questions that arise using this handbook page and direct further questions to the Learning and Development team.
 1. If/when prompted by the Learning and Development team, follow up with reminders to team members who have missed live sessions or are not responsive to program communications.
-1. Field conversations on a case-by-case basis from team members who express that the timing of their cohort is not right based on workload and/or personal obligations while understanding that this is a mandatory training program for all people leaders in FY24.
+1. Help team members manage their current workload and cohort timing.
 
 
 
