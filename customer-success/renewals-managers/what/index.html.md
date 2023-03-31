@@ -148,7 +148,7 @@ These tactics/motions may not always be approved or appropriate for each risk sc
 1. **Allocate the current risk** to the opportunity (pre-quote using the `Amount` field, post-quote using the quote)
 2. **Categorize the risk** using the `Risk Renewal Category` and `Renewal Forecast Health` field (always red if the opp is at risk) 
 3. **Describe the impact of a successful intervention** in the `Renewal Swing ARR` field
-4. **Articulate the interevention being actioned/requested** in the `Manager Notes` field using the following syntax - 
+4. **Articulate the intervention being actioned/requested** in the `Manager Notes` field using the following syntax - 
     - A. [No action required] - start the notes with this if there is no ask
     - B. [Risk intervention ask/idea] - begin the manager notes with a short phrase describing the intervention tactic, with a *short* summary/context
 4. **Review and prioritize interventions** in your scheduled forecasting calls with the management team. 

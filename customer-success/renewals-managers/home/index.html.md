@@ -9,7 +9,7 @@ title: Renewals Managers
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-<video src="images/GitLab_GR_BANNER_BLK.mp4" width="2000" height="300" controls></video>
+<video src="images/GitLab_GR_BANNER_BLK.mp4" width="725" height="100" controls autoplay></video>
 
 Global Renewals Organization
 ---
