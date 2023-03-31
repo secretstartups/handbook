@@ -15,7 +15,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ## Overview
 
-An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. It is an extension of the account planning process and part of the CSM's regular business rhythm. The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps. The most crucial element in all EBRs is giving the customer stakeholders the time to speak about what matters to them, and creating a framework to enable them to do so.
+An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. It is an extension of the account planning process and part of the CSM's regular business rhythm. The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/meddppicc/#economic-buyer) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps. The most crucial element in all EBRs is giving the customer stakeholders the time to speak about what matters to them, and creating a framework to enable them to do so.
 
 CSMs conduct EBRs with their customers as follows:
 
@@ -38,7 +38,7 @@ From the customer side, these may include:
 
 - [Economic buyer](/handbook/sales/meddppicc/#economic-buyer)
 - [Champion](/handbook/sales/meddppicc/#champion)
-- Executives
+- [Executives](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/#tech-exec-tristan)
 - Managers & leadership responsible for GitLab use case implementation
 - [Key customer personas](/handbook/customer-success/csm/engagement/#customer-personas)
 
@@ -49,7 +49,7 @@ From GitLab, in addition to the account team this may include:
 - Area Sales Manager
 - Sales Area Vice President
 - Other senior leaders, as determined in collaboration with management
-- Subject matter experts for product discussion, as applicable (e.g. [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](/handbook/customer-success/csm/cse/), [Solutions Architect](/handbook/customer-success/solutions-architects/))
+- Subject matter experts for product discussion, as applicable (e.g. [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](/handbook/customer-success/csm/cse/), [Solutions Architect](/handbook/customer-success/solutions-architects/), [Field CTO](/job-families/sales/solutions-architect/#field-cto-responsibilties), [Field CISO](/job-families/sales/solutions-architect/#field-security-officer-responsibilities))
 
 Decisions about who to invite to an EBR are made collectively by the account team with input from their respective managers.
 
@@ -89,7 +89,7 @@ During the next cadence call, the CSM discusses the EBR with the customer contac
 
 [Resources](#resources--materials) to help you with this discussion are available.
 
-It may be beneficial, or even necessary, to follow up on this discussion in other mediums. In addition to the follow-up email after the cadence call, a separate email specifically for the EBR can help keep focus on planning. If there is customer communication via other platforms like Slack or the [collaboration project](/handbook/customer-success/csm/product/#customer-collaboration-project) those are also good vectors for this discussion.
+It may be beneficial, or even necessary, to follow up on this discussion in other mediums. In addition to the follow-up email after the cadence call, a separate email specifically for the EBR can help keep focus on planning. If there is customer communication via other platforms like Slack or the [collaboration project](/handbook/customer-success/csm/customer-collaboration-project/) those are also good vectors for this discussion.
 
 ### Scheduling
 
@@ -131,6 +131,10 @@ An in-person EBR is ideal to maximize the interaction and discussion between par
 - Meetings with customer stakeholders for GitLab use cases to align and enable on use case adoption & value
 
 Sessions should be planned and scheduled in advance, with proactively prepared topics, and managed or coordinated by the CSM. **Open-ended or unstructured sessions (e.g. "office hours") should be avoided.**
+
+##### Travel & Accomodations 
+
+Travel should be booked & planned two weeks prior to the EBR to ensure all client stakeholders and attendees are still confirmed for the day of. Travel and expenses are to be booked through [Navan](/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/). Do a suggested review of the [travel](/handbook/travel/) & [expense](/handbook/finance/expenses/) handbook pages prior to planning. 
 
 #### Cadence call mini-EBR
 
@@ -269,9 +273,8 @@ If you do not plan to conduct the EBR within a reasonable timeframe (discuss thi
 ## EBR Enablement
 
 - A SAE/AE can be a great partner in positioning EBRs. For more on the value of EBRs, with customer examples, please watch [this internal EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
-    - [Deck](https://docs.google.com/presentation/d/1sWj5HJR4IxdOMg7GiuEjlS5GvFYzYdtLW3QsX6IsxCM/edit#slide=id.g20a53d489f_0_213) used in the recording (internal)
     - [Objection handing document](https://docs.google.com/document/d/1WzvklnloC22WffVcLYupLy3kqSsEbHNtcj47xrb07As/) referred to in the recording (internal)
-- Follow [this link](https://gitlab.edcast.com/pathways/CSM-executive-business-reviews) to access the EBR certification on EdCast.
+- Follow [this link](https://levelup.gitlab.com/courses/tam-executive-business-reviews-elearning) to access the EBR eLearning on Level Up.
 - [Chorus Playlist](https://chorus.ai/playlists/741604) gives you access to the recordings of the best CSM calls. The recordings are continuously updated, so keep this playlist bookmarked for best practices.
 
 ## Resources & materials
