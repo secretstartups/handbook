@@ -366,13 +366,13 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday May 17 | **Available** | DRI | Key Review Date | 
 | Thursday May 18 | **Available** | DRI | Key Review Date |  
 | Tuesday May 23 | Product | Product Leadership | May 4 |
-| Wednesday May 24 | Finance | Brian Robins | May 17 |
+| Wednesday May 24 | **Available | DRI | Key Review Date |
 | Thursday May 25 | **Available** | DRI | Key Review Date |  
 | Tuesday May 30 | People | Wendy Barnes | May 24 |
 | Wednesday May 31 |  **Available** | DRI | Key Review Date |
 | Thursday June 1 |  **Available** | DRI | Key Review Date |
 | Tuesday June 6 | **Available** | DRI | Key Review Date |
-| Wednesday June 7 |  **Available** | DRI | Key Review Date |
+| Wednesday June 7 |  Finance | Brian Robins | May 24th |
 | Thursday June 8 |  **Available** | DRI | Key Review Date |
 | Tuesday June 13 | **Available** | DRI | Key Review Date |
 | Wednesday June 14 | **Available** | DRI | Key Review Date |
@@ -395,7 +395,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday July 25 |  **Available** | DRI | Key Review Date |
 | Wednesday July 26 | **Available** | DRI | Key Review Date |
 | Thursday July 27 | IT | Nabitha Rao | July 19 |
-| Tuesday August 1 | Finance | Brian Robins | July 26 |
+| Tuesday August 1 | **Available** | DRI | Key Review Date |
 | Wednesday August 2 | **Available** | DRI | Key Review Date |
 | Thursday August 3 | Development | Christopher Lefelhocz | July 26 |
 | Tuesday August 8 | **Available** | DRI | Key Review Date |
@@ -407,7 +407,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday August 22 | **Available** | DRI | Key Review Date |
 | Wednesday August 23 | **Available** | DRI | Key Review Date |
 | Thursday August 24 |  **Available** | DRI | Key Review Date |
-| Tuesday August 29 |  **Available** | DRI | Key Review Date |
+| Tuesday August 29 |  Finance | Brian Robins | August 23rd |
 | Wednesday August 30| **Available** | DRI | Key Review Date |
 | Thursday August 31 | **Available** | DRI | Key Review Date |
 | Tuesday September 5| **Available** | DRI | Key Review Date |
@@ -416,7 +416,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday September 12 | CRO - Commercial | COMM Leadership | |
 | Wednesday September 13 | **Available** | DRI | Key Review Date |
 | Thursday September 14 | **Available** | DRI | Key Review Date |
-| Tuesday September 19 | Finance | Brian Robins | September 14 | 
+| Tuesday September 19 | **Available** | DRI | Key Review Date | 
 | Wednesday September 20 | Support | Lyle Kozloff, Lee Matos | September 7 |
 | Thursday September 21| **Available** | DRI | Key Review Date |
 | Tuesday September 26 | **Available** | DRI | Key Review Date |
@@ -435,7 +435,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday October 25 | CRO - Enterprise | ENT Leadership |  |
 | Thursday October 26 | **Available** | DRI | Key Review Date |
 | Tuesday October 31 | Product| Product Leadership | October 19 |
-| Wednesday November 1 | Finance | Brian Robins | October 26 |
+| Wednesday November 1 | **Available** | DRI | Key Review Date |
 | Thursday November 2 | **Available** | DRI | Key Review Date |
 | Tuesday November 7 | **Available** | DRI | Key Review Date |
 | Wednesday November 8 |**Available** | DRI | Key Review Date |
@@ -446,6 +446,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Tuesday November 28 | People | Wendy Barnes | November 14 |
 | Wednesday November 29 | **Available** | DRI | Key Review Date |
 | Thursday November 30 |  **Available** | DRI | Key Review Date |
+| Tuesday December 12 | Finance | Brian Robins | November 28th |
 | Wednesday January 3 | Support | Lyle Kozloff, Lee Matos | December 20 |
 | Wednesday January 31 | IT | Nabitha Rao | January 23 |
 | Thursday February 1 | Development | Christopher Lefelhocz | January 24 |
