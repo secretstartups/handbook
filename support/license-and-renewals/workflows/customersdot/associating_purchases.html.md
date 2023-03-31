@@ -32,9 +32,11 @@ ownership change:
 1. Approval from the existing contact
    - If the billing account has different SoldTo and BillTo contacts, we can only accept approval from the existing **SoldTo** contact.
    - The BillTo contact must provide a recent GitLab invoice.
+   - **NOTE** we cannot add the CC of the owner for the customer. They must be able to do it. If we need to contact the owner, please file a new ticket reaching out to the owner.
 1. Prior subscription contract
 1. Recent GitLab invoice (last 12 months)
    - This option is not available for customers who purchased through a reseller. Instead, the reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket. The reseller can then provide the invoice as proof of identity.
+   - **NOTE** we cannot add the CC for the customer. They must be able to do it.
 1. Copy of last loaded license (Self-Managed only) in text format only.
    - Screenshots are not valid
    - To obtain the license code:
@@ -45,7 +47,10 @@ ownership change:
 
 **NOTE:** We do not accept vouches from GitLab Team Members (including Account Owners listed in SFDC) as proof of a customer's association to a subscription.
 
-Please consider using the [Support::L&R::Change Customers Portal Contact](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/Self-Managed/Change%20Customers%20Portal%20Contact.yaml) macro to ask for this information. Be sure to copy the existing CustomersDot contact on the reply.
+Please consider using the [Support::L&R::Change Customers Portal Contact](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/Self-Managed/Change%20Customers%20Portal%20Contact.yaml) macro to ask for this information.
+
+**NOTE** Do _not_ add the existing owner as a CC. The requester would _see_ that
+email address, which would be considered a leak of Personal Data.
 
 ## Add subscription management contact workflow
 
