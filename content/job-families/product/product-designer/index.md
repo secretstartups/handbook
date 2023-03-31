@@ -149,7 +149,7 @@ You’ll spend your time collaborating with a [cross-functional team](http://abo
 helping to implement our [Design System](https://design.gitlab.com/), building comprehensive accessibility
 standards into our workflows, and defining guidelines and best practices that will inform how teams are
 designing and building products. A breakdown of the vision you’ll be helping to deliver within the UX
-Foundation category can be found on our [product direction page](/direction/manage/foundations/).
+Foundation category can be found on our [product direction page](https://about.gitlab.com/direction/manage/foundations/).
 
 #### Foundations Responsibilities
 

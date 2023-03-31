@@ -240,7 +240,7 @@ The [culture](https://about.gitlab.com/company/culture/) here at GitLab is somet
 
 Some of the [benefits](https://about.gitlab.com/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLab team-members are fully remote and receive a "no ask, must tell" paid-time-off policy, where we don’t count the number of days you take off annually. You can work incredibly flexible hours, enabled by our asynchronous approach to [communication](https://about.gitlab.com/handbook/communication/).
 
-Also, every nine months or so, we’ll invite you to our [Contribute](/events/gitlab-contribute/) event.
+Also, every nine months or so, we’ll invite you to our [Contribute](https://about.gitlab.com/events/gitlab-contribute/) event.
 
 ## Career Ladder
 

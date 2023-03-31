@@ -115,7 +115,7 @@ This specialty maps to the [Field Marketing](https://about.gitlab.com/handbook/m
 
 ### Partner and Channel
 
-This specialty maps to the [partner and channel marketing](https://about.gitlab.com/handbook/marketing/channel-marketing/) department at GitLab. The partner and channel specialty covers developing and overseeing the PR strategy, announcements and campaigns related to any [tech partners](m/handbook/marketing/strategic-marketing/partner-marketing/) or channel partners. This includes promotion of key technology integrations and alliances, promotion of key channel partnerships, reviewing partner-led announcements around joining the GitLab Partner Program, and developing proactive partner storylines for press engagements and events. Additionally, this role is responsible for ensuring partner and channel storylines are integrated for a holistic GitLab offering view.
+This specialty maps to the [partner and channel marketing](https://about.gitlab.com/handbook/marketing/channel-marketing/) department at GitLab. The partner and channel specialty covers developing and overseeing the PR strategy, announcements and campaigns related to any <!-- 404 Broken link [tech partners](https://about.gitlab.com/handbook/marketing/strategic-marketing/partner-marketing/) --> tech partners or channel partners. This includes promotion of key technology integrations and alliances, promotion of key channel partnerships, reviewing partner-led announcements around joining the GitLab Partner Program, and developing proactive partner storylines for press engagements and events. Additionally, this role is responsible for ensuring partner and channel storylines are integrated for a holistic GitLab offering view.
 
 ### Product
 

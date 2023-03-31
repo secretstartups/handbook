@@ -2,13 +2,13 @@
 title: Director, IT Operations
 ---
 
-The Director, IT Operations Job Family leads a team of a highly-collaborative and results-oriented IT team members tasked with delivering global IT services across the company. The Director, IT Operations is in charge of scaling, increasing performance, and providing great team member experience in order to help drive forward business success based on world class infrastructure & operations.  
+The Director, IT Operations Job Family leads a team of a highly-collaborative and results-oriented IT team members tasked with delivering global IT services across the company. The Director, IT Operations is in charge of scaling, increasing performance, and providing great team member experience in order to help drive forward business success based on world class infrastructure & operations.
 
 ## Levels
 
 ### Sr. Director, IT Operations
 
-The Sr. Director, IT Operations reports to the [VP, Information Technology](https://about.gitlab.com/job-families/finance/VP-Information-Technology/)
+The Sr. Director, IT Operations reports to the [VP, Information Technology](job-families/finance/vp-information-technology/)
 
 #### Sr. Director, IT Operations Job Grade
 
@@ -51,7 +51,7 @@ The Sr. Director, IT Operations is a [level 11](https://about.gitlab.com/handboo
 
 ## Career Ladder
 
-The next step in the IT Systems Engineer job family is to move to the [VP, IT](/job-families/finance/VP-Information-Technology/) job family.
+The next step in the IT Systems Engineer job family is to move to the [VP, IT](/job-families/finance/vp-information-technology/) job family.
 
 ## Hiring Process
 

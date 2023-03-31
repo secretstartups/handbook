@@ -55,7 +55,7 @@ In order for a PM to deeply understand the problems our users are facing and det
 Producing a lovable product requires more than a deep understanding of the problem. At GitLab, we build lovable products by adhering to our [values](https://about.gitlab.com/handbook/values/). PMs are expected to be the ambassador of the GitLab values by:
 
 - Focusing on [results](https://about.gitlab.com/handbook/values/#results).
-- Embracing [iteration](https://about.gitlab.com/handbook/values/#iteration). This is the secret to GitLab moving fast, as we get constant feedback and maintain forward momentum toward GitLab's huge [vision](/direction/#vision). PMs play a large role in unlocking iteration as a competency.
+- Embracing [iteration](https://about.gitlab.com/handbook/values/#iteration). This is the secret to GitLab moving fast, as we get constant feedback and maintain forward momentum toward GitLab's huge [vision](https://about.gitlab.com/direction/#vision). PMs play a large role in unlocking iteration as a competency.
 - Being [transparent](https://about.gitlab.com/handbook/values/#transparency). This will enable both our development group to contribute and just as important, enable the wider GitLab community to contribute.
 - Being [efficient](https://about.gitlab.com/handbook/values/#efficiency). PMs should advocate for the boring solution, optimize for the right group, be the manager of one, always write things down, so they can help their groups also be efficient.
 - Being [collaborative](https://about.gitlab.com/handbook/values/#collaboration). PMs ultimately don't ship anything on their own. PMs need to be a great teammate so that the development group can produce great work.
@@ -65,7 +65,7 @@ Producing a lovable product requires more than a deep understanding of the probl
 
 It is not sufficient to just know the problems. It is also insufficient to have a solution to the problem that our customers love. PMs also need to ensure that the solution is viable for GitLab.
 
-- PMs participate in and follow the [product development flow](https://about.gitlab.com/handbook/product-development-flow/) so that their development group can consistently release features [every month](/releases/).
+- PMs participate in and follow the [product development flow](https://about.gitlab.com/handbook/product-development-flow/) so that their development group can consistently release features [every month](https://about.gitlab.com/releases/).
 - PMs [determine the tiers of features](https://about.gitlab.com/company/pricing/)
 - PMs ensure that issues that impact GitLab are appropriately [prioritized](https://about.gitlab.com/handbook/product/product-processes/#prioritization)
 - PMs interface with marketing and sales to promote and enable the sale of the product.
@@ -388,7 +388,7 @@ We're looking for product managers who can help us empower our users to leverage
 
 ### Product Intelligence
 
-Are you a PM who loves data? Are you interested in being at the nexus of GitLab's internal product data AND our building out of tools that enable our customers to derive insights from their product usage data? We're looking for a product manager to join our [Analytics section](/direction/analytics/) who can help us mature our product usage data set to enable better decision making across the entire company while also building on top of GitLab's built in Product Analytics capabilities to complete the [outer DevOps loop](/blog/2021/01/20/journey-to-the-outer-loop/).
+Are you a PM who loves data? Are you interested in being at the nexus of GitLab's internal product data AND our building out of tools that enable our customers to derive insights from their product usage data? We're looking for a product manager to join our [Analytics section](https://about.gitlab.com/direction/analytics/) who can help us mature our product usage data set to enable better decision making across the entire company while also building on top of GitLab's built in Product Analytics capabilities to complete the [outer DevOps loop](https://about.gitlab.com/blog/2021/01/20/journey-to-the-outer-loop/).
 
 #### Requirements
 
