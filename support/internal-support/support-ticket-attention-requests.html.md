@@ -76,19 +76,7 @@ Check that the ticket meets basic eligibility for STAR treatment:
 
 ### **Important**
 
-The STAR form is available only during our [Global Support Hours](https://about.gitlab.com/support/#hours-of-operation); outside of these hours the form is disabled.
-
-The following instructions apply to both customer tickets and Internal Requests.
-
->**WARNING:** When starring a US Federal case, **do not** fill in the customer's name, instead populate the `Customer` field with a link to the organization in SFDC.
-
-There are two ways of STAR'ing a ticket:
-
-### Manually via the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/STAR/)
-
-1. Go to the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/STAR/).
-1. Fill out each field. **All of them are required**.
-1. Click `Submit Support Ticket Attention Request`.
+The Zendesk STAR App is available only during our [Global Support Hours](https://about.gitlab.com/support/#hours-of-operation); outside of these hours it will be disabled.
 
 ### Via the Zendesk `STAR` app
 
