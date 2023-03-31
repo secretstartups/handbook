@@ -524,6 +524,7 @@ All exceptions should be documented in a handbook page local to the product grou
 | Create:Editor Team                           | Development    | 3 Staff+   | [Editor Team Page](/handbook/engineering/development/dev/create/editor/#team-ic-gearing) |
 | Engineering Productivity Team                | Quality        | 2 Staff+   | [Engineering Produtivity Team Page](/handbook/engineering/quality/engineering-productivity/#team-ic-gearing) |
 | Secure: DAST Team | Development | 2 Staff+ | [DAST Justification](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/94315) |
+| Create: Source Code                          | Development    | 2 Staff+   | [Issue](https://gitlab.com/gitlab-org/enablement-section/discussions/-/issues/68) |
 
 Enablement obtained a Section level exception as below, and here are the [Justifications, Approval, and Additional Requirements](https://gitlab.com/gitlab-org/enablement-section/discussions/-/issues/34)
 
