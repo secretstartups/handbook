@@ -39,7 +39,7 @@ this workflow.
 1. Add the appropriate labels to the issue or epic:
     1. Add `Support Priority::Categorize` to indicate that GitLab Support wants to see this
      addressed
-    1. Add `Support Interest` to ensure inclusion of issues and epics on various product boards
+    1. Add `Support Priority` to ensure inclusion of issues and epics on various product boards
      and reports that are not priority-based.
     1. If it is impacting a customer's ability to use the GitLab licensing
      functionality successfully, then add `Customer::Impact` and `UX`
