@@ -187,7 +187,7 @@ If the account stays blocked, apply the `Account Verification Failed` and `Delet
 
 #### **Step 2:** Evaluate
 
-Evaluate the answers to the challenge questions that the user has provided using the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#evaluating-challenge-answers) workflow with a data classification of `RED` along with the [Risk Factor Worksheet](https://docs.google.com/spreadsheets/d/1RyPghnls0NbrWQK7-qtlVW9_jj8mQAygX83n96Asxlo/edit) (GitLab internal) for data and privacy requests to confirm if the verification passes or fails.
+Evaluate the answers to the challenge questions that the user has provided using the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#evaluating-challenge-answers) workflow with a data classification of `RED` along with the [Risk Factor](https://internal-handbook.gitlab.io/handbook/support/#risk-factors-for-account-ownership-verification) (GitLab internal) for data and privacy requests to confirm if the verification passes or fails.
 
 - If the verification passes, proceed to [**Step 3:** Create Meta Issue](#step-3-create-meta-issue).
 
