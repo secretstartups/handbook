@@ -287,3 +287,30 @@ Below is some guidance to help CSMs scale their workload:
 ### Scale Accounts
 The Scale Account prioritization model will be defined in FY23Q1.
 
+## Email Templates
+
+The templates provided below can be used for certain outreach efforts to customers to drive engagement. Please note any points in each template that should be personalized and update accordingly.
+
+### Initial customer engagement
+
+**Subject: The Value of Working with a GitLab Customer Success Manager**
+
+> Dear `[CUSTOMER]`,
+> 
+> I hope this email finds you well. I am reaching out to you today as your dedicated Customer Success Manager (CSM) to discuss the value of working with a CSM and how it can benefit you and your business.
+> 
+> As you may know, our primary goal is to help you achieve success with our product or service. As your CSM, I am here to be your trusted advisor and advocate, ensuring that you are getting the most out of our product and that you are satisfied with your overall experience.
+> 
+> Working with a CSM can provide many benefits, including:
+> - Strategic Guidance: I can provide you with insights and best practices to help you optimize your use of our product and get the most value out of it. We can work together to develop a plan to meet your business goals.
+> - Continuous Improvement: I am constantly monitoring your account to ensure that we are delivering the best possible experience. If there are areas where we can improve, I will work with you to identify and address them.
+> - Proactive Support: I am here to ensure that any issues or concerns you may have are addressed promptly and proactively. My goal is to minimize any disruptions and keep your business running smoothly.
+> - Increased ROI: By working closely with me, you can maximize the value you get from our product or service, resulting in a better return on investment.
+> 
+> I am committed to being your partner in success and ensuring that your experience with GitLab is a positive one. If you have any questions or concerns, please don't hesitate to reach out to me. I am always here to help.
+> 
+> Thank you for choosing GitLab, and I look forward to working with you to achieve your business goals.
+> 
+> Best regards,  
+> `[YOUR NAME]`  
+> Your GitLab Customer Success Manager
