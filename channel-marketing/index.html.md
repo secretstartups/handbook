@@ -206,6 +206,38 @@ Check out a [sample microsite](https://learn.gitlab.com/updated-partner-engl).
 *   Joint demand generation campaigns with partners
 *   Partner Sales Engineer/Solution Architect marketing program (to become advocates of GitLab)
 
+## Channel Partner Program Participation Overview
+
+Channel Partners can enroll in multiple Partner Programs including the Microsite, Free Trial and UserEvidence offerings. We keep track of the program participation by updating the Salesforce Activity, which can be reviewed in a [SFDC Report](https://gitlab.my.salesforce.com/00O8X00000963dq). 
+
+Anytime a partner registers to a new program, the Channel Partner Program DRI must complete the following steps to ensure we can accurately report on the program participation:
+
+[Video instructions >](https://youtu.be/ULBMqQh03n8)
+
+1. Identify the Partner Account of the Channel Partner Program
+    
+    1a. Ensure the Account Detail - `Account Record Type` = `Partner`
+    
+    1b. Ensure the GitLab Partner Program Info - `Partner Type` = `Channel`
+
+2. On the Account page layout, go to Open Activities, select a `New Event`
+
+3. In the New Event, add the following:
+
+   3a. Input the Subject: 
+      - `Microsite Program - Partner Site`
+      - `Microsite Program - Sales Site` 
+      - `Free Trial Program - Self Managed` 
+      - `Free Trial Program - SaaS` 
+   
+   3b. Select the `Type` to `Marketing`
+
+   3c. Unselect `Reminder`
+   
+   3d. Save
+
+Note, the subject needs to be an exact match of what's displayed above, otherwise, it will not show up in the SFDC report.
+
 ## Beyond our Team’s Scope
 
 *   Individual partner support, planning, ideation and execution including but not limited to joint demand generation campaigns.  Please work closely with your region’s [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) team and reference linked Handbook pages for self support and field support of these programs.
