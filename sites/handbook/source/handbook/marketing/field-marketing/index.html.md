@@ -663,9 +663,14 @@ The AMER Field Marketing team utilizes [Grubhub](https://www.grubhub.com/) and [
 
 ### [Grubhub](https://www.grubhub.com/)
 
+#### When to use Grubhub
+Grubhub will be utilized for smaller, owned and partner events that will host executive-level registrants. Cost per person to be between $35-$50. 
+
 #### Order Link Sharing 
 
 It is important to note that there is a limit on link sharing when utilizing the Grubhub platform. When registrant information is uploaded to the platform for event preparation, said registrants will receive a **unique, non-sharable link** to place their order.
+
+It is important to note that Grubhub will be utilzed for _post-event meal credit distribution_. The FMM is responsible for taking account of registrants who attend the event and utilizing that list to upload to Grubhub. 
 
 #### Grubhub Portal
 
@@ -705,8 +710,8 @@ _More detailed instructions are listed below._
 
 1. FMM to log into their Grubhub Admin Portal. 
 2. FMM to create a group, naming the group the title of the event. 
-3. FMM to bulk upload registrant information and assign to the created Group.
-4. FMM to create a meal credit for the event, assigning the meal credit with the created group.  
+3. FMM to create a meal credit for the event, assigning the meal credit with the created group.
+4. FMM to bulk upload post-event, _attended_ registrant information and assign to the created Group.  
 5. FMC to bulk remove registrant information once the event has concluded and the invoice has been received (all invoices are sent to FMCs on a monthly cadence).   
 
 #### Creating Group Accounts and Meal Credits 
@@ -804,9 +809,14 @@ What if a user has already registered their email with a personal Grubhub accoun
 
 ### [Pizzatime](https://pizzatime.xyz/) 
 
+#### When to use Pizzatime
+Pizzatime will be utilized for larger, virtual owned events that will host mid to executive-level registrants. Cost per person to be between $20-$40. 
+
 #### Order Link Sharing 
 
 It is important to note that there is no limit on link sharing when utilizing the Pizzatime platform. Meaning, once registrants receive the link to place their order, **they can share it with non-registrants** who can then redeem it for a meal. 
+
+It is important to note that Pizzatime will be utilzed for _pre-event meal credit distribution_. 
 
 #### Pizzatime Training
 
