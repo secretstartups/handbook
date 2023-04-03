@@ -43,7 +43,7 @@ We do not use it to [give performance feedback](/handbook/people-group/360-feedb
 
 The [E-Group](/company/team/structure/#e-group){:data-ga-name="e-group"}{:data-ga-location="body"} does use it for their [Performance Enablement Reviews](/handbook/people-group/learning-and-development/career-development/#performance-enablement-review){:data-ga-name="performance enablement reviews"}{:data-ga-location="body"}
 
-The [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/){:data-ga-name="chief of staff"}{:data-ga-location="body"} initiates and guides the OKR process.
+The [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/){:data-ga-name="chief of staff"}{:data-ga-location="body"} initiates and guides the OKR process.
 
 Watch EVP, Engineering Eric Johnson discuss the power of OKRs from his perspective:
 
