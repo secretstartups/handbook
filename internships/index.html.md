@@ -69,7 +69,7 @@ As an example of an intern position in our job families please review the [Softw
 
 ### Duration and timing
 
-The ideal duration is a minimum of three months. Internships will last no more than six months. The expectation is that interns move to grow into associate or intermediate level engineers ([example](https://about.gitlab.com/job-families/engineering/development/backend/)) at the end of their internship. The review of the level will be performed at the end of the internship.
+The ideal duration is a minimum of three months. Internships will last no more than six months. The expectation is that interns move to grow into associate or intermediate level engineers ([example](https://handbook.gitlab.com/job-families/engineering/development/backend/)) at the end of their internship. The review of the level will be performed at the end of the internship.
 
 An internship can start as soon as both the intern and the company are ready to begin.
 
