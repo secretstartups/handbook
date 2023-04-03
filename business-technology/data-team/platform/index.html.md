@@ -871,8 +871,6 @@ Some of those are:
 1. **X-Ray fitted curves calculation:** Quarterly process that create a table with fitted curves to historical coverage ratios. This data is used within the X-Ray dashboard.
 2. **QTD Pre-Aggregated data for X-Ray and SAE Heatmap:** Daily process to precalculate data aggregations at different levels. This process is much easier to run in Python than with SQL and we will be able to upload the data directly into `Snowflake`.
 
-For future iterations, the Jupyter notebooks will be able to access to gSheets documents, opening the door to automating some of our regular data extracts.
-
 For this, we have implemented a solution consisting of multiple Airflow dags, per schedule.
 
 #### The process, explained
@@ -903,13 +901,51 @@ For that the Sales Analyst can either open an MR directly into the [gitlab-data/
 
 In order to change the desired day of the week/time of these schedules, the Sales Analyst can open an issue on the [gitlab-data/analytics](https://gitlab.com/gitlab-data/analytics) project.
 
-#### Planned (near) future work:
+#### Failure notifications
 
-- Change the folder where the notebooks reside (Noel will provide a new repo for that)
-
-- Send dag failure alerts towards the `#sales-analytics-pipelines` (analytics#14861), so the Sales Analysts can monitor errors with the notebooks
+- Dag failure alerts are sent from Airflow to the `#sales-analytics-pipelines`, so the Sales Analysts can monitor errors with the notebooks
 
 - If the errors seem to be platform-related, the Sales Analyst can reach out to the data platform engineers either via Slack (via the `#data-engineering` channel), or by opening an issue on the [gitlab-data/analytics](https://gitlab.com/gitlab-data/analytics) project
+
+### GSheets & Jupyter Notebooks
+
+A couple of new functions have been added to the Gitlabdata library ([Link to PyPi](https://pypi.org/project/gitlabdata/), [Link to the source code](https://gitlab.com/gitlab-data/gitlab-data-utils/-/tree/master)) to allow reading from and writting to GSheets files. 
+
+#### Reading from GSheets within Jupyter Notebooks
+
+The function is called `read_from_gsheets`([link to function source code](https://gitlab.com/gitlab-data/gitlab-data-utils/-/blob/master/gitlabdata/orchestration_utils.py#L418)) and it accepts a `spreadsheet_id` and a `sheet_name` as parameters, it returns a `dataframe`.
+
+> :warning: The specific sheet should be shared with the relevant `gCloud SERVICE ACCOUNT` user's email account (See System Set Up).
+
+#### Writing to GSheets from Jupyter Notebooks
+
+The function is called `write_to_gsheets`([link to function source code](https://gitlab.com/gitlab-data/gitlab-data-utils/-/blob/master/gitlabdata/orchestration_utils.py#L378)) and it accepts a `spreadsheet_id`, a `sheet_name` and a `dataframe` as parameters.
+
+> :warning: The specific sheet should be shared with the relevant `gCloud SERVICE ACCOUNT` user's email account (See System Set Up).
+
+#### System set up - Remote execution
+
+For production use-cases, a service user has been provided and the credentials are stored in the `Data Team Secure Vault` under `GCP Service Account for Exporting to GSheets`.
+
+> :warning: The specific sheet should be shared with the service account user's email (`data-team-sheets-sa@gitlab-analysis.iam.gserviceaccount.com`)  prior to calling this function, otherwise the account won't be able to write to or read from the sheet.
+
+#### System set up - Local / Team development
+
+For local development, you need to set the `GSHEETS_SERVICE_ACCOUNT_CREDENTIALS` environment variable with the value of your team's `gCloud SERVICE ACCOUNT` Credential (**The actual JSON content should be the value of this environment variable, not the path.**)
+
+This can be done by running the following command in the terminal of your choice: `export GSHEETS_SERVICE_ACCOUNT_CREDENTIALS = 'JSON_CREDENTIAL_CONTENTS'`
+
+To maintain our high standard in security and avoid any potential breaches, it is required that each team requests and manages their own `gCloud SERVICE ACCOUNT`.
+
+The GCP team can support with the creation of the user / GCP project. [Here is an example of the issue to create the Service Account for the Revenue Strategy and Analytics team](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/20769).
+
+The `gCloud SERVICE ACCOUNT` requires  `Google Workspace Delegated Admin` permissions.
+
+> :warning: The specific sheet should be shared with the `gCloud SERVICE ACCOUNT` user's email prior to calling this function, otherwise the account won't be able to write to or read from the sheet.
+
+#### Remaining work
+
+- Update the repository URL for the sales analytics notebooks ([link to issue](https://gitlab.com/gitlab-data/analytics/-/issues/14945))
 
 ## Sales Systems Use-Case: Using the Snowflake API
 
@@ -941,5 +977,3 @@ Below you will find further information regarding our general sending limits:
 * All of our other endpoints have a hard limit of `300` requests per second per account.
  
 > Note that Mailgun reserves the right to change these limits at any time without notice.
-
-
