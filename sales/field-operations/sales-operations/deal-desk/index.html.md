@@ -248,19 +248,37 @@ To calculate ARR, please review the [ARR in Practice](https://about.gitlab.com/h
 
 ### **Zuora Quote Configuration Guide - Standard Quotes**
 
-The following is intended as a step by step guide for opportunity owners or ISR's to learn how to create standard quotes for New Subscriptions, Amendments, and Renewal opportunities. 
+The following is intended as a step by step guide for opportunity owners or ISRs to learn how to create standard quotes for New Subscriptions, Amendments, and Renewal opportunities in CPQ X: Quote Studio. 
+
+#### Additional Quote Studio Enablement Materials
+
+In addition to the step-by-step quoting guides that follow this paragraph, check out these additional quoting resources!
+
+1. [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49)
+2. [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/)
 
 #### New Subscription Quote
 
-Follow this step by step guide for creating a **New Subscription** quote. Use a New Subscription quote when the customer is purchasing a brand new subscription, OR if the deal structure includes a Contract Reset. 
+Follow this step by step guide for creating a **New Subscription** quote in Quote Studio. Use a New Subscription quote when the customer is purchasing a brand new subscription, OR if the deal structure includes a Contract Reset. 
 
 A.  Open the New Business opportunity and click the **“New Quote”** button.
 
-B.  When prompted **select “New Subscription”** and click “Next.”
+B.  This button launches the first of two pages in the quoting experience: The Billing Accounts and Subscriptions page. You have two options to create a new subscription quote on this page: 
 
-C.  Provide Quote, Account, and Subscription Term Details and click “Next.”
+  - If the customer has an existing Billing Account, and you intend to sell a new subscription using the same Sold To Contact listed under the Billing Account, select the applicable Billing Account and click "New Quote."
+  - If the customer does not have an existing Billing Account, or if the Sold To Contacct you intend to use is not listed under one of the existing Billing Accounts, click "New Billing Account."
 
-*   Select a Quote Template
+C.  On this second and final page of the quoting experience, populate Quote Detail Information. 
+
+  - The following fields must be populated to successfully create a quote:
+    - Start Date (this is the first day the license will be usable)
+    - Initial Term (this is the term of the subscription in months)
+    - Renewal Term (this is the term that the subscription will renew for after the Initial Term is complete)
+    - Quote Template 
+    - Bill To Contact 
+    - Sold To Contact 
+
+*   Selecting a Quote Template
 
 | Template                            | Use For                                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -282,19 +300,23 @@ C.  Provide Quote, Account, and Subscription Term Details and click “Next.”
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
 *   **Select “Sold To” and “Bill To” contacts.** Note that the “Sold To” contact will receive the EULA or License file via email. Note: Each contact record must have a complete address, if the address is not fully populated, you will need to update this before you can proceed with the quote. 
-*   For **Channel deals,** populate the “Invoice Owner”, "Invoice Owner Contact" and "Resale Partner" fields. For **Direct Deals** leave "Invoice Owner", "Invoice Owner Contact" and "Resale Partner" blank. 
-    *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany. The Billing Account on the Partner Account lists the contact associated with that account, so that contact should be used as the Invoice Owner Contact. If that contact does not exist on the Partner Account as a Contact Record yet, you may need to create it.
-    *   If an "Invoice Owner" does not auto-populate in the drop down, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` and the Partner Account Owner listed on the Partner Account Record and ask for a Billing Account to be created. 
-    *   The "Resale Partner" field should be populated with the Partner Account of the Reseller transacting (please note a partner may have both a Customer and Partner Account Record, the Partner Account must be selected. Check the “Account Record Type” field on an account to identify whether it is Customer or Partner account.).
-
+*   For **One-Tier Reseller or MSP deals,** populate the “Invoice Owner”, "Invoice Owner Contact" and "Resale Partner" fields. For **Distrbutor deals,** populate the “Invoice Owner”, "Invoice Owner Contact", "Resale Partner" and "Distributor" fields. For **Direct Deals** leave "Invoice Owner", "Invoice Owner Contact," "Resale Partner," and "Distributor" fields blank.
+    *   "Invoice Owner" and "Invoice Owner Contact" should reflect the account and contact of the party being quoted by GitLab. This means we should leverage the Resale Partner's Billing Account and Billing Account Contact for One-Tier Reseller and MSP deals, and the Distributor's Billing Account and Billing Account Contact for Distributor deals.
+    *   Search for the Partner Account Name in the "Invoice Owner" field to select the Billing Account for the partner. If there are no results matching the partner account, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` and the Partner Account Owner listed on the Partner Account Record and ask for a Billing Account to be created. 
+    *   "Invoice Owner Contact"
+        *   The Billing Account on the Partner Account lists the accounts payable contact information associated with that account (refer to "Contact Information" section on the billing account), so that contact should be used as the "Invoice Owner Contact". If that contact does not exist on the Partner Account as a Contact Record, please create the contact using the following naming convention "[Partner Account Name] - Accounts Payable".
+        *   Ensure that the "Invoice Owner Contact" is connected to the Partner Account record and matches the contact information from the partner's Billing Account (i.e., Invoice Owner).
+    *   The "Resale Partner" field should be populated with the Partner Account of the Reseller or MSP transacting (please note a partner may have both a Customer and Partner Account Record, the Partner Account must be selected. Check the “Account Record Type” field on an account to identify whether it is Customer or Partner account).
+    *   For deals through distribution, the "Distributor" field should be populated with the Distributor Account of the Distributor transacting (for all Distributor Deals, you must also populate Resale Partner).
 *   Populate **“Initial Term”** in months. (i.e. for a two-year deal, enter “24”). For standard deals, "Initial Term" should always match the SKU that you are quoting (i.e. Premium - 2 Year = Initial Term 24 Months). 
 *   If the customer or reseller is based in the EU, enter the “VAT ID” number. This is required to book the order. 
 
 *   Note: Non-standard payment terms (Net 30 = standard) should be reflected on the quote object, and will require approval per the approval matrix.
 
-D.  Select **“Add Base Products”** from the drop-down menu on the “Edit Products and Charges” page. Select the correct product and click Next.
+D.  **To Add Products to your quote,** locate the search bar between "Subscription" and "Browse Products" at the bottom of the page, and search for the Product SKU you would like to sell. Once you have located the correct Product SKU, click the circular + button to add that product to the quote. Repeat this process to add additional Product SKUs. 
 
-E.  Enter the product quantity, and adjust the discount or effective price as needed. Click Submit.
+E.  EntFor each Product SKU you have added to the quote, edit Quantity, Discount, and/or Effective Price as desired. **After you have correctly configured Product SKUs, you can click "Preview Metrics" to preview the quote total while still in draft mode. Once you are ready to save the quote, click "Submit" at the top of the screen.**
+
 *   For **Channel deals**, see this [cheat sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit#heading=h.9e3o7yaxw8mu) to confirm correct discounts to apply. Partner discounts must be added in addition to any customer discounts and required approvals must be received by submitting the quote in the system, per the quote approval matrix. If there are no customer discounts and standard partner program discounts are used, additional quote approvals will not be required. Chatter `@Partner Operations` for questions.
 
 F.  **Add Annual Payments** to a order form by:
@@ -311,46 +333,68 @@ H.  **Order Form Generation**
 *   **Order Form Manual Edits**
     *   Please note that Sales reps may only generate PDF versions of the Order Form. If you require special wording or other manual edits, please make the request by tagging `@Sales-Support` in chatter. 
 
-**To supplement these steps, review the [THIS TRAINING VIDEO](https://youtu.be/XqQC65-vJws) to see each step live for a New Subscription quote.**
-
-**Note:** If you cannot view the video, make sure you are logged in to GitLab Unfiltered. You can [learn more about how to log in or request access to GitLab Unfiltered here!](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) 
+**To supplement these steps, review the [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49) or the [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/) to see each step live for a New Subscription quote.**
 
 
 #### Amend Subscription Quote
 
+The following is intended as a step by step guide for opportunity owners or ISRs to learn how to create standard quotes for amendments in CPQ X: Quote Studio. 
 
-This quote type should only be used when **new users are being added to an existing subscription during the current subscription term.** This includes any scenario where the products are being changed during the term - i.e., an upgrade from Premium to Ultimate. Please note: Amendment quotes **cannot** extend a subscription term. 
+This quote type should only be used when **new users are being added to an existing subscription during the current subscription term** or when **you are changing or adding products during the current subscription term.** Please note: Amendment quotes **cannot** extend a subscription term. 
 
 Add On Opportunity should be Closed-Won before submitting a Renewal opportunity for approval.
+
+#### Additional Quote Studio Enablement Materials
+
+In addition to the step-by-step quoting guides that follow this paragraph, check out these additional quoting resources!
+
+1. [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49)
+2. [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/)
+
 
 #### **A.  Add-On Quote Creation**
 
 *   Create the Add-on opportunity on the latest closed won annual opp (Renewal or New Business) that is related to that subscription (use the "New Add On Opportunity" button)
 *   Fill out all required fields on the opportunity level (i.e Close date) and save.
 *   Open the Add-On opportunity and click the **“New Quote”** button.
-*   Select the **existing billing account**.
-*   When prompted **select “Amend Existing Subscription for this Billing account**, and select the appropriate subscription. 
-*   Note: If there are multiple billing accounts or subscriptions available, select the "+" sign to reveal subscription detials to help make your selection.
+*   Select the **applicable billing account**.
+*   Next, locate the subscription you would like to amend. If you are unsure which subscription to amend, click on the blue subscription name (i.e. A-S00263985) - this will open a new window that details that subscriptions products, quantities, pricing, etc.
+*   Click the pencil icon to amend that subscription.
+*   Note: If there are subscriptions available, click on the subscription name to open the subscription information and review the dates, products, and pricing of that subscription.
 *   If you are still unable to determine which to choose, please ask @Sales-Support via Chatter to help confirm. and click “Next.”
+*   On this second and final page of the quoting experience, populate Quote Detail Information. 
 
-* Select a Quote Template  ** Amendments must transact through the same route to market as the original order.  
+- The following fields must be populated to successfully create a quote:
+    - Start Date (this is the first day the license will be usable)
+    - Initial Term (this is the term of the subscription in months)
+    - Renewal Term (this is the term that the subscription will renew for after the Initial Term is complete)
+    - Quote Template **(Amendments must transact through the same route to market as the original order)**
+    - Bill To Contact 
+    - Sold To Contact 
 
-    
 *   The **Start Date** cannot be set before the subscription start date.
     *   The **End Date** will automatically be set to co-terminate with the existing subscription.
     *   The **Initial Term** is automatically updated to reflect the initial term of the original New Business or Renewal subscription which is being amended by this quote.**Please do not override the automatically populated Initial Term on Amend Subscription quote objects**  (i.e. if you’re amending the quote halfway through a 12 month term, the Initial Term should be 12, not 6.)
     *   The **GitLab Entity** must be the same as it was on the initial deal you’re amending.
-    *   For **Channel deals,** populate the “Invoice Owner”, “Invoice Owner Contact” and "Resale Partner" fields. For **Direct Deals** leave "Invoice Owner", "Invoice Owner Contact" and "Resale Partner" blank. 
-        *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany. The Billing Account on the Partner Account lists the contact associated with that account, so that contact should be used as the Invoice Owner Contact. If that contact does not exist on the Partner Account as a Contact Record yet, you may need to create it.
-        *   If an "Invoice Owner" does not auto-populate in the drop down, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` and the Partner Account Owner listed on the Partner Account Record and ask for a Billing Account to be created. 
-        *   The "Resale Partner" field should be populated with the Partner Account of the Reseller transacting (please note a partner may have both a Customer and Partner Account Record, the Partner Account must be selected. Check the “Account Record Type” field on an account to identify whether it is Customer or Partner account.).
+    *   For **One-Tier Reseller or MSP deals,** populate the “Invoice Owner”, "Invoice Owner Contact" and "Resale Partner" fields. For **Distrbutor deals,** populate the “Invoice Owner”, "Invoice Owner Contact", "Resale Partner" and "Distributor" fields. For **Direct Deals** leave "Invoice Owner", "Invoice Owner Contact," "Resale Partner," and "Distributor" fields blank.
+        *   "Invoice Owner" and "Invoice Owner Contact" should reflect the account and contact of the party being quoted by GitLab. This means we should leverage the Resale Partner's Billing Account and Billing Account Contact for One-Tier Reseller and MSP deals, and the Distributor's Billing Account and Billing Account Contact for Distributor deals.
+        *   Search for the Partner Account Name in the "Invoice Owner" field to select the Billing Account for the partner. If there are no results matching the partner account, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` and the Partner Account Owner listed on the Partner Account Record and ask for a Billing Account to be created. 
+        *   "Invoice Owner Contact"
+            *   The Billing Account on the Partner Account lists the accounts payable contact information associated with that account (refer to "Contact Information" section on the billing account), so that contact should be used as the "Invoice Owner Contact". If that contact does not exist on the Partner Account as a Contact Record, please create the contact using the following naming convention "[Partner Account Name] - Accounts Payable".
+            *   Ensure that the "Invoice Owner Contact" is connected to the Partner Account record and matches the contact information from the partner's Billing Account (i.e., Invoice Owner).
+        *   The "Resale Partner" field should be populated with the Partner Account of the Reseller or MSP transacting (please note a partner may have both a Customer and Partner Account Record, the Partner Account must be selected. Check the “Account Record Type” field on an account to identify whether it is Customer or Partner account).
+        *   For deals through distribution, the "Distributor" field should be populated with the Distributor Account of the Distributor transacting (for all Distributor Deals, you must also populate Resale Partner).
         *   **We cannot change route to market through an Amendment quote**. If the original order was sold Direct, all subsequent amendments must also be Direct. If it was initially sold through a Partner, all amendments must go through the same partner for the duration of the subscription. 
-    *   If the customer or reseller is based in the EU, enter the “VAT ID” number. This is required to book the order.
+    *  If the customer or reseller is based in the EU, enter the “VAT ID” number. This is required to book the order.
     *  If there is a **signed MSA** between the customer and GitLab, the **“MSA Effective Date” field** should be populated with the date of the MSA’s signature. If "MSA Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms.
-*   Under the **Edit Products and Charges** page, increase the existing license quantity to reach your total - i.e. enter the new total license count. This page will show all currently licensed products (marked “Original”), but the Order Form that generates will only show the added quantity and amount for the pro-rated period. 
-    * If the product has been amended multiple times during a subscription period, the product will display multiple lines with each quantity of the product shown.  In this instance, **only modify one line with the new quantity**. Do not modify multiple lines.  Additional [information can be found here](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/financeops/-/wikis/Zuora-CPQ-Legacy-UI:-Limitations). 
+
+*   **To add, remove, or edit Product SKUs on the quote,** locate the search bar between "Subscription" and "Browse Products" at the bottom of the page, and search for the Product SKU you would like to add. Once you have located the correct Product SKU, click the circular + button to add that product to the quote. Repeat this process to add additional Product SKUs. You can also remove a Product SKU by clicking on the trash can icon under the SKU name. 
+
+*   For each Product SKU you have added to the quote, edit Quantity, Discount, and/or Effective Price as desired. **After you have correctly configured Product SKUs, you can click "Preview Metrics" to preview the quote total while still in draft mode. Once you are ready to save the quote, click "Submit" at the top of the screen.**     
+
+*   Note: If a product has been amended multiple times during a subscription period, the product will display multiple lines with each quantity of the product shown.  In this instance, **only modify one line with the new quantity**. Do not modify multiple lines.  Additional [information can be found here](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/financeops/-/wikis/Zuora-CPQ-Legacy-UI:-Limitations). 
 *   **To add users to the existing subscription at a different price or discount**, the new user licenses should be added as a separate product line. 
-*   **True-Ups:** NOTE: The true-up SKU does not add users to the license - it's simply a retroactive one time charge. If you are conducting a quarterly or semi annual true-up for a customer with our former percentage-based fee schedule, do not use the true-up SKU unless the true-up is in conjunction with their renewal and the customer will be renewing for less users. Instead, you should add users using an appropriately priced subscription product SKU. If you are quoting true-up users, click “Add Products” and wait for the next page to load. Then, click “Select” and choose “Add Add-On Products.” Select True-Up and click Next. Edit the quantity and effective price. Click “Submit.”
+*   **True-Ups:** NOTE: The true-up SKU does not add users to the license - it's simply a retroactive one time charge. If you are conducting a quarterly or semi annual true-up for a customer with our former percentage-based fee schedule, do not use the true-up SKU unless the true-up is in conjunction with their renewal and the customer will be renewing for less users. Instead, you should add users using an appropriately priced subscription product SKU. If you are quoting true-up users, search for the applicable True-Up SKU and add it to the quote. Edit the quantity and effective price. Click “Submit.”
 *   **Order Form Generation**
     *   If no discounts or special terms are requested, click “Generate PDF.”
     *   If the deal contains discounts that require approval, please submit the quote for approval using the button on the quote. The quote must be approved before the PDF can be generated.
@@ -371,19 +415,14 @@ Add On Opportunity should be Closed-Won before submitting a Renewal opportunity 
 #### **B.  Upgrade or Switch Products During the Subscription Term**
 *   Create an “Amend Subscription” quote by following the steps in Section 2 (A) above.
     *   The **Start Date** should be the date of the product exchange. 
-    *   On the **Edit Products and Charges** page, select “Add Products” and wait for the next page to load.
-    *   Click “Select” and click “Add Base Products.”
-    *   Select the **new** product type, and the correct SKU. Click Next.
-    *   Select the **Remove** drop down button (which is not fully visible) next to the current product, which you are removing in lieu of the new product.
+    *   In the Product search bar, search for the **new** product type, and add the correct SKU.
+    *   Remove the prior existing product by clicking on the trash can icon under that Product's Name. 
     *   Adjust the new product line - quantity, discount. Click “Submit.”
     *   Note: On the Order Form, the product being removed will display with a negative amount reflecting the credit for that product for the remainder of the subscription term.
     *   Mid-term product upgrade can only be processed via the same route to market.
 
 
-**To supplement these steps, review [THIS TRAINING VIDEO](https://youtu.be/iTVbggacglo) to see each step live for an Amendment Quote:**
-
-**Note:** If you cannot view the video, make sure you are logged in to GitLab Unfiltered. You can [learn more about how to log in or request access to GitLab Unfiltered here!](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) 
-
+**To supplement these steps, review the [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49) or the [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/) to see each step live for a New Subscription quote.**
 
 #### Renew Subscription Quote
 
@@ -396,44 +435,88 @@ Important:
      - Contract reset (aka early renewal)
      - Customer has lost access or customer decided to renew after 30 days (this is the only scenario where a gap is allowed between renewals)
 
+#### Additional Quote Studio Enablement Materials
+
+In addition to the step-by-step quoting guides that follow this paragraph, check out these additional quoting resources!
+
+1. [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49)
+2. [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/) 
+
 ##### **A. Standard Renewal**
+
+The following is intended as a step by step guide for opportunity owners or ISRs to learn how to create standard quotes for renewals in CPQ X: Quote Studio. 
+
 *   Open the Renewal opportunity and click the **“New Quote”** button.
-*   Select the **existing billing account.**
-*   When prompted **select “Renew Existing Subscription for this Billing account,** and select the appropriate subscription. 
+*   Select the **applicable billing account**.
+*   Next, locate the subscription you would like to renew. If you are unsure which subscription to renew, click on the blue subscription name (i.e. A-S00263985) - this will open a new window that details that subscriptions products, quantities, pricing, etc.
     *   Note: If there are multiple billing accounts or subscriptions available, and you are unable to determine which to choose, please ask @Sales-Support via Chatter.
-*   Select a Quote Template from the options above
+*   Click the curved arrow renew icon to remew that subscription.
+*   Note: If there are subscriptions available, click on the subscription name to open the subscription information and review the dates, products, and pricing of that subscription.
+
+
+*   On this second and final page of the quoting experience, populate Quote Detail Information. 
+- The following fields must be populated to successfully create a quote:
+    - Renewal Term (this is the term that the subscription will renew for after the Initial Term is complete)
+    - Quote Template **(Amendments must transact through the same route to market as the original order)**
+    - Bill To Contact 
+    - Sold To Contact 
 
 *   The **Start Date** cannot be edited. This will be the true renewal date.
     *   The **End Date** will automatically be determined by the Renewal Term.
     *   Populate **“Renewal Term”** in months. (i.e. for a two-year renewal, enter “24”)
-    *   For **Channel deals**, populate the “Invoice Owner”, “Invoice Owner Contact” and "Resale Partner" fields. For **Direct Deals** leave "Invoice Owner", "Invoice Owner Contact" and "Resale Partner" blank. 
-        *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany. The Billing Account on the Partner Account lists the contact associated with that account, so that contact should be used as the Invoice Owner Contact. If that contact does not exist on the Partner Account as a Contact Record yet, you may need to create it.
-        *   If an "Invoice Owner" does not auto-populate in the drop down, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` and the Partner Account Owner listed on the Partner Account Record and ask for a Billing Account to be created. 
-        *   The "Resale Partner" field should be populated with the Partner Account of the Reseller transacting (please note a partner may have both a Customer and Partner Account Record, the Partner Account must be selected. Check the “Account Record Type” field on an account to identify whether it is Customer or Partner account.).
+
+    *   For **One-Tier Reseller or MSP deals,** populate the “Invoice Owner”, "Invoice Owner Contact" and "Resale Partner" fields. For **Distrbutor deals,** populate the “Invoice Owner”, "Invoice Owner Contact", "Resale Partner" and "Distributor" fields. For **Direct Deals** leave "Invoice Owner", "Invoice Owner Contact," "Resale Partner," and "Distributor" fields blank.
+        *   "Invoice Owner" and "Invoice Owner Contact" should reflect the account and contact of the party being quoted by GitLab. This means we should leverage the Resale Partner's Billing Account and Billing Account Contact for One-Tier Reseller and MSP deals, and the Distributor's Billing Account and Billing Account Contact for Distributor deals.
+        *   Search for the Partner Account Name in the "Invoice Owner" field to select the Billing Account for the partner. If there are no results matching the partner account, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` and the Partner Account Owner listed on the Partner Account Record and ask for a Billing Account to be created. 
+        *   "Invoice Owner Contact"
+            *   The Billing Account on the Partner Account lists the accounts payable contact information associated with that account (refer to "Contact Information" section on the billing account), so that contact should be used as the "Invoice Owner Contact". If that contact does not exist on the Partner Account as a Contact Record, please create the contact using the following naming convention "[Partner Account Name] - Accounts Payable".
+            *   Ensure that the "Invoice Owner Contact" is connected to the Partner Account record and matches the contact information from the partner's Billing Account (i.e., Invoice Owner).
+        *   The "Resale Partner" field should be populated with the Partner Account of the Reseller or MSP transacting (please note a partner may have both a Customer and Partner Account Record, the Partner Account must be selected. Check the “Account Record Type” field on an account to identify whether it is Customer or Partner account).
+        *   For deals through distribution, the "Distributor" field should be populated with the Distributor Account of the Distributor transacting (for all Distributor Deals, you must also populate Resale Partner).
     *   If the customer or reseller is based in the EU, enter the **“VAT ID”** number. This is required to book the order.
     *   If there is a **signed MSA** between the customer and GitLab, the **“MSA Effective Date”** field should be populated with the date of the MSA’s signature.
     *   Note: Non-standard payment terms (Net 30 = standard) should be reflected on the quote object, and will require approval per the approval matrix.
-*   Click Next, to enter the Products and Charges page.
-    *   Note: The product lines from the Initial Term are already listed and will be marked “Original.” You may add new products, update the quantity on the original license, or remove the existing license. 
-    * To add users to an existing license at a different price, the new user licenses should be added on a new product line.
+
+*   **To add, remove, or edit Product SKUs on the quote,** locate the search bar between "Subscription" and "Browse Products" at the bottom of the page, and search for the Product SKU you would like to add. Once you have located the correct Product SKU, click the circular + button to add that product to the quote. Repeat this process to add additional Product SKUs. You can also remove a Product SKU by clicking on the trash can icon under the SKU name. 
+
+*   For each Product SKU you have added to the quote, edit Quantity, Discount, and/or Effective Price as desired. **After you have correctly configured Product SKUs, you can click "Preview Metrics" to preview the quote total while still in draft mode. Once you are ready to save the quote, click "Submit" at the top of the screen.**     
+
+*   **Renewal Scenarios**
+    *   For a flat renewal, simply leave the existing Product SKU (marked Original) as is. 
+    *   To add additional users to the existing Product SKU, simply increase the quantity.
+    *   If you want to add additional users at a different Effective Price, leave the existing Product SKU untouched, and instead add a new duplicate Product SKU for the additional users at unique pricing. 
+    *   To add a Product SKU, locate the search bar between “Subscription” and “Browse Products,” and simply search for the product SKU you would like to sell. Click the circular + button to add that product to the quote.
+    *   To remove a Product SKU, click the trash icon associated with the Product SKU. 
+
+
+*   Note: If a product has been amended multiple times during a subscription period, the product will display multiple lines with each quantity of the product shown.  In this instance, **only modify one line with the new quantity**. Do not modify multiple lines.  Additional [information can be found here](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/financeops/-/wikis/Zuora-CPQ-Legacy-UI:-Limitations). 
     *   For **Channel renewals**, please refer to this [cheat sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit#heading=h.9e3o7yaxw8mu) to help identify what discounts and product lines to add for a renewal. Quote approvals may be triggered due to system limitations. 
         *   Partner discounts must be added in addition to any customer discounts and required approvals must be received by submitting the quote in the system, per the quote approval matrix. 
         *   If you have questions about Channel discounts when building a quote, chatter `@Partner Operations` for help.
 
+*   **True-Ups:** NOTE: The true-up SKU does not add users to the license - it's simply a retroactive one time charge that should only be used to account for overages in the prior subscription term. If you are quoting true-up users, search for the applicable True-Up SKU and add it to the quote. Edit the quantity and effective price. 
+    *   Example: If customer A has purchased a 100 user SaaS - Premium subscription previously, and now at renewal they inform you that they overused prior to the renewal by 10 seats, you will need to add an Annual True Up SKU for SaaS - Premium for 10 users. 
+    *   Upgrade at Renewal Example: If customer A has purchased a 100 user SaaS - Premium subscription previously, and now at renewal they are upgrading to SaaS - Ultimate, but they also inform you that they overused prior to the renewal by 10 seats, you will need to add the Annual True Up SKU for SaaS - Premium for 10 users, in addition to adding the SaaS - Ultimate SKU for the customer's license going forward. You should also remove the SaaS - Premium license SKU given that the customer is upgrading to SaaS - Ultimate. 
+
+
 * **Add Annual Payments** to a order form by:
     * Checking "Annual Payments" checkbox on Quote Detail Page.
-    * Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**".
+    * Updating "Renewal Term" to 24, 36, 48, or 60. **If Renewal Term is not updated correctly, the quote will not generate the correct Total**".
     * All Annual Payment quotes **must use the 1 Year Product SKU**. You will see an error message if you select Annual Payments and anything other than the 1 Year SKU.
 
 * **SuperSonics**: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). 
 
 ##### **B. Renewal Using a New Subscription Quote**
 
-If the customer needs to change the Quote Start Date (typically for Billing purposes) at time of Renewal, you will need to build a  New Subscription quote. We will also use a New Subscription quote if the deal includes a Contract Reset. 
+If the customer needs to change the Quote Start Date (typically for Billing purposes) at time of Renewal, you will need to build a New Subscription quote. We will also use a New Subscription quote if the deal includes a Contract Reset. 
 
 *   Open the Renewal opportunity and click the **“New Quote”** button.
-*   Select the **existing billing account.**
-*   When prompted **select “New Subscription for this Billing account,”** and select the appropriate subscription. 
+
+This button launches the first of two pages in the quoting experience: The Billing Accounts and Subscriptions page. You have two options to create a new subscription quote on this page: 
+
+  - If the customer has an existing Billing Account, and you intend to sell a new subscription using the same Sold To Contact listed under the Billing Account, select the applicable Billing Account and click "New Quote."
+  - If the customer does not have an existing Billing Account, or if the Sold To Contacct you intend to use is not listed under one of the existing Billing Accounts, click "New Billing Account."
+
     *   Note: If there are multiple billing accounts or subscriptions available, and you are unable to determine which to choose, please ask @Sales-Support via Chatter.
 *   Fill out the necessary information on the quote per the instruction under the **New Subscription Quote** section above. 
     *   **Note: The Start Date can be later than the original renewal date only if customer has lost access after the renewal grace period. Otherwise no subscription gap is allowed.** 
@@ -443,9 +526,8 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 ##### **C. Late renewal** 
 For information on how to quote late renewals, [see here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#late-renewals) .
 
-**To supplement these steps, review [THIS TRAINING VIDEO](https://youtu.be/kDZJW-ss5j4) to see each step live for an Renewal Quote:**
 
-**Note:** If you cannot view the video, make sure you are logged in to GitLab Unfiltered. You can [learn more about how to log in or request access to GitLab Unfiltered here!](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) 
+**To supplement these steps, review the [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49) or the [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/) to see each step live for a New Subscription quote.**
 
 ##### **Transacting a Separate Add-on Opportunity prior to Renewal**
 Customers and partners may wish to transact an add-on opportunity ahead of their renewal (e.g., within one month of renewal date) to avoid true-ups on the renewal order. Important to note, the add-on opportunity must be closed-won in Salesforce before the renewal quote can be created. This ensures the license count and revenue metrics on the active subscription are updated to reflect the additional seats prior to quoting the renewal opportunity.
@@ -462,6 +544,8 @@ Creating a reseller-direct (i.e., one-tier reseller) quote is very similar to th
 - **Invoice Owner Contact** = Reseller's billing contact (this person will receive the invoice)
 - **Discount** - Programmatic partner discounts for the reseller must be added in addition to any customer discounts applied to the quote. There is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) for use by internal GitLab Team Members for ease of quoting.
 
+Refer to the [Reseller and Distributor step-by-step quoting guide](https://gitlab.highspot.com/items/6412421bfb9e0fdf947cc90a) for further information.
+
 ##### Distributor Quotes
 Creating a distributor (i.e., two-tier distribution) quote is very similar to the process of creating a direct customer and/or reseller-direct quote, where `Sold to Contact` and `Bill to Contact` are still linked to the end-customer account (**Sold to** will receive the license email). The only differences are with the following fields:
 - **Resale Partner** = Reseller's SFDC account
@@ -470,6 +554,8 @@ Creating a distributor (i.e., two-tier distribution) quote is very similar to th
 - **Invoice Owner** = Distributor's billing account 
 - **Invoice Owner Contact** = Distributor's billing contact (this person will receive the invoice)
 - **Discount** - Programmatic partner discounts for distributor and reseller must be added in addition to any customer discounts applied to the quote. There is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) for use by internal GitLab Team Members for ease of quoting.
+
+Refer to the [Reseller and Distributor step-by-step quoting guide](https://gitlab.highspot.com/items/6412421bfb9e0fdf947cc90a) for further information.
 
 ##### MSP Quotes
 A **Managed Service Provider (MSP)** purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer, the end user, is the one using the licenses.
@@ -493,6 +579,8 @@ B. MSP Quote Creation Steps:
   * **Invoice Owner** = Billing Account record of the MSP partner
   * **Invoice Owner Contact** = Billing Account Contact record (this person will receive the invoice) of the MSP partner
   * **Discount** = Programmatic partner discounts for the MSP must be added to the quote. There is a [Partner Discount Cheat Sheet](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) for use by internal GitLab Team Members for ease of quoting.
+
+Refer to the [MSP step-by-step quoting guide](https://gitlab.highspot.com/items/641241c62d511fd525a390e1) for further information.
 
 More details on MSP Deal Registration can be found in the [Partner Ops handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities).
 
@@ -533,15 +621,6 @@ Example- The customer had 100 licensed users and they used 108, the 8-user overu
 
 ![Customer_s_Dashboard_Example](/uploads/f7b584e202c4902a25082ed38e5a69cb/Customer_s_Dashboard_Example.png)
 
-##### New True-Up Selection Flow in Zuora CPQ as of 2021-11-15
-
-To streamline the quoting process, we have created a new product selection step, called "True-ups." When selecting SKUs to add products to a quote, the new True-Up SKUs will display under the third and final page. Previously the "True-up" SKU was displayed under "Add Add On Products."
-
-![Guided Selling](/handbook/sales/images/trueupsguidedselling.png)
-
-On this new Guided Selling "True Ups" screen, you must select the appropriate True-Up SKU, as displayed below:
-
-![Product Selection](/handbook/sales/images/trueupsproductselection.png)
 
 #### Co-Terming
 
@@ -666,9 +745,13 @@ Occasionally an opportunity will require a unique structure that is outside of t
 Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 month subscription before the renewal date. They can also be used if a customer needs to change a billing date or would like to change the term length, mid term. Contract reset can only be requested via the same party that originally purchased the subscription.
 
 *   Open the related open Renewal opportunity and click the **“New Quote”** button.
-*   Select **existing billing account.**
-*   When prompted **select “New Subscription for this Billing account,”** and select the appropriate subscription. 
-    *   Note: If there are multiple billing accounts or subscriptions available, and you are unable to determine which to choose, please ask @Sales-Support via Chatter.
+*   This button launches the first of two pages in the quoting experience: The Billing Accounts and Subscriptions page. You have two options to create a new subscription quote on this page: 
+
+  - If the customer has an existing Billing Account, and you intend to sell a new subscription using the same Sold To Contact listed under the Billing Account, select the applicable Billing Account and click "New Quote."
+  - If the customer does not have an existing Billing Account, or if the Sold To Contacct you intend to use is not listed under one of the existing Billing Accounts, click "New Billing Account."
+
+*   On this second and final page of the quoting experience, populate Quote Detail Information. 
+
     *   Note: When you open the account level, "Subscription section" there is a list of all subscriptions the customer purchased and are active and you can determine the subscriptions and billing account by opening related subscription 
 *   Fill out the necessary information on the quote per the instruction under the New Subscription Quote section above. 
     *   **Note: The Start Date should be the new subscription term’s start date, or the “Early Renewal” date.**
@@ -732,7 +815,55 @@ Customer pays upfront or annually, for all users planned in the ramp schedule.
 
 ##### How to Create a Ramp Deal
 
-To create a Ramp Deal, tag @Sales-Support in chatter on the opportunity. Deal Desk will create the quotes and Order Form. For ramp add-ons, create a new add-on opportunity. **Provide the following information for each ramp period:**
+Below are two sets of insructions: (1) How to amend an existing ramp deal, created before 2023-04-03; and (2) How to create a net new ramp deal via CPQ X: Quote Studio.
+
+###### Additional Ramp Deal Enablement Materials
+
+In addition to the step-by-step quoting guides that follow this paragraph, check out these additional quoting resources!
+
+1. [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49)
+2. [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/)
+
+###### What is a ramp deal?
+
+Ramp Deals are multi-year deals in which products can incrementally vary in price, quantity, or discount over different ramp intervals (time-based periods). This provides customers with the flexibility to negotiate deals aligned to their growing business. 
+
+- Example: Multi-year ramp deal, increasing quantity
+1. Year 1: SaaS - Premium - 1 Year | QTY: 100 | Effective Price: $228 per user per year
+2. Year 2: SaaS - Premium - 1 Year | QTY: 150 | Effective Price: $228 per user per year
+3. Year 3: SaaS - Premium - 1 Year | QTY: 200 | Effective Price: $228 per user per year
+- Example: Multi-year ramp deal, increasing in price
+1. Year 1: SaaS - Premium - 1 Year | QTY: 100 | Effective Price: $200 per user per year
+2. Year 2: SaaS - Premium - 1 Year | QTY: 100 | Effective Price: $214 per user per year
+3. Year 3: SaaS - Premium - 1 Year | QTY: 100 | Effective Price: $228 per user per year
+- Example: Multi-year ramp deal, increasing in both price and quantity
+1. Year 1: SaaS - Premium - 1 Year | QTY: 100 | Effective Price: $200 per user per year
+2. Year 2: SaaS - Premium - 1 Year | QTY: 150 | Effective Price: $214 per user per year
+3. Year 3: SaaS - Premium - 1 Year | QTY: 200 | Effective Price: $228 per user per year
+
+######  About Ramp Deals in Zuora
+
+**Previous State**: Prior to today, ramp deals were requested and created for GitLab customers, but they were unsupported by our systems. Each ramp deal required manual creation of multiple opportunities and quotes by Deal Desk, leading to delays in booking and complicated data tracking.
+
+**Zuora CPQ**: Zuora Ramps provides out-of-the-box functionality that allows sales reps to easily configure a ramp deal themselves from within the UI. This saves time, clicks, and allows for greater utilization of ramp offerings.
+
+######  Ramp Deal Policies
+
+*   Core Requirements
+    *   A Ramp Deal can be created on any New Business or Renewal Subscription - this includes direct purchases, or purchases via channel/alliance partner.
+    *   Amendments to ramp deals must be done as ramp deals, but you cannot turn a non-ramping subscription into a ramp deal via amendment - that can only be done upon renewal.
+*   Term Length Requirements
+    *   A ramp deal can only be created with **annual ramp intervals.** For example, you may sell a 3 year deal that ramps in quantity and/or pricing each year - i.e. Year 1 = 100 users, Year 2 = 150 users, Year 3 = 200 users.
+    *   You may not create ramp deals with shorter intervals - i.e. **we cannot create a 12 month deal for 100 users in the first 6 months, and 150 users for the next 6 months.**
+*   User Count Requirements
+    *   **User count may not decrease over the course of a ramp deal** - i.e. if you sell 100 users in ramp interval 1, you must sell at least 100 users in future ramp intervals. 
+    *   **ARR may not decrease over the course of a ramp deal** - i.e. the interval subtotal may not decrease. If you increase the discount year over year, ensure that the second/third Interval Subtotal is not lower than the prior Interval Subtotal.    
+
+**Opportunities submitted for booking that do not meet these requirements will be rejected by the Order Management team.**    
+
+###### How to amend an existing ramp deal, created before 2023-03-01:
+
+To amend a ramp deal created before 2023-03-01, tag @Sales-Support in chatter on the opportunity. Deal Desk will create the quotes and Order Form. **Provide the following information for each ramp period:**
 *   Start date and term length
 *   Product, quantity, discount
 *   Bill To and Sold To Contact
@@ -742,6 +873,33 @@ To create a Ramp Deal, tag @Sales-Support in chatter on the opportunity. Deal De
 
 On the opportunity, Deal Desk will populate the "Opportunity Category" field with "Ramp."
 
+###### How to create a Ramp Deal via CPQ X: Quote Studio
+
+To create a ramp deal, follow the foundational steps shared in the relevant [New Subscription Quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote), [Amend Subscription Quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), or [Renew Subscription](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote) quote sections above. 
+
+**Quote Detail Section**
+
+- On the Quote Detail page, ensure that Initial Term (if New Business or Amend), or Renewal Term (if Renew) is populated with a multi-year term - i.e. to sell a 24 month New Business ramp deal, ensure Initial Term is populated with 24. 
+- **To create a ramp quote, click on the Ramp toggle button**
+- After entering a multi-year Initial Term or Renewal Term figure and clicking the Ramp button, the Subscription section will display unique ramp intervals for each year of the subscription. 
+  - For example, if you are selling a 3 year ramp deal starting on 2023-04-01, you will see three intervals:
+    - 2023-04-01 - 2024-03-31
+    - 2024-04-01 - 2025-03-31
+    - 2025-04-01 - 2026-03-31
+- Add a Product SKU to the first ramp interval by searching for the Product SKU and pressing the + icon. Once you have added a Product SKU to the first ramp interval, it will automatically be added to subsequent ramp intervals. 
+  - **For ramp deals, always select the "1 Year" SKU**
+- After adding the Product SKU to the first ramp interval, click on each ramp interval to adjust the quantity and/or pricing for each ramp interval.       
+- After successfully configuring the products in each ramp interval, **click through each ramp interval to ensure that it properly reflects the deal you intend to create.**
+  - Keep in mind the policy requirements listed above. **Opportunities submitted for booking that do not meet these requirements will be rejected by the Order Management team.**
+
+To finalize the quote, click "Preview Metrics" to review the total for each ramp interval, as well as the full quote subtotal. To save and load the saved quote, click "Submit." After clicking Submit, Quote Studio will redirect you to the saved Quote. 
+
+Items to Note:
+- The Quote Subtotal will reflect the value of the entire multi-year deal.
+- Ramp quotes should always use the "1 Year" Product SKU.
+- Multi-year Ramp Deals are prepaid by default. For Annual Payments, select the "[Language] - Add Annual Payments" checkbox on the quote.
+
+**To supplement these steps, review the [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49) or the [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/) to see each step live for a New Subscription quote.**
 
 For more information on ARR calculation for Ramp Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals).
 
