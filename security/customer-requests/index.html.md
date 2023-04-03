@@ -25,7 +25,8 @@ This applies to all paying GitLab.com SaaS customers on [Premium or Ultimate](ht
 
 Customer Success Managers (CSMs) and GitLab Support are our customers' main contacts at GitLab. These teams will ensure that the communication with the customer takes place as efficiently as possible, will provide status updates regarding the log request, and ultimately hand out any artefacts that might result from the request to the customer. 
 
-GitLab Support handles non-complex application log requests that are within a 7-day time window from the time of the request.
+GitLab Support handles non-complex application log requests that are within a 7-day time window from the time of the request, and which don't disclose 
+Personal Data, such as user names and IP addresses.
 
 GitLab's Security Incident Response Team handles complex, extensive requests. In order to maximize efficiency and provide results in a timely manner, customers will not be able to interface with the relevant security team directly during these requests. All communication with the customer is channelled through GitLab Support or the dedicated CSM.
 
