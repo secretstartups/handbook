@@ -690,6 +690,8 @@ _If you do not see the Business account page, you are not an assigned Admin user
 
 [Watch Training Video Here](https://www.youtube.com/watch?v=Uh3Kf2VyJ2I) - (Note: You must be logged in to GitLab Unfiltered to view)
 
+[Watch an overview of the Grubhub Ordering Process](https://youtu.be/HrsleE6YMfQ) - (Note: You must be logged in to GitLab Unfiltered to view)
+
 #### Grubhub General Support
 
 - [Grubhub Help Center](https://www.grubhub.com/help/contact-us)
