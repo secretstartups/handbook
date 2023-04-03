@@ -28,7 +28,7 @@ The initial focus of the 2022 Program will be **Data Internship for Learning**, 
 
 ### How Does Data Internship For Learning Work?
 
-The Data Internship for Learning follows [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) guidelines. In addition, given the rapid growth of the Data Team, we seek to partner every Intern with a current [individual contributor](/handbook/engineering/development/dev/training/ic-to-manager/) Data Team member who is interested in exploring their own career development towards a [Leadership](/handbook/people-group/learning-and-development/new-to-leadership/#new-to-leadership-and-management) role, such as a Team Lead specialization or [Data Management](https://about.gitlab.com/job-families/finance/manager-data/) role. In this model, both team members share a commitment to support each other's success. 
+The Data Internship for Learning follows [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) guidelines. In addition, given the rapid growth of the Data Team, we seek to partner every Intern with a current [individual contributor](/handbook/engineering/development/dev/training/ic-to-manager/) Data Team member who is interested in exploring their own career development towards a [Leadership](/handbook/people-group/learning-and-development/new-to-leadership/#new-to-leadership-and-management) role, such as a Team Lead specialization or [Data Management](https://handbook.gitlab.com/job-families/finance/manager-data/) role. In this model, both team members share a commitment to support each other's success. 
 
 At launch in January 2022, **Data Internship for Learning** will be structured as follows:
 - Follows the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning)
@@ -102,7 +102,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 
 #### Requirements
 
-- Familiarity with and Interest in the [Analytics Engineering](https://about.gitlab.com/job-families/finance/analytics-engineer/) job family 
+- Familiarity with and Interest in the [Analytics Engineering](https://handbook.gitlab.com/job-families/finance/analytics-engineer/) job family 
 - BS or MS in data-related fields (statistics, computer science, engineering), but self-learners are also welcome to apply
 - Positive and solution-oriented mindset
 - Comfort working in a highly agile, intensely iterative environment
@@ -132,7 +132,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 
 #### Requirements
 
-- Familiarity with and Interest in the [Data Science](https://about.gitlab.com/job-families/finance/data-science/) job family 
+- Familiarity with and Interest in the [Data Science](https://handbook.gitlab.com/job-families/finance/data-science/) job family 
 - BS or MS in data-related fields (statistics, computer science, engineering), but self-learners are also welcome to apply
 - Working knowledge of SQL
 - Working knowledge of Python (we use Jupyter notebooks to analyse and visualise data)
@@ -160,7 +160,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 
 #### Requirements
 
-- Familiarity with and Interest in the [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer/) job family 
+- Familiarity with and Interest in the [Data Engineering](https://handbook.gitlab.com/job-families/finance/data-engineer/) job family 
 - BS or MS in data-related fields (statistics, computer science, engineering), but self-learners are also welcome to apply
 - Positive and solution-oriented mindset
 - Comfort working in a highly agile, intensely iterative environment

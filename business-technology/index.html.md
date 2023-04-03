@@ -176,7 +176,7 @@ The Business Technology team uses [Rolly](https://gitlab.com/gitlab-com/business
 
 ## Career Opportunities
 
-You can see all of our [job families](https://about.gitlab.com/job-families/finance/) to learn more about the roles in our department. You can see our open positions at [https://jobs.gitlab.com](https://jobs.gitlab.com). 
+You can see all of our [job families](https://handbook.gitlab.com/job-families/finance/) to learn more about the roles in our department. You can see our open positions at [https://jobs.gitlab.com](https://jobs.gitlab.com). 
 
 ### Team Building
 

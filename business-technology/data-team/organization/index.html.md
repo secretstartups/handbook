@@ -77,7 +77,7 @@ The Data Fusion Team has several leadership roles on the team. These leaders liv
 
 ### Manager, Data
 
-In support of the Data Fusion Team, the Manager, Data fulfills the below responsibilities from the [Senior Manager, Data](https://about.gitlab.com/job-families/finance/manager-data/#senior-manager-data) Job Responsibilites:
+In support of the Data Fusion Team, the Manager, Data fulfills the below responsibilities from the [Senior Manager, Data](https://handbook.gitlab.com/job-families/finance/manager-data/#senior-manager-data) Job Responsibilites:
 
 1. Works with the Director, Data and Data Champions to envision and draft Quarterly Objectives, driven by requirements gathered from multiple business partners.
 1. Monitor, measure, and improve key aspects of the Data Fusion Teams.
@@ -100,7 +100,7 @@ In support of the Data Fusion Team, the Data Champion is the `DRI for Data` with
 
 ### Lead Analytics Engineer
 
-In support of the Data Fusion Team, the Lead Analytics Engineer fulfills the below responsibilities from the [Senior Analytics Engineer](https://about.gitlab.com/job-families/finance/analytics-engineer/#senior-analytics-engineer-responsibilities) Job Responsibilites:
+In support of the Data Fusion Team, the Lead Analytics Engineer fulfills the below responsibilities from the [Senior Analytics Engineer](https://handbook.gitlab.com/job-families/finance/analytics-engineer/#senior-analytics-engineer-responsibilities) Job Responsibilites:
 
 1. Own one or more stakeholder relationship in Go To Market, Research & Development, General & Administrative, Financial Analytics, or Engineering Analytics business functions.
 1. Co-DRI of Key Results along with the Manager, Data.
@@ -161,7 +161,7 @@ See [Data Team Internships](/handbook/business-technology/data-team/organization
 
 ## Data Platform
 
-* [Data Engineering Job Family](https://about.gitlab.com/job-families/finance/data-engineer)
+* [Data Engineering Job Family](https://handbook.gitlab.com/job-families/finance/data-engineer)
 
 ```mermaid
   graph LR;
@@ -170,9 +170,9 @@ See [Data Team Internships](/handbook/business-technology/data-team/organization
     supe:sde(Senior Data Engineer)-->supe:fde(Staff Data Engineer);
   end
 
-  click supe:de "https://about.gitlab.com/job-families/finance/data-engineer#data-engineer";
-  click supe:sde "https://about.gitlab.com/job-families/finance/data-engineer#senior-data-engineer";
-  click supe:fde "https://about.gitlab.com/job-families/finance/data-management#staff-data-engineer";
+  click supe:de "https://handbook.gitlab.com/job-families/finance/data-engineer#data-engineer";
+  click supe:sde "https://handbook.gitlab.com/job-families/finance/data-engineer#senior-data-engineer";
+  click supe:fde "https://handbook.gitlab.com/job-families/finance/data-management#staff-data-engineer";
 ```
 
 ### Intermediate and Senior Data Engineer Onboarding Timeline
@@ -185,7 +185,7 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 
 ## Data Analyst
 
-* [Data Analyst Job Family](https://about.gitlab.com/job-families/finance/data-analyst)
+* [Data Analyst Job Family](https://handbook.gitlab.com/job-families/finance/data-analyst)
 
 ```mermaid
   graph LR;
@@ -196,11 +196,11 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
     supe:sda(Senior Data Analyst)-->supe:fda(Staff Data Analyst);
   end
 
-  click supe:ida "https://about.gitlab.com/job-families/finance/data-analyst#data-analyst-intern";
-  click supe:jda "https://about.gitlab.com/job-families/finance/data-analyst#junior-data-analyst";
-  click supe:da "https://about.gitlab.com/job-families/finance/data-analyst#data-analyst";
-  click supe:sda "https://about.gitlab.com/job-families/finance/data-analyst#senior-data-analyst";
-  click supe:fda "https://about.gitlab.com/job-families/finance/data-analyst#staff-data-analyst";
+  click supe:ida "https://handbook.gitlab.com/job-families/finance/data-analyst#data-analyst-intern";
+  click supe:jda "https://handbook.gitlab.com/job-families/finance/data-analyst#junior-data-analyst";
+  click supe:da "https://handbook.gitlab.com/job-families/finance/data-analyst#data-analyst";
+  click supe:sda "https://handbook.gitlab.com/job-families/finance/data-analyst#senior-data-analyst";
+  click supe:fda "https://handbook.gitlab.com/job-families/finance/data-analyst#staff-data-analyst";
 ```
 
 ### Intermediate and Senior Data Analyst Onboarding Timeline
@@ -213,7 +213,7 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 
 ## Data Science
 
-* [Data Science Job Family](https://about.gitlab.com/job-families/finance/data-science)
+* [Data Science Job Family](https://handbook.gitlab.com/job-families/finance/data-science)
 
 ```mermaid
   graph LR;
@@ -221,13 +221,13 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
     supe:ds(Data Scientist)-->supe:sds(Senior Data Scientist);
   end
 
-  click supe:ds "https://about.gitlab.com/job-families/finance/data-science/#data-scientist-intermediate";
-  click supe:sds "https://about.gitlab.com/job-families/finance/data-science/#senior-data-scientist";
+  click supe:ds "https://handbook.gitlab.com/job-families/finance/data-science/#data-scientist-intermediate";
+  click supe:sds "https://handbook.gitlab.com/job-families/finance/data-science/#senior-data-scientist";
 ```
 
 ## Analytics Engineering
 
-### [Analytics Engineering Job Family](https://about.gitlab.com/job-families/finance/analytics-engineer)
+### [Analytics Engineering Job Family](https://handbook.gitlab.com/job-families/finance/analytics-engineer)
 
 ```mermaid
   graph LR;
@@ -237,10 +237,10 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
     supe:fae(Staff Analytics Engineer)-->supe:pae(Principal Analytics Engineer);
   end
 
-  click supe:ae "https://about.gitlab.com/job-families/finance/analytics-engineer#analytics-engineer-intermediate";
-  click supe:sae "https://about.gitlab.com/job-families/finance/analytics-engineer#senior-analytics-engineer";
-  click supe:fae "https://about.gitlab.com/job-families/finance/analytics-engineer#staff-analytics-engineer";
-  click supe:pae "https://about.gitlab.com/job-families/finance/analytics-engineer#principal-analytics-engineer";
+  click supe:ae "https://handbook.gitlab.com/job-families/finance/analytics-engineer#analytics-engineer-intermediate";
+  click supe:sae "https://handbook.gitlab.com/job-families/finance/analytics-engineer#senior-analytics-engineer";
+  click supe:fae "https://handbook.gitlab.com/job-families/finance/analytics-engineer#staff-analytics-engineer";
+  click supe:pae "https://handbook.gitlab.com/job-families/finance/analytics-engineer#principal-analytics-engineer";
 ```
 
 ### Intermediate and Senior Analytics Engineer Onboarding Timeline
@@ -253,7 +253,7 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 
 ## Data Management
 
-* [Data Management Job Family](https://about.gitlab.com/job-families/finance/manager-data)
+* [Data Management Job Family](https://handbook.gitlab.com/job-families/finance/manager-data)
 
 ```mermaid
   graph LR;
@@ -263,10 +263,10 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
     supe:dd(Director, Data)-->supe:sdd(Senior Director, Data);
   end
 
-  click supe:md "https://about.gitlab.com/job-families/finance/manager-data/#manager-data-intermediate";
-  click supe:smd "https://about.gitlab.com/job-families/finance/manager-data/#senior-manager-data";
-  click supe:dd "https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#director-data-and-analytics";
-  click supe:sdd "https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#senior-director-data-and-analytics";
+  click supe:md "https://handbook.gitlab.com/job-families/finance/manager-data/#manager-data-intermediate";
+  click supe:smd "https://handbook.gitlab.com/job-families/finance/manager-data/#senior-manager-data";
+  click supe:dd "https://handbook.gitlab.com/job-families/finance/dir-data-and-analytics/#director-data-and-analytics";
+  click supe:sdd "https://handbook.gitlab.com/job-families/finance/dir-data-and-analytics/#senior-director-data-and-analytics";
 ```
 
 ### Data Manager Onboarding Timeline
