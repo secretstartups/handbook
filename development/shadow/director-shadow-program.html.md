@@ -12,7 +12,7 @@ description: "The development director shadow program provides mentoring, opport
 
 ## Why do we have a Development Director Shadow Program?
 
-As an [Development Director at GitLab](/job-families/engineering/development/management/director/), [Wayne](/handbook/engineering/readmes/wayne-haber/) got massive value out of participating in our [CEO Shadow Program](/handbook/ceo/shadow/) when [he did it in July of 2020](/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
+As an [Development Director at GitLab](https://handbook.gitlab.com/job-families/engineering/development/management/director/), [Wayne](/handbook/engineering/readmes/wayne-haber/) got massive value out of participating in our [CEO Shadow Program](/handbook/ceo/shadow/) when [he did it in July of 2020](/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
 
 Since the launch of the engineering director shadow program in September of 2021, Wayne has received great feedback from the shadows from various departments that have participated (marketing, professional services, development, and customer success).
 
