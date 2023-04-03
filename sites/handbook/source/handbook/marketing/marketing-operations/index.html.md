@@ -33,16 +33,16 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | Person | Role |
 | ------ | ------ |
 | [Christine Lee](https://gitlab.com/christinelee ) | Sr. Director, Marketing Strategy, Operations, and Analytics |
-| [Amy Waller](https://gitlab.com/amy.waller) | [Senior Manager, Marketing Operations](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-manager-marketing-operations) |
-| [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Staff Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#staff-marketing-operations-manager) |
-| [Gillian Murphy](https://gitlab.com/gillmurphy) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
-| [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
-| [Robert Rosu](https://gitlab.com/RobRosu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
-| [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
-| [Salina Tran](https://gitlab.com/stran5) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
-| [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
-| [Evan Mathis](https://gitlab.com/emathis) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
-| [Bryce Weatherford](https://gitlab.com/bweatherford) | [Associate Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) |
+| [Amy Waller](https://gitlab.com/amy.waller) | [Senior Manager, Marketing Operations](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-manager-marketing-operations) |
+| [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Staff Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#staff-marketing-operations-manager) |
+| [Gillian Murphy](https://gitlab.com/gillmurphy) | [Senior Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Robert Rosu](https://gitlab.com/RobRosu) | [Senior Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Senior Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
+| [Salina Tran](https://gitlab.com/stran5) | [Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
+| [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
+| [Evan Mathis](https://gitlab.com/emathis) | [Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
+| [Bryce Weatherford](https://gitlab.com/bweatherford) | [Associate Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) |
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
