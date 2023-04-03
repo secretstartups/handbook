@@ -8,7 +8,7 @@ title: "Tax"
 | ----- | ----- |
 | VP, Tax | Level 12 |
 | Director, Tax(Domestic/International) | Level 10 |
-| Sr. Manager, International Tax (Non US) | Level 9 |
+| Sr. Manager, Tax (Domestic/International) | Level 9 |
 | Manager, Tax (Domestic/International) | Level 8 |
 | Sr Analyst | Level 7 |
 | Analyst | Level 6 |
@@ -68,25 +68,6 @@ The Senior Tax Analyst is a [grade 7](https://about.gitlab.com/handbook/total-re
 - Discretion and respect for confidential information
 - Ability to use GitLab
 
-### Staff Tax Analyst
-
-The Staff Tax Analyst reports to the Manager, Tax.
-
-#### Staff Tax Analyst Job Grade
-
-The Staff Tax Analyst  is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Staff Tax Analyst Responsibilities
-
-- Extends that of the Senior Tax Analyst responsibilities
-
-#### Staff Tax Analyst Requirements
-
-- Strong business judgment applied to tax and finance operational activities
-- Demonstrated experience in mentoring and leading a distributed team
-- Leadership experience in a software or global technology company
-- Proven strategic and tactical vision to lead a high performing team
-
 ### Manager, Tax
 
 The Manager, Tax reports to the Director, Tax.
@@ -106,7 +87,43 @@ The Manager, Tax is a [grade 8](https://about.gitlab.com/handbook/total-rewards/
 - Extends that of the Staff Tax Analyst requirement
 - Demonstration of past mentorship and leadership capabilities
 
-### Senior Manager, International Tax (Non US)
+#### Senior Manager, Global Tax Accounting and Domestic Tax
+
+The Senior Manager, Global Tax Accounting and Domestic Tax reports to the Director,  Global Tax Accounting and Domestic Tax.
+
+### Senior Manager, Global Tax Accounting and Domestic Tax Job Grade
+
+The Senior Manager, Global tax Accounting and Domestic Tax is a grade 9.
+
+### Senior Manager, Global Tax Accounting and Domestic Tax Responsibilities
+
+- Tax Provision: prepare/review quarterly and annual global tax provision including calculating/reviewing current calculation; maintaining deferred tax balances, uncertain tax positions, and tax account roll forward; and other related schedules/memo and disclosures; Experience with corporate income and franchise taxes, credits and incentives, sales/use/withholding taxes 
+- Tax Compliance: Working with service providers to prepare/review of federal, state, and local tax returns including preparing state and local apportionment and state adjustment schedules; preparing and maintaining tax attribute schedules; preparing/reviewing of federal and state income tax estimates and extensions;
+- Tax Forecast: prepare/review quarterly tax forecast
+- Tax Controversy: assist with research and supervision of responses to notices regarding federal, state, and local tax issues; provide support and/or manage IRS and state income/franchise tax audits; maintain proper audit and compliance documentation
+- Project Management: involved in day-to-day projects within the tax team and other functional groups, including finance, human resources, payroll, legal, R&D and IT, as well as external advisors; supervise information gathering for tax provisions and tax returns; assist in the establishment of and ensures adherence to budgets, schedules, work plans, and performance requirements
+- Special Projects: Provide assistance with technical research on various tax issues; and assist in ad hoc/special projects such as IP reorganization and M&A activities
+- Team Development: Assist in developing and mentoring other members of the Tax team.
+
+### Senior Manager, Global Tax Accounting and Domestic Tax Requirements
+
+- Ideal candidate would have Big-4 and multinational company experience
+- Highly organized with great attention to detail
+- Self-starter, with an ability to work independently and as part of a team
+- Ability to multitask and handle a variety of tax assignments in a fast-paced environment including being flexible to geographic time zones
+- Ability to prioritize tasks appropriately, meet deadlines, execute with accuracy and recognize when issues need escalation
+- Strong communication skills (written and verbal) and analytical skills
+- Proficient in Excel, including pivot table and vlookup
+- Responsibilities may require a work schedule that may include working outside of “normal” work hours, in order to meet business demands
+- Experience with ASC 740 is required
+- Preference will be given to candidates with Big 4 experience
+- Bachelor’s degree in Accounting or Business, or an equivalent combination of education and practical experience
+- Strong business judgment applied to tax and finance operational activities
+- Demonstrated experience in mentoring and leading a distributed team
+- Leadership experience in a software or global technology company
+- Proven strategic and tactical vision to lead a high performing team
+
+#### Senior Manager, International Tax (Non US)
 
 The Senior Manager, International Tax (Non US) reports to the Director, International Tax.
 
