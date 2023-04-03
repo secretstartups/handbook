@@ -77,7 +77,6 @@ You can copy/paste this to make sure you don't miss anything:
 ```
 <!-- Select the appropriate subscription and product text below and remove the others (note: do not add them as labels)>
 <!-- Click on ~customer priority:: below to select an appropriate label 1 through 10 with 10 being the highest>
-<!-- Save this comment as an internal note (tick the checkbox above the "Comment" button -->
 
 The following ~customer is interested in this capability 
 
@@ -92,7 +91,6 @@ The following ~customer is interested in this capability
 - Questions:
 - PM to mention:
 - CSM to mention:
-<!-- Be sure to save this comment as an internal note (tick the checkbox above the "Comment" button -->
 ```
 The `~customer priority::*` labels are inputs for the prioritization model powering the customer issue prioritization framework dashboards:
 
