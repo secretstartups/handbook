@@ -68,7 +68,7 @@ Order Management is focused on Opportunity Approvals, License Fulfillment and Su
 - Quote Approval Guidance
 - Opportunities below Stage-5 
 
-Please review our [Job Family](https://about.gitlab.com/job-families/sales/order-management/) for more information regarding the scope of this team. 
+Please review our [Job Family](https://handbook.gitlab.com/job-families/sales/order-management/) for more information regarding the scope of this team. 
 
 ### Who and Where We Are
 

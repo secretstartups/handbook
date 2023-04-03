@@ -17,9 +17,9 @@ Below is a list of the different technical skill sets found on the Sales System 
 
 | Role | Expertise |
 | ------ | ------ |
-| [Business Systems Architect](https://about.gitlab.com/job-families/sales/business-systems-architect/) | Project lead in charge of gathering business requirements from customers and developing them into technical specifications. |
-| [Business Systems Administrator](https://about.gitlab.com/job-families/sales/business-systems-administrator/) | Business analyst experienced in Salesforce.com platform configuration, process automation, and business workflows.   |
-| [Business Systems Engineer](https://about.gitlab.com/job-families/sales/business-systems-engineer/) | Software engineer experienced in Salesforce.com platform APEX development, API based integrations, and the software development life cycle. |
+| [Business Systems Architect](https://handbook.gitlab.com/job-families/sales/business-systems-architect/) | Project lead in charge of gathering business requirements from customers and developing them into technical specifications. |
+| [Business Systems Administrator](https://handbook.gitlab.com/job-families/sales/business-systems-administrator/) | Business analyst experienced in Salesforce.com platform configuration, process automation, and business workflows.   |
+| [Business Systems Engineer](https://handbook.gitlab.com/job-families/sales/business-systems-engineer/) | Software engineer experienced in Salesforce.com platform APEX development, API based integrations, and the software development life cycle. |
 
 ## Technical Documentation
 *  [Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)

@@ -78,7 +78,7 @@ X = indicates the customer conducted the action via self-service.
 
 ## The Self-Service Team
 
-Our team reports into the [VP of Commercial Sales](https://about.gitlab.com/job-families/sales/vp-of-commercial-sales/).
+Our team reports into the [VP of Commercial Sales](https://handbook.gitlab.com/job-families/sales/vp-of-commercial-sales/).
 
 ```mermaid
 graph TD

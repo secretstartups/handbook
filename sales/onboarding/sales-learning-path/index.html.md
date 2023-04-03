@@ -125,13 +125,13 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **Sales Roles (Material, - Handbook - 30 minutes)**
    - Review the sales roles based on the customer segment you will cover.
    - Read the [Handbook](/handbook/sales/)
-   - Read the [Strategic Account Executive (Enterprise) Role Description](https://about.gitlab.com/job-families/sales/enterprise-account-executive/)
-   - Read the [Account Executive (Mid-Market) Role Description](https://about.gitlab.com/job-families/sales/account-executive/)
-   - Read the [Customer Advocate (SMB) Role Description](https://about.gitlab.com/job-families/sales/smb-customer-advocate/)
-   - Read the [Sales Development Representative Role Description](https://about.gitlab.com/job-families/marketing/sales-development-representative/)
+   - Read the [Strategic Account Executive (Enterprise) Role Description](https://handbook.gitlab.com/job-families/sales/enterprise-account-executive/)
+   - Read the [Account Executive (Mid-Market) Role Description](https://handbook.gitlab.com/job-families/sales/account-executive/)
+   - Read the [Customer Advocate (SMB) Role Description](https://handbook.gitlab.com/job-families/sales/smb-customer-advocate/)
+   - Read the [Sales Development Representative Role Description](https://handbook.gitlab.com/job-families/marketing/sales-development-representative/)
 *  **Solutions Architects (Material - Handbook - 15 minutes)**
    - GitLab's Solutions Architects (SAs) are trusted advisors to GitLab prospects and customers during the presales motion, demonstrating how the GitLab application and GitLab Professional Services address common and unique business requirements.
-   - Read the [Solutions Architect Role Description](https://about.gitlab.com/job-families/sales/solutions-architect/)
+   - Read the [Solutions Architect Role Description](https://handbook.gitlab.com/job-families/sales/solutions-architect/)
    - Read about the [Proof of Value Deliverable](/handbook/customer-success/solutions-architects/tools-and-resources/pov)
 *  **Customer Success Managers (Material, - Handbook - 15 minutes)**
    - GitLab's Customer Success Managers serve as trusted advisors to GitLab's customers. This section outlines to CSM role and their key deliverables: Health Checks, Sucess Plans, and Executive Business Reviews.
@@ -141,7 +141,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Read about [Executive Business Reviews in the Handbook](/handbook/customer-success/csm/ebr/)
 *  **Professional Services Engineers (Material - Handbook - 10 minutes)**
    -Professional Services Engineers (PSEs) provide professional services on-site or remote deployment of GitLab technology and solutions as well as training. The PSE will act as the technical representative leading the direct interaction with the customer’s personnel and project teams by rolling out best practices.
-   - Read the [PSE Role job description](https://about.gitlab.com/job-families/sales/professional-services-engineer/)
+   - Read the [PSE Role job description](https://handbook.gitlab.com/job-families/sales/professional-services-engineer/)
    - Read the [Handbook](/handbook/customer-success/professional-services-engineering/)
 *  **Customer Success Handbook (Material - Handbook - 10 minutes)**
    - Skim and bookmark the [Handbook](/handbook/customer-success/)

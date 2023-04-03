@@ -180,7 +180,7 @@ Knowledge x Practice = Capability
     - [Blair Fraser](/company/team/#bfraser) (Sr. Program Manager, Partner Enablement)
     - [Pallavi Daliparthi](/company/team/#pdaliparthi) (Sr. Program Manager, Customer Success Manager Enablement)
     - TBH (Sr. Program Manager, Solution Architect Enablement)
-- **[Director, Revenue Programs](https://about.gitlab.com/job-families/sales/revenue-programs/#director-revenue-programs)**
+- **[Director, Revenue Programs](https://handbook.gitlab.com/job-families/sales/revenue-programs/#director-revenue-programs)**
     - [Allison Gleisner](/company/team/#agleisner) 
 - **[Field Enablement Program Managers](https://handbook.gitlab.com/job-families/sales/program-manager-field-enablement/)**
     - [John Blevins](/company/team/#jblevins608) (Program Manager, Field Onboarding and Continuous Education)
