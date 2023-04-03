@@ -26,7 +26,7 @@ Global Campaigns Managers are responsible for building integrated marketing camp
 
 Regional campaigns managers are responsible for localizing and activating global campaign bundles, prioritizing program mix and delivery channels to support regional revenue goals. They partner with paid digital, ABM, lifecycle, field marketing, product marketing, customer marketing, SDR/BDR and regional sales teams to create integrated go-to-market plans.
 
-[Read the job family here >>](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/)
+[Read the job family here >>](https://handbook.gitlab.com/job-families/marketing/marketing-campaign-manager/)
 
 ### Goals
 {: #goals}
