@@ -94,7 +94,7 @@ The convention at GitLab is to display [Manager](/company/team/structure/#manage
 * `Manager, Brand Growth Manager` in the Marketing Division
 * `Manager, IT` in the Finance Division
 
-To preserve de-facto industry standard role names such as `Engineering Manager` and abbreviations such as `EM`, manager roles in the Engineering Division 
+This convention is used in Workday, the system of record. For display in the handbook and to preserve de-facto industry standard role names such as `Engineering Manager` and abbreviations such as `EM`, manager roles in the Engineering Division 
 generally follow this naming pattern: 
 
 `Engineering Manager, [Specialty]`
@@ -110,7 +110,6 @@ Where:
 - `Senior` manager roles are introduced when needed, usually related to management [span of control](/company/team/structure/#management-group) in the relevant department.
 - Some departments have domain specific role names as well as, or instead of, `Engineering Manager`. Be specific when identifying which manager under Engineering is responsible for certain tasks in order to avoid confusion over the term "EM". For example:
     - `Support Operations Manager` for Support.
-- Specialty can be one or many, and should generally be listed as:
-    - One specialty: ", Specialty I".
-    - Two specialties: ", Specialty I & Specialty II".
-    - Three plus specialties: ", Specialty I, Specialty II & Specialty III".
+- Specialty - which is maintained in Workday and [sync'ed to the handbook](/handbook/people-group/engineering/miscellaneous/#team-page-entry-specialty-field) - should generally follow these guidelines:
+    - Should include a `Stage`. Choose the primary stage if the manager covers multiple stages.
+    - For managers who manage individual contributors, include the group (`Stage: Group`). Choose the primary group if the manager covers multiple groups.
