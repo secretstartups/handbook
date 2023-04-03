@@ -13,10 +13,10 @@ description: "Tips on how to prepare for your interview - Infrastructure"
 
 ## Most common open roles in Infrastructure
 
-- [Backend Engineer](https://about.gitlab.com/job-families/engineering/infrastructure/backend-engineer/)
-- [Site Reliability Engineer](https://about.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/)
-- [Database Reliability Engineer](https://about.gitlab.com/job-families/engineering/infrastructure/database-reliability-engineer/#:~:text=Database%20Reliability%20Engineers%20(DBRE)%20are,smoothly%2024%2F7%2F365.)
-- [Engineering Manager](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-management/)
+- [Backend Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/backend-engineer/)
+- [Site Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/)
+- [Database Reliability Engineer](https://handbook.gitlab.com/job-families/engineering/infrastructure/database-reliability-engineer/#:~:text=Database%20Reliability%20Engineers%20(DBRE)%20are,smoothly%2024%2F7%2F365.)
+- [Engineering Manager](https://handbook.gitlab.com/job-families/engineering/infrastructure/engineering-management/)
 
 
 ## Tips on how to prepare for Infrastructure interviews

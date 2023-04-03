@@ -12,9 +12,9 @@ description: "Tips on how to prepare for your interview - Customer Support"
 
 ## Most common open roles in Customer Support
 
-- [Support Engineer](https://about.gitlab.com/job-families/engineering/support-engineer/)
-- [Support Engineering Manager](https://about.gitlab.com/job-families/engineering/support-management/)
-- [Support Operations Specialist](https://about.gitlab.com/job-families/engineering/support-readiness-specialist/)
+- [Support Engineer](https://handbook.gitlab.com/job-families/engineering/support-engineer/)
+- [Support Engineering Manager](https://handbook.gitlab.com/job-families/engineering/support-management/)
+- [Support Operations Specialist](https://handbook.gitlab.com/job-families/engineering/support-readiness-specialist/)
 
 ## Tips on how to prepare for your Support Engineer interview
 
