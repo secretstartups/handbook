@@ -390,7 +390,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday July 12 | **Available** | DRI | Key Review Date |
 | Thursday July 13 |  **Available** | DRI | Key Review Date |
 | Tuesday July 18| **Available** | DRI | Key Review Date |
-| Wednesday July 19 | **Available** | DRI | Key Review Date |
+| Wednesday July 19 | Infrastructure & Quality | Mek Stittri | July 12 |
 | Thursday July 20 | **Available** | DRI | Key Review Date | 
 | Tuesday July 25 |  **Available** | DRI | Key Review Date |
 | Wednesday July 26 | **Available** | DRI | Key Review Date |
@@ -423,7 +423,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday September 27 | **Available** | DRI | Key Review Date |
 | Thursday September 28 | **Available** | DRI | Key Review Date |
 | Tuesday October 3 | **Available** | DRI | Key Review Date |
-| Wednesday October 4 | **Available** | DRI | Key Review Date |
+| Wednesday October 4 | Security | Security Leadership | September 21 |
 | Thursday October 5 | **Available** | DRI | Key Review Date |
 | Tuesday October 10 |  **Available** | DRI | Key Review Date |
 | Wednesday October 11 | IT | Nabitha Rao | October 5 |
@@ -439,7 +439,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday November 2 | **Available** | DRI | Key Review Date |
 | Tuesday November 7 | **Available** | DRI | Key Review Date |
 | Wednesday November 8 |**Available** | DRI | Key Review Date |
-| Thursday November 9 | **Available** | DRI | Key Review Date |
+| Thursday November 9 | Infrastructure & Quality | Mek Stittri | October 24 |
 | Tuesday November 14 | **Available** | DRI | Key Review Date |
 | Wednesday November 15 | Security | Security Leadership | October 31 |
 | Thursday November 16 |  **Available** | DRI | Key Review Date |
@@ -448,6 +448,8 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday November 30 |  **Available** | DRI | Key Review Date |
 | Tuesday December 12 | Finance | Brian Robins | November 28th |
 | Wednesday January 3 | Support | Lyle Kozloff, Lee Matos | December 20 |
+| Thursday January 4 | Security | Security Leadership | December 20 |
+| Wednesday January 24 | Infrastructure & Quality | Mek Stittri | January 16 |
 | Wednesday January 31 | IT | Nabitha Rao | January 23 |
 | Thursday February 1 | Development | Christopher Lefelhocz | January 24 |
 
