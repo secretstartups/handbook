@@ -15,9 +15,11 @@ canonical_path: "/company/team/structure/working-groups/ai-integration/"
 
 | Property        | Value                                                                                                                                             |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Date Created    | 2022-03-23                                                                                                                                        |
-| Target End Date | TBD                                                                                                                                               |
-| Slack           | [#wg_ai_integration](https://gitlab.slack.com/archives/C04UL8HMW0L) (only accessible from within the company)                                         |
+| Date Created    | 2022-03-23       |
+| Target End Date | TBD                  |
+| Slack           | `#wg_ai_integration` - Slack channel for the working group and the high level alignment on getting AI ready for Production   |
+| Slack           | `#ai_integration_dev_lobby` - Channel for all implementation related topics and discussions of actual AI features   |
+| Slack | `#ai_enablement_team` - Channel for the AI Enablement Team which is building the base for all features (experimentation API, Abstraction Layer, Embeddings, etc.) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/19jVbWVYUPW3m7d2SzsXa2zXIAW7pSb2tdQ-AXWzT_DE/edit) (only accessible from within the company) |
 | Epic/Issue Label | `wg-ai-integration` |
 | Epic search     | [Parent epic](https://gitlab.com/groups/gitlab-org/-/epics/9997), [Epic Search](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=wg-ai-integration)            |
