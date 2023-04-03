@@ -16,7 +16,7 @@ Support Engineers comprise the vast majority of Customer Support. This page pres
 
 ## Hiring flow
 
-Hiring is described on the [jobs page](/job-families/engineering/support-engineer/#hiring-process) for Support Engineers. The following are the stages carried out by Customer Support team members.
+Hiring is described on the [jobs page](https://handbook.gitlab.com/job-families/engineering/support-engineer/#hiring-process) for Support Engineers. The following are the stages carried out by Customer Support team members.
 
 ### Sourcing
 

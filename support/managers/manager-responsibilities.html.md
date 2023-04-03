@@ -13,7 +13,7 @@ category: Support Management
 
 ## Introduction
 
-1. This page is an extension of the [Support Engineering manager job family](/job-families/engineering/support-management/) page.
+1. This page is an extension of the [Support Engineering manager job family](https://handbook.gitlab.com/job-families/engineering/support-management/) page.
 1. The **aim** of this page is to **help you know how to carry out your responsibilities as a Support Engineering Manager**.
 
 ## Support Leadership at GitLab

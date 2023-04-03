@@ -44,7 +44,7 @@ A Senior-level Support engineer is a natural leader who has championed multiple 
 
 Recommendations to explore this path:
 
-- Read about the [Senior Support Engineer role criteria](/job-families/engineering/support-engineer/#senior-support-engineer).
+- Read about the [Senior Support Engineer role criteria](https://handbook.gitlab.com/job-families/engineering/support-engineer/#senior-support-engineer).
 - Read about the [Senior level competencies and framework requirements](/handbook/engineering/career-development/matrix/engineering/support/senior/).
 - Watch or listen to the [Ask Us Anything - Being/Becoming a Senior Support Engineer sesssions from 2021-12](https://www.youtube.com/watch?v=jwjPvzz_f5g&list=PL05JrBw4t0KrQVEIzmhhQMR68JGBl3dDy).
 
@@ -65,7 +65,7 @@ Choosing to pursue a Staff-level role within the Support team involves an advanc
 Recommendations to explore this path:
 
 - Read about [what staff level means at GitLab](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/).
-- Read about the [Staff Support Engineer role criteria](/job-families/engineering/support-engineer/#staff-support-engineer).
+- Read about the [Staff Support Engineer role criteria](https://handbook.gitlab.com/job-families/engineering/support-engineer/#staff-support-engineer).
 - Read about the [Staff level competencies and framework requirements](/handbook/engineering/career-development/matrix/engineering/staff/).
 - Watch [this discussion about becoming a Staff engineer](https://www.youtube.com/watch?v=dN4LyA4nDg0).
 - Watch or listen to the [Group AMA - Being/Becoming a Staff Support Engineer - 2022-05-26 ](https://www.youtube.com/watch?v=68jzHfG8SwU).
@@ -89,9 +89,9 @@ Maintaining your technical skillsets becomes secondary, however you have the  au
 
 Recommendations to explore this path:
 
-- Read about [what you can expect in a Support Engineering Manager role](/job-families/engineering/support-management/#what-you-can-expect-in-a-manager-support-engineering-role-at-gitlab).
+- Read about [what you can expect in a Support Engineering Manager role](https://handbook.gitlab.com/job-families/engineering/support-management/#what-you-can-expect-in-a-manager-support-engineering-role-at-gitlab).
 - Read about the [Support Engineering Manager Responsibilities](/handbook/support/managers/manager-responsibilities.html).
-- Read about why [candidates should apply for a Support Manager role](/job-families/engineering/support-management/#you-should-apply-if) to understand general expectations of this role.
+- Read about why [candidates should apply for a Support Manager role](https://handbook.gitlab.com/job-families/engineering/support-management/#you-should-apply-if) to understand general expectations of this role.
 - Read [Transitioning from Individual Contributor to Manager](/handbook/engineering/development/dev/training/ic-to-manager/).
 - Read about [Individual Contribution vs. Management](/handbook/engineering/career-development/#individual-contribution-vs-management) and [Trying the Management Track](/handbook/engineering/career-development/#trying-the-management-track).
 - Read about the [Interim Manager](/handbook/engineering/career-development/#interim-manager) role.

@@ -10,7 +10,7 @@ description: "Communication channels for GitLab Support"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Our [support engineers](/job-families/engineering/support-engineer) handle the channels listed below. They are sorted in order of priority (strictest SLA at top), and as a result, it is possible that channels that appear lower in this list experience longer delays in receiving responses. We are actively [hiring](/jobs/) more Support Engineers to strengthen the team and provide support to the community.
+Our [support engineers](https://handbook.gitlab.com/job-families/engineering/support-engineer) handle the channels listed below. They are sorted in order of priority (strictest SLA at top), and as a result, it is possible that channels that appear lower in this list experience longer delays in receiving responses. We are actively [hiring](/jobs/) more Support Engineers to strengthen the team and provide support to the community.
 
 ## Emergency Tickets
 
