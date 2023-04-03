@@ -11,7 +11,7 @@ description: "Information and processes related to ESG"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-The Environmental, Social, and Governance (ESG) [Team](/job-families/legal-and-corporate-affairs/environmental-social-governance/) creates and maintains GitLab’s Corporate Sustainability strategy and programs. This includes ESG disclosures and public ESG reporting, identifying and prioritizing key issues to advance GitLab’s social and environmental goals, and creating partnerships with nonprofit organizations that support GitLab’s values and mission.
+The Environmental, Social, and Governance (ESG) [Team](https://handbook.gitlab.com/job-families/legal-and-corporate-affairs/environmental-social-governance/) creates and maintains GitLab’s Corporate Sustainability strategy and programs. This includes ESG disclosures and public ESG reporting, identifying and prioritizing key issues to advance GitLab’s social and environmental goals, and creating partnerships with nonprofit organizations that support GitLab’s values and mission.
 
 ## ESG Strategy
 Environmental, social, and governance (ESG) practices, although newly formalized in GitLab Inc.’s (“GitLab”, “we”, “our”) strategy, have been embedded into our work culture since our inception. Deeply integrated into our business philosophy, GitLab’s ESG strategy is driven by our [values](/handbook/values/) of Collaboration, Results, Efficiency, Diversity, Inclusion and Belonging, Iteration, and Transparency (CREDIT). 
