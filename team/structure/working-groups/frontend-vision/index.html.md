@@ -16,16 +16,16 @@ canonical_path: "/company/team/structure/working-groups/frontend-vision/"
 
 | Property          | Value                                                                                                                                     |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Date Created      | 2023-02-01                                                                                                                                |
-| Target End Date   | 2023-05-01                                                                                                                                |
-| Slack             | #wg_frontend_vision (only accessible from within the company)                                                                              |
-| Google Doc        | [Agenda](https://docs.google.com/document/d/1kwc7B1N50FHrqofsvTLBlZCXjLoTD0XB3eNsq9FCDic/edit?usp=sharing) (only accessible from within the company) |
+| Date Created      | 2023-03-27                                                                                                                                |
+| Target End Date   | TBD                                                                                                                                       |
+| Slack             | #wg_frontend-vision (only accessible from within the company)                                                                             |
+| Google Doc        | [Agenda](https://docs.google.com/document/d/1H0td5YZJROQG_aOkGJuIpXqxi4UEpiuCufvEAc27kMo/edit?usp=sharing) (only accessible from within the company) |
 | Epic              |                                                                               |
 | Overview & Status | See [Exit Criteria Progress](#exit-criteria-progress)                                                                                     |
 
 ### Context
 
-Currently, our frontend development guidelines only document features and practices _we are using currently in production_. There is no clear documentation about what do we see as a desired state of the frontend at GitLab, neither guidelines regarding practices we plan to deprecate. It would be nice to define a set of high-level expectations regarding frontend architecture, teck stack and best practices as we see them on the scope of three years from now. Here is a non-exhausting list of topics we should discuss:
+Currently, our frontend development guidelines only document features and practices _we are currently using in production_. There is no clear documentation about what we see as a desired state of the frontend at GitLab, nor guidelines regarding practices we plan to deprecate. It would be nice to define a set of high-level expectations regarding frontend architecture, tech stack, and best practices as we see them in the scope of three years from now. Here is a non-exhaustive list of topics we should discuss:
 
 - Single-Page Application vs Multi-Page Application vs hybrid approach (multiple SPA's that handle some functionality).
 - Server-Side rendering
@@ -60,6 +60,6 @@ This Working Group has the following goals:
 | Member             | Paul Slaughter        | Staff Frontend Engineer, Create:Editor                       |
 | Member             | Mark Florian          | Senior Frontend Engineer, Ecosystem:Foundations              |
 | Member             | Lukas Eipert          | Senior Frontend Engineer, Ecosystem:Foundations              |
-| Member             | Frédéric Caplette     | Senior Frontend Engineer - Verify:Pipeline Authoring         |
+| Member             | Frédéric Caplette     | Senior Frontend Engineer, Verify:Pipeline Authoring         |
 | Member             | Andrei Zubov          | Senior Frontend Engineer, Release                            |
 | Member             | Stanislav Lashmanov   | Senior Frontend Engineer, Create:Source Code                 |
