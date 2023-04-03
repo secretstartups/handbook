@@ -14,9 +14,9 @@ job: "Security Architect"
 
 ### About me
 
-Hi! I'm a [Security Architect](/job-families/security/security-engineer/#security-architect) at
+Hi! I'm a [Security Architect](https://handbook.gitlab.com/job-families/security/security-engineer/#security-architect) at
 GitLab, which is a specialty on top of my [Security Distinguished
-Engineer](/job-families/security/security-engineer/#distinguished-security-engineer) role.
+Engineer](https://handbook.gitlab.com/job-families/security/security-engineer/#distinguished-security-engineer) role.
 
 I have an Engineering background, having graduated from the [Université de Technologie de
 Compiègne](https://www.utc.fr/en/) (France) with a Master's Degree in Computer Science.

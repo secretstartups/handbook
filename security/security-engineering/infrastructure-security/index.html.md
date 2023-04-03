@@ -16,7 +16,7 @@ description: "GitLab's Infrastructure Security provides security oversight of th
 ### Mission
 GitLab's Infrastructure Security team is responsible for the planning, execution, and support of proactive initiatives specific to the security of GitLab.com. Its core mission is to become [Infrastructure Department](https://about.gitlab.com/handbook/engineering/infrastructure/)'s stable counterpart in Security. This is achieved by sharing the SRE view of GitLab.com, but with a strong security focus. Infrastructure Security's engagements take place in the form of infrastructure change reviews, SaaS infrastructure access & permissions models, cloud security best practices, operating system security, security monitoring at the host and container level, vulnerability management, and patching policies.
 
-Further details can be found in the [job family description](/job-families/security/infrastructure-security/).
+Further details can be found in the [job family description](https://handbook.gitlab.com/job-families/security/infrastructure-security/).
 
 ### Vision
 We both drive and support the improvement of the security posture of GitLab.com's underlying infrastructure. We operate cross-team and cross-department with relevant stakeholders to provide the required support and help them secure infrastructure. We engage in both ongoing and upcoming endeavor, supporting existing business operations as well as business expansion.
