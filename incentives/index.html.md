@@ -205,7 +205,7 @@ On a quarterly basis there's a review of the discretionary bonuses data. This in
   * Iteration: Reduces everything to its very minimal iteration, not paying with quality or usability, yet moving forward with each release.
 
 ### GitLab Awards Program
-Each fiscal year the GitLab Awards program recognizes team members who made great impact as a result of displaying our [Values](/handbook/values/#credit). The GitLab Awards Program consists of two different types of awards: The DZ Award and Values Awards. Generally we open the window for nominations in the fourth quarter of the fiscal year. Winners will be announced before the end of the fiscal year.
+Each fiscal year the GitLab Awards program recognizes team members who made great impact as a result of displaying our [Values](/handbook/values/#credit). The GitLab Awards Program consists of two different types of awards: The DZ Award and Values Awards.
 
 #### The DZ Award
 In honor of our valued co-founder, [Dmitriy Zaporozhets “DZ”](https://levelup.gitlab.com/learn/video/dz-video), his contributions and him dedicating 10 years to GitLab, GitLab recognizes a team member each fiscal year who made a great impact solving a hard problem by using a [boring solution](/handbook/values/#boring-solutions).
@@ -264,15 +264,13 @@ By making information public, we can reduce the threshold to contribution and ma
 - Team member is in good standing with the company (e.g. not on a PIP/recently received a Written warning).
 
 #### Nomination process for awards
-All team members can make nominations for both The DZ Award and Values Awards. When you want to nominate a peer it’s crucial to loop in your manager and your Department Head. Ultimately each Department Head can bring forward 1 nomination for the DZ Award and 1 nomination per value. The Department Head should loop in their People Business Partner with the final nominations in the correct format. The People Business Partners will coordinate the nominations for both awards and ultimately nominations will be calibrated at the E-Group level.
+All team members can make nominations for both The DZ Award and Values Awards. When you submit a nomination, the People Communications & Engagement DRI will create a document looping in your manager and Department Head. Ultimately each Department Head can bring forward 1 nomination for the DZ Award and 1 nomination per value. The Department Head should loop in their People Business Partner to review the final nominations. The People Communications and Engagement DRI will coordinate the nominations for both awards and ultimately nominations will be calibrated at the E-Group level.
 
 ##### Overview of the nomination process:
-- When the nomination window opens managers and the Department Heads can gather nominations.
-- The Department Head has to ensure the nominations come in the correct format as described below and the People Business Partners will work with the leaders to finalize the list of nominees:
-  - For The DZ Award there’s [this nomination template](https://docs.google.com/document/d/1I1zpTCmoC1_1uU56xBmLXMwZYvODsmyVU0CEAPBekYg/edit#heading=h.5ahg1o4v53q7) which should be filled out to bring forward a nomination.
-  - For The Values awards we’ll gather nominations via [this form](https://forms.gle/Pt8iPA3wg1iiG3nHA) and fill out [this template](https://docs.google.com/document/d/1M8GMh7JtcBDHw6A5wNlkq08YvCSwUjrkjqNK_5hEVlE/edit#) only for final nominees at theDivision level.
-- When the nomination window closes People Business Partners will ensure all nomination documents are completed before calibration.
-- People Business Partners will then calibrate between department nominations with the E-group leader to select one team member nomination for The DZ Award and up to one team member per Value for the Values Awards.
+- When the nomination window opens all team members can submit both Values Award and DZ Award nominations through [this form](https://docs.google.com/forms/d/e/1FAIpQLScMHXjXKpolimXKnhunMGPcPQ55NvKByqTSKwEhY6M03iejrw/viewform).
+- The People Communications and Engagement DRI will create a document looping in the nominator's manager and Department Head to review the nomination.
+- When the nomination window closes the People Communications and Engagement DRI will ensure all nomination documents are completed before calibration.
+- The People Communications and Engagement DRI and People Business Partners will then calibrate between department nominations with the E-group leader to select one team member nomination for The DZ Award and up to one team member per Value for the Values Awards.
   - Engineering and Sales will be able to nominate two team members for The DZ Award.
 - The nominations are finalized and E-group will discuss the nominees from each group and select the award winners.
 - The award winners will be announced.
