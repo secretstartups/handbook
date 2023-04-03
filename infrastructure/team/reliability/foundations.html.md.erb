@@ -102,26 +102,58 @@ The Foundations Team must maintain a broad and diverse set of technical skills w
 
 ### Processes
 
-* Sync meetings
-  * We have weekly synchronous meetings in two different time zones to encourage discussion, give status updates, and connect as a team.
-    * [Agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit?usp=sharing)
-    * The meetings are recorded
-  * We have monthly retrospective meetings in two different time zones
-    * We review our wins and look for ways we can improve
-    * These meetings are not recorded to create a safe space for sharing transparently
-  * We have twice weekly Triage meetings available to us to ensure that incoming external requests are seen and responded to quickly.
-    * Incoming issues are scoped and prioritized in the Triage meetings
-    * They are then brought to team syncs for discussion and assignment, unless they are very urgent, in which case we will bring them to the team via Slack.
+#### Team Sync meetings
 
-* Standup
-  * We have Geekbot automated checkins on Mondays and Fridays in the [#infra_foundations_lounge](https://gitlab.slack.com/archives/C04QVEXBVL3) channel
+* We have weekly synchronous meetings in two different time zones to encourage discussion, give status updates, and connect as a team.
+  * [Agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit?usp=sharing)
+  * The meetings are recorded.
+* We have monthly retrospective meetings in two different time zones.
+  * We celebrate our wins and look for ways we can improve team processes.
+  * These meetings are not recorded to create a safe space for sharing transparently.
+  * We use an online tool, teleretro.com, which allows for running retros across multiple time zones, enabling brainstorming without being able to see others' responses, merging of related topics, and voting for what to discuss in more depth.
+  * Action items for iterative improvements on processes are brought back to the team syncs following the monthly retro meetings.
+* We have twice weekly Triage meetings available to us to ensure that incoming external requests are seen and responded to quickly. This allows us to meet our SLO for P2 issues being responded to within 3 days of creation.
+  * Incoming issues are scoped and prioritized in the Triage meetings
+    * We use T-shirt labels to estimate the size of incoming issues, per the definitions agreed upon in our [agenda](https://docs.google.com/document/d/1T5LIBt3RZR5TBLzkmRd08oMwfwiNFAr5ImPD5NP7lOw/edit#bookmark=id.ifw2otm5byuf). This helps not only in our planning efforts, it also helps to track our historical velocity.
+    * When assessing incoming issues, we review the assigned priority label, and assign one if a priority label is missing.
+    * If the issue is deemed not to fall within Foundations' ownership, it is reassigned to the appropriate team with a note to that team's EM.
+    * If the issue is deemed to be not actionable with the provided information, we will ask the issue creator for the required information. If we do not get any response within a 2 week timeframe, the issue will be closed with a note to the creator.
+    * Some issues are assessed to be no longer relevant, or the benefit is so outweighed by the cost of implementation that it is not worth doing. In those cases, we apply the label ~"workflow-infra::Cancelled" and close the issue with a note to the creator explaining our reasoning.
+  * Any triaged issues that are ready for work are then brought to team syncs for discussion and assignment, unless they are marked urgent (P1 or P2), in which case we will bring them to the team via Slack.
 
-* Communication
-  * [GitLab OKRs](/handbook/engineering/okrs/) capture our commitments for each quarter and are generally updated every Tuesday
-  * GitLab Epics capture large pieces of work and those labeled "In Progress" are also generally updated on Tuesdays
-  * GitLab Issues capture smaller, concrete pieces of work, and those labeled "In Progress" should be updated twice weekly or whenever a portion of work has been completed.
-  * Slack is the default method of reaching out between team members
-    * [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) is for work related discussions, external requests, etc
-    * [#infra_foundations_lounge](https://gitlab.slack.com/archives/C04QVEXBVL3) is for socializing and standups
-    * [#g_infra_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) is for automated MR notifications
- 
+#### Standup
+
+* We have Geekbot automated checkins on Mondays and Fridays in the [#infra_foundations_lounge](https://gitlab.slack.com/archives/C04QVEXBVL3) channel
+
+#### Prioritization of work
+
+* The reality is that Foundations, like many other teams, has more work assigned and planned than the team currently has capacity for. This makes prioritization an important, ongoing process.
+* Our team members are assigned work related to our OKRs, which is by default to be prioritized over other tasks.
+* In the process of that work, we often encounter unexpected tech debt, especially as we are still in the early days of the team and we are onboarding services into our ownership.
+* When encountering such tech debt, we must weigh and prioritize the additional work. 
+  * Tech debt that is an absolute blocker in order to move forward with project work must be addressed.
+  * At other times, we may encounter a big chunk of tech debt that, if we take the time to address it now, will pay dividends by making future work easier, but also means that other work that was committed to this quarter may not get completed. In such cases, we encourage team discussion to align on the decision, and documenting said decision making in issues and epics, so that we can clearly point to this when giving context for the re- or de- prioritization of work we committed to.
+  * Yet other times, we must make the decision to document the non-blocking tech debt we encountered in an issue and place it in the backlog to be addressed at a later time, in order to be able to deliver on the work we said we would do by the given timeframe.
+* We must remain vigilant of scope creep
+  * When planning out work related to larger projects, it is important to distinguish between "nice to haves" and "essential" pieces of work in order to stay focused on our outcomes and avoid scope creep.
+  * Similarly, external requests that at first glance appear small in scope can quickly snowball into much larger scope. Team members are encouraged to bring these to the team's attention, and the EM can step in and reset expectations and clarify commitments as needed.
+* Interrupt driven work is another reality of the nature of this team. 
+  * Engineers participate in SRE oncall rotations, which can take them completely away from project work for the week, and sometimes more time afterwards for follow up work. 
+  * Other times there are incoming external requests that are unplanned for but unblock another team or customer, and that must be prioritized over ongoing work. When necessary, we discuss this as a team. 
+    * We make an effort to distribute this type of work in an equitable manner across the team. 
+    * External requests should come through issues created in the Reliability tracker with the ~"team::Foundations" label. If other teams reach out directly to team members for help with work, we should redirect them to request work through the proper channels so that the team can properly prioritize and scope the work, and individuals are not pulled off prioritized tasks through back channels.
+
+#### Communication with stakeholders
+
+* [GitLab OKRs](/handbook/engineering/okrs/) capture our commitments for each quarter and are generally updated every Tuesday
+  * Updates should give sufficient context for leadership to understand current status and explain any changes in health status, completion dates or deliverables.
+* GitLab Epics capture large pieces of work and those labeled "In Progress" are also generally updated on Tuesdays
+* GitLab Issues capture smaller, concrete pieces of work, and those labeled "In Progress" should be updated twice weekly or whenever a portion of work has been completed.
+* Slack is the default method of reaching out between team members
+  * [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6) is for work related discussions, external requests, etc
+  * [#infra_foundations_lounge](https://gitlab.slack.com/archives/C04QVEXBVL3) is for socializing and standups
+  * [#g_infra_foundations_notifications](https://gitlab.slack.com/archives/C04RZC5TPPD) is for automated MR notifications
+  * We also have team slack handles that enable us to get the whole team's attention at once
+    * @infra-dwarves is our internal handle, meant for intra-team communication
+    * @infra-foundations can be used by external stakeholders when they need to get our attention outside of #g_infra_foundations
+* We currently have monthly sync meetings with Delivery::Systems, as they are the biggest "customer" of Foundations and it is important to stay closely aligned with expectations and ongoing work.
