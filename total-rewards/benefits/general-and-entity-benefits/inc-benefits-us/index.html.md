@@ -590,9 +590,9 @@ Domestic Partner Reimbursements: If the team member is not legally married to th
 
 FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pretax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA. FSA contributions can only be updated during open enrollment or through a [qualifying life event (QLE)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
 
-FSAs typically have a $550 rollover each calendar year. This is subject to change as dictated by the IRS. Due to COVID legislation, the IRS is allowing for unlimited carryover of FSA funds from 2021 to 2022. Starting in 2022 the IRS increased the FSA rollover amount to $570. 
+FSAs typically have a $550 rollover each calendar year. This is subject to change as dictated by the IRS. Starting in 2022 the IRS increased the FSA rollover amount to $570. Per WEX Health, FSA rollover funds are not available for 2023 expenses until 5-15 business days after 2023-03-31 (should be no later than 2023-04-22).
 
-In 2023 the maximum salary deferral contribution has increased to $3,050 USD, with the maximium rollover amount increasing to $610 USD
+In 2023 the maximum salary deferral contribution has increased to $3,050 USD, with the maximium rollover amount increasing to $610 USD.
 
 FSAs are employer-owned accounts. If you leave GitLab, your FSA account will be terminated on your date of termination unless you continue this through COBRA. You are able to use your full FSA amounts up to and on your last day, but not afterwards unless you enroll into COBRA. WEX (Discovery) asks that all claims be submitted up to 90 days after termination date. You can enroll into COBRA FSA if you have spent less out of your account than you have contributed to it. If you decide to enroll, you will be required to continue making your monthly contributions on a post-tax status.  For additional information, please reach out to WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`.
  
