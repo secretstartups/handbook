@@ -128,6 +128,7 @@ When creating promotion documents, remember:
 - Please reference the [job frameworks](/company/team/structure/#job-frameworks) in the handbook for guidance pertaining to expectations at the various levels at GitLab. The job levels should help guide data chosen to be included in the promotion document, in addition to discussion during calibration sessions.
 - Please be sure that the promotion document has “comment” access enabled to ‘Anyone at GitLab who has the link!’ to ensure the review and approval process is not delayed. Please delete the instructions associated with each section of the promotion document below before submitting the promotions. 
 - If you find yourself struggling to articulate your accomplishments, your manager can help support you and provide feedback. You can also consider reaching out to stakeholders for feedback, or meeting with a trusted colleague or mentor to brainstorm.
+- It should not include Talent Assessment ratings, such as "Exceeding Performance", as these must remain confidential and only discussed in confidential settings such as [Promotion Calibration](/handbook/people-group/promotions-transfers/#calibration), talent assessment calibrations, and within reporting structures.
 
 ## Calibration
 
