@@ -174,12 +174,12 @@ Access codes and recording links can be found in this [internal doc](https://doc
 
 ### Within the CSM job family
 
-- The [CSM Job Family page](/job-families/sales/customer-success-management/) is kept updated with the roles and responsibilities of each level within the CSM job family
+- The [CSM Job Family page](https://handbook.gitlab.com/job-families/sales/customer-success-management/) is kept updated with the roles and responsibilities of each level within the CSM job family
 - The [CSM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit#gid=0) enables a CSM to determine areas of opportunity in working towards their next level of seniority
 
 ### Within the CS org
 
-- [The SA Job Family page](/job-families/sales/solutions-architect/) is kept update with the roles, responsibilities and technical expectations of an SA. For CSMs interested in moving into SA roles, they can work with their managers on learning paths to develop the technical and sales skills where needed.
+- [The SA Job Family page](https://handbook.gitlab.com/job-families/sales/solutions-architect/) is kept update with the roles, responsibilities and technical expectations of an SA. For CSMs interested in moving into SA roles, they can work with their managers on learning paths to develop the technical and sales skills where needed.
 
 ### Within GitLab, outside of CS
 

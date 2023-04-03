@@ -49,7 +49,7 @@ From GitLab, in addition to the account team this may include:
 - Area Sales Manager
 - Sales Area Vice President
 - Other senior leaders, as determined in collaboration with management
-- Subject matter experts for product discussion, as applicable (e.g. [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](/handbook/customer-success/csm/cse/), [Solutions Architect](/handbook/customer-success/solutions-architects/), [Field CTO](/job-families/sales/solutions-architect/#field-cto-responsibilties), [Field CISO](/job-families/sales/solutions-architect/#field-security-officer-responsibilities))
+- Subject matter experts for product discussion, as applicable (e.g. [Product Manager](/handbook/product/categories/#devops-stages), [Customer Success Engineer](/handbook/customer-success/csm/cse/), [Solutions Architect](/handbook/customer-success/solutions-architects/), [Field CTO](https://handbook.gitlab.com/job-families/sales/solutions-architect/#field-cto-responsibilties), [Field CISO](https://handbook.gitlab.com/job-families/sales/solutions-architect/#field-security-officer-responsibilities))
 
 Decisions about who to invite to an EBR are made collectively by the account team with input from their respective managers.
 

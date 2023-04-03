@@ -101,7 +101,7 @@ Once a CSE engagement request is submitted, the CSE manager will review the requ
 
 ## CSE Hiring Plan
 
-The CSE hiring plan follows [much of the same process as the CSM](/job-families/sales/customer-success-management/#hiring-process), with [the exception of a technical panel](https://sa-demo-group.gitlab.io/sa-candidate-experience/panel_instructions) that evaluates the candidate's technical aptitude along with presentation style, clarity of the GitLab value proposition and audience engagement.
+The CSE hiring plan follows [much of the same process as the CSM](https://handbook.gitlab.com/job-families/sales/customer-success-management/#hiring-process), with [the exception of a technical panel](https://sa-demo-group.gitlab.io/sa-candidate-experience/panel_instructions) that evaluates the candidate's technical aptitude along with presentation style, clarity of the GitLab value proposition and audience engagement.
 
 The hiring plan is as follows:
 1. Recruiter call (external candidates only)

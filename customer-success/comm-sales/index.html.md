@@ -22,14 +22,14 @@ GitLab defines Commercial Sales as worldwide sales for the mid-market and small/
 Solutions Architects are aligned to the Commercial Sales Account Executives by a pooled model. Requests for an SA will be pulled from the triage board by an SA based on multiple factors including availability, applicable subject matter expertise, and current workload.  
 
 * [Engage a Commercial Solutions Architect](/handbook/customer-success/solutions-architects/processes/commercial/)
-* [Solutions Architect role description](/job-families/sales/solutions-architect/)
+* [Solutions Architect role description](https://handbook.gitlab.com/job-families/sales/solutions-architect/)
 * [Solutions Architect overview](/handbook/customer-success/solutions-architects/)
 
 ### Customer Success Managers
 
 Customer Success Managers are aligned to a book of business for their respective [segment](/handbook/customer-success/csm/segment/) (Scale, Growth, or Strategic) and region (AMER or EMEA).
 
-* [Customer Success Manager role description](/job-families/sales/customer-success-management/)
+* [Customer Success Manager role description](https://handbook.gitlab.com/job-families/sales/customer-success-management/)
 * [Customer Success Manager overview and responsibilities](/handbook/customer-success/csm/)
 
 ## Sales Engagement Guidelines

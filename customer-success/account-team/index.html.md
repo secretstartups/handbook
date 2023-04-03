@@ -21,17 +21,17 @@ The account team works together to drive value, success, and growth for a custom
 
 An Enterprise account team is comprised of the following people:
 
-- [Strategic Account Executive (SAE)](/job-families/sales/strategic-account-executive/)
-- [Solutions Architect (SA)](/job-families/sales/solutions-architect/)
-- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/csm/services/#csm-alignment)
+- [Strategic Account Executive (SAE)](https://handbook.gitlab.com/job-families/sales/strategic-account-executive/)
+- [Solutions Architect (SA)](https://handbook.gitlab.com/job-families/sales/solutions-architect/)
+- [Customer Success Manager (CSM)](https://handbook.gitlab.com/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/csm/services/#csm-alignment)
 
 
 ### Commercial/Mid-Market
 
 A Mid-Market account team is comprised of the following people:
 
-- [Account Executive (AE)](/job-families/sales/account-executive/)
-- [Customer Success Manager (CSM)](/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/csm/services/#csm-alignment)
+- [Account Executive (AE)](https://handbook.gitlab.com/job-families/sales/account-executive/)
+- [Customer Success Manager (CSM)](https://handbook.gitlab.com/job-families/sales/customer-success-management/) for [qualifying accounts](/handbook/customer-success/csm/services/#csm-alignment)
 
 In Mid-Market, Solutions Architects are pooled so they are not aligned with specific account teams.
 
@@ -73,7 +73,7 @@ The account team should meet in order to drive strategic growth towards accounts
 
 As a recommendation to [make the most efficient use of everyone’s time](/handbook/values/#be-respectful-of-others-time), these calls should not happen more than once a week, unless there is a specific and urgent need. There is no requirement to have recurring account team calls, but different regions and segments may approach account team alignments and engagement differently. For clarity on specific regions' or segments' approaches, reach out to the corresponding CSM Manager(s).
 
-Account teams may choose to include the [Sales Development Representative (SDR)](/job-families/marketing/sales-development-representative/) in their account meetings for any targeted growth or wider account expansion.
+Account teams may choose to include the [Sales Development Representative (SDR)](https://handbook.gitlab.com/job-families/marketing/sales-development-representative/) in their account meetings for any targeted growth or wider account expansion.
 
 ### Who Leads the Meeting? 
 
