@@ -103,7 +103,7 @@ The Intermediate responsibilities, plus the responsibilities below:
 
 - Effectively prioritize your research efforts across stage groups and adjacent stage groups. Align with Product teams while considering impact, the goals of your stage groups and adjacent stage groups, the broader product direction, and company objectives.
 
-- Make connections between disparate research initiatives. This can be done by: identifying existing research that supplements a new initiative, looking for commonalities in findings to surface larger "macro" insights, through data triangulation, and/or combining similar research efforts.
+- Make connections between disparate research initiatives. This can be done by: identifying existing research that supplements a new initiative, looking for commonalities in findings to surface larger "macro" insights, through data triangulation, and/or by combining similar research efforts.
 
 - Lead and mentor other Researchers on methods, communication, and successful collaboration/working models.
 
