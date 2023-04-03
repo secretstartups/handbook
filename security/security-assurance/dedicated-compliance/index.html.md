@@ -14,7 +14,7 @@ title: "Security Compliance, Dedicated Markets Team"
 Our Mission is to advance customer trust with a focus on customers operating in highly regulated industries or who otherwise have unique security and compliance requirements. We will accomplish this mission by:
 
 1. Enabling [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#gitlab-dedicated) to be the most trusted DevSecOps offering in the market, demonstrated by security certifications and attestations.
-1. Achieving and maintaining industry-specific security certifications such as [FedRAMP](sites/handbook/source/handbook/security/security-assurance/dedicated-compliance/fedramp-compliance.html.md) and [FIPS 140-2 compliance](https://docs.gitlab.com/ee/development/fips_compliance.html#fips-compliance) for the U.S. Public Sector.
+1. Achieving and maintaining industry-specific security certifications such as [FedRAMP](handbook/security/security-assurance/dedicated-compliance/fedramp-compliance.html) and [FIPS 140-2 compliance](https://docs.gitlab.com/ee/development/fips_compliance.html#fips-compliance) for the U.S. Public Sector.
 1. Applying compliance automation and compliance-as-code guardrails to minimize [toil](https://sre.google/sre-book/eliminating-toil/) and enable product, development, and infrastructure teams.
 1. Use our own product ([dogfooding](https://about.gitlab.com/handbook/values/#dogfooding)) to meet key security controls, improve our offering, and demonstrate to customers how they can do the same.
 
