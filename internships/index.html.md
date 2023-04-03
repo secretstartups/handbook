@@ -65,7 +65,7 @@ Preference given to candidates with proven experience
 1. Contributing to open source projects
 1. Working with the GitLab product as a user or contributor
 
-As an example of an intern position in our job families please review the [Software Engineering Intern job family](/job-families/engineering/software-engineer-intern/) for further details.
+As an example of an intern position in our job families please review the [Software Engineering Intern job family](https://handbook.gitlab.com/job-families/engineering/software-engineer-intern/) for further details.
 
 ### Duration and timing
 
