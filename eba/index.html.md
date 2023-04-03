@@ -17,7 +17,7 @@ This page details processes and general guidelines specific to the Executive Bus
 
 | ORG |  EBA / SR EBA  | EXECUTIVE  | 
 | --- | --- | --- | 
-| [CEO](https://about.gitlab.com/job-families/chief-executive-officer/) | **Liki Simonot**<br>Sr EBA  | Sid Sijbrandij (CEO)<br>Stella Treas (Chief of Staff)  
+| [CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/) | **Liki Simonot**<br>Sr EBA  | Sid Sijbrandij (CEO)<br>Stella Treas (Chief of Staff)  
 | [Engineering](https://about.gitlab.com/handbook/engineering/) | **Marisa Carlson**<br>Sr EBA  | Jörg Heilig (Interim CTO) 
 | [Finance](https://about.gitlab.com/handbook/finance/) | **Darci Tadich**<br>Sr EBA |  Brian Robins (CFO) 
 | [Finance](https://about.gitlab.com/handbook/finance/) | **Cindy King**<br>Sr EBA| Dale Brown (Principal Accounting Officer)<br>Jim Gladen (VP of Tax)<br>Brijen Joshi (VP of Internal Audit) 
@@ -210,7 +210,7 @@ To view members of Google Groups, reference the [Google Workspace group member r
 * EBA to the CEO to assist in maintaining and scheduling meetings revolving around the [OKR updating process](/company/okrs/#updating).
 
 ## Performance Indicators (PI)
-More information can be found [here](https://about.gitlab.com/job-families/people-group/executive-business-administrator/#performance-indicator)
+More information can be found [here](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/#performance-indicator)
 
 ### Leadership SAT Survey
 
