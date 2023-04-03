@@ -21,6 +21,7 @@ Please read the next sections on [GitLab Support's Purpose](#gitlab-supports-pur
 | ------ | ------ |
 | My customer can't open a ticket (or they get closed)  | Make sure they are a [support contact](https://about.gitlab.com/support/managing-support-contacts/#managing-contacts). Or maybe, [they can't log into ZenDesk](#if-a-customer-cannot-login-to-gitlab-support-zendesk--customer-portal).  |
 | Customer is asking about a ticket | You probably want a [Support Ticket Attention Requestion (STAR)](#i-want-to-escalate-a-ticket). If no ticket, [open one](#requesting-support-for-customers) |
+| My customer has [an emergency](https://about.gitlab.com/support/definitions/#Definitions%20of%20Support%20Impact)! | The customer must send a **new** [email](https://internal-handbook.gitlab.io/handbook/support/#raising-an-emergency) (internal) to [trigger an emergency](https://about.gitlab.com/support/#how-to-trigger-emergency-support). If not an emergency, you can [STAR it](#i-want-to-escalate-a-ticket).
 | My customer has a subscription / license issue  | If a [ticket with the customer](#requesting-support-for-customers) is not possible, open [an internal request](#internal-requests)  |
 | I want to see tickets | Get a [Light Agent ZenDesk account](#requesting-a-zendesk-light-agent-account) |
 
