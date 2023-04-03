@@ -19,7 +19,7 @@ The goal in all of this is to ensure that you feel confident and comfortable to 
 1.  Within 3 days of starting at GitLab, you will receive an email giving you access to [Command of the Message (CoM)](/handbook/sales/command-of-the-message/) e-learning materials. CoM is our value-driven conversation framework that will be covered during SQS.
 1.  During your second week, the Sales Enablement Team will send you a calendar invite for the upcoming SQS as well as an email prompting you to log in to Google Classroom to begin working through the [Sales Quick Start learning path](/handbook/sales/onboarding/sales-learning-path/). Connect with your manager to arrange travel for SQS or if you are unable to attend the next session.
 2.  Within a week of attending SQS, you will receive access to the 13-week Command of the Message Fast Start program.
-3.  In your first few weeks you will receive access to your Sales Development Technical Development training. This is to be completed within your first 180 days and ties directly to SDR [levels](https://about.gitlab.com/job-families/marketing/sales-development-representative/#levels).
+3.  In your first few weeks you will receive access to your Sales Development Technical Development training. This is to be completed within your first 180 days and ties directly to SDR [levels](https://handbook.gitlab.com/job-families/marketing/sales-development-representative/#levels).
 
 ## Graduating from Sales Development Onboarding
 * Complete GitLab general onboarding issue

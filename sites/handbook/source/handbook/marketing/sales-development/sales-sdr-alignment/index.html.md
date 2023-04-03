@@ -13,10 +13,10 @@ title: "SDR & Sales Alignment"
 
 The purpose of the **Global Sales-SDR Alignment Framework** is to provide an outbound guideline that helps identify goals, provide better alignment, and highlight expectations for the following roles:
 
-1. Marketing: [Sales Development Representative](https://about.gitlab.com/job-families/marketing/sales-development-representative/) (SDR)
-1. Sales: [Strategic Account Executive](https://about.gitlab.com/job-families/sales/enterprise-account-executive/) (SAE)
-1. Sales: [Account Executive](https://about.gitlab.com/job-families/sales/account-executive/) (AE)
-1. Sales: [Inside Sales Representative](https://about.gitlab.com/job-families/sales/public-sector-inside-account-representative/) (ISR)
+1. Marketing: [Sales Development Representative](https://handbook.gitlab.com/job-families/marketing/sales-development-representative/) (SDR)
+1. Sales: [Strategic Account Executive](https://handbook.gitlab.com/job-families/sales/enterprise-account-executive/) (SAE)
+1. Sales: [Account Executive](https://handbook.gitlab.com/job-families/sales/account-executive/) (AE)
+1. Sales: [Inside Sales Representative](https://handbook.gitlab.com/job-families/sales/public-sector-inside-account-representative/) (ISR)
 
 The alignment framework is designed to facilitate a successful relationship between SDRs and Sales ensuring both are properly positioned to achieve their goals.
 

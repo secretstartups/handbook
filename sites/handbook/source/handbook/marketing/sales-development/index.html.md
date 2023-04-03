@@ -60,7 +60,7 @@ As a Sales Development Representative (SDR) or Business Development Representati
 |  [Sales handbook page](/handbook/sales/) |
 |  [Go to Market page](/handbook/sales/field-operations/gtm-resources/) |
 |  [Sales Development Org Manager resources page](/handbook/marketing/sales-development/sdr-manager-resources) |
-|  [Sales Development Org job family/levels](https://about.gitlab.com/job-families/marketing/sales-development-representative/) |
+|  [Sales Development Org job family/levels](https://handbook.gitlab.com/job-families/marketing/sales-development-representative/) |
 
 
 ## Sales Development Org Training & Development
@@ -78,7 +78,7 @@ To view previously recorded BDR/SDR Enablement content, you can view the [BDR/SD
 - If you would like to request or run an enablement session on a specific topic, please fill out [this issue](https://gitlab.com/gitlab-com/marketing/sdr/-/issues/new?issuable_template=sdr_enablement_series_request).
 
 #### Sales Development Technical Development
-As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-onboarding/), you will begin an Sales Development Technical Development course with our Senior Sales Dev Enablement Manager. The goal of this course is to enable you to be more comfortable have technical discussions - specifically when it comes to GitLab’s use cases. Each level of the course is tied to our [levels](https://about.gitlab.com/job-families/marketing/sales-development-representative/#levels) in the BDR and SDR roles.
+As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-onboarding/), you will begin an Sales Development Technical Development course with our Senior Sales Dev Enablement Manager. The goal of this course is to enable you to be more comfortable have technical discussions - specifically when it comes to GitLab’s use cases. Each level of the course is tied to our [levels](https://handbook.gitlab.com/job-families/marketing/sales-development-representative/#levels) in the BDR and SDR roles.
 
 
 ## Sales Development Resources
@@ -358,7 +358,7 @@ While the below measurements do not impact your quota attainment, they are monit
     * Completion of BDR Q1-Q4 Tanuki Techs
         * NOTE: All promotions require a formal application + interview. Performance and adherence to our values will guarantee an interview but the BDR will have to demonstrate that they are the best candidate during the interview process. Factors such as interview performance, headcount, language requirements can influence promotion timelines.
 
-**Some examples of potential next roles after the Sales Dev Org are [Inside Sales Rep](https://about.gitlab.com/job-families/sales/public-sector-inside-account-representative/), [SMB Account Executive](https://about.gitlab.com/job-families/sales/smb-customer-advocate/), [Associate Solutions Architect](https://about.gitlab.com/job-families/sales/solutions-architect/), [Customer Success Manager](/handbook/customer-success/csm/), and many more!**
+**Some examples of potential next roles after the Sales Dev Org are [Inside Sales Rep](https://handbook.gitlab.com/job-families/sales/public-sector-inside-account-representative/), [SMB Account Executive](https://handbook.gitlab.com/job-families/sales/smb-customer-advocate/), [Associate Solutions Architect](https://handbook.gitlab.com/job-families/sales/solutions-architect/), [Customer Success Manager](/handbook/customer-success/csm/), and many more!**
 
 #### Visualization of Sales Development Career Path
 
