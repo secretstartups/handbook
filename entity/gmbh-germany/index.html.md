@@ -185,6 +185,10 @@ The [Infection Protection Act](http://www.gesetze-im-internet.de/ifsg/index.html
 
 Any post sent to our German entity address is forwarded to RPI based in Germany and then scans are sent to payroll, RPI payroll and Vistra.
 
+## Company stamp
+
+Our legal council has the German company stamp and can stamp government forms for us. Please see 'Entity & Co-Employer HR Contacts' in the People Connect 1password folder for contact details.
+
 ## Useful links
 
 - [Payroll calendar for GitLab GmbH](https://docs.google.com/spreadsheets/d/1HCKIZTVBYjQOTOp4syfHssDMceujRmEfF75ZGM85d1g/edit?usp=sharing) (internal)
