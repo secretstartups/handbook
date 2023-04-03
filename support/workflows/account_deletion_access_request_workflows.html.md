@@ -142,11 +142,11 @@ If the user fails to respond within 7 calendar days, apply the `Account Verifica
   <p>Regards,</p>
 </details>
 
-#### **Step 1.5:** Blocked Accounts
+#### **Step 1.5:** Blocked or Banned Accounts
 
-If the user account is not blocked, skip this section.
+If the user account is not blocked or banned, skip this section.
 
-If the user account is blocked:
+If the user account is blocked or banned:
 
 1. Follow the [reinstating a blocked account workflow](reinstating-blocked-accounts.html#blocked-accounts). Generally, this means opening a Trust and Safety issue for evaluation.
 2. Reply to the user to let them know.
@@ -161,7 +161,7 @@ If the user account is blocked:
   <p>Regards,</p>
 </details>
 
-If the account is unblocked, let the user know, then follow the rest of the process as normal. If needed, include other information about the verification process in the next reply.
+If the account is unblocked or unbanned, let the user know, then follow the rest of the process as normal. If needed, include other information about the verification process in the next reply.
 
 <details>
   <summary markdown="span">Account Unblocked by Security</summary>
@@ -173,7 +173,7 @@ If the account is unblocked, let the user know, then follow the rest of the proc
   <p>Regards,</p>
 </details>
 
-If the account stays blocked, apply the `Account Verification Failed` and `Deletion Request:: Denied` labels to the issue, and close it with the following:
+If the account stays blocked or banned, apply the `Account Verification Failed` and `Deletion Request:: Denied` labels to the issue, and close it with the following:
 
 <details>
   <summary markdown="span">Request Closed - Account Blocked by Security</summary>
