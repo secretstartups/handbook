@@ -24,7 +24,12 @@ managing adoption, and reviewing results for future improvements.
 
 ## Start with a Request for Comments (RFC)
 
-If you have an idea but aren't ready to propose specific changes yet, you can start
+An RFC is a safe space for a lively discussion where all contributors bring
+their own context and knowledge to determine the pros/cons of potential solutions.
+
+In an RFC _everyone_ contributes equally, **regardless of their title**.
+
+If you have an idea (or have noticed a problem) but aren't ready to propose specific changes yet, you can start
 with the [Request for Comments](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Request%20for%20Comments)
 issue template. The template includes guidance on how to make your RFC. 
 
