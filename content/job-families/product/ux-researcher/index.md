@@ -67,7 +67,7 @@ The UX Researcher (Intermediate) is a [grade 6](https://about.gitlab.com/handboo
 
 - Respond to solution validation user research inquiries that are escalated by Product Design.
 
-- Guide Product Managers and Product Designers to conduct research with a high degree of rigor. Help them follow defined research processes (ex: handbook procedures, opening and closing issues for research studies, documenting actionable insights, etc).
+- Guide Product Managers and Product Designers to conduct research with a high degree of rigor. Help them follow defined research processes (for example, handbook procedures, opening and closing issues for research studies, documenting actionable insights, etc).
 
 - Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade offs between scrappy research and rigor.
 
