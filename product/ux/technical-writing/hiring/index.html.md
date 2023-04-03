@@ -20,8 +20,8 @@ process is important for a consistent hiring process.
 General resources:
 
 - [Interviewing at GitLab](/handbook/hiring/interviewing/#conducting-a-gitlab-interview)
-- [Technical Writing Manager job family](https://about.gitlab.com/job-families/product/technical-writing-manager/)
-- [Technical Writing job family](https://about.gitlab.com/job-families/product/technical-writer/)
+- [Technical Writing Manager job family](https://handbook.gitlab.com/job-families/product/technical-writing-manager/)
+- [Technical Writing job family](https://handbook.gitlab.com/job-families/product/technical-writer/)
 
 ## Interviews for Technical Writing
 

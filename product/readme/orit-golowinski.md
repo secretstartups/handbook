@@ -10,7 +10,7 @@ Hi! Thanks for visiting my README, inspired by [Sid Sijbrandij](/handbook/ceo/),
 
 ## Orit's README
 
-My name is Orit Golowinski and I am the [Group Product Manager](https://about.gitlab.com/job-families/product/product-management-leadership/#group-manager-product-gmp) of the [Manage](https://about.gitlab.com/direction/manage/) stage. Previously, I was the Senior Product Manager of the [Release](https://about.gitlab.com/direction/release/) stage.
+My name is Orit Golowinski and I am the [Group Product Manager](https://handbook.gitlab.com/job-families/product/product-management-leadership/#group-manager-product-gmp) of the [Manage](https://about.gitlab.com/direction/manage/) stage. Previously, I was the Senior Product Manager of the [Release](https://about.gitlab.com/direction/release/) stage.
 
 * [GitLab Handle](https://gitlab.com/ogolowinski)
 * [Team Page](/company/team/#ogolowinski)
