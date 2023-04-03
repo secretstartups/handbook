@@ -37,7 +37,7 @@ Each root causes analysis meeting should follow (roughly) this agenda here.
   - **Make a proposal** If you need to decide something as a team make a proposal instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time.
 
 #### Discussion
-1. Go through the [root causes analysis](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/blob/master/.gitlab/issue_templates/rca.md).
+1. Go through the [root causes analysis](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/rca.md).
   - Identify key demographics for the engagement (customer contacts, GitLab team-members, dates, etc.)
   - Ensure to update links to the SOW for this engagement as well as the customer folder on Google Drive
   - Capture any remaining customer-facing action items and assign an owner
