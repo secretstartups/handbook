@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Governance and Program Management"
+title: "Governance and IT Program Management"
 description: "Describes the program methodology for GitLab IT programs to ensure strong results and execution in an efficient way, proper scoping consistent with our value of iteration, correct stakeholders consistent with our value of collaboration and proper documentation for compliance consistent with our transparency value."
 ---
 
