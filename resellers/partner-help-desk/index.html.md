@@ -57,7 +57,7 @@ This page is intended for Partner Help Desk specialists to document and review p
 
 <details>
 <summary markdown="span">Handbook Pages</summary>
-- [PHD Job Description](https://about.gitlab.com/job-families/sales/partner-help-desk-specialist/)
+- [PHD Job Description](https://handbook.gitlab.com/job-families/sales/partner-help-desk-specialist/)
 - [Channel Partner Handbook](https://about.gitlab.com/handbook/resellers/)
 - [Channel Operations](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/)
 - [Channel Programs Operations](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops)
