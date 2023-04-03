@@ -96,9 +96,7 @@ As per
     * Customer Emergencies - EMEA
     * Customer Emergencies - APAC Group 1
     * Customer Emergencies - APAC Group 2
-    * Shadow - Customer Emergenices - APAC 1
-    * Shadow - Customer Emergenices - APAC 2
-    * Shadow - Customer Emergencies - EMEA
+    * Shadow - Customer Emergenices
   * Escalates after 10 min
 * Level 2
   * Notify the following users or schedules
@@ -129,10 +127,7 @@ As per
     * Incident Management - CMOC (EMEA)
     * Incident Management - CMOC (APAC Group 1)
     * Incident Management - CMOC (APAC Group 2)
-    * Shadow - Incident Management - CMOC (AMER)
-    * Shadow - Incident Management - CMOC (APAC 1)
-    * Shadow - Incident Management - CMOC (APAC 2)
-    * Shadow - Incident Management - CMOC (EMEA)
+    * Shadow - Incident Management - CMOC
   * Escalates after 10 min
 * Level 2
   * Notify the following users or schedules
@@ -475,71 +470,11 @@ This rotation is used for assigning Support Managers SSAT reviewing duties.
   * Handoff time: Tuesday 0000
   * Hours: Not restricted to specific times
 
-### Shadow - Customer Emergenices - APAC 1
+### Shadow - Customer Emergenices
 
-* [Schedule link](https://gitlab.pagerduty.com/schedules#PY3KXMC)
+* [Schedule link](https://gitlab.pagerduty.com/schedules#PLNQAAB)
 * Timezone: UTC
 * Layer 1
-  * Rotation type: weekly
-  * Handoff time: Tuesday 0000
-  * Hours
-    * Sunday:    N/A
-    * Monday:    0000-0400
-    * Tuesday    0000-0400
-    * Wednesday: 0000-0400
-    * Thursday:  0000-0400
-    * Friday:    0000-0400
-    * Saturday:  N/A
-
-### Shadow - Customer Emergenices - APAC 2
-
-* [Schedule link](https://gitlab.pagerduty.com/schedules#P6HFQDO)
-* Timezone: UTC
-  * Rotation type: weekly
-  * Handoff time: Tuesday 0400
-  * Hours
-    * Sunday:    N/A
-    * Monday:    0400-0800
-    * Tuesday    0400-0800
-    * Wednesday: 0400-0800
-    * Thursday:  0400-0800
-    * Friday:    0400-0800
-    * Saturday:  N/A
-
-### Shadow - Customer Emergencies - EMEA
-
-* [Schedule link](https://gitlab.pagerduty.com/schedules#PGS0SE3)
-* Timezone: UTC
-  * Rotation type: weekly
-  * Handoff time: Monday 0800
-  * Hours
-    * Sunday:    N/A
-    * Monday:    0800-1600
-    * Tuesday    0800-1600
-    * Wednesday: 0800-1600
-    * Thursday:  0800-1600
-    * Friday:    0800-1600
-    * Saturday:  N/A
-
-### Shadow - Incident Management - CMOC (AMER)
-
-* [Schedule link](https://gitlab.pagerduty.com/schedules#PLI1F7W)
-* Timezone: UTC
-  * Rotation type: weekly
-  * Handoff time: Monday 1600
-  * Hours
-    * Sunday:    N/A
-    * Monday:    1600-0000
-    * Tuesday    1600-0000
-    * Wednesday: 1600-0000
-    * Thursday:  1600-0000
-    * Friday:    1600-0000
-    * Saturday:  N/A
-
-### Shadow - Incident Management - CMOC (APAC 1)
-
-* [Schedule link](https://gitlab.pagerduty.com/schedules#PD1A89Z)
-* Timezone: UTC
   * Rotation type: weekly
   * Handoff time: Monday 0000
   * Hours
@@ -550,13 +485,9 @@ This rotation is used for assigning Support Managers SSAT reviewing duties.
     * Thursday:  0000-0400
     * Friday:    0000-0400
     * Saturday:  N/A
-
-### Shadow - Incident Management - CMOC (APAC 2)
-
-* [Schedule link](https://gitlab.pagerduty.com/schedules#PV4W0FH)
-* Timezone: UTC
+* Layer 2
   * Rotation type: weekly
-  * Handoff time: Monday 0400
+  * Handoff time: Monday 0000
   * Hours
     * Sunday:    N/A
     * Monday:    0400-0800
@@ -565,14 +496,9 @@ This rotation is used for assigning Support Managers SSAT reviewing duties.
     * Thursday:  0400-0800
     * Friday:    0400-0800
     * Saturday:  N/A
-
-### Shadow - Incident Management - CMOC (EMEA)
-
-* [Schedule link](https://gitlab.pagerduty.com/schedules#PNB4FM1)
-* Timezone: (UTC+02:00) Amsterdam
-* Timezone: UTC
+* Layer 3
   * Rotation type: weekly
-  * Handoff time: Monday 0800
+  * Handoff time: Monday 0000
   * Hours
     * Sunday:    N/A
     * Monday:    0800-1600
@@ -580,6 +506,66 @@ This rotation is used for assigning Support Managers SSAT reviewing duties.
     * Wednesday: 0800-1600
     * Thursday:  0800-1600
     * Friday:    0800-1600
+    * Saturday:  N/A
+* Layer 3
+  * Rotation type: weekly
+  * Handoff time: Monday 0000
+  * Hours
+    * Sunday:    N/A
+    * Monday:    1600-0000
+    * Tuesday    1600-0000
+    * Wednesday: 1600-0000
+    * Thursday:  1600-0000
+    * Friday:    1600-0000
+    * Saturday:  N/A
+
+### Shadow - Incident Management - CMOC
+
+* [Schedule link](https://gitlab.pagerduty.com/schedules#P1UHNJP)
+* Timezone: UTC
+* Layer 1
+  * Rotation type: weekly
+  * Handoff time: Monday 0000
+  * Hours
+    * Sunday:    N/A
+    * Monday:    0000-0400
+    * Tuesday    0000-0400
+    * Wednesday: 0000-0400
+    * Thursday:  0000-0400
+    * Friday:    0000-0400
+    * Saturday:  N/A
+* Layer 2
+  * Rotation type: weekly
+  * Handoff time: Monday 0000
+  * Hours
+    * Sunday:    N/A
+    * Monday:    0400-0800
+    * Tuesday    0400-0800
+    * Wednesday: 0400-0800
+    * Thursday:  0400-0800
+    * Friday:    0400-0800
+    * Saturday:  N/A
+* Layer 3
+  * Rotation type: weekly
+  * Handoff time: Monday 0000
+  * Hours
+    * Sunday:    N/A
+    * Monday:    0800-1600
+    * Tuesday    0800-1600
+    * Wednesday: 0800-1600
+    * Thursday:  0800-1600
+    * Friday:    0800-1600
+    * Saturday:  N/A
+* Layer 3
+  * Rotation type: weekly
+  * Handoff time: Monday 0000
+  * Hours
+    * Sunday:    N/A
+    * Monday:    1600-0000
+    * Tuesday    1600-0000
+    * Wednesday: 1600-0000
+    * Thursday:  1600-0000
+    * Friday:    1600-0000
     * Saturday:  N/A
 
 ## Subscribing to a Schedule
