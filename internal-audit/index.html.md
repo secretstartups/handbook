@@ -164,7 +164,7 @@ The Company’s Vice President, Internal Audit will communicate to E-group and t
 
 * [Sarbanes-Oxley (SOX) Compliance](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/)
 
-* Interested in joining our team? Check out more [here](https://about.gitlab.com/job-families/finance/internal-audit/)
+* Interested in joining our team? Check out more [here](https://handbook.gitlab.com/job-families/finance/internal-audit/)
 
 * [FAQ on Internal Audit](https://www.theiia.org/en/about-us/advocacy/about-the-profession/faq/)
  
