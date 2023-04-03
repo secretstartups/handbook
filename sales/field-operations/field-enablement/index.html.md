@@ -167,12 +167,12 @@ Knowledge x Practice = Capability
 <details>
 <summary markdown="span">6. Who must do what?</summary>
 
-- **[Sr. Director, Field Enablement](/job-families/sales/director-of-field-enablement/#senior-director-field-enablement)**
+- **[Sr. Director, Field Enablement](https://handbook.gitlab.com/job-families/sales/director-of-field-enablement/#senior-director-field-enablement)**
     - TBH
-- **[Manager, Field Enablement](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
+- **[Manager, Field Enablement](https://handbook.gitlab.com/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
     - [Kelley Shirazi](/company/team/#kelley-shirazi) (Manager, Sales Enablement)
     - [Kris Reynolds](/company/team/#kreynolds1) (Sr. Manager, Customer Success Enablement)
-- **[Role-based Enablement Managers](/job-families/sales/program-manager-field-enablement/)**
+- **[Role-based Enablement Managers](https://handbook.gitlab.com/job-families/sales/program-manager-field-enablement/)**
     - [Emelie Rodriguez](/company/team/#emelier) (Sr. Program Manager, Enterprise Sales Enablement)
     - TBH (Sr. Program Manager, Enterprise Sales Enablement (EMEA & APAC))
     - [Misty Martin-Zimmerman](/company/team/#mzimmers) (Sr. Program Manager, Commercial Sales Enablement (AMER))
@@ -182,10 +182,10 @@ Knowledge x Practice = Capability
     - TBH (Sr. Program Manager, Solution Architect Enablement)
 - **[Director, Revenue Programs](https://about.gitlab.com/job-families/sales/revenue-programs/#director-revenue-programs)**
     - [Allison Gleisner](/company/team/#agleisner) 
-- **[Field Enablement Program Managers](/job-families/sales/program-manager-field-enablement/)**
+- **[Field Enablement Program Managers](https://handbook.gitlab.com/job-families/sales/program-manager-field-enablement/)**
     - [John Blevins](/company/team/#jblevins608) (Program Manager, Field Onboarding and Continuous Education)
     - [David Hernandez](/company/team/#dhernandez26) (Sr. Program Manager, Field Manager Development)
-- **[Field Communications & Content](/job-families/sales/field-communications)**
+- **[Field Communications & Content](https://handbook.gitlab.com/job-families/sales/field-communications)**
     - [Monica Gomez](/company/team/#monicaj) (Manager, Field Communications & Content)
     - [Shannon Thompson](/company/team/#shannonthompson) (Field Communications Specialist)
     - TBD (Senior Program Manager, Sales Content)
