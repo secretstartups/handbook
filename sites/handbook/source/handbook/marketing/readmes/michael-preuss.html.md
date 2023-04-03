@@ -12,7 +12,7 @@ description: "Learn more about working with Michael Preuss"
 
 
 ## About Me
-Hi 👋 my name is Michael Preuss. My last name is pronounced like Rolls Royce ... Royce ... Proyce ... Preuss. I know, it's German 🤷‍♂️ I'm the [Director of Digital Experience](https://about.gitlab.com/job-families/marketing/digital-experience/#director-of-digital-experience) at GitLab.
+Hi 👋 my name is Michael Preuss. My last name is pronounced like Rolls Royce ... Royce ... Proyce ... Preuss. I know, it's German 🤷‍♂️ I'm the [Director of Digital Experience](https://handbook.gitlab.com/job-families/marketing/digital-experience/#director-of-digital-experience) at GitLab.
 
 - [Digital Experience Handbook Page](https://about.gitlab.com/handbook/marketing/digital-experience/)
 - [GitLab Handle](https://gitlab.com/mpreuss22)
