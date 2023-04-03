@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/engineering-internship/"
 | Property        | Value                                                                                                           |
 |-----------------|-----------------------------------------------------------------------------------------------------------------|
 | Date Created    | March, 2022                                                                                                     |
-| Target End Date | February 28, 2023                                                                                               |
+| End Date        | March 28, 2023                                                                                                  |
 | Slack           | [#wg_engineering_internship_program](https://gitlab.slack.com/archives/C03GW8WMVA9)                             |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1hcuE6I6rvdISFk_zzYYdxFdJM4ONhRrGY499ydDUiWc/edit#)   |
 | Docs            | [Handbook Page](https://about.gitlab.com/handbook/engineering/internships/)                                     |
@@ -49,8 +49,9 @@ This working group aims to build on the previous work from the [internship-pilot
 
 #### Stage 3: Plan for FY24 `=> 0%`
 
-- Work through options to extend the internship in FY24
-- Draft a FY24-Q1 hiring goal for the Development Department (OKR)
+-  ✅ Work through options to extend the internship in FY24
+
+Options to extend the [internship program for Engineering](https://about.gitlab.com/handbook/engineering/internships/) in FY24 and beyond are being worked through as part of the recruitment team emerging talent program. 
 
 ## Roles and Responsibilities
 
