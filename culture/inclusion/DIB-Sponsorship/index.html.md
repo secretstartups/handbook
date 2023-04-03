@@ -28,22 +28,24 @@ Mentorship is defined in our [Mentoring handbook page:](https://about.gitlab.com
 
 [Harvard Business Review](https://hbr.org/2019/08/a-lack-of-sponsorship-is-keeping-women-from-advancing-into-leadership) defines the difference between sponsors versus mentors: “While a mentor is someone who has knowledge and will share it with you, a sponsor is a person who has power and will use it for you.”
 
-## Starting a Sponsorship Program
+## Starting a DIB Sponsorship Program
 
-A sponsorship program can start in a variety of ways: 
+A DIB sponsorship program can start in a variety of ways: 
+
     1. By request from a senior leader to a People Business Partner or DIB Team 
     2. By request of a People Business Partner as part of the departments ongoing people strategy
     3. By the Diversity, Inclusion & Belonging Team as part of the ongoing DIB Strategy for that department or GitLab as a whole 
 
 When requesting a new Sponsorship Program these things should be taken into consideration
+
     1. Bandwidth must be available to carry out the sponsorship program
     2. A defined list of potential participants
     3. Clear goals of the Sponsorship Program i.e; to provide growth opportunities to top performers or to increase leadership representation of a URG in the department 
 
-## Sponsorship Program Outline 
+## DIB Sponsorship Program Outline 
 
 * The program can be 6/9/12 months in duration
-* Create an issue using the issue template to begin the process 
+* Create an issue highlighting the URG or at risk group, timeframe, potential start date 
 * Identify and nominate Executive Sponsorship Advocates 
 * Identify Sponsors & agreement to particpate 
 * Nominate Sponsees & agreement to participate
@@ -90,7 +92,7 @@ The Executive Sponsorship Advocates are nominated senior leaders by the E-Group 
 - Provide opportunities and space for risk-taking and growth
 - Provide feedback on growth and skill development
 
-** The sponsorship relationship may not provide all the above but the sponsor should be willing and able to provide some of the opportunities above to the sponsor.**
+**The sponsorship relationship may not provide all the above but the sponsor should be willing and able to provide some of the opportunities above to the sponsor.**
 
 ## Role of a Sponsee
 
@@ -100,7 +102,7 @@ The Executive Sponsorship Advocates are nominated senior leaders by the E-Group 
 - Be able to commit to the duration of the program
 - Willing to commit to the overall expectations of the program as outlined throughout the handbook page
 
-** As a Sponsee you should be:**
+**As a Sponsee you should be:**
 - Be able to lead the relationship with your sponsor
 - Be able take risks with the relationship
 - Trust is a vital part of the relationship
@@ -131,7 +133,7 @@ The Executive Sponsorship Advocates are nominated senior leaders by the E-Group 
 
 ### Before you begin
 
-Create an issue using the issue template to begin the process of developing the Sponsorship Program 
+Create an issue in the [DIB Project](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/new)  to begin the process of developing the Sponsorship Program 
 
 ### Key Stakeholders 
 
