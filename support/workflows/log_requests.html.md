@@ -56,12 +56,13 @@ We can provide the following information:
 We cannot provide the following information:
 
 - Information about accounts or projects that the requester does not own.
-- Any information considered [Personal Data](personal_data_access_account_deletion.html) that is not about the requester. Also consider [the data covered under GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#what-is-covered-by-the-gdpr).
+- Any information considered [Personal Data](personal_data_access_account_deletion.html) that is not specifically about the individual requester. Also consider [the data covered under GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#what-is-covered-by-the-gdpr).
 - Any information that would disclose GitLab confidential information or processes.
 
 ## Sending logs and other Personal Data
 
-Any [Personal Data](personal_data_access_account_deletion.html) information that is pulled, such as a log request, needs to be delivered compressed and password protected to the requestor with the following guidelines:
+Any [Personal Data](personal_data_access_account_deletion.html) information that is pulled by the Security Incident Response Team (SIRT), 
+such as a log request, needs to be delivered compressed and password protected to the requestor with the following guidelines:
 
 - The password should be a random string of at least 10+ characters including numbers, lower and upper case letters.
 - The password protected file should be attached to the ZenDesk ticket, and the password needs to be sent separately through your email account directly to the customer's email address.
