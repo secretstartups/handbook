@@ -886,7 +886,7 @@ With this it is easier to store and view files such as videos, analyst reports (
 
 Here's how to do this:
 
-![Download Drive for desktop](~/sites/handbook/source/handbook/tools-and-tips/drive-for-desktop.png)
+<img src="/handbook/tools-and-tips/drive-for-desktop.png" alt="Download Drive for Desktop" width="400"/> 
 
 1. Make sure you are logged into your GitLab account in Google Drive in your browser
 1. Go to your Google Drive (https://drive.google.com)
