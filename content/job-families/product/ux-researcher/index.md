@@ -121,7 +121,7 @@ The Senior responsibilities, plus the responsibilities below:
 
 - Through your research, build a knowledge base that positions yourself as a thought leader within GitLab. Demonstrate this through your research insights and by sharing your unique point of view.
 
-- **Proactively and consistently** make connections between disparate research initiatives. This can be done by: identifying existing research that supplements a new initiative, looking for commonalities in findings to surface larger "macro" insights, through data triangulation, and/or combining similar research efforts.
+- **Proactively and consistently** make connections between disparate research initiatives. This can be done by: identifying existing research that supplements a new initiative, looking for commonalities in findings to surface larger "macro" insights, through data triangulation, and/or by combining similar research efforts.
 
 - Personally initiate and conduct research within stage groups, across stages, **and across GitLab**, to build deep foundational knowledge of GitLab users.
 
