@@ -352,7 +352,7 @@ Be sure to read general guidelines about [issues](https://docs.gitlab.com/ee/dev
 
 ## Working in Teams
 
-For larger issues or issues that contain many different moving parts, you'll be likely working in a team. This team will typically consist of a [backend engineer](/job-families/engineering/backend-engineer/), a [frontend engineer](/job-families/engineering/development/frontend/), a [Product Designer](/job-families/product/product-designer/) and a [product manager](/job-families/product/product-manager/).
+For larger issues or issues that contain many different moving parts, you'll be likely working in a team. This team will typically consist of a [backend engineer](https://handbook.gitlab.com/job-families/engineering/backend-engineer/), a [frontend engineer](https://handbook.gitlab.com/job-families/engineering/development/frontend/), a [Product Designer](https://handbook.gitlab.com/job-families/product/product-designer/) and a [product manager](https://handbook.gitlab.com/job-families/product/product-manager/).
 
 1. Teams have a shared responsibility to ship the issue in the planned release.
     1. If the team suspects that they might not be able to ship something in time, the team should escalate / inform others as soon as possible. A good start is informing your manager.
@@ -719,7 +719,7 @@ Milestones are closed when the Delivery team no longer needs to create a backpor
 
 ## Kickoff and Retrospective Public Stream Instructions
 
-Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](/job-families/people-group/executive-business-administrator/) for Engineering is the [moderator](/handbook/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend.
+Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) for Engineering is the [moderator](/handbook/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend.
 
 
 ## Use Group Labels and Group Milestones
