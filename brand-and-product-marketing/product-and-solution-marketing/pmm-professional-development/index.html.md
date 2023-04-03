@@ -4,7 +4,7 @@ title: "Product Marketing Professional Development"
 ---
 
 ## The PMM Role
-The Handbook's [Product Marketing Manager Role Page](/job-families/marketing/product-marketing-manager/) outlines the key responsibilities of your role. This page will discuss the ways in which you can measure and improve your performance in that role and develop yourself as a Marketer and [GitLab Team Member](/handbook/communication/top-misused-terms/).
+The Handbook's [Product Marketing Manager Role Page](https://handbook.gitlab.com/job-families/marketing/product-marketing-manager/) outlines the key responsibilities of your role. This page will discuss the ways in which you can measure and improve your performance in that role and develop yourself as a Marketer and [GitLab Team Member](/handbook/communication/top-misused-terms/).
 
 ## Performance Review
 Your manager will use the following criteria to perform regular performance reviews and identify areas of growth. We encourage you to understand these criteria, use them to guide your development between reviews, and contribute to the ongoing discussion about how they might grow and change to more accurately reflect what GitLab as an organization needs from our department.
