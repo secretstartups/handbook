@@ -56,6 +56,6 @@ See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/
 
 [Revenue Accounting Job Family Page](https://about.gitlab.com/job-families/finance/revenue-accounting/)
 
-The next step in the Revenue Accounting job family is to move to the [Principal Accounting Officer](/job-families/finance/pao-jf/) job family. 
+The next step in the Revenue Accounting job family is to move to the [Principal Accounting Officer](https://handbook.gitlab.com/job-families/finance/pao-jf/) job family. 
 
 
