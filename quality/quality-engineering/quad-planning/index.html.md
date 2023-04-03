@@ -21,7 +21,7 @@ These [4 areas are the main pillars](https://about.gitlab.com/handbook/product/p
 
 The quad planning has two aspects attached to it, which is as follows:
   1. Test Planning: For now this is the main focus of the quad-planning process. This is discussed elaborately in the below section.
-  1. Being involved in the design discussions: When there is a need to participate in design discussions, the PMs directly ping the corresponding [Software Engineer in Test](https://about.gitlab.com/job-families/engineering/software-engineer-in-test/) (SET) to participate.
+  1. Being involved in the design discussions: When there is a need to participate in design discussions, the PMs directly ping the corresponding [Software Engineer in Test](https://handbook.gitlab.com/job-families/engineering/software-engineer-in-test/) (SET) to participate.
 
 ## Process
 
