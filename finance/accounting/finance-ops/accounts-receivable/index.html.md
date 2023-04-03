@@ -197,9 +197,9 @@ Accounts payable on the other hand are a liability account, representing money t
 
 ## Accounts Receivable Job Family
 
-[Accounts Receivable Job Family Page](https://about.gitlab.com/job-families/finance/accounts-receivable/)
+[Accounts Receivable Job Family Page](https://handbook.gitlab.com/job-families/finance/accounts-receivable/)
 
-The next step in the Accounts Receivable job family is to move to the [Revenue Accounting](https://about.gitlab.com/job-families/finance/revenue-accounting/) job family.
+The next step in the Accounts Receivable job family is to move to the [Revenue Accounting](https://handbook.gitlab.com/job-families/finance/revenue-accounting/) job family.
 
 
 
