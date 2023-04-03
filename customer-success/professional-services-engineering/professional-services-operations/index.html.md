@@ -285,7 +285,7 @@ There is an agreement with revenue if FP items over $10,000 process after the cu
 * All hours are submitted and approved in Kantata on a weekly basis
 * The quarterly hours report is pulled from Kantata and reviewed by the Operations Manager and then provided to the PS Director for review and approval
 * A PS Director will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
-* The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
+* The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://handbook.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
 * Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
 
 ### Project Expenses

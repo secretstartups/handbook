@@ -32,9 +32,9 @@ The WW ["Customer Success Vision Page"](/handbook/customer-success/vision/) prov
 ## APJ Customer Success Team
 Currently the local APJ CS team has Solutions Architects & Customer Success Managers in the team. The team reports to the Manager, Solutions Architects and the Manager, Customer Success Manager respectively.
 
-- [Manager, Solutions Architects](https://about.gitlab.com/job-families/sales/solutions-architect/#manager-solutions-architects) responsibilities
+- [Manager, Solutions Architects](https://handbook.gitlab.com/job-families/sales/solutions-architect/#manager-solutions-architects) responsibilities
 - [Solutions Architect](/handbook/customer-success/solutions-architects/) responsibilities
-- [Manager, Customer Success Manager](https://about.gitlab.com/job-families/sales/customer-success-management/#manager-csm) responsibilities
+- [Manager, Customer Success Manager](https://handbook.gitlab.com/job-families/sales/customer-success-management/#manager-csm) responsibilities
 - [Customer Success Manager](/handbook/customer-success/csm/) responsibilities
 
 Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_chart) the [Manager, Solutions Architects](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto). The [Manager, Customer Success Manager](https://about.gitlab.com/company/team/#dthompson3) reports to the 

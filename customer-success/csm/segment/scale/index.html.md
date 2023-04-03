@@ -33,7 +33,7 @@ A core responsiblity for Scale CSEs is engaging with the customer base in target
 
 - 15 customer calls per week (3 per day)
 
-For an additional overview of our Scale team-specific responsibilities, please reference our Job Family: [Scale CSM Responsibilities & Requirements](https://about.gitlab.com/job-families/sales/customer-success-management/#scale)
+For an additional overview of our Scale team-specific responsibilities, please reference our Job Family: [Scale CSM Responsibilities & Requirements](https://handbook.gitlab.com/job-families/sales/customer-success-management/#scale)
 
 ### Operating Rhythm and Active Campaigns
 

@@ -16,7 +16,7 @@ The GitLab Demo Systems provide infrastructure for the GitLab Customer Success, 
 
 The Demo Systems were architected by [Jeff Martin](https://gitlab.com/jeffersonmartin) starting in October 2019 when he was a Senior Demo Systems Engineer. We have other team members that contributed to help support our users and infrastructure ([James Sandlin](https://gitlab.com/jsandlin) and [Cristiano Casella](https://gitlab.com/ccasella)). We also collaborate with counterparts in other departments for broader GitLab infrastructure configuration in AWS, GCP, etc and security incident response.
 
-In June 2021, Jeff Martin changed roles to a [Senior IT Systems Engineer](https://about.gitlab.com/job-families/finance/it-systems-engineer/) and the Demo Systems program became a managed service of the [IT Engineering Infrastructure](/handbook/business-technology/it/engineering/infrastructure/) team. We continue to maintain the infrastructure and Kubernetes support in the `#demo-systems` Slack channel and related channels listed below.
+In June 2021, Jeff Martin changed roles to a [Senior IT Systems Engineer](https://handbook.gitlab.com/job-families/finance/it-systems-engineer/) and the Demo Systems program became a managed service of the [IT Engineering Infrastructure](/handbook/business-technology/it/engineering/infrastructure/) team. We continue to maintain the infrastructure and Kubernetes support in the `#demo-systems` Slack channel and related channels listed below.
 
 For questions about what demo sample projects are available or peer assistance with troubleshooting your failed pipeline job, please ask in the `#cs-questions` Slack channel.
 

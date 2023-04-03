@@ -6,7 +6,7 @@ job: "Senior Customer Success Manager"
 ---
 
 ### About me
-I'm Sander Brienen, [customer success manager](https://about.gitlab.com/job-families/sales/customer-success-management/#senior-csm-responsibilities) for the EMEA region. Currently I'm covering mostly DACH accounts.
+I'm Sander Brienen, [customer success manager](https://handbook.gitlab.com/job-families/sales/customer-success-management/#senior-csm-responsibilities) for the EMEA region. Currently I'm covering mostly DACH accounts.
 
 I live in a small village close to the German border in the Netherlands, with my wife, children and [our dog](https://about.gitlab.com/company/team-pets/#12-bounty). We moved there because we liked to live a bit more rural. I now enjoy my daily rounds with the dog through the woods.
 
