@@ -19,7 +19,7 @@ twitter_creator: '@gitlab'
 
 ## Mission Statement
 
-The mission of GitLab’s Corporate Communications team is to amplify GitLab's product, people and partnerships in the media, via social media channels and through award wins. This team is responsible for global public relations (PR), social media, and executive communications (speaking). Corporate Communications Job families can be found [here](/job-families/marketing/corporate-communications-manager/).
+The mission of GitLab’s Corporate Communications team is to amplify GitLab's product, people and partnerships in the media, via social media channels and through award wins. This team is responsible for global public relations (PR), social media, and executive communications (speaking). Corporate Communications Job families can be found [here](https://handbook.gitlab.com/job-families/marketing/corporate-communications-manager/).
 
 _This page is the single source of truth for corporate communications objectives/goals, contact information, messaging, PR/social media guidelines, approval processes, strategy and more._
 
