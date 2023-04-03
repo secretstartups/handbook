@@ -25,7 +25,7 @@ The Digital Strategy team generates new prospects through paid channels by build
 - [Joon Shin](https://gitlab.com/jshin3) - Sr. Digital Marketing Manager
 - [Social Marketing](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/)
 
-[Click here](/job-families/marketing/digital-marketing-programs-manager/) to learn about the Digital Marketing Programs role.
+[Click here](https://handbook.gitlab.com/job-families/marketing/digital-marketing-programs-manager/) to learn about the Digital Marketing Programs role.
 
 ## Digital Strategy Responsibilities
 
