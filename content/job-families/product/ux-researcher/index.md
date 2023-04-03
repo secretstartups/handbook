@@ -123,7 +123,7 @@ The Senior responsibilities, plus the responsibilities below:
 
 - **Proactively and consistently** make connections between disparate research initiatives. This can be done by: identifying existing research that supplements a new initiative, looking for commonalities in findings to surface larger "macro" insights, through data triangulation, and/or by combining similar research efforts.
 
-- Personally initiate and conduct research within stage groups, across stages, **and across GitLab**, to build deep foundational knowledge of GitLab users.
+- Personally initiate and conduct research within stage groups, across stages, **and across GitLab** to build deep foundational knowledge of GitLab users.
 
 - Know GitLab: understand the technology, experiences, and features of the GitLab product. Demonstrate that knowledge by being able to ramp up and conduct research on any portion of the product.
 
