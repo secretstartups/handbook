@@ -140,9 +140,9 @@ How can managers determine whether their team members are Developing, Performing
 Performance against Job Family responsibilities, requirements, performance indicators, and functional competencies (if applicable) should be weighted at 60%. 
 
 * Review Job Families: Look at the Responsibilities section and how your team member is performing against those responsibilities 
-    * Example: [Software Engineer in Test](/job-families/engineering/software-engineer-in-test/#responsibilities)
+    * Example: [Software Engineer in Test](https://handbook.gitlab.com/job-families/engineering/software-engineer-in-test/#responsibilities)
 * Review Performance indicators per Job Family: Look at the Performance indicators.
-    * Example: [Software Engineer in Test](/job-families/engineering/software-engineer-in-test/#performance-indicators)
+    * Example: [Software Engineer in Test](https://handbook.gitlab.com/job-families/engineering/software-engineer-in-test/#performance-indicators)
 * _(if applicable)_ [Functional Competencies](/handbook/competencies/#functional-competencies)
 
 For management roles, please also review and consider the [levels](/company/team/structure/#levels) outlined in the Organizational Structure. 
