@@ -120,7 +120,7 @@ The reasons why we don't allow third party interview shadowing:
 
 1. Try to get a real sample of work, which we
 typically do for developers during a technical interview. Avoid puzzles or weird algorithm testing questions. Probing for data structures is fine as long as it is relevant to the job the person is going to do.
-1. Be mindful of the background of the candidate. Someone who knows 10 languages already (and some languages in particular, Perl for example) may pick up Ruby in a second if given the right chance. Don't assume that someone with a Java background will not be capable of moving to a different stack. Note that individual positions may have stricter requirements; the Backend Engineer position [requires Ruby experience](/job-families/engineering/backend-engineer/), for example.
+1. Be mindful of the background of the candidate. Someone who knows 10 languages already (and some languages in particular, Perl for example) may pick up Ruby in a second if given the right chance. Don't assume that someone with a Java background will not be capable of moving to a different stack. Note that individual positions may have stricter requirements; the Backend Engineer position [requires Ruby experience](https://handbook.gitlab.com/job-families/engineering/backend-engineer/), for example.
 1. Consider including non-engineering GitLab team-members in the interview to ask soft skills questions. Because technical people should be capable of talking to non-engineering people just fine, we should assess the candidate's ability to do so.
 
 ### Candidate Performance Evaluation
