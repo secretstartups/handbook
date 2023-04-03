@@ -29,7 +29,7 @@ Listed below are some of our concerns bucketed by type. We do not view the list 
 
 1. Keep our [promises](/company/stewardship/#promises)
 1. Keep listening
-1. Assign [Merge Request Coaches](/job-families/expert/merge-request-coach/)
+1. Assign [Merge Request Coaches](https://handbook.gitlab.com/job-families/expert/merge-request-coach/)
 1. Have [Leading Organizations](/handbook/marketing/community-relations/leading-organizations)
 
 ### Loss of the values that bind us
@@ -116,7 +116,7 @@ While this could be reflected in [loss of velocity](#loss-of-velocity), innovati
 
 In addition to [keeping our hiring bar high](#lowering-the-hiring-bar), we have the benefit of our community to help bring new insights and use cases creating issues.
 We can keep this momentum by continuing to value and engage with our community.
-We have [Merge Request Coaches](/job-families/expert/merge-request-coach/) who help contributors to get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
+We have [Merge Request Coaches](https://handbook.gitlab.com/job-families/expert/merge-request-coach/) who help contributors to get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
 and [wider community contributions per release](/handbook/marketing/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI](/company/kpis/#gitlab-kpis).
 
 ### Irresponsible transparency
@@ -341,7 +341,7 @@ To ensure the people we hire make the company better, we:
 1. Ensure that interviewers are scoring candidates consistently. [Some teams are actively doing this](/handbook/engineering/frontend/interview-metrics/)
 1. Review the interview scores of new hires to look for trends
 1. [Identify and take action on underperformance](/handbook/leadership/underperformance)
-1. (make this unneeded) Have the CPO and CEO sample new hires and review [manager](/company/team/structure/#management-group), [staff engineer](/job-families/engineering/backend-engineer/), [principal product manager](/job-families/product/product-manager/) and up hires
+1. (make this unneeded) Have the CPO and CEO sample new hires and review [manager](/company/team/structure/#management-group), [staff engineer](https://handbook.gitlab.com/job-families/engineering/backend-engineer/), [principal product manager](https://handbook.gitlab.com/job-families/product/product-manager/) and up hires
 1. Compare the external title with the new title being given
 1. Conduct bar raiser interviews
 1. Review cohort performance in the company (completion of onboarding tasks, bonuses, performance review, 360 feedback, performance indicators)
