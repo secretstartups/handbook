@@ -13,14 +13,14 @@ title: "Career Development in the Infrastructure Department"
 
 There are a number of tools we use to plot and manage career development:
 
-* [Role descriptions](https://about.gitlab.com/job-families/engineering/infrastructure/), which outline role responsibilities, requirements and nice-to-haves for each level in the role.
+* [Role descriptions](https://handbook.gitlab.com/job-families/engineering/infrastructure/), which outline role responsibilities, requirements and nice-to-haves for each level in the role.
 * Big Picture Career Conversations
 * Quarterly checkpoints
 * 1:1s
 * [360 Feedback](/handbook/people-group/360-feedback/)
 * [Talent Assessment](/handbook/people-group/talent-assessment/)
 
-Maintaining current [role descriptions](https://about.gitlab.com/job-families/engineering/infrastructure/) which establish expectations for hiring and ongoing performance expectations is an important supporting function for effective Career Development planning.
+Maintaining current [role descriptions](https://handbook.gitlab.com/job-families/engineering/infrastructure/) which establish expectations for hiring and ongoing performance expectations is an important supporting function for effective Career Development planning.
 
 The rest of the tools are for active engagement by the Team Member along with their Manager. The origin activity for this is the Big Picture Career Conversation, followed up with quarterly checkpoints and frequent 1:1s. Finally, 360 Feedback and Talent Assessment provide annual opportunities for additional insight on progress.
 

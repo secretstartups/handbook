@@ -11,7 +11,7 @@ title: "Infrastructure Product Management"
 
 ## Responsibilities
 
-The responsibilities of the Infrastructure Product Manager are [documented in the job-families page](https://about.gitlab.com/job-families/product/product-manager/#infrastructure).
+The responsibilities of the Infrastructure Product Manager are [documented in the job-families page](https://handbook.gitlab.com/job-families/product/product-manager/#infrastructure).
 
 ## Engagement Model
 ### Inbound Requests
