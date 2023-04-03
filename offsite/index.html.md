@@ -25,7 +25,7 @@ The agenda should include discussions that are:
 ## Attendees
 
 1. [Executives](/company/team/structure/#executives){:data-ga-name="executives"}{:data-ga-location="body"}
-1. [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/){:data-ga-name="chief of staff"}{:data-ga-location="body"}; when not possible, the [Director, Strategy and Operations](/job-families/chief-executive-officer/strategy-and-operations/){:data-ga-name="director strategy and operations"}{:data-ga-location="body"}
+1. [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/){:data-ga-name="chief of staff"}{:data-ga-location="body"}; when not possible, the [Director, Strategy and Operations](https://handbook.gitlab.com/job-families/chief-executive-officer/strategy-and-operations/){:data-ga-name="director strategy and operations"}{:data-ga-location="body"}
 1. [CEO Shadows](/handbook/ceo/shadow/){:data-ga-name="CEO shadow"}{:data-ga-location="body"}
 1. [Executive Business Admin](/handbook/eba/#executive-business-administrator-team){:data-ga-name="executive business admin"}{:data-ga-location="body"} to the CEO (optional)
 1. Invited participants: folks invited to participate in one or more specific session
