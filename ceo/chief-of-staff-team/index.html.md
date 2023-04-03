@@ -20,8 +20,8 @@ Lead select cross-functional initiatives of importance to GitLab.
 
 
 ## Quick Links and Fun Facts
-* [Chief of Staff to the CEO Job Family](/job-families/chief-executive-officer/chief-of-staff/)
-* [Strategy & Operations Job Family](/job-families/chief-executive-officer/strategy-and-operations/)
+* [Chief of Staff to the CEO Job Family](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/)
+* [Strategy & Operations Job Family](https://handbook.gitlab.com/job-families/chief-executive-officer/strategy-and-operations/)
 * [GitLab Strategy and Operations (Workplace) Team Handbook](/handbook/ceo/chief-of-staff-team/workplace/)
 * [Performance Indicators](/handbook/ceo/chief-of-staff-team/performance-indicators/)
 * CoS to the CEO = Chief of Staff to the CEO
@@ -57,7 +57,7 @@ The CoS to the CEO and their team may work on projects that fit *any combination
 
 This is not an exhaustive list of the types of work the CoST to the CEO might do.
 
-The CoST to the CEO works closely with the [CEO](/job-families/chief-executive-officer/), the [E-Group](/company/team/structure/#e-group), the [EBA to the CEO](/job-families/people-group/executive-business-administrator/), and [CEO Shadows](/handbook/ceo/shadow/).
+The CoST to the CEO works closely with the [CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/), the [E-Group](/company/team/structure/#e-group), the [EBA to the CEO](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/), and [CEO Shadows](/handbook/ceo/shadow/).
 
 #### Many Functional
 
@@ -139,7 +139,7 @@ We work from the bottom up in agendas unless told to prioritize otherwise.
 
 ### Prioritization 
 
-Since the team has limited capacity to lean into everything that it may want or be asked to, it is thoughtful about team and individual capacity. Members of the Chief of Staff Team to the CEO will be expected to manage both directed and leadership (largely self-directed) work. You can find definitions and examples of directed and leadership work on the [CoS to the CEO handbook page](/job-families/chief-executive-officer/chief-of-staff/#responsibilities).  
+Since the team has limited capacity to lean into everything that it may want or be asked to, it is thoughtful about team and individual capacity. Members of the Chief of Staff Team to the CEO will be expected to manage both directed and leadership (largely self-directed) work. You can find definitions and examples of directed and leadership work on the [CoS to the CEO handbook page](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/#responsibilities).  
 
 When newly initiated, self-directed, leadership work entails a significant time commitment (>20% capacity for more than a week), the work being done should be flagged to the CoST to the CEO in a 1:1 or team meeting. This work should stay on the 1:1 agenda between the CoS to the CEO and the team member for the duration of the activity. If needed, activities may be reprioritized based on top demands and priorities. 
 

@@ -47,7 +47,7 @@ For now, this role is called a [CEO shadow](https://feld.com/archives/2015/03/ce
 
 Other names considered:
 
-1. Technical assistant: This title could be mixed up with the [executive assistant](/job-families/people-group/executive-business-administrator/) role. ["In 2003, Mr. Bezos picked Mr. Jassy to be his technical assistant, a role that entailed shadowing the Amazon CEO in all of his weekly meetings and acting as a kind of chief of staff."](https://www.theinformation.com/articles/amazons-cloud-king-inside-the-world-of-andy-jassy).
+1. Technical assistant: This title could be mixed up with the [executive assistant](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) role. ["In 2003, Mr. Bezos picked Mr. Jassy to be his technical assistant, a role that entailed shadowing the Amazon CEO in all of his weekly meetings and acting as a kind of chief of staff."](https://www.theinformation.com/articles/amazons-cloud-king-inside-the-world-of-andy-jassy).
 1. Chief of Staff to the CEO: This commonly is the ["coordinator of the supporting staff"](https://en.wikipedia.org/wiki/Chief_of_staff) which is not the case for this role since people rotate out of it frequently.
 1. [Global Leadership Shadow Program:](https://www2.deloitte.com/gr/en/pages/careers/articles/leadership-shadow-program.html) This is too long if only the CEO is shadowed.
 
@@ -139,7 +139,7 @@ Learn more about what to expect from a [remote shadow rotation](#remote-shadow-r
 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule).
 1. Assign your manager and ask them to approve (**but not to merge**) the merge request. 
-1. Once your manager approves the merge request, assign the merge request to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/), link to the merge request in the `#ceo-shadow` channel, and `@mention` the Executive Business Admin supporting the CEO in the message.
+1. Once your manager approves the merge request, assign the merge request to the [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/), link to the merge request in the `#ceo-shadow` channel, and `@mention` the Executive Business Admin supporting the CEO in the message.
 
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
 
@@ -242,7 +242,7 @@ Feel free to schedule a coffee chat with any of the CEO Shadow Alumni. You can r
 
 #### Coffee Chat with the CLO
 
-This session is designed to answer any questions you may have about your learnings or observations during your time in the Shadow Program. Should it be useful or complementary to your time as a CEO Shadow, our [Chief Legal Officer (CLO)](/job-families/legal-and-corporate-affairs/chief-legal-officer/) hosts Monthly Shadow Chats.
+This session is designed to answer any questions you may have about your learnings or observations during your time in the Shadow Program. Should it be useful or complementary to your time as a CEO Shadow, our [Chief Legal Officer (CLO)](https://handbook.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/) hosts Monthly Shadow Chats.
 
 Please @ mention the CLO's [Sr. EBA](/handbook/eba/#executive-business-administrator-team) in `#ceo-shadow` should you wish to be added to an upcoming session, or if you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.
 
@@ -359,7 +359,7 @@ A tweet storm is a series of Twitter posts usually made as replies in a single t
     1. When you add URLs, use the [card validator](https://cards-dev.twitter.com/validator) to render a preview. This can help to refine the tweet text.
     1. More message tips can be found in the [Developer Evangelism on Social Media handbook](/handbook/marketing/community-relations/developer-evangelism/social-media/#message-tips).
     1. [2021-12-15 example for Chief of Staff videos](https://docs.google.com/document/d/1BL2ZBtqF5fKdQox0p2lde_qv-75rXwYmQNHvKJnUR-8/edit) (internal).
-1. Once complete, change the document's Owner to the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
+1. Once complete, change the document's Owner to the [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/).
 
 Tweet storm examples:
 
@@ -457,7 +457,7 @@ Personal meetings will be marked as "busy" on the calendar. Shadows do not atten
 ##### Earnings Call Prep Webinars
 {:.no_toc}
 
-Earnings prep webinars differ from other meetings on the CEO calendar as shadows should be added to the webinar as a participant using their invdividual GitLab team member email address vs. joining using the CEO's link. If you have not received an invite to an Earnings Prep Webinar on your individual calendar, please reach out to the [EBAs](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/) on Slack
+Earnings prep webinars differ from other meetings on the CEO calendar as shadows should be added to the webinar as a participant using their invdividual GitLab team member email address vs. joining using the CEO's link. If you have not received an invite to an Earnings Prep Webinar on your individual calendar, please reach out to the [EBAs](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/) on Slack
 
 ##### Earnings Call
 {:.no_toc}
@@ -500,7 +500,7 @@ Here are the responsibilities shadows have during meetings:
 
 Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is explicitly stated not to take notes.
 
-If you're unsure whether or not to take notes, default to take them, ask the CEO before the meeting begins, or ping the [EBAs](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/) on Slack via `#ceo-shadow` or `ceo-shadow-private` (depending on the sensitivity of the meeting).
+If you're unsure whether or not to take notes, default to take them, ask the CEO before the meeting begins, or ping the [EBAs](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/) on Slack via `#ceo-shadow` or `ceo-shadow-private` (depending on the sensitivity of the meeting).
 
 
 ##### Taking notes

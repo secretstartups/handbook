@@ -16,7 +16,7 @@ description: "This page details processes specific to Sid, CEO of GitLab."
 This page details processes specific to Sid, CEO of GitLab.
 The page is intended to be helpful, feel free to deviate from it and update this page if you think it makes sense.
 If there are things that might seem pretentious or overbearing please raise them so we can remove or adapt them.
-Many items on this page are a guidelines for our [Executive Business Administrators](/job-families/people-group/executive-business-administrator/) (EBAs).
+Many items on this page are a guidelines for our [Executive Business Administrators](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) (EBAs).
 
 ### CEO Bio
 
@@ -33,7 +33,7 @@ A pronunciation hint for `Sijbrandij`: It’s like when you have seen some disti
 ## Related pages
 
 - [CEO shadow program](/handbook/ceo/shadow/)
-- [CEO Job Description](/job-families/chief-executive-officer/)
+- [CEO Job Description](https://handbook.gitlab.com/job-families/chief-executive-officer/)
 
 ## Favorite Restaurants
 
@@ -339,7 +339,7 @@ People regularly ask what I use for my home office setup. Below is a list of the
 Note: I have paid for all of these items myself. Please refer to [GitLab's expense policy](https://about.gitlab.com/handbook/finance/expenses/#-office-equipment-and-supplies) for office equipment and supplies when purchasing and expensing home office items. 
 
 ## CEO Voice
-When preparing scripts or documents in my voice, please follow these guidelines. This list can help you prepare a draft that is as close as possible to my natural way of communicating. For additional information or questions, please contact the `#external-comms` Slack channel or the [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/).
+When preparing scripts or documents in my voice, please follow these guidelines. This list can help you prepare a draft that is as close as possible to my natural way of communicating. For additional information or questions, please contact the `#external-comms` Slack channel or the [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/).
 
 1. Avoid “we” or “our” when discussing the product. I don’t wish to speak on behalf of others or to imply that GitLab team members are owners of GitLab or its users. Everyone can contribute = everyone has some ownership of GitLab.
 1. Less is more. If you can say something in fewer words, do so. I prefer speaking in shorter sentences. 
