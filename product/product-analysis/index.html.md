@@ -28,12 +28,12 @@ Read more about what we do at GitLab on our [Direction](/direction/product-analy
 ### Team members
 {:.no_toc}
 
-* [Carolyn Braza](/company/team/#cbraza): [Senior Manager, Product Data Insights](/job-families/product/product-analyst/#senior-manager-product-data-insights)
-* [Dave Peterson](/company/team/#dpeterson1): [Staff Product Analyst](/job-families/product/product-analyst/#staff-product-analyst)
-* [Matthew Petersen](/company/team/#matthewpetersen): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
-* [Nicole Hervas](/company/team/#nhervas): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
-* [Neil Raisinghani](/company/team/#nraisinghani): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
-* [Emma Neuberger](/company/team/#eneuberger): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
+* [Carolyn Braza](/company/team/#cbraza): [Senior Manager, Product Data Insights](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-manager-product-data-insights)
+* [Dave Peterson](/company/team/#dpeterson1): [Staff Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#staff-product-analyst)
+* [Matthew Petersen](/company/team/#matthewpetersen): [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst)
+* [Nicole Hervas](/company/team/#nhervas): [Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#product-analyst-intermediate)
+* [Neil Raisinghani](/company/team/#nraisinghani): [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst)
+* [Emma Neuberger](/company/team/#eneuberger): [Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#product-analyst-intermediate)
 
 ## Handbook contents
 
