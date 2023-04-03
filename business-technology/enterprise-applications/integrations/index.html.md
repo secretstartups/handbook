@@ -41,21 +41,21 @@ GitLab handle: [@dparker](https://gitlab.com/dparker){:target="_blank"}
 
 Slack handle: [@dparker](https://gitlab.slack.com/team/U01760T6R6Y){:target="_blank"}
 
-Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#senior-integrations-engineer){:target="_blank"}
+Job Family: [Integrations Engineer](https://handbook.gitlab.com/job-families/finance/integrations-engineer/#senior-integrations-engineer){:target="_blank"}
 
 ### Karuna Singh - Integrations Engineer
 GitLab handle: [@Karuna16](https://gitlab.com/Karuna16){:target="_blank"}
 
 Slack handle: [@Karuna Singh](https://gitlab.slack.com/team/U01GEHXQZEK){:target="_blank"}
 
-Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
+Job Family: [Integrations Engineer](https://handbook.gitlab.com/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
 
 ### Dominic Roy-Stang - Integrations Engineer
 GitLab handle: [@droystang](https://gitlab.com/droystang){:target="_blank"}
 
 Slack handle: [@droystang](https://gitlab.slack.com/team/U01JM8ZJUVD){:target="_blank"}
 
-Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
+Job Family: [Integrations Engineer](https://handbook.gitlab.com/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
 
 ### Contacting us
 Slack: `#bt-integrations`

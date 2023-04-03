@@ -289,7 +289,7 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 |	|		|		|		|		|		|		|
 |	**Finance**	|		|		|		|		|		|		|
 |	[Sales Finance](/handbook/finance/financial-planning-and-analysis/sales-finance/)	|	@fkurniadi 	|	[#data-gtm-projects](https://gitlab.slack.com/archives/C01A2DWTL4A)	|		|		|	
-|	[Analytics & Insights](/job-families/finance/analytics-and-insights/)	|	@statimatla, @kkarthikeyan |	various / project-based	|	UCI	|		|	
+|	[Analytics & Insights](https://handbook.gitlab.com/job-families/finance/analytics-and-insights/)	|	@statimatla, @kkarthikeyan |	various / project-based	|	UCI	|		|	
 |	Corporate Finance	|	@james.shen	|	various / project-based	|		|		|		|		|
 |	|		|		|		|		|		|		|
 |	**X-Functional Programs**	|		|		|		|		|		|		|

@@ -204,7 +204,7 @@ According to DPA (Data Processing Agreement) that we have with Jamf in the event
 
 ### Who owns and manages Jamf at GitLab?
 
-GitLab IT Operations is the owner of Jamf and the [Manager, IT](/job-families/finance/manager-it/) is the DRI.
+GitLab IT Operations is the owner of Jamf and the [Manager, IT](https://handbook.gitlab.com/job-families/finance/manager-it/) is the DRI.
 
 ### Who ensures IT Operations is managing the tool correctly and ethically?
 
