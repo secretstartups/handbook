@@ -29,19 +29,17 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|  
-| 2023-02-08 | Effective Communication | Cat Tran & Pallavi Daliparthi | 
-| 2023-02-22 | Monthly Product Overview | TBD | 
-| 2023-03-08 | Tech Skill | TBD | 
-| 2023-03-22 | Monthly Product Overview | TBD | 
-| 2023-04-05 | Professional Services | TBD | 
-| 2023-04-19 | Monthly Product Overview | TBD | 
+| 2023-03-21 | Value Pillar Messaging (see below for recording) | Saumya Upadhyaya & Haim Snir | 
+| 2023-04-05 | Customer Education AMA | Niyati Shah | 
+| 2023-04-19 | Indicators for Scaling GitLab | Caleb Cooper | 
 
 ## Past Sessions
 <details>
 <summary markdown="span">Click here to see links to past sessions on YouTube</summary>
 
 | **Date** | **Topic** | **Public or Private** |
-| ------   | ------    | ------                |                          
+| ------   | ------    | ------                |   
+| 2023-03-21 | **[Value Pillar Messaging](https://youtu.be/mLmvBpvAT00)** | Public |                        
 | 2022-12-07 | **[GitOps Overview and Demo - Session 2](https://www.youtube.com/watch?v=_DMdSHIfQYI)** | Public |  
 | 2022-12-06 | **[GitOps Overview and Demo - Session 1](https://www.youtube.com/watch?v=fKTwNhSHcJw)** | Public | 
 | 2022-11-30 | **[Buyer Persona AMA](https://youtu.be/AdgiCCRo7LE)** | Public | 
