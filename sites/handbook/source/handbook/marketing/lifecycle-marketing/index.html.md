@@ -18,11 +18,11 @@ twitter_creator: '@gitlab'
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-[Lifecycle Marketing](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing) is responsible for strategizing, executing, and optimizing a data-driven user lifecycle communications strategy and overall email marketing plan, including ongoing nurture email campaigns.
+[Lifecycle Marketing](https://handbook.gitlab.com/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing) is responsible for strategizing, executing, and optimizing a data-driven user lifecycle communications strategy and overall email marketing plan, including ongoing nurture email campaigns.
 
 This role works closely across Marketing for all things email, and directly with the Product Growth, Data, and Self-service Teams to collaborate, plan, and prioritize communication to better engage GitLab users and progress them through the buyer and customer lifecycle. The lifecycle marketing manager will focus on user paths to revenue, including engaging free .com users, trial users, and paid users of GitLab.
 
-[Read the job family here >>](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing)
+[Read the job family here >>](https://handbook.gitlab.com/job-families/marketing/marketing-campaign-manager/#user-lifecycle-marketing)
 
 For a comprehensive view of our [nurture programs](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#nurture-programs), [best practices](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#best-practices), [email processes](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#email-processes), and more, please go to our [Email & Nurture Handbook page](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/). Please reach out to Allie Klatzkin or Luis Diego D'ambrosio with any questions.
 
