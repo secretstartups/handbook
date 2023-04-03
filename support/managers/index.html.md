@@ -23,7 +23,7 @@ As a Support Manager at GitLab, you will be focusing on the following things:
 You can read more about the role below:
 
 - [Support Manager Responsibilities](https://about.gitlab.com/handbook/support/managers/manager-responsibilities.html)
-- [Support Management Job Family](https://about.gitlab.com/job-families/engineering/support-management/)
+- [Support Management Job Family](https://handbook.gitlab.com/job-families/engineering/support-management/)
 
 ### Regional Variations
 
