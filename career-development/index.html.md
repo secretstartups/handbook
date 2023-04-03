@@ -24,7 +24,7 @@ Specific coaching plan templates are listed here to help start the conversation:
 - (Others to come)
 
 We want to build these documents around the career matrix for Engineering. Since this career
-matrix is still being developed, these documents are currently based on the [job family requirements](/job-families/engineering/).
+matrix is still being developed, these documents are currently based on the [job family requirements](https://handbook.gitlab.com/job-families/engineering/).
 
 The first career matrix being developed is for [Individual Contributors in Engineering](/handbook/engineering/career-development/matrix/engineering/).
 
@@ -421,11 +421,11 @@ With the roll out of the intern level in Engineering we have decided to deprecat
 
 ## Senior Engineers
 
-Note that we have a specific section for [Senior Engineer](/job-families/engineering/backend-engineer/#senior-backend-engineer) because it's an important step in the technical development for every engineer. But "Senior" can optionally be applied to any role here indicating superior performance. However, it's not required to pass through "senior" for roles other than Engineer.
+Note that we have a specific section for [Senior Engineer](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#senior-backend-engineer) because it's an important step in the technical development for every engineer. But "Senior" can optionally be applied to any role here indicating superior performance. However, it's not required to pass through "senior" for roles other than Engineer.
 
 The Senior Engineer role is a critical role where we need the most contributions. It should also be considered a destination role. It is not a given that you will naturally progress into the next role, whether it is Staff or Management. There are different needs and expectations for the next role. Individual growth and progression is supported and encouraged at GitLab, however progression beyond the Senior Engineering role is gated on availability and need. There may not be a need for another Staff or Management position.
 
-Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](/job-families/engineering/infrastructure/distinguished-engineer/) positions extend the Senior Engineer role.
+Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](https://handbook.gitlab.com/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](https://handbook.gitlab.com/job-families/engineering/infrastructure/distinguished-engineer/) positions extend the Senior Engineer role.
 
 ## Promotion
 
