@@ -15,7 +15,7 @@ This README is designed to give you a bit of background information on me.
 
 ## About me
 
-Hi! I started with GitLab in December, 2021 as a [Support Engineer](https://about.gitlab.com/job-families/engineering/support-engineer/) for the APAC region. 
+Hi! I started with GitLab in December, 2021 as a [Support Engineer](https://handbook.gitlab.com/job-families/engineering/support-engineer/) for the APAC region. 
 I live near [Sydney, Australia](https://en.wikipedia.org/wiki/Sydney) 🇦🇺  and my primary operating hours are [8 AM to 4 PM (Australian Eastern)](https://www.timeanddate.com/worldclock/australia/sydney).
 
 ## Coffee Chat topics
