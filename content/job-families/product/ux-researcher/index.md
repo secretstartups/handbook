@@ -75,7 +75,7 @@ The UX Researcher (Intermediate) is a [grade 6](https://about.gitlab.com/handboo
 
 - Participate in some of the research fielded by Senior and/or Staff Researchers to gain knowledge and exposure to more complex research projects.
 
-- Actively contribute to the UX Research team culture by iterating on existing processes, documentation and contributing to peer reviews.
+- Actively contribute to the UX Research team culture by iterating on existing processes and documentation and contributing to peer reviews.
 
 ### Senior
 
