@@ -22,6 +22,26 @@ The Customer Emergencies rotation is one of the rotations that make up [GitLab S
 
 To be added to the Customer Emergency On Call Rotation, you should have first completed the [Customer Emergency On-Call training module](https://gitlab.com/gitlab-com/support/support-training/-/issues/new) and then after agreement with your manager, you should raise a new [Pager Duty Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues) with the Support-Ops team requesting that you are added to the appropriate Pager Duty rotation. 
 
+#### Considerations in AMER
+
+Customer Emergency shifts are 6-hour long overlapping shifts.
+
+Due to an increase in concurrent emergencies, we have split the AMER shift into 3 overlapping schedules that are 6-hours in length to cover the 8 hour AMER on-call window. The schedules have been split to allow engineers to cover hours that align closest with their working hours.
+
+- AMER 1 hours: 12:00 PM to 6:00 PM EDT (16:00 to 22:00 UTC)
+- AMER 2 hours: 1:00 PM to 7:00 PM EDT (17:00 to 23:00 UTC)
+- AMER 3 hours: 2:00 PM to 8:00 PM EDT (18:00 to 24:00 UTC)
+
+This leaves the first and last hours of the AMER on-call window with a single engineer on-call. If multiple emergencies come in during these times, follow the [Handling multiple simultaneous emergencies](/handbook/support/workflows/customer_emergencies_workflows.html#handling-multiple-simultaneous-emergencies) workflow.
+
+Each group is encouraged to coordinate a DRI role for the shift. The DRI will be responsible for taking assignment of the first emergency. The non-DRIs will take concurrent emergencies as they come in.
+
+An example DRI schedule is below. Note that AMER 2 is DRI for 30 minutes longer since they will overlap with AMER 1 or AMER 3 across all of their shift hours.
+
+- AMER 1 DRI: 12:00pm - 14:30pm EDT
+- AMER 2 DRI: 14:30pm - 17:30pm EDT
+- AMER 3 DRI: 17:30pm - 20:00 EDT
+
 ### Communicate
 
 When you get an alert, you should immediately start a Slack thread and take notes therein. Tag the Customer Success Manager (CSM) - "cc @user" is good enough - if the customer has one (steps [here](/handbook/support/workflows/support-sales-escalations.html#role-customer-success-manager-csm) for how to identify CSMs). This creates visibility around the situation and opens the door to let the team join in.
