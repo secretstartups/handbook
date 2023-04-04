@@ -42,19 +42,20 @@ We have four main objectives for this TMRG:
 
 ## Leads
 * [Jackie Porter](https://gitlab.com/sheelaviswanathan)
-* [Gena Schawam](https://gitlab.com/cs.wang) [Co-Lead]
+* [Gena Schawam](https://gitlab.com/gschwam) [Co-Lead]
 * Open
 * Open 
 
 ## Executive Sponsors
-*  Open 
+*  [Wendy Barnes](https://gitlab.com/wendybarnes)
 
 ## How To Get Involved
 * Join our Google Group and connect with us on Slack!
 
 ### Upcoming Events 
 
-Coming soon! 
+1. April 11th - Happy Healthy Caregiver "Be Bold with Your Time: How to Create (Not Find) Time for Yourself" [Google Calendar Event Link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzBjaWk3M3VxOXB2cGlhOG9tOWlkMGFkNnIganBvcnRlckBnaXRsYWIuY29t&tmsrc=jporter%40gitlab.com)
+1. August 2nd - Coaching for Caregivers 
 
 ### Past Events 
 
@@ -63,3 +64,9 @@ Coming soon!
 Coming soon! 
 
 ### Caregiver Resources at GitLab 
+
+1. [Flexible PTO](/handbook/total-rewards/benefits/general-and-entity-benefits/#paid-time-off)
+1. [Financial Wellness](/handbook/total-rewards/benefits/general-and-entity-benefits/#financial-wellness)
+1. [Care Concierge Pilot](/handbook/total-rewards/benefits/general-and-entity-benefits/#financial-wellness)
+1. [Family Planning](/handbook/total-rewards/benefits/general-and-entity-benefits/#fertility--family-planning)
+1. [Parental Leave](/total-rewards/benefits/general-and-entity-benefits/#parental-leave)
