@@ -87,7 +87,7 @@ Any bonus submitted that does not include clear and valid reasons for submission
 
 #### Multiple Discretionary Bonuses
 
-If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement.
+If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #thanks Slack channel announcement.
 
 **For example:**
 - Person A submits a valid nomination for Project X on 2021-01-01
@@ -95,7 +95,7 @@ If you received the same nomination twice (for the same person and the same reas
 - Person B submits a valid nomination for Project X (same project) on 2021-01-02
 - Manager copies the nomination (because Nominator Bot may not save the message), reaches out to let Person B know, and rejects Person B's nomination.
 - Person A's nomination is fully approved
-- Manager shares in #team-member-updates, mentioning nomination by both Person A and Person B and with the descriptions from both
+- Manager shares in #thanks Slack channel, mentioning nomination by both Person A and Person B and with the descriptions from both
 
 #### Process for Recommending a Team Member for a Discretionary Bonus
 
@@ -117,7 +117,7 @@ If you received the same nomination twice (for the same person and the same reas
 1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination.
 1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager and the People Connect team).
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
-1. When everyone else has approved, the bot will reach out to you so you can share this with the team member, in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel, and make sure the team member's direct peers can easily see it:
+1. When everyone else has approved, the bot will reach out to you so you can share this with the team member, in the [#thanks](https://gitlab.slack.com/archives/C038E3Q6L) Slack channel, and make sure the team member's direct peers can easily see it:
      - For example, cross-post to the team member's group channel
      - For Support, add it to the [Support Week in Review](https://about.gitlab.com/handbook/support/#support-week-in-review) as a "Team Member Update" item
 
@@ -165,7 +165,7 @@ graph TD;
 1. The next level Manager receives an alert from Workday and can approve or deny.
 1. Once approved by the next level manager, the request is sent to People Connect for review and final approval. 
 1. Once fully approved, Payroll is notified of the bonus and can begin processing.
-1. After this, the manager is able to notify the team member of the bonus and will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The announcement should include the “who” and “why” of the bonus.
+1. After this, the manager is able to notify the team member of the bonus and will announce it on the GitLab Slack channel [#thanks](https://gitlab.slack.com/archives/C038E3Q6L). The announcement should include the “who” and “why” of the bonus.
 
 #### Communicating Discretionary Bonuses
 
