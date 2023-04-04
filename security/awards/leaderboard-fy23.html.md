@@ -9,7 +9,7 @@ title: "Security Awards Leaderboard"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page is [auto-generated and updated every Mondays](../security-awards-program.html#process).
+The Security Awards are currently paused.
 
 # Leaderboard FY24
 
