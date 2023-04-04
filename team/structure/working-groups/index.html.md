@@ -222,6 +222,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Runtime Update Process](/company/team/structure/working-groups/runtime-update-process)
 1. [Software Supply Chain Security](/company/team/structure/working-groups/software-supply-chain-security/)
 1. [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
+1. [TeamOps Sales and Marketing Group](/company/team/structure/working-groups/teamops-sales-marketing/)
 1. [Token Management](/company/team/structure/working-groups/token-management/)
 1. [Vue.js 3 Upgrade](/company/team/structure/working-groups/vuejs-3-migration/)
 
