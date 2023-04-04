@@ -724,6 +724,8 @@ As part of your MQL conversion (lead to account) process, we will need your help
 
 These fields will not have an approval process therefore we are relying on Sales Dev to choose reputable sources (ie. an email from a prospect confirming address). The new information will be added into the Lead Waterfall Address field and ETM will rely on this field to route the opportunity when opened.
 
+In **[this video](https://www.youtube.com/watch?v=QT-oOceFU6k&ab_channel=GitLabUnfiltered)**,  a member of the Marketing Ops team goes over the Company address fields and how they are used for Accounting Routing and Opp assignment. 
+
 A list of example "Reputable Sources" will come shortly
 
 #### How do I request SAO credit on a Web Direct opportunity?
