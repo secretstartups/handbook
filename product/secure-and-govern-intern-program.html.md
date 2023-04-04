@@ -176,6 +176,7 @@ long internship might look like.
 | Intern | Mentor | Time Period | Type | Write-up |
 | @ericrosenberg88 | @stkerr | July 2020 | Internal | [Blog post](https://about.gitlab.com/blog/2020/08/04/security-scan-experience/)
 | @kkwentus1 | @sam.white | January 18, 2021 - February 19, 2021 | PM Shadow | |
+| @jrandazzo | @matt_wilson / @abellucci | January 1, 2023 - February 28, 2023 | PM Shadow | |
 
 ## How to apply
 
