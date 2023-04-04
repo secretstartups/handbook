@@ -244,7 +244,7 @@ We try to keep images on the blog neutral in terms of gender, ethnicity, etc. Th
 
 If you would like an original design for your blog post image, please [open a design request](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates).
 
-If you prefer, you can [create an image](#preparing-images) yourself. If using Artificial Intelligence to create an image, follow the [legal guidance for use of "AI-generated images"](https://about.gitlab.com/handbook/legal/ip-public-materials-guidelines/#ai-generated-images).
+If you prefer, you can [create an image](#preparing-images) yourself. However, please see [legal guidance for use of "AI-generated images"](/handbook/legal/ip-public-materials-guidelines/#ai-generated-images).
 
 ##### Images for integration posts
 
