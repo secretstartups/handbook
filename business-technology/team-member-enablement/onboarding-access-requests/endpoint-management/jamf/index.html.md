@@ -131,11 +131,15 @@ To install Jamf on your Mac hardware device, you will need to launch the **Chrom
 <br/>
 
 
-- You should see a "Self Service" tool/app in your Applications folder
+- If you receive a "Profile Installation Failed" error message, please use the (-) sign to remove the two MDM profiles from the Profiles listing and try the re-enroll process again.
+- **Note:** macOS users should be using Jamf for their MDM profile and not DriveStrike. 
+
+<img src="profile-installation-failed.png" alt="Profile Installation Failed" width="400">
+
+- If installation was successful, you should see a "Self Service" tool/app in your Applications folder. The Self Service tool is an app catalog. Some of the applications can be found from our [GitLab Tools and Tips Other Apps handbook page](https://about.gitlab.com/handbook/tools-and-tips/other-apps/). Apps listed here have been documented as helpful apps for GitLab team members.
 
 <img src="self-service.png" alt="Self Service" width="400">
 
-- The Self Service tool is an app catalog. Some of the applications can be found from our [GitLab Tools and Tips Other Apps handbook page](https://about.gitlab.com/handbook/tools-and-tips/other-apps/). Apps listed here have been documented as helpful apps for GitLab team members.
 
 ## I've tried to install and it's advising that the certificate is `unverified`. Is this normal behaviour?
 
@@ -176,7 +180,10 @@ sudo jamf recon && sudo jamf policy && sudo jamf manage && sudo jamf update && s
 sudo profiles renew -type enrollment
 ```
 
-After doing so, you should be prompted for your password and able to finish the enrollment.
+After doing so, you should be prompted for your password and able to finish the enrollment. 
+
+*If you receive a message containing "Error: Renewing DEP enrollment failed: The device no longer has a Device Enrollment configuration assigned to it", then please follow the [Jamf installation process](#installing-jamf-for-macos-ventura).*
+
 
 If you receive any other result, please share the outcome of these commands with #it_help.
 
