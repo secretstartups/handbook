@@ -1335,21 +1335,6 @@ Accounts with no check in the box fall to the Expand team.
 ## Expand and Territory Alignments
 
 
-### AMER Enterprise Expand Alignment
-
-AMER Enterprise BDR Expand Team is aligned to account territories in US West and US East regions. Each region has verified Growth scores/CARR per territory that help determine the equitable spread of BDR alignments as shown below. Target accounts are based on SAE strategy, potential CARR, Intent data (propensity to buy), and industry.
-
-| **Role**                    | **BDR**                | **Territory Alignment**                                                                                                                                                                                             | **Strategic Account Executive**                                                   |
-|-------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| AMER   | Andrew Finegan     | Large-AMER-Central-3, Large-AMER-Central-2, Large-AMER-Northeast-4, Large-AMER-Southeast-4                              | Tony Scafidi, Brandon Greenwell, Matt Pretrovick, TBH       |
-| AMER   | Bryan Tibbitts     | Large-AMER-Southeast-1, Large-AMER-Southeast-2, Large-AMER-Central-4, Large-AMER-Northeast-5,                               | Patrick Byrne, Chris Graham, Ruben Govender, Katie Evans  |
-| AMER   | Erica Wilson       | Large-AMER-Southeast-3, Large-AMER-Northeast-2, Large-AMER-Northeast-1, Large-AMER-East-Named-4                                | Paul Duffy, Jim Bernstein, Josh Rector, Jon Schuster     |
-| AMER   | Max Chadliev       | Large-AMER-Northeast-3, Large-AMER-Central-1, Large-AMER-East-Named-2, Large-AMER-East-Named-5, Large-AMER-East-Named-6,                                 | Mark Scheuber, Peter McCracken, Sean Billow, Tim Kuper  |
-| AMER   | Steven Cull        | Large-AMER-East-Named-1, Large-AMER-East-Named-3, Large-AMER-Southeast-5,                                | Mark Bell, Larry Biegel, April Marks, Chip Digirolamo      |
-| AMER   | Léa Tuizat         | Large-AMER-West-1, Large AMER-PNW/MW-1, Large-AMER-Bay Area-4, Large-AMER-PNW/MW-3, Large-AMER-Rockies/SoCal-1, Large-AMER-Rockies/SoCal-2, Large-AMER-Rockies/SoCal-3,                                 | Adi Wolff, Brad Downey, Joe Miklos, Ashley Meiss, Todd Payes |
-| AMER   | John Belardi       | Large-AMER-Bay Area-3, Large-AMER-Bay Area-5, Large-AMER-PNW/MW-2, Large-AMER-PNW/MW-4, Large-AMER-Rockies/SoCal-4                               | Michael Nevolo, Philip Wieczorek, Joe Drumtra, Steve Clark, Nico Ochoa   |
-| AMER   | Tyler Thompson     | Large-AMER-West-2, Large-AMER-Bay Area-1, Large-AMER-Bay Area-2, Large-AMER-Bay Area-6, Large-AMER-PNW/MW-5, Large-AMER-Rockies/SoCal-5                               | Jim McMahon, Michael Scott, Alyssa Belardi, Lydia Pollitt, Robert Hyry   |
-
 ### EMEA Enterprise Expand Alignment
 
 EMEA Enterprise BDR Expand Team is aligned to account territories in Northern Europe, DACH, France/Southern Europe, and emerging markets. Target accounts are based on SAE strategy, potential CARR, Intent data (propensity to buy), and industry.
