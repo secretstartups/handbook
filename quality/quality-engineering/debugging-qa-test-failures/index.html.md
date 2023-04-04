@@ -729,6 +729,8 @@ These videos walking through the triage process were recorded and uploaded to th
   - Overview of QE on-call rotation process, GitLab deployment process and how to debug failed E2E specs with examples.
 - [Quality Engineering: Failure Triage - Using git bisect to identify commit that introduced a failure](https://www.youtube.com/watch?v=ZvrOF5Bx2Bo)
   - A demo on how to use git bisect to identify which commit introduced a test failure
+- [Quality Engineering: Test environments show and tell](https://drive.google.com/file/d/1m3f5Vz-KSRu7SfNmdDjTQsU5kMDpPwDJ/view)
+  - A show and tell presentation that gives an overview of our test environments. Originally presented for an audience of our counterparts.
 
 ## Other references
 
