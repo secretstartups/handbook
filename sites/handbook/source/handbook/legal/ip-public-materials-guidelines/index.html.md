@@ -103,8 +103,6 @@ The legal environment surrounding AI-generated creative works, including images,
 
 * Use of any text-to-image model besides those listed under `Model-Specific Requirements` below is not permitted without prior legal review of the model's license and any applicable restrictions.
 
-* Current law in the U.S. and E.U. does not afford copyright protection to AI or computer-generated creative works. In the U.K., such works are protected by copyright, but the law is ambiguous as to who owns that copyright. In light of this, we should assume that AI-generated images are not protected by copyright, so these images may be legitimately used by third parties. 
-
 ### **Model-Specific Requirements**
 
 #### ***Stable Diffusion***
