@@ -35,11 +35,11 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [State of Alaska Whistleblower Act](https://doa.alaska.gov/dop/fileadmin/StatewidePlanning/pdf/WhistleblowerActPoster.pdf)
 
 ### Arizona
-* [Constructive Discharge Notice](https://hr.az.gov/sites/default/files/2022-06/Notification_of_Constructive_Discharge_Poster.pdf)
+* [Constructive Discharge Notice](https://drive.google.com/file/d/1bAb20djNfDNuojt0QPm8Q24Pa64l5ORM/view)
 * [Discrimination is Prohibited in Employment](https://www.azag.gov/sites/default/files/publications/2018-07/Discrimination_Brochure.pdf)
 * [Earned Paid Sick Time](https://www.azica.gov/sites/default/files/AZ%20Earned%20Paid%20Sick%20Time%20Poster%202017.pdf)
 * [Employee Safety and Health Protection](https://www.ica.state.az.us/sites/default/files/ADOSH_Poster_WorkplaceSafetyBilingual.pdf)
-* [Minimum Wage Act](https://www.azica.gov/sites/default/files/media/2022%20THE%20FAIR%20WAGES%20AND%20HEALTHY%20FAMILIES%20ACT.pdf)
+* [Minimum Wage Act](https://www.azica.gov/sites/default/files/media/2023%20THE%20FAIR%20WAGES%20AND%20HEALTHY%20FAMILIES%20ACT.pdf)
 * [Unemployment Insurance](https://des.az.gov/sites/default/files/legacy/dl/POU-003.pdf)
 * [Workers' Compensation - Inc.](https://drive.google.com/file/d/1ve97o6Rlln4gnh4wvgvVi399HCYuj9Vi/view?usp=sharing)
 * [Work Exposure to Bodily Fluids](https://www.ica.state.az.us/sites/default/files/migrated_pdf/Claims_Poster_WorkExpToBodilyFluids_HIV_AIDS_HepC.pdf)
@@ -47,14 +47,14 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 ### Arkansas
 * [Minimum Wage, Overtime, Child Labor, Wage Collection Notice](https://www.labor.arkansas.gov/wp-content/uploads/2020/09/POSTER-FINAL-2019.pdf)
-* [How to Claim Unemployment Insurance](https://www.dws.arkansas.gov/unemployment/how-to-file-a-ui-claim/)
+* [How to Claim Unemployment Insurance](https://dws.arkansas.gov/wp-content/uploads/Employer_poster_on_how_to_file_UI_v09142021_LPS.pdf)
 * [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/1UyrBwZhl9vlTgL-FwuzWGVaLAUQh3PTp/view?usp=sharing)
 
 ### California
 * [California Law Prohibits Workplace Discrimination and Harassment](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2023/01/Workplace-Discrimination-Poster_ENG.pdf)
 * [Transgender Rights in the Workplace](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2022/11/The-Rights-of-Employees-who-are-Transgender-or-Gender-Nonconforming-Poster_ENG.pdf)
 * [Your Rights and Obligations as a Pregnant Employee](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2023/01/Your-Rights-and-Obligations-as-a-Pregnant-Employee_ENG.pdf)
-* [Family Care & Medical Leave & Pregnancy Disability Leave](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2023/01/CFRA-and-Pregnancy-Leave_ENG.pdf) 
+* [Family Care & Medical Leave & Pregnancy Disability Leave](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2023/01/CFRA-and-Pregnancy-Leave_ENG.pdf)
 * [Industrial Welfare Commission Wage Order](https://www.dir.ca.gov/IWC/IWCArticle04.pdf)
 * [California Minimum Wage](https://www.dir.ca.gov/iwc/MW-2022.pdf)
 * [Paid Sick Leave](https://www.dir.ca.gov/DLSE/Publications/Paid_Sick_Days_Poster_Template_(11_2014).pdf)
@@ -69,17 +69,24 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Right to Vote Notice](https://elections.cdn.sos.ca.gov/pdfs/tov-english.pdf)
 * [Victims of Domestic Violence Leave Notice](https://www.dir.ca.gov/dlse/Victims_of_Domestic_Violence_Leave_Notice.pdf)
 * [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/1i8FBqSHL2yrt7VZMKGhDwPT59cVbqsGS/view?usp=sharing)
+* [Employee Polygraph Protection Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf)
 * **City of Berkeley** 
-  - [Minimum Wage Poster](https://www.cityofberkeley.info/uploadedFiles/Housing/Level_3_-_General/MWO-and-Labor-Notice-Multi-year-clean(2).pdf)
+  - [Minimum Wage Poster](https://berkeleyca.gov/sites/default/files/2022-04/English%20-%20MWO-and-Labor-Notice-Multi-year%20FY23.pdf)
 * **City of Daly City**
- - [Minimum Wage Poster](https://www.dalycity.org/DocumentCenter/View/6658/2023-Minimum-Wage-Notice)
+  - [Minimum Wage Poster](https://www.dalycity.org/DocumentCenter/View/6658/2023-Minimum-Wage-Notice)
+* **City of Emeryville**
+  - [Minimum Wage and Paid Sick Leave](https://www.ci.emeryville.ca.us/DocumentCenter/View/14155/MWO-PSL-Workplace-Poster-English)
+  - [COVID-19 Paid Sick Leave](https://www.ci.emeryville.ca.us/DocumentCenter/View/13695/2021-COVID-19-Supplemental-Paid-Sick-Leave)  
 * **City of Los Angeles**
   - [Fair Chance Initiative for Hiring Ordinance to Applicants and Employees](https://bca.lacity.org/Uploads/fciho/Ban%20the%20Box%20Poster%20-%20Private%20Employers%2C%20as%20of%208.23.18.pdf)
   - [Minimum Wage and Paid Sick Leave](https://wagesla.lacity.org/sites/g/files/wph1941/files/2022-02/2022-MWO-Poster-EN-11.pdf)
-* **County of Los Angeles**
+* **Los Angeles County**
   - [Minimum Wage Ordinance](https://file.lacounty.gov/SDSInter/dca/245570_FinalMinimumWageOrdinancePosterEnglishStandardSize8.5x14.pdf)
 * **City of Oakland**
   - [Minimum Wage/Paid Sick Leave/Service Charge](https://docs.google.com/document/d/1b1l8xivMwDwP72q9SrSr1PUmAyQjHeqhr2WYeiM_Lw0/edit)
+* **City of San Diego**
+  - [Earned Sick Leave](https://www.sandiego.gov/sites/default/files/esl_notice_english.pdf)
+  - [Minimum Wage](https://www.sandiego.gov/sites/default/files/mwo-notice-english-2023_0.pdf)    
 * **City of San Jose**
   - [Minimum Wage Bulletin](https://www.sanjoseca.gov/home/showpublisheddocument/80936/637768050476030000)
   - [Opportunity to Work Notice](https://www.sanjoseca.gov/home/showdocument?id=20073)
@@ -93,6 +100,8 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
   - [Salary History Ordinance](https://sfgov.org/olse/sites/default/files/Document/Consideration%20of%20Salary%20History%20Poster%20upload.pdf)
   - [COVID-Related Employment Protections](https://sfgov.org/olse/sites/default/files/CEPO%20Poster%20-%20March%202021.pdf)
   - [Public Health Emergency Leave](https://sfgov.org/olse/sites/default/files/Public%20Health%20Emergency%20Leave%20Poster%207.2022.pdf)
+* **City of Santa Monica**
+  - [Minimum Wage, Paid Sick Leave and Service Charge Law](https://santamonica.gov/media/Minimum_Wage/22-23_Notification_English.pdf)  
 
 ### Colorado
 * [Employment Anti-Discrimination Poster](https://drive.google.com/file/d/1oa9S3N_G7XhbPx4bELinO_6QoRuqIK1C/view)
@@ -109,10 +118,9 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### Connecticut
 * [Sexual Harassment is Illegal](https://portal.ct.gov/-/media/CHRO/SexualHarassmentPreventionPosterpdf.pdf)
 * [Paid Sick Leave](https://www.ctdol.state.ct.us/wgwkstnd/NoticeSickLeavePoster2014%20.pdf)
-* [CT Paid Leave](https://ctpaidleave.my.salesforce.com/sfc/p/#t00000004XRe/a/t00000017vPH/IYK_GaizuYSGI4PeNMl128HN2hn8O1vZ9diq3q7VKX8)
+* [Connecticut Paid Leave](https://portal.ct.gov/-/media/DOLUI/NEW-53122-Prototype-of-Employers-Written-Notice-to-Employees-of-Rights-under-CTFMLA-and-CTPL.pdf)
 * [Discrimination is Illegal](https://portal.ct.gov/-/media/CHRO/DiscriminationFlyerpdf.pdf)
 * [Minimum Wage](https://www.ctdol.state.ct.us/wgwkstnd/DOL-75.pdf)
-* Unemployment Insurance Notice
 * [Worker's Compensation Notice](https://drive.google.com/file/d/1QudFkpV7haIaUzUpIYccD9slAiDrAnHd/view?usp=sharing)
 * [Electronic Monitoring Notice](https://www.ctdol.state.ct.us/wgwkstnd/ElectMonitoring.pdf)
 * [Office of the Healthcare Advocate](https://portal.ct.gov/-/media/OHA/OHA-Poster---English.pdf)
@@ -133,21 +141,23 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Minimum Wage and Overtime](https://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/Minimum%20Wage%20Poster_2022.pdf)
 * [Unemployment Compensation](https://does.dc.gov/sites/default/files/dc/sites/does/service_content/attachments/UI_eeo_poster_0.pdf)
 * [Accrued Sick and Safe Leave Act of 2008](https://does.dc.gov/sites/default/files/dc/sites/does/page_content/attachments/OWH%20-%20ASSLA%20POSTER-%20Bilingual.pdf)
+* [Living Wage Act](https://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/2023%20Living%20Wage%20Poster.pdf)
 
 ### Florida
-* [Minimum Wage](https://floridajobs.org/docs/default-source/business-growth-and-partnerships/for-employers/posters-and-required-notices/2021-minimum-wage/september-2021/poster-fl-minimum-wage-september-2021-english.pdf?sfvrsn=d92151b0_6)
+* [Minimum Wage](https://floridajobs.org/docs/default-source/business-growth-and-partnerships/for-employers/posters-and-required-notices/2022-minimum-wage/2022-florida-minimum-wage-poster-english.pdf?sfvrsn=921754b0_2)
 * [Florida Law Prohibits Discrimination](https://static1.squarespace.com/static/588649581b10e370157a9395/t/5a747f81c8302552ab8a99a4/1517584258080/Florida+Law+Discrimination+Poster.pdf)
 * [Equal Opportunity is the Law](http://www.floridajobs.org/docs/default-source/office-for-civil-rights/moa/tabs/2-a-english33.pdf?sfvrsn=2)
 * [Unemployment Compensation Benefits](https://floridarevenue.com/forms_library/current/rt83.pdf)
-* [Workers' Comp Works For You](https://www.myfloridacfo.com/division/wc/publicationsformsmanualsreports/brochures/Broken_Arm_Eng.pdf)
+* [Workers' Compensation](https://www.floridajobs.org/PDG/PostersforEmployers/BrokenArmPoster.pdf)
 
 ### Georgia
 * [Unemployment Insurance](https://drive.google.com/file/d/1Vd53xxQph7ETr9R22PZS7cujgjoDPvI7/view)
-* [Vacation Unemployment Insurance](https://drive.google.com/file/d/1Vd53xxQph7ETr9R22PZS7cujgjoDPvI7/view)
-* [Georgia Equal Pay for Equal Work](https://drive.google.com/file/d/1uXGwnzKqPn4vujeeqzwi88rCn2-wftGi/view)
-* [Workers' Compensation Board Forms](https://sbwc.georgia.gov/publications-and-forms/forms/board-forms)
-* [Workers' Compensation Notice - Federal](https://drive.google.com/file/d/1akhAvIfkv53y6pYLSw-rdJsfO4B5mMRz/view?usp=sharing)
-* [Workers Compensation Notice - Inc.](https://drive.google.com/file/d/1nuSEUWPXJFYBpJ5URBOGkwKBCtBkgXhj/view?usp=sharing)
+* [Vacation - Unemployment Insurance ](https://doas.ga.gov/assets/Human%20Resources%20Administration/Workplace%20Posters/UI%20not%20payable%20during%20vacation.pdf)
+* [Workers' Compensation](https://doas.ga.gov/assets/Human%20Resources%20Administration/Workplace%20Posters/WC-P3%20(MCO)%20(7-1-21).pdf)
+* [Bill of Rights for the Injured Worker](https://doas.ga.gov/assets/Human%20Resources%20Administration/Workplace%20Posters/WC%20Bill%20of%20Rights%20for%20the%20Injured%20Worker%20(July%202019).pdf)
+* [Workers' Compensation Fraud](https://doas.ga.gov/assets/Human%20Resources%20Administration/Workplace%20Posters/Georgia%20Workers%20Compensation%20Fraud_Notice.pdf)
+* [Human Trafficking](https://doas.ga.gov/assets/Human%20Resources%20Administration/Workplace%20Posters/human%20trafficking%20notice%20(5-24-21).pdf)
+* [Equal Pay for Equal Work Act](https://doas.ga.gov/assets/Human%20Resources%20Administration/Workplace%20Posters/Equal%20Pay%20for%20Equal%20Work%20Act%20notice.pdf)
 
 ### Hawaii
 * [Labor Law Poster](https://labor.hawaii.gov/wp-content/uploads/2022/06/20220624Labor-Laws-Poster.pdf)
@@ -171,6 +181,10 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Your Rights Under the Illinois Service Member Employment and Reemployment Rights Act](https://illinoisattorneygeneral.gov/rights/mvrb_iserra_poster_0818.pdf)
 * [Right to Employment Free from Discrimination and Sexual Harassment](https://dhr.illinois.gov/content/dam/soi/en/web/dhr/documents/idhr-employer-notice-poster-v9.22.pdf)
 * [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/1PjPrd9_YG_5YumpJxaqDG-KDaUj4sLAD/view?usp=sharing)
+* **City of Chicago**
+  - [Minimum Wage, Paid Sick Leave, Wage Theft and Human Trafficking](https://www.chicago.gov/content/dam/city/depts/bacp/OSL/20220701mwandpslenglishletterfv.pdf)
+* **Cook County**
+  - [Sick Leave](https://www.cookcountyil.gov/sites/g/files/ywwepo161/files/service/model-earned-sick-leave-notice-employees-workplace-poster.pdf)  
 
 ### Indiana
 * [Unemployment Insurance](https://www.in.gov/dwd/files/X-11.pdf)
@@ -263,6 +277,13 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Safety and Health Protection on the Job](https://www.dli.mn.gov/sites/default/files/pdf/mnosha_poster.pdf)
 * [Unemployment Insurance](https://www.uimn.org/assets/109_tcm1068-192562.pdf)
 * [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/1TiucUJJeuRL_P9KRhGMVEvyXe12Qik5w/view?usp=sharing)
+* [Labor and Employment Rights](http://sicktimeinfo.minneapolismn.gov/uploads/9/6/3/1/96313024/mpls_required_employee_notice_poster.pdf)
+* **City of Duluth**
+  - [Earned Sick and Safe Time](https://duluthmn.gov/media/8332/esst-poster.pdf)
+* **City of Minneapolis**
+  - [Labor and Employment Rights](http://sicktimeinfo.minneapolismn.gov/uploads/9/6/3/1/96313024/mpls_required_employee_notice_poster.pdf)
+* **City of Saint Paul**
+  - [Earned Sick and Safe Time and Minimum Wage](https://www.stpaul.gov/sites/default/files/2022-09/ESST%20%20Min%20Wage%20Poster%208.25.2022.pdf)  
 
 ### Mississippi
 * [Unemployment Insurance](https://mdes.ms.gov/media/190875/ui_insuranceforemployerltrsizesign033120update_rev4.pdf)
@@ -368,6 +389,8 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Time Off to Vote Poster](https://www.elections.ny.gov/NYSBOE/elections/TimeOffToVoteNotice.pdf)
 * [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/13W9mUkiRUi8msZG2kXemM6fwxLdysNcS/view?usp=sharing)
 * [Workers' Compensation Notice - Federal](https://drive.google.com/file/d/1nYMzCdHjkRQXrwkkY-8C0vmUdRDgLuS9/view?usp=sharing)
+* **City of New York City**
+  - [Paid Sick Leave](https://www.nyc.gov/assets/dca/downloads/pdf/about/PaidSafeSickLeave-MandatoryNotice-English.pdf)
 
 ### North Carolina
 * [Certificate of Coverage and Notice to Workers as to Benefit Rights](https://files.nc.gov/des/documents/Downloads/ncdes524_rev_1_21.pdf)
@@ -403,7 +426,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Paid Leave Notice Poster](https://d1o0i0v5q5lp8h.cloudfront.net/paidleave/live/assets/resources/Paid-Leave-ModelNotice-Poster-EN.pdf)
 
 ### Pennsylvania
-* [Minimum Wage Law](https://www.dli.pa.gov/Individuals/Labor-Management-Relations/llc/minimum-wage/Documents/LLC-1.pdf))
+* [Minimum Wage Law](https://www.dli.pa.gov/Individuals/Labor-Management-Relations/llc/minimum-wage/Documents/LLC-1.pdf)
 * [Abstract of Equal Pay Law](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-8.pdf)
 * [Employment Provisions of the PA Human Relations Act](https://www.phrc.pa.gov/AboutUs/Documents/Fair%20Employment.pdf)
 * [Abstract of the PA Child Labor Act](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-5.pdf)
@@ -411,13 +434,11 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Worker's Compensation Poster](https://www.dli.pa.gov/Businesses/Compensation/WC/claims/wcais/Documents/wcais%20forms/LIBC-500%20print.pdf)
 * [Workers' Compensation Notice - Federal](https://drive.google.com/file/d/1SKo7zi1Q9rkrR03gVIor1exbz1tPxlB2/view?usp=sharing)
 * [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/1exd3Hy9ODgexMuAZtza-PmvGsqzHZAIZ/view?usp=sharing)
-
-#### City of Philadelphia
-* [Promoting Healthy Families and Workplaces](https://www.phila.gov/media/20191218103833/Paid-Sick-Leave-Poster-Translations.pdf)
-* [Fair Chance Hiring Law](https://www.phila.gov/media/20210423160847/Fair-Chance-Hiring-law-poster.pdf)
-
-#### City of Pittsburgh
-* [Paid Sick Days Act](https://apps.pittsburghpa.gov/redtail/images/9692_Notice-Paid-Sick-Days-Act_06-2020.pdf)
+* **City of Philadelphia**
+  - [Promoting Healthy Families and Workplaces](https://www.phila.gov/media/20191218103833/Paid-Sick-Leave-Poster-Translations.pdf)
+  - [Fair Chance Hiring Law](https://www.phila.gov/media/20210423160847/Fair-Chance-Hiring-law-poster.pdf)
+* **City of Pittsburgh**
+  - [Paid Sick Days Act](https://apps.pittsburghpa.gov/redtail/images/9692_Notice-Paid-Sick-Days-Act_06-2020.pdf)
 
 ### Puerto Rico
 * ["SINOT"](https://www.trabajo.pr.gov/docs/Afiches/SINOT.pdf)
@@ -428,7 +449,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Ley de Seguridad y Salud en el Trabajo en Puerto Rico](https://www.trabajo.pr.gov/docs/Afiches/PR_OSHA.pdf)
 
 ### Rhode Island
-* [Rhode Island Combination Poster](https://drive.google.com/file/d/14D3bSSyur26LNkrlJnYQaVbz_nBn3ylJ/view?usp=sharing)
+* [Rhode Island Combination Poster](https://drive.google.com/file/d/1bMJb9iqbWtHC5e3hGLeS6Oy6onQy5F_5/view)
 * [Discrimination is Illegal](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/DiscriminationPoster.pdf)
 * [Notice of Right to be Free From Discrimination Because of Pregnancy, Childbirth and Related Conditions](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/PregDiscrimNoticeJuly2015.pdf)
 * [Sexual Harassment](https://dlt.ri.gov/sites/g/files/xkgbur571/files/documents/requiredposters/sexharassment.pdf)
@@ -502,6 +523,10 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Your Rights as a Worker](https://www.lni.wa.gov/forms-publications/F700-074-000.pdf)
 * [Notice to Employees if a Job Injury Occurs](https://www.lni.wa.gov/forms-publications/f242-191-909.pdf)
 * [Unemployment notice](https://drive.google.com/file/d/1jaVizNyU7Aew5ykSAP8fQZi4eu4mWivK/view?usp=sharing)
+* **City of Seattle**
+  - [Paid Sick and Safe Time](http://www.seattle.gov/documents/Departments/LaborStandards/OLSFactSheetPSSTRevised31920%282%29.pdf)
+* **City of Tacoma**
+  - [Notice to Employees](https://cms.cityoftacoma.org/finance/paid-leave/notices/2018-Paid-Leave-Workplace-Notice-English.pdf)
 
 ### West Virginia
 * [Minimum Wage Requirements](https://labor.wv.gov/Wage-Hour/Minimum_Wage/Documents/MINIMUM%20WAGE%20POSTER%20012018.pdf)
