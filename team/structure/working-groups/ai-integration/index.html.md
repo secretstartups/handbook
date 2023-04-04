@@ -83,6 +83,7 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Pricing representative             | @seanhall | [Sean Hall](https://about.gitlab.com/company/team/#seanhall)   | Principal Pricing Manager, Product |
 | Product representative             | @mushakov | [Melissa Ushakov](https://about.gitlab.com/company/team/#mushakov)   | Group Manager, Product - Plan |
 | Product representative             | @sarahwaldner | [Sarah Waldner](https://about.gitlab.com/company/team/#sarahwaldner)   | Group Manager, Product - Create |
+| Product representative             | @abellucci| [Alana Bellucci](https://about.gitlab.com/company/team/#abellucci)   | Senior Product Manager, Govern:Threat Insights |
 | Product representative             | @joshlambert | [Joshua Lambert](https://about.gitlab.com/company/team/#joshlambert)   | Director of Product, Enablement |
 | Product representative             | @tlinz | [Torsten Linz](https://about.gitlab.com/company/team/#tlinz)   | PM, Source Code |
 | Development representative             | @johnhope | [John Hope](https://about.gitlab.com/company/team/#johnhope)   | SEM, Plan |
