@@ -55,7 +55,7 @@ Informal team member communications, such as a chat about life outside of work, 
 
 > During the pandemic, many businesses that were forced to work remotely discovered that productivity [increased](https://bfi.uchicago.edu/working-paper/why-working-from-home-will-stick/). Many of these same businesses are now making plans to return to the office. One reason given is that not everyone can work from home. GitLab solves this by allowing people to [rent and expense work space](/handbook/finance/expenses/#-coworking-or-external-office--space). Another reason given is that people miss working from a central office with co-workers. I don’t think that people miss the commute or the office furniture. They miss informal communication. Central offices are an expensive, inconvenient, and indirect way to facilitate informal communication. It is more efficient to directly organize informal communication.
 >
-> For example, every person who joins GitLab has to schedule at least 5 coffee chats during their onboarding. We also have social calls, Ask Me Anything meetings with senior leaders, and over 15 other explicit ways to encourage employee connections and relationship building. Intentionally organizing informal communication enables the trust-building conversations that are essential for collaboration. This can be more effective than relying on chance encounters in a physical office. You can connect with team members throughout the world and across departments through a coffee chat. You may not meet people outside of your own floor in an office setting. - *GitLab co-founder and CEO Sid Sijbrandij*
+> For example, every person who joins GitLab has to schedule at least 5 coffee chats during their onboarding. We also have Ask Me Anything meetings with senior leaders, Group calls organized by different groups/departments, and over 15 other explicit ways to encourage employee connections and relationship building. Intentionally organizing informal communication enables the trust-building conversations that are essential for collaboration. This can be more effective than relying on chance encounters in a physical office. You can connect with team members throughout the world and across departments through a coffee chat. You may not meet people outside of your own floor in an office setting. - *GitLab co-founder and CEO Sid Sijbrandij*
 
 ![Group social calls are a great way for remote teams to connect and bond](/images/all-remote/gitlab-marketing-team-hotdog-meeting.jpg){: .shadow.medium.center}
 Group social calls are a great way for remote teams to connect and bond
@@ -122,7 +122,6 @@ For colocated companies, the occasional team offsite — to take in a sporting e
 
 Below are a number of intentional facets of [GitLab's culture](/company/culture/#culture-at-gitlab), created to foster informal communication. We welcome other all-remote companies to iterate on these and implement as desired.
 
-1. [Social call](/handbook/communication/#social-call): A series of optional calls once a month on a Tuesday, to which everyone in the organization is invited. We have no set agenda, but items can be added to the linked document. This is just a time set aside for everyone to openly talk where everyone is a moderator.
 1. [Contribute Unconference](/events/gitlab-contribute/): An in-person, week-long event where we bring the entire company together in one location to get to know each other better.
 1. [Group conversations](/handbook/group-conversations/): Four times a week the company gets together virtually to discuss an area of the business. Slides are provided for context but not presented.
 1. Coffee chats: More details below.
@@ -213,7 +212,7 @@ It can be a great way to learn about a new place that you may not know about and
 
 In the Traction Conference [video](https://youtu.be/CH-NHoBOeho) above, GitLab co-founder and CEO Sid Sijbrandij shares how remote teams can stay connected with Frederic Lardinois of [TechCrunch](https://techcrunch.com/).
 
-We understand that working remotely leads to mostly work-related conversations with fellow team members, so everyone at GitLab is encouraged to dedicate **a few hours a week** to having social calls with anyone in the company.
+We understand that working remotely leads to mostly work-related conversations with fellow team members, so everyone at GitLab is encouraged to dedicate **a few hours a week** to having social calls/coffee chats with anyone in the company.
 
 It's a great chance to get to know who you work with, talk about everyday things and share a coffee, tea, or your favorite beverage. We want you to make friends and build relationships with the people you work with to create a more comfortable, well-rounded environment.
 
