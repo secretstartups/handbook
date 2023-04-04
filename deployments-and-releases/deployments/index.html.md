@@ -67,6 +67,7 @@ When a release manager executes the post-deploy migration pipeline:
 Details of this pipeline can be found in the [post-deploy migration pipeline documentation].
 
 To determine if a post-deploy migration has been executed [please see this guide](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/post_deploy_migration/readme.md) for more information.
+If, after 48 hours from the merge of your MR, you already have determined with the guide above that your Post-deploy migration has not yet run, and you have questions, please reach out to Release Managers on the [#releases] channel.
 
 ### Deployment Rollbacks
 
