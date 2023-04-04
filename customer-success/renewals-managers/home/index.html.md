@@ -18,7 +18,9 @@ View the Renewals Manager handbook pages:
 - [How We Do It](https://about.gitlab.com/handbook/customer-success/renewals-managers/how) - Information about how renewals managers execute on the mission.
 - [What we do](https://about.gitlab.com/handbook/customer-success/renewals-managers/what) - Information about what tasks and activities renewals managers perform.
 
-Renewals Managers --> visit the internal handbook [page](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/) for more information.
+Renewals Managers (more resources)
+--> Visit the internal handbook [page](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/) 
+--> Contribute to the Global Renewals Organization issue [board](https://gitlab.com/gitlab-com/customer-success/global-renewals-organization/-/boards/5465302?label_name[]=Global%20Renewals) 
 
 ---
 The Global Renewals Organization is part of the [GitLab Customer Success](https://about.gitlab.com/handbook/customer-success/) function. We partner with Customer Success, field sales, our ecosystem of partners, support and marketing organizations to deliver maximum value to GitLab customers throughout their subscription lifecycle.
