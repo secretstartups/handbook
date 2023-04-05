@@ -30,7 +30,7 @@ This working group will organize all the domain experts needed, surface critical
 
 | Working Group Role             | Team Member     | Functional Title                           |
 |--------------------------------|-----------------|--------------------------------------------|
-| Facilitator                    | Julia Lake      | Sr. Director, Security Assurance           |
+| Facilitator                    | Mike Flouton      | VP, Product Management           |
 | Functional Lead: PM            | Chris Balane    | Sr. Product Manager, US Public Sector Services |
 | Functional Lead: Pub Sec       | Bob Stevens     | Area Vice President, Public Sector Sales   |
 | Functional Lead: Infrastructure | Stephen Dumesnil | Engineering Manager, US Public Sector Services |
@@ -46,4 +46,4 @@ GitLab is pursuing FedRAMP authorization at the [Moderate Impact Level](https://
 We will evaluate demand for High once we attain Moderate.
 
 Further details of the FedRAMP plan, including anticipated or actual dates, cannot be shared publicly at this time.
-Team members can view details [in the internal handbook](https://internal-handbook.gitlab.io/handbook/engineering/fedramp-compliance/).
+Team members can view details [in the internal handbook](https://internal-handbook.gitlab.io/handbook/engineering/fedramp-compliance/). This [public handbook page](https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/fedramp-compliance.html) contains SAFE information about the FedRAMP Authorization process as it pertains to GitLab.
