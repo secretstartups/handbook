@@ -16,7 +16,7 @@ title: "Brand Resources"
 Our brand is the embodiment of our [mission](/company/mission/#mission), [vision](/direction/#vision), and [values](/handbook/values/). As stewards of the [GitLab brand](/company/purpose/), the [Brand Design](/handbook/marketing/brand-and-product-marketing/design/) team works to educate and enable the wider organization with resources to effectively and honestly communicate what the company does for our internal and external audiences.
 
 ## Brand guidelines
-GitLab's official Brand guidelines can be found at **[design.gitlab.com](https://design.gitlab.com/)** under the `Brand` tab. These guidelines should be applied to all marketing materials, including, but not limited to: digital ads, events, publications, merchandise, etc. 
+GitLab's official Brand guidelines can be found at **[design.gitlab.com](https://design.gitlab.com/brand/overview)** under the `Brand` tab. These guidelines should be applied to all marketing materials, including, but not limited to: digital ads, events, publications, merchandise, etc. 
 
 
 ### Brand oversight
@@ -122,7 +122,7 @@ Folders can contain Canva design files, sub-folders, and assets you upload from 
 
 **Graphics**
 
-- You can search and add graphics from the `Elements` tab, but please use with discretion. This tab is great for finding basic shapes, lines, and image frames; beyond that, use graphics from the GitLab [icon library](https://drive.google.com/drive/folders/1cb-HQJuvtUfjJSUK4yTSkhyfyeex8C2H) to keep your design on-brand.  
+- You can search and add graphics from the `Elements` tab, but please use with discretion. This tab is great for finding basic shapes, lines, and image frames; beyond that, use graphics from the GitLab [icon library](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/_resources/_designer-resources/assets/icon-library/marketing-icons) to keep your design on-brand.  
 - All elements can be dragged and dropped into your design. Upload branded assets in the `Uploads` tab. The .png file format with a transparent background works best.
 - For most Canva elements, you can adjust the color of the graphic to make sure you’re using GitLab’s color palette. Refer to the [color guidelines](https://design.gitlab.com/brand-design/color) and use the accent colors sparingly. 
 - You can also change the line weight of some Canva elements. To keep consistent with our [illustration guidelines](https://design.gitlab.com/brand-design/marketing-illustrations), a line weight of 1-2 works best.
@@ -131,7 +131,7 @@ Folders can contain Canva design files, sub-folders, and assets you upload from 
 
 - If you need to add photos into your design, it is best to use our approved images from our [photo library](https://drive.google.com/drive/folders/1VHErs-KSNX1FIIVgXJR3OmIzwU7M4E1M?usp=sharing) instead of Canva’s photography shown in the Elements tab. 
 - Reference our [photography guidelines](https://design.gitlab.com/brand-design/photography) when selecting and placing imagery.
-   - You can request the Brand Design team to source images from [Adobe Stock](https://stock.adobe.com/) for you, if you need additional options. 
+   - You can request for the Brand Design team to source images from [Adobe Stock](https://stock.adobe.com/) for you, if you need additional options. 
 
 **Layout and alignment**
 
@@ -156,24 +156,24 @@ Always share your work for review. If you are working from an existing Canva tem
 - [Press kit](https://about.gitlab.com/press/press-kit/) 
 
 **Color palette**
-- [RGB swatches](https://drive.google.com/file/d/1Ihb3DiRcm94KegtPFR3yXeTkXsoeGNJL/view?usp=sharing)
-- [CMYK swatches](https://drive.google.com/file/d/1jHEZsVcdw4i-qJlgcCTfLBDn6XS08eVx/view?usp=sharing)
+- [RGB swatches](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/_resources/_designer-resources/color-palettes/gitlab-primary-color-palette-hex-rgb.ase)
+- [CMYK swatches](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/_resources/_designer-resources/color-palettes/gitlab-primary-color-palette-pms-cmyk.ase)
 
 **Marketing illustrations** 
-- [Illustration library](https://drive.google.com/drive/folders/1GLoJ1Ua55vqTcYVfobcRunu9r7mQiLDq?usp=sharing) (internal access only)
-- [RGB swatches, secondary palette](https://drive.google.com/file/d/1kCcvxYMKPkDCEFQd6imQcHhFGC14Hgte/view?usp=sharing)
-- [CMYK swatches - secondary palette](https://drive.google.com/file/d/1J2ZutCXZPJHQc9fgHvJYaVFSkOtlyn4t/view?usp=sharing)
+- [Illustration library](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/_resources/_designer-resources/assets/illustration-library) (internal access only)
+- [RGB swatches, secondary palette](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/_resources/_designer-resources/color-palettes/gitlab-secondary-color-palette-hex-rgb.ase)
+- [CMYK swatches - secondary palette](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/_resources/_designer-resources/color-palettes/gitlab-secondary-color-palette-pms-cmyk.ase)
 
 **Marketing icons** 
-- [Icon library](https://drive.google.com/drive/u/1/folders/1dsRceA94H8CI0q7JAeWwEuWoNUuqdGq-) (internal access only)
-- [Software development lifecycle](https://drive.google.com/drive/u/1/folders/15kLTAKngeVEE7dWbP471EVKfhF25kSnN) (internal access only)
+- [Icon library](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/_resources/_designer-resources/assets/icon-library/marketing-icons) (internal access only)
+- [Software development lifecycle](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/_resources/_designer-resources/assets/icon-library/software-development-lifecycle-icons) (internal access only)
 
 **Photography**
 - [Photo library](https://drive.google.com/drive/folders/1VHErs-KSNX1FIIVgXJR3OmIzwU7M4E1M?usp=sharing) (internal access only)
 - [Adobe stock](https://stock.adobe.com/)
 
 **Motion and video**
-- [Branded green screens](https://drive.google.com/drive/folders/10DqQ8kBICPTuPNG0PGf-JWXBFytZHQ88?usp=sharing) (internal access only)
+- [Branded green screens](https://drive.google.com/drive/folders/1Fv6_e_1dgSDE5N_KuMvtDM6gdNIUgRcT?usp=sharing) (internal access only)
 
 **Templates** 
 - [GitLab pitch deck template](https://docs.google.com/presentation/d/1vtFnh8DU6ZZzASTHg83UrhM6LJWqo5lq9mJDAY2ILpw/edit?usp=sharing)
@@ -183,7 +183,7 @@ Always share your work for review. If you are working from an existing Canva tem
 - [Google Docs branded templates](https://drive.google.com/drive/folders/1U97a05txXI29pGxjOtLiG4DW-zBMHAU5?usp=sharing) (Internal access only)
 
 **Additional resources**
-- [Brand guidelines](https://design.gitlab.com/)
+- [Brand guidelines](https://design.gitlab.com/brand/overview)
 - [Brand handbook](/handbook/marketing/brand-and-product-marketing/brand/)
 - [Brand Design handbook](/handbook/marketing/brand-and-product-marketing/design/)
 - [QR code design guidelines](https://about.gitlab.com/handbook/marketing/events/#steps-to-generating-a-qr-code)
