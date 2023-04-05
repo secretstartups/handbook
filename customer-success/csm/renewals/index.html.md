@@ -23,17 +23,24 @@ A key part of the customer relationship lifecycle is the renewal phase. CSMs mus
 
 ## Renewal playbook steps
 
+1. Confirm the renewal DRI
 1. Renewal Review: Internal sync with SAE/AE and potentially SA as defined below
-1. CSM asks 'Soft' Renewal Question
+1. 'Soft' renewal question asked by CSM
 1. Update `CSM Sentiment` as appropriate
 
 Once the above tasks are complete, the playbook and CTA can be closed out as all actionable items have been performed.
+
+## Confirm the renewal DRI
+
+For tier 0, 1 and 2 renewals a renewals manager is involved.  For the level of ownership the renewals manager takes per tier, please see this [tiering section from the renewals manager handbook page](/handbook/customer-success/renewals-managers/how/#opportunity-tiering).
+
+To determine what tier a renewal opportunity falls within, the CSM can reference the 'Renewal Ownership' field in the Opp, in the 'Opportunity Detail' section. 
 
 ## Renewal review meeting - internal sync
 
 A renewal review meeting should have the following attendees:
 
-- Account Executive
+- Renewal DRI (AE or RM)
 - Customer Success Manager
 - Solutions Architecht, if an upsell is being discussed
 
@@ -43,11 +50,17 @@ For CSMs with larger books of business, it is appropriate to update an AE or SAE
 
 The CSM will ask the initial renewal question, this should be a ['soft'](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/7214-soft-fact-questions.html) question to see if there is any risk in the account and to provide time to mitigate any risk.  An example of this soft question is, "I know you have your renewal coming up in the next few months - how are you feeling about the renewal currently, and are there any changes you are considering that we can prepare for?"
 
+If the customer indicates any risk of contraction or churn in this conversation, the [CSM sets the CSM Sentiment field to red](/handbook/customer-success/csm/health-score-triage/#red), which then overrides the 'Overall Health' field to red also.  
+
+It's important that the CSM asks this question no later than the 30-day window from when the CTA is automatically opened:
+ - If risk is indicated, 3 months can be enough time remaining to make a meaningful change to outcomes
+ - If a renewals manager is involved, they will be reaching out the customer about the renewal itself 10 weeks before the renewal and being informed at this time of renewal risk will make our approach much more sensitive to the customer scenario
+ 
 If the status of the renewal is already known (renewal conversation with SAE or AE has happened, negotiations or contract is in-flight), the CSM can close the renewal CTA selecting the appropriate close reason. 
 
 ## Renewal plan
 
-The action items created from the “Renewal Review” meeting should be incorporated into the CSM customer cadence meetings and into any pending QBRs. The actual renewal plan will be documented by the SAE or AE in Salesforce.
+The action items created from the “Renewal Review” meeting should be incorporated into the CSM customer cadence meetings and into any pending QBRs. The actual renewal plan will be documented by the renewal DRI in the opportunity within Salesforce.
 
 ## Tracking account health and risks
 
