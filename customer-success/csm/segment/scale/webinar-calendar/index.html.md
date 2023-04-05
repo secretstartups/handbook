@@ -25,13 +25,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Git Basics
-##### April 4th, 2023 at 12:00PM-1:00PM Eastern Time/4:00-5:00 PM UTC
-
-Are you new to Git? Join this webinar targeted at beginners working with source code, where we will review the basics of using Git for version control and how it works with GitLab to help you get started quickly.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_YIbpX-mgRNGD73mcGIVmUA)
-
 #### Intro to GitLab
 ##### April 11th, 2023 at 12:00PM-1:00PM Eastern Time/4:00-5:00 PM UTC
 
@@ -62,13 +55,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 
 
 ### EMEA Time Zone Webinars
-
-#### Intro to GitLab
-##### April 4th, 2023 at 10:00AM-11:00AM UTC
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_YWk6dJuGTwytkfKdRLFKeA)
 
 #### Intro to CI/CD
 ##### April 12th, 2023 at 10:00AM-11:00AM UTC
