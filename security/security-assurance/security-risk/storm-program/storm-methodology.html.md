@@ -95,7 +95,7 @@ Scoring is performed by individuals operating in at least Senior Leadership capa
 
 Our risk appetite is translated to a tolerance which defines a range in which a [risk Score value](#risk-factors-and-risk-scoring) is acceptable and does not require a treatment response. Risk scores can range from 0 (lowest) to 30 (highest). The range is defined per Risk Appetite in the table below:
 
-|Risk Averse|Risk Neutral|Risk Tolerant|Risk Seeking|
+|Risk Averse|Risk Neutral|Risk Receptive|Risk Seeking|
 |:---------:|:---------:|:---------:|:---------:|
 |1-5|1-10|1-18|1-26|
 
