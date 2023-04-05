@@ -95,6 +95,7 @@ This book club was internal-only.
     2. Lower chance of needing to reschedule due to illness or other
        emergency.
     3. Meetings start as a conversation, not a monologue.
+    4. Add your buddy as a co-host in Zoom so that meetings can be recorded in your absence
 2. Add the book's title to the handbook if it isn't already listed.
     1. Books that are also available as audiobooks increase the
        potential audience. The more ways people can experience the book,
