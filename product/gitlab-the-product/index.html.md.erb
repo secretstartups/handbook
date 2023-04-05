@@ -77,19 +77,18 @@ For more guidance on feature tiers and pricing, visit [tiering guidance for feat
 
 <!-- any changes made to this section should be reflected in https://about.gitlab.com/support/statement-of-support/#alpha--beta-features and https://docs.gitlab.com/ee/policy/alpha-beta-support.html#support-for-alpha-beta-and-generally-available-features -->
 
-Occasionally we need to test large, complex features before we are confident
-that we'll be able to scale, support and maintain them as they are.
-In this case we have the option to release them as Alpha or Beta versions.
+There are cases where we need to test features before we are confident that we'll be able to scale, support, and maintain the features in their current form for every designed use case. There are also scenarios where a feature is not complete enough to be considered an [MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc). In these cases, we have the option to release features as Alpha, Beta, or Limited Availability, and users can opt-in and test the new experience. Features might not be fully documented or supported in the Alpha or Beta phases.  
 
-In general, we should avoid releasing Alpha or Beta versions of features.
-A minimal viable change should be _viable_ and therefore should not need a
-pre-release. That said, if there is a situation where we have no valid alternative,
-the definitions of each stage is below. Please note that some features may not be aligned to these recommendations if they were developed before the recommendations were in place or if the group determined an alternative implementation approach was needed.
+Please note that some features may not be aligned to these recommendations if they were developed before the recommendations were in place or if the group determined an alternative implementation approach was needed.
 
-It's never acceptable to make changes that risk any damage to existing production
-data accessed by our users.
+It's never acceptable to make changes that risk any damage to existing production data accessed by our users or that introduce friction into high MAU areas.
 
-Please refer to [Support for Alpha, Beta, Limited Availability, and Generally Available Features](https://docs.gitlab.com/ee/policy/alpha-beta-support.html) for a list of the characteristics of Alpha, Beta, LA, and GA features.
+- Alpha: This phase is used to gather feedback from a small group of users, typically internal teams or a select group of customers, on a feature or concept that is in the early stages of development. An Alpha phase can be a useful way to gather feedback on early concepts and have the flexibility to make breaking changes based on feedback. This designation also helps set customer expectations that this feature is not ready for production use. See [this page](https://docs.gitlab.com/ee/policy/alpha-beta-support.html#alpha-features) for additional details.  
+- Closed Beta: This phase involves a larger group of users, often chosen based on specific criteria. Closed Beta is useful in cases when the functionality is unlikely to change, but there are concerns about performance with full production workloads. This designation also helps set customer expectations that this feature is not ready for production use. See [this page](https://docs.gitlab.com/ee/policy/alpha-beta-support.html#closed-beta-features) for additional details.  
+- Open Beta: This phase allows for a larger group of users to test the feature in more realistic environments, and provides the opportunity to identify any remaining issues before the feature is fully released. This designation also helps set customer expectations that this feature is not ready for production use. See [this page](https://docs.gitlab.com/ee/policy/alpha-beta-support.html#open-beta-features) for additional details.  
+- Limited Availability: This phase can be used when a feature is production-ready for a select group of customers, but not for the general user base as is the case in General Availability.
+
+Please refer to [Support for Alpha, Beta, Limited Availability, and Generally Available Features](https://docs.gitlab.com/ee/policy/alpha-beta-support.html) for a detailed list of the characteristics of Alpha, Beta, LA, and GA features, including when feature flags should be used.
 
 ### Deprecations, removals, and breaking changes
 
