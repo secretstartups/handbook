@@ -13,13 +13,14 @@ description: "This page is an overview of the Candidate Experience Specialist Co
 ## Talent Acquisition Process - Candidate Experience Specialist Contract Processes
 {: #framework-coord}
 
-Assuming that the [hiring process](/handbook/hiring/) went smoothly, now it is time to prepare the applicable contracts. Once the verbal offer is made, an issue will be created via the "email team" option in Greenhouse. You should keep this issue open until you've hired the candidate into BambooHR. The coordinator will send the contract to the applicant, using DocuSign in Greenhouse. On rare occasion, the coordinator may have to create the contract outside of Greenhouse using Google Docs; if this is the case, the coordinator needs to have a manager review the contract for accuracy before sending it out for signature.
+Assuming that the [hiring process](/handbook/hiring/) went smoothly, now it is time to prepare the applicable contracts. Once the verbal offer is made, an issue will be created via the "email team" option in Greenhouse. The CES will send the contract to the applicant, using DocuSign in Greenhouse. On rare occasion, the CES may have to create the contract outside of Greenhouse using Google Docs; if this is the case, the CES needs to have a manager review the contract for accuracy before sending it out for signature.
 
 First, be sure to validate the following:
 
+1. The candidate has been moved to the "offer" stage before sending the contract. CES can adjust this, but it's important to inform the Recruiter because this is a step that should be done when they are ready to make their verbal offer.
 1. The candidate lives in a country we are able to hire in. The SSOT for all country hiring is [here](https://comp-calculator.gitlab.net/hiring_status/index).
-1. The currency listed in the offer package in Greenhouse should normally be the local currency of the new team member unless they explicitly request USD/EUR because their local currency has a lot of inflation. This needs to be confirmed and approved by Total Rewards prior to making the offer, as any changes to the currency will require complete reapproval in Greenhouse, regardless if it is the same amount just in a different currency.
-1. Confirm if the team member would be an employee or contractor and [through which entity the team member would be employed or contracted](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab). If the team member wants to be contracted through a company, it can either be their own established legal entity or a separate and unaffiliated 3rd party company; please confirm which with the team member prior to sending out the contract. If the team member will be contracted through their own entity (or as an independent contractor), please use the BV Contractor Agreement. If the team member will be contracted through a 3rd party company, please inform Legal so that we can enter into a vendor contract with the company. The 3rd party company will then enter into a contract with the team member, and People Ops Analyst will provide the necessary specific salary and position information.
+1. The currency listed in the offer package in Greenhouse should normally be the local currency of the new team member unless approved by Total Rewards. This needs to be confirmed and approved by Total Rewards prior to making the offer, as any changes to the currency will require complete reapproval in Greenhouse, regardless if it is the same amount just in a different currency.
+1. Confirm [through which entity the team member would be employed or contracted](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab). If the title of the position includes "Public Sector" and they are located in the US, they may need a Federal contract. The Recruiter should confirm with the PBP if there's any questions.
 1. If the candidate is located in _Belgium_ the CES or Recruiter should be aware of two further things to address: i. there are strict language/translation requirements in Belgium so the CES or Recruiter should cofirm which region of Belgium the candidate is located in and let legal know, to ensure the right contract, in the right language is used, and so that a translation can be arranged if necessary; and ii. if the role is _not_ Grade 9 or higher, the CES or Recruiter should send a link to the role and the job requisition to the legal team via the #legal Slack channel once the candidate is at offer stage (before anything is sent out!) to determine whether or not the role is a position of trust. 
 1. The recruiter should select "Email the team" and send the "CES Start Contract Request" email to CES* to initiate the offer letter and background check processes after the verbal offer has been made.
 
@@ -48,20 +49,12 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | LOAs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
 | PEOs | The Candidate Experience Specialist processing the offer. For LOAs, choose Morgan Wilkins or Marissa Ferber |
 
-#### Offer Details Access steps
-Not all individuals who are signatories for entities have the appropriate access in Greenhouse and this is something that has to be set up on a per req basis at time of contract sending. 
-
-Once the entity of the chosen candidate has been determined and the CES team has received the request to send the contract, follow the steps below: 
-1. Go to the `Job Setup` tab within Greenhouse
-1. Select `Edit` in the `Job Info` box at the top of the screen
-1. Select the pencil icon next to `Office` and pick the correct entity 
-
 ### Send the contract through Greenhouse
 
-1. Once the offer package has been approved in Greenhouse and the recruiter has given the verbal offer, go to the candidate's profile in Greenhouse. Verify the address is listed on the details tab. If the address is not listed you can locate it on the background check, or in the reference request email reply.
-1. If necessary click Edit Profile to update the candidate's name to their legal name (given during the reference/background check stage) and list any preferred names in quotes as the first name. Legal names are required on contracts and for proper export to Bamboo HR.
+1. Once the offer package has been approved in Greenhouse and the recruiter has given the verbal offer, go to the candidate's profile in Greenhouse. Verify the address is listed on the details tab. This is required in order to send a contract.
+1. If necessary, click Edit Profile to update the candidate's name to their legal name (given on the reference check form). Legal names are required on contracts and for proper export to WorkDay.
 1. Ensure the start date is on a Monday, unless Monday is a holiday/[no start date](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_connect_team/#people-connect-availability) or the non-Monday date is legally required.
-1.  Update signatory and entity by clicking "Update" under Offer Details. Add signatory name and title, as well as entity based on candidate's location.
+1.  Update signatory and entity, if necessary, by clicking "Update" under Offer Details. Add signatory name and title, as well as entity based on candidate's location.
 1. Next you'll need to update the signatory's permissions to ensure we're able to send the DocuSign contract to them.
     - Navigate to `Job Setup` at the top of the page.
     - Click `Hiring Team` on the left handside toolbar.
@@ -71,9 +64,9 @@ Once the entity of the chosen candidate has been determined and the CES team has
     - Select `Job Admin: Job Approver`
     - Click `Save`
     - Navigate back to the Offer Details on the candidate profile and continue next steps
-1. Scroll to the section "Offer Documents" and click "Generate". Then click in the box and select from the options the appropriate template for the team member's entity, employment/contractor status, full-time or part-time, and any applicable bonuses. An example is `GitLab Inc full-time, with variable bonus/commission`. Then click "Generate". It will now populate and .docx and .pdf files under the "Offer Documents" section. Download the pdf and preview it to ensure everything populated correctly. If there are any token errors (i.e. problems with the information pulling from the candidate's profile and into the contract), Greenhouse will notify you. Most likely, if that happens it is because a field in the candidate profile is not accurately filled in. Once you fix the error, you'll need to "Regenerate" the contract.
+1. Scroll to the section "Offer Documents" and click "Generate". Then click in the box and select from the options the appropriate template for the team member's entity, employment/contractor status, full-time or part-time, and any applicable bonuses. An example is `GitLab Inc, with OTE`. Then click "Generate". It will now populate and .docx and .pdf files under the "Offer Documents" section. If there are any token errors (i.e. problems with the information pulling from the candidate's profile and into the contract), Greenhouse will notify you. Most likely, if that happens it is because a field in the candidate profile is not accurately filled in. Once you fix the error, you'll need to "Regenerate" the contract.
     - GitLab BV Belgium contracts are classified as Sales/Non-Sales, With OTE/Without OTE, and Position of Trust/Not a Position of Trust. All roles that are Grade 9 or above should be given the appropriate "Position of Trust" contract. If the role is not Grade 9 or higher, send the job requisition to the legal team via the #legal slack channel to determine which contract should be used.  
-1. Next, click "Send with DocuSign" right below the offer documents. You will need to have first connected your Greenhouse account with your DocuSign account by going to the integrations tab in Greenhouse.
+1. Next, click "Send with DocuSign" right below the offer documents. You will need to have first connected your Greenhouse account with your DocuSign account by going to the integrations tab in Greenhouse. If you receive an error on this step, your integration may have disconnected.
 1. Choose the correct template according to country, or if no country template is available select `Offer through DocuSign`. In the "To User" field, choose the GitLab signatory for the contract. In the "CC" field, add the recruiter and the hiring manager. Then click "Preview on DocuSign".
 1. You will be redirected to DocuSign.
 1. On the top left of the screen, click where it says the candidate's name, then click "Edit Recipients". Change the `2` next to the GitLab signatory's name to a `1`, change the `1` next to the candidate's name to a `2` and change the `1` next to the hiring manager's name to a `2`. This ensures that the contract goes to the GitLab signatory to sign first, as well as the recruiter for a Cc and once signed by them it will go to the candidate and the hiring manager with a Cc. Then click "Done".
@@ -272,7 +265,7 @@ _Note: It is essential that People Connect Team members are informed of all chan
     - Navigate to the bottom of the candidate’s GH profile
     - See “Approval Notes”
     - Click “Leave a Note”
-    - Tag Brittany Rohde in a note to confirm that both compensation values have been approved
+    - Tag the Total Rewards team member who approved in a note to confirm that both compensation values have been approved
     - Tag the Recruiter as CC
 1. Once Total Rewards has confirmed both have been reviewed and approved, generate the appropriate contract
 1. Download the Word version of the contract and upload into Google Drive for editing
