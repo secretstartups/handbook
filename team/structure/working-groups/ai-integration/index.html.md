@@ -20,7 +20,7 @@ canonical_path: "/company/team/structure/working-groups/ai-integration/"
 | Slack           | `#wg_ai_integration` - Slack channel for the working group and the high level alignment on getting AI ready for Production   |
 | Slack           | `#ai_integration_dev_lobby` - Channel for all implementation related topics and discussions of actual AI features   |
 | Slack | `#ai_enablement_team` - Channel for the AI Enablement Team which is building the base for all features (experimentation API, Abstraction Layer, Embeddings, etc.) |
-| Slack | `#ai_strategy` |  Discussion on strategic and business initiatives surrounding AI/ML at GitLab. |
+| Slack | `#ai_strategy` - Discussion on strategic and business initiatives surrounding AI/ML at GitLab. |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/19jVbWVYUPW3m7d2SzsXa2zXIAW7pSb2tdQ-AXWzT_DE/edit) (only accessible from within the company) |
 | Parent Epic     | [Parent epic](https://gitlab.com/groups/gitlab-org/-/epics/9997)           |
 | Epic/Issue Working Group label | [`wg-ai-integration` issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/5512012?label_name[]=wg-ai-integration) and [`wg-ai-integration` epic search](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=wg-ai-integration)  |
