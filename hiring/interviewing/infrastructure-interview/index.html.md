@@ -35,7 +35,7 @@ If you choose to, you can learn even more about the infrastructure department an
 - [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/)
 - [Delivery Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/): [Orchestration](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#deliveryorchestration) and [System](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/#deliverysystem)
 - [Scalability Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/): [Frameworks](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/frameworks.html) and [Projections](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/projections.html)
-- [Dedicated Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/): Environment Automation and US Public Sector Services
+- [Dedicated Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/): Environment Automation, US Public Sector Services and Switchboard
 
 A well-written resume or a detailed LinkedIn profile will increase your chances to be selected for this role. Read the requirements carefully and make sure that some of those specific areas are outlined in your resume/LinkedIn profile. In Infrastructure Engineering, we especially pay attention to your experience/knowledge of:
 
