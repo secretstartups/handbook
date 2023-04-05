@@ -1,4 +1,9 @@
-# Customer Advocacy at GitLab
+---
+layout: handbook-page-toc
+title: "Customer Advocacy at GitLab"
+---
+
+# Meet the advocacy function
 
 The Customer Advocacy Team is dedicated to forging evergreen co-marketing relationships with top advocates and enterprise brands that fuel an integrated strategy aligned to pipeline-driving initiatives, threading the customer voice into all GTM motions.
 
