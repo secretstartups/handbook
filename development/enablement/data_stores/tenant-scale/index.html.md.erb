@@ -80,16 +80,83 @@ require the expertise of multiple staff+ level engineers to accomplish our
 horizontal scalability goals.
 
 ## Meetings
-Where we can we follow the GitLab values and communicate asynchronously. However, there have a few important recurring meetings.  Please reach out to the [#g_tenant-scale](https://gitlab.slack.com/archives/C01TQ838Y3T) Slack channel if you'd like to be invited.
 
-With the globally distributed nature of this team, it is unlikely that we will have a synchronous meeting where everyone will attend. When we have synchronous meetings we will record the meetings and share written summaries with the links to the recordings. Currently we have the following recurring meetings scheduled.
+We are a globally distributed group and we communicate mostly asynchronously,
+however, we also have synchronous meetings. It's unlikely everyone can attend
+those meetings, so we record them and share written summaries ([agenda](https://docs.google.com/document/d/1W7QsQL_2wMLW9KJU5ZEZdyIqYtRC6_bwOoNXJUWNbiU/edit)).
+Currently we have the following recurring meetings scheduled:
 
  - Weekly Monday - Tenant Scale Group Sync (APAC/EMEA) 8:30AM UTC (2:30AM PDT)
- - Weekly Wednesday - Tenant Scale Group Sync (EMEA/AMER) 2:30PM UTC (7:30AM PDT)
+ - Weekly Thursday - Tenant Scale Group Sync (EMEA/AMER) 2:30PM UTC (7:30AM PDT)
 
 ## Work
-We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines. To bring an issue to our attention please add the `~"group::pods"` label along with any other relevant labels. If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/data_stores/tenant-scale/#stable-counterparts) section above.
-- Issue Creation Workflow - our issue creation workflow can be viewed [here](./issue-creation-workflow.html)
+
+The Product Manager compiles the list of issues following
+the [product prioritization process](/handbook/product/product-processes/#prioritization),
+with input from the team, Engineering Manager, and other stakeholders.
+The iteration cycle lasts from the 18th of one month until the 17th of the next month,
+and is identified by the GitLab version set to be released on the 22nd.
+
+Engineers are encouraged to work as closely as needed with their stable
+counterparts. Quality engineering is included in our workflow via the
+[quad planning process](/handbook/engineering/quality/quality-engineering/quad-planning/).
+
+### Milestone Planning
+
+Before starting a milestone, the group coordinates using [planning issues](https://gitlab.com/gitlab-org/tenant-scale-group/group-tasks/-/issues/?label_name%5B%5D=Planning%20Issue).
+We follow this process:
+- The Product Manager defines the goals of the milestone.
+- The team members comment about the issues they consider relevant for the milestone.
+- The Product Manager and Engineering Manager work together to decide the final list of issues.
+- The whole team reviews the items lined up before the milestone begins.
+
+### What To Work On
+
+The primary source for things to work on is the [milestone prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4621652),
+which lists all issues scheduled for the current cycle in priority order (from most to least important): p1,
+p2, and p3. You should first pick up issues that have the highest priority, which are listed at the top of the first board column.
+When you assign yourself to an issue, you indicate that you are working on it.
+
+If anything is blocking you from getting started with the top issue immediately,
+like unanswered questions or unclear requirements, you can skip it, as long as
+you put your findings and questions in the issue.
+This helps the next engineer who picks up the issue.
+
+Usually issues are not directly assigned to people, except when
+a person has clearly the most knowledge or context to work on an issue.
+
+### Development Workflow
+
+We follow the GitLab [engineering workflow](/handbook/engineering/workflow/)
+guidelines. To get a high-level overview of the status of all issues in the
+current milestone, check the [development workflow board](https://gitlab.com/gitlab-org/gitlab/-/boards/1339417).
+
+As owners of the issues assigned to them, engineers are expected to keep the
+workflow labels on their issues up to date. When an engineer starts working an
+issue, they mark it with the `workflow::in dev` label as the starting point
+and continue [updating the issue throughout development](/handbook/engineering/workflow/#updating-issues-throughout-development).
+Before closing an issue, it's important to add the `workflow::complete` label, because this is one
+of the requirements for the completed items to appear in the Improvements and Bugs
+overview of each month's release post. The process primarily follows this diagram:
+
+``` mermaid
+graph LR
+
+  classDef workflowLabel fill:#428BCA,color:#fff;
+
+  A(workflow::in dev):::workflowLabel
+  B(workflow::in review):::workflowLabel
+  C(workflow::verification):::workflowLabel
+  F(workflow::complete):::workflowLabel
+
+  A -- Push an MR --> B
+  B -- Merged --> C
+  C --> D{Works on production?}
+  D -- YES --> F
+  F --> CLOSE
+  D -- NO --> E[New MR]
+  E --> A
+```
 
 ### Boards
 
@@ -104,19 +171,6 @@ Currently the Tenant Scale group is in the early stages of working out what the 
 Currently we are in the proof-of-concept stage, in most cases we will need to take them to their logical conclusion. We might reach out to other GitLab teams to help us validate some of the assumptions we have had to make to in order to continue this exploration process. We are not afraid to determine that a proof-of-concept should not be continued. We will take what we learn from the process and apply it to the next one so we can iterate on PoC's in an efficient way.
 
 We have [short toes](https://about.gitlab.com/handbook/values/#short-toes) and welcome contributions, we are also very happy to talk about Cells with anyone that is interested. If you have a question, comment or just want generally know what we are up to and how we are going about it feel free to contact us, we'll make time.
-
-### Tenant Scale Group Planning
-We are working on building ourselves a rolling four quarters roadmap to enable transparency about what we are working on. Please visit our [planning page](./planning.html) to see how this process works. 
-
-### Working Agreement
-
-There are a few factors influencing some of our working agreements here. First, there is a lot of excitement about the goals and expected outcomes of this team. We are working on a really difficult problem, we have lofty expectations as to what we can deliver and many different potential solutions to investigate. Because of the critical nature of what we are going to deliver we need to be able to consistently and concisely describe our current efforts. Second, we are a newly formed team and we need to be explicit about how we work together to ensure success.
-
-Currently we are asking team members to update their issues with:
-- Epic Start Date and Due Date entries - this will allow us to dogfood our [roadmap](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=group::pods) functionality within GitLab
-- Add `~pods::active` to issues that we know we will be working on in the near future. This helps us to keep our [Pods: Build](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apods) tidy, especially the Open and Closed columns
-
-We can continue to iterate on our working agreement as a team to ensure that we are a successful team and exceed expectations.
 
 ### Demos
 
