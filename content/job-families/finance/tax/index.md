@@ -97,7 +97,7 @@ The Senior Manager, Global tax Accounting and Domestic Tax is a grade 9.
 
 ### Senior Manager, Global Tax Accounting and Domestic Tax Responsibilities
 
-- Tax Provision: prepare/review quarterly and annual global tax provision including calculating/reviewing current calculation; maintaining deferred tax balances, uncertain tax positions, and tax account roll forward; and other related schedules/memo and disclosures; Experience with corporate income and franchise taxes, credits and incentives, sales/use/withholding taxes 
+- Tax Provision: prepare/review quarterly and annual global tax provision including calculating/reviewing current calculation; maintaining deferred tax balances, uncertain tax positions, and tax account roll forward; and other related schedules/memo and disclosures; Experience with corporate income and franchise taxes, credits and incentives, sales/use/withholding taxes
 - Tax Compliance: Working with service providers to prepare/review of federal, state, and local tax returns including preparing state and local apportionment and state adjustment schedules; preparing and maintaining tax attribute schedules; preparing/reviewing of federal and state income tax estimates and extensions;
 - Tax Forecast: prepare/review quarterly tax forecast
 - Tax Controversy: assist with research and supervision of responses to notices regarding federal, state, and local tax issues; provide support and/or manage IRS and state income/franchise tax audits; maintain proper audit and compliance documentation
