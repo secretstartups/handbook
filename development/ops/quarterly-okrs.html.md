@@ -15,14 +15,9 @@ description: "OKR issue tracking for the Ops Sub-Dept"
 ### Links to OKRs 
 - [Development Department](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=clefelhocz1&milestone_title=FY24-Q1)
   - [Ops Sub-Department](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=sgoldstein&milestone_title=FY24-Q1)
-    - [Continuous Delivery](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=crystalpoole&label_name%5B%5D=Continuous%20Delivery)
-      - Configure Stage
-        - [Configure](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=nmezzopera&label_name%5B%5D=group%3A%3Aconfigure)
-      - Package Stage
-        - [Container Registry](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=michelletorres&label_name%5B%5D=group%3A%3Acontainer%20registry)
-        - [Package Registry](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=ckroutil&label_name%5B%5D=group%3A%3Apackage%20registry)
-      - Release Stage
-        - [Release](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=vshushlin&label_name%5B%5D=group%3A%3Arelease)
+    - [Configure](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=nmezzopera&label_name%5B%5D=group%3A%3Aconfigure)
+    - [Release](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=vshushlin&label_name%5B%5D=group%3A%3Arelease)
+    - [Package](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=crystalpoole&label_name%5B%5D=devops%3A%3Apackage)
     - [Verify](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=cheryl.li&milestone_title=FY24-Q1)
       - [Pipeline Execution](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&assignee_username%5B%5D=carolinesimpson&label_name%5B%5D=group%3A%3Apipeline%20execution)
       - [Pipeline Authoring](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?state=opened&label_name%5B%5D=group%3A%3Apipeline%20authoring&assignee_username%5B%5D=marknuzzo)
