@@ -49,42 +49,40 @@ Quarterly Achievers Chats span three quarters: Q1, Q2 and Q3 each year. We do no
 
 Key features of this call include: 
 1. 50-minute call
-1. Held within first month of new quarter
+1. Held within first two months of new quarter
 1. CEO and CRO attendance required
 1. Not recorded 
 
-### Selection Criteria - FY23-Q3
+### Selection Criteria - FY24-Q1
 
-In total, 12 team members from across the Field organization will be recognized. The categories by segment for FY23-Q3 include:
+In total, 12 team members from across the Field organization will be recognized. The categories by segment for FY24-Q1 include:
 
 **Enterprise Sales**
-1. LAM-iest Lander Award
+1. Land with Vision, Expand with Purpose Award
 1. Leader of the Quarter Award
-1. FY23-Q3 SAE Rookie Award
+1. Services Attach Success Award
 
 **Commercial Sales**
 1. R7 Results Delivery Award
-1. FY23-Q3 AE Rookie Award
+1. FY24-Q1 COMM Rookie Award
 
 **Customer Success**
-1. Top Delivery Team Results Award
+1. Stellar Services Results Award
 1. SA Customer Results Award
-1. T(e)AM Expansion Award
+1. Customer Adoption and Retention Award
 
-**Channel** 
+**Partner** 
 1. Channel First Order Award
-1. Channel Commercial Excellence Award
-
-**Alliances**
+1. Channel Management Focus Award
 1. Alliances Peak Results Award
 
 **Field Operations**
 1. FOPS MVP
 
-You can see a full description of each award [in this spreadsheet](https://docs.google.com/spreadsheets/d/1QtZn8AUafrZMJVni5ROptOiyiRR8xyhqbA0M5evqY7g/edit#gid=1782016599).
+You can see a full description of each award [in this spreadsheet](https://docs.google.com/spreadsheets/d/1aEHcpaMb6tisRRJQtjBSG3UeVmPrdxTk13IZBUCind8/edit#gid=0).
 
 Considerations include: 
-1. Categories are reevaluated by CRO leadership and Field Operations every quarter and changed if deemed necessary. 
+1. Categories are reevaluated by CRO leadership and Field Operations every fiscal year and changed if deemed necessary. 
 1. A team member cannot win a Quarterly Achiever award twice within a fiscal year. 
 
 ### Quarterly Achiever's Chat Process and Timeline
