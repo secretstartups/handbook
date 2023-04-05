@@ -38,18 +38,25 @@ The team does not explicitly own the Observability for [GitLab Dedicated](/handb
 focus as of early 2023 is for GitLab.com, but in the long run, we would like to build a platform usable for all SaaS products.
 
 
-## Services we Own
+## Services We Own
 
-* [Grafana](https://gitlab.com/gitlab-com/runbooks/-/blob/master/dashboards/README.md)
-* [Prometheus](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/monitoring#instrumentation)
-* [Thanos](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/monitoring#scaling-prometheus-thanos) 
-* [Logging](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging) 
-* Big Query - When [used for logs in GCS](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging#searching-in-object-storage-gcs)
-* [PagerDuty](https://gitlab.pagerduty.com) 
-* [Sentry](https://sentry.gitlab.net)
-* Pingdom
-* Dead Mans Snitch
-* [Status.io](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#about-statusio) - overlap with Support
+| Service | Label | Description | Resources |
+| --- | :---: | --- | --- |
+| AlertManager      | `service::AlertManager`  | |
+| BigQuery          | N/A                      | Part of `service::Logging`. <br/> BigQuery is used for searching archived logs in GCS | [Runbook](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging#searching-in-object-storage-gcs) |
+| Elasticsearch     | `service::Elasticsearch` | Part of of `service::Logging`. <br /> Elasticsearch is used to provide near-term storage for logs used for troubleshooting and diagnostics. | |
+| ErrorTracking     | `service::ErrorTracking` | | |
+| Grafana           | `service::Grafana`       | | [Runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/dashboards/README.md) |
+| Jaeger            | `service::Jaeger`        | Part of `service::Tracing` | |
+| Logging           | `service::Logging`       | Our log shipping and archiving infrastructure.| [Runbooks](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging) |
+| Prometheus        | `service::Prometheus`    | | [Runbooks](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/monitoring#instrumentation) |
+| PagerDuty         | N/A                      | | [Application](https://gitlab.pagerduty.com) |
+| Sentry            | `service::Sentry`        | Part of `service::ErrorTracking` | [Application](https://sentry.gitlab.net) |
+| Stackdriver       | `service::Stackdriver`   | Part of `service::Logging` | |
+| Thanos            | `service::Thanos`        | Long-term storage for metrics data. | [Thanos](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/monitoring#scaling-prometheus-thanos) |
+| Pingdom           |                          | Pingdom is used for up/down monitoring of externally-facing endpoints | |
+| Dead Man's Snitch |                          | Dead Man's Snitch provides synthetic monitoring and inactivity alerts. | |
+| Status.io         |                          | [Status.io](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#about-statusio) - overlap with Support | |
 
 
 ## Overlap
@@ -62,6 +69,21 @@ focus as of early 2023 is for GitLab.com, but in the long run, we would like to 
 4.  With data team on Sisense dashboards.
 5.  With Support for ownership of tooling for CMOC duties like Status.io
 
+
+## How We Work
+
+### Working with Us
+
+For general communication and questions, the team can be found in the [#g_infra_observability](https://gitlab.slack.com/archives/C0496692EHY) channel in slack. Requests for support should be submitted as a GitLab issue in the [Reliability issue tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues) labeled with [`team::Observability`](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#team-labels), [`workflow-infra::Triage`](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#workflow-labels), and a [service label](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#service-labels) (if known).
+
+
+### Workflow
+
+1. We organize work into monthly milestones, with names following the convention `o11y-YYYY-MM`
+1. We follow the [general workflow](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/#how-we-work) for Reliability, with minor adjustments to the [workflow labels](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html#workflow-labels) under the standard [issue triage process](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/issues.html).
+    1. We utilize an additional `workflow-infra::backlog` label for issues that have been triaged, but not yet scheduled and marked as `workflow-infra::Ready`.
+    1. We move issues to `workflow-infra::Ready` when they are scheduled into a milestone.
+    1. Specific `service::` labels in-use by our team are noted above, under [Services We Own](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/observability.html#services-we-own)
 
 
 ## Performance Indicators
