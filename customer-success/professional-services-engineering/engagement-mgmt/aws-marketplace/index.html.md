@@ -16,7 +16,6 @@ description: "Describes the workflows for processing a SOW through AWS Marketpla
 Process to close PS business (Must be Fixed Fee), charged upfront via AWS Marketplace
  - Draft Estimate
       - Be sure to account for the fact that the SOW must be **fixed fee, prepaid** in order to process it through AWS Marketplace
-      - Make sure to markup prices by 2.5% to account for AWS fee - you do not need to show the original and uplifted charges, just show the final rate with the uplift
 - Draft SOW
    - Follow the standard SOW approval processes, including: 
       - Leadership Approval
