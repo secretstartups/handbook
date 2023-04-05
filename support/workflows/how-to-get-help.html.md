@@ -132,3 +132,11 @@ The steps for submitting a help request are as follows:
 - [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) to find the right development or product team to reach out to.
 - [Emergency runbooks](https://gitlab.com/gitlab-com/support/emergency-runbook/-/tree/master/.gitlab/issue_templates) with troubleshooting tips, even if not an emergency.
 - See which [manager is on-call](https://gitlab.pagerduty.com/escalation_policies#PGNLUZ1) if guidance is needed on something urgent.
+
+#### General Troubleshooting Resources
+
+Every problem is a little bit different. Sometimes it makes sense to try a different troubleshooting technique. These resources talk about general purpose approaches to troubleshooting: 
+
+  - Julia Evans' [comics](https://wizardzines.com/comics/), especially the ones about debugging
+  - [The Pocket Guide to Debugging (PDF)](https://store.wizardzines.com/products/the-pocket-guide-to-debugging-pdf)
+  - [General Purpose Troubleshooting Principles](https://brie.dev/troubleshooting/)
