@@ -128,3 +128,9 @@ _Example:_
 Job stories offer a higher-level view of the main objective. However, when written at a lower altitude, they can serve the same function as user stories, guiding your solutions while keeping the main job, circumstances, and need in mind.
 
 If you want a detailed breakdown of each segement of the JTBD, learn more about the [structure of a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-structure-a-jtbd).
+
+### Job stories and user personas
+
+[User personas](https://about.gitlab.com/handbook/product/personas/#user-personas) are people who use GitLab. Each persona represents a person with a particular job title or role in an organization. A job performer in our JTBD framework is any user doing a specific task. In practice, the person who is the job performer could change and is not strictly tied to a job title.
+
+For example, anyone who creates a merge request is considered a Code Author (job performer) in the JTBD Framework. This is a different perspective of a user persona that attempts to fit any person in an organization with the title Software Developer into the [Sasha](https://about.gitlab.com/handbook/product/personas/#sasha-software-developer) user persona.

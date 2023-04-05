@@ -24,6 +24,8 @@ Our goal is to make products that people want, as well as make people want our p
 ## What isn't a JTBD?
 * **They are not about your product, service, or brand.** People “hire” products to get a job done. Instead of focusing on your own solution, you must first understand what people want and why that’s important to them.
 * **They are not about specific products or particular solutions.** Instead, they focus on the process that people go through to solve a problem.
+* **They are not a replacement for the user persona framework.** The two contrasting viewpoints share similarities without being incompatible. They can be used together to gain a more holistic view of the product and its users. For example, you may want to consider the job statement and process while drafting the workflow of a new feature, but you may want to check specific content on a page suitable for a particular user persona.  
+
 
 ## When should I use a JTBD?
 Use JTBD throughout the design process, but most notably to:
@@ -52,6 +54,16 @@ Note that these different roles don’t refer to job titles. Instead, they repre
 ### _What_ does the job performer want to accomplish (independent of your solution)?
 
 The aim of the job performer is not to interact with your company but to get something done. Because they don’t mention solutions or technology, jobs should be as timeless and unchanging as possible. Strive to frame jobs in a way that makes them stable, even as technology changes. 
+
+#### Is a Job Performer the same as a User Persona?
+
+No, a user persona represents a person in an organization with a particular job title. That persona may have 3-4 main jobs, which can be expressed using the JTBD framework.  Similarly, the role of job performer can be taken by more than one user persona.
+
+While using the JTBD framework, a user's job title or personal details are not as crucial as their capability to successfully carry out the job process. As a result, the two frameworks do have some overlap but are not designed to fit together perfectly. The following visual Venn diagram may be helpful in understanding this overlap.
+
+### Is a Job Performer the same as a User Persona?
+
+![PerformerPersonaDiagram](/handbook/source/handbook/product/ux/jobs-to-be-done/persona-v-performer.png)
 
 ### _How_ will the job get done? (objective of the JTBD) 
 
@@ -82,6 +94,16 @@ JTBD uses circumstances to make them relevant to an organization. The conditions
 Example: *Get breakfast* is a very broad job that could apply to many situations. But for a fast food restaurant, *get breakfast on the go*, is a more precise job to focus on. 
  
 Example: A solution for the job *get breakfast on the go* could include everything from going to a restaurant or diner to eating a packed lunch at a desk. But when considering specific circumstances like *when late for work, while commuting* and *when cost is a factor*, a morning milkshake might be a better solution for the job.
+
+### _How do I discover_ JTBD relevant to my group?
+
+Jobs to be Done are discovered by interviewing real-world users. At GitLab, it is advised to use the assistance of a UX Researcher throughout the process. 
+
+1. Determine the project's scope with the relevant stakeholders. Understanding who you want to talk to you and what jobs you want to understand is just as important as determining what jobs are not in scope for this project. 
+2. Create a problem validation issue similar to this [example issue](https://gitlab.com/gitlab-org/ux-research/-/issues/2223) in the UX Research project, and fill out the description. 
+3. You may create an assumptive JTBD map with internal stakeholders [similar to this template](https://drive.google.com/file/d/154noxIz5_ziAk9KHASHqb8faYCTw9ZyQ/view?usp=sharing). You can also validate your findings through desk research. This map can prepare you for the participant's workflow and the language they might use to describe their job. This is activity is optional. 
+4. When you're ready to interview external participants, adjust this [screener template](https://docs.google.com/document/d/1paH7wpXvCIOIDIy_GiDkbXWy3gfF4a8WXGYzLDMONkc/copy) as needed. Remember to recruit GitLab users and non-users, as the JTBD framework is product-agnostic.
+5. Finally, you can modify this [JTBD Script template](https://docs.google.com/document/d/1wnvsJtWrLntliOxyYudrSnqatmxPZBvAYobXusW2np8/copy) to help you conduct the interviews. Remember to keep the scope and output of the interviews in mind while modifying the script. Keep in mind the job process and statement should be something that does not need a user interface and might even be applicable in the distant future.
 
 ## JTBD examples and tips
 
