@@ -73,7 +73,7 @@ The Senior Talent Brand Program Manager is a [grade 7](https://about.gitlab.com/
 - A proven ability to drive and deliver projects independently
 - A proven ability to influence leadership to adopt new programs that support our talent brand
 - Demonstrated ability to deliver targeted recruitment marketing, social media, and employee value proposition building strategies
-- A natural storyteller with excellent narration and writing skills
+- An effective storyteller with excellent narration and writing skills
 - Ability to navigate cultural differences and build global but locally relevant solutions
 - Strong social and communication skills (verbal and written), across all levels
 - Excellent organizational skills, time management, and priority setting
