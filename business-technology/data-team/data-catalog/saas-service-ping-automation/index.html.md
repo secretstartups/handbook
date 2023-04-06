@@ -191,6 +191,26 @@ The `saas_usage_ping_backfill` `DAG` will backfill data for the metrics where th
           1. Grab the latest metrics queries from the [Namespace Queries JSON](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping_namespace_queries.json)
           1. Run the Namespace Queries versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
 
+#### Backdating Service Pings to Compensate for Bugs
+
+We may occasionally encounter scenarios where bugs in Service Ping impact recorded metric values. In such cases, it may be possible to duplicate and backdate a _correct_ Service Ping record to approximate what a correct Service Ping payload would have been. The only time we would consider this is if the Service Ping bug materially impacts XMAU reporting or any other company-wide metric **and** there are no better alternatives. An example case can be found in [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/16160). In this case, RedisHLL metrics were dramatically underreporting actual values at the end of March 2023, causing XMAU reporting to be wildly incorrect. For some metrics, the metric values were down 70% from the previous period (we would generally expect to see a small deviation from previous period values). 
+
+In this case, the recommended response was to duplicate a `2023-04-03` Automated SaaS Instance Service Ping and change the `ping_date` to `2023-03-31` so that this ping would be programatically selected for March 2023 XMAU reporting. While this is not an ideal approach, it was deemed to be the best available option because it provided _mostly_ accurate data that would seamlessly flow through the data models, prevented custom SQL or bespoke logic in BI tools, and required a small amount of effort from the Data Team. 
+To quarantine bad (original) ping from `2023-03-31` and avoid wrong data flow in downstream models, DE will update the following columns to isolate incorrect ping:
+
+* PING_DATE=2023-03-31
+* PING_SOURCE='wrong'
+
+Other active solutions were more complex and did not achieve substantially higher data quality, and doing nothing would propagate incorrect data in reporting models throughout the EDM.
+
+In the long run, the target state is to quarantine any incorrect data and prevent it from reaching production in the first place. Unfortunately, we do not currently have sophisticated data contracts enforced in the pipeline that would prevent the wrong data from reaching production. Until we have that, we may be forced to pursue non-ideal options such as this one.
+
+##### Back dating events
+
+| Date | Reason | Actions taken | Detailed GitLab Issue |
+| ---- | ------ | ------------- | --------------------- |
+| 2023-04-05 | Fixing March 2023 Redis HLL metric bug | DEs duplicate and backdate later ping; quarantine incorrect ping | [link](https://gitlab.com/gitlab-data/analytics/-/issues/16160) | 
+
 ### Phase 2: Metrics transformation to Trusted Data Model 
 
 Once all of the source metrics are available in Snowflake `RAW.SAAS_USAGE_PING` schema, we begin dbt processing to transform the data into the Trusted Data Model format.
