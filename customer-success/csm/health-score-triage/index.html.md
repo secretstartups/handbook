@@ -71,21 +71,16 @@ Examples:
 - Significant number of support tickets (16+ per month)
 
 
-### Will Churn (Grey)
+### Will Churn
 
-Very rarely, a customer reaches a point at which it is accepted by the account team and leadership that a customer will churn. As Gainsight does not support a 'grey' color (or any color outside of the standard green to red health scoring), the `will churn` lifecycle stage can be applied in 360º Attributes.  Applying this stage will remove the customer from health scoring reporting, so that at-risk reviews are spent productively.
+Very rarely, a customer reaches a point at which it is accepted by the account team and leadership that a customer will contract or churn. As Gainsight does not support a 'grey' color (or any color outside of the standard green to red health scoring), the `will churn` lifecycle stage can be applied in 360º Attributes.
 
 In order for a customer to move to the `will churn` stage, the following must be completed:
 
-1. All options discussed in the triage issue and in at-risk reviews have been exhausted
+1. All options discussed during the at-risk reviews have been exhausted
 1. CSM discusses it with their manager and gets agreement on moving to `will churn`
-1. CSM opens a `Will Churn` issue ([`Will Churn` issue template](https://gitlab.com/gitlab-com/customer-success/account-triage/-/issues/new?issuable_template=Will%20Churn%20-%20ENT))
-1. CSM links from the triage issue to the newly created `Will Churn` issue and closes the triage issue
-1. Listed personas in the `Will Churn` issue provide feedback and approval
-1. SAE/AE marks the opportunity as `Will Churn`
-1.  CSM updates the Lifecycle Stage in Gainsight C360 > Attributes > Lifecycle Stage to `Will Churn`
-
-In line with GitLab's approach to blameless root cause analysis in both [Professional Services](/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html) and [Engineering](/handbook/engineering/root-cause-analysis/), we follow a similar methodology in the form of a retrospective in the `Will Churn` issue to identify learnings from what went well and what didn't, what we could have done better to avoid this churn, and how we can change our approach in order to avoid future churn. This information is important and required to be included the issue in order to provide context to leadership prior to them approving. This retrospective and lessons learned should also be discussed in the next 1:1 between the CSM and their manager, as well as potentially lead to a handbook or process update shared with the broader team.
+1. RM/AE marks the opportunity as `Will Churn` or `Will Contract`
+1. CSM updates the Lifecycle Stage in Gainsight C360 > Attributes > Lifecycle Stage to `Will Churn`
 
 ## Reporting and Viewing Customer Health
 
