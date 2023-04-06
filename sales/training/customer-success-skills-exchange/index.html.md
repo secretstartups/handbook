@@ -30,7 +30,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|  
 | 2023-03-21 | Value Pillar Messaging (see below for recording) | Saumya Upadhyaya & Haim Snir | 
-| 2023-04-05 | Customer Education AMA | Niyati Shah | 
+| 2023-04-05 | Education Services AMA (see below for recording) | Niyati Shah | 
 | 2023-04-19 | Indicators for Scaling GitLab | Caleb Cooper | 
 
 ## Past Sessions
@@ -39,6 +39,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |   
+| 2023-04-05 | **[Education Services AMA](https://youtu.be/IKKkvQu73Ls)** | Public |
 | 2023-03-21 | **[Value Pillar Messaging](https://youtu.be/mLmvBpvAT00)** | Public |                        
 | 2022-12-07 | **[GitOps Overview and Demo - Session 2](https://www.youtube.com/watch?v=_DMdSHIfQYI)** | Public |  
 | 2022-12-06 | **[GitOps Overview and Demo - Session 1](https://www.youtube.com/watch?v=fKTwNhSHcJw)** | Public | 
