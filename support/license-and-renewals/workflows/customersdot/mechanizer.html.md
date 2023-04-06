@@ -32,7 +32,7 @@ In the app you will have the option to select from the following request types:
 
 Allows setting additional compute credits to a customer namespace to the value specified in the `Extra minutes` field.
 
-> **WARNING:** Additional compute credits added this way will last **indefinitely** until used. If the request is to provide "extra compute credits" during the trial period only, use the [Manage GitLab Plan and Trials option](#manage-gitlab-plan-and-trials) which will change the *usage quota* to match a paid plan quota for the duration of the trial.
+> **WARNING:** Additional compute credits added this way will last **indefinitely** until used. If the request is to provide "extra compute credits" during the trial period only, use the [Manage GitLab Plan and Trials option](#manage-gitlabcom-plan-and-trials) which will change the *usage quota* to match a paid plan quota for the duration of the trial.
 
 The form has two required fields:
 
@@ -46,7 +46,7 @@ Associates a group with a subscription. All fields are required.
 - **Namespace**: The customer namespace as it appears in the URL.
 - **Subscription ID**: The unique ID of the purchased subscription in Salesforce
 
-### Manage GitLab Plan and Trials
+### Manage GitLab.com Plan and Trials
 
 Updates GitLab Subscription or customer trial. You can use it for the following cases:
 
@@ -54,7 +54,7 @@ Updates GitLab Subscription or customer trial. You can use it for the following 
 1. Trials
     1. Change Plan
     1. Renew/extend Date
-1. "Extend" an existing active or expired subscription.
+1. "Extend" an existing active or expired subscription for .com.
     - Note: To "extend" a subscription, a trial is triggered on the namespace. An old trial order is used if it exists. Otherwise, a new trial is created.
 
 Please note that in order to extend or renew a trial, the customer **MUST** have an active trial because a CustomersDot account needs to exist.  If the prospect has not yet initiated a trial themselves, please have them do so via the [customers portal](https://customers.gitlab.com/trials/new?gl_com=true).
@@ -67,7 +67,7 @@ These two  fields are mandatory:
 These two fields are optional:
 
 - **End Date**: The updated date the plan will end.
-- **Sales Manager Approval**: The GitLab.com username (without a preceding @) of the sales manager who approved a trial extension. 
+- **Sales Manager Approval**: The GitLab.com username (without a preceding @) of the sales manager who approved a trial extension. This approval should be via chatter on the SFDC opportunity.
 
 Required to "extend" a subscription:
 
