@@ -354,3 +354,28 @@ Account Ownership Change Requests are initiated when the sole Owner of a group l
 1. Using a GitLab `Admin Account`, go to the requestor's 'Namespace - Group - Members' section.
 1. Search for the member by name or email address; in the `Max role` column, change the requestor's role to `Owner`.
 1. If the requestor is not a member of the group, then press the `Invite members` button at the top right, enter the requestor's email address, and set the role to `Owner`. Press the `Invite` button to save your changes.
+
+## Special Cases
+### Twitter
+
+If a user has a pre-listed Twitter account on their GitLab profile, this may be used as an additional factor for proving account ownership.
+
+1. Invite the user to follow `@GLSupport2FA` in a reply to their ticket. 
+1. Log in to https://twitter.com/ using the GLSupport2FA twitter account in the 1Password Vault.
+   - If the login requires a 2FA code, log in to https://mail.google.com using the techsupport@gitlab.com gmail credentials. Note: If you are redirected to OKTA login, use the same gmail credentials to log in to OKTA.
+1. Go to https://twitter.com/GLSupport2FA/followers and confirm the listed Twitter account is in the Followers list.
+1. Go to the messages list and send them the following snippet:
+
+```
+Hi, 
+
+We recently got a request to <remove the 2FA on | delete | change the primary email address> your GitLab.com account. Since you listed this account there, we're reaching out for confirmation. Please let us know if it was you who initiated this request.
+
+If you don't reply in the positive in 7 days we won't be able to count this towards your proof of account ownership.
+
+Thanks,
+GitLab Support
+```
+
+If a reply is received within 7 days, account for it in the Risk Factor Worksheet and continue with the workflow. Otherwise, this can be counted as a failed challenge.
+
