@@ -70,19 +70,23 @@ As a way to keep Gitlab's research more consistent, we encourage everyone to uti
 
 There are two sets of tags available for your projects. You may use either set whenever you want, as well as your own custom tags, but be aware you will have to enable the tags for **each project**. When summarizing your research, first look at the global tags, and then the section tags when appropriate, and lastly create your own tags. The differences between the two sets of tags is shown below:
 
--   [Gitlab Global Tags](https://dovetailapp.com/extensions/6X8Q26BqpUhlXxVITNQqgZ/tags/b/1eQWolOBA79rRgozgopzrn) which contain tags that can be used across all stage groups for a wide range of projects, but particularly useful for solution validation. Try to look at these tags first.
+-   [Gitlab Global Tags](https://gitlab.dovetailapp.com/settings/tags/1imTtBuMIPQSxT46mHjDeX) which contain tags that can be used across all stage groups for a wide range of projects, but particularly useful for solution validation. Try to look at these tags first.
 
--   [Gitlab Section Tags](https://dovetailapp.com/extensions/9l2Y2ShcM2F8FWbNbfctk/tags/b/7wjCkgZQsRo6l4m1h7UhcC) which contain tags organized by [section](/handbook/product/categories/#devops-stages), which can be used for more feature specific, feature-related work. 
+-   [Gitlab Section Tags](https://gitlab.dovetailapp.com/settings/tags/79TyjJnDkNehFnB4h9DfTp) which contain tags organized by [section](/handbook/product/categories/#devops-stages), which can be used for more feature specific, feature-related work. 
 
-This [video](https://youtu.be/WchJH8jBKOI) contains a walkthrough of the steps below to enable a global tag on your project:
+This [video](https://www.youtube.com/watch?v=Cmh4yNu8fxE) contains a walkthrough of the steps below to enable a global tag on your project:
 
 1. Open the project you are working on
 
-2. Click on `Extensions` in the bottom left corner
+2. Click on the `plus` icon next to `Tags`
 
-3. Check the box next to `Gitlab Global Tags`
+3. Choose `Use an existing board`
 
-4. You will see a new tab titled `Gitlab Global Tags` at the top of the `Tags` page in your dovetail project
+4. Under the `Workspace` tab, select `Gitlab Global Tags` and `Link to project`
+
+5. You will now see `Gitlab Global Tags` appear as a board under `Tags`
+
+6. Repeat steps 3-5 to enable `Gitlab Section Tags`
 
 5. Repeat this process for each project you are working on
 
