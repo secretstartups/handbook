@@ -34,7 +34,7 @@ As we set out over the next decade to achieve this vision, we will continue to r
 
 
 ## Hiring pages
-
+- [KPI's](/handbook/hiring/kpis/)
 - [Interviewer Prep Requirements](/handbook/hiring/interviewing/)
 - [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
 - [Diversity, Inclusion & Belonging  Talent Acquisition Initiatives](/company/culture/inclusion/talent-acquisition-initiatives/)
