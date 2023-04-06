@@ -23,8 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Mar 30 | Positioning Professional Services | Bryan M. & Jonathan F. |
-| Apr 6 | ISV Partner Program Launch | Alliances Team |
 | Apr 13 | FY24-Q1 - Channel Program Update  | Channel Team |
 | Apr 20 | *No session during the last week of the quarter* | N/A |
 | Apr 27 | *No session during the last week of the quarter* | N/A |
@@ -37,6 +35,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-04-06 | **[Positioning Professional Services](https://youtu.be/vFr86T4MFCE)** | Private |
 | 2023-03-23 | **[Winning with Value Stream Assesments](https://youtu.be/Bl4f87W-S0Y)**  | Private |
 | 2023-03-16 | **[Alliances: Co-Selling with Oracle Cloud Infrastructure](https://youtu.be/tqjIcVM0PpY)** | Private |
 | 2023-03-09 | **[FY24-Q1 Revenue Play](https://youtu.be/Hii30ErvqE8)** | Private |
