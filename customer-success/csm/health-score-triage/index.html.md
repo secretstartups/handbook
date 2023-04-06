@@ -104,7 +104,10 @@ For any account that is Red or Yellow, the following steps for an At Risk timeli
 1. Gainsight will auto create the `At-Risk` CTA (in Cockpit) within 24h
 1. CSM updates CTA [Risk Impact](/handbook/customer-success/csm/health-score-triage/#risk-impact-definitions) and [Risk Reason](/handbook/customer-success/csm/health-score-triage/#risk-reason-definitions) dropdown fields
    1. In the CTA, update `Stage Name` and `Competitor` fields if applicable
-1. CSM logs new `At-Risk Update` based on [Frequency of At Risk Timeline Entries](/handbook/customer-success/csm/health-score-triage/#frequency-of-at-risk-timeline-entries)
+1. CSM logs new `At-Risk Update` based on [Frequency of At Risk Timeline Entries](/handbook/customer-success/csm/health-score-triage/#frequency-of-at-risk-timeline-entries). At-Risk Update entries should follow the template to include the following information:
+   1. General background or updates on the At-Risk customer (i.e., key discussion points on the most recent cadence call)
+   2. Next Steps and/or pending action items
+   3. Date of the next scheduled call
 1. At-Risk Conclusion:
    1. Customer is won back:
       1. Log Account-level Timeline `At-Risk Update` type for CSM Sentiment as Green and final notes
