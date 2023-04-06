@@ -104,3 +104,4 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Solutions Architecture Representative / Rapid Prototyping Team Member | @bartzhang | [Bart Zhang](https://about.gitlab.com/company/team/#bartzhang) | Channel Solutions Architect |
 | Product Marketing Representative| @laurenaalves | [Laurena Alves](https://about.gitlab.com/company/team/#laurenaalves) | Senior Product Marketing Manager |
 | Developer Relations Representative | @johncoghlan | [John Coghlan](https://gitlab.com/johncoghlan) | Senior Manager, Developer Evangelism | 
+| Privacy Representative | @emccrann | [Eugene McCrann](https://about.gitlab.com/company/team/#emccrann) | Lead Legal Counsel, Privacy |
