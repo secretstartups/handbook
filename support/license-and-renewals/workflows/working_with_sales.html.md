@@ -76,10 +76,10 @@ _**NB:** Support should be able to rely on the Salesforce `Account Owner` field 
 1. Post an update to the ticket, mentioning:
     * The name of the person who will be in touch.
     * Tell the customer to let us know if they haven't heard back within 2 business days.
-    * Inform the customer that if we don't receive a reply from them within 20 days following our last reply,
+    * Inform the customer that if we don't receive a reply from them within 14 days following our last reply,
       our ticketing system will mark the ticket as solved. If the customer then doesn't respond within 7 days
       of the ticket being marked as solved, our ticketing system will proceed to close the ticket
-      (see [Handling unresponsive tickets](https://about.gitlab.com/support/general-policies/#handling-unresponsive-tickets)).
+      (see [Automated Follow-up for Pending Cases](https://about.gitlab.com/support/general-policies/#automated-follow-up-for-pending-cases)).
 2. Set the ticket status to `Pending`.
 
 _(Pro tip: create a personal ticket view where "Escalated to Sales" = checked, to pull these out into their own queue)_
