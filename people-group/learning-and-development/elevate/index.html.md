@@ -85,6 +85,27 @@ We currently plan for a new group of ~100 people leaders to start this program e
 
 Due to our priority to certify 85% of our people leaders in FY24, participation by aspiring managers is not currently an option. 
 
+## Making up missed sessions
+
+Attendance to all Elevate live sessions is required to earn the certification. We understand that making time for all live sessions can be difficult. We have 2 options for making up sessions you've missed:
+
+**Option 1: Attend Another Session**
+
+There are **5 Live Learning** and **10 Group Coaching** sessions for each module. If you cannot attend your scheduled sessions, Option 1 is to attend another scheduled session.
+
+Note: You will be initially be invited to 4 Live Learning & 1 Group Coaching session - invites will be shared to the other makeup sessions based on your availability.
+
+**Option 2: Buddy Makeup**
+
+If none of the 5 Live Learning or 10 Group Coaching session will work, you may use Option 2: Buddy Makeup. Note that this can only be used a total of **one time** per participant.
+
+Buddy Makeups require the following:
+
+1. Schedule a 50 minute session with another manager who is currently involved in Elevate. We suggest posting in your cohort Slack channel to find someone willing to support you.
+1. Make a copy of the relevant Buddy Makeup Agenda found in [this folder](https://drive.google.com/drive/folders/1iwamQCgxex7WK6Z91HAGYStbjELeSMAN). Be sure you've selected the agenda for the correct module. Make a copy of the agenda that is editable to everyone at GitLab. Use the agenda to guide your discussion.
+1. The participant who is making up the missed session must respond to the questions in the agenda and share the agenda in their group coaching cohort and tag Jamie Allen for review. 
+1. After your session, send a message in your Slack cohort group with a link to your agenda. Team members supporting Elevate will review and document your attendance for the session you missed, and your use of your one Buddy Makeup option.
+
 
 ## Supporting your team in Elevate
 
