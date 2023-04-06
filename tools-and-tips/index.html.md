@@ -424,8 +424,7 @@ Most of the attack models that impact the FIDO2/WebAuthn tokens require physical
 
 ## Recommendations
 
-Either device is fine for GitLab use, and there are other hardware tokens that are also decent (if you have questions, ask the Security Team in the `#security` Slack channel). The Security Team has looked at Yubico and Solokeys devices, and while both are secure, there are a few differences listed below one should keep in mind (current as of October 20, 2022):
-
+While there are other hardware tokens that are also decent and will function with GitLab, some have limitations. The recommended solution for team members is Yubico's YubiKeys. 
 - Please fill out this [form](https://forms.gle/VZ7Q4RWXfmfB58FJ9) before ordering a YubiKey, as we may be able to provide a YubiKey via our group buy subscription.
 - Recommended YubiKey models include the YubiKey 5Ci (for iPhone users) and YubiKey 5 NFC (for Android users).
 
