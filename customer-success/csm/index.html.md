@@ -212,6 +212,12 @@ There are 7 pillars that we have identified as crucial for success as CSMs. It i
 
 [CSM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 
+### Changelog
+
+- [CSM Process Changelog](https://docs.google.com/document/d/1xyaxc37iCDtfeabo2NXCRV31pNOdvieXoVDxJw_aXoM/edit#heading=h.h09e4t2jbjoh)
+- [Gainsight Changelog](https://docs.google.com/spreadsheets/d/1QknfSfX50JFOhkHZoz2VjovREWK2fJkYBxr5HEjkT9Q/edit#gid=0)
+- 
+
 ### CSM Learning & Development
 
 - [CSM Objectives and Key Results (OKRs)](/handbook/customer-success/csm/csm-okrs)
