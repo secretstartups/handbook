@@ -179,7 +179,7 @@ Labels help us organize and tag our work so we can track and find the work items
 | ~"BT-Priority::1" | Critical | gitlab-com, gitlab-org |
 | ~"BT-Priority::2" | Important not urgent | gitlab-com, gitlab-org |
 | ~"BT-Priority::3" | No rush to do, but please do it | gitlab-com, gitlab-org |
-| ~"BT Finance Systems" | For anything related to a Finance System (i.e. Zuora, Netsuite, Tipalti, Expensify, etc.). Catch all to ensure a Finance Systems Admin is aware and can triage as necessary. | gitlab-com, gitlab-org |
+| ~"BT Finance Systems" | For anything related to a Finance System (i.e. Zuora, Netsuite, Tipalti, Navan Expense, etc.). Catch all to ensure a Finance Systems Admin is aware and can triage as necessary. | gitlab-com, gitlab-org |
 | ~"BT::Backlog" | Unless a due date is indicated or urgency specified, non-access related issues will go into the backlog and prioritized bi-weekly | gitlab-com |
 | ~"BT::To Do" | Team will look at the issue within a week of submitting | gitlab-com |
 | ~"BT::In Progress" | Team is currently actively working on scoping out and gathering requirements | gitlab-com |
