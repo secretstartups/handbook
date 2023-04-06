@@ -40,7 +40,7 @@ With your team, you agreed that the best measure for success is when a merge req
 
 ### Declare an event and a metric
 
-As you chose to use "number of applied suggestions" as a success metric, it means that a specific user action has been identified as an important event.
+As you chose to use "number of merge request that have applied suggestions" as a success metric, it means that a specific user action has been identified as an important event.
 
 To measure this success metric you need to do three things:
 1. Define an [event](#event): `applied_ai_code_review_suggestion`
@@ -81,6 +81,18 @@ Y
 > Name? (e.g. project_id)
 
 project_id
+
+> Type (number, string, url, boolean):
+
+number
+
+> Is the property required? Y/N
+
+Y
+
+> Name? (e.g. project_id)
+
+merge_request_id
 
 > Type (number, string, url, boolean):
 
@@ -161,8 +173,7 @@ merge_request_id
 > The product intelligence group thanks you for your help and collaboration!
 
 It is representing all applied code review suggestions that were generated with the usage of the new AI-powered feature.
-This metric counts all applied_ai_code_review_suggestion event records that occurred within different time frames.
-
+This metric counts distinct merge request id from applied_ai_code_review_suggestion event records that occurred within different time frames.
 ```
 </details>
 
@@ -259,7 +270,7 @@ merge_request_id
 > The product intelligence group thanks you for your help and collaboration!
 
 It is representing all applied code review suggestions that were generated with the usage of the new AI-powered feature.
-This metric counts all applied_ai_code_review_suggestion event records that occurred within different time frames.
+This metric counts distinct merge request id from applied_ai_code_review_suggestion event records that occurred within different time frames.
 
 > All done!
 
@@ -439,17 +450,17 @@ of metric definition file:
 ```yaml
 ---
 data_category: optional
-name: count_event_applied_ai_code_review_suggestion_v1_0_0
+name: count_distinct_merge_request_id_from_applied_ai_code_review_suggestion_v1_0_0
 description: >
   It is representing all applied code review suggestions that were generated with the usage of the new AI-powered feature.
-  This metric counts all applied_ai_code_review_suggestion event records that occurred within the last week.
+  This metric counts distinct merge request id from applied_ai_code_review_suggestion event records that occurred within different time frames.
 source: events
 events:
 - applied_ai_code_review_suggestion:
   version: 1-0-0
   unique_on: merge_request_id
 filters:
-  time_frames: [1week]
+  time_frames: [7days]
 value_type: number
 performance_indicator_type: []
 introduced_by_url: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/1234
