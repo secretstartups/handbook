@@ -21,7 +21,7 @@ The **Enterprise Applications Team** implements and supports specialized applica
 
 We are directly responsible for all of GitLab's finance systems and Enterprise Applications Integrations.  We build and extend these applications to support the processes of our business partners and rationalize our application landscape to ensure it is optimized for efficiency and spend.
 
-Our team ensures the availability of these applications and integrations through monitoring and alerting. These internal-facing applications include a multitude of different applications and environments, including Zuora, Adaptive Planning, Netsuite, Expensify, etc.  We are also responsible for the IT Audit and Compliance function to ensure we pass SOX Audit for our IT General Controls (ITGC).
+Our team ensures the availability of these applications and integrations through monitoring and alerting. These internal-facing applications include a multitude of different applications and environments, including Zuora, Adaptive Planning, Netsuite, Navan Expense, etc.  We are also responsible for the IT Audit and Compliance function to ensure we pass SOX Audit for our IT General Controls (ITGC).
 
 Our Enterprise Applications team is made up of a combination of roles to best support the services we offer. Learn more about each by clicking on the tiles:
 
@@ -62,9 +62,9 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 1. Netsuite
 1. Coupa
 1. Tipalti
-1. Expensify
 1. Stripe
-1. TripActions
+1. Navan
+1. Navan Expense
 1. Avalara
 1. CaptivateIQ
 1. Workiva
