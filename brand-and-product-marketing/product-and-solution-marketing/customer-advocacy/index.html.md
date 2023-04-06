@@ -3,8 +3,9 @@ layout: handbook-page-toc
 
 title: "Customer Advocacy at GitLab"
 
-description: "The Customer Advocacy Team is dedicated to forging evergreen co-marketing relationships with top advocates and enterprise brands that fuel an integrated strategy aligned to pipeline-driving initiatives, threading the customer voice into all GTM motions."
 ---
+
+# The Customer Advocacy Team is dedicated to forging evergreen co-marketing relationships with top advocates and enterprise brands that fuel an integrated strategy aligned to pipeline-driving initiatives, threading the customer voice into all GTM motions.
 
   - We create programs and opportunities that put Enterprise logos and advocates in the spotlight.
   - We partner with Sales and CS to identify, capture, and tell the right stories that help us sell.
@@ -18,6 +19,7 @@ description: "The Customer Advocacy Team is dedicated to forging evergreen co-ma
 # Programs we drive and support
 
 **Evergreen customer story creation**
+
 We partner with the content team to run a continual pipeline of customer case studies and blogs. A selection and prioritization process helps us tell the right stories in the right format. 
 
   Quick Links
@@ -26,6 +28,7 @@ We partner with the content team to run a continual pipeline of customer case st
  -  [Publication Process](https://docs.google.com/document/d/1gu97xEv3WMYQO2aUUHqzdtUbXAx6s_VPWXSgDN9mg5E/edit?usp=sharing)
 
 **Earnings Calls customer references**
+
 Each quarter the Customer Advocacy Team proactively partners with Sales and Customer Success to identify and create customer references for our quarterly earnings calls.
 
   Quick Links
