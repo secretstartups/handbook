@@ -17,8 +17,8 @@ The **Finance Systems Administrator Team** implements and supports specialized a
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the team
 
-- [Wendy Lam](https://about.gitlab.com/company/team/#wlam) - Finance Systems Administrator (P2P and Record to Report Expert)
-- [Jessica Salcido](https://about.gitlab.com/company/team/#jesssalcido) - Finance Systems Administrator (Interim Manager, Q2C Expert)
+- [Jessica Salcido](https://about.gitlab.com/company/team/#jesssalcido) - Manager, Finance Systems (Q2C Expert)
+- [Wendy Lam](https://about.gitlab.com/company/team/#wlam) - Senior Finance Systems Administrator (P2P and Record to Report Expert)
 - [Cristine Marquardt](https://about.gitlab.com/company/team/#csotomango) - Finance Systems Administrator (Service Desk Guru), *Certified Zuora Administrator*
 - [Brian Wong](https://about.gitlab.com/company/team/#brianmwong) - Finance Systems Administrator, *Certified Zuora Administrator*
 
@@ -59,11 +59,11 @@ This means that [configuration changes](https://about.gitlab.com/handbook/busine
 | Avalara           | Tax Engine                       |
 | Coupa             | Procurement and AP               |
 | Docusign          | Signatures                       |
-| Expensify         | Expense Management               |
 | Netsuite          | ERP                              |
 | Stripe            | Payment Processor                |
 | Tipalti           | AP                               |
-| TripActions       | Travel Booking                   |
+| Navan             | Travel Booking                   |
+| Navan Expense     | Expense Management               |
 | Workiva           | Reporting                        |
 | Zuora Billing     | Billing                          |
 | Zuora Revenue     | Revenue Recognition              |
