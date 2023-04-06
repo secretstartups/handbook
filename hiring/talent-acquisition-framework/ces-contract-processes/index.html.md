@@ -45,7 +45,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab IT BV | Rob Allen & Pattie Egan. Backup: Craig Mestel| 
 | GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Dale Brown, Craig Mestel | 
 | GitLab France S.A.S. | Rob Allen & Pattie Egan. Backup: Craig Mestel|
-| GitLab Singapore PTE. LTD. | Dale Brown|
+| GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen. Backup: Dale Brown|
 | LOAs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
 | PEOs | The Candidate Experience Specialist processing the offer. For LOAs, choose Morgan Wilkins or Marissa Ferber |
 
