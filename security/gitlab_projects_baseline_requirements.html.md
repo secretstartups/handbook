@@ -20,7 +20,7 @@ That said, it is encouraged for team members to keep these baseline configuratio
 
 ## Scope
 
-The scope of the projects which should have these baseline configurations applied are any project which influences the GitLab codebase directly or indirectly and/or which impact the build, release or deployment of GitLab. 
+The scope of the projects which should have these baseline configurations applied are any project which influences the GitLab codebase directly or indirectly and/or which impact the build, release or deployment of GitLab.
 
 Examples of a project that fits this criteria:
 - A project that builds a component of GitLab
@@ -35,7 +35,7 @@ Project usage may naturally shift over time and it's important to be re-evaluati
 
 ### I'm not sure where my project fits
 
-That's okay! And certainly not going to be uncommon. If you have questions, please raise them so we can address and try to fit into the appropriate category. We can iterate here on how we categorize projects so we ensure our commitment to Security and Quality, as well as Efficiency. 
+That's okay! And certainly not going to be uncommon. If you have questions, please raise them so we can address and try to fit into the appropriate category. We can iterate here on how we categorize projects so we ensure our commitment to Security and Quality, as well as Efficiency.
 
 ### My project doesn't fit seem to fit the criteria but I still need these configurations?
 
@@ -66,9 +66,9 @@ MRs should be reviewed following GitLab's [Code Review Guidelines](https://about
 See [Note on usage of Code Owners](/handbook/security/gitlab_projects_baseline_requirements.html.md#note-on-usage-of-code-owners)
 
 ## Note on usage of Code Owners
-Note that not all projects will have Code Owners enabled as it may not be necessary in all instances. 
+Note that not all projects will have Code Owners enabled as it may not be necessary in all instances.
 
-If a project does use Code Owners, the Proteced Branch settings should be configured to have "Code owner approval" toggled **ON** and an appropriately configured Code Owners file should be created. The GitLab Docs defines how Code Owners work and [how to set up Code Owners](https://docs.gitlab.com/ee/user/project/code_owners.html#set-up-code-owners). 
+If a project does use Code Owners, the Proteced Branch settings should be configured to have "Code owner approval" toggled **ON** and an appropriately configured Code Owners file should be created. The GitLab Docs defines how Code Owners work and [how to set up Code Owners](https://docs.gitlab.com/ee/user/project/codeowners/#set-up-code-owners).
 
 The [MR Approval Rules should also be configured to utilize Code Owners](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/rules.html#code-owners-as-eligible-approvers) and require at least one Code Owner to approve MRs with affected file types
 
