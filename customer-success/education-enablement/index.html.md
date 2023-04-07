@@ -84,7 +84,7 @@ To align our education and enablement with our product, each of the topics below
   - [Multiple approvers in code review Feature Docs](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/rules.html)
   - [Approval rules for code review Feature Docs](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/rules.html)
   - [Merge request dependencies Feature Docs](https://docs.gitlab.com/ee/user/project/merge_requests/dependencies.html)
-  - [Code Owners Feature Docs](https://docs.gitlab.com/ee/user/project/code_owners.html)
+  - [Code Owners Feature Docs](https://docs.gitlab.com/ee/user/project/codeowners/)
 - [Wiki Feature Docs](https://docs.gitlab.com/ee/user/project/wiki/)
 - [Web IDE Feature Docs](https://docs.gitlab.com/ee/user/project/web_ide/index.html)
 - [Live Preview Feature Docs](https://docs.gitlab.com/ee/user/project/web_ide/index.html#live-preview)
