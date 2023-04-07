@@ -23,7 +23,7 @@ Documenting in the handbook before taking an action may require more time initia
 
 This process is not unlike writing tests for your software. Only communicate a (proposed) change via a change to the handbook; don't use a presentation, email, chat message, or another medium to communicate the components of the change. These other forms of communication might be more convenient for the presenter, but they make it harder for the audience to understand the context and the implications for other potentially affected processes.
 
-Having a **"handbook first"** mentality ensures there is no duplication; the handbook is always up to date, and others are better able to contribute. 
+Having a **"handbook first"** mentality ensures there is no duplication; the handbook is always up to date, and others are better able to contribute.
 
 Beyond being "handbook first," we are also "public handbook first." When information is [internal-only](/handbook/communication/confidentiality-levels/#internal), it should be captured in the internal handbook, but we default to the public handbook for anything that can be [made public](/handbook/communication/confidentiality-levels/#not-public). This ensures that everyone has access to any information that can be [SAFEly](/handbook/legal/safe-framework/) shared. This supports the GitLab [values](/handbook/values/), including transparency, efficiency, and results. It also protects against the internal handbook becoming a home for information that should otherwise be public or a conflicting or duplicative source of truth.
 <!-- blank line -->
@@ -201,28 +201,28 @@ If you require project-based access, you can request temporary developer access 
 #### Where can it be found?
 
 - [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/main/content)
-- [Live Website](https://internal-handbook.gitlab.io) 
+- [Live Website](https://internal-handbook.gitlab.io)
 
 #### Why is there a internal handbook?
 
-As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. The Internal Handbook is a space where team members can share internal information. Anything that **is not** considered [internal only](/handbook/communication/confidentiality-levels/#internal), should be in GitLab's [public handbook](/handbook/). Anything that is [limited access](/handbook/communication/confidentiality-levels/#limited-access) **should not be added to the internal handbook** as the internal handbook is accessible by all team members. 
+As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. The Internal Handbook is a space where team members can share internal information. Anything that **is not** considered [internal only](/handbook/communication/confidentiality-levels/#internal), should be in GitLab's [public handbook](/handbook/). Anything that is [limited access](/handbook/communication/confidentiality-levels/#limited-access) **should not be added to the internal handbook** as the internal handbook is accessible by all team members.
 
 #### The process of using this handbook
 
-Only add items to the internal handbook that fall into the [not public](/handbook/communication/confidentiality-levels/#not-public) category. Everything else should be added to our [public company handbook](/handbook/). 
+Only add items to the internal handbook that fall into the [not public](/handbook/communication/confidentiality-levels/#not-public) category. Everything else should be added to our [public company handbook](/handbook/).
 
 #### Accessing the internal handbook group.
 
-All team members will have this added to their Okta access when they join the company. Login to your Okta dashboard and click on the  `GitLab Internal Handbook` tile. You will have to authenticate with Okta first. 
+All team members will have this added to their Okta access when they join the company. Login to your Okta dashboard and click on the  `GitLab Internal Handbook` tile. You will have to authenticate with Okta first.
 - [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source)
-- [Website](https://internal-handbook.gitlab.io) 
+- [Website](https://internal-handbook.gitlab.io)
 
 #### Updating the Internal Handbook
 
 1. You are on the [live internal handbook website](https://internal-handbook.gitlab.io/)
-1. Click "Open in Web IDE" on the top right of the page. It will take you to the [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source). 
-1. Make edits in the same way that you would with Web IDE on the public handbook site. 
-1. If there is already a section you want to add to, you can select that folder now, go into the appropriate folder, and edit. If the section you are needing has not been created yet, click on the "+" and create a "new file".  
+1. Click "Open in Web IDE" on the top right of the page. It will take you to the [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source).
+1. Make edits in the same way that you would with Web IDE on the public handbook site.
+1. If there is already a section you want to add to, you can select that folder now, go into the appropriate folder, and edit. If the section you are needing has not been created yet, click on the "+" and create a "new file".
 
 #### What if I have questions about the internal handbook or want to help with it?
 
@@ -344,7 +344,7 @@ Getting pinged to approve every small change to your page can be annoying, but s
 
 Whenever reasonable, practice [responsibility over rigidity](/handbook/values/#freedom-and-responsibility-over-rigidity). When you expect a page owner will appreciate your changes, go ahead and merge them without approval. Always ping the code owners with an @mention comment to inform them of the changes. They will be happy their page was made better and they didn’t need to waste time reviewing and approving the change. In the event that something isn’t an improvement, we practice [clean up over sign off](/handbook/values/#cleanup-over-sign-off).
 
-Whenever appropriate, get approval from the [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html) using the [approval feature](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/settings.html) before merging changes. Each page in the handbook shows the code owner listed under “Maintained by”. This information is pulled from the [codeowners file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS). The page’s code owner is the DRI for the page and has the final say for what appears in the handbook. When in doubt, get the DRI’s permission before changing their page. Don't worry if the DRI is a C-level person. You can still assign your MRs to them, even if you are an individual contributor. This is because we prefer to [communicate directly](/handbook/communication/#communicate-directly).
+Whenever appropriate, get approval from the [code owner](https://docs.gitlab.com/ee/user/project/codeowners/) using the [approval feature](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/settings.html) before merging changes. Each page in the handbook shows the code owner listed under “Maintained by”. This information is pulled from the [codeowners file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS). The page’s code owner is the DRI for the page and has the final say for what appears in the handbook. When in doubt, get the DRI’s permission before changing their page. Don't worry if the DRI is a C-level person. You can still assign your MRs to them, even if you are an individual contributor. This is because we prefer to [communicate directly](/handbook/communication/#communicate-directly).
 
 ### Have a peer review your changes
 
