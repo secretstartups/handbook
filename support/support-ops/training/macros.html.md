@@ -265,7 +265,7 @@ Any announcements needing to be made should be by the requester themselves.
 ## Merge request reviewers
 
 We utilize
-[Code Owners](https://docs.gitlab.com/ee/user/project/code_owners.html) in the
+[Code Owners](https://docs.gitlab.com/ee/user/project/codeowners/) in the
 macros repos for approvers who are not Support Ops team members. Should
 any changes need to be made to this, you would submit a merge request that
 makes the changes in the `.gitlab/CODEOWNERS` file.
