@@ -145,6 +145,14 @@ If at any time during the interview process a candidate is declined due to compe
 * The candidate should be provided clear expectations of the process, location of interviewers, timeline to hire, etc.
 * When Team Interviews have completed, follow up with the hiring manager on next steps. Depending on the level of the role and outcome of interviews, next steps may include additional interviews including an executive interview or moving to reference checks.
 
+**If you have a candidate who's interested in multiple openings please follow these guidelines:**
+
+1. Inform the candidate they will need to go through a full interview process for each role and outline the time commitment that may entail (for example, if a candidate is in process for 2 roles they may need to make time for 10+ interviews).  
+1. There is no limit on the amount of roles a candidate can apply to but due to recruiter capacity we will only process 3 applications at a time, and will ask the candidate to choose the 3 that are highest priority. 
+1. We want to avoid a situation where we have competing offers from multiple teams within Gitlab. In order to prevent this, there will be an added step after the final interview stage where the recruiter discusses with the candidate which role they’re most interested in. Only one offer will be sent to the candidate after the final interviews. 
+
+
+
 ### **Step 6: References**
 
 Once a Hiring Manager has determined they want to move forward with a candidate, the Recruiter will send the appropriate form to the candidate that is found in the Reference Check stage. If no forms are listed, please contact the Enablement team to get them added. The form will request their references' contact details as well as details that will help with an offer letter such as Legal name and background check. 
