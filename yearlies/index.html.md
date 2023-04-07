@@ -47,27 +47,31 @@ The Annual Plan process [finishes two quarters after](https://about.gitlab.com/c
 
 ## FY24 Yearlies
 
-FY24 Yearlies and additional detail can be found by [searching for the 5 FY24 Company Objectives Google Doc](https://docs.google.com/document/d/1epErkkHT__-UPyex0DDiAOw-y7NcyzGap0ttRfgRoak/edit?usp=sharing). Initiatives in bold and hyperlinked are part of GitLab's existing [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives). 
+FY24 Yearlies and additional detail can be found by searching for the "FY24 Yearlies" Google Doc. This document is limited access. Initiatives in italic and followed by "XFN" are part of GitLab's existing [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives). 
 
-1. Deliver predictable high value to customers. Reduce churn and contraction from ~X% ATR to ~Y% ATR / quarter
-   1. \>95% of customer ARR with [**usage reporting**](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
-   1. Recognize and incentivize organizations who are among our most active contributors. Our goal is for 10% of GitLab customers to be [**Leading Organizations**](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) by FY25-Q4
-1. Drive Ultimate
-    1. Cross functional program to drive [**DevSecOps Adoption**](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) with Ultimate Net ARR Bookings from $xM in FY23 to $yM in FY24 including shipping top product priorities in (Security, Plan, Value Stream Analytics)
-1. Make GitLab easier to do business with
-    1. Customers can get an order form, place the order and have active licenses within 4 hours 
-    1. % of sales assisted orders with license key errors is below 0.5%
-    1. Deliver against key [**Fulfillment Efficiency**](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) projects. Includes shipping temporary licenses capability 
-    1. Achieve [**FedRAMP**](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) moderate certification for a GitLab Dedicated federal SaaS offering
-    1. Onboard at least 5 customers to [**Dedicated**](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) per quarter
-    1. Expand GitLab's access to [**AWS/GCP**](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) LAM via cloud-first sales plays, new products & solutions, lower friction buying, reduced sales ops costs
-    1. Roll out [**consumption add-on**](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives). Specifically, launch Ghidorah and ModelOps add-on
-1. Continue to build a diverse team of top talent that we retain and grow 
-    1. Regrettable turnover from x% to below y%
-    1. Increase our URG population from 17% to 19% 
-    1. Increase our female population from 31% to 34%
-    1. Increase leadership Elevate graduates from 10% to 85% of our people managers
+1. Continue to win against GitHub
+    1. XFN *Continue to win against GitHub*. This includes product positioning, R&D priorities, marketing messaging and field readiness
 1. AI in all we do
-    1. Make GitLab (the application) smarter by shipping 16 AI/ML-assisted features and workflows across developer, security, and operations personas and launching AI messaging to support GitLab’s “AI in all we do” focus
+    1. XFN *Ship AI features*. Make GitLab (the application) smarter by shipping 16 AI/ML-assisted features and workflows across developer, security, and operations personas and launching AI messaging to support GitLab’s “AI in all we do” focus
+1. Deliver predictable high value to customers by reducing churn and contraction
+    1. Reduce churn and contraction to half of the ATR as compared to FY23-Q4
+    1. XFN Run cross functional program to drive DevSecOps Adoption including shipping top product priorities in (Security, Plan, Value Stream Analytics)
+    1. XFN >95% of customer ARR with *usage reporting*
+    1. XFN Recognize and incentivize organizations who are among our most active contributors. Our goal is for 10% of GitLab customers to be *Leading Organizations* by FY25-Q4
+    1. Professional services attach on X% of Top Y Ultimate accounts
+1. Make GitLab easier to do business with
+    1. XFN Roll-out *Matterhorn*
+    1. XFN Deliver against key *Fulfillment Efficiency projects*
+    1. XFN Submit *FedRAMP* SAR package for moderate certification for a GitLab Dedicated federal SaaS offering. Increase FedRAMP sales pipeline by X%
+    1. XFN Onboard at least 5 customers to *Dedicated* per quarter
+    1. XFN Expand GitLab's access to *AWS/GCP* LAM via cloud-first sales plays, new products & solutions, lower friction buying, reduced sales ops costs
+    1. Customers can get an order form, place the order and have active licenses within 4 hours
+    1. % of sales assisted orders with license key errors is below 0.5%
+    1. Ship temporary licenses capability
+1. Continue to build a diverse team of top talent that we retain and grow 
+    1. Reduce regrettable turnover by 0.6%
+    1. Increase our URG population from 17% to 19% and female population from 31% to 34%, increase leadership 
+    1. Elevate graduates from 10% to 85% of our people managers
+
 
 
