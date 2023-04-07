@@ -83,11 +83,6 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Description: Expand GitLab's access to AWS/GCP LAM via cloud-first sales plays, new products, and lower friction buying.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)
    1. Quarter Started/Starting: FY23-Q1
-1. Shift LAM to Primary Metric
-   1. DRI / Sponsor: @aileenlu / @mmcb
-   1. Description: Shift LAM to our primary metric for top of funnel and decision-maker.
-   1. Links: TBD
-   1. Quarter Started/Starting: FY23-Q3
 1. Fulfillment Efficiency
    1. DRI / Sponsor: @ofernandez2 / @david
    1. Description: Rollout new Quote Studio using new Zuora Orders API and Ramps functionality. Move CustomersDot to use Zuora Orders APIs. Align to Zuora Billing Account as a Customer Account. SSO / combine CDot and Gitlab user databases. Link ArrowSphere to CustomersDot.
@@ -98,16 +93,21 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Description: Customers adopting DevSecOps within 3 months of an Ultimate purchase.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59)
    1. Quarter Started/Starting: FY23-Q4
-1. Consumption Add-Ons
-   1. DRI / Sponsor: @justinfarris / @david
-   1. Description: Finalize research for introducing consumption-based and user-based add-ons. Update our Fulfillment and product capabilities to support these new types of add-ons. Update GTM motions and messaging to support these new add-ons.
-   1. Links: TBD
-   1. Quarter Started/Starting: FY23-Q4
 1. Leading Organization Growth
    1. DRI / Sponsor: @esalvadorp / @akramer
    1. Description: Recognize and incentivize organizations who are among our most active contributors. Our goal is for 10% of GitLab customers to be Leading Organizations by FY25-Q4. Follows User Engagement Initiative.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880)
    1. Quarter Started/Starting: FY23-Q4 (work currently being done under the User Engagement initiative. When that retires, this one will launch as a separate initiative)
+1. Continue to win against GitHub
+   1. DRI / Sponsor: TBD / @akramer
+   1. Description: This includes product positioning, R&D priorities, marketing messaging and field readiness.
+   1. Links: to be added
+   1. Quarter Started/Starting: FY24-Q1
+1. Ship AI features
+   1. DRI / Sponsor: TBD / @david
+   1. Description: Make GitLab (the application) smarter by shipping 16 AI/ML-assisted features and workflows across developer, security, and operations personas and launching AI messaging to support GitLab’s “AI in all we do” focus.
+   1. Links: to be added
+   1. Quarter Started/Starting: FY24-Q1
 
 ## Retired Top Cross-Functional Initiatives
 
@@ -138,3 +138,13 @@ This is a a list of top cross-functional initiatives that have been retired.
    1. Description: Create a developer brand through generating awareness among various communities that become advocates of GitLab and influence purchase decisions.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1794)
    1. Quarter Started/Starting: FY23-Q1
+1. Consumption Add-Ons
+   1. DRI / Sponsor: @justinfarris / @david
+   1. Description: Finalize research for introducing consumption-based and user-based add-ons. Update our Fulfillment and product capabilities to support these new types of add-ons. Update GTM motions and messaging to support these new add-ons. *Retired as it was folded into the the Fulfillment Efficiency initiative*
+   1. Links: TBD
+   1. Quarter Started/Starting: FY23-Q4 - FY24-Q1
+1. Shift LAM to Primary Metric
+   1. DRI / Sponsor: @aileenlu / @mmcb
+   1. Description: Shift LAM to our primary metric for top of funnel and decision-maker. *This is still important, but it will be managed as a GTM, not as a cross-functional initiative**
+   1. Links: TBD
+   1. Quarter Started/Starting: FY23-Q3 - FY24-Q1
