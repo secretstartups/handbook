@@ -179,7 +179,7 @@ No, not at this time.
 | July 17    |  Available | |
 | July 24    |  Available | |
 | July 31    |  Available | |
-| August 7   |  Available | |
+| August 7   |  [Julia Lopez](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadow -  Manager - Animation & Gaming Technical Support at Netflix |
 | August 14  |  Available | |
 | August 21  |  Available | |
 | August 28  |  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
