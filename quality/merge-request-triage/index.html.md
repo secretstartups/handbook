@@ -109,7 +109,7 @@ A merge request is considered completely triaged when it has:
 - a reviewer assigned by a member of the [GitLab Website Community Team](https://gitlab.com/gitlab-com-community).
 - been reviewed by a reviewer.
 
-Typically, the reviewer is the [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html) of the page the merge request is updated. If there is no code owner assigned, the triager will reach out to the relevant team the page belongs to identify a reviewer.
+Typically, the reviewer is the [code owner](https://docs.gitlab.com/ee/user/project/codeowners/) of the page the merge request is updated. If there is no code owner assigned, the triager will reach out to the relevant team the page belongs to identify a reviewer.
 
 ##### Complete triage for idle merge requests (`gitlab-com/www-gitlab-com`)
 
