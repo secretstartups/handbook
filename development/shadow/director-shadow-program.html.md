@@ -163,7 +163,6 @@ No, not at this time.
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| April 10   |  Available | |
 | April 17   |  [Jonathan Ducharme](https://www.linkedin.com/in/ducharme-jonathan/) | Non-Gitlab shadow - Engineering Manager at AlleyCorp Nord |
 | April 24   |  [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer from [Alarm.com](https://alarm.com/) |
 | May 1      |  Available | |
@@ -183,7 +182,7 @@ No, not at this time.
 | August 7   |  Available | |
 | August 14  |  Available | |
 | August 21  |  Available | |
-| August 28  |  Available | |
+| August 28  |  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
 | September 4|  Available | |
 | September 11 |  Available     |       |
 | September 18 |  Available     |       |
