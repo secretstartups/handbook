@@ -40,15 +40,15 @@ The current coverage includes:
    - £25 a year for eye test
 - Virtual GP appointments – [DR@Hand](https://drive.google.com/file/d/1YzkeG0qMLPLi6TEY6mQXqV8xooMQb4_Z/view?usp=sharing)
 
-Please note new joiners are subject to the following moratorium terms: 
-Pre-existing medical treatments for medical issues that have occured in the past 5 years will not be covered until:
-* you’ve been a member for two years in a row; and
-* you’ve had a period of 12 consecutive months since you joined that have been trouble-free from that condition.
  
+**Please note: the AXA plan underwriting is based on a MHD (Medical History Disregarded) basis, meaning that pre-existing medical conditions that existed prior to the date on which the individual joined the AXA scheme will be covered for treatment** (subject to the rules and benefits of the AXA policy, please review your AXA membership package sent by AXA for further reference). 
 
+*Current team members enrolled and new joiners to the AXA plan will have cover for treatment of pre-existing medical issues they may have had before joining, without being a member for two years or being required to have 12 consecutive months of "trouble-free" from when the condition began (pre-existing moratorium terms no longer apply).    
+ 
 For additional details regarding coverage please review the [AXA Coverage Summary](https://drive.google.com/file/d/1TMk8xTt6yfzm-wI1X_wMyYfJF3GAgb4k/view?usp=sharing)
 
-Please also note that this is a taxable benefit. The underwriting is on a Moratorium basis, meaning that team members will not have cover for treatment of medical problems they may have had in the five years before joining. Please refer to page 14 in the AXA PPP Brochure for more information.
+Please also note that this is a taxable benefit. Team members enrolled will still be responsible for the BIK ("Benefits in-Kind") taxes on their healthcare coverage.
+
 
 ### Obtaining a Medical Insurance Quote
 
