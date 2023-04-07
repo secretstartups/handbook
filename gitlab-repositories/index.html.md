@@ -28,7 +28,7 @@ When creating a new project, please follow these steps:
 1. Add a license to the repository. Contact #legal as to which license to add. A sample license is here: [`gitlab-org/gitlab` MIT License](https://gitlab.com/gitlab-org/gitlab/blob/master/LICENSE), but contact legal before using it.
 1. Add a section titled "Developer Certificate of Origin and License" to `CONTRIBUTING.md` in the repository. It is easiest to simply copy-paste the [`gitlab-org/gitaly` DCO + License section](https://gitlab.com/gitlab-org/gitaly/-/blob/master/CONTRIBUTING.md#developer-certificate-of-origin-license) verbatim.1. Add any further relevant details to the Contribution Guide. See [Contribution Example](https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md).
 1. Add a link to `CONTRIBUTING.md` from the project's `README.md`.
-1. Add a [CODEOWNERS](https://docs.gitlab.com/ee/user/project/code_owners.html) file, to make it easy for contributors to figure out which teams are best suited to review their changes.
+1. Add a [CODEOWNERS](https://docs.gitlab.com/ee/user/project/codeowners/) file, to make it easy for contributors to figure out which teams are best suited to review their changes.
     - Use teams rather than individuals as owners, to make it self updating over time and resilient to people taking time off
     - You can scope ownership to subdirectories or individual files, but it should contain at the very least a top-level catch all for any new or non explicitly mentionned file.
 1. When possible, projects should have the following [Merge request settings enabled](https://docs.gitlab.com/ee/user/project/settings/#delete-the-source-branch-on-merge-by-default):
@@ -38,7 +38,7 @@ When creating a new project, please follow these steps:
     - [Merge only when all threads are resolved](https://docs.gitlab.com/ee/user/discussions/index.html#only-allow-merge-requests-to-be-merged-if-all-threads-are-resolved).
 1. When possible, projects should have the following [Pipeline settings enabled](https://docs.gitlab.com/ee/ci/pipelines/settings.html):
     - [Auto-cancel pending pipelines](https://docs.gitlab.com/ee/ci/pipelines/settings.html#auto-cancel-pending-pipelines).
-1. Projects should have the minimum [Baseline Configurations setup for MR Approval Rules and Protected Branch Settings](/handbook/security/gitlab_projects_baseline_requirements.html)    
+1. Projects should have the minimum [Baseline Configurations setup for MR Approval Rules and Protected Branch Settings](/handbook/security/gitlab_projects_baseline_requirements.html)
 1. Projects should have [`Users can request access` setting disabled](https://docs.gitlab.com/ee/user/project/members/index.html#prevent-users-from-requesting-access-to-a-project) to discourage granting accidental external access.
 1. If needed, make sure to [set up a default CI/CD configuration](#cicd-configuration).
 1. If your project contains code that is distributed with GitLab or is executed in production, set up [security jobs](https://gitlab.com/help/user/application_security/security_dashboard/index#gitlab-security-dashboard) for your project and add your project to the AppSec team's [triage rotation](/handbook/security/index.html#triage-rotation). The AppSec will triage security findings from the Security Dashboard and create issues for vulnerabilities.
