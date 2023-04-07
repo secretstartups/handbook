@@ -14,7 +14,7 @@ We have kept the following info specific to the Product and Solution Marketing t
 
 ##### Things Product and Solution Marketing doesn't own within GitLab, but contributes to
 
-Product and Solution Marketing often makes significant contributions to assets that are owned by other GitLab teams. Examples include a product release post with a PMM messaging lead, or a Sales enablement resource that heavily relies on competitive research. This raises the question of whether certain assets "belong to" SM enough to be in our inventory. Our bias will be to include these assets. 
+Product and Solution Marketing often makes significant contributions to assets that are owned by other GitLab teams. Examples include a product release post with a PMM messaging lead, or a Sales enablement resource that heavily relies on competitive research. This raises the question of whether certain assets "belong to" SM enough to be in our inventory. Our bias will be to include these assets.
 
 If we can identify an "SM DRI" and we made significant contributions, we will inventory the asset. We will also take care to not misrepresent that we wholly created or own the asset.
 
@@ -24,7 +24,7 @@ Product and Solution Marketing also contributes to assets that are owned or mana
 
 ##### Things we just review and approve
 
-We are interested in reviewing, vetting, and then including assets in the SM inventory even when our contributions are minimal or null, other than having reviewed and approved. Our motivations are first, to serve those searching for "everything related to X" and second, for this inventory to serve as a repository of high quality assets. As subject matter experts, SM team members are already, sometimes asked to review and approve of content or other assets. We want to multiply that value by inventorying what we've reviewed. 
+We are interested in reviewing, vetting, and then including assets in the SM inventory even when our contributions are minimal or null, other than having reviewed and approved. Our motivations are first, to serve those searching for "everything related to X" and second, for this inventory to serve as a repository of high quality assets. As subject matter experts, SM team members are already, sometimes asked to review and approve of content or other assets. We want to multiply that value by inventorying what we've reviewed.
 
 We celebrate that GitLab enables any team member, and in many cases even community members, to contribute on the company web site, Unfiltered blog, handbook, Unfiltered YouTube channel, and so on. Those are great examples of GitLab values and culture in action, and it's indisputably generative. We also acknowledge, however that this can result in impedingly uneven asset quality, such as in tone, focus, or technical depth. As a result, it can be difficult for non-SMEs to know whether an asset they find is fit for reuse in contexts with higher quality requirements.
 
@@ -86,7 +86,7 @@ The inventory files provide a standardized way to capture, find, and reference c
 
 #### Layout
 
-The `inventory` folder lives under `/data` of the website and is organized in the following manner to enable scaling to multiple groups. The thought is that each group can be [CODEOWNERS](https://docs.gitlab.com/ee/user/project/code_owners.html) for their own team inventory, but it should still be easy to search through the inventory of "everything" to find what you are looking for.
+The `inventory` folder lives under `/data` of the website and is organized in the following manner to enable scaling to multiple groups. The thought is that each group can be [CODEOWNERS](https://docs.gitlab.com/ee/user/project/codeowners/) for their own team inventory, but it should still be easy to search through the inventory of "everything" to find what you are looking for.
 
 <pre>
 /data/inventory

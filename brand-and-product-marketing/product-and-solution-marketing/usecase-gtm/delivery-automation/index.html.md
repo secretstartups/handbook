@@ -219,7 +219,7 @@ For up-to-date and full list of value at Premium, visit [Why Premium](https://ab
 
 - **Faster code reviews** Ensure high code quality across teams through seamless code review workflows
   - [Multiple approvers](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/rules.html) in code review	To ensure strict code review, you can require a minimum number of users to approve of a merge request before it is able to be merged.
-  - [Code Owners](https://docs.gitlab.com/ee/user/project/code_owners.html)	Assign Code Owners to files to indicate the team members responsible for code in your project. Code owners are assigned automatically as merge request approvers.
+  - [Code Owners](https://docs.gitlab.com/ee/user/project/codeowners/)	Assign Code Owners to files to indicate the team members responsible for code in your project. Code owners are assigned automatically as merge request approvers.
   - [Code Review Analytics](https://docs.gitlab.com/ee/user/analytics/code_review_analytics.html)	Find bottlenecks in your code review process by understanding how long open merge requests have been in review.
 - **Advanced CI/CD** Build, maintain, deploy, and monitor complex pipelines
   - [CI/CD Pipelines Dashboard](https://docs.gitlab.com/ee/user/operations_dashboard/)	Visualize the history and current status of pipelines across projects and groups all in a single dashboard that can be customized for each user.
