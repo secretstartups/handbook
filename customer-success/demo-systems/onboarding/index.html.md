@@ -21,7 +21,7 @@ You can collaborate with your onboarding buddy and your colleagues to remove thi
 
 ### Demo Systems & Shared Demos Office Hours
 
-Feel free to join our weekly office hours every Friday at 9am CST to ask any related questions if you get stuck, linked at the top of this doc: [Demo Systems Onboarding Links](https://docs.google.com/document/d/1dy5Zb38pryB-fNMCw4HDUZ6wBEqlc1rPkKyN5z_OH3o/edit?usp=sharing)
+Feel free to join our weekly office hours to ask any questions if you get stuck, linked at the top of this doc: [Demo Systems Onboarding Links](https://docs.google.com/document/d/1dy5Zb38pryB-fNMCw4HDUZ6wBEqlc1rPkKyN5z_OH3o/edit?usp=sharing)
 
 ## Envionments
 
