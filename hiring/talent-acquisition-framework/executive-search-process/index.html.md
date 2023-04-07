@@ -30,6 +30,7 @@ For executive level searches, we have a Talent DRI and Hiring DRI.
 * Hiring DRI: hiring manager
 
 **Talent DRI Responsibilities**
+
 * Organizes intake meeting
 * Defines the core search group, including external partners, if necessary
 * Leads all calls, partners with EBA to the Hiring DRI to ensure correct group and attendance
@@ -39,6 +40,7 @@ For executive level searches, we have a Talent DRI and Hiring DRI.
 
 
 **Hiring DRI Responsibilities**
+
 * Attends intake meeting and approves of direction taken at intake meeting
 * Approves list of core group
 * Attends all search team calls
@@ -49,6 +51,7 @@ For executive level searches, we have a Talent DRI and Hiring DRI.
 ## Role Idenficication and Assignment
 
 **Identification of Opportunity**
+
 The Director, Executive Search will be made aware of a job opening in one of two ways:
 * Net New Planned Headcount: The role will be defined in the headcount plan received from finance, which includes a target start date.
 * Backfill Headcount: The PBP team will make TA leadership aware of the backfill. The DIrector, Executive Search will then be responsible for confirming headcount approval and target start date with finance.
@@ -56,6 +59,7 @@ The Director, Executive Search will be made aware of a job opening in one of two
 No role should be assigned to a Talent DRI before headcount approval has been confirmed with finance.
 
 **Role Assignment**
+
 After the role is identified and headcount approval is confirmed, The Director, Executive Search will assign a Talent DRI. The Talent DRI assigned to lead the search will be chosen based on capacity, level of role and functional alignment. 
 
 If capacity on the executive search team is lacking, a senior recruiter with functional expertise may be selected as the Talent DRI in close partnership with the Director, Executive Search. Senior TA leadership may also be assigned as the Talent DRI in specific circumstances.
@@ -67,6 +71,7 @@ At this stage, The Talent DRI is also responsible for [creating the req](https:/
 ## Role Qualification and Intake
 
 **Role Qualification and Preparation**
+
 As part of the role qualification process, the Talent DRI and Hiring DRI will:
 * Confirm the job family is up to date and accurate
 * Select the core search group
@@ -78,6 +83,7 @@ In most cases, the role qualification and preparation can be done async. However
 The Talent DRI will then take the lead on next steps in the recruitment process. In the event that a vendor is required (see decision parameters below), the Talent DRI will lead the process. Read more about this in External Vendor Selection.
 
 **Intake Meeting**
+
 The intake meeting will be subsequently scheduled between the Talent DRI, external search partner (if applicable) Hiring DRI and core search group. EBAs to the Hiring DRI and executive shadows may also be in attendance at the Hiring DRI’s discretion. 
 
 Ahead of the intake meeting, the Talent DRI will conduct baseline research, to include:
@@ -90,6 +96,7 @@ The Talent DRI is responsible for generating an intake meeting agenda and drivin
 ## External Vendors
 
 **External Vendor Selection**
+
 It may be necessary for GitLab to engage a recruiting/sourcing partner (vendor) for certain executive level searches. It is the responsibility of the Director, Executive Search to maintain a list of approved vendors and work with the Talent DRI and Hiring DRI to select an appropriate partner for the search.
 
 **Criteria for External Vendor Selection**
@@ -104,15 +111,18 @@ Engagement of an external executive recruitment vendor can be considered if any 
 4. There is a need for additional confidentiality that will be best handled by an outside party.
 
 **Budget for External Vendors**
+
 If the business chooses to use an external recruitment vendor for an executive search, the expense will come out of their budget.
 
 **Process for External Vendor Engagement**
+
 Once a role has been identified as eligible for an external search vendor and budget has been secured, the process is:
 1. The executive search team will obtain vendor references where necessary or applicable. The Hiring DRI should not engage any vendor directly prior to this step.
 2. The Director, Executive Search submits the budget request to the VP, Talent and Engagement and VP, Finance for approval.
 3. The Talent DRI engages the vendor and involves procurement in the contract discussion. No work should be completed by the vendor before we have a signed agreement. 
 
 **Decision Framework for New External Vendors**
+
 If a hiring manager wishes to use an external executive search vendor that is not currently on our approved vendor list, the process is:
 1. If after discussion between the Director, Executive Search, Talent DRI and Hiring DRI, it is determined that there is no suitable approved vendor available for the search, a new vendor may be considered.
 2. The Director, Executive Search will set up an informational call with the potential vendor, Talent DRI and Hiring DRI to discuss the search and assess the vendor’s ability to partner and deliver.
@@ -121,6 +131,7 @@ If a hiring manager wishes to use an external executive search vendor that is no
 ## Communication Cadences
 
 **Slack Channels**
+
 At the onset of a search, The Talent DRI will set up two Slack channels:
 * Core search channel: (#search-job-title). This channel will be the SSoT and communications vehicle for the search and will include the core search group.
 * Panel search channel: (#panel-job-title). This channel will be for communication with the interview panel and broader stakeholder group that may include:
@@ -131,6 +142,7 @@ At the onset of a search, The Talent DRI will set up two Slack channels:
     * People Business Partner
 
 **Progress Calls**
+
 * The Talent DRI will recommend communication cadences to the Hiring DRI. After the intake call, it is common to allow the recruiting process 2-3 weeks head-start prior to the first progress call.
 * Progress calls are normally weekly (unless otherwise planned) and have the core group in attendance.
     * During the progress calls, the core group will cover:
@@ -149,6 +161,7 @@ The Talent DRI (in partnership with CES and the EBA to the hiring manager) will 
 The Talent DRI (in partnership with the vendor) is responsible for maintaining the progress call agendas and surfacing any urgent requirements via email and Slack to the relevant parties when necessary.
 
 **Feedback Calls**
+
 During the final stages of an interview process, it may be necessary for the core search team to meet and discuss feedback in order to make a decision. These calls will be coordinated by the Talent DRI and EBA to the Hiring DRI. The Talent DRI will gather all feedback ahead of the feedback calls and organize an agenda to facilitate the discussion.
 
 ## Confidential Searches
@@ -181,12 +194,14 @@ To ensure a consistent and in-depth process, we employ competency-based intervie
 **Interview Stage Details**
 
 **Screening**
+
 A screening call with the candidate will be conducted via Zoom by the Talent DRI or external search partner. 
 * Within 24 hours of the interview, the Talent DRI provides:
     * Candidate rating (Strong Yes, Yes or No), as well as shorthand feedback in the designated feedback repo.
 * The Talent DRI or external search partner will tag the Hiring DRI in the search Slack channel with a link to feedback and a recommendation on next steps. The Hiring DRI will confirm next steps before the Talent DRI moves the process forward.
 
 **Hiring DRI Interview**
+
 * Interview between Hiring DRI and the candidate. The purpose of this interview is to: 
     * Discuss the role requirements and responsibilities
     * Discuss the candidate’s background 
@@ -199,12 +214,14 @@ A screening call with the candidate will be conducted via Zoom by the Talent DRI
     * Reject candidate
 
 **Values and Leadership Interview**
+
 * The People Business Partner or CPO will conduct a values and leadership Interview.
 * This interview will be scheduled in parallel to the panel interview series
 * Within 24 hours of the interview, the values and leadership interviewer provides:
     * Candidate rating (Strong Yes, Yes or No), as well as shorthand feedback in designated feedback repo.
 
 **Panel Interview Series**
+
 * The panel interview series will be scheduled in parallel to the values and leadership interview
 * The Talent DRI and Hiring DRI collaborate to assign focus areas upfront, which are to be shared in the (#panel-job-title) Slack channel using this template.
 * Within 24 hours of the interview, the panel interviewer provides:
@@ -212,6 +229,7 @@ A screening call with the candidate will be conducted via Zoom by the Talent DRI
 * Within 24 hours of the values and leadership and panel interview series concluding, the Talent DRI will tag the Hiring DRI in the search Slack channel with a summary of feedback and a recommendation on next steps. The Hiring DRI will confirm next steps before the Talent DRI moves the process forward.
 
 **Board Interviews**
+
 For E-Group and other senior level searches, meeting board members may be necessary.
 * Post completion of the above, board interviews will then be scheduled.
 * The Talent DRI will work with the Hiring DRI, EBA and CES team to schedule board interviews.
@@ -222,25 +240,31 @@ For E-Group and other senior level searches, meeting board members may be necess
 * Within 24 hours of the board interviews concluding, the Talent DRI will tag the Hiring DRI in the search Slack channel with a summary of feedback and a recommendation on next steps. The Hiring DRI will confirm next steps before the Talent DRI moves the process forward.
 
 **Additional Meetings**
+
 The interview process should be defined at the onset of the search. However, there may be a need for exceptions to this process. There may be an occasional need for an additional meeting to further assess a specific competency, or to address additional questions from the candidate.
 
 The Talent DRI and Hiring DRI will discuss any additional meetings required, and work with the CES and EBA teams to schedule.
 
 **Candidate Rejection**
+
 After each stage in the interview process, the Talent DRI and Hiring DRI will review feedback and decide on next steps. A candidate can be notified of the decision to not move forward with further steps during any point in the hiring process. The Talent DRI is responsible for communicating the decision to the candidate.
 
 **References**
+
 References will be conducted in accordance with GitLab’s standard policies documented [here](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-7hm-complete-references)
 
 **Background Check**
+
 Background check will be conducted in accordance with GitLab’s standard policies documented [here](https://about.gitlab.com/handbook/people-policies/#background-screenings) 
 
 **Offer Preparation**
+
 Once a hiring decision has been made, the Talent DRI will work together with Hiring DRI, Total Rewards, external compensation partner and People Business Partners to construct the offer. 
 
 If necessary, the Talent DRI will create a Slack channel (#offer-job-title) to discuss the offer with this group.
 
 **Offer Approvals**
+
 In addition to the normal [offer approval process](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/offer-process/#offer-approvals), Senior Director and above offers require CEO approval.
 
 Once the offer is approved by all necessary parties leading up to the CEO, tag Sid in the #ceo-offers Slack channel, with the following message:
@@ -248,4 +272,5 @@ Once the offer is approved by all necessary parties leading up to the CEO, tag S
 We’d like to extend an offer to (candidate name, with link to the offer in Greenhouse ) for (job title). Please review for approval. cc: (EBA to CEO)
 
 **Offer Delivery**
+
 The offer delivery mechanism will vary by situation, and may be completed by the Talent DRI, Sr. People Leadership, external vendor or Hiring DRI.
