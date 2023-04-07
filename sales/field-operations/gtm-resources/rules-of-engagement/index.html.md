@@ -252,7 +252,7 @@ The following criteria make a deal eligible for a holdover:
 - **Documented Account Strategy**  The team who is giving up/losing the account and/or opportunity must work with the new owner on a transition plan to ensure there’s no disruption to current sales cycles or customer/prospect experience.
      - The Account handover checklist: Enterprise Sales can be found [here](https://docs.google.com/document/d/1bhGuzTZxnq70ob-3fxHVhu7LYObcrrFMev0697fDDks/edit)
 - **For cross segment holdovers**, the governing rules are dictated by the team that is receiving the account and/or opportunity.   For example, an existing Mid Market opportunity that would be going to an Enterprise AE/ASM would have a 90 day holdover period to close before it would be moved to the receiving Enterprise owner.
-- **Holdovers apply to both the giving AE/ASM and receiving AE/ASM in all Segments** to promote teamwork and alignment. During the 90 day holdover period, the bookings & commissions credit will be allocated as follows:
+- **Holdovers apply to both the giving AE/ASM and receiving AE/ASM in all Segments** to promote teamwork and alignment. During the 90 day holdover period, the bookings, New Logo (when applicable) & commissions credit will be allocated as follows:
     1. Month 1: 100% to the "Giving AE/ASM" and 0% to the "Receiving AE/ASM", 
     1. Month 2: 75% to the "Giving AE/ASM" and 25% to the "Receiving AE/ASM",
     1. Month 3: 50% to the "Giving AE/ASM" and 50% to the "Receiving AE/ASM"
