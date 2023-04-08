@@ -163,23 +163,23 @@ No, not at this time.
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| April 17   |  [Jonathan Ducharme](https://www.linkedin.com/in/ducharme-jonathan/) | Non-Gitlab shadow - Engineering Manager at AlleyCorp Nord |
-| April 24   |  [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer from [Alarm.com](https://alarm.com/) |
+| April 17   |  [Jonathan Ducharme](https://www.linkedin.com/in/ducharme-jonathan/) | Non-Gitlab shadow - Engineering Manager at [AlleyCorp Nord](https://alleycorp.com/) |
+| April 24   |  [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer at [Alarm.com](https://alarm.com/) |
 | May 1      |  Available | |
-| May 8      |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager - Netflix |
-| May 15     |  [Jeremy Neff](https://www.linkedin.com/in/jeremy-r-neff/) | Non-GitLab shadow |
+| May 8      |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com) |
+| May 15     |  [Jeremy Neff](https://www.linkedin.com/in/jeremy-r-neff/) | Non-GitLab shadow - Manager at [Joint Communications Unit](https://www.jcu.mil/) |
 | May 22     |  Available | |
 | May 29     |  Available | |
 | June 5     |  Available | |
 | June 12    |  Available | |
 | June 19    |  Available | |
-| June 26    |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager - Netflix |
+| June 26    |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com)  |
 | July 3     |  Available | |
 | July 10    |  Available | |
 | July 17    |  Available | |
 | July 24    |  Available | |
 | July 31    |  Available | |
-| August 7   |  [Julia Lopez](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadow -  Manager - Animation & Gaming Technical Support at Netflix |
+| August 7   |  [Julia Lopez](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadow -  Manager for Animation & Gaming Technical Support at [Netflix](https://www.netflix.com)  |
 | August 14  |  Available | |
 | August 21  |  Available | |
 | August 28  |  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
