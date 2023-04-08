@@ -194,6 +194,17 @@ Take the following steps to triangulate your benchmark study findings with the S
 1. After you've developed your categories, apply them to the entire sample of verbatim that you're including in your analysis. Doing this will help you to make sure that you've considered all the possible categories for each verbatim. 
 1. Report the overall percentage of verbatims that align with benchmark tasks and themes, as well as each individual theme, task, workflow, those from the NA category and any additional categories that you observed (e.g,. Learnability and Documentation) in the appendix to your benchmark report entitled 'SUS Companion Analysis'. 
 
+#### Actionable Insights and Labels
+
+UX Researchers and their teams will identify [Actionable Insights](https://about.gitlab.com/handbook/product/ux/ux-research/research-insights/#:~:text=Actionable%20insights%20are%20tracked%20at,long%20to%20be%20acted%20upon.), which are issues that articulate the next steps that we will take to address our findings. 
+
+Actionable Insights should get the following labels: 
+ - `Usability benchmark`
+ - `Section::Stage` scoped labels to identify the section and stage(s) covered in the study
+ - `Actionable Insight::Product change` or `Actionable Insight::Exploration needed`
+ - NOTE: `Actionable Insight::Product change` require a Severity Label to be applied to each issue.
+ - It's also helpful for stakeholders and for you to rate the severity level of each Actionable Insights so that teams know how to prioritize them. You can use the task level Severity ratings described above to attribute severity levels for each Actionable Insight.
+ 
 #### Timeline
 Preparing and conducting a benchmarking study takes time. Below is a sample timeline for starting a typical benchmarking program and running the first study. 
 
