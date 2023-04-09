@@ -60,6 +60,7 @@ We describe the following personas in terms of the jobs they do, their motivatio
   1. [Presley, Product Designer](/handbook/product/personas/#presley-product-designer)
   1. [Sasha, Software Developer](/handbook/product/personas/#sasha-software-developer)
   1. [Priyanka, Platform Engineer](/handbook/product/personas/#priyanka-platform-engineer)
+  2. [Janell, Enablement Advocate](/handbook/product/personas/#janell-enablement-advocate)
   1. [Sidney, Systems Administrator](/handbook/product/personas/#sidney-systems-administrator)
   1. [Sam, Security Analyst](/handbook/product/personas/#sam-security-analyst)
   1. [Rachel, Release Manager](/handbook/product/personas/#rachel-release-manager)
@@ -204,6 +205,37 @@ Depending on the organization and/or need of the development teams, I am part of
 - I'm frustrated by the avoidable crises, caused by a lack of communication, that derail my work and burn up my resources.
 - I dislike frequent context-switching and being responsible for some tasks that I feel I am not good at, because of the many hats my job requires me to wear.
 - I'm frustrated by the politics of convincing people to adopt my recommendations.
+
+#### Janell (Enablement Advocate)
+
+- **Alternative Job Titles:** DevOps Evangelist, Developer Productivity Engineer, Developer Advocate
+
+##### Job Summary
+
+My job is to enable developers to ramp up the learning curve of modern DevOps practices - including when that adoption is not compulsory. This can include new work management, new tooling and navigating the modernization of their applications into the cloud. To achieve my goal, I write and maintain automation code that can be directly consumed by developers as dependencies as well as scaffolding templates to be sure new projects are off to a good start. In addition to CI/CD automation, this frequently this involves support for cloud deployment, kubernetes manifests and any other associated parts for a wholistic approach to moving teams onto modern application practices. This technical work frequently involves exposing company specific things to developers as an easy to use 'service' - for instance, registering their application with our company-wide Configuration Management Database (CMDB).
+
+My job also includes being an active champion and evangelizng development teams to leverage the new assets and ways of working - this involves treating my work as though it were a product or service - managing it to be stable, fixing bugs, taking feature requests and creating and promoting release information. This also includes workshops, managing communities of practice and creating peer Q&A platforms.
+
+My manager has developer productivity and enablement as a strong focus and is very interested in how our efforts accelerate onboarding to our next generation application frameworks and also how we contribute to the long term productivity gains and business value generation of the teams that adopt our enablement.
+
+My job also includes influencing not just technology, but also processes and culture when they might inhibit adoption of modern application and devops practices and technology.
+
+Developer enablement plays such a critical role in the efficient onboarding of developers that I generally have strong input on tooling selection as I screen it for the ability to allow us to extend it.
+
+Depending on the organization and/or need of the development teams, I am part of a central enablement team or a member of an application development team if the team's work has a large enough scope.
+
+##### Motivations
+
+- When I build for developers, I need to accommodate a broad set of ways of working - our organization is too diverse to try to put everyone onto a single set of enablement assets.
+- When I build dependencies for developers, I need them to be able to version lock on them so that I can safely enhance and fix the code while not creating problems for their production deployments.
+- When I release new versions or entirely new functionality, I need it to be discoverable by developers - although we maintain email campaigns, we can't rely on everyone consuming the information this way and it does not help new hires.
+
+##### Frustrations
+
+- It can be a challenge to maintain awareness of all DevOps tooling product features that I can opinionate for our team - this includes all templating functionality, all pipeline security controls and all deployment functionality.
+- I'm frustrated by members of my team and development teams that do not maintain appropropriate versions and version management discipline as I am then accused of being the source of production problems.
+- I'm sometimes frustrated by the burden of maintaining custom training or other enablement content to articulate how our DevOps processes work within our tooling.
+- It can be very challenging to provide standardized, end-to-end enablement for specific new patterns since each team feels that all of the organic elements evolved into their currently approach are absolutely necessary - it's hard to get them to simplify by reconsidering not just their DevOps code - but their team processes as well.
 
 #### Sidney (Systems Administrator)
 
