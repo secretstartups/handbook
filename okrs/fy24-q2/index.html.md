@@ -5,7 +5,7 @@ description: "View GitLabs Objective-Key Results for FY24 Q2. Learn more here!"
 canonical_path: "/company/okrs/fy24-q2/"
 ---
 
-This [fiscal quarter](/handbook/finance/#fiscal-year) will run from May 1, 2023 to July 21, 2023.
+This [fiscal quarter](/handbook/finance/#fiscal-year) will run from 2023-05-01 to 2023-07-31.
 
 The source of truth for FY24-Q2 OKRs will be in GitLab.
 
