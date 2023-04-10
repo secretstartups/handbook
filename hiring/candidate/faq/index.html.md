@@ -151,7 +151,28 @@ Yes. You can email your Recruiter or ces@gitlab.com to request your interviewer'
 <summary>Can I interview for multiple roles at the same time?
 </summary>
 
-You can apply to multiple roles and during the screening call you and the recruiter (when possible) will determine what role would be best for you. This means that it can happen that you'll be introduced to another recruiter after the screening call, depending on the outcome. When you already have interviewed with us, you can apply for a different role again, but please take note that there can be a cooldown period of 6 months or more if it's a similar role, depending on the reason for not moving forward which is communicated by the recruiter.
+In the event that you are interested in more than one opening, there is no limit on the number of roles you can apply for but keep in mind the following: 
+
+1. You will have to complete a full interview process for each role you apply to, so be mindful of the time commitment for each application you submit.
+1. Due to capacity, the recruiting team will only process 3 of your applications at a time based on which ones you decide to prioritize. Any other applications outside of the 3 will be processed after the prioritized roles's interviews are completed.  
+1. In the effort to be as transparent as possible and avoid sending multiple competing Gitlab offers, there will be an added step to the process after your final interview where you will discuss with your recruiter which role you’re interested in before any official offer documents can be sent. 
+1. If you already have interviewed with us, you can apply for a different role again, but please take note that there may be a cooldown period of 6 months or more if it's a similar role, depending on the reason for not moving forward which is communicated by the recruiter.
+
+Example of dual Interview process outline
+
+1. Application Process
+1. Screening Call
+1. Assessment (required for certain roles)
+1. Technical Interview (required for certain roles)
+1. Team Interviews
+1. Discussion with your recruiter on which role you’re interested in
+1. References
+1. Offer sent for role discussed in step 6 & Background Check
+
+**For internal candidates only (in addition to the above guidelines)**
+
+1. If you are interviewing for two roles within the same job family and job grade, the offers will be the same.
+1. If you are interviewing for two roles in different job families the offers may be different. 
 
 </details>
 
