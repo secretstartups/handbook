@@ -839,7 +839,7 @@ The [Performance Refinement issue board](https://gitlab.com/groups/gitlab-org/-/
 
 ## Infradev
 
-The infradev process is established to identify issues requiring priority attention in support of SaaS availability and reliability. These escalations are intended to primarily be asyncronous as timely triage and attention is required. 
+The infradev process is established to identify issues requiring priority attention in support of SaaS availability and reliability. These escalations are intended to primarily be asyncronous as timely triage and attention is required. In addition to primary management through the Issues, any gaps, concerns, or critical triage is handled in the  [SaaS Availability weekly standup](/handbook/engineering/#saas-availability-weekly-standup).
 
 ### Scope
 
