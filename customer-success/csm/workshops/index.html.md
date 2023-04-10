@@ -14,11 +14,28 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ## Overview
 
-One of the tools CSMs have to speed customer onboarding, increase user adoption, and drive stage adoption is to offer their customers Workshops and/or Lunch-and-Learns (generically referred to as sessions). 
+The CSM team's primary focus is to align with a customer's desired business outcomes, enable the customer in their current use cases, and expand their platform adoption. 
 
-## Frequency
+Customers who adopt additional DevOps use cases with GitLab see an increased return on investment (ROI). They receive this ROI by increasing operational efficiencies, delivering better products faster, and reducing security and compliance risks.
 
-The CSM should offer sessions during onboarding so the customer is aware that they are available and the list of typical sessions that can be done.  Additionally, the CSM should offer a specific session when working with a customer on a stage enablement. The customer collaboration project now has a default issue that has the list of current offerings with a brief description.
+One of the tools CSMs have to speed customer onboarding, increase user adoption, and drive stage adoption is to offer their customers **Workshops or Lunch-and-Learns** (generically referred to as enablement sessions). 
+
+
+## CSM-led Enablement and Expansion
+
+**Use-case Enablement**: Enabling the use cases into which a customer expresses readiness to adopt as a part of their desired business outcome. CSMs enable customers by creating quick time to value, overcoming technical roadblocks, and ensuring stickiness. The CSM provides the customer with guidance on adopting use cases to maximize value attribution and to align adoption to the customer's desired positive business outcomes. CSM-led enablement can occur via workshops as listed below and is a part of the CSM-led customer success plan. 
+
+
+**Use-case Expansion**: Driving expansion into new use cases as a part of an account planning motion, in line with the SAE or AE, to ensure the customer receives increasing ROI and creates happy customers that grow. This motion starts with a discovery process to open the door to a more in-depth discovery, with demos and workshops focused on value-positioning that lead to the customer saying 'yes' and agreeing to adopt that use case. [The CSM can track this expansion within an existing success plan objective](/handbook/customer-success/csm/success-plans/#components-of-a-success-plan) or create a different objective to track this expansion initiative. 
+
+
+**Where do I track the use-case enablement and expansion?**
+The steps to expand or enable on a use case are a part of the success plan, and are a part of a larger motion to drive towards a customer's desired business outcome [(leading to product adoption milestones being realized) ](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#components-of-a-success-plan)
+
+## Frequency of Enablement Sessions
+
+As often as needed.  For PR1 Customers, we look to see an enablement session at a minimum  every 6 months. For PR2, every 12 months. 
+The CSM first offers enablement sessions during onboarding so the customer is aware that they are available and the list of typical sessions that can be done.  Additionally, the CSM should offer a specific session when working with a customer on a use case enablement. The customer collaboration project now has a default issue that has the list of current offerings with a brief description.
 
 Sessions should be [captured in Gainsight](/handbook/customer-success/csm/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/csm/health-score-triage/#gainsight-scorecard-attributes-and-calculations).  Record the date and type of session it was as well as an approximate number of attendees.
 
