@@ -93,6 +93,11 @@ Kibana can be used to determine who triggered the deletion of a group, subgroup,
 1. Add a positive filter on `json.method` for `DELETE`.
 1. Observe the results. If there were any they will contain the username of the user that triggered the deletion in the `json.username` field of the result.
 
+To see a list of projects deleted as part of a (sub)group deletion, in sidekiq:
+
+1. Filter `json.message` to "was deleted".
+1. Set a second filter `json.message` to `path/group`.
+
 #### Find Problems with Let's Encrypt Certificates
 
 In some cases a Let's Encrypt Certificate will fail to be issued for one or more reasons. To determine the exact reason, we can look this up in Kibana.
