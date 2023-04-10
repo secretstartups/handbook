@@ -93,7 +93,7 @@ Scoring is performed by individuals operating in at least Senior Leadership capa
 
 ### Translating GitLab's Security Risk Appetite to Risk Tolerance
 
-Our risk appetite is translated to a tolerance which defines a range in which a [risk Score value](#risk-factors-and-risk-scoring) is acceptable and does not require a treatment response. Risk scores can range from 0 (lowest) to 30 (highest). The range is defined per Risk Appetite in the table below:
+Our risk appetite is translated to a tolerance which defines a range in which a [risk score value](#risk-factors-and-risk-scoring) is acceptable and does not require a treatment response. Risk scores can range from 0 (lowest) to 30 (highest). The range is defined per Risk Appetite in the table below:
 
 |Risk Averse|Risk Neutral|Risk Receptive|Risk Seeking|
 |:---------:|:---------:|:---------:|:---------:|
@@ -137,6 +137,12 @@ The identification of threat sources and events in relation to operational risks
     <td class="tg-cly1">Errors and omission, loss of physical and infrastructure support (e.g. a natural disaster), exposure of sensitive information, changes to systems used to support the business, changes to external environments supporting GitLab, changes to GitLab's business model, or even changes in leadership</td>
   </tr>
 </table>
+
+## Risk Drafting Guidance
+
+StORM Program considerations include both risks (what might happen) and observations (what has happened/non-compliance). For guidance on writing observations, please refer to [Observation Management Procedure Handbook page](/handbook/security/security-assurance/observation-management-procedure.html).
+
+When drafting a risk, start with a risk statement. This will represent the title of the Risk in our GRC system and is an attempt to condense the risk into a single sentence. In the spirit of [low-context communication](/handbook/teamops/shared-reality/#low-context-communication), avoid using single words or short phrases for the risk statement (e.g., Supply Chain). As we largely deal with negative risks (vs. positive risks/opportunities), starting the statement with negative language like "Failure to", "Inadequate", "Incomplete", "Lack of", etc. is appropriate, but not required. As risks represent what might happen, use "may" before describing the negative effect it _may_ have on the confidentiality, integrity, availability, security, and privacy of GitLab data. Example: _Inadequate physical security controls may result in the loss of GitLab/Customer data and physical assets._ The risk description should contain details related to the assets/resources at risk, the event that may occur, the source that would trigger the event (root cause), and the consequence (impact/loss) [source](https://www.srmam.com/post/how-to-write-a-risk-statement).
 
 ## Risk Factors and Risk Scoring
 
