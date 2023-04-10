@@ -72,7 +72,7 @@ The below retention and secure disposal requirements apply to all GitLab records
 | Penetration testing reports and remediation issues | 2 years                   | [GCP/AWS Secure Deletion] |
 | System patch records                               | 1 year                    | [GCP/AWS Secure Deletion] |
 | Source code scanning results                       | 1 year                    | [GCP/AWS Secure Deletion] |
-| ZenDesk tickets                                    | 1 year                    | [GCP/AWS Secure Deletion] |
+| ZenDesk tickets                                    | 3 years                   | [GCP/AWS Secure Deletion] |
 | Nonpublic information review records               | 3 years                   | [GCP/AWS Secure Deletion] |
 | Role-based security training records               | 3 years                   | [GCP/AWS Secure Deletion] |
 | Audit log review records                           | 3 years                   | [GCP/AWS Secure Deletion] |
