@@ -81,7 +81,7 @@ GitLab's role-based learning journeys are based on milestones and enable us to d
 
 Click on a link below to begin your role based journey. 
 
-- Enterprise Strategic Account Executive - [Enterprise Sales: What every SAE needs to know (30-60-90 days)](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/enterprise-sales-sal-30-60-90-days) 
+- Enterprise Strategic Account Executive - [Enterprise Sales Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/enterprise-sales-onboarding-journey) 
 - Commercial Account Executive - [Commercial Sales - Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/commercial-sales-onboarding-journey)
 - Solutions Architect - [Solutions Architect: 30-60-90 Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/solutions-architect-30-60-90-onboarding-journey)
 - Customer Success Managers
