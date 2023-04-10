@@ -1,4 +1,7 @@
+---
+layout: handbook-page-toc
 title: "Customer Renewal Tracking"
+description: "The Renewals team at GitLab is a part of the Customer Success department."
 ---
 
 ## On this page
