@@ -200,6 +200,7 @@ To quarantine bad (original) ping from `2023-03-31` and avoid wrong data flow in
 
 * PING_DATE=2023-03-31
 * PING_SOURCE='wrong'
+* _UPLOADED_AT = 1680296000 - `2023-03-31` Generally, the date and time same as the `PING_DATE` column (just exposed in epoch time format).
 
 Other active solutions were more complex and did not achieve substantially higher data quality, and doing nothing would propagate incorrect data in reporting models throughout the EDM.
 
