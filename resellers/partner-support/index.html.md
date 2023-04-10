@@ -93,36 +93,15 @@ We do not create entire new accounts for separate partner entities with the same
  3. Sales Reps can then select that billing account as the Invoice Owner and use the contact you created as the Invoice Owner Contact in their quotes.
 
 ## Partner Insights
-The Partner Operations team provides ["Partner Insights"](https://docs.google.com/presentation/d/17O9HGNvKxgUpLG3ySA0LQxutsYJjewSNYzaA1q6JrGA/edit#slide=id.g177fa90e31f_0_190) slide decks to Channel Managers for help with preparing for QBRs and other partner executive meetings. These insights are intended to help Channel Managers have productive conversations with partners to identify what is going well so it can be replicated, as well as address opportunities for improvement to develop stronger and more valuable partnerships. 
+The Partner Operations team provides ["Partner Insights"](https://docs.google.com/spreadsheets/d/1DfwnsWbKSUbY21KIzCh2hZH3cgJZltmjXSsCeObLT58/edit?usp=sharing) data to Channel Managers for help with preparing for QBRs and other partner executive meetings. These insights are intended to help Channel Managers have productive conversations with partners to identify what is going well so it can be replicated, as well as address opportunities for improvement to develop stronger and more valuable partnerships.
 
-Only Channel Managers and their directors can request Partner Insights. If you are not a Channel Manager but have an executive partner meeting and want to request Partner Insights for a specific partner, please work with that partner's Channel Manager to determine if your request is needed (i.e. whether or not a deck already exists or if the information you're looking for can be obtained from the Channel Manager) or to have the Channel Manager make the request. 
+### Gathering Partner Insights Data and Creating a Slide Deck
+Channel Managers can generate their Partner Insights by accessing this self-service [spreadsheet](https://docs.google.com/spreadsheets/d/1DfwnsWbKSUbY21KIzCh2hZH3cgJZltmjXSsCeObLT58/edit?usp=sharing). Please follow the instructions on the first tab of the spreadsheet to generate a PDF with charts and metrics for your selected partner. 
 
-Completed Partner Insights slide decks are attached to the Partner Account in Google Docs, Notes and Attachments in SFDC. 
+Channel Managers are able to create their own Partner Insights PowerPoint by accessing this [step-by-step guide](https://docs.google.com/document/d/1XoyxxF8Ni8HpXqj17Tsoyd47zxpFpCCtnXJJ_WrO5aM/edit?usp=sharing). 
 
-### Requesting a Partner Insights Slide Deck
-To request a Partner Insights slide deck, Channel Managers should chatter `@Partner Operations` on the partner account record and provide:
--  Date (or expected date) of the partner meeting
--  Date the Partner Insights deck is needed. Please also provide 
--  If you need a full deck or if you are fine with just the automated data we can pull (i.e. no training or rebate data needed).
-
-*Requests are limited to three (3) Partner Insights Requests at once per Channel Manager.* This will open a case for the Partner Operations to review and it will be assigned to a member of the team. _Please be sure to provide at least 5 working days for the team to complete the deck._
-
-Once the deck is completed, we will attach the Google slide deck to the partner account and then chatter the Channel Manager with the Partner Insights link. The deck is complete, but the Channel Managers are able to edit the deck if they wish. 
-
-### Partner Insights Details
-- Currently, only Select Partners are eligible for Partner Insights.
-- The date of the data pull is on the first page of the Partner Insight. Please note this date as additional opportunities may close between the date of the data pull and the date of the presentation.
-- Each partner will only get one Partner Insights deck per quarter. A second request within the same quarter will be denied. 
-- Bulk requests (more than 3 partners) for Partner Insights must first be approved by the Manager of the Partner Support team prior to requesting in chatter. This includes regional requests by Channel Directors. A minimum of two weeks notice is requested for bulk requests.
-    - For bulk requests, post the requested partner names and brief business justification for the bulk request in the #channel-programs-ops Slack channel, no tagging necessary.  
-- Customization of a Partner Insights deck (including custom data requests) is not currently in scope. Only the out-of-the-box slide deck information and data is available. 
-- Additional data must be requested from the [Partner Operations team](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#how-to-contact-us), and not from the Partner Help Desk. 
-
-### Out of Scope for Partner Insights
-- Partner Insights are limited to the account level in SFDC. GSIs and partners with multiple accounts (for example, AMER _and_ US-PubSec). 
-- Customization of the Partner Insight data. Please [open an issue with Partner Operations](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#the-channel-operations-issue-board) for additional reporting requets.  
-
-
+If you need assistance with accessing the spreadsheet or PowerPoint step-by-step guide, please contact us at [#partner-program-ops](https://gitlab.slack.com/archives/CTM4T5BPF) in Slack. If you have a customized reporting request that’s not on the self-service spreadsheet, [please open an issue on the Partner Operations board](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#the-channel-operations-issue-board).  
+  
 ## Basic Training Requirements
 For a list of basic training requirements for NFRs, Deal Registration, and Transacting, visit the [Channel Partners: Working with GitLab Handbook Page](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#training--certification-requirements-for-transactions-deal-registrations-and-nfrs)
 
