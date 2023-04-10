@@ -262,7 +262,7 @@ The marketing operations team uses collective merge requests, known as our miles
 
 ### Marketing Ops Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_u3gaaimqhrc3d753nbol3houkg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+[Our team google calendar is available to GitLab team members here](https://calendar.google.com/calendar/u/0?cid=Y191M2dhYWltcWhyYzNkNzUzbmJvbDNob3VrZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). It shows upcoming team PTO and holidays.
 
 ### Focus Fridays
 
