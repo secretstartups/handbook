@@ -218,12 +218,22 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 ```mermaid
   graph LR;
   subgraph Data Science Roles
-    supe:ds(Data Scientist)-->supe:sds(Senior Data Scientist);
+    supe:ds(Data Scientist)-->supe:sds(Senior Data Scientist)-->supe:stds(Staff Data Scientist)-->supe:pds(Principal Data Scientist);
   end
 
   click supe:ds "https://handbook.gitlab.com/job-families/finance/data-science/#data-scientist-intermediate";
   click supe:sds "https://handbook.gitlab.com/job-families/finance/data-science/#senior-data-scientist";
+  click supe:stds "https://handbook.gitlab.com/job-families/finance/data-science/#staff-data-scientist";
+  click supe:pds "https://handbook.gitlab.com/job-families/finance/data-science/#principal-data-scientist";
 ```
+
+### Intermediate and Senior Data Scientist Onboarding Timeline
+
+| By Day 30 | By Day 60 |  By Day 90 | By Day 120 |
+| ------ | ------ |------ |------ |
+| Complete People and Data Onboarding | Meet stakeholders across the organization | Re-train or enhance an existing data science model |  Make a contribution to improve the Data Science handbook, packages, or processes |
+| Start attending Data Science Team meetings | Refine/improve one data science dashboard | Work on [OKR assignments](https://about.gitlab.com/handbook/business-technology/data-team/direction/#quarterly-objectives) | Take ownership of at least one quarterly OKR |
+| Understand the current data science systems and processes |  | |  |
 
 ## Analytics Engineering
 
