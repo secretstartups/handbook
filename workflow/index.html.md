@@ -841,7 +841,7 @@ The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197
 #### Infrastructure
 
 1. Nominate issues by adding `Infradev` label.
-+1. Assess [Severity](/handbook/engineering/quality/issue-triage/#severity-slos) and `Priority` and apply the corresponding label as appropriate.
+1. Assess [Severity](/handbook/engineering/quality/issue-triage/#severity-slos) and `Priority` and apply the corresponding label as appropriate.
 1. Provide [as much information as possible](#a-guide-to-creating-effective-infradev-issues) to assist development engineering troubleshooting.
 
 #### Development
