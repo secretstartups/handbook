@@ -27,7 +27,7 @@ The Create stage helps teams accelerate software delivery and reduce cycle times
 - [Amy Qualls](/company/team/#aqualls): Tech writing, Source Code, Code Review
 - [Ashraf Khamis](/company/team/#ashrafkhamis): Tech writing, Editor
 - [Ben Leduc-Mills](/company/team/#leducmills): UX Research
-- [Andy Volpe](/company/team/#andyvolpe): Acting Product Design Manager
+- [Andy Volpe](/company/team/#andyvolpe): Product Design Manager
 
 <!-- Summarize what each group is currently focused on
 
