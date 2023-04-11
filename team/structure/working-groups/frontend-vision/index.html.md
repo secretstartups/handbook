@@ -20,7 +20,6 @@ canonical_path: "/company/team/structure/working-groups/frontend-vision/"
 | Target End Date   | TBD                                                                                                                                       |
 | Slack             | #wg_frontend-vision (only accessible from within the company)                                                                             |
 | Google Doc        | [Agenda](https://docs.google.com/document/d/1H0td5YZJROQG_aOkGJuIpXqxi4UEpiuCufvEAc27kMo/edit?usp=sharing) (only accessible from within the company) |
-| Epic              |                                                                               |
 | Overview & Status | See [Exit Criteria Progress](#exit-criteria-progress)                                                                                     |
 
 ### Context
@@ -35,12 +34,19 @@ Currently, our frontend development guidelines only document features and practi
 
 ### Exit Criteria
 
-This Working Group has the following goals:
-
-1. Discuss and come to conclusion regarding the frontend vision
-1. Add the documentation about frontend vision to frontend development guidelines via a set of merge requests
-1. Develop and implement a communication plan for the outcomes of the working group.
-1. Document the process for proposing changes to the main strategy.
+1. Add introduction page to frontend documentation, explaining direction and high-level overview of the frontend codebase/architecture.
+  1. Include evolution of codebase over three year horizon.
+  1. List frontend technologies used and the design principals that guide the frontend team's work.
+  1. Explicitely define deprecation/removal plans, including why these features are being deprecated.
+  1. Communicate outcome to the broader frontend functional group.
+    1. Discuss and document communication plan, including frequency of updates from working group.
+1. Document usage of reusable components.
+  1. Determine plan around vue-shared.
+  1. Determine and document guide on creating/using reusable components.
+1. [Determine DRIs around specific parts of frontend documentation.](https://gitlab.com/gitlab-org/gitlab/-/issues/381536)
+1. Complete an update to the frontend RFC process.
+  1. Determine how the exception to the main strategy process will work, and if there is a need for a separate area for "wild" ideas.
+  1. Determine evaluation and decision-making process for RFCs.
 
 #### Exit Criteria Progress
 
