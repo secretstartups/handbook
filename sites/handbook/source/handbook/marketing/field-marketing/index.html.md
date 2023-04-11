@@ -33,7 +33,7 @@ We want to be the most innovative and pipeline centric team within the marketing
     - Test out new messaging or positioning
 
 # Countries of Focus
-Our countries of focus can be [found here](https://internal-handbook.gitlab.io/handbook/sales/globalization/#globalization) in our internal handbook.
+In alignment with the FY24 Marketing strategy, Field Marketing focuses on specific countries. Details can be found here in our [internal handbook](https://internal-handbook.gitlab.io/handbook/marketing/fy24-strategy/#target-markets-and-marketing-prioritization).
 
 # Cities of Focus
 
@@ -555,9 +555,6 @@ Once the report is downloaded (or the event/tactic has ended and all swag has be
 - FMC to assign a due date of 2 business days post-event
 - One (1) business day after the issue is due, FMC to ping the FMM in the list clean and upload issue to remind them leads are due
 - FMC will make sure leads have been provided or continue to remind the FMM, if needed
-
-# Counntires of focus 
-In alignment with the FY24 Marketing strategy, Field Marketing focuses on specific countries. Details can be found here in our [internal handbook](https://internal-handbook.gitlab.io/handbook/marketing/fy24-strategy/#target-markets-and-marketing-prioritization). 
 
 # Field Marketing Swag
 
@@ -1386,7 +1383,7 @@ This issue should not be used as a shortcut to get questions answered but for re
 
 # How Field Marketing Tracks Campaign Expenses
 
-For information on how Field Marketing tracks campaign expenses, please visit the Marketing handbook page section [here](/handbook/marketing/#how-marketing-tracks-campaign-expenses).
+For information on how Field Marketing tracks campaign expenses, please visit the Marketing handbook page section [here](https://about.gitlab.com/handbook/marketing/marketing-team-processes/#how-marketing-tracks-campaign-expenses).
 
 
 # Field Marketing Labels in GitLab
