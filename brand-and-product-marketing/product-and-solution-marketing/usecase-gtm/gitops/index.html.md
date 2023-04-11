@@ -330,7 +330,7 @@ This table shows the recommended use cases to adopt, links to product documentat
 - Find customers that are [using GitLab with GitOps](https://docs.google.com/spreadsheets/d/1j31jz71BBMM-8IPHZWUzi8IogYq2m-VhyofzJmd3wk8/edit?usp=sharing)
 
 ## Partners
-GitLab is not a replacement for existing Infrastructure Automation tools, but rather complements them to provide a comprehensive solution. As per the [JetBrains DevOps Ecosystem 2019](https://www.jetbrains.com/lp/devecosystem-2019/devops/) survey, **Terraform** is the most popular infrastructure provisioning tool used by customers. Terraform is cloud-agnostic and helps manage complex infrastructures for distributed applications. GitLab will [focus on Terraform support](/direction/configure/infrastructure_as_code/#whats-next) as the first step towards building a comprehensive GitOps solution.
+GitLab is not a replacement for existing Infrastructure Automation tools, but rather complements them to provide a comprehensive solution. As per the [JetBrains DevOps Ecosystem 2019](https://www.jetbrains.com/lp/devecosystem-2019/devops/) survey, **Terraform** is the most popular infrastructure provisioning tool used by customers. Terraform is cloud-agnostic and helps manage complex infrastructures for distributed applications. GitLab will [focus on Terraform support](/direction/delivery/infrastructure_as_code/#whats-next) as the first step towards building a comprehensive GitOps solution.
 
 ## Resources
 ### Presentations
