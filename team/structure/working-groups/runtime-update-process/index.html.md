@@ -44,9 +44,12 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 
 ### Exit Criteria (0% completed)
 
-| # | Start Date | Target Completion Date | Completed Date | DRI | Criteria |
-|---|------------|------------------------|----------------|-----|----------|
-|   |            |                        |                |     |          |
+| Criteria | Start Date | Target Completion Date | Completed Date | DRI |
+|----------|------------|------------------------|----------------|-----|
+| Build and document a repeatable upgrade process that's applicable to our major platforms such as Go, Ruby, Rails, and Vue. | 2023-03-30 | 2023-08-31 | | |
+| Upgrade to Go 1.20 | 2023-03-30 | 2023-07-30 | | @rmarshall |
+| Evaluate a second framework for an upgrade such as Ruby, Python, or Node | 2023-06-01 | 2023-06-30 | | |
+| Upgrade a second framework to validate our process | 2023-07-01 | 2023-09-30 | | |
 
 ### Roles and Responsibilities
 
