@@ -46,7 +46,7 @@ For executive level searches, we have a Talent DRI and Hiring DRI.
 * Provides feedback and collaborates with the Talent DRI to move the process forward
 * Delegates to Talent DRI to run effective, efficient process as outlined
 
-## Role Idenficication and Assignment
+## Role Identification and Assignment
 
 **Identification of Opportunity**
 
