@@ -336,7 +336,7 @@ If there is a known incident, it's acceptable to link to the public status page 
 
 ### Consumption Issues
 
-#### Compute credits quota is blocking a production deployment
+#### Quota of compute credits is blocking a production deployment
 
 A customer may be blocked because they have run out of compute credits.
 
