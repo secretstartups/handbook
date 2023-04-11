@@ -354,12 +354,7 @@ The analytics hubs provide links to the current SSOT dashboards for an area of b
 
 <summary><b>Data Guides</b></summary>
 
-* [People Analytics Overview](/handbook/people-group/people-ops-tech-analytics/people-analytics/)
-* [PTO by Deel (Slack)](/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html)
-* [People Key Metrics](/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard/)
-* [People KPI Deck](/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html)
-* [Promotions Report](/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html)
-* [Talent Acquisition Metrics](/handbook/business-technology/data-team/data-catalog/people-analytics/talent_acquisition-metrics.html)
+* [People Analytics Guide](/handbook/people-group/people-ops-tech-analytics/people-analytics/)
 
 </details>
 
