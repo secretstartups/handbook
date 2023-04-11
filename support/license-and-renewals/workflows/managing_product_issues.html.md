@@ -53,62 +53,55 @@ this workflow.
 
 ### Support's issue list for Fulfillment
 
-The Support and Fulfillment teams use a Google spreadsheet to manage the issues
-and epics list, and to communicate asynchronously about it. This spreadsheet is
-the single source of truth for information about the product issues of concern
-to L&R Support.
+The Support and Fulfillment teams use a combination of one epic board and two
+issue boards to prioritize and manage the issues and epics of interest to
+Support. Collectively, these can be thought of as `Support's Issue List for
+Fulfillment`.
+
+The list is the single source of truth for describing the product issues
+that are of concern to L&R Support. For updates and discussions about
+Fulfillment's actions related to the issues and epics, see the monthly
+[Fulfillment Support Priority Monthly Review issue](https://gitlab.com/gitlab-com/Product/-/issues/?state=all&label_name%5B%5D=Fulfillment%20Support%20Priority%20Review), 
+which is created from this
+[template](https://gitlab.com/gitlab-com/Product/-/tree/main/.gitlab/issue_templates/Fulfillment-Support-Priority-Monthly-Review.md).
 
 #### Accessing the list
 
-The issue list spreadsheet is available to all GitLab Team Members. To access it, open [Support's Issue List for Fulfillment](https://drive.google.com/drive/search?q=title:%22Support%27s%20Issue%20List%20for%20Fulfillment%22%20Support%27s%20Issue%20List%20for%20Fulfillment) on Google Drive.
+The issue and epic boards that comprise the list are available to all GitLab
+Team Members. They are:
+
+- GitLab.org: [Support Priority epic board](https://gitlab.com/groups/gitlab-org/-/epic_boards/39981?label_name[]=Support%20Priority&label_name[]=devops%3A%3Afulfillment)
+- GitLab.org: [Fulfillment Support Priority issue board](https://gitlab.com/groups/gitlab-org/-/boards/2543339?label_name%5B%5D=section::fulfillment)
+- fulfillment-meta: [Fulfillment Support Priority issue board](https://gitlab.com/gitlab-org/fulfillment-meta/-/boards/5530967?label_name[]=Support%20Priority)
 
 #### List contents
 
-The spreadsheet should always contain on its main sheet the full list of all
-open epics and issues that have any `Support Priority::xxx` label, and no other
-epics or issues.
+Each board in the list presents issues or epics that have one of the
+`Support Priority::X` scoped labels attached, and organizes them into lists by
+support priority number.
 
-We encourage everyone who applies the `Support Priority::Categorize` label to
-take an extra moment to add the labeled issue or epic to the end of the list in
-the spreadsheet. The [Regional DRIs](../index.html#regional-dris) will also look
-for newly-labeled items each month and will add them to the list before
-beginning the prioritization exercises.
+Within each list on a board, Fulfillment PMs and EMs will sort the cards to
+indicate further prioritization.
 
-#### List structure - sections
+##### `Support Priority::1` - The Top 10 List
 
-##### Top 10 - Prioritized
+At any given time there should be no more than 10 issues and epics labeled
+`Support Priority::1`. Together, those items are known as the `Top 10 List`.
+They are the items that L&R Support has decided are the most important
+product issues for the Fulfillment Team to address.
 
-The first 10 items on the list are ordered according to priority. These are the
-items that L&R Support has decided are the most important product issues for
-the Fulfillment Team to address. **The only people who should move items in or
-out of the Top 10 section, or change the order within the section, are the
-[Regional DRIs](../index.html#regional-dris).** This section of the list is
-colored with a red theme, indicating the hottest issues. All items in this
-section, except those being
-[reviewed for possible reprioritization](#review-for-possible-reprioritization),
-have the label `Support Priority::1`.
+##### `Support Priority::2` - The Next 10 List
 
-##### Next 10 - NOT Ordered
+At any given time there should be no more than 10 issues and epics labeled
+`Support Priority::2`. Together, those items are known as the `Next 10 List`.
+They are the items that fell just short of getting selected for the
+Top 10. L&R Support would like Fulfillment to select items to work from this
+list if not all resources are devoted to the Top 10.
 
-The next section contains items that fell just short of getting selected for the
-top 10. They are listed in no particular order. As a group, they represent the
-product issues that L&R Support would like Fulfillment to address once the top
-10 are resolved. **The only people who should move items in or out of this
-section are the [Regional DRIs](../index.html#regional-dris).** This section
-of the list is colored with a yellow theme - almost hot. All items in this
-section, except those being
-[reviewed for possible reprioritization](#review-for-possible-reprioritization),
-have the label `Support Priority::2`.
+##### `Support Priority::3` and `Support Priority::4` - All the Rest
 
-##### All the Rest - Not Ordered
-
-The third and final section contains all the remaining items in no particular
-order. All issues and epics should be added to this section when they are
-first labeled with `Support Priority::Categorize`. At the next prioritization
-exercise, those items will be moved to one of the other two sections of the
-list (and appropriately labeled) or relabeled `Support Priority::3`
-or `Support Priority::4`. This
-section of the list is colored with a green theme.
+Issues and epics set to priorities three and four are still of interest to L&R
+Support, but the expectation is that they will be addressed last.
 
 #### Review for possible reprioritization
 
@@ -119,54 +112,103 @@ possible reprioritization should:
 1. Add a comment to the issue or epic outlining how they think it should be
    prioritized and their reasoning
 
-#### List structure - columns
-
-| Epic or Issue | Title | Description | Support Priority Label |Product Group | Product DRI | Update |
-| ------------ | ----------- | ------------- | ------------- | ------------- | ----------- | ------ |
-| The issue or epic number, with link | Exact title from the epic or issue | A longer description of the issue or epic, still no more than a few sentences.  | The part of the label after `Support Priority::` | The product group that owns the item. **This is set by the Product Managers** | The Product Manager. **This is set by the Product Managers** | Status information. Questions from Product or Development to each other or Support. This is the only really dynamic column. |
 
 #### Primary contributors
 
 - Product Managers:
   - indicate product group ownership and product DRI assignment
-  - ask questions and provide status updates
+  - provide progress state updates
   - select items to be worked
-  - move items to the `Completed/Done` sheet and provide final status and
-    comments on those
+
 - Engineering Managers
-  - ask questions and provide status updates
+  - provide progress state updates
 - L&R Support [Regional DRIs](../index.html#regional-dris)
-  - move items between the list sections
-  - add items labeled `Support Priority::Categorize` to the list and remove
-    no-longer-needed items from the list
-  - Populate and sort the Top 10 list
-  - Populate the Next 10 list
+  - facilitate the monthly review of items labeled
+    `Support Priority::Categorize` or `Support Prioritize::Review`
+  - set the priority of each item based on the
+    [Support Priority Score](#support-priority-score)
   - ask and answer questions
 - L&R SEs
-  - add items labeled `Support Priority::Categorize` to the list
-  - ask and answer questions
+  - create the [Support Priority Score](#support-priority-score) for each new
+    or under-review item
+  - record the Support Priority Score for each item in its description
 
-#### Prioritizing the Top 10
+#### Prioritizing Support's issue list for Fulfillment
 
 On a monthly basis, aligned with the product release cycle, L&R Support will
-determine what changes, if any, are needed in the list. By agreement with the
-Fulfillment Product Management Team, Support will keep the Top 10 list as
-stable as possible, making changes only when:
+determine what changes, if any, are needed in the list. At this time the
+[Regional DRIs](../index.html#regional-dris) will:
 
-- an issue was fixed or otherwise closed within the last month and has been
-  moved to the `Completed/Done` sheet
-- an issue of exceptionally high importance arises and must be added to the
-  Top 10, in which case another issue will be displaced
+1. Request that L&R Support Engineers set a Support Priority Score for each
+   issue and epic labeled `Support Priority::Categorize`
+1. Open a discussion with the L&R SEs about any issues or epics labeled
+   `Support Priority::Review`, and change the score for those accordingly
+1. Discuss with the Fulfillment Product Management Team any expected changes
+   to the Top 10 list based on the new scores
+
+By agreement with the Fulfillment Product Management Team, Support will keep
+the Top 10 list as stable as possible, making changes only when:
+
+- a Top 10 item was fixed or otherwise closed within the last month
+- an item of exceptionally high importance arises and must be added to the
+  Top 10, in which case another item will be displaced
 - Fulfillment and Support agree that priorities within the Top 10 should be
   changed to represent customer or Support needs more accurately
 
-### Support's unofficial issue list
+#### Support Priority Score
 
-The [Regional DRIs](../index.html#regional-dris) are experimenting with
-maintaining an [epic](https://gitlab.com/groups/gitlab-com/support/licensing-subscription/-/epics/1)
-for use within L&R Support only. The thought is that the epic may present an
-easier-to-consume version of the epics and issues list that will help SEs to
-stay informed.
+L&R Support wants it to be fairly easy for anyone in L&R to decide the most
+appropriate priority for any issue or epic on the list. And, we want to have a
+framework for those decisions that will allow us to be reasonably consistent
+and fact-based. For those reasons, we have defined a set of factors to be
+considered when prioritizing, and we have created a simple calculator to
+combine "scores" from each factor into a single number, which we call the
+`Support Priority Score`.
+
+##### Factors
+
+1. Is there a **sustainable workaround**?
+   - _e.g._ anything requiring Mechanizer or Console Access is NOT sustainable
+1. Customer Impact: **Frequency** (daily, weekly, monthly, ...)
+1. Customer and Support Impact: Volume (**count**) of related support tickets
+1. Support Impact: **Effort** per ticket to resolve
+1. Support Impact: Level of **risk** posed by the ticket **resolution**
+1. Support Impact: Level of **disruption** - frequency of STARs and emergencies
+   on related tickets
+1. Expected Benefit of Product Solution: **Ticket prevention**
+1. Expected Benefit of Product Solution: **Ticket TTR decrease**
+   - lower expected effort, easier to diagnose, etc.
+1. Expected Benefit of Product Solution: **Higher Usabilty, SSAT**
+1. Expected Benefit of Product Solution: **Increase sales**
+   - fewer lost sales (_e.g._ user can't purchase subscription due to lack of
+     credit card security, so either stays a free user or switches to another
+     platform)
+1. Expected Benefit of Product Solution: Better **product availability** due to
+   valid subscription (happier customer)
+
+All of the factors must be considered in order to paint the full picture of the
+importance of a given issue or epic. Even so, consider them as general
+guidelines that leave us room to make decisions without having to gather hard
+data for every one of them. In other words, we will exercise our best judgment
+using the information at hand. 
+
+##### Calculator
+
+The calculator is a simple
+[spreadsheet](https://docs.google.com/spreadsheets/d/1pjntNPQ_7F8ZTWvGxl8w4msMDg2tYTIMQqGP-5O2WUY/edit#gid=581132234).
+You'll find the instructions on the right. Just fill in the value for each
+factor, and the Priority Score is automatically calculated. In addition,
+below the score is an automatically generated bit of markdown that you may
+copy in order to paste at the end of the issue's or epic's description field.
+
+So why have a calculator if we're being subjective rather than objective? The
+calculator reminds us of the factors we want to consider and gives us a
+standard way to combine all of them consistently.
+
+#### What to do if an epic and one of its issues are both on the list?
+
+Coming soon
+<!-- See https://gitlab.com/gitlab-com/support/licensing-subscription/fulfillment-requests/-/issues/10 -->
 
 ### How to get help from the Fulfillment Section development team 
 
