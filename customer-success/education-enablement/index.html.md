@@ -159,7 +159,7 @@ To align our education and enablement with our product, each of the topics below
 ***
 ##### Foundations Level
 - [Configure Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/configure/)
-- [Configure Stage Direction and Roadmap](https://about.gitlab.com/direction/configure/)
+- [Configure Stage Direction and Roadmap](https://about.gitlab.com/direction/delivery/)
 ##### Intermediate Level
 - [Auto DevOps Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/auto-devops/)
 - [Auto DevOps Feature Docs](https://docs.gitlab.com/ee/topics/autodevops/)
