@@ -73,8 +73,6 @@ description: Business Technology
 
 ## Role of Business Technology
 
-Unlike a traditional IT department that is responsible for 80%+ of the infrastructure and software-as-a-service applications that team members use, we are directly responsible for less than 20% of the infrastructure and tech stack applications that are used across all of the departments at GitLab.
-
 Our department focuses on managing the framework of how GitLab procures, implements, integrates, secures, exports analytics, and supports our [tech stack applications](/handbook/business-technology/tech-stack-applications) while providing strategic enablement and integration support for all departments and team members that allows us to scale efficiently, [SAFE](/handbook/legal/safe-framework/)ly, and securely.
 
 ### Direction
@@ -123,6 +121,8 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 
 As department leaders and system owners identify technologies that GitLab should adopt, our [Procurement](/handbook/finance/procurement/) team handles the strategic negotiation and purchasing of the licensing using a strategic sourcing approach that focuses on longer-term relationships with suppliers to drive value, quality, and industry collaboration to enhance competitive advantage.
 
+We have as part of our IT governance process a set of IT reviews for purchasing new software services for the company.
+
 If you're looking to buy technology for yourself, please see the handbook pages for [expenses](/handbook/finance/expenses/), [home office equipment](/handbook/finance/procurement/office-equipment-supplies/) or [buying software](/handbook/finance/procurement/personal-use-software/).
 
 ### Business Process Alignment and Enterprise Software Integrations
@@ -152,8 +152,6 @@ You can ask for assistance in the `#it_help` Slack channel.
 The [IT Support](/handbook/business-technology/team-member-enablement/) team handles [access requests](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) for the tech stack applications that IT manages. All access requests are created in the same [issue tracker](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) project, regardless of which System Owner is responsible for provisioning your user account.
 
 The [IT Engineering - Access Management](/handbook/business-technology/engineering/access-manager) team focuses on Identity and Access Management (IAM) and Role-Based Access Control (RBAC) automation for all of [GitLab's tech stack applications](/handbook/business-technology/tech-stack-applications/).
-
-We are developing [GitLab Access Manager (GLAM)](/handbook/business-technology/engineering/access-manager), a custom application that will replace access request Markdown issues and manual provisioning with a streamlined custom web UI and API integration with most of our tech stack applications for user and role provisioning.
 
 ### Cloud Infrastructure Management
 
