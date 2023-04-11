@@ -480,7 +480,7 @@ WHERE field = stage_name
 
 **Product roadmap link**
 
-[Product Direction - Configure](https://about.gitlab.com/direction/configure/#opportunities)
+[Product Direction - Configure](https://about.gitlab.com/direction/delivery/#opportunities)
 Resource to understand the long-term goals for this team
 
 **Performance indicators**

@@ -71,7 +71,7 @@ You can find them as `/direction/[name of stage]`:
 - [/direction/verify](/direction/verify/)
 - [/direction/package](/direction/package/)
 - [/direction/release](/direction/release/)
-- [/direction/configure](/direction/configure/)
+- [/direction/delivery](/direction/delivery/)
 - [/direction/monitor](/direction/monitor/)
 - [/direction/secure](/direction/secure/)
 
