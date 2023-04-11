@@ -150,16 +150,23 @@ GitLab TPRM Engineers reserve the right to perform additional procedures at thei
 |Orange SaaS System| 3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|	No**|	Yes|	Yes|	Yes| Yes |
 |Orange	GL/GL Team Member-hosted System| 3rd Party Attest or SIG Lite Plus (or equiv)	|No	|No|	No	|Yes	|No| No|
 |Professional Services | 3rd Party Attest or SIG (See Below)|	No|	No|	No| No|	No| No|
-|Yellow/Green	|-|	-|	-|	-|	-|	-| - |
+|Yellow/Green***	|-|	-|	-|	-|	-|	-| - |
 
 *Law Firms may have legal obligations requiring limited access to red data. As such, Law Firms will be treated as Orange vendors.<br>
+
 **Orange SaaS SOX systems will have SOC 1 CUEC mappings facilitated by TPRM drafted and handed off to Internal Audit annually during Q1. If SOC 1s are not available SOC 2s will be mapped.
+
+***Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details. 
 
 #### The Standard Information Gathering (SIG) Questionnaire
 
 The Security Risk Team leverages a [Standard Information Gathering (SIG)](https://sharedassessments.org/sig/) Questionnaire to gain a more in-depth understanding of a vendor's Security environment beyond what is attained by reviewing a Third-Party Attestation (such as an ISO certification or SOC-2 report). Responses within the SIG questionnaire, or an equivalent document such as a CAIQ, should be reviewed alongside the vendor's third-party attestation (if available) and their responses to our Security Questionnaire when assessing the Security environment in place within the service organization.
 
 Security Risk maintains multiple templated versions of the SIG questionnaire for use depending on the product or service being assessed, as some vendors may not have a SIG questionnaire or equivalent to provide. Note that these SIG templates include multiple tabs which are not required for our procedures to gain assurance over a vendor's environment. When distributing these templates, the vendor should be instructed that we only require Inquiry responses within Columns D and E of the main questionnaire tab, as additional requests for information or documentation within the SIG are generally not required. Note that potential fringe cases _could_ exist wherein professional discretion may dictate the necessity for additional documentation requests to supplement vendor responses. These scenarios should be discussed with the Security Risk Manager to determine what is needed. Further, professional discretion should be applied when making decisions as to which version of the SIG questionnaire should be sent. For cases in which the level of review required is unclear, engineers are encouraged to send the full SIG Lite Plus questionnaire or discuss with the @Security-Risk team in the #Sec-Assurance-Team channel to come to a decision.
+
+<details>
+<summary markdown="span">SIG Lite Plus</summary>
+
 - SIG Lite Plus
     - The SIG Lite Plus questionnaire is leveraged most commonly and should be utilized for all Red vendors and Orange SaaS systems. We refer to our SIG Lite as the "SIG Lite Plus" as it includes full scope SIG questionnaires for domains "A. Enterprise Risk Management" and "E. Human Resource Security". All other domains include standard SIG Lite content. Our objective here is to obtain additional information related to personal computers and background checks.
     - The following 18 domains are included within the scope of the SIG Lite Plus questionnaire:
@@ -182,6 +189,11 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
         - U. Server Security
         - V. Cloud Hosting Services
 
+</details>
+
+<details>
+<summary markdown="span">Professional Services SIG</summary>
+
 - Professional Services SIG
     - The Professional Services SIG Lite Plus questionnaire features a reduced scope and can be leveraged for scenarios in which an **Orange** vendor is only providing contracted services or services not otherwise resulting in the introduction of a new system being transmitted sensitive GitLab data. In these cases, it may not be necessary to perform a full-scope review of the vendor's Security environment, as many controls within the full SIG Lite questionnaire may not apply or present a material risk to GitLab data.  **Please note this guidance applies only to Orange professional services providers. Service providers being granted access to Red data in the provision of services should be assessed utilizing the SIG Lite Plus questionnaire defined above due to the greater obligation for Data Security with these providers.**
     - The following domains are included within the scope of the Professional Services SIG Lite Plus questionnaire.
@@ -195,16 +207,23 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
         - P. Privacy
         - T. Threat Management
 
+</details>
+
 _SIG questionnaires (or equivalent) provided by a vendor **not** utilizing a GitLab-provided template should be reviewed to ensure they meet our due diligence standards. Domains not sufficiently addressed by a vendor-provided questionnaire should be identified, with additional inquiries performed to gain assurance over all in-scope domains._
+
+<details>
+<summary markdown="span">Reviewing SIG Responses</summary>
 
 Vendor responses documented within the SIG questionnaire should be reviewed in the context of the services provided by the vendor, with care taken to understand the broader control environment and how certain insufficient controls may be mitigated by other existing controls. For example, a vendor that does not rely on 3rd party service providers in the provision of services would be unlikely to maintain a Third Party Risk Management program, which is unlikely to pose a risk to GitLab in the broader context of services being provided. Cases such as this should be flagged during the review and noted within the SIG questionnaire with an explanation on why the deficiency does not present a risk to GitLab data. Mitigating controls, if identified, should be defined within these notes as well. Engineers are encouraged to perform follow-up inquiries with vendors as necessary to determine whether a control deficiency exists. These inquiries should be further noted within the SIG document or within the TPRM Assessment Report.
 
 Deficiencies noted presenting a material risk to GitLab data should be noted within the TPRM assessment report and presented to the business owner via the Risk Acceptance Process detailed below.
 
+</details>
+
 ### Other Types of Third Party Assessments
 
 #### Change Requests
-Change requests relating to previously-approved requisitions in Coupa will be reviewed by the on-call Engineer to determine whether a material change is being requested to (1) the scope of services provided, (2) the data elements transmitted to the vendor, or (3) the timeframe of the services provided. If material changes occur as defined here or that are otherwise identified resulting in a change to data classification or movement outside of the 12-month approval window from the previous review, a security assessment should be launched according to the TPRM assessment requirements detailed above. Changes requested specific to the cost of services and that do not present a material change impacting Security can be approved based on inheritance of approval from the parent requisition. 
+Change requests relating to previously-approved requisitions in ZipHQ will be reviewed by the on-call Engineer to determine whether a material change is being requested to (1) the scope of services provided, (2) the data elements transmitted to the vendor, or (3) the timeframe of the services provided. If material changes occur as defined here or that are otherwise identified resulting in a change to data classification or movement outside of the 12-month approval window from the previous review, a security assessment should be launched according to the TPRM assessment requirements detailed above. Changes requested specific to the cost of services and that do not present a material change impacting Security can be approved based on inheritance of approval from the parent requisition. 
 
 _For example: We performed a TPRM assessment for Vendor X which was completed on December 31, 2021, resulting in a 12 month coverage period lasting to December 31, 2022. A change request was created in January 2023 (outside of coverage period) related to overage charges for services provided during November 2022 (within coverage period). This example change request can be approved without a new TPRM assessment._
 
@@ -212,11 +231,23 @@ Engineers are advised to use professional judgment in determining the scope of c
 
 #### Independent Contractors
 Independent Contractors requiring access to Orange or Red data in the provision of services must be vetted by Security prior to being granted system access. The below items are required prior to granting Security approval:
+
+<details>
+<summary markdown="span">2. Background Check Request</summary>
+
 - Evidence of initiated background check, which will be monitored and adjudicated by the Sr. Background Check Specialist. 
     - This helps ensure that personnel with criminal backgrounds that may pose a threat to GitLab assets, customer relationships, and sensitive information are identified. 
     - _Note: Background check requirements are subject to change at the discretion of the People Operations team. Please refer to the background screening entry within the [People Policies handbook](https://about.gitlab.com/handbook/people-policies/#background-screenings) to ensure alignment with current requirements. If further guidance is needed, contact the Sr. Background Check Specialist at `backgroundchecks@gitlab.com`._
+
+</details>
+
+<details>
+<summary markdown="span">2. GitLab Laptop Request</summary>
+
 - GitLab Laptop Request Issue OR Assignment of VDI Environment Access
-    - Controls related to the security of hardware utilized by personnel are an important piece in ensuring the security and privacy of GitLab data. In order for GitLab to maintain oversight over this critical function, contractors are required to be issued a GitLab laptop or access to a VDI (Virtual Desktop Interface) environment to be used for **all** work performed on GitLab's behalf.
+    - Controls related to the security of hardware utilized by personnel are an important piece in ensuring the security and privacy of GitLab data. In order for GitLab to maintain oversight over this critical function, contractors are required to be issued a GitLab laptop or access to a VDI (Virtual Desktop Interface) environment to be used for **all** work performed on GitLab's behalf. To submit a request for a GitLab laptop, please follow the directions [here](https://docs.google.com/forms/d/e/1FAIpQLScbEx4SNmyZBngsUEkBf_4kgBS3X8EcE_KZ_6qige6OTJjYWw/viewform). 
+
+</details>
 
 #### Third Party Application Integrations
 
@@ -225,7 +256,7 @@ Third party integrations with GitLab's current [tech stack](https://gitlab.com/g
 
 #### Independent Assessments
 
-Want to vet a third party before contract renewals hit Coupa? Would you like to obtain approval for software/services we may purchase at a later date? [Click here to open a new Third Party Risk Intake Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Intake%20Request).
+Want to vet a third party before contract renewals hit ZipHQ? Would you like to obtain approval for software/services we may purchase at a later date? [Click here to open a new Third Party Risk Intake Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Intake%20Request).
 
 ### TPRM Risk Acceptance Process
 
