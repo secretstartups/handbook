@@ -38,7 +38,8 @@ consider utilizing the following emojis within Support Slack channels as well.
 1. `:red_circle:` - when another Support Engineer is asking for something and
    you are unable to do it due to conflicts or time constraints, such as being
    unable to cover someone else's on-call shift because you'll be unavailable
-   during the shift time
+   during the shift time.
+   Note: We should avoid using this emoji when responding to manager requests.
 1. `:eyes:` - to signal that you are looking into the request. It serves as an
    indication that someone is acting upon the request, and prevents duplication
    of effort. If you were unable to answer the request you should remove the
