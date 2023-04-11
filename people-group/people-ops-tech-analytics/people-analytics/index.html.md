@@ -23,9 +23,10 @@ This handbook page is meant to cover who we are and why we exist at GitLab. On t
 
 ## People Analytics Handbook Contents
 
-* [People Analytics Data Models Cheat Sheet](/handbook/people-group/people-ops-tech-analytics/people-analytics/data-model-cheat-sheet/)
+* [People Analytics Data Guide](/handbook/people-group/people-ops-tech-analytics/people-analytics/data-guide/)
 
 ## What is People Analytics?
+
 
 The study of people at work! Human Resource departments (the [People Group](/handbook/people-group/) here at GitLab) everywhere are flipping their approach to organizational behavior. Instead of only using experience, opinions, or intuition to make decisions they are leveraging the power of data for decision making processes.
 
@@ -33,17 +34,24 @@ According to [AIHR](https://www.aihr.com/blog/people-analytics/) (Academy to Inn
 
 > People analytics is the practice of collecting and applying organizational, people, and talent data to improve critical business outcomes. It enables HR departments to develop data-driven insights to make decisions on talent, workforce processes and turn them into actionable insights to improve performance of an organization. 
 
-## The Benefits
+## Benefits of Data in the People space
 
 There are many benefits to practicing People Analytics within organizations. While not exhaustive, below is a list of _just some_ of those benefits to us here at GitLab.
 
+- People analytics provides a way to track and analyze employee data to identify trends, patterns, and areas for improvement as well as measure the effectiveness of our programs, and make data-driven decisions that benefit both the company and our team members.
 - Build a more streamlined talent acquisition process that helps GitLab build a strong and diverse team, as well as provides candidates going through the process a well-crafted experience.
-- Drive teams to constantly be improving the experience of GitLab team members. We want individuals to thrive in their careers here and by using engagement surveys and KPIs to drive our team goals, we put people at the forefront.
-- Tie in the other data! Whether it be sales data, engineering data, etc., connecting the dots between performance and outcomes is very beneficial for the overall health of the organization. We want to understand how we can help team members grow in their journey and help leaders understand the impact of their work.
+- Drive teams to constantly be improving the experience of GitLab team members, and we mean it when we say "Everyone can contribute." We want individuals to thrive in their careers here and using engagement surveys and KPIs to drive our team goal we put people at the forefront.
+- Tie in the other data! Whether it be sales data, engineering data, etc ., connecting the dots between performance and outcomes is very beneficial for the overall health of the organization. We want to understand how we can help team members grow in their journey and help leaders understand the impact of their work.
 
 ## People Analytics Team
 
 The People Analytics team at GitLab is part of the [People Operations, Technology & Analytics team](https://about.gitlab.com/handbook/people-group/people-ops-tech-analytics/). It is responsible for working with stakeholders to develop and report various People Metrics and KPIs for the business. The mission of the People Analytics team is to provide insights and learnnings from data to help inform People decisions being made at all levels of the organization.
+
+## Data Governance
+
+GitLab's commitment to transparency and efficiency is reflected in the Data team's use of technologies like dbt and Snowflake to provide reliable and timely data to company leaders. By adhering to strict data governance and best practices, the team ensures that the data is consistent and easy to work with, while also complying with all applicable laws and regulations.
+
+We have a data governance process in place to ensure that we are only extracting data that we are authorized to access. This involves working closely with our People and Legal teams. We also have a process in place for handling data requests from team members, which involves verifying their identity and ensuring that they have a legitimate business need for the requested data as well as approvals from stakeholders. You can find more information in our [Data Governance handbook page](/handbook/people-group/people-ops-tech-analytics/people-analytics/data-governance/).
 
 ### Main objectives of the People Analytics Team
 
@@ -73,17 +81,6 @@ It is not necessary to have a large suite of tools in order to be an effective P
 - Anonymize sensitive data that is used in metric calculations and reporting to reduce risk whenever possible.
 - Please submit requests and ideas using the issue templates in the [People Analytics project](https://gitlab.com/gitlab-com/people-group/people-operations/people-analytics2/).
 
-## People Data Sources
-
-### Workday
-HR management system.
-### Greenhouse
-Recruiting and Applicant Management System
-### PTO by Deel
-A slack application that captures team member time off
-### CultureAmp
-The application we use to conduct surveys within GitLab.
-
 
 ## General People Analytics Resources
 
@@ -91,3 +88,5 @@ The application we use to conduct surveys within GitLab.
 - [AIHR](https://www.aihr.com/blog/people-analytics-resource-library/) - AIHR is generally a good resource for HR and they have resources specific to People Analytics as well.
 - [HR Predictive Analytics](https://www.koganpage.com/product/predictive-hr-analytics-9780749484446) - A textbook that walks through People Analytics concepts and specific examples (with code!).
 - [re:Work](https://rework.withgoogle.com/subjects/people-analytics/) - While not updated in some time, this is a great introductory resource created by Google to help teams get started with People Analytics.
+
+
