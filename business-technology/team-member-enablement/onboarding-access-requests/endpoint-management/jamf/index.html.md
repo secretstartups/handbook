@@ -151,7 +151,7 @@ Yes. It is safe to install and there is no threat to install the certificate. Wh
 
 [Nudge](https://marketplace.jamf.com/details/nudge) is the current process for encouraging users to keep their macOS up to date. Once a new version of macOS is out and properly tested, a nudge window will pop up for end users to update their OS. Depending on the level of urgency for the given update, the deferral window will run between 3-14 days. Once past the deferral, Users will need to initiate an OS update or the Nudge window will continue to appear for the user. 
 
-<img src="GitLab-Nudge.png" alt="GitLab Nudge" width="400">
+<img src="GitLab-Nudge-Logo.png" alt="GitLab Nudge" width="400">
 
 ### Known issues with Nudge
 
