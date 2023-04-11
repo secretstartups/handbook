@@ -36,8 +36,9 @@ The main definition of terraform is present in the file `meltano_infra/meltnao_g
 
 - meltano_infra/meltano_gke_production.tfvars   -- For production cluster creation 
 - meltano_infra/meltano_gke_staging.tfvars -- For staging environment cluster creation
+- meltano_infra/meltano_gke_testing.tfvars -- For testing environment cluster creation
 
-In order to do the deployment of terraform script you need to be owner at the moment.In this terraform script we are storing the state of the terraform into remote location in GCS in bucket `gitlab-analysis-data-terraform-state/meltano-production/state`. This gives added advantage that any team member with proper permission will be able to update, delete and create the cluster from last time it has been created.
+In order to do the deployment of terraform script you need to be owner at the moment. In this terraform script we are storing the state of the terraform into remote location in GCS in bucket `gitlab-analysis-data-terraform-state/meltano-production/state`. This gives added advantage that any team member with proper permission will be able to update, delete and create the cluster from last time it has been created.
 
 Below is the step which we need to create the kubernetes cluster  and what thing we need to keep in mind when working on staging cluster and production. So that we don't corrupt the remote state. 
 
@@ -50,10 +51,12 @@ To see all the workspace list run the command.
 * default
   production
   staging
+  testing
 ```
 It might show that the current workspace is pointed to default. We don't use default workspace. We have 2 types of workspace 
 1) production 
 2) staging
+3) testing
 
 To which  ever environment you want to change use command `terraform workspace select <workspace name>` to select that environment. For production run `terraform workspace select production`.
 Ensure before running next command that you are in correct workspace i.e. to environment you want to do the update. To do that you can do below
@@ -197,8 +200,26 @@ To reapply in case of adding new variables or change the image name use first de
 kubectl delete  -f gitlab-app.yaml
 ```
 
-At this stage whole of production environment is up and running of meltano in GKE with latest configuration of all tap present in  `meltano.yml` . 
+At this stage whole of production environment is up and running of meltano in GKE with latest configuration of all tap present in  `meltano.yml` .
 
+
+## Working within the testing namespace before deploying on production
+
+A testing namespace has been setup for Meltano, but normally it is not deployed.
+To deploy this namespace, you must make any changes you need to do as part of the issue you are working on to the gitlab-app-testing.yaml.
+Then you can apply this file via kubectl, so that you deploy into the testing environment, running:
+
+`kubectl apply -f gitlab-app-testing.yaml -n testing`
+
+For this to work properly, you need to have a new CloudSQL instance created on GCP and it should contain two databases:
+
+- `airflow-db`
+- `meltano-db`
+
+Currently the testing namespace is configured to work with this CloudSQL instance: `gitlab-analysis:us-west1:meltano-data-ops-testing-v2`, but you can always create a new one from scratch (depending on what you are working on, you might even need to do this as different versions of Meltano might need different databases and sometimes the migration doesn't work as expected.)
+You will also need to change the `dbname` of the configured loaders in `meltano.yml` so that it points to a test Snowflake database, instead of `RAW`. This could be your own database (example: `FLNAME_RAW`), or another test database created specifically for testing your Meltano setup, where the `MELTANO` role has all the neccessary permissions.
+
+Once you have deployed a testing Meltano instance, you can connect to the newly initiated pod (via k9s this is extremely easy, as you can navigate to the testing namespace and locate the pod) and then start testing your taps and targets.
 
 ## Development Guidelines for creation of branch and adding taps. 
 
