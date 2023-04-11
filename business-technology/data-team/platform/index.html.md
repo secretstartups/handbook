@@ -192,6 +192,48 @@ We use Airflow on Kubernetes for our orchestration. Our specific setup/implement
 
 We currently use [Snowflake](https://docs.snowflake.net/manuals/index.html) as our data warehouse. The Enterprise Data Warehouse (EDW) is the single source of truth for GitLab's corporate data, performance analytics, and enterprise-wide data such as Key Performance Indicators. The EDW supports GitLab’s data-driven initiatives by providing all teams a common platform and framework for reporting, dashboarding, and analytics. With the exception of point-to-point application integrations all current and future data projects will be driven from the EDW. As a recipient of data from a variety of GitLab source systems, the EDW will also help inform and drive Data Quality best-practices, measures, and remediation to help ensure all decisions are made using the best data possible.
 
+#### Snowplow nullify columns 
+
+In order not to extract geo data into Snowplow, the following columns were nullified:
+* `geo_zipcode`
+* `geo_latitude`
+* `geo_longitude`
+* `user_ipaddress`
+
+This nullified is applied in Snowplow from `2023-02-01` and the files have the same structure, just column values are set to `NULL`. The Data Team updated old old files and set mentioned columns to `NULL`, and also set columns to `NULL` in Snowflake. This is applicable to the `RAW`, `PREP` and `PROD` layers in Snowflake. 
+
+As desired to avoid a duplicate load of the updated files in the `S3` bucket as per [**Snowflake documentation**](https://docs.snowflake.com/en/user-guide/data-load-snowpipe-ts#unable-to-reload-modified-data-modified-data-loaded-unintentionally), the folder structure is modified from:
+
+```bash
+- gitlab-com-snowplow-events/
+    output/ <---- all files are located here
+        2019/
+        2020/
+        2021/
+        2022/
+        2023/
+            01/
+            02/
+            03/
+```
+to the new structure:
+```bash
+- gitlab-com-snowplow-events/
+    output_nullified/ <---- all files are nullified and update
+        2019/
+        2020/
+        2021/
+        2022/
+        2023/
+            01/
+    output/ <---- new files will land here and will be loaded by Snowpipe
+        2023/
+            02/
+            03/
+```
+
+All new loads in the `S3` bucket will go into the same folder as before `gitlab-com-snowplow-events/output`.
+
 ### Snowflake support portal access 
 
 To get access to snowflake support portal, please follow the below steps.
