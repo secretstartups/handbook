@@ -65,7 +65,7 @@ To achieve GitLab “certified” status, candidates must complete both the onli
 The GitLab use cases help define the categories of related features with a **business value** narrative. In other words, why are customers buying GitLab and what do they think that we offer. You can read more about each of our use cases by navigating to the Product navigation menu at the top of this page or from anywhere on [about.gitlab.com](https://about.gitlab.com/).
 
 * [Source Code Management](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/)
-* [Continuous Integration and Deployment/Delivery (CI/CD)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+* [Continuous Integration and Deployment/Delivery (CI/CD)](https://about.gitlab.com/features/continuous-integration/)
 * [Auto DevOps](https://about.gitlab.com/stages-devops-lifecycle/auto-devops/)
 * [Security and DevSecOps](https://about.gitlab.com/solutions/dev-sec-ops/)
 * [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/)

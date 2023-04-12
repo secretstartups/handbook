@@ -193,7 +193,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
   <iframe src="https://www.youtube.com/embed/IsthhMm64u8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-*  **Learn more**: GitLab Runner is the open source project that is used to run your jobs and send the results back to GitLab. It is used in conjunction with [GitLab CI/CD](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/), the open-source continuous integration service included with GitLab that coordinates the jobs. Find out more by reading the [GitLab Runner documentation](https://docs.gitlab.com/runner/).
+*  **Learn more**: GitLab Runner is the open source project that is used to run your jobs and send the results back to GitLab. It is used in conjunction with [GitLab CI/CD](https://about.gitlab.com/features/continuous-integration/), the open-source continuous integration service included with GitLab that coordinates the jobs. Find out more by reading the [GitLab Runner documentation](https://docs.gitlab.com/runner/).
 
 
 #### What are best practices for a runner infrastructure?
