@@ -61,6 +61,14 @@ Below is a list of the different technical skill sets found on the Sales System 
 4. Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 5. If there is a severity impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as described above as well as share the issues in the `Sales-Support` Slack Channel
 
+## Milestone Review and QA
+
+Before a milestone can be closed, the following checks are performed by Sales Systems leadership:
+
+1. All issues in the Sales Systems project and authored or assigned to a Sales Systems team member should have the Sales Systems Label.
+1. All closed issues with the Sales Systems label should be assigned to a Milestone.
+1. All closed issues in a Milestone need to make sure their SDLC steps below have been completed and have a final deploy label.
+
 ## Salesforce.com Change Management Processes and SDLC (Software Development Life Cycle)
 
 Changes to Salesforce.com come in a variety of formats but all of them will feature the following change managment controls:
