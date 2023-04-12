@@ -9,7 +9,7 @@ description: Process documentation for getting additional attention on a ticket 
 
 ## Overview
 
-This document outlines the process for managing existing support tickets or [internal requests](https://gitlab.com/gitlab-com/support/internal-requests), which, due to business-critical situations, require a resolution faster than what is defined by our [normal Support response times](https://about.gitlab.com/support/#priority-support).
+This document outlines the process for managing support tickets that, due to business-critical situations, require our attention or an initial response more quickly than what is defined in our [standard response time.](https://about.gitlab.com/support/#priority-support).
 
 ## What is a Support Ticket Attention Request (STAR)?
 
