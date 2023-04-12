@@ -36,7 +36,7 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 
 ### Fulfillment Sub-department People Leaders
 
-<% fulfillment_em = %w[jeromezng jameslopez csouthard rhardarson mlunoe shreyasagarwal isandin] %>
+<% fulfillment_em = %w[jeromezng jameslopez csouthard rhardarson shreyasagarwal isandin] %>
 <% fulfillment_em_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_em.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: fulfillment_em_members }) %>
 
@@ -82,33 +82,15 @@ stable_counterparts(role_regexp: /Fulfillment|Fulfillment:/, direct_manager_role
 
 ### Enterprise Applications
 
-<% ent_apps = %w[ccnelson dparker mquitevis jesssalcido] %>
+<% ent_apps = %w[jesssalcido] %>
 <% ent_apps_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| ent_apps.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: ent_apps_members }) %>
 
-### Sales Ops
+### Sales
 
-<% sales_ops = %w[james_harrison jbrennan1 cfarris jdbeaumont jrabbits kreykrey] %>
-<% sales_ops_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales_ops.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: sales_ops_members }) %>
-
-### Enterprise Sales
-
-<% enterprise_sales = %w[mpyle] %>
-<% enterprise_sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| enterprise_sales.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: enterprise_sales_members }) %>
-
-### Commercial Sales
-
-<% commercial_sales = %w[ronell alliemarconi kkutob] %>
-<% commercial_sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| commercial_sales.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: commercial_sales_members }) %>
-
-### Channel Sales
-
-<% channel_sales = %w[mwhodges] %>
-<% channel_sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| channel_sales.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: channel_sales_members }) %>
+<% sales = %w[asipala] %>
+<% sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: sales_members }) %>
 
 ### Billing and Accounts Receivable
 
@@ -124,7 +106,7 @@ stable_counterparts(role_regexp: /Fulfillment|Fulfillment:/, direct_manager_role
 
 ### Support Engineering
 
-<% support_engineering = %w[jlyttle] %>
+<% support_engineering = %w[jlyttle mdunninger kslaats] %>
 <% support_engineering_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| support_engineering.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: support_engineering_members }) %>
 
