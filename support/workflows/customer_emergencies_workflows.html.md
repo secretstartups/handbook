@@ -34,33 +34,69 @@ Take and share screenshots of useful info the customer is showing you. Make sure
 
 **Note:** You may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices.html) to action these requests.
 
-
 ### Determine if the situation qualifies as an emergency
 
 According to our [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1) an emergency exists when a "GitLab server or cluster in production is not available, or otherwise unusable". In the event that the situation does not clearly qualify under the strict definition of emergency, an exception may be granted. See more about the [criteria for exceptions](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria) in the [Emergency Exception Workflow](/handbook/support/workflows/emergency_exception_workflow.html).
 
-If the information presented in the ticket is insufficient for determining whether the situation qualifies as an emergency or for an exception, it is best to proceed asynchronously until that determination can be made. Please send the customer a message through the ticket:
+| When you decide the request... | Then apply the Zendesk macro... | and communicate to the customer... |
+| ------------------------------ | ------------------------------- | ---------------------------------- |
+| ...meets the [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1), | `General::Emergency::Strict Definition` | ...your plan to work the emergency. |
+| ...qualifies under one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria), | `General::Emergency::Exception` | ...that the situation is being treated as an emergency as a courtesy. |
+| ...needs more information to allow us to determine whether it qualifies as an emergency, | `General::Emergency::Needs more info` | ...that you [will proceed asynchronously](#communicating-that-you-need-more-info) until that determination can be made. |
+| ...does not meet the criteria for an [emergency](https://about.gitlab.com/support/definitions/#severity-1) or an [exception](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria), | `General::Emergency::Not an Emergency` | ...that their situation [does not qualify for emergency service](#communicate-the-priority-downgrade). |
 
-1. explaining that in order to correctly categorise the situation, you would like to understand more about the effect it is having on their ability to work, or meet their business objectives
-2. asking for the specific additional context that you need
+#### Communicating that you need more info
 
+When an emergency request ticket does not contain information sufficient to
+allow you to determine whether the situation qualifies as an emergency or for
+an exception, send the customer a message through the ticket:
 
-#### Communicate if the situation qualifies as an emergency or as an exception
+1. explaining that in order to correctly categorise the situation, you would
+   like to understand more about the effect it is having on their ability to
+   work or to meet their business objectives (*i.e.* business impact)
+2. asking for the specific additional context that you require in order to
+   understand what problem they are facing and what help they need
 
-If an exception is warranted, articulate to the customer that the situation is being treated as an emergency as a courtesy.
+Once you have enough information to make a determination, use one of the other macros to tag the ticket with the final qualification determination. Note that the `Needs more info` tag will intentionally remain attached.
 
-#### Tag the ticket appropriately
+#### Handling an emergency downgrade
 
-Use one of the following macros to tag the ticket with the qualification determination:
+##### Change the ticket priority
 
-1. `General::Emergency::Strict Definition` - for emergency requests where the situation does meet the [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1).
-1. `General::Emergency::Exception` - for emergency requests that qualify under one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria) in the [Emergency Exception Workflow](/handbook/support/workflows/emergency_exception_workflow.html).
-1. `General::Emergency::Needs more info` - for emergency requests that do not contain enough information to allow us to determine if they meet the emergency or exception criteria. Once you have enough information to make a determination, use one of the other macros to tag the ticket with the final qualification determination. Note that the `Needs more info` tag will intentionally remain attached.
-1. `General::Emergency::Not an Emergency` - For emergency requests where the situation does not qualify under [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1) nor one of our [exception criteria](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria).
+Using our [Definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact),
+select the most appropriate actual priority for the ticket, and make the change
+to the ticket. If the customer submitted the emergency request related to an
+existing ticket, close the emergency ticket when you deliver the downgrade
+message, and be sure the existing ticket has the priority you selected.
+
+##### Communicate the priority downgrade
+
+It's important that we deliver the downgrade message as carefully and
+thoughtfully as possible. Customers who submit an emergency request are often
+already in a static of panic, high stress, high pressure, or a combination of
+those. If you feel comfortable in delivering the message to the customer, you
+are encouraged to do so. If you prefer to have a manager's assistance, please
+[contact the on-call Support Manager](#optional-contact-the-on-call-support-manager).
+
+The important details to include in the message are:
+
+1. How we define an [emergency situation](https://about.gitlab.com/support/definitions/#severity-1)
+1. To what severity level we will be resetting their ticket, and why (see
+   [Definitions of support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact))
+1. If there is an existing ticket, indicate that you will close the emergency
+   ticket and continue work in the existing one
+1. What kind of response they should then expect for starting work on
+   the ticket
+   - If the customer's situation is [not quite yet an emergency, but may quickly become one](#situations-that-might-or-might-not-be-emergencies),
+     indicate that a support engineer will begin working on the ticket
+     immediately as a high priority
+   - Otherwise, indicate that a support engineer will respond according to
+     normal, non-emergency SLA
+1. In which ticket the non-emergency work will proceed
 
 ### (Optional) Contact the on-call Support Manager
 
-If at any point you would like advice or help finding additional support, go ahead and [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager). The on-call manager is there to support you. They can locate additional Support Engineers if needed. This can make it easier to handle a complex emergency by having more than one person on the call, so you can share responsibilities (e.g., one person takes notes in Slack while the other communicates verbally on the call). Managers are on-call during weekends, so you can page for help at any time.
+If at any point you would like advice or help finding additional support, [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager). The on-call manager is there to support you. They can locate additional Support Engineers if needed. This can make it easier to handle a complex emergency by having more than one person on the call, so you can share responsibilities (e.g., one person takes notes in Slack while the other communicates verbally on the call). Managers are on-call during weekends, so you can page for help at any time.
 
 ### Respond to PagerDuty alerts
 
@@ -70,18 +106,14 @@ If at any point you would like advice or help finding additional support, go ahe
 1. Open the Zendesk ticket.
     1. Most PagerDuty notification formats provide a direct link to the ticket.
     1. Alternatively, use Zendesk search with the term `priority: urgent` to find the ticket.
-1. Verify that the requester is a customer with emergency support entitlement:
-   1. If the customer's email address is not associated with an org in Zendesk,
-      follow the normal "needs-org" process and include an explanation that you
-      cannot deliver emergency assistance until you have connected the user to
-      an account that is currently entitled to priority support. If you learn
-      that they are a free user, mark the ticket `solved`.
-   1. If the customer is associated with an org in Zendesk, verify that their
-      subscription is Premium or above. If it is not, lower the priority of
-      the ticket and inform the customer kindly that their subscription does
-      not include emergency support.
+1. Verify that the requester has an active subscription at Premium level or
+   above, and is therefore entitled to emergency support. If they are not,
+   lower the priority of the ticket and inform the customer kindly that their
+   subscription does not include emergency support.
 1. Work with the on-call Support Manager to [determine if the situation qualifies as an emergency](#determine-if-the-situation-qualifies-as-an-emergency)
-   1. Create a Public Comment in the ticket acknowledging receipt of the emergency request and asking for any specific information that you need to be able to determine if the situation qualifies as an emergency or for an exception.
+   1. Create a Public Comment in the ticket acknowledging receipt of the
+      emergency request and communicating according to the qualification
+      determination.
    1. Offer a Zoom call to the customer if appropriate to the reported situation. A SaaS emergency related to a public incident published on the status page, for example, would not warrant a call.
    * Example of self-managed emergency ticket which was resolved without a call: https://gitlab.zendesk.com/agent/tickets/148028
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.

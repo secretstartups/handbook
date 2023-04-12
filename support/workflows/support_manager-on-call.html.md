@@ -35,6 +35,8 @@ The [Support Engineer on-call](/handbook/support/on-call/) is the first responde
 
 - Act as the next-tier escalation point for emergency pages that get missed (you will be notified automatically by PagerDuty).
 - Respond to new emergency requests by helping the on-call engineer [determine if the situation qualifies as an emergency](/handbook/support/workflows/customer_emergencies_workflows.html#determine-if-the-situation-qualifies-as-an-emergency) or should be [granted an exception](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria)
+- Assist the on-call engineer in difficult communications with the customer,
+  such as [telling them that their request does not qualify as an emergency](./customer_emergencies_workflows.html.md#communicate-the-priority-downgrade)
 - Be aware of ongoing emergencies and assist or lead in our initial response as appropriate
 - During an emergency: find additional staff for subject-matter expertise; replace the on-call engineer if needed; lead any Zoom call(s) as needed; hand off the emergency to the next on-call manager.
 - Find additional staff when there are [multiple emergencies](/handbook/support/on-call/#handling-multiple-simultaneous-emergencies).
