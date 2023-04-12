@@ -281,6 +281,27 @@ The configuration file that the Data Team uses can be found in the [GitLab Data 
             second_table
         ...
     ```
+- Also prefer explicit join statements for `LATERAL FLATTEN`. However, it should be noted that the current code-base does not consistently adhere to this practice.
+
+    ```sql
+        -- Preferred
+        SELECT
+            data.value,
+            source.uploaded_at
+        FROM source
+        INNER JOIN LATERAL FLATTEN(input => source.jsontext['data']) AS data
+        ...
+
+        -- vs
+
+        -- Not Preferred
+        SELECT
+            data.value,
+            source.uploaded_at
+        FROM source,
+            LATERAL FLATTEN(input => source.jsontext['data']) AS data
+        ...
+    ```
 
 
 ### Common Table Expressions (CTEs)
