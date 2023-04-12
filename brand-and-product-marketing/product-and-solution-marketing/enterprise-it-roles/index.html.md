@@ -112,7 +112,7 @@ Related Reading:
           - [Geographically distributed teams](/features/gitlab-geo/)
           - [High availability development](https://docs.gitlab.com/ee/administration/reference_architectures/)
           - [Auto DevOps](/stages-devops-lifecycle/auto-devops/)
-          - [CI/CD](/stages-devops-lifecycle/continuous-integration/)
+          - [CI/CD](/features/continuous-integration/)
           - [Product page](/stages-devops-lifecycle/)
           - [Comparison page](/competition/)
           - [Solutions page](/solutions/), depending upon unique challenges/interests
@@ -147,7 +147,7 @@ Related Reading:
             - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
             - [GitLab home page](https://about.gitlab.com)
             - [ROI](/calculator/roi/)
-            - [CI/CD](/stages-devops-lifecycle/continuous-integration/)
+            - [CI/CD](/features/continuous-integration/)
             - [Concurrent DevOps](/topics/concurrent-devops/)
             - [Cloud Transformation](/solutions/cloud-native/)
             - [Google Cloud Platform](/partners/technology-partners/google-cloud-platform/)

@@ -248,7 +248,7 @@ For up-to-date list of value at Ultimate, visit [Why Premium](https://about.gitl
 {: .alert .alert-gitlab-orange}
 
 ### Related Pages  {#resource-page}
-- Continuous integration ([Sales Resource Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/), [Customer Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/))
+- Continuous integration ([Sales Resource Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/), [Customer Solution Page](https://about.gitlab.com/features/continuous-integration/))
 - Continuous Delivery ([Sales Resource Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/), [Customer Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-delivery/))
 - Source Code Management ([Sales Resource Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/), [Customer Solution Page](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/))
 - GitOps ([Sales Resource Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/), [Customer Solution Page](https://about.gitlab.com/solutions/gitops/))

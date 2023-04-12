@@ -56,7 +56,7 @@ Within the core DevOps solutions, are capabilities. They may also be referred to
 
 Examples include:
 * **[Source Code Management](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/) (SCM), also referred to as Version Control and Collaboration (VCC)** does not have a value play. It is driven by web-selling alone. It does require messaging, web pages, and supporting assets, but is not typically sold by the sales team.
-* **[Continuous integration](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)**    
+* **[Continuous integration](https://about.gitlab.com/features/continuous-integration/)**    
 * **[DevSecOps](https://about.gitlab.com/solutions/dev-sec-ops)**  
 * **[GitOps](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/)** (infrastructure automation) has been a solution/use case, with an accompanying sales play. GitOps has been folded into the Automated software delivery solution.
  

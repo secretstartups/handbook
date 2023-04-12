@@ -9,7 +9,7 @@ title: "DevOps Solution Resource: Continuous Integration"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Looking for a customer-facing overview of GitLab's Continuous Integration (CI) capabilities? See the [CI Solution](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/).
+# Looking for a customer-facing overview of GitLab's Continuous Integration (CI) capabilities? See the [CI Solution](https://about.gitlab.com/features/continuous-integration/).
 
 The page below is intended to align GitLab sales and marketing efforts with a single source of truth for our go-to-market efforts around DevSecOps.
 
@@ -33,7 +33,7 @@ CI makes software development easier, faster, and less risky for developers. By 
 - **Time to restore service:** Automated pipelines enable fixes to be deployed to production faster reducing Mean Time to Resolution (MTTR)
 - **Change failure rate:** Early automated testing greatly reduced the number of defects that make their way out to production.
 
-[GitLab CI/CD](/stages-devops-lifecycle/continuous-integration/) comes built-in to GitLab's complete DevOps platform delivered as a single application. There's no need to cobble together multiple tools and users get a seamless experience out-of-the-box.
+[GitLab CI/CD](/features/continuous-integration/) comes built-in to GitLab's complete DevOps platform delivered as a single application. There's no need to cobble together multiple tools and users get a seamless experience out-of-the-box.
 
 ## Personas
 
