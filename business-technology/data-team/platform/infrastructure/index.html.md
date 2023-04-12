@@ -738,6 +738,10 @@ securityContext:
 
 There's a once-daily CI job that executes in the [version project](https://gitlab.com/gitlab-org/gitlab-services/version.gitlab.com/-/tree/main) as well as the [license project](https://gitlab.com/gitlab-org/license-gitlab-com/) that runs the database export [version script](https://gitlab.com/gitlab-services/version-gitlab-com/-/blob/master/scripts/data/export_data.sh) or [license script](https://gitlab.com/gitlab-org/license-gitlab-com/-/blob/master/scripts/data/export_data.sh) and exports CSV files to a GCS bucket.  These files are named `gitlab-version-{table_name}-{monday_of_week}` or `gitlab-license-{table_name}-{monday_of_week}` respectively.
 
+The explanation for `version_db` timestamp columns as it is vital to fully understand their meaning:
+1. `recorded_at` its time when ServicePing was generated on the client side, we receive [usage_data.rb](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/usage_data.rb#L51-51) it with payload
+2. `created_at` and `updated_at` are standard Rails datetime columns. In the case of  table `usage_data` and `raw_usage_data` they will always hold the same values, as we don't upsert record, always create new and reflect the timestamp when the payload was received.
+
 #### Snowflake Stage
 
 The GCS bucket where the version DB CSV files are being exported is setup in Snowflake as the stage `raw.version_db.version_dump`.  The GCS bucket where the license DB files are exported is setup as the stage `raw.license_db.license_dump`. This means from Snowflake, we can list all of the files, copy the data in the files into tables, and even delete files.
