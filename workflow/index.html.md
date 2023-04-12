@@ -84,6 +84,13 @@ If a broken `master` is blocking your team (such as creating a security release)
 
 The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) is the triage DRI for monitoring, identification, and communication of broken `master` incidents.
 
+#### Definitions
+
+- Flaky test: A test that fails, then succeeds when the CI job running the test is retried.
+- Broken master:
+  - A test that fails even when the CI job running the test is retried.
+  - A failing test that can be reproduced locally on the `master` branch.
+
 #### Triage DRI Responsibilities
 
 1. Monitor
@@ -108,8 +115,10 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
       * [Create a revert MR directly](#reverting-a-merge-request) to save some time in case we need to revert down the line.
         * If you are reverting an MR that performs a database migration, you need to follow the [Deployment blockers process](https://about.gitlab.com/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) to prevent the migration from proceeding to deploy and running on staging and production. 
         * If the migration is executed in any environments, communicate to the release managers in `#releases` channel and discuss whether it's appropriate to create another migration to roll back the first migration or turn the migration into a no-op by following [Disabling a data migration steps](https://docs.gitlab.com/ee/development/database/deleting_migrations.html#how-to-disable-a-data-migration).
-   * If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job), create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
-      * Create a new Timeline event in the incident with a link to the created issue.
+   * If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job):
+      * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test.
+      * If a flaky test issue already exists, add a comment in it with a link to the failed broken master incident and/or failed job.
+      * If a flaky test issue doesn't exist, create an issue from the `New issue` button in top-right of the failing job page (that will automatically add a link to the job in the issue), and apply the `Broken Master - Flaky` description template.
       * Add the appropriate labels to the main incident:
 
         ```shell
