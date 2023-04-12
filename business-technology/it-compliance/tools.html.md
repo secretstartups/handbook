@@ -16,7 +16,7 @@ description: "IT Compliance and Security"
 
 ### Tools IT Security and Compliance Use
 
-These are the tools currently managed and in use by the IT Compliance and Security teams. For access or questions, please reach out in the #it_compliance_security_help Slack channel.
+These are the tools currently managed and in use by the IT Compliance and Security teams. For access or questions, please reach out in the #it_security_help Slack channel.
 
 | Tool | Description | User Guide |
 | :--- | :---------- | :--------: |
