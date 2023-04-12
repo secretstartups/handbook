@@ -47,20 +47,13 @@ For security purposes, support will not process 2FA resets for users who are add
 In order for a SaaS user to be a candidate for the [workflow](#workflow), one of the following is true:
 
 1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
+1. The user is an [Enterprise User](gitlab-com_overview.html#enterprise-users).
+    - Note: Top-level group owner or user can submit the ticket. If the user is not a member of the group, [owner vouch](#authenticating-an-owner-vouch) is required, and classification is still Red based on the status of the paid namespace.
 1. The user is the primary billing contact on a current invoice for a SaaS purchase.
 1. GitLab team member (account managers, CSMs or others) collaborate with the holder of this account in an account management project.
 1. The user account is required for SSO access to Customers Portal to manage a paid subscription - see: [Conditions for 2FA Reset when account is used to access Customers Portal](#conditions-for-2fa-reset-consideration).
 
 More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
-
-While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
-
-1. Primary email of the account must match the company domain.
-1. User must still prove account ownership following the [workflow](#workflow).
-   - Include the paid namespace when determining the data classification level.
-1. [Owner vouch](#authenticating-an-owner-vouch) is required.
-   - Do not associate the user to the organization until Owner vouch process is completed.
-1. If the user is classed as an [Enterprise user](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#enterprise-users) the user or an owner of the paid group raises the ticket.
 
 ### Conditions for 2FA Reset when account is used to access Customers Portal
 
