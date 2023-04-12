@@ -45,7 +45,7 @@ As we build GitLab into one of the world’s best workplaces, we will look to in
 
 1. **Everyone can contribute**
 
-    - We’ve got big ambitions to make GitLab the [top DevOps platform](/solutions/devops-platform/) and need skilled contributors to get us there.
+    - We’ve got big ambitions to make GitLab the [top DevSecOps platform](/solutions/devops-platform/) and need skilled contributors to get us there.
     - Our [mission](/company/mission/) makes it clear that we believe in a world where everyone can contribute. We make that possible at GitLab by [running our operations](/handbook/using-gitlab-at-gitlab/) on our product. This means everything is read-write by default.
     - We operate around the world. We welcome people of all backgrounds to contribute to our success and have built [Diversity, Inclusion, and Belonging programs](/company/culture/inclusion/) and practices into all parts of our company.
     
@@ -57,7 +57,7 @@ As we build GitLab into one of the world’s best workplaces, we will look to in
 
 1. **We foster a values-led, remote culture**
 
-    - Our [CREDIT values](/handbook/values/) drive a culture that’s built to operate in an [all-remote environment](/company/culture/all-remote/guide/). Because we’re all-remote, we aim to stay at the forefront of best practices & building culture.
+    - Our [CREDIT values](/handbook/values/) drive a culture that’s built to operate in an [all-remote environment](/company/culture/all-remote/guide/). Because we’re all-remote, we aim to stay at the forefront of best practices & building culture in a globally distributed environment.
     - Our [handbook-led approach](/company/culture/all-remote/handbook-first-documentation/) and async working style highlight our values-led, remote culture.
 
 ## Key ways we bring this vision to life
@@ -90,7 +90,7 @@ As we consider the ways in which we will bring our value proposition to life, we
 
 We strive to be as transparent as possible, but this section is only for GitLab team members.
 
-[FY23 Talent Brand Go-to-market strategy and roadmap](https://docs.google.com/presentation/d/1w0520l2sYW_a9kR48t1Vu5lvHymXsXCU36yz28Lc378/edit?usp=sharing)
+[FY24 Talent Brand Go-to-market strategy and roadmap](https://docs.google.com/presentation/d/1w0520l2sYW_a9kR48t1Vu5lvHymXsXCU36yz28Lc378/edit?usp=sharing)
 
 
 ## Talent brand resources
