@@ -130,7 +130,7 @@ At this stage, do the following:
 
 ##### No Response
 
-If the user fails to respond within 7 calendar days, apply the `Account Verification Failed` and `Deletion Request:: Denied` labels to the issue, and close it using the following snippet:
+If the user fails to respond within 7 calendar days, apply the `Account Verification Failed` and `deletion request:: denied` labels to the issue, and close it using the following snippet:
 
 <details>
   <summary markdown="span">Request Closed - No Response</summary>
