@@ -16,7 +16,7 @@ description: "This page is an overview of the processes each party of the search
    - [Candidate Experience Specialist Responsibilities](/handbook/hiring/talent-acquisition-framework/coordinator/)
    - [Candidate Management Processes](/handbook/hiring/talent-acquisition-framework/candidate-management/)
    - [Evergreen Requisitions](/handbook/hiring/talent-acquisition-framework/evergreen-requisitions/)
-   - [Executive Search Process](/handbook/hiring/talent-acquisition-framework/executive-search-process)
+   - [Executive Search](/handbook/hiring/talent-acquisition-framework/executive-search)
    - [Hiring Manager Processes](/handbook/hiring/talent-acquisition-framework/hiring-manager/)
    - [Job Offer Process](/handbook/hiring/talent-acquisition-framework/offer-process/)
    - [How to Complete a Contract - CES Process](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/)
