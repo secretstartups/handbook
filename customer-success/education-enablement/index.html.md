@@ -98,7 +98,7 @@ To align our education and enablement with our product, each of the topics below
 - [Verify Stage Direction and Roadmap](https://about.gitlab.com/direction/ops/#verify)
 - [CI YouTube Playlist](https://youtube.com/playlist?list=PL05JrBw4t0Ko-mJZLo2uF3aQQuBfBaSKB)
 ##### Intermediate Level
-- [Continuous Integration (CI) Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+- [Continuous Integration (CI) Feature Overview](https://about.gitlab.com/features/continuous-integration/)
   - [CI/CD Feature Docs](https://docs.gitlab.com/ee/ci/)
   - [CI/CD Concepts Docs](https://docs.gitlab.com/ee/ci/introduction/)
   - [CI/CD Pipeline Docs](https://docs.gitlab.com/ee/ci/pipelines/)
@@ -142,7 +142,7 @@ To align our education and enablement with our product, each of the topics below
 - [CI/CD eBook](https://about.gitlab.com/resources/ebook-single-app-cicd/)
 - [CI/CD YouTube Demo Overview](https://about.gitlab.com/blog/2017/03/13/ci-cd-demo/)
 ##### Intermeiate Level
-- [Continuous Delivery Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+- [Continuous Delivery Feature Overview](https://about.gitlab.com/features/continuous-integration/)
   - [See verify stage for full list of CI/CD resources](#verify-stage)
 - [Pages Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/pages/)
   - [Pages Feature Direction and Roadmap](https://about.gitlab.com/direction/create/editor/pages/)
