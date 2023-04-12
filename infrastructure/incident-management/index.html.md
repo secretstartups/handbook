@@ -84,7 +84,7 @@ These definitions imply several on-call rotations for the different roles. Note 
 
 When paged, the Incident Managers have the following responsibilities during a Sev1 or Sev2 incident and should be engaged on these tasks immediately when an incident is declared:
 
-1. In the event of an incident which has been triaged and confirmed as a clear Severity 1 impact, notify Infrastructure leadership via PagerDuty [Infrastructure Leadership Escalation](https://gitlab.pagerduty.com/escalation_policies#PO2KR8R) This notification should occur 24/7.
+1. In the event of an incident which has been triaged and confirmed as a clear Severity 1 impact, notify Infrastructure Leadership via PagerDuty, by typing `/pd trigger` in Slack. In the "Create New Incident" dialog, select "Infrastructure Leadership" as the Impacted Service with a link to the incident in the Description as well as a reminder that Infrastructure Leadership should follow the [process for Infrastructure Leadership Escalation](/handbook/engineering/infrastructure/incident-management/#infrastructure-leadership-escalation). This notification should happen 24/7.
 1. Responsible for posting regular status updates in the `Current Status` section of the incident issue description. These updates should summarize the current customer impact of the incident and actions we are taking to mitigate the incident. This is the most important section of the incident issue, it will be referenced to status page updates, and should provide a summary of the incident and impact that can be understood by the wider community.
 1. Ensure that the incident issue has all of the [required labels](#required-labeling) applied.
 1. If present, ensure that the `Summary for CMOC notice / Exec summary` in the incident description is filled out as soon as possible.
@@ -96,7 +96,7 @@ When paged, the Incident Managers have the following responsibilities during a S
 1. If applicable, coordinate the incident response with [business contingency activities](/handbook/business-technology/gitlab-business-continuity-plan/).
 1. If there is a `~review-requested` label on the incident, after the incident is resolved, the Incident Manager is the DRI of the [post-incident review](/handbook/engineering/infrastructure/incident-review/). The DRI role can be delegated.
 1. Following the first significant Severity 1 or 2 incident for a new Incident Manager, schedule a feedback coffee chat with the Engineer On Call, Communications Manager On Call, and (optionally) any other key participants to receive actionable feedback on your engagement as Incident Manager.
-
+1. For all Severity 1 and Severity 2 incidents that are communicated on the [GitLab.com status page](https://status.gitlab.com), [initiate an async incident review](/handbook/engineering/infrastructure/incident-review/#process-for-asynchronous-reviews) and inform the team that owns the root cause that they will need to initiate [the Feature Change Lock process](/handbook/engineering/#feature-change-locks).
 The Incident Manager is the DRI for all of the items listed above, but it is expected that the IM will do it with the support of the EOC or others who are involved with the incident. If an incident runs beyond a scheduled shift, the Incident Manager is responsible for handing over to the incoming IM.
 
 The IM won't be engaged on these tasks unless they are paged, which is why the default is to page them for all Sev1 and Sev2 incidents.
@@ -174,6 +174,7 @@ If assistance is needed to determine severity, EOCs and Incident Managers are en
 #### Infrastructure Leadership Escalation
 
 During a verified Severity 1 Incident the IM will page for Infrastructure Leadership.  This is not a substitute or replacement for the active Incident Manager. The Infrastructure Leadership responsibilities include:
+
 1. Overall evaluation of the incident and further validation of Severity.
 1. Assistance with further support from other teams, including those outside of Engineering (as appropriate)
 1. Posting a notice to e-group slack channel. This notice does not have to be expedited, but should occur once there is a solid understanding of user impact as well as the overall situation and current response activities.  The e-group notice should be in this format
