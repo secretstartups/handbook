@@ -52,7 +52,7 @@ For executive level searches, we have a Talent DRI and Hiring DRI.
 
 The Director, Executive Search will be made aware of a job opening in one of two ways:
 * Net New Planned Headcount: The role will be defined in the headcount plan received from finance, which includes a target start date.
-* Backfill Headcount: The PBP team will make TA leadership aware of the backfill. The DIrector, Executive Search will then be responsible for confirming headcount approval and target start date with finance.
+* Backfill Headcount: The PBP team will make TA leadership aware of the backfill. The Director, Executive Search will then be responsible for confirming headcount approval and target start date with finance.
 
 No role should be assigned to a Talent DRI before headcount approval has been confirmed with finance.
 
@@ -64,7 +64,7 @@ If capacity on the executive search team is lacking, a senior recruiter with fun
 
 Based on the target start date, the Talent DRI will work backwards by estimating time to fill and determine when to start the recruiting process.
 
-At this stage, The Talent DRI is also responsible for [creating the req](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/#sts=Requisition%20Creation%20Process) in Greenhouse.
+At this stage, The Talent DRI is also responsible for [creating the Greenhouse req](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/#sts=Requisition%20Creation%20Process).
 
 ## Role Qualification and Intake
 
@@ -76,9 +76,9 @@ As part of the role qualification process, the Talent DRI and Hiring DRI will:
 * Select the interview panel and associated competencies
 * Decide which recruiting strategy is best suited for the open role 
 
-In most cases, the role qualification and preparation can be done async. However, in certain situations where an external vendor is involved, the Talent DRI and Hiring DRI may choose to connect live to discuss.
+In most cases, the role qualification and preparation can be done async. However, in certain situations where an external vendor is involved, the Talent DRI and Hiring DRI may choose to connect in a sync to discuss.
 
-The Talent DRI will then take the lead on next steps in the recruitment process. In the event that a vendor is required (see decision parameters below), the Talent DRI will lead the process. Read more about this in External Vendor Selection.
+The Talent DRI will then take the lead on next steps in the recruitment process. In the event that a vendor is required (see decision parameters below), the Talent DRI will lead the process. Read more about this in External Vendor Selection(#external-vendors).
 
 **Intake Meeting**
 
