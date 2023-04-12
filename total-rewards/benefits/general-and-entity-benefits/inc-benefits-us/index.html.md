@@ -38,29 +38,35 @@ Please see additional information on the 2023 US Benefit Plans:
 
 * Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits and a the most recent [Summary of Material Modifications](https://drive.google.com/file/d/1_j61NVNqUQ0A4RBWM3ihooRuf094QdWr/view?usp=sharing) from Jan 1, 2022. Please review the [2023 Annual Rights and Notices](https://drive.google.com/file/d/1ku6hO8_ckJL49MLqOfFchIq_L4GblksZ/view?usp=sharing)
 
+See the 2023 [HDHP](https://drive.google.com/file/d/1RZb_Xm2lMs2ow4li4mdC8mpksz2ye3g2/view?usp=sharing), [PPO](https://drive.google.com/file/d/1OrHQCpswDPsq1IgDxQBo5BpUqGWflyEp/view?usp=sharing), and [EPO](https://drive.google.com/file/d/1NkwU1QH5leHND8Qwn1eeeVfAxSOQYCoa/view?usp=sharing) Summary Plan Descriptions for reference. 
+
+* [Transparency in Coverage](https://www.cigna.com/legal/compliance/machine-readable-files) Starting July 1, 2022, this link leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data
+
+**Illinois Team Members:** In accordance to the Illinois Consumer Coverage Disclosure Act, please find the [2023 Coverage Summary](https://drive.google.com/file/d/1LUjsk4eWyQIktMR1li_Mp0KIKQ2ZKarF/view?usp=sharing) for the essential health benefits available to you. 
+
+
+
 ### Open Enrollment
 
-GitLab’s US Benefits Open Enrollment for Calendar Year 2023 will take place from 2022-10-31 through 2022-11-11. This year will be a passive enrollment, which means that if you do not wish to make changes to your health benefits (medical, dental and vision), you do not have to re-enroll for 2023; your 2022 elections will automatically roll over, with the exception of Flexible Spending Accounts (FSAs), which you must actively (re)enroll in every year. We are staying with our current carriers (Cigna, Kaiser, etc).
+GitLab’s US Benefits Open Enrollment for Calendar Year 2023 took place on 2022-10-31 through 2022-11-11. 2023 Open Enrollemnt was a passive enrollment, which meant that if you did not wish to make changes to your health benefits (medical, dental and vision), you did not have to re-enroll for 2023; your 2022 elections will automatically roll over, with the exception of Flexible Spending Accounts (FSAs), which you must actively (re)enroll in every year. We are staying with our current carriers (Cigna, Kaiser, etc).
+Our Open Enrollment dates for the 2024 Calendar Year will be announced later this year, around fall timing (annually).
 
 Please take note of the updated premium rates for the Cigna and Kaiser plans listed in the [2023 US Benefits Guide](https://drive.google.com/file/d/1vwdEJIdqogqbfFpwcRVC1cHcjH4SsckR/view?usp=sharing). 
 
+
 ## 2022 Plan Year
 
-For the 2022 Plan year GitLab covers **100% of team member contributions and 66% for spouse, dependents, and/or domestic partner** of premiums for medical, dental, and vision coverage. Plan rates are locked through December 31, 2022. 
+For the 2022 Plan year GitLab covered **100% of team member contributions and 66% for spouse, dependents, and/or domestic partner** of premiums for medical, dental, and vision coverage. Plan rates were locked through December 31, 2022. 
 
-Please see additional information on the 2022 US Benefit Plans: 
-
-* Review the [2022 US Benefits Guide](https://drive.google.com/file/d/1vZD_4CqeQHsxUbrjsdWb0GRgieeOxi0K/view) for full plan details and updated plan rates. 
-
-* Watch the [2022 US Benefits Open Enrollment Video](https://www.brainshark.com/1/player/willis?pi=zHWzlwS5CzaInCz0&r3f1=&fb=0) for a full review of the Benefit Plans. 
-
-* Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits and a the most recent [Summary of Material Modifications](https://drive.google.com/file/d/1_j61NVNqUQ0A4RBWM3ihooRuf094QdWr/view?usp=sharing) from Jan 1, 2022. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
+* For your reference, please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits and a the most recent [Summary of Material Modifications](https://drive.google.com/file/d/1_j61NVNqUQ0A4RBWM3ihooRuf094QdWr/view?usp=sharing) from Jan 1, 2022. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
 
 * GitLab offers Mental Wellnesss Services through [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
 
 * [Transparency in Coverage](https://www.cigna.com/legal/compliance/machine-readable-files) Starting July 1, 2022, this link leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data
 
-**Illinois Team Members:** In accordance to the Illinois Consumer Coverage Disclosure Act, please find the [2022 Coverage Summary](https://drive.google.com/file/d/1TpmjxTN15sauveW5VqN3D18gP1YwoOgi/view?usp=sharing) for the essential health benefits available to you. See the [HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing), [PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing), and [EPO](https://drive.google.com/file/d/1tHFEoBDaI1O4yluL9U-X7RBWG8JZOdOS/view?usp=sharing) Summary Plan Descriptions for reference. 
+**Illinois Team Members:** In accordance to the Illinois Consumer Coverage Disclosure Act, please find the [2022 Coverage Summary](https://drive.google.com/file/d/1TpmjxTN15sauveW5VqN3D18gP1YwoOgi/view?usp=sharing) for the essential health benefits available to you. 
+
+See the 2022 [HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing), [PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing), and [EPO](https://drive.google.com/file/d/1tHFEoBDaI1O4yluL9U-X7RBWG8JZOdOS/view?usp=sharing) Summary Plan Descriptions for reference. 
 
 
 **2021 Plan Year** 
