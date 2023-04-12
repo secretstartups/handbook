@@ -371,8 +371,9 @@ Contact Ownership follows the rules as laid out below. This contact ownership ca
 
 ### Changing Lead Ownership in Salesforce
 
-Everyone is able to change the owner of a Lead as long as they are either changing the Lead Owner to match the Account Owner or they are the current Lead owner.
-Lead ownership is set by LeanData due to specific rules by segment and by region/territory which may include round robin. Any lead unable to be routed, is routed to an Sales Development Queue for the Sales Development management team to determine proper ownership. For the most part, Leads are owned by BDRs.
+Lead ownership is set by LeanData due to specific rules based on lead status, segment and by region/territory which may include round robin. Lead ownership changes are based on role permissions. Currently a lead owner can change the lead to a new owner. If the lead is owned by a queue, ownership can be changed but should only be done if activity is going to be immediately placed on the lead and should be done as part of a specific account strategy. SDR/BDR Team Leads as well as SDR/BDR Leadership are able to change ownership of leads.
+
+The majority of leads are owned by the related status queue or the sales development team.
 
 ### Default Ownership
 
