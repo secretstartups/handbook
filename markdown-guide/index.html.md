@@ -2278,7 +2278,7 @@ Anything else you know of and is not described here? Any new magic? Any trick? P
 [source-img]: https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images
 [ssg]: https://www.staticgen.com/
 [ssgs-post-raw]: https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/sites/uncategorized/source/blog/blog-posts/2016-06-10-ssg-overview-gitlab-pages-part-2.html.md
-[ssgs-post]: /2016/06/10/ssg-overview-gitlab-pages-part-2/
+[ssgs-post]: /blog/2016/06/10/ssg-overview-gitlab-pages-part-2/
 [stackedit]: https://stackedit.io/
 [sublime]: https://www.sublimetext.com/3
 [table generator]: http://www.tablesgenerator.com/html_tables
