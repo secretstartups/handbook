@@ -575,48 +575,30 @@ The `default` instance logs are stored in `gs://gitlab-airflow/prod`, the `testi
 
 The `dbt_image` directory contains everything needed for building and pushing the `data-image`. If a binary needs to be installed it should be done in the Dockerfile directly, python packages should be added to the `requirements.txt` file and pinned to a confirmed working version. As this image is used by Data Analysts there should not be much more than dbt in the image.
 
+
 ### Creating New Images
 {: #new-images}
 
-#### How Creating Images works
-Docker images are only built and pushed to Container Registry when the respective commit has been **tagged**. 
+#### How Creating Images Works
+Docker images are built and pushed to the [Container Registry](https://gitlab.com/gitlab-data/data-image/container_registry) in two scenarios:
+1. When you create an `MR` and commit a change to either `requirements.txt` or `Dockerfile`. These images are meant to be used for testing prior to merging.
+1. When you [tag](https://gitlab.com/gitlab-data/data-image/-/tags) a commit. This should only be done for commits merged to master.
 
-Any commit irrespective if it's on the master or development branch can be tagged (and built!). Therefore, you can begin using an image prior to it being merged into master.
+#### End-to-end Instructions for new image
 
-#### Instructions
-1. Commit an image change within the [Data Infrastructure repo](https://gitlab.com/gitlab-data/data-image). 
-    - Generally, this will be done via a merge request to master, but it's possible to tag any commit from any branch.
-1. Choose tag name, see 'Choose Tag Name' section below
-2. Create a tag, see the 'Creating Tags' section below
-3. The build pipelines will automatically run. This takes around 40 minutes. There will be a green checkmark in the [tags page](https://gitlab.com/gitlab-data/data-image/-/tags) next to your tag when it's completed.
-4. Make a new MR anywhere these images are referenced to update the tag. 
+1. Create an MR and commit to it. CI pipeline will automatically run which builds and pushes the new test image, it will be tagged with the branch name.
+1. Test the new image if applicable.
+1. Merge the MR
+4. Tag the latest commit in the master branch to build the production image. This can be done via the command line as well, but here are UI steps:
+    1. Go to the [data-image/tags](https://gitlab.com/gitlab-data/data-image/-/tags) page 
+    1. Identify the last tagged version as you'll need it for the next step
+    1. click 'New tag'
+        1. Tag name: bump the previous tag by one
+        1. Create from 'master' branch
+        1. Add an (optional) message describing the change
+6. The build pipelines will automatically run. This takes around 10 minutes. There will be a green checkmark in the [tags page](https://gitlab.com/gitlab-data/data-image/-/tags) next to your tag when it's completed.
+7. Update other repos: Create an MR anywhere this image is referenced
     - For example, [analytics/dags/airflow_utils.py](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/airflow_utils.py#L12-17) may need to be updated.
-
-
-##### Choose Tag Name
-The `tag name` depends on if you're tagging a master or dev commit. 
-
-If you're tagging a master commit (already merged to master), you need this formatting: `v0.0.25`. Go to the [data-image/tags](https://gitlab.com/gitlab-data/data-image/-/tags) page to identity the previous versioned tag.
-
-If you're creating a test image using a development commit, you can name your tag arbitrarily.
-
-##### Creating Tags
-Two options:
-
-Option 1: GitLab UI
-1. Go to the [data-image/tags](https://gitlab.com/gitlab-data/data-image/-/tags) page and click 'New tag'
-1. Tag name: `v<sem_ver>`
-1. Create from \<branch\>: Creates a tag associated to the latest commit of that branch
-1. Add a message describing this release/change
-
-Option 2: Command line
-```
-# Either on the master branch or in a feature branch run:
-git tag v<sem_ver>
-
-# Push the latest tag
-git push origin $(git describe --tags --abbrev=0)
-```
 
 ## Python Housekeeping
 
