@@ -267,7 +267,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 * [Handbook: CD Solution Resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/)
 * [Handbook: CI Message House](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/message-house/)
 * [Handbook: CD Message House](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/message-house/)
-* [Website: CI Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+* [Website: CI Solution Page](https://about.gitlab.com/features/continuous-integration/)
 * [Website: CI Solution Page](https://about.gitlab.com/stages-devops-lifecycle/continuous-delivery/)
 * [2022-04-07 CI/CD Campaign Review Deck](https://docs.google.com/presentation/d/1mqYScmF1bjON0PsjfurmsChcVdCkMsjkDvTK5YyOlIQ/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
 * [2021-09-09 CI/CD Campaign Review Deck](https://docs.google.com/presentation/d/1TG7SAHUub3BqclJg4nawDARecOOaQ4NpMaxDnXWWtF8/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
