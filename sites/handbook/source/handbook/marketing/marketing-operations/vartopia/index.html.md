@@ -17,19 +17,19 @@ Vartopia is a partner lead sharing and deal registration system designed to maxi
 ## Prospects Module
 
 ### Channel Partner Lead Flow Overview
-Channel Partners can work with the Channel Marketing team to create campaigns that will be shared to the Vartopia module. The [campaign types](/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Joint GitLab and Partner Events, Self-Managed Free Trials, and MDF funded campaigns. The flow starts from Marketo > Salesforce > LeanData > Vartopia.
+Channel Partners can work with the Channel Marketing team to create campaigns that will be shared to the Vartopia module. The [campaign types](/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Joint GitLab and Partner Events, Self-Managed Free Trials, and MDF funded campaigns. The flow starts from Marketo > Salesforce > Traction > Vartopia.
 
 The partner lead is: 
 1. Created in Marketo via list import or form submission,
 2. Synced SFDC via Salesforce Campaign Sync,
-3. Assigned to `Partner Queue` via LeanData,
+3. Assigned to `Partner Queue` via Traction,
 4. Added to the Prospects Module in Vartopia. 
 
 ### Vartopia Sync Requirements
 In order for the Partner to be able to see and action the lead in Vartopia, the SFDC record must have the following fields updated. Vartopia calls SFDC every hour looking for updates to the SFDC record.
 1. `Vartopia Partner Account` not equal to `NULL` (set by Marketo)
-1. `Prospect Share Status` = `Sending to Partner` (set by LeanData)
-1. `Partner Prospect Status` = `Qualifying` (set by LeanData)
+1. `Prospect Share Status` = `Sending to Partner` (set by Traction)
+1. `Partner Prospect Status` = `Qualifying` (set by Traction)
 
 Once synced sucessfully between systems, the `Vartopia Transaction Id` in SFDC will update from Vartopia. If this ID is missing, the lead did not sync correctly. Make sure that the fields above are correctly populated, and if they are not, reach out to Vartopia support.
 
@@ -40,6 +40,19 @@ Watch [this video](https://youtu.be/BmmiH_ctALk) for step by step instructions w
 
 #### Vartopia Access
 The account in SFDC must be set to `Vartopia Partner Account: Vartopia Access = Yes` in order to be passed leads. If that field is marked false, a SFDC error will occur when `Vartopia Partner Account` tries to be set. If this error occurs, the lead will not sync from marketo to SFDC, or if they are already existing in SFDC, that field will not be populated.
+
+#### Troubleshooting Vartopia Sync
+When the `Prospect Share Status` shows as `Sending to Partner` and the `Vartopia Transaction ID` isn't populated after a day, this typically means there is a sync error between Vartopia and Salesforce.
+
+Here are the steps to resolve the sync fail.
+
+1. `Vartopia Partner Account` must be referring to an account with a `Vartopia System ID`
+2. `Vartopia Partner Account` associated with the partner requires a `Prospect Admin`
+3. The partner lead requires a phone number and email address
+4. `Prospect Partner Status` on the partner lead must equal `Qualifying`
+5. `Vartopia Deal Registration System Access` on the account must be `Active`
+
+If all these are submitted correctly, then submit a Vartopia with a list of the failed sync and it's `Vartopia Prospect Id`.
 
 ### Partner Recall 
 
@@ -109,7 +122,7 @@ In the final phase, GitLab Inc. will allow Channel Partners a period of 5 days, 
 - [Contact - Recall](https://gitlab.my.salesforce.com/00O8X000008muWG)
 - [Deal Reg by Partner Account](https://gitlab.my.salesforce.com/00O8X000008mvas)
 - [Lead - Recall Actively Working Account](https://gitlab.my.salesforce.com/00O8X000008mvcA)
-- [Contact - Recall Actively Working Account](https://gitlab.my.salesforce.com/00O8X000008mvcU/e?retURL=%2Freport%2FeditReport.apexp)
+- [Contact - Recall Actively Working Account](https://gitlab.my.salesforce.com/00O8X000008mvcU)
 
 **Q:** What will happen when the leads get recalled? <br>
 **A:** The lead will be assigned to the `Recycle Queue`, enrolled in the nurture and their status will be changed to `Recycle`.
@@ -195,9 +208,6 @@ Follow the steps to create a report that summarizes new leads that are assigned 
 **Q**: As an employee at GitLab, how do I get access to Vartopia? <br>
 **A**: Vartopia is a platform strictly for Channel Partners. An administrative account is not a feature that is currently available as part of their solution.
 
-**Q**: What notifications are active for Channel Partners? <br>
-**A**: Presently real-time self-managed free trial notification are the only active notifications. The notification sends to the `Partner Prospect Admin` via Salesforce. We recommend the Channel Partner to [create scheduled reports](/handbook/marketing/marketing-operations/vartopia/#scheduled-reports) to review the new leads.
-
 **Q**: What type of channel partners can use Vartopia? <br>
 **A**: Vartopia is meant for resellers. We can't pass leads to distributors.
 
@@ -206,5 +216,14 @@ Follow the steps to create a report that summarizes new leads that are assigned 
 
 **Q**: How do you tell apart a partner lead from a regular lead? <br>
 **A**: `Partner Managed` = `True` for partner leads.
+
+**Q**: How do Channel Partners access Vartopia? <br>
+**A**: Channel Partner can access Vartopia through Impartner, the partner portal.
+
+**Q**: How many `Partner Prospect Admin` can be added to a Vartopia partner account? <br>
+**A**: There can only be one `Partner Prospect Admin` per account.
+
+**Q**: How often does Vartopia sync to Salesforce<br>
+**A**: The Prospects module sync once per hour, while the Deal Registration module sync once every two hours.
 
 
