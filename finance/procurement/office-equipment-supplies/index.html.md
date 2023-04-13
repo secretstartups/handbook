@@ -28,10 +28,11 @@ Team members who have started during the year before this expense policy took ef
 ### All Team Members- 500 USD (or equivalent local currency) Refresh Guidelines
 
 1. These amounts were set after a thorough analysis and review of team members’ expense data during the previous four years and benchmarked with other remote companies.  Anything over this amount will be at the expense of the team member and no exceptions will be made.
-2. This is a yearly refresh amount.  It will reset at the beginning of each fiscal year (202X-02-01 to 202Y-01-31).
-3. Any unused funds will not roll over to the next year. 
-4. We want you to do you and refresh your office the way you want it.  There is no restriction regarding which office equipment you may purchase, with the exception of Airpods (they are highly discouraged due to audio quality issues & limited battery life and should not be purchased), phones, and tablets. Please note that these purchases are still reviewed by your manager and accounting teams, and any misappropriation of these funds will be flagged.
+1. This is a yearly refresh amount.  It will reset at the beginning of each fiscal year (202X-02-01 to 202Y-01-31).
+1. The Navan Virtual Card cannot be used for the yearly refresh. Team members should use their own method of payment and submit their expenses in Navan. 
+1. Any unused funds will not roll over to the next year. 
+1. We want you to do you and refresh your office the way you want it.  There is no restriction regarding which office equipment you may purchase, with the exception of Airpods (they are highly discouraged due to audio quality issues & limited battery life and should not be purchased), phones, and tablets. Please note that these purchases are still reviewed by your manager and accounting teams, and any misappropriation of these funds will be flagged.
 
-For any questions about this process or about utilizing your Virtual Card, please reach out in the [#expense-reporting-inquiries](https://gitlab.slack.com/archives/C012ALM8P29) Slack channel. 
+For any questions about this process or about utilizing your Virtual Card (new hires only), please reach out in the [#expense-reporting-inquiries](https://gitlab.slack.com/archives/C012ALM8P29) Slack channel. 
 
 For questions on how to submit your home office expenses, including which categories to use, please refer to the [Expenses handbook page](https://about.gitlab.com/handbook/finance/expenses/).
