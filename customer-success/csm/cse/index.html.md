@@ -20,8 +20,9 @@ The Customer Success Engineer (CSE) provides deep subject matter expertise on Gi
 ![cse-value-acceleration](/handbook/customer-success/csm/cse/LandAdoptExpand.png)
 
 ## Team
-| Name                                             | Region    | 
-|------------------------------------------------|---------| 
+
+| *Name*                                           | *Region*  |
+| ------------------------------------------------ | --------- |
 | [Martin Brümmer](https://gitlab.com/mbruemmer)   | EMEA      | 
 | [Philippe Charriere](https://gitlab.com/k33g)    | EMEA      | 
 | [Nick Wilson](https://gitlab.com/nwilson-gitlab) | AMER East | 
