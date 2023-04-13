@@ -25,20 +25,24 @@ To help triage, be aware of all MRs in your stage group and ask engineers about 
 ### How to assign MR reviews 
 
 #### Stage group MRs
+
 The [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) will randomly suggest a designer to review. These MRs should have a well-documented design solution. Your role as a reviewer is to ensure the solution is developed as intended. After you've completed your review, cc the [design DRI of the group](/handbook/product/categories/#devops-stages) for awareness. Additionally, if you have further feedback on a particular UX solution, open a follow-up issue and mention the design DRI.
   - There may be scenarios where an MR is based on a previous conversation or it proposes a solution that did not have a design associated with it. If this happens, `@ mention` the design DRI to ensure requirements are met. The design DRI should then notify the suggested UX reviewer to complete the MR review when ready.
       - An example is an MR with the label, `~"Internal hackathon"`. The design solution is likely being solved at the time of development.
 
 #### Community contributions
-Community submitted MRs require more context to review and are assigned to the design DRI of the group it impacts. All UX-related community contributions will generate a Slack message in the #ux-community-contributions channel and will be manually assigned until we automate the process.
+Community submitted MRs require more context to review and are assigned to the design DRI of the group it impacts. All UX-related community contributions will generate a Slack message in the `#ux-community-contributions` channel and will be manually assigned until we automate the process.
 
 #### Single engineering group MRs
+
 Single Engineer Group (SEG) MRs often require more active collaboration and additional context on the work. UX-related MRs created from a SEG should be reviewed by the design DRI of the group it impacts. 
 
 #### UX Paper Cuts MRs
+
 MRs created by the UX Paper Cuts team will be handled by the UX Paper Cuts team. If one of the two designers are OOO, then the team will utilize the [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) to help distribute MR reviews across the Product Design subdepartment.
  
 #### Benefits
+
 - Evenly distribute MR reviews across the Product Designers in the UX Department in support of our [Product Design MR review volume KPI](/handbook/product/ux/performance-indicators/#product-design-mr-review-volume). This will have a more significant impact on higher usage areas of our product by opening up capacity for those designers to increase time spent on creating design solutions.
 - Create awareness of the end-to-end GitLab product by having designers involved in reviewing work outside of their normal areas. This can lead to holistic solutions and seeing connections between stage groups (and Pajamas) that would otherwise get missed.
 - Improve communication and documentation of design solutions, as we're now relying on another designer to confirm that a solution is developed as intended.
@@ -71,7 +75,9 @@ In general, follow the [Code Review guidelines](https://docs.gitlab.com/ee/devel
 Always review the MR in a live environment, so that you can experience the changes as our users will and review them thoroughly. To choose the most appropriate method to preview the MR and get started, see [Review, test, and contribute](/handbook/product/ux/how-we-work/#review-test-and-contribute). If you get stuck, don't struggle on your own, check our [help section](/handbook/product/ux/how-we-work/#help).
 
 #### Specific review requirements
+
 Some MRs have additional set up requirements. 
+
 - SaaS-only features: For testing SaaS-only features you'll need to run the GDK as a SaaS version. [Instructions for simulating SaaS version in the GDK](https://docs.gitlab.com/ee/development/ee_features.html#simulate-a-saas-instance).
 - Paid features: You'll need a license for these. Request a license via and [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new), using the GitLab_Team_Member_License_Request template. [Instructions for adding the license to your instance](https://docs.gitlab.com/ee/user/admin_area/license_file.html#add-your-license-file-during-installation).
 - You can also switch between CE and EE editions: [How to simulate a CE instance](https://docs.gitlab.com/ee/development/ee_features.html#simulate-a-ce-instance-when-unlicensed).
