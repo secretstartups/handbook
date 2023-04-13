@@ -299,30 +299,17 @@ These strategies include:
 
 #### Predictive test jobs via test mapping
 
-Tests that provide coverage to the code changes in each merge request are most likely to fail. As a result, merge request pipelines for the [GitLab project](https://gitlab.com/gitlab-org/gitlab) run only the predictive set of tests by default. These include:
-- [RSpec predictive jobs](https://docs.gitlab.com/ee/development/pipelines/#rspec-predictive-jobs) which runs relevant RSpec tests that are mapped to the code changes
-- [Jest predictive jobs](https://docs.gitlab.com/ee/development/pipelines/#jest-predictive-jobs) which runs relevant Jest tests that are mapped to the code changes
-
-Test mapping is done via the [test_file_finder](https://gitlab.com/gitlab-org/ci-cd/test_file_finder) gem. We supplement the gem with a [static mapping file](https://gitlab.com/gitlab-org/gitlab/-/blob/master/tests.yml) to account for known gaps, as the automated mapping is not always perfect. Additionally, we have introduced several more advanced mappings in [the `detect-tests` CI job](https://gitlab.com/gitlab-org/gitlab/-/blob/03f6d482ab702c760639c04b59f0ea4b55c9e880/.gitlab/ci/setup.gitlab-ci.yml#L101-141) that are not covered by `test_file_finder`. Below are a few examples:
-
-- Run certain system specs if a Javascript file was changed in an MR ([#386754](https://gitlab.com/gitlab-org/gitlab/-/issues/386754))
-- Run Javascript tests if certain Rails view files are changed in an MR ([#386719](https://gitlab.com/gitlab-org/gitlab/-/issues/386719))
-- Run view specs when Rails partials included in those views are changed in an MR ([#395016](https://gitlab.com/gitlab-org/gitlab/-/issues/395016))
-
-The "Fail-fast" job we are experimenting with is a variation of this strategy. It is to run all of the RSpec tests that are most likely to fail in a single job created in an early stage of the pipeline. See the Fail-fast job section for details.
+See https://docs.gitlab.com/ee/development/pipelines/index.html#predictive-test-jobs-before-a-merge-request-is-approved for an overview of how we use predictive tests pipelines in the CI.
 
 #### Fail-fast job
 
-There is a [fail-fast job](https://docs.gitlab.com/ee/development/pipelinesx/#fail-fast-job-in-merge-request-pipelines) in each merge request pipeline aimed to run all the RSpec tests that provide coverage for the code changes, hence are most likely to fail. It uses the same [test_file_finder](https://gitlab.com/gitlab-org/ci-cd/test_file_finder) gem for test mapping. The job provides faster feedback by running early and stops the rest of the pipeline right away if any of the fail-fast job tests fail.
-Take a look at this [youtube video](https://www.youtube.com/watch?v=FCCbxZky5Nk) for details on how [GitLab](https://gitlab.com/gitlab-org/gitlab) implements the fail-fast job with test_file_finder.
-Note that the current design only works with low-impacting merge requests which are only mapped to a small set of tests. If there is a large number of tests that are likely to fail for a merge request, putting them in a single job is not feasible and could result in a long-running bottleneck which defeats its purpose.
+See https://docs.gitlab.com/ee/development/pipelines/index.html#fail-fast-job-in-merge-request-pipelines for an overview of this job.
 
 Premium GitLab customers, who wish to incorporate the `Fail-Fast job` into their Ruby projects, can set it up with our [Verify/Failfast](https://docs.gitlab.com/ee/ci/testing/fail_fast_testing.html) template.
 
 #### Re-run previously failed tests early
 
-Tests that previously failed in a merge request are likely to fail again, so they provide the most urgent feedback in the next run.
-To grant these tests the highest priority, the [GitLab](https://gitlab.com/gitlab-org/gitlab) pipeline [prioritizes previously failed tests by re-running them early](https://docs.gitlab.com/ee/development/pipelines/#re-run-previously-failed-tests-in-merge-request-pipelines) in a dedicated job, so it will be one of the first jobs to fail if attention is needed.
+See https://docs.gitlab.com/ee/development/pipelines/index.html#re-run-previously-failed-tests-in-merge-request-pipelines to understand how this mechanism work.
 
 #### Selective jobs via pipeline rules
 
