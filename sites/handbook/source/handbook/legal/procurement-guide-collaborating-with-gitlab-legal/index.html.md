@@ -64,7 +64,8 @@ Negotiating Terms and Conditions: [Negotiating Terms](https://about.gitlab.com/h
 - Contact the Legal Team Member by tagging them directly in the GitLab Procurement Tool. _Note_ Please do not contact team members in Slack unless an urgent matter arises.  
 
 ## Requesting a Certificate of Insurance
-To request a COI, open an issue in the Legal and Compliance project using the [general legal template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template&_gl=1*1aumr6r*_ga*MTc1Mjg0Mzg3NS4xNjc1NzE0NjA5*_ga_ENFH3X7M5Y*MTY3NjQ4OTU3Ny4xMC4xLjE2NzY0ODk2ODkuMC4wLjA). Be sure to apply the `legal-procurement::to do` label and tag `@rnalen`, `@chilling32`, and `@ddowney` in your request.
+- To request a COI, open an issue in the Legal and Compliance project using the [general legal template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template&_gl=1*1aumr6r*_ga*MTc1Mjg0Mzg3NS4xNjc1NzE0NjA5*_ga_ENFH3X7M5Y*MTY3NjQ4OTU3Ny4xMC4xLjE2NzY0ODk2ODkuMC4wLjA). Be sure to apply the `legal-procurement::to do` label and tag `@rnalen`, `@chilling32`, and `@ddowney` in your request. 
+- For requests related to a customer or partner, open a [Legal Request](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal) in SFDC.
 
 ## Helpful Resources
 - Many Vendors require basic information about GitLab to be setup as a Customer, visit [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) for general information about each GitLab legal entity
