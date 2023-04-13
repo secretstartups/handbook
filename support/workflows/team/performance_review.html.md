@@ -16,9 +16,19 @@ description: Information about performance reviews in Support Engineering
 Support Engineering currently uses the following performance factor worksheets
 as an aid to evaluating performance:
 
-- [Support Engineer](https://docs.google.com/spreadsheets/d/1xgP0BVierRfWYlnzR33KfeVNSq2oLTBezMlNYT0NM58/edit#gid=395345394)
-- [Senior Support Engineer](https://docs.google.com/spreadsheets/d/166OuQVtUchuNrJb3EJgAljkMWJufYQdvgu_NDGnRptU/edit#gid=395345394)
-- [Support Engineering Manager](https://docs.google.com/spreadsheets/d/1vofiuOdUGtK0URS3xtF4kFO03vC0GI4c8YnInzNWgW4/edit#gid=1494273631)
+- [Support Engineer](https://drive.google.com/drive/search?q=FY24%20Support%20Engineering%20-%20Performance%20Factor%20Template%20-%20Intermediate)
+- [Senior Support Engineer](https://drive.google.com/drive/search?q=Support%20Engineering%20-%20Performance%20Factor%20Template%20-%20Senior)
+- [Staff Support Engineer](https://drive.google.com/drive/search?q=Support%20Engineering%20-%20Performance%20Factor%20Template%20-%20Staff)
+- [Support Engineering Manager](https://drive.google.com/drive/search?q=Support%20Engineering%20-%20Performance%20Factor%20Template%20-%20Support%20Engineering%20Manager)
+- [Senior Support Engineering Manager](https://drive.google.com/drive/search?q=Support%20Engineering%20-%20Performance%20Factor%20Template%20-%20Senior%20Manager)
+
+### Using the Worksheets: Tips
+
+1. You might want to take notes as you determine each line item in each
+   of your direct reports' worksheets. One good place for those notes
+   is the space in the worksheet between the responsibility (or value or
+   remote work) title and the weighting. This makes it easy to deliver
+   the review to your direct report entirely from the worksheet.
 
 ### Updating this page
 
