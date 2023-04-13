@@ -132,7 +132,7 @@ Please read through these FAQ **entirely**.
     - Expense up to the first [$300 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Business Class on flights longer than 8 hours
 1. If your height does not match the exact cm/inch requirement, and you feel unsafe to travel, you may:
     - Expense up to the first [$100 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Economy Plus on flights longer than 8 hours
-    - Review upgrade options with your manager
+    - Reach out to leaves@gitlab.com to request a reasonable accommodation.
 1. GitLab does not cover expenses for significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
 
 > We base eligibility on the 95 percentile because it is a practical figure for capturing outliers without being overly prescriptive and applicable to all travel if we care to flesh out guidance around other forms of transit in the future.
