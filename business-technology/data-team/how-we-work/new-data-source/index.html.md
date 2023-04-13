@@ -144,8 +144,12 @@ When the execution of the work starts, the issue is in development and follows t
 
 During the development, the Data Engineer aligns with all the stakeholders, about access to the data. Data access can be provided to the `raw` schema, depending on the data and the use case.
 
+#### Creating labels
+
+When it is a complete new data pipeline that extracts data from a upstream system that is not yet extracted, create a new label on in the [GitLab Data](https://gitlab.com/groups/gitlab-data/) group. I.e: https://gitlab.com/groups/gitlab-data/-/labels/23453371/edit 
+
 ### workflow::6 - review
-When the execution of the work is finished, the issue is in review and follows the regular development life cycle.
+When the execution of the work is finished, the issue is in review and follows the regular development life cycle. 
  
 ### workflow::X - blocked
 When the execution could not continue due to the need of external intervention, the issue is `blocked`. There must be a clear problem statement given and the right people need to be assigned on the shortest notice possible.
