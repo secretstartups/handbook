@@ -166,7 +166,7 @@ ClickHouse is planned as the data backend for:
 
 #### How are we currently using ClickHouse?
 
-* Our Integrated Error Tracking feature stores all errors in a [ClickHouse database deployed on GKE](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/error-tracking.md). This feature is in Open Beta.
+* Our Integrated Error Tracking feature stores all errors in a [ClickHouse database deployed on GKE](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/error-tracking.md). This feature is in Beta.
 * Our [Tracing feature store traces in the same ClickHouse database](https://gitlab.com/gitlab-org/opstrace/opstrace/-/blob/main/docs/architecture/tracing.md). We maintain a [fork of the jaeger-clickhouse plugin](https://gitlab.com/gitlab-org/opstrace/jaeger-clickhouse) to achieve this. This feature is being dogfooded internally.
 * ClickHouse will be the core data storage solution for [our new Metrics feature](https://gitlab.com/gitlab-org/opstrace/opstrace/-/issues/1771). Once the [architectural blueprint](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/103747) is approved, we will begin working on this feature in the subsequent milestones.
 * We also developed our [own ClickHouse Operator](https://gitlab.com/gitlab-org/opstrace/opstrace/-/tree/main/clickhouse-operator#clickhouse-operator).
