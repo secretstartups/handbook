@@ -84,17 +84,8 @@ FP&A comprises five different sub-teams to support our FP&A goals:
 - Revise and update the annual sales compensation plan
 - Set annual quota assignments for revenue producing roles
 
-#### Annual Planning Important Dates (FY23 shown)
-
-- **2021-10-29** - Three Year Strategy aligned
-- **2021-11-08** - FY23 Themes
-- **2021-11-15** - GTM Planning offsite and Product Themes
-- **2021-12-17** - First Plan Rollup
-- **2022-01-12** - v1 rollup and eGroup decisions on company wide assumptions
-- **2022-01-14** - v2 rollup and Planning Deck review including GTM business Plan review
-- **2022-01-25** - Plan sent to Board for async commentary
-- **2022-01-28** - FY23 Plan reviewed by Board async (Pre FY22 Actuals)
-- **2022-03-22** - Formal approval of FY23 Plan by Board with final FY22 Actuals
+#### FY24 Plan
+- Please refer to the [Internal Handbook](https://internal-handbook.gitlab.io/handbook/finance/documents/) for final SSOT FY24 Planning Documents
 
 
 
