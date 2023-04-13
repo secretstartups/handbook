@@ -175,7 +175,7 @@ Dell is GitLab's exclusive Linux vendor for the following reasons:
     Standardization on a single platform for Linux simplifies this.
 - The current Ubuntu LTS is the preferred Linux platform; Ubuntu LTS has a record of stability and quick patching.
 - Purchasing laptops from a single vendor opens the possibility of corporate discounts.
-- [Dell is a certified Ubuntu vendor](https://certification.ubuntu.com/desktop/models?query=&category=Desktop&category=Laptop&level=&release=18.04+LTS&vendors=Dell) with multiple laptop choices available. They even have their own Ubuntu OEM release of Ubuntu they maintain, and as a result of their effort, the standard Ubuntu 18.04 LTS image natively supports Dell hardware and even firmware updates.
+- [Dell is a certified Ubuntu vendor](https://certification.ubuntu.com/desktop/models?query=&category=Desktop&category=Laptop&level=&release=18.04+LTS&vendors=Dell) with multiple laptop choices available. They even have their own Ubuntu OEM release of Ubuntu they maintain, and as a result of their effort, the standard Ubuntu Linux 20.04 LTS image natively supports Dell hardware and even firmware updates.
 - To date, all of Dell's major security issues have resulted from the Windows operating system, not their hardware.
 
 Laptops are purchased by IT Ops during a team member's onboarding process; the team-member will be sent a form to fill out for ordering.
