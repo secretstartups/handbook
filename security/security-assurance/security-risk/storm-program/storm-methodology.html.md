@@ -101,11 +101,11 @@ Our risk appetite is translated to a tolerance which defines a range in which a 
 
 Risk scores above 26 are considered too risky to be considered within tolerance for any risk appetite.
 
-### Historical and Current Record of GitLab's Risk Appetite
+### Historical and Current Record of GitLab's Security Risk Appetite
 
 |Fiscal Year|Departments|Risk Appetite|
 |:-----:|----------|:-----:|
-|FY24|All Departments|TBD|
+|FY24|All Departments|Risk Neutral|
 |FY23|Engineering, Finance, and Legal|Risk Neutral|
 |FY22|E-group, Engineering, Finance, and Legal|Risk Neutral|
 |FY21|Engineering, Finance, and Legal|Risk Neutral|
