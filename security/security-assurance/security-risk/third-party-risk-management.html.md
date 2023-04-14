@@ -24,9 +24,9 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 ## Purpose 
 
-GitLab's Security Third Party Risk Management (TPRM) Program helps guard against security threats posed by third parties who have direct or indirect access to GitLab and/or Customer/Client data. Risks include data breaches, unauthorized use or disclosure, and corruption or loss of data. Adequate TPRM is a best practice that helps [mitigate security concerns](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#security-breach) and enables GitLab to meet our contractual obligations. TPRM also enables GitLab to meet regulatory requirements and standards related to ISO, SOX, GDPR and other state and federal laws requiring vendor oversight.
+GitLab's Security Third Party Risk Management (TPRM) Program helps guard against security threats posed by third parties who have direct or indirect access to GitLab and/or Customer/Client data. Risks include data breaches, unauthorized use or disclosure, and corruption or loss of data. Adequate TPRM is a best practice that helps [mitigate security concerns](/handbook/leadership/mitigating-concerns/#security-breach) and enables GitLab to meet our contractual obligations. TPRM also enables GitLab to meet regulatory requirements and standards related to ISO, SOX, GDPR and other state and federal laws requiring vendor oversight.
 
-GitLab's Security TPRM program involves three components which are integrated in to our [Procurement](https://about.gitlab.com/handbook/finance/procurement/) processes: 
+GitLab's Security TPRM program involves three components which are integrated in to our [Procurement](/handbook/finance/procurement/) processes: 
 1. Performing due diligence to ensure the third party implements safeguards to enforce data privacy and security.
     - This activity is performed via our Security Assessment Process. 
 1. Contractually obligating the third party to implement these safeguards. 
@@ -41,17 +41,17 @@ This procedure applies to all third party providers that access, store, process 
 
 | Role | Responsibility |
 | ------ | ------ |
-| Security Risk Team | * Maintain a mechanism to intake and respond to TPRM Activities <br><br>* Assess Third Party inherent and residual security risk <br><br>* Inform business owners of the result of TPRM assessments |
-| Business or System Owner | * Describe the nature of the Third Party Relationship <br><br>* Work with the Security Risk team to facilitate the TPRM review, to include remediation activities <br><br>* Ensure the responsiveness of the thrid party as part of the security review requirements |
+| Security Risk Team | * Maintain a mechanism to intake and respond to TPRM Activities <br>* Assess Third Party inherent and residual security risk <br>* Inform business owners of the result of TPRM assessments |
+| Business or System Owner | * Describe the nature of the Third Party Relationship <br>* Work with the Security Risk team to facilitate the TPRM review, to include remediation activities <br>* Ensure the responsiveness of the thrid party as part of the security review requirements |
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure | 
 
 ## Third Party Minimum Security Standards
 TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found below.
 
-Additionally, effective FY23 Q3, all third party applications that house GitLab data are required to [authenticate via Okta inline with GitLab's approach to centralized authentication and authorization](https://about.gitlab.com/handbook/business-technology/okta/#what-is-okta). Risk acceptances will be required in all cases where Okta is not supported regardless of security status. 
+Additionally, effective FY23 Q3, all third party applications that house GitLab data are required to [authenticate via Okta inline with GitLab's approach to centralized authentication and authorization](/handbook/business-technology/okta/#what-is-okta). Risk acceptances will be required in all cases where Okta is not supported regardless of security status. 
 
 ## Procedure
-The diagram below depicts TPRM procedures dependent upon the [Data Classification](https://about.gitlab.com/handbook/security/data-classification-standard.html) of data shared with the third party.
+Where GitLab controls, owns, or is otherwise responsible for data, the diagram below depicts TPRM procedures based on the [Data Classification](/handbook/security/data-classification-standard.html) of data shared with the third party.
 
 ```mermaid
 
@@ -119,7 +119,7 @@ graph TB
 
     %% Clickable Nodes
          click zgOneTrust "https://gitlab.my.onetrust.com/cyber-risk/exchange" _blank
-         click ProcIntake "https://about.gitlab.com/handbook/finance/procurement/professional-services" _blank
+         click ProcIntake "https://about.gitlab.com/handbook/finance/procurement/#-how-do-i-create-a-purchase-request-in-zip" _blank
 
     %% Dedicated styling
       %%  classDef clickme fill:#6E49CB,stroke:#88DDFD,stroke-width:4px,color:#FFFFFF;
@@ -133,7 +133,7 @@ graph TB
 
 ### TPRM Assessment Requirements
 
-The following table describes the procedures followed by TPRM engineers for vendors storing/processing different [classifications of GitLab data](https://about.gitlab.com/handbook/security/data-classification-standard.html). These procedures are initiated by the [Procurement](https://about.gitlab.com/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab) process and are followed in all instances where vendors have not been reviewed in the past 12 months.
+The following table describes the procedures followed by TPRM engineers for vendors receiving/processing different [classifications of GitLab data](/handbook/security/data-classification-standard.html). Instances where GitLab **receives** personal data from a third party in a [controller-to-controller](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms) transfer do not require a TPRM review. These procedures are initiated by the [Procurement](/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab) process and are followed in all instances where vendors have not been reviewed in the past 12 months.
 
 If a vendor has been reviewed and approved within 12 months of a new procurement request, GitLab TPRM Engineers must review the request to determine that no material changes have occurred which may require a new assessment before approving. Material changes include:
 
@@ -156,7 +156,7 @@ GitLab TPRM Engineers reserve the right to perform additional procedures at thei
 
 **Orange SaaS SOX systems will have SOC 1 CUEC mappings facilitated by TPRM drafted and handed off to Internal Audit annually during Q1. If SOC 1s are not available SOC 2s will be mapped.
 
-***Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details. 
+***Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details. 
 
 #### The Standard Information Gathering (SIG) Questionnaire
 
@@ -237,7 +237,7 @@ Independent Contractors requiring access to Orange or Red data in the provision 
 
 - Evidence of initiated background check, which will be monitored and adjudicated by the Sr. Background Check Specialist. 
     - This helps ensure that personnel with criminal backgrounds that may pose a threat to GitLab assets, customer relationships, and sensitive information are identified. 
-    - _Note: Background check requirements are subject to change at the discretion of the People Operations team. Please refer to the background screening entry within the [People Policies handbook](https://about.gitlab.com/handbook/people-policies/#background-screenings) to ensure alignment with current requirements. If further guidance is needed, contact the Sr. Background Check Specialist at `backgroundchecks@gitlab.com`._
+    - _Note: Background check requirements are subject to change at the discretion of the People Operations team. Please refer to the background screening entry within the [People Policies handbook](/handbook/people-policies/#background-screenings) to ensure alignment with current requirements. If further guidance is needed, contact the Sr. Background Check Specialist at `backgroundchecks@gitlab.com`._
 
 </details>
 
@@ -260,7 +260,7 @@ Want to vet a third party before contract renewals hit ZipHQ? Would you like to 
 
 ### TPRM Risk Acceptance Process
 
-Risk acceptance can be pursued when the business acknowledges that potential loss from a risk is not great enough to warrant spending the resources necessary to avoid it. When Risk Acceptance is a viable option TPRM will fill out the [Risk Acceptance Issue template](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Risk%20Acceptance%20Template) and assign it to the Business Owner. Note that business justification and [approvals](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) are required.
+Risk acceptance can be pursued when the business acknowledges that potential loss from a risk is not great enough to warrant spending the resources necessary to avoid it. When Risk Acceptance is a viable option TPRM will fill out the [Risk Acceptance Issue template](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Risk%20Acceptance%20Template) and assign it to the Business Owner. Note that business justification and [approvals](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) are required.
 
 There are two TPRM Risk Acceptance types:
 
@@ -278,7 +278,7 @@ The Business Owner will receive the following prompt:
 
 Once associated information is submitted, the Security Risk team will review this request.
 
-Security Risk will create a Risk Object in ZenGRC that is mapped to the corresponding Vendor Security Review and Vendor Object for the Risk Acceptance, that will be followed up on towards the end of the Risk Acceptance Period. This Risk Acceptance will follow the acceptance requirements established by the [Security Operational Risk Management Methodology.](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) 
+Security Risk will create a Risk Object in ZenGRC that is mapped to the corresponding Vendor Security Review and Vendor Object for the Risk Acceptance, that will be followed up on towards the end of the Risk Acceptance Period. This Risk Acceptance will follow the acceptance requirements established by the [Security Operational Risk Management Methodology.](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) 
 
 </details> 
 
@@ -290,13 +290,13 @@ If the TPRM Security Review concludes with the disclosure of a finding (Observat
 
 Once a risk treatment plan is communicated, Security Risk will create an Issue Object within ZenGRC and assign the Business Owner as the Issue Owner. 
 
-Formal risk acceptance's require approval based on the approval matrix established by the [Security Operational Risk Management Methodology](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk).  These vendors will be tracked on GitLab's risk register and flagged for review on an annual basis. The Business Owner owns this risk.
+Formal risk acceptance's require approval based on the approval matrix established by the [Security Operational Risk Management Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk).  These vendors will be tracked on GitLab's risk register and flagged for review on an annual basis. The Business Owner owns this risk.
 
-If moderate or low risk observations are noted during the review process the Business Owner will be informed via the TPRM report and will be responsible for making the decision to move forward with the vendor. These observations will be managed as per the [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html).
+If moderate or low risk observations are noted during the review process the Business Owner will be informed via the TPRM report and will be responsible for making the decision to move forward with the vendor. These observations will be managed as per the [Observation Management Procedure](/handbook/security/security-assurance/observation-remediation-procedure.html).
 
 </details>
 
-Please refer to our [StORM Methodology Handbook](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) for required approvals based on risk rating (High/Medium/Low) and responsibilities of Accepted Risk Owners and Risk Acceptance Approvers.
+Please refer to our [StORM Methodology Handbook](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) for required approvals based on risk rating (High/Medium/Low) and responsibilities of Accepted Risk Owners and Risk Acceptance Approvers.
 
 ## Exceptions
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
@@ -307,6 +307,6 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 - [Data Classification Standard](/handbook/security/data-classification-standard.html)
 - [Current listing of controlled documents](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-governance/-/issues/42)
 - [App Integrations (Team Member Enablement)](/handbook/business-technology/team-member-enablement/app-integrations/)
-- [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html)
-- [STORM Methodology](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) 
-- [Professional Services](https://about.gitlab.com/handbook/finance/procurement/professional-services/#how-do-i-purchase-professional-services-andor-hire-a-contractor)
+- [Observation Management Procedure](/handbook/security/security-assurance/observation-remediation-procedure.html)
+- [STORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) 
+- [Professional Services](/handbook/finance/procurement/#-how-do-i-create-a-purchase-request-in-zip)
