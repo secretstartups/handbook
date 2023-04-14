@@ -32,7 +32,7 @@ GitLab is modifying the policy for team member gifts and piloting a new gift giv
 - While working a People Manager noticed a team member’s children in the background of a Zoom call and surprised the kids with a new game.
 - A team member wasn’t feeling well, which was noticed by a People Manager who sent a care package of food as a ‘get well soon’ gesture.   
 
-The cost of the gifts provided to GitLab Team Members will be allocated to the senders departmental budget. The allowable cost for gifts is up to $125 USD (including shipping) per gift. If a gift card is given, the value cannot exceed $25 USD (or local currency equivalent).  
+The cost of the gifts provided to GitLab Team Members will be allocated to the senders departmental budget. The allowable cost for gifts is up to $125 USD (including shipping) per gift.
 
 GitLab has allocated $100 per team member for holiday celebrations.  If you would like to buy holiday gifts for your team, these need to be done personally and should not be expensed.
 
