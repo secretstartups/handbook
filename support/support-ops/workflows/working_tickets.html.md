@@ -88,8 +88,14 @@ You will then use this to search in Zendesk for the organization in question
 (use `salesforce_id:xxx` for the 18 character values and `sfdc_short_id:xxx` for
 the 15 character values).
 
-Once you have located the organization via search, you can then associate the
-user to that organization (pending no organization notes specifying otherwise).
+Please check manually if the Organization has a contact management project setup
+via clicking the organization and checking the `Contact Management Project ID`
+field. If they have a contact management project setup, we cannot associate them
+via the ticket and should direct them to speak to their organization's team to
+have them added to the contacts file.
+
+Once you have located the organization via search and checked it has no Contact Management Project ID, 
+you can then associate the user to that organization (pending no organization notes specifying otherwise).
 
 After doing so, the process should then mirror
 [Manage my organization's contacts](#manage-my-organizations-contacts).
