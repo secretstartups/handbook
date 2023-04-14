@@ -430,8 +430,31 @@ Please reach out to your Verticurl rep to shut down the landing page, or if you 
 **Webcasts:**    
 - **[Vimeo](/handbook/marketing/marketing-operations/vimeo/)**: Submit an [upload request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) to the Digital Production team and specify Vimeo as the requested platform in the issue. Please include title, description and thumbnail (if any). Your webcast will be reveiwed and uploaded to Vimeo and a video link will be provided.
 
-**Workshops:**       
-- **[YouTube Unfiltered](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube)**: FMC to follow the linked instructions for how to upload the recording to YouTube Unfiltered.
+**Workshops:** 
+- FMC to send the recording link to `@lfstucker` once the [recording](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#downloading-the-recording) is available in Zoom. `@lfstucker` will then provide the FMC with the time mark for the setup section that must be cut from the recording. The FMC will then follow the below instructions for cutting the recording and uploading to [YouTube Unfiltered](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).      
+
+#### Editing with YouTube Studio
+
+_For more detailed instructions, please see [here](https://support.google.com/youtube/answer/9057455?hl=en)._
+
+Trim your videos
+1. Sign in to [YouTube Studio](https://studio.youtube.com/).
+1. From the left menu, select **Content**.
+1. Click the title or thumbnail of the video you’d like to edit.
+1. From the left menu, select **Editor**.
+1. Select Trim & cut. A blue box will appear in the editor.
+1. Drag the sides of the blue box. Stop when the box is covering the portion of the video that you’d like to keep. Anything not in the box will be removed from the video.
+1. Click **Save**
+
+Editing a section of your video 
+1. Select Trim & cut, then click **NEW CUT**. A red box will appear in the editor.
+1. Drag the sides of the red box. Stop when the red box is covering the portion of the video that you’d like to remove. Anything not in the red box will remain in  the video.
+1. To confirm your edits, select **Cut**.
+1. Click **Save**.
+
+More options
+1. Select **More** and then **Revert to original** to remove any unsaved changes that you made to your draft.
+1. You can [download](https://support.google.com/youtube/answer/56100) your edited video and [upload](https://support.google.com/youtube/answer/57407) it again to publish the changes you made.
 
 #### Pathfactory Track
 
