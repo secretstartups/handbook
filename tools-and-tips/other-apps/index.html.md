@@ -340,6 +340,10 @@ It also offers a free reliable mobile video conference app.
 [Loom (Free)](https://www.useloom.com/) is a handy Chrome plugin tool for video walkthroughs.
 Nice tool for demo recordings and internal/external documentation. Note, Loom videos are public by default - ensure you are not exposing data that should remain private. GitLab does have a Loom workspace, for a license please follow the instructions on the [tech stack page](/handbook/business-technology/tech-stack/)
 
+## Language and translation
+
+### DeepL
+
 The Gitlab handbook and most other content is written in English. Even if a non-native speaker's English is pretty good there might be times when the content is too sophisticated and a translation is welcome. Avoiding tedious copy and paste into another browser tab or app can easily be achieved by using the [DeepL translator](https://www.deepl.com/).
 DeepL is available as a Web site but also as a Mac app for free. Using a shortcut on MacOS takes selected text from the handbook right into the app and starts translating. Linux users can only use a Chrome extension and right-click to open another tab for the Web version.
 
