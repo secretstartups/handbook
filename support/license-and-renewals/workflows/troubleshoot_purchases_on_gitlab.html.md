@@ -84,7 +84,7 @@ Let's say a Customer X has an existing Customers Portal account with their email
 Customer X will get this error if they log in or create an account in GitLab with their email customerX@example.com and attempt to purchase or renew a paid plan or additional storage, or try to purchase more compute credits from GitLab.  
 The error is reported because *they did not link their Customers Portal account to a GitLab account before making the purchase.*
 
-🔧 To fix the problem, Customer X needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account).
+🔧 To fix the problem, Customer X needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account).
 
 ##### Unlinked CustomersDot account for purchases via Sales
 Let's say a Customer Y purchases a subscription through Sales. Their signed Order Form has the **Sold To** contact's email as customerY@example.com.
@@ -100,7 +100,7 @@ For example:
 Customer Y will get this error if they try to log in or create an account in GitLab with their email customerY@example.com then attempt to purchase or renew a paid plan or additional storage, or try to purchase more compute credits from GitLab.  
 The error is reported because *they did not link their Customers Portal account to a GitLab account before making the purchase.*
 
-🔧 To fix the problem, Customer Y needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account).
+🔧 To fix the problem, Customer Y needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account).
 
 ##### Linked accounts have different emails
 Let's say a Customer Z has an existing Customers Portal account (customerZ@example.com) either from an existing purchase or by creating a new account.
@@ -115,7 +115,7 @@ CustomersDot then tries to create an account using the email customerZ@example.c
 
 🔧 To fix the problem, Customer Z needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and either:
 
-- [Change the linked GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account) to the GitLab account with email customerZ@example.com
+- [Change the linked GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account) to the GitLab account with email customerZ@example.com
 - Or update the email in their Customers Portal account to match the email in the linked GitLab account, which is gitlabZ@example.com. 
 Customer Z should not create another account with the email customerZ@example.com because an account will be created for them automatically when the transaction succeeds.
 
@@ -167,7 +167,7 @@ please report if you encounter it again.
       - Check that the issue reports a successful `Subscription Unlinked` message. If this fails, add the label `Console Escalation::Customers` and comment with the ZD ticket link and/or ask for assistance in #support_licensing-subscription.
 1. If the namespace is on a paid plan, request the user to:
    1. Create a new [Customers Portal](https://customers.gitlab.com/customers/sign_in) account
-   1. [Link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account)
+   1. [Link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account)
    1. Retry the purchase from the new portal account
 
 

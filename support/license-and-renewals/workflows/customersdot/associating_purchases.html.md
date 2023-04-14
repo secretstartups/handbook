@@ -101,7 +101,7 @@ Remove an existing billing account membership to associate a customer with a dif
 
 ## Change subscription management contact workflow
 
-This process should be a last resort for **non-reseller customers**, and [self-service options must first be explored](https://docs.gitlab.com/ee/subscriptions/#change-account-owner-information).
+This process should be a last resort for **non-reseller customers**, and [self-service options must first be explored](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-account-owner-information).
 
 Reseller customers **do not** have access to CustomersDot -- for such customers, proceed to the [Support assisted option](#support-assisted-option) steps.
 
@@ -116,7 +116,7 @@ Reseller customers **do not** have access to CustomersDot -- for such customers,
    2. issue a
       [password reset](https://customers.gitlab.com/customers/password/new)
       to the new owner's email
-   3. [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account)
+   3. [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account)
       to ensure their subscription is kept in sync with the linked GitLab group
    4. Once the customer updates their account on Customers Portal, confirm that the Sold To contact in the
       Zuora account matches the Customers Portal account.
@@ -127,7 +127,7 @@ Reseller customers **do not** have access to CustomersDot -- for such customers,
       to the existing owner's email
    2. [claim the account](https://docs.gitlab.com/ee/subscriptions/#change-account-owner-information)
       by changing over the personal details
-   3. [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/#change-the-linked-account)
+   3. [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account)
       to ensure their subscription is kept in sync with the linked GitLab group
    4. Once the customer updates their account on Customers Portal, confirm that the Sold To contact in the
       Zuora account matches the Customers Portal account.

@@ -57,7 +57,7 @@ More succinctly: they're paid, they use the account to pay, or we use the accoun
 
 ### Conditions for 2FA Reset when account is used to access Customers Portal
 
-[Customers Portal](https://customers.gitlab.com) requires all customers to access through a [Linked Gitlab Account](https://docs.gitlab.com/ee/subscriptions/#link-a-gitlabcom-account).
+[Customers Portal](https://customers.gitlab.com) requires all customers to access through a [Linked Gitlab Account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account).
 
 2FA can be reset when one of following conditions are met:
 
