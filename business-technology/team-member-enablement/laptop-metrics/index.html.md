@@ -19,18 +19,18 @@ The **Regions** section is detailing what region and what metric we are tracking
 
 
  
-| Regions                         | August  | September | October | November | December | January | February |
-| -------------                   |:-------:|:---------:|:-------:|:--------:|:--------:|:--------|:---------|
-| EMEA Laptops delivered          |20       |17         |16       |20        |9         |6        |5         |
-| EMEA % on time                  |90%      |94.12%     |94.12%   |90%       |99.90%    |83.40%   |100%      |
-| North America laptops delivered |63       |42         |44       |29        |18        |7        |13        |
-| North America % on time         |87.31%   |92.86%     |90.91%   |100%      |83.49%    |100%     |84.70%    |
-| APAC Laptops delivered          |19       |7          |9        |4         |1         |5        |2         |
-| APAC % on time                  |94.74%   |100%       |55.60%   |100%      |100%      |80%      |100%      |
-| LATAM Laptops delivered         |0        |0          |0        |0         |0         |0        |0         |
-| LATAM % on time                 |N/A      |N/A        |N/A      |N/A       |N/A       |N/A      |N/A       |
-| ROW Laptops delivered           |0        |0          |0        |0         |0         |0        |0         |
-| ROW % on time                   |N/A      |N/A        |N/A      |N/A       |N/A       |N/A      |N/A       |
-| Total laptops delivered         |102      |68         |69       |53        |29        |18       |20        |
-| % Laptops delivered on time     |88.24%   |92.65%     |85.30%   |96.23%    |86.30%    |88.90%   |90%       |
+| Regions                         | September | October | November | December | January | February | March |
+| -------------                   |:---------:|:-------:|:--------:|:--------:|:--------|:---------|-------|
+| EMEA Laptops delivered          |17         |16       |20        |9         |6        |5         |5      |
+| EMEA % on time                  |94.12%     |94.12%   |90%       |99.90%    |83.40%   |100%      |80%    |
+| North America laptops delivered |42         |44       |29        |18        |7        |13        |13     |
+| North America % on time         |92.86%     |90.91%   |100%      |83.49%    |100%     |84.70%    |100%   |
+| APAC Laptops delivered          |7          |9        |4         |1         |5        |2         |3      |
+| APAC % on time                  |100%       |55.60%   |100%      |100%      |80%      |100%      |67%    |
+| LATAM Laptops delivered         |0          |0        |0         |0         |0        |0         |0      |
+| LATAM % on time                 |N/A        |N/A      |N/A       |N/A       |N/A      |N/A       |N/A    |
+| ROW Laptops delivered           |0          |0        |0         |0         |0        |0         |0      |
+| ROW % on time                   |N/A        |N/A      |N/A       |N/A       |N/A      |N/A       |N/A    |
+| Total laptops delivered         |68         |69       |53        |29        |18       |20        |21     |
+| % Laptops delivered on time     |92.65%     |85.30%   |96.23%    |86.30%    |88.90%   |90%       |91%    |
 
