@@ -24,7 +24,7 @@ The interview process consists of the following stages:
 1. Technical Interview (required for certain roles)
 1. Team Interviews
 1. References
-1. Offer & Background Check
+1. Offer & Background Screening
 
 ## Application Process
 
@@ -167,7 +167,7 @@ Example of dual Interview process outline
 1. Team Interviews
 1. Discussion with your recruiter on which role you’re interested in
 1. References
-1. Offer sent for role discussed in step 6 & Background Check
+1. Offer sent for role discussed in step 6 & Background Screen
 
 **For internal candidates only (in addition to the above guidelines)**
 
@@ -235,9 +235,9 @@ References will be collected towards the end of the interview stage and they mus
 
 Three references will be requested and at least one needs to be a past manager. If you have only had 1 manager, and it is at your current company, it is okay to skip the manager reference (though at least two total references will still be required).
 
-## Offer & Background Check
+## Offer & Background Screening
 
-Depending on your location, a [background check](https://about.gitlab.com/handbook/people-policies/#background-screenings) will be initiated at the same time as references or once an offer has been extended. 
+Depending on your location, a [background screen](https://about.gitlab.com/handbook/people-policies/#background-screenings) will be initiated at the same time as references or once an offer has been extended. 
 
 ## Where does GitLab hire people? 
 
