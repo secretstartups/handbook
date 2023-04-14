@@ -54,6 +54,17 @@ Typically, 3-month rolling average is a good indicator of the team's capacity. K
 
 The PM and EM will work to fit ~Deliverable issues into no more than 75% of the team's capacity and allocate the rest to ~Stretch issues.
 
+### Use of Labels
+
+Proper labelling of issues helps with the classification, traceability and quantification of work the team can and is doing. Some labels
+are essential. The table below describes these and gives the reason why.
+
+| Label | Use | Handbook Guidance | DRI |
+|---    | --- | ---               | --- |
+| ~workflow::* | Communicates the current workflow state of an issue. Important for understanding progress & quantifying risk during the course of a milestone. | [Updating Issues Throughout Development](https://about.gitlab.com/handbook/engineering/workflow/#updating-issues-throughout-development) | Engineer |
+| ~type::* | Communicates the type of work being done. Used to quantify and report the split of work to roles inside and outside GitLab. | [Work Type Classification](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) | |
+| ~Deliverable/~Stretch | ~Deliverable communicates to customers and stakeholders that we intend to deliver an issue within the assigned milestone. ~Stretch indicates that it might be started during the milestone but is not expected to complete. | [Release Scoping Labels](https://docs.gitlab.com/ee/development/labels/#release-scoping-labels) | Engineering Manager |
+
 ### Dashboards
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Knowledge" } %>
