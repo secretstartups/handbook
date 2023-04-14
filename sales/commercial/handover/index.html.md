@@ -34,7 +34,7 @@ Account Manager, [Expand AE] (in copy).
 
 *ACTION NEEDED*
 → Once you receive your ‘Thanks for Purchasing’ email from GitLab, please link the
-subscription to the namespace using the steps listed [*here*](https://docs.google.com/document/d/e/2PACX-1vRJ7bvONCdfuvfl26ZFDleiDTZv5LwSzB4sloOu9wCEM3lVK-zSZiCqQJPX3IPI4i_KHJ7E4JbZacfF/pub). A video tutorial can also be found [*here*](https://www.youtube.com/watch?v=qAq8pyFP-a0).  You can also add your payment info to your account [*here*](https://docs.gitlab.com/ee/subscriptions/#change-your-payment-method).
+subscription to the namespace using the steps listed [*here*](https://docs.google.com/document/d/e/2PACX-1vRJ7bvONCdfuvfl26ZFDleiDTZv5LwSzB4sloOu9wCEM3lVK-zSZiCqQJPX3IPI4i_KHJ7E4JbZacfF/pub). A video tutorial can also be found [*here*](https://www.youtube.com/watch?v=qAq8pyFP-a0).  You can also add your payment info to your account [*here*](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-your-payment-method).
 
 → *Setup a time to meet* <https://calendly.com/XXXXX> with
 [Expand AE] to ensure you have everything you need to set up your GitLab and onboard successfully
@@ -110,7 +110,7 @@ In the meantime, here are some helpful resources that you might want to bookmark
     - [Add seats](https://about.gitlab.com/pricing/licensing-faq/#can-i-add-more-users-to-my-subscription)
     - [Renew your subscription](https://docs.google.com/document/d/1GvKxTGQo9e4h0AOcuBRhIRH5tI4vBCn0kK1ITCe39yY/edit)
     - [Change personal or account details](https://docs.gitlab.com/ee/subscriptions/index.html#change-your-personal-details)
-    - [Update your payment method](https://docs.gitlab.com/ee/subscriptions/index.html#change-your-payment-method) 
+    - [Update your payment method](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-your-payment-method) 
     - [Raise a support ticket](https://www.google.com/url?q=https://support.gitlab.com/hc/en-us/requests/new&sa=D&source=docs&ust=1668619970099729&usg=AOvVaw0tLRKHMifwIeECBUyDypYS)
     - Technical webinar calendar
 
@@ -155,7 +155,7 @@ To get in contact with your sales team, complete the form on our [SMB Account Hu
 
 GitLab Customers Portal
 
-GitLab [Customers Portal](https://customers.gitlab.com/customers/sign_in) enables you to manage key aspects of your GitLab account self-service. Leverage this portal to [renew your subscription](https://about.gitlab.com/pricing/licensing-faq/#how-do-i-renew-my-subscription), [add seats](https://about.gitlab.com/pricing/licensing-faq/#can-i-add-more-users-to-my-subscription), [change personal or account details](https://docs.gitlab.com/ee/subscriptions/index.html#change-your-personal-details), [update your payment method](https://docs.gitlab.com/ee/subscriptions/index.html#change-your-payment-method), and accomplish other account-related tasks.
+GitLab [Customers Portal](https://customers.gitlab.com/customers/sign_in) enables you to manage key aspects of your GitLab account self-service. Leverage this portal to [renew your subscription](https://about.gitlab.com/pricing/licensing-faq/#how-do-i-renew-my-subscription), [add seats](https://about.gitlab.com/pricing/licensing-faq/#can-i-add-more-users-to-my-subscription), [change personal or account details](https://docs.gitlab.com/ee/subscriptions/index.html#change-your-personal-details), [update your payment method](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-your-payment-method), and accomplish other account-related tasks.
 GitLab Support
 Need technical assistance? Please contact customer support by submitting a case on our [Gitlab Support page](https://support.gitlab.com/hc/en-us).
 Thank you for being a part of the GitLab community, 
