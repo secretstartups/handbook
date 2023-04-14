@@ -28,7 +28,7 @@ Example: [rename `category:Pods` to `category:Cell`](https://gitlab.com/gitlab-o
 
 Group G is renamed to Group A, where A is a newly created group name. Required actions:
 
-1. locate the [`group::G` label in](https://gitlab.com/groups/gitlab-org/-/labels) and update the title and description.
+1. locate the [`group::G` label](https://gitlab.com/groups/gitlab-org/-/labels) in the Labels page and update the title and description.
 2. No label migration needs to run because the new label didn't exist before and we do not need to keep the old label name.
 
 #### Group/Category/Stage merge
