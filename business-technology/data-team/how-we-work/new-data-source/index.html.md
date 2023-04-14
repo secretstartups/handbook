@@ -145,7 +145,7 @@ When the execution of the work starts, the issue is in development and follows t
 During the development, the Data Engineer aligns with all the stakeholders, about access to the data. Data access can be provided to the `raw` schema, depending on the data and the use case.
 
 ### workflow::6 - review
-When the execution of the work is finished, the issue is in review and follows the regular development life cycle.
+When the execution of the work is finished, the issue is in review and follows the regular development life cycle. 
  
 ### workflow::X - blocked
 When the execution could not continue due to the need of external intervention, the issue is `blocked`. There must be a clear problem statement given and the right people need to be assigned on the shortest notice possible.
@@ -161,3 +161,7 @@ When extracting new data towards Snowflake;
 ## Monte Carlo observability
  
 When a new data source is extracted towards the `raw` layer there will be a new separate schema created for that datasource in many cases. In order to make sure the new data source is observed by Monte Carlo follow the steps outlined in [Monte Carlo permission](/handbook/business-technology/data-team/platform/monte-carlo/#note-on-dwh-permissions) handbook section.
+
+## Documentation
+
+The new data source will be documented in the handbook, following this [template](/handbook/business-technology/data-team/platform/pipelines/template).
