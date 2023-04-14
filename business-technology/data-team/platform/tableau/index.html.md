@@ -99,7 +99,7 @@ The Project Architecture in Tableau Online is replicated and governed in the Git
     1. **Data Sources**
         1. CS: Data Source Name
         1. CS: Virtual Connection Name
-1. **Production** (Maps to our [Trusted Data Development Process](/handbook/business-technology/data-team/data-development/#trusted-data-development). Workbooks that pass Trusted Data Certification will receive a Certified Stamp. If the Workbook does not pass Trusted Data certification, but is still considered SSOT, Production grade content, the content can still be published in Production, but it will not receive a Certified Stamp. In such cases, there should be an issue with a project plan for the Workbook to receive a Certified Stamp.)
+1. **Production** (Maps to our [Trusted Data Development Process](/handbook/business-technology/data-team/data-development/#trusted-data-development)
     1. **Go To Market** 
         1. **SAFE**
             1. GTM: Workbook Name
@@ -138,6 +138,7 @@ Please see the [project-permission-structure](/handbook/business-technology/data
 | Marketing                     | `@christinelee`, `@jahye1`                                      | Sub-Project Leader       | Code Owner |
 | People                        | `@aperez349`, `@mccormack514`                                   | Sub-Project Leader       | Code Owner |
 | Product                       | `@cbraza`                                                       | Sub-Project Leader       | Code Owner |
+| Engineering                   | `@cdeleon_gitlab`                                               | Sub-Project Leader       | Code Owner |
 | Sales                         | `@aileenlu`                                                     | Sub-Project Leader       | Code Owner |
 | Finance: GTM Finance          | `@alixtucker`, `@nbernardo`, `@ofalken`, `@vagrawalg`           | Sub-Project Leader       | Code Owner |
 | Finance: Corporate Finance    | `@james.shen`, `@vagrawalg`                                     | Sub-Project Leader       | Code Owner |
@@ -149,7 +150,7 @@ Please see the [project-permission-structure](/handbook/business-technology/data
 
 ### BIOPs Workflows
 
-The BIOps Workflow consists of 4 stages; Access Request, Development, Ad-Hoc Publishing, and Production Publishing. Please see the README(Coming soon...) in the GitLab Tableau Project for detailed steps on the workflow to include the process for submitting a Merge Request for Tableau Production publishing, submitting an Issue for Tableau Ad-Hoc publishing, and receiving the necessary maintainer and code owner approvals from Project and Sub-Project leaders for publishing content.  
+The BIOps Workflow consists of 4 stages; Access Request, Development, Ad-Hoc Publishing, and Production Publishing. Please see the [README](https://gitlab.com/gitlab-data/tableau/-/blob/main/README.md) in the GitLab Tableau Project for detailed steps on the workflow to include the process for submitting a Merge Request for Tableau Production publishing, submitting an Issue for Tableau Ad-Hoc publishing, and receiving the necessary maintainer and code owner approvals from Project and Sub-Project leaders for publishing content.  
 
 ```mermaid
 graph LR
@@ -162,8 +163,26 @@ graph LR
 
 1. **Access Request:** The Access Request stage requires completion of an Access Request. Please see the [Access](/handbook/business-technology/data-team/platform/tableau/#access) section of the Tableau handbook page for more details. 
 2. **Development:** All Tableau Content Development starts in the Development Project Folder. The Development Folder is a Sandbox environment where Tableau developers are free to experiment and iterate with content and share with team members for initial peer reviews. Tableau Developers can organize their Sandbox work using [Collections](https://help.tableau.com/current/pro/desktop/en-us/collections.htm) for easy access and sharing.  **The Development Folder will have the same user experience as our old Sisense BI tool where team members can create and share content on demand without any approvals being required from the BI Platform team.** 
-3. **Ad-Hoc Publishing:** When content in the Development Project Folder is ready for publishing, it can be published in the Ad-Hoc Project Folder if it adheres to the [Ad-Hoc Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) methodology. **Please see the README(Coming soon...) for detailed steps on publishing content to the Ad-Hoc Project Folder.** 
-4. **Production Publishing:** When content in the Development or Ad-Hoc Project Folders is ready for Production publishing, it can be published in the Production Project Folder if it adheres to the [Trusted Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) methodology. Content that adheres to the Trusted Data Development process will get a Certified Stamp in Production. If the content does not adhere to the Trusted Data Development requirements, but is still considered SSOT, Production grade content, the content can still be published in Production, but it will not receive a Certified Stamp. In such cases, there should be an issue with a project plan for the Tableau content to receive a Certified Stamp. **Please see the README(Coming soon...) for detailed steps on publishing content to the Production Project Folder.**
+3. **Ad-Hoc Publishing:** When content in the Development Project Folder is ready for publishing, it can be published in the Ad-Hoc Project Folder if it adheres to the [Ad-Hoc Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) methodology. **Please see the [README](https://gitlab.com/gitlab-data/tableau/-/blob/main/README.md) for detailed steps on publishing content to the Ad-Hoc Project Folder.** 
+4. **Production Publishing:** When content in the Development or Ad-Hoc Project Folders is ready for Production publishing, it can be published in the Production Project Folder if it adheres to the [Trusted Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) methodology. Content that adheres to the Trusted Data Development process will get a Certified Stamp in Production. If the content does not adhere to the Trusted Data Development requirements, but is still considered SSOT, Production grade content, the content can still be published in Production, but it will not receive a Certified Stamp. In such cases, there should be an issue with a project plan for the Tableau content to receive a Certified Stamp. **Please see the [README](https://gitlab.com/gitlab-data/tableau/-/blob/main/README.md) for detailed steps on publishing content to the Production Project Folder.**
+
+### BI Development Excellence
+
+Tableau Workbooks must satisfy all of the below requirements in order to be published to Tableau Production. These requirements are included in the Merge Request Template for Production Publishing (Link coming soon...).
+
+1. The workbook uses a template in the Resources folder. If a template is not used, then at a minimum, the workbook should include the GitLab logo, handbook url, and the project path.
+1. The content adheres to the Development workflow. 
+1. The content is the Single Source of Truth (SSOT) for a business area. The SSOT should be documented in the handbook either in a Business Domain Handbook Page, Data Guide in the Data Catalog, or both.
+1. Business owner has signed off on both the functionality of the content and the validity of the numbers.
+1. Technical owner has signed off on validity of the numbers.
+1. The workbook uses a Certified Virtual Connection or a Certified Published Data Source.
+1. Performance tuning has been performed and the workbook refreshes within 5 minutes max.
+
+### Tableau Trusted Data Certification
+
+Tableau Workbooks that meet all requirements for [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) and meet all requirements for BI Development Excellence (Link coming soon...) will receive a `Trusted Data` Certification. The certification is applied by placing a `TD` in the workbook title. 
+
+Tableau Data Sources that meet all requirements for [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) will receive a `Trusted Data` Certification. The certification is applied using native [Tableau functionality](https://help.tableau.com/current/server/en-us/datasource_certified.htm) and a certified stamp is applied to the data source.
 
 ## Deployment
 
@@ -631,54 +650,3 @@ Because Tableau is integrated with our enterprise architecture, including hardwa
 ### Tableau Online Status
 
 To check the current status of Tableau Online and if there are any reported outages, visit the [Tableau Status Page](https://trust.tableau.com). On that page you can also sign up for notifications in the event of an outage. For reference, GitLab's Tableau Online instance is located in `United States - West - (10AZ)`.
-
-## DRAFT: Production and Pilot environment
-
-In FY24 we are readying our environment for true production releases. 
-
-<details markdown=1>
-
-<summary><b>Folder structure and permissions</b></summary>
-
-|  Folder Environment |  What can be published |  Who can publish | Who can view |
-| ------ |  ------ |  ------ | ------ |
-| Development - SAFE | Any data from Snowflake and GSheets  | Any SAFE Creator in their own department’s folders | Any SAFE Creator can see their own department’s folders |
-| Development - General Access | Any non-SAFE data from Snowflake and GSheets | Any non-SAFE Creator in their own department’s folders | Any non-SAFE Creator can see their own department’s folders |
-| Sandbox - SAFE | Any data from Snowflake and GSheets | Any SAFE Creator in their own department’s folders | Any SAFE User |
-| Sandbox - General Access | Any non-SAFE data from Snowflake and GSheets | Any non-SAFE Creator in their own department’s folders | Any User  |
-| Production - SAFE | Any trusted data from Snowflake EDM | Site Admin (data team)  | Any SAFE User |
-| Production - General Access |  Any non-SAFE trusted data from Snowflake EDM | Site Admin (data team)  | Any User  |
-| Pilot (SAFE) | Any data from Snowflake and GSheets | Any SAFE Creator in their own department’s folders | Any SAFE User |
-| Future: Public Broadcast | Any publicly shareable data | Site Admin (data team) | Public |
-
-- Restricted subfolders have access limited to only users from their departments
-- SAFE Creators can access, but not publish in non-SAFE environments
-- Non-SAFE Creators cannot access nor publish in SAFE environments
-- Only Site Admins can publish in Production, after review
-- All users are added to appropriate User Groups:  department group, SAFE or non-SAFE, developer or not, admin or not
-- Publishing permissions are based on Site role (Creator or Viewer) and RBAC permissions (see previous slide)
-
-Environments designated as SAFE, including our Pilot folders, are treated as a [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) environment, just like our [Sisense SAFE dashboard space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/). 
-
-</details>
-
-<details markdown=1>
-
-<summary><b>Production Requirements</b></summary>
-
-Production releases need to meet the following criteria:
-* Data has been validated
-* Business owner has signed off on both the functionality of the content and the validity of the numbers
-* Uses virtual connections, or a service account. If not, have data team change credentials to using the service account
-* Data source is published separately
-* Data comes from trusted enterprise data models (EDM) in Snowflake. If data comes from other sources, including legacy tables in Snowflake, there is an open issue with the Data Team to get data added to the EDM. 
-* Where possible, Custom SQL statements are avoided. 
-* GitLab's standard colors are used in the UI
-* Performance tuning has been performed
-* Content has been reviewed by the Data Team
-* For general access (non-SAFE) data, confirm that no restricted (SAFE) data is used
-* Data and content is not duplicated in other production dashboards
-
-Production releases will be reviewed bi-weekly. 
-
-</details>
