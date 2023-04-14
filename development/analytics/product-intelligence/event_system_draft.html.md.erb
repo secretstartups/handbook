@@ -15,24 +15,56 @@ Disclaimer: This is draft documentation to inform a potential iteration of Gitla
 
 # GitLab Internal Events Tracking
 
+The Usage Insights system is backward compatible with legacy Product Intelligence tooling, and all
+preexisting data reported from legacy systems are still going to be reported as it was. For more information about
+legacy systems and migration follow to [later section](#migration-from-legacy-systems-service-ping-snowplow) of this documentation.
+{: .alert .alert-info}
+
 Product Intelligence events provide the ability to record information about different actions occurring in a GitLab installation.
+This documentation is structured in such a way that most readers can add metrics to their code by following the [Quick Start Guide](#quick-start-guide).
+
+The Quick Start Guide section is followed by [information](#using-usage-insights-data) about the resulting data and how to utilize it to gather product insights to help drive business decisions.
 
 The two main elements in the system are events and metrics.
 
-1. Events are triggered by specific actions or changes within the system, such as a user creating a merge request or a pipeline failing. When an event occurs, information about the event is recorded and can be used for analytics.
-1. Metrics are a way to measure and analyze the data collected from events. By collecting and analyzing metrics, we can track user behavior and engagement, measure the success of specific features or initiatives, and inform business decisions.
+## Event
 
-Notice that events data is only available directly for SaaS (GitLab.com) instance and not on self-managed ones. Metrics on the other hand are collected from all Gitlab instances.
+Everything starts with an event. An event can be any action happening in a system.
+Such actions might be initiated by user interaction like displaying a Merge Request page
+or hovering the mouse cursor over the top navigation search.
+Other actions can result from background system processing like scheduled pipeline succeeding,
+or receiving API calls from 3rd party system.
+Regardless of the sources if some action is useful for drawing some insights and helping make more educated business decisions,
+that action can produce persistent records holding the information that it has occurred.
+The persistent record would be later called an event record,
+and besides holding information about some specific activities happening in the system it can contain additional details about
+the context (state of GitLab system) that accompanied this action.
 
-This documentation is structured in such a way that most readers can add metrics to their code by following the Quick Start Guide.
+## Metric
 
-By way of example, the quick start guide illustrates how a generator can be used to add events and metrics.
-The generator will create the necessary configuration files (aka event and metric definitions explained later in this document) you need as well as produce the code snippet to add to GitLab.
-You could create all this by hand, but the generator will be faster in most cases.
+Events data is only available directly for SaaS (GitLab.com) instance and not on self-managed ones.
+Metrics on the other hand are collected on weekly cycle from all Gitlab instances that gave the GitLab organization
+their consent to collect data.
+{: .alert .alert-info}
 
-If you are looking for more detailed documentation, please see the later sections of this page.
+The information in a single event is not informative enough and might be caused by a coincidence,
+in order to have a robust foundation it is necessary to look for sets of events sharing common traits.
+For example, a single event documenting a paid user visiting Merge Request page after a new feature was released tells nothing about the success of this new feature. However, if one counts the number of Merge Request page view event happening in the week before the new feature release and then compares it with the number of events for the week following the feature release, then that person will be able to gauge if the new feature increased popularity of Merge Request page.
+
+Described in the example process of counting events based on common traits in defined time frames
+is the process that leads to the creation of a second important entity in Product Intelligence: a metric.
+A metric is a piece of Product Intelligence data that results from analyzing sets of event records defined by some common traits and limited to some time frame.
+
+To learn more about all available types of metrics follow to [later section](#metric-types) of documentation.
+
+To see an example that illustrates how a generator can be used to add events and metrics, continue reading to the next paragraph.
 
 ## Quick start guide
+
+The quick start guide is going to show how to use the Product Intelligence generator to create the necessary configuration files
+(aka [event](#event) and [metric definitions](#metric) explained later in this document)
+you need as well as produce the code snippet to add to the GitLab's codebase.
+You could create all this by hand, but the generator will be faster in most cases.
 
 Let us imagine a scenario where your team just added a cool new feature where an AI model analyses a Merge Request diff and adds automated code review.
 You and your team are very excited and you want to know if users like this new feature as much as you do.
@@ -49,11 +81,10 @@ To measure this success metric you need to do three things:
 
 By using the generator, you can accomplish 1) and 2). The generator will also give you code samples you can use to accomplish 3).
 
-Let's get started by running the generator:
+Let's get started by running the generator `$ bin/pi_generate`:
 
 <details markdown=1><summary>An example of using the generator make an event.</summary>
-
-```bash
+```shell
 $ bin/pi_generate
 > Please provide a unique name for your event. Only lowercase alphanumeric characters and underscore is allowed for use. The Product Intelligence team recommends following pattern <action>_<target>.
 
@@ -73,32 +104,30 @@ Y
 
 N
 
-> By convention all events automatically include the following properties: environment (prod, stg), and source (ruby, javascript)
+> By convention all events automatically include the following properties:
+> * environment: string,
+> * source: string (eg: ruby, javascript)
+> * user_id: number
+> * project_id: number
+> * namespace_id: number
+> * plan: string (eg: free, premium, ultimate)
+> Would you like to remove default properties from the event? Y/N
+
+N
+
 > Would you like to add additional properties to the event? Y/N
 
 Y
 
-> Name? (e.g. project_id)
-
-project_id
-
-> Type (number, string, url, boolean):
-
-number
-
-> Is the property required? Y/N
-
-Y
-
-> Name? (e.g. project_id)
+> New property name? (e.g. project_id)
 
 merge_request_id
 
-> Type (number, string, url, boolean):
+> The merge_request_id property type (number, string, url, boolean):
 
 number
 
-> Is the property required? Y/N
+> Is the merge_request_id property required? Y/N
 
 Y
 
@@ -106,15 +135,15 @@ Y
 
 Y
 
-> Name? (e.g. project_id)
+> New property name? (e.g. project_id)
 
 merge_request_milestone
 
-> Type (number, string, url, boolean):
+> The merge_request_milestone property type (number, string, url, boolean):
 
 string
 
-> Is the property required? Y/N
+> Is the merge_request_milestone property required? Y/N
 
 N
 
@@ -139,7 +168,7 @@ We support several different types of metrics that you can read about [here](#me
 most common ones now:
 
 <details markdown=1><summary>A continuation of the example of generator used to create a metric based on newly added events.</summary>
-```
+```shell
 > Do you want to measure your new event with a metric? Y/N
 
 Y
@@ -181,8 +210,7 @@ That's it. You have now generated an event and a metric. The generator will outp
 use to trigger events in your backend or frontend code.
 
 <details markdown=1><summary>A closing output from the generator used in default mode to create both new events and new metric based on newly added events.</summary>
-```
-
+```shell
 > All done!
 
 > Generated:
@@ -191,25 +219,30 @@ use to trigger events in your backend or frontend code.
 >
 > You can track your events in Ruby using:
 
->    GitLab::Tracking.applied_ai_code_review_suggestion_1_0_0(project_id: 1,
->                        merge_request_id: 1,
->                        merge_request_milestone: "string")
->
-> You can track your events in Vue using Tracking mixin
->      this.track({
->        event_name: 'applied_ai_code_review_suggestion',
->        event_version: '1-0-0',
->        project_id: this.projectId,
->        merge_request_id: this.mergeRequestId,
->        merge_request_milestone: this.mergeRequestMilestone,
->      });
->
+    GitLab::Tracking.applied_ai_code_review_suggestion_1_0_0(project_id: 1,
+                        merge_request_id: 1,
+                        namespace_id: namespace.id
+                        user_id: current_user.id
+                        merge_request_milestone: "string")
+
+> You can track your events in Vue using this Tracking mixin:
+      this.track(
+        'applied_ai_code_review_suggestion',
+        '1-0-0',
+        {
+          user_id: this.userId,
+          namespace_id: this.namespaceId,
+          project_id: this.projectId,
+          merge_request_id: this.mergeRequestId,
+          merge_request_milestone: this.mergeRequestMilestone,
+        }
+      );
+
 ```
 </details>
 
 When invoked like above, the generator will create the following event definition at `config/events/definitions/active/applied_ai_code_review_suggestion/1-0-0.json` and metric definition at
 `/config/metrics/definitions/active/count_distinct_merge_request_id_from_applied_ai_code_review_suggestion_v1_0_0.yml`
-
 
 ### Declare a metric using an existing event
 
@@ -219,7 +252,7 @@ The following example will show a new metric addition process for a single exist
 discussed in [later section](#multi-event-based-metrics) of this document:
 
 <details markdown=1><summary>An example of generator --metric-only mode to add new metric using existing events.</summary>
-```
+```shell
 $ bin/pi_generate --metric-only
 > Which event would you like to create a metric for?
 
@@ -282,59 +315,6 @@ This metric counts distinct merge request id from applied_ai_code_review_suggest
 
 After you add the new metric definition your new metric will automatically get updated when the events you included are triggered.
 
-## Event definition file
-
-The generator upon execution will creat number of configuration files including ones called event definition.
-Event definition files are using JSONSchema syntax and are used for both documentation and validation of incoming event
-records to make sure that data is not corrupted due to a bug or adversary action. Below we present example contet
-of event definition file:
-
-```json
-{
-  "$schema": "http://iglucentral.com/schemas/com.snowplowanalytics.self-desc/schema/jsonschema/1-0-0#",
-  "description": "applied_ai_code_review_suggestion is tracking users who apply code suggestion changes made by an AI model to merge request diff. It helps the code review group to understand the utilization of the new AI-powered feature. Additional information that this event includes are project id, merge request id, and milestone",
-  "self": {
-    "vendor": "com.gitlab",
-    "name": "applied_ai_code_review_suggestion",
-    "version": "1-0-0",
-    "format": "jsonschema"
-  },
-  "type": "object",
-  "properties": {
-    "name": { "const": "applied_ai_code_review_suggestion" },
-    "context": {
-      "type": "object",
-      "properties": {
-        "project_id": { "type": "number" },
-        "merge_request_id": { "type": "number" },
-        "merge_request_milestone": { "type": "string" },
-        "environment": { "type": "string" },
-        "source": { "type": "string" }
-      },
-      "additionalProperties": false,
-      "required": [
-        "project_id",
-        "merge_request_id",
-        "environment",
-        "source"
-      ]
-    }
-  },
-  "product_group": "group::configure",
-  "milestone": "15.10",
-  "introduced_by_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/82690",
-  "availability_limited_to": [
-    "premium",
-    "ultimate"
-  ],
-  "additionalProperties": false,
-  "required": [
-    "name",
-    "context"
-  ]
-}
-```
-
 ### Event tracking on the frontend
 
 You can track your events using `Tracking` mixin offering a single method `track`.
@@ -342,7 +322,7 @@ It takes 3 arguments in following order:
 1. `event_name` - a string with the same value as can be found under `self.name` in your event schema. `event_name` is also presented by the generator after successfully event definition creation
 1. `event_version` - a string with the same value as can be found under `self.version` in your event schema. `event_version` is also presented by the generator after successfully event definition creation
 1. An object with all additional properties according to the event definition file
-under `properties.context` with exception of `environment`, and `source` that are filled automatically by SDK and are not exposed as arguments of the tracking method
+under `properties.context` with exception of with exception of `environment`, `source`, and `plan` that are filled automatically by SDK and are not exposed as arguments of the tracking method
 
 ```vue
 --- a/app/assets/javascripts/vue_shared/components/markdown/apply_suggestion.vue
@@ -387,8 +367,8 @@ under `properties.context` with exception of `environment`, and `source` that ar
 +        'applied_ai_code_review_suggestion',
 +        '1-0-0',
 +        {
-+          event_name: 'applied_ai_code_review_suggestion',
-+          event_version: '1-0-0',
++          user_id: this.userId,
++          namespace_id: this.namespaceId,
 +          project_id: this.projectId,
 +          merge_request_id: this.mergeRequestId,
 +          merge_request_milestone: this.mergeRequestMilestone,
@@ -415,38 +395,92 @@ and add tracking method call there.
        Suggestion.id_in(suggestion_set.suggestions)
          .update_all(commit_id: result[:result], applied: true)
 
-+      GitLab::Tracking.applied_ai_code_review_suggestion_1_0_0(
-+                             project_id: suggestion_set.source_project.id,
-+                             merge_request_id: merge_request.id,
-+                             merge_request_milestone: merge_request.milestone)
++      GitLab::Tracking.applied_ai_code_review_suggestion_1_0_0(project_id: suggestion_set.source_project.id,,
++                       merge_request_id: merge_request.id,
++                       namespace_id: suggestion_set.source_project.namespace.id,
++                       user_id: current_user.id
++                       merge_request_milestone: merge_request.milestone)
 +
        Gitlab::UsageDataCounters::MergeRequestActivityUniqueCounter
          .track_apply_suggestion_action(user: current_user, suggestions: suggestion_set.suggestions)
      end
-
-+    def merge_request
-+      suggestion_set.suggestions.first.note.noteable
-+    end
-+
 ```
 
 An event tracking method name is generated by appending with underscore  `event_version` at the end of `event_name` and replacing all dashes with underscores.
 The generated method keywords arguments match the event properties from the event definition file
-under `properties.context` with exception of `environment` and `source` that are filled automatically by SDK
+under `properties.context` with exception of `environment`, `source`, and `plan` that are filled automatically by SDK
 and are not exposed as arguments of the tracking method.
 All optional properties would default to `null`
 
-### Metric definition format
+## Event definition
 
-The generator will create a new ready-for-use metric definition file
-which would look like this:
+Each event in the GitLab system has its corresponding JSONSchema file that is used for both documentation and validation of incoming event
+records to make sure that data is not corrupted due to a bug or adversary action.
+Event definition files can be manipulated directly via preferred text editor tool.
+However in majority of cases files created by the generator do not require any further user attention.
+Below we present example content of an event definition file.
 
-The generator upon execution will creat number of configuration files including ones called metric definition.
-Metric definition files uses YAML syntax.
-Just like mentioned previously event definition files are used for both documentation and validation of incoming metrics
-to make sure that data is not corrupted due to a bug or adversary action. Below we present example content
-of metric definition file:
+<details markdown=1><summary>An event definition.</summary>
 
+```json
+{
+  "$schema": "http://iglucentral.com/schemas/com.snowplowanalytics.self-desc/schema/jsonschema/1-0-0#",
+  "description": "applied_ai_code_review_suggestion is tracking users who apply code suggestion changes made by an AI model to merge request diff. It helps the code review group to understand the utilization of the new AI-powered feature. Additional information that this event includes are project id, merge request id, and milestone",
+  "self": {
+    "vendor": "com.gitlab",
+    "name": "applied_ai_code_review_suggestion",
+    "version": "1-0-0",
+    "format": "jsonschema"
+  },
+  "type": "object",
+  "properties": {
+    "name": { "const": "applied_ai_code_review_suggestion" },
+    "context": {
+      "type": "object",
+      "properties": {
+        "user_id": { "type": "number" },
+        "namespace_id": { "type": "number" },
+        "project_id": { "type": "number" },
+        "merge_request_id": { "type": "number" },
+        "merge_request_milestone": { "type": "string" },
+        "environment": { "type": "string" },
+        "plan": { "type": "string" },
+        "source": { "type": "string" }
+      },
+      "additionalProperties": false,
+      "required": [
+        "project_id",
+        "merge_request_id",
+        "environment",
+        "source"
+      ]
+    }
+  },
+  "product_group": "group::configure",
+  "milestone": "15.10",
+  "introduced_by_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/82690",
+  "availability_limited_to": [
+    "premium",
+    "ultimate"
+  ],
+  "additionalProperties": false,
+  "required": [
+    "name",
+    "context"
+  ]
+}
+```
+</details>
+
+## Metric definition
+
+Each metric in the GitLab system has its corresponding YAML file that is used for both documentation and validation
+to make sure that data is not corrupted due to a bug or adversary action.
+Metric definition files can be manipulated directly via preferred text editor tool.
+However in majority of cases files created by the generator do not require any further user attention.
+Below we present example content of a metric definition file:
+
+<details markdown=1><summary>A metric definition.</summary>
 ```yaml
 ---
 data_category: optional
@@ -470,34 +504,11 @@ tier:
 - premium
 - ultimate
 ```
+</details>
 
-You can take a look into the metric definition file to make sure that all details are filled correctly, but for the sake of
-the majority of use cases, there is no need to change anything in there once you completed interactions with the generator.
+## Metric types
 
-## Event
-
-Everything starts with an event. An event can be any action happening in a system.
-Such actions might be initiated by user interaction like displaying a Merge Request page
-or hovering the mouse cursor over the top navigation search.
-Other actions can result from background system processing like scheduled pipeline succeeding,
-or receiving API calls from 3rd party system.
-Regardless of the sources if some action is useful for drawing some insights and helping make more educated business decisions,
-that action can produce persistent records holding the information that it has occurred.
-The persistent record would be later called an event record,
-and besides holding information about some specific activities happening in the system it can contain additional details about
-the context (state of GitLab system) that accompanied this action.
-
-## Metric
-
-The information that a single event happened is not informative enough and might be caused by a coincidence,
-in order to have a robust foundation it is necessary to look for sets of events sharing common traits.
-For example, a single event documenting a paid user visiting Merge Request page after a new feature was released tells nothing about the success of this new feature. However, if one counts the number of Merge Request page view event happening in the week before the new feature release and then compares it with the number of events for the week following the feature release, then that person will be able to gauge if the new feature increased popularity of Merge Request page.
-
-Described in the example process of counting events based on common traits in defined time frames
-is the process that leads to the creation of a second important entity in Product Intelligence: a metric.
-A metric is a piece of Product Intelligence data that results from analyzing sets of event records defined by some common traits and limited to some time frame.
-
-There are two types of metrics computation available to use that will be discussed in following paragraphs.
+Metrics can use one or more events, and have two two types computation available that will be discussed in following paragraphs.
 
 ### Total count metric
 
@@ -505,7 +516,7 @@ The most straightforward type of metric.
 It counts all event records for an appointed event that satisfy a set of defined filters.
 This type of metric does NOT exclude duplicated entries and it can be compared to running SQL `SELECT COUNT(*) FROM events` statement.
 
-An example metric definition file looks as follows:
+<details markdown=1><summary>An example metric definition.</summary>
 
 ```yaml
 ---
@@ -519,7 +530,6 @@ source: events
 events:
 - applied_ai_code_review_suggestion:
   version: 1-0-0
-  unique_on: event_record
 filters:
   time_frames: [7days, 28days]
 value_type: number
@@ -531,6 +541,7 @@ tier:
 - premium
 - ultimate
 ```
+</details>
 
 ### Distinct count metric
 
@@ -539,7 +550,7 @@ It counts unique values of selected (at `events.<event_name>.unique_by: project_
 based on all event records for the appointed event that satisfy a set of defined filters.
 This type of metric excludes duplicated entries and it can be compared to running SQL `SELECT COUNT(DISTINCT project_id) FROM events` statement.
 
-An example metric definition file looks as follows:
+<details markdown=1><summary>An example metric definition.</summary>
 
 ```yaml
 ---
@@ -566,6 +577,7 @@ tier:
 - premium
 - ultimate
 ```
+</details>
 
 ### Multi event based metrics
 
@@ -586,7 +598,7 @@ Total counts based on more than one event counts all event records that was trac
 A metric definition can be configured with `$ bin/pi_generate` generator
 
 <details markdown=1><summary>An example usage of the generator to create a metric that is based on multiple events.</summary>
-```
+```shell
 $ bin/pi_generate --metric-only
 
 > You can either count all the events or the number of distinct attributes within events.
@@ -628,6 +640,8 @@ N
 The generator (after filling rest of the configuration steps discussed in [_Quick Start_](#quick-start-guide) section) would produce
 following metric definition:
 
+<details markdown=1><summary>The metric definition.</summary>
+
 ```yaml
 ---
 data_category: optional
@@ -655,6 +669,7 @@ tier:
 ```
 
 The above configuration would sum a total number of event records that were recorded for each of the `option.events` listed events within the last week.
+</details>
 
 #### Multi event distinct count metrics
 
@@ -682,7 +697,7 @@ SELECT COUNT(DISTINCT user_id) FROM
 To create a metric definition for multi event distinct count metric you can use `$ bin/pi_generate` generator
 
 <details markdown=1><summary>An example usage of the generator to create a metric that is based on multiple events.</summary>
-```
+```shell
 $ bin/pi_generate --metric-only
 
 > You can either count all the events or the number of distinct attributes within events.
@@ -735,13 +750,15 @@ project_id
 
 N
 
-> ... Ask about time frame, tier, name and desscription
+> ... Ask about time frame, tier, name and description
 
 ```
 </details>
 
 The generator (after filling rest of the configuration steps discussed in [_Quick Start_](#quick-start-guide) section) would produce
 following metric definition:
+
+<details markdown=1><summary>The metric definition.</summary>
 
 ```yaml
 ---
@@ -775,28 +792,16 @@ tier:
 
 The above configuration would count a number of unique project_id attribute values that occurred for any event records that were recorded for each of the `option.events` listed events within the last week.
 
-## Implementation
-
-### Event
-
-#### Definition
+</details>
 
 #### Instrumentation
 
 #### Life cycle
-
-### Metric
 
 ### Design
 
 You can use Snowplow events on SaaS to create ad hoc metric without definition in order to explore data and prototype metrics
 before creating metrics definitions and including them into reporting from self-managed instances
-
-#### Definition
-
-#### Instrumentation
-
-#### Life cycle
 
 ## Using Usage Insights data
 
@@ -810,7 +815,7 @@ event records will start to be captured and stored in data warehouse for future 
 You can view event records via SiSense data visualisation tool, by querying data warehouse table that represents your
 event, table names are build based on event name and event version, for example:
 
-For event `applied_ai_code_review_suggestion` from [quick start guide](#first-declare-an-event) a corresponding table would be named
+For event `applied_ai_code_review_suggestion` from [quick start guide](#quick-start-guide) a corresponding table would be named
 `applied_ai_code_review_suggestion_1_0_0`, and all event properties would be extracted as separate columns.
 An example query that you could use might looks like:
 
@@ -882,3 +887,20 @@ would be reported with the next Service Ping report cycle.
 
 ### Data Visualization
 
+## Migration from legacy systems (Service Ping, Snowplow)
+
+The current system is backward compatible, and all
+preexisting data reported from the mentioned system is still going to be reported as it was
+{: .alert .alert-info}
+
+In the past Product Intelligence group offered two independent systems for use:
+1. [Service Ping](https://docs.gitlab.com/ee/development/service_ping/)
+1. [Snowplow](https://docs.gitlab.com/ee/development/snowplow/)
+
+Each of those offered different capabilities and was to some extent complementary to each other.
+The current system is designed on top of those tools, but mentioned tools got abstracted in a way that the existence of those tools
+is internal Product Intelligence group implementation details, and should not concern anybody outside of the group.
+The current system combines Service Ping and Snowplow into a single entity to provide the best of both worlds and is expected to replace them both
+It is important to notice that **current system is backward compatible**, and **all
+preexisting data reported from the mentioned system is still going to be reported as it was**. The current system is going to be applied
+only to newly created events and metrics.
