@@ -27,7 +27,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. On the **New merge request** page use the default settings and select **Create merge request**.
 
 ### C.Edit files on a branch using GitLab’s Web IDE
-1. In the top right if the merge request page, select the arrow to the right of **Code** and select **Open in Web IDE**.
+1. In the top right of the merge request page, select the arrow to the right of **Code** and select **Open in Web IDE**.
 1. Confirm that you are on the branch you just created by looking for the branch name in a dropdown in the top left corner of the page.
 1. In the left-hand file list, select `README.md`.
 1. On line 3 of the file, type `Edit my README.md file`
