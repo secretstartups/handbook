@@ -119,7 +119,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Level Up/Thought Industries](https://api.thoughtindustries.com/#thought-industries-api) | Airflow | `level_up` | `level_up` | People | 24h / 24h | No | Tier 3 |
 | [Linkedin_ads](https://business.linkedin.com/marketing-solutions/ads) | Fivetran | `linkedin_ads` | `n/a` | Marketing | 24h / 48h | No | Tier 3 |
 | [Marketo](https://www.marketo.com/software/marketing-automation/) | Fivetran | `marketo` | x | Marketing | 24h / 24h | No | Tier 2 |
-| [MailGun](https://documentation.mailgun.com/en/latest/) | Airflow | `mailgun` | `mailgun` | Marketing | 24h / 24h | No | Tier 2 |
+| [MailGun](https://documentation.mailgun.com/en/latest/) | [Airflow](/handbook/business-technology/data-team/platform/pipelines/mailgun/) | `mailgun` | `mailgun` | Marketing | 24h / 24h | No | Tier 2 |
 | Monte Carlo | Snowflake Share | `n/a` | `prep_legacy` | Data | 12h / 24h | No | Tier 3 |
 | [Netsuite](https://www.netsuite.com/portal/home.shtml) | Fivetran | `netsuite_fivetran` | `netsuite` | Finance | 6h / 24h | Yes | Tier 2 |
 | [PMG](https://www.pmg.com/) | x | `pmg` | `pmg` | x | x / x | No | Tier 3 |
@@ -1004,20 +1004,3 @@ A new role was created specifically, called `SALES_SYSTEMS_SNOWFLAKE_API_ROLE` f
 The Snowflake API user has been created following the steps in the official Snowflake documentation on [Using Key Pair Authentication](https://docs.snowflake.com/en/developer-guide/sql-api/authenticating.html#using-key-pair-authentication) and the credential is stored in our Data Team Secure vault and is to be shared with the Sales Systems team.
 
 We created a runbook with a step-by-step guide on how to create the user and role for this purpose - [link to the Snowflake API User](https://gitlab.com/gitlab-data/runbooks/-/tree/main/snowflake_api_user) runbook.
-
-
-## Mailgun
-
-Below you will find further information regarding our general sending limits:
- 
-* A single `API` or `SMTP` request can have up to `1,000` recipients.
-* For `API`, the maximum amount of recipients per second is 100,000. The maximum amount of API calls per second is 200,000. Exceeding this limit results in rejection messages being returned for each additional API call until this threshold is reset.
-* For `SMTP`, the maximum amount of connections is `7,000` per IP and `7,000` connections per domain. Exceeding this limit results in rejection messages being returned for each additional SMTP call until this threshold is reset.
-* `500,000` Queued messages at any given time. As such, if you send any further messages to our service once reaching this level, the domain will be temporarily disabled and the Messages API response will indicate requests are temporarily rejected.
-* Our Messages API limits are as follows:
-    * `100,000` recipients per second per account
-    * `200,000` API calls per second per account
-    * `960MB` per minute per domain
-* All of our other endpoints have a hard limit of `300` requests per second per account.
- 
-> Note that Mailgun reserves the right to change these limits at any time without notice.
