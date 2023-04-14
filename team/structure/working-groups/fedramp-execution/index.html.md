@@ -46,4 +46,4 @@ GitLab is pursuing FedRAMP authorization at the [Moderate Impact Level](https://
 We will evaluate demand for High once we attain Moderate.
 
 Further details of the FedRAMP plan, including anticipated or actual dates, cannot be shared publicly at this time.
-Team members can view details [in the internal handbook](https://internal-handbook.gitlab.io/handbook/engineering/fedramp-compliance/). This [public handbook page](https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/fedramp-compliance.html) contains SAFE information about the FedRAMP Authorization process as it pertains to GitLab.
+Team members can view details [in the internal handbook](https://internal-handbook.gitlab.io/handbook/engineering/fedramp-compliance/). This [public handbook page](https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/fedramp-compliance.html) contains information about the FedRAMP Authorization process as it pertains to GitLab.
