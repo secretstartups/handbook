@@ -49,6 +49,7 @@ Finally, the availability metric for GitLab.com is calculated as a weighted aver
 1. `registry` (1)
 1. `ci runners` (0)
 1. `pages` (0)
+1. `sidekiq` (0)
 
 The SLA score can be seen on the [SLA dashboard], and the SLA target is set as an [Infrastructure key performance indicator][KPI].
 
