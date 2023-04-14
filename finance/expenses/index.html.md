@@ -41,6 +41,7 @@ Team members are reimbursed on different schedules depending on their location. 
 ## <i class="far fa-flag" id="biz-tech-icons"></i> General Guidelines
 
 * Itemized receipts are required for all expenses.  Receipts must contain vendor name, date of purchase, listing of what was purchased, and contains a full breakout of the subtotal and tax amounts. Snapshot from phone/computer screen of Applications, Card/Bank Statements are not an acceptable form of receipt.
+* Expense items must have a description filled out. If left blank, the expense will be rejected to resubmit.
 * Items over 90 days from purchase date will not be reimbursed.
 * The maximum monthly limit to be reimbursed is $5K USD (or local currency equivalent).
 * Expenses that span longer than a month must be submitted on a monthly basis (i.e. although you paid for a year upfront for the internet, you must divide the total by 12 months and submit the cost monthly).
@@ -50,9 +51,10 @@ Team members are reimbursed on different schedules depending on their location. 
    - Please note we do not reimburse late fees, initial set up, or equipment costs, including ipads, mobile phone handsets, airpods, routers.
    - We do not reimburse for additional services on your telecoms provider bill, i.e. Television package, additional sim cards, family packs.
    - If an itemized bill is not available , costs will only be reimbursed for the element relating to Internet Access , i.e. if you pay for tv, internet & phone - the invoice should be divided by 3 /# of services and we will pay this value only.
+* Team members are not allowed to expense items on behalf of their managers.
 * Anything submitted outside of these guidelines will be flagged as Out of Policy.
 * All work-related expenses (internet, co-working space, other monthly subscription, etc.) are not reimbursable while on Leave of any kind.
-* For PEO's, as you are aware with Navan, the system will automatically reimburse in the currency of the GitLab organisation you are employed via. To ensure you are reimbursed in the currency in which your PEO needs to be invoiced please submit your expenses in the payment currency you will be invoicing the PEO in. i.e. if you invoice your PEO in USD, then convert the expense into USD prior to submitting the expense report in Navan. This will then allow you to know the exact amount to invoice the PEO every month. If this is not doable then we will convert the currency using the FX rates from Netsuite on the day this expense is transferred to payroll for payment to the PEO.
+* For PEO's, as you are aware with Navan, the system will automatically reimburse in the currency of the GitLab organisation you are employed via. To ensure you are reimbursed in the currency in which your PEO needs to be invoiced please submit your expenses in the payment currency you will be invoicing the PEO in. i.e. if you invoice your PEO in USD, then convert the expense into USD prior to submitting the expense report in Navan. This will then allow you to know the exact amount to invoice the PEO every month. If this is not doable then we will convert the currency using the FX rates from Netsuite on the day this expense is transferred to Payroll for payment to the PEO.
 * As with any third-party, it is best practice to limit the amount of personal data shared. The inclusion of [personal data](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-definitions) on your receipts is not required to submit an expense, so feel free to redact personal data for increased [privacy](https://about.gitlab.com/handbook/legal/privacy/#what-data-privacy-means).  However, this is not a required step. For those that choose not to redact personal data from your expense receipts, the privacy and security controls in place at Navan [were evaluated](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) and they are designed to adequately protect your information.
 
 ### Out of Policy Transactions
@@ -60,9 +62,8 @@ Team members are reimbursed on different schedules depending on their location. 
 * The AP Team will administer the policy as per the Expense Handbook.
 * Note that expenses flagged as “Out of Policy” does not necessarily mean it is “out of policy”- it can also mean that certain expenses require additional review due to requiring certain attachments (ie an approved issue) and approvals.
 * Upon review, if more clarification is needed for a certain expense, the AP team will contact the team member in the Navan tool to ask for justification of the transaction before approving or rejecting the expense.
-* The AP team will reach out to the team member’s manager if additional approval is needed.
 * If the claim is over the advised guidance, the claim will be rejected with a note for the team member.  The team member should be able to rectify the claim and resubmit.
-* Where the team member has already received approval from from manager, that approval should be attached as a receipt on the claim transaction.
+* Where the team member has already received approval from from manager, that approval should be attached as a receipt on the claim transaction. Follow this guideline on [how to upload an email as pdf](https://docs.google.com/document/d/1QTEd2i7CitCWh1re82bZHUTypyAdnyRLTcmBSIbY5WE/edit) to the Navan expense transaction.
 * Any claim made which does not fall into the policy is not reimbursable. If an item is out of policy and approved by your manager, then please obtain and attach your manager's approval email prior to submitting the expense. This will then be reviewed by Expense team Admin and could need further approval from VP/ VP of Finance.
 * There will be occasions where if you have claimed an item and it needs to be reimbursed back to Gitlab, you will need to follow the reimbursement process in Navan for submission of the funds.
 
@@ -73,6 +74,7 @@ Team members are reimbursed on different schedules depending on their location. 
 * Managers must be aware of the policy guidance and advise team members as such when requests for purchase are made.
 * AP will flag Managers if further information is required for their direct reports.
 * Please see the attached [Manager Policy](https://docs.google.com/document/d/1HQF-_fDIkjsmq-ExsFQwwTW-x8rocGKSDRZVdMYQudA/edit) for more details.
+* Please see article [Leveraging the Navan Expense manager dashboard](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/#leveraging-the-navan-expense-manager-dashboard-available-in-the-desktop-browser-only)
 
 ## Expense Policy Outline
 
