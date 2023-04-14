@@ -96,54 +96,6 @@ Every GitLab team member is encouraged to contribute to the list of prioritized 
 
 To contribute, open an issue in the Product project using the [Product Competencies](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Competencies.md) template. The steps in the issue will guide you through getting a future competency merged into this page.
 
-## Pilot Program for New CDF 
-
-### Part I: Field Test the CDF - Completed
-
-From FY22-Q3 to FY22-Q4, select Product teammates and managers engaged in a pilot of this CDF. 
-
-The process followed was: 
-
-1. Using the new CDF [template](https://docs.google.com/spreadsheets/d/1V1dgARiOw38xtfG0Mdn1Sn34y94RfNzOUH2IBp0pDAs/edit#gid=1091464991) alongside their existing CDF document 
-1. Managers will only provide feedback using the new CDF template 
-1. Complete 2 CDF evaluations using the two CDF formats (add Jackie to the invite an optional attendee to send an survey link)
-1. Complete a survey after each CDF review 
-1. Close pilot 
-1. Read out results of pilot and iterate on CDF 
-
-### Part II: Apply changes and iterate - Completed 
-
-1. Conduct training on setting and measuring outcomes with pilot members 
-1. Distribute new CDF and template 
-1. Solicit feedback and interest in second CDF pilot 
-1. Close feedback and pilot 
-1. Read out results 
-  1. Feedback: We completed the pilot and recieved feedback that the KPIs were too prescriptive and duplicative. We also learned that people want to be able to use Google Docs instead of Google Sheets. 
-  1. Actions taken: We have reduced the tracks from 5 to 4 and de-duplicated KPIs. We changed the CDF focus to be on "Outcomes" versus "KPIs". We have created a new template that will be rolled out in FY23-Q3, which is a [Google Doc](https://docs.google.com/document/d/1MT_Xks-oF-D-2R_N380h4Phg_9s7BbO0U8k0eP-u8EI/edit?usp=sharing).
-1. Define roll out steps via [product#4266](https://gitlab.com/gitlab-com/Product/-/issues/4266). 
-
-### Part III: Rollout for Opt-In
-
-1. Check out the Template Overview 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/_6wBCyaP2d8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-1. Schedule AMAs for [new template](https://docs.google.com/document/d/1MT_Xks-oF-D-2R_N380h4Phg_9s7BbO0U8k0eP-u8EI/edit?usp=sharing) using [CDF Deck ](https://docs.google.com/presentation/d/1AFK9Zlu69KVdzDeiNeYyWO1ofMDxZfgxoPoUGoV9HCA/edit?usp=sharing)
-1. Distribute new CDF and template for Opt-in in FY23-Q3 
-1. Solicit feedback throughout FY23-Q3 in [feedback issue](https://gitlab.com/gitlab-com/Product/-/issues/4572)
-1. Close feedback 
-1. Incorporate any changes to template, wording in handbook, and prepare for formal roll out
-
-### Part IV: Rollout for full adoption
-
-1. Remove [Current CDF Handbook Page](/handbook/product/product-manager-role/product-CDF-competencies/) on 2022-10-24
-1. Update New CDF Page to be "Product CDF" on 2022-10-24
-1. Annouce in #product a link to the new CDF page and updated template for use in FY23-Q4 
-1. Schedule AMAs  
-1. Remove `## Pilot Program for New CDF` from New CDF Page on 2023-01-05 
-
 ## CDF for Product Leadership
 The below table outlines the Career Development Framework used for [Product Leaders](/handbook/product/product-leadership/#product-leaders).
 
