@@ -58,19 +58,28 @@ Once the SOW is generated, it is ready for review by the account team. Iteration
 ### SOW Review/Approval
 After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. The review processes are signaled in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) and **at-mention** the GitLab engagement stakeholders.
 
-### Delivery Transition
+## 3. Delivery Prep
 - **DRI**: Project Manager
 - **Supported By**: EM, PM, PSE, TA, Account Team
 
 Once the engagement moves to stage 6, `awaiting signature` in salesforce, the engagement manager schedules an intro meeting between the PM and the customer stakeholder to discuss "how we manage projects at GitLab".  During this call, the PM will also discuss resource assignment, and scheduling details. Simultaneously, the PM will schedule an internal transition meeting with the EM, PM, PSE, TA, and Account Team to review the technical discussions that occurred during the customer scoping meetings.  This is a opportunity for the entire team to discuss and disclose the inner workings and dynamics of the customer project team.
 
+### PM Introduction
+Engagement managers introduce the PS Project Manager as they are in contract with the customer during the scoping exercise and are perfectly positioned to do so. 
+
+### Resource Identification
+The PS Proejct Coodinator, working closely with the Regional Delivery Manager, will identify the best resource to deliver the project based on skillset, timezone, personality, tenure, and availability.
+
+### Project Prep call
+This is a call between the customer stakeholder and the PS Project Manager to discuss HOW we work.  Where we track project progress, what status report will look like, what the meeting cadence might be, a review of the contract terms that affect how we work such as minimum hours per week, expiration dates, delay language, and most importantly, how to achieve mutual agreement with the customer on a preliminary project schedule, prior to the kick-off call which includes the entire project team. 
+
 Check out the PS Delivery methodology to understand the details around pre-sales handoff to the delivery team, to ensure a successful relationship and productive engagement.
 
-## 3. SOW Execution/Close
-- **DRI**: Engagement Manager
+### 4. SOW Execution/Close
+- **DRI** Engagement Manager
 - **Supported By**: PS Leader, Sr. PSE, SAE/AE, Legal, Finance, Deal Desk
 
-### Finance Approval
+Finance Approval
 The engagement manager can kick off the finance approval process in Salesforce. TODO: Add more details. 
 
 ### Legal Approval
