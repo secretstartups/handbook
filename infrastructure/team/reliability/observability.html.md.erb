@@ -15,12 +15,24 @@ contribute to our overall reliability and scalability goals.
 
 ## Vision
 
-The team is focused on owning the reliability/scalability/security of the existing observability services.  This means introducing new observability capabilities 
-for existing services that improve the overall observability/reliability/scalability of the GitLab SaaS environments and reducing the effort required 
-to provide these services.
+The Reliability::Observability team is seeking to provide a common entry point for service owners to interact with all facets of the observability platform. We are looking to help teams self-serve their needs with access via context-specific interfaces. For example, we should facilitate user-friendly workflows for viewing, adding, updating, and removing observability integrations with the user's infrastructure, systems, and services. The interfaces will also enable service owners to assign permissions and delegate to authorized users or groups so that multiple team members can collaborate and jointly manage their configuration.
 
-The team should be seeking to build their services on top of Reliability::Foundations services and cloud vendor managed products to reduce complexity, 
-improve efficiency and deliver new capabilities quicker.
+Functionally, our team is focused on owning the reliability/scalability/security of the existing observability services.  This means introducing new observability capabilities  for existing services that improve the overall observability/reliability/scalability of the GitLab SaaS environments and reducing the effort required to provide these services.
+
+Our team should be seeking to build their services on top of Reliability::Foundations services and cloud vendor managed products to reduce complexity, improve efficiency and deliver new capabilities quicker.
+
+### Values when looking at tools and services we run
+
+1.  [Dogfood](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) where it makes sense.  
+2. If we don't dogfood, we value following [CNCF](https://www.cncf.io/) or other open source projects since these are likely to be tools that will align with our vision
+3. For evaluating tools we use, we have a set of evaluation criteria:
+  a. What is the vision of the tool or feature?  Is it being actively developed or in maintenance only mode?
+  b. What is the maturity of the tool or feature.
+   - [Service Maturity](https://about.gitlab.com/handbook/engineering/infrastructure/service-maturity-model/)
+   - [Category Maturity](https://about.gitlab.com/direction/maturity/)
+4. How can the tool increase our [bus factor](https://en.wikipedia.org/wiki/Bus_factor) - we don't want just one DRI for a tool.
+5. Cost matters - don't just consider license/compute costs. Consider the administrative costs too.
+
 
 Observability services includes providing: 
 * [Log shipping, storage and analysis platforms](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging) 
@@ -31,11 +43,9 @@ Observability services includes providing:
 * Data feeds? (Logs to SIEM?, others?)
 * Others?
 
-The team does not explicitly have any product responsibilities in the Monitor stage group but we should contribute the lessons we learn running at scale 
-production systems back to the product team and we should advocate for GitLab to contain features that would allow us to DogFood.
+The team does not explicitly have any product responsibilities in the Monitor stage group but we should contribute the lessons we learn from running production systems at scale back to the product team and we should advocate for GitLab to contain features that would allow us to DogFood.
 
-The team does not explicitly own the Observability for [GitLab Dedicated](/handbook/engineering/infrastructure/team/gitlab-dedicated/).  The current team 
-focus as of early 2023 is for GitLab.com, but in the long run, we would like to build a platform usable for all SaaS products.
+The team does not explicitly own observability for [GitLab Dedicated](/handbook/engineering/infrastructure/team/gitlab-dedicated/).  The current team focus as of early 2023 is for GitLab.com, but in the long run, we plan to build a platform that will be used for all SaaS products.
 
 
 ## Services We Own
