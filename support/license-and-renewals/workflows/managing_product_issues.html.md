@@ -140,7 +140,9 @@ determine what changes, if any, are needed in the list. At this time the
 [Regional DRIs](../index.html#regional-dris) will:
 
 1. Request that L&R Support Engineers set a Support Priority Score for each
-   issue and epic labeled `Support Priority::Categorize`
+   issue and epic labeled `Support Priority::Categorize` by creating a new
+   issue from the [Monthly Prioritization](https://gitlab.com/gitlab-com/support/licensing-subscription/fulfillment-requests/-/issues/new?issuable_template=monthly_prioritization.md)
+   template
 1. Open a discussion with the L&R SEs about any issues or epics labeled
    `Support Priority::Review`, and change the score for those accordingly
 1. Discuss with the Fulfillment Product Management Team any expected changes
@@ -205,10 +207,39 @@ So why have a calculator if we're being subjective rather than objective? The
 calculator reminds us of the factors we want to consider and gives us a
 standard way to combine all of them consistently.
 
-#### What to do if an epic and one of its issues are both on the list?
+#### What to do if an epic and one or more of its issues are both on the list?
 
-Coming soon
 <!-- See https://gitlab.com/gitlab-com/support/licensing-subscription/fulfillment-requests/-/issues/10 -->
+We want to be clear about whether Support's interest is in the full Epic or in
+only one or more of the child issues and epics. The process will vary a little
+between these two situations.
+
+##### Situation 1
+
+Support wants to see the entire epic addressed and resolved. Seeing the
+individual child epics and issues in our list is not useful here. Only progress
+on the epic matters. In this situation, we will:
+
+1. Relabel all child epics and issues that currently have a
+   `~Support Priority::1-4` label with the label, `~Support Priority::See Epic`
+   (_Note: this will result in the relabeled items no longer being visible on
+   our epic/issue boards_)
+1. Ensure that the epic has the appropriate Support Priority set
+
+In this way we will show and track only the epic in the list. In the event that
+one or more children of interest to us are removed from the epic, we should at
+that time add those children back to the list by re-prioritizing them. We can
+detect this type of event by looking for items that have the
+`~Support Priority::See Epic` label but do not have an associated epic.
+
+### Situation 2
+
+The epic is not the item of interest to us. Rather, one or more (but not all)
+of the children are. In this situation, we will:
+
+1. Remove the Support Priority label from the epic (which removes the epic from
+   the list)
+2. Retain the Support Priority labels on the children and keep them on the list
 
 ### How to get help from the Fulfillment Section development team 
 
