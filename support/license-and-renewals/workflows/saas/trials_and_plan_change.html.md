@@ -19,7 +19,7 @@ GitLab.com support can assist with trials of other plans. Ask the user to create
 
 ## Extending trials
 
-Sales will often request through a Zendesk Ticket that we extend the duration of GitLab.com trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User gitlab_support@example.com, with the submitter cc'd on the ticket.  The following workflow should be followed to service them.  
+Sales will often request through a Zendesk Ticket that we extend the duration of GitLab.com trials on behalf of their prospects. These tickets will always be raised from the GitLab Support End User gitlab_support@example.com, with the submitter cc'd on the ticket. If a customer or sales representative raise an extend trial request on a _customer ticket_, we should respond that an internal request **must** be created by the sales representative to request the trial extension.
 
 If any fields when opening the ticket were filled out incorrectly,  send a public reply in the ticket asking the submitter to supply the missing information.
 
