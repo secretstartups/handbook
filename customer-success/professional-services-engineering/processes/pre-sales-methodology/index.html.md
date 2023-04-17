@@ -58,6 +58,14 @@ Once the SOW is generated, it is ready for review by the account team. Iteration
 ### SOW Review/Approval
 After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. The review processes are signaled in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) and **at-mention** the GitLab engagement stakeholders.
 
+### Delivery Transition
+- **DRI**: Project Manager
+- **Supported By**: EM, PM, PSE, TA, Account Team
+
+Once the engagement moves to stage 6, `awaiting signature` in salesforce, the engagement manager schedules an intro meeting between the PM and the customer stakeholder to discuss "how we manage projects at GitLab".  During this call, the PM will also discuss resource assignment, and scheduling details. Simultaneously, the PM will schedule an internal transition meeting with the EM, PM, PSE, TA, and Account Team to review the technical discussions that occurred during the customer scoping meetings.  This is a opportunity for the entire team to discuss and disclose the inner workings and dynamics of the customer project team.
+
+Check out the PS Delivery methodology to understand the details around pre-sales handoff to the delivery team, to ensure a successful relationship and productive engagement.
+
 ## 3. SOW Execution/Close
 - **DRI**: Engagement Manager
 - **Supported By**: PS Leader, Sr. PSE, SAE/AE, Legal, Finance, Deal Desk
@@ -75,15 +83,7 @@ Once the SOW has been approved by PS leadership, Legal and Revenue, the account 
 Once the SOW is fully executed, the deal desk team updates the Salesforce PS-Only opportunity to `closed-won`.
 
 ### Journal Epic (Delivery Kit)
-TODO: update this with documents and delivery kits that are organized to help the delivery team be successful with the engagement. 
-
-## 4. Delivery Handoff 
-- **DRI**: Project Manager
-- **Supported By**: EN, PM, PSE, Account Team
-
-Typically, once the engagement goes `closed-won` in salesforce, the project manager schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occurred before the sale closed.
-
-Check out the PS Delivery methodology to understand the details around pre-sales handoff to the delivery team.
+TODO: update this with documents and delivery kits that are organized to help the delivery team be successful with the engagement.
 
 ![](../PS-delivery-workflow.png)
 
