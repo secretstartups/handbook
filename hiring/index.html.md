@@ -50,7 +50,6 @@ As we set out over the next decade to achieve this vision, we will continue to r
 - [Referral Process](/handbook/hiring/referral-process/)
 - [Resource Guide](/handbook/hiring/guide/)
 - [Sourcing](/handbook/hiring/sourcing/)
-- [Vacancies](/handbook/hiring/vacancies/)
 
 Potential applicants should refer to the [jobs FAQ page](/handbook/hiring/candidate/faq/).
 
