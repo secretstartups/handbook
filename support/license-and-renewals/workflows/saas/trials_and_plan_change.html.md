@@ -47,7 +47,9 @@ If a customer is requesting a trial extension, please follow [Working with Sales
    yourself so that you will receive the customer's response and be
    able to take action quickly.
 1. This is done via the Mechanizer tool through
-   [Manage GitLab Plan and Trials](../customersdot/mechanizer.html#manage-gitlab-plan-and-trials). 
+   [Manage GitLab Plan and Trials](../customersdot/mechanizer.html#manage-gitlab-plan-and-trials).
+
+**Note**: We cannot extend the trial if the customer hasn't started one on the namespace. The Subscription name field in the ZenDesk Mechanizer app is there for that reason. When there's a Subscription name, the mechanizer will create a new trial for the namespace.
 
 ## Applying a trial to a namespace with an active subscription
 
