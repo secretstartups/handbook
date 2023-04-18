@@ -32,7 +32,7 @@ Try to pick what the team needs most, thinking back to recent tickets you were n
 - [LDAP](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=LDAP)
 - [High Availability](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Scaled%20And%20High%20Availability)
 - [Git LFS Docs](https://docs.gitlab.com/ee/topics/git/lfs/index.html)
-- [Migrate from SVN to Git Docs](https://docs.gitlab.com/ee/user/project/import/svn.html)
+- [Migrate from SVN to Git Docs](https://docs.gitlab.com/ee/user/project/import/index.html#import-from-subversion)
 - [GitLab Pages Docs](https://docs.gitlab.com/ee/administration/pages/index.html)
 
 ### Deep Dives
