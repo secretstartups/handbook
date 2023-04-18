@@ -29,24 +29,24 @@ description: "Tableau at GitLab"
 
 ### FY24 Tableau Deployment Roadmap
 
-- FY24-Q1
-    - Ready Tableau Online environment for Production Releases
-    - Focus on GTM and Finance
+We follow the nomenclature found in the [GitLab Docs](https://docs.gitlab.com/ee/policy/alpha-beta-support.html) and will stand-up the Tableau Production program using Experiment, Beta, and Generally Available features.
+
+- FY24-Q1 - Experiment Features
+    - Ready Tableau Online environment for Production Releases (Experiment Features)
+    - Move the CFO and Headcount Dashboards to full Production (Experiment Features)
     - Develop a list of Top SSOT Dashboards for GTM and Finance
-    - Move the CFO and Headcount Dashboards to full Production
     - Develop project plan for deprecating the legacy schema in Snowflake
-- FY24-Q2
-    - Focus on GTM and Finance
-    - GTM and Finance teams to migrate key content to Tableau Production
+- FY24-Q2 - Experiment and Beta Features
+    - GTM and Finance teams to migrate key content to Tableau Production (Beta Features)
+    - Design Spike: Test Tableau embedding capabilities for 1 Engineering KPI Public Handbook embedding use case (Experiment Features)
     - Deprecate GTM and Finance related data models in the legacy schema
     - Develop additional data models for R&D to support Tableau migration in Q3
-- FY24-Q3
-    - Bring R&D, People, and the rest of the Enterprise into focus
-    - Business teams to migrate key content
+- FY24-Q3 - Generally Available Features
+    - Bring R&D, People, and the rest of the Enterprise into focus (Generally Available Features)
+    - Business teams to migrate key content across all use cases, including embedding KPI charts in the handbook (Generally Available Features)
     - Deprecate R&D and People related data models in the legacy schema in Snowflake
-- FY24-Q4
-    - Focus on the whole company
-    - Business teams to migrate key content
+- FY24-Q4 - Generally Available Features
+    - All Business departments to migrate key content (Generally Available Features)
     - Deprecate remaining data models in the legacy schema in Snowflake
     - Complete Tableau migration efforts
 
