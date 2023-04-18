@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Customer Success Reporting and Dashboarding frameowrk
+title: Customer Success Reporting and Dashboarding framework
 description: This page describes the underlying philosophy and framework for how to consider and build toward the long term goal of effective and efficient reporting and dashboarding
 ---
 
