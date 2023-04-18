@@ -22,6 +22,9 @@ Renewals Managers --> visit the internal handbook [page](https://internal-handbo
 # Execution: Establishing fundamental excellence 
 Renewals managers (RMs) execute a series of activities across a specifically defined customer renewal lifecycle. These activities are both internal and customer facing. We seek excellence in performing the fundamental tasks of renewals management.
 
+<details>
+<summary markdown="span"><b>Understanding the renewals lifecycle</b></summary>
+
 ## Renewals lifecycle
 The renewals team organizes it's coverage of a customer subscriptions around particular key stages during a customers journey through the renewal process. During each stage we prescribe specific activities that encourage renewals managers to deliver distinct, stage relevant customer outcomes.
 
@@ -38,6 +41,10 @@ The renewals team organizes it's coverage of a customer subscriptions around par
 | Month 12   | 8. Signing     | Signatures on quote, PO raised/sent (when necessary)                         |
 | Month 12   | 9. Closed Won  | Entitled, shown gratitude, and equipped for day zero success                  |
 
+</details>
+
+<details>
+<summary markdown="span"><b>Understanding opportunity tiering</b></summary>
 
 ## Opportunity Tiering
 Renewals managers cover every opportunity that is in their assigned region, however, that coverage is dependent on the opportunity "tier". The tier describes the ownership of the renewal opportunity. Tiers are autopopulated for new opportunities using the tier table schema. Each Renewals Manager is responsible for collaborating with their team of Account Executives to calibrate their specific book of business with the correct tiering for each opportunity. Calibration occurs annually, and after that period, changes to tiering require manager approval. 
@@ -52,6 +59,12 @@ Renewals managers cover every opportunity that is in their assigned region, howe
 | 3 | [X > 400K] | Solely owned by AE | Understand the status of the renewal; Track/update the risk and mitigation on the opportunities; Predictability - should be able to forecast the business |
 
 Note that any changes to the Renewal Ownership (Tier) field within the current Fiscal Year must be submitted by the Renewals Manager or Account Executive and approved by the Manager, Renewals via Chatter on the Opportunity record. 
+
+<details>
+
+
+<details>
+<summary markdown="span"><b>Understanding renewals activity by tier</b></summary>
 
 ## Renewal opportunity activities - by tier 
 The following activities are recommended for each Renewals Manager as a baseline for engagement with a customer throughout their subscription journey. This framework is flexible, and ultimately every Renewals Manager must us their discretion to discern which activities make sense for their customer's experience. 
@@ -83,6 +96,8 @@ The following activities are recommended for each Renewals Manager as a baseline
 | W  | 0,1,2 | Signing       | Internal        | Prep and submit opp for booking | Prepare opportunity for booking, submit                                                                                       |
 | X  | 0,1,2 | Closed Won    | Email           | Close email w/ gratitude, instructions | Email customer with gratitude and something unique to GitLab (moniker, closing stats - i.e. we did this in 8 touches, better than our benchmark of 10, etc.) |
 
+<details>
+
 # Renewals policies
 To build and maintain an efficient, fair, and high impact renewals organization, we have adopted the following policies and processes to describe our engagement with field sales, partners and customers. 
 
@@ -111,8 +126,32 @@ Our management philosophy regarding the expectations of booking renewals is simp
   -  *Corresponding subscriptions*: We book opportunities that correspond, together (aka SaaS and Self-Managed migrations are booked at the same time)
 
 # Compensation
-- Churn exceptions are possible, but won't be granted on the basis of influence over a book of renewal business (i.e. large churns)
-- Renewal rate and NetARR components of variable compensation will occur monthly
+
+## Churn Execeptions
+
+
+- Churn exceptions are possible, but not guaranteed. Each circumstance will be considered independetly. Some of the common scenarios considered for churn exceptions are:
+  1. False Churn/Contraction
+    - Near-term add-on contraction (true up negotiations, budget optimizations)
+    - Subscription migration- where we can prove that users simply moved to another subscription (not-merged)
+    - Split opps (same users migrating to a differnet opp)
+      - Sometimes based on product (premium to ultimate)
+      - Sometimes based on type (Self-managed to SaaS)
+    - Contract Resets that erroneously result in C&C
+    - Incorrectly merged opps
+  2. Strategic Churn/Contraction
+    - Change in GTM (direct to indirect) and the associated margin event that results in contraction
+    - Change in term length - single to multi-year, and the discount event that results in contraction (must pass approvals)
+  3. Protected Churn/Contraction
+    - Large/Influential Tier 3 deals where a churn event encompasses more than 10% of a Renewals Managers overall quarterly target.
+    - Recent account transition churn/contraction - opps that have been recently acquired as a result of account transition 
+
+- Timing: Have all exceptions submitted by the end of the first week of the new quarter.
+- Threshold: Consider the amount of churn - small renewals in these scenarios should be balanced with the amount of effort to find/submit them (i.e. submitting a 200 dollar opp may take more time than it's worth)
+
+- Submission
+  - When submitting a merge request, chatter wth this syntax [Churn Exception Request] Details and context (link to supporting doc) CC: Manager for approval, CC: Caleb for approval CC: Sales Comp, CC: James Harrison
+
 
 # Metrics
 The renewals organization puts a focus on execution through a balanced series of metrics. 
