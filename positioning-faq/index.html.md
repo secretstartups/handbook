@@ -135,7 +135,7 @@ GitLab started as an open source alternative to GitHub. Instead of focusing on h
 1. Import from Bitbucket, GitHub, anywhere
 1. Want to start using GitLab? You can easily import your repositories from Bitbucket, GitHub, Gitorious, or anywhere else, all in batch!
 1. Migrating SVN to GitLab
-    - https://docs.gitlab.com/ee/user/project/import/svn.html
+    - https://docs.gitlab.com/ee/user/project/import/index.html#import-from-subversion
     - SVN stands for Subversion and is a version control system (VCS). Git is a distributed version control system.
 
 ### Why aren’t you using a GPL license?
