@@ -81,6 +81,25 @@ If you cleared your cache and got locked out please do the following:
 
 Please check out the [following page](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) for information and assistance on setting up WebAuthN (Biometrics/Touch ID)/Phone passkey and Yubikey
 
+### My YubiKey is Entering Codes Into Slack and Sending Them (OTP Touch Options, "Getting Yubikey'd")
+
+This is because the OTP function is enabled on your YubiKey. You can avoid this by:
+
+- Removing OTP from your YubiKey Manager software by selecting Interfaces > Deselecting OTP checkboxes.
+
+![yk_1](./yk_1.png)
+
+![yk_2](./yk_2.png)
+
+- Deleting "Short Press" options from your YubiKey Manager software by selecting Applications > OTP > Delete the touch options.
+
+![yk_3](./yk_3.png)
+
+![yk_4](./yk_4.png)
+
+![yk_5](./yk_5.png)
+
+
 ### Forgot my password
 
 If you require IT to reset your password and it requires immediate access, please reach out on the slack #it_help channel and provide as much information as possible. Password resets to sensitive systems such as your Google Workspace account and Okta. They require a Zoom call with an IT Analyst to verify that it is you before doing the reset, this is required for security purposes.
