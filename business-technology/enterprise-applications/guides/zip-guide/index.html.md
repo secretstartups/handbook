@@ -65,7 +65,7 @@ To request access to Zip:
 ![zip-image-2](/handbook/business-technology/enterprise-applications/guides/zip-guide/new-request4.png)
 
 
-![zip-image-3](/handbook/business-technology/enterprise-applications/guides/zip-guide/new-request6.png)
+![zip-image-3](/handbook/business-technology/enterprise-applications/guides/zip-guide/zip-workflows.png)
 
 
 ![zip-image-4](/handbook/business-technology/enterprise-applications/guides/zip-guide/new-request5.png)
@@ -149,6 +149,20 @@ Please note that a change request will require the same approvals as a new reque
 {: .alert .alert-info}
 
 
+### How to request a signature on a POC agreement?
+
+If you are planning to run a POC with a new vendor and have an Agreement with no cost associated, follow the steps below:
+
+1. Login to your [Okta home page.](https://gitlab.okta.com/app/UserHome)
+2. Open ZIP
+3. Click on `+New Request` on the right side of the top menu.
+4. Select the `Request a Demo/Trial ($0 Contracts)`
+5. Complete the requisition form.
+6. Attach supporting documentation from the supplier for the POC.
+7. Submit a Request. 
+8. After Legal and Security approvals are collected Procurement Team will proceed with signature process.
+
+
 ### How does the virtual card process work?
 Virtual card requests will go through Zip as a regular purchase request.
 
@@ -156,6 +170,7 @@ Virtual card requests will go through Zip as a regular purchase request.
    2. Select `American Express- Virtual Card` in the field `What's the name of the vendor?`
    2. Once the Zip request is approved and is integrated into Coupa, where financial and management approvals will take place, it will trigger virtual card creation in Coupa. 
    3. You will receive an email once the virtual card is ready, and you can also access it directly in Coupa.
+   
 
 
 ### How to keep track of a request?
