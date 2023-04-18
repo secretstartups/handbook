@@ -521,7 +521,7 @@ All exceptions should be documented in a handbook page local to the product grou
 | Staff Security Engineer Security Research    | Security       | 2 Staff+   | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284355) |
 | Engineering Data Analyst                     | Quality        | 2 Staff+   | Hyperlink TBD |
 | Vulnerability Research                       | Development    | 2 Staff+   | [Issue](https://gitlab.com/gitlab-org/secure/general/-/issues/155) |
-| Create:Editor Team                           | Development    | 3 Staff+   | [Editor Team Page](/handbook/engineering/development/dev/create/editor/#team-ic-gearing) |
+| Create:IDE Team                           | Development    | 3 Staff+   | [IDE Team Page](/handbook/engineering/development/dev/create/editor/#team-ic-gearing) |
 | Engineering Productivity Team                | Quality        | 2 Staff+   | [Engineering Produtivity Team Page](/handbook/engineering/quality/engineering-productivity/#team-ic-gearing) |
 | Secure: DAST Team | Development | 2 Staff+ | [DAST Justification](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/94315) |
 
