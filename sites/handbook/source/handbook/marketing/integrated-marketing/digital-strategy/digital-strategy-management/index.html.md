@@ -23,8 +23,6 @@ Develop the digital strategy to drive INQ’s and MQL’s that lead to SAO’s  
 
 Digital marketing managers own the INQ and MQL number that drive SAO’s for the region and segment they align to.  They are responsible for daily monitoring of campaign goals and the digital strategy component of that lightning strike. Their plans are representative across all funnel stages and each have unique channel expertise.  The team is broken down as follows: 
 
-**Sara Valko:** PubSec, ENT, EMEA, Auto-SD, Security & Compliance, brand strategy & visual brand
-
 **Joon Shin:** SMB, MM, AMER, APAC, Auto-SD Test, team enablement, digital experience & All Remote 
 
 **Zac Badgley:** (parental leave through Nov so some assignments are TBD), ABM and Campaigns teams
@@ -40,6 +38,7 @@ Paid traffic conversion rate optimization<br>
 **Out of scope:**<br>
 Pure brand awareness<br>
 SEO<br>
+Ad creative <br>
 
 ### How Do We Get There? 
 We take a unified approach to long term planning.  We are given our direction from the focal topics/areas that product marketing has deemed market worthy.  They engage the campaigns team who pull us in to develop the key tenets of the campaign.  Prior to a lightning strike kickoff call, we conduct research to validate campaign key terms, their effectiveness, and the addressable market for the various channels that comprise our digital marketing plans.
@@ -68,12 +67,6 @@ The digital marketing manager will need to be briefed on the campaign by the cor
    * Assets are loaded for campaign set up/build out.<br>
 **T-2 weeks to campaign launch:** <br>
    * Test leads entered, tracked and final campaign adjustments complete.  Ready for launch.<br>
-
-
-
-
-
-
 
 
 
@@ -164,9 +157,10 @@ Digital Marketing will recommend specific channels based on your campaign goals.
 
 * Paid Social
    - LinkedIn  - Sponsored Content Ads, Carousel Ads, InMail/Message Ads, and Conversation Ads
-   - Facebook - Single Image & Video Ads, Lead Generation Ads, Carousel Ads
+   - ~~Facebook - Single Image & Video Ads, Lead Generation Ads, Carousel Ads~~
    - Instagram - Single Image & Video Ads, Lead Generation Ads, Carousel Ads
    - Twitter - Promoted Tweets, Image or Video
+   - YouTube - Video Ads
 * Paid Search
    - Google - Expanded Text Ads, Responsive Search Ads
    - Bing - Expanded Text Ads, Responsive Search Ads
@@ -174,6 +168,7 @@ Digital Marketing will recommend specific channels based on your campaign goals.
    - GDN (Google Display Network) - Display Image Ads, Responsive Display Ads
    - DV360 (Google Display & Video 360) - Programmatic Display Image Ads, Responsive Display Ads, Access to private ad networks
    - Demandbase is a digital marketing platform for Display only, mainly used to target specific accounts. Please note that Demandbase is managed by the ABM team, partnering with Demandbase directly.  Please contact the ABM team (focuses on Tier 1,2,3 accounts) and Field Marketing team (focuses on named accounts) if you would like to create a Demandbase campaign, or check out the [DemandBase page](/handbook/marketing/account-based-marketing/demandbase/) for more info.
+   - BuySellAds
 * Sponsorships (Publisher Engagements): 
    - Participating in Virtual Event (Virtual Conference, Panel, Talking Head, All-Day Event/Summit)
    - Third Party Custom Webcasts (single & multi-vendor)
@@ -288,8 +283,25 @@ Each paid channel has its own unique design specifications, ad copy character li
 {: #social-specs}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * LinkedIn Image (Sponsored Content):
-   - Recommended Image Size: 1200x627 pixels, 1200x1200 pixels
-   - Recommended Image Ratio: 1.91:1, 1:1
+   - Text recommendations
+     - Headline: 70 characters
+     - Intro: 150 characters
+   - Technical Requirements
+     - **Horizaontal/Landscape**
+     _delivers to both desktop/mobile_
+       - Min: 640x360px
+       - Max: 7680x4320px
+       Recommended: 1.91:1 - 1200x628
+     - **Square**
+     _delivers to both desktop/mobile_
+       - Min: 360x360px
+       - Max: 4320x4320px
+       Recommended: 1:1 - 1200x1200px
+     - **Vertical**
+     _best for mobile (no deliver to desktop)_
+       - Min: 360x640px
+       - Max: 1254x2400px
+       Recommended: 1.91:1 - 628x1200px
    - Recommended Image File Type: JPG or PNG
    - Recommended Image File Size: 5MB Max
    - Recommend using shorter copy within image, and lean on the headline/introduction text to convey more of your message
@@ -297,9 +309,16 @@ Each paid channel has its own unique design specifications, ad copy character li
    - Copy: Headline: 70 character limit
    - Copy: Description: 100 character limit
 * LinkedIn Video: 
+   - Text recommendations
+     - Headline: 70 characters (200 max)
+     - Intro: 150 characters (600 max)
    - Recommended Video Length: Less than 15 seconds
    - Recommended Video File Size: 75 KB to 200 MB
    - Recommended Video File Format: MP4
+   - Minimum width: 360 pixels
+   - Maximum width: 1920 pixels
+   - Minimum height: 360 pixels
+   - Maximum height: 1920 pixels
 * LinkedIn Carousel
    - Recommended Resolution: 1080x1080 pixels
    - Recommended Image File Type: JPG or PNG
@@ -308,74 +327,9 @@ Each paid channel has its own unique design specifications, ad copy character li
    - Image Maximum File Size: 10MB
    - Video not supported currently
    - Copy: Primary Text: 150 character limit
-   - Copy: 45-character limit for carousel ads that direct to a destination URL
+   - Card: 45-character limit for carousel ads that direct to a destination URL
    - Copy: 30-character limit for carousel ads with a Lead Gen Form CTA
-* LinkedIn InMail
-   - Recommended Resolution: 300x250 pixels
-   - Recommended Image File Type: JPG, GIF (non-animated), or PNG (no flash)
-   - Image Maximum File Size: 40KB
-   - Copy: Message Subject: 60 characters limit
-   - Copy: Message text: 1,500 character limit
-   - Copy: Hyperlinked text in message: 70 character limit
-   - Copy: CTA button copy: 20 character limit
-* Facebook Image:
-   - Recommended Image Size: 1080x1080 pixels, 1200x628 pixels
-   - Recommended Image Ratio: 1:1, 1.91:1 to 4:5
-   - Recommended Image File Type: JPG or PNG
-   - Copy: Primary Text: 125 character limit
-   - Copy: Headline: 40 character limit
-   - Copy: Description: 30 character limit
-* Facebook Video:
-   - Recommended Video Ratio: 9:16 (full vertical) to 16:9 (feed/landscape)
-   - Recommended Video File Type: MP4 or MOV
-   - Recommended Video File Size: 4GB Max
-   - Recommended Video Length: 5-15 seconds
-   - Video Captions: Optional but recommended
-   - Video Sound: Optional but recommended
-   - Copy: Primary Text: 125 character limit
-   - Copy: Headline: 40 character limit
-   - Copy: Description: 30 character limit
-* Facebook Carousel
-   - Recommended Resolution: 1080x1080 pixels
-   - Recommended Image File Type: JPG or PNG
-   - Recommended Video File Type: MP4, MOV or GIF
-   - Recommended Ratio: 1:1
-   - Number of Carousel Cards: 2 to 10
-   - Image Maximum File Size: 30MB
-   - Video Maximum File Size: 4GB
-   - Video Duration: 1 second to 240 minutes
-   - Aspect Ratio Tolerance: 3%
-   - Copy: Primary Text: 125 character limit
-   - Copy: Headline: 40 character limit
-   - Copy: Description: 20 character limit
-* Instagram Image
-   - Recommended Resolution: 1080x1080 pixels
-   - Recommended Image File Type: JPG or PNG
-   - Recommended Ratio: 1:1
-   - Image Maximum File Size: 30MB
-   - Copy: Primary Text: 125 character limit
-   - Copy: Headline: 40 character limit
-* Instagram Video:
-   - Recommended Video Ratio: 1.91:1 to 4:5 supported
-   - Recommended Resolution: 1080x1080 pixels
-   - Recommended Video File Type: MP4, MOV or GIF
-   - Recommended Video File Size: 30MB Max
-   - Recommended Video Length: 1 second to 2 minutes
-   - Video Captions: Optional but recommended
-   - Video Sound: Optional but recommended
-   - Copy: Primary Text: 125 character limit
-   - Copy: Headline: 40 character limit
-* Instagram Carousel
-   - Recommended Resolution: 1080x1080 pixels
-   - Recommended Image File Type: JPG or PNG
-   - Recommended Video File Type: MP4, MOV or GIF
-   - Recommended Ratio: 1:1
-   - Number of Carousel Cards: 2 to 10
-   - Image Maximum File Size: 30MB
-   - Video Maximum File Size: 4GB
-   - Video Duration: 1 second to 60 minutes
-   - Aspect Ratio Tolerance: 1%
-   - Copy: Primary Text: 125 character limit
+* LinkedIn Conversation Ads
 * Twitter Image: 
    - Recommended Image Size: 1200x675 pixels
    - Recommended Image Ratio: 1:1
