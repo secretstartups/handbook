@@ -31,6 +31,7 @@ The [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) will random
       - An example is an MR with the label, `~"Internal hackathon"`. The design solution is likely being solved at the time of development.
 
 #### Community contributions
+
 Community submitted MRs require more context to review and are assigned to the design DRI of the group it impacts. All UX-related community contributions will generate a Slack message in the `#ux-community-contributions` channel and will be manually assigned until we automate the process.
 
 #### Single engineering group MRs
@@ -40,8 +41,12 @@ Single Engineer Group (SEG) MRs often require more active collaboration and addi
 #### UX Paper Cuts MRs
 
 MRs created by the UX Paper Cuts team will be handled by the UX Paper Cuts team. If one of the two designers are OOO, then the team will utilize the [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) to help distribute MR reviews across the Product Design subdepartment.
- 
-#### Benefits
+
+#### What if a team doesn't have a designer?
+
+See the [Product Processes](/handbook/product/product-processes/#user-experience-ux) page for more information.
+
+### Benefits
 
 - Evenly distribute MR reviews across the Product Designers in the UX Department in support of our [Product Design MR review volume KPI](/handbook/product/ux/performance-indicators/#product-design-mr-review-volume). This will have a more significant impact on higher usage areas of our product by opening up capacity for those designers to increase time spent on creating design solutions.
 - Create awareness of the end-to-end GitLab product by having designers involved in reviewing work outside of their normal areas. This can lead to holistic solutions and seeing connections between stage groups (and Pajamas) that would otherwise get missed.
