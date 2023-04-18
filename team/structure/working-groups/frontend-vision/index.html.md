@@ -63,7 +63,7 @@ Currently, our frontend development guidelines only document features and practi
 | Facilitator        | Donald Cook           | Engineering Manager, Plan:Project Management        |
 | Functional Lead    | Natalia Tepluhina     | Principal Engineer, Plan                            |
 | Member             | Vitaly Slobodin       | Staff Frontend Engineer, Fulfillment                |
-| Member             | Paul Slaughter        | Staff Frontend Engineer, Create:Editor              |
+| Member             | Paul Slaughter        | Staff Frontend Engineer, Create:IDE              |
 | Member             | Mark Florian          | Senior Frontend Engineer, Ecosystem:Foundations     |
 | Member             | Lukas Eipert          | Senior Frontend Engineer, Ecosystem:Foundations     |
 | Member             | Frédéric Caplette     | Senior Frontend Engineer, Verify:Pipeline Authoring |
