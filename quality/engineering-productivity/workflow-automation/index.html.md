@@ -24,16 +24,19 @@ See [One-off Policies](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/m
 
 #### Group/Category/Stage rename
 
-Example: [rename `category:Pods` to `category:Cell`](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/1270)
+Example:
+
+- [Rename `category:Pods` to `category:Cell`](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/1270)
 
 Group G is renamed to Group A, where A is a newly created group name. Required actions:
 
-1. locate the [`group::G` label](https://gitlab.com/groups/gitlab-org/-/labels) in the Labels page and update the title and description.
+1. Locate the [`group::G` label](https://gitlab.com/groups/gitlab-org/-/labels) in the Labels page and update the title and description.
 2. No label migration needs to run because the new label didn't exist before and we do not need to keep the old label name.
 
 #### Group/Category/Stage merge
 
 Examples:
+
 - [`group::organization` merging into `group::pods`](https://gitlab.com/gitlab-org/quality/triage-ops/-/merge_requests/2049)
 - [Merge `Category:Authentication and Authorization` and `Category:Permissions` into `Category:System Access`](https://gitlab.com/gitlab-org/quality/triage-ops/-/merge_requests/2022)
 
@@ -46,6 +49,7 @@ Group G is merging into group B, where B is an existing group label. Required ac
 #### Group changing Stage or Category
 
 Example:
+
 - [Update CI Variables from pipeline authoring to pipeline security](https://gitlab.com/gitlab-org/quality/triage-ops/-/merge_requests/2053)
 
 Group G used to belong to stage S, and was responsible for category C. After the structure changes, group G became a part of stage SS, and is responsible for category CC. Required actions:
