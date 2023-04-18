@@ -439,6 +439,53 @@ To demote one of your direct reports, a manager should follow the following step
 - Communication should be on a need-to-know basis only and should not be made public out of respect for the individual. 
 - The manager will initiate any necessary access requests or access change requests. 
 
+## Job Title Specialty Changes
+
+Job title specialties are used to indicate a stage, group and/or a specific focus area of the team member within their responsibilities. These specialties are not part of the job title, but are used to feed into reporting around stage, group and/or focus area investments. It is also a resource for the People Group and leaders to leverage to review organizational health metrics and ratios.
+
+**If any changes are required to a team members Job Title Speciality, the manager should email the People Connect team (people-connect@gitlab.com) promptly with the new job title specialty information along with the effective date of the change. It is an important manager responsibility to ensure this field remains accurate in Workday.**
+
+### Job Title Specialty Guidance For Managers
+
+Different departments at GitLab manage job title specialties in different ways. Below, we have outlined guidance for certain departments to document how they thing through job title specialties to ensure a consistent approach.
+
+To easily access a report for what current job title specialties are for your team, you can follow these steps:
+- Log into Workday
+- Type "My Team Job Title Specialties" in the search bar
+- Click "OK" for your organization
+
+#### For Development, Infrastructure, and Quality departments:
+
+- Who should have a specialty:
+    - ICs: Job grade 11 and below should  should have Stage and/or primary group (if applicable)
+    - People Mgrs: Managers, Senior Engineering Managers, and Group Product Managers managing ICs should have Stage and/or primary group (if applicable)
+
+- When requesting a job title specialty update, please follow the following formatting:
+    - Review Product/Categories and make sure the group names you use match what is listed in the spreadsheet.  If it doesn’t, please connect with your PM to confirm and work with them to update if needed
+    - Add both stage and group in the job title specialty field
+        - Example:  Add “Manage: Authentication and Authorization” instead of “Authentication and Authorization”
+        - **Important: Please ensure that you leave a space after the colon (:) between stage and group.**. For example, `Create: Source Code` is _correct_ formatting, and `Create:Source Code` is _incorrect_ formatting. This helps ensure that when pulling reports we have accurate counts for investment alignment.
+    - Review each person and make sure it only lists one group.
+        - Note: In situations where there are two groups, pick the primary group.
+    - Ensure all specialty information is in the `Job Title Specialty` field as opposed to the `Job Title Specialty (Multi-Select)` field. 
+
+#### For Customer Support department:
+
+- Who should have a specialty: 
+  - ICs: Job Grade 9 and below to indicate the focus of the role being Global, Federal or Readiness (if applicable)
+  - People Managers: Managers and Senior Managers to indicate the primary focus of their role (if applicable). 
+ 
+Note: For Support it’s not tied to stage, group but rather the focus of the role that is not captured in the Job title. 
+
+- When requesting a job title specialty update, please make sure to use any of the below focus areas when reaching out to People Connect: 
+  - Global
+  - Federal
+  - Readiness
+
+
+
+
+
 ## Job Information Change in Workday
 
 Job information changes are anything that requires an update to the team member's profile in Workday that is not compensation related. The current manager is the person who needs to submit all job information change requests (including requests to change team member's manager). These changes need to get requested through Workday to have an approval trail for compliance reasons.
