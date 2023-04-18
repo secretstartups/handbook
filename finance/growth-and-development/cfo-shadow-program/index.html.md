@@ -12,13 +12,13 @@ title: CFO Shadow Program
 
 #### Overview
 
-The CFO Shadow Program is an immersive 2 week assignment where team members can apply to shadow the CFO. The [70:20:10 model for learning](https://about.gitlab.com/handbook/people-group/learning-and-development/#70-20-10-model-for-learning-and-development) shows us that most adults gain ~90% of their knowledge through experiential learning. While formal "classroom" style training plays an important role in teaching new concepts, real life experiences are critical to helping adults develop and retain new skills. The CFO Shadow program is a unique growth opportunity for team members who are looking to experience a "day in the life" of a CFO of a publicly traded company, gain greater cross-functional insight, and develop their general business and Finance acumen. 
+The CFO Shadow Program is an immersive 1 or 2 week assignment where team members can apply to shadow the CFO. The [70:20:10 model for learning](https://about.gitlab.com/handbook/people-group/learning-and-development/#70-20-10-model-for-learning-and-development) shows us that most adults gain ~90% of their knowledge through experiential learning. While formal "classroom" style training plays an important role in teaching new concepts, real life experiences are critical to helping adults develop and retain new skills. The CFO Shadow program is a unique growth opportunity for team members who are looking to experience a "day in the life" of a CFO of a publicly traded company, gain greater cross-functional insight, and develop their general business and Finance acumen. 
 
 In the spirit of [boring solutions](https://about.gitlab.com/handbook/values/#boring-solutions), the CFO Shadow program mirrors the original [CEO Shadow program](https://about.gitlab.com/handbook/ceo/shadow/#overview) in many ways, with some customizations. 
 
 #### What to Expect 
 
-The CFO Shadow program consists of a two week rotation where the shadow attends nearly all meetings with the CFO on Tuesday, Wednesday, and Thursday of two consecutive weeks. Meetings are all-remote, so the program does not require travel, and meetings are conducted in regular business hours in Eastern Standard Time.  Shadows should work with their managers to treat the Tues-Thurs of both weeks that they are participating in the program as time away from their day-to-day role so that they are able to focus primarily on the CFO Shadow experience. The days are commonly meeting heavy, so it's useful to plan to use any time at the end of the day to process what you learned, catch up on notes, or complete any small tasks assigned by the CFO. 
+The CFO Shadow program consists of a 1 or 2 week rotation, depending on the CFO's availability, where the shadow attends nearly all meetings with the CFO on Tuesday, Wednesday, and Thursday. If 2 consecutive weeks are available, the CFO shadow is to be scheduled for both weeks. Meetings are all-remote, so the program does not require travel, and meetings are conducted in regular business hours in Eastern Standard Time.  Shadows should work with their managers to treat the Tues-Thurs of both weeks that they are participating in the program as time away from their day-to-day role so that they are able to focus primarily on the CFO Shadow experience. The days are commonly meeting heavy, so it's useful to plan to use any time at the end of the day to process what you learned, catch up on notes, or complete any small tasks assigned by the CFO. 
 
 #### Eligibility
 
@@ -68,7 +68,7 @@ There will be short-term administrative tasks that you'll be asked to perform as
 
 ##### CFO's calendar
 
-1. At the start of the week, review the CFO's calendar. The CFO's calendar is the single source of truth. Shadows should check the CFO's calendar for updates often. You will not be invited to each meeting. Meetings that the shadows may not attend will have a separate calendar entry on the CFO's schedule that states "No CFO Shadows". When in doubt, reach out to CFO Executive Business Admin to confirm if you should attend or not. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
+1. At the start of the week, review the CFO's calendar. The CFO's calendar is the single source of truth. Shadows should check the CFO's calendar for updates often. You will not be invited to each meeting. Meetings that the shadows may not attend will have a separate calendar entry on the CFO's schedule that states "No CFO Shadows". When in doubt, reach out to CFO's Senior Executive Business Administrator to confirm if you should attend or not. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
 1. As a reminder, you should have your title updated within your last name on zoom. During the Shadow rotation update your title to "CFO Shadow". [Here](https://about.gitlab.com/handbook/tools-and-tips/zoom/#adding-your-title-to-your-name) is the how to update your title as part of your last name to ensure it shows up on zoom.
 1. Add the CFO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars". Then click `Subscribe to Calendar`, search for the CFO's name, and click enter.
 1. Because candidate interviews are marked as "private" (busy) for confidentiality reasons, the Executive Business Admin will invite the shadows to those events directly. As a result, you will get an email from Greenhouse asking for candidate feedback, which is not necessary.
@@ -129,9 +129,9 @@ A handy App for time keeping is Senzillo's "Speech Timer for Talks".  It is avai
 Finance team members have a high workload and may not be able to complete a full 3-day rotation. If you are interested in shadowing for the full or part of the weeks listed below, open the MR to add your name to schedule per the instructions on [How to Apply](/handbook/finance/growth-and-development/cfo-shadow-program/#how-to-apply), and message the slack channel `#cfo-shadow` with the exact dates you are requesting. 
 
 | Start Date | End Date |Shadow Name |
-| ------ | ------ |------ |
-| August 23rd | August 25th |
-| August 30th | September 1st |
-| October 18th | October 20th | Robert Callam
-| October 25th | October 27th | Robert Callam |
-| November 8th | November 10th |
+| ------ | ------ |------ | |
+| April 24th (M,W,Th) | April 27th | |
+| June 13th |  June 15th | |
+| July 25th | July 27th | |
+| August 1st | August 3rd | |
+| August 8th | August 10th | |
