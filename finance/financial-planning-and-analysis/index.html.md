@@ -85,11 +85,13 @@ FP&A comprises five different sub-teams to support our FP&A goals:
 - Set annual quota assignments for revenue producing roles
 
 #### FY24 Plan
-- Please refer to the [Internal Handbook](https://internal-handbook.gitlab.io/handbook/finance/documents/) for final FY24 Planning Documents based on Adaptive, which is our SSOT.  These include
+Final FY24 Planning documents are on Google Drive, please find the links in the [Internal Handbook](https://internal-handbook.gitlab.io/handbook/finance/documents/). These include:
 
 - FY24 Plan Board Approval Presentation
 - FY24 Plan SSOT Hiring List
 - FY24 Bookings Quarterization
+
+All of the data for these planning documents are locked in our Adpative Planning instance (Adaptive Planning can only be accessed by FP&A.)
 
 
 ## Long Range Outlook ("LRO")
