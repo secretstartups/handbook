@@ -129,7 +129,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
   <iframe src="https://www.youtube.com/embed/Eza1wXoDLvs" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-*  **Learn more**: Read the [Migrating from SVN to GitLab documentation](https://docs.gitlab.com/ee/user/project/import/svn.html)
+*  **Learn more**: Read the [Migrating from SVN to GitLab documentation](https://docs.gitlab.com/ee/user/project/import/index.html#import-from-subversion)
 
 
 #### What are best practices for a developer workflow?
