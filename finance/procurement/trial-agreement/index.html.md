@@ -10,12 +10,15 @@ title: Non-Cost related Agreements
 # Non cost-related Agreements
 
 
-If you have documents from a vendor that are not a cost-related, such as Trial/Demo Agreement, Engagement Letter, etc., please submit a GitLab [issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issue%5Bmilestone_id%5D=) selecting a Non Cost-Related Template.
-Provide received from the vendor documents in the issue for Legal and Security review.
+If you have documents from a vendor that are not cost-related, such as a Trial/Demo Agreement, Engagement Letter, etc., please open a ZIP [request](https://gitlab.ziphq.com/create-workflow-request) selecting a Request a Demo/Trial ($0 Contracts) workflow and proceed with completing the form.
 
-Please do not sign any documents before Legal and Security approvals are collected.
+![zip-image-2](/handbook/finance/procurement/trial-agreement/ZIP-Start-Request.png)
 
-Once Legal and Security approve the issue Procurement Team will route documents first for GitLab signature and the to the vendor for countersignature.
+On the request, provide received from the vendor documents for Legal and Security review.
+
+Please, do not sign any document before Legal and Security approvals are collected.
+
+After Legal and Security approvals are provided, the Procurement Team will route documents first for GitLab signature and then to the vendor for countersignature.
 
 If you have any questions, please reach out to Procurement through the #procurement Slack channel.
 
