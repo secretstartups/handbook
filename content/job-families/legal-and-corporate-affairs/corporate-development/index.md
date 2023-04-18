@@ -93,6 +93,7 @@ Prospecting:
 - Develop relationships with tech incubators, investors, and other sources of acquisition targets
 - Validate targets’ fit for GitLab’s product roadmap, terms and other criteria quickly and with little information
 - Establish strategy and execution plan for the product areas you will be leading, prioritizing prospects accordingly
+- Own the pipeline of opportunities - generate prospects and lead sourcing efforts
 
 Deal execution:
 - Lead acquisitions engagements start to finish, from qualifying targets, through closing and integration
