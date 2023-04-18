@@ -77,6 +77,7 @@ Here are GitLab’s current key topics with their drivers:
 #### Responsible product development
 
 * Open source
+* Ethical AI
 * Human rights issues from product use
 * Environmental impact considerations for product
 * Data processing and storage
