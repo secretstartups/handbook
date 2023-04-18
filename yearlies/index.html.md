@@ -33,7 +33,7 @@ The Annual Plan process [finishes two quarters after](https://about.gitlab.com/c
 ### Objectives and Key Results (OKRs)
 
 1. [Objectives and Key Results (OKRs)](/company/okrs/) are our quarterly priorities that create progress for our yearly goals.
-1. As a result, [OKRs](/company/okrs/)) are aligned to one of the yearlies. 
+1. As a result, [OKRs](/company/okrs/) are aligned to one of the yearlies. 
 1. While [OKRs](/company/okrs/) are not directly aligned to one of the three pillars of the [three year strategy](/strategy/#three-year-strategy), since OKRs are aligned to one of the Yearlies, and the Yearlies are aligned to our strategic pillars, OKRs are indirectly aligned to GitLab's strategy.
 1. [OKRs](/company/okrs/) have a duration of one quarter while Yearlies are annual goals with a duration of a year.
 1. [OKRs](/company/okrs/) are composed of Objectives and Key Results. Yearlies have an annual goal and a few key supporting goals and initiatives. [Top Cross-Functional Iniative](/company/top-cross-functional-initiatives/) exit outcomes will be listed among supporting goals. 
