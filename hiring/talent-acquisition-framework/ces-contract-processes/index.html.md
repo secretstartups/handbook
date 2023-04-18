@@ -334,8 +334,13 @@ CES: Follow the instructions below on how to create and send a letter of adjustm
 1. The signatory matches the appropriate entity. If the candidate is located in the US (including Federal), Morgan Wilkins can be a signatory. If the candidate is employed through a PEO, Morgan Wilkins and Marissa Ferber can be signatories (this process is subject to change)
 1. Next, Click Generate 
 1. Select Letter of adjustment template in Greenhouse:
-- Letter of Adjustment w/ OTE
-- Letter of Adjustment w/ no OTE 
+- Letter of Adjustment w/ OTE (US ONLY!)
+- Letter of Adjustment w/ no OTE (US ONLY!)
+- Letter of Adjustment w/ OTE, no RSU's
+- Letter of Adjustment, No OTE, No RSU's
+- **Special Note: Please ensure you are using the bottom two templates ONLY for NON US LOA's!**
+
+LOAs should be treated like contracts, where RSUs are only features in US ones and all other countries should have text within the DocuSign email instead.
 1. Click on Send through Docusign 
 1. You will be redirected to DocuSign.
 1. On the top left of the screen, click where it says the candidate's name, then click "Edit Recipients". Change the order of recipients to reflect the following order:
