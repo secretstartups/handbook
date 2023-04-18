@@ -21,9 +21,8 @@ workflow.
 
 ## Process
 
-A support engineer will file an issue using the 
-[Add Zendesk Organization Notes or Tags Request](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request)
-issue template, specifying it is for a product offering migration. This should
+A support engineer will file an issue in the 
+[Zendesk Organization Notes project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/zendesk-global/organizations/-/issues/new?), specifying it is for a product offering migration. This should
 include the planned date of the migration and the planned subscription level
 the customer will acquire.
 
