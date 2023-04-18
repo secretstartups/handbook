@@ -46,9 +46,9 @@ They work with a combined team of Business Systems Engineers, Data Analysts, and
 
 {{% job-families/sales/performance %}}
 
-## Levels
+## Job Grades
 
-Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
+Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Junior Business Systems Administrator
 

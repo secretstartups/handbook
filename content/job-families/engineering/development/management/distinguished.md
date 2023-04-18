@@ -69,10 +69,6 @@ The Distinguished Engineer is a [grade 10](https://about.gitlab.com/handbook/tot
 - Work with key customers in assigned areas to address technical challenges
 - Exemplify GitLab values through code, reviews, communications, and processes (following and setting)
 
-## Specialties
-
-Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab here.
-
 #### Ops and Enablement
 
 #### Requirements

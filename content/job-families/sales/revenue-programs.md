@@ -26,9 +26,9 @@ The Revenue Programs job family is responsible for developing and executing effe
 - Bachelor or University Degree, or relevant work experiences
 - Over achievement in a quota-carrying sales role strongly preferred
 
-## Levels
+## Job Grades
 
-Read more about [levels at GitLab](https://about.gitlab.com/handbook/hiring/vacancies/#definitions).
+Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Revenue Programs Specialist (Intermediate)
 

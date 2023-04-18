@@ -74,12 +74,11 @@ Frontend Engineers have the following job-family performance indicators.
 - [Open MR Review Time (OMRT)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-review-time-omrt)
 - [Open MR Age (OMA)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
 
-
-## Levels
+## Job Grades
 
 {{< section-inline-toc >}}
 
-Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
+Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Intern Frontend Engineer
 

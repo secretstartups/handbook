@@ -27,10 +27,6 @@ The Product Design Manager is a [grade 8](https://about.gitlab.com/handbook/tota
 - **Career development:** Provide coaching for those on your team to grow technical/soft skills and develop career paths using methods such as weekly [1:1s](https://about.gitlab.com/handbook/leadership/1-1/), Individual Growth Plans, and routine Career Development check-ins.
 - **People management:** Improve the happiness and productivity of your team. Recognize and help prevent [burnout](https://about.gitlab.com/company/culture/all-remote/mental-health/) while managing performance.
 
-### Specialties
-
-Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab here.
-
 #### Foundations
 
 The Foundations team works on building a cohesive and consistent user experience, both visually and functionally. You'll be responsible for leading the direction of the experience design, visual style, and technical tooling of the GitLab product. You'll act as a centralized resource, helping to triage large-scale experience problems as the need arises.

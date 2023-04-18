@@ -146,10 +146,6 @@ documents those opportunities
 - Experience working with a global or otherwise multicultural team
 - Computer science education or equivalent experience
 
-## Specialties
-
-Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab.
-
 ### Public Sector
 
 The Responsibilities, Requirements, and Additional Sklls for Public Sector Professional Services Engineers are identical to the commensurate Level and Grade of their non-Public Sector peers. The only additional job requirement is the necessary clearance to work on Government Contracts.

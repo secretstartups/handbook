@@ -67,9 +67,9 @@ Work completed per two-week iteration ([Total Issue Velocity](https://about.gitl
 
 ## Career paths
 
-### In role levels
+## Job Grades
 
-Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab.
+Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Product Analyst (Intermediate)
 

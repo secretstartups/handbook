@@ -268,11 +268,6 @@ The Senior Director, Talent Acquisition is a [grade 11](https://about.gitlab.com
 - Resourceful and takes initiative to seek internal and external resources when problem solving
 - Have implemented talent acquisition tools while delivering internal OKRs
 
-
-## Specialities
-
-Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab here.
-
 ### Sales & Marketing
 
 #### Responsibilities

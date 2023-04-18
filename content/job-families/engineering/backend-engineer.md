@@ -108,9 +108,9 @@ Engineering Managers have the following job-family performance indicators. Perfo
 - [Handbook Update Frequency](https://about.gitlab.com/handbook/engineering/performance-indicators/#handbook-update-frequency)
 - [Team Member Retention](https://about.gitlab.com/handbook/engineering/performance-indicators/#team-member-retention)
 
-## Levels
+## Job Grades
 
-Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
+Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Associate Backend Engineer
 

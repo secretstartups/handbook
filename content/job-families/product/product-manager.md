@@ -103,9 +103,9 @@ It is not sufficient to just know the problems. It is also insufficient to have 
 
 ## Career paths
 
-### In role levels
+## Job Grades
 
-Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here. Within the Product Management Career Track we use the [Product Management Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) to determine requirements for PM roles.
+Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). Within the Product Management Career Track we use the [Product Management Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) to determine requirements for PM roles.
 
 #### Intermediate Product Manager
 

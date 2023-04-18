@@ -102,10 +102,6 @@ The Senior PR Manager is a [grade 7](https://about.gitlab.com/handbook/total-rew
 - Strong ability to use GitLab.
 - Share GitLab values, and work in accordance with those values.
 
-### Specialty
-
-Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab here.
-
 ### Content
 
 The content specialty covers developing and overseeing the PR content strategy, which includes contributed articles, thought leadership content for PR campaigns and proactive media outreach, customer case study promotion, press release development and award submissions. As a part of the PR content strategy, this role oversees media sponsorship enagagements, leads content ideation, drafting content and ensuring GitLab is maximizing and fulfillling the sponsorship agreements. This role also ensures the GitLab Press Page, Press Kit and Corporate Communications Handbook pages are updated regularly.

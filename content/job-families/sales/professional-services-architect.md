@@ -111,17 +111,9 @@ At GitLab, due to the pace at which we are moving, people joining our team will 
 
 ### Job Grades
 
-
 Read more about grades at GitLab [here](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). As Professional Services falls under Customer Success, the specific grades are [here](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success)
 
-
-## Specialties
-
-
-Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab.
-
 ## Hiring Process
-
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 

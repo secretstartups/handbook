@@ -251,10 +251,6 @@ To be defined at time of business need.
 
 To be defined at time of business need.
 
-## Specialties
-
-Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab.
-
 ### Go To Market (GTM)
 
 ## Performance Indicators

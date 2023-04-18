@@ -20,9 +20,9 @@ Example Data Science projects include:
 
 Data Scientists are a part of the [Data Team](https://about.gitlab.com/handbook/business-technology/data-team/) and report to the [Director/ Sr. Director, Data & Analytics](/job-families/finance/dir-data-and-analytics/).
 
-## Levels
+## Job Grades
 
-Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
+Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Data Scientist (Intermediate)
 

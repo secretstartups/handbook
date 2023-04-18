@@ -76,10 +76,6 @@ The Senior Director of Customer Success is a job grade [level 11](https://about.
 - Exends that of the Director of Customer Success requirements
 - Demonstrated progressive experience leading managers of customer success teams in a SaaS or subscription enterprise software company
 
-## Specialties
-
-Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab.
-
 ### Director and Senior Director, Public Sector Customer Success
 
 #### Director and Senior Director, Public Sector Customer Success Responsibilities

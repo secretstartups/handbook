@@ -105,11 +105,11 @@ Engineering Managers have the following job-family performance indicators. Perfo
 - [Handbook Update Frequency](https://about.gitlab.com/handbook/engineering/performance-indicators/#handbook-update-frequency)
 - [Team Member Retention](https://about.gitlab.com/handbook/engineering/performance-indicators/#team-member-retention)
 
-## Levels
+## Job Grades
 
 {{< section-inline-toc >}}
 
-Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
+Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Intern, Backend Engineer
 
@@ -248,10 +248,6 @@ For Managers:
 - Next, candidates will be invited to schedule a 45 minute fifth interview with our VP of Engineering
 - Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
 - Successful candidates will subsequently be made an offer via email
-
-## Specialties
-
-Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab here.
 
 ### Distribution
 
