@@ -208,6 +208,21 @@ I'm going to ask that this issue be reviewed by the project maintainers directly
 This is so that we can make the most accurate decision regarding further work and viability.
 /label ~maintainer-discussion
 ```
+
+### Onboarding to Triage
+
+We start looking to onboard new Distribution team members to Triage duty after 3 months. This can be sooner if a team member feels they are familiar enough with the team processes to start working on triage.
+
+To onboard to triage, a team member will shadow an experienced triage team member for a week. Expectations are:
+
+- The mentor and shadow were made aware and agreed to mentoring prior to the triage week.
+- The shadow reads the triage process document in advance.
+- The mentor and shadow have a synchronous call earlier in the triage week for the mentor to go over how they approach triage.
+- The shadow attempts to triage a few issues asynchronously during the week.
+- A followup sync call is scheduled for later in the week for mentor and shadow to try triaging some issues together.
+
+A shadow may need multiple weeks on shadow before they feel comfortable on a solo triage week.
+
 ## Triaging Pipelines
 
 Pipeline failures are a shared team responsibility and need to be handled as soon as possible by whomever is available. That said, the team member on triage duty has a responsibility to follow up on any failures which occured and provide a summarized tally in the Triage notes. Failures requiring follow up issue(s) should also be noted to increase team awareness. Those issues should be labeled with `Broken Pipeline`
