@@ -1200,7 +1200,7 @@ This video will walk you through the process of making an announcement:
 ##### Reviewing and merging the announcement
 
 1. The TW Reviewer reviews the content, adds a commit that [updates the deprecations doc](#update-the-deprecations-and-removals-docs), and merges the MR by the 17th. After merging, the announcement will be visible on the [deprecations documentation page](https://docs.gitlab.com/ee/update/deprecations) within an hour.
-1. If the MR is at risk of missing the cut off date, apply the `pick into X.Y` label to the MR.
+1. If the MR is at risk of missing the cut off date, open a duplicate MR and set the target branch to `X-Y-stable-ee` where `X-Y` aligns with the version released `X.Y`. If you have trouble, ask for help in `#mr-buddies` or refer to the [full process for backporting an MR](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/process_new.md#gitlab-project).
 
 #### Announcing an End of Support period
 
@@ -1258,7 +1258,7 @@ If you decide to declare an End of Support period:
 
 1. Assign the MR to the technical writer [assigned to the stage](/handbook/product/ux/technical-writing/#designated-technical-writers).
 1. The TW Reviewer reviews the content, adds a commit that [updates the removals doc](#update-the-deprecations-and-removals-docs), and merges the MR by the 17th. After merging, the announcement will be visible on the [removals documentation page](https://docs.gitlab.com/ee/update/removals) within an hour.
-1. If the MR is at risk of missing the cut off date, apply the `pick into X.Y` label to the MR.
+1. If the MR is at risk of missing the cut off date, open a duplicate MR and set the target branch to `X-Y-stable-ee` where `X-Y` aligns with the version released `X.Y`. If you have trouble, ask for help in `#mr-buddies` or refer to the [full process for backporting an MR](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/process_new.md#gitlab-project).
 1. When approved, add the "Ready" label to the MR before merging.
 
 ##### Update features.yml
@@ -1680,10 +1680,11 @@ The What's New MR will be initiated by the Release Post Manager on the 20th, fin
    1. Images will end up at a URL like `https://about.gitlab.com/images/X_Y/XXXXXXX.XXX` Make sure you provide a full URL for the YAML entry. Ex: `https://about.gitlab.com/images/13_7/reviewers_sidebar.png`.
    1. If an image is not available, you can use a generic image (ex: `https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png`) or omit the image_url.
    1. Before committing the MR, [check the YAML with a validator](https://jsonformatter.org/yaml-validator).
-1. Add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for.
+1. Add the ~"documentation" label.
 1. Apply the affiliated release `milestone` (it's ok if it says "expired") and labels `whats new` and `release post`.
 1. On the 20th, when the MR is ready for review, assign `@justinfarris` and VP Product `@david` as reviewers and `@mention` them in the MR to complete their review by the 21st.
 1. After the release post is live and you have verified the images load locally in GDK by pulling down the What's New branch, have the MR reviewed following our standard [code review process](https://docs.gitlab.com/ee/development/code_review.html) and have it merged by a `maintainer`. It is recommended to communicate directly to the maintainer that the MR is time sensitive to avoid unnecessary delays.
+1. Open a duplicate MR and set the target branch to `X-Y-stable-ee` where `X-Y` aligns with the version released `X.Y`. Assign it to the same maintainer that merged the previous MR. This second MR ensures that any additional releases to version `X.Y` include this "What's New" update. If you have trouble, ask for help in `#mr-buddies` or refer to the [full process for backporting an MR](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/process_new.md#gitlab-project).
 
 **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display.** After the release post is live, but before merging, the branch should be checked out and the content checked in GDK to make sure that all images are displaying, links are accurate, and that the What's New items are part of the final release post. Only once those are confirmed should the MR be merged. Typically this means the What's New content will be live on the 23rd or 24th, depending on maintainer reviews.
 
