@@ -36,8 +36,9 @@ If you notice a ticket where you believe the customer to be violating the Code o
 
 ### Support Team Contributions
 
-We encourage all engineers to contribute to the product to help improve the customer experience directly. When working on merge requests (on the gitlab-org group) for code or for documentation, apply the
-`Support Team Contributions` label so that we can track product contributions by support team
+We encourage all engineers to contribute to the product to help improve the customer experience directly.
+When you are creating merge requests (in the gitlab-org group) for code or for documentation, the
+`Support Team Contributions` label is applied automatically so that we can track product contributions by support team
 members.
 
 Additionally, if the code change is specifically to improve the team's efficiency
