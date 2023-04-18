@@ -589,7 +589,7 @@ Until 8:00 am Pacific Time on the 18th, the TW Lead should be able to make chang
 directly to the release post. After that time, anyone who wants to include a
 change in the upcoming release may need to submit it in a separate MR, with a
 target of the `release-X-Y` branch. For more information, see
-[Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlab-release-posts).
+[Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/).
 
 ### Frontmatter
 
