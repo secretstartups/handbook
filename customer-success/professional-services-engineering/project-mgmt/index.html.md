@@ -21,42 +21,50 @@ Given the close collaboration between the PS Project Management and PS Operation
 
 ### Project plan
  
-Each PS Engagement will include a Project Plan based on the activities outlined in the Statement of Work (SOW). The Project Plan starts in Kantata but may be supplemented by a more detailed Gantt chart, tasks list, or another form of documented plan. This plan will follow the process listed above.
+Each PS Engagement will include a Project Plan based on the activities outlined in the Statement of Work (SOW). The Project Plan starts in Kantata but may be supplemented by a more detailed Gantt chart, tasks list, or another form of documented plan. This plan will follow the process diagram listed above.
  
 ### Project workflow
 
 #### Pre-Project Prep
 
-1. PS Operations: Once a project has moved into SFDC Phase 5 – “Negotiating”, SOW is reviewed and a PS team member is identified for the project, working with Sr. PSE and/or Technical Architect. Choice is based on several aspects:
-   - PSE technical skillset/experience
-   - PSE personality match with the customer
-   - PSE technical growth path opportunity
-   - PSE time zone
-   - PSE availability
-2. PS Operations: Reviews team member availability and adds a soft-allocation to the Kantata project schedule.
+1. PS Operations: Once a project has moved into SFDC Phase 5 – “Negotiating”, SOW is reviewed and a PS team member is identified for the project, working with Sr. PSE and/or Technical Architect. Choice is based on several criteria:
+   - Technical skillset/experience
+   - Personality match with the customer
+   - Technical growth path opportunity
+   - Time zone
+   - Availability
+
+2. PS Operations: Reviews team member availability, consulting with Regional Delivery Managers as needed, and adds a soft-allocation to the Kantata project schedule.
+   - This puts a temporary hold on the resources intended to work the project.
+
 3. PS Operations: Research an appropriate Partner if it is determined that a GitLab team member is not available to work the project.
    - See the PS Ops [Partner Process](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-operations/-/wikis/home?_gl=1*8ixlcw*_ga*MTE1NzU1OTg3MS4xNjQ2MjQzNjU3*_ga_ENFH3X7M5Y*MTY2MjU2MjExNS4yMy4xLjE2NjI1NjIxNzIuMC4wLjA.#handshake-partner-process)
-
+4. PS Engagment Manager: Introduces the Project manager to the customer and assists with the set-up of the Project Prep call.
+5. PS Project Manager:  Conducts Project Prep meeting with the customer.  The intention of this meeting is to explain HOW we work so that the customer understands how to best tsupport the successful progression of the project. 
+   - [Project Preparation call](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) includes the PM  and customer Project Lead counterpart (Engagement Managers and account team are optional)
+   - NOTE: Technical discussions are held for the customer project kick-off meeting.
+ 
 
 #### Initiate
 
 
-4. PS Operations: Once a project has moved to Closed/Won in Salesforce, a project is updated to “in set-up” status in Kantata.
+6. PS Operations: Once a project has moved to Closed/Won in Salesforce, a project is updated to “in set-up” status in Kantata.
    - A Project Lead is assigned: this can be a Project Manager, or Professional Services staff member
-5. PS Operations: Send [Welcome email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit?usp=sharing) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit?usp=sharing)
+7. PS Operations: If the Project Manager has not yet had the Project Prep meeting, then PS Ops will send [Welcome email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit?usp=sharing) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit?usp=sharing)
 6. Project Lead: Begins planning the project 
-   - Internal PS Project Alignment meeting (includes Engagement Mgr, Project Coordinator, PSE)
+   - Conducts an internal project alignment meeting ([aka Intro call]((https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing)) which includes EM, PSE, TA, and opitionally the Project Coordinator, Regional Manager, AE, and/or SCM
+   - Completes the Account Team to PS Transition issue template, located in the customer Epic
    - [Project Preparation call](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) (PM, PSE and/or Technical Architect and customer Project Lead counterpart)
-   - Account team to PS Transition meeting (PM to complete the issue template in the customer Epic)
    - If a CSM is assigned, follow [these steps](https://about.gitlab.com/handbook/customer-success/csm/engaging-with-ps/) outlining the engagement guidelines, throughout the customer project
+   - Submit resource request via Kantata to match the mutually agreed upon customer project schedule
 
 #### Plan
 
 7. Project Lead:
     - External [Customer Project Kickoff](https://docs.google.com/presentation/d/1HtVIE64N94Rcc774ujllClGmYZ5y1_ApE4-O3pazR6k/edit?usp=sharing): Actions and meeting minutes are added directly to the Project Definition Template (attendees include the entire project teams on both sides)
     - Submit resource request via Kantata to match the customer-confirmed project schedule
-    - Weekly project check-in meeting: Notes documented in the [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486)
-    - Provide Weekly Status Report: Using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486)
+    - Weekly project check-in meeting: Notes documented in the [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486) or customer collaboration project
+    - Provide Weekly Status Report: Using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486) or other agreed upon method
   
 #### Monitor/Control, Develop, Configure, Integrate, Train
 
@@ -66,16 +74,17 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
     - Provide Weekly Status Report to customer using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486) using the template in the Project Definition
        - Kantata schedule snapshot of the schedule (or other alternative view)
        - Kantata hours burn-down report (for T&M only)
-       - Open Action Items [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486)
-       - Issues & Escalations [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486)
-       - Planned Out of Office [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486)
+       - Open Action Items [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486) or customer collaboration project in GitLab
+       - Issues & Escalations [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486) or customer collaboration project in GitLab
+       - Planned Out of Office [Project Definition](https://docs.google.com/spreadsheets/d/1tBO5wyQ-lMkHJMSHkpq8rwzDsKXPcIxURaGrYi_HX9Q/edit#gid=1659103486) or customer collaboration project in GitLab
 
 #### Validate
 
 10. Project Lead:
+   - Inform the customer prior to an activity completion letting them know that they will be asked to approve/sign-off
    - Send [activity-based acceptance requests](https://docs.google.com/document/d/1RiS5TY5484nQuDTW8YMiB-CibVfoni7NJ8IUG2osUD0/edit?usp=sharing) to the customer for approval upon complete of each milestone
 11. Customer:
-   - Approves completion for each activity, deliverable, or milestone via email
+   - Approves completion for each activity, deliverable, or milestone via email or Slack
 
 #### Deploy & Close
 
