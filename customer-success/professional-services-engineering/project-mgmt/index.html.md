@@ -35,24 +35,24 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
    - Availability
 
 2. PS Operations: Reviews team member availability, consulting with Regional Delivery Managers as needed, and adds a soft-allocation to the Kantata project schedule.
-   - This puts a temporary hold on the resources intended to work the project.
+   - This puts a temporary hold on the resources intended to work the project
 
 3. PS Operations: Research an appropriate Partner if it is determined that a GitLab team member is not available to work the project.
    - See the PS Ops [Partner Process](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-operations/-/wikis/home?_gl=1*8ixlcw*_ga*MTE1NzU1OTg3MS4xNjQ2MjQzNjU3*_ga_ENFH3X7M5Y*MTY2MjU2MjExNS4yMy4xLjE2NjI1NjIxNzIuMC4wLjA.#handshake-partner-process)
 4. PS Engagment Manager: Introduces the Project manager to the customer and assists with the set-up of the Project Prep call.
 5. PS Project Manager:  Conducts Project Prep meeting with the customer.  The intention of this meeting is to explain HOW we work so that the customer understands how to best tsupport the successful progression of the project. 
    - [Project Preparation call](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) includes the PM  and customer Project Lead counterpart (Engagement Managers and account team are optional)
-   - NOTE: Technical discussions are held for the customer project kick-off meeting.
+   - NOTE: Technical discussions are held for the customer project kick-off meeting
  
 
 #### Initiate
 
 
-6. PS Operations: Once a project has moved to Closed/Won in Salesforce, a project is updated to “in set-up” status in Kantata.
+6. PS Operations: Once a project has moved to Closed/Won in Salesforce, a project is updated to “in set-up” status in Kantata
    - A Project Lead is assigned: this can be a Project Manager, or Professional Services staff member
 7. PS Operations: If the Project Manager has not yet had the Project Prep meeting, then PS Ops will send [Welcome email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit?usp=sharing) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit?usp=sharing)
 6. Project Lead: Begins planning the project 
-   - Conducts an internal project alignment meeting ([aka Intro call]((https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing)) which includes EM, PSE, TA, and opitionally the Project Coordinator, Regional Manager, AE, and/or SCM
+   - Conducts an internal project alignment meeting ([aka Intro call]((https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing)) which includes EM, PSE, TA, and opitionally the Project Coordinator, Regional Manager, AE, and/or CSM
    - Completes the Account Team to PS Transition issue template, located in the customer Epic
    - [Project Preparation call](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) (PM, PSE and/or Technical Architect and customer Project Lead counterpart)
    - If a CSM is assigned, follow [these steps](https://about.gitlab.com/handbook/customer-success/csm/engaging-with-ps/) outlining the engagement guidelines, throughout the customer project
@@ -104,9 +104,9 @@ A Work Exception is used by a PM when seeking approval for a project to go over 
 #### Change Order
 
 Change orders are common elements of Professional Services engagements that can modify the scope, duration, or cost of an ongoing project.  A change order is typically created by the PM, with assistance of the EM when there is a change in scope.  Common scenarios for change orders are:
-- the start and end dates of a project are different than what's reflected in the SOW - a $0 change order reflects the new project estimated start and end dates
-- part of the scope of the project changes - the scope change might be handled within the original SOW duration and budget, in which case a $0 change order is created, or it might increase the original scope, and the customer will pay for the additional work.  The change order in the latter case would be associated with a new PS opportunity for the amount of the increase in scope.  A new Kantata project will then be created to work through the additional scope.
-- an existing project will be extended, with similar project activities and deliverables as the original scope, and the customer agrees to use the original SOW as the contract vehicle for the added work.  In this case, a change order is created and associated to a new PS opportunity that refects the amount of the PS extension.  Note: if the extension of work is for a different project, i.e. has different activities and deliverables, is not contiguously delivered with the original project, and/or will be staffed with different people, then in most cases, a new SOW should be used rather than creating a change order against the original SOW.  The new SOW will have its own scoping issue, be linked to the appropriate PS opportunity, and will create a new project in Kantata for staffing and tracking the engagement process.
+- The start and end dates of a project are different than what's reflected in the SOW - a $0 change order reflects the new project estimated start and end dates
+- Part of the scope of the project changes - the scope change might be handled within the original SOW duration and budget, in which case a $0 change order is created, or it might increase the original scope, and the customer will pay for the additional work.  The change order in the latter case would be associated with a new PS opportunity for the amount of the increase in scope.  A new Kantata project will then be created to work through the additional scope.
+- An existing project will be extended, with similar project activities and deliverables as the original scope, and the customer agrees to use the original SOW as the contract vehicle for the added work.  In this case, a change order is created and associated to a new PS opportunity that refects the amount of the PS extension.  Note: if the extension of work is for a different project, i.e. has different activities and deliverables, is not contiguously delivered with the original project, and/or will be staffed with different people, then in most cases, a new SOW should be used rather than creating a change order against the original SOW.  The new SOW will have its own scoping issue, be linked to the appropriate PS opportunity, and will create a new project in Kantata for staffing and tracking the engagement process.
 
 Apply the following steps to create a change order issue for tracking and approval purposes
 * Note the engagement Epic number and the scoping issue number
