@@ -16,15 +16,84 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 ## Specific to Employees Based in Germany
 
-Currently, GitLab does not provide additional benefits over and above the mandatory state requirements. [General GitLab benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/) still apply. As part of the [guiding principles](/handbook/total-rewards/benefits/#guiding-principles) this will be reviewed.
+Currently, GitLab provides the below additional benefits, in addition to mandatory state requirements. [General GitLab benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/) still apply. As part of the [guiding principles](/handbook/total-rewards/benefits/#guiding-principles), we will continously review our benefits design and offerings available through GitLab in Germany. 
 
 Join the [#gitlab-germany channel](https://gitlab.slack.com/archives/CCLBN72TW) in Slack for questions.
+
+
+### German Supplemental Pension Plan
+
+GitLab has introduced two supplemental Pension Plans for our Germany Team Members. 
+GitLab offers a **Support fund** (*effective 2023-04*, GitLab contributions only) and **Direct Insurance Pension Plan** (*effective 2023-05*, Team Member contributions with GitLab matching up to 1% via [Allianz](https://www.allianz.de/?gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGFOXdVxBxDl1GdNzweGsEGxNyDBojrXXa_aita6JwWV_fudgFJOhyAaAhspEALw_wcB&AZMEDID=SEM_SE-GG_VT-g_TH-Brand.Gold_KA-perma%7Copen%7CBrandGold_AG-Brand.Gold.Brand_KW-allianz_MT-p_AZ-334946579704_SL-keinSL_EG-Multiple&ef_id=Cj0KCQiA-oqdBhDfARIsAO0TrGFOXdVxBxDl1GdNzweGsEGxNyDBojrXXa_aita6JwWV_fudgFJOhyAaAhspEALw_wcB:G:s&s_kwcid=AL!8161!3!334946579704!p!!g!!allianz&gclsrc=aw.ds)). Please see the below “Plan Design” section for additional plan details. 
+
+The plans are administered by our German Brokers at WTW.  Please see below and the attached [flier](https://drive.google.com/file/d/10MKwET93ZVO6cgAS2LYmE1EfM60LpaOg/view?usp=sharing) for additional details on the plan. 
+    Team members can also email this form directly to WTW (contact details on the form, email **yvonne.ruecker@wtwco.com**) to obtain further support for the insurance tariff for salary sacrifice or request a consultation appointment with a WTW expert if needed. 
+
+1. **Effective 2023-04 Support Fund Enrollment: Current and new Team Members will automatically be enrolled into the Support Fund as of 2023-04**. Eligible Team Members will automatically be enrolled in the Support Fund, with their effective date being the following month their start date (new team members in 2023-05, will be enrolled starting in 2023-06). If for any reason a Team Member wishes to opt out of the Support Fund, please notify **Total-Rewards@gitlab.com**.  
+
+2. **Starting 2023-05 Direct Insurance Enrollment: Team Members who wish to enroll in the Direct Insurance Plan starting on 2023-05 or in the future will need to**:
+      (1) **Complete the [Direct Insurance agreement](https://drive.google.com/file/d/1xHrUyRKjb9vISSdIBRha7pqOqmSLbInR/view?usp=sharing) with your desired contribution** 
+      (2) **Send it to Total-Rewards@gitlab.com and yvonne.ruecker@wtwco.com before the 5th of the month**. Following receipt, the Benefits Team will countersign and send to WTW to confirm your enrollment. 
+
+- **Please note: you can choose to update your elections or enroll in the Direct Insurance Plan at any time throughout the year.** If a team member notifies Total Rewards before the 5th of the month that they want to join or change their Direct Insurance Plan election - their enrollment/changes will be reflected on the 1st of the current month. If they notify TR after the 5th of the month, enrollment/changes will be reflected the 1st of the following month. 
+
+- If there are any questions regarding the Direct Insurance plan or specific inquiries on your enrollment - please reach out our Pension Plan designated expert, **yvonne.ruecker@wtwco.com**, who will be able to further support via email or schedule a call/meeting/consultation, cc’ing **total-rewards@gitlab.com**  
+- Team members can also email this form directly to WTW (**yvonne.ruecker@wtwco.com**) to obtain a quote for the salary sacrifice on the direct insurance plan. 
+- Team Members should expect a contract (for their reference/records) from Allianz via post mail within 8 weeks of enrollment. If a team member does not receive a contract within the first 2 months of enrollment, please contact **yvonne.ruecker@wtwco.com**.
+
+
+### Plan Design:
+
+**Direct Insurance**: Gitlab will match up to 1% of pensionable income, max 1% of SSCC towards team member's salary sacrifice contributions.
+    - Employee contributions: The team member can elect an amount up to approx ~7% of the SCC maximum
+    - Employer :Contributions GitLab Employer contributions will match only 1%. **Please note: team members must elect at least 1% to receive the Employer Match.**
+
+**Support Fund**: GitLab will also contribute 1% of pensionable income up to SSCC, plus 6% of pensionable salary above the SSCC.
+    - Employer contributions only
+
+Fixed Adjustments: Salary is based on Annual Base salary; it is a fixed Salary and does not change throughout the year. Contributions are paid out monthly, but calculations are based on annual salary.
+
+New Joiners to the plan will always be automatically enrolled effective the following month. 
+
+
+### Support Fund Enrollment
+
+**Support Fund Enrollment: Current and new Team Members will automatically be enrolled into the Support Fund as of April 2023.** New Team Members will automatically be enrolled in the Support Fund, with their effective date being the following month after their start. If for any reason a Team Member wishes to opt out of the Support Fund, please notify **Total-Rewards@gitlab.com**. 
+
+    Total Rewards will notify the Non-US Payroll Team, who will start deductions from your paycheck and WTW will notify Allianz to enroll you into the plan. 
+    Team Members should expect a contract from Allianz via post mail within 8 weeks of enrollment.
+    If a team member does not receive a contract within the first 2 months of enrollment, please contact yvonne.ruecker@wtwco.com.
+
+
+### Enrolling or Changing Team Member Contributions into Direct Insurance
+
+Team members interested in enrolled into the Direct Insurance Plan will need to **complete the [Direct Insurance agreement](https://drive.google.com/file/d/1xHrUyRKjb9vISSdIBRha7pqOqmSLbInR/view?usp=sharing) with your desired contribution** and send it to **Total-Rewards@gitlab.com** and **yvonne.ruecker@wtwco.com** before the 5th of the month. 
+Following receipt, the Benefits Team will countersign and confirm with WTW on your updated contribution change. **As a reminder team members must elect at least 1% to receive the Employer Match.**
+
+    If a Team member notifies Total Rewards before the 5th of the month that they want to change their Direct Insurance Plan contributions, changes will be reflected on the 1st of the current month. If they notify Total Rewards after the 5th of the month enrollment/changes will be reflected the 1st of the following  month.
+    Total Rewards will inform WTW and Non-US Payroll of the change and when to update the change. 
+    The team member will receive a new version of the contract (may take up to 8 weeks to receive the new contract), however in the meantime Payroll will update the contribution amount. 
+
+
+### Team Members On Leave
+
+Team Members on Leave, including unpaid, maternity, paternity and extended Long Term Sickness (42 continuous calendar days of sick leave- 6 weeks) are not eligible to contribute on the plans while on leave. 
+
+Contributions will cease the month after the team member goes on leave.  – For example if the team member goes on leave on May 2nd (i.e. they are active on the 1st of the month) they can continue the contribution for that month, the next month (June 1st) we will stop contribution. Contributions will start again the following month after the team member returns from leave. 
+
+
+### Team Member Leaving the Company
+
+When a team member leaves the company, Total-Rewards will notify Allianz of the GitLab alumni’s leave date. The alumni can then expect a letter from Allianz with instructions on how to update the insurer of the pension plan from GitLab to the Team Member. Please contact **yvonne.ruecker@wtwco.com**, if you have any questions or may not have received your letter from Allianz. 
+
+
 
 ## German Social Security System
 
 GitLab and team members contributions to pension, health insurance, care in old age insurance and unemployment insurance are mandatory, as required by the state system. The payments are calculated each month by payroll and are shown on the employee pay-slips.
 
 Further information can also be found on the [Germany Trade & Invest Website](https://www.gtai.de/en/invest/investment-guide/employees-social-security-659058).
+
 
 ## Personal Accident Insurance
 
@@ -41,6 +110,7 @@ Accidents at work that are fatal or lead to an inability to work for more than 3
 
 Further things to note:
 The injured team member has the right to a copy of the accident report and can request the final document by emailing leaves@gitlab.com.
+
 
 ## Life Insurance
 
