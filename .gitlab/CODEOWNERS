@@ -1,9 +1,40 @@
-# Broadest Entries go to the bottom of a section. e.g. /content-sites/handbook/content-sites needs
-# to come before /content/handbook
-
+# These optional entries are for when no codeowner is found.
 ^[content-sites]
 * @marshall007 @jamiemaynard
 
+^[job-families]
+/content/job-families/ @sytses @streas
+
+^[handbook]
+/content/handbook/ @sytses @streas
+
+# The following entries relate to the operation of the handbook repo or the handbook site itself.
+[handbook-operations]
+/.gitignore @marshall007 @jamiemaynard
+/.gitlab-ci.yml @marshall007 @jamiemaynard
+/.markdownlint-cli2.jsonc @marshall007 @jamiemaynard
+/.markdownlint.yaml @marshall007 @jamiemaynard
+/go.sum @marshall007 @jamiemaynard
+/go.mod @marshall007 @jamiemaynard
+/package-lock.json @marshall007 @jamiemaynard
+/package.json @marshall007 @jamiemaynard
+/.gitlab/ @marshall007 @jamiemaynard
+/config/ @marshall007 @jamiemaynard
+/scripts/ @marshall007 @jamiemaynard
+/static/ @marshall007 @jamiemaynard
+
+[ide-configs]
+/.editorconfig @marshall007 @jamiemaynard
+/.nova/ @marshall007 @jamiemaynard
+/.vscode/ @marshall007 @jamiemaynard
+/.idea/ @marshall007 @jamiemaynard
+
+[docs]
+/LICENCE @marshall007 @jamiemaynard
+/README.md @marshall007 @jamiemaynard
+/content/docs/ @marshall007 @jamiemaynard
+
+# The rest of the entries are for the different sections of the handbook and/or job-families
 [comms]
 /content/news/ @sliang2
 
@@ -83,27 +114,15 @@
 /content/handbook/customer-success @spatching @christiaanconover @mrleutz
 
 [people]
-/content/job-families/people-group/ @sytses @streas @wendybarnes
+/content/job-families/people-group/ @wendybarnes
 /content/job-families/people-group/recruiting-operations-insights/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/recruiter/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/recruiting-sourcer/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/candidate-experience/ @sytses @streas @wendybarnes @rallen3
 
-^[job-families]
-/content/job-families/ @sytses @streas
-
 [chief-information-security-officer]
 /content/job-families/chief-information-security-officer/ @robin @fofungwu
 
 [ceo]
-/content/handbook/ @sytses @streas
 /content/job-families/chief-executive-officer @sytses @streas
 /content/job-families/board-of-directors/board_member/ @sytses @robin
-
-[docs]
-/content/docs/ @marshall007 @jamiemaynard
-
-[codeowners]
-.gitlab/CODEOWNERS @marshall007 @jamiemaynard
-
-
