@@ -28,17 +28,15 @@ The efficiency of both demo and test data is key to moving our business faster. 
 
 We will benefit from tooling efficiency together and broaden visiblity of demo data in the field and test data in Engineering.
 
-### Exit Criteria (30% completed)
+### Exit Criteria (65% completed)
 
 1. [x] [Identify differences and gaps between demo and test data](https://gitlab.com/gitlab-org/gitlab/-/issues/351370)
 1. [x] [Provide ability to seed demo data on-demand](https://gitlab.com/gitlab-org/gitlab/-/issues/361989)
 1. [x] [Delivery of first iteration](https://gitlab.com/gitlab-org/gitlab/-/issues/361989) of [working demo data](https://gitlab.com/gitlab-org/gitlab/-/issues/351370) usable by SAs in the field
 1. [ ] [Define "beautiful test data" for SAs to use in the field](https://gitlab.com/gitlab-org/gitlab/-/issues/373741)
-1. [ ] [Delivery of second iteration of working demo data more easily usable by SAs in the field](https://gitlab.com/gitlab-org/gitlab/-/issues/361997)
-1. [ ] Capture demo test data gaps identified by SAs
-1. [ ] [Implement automated test data provisioning for test environments](https://gitlab.com/gitlab-org/gitlab/-/issues/373740)
-1. [ ] Publish Demo/Test data structure in the handbook along with identified future DRIs
-1. [ ] [Provision first 3 versions of test/demo data on all developer used test environments (staging,review apps and GDK)](https://gitlab.com/gitlab-org/gitlab/-/issues/351374)
+1. [x] [Delivery of second iteration of working demo data more easily usable by SAs in the field](https://gitlab.com/gitlab-org/gitlab/-/issues/361997)
+1. [ ] [Rename AwesomeCo to GitLab Data Seeder](https://gitlab.com/gitlab-org/gitlab/-/issues/407261)
+1. [ ] [Publish GitLab Data Seeder Handbook Page](https://gitlab.com/gitlab-org/gitlab/-/issues/408123)
 
 ### Roles and Responsibilities
 
@@ -48,10 +46,12 @@ We will benefit from tooling efficiency together and broaden visiblity of demo d
 | Stakeholder           | Tim Poffenbarger       | Senior Manager, Solutions Architects |
 | Stakeholder           | Vincy Wilson           | Senior Manager, Quality Engineering |
 | Executive Sponsor     | Mek Stittri            | VP of Quality                     |
+| Technical Lead        | Dan Davison            | Staff Software Engineer in Test  |
 | Member                | Marshall Cottrell      | Principal, Strategy and Operations (Technical) |
 | Member                | Tim Zallmann           | Senior Director of Engineering    |
 | Member                | Mark Wood              | Senior Product Manager            |
 | Member                | Sameer Kamani          | Staff Federal Solution Architect  |
 | Member                | Joe Randazzo           | Solutions Architect               |
 | Member                | Darwin Sanoy           | Staff Solutions Architect         |
-| Member                | Dan Davison            | Staff  Software Engineer in Test  |
+| Member                | Siddharth Mathur       | Solutions Architect               |
+| Member                | Julie Byrne            | Senior Solutions Architect        |
