@@ -66,6 +66,45 @@ To access Zoominfo training sessions specific for GitLab follow [this link](http
 
 To access additional Zoominfo on-demand training follow [this link](https://university.zoominfo.com/pages/on-demand-training).
 
+### Zoominfo Licensing Policy and Procedures
+
+ZoomInfo admin management is shared between the Data Intellgience team who manages and provisions licenses to the sales team members (field sales), and the Marketing Operations team who manages and provisions licenses to the marketing team members (sales development org).
+
+Marketing Operations (MOps) provisions ZI licenses for marketing team (BDAs/SDRs/BDRs) along with respective managers, and Data Intelligence provisions for field sales roles (AEs, SAEs, ASMs, ISRs).
+
+In ZI we use the following group roles to make this determination:
+
+BDA/BDR/SDR/BDR Manager/SDR Manager/XDR Manager falls under Marketing
+AEs/SAEs/ASMs/ISRs and their associated managers fall under Sales.
+
+### Access & Help
+
+Members of the sales organization and sales development, should receive access to ZoomInfo as part of their role entitlement request. If the team member did not receive access or if access had been removed and you would like it back you will need to open an access request.
+
+Specifically, for a Marketing related role (SDRs/BDRs) please open an (individual access request - AR for short)[https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/] and tag your manager for approval and Rob Rosu (Mops), while for a Field Sales related role (AEs/SAEs/ASMs/ISRs) open an AR and tag your manager for approval and Briann Vandre (Data Intelligence). 
+
+If you are experiencing issues with ZoomInfo, your first point of contact is ZoomInfo. You can reach them via email at: helpmenow@zoominfo.com.
+
+You can also reach out to the Data Intelligence or Mops teams via Slack at #dataintelligencehelp or in #mktgops.
+
+### Monthly Review
+
+**Detailed Process**
+
+1. Log into ZoomInfo, Admin Portal, Users, Export to CSV
+2. Import into Google Sheet pivot table, review users who have not accessed in the last 30 days
+3. Reach out to users on Slack
+4. Deactivate users that no longer need access
+5. Keep track of split of Marketing and Sales licenses. If we run short on Sales licenses, we can borrow some from marketing with the following message.
+6. Create an issue in the Data Intelligence project on a monthly basis to track the users that were deactivated. The label Mktg Tool Audit and Data Intelligence :: Tech Stack should be userd. This will serve as support for any possible audit.
+
+**To note that:** If the license is borrowed from the marketing team, it can be revoked at any time. Please inform the user: “Greetings! We currently do not have Zoominfo licenses available for field sales. We have assigned you a temporary ZoomInfo license borrowed from the marketing team so you can have access to the platform. Due to limited licenses being available, your license may be revoked if the marketing team needs the license back for one of their team members. If such an instance does arise, you will be notified before the license is revoked and we will work to get you procured a Sales Operations license. Thank you for your understanding.”
+
+### Controls
+
+1. Check to ensure all users have a @gitlab.com email address
+2. Check to ensure role aligns with current role internally (with internal mobility, users may need to be assigned a new role)
+
 ### Credits
 
 ZoomInfo credits represent the consumption (export) of a professional or company profile from the ZoomInfo platform. This export can originate from the primary ZoomInfo platform, the ReachOut Chrome Extension, or any time an API call is made from any number of our integrations, including CRMs, marketing automation platforms, and sales automation tools. 

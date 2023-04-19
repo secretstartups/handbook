@@ -73,8 +73,18 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 
-- [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration.
 - [#hbupdate-mktgops](https://gitlab.slack.com/archives/mktgops) - This channel is used to automatically post new [handbook updates](#handbook-updates) that have been merged.
+- [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration.
+   - In order to efficiently triage common requests, we utilize auto-responses in this channel. Anyone can help triage requests in the #mktgops slack channel by using the slack emoji reactions in the table below. 
+
+| Inquiry | Slack Reaction |
+| ------ | ------ |
+| Questions specific to SFDC | `:mktgops_salesforce:` | 
+| Complex questions that require an issue | `:mktgops_issue:` |     
+| Bugs | `:mktgops_bug:` |     
+| Questions about tool status | `:mktgops_status:` |     
+| List import questions | `:mktgops_lists:` |   
+| Tool access is needed | `:mktgops_AR:` |   
 
 **Salesforce**
 
@@ -289,7 +299,8 @@ For information regarding the tech stack at GitLab, please visit the [Tech Stack
 Integrated with Salesforce
 </summary>
 
-- [Bizible](/handbook/marketing/marketing-operations/bizible/)
+- [6sense]()
+- [Bizible / Marketo Measue](/handbook/marketing/marketing-operations/bizible/)
 - [Demandbase](/handbook/marketing/account-based-marketing/demandbase/)
 - [Drift](/handbook/marketing/marketing-operations/drift/)
 - [LeanData](/handbook/marketing/marketing-operations/leandata)
@@ -313,27 +324,60 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 
 - [Allocadia](/handbook/marketing/strategy-performance/allocadia/)
 - Hopin
+- [Iterable](/handbook/marketing/marketing-operations/iterable/)
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/)
 - [On24](/handbook/marketing/marketing-operations/on24)
 - [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/)
-- [Rev](/handbook/marketing/marketing-operations/rev)
 - [Smartling](/handbook/marketing/localization/smartling/) (Until Localization team is built out)
 - Survey Monkey
 - [Typeform](/handbook/marketing/marketing-operations/typeform/)
 
 </details>
 
+## <i class="fas fa-toolbox" id="biz-tech-icons"></i> Tech Stack Status Pages
+Below is a collection of links leading to status pages of several listed MktgOps DRI tools. Unclickable links did not offer **official** status pages during the 2023 review of available webpages, but there are several **unofficial** and **unaffiliated** websites that offer webpage uptime checking as a service, e.g. www.isitdownrightnow.com, www.downdetector.com and www.downforeveryoneorjustme.com. Feel free to search on these sites during a perceived downtime, but keep in mind it may not be as accurate as an official source. 
+
+<details>
+<summary markdown='span'>
+Click to see dropdown list of available status page URLs. 
+</summary>
+
+- 6sense
+- Traction
+- [Marketo/Marketo Measure (formerly Bizible)](https://status.adobe.com/products/503491)
+- [Drift](https://drift.status.io/)
+- [LinkedIn Sales Navigator](https://www.linkedin-apistatus.com/)
+- [Outreach.io](https://status.outreach.io/)
+- [PathFactory](https://status.pathfactory.com/)
+- ReachDesk
+- RingLead
+- Terminus Email Experiences
+- [ZoomInfo](https://status.zoominfo.com/)
+- Vartopia - Lead Sharing Module
+- Allocadia
+- [Hopin](https://status.hopin.com/)
+- [Iterable](https://status.iterable.com/)
+- [Litmus](https://status.litmus.com/)
+- [MailJet](https://status.mailjet.com/)
+- On24
+- [Smartling](https://status.smartling.com/)
+- [Survey Monkey](https://help.surveymonkey.com/en/surveymonkey/site/site-status-information/)
+- [Typeform](https://status.typeform.com/)
+
+</details>
+
+
 ### Renewal process for marketing technology budget owners
 
-- Renewal discussion should start 90 days before contract end date (6 months+ for complex tools with many integrations - DemandBase, Outreach, etc…).
+- Renewal discussion should start 90 days before contract end date (6 months+ for complex tools with many integrations - Marketo, Outreach, etc…).
 - For new software that has been approved create a business case to attach to the Coupa ([example](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6171)).
-- With Procurements submit an RFP every 2 years or for tools over 50K+.
+- With Procurement submit an RFP every 2 years or for tools over 50K+.
 - POC for any new tools or new features before signing a contract.
 - No auto-renewals and 2 year contracts should have massive cost savings.
 
-Align with Procurements and Finance:
-- Work with Procurements to structure and negotiate the contract. As well, look to do an RFP with multiple vendors for competitive pricing.
+Align with Procurement and Finance:
+- Work with Procurement to structure and negotiate the contract. As well, look to do an RFP with multiple vendors for competitive pricing.
 - Align with Finance to confirm budget is accounted for in FY24.
 
 Marketing Operations role:
@@ -397,17 +441,6 @@ For budgetary reasons, Marketing Operations will be performing quarterly, bi-qua
 
 - Tools included under the monthly guidelines:
   - Zoominfo (for more information regarding the Zoominfo process feel free to review the [Process: Monthly ZoomInfo License Review GDoc](https://docs.google.com/document/d/1-_miWHyUPxcgJxoGWTPLI41bVFveBFYjthpW8M3Ui48/edit)
-
-## Remaining Licenses Communications Plan
-
-The communication plan applies to tools like Zoominfo and Outreach and is created to detail the communications that are sent regarding remaining licenses. It speaks to what communications go out, when they take place and in what format.
-
-| **Communication** | **Format** | **Details** | **Owner** |
-|---------------------------------- | ---------- | ------------------------------------- | -------------- |
-| Update on [Mops Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/) whenever comms, format or the owner details get adjusted. | Update Mktgops Handbook and post a notification in #sdrleadership_mktgops slack channel. | Tool owners will update the Mktgops Handbook page whenever the comms, format or owner detail change. In addition, tool owners will post a memo in the #sdrleadership_mktgops slack channel. | Rob Rosu / Gillian Murphy |
-| Monthly Zoominfo/Outreach License Gsheet Update | [GSheet](https://docs.google.com/spreadsheets/d/1jiWuht9gm2GHYpFX24609Ko4K8EEqxp-WI88y2yO2MI/edit#gid=1723653236) | Zoominfo/Outreach owner will update the License Gsheet on a monthly basis. Sales leadership will have access to the GSheet. | Rob Rosu / Gillian Murphy |
-| 5 Licenses Remaining Notification (Zoominfo/Outreach) | In #sdrleadership_mktgops slack channel | When we’re down to 5 Zoominfo/Outreach licenses remaining, a notification will be sent to sales leadership via the #sdrleadership_mktgops slack channel. | Rob Rosu / Gillian Murphy |
-| Quarterly Sales Reps Hiring Plan Update | [SSOT SDR SFDC Hierarchy of Roles](https://docs.google.com/spreadsheets/d/1egLt1RfVNRcGckYkgtkOwdcOqDjdsfcJCsrRiwzxPLY/edit#gid=0) | Sales leadership will update the Sales Rep Hiring plan on a quarterly basis. | Ramona Elliott |
 
 ## Working with Sales Systems for New Fields and/or Permission Set Updates
 
