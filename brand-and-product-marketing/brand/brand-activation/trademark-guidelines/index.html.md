@@ -1,4 +1,4 @@
----
+ ---
 layout: handbook-page-toc
 title: "Trademark Guidelines"
 ---
@@ -21,7 +21,7 @@ To request use of the Trademarks in a manner, or for a purpose, not expressly pe
     
 &nbsp;&nbsp; 1.1. You can use the GitLab Name to truthfully and accurately refer to, or identify, GitLab and its products and services, including in the following instances:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1. To indicate if your product, service, or solution integrates, or is interoperable or compatible, with GitLab, e.g. `Issue Downloader for GitLab`;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1. To indicate if your product, service, or solution integrates, or is interoperable or compatible, with GitLab, e.g. `Issue Downloader for GitLab`, provided that doing so does not create a likelihood of confusion as to the origin of such product, service, or solution;
         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2. To refer to GitLab Inc. and its products and services in news articles and other text without alteration, e.g. `GitLab acquires open source observability distribution Opstrace`;
        
@@ -47,11 +47,11 @@ To request use of the Trademarks in a manner, or for a purpose, not expressly pe
 
 &nbsp;&nbsp; 2.1.    Unless otherwise expressly permitted in these Guidelines, you must never:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.1. Use the Trademarks in the name of your business, product, service, app, domain name, social media account, or business indicator, in a manner that is likely to cause confusion;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.1. Use the Trademarks in the name of your business, product, service, app, domain name, social media account, or business indicator;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.2. Inaccurately imply an affiliation, endorsement, sponsorship, or approval with or by GitLab Inc., or use the Trademarks in a manner that is considered deceptive, unethical, illegal, or is detrimental to us in any way;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.3. Alter, animate, distort, or misappropriate the Trademarks, for example, by combining the Trademarks with other terms, misspelling them, or incorporating them into a tagline or slogan;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.3. Alter, animate, distort, or misappropriate the Trademarks, for example, by combining the Trademarks with other terms or content, misspelling them, or incorporating them into a tagline or slogan;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.4. Use the Trademarks as nouns or verbs in a common, descriptive, or generic way;
 
