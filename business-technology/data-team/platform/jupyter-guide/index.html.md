@@ -107,6 +107,14 @@ By default, rancher will allocate a small percentage of your machine's memory to
 }
 ```
 
+### Updating the Image Instructions
+
+1. From the data science repo, Pull the latest changes from the image to your local machine `git pull`
+1. Run the installation commands:
+    - **_For full install_**: `make setup-jupyter-local`
+    - **_For minimal install_**: `make setup-jupyter-local-no-mamba` 
+1. Launch Jupyter Lab`make jupyter-local`
+
 ### Some interesting libraries included
 
 #### Data/Model Analysis
