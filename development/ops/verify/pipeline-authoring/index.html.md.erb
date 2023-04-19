@@ -63,10 +63,6 @@ The team uses the [`#g_pipeline_authoring_quad`](https://gitlab.slack.com/archiv
 
 A template in the `gitlab-org/gitlab` project called `Pipeline Authoring Issue Implementation` is used to capture consistent details around implementation efforts. This template should be used when creating `backend` or `frontend` issues which could relate to the implementation of a validated problem with a refined solution proposal, or a general `backend` or `frontend` request that isn't related to a feature improvement or addition. This template is not intended to replace or duplicate any original design issues as the single source of truth ([SSOT](https://docs.gitlab.com/ee/development/documentation/styleguide/#documentation-is-the-single-source-of-truth-ssot)). When creating an issue for a feature change or addition, usability problems or bugs, use the `feature request` or `bug` issue templates.
 
-### Shared Issues
-
-The team uses the [Verify candidate](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=Verify+candidate&label_name[]=group::pipeline+authoring) label to denote issues that are good candidates to be worked on by any group in the Verify stage. Further details can be found in the Ops:Verify [Shared Issues](/handbook/engineering/development/ops/verify/#shared-issues) section. 
-
 ### Planning
 
 Issues are refined and weighted prior to assigning them to a milestone. We use `candidate::` scoped labels to help with planning work in future milestones. This label allows us to filter on the issues we are planning, allowing Product, Engineering, and UX to refine issues async that have `workflow::design` and `workflow::ready for development` labels applied. Weighting also helps with capacity planning with respect to how issues are scheduled in future milestones.
@@ -512,6 +508,16 @@ Engineering teams should inform the product manager and EMs if there isn't enoug
 ### Team Communication
 
 <%= partial("handbook/engineering/development/ops/verify/includes/team_communication.erb", locals: { slack_channel: 'g_pipeline-authoring', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX', group_label: 'group::pipeline authoring', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+authoring&scope=all', gitlab_subgroup: 'pipeline-authoring-group' }) %>
+
+#### Team Co-Working Sessions
+
+At GitLab, we advocate for having an async-first mindset in our daily work. Starting in May 2023, we are trialing a process that we use when there is a specific need to sync. We chose the format below because it is transparent and inclusive.
+
+- Team member A and team member B agree on a need to have a sync meeting for an issue being working on.
+- Schedule a meeting based on the availability of both team members.
+- Provide a link to the relevant issue in the meeting event description.
+- Share a link to the meeting in [`#g_pipeline_authoring_engineering`](https://gitlab.slack.com/archives/C03RZTZ59QE) to make other team members aware so that they may optionally attend.
+- After the meeting, summarize the results in a comment in the issue. 
 
 #### Shared Team Calendar
 
