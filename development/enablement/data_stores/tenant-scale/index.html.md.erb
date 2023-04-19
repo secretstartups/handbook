@@ -40,6 +40,10 @@ As we brainstorm and iterate on horizontal scalability proposals, we will
 provide implementation details, prototypes, metrics, demos, and documentation to
 support our hypotheses and outcomes.
 
+Currently, [Cells](https://docs.gitlab.com/ee/architecture/blueprints/cells/) is
+our proposal of a new architecture for our SaaS that is horizontally scalable,
+resilient, and provides a more consistent user experience.
+
 ### Goals
 
 The executive summary goals for the Tenant Scale group include:
@@ -112,7 +116,7 @@ We follow this process:
 
 ### What To Work On
 
-The primary source for things to work on is the [milestone prioritization board](https://gitlab.com/gitlab-org/gitlab/-/boards/4621652),
+The primary source for things to work on is the [milestone prioritization board](https://gitlab.com/groups/gitlab-org/-/boards/5548886),
 which lists all issues scheduled for the current cycle in priority order (from most to least important): p1,
 p2, and p3. You should first pick up issues that have the highest priority, which are listed at the top of the first board column.
 When you assign yourself to an issue, you indicate that you are working on it.
@@ -129,7 +133,7 @@ a person has clearly the most knowledge or context to work on an issue.
 
 We follow the GitLab [engineering workflow](/handbook/engineering/workflow/)
 guidelines. To get a high-level overview of the status of all issues in the
-current milestone, check the [development workflow board](https://gitlab.com/gitlab-org/gitlab/-/boards/1339417).
+current milestone, check the [development workflow board](https://gitlab.com/groups/gitlab-org/-/boards/2594854).
 
 As owners of the issues assigned to them, engineers are expected to keep the
 workflow labels on their issues up to date. When an engineer starts working an
@@ -158,67 +162,21 @@ graph LR
   E --> A
 ```
 
-### Boards
+### Issue Boards
 
-- [Pods: Build](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Apods) for issues assigned specifically to `~"group::pods"`
-  - We are following a model similar to the process described in the [Geo Build Board - A short tour](https://www.youtube.com/watch?v=rZW0ou4u-dw&list=PL05JrBw4t0KoY_6FXXVgj7wPE9ZDS4cOw&index=6)
-- [Group::Pods Roadmap](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=group::pods)
+We track our work on the following issue boards:
 
-### Everyone Can Contribute
+- [Data Stores:Tenant Scale milestone prioritization](https://gitlab.com/groups/gitlab-org/-/boards/5548886)
+- [Data Stores:Tenant Scale cross-functional prioritization](https://gitlab.com/groups/gitlab-org/-/boards/4424394)
+- [Data Stores:Tenant Scale planning](https://gitlab.com/gitlab-org/gitlab/-/boards/3782673)
+- [Data Stores:Tenant Scale validation](https://gitlab.com/gitlab-org/gitlab/-/boards/4403984)
+- [Data Stores:Tenant Scale build](https://gitlab.com/groups/gitlab-org/-/boards/2594854)
+- [Data Stores:Tenant Scale bug](https://gitlab.com/gitlab-org/gitlab/-/boards/4620745)
+- [Data Stores:Tenant Scale release posts](https://gitlab.com/gitlab-org/gitlab/-/boards/4908764)
+- [Data Stores:Tenant Scale milestones](https://gitlab.com/groups/gitlab-org/-/boards/5549104)
+- [Data Stores:Tenant Scale team members](https://gitlab.com/groups/gitlab-org/-/boards/5549106)
+- [Data Stores:Tenant Scale important](https://gitlab.com/groups/gitlab-org/-/boards/1438588)
 
-Currently the Tenant Scale group is in the early stages of working out what the finished product will be. The task ahead of us is vast and complex. The only way we are going to be able to break this down and iterate on it is to build proofs-of-concept.
-
-Currently we are in the proof-of-concept stage, in most cases we will need to take them to their logical conclusion. We might reach out to other GitLab teams to help us validate some of the assumptions we have had to make to in order to continue this exploration process. We are not afraid to determine that a proof-of-concept should not be continued. We will take what we learn from the process and apply it to the next one so we can iterate on PoC's in an efficient way.
-
-We have [short toes](https://about.gitlab.com/handbook/values/#short-toes) and welcome contributions, we are also very happy to talk about Cells with anyone that is interested. If you have a question, comment or just want generally know what we are up to and how we are going about it feel free to contact us, we'll make time.
-
-### Demos
-
-It is expected that we share progress early and often by creating recorded demos. There will be specific requests for demonstration topics, but unscheduled demonstrations are welcome too. When recording a demo it does not need to be polished or perfect. Guidelines below:
-
-- Keep it simple, it doesn't need to be polished
-- For planned demos, open an issue to discuss the topics to be demonstrated with the team. Planned demos would include end of milestone or major functionality
-- For ad hoc, spur of the moment or other interesting discoveries that you would like to demo, just create it and announce in Slack
-- Demonstrate functionality, even if incomplete and only working locally
-- The [Tenant Scale group](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr_xKd1sBqZ5ap_MJnniixO) playlist on GitLab Unfiltered contains all the Tenant Scale group demos and other recordings. As soon as the first Cells videos are uploaded a Cells playlist will be created and this page will be updated with the appropriate link.
-- Announce the recording availablity to the #g_tenant-scale slack channel
-
-We should be aiming for sharing demos on a weekly basis.
-
-### Proofs of Concept
-
-There will be many opportunities for us to undertake proofs of concept (POC). When we do, we agree to timebox the POC to 4 weeks and ideally to line up with milestone boundaries. When we need to make exceptions to this agreement we will employ [multimodal communication](/handbook/communication/#multimodal-communication) to ensure all stakeholders are properly apprised. 
-
-### Implementation Plans
-
-In the early phases of our work we will create implementation plans for review. As we create these implementation plans we will list them below.
-
-- [Cells blueprint](https://docs.gitlab.com/ee/architecture/blueprints/pods/index.html)
-- [Migrate CI Tables To New Database Plan](./migrate-ci-tables-to-new-database-plan.html)
-
-## How We Interview Candidates
-
-We use Ruby on Rails to build our product backed by a PostgreSQL database. You'll be a great fit for the team if you have strong database performance and scaling experience. Tenant Scale group members have the chance to put their mark on the end product and how it will be implemented as well as being at the forefront of building the solution.
-
-Our goal is to ensure all candidates we hire are in the best position to make fantastic contributions to GitLab, using their technical knowledge and creative expertise in solving problems.
-
-We hold the bar high in hiring quality engineers but also understand the interview process can feel like a long process. Below are the stages for interviewing for Tenant Scale group that balances the need for hiring for success and expediating the process.
-
-We aim to set up and book in all interviews in at the beginning of the interview process so candidates can see and prepare for what lays ahead for them. Feedback from candidates on the process is welcomed and a channel for that feedback will be provided at the beginning.
-
-### Interview Stages.
-1. Screening and Hiring Manager Interview
-  * If the Screening call is held by the Hiring Manager the two parts will be conducted at the same time.
-  * If the Screening call is held by one of our Technical Recruiters the Hiring Manager call will be held separately.
-  * We will talk about a candidate's expectations of the role and life at GitLab as well as talking about their technical skills at a high level and behavoural questions.
-1. Technical Assessment
-  * Candidates are given access to a Merge Request for them to review before the interview. At the interview the candidate will discuss their review and pair with two technical assessment staff on the call and make improvements.
-  * There may be further technical discussions to gauge the candidates technical fit in the role and the team.
-  * Provides a chance for the candidate to delve into the techincal aspects of the role and GitLab's tech stack.
-1. Peer Team Member
-  * A behavioural style interview with a Product Manager or peer team member.
-1. Skip-level Manager
-  * As per the Peer Team Member interview and a further chance for the candidate to demonstrate their fit for the role.
 ## Dashboards
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Tenant Scale" } %>
