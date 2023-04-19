@@ -87,9 +87,11 @@ if [[ $TITLE == "NOTSET" ]]; then
   exit 1
 fi
 
-if [[ $ICON == "NOTSET" ]]; then
-  echo -e "${red}${bold}Error:${normal}  Icon of section to migratte not set.  Exiting..."
-  exit 1
+if [[ $IS_HANDBOOK == false ]]; then
+  if [[ $ICON == "NOTSET" ]]; then
+    echo -e "${red}${bold}Error:${normal}  Icon of section to migratte not set.  Exiting..."
+    exit 1
+  fi
 fi
 
 # check for directories
@@ -99,7 +101,7 @@ if [ ! -d $DUBDUBDUB_REPO ]; then
 fi
 
 BRANCH_NAME=add-$SECTION-to-handbook
-if [[ $HANDBOOK == true ]]; then
+if [[ $IS_HANDBOOK == true ]]; then
     DIRECTORY_TO_SPLIT=sites/handbook/source/handbook/$SECTION
     NEW_SECTION=content/handbook/$SECTION
 else
@@ -163,11 +165,18 @@ cd $HANDBOOK_REPO
 git checkout -b $BRANCH_NAME
 git remote add $SECTION /tmp/gitlab-migration/www-gitlab-com
 git pull $SECTION master --allow-unrelated-histories --no-edit
-git mv $SECTION content/
+if [[ $IS_HANDBOOK == true ]]; then
+  NEW_SECTION_PATH=content/handbook/$SECTION
+  git mv $SECTION content/handbook/
+else
+  NEW_SECTION_PATH=content/$SECTION
+  git mv $SECTION content/
+fi
+
 
 echo -e "${bold}Creating index page for new content...${normal}"
 # Create an index page so we can view the content
-cat << EOF > content/$SECTION/_index.md
+cat << EOF > $NEW_SECTION_PATH/_index.md
 ---
 title: $TITLE
 cascade:
@@ -180,7 +189,7 @@ menu:
 EOF
 
 # Do a find and replace on all handbook and company links
-if [[ $HANDBOOK == false ]]; then
+if [[ $IS_HANDBOOK == false ]]; then
   echo -e "${bold}Finding and replacing broken handbook links...${normal}"
   find . -type f -name "*.md" -print0 | xargs -0 sed -i '' -e 's~](/handbook~](https://about.gitlab.com/handbook~g'
 fi

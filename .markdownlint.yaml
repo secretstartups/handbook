@@ -15,4 +15,3 @@ ul-style:
   style: dash
 fix: false
 outputFormatters:
-  - - markdownlint-cli2-formatter-codequality
