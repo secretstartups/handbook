@@ -59,10 +59,6 @@ menu:
       name: GitLab
       url: https://about.gitlab.com/
       pre: '<i class="fab fa-gitlab"></i>'
-    - weight: -1
-      name: Current Public Handbook
-      url: https://about.gitlab.com/handbook/
-      pre: '<i class="fa fa-book"></i>'
 
 mediaTypes:
   text/netlify:

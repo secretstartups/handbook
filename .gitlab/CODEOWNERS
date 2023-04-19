@@ -1,6 +1,25 @@
+#####
+# Quick intro to Codeowners
+#
+# The formmat is:
+# [section]
+# /<directory> <gitlab-user>
+#
+# The file is organized in to named sections denoting an internal organization function. e.g. People Group, Engineering, etc.
+#
+# ^[section] - Denotes an optional set of CodeOwners
+#              No ^ means one of these Codeowners are required to approve MRs for this section
+#
+# For more information see https://docs.gitlab.com/ee/user/project/codeowners/
+#
+# Special notes:  Due to the current implementation in our code base sections can't have spaces in their names.
+#                 Sections can't have named codeowners e.g. [section] @codeowner
+#
+#####
+
 # These optional entries are for when no codeowner is found.
 ^[content-sites]
-* @marshall007 @jamiemaynard
+* @jamiemaynard @marshall007
 
 ^[job-families]
 /content/job-families/ @sytses @streas
@@ -8,35 +27,60 @@
 ^[handbook]
 /content/handbook/ @sytses @streas
 
+^[company]
+/content/company/ @sytses @streas
+
 # The following entries relate to the operation of the handbook repo or the handbook site itself.
 [handbook-operations]
-/.gitignore @marshall007 @jamiemaynard
-/.gitlab-ci.yml @marshall007 @jamiemaynard
-/.markdownlint-cli2.jsonc @marshall007 @jamiemaynard
-/.markdownlint.yaml @marshall007 @jamiemaynard
-/go.sum @marshall007 @jamiemaynard
-/go.mod @marshall007 @jamiemaynard
-/package-lock.json @marshall007 @jamiemaynard
-/package.json @marshall007 @jamiemaynard
-/.gitlab/ @marshall007 @jamiemaynard
-/config/ @marshall007 @jamiemaynard
-/scripts/ @marshall007 @jamiemaynard
-/static/ @marshall007 @jamiemaynard
+/.gitignore @jamiemaynard @marshall007
+/.gitlab-ci.yml @jamiemaynard @marshall007
+/.markdownlint-cli2.jsonc @jamiemaynard @marshall007
+/.markdownlint.yaml @jamiemaynard @marshall007
+/go.sum @jamiemaynard @marshall007
+/go.mod @jamiemaynard @marshall007
+/package-lock.json @jamiemaynard @marshall007
+/package.json @jamiemaynard @marshall007
+/.gitlab/ @jamiemaynard @marshall007
+/config/ @jamiemaynard @marshall007
+/scripts/ @jamiemaynard @marshall007
+/static/ @jamiemaynard @marshall007
+
+[handbook-homepage]
+/content/_index.html @jamiemaynard @marshall007
+/content/featured-background.png @jamiemaynard @marshall007
+/layouts/home.html @jamiemaynard @marshall007
+
+[redirects]
+/layouts/index.redirects @jamiemaynard @marshall007
 
 [ide-configs]
-/.editorconfig @marshall007 @jamiemaynard
-/.nova/ @marshall007 @jamiemaynard
-/.vscode/ @marshall007 @jamiemaynard
-/.idea/ @marshall007 @jamiemaynard
+/.editorconfig @jamiemaynard @marshall007
+/.nova/ @jamiemaynard @marshall007
+/.vscode/ @jamiemaynard @marshall007
+/.idea/ @jamiemaynard @marshall007
 
 [docs]
-/LICENCE @marshall007 @jamiemaynard
-/README.md @marshall007 @jamiemaynard
-/content/docs/ @marshall007 @jamiemaynard
+/LICENCE @jamiemaynard @marshall007
+/README.md @jamiemaynard @marshall007
+/content/docs/ @jamiemaynard @marshall007
 
 # The rest of the entries are for the different sections of the handbook and/or job-families
+[alliances]
+/content/handbook/alliances/ @nbadiey
+/content/job-families/alliances/ @nbadiey
+
+[ceo]
+/content/job-families/chief-executive-officer @sytses @streas
+/content/job-families/board-of-directors/board_member/ @sytses @robin
+
+[chief-information-security-officer]
+/content/job-families/chief-information-security-officer/ @robin @fofungwu
+
 [comms]
 /content/news/ @sliang2
+
+[customer-success]
+/content/handbook/customer-success @spatching @christiaanconover @mrleutz
 
 [engineering]
 /content/handbook/engineering/horse/pubsec/ @sdumesnil @pmartinsgl @craig
@@ -50,14 +94,29 @@
 /content/job-families/engineering/incubation/ @bmarnane
 
 [finance]
-/content/job-families/finance/ @brobins
 /content/handbook/finance/documents/ @james.shen @watson.lin
 /content/handbook/finance/ @brobins
+/content/job-families/finance/ @brobins
+
+[legal]
+/content/handbook/legal-and-compliance/ @rschulman
+/content/job-families/legal-and-corporate-affairs/ @robin
+
+[marketing]
+/content/handbook/marketing/marketing-strategy-and-platform/ @RLeihe268
+/content/handbook/marketing/marketing-strategy-and-platform/growth/ @s_awezec
+/content/handbook/marketing/marketing-strategy-and-platform/marketing-operations/ @christinelee
+/content/handbook/marketing/ @akramer
+/content/job-families/marketing/ @akramer
+
+[people]
+/content/job-families/people-group/recruiting-operations-insights/ @sytses @streas @wendybarnes @rallen3
+/content/job-families/people-group/recruiter/ @sytses @streas @wendybarnes @rallen3
+/content/job-families/people-group/recruiting-sourcer/ @sytses @streas @wendybarnes @rallen3
+/content/job-families/people-group/candidate-experience/ @sytses @streas @wendybarnes @rallen3
+/content/job-families/people-group/ @wendybarnes
 
 [product]
-/content/job-families/product/ @joshlambert @vkarnes
-/content/job-families/product/technical-writer/ @clenneville @susantacker @dianalogan @kpaizee @david
-/content/job-families/product/technical-writing-manager/ @clenneville @susantacker @dianalogan @kpaizee @david
 /content/handbook/direction/ @david @fseifoddini @brhea
 /content/handbook/product/ @david @fseifoddini @brhea
 /content/handbook/product/efficiency/ @joshlambert
@@ -78,51 +137,22 @@
 /content/handbook/product/fulfillment/qsr/ @tgolubeva
 /content/handbook/product/fulfillment/auto-renewal/ @tgolubeva
 /content/handbook/company/performance-indicators/product/fulfillment-section/ @ofernandez2 @tgolubeva @courtmeddaugh @alex_martin @doniquesmit
-
-[legal]
-/content/job-families/legal-and-corporate-affairs/ @robin
-/content/handbook/legal-and-compliance/ @rschulman
+/content/job-families/product/technical-writer/ @clenneville @susantacker @dianalogan @kpaizee @david
+/content/job-families/product/technical-writing-manager/ @clenneville @susantacker @dianalogan @kpaizee @david
+/content/job-families/product/ @joshlambert @vkarnes
 
 [sales]
 /content/handbook/sales/ @dhong
-/content/job-families/sales/ @dhong @jbrennan1 @jakebielecki @james_harrison @jdbeaumont @cfarris
 /content/handbook/company/performance-indicators/sales.md @dhong
 /data/performance_indicators/sales.yml @dhong
+/content/job-families/sales/ @dhong @jbrennan1 @jakebielecki @james_harrison @jdbeaumont @cfarris
 
-^[Security]
+[Security]
 /content/handbook/security/ @robin @jlongo_gitlab
 /content/job-families/security/ @robin @jlongo_gitlab
-
-[marketing]
-/content/handbook/marketing/marketing-strategy-and-platform/ @RLeihe268
-/content/handbook/marketing/marketing-strategy-and-platform/growth/ @s_awezec
-/content/handbook/marketing/marketing-strategy-and-platform/marketing-operations/ @christinelee
-/content/handbook/marketing/ @akramer
-/content/job-families/marketing/ @akramer
-
-[total-rewards]
-/content/handbook/total-rewards/ @brittanyr @mwilkins
-
-[alliances]
-/content/handbook/alliances/ @nbadiey
-/content/job-families/alliances/ @nbadiey
 
 [support]
 /content/handbook/support/ @lyle @tcooney
 
-[customer-success]
-/content/handbook/customer-success @spatching @christiaanconover @mrleutz
-
-[people]
-/content/job-families/people-group/ @wendybarnes
-/content/job-families/people-group/recruiting-operations-insights/ @sytses @streas @wendybarnes @rallen3
-/content/job-families/people-group/recruiter/ @sytses @streas @wendybarnes @rallen3
-/content/job-families/people-group/recruiting-sourcer/ @sytses @streas @wendybarnes @rallen3
-/content/job-families/people-group/candidate-experience/ @sytses @streas @wendybarnes @rallen3
-
-[chief-information-security-officer]
-/content/job-families/chief-information-security-officer/ @robin @fofungwu
-
-[ceo]
-/content/job-families/chief-executive-officer @sytses @streas
-/content/job-families/board-of-directors/board_member/ @sytses @robin
+[total-rewards]
+/content/handbook/total-rewards/ @brittanyr @mwilkins
