@@ -18,11 +18,11 @@ In the spirit of [boring solutions](https://about.gitlab.com/handbook/values/#bo
 
 #### What to Expect 
 
-The CFO Shadow program consists of a 1 or 2 week rotation, depending on the CFO's availability, where the shadow attends nearly all meetings with the CFO on Tuesday, Wednesday, and Thursday. If 2 consecutive weeks are available, the CFO shadow is to be scheduled for both weeks. Meetings are all-remote, so the program does not require travel, and meetings are conducted in regular business hours in Eastern Standard Time.  Shadows should work with their managers to treat the Tues-Thurs of both weeks that they are participating in the program as time away from their day-to-day role so that they are able to focus primarily on the CFO Shadow experience. The days are commonly meeting heavy, so it's useful to plan to use any time at the end of the day to process what you learned, catch up on notes, or complete any small tasks assigned by the CFO. 
+The CFO Shadow program consists of a 1 or 2 week rotation, depending on the CFO's availability, where the shadow attends nearly all meetings with the CFO on Tuesday, Wednesday, and Thursday. If 2 consecutive weeks are available, the CFO shadow can apply to be scheduled for both weeks. Meetings are all-remote, so the program does not require travel, and meetings are conducted in regular business hours in Eastern Standard Time.  Shadows should work with their managers to treat the Tues-Thurs of both weeks that they are participating in the program as time away from their day-to-day role so that they are able to focus primarily on the CFO Shadow experience. The days are commonly meeting heavy, so it's useful to plan to use any time at the end of the day to process what you learned, catch up on notes, or complete any small tasks assigned by the CFO. 
 
 #### Eligibility
 
-In the first iteration of the CFO shadow program, the program is open to Finance Division team members. We aim to open the program to the greater GitLab team in FY23 Q2 and to incoporate any learnings from our early Shadows. 
+In the first iteration of the CFO shadow program, the program is open to Finance Division team members. We aim to open the program to the greater GitLab team in FY24 Q4 and to incoporate any learnings from our early Shadows. 
 
 To benefit the most from the types of meetings that the CFO attends, it's recommened that the participants have a general understanding of Finance, Business, Economics, and/or Accounting principles.  CFO Shadows must be in good performance standing in their current role. 
 
@@ -133,5 +133,5 @@ Finance team members have a high workload and may not be able to complete a full
 | April 24th (M,W,Th) | April 27th | |
 | June 13th |  June 15th | |
 | July 25th | July 27th | |
-| August 1st | August 3rd | |
 | August 8th | August 10th | |
+| August 15th | August 17th | |
