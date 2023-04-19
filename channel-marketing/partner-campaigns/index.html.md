@@ -43,7 +43,7 @@ These campaigns are GitLab funded via MDF, but all leads are passed to the partn
 When a lead/contact is associated to a campaign the following steps occur:
 
 1. Marketo processes the lead, marks as `Marketing Suspended` and syncs to SFDC.
-1. LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`.
+1. Traction updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`.
 
 DRI for the operalization of this process: Channel Marketing
 
@@ -54,9 +54,9 @@ When GitLab and Partners participate in events together, they will share leads. 
 
 When a lead/contact is associated to a campaign the following occurs:
 
-1. LeanData reviews the campaign field for `Is a Channel Partner Involved?` = `Yes`.
-1. LeanData verifies the campaign member is not actively worked by GitLab, thus `Person Status` is not `Accepted`, `Qualifying` nor `Qualified`, or `Actively Being Sequenced` = `False`.
-1. If all the above is true, LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`, then LeanData assigns to `Partner Queue`.
+1. Traction reviews the campaign field for `Is a Channel Partner Involved?` = `Yes`.
+1. Traction verifies the campaign member is not actively worked by GitLab, thus `Person Status` is not `Accepted`, `Qualifying` nor `Qualified`, or `Actively Being Sequenced` = `False`.
+1. If all the above is true, Traction updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner`, then Traction assigns to `Partner Queue`.
 
 ### Trials from Partners
 
@@ -72,7 +72,7 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 1. Marketo processes the lead and sends the trial activation key via email to the prospect.
 1. Marketo [suspends emails](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) being sent from GitLab to prospect
 1. Marketo sends email alert to partner team and syncs lead to SFDC.
-1. LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner` if `Partner Account` is not `NULL`. 
+1. Traction updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner` if `Partner Account` is not `NULL`. 
 1. Lead/Contact owner is updated to the assigned `Partner Queue`.
 1. Salesforce.com sends alert email to `Partner Prospect Admin`.
 1. Vartopia picks up lead and assigns to partner in Vartopia based on ID.
@@ -95,7 +95,7 @@ Partners can use the SaaS free trial submission via GitLab.com. They will have a
 1. The lead will receive a confirmation instruction email and log into the GitLab environment with login and password they created upon sign up.
 1. Marketo [suspends emails](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) being sent from GitLab to prospect
 1. Marketo sends email alert to partner team and syncs lead to SFDC.
-1. LeanData updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner` if `Partner Account` is not `NULL`. 
+1. Traction updates the `Partner Prospect Status` to `Qualifying`, `Prospect Share Status` = `Sending to Partner` if `Partner Account` is not `NULL`. 
 1. Lead/Contact owner is updated to the assigned `Partner Queue`.
 1. Salesforce.com sends alert email to `Partner Prospect Admin`.
 1. Vartopia picks up lead and assigns to partner in Vartopia based on ID.
@@ -141,13 +141,11 @@ All Marketo templates will have 2 tokens added to them that the campaign owner s
         1. Set `Vartopia Partner Account`
         1. Set `Partner Consent` = `True` 
 1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that. 
-1. (no setup needed) LeanData picks up from there, and the lead is routed accordingly to either GitLab or the Partner in Vartopia.
+1. (no setup needed) Traction picks up from there, and the lead is routed accordingly to either GitLab or the Partner in Vartopia.
 
 The process above will work for an event with multiple partners driving to it. Make sure they have their utms correct when sending traffic to the registration page. You still need to fill out the token, but only one value will be accepted. Please decide ahead of time who the `default` partner is that will receive the leads they did not source.
 
 **Offline Events: (Lead capture via list uploads, not)**
-
-**NOTE:** Phone numbers are required in order for the lead to be passed to Vartopia. Please make sure that field is populated.
 
 If a form isn't available to capture registration, follow these steps:
 
@@ -160,6 +158,29 @@ If a form isn't available to capture registration, follow these steps:
 1. (no setup needed) Interesting moments will dynamically change if there is a partner involved to reflect that.
 
 The process above will work for an event with multiple partners driving to it. Make sure they have the partner ID properly appended to each person on the list. You still need to fill out the token, but only one value will be accepted. Please decide ahead of time who the `default` partner is that will receive the leads they did not source.
+
+#### Partner Sponsored Event
+
+GitLab allows Channel Partners to sponsor our owned events. The leads acquired by the Channel Partner will be shared regardless of their `Lead Status` and `BDR Prospecting Status` and will not be applicable to the recall process despite `Lead Source` = `Owned Event` and not `Partner Qualified Lead`.
+
+`Lead Acquisition Source` needs to be manually updated to `Partner Sponsored Event` in the Marketo program flow. To do so, the steps below much be followed.
+
+ 1. Should there be any Partner sponsors, the Partner Marketing team will submit a GitLab MktgOps issue and tag @stran5 and specify which campaign/program and Channel Partners are the sponsors.
+ 2. Marketing Ops team will need to update the program flow.
+
+ 2a. Update the smart campaign flow according to the lead creation method:
+ - For online lead creation via form submission, update `01b - Registration` 
+ - For offline lead creation via list import, update `02b - Manual Upload Processing` 
+
+ 2b. Update the data change value from: 
+
+ > If `Vartopia Partner Account` is not empty, `Lead Acquisition Source` change value to `Owned Event`
+
+ to
+
+ > If `Vartopia Partner Account` is not equal to `Account ID of the Partner Sponsor(s)`, `Lead Acquisition Source` change value to `Owned Event`
+
+ 2c. Add Choice: If `Vartopia Partner Account` is equal to `Account ID of the Partner Sponsor (s)`, `Lead Acquisition Source` change value to `Partner Sponsored Event`
 
 
 ### MDF funded Campaigns
@@ -302,7 +323,7 @@ Below are the glossary of fields used for Channel and Alliance partner campaigns
 | [Channel Record](https://gitlab.my.salesforce.com/00N8X00000HNJde?setupid=LeadFields)           |                 | X               |             | X           |                  |                  |
 | [CRM Partner ID](https://gitlab.my.salesforce.com/00N4M00000IbfCn?setupid=LeadFields)           | X               |                 | X           |             | X                |                  |
 | [CRM Partner ID (Look Up)](https://gitlab.my.salesforce.com/00N4M00000IjeO1?setupid=LeadFields) | X               |                 | X           |             | X                |                  |
-| [Lead Acquisition Source](https://gitlab.my.salesforce.com/00N8X00000FnjX0?setupid=LeadFields)  | X               |                 |             |             | X                |                  |
+| [Lead Acquisition Source](https://gitlab.my.salesforce.com/00N8X00000FnjX0?setupid=LeadFields)  | X               |                 |             |             |                  |                  |
 | [Partner Consent](https://gitlab.my.salesforce.com/00N4M00000IbfCo?setupid=LeadFields)          | X               |                 | X           |             |                  |                  |
 | [Partner Managed](https://gitlab.my.salesforce.com/00N8X00000FoY1r?setupid=LeadFields)          | X               |                 |             |             |                  |                  |
 | [Partner Manager](https://gitlab.my.salesforce.com/00N8X00000HNDnd?setupid=LeadFields)          | X               |                 |             |             |                  |                  |
