@@ -14,7 +14,6 @@ description: "The Product Intelligence group work on feature enhancements and im
 
 The Product Intelligence Group is part of the [Analytics section](/handbook/product/categories/analytics/). Our group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Product Intelligence enable us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Product Intelligence Direction page](/direction/analytics/product-intelligence/).
 
-
 How we work:
 - We work in accordance with our [GitLab values](/handbook/values/).
 - We work [transparently](/handbook/values/#transparency) with nearly everything public.
@@ -23,7 +22,7 @@ How we work:
 - We make data-driven decisions.
 - Everyone can contribute to our work.
 
-## Communication
+## How to reach us
 
 If you have any questions start by @ mentioning the product manager for the [Product Intelligence Group](/handbook/product/categories/#product-intelligence-group) or by creating an issue in our [issue board](/handbook/engineering/development/analytics/product-intelligence/#issue-boards).
 
@@ -48,6 +47,11 @@ We're responsible to deliver a reliable Service Ping that runs every week on Saa
 3. [Metrics Dictionary](https://gitlab.com/gitlab-org/analytics-section/product-intelligence/metric-dictionary) and [Metrics Dictionary from Growth group](https://gitlab.com/gitlab-org/growth/product-intelligence/metric-dictionary). 
 4. [Snowplow Pseudonymization](https://gitlab.com/gitlab-org/analytics-section/product-intelligence/snowplow-pseudonymization)
 5. [Snowplow URL Pseudonymizer](https://gitlab.com/gitlab-org/analytics-section/product-intelligence/snowplow-url-pseudonymizer)
+6. [Version App](https://gitlab.com/gitlab-org/gitlab-services/version.gitlab.com)
+
+### Overview how to use Product Intelligence tooling
+
+For an overview about the capabilities of the analytic tooling the team develops, you can watch the video [Product Intelligence 101](https://www.youtube.com/watch?v=awWhNtwuVNs), or look through [the slides (internal)](https://docs.google.com/presentation/d/1omQ2-9i5l2LKHs_9WP_U1evVQmY6adzYyvZaVjbhdEk/edit#slide=id.p1)
 
 ## Team members
 
@@ -64,13 +68,17 @@ Our team uses a hybrid of Scrum for our project management process. This process
 - We work on both product and engineering initiatives.
 - We prioritize and estimate all issues we work on.
 - We do monthly milestone planning to prepare for our upcoming milestone.
+- We do weekly check-ins to share updates within the team
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Product Intelligence" } %>
+### Check-In
 
-### Overview how to use Product Intelligence tooling
+We do a weekly automated check-in within a [separate Slack channel](https://gitlab.slack.com/archives/C04SHHKTQFM). 
+We feel that a weekly cadence is enough to keep everyone up to date about the most important developments within the team.
+A bot asks every team member autoamtically the following questions at the beginning of the week and posts them to the channel
 
-For an overview about the capabilities of the analytic tooling the team develops, you can watch the video [Product Intelligence 101](https://www.youtube.com/watch?v=awWhNtwuVNs), or look through [the slides (internal)](https://docs.google.com/presentation/d/1omQ2-9i5l2LKHs_9WP_U1evVQmY6adzYyvZaVjbhdEk/edit#slide=id.p1)
-
+- **What Victories did you have in the last week?**: This should be the most important achievements from the last week. They can also be personal achievements.
+- **What Impediments did you have in the last week? Which impediments do you anticipate this week?**: This is important information for other stakeholders, to understand where a team member might need support.
+- **Which Priorities do you have for the current week?**: This should be the most important things you want to achieve during the week.
 
 ### Workflow
 
@@ -122,9 +130,11 @@ We prioritize our product roadmap in the [Issue Board by Milestone](https://gitl
 
 ### Picking something to work on
 
-Engineers can find and open [the milestone board for Product Intelligence](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence). Engineers should start at the top of the board and pick the first available, non-assigned issue which is labeled `Ready for development`. When picking an issue, the engineer should assign themselves as a signal that they are taking ownership of the issue.
+Engineers can find and open [the board for the current milestone](https://gitlab.com/groups/gitlab-org/-/boards/5071664?milestone_title=Started&label_name[]=group%3A%3Aproduct%20intelligence). 
+Engineers should start at the top of the "workflow::ready for development" column and pick the first available, non-assigned issue. 
+When picking an issue, the engineer should assign themselves as a signal that they are taking ownership of the issue and move them to "workflow::in development" to signal the start of development.
 
-If the next available issue is not a viable candidate (due to amount of capacity vs. issue weight, complexity, knowledge domain, etc.) the engineer may choose to skip an issue in milestone list and pick the next issue in order of priority. 
+If the next available issue is not a viable candidate (due to amount of capacity vs. issue weight, complexity, knowledge domain, etc.) the engineer may choose to skip an issue and pick the next issue in order of priority. 
 
 The following table will be used as a guideline for scheduling work within the milestone:
 
@@ -146,7 +156,6 @@ If all work within a milestone is picked, engineers are free to choose what to w
 ### Iteration
 
 We follow the [iteration process](/handbook/engineering/development/principles/#iteration) outlined by the Engineering function.
-
 
 ### Estimation
 
@@ -233,12 +242,6 @@ Let me draw your attention to potential caveats.
 To properly set expectations for product managers and other stakeholders, our team may decide to add a due date onto an issue. Due dates are not meant to pressure our team but are instead used to communicate an expected delivery date.
 
 We may also use due dates as a way to timebox our iterations. Instead of spending a month on shipping a feature, we may set a due date of a week to force ourselves to come up with a smaller iteration.
-
-### Out of office coverage process
-
-An OOO coverage process helps reduce the mental load of "remembering all the things" while preparing for being away from work. This process allows us to organize the tasks we need to complete before time off and make the team successful.
-
-Open a new issue in the [Product Intelligence project](https://gitlab.com/gitlab-org/product-intelligence/-/issues/new?issuable_template=out_of_office_coverage_template) with the [`out_of_office_coverage_template`](https://gitlab.com/gitlab-org/product-intelligence/-/blob/master/.gitlab/issue_templates/out_of_office_coverage_template.md).
 
 ### Milestone Planning and Timeline
 
@@ -329,9 +332,8 @@ We emphasize creating the epic at the topmost-level group so that it will show u
 
 ### Ratio of issues to MRs
 
-We used to aim for a 1:1 ratio between issues and merge requests, mainly for the sake of status visibility at the issue board level. We have since moved to using epics and the epic roadmap for product management visibility, and we are comfortable with the amount of status updates received during our weekly sync meetings as well as through comments within issues themselves.
-
-If an issue requires multiple merge requests, we no longer recommend splitting the issue itself up in order to maintain a 1:1 ratio of issues to MRs. The advantage is that an engineer is able to create an arbitrary number of MRs for a single issue and can move much more quickly through them. The trade-off is that doing so makes it more difficult to communicate the overall status of the issue itself. It is the engineer's responsibility to make sure that the status of each issue they are working on is effectively communicated to their Product Manager.
+The ratio of issues to MRs is at the responsible engineer's discretion. MRs should follow the [MVC principle](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc).
+If it is evident in advance that an issue will require more than 2 MRs we should evaluate whether we can split the issue further to document the split of the work more clearly.
 
 ### Epics
 
@@ -385,14 +387,7 @@ Our group holds synchronous meetings to gain additional clarity and alignment on
 ### Knowledge sharing
 
 We like to share knowledge and learn! If your group would like someone from the Product Intelligence group to attend a sync call and provide a brief overview of our responsibilities and scope, please open an issue and apply the `~group::product intelligence` label ([example issue](https://gitlab.com/gitlab-org/product-intelligence/-/issues/547)). 
-
-In the same spirit, we want to learn more about the different teams at GitLab. We have an ambitious goal of hosting a guest speaker once monthly in our team meeting for a 15-30 minute session (whatever works for you). If you'd like to participate in sharing information with our team, please comment in our slack channel [#g_product_intelligence](https://gitlab.slack.com/archives/CL3A7GFPF)
-
-Here are some topics to help create your session material:
-
-1. Describe the team's mission/purpose. 
-2. What challenges does your team face?
-3. How do you measure success?
+In the same spirit, we want to learn more about the different teams at GitLab. If you'd like to participate in sharing information with our team, please comment in our slack channel [#g_product_intelligence](https://gitlab.slack.com/archives/CL3A7GFPF).
 
 #### Proposing a knowledge session
 
@@ -400,10 +395,14 @@ If you would like to propose a new knowledge session for a topic you want to lea
 
 #### Knowledge sharing sessions
 
-| Date | Topic | Speaker |
+| Date | Topic / Recording | Speaker |
 | --- | --- | --- |
 | 2022-08-16 | [Usage of Service Ping data](https://gitlab.com/gitlab-org/product-intelligence/-/issues/603) | Jay Stemmer |
+| 2023-01-10 | [Service Ping Analysis Engine & Service Ping usage in Customer Success](https://youtu.be/WNbdwUphXP8) | Martin Brümmer |
 
+## Development metrics
+
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Product Intelligence" } %>
 
 ## Error budget
 
@@ -413,41 +412,11 @@ To investigate budget spend, see the [overview](https://dashboards.gitlab.net/d/
 
 Note that the budget spend is calculated proportionally by requests failing apdex or failing with an error, and not by how much the target is exceeded. For example, if we had an endpoint with a set goal of 1s request duration, then bringing the request duration from 10s to 5s would not improve the budget.
 
-## Product Intelligence dbt development process
+## Out of office coverage process
 
-[Dbt](/handbook/business-technology/data-team/platform/dbt-guide/#what-and-why), short for data build tool, is an open source project for managing data transformations in a data warehouse.
-The data warehouse and dbt are managed by the [Data team](/handbook/business-technology/data-team/).
-In order to reduce cycle time, increase understanding, and enable the Product Intelligence team to fully own collected metrics, the Product Intelligence team should be empowered to develop and modify data models
-that represents Product Intelligence metrics.
+An OOO coverage process helps reduce the mental load of "remembering all the things" while preparing for being away from work. This process allows us to organize the tasks we need to complete before time off and make the team successful.
 
-### Requirements
-
-1. Access to the Snowflake data warehouse: follow the [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) process. For example: [confidential Snowflake access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/8026).
-1. Dedicated development database in Snowflake: create an issue in the [analytics project](https://gitlab.com/gitlab-data/analytics/-/issues) and `@` mention a person in a role of Senior Manager Data at Gitlab (`@dvanrooijen2` currently). For example: [database setup issue](https://gitlab.com/gitlab-data/analytics/-/issues/9216).
-
-### Set up
-
-Please follow the [configuration guide](/handbook/business-technology/data-team/platform/dbt-guide/#configuration) provided by Data team.
-If you've been granted access to the Snowflake data warehouse via Okta SSO, you will not be able to use Docker to set up dbt. Instead, follow the [venv workflow](/handbook/business-technology/data-team/platform/dbt-guide/#Venv-workflow). You will also need to alter `profiles.yml`.
-replacing `password: YOUR PASSWORD` with `authenticator: externalbrowser`.
-
-### Contributing to the analytics project
-
-When contributing to the [analytics](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt/models) repository, please follow the style and development [guides](/handbook/business-technology/data-team/platform/dbt-guide/#style-and-usage-guide).
-
-This [internal video](https://www.youtube.com/watch?v=xCx5ZLrBOQQ) contains a condensed introduction to dbt.
-
-A high level overview of the contribution process is as follows:
-
-1. Locate the correct subdirectory in the [models](https://gitlab.com/gitlab-data/analytics/-/tree/77654fbf1c8968f584c77c8895cc9ef11f741320/transform/snowflake-dbt/models) directory of the analytics project, for example: `models/legacy/snowplow/month_partition/base`.
-1. Create a file for the new model, for example: `snowplow_gitlab_events_standard_context.sql`.
-1. Add documentation and [test](https://docs.getdbt.com/docs/building-a-dbt-project/tests) entries into the `schema.yml` file within the model's parent folder (the one from step #1).
-1. Run your model with [`$ dbt run -m model_name`](https://docs.getdbt.com/reference/commands/run). It runs models and outputs SQL representation within the `target` directory at the location corresponding to the model location, for example: `target/compiled/gitlab_snowflake/models/legacy/snowplow/month_partition/base/snowplow_gitlab_events_standard_context.sql`.
-1. Copy SQL and run it in Snowflake (please use XS warehouse to minimize the cost) to check if it works.
-1. If the models should be included as a building piece of other models, alter the corresponding files (use [Lineage Graph](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.snowplow_gitlab_events?g_v=1&g_i=%2Bsnowplow_gitlab_events%2B) from dbt documentation to locate models that might need to be updated).
-1. Commit your changes and create a merge request.
-1. Trigger a production test by running a manual `➕🐭specify_model` job within the `⚙️ dbt Run` stage. You have to specify the models to test by providing proper selector with `DBT_MODELS` job environment variable.
-1. After all tests pass successfully, ask the Data Analyst responsible for product data models (currently `@mpeychet_`) for a review.
+Open a new issue in the [Product Intelligence project](https://gitlab.com/gitlab-org/product-intelligence/-/issues/new?issuable_template=out_of_office_coverage_template) with the [`out_of_office_coverage_template`](https://gitlab.com/gitlab-org/product-intelligence/-/blob/master/.gitlab/issue_templates/out_of_office_coverage_template.md).
 
 ## Onboarding
 
