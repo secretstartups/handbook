@@ -418,11 +418,11 @@ The above planning list is not exhaustive - see planning issue template in field
 
 Some events require technical staffing (Solutions Architects and/or others from the Customer Success team). To request technical staffing, do the following:
 
-- Add the label `technical-staff::required` to the issue - this will make it appear on the [Event Technical Staffing board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/1254947)
-- Add a note in the staffing section how many people you need and any particular criteria
-- Add one or more of the `technical-staff-type` labels to the issue to indicate which group(s) might be able to send staff. For example, if the event is on the west coast of the USA, consider adding `technical-staff-uswest` and `technical-staff-commercial`
-- CC the SA manager for the group(s) indicated
-- Once the staffing is solidified, change the label to technical-staff::complete so it no longer appears on the event staffing board(s)
+- Create a new SA request issue using [this template](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - this will make it appear on the [SA Requests - Global board](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/boards)
+- Follow the templates guidance including the link back to the marketing event issue
+
+([Detailed guidance](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#requesting-an-sa-to-support-events) is available in the SA handbook)
+
 
 ### COVID-19 Event Outreach
 
