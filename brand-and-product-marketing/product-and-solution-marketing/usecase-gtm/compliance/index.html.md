@@ -177,7 +177,7 @@ In addition, more security scanners are available, along with Vulnerability mana
 | --------------------------------------------------- | :-------: | :-------: | :------: | :---------------: | :------------------------- |
 | Compliant Pipelines |           |           |    X     |                   |                            |
 | Compliance Dashboard |           |           |    X     |                   |                            |
-| [License Compliance](https://docs.gitlab.com/ee/user/compliance/license_compliance/)                                                  |           |           |    X     | user_license_management_jobs  | |
+| [License Compliance](https://docs.gitlab.com/ee/user/compliance/license_scanning_of_cyclonedx_files/)                                                  |           |           |    X     | user_license_management_jobs  | |
 | [Merge Request Approval Flow / Rules](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/index.html)                 |           |     X     |    X     |   counts.merged_merge_requests_using_approval_rules            |                            |
 | Protected Environments                              |           |     X     |    X     |                   |                            |
 | [SAST (Static Application Security Testing)](https://docs.gitlab.com/ee/user/application_security/sast/)                              |     X     |     X     |    X     | user_sast_jobs                | |
