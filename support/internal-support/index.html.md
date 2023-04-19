@@ -140,7 +140,7 @@ All internal requests regarding licensing, subscriptions, trials, and grace peri
 [questions about licensing](https://about.gitlab.com/support/#have-questions-about-billing-purchasing-subscriptions-or-licenses),
 which is that "GitLab Support will respond within 8 hours on business days (24x5)".
 
-A list of common scenarios and the appropriate option are detailed in the following table.
+A list of common scenarios and the appropriate option are detailed in the following table. Some of the scenarios contain a useful walkthrough YouTube video. for example `Extend an (almost) expired subscription`and `Strict Cloud licensing exemption request` , please note that a GitLab unfiltered account is required to view the videos.
 
 > - **NOTE**: Support cannot start a new trial. If one is needed, *have the user initiate a normal trial first*.
 > - **NOTE**: Support requires a single license or subscription request per ticket. If a provided license does not work, or you require a further extension, then please submit a new ticket. All internal L&R tickets must have a 1 to 1 relationship with the generated license or subscription, for audit/reporting reasons.
@@ -159,12 +159,12 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Extend a SaaS trial | Use this when the customer's namespace is on a trial that is active/expired. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one. |
 | Change an existing SaaS trial plan | Use this when you want to make changes to the plan of a currently active trial, including adding compute credits or activation of trial runners and overriding the requirement for credit card validation on sales assisted trial namespace. The number of users for GitLab.com trials are not restricted. Please note we cannot create the trial for the customer. If they do not have one currently, you will be directed to have them create one.  |
 | **Self-Managed License Related (for paid customers only)** | |
-| Extend an (almost) expired subscription | Use this when the customer has a license and their grace period is (almost) expired. Please note we cannot extend the actual license. This instead makes a trial license for the customer and uses that for the extension. |
+| Extend an (almost) expired subscription | Use this when the customer has a license and their grace period is (almost) expired. Please note we cannot extend the actual license. This instead makes a trial license for the customer and uses that for the extension. The following video [How to extend an extension for an almost-expired subscription (self-managed)](https://www.youtube.com/watch?v=g8k8PAUY2pM) demonstrates how to correctly submit a `Extend an (almost) expired subscription` request.
 | Customer did not receive the license | Use this when the customer has not received a paid license from us when they should have. Please note we can resend a license to the contact in the license only.<br> Please [check for Proof of Delivery](#obtaining-proof-of-delivery-for-a-subscription) prior to filing this request|
 | Customer needs the license resent to a new person | Use this to request sending a license to a different user. Please note we cannot send licenses to anyone other than the account owner. To send it to someone else, please ask the customer to file a ticket so we can go through the contact change process. An exemption can be made for a temporary license. |
 | Multi-year license needs to be generated | Use this to request the next year's license for a multi-year subscription to be created. **Make sure to check with the customer if they exceeded their seat usage before opening this request.** Support cannot waive true-ups or change anything in SFDC. We cannot create a license until you have checked and amended their subscription as needed.
 | Self-managed NFR license request | Use this for Self-Managed NFR license generation |
-| Cloud Licensing exemption | Use this for SCL exemptions |
+| Cloud Licensing exemption | Use this for SCL exemptions. The following video [How to submit a Cloud License Exemption Internal Request form](https://www.youtube.com/watch?v=pvj59EhATIw) demonstrates how to correctly submit a `Strict Cloud licensing exemption request`.
 | **Self-Managed Trial Related** | |
 | Problems starting a new Self-managed trial | Use this when the customer has no recent trial or subscription, and is not able to request the trial themselves online. |
 | Modify an existing Self-managed trial | Use this when you want to make changes to the number of users and/or the plan of a currently active trial |
