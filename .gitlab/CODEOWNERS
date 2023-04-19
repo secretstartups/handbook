@@ -1,10 +1,13 @@
 # Broadest Entries go to the bottom of a section. e.g. /content-sites/handbook/content-sites needs
 # to come before /content/handbook
 
-^[Comms]
+^[content-sites]
+* @marshall007 @jamiemaynard
+
+[comms]
 /content/news/ @sliang2
 
-^[Engineering]
+[engineering]
 /content/handbook/engineering/horse/pubsec/ @sdumesnil @pmartinsgl @craig
 /content/handbook/engineering/horse/ @marin
 /content/handbook/engineering/infrastructure @sloyd @marin
@@ -12,12 +15,18 @@
 /content/handbook/engineering/security/infrastructure_security/ @joe-dub @mlancini @pmartinsgl
 /content/handbook/engineering/security/ @Julia.Lake @rschulman
 /content/handbook/engineering/ @akramer
+/content/job-families/engineering/ @joergheilig
+/content/job-families/engineering/incubation/ @bmarnane
 
-^[Finance]
+[finance]
+/content/job-families/finance/ @brobins
 /content/handbook/finance/documents/ @james.shen @watson.lin
 /content/handbook/finance/ @brobins
 
-^[Product]
+[product]
+/content/job-families/product/ @joshlambert @vkarnes
+/content/job-families/product/technical-writer/ @clenneville @susantacker @dianalogan @kpaizee @david
+/content/job-families/product/technical-writing-manager/ @clenneville @susantacker @dianalogan @kpaizee @david
 /content/handbook/direction/ @david @fseifoddini @brhea
 /content/handbook/product/ @david @fseifoddini @brhea
 /content/handbook/product/efficiency/ @joshlambert
@@ -39,52 +48,62 @@
 /content/handbook/product/fulfillment/auto-renewal/ @tgolubeva
 /content/handbook/company/performance-indicators/product/fulfillment-section/ @ofernandez2 @tgolubeva @courtmeddaugh @alex_martin @doniquesmit
 
-^[Legal]
+[legal]
+/content/job-families/legal-and-corporate-affairs/ @robin
 /content/handbook/legal-and-compliance/ @rschulman
 
-^[Sales]
+[sales]
 /content/handbook/sales/ @dhong
+/content/job-families/sales/ @dhong @jbrennan1 @jakebielecki @james_harrison @jdbeaumont @cfarris
 /content/handbook/company/performance-indicators/sales.md @dhong
 /data/performance_indicators/sales.yml @dhong
 
-^[Marketing]
+^[Security]
+/content/handbook/security/ @robin @jlongo_gitlab
+/content/job-families/security/ @robin @jlongo_gitlab
+
+[marketing]
 /content/handbook/marketing/marketing-strategy-and-platform/ @RLeihe268
 /content/handbook/marketing/marketing-strategy-and-platform/growth/ @s_awezec
 /content/handbook/marketing/marketing-strategy-and-platform/marketing-operations/ @christinelee
 /content/handbook/marketing/ @akramer
+/content/job-families/marketing/ @akramer
 
-^[TotalRewards]
+[total-rewards]
 /content/handbook/total-rewards/ @brittanyr @mwilkins
 
-^[Alliances]
+[alliances]
 /content/handbook/alliances/ @nbadiey
+/content/job-families/alliances/ @nbadiey
 
-^[Support]
+[support]
 /content/handbook/support/ @lyle @tcooney
 
-^[customer-success]
+[customer-success]
 /content/handbook/customer-success @spatching @christiaanconover @mrleutz
 
-^[job-families]
-/content/job-families/board-of-directors/board_member/ @sytses @robin
-/content/job-families/engineering/incubation/ @bmarnane
+[people]
+/content/job-families/people-group/ @sytses @streas @wendybarnes
 /content/job-families/people-group/recruiting-operations-insights/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/recruiter/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/recruiting-sourcer/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/candidate-experience/ @sytses @streas @wendybarnes @rallen3
-/content/job-families/product/ @vkarnes @joshlambert
-/content/job-families/product/technical-writer/ @clenneville @susantacker @dianalogan @kpaizee @david
-/content/job-families/product/technical-writing-manager/ @clenneville @susantacker @dianalogan @kpaizee @david
+
+^[job-families]
 /content/job-families/ @sytses @streas
 
-^[CEO]
-/content/handbook/ @sytses @streas
+[chief-information-security-officer]
+/content/job-families/chief-information-security-officer/ @robin @fofungwu
 
-^[Content Sites]
-* @marshall007 @jamiemaynard
+[ceo]
+/content/handbook/ @sytses @streas
+/content/job-families/chief-executive-officer @sytses @streas
+/content/job-families/board-of-directors/board_member/ @sytses @robin
+
+[docs]
 /content/docs/ @marshall007 @jamiemaynard
 
-[CODEOWNERS]
+[codeowners]
 .gitlab/CODEOWNERS @marshall007 @jamiemaynard
 
 
