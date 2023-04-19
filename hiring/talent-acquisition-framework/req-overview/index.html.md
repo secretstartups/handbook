@@ -22,7 +22,6 @@ The communicated Talent Acquisition Process Framework specifically focuses on ap
 * **[Hiring Manager](/handbook/hiring/talent-acquisition-framework/hiring-manager/):** The Hiring Manager is the individual who is hiring for the particular REQ. In most situations, the person hired into this REQ will report into this individual.
 * **Hiring Team:** The Hiring Team is a group of people the Hiring Manager asks to be involved in the interview process. The Hiring Team will assess candidates for a given req based on what is defined in the [REQ Kick-off Issue](https://gitlab.com//gl-talent-acquisition/req-intake/-/issues) and the [Hiring Repo](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master).
 * **Recruiter:** The Recruiter is the main point of contact for the Hiring Manager, Hiring Team, and all candidates associated with the REQ. The Recruiter will directly source for prospects as well as partner with their Sourcer and Candidate Experience Specialist throught the process. For more information on what role a Recruiter may play, please visit the [Recruiter Job Family](https://handbook.gitlab.com/job-families/people-group/recruiter/).
-* **Sourcer:** The Sourcer is partnered with the Recruiter to provide expertise around finding passive talent. For more information on what role a Sourcer may play, please visit the [Sourcer Job Family](https://handbook.gitlab.com/job-families/people-group/recruiting-sourcer/).
 * **[Candidate Experience Specialist (CES)](/handbook/hiring/talent-acquisition-framework/coordinator/):** The CES partners with the Recruiter and Sourcer on all scheduling, background check, references and offer needs. For more information on what role a CES may play, please visit the [CES Job Family](https://handbook.gitlab.com/job-families/people-group/candidate-experience/).
 
 ### **Step 1: Identify hiring need**
@@ -32,29 +31,25 @@ The Hiring Manager will determine the need for an opening and ensure it is an ap
 The Recruiter will create the opening in Greenhouse following the [req creation](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse) guidelines. The assigned Recruiter, CES, and Sourcer should receive an email notification from Greenhouse when the req is approved.
 
 ### **Step 3: Complete kick-off session, agree on priority level, & complete a sourcing session**
-The **kick-off session** provides an opportunity to gain alignment on the requirements, hiring process and, perhaps most importantly, the expectations and responsibilities of the Recruiter, Sourcer, CES, Hiring Team, and Hiring Manager. Recruiters and Sourcers should come prepared for the kick-off session with insights - such as the size and geographic distribution of the talent pool - and should act as a talent advisor. Such information can be pulled from *LinkedIn Talent Insights*. To request this report, please submit an Issue [here](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issuable_template=LinkedIn%20Talent%20Insights%20Request.md#) using the `LinkedIn Talent Insights Request` template.
+The **kick-off session** provides an opportunity to gain alignment on the requirements, hiring process and, perhaps most importantly, the expectations and responsibilities of the Recruiter, Sourcer, CES, Hiring Team, and Hiring Manager. Recruiters should come prepared for the kick-off session with insights - such as the size and geographic distribution of the talent pool - and should act as a talent advisor. Such information can be pulled from *LinkedIn Talent Insights*. To request this report, please submit an Issue [here](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issuable_template=LinkedIn%20Talent%20Insights%20Request.md#) using the `LinkedIn Talent Insights Request` template.
 
-The Recruiter will schedule the kick-off session and must open a [**REQ Kick-off Issue**](https://gitlab.com/gl-talent-acquisition/req-intake/issues/new) ahead of the kick-off session so the Recruiter, Sourcer, and Hiring Manager can contribute to it ahead of time. A link to the [**REQ Kick-off Issue**](https://gitlab.com/gl-talent-acquisition/req-intake/issues/new) should be included in the invite.  The Recruiter should include the Hiring Manager, Sourcer, and CES team on the kick-off session invite.  Everyone involved in hiring for the REQ should be tagged into the issue so everyone understands the requirments, process, and individual accountabilities.
+The Recruiter will schedule the kick-off session and must open a [**REQ Kick-off Issue**](https://gitlab.com/gl-talent-acquisition/req-intake/issues/new) ahead of the kick-off session so the Recruiter and Hiring Manager can contribute to it ahead of time. A link to the [**REQ Kick-off Issue**](https://gitlab.com/gl-talent-acquisition/req-intake/issues/new) should be included in the invite.  The Recruiter should include the Hiring Manager, Internal Recruiter, and CES team on the kick-off session invite.  Everyone involved in hiring for the REQ should be tagged into the issue so everyone understands the requirments, process, and individual accountabilities. To ensure that Recruiting haas complete details regarding role, skillset, and interview panel, Hiring Managers must complete the Kick-Off Issue within 5 business days of a job being approved in Greenhouse and posted to the [GitLab jobs page](https://about.gitlab.com/jobs/all-jobs/).  
 
-During the kick-off session all participants should agree on the **Sourcing Priority** (P0, P1, P2). Every role should receive sourcing support based on the [Talent Acquisition Alingmnent](/handbook/hiring/recruiting-alignment/).
+Recruiters may schedule a **Sourcing Session** after the kick-off session to help support identifying passive talent.
 
-The Sourcer will schedule a **Sourcing Session** after the kick-off session to make sure we consider outbound talent for every opening at GitLab.
-
-*  The Sourcer and Recruiter will discuss with Hiring Manager who should participate in the Sourcing session.
+*  The Recruiter will discuss with Hiring Manager who should participate in the Sourcing session.
 *  The Sourcing Session is focused on finding outbound candidates outside of our Talent Community.
-*  Our recommendation is to have at least Hiring Manager and Interviewers participating in a Sourcing Session but if the team is too busy and can’t contribute to the sourcing effort, a Sourcing Session should be handled only by Sourcer or by Sourcer and Recruiter with the majority of prospects expected from Sourcer.)
+*  Our recommendation is to have at least the Hiring Manager and Interviewers participate in a Sourcing Session.
 *  The Sourcing Session should be scheduled within 5 business days after the kick-off call. (For the “evergreen” and “volume” roles we recommend having regular Sourcing Sessions every month.)
 *  All Sourcing sessions that include team members outside of the Talent Acquisition team should be set up for 30 minutes by default and could be done
 live or in an async way.
-*  We don’t require a specific number of profiles to be added by every participant, however, Sourcer should come up with at least 20 qualified profiles for the role.
-*  Sourcer will reach out to all the candidates that are added during the Sourcing Session within 2 business days and add their profiles to Greenhouse.
-*  Sourcer assigned to the role is responsible for all the further updates and status changes in Greenhouse.
+*  We don’t require a specific number of profiles to be added by every participant, however, the Recruiter should aim to identify 20 qualified profiles for the role.
 
-### **Step 4: Indentify & Engage Top Talent (Prospects)**
+### **Step 4: Identify & Engage Top Talent (Prospects)**
 
 **4.1 - Source prospects**
 
-The Recuiter, Sourcer, and Hiring Manager will partner in finding top talent using different sourcing avenues to find candidates, with LinkedIn and GitLab Talent Community being the most used and efficient ones. *(It is possible that other Recruiters, Sourcers, and/or members of the CES Team will provide additonal [sourcing support](/handbook/hiring/talent-acquisition-framework/#sourcing-support)*.
+The Recuiter and Hiring Manager will partner in finding top talent using different sourcing avenues to find candidates, with LinkedIn and GitLab Talent Community being the most used and efficient ones. *(It is possible that other Recruiters, and/or members of the CES Team will provide additonal [sourcing support](/handbook/hiring/talent-acquisition-framework/#sourcing-support)*.
 
 **4.2 - Add prospects to Greenhouse**
 
