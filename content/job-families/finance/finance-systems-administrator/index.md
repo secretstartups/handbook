@@ -58,7 +58,7 @@ The Finance Systems Administrator shares the same requirements outlined above.
 
 ### Senior Finance Systems Administrator
 
-The Senior Financial Systems Administrator reports directly to the [Manager, Financial Systems Administrators](#manager-finance-systems-administrator).
+The Senior Finance Systems Administrator reports directly to the [Manager, Financial Systems Administrator](#manager-finance-systems-administrator).
 
 #### Senior Finance Systems Administrator Job Grade
 
@@ -66,7 +66,7 @@ The Senior Finance Systems Administrator is a [grade 7](https://about.gitlab.com
 
 #### Senior Finance Systems Administrator Responsibilities
 
-Extends the Financial Systems Administrators  responsibilities:
+Extends the Finance Systems Administrators responsibilities:
 
 - Business Partnership: Influences cross-functional team regularly. Begins to build and manage holistic relationships with select partners
 - Business Operations: Build, maintain and improve internal analysis and planning processes to more efficiently deliver for our business partners. All processes should be documented in the handbook.
@@ -76,14 +76,42 @@ Extends the Financial Systems Administrators  responsibilities:
 
 #### Senior Finance Systems Administrator Requirements
 
-Extends the Financial Systems Administrators requirements.
+Extends the Finance Systems Administrators requirements.
 - Business Acumen: Be able to understand the business at a level to understand VP priorities.
 - Experience owning processes and delivering for one or multiple business partners.
 - 3-5 years of experience in a system administration role ideally with enterprise SaaS software model.
 
+### Staff Finance Systems Administrator
+
+The Staff Finance Systems Administrator reports directly to the [Manager, Financial Systems Administrator](#manager-finance-systems-administrator).
+
+#### Staff Finance Systems Administrator Job Grade
+
+The Staff Finance Systems Administrator is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Staff Finance Systems Administrator Responsibilities
+
+Extends the Senior Finance Systems Administrators responsibilities:
+
+- Business Partnership: Influences leadership within the cross-functional team and assists in roadmap planning. Solid relationships with key stakeholders at the VP level.
+- Business Operations: Analyze and plan improvements in technical implementations to continue to deliver value to business partners. Drive the business to adopt recommended technical solutions. Document related processes and technical configurations in the handbook.
+- Technical Delivery: Drive end to end delivery on large, complex, cross-functional projects across multiple systems or integrations with minimal oversight. Proactively provides recommendations for system improvements.
+- Project Management: Run the technical implementation of large-sized projects which improve our ability to make better data driven insights, or make the company more efficient. Drive intake and prioritization process for functional areas of expertise.
+- Communication: Target audience Director, Sr. Director, VP, with presentations targeted to CFO staff for critical projects.
+- Mentorship: Mentors junior team members and models GitLab values for the team.
+
+#### Staff Finance Systems Administrator Requirements
+
+Extends the Senior Finance Systems Administrators requirements.
+
+- Business Acumen: Be able to understand and influence the business at the VP level by identifying technical solutions to business problems and utilizing data to influence business outcomes.
+- Expert in at least one core finance business process of quote to cash, record to report, and procure to pay.
+- Experience owning cross-functional processes and critical business systems for multiple stakeholders.
+- 5 - 7  years of experience in a system administration role ideally with enterprise SaaS software model.
+
 ### Manager, Finance Systems Administrator
 
-The Manager, Finance Systems Administrator reports to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/)
+The Manager, Finance Systems Administrator reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
 
 #### Manager, Finance Systems Administrator Job Grade
 
@@ -113,7 +141,7 @@ The Manager, Finance Systems Administrator is a [grade 8](https://about.gitlab.c
 
 ## Career Ladder
 
-The next step in the Manager, Finance Systems Administrator job family is to move to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/) job family.
+The next step in the Manager, Finance Systems Administrator job family is to move to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/) job family.
 
 ## Hiring Process
 
