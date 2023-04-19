@@ -58,7 +58,7 @@ We've divided our stage into dedicated experience groups to align with a similar
 
 | Group                  | Category                                            | DRI Designer(s)                   |
 | ---------------------- | --------------------------------------------------- | --------------------------------- |
-| Composition Analysis   | Dependency Scanning, License Compliance             | Secure & Govern UX Team (shared)  |
+| Composition Analysis   | Software Composition Analysis, Container Scanning             | Secure & Govern UX Team (shared)  |
 | Dynamic Analysis       | DAST, Fuzz Testing                                  | Michael Fangman                   |
 | Static Analysis        | SAST, Secret Detection, Code Quality                | Michael Fangman                   |
 
