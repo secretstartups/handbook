@@ -192,7 +192,7 @@ Team Members may also be eligible for Ireland's [Illness Benefit](https://www.ci
  
 #### Parental Leave
 * Team members who have been employed for at least one year are entitled to up to 26 weeks of unpaid parental leave to care for a child under the age of 12 (or the age of 16 for a child with a disability). If you have been employed for at least 3 months, and your child is near the age threshold, you are entitled to pro-rata parental leave.
-* This leave may be taken in one continuous period or in two separate periods (with at least 10 weeks between each period), or broken into days/hours if agreed upon with your manager.
+* This leave may be taken in one continuous period or in two separate periods (with at least 10 weeks between each period), or broken into days/half days if agreed upon with your manager.
 * Team members with more than one child may only take a maximum of 26 weeks parental leave in a 12 month period, except in the case of multiple births (e.g. twins). 
 * Periods of parental leave taken during any previous employment will be taken into account in calculating the entitlement to parental leave. 
 * Team members must give written notice to the Absence Management team at `leaves@gitlab.com` at least six weeks before taking leave.
