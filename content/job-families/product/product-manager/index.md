@@ -466,15 +466,15 @@ We're looking for a product manager to work closely with our Delivery and Scalab
 
 ### Search
 
-We're looking for a product manager to make finding anything in the one DevOps Platform easy and delightful in GitLab. Your goals are to improve the overall search experience within GitLab, including defining the future of code search within GitLab. You'll ensure the solution can scale from small self-managed instances to GitLab.com.
+We're looking for a product manager to make finding anything in the one DevOps Platform easy and delightful. Your goals are to improve the overall search experience within GitLab, across all of the content within our single application. You'll ensure the solution can scale from small self-managed instances to large deployments like GitLab.com. An ideal candidate has a proven track record of delivering great search experiences at scale, and is familiar with the rapidly changing landscape of recommendation and search systems.
 
 #### Requirements
 
 - Strong understanding of search engines, algorithms, and workflows
-- Excellent communication skills and the ability to translate complex requirements into actionable iterations
-- Familiarity with Search workflows, and helping users find what they are looking for
+- Excellent communication skills and the ability to translate complex requirements into actionable iterationsn
+- An ability to define and analyze key metrics to inform product direction
 - Experience with code search is a plus
-- Direct Elasticsearch experience is a plus
+- Experience with utilizing machine learning to improve the search experience is a plus
 
 ### Geo
 
