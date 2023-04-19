@@ -23,3 +23,5 @@
 {{- printf "%s %s\n" $r $permalink -}}
 {{- end -}}
 {{- end -}}
+
+/teamops/ https://about.gitlab.com/teamops/

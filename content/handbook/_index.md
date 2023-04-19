@@ -1,5 +1,6 @@
 ---
 title: The Handbook
+no_list: true
 menu:
   main:
     name: Handbook

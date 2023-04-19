@@ -1,0 +1,143 @@
+---
+title: "Decision Velocity"
+summary: Achieving faster, better results depends on decision-making velocity – a team’s ability to increase the quality and quantity of decisions made in a particular stretch of time through behavioral and logistical agreements.
+canonical_path: "/teamops/decision-velocity/"
+twitter_image: "/images/opengraph/all-remote.jpg"
+twitter_image_alt: "GitLab remote team graphic"
+twitter_site: "@gitlab"
+twitter_creator: "@gitlab"
+---
+
+![GitLab TeamOps contribution illustration](/teamops/images/teamops-illustration_contribution_purple.png)
+
+{{% alert color="primary" %}}
+This page is about one of the four Guiding Principles of TeamOps: Decision Velocity. To learn more about the other three Principles, return to the main TeamOps page for a [complete overview of TeamOps](https://about.gitlab.com/teamops/), or enroll in the free [TeamOps course](https://levelup.gitlab.com/learn/course/teamops).
+{{% /alert %}}
+
+_Achieving faster, better results depends on decision-making velocity – a team’s ability to increase the quality and quantity of decisions made in a particular stretch of time through behavioral and logistical agreements._
+
+Decisions are the fuel for high-performance teams, and represent a key success metric in the future of work. The more decisions are made, the more results can come from them. Conventional management philosophies often strive for consensus to avoid risk instead of developing a bias for action, which can result in delays, confusion, or unnecessary conflict.
+
+In TeamOps, success is correlated with the group’s decision velocity, which is evidenced by the average duration of a collaboration process; and quality, value, or accuracy of the changes made from a decision.
+
+Action tenets of maximizing decision velocity, including real-world examples of each, are below.
+
+## Bias for action
+
+A [bias for action](https://about.gitlab.com/handbook/values/#bias-for-action) accelerates ideation, collaboration, and execution better than alignment and consensus. This bias stems from the [agency](/teamops/everyone-contributes/#give-agency) and [ownership](/teamops/decision-velocity/#push-decisions-to-the-lowest-possible-level) with which every individual is empowered in an organization practicing TeamOps. People can then use that autonomy to optimize their own proactivity, self-efficacy, and creativity. A team member operating in a conventional organizational context might feel compelled to ask "Should I?" A team member operating via TeamOps  can instead think "I will."
+
+When facing decisions that may involve imperfect information or failures, having a bias for action ensures a more rapid pace of execution. This may require a greater organizational tolerance for mistakes and an appreciation for [two-way door decisions](https://about.gitlab.com/handbook/values/#make-two-way-door-decisions), which teams should discuss as part of their [shared reality](/teamops/shared-reality/#shared-reality) and their [collaboration guidelines](/teamops/decision-velocity/#collaboration-codification).
+
+{{% details summary="Example of collaboration codification" %}}
+**Example 1:** [Setting Internal Communication Guidelines for Standardized Tool Use](https://about.gitlab.com/handbook/communication/)
+
+To minimize miscommunications that can stem from cultural diversity, contextual interpretations, or various levels of software experience, GitLab maintains a handbook page about [internal communication guidelines](https://about.gitlab.com/handbook/communication/). These rules, instructions, and demonstrations ensure that our internationally distributed workforce is using the same tools in the same way, and handing off results to one another without the risk of important information getting “lost in translation.”
+{{% /details %}}
+
+## Boring solutions
+
+Solving problems by seeking out the most cutting-edge, complex, or interesting solutions can be tempting. TeamOps, however, encourages selecting ["boring" or simple solutions](https://about.gitlab.com/handbook/values/#boring-solutions) to problems and challenges. For instance, consider one boring solution you may often see: researching what other successful organizations are doing and adopting their methods, rather than reinventing a process.
+
+Also take into account the situational need: a simple solution in one situation may be complex in another.
+
+Taking every opportunity to reduce complexity in an organization increases the speed and frequency at which that organization can innnovate. Embracing boring solutions and shipping the [minimum viable change (MVC)](https://about.gitlab.com/handbook/values/#move-fast-by-shipping-the-minimal-viable-change) also means [accepting mistakes](https://about.gitlab.com/handbook/values/#accept-mistakes) if that solution doesn't work, then moving on to the next [iteration](https://about.gitlab.com/handbook/values/#iteration). Because changes are small, mistakes are far less costly. This encourages more decision-making in a shorter span of time.
+
+{{% details summary="Example of boring solutions" %}}
+**Example 1:** [Solving a GitLab attribution problem by improving git commit message](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/3)
+
+Nick V., a director at GitLab, [proposed a boring solution](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/3) to use existing functionality in new ways. By modifying a few lines in an automated message, he was able to solve an organization-wide problem with attribution.
+
+In a TeamOps organization, boring solutions are celebrated _because of_ their simplicity. There is always a possibility to add more polish or functionality, if it's needed in the future. The initial boring solution enables more decisions to be made, more quickly.
+{{% /details %}}
+
+## Disagree, commit, and disagree
+
+TeamOps treats decisions as [two-way doors](https://about.gitlab.com/handbook/values/#make-two-way-door-decisions), meaning they're easy to reverse. That's why a [DRI](/teamops/everyone-contributes/#directly-responsible-individual-dri) should go ahead and make a decision without universal approval or consensus. Only decisions that can't be reversed or broken down into smaller, reversible components should require more thorough discussion.
+
+"Disagree and commit” has become a commonly used phrase in some professional settings as a strategy to help prevent the [consensus trap](/teamops/decision-velocity/#collaboration-is-not-consensus), which stalls decision velocity. It refers to a team’s ability to have disagreements while a decision is being made, but then committing to the change after a final conclusion has been confirmed.
+
+A "disagree and commit" mentality certainly encourages execution, but it tends to limit contributions to _future_ iterations. That's why TeamOps adds [a second "disagree" to the maxim](https://about.gitlab.com/handbook/values/#disagree-commit-and-disagree). Explicitly stating that team members are expected to execute (commit) while a decision stands—but are welcome to disagree about future iterations—invites everyone to constructively surface dissent and potential proposals for change. This mentality removes the time constraint of contributing ideas or feedback, and enables changes to be made without slowing down the pace of execution. This is made possible by the value of [iteration](/teamops/measurement-clarity/#iteration), which means that the team is only agreeing to one commitment at a time, so new contributions can easily be considered for the next iterative result.
+
+Increasing the flexibility of contributions and decision making requires reframing a conventional management mindset. Reverting work back to a previous state is a positive thing, because you're getting feedback more quickly and learning from it. Making a small change quickly prevents bigger (and slower) reverts and revisions in the future.
+
+{{% details summary="Example of disagree, commit, and disagree" %}}
+**Example 1:** [Require seniors to become maintainers](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/106942)
+
+A GitLab merge request details a policy change to "[increase maintainers by requiring senior engineers to become a maintainer in at least one project/area](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/106942)". 57 team members participated in the discussion within the merge request itself, and the DRI for the change confirms in the description that "in a recent survey, 11% of respondents did not want to become a maintainer, and 35% disagreed that it should be a senior+ responsibility." Despite the disagreement, the iteration was merged and thus, a decision was made. Thanks to the operating principle "Disagree, commit, and disagree," anyone is welcome to disagree with the change and influence the next iteration through constructive conversation with the DRI.
+{{% /details %}}
+
+## Stable counterparts
+
+Teams can typically maintain decision velocity internally, but that velocity often slows when the team needs to circulate information _outside_ itself. To maintain velocity as decisions cross teams, it's essential that various contributors throughout the organization can be looped into a decision for review, collaboration, and feedback with minimal impact.
+
+To address the challenge cross-funtional execution at high velocity, TeamOps advocates a [stable counterparts model](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/). It works like this: every functional team (e.g., Support) works with the same team members from a different functional team (e.g., Development), so each member of one function always knows who their partner in another function will be. Stable counterparts enable greater trust and familiarity across the organization, which in turn [speed up decision making](/teamops/everyone-contributes/), facilitate [stronger communication flows](/teamops/shared-reality/), and reduce the risk of conflicts.
+
+Stable counterparts enhance cross-functional execution without the downsides of a [matrix organization](https://about.gitlab.com/handbook/leadership/#no-matrix-organization). Just as a project or decision should only have one [Directly Responsible Individual (DRI)](/teamops/everyone-contributes/#directly-responsible-individual-dri), an individual should only have one manager. Conventional management philosophies may focus on minimizing the shortcomings of matrix organizations (or, "dotted line" reporting structures) but often refuse to eliminate them. TeamOps asserts that a [no-matrix organization](https://about.gitlab.com/handbook/leadership/#no-matrix-organization) is not only feasible but essential to making and executing on decisions quickly. Ensuring every individual reports to exactly one other individual streamlines feedback and approval processes.
+
+{{% details summary="Example of stable counterparts" %}}
+**Example 1:** [Support stable counterparts](https://about.gitlab.com/handbook/support/support-stable-counterparts.html)
+
+Support team members are [assigned as a permanent contact](https://about.gitlab.com/handbook/support/support-stable-counterparts.html) to a group – ideally one for which they are subject matter experts based on experience. This allows them to build long-term relationships with the team members of that group, which is the foundational benefit of having stable counterparts. Repeated interactions help us understand personal workflows and communication styles, so we know how to most effectively execute decisions with our counterparts. Furthermore, getting a frequent view into another part of the bigger team can give you insight into the shared reality possibly drifting apart and allows you to counteract.
+{{% /details %}}
+
+## Collaboration is not consensus
+
+TeamOps unlocks your organization's potential for making many decisions quickly by challenging the notion that consensus is productive. Organizations should strive to have smaller teams iterating rapidly and transparently (allowing everyone to contribute) rather than larger teams producing things slowly as they work toward consensus.
+
+Leaders and managers must moderate the desire to be involved in every decision. [Permissionless innovation](https://about.gitlab.com/handbook/values/#collaboration-is-not-consensus) increases a team's [bias for action](/teamops/decision-velocity/#bias-for-action) and the number of decisions being made. If you choose the right [directly responsible individual (DRI)](/teamops/everyone-contributes/#directly-responsible-individual-dri) and empower them to work transparently, you should not expect them to wait for a brainstorming meeting or group sign-off.
+
+Because all feedback should be documented transparently, a DRI can review all of it—but they're not required to _respond_ to everything. This can be challenging for teams and managers, especially when certain contributions or ideas don't receive an explicit reply. However, this experience is far superior to that of decisions being made in private, with limited visibility and fewer opportunities for healthy discussion.
+
+{{% details summary="Example of collaboration is not consensus" %}}
+**Example 1:** [Implementing a replacement program for GitLab Contribute in FY23](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107700)
+
+GitLab cancelled its FY23 Contribute event due to COVID risk posed to team members from a large, global event. Many decisions were necessary in order to implement a replacement initiative. This principle enabled the DRI (Directly Responsible Individual) to ingest a lot of thoughtful feedback in a [Manager Mention Merge Request for a FY23-Q3 Visiting Grant Program](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107700). Although not every comment was replied to, everyone at the company was able to contribute feedback. Ultimately, the feedback was addressed and decisions were made in a 25-minute sync session, enabling GitLab team members to start planning their FY23-Q3 travel plans.
+{{% /details %}}
+
+## Asynchronous Innovation
+
+Innovation never happens in a vaccuum. Achieving forward momentum is easier when teams can build on knowledge and materials that came before them. Making decisions is easier when people can review and debate recorded precedents. Building prototypes is easier when everyone has access to the team's history of failed ideas. Working with an outline is easier than starting with a completely blank page. Creativity benefits from architecture.
+
+TeamOps recognizes the productivity of constraints and treats structure as a strategic resource, helping teams appreciate the ways adhering to boundaries can actually accelerate their thinking. It views innovation as an iterative process of incremental improvement—of resisting the urge to "start over" every time and instead begin work by searching for tried-and-true organizational resources that have worked in the past. It encourages adhearance to [collaboration guidelines](/teamops/shared-reality#collaboration-guidelines) and [well-managed meetings](/teamops/everyone-contributes/#well-managed-meetings) because acting through an agreed-upon structure actually accelerates work rather than stifling it.
+
+Moreover, TeamOps resists depicting innovation as a linear process: idea, discussion, implementation, execution. It treats innovation as discontinuous—full of course-corrections and reversals. [Two-way door decisions](https://about.gitlab.com/handbook/values#make-two-way-door-decisions), [short toes](/handbook/teamops/everyone-contributes#short-toes), and the tendency to [disagree, commit, and disagree](/teamops/decision-velocity#disagree-commit-and-disagree) help ensure that everyone keeps moving forward despite productive setbacks.
+
+{{% details summary="Example of fostering discontinuous innovation" %}}
+**Example 1:** [Creating the one DevOps Plattform by fostering discontinuous innovation](https://www.youtube.com/watch?v=4BIsON95fl8&t=2034s)
+
+In 2016 [Kamil Trzciński](https://about.gitlab.com/handbook/engineering/readmes/kamil-trzcinski/) approached [Dimitri Zaporozhets](https://dzaporozhets.gitlab.io/) with the idea to fuse GitLab SCM and CI into one DevOps Tool and was many times rejected. The tools should stay lean and simple and a fusion would build a complicated Monolith. While commiting to this decision and to the code of both tools, Kamil ideated a common tool with all the synergies which we today know and enjoy so much in our Plattform. [Listen to the story told by himself](https://youtu.be/CiJOTlU3wWs?t=222).
+{{% /details %}}
+
+## Strong opinions, weakly held
+
+To maintain efficiency, leaders and DRIs ([Directly Responsible Individuals](/teamops/everyone-contributes/#directly-responsible-individual-dri)) need to be especially decisive in certain situations. But quick, authoritative messaging can easily seem like micromanagement that stifles [collaborative contribution](/teamops/everyone-contributes/). Without an explicit acknowledgement, it's difficult to differentiate a definitive assertion from a [strong opinion, weakly held](https://blog.codinghorror.com/strong-opinions-weakly-held/). The latter remain open for feedback or adjustment; the former typically aren't.
+
+To increase clarity and accelerate a team's ability to make decisions quickly, leaders should explicitly explain when they are voicing an opinion instead of a decision. This creates an open invitation for debate and minimizes the impact of authority bias. It also helps others move forward appropriately. When leaders voice an _opinion_, they leave space for near-term debate and contributions that shape future iterations. When leaders voice a _decision_, they signal that team commitment is required even as they [welcome future iterations](/teamops/everyone-contributes/#disagree-commit-and-disagree).
+
+Determining when to provide an _opinion_ instead of a _decision_ may require the use of a key phrase: "It depends." Adopting a [situational leadership strategy](https://about.gitlab.com/blog/2021/11/19/situational-leadership-strategy/) brings an added layer of emotional intelligence to the way leaders manage each individual, project, and decision. TeamOps requires leaders to adapt the way they communicate, provide guidance, and delegate work based on a list of weighted factors and considerations. This strategy enables more informed decisions, streamlined communication per group dynamic, prevents a reliance on status quo, and presents new growth opportunities for team members.
+
+When choosing the right collaboration tactics, it is important that all leaders (including [managers of one](/teamops/everyone-contributes/#give-agency)) continue to honour the values of the TeamOps organization and avoid contradictory behaviours. To do this, it is necessary to consider other principles and tenets to avoid deviating from the shared reality and established cultural norms while trying to address a particular situation.
+
+{{% details summary="Example of Strong opinions, weakly held" %}}
+**Example:** [When to let others lead, and when to lead directly](https://youtu.be/Q5HPHZKecrQ?t=854)
+
+[Situational leadership](https://about.gitlab.com/blog/2021/11/19/situational-leadership-strategy/) is exemplified when a leader adjusts behavior from scenario to scenario, rather than carrying emotions or biases from one scenario directly into the one they encounter next. In [this recorded meeting](https://youtu.be/Q5HPHZKecrQ?t=854), GitLab's CEO Sid shares two examples: in the first, he handed off a proposal and gave the team freedom to improve it. In the second, he pivoted to risk-reduction mode and required that every minor update go through his personal approval.
+
+In both cases, the leadership fits the scenario. In both cases, Sid began as "it depends," and adjusted his approach as the variables were revealed.
+
+A third example is the meeting taking place in this video itself: working on an early iteration of this very content. The stakes are lower, the audience is smaller, and revisions are [two-way doors](/handbook/values/#make-two-way-door-decisions) (easily reversible). By seeking information on the audience, timeline, and impact, Sid is able to delegate more, reduce approval loops, and lean away from urgency. After all, "It depends."!
+{{% /details %}}
+
+---
+
+{{< cardpane >}}
+
+{{< panel header="**Home**" header-bg="indigo" >}}
+Return to the <a href="https://about.gitlab.com/teamops/">TeamOps homepage</a>.
+{{< /panel >}}
+
+{{< panel header="**Next**" header-bg="success" >}}
+Continue the learning experience by exploring <a href="http://localhost:1313/teamops/measurement-clarity/">TeamOps - Measurement Clarity</a>
+{{< /panel >}}
+
+{{< /cardpane >}}

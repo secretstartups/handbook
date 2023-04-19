@@ -154,5 +154,9 @@
 [support]
 /content/handbook/support/ @lyle @tcooney
 
+[TeamOps]
+/content/teamops/ @streas @lfarrer
+/content/handbook/teamops/ @streas @lfarrer
+
 [total-rewards]
 /content/handbook/total-rewards/ @brittanyr @mwilkins
