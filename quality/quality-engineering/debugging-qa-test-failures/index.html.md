@@ -44,14 +44,14 @@ flowchart TB
         new_issue(create issue if does not already exist)
         tag_pipeline(notate issue in comment on pipeline run)
         incident{incident\nworthy?}
-        notify_announcements(post in #announcements)
-        open_incident(open incident)
+        notify_incident(Notify about escallation)
+        open_incident(Open incident)
+        update_incident(Update teams about incident)
         eyes(tag pipeline run with :eyes: emoji)
         fire_engine(replace :eyes: with :fire_engine: emoji)
         boom(replace :eyes: with :boom: emoji)
         another_failure{more\nfailures?}
         investigate(investigate root cause for found failures)
-        notify_groups(notify relevant groups )
         fix_tests(fix tests if possible)
         quarantine_tests(quarantine tests if necessary)
         monitor_incident(participate in incident process)
@@ -64,7 +64,7 @@ flowchart TB
         click new_issue "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#create-an-issue"
         click existing_issue "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#known-failures"
         click investigate "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#investigate-the-root-cause"
-        click incident "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#failure-needs-escalation"
+        click incident "https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack"
         click notify_groups "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#notify-group-in-all-cases"
         click fix_tests "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#fixing-the-test"
         click quarantine_tests "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#quarantining-tests"
@@ -75,6 +75,8 @@ flowchart TB
         click boom "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#emojis-used"
       	click tag_issue_for_report "https://gitlab.com/gitlab-org/quality/dri#configuration"
 			  click publish_results "https://gitlab.com/gitlab-org/quality/dri#4-publish"
+        click notify_incident "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#failure-needs-escalation"
+        click update_incident "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#notify-group-in-all-cases"
 
         %% diagram
         slack_channels -->|failed pipeline run| eyes
@@ -82,7 +84,7 @@ flowchart TB
 
 				open_incident --> next_channel
    			another_failure -->|no| next_channel
-        incident -->|yes| notify_announcements
+        incident -->|yes| notify_incident
 
 				next_channel --> investigate
 				next_channel --> publish_results
@@ -104,8 +106,9 @@ flowchart TB
 				end
 
 				subgraph escallate issue
-				  notify_announcements --> open_incident
-				  open_incident --> monitor_incident
+				  notify_incident --> open_incident
+				  open_incident --> update_incident
+          update_incident --> monitor_incident
 				end
 
 				subgraph follow up on test failures
