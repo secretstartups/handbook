@@ -1,30 +1,23 @@
-# NB Do not move this entry from the top of this file
+# Broadest Entries go to the bottom of a section. e.g. /content-sites/handbook/content-sites needs
+# to come before /content/handbook
 
-[Content Sites]
-* @marshall007 @jamiemaynard
-.gitlab/CODEOWNERS @marshall007 @jamiemaynard
-/content/docs/ @marshall007 @jamiemaynard
-
-[CEO]
-/content/handbook/ @sytses @streas
-
-[Comms]
+^[Comms]
 /content/news/ @sliang2
 
-[Engineering]
-/content/handbook/engineering/ @akramer
-/content/handbook/engineering/horse/ @marin
+^[Engineering]
 /content/handbook/engineering/horse/pubsec/ @sdumesnil @pmartinsgl @craig
+/content/handbook/engineering/horse/ @marin
 /content/handbook/engineering/infrastructure @sloyd @marin
 /content/handbook/engineering/fedramp-compliance @connorgilbert @corey-oas @Julia.Lake
-/content/handbook/engineering/security/ @Julia.Lake @rschulman
 /content/handbook/engineering/security/infrastructure_security/ @joe-dub @mlancini @pmartinsgl
+/content/handbook/engineering/security/ @Julia.Lake @rschulman
+/content/handbook/engineering/ @akramer
 
-[Finance]
-/content/handbook/finance/ @brobins
+^[Finance]
 /content/handbook/finance/documents/ @james.shen @watson.lin
+/content/handbook/finance/ @brobins
 
-[Product]
+^[Product]
 /content/handbook/direction/ @david @fseifoddini @brhea
 /content/handbook/product/ @david @fseifoddini @brhea
 /content/handbook/product/efficiency/ @joshlambert
@@ -46,39 +39,52 @@
 /content/handbook/product/fulfillment/auto-renewal/ @tgolubeva
 /content/handbook/company/performance-indicators/product/fulfillment-section/ @ofernandez2 @tgolubeva @courtmeddaugh @alex_martin @doniquesmit
 
-[Legal]
+^[Legal]
 /content/handbook/legal-and-compliance/ @rschulman
 
-[Sales]
+^[Sales]
 /content/handbook/sales/ @dhong
 /content/handbook/company/performance-indicators/sales.md @dhong
 /data/performance_indicators/sales.yml @dhong
 
-[Marketing]
-/content/handbook/marketing/ @akramer
+^[Marketing]
 /content/handbook/marketing/marketing-strategy-and-platform/ @RLeihe268
 /content/handbook/marketing/marketing-strategy-and-platform/growth/ @s_awezec
 /content/handbook/marketing/marketing-strategy-and-platform/marketing-operations/ @christinelee
+/content/handbook/marketing/ @akramer
 
-[TotalRewards]
+^[TotalRewards]
 /content/handbook/total-rewards/ @brittanyr @mwilkins
 
-[Alliances]
+^[Alliances]
 /content/handbook/alliances/ @nbadiey
 
-[Support]
+^[Support]
 /content/handbook/support/ @lyle @tcooney
 
-[customer-success]
+^[customer-success]
 /content/handbook/customer-success @spatching @christiaanconover @mrleutz
 
 ^[job-families]
-/content/job-families/ @sytses @streas
 /content/job-families/board-of-directors/board_member/ @sytses @robin
 /content/job-families/engineering/incubation/ @bmarnane
 /content/job-families/people-group/recruiting-operations-insights/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/recruiter/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/recruiting-sourcer/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/candidate-experience/ @sytses @streas @wendybarnes @rallen3
+/content/job-families/product/ @vkarnes @joshlambert
 /content/job-families/product/technical-writer/ @clenneville @susantacker @dianalogan @kpaizee @david
 /content/job-families/product/technical-writing-manager/ @clenneville @susantacker @dianalogan @kpaizee @david
+/content/job-families/ @sytses @streas
+
+^[CEO]
+/content/handbook/ @sytses @streas
+
+^[Content Sites]
+* @marshall007 @jamiemaynard
+/content/docs/ @marshall007 @jamiemaynard
+
+[CODEOWNERS]
+.gitlab/CODEOWNERS @marshall007 @jamiemaynard
+
+
