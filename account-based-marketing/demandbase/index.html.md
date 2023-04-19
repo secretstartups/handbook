@@ -12,6 +12,9 @@ twitter_creator: '@gitlab'
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+We are currently in the process of migrating from Demandbase to 6sense. GitLab team members interested in staying up-to-date with the progress of the migration to 6sense can do so via [this epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3691). If you have additional questions about the project, please reach out in #mktgops or #proj_6sense_implementation in Slack. The 6sense Handbook page can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/). 
+{: .alert .alert-warning}
+
 ## Overview
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
