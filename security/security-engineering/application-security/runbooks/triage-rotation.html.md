@@ -33,7 +33,7 @@ The following rotations are defined:
     - Add a check mark emoji if the merge request can be public
     - If the merge request references a legitimate security issue
       + If the issue has a `~security-fix-in-public` label, indicating it [has been approved by an AppSec team member to be fixed in public](https://about.gitlab.com/handbook/security/security-engineering/application-security/vulnerability-management.html#fixing-in-public), link to the comment granting approval or include a message in Slack denoting that the `~security-fix-in-public` label was added.
-      + Decide if it can be public anyway, and apply the fix in public label retrospectively
+      + Decide if it can be public anyway, and apply the `~security-fix-in-public` label retrospectively
       + Otherwise contact SIRT and the merge request author to get the merge request removed.
       + Use the `Urgent - SEOC should be paged right away` option if waiting up to 24 hours for a resolution would be too long.
   - First responder for issues created needing triage: [~security-triage-appsec issue search](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=security-triage-appsec)
