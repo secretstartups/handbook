@@ -99,10 +99,10 @@ Vendor Dependency vulnerabilities, in which GitLab is dependent on a 3rd party v
 **Vulnerability Issues should remain open unless the vulnerability has been remediated.** This allows Security Compliance to keep track of DRs that still impact the FedRAMP environment. 
 
 #### Grouping Multiple Vulnerabilities in a Deviation Request
-Multiple CVEs can be grouped in a single DR if **all** of the following criteria are met:
-- The DR is specific to a single unique vulnerability (CVE) impacting multiple images
+Multiple vulnerabiility issues can be grouped in a single DR if **all** of the following criteria are met:
+- The DR is specific to single unique vulnerability (CVE) (even if it is impacting multiple images)
 - All vulnerabilities have the same DR type and justification (e.g. all are false positives in RedHat ubi8 base image used by multiple GitLab container images)
-- The DR makes it clear which GitLab application components are impacted (see "Assets in scope" section above).
+- Any updates to an existng DR makes it clear which images are impacted (see "Assets in scope" section above).
 
 ### Closing Vulnerability Issues and DR Issues
 Deviation requests are often not permanent as patches are eventually made available by vendors or deployed according to risk adjusted SLAs. Patches can also be released in the middle of the DR approval process. If a patch has been released and deployed, please provide evidence in the deviation request issue comments indicating that the vulnerability is fixed in production. Once provided, the issue can be closed. Acceptable evidence can include:
