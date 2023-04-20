@@ -75,9 +75,9 @@ Check out [this detailed page](https://about.gitlab.com/handbook/tools-and-tips/
 
 ### Endpoint Management
 
-Macbook: You are required to install Jamf on your Macbook for security and compliance reasons. Please check [this guide](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf) for assistance!
+Macbook: You are required to install Jamf on your Macbook for security and compliance reasons. Please check [this guide](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf) for assistance!
 
-Linux: Currently we do not have an endpoint management tool for Linux. However we do have [a tool](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) that we use to wipe and lock them if needed. 
+Linux: Currently we do not have an endpoint management tool for Linux. However we do have [a tool](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) that we use to wipe and lock them if needed. 
 
 ### Laptop Encryption
 

@@ -17,8 +17,8 @@ If there are no articles that cover your question please reach out to the GitLab
 
 ## Google Workspace Applications Articles
 
-- [Gmail Delegation](/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace/gmail-delegation)
+- [Gmail Delegation](/handbook/business-technology/end-user-services/how-to-articles/google-workspace/gmail-delegation)
 
-- [Google Calendar Delegation](/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace/google-calendar-delegation)
+- [Google Calendar Delegation](/handbook/business-technology/end-user-services/how-to-articles/google-workspace/google-calendar-delegation)
 
-- [Google Drive Sharing](/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace/google-drive-sharing)
+- [Google Drive Sharing](/handbook/business-technology/end-user-services/how-to-articles/google-workspace/google-drive-sharing)

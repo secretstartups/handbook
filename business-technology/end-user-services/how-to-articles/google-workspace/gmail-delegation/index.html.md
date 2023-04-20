@@ -31,7 +31,7 @@ Gmail Delegation is only available via the `Gmail Webpage`
 1. Log into `mail.google.com` with your GitLab email address
 
 1. In the top right corner of `mail.google.com` click on your Gmail Profile
-   <img src="/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace/gmail-delegation/google_delegation_example.png" alt="Google Delegate Example" width="400"/>
+   <img src="/handbook/business-technology/end-user-services/how-to-articles/google-workspace/gmail-delegation/google_delegation_example.png" alt="Google Delegate Example" width="400"/>
 
 1. If you have delegation access you will see the team members account under your `Gmail` Account.
 

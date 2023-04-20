@@ -16,9 +16,9 @@ description: Business Technology
 
 <div class="flex-row" markdown="0">
   <div>
-    <h5>Team Member Enablement</h5>
-    <a href="/handbook/business-technology/team-member-enablement/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-    <a href="https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
+    <h5>End User Services</h5>
+    <a href="/handbook/business-technology/end-user-services/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+    <a href="https://gitlab.com/gitlab-com/it/end-user-services/issues/it-help-issue-tracker/-/issues/new?issuable_template=General_HelpDesk_Request" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
   </div>
   <div>
     <h5>Enterprise Applications</h5>
@@ -61,7 +61,7 @@ description: Business Technology
 - Groups in GitLab
     - `@gitlab-com/business-technology`
     - `@gitlab-com/business-technology/enterprise-apps`
-    - `@gitlab-com/business-technology/team-member-enablement`
+    - `@gitlab-com/business-technology/end-user-services`
     - `@gitlab-com/Finance-Division/procurement-team`
 - Channels in Slack
     - [`#business-technology`](https://gitlab.slack.com/archives/C01BLS12V37)
@@ -143,13 +143,13 @@ The best practices and policies for team members can be found on the [security p
 
 ### Organization Wide Technologies
 
-The [IT Support](/handbook/business-technology/team-member-enablement/) team (aka Helpdesk or Team Member Enablement) focuses on providing helpdesk support for all of our team members globally with the technologies that are used across the entire organization. These include our collaboration tools (GitLab.com, Google Workspace, Slack, Zoom, etc.), security and compliance tools (1Password, Okta, Jamf, SentinelOne, etc.), laptops and hardware (MacBook Pros, Linux machines, etc.), and most software applications that run on MacOS.
+The [IT Support](/handbook/business-technology/end-user-services/) team (aka Helpdesk or End User Services) focuses on providing helpdesk support for all of our team members globally with the technologies that are used across the entire organization. These include our collaboration tools (GitLab.com, Google Workspace, Slack, Zoom, etc.), security and compliance tools (1Password, Okta, Jamf, SentinelOne, etc.), laptops and hardware (MacBook Pros, Linux machines, etc.), and most software applications that run on MacOS.
 
 You can ask for assistance in the `#it_help` Slack channel.
 
 ### Access Management
 
-The [IT Support](/handbook/business-technology/team-member-enablement/) team handles [access requests](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) for the tech stack applications that IT manages. All access requests are created in the same [issue tracker](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) project, regardless of which System Owner is responsible for provisioning your user account.
+The [IT Support](/handbook/business-technology/end-user-services/) team handles [access requests](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) for the tech stack applications that IT manages. All access requests are created in the same [issue tracker](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) project, regardless of which System Owner is responsible for provisioning your user account.
 
 The [IT Engineering - Access Management](/handbook/business-technology/engineering/access-manager) team focuses on Identity and Access Management (IAM) and Role-Based Access Control (RBAC) automation for all of [GitLab's tech stack applications](/handbook/business-technology/tech-stack-applications/).
 

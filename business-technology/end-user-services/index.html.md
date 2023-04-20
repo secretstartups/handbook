@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Team Member Enablement"
+title: "End User Services"
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
@@ -14,7 +14,7 @@ title: "Team Member Enablement"
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to reach out to us?
 
 <div class="flex-row" markdown="0" style="height:100px;justify-content:flex-start;">
-  <a href="https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display:flex;align-items:center;justify-content:center;">Open an issue</a>
+  <a href="https://gitlab.com/gitlab-com/it/end-user-services/issues/it-help-issue-tracker/-/issues/new?issuable_template=General_HelpDesk_Request" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display:flex;align-items:center;justify-content:center;">Open an issue</a>
   <a href="https://gitlab.slack.com/archives/CK4EQH50E" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display: flex;align-items:center;justify-content:center;">#it-help in slack</a>
   <a href="https://www.worldtimebuddy.com/?pl=1&lid=4143861,4726206,2964574,2158177&h=4143861" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display: flex;align-items:center;justify-content:center;">What timezone are we located in?</a>
 </div>
@@ -25,13 +25,13 @@ title: "Team Member Enablement"
 
 - For information about the access request policies and security guidelines, please refer to the Security Team's [access request handbook page section](/handbook/security/#access-management-process).
 
-- For links to role based access request templates, system access templates, and other general instructions and FAQs, please refer to the [Access Requests page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
+- For links to role based access request templates, system access templates, and other general instructions and FAQs, please refer to the [Access Requests page](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/).
 
 #### Baseline & Role-Based Entitlements
 
-- For information about baseline entitlements and role-based access, please refer to the [baseline entitlements handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/).
+- For information about baseline entitlements and role-based access, please refer to the [baseline entitlements handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/baseline-entitlements/).
 
-- For information on how to create a Role-Based Entitlement, please refer to the [instructions on how to create role-based entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#how-do-i-create-a-role-based-entitlement-template).
+- For information on how to create a Role-Based Entitlement, please refer to the [instructions on how to create role-based entitlements](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/baseline-entitlements/#how-do-i-create-a-role-based-entitlement-template).
 
 #### Automated Group Membership Reports for Managers
 
@@ -47,31 +47,31 @@ To read more about Okta, please visit the [**Okta**](/handbook/business-technolo
 
 #### Jamf (Endpoint Management)
 
-To read more about our Jamf deployment please visit the [**Endpoint Management**](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) page of the handbook
+To read more about our Jamf deployment please visit the [**Endpoint Management**](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/) page of the handbook
 
 #### Laptop Delivery Metrics
 
-To view laptop delivery metrics and statistic please visit the [Laptop Metrics Handbook Page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/laptop-metrics/)
+To view laptop delivery metrics and statistic please visit the [Laptop Metrics Handbook Page](https://about.gitlab.com/handbook/business-technology/end-user-services/laptop-metrics/)
 
 #### GitLab Onboarding and machine management
 
-Please visit the GitLab Onboarding and machine management [handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/)
+Please visit the GitLab Onboarding and machine management [handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/)
 
 #### Gitlab Laptop Offboarding
 
-Please visit the Gitlab Laptop Offboarding page for information pertaining to this process at Gitlab [handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/gitlab-laptop-offboarding/)
+Please visit the Gitlab Laptop Offboarding page for information pertaining to this process at Gitlab [handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/)
 
 #### Self-help and troubleshooting
 
-Experiencing some issues with your machine, access to systems, 2FA or other IT related issues? Please visit our [self-help and troubleshooting handbook page](/handbook/business-technology/team-member-enablement/self-help-troubleshooting/)
+Experiencing some issues with your machine, access to systems, 2FA or other IT related issues? Please visit our [self-help and troubleshooting handbook page](/handbook/business-technology/end-user-services/self-help-troubleshooting/)
 
 #### Gitlab IT 101
 
-New to Gitlab and looking for some IT tips and tricks? This is the spot for you, we have created a comprehensive guide for using the IT systems, apps and hardware [in this handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding101/)
+New to Gitlab and looking for some IT tips and tricks? This is the spot for you, we have created a comprehensive guide for using the IT systems, apps and hardware [in this handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding101/)
 
 #### Offboarding
 
-- Are you or a direct report leaving the company? Please reference the [Offboarding](/handbook/business-technology/team-member-enablement/offboarding/) handbook page to see the action items that you can take to create a smooth transition for you and your team.
+- Are you or a direct report leaving the company? Please reference the [Offboarding](/handbook/business-technology/end-user-services/offboarding/) handbook page to see the action items that you can take to create a smooth transition for you and your team.
 
 
 ## <i class="fas fa-rocket" id="biz-tech-icons"></i> Mission Statement
