@@ -57,15 +57,15 @@ Depending on the context here are the most appropriate ways to reach out to the 
 
 These are regular meetings in which most team members will participate. Below is our schedule:
 
-**Remote Development Iteration Planning Meeting (IPM)**
+#### Iteration Planning Meeting (IPM)
 
 - **When:** Every Wednesday, alternating between APAC and EMEA time zones.
-- **What:** In this weekly meeting, we will review the Remote Development backlog and the current iteration status. We'll estimate and prioritize work for the next one or two iterations. The meeting will alternate between APAC and EMEA time zones to accommodate different regions.
+- **What:** In this weekly meeting, we will review the team's backlog and the current iteration status. We'll estimate and prioritize work for the next one or two iterations. The meeting will alternate between APAC and EMEA time zones to accommodate different regions.
 
-#### Backlog Refinement Meeting
+#### Pre-Iteration Planning Meeting
 
-- **When:** Every other week, asynchronous (with an option for a synchronous meeting if needed).
-- **What:** This meeting is an opportunity to triage the current backlog of issues for our categories and populate our Iteration boards. For more information, read the [Bi-weekly asynchronous refinement process](#-bi-weekly-asynchronous-backlog-refinement-process).
+- **When:** Every Wednesday, alternating between APAC and EMEA time zones.
+- **What:** The goal of the Pre-IPM meeting is for the team leaders to collaborate on preparing all issues which are to be prioritized for the upcoming iteration(s), so they are ready for the wider team to discuss and estimate in the next IPM. For more information, see ["Pre-IPM Process"](#-pre-ipm-process).
 
 #### Quarterly Strategy and OKR Planning Meeting
 
@@ -185,34 +185,39 @@ classDef issueCreateLabel fill:#6aa84f,color:#fff;
 
 To assign weights to issues effectively, it's important to remember that issue weight should not be tied to time. Instead, it should be a purely abstract measure of the issue's significance. To accomplish this, the our team uses the Fibonacci sequence starting from weight 0:
 
-- **Weight 0:** Reserved for the smallest and easiest issues, such as typos or minor formatting changes.
-- **Weight 1:** For slightly more significant but still simple issues, such as changing copy text or making small CSS adjustments. These issues may have labels like "good for new contributors" or "Hackathon - Candidate."
-- **Weight 2:** For straightforward issues that involve updating behavior, like fixing a trivial bug and testing it.
-- **Weight 3:** For straightforward issues that may have unforeseen complexity or require discovery, like fixing a non-trivial bug and testing it.
-- **Weight 5:** For issues that involve changing the behavior of pre-existing modules or adding significant new behavior.
-- **Weight 8:** Reserved for large fundamental rewrites that require an iterative approach, and should be investigated via an Architecture Plan and Iteration Plan.
-- **Weight: crazy:** Reserved to represent large dreamy feature discussions like "Remote-Development" and "VSCode Web IDE".
+- **Weight 0:** Reserved for the smallest and easiest issues, such as typos or minor formatting changes, or very minor code changes with no tests required.
+- **Weight 1:** For simple issues with little or no uncertainty, risk or complexity. These issues may have labels like "good for new contributors" or "Hackathon - Candidate.". For example:
+    - Changing copy text which may be simple but take some time.
+    - Making CSS or UI adjustments.
+    - Minor code changes to one or two files, which require tests to be written or updated.
+- **Weight 2:** For more involved issues which are still straightforward without much risk or complexity, but may involve touching multiple areas of the code, and updating multiple tests.
+- **Weight 3:** For larger issues which may have some unforeseen complexity or risk, or require more extensive changes, but is still not large enough to warrant  [breaking down into smaller separate issues](#-breaking-down-large-issues).
+- **Weight 5:** Normally, this weight should be avoided, and indicate that the issue ideally [should be broken down into smaller separate issues](#-breaking-down-large-issues). However, in some cases a issue with a weight of 5 might still be prioritized. For example, if there is a large amount of manual updates to be made which will require a large amount of effort, but doesn't necessarily involve significant risk or uncertainty.
+- **Weight 8/13+:** Weights above 5 are used to clearly indicate work that is not yet ready to be assigned for implementation, and _must_ be broken down because it is too large in scope to start implementing, and/or still has too many unknowns/risks. This weight is temporarily assigned to "placeholder" issues to capture the scope of the effort in our velocity-based capacity planning calculations. For more information, see ["Breaking Down Large Issues"](#-breaking-down-large-issues).
 
-### 📝 Bi-Weekly Asynchronous Backlog Refinement Process
+📝 Breaking Down Large Issues
 
-Every two weeks, our team will go through an asynchronous backlog refinement process. This process has two main goals:
+Some issues are large in scope to start implementing, and/or still has too many unknowns/risks. In this case, we should break it down into smaller issues which can be implemented in a single iteration (with a weight of 5 or less, ideally 3 or less). Here's our process:
 
-- to ensure that each of our boards "Open" lanes contains a selection of issues which are considered the next priorities.
-- to ensure that our next selection of priority issues have enough context to be considered `ready for development`.
+1. Create an investigation issue to identify the work that needs to be done. This issue represents the work needed to research, investigate, discover and document the effort, and break the work down into new issues which are small and clear enough to be prioritized and started. The investigation issue should have a weight assigned which reflects the effort required perform this investigation and breakdown. Here's an example: https://gitlab.com/gitlab-org/gitlab/-/issues/408186.
+2. While the investigation issue work is ongoing, we create a temporary "placeholder" issue on our Iteration Board. This placeholder issue serves to capture the scope of the effort in our velocity-based capacity planning calculations while the investigation to break is down is still ongoing.
+    1. It should have a weight of either 8/13+ (indicating that it is too large to be prioritized and started, and must be broken down.
+    1. The title format for the placeholder issue is `[Category] - Iteration Planning Placeholder for [description of work]`. Here's an example: https://gitlab.com/gitlab-org/gitlab/-/issues/408093.
+    1. The description should have a link to the investigation issue, and a reminder to remove the weight and close it once the smaller replacement issues are created.
+    1. The `~blocked` label can be applied so it is clear that this issue should is not ready for development. Unfortunately, we must still apply the `~Deliverable` label to this issue, because that is the only way we can associate it with the Iteration Cadence for velocity calculations.
+3. Once the investigation and breakdown into smaller issues is complete, then the weight can be removed and the issue closed.
 
-**The process**
+📝 Pre-IPM Process
 
-- A bi-weekly asynchronous meeting is scheduled on Tuesdays.
-- The meeting involves the PM/EM/UX and Engineering leads who provide their input.
-- In this meeting, the PM/EM/UX and Engineering leads select the issues that they deem as upcoming priorities and add them to the "Open" lanes across the category boards.
-- The Engineering leads then review these issues to decide whether they can be moved to the ~"workflow::ready for development" column. Move the issue to the ~"workflow::refinement" column if the solution is unclear, it requires a technical spike to select a technical approach, or the issue’s scope is too large and needs to be broken down. 
-- For issues that need refinement, use this [snippet](https://gitlab.com/gl-editor/team/-/snippets/2520225) to define the DRI and the actions that need to be taken next outside of the meeting.
+The Pre-Iteration Planning Meeting is a crucial step that takes place every Wednesday, alternating between APAC and EMEA time zones, to prepare for the weekly Iteration Planning Meeting (IPM).
 
-Since this process operates asynchronously, team members have the freedom to select any hour of the day to complete the task. Nevertheless, we have created three one-hour blocks (AMER/EMEA/APAC) on the IDE team's calendar to facilitate this process. This approach encourages and reminds team members to join one of these blocks for their asynchronous participation, and possibly synchronize with other team members who are available during that time.
+During the Pre-IPM meeting, the leaders on the team will collaborate on creating, refining, organizing, and clarifying all issues which are to be prioritized for the upcoming iteration(s). This will normally involve Product and Engineering leaders on the team, but may also involve Design or other team members depending on the nature of the issues involved.
 
-It's highly recommended that team members schedule at least one hour bi-weekly for this activity to ensure the process runs smoothly. 
+The goal of the Pre-IPM is to ensure that all issues which are to be prioritized in the upcoming iteration(s) are ready for the wider team to briefly discuss and estimate in the next IPM.
 
-Sometimes the issue needs next steps defined, so we use this [snippet](https://gitlab.com/gl-editor/team/-/snippets/2520225) to define the DRI and the actions that need to be taken next outside of the meeting.
+The goal of this meeting is to ensure that the backlog is well-defined, prioritized, and that each issue is estimable and deliverable within a single iteration. The team works together to size each story and determine the iteration capacity. This helps us commit to completing the work within the upcoming iteration(s).
+
+The outcome of the Pre-IPM process is a set of curated issues that represent the work to be done. These issues will be used to populate the team's Iteration board. For each category, a placeholder issue will be created, following a specific title format. This placeholder issue will be used during the IPM to track progress and ensure that the team stays on track.
 
 ### 😷 Issue Workflow Hygiene
 
