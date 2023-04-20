@@ -59,9 +59,37 @@ Before we can proceed, we need to check the following:
 After passing all the checks, we can proceed with the setup. The first stage of
 the setup begins within Zendesk.
 
+#### Locate existing non-closed tickets
+
 Start by ensuring none of the listed support contacts have existing tickets. If
-you do find existing tickets, they need to be closed  completely before we can
-proceed.
+you do find existing tickets, they need to be closed completely before we can
+proceed. Review the ticket to determine if this is an acceptable task. If you
+determine it is not, post the ticket in the issue with the message:
+
+> We are seeing the users requested in this issue have a non-closed ticket:
+>
+> * LIST
+> * OF
+> * TICKETS
+>
+> These would need to be completely closed before we could proceed. Please speak with the user(s) about the ticket about us closing the ticket before we can proceed. Once you have done so, please reply back letting us know they have been informed.
+
+You can close a ticket via the API, with a curl request such as:
+
+```bash
+curl -ss https://gitlab.zendesk.com/api/v2/tickets/TICKET_ID \
+   -H "Content-Type: application/json" \
+   -u support-ops@gitlab.com/token:YOUR_ZD_ADMIN_TOKEN \
+   -X PUT \
+   -d '{"ticket": {"status": "closed"}}'
+```
+
+Replacing:
+
+* `TICKET_ID` with the ticket's ID
+* `YOUR_ZD_ADMIN_TOKEN` with your admin Zendesk API token
+
+#### Organization setup
 
 After doing so, you then need to create the organization in Zendesk. Do this by
 hovering over the `+ Add` button at the top-left of Zendesk and then clicking
