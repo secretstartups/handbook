@@ -15,36 +15,46 @@ title: "Channel Partner Field Team Enablement"
 # GitLab’s differentiation in the ecosystem
 {: .gitlab-orange}
 
-GitLab is a public company that provides commercial support and sells per-user subscription licenses of GitLab - The DevSecOps Platform - as a product to enterprises globally.  GitLab simplifies DevOps chains of custom integrated tools in the ecosystem into a single application. GitLab is commercially supported, backed by millions of users in the community, with incredible innovation due to the contributions of thousands of developers globally.
+GitLab is a public company that provides commercial support and sells per-user subscription licenses of GitLab - The DevSecOps Platform - as a product to enterprises globally. GitLab simplifies DevOps chains of custom integrated tools in the ecosystem into a single application or platform. GitLab Enterprise Edition, based on the core open-source GitLab Community Edition, provides commercial support, training, and professional service offerings. GitLab’s core codebase is backed by millions of users in the community, with incredible innovation due to the contributions of thousands of developers globally.
 
-When customers adopt GitLab, they typically do so to solve a particular DevOps problem.  They may or may not initially realize that GitLab will solve the specific need, the customer is also getting a DevSecOps platform.  The included feature set encompasses the entire “toolchain” of ecosystem tools, an improvement from cobbled together toolchains.  Inevitably, customers adopt new features and experience the power of pre-integrated features that work well together. With GitLab, pipelines become easier, DevOps pros begin to solve higher-order problems, and you sell more GitLab.
+GitLab, as a DevSecOps platform, is better experienced than described. When customers adopt GitLab, they typically do so to solve a particular DevOps problem. Successful customers quickly realize that GitLab’s complete set of software planning, collaborating, revision controlling, security verifying, deploying, and monitoring is unlike any other DevOps software tool available today. This platform-based approach is a crucial differentiator among other git-based revision control systems that rely on a network of ‘plugins’ and ‘add-ons’ to complete a fully functional software delivery factory. GitLab as a platform encompasses the entire “toolchain” of ecosystem tools, an improvement from cobbled-together toolchains. 
 
+Long-lived customers adopt new features and experience the power of pre-integrated features that work well together. With GitLab, pipelines become easier, DevOps pros begin to solve higher-order problems, and you sell more.
 
 # Here’s how you make money with GitLab
 {: .gitlab-orange}
+The three main areas of making money with GitLab are selling Licensing, Training, and Professional (Consultative) Services.
 
-**$  License Revenue:**  [Register the deal](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#submitting-a-deal-registration), and take down the initial sale of GitLab Licenses.  Lead with full [GitLab Ultimate](https://about.gitlab.com/pricing/ultimate/), and scale back to [GitLab Premium](https://about.gitlab.com/pricing/premium/) for narrower use cases or price-adverse buyers
+**$  License Revenue:**  Lead with full [GitLab Ultimate](https://about.gitlab.com/pricing/ultimate/), and scale back to [GitLab Premium](https://about.gitlab.com/pricing/premium/) for narrower use cases or price-adverse buyers. [Register the deal on partners.gitlab.com](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#submitting-a-deal-registration), and take down the initial sale of GitLab Licenses. 
+
+**$$ Training and Professional Services (PS):**  Customers new to GitLab will likely need help understanding the more effecient GitLab Flow Workflow. Our [GitLab Flow Best Practices](https://about.gitlab.com/topics/version-control/what-are-gitlab-flow-best-practices/) is a great place to start learning about how to work more efficiently. Also see the bottom of the page for [videos about GitLab Flow.](https://about.gitlab.com/handbook/resellers/partner-enablement/#third-party-tutorials)
+
+New customers to GitLab will need help migrating from existing tools and Git-based software sytems. You are welcome to resell GitLab's Professioanl Service offerings - or, as a partner, you can offer you own similar migration, training and enablement offerings. [Conduct the Project Service](https://partners.gitlab.com/prm/English/c/Services) of installation, configuration and integration, and migration from other tools.
+
+**$$$  License Growth Revenue:**  We have a Land and Expand model.  After successful customers adopt GitLab to solve a single-point problem, many discover that GitLab can replace and remove duplicative software tools.  When using GitLab as an end-to-end software development and delivery platform, removing redundant software tools becomes evident.  We focus our [incentives for partners](https://partners.gitlab.com/prm/English/s/assets?id=350001) on new licenses (Land) and license growth over the baseline (Expand).  We focus on the increased number of GitLab licensed users because we provide commercial, technical support, so you don’t have to (as much).  Partners play a crucial role in practice and integration support.  GitLab maintains a commercial support team that other DevOps product toolchain companies cannot provide as part of our single product platform viewpoint.  Customers buy more GitLab from you by vertically expanding their footprint from Premium to Ultimate licenses or increasing their user count horizontally. 
+
+**$$$ Transformation Services:**  Our partners find that GitLab breath and depth provide a long tail of strategic growth in customer consulting.  Customers improve their DevSecOps practices by leveraging GitLab’s workflow.  Treat the platform as an ongoing reason for client engagement.  In starting with GitLab, ensure all project managers, developers, security engineers, and managers can log in and access the platform.  Use the shareable links anywhere within GitLab to allow the different roles to know where their planning, development, security reports, and value stream reporting are.  Next, enable security scanning and reporting.  Next, allow auto-deployment to the cloud.  Because the breadth and depth of GitLab’s software factory-like platform are so broad and deep, coaching successful customers towards DevOps best practices becomes a natural opportunity for you to sell additional services.  For a large enterprise, use GitLab to provide a roadmap of where you will take your customer with GitLab in their software development maturity journey.  Coaching and consultative services will also offer a roadmap for revenue quarter after quarter.
     
-**$  PS Project Services:**  [Conduct the PS](https://partners.gitlab.com/prm/English/c/Services) of installation, configuration and integration, and migration from other tools
-    
 
-**$$  License Growth Revenue:**  We have a Land and Expand model.  We focus our [incentives for partners](https://partners.gitlab.com/prm/English/s/assets?id=350001) on new licenses (Land) and license growth over the baseline (Expand).  We focus on growth because we provide commercial technical support, so you don’t have to (as much).  Partners play a crucial role in practice and integration support. Still, GitLab maintains a commercial support team (it’s a product after all) that other DevOps product toolchain companies cannot provide.  Customers buy more GitLab from you by vertically expanding their footprint from Premium to Ultimate licenses or increasing their user count horizontally. 
+## Ready to get Started?
+{: .gitlab-purple}
+[Click Here](https://partners.gitlab.com/English/register_email.aspx) to Apply to GitLab's Partner Program.
 
-**$$$ Transformation Services:**  This is your long tail of strategic growth in your customer consulting with the customer on improving their DevSecOps practices leveraging GitLab.  Treat the Platform as an ongoing concern.  In v1, you’ll get it up and going.  In v2, you’ll add security scans.  In v3, you’ll include auto-deployment to the cloud, etc. (simple examples).  v4, etc., etc.  Your opportunity for additional services never diminishes, and you can create a roadmap for your revenue quarter after quarter.
-    
-
-In the material below, you will find sales guides, use cases, training materials and program guides. The materials should be a great place to start to effectively sell, service, and hit your number with GitLab.
-
-
-# Partner Program 
+# Learning More
 {: .gitlab-orange}
+You will find sales guides, use cases, training materials, and program guides in the material below.  The materials should be a great place to start effectively selling, serving and hitting your number with GitLab.
 
--   Partner Program Overview: [FY23 GitLab Channel Program Guide](https://partners.gitlab.com/prm/English/s/assets?id=414926) This document includes details around sales tracks, benefits and requirements at different partner levels.
+Some of the links below require you to login to [GitLab's Partner Portal](https://partners.gitlab.com/) first.
+
+## Partner Program 
+{: .gitlab-purple}
+
+-   **Partner Program Overview:** [FY23 GitLab Channel Program Guide](https://partners.gitlab.com/prm/English/s/assets?id=414926) This document includes details about sales tracks, benefits, and requirements at different partner levels.  (Be sure to log in to partners.gitlab.com first to access this link.)
     
--   How to request NFRs: Each GitLab partner may request a user license for a GitLab Self Managed Instance as well as a GitLab.com SaaS license [per this handbook page](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#internal-nfr-request-processes).   [Partner Portal](https://partners.gitlab.com/) > [Services](https://partners.gitlab.com/prm/English/c/Services) > [Request an NFR](https://docs.google.com/forms/d/e/1FAIpQLSc8jdwNrVMfVQ4x7XWXwcaMrcO4m2C6nGEq3_tKQWJnftAN_g/viewform)
+-   **How to request Not For Resale (NFR) licenses:**  Each GitLab partner is allowed one set of annual NFR licenses for a GitLab Self Managed Instance and a GitLab.com SaaS license [per this handbook page](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#internal-nfr-request-processes).   [Partner Portal](https://partners.gitlab.com/) > [Services](https://partners.gitlab.com/prm/English/c/Services) > [Request an NFR](https://docs.google.com/forms/d/e/1FAIpQLSc8jdwNrVMfVQ4x7XWXwcaMrcO4m2C6nGEq3_tKQWJnftAN_g/viewform)
     
--   Training and Certifications
-    
+-   **Training and Certifications:** Available on the Training > Start Training tab at the top of the [GitLab Partner Portal](https://partners.gitlab.com/) or by accessing [https://levelup.gitlab.com/](https://levelup.gitlab.com/) after authenticating to the GitLab Partner Portal.
+   
 -   **GitLab Certification Guide:**  You can share this [GitLab Certification Guide](https://content.gitlab.com/viewer/639a5b13fc695b0f033c4ff9) with your teams describing the GitLab Certifications
 -   **GitLab Training:**  This [Handbook page](https://about.gitlab.com/handbook/resellers/training/) on training available for partners
 -   **Engaging Partner Support:** [Handbook Page](https://about.gitlab.com/handbook/resellers/partner-support/)
@@ -53,7 +63,7 @@ In the material below, you will find sales guides, use cases, training materials
 # Basic Presales Knowledge
 {: .gitlab-orange}
 
-## Get to know GitLab, what it is, what it offers, and what it does
+## Please get to know GitLab, what it is, what it offers, and what it does.
 {: .gitlab-purple}
 
 1.  GitLab [promo video](https://player.vimeo.com/video/702922416) on [https://about.gitlab.com](https://about.gitlab.com) (1 min)
@@ -68,53 +78,53 @@ In the material below, you will find sales guides, use cases, training materials
 ## Pitch GitLab and uncover new opportunities
 {: .gitlab-purple}
 
-1.  Register for the [Building Pipelines GitLab Partner Webinar Series](https://content.gitlab.com/viewer/63bddf02edadd0b1346a73db) where we discuss various sales and presales-level topics that help you build your sales pipeline with GitLab
+1.  Please register for the [Building Pipelines GitLab Partner Webinar Series,](https://content.gitlab.com/viewer/63bddf02edadd0b1346a73db) where we discuss various sales and presales-level topics that help you build your sales pipeline with GitLab.
     
 2.  Review [Positioning GitLab - Handbook Page](https://about.gitlab.com/handbook/positioning-faq/)
     
-3.  Discovery is a crucial skill for any SA.  [Here is how GitLab SA’s do their Discovery](https://about.gitlab.com/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate).
+3.  Discovery is a crucial skill for any Solutions Architect (SA).  [Here is how GitLab SA’s do their Discovery](https://about.gitlab.com/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate).
     
 4.  Our [Customer Case Studies](https://about.gitlab.com/customers/) will give you ideas of why enterprises are choosing GitLab.  Bookmark this for customer justification in deals later.
     
-5.  There are different [User Personas](https://about.gitlab.com/handbook/product/personas/) vs [Buyer Personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) to understand when selling a Platform like GitLab.  Which do you value more?
+5.  There are different [User Personas](https://about.gitlab.com/handbook/product/personas/) vs. [Buyer Personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) to understand when selling a Platform like GitLab.  Which do you value more?
     
 
-## Learn how to solution and transact a GitLab deal
+## Learn how to solution and transact a GitLab deal.
 {: .gitlab-purple}
 
 1.  GitLab has a leading market share in self-managed deployments.  Here are our [reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) and [install guides](https://docs.gitlab.com/ee/install/).  
     
 2.  SaaS on GitLab.com is an increasingly popular option.  [Start a Free Trial](https://gitlab.com/-/trials/new) now.
     
-3.  Pricing is a very simple per-user subscription that is the same whether you are using SaaS or Self Hosted instance.  Customers see the [List Price here](https://about.gitlab.com/pricing).  Review the [Partner Program Incentives Guide](https://partners.gitlab.com/prm/English/s/assets?id=350001) for more details on partner transactions.
+3.  Pricing is a simple per-user subscription that is the same whether you are using SaaS or Self Hosted instance.  Customers see the [List Price here](https://about.gitlab.com/pricing).  Review the [Partner Program Incentives Guide](https://partners.gitlab.com/prm/English/s/assets?id=350001) for more details on partner transactions.
     
-4.  There are [online ROI calculators](https://about.gitlab.com/calculator/), and your partner team can share more advanced ROI tools with you.
+4.  There are [online ROI calculators;](https://about.gitlab.com/calculator/), your partner team can share more advanced ROI tools.
     
 
 ## Services opportunities when selling Gitlab
 {: .gitlab-purple}
 
-1.  Here are some [service kits](https://partners.gitlab.com/prm/English/c/Channel_Service_Packages) we have developed including sample SOWs and LOEs
+1.  Here are some [service kits](https://partners.gitlab.com/prm/English/c/Channel_Service_Packages) we have developed, including sample Statements of Work (SOWs) and Levl of Effort (LOEs).
     
-2.  These are the GitLab PS [Delivery Kits](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits) our teams use for customer projects
+2.  These are the GitLab PS [Delivery Kits](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits) our teams use for customer projects.
     
 
 # Deeper Presales & Technical Knowledge
 {: .gitlab-orange}
 
-## The DevSecOps Ecosystem and Competitive intelligence
+## The DevSecOps Ecosystem and Competitive Intelligence
 {: .gitlab-purple}
 
-1.  Learn how GitLab lands and expands within a customer’s cloud-native ecosystem of tools in the [Competitive Intelligence Handbook Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/)
+1.  Learn how GitLab lands and expands within a customer’s cloud-native ecosystem of tools on the [Competitive Intelligence Handbook Page.](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/)
     
-2.  Review the [DevOps Tools Comparison](https://about.gitlab.com/competition/) and be sure to click on the stages of the DevSecOps process (Plan, Create, Verify, Package, etc.) for more information
+1.  Review the [DevOps Tools Comparison](https://about.gitlab.com/competition/) and be sure to click on the stages of the DevSecOps process (Plan, Create, Verify, Package, etc.) for more information
     
 ## Configuring and using GitLab
 {: .gitlab-purple}
 
-1.  [docs.gitlab.com](https://docs.gitlab.com) is pretty fantastic.  Explore there and jump to the [Tutorials page](https://docs.gitlab.com/ee/tutorials/) for more guidance.
+1.  [docs.gitlab.com](https://docs.gitlab.com) is fantastic.  Explore there and jump to the [Tutorials page](https://docs.gitlab.com/ee/tutorials/) for more guidance.
     
-2.  Definition:  “Omnibus” – It’s not as ominous as it sounds.  This is simply the standard Linux package installation of GitLab.  There are other ways to install, for example via K8s helm charts for advanced scaling options.
+1.  Definition:  “Omnibus” – It’s not as ominous as it sounds.  Omnibus referrs to the standard Linux package installation of GitLab.  There are other ways to install, for example, via K8s helm charts for advanced scaling options.
     
 # Running Effective GitLab Demos and POCs
 {: .gitlab-orange}
@@ -122,30 +132,30 @@ In the material below, you will find sales guides, use cases, training materials
 ## Demo resources to get started showcasing the Platform
 {: .gitlab-purple}
 
-1.  The GitLab [Demo Handbook Page](https://about.gitlab.com/handbook/customer-success/solutions-architects/demonstrations/)
+1.  The GitLab [Demo Handbook Page.](https://about.gitlab.com/handbook/customer-success/solutions-architects/demonstrations/)
     
 2.  Check out the presentation and video in [Building Pipelines Partner Webinar](https://content.gitlab.com/viewer/63bddf02edadd0b1346a73db) Episode 011 on “Effective GitLab Demos.” (40:16)  More resources and helpful hints are provided.
     
-3.  [GitLab Product Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#key-demo-videos) has some product demo videos in their handbook page
+3.  [GitLab Product Marketing](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/#key-demo-videos) has some product demo videos on their handbook page.
     
 
 ## Existing demo projects and guides you can leverage
 {: .gitlab-purple}
 
-1.  [Ultimate GitOps Workshop](https://guided-explorations.gitlab.io/workshops/gitlab-for-eks/): Leverage GitLab K8s agent to deploy to EKS
+1.  [Ultimate GitOps Workshop](https://guided-explorations.gitlab.io/workshops/gitlab-for-eks/): Leverage GitLab K8s agent to deploy to EKS.
 
-1.  GitLab initiative to create demos you can leverage: [GitLab Learn Labs](https://gitlab.com/gitlab-learn-labs/webinars/how-to-use-these-projects)
+1.  GitLab initiative to create demos you can leverage: [GitLab Learn Labs.](https://gitlab.com/gitlab-learn-labs/webinars/how-to-use-these-projects)
 
 1.  Sometimes the demo script is [found in an issue](https://gitlab.com/gitlab-learn-labs/webinars/workshop-project/-/issues/1), not the Readme.  Not every demo project has a script (sorry).
 
-1.  [Guided Explorations](https://gitlab.com/guided-explorations):  Contains Joint Reference Architectures, Patterns, and Working Examples for integrating GitLab with Alliance and Technology solutions
+1.  [Guided Explorations](https://gitlab.com/guided-explorations):  Contains Joint Reference Architectures, Patterns, and Working Examples for integrating GitLab with Alliance and Technology solutions.
 
-1.  [Customer Success Workshops](https://gitlab.com/gitlab-com/customer-success/workshops/templates):  Working group containing all CS Workshop Templates
+1.  [Customer Success Workshops](https://gitlab.com/gitlab-com/customer-success/workshops/templates):  A working group containing all CS Workshop Templates.
 
-1.  [SA Demo Catalog](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/demo-catalog):  Demo Archive of SA Demo's which can be reused or repurposed for your demos
+1.  [SA Demo Catalog](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/demo-catalog):  Demo Archive of SA Demo's which can be reused or repurposed for your demos.
     
 
-## Proof of Value (POV) aka POC’s
+## Proof of Value (POV), aka POC’s
 {: .gitlab-purple}
 
 1.  Here’s the [handbook page](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/) for conducting POVs
