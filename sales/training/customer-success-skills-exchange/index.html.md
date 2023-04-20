@@ -39,14 +39,15 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |   
-| 2023-04-05 | **[Education Services AMA](https://youtu.be/IKKkvQu73Ls)** | Public |
-| 2023-03-21 | **[Value Pillar Messaging](https://youtu.be/mLmvBpvAT00)** | Public |                        
-| 2022-12-07 | **[GitOps Overview and Demo - Session 2](https://www.youtube.com/watch?v=_DMdSHIfQYI)** | Public |  
-| 2022-12-06 | **[GitOps Overview and Demo - Session 1](https://www.youtube.com/watch?v=fKTwNhSHcJw)** | Public | 
-| 2022-11-30 | **[Buyer Persona AMA](https://youtu.be/AdgiCCRo7LE)** | Public | 
-| 2022-10-19 | **[Turning Customers into Contributors](https://youtu.be/Z_uRqfHIYlQ)** | Public | 
-| 2022-10-11 | **[DORA](https://www.youtube.com/watch?v=WueBXydQpzg)** | Public | 
-| 2022-07-27 | **[ModelOps Technical Session](https://youtu.be/1SXPqTh9tnE)** | Public |  
+| 2023-04-19 | **[Indicators for Scaling GitLab](https://youtu.be/-JMTTrK3mLI)** | Private | 
+| 2023-04-05 | **[Education Services AMA](https://youtu.be/IKKkvQu73Ls)** | Private |
+| 2023-03-21 | **[Value Pillar Messaging](https://youtu.be/mLmvBpvAT00)** | Private |                        
+| 2022-12-07 | **[GitOps Overview and Demo - Session 2](https://www.youtube.com/watch?v=_DMdSHIfQYI)** | Private |  
+| 2022-12-06 | **[GitOps Overview and Demo - Session 1](https://www.youtube.com/watch?v=fKTwNhSHcJw)** | Private | 
+| 2022-11-30 | **[Buyer Persona AMA](https://youtu.be/AdgiCCRo7LE)** | Private | 
+| 2022-10-19 | **[Turning Customers into Contributors](https://youtu.be/Z_uRqfHIYlQ)** | Private | 
+| 2022-10-11 | **[DORA](https://www.youtube.com/watch?v=WueBXydQpzg)** | Private | 
+| 2022-07-27 | **[ModelOps Technical Session](https://youtu.be/1SXPqTh9tnE)** | Private |  
 | 2022-06-15 | **[GitLab 15](https://youtu.be/8LR2lX_Mxd8)** | Public | 
 | 2022-06-01 | **[How to use ‘GitLab Kubernetes Agent Working Examples for Training and Demos’](https://youtu.be/RGs65Zi-Tno)** | Public | 
 | 2022-05-18 | **Canceled** | N/A |
