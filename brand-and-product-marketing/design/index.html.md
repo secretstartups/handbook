@@ -94,6 +94,10 @@ In the past we have accomodated internal team logo requests, typically in the fo
 
 If your team works on a larger initiative, please refer to our [program lockup guidelines](https://design.gitlab.com/brand-logo/branded-lockups#program-lockups). These lockups should be used in conjunction with the GitLab logo and branding. If you are unsure if your program or initiative requires a lockup, please [contact the Brand Design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team).
 
+#### Team member resource group (TMRG) requests
+
+We take a unique, creative approach specifically for [TMRGs](https://about.gitlab.com/company/culture/inclusion/erg-guide/#definition-of-the-tmrg---team-member-resource-groups). In lieu of custom logos for the groups, our team delivers expressive art that can be used for swag and other requested collateral. TMRGs are an essential part of our company's culture, and we tailor the graphics to capture each group's essence and values. TMRG graphics should always be paired with the GitLab logo and incorporate the TMRG name in plain text. All art should lean on the foundations of our [core branding](https://design.gitlab.com/brand/overview).
+
 ## How we work
 
 ### Team structure
