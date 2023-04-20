@@ -19,11 +19,6 @@ Our brand is the embodiment of our [mission](/company/mission/#mission), [vision
 GitLab's official Brand guidelines can be found at **[design.gitlab.com](https://design.gitlab.com/brand/overview)** under the `Brand` tab. These guidelines should be applied to all marketing materials, including, but not limited to: digital ads, events, publications, merchandise, etc. 
 
 
-### Brand oversight
-
-Occasionally the [old GitLab logo](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/gitlab-brand-files/gitlab-logo-files/full-color/solid-logo/png/gitlab-logo-gray-rgb.png) is still in use on partner websites, diagrams or images, and within our own documentation. If you come across our old logo in use, please bring it to our attention by creating an issue in the [Marketing](https://gitlab.com/gitlab-com/marketing/general/issues) issue tracker. Please include a link and screenshot (if possible) in the description of the issue and we will follow-up to get it updated. Thanks for contributing to our brand integrity!
-
-
 ## Brand expressions vs sub-brands
 
 `Brand expressions` and `sub-brands` are extensions of our core brand. They are both governed by our [brand guidelines](https://design.gitlab.com/brand/overview), but take on additional creative elements that complement the core branding. Brand expressions help distinguish projects and initiatives that directly promote either the company or the product. Sub-brands are used to classify GitLab programs that bring awareness to topics that extend beyond the company and product.
