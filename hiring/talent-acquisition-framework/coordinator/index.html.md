@@ -89,9 +89,27 @@ To schedule a technical interview, CES should follow the process outlined below:
 
 #### Executive Interview Scheduling
 
-The process for scheduling executive interviews should always be followed from [here](https://about.gitlab.com/handbook/eba/#interview-requests-with-executives).
+The process below outlines the steps to be followed by the CES team in scheduling executive interviews while partnering with the Executive Business Administrator(EBA) team and executive recruiters. The Candidate Experience team and EBA team will adhere to a 24 hour working day SLA response time for scheduling interviews. Interview requests coming from Executive recruiters are to be scheduled in the executive calendar only.
 
-If you have any questions about the process, please post in #eba-team Slack channel and @ mention the correct EBA. You should include a link to the #eba-team Slack channel thread in your issue so you know where to find updates.
+1. The CES desk receives the scheduling ticket from the recruiter.
+- CES refers to the EBA cheat sheet doc for executive interviewer preferences and contacts the respective EBA with interview details in the #EBA-team-interview-requests channel.
+1. CES adds the “Pending EBA label” to the ticket and the link to the EBA slack conversation in the scheduling ticket while awaiting response.
+  
+ **Note: Follow up SLA is 24 hours to check for time conflicts delaying scheduling. If the times do not match, CES may contact the candidate 
+   requesting more availability or suggest some times that works for the interviewer.**
+1. Once the EBA confirms the best time and date for the interview. CES sends the interview confirmation email through Guide to the candidate.
+
+  **The email template used for the first time interview confirmation  - First Time Single Executive interview. Please use the "Updated Interview" or "Single Interview" email templates in Guide once the candidate progresses to the next level in the interview plan.**
+1. CES will schedule the interview through Prelude & send the calendar invite to the interviewer. Make sure the invite is always marked private.
+1. CES notifies EBA of scheduled interviews in the original slack message with a check mark emoji and close the ticket.
+
+This process not only applies to executive requisitions, but any reqs or interviews that include executive team members supported by EBAs. Please note that not every executive team member has EBA support and they may be scheduled directly in Prelude following the usual CES scheduling [process](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/#team-interviews).
+
+**Note:**
+
+- If the candidate needs to reschedule, notify the appropriate EBA in the slack channel and share the candidate's updated availability and greenhouse profile.
+
+- The EBA and CES team will communicate any interview changes or concerns in the slack channel. Other requests such as flagging an offer, completing an interview scorecard, or regarding the executive's schedule may be communicated in this channel as well.
 
 #### CES Slack Channel 
 
