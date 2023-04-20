@@ -42,5 +42,22 @@ methods available to them:
 ## Escalations
 
 In rare events when an issue requires escalation, GitLab Support provides 
-Alliance Partners with a personalized escalation form. Upon submission
-of the form, the system can notify an appropriate GitLab Support Manager.
+Alliance Partners with a personalized Slack workflow form that will trigger
+an escalation on.
+
+The Slack workflow form asks for the following information:
+
+* **What is the request ID or case number?**
+  * This should be either the GitLab ticket ID or the Alliance Partner's case
+    number (e.g. `123456` or `T123456789`). Only those values should be entered
+    (omit any number signs or other text)
+* **What is the reason for escalation?**
+  * This is the reason the escalation is being requested.
+* **What actions would you like done?**
+  * This is the desired end result you would like to see from the escalation.
+
+This form will locate the ticket and trigger a
+[STAR](../partnerships/alliance.html) on the ticket/case.
+
+**Note** This process is also what is used in the case an emergency needs to be
+filed.
