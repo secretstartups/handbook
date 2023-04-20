@@ -725,6 +725,14 @@ If GCP or AWS support a deal and help drive the customer to buy GitLab, but were
    - Invoice Owner Contact = Accounts Payable (AWS) 
    - Resale Partner = Amazon Web Services
 
+### Opportunity Tagging for Carahsoft Distributor Seller of Record (DSOR) AWS Marketplace Transactions
+
+Carahsoft’s DSOR (Distributor Seller of Record) Program is a partner program designed to provide ISV clients a 2-Tier channel enablement in expanding their business growth through the AWS Marketplace. Under the program, Carahsoft would list GitLab's products on AWS Marketplace and drive the private offer selling motion. Carahsoft develops the selling opportunity and authorizes the Consulting Partner within the AWS Marketplace to release a private offer to the customer. 
+
+For deals transacting through the Carahsoft DSOR program, the quote should reflect a normal two-tier channel transaction where the `Distributor` = "Carahsoft Technology Corporation" and `Resale Partner` = the reseller working the opportunity. For more information/instructions on quoting two-tier distribution deals, please refer to [this Deal Desk handbook section](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#distributor-quotes). 
+
+To recognize and properly compensate these transactions, please ensure the `CPPO or DSOR Partner` field = "Amazon Web Services" on the opportunity record. Please chatter Chris Novello or Pilar Meija on your DSOR opportunity so they can review the opportunity and update the `CPPO or DSOR Partner` field.
+
 ### Marketplace Transaction Fees
 Deals booked through the Amazon and Google markeplaces use the fee schedules as shown in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=kix.16z0a5v6j1e2).
 
