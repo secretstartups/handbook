@@ -59,7 +59,7 @@ If the team member desires financial assistance to purchase the hardware, the Co
 
 ### GitLab Laptop Refreshes for Team Members
 
-Team member Laptops can be refreshed after 3 years (of use!) without question. Everyone's needs are different so it is hard to set a clear timeline of when computer upgrades are necessary for all team-members, but team-members become eligible for an updated laptop after 3 years. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) than manager approval will be required before IT can purchase the replacement laptop. If you qualify/complete a laptop refresh, please also refer to our [Laptop Buy back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) below. 
+Team member Laptops can be refreshed after 3 years (of use!) without question. Everyone's needs are different so it is hard to set a clear timeline of when computer upgrades are necessary for all team-members, but team-members become eligible for an updated laptop after 3 years. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) then manager and [Michael Beltran's](https://about.gitlab.com/company/team/#mbeee)/[Rob Rea's](https://about.gitlab.com/company/team/#rrea1) approval  will be required before IT can purchase the replacement laptop. If you qualify/complete a laptop refresh, please also refer to our [Laptop Buy back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) below. 
 
 Laptops being requested as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
 
@@ -104,7 +104,8 @@ If you are a hiring manager or member of the hiring/recruiting team, you may che
 Estimated Delivery Timelines for Gitlab Hardware
 
 - US New Hires - 1-2 weeks (Apple M1 Max Model) and 3-5 weeks (Linux)
-- Non-US New Hires - 2-3 weeks (Apple) and 6-9 weeks (Linux)
+- EMEA New Hires - 1-2 weeks (Apple M1 Max Model) and 3-5 weeks (Linux)
+- Other Regions - 2-3 weeks (Apple) and 6-9 weeks (Linux)
 
 ### Key Performance Indicators
 
