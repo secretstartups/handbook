@@ -32,11 +32,11 @@ The [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) will random
 
 #### Community contributions
 
-Community submitted MRs require more context to review and are assigned to the design DRI of the group it impacts. All UX-related community contributions will generate a Slack message in the `#ux-community-contributions` channel and will be manually assigned until we automate the process.
+Community submitted MRs require more context to review and are assigned to the design DRI of the group it impacts ([What if a team doesn't have a designer?](#what-if-a-team-doesnt-have-a-designer)). All UX-related community contributions will generate a Slack message in the `#ux-community-contributions` channel and will be manually assigned until we automate the process.
 
 #### Single engineering group MRs
 
-Single Engineer Group (SEG) MRs often require more active collaboration and additional context on the work. UX-related MRs created from a SEG should be reviewed by the design DRI of the group it impacts. 
+Single Engineer Group (SEG) MRs often require more active collaboration and additional context on the work. UX-related MRs created from a SEG should be reviewed by the design DRI of the group it impacts ([What if a team doesn't have a designer?](#what-if-a-team-doesnt-have-a-designer)).
 
 #### UX Paper Cuts MRs
 
@@ -44,7 +44,9 @@ MRs created by the UX Paper Cuts team will be handled by the UX Paper Cuts team.
 
 #### What if a team doesn't have a designer?
 
-See the [Product Processes](/handbook/product/product-processes/#user-experience-ux) page for more information.
+In cases where there is no design DRI to review the MR, you can assign it to [Pedro Moreira da Silva](https://about.gitlab.com/company/team/#pedroms) (`@pedroms`), who's covering for teams without a designer.
+
+For general guidance for teams without a designer, see [Product Processes](/handbook/product/product-processes/#what-if-your-team-doesnt-have-a-designer).
 
 ### Benefits
 
