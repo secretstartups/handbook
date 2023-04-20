@@ -151,3 +151,7 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 - Steve Ladgrove - [appointment schedule](https://calendar.app.google/sno1aJBB9YhQUHXh8) - APAC
 
 - Max Hirata - [appointment schedule](https://calendar.app.google/CMK6dKUN2otv1wsWA) - APAC
+
+- Bruno Ferreira - [appointment schedule](https://calendar.app.google/zKj8AH9c8VmAcYX48) - EMEA
+
+- Eoghan Dunne - [appointment schedule](https://calendar.app.google/BXECy3uLpUKdNbHe6) - EMEA
