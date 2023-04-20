@@ -168,7 +168,7 @@ No, not at this time.
 | May 1      |  Available | |
 | May 8      |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com) |
 | May 15     |  [Jeremy Neff](https://www.linkedin.com/in/jeremy-r-neff/) | Non-GitLab shadow - Manager at [Joint Communications Unit](https://www.jcu.mil/) |
-| May 22     |  Available | |
+| May 23 - May 25     |  [Alexander Chueshev](https://gitlab.com/achueshev) | Senior Backend Developer at ModelOps, AI Assisted |
 | May 29     |  Available | |
 | June 5     |  Available | |
 | June 12    |  Available | |
