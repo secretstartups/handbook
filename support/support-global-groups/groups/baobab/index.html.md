@@ -98,7 +98,7 @@ In case you need to change or reschedule your focus time, please notify your reg
 | Niklas |
 | Julius |
 | Paul |
-| Olivier |
+| Olivier | 7:00 - 11:00 AM|||||
 
 **AMER Focus Time:** 
 
