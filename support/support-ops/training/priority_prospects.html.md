@@ -165,7 +165,9 @@ After all this done, let the requester know this has now been setup:
 > This has been setup at this time. It is set to expire `DATE`.
 >
 > /label ~"SupportOps::Completed"
+> 
 > /spend TIME
+> 
 > /close
 
 Replacing:
