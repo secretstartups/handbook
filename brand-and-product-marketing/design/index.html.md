@@ -79,6 +79,15 @@ The best way to get in contact with the Brand design team is to fill out one of 
 - @-mention individuals from the team in GitLab issues and epics
 - Ask your question in the #marketing-design Slack channel
 
+#### Team logo requests
+
+In the past we have accomodated internal team logo requests, typically in the form of customized tanukis. As our company grows, this approach is not scalable for the Brand Design team. Additionally, altering the logo or using too many logos diminishes the integrity of our brand identity and dilutes our brand awareness. We understand the desire for teams within GitLab to have their own identity, but this should not be prioritized over the business value that comes from preserving our core branding. For this reason, all designs should complement and adhere to our brand guidelines. 
+
+If your team works on a larger initiative, please refer to our [program lockup guidelines](https://design.gitlab.com/brand-logo/branded-lockups#program-lockups). These lockups should be used in conjunction with the GitLab logo and branding. If you are unsure if your program or initiative requires a lockup, please [contact the Brand Design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team).
+
+### Working with the brand
+To learn more about our [Brand Guidelines](https://design.gitlab.com/brand/overview?_gl=1%2a19y18w7%2a_ga%2aNzk5NDI4OTg0LjE2ODA4MDA5Nzk.%2a_ga_ENFH3X7M5Y%2aMTY4MjAyMjM3Ni4xMS4xLjE2ODIwMjI5MDUuMC4wLjA.), self-service resources and assets, and training materials, check out the [Brand Resources](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#brand-resources) handbook. Below you will find more details about working with our brand and creative materials. 
+
 #### Partnership with third parties
 
 In certain cases, the help of a third party agency or design partner may be brought in for a project. The following serves as criteria for when to outsource design:
@@ -88,15 +97,45 @@ In certain cases, the help of a third party agency or design partner may be brou
 
 Whenever a third party is brought in to support design, the work must be shared with the Brand Design team to ensure brand integrity and that we are [working transparently](/handbook/values/#transparency) with one another.
 
-#### Team logo requests
+#### Brand oversight
 
-In the past we have accomodated internal team logo requests, typically in the form of customized tanukis. As our company grows, this approach is not scalable for the Brand Design team. Additionally, altering the logo or using too many logos diminishes the integrity of our brand identity and dilutes our brand awareness. We understand the desire for teams within GitLab to have their own identity, but this should not be prioritized over the business value that comes from preserving our core branding. For this reason, all designs should complement and adhere to our brand guidelines. 
+Occasionally the [old GitLab logo](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/gitlab-brand-files/gitlab-logo-files/full-color/solid-logo/png/gitlab-logo-gray-rgb.png) is still in use on partner websites, diagrams or images, and within our own documentation. If you come across our old logo in use, please bring it to our attention by creating an issue in the [Marketing](https://gitlab.com/gitlab-com/marketing/general/issues) issue tracker. Please include a link and screenshot (if possible) in the description of the issue and we will follow-up to get it updated. Thanks for contributing to our brand integrity!
 
-If your team works on a larger initiative, please refer to our [program lockup guidelines](https://design.gitlab.com/brand-logo/branded-lockups#program-lockups). These lockups should be used in conjunction with the GitLab logo and branding. If you are unsure if your program or initiative requires a lockup, please [contact the Brand Design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team).
+#### Fanart
+
+The GitLab brand has been a source of creative inspiration for team members and the wider community since its inception. In many cases, team members may find themselves creating spinoff art inspired by our [values](https://about.gitlab.com/handbook/values/), [software](https://about.gitlab.com/stages-devops-lifecycle/), and [tanuki](https://design.gitlab.com/brand-logo/logomark) logo. 
+
+Artwork that draws inspiration from or is based on GitLab’s intellectual property (“Fanart”) is not always an accurate representation of our brand, product, and company, and may dilute our brand or infringe on our intellectual property rights. To protect our brand, GitLab team members must adhere to the following guidelines:
+
+**Do’s:**
+
+- Add an “unofficial fanart” label to the Fanart to clarify that the content is not official GitLab content. The text can be small, but make sure it’s conspicuous enough that anyone seeing the Fanart will also notice the label. 
+- Only share Fanart you are authorized to share, e.g. Fanart that you yourself have created. If in doubt, please reach out to the Legal team via the #legal Slack channel.
+- Share only on the following approved platforms: 
+   - Internal GitLab Slack channels and private messages to friends.
+   - You can share publicly to broader audiences from your personal social media accounts on Facebook, Twitter, Instagram, TikTok, or Reddit.
+- For “public” shares:
+   - LinkedIn sharing is prohibited due to the close association between one’s personal LinkedIn profile and their workplace.
+   - If you want to share Fanart publicly on any other platform not mentioned above, reach out in the `#brand` Slack channel to discuss.
+
+**Don’ts:**
+
+- Do not create or share Fanart that uses the GitLab logo or wordmark.
+   - If your Fanart incorporates any other GitLab IP (e.g., screenshots, likenesses, or imagery taken directly from GitLab materials), reach out to #brand for review.  
+- Do not imply that the Fanart is official GitLab content. For example:
+   - Do not use Fanart in any GitLab materials, such as slide decks, printed collateral, or swag.
+   - Don’t use or distribute Fanart to Gitlab customers, or at events that you attend on GitLab’s behalf.
+- Do not sell or otherwise use Fanart for commercial purposes. For example:
+   - Do not sell Fanart stickers or T-shirts.
+   - Don’t use Fanart to advertise any businesses, services, or products.
+- Do not create or share any Fanart that is potentially offensive or otherwise detrimental to GitLab’s brand or any other brand.
+- Do not combine Fanart with other companies’ materials or anything else unrelated to GitLab.
+
+If you have questions, reach out to the Brand Design and Brand Strategy teams via the `#brand` Slack channel.
 
 ## How we work
 
-### Team structure
+### Brand Design team structure
 
 We are all brand designers, brand champions, critically thinking problem solvers, strategists, and teammates – leveraging each others' strengths while growing our collective knowledge and expertise. We work by following GitLab’s [values](https://about.gitlab.com/handbook/values/) and using issues and epics to track our work. 
 
@@ -112,7 +151,7 @@ FigJam (for brainstorming), Canva (for creating self-service assets), and the Go
 (for company-wide materials). 
 
 #### Design approvals
-The team should feel empowered to make the best decisions possible for the GitLab brand while seeking structured and direct feedback from the team as often as possible. Adam and Luke are here to make final decisions as needed, but do not need to be the bottleneck of progress.
+The team should feel empowered to make the best decisions possible for the GitLab brand while seeking both structured and direct feedback from the team as often as possible. Adam and Luke are here to make final decisions as needed, but do not need to be the bottleneck of progress.
 
 ### Team workflow 
 
