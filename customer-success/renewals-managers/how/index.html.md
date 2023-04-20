@@ -22,9 +22,6 @@ Renewals Managers --> visit the internal handbook [page](https://internal-handbo
 # Execution: Establishing fundamental excellence 
 Renewals managers (RMs) execute a series of activities across a specifically defined customer renewal lifecycle. These activities are both internal and customer facing. We seek excellence in performing the fundamental tasks of renewals management.
 
-<details>
-<summary markdown="span"><b>Understanding the renewals lifecycle</b></summary>
-
 ## Renewals lifecycle
 The renewals team organizes it's coverage of a customer subscriptions around particular key stages during a customers journey through the renewal process. During each stage we prescribe specific activities that encourage renewals managers to deliver distinct, stage relevant customer outcomes.
 
@@ -41,10 +38,6 @@ The renewals team organizes it's coverage of a customer subscriptions around par
 | Month 12   | 8. Signing     | Signatures on quote, PO raised/sent (when necessary)                         |
 | Month 12   | 9. Closed Won  | Entitled, shown gratitude, and equipped for day zero success                  |
 
-</details>
-
-<details>
-<summary markdown="span"><b>Understanding opportunity tiering</b></summary>
 
 ## Opportunity Tiering
 Renewals managers cover every opportunity that is in their assigned region, however, that coverage is dependent on the opportunity "tier". The tier describes the ownership of the renewal opportunity. Tiers are autopopulated for new opportunities using the tier table schema. Each Renewals Manager is responsible for collaborating with their team of Account Executives to calibrate their specific book of business with the correct tiering for each opportunity. Calibration occurs annually, and after that period, changes to tiering require manager approval. 
@@ -60,11 +53,6 @@ Renewals managers cover every opportunity that is in their assigned region, howe
 
 Note that any changes to the Renewal Ownership (Tier) field within the current Fiscal Year must be submitted by the Renewals Manager or Account Executive and approved by the Manager, Renewals via Chatter on the Opportunity record. 
 
-<details>
-
-
-<details>
-<summary markdown="span"><b>Understanding renewals activity by tier</b></summary>
 
 ## Renewal opportunity activities - by tier 
 The following activities are recommended for each Renewals Manager as a baseline for engagement with a customer throughout their subscription journey. This framework is flexible, and ultimately every Renewals Manager must us their discretion to discern which activities make sense for their customer's experience. 
@@ -96,7 +84,6 @@ The following activities are recommended for each Renewals Manager as a baseline
 | W  | 0,1,2 | Signing       | Internal        | Prep and submit opp for booking | Prepare opportunity for booking, submit                                                                                       |
 | X  | 0,1,2 | Closed Won    | Email           | Close email w/ gratitude, instructions | Email customer with gratitude and something unique to GitLab (moniker, closing stats - i.e. we did this in 8 touches, better than our benchmark of 10, etc.) |
 
-<details>
 
 # Renewals policies
 To build and maintain an efficient, fair, and high impact renewals organization, we have adopted the following policies and processes to describe our engagement with field sales, partners and customers. 
