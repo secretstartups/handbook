@@ -68,29 +68,112 @@ _last updated: April 2023_
 | Question | Banner Notification | CLI | 
 | ------------- | --------------------- | ------------------- |
 | **What are we showing?** | In-app banner notifications that can be seen throughout the GitLab product.  | Command line interface notifications about storage usage when MRs occur. If the push will send the project over the storage limit, a notification will appear. | 
-| **Is this live and being shown to customers today (as of Apr 20 2023)?** | Yes | Yes | 
 | **What type of enforcement scenario is this applicable?** | Project storage enforcement.  | Project storage enforcement. | 
-| **Who is seeing this?** | Only those with [owner_access](https://gitlab.com/gitlab-org/gitlab/-/blob/cbbd6bfdc5a8c357df8591dd599bc22c908e1632/ee/app/models/ee/namespace/storage/notification.rb#L56-62).  | Anyone using the CLI.  | 
+| **Is this live and being shown to customers today (as of Apr 20 2023)?** | Yes | Yes | 
+| **When will we stop showing these notifications?** | When we roll out `Group Namespace Storage Enforcement` for the `Free` and then later `Paid` tiers | When we roll out `Group Namespace Storage Enforcement` for the `Free` and then later `Paid` tiers  | 
+| **Who is seeing this?** | [Owners and non-owners](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114960#note_1361204113) ~~Only those with [owner_access](https://gitlab.com/gitlab-org/gitlab/-/blob/cbbd6bfdc5a8c357df8591dd599bc22c908e1632/ee/app/models/ee/namespace/storage/notification.rb#L56-62).~~  | Anyone using the CLI.  | 
 | **When are we showing this?** | Customers who have used `75%+` of their allotted storage, will recieve warning messages. When a customer has gone above their allotted storage amount `100%+`, they will recieve a notification that their project is in a read-only state. | Customers who have used `x%` (`needs to be verified`) of their allotted storage, will recieve warning messages. When a customer has gone above their allotted storage amount `100%+`, they will recieve a notification that their MR has been rejected.  | 
 | **Links** | See [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/371674) and [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079)  | 
-| **Example Screenshots** |  |  | 
+
+<details>
+<summary markdown="span"><b>Banner Notification Example Screenshots </b></summary>
+
+**User is approaching free tier limit in one of the projects** -- we don't notify at this stage
+      
+**Project over free tier limit and no purchased storage**
+
+OWNER
+
+![test][/handbook/product/fulfillment-guide/image.png]
+
+NON-OWNER
+        
+      
+**Project over free tier limit; with purchased storage; under purchased limit**
+
+OWNER
+
+
+NON-OWNER
+        
+      
+**Project over free tier limit; with purchased storage; over purchased limit**
+
+OWNER
+
+
+NON-OWNER
+
+</details>
+
+
+<details>
+<summary markdown="span"><b>Email Notification Example Screenshots </b></summary>
+
+</details>
+
 
 #### Group Namespace Storage Enforcement
 
 **Purpose**: document what notifications customers can expect to see as part of the [group namespace storage enforcement project](https://about.gitlab.com/pricing/faq-paid-storage-transfer/).
 
 
-| Question | Banner Notification | CLI | Emails | 
-| ------------- | --------------------- | ------------------- |------------------- |
-| **What are we showing?** | In-app banner notifications that can be seen throughout the GitLab product.   | Command line interface notifications about storage usage when MRs occur. If the push will send the project over the storage limit, a notification will appear.  |  E-mails when customers are nearing group namespace storage limits and when they are over storage limits. | 
-| **Is this live and being shown to customers today (as of Apr 20 2023)?** | No | No | No  | 
-| **What type of enforcement scenario is this applicable?** | Group Namespace Storage Enforcement.  | Group Namespace Storage Enforcement. | Group Namespace Storage Enforcement.   | 
-| **Who is seeing this?** | At least those with [maintainer_access](https://gitlab.com/gitlab-org/gitlab/-/blob/cbbd6bfdc5a8c357df8591dd599bc22c908e1632/ee/app/models/ee/namespace/storage/notification.rb#L56-62) and greater.  | Anyone using the CLI.  | Namespace group owners.  | 
-| **When are we showing this?** | When group namespace storage enforcement begins, customers who have used `75%+` of their allotted storage, will recieve warning banners. When a customer has gone above their allotted storage amount `100%+`, they will recieve a banner informing of them that their instance is now in a read-only state. Note: we haven't enabled the feature flags on production, once we do all users should start see banners once the usage criteria is met.  | Customers who have used `x%` (`needs to be verified`) of their allotted storage, will recieve warning messages. When a customer has gone above their allotted storage amount `100%+`, they will recieve a notification that their MR has been rejected.  | When group namespace storage enforcement begins, customers who have used `70%`, `85%`, `95%` of their allotted storage, will recieve warning e-mails. When a customer has gone above their allotted storage amount `100%+`, they will recieve an e-mail informing of them that their instance is now in a read-only state and to purchase storage and/or decrease storage usage.  | 
-| **Special Notes** | [For dismissal](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/113523#note_1323268332): <br> - For now: can we allow for dismissal but have it re-appear ever 14 days <br> - For later / closer to enforcement: we make the banner non-dismissible   |  |   | 
-| **Links** | See [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387958) | (`needs to be verified`) |  See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114325) and [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383393)  | 
-| **Example Screenshots** |  |  |   | 
+| Question | Pre-Enforcement Banner Notification | Banner Notification | CLI | Emails | 
+| -------------| ------------- | --------------------- | ------------------- |------------------- |
+| **What are we showing?** | In-app banner notifications that can be seen throughout the GitLab product that let customers know that we will start enforcing storage limits soon. [They follow](https://gitlab.com/gitlab-org/gitlab/-/issues/387958#note_1322125225) customers around in all pages under `group`, `project`, and `user`. | In-app banner notifications that can be seen throughout the GitLab product that let customers know they are nearing their storage limits. [They follow](https://gitlab.com/gitlab-org/gitlab/-/issues/387958#note_1322125225) customers around in all pages under `group`, `project`, and `user`.   | Command line interface notifications about storage usage when MRs occur. If the push will send the project over the storage limit, a notification will appear.  |  E-mails when customers are nearing group namespace storage limits and when they are over storage limits. | 
+| **What type of enforcement scenario is this applicable?** | Group Namespace Storage Enforcement. | Group Namespace Storage Enforcement.  | Group Namespace Storage Enforcement. | Group Namespace Storage Enforcement.   | 
+| **Is this live and being shown to customers today (as of Apr 20 2023)?**| No | No | No | No  | 
+| **When will we stop showing these notifications?**| These will stop after we have rolled out storage enforcement to the `Free` tier. Note: we will then deploy them again when we do storage enforcement for the `Paid` Tier. | Never | Never | Never  | 
+| **Who is seeing this?** | [Owners and non-owners](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114960#note_1361204113) | [Owners and non-owners](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114960#note_1361204113)  | Anyone using the CLI.  | Namespace group owners.  | 
+| **When are we showing this?** | We are showing these starting 60 days in advance of `Free` tier storage enforcement. | When group namespace storage enforcement begins, customers who have used `75%+` of their allotted storage, will recieve warning banners. When a customer has gone above their allotted storage amount `100%+`, they will recieve a banner informing of them that their instance is now in a read-only state. Note: we haven't enabled the feature flags on production, once we do all users should start see banners once the usage criteria is met.  | Customers who have used `x%` (`needs to be verified`) of their allotted storage, will recieve warning messages. When a customer has gone above their allotted storage amount `100%+`, they will recieve a notification that their MR has been rejected.  | When group namespace storage enforcement begins, customers who have used `70%`, `85%`, `95%` of their allotted storage, will recieve warning e-mails. When a customer has gone above their allotted storage amount `100%+`, they will recieve an e-mail informing of them that their instance is now in a read-only state and to purchase storage and/or decrease storage usage.  | 
+| **Special Notes** | [For dismissal](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/113523#note_1323268332): <br> - For now: can we allow for dismissal but have it re-appear ever 14 days <br> - For later / closer to enforcement: we make the banner non-dismissible |   |  |   | 
+| **Links** | `needs to be added` | See [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387958) | `needs to be added` |  See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114325) and [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383393)  | 
 
+
+<details>
+<summary markdown="span"><b>Pre-Enforcement Banner Notification Example Screenshots </b></summary>
+
+
+</details>
+
+<details>
+<summary markdown="span"><b>Banner Notification Example Screenshots </b></summary>
+
+**Namespace over free tier limit and no purchased storage**
+
+OWNER
+
+
+NON-OWNER
+
+**Namespace storage; with or without purchased storage; under total limit**
+
+
+OWNER
+
+
+NON-OWNER
+
+**Namespace storage; with purchased storage; over total limit**
+
+OWNER
+
+
+NON-OWNER
+      
+
+</details>
+
+<details>
+<summary markdown="span"><b>CLI Notification Example Screenshots </b></summary>
+
+</details>
+
+
+<details>
+<summary markdown="span"><b>Email Notification Example Screenshots </b></summary>
+
+</details>
 
 ## User cap for groups on SaaS
 
