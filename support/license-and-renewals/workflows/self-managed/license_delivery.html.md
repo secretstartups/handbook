@@ -28,8 +28,8 @@ The license will be sent to the sold-to contact in Zuora with all sales ([code r
 #### Caveats
 
 1. Resending an activation code via the CustomersDot Admin uses the email address of the sold-to contact in Zuora.
-1. Resending a Legacy License or Offline Cloud License via the CustomersDot Admin uses the email set in the license **regardless of the sold-to contact in Zuora**.
-1. Forwarding a Legacy License or Offline Cloud License via the CustomersDot Admin uses the email entered in the field.
+1. Resending a legacy license or offline cloud license via the CustomersDot Admin uses the email set in the license **regardless of the sold-to contact in Zuora**.
+1. Forwarding an activation code, a legacy license or offline cloud license via the CustomersDot Admin uses the email entered in the `Destination email address` field.
 
 ### Check whether the license has been delivered
 

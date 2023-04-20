@@ -20,10 +20,6 @@ account.
 This process would also apply for requests to send a license to a different email
 than the one used on the purchasing account.
 
-#### Note about license recipient
-
-Cloud activation codes can be sent to the `Sold To` contact only ([open issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/648)). You must [update the Zuora Sold To contact](#zuora-contact-change-workflow) before resending it.
-
 ## Ownership verification
 
 First, we need **one** of the following in order to verify eligibility for the
@@ -120,7 +116,7 @@ Reseller customers **do not** have access to CustomersDot -- for such customers,
       to ensure their subscription is kept in sync with the linked GitLab group
    4. Once the customer updates their account on Customers Portal, confirm that the Sold To contact in the
       Zuora account matches the Customers Portal account.
-      Follow the [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update. [Note above](#note-about-license-recipient)
+      Follow the [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update.
 1. Otherwise, if they have access to the existing Customer Portal account owner's
    email address, guide them to:
    1. issue a [password reset](https://customers.gitlab.com/customers/password/new)
@@ -131,7 +127,7 @@ Reseller customers **do not** have access to CustomersDot -- for such customers,
       to ensure their subscription is kept in sync with the linked GitLab group
    4. Once the customer updates their account on Customers Portal, confirm that the Sold To contact in the
       Zuora account matches the Customers Portal account.
-      Follow the [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update. [Note above](#note-about-license-recipient)
+      Follow the [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update.
 
 ### Support assisted option
 
@@ -171,7 +167,7 @@ the requested ownership change:
    - On the CustomersDot account, navigate to the `Show` tab and confirm there is a value under `Uid`.
    - The `Uid` is the ID of a GitLab account which can be checked via the Users API `https://gitlab.com/api/v4/users/<Uid>`
 1. Trigger a [password reset](https://customers.gitlab.com/customers/password/new) to the new email, and for SaaS, to link their GitLab.com account.
-1. Follow the [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update. [Note above](#note-about-license-recipient)
+1. Follow the [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update.
 
 ## Zuora contact change workflow
 
