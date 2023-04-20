@@ -14,7 +14,7 @@ title: Product Data Insights
 
 The Product Data Insights (formerly known as "Product Analysis") group consists of a team of 
 product analysts. This group reports to the Senior Director, Product Monetization and serves 
-as a specialized analytics team to support the GitLab Product division and product data-related 
+as a functional analytics team to support the GitLab Product division and product data-related 
 analysis across GitLab.
 
 In addition to supporting the Product division, the Product Data Insights team is an active 
@@ -28,12 +28,17 @@ Read more about what we do at GitLab on our [Direction](/direction/product-analy
 ### Team members
 {:.no_toc}
 
-* [Carolyn Braza](/company/team/#cbraza): [Senior Manager, Product Data Insights](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-manager-product-data-insights)
-* [Dave Peterson](/company/team/#dpeterson1): [Staff Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#staff-product-analyst)
-* [Matthew Petersen](/company/team/#matthewpetersen): [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst)
-* [Nicole Hervas](/company/team/#nhervas): [Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#product-analyst-intermediate)
-* [Neil Raisinghani](/company/team/#nraisinghani): [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst)
-* [Emma Neuberger](/company/team/#eneuberger): [Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#product-analyst-intermediate)
+Product Data Insights is a small (but mighty) team. In order to support the Product division, 
+each analyst is assigned to one or more sections or teams to support.
+
+| Name | Title | Product Section or Team |
+| --- | --- | --- |
+| [Carolyn Braza](/company/team/#cbraza) | [Senior Manager, Product Data Insights](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-manager-product-data-insights) | [Analytics](/handbook/product/categories/#analytics-section) |
+| [Nicole Hervas](/company/team/#nhervas) | [Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#product-analyst-intermediate) | [Ops](/handbook/product/categories/#ops-section) |
+| [Emma Neuberger](/company/team/#eneuberger) | [Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#product-analyst-intermediate) | [Growth](/handbook/product/categories/#growth-section), [Enablement](/handbook/product/categories/#enablement-section), [SaaS Platforms](/handbook/product/categories/#saas-platforms-section) |
+| [Matthew Petersen](/company/team/#matthewpetersen) | [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst) | [Dev](/handbook/product/categories/#dev-section) |
+| [Dave Peterson](/company/team/#dpeterson1) | [Staff Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#staff-product-analyst) | [Sec](/handbook/product/categories/#sec-section) |
+| [Neil Raisinghani](/company/team/#nraisinghani) | [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst) | [Fulfillment](/handbook/product/categories/#fulfillment-section), [Pricing](https://internal-handbook.gitlab.io/handbook/product/pricing/) |
 
 ## Handbook contents
 
