@@ -15,4 +15,4 @@ This page is used to how GitLab IT `How To Articles` to provide a quick and easy
 
 ## Applications
 
-- [Google Workspace](/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace)
+- [Google Workspace](/handbook/business-technology/end-user-services/how-to-articles/google-workspace)

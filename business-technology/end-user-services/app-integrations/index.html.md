@@ -26,6 +26,6 @@ Once the [vendor approval issue](https://gitlab.com/gitlab-com/Finance-Division/
 
 ### Adding an app/plugin to other systems owned by Team Member Enablement/Business Technology
 
-If you need to add an app/plugin that connects with other systems owned by IT (not Slack), please create an issue in the [Team Member Enablement Issue tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=App_Integration) and follow the steps outlined there. 
+If you need to add an app/plugin that connects with other systems owned by IT (not Slack), please create an issue in the [End User Services Issue tracker](https://gitlab.com/gitlab-com/it/end-user-services/issues/it-help-issue-tracker/-/issues/new?issuable_template=App_Integration) and follow the steps outlined there. 
 
 

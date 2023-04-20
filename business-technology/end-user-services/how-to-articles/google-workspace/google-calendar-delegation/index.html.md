@@ -29,15 +29,15 @@ There are different [Levels of Permissions](https://support.google.com/a/users/a
 1. Select your calendar under the `Settings for my calendars`
 
 1. Under your calendar settings drop down menu select `Share with specific people`<br>
-   <img src="/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace/google-calendar-delegation/google_calendar_settings.png" alt="Google Calendar Settings" width="200"/><br>
+   <img src="/handbook/business-technology/end-user-services/how-to-articles/google-workspace/google-calendar-delegation/google_calendar_settings.png" alt="Google Calendar Settings" width="200"/><br>
 
 1. Select `+ Add People`
 
 1. Add the email addresses of the individual to share your calendar with.<br>
-   <img src="/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace/google-calendar-delegation/google_calendar_settings_share.png" alt="Google Calendar Settings Share" width="400"/><br>
+   <img src="/handbook/business-technology/end-user-services/how-to-articles/google-workspace/google-calendar-delegation/google_calendar_settings_share.png" alt="Google Calendar Settings Share" width="400"/><br>
 
 1. Select the `Permissions` drop down menu and give the individual the appropriate access. Please refer to [Calendar Permission Levels](#calendar-permission-levels)<br>
-   <img src="/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace/google-calendar-delegation/google_calendar_settings_share_permissions.png" alt="Google Calendar Settings Share Permissions" width="400"/><br>
+   <img src="/handbook/business-technology/end-user-services/how-to-articles/google-workspace/google-calendar-delegation/google_calendar_settings_share_permissions.png" alt="Google Calendar Settings Share Permissions" width="400"/><br>
 
 1. Select `Send`
 
@@ -59,10 +59,10 @@ There are different [Levels of Permissions](https://support.google.com/a/users/a
 1. Log into `calendar.google.com` with your GitLab email address
 
 1. On the left-hand side menu bar navigate to `Other calendars` and click on the `+` symbol to `Subscribe to calendar`<br>
-   <img src="/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace/google-calendar-delegation/google_calendar_add_other_calendars.png" alt="Google Calendar Add Other Calendars" width="300"/>
+   <img src="/handbook/business-technology/end-user-services/how-to-articles/google-workspace/google-calendar-delegation/google_calendar_add_other_calendars.png" alt="Google Calendar Add Other Calendars" width="300"/>
 
 1. Search for the team member whose calendar you want to subscribe to<br>
-   <img src="/handbook/business-technology/team-member-enablement/how-to-articles/google-workspace/google-calendar-delegation/google_calendar_add_calendar.png" alt="Google Calendar Add Calendar" width="300"/>
+   <img src="/handbook/business-technology/end-user-services/how-to-articles/google-workspace/google-calendar-delegation/google_calendar_add_calendar.png" alt="Google Calendar Add Calendar" width="300"/>
 
 1. Now when you go back to your calendar you will see the team members calendar under `My calendars`
 

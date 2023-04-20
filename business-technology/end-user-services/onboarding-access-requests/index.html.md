@@ -59,15 +59,15 @@ If the team member desires financial assistance to purchase the hardware, the Co
 
 ### GitLab Laptop Refreshes for Team Members
 
-Team member Laptops can be refreshed after 3 years (of use!) without question. Everyone's needs are different so it is hard to set a clear timeline of when computer upgrades are necessary for all team-members, but team-members become eligible for an updated laptop after 3 years. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) then manager and [Michael Beltran's](https://about.gitlab.com/company/team/#mbeee)/[Rob Rea's](https://about.gitlab.com/company/team/#rrea1) approval  will be required before IT can purchase the replacement laptop. If you qualify/complete a laptop refresh, please also refer to our [Laptop Buy back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) below. 
+Team member Laptops can be refreshed after 3 years (of use!) without question. Everyone's needs are different so it is hard to set a clear timeline of when computer upgrades are necessary for all team-members, but team-members become eligible for an updated laptop after 3 years. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/end-user-services/onboarding-access-requests/#apple-hardware) than manager approval will be required before IT can purchase the replacement laptop. If you qualify/complete a laptop refresh, please also refer to our [Laptop Buy back Policy](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) below. 
 
-Laptops being requested as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
+Laptops being requested as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/end-user-services/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
 
 ### GitLab Laptop Replacement Program
 
 We get it, sometimes things happen! If you laptop is broken or not sufficient for your role you can request a replacement laptop if you do not qualify for the 3 year refresh yet. 
 
-Replacement laptops for broken GitLab laptops can be requested as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the Team member Enablement issue tracker project. Please describe the reason for your replacement in the issue. (i.e my screen and battery are damaged,) also please note replacements will require your managers approval in the issue. 
+Replacement laptops for broken GitLab laptops can be requested as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/end-user-services/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the End User Services issue tracker project. Please describe the reason for your replacement in the issue. (i.e., my screen and battery are damaged) also, please note replacements will require your manager's approval in the issue. 
 
 Many team members can use their company issued laptop until it breaks. If your productivity is suffering, you can request a new laptop. The typical expected timeframe for this is about three years, but it can depend on your usage and specific laptop. 
 
@@ -82,24 +82,24 @@ If your laptop is broken and needs to be repaired you can take it into an Apple 
 
 If the repair is not going to be too expensive (more than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
 
-You must open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval. Please make sure to attach/include any estimates or reciepts for the repair that you got from Apple (or any authorized service center) in the issue. Picture or PDF will work just fine.
+You must open an issue in the [End User Services Issue Tracker](https://gitlab.com/gitlab-com/business-technology/end-user-services/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval. Please make sure to attach/include any estimates or receipts for the repair that you got from Apple (or any authorized service center) in the issue. Picture or PDF will work just fine.
 
 Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
 
-Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [Jamf for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe). Also, ensure that you have installed [SentinelOne](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#endpoint-management-technologies) in order to keep your laptop secure.
+Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [Jamf for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#fleet-intelligence--remote-lockwipe). Also, ensure that you have installed [SentinelOne](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/#endpoint-management-technologies) in order to keep your laptop secure.
 
 If, however, the repair is going to be expensive and take weeks to fix and you have no back up laptop, your best option is to replace the laptop.
 
-In this case please open [an issue to replace](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement).
+In this case please open [an issue to replace](https://gitlab.com/gitlab-com/business-technology/end-user-services/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement).
 Then please follow the guidelines in the template and once you receive the new laptop we can have the old one sent off to our reseller.
 
 ### Laptop Purchasing and Shipping Process
 
-Once Team Member Enablement receives your laptop order we start working on purchasing your laptop and any additional equipment requested. We leverage business relationships with several different vendors across the globe to accomplish this remotely. Please note delivery times will vary depending on location, supply of hardware, vendor selection, and shipping method.
+Once End User Services receives your laptop order, we will start working on purchasing your laptop and any additional equipment requested. We leverage business relationships with several different vendors across the globe to accomplish this remotely. Please note delivery times will vary depending on location, hardware supply, vendor selection, and shipping method.
 
 However, we may be able to work out priority or overnight delivery. We will not be able to service this for all cases and regions at this time but please feel free to reach out to IT-Help@gitlab.com or talk with your hiring manager to review all options available.
 
-If you are a hiring manager or member of the hiring/recruiting team, you may check the status and content of a new hires order in the [IT Equipment Order Process Project](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/it-equipment-order-processing)
+If you are a hiring manager or member of the hiring/recruiting team, you may check the status and content of a new hires order in the [IT Equipment Order Process Project](https://gitlab.com/gitlab-com/it/end-user-services/issues/it-equipment-order-processing/-/issues/?sort=created_date&state=opened&first_page_size=100)
 
 Estimated Delivery Timelines for Gitlab Hardware
 
@@ -230,7 +230,7 @@ In other words, we eliminate this possibility of becoming a situation to be mana
 #### Logistics needs
 
 To be able to use a laptop vendor, we have to be able to purchase and ship hardware to our team members regardless of where they live.
-Therefore the vendor should be able to handle most if not all shipping requirements to all team members. Our current hardware provider for US and most international locations is CDW. GitLab laptops that are procured from CDW will come with GitLab branded asset labels by default. Please refer to this issue for more information on GitLab asset labels. [GitLab Branded Laptop Labels](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/it-ops-issue-tracker/-/issues/352)
+Therefore the vendor should be able to handle most if not all shipping requirements to all team members. Our current hardware provider for US and most international locations is CDW. GitLab laptops that are procured from CDW will come with GitLab branded asset labels by default. Please refer to this issue for more information on GitLab asset labels. [GitLab Branded Laptop Labels](https://gitlab.com/gitlab-com/business-technology/end-user-services/it-ops-issue-tracker/-/issues/352)
 
 ### Laptop Recycle/Return
 
@@ -253,7 +253,7 @@ If you, as a GitLab team member, would like to add a vendor aligned with the cir
 
 #### Steps for donating your hardware
 
-1. Create an issue for [laptop replacement](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement)
+1. Create an issue for [laptop replacement](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new?issuable_template=Laptop_Replacement)
 1. Indicate in the issue you want to donate your used laptop to a vendor on the curated list.
 1. Indicate in the issue which option of logistics will be used: Local Drop off or Sending via courier.
 1. For security reasons we want to make sure all laptops are fully wiped before drop off or sending.
@@ -295,7 +295,7 @@ If purchasing, our Manager of IT, or Lead, IT Analyst will approve, and we will 
 Then, if the employee decides to move forward with purchasing, our accounting department will reach out with payment information.
 
 If a team member decides to retain their laptop, they are required to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by GitLab.
-GitLab provided laptops must be wiped with [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#apple-laptops) for Macs, and [Drivestrike](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) for Linux, this ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe. Under no circumstance should you perform your own disk wipe unless you are doing so at the request of IT, to troubleshoot a technical problem with the laptop.
+GitLab provided laptops must be wiped with [Jamf](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/#apple-laptops) for Macs, and [Drivestrike](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) for Linux, this ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe. Under no circumstance should you perform your own disk wipe unless you are doing so at the request of IT, to troubleshoot a technical problem with the laptop.
 If GitLab discovers that a device has not been wiped according to policy, GitLab may act to enforce a remote wipe without notice.
 
 If team members opt not to keep or purchase their existing laptops, they can return them to GitLab.
@@ -318,7 +318,7 @@ Reformatting a computer is not sufficient in these cases because it is possible 
 
 ### Snipe-IT
 
-The Team Member Enablement Team has been busy iterating and setting up [Snipe-IT open source asset management](https://snipeitapp.com/). As of April 2021, GitLab has an asset tracking application that is the source of truth for all GitLab hardware! If you are a member of GitLab you can sign in and view the application at https://snipeit.gitlab.net/ (Use your Okta credentials).
+The End User Services Team has been busy iterating and setting up [Snipe-IT open source asset management](https://snipeitapp.com/). As of April 2021, GitLab has an asset-tracking application that is the source of truth for all GitLab hardware! If you are a member of GitLab, you can sign in and view the application at https://snipeit.gitlab.net/ (Use your Okta credentials).
 
 How does it work exactly?
 
@@ -356,7 +356,7 @@ GitLab has a large and ever-growing fleet of laptops, which IT Operations is res
 In order to do this and combined with our Zero Trust security policies and various Compliance needs, there must be some measure of intelligence and reporting in place.
 To accomplish this goal we are utilizing Jamf for MacOS devices to obtain only the essential information required. For Linux machines we will be utilizing DriveStrike as a light-touch mechanism.
 
-For more information regarding Jamf, refer to our [Endpoint Management](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/) handbook page.
+For more information regarding Jamf, refer to our [Endpoint Management](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/) handbook page.
 
 For more information regarding DriveStrike, refer to our [DriveStrike](/handbook/it/guides/drivestrike/) handbook page.
 

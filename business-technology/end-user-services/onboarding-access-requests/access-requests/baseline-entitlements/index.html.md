@@ -38,7 +38,7 @@ The hope with the above workflow is that everyone will contribute to the creatio
 
 - For certain roles, role-based entitlement templates have been created and can be used during onboarding. [A list of all the roles that have templates](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/tree/master/.gitlab/issue_templates/role_baseline_access_request_tasks) can be found on the Access Request project.
 
-- The [directory `issues_templates`](https://gitlab.com/gitlab-com/team-member-epics/access-requests/tree/master/.gitlab/issue_templates) in the Access Request project is used to document the configuration and approvals for the baseline and role-based entitlements. Any changes to these approved configurations require the approval of the management groups outlined in each of the runbooks with the [exception of Functional vs Non-Functional changes](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#exception-process). 
+- The [directory `issues_templates`](https://gitlab.com/gitlab-com/team-member-epics/access-requests/tree/master/.gitlab/issue_templates) in the Access Request project is used to document the configuration and approvals for the baseline and role-based entitlements. Any changes to these approved configurations require the approval of the management groups outlined in each of the runbooks with the [exception of Functional vs Non-Functional changes](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/baseline-entitlements/#exception-process). 
 
 - Role-based entitlement templates should be maintained accordingly, based on the speicifc requirements documented in the [Access Management Policy](https://about.gitlab.com/handbook/security/access-management-policy.html#role-based-access-control-rbac-requirements). These templates are utilized internally by Security Compliance and externally by External Auditors when assessing access management controls and procedures at GitLab.
 
@@ -99,7 +99,7 @@ The following people need to review and approve the template before it can be me
 1. The template needs to be approved by a manager or higher from the department the role belongs to. If the manager is creating the baseline entitlement, an explicit approval from a higher level is required to ensure the permissions included in the baseline entitlement are appropriate.
 1. The level of permission  you are requesting access to needs to be approved by the technical owner of the system. You can find a list of the technical owners of each system in our [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml).
 1. If the role you are requesting access to is Admin of a system, security compliance (@gitlab-com/gl-security/security-assurance/sec-compliance) also needs to approve the request. Non-admin access doesn't need to be reviewed by Security.
-1. Once the MR has been approved by all the relevant parties, you can tag @gitlab-com/business-technology/team-member-enablement on the MR for a format review and merge.
+1. Once the MR has been approved by all the relevant parties, you can tag @gitlab-com/business-technology/end-user-services on the MR for a format review and merge.
 
 #### Note
 
@@ -170,11 +170,11 @@ Labels for admin level access:
 
 ### Updating existing Role Based Entitlement templates system access
 
-Once a Role Based Entitlement template has been created and approved by all authorized team members, any access modification will require the same approval process workflow for creating a Role Based Entitlement template with the [exception of Functional vs Non-Functional changes](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#exception-process).
+Once a Role Based Entitlement template has been created and approved by all authorized team members, any access modification will require the same approval process workflow for creating a Role Based Entitlement template with the [exception of Functional vs Non-Functional changes](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/baseline-entitlements/#exception-process).
 
 #### Role Based Entitlements - information for managers
 
-Role based entitlements are pre-defined groups and system-level access that are granted automatically to team members depending on their role. Role based entitlements Access Requests are created automatically for a new team member on their second day at GitLab **_if_** a template exists for their role. We recommend creating a template for all the roles that you are currently hiring for so the new team member's onboarding is as smooth as possible. You can create a new template for any role following [these instructions](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#how-do-i-create-a-role-based-entitlement-template). These templates need to include the tools/systems that all people in a role should get access to and nothing should be added/removed when creating a new issue.
+Role based entitlements are pre-defined groups and system-level access that are granted automatically to team members depending on their role. Role based entitlements Access Requests are created automatically for a new team member on their second day at GitLab **_if_** a template exists for their role. We recommend creating a template for all the roles that you are currently hiring for so the new team member's onboarding is as smooth as possible. You can create a new template for any role following [these instructions](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/baseline-entitlements/#how-do-i-create-a-role-based-entitlement-template). These templates need to include the tools/systems that all people in a role should get access to and nothing should be added/removed when creating a new issue.
 
 If you haven't created a role based entitlement template for a role you are hiring for, you'll need to manually create a [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for your new hire.
 
@@ -202,7 +202,7 @@ All existing role based entitlement templates can be found in [this list](https:
 1. Make sure all systems listed in the template include the System Name and the roles/groups/projects that access is being requested to.
 1. Make sure that the team member has requested permission from all the Technical Owners of the systems. This isn't something that Team Member Enablement should do, it should be done by whoever is creating the template.
 1. Make sure that the template has been approved by the Director of the department the role belongs to with the exception of Functional vs Non-Functional changes.
-1. As a last  step, make sure the labels being added to the template are correct and follow the guidelines outlined in Step 4 of the [instructions](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#instructions-1) above.
+1. As a last  step, make sure the labels being added to the template are correct and follow the guidelines outlined in Step 4 of the [instructions](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/baseline-entitlements/#instructions-1) above.
 1. Keep in mind that if you commit a change to the template, you won't be able to approve it. It is recommended that you add [suggestions](https://docs.gitlab.com/ee/user/discussions/#suggest-changes) to templates instead of committing changes yourself.
 
 ## Exception Process

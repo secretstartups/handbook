@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Team Member Enablement
+title: End User Services
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -22,18 +22,18 @@ Any team member leaving Gitlab must review this handbook page thoroughly and in 
 ### Before your last day.
 
 
-If you have a Mac, ensure your laptop is enrolled and communicating with [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf). 
+If you have a Mac, ensure your laptop is enrolled and communicating with [Jamf](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf). 
 
-If you have a Linux laptop, ensure that it is [enrolled](https://about.gitlab.com/handbook/it/guides/drivestrike/) in DriveStrike and that SentinelOne is [installed](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/#how-do-i-install-the-sentinelone-agent-on-linux). Once installed, contact an IT team member to confirm that both solutions are showing up in their systems of record, and for any additional support. Do not attempt to uninstall, disable or block these services on your own, because it may trigger security alerts and cause unnecessary security inquiries. 
+If you have a Linux laptop, ensure that it is [enrolled](https://about.gitlab.com/handbook/it/guides/drivestrike/) in DriveStrike and that SentinelOne is [installed](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/#how-do-i-install-the-sentinelone-agent-on-linux). Once installed, contact an IT team member to confirm that both solutions are showing up in their systems of record, and for any additional support. Do not attempt to uninstall, disable or block these services on your own, because it may trigger security alerts and cause unnecessary security inquiries. 
 
-Please schedule a time with an IT Analyst to wipe your laptop, you can find our Laptop Wipe Schedules in this [handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
+Please schedule a time with an IT Analyst to wipe your laptop, you can find our Laptop Wipe Schedules in this [handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts).
  
 **Please confirm you have no personal data or files on your laptop before your last day. Once ITOps wipes the laptop any of this information will be permanently deleted. In the case of involuntary or mutual separation, because IT will not be able to determine which files are personal and because we have a responsiblity to keep GitLab secure, no access to your laptop will be provided.** 
  
 ### On your last day.
 
 - Confirm you have a meeting scheduled with an IT team member. 
-- Review the handbook section on [how to reinstall macOS after a Jamf wipe](https://about.gitlab.com/handbook/business-technology/team-member-enablement/self-help-troubleshooting/#reinstalling-mac-os-after-a-jamf-wipe).
+- Review the handbook section on [how to reinstall macOS after a Jamf wipe](https://about.gitlab.com/handbook/business-technology/end-user-services/self-help-troubleshooting/#reinstalling-mac-os-after-a-jamf-wipe).
 - Join your meeting so an IT team member can confirm your information and wipe your laptop. 
 
  

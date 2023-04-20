@@ -17,13 +17,13 @@ If you have any access requests related questions, please reach out to #it_help 
 
 ## Access requests related pages
 
-* [Frequently asked questions](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/frequently-asked-questions/)
-* [Baseline Entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/)
-* [Temporary service providers access requests and onboarding](/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers/)
+* [Frequently asked questions](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/frequently-asked-questions/)
+* [Baseline Entitlements](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/baseline-entitlements/)
+* [Temporary service providers access requests and onboarding](/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/)
 
 ## Need help?
 
-- Please @ mention `@gitlab-com/business-technology/team-member-enablement` in the issue, with no particular SLA.
+- Please @ mention `@gitlab-com/business-technology/end-user-services` in the issue, with no particular SLA.
 - If your request is urgent, @ mention `it-help`in the #it_help channel in slack with a note on why it is urgent.
 
 ## How do I choose which template to use?
@@ -189,7 +189,7 @@ _You can use [this template](https://gitlab.com/gitlab-com/team-member-epics/acc
 
 ##### Department Access Request Boards
 
-- If you need additional labels or have suggestions for improving the process until we can fully automate, please [open an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new).
+- If you need additional labels or have suggestions for improving the process until we can fully automate, please [open an issue](https://gitlab.com/gitlab-com/it/end-user-services/issues/it-help-issue-tracker/-/issues/new).
 - ARs are auto-assigned and auto-labeled when possible by department. In some cases, there are multiple provisioners per tool. If a template cannot be auto-assigned, Business Technology will provide a board where the provisioners can review their department's issues by label (ie `dept::to do`. It is up to the department to manage the workflow on who works the issues to completion.
 - **Moving an issue from one column to another will remove the first label (per the column header) and add the second label. Please use caution when moving issues between columns.**
 - Departments can check their outstanding access request issues by viewing their board below.
