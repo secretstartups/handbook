@@ -20,7 +20,7 @@ If you have any questions around the offboarding process, please be sure to revi
 
 ### Offboarding Support
 
-For system access questions and [laptop wipes](https://about.gitlab.com/handbook/business-technology/team-member-enablement/gitlab-laptop-offboarding/) related to offboarding, send an email to itops@gitlab.com.
+For system access questions and [laptop wipes](https://about.gitlab.com/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/) related to offboarding, send an email to itops@gitlab.com.
 
 For payroll questions or outstanding expense claims, please reach out to either uspayroll@gitlab.com or nonuspayroll@gitlab.com.
 
@@ -349,7 +349,7 @@ To track all tool deprovisioning, please open an offboarding issue following the
 
 As part of offboarding, any GitLab property valued above 1,000 USD needs to be returned to GitLab. 
 
-For laptops, please refer to the [Laptop Buy Back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) which states that team-members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding. If the team member has completed 1 calendar year or more at GitLab at the time of laptop refresh or offboarding, they can opt to keep their laptop at no cost. If the team member hasn't completed 1 calendar year at GitLab at that time, they have the option to purchase their laptop for current market value.
+For laptops, please refer to the [Laptop Buy Back Policy](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) which states that team-members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding. If the team member has completed 1 calendar year or more at GitLab at the time of laptop refresh or offboarding, they can opt to keep their laptop at no cost. If the team member hasn't completed 1 calendar year at GitLab at that time, they have the option to purchase their laptop for current market value.
 
 To return your laptop to GitLab, please contact itops@gitlab.com immediately upon offboarding.
 

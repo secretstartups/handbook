@@ -37,9 +37,9 @@ If you are [eligible](/handbook/people-group/offboarding/#gitlab-alumni-program)
 The following can be used as a guide on what actions could need to be taken before your last day:
 
 - Unassign / Reassign any open projects, issues or merge requests to other team members or your manager. Use the [Global Search](https://docs.google.com/spreadsheets/d/1kVpBWDgxEp3zLyurE5Q9zpeDrGjWcDB7wb11uBl89ZQ/edit#gid=0) function and search your gitlab handle. 
-- [Install JAMF](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
+- [Install JAMF](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
 - Schedule a meeting with one of the IT Ops team members (depending on your region) for 30-60 minutes before your scheduled offboarding **time**.
-  - You can schedule an appointment with one of the IT Analysts, their schedules can be found in this [handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
+  - You can schedule an appointment with one of the IT Analysts, their schedules can be found in this [handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts).
 - Copy over any personal passwords currently stored in 1Password (this will be disabled once offboarding is processed and you will no longer have any access to any of your personal passwords).
 - Prepare a handover document for your team / manager. 
 - Notify customers and introduce them to the team member that will be assisting them going forward (if applicable). 
@@ -53,11 +53,11 @@ The following can be used as a guide on what actions could need to be taken befo
 
 #### Do I need to wipe my laptop?
 
-A laptop wipe/reset is **required** once you have been offboarded. Please ensure to [set up a meeting with the IT OPs team](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts) on your last day to complete the laptop wipe. Please under **no circumstance** should you perform your own disk wipe on the laptop. Please send an email to `it-help@gitlab.com` if you have any questions regarding this.
+A laptop wipe/reset is **required** once you have been offboarded. Please ensure to [set up a meeting with the IT OPs team](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) on your last day to complete the laptop wipe. Please under **no circumstance** should you perform your own disk wipe on the laptop. Please send an email to `it-help@gitlab.com` if you have any questions regarding this.
 
 #### Can I purchase my laptop from GitLab?
 
-IT Ops will contact you after your last day to determine if this is a possibility. You can view the Laptop buy back policy [here.](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy)
+IT Ops will contact you after your last day to determine if this is a possibility. You can view the Laptop buy back policy [here.](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy)
 
 ### Compensation - Payroll
 
