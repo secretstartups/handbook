@@ -193,7 +193,6 @@ For additional information on reviewing Background checks see [this page](/handb
 1. Under "Applicant Information" enter in the candidate's first and last name, as well as their email address to confirm.
 1. Next, select "GitLab" from the "Job Position" drop down menu.
 1. Next, select the name of the country where the candidate is located. If the candidate is located in the US, the package will be called `Comprehensive Criminal with Employment`. If the country is not listed, choose `Global Screening`
-1. If the candidate is in Finance or Accounting, and are not located in Japan, Germany, Ireland, Spain, or Russia (which already include this check), you should also select "A La Carte" from the "Screening Packing" and choose `Extended Global Sanctions`. Then click "Add". 
 1. Finally, scroll to the bottom of the page and click "Send"
 1. Make a note in the Greenhouse profile that the Background Check has been started
 
@@ -228,7 +227,6 @@ It's important to note that the USA Reference Check form should be sent to the c
 
 
 6. Once the recruiter has sent CES a contract ticket, CES will then complete **NYC Step 2** of the background check through the Greenhouse integration. Once in Sterling, select the NYC Step 2 screening package and send. 
-Note: if it is a Finance position, you will also need to add the A La Carte - Extended Global Sanctions check.
 
 **Troubleshooting Tip:** If you receive an "expired" error when initiating Step 2 through the Greenhouse Sterling integration, you can navigate to the [Sterling Direct dashboard](https://secure.sterlingdirect.com/sys/). On the right hand side, under "E-Invite Applicant to Background Check", enter in the candidate's email address and select "Invite".
 - Fill in the applicant's information 
