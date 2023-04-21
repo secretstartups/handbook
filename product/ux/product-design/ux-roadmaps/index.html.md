@@ -55,12 +55,12 @@ The work done on a theme should keep the scope of the deliverables in mind. If t
 
 | Theme component | Description | Example |
 | --- | --- | --- |
-| Theme statement | Design objective | Reduce the effort for security teams when prioritizing business-critical risks in their assets. |
-| Main JTBD | The JTBD that contains the task(s) a user will be undertaking. | When I am on triage rotation, I want to address all the business-critical risks in my assets, So I can minimize the likelihood of my organization being compromised by a security breach.  |
-| Business objective  | Objectives (from a business point of view) that will be achieved upon completion. | Increase engagement by making the experience efficient while reducing the chances of users overlooking high-priority items. |
-| Confidence | Informal assessments of likely impact and demonstrated user need for the theme. High, Medium, or Low | High |
-| Requirements  | Considerations to keep in mind when working on the theme. | Related feature issues, Research insights |
-| Timeframe | Now, next, future, future+ | Now |
+| [Theme statement](#theme-statements) | Design objective | Reduce the effort for security teams when prioritizing business-critical risks in their assets. |
+| [Main JTBD](#main-jtbd) | The JTBD that contains the task(s) a user will be undertaking. | When I am on triage rotation, I want to address all the business-critical risks in my assets, so I can minimize the likelihood of my organization being compromised by a security breach.  |
+| [Business objective](#business-objectives)  | Objectives (from a business point of view) that will be achieved upon completion. | Increase engagement by making the experience efficient while reducing the chances of users overlooking high-priority items. |
+| [Confidence](#confidence) | Informal assessments of likely impact and demonstrated user need for the theme. | High |
+| [Requirements](#requirements)  | Considerations to keep in mind when working on the theme. | Related feature issues, Research insights |
+| [Timeframe](#timeframes) | The expected time period of a theme | Now: {Next:1-3 milestones} |
 
 #### Theme statements
 
@@ -92,7 +92,7 @@ Addressing the user's needs is the primary objective of the theme. Needs are inf
 
 #### Main JTBD
 
-The main JTBD of the performer who will benefit from this UX Theme, typically your stage or stage: group's main JTBD. Including this information at the UX Theme level is necessary to ensure our focus remains on the main JTBD while working on the theme. In our example, our main JTBD is; _When I am on triage rotation, I want to address all the business-critical risks in my assets, So I can minimize the likelihood of my organization being compromised by a security breach._
+The main JTBD of the performer who will benefit from this UX Theme, typically your stage or stage: group's main JTBD. Including this information at the UX Theme level is necessary to ensure our focus remains on the main JTBD while working on the theme. In our example, our main JTBD is; _When I am on triage rotation, I want to address all the business-critical risks in my assets, so I can minimize the likelihood of my organization being compromised by a security breach._
 
 _Note: If there is no JTBD or the JTBD is assumptive, that should indicate that you are working on a low-confidence theme and additional research is required before engaging in design activities._
 
@@ -102,7 +102,7 @@ The business objective is why we are working on a theme. Without this informatio
 
 #### Requirements
 
-Requirements are more granular aspects of a theme that help define the scope of the problem and solution area. Typically, requirements are derived from feature issues and research insights used to create the theme. Generally speaking, it is more common to see these items in themes in the (Now {Next:1-3 milestones, or Next {Next:4-7}) buckets, as the problem areas have been researched, and the problems to solve are more evident than themes scheduled in the future. Requirements will take the form of: “The user needs to be able to {solution agnostic description of the need}.”
+Requirements are more granular aspects of a theme that help define the scope of the problem and solution area. Typically, requirements are derived from feature issues and research insights used to create the theme. Generally speaking, it is more common to see these items in themes in the (Now {Next:1-3 milestones}, or Next {Next:4-7}) buckets, as the problem areas have been researched, and the problems to solve are more evident than themes scheduled in the future. Requirements will take the form of: “The user needs to be able to {solution agnostic description of the need}.”
 
 _Note: We are not designing a solution for a specific feature issue; instead, we are designing the entire theme. The individual feature issues within it will be addressed through a planning breakdown session when the UX Theme's vision design has been completed and is now ready to be built via MVC + Iterations._
 
@@ -113,7 +113,7 @@ Confidence is the assessment of the product and design team's understanding of t
 
 |  | High confidence | Medium confidence | Medium confidence | Low confidence |
 | --- | --- | --- | --- | --- |
-| The Team understands both the Main Job and the small job(s) related to the problem area? | Yes | Yes | No | No |
+| The team understands both the main job and the small job(s) related to the problem area? | Yes | Yes | No | No |
 | Has the problem been validated through research or other means? | Yes | No | Yes | No |
 
 #### Timeframes
@@ -122,12 +122,12 @@ Themes should span multiple milestones, allowing designers to have the flexibili
 
 | Timeframe | Workflow | Design Priority | Research Priority | Theme Confidence | Theme Needs | Research hand-off | ~ Design hand-off |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Now: Next 1-3 Milestones | Workflow:design (Actively worked on) | Priority:1 | - | High  | Design & solution validation | Complete | Within 3 milestones |
-| Next: Next 4-7 Milestones | Workflow:problem validation  | Priority:2 | Priority:1 | High or Medium | Problem validation research may be needed, Requirements needed| Within 3 milestones | Within 7 milestones |
-| Future: Next 7-13 Milestones | Workflow:problem validation backlog | Priority:3 | Priority:2 | Medium or Low | Research is required to increase confidence and define the scope | Within 7 milestones | Within 13 milestones |
-| Future+: Awaiting further demand | Workflow:problem validation backlog | Priority:4 | Priority:4 | Low | Research is required to increase confidence and define the scope | Within the next 13 milestones | TBD |
+| Now: {Next 1-3 Milestones} | Workflow:design (Actively worked on) | Priority:1 | - | High  | Design & solution validation | Complete | Within 3 milestones |
+| Next: {Next 4-7 Milestones} | Workflow:problem validation  | Priority:2 | Priority:1 | High or Medium | Problem validation research may be needed, Requirements needed| Within 3 milestones | Within 7 milestones |
+| Future: {Next 7-13 Milestones} | Workflow:problem validation backlog | Priority:3 | Priority:2 | Medium or Low | Research is required to increase confidence and define the scope | Within 7 milestones | Within 13 milestones |
+| Future+: {Awaiting further demand} | Workflow:problem validation backlog | Priority:4 | Priority:4 | Low | Research is required to increase confidence and define the scope | Within the next 13 milestones | TBD |
 
-These timeframes denote when work will take place and when work will be delivered. Think of this as design and research will be delivered within < timeframe > (e.g., design/research delivered in Now: Next 1-3 Milestones). In many cases, it will make sense for a lower confidence theme located in the Next or Future buckets to be worked on in parallel by the group’s UX Researcher and/or the Product Manager to increase the confidence, allowing the theme to move up to the Now bucket for future design work. Just like design should be 2-3 milestones ahead of build, research should be 2-3 milestones ahead of design.
+These timeframes denote when work will take place and when work will be delivered. Think of this as design and research will be delivered within < timeframe > (e.g., design/research delivered in Now: {Next 1-3 Milestones}). In many cases, it will make sense for a lower confidence theme located in the Next or Future buckets to be worked on in parallel by the group’s UX Researcher and/or the Product Manager to increase the confidence, allowing the theme to move up to the Now bucket for future design work. Just like design should be 2-3 milestones ahead of build, research should be 2-3 milestones ahead of design.
 
 _Consider this: If you only work on four themes a year and each gets broken down into three MVCs, that equates to delivering UX value to the user every milestone across twelve milestones._
 
@@ -139,41 +139,41 @@ The Design DRI and respective Product Manager are the owners of themes in their 
 
 ### Product Designers working on themes
 
-Most of the work Product Designers do will be on themes in the (Now) `Next 1-3 milestone bucket`. These themes are comprised of high-confidence outcomes and validated needs: the problem is already well defined and researched, the JTBD, user persona, user needs/requirements, and business objectives are well understood, and themes, therefore, are ready for a design solution to be created.
+Most of the work Product Designers do will be on themes in the (Now): `{Next 1-3 milestone} bucket`. These themes are comprised of high-confidence outcomes and validated needs: the problem is already well defined and researched, the JTBD, user persona, user needs/requirements, and business objectives are well understood, and themes, therefore, are ready for a design solution to be created.
 
 The UX Theme issue is where all planning, discussion, and collaboration occurs. It is what the research and solutions are based on. The related issues contained within it are parts of the whole and may evolve or even get closed as more knowledge and understanding of the theme becomes clear. As work progresses on the theme, new issues may also need to be created per our existing workflow processes. As these are based on the theme, they will be added or linked to the theme for tracking purposes. The most important aspect of working on themes is that research and design solutions are based on the theme first and any related MVC issues second. The intention is to work on the whole of the theme in a complete, holistic way as opposed to its individual-related issues. This process is about workflows vs. features and delivering quality and value to our users vs. an incomplete start of something that's viable but lacks value or usability.
 
-As the design is completed (progressing from lo-fi to hi-fi), assets should be uploaded to the UX Theme issue, either in the description or in the design management tool for tracking/SSOT purposes. When the holistic design is complete, notify your counterparts that it is ready for planning breakdown following the [Product Development Workflow](https://about.gitlab.com/handbook/product-development-flow/#build-goals--outcomes) guidelines.
+As the design is completed (progressing from low-fidelity to high-fidelity), assets should be uploaded to the UX Theme issue, either in the description or in the design management tool for tracking/SSOT purposes. When the holistic design is complete, notify your counterparts that it is ready for planning breakdown following the [Product Development Workflow](/handbook/product-development-flow/#build-goals--outcomes) guidelines.
 
 ### Suggested workflow
 
 1. **Assess your theme.** Do you have everything you need to generate design solution(s)?
     - Refer to the [Product design process: Define the opportunity](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/109522/diffs) to learn about everything you need to know to determine if you are ready to move into design.
     - Once you've gathered all this information, ensure it is included in the theme's description as the SSOT. Use the [UX Theme issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/UX%20Theme.md) for guidance.
-1. **[Ideate and iterate](https://about.gitlab.com/handbook/product/ux/product-designer/#ideate-and-iterate)** Begin generating low-fidelity deliverables that incorporate all of the requirements of the theme, holistically addressing the JTBD, needs, and use cases.
+1. **[Ideate and iterate](/handbook/product/ux/product-designer/#ideate-and-iterate)** Begin generating low-fidelity deliverables that incorporate all of the requirements of the theme, holistically addressing the JTBD, needs, and use cases.
     - Create a flow diagram that accounts for all tasks related to the small job(s) you are addressing. Share this with your counterparts to ensure everyone is on the right page regarding the scope and requirements.
     - Create low-fidelity wireframes that incorporate all of the requirements of the theme, holistically addressing the small job(s) while keeping the main JTBD in mind.
-    - Collaborate with your counterparts early and often. Adjust your designs after [soliciting feedback](https://about.gitlab.com/handbook/product/ux/product-designer/#design-reviews) from your counterparts and the UX team as needed.
-1. **Validate the workflow.** Increase your confidence in your design direction with the [solution validation](https://about.gitlab.com/handbook/product/ux/ux-research/solution-validation-and-methods/) method that best fits your project. It's always recommended that you validate your low-fidelity wireframe design. After all, this is the design you'll be working from in subsequent milestones, so it is best to ensure that it is usable and meets your user's goals and needs while in this low-fidelity state. Test it while it is cheap! Another added benefit to testing at this stage is that you are validating the entire workflow you are addressing rather than a smaller discrete action or capability. Following this approach increases the likelihood of receiving appropriate usability feedback on the tasks that make up the small job.
+    - Collaborate with your counterparts early and often. Adjust your designs after [soliciting feedback](/handbook/product/ux/product-designer/#design-reviews) from your counterparts and the UX team as needed.
+1. **Validate the workflow.** Increase your confidence in your design direction with the [solution validation](/handbook/product/ux/ux-research/solution-validation-and-methods/) method that best fits your project. It's always recommended that you validate your low-fidelity wireframe design. After all, this is the design you'll be working from in subsequent milestones, so it is best to ensure that it is usable and meets your user's goals and needs while in this low-fidelity state. Test it while it is cheap! Another added benefit to testing at this stage is that you are validating the entire workflow you are addressing rather than a smaller discrete action or capability. Following this approach increases the likelihood of receiving appropriate usability feedback on the tasks that make up the small job.
     - Select a solution validation method and test your workflow using the small job(s) as the task users need to complete.
     - Adjust your designs as necessary based on this user feedback solidifying your low-fidelity wireframe design direction.
-1. **Refine your concept.** This step is like coloring in the lines of a coloring book, where the coloring book is the lo-fi wireframe, and your mock-ups are the crayons that fill in all the details.
+1. **Refine your concept.** This step is like coloring in the lines of a coloring book, where the coloring book is the low-fidelity wireframe, and your mock-ups are the crayons that fill in all the details.
     - Transition your wireframes to high-fidelity mock-ups. Determine which Pajamas components make the most sense for your solution.
     - Define all of the micro-interactions, for example, tooltips, popovers, toasts, alerts, modals, and drawers.
     - Define all of the edge cases, for example, error states, empty states, free vs. paid states, and states for users without permission.
-    - Write your micro-copy, and collaborate with your Tech writing counterpart to ensure the copy meets our standards.
+    - Write your micro-copy, and collaborate with your tech writing counterpart to ensure the copy meets our standards.
     - Consider accessibility guidelines.
-    - Again, it is recommended that you validate your design with Solution Validation to ensure you haven't lost anything in the translation from your low-fidelity wireframe design to your high-fidelity mock-ups.
+    - Again, it is recommended that you validate your design with solution validation to ensure you haven't lost anything in the translation from your low-fidelity wireframe design to your high-fidelity mock-ups.
     - Adjust your designs as necessary based on this user feedback solidifying your design direction.
 1. **Hand-off.** Work with your counterparts to break down your design into appropriate MVC(s).
     - Consider the value each MVC provides to the user and if it can stand alone without its subsequent MVCs in the product. If it cannot stand alone, discuss the possibility of a feature flag or a delayed release with your team.
-    - Follow the rest of the Product Development Flow once you and your team have completed the planning breakdown process.
+    - Follow the rest of the [Product Development Flow](/handbook/product-development-flow/) once you and your team have completed the planning breakdown process.
 
 ### UX Research working on themes
 
-Most of UX researchers' work will be on the themes in the (Next) `Next 4-7 milestones` bucket or (Future) `Next 7-13 milestones` bucket. Working ahead affords UX Research the time and space to design a study, recruit participants, execute the research, and summarize the results without compromising the methodology due to time constraints. Research and insight issues should be referenced in the UX Theme issue to maintain the SSOT.
+Most of UX Researchers' work will be on the themes in the Next: `{Next 4-7 milestones}` bucket or (Future) `Next: {7-13 milestones}` bucket. Working ahead affords UX Research the time and space to design a study, recruit participants, execute the research, and summarize the results without compromising the methodology due to time constraints. Research and insight issues should be referenced in the UX Theme issue to maintain the SSOT.
 
-Work with your UX Researcher during their research prioritization efforts by referencing UX Themes in the (Next) `Next 4-7 milestones` bucket or (Future) `Next 7-13 milestones` bucket. Your goal is to ensure that you are able to move themes from the Next and Future buckets to the Now bucket. This should only be done once you have gathered all of the information necessary to be ready for design, meaning you are now able to say that you have high confidence in this theme.
+Work with your UX Researcher during their research prioritization efforts by referencing UX Themes in the Next: `{Next 4-7 milestones}` bucket or Future: `{Next 7-13 milestones}` bucket. Your goal is to ensure that you are able to move themes from the Next and Future buckets to the Now bucket. This should only be done once you have gathered all of the information necessary to be ready for design, meaning you are now able to say that you have high confidence in this theme.
 
 ### Revising and updating themes
 
@@ -184,9 +184,9 @@ Revising a theme can happen at any time. It is good practice to communicate when
 Creating UX Themes is a collaborative process between the Product Manager, Product Design Manager, Staff Product Designer (if applicable), and Product Designer that is done through the [UX Theme workshop](/handbook/product/ux/product-design/ux-roadmaps/#ux-theme-workshop). It is important to highlight that this is a seasonal process, not something that needs to be done every day. After your initial theme creation workshop has been completed, all that remains is regular usage and maintenance of your existing themes. Below are some examples of when new UX Themes are created:
 
 - The team does not have defined UX Themes for their stage:group.
-- The research team uncovers an unmet need in the JTBD that aligns with the goal and vision of the stage:group.
-- The product team identifies a new assumptive user need that aligns with the goal and vision of the stage:group.
-- The product team pivots to meet the needs of a different user.
+- The Research team uncovers an unmet need in the JTBD that aligns with the goal and vision of the stage:group.
+- The Product team identifies a new assumptive user need that aligns with the goal and vision of the stage:group.
+- The Product team pivots to meet the needs of a different user.
 - Community contributions have been submitted to your group.
 
 ### UX Theme issues
