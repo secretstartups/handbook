@@ -1174,11 +1174,10 @@ For `~security` issues with the `~bug::vulnerability` label and a severity of `~
 which is the target date of when fixes should be ready for release.
 This due date should account for the `Time to remediate` times above, as well as
 monthly security releases on the 28th of each month. For example, suppose today is October 1st, and
-a new `severity::2` `~security` issue is opened. It must be addressed in a security release within 60 days,
-which is November 30th. So therefore, it must catch the November 28th security release.
+a new `severity::2` `~security` issue is opened. It must be addressed in a security release [within 30 days](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas),
+which is October 31st. So therefore, it must catch the October 28th security release.
 Furthermore, the [Security Release Process deadlines](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#release-deadlines)
-say that it should the code fix should be ready by November 23rd. So the due date
-in this example should be November 23rd.
+say that all merge requests associated with the fix must be ready 48 hours before the due date of the security release, which would be October 26th. So the due date in this example must be October 26th.
 
 Note that some `~security` issues may not need to be part of a product release, such as
 an infrastructure change. In that case, the due date will not need to account for
