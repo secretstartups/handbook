@@ -109,3 +109,4 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Product Marketing Representative| @laurenaalves | [Laurena Alves](https://about.gitlab.com/company/team/#laurenaalves) | Senior Product Marketing Manager |
 | Developer Relations Representative | @johncoghlan | [John Coghlan](https://gitlab.com/johncoghlan) | Senior Manager, Developer Evangelism | 
 | Privacy Representative | @emccrann | [Eugene McCrann](https://about.gitlab.com/company/team/#emccrann) | Lead Legal Counsel, Privacy |
+| Quality Engineering Representative | [Ramya Authappan](https://about.gitlab.com/company/team/#at.ramya) | Engineering Manager, Quality, Dev & Analytics Section |
