@@ -29,7 +29,6 @@ One of the ways we raise awareness about life at GitLab is by applying for emplo
 A number of the awards we've applied for (or will apply for in the future) are specifically focused on recognizing companies that are diverse and inclusive employers.
 
 * [Awards we’ve won](/handbook/people-group/employment-branding/#employer-awards-and-recognition)
-* [Awards we’re applying for on behalf of GitLab](https://gitlab.com/groups/gitlab-com/marketing/-/epics/565)
 
 ### Initiatives we’re exploring
 
@@ -37,16 +36,6 @@ A number of the awards we've applied for (or will apply for in the future) are s
 * Recorded podcasts
 * Virtual events: Culture Open House
 * Updating the look and feel across digital channels to ensure the diversity of our team is reflected
-
-## Sourcing Initiatives
-
-### Sourcing for Underrepresented Groups
-
-The Talent Acquisition team is commited to building a diverse team while focusing our sourcing effort on the most talented candidates for GitLab’s open roles.
-
-#### Diversity sourcing training
-
-The Talent Acquisition team is providing additional training on Diversity Sourcing and Talent Acquisition best practices to all GitLab team members.
 
 ## Hiring Initiatives
 
