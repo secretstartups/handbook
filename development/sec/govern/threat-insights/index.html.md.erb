@@ -105,6 +105,11 @@ To manually trigger the QA job:
 
 It's advisable to run the QA job on the latest pipeline at least once during the MR review cycle.
 
+### E2E tests with feature flags
+
+E2E tests should pass with a feature flag enabled before it is enabled on Staging or on GitLab.com. 
+Therefore, it's important to confirm this when introducing a new feature flag. Adding or editing a feature flag definition file [starts two `e2e:package-and-test` jobs](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/feature_flags.html#automatic-test-execution-when-a-feature-flag-definition-changes) (one with the feature flag turned on and another where it's turned off). 
+
 ## Monitoring
 
 - [Stage Group dashboad on Grafana](https://dashboards.gitlab.net/d/stage-groups-threat_insights/stage-groups-threat-insights-group-dashboard)
