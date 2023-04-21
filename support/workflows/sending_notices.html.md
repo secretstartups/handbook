@@ -22,9 +22,8 @@ This workflow describes how to fulfill different types of contact requests and t
 
 | Number of users | Which thing to use | Approvals required | Notifications required | 
 | --- | --- | --- | --- |
-| 1 | [Manually create a Zendesk ticket](#manually-create-a-zendesk-ticket) | None | None |
-| 2-500 | [Customer Ticket Generator](#customer-ticket-generator) | Support Manager | Post in Slack + SWIR |
-| 500+  | [Mass Emails through Marketing Department](#mass-emails-through-marketing-department) | Director | [Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) + FAQ |
+| 1-2 | [Manually create a Zendesk ticket](#manually-create-a-zendesk-ticket) | None | None |
+| 3+ | [Mass Emails through Marketing Department](#mass-emails-through-marketing-department) | Director | [Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) + FAQ |
 
 
 * Support team can be asked to contact users **during an incident**. Such requests are filed by infra team [using `confidential_incident_data` issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data) in [production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/) issue tracker. These must be fulfilled by CMOC during the shift.
