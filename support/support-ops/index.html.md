@@ -159,10 +159,10 @@ team. The current division of responsibilities is:
 |          | [Provisioning](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/) | @jcolyer | @lyle |
 | Forms | [Customer Ticket Generator](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator) | @nabeel.bilgrami | @avilla4 |
 |       | [Free User Offer Form](https://gitlab.com/gitlab-com/support/support-ops/forms/free-user-offer-form) | @jcolyer | @dtragjasi |
-|       | [L&R Internal Requests Form (Global)](https://gitlab.com/gitlab-com/support/internal-requests-form) | @jcolyer | @dtragjasi |
+|       | [L&R Internal Requests Form (Global)](https://gitlab.com/gitlab-com/support/support-ops/forms/internal-requests-form) | @jcolyer | @dtragjasi |
 |       | [L&R Internal Requests Form (US Federal)](https://gitlab.com/gitlab-com/support/support-ops/forms/us-federal-internal-request-form) | @jcolyer | @dtragjasi |
 |       | [US Federal Customer Feedback](https://gitlab.com/gitlab-com/support/support-ops/forms/us-federal-customer-feedback) | @secole | @jcolyer |
-|       | [Usage Ping Requests](https://gitlab.com/support/usage-ping-request) | @jcolyer | @lyle |
+|       | [Usage Ping Requests](https://gitlab.com/gitlab-com/support/support-ops/forms/usage-ping-request-form) | @jcolyer | @lyle |
 | Other Software | [Customer Feedback Processor US Federal](https://gitlab.com/gitlab-com/support/support-ops/other-software/customer-feedback-processor-us-federal) | @jcolyer | @secole |
 |                | [Free user offer processor](https://gitlab.com/gitlab-com/support/support-ops/other-software/free-user-offer-processor) | @jcolyer | @dtragjasi |
 |                | [L&R Internal Request Processor (Global)](https://gitlab.com/gitlab-com/support/support-ops/other-software/lnr-ir-processor)   | @jcolyer | @secole |
