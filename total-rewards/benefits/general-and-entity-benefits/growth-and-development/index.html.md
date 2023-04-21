@@ -27,7 +27,11 @@ The Growth and Development benefit is managed in partnership with the Total Rewa
 
 ## Growth and Development Benefit Eligibility
 
-* Team members who are full-time and have been employed for three months can participate in this benefit. If you are a part-time GitLab team member, you may still be eligible to participate in this benefit but your reimbursement might be reduced. These situations will be discussed on a case-by-case basis.
+* Team members who are full-time and have been employed for three months can participate in this benefit. 
+* If you are a part-time GitLab team member, you may still be eligible to participate in this benefit but your reimbursement might be reduced. 
+* Team members who are currently on "leave" status will not be eligible to use the growth and development benefits on services/eligible expenses while on leave. 
+
+These situations will be discussed on a case-by-case basis.
 * Team members who are meeting performance expectations in their current role:
     * Currently in good standing with GitLab in terms of performance and behaviours
     * Not currently on a [PIP](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
