@@ -30,60 +30,64 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 </div>
 
-Please read this procedure in its entirety and reach out to `@dedicated_compliance` in `# sec-assurance` channel if you have any questions.
+Team members working with security vulnerabilities should read this procedure in its entirety and reach out to `@dedicated_compliance` in the `# sec-assurance` Slack channel if you have any questions.
 
 ## Purpose
 In accordance with expectations set by the FedRAMP Authorization Act and FedRAMP Program Management Office (PMO), GitLab must follow a formal process to track and request approval (risk acceptance) from our sponsoring Agency Authorizing Official (AO) for any vulnerabilities that cannot be [remediated within SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) due to scenarios described in the Scope section below. These are called vulnerability Deviation Requests (DRs) and are formally reported to our AO every month using [GitLab's Plan of Action & Milestones (POA&M) (internal only)](https://docs.google.com/spreadsheets/d/1Tj3_vqNp34CSIHZsiSI0eM2zdfG574CD/edit?usp=sharing&ouid=107738356047141217629&rtpof=true&sd=true). Deviation requests for risk adjustments (severity downgrades), false positives, and operational requirements require Authorizing Official (AO) approval.
 
 ## Scope
 All vulnerabilities (CVEs) impactful to the [FedRAMP production environment](https://internal-handbook.gitlab.io/handbook/engineering/fedramp-compliance/#system-architecture) (authorization boundary), including 3rd party vulnerabilities (vendor dependencies), in the following categories:
-- **False positives** (scanner limitation - vulnerability is not actually present)
-- **Risk adjustments** (to CVSS score/severity)
-- **Operational requirements** (cannot be remediated without impact to functionality/availability)
+- **False positives** (vulnerability scanner limitation - vulnerability is not actually present)
+- **Risk adjustments** (CVSS score/severity is lower than reported due to mitigating factors)
+- **Operational requirements** (the vulnerability cannot be remediated without impact to functionality/availability)
 
-See DR issue template definitions below.
+For further detail on each type, see the definitions in the [DR types](#dr-types) section below.
 
 ### Assets in scope
-Only the assets and scan types listed [here](https://internal-handbook.gitlab.io/handbook/engineering/horse/pubsec/fedramp-boundary-vulnerability-scanning/) are in-scope. Do not submit a DR for a scan type (e.g. SAST) or asset not included within the production authorization boundary.
+Only the assets and scan types listed [here (internal)](https://internal-handbook.gitlab.io/handbook/engineering/horse/pubsec/fedramp-boundary-vulnerability-scanning/) are in-scope. Do not submit a DR for a scan type (e.g. SAST) or asset not included within the FedRAMP production authorization boundary.
 
-Vulnerabilities in-scope for FedRAMP get the `FedRAMP::Vulnerability` label applied. See AppSec's [FedRAMP Vulnerability Scanning and Triage Process](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/fedramp-scanners-process.html#for-each-finding-from-dast-and-container-scanners) for more details, as well as [standard vulnerability labels](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues/34199373).
+Vulnerabilities in-scope for FedRAMP get the `FedRAMP::Vulnerability` label applied. See AppSec's [FedRAMP Vulnerability Scanning and Triage Process](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/fedramp-scanners-process.html#for-each-finding-from-dast-and-container-scanners) for more details, as well as the [standard vulnerability labels (internal)](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues/34199373).
 
 ## Roles & Responsibilities
 
 | Role | Responsibility |
 | ------- | ------- |
 | GitLab Team Members | Submit the completed DR using the appropriate GitLab issue template, provide evidence | 
-| Security (Vulnerability Management) | Complete technical review and approval of DR |
-| ISSO (Dedicated Compliance) | Complete compliance review of DR and upgrade to POA&M if approved |
-| Authorizing official (AO) | Approve or deny DR (ultimate decision maker) |
+| Security (Vulnerability Management) | Completes the technical review and approval of a DR |
+| ISSO (Dedicated Compliance) | Completes the compliance review of a DR and upgrades to POA&M if approved |
+| Authorizing official (AO) | Approves or denies the DR (as the ultimate decision maker) |
 
 ## Procedure
-Anyone at GitLab can submit a deviation request (DR) via a [GitLab issue in this private project](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/team-security-dedicated-compliance/poam-deviation-requests). DRs must be submitted in a timely manner and should never be used as a method to avoid late SLAs. All DRs are reviewed and approved by security, compliance, and our AO and they must meet the definitions and critieria defined within the issue templates.
+Any GitLab team member can submit a deviation request (DR) via a [GitLab issue in this private project](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/team-security-dedicated-compliance/poam-deviation-requests). DRs should be submitted as early as possible, and mustn't be submitted once the SLA for a vulnerability is already at risk of being breached. This allows time for approval and alternate mitigations to be explored without risking breaching the SLA if the DR is not appropriate for approval. All DRs are reviewed and approved by security, compliance, and our AO and they must meet the definitions and critieria defined within the DR issue templates to be eligable for review and potential approval.
 
 To open a DR the applicable issue template must be selected and all information must be completed prior to submitting the issue for internal review. Each DR will undergo three rounds of review:
 
-1. First a security technical review will be completed to ensure the DR is justified and there are no alternative options. 
+1. First a security technical review will be completed to ensure the DR is justified and there are no alternative mitigation options. 
 1. Second a compliance review will be completed to determine the level of impact the DR will have on security controls, compensating control opportunities and, if approved, upgrade to the GitLab POA&M.
 1. Finally an [authorizing official (AO)](https://csrc.nist.gov/glossary/term/authorizing_official) from our sponsoring Agency will review the request in accordance with the [Continuous Monitoring (ConMon) Guidance](https://www.fedramp.gov/assets/resources/documents/CSP_Continuous_Monitoring_Strategy_Guide.pdf). This is the ultimate decision maker. Note: Risk acceptance by GitLab (the business) is not allowed (i.e. we cannot ignore a legitimate vulnerability) as this responsibility lays with the AO.
 
 If denied, a remediation plan must be developed and this item will remain on the POA&M. 
 
-If approved, the ISSO will notify all involved parties via the GitLab issue with any additional instructions (like updating scanners).
+If approved, the ISSO will notify all involved parties via the GitLab issue with any additional instructions (like updating security scanners and automation tooling).
 
 ### SLAs
-- 2 business days for internal security technical review
-- 2 business days for internal compliance review
-- Between 1-30 days for AO review (timeline depending on AO)
+- 2 business days for the internal security technical review
+- 2 business days for the internal compliance review
+- Between 1-30 days for the AO review (timeline depending on AO)
 
 ### DR types
 The following definitions were adopted from the FedRAMP PMO and all 3 have issue templates for submitting DR requests:
-- [**Risk adjustments**](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx): A reduction in the scanner-cited risk level of a finding justified through existing or new compensating controls that reduce likelihood and/or impact of exploitation. Risk Adjustment DRs are required for all S1/S2 vulnerabilities in 3rd party/vendor dependencies. Risk Adjustment DRs are not required for S3/S4 vulnerabilities in 3rd party/vendor dependencies.
-   - For S3/S4 vulnerabilities in 3rd party/vendor dependencies, if they breach SLA while the label `Vulnerability::Vendor Package::Fix Unavailable` presents, from a compliance/reporting perspective that is okay as long as we are monitoring for when a fix does eventually become available. 
-  - **TEMPORARY GUIDANCE ON VENDOR DEPENDENCY RISK ADJUSTMENT DRs**: Due to significant resource strain, no reporting obligations for GitLab at this time, and pending automation, please do not submit Risk Adjustment DRs for Red Hat UBI vendor dependencies. Please continue to apply the `Vulnerability::Vendor Base Container::Fix Unavailable` label on the vulnerability issues until this is automated.
-- [**False positives**](https://csrc.nist.gov/glossary/term/false_positive): An alert that incorrectly indicates that a vulnerability is present. Justified through documentation and evidence.
-- [**Operational requirements**](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx): A finding that cannot be remediated, often because the system will not function as intended, or because a 3rd party/vendor explicitly indicated it does not intend to offer a fix to their product. FedRAMP will not approve an OR for a High vulnerability; however, the risk may be mitigated and adjusted accordingly. 
+#### [Risk adjustments](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx)
+A reduction in risk compared to the the scanner-detected risk level of a finding. The risk level is typically represented by the severity of a finding, which in turn is informed by the CVSS score of the vulnerability. This adjustment must be justified by existing or new compensating controls which reduce likelihood and/or impact of exploitation on systems or in codebases detected as vulnerable. The difference calculated CVSSv3 score based on vendor advisories or existing mitigations must lower the CVSSv3 score enough to justify a lower risk rating. Risk Adjustment DRs are required for all S1/S2 vulnerabilities in 3rd party/vendor dependencies. Risk Adjustment DRs are not required for S3/S4 vulnerabilities in 3rd party/vendor dependencies.
+For S3/S4 vulnerabilities in 3rd party/vendor dependencies, if they breach SLA while the label `Vulnerability::Vendor Package::Fix Unavailable` presents, from a compliance/reporting perspective that is okay as long as we are monitoring for when a fix does eventually become available. 
+- **TEMPORARY GUIDANCE ON VENDOR DEPENDENCY RISK ADJUSTMENT DRs**: Due to significant resource strain involved in processing risk adjustments for vendor dependencies based on vendor advisory information, there are no reporting obligations for GitLab at this time. This process is pending automation to address this constraint, so please do not submit Risk Adjustment DRs for Red Hat vendor dependencies, including UBI images. Please continue to apply the `Vulnerability::Vendor Base Container::Fix Unavailable` label and `Vulnerability::Vendor Package::Fix Unavailable` label as appropriate on the vulnerability issues until the creation of this DR type is automated.
+#### [False positives](https://csrc.nist.gov/glossary/term/false_positive)
+A finding which incorrectly indicates that a vulnerability is present, where the detected vulnerability is not present in the codebase or system where detected.
+Justification must be provided through documentation and evidence showing supporting technical information proving the vulnerability is not present.
+#### [Operational requirements](https://www.fedramp.gov/assets/resources/templates/FedRAMP-Vulnerability-Deviation-Request-Form.xlsx)
+A finding which cannot be remediated within SLA, or at all, because the system will not function as intended, availability will be adversely impacted, or because a vendor explicitly indicates it will not offer a security update for the impacted package(s). FedRAMP will not approve an OR for a High vulnerability; however, a vendor can risk-adjust the vulnerability via the aforementioned risk adjustment process prior to submitting the operational requirement for review, and the adjusted severity will be considered during review of the OR.
 
-Vendor Dependency vulnerabilities, in which GitLab is dependent on a 3rd party vendor or open source project to remediate a vulnerability, can technically fall into any of the categories above. These vulnerability issues must always be identifed using the `Vulnerability::Vendor Base Container::Fix Unavailable` label (or `Vulnerability::Vendor Package::Fix Unavailable` if not part of a container base image). Special handling is required for Critical and High severity vendor dependencies so that risk can be mitigated to an acceptable level.
+For Vendor Dependency vulnerabilities, in which GitLab is dependent on a 3rd party vendor or open source project to remediate a vulnerability, can technically fall into multiple categories above. These vulnerability issues must always be identifed using the `Vulnerability::Vendor Base Container::Fix Unavailable` label (or `Vulnerability::Vendor Package::Fix Unavailable` if the vulnerable package is not introduced via a vendor-published base container image such as Red Hat's UBI). Special handling is required for Critical and High severity findings in vendor dependencies, so that risk can be mitigated to an acceptable level prior to proceeding with a DR.
 
 ### Workflow Labels
 
@@ -99,21 +103,23 @@ Vendor Dependency vulnerabilities, in which GitLab is dependent on a 3rd party v
 **Vulnerability Issues should remain open unless the vulnerability has been remediated.** This allows Security Compliance to keep track of DRs that still impact the FedRAMP environment. 
 
 #### Grouping Multiple Vulnerabilities in a Deviation Request
-Multiple CVEs can be grouped in a single DR if **all** of the following criteria are met:
-- The DR is specific to a single unique vulnerability (CVE) impacting multiple images
-- All vulnerabilities have the same DR type and justification (e.g. all are false positives in RedHat ubi8 base image used by multiple GitLab container images)
-- The DR makes it clear which GitLab application components are impacted (see "Assets in scope" section above).
+Multiple related vulnerability tracking issues can be grouped in a single DR if **all** of the following criteria are met:
+- The DR is specific to single unique vulnerability (CVE) (even if it is impacting multiple images)
+- All vulnerabilities have the same DR type and justification (e.g. all are false positives in the Red Hat ubi8-minimal base image, used by multiple GitLab container images)
+- All detected vulnerabilities covered by the DR have their issues linked to the DR as related issues
 
 ### Closing Vulnerability Issues and DR Issues
-Deviation requests are often not permanent as patches are eventually made available by vendors or deployed according to risk adjusted SLAs. Patches can also be released in the middle of the DR approval process. If a patch has been released and deployed, please provide evidence in the deviation request issue comments indicating that the vulnerability is fixed in production. Once provided, the issue can be closed. Acceptable evidence can include:
-- Re-scans showing the vulnerability is no longer present.
-- Merge Request (merged) showing that the patch has been applied and released to production. 
+Deviation requests are often not permanent, as patches are eventually made available by vendors or deployed according to risk adjusted SLAs. Patches can also be released in the middle of the DR approval process. If a patch has been released and deployed, please provide evidence in the deviation request issue comments indicating that the vulnerability is fixed in production. Once provided, the DR issue can be closed. Acceptable evidence can include:
+- Updated vulnerability scans showing the vulnerability is no longer present on systems
+- Updated container scan results showing a vulnerability is not longer present in a container image, and evidence that update container has been deployed to production
+- A Merge Request (merged) showing that the patch has been applied to the codebase where it was detected, and evidence that the updated versions has been released to production
 
-**Please note that the patch / fix must be in production in order to close a DR issue, not just scheduled for release.**
+**Please note that the patch / fix must be deployed to production in order to close a DR issue, not just scheduled for release.**
 
 Once the vulnerability is remediated, apply the label `FedRAMP::DR Status::Vuln Remediated` to both the vulnerability issue and the DR issue.
 
-For issues with label `Vulnerability::Vendor Package::Will Not Be Fixed`, they shall remain open indefinitely or no longer detected by the scanner. Keeping these issues open is important for providing the SSOT of vulnerabilities that are present.
+For issues with label `Vulnerability::Vendor Package::Will Not Be Fixed`, these shall remain open indefinitely or until no longer detected by the scanner. Keeping these issues open is important for providing the SSOT of vulnerabilities that are present.
+
 ## Exceptions
 There are no exceptions allowed to this procedure. 
 
