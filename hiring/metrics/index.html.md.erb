@@ -26,26 +26,14 @@ In other words, if 50 offers were extended in June, the offer acceptance rate is
 
 The offer acceptance rate comes from Greenhouse's offer data.
 
-### Time to Offer Accept (Days)
-
-The median number of days from when a candidate is active in Greenhouse (applied, referred, or sourced) to accepting an offer in a given month. The Time to Offer Accept (Days) target is < 45. This analysis can be found on the [People Group Dashboard](https://app.periscopedata.com/app/gitlab/482006/People-Group-KPIs).
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 6235296, dashboard: 482006, embed: 'v2') %>">
-
-- In addition to the overall time to offer accept median, we'll also provide insights on the KPI by calculating the 80th percentile (i.e. removing outliers that generally skew the average).
-
-### Active Users with a Talent Acquisition or Hiring Manager LinkedIn Seat > X%
-
-The percentage of team members that have a *Recruiter* or *Hiring Manager* seat and at least 1 active day of use per month. This is calculated by taking the total number of team members with at least 1 active day of use and dividing it by the total number of team members that have a seat.
-
 ### Applied vs Sourced Candidates
 
 This tracks the number of candidates who were Applied (Inbound) at the Hiring stage versus those that were Sourced (Outbound) each calendar month, by division. There is no target for this PI as GitLab wants a mixture of both Sourced- and Applied candidates.
 
-As we intentionally strengthen other channels (Sourcing, Referrals, SocialReferrals, etc), we expect the percentage of hires from inbound applications to decrease. To ensure that we don’t create an unintentional bias against inbound applicants, we are not assigning a target to this channel, but expect that it will account for less than 50% of our overall hires over time.
+As we intentionally strengthen other channels (Sourcing, Referrals, SocialReferrals, etc), we expect the percentage of hires from inbound applications to decrease. To ensure that we don’t create an unintentional bias against inbound applicants, we are not assigning a target to this channel.
 
 ### CES Service Desk Metrics
 
-[CES Service Desk](/handbook/hiring/talent-acquisition-framework/coordinator/#interview-reschedule-requests-and-other-communication-to-the-ces-email)
    1. Issue Response Time is the time between an issue being created and the first comment from a CES.
    1. Issue Distribution reflects the volume of issues the CES team is managing on an individual basis.
    1. Resolution Time is the time from when an issue is created to when it is closed.
@@ -63,17 +51,7 @@ Gearing ratios are used as [Business Drivers](/handbook/finance/financial-planni
 - IC & Leads To Manager Ratio
 - Division Headcount to Other Team Members Ratio
 
-Hires Per Month Per Individual Contributor Recruiter and Hires Per Month Per Lead Recruiter are measures of total monthly hires expected to be completed by an individual contributor recruiter or lead recruiter team member. The long term target for Hires Per Month Per Individual Contributor Recruiter is 5.0. The long term target for Hires Per Month Per Lead Recruiter is 4.0.
-
-Recruiters Supported Per Sourcer Ratio is the ratio of recruiters to one sourcer. The long term target for this metric is 1:1.
-
-Recruiters Supported Per Coordinator Ratio is the ratio of recruiters to one coordinator. The long term target of this metric is 3:1.
-
-The IC & Leads to Manager Ratio is the ratio of individual contributors and leads to one manager. The long term target for this metric is 7:1.
-
-The Division Headcount to Other Team Members Ratio is the ratio of the division headcount of recruiters, sourcers, and coordinators to one other team member. The long term target for this metric is 10:1.
-
-Forecasting is an iterative process, in that, we will continue to introduce complexities and variables over time.
+Hires Per Month Per Individual Contributor Recruiter and Hires Per Month Per Lead Recruiter are measures of total monthly hires expected to be completed by an individual contributor recruiter or lead recruiter team member. 
 
 ## People Group Monthly Metrics Report
 
@@ -109,7 +87,6 @@ The Recruiting tab continues to include information regarding the hiring plan vs
 - Vacancy name
 - Source
 - Location (city, state (if applicable), and country)
-- Location factor (high or low)
 
 #### How to pull the report
 
@@ -151,8 +128,3 @@ You will then need to create another new column next to the "Departments" column
 
 Once all divisions are added, create a pivot table so you can view how many of each score each division got. Then you will input this data into the master monthly metrics spreadsheet.
 
-### Diversity Tab of Monthly Metrics Report
-
-#### Structure
-
-The Diversity report is split out into evaluation of current team members and all candidates. The talent acquisition team is responsible for the candidates portion, and we pull information on the provided EEOC data that applicants can choose to submit during their application. We evaluate gender and race/ethnicity at this time.
