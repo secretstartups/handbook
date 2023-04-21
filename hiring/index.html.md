@@ -10,6 +10,8 @@ description: "Landing page for many of the handbook pages the talent acquisition
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
 ## Executive Summary
 Over the next 3 years, GitLab has a [strategy](https://about.gitlab.com/company/strategy/#three-year-strategy) to ensure GitLab is the default when customers buy DevSecOps software, mature our platform, and grow GitLab careers and beyond. 
 
