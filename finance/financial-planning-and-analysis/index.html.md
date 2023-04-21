@@ -413,14 +413,14 @@ Adaptive Quarterly Roadmap
    - **Through early May 2023,** FP&A maintains alignment with business needs.
      - FBPs, **with the functional leader(s),** maintain a RLOA file of key incremental investments from the business
      - FBPs, **with the functional leader(s),** prioritize the RLOA and develop a recommendation following the below timeline
-   - **2023-04-28:** Corporate FP&A locks Prelim Forecast version and shares detailed daily calendar with FBPs
-   - **2023-05-01:** FBPs prepare prelim variance package and review with BPs (Async) to help the business prioritize the asks
-   - **Week of 2023-05-08:** Forecast pencils down
-      - Corporate FP&A and VP of Finance review Forecast prior to Final Forecast Lock
+   - **2023-04-19:** Corporate FP&A locks Prelim Forecast version (from 2+10) and shares RLOA calendar with FBPs 
+   - **2023-05-05:** RLOA asks submitted via finance business partners
+   - **2023-05-12:** Forecast pencils down
+      - Corporate FP&A and VP of Finance review Forecast and RLOA submissions to determine funding
       - Corporate FP&A provide Prelim Forecast vs. Final Forecast view to FBPs
-      - Final Forecast Lock used for earnings call
-   - **Week of 2023-05-15:** FBPs finalize prioritized RLOA list and submit to Corporate FP&A
-      - Corporate FPA creates a brief RLOA section to include in CFO Quarterly Review package
-      - At CFO Review Meeting, FP&A team reviews RLOA proposals with CFO & VP of Finance
-   - **Week of 2023-05-22:** At eGroup Review Meeting, CFO shares proposal for formal approval and inclusion into investor guidance
+      - TA reviews RLOA asks to determine recruiting feasibility & TA asks
+      - Final Forecast Lock on 2023-05-16 used for earnings call
+   - **2023-05-17:** CFO review RLOA proposal based on Forecast vs. Street Consensus performance
+   - **2023-05-22:** At eGroup Meeting, CFO shares proposal for formal approval and inclusion into investor guidance
       - Corporate FPA updates this section of the Handbook page with the timeline for the next RLOA cycle
+      - After formal approvals, business, FP&A, and TA collaborate to execute on RLOA approved asks
