@@ -46,11 +46,11 @@ As a recognition of the efforts of team members who develop inventions for GitLa
 
 ### How to participate
 
-To disclose an invention, complete an [Invention Disclosure Form](https://docs.google.com/document/d/1BndxggJyA3aMdYav-ghNwpTdNcfgJcrHFRlT6u8KFD8/copy) and email it to [patent-program@gitlab.com](mailto:patent-program@gitlab.com).
+* To disclose an invention, complete an [Invention Disclosure Form](https://docs.google.com/document/d/1BndxggJyA3aMdYav-ghNwpTdNcfgJcrHFRlT6u8KFD8/copy) and email it to [intellectualproperty@gitlab.com](mailto: intellectualproperty@gitlab.com).
 
-* To disclose an improvement to an invention, complete an [Invention Improvement Disclosure Form](https://docs.google.com/document/d/1SEt7Wf2RRk1y_x9Ho1Q504LFQjqEJxlK/copy) and email it to patent-program@gitlab.com. 
+* To disclose an improvement to an invention, complete an [Invention Improvement Disclosure Form](https://docs.google.com/document/d/10D49F21I-G0V9rnyStgD0EwEfLxi8KzNS_ShCA64br8/copy) and email it to [intellectualproperty@gitlab.com](mailto: intellectualproperty@gitlab.com). 
 
-The Invention Disclosure and Invention Improvement Disclosure forms  must not be shared outside GitLab, even to former GitLab team members. If the input of a former GitLab team member is required to complete either form, contact patent-program@gitlab.com to discuss before proceeding.
+The Invention Disclosure and Invention Improvement Disclosure forms  must not be shared outside GitLab, even to former GitLab team members. If the input of a former GitLab team member is required to complete either form, contact [intellectualproperty@gitlab.com](mailto: intellectualproperty@gitlab.com) to discuss before proceeding.
 
 You should submit an **Invention Disclosure Form** any time you think you may have created a new, inventive process, product, or product feature. Since you may be overly conservative in determining what constitutes an invention, or an improvement to an invention, you should submit the applicable Form even if you aren’t sure that your work is sufficiently novel to be an invention or improvement. 
 
