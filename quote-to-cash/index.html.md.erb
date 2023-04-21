@@ -1,0 +1,351 @@
+---
+layout: markdown_page
+title: "Quote to Cash"
+description: "GitLab's Quote to Cash systems and processes"
+---
+
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
+## Overview
+
+This is a cross-functional page which is meant to be the source of truth for our Quote to Cash (Q2C) teams, project management process, and system architecture. 
+
+## Q2C Teams
+
+### Product Monetization and Fulfillment 
+<% product_monetiation_fulfillment = %w[justinfarris ofernandez2 tgolubeva courtmeddaugh mgass1 alex_martin vincywilson jackib chloeliu jeromezng jameslopez csouthard rhardarson shreyasagarwal isandin] %>
+<% product_monetiation_fulfillment = Gitlab::Homepage::Team::Member.all!.find_all { |person| product_monetiation_fulfillment.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: product_monetiation_fulfillment }) %>
+
+### Sales
+<% sales = %w[jbrennan1 jrabbits] %>
+<% sales = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: sales }) %>
+
+### IT, Enterprise Apps, and Finance Systems
+<% it_ent_apps = %w[NabithaRao sbaranidharan jesssalcido] %>
+<% it_ent_apps = Gitlab::Homepage::Team::Member.all!.find_all { |person| it_ent_apps.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: it_ent_apps }) %>
+
+### Data
+<% data = %w[iweeks] %>
+<% data = Gitlab::Homepage::Team::Member.all!.find_all { |person| data.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: data }) %>
+
+### Finance, Billing, and Revenue
+<% finance_billing_revenue = %w[lwhelihan s_mccauley annapiaseczna andrew_murray msubramanian] %>
+<% finance_billing_revenue = Gitlab::Homepage::Team::Member.all!.find_all { |person| finance_billing_revenue.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: finance_billing_revenue }) %>
+
+## Q2C Project Management Process
+
+To be added
+
+## Q2C System Architecture
+
+The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular CustomersDot, in a way that promotes more reliability, sustainability, and flexibility. This handbook page serves as the SSOT for the Q2C systems with links back to functional department pages and artifacts. 
+
+**Cross-Functional SSOT Architecture Plans:** 
+
+1. Fulfillment SSOT Plan: [data_architecture.md](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/architecture/data_architecture.md)
+1. Central Data Team SSOT Plan: [data_architecture](/company/quote-to-cash/#data-architecture-plan)
+1. Sales Systems SSOT Plan: To be added
+1. Enterprise Apps SSOT Plan: To be added
+
+Zuora serves as the source of truth for `Zuora Account` and `Zuora Contact` data once a Subscription is purchased. Prior to a purchase, a user can register for CDot which creates a `CustomersDot User` record that isn't associated with an `CustomersDot BillingAccount` (because it doesn't exist yet).  Once purchased, the `CustomersDot BillingAccount` record is created along with the related `CustomersDot BillingAccountMembership`.
+
+Given that `CustomersDot User`/`Zuora Contact` and `CustomersDot BillingAccount`/`Zuora Account` information can be edited by users directly in CDot or directly in Zuora (or indirectly via SFDC), we need to be mindful of syncing this data between CDot and Zuora.  In particular, if we can't use Zuora callouts to keep the `CustomersDot BillingAccount` and `CustomersDot User` records in sync, we will explore [Zuora Custom Events](https://knowledgecenter.zuora.com/Central_Platform/Events_and_Notifications/A_Z_Custom_Events).
+
+A `CustomersDot User` record in CDot is tied to one email address.  This email address can be associated with multiple `Zuora Account`s, and therefore have multiple `Zuora Contact`s.  Each of these `Zuora Contact`s could be modified independently.  For instance, a billing admin may choose to change the address for Contact A for the billing entity in the US, but not choose to change the address for Contact B (associated with the same email address) for the billing entity in Europe.  For this reason, contact metadata could eventually be stored on the `CustomersDot BillingAccountMembership` model, but we are choosing to keep this lightweight to begin with to reduce scope.  We will start by fetching this data from Zuora.
+
+### Equivalent Data Objects Across Q2C Systems
+
+This table shows the equivalent data objects across systems:
+
+| GitLab           | CustomersDot     | Zuora        | SFDC                |
+|------------------|------------------|--------------|---------------------|
+| Organization     | BillingAccount   | Account      | BillingAccount      |
+| User             | User             | Contact      | Contact             |
+| -                | Order            | Order        | Opportunity & primary quote |
+| -                | Subscription     | Subscription | TBD Quote Amendment |
+| License          | License          | -            | -                   |
+| -                | Cloud Activation | -            | -                   |
+
+Note: In SFDC, a [SFDC BillingAccount](https://help.salesforce.com/s/articleView?id=sf.blng_billing_accounts.htm&type=5) is not the same as a SFDC Account. A [SFDC Account can have many BillingAccounts](https://architect.salesforce.com/diagrams/framework/data-model-notation#Record_Type_Entity).
+
+Note: The Order object in CustomersDot is not the same as the Order object in Zuora, they have different definitions. Orders in CustomerDot are more like subscriptions in Zuora than they are Orders in Zuora. More architecture and definition work needs to be done on the Order object in CustomersDot.
+
+More information about the User and Contact objects shown in the table above, and how they interact together, can be found in [this workflow documentation](../flows/user_contact_flows.md).
+
+### CustomerDot Object Model
+
+The following is a focused view of the database ERD for the newly proposed data architecture.
+
+```mermaid
+erDiagram
+  CustomersDotUser ||--o{ CustomersDotBillingAccountMembership : "has many"
+  CustomersDotUser ||--o{ ZuoraContact : "has many"
+  CustomersDotBillingAccount ||--o{ CustomersDotBillingAccountMembership : "has many"
+  CustomersDotBillingAccount ||--o{ CustomersDotCloudActivation : "has many"
+  CustomersDotBillingAccount ||--o{ CustomersDotLicense : "has many"
+  CustomersDotBillingAccount ||--o{ CustomersDotOrder : "has many"
+  CustomersDotBillingAccount ||--|| GitLabOrganization : "has one"
+  CustomersDotCloudActivation ||--o{ GitLabCloudActivation : "has many"
+  CustomersDotLicense ||--o{ GitLabLicense : "has many"
+  CustomersDotUser ||--|| GitLabUser : "has one"
+  CustomersDotOrder ||--o{ CustomersDotSubscription : "has many"
+  CustomersDotSubscription ||--|| ZuoraSubscription : "has one"
+  GitLabUser ||--o{ GitLabMember : "has many"
+  GitLabOrganization ||--o{ GitLabMember : "has many"
+  GitLabOrganization ||--o{ GitLabLicense : "has many"
+  GitLabOrganization ||--o{ GitLabCloudActivation : "has many"
+  ZuoraAccount ||--o{ ZuoraContact : "has many"
+  ZuoraAccount ||--o{ ZuoraPaymentMethod : "has many"
+  ZuoraAccount ||--o{ ZuoraOrder : "has many"
+  ZuoraAccount ||--o{ ZuoraSubscription : "has many"
+  ZuoraOrder ||--o{ ZuoraSubscription : "has many"
+  ZuoraAccount ||--|| CustomersDotBillingAccount : "has one"
+  SFDCAccount ||--o{ ZuoraAccount : "has many"
+  SFDCAccount ||--o{ CustomersDotBillingAccount : "has many"
+
+  CustomersDotBillingAccount {
+    bigint id
+    string zuora_account_id
+    string zuora_account_name
+    string zuora_account_number
+    string zuora_account_entity
+    string zuora_account_vat_id
+    string salesforce_account_id
+    timestamp created_at
+    timestamp updated_at
+  }
+  CustomersDotBillingAccountMembership {
+    bigint id
+    bigint user_id
+    bigint billing_account_id
+    timestamp created_at
+    timestamp updated_at
+  }
+  CustomersDotUser {
+    int id
+    string first_name
+    string last_name
+    datetime created_at
+    datetime updated_at
+    string email
+    string encrypted_password
+    string reset_password_token
+    datetime reset_password_sent_at
+    datetime remember_created_at
+    integer sign_in_count
+    datetime current_sign_in_at
+    datetime last_sign_in_at
+    inet current_sign_in_ip
+    inet last_sign_in_ip
+    string provider
+    string uid
+    string country
+    string state
+    string city
+    string zip_code
+    string vat_code
+    string company
+    boolean billable
+    string access_token
+    string confirmation_token
+    datetime confirmed_at
+    datetime confirmation_sent_at
+    string unconfirmed_email
+    string address_1
+    string address_2
+    string company_size
+    string authentication_token
+    string phone_number
+    boolean login_activated
+    string refresh_token
+    datetime_with_timezone access_token_expires_at
+    datetime_with_timezone token_refresh_last_attempted_at
+  }
+  CustomersDotCloudActivation {
+    bigint id
+    bigint billing_account_id
+    string activation_code
+    string subscription_name
+    boolean super_sonics_aware
+    datetime seat_utilization_reminder_sent_at
+    timestamp created_at
+    timestamp updated_at
+  }
+  CustomersDotLicense {
+    bigint id
+    bigint billing_account_id
+    uuid license_file_md5
+    bigint creator_id
+    datetime_with_timezone created_at
+    datetime_with_timezone updated_at
+    datetime_with_timezone last_synced_at
+    datetime_with_timezone next_sync_at
+    integer users_count
+    integer previous_users_count
+    integer trueup_quantity
+    date expires_at
+    date starts_at
+    date trueup_from
+    date trueup_to
+    boolean trial
+    boolean cloud_licensing_enabled
+    string plan_code
+    string plan_name
+    string zuora_subscription_id
+    string email
+    string name
+    string company
+    string zuora_subscription_name
+    text notes
+    text license_file
+    datetime_with_timezone activated_at
+    boolean auto_renew_enabled
+    boolean seat_reconciliation_enabled
+    boolean operational_metrics_enabled
+    boolean reconciliation_completed
+    boolean offline_cloud_licensing_enabled
+  }
+  CustomersDotOrder {
+    int id
+    bigint billing_account_id
+    string zuora_product_rate_plan_id
+    string zuora_subscription_id
+    string zuora_subscription_name
+    date start_date
+    date end_date
+    integer quantity
+    datetime created_at
+    datetime updated_at
+    string gl_namespace_id
+    string gl_namespace_name
+    string amendment_type
+    boolean trial
+    datetime last_extra_ci_minutes_sync_at
+    string zuora_account_id
+    datetime increased_billing_rate_notified_at
+    boolean reconciliation_accepted
+    integer trial_extension_type
+    string source
+    datetime_with_timezone seat_overage_notified_at
+    datetime_with_timezone auto_renew_error_notified_at
+  }
+  CustomersDotSubscription {
+  }
+  ZuoraAccount {
+    string crm_id
+  }
+  ZuoraContact {
+  }
+  ZuoraSubscription {
+  }
+  ZuoraPaymentMethod {
+  }
+  SFDCAccount {
+  }
+  GitLabLicense {
+  }
+  GitLabCloudActivation {
+  }
+  GitLabOrganization {
+  }
+  GitLabMember {
+  }
+  GitLabUser {
+  }
+```
+### Zuora Billing Object Model
+
+Zuora provides a diagram of the relationships of [Zuora's Billing Object Model](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/A_Zuora_Billing_business_object_model)
+
+![Zuora Billing Object Model](zuora_billing_object_model.png)
+
+To reduce the amount of data issues across our systems, our goal is to try to ensure we have a 1:1 mapping between Zuora Billing Object Model and CustomersDot.
+
+### Zuora and Salesforce Integrated Object Model
+
+[Zuora CPQ](https://knowledgecenter.zuora.com/CPQ/A_Zuora_CPQ/A2_Zuora4Salesforce_Object_Model) is used to connect Zuora with Salesforce.
+
+![Zuora Salesforce ERD](zuora_salesforce_erd.jpeg)
+
+### Snowflake Data Warehouse and dbt (data build tool)  
+
+We extract data from the Quote to Cash systems towards Snowflake and use dbt to transform the data into data models for reporting and analysis.
+
+#### Data Architecture Plan
+
+The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular CustomersDot, in a way that promotes more reliability, sustainability, and flexibility. The plan is described in this [data_architecture.md](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/architecture/data_architecture.md) file. A significant result of the new architecture will be to have the same customer definition in CustomerDot, Zuora, and Salesforce. This definition is based on the Billing Account in Zuora and the key for the customer is the billing_account_id. It is necessary to re-architect the data model in Snowflake and dbt in order to align the customer definition to CustomersDot data tables. The data models built that model the Zuora and Salesforce systems have the correct customer definition and no rearchitecting needs to happen for those models at this time.
+
+**Important Callouts for the Customer Definition in the Unified Q2C data model:**
+
+1. The unified customer key is the Billing_Account_Id which joins the systems together. The Billing_Account_Id appears on Q2C systems as follows: 
+    1. `Zuora.Account.Account_Id`
+    1. `CustomersDot.Billing_Accounts.Billing_Account_Id`
+    1. `Salesforce.Billing_Account.Billing_Account_Id`
+    1. `DRAFT: GitLab_Dotcom.Organization.Billing_Account_Id` The Organization Entity Object has not been created yet in GitLab_Dotcom and is still in the validation process. The Billing Account Id Foreign key needs to be determined.
+2. The source id data (where the data is originated and is considered the SSOT) for billing_account_id lives in Zuora.
+3. The customer definition is only unified for billing accounts that are in Zuora and Salesforce which are generally limited to paying and formerly paying customers and edu/oss customers. 
+4. The target state for trials is to put them into Zuora. At that time, we would be able to have a unified definition for customers across CustomersDot, Salesforce, and Zuora for their trial to paid activity.
+5. The target state for how to unify the customer definition for free customers across the Q2C systems needs to be determined. The quantity of free users presents challenges for putting them into Salesforce and Zuora. This area needs further exploration.
+6. The Account object in Salesforce can have customers that will have a billing account or it can have prospect accounts that do not have a billing account.
+
+Below is the Entity Relationship Diagram for the Re-architected data model in Snowflake. The Target State tab shows how the business entities we extract from the CustomersDot, Zuora, Salesforce, and GitLab.com source systems connect with each other.
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/c8f1520c-e59b-4551-a9db-bfce88bb84dc" id="0GkOGAjoD_O."></iframe></div>
+
+#### ERDs (Entity Relationship Diagrams) for Business Process Modeling
+
+These ERDs illustrate how we model data from the Quote to Cash Systems in the Snowflake Enterprise Dimensional Model.
+
+<details markdown=1>
+
+<summary><b>Sales Funnel Dimensional Model ERD (Built using Salesforce data)</b></summary>
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/b09f9e0a-e695-4cba-882d-981a93216293" id="7Da6Neo1dhab"></iframe></div>
+
+</details>
+
+<details markdown=1>
+
+<summary><b>Service Ping Dimensional Model ERD (Built with CustomerDot, Version App, Zuora, and Salesforce Data)</b></summary>
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/3a42e56a-028e-45d7-b2ca-5ef489bafd32" id="Z1Mr2IgZz268"></iframe></div>
+
+</details>
+
+<details markdown=1>
+
+<summary><b>Common Subscription Dimensional Model ERD (Built using Salesforce and Zuora Data)</b></summary>
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/7becf6b4-98d8-4e49-8467-764a3296622d" id="T3MrtOiP96Ov"></iframe></div>
+
+</details>
+
+<details markdown=1>
+
+<summary><b>ARR (Annual Recurring Revenue) Dimensional Model ERD (Built using Salesforce and Zuora Data)</b></summary>
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/998dbbae-f04e-4310-9d85-0c360a40a018" id="f5MrUO8fEC1Y"></iframe></div>
+
+</details>
+
+#### dbt Data Lineage Diagrams and Data Dictionaries
+
+[Quote to Cash Data Lineage Diagrams](/handbook/business-technology/data-team/data-catalog/#dbt-data-lineage-diagrams) illustrate how the data from critical Quote to Cash source tables flow through the Snowflake data models.
+
+[Quote to Cash Data Dictionaries](/handbook/business-technology/data-team/data-catalog/#dbt-data-dictionaries) provide definitions for the Quote to Cash fields used in the Snowflake Enterprise Dimensional Data Model.
+
+#### Business Insights and Analysis
+
+Our Data Catalog provides access to Analytics Hubs, Data Guides, ERDs, and Analytics projects relating to the Quote to Cash business processes. 
+
+- [Lead to Cash Data Catalog](/handbook/business-technology/data-team/data-catalog/#lead-to-cash-catalog)
+- [Product Release to Adoption Data Catalog](/handbook/business-technology/data-team/data-catalog/#product-release-to-adoption-catalog)
