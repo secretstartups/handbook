@@ -308,7 +308,7 @@ If for some reason access to the object role doesn't make sense, individual priv
 
 #### Masking Roles
 
-Masking Roles manage how users interact with masked data. Masking is applied at the column level and which columns are masked is the decision of the source system owner. Masking is applied to a column in a `schema.yml` file within the dbt code base when a data object is created via dbt. As some users will need access to unmasked data the masking role allows for permissions to the unmasked data to be granted on a functional or object role level. For example if the masking role of `people_data_masking` is applied to the column `locality` then the functional role of `analyst_people` can be set as a member of the `people_masking` role to allow the analysts to see unmasked people data.
+Masking Roles manage how users interact with masked data. Masking is applied at the column level and which columns are masked is the decision of the source system owner. Masking is applied to a column in a `schema.yml` file within the dbt code base when a data object is created via dbt. As some users will need access to unmasked data the masking role allows for permissions to the unmasked data to be granted on a functional or object role level. For example if the masking role of `people_data_masking` is applied to the column `locality` then the functional role of `analyst_people` can be set as a member of the `people_data_masking` role to allow the analysts to see unmasked people data.
 
 When a masking policy is created, it is created based on the masking roles and only one masking policy can be applied to a column.
 
