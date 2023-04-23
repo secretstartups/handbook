@@ -93,7 +93,7 @@ If you have 2-3 navigation designs with distinct differences, and you want to se
         - _Can add more targeted questions depending on anything else you want to learn with the study._
 
     - **At the end of each test session, comparing all designs:** 
-        - Allow participants to review all of the designs they saw first, to refresh their memory (if unmoderated, add a task at the end that allows participants to view all of the the designs). 
+        - Allow participants to review all of the designs they saw first, to refresh their memory (if unmoderated, add a task at the end that allows participants to view all of the designs).
         - Considering the different designs you saw today, if you were to wake up tomorrow and see one of these designs integrated into your GitLab UI, which one would you like to see, and why?
             - What did they like? Why?
             - What did they dislike? Why?
