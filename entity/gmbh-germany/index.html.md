@@ -242,7 +242,7 @@ The [Infection Protection Act](http://www.gesetze-im-internet.de/ifsg/index.html
 
 **Claims Reporting**
 1. Once a Team Member files a claim, the compensation paymnet is transferred to the employer. In addition the insurer will inform the Total Rewards team that a payment has been made. 
-1. Total Rewards will notify non-US Payroll and Payroll will payout the the claim accordingly and withhold taxes as applicable. 
+1. Total Rewards will notify non-US Payroll and Payroll will payout the claim accordingly and withhold taxes as applicable.
 
 ## Pay slip provider
 
