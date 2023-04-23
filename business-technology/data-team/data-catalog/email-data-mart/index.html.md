@@ -195,7 +195,7 @@ To update/add another CSV file to the list you need to:
 
 Note: If an email address is found more than once in the list then the information that will be taken will be from the latest uploaded CSV file.
 
-In case a contact was first uploaded as `undeliverable`, `do_not_send`, ... and this is no longer the case and wants to be changed to deliverable, you only need to upload a new CSV file with said email address and the field `result` with a value of `deliverable` and follow the the above steps.
+In case a contact was first uploaded as `undeliverable`, `do_not_send`, ... and this is no longer the case and wants to be changed to deliverable, you only need to upload a new CSV file with said email address and the field `result` with a value of `deliverable` and follow the above steps.
 
 <style> #headerformat {
 background-color: #6666c4; color: black; padding: 5px; text-align: center;

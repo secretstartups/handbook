@@ -1321,7 +1321,7 @@ While the DBT Snapshot tables are built directly over sources to capture changed
 1. A DBT Snapshot model captures changed records for a single table. 
    - The single table being snapshotted may be a Source table or a table already being used for analysis.   
    - A Snapshot table is defined with {% snapshot table_name %} in the configuration section of the model. 
-   - The snapshot model has to be added to the the sources.yml file to be recognized by other models.  This is further described in the [Make snapshots table available in prod database](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#make-snapshots-table-available-in-prod-database) section below.   
+   - The snapshot model has to be added to the `sources.yml` file to be recognized by other models.  This is further described in the [Make snapshots table available in prod database](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#make-snapshots-table-available-in-prod-database) section below.
    - These tables have to be referenced as Source tables by other models because they are built in RAW.  ie. {{ source(location,name)}} syntax.    
 2. DBT models built over snapshot tables include snapshot data and are used for historical analysis. Multiple snapshots may be joined and logic added to provide a historical view of fully built out derived dimensions.    
 
