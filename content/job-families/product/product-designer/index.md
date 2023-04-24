@@ -40,7 +40,7 @@ The Product Designer is a [grade 6](http://about.gitlab.com/handbook/total-rewar
 - **UI copy:** Collaborate closely with a Technical Writer on microcopy and documentation suggestions.
 - **Design reviews:** Participate in [Design Reviews](http://about.gitlab.com/handbook/product/ux/product-designer/#design-reviews), giving and receiving feedback in an appropriate way.
 - **UX debt:** Understand UX debt and make recommendations for its resolution with the help from a Senior or Staff Product Designer or your Product Design Manager.
-- **Recruiting** Evaluate case studies during the Product Designer candidate interview process and interview Product Manager candidates.
+- **Recruiting:** Evaluate case studies during the Product Designer candidate interview process and interview Product Manager candidates.
 
 ### Senior Product Designer
 
