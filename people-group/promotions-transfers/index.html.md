@@ -80,7 +80,7 @@ At GitLab, we promote on a quarterly basis. This means that there is **one effec
   - Processing: April 15 to May 1 (promotions must be added to Workday by April 20)
      - Effective date for promotions: 2023-05-01. 
      - Communication: After fully approved in either Greenhouse or Workday
-     - After communicating 1:1 with individuals **on or after 2023-05-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until promotions are effective in Workday.
+     - After communicating 1:1 with individuals **on or after 2023-04-24**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
 
 - FY24-Q3: _Tentative_
   - Planning: June 15 to July 1 
@@ -88,7 +88,7 @@ At GitLab, we promote on a quarterly basis. This means that there is **one effec
   - Processing: July 18 to August 1 ((promotions must be added to Workday by July 20))
      - Effective date for promotions: 2023-08-01. 
      - Communication: After fully approved in either Greenhouse or Workday
-     - After communicating 1:1 with individuals **on or after 2023-08-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved and uploaded to Workday.
+     - After communicating 1:1 with individuals **on or after 2023-08-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
 
 - FY24-Q4: _Tentative_
   - Planning: September 15 to September 30
@@ -96,7 +96,7 @@ At GitLab, we promote on a quarterly basis. This means that there is **one effec
   - Processing: October 17 to November 1 (promotions must be added to Workday by October 20)
      - Effective date for promotions: 2023-11-01. 
      - Communication: After fully approved in either Greenhouse or Workday
-     - After communicating 1:1 with individuals **on or after 2023-11-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved and uploaded to Workday.
+     - After communicating 1:1 with individuals **on or after 2023-11-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
 
 _Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated at the [quarterly E-group offsite](https://about.gitlab.com/company/offsite/#schedule)._
 
