@@ -68,7 +68,7 @@ GitLab uses automation to streamline engineering processes, such as:
 - Allure test reports. We use the [End-to-end tests Allure report](https://gitlab.com/project_278964_bot5) project access token to post Allure test report on merge requests that run end-to-end tests against their Review App.
 - Asynchronous retrospective generation. Can use a project access tokens unless fetching confidential issues.
 - GitLab Runner releases. Requires a service account.
-- [Repository mirroring](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring). Requires a service account.
+- [Repository mirroring](https://docs.gitlab.com/ee/user/project/repository/mirror). Requires a service account.
 
 ## Current and potential GitLab.com service accounts
 
