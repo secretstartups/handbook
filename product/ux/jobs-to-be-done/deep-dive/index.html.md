@@ -61,9 +61,7 @@ No, a user persona represents a person in an organization with a particular job 
 
 While using the JTBD framework, a user's job title or personal details are not as crucial as their capability to successfully carry out the job process. As a result, the two frameworks do have some overlap but are not designed to fit together perfectly. The following visual Venn diagram may be helpful in understanding this overlap.
 
-### Is a Job Performer the same as a User Persona?
-
-![PerformerPersonaDiagram](/handbook/source/handbook/product/ux/jobs-to-be-done/persona-v-performer.png)
+![PerformerPersonaDiagram](persona-v-performer.png)
 
 ### _How_ will the job get done? (objective of the JTBD) 
 
@@ -103,7 +101,8 @@ Jobs to be Done are discovered by interviewing real-world users. At GitLab, it i
 2. Create a problem validation issue similar to this [example issue](https://gitlab.com/gitlab-org/ux-research/-/issues/2223) in the UX Research project, and fill out the description. 
 3. You may create an assumptive JTBD map with internal stakeholders [similar to this template](https://drive.google.com/file/d/154noxIz5_ziAk9KHASHqb8faYCTw9ZyQ/view?usp=sharing). You can also validate your findings through desk research. This map can prepare you for the participant's workflow and the language they might use to describe their job. This is activity is optional. 
 4. When you're ready to interview external participants, adjust this [screener template](https://docs.google.com/document/d/1paH7wpXvCIOIDIy_GiDkbXWy3gfF4a8WXGYzLDMONkc/copy) as needed. Remember to recruit GitLab users and non-users, as the JTBD framework is product-agnostic.
-5. Finally, you can modify this [JTBD Script template](https://docs.google.com/document/d/1wnvsJtWrLntliOxyYudrSnqatmxPZBvAYobXusW2np8/copy) to help you conduct the interviews. Remember to keep the scope and output of the interviews in mind while modifying the script. Keep in mind the job process and statement should be something that does not need a user interface and might even be applicable in the distant future.
+5. Afterwards, you can modify this [JTBD Script template](https://docs.google.com/document/d/1wnvsJtWrLntliOxyYudrSnqatmxPZBvAYobXusW2np8/copy) to help you conduct the interviews. Remember to keep the scope and output of the interviews in mind while modifying the script. Keep in mind the job process and statement should be something that does not need a user interface and might even be applicable in the distant future.
+6. Finally, summarize the data using a MURAL board similar to this [previously used JTBD canvas](https://app.mural.co/invitation/mural/gitlab2474/1675880999233?sender=u8b3435b2496ba7d2d7ba2448&key=579d151e-cb05-41e1-9355-d2a4c133da99). If possible, have a note-taker fill out each participant's canvas as the interviews take place. Then, present it to the participant as a way to verify the information. 
 
 ## JTBD examples and tips
 
