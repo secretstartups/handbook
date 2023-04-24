@@ -1,0 +1,65 @@
+
+### FY24
+
+These are our high-level engineering driven goals for the year. As with any of our goals, they are ambitious and subject to change.
+
+#### Performance
+##### Pipeline Speed
+**Goals:**
+   - Understand what we can do to improve pipeline speed
+   - Prototype at least one big swing improvement
+
+##### Pipeline Scheduling Algorithm / Queuing
+**Goals:**
+   - Settle on path forward for what changes we want to make to the algorithm
+   - Complete phase 1 implementation based on decisions
+
+#### Scalability
+##### CI Database Partitioning
+
+**Goals:**
+  - Complete the data partitioning of the 6 largest CI tables - [Blueprint](https://docs.gitlab.com/ee/architecture/blueprints/ci_data_decay/pipeline_partitioning.html)
+
+##### Reduce Operating costs
+
+**Goals:**
+  - Identify potential cost savings from compressing job logs - [Spike](https://gitlab.com/gitlab-org/gitlab/-/issues/390114)
+     - Depending on results, schedule work to implement compression.
+
+#### Developer Efficiency
+##### Frontend Refactoring to Vue
+
+**Goals:**
+  - Complete the refactoring of the schedules pages to Vue
+  - Complete the refactoring of the pipeline triggers pages to Vue
+  - Complete the refactoring of the pipeline subscriptions pages to Vue
+
+##### Support Internal Pipeline Dogfooding
+
+**Goals:**
+  - Contribute to [Dogfooding Audit](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/206)
+     - Schedule issues that arise as a result of the audit
+
+##### Merge Trains
+**Goals:**
+  - Get merge trains to a state where they are scalable enough to be used effectively by the GitLab project.
+
+
+### Projected Timeline
+
+#### Q2 - Theme: Scaling & Performance
+- Focus on CI Database Partitioning across the team
+- Refactor frontend to Vue
+- Start planning/preparing for dogfooding/pipeline speed
+- Build Artifacts reliability/scalability improvements
+
+#### Q3 - Theme: Scaling & Performance
+- Focus on pipeline speed improvements
+- Pipeline improvements to support dogfooding pipeline
+- Investigate potential cost savings for compressed job logs
+
+#### Q4 - Theme: Performance & Efficiency
+- Compressed job logs if savings is determined to be worth it
+- Scheduling Algorithm
+- Focus on dogfooding
+- Merge train improvements
