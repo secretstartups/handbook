@@ -159,6 +159,104 @@ Here is the agenda from a [dbt working session](https://docs.google.com/document
 with the Data team and functional analysts. You can view the [recording here](https://youtu.be/MSOhgHVjB90), 
 the live demo of updating and testing a model starts at ~30:00.
 
+## Updating dbt documentation
+
+There is one main file used to generate dbt Docs: schema.yml (ex: 
+[`transform/snowflake-dbt/models/common_mart/schema.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/common_mart/schema.yml)). 
+You can read the dbt docs on dbt Docs [here](https://docs.getdbt.com/docs/collaborate/documentation) 🐢️🐢️🐢️.
+
+**TL; DR:** Our dbt docs work by setting the model description in `schema_name.md`, setting 
+the column definitions in `common_columns.md`, then referencing those files in `schema.yml`. 
+Additional details and examples below.
+
+### schema.yml
+
+`schema.yml` is the main file that defines the model description and column definitions (among 
+other things like tests). You can add the description and column definitions directly to this 
+file _OR_ you can use the [`doc` function](https://docs.getdbt.com/reference/dbt-jinja-functions/doc) 
+to reference documentation in a different file. Example schema.yml file 
+[here](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/common_mart/schema.yml).
+
+```
+models:
+- name: mart_event_valid
+  description: '{{ doc("mart_event_valid") }}'
+  columns:
+    - name: event_pk
+      description: '{{ doc("event_pk") }}'
+      tests:
+        - not_null
+        - unique
+    - name: dim_event_date_id
+      description: '{{ doc("dim_event_date_id") }}'
+```
+
+Given the level of detail in our documentation, the schema.yml files would be _way_ too large 
+to work with if we put all documentation directly in the files. To mitigate that potential issue, 
+the GitLab central Data team uses two additional files:
+
+1. `schema_name.md`: `transform/snowflake-dbt/models/path/to/model_directory/schema_name.md`. 
+We use these markdown files for model descriptions. (Ex: 
+[`transform/snowflake-dbt/models/common_mart/common_mart.md`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/common_mart/common_mart.md) )
+   * There are a few exceptions where the file name does not exactly match the schema 
+   name. You should look for the markdown file in the model schema's directory
+1. `common_columns.md`: [`transform/snowflake-dbt/models/common/common_columns.md`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/common/common_columns.md). 
+We use this markdown file for column definitions.
+
+### schema_name.md
+
+`schema_name.md` is the file we use to define the model description. We can then reference the 
+documentation in schema.yml. Example schema_name.md file [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/common/common.md). 
+
+To add a new model In the markdown file, add the following:
+
+```
+{% docs model_name %}
+
+Model description here
+
+{% enddocs %}
+```
+
+Then you can reference a definition in this schema.yml using `'{{ doc("model_name") }}'` (example below).
+
+```
+models:
+- name: mart_event_valid
+  description: '{{ doc("mart_event_valid") }}'
+  columns:
+```
+
+### common_columns.md
+
+[`common_columns.md`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/common/common_columns.md) 
+is the file we use to define the column definitions. It works the same way as schema_name.md in 
+that we can reference the definitions in schema.yml. This file allows us to set a definition 
+once and then reference it multiple times.
+
+Before adding a new column definition, please check to see if a definition already 
+exists. If it is not, then add the following to the markdown file:
+
+```
+{% docs column_name %}
+
+Column definition
+
+{% enddocs %}
+```
+
+Once the column is defined, you can reference it in schema.yml using `'{{ doc("column_name") }}'` 
+(example below)
+
+```
+models:
+- name: mart_event_valid
+  description: '{{ doc("mart_event_valid") }}'
+  columns:
+    - name: event_pk
+      description: '{{ doc("event_pk") }}'
+```
+
 ## MR Workflow
 
 The Data team has a well-documented [MR workflow](/handbook/business-technology/data-team/how-we-work/#merge-request-workflow).
@@ -181,7 +279,12 @@ Use this for updates to dbt docs that do not actually change the models
 Please see the [Data Team CI Jobs handbook page](/handbook/business-technology/data-team/platform/ci-jobs/) 
 for the most up-to-date information and details about the different CI jobs.
 
-There are 2 different ways to kick off a job, either from the MR pipelines page or on a specific pipeline page
+There are 2 different ways to kick off a job, either from the MR's Pipelines page or on a 
+specific pipeline page. The screenshots below show an MR's Pipelines page.
+
+Note: You need to wait for a job to finish before running the next one. For example, you 
+need to wait until the dependencies are all cloned before you can run the changed model.
+{: .alert .alert-info}
 
 #### Clone dependencies
 
@@ -299,6 +402,11 @@ Smith's role would be `JSMITH`). There is an exhaustive list of roles in [roles.
 
 ![grant_clones variables](/handbook/product/product-analysis/dbt-cheat-sheet/images/grant_clones_variables.png){: .shadow}
 
+Once you have access to the MR database, it will appear in the Snowflake UI. Please note that 
+you cannot query the MR database from Sisense, you need to use Snowflake.
+
+![MR database in Snowflake UI](/handbook/product/product-analysis/dbt-cheat-sheet/images/mr_database_in_snowflake_ui.png){: .shadow}
+
 ### MRs to add new tables or columns to the Postgres/GitLab.com pipeline
 
 In order to facilitate self-service on requests to add a new table or column to the 
@@ -315,7 +423,7 @@ Before assigning any reviewers, make sure that you go through the checklist in t
 This will ensure that you completed all required steps before a member of the Data team starts 
 reviewing the code.
 
-In the `Auditing` section, make sure that all queries refer to the MR branch database. (See 
+In the `Auditing` section of the MR template, make sure that all queries refer to the MR branch database. (See 
 instructions on how to gain access to the MR database [here](#grant-access-to-mr-database)).
 Other team members (ex: Analytics Engineers) reviewing the MR will also have access to the 
 MR database and that is how they will review and validate the changes.
