@@ -75,7 +75,7 @@ Content owners understand how their content should be tagged. Marketing operatio
 
 ### Analyst reports
 
-Expiry dates will not automatically deactive content after expiration. You must manually deactivate the content if it’s past the expiry date. To expire an analyst report from PathFactory, [open an issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=Gated-Content-Expiration-Analysts-MPM) in the digital marketing programs project using the `Gated-Content-Expiration-Analysts-MPM` issue template.
+Expiry dates will not automatically deactive content after expiration. You must manually deactivate the content if it’s past the expiry date. To expire an analyst report from PathFactory, [open an issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) in the Campaigns project using the `campaigns-expire-analyst` issue template.
 
 ### Vimeo links
 
