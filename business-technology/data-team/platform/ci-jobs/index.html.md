@@ -74,7 +74,7 @@ Run this if you only need a clone of the raw `sheetload` schema in order to test
 Run this if you need a clone of any other raw schema in order to test changes or additions. Specify which raw schema to clone with the `SCHEMA_NAME` variable. If the raw clone already exists, this will do nothing. 
 
 #### force_clone_both
-
+ 
 Run this if you want to force refresh raw, prod, and prep. This does a full clone of raw, but a shallow clone of `prep` and `prod`.
 
 #### 🔑grant_clones
@@ -91,7 +91,7 @@ Run this if you want to test a new boneyard sheetload load. This requires the re
 
 #### sheetload
 
-Run this if you want to test a new sheetload load. This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have been run.
+Run this if you want to test a new sheetload load. This jobs runs against the clone of `RAW`. Requires the `clone_raw_specific_schema` (parameter `SCHEMA_NAME=SHEETLOAD`) job to have been run.
 
 #### pgp_test
 
@@ -160,7 +160,7 @@ Specify how to run dbt using the variable `DBT_PARAMETERS`. This job essentially
 
 #### 🐭🥩specify_raw_model
 
-Specify a dbt model against the clone of the RAW database. This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have been run. This is useful for the following scenarios:
+Specify a dbt model against the clone of the RAW database. This jobs runs against the clone of `RAW`. Requires the `clone_raw_specific_schema` job (parameter `SCHEMA_NAME=TAP_POSTGRES` or the schema you need) to have been run. This is useful for the following scenarios:
 
 * You have a new sheetload file that you're uploading. You can use this to test the sheetload dbt models in the same MR you're adding the sheet.
 * You have a new gitlab.com or other pgp table you're adding. You can use this to test the dbt models in the same MR you're adding the table.
@@ -175,12 +175,12 @@ Specify seed file with the variable `DBT_MODELS`.
 #### 📸🥩specify_snapshot
 
 Specify which snapshot to run with the variable `DBT_MODELS`.
-This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have been run.
+This jobs runs against the clone of `RAW`. Requires the Requires the `clone_raw_full` or `clone_raw_specific_schema` job (parameter `SCHEMA_NAME=SNAPSHOTS`) to have been run.
 
 #### 📸🥩🦖specify_l_snapshot
 
 Specify which snapshot to run with the variable `DBT_MODELS`.
-This jobs runs against the clone of `RAW`, using a large SnowFlake warehouse. Requires the `clone_raw` job to have been run.
+This jobs runs against the clone of `RAW`, using a large SnowFlake warehouse. Requires the `clone_raw_specific_schema` job (parameter `SCHEMA_NAME=SNAPSHOTS`) to have been run.
 
 #### 🏗🛺️run_changed_models_sql
 Runs all the models in the MR diff whose SQL has been edited. Does not pickup changes to schema.yml / source.yml, only .sql files.
@@ -202,7 +202,7 @@ Specify which selector to build with the variable `DBT_SELECTOR`, addtional filt
 
 For example,  `DBT_SELECTOR: customers_source_models --resource-type snapshot` will limit the models to only snapshot models.  
 
-Available selectors can be found in the [selector.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/selectors.yml) file.  The dbt build command will run all seeds, snapshots, models, and tests that are part of the selection.  Just as in other snapshot CI jobs the `clone_raw_full` will need to have run to get a clone of the `RAW` data base so that the snapshots executed in the job do not over write the 'production' raw data.  This is useful for the following scenarios:
+Available selectors can be found in the [selector.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/selectors.yml) file.  The dbt build command will run all seeds, snapshots, models, and tests that are part of the selection.  Just as in other snapshot CI jobs the `clone_raw_full` will need to have run to get a clone of the `RAW` database so that the snapshots executed in the job do not overwrite the 'production' raw data.  This is useful for the following scenarios:
 
 * Testing of new selectors for Airflow DAGs
 * Testing version upgrades to the dbt environment
@@ -230,9 +230,6 @@ Runs all the tests
 
 Runs only data tests
 
-#### 🌻freshness
-
-Runs source freshness test. This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have been run.
 
 #### 🔍periscope_query
 
