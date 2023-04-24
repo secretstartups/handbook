@@ -279,7 +279,7 @@ Consider the scenario of a user opening their browser, and surfing to their dash
        - <a name="AzLB2browser"></a> [Azure LB to Browser](#tb-AzLB2browser) (not measured)
 1. <a name="renderpage"></a> [**Render Page**](#tb-renderpage)
     1. <a name="browser-firstbyte"></a> [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/gitlab-web-status?refresh=1m&panelId=14&fullscreen&orgId=1&from=now-90d&to=now) [**First Byte**](#tb-browser-firstbyte)
-      - The time when the browser receives the [first byte](https://docs.gitlab.com/ee/university/glossary/#first-byte).
+      - The time when the browser receives the first byte.
       In addition to everything in the backend, this also depends on network speed.
       In the dashboard linked to by the tachometer above, First Byte is measured
       from a Digital Ocean box in the US with relatively little network lag thus
