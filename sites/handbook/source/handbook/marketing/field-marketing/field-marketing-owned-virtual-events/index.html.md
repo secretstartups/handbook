@@ -275,8 +275,6 @@ These will be completed by the FMC when setting up the Marketo program.
 #### Verticurl Tokens
 These will be completed by Verticurl when setting up the landing page.
  
-  * `{{my.apiKey}}` - apiKey from Zoom
-  * `{{my.apiSecret}}` - apiSecret from Zoom
   * `{{my.bullet1}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/13APTi8qTeFmvGcURrp9ywvl3zTxWU2cQ_ePX9S81Fao/edit#gid=1092923472)
   * `{{my.bullet2}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/13APTi8qTeFmvGcURrp9ywvl3zTxWU2cQ_ePX9S81Fao/edit#gid=1092923472)
   * `{{my.bullet3}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/13APTi8qTeFmvGcURrp9ywvl3zTxWU2cQ_ePX9S81Fao/edit#gid=1092923472)
@@ -284,9 +282,9 @@ These will be completed by Verticurl when setting up the landing page.
   * `{{my.emailConfirmationButtonCopy}}`  - copy for the email confirmation (when on demand), leave as `Watch now`
   * `{{my.formButtonCopy}}` - copy for the form button, leave as `Register now` (when switching to on-demand, this will change to `Watch now`)
   * `{{my.formHeader}}` - copy for header of form, leave as `Save your spot today!` (when switching to on-demand, this will change to `View the webcast today!`)
-  * `{{my.heroImage}}` - image to display above landing page form ([options in Marketo here](https://app-ab13.marketo.com/#FI0A1ZN9784))
+  * `{{my.heroImage}}` - image to display above landing page form - we are no longer using this functionality, unless a special image was created for this event. The image token can be removed in the landing page variables.
   * `{{my.introParagraph}}` - intro paragraph to be used in landing page and nurture email, with approved [character limits](https://docs.google.com/spreadsheets/d/13APTi8qTeFmvGcURrp9ywvl3zTxWU2cQ_ePX9S81Fao/edit#gid=1092923472)
-  * `{{my.mpm owner email address}}` - not used in automation, but helpful to know who to go to about setup
+  * `{{my.2ndparagraph}}` - second paragraph for landing page and emails
   * `{{my.ondemandUrl}}` - skip updating in initial registration page setup (update during on-demand switch), Pathfactory link WITHOUT the `https://` NOR the email tracking part (`lb_email=`)
   * Example of correct link to include: `learn.gitlab.com/gartner-voc-aro/gartner-voc-aro` - the code in the Marketo template assets will create the URL `https://learn.gitlab.com/gartner-voc-aro/gartner-voc-aro?lb_email={{lead.email address}}&{{my.utm}}`
   * Note that both parts of this url include custom URL slugs which should be incorporated into all pathfactory links for simplicity of tracking parameters
@@ -656,7 +654,6 @@ This includes the program, SFDC, Zoom, landing pages, and emails as they are tem
     * [Advanced CI/CD Workshop program template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6807A1)
     * [Jenkins Workshop program template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1)
 1. Complete the rest of the steps as outlined in the [webcast setup instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-2-set-up-the-webcast-in-marketosfdc-and-integrate-to-zoom). Note there are more tokens to complete for the workshop and details for each are contained in the token value area.
-1. Populate the {{my.democode}} token with the redemption code provided by the Lead SA in the [Webcast Prep](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/webcast-prep.md) issue.
 
 #### Test Your Setup
 **DRI: FMC**  
