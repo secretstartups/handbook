@@ -36,29 +36,33 @@ params:
         icon: "fab fa-slack"
         desc: "Discuss GitLab Handbook on Slack"
     handbooks:
-      - name: "Current Public Handbook"
-        url: "https://about.gitlab.com/handbook/"
+      - name: "GitLab"
+        url: "https://about.gitlab.com/"
+        icon: "fab fa-gitlab"
+        desc: "GitLab"
+      - name: "TeamOps"
+        url: "https://about.gitlab.com/teamops"
+        icon: "fa-solid fa-arrows-spin"
+        desc: "TeamOps"
+      - name: "Handbook"
+        url: "/handbook/"
         icon: "fa fa-book"
-        desc: "The current GitLab Public Handbook"
+        desc: "The Handbook"
+      - name: "Job Families"
+        url: "/job-families/"
+        icon: "fa-solid fa-users"
+        desc: "Job Families"
 
 menu:
   main:
-    # - weight: 10
-    #   name: '#internal-handbook'
-    #   url: https://gitlab.slack.com/archives/C02GABPC4UV
-    #   pre: '<i class="fab fa-slack"></i>'
-    # - weight: 11
-    #   name: '#company-fyi-private'
-    #   url: https://gitlab.slack.com/archives/C02E7JGBU4E
-    #   pre: '<i class="fab fa-slack"></i>'
-    # - weight: 20
-    #   name: Project
-    #   url: https://gitlab.com/internal-handbook/internal-handbook.gitlab.io
-    #   pre: '<i class="fa fa-code"></i>'
     - weight: -2
       name: GitLab
       url: https://about.gitlab.com/
       pre: '<i class="fab fa-gitlab"></i>'
+    - weight: 2
+      name: TeamOps
+      url: https://about.gitlab.com/teamops
+      pre: '<i class="fa-solid fa-arrows-spin"></i>'
 
 mediaTypes:
   text/netlify:
@@ -109,6 +113,5 @@ module:
     disable: false
   - path: github.com/google/docsy
     disable: false
-  imports:
   - path: github.com/google/docsy/dependencies
     disable: false
