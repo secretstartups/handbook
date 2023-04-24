@@ -15,7 +15,7 @@ description: "Describes the program methodology for GitLab IT programs to ensure
 {:toc .hidden-md .hidden-lg}
 
 ## Context
-This page describes the program methodology for GitLab IT programs to ensure strong results and execution in an efficient way, proper scoping consistent with our value of iteration, correct stakeholders consistent with our value of collaboration and proper documentation for compliance consistent with our transparency value.
+This page describes the program methodology for GitLab IT programs to ensure strong results and execution in an efficient way, proper scoping consistent with our value of iteration, correct stakeholders consistent with our value of collaboration and proper documentation for compliance consistent with our transparency value. 
 
 ## Criteria for programs that meet this standard.
 - Program is larger than two sprints (1 month)
@@ -23,46 +23,68 @@ This page describes the program methodology for GitLab IT programs to ensure str
 - Program works on a SOX system
 
 ## Program governance
+
 Every program must have a set of program governance. This includes:
 
-- Program DRI
+- IT Program Manager
+- Business Requirements Document (BRD)
 - Program charter
-- Program metrics
 - Steering committee
 - Core team
 - Operating rhythm
 - Escalation process
-- A program timeline
+- Program timeline
 - Clear documentation for data model
 - Clear documentation for compliance
 - Enablement plan
+   - Training materials
+   - Communication plan
 - Post implementation support plan
 
-### Program DRI
+### IT Program Manager
 
 A program should have a program DRI who is responsible for building out the program governance.
 
+### Business Requirements Document (BRD)
+
+A business requirements document (BRD) is the first document to be created by the Program DRI in partnership with the Business Lead in order to start a new program. The BRD is report that explains why the program is being undertaken and details everything the new program requires for success, providing clarity and context for stakeholders.
+
+[Business Requirements Document (BRD) Template](https://docs.google.com/document/d/1qKqFLqgolDPXImhJL7iq4yu2A52iv0Te1ho5q3UBEVg/edit)
+{: .alert .alert-warning}
+
 ### Program charter
 
-A program should have a charter that includes: 
-1. Program goal
-1. Program metrics and success criteria
-1. Program business case
-1. Roles and responsibilities 
-1. Program Scope
-1. Key milestones
-1. Initial timeline
+When the BRD is completed, the program charter is the next document that the Program DRI needs to create and present it to all relevant stakehodlers during the program kickoff. A program should have a charter that includes: 
 
-This program charter should be presented at a program kickoff for feedback.
+#### 1. Program goal
+
+Describe what is expected to be achieved by the completion of the program using SMART (specific, measurable, achievable, relevant and time-specific) goals.
+
+#### 2. Program scope
+
+List the specific goals of the program, including all tasks, deliverables, costs and deadlines, plus the team that will execute the program.
+
+#### 3. Roles and responsibilities 
+
+Note the key stakeholders, including Program Sponsor(s), Business Lead(s), Program Manager(s), Subject Matter Experts (SMEs).
+
+#### 4. Initial timeline
+
+Indicate the program timeline from start to finish, including necessary resources.
+
+#### 5. Key milestones
+
+All reference points that marks a significant event or a branching decision point within the program.
+
+#### 6. Program metrics and success criteria
+
+Every program should have success metrics. These metrics should either demonstrate an increase in revenue or an increase in efficiency that helps reduce cost.
 
 [Project Kickoff Template](https://docs.google.com/presentation/d/1p04S-TpitASMmdLn1fhKB4KewDr0-y9twP52Cel1oIo/edit#slide=id.p1)
 {: .alert .alert-warning}
 
-### Program metrics
-
-Every program should have success metrics. These metrics should either demonstrate an increase in revenue or an increase in efficiency that helps reduce cost.
-
 ### Steering committee
+
 As part of the program charter an executive steering committee should be named. This should include an executive from the sponsoring business organization and an executive from IT. For example in our expense management program we created a steering committee that included the VP IT, VP Controller, VP FieldOps. With this steering committee we cover executives for enablement and front office, back office and then IT.
 
 [Steering Committee Meeting Template](https://docs.google.com/presentation/d/1hKXH1WA9W-1_l66kwDV-rzoisdJ1z04tm15fHlHkOUs/edit#slide=id.p1)
@@ -74,20 +96,41 @@ A core team should be established and commitments should be made from these team
 
 ### Operating rhythm including status rollup
 
-Each program should have an operating rhythm including when the core team meets synchronously and the executive team meets synchronously. There should be an async structure to document completion of tasks and report status via GitLab Epics and Issues.
+Each program should have an operating rhythm including when the core team meets synchronously and the executive team meets synchronously. The Program Manager is responsible for providing an async structure to document completion of tasks and report status via GitLab Epics.
 
-[Status Report Meeting Template](https://docs.google.com/presentation/d/1FvtL0MHftG33b-6eKO1sVx3vPFKu0DaeVp-GGbLdpcs/edit#slide=id.p1)
+#### Rolly - Weekly Roll Up Reporting
+
+The IT Program Manager updates the [Rolly](/handbook/business-technology/pmo/#weekly-roll-up-reporting) section in the project Epic every week to provide regular updates about the on going program.
+
+#### Status Report
+
+For larger programs, and based on the information from Rolly, the IT Program Manager might create a Status Report to be shared across the program team and is often reviewrd during the weekly program staus meetings.
+
+[Status Report Template](https://docs.google.com/presentation/d/1FvtL0MHftG33b-6eKO1sVx3vPFKu0DaeVp-GGbLdpcs/edit#slide=id.p1)
 {: .alert .alert-warning}
+
+#### Geekbot
+
+The IT Program Manager will share async updates of the program in the dedicated program Slack, using [Geekbot](https://geekbot.com/). This report contains the below questions:
+
+1. Week Ending
+2. Report Link
+   - This is the Status Report link
+3. Project Status
+4. Accomplished this week
+5. Action Items
+6. Issues/Risks
+7. Key Project Dates
 
 ### Escalation process
 
-The DRI should establish a clear escalation process so that if a team member is blocked or needs support he/she can alert the DRI or exec steering committee.
+The program DRI should establish a clear escalation process so that if a program member is blocked or needs support, they can alert the program DRI or the steering committee.
 
-### A program timeline
+### Program timeline
 
 There should be a clear program timeline with sprints defined so that we can deliver the program in smaller increments. There should be clarity around key requirement deadlines, delivery milestones, testing timelines so that everyone is clear. The program timeline should consider company holidays, enablement time and consider adding additional time for complex requirements (if needed).
 
-_We are creating a template for this._
+_The IT PMO team are in the process of creating a template for this._
 
 ### Clear documentation for data model
 
@@ -99,7 +142,8 @@ Additionally, we need clear documentation to meet change management controls and
 
 The relevant controls that need to be documented in these programs are these three:
 
-# Change Management (will exist in perpetuity):
+#### Change Management (will exist in perpetuity)
+
 1. Control - PC2: Changes are tested and approved by appropriate personnel in accordance with the change management policy.
    - Process for making changes.
    - Even if owned by the vendor after request, can we request changes? Do we need to test/approve?<br>
@@ -107,7 +151,8 @@ The relevant controls that need to be documented in these programs are these thr
    - While the work to execute the control can be assigned to the vendor, the ultimate responsibility for effective execution of the control lies with Gitlab. (i.e. if the vendor executes the control on behalf of Gitlab inadequately, Gitlab may still be required to report the deficiency of the SOX control)
 
 
-# Program Development /Implementation of the system (1 time controls):
+#### Program Development /Implementation of the system (1 time controls)
+
 1. Control - PD1 - Significant program changes are tested and known issues are communicated to the relevant stakeholders prior to approval.
 1. Control - PD2 - GitLab validates that data transferred during an applicable program change is complete and accurate.
  
@@ -131,11 +176,19 @@ ensure there is documentation that UAT was complete and signoff on the UAT by bu
 
 ### Enablement plan
 
-The program should have an enablement plan. One of the SMEs/business owners should be DRI for this enablement plan. This can include creating training materials, drafting communications, running AMAs, doing demos and recording videos. Additionally there should be clear dates both pre and post go live for this activity.
+The program should have an enablement plan. The Business Lead should be DRI for this plan. This can include creating training materials, drafting communications, running AMAs, doing demos and recording videos. Additionally there should be clear dates both pre and post go live for this activity.
+
+#### Training Materials
+
+The Program Manager should work with the Business Lead to schedule all revelant training sessions and office hours or AMAs as needed and communicate it with all relevant participants.
+
+#### Communication Plan
+
+The Program Manager should work with the Business Lead to draft the communication plan (including the message, schedule and vehicle eg. slack, email, etc). The communication needs to be reviewed, approved and sent by one of the Program Sponsors. The GitLab Internal Communications Team can assist with this process. Please check the [Working with People Communications & Engagement](/handbook/people-group/employment-branding/people-communications/#working-with-people-communications--engagement) handbook page for details on how to engage with them.  
 
 ### Post implementation support
 
-There should be a plan for post-implementation support as well given that a new system can lead to an increase in volume of questions. This should be staffed by the SME teams. 
+There should be a plan for post-implementation support as well given that a new system can lead to an increase in volume of questions. This should be staffed by the Subject Matter Expert (SME) teams. 
 
 
 {::options parse_block_html="false" /}
