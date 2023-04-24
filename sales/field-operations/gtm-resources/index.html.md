@@ -1043,9 +1043,11 @@ Through the Executive Sponsor Program, we seek to:
 
 #### Executive Sponsor
 
-- The executive sponsor is responsible for maintaining direct relationships and communications with individual(s) at the account and participating in remote and in-person meetings.
-- The executive sponsor should maintain ongoing contact with their respective customer counterpoint at least once a quarter, including formal (e.g., EBR, meeting) and informal approaches (e.g., check-in or update emails/texts or video chats). 
-- The executive sponsor should partner with the account team, providing advice and support and taking and driving action items in support of the Account Plan.
+
+- The executive sponsor should clearly understand the customer's and GitLab's desired outcomes and goals and actively support the achievement of both. He/she should feel accountability to drive these results.
+- The executive sponsor is responsible for maintaining direct relationships and communications with individual(s) at the account and participating in remote and in-person meetings. This includes being responsive to customer and account team requests.
+  - The executive sponsor should maintain ongoing contact with their respective customer counterpoint at least once a quarter, including formal (e.g., EBR, meeting) and informal approaches (e.g., check-in or update emails/texts or video chats). 
+- The executive sponsor should act as an advocate for the customer driving actions in support of the customer and account team as well as sharing customer stories and requirements. 
 - If there is a 1:1 meeting, the executive sponsor should send a follow-up email within 24 hours with:
   - Thank you / appreciation of the customer's time and feedback
   - Action items and/or next steps (when applicable)
@@ -1062,8 +1064,9 @@ Example Sponsor Activities
 
 #### Account Team
 
-- SAE or AE should take the lead on providing executive sponsor briefing using the [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#). 
-- CSM should contribute to sponsor updates and engagement, including:
+- The SAE or AE should select an executive sponsor considering customer needs and expectations, ability to connect personally, experience, and ability to drive the right impact.
+- SAE or AE should take the lead on providing executive sponsor briefing using the [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#). The Customer Success Manager should actively be contributing to these documents and preparation.
+- The account team should proactively plan consistent engagement between the executive sponsor and customer contact(s), including:
   - Progress on delivering to outcomes, progress, and customer successes and wins
   - Updates on any notable issues (past or present), concerns, and/or key customer requirements
   - Inclusion into key customer meetings like Executive Business Reviews 
@@ -1097,7 +1100,6 @@ Example Sponsor Activities
 
 #### Additional Notes
 
-1. Only a small number of accounts will have executive sponsorship. There is no guarantee that any account will have an assigned executive sponsor.
 1. Even though most accounts will not have an assigned exec sponsor, the executive team is available to support and engage all customers as needed.
 1. Executive sponsors should engage with accounts *with and without* active opportunities.
 
