@@ -94,7 +94,7 @@ The customer's team should be included on the project and begin to work collabor
 
 #### Please follow these instructions when you receive a customer from another CSM
 
-1. Update the the contents of [README](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/README.md) file.
+1. Update the contents of [README](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/README.md) file.
 2. Check the direct members and settings of the Projects.
 3. Subscribe to new issues in the Project and all applicable labels.
 
