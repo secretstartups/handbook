@@ -934,9 +934,9 @@ FROM dev_prod.common.dim_date__sample
 
 
 ```
-#### How Sampleing Macors Work
+#### How Sampling Macros Work
 
-For more details on how the macros used in sampleing function see the following documentaion:
+For more details on how the macros used in sampling function see the following documentaion:
 
 - [create_sample_tables](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.create_sample_tables)
 - [generate_sample_table_sql](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.generate_sample_table_sql)
