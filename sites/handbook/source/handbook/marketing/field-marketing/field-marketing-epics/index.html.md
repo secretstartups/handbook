@@ -52,7 +52,6 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Intelligent Nurture Email Add](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_intelligent_nurture_add) - FMC creates, assigns to FMM and Campaign Manager (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"In-Person Conference" ~“Field Marketing”
@@ -95,7 +94,6 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Sales Nominated Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_sales_nominated) - FMC creates, assigns to the FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Virtual Conference"~“Field Marketing”
@@ -140,7 +138,6 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Intelligent Nurture Email Add](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_intelligent_nurture_add) - FMC creates, assigns to FMM and Campaign Manager (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Hybrid Conference" ~“Field Marketing”
@@ -245,7 +242,6 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Email Reminder Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_reminder) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Field Marketing" ~"Executive Roundtable"
@@ -284,7 +280,6 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Email Reminder Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_reminder) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Owned Event" ~“Field Marketing”
@@ -315,7 +310,6 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 ## Sub-Issue Creation
 * [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - FMC creates, assigns to FMC
 * [ ] [List Clean and Upload Issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Self-Serve" ~“Field Marketing”
@@ -353,7 +347,6 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Email Reminder Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_reminder) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Self-Serve" ~“Field Marketing”
@@ -387,7 +380,6 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Email Reminder Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_reminder) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Webcast - Sponsored" ~"Field Marketing"
@@ -425,7 +417,6 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Intelligent Nurture Email Add](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_intelligent_nurture_add) - FMC creates, assigns to FMM and Campaign Manager (issue will be triaged)
 * [ ] [Email Reminder Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_reminder) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps 
 
 /label ~"mktg-status::wip" ~"Survey" ~"Field Marketing" 
@@ -456,7 +447,6 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - FMC creates, assigns to FMC
 * [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - FMC creates, assigns to FMM
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
 
 /label ~"mktg-status::wip" ~"Vendor Arranged Meetings" ~"Field Marketing"
@@ -503,7 +493,6 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 * [ ] [Email Reminder Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_reminder) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - Zoom integration automatically uploads the registrants and their attendance status to SFDC but any notes, Q&A, etc. need to be added via this upload issue  - FMC creates, assigns to FMM and MOps 
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 
 ### FMM Creates 
 
@@ -563,7 +552,6 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 * [ ] [Email Reminder Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_reminder) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - Zoom integration automatically uploads the registrants and their attendance status to SFDC but any notes, Q&A, etc. need to be added via this upload issue  - FMC creates, assigns to FMM and MOps
-* [ ] [SA Request](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/marketing-support-requests/-/issues/new?issuable_template=SA_Request) - FMC creates, assigns to FMM
 
 ### FMM Creates 
 
