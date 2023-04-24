@@ -47,7 +47,11 @@ The process is comprised of five key stages:
     1. Start the discussion about what an integration into GitLab's code base will look like
 
     A mutual NDA will be shared by GitLab and will be required to be signed prior to the Product Call. For more details about our MNDA and process for signing see [GitLab Legal Handbook](/handbook/legal/).
-1. Initial internal review: preliminary assessment of product and technology fit of the potential opportunity to GitLab's [product roadmap](/direction/) as well as integration options into GitLab. If the product lead is supportive of moving forward towards developing a more in depth business case, confirm whether the proposed acquisition can be funded with planned headcount allocations. Otherwise, set up a discussion with the Chief Product Officer before proceeding with further diligence.
+1. Initial internal review:
+   1. Preliminary assessment of product and technology fit of the potential opportunity to GitLab's [product roadmap](/direction/) as well as integration options into GitLab. 
+   1. Before moving to early technical diligence, the Product Champion will need to confirm annual fiscal budget with the Chief Product Officer and finance team. 
+      1. It is necessary to understand whether onboarding the target's employees can be funded through existing or planned requestions either within the Product Champion's section, across the R&D budget or other operating expense reallocations. If not, budget must be secured by Product, with the help of Finance, before proceeding. 
+      1. This step is intended to optimize cross-functional collaboration and prevent a case where during final approval it is determined that budget does not exist for us to onboard the target's employees, threatening the deal outcome.
 
 ### Early Diligence
 
