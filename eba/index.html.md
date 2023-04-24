@@ -316,7 +316,7 @@ Sample Questions:
 * [Offsite Co](https://www.theoffsiteco.com/virtual-retreat#explore)
 * [Offsyte.com](https://www.offsyte.co/discover)
   * [Cyber Sleuths: A Virtual Codebreaking Adventure](https://www.offsyte.co/activities/cyber-sleuths)
-  * [Amazing Cyberspace Race](https://www.offsyte.co/activities/amazing-cyberspace-racehttps://www.offsyte.co/activities/amazing-cyberspace-race)
+  * [Amazing Cyberspace Race](https://www.offsyte.co/activities/amazing-cyberspace-race)
 * [We Crush Events - Amazing Cyberspace Race](https://www.offsyte.co/activities/amazing-cyberspace-race)
 * [Luca and Lorenzo Cooking Event](https://www.airbnb.com/experiences/1526657)
 
