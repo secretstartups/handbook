@@ -17,14 +17,16 @@ description: "GitLab's Anti-Retaliation Policy to establish guidance for reporti
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+In line with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
 
 </div>
 </div>
 
 # GITLAB INC.
 # ANTI-RETALIATION POLICY
-### Effective Date: 21 April 2023
+
+* **Effective Date:** 21 April 2023
+* **Approved By:** Robin Schulman, Chief Legal Officer, Head of Corporate Affairs, and Corporate Secretary
 
 ## Objective
 
@@ -32,17 +34,17 @@ The purpose of this Anti-Retaliation Policy is to establish guidance for reporti
 
 ## Introduction
 
-Choosing to speak up about workplace concerns helps build a healthy, ethical, and compliant company, meets our company values of collaboration and transparency, and is part of our culture of compliance. GitLab Inc. (collectively with its subsidiaries, “GitLab”, “we”, “our”) does not tolerate retaliation against anyone who, in good faith, reports suspected misconduct, or anyone who provides assistance in an investigation. Coming forward with questions or concerns may sometimes feel like a difficult decision, but GitLab is committed to fostering an environment that does not deter individuals from engaging in frank, honest communication. In furtherance of those standards, this Anti-Retaliation Policy (this “Policy”) applies to all officers, employees, and direct and indirect contractors of GitLab and of its direct and indirect subsidiaries (each a “Team Member”). Compliance with this Policy is mandatory for every Team Member and member of GitLab’s Board of Directors (“Director”). In addition to this Policy, Team Members and Directors are subject to and must comply with other policies (including GitLab’s Code of Business Conduct and Ethics for Directors, Officers, Employees and Contractors (the “Code of Business Conduct and Ethics”)) and programs of GitLab, as applicable. We expect each Team Member and Director to read and become familiar with this Policy.
+Choosing to speak up about workplace concerns helps build a healthy, ethical, and compliant company, meets our company values of collaboration and transparency, and is part of our culture of compliance. GitLab Inc. (collectively with its subsidiaries, “**GitLab**”, “**we**”, “**our**”) does not tolerate retaliation against anyone who, in good faith, reports suspected misconduct, or anyone who provides assistance in an investigation. Coming forward with questions or concerns may sometimes feel like a difficult decision, but GitLab is committed to fostering an environment that does not deter individuals from engaging in frank, honest communication. In furtherance of those standards, this Anti-Retaliation Policy (this “**Policy**”) applies to all officers, employees, and direct and indirect contractors of GitLab and of its direct and indirect subsidiaries (each a “**Team Member**”). Compliance with this Policy is mandatory for every Team Member and member of GitLab’s Board of Directors (“**Director**”). In addition to this Policy, Team Members and Directors are subject to and must comply with other policies (including GitLab’s Code of Business Conduct and Ethics for Directors, Officers, Employees and Contractors (the “**Code of Business Conduct and Ethics**”)) and programs of GitLab, as applicable. We expect each Team Member and Director to read and become familiar with this Policy.
 
 ## Zero Tolerance for Retaliation
 
-GitLab strictly prohibits any form of retaliatory action against any Team Member who in good faith raises issues, asks questions, makes reports, participates in an investigation, refuses to participate in suspected improper or wrongful activity, or exercises workplace rights protected by law (in each case, “Protected Activity”). Situations or behaviors that could lead to a Team Member engaging in a Protected Activity include, but are not limited to:
+GitLab strictly prohibits any form of retaliatory action against any Team Member who in good faith raises issues, asks questions, makes reports, participates in an investigation, refuses to participate in suspected improper or wrongful activity, or exercises workplace rights protected by law (in each case, “**Protected Activity**”). Situations or behaviors that could lead to a Team Member engaging in a Protected Activity include, but are not limited to:
 
 * raising concerns in good faith regarding fraud, unethical or unprofessional business conduct, or noncompliance with GitLab policies/procedures;
 * lodging a good faith internal complaint (written or oral) specifically opposing unlawful discrimination or harassment or any alleged violations of local law;
 * participating in an internal investigation into allegations of discrimination or harassment;
 * filing a good faith complaint of unlawful discrimination or harassment with the relevant regulatory, law enforcement, or administrative body in a Team Member’s jurisdiction;
-* supporting another Team Member’s internal or administrative complaint of unlawful discrimination (by, for example, testifying or providing an affidavit in * support of a coworker who has filed a discrimination complaint);
+* supporting another Team Member’s internal or administrative complaint of unlawful discrimination (by, for example, testifying or providing an affidavit in support of a coworker who has filed a discrimination complaint);
 * participating in an investigation or audit conducted by any regulatory, administrative or law enforcement body;
 * requesting an accommodation under relevant statutes;
 * requesting or taking any statutory/required leave; or
@@ -75,7 +77,7 @@ If you believe you have been retaliated against, you should report it immediatel
 * Report it to GitLab’s Chief Legal Officer if you have reason to believe your immediate manager is involved; and/or
 * Report it to the next level of management; and/or
 * Report it to a People Business Partner or Team Member Relations; and/or
-* Anonymously through Lighthouse Services
+* Anonymously through [Lighthouse Services](https://about.gitlab.com/handbook/people-group/#how-to-report-violations)
 
 GitLab will follow up on your report within the time period as required by local jurisdiction, which, depending on local requirements, could include an assessment to determine whether there is evidence that retaliatory conduct has taken place, appropriate action to address any wrongdoing (having due regard to the nature and seriousness of the matter concerned), or, where there is no evidence that retaliatory conduct has occurred, communication of the decision to the reporting Team Member.
 
@@ -92,7 +94,7 @@ Informed managers are expected to:
 
 ## Administration of this Policy
 
-Team Member Relations is responsible for the administration of this Policy. If you have any questions regarding this Policy or questions about retaliation that are not addressed in this Policy, please contact teammemberrelations@gitlab.com.
+Team Member Relations is responsible for the administration of this Policy. If you have any questions regarding this Policy or questions about retaliation that are not addressed in this Policy, please contact [teammemberrelations@gitlab.com](teammemberrelations@gitlab.com).
 
 ## Violations of this Policy
 
