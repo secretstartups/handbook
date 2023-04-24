@@ -133,7 +133,7 @@ The prioritization framework uses an [Eisenhower Matrix](https://todoist.com/pro
 
 The forecasts of crucial saturation points are reviewed in the weekly [Gitlab SaaS Availability](/handbook/engineering/#saas-availability-weekly-standup) and any required corrective actions are prioritized according to the timeframes for saturation predicted by the forecast, and the criticality of the resources.
 
-We select the most crucial saturation points to report in the meeting based on the impact they would have when fully saturated and how difficult the mitigation might be. To indicate issues like this, we apply the ~"Report in Availability Weekly" label when we do the weekly triage.
+We select the most crucial saturation points to report in the meeting based on the impact they would have when fully saturated and how difficult the mitigation might be. To indicate issues like this, we apply the ~"SaaS Weekly" label when we do the weekly triage.
 
 For the Availability weekly we report all of the issues with this label:
 1. For each item, confirm the latest status with the DRI and update the agenda to match.
