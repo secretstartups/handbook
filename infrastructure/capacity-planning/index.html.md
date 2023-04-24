@@ -131,19 +131,20 @@ The prioritization framework uses an [Eisenhower Matrix](https://todoist.com/pro
 
 ### Relaying Capacity Incidents to Engineering
 
-The forecasts are reviewed in the weekly [Engineering Allocation meeting](/handbook/engineering/engineering-allocation) and any required corrective actions are prioritized according to the timeframes for saturation predicted by the forecast, and the criticality of the resources.
+The forecasts of crucial saturation points are reviewed in the weekly [Gitlab SaaS Availability](/handbook/engineering/#saas-availability-weekly-standup) and any required corrective actions are prioritized according to the timeframes for saturation predicted by the forecast, and the criticality of the resources.
 
-Practically, this is done by:
-1. From the previous week's agenda, review all new and carry-on items listed. 
-   1. For each item, confirm the latest status with the DRI and update the agenda to match.
-   1. If there is not movement on an issue, confirm the urgency of the problem and raise awareness in the meeting. Another approach is to ask the DRI for when the next update will be available.
-1. In the current week's agenda, add all newly created issues with the purpose of raising awareness and finding a DRI. 
+We select the most crucial saturation points to report in the meeting based on the impact they would have when fully saturated and how difficult the mitigation might be. To indicate issues like this, we apply the ~"Report in Availability Weekly" label when we do the weekly triage.
+
+For the Availability weekly we report all of the issues with this label:
+1. For each item, confirm the latest status with the DRI and update the agenda to match.
+1. If there is not movement on an issue, confirm the urgency of the problem and raise awareness in the meeting. Another approach is to ask the DRI for when the next update will be available.
+1. Report which items were closed since last week's report.
 
 Actions described above can also take place asynchronously at any time - we should not wait for the Engineering Allocation meeting to update issue status or find
-DRIs for issues. 
+DRIs for issues.
 
-The Scalability:Projections team will triage the capacity alerts by labeling them with the relevant [severity/priority labels](/handbook/engineering/quality/issue-triage/#severity-slos) and 
-assign them to the appropriate owner. We rely on the [Infradev Process](/handbook/engineering/workflow/#infradev) to assist with prioritization of these capacity issues. 
+The Scalability:Projections team will triage the capacity alerts by labeling them with the relevant [severity/priority labels](/handbook/engineering/quality/issue-triage/#severity-slos) and
+assign them to the appropriate owner. We rely on the [Infradev Process](/handbook/engineering/workflow/#infradev) to assist with prioritization of these capacity issues.
 We remain available for guidance and review support.
 
 #### Identifying the DRI for a Capacity Issue
