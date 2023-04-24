@@ -37,6 +37,8 @@ If you receive a `Vendor Set Up Form`, you can find more information [here](http
 
 If you need an `NDA`, you can find more information on obtaining one [here](https://about.gitlab.com/handbook/legal/NDA/). 
 
+Please review [our SLAs](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html#service-level-agreements) regarding the timelines for each type of customer assurance activity.
+
 
 
 ### Participants
