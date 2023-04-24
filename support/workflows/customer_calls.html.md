@@ -51,7 +51,13 @@ If you're feeling the results of any of these headwinds it can be easy to ration
 1. **Talk with a peer or manager** to give yourself a second / more objective opinion.
 
 ### It goes both ways
-Customers also have fears going into calls... 
+
+Customers are subject to the same fears Support Engineers are. To understand more about core fears of all people, consider watching this [Introduction to Core Human Needs](https://youtu.be/ddM6Ex7ei1o) video and the follow-up video, [Triggering Fears](https://youtu.be/Lm6FgLDwsiE). Try to be mindful that your actions in a call can calm or trigger the customer's fears.
+
+Be mindful as well that customers likely have pressures from their business or from their users who rely on GitLab. And, they may feel nervous or scared about appearing ignorant in front of a GitLab expert. It can be very helpful to seek to understand these forces acting upon a customer, as is discussed in these two videos:
+
+1. [Understanding the Customer Intro](https://www.youtube.com/watch?v=krnLqcSrZNs&list=PL05JrBw4t0Kq13oaMq0DCl2gUz_g1u29o&index=42) - introduces the idea of understanding what forces are acting upon the customer
+2. [Understanding the Customer Discussion](https://www.youtube.com/watch?v=CIMKLG8D5jQ&list=PL05JrBw4t0Kq13oaMq0DCl2gUz_g1u29o&index=43) - presents a discussion of many examples of those forces
 
 ## When should a ticket go to a call?
 
