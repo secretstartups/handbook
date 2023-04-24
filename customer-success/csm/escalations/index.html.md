@@ -193,6 +193,10 @@ When a customer is in an escalated state, the path to resolution must continue t
 
 See the [Support Engineering Guide to Escalations](/handbook/support/internal-support/support-ticket-attention-requests.html) for more specific information on how support manages customers in an escalated state.
 
+## Engineering's role in Escalations
+
+Engineering support will usually come via Support Engineering, however it's worth noting that under some conditions [Engineering / Product may prioritize bug fixes and feature requests](/handbook/engineering/#critical-customer-escalations) related to an escalation.
+
 ## Related Links
 
 - [Support Engineering Page](/handbook/support/) and [Support Engineering Escalation Procedures](/handbook/support/workflows/working-with-issues.html)
