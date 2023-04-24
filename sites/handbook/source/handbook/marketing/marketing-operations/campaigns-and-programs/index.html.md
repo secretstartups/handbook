@@ -791,7 +791,8 @@ We have listeners set up in Marketo listening certain parameters. Please check t
 | DevOps GTM - active                      | devopsgtm                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8342A1)|
 | AutoSD - active                          | autosd                          |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG12823A1)|
 | GitOps Use Case - active                 | iacgitops                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6756A1)|
-| Security & Compliance                    |                                 | No  | 
+| Security & Compliance                    | seccomp                         | [Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG14557A1)  | 
+| DevSecOps Platform -                     | devsecopsplat                   | No  |
 | CI Use Case                              | singleappci                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6803A1)|
 | PubSec - devops GTM only                 | amer-pubsec                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7588A1)|
 
