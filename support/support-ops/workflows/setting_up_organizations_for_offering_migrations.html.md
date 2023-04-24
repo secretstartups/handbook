@@ -22,7 +22,7 @@ workflow.
 ## Process
 
 A support engineer will file an issue in the 
-[Zendesk Organization Notes project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/zendesk-global/organizations/-/issues/new?), specifying it is for a product offering migration. This should
+[Zendesk Organization Notes project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues/new), specifying it is for a product offering migration. This should
 include the planned date of the migration and the planned subscription level
 the customer will acquire.
 
