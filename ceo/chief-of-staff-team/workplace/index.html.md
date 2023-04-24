@@ -237,7 +237,6 @@ More examples of how to talk about remote work
 <li>SafetyWing Podcast — <a href="http://buildingremotely.com/episode/2">How to transition to remote</a></li>
 <li>The Recruitment Network Podcast — <a href="https://open.spotify.com/show/5Z3HMCHlBOLuYUWvczJjxj?si=giLfsfd-TZOB1hGkFiNeTw">The Future of Remote Working with Darren Murph</a></li>
 <li>Wise Up with Cristina Podcast - <a href="https://cristinadigiacomo.com/wise-up-podcast/wise-up-episode14-darrenmurph">Darren Murph, Remote Rebel, on Opportunities Beyond Work</a></li>
-<li>Customer Centric Podcast — <a href="https://customercentric.unbabel.com/podcast/darren-murph-gitlab">Darren Murph: home is where the office is</a></li>
 <li>Changelog Podcast — <a href="https://changelog.com/podcast/397">Creating GitLab's remote playbook</a></li>
 <li>OpenFin MVP Podcast — <a href="https://openfin-mvp.simplecast.com/episodes/all-remote-before-it-was-mandatory-with-gitlabs-brendan-oleary">All-remote before it was mandatory with GitLab's Brendan O'Leary</a></li>
 <li>Skills for Mars — <a href="https://youtu.be/g78mzVYjDY0">Darren Murph On Transparency, Values & Leadership when All-Remote</a></li>
