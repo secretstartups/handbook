@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Field Security Sales Training Program"
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
  
@@ -38,34 +40,73 @@ Coming in Q1FY24
 Our objective is to build the next generation of GitLab's [Field Security](https://about.gitlab.com/handbook/security/security-assurance/field-security/) program. Part of enhancing this program is establishing a Security Sales Training and Enablement program. We want to spearhead the following initiatives:  
 
 * **GitLab Security on Demand,** the Netflix of sales security enablement
-* **Slack-driven enablement micro-sessions,** learn what you need, when you need it
+* **Just in time micro-enablement,** learn what you need, when you need it
 * **AI-powered AnswerBase,** the companion to your security conversations
 * **Customer-focused Security Enablement sessions**, building proficiency in the topics your prospects care about
 * **Integrated feedback process,** so we can always improve the program to suit your needs
+* **Handbook-first comprehensive documentation,** only a handbook page away from the information you need
 
 ## Holistic security training and enablement 
 
-Coming in Q2FY24
+<details>
+<summary markdown="span">1. Throughout the pipeline</summary>
 
-### Throughout the pipeline
+- **At the discovery stage**
+- **During scoping discussions**
+- **With the technical evaluation**
+- **When drafting the proposal**
+- **In the negotiation stage**
 
-Coming in Q2FY24
+</details>
 
-### During their time at GitLab
+<details>
+<summary markdown="span">2. During their time at GitLab</summary>
 
-Coming in Q2FY24
+- **Before they join GitLab**
+- **During the onboarding process**
+  - Sales Quick Start
+  - 30-60-90
+- **At each milestone of their career at GitLab**
+  - After a promotion
+  - When expanding territory
 
-### Across the different roles
+</details>
 
-Coming in Q2FY24
+<details>
+<summary markdown="span">3. Across the different roles</summary>
 
-### In every territory
+- **SDR/BDR**
+- **Account Executives**
+- **Strategic Account Leaders**
+- **Solutions Architect**
+- **Customer Success Managers**
+- **Professional Services**
+- **Support Roles**
+  - Legal
+  - Product Marketing
 
-Coming in Q2FY24
+</details>
 
-### For every type of customer 
+<details>
+<summary markdown="span">4. In every territory</summary>
 
-Coming in Q2FY24
+- **EMEA**
+- **APAC**
+- **AMER**
+- **Dedicated Markets**
+
+</details>
+
+<details>
+<summary markdown="span">5. For every type of customer</summary>
+
+- **SMB**
+- **Mid-Market**
+- **Enterprise**
+- **Public Sector**
+
+</details>
+
 
 ## Contact us
 
