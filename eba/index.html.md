@@ -332,8 +332,8 @@ Sample Questions:
   * [Octane Racing - Velocity VR Experience](https://zerolatencyvr.com/experience/)
 
 * Denver, CO
-  *[Cook Street School of Culinary Arts- Culinary Competition](https://cookstreet.com/private-events/)
-  *[Cooking class with Chef Sarah!](https://denvercookingclasses.com/menus/)
+    *[Cook Street School of Culinary Arts- Culinary Competition](https://cookstreet.com/private-events/)
+    *[Cooking class with Chef Sarah!](https://denvercookingclasses.com/corporate-cooking-classes/)
     * Cuisine options: Thai, Spanish and Italian
     * Cook a 4 course meal with Chef Sarah Daulton, who shares wine pairing suggestions, in advance of the event 
   *[RiNo District - Brewery Tours](https://rinoartdistrict.org/guide/places-to-eat-drink/brewery)
