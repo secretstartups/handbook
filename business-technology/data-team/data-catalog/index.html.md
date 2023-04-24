@@ -32,6 +32,21 @@ We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-e
 
 [Sisense](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/) is our enterprise standard BI tool. See how Sisense is being used with the [Sisense Usage Overview](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-%F0%9F%93%88?) dashboard.
 
+## Tableau Enterprise BI Tool
+
+We are migrating to [Tableau](/handbook/business-technology/data-team/platform/tableau/) as our Enterprise BI Tool in FY24. During the transition period, we will use both Sisense and Tableau. 
+
+### Tableau Production Workbooks Catalog
+
+We used a boring solution for our first iteration of the Tableau production workbooks catalog. The production workbooks with meta data about the workbooks, handbook urls, and workbook urls are contained in YAML files in the [GitLab Tableau Repository](https://gitlab.com/gitlab-data/tableau/-/tree/main/site_gitlab/Production). In a future iteration, we intend to render the contents of the YAML files directly in the Data Catalog to provide a more direct method to access the workbooks. You can access the department or business motion YAML files below.  
+
+1. [go_to_market_production_workbooks.yml](https://gitlab.com/gitlab-data/tableau/-/blob/main/site_gitlab/Production/Go%20To%20Market/go_to_market_production_workbooks.yml)
+1. [sales_production_workbooks.yml](https://gitlab.com/gitlab-data/tableau/-/blob/main/site_gitlab/Production/Sales/sales_production_workbooks.yml)
+1. [marketing_production_workbooks.yml](https://gitlab.com/gitlab-data/tableau/-/blob/main/site_gitlab/Production/Marketing/marketing_production_workbooks.yml)
+1. [finance_production_workbooks.yml](https://gitlab.com/gitlab-data/tableau/-/blob/main/site_gitlab/Production/Finance/finance_production_workbooks.yml)
+1. [customer_success_production_workbooks.yml](https://gitlab.com/gitlab-data/tableau/-/blob/main/site_gitlab/Production/Customer%20Success/customer_success_production_workbooks.yml)
+1. [people_production_workbooks.yml](https://gitlab.com/gitlab-data/tableau/-/blob/main/site_gitlab/Production/People/people_production_workbooks.yml)
+
 ## Lead to Cash Catalog
 
 ### Analytics Hubs, Data Guides, and ERDs

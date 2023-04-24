@@ -96,25 +96,28 @@ The Project Architecture in Tableau Online is replicated and governed in the Git
         1. **SAFE**
             1. CS: Workbook Name
         1. CS: Workbook Name
-    1. **Data Sources**
-        1. CS: Data Source Name
-        1. CS: Virtual Connection Name
+        1. **Data Sources**
+            1. CS: Data Source Name
+            1. CS: Virtual Connection Name
 1. **Production** (Maps to our [Trusted Data Development Process](/handbook/business-technology/data-team/data-development/#trusted-data-development)
     1. **Go To Market** 
         1. **SAFE**
             1. GTM: Workbook Name
+        1. GTM: Workbook Name
         1. **Data Sources**
             1. GTM: Data Source Name
             1. GTM: Virtual Connection Name
     1. **Team Member** 
         1. **SAFE**
             1. Team Member: Workbook Name
+        1. Team Member: Workbook Name
         1. **Data Sources**
             1. Team Member: Data Source Name
             1. Team Member: Virtual Connection Name 
     1. **Customer Success**
         1. **SAFE**
             1. CS: Workbook Name
+        1. CS: Workbook Name
         1. **Data Sources**
             1. CS: Data Source Name
             1. CS: Virtual Connection Name
@@ -183,6 +186,20 @@ Tableau Workbooks must satisfy all of the below requirements in order to be publ
 Tableau Workbooks that meet all requirements for [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) and meet all requirements for BI Development Excellence (Link coming soon...) will receive a `Trusted Data` Certification. The certification is applied by placing a `TD` in the workbook title. 
 
 Tableau Data Sources that meet all requirements for [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) will receive a `Trusted Data` Certification. The certification is applied using native [Tableau functionality](https://help.tableau.com/current/server/en-us/datasource_certified.htm) and a certified stamp is applied to the data source.
+
+### Tableau Publishing Service Level Objectives (SLOs)
+
+**Production Publishing SLO**
+
+The BI Platform team will publish production content once a week on Thursday. The due date for submitting content for publishing is Friday of the prior week which allows 4 days for the BI Platform team to review the content and publish it on Thursday of the following week.   
+
+**Ad-Hoc Publishing SLO**
+
+The department sub-project leaders will publish ad-hoc content within 24 to 48 hours after it is submitted for publishing.
+
+**Development Publishing SLO**
+
+Individual Tableau developers can publish development content on-demand to their department's development sub-project.
 
 ## Deployment
 
