@@ -28,9 +28,10 @@ All GitLab-created open source software is distributed under the MIT license whi
 
 ## GitLab patents
 GitLab holds the following registered patents:
-- US patent [9,910,766](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=%22peach+fuzzer%22.ASNM.&OS=AN/%22peach+fuzzer%22&RS=AN/%22peach+fuzzer%22) covering _whitebox network fuzzing_
-- US patents [9,767,005](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22peach+fuzzer%22.ASNM.&OS=AN/%22peach+fuzzer%22&RS=AN/%22peach+fuzzer%22) and [9,098,352](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9098352.PN.&OS=PN/9098352&RS=PN/9098352), Chinese patent [104346277A](http://ensearch.cnipr.com.cn/sipo_EN/search/detail.do?method=view&parm=16b414c21a2f19d11b2c18401bcd1a5f183a19461ad91be11a601c4c07792e231f4c21ba22572195236c20482755275723ca24be2221222525702494250d26c0274025822c3f29092a7c29a02d6d2d6f28fa2ed62bd12c892f482c34330947932f5c2c0a2ac731b9333c316c366534e7318235ee337934f1360837f03747371b371a34e231bf38f13b04390c3e0d3f6f39ea3dc63c573d6d3e683e4c26d918c33ffe3c523c273e354334405c47c545774302408e4423458947b84688462d46a946c846aa436f47554bcc49784a2d), and pending European patent application [14175419.2](https://register.epo.org/espacenet/regviewer?AP=14175419&CY=EP&LG=en&DB=REG) covering _metaphor based language fuzzing of computer code_
-- US patent [9,323,597](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=%22peach+fuzzer%22.ASNM.&OS=AN/%22peach+fuzzer%22&RS=AN/%22peach+fuzzer%22) covering _flow based fault testing_
+- US patent [2023/0104814](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230104814) covering _vulnerability tracing using scope and offset_
+- US patent [9,910,766](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9910766) covering _whitebox network fuzzing_
+- US patents [9,767,005](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9767005) and [9,098,352](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9098352), along with Chinese patent 104346277A, and European patent EP2827253A1 covering _metaphor based language fuzzing of computer code_
+- US patent [9,323,597](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9323597) covering _flow based fault testing_.
 
 ## GitLab's Patent Program
 
@@ -43,14 +44,13 @@ As a recognition of the efforts of team members who develop inventions for GitLa
 - Level Two Patent Award: $500 for each named inventor on each patent application filed by GitLab, payable after filing. No Level Two Patent Award is payable for the filing of a _provisional_ patent application.
 - Level Three Patent Award: $1,000 for each named inventor on each patent issued to GitLab, payable after patent issue.
 
-
 ### How to participate
 
-* To disclose an invention, complete an [Invention Disclosure Form](https://docs.google.com/document/d/1BndxggJyA3aMdYav-ghNwpTdNcfgJcrHFRlT6u8KFD8/copy) and email it to [intellectualproperty@gitlab.com](mailto: intellectualproperty@gitlab.com).
+To disclose an invention, complete an [Invention Disclosure Form](https://docs.google.com/document/d/1BndxggJyA3aMdYav-ghNwpTdNcfgJcrHFRlT6u8KFD8/copy) and email it to [intellectualproperty@gitlab.com](mailto:intellectualproperty@gitlab.com).
 
-* To disclose an improvement to an invention, complete an [Invention Improvement Disclosure Form](https://docs.google.com/document/d/10D49F21I-G0V9rnyStgD0EwEfLxi8KzNS_ShCA64br8/copy) and email it to [intellectualproperty@gitlab.com](mailto: intellectualproperty@gitlab.com). 
+* To disclose an improvement to an invention, complete an [Invention Improvement Disclosure Form](https://docs.google.com/document/d/10D49F21I-G0V9rnyStgD0EwEfLxi8KzNS_ShCA64br8/copy) and email it to [intellectualproperty@gitlab.com](mailto:intellectualproperty@gitlab.com). 
 
-The Invention Disclosure and Invention Improvement Disclosure forms  must not be shared outside GitLab, even to former GitLab team members. If the input of a former GitLab team member is required to complete either form, contact [intellectualproperty@gitlab.com](mailto: intellectualproperty@gitlab.com) to discuss before proceeding.
+The Invention Disclosure and Invention Improvement Disclosure forms  must not be shared outside GitLab, even to former GitLab team members. If the input of a former GitLab team member is required to complete either form, contact [intellectualproperty@gitlab.com](mailto:intellectualproperty@gitlab.com) to discuss before proceeding.
 
 You should submit an **Invention Disclosure Form** any time you think you may have created a new, inventive process, product, or product feature. Since you may be overly conservative in determining what constitutes an invention, or an improvement to an invention, you should submit the applicable Form even if you aren’t sure that your work is sufficiently novel to be an invention or improvement. 
 
