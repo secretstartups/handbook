@@ -127,7 +127,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Pregnancy Discrimination and Accommodation in the Workplace](https://www.ctdol.state.ct.us/gendocs/SS46a%20Pregnancy%20Disability%20Poster.pdf)
 
 ### Delaware
-* [Labor Law Poster](https://laborfiles.delaware.gov/main/dia/olle/Labor%20Law%20Poster.pdf)
+* [Labor Law Poster](https://laborfiles.delaware.gov/main/dia/olle/Labor_Law_Poster.pdf)
 * [Sexual Harassment Notice](https://dhr.delaware.gov/personnel/neo/documents/sexual-harassment-notice.pdf)
 
 ### District of Columbia
