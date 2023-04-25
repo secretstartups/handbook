@@ -483,7 +483,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Unemployment Compensation Act](https://drive.google.com/file/d/1f3fTOsJ6u_aszC20_MIBtmCgvxLtA7gM/view?usp=sharing)
 * [Equal Employment Opportunity](https://www.twc.texas.gov/files/businesses/employee-rights-poster-twc.pdf)
 * [Child Labor Laws](https://www.twc.texas.gov/files/businesses/child-labor-law-poster-twc.pdf)
-* [Wage Claims](https://www.twc.texas.gov/files/jobseekers/ll-52-eng-are-you-owed-wages-twc.pdf)
+* [Wage Claims](https://www.twc.texas.gov/files/jobseekers/wh-52-eng-are-you-owed-wages-twc.pdf)
 * [Workers' Compensation Notice - Federal](https://drive.google.com/file/d/1zIXQAK8RM_zO8tJyo1R5WclYLmILQpjZ/view?usp=sharing)
 * [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/1LvjoMrQP0tj3mjKd4RhOz02fA9gmMflO/view?usp=sharing)
 
