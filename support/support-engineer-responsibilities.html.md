@@ -71,9 +71,13 @@ our customers according to the terms of their contract with us. Although
 [asynchronous work and communication](/handbook/values/#bias-towards-asynchronous-communication)
 are preferred within GitLab overall, in Support Engineering there is always
 a business need to have enough people available at any given moment to deliver
-support. Therefore it is each Support Engineer's responsibility to coordinate
-their work schedule with their manager as well as to coordinate day-to-day
-availability for ticket work with their group.
+support. 
+
+Support Engineers are responsible for: 
+
+* Creating their work schedule with their manager 
+* Coordinating day-to-day availability for ticket work with their SGG
+* Working with any Support Manager to take on higher-priority tasks based on customer needs
 
 ### 2. Work with your group to meet our FRT SLA target
 
