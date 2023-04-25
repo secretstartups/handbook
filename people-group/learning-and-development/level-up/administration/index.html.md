@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Level Up
+title: Level Up Administration Guide
 ---
 
 ## On this page
@@ -23,13 +23,22 @@ The L&D team uses Thought Industries to support training for GitLab team members
 
 ### Field Enablement
 
-# Admin Guide
-
-## Training
+## Platform Training and Support
 <!-- blank line -->
-1. The Thought Industries [Academy](https://academy.thoughtindustries.com/) includes self-paced training and support articles. Access the academy by clicking the `Need Help` button on the left side bar when logged into Thought Industries and scroll down to `Learn More in the Academy`
-1. Admin in Level Up can use the `Help Center` to report technical problems with platform directly to Thought Industries.
+
+### Thought Industries Academy
+1. The Thought Industries [Academy](https://academy.thoughtindustries.com/) includes self-paced training and support articles. Access the academy by clicking the `Need Help` button on the left side bar when logged into Thought Industries and scroll down to `Learn More in the Academy`.
 1. [Platform Settings PDF Guide](https://drive.google.com/file/d/1MXf8NTGRHWloO4WWZYwcRcDzrVucOfcW/view?usp=sharing)
+
+### Raising a Support Ticket
+<!-- blank line -->
+Support tickets should be raised to report errors, bugs, and outages in the platform, but can also be used to ask for technical advice on platform functionality. Before raising a Support Ticket, it's recommended to look for relevant articles in the [Knowledge Base](https://support.thoughtindustries.com/hc/en-us#knowledge-base-categories) that may answer the query without the need to raise a ticket. The steps to open a ticket are as follows:
+<!-- blank line -->
+1. Acces the academy [Knowledge Base](https://support.thoughtindustries.com/hc/en-us#knowledge-base-categories)
+1. Scroll to the bottom of the page, and click `Submit a Request` (underneath `Can't find what you're looking for?`)
+1. Fill in the ticket details in the fields provided and submit.
+1. You will receive a response to your support request via email.
+
 
 ## Administrator Home Page
 <!-- blank line -->
