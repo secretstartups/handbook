@@ -21,7 +21,7 @@ Seeking inputs from team members by surveying people is a key part of [GitLab's 
 There are different survey types that we run at different times throughout the year, each with different intended outcomes:
 
 - *CultureAmp Engagement survey:* we ask team members to complete this survey at least once a year to understand how engagement is tracking over time
-- *Employer Award surveys:* we ask team members to compelte employer award surveys (i.e. Great Place to Work) to understand how GitLab compares against our talent competitors and to give future candidates insight into what it would look like to work here. The process for selecting and participating in [employer award surveys](https://about.gitlab.com/handbook/people-group/employment-branding/awards-process/) is outlined in the Talent Brand section of the handbook.
+- *Employer Award surveys:* we ask team members to complete employer award surveys (i.e. Great Place to Work) to understand how GitLab compares against our talent competitors and to give future candidates insight into what it would look like to work here. The process for selecting and participating in [employer award surveys](https://about.gitlab.com/handbook/people-group/employment-branding/awards-process/) is outlined in the Talent Brand section of the handbook.
 - *Organizational Health survey:* we will sometimes run a survey to understand our company and culture more fully (i.e. McKinsey OHI survey) and classify these efforts as Organizational Health surveys. 
 
 ### CultureAmp Engagement Survey Overview
