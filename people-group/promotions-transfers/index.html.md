@@ -83,9 +83,9 @@ At GitLab, we promote on a quarterly basis. This means that there is **one effec
      - After communicating 1:1 with individuals **on or after 2023-04-24**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
 
 - FY24-Q3: _Tentative_
-  - Planning: June 15 to July 1 
-  - Calibrations: July 1 to July 15
-  - Processing: July 18 to August 1 ((promotions must be added to Workday by July 20))
+ - Planning: June 12 to June 23
+ - Calibrations: June 26 to July 14
+ - Processing: July 17 to August 1 ((promotions must be added to HRIS by July 20))
      - Effective date for promotions: 2023-08-01. 
      - Communication: After fully approved in either Greenhouse or Workday
      - After communicating 1:1 with individuals **on or after 2023-08-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
