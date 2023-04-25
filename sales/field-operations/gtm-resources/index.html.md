@@ -1043,29 +1043,30 @@ Through the Executive Sponsor Program, we seek to:
 
 #### Executive Sponsor
 
-
-- The executive sponsor should clearly understand the customer's and GitLab's desired outcomes and goals and actively support the achievement of both. He/she should feel accountability to drive these results.
-- The executive sponsor is responsible for maintaining direct relationships and communications with individual(s) at the account and participating in remote and in-person meetings. This includes being responsive to customer and account team requests.
+The executive sponsor should:
+- Clearly understand the customer's and GitLab's desired outcomes and goals and actively support the achievement of both. He/she should feel accountability to drive these results.
+- Be responsible for maintaining direct relationships and communications with individual(s) at the account and participating in remote and in-person meetings. Travel should be expected to meet customers in their office or at a conference or GitLab event (e.g., dinner, Commit).
+- Provide strategic and executive guidance, collaboration, and communication with customer contacts.
+- Act as an advocate for the customer driving actions in support of the customer and account team as well as sharing customer stories and requirements. 
+- Be responsive to account team and customer communications. He/she should communicate the discussion, agreements, decisions, and/or action items within 24 hours if the account team was not involved in the meeting. 
   - The executive sponsor should maintain ongoing contact with their respective customer counterpoint at least once a quarter, including formal (e.g., EBR, meeting) and informal approaches (e.g., check-in or update emails/texts or video chats). 
-- The executive sponsor should act as an advocate for the customer driving actions in support of the customer and account team as well as sharing customer stories and requirements. 
 - If there is a 1:1 meeting, the executive sponsor should send a follow-up email within 24 hours with:
   - Thank you / appreciation of the customer's time and feedback
   - Action items and/or next steps (when applicable)
   - When possible, project the next follow-up interaction
 
 Example Sponsor Activities 
-- Introduction between the GitLab executive sponsor and customer contact
-- [Executive business reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/) 
-- Provide strategic and executive guidance, collaboration, and communication with customer contacts
-- Participate and contribute to account meetings and social events like dinner or lunch
-- Check-in/status emails to note progress and open lines of communication and feedback
-- Build personal relationships with customer executive(s), understanding their personal needs and goals
-- Informal communications like ad hoc phone calls and emails
+
+- Actively participate in [Executive business reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/).
+- Participate and contribute to account meetings and social events, including visting a customer for dinner or lunch.
+- Check-in/status emails to note progress and open lines of communication and feedback.
+- Build personal relationships with customer executive(s), understanding their personal needs and goals.
+- Informal communications like ad hoc phone calls and emails.
 
 #### Account Team
 
 - The SAE or AE should select an executive sponsor considering customer needs and expectations, ability to connect personally, experience, and ability to drive the right impact.
-- SAE or AE should take the lead on providing executive sponsor briefing using the [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#). The Customer Success Manager should actively be contributing to these documents and preparation.
+- SAE or AE should take the lead on providing executive sponsor briefing using the [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#). The Customer Success Manager should actively be contributing to these documents and preparation. Alternate account documentation like an account plan can be used as an alternate to the briefing doc.
 - The account team should proactively plan consistent engagement between the executive sponsor and customer contact(s), including:
   - Progress on delivering to outcomes, progress, and customer successes and wins
   - Updates on any notable issues (past or present), concerns, and/or key customer requirements
@@ -1085,7 +1086,7 @@ Example Sponsor Activities
 1. The executive sponsor assignment is a long-term engagement (i.e., multiple quarters, years+).
 1. The account can be a prospect or customer account.
 1. The sponsor should reflect both the needs of the customer and GitLab.
-1. Accounts are nominated by the account team and approved by the respective VP of Sales and VP of Customer Success. 
+1. Executive sponsor requests should be approved by the regional sales Vice President and approved by the requested executive sponsor. This does not include a request for a VP or egroup member to support a meeting or discussion (i.e., short term ask).
 1. Sponsored accounts typically represent deep product utilization, large or strategic opportunity, and/or a broad vision for success and engagement with GitLab.
 1. Once approved, Sales Operations will update the "Executive Sponsor" field.
 1. Executive Sponsored Accounts are [listed in Salesforce](https://gitlab.my.salesforce.com/00O4M000004e2Ma).
