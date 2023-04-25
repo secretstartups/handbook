@@ -338,6 +338,27 @@ Cascading is the process by which top-level CEO OKRs cascade down from company-l
 
 Through these two cascade methods, a lower level team can either inherit or create an Objective. However, in both cases, the lower level team creates net new Key Results for the new Objective at team's level of [organizational structure](/team/structure/#layers).
 
+The following works for cascading any multi-level OKRs, not just CEO OKRs. CEO key results cascade down to relevant areas of the company in two ways:
+1. CEO KR converted to a division or team-level objective with more specific child key results 
+2. A portion or all of a CEO KR can be adopted as a KR at the division or team level if it’s specific to that area of the company. 
+
+In order to align division or team objectives to a CEO KR and have progress flow up to CEO KR automatically, the CEO key results should be created as an objective, not as a key result, as GitLab functionality doesn’t allow for a KR to have child OKRs. The hierarchy will look like this: 
+1. CEO objective 
+      1. CEO KR (also an objective) 
+            1. team objective
+                  1. team KR 
+If input in this format, progress entered for team KRs will flow up to update CEO OKRs automatically. 
+
+As an example, a [CEO objective in FY23-Q4](https://about.gitlab.com/company/okrs/fy23-q4/) was to “Grow Careers” with KRs managed by the Workplace, Learning & Development, and DIB teams. So, the CEO KRs were the objectives for those respective teams. As they updated progress on their objectives, the results were measured on the CEO level as KRs, and combined to create progress and health status reports for the objective as a whole.
+
+To ensure accurate reporting in a cascading OKR, follow these steps:  
+
+1. Create the CEO objective 
+1. Create the CEO key results as child objectives of the CEO objective. 
+1. For team OKRs that are aligned to CEO OKRs, create team objectives as child objectives of the relevant CEO objective or CEO key result (CEO key result will be an objective in GitLab) as instructed in Creating Objectives. 
+1. Add your group key results embedded as children inside of the team objective.
+1. Add DRIs as Assignees on each KR, and the group leader or department head as the Assignee of the team objective.
+
 
 ### How to Align Division OKRs to the CEO OKRs
 Once division OKRs have been added to GitLab, they can then be aligned to relevant CEO OKRs. Division OKRs should align to a CEO objective when it contributes to the progress of that objective. If a division level OKR does not contribute to progress of CEO objective but is still related, crosslink the CEO OKR and division OKR in the description of each OKR for visibility.
