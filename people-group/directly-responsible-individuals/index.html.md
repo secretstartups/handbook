@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Directly Responsible Individuals
+title: Directly Responsible Individuals (DRI)
 description: "Directly Responsible Individuals (DRIs) at GitLab own particular projects, initiatives, or activity."
 ---
 
