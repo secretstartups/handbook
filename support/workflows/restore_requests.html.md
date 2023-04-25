@@ -19,7 +19,7 @@ Use this workflow when a customer requests that we restore data from GitLab SaaS
 
 ## Process
 
-1. Check whether the customer has special provisions in their contract that might affect the processing of this request. These provisions are usually located in the notes section of the organization in Zendesk.
+1. Check whether the customer has special provisions in their contract that might affect the processing of this request. A note of these provisions in the contract are located in the notes section of the organization in Zendesk. Look at the organization information, or the internal note at the beginning of the ticket.
    - >**Note:** The best way to maintain this information is being discussed in [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2944).
 1. Ensure that the request meets the necessary [criteria for restoration](https://about.gitlab.com/support/gitlab-com-policies/#restoration-of-deleted-data).
 
