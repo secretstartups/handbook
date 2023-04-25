@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Getting started with Product Intelligence
+title: Getting started with Analytics Instrumentation
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -169,7 +169,7 @@ The framework options with their respective guides are:
 
 To verify the added changes using your local environment, check [local setup instructions](https://docs.gitlab.com/ee/development/service_ping/implement.html#set-up-and-test-service-ping-locally).
 
-To make sure the MR is ready for review, check out the [review guidelines](https://docs.gitlab.com/ee/development/snowplow/review_guidelines.html#the-merge-request-author-should). They also include information about what the Product Intelligence reviewer will later check in the MR.
+To make sure the MR is ready for review, check out the [review guidelines](https://docs.gitlab.com/ee/development/snowplow/review_guidelines.html#the-merge-request-author-should). They also include information about what the Analytics Instrumentation reviewer will later check in the MR.
 
 If you want to verify the event attributes passed to Snowplow, check out the [event taxonomy guide](https://docs.gitlab.com/ee/development/snowplow/index.html#structured-event-taxonomy). You can also check the [Metrics dictionary](https://metrics.gitlab.com/snowplow/) for examples of already existing implementations.
 
@@ -177,7 +177,7 @@ If you want to verify the event attributes passed to Snowplow, check out the [ev
 
 To verify the added changes using your local environment, check [Snowplow testing guide](https://docs.gitlab.com/ee/development/snowplow/implementation.html#develop-and-test-snowplow).
 
-To make sure the MR is ready for review, check out the [review guidelines](https://docs.gitlab.com/ee/development/service_ping/review_guidelines.html#the-merge-request-author-should). They also include information about what the Product Intelligence reviewer will later check in the MR.
+To make sure the MR is ready for review, check out the [review guidelines](https://docs.gitlab.com/ee/development/service_ping/review_guidelines.html#the-merge-request-author-should). They also include information about what the Analytics Instrumentation reviewer will later check in the MR.
 
 ## When to create a Data team issue
 
@@ -198,7 +198,7 @@ After the new code has been pushed to production, it's time to verify the tracke
 
 New Service Ping data will only be collected from instances running the newly added code. This means that most likely, the first piece of data that you will be able to verify will come from the GitLab SaaS instance. For the first Service Ping containing deployed changes to appear in Sisense, you will need to wait this much time:
   - For the data from Gitlab SaaS instance, the data should appear in, at most, 10 days from the time the code changes have been deployed to production.
-  - For the data from self-managed instances, the timing depends on the release cycle. Check more in-depth information about the data availability in the [Product Intelligence guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/#3-data-availability).
+  - For the data from self-managed instances, the timing depends on the release cycle. Check more in-depth information about the data availability in the [Analytics Instrumentation guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/#3-data-availability).
 
 ### Snowplow data availability
 
@@ -229,4 +229,4 @@ Please follow process outlined by the guidance for removing and changing metrics
 | [Sisense handbook page](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/#self-service-dashboard-development-2) | A guide for getting started with SiSense |
 | [Metrics dictionary](https://metrics.gitlab.com/) | A SSoT for all collected metrics from Usage Ping |
 | [dbt data tool](https://gitlab-data.gitlab.io/analytics/#!/overview) | A tool for viewing relations between databases |
-| [FAQ](https://about.gitlab.com/handbook/product/product-intelligence-guide/faq.html) | Product Intelligence FAQ |
+| [FAQ](https://about.gitlab.com/handbook/product/product-intelligence-guide/faq.html) | Analytics Instrumentation FAQ |
