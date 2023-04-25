@@ -411,7 +411,7 @@ The following results lead to failure of the pipeline:
 </figure>
 
 * All job families should have performance indicators (PIs).
-* Performance indicators should tell you whether or not you’re doing your job well or correctly. For example, our [Sr. Director, Investor Relations](https://handbook.gitlab.com/job-families/finance/senior-director-of-investor-relations) role has performance indicators that compare how we’re being described by analysts to how we describe ourself.
+* Performance indicators should tell you whether or not you’re doing your job well or correctly. For example, our [Vice President, Investor Relations](https://handbook.gitlab.com/job-families/finance/investor-relations/#vice-president-investor-relations) role has performance indicators that compare how we’re being described by analysts to how we describe ourselves.
 * Performance indicators are important because people want to know that they’re contributing.
 * Candidates want to know what success looks like in a role.
 * Team Members want to know how they're being measured for success.
