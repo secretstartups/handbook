@@ -34,7 +34,7 @@ each analyst is assigned to one or more sections or teams to support.
 | Name | Title | Product Section or Team |
 | --- | --- | --- |
 | [Carolyn Braza](/company/team/#cbraza) | [Senior Manager, Product Data Insights](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-manager-product-data-insights) | [Analytics](/handbook/product/categories/#analytics-section) |
-| [Nicole Hervas](/company/team/#nhervas) | [Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#product-analyst-intermediate) | [Ops](/handbook/product/categories/#ops-section) |
+| [Nicole Hervas](/company/team/#nhervas) | [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst) | [Ops](/handbook/product/categories/#ops-section) |
 | [Emma Neuberger](/company/team/#eneuberger) | [Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#product-analyst-intermediate) | [Growth](/handbook/product/categories/#growth-section), [Enablement](/handbook/product/categories/#enablement-section), [SaaS Platforms](/handbook/product/categories/#saas-platforms-section) |
 | [Matthew Petersen](/company/team/#matthewpetersen) | [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst) | [Dev](/handbook/product/categories/#dev-section) |
 | [Dave Peterson](/company/team/#dpeterson1) | [Staff Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#staff-product-analyst) | [Sec](/handbook/product/categories/#sec-section) |
