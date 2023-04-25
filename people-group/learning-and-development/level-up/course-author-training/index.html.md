@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Level Up
+title: Learning Evangelist Training
 ---
 
 ## On this page
