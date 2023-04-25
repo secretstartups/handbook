@@ -53,16 +53,16 @@ Planned:
 | Working Group Role                       | Person                           | Title                                                           |
 |------------------------------------------|----------------------------------|-----------------------------------------------------------------|
 | Executive Stakeholder                    | Jörg Heilig                      | CTO                                                             |
-| Facilitator/DRI                          | Andras Horvath                   | Engineering Manager, Gitaly                              |
-| Product Management DRI                   | Joshua Lambert                   | Director of Product Management, Enablement                      |
-| Member.                                  | Gerardo Lopez-Fernandez          | Engineering Fellow, Infrastructure         |
+| Facilitator/DRI                          | Andras Horvath                   | Engineering Manager, Gitaly                                     |
+| Product Management DRI                   | Mark Wood                        | Senior Product Manager, Gitaly                                  |
+| Member                                   | Gerardo Lopez-Fernandez          | Engineering Fellow, Infrastructure                              |
 | Member                                   | Chun Du                          | Director of Engineering, Enablement                             |
 | Member                                   | Juan Silva                       | Fullstack Engineering Manager, Geo                              |
 | Member                                   | Sampath Ranasinghe               | Senior Product Manager, Geo                                     |
 | Member                                   | John Jarvis                      | Staff SRE, Infrastructure                                       |
 | Member                                   | Michele Bursi                    | Engineering Manager, Delivery                                   |
 | Member                                   | Sami Hiltunen                    | Senior Backend Engineer, Gitaly                                 |
-| Member                                   | Mark Wood                        | Senior Product Manager, Gitaly.                                 |
+| Member                   | Joshua Lambert                   | Director of Product Management, Enablement                      |
 | Member                                   | Steve Azzopardi                  | Staff SRE, Infrastructure.                                      |
 | Member                                   | Fabian Zimmer                    | Director of Product Management, SaaS Platforms                  |
 
