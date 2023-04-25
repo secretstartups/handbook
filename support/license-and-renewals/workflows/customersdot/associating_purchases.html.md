@@ -150,8 +150,10 @@ This may then lead to cloud activation errors and SaaS subscriptions not syncing
 
 #### Reseller customer note
 
-Please keep in mind that the customer (if purchased via a reseller) will only have one subscription contact in CustomersDot -
-if such a customer is requesting multiple contacts be added, please recommend that they propose a shared inbox or email address for the account update.
+- Please keep in mind that the customer (if purchased via a reseller) will only have one subscription contact in CustomersDot
+  - If such a customer is requesting multiple contacts be added, please recommend that they propose a shared inbox or email address for the account update.
+- For reseller requested contact change, edit the exsiting contact in CDot and change to the requested details. Check `Skip email confirmation`.
+   - Check in Zuora if the changes are reflected to the `Sold to` contact. If it's not, then follow [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update.
 
 #### Process
 
