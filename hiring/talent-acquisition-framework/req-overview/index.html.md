@@ -58,7 +58,7 @@ All approached prospects should be added in Greenhouse as prospects.**Greenhouse
 There are multiple ways to add the candidates, as follows:
 
 * [LinkedIn](https://support.greenhouse.io/hc/en-us/articles/204110135-Add-Prospects-to-Greenhouse-via-LinkedIn-RSC-Integration)
-* [Greenhouse plug-in](https://support.greenhouse.io/hc/en-us/articles/201444934-Prospecting-with-Greenhouse-Prospecting-Google-Chrome-Plugin)
+* [Greenhouse plugin](https://support.greenhouse.io/hc/en-us/articles/4947637389083-Greenhouse-Recruiting-Chrome-extension-overview)
 * [Maildrop](https://support.greenhouse.io/hc/en-us/articles/201990630)
 * [Enable LinkedIn Recruiter System Connect (RSC)](https://support.greenhouse.io/hc/en-us/articles/115005678103-Enable-LinkedIn-Recruiter-System-Connect-RSC-) so you can export candidates in one click as prospects
 
