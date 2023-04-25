@@ -97,6 +97,7 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Development representative             | @pcalder | [Phil Calder](https://about.gitlab.com/company/team/#pcalder) | Senior Engineering Manager, Anti-abuse, Govern, and Growth |
 | Development representative             | @nmccorrison | [Neil McCorrison](https://about.gitlab.com/company/team/#nmccorrison) | Engineering Manager, Govern: Threat Insights |
 | Development representative             | @carlad-gl | [Carla Drago](https://about.gitlab.com/company/team/#carlad-gl) | Senior Backend Engineer, Manage: Import & Integrate |
+| Development representative             | @donaldcook | [Donald Cook](https://about.gitlab.com/company/team/#donaldcook)   | EM, Project Management |
 | Legal representative             | @jbackerman | [Jesse Backerman](https://about.gitlab.com/company/team/#jbackerman)   | Managing Legal Counsel |
 | Vulnerability Research Representative | @idawson | [Isaac Dawson](https://about.gitlab.com/company/team/#idawson) | Staff Vulnerability Researcher |
 | Vulnerability Research Representative | @dbolkensteyn | [Dinesh Bolkensteyn](https://about.gitlab.com/company/team/#dbolkensteyn) | Sr. Vulnerability Researcher |
