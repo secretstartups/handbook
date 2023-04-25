@@ -291,7 +291,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 ### Missouri
 * [Discrimination in Employment](https://labor.mo.gov/sites/labor/files/pubs_forms/MCHR-9-AI.pdf)
-* [Notice to Victims of Domestic and Sexual Violence - Leave Time Allowed](https://labor.mo.gov/sites/labor/files/DLS/LS_112_Poster_f_0.pdf)
+* [Notice to Victims of Domestic and Sexual Violence - Leave Time Allowed](https://labor.mo.gov/media/pdf/ls-112-ai)
 * [Missouri Minimum Wage Law](https://labor.mo.gov/sites/labor/files/pubs_forms/LS-52-AI.pdf)
 * [Workers' Compensation Notice - Inc.](https://drive.google.com/file/d/1uROeLu4pwe3DmwEEVJRJ_a8rySgucy-b/view?usp=sharing)
 
