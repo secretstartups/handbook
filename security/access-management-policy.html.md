@@ -90,7 +90,11 @@ These templates should be used during the [onboarding process](/handbook/people-
 
 * Time-based access may be provided if administrative action is required for a set period of time. This should be documented as part of the Access Request SLAs.
 
-* All requests for new service accounts require a [New Service Account Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Service_Account_Request)
+* All requests for new service accounts require a New Service Account Request:
+
+  - [Gitlab.com Service Account Request](https://about.gitlab.com/handbook/security/access-management-policy.html#requesting-gitlabcom-service-account-for-automation)
+  - [GCP Service Account Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GCP_Google_Service_Account_Request)
+  - [Other System Service Account Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Service_Account_Request)
 
 * All requests for new service accounts must be approved by a member of Infrastructure Management.
 
@@ -229,7 +233,7 @@ behind this are:
 * Enable better process for provisioning and revocation:
   - More clear what should be granted and what can be revoked.
 
-A [New Service Account Requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Service_Account_Request)
+A [New Service Account Requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLabCom_Service_Account_Request)
 should be filled to request a new service account.
 
 Access tokens for each service account should be requested accordingly.
