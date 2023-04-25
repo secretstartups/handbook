@@ -124,6 +124,7 @@ We use [dbt snapshots](https://docs.getdbt.com/docs/building-a-dbt-project/snaps
 * `mart_available_to_renew_snapshot_model`: Using Method One described above, this is a daily snapshot of `mart_available_to_renew`, expanded using a date spine from the slowly changing dimension created by dbt. Use this model to see how ATR changes on a daily basis.
 * `rpt_available_to_renew_snapshot_8th_calendar_day`: This model filters `mart_available_to_renew_snapshot_model` to the 8th calendar day of a snapshot month. This is used in financial reporting to represent what the state of ATR was after month-end-close.
 * `rpt_available_to_renew_snapshot_45th_calendar_day`: This model filters `mart_available_to_renew_snapshot_model` to the 45th calendar day of a snapshot month. This model is an experiment to see how ATR continues to shift in the 45 days after month-end-close.
+* `rpt_available_to_renew_top_monthly_changes`: Model showing the top changes by month by ARR. This shows subscriptions which became available to renew or were dropped as available to renew in each month. The report also shows new subscriptions and subscriptions which are ending this month. This model was created to help identify changes to accounts which may need further investigation.
 
 <details>
 <summary markdown='span'>
