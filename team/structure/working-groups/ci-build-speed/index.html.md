@@ -15,8 +15,8 @@ canonical_path: "/company/team/structure/working-groups/ci-build-speed/"
 
 | Property     | Value |
 |--------------|-------|
-| Date Created | 2023-03-01 |
-| Estimated Date Ended   | 2023-07-05 |
+| Date Created | 2023-09-01 |
+| Estimated Date Ended   | 2023-10-02 |
 | Slack        |  (only accessible from within the company) |
 | Google Doc   | [CI Build Speed Working Group Agenda](https://docs.google.com/document/d/1MAbp148_KVzznyvzSRkeP3RqpobS8TJ6IVJxgIBL8fs/edit?usp=sharing) (only accessible from within the company)|
 
