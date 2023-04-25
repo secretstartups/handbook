@@ -118,7 +118,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### Connecticut
 * [Sexual Harassment is Illegal](https://portal.ct.gov/-/media/CHRO/SexualHarassmentPreventionPosterpdf.pdf)
 * [Paid Sick Leave](https://www.ctdol.state.ct.us/wgwkstnd/NoticeSickLeavePoster2014%20.pdf)
-* [Connecticut Paid Leave](https://portal.ct.gov/-/media/DOLUI/NEW-53122-Prototype-of-Employers-Written-Notice-to-Employees-of-Rights-under-CTFMLA-and-CTPL.pdf)
+* [Connecticut Paid Leave notice](https://portal.ct.gov/-/media/DOLUI/NEW-53122-Prototype-of-Employers-Written-Notice-to-Employees-of-Rights-under-CTFMLA-and-CTPL.pdf) and [Paid Leave poster](https://portal.ct.gov/-/media/DDS/Self_Determination/Employee_Rights_Poster.pdf)
 * [Discrimination is Illegal](https://portal.ct.gov/-/media/CHRO/DiscriminationFlyerpdf.pdf)
 * [Minimum Wage](https://www.ctdol.state.ct.us/wgwkstnd/DOL-75.pdf)
 * [Worker's Compensation Notice](https://drive.google.com/file/d/1QudFkpV7haIaUzUpIYccD9slAiDrAnHd/view?usp=sharing)
