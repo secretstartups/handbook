@@ -11,11 +11,11 @@ title: "GitLab tiers"
 
 ## Overview
 
-| Tier      | Delivery                  | License                   | Fee            |
-| --------- | ------------------------- | ------------------------- | -------------- |
-| Free      | self-managed and SaaS     | open source               | unpaid         |
-| Premium   | self-managed and SaaS     | source-available          | paid           |
-| Ultimate  | self-managed and SaaS     | source-available          | paid           |
+| Tier      | Delivery                  | Deployment Type                      |  License           | Fee            |
+| --------- | ------------------------- | -------------------------------------| ------------------ | ---------------| 
+| Free      | Self-Managed and SaaS     | Self-Managed and GitLab.com          | open source        | unpaid         |
+| Premium   | Self-Managed and SaaS     | Self-Managed and GitLab.com          | source-available   | paid           |
+| Ultimate  | Self-Managed and SaaS     | Self-Managed, Dedicated, and GitLab.com | source-available  | paid |
 
 ## Definitions
 
@@ -57,6 +57,8 @@ Features that are part of GitLab's Free tier refer to open source software that 
 
 We call the multi-tenant GitLab SaaS (with the G and L capitalized) since it is unambiguous and common.
 We don't call it GitLab Cloud since most self-managed instances of GitLab are hosted in the cloud as well, and if we introduce single tenant instances it will be even more confusing.
+
+GitLab Dedicated offers a new way to use our enterprise DevSecOps platform as a single-tenant SaaS offering. This offering provides all of the benefits of an enterprise DevSecOps platform, with an added focus on data residency, isolation, and private networking to meet compliance needs. 
 
 ## Personal vs group subscriptions
 GitLab SaaS subscriptions are added to either a personal namespace or a group namespace. Personal subscriptions apply to a single user while Group subscriptions apply to all users in the Group.
