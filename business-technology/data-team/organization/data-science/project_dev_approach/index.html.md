@@ -275,7 +275,7 @@ In the project issue, document the following:
 - Now you can run your code with your scoring dataset. Be sure update your sql code so it is parameterized to use the most current data available.
 - Examine the model decile distribution of your scored records. They should be roughly equal. If they are wildly off, or if they vary widely in each scoring run, it could be a sign that your model is overfit/underfit and cannot generalize beyond the training dataset.
 - Add .sql file, parameters.yml, model artifacts, and jupyter notebook to the [data-science deployments](https://gitlab.com/gitlab-data/data-science/-/tree/main/deployments/pte) directory and create a MR
-- Create a new issue using the [Scheduling Notebook Request](https://gitlab.com/gitlab-data/analytics/-/blob/0aaf0f724dd9073a8883c691d2d8092a6d301d85/.gitlab/issue_templates/Scheduling%20Notebook%20Request.md) template and tag `@gitlab-data/engineers`
+- Create a new issue using the [Scheduling Notebook Request](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Scheduling%20Notebook%20Request.md) template and tag `@gitlab-data/engineers`
 
 **Considerations**:
 - This step is prone to a lot of human error, so completing the tasks outlined above is helpful to ensure accurate scoring of the model.

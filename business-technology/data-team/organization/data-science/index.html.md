@@ -108,8 +108,8 @@ graph BT;
 | Loss Prevention | [Propensity to Contract](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-contract-and-churn) (PtC) | Optimized  | Determine which paid accounts are likely to decrease in ARR via seat expansion or down-tier to Premium  | FY23-Q4 | FY24-Q1 |
 | Conversion  | [Propensity to Purchase](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-purchase) (PtP)  | Viable  | Identify which non-paid users (free and trials accounts) are likely to become paid accounts  | FY24-Q1 | FY24-Q2 | 
 | Product Research  | [Namespace Segmentation](https://gitlab.com/gitlab-data/data-science-projects/namespace-segmentation)  | Optimized | Define groups for paid and free SaaS namespaces based on its product usage  |  FY23-Q3 | TBD |
-| Lead Funnel Generation | Prospect/Lead Scoring  | Planned | Identify leads and prospects most likely to convert to closed won opportunities | | FY24-Q1 |
-| MLOps | GitLab MLOps Product Development | In progress (Ongoing) | Dogfood new MLOps product features and enhancements | | FY24-Q1 | 
+| Lead Funnel Generation | Prospect/Lead Scoring  | Planned | Identify leads and prospects most likely to convert to closed won opportunities | | FY24-Q2 |
+| MLOps | GitLab MLOps Product Development | In progress (Ongoing) | Dogfood new MLOps product features and enhancements | FY24-Q1 | FY24-Q2 | 
 | Backlog | Adoption Index | Planned | Define way to measure adoption and customer journey | | TBD |
 | Backlog | Product Usage Event | Planned | - | | TBD |
 | Backlog | Golden Journey | Planned | Identify optimal paths to increasing platform usage and adoption | | TBD |
@@ -238,16 +238,12 @@ Our current platform consists of:
 - [JupyterLab](/handbook/business-technology/data-team/platform/jupyter-guide/) for model training, tuning, and selection
 - [GitLab](https://gitlab.com/) for collaboration, project versioning, and score code management, and [experiment tracking](https://about.gitlab.com/handbook/engineering/incubation/mlops/ml_experiment_tracking.html)
 - [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow) for automation and orchestration
-- Sisense (soon to transition to Monte Carlo) for model monitoring and performance evaluation
+- Monte Carlo for drift detection for 
+- Tableau Server for model monitoring and on-going performance evaluation
 
 Over time we plan to dogfood as many components of the GitLab MLOps Stage as possible, leading to fully automated productionalized pipelines. As more MLOps features come online we will update our platform and processes accordingly. Our immediate next step is to better automate `Current State Data Flows` using a combination of python, airflow, and CI/CD.
 
 ### Current State Data Flows
-
-**Legend**
-
-- TSV = [comma-separated value file](https://fileinfo.com/extension/csv)
-- ODBC = [Open Database Connectivity](https://en.wikipedia.org/wiki/Open_Database_Connectivity)
 
 ```mermaid
 graph 
@@ -269,6 +265,8 @@ graph
     F --> |CSV| D
     F --> |ODBC| E
 ```
+
+- For putting a model into production, please create an new [data issue](https://gitlab.com/gitlab-data/analytics/-/issues/new#) using the [Scheduling Notebook Request Template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Scheduling%20Notebook%20Request.md)
 
 ### Data Science Tools at GitLab
 
