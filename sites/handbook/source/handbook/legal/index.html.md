@@ -87,6 +87,7 @@ The Risk Management and Dispute Resolution team addresses dispute resolution acr
 * [Internal Acceptable Use Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/)
 * [Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
 * [Partner Code of Ethics](/handbook/legal/partner-code-of-ethics/)
+* [Philanthropy Policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/)
 * [Privacy Policy](https://about.gitlab.com/privacy/)
 * [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/)
 * [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
