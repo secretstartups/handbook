@@ -41,7 +41,6 @@ This information is open to GitLab but not publicly (handbook) available because
 - Information about security incidents or investigations handled by SIRT that are not considered high-severity or sensitive
 - Executive reports of Red Team operations that do not contain details
 - Vulnerabilities patched or resolved more than 30 days ago
-- Vulnerabilities within the scope of our FedRAMP program
 - Concluded security incidents that do not contain [Materially Non-Public Information](https://about.gitlab.com/handbook/product/product-safe-guidance/#materially-non-public-information)
 
 ### Restricted: Security Only or other restrictions imposed
@@ -58,6 +57,7 @@ This information is restricted due to confidential data or privacy concerns rela
 - HackerOne vulnerability submissions prior to internal triage
 - Critical preventative or detective security control configurations
 - Baseline security configurations
+- Vulnerabilities that are unique to the FedRAMP production environment
 - Details related to operations performed by the Red Team and their findings
      - Due to the risk these findings would present to the security of GitLab.com and GitLab the company
 - Information related to GitLab.com abusive activity and follow-up activity taken by the Trust & Safety team
