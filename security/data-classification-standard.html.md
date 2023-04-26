@@ -62,6 +62,7 @@ Restricted and must remain confidential. This is GitLab’s most sensitive data 
 
 Examples include:
 * Customer Data
+* Vector embeddings derived from red data
 
 #### ORANGE
 Data subject to laws and regulation that should not be made generally available. Unauthorized access or disclosure could cause significant or financial material loss, risk of harm to GitLab if exposed to unauthorized parties, break contractual obligations, and/or adversely impact GitLab, its partners, employees, contractors, and customers. 
