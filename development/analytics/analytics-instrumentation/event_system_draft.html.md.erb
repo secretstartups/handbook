@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Product Intelligence Group
-description: "The Product Intelligence draft documentation for new proposed event system"
+title: Analytics Instrumentation Group Event System Draft
+description: "The Analytics Instrumentation draft documentation for new proposed event system"
 ---
 
 ## On this page
@@ -15,12 +15,12 @@ Disclaimer: This is draft documentation to inform a potential iteration of Gitla
 
 # GitLab Internal Events Tracking
 
-The Usage Insights system is backward compatible with legacy Product Intelligence tooling, and all
+The Usage Insights system is backward compatible with legacy Analytics Instrumentation tooling, and all
 preexisting data reported from legacy systems are still going to be reported as it was. For more information about
 legacy systems and migration follow to [later section](#migration-from-legacy-systems-service-ping-snowplow) of this documentation.
 {: .alert .alert-info}
 
-Product Intelligence events provide the ability to record information about different actions occurring in a GitLab installation.
+Analytics Instrumentation events provide the ability to record information about different actions occurring in a GitLab installation.
 This documentation is structured in such a way that most readers can add metrics to their code by following the [Quick Start Guide](#quick-start-guide).
 
 The Quick Start Guide section is followed by [information](#using-usage-insights-data) about the resulting data and how to utilize it to gather product insights to help drive business decisions.
@@ -52,8 +52,8 @@ in order to have a robust foundation it is necessary to look for sets of events 
 For example, a single event documenting a paid user visiting Merge Request page after a new feature was released tells nothing about the success of this new feature. However, if one counts the number of Merge Request page view event happening in the week before the new feature release and then compares it with the number of events for the week following the feature release, then that person will be able to gauge if the new feature increased popularity of Merge Request page.
 
 Described in the example process of counting events based on common traits in defined time frames
-is the process that leads to the creation of a second important entity in Product Intelligence: a metric.
-A metric is a piece of Product Intelligence data that results from analyzing sets of event records defined by some common traits and limited to some time frame.
+is the process that leads to the creation of a second important entity in Analytics Instrumentation: a metric.
+A metric is a piece of Analytics Instrumentation data that results from analyzing sets of event records defined by some common traits and limited to some time frame.
 
 To learn more about all available types of metrics follow to [later section](#metric-types) of documentation.
 
@@ -61,7 +61,7 @@ To see an example that illustrates how a generator can be used to add events and
 
 ## Quick start guide
 
-The quick start guide is going to show how to use the Product Intelligence generator to create the necessary configuration files
+The quick start guide is going to show how to use the Analytics Instrumentation generator to create the necessary configuration files
 (aka [event](#event) and [metric definitions](#metric) explained later in this document)
 you need as well as produce the code snippet to add to the GitLab's codebase.
 You could create all this by hand, but the generator will be faster in most cases.
@@ -86,7 +86,7 @@ Let's get started by running the generator `$ bin/pi_generate`:
 <details markdown=1><summary>An example of using the generator make an event.</summary>
 ```shell
 $ bin/pi_generate
-> Please provide a unique name for your event. Only lowercase alphanumeric characters and underscore is allowed for use. The Product Intelligence team recommends following pattern <action>_<target>.
+> Please provide a unique name for your event. Only lowercase alphanumeric characters and underscore is allowed for use. The Analytics Instrumentation team recommends following pattern <action>_<target>.
 
 applied_ai_code_review_suggestion
 
@@ -153,7 +153,7 @@ N
 
 > Please describe in at least 150 characters what this event is supposed to track, where, and when
 > your answer will be processed to power a full-text search tool and help others find and reuse this event.
-> The product intelligence group and others thanks you for your help and collaboration!
+> The Analytics Instrumentation group and others thanks you for your help and collaboration!
 
 It is tracking users who apply code suggestion changes made by an AI model to merge request diff.
 It helps the code review group to understand the utilization of the new AI-powered feature.
@@ -199,7 +199,7 @@ merge_request_id
 > what count_distinct_merge_request_id_from_applied_ai_code_review_suggestion_v1_0_0 metric represents,
 > consider mentioning: events, and event attributes in the description.
 > your answer will be processed to power a full-text search tool and help others find and reuse this metric.
-> The product intelligence group thanks you for your help and collaboration!
+> The Analytics Instrumentation group thanks you for your help and collaboration!
 
 It is representing all applied code review suggestions that were generated with the usage of the new AI-powered feature.
 This metric counts distinct merge request id from applied_ai_code_review_suggestion event records that occurred within different time frames.
@@ -300,7 +300,7 @@ merge_request_id
 > what count_distinct_merge_request_id_from_applied_ai_code_review_suggestion_v1_0_0 metric represents,
 > consider mentioning: events, and event attributes in the description.
 > your answer will be processed to power a full-text search tool and help others find and reuse this metric.
-> The product intelligence group thanks you for your help and collaboration!
+> The Analytics Instrumentation group thanks you for your help and collaboration!
 
 It is representing all applied code review suggestions that were generated with the usage of the new AI-powered feature.
 This metric counts distinct merge request id from applied_ai_code_review_suggestion event records that occurred within different time frames.
@@ -381,8 +381,8 @@ under `properties.context` with exception of with exception of `environment`, `s
 
 ### Event tracking on the backend
 
-The Product Intelligence backend SDK will generate dedicated method for each event that should be used for tracking purposes.
-In the [Quick start](#quick-start-guide) example Product Intelligence framework will generate method
+The Analytics Instrumentation backend SDK will generate dedicated method for each event that should be used for tracking purposes.
+In the [Quick start](#quick-start-guide) example Analytics Instrumentation framework will generate method
 `GitLab::Tracking.applied_ai_code_review_suggestion_1_0_0(project_id:, merge_request_id:, merge_request_milestone: nil)`
 In order to add `applied_ai_code_review_suggestion` event tracking you would need to visit
 [`Suggestions::ApplyService`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/services/suggestions/apply_service.rb#L34)
@@ -587,7 +587,7 @@ It is important to make sure that `events.<event_name>.unique_by` attribute for 
 so the metric will not compare apples with oranges, producing confusing results.
 
 Depending on the type of metric computation (`count` and `count_distinct`), that metric will require different configuration bits
-which will be discussed in the following subsections. However, for each of those cases, the Product Intelligence team recommends using a generator that will
+which will be discussed in the following subsections. However, for each of those cases, the Analytics Instrumentation team recommends using a generator that will
 guide you through the process.
 
 #### Multi event total count metrics
@@ -834,7 +834,7 @@ Events records data is only available for SaaS (gitlab.com) instance, the only w
 
 The same as with the event records data, once you metric definition are deployed to production they will be put to use.
 All metrics data is being included into Service Ping payload and reported once a week from all GitLab instances that agreed to
-share Product Intelligence data with GitLab organisation.
+share Analytics Instrumentation data with GitLab organisation.
 
 #### Browsing metric data
 
@@ -893,13 +893,13 @@ The current system is backward compatible, and all
 preexisting data reported from the mentioned system is still going to be reported as it was
 {: .alert .alert-info}
 
-In the past Product Intelligence group offered two independent systems for use:
+In the past Analytics Instrumentation group offered two independent systems for use:
 1. [Service Ping](https://docs.gitlab.com/ee/development/service_ping/)
 1. [Snowplow](https://docs.gitlab.com/ee/development/snowplow/)
 
 Each of those offered different capabilities and was to some extent complementary to each other.
 The current system is designed on top of those tools, but mentioned tools got abstracted in a way that the existence of those tools
-is internal Product Intelligence group implementation details, and should not concern anybody outside of the group.
+is internal Analytics Instrumentation group implementation details, and should not concern anybody outside of the group.
 The current system combines Service Ping and Snowplow into a single entity to provide the best of both worlds and is expected to replace them both
 It is important to notice that **current system is backward compatible**, and **all
 preexisting data reported from the mentioned system is still going to be reported as it was**. The current system is going to be applied
