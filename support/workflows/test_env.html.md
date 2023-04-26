@@ -288,6 +288,9 @@ For testing LDAP integrations with a self-managed GitLab instance, you may consi
 1. [Docker container](https://github.com/osixia/docker-openldap).
 1. [Jumpcloud](https://jumpcloud.com/) (Free for up to 10 users).
 
+### DNS for test instances 
+If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can use a subdomain of `$cloudProvider.gitlabsandbox.net`. Instructions for configuring this in GCP in this [issue](https://gitlab.com/gitlab-com/it/dev/hackystack/-/issues/19#add-dns-zone-to-cloud-account-gcp-project).
+
 ## Securing Cloud Testing Environments
 
 Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment. 
