@@ -76,6 +76,8 @@ Once per week, we hold a `Platforms leads call` to align on action items related
 
 We hold a monthly **Infrastructure Office Hours** for any questions and feedback you may have for the Platforms team. More details can be found on the [Infrastructure Home](../#infrastructureofficehours). 
 
+The Director of Product and Director of Infrastructure for Platforms conduct weekly progress reviews. During `Platforms Grand Review`, they review [progress across all groups](https://gitlab.com/groups/gitlab-com/-/epics/2115) with the goals of being informed of progress made, learning about existing blockers, and supporting the team. The review is private streamed to the GitLab Unfiltered channel because the review covers confidential issues. All recordings are made available in the [Platforms Grand Review Youtube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqDXSHdlUvPWHOj_Hw8JdQ1).
+
 ### Projects
 
 We endevour to keep issues and epics up to date with the latest status of our work. Every Wednesday, the DRI for a project is expected to update the status block in the epic description. This enables other engineers and other managers to have good information about projects in an asynchronous fashion. 
