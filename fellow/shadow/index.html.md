@@ -8,15 +8,15 @@ description: "GitLab engineers: work with an Engineering Fellow for a week"
 
 ## Introduction
 
-The Engineering Fellow Shadow Program (formerly known as Engineering Fellow Pairing) allows any GitLab engineer to work together with a GitLab Engineering Fellow. Its current iteration is modeled after the [CEO Shadow Program](/handbook/ceo/shadow/), with some exceptions to account for the differences in daily duties of the CEO and the Engineering Fellows. The program supports both remote and in-person rotations. Participants will spend a week working with the Engineering Fellows
+The Engineering Fellow Shadow Program (formerly known as Engineering Fellow Pairing) allows any GitLab engineer to work together with a Engineering Fellow. Its current iteration is modeled after the [CEO Shadow Program](/handbook/ceo/shadow/), with some exceptions to account for the differences in daily duties of these two roles. The program supports both remote and in-person rotations. Participants will spend a week working with the Engineering Fellows.
 
 ## Goal
 
-The goal of the program is to give GitLab engineers and eligible individuals an overview of and insights into the work of the Engineering Fellows while heping them with their daily work. Engineers will learn how Engineering Fellows think about and see the product and the organization, and how they operate across the company. It should be especially useful for senior technical leaders in Engineering, and allows the Engineering Fellows to build and strengthen relationships.
+The goal of the program is to give GitLab engineers and eligible individuals an overview of and insights into the work of the Engineering Fellows while heping them with their daily work. Engineers will learn how Engineering Fellows think about and see the product, the organization, and how they operate across the company. It should be especially useful for senior technical leaders in Engineering, and allows Engineering Fellows to build rapport with each other.
 
 ### What it is not
 
-The Engineering Fellow Shadow Program is not a performance evaluation or the next step to a promotion. Being an Engineering Fellow shadow is not needed to get a promotion or a raise, and should not be a consideration factor for a promotion or raise, as diverse applicants have different eligibilities.
+The Engineering Fellow Shadow Program is not a performance evaluation or the next step to a promotion. Being an Engineering Fellow shadow is not needed to get a promotion or a raise, and should not be a consideration factor for a promotion or raise, as applicants have different eligibilities.
 
 ## Participating in the program
 
@@ -27,7 +27,7 @@ The Engineering Fellow Shadow Program is not a performance evaluation or the nex
 * Don't plan to do any of your usual work. Tell your team you're on paid time off.
 * The company will pay for travel and hotel when the programs returns to in-person.
 * While the rotations are weekly, they do not occur every week.
-* Engineering Fellows reside in US Pacific Time and Central European Time zones. Ideally, select a rotation with a Fellow close to your time zone.
+* Engineering Fellows reside in U.S. Pacific Time and Central European Time zones. Ideally, select a rotation with a Fellow close to your time zone.
 
 ### Eligibility
 
@@ -36,7 +36,7 @@ The Engineering Fellow Shadow Program is not a performance evaluation or the nex
 ### How to apply
 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule).
-1. Ask your manager to approve (but not merge) the merge request.
+1. Ask your manager to approve (but not merge) your merge request.
 1. Assign the merge request to the Engineering Fellow of your choice.
 
 If you have questions, please join and post in the [#ef-shadow](https://gitlab.slack.com/archives/C0342KZSUER) channel on Slack.
