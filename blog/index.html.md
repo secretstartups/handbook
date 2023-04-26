@@ -266,6 +266,7 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `DevSecOps` - posts more generally about DevSecOps
 - `DevSecOps platform` - posts mentioning GitLab's DevSecOps Platform, or DevSecOps platforms more generically
 - `engineering` – technical, actionable content. Anything covering how to do something, use something, or solve a problem should fall under this category
+- `ai-ml` – posts that focus directly on AI/ML in the platform or in the industry as a whole
 - `open source` – stories from or about our community, users, or the wider open source community
 - `careers` – posts about careers, salaries, education, and more
 - `culture` – posts about remote work, working together, or GitLab culture
