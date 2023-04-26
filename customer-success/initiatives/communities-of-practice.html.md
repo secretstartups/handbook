@@ -44,7 +44,6 @@ Anyone can establish or participate in an existing Community of Practice. Below 
 | [Agile Architecture](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/agile-architecture-cop)   | [Darwin Sanoy](https://gitlab.com/darwinjs), [Brian Wald ](https://gitlab.com/brianwald) |
 | [AWS](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/aws-community-of-practice)                  | [Darwin Sanoy](https://gitlab.com/darwinjs) |
 | [Google Cloud](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/google-cloud-community-of-practice) | [Regnard Raquedan](https://gitlab.com/rraquedan) |
-| Infrastructure As Code              | [@sri19](https://gitlab.com/sri19), [@corina_patachia](https://gitlab.com/corina_patachia), [@kgoossens](https://gitlab.com/kgoossens), [@svij](https://gitlab.com/svij), [@simon_mansfield](https://gitlab.com/sri19), [@mkulakowski](https://gitlab.com/mkulakowski), [@gronk](https://gitlab.com/gronk), [@pierre_adrien](https://gitlab.com/pierre_adrien) |
 | [Modern Applications](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/modern-applications)                 | [@reshmikrishna](https://gitlab.com/reshmikrishna) |
 | [OpenShift](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/redhat-openshift-community-of-practice)                  | [Kurt Dusek (@kdusek)](https://gitlab.com/kdusek) |
 | [Trusted Advisor Skill Development](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/trusted-advisor-skill-development)   | Lead: [Bart Zhang (@bzhang7)](https://gitlab.com/bzhang7), Co-Leads: [Chester Nwachukwu (@cnwachukwu)](https://gitlab.com/cnwachukwu), [Darwin Sanoy (@DarwinJS)](https://gitlab.com/darwinjs) |
@@ -93,4 +92,11 @@ It's important to reflect on the group to measure if it's successful and healthy
 * Encourage team members to get involved at any point, not just when the CoP is established. It will be natural for members to join and leave over time.
 
 #### Archive when necessary.
-CoP's are community-driven, and for various reasons, they may decline in participation, so the content becomes stagnant or outdated. If you are a facilitator of the group, check with the team if anyone else wants to take ownership. If not, it's best to archive the group for historical purposes rather than let it linger out-of-date, which could send other team members down the wrong path. In the future, we will add a table on this page for "archived communities."	
+CoP's are community-driven, and for various reasons, they may decline in participation, so the content becomes stagnant or outdated. If you are a facilitator of the group, check with the team if anyone else wants to take ownership. If not, it's best to archive the group for historical purposes rather than let it linger out-of-date, which could send other team members down the wrong path.	
+
+##### Archived Communities of Practice
+
+| Subject                             | Facilitator (members list in project)                                                                                                                                           |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Infrastructure As Code](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/29#note_447571706)              | [@sri19](https://gitlab.com/sri19), [@corina_patachia](https://gitlab.com/corina_patachia), [@kgoossens](https://gitlab.com/kgoossens), [@svij](https://gitlab.com/svij), [@simon_mansfield](https://gitlab.com/sri19), [@mkulakowski](https://gitlab.com/mkulakowski), [@gronk](https://gitlab.com/gronk), [@pierre_adrien](https://gitlab.com/pierre_adrien) |
+
