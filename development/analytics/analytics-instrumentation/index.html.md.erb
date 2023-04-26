@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Product Intelligence Group
-description: "The Product Intelligence group work on feature enhancements and implementing privacy focused product analytics across GitLab projects"
+title: Analytics Instrumentation Group
+description: "The Analytics Instrumentation group work on feature enhancements and implementing privacy focused product analytics across GitLab projects"
 ---
 
 ## On this page
@@ -12,7 +12,7 @@ description: "The Product Intelligence group work on feature enhancements and im
 
 ## Vision
 
-The Product Intelligence Group is part of the [Analytics section](/handbook/product/categories/analytics/). Our group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Product Intelligence enable us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Product Intelligence Direction page](/direction/analytics/product-intelligence/).
+The Analytics Instrumentation Group is part of the [Analytics section](/handbook/product/categories/analytics/). Our group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Analytics Instrumentation enable us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Analytics Instrumentation Direction page](/direction/analytics/analytics-instrumentation/).
 
 How we work:
 - We work in accordance with our [GitLab values](/handbook/values/).
@@ -24,11 +24,11 @@ How we work:
 
 ## How to reach us
 
-If you have any questions start by @ mentioning the product manager for the [Product Intelligence Group](/handbook/product/categories/#product-intelligence-group) or by creating an issue in our [issue board](/handbook/engineering/development/analytics/product-intelligence/#issue-boards).
+If you have any questions start by @ mentioning the product manager for the [Analytics Instrumentation Group](/handbook/product/categories/#product-intelligence-group) or by creating an issue in our [issue board](/handbook/engineering/development/analytics/analytics-instrumentation/#issue-boards).
 
 ### Office hours
 
-Every week Product Intelligence team holds open office hours on Zoom for any questions that might arise. It's typically Thursdays for half an hour and alternates between 8:00 UTC and 15:00 UTC timeslots. You can find the event in the [GitLab Team Meetings calendar](/handbook/tools-and-tips/#gitlab-team-meetings-calendar).
+Every week Analytics Instrumentation team holds open office hours on Zoom for any questions that might arise. It's typically Thursdays for half an hour and alternates between 8:00 UTC and 15:00 UTC timeslots. You can find the event in the [GitLab Team Meetings calendar](/handbook/tools-and-tips/#gitlab-team-meetings-calendar).
 
 ## Responsibilities
 
@@ -49,15 +49,15 @@ We're responsible to deliver a reliable Service Ping that runs every week on Saa
 5. [Snowplow URL Pseudonymizer](https://gitlab.com/gitlab-org/analytics-section/product-intelligence/snowplow-url-pseudonymizer)
 6. [Version App](https://gitlab.com/gitlab-org/gitlab-services/version.gitlab.com)
 
-### Overview how to use Product Intelligence tooling
+### Overview how to use Analytics Instrumentation tooling
 
-For an overview about the capabilities of the analytic tooling the team develops, you can watch the video [Product Intelligence 101](https://www.youtube.com/watch?v=awWhNtwuVNs), or look through [the slides (internal)](https://docs.google.com/presentation/d/1omQ2-9i5l2LKHs_9WP_U1evVQmY6adzYyvZaVjbhdEk/edit#slide=id.p1)
+For an overview about the capabilities of the analytic tooling the team develops, you can watch the video [Analytics Instrumentation 101](https://www.youtube.com/watch?v=awWhNtwuVNs), or look through [the slides (internal)](https://docs.google.com/presentation/d/1omQ2-9i5l2LKHs_9WP_U1evVQmY6adzYyvZaVjbhdEk/edit#slide=id.p1)
 
 ## Team members
 
-The following people are permanent members of the Product Intelligence Group:
+The following people are permanent members of the Analytics Instrumentation Group:
 
-<%= stable_counterparts(role_regexp: /Analyze.+Product.Intelligence/) %>
+<%= stable_counterparts(role_regexp: /Analyze.+Analytics.Instrumentation/) %>
 
 ## Project management process
 
@@ -90,8 +90,8 @@ Our team use the following workflow stages defined in the [Product Development F
 | -- | -- |
 | `~"workflow::validation backlog"` | Applied by the Product Manager for incoming issues that have not been refined or prioritized. |
 | `~"workflow::problem validation"` | Applied by the Product Manager for issues where the PM is developing a thorough understanding of the problem |
-| `~"workflow::design"` | Applied by the Product Manager or Designer (or Product Intelligence Engineer) to ideate and propose solutions. The proposed solutions should be reviewed by engineering to ensure technical feasibility. |
-| `~"workflow::solution validation"` | Applied by the Product Manager or Designer (or Product Intelligence Engineer) to validate a proposed solution through user interviews or usability testing. |
+| `~"workflow::design"` | Applied by the Product Manager or Designer (or Analytics Instrumentation Engineer) to ideate and propose solutions. The proposed solutions should be reviewed by engineering to ensure technical feasibility. |
+| `~"workflow::solution validation"` | Applied by the Product Manager or Designer (or Analytics Instrumentation Engineer) to validate a proposed solution through user interviews or usability testing. |
 
 #### Build stage
 
@@ -108,20 +108,20 @@ Our team use the following workflow stages defined in the [Product Development F
 
 ### Epic roadmap
 
-We use an epic roadmap to track epic progress on a quarterly basis. The epic roadmap is a live view of the [Product Intelligence Direction page](/direction/analytics/product-intelligence/).
+We use an epic roadmap to track epic progress on a quarterly basis. The epic roadmap is a live view of the [Analytics Instrumentation Direction page](/direction/analytics/analytics-instrumentation/).
 
 To keep things simple, we primarily use the [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group for our roadmap. If epics are created on the [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) and [gitlab.com/gitlab-services](https://gitlab.com/gitlab-services/) groups, we create placeholders of them on [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) so that all epics show up in a single roadmap view.
 
 | gitlab-org | gitlab-com | gitlab-services | all groups |
 | ------ | ------ | ------ | ------ |
-| [gitlab-org Epic Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=start_date_asc&label_name%5B%5D=group%3A%3Aproduct+intelligence) | [-](https://gitlab.com/groups/gitlab-com/-/roadmap?state=opened&sort=start_date_asc&label_name%5B%5D=group%3A%3Aproduct+intelligence) | [-](https://gitlab.com/groups/gitlab-services/-/roadmap?state=opened&sort=start_date_asc&label_name%5B%5D=group%3A%3Aproduct+intelligence) | |
+| [gitlab-org Epic Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=start_date_asc&label_name%5B%5D=group%3A%3Aanalytics+instrumentation) | [-](https://gitlab.com/groups/gitlab-com/-/roadmap?state=opened&sort=start_date_asc&label_name%5B%5D=group%3A%analytics+instrumentation) | [-](https://gitlab.com/groups/gitlab-services/-/roadmap?state=opened&sort=start_date_asc&label_name%5B%5D=group%3A%3Aanalytics+instrumentation) | |
 
 ### Issue boards
 
 We use issue boards to track issue progress on a daily basis. Issue boards are our single source of truth for the status of our work. Issue boards should be viewed at the highest group level for visibility into all nested projects in a group.
 
-* [**Product Intelligence Issue Board _-by milestone_**](https://gitlab.com/groups/gitlab-org/-/boards/2774881?scope=all&not[label_name][]=product%20work&not[label_name][]=Technical%20Writing&not[label_name][]=UX)
-* [**Product Intelligence Issue Board - Current Milestone**](https://gitlab.com/groups/gitlab-org/-/boards/5071664?milestone_title=Started)
+* [**Analytics Instrumentation Issue Board _-by milestone_**](https://gitlab.com/groups/gitlab-org/-/boards/2774881?scope=all&not[label_name][]=product%20work&not[label_name][]=Technical%20Writing&not[label_name][]=UX)
+* [**Analytics Instrumentation Issue Board - Current Milestone**](https://gitlab.com/groups/gitlab-org/-/boards/5071664?milestone_title=Started)
 
 
 ### Prioritization
@@ -171,8 +171,8 @@ If an issue has many unknowns where it's unclear if it's a 1 or a 5, we will be 
 
 If an initial estimate needs to be adjusted, we revise the estimate immediately and inform the Product Manager. The Product Manager and team will decide if a milestone commitment needs to be changed.
 
-* [Unweighed, upcoming issues in gitlab-org](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=group::product+intelligence&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
-* [Unweighed, upcoming issues in gitlab-services](https://gitlab.com/groups/gitlab-services/-/issues?sort=created_date&state=opened&label_name[]=group::product+intelligence&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
+* [Unweighed, upcoming issues in gitlab-org](https://gitlab.com/groups/gitlab-org/-/issues?sort=created_date&state=opened&label_name[]=group::analytics+instrumentation&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
+* [Unweighed, upcoming issues in gitlab-services](https://gitlab.com/groups/gitlab-services/-/issues?sort=created_date&state=opened&label_name[]=group::analytics+instrumentation&weight=None&milestone_title=Upcoming&not[label_name][]=product+work)
 
 Issues estimation examples
 
@@ -246,7 +246,7 @@ We may also use due dates as a way to timebox our iterations. Instead of spendin
 
 Our team mostly follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/).
 
-The specific application of this timeline to the Product Intelligence Milestone planning process is summarized below. 
+The specific application of this timeline to the Analytics Instrumentation Milestone planning process is summarized below. 
 
 #### Overview
 
@@ -288,7 +288,7 @@ The specific application of this timeline to the Product Intelligence Milestone 
 1. Engineers: Work on the issues in the milestone based on the outlined priority:
     1. Engineers assign themselves to issues based on interest/experience.
     1. If no more issues are available in the milestone, they first check if they can take over or help with problems in the milestone assigned to another engineer. Otherwise, they inform the EM, who pulls in issues from the next milestone.
-1. PM/EM: Present the plan for the milestone in the first Product Intelligence sync of the new milestone focusing on the overall objective and themes.
+1. PM/EM: Present the plan for the milestone in the first Analytics Instrumentation sync of the new milestone focusing on the overall objective and themes.
 
 #### Milestone Capacity
 
@@ -313,11 +313,11 @@ A milestone commitment is a list of issues our team aims to complete in the mile
 
 #### Work Type Classification
 
-Per the [Next Prioritization](https://about.gitlab.com/company/team/structure/working-groups/cross-functional-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](https://about.gitlab.com/handbook/engineering/development/analytics/product-intelligence/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](https://about.gitlab.com/company/team/structure/working-groups/cross-functional-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
+Per the [Next Prioritization](https://about.gitlab.com/company/team/structure/working-groups/cross-functional-prioritization/) initiative, we will review our team's performance in applying appropriate [type labels](https://docs.gitlab.com/ee/development/labels/index.html#type-labels) to MRs. At the close of the milestone, on the Planning Issue, the EM or PM will post a link to [this dashboard](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/#merged-merge-request-types) along with a summary of shipped work by type label (include null) to ensure we are observing the [recommended work split](https://about.gitlab.com/company/team/structure/working-groups/cross-functional-prioritization/#exit-criteria) of 60% feature, 30% maintenance, 10% bugs, and <=5% undefined.
 
 ##### Clarifying Maintenance vs. Feature Work
 
-In Product Intelligence, determining if work is applicable to ~type::maintenance or ~type::feature is not readily apparent. As a guide, we denote work which benefits the Product Intelligence team and technical processes as ~type::maintenance whereas work which benefits GitLab customers or team members is considered ~type::feature.
+In Analytics Instrumentation, determining if work is applicable to ~type::maintenance or ~type::feature is not readily apparent. As a guide, we denote work which benefits the Analytics Instrumentation team and technical processes as ~type::maintenance whereas work which benefits GitLab customers or team members is considered ~type::feature.
 
 ## Epics and issues
 
@@ -347,7 +347,7 @@ We use issue labels to keep us organized. Every issue has a set of required labe
 
 **Required labels**
 - Section `~devops::analytics`
-- Group `~group::product intelligence`
+- Group `~group::analytics instrumentation`
 - [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::in dev`, etc.
 - [Type:](/handbook/engineering/metrics/#work-type-classification) `~"type::bug"`, `~"type::feature"`, `~"type::tooling"`, `~"type::maintenance"`
 
@@ -357,7 +357,7 @@ MR labels should mirror issue labels (which is automatically done when created f
 
 **Required labels**
 - Section: `~section::analytics`
-- Group: `~group::product intelligence`
+- Group: `~group::analytics instrumentation`
 - [Type:](/handbook/engineering/metrics/#work-type-classification) `~"type::bug"`, `~"type::feature"`, `~"type::tooling"`, `~"type::maintenance"`
 
 ### Milestones
@@ -380,17 +380,17 @@ Our group holds synchronous meetings to gain additional clarity and alignment on
 
 ### Our meetings
 
-* **Product Intelligence Sync:** an optional weekly meeting for the Product Intelligence team to discuss any topics they please.
-* **Product Intelligence Team Social:** an optional bi-weekly call for our team to hang out and socialize.
+* **Analytics Instrumentation Sync:** an optional weekly meeting for the Analytics Instrumentation team to discuss any topics they please.
+* **Analytics Instrumentation Team Social:** an optional bi-weekly call for our team to hang out and socialize.
 
 ### Knowledge sharing
 
-We like to share knowledge and learn! If your group would like someone from the Product Intelligence group to attend a sync call and provide a brief overview of our responsibilities and scope, please open an issue and apply the `~group::product intelligence` label ([example issue](https://gitlab.com/gitlab-org/product-intelligence/-/issues/547)). 
-In the same spirit, we want to learn more about the different teams at GitLab. If you'd like to participate in sharing information with our team, please comment in our slack channel [#g_product_intelligence](https://gitlab.slack.com/archives/CL3A7GFPF).
+We like to share knowledge and learn! If your group would like someone from the Analytics Instrumentation group to attend a sync call and provide a brief overview of our responsibilities and scope, please open an issue and apply the `~group::analytics instrumentation` label ([example issue](https://gitlab.com/gitlab-org/product-intelligence/-/issues/547)). 
+In the same spirit, we want to learn more about the different teams at GitLab. If you'd like to participate in sharing information with our team, please comment in our slack channel [#g_analytics_instrumentation](https://gitlab.slack.com/archives/CL3A7GFPF).
 
 #### Proposing a knowledge session
 
-If you would like to propose a new knowledge session for a topic you want to learn more about, open an issue in [Product Intelligence](https://gitlab.com/gitlab-org/product-intelligence) and provide the details. [Issue 603](https://gitlab.com/gitlab-org/product-intelligence/-/issues/603) gives you a good example of how this is done.
+If you would like to propose a new knowledge session for a topic you want to learn more about, open an issue in [Analytics Instrumentation](https://gitlab.com/gitlab-org/product-intelligence) and provide the details. [Issue 603](https://gitlab.com/gitlab-org/product-intelligence/-/issues/603) gives you a good example of how this is done.
 
 #### Knowledge sharing sessions
 
@@ -401,13 +401,13 @@ If you would like to propose a new knowledge session for a topic you want to lea
 
 ## Development metrics
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Product Intelligence" } %>
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Analytics Instrumentation" } %>
 
 ## Error budget
 
 We maintain [UsageData API endpoints](https://docs.gitlab.com/ee/development/service_ping/implement.html#usagedata-api) under the `service_ping` feature to track events, and because of this we must monitor our [budget spend](https://about.gitlab.com/handbook/engineering/error-budgets/).
 
-To investigate budget spend, see the [overview](https://dashboards.gitlab.net/d/stage-groups-product_intelligence/stage-groups-product-intelligence-group-dashboard?orgId=1) and [details](https://dashboards.gitlab.net/d/stage-groups-detail-product_intelligence/stage-groups-product-intelligence-group-error-budget-detail?orgId=1) Grafana dashboards for Product Intelligence. You can also check requests contributing to spending the budget in Kibana by filtering by the `service_ping` feature. An example Kibana view can be found [here](https://log.gprd.gitlab.net/goto/8e82ff10-ecb8-11ec-8656-f5f2137823ba).
+To investigate budget spend, see the [overview](https://dashboards.gitlab.net/d/stage-groups-product_intelligence/stage-groups-product-intelligence-group-dashboard?orgId=1) and [details](https://dashboards.gitlab.net/d/stage-groups-detail-product_intelligence/stage-groups-product-intelligence-group-error-budget-detail?orgId=1) Grafana dashboards for Analytics Instrumentation. You can also check requests contributing to spending the budget in Kibana by filtering by the `service_ping` feature. An example Kibana view can be found [here](https://log.gprd.gitlab.net/goto/8e82ff10-ecb8-11ec-8656-f5f2137823ba).
 
 Note that the budget spend is calculated proportionally by requests failing apdex or failing with an error, and not by how much the target is exceeded. For example, if we had an endpoint with a set goal of 1s request duration, then bringing the request duration from 10s to 5s would not improve the budget.
 
@@ -415,24 +415,23 @@ Note that the budget spend is calculated proportionally by requests failing apde
 
 An OOO coverage process helps reduce the mental load of "remembering all the things" while preparing for being away from work. This process allows us to organize the tasks we need to complete before time off and make the team successful.
 
-Open a new issue in the [Product Intelligence project](https://gitlab.com/gitlab-org/product-intelligence/-/issues/new?issuable_template=out_of_office_coverage_template) with the [`out_of_office_coverage_template`](https://gitlab.com/gitlab-org/product-intelligence/-/blob/master/.gitlab/issue_templates/out_of_office_coverage_template.md).
+Open a new issue in the [Analytics Instrumentation project](https://gitlab.com/gitlab-org/product-intelligence/-/issues/new?issuable_template=out_of_office_coverage_template) with the [`out_of_office_coverage_template`](https://gitlab.com/gitlab-org/product-intelligence/-/blob/master/.gitlab/issue_templates/out_of_office_coverage_template.md).
 
 ## Onboarding
 
-All new team members to the Product Intelligence teams are provided an onboarding issue to help ramp up on our analytics tooling. New team member members should create their own onboarding issue in the [gitlab-org/product-intelligence project](https://gitlab.com/gitlab-org/product-intelligence/-/issues) using the `engineer_onboarding` template.
+All new team members to the Analytics Instrumentation teams are provided an onboarding issue to help ramp up on our analytics tooling. New team member members should create their own onboarding issue in the [gitlab-org/product-intelligence project](https://gitlab.com/gitlab-org/product-intelligence/-/issues) using the `engineer_onboarding` template.
 
 
 ## Quick Links
 
 | Resource                                                                                                                          | Description                                               |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Product Intelligence Guide](/handbook/product/product-intelligence-guide)    | A guide to Product Intelligence   |
-| [Getting started with Product Intelligence](https://about.gitlab.com/handbook/product/product-intelligence-guide/getting-started/)
+| [Analytics Instrumentation Guide](/handbook/product/product-intelligence-guide)    | A guide to Analytics Instrumentation   |
+| [Getting started with Analytics Instrumentation](https://about.gitlab.com/handbook/product/product-intelligence-guide/getting-started/)
 | [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/)     | An implementation guide for Service Ping      |
 | [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/index.html)     | An implementation guide for Snowplow    |
 | [Metric Dictionary](https://metrics.gitlab.com/)      | A SSoT for all collected metrics and events    |
 | [Privacy Policy](/privacy/)        | Our privacy policy outlining what data we collect and how we handle it     |
-| [Product Intelligence Direction](/direction/analytics/product-intelligence/)  | The roadmap for Product Intelligence at GitLab  |
-| [Product Intelligence Development Process](/handbook/engineering/development/analytics/product-intelligence/) | The development process for the Product Intelligence group|                                                             |
+| [Analytics Instrumentation Direction](/direction/analytics/analytics-instrumentation/)  | The roadmap for Analytics Instrumentation at GitLab  |
 | [GitLab Performance Snowplow Dashboards ](./gitlab_com_performance_dashboard.html) | Performance dashbaords for GitLab.com via Snowplow  |
 | [FAQ](/handbook/product/product-intelligence-guide/faq) | A list of questions and answers related with Service Ping and Snowplow |
