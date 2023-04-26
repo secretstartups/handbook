@@ -425,7 +425,7 @@ Agreements, as GitLab does with its own customers, include obligations that vend
 * [Vendor Terms and Conditions](https://about.gitlab.com/handbook/finance/procurement/vendor-guidelines/)
 * [Non-Disclosure Agreement (NDA)](https://about.gitlab.com/handbook/legal/NDA/#)
 * [Charitable Contributions](https://about.gitlab.com/handbook/finance/procurement/charitable-contributions/)
-* [Demo/Trial Agreements](https://about.gitlab.com/handbook/finance/procurement/trial-agreement/)
+* [Non-Cost Related Agreements (Including Trials/Demos)](https://about.gitlab.com/handbook/finance/procurement/trial-agreement/)
 
 
 
