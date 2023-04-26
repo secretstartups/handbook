@@ -123,4 +123,11 @@ People Leaders with direct reports who are in a current Elevate cohort could be 
 1. Help team members manage their current workload and cohort timing.
 
 
+## Delivering Elevate
+
+This section includes key resources for the Learning and Development team who delivers Elevate.
+
+1. [Use the #new-elevate-cohort issue template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master/.gitlab/issue_templates) whenever you start a new round of Elevate
+
+
 
