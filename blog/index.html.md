@@ -20,7 +20,9 @@ Blogs fall into the following categories:
 - Guest blog to highlight partnerships/alliances - Example: [How GitLab's integration with Rezilion reduces vulnerability backlog and identifies exploitable risks](https://about.gitlab.com/blog/2022/03/23/gitlab-rezilion-integration-reduces-vulnerability-backlog-identifies-exploitable-risks-to-fix/)
 
 ## We're looking for technical content!
-Engineering-driven content performs very well on our blog, so if you have an idea, please ping @sgittlen on Slack. We're eager to showcase all the technical how-to and deep-dive content we can.
+Engineering-driven content performs very well on our blog, so if you have an idea, please ping @sgittlen on Slack or use the [Blog Post Creator](https://demos.gitlab.io/applications/blog-post-creator/#/) to get started. Please reach out to @smanicor and @ning, the creators of the Blog Post Creater, with any feedback. We're eager to showcase all the technical how-to and deep-dive content we can.
+
+[![Blog Post Creator](/images/blogimages/blog-post-creator.png){: .shadow}](https://demos.gitlab.io/applications/blog-post-creator/#/)
 
 ## Turnaround time from idea to publication
 Our "SLA": The blog team will review all ideas - labeled in the template with `Blog::Pitch` within two business days and get back to you with suggestions/go-forward approval. Some blog posts must be reviewed by legal, in accordance with our [Materials Legal Review Process/SAFE program](https://about.gitlab.com/handbook/legal/materials-legal-review-process/). Authors are responsible for reviewing SAFE guidelines and getting Legal approval. This process can take time, just to set expectations.
