@@ -162,7 +162,7 @@ Because Snowplow doesn't rely on Service Ping and is mainly for GitLab SaaS, dat
 
 As mentioned, even though the anonymization of snowplow events is a major limitation, with the fast feedback, it is an effective source of data to measure feature adoption and usage.
 
-We recommend Product Managers and their teams use [Snowplow custom structured events](https://github.com/snowplow/snowplow/wiki/canonical-event-model#customstruct), which are Snowplow's canonical events. We have built [`Tracking`](https://docs.gitlab.com/ee/development/telemetry/index.html) and [`GitLab::Tracking`](https://docs.gitlab.com/ee/development/telemetry/index.html), 2 wrappers for Snowplow JavaScript and Ruby Trackers respectively.
+We recommend Product Managers and their teams use [Snowplow custom structured events](https://github.com/snowplow/snowplow/wiki/canonical-event-model#customstruct), which are Snowplow's canonical events. We have built [`Tracking`](https://docs.gitlab.com/ee/development/snowplow/implementation.html#snowplow-javascript-frontend-tracking) and [`GitLab::Tracking`](https://docs.gitlab.com/ee/development/snowplow/implementation.html#implement-ruby-backend-tracking), 2 wrappers for Snowplow JavaScript and Ruby Trackers respectively.
 
 - JavaScript trackers can be used to collect users' frontend action, especially clicks.
 - Ruby trackers can be used to collect any event happening in the backend. For example, we currently use them for monitor:APM. More information in this [issue](https://gitlab.com/gitlab-org/gitlab/issues/121724)
