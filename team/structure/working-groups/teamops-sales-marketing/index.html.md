@@ -33,9 +33,12 @@ Please see the [overview issue](https://gitlab.com/gitlab-com/ceo-chief-of-staff
 
 ### Exit Criteria
 
-1. An approved 3-year growth plan for TeamOps Sales and Marketing.
-1. Assigned counterparts for continued collaboration and implementation.
-1. Identified training and enablement needs.
+1. Prioritize target audiences for TeamOps sales, based on existing product sales and marketing goals
+1. Confirm start-to-finish viability of TeamOps B2C sales funnel
+1. Confirm lean marketing strategies for TeamOps in FY24
+1. Create 1-year partnership plan
+1. Brainstorm sales funnel for TeamOps B2B partnerships
+1. Define Q2 scope for work for consultant
 
 ## Roles and Responsibilities
 

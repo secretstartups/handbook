@@ -222,7 +222,6 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Runtime Update Process](/company/team/structure/working-groups/runtime-update-process)
 1. [Software Supply Chain Security](/company/team/structure/working-groups/software-supply-chain-security/)
 1. [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
-1. [TeamOps Sales and Marketing Group](/company/team/structure/working-groups/teamops-sales-marketing/)
 1. [Token Management](/company/team/structure/working-groups/token-management/)
 1. [Vue.js 3 Upgrade](/company/team/structure/working-groups/vuejs-3-migration/)
 
@@ -279,6 +278,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Simplify Groups & Projects](/company/team/structure/working-groups/simplify-groups-and-projects/)
 1. [Single Codebase](/company/team/structure/working-groups/single-codebase/)
 1. [SOX PMO](/company/team/structure/working-groups/sox/)
+1. [TeamOps Sales and Marketing Group](/company/team/structure/working-groups/teamops-sales-marketing/)
 1. [Tiering](/company/team/structure/working-groups/tiering/)
 1. [Transient Bugs](/company/team/structure/working-groups/transient-bugs/)
 1. [Upstream Diversity](/company/team/structure/working-groups/upstream-diversity/)
