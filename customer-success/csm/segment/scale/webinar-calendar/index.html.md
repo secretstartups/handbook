@@ -16,32 +16,9 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 
 # Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars in the month of April.
+We’d like to invite you to our free upcoming webinars in the month of May.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
-
-## April 2023
-
-### AMER Time Zone Webinars
-
-#### DevSecOps/Compliance
-##### April 25th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN__ixfz3-5TH-JrA_XNE3ICQ)
-
-
-### EMEA Time Zone Webinars
-
-#### DevSecOps/Compliance
-##### April 25th, 2023 at 10:00-11:00AM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN__kkgr85eSXiw523C2NSczg)
-
-Check back later for more webinars! 
 
 ## May 2023
 
@@ -111,3 +88,5 @@ Expand your CI/CD knowledge while we cover advanced topics that will accelerate 
 GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_u9D0xlxPT5KB1uewZsxiDA#)
+
+Check back later for more webinars! 
