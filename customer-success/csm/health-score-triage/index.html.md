@@ -57,6 +57,7 @@ There might be well understood reasons within the account team why a customer is
 Specific, known risks to account retention or upcoming opportunity, or overwhelming lack of information, such as unresponsiveness leading up to renewal. Customer's experience: engagement, adoption and/or experiences are significantly lower than expected where issues are blocking GitLab's ability to deliver expected value, outcomes, or positive experiences as defined by the customer.
 Examples:
 
+- Potential risk of contraction or churn (even if this is unconfirmed)
 - Lack of alignment with stakeholders who can drive outcomes... 
    - [Economic Buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer) 
    - [Champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
