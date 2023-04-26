@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Business Technology
-description: Business Technology
+title: IT Business Technology
+description: IT Business Technology
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
@@ -12,89 +12,81 @@ description: Business Technology
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## <i id="biz-tech-icons" class="far fa-paper-plane"></i>How to reach out to us?
+## <i id="biz-tech-icons" class="fas fa-map-marked-alt fa-fw"></i> Quick Links
+
+- [IT Meetings](/handbook/business-technology/pmo/#it-governance)
+- [Release Calendar](/handbook/business-technology/pmo/#release-management)
+- [Weekly Roll Up Reporting](/handbook/business-technology/pmo/#weekly-roll-up-reporting)
+
+## <i id="biz-tech-icons" class="fas fa-users"></i> The team
 
 <div class="flex-row" markdown="0">
   <div>
-    <h5>End User Services</h5>
-    <a href="/handbook/business-technology/end-user-services/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-    <a href="https://gitlab.com/gitlab-com/it/end-user-services/issues/it-help-issue-tracker/-/issues/new?issuable_template=General_HelpDesk_Request" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
-  </div>
-  <div>
-    <h5>Enterprise Applications</h5>
-    <a href="/handbook/business-technology/enterprise-applications/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-    <a href="https://gitlab.com/gitlab-com/business-technology/Business-Technology/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
+    <h3>IT PMO</h3>
+    <a href="/handbook/business-technology/pmo/" class="btn btn-purple" style="width:200px;margin:5px;">IT PMO</a>
+    <a href="/handbook/business-technology/it-compliance/" class="btn btn-purple" style="width:200px;margin:5px;">IT Security and Compliance</a>
   </div>
 </div>
 
 <div class="flex-row" markdown="0">
   <div>
-    <h5>Procurement</h5>
-    <a href="/handbook/finance/procurement/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-    <a href="/handbook/finance/procurement/#-contacting-procurement" class="btn btn-purple" style="width:170px;margin:5px;">Contact the team</a>
-  </div>
-  <div>
-    <h5>Data Team</h5>
-    <a href="/handbook/business-technology/data-team/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-    <a href="/handbook/business-technology/data-team/#contact-us" class="btn btn-purple" style="width:170px;margin:5px;">Contact the team</a>
+    <h3>IT Operations </h3>
+    <a href="/handbook/business-technology/end-user-services/" class="btn btn-purple" style="width:200px;margin:5px;">End User Services</a>
+    <a href="/handbook/business-technology/engineering/" class="btn btn-purple" style="width:200px;margin:5px;">Engineering and Infrastructure</a>
+    <a href="/handbook/business-technology/it/security/" class="btn btn-purple" style="width:200px;margin:5px;">IT Security</a>
   </div>
 </div>
 
 <div class="flex-row" markdown="0">
   <div>
-    <h5>IT Security and Compliance</h5>
-    <a href="/handbook/business-technology/it-compliance/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-    <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-compliance-issue-tracker/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue Tracker</a>
-  </div>
-  <div>
-    <h5>Engineering and Infrastructure</h5>
-    <a href="/handbook/business-technology/engineering/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
-    <a href="/handbook/business-technology/engineering/#how-to-engage-us" class="btn btn-purple" style="width:170px;margin:5px;">Contact the team</a>
+    <h3>Enterprise Applications</h3>
+    <a href="/handbook/business-technology/enterprise-applications/" class="btn btn-purple" style="width:200px;margin:5px;">Enterprise Applications</a>
+    <a href="/handbook/business-technology/enterprise-applications/integrations/" class="btn btn-purple" style="width:200px;margin:5px;">Architecture & Integrations</a>
+    <a href="/sales/field-operations/sales-systems/" class="btn btn-purple" style="width:200px;margin:5px;">Sales Systems</a>
   </div>
 </div>
 
-## <i id="biz-tech-icons" class="fas fa-users"></i>The team
+## <i id="biz-tech-icons" class="far fa-paper-plane"></i> How to reach out to us?
 
-### Reaching the Teams
-
-- [How to work with Business Technology](/handbook/business-technology/how-we-work/)
 - Groups in GitLab
     - `@gitlab-com/business-technology`
     - `@gitlab-com/business-technology/enterprise-apps`
     - `@gitlab-com/business-technology/end-user-services`
-    - `@gitlab-com/Finance-Division/procurement-team`
 - Channels in Slack
     - [`#business-technology`](https://gitlab.slack.com/archives/C01BLS12V37)
-    - [`#bt-team-lounge`](https://gitlab.slack.com/archives/CK4EQH50E)
-    - [`#data`](https://gitlab.slack.com/archives/C8D1LGC23)
     - [`#enterprise_apps`](https://gitlab.slack.com/archives/CCPG8P3K4)
     - [`#it_help`](https://gitlab.slack.com/archives/CK4EQH50E)
-    - [`#procurement`](https://gitlab.slack.com/archives/CPTMP6ZCK)
 
-## Role of Business Technology
+## Role of IT Business Technology
 
-Our department focuses on managing the framework of how GitLab procures, implements, integrates, secures, exports analytics, and supports our [tech stack applications](/handbook/business-technology/tech-stack-applications) while providing strategic enablement and integration support for all departments and team members that allows us to scale efficiently, [SAFE](/handbook/legal/safe-framework/)ly, and securely.
+Our department focuses on managing the framework of how GitLab procures, implements, integrates, secures, exports analytics, and supports our [tech stack applications](/handbook/business-technology/tech-stack-applications) while providing strategic enablement and integration support for all departments and team members that allows us to scale efficiently, [SAFE](/handbook/legal/safe-framework/)ly, and securely. 
 
 ### Direction
 
-As we move from Foundation to Scale as a Business Technology organization, we will continue to take a fresh look at how we assess our application landscape and apply our heat map methodology.
+As we move from Foundation to Scale as an IT organization, we will continue to take a fresh look at how we assess our application landscape and apply our heat map methodology.
 
-The broader Finance and Business Technology team is focused on the priciples of Break Down Silos, Be the Solution, Architect and Iterate, and Lead with Data. The Business Technology team also lives by the following philosophy. 
+The broader Finance and Business Technology team is focused on the priciples of Break Down Silos, Be the Solution, Architect and Iterate, and Lead with Data. The IT team also lives by the following philosophy. 
 
-1. Build for scale with Enterprise grade systems.
-1. Focus on end customer and team member experience.
-1. Buy SaaS solutions wherever possible to increase time to value.  
-1. Be customer 0 for GitLab. 
-1. Contribute to the GitLab Product.
-1. Lead with data: measure impact and metrics in all we do
+![it](/handbook/business-technology/it-vision.png)
 
+### IT Strategy for FY24
 
-- [FY23 OKRs Business Technology](https://gitlab.com/gitlab-com/business-technology/okrs/-/blob/master/README.md)
-- FY23 Planning - Information available to internal GitLab team members only
-    - [FY23 Planning Slides](https://docs.google.com/presentation/d/1sxkIq9GqXVT8OuXmYRFoIrNNRf0-2FXf15O7l22gOo4/edit#slide=id.g72bedaf9ac_0_0)
-    - [FY23 Planning Video](https://www.youtube.com/watch?v=w94bz0bWz3g)
+#### Team
+- Upskill, Identify Gaps, Hire Key Roles 
+- Expansion through low cost geo model
+- Centralize IT - starting with sales and finance applications
 
-### Cross-Department System Owners
+#### Process
+- FY24 SOX program
+- IT Governance & Compliance
+- IT Portfolio Management
+
+#### Technology
+
+- Project Execution & Delivery to align with company top 5
+- Application Health Check & Enterprise Architecture
+
+## Cross-Department System Owners
 
 As GitLab has grown organically, several departments and functional groups have their own System Administrators ("System Owners") to handle day-to-day management of the tech stack applications that are specific to that department or functional group, within the framework of organization-wide compliance, infrastructure, and security best practices.
 
@@ -102,7 +94,7 @@ To support this "shadow IT" model, [each tech stack application](/handbook/busin
 
 As a SaaS company, our Engineering division also has an [infrastructure SRE team](/handbook/engineering/infrastructure/) and [security team](/handbook/security/) that supports the GitLab product development and hosting of our GitLab.com SaaS service. Many of the technologies that we use overlap, so the Business Technology department focuses on the technologies that are used for running the business that usually are not directly related to product development or the hosting of our GitLab.com SaaS service.
 
-#### System Owner Directory
+### System Owner Directory
 
 * [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/)
 * [Customer Support Operations](/handbook/support/support-ops/)
@@ -117,43 +109,29 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 
 > Please create an MR if we missed a system owner team.
 
-### Purchasing and Renewal Process
-
-As department leaders and system owners identify technologies that GitLab should adopt, our [Procurement](/handbook/finance/procurement/) team handles the strategic negotiation and purchasing of the licensing using a strategic sourcing approach that focuses on longer-term relationships with suppliers to drive value, quality, and industry collaboration to enhance competitive advantage.
-
-We have as part of our IT governance process a set of IT reviews for purchasing new software services for the company.
-
-If you're looking to buy technology for yourself, please see the handbook pages for [expenses](/handbook/finance/expenses/), [home office equipment](/handbook/finance/procurement/office-equipment-supplies/) or [buying software](/handbook/finance/procurement/personal-use-software/).
-
-### Business Process Alignment and Enterprise Software Integrations
+## Business Process Alignment and Enterprise Software Integrations
 
 As new tech stack applications are introduced and/or integrated, our [Enterprise Applications](/handbook/business-technology/enterprise-applications/) team helps to align and enable technologies with [end-to-end business processes](/handbook/business-technology/enterprise-applications/bsa/) and [custom integrations](/handbook/business-technology/enterprise-applications/integrations/) where needed for critical systems, particularly quote-to-cash finance and sales systems.
 
-### Data Analytics
-
-Each of our tech stack applications have a variety of useful data that can be accessed through the API and other data sources. The [data team](/handbook/business-technology/data-team/) focuses on aggregating the data from many of our tech stack applications to provide powerful reporting to help team members and leaders make informed data-driven decisions faster with the richest dataset possible.
-
-We encourage you to check out [SiSense](https://app.periscopedata.com/app/gitlab) to get started with the dashboards that we have available.
-
-### Security and Compliance
+## Security and Compliance
 
 The [IT Security and Compliance](/handbook/business-technology/it-compliance/) team focuses on reducing the threat landscape and improving our security posture across our tech stack applications while ensuring privacy, data protection, and compliance framework requirements are met. We collaborate closely with the [Engineering Security](/handbook/security/#departmental-structure) department that focuses on the broader scope of the GitLab product and our GitLab.com SaaS offering.
 
 The best practices and policies for team members can be found on the [security practices](/handbook/security/) handbook page.
 
-### Organization Wide Technologies
+## Organization Wide Technologies
 
 The [IT Support](/handbook/business-technology/end-user-services/) team (aka Helpdesk or End User Services) focuses on providing helpdesk support for all of our team members globally with the technologies that are used across the entire organization. These include our collaboration tools (GitLab.com, Google Workspace, Slack, Zoom, etc.), security and compliance tools (1Password, Okta, Jamf, SentinelOne, etc.), laptops and hardware (MacBook Pros, Linux machines, etc.), and most software applications that run on MacOS.
 
 You can ask for assistance in the `#it_help` Slack channel.
 
-### Access Management
+## Access Management
 
 The [IT Support](/handbook/business-technology/end-user-services/) team handles [access requests](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) for the tech stack applications that IT manages. All access requests are created in the same [issue tracker](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) project, regardless of which System Owner is responsible for provisioning your user account.
 
 The [IT Engineering - Access Management](/handbook/business-technology/engineering/access-manager) team focuses on Identity and Access Management (IAM) and Role-Based Access Control (RBAC) automation for all of [GitLab's tech stack applications](/handbook/business-technology/tech-stack-applications/).
 
-### Cloud Infrastructure Management
+## Cloud Infrastructure Management
 
 The [IT Engineering - Infrastructure](/handbook/business-technology/engineering/infrastructure) team collaborates with the [Engineering Infrastructure Reliability (SRE)](/handbook/engineering/infrastructure/) and [Infrastructure Security](/handbook/security/security-engineering-and-research/infrastructure-security/) teams to provide Infrastructure Shared Services for all AWS, Azure, and GCP related requests and support across the organization. See the [Infrastructure Standards](/handbook/infrastructure-standards) handbook page to learn more.
 
@@ -163,19 +141,7 @@ The [Demo Systems](/handbook/customer-success/demo-systems/) provide an always-o
 
 The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), powered by [HackyStack](https://gitlab.com/gitlab-com/business-technology/engineering/tools/hackystack), automates the provisioning of AWS acccounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
 
-## FY24 Roadmap
-
-The [IT - Consolidated Projects Roadmap](https://docs.google.com/spreadsheets/d/1ojnTFGB2iYJz9kNPYdoLc4PeyDqAN60gu9cQBrKpHJQ/edit?pli=1#gid=955721517) is available for internal team members to track IT planned initiatives.
-
-### Weekly Project Update
-
-The Business Technology team uses [Rolly](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues/?sort=created_date&state=opened&label_name%5B%5D=EntApps-weekly-rollup&first_page_size=20) to communicate project status, activities in progress and any risks or blockers. 
-
-
 ## Career Opportunities
 
 You can see all of our [job families](https://handbook.gitlab.com/job-families/finance/) to learn more about the roles in our department. You can see our open positions at [https://jobs.gitlab.com](https://jobs.gitlab.com). 
 
-### Team Building
-
-Strong teams are important in business. Business Technology has incorporated a few [team-building exercises](/handbook/business-technology/team-building/) as an ongoing element of our culture. As a department, we aim to celebrate team spirit, collaboration fun and motivation.
