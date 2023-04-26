@@ -102,7 +102,7 @@ If none of the 5 Live Learning or 10 Group Coaching session will work, you may u
 Buddy Makeups require the following:
 
 1. Schedule a 50 minute session with another manager who is currently involved in Elevate. We suggest posting in your cohort Slack channel to find someone willing to support you.
-1. Make a copy of the relevant Buddy Makeup Agenda found in [this folder](https://drive.google.com/drive/folders/1iwamQCgxex7WK6Z91HAGYStbjELeSMAN). Be sure you've selected the agenda for the correct module. Make a copy of the agenda that is editable to everyone at GitLab. Use the agenda to guide your discussion.
+1. Make a copy of the relevant Buddy Makeup Agenda found in [this folder](https://drive.google.com/drive/folders/1NO5bsBMIiAq6gQ__9Wbz3EReQ52Yxw-z?usp=share_link). Be sure you've selected the agenda for the correct module. Make a copy of the agenda that is editable to everyone at GitLab. Use the agenda to guide your discussion.
 1. The participant who is making up the missed session must respond to the questions in the agenda and share the agenda in their group coaching cohort and tag Jamie Allen for review. 
 1. After your session, send a message in your Slack cohort group with a link to your agenda. Team members supporting Elevate will review and document your attendance for the session you missed, and your use of your one Buddy Makeup option.
 
