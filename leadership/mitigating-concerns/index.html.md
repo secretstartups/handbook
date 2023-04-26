@@ -85,7 +85,7 @@ To keep our pace, we need to:
 1. Achieve our [category maturity targets](/handbook/product/performance-indicators/)
 1. Ensure each [group has non-overlapping scope](/company/team/structure/#product-groups)
 
-We were voted [The World's Most Productive Remote Team](https://noonies.hackernoon.com/award/cjxvsz6576k8u0b40czyb7xhj) by HackerNoon.
+We were voted [The World's Most Productive Remote Team](https://noonies.hackernoon.com/2019/technology/2019-the-world-s-most-productive-remote-team) by HackerNoon.
 
 ### Loss of customer centricity
 {:#loss-of-customer-centricity}
