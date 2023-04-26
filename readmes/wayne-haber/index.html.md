@@ -104,3 +104,14 @@ Themes:
 * Mature the Platform to be the leading DevSecOps platform: Use GitLab for OKRs, Team MR rate
 * Increase revenue by growing a customer result mindset and delivering results: Key secure/govern/data science feature delivery, Reduce customer facing bugs, Stay ahead of SLA on security issues
 
+
+# 2023 Q2 OKRs
+
+[OKR Search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=wayne&type%5B%5D=objective&milestone_title=FY24-Q2&first_page_size=20)
+
+Themes:
+* AI in everything we do
+* Deliver on high prioritry product roadmap items for secure, govern, growth, and data science
+* Growth of team members (hiring + training)
+* Application health (error budgets, burndown UX issues, component upgrades, cross-functional collaboration)
+
