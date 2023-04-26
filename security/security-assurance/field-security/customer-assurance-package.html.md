@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: Customer Assurance Package Internal Request Process
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -17,10 +19,31 @@ Are you looking for GitLab's Customer Assurance Package? We've moved! Please cli
     <a href="https://about.gitlab.com/security/cap/" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">GitLab Customer Assurance Package (Click Here!)</a>
 </div> 
 
-## GitLab offers and actively maintains two Customer Assurance Packages:
+## GitLab offers Customer Assurance Packages tailored to customer needs
 
-* Community Package: The first step on the trust journey, this package is a compilation of publicly available documentation designed to introduce GitLab’s approach to security.
-* Customer Package: This package provides detailed security information to prospective and existing customers for completing vendor security assessments.
+* **Community Package**: The first step on the trust journey, this package is a compilation of publicly available documentation designed to introduce GitLab’s approach to security. Directly available from the [Customer Assurance Package page](https://about.gitlab.com/security/cap/). All the documents in the Community Package are included in the Customer Packages.
+* **Customer Packages**: This package provides detailed security information to prospective and existing customers for completing vendor security assessments. Due to the sensitive nature of the documentation, an NDA is required to be in place prior to sharing the Customer Packages. Please review the [CAP request process](/handbook/security/security-assurance/field-security/customer-assurance-package.html#cap-request-process) for more details.
+<details>
+<summary markdown="span">*GitLab.com Package*</summary>
+
+This package provides detailed security information to prospective and existing GitLab.com SaaS and self-managed customers for completing vendor security assessments. 
+
+</details>
+
+<details>
+<summary markdown="span">*GitLab Dedicated Package*</summary>
+
+This package provides detailed security information to prospective and existing GitLab Dedicated customers for completing vendor security assessments. 
+
+</details>
+
+<details>
+<summary markdown="span">*U.S. Public Sector Package*</summary>
+
+This package provides detailed security information to prospective and existing U.S. Public Sector customers for completing vendor security assessments. 
+
+</details>
+
 
 ## CAP request process
 
