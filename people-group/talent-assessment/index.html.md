@@ -26,12 +26,12 @@ Additional key benefits of the Assessment Program include:
 
 ### Overview 
 
-Starting in FY'23, we will utilize Workday to complete our Talent Assessment. You can review an overview of Workday Talent [here](https://docs.google.com/presentation/d/1CYNNtYWvbDyDu_WndCQ47uvTbZYhNKt5PJLnrwZ_3ek/edit?usp=sharing). Please reach out to your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) if you have any questions.
+We use Workday to complete our Talent Assessment. You can review an overview of Workday Talent [here](https://docs.google.com/presentation/d/1CYNNtYWvbDyDu_WndCQ47uvTbZYhNKt5PJLnrwZ_3ek/edit?usp=sharing). Please reach out to your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) if you have any questions.
 You can also review the following [guide](https://docs.google.com/document/d/1khkrwgVpef1hkDmwuF8Mhz9BTrtZt4WaFAwjChDFRh4/edit?usp=sharing) which mirrors what is included in the Workday Talent Assessment template to prepare you prior to the tool being launched. 
 
 There are many talent assessment options, and we have opted to use a Performance/Growth Potential Matrix (commonly known as "9-Box" in the US) and annually review Key Talent. 
 
-GitLab's Performance/Growth Potential Matrix is a type of talent assessment that forms part of our [Talent Development Program](https://about.gitlab.com/handbook/people-group/talent-development-program/). 
+GitLab's Performance/Growth Potential Matrix is a type of talent assessment that forms part of our [Talent Development Program](/handbook/people-group/talent-development-program/). 
 
 In addition to assessing Performance/Growth Potential, we annually review Key Talent aligned with the criteria outlined below on this page. The combination of Performance/Growth Potential and Key Talent assessments allow us to identify team members who drive the organization’s success and use our engagement tools to retain them. 
 
@@ -58,7 +58,7 @@ Performance includes both results and behaviors, and is broken into three areas:
 
 **Please note that `Developing` should not be automatically associated with underperformance. As highlighted below, `Developing` can also be used for new hires or newly promoted team members that are still ramping up in their new roles. Your manager will provide example and detail to ensure the rationale behind the `Developing` rating is communicated.**
 
-Based on the Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies), team members in this category are not meeting all of the expectations. There is still more to learn and improve on in the current position to achieve the desired results. This may be due to the following: 
+Based on the Job Family responsibilities, [values](/handbook/competencies/#values-competencies) and [remote working competencies](/handbook/competencies/#remote-work-competencies), team members in this category are not meeting all of the expectations. There is still more to learn and improve on in the current position to achieve the desired results. This may be due to the following: 
 
 - The team member has not been in the position/at GitLab long enough to adequately demonstrate performance.
 - The team member has been recently promoted and needs time to ramp up performance in the new role. 
@@ -66,7 +66,7 @@ Based on the Job Family responsibilities, [values](https://about.gitlab.com/hand
 - The team member is not committed to the job responsibilities and/or GitLab. 
 - The team member finds it difficult to perform work in a way that is aligned with our values and/or competencies. 
 - The team member's performance is aligned to our values and competencies, however, they lack results for Job Family responsibilities. 
-- Team member was part of a recent [transfer](https://about.gitlab.com/handbook/people-group/promotions-transfers/#department-transfers) and is still learning how to be successful on their new team.
+- Team member was part of a recent [transfer](/handbook/people-group/promotions-transfers/#department-transfers) and is still learning how to be successful on their new team.
 
 Examples: 
 
@@ -79,7 +79,7 @@ Examples:
 
 ### Performing
 
-Based on Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies) team members in this category are “on track” and meeting all expectations. They can independently and competently perform all aspects of the Job Family responsibilities in a way that is aligned with our values and competencies. Their performance consistently meets the requirements, standards, or objectives of the job, and they can occasionally exceed expectations. They deliver results in a timely and accurate fashion. This performance may be expected as a result of: 
+Based on Job Family responsibilities, [values](/handbook/competencies/#values-competencies) and [remote working competencies](/handbook/competencies/#remote-work-competencies) team members in this category are “on track” and meeting all expectations. They can independently and competently perform all aspects of the Job Family responsibilities in a way that is aligned with our values and competencies. Their performance consistently meets the requirements, standards, or objectives of the job, and they can occasionally exceed expectations. They deliver results in a timely and accurate fashion. This performance may be expected as a result of: 
 
 - The team member is consistent and stable in their performance.  
 - The team member has the required knowledge, skills and abilities to perform in the role successfully and also applies values and competencies in their work.
@@ -94,7 +94,7 @@ Examples:
 
 ### Exceeding
 
-Team members that are exceeding consistently surpass the demands of their current position. They demonstrate unique understanding of work beyond the assigned area of responsibility. They contribute to GitLab’s success by adding significant value well beyond Job Family requirements, [values](https://about.gitlab.com/handbook/competencies/#values-competencies), and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies). This performance may be expected as a result of: 
+Team members that are exceeding consistently surpass the demands of their current position. They demonstrate unique understanding of work beyond the assigned area of responsibility. They contribute to GitLab’s success by adding significant value well beyond Job Family requirements, [values](/handbook/competencies/#values-competencies), and [remote working competencies](/handbook/competencies/#remote-work-competencies). This performance may be expected as a result of: 
 
 - Individual is developing more quickly than the demands of their current position. 
 - They rise to the challenge when give additional assignments and achieve significant results.
@@ -177,7 +177,7 @@ There are four primary pillars to consider when measuring growth potential:
 | Consistency | Demonstrating effective problem-solving capabilities, the consistent delivery of results over time in changing circumstances, and dependability in the commitments you make. |
 | Self-Awareness | The depth to which an individual recognizes skills, strengths, weaknesses, blind spots, and is able to reflect and act to improve and invest in their own development. Judgment in decision-making is also a key element of self-awareness. Judgment can be seen through our level of self-awareness in several ways, including communication, collaboration, and results. Judgment can be defined as "The ability to make considered decisions or come to well thought-out conclusions", and to do this effectively, we need to have a heightened sense of self-awareness in terms of how our communication will come across and how decisions and conclusions drawn will impact others and their willingness to collaborate. |
 
-Below under each pillar there are a few questions that managers should consider when assessing team member growth potential. Please note that the answer to all of these questions does not have to be `yes` to determine a team member is "exceeding" growth potential, the questions are here to help guide managers through the thought and evaluation process.  
+Under each pillar there are a few questions that managers should consider when assessing team member growth potential. Please note that the answer to all of these questions does not have to be `yes` to determine a team member is "exceeding" growth potential, the questions are here to help guide managers through the thought and evaluation process.  
 
 #### Adaptability
 
