@@ -215,6 +215,7 @@ Our current contract is 99.95% availability and a 20 minute monthly error budget
 |------------------|---------------------|---------------------|---------------------|
 | Govern:Threat Insights | 99.5% | Epic to address the endpoint responsible for 40% of the budget: [Deprecate and remove Vulnerabilities::Feedback](https://gitlab.com/groups/gitlab-org/-/epics/5629). [All error budget-impacting issues](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Athreat%20insights&label_name%5B%5D=Error%20Budget%20Improvement&first_page_size=100) | 2023-05-22 |
 | Enablement:Global Search | 99.85% | Budget is being consumed primarily by [basic search for MR's and projects](https://gitlab.com/gitlab-org/search-team/team-tasks/-/issues/120#note_1288194956), which utilize Postgres. These are well-known problematic searches across the platform. Solving them will likely require using Elasticsearch, which requires a [business decision](https://gitlab.com/gitlab-com/Product/-/issues/3701) (internal only). | 2023-06-22 |
+| Enablement:Tenant Scale | 99.85% | To allow the group to focus on long-term scalability work as well as coordinate changes requiring introduction in the next API version. Described in [this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/108039) | 2023-12-31 (or if total traffic share exceeds 5%) |
 
 **Exceptions**
 
