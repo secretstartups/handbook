@@ -36,13 +36,16 @@ this workflow.
       [Fulfillment meta intake request](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new?issue&issuable_template=intake)
       template. A Fulfillment PM will review the request and move it to the
       relevant team and trackers if they accept it.
-1. Add the appropriate labels to the issue or epic:
-    1. Add `Support Priority::Categorize` to indicate that GitLab Support wants to see this
-     addressed
+1. Add the appropriate labels and priority indicators to the issue or epic:
+    1. If you feel confident that you can appropriately calculate a
+       [Support Priority Score](#support-priority-score) for the issue or epic,
+       do that and add `Support Priority::Scored` to the issue. Otherwise,
+       add `Support Priority::Categorize` to indicate that GitLab Support wants
+       to see this addressed.
     1. Add `Support Priority` to ensure inclusion of issues and epics on various product boards
-     and reports that are not priority-based.
+       and reports that are not priority-based.
     1. If it is impacting a customer's ability to use the GitLab licensing
-     functionality successfully, then add `Customer::Impact` and `UX`
+       functionality successfully, then add `Customer::Impact` and `UX`
 
 - For general guidance on adding comments and required labels for issues, please
   see the [Working with issues workflow](../../workflows/working-with-issues.html#adding-comments-on-existing-issues)
