@@ -47,7 +47,7 @@ corresponding Google Sheet.
 
 ### Support Engineering Manager
 
-#### Growth, development and hiring of team members (Weighting: 16.67%)
+#### Growth, development and hiring of team members (Weighting: 20%)
 {: .no_toc}
 
 - **Developing:**
@@ -75,7 +75,7 @@ corresponding Google Sheet.
     resource-related gaps and weaknesses in Support Engineering and partner with
     Talent Acquisition to ensure effective execution of the hiring plan.
 
-#### Process development and improvement (Weighting: 16.67%)
+#### Process development and improvement (Weighting: 20%)
 {: .no_toc}
 
 - **Developing:**
@@ -111,7 +111,7 @@ corresponding Google Sheet.
   - You coach and enable your direct reports and other team members to own and
     independently drive improvement initiatives.
 
-#### People care and performance management (Weighting: 16.67%)
+#### People care and performance management (Weighting: 30%)
 {: .no_toc}
 
 - **Developing:**
@@ -143,7 +143,7 @@ corresponding Google Sheet.
     areas of productivity, engagement with work and personal wellbeing to the
     Support Engineering team.
 
-#### Managing customer service outcomes (Weighting: 16.67%)
+#### Managing customer service outcomes (Weighting: 30%)
 {: .no_toc}
 
 - **Developing:**
