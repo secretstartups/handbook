@@ -10,27 +10,27 @@ description: "This page is an overview of the search team alignment and the tale
 |--------------------------|-----------------|-------------------------------------|
 | Executive          | Rich Kahn    | Sruthy Menon  |
 | Executive          | Zach Choquette   | Sruthy Menon  |
-| Enterprise Sales, NA | Kevin Rodrigues |Mathea Gervolino |
+| Enterprise Sales, NA | Kevin Rodrigues |Sruthy Menon |
 | Enterprise Sales, APAC | Yas Priatna | Lerato Thipe |
 | Enterprise Sales, EMEA | Kannwal Matharu | Lerato Thipe |
-| Commercial Sales,	AMER | Marcus Carter | Fernando Khubeir |
-| Commercial Sales,	AMER | Hannah Stewart  | Fernando Khubeir |
+| Commercial Sales,	AMER | Marcus Carter | Michelle Jubrey |
+| Commercial Sales,	AMER | Hannah Stewart  | Michelle Jubrey |
 | Commercial Sales,	EMEA | Ben Cowdry | Lerato Thipe |
 | Channel Sales, EMEA | Kanwal Matharu  | Lerato Thipe |
-| Field Operations,	US/EMEA | Kelsey Hart  | Fernando Khubeir |
+| Field Operations,	US/EMEA | Kelsey Hart  | Sruthy Menon |
 | Customer Success, EMEA | Debbie Harris and Joanna Muttiah | Lerato Thipe |
-| Customer Success, NA | Barbara Dinoff |  Mathea Gervolino |
+| Customer Success, NA | Barbara Dinoff |  Sruthy Menon |
 | All Sales, APAC | Yas Priatna  | Lerato Thipe |
 | Marketing, Global | Steph Sarff | Michelle Jubrey |
-| Marketing, BDR/SDR (Global)| Caroline Rebello |  Mathea Gervolino |
+| Marketing, BDR/SDR (Global)| Caroline Rebello |  Michelle Jubrey |
 | G&A, Legal | Steph Sarff | Michelle Jubrey |
 | G&A, Accounting, People | Steph Sarff | Michelle Jubrey |
-| G&A, IT | Kelsey Hart | Fernando Khubeir |
+| G&A, IT | Kelsey Hart | Sruthy Menon |
 | Internal | Jenna VanZutphen | Sruthy Menon |
 | Development | Mark Deubel & Sara Currie | Guido Rolli |
 | Quality | Riley Smith & Dielle Kuffel |  Guido Rolli |
 | Infrastructure   | Riley Smith & Dielle Kuffel | Guido Rolli |
-| Support | Joanna Michniewicz  |  Mathea Gervolino |
+| Support | Joanna Michniewicz  |  Guido Rolli |
 | Security | Matt Angell | Guido Rolli|
 | Incubation | Matt Angell  | Guido Rolli |
 | Product Management  | Matt Angell  | Guido Rolli |
