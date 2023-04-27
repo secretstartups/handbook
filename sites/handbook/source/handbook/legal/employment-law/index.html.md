@@ -79,7 +79,7 @@ As GitLab scales, global expansion efforts require support from a dedicated cros
 
 
 #### Policy Development 
-Legal should be asked to perform a final review when policies are updated or created.
+The GitLab Employment Legal Team are available to collaborate with the People Teams if or when a new employment policy is required or an update or review of a current policy is undertaken and, if not involved at an earlier stage, should still be asked to perform a final review when policies are updated or created. The Employment Legal Team can be engaged to assist with policy creation, updates or review by using this [issue template](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new#). By adding the `legal-employment::to-do` label on the issue that requires attention, the issue will update the [Legal Employment Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/4585701) and allow the team to triage appropriately.
 
 #### Contract Negotiations 
 In the event that a customer or vendor has questions regarding terms that affect our team members (such as drug tests or more intensive background checks), the procurement team will reach out to the Employment team.
