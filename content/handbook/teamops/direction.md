@@ -10,7 +10,7 @@ twitter_creator: "@gitlab"
 
 ## Executive Summary
 
-TeamOps is how GitLab works – it is an operating model that helps teams maximize productivity, flexibility, and autonomy by managing decisions, information, and tasks more efficiently.
+[TeamOps](https://about.gitlab.com/teamops/) is an organizational operating model that helps teams maximize productivity, flexibility, and autonomy by managing decisions, information, and tasks more efficiently. It is how we work at GitLab. Regardless of workplace model, teams can become more information-centric, handbook-first, and virtual-first when they apply TeamOps.
 
 In FY2024, the Workplace department in GitLab is:
 - Internally optimizing workforce awareness and universal application of the TeamOps model
@@ -48,7 +48,7 @@ Due to headcount adjustments in the Workplace department at the end of FY2023, s
 **Annual Goal:** _Monetize TeamOps model; generate enough revenue to breakeven on department expenses_
 
 - [FY24-Q1](https://gitlab.com/groups/gitlab-com/ceo-chief-of-staff-team/workplace/-/epics/2) = Build Sales Funnel (Content/Services Validation and Pricing)
-- FY24-Q2 = Fill Sales Funnel (Lead Generation and Marketing)
+- FY24-Q2 = Optimize for Change Management Partnerships
 - FY24-Q3 = Automate Sales Funnel (Page Functionality)
 - FY24-Q4 = Measure TeamOps (Integrate into GitLab)
 
@@ -76,6 +76,7 @@ The Workplace team collaborates with the following departments for the developme
 
 - [FY23-Q3](https://gitlab.com/groups/gitlab-com/-/epics/1841): TeamOps was launched as a simple LevelUp course by the Workplace team as an evolution of the MECC (Managing So Everyone Can Contribute)
 - [FY23-Q4](https://gitlab.com/groups/gitlab-com/-/epics/1978): With the goal of monetization and repeatability, TeamOps was converted from a `Management Theory` to an `Operational Model.` In so doing, TeamOps became replicable, cyclical, and measurable.  (This video is a recap of those updates.)
+- [FY24-Q1](https://gitlab.com/groups/gitlab-com/ceo-chief-of-staff-team/workplace/-/epics/2): To support the external adoption of the TeamOps model, content and a sales funnel for TeamOps corporate training and consulting services were designed, tested, and launched.
 
 **TeamOps: Present**
 
