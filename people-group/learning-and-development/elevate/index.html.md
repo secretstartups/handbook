@@ -103,10 +103,10 @@ If none of the 5 Live Learning or 10 Group Coaching session will work, you may u
 
 Buddy Makeups require the following:
 
-1. Schedule a 50 minute session with another manager who is currently involved in Elevate. We suggest posting in your cohort Slack channel to find someone willing to support you.
-1. Make a copy of the relevant Buddy Makeup Agenda found in [this folder](https://drive.google.com/drive/folders/1NO5bsBMIiAq6gQ__9Wbz3EReQ52Yxw-z?usp=share_link). Be sure you've selected the agenda for the correct module. Make a copy of the agenda that is editable to everyone at GitLab. Use the agenda to guide your discussion.
-1. The participant who is making up the missed session must respond to the questions in the agenda and share the agenda in their group coaching cohort and tag Jamie Allen for review. 
-1. After your session, send a message in your Slack cohort group with a link to your agenda. Team members supporting Elevate will review and document your attendance for the session you missed, and your use of your one Buddy Makeup option.
+1. Schedule a 50 minute session with another manager who is currently involved in Elevate. We suggest posting in your cohort Slack channel to find someone willing to support you. If you cannot find a buddy in your cohort, please reach out to someone on the Learning and Development team for help.
+1. Make a copy of the relevant Buddy Makeup Agenda found in [this folder](https://drive.google.com/drive/folders/1NO5bsBMIiAq6gQ__9Wbz3EReQ52Yxw-z?usp=share_link). Be sure you've selected the agenda for the correct module. Make a copy of the agenda that is editable to everyone at GitLab. Use the agenda to guide the discussion with your buddy.
+1. Meet with your buddy for 50 minutes. Discuss content from the missed module using the agenda as a guide.
+1. After meeting with your buddy, complete the activity outlined at the end of the agenda. Share your agenda and activity resources with Jamie Allen and Samantha Lee. You must share these documents for your makeup to be documented.
 
 
 ## Supporting your team in Elevate
