@@ -14,12 +14,12 @@ GitLab Open and Select partners have access to the proposal-based GitLab Marketi
 
 ### MDF Investment Objectives
 
-**Demand Generation**
+#### Demand Generation
    *  The objective of these activities is to gain net-new end-user customers for you and GitLab. Examples of eligible activities include seminars, workshops, telemarketing or email marketing campaigns, participation in tradeshows, exhibitions, and direct mail.
-   *  Eligible costs may include mailing costs, fulfillment items, lead qualification, distribution, venue costs, food and beverages (**excluding alcoholic beverages**), speakers’ fees, management costs, and lead capturing costs.
+   *  Eligible costs may include mailing costs, fulfillment items, lead qualification, distribution, venue costs, food and beverages (excluding alcoholic beverages), speakers’ fees, management costs, and lead capturing costs.
    * GitLab supports a limited number of partners in the selected regions, please check your eligibility with your regional [Channel Account Manager](https://partners.gitlab.com/prm/English/c/marketing-contact-cam) and [Channel Marketing Manager](https://about.gitlab.com/handbook/marketing/channel-marketing/#meet-the-team) 
 
-**To be considered for funding support you must:**
+#### To be considered for funding support you must:
   * Be a Marketing Ready Select or Open GitLab Partner. Marketing ready means: partner has an approved business plan with GitLab; has a list of focus accounts mapped with GitLab; has a dedicated person who manages leads sent to the partner by GitLab (Partner Prospect Admin); ackowledges [the lead passing and recall process](https://about.gitlab.com/handbook/marketing/marketing-operations/vartopia/#partner-recall); has a dedicated marketing resposible person to work on the join activties with GitLab; has regular calls with the GitLab CHannel Marketing Manager; acknowledges [the MDF Policy](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/MDF/) and requirements for MDF process (Reqests and Claims)
   * Comply with GitLab Proof of Performance (POP) requirements for the activity
   * Meet minimum required MDF request amount of **$1,000 USD**
