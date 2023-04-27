@@ -258,4 +258,4 @@ You may not use data obtained in the course of your employment with GitLab in an
 
 ## Transform this policy into action with a social media training and certification
 
-Take this policy and turn it into a social media certification in less than 45 minutes with the [social media 101 training and certification](https://about.gitlab.com/handbook/marketing/corporate-communications-resourses-trainings//#social-media-101-training--certification). You'll find details on the training and what to expect [here](https://about.gitlab.com/handbook/marketing/corporate-communications-resourses-trainings//#social-media-101-training--certification).
+Take this policy and turn it into a social media certification in less than 45 minutes with the [social media 101 training and certification](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#social-media-101-training--certification). You'll find details on the training and what to expect [here](https://about.gitlab.com/handbook/marketing/corporate-communications/resources-trainings/#social-media-101-training--certification).
