@@ -663,7 +663,7 @@ The AMER Field Marketing team utilizes [Grubhub](https://www.grubhub.com/) and [
 #### When to use Grubhub
 Grubhub will be utilized for smaller, owned, and partner events that will host executive-level registrants. Cost per person to be between $35-$50. 
 
-It is important to note that Grubhub will be utilized for _post-event meal credit distribution_. The FMM is responsible for taking account of registrants who attend the event and utilizing that list to upload to Grubhub.
+It is important to note that Grubhub will be utilized for _post-event meal credit distribution_. The FMM is responsible for taking account of registrants who attend in the first 30 minutes of the event. The FMM will utilize the list of attended registrants to upload to Grubhub prior to the conclusion of the event.
 
 #### Order Link Sharing 
 
@@ -709,7 +709,7 @@ _More detailed instructions are listed below._
 1. FMM to log into their Grubhub Admin Portal. 
 2. FMM to create a group, naming the group the title of the event. 
 3. FMM to create a meal credit for the event, assigning the meal credit to the created group.
-4. FMM to bulk upload post-event _attended_ registrant information and assign it to the created Group.  
+4. FMM to take account of the attended registrants in the first 30 minutes and bulk upload the _attended_ registrant information and assign it to the created Group prior to the conclusion of the event.  
 5. FMC to bulk remove registrant information once the event has concluded and the invoice has been received (all invoices are sent to FMCs on a monthly cadence).   
 
 #### Creating Group Accounts and Meal Credits 
