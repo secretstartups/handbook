@@ -43,7 +43,7 @@ This section is for members of the Sales organization who need support with a co
 2. Fill in the issue title as described in the issue description
 3. Complete the issue description in as much detail as possible
 4. Save the issue
-5. Ping me (`@francispotter`) on Slack with the link to the issue so I don't miss it
+
 
 ## The Comparison Process
 
