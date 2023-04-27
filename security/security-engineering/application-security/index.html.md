@@ -87,6 +87,10 @@ Learn more about the [GitLab AppSec Inventory](./inventory.html).
 
 Learn how to identify or remediate security issues using real examples with GitLab's [Reproducible Vulnerabilities][11].
 
+## Application Security Automation and Monitoring
+
+Please see the [Application Security Automation and Monitoring page][12]
+
 [1]: /handbook/security/security-engineering/application-security/appsec-reviews.html
 [3]: /handbook/security/security-engineering/application-security/vulnerability-management.html
 [4]: /handbook/security/security-engineering/application-security/stable-counterparts.html
@@ -97,3 +101,4 @@ Learn how to identify or remediate security issues using real examples with GitL
 [9]: https://docs.google.com/document/d/1Mba9ZhuVr2qBkvR7AqzNTUFMUTapJqiXkPUqc9Gr8io/edit
 [10]: /handbook/security/root-cause-analysis.html
 [11]: /handbook/security/security-engineering/application-security/reproducible-vulnerabilities.html
+[12]: /handbook/security/security-engineering/application-security/application-security-automation-monitoring.html
