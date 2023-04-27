@@ -52,7 +52,7 @@ GitLab encourages team members to set time aside to take part in local volunteer
 
 [National Charity League](https://www.nationalcharityleague.org/) a multi-generational philanthropic organization of mother and daughters who volunteer close to three million hours annually to over 6,000 charities in the United States.
 
-[Hack for She](https://hackforshe.tech/) a completely virtual hackathon aimed to find solutions to Women’s problems.
+Hack for She, a completely virtual hackathon aimed to find solutions to Women’s problems.
 
 
 ----
