@@ -578,6 +578,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 ### Family First Coronavirus Act (FFCRA)
 * [Employee Rights: Paid Sick Leave and Expanded Family and Medical Leave under the Family First Coronavirus Act](https://www.dol.gov/sites/dolgov/files/WHD/posters/FFCRA_Poster_WH1422_Non-Federal.pdf)
+* [Essential Protections During the COVID-19 Pandemic](https://www.dol.gov/agencies/whd/pandemic)
 
 ### Family and Medical Leave Act 
 * [Family and Medical Leave Act (FMLA) Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf)
@@ -598,7 +599,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Service Contract Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/govc.pdf)
 
 ### Your Rights Under USERRA
-* [Your Rights Under the Uniformed Services Employment and Reemployment Rights Act](https://www.dol.gov/sites/dolgov/files/VETS/legacy/files/USERRA_Private.pdf)
+* [Your Rights Under the Uniformed Services Employment and Reemployment Rights Act](https://www.dol.gov/sites/dolgov/files/VETS/files/USERRA-Poster.pdf)
 
 </details>
 
