@@ -11,6 +11,10 @@ title: Level Up Administration Guide
 
 # Administrator Resources
 
+This page is intended to be a guide for the administration of our Learning System, Level Up. Level Up is built on a learning system called Thought Industries, a vendor external to GitLab. Throughout this guide `Level Up` and `Thought Industries` are used interchangeably.
+
+This page documents both process for admins, as well as best practice and FAQs.
+
 ## Learning System Stakeholders
 
 Management of the Learning System is a collaborative effort between Education Services, Learning & Development, Field Enablement, and Partner Teams. Each team has specific use cases for the system, and utilise the panorama functionality to target different audiences both internal and external. Below is a brief description of each use case the system is currently being utilised for.
@@ -23,8 +27,12 @@ The L&D team uses Thought Industries to support training for GitLab team members
 
 ### Field Enablement
 
-## Platform Training and Support
+### Partner Enablement
+
+## Platform Training and Support from Thought Industries
 <!-- blank line -->
+
+Thought Industries provide a number of resources that can be used for support in upskilling admins, and for answering administration questions.
 
 ### Thought Industries Academy
 1. The Thought Industries [Academy](https://academy.thoughtindustries.com/) includes self-paced training and support articles. Access the academy by clicking the `Need Help` button on the left side bar when logged into Thought Industries and scroll down to `Learn More in the Academy`.
@@ -39,14 +47,19 @@ Support tickets should be raised to report errors, bugs, and outages in the plat
 1. Fill in the ticket details in the fields provided and submit.
 1. You will receive a response to your support request via email.
 
+### Product Enhancement Suggestions & TI Community
 
-## Administrator Home Page
+To make suggestions for enhancements to Thought Industries, it is recommended to utilise the [Thought Industries Community](https://community.thoughtindustries.com) site.
+
+This [video](https://drive.google.com/file/d/1PbY7fVOtMZeTNLw4wJ4Mk6Th2q1hAFgU/view) explains how the site works, and how to get signed up.
+
+
+### Administrator Home Page
 <!-- blank line -->
 The admin home page is a place for platform administrators to access:
 <!-- blank line -->
 1. Thought Industries announcements and feature highlights
 1. Updates on new platform features, shared the last Tuesday of every month
-1. `Suggestions` tab to submit platform feature enhancements
 1. Opt-in subscriptions for system updates, outages, and scheduled maintence (suggested for all admin)
 1. The `Control Panel` that lists all features enabled in the Level Up instance
 
