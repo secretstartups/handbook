@@ -71,7 +71,36 @@ Assigning error budgets down to the feature category sets a baseline for specifi
 Each group has a `Budget spend attribution` section in their
 [Budget detail dashboard](https://docs.gitlab.com/ee/development/stage_group_observability/dashboards/error_budget_detail.html) that allows them to [discover where their budget is being spent](https://docs.gitlab.com/ee/development/stage_group_observability/index.html#check-where-budget-is-being-spent).
 
-Both the `Budget failures` panel and each link in the `Failure log links` panel are ordered by the number of errors. Prioritising fixing the top offenders in these tables will have the biggest impact on the budget spent.
+Both the `Budget failures` panel and each link in the `Failure log links` panel are ordered by the number of errors. Prioritising fixing the top offenders in these tables will have the biggest impact on the budget spent. 
+
+Let's take look at a simplified violation scenario with different traffic 
+patterns:
+
+| Endpoint   | Total requests | Slow requests | Apdex ratio | Traffic share |
+|------------|----------------|-----------------------------|---------------|
+| Endpoint A | 1 000          | 500           | 50%         | 1%            |
+| Endpoint B | 99 000         | 9 000         | 90%         | 99%           |
+
+Even though `Endpoint A` has a lower apdex ratio, fixing more violations from 
+`Endpoint B` will have a greater impact on the error budget overall, as they 
+account for the majority of violations impacting the error budget.
+
+Now let's take a look at a more complex violation scenario:
+
+| Endpoint   | Total requests | Slow requests | Apdex ratio | Traffic share |
+|------------|----------------|---------------|-------------|---------------|
+| Endpoint A | 100 000        | 30            | 99.97%      | 80%           |
+| Endpoint B | 25 000         | 30            | 99.88%      | 20%           |
+
+The 30 errors from `Endpoint A` and `Endpoint B` both have an identical impact 
+on the error budget.  However, it would be better to work on `Endpoint B` 
+because it has a higher ratio of slow requests / overall requests. Because 
+`Endpoint A` is already meeting the target of 99.95%, no additional work is required here. 
+99.97% is a good score and any deliberate improvements here could be considered a premature optimization. 
+
+The number of violations for `Endpoint B` puts it below the apdex
+threshold, so if these two endpoints are the top violators we see, we
+should look into improving `Endpoint B`. 
 
 # The Error Budget Policy for GitLab.com
 
