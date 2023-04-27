@@ -182,6 +182,7 @@ Always share your work for review. If you are working from an existing Canva tem
 - [Brand handbook](/handbook/marketing/brand-and-product-marketing/brand/)
 - [Brand Design handbook](/handbook/marketing/brand-and-product-marketing/design/)
 - [QR code design guidelines](https://about.gitlab.com/handbook/marketing/events/#steps-to-generating-a-qr-code)
+- [Marketing Popup Event Materials (ie. popup banners, back walls, tablecloths, etc...)](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/events-conferences/field-marketing-popup-events)
 
 
 
