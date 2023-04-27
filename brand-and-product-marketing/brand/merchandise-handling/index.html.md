@@ -38,7 +38,7 @@ If you want to order swag for customers, your team, events, giveaways, TMRGs, et
 
 If you'd like to allow giveaway (e.g. Hackathon winners) or gift recipients to choose their own swag, we can set up a store credit for them to use in the GitLab swag shop.
 
-1. Email Jeremy from the Boundless team at `jeremy.newman@boundlessnetwork.com`. 
+1. Email Jeremy from the Boundless team at `jnewman@boundlessnetwork.com`. 
 1. Include first and last name of recipient, email address, and department to be charged for the store order. 
 1. Jeremy will respond with instructions on how each person can access the credit. 
 
