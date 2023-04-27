@@ -63,7 +63,7 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 # Basic Presales Knowledge
 {: .gitlab-orange}
 
-## Please get to know GitLab, what it is, what it offers, and what it does
+## Get to know GitLab, what it is, what it offers, and what it does
 {: .gitlab-purple}
 
 1.  GitLab [promo video](https://player.vimeo.com/video/702922416) on [https://about.gitlab.com](https://about.gitlab.com) (1 min)
@@ -109,22 +109,37 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 2.  These are the GitLab PS [Delivery Kits](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits) our teams use for customer projects.
 
 
-# Deeper Presales & Technical Knowledge
+# Advanced Presales & Technical Knowledge
 {: .gitlab-orange}
 
-## The DevSecOps Ecosystem and Competitive Intelligence
+## Compete
 {: .gitlab-purple}
 
-1.  Learn how GitLab lands and expands within a customer’s cloud-native ecosystem of tools on the [Competitive Intelligence Handbook Page.](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/)
+* [GitLab Maturity Page](https://about.gitlab.com/direction/maturity/): A very transparent assessment of the maturity of each GitLab feature. No direct comparisons with other vendors here.
 
-1.  Review the [DevOps Tools Comparison](https://about.gitlab.com/competition/) and be sure to click on the stages of the DevSecOps process (Plan, Create, Verify, Package, etc.) for more information
+* [GitLab Customer Success Stories](https://about.gitlab.com/customers/): Our success stories, including customer tesimonials.
 
-## Configuring and using GitLab
+* [DevOps Tools Landscape](https://about.gitlab.com/devops-tools/): A great place to learn about how GitLab compares to its competitors. A more detailed view of the same is the [DevOps maturity comparison chart](https://about.gitlab.com/competition/). Clicking on some product names (on both pages) takes the viewer to a detailed comparison of GitLab and the selected competitor. For example: [GitLab vs. GitHub](https://about.gitlab.com/competition/github/).
+
+## Technical
 {: .gitlab-purple}
 
-1.  [docs.gitlab.com](https://docs.gitlab.com) is fantastic.  Explore there and jump to the [Tutorials page](https://docs.gitlab.com/ee/tutorials/) for more guidance.
+* [GitLab Documentation](https://docs.gitlab.com/): The best starting point for technical questions. It lists feature descriptions, excellent tutorials, and troubleshooting tips.
 
-1.  Definition:  “Omnibus” – It’s not as ominous as it sounds.  Omnibus referrs to the standard Linux package installation of GitLab.  There are other ways to install, for example, via K8s helm charts for advanced scaling options.
+* [GitLab Blog](https://about.gitlab.com/blog/): Various content about GitLab. Mostly technical stuff, but not exclusively. Subscribing to the newsletter can be useful.
+
+* [Release Overview Website](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=features): A fairly unknown tool that can help with understanding the changes in each GitLab version. (Source code of the website is [here](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/what-is-new-since).) Important features of this website to pay extra attention to:
+
+    * [CVEs by version](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=cves): easily keep track of security vulnerabilities in each GitLab version.
+
+    * [Upgrade path](https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/): a handy tool which can list the steps of upgrading self-managed GitLab from version X to version Y.
+
+* [Deprecations by version](https://docs.gitlab.com/ee/update/deprecations.html): same data as [this page](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=deprecations) of the Release Overview website, just in a different format.
+
+* [GitLab Releases Blog](https://about.gitlab.com/releases/categories/releases/): The same information as the Release Overview website, but in nicely formatted blog posts, ready to share with customers.
+
+* [GitLab's Repository](https://gitlab.com/gitlab-org/gitlab): The source code of the GitLab software itself. The most useful part is the [Issues page](https://gitlab.com/gitlab-org/gitlab/-/issues), where everybody can check the state of a feature or a bug and see if it's planned or being worked on.
+
 
 # Running Effective GitLab Demos and POCs
 {: .gitlab-orange}
@@ -165,34 +180,6 @@ Here’s the [handbook page](https://about.gitlab.com/handbook/customer-success/
 
 # Additional Resources
 {: .gitlab-orange}
-
-## Technical
-{: .gitlab-purple}
-
-* [GitLab Documentation](https://docs.gitlab.com/): The best starting point for technical questions. It lists feature descriptions, excellent tutorials, and troubleshooting tips.
-
-* [GitLab Blog](https://about.gitlab.com/blog/): Various content about GitLab. Mostly technical stuff, but not exclusively. Subscribing to the newsletter can be useful.
-
-* [Release Overview Website](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=features): A fairly unknown tool that can help with understanding the changes in each GitLab version. (Source code of the website is [here](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/what-is-new-since).) Important features of this website to pay extra attention to:
-
-    * [CVEs by version](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=cves): easily keep track of security vulnerabilities in each GitLab version.
-
-    * [Upgrade path](https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/): a handy tool which can list the steps of upgrading self-managed GitLab from version X to version Y.
-
-* [Deprecations by version](https://docs.gitlab.com/ee/update/deprecations.html): same data as [this page](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=deprecations) of the Release Overview website, just in a different format.
-
-* [GitLab Releases Blog](https://about.gitlab.com/releases/categories/releases/): The same information as the Release Overview website, but in nicely formatted blog posts, ready to share with customers.
-
-* [GitLab's Repository](https://gitlab.com/gitlab-org/gitlab): The source code of the GitLab software itself. The most useful part is the [Issues page](https://gitlab.com/gitlab-org/gitlab/-/issues), where everybody can check the state of a feature or a bug and see if it's planned or being worked on.
-
-## Compete
-{: .gitlab-purple}
-
-* [GitLab Maturity Page](https://about.gitlab.com/direction/maturity/): A very transparent assessment of the maturity of each GitLab feature. No direct comparisons with other vendors here.
-
-* [GitLab Customer Success Stories](https://about.gitlab.com/customers/): Our success stories, including customer tesimonials.
-
-* [DevOps Tools Landscape](https://about.gitlab.com/devops-tools/): A great place to learn about how GitLab compares to its competitors. A more detailed view of the same is the [DevOps maturity comparison chart](https://about.gitlab.com/competition/). Clicking on some product names (on both pages) takes the viewer to a detailed comparison of GitLab and the selected competitor. For example: [GitLab vs. GitHub](https://about.gitlab.com/competition/github/).
 
 ## Third-Party Tutorials
 {: .gitlab-purple}
