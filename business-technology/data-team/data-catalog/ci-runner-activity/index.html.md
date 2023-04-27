@@ -14,7 +14,7 @@ title: "CI Runner Activity"
 
 Previously, there wasn't an easy way to tie cost directly to CI usage without making assumptions. And the process was not scalable, so a better solution was needed for the future.
 
-For this purpose, a Unified model for **Compute Credits/Cost** has been created as a part of [Enterprise Dimensional Model](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) that ties the cost from app usage table (postgres) to `gcp_billing` and labels our runners in GCP with `job_id` labels to join to `ci_builds` table.
+For this purpose, a Unified model for **Compute Credits/Cost** has been created as a part of [Enterprise Dimensional Model](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) that ties the cost from app usage table (Postgres) to `gcp_billing` and labels our runners in GCP with `job_id` labels to join to `ci_builds` table.
 
 ### Business Use Cases/Example KPIs:
 
@@ -63,7 +63,7 @@ The Data Team maintains these Data artifacts related to `CI Runner Activity` :
 <br>
 
 - **Data Flow Diagram**
-   - The [CI Runner Activity Data Flow diagram](https://lucid.app/lucidchart/fe967fe7-5cb8-4a83-96f6-17ba824275b9/edit?beaconFlowId=3414471839151653&page=0_0&invitationId=inv_2c1487d9-d40c-4cda-b983-198344a56a7d#) provides a high level overviw of how the Data flows in to the `fact model` - [fct_ci_runner_activity](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ci_runner_activity) and `Mart models` - [mart_ci_runner_activity_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ci_runner_activity_monthly) and [mart_ci_runner_activity_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ci_runner_activity_daily) from `Prep/Intermediate` and other `Dimension` tables. 
+   - The [CI Runner Activity Data Flow diagram](https://lucid.app/lucidchart/fe967fe7-5cb8-4a83-96f6-17ba824275b9/edit?beaconFlowId=3414471839151653&page=0_0&invitationId=inv_2c1487d9-d40c-4cda-b983-198344a56a7d#) provides a high level overview of how the Data flows in to the `fact model` - [fct_ci_runner_activity](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ci_runner_activity) and `Mart models` - [mart_ci_runner_activity_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ci_runner_activity_monthly) and [mart_ci_runner_activity_daily](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_ci_runner_activity_daily) from `Prep/Intermediate` and other `Dimension` tables. 
 <br>
 
 - **Table Definitions**
@@ -85,7 +85,7 @@ From a Data Platform technology perspective, the solution delivers:
 
 1. An extension to the Enterprise Dimensional Model for CI Runner Activity data
 1. Testing and data validation extensions to the Data Pipeline Health dashboard
-1. ERD, Data Flow diagam, dbt models, and related platform components
+1. ERD, Data Flow diagram, dbt models, and related platform components
 
 
 ### Quick Links

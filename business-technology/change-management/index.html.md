@@ -63,7 +63,7 @@ A few examples are listed below. These examples are not meant to be all encompas
 
 * Changes to production business applications such as new application enhancements, upgrades, or defect resolution.
   * SFDC, Okta, Azure, Zoom
-  * All changes impacting Financial (SOX) applications Netsuite, Zuora, and critical Enterprise Applications/systems.
+  * All changes impacting Financial (SOX) applications NetSuite, Zuora, and critical Enterprise Applications/systems.
 * Other production systems like our enterprise data warehouse and integrations
 * Implementing a new system policy for user access
 
@@ -142,7 +142,7 @@ Last 7 calendar days and first 7** calendar days of each quarter
 
 **All exceptions need Head of BT and Business approval**
 
-*Significant Enterprise Applications are: Coupa, Netsuite, Salesforce, Zuora
+*Significant Enterprise Applications are: Coupa, NetSuite, Salesforce, Zuora
 
 **Finance impacted systems.
 
