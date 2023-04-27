@@ -154,8 +154,10 @@ You should think of this list as a tool for helping you to make decisions. When
 there are multiple things to be done, these priorities should guide you toward
 deciding which of them to do first.
 
-1. Handle emergencies if you are the Support Engineer On-Call, or if the Engineer On-Call needs help, incidents if
-   you are the CMOC, or [account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations/) if you are a DRI or contributing member on an active escalation.
+1. Handle:
+   - Emergencies if you are the Support Engineer On-Call, or if the Engineer On-Call needs help
+   - Incidents if you are the CMOC
+   - [Account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations/) if you are a DRI or contributing member on an active escalation.
 1. Handle [STARred tickets](/handbook/support/internal-support/support-ticket-attention-requests.html) that are assigned to you or your group.
 1. Make sure that all new tickets in your group's view receive a meaningful
    first response within SLA
