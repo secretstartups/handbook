@@ -298,6 +298,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 |2022-12-23 23:00 UTC -> 2023-01-03 09:00 UTC | Hard | Year End Holidays (Low team member availability) |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
+| Recurring: Saturday 01:00 UTC -> Sunday 21:00 UTC | Soft       | Weekend                   |
 | 2023-04-05 -> 2023-04-10 | Hard  | Focus on corrective actions |
 
 There are 2 types of PCLs: soft and hard.
