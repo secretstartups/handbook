@@ -80,6 +80,7 @@ Below are best practices when running a roundtable:
 - Ensure questions are prepared between host and GitLab presenter beforehand to lead the conversations within the session
 - Assign notes of each delegate to list leads for upload onto SFDC
 - Pre-analysis of delegates - check to see if their organization is currently a user of GitLab, whether they’re CE or EE customers. This could be a great way to start or dig into deeper conversations with the delegate.
+- Ensure you have familiarised yourself with the [White Glove Event Follow Up process](/handbook/marketing/sales-development/#white-glove-event-follow-up-sequence-saes-included) for this type of event.
 
 ### How to operationally set up an in-person event
 
