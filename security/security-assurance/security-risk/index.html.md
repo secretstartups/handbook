@@ -93,6 +93,7 @@ DRIs are responsible for ensuring a [handbook-first approach](https://about.gitl
 |[Ongoing TPRM Assessments](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html)	|Ryan Lawson|
 |[Periodic SOX CUEC Facilitation](https://about.gitlab.com/handbook/security/security-assurance/security-risk/sox_cuec_mapping_procedure.html)	|Eric Geving|
 |[Periodic TPRM Assessments](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html)	|Eric Geving|
+|TPRM Data Quality and Emerging Requirements Management | Eric Geving |
 |[StORM Metrics and Reporting](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/#step-5-annual-storm-reports)	|Kyle Smith|
 |TPRM Metrics and Reporting	|Ryan Lawson|
 
