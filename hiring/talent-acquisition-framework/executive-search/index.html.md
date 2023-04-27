@@ -17,7 +17,7 @@ Rich Kahn - Director, Executive Search
 
 Zach Choquette - Executive Recruiter
 
-Sruthy Menon - Candidate Experience Specialist
+Sruthy Menon - Senior Candidate Experience Specialist
 
 ## Executive Search DRIs
 
