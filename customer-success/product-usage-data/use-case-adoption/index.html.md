@@ -62,6 +62,23 @@ Position as a way for the customer to get value out of the seats they've already
 | DevSecOps (Secure) | Enablement & Expansion   | For customers using our security features or who are trialing and wanting to [shift left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/), use these metrics to help identify adoption and track growth |
 | CD (Release) | Enablement & Expansion   | How much has my customer adopted GitLab for deployments? The next path along the customer journey is the [CD use case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/) |
 
+### Gainsight Scoring Overview 
+
+Gainsight uses the following ranges and defines it as Red, Yellow, or Green based on the average of the measure group:
+
+* 0 - 50 range, scores 0 - 50 are considered as Red <br>
+* 50 - 75 range, scores 51 - 75 are Yellow <br>
+* 75 - 100 range, scores 76 - 100 are Green <br>
+
+**Example:**
+![Example](https://lucid.app/publicSegments/view/b1d20410-8bbf-4717-933c-a4210aad9970/image.png)
+
+* User Deployments 62.5 (yellow)
+* Deployments per User 87.5 (green)
+* CI Pipelines 62.5 (yellow)
+
+`(62.5 + 87.5 + 62.5) / 3 = 70.83` <br>
+Overall Score for CI = `70.83` or Yellow
 
 ### Source Code Management (SCM)
 
