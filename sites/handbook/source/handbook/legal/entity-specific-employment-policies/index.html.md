@@ -13,7 +13,7 @@ description: "A directory of employment-related policies categorized by entity"
 
 ## Introduction
 
-This page will serve as a directory for our team members employed through a GitLab entity to locate employment-related policies specific to their country of residence. These policies do not supersede [GitLab Inc.'s Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d). 
+In addition to the team member policies listed on the ['People Policies' page](https://about.gitlab.com/handbook/people-policies/) of the handbook, this page will serve as a directory for our team members employed through a GitLab entity to locate employment-related policies specific to their country of residence. These policies do not supersede [GitLab Inc.'s Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d). 
 
 ## GitLab Entities
 
