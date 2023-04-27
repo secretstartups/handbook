@@ -1516,6 +1516,10 @@ To log a PTO Territory Planning request, please go to the Issue list on the SDR 
 - `SDR Pub Sec` - PubSec Sales Dev Org awareness is needed for potential support/questions in regard to events
 - `SDR West Staff Request` - Utilized when a West BDR needs to be assigned to an issue
 
+### New Outreach Sequence/Workflow creation.
+
+In an effort to better iterate, and refresh, our outreach content and workflows, we have a structured process for BDRs to create/measure new Outreach sequences. Please log [an issue here](https://gitlab.com/gitlab-com/marketing/sales-development/-/issues/new) by selecting the template `BDR_Sequence_Clone_Request`. The issue description will walk you through all the next steps.
+
 ## Making Changes to the GitLab Handbook (for BDRs and SDRs)
 
 [Video Walkthrough of how to make changes to the GitLab Handbook for the Sales Development org](https://www.youtube.com/watch?v=P7Nv7bzksiY&t=1032s)
