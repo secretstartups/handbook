@@ -73,6 +73,28 @@ New to Gitlab and looking for some IT tips and tricks? This is the spot for you,
 
 - Are you or a direct report leaving the company? Please reference the [Offboarding](/handbook/business-technology/end-user-services/offboarding/) handbook page to see the action items that you can take to create a smooth transition for you and your team.
 
+# <i class="fas fa-tasks" id="biz-tech-icons"></i> Automations
+
+## IT-Help Slack Issue Creator
+
+This automation converts Slack threads from the #it_help channel to issues in GitLab. With most IT support requests being handled in the #it_help Slack channel today, this automation will create one basic intake point with bilateral synchronization to GitLab helpdesk issues.
+
+### How to use it
+Reach out to the #it_help Slack channel as usual when assistance is needed. The automation will then create, update, and manage an issue created for the Slack thread. You will be able to communicate with the IT Analyst either via the Slack thread or in the issue created by the automation, and responses will sync in both places.
+
+### How it works
+
+The script scans the IT help Slack channel and performs the following actions:
+- Creates a new GitLab issue if a user adds an 👀 reaction to a message and the issue has not been created yet.
+- Closes the GitLab issue if a user adds a check mark (✔) reaction and the issue has been created but not closed.
+- Reopens the GitLab issue if it has been closed, but the check mark reaction is removed.
+- Adds system labels to the GitLab issue based on specific emoji reactions in the Slack channel.
+- Parses the Slack thread and adds comments to the related GitLab issue.
+- Adds comments from GitLab issue into Slack thread.
+
+To learn more on how this automation works, check the [IT-Help Slack Issue Creator wiki](https://gitlab.com/groups/gitlab-com/it/end-user-services/-/wikis/IT-Help-Slack-Issue-Creator/How-To-Use).
+{: .alert .alert-info}
+
 
 ## <i class="fas fa-rocket" id="biz-tech-icons"></i> Mission Statement
 
