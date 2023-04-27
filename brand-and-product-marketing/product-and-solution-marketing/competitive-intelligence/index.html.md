@@ -117,4 +117,4 @@ Initially we will focus on the following key competitors:
 
 Even a limited set of Use Cases and Competitors can result in several possible combinations.  To focus our efforts we will prioritize the most common combinations faced in sales situations. 
 
-[See the Solutions Marketing page](about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) for more information.  
+[See the Solutions Marketing page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) for more information.  
