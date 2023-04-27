@@ -184,7 +184,11 @@ In those cases, the DRIs may want to engage the [Internal Communications functio
 1. When discussing concepts, be careful not to lean too much into hypotheticals. There is a tipping point in which it decreases value and no longer becomes constructive at helping everyone come into a unified decision.
 1. Consult our [tips for better writing](/company/culture/all-remote/effective-communication/#tips-for-better-writing).
 
-#### Multimodal communication
+### Don't use FAQs
+
+[Avoid FAQs](/handbook/handbook-usage/#avoid-unstructured-content) (a FAQ is a list of Frequently Asked Questions), especially for internal communication. FAQs are unstructured content. They also tend to take on the voice and concerns of assumed personas. Instead of assuming questions, aim to articulate key facts as statements. These statements can be organized under topical headers, so folks can better navigate informational content. 
+
+### Multimodal communication
 
 Employ multimodal communication to broadcast important decisions. To reach our distributed organization, announce important decisions in the company announcements Slack channel, email the appropriate team email lists, Slack the appropriate channels, and target 1:1s or other important meetings on the same day, with the same information.
 
