@@ -948,7 +948,7 @@ You can also mix the GitLab.com badges with the self-managed badges. However, fo
   - For availability in the Silver and Gold tiers on GitLab.com and all tiers on self-managed, use `[core, premium, ultimate, silver, gold]` and set `gitlab_com: false`
   - For availability in the Gold tier on GitLab.com and only Premium and Ultimate tiers on self-managed, use `[premium, ultimate, gold]` and set `gitlab_com: false`
 
-From time to time a feature may be developed behind a feature flag and made [available slowly](https://docs.gitlab.com/ee/development/feature_flags/development.html#development-type) to larger audiences. If this is the case, do not include the item in the release post unless you are deliberately seeking beta testers. This may result in a feature issue being closed in a milestone earlier than it is announced.
+From time to time a feature may be developed behind a feature flag and made [available slowly](https://docs.gitlab.com/ee/development/feature_flags/#development-type) to larger audiences. If this is the case, do not include the item in the release post unless you are deliberately seeking beta testers. This may result in a feature issue being closed in a milestone earlier than it is announced.
 
 If you are deliberately seeking beta tests, include the release post as well as instructions on how to enable the feature and provide feedback.
 
