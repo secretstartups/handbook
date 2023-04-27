@@ -32,7 +32,7 @@ We work closely with leaders across GitLab to develop landing pages for learning
 2. You'd like to track what courses your team is completing
 3. You'd like a single spot to send team members who are looking for professional development courses
 
-To create new leanring hub, open an issue in the [lxp-contributions project](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions) using the `learning-hub` issue template.
+To create new learning hub, open an issue in the [lxp-contributions project](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions) using the `learning-hub` issue template.
 
 
 ### Host a Live Learning event
@@ -48,7 +48,7 @@ To host a live learning event, start by opening an issue in the Learning and Dev
 
 ### Create a new course
 
-Anyone team at GitLab is encoruaged to build new courses. Some scenarios where you might want to build a pathway include:
+Anyone team at GitLab is encouraged to build new courses. Some scenarios where you might want to build a pathway include:
 
 1. Create career development path for your team.
 1. Build a training for internal and/or external audiences on your role.
