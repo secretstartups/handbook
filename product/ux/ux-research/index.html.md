@@ -33,6 +33,7 @@ Below is a full list of our UX Research team handbook content:
 - [Strategic research at GitLab](/handbook/product/ux/ux-research/strategic-research-at-gitlab/)
 - [UX Research tools/applications](/handbook/product/ux/ux-research/research-tools/)
 - [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/)
+- [UX research in the Artifical Intelligence (AI) space](/handbook/product/ux/ux-research/research-in-the-AI-space/)
 
 ### Research methods we use at GitLab
 
