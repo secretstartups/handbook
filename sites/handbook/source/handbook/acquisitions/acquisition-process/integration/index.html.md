@@ -25,7 +25,7 @@ Examples of areas and tasks, some of which are determined by deal structure and 
 ### Communications
 
 1. It is important that the new team members know who to contact with questions and it is also important for there to be "one voice" communicating with the new team members. Pre-closing, that "one voice" is the deal lead, and post-closing it is a team comprised of the applicable team members who are the subject matter experts or leads. Using the "one voice" approach helps ensure all communications are coordinated, and the messages are consistent and timely. In the case of pre-closing and closing matters, the deal lead works, as appropriate and permissible, with the target company's CEO and other senior management in communicating with the target company employees as part of the deal announcement.
-1. The deal lead is responsible for working with the target company in connection with coordinating (as appropriate and permissible) communications and messages to the target company's customers. The timing and nature of the communications depends on the structure of the transaction and the terms related to customer communications set forth in the deal documentss.
+1. The deal lead is responsible for working with the target company in connection with coordinating (as appropriate and permissible) communications and messages to the target company's customers. The timing and nature of the communications depends on the structure of the transaction and the terms related to customer communications set forth in the deal documents.
 
 ### Strategic Objectives and Performance Tracking
 
@@ -70,7 +70,7 @@ Examples of areas and tasks, some of which are determined by deal structure and 
 
 ### People Integration
 
-1. Onboarding of target team members (as specified in the deal documents) using the GitLab onboaridng issue. 
+1. Onboarding of target team members (as specified in the deal documents) using the GitLab onboarding issue. 
 1. Ensure all new team members are on the GitLab payroll system as of Day 1, which will require contacting the payroll provider well in advance of Day 1. 
 1. Confirm with target company that the target company's employee benefits vendors are aware of the pending closing and ensure all target team members (as specified in the deal documents) timely receive information regarding benefits. All such benefits to be provided post-closing must comply with any relevant terms set forth in the acquisition agreement. 
 1. Identify any particular training courses (in addition to those in the GitLab onboarding issue) needed for the new team members. 
