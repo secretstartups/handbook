@@ -14,6 +14,8 @@ Managers at GitLab enable our mission that [everyone can contribute](/company/mi
 
 The handbook provides guidance on GitLab [leadership competencies](/handbook/competencies/#manager-and-leadership-competencies) and principles. Bringing these practices to life requires training and practice. **Elevate**, GitLab's leadership development program, provides opportunity for people leaders to learn to lead at GitLab. 
 
+At this time, Elevate is only available for current People Leaders, People Business Partners, and members of the Team Member Relations team.
+
 ### Goal
 
 In FY24, 85% of people leaders will complete Elevate and earn the GitLab Elevate certification.
