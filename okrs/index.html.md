@@ -75,6 +75,8 @@ Objectives should be:
 ### Criteria for Key Results
 
 Key Results should be: 
+1. **Iterative** - Aligned with our core value of [iteration](https://about.gitlab.com/handbook/values/#iteration), a Key Result should focus on number of iterations or steps on the way to an outcome instead of just the outcome. Deliver x iterations instead of deliver y functionality. 
+      1. For example, if we need to create a certain number of experimental and beta features to ultimately get to 1 GA feature, break the KR down into iterative pieces such as deliver 16 experimental features, 2 beta features, and 1 GA feature to highlight the iterations required to get to the end result, instead of only focusing on the end result.
 1. **Aspirational** - Ambitious but realistic stretch goals; if it feels uncomfortable, it's a good KR.
    1. If you achieve less than 70% of your KR, it may have not been achievable. If you are regularly achieving 100% of your KRs, your goals may not be ambitious enough.
 1. **Linked** - Be aligned to an Objective and be relevant to teams one level down; this alignment also allows KRs to easily roll down to become objectives one level down.
