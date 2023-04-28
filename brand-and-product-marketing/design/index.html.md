@@ -133,6 +133,10 @@ Artwork that draws inspiration from or is based on GitLab’s intellectual prope
 
 If you have questions, reach out to the Brand Design and Brand Strategy teams via the `#brand` Slack channel.
 
+#### Team member resource group (TMRG) requests
+
+We take a unique, creative approach specifically for [TMRGs](https://about.gitlab.com/company/culture/inclusion/erg-guide/#definition-of-the-tmrg---team-member-resource-groups). In lieu of custom logos for the groups, our team delivers expressive art that can be used for swag and other requested collateral. TMRGs are an essential part of our company's culture, and we tailor the graphics to capture each group's essence and values. TMRG graphics should always be paired with the GitLab logo and incorporate the TMRG name in plain text. All art should lean on the foundations of our [core branding](https://design.gitlab.com/brand/overview).
+
 ## How we work
 
 ### Brand Design team structure
