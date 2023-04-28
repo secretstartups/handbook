@@ -309,7 +309,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * Software Development
 * Toolchain
 
-## How to extend analyst asseets
+## How to extend analyst assets
 {: #extend-analyst-assets .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 At times, we will extend the rights to an asset if it is heavily used by sales or performing in campaigns. In that case the decision is indicated in the [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst).
@@ -319,7 +319,7 @@ Follow the steps outlined [in the Pathfactory Content Library Handbook](https://
 ## How to retire analyst assets when they expire
 {: #retire-analyst-assets .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be opened by the Analyst Relations DRi for each analyst asset, and related to the overarching Epic (with due date for when the asset is set to expire). When the decision is made to expire the asset, the teams involved will check off their respective action items in the issue.
+An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be opened by the Campaign Manager DRI for each analyst asset, and related to the overarching Epic (with due date for when the asset is set to expire). When the decision is made to expire the asset, the teams involved will check off their respective action items in the issue.
 
 ### Retire Marketo landing page
 {: #retire-marketo-page}
