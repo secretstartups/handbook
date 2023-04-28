@@ -197,7 +197,7 @@ If the number of employees, according to our sources based on our hierarchy as d
 
 [Territory tables](/handbook/sales/territories/) are maintained within the Sales Handbook.
 Both maps & written tables are kept up to date with all pairings and territory assignments.
-Our LeanData routing workflows and SFDC reports are based on these tables.
+Our Traction Complete routing workflows and SFDC reports are based on these tables.
 
 The Location of each account used to determine its `Sales Territory` is determined by a combination of 3rd party data systems (Zoominfo,Zuora Billing Accouunts) and manual overrides. This address is stored in "Account Address (fka Billing Address)" on the Account object in SalesForce. This field inherits data from other fields in the following priority:
 
@@ -270,11 +270,11 @@ A breakdown of lead and contact statuses can be found in the [marketing operatio
 
 Routing is determined by `Sales Segmentation`, `Region`, and `Global Account Ownership`. Routing through Lean Data when a record has no less than 30 points, this means that they have engaged with at least one piece of content or visited a high value page.
 
-#### Routing & LeanData
+#### Routing & Traction Complete
 
-**LeanData** works within the Salesforce ecosystem and is the primary tool leveraged to manage all routing workflows.
-The Marketing Operations team is responsible for ongoing management and customizations within LeanData.
-For more information see the [dedicated LeanData page](/handbook/marketing/marketing-operations/leandata).
+**Traction** works within the Salesforce ecosystem and is the primary tool leveraged to manage all routing workflows.
+The Marketing Operations team is responsible for ongoing management and customizations within Traction.
+For more information see the [dedicated Traction Complete  page](/handbook/marketing/marketing-operations/traction-lead-complete).
 
 #### Contact Requests
 
@@ -371,7 +371,7 @@ Contact Ownership follows the rules as laid out below. This contact ownership ca
 
 ### Changing Lead Ownership in Salesforce
 
-Lead ownership is set by LeanData due to specific rules based on lead status, segment and by region/territory which may include round robin. Lead ownership changes are based on role permissions. Currently a lead owner can change the lead to a new owner. If the lead is owned by a queue, ownership can be changed but should only be done if activity is going to be immediately placed on the lead and should be done as part of a specific account strategy. SDR/BDR Team Leads as well as SDR/BDR Leadership are able to change ownership of leads.
+Lead ownership is set by Traction Complete due to specific rules based on lead status, segment and by region/territory which may include round robin. Lead ownership changes are based on role permissions. Currently a lead owner can change the lead to a new owner. If the lead is owned by a queue, ownership can be changed but should only be done if activity is going to be immediately placed on the lead and should be done as part of a specific account strategy. SDR/BDR Team Leads as well as SDR/BDR Leadership are able to change ownership of leads.
 
 The majority of leads are owned by the related status queue or the sales development team.
 
@@ -426,7 +426,7 @@ It is important to note that by following this process that all contacts must me
 1. There already is a primary contact, or one of the new contacts will be the primary contact on the opportunity.
 
 
-Territories are assigned based on [Sales Segmentation](#segmentation) and routing for each type of inbound request is [through LeanData](/handbook/marketing/marketing-operations/leandata/#lead-routing-workflow).
+Territories are assigned based on [Sales Segmentation](#segmentation) and routing for each type of inbound request is [through Traction Complete](/handbook/marketing/marketing-operations/traction-lead-complete).
 
 LEAD/CONTACT Records with the `Initial Source` of `GitLab.com` are **not** to be engaged, prospected or targeted unless they have taken a handraising 'active' activity, such as `Trial - Enterprise`, `Trial - GitLab.com`, `Contact Us`, `Demo`, 'Webcast', 'Content' and/or engaged in `Web Chat`.
 
