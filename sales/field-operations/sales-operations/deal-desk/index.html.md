@@ -421,8 +421,23 @@ In addition to the step-by-step quoting guides that follow this paragraph, check
     *   Note: On the Order Form, the product being removed will display with a negative amount reflecting the credit for that product for the remainder of the subscription term.
     *   Mid-term product upgrade can only be processed via the same route to market.
 
-
 **To supplement these steps, review the [Highspot Page](https://gitlab.highspot.com/items/63c04679ce74a0ae63ca5e49) or the [RISE Course](https://rise.articulate.com/share/HzJgdaWzK1C_SwlMSCwQchgV9PbpRNvi#/) to see each step live for a New Subscription quote.**
+
+##### Mid-Term Upgrades with Reduction in Seat Count
+
+GitLab only allows customers to reduce their seat count mid-term during an upgrade if there is a positive ARR implication. Keep in mind the following licensing nuances for this scenario:
+
+When a customer upgrades mid-term and reduces their paid seat count below the max billable users count as of the upgrade date, GitLab will immediately show an overage of max billable users - new paid seat count, regardless of the prior paid seat count. This overage will be shown in the GitLab product and will be billable unless waived at the customer’s next renewal.
+
+For example:
+1. Customer had a premium license for 50 users, and had 48 max billable users as of the upgrade date.
+2. Customer upgrades to Ultimate but reduces seat count to 25.
+3. GitLab will immediately show a seat overage of 48 (max billable users during upgrade) - 25 (new paid seat count) = 23 until the next renewal (unless the customer then goes above 48 seats, in which case the overage will increase).
+4. **A True Up for the difference of 23 will be required at renewal. Consider seeking approval for a true up waiver in this scenario, during the renewal, to prevent licensing issues.**
+
+We don’t have a way today to track separately how many Ultimate seats are used after the upgrade, the max billable users calculation always looks at the full term, in this case including the time period prior to the upgrade.
+
+NOTE: this wouldn’t be a problem if the customer goes from 50 to 25 users but their max billable users was 25 or less at renewal time. It’s only a problem when they go below their current max billable users count.
 
 #### Renew Subscription Quote
 
