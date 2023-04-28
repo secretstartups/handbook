@@ -48,6 +48,20 @@ As a service bureau to a wide variety of teams, we have support functions that a
 *   Support the web team in maintaining GitLab’s marketing website [partner pages](https://about.gitlab.com/partners/)
 *   Working with Sales Ops and Marketing Ops improve attribution and reporting of [partner sourced leads (CQLs), and partner sourced opportunities](/handbook/sales/field-operations/channel-operations/). 
 
+## How We Communicate with Channel Partners
+
+Channel Marketing leverages two platforms for Partner Communications:
+
+**Partner Flash/News On Demand**
+Partners who create a profile in the [GitLab Partner Portal](https://partners.gitlab.com/) are automatically included in our broad communications and marketing announcements through our Partner Flash newsletter and custom program and marketing announcements.  This is our default method of communication.  Partners may alter their preferences, such as the frequency of communications, preferred topics and declination of receiving messages, in the My Profile section of the portal.
+
+For more information about Partner Flash/News On Demand and process to become a contributor, please see the [Channel Program Operations handbook page](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-communications).
+
+**HighSpot**
+The HighSpot platform allows our Channel Account Managers and Channel Marketing Managers to communicate a standardized message with individual Partner representatives to provide resources and assets for specific program needs or marketing opportunities.   
+
+For more information about Highspot, please see the [Highspot at GitLab handbook page](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/).
+
 ## Quarterly Planning: Field and Channel
 
 As GitLab evolves, the growth of the channel becomes a critical component to our overall strategy of growth and new logo capture.  With established teams in place, it's time to take our engagement up a level and as such, review how we partner together for proactive, and efficient engagement that results in high quality demand generation plans and delivering actionable leads for our sales teams.
