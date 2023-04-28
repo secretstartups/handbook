@@ -188,7 +188,7 @@ GitLab is 100% remote and helps to foster collaborative environments. It has bee
 * Provides collaborative and transparent CX
 
 **Weaknesses**
-* Not FedRamp authorized until FY2024
+* Not FedRAMP authorized
 * Use cases where third party integration is needed to work with Kubernetes
 * More awareness is needed for the EO/NIST story
 * Lacking messaging and marketing assets for the different verticals within the Public Sector, i.e. SLED, Civilian, Intelligence, DOD
@@ -196,8 +196,8 @@ GitLab is 100% remote and helps to foster collaborative environments. It has bee
 **Opportunities**
 * Federal government increased the 2022 budget by 11% to $10.9 billion for civilian cybersecurity actvities
 * Authorizations to grow in the sector:
-  * Will be FIPS 140-2 and RAR authorized in FY2023
-  * Will be FedRamp authorized FY2024
+  * Will be FIPS 140-2 in FY2023
+  * Will be FedRAMP authorized
 * Continue to tell the story how GitLab aligns to NIST/EO - drumbeat the market
 * Built-in container registry and Kubernetes integration for easy containerization and cloud native development
 * Enablement of Digital Transformation 
