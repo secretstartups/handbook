@@ -82,7 +82,7 @@ Responsible for supporting CAMS in specific geographies, by creating demand gene
 
 Once a plan for the quarter has been established it is imperative that the channel account manager and the field marketing manager stay in close, consistent alignment about plan execution.  The strategy is driven by the channel account manager, while the field marketing manager is responsible for executing on that strategy in partnership with various support teams, including but not limited to the channel account managers.
 
-[MDF](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/channel-marketing/#requesting-mdf-funds) 
+[MDF](https://about.gitlab.com/handbook/marketing/channel-marketing/#requesting-mdf-funds) 
 CAN and SHOULD be leveraged as much as possible when the partner is involved in an activity.  Further information about how to initiate and MDF request can be found here.
 
 ## Tracking Success:
