@@ -147,37 +147,37 @@ Always share your work for review. If you are working from an existing Canva tem
 
 ## Quick links
 
-**Logo files**
+### Logo files
 - [Press kit](https://about.gitlab.com/press/press-kit/) 
 
-**Color palette**
+### Color palette
 - [RGB swatches](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/_resources/_designer-resources/color-palettes/gitlab-primary-color-palette-hex-rgb.ase)
 - [CMYK swatches](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/_resources/_designer-resources/color-palettes/gitlab-primary-color-palette-pms-cmyk.ase)
 
-**Marketing illustrations** 
+### Marketing illustrations
 - [Illustration library](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/_resources/_designer-resources/assets/illustration-library) (internal access only)
 - [RGB swatches, secondary palette](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/_resources/_designer-resources/color-palettes/gitlab-secondary-color-palette-hex-rgb.ase)
 - [CMYK swatches - secondary palette](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/_resources/_designer-resources/color-palettes/gitlab-secondary-color-palette-pms-cmyk.ase)
 
-**Marketing icons** 
+### Marketing icons
 - [Icon library](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/_resources/_designer-resources/assets/icon-library/marketing-icons) (internal access only)
 - [Software development lifecycle](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/_resources/_designer-resources/assets/icon-library/software-development-lifecycle-icons) (internal access only)
 
-**Photography**
+### Photography
 - [Photo library](https://drive.google.com/drive/folders/1VHErs-KSNX1FIIVgXJR3OmIzwU7M4E1M?usp=sharing) (internal access only)
 - [Adobe stock](https://stock.adobe.com/)
 
-**Motion and video**
+### Motion and video
 - [Branded green screens](https://drive.google.com/drive/folders/1Fv6_e_1dgSDE5N_KuMvtDM6gdNIUgRcT?usp=sharing) (internal access only)
 
-**Templates** 
+### Templates
 - [GitLab pitch deck template](https://docs.google.com/presentation/d/1vtFnh8DU6ZZzASTHg83UrhM6LJWqo5lq9mJDAY2ILpw/edit?usp=sharing)
 - [Google Slides branded deck theme](https://about.gitlab.com/handbook/tools-and-tips/#updating-your-existing-slide-deck-theme)
 - [General templates for email assets](https://www.canva.com/folder/FAFTVmFzaI0) ([GitLab Enterprise](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#gitlab-enterprise-access) account access required)
 - [Email signature template](https://docs.google.com/document/d/1iSOYSi69R-OWqzn11GheH-IipmbhDwvc3PnVDxdHxRY/edit?usp=sharing) (Internal access only)
 - [Google Docs branded templates](https://drive.google.com/drive/folders/1U97a05txXI29pGxjOtLiG4DW-zBMHAU5?usp=sharing) (Internal access only)
 
-**Additional resources**
+### Additional resources
 - [Brand guidelines](https://design.gitlab.com/brand/overview)
 - [Brand handbook](/handbook/marketing/brand-and-product-marketing/brand/)
 - [Brand Design handbook](/handbook/marketing/brand-and-product-marketing/design/)
