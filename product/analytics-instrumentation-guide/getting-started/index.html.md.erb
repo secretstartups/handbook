@@ -64,7 +64,7 @@ Here are the main differences between these two tools:
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Example use cases</span></td>
-    <td class="tg-0pky">(1) Track how many users entered the <span style="color:#905;background-color:#DDD">Issue board</span> page <span style="font-style:italic">(Snowplow already records all page views - there's no need for adding an additional Service Ping metric for that)</span><br><br> (2) Track how many times have users clicked the "new issue" button <span style="font-style:italic">(clicking a button is a frontend-only event - it cannot be tracked with Service Ping)</span><br><br> (3) Track how many users entered the <span style="color:#905;background-color:#DDD">Pricing</span> page after checking the <span style="color:#905;background-color:#DDD">Partners</span> page <span style="font-style:italic">(Note: Snowplow is able to track </span><a href="https://about.gitlab.com/handbook/product/product-intelligence-guide/#example-user-journey" target="_blank" rel="noopener noreferrer">user journey</a><span style="font-style:italic">)</span><br><br> (4) Track how many users are viewing the handbook in Firefox <span style="font-style:italic">(Snowplow events include browser metadata - in Service Ping, we don't have access to that data)</span></td>
+    <td class="tg-0pky">(1) Track how many users entered the <span style="color:#905;background-color:#DDD">Issue board</span> page <span style="font-style:italic">(Snowplow already records all page views - there's no need for adding an additional Service Ping metric for that)</span><br><br> (2) Track how many times have users clicked the "new issue" button <span style="font-style:italic">(clicking a button is a frontend-only event - it cannot be tracked with Service Ping)</span><br><br> (3) Track how many users entered the <span style="color:#905;background-color:#DDD">Pricing</span> page after checking the <span style="color:#905;background-color:#DDD">Partners</span> page <span style="font-style:italic">(Note: Snowplow is able to track </span><a href="https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/#example-user-journey" target="_blank" rel="noopener noreferrer">user journey</a><span style="font-style:italic">)</span><br><br> (4) Track how many users are viewing the handbook in Firefox <span style="font-style:italic">(Snowplow events include browser metadata - in Service Ping, we don't have access to that data)</span></td>
     <td class="tg-0pky">(1) Track how many different labels exist on given GitLab instance <span style="font-style:italic">*(it cannot be tracked with Snowplow, because it is not an </span><span style="font-weight:bold;font-style:italic">event.</span><span style="font-style:italic"> With Snowplow, we would be able to track - for example - how many times has the label creation event happened)*</span> <br><br>(2) Track whether a GitLab instance has the Gravatar feature enabled <span style="font-style:italic">*(it cannot be tracked with Snowplow, because it is not an </span><span style="font-weight:bold;font-style:italic">event </span><span style="font-style:italic">- it's a metric specific for a given instance)*</span></td>
   </tr>
 </tbody>
@@ -192,13 +192,13 @@ You should create a [Product Analysis team issue](https://gitlab.com/gitlab-data
 
 ## How to verify tracked data
 
-After the new code has been pushed to production, it's time to verify the tracked data. Depending on the tool used, the data's [cadence](/handbook/product/product-intelligence-guide/getting-started#cadence) and [availability](/handbook/product/product-intelligence-guide/getting-started#availability) will vary.
+After the new code has been pushed to production, it's time to verify the tracked data. Depending on the tool used, the data's [cadence](/handbook/product/analytics-instrumentation-guide/getting-started#cadence) and [availability](/handbook/product/analytics-instrumentation-guide/getting-started#availability) will vary.
 
 ### Service Ping data availability
 
 New Service Ping data will only be collected from instances running the newly added code. This means that most likely, the first piece of data that you will be able to verify will come from the GitLab SaaS instance. For the first Service Ping containing deployed changes to appear in Sisense, you will need to wait this much time:
   - For the data from Gitlab SaaS instance, the data should appear in, at most, 10 days from the time the code changes have been deployed to production.
-  - For the data from self-managed instances, the timing depends on the release cycle. Check more in-depth information about the data availability in the [Analytics Instrumentation guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/#3-data-availability).
+  - For the data from self-managed instances, the timing depends on the release cycle. Check more in-depth information about the data availability in the [Analytics Instrumentation guide](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/#3-data-availability).
 
 ### Snowplow data availability
 
@@ -229,4 +229,4 @@ Please follow process outlined by the guidance for removing and changing metrics
 | [Sisense handbook page](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/#self-service-dashboard-development-2) | A guide for getting started with SiSense |
 | [Metrics dictionary](https://metrics.gitlab.com/) | A SSoT for all collected metrics from Usage Ping |
 | [dbt data tool](https://gitlab-data.gitlab.io/analytics/#!/overview) | A tool for viewing relations between databases |
-| [FAQ](https://about.gitlab.com/handbook/product/product-intelligence-guide/faq.html) | Analytics Instrumentation FAQ |
+| [FAQ](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/faq.html) | Analytics Instrumentation FAQ |
