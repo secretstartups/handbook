@@ -100,7 +100,7 @@ The Security Assurance Team may periodically engage stakeholders that are outsid
 
 ### Completing ZenGRC Questionnaires
 
-Stakeholders may be occasionally engaged to complete a ZenGRC questionnaire. Questionnaires are utilized for various reasons, such as helping to gather and collect data to establish [GitLab's Risk Appetite and Tolerance](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-appetite-and-tolerance-scoring) year over year. The Security Assurance Team utilizes the native questionnaire functionality within ZenGRC because it provides some mechanisms to automatically calaculate risk scores and thresholds based off of responses. 
+Stakeholders may be occasionally engaged to complete a ZenGRC questionnaire. Questionnaires are utilized for various reasons, such as helping to gather and collect data to establish [GitLab's Risk Appetite and Tolerance](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-appetite-and-tolerance-scoring) year over year. The Security Assurance Team utilizes the native questionnaire functionality within ZenGRC because it provides some mechanisms to automatically calculate risk scores and thresholds based off of responses. 
 
 Should any team member be engaged to complete a questionnaire from ZenGRC, an example of the email that the team member will receive can be found below.
 
