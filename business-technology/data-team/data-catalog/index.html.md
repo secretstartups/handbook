@@ -369,7 +369,7 @@ The analytics hubs provide links to the current SSOT dashboards for an area of b
 
 <summary><b>Data Guides</b></summary>
 
-* [People Analytics Guide](/handbook/people-group/people-ops-tech-analytics/people-analytics/)
+* [People Analytics Data Guide](/handbook/people-group/people-ops-tech-analytics/people-analytics/data-guide/)
 
 </details>
 
