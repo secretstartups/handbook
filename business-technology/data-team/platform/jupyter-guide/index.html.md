@@ -27,15 +27,15 @@ See related [repository](https://gitlab.com/gitlab-data/data-science)
 First, you need to install and launch [Rancher Desktop](https://rancherdesktop.io/), an open-source container manager, on your local machine.
 
 You have two options when setting up jupyter via the data-science project. Choose from one of the following:
-- **Full install (Recommended)**: Creates a [pipenv](https://pypi.org/project/pipenv/) virtual environment on your local machine, installs [Mambaforge](https://github.com/conda-forge/miniforge) and the libraries defined in this [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile) 
-- **Minimal install**: Installs **_only_** Creates a pipenv viritual environment and installs the libraries defined in this [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile). This install should be used if you already have a python environment on your local machine that you would like to use as the base imag instead of the Mambaforge version. Requires Python 3.9.
+- **Full install (Recommended)**: Creates a [`pipenv`](https://pypi.org/project/pipenv/) virtual environment on your local machine, installs [Mambaforge](https://github.com/conda-forge/miniforge) and the libraries defined in this [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile) 
+- **Minimal install**: Installs **_only_** Creates a `pipenv` virtual environment and installs the libraries defined in this [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile). This install should be used if you already have a python environment on your local machine that you would like to use as the base image instead of the Mambaforge version. Requires Python 3.9.
 
 ### Installation Instructions
 
 1. Prerequisites - before installing please make sure your system is setup with the following:
    - [Python3](https://www.python.org/)
    - [Pip3](https://pypi.org/project/pip/) (usually aliased as `pip`).
-   - [pipevn](https://pypi.org/project/pipenv/). If not installed, can be installed on the command line `pip install pipenv`.
+   - [`pipenv`](https://pypi.org/project/pipenv/). If not installed, can be installed on the command line `pip install pipenv`.
    - On certain versions of MacOS, it may be required to install Xcode Command Line Tools. From the command line, `xcode-select --install`
 1. Clone the repo to your local machine `git clone git@gitlab.com:gitlab-data/data-science.git`
 1. Navigate to the directory: `cd data-science`
@@ -65,7 +65,7 @@ From the root of the data science repo, this will find and correct and issues ac
 #### Mounting a local directory
 
 By default, the local install will use the data-science folder as the root directory for jupyter. This is not terribly useful when your code, data, and notebooks are in other repositories on your computer. To change, this you will need to create and modify a jupyter notebook config file:
-1. Open terminal and nagivate to the data-science repo, e.g. `cd repos/data-science`. The config file must be created with the pipenv we setup in the above steps: `pipenv run jupyter-lab --generate-config`. This creates the file `/Users/{your_user_name}/.jupyter/jupyter_lab_config.py`.
+1. Open terminal and nagivate to the data-science repo, e.g. `cd repos/data-science`. The config file must be created with the `pipenv` we setup in the above steps: `pipenv run jupyter-lab --generate-config`. This creates the file `/Users/{your_user_name}/.jupyter/jupyter_lab_config.py`.
 1. Browse to the file location and open it in an editor
 1. Search for the following line in the file: `#c.ServerApp.root_dir = ''` and replace with `c.ServerApp.root_dir = '/the/path/to/other/folder/'`. If unsure, set the value to your repo directory (i.e. `c.ServerApp.root_dir = '/Users/{your_user_name}/repos'`). Make sure you remove the `#` at the beginning of the line.
 1. Make sure you use forward slashes in your path. Backslashes could be used if placed in double quotes, even if folder name contains spaces as such as `\{your_user_name}\Any Folder\More Folders\`
@@ -130,9 +130,9 @@ By default, rancher will allocate a small percentage of your machine's memory to
 #### ML libraries
 
 * [Scikit-Learn](https://scikit-learn.org/stable/index.html): Suite of commonly used algorithms
-* [Autots](https://pypi.org/project/AutoTS/): Automated time series forcasting
+* [AutoTS](https://pypi.org/project/AutoTS/): Automated time series forecasting
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html) + [Optuna](https://optuna.org/): Powerful black-box method with automated hyperparameter optimization
-* [Tensorflow & Keras](https://www.tensorflow.org/api_docs/python/tf): Deep learning and neural networks
+* [Tensorflow and Keras](https://www.tensorflow.org/api_docs/python/tf): Deep learning and neural networks
 * [MLFlow](https://mlflow.org/docs/latest/index.html): Experiment tracking and model registry
 
 #### Easy concurrency

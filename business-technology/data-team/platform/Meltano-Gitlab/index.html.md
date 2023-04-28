@@ -271,7 +271,7 @@ AttributeError: 'SnowflakeDialect' object has no attribute 'driver'
 ```
 
 **Solution:** 
-The [`target-snowflake`](https://gitlab.com/meltano/target-snowflake) we are using is obsolete as it uses the old version of `snowflake-sqlachemy`. We upgraded `snowflake-sqlalchemy` library in the project, fork it and make it work. `snowflake-sqlalchemy==1.1.2` was upgraded to `snowflake-sqlalchemy==1.3.3`
+The [`target-snowflake`](https://gitlab.com/meltano/target-snowflake) we are using is obsolete as it uses the old version of `snowflake-sqlalchemy`. We upgraded `snowflake-sqlalchemy` library in the project, fork it and make it work. `snowflake-sqlalchemy==1.1.2` was upgraded to `snowflake-sqlalchemy==1.3.3`
 It is located under our new repo for target-snowflake [edcast-target-snowflake](https://gitlab.com/gitlab-data/edcast-target-snowflake)
 
 #### Incremental load

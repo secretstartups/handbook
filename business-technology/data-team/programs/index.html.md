@@ -22,7 +22,7 @@ Welcome to the **Data Programs** page. Here you'll find information about the va
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> Show-n-Tell and Demos
 
-Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfildered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
+Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfiltered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Science AMAs
 
@@ -47,7 +47,7 @@ The Data Team performs Proof of Value Evaluations (PoVs) for all new technologie
 
 ### Phase 2: Scoping & Policy Awareness
 
-1. Review the [Procurement New Software Guide](https://about.gitlab.com/handbook/finance/procurement/new-software/) to ensure you understand the lastest procurement process to follow.
+1. Review the [Procurement New Software Guide](https://about.gitlab.com/handbook/finance/procurement/new-software/) to ensure you understand the latest procurement process to follow.
 1. Execute an [NDA](https://about.gitlab.com/handbook/legal/NDA/) with each Vendor included in the Evaluation.
 1. Obtain preliminary pricing to help validate established budget. If no existing budget is established, work with the Department lead to determine if the project is feasible. Let's not waste time or energy for projects we can't fund.
 
@@ -74,7 +74,7 @@ Evaluation Design is the most complex part of the PoV.
 1. Reach out to the vendor for references to schedule a reference Calculate. In a reference call you can:
     - ask about the experience with the technology.
     - ask about their lessons learned.
-    - how we can setup for succes.
+    - ask how we can setup for success.
 
 ### Phase 6: Wrap-Up
 

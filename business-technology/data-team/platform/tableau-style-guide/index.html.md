@@ -29,11 +29,11 @@ The company branding resource site also provides excellent guidance around [data
 * [Color](https://design.gitlab.com/data-visualization/color)
 * [Charts](https://design.gitlab.com/data-visualization/charts)
 
-Please also refer to our Tableau Design folder (TBD) for files that can be used in adding branding elements to your Tableau dashboards. For [example](https://drive.google.com/file/d/1N-6fCA8WTOmNLv3D2hr_zA4fhl4zBS8p/view?usp=sharing), our logo can be added to the upper left-hand corner of our dasbhoard, above the filter section that is using our GitLab color scheme.
+Please also refer to our Tableau Design folder (TBD) for files that can be used in adding branding elements to your Tableau dashboards. For [example](https://drive.google.com/file/d/1N-6fCA8WTOmNLv3D2hr_zA4fhl4zBS8p/view?usp=sharing), our logo can be added to the upper left-hand corner of our dashboard, above the filter section that is using our GitLab color scheme.
 
 **Tableau Help**
 
-To create custom colore palettes in Tableau, you can update the Preferences.tps file with the code (below under our Standard Color Palette section) to reflect your intended color scheme.
+To create custom color palettes in Tableau, you can update the Preferences.tps file with the code (below under our Standard Color Palette section) to reflect your intended color scheme.
 
 Please refer to the below sites for more instructions from Tableau around customizing texts and colors in workbooks:
 
@@ -45,13 +45,13 @@ Please refer to the below sites for more instructions from Tableau around custom
 
 #### Pie charts
 
-Try to avoid using pie charts and use bar charts instead. The human eye is not well suited to easily grasp the difference in the sizes of the slices of the pie chart, a problem aplified with every added slice over two. If you must use pie charts, reserve them only for use cases where only two dimensional values need to be represented (although even there bar charts may be preferable).
+Try to avoid using pie charts and use bar charts instead. The human eye is not well suited to easily grasp the difference in the sizes of the slices of the pie chart, a problem amplified with every added slice over two. If you must use pie charts, reserve them only for use cases where only two dimensional values need to be represented (although even there bar charts may be preferable).
 
 For an in-depth explanation of the limitations of pie charts, please read Stephen Few's excellent [article](https://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf).
 
 ## Colors, Labels, and Data Values
 
-### Standard Color Pallete
+### Standard Color Palette
 
 GitLab's brand approved colors can be found [here](https://design.gitlab.com/data-visualization/color/). Custom palettes can be created in Tableau Desktop by following the instructions [here](https://help.tableau.com/current/pro/desktop/en-us/formatting_create_custom_colors.htm). The example below will create a palette with GitLab's brand approved colors, and a second palette with a darker shade of those colors.
 

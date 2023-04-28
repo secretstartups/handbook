@@ -24,13 +24,13 @@ You'll want to download the file similar to `R-4.2.2.pkg`. Once you've downloade
 
 ## What is RStudio?
 
-RStudio is an integrated development environment (IDE) for R that is availble in both open source and commercial editions. RStudio is developed by [Posit](https://posit.co/), a company that creates open source software for data science, scientific research, and technical communication. They are also responsible for many R resources and package development. Take a look at the resources page on the Posit website for more information, but below are just a couple of useful resources from RStudio.
+RStudio is an integrated development environment (IDE) for R that is available in both open source and commercial editions. RStudio is developed by [Posit](https://posit.co/), a company that creates open source software for data science, scientific research, and technical communication. They are also responsible for many R resources and package development. Take a look at the resources page on the Posit website for more information, but below are just a couple of useful resources from RStudio.
 
 - [Books](https://www.rstudio.com/resources/books/)
 - [Tidyverse Blog](https://www.tidyverse.org/blog/)
 - [Posit Blog](https://posit.co/blog/)
 - [RMarkdown Documents](https://rmarkdown.rstudio.com/)
-- [A ModernDive into R and the Tidyverse](https://moderndive.netlify.app/index.html) - This book is extremly helpful to beginners explaining the difference of R and RStudio and getting familiar with how to use RStudio
+- [A ModernDive into R and the Tidyverse](https://moderndive.netlify.app/index.html) - This book is extremely helpful to beginners explaining the difference of R and RStudio and getting familiar with how to use RStudio
 
 **Before you download RStudio** you must first download R. _RStudio will not run if you have not downloaded R on your machine_. 
 
@@ -45,7 +45,7 @@ Or you can just go [here](https://posit.co/download/rstudio-desktop/) and follow
 RStudio can connect to various database for production development of models or ad hoc analysis. If you want to connect to Snowflake below are some steps to accomplish this.
 
 1. First you will need install unixODBC using [homebrew](https://brew.sh/). If you have not already installed homebrew on your machine, the website will give you the commands to do so. Once homebrew is installed, unixODBC can be installed using the command:  `brew install unixodbc` 
-    - Alternativeley, iODBC can be used, but this documentation uses unixODBC as the chosen driver manager.
+    - Alternatively, iODBC can be used, but this documentation uses unixODBC as the chosen driver manager.
 
 1. This will create two configuration files, **odbcinst.ini** and **odbc.ini**.
     - **odbcinst.ini** holds the ODBC drivers information.

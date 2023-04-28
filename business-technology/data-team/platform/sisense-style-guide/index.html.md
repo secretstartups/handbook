@@ -44,7 +44,7 @@ Here is how you can create a line chart in Sisense:
 3. Determine the values fields and assign them in the Y-axis. We can choose multiple fields that will be represented by multiple lines too.
 4. If more than 1 value field is determined: Under the Series panel, you can further choose the fields to be assigned in either of the two Y-axis.
 
-We can also change the color theme by following the [Gitlab Standard Color Pallete](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisense-style-guide/#standard-color-pallete).
+We can also change the color theme by following the [Gitlab Standard Color Palette](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisense-style-guide/#standard-color-pallete).
 
 #### Bar charts
 
@@ -70,15 +70,15 @@ We can also change the color theme by following the [Gitlab Standard Color Palle
 
 #### Pie charts
 
-Try to avoid using pie charts and use bar charts instead. The human eye is not well suited to easily grasp the difference in the sizes of the slices of the pie chart, a problem aplified with every added slice over two. If you must use pie charts, reserve them only for use cases where only two dimensional values need to be represented (although even there bar charts may be preferable).
+Try to avoid using pie charts and use bar charts instead. The human eye is not well suited to easily grasp the difference in the sizes of the slices of the pie chart, a problem amplified with every added slice over two. If you must use pie charts, reserve them only for use cases where only two dimensional values need to be represented (although even there bar charts may be preferable).
 
 For an in-depth explanation of the limitations of pie charts, please read Stephen Few's excellent [article](https://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf).
 
 ## Colors, Labels, and Data Values
 
-### Standard Color Pallete
+### Standard Color Palette
 
-SiSense charts use the standard GitLab color pallete. To confirm you're using the recommended color pallette, take the following steps: 
+SiSense charts use the standard GitLab color palette. To confirm you're using the recommended color pallette, take the following steps: 
 1. Hover over a chart
 1. Click on the pencil (`Edit Chart`) icon
 1. On the right pane, confirm that the `Color Theme` is set to `Dashboard Theme (GitLab Theme)`
