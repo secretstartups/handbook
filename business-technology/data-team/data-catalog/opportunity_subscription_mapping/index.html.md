@@ -34,7 +34,7 @@ The backfill mapping process has been performed for all subscriptions created af
 - 2019-02-01 - 2021-04-11: Yellow - The above mapping has been applied for this time range. We believe this is directionally correct based on testing, but cannot assure full fidelity.
 - Beginning of Time - 2019-01-31: Red - No mapping has been applied to this data and it is known to be unreliable.
 
-Additionally, we have created a flag in `dim_subscription` to call out the data which is considered likely to have data quality issues. This is based on the backfill logic explained above. If an opportunity has been filled in based soley on `opportunity_term` or `subscription_name`, it has a higher likelyhood of being bad data, so we have created the `is_bad_mapping` flag to call out those opportunity-subscription connections which are made on loose assumptions.
+Additionally, we have created a flag in `dim_subscription` to call out the data which is considered likely to have data quality issues. This is based on the backfill logic explained above. If an opportunity has been filled in based solely on `opportunity_term` or `subscription_name`, it has a higher likelihood of being bad data, so we have created the `is_bad_mapping` flag to call out those opportunity-subscription connections which are made on loose assumptions.
 
 ## Data Quality Issue Remediation
 If you observe a problem in the opportunity-subscription, open an [intake issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/new?issue%5Bmilestone_id%5D=) with Enterprise Apps to correct the opportunity id on the subscription.

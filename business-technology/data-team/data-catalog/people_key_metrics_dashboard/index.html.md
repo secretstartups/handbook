@@ -76,7 +76,7 @@ This data model aggregates all relevant people metrics at 4 levels on a monthly 
 3. `department_breakout`
 4. `eeoc_breakout` -- this shows metrics aggregated to understand diversity metrics (i.e gender, ethnicity, region)
 
-The underlying data to create this model is accessible to team members with access to `bamboohr_analytics` role and then for more sensistive data (i.e. eeoc data and compensation) `bamboohr` role. 
+The underlying data to create this model is accessible to team members with access to `bamboohr_analytics` role and then for more sensitive data (i.e. EEOC data and compensation) `bamboohr` role. 
 
 <!-- To see all underlying data models and how they create `bamboohr_rpt_headcount_aggregation` check out the ERD -->
 

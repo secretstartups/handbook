@@ -165,8 +165,8 @@ GROUP BY 1,2
 ### Data Lineage
 
 - [dbt model lineage diagram](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.usage_ping_mart?g_v=1&g_i=%2Busage_ping_mart%2B)
-- The IP address mapping to geolocation is derived from the [free geolite2 Maxmind database](https://dev.maxmind.com/geoip/geoip2/geolite2/).
-- The location information is also derived from the Maxmind database, with the exception of the iso3 country code field which comes from the [Zuora Country CSV in the repository](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/zuora_country_geographic_region.csv).
+- The IP address mapping to geolocation is derived from the [free GeoLite2 MaxMind database](https://dev.maxmind.com/geoip/geoip2/geolite2/).
+- The location information is also derived from the MaxMind database, with the exception of the iso3 country code field which comes from the [Zuora Country CSV in the repository](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/zuora_country_geographic_region.csv).
 
 ### DBT Solution
 

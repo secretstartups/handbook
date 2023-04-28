@@ -21,7 +21,7 @@ The goal of this page:
 
 * Help you understand how to navigate through the [Pricing - Customer Discounts Dashboard](https://app.periscopedata.com/app/gitlab/768077/TD:-Pricing-Dashboard---Customer-Discounts)
 * Help you understand the data models used to create the Pricing - Customer Discounts Dashboard.
-* Have you asess your understanding by taking a certification most applicable to your role at GitLab.
+* Have you assess your understanding by taking a certification most applicable to your role at GitLab.
     * To learn more about how to use the dashboard, take the [Dashboard user certification](https://forms.gle/AbU9KgT5hQ1hZdwu8).
     * To learn more about developing Sisense dashboards, take the [Dashboard Developer certification](https://forms.gle/4ChX74yMthXAS7Ur7)
 * And overall help everyone contribute!
@@ -111,8 +111,8 @@ This mart takes into account the data models as seen in the Entity Relationship 
 <summary markdown='span'>
   Data Lineage
 </summary>
-* Data is sourced from Salesforce.com and Zuora, excluding accounts from manually managed list of <a href ="https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/zuora_excluded_accounts.csv"> zuora excluded accounts </a>
-* The dbt solution generates a dimensional model from RAW source data. Thie documentation for <a href = "https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_discount_arr">mart_discount_arr can be found here </a>, and the complete data lineages can be found at <a href = "https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_discount_arr?g_v=1&g_i=%2Bmart_discount_arr%2B"> dbt mart_discount_arr lineage chart </a>, <a href = "https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_arr?g_v=1&g_i=%2Bmart_arr%2B">dbt mart_arr lineage chart </a>
+* Data is sourced from Salesforce.com and Zuora, excluding accounts from manually managed list of <a href ="https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/zuora_excluded_accounts.csv"> Zuora excluded accounts </a>
+* The dbt solution generates a dimensional model from RAW source data. The documentation for <a href = "https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_discount_arr">mart_discount_arr can be found here </a>, and the complete data lineages can be found at <a href = "https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_discount_arr?g_v=1&g_i=%2Bmart_discount_arr%2B"> dbt mart_discount_arr lineage chart </a>, <a href = "https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_arr?g_v=1&g_i=%2Bmart_arr%2B">dbt mart_arr lineage chart </a>
 </details>
 
 <details>
