@@ -20,7 +20,7 @@ These points are a reflection of GitLab’s evolution from prioritizing our advo
 
 If you’re eager to learn more about TeamOps and fuel the success of it’s adoption in your team, there are several ways to become more involved:
 
-![GitLab TeamOps learning path](images/teamops_learning_path.png)
+![GitLab TeamOps learning path](/handbook/teamops/images/teamops_learning_path.png)
 
 ### TeamOps Learner
 
