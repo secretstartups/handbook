@@ -34,12 +34,12 @@ The [central data team](/handbook/business-technology/data-team/) serves as the 
 | Central Data Team | Israel Weeks |
 
 ## Objectives of the FACE
-- **Efficiency**: it is not uncommon for our teams to be asked similiar questions (eg how are trials converting) but it is inefficient and duplicative for each team to tackle these questions on our own.
-- **Alignment**: in cases where we are tackling similiar questions, we need alignment of the assumptions and methodology we are using to answer those questions. The FACE ensures we all deliver cohesive data stories.
+- **Efficiency**: it is not uncommon for our teams to be asked similar questions (eg how are trials converting) but it is inefficient and duplicative for each team to tackle these questions on our own.
+- **Alignment**: in cases where we are tackling similar questions, we need alignment of the assumptions and methodology we are using to answer those questions. The FACE ensures we all deliver cohesive data stories.
 - **Knowledge Share**: this forum will give us a formal venue to learn from one another as opposed waiting for organic moments of knowledge sharing.
 
 ## Outputs of the FACE
-- **Cadence**: our teams will meet at least once every month if not more. We will knowledge share, align on joint quarerly projects, and develop/prioritize joint asks we have of the central data team. We will also have fun #StaySpoke.
+- **Cadence**: our teams will meet at least once every month if not more. We will knowledge share, align on joint quarterly projects, and develop/prioritize joint asks we have of the central data team. We will also have fun #StaySpoke.
 - **Consolidated asks to central data team**: we have an opportunity to streamline, consolidate, and prioritize our asks to the central data team. We also partner with the central data team on data program-level evaluations and decisions (eg BI tooling).
 - **Subject Matter Expert Lookup**: we will develop a documented list of people and their associated areas of expertise. SME's will also be able to document their source of truth resources (eg snippets, dashboards, reports).
 - **Quarterly Projects**: we will propose and pick cross-functional projects for us to work on quarterly. This will make us all more efficient by assigning 1 DRI with 2 or more code reviewers. 
@@ -55,7 +55,7 @@ The [central data team](/handbook/business-technology/data-team/) serves as the 
 
 
 ## Working With Us
-- Slack channel: #functional_anlytics_center_of_excellence
+- Slack channel: `#functional_analytics_center_of_excellence`
 - Open an issue in our [Functional Analytics Center of Excellence](https://gitlab.com/gitlab-data/functional-analytics-center-of-excellence/) project
 - Join our biweekly meetings or monthly project turn and shares: ask in our Slack channel
 - Read our [meeting notes](https://docs.google.com/document/d/1fQ8zO1t4q_YkwatAlfSleFIG5iugQhx3pOiTxqCs4kk/edit?usp=sharing) and watch meeting recordings [access required]
