@@ -25,7 +25,7 @@ Previously, there have been a few Sisense snippets or sheets with email domain c
 
 ### How to access it
 
-The email domain classification table can be accessed in Sisense by quering the table [PROD.WORKSPACE_MARKETING.EMAIL_DOMAIN_CLASSIFICATION](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.email_domain_classification).
+The email domain classification table can be accessed in Sisense by querying the table [PROD.WORKSPACE_MARKETING.EMAIL_DOMAIN_CLASSIFICATION](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.email_domain_classification).
 
 For ease of use for team members, the email domain classification has been surfaced to [PROD.COMMON.DIM_USER](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.dim_user), the Dimensional Model table which contains information about GitLab.com users. The corresponding fields are:
 
@@ -38,7 +38,7 @@ An occurrence of a NULL value in the above fields indicates a business email dom
 
 ### Updating the Email Domain Classification table
 
-New email domains are emerging everyday, so a way to update this information is crucial. To upload the Email Domain Classification data table to our Datawarehouse we rely on the GCP Driveload process. The following steps can be used to update the Email Domain Classification data table:
+New email domains are emerging everyday, so a way to update this information is crucial. To upload the Email Domain Classification data table to our Data warehouse we rely on the GCP Driveload process. The following steps can be used to update the Email Domain Classification data table:
 
 1. Go to the [Email Domain Classification Google Drive Folder](https://drive.google.com/drive/folders/1q0f9sGqsSfFNKYVPl-cv70_ciu4l-ok1)
 2. Replace the old `email_domain_classification.csv` with the newest updated list. Make sure:
@@ -49,5 +49,5 @@ New email domains are emerging everyday, so a way to update this information is 
 
     c. The `CLASSIFICATION` column is not empty for any email domain. Preferably, the value for Classification should be one of the following: personal, personal - junkmail and  personal - freemail.
 
-3. The driveload process runs everyday and it will automatically pick up the new CSV file dropped in the GDrive folder without any further manual inputs. Only need to wait for this process to complete.
+3. The Driveload process runs everyday and it will automatically pick up the new CSV file dropped in the GDrive folder without any further manual inputs. Only need to wait for this process to complete.
  
