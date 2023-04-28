@@ -71,11 +71,11 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;}
 </style>
 <h1 id="headerformat">Data Model</h1>
 
-The [underlying data model](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_gitlab_employees_merge_request_metrics?g_v=1&g_i=%2Brpt_gitlab_employees_merge_request_metrics%2B) take into account a lot of data models beforehard, however, we try to make it easier to analyze by bringing this into 1 aggregated data model at the GitLab team member level, and then creating the aggregated level report:
+The [underlying data model](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_gitlab_employees_merge_request_metrics?g_v=1&g_i=%2Brpt_gitlab_employees_merge_request_metrics%2B) take into account a lot of data models beforehand, however, we try to make it easier to analyze by bringing this into 1 aggregated data model at the GitLab team member level, and then creating the aggregated level report:
 
 [gitlab_employees_merge_requests_xf](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_gitlab_employees_merge_request_metrics) -- shows all merge requests for GitLab Team Members, and indicates whether the merge request is accounted for in our mr rate calculation with the usage of the `is_part_of_product` field.
 
-In addition, we use [gitlab_bamboohr_employee_base](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_bamboohr_employee_base) to create our base model that breaks down employees by month and organizational attributes (i.e division, department, etc) and how long they are effective. 
+In addition, we use [`gitlab_bamboohr_employee_base`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_bamboohr_employee_base) to create our base model that breaks down employees by month and organizational attributes (i.e division, department, etc) and how long they are effective. 
 
 
 

@@ -49,7 +49,7 @@ Here is the Namespace To Workflow Relationship Diagram for a visual understandin
   * Projects can not have subsequent namespaces
   * User namespaces are found in data by Namespace_Type = 'Project' 
 
-**Ulitmate Namespace**
+**Ultimate Namespace**
   * Top-level namespace
   * Only a User or Group can be Ultimate Namespaces 
   * Subscriptions can only be associated with Ultimate Namespaces
