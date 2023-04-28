@@ -15,7 +15,7 @@ Congratulations on joining Gitlab! This page is dedicated to the IT onboarding e
 
 ## Getting Started
 
-### Laptop Setup: Macbook
+### Laptop Setup: MacBook
 
 The first time your MacBook Pro starts up, Setup Assistant walks you through the simple steps needed to start using your new Mac.
 
@@ -52,9 +52,9 @@ Tip: After setup, if you don’t see the Wi-Fi status icon in the menu bar, you 
 
 Tip: If two or more users use the same MacBook Pro, each user can add a fingerprint to Touch ID to quickly unlock, authenticate, and log in to the MacBook Pro. You can add up to three fingerprints per user account, and a total of five fingerprints for all your MacBook Pro user accounts.
 
-## Macbook Cheat Sheet 
+## MacBook Cheat Sheet 
 
-If you are new to using a Macbook or switched from another OS such as windows check out these useful shortcuts and options!
+If you are new to using a MacBook or switched from another OS such as windows check out these useful shortcuts and options!
 <details><summary>Click Here for Tips!</summary>
 
 ![mactips2.png](mactips2.png)
@@ -65,7 +65,7 @@ If you are new to using a Macbook or switched from another OS such as windows ch
 
 ### Official Apple Training
 
-Apple has official training sessions available every week! These training sessions are great if you are new to using a Macbook or want some tips and insider knowledge on using a Macbook! Please check it out [here](https://events.apple.com/content/events/pst/us/en/default.html?token=xww6uj7woR0X9A3Y9qIMRkNVdH60MurN7MAvJSY75sHQxWqaTEhMjEmalXqC7MMJuZhb5dzJ1P9mLUXaAAfCMipX6qVTaNqFY_njjpamZQfrSbMYEpe-edwBN1r5nI4t-GCxEY8&a=1&l=e)
+Apple has official training sessions available every week! These training sessions are great if you are new to using a MacBook or want some tips and insider knowledge on using a MacBook! Please check it out [here](https://events.apple.com/content/events/pst/us/en/default.html?token=xww6uj7woR0X9A3Y9qIMRkNVdH60MurN7MAvJSY75sHQxWqaTEhMjEmalXqC7MMJuZhb5dzJ1P9mLUXaAAfCMipX6qVTaNqFY_njjpamZQfrSbMYEpe-edwBN1r5nI4t-GCxEY8&a=1&l=e)
 
 ## Laptop Setup: Linux
 
@@ -75,7 +75,7 @@ Check out [this detailed page](https://about.gitlab.com/handbook/tools-and-tips/
 
 ### Endpoint Management
 
-Macbook: You are required to install Jamf on your Macbook for security and compliance reasons. Please check [this guide](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf) for assistance!
+MacBook: You are required to install Jamf on your MacBook for security and compliance reasons. Please check [this guide](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf) for assistance!
 
 Linux: Currently we do not have an endpoint management tool for Linux. However we do have [a tool](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) that we use to wipe and lock them if needed. 
 
@@ -83,10 +83,10 @@ Linux: Currently we do not have an endpoint management tool for Linux. However w
 
 It is essential to encrypt your laptops hard drive using Mac's FileVault or Linux's built in encryption. This will prevent unauthorised access of the contents in your hard drive. Please refer to our security pages to complete this. 
 
-- [Macbook Encryption](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration)
+- [MacBook Encryption](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration)
 - [Linux Encryption](https://about.gitlab.com/handbook/tools-and-tips/linux/#initial-installation)
 
 
 ## Need Help?
 
-If you need further assistance with setting up your Macbook please join our weekly onboarding call scheduled every tuesday (Check your Calendar!) or reach out to us in slack in the #it_help channel.
+If you need further assistance with setting up your MacBook please join our weekly onboarding call scheduled every Tuesday (Check your Calendar!) or reach out to us in slack in the #it_help channel.

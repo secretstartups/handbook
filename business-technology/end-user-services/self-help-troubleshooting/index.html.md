@@ -104,9 +104,9 @@ This is because the OTP function is enabled on your YubiKey. You can avoid this 
 
 If you require IT to reset your password and it requires immediate access, please reach out on the slack #it_help channel and provide as much information as possible. Password resets to sensitive systems such as your Google Workspace account and Okta. They require a Zoom call with an IT Analyst to verify that it is you before doing the reset, this is required for security purposes.
 
-### Using GMail app on phone with Okta log in
+### Using Gmail app on phone with Okta log in
 
-Please refer to our GitLab Accceptable Use Policy on [Personal Phones Mobile Phone and Tablet Usage](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage) prior to adding your GitLab GMail account to your personal device. 
+Please refer to our GitLab Acceptable Use Policy on [Personal Phones Mobile Phone and Tablet Usage](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage) prior to adding your GitLab Gmail account to your personal device. 
 
 **Please make sure you have your phone enrolled with WebAuthn in your Okta profile. Refer to [this page](https://docs.google.com/document/d/1VVEuNu7pZkNKo0ccLKy88AGonPW3ESYPG1JoFMkMts0/edit#bookmark=id.c85hcbk2nv4) for instructions**
 
