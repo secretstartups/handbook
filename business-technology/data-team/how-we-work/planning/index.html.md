@@ -24,7 +24,7 @@ Watch our [Planning Drumbeat Walkthrough Video](https://www.youtube.com/watch?v=
 The Data Team Planning Drumbeat is a pre-set sequence that happens every quarter. The Planning Drumbeat adheres to GitLab's financial year/quarter schedule and [Quarterly Objective and Key Results](https://about.gitlab.com/company/okrs/#what-are-okrs) for prioritization and alignment. The Data Team Planning calendar is as follows:
 
 ![Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/Planning_Drumbeat.png) <br>
-[link to orginal](https://docs.google.com/spreadsheets/d/1hdJqCfDPR-LqTTRBy4JEQ-MbrL-RyNHzXaMzvsGWkSQ/edit#gid=0)
+[link to original](https://docs.google.com/spreadsheets/d/1hdJqCfDPR-LqTTRBy4JEQ-MbrL-RyNHzXaMzvsGWkSQ/edit#gid=0)
 
 Milestone naming convention; Milestone FYxx-Qxx-MSxx. I.e. FY22-Q02-MS01 <br>
 LT = Leadership Team (`@rparker2`, `@iweeks`, `@dvanrooijen2`, `@mlaanen`) <br>
@@ -92,7 +92,7 @@ Data Team OKRs are managed with [GitLab Plan](https://about.gitlab.com/direction
 - helps to keep Epic and Issue description content to a manageable level
 - supports the [Rolly Bot](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#weekly-roll-up-reporting) for regular progress reporting
 
-After OKRs have been drafted and shared across the Data Team, they are shared with Business Partner stakeholders for feeedback. Once the draft process is complete, three summarized Objectives and KRs are published into the [Business Technology Group Project](https://gitlab.com/groups/gitlab-com/business-technology/) for sharing with the broader Business Technology Team, Finance Team, and company. These summarized Objectives and KRs attempt to capture the top OKRs in support of business results.
+After OKRs have been drafted and shared across the Data Team, they are shared with Business Partner stakeholders for feedback. Once the draft process is complete, three summarized Objectives and KRs are published into the [Business Technology Group Project](https://gitlab.com/groups/gitlab-com/business-technology/) for sharing with the broader Business Technology Team, Finance Team, and company. These summarized Objectives and KRs attempt to capture the top OKRs in support of business results.
 
 #### OKR Structure
 
@@ -141,7 +141,7 @@ We use a T-Shirt sizing approach for quickly sizing the work required to deliver
 
 | Size | Dedicated Person Time | Weight (issue points) | Examples | 
 | :--: | :--: | :-- | :-- |
-| XS | 1/2 Day | 1 | Update existing handbook page. #data research/response. New Trusted Data Test. Opening AR to get acces to a datasource.
+| XS | 1/2 Day | 1 | Update existing handbook page. #data research/response. New Trusted Data Test. Opening AR to get access to a data source.
 | S | 1 Day | 2-3 | New handbook page; typical triage issue. New dashboard on top of existing models. Align on data scope for new data source.
 | M | 1 Week | 5-8 | New dashboard requiring new models. New data source with Stitch or Fivetran.
 | L | 2-3 Weeks | 13 | New fact table implementation & testing. Full XMAU solution.

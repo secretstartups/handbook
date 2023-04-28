@@ -114,7 +114,7 @@ Currently, analysts and knowledge workers in the company have a few options to a
 
 What is missing from all these solutions is a governed way to enable data analytics across the company. None of the platforms currently in use have robust granular access controls, robust data modeling and data governance capabilities, or world class data visualization capabilities. Furthermore, these platforms only enable a subset of out entire team member base to be proficient analyzing data. This impacts us in the following ways:
 - Instead of democratizing data analytics, most data analytics work is put on specific team members who face an ever growing backlog of issues and risk becoming bottle necks. 
-- The lack of robust granular access controls results in increased overhead to enforce the principle of least privilige, like the need to create our [SAFE intermediate space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/#what-is-safe-data) due to the lack of row and column level permissions.
+- The lack of robust granular access controls results in increased overhead to enforce the principle of least privilege, like the need to create our [SAFE intermediate space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/#what-is-safe-data) due to the lack of row and column level permissions.
 - The lack of robust data governance capabilities in the platforms we use for analytics purposes could result in different numbers being displayed for the same metrics.
 - The lack of world class data visualization options results in less useable dashboards, as many data visualization [best practices](https://www.perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf) can't always be implemented in our current toolset.
 
@@ -173,11 +173,11 @@ We are currently running a pilot project with [PostHog](https://posthog.com) and
 ## Useful Resources
 
 ### Slack Group Name & Channels
-- @datacollaborationtriage: Group name for tagging in Slack 
-- [#bt-data-collaboration](https://gitlab.slack.com/archives/C036ADU4EH3) - Internal Data Collaboration Team
-- [#data-tableau](https://app.slack.com/client/T02592416/C03RMCEHVCP) - Tableau pilot project
-- [#product-analytics-platform](https://gitlab.slack.com/archives/C022RCEPK9V) - New Product Analytics tools
-- [#bt-data-posthog-pilot](https://gitlab.slack.com/archives/C035VQ1S153) - PostHog Implementation
-- [#gitlab-posthog-data](https://gitlab.slack.com/archives/C02QQGGG6FJ) - External Slack channel with PostHog
-- [#data-sisense-gitlab-external](https://gitlab.slack.com/archives/C02GG8C3GFK) - External channel with Sisense
-- [#ext-gitlab-tableau](https://app.slack.com/client/T02592416/C031QE95QJU) - External channel with Tableau/Salesforce
+- `@datacollaborationtriage`: Group name for tagging in Slack 
+- [`#bt-data-collaboration`](https://gitlab.slack.com/archives/C036ADU4EH3) - Internal Data Collaboration Team
+- [`#data-tableau`](https://app.slack.com/client/T02592416/C03RMCEHVCP) - Tableau pilot project
+- [`#product-analytics-platform`](https://gitlab.slack.com/archives/C022RCEPK9V) - New Product Analytics tools
+- [`#bt-data-posthog-pilot`](https://gitlab.slack.com/archives/C035VQ1S153) - PostHog Implementation
+- [`#gitlab-posthog-data`](https://gitlab.slack.com/archives/C02QQGGG6FJ) - External Slack channel with PostHog
+- [`#data-sisense-gitlab-external`](https://gitlab.slack.com/archives/C02GG8C3GFK) - External channel with Sisense
+- [`#ext-gitlab-tableau`](https://app.slack.com/client/T02592416/C031QE95QJU) - External channel with Tableau/Salesforce

@@ -45,7 +45,7 @@ Process for adding a new data source:
 | `workflow::2 - validation`  | A solution design and complete work breakdown for upcoming development will be created |
 | `workflow::3 - scheduling`  | Once a quarter the Data Team OKRs are defined. Based on workload and priorities, new data sources could be incorporated in the next quarter OKRs |
 | `workflow::4 - scheduled`   | Adding a new data source is on the list of next quarter OKRs. An epic will be created with all the work breakdown activities attached |
-| `workflow::5 - development` | Development is in progres |
+| `workflow::5 - development` | Development is in progress |
 | `workflow::6 - review`      | Development is under review |
 | `workflow::X - blocked`     | Development is blocked |
 
@@ -164,7 +164,7 @@ When extracting new data towards Snowflake;
 
 ## Monte Carlo observability
  
-When a new data source is extracted towards the `raw` layer there will be a new separate schema created for that datasource in many cases. In order to make sure the new data source is observed by Monte Carlo follow the steps outlined in [Monte Carlo permission](/handbook/business-technology/data-team/platform/monte-carlo/#note-on-dwh-permissions) handbook section.
+When a new data source is extracted towards the `raw` layer there will be a new separate schema created for that data source in many cases. In order to make sure the new data source is observed by Monte Carlo follow the steps outlined in [Monte Carlo permission](/handbook/business-technology/data-team/platform/monte-carlo/#note-on-dwh-permissions) handbook section.
 
 ## Documentation
 
