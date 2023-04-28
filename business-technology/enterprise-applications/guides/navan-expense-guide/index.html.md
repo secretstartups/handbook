@@ -533,7 +533,7 @@ If you would like to designate book or manage travel to another team member, fol
 #### Revoking Delegate Permissions
 If you no longer wish to have another team member book or manage travel on your behalf, select the `X` next to the name of the person you would like to remove. Once you have removed a delegate's access to your profile, they will receive an email notifying them of the change.
 
-**Note**: If you cannot remove a user from your list of delegates, this indicates that a Navan Epense admin has marked them as a company-wide delegate. Company-wide delegates can only be added or removed by a company administrator.
+**Note**: If you cannot remove a user from your list of delegates, this indicates that a Navan Expense admin has marked them as a company-wide delegate. Company-wide delegates can only be added or removed by a company administrator.
 {: .alert .alert-info}
 
 #### Submitting a manual expense for another user
