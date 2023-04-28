@@ -84,13 +84,13 @@ Model Percentage = Model Accuracy x Conversion Rate x Touchpoint Uniqueness Weig
 
 The Custom Attribution Model's machine learning algorithm improves as it collects more data but does not automatically adjust stage weights. To ensure GitLab is using the best model, during the first month of the fiscal year, the Marketing Operations team updates the weight of each stage. The previous weights can be seen [on this Google Sheet](https://docs.google.com/spreadsheets/d/1gE0rLgVjz04kEEaZtw763SLcKlRcq5y4/edit#gid=1524071528). 
 
-Currently the Custom Model has the following weights for each stage (updated February 14th, 2023): 
+Currently the Custom Model has the following weights for each stage (updated April 24th, 2023): 
 
-- **First Touch** - 22.6%
-- **Lead Creation** - 22.7%
-- **Opportunity Creation** - 14.7%
-- **SAO** - 10.1%
-- **Closed (Lost, Won)** - 20%
+- **First Touch** - 18.8%
+- **Lead Creation** - 18.3%
+- **Opportunity Creation** - 18.6%	
+- **SAO** - 11.5%
+- **Closed (Lost, Won)** - 22.8%
 - **Middle Touches** - 10.0%
 
 ### Online vs. Offline Touchpoints
@@ -235,7 +235,6 @@ Note: Some Online Touchpoints do not fall into a specific rule with a well-defin
 | Event.Virtual Sponsorship | Inbound Paid | Offline | A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. In |
 | Event.Webcast | Inbound Free Channels | Offline | Any webcast that is hosted and held by GitLab.                                                                                                                                                                   |
 | Event.Workshop | Inbound Free Channels | Offline | An in-person or virtual workshop where the attendees are guided through an agenda of real life use cases within GitLab.                                                                                         |
-| IQM.IQM | Outbound | Online | SDR Initial Qualifying Meeting                                                                                                                                                                                                      |
 | Organic Search.Bing | Inbound Free Channels | Online | Organic Search through Bing                                                                                                                                                                                |
 | Organic Search.Google | Inbound Free Channels | Online | Organic Search through Google                                                                                                                                                                            |
 | Organic Search.Other | Inbound Free Channels | Online | Organic Search through an unspecified search engine                                                                                                                                                       |

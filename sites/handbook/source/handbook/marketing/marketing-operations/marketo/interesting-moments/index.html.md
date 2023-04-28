@@ -20,9 +20,10 @@ Interesting Moments show in two places on records, in the Marketo Sales Insight 
 ## Common Interesting Moments
 |Interesting Moment|Description|SFDC Campaign|SDR Action|
 |-----------|--------------|------------|----------|
+|`This lead is part of a namespace that has checked to setup GitLab for Company/Team use`|Owner indicated on signup that this namespace is for company or team use. This person is a member of that namespace|n/a|no action, more of an FYI|
 |`Filled out Contact Us Form - GitLab Dedicated`|Filled out an interest form for GitLab Dedicated|[Request - GitLab Dedicated](https://gitlab.my.salesforce.com/7018X000001lp32?srPos=0&srKp=701)|No action necessary|
 |`Filled out startup application form`|Startup applicant|[FY20_Startup Application](https://gitlab.my.salesforce.com/7014M000001lkwy?srPos=0&srKp=701)|Pass to `User: Community Advocate`|
 |`HandRaise PQL - Contact Us`|Requested contact via in product [handraise](/handbook/product/product-principles/)|[Request - Hand Raise PQL](https://gitlab.my.salesforce.com/7014M000001viyX?srPos=0&srKp=701)|Follow Up|
 |`Engaged with Content Track: {{lead.PathFactory Experience Name}}, Session Engagement Time (seconds): {{lead.PathFactory Engagement Time}}`| Fast Moving Buyer alert from PathFactory |[PF - Fast Moving Buyer Alert](https://gitlab.my.salesforce.com/7014M000001derO?srPos=0&srKp=701)| No action necessary|
 |`Drift Conversation`|Took part in a Drift conversation|None|No action, already conversed via Drift|
-
+|`Created from GitLab Subscription Portal`|Lead started the web direct purchase process (may or may not be completed)|N/A|Check for duplicates with `Web Direct`|

@@ -10,38 +10,35 @@ description: "Partner Deal Registration"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Vartopia Overview
+# Vartopia Overview
 
-Vartopia is a partner lead sharing and deal registration system designed to maximize the value of [GitLab partner program](https://about.gitlab.com/handbook/resellers/) for channel partners. Partner lead sharing is part of the Prospect Module, while deal registration is part of the New Registrations and Registration Module.
+Vartopia is a partner lead sharing and deal registration system designed to maximize the value of [GitLab partner program](https://about.gitlab.com/handbook/resellers/) for channel partners. Partner lead sharing is part of the Prospects module, while deal registration is part of the New Registration and Registrations module. Watch [this video](https://youtu.be/BmmiH_ctALk) for step-by-step instructions on where partners can view, accept, reject, assign and convert leads to deal registration.
 
-## Prospects Module
+# Prospects Module
 
-### Channel Partner Lead Flow Overview
-Channel Partners can work with the Channel Marketing team to create campaigns that will be shared to the Vartopia module. The [campaign types](/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Joint GitLab and Partner Events, Self-Managed Free Trials, and MDF funded campaigns. The flow starts from Marketo > Salesforce > Traction > Vartopia.
+## Channel Partner Lead Flow Overview
+Channel Partners can work with the Channel Marketing team to create campaigns that will be shared to the Vartopia Prospects module. The [campaign types](/handbook/marketing/channel-marketing/partner-campaigns/#types-of-partner-campaigns) include Partner sponsored, MDF funded, free trial and joint partner campaign. 
+
+The flow starts from Marketo > Salesforce > Traction > Vartopia.
 
 The partner lead is: 
-1. Created in Marketo via list import or form submission,
-2. Synced SFDC via Salesforce Campaign Sync,
-3. Assigned to `Partner Queue` via Traction,
+1. Created in Marketo via list import or form submission
+2. Synced SFDC via Salesforce Campaign Sync
+3. Assigned to `Partner Queue` via Traction
 4. Added to the Prospects Module in Vartopia. 
 
-### Vartopia Sync Requirements
+## Vartopia Sync Requirements
 In order for the Partner to be able to see and action the lead in Vartopia, the SFDC record must have the following fields updated. Vartopia calls SFDC every hour looking for updates to the SFDC record.
 1. `Vartopia Partner Account` not equal to `NULL` (set by Marketo)
 1. `Prospect Share Status` = `Sending to Partner` (set by Traction)
 1. `Partner Prospect Status` = `Qualifying` (set by Traction)
 
-Once synced sucessfully between systems, the `Vartopia Transaction Id` in SFDC will update from Vartopia. If this ID is missing, the lead did not sync correctly. Make sure that the fields above are correctly populated, and if they are not, reach out to Vartopia support.
+Once synced sucessfully between systems, the `Vartopia Transaction Id` in SFDC will update from Vartopia. If this ID is missing, the lead did not sync correctly. 
 
-When assigned a lead in Vartopia, the admin will receive an email alert with information about the lead and SLAs attached to it. The `Vartopia Prospect Id` (ex. L-555555) is a unique lead number identified populated by SFDC that shows in Vartopia and SFDC. We can use this as a non-PII identifier in both systems.
-
-### Instructional How To video for partners 
-Watch [this video](https://youtu.be/BmmiH_ctALk) for step by step instructions where partners can view, accept, reject, re-assign and convert leads to deal registration.
-
-#### Vartopia Access
+### Vartopia Access
 The account in SFDC must be set to `Vartopia Partner Account: Vartopia Access = Yes` in order to be passed leads. If that field is marked false, a SFDC error will occur when `Vartopia Partner Account` tries to be set. If this error occurs, the lead will not sync from marketo to SFDC, or if they are already existing in SFDC, that field will not be populated.
 
-#### Troubleshooting Vartopia Sync
+### Troubleshooting Vartopia Sync
 When the `Prospect Share Status` shows as `Sending to Partner` and the `Vartopia Transaction ID` isn't populated after a day, this typically means there is a sync error between Vartopia and Salesforce.
 
 Here are the steps to resolve the sync fail.
@@ -50,129 +47,131 @@ Here are the steps to resolve the sync fail.
 2. `Vartopia Partner Account` associated with the partner requires a `Prospect Admin`
 3. The partner lead requires a phone number and email address
 4. `Prospect Partner Status` on the partner lead must equal `Qualifying`
-5. `Vartopia Deal Registration System Access` on the account must be `Active`
+5. `Vartopia Deal Registration System Access` on the account must be `Active`.
 
-If all these are submitted correctly, then submit a Vartopia with a list of the failed sync and it's `Vartopia Prospect Id`.
+If all these are submitted correctly, then submit a Vartopia support ticket with a list of the failed sync and its `Vartopia Prospect Id`. The `Vartopia Prospect Id` (ex. L-555555) is a unique lead number identified populated by SFDC that shows in Vartopia and SFDC. We can use this as a non-PII identifier in both systems.
 
-### Partner Recall 
+## Notifications
 
-We intend to launch the first phase of the recall process for partner leads in the “Prospects” module in the [GitLab Partner Portal](https://partners.gitlab.com/) on **April 18, 2023**. The recall process is built to be able to pull back leads that are not being actioned. 
+The `Partner Prospect Admin` will receive an email notification when leads are shared them via Vartopia. Vartopia does not offer the functionality to send alerts, thus the main workflows are built and sent from Marketo:
 
-Only partner leads acquired from fully paid initiatives generated by GitLab Inc. through joint events are subject to recall. **We will not recall leads from MDF campaigns and self-managed free trials.**
+- [Free Trial](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC33938B2ZN19)
+- [List Import](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC34955C3ZN19)
+
+## Partner Recall 
+
+The first phase of the recall process is live in the “Prospects” module in the [GitLab Partner Portal](https://partners.gitlab.com/). The recall process is built to be able to pull back leads that are not being actioned. 
+
+Only partner leads acquired from fully paid initiatives generated by GitLab Inc. through joint campaigns are subject to recall. **We will not recall leads from Partner sponsored, MDF funded and free trial campaigns.**
 
 As part of the first of three phases, partner leads older than 30 days with a `Prospect Share Status` = `Pending` implying the Channel Partner has not accepted nor rejected the lead, will be recalled.
 
 In the final phase, GitLab Inc. will allow Channel Partners a period of 5 days, starting from the day the lead is assigned in the Prospect module, to accept the lead by updating the `Prospect Share Status`. After accepting, Channel Partners will have a period of 10 days starting from the date the lead was accepted to revise the `Partner Prospect Status` before the lead is re-routed back to GitLab Inc for follow up.
 
-#### Recall Process Overview
+### Recall Process Overview
 
-- Phase 1 - recall leads created over 30 days ago (not accepted nor qualified)
+- **[🟢 NOW LIVE]** Phase 1 - recall leads created over 30 days ago (not accepted nor qualified)
 - Phase 2 - recall leads that have not been accepted after 15 days (not accepted nor qualified)
 - Phase 3 - recall leads accepted after 5 days, and not actions (not qualified) after 10 days.
 
-*Reminder: This only applies to leads acquired from joint events.*
+*Reminder: This only applies to leads acquired from joint campaigns.*
 
-#### Rules
+### Rules
 
 - At any time, a recalled lead participates in another partner campaign, they will not be reassigned to a partner.
-- At any time, a partner lea participates in multiple campaigns will be prioritized to the partner of the first campaign. 
+- At any time, a partner lead participates in multiple campaigns will be prioritized to the partner of the first campaign. 
 - At any time, a lead participates in an MDF campaign, they will not and can not be recalled.
 - Actively working leads will not shared to partners which means their `CRM Partner ID` can not be updated or should be removed. The only exception to this rule are leads who participate in an MDF campaign.
 
 
-#### FAQ - Partner Recall
+### FAQ - Partner Recall
 
-**Q:** What is Vartopia and how does it fit in the Channel Partner Lead Flow? <br>
-**A:** Vartopia is a lead-sharing module that allows the marketing team to share leads with Channel Partners. This platform is being actively used throughout multiple initiatives including MDF campaigns, joint events and self-managed free trials. When a partner lead is passed to a Channel Partner, the leads will become visible in Vartopia where the partner can choose to accept and action the lead or reject.
-
-**Note**, Channel Partners do not know what Vartopia is, they can access Vartopia, as “Prospects” in Impartner Partner Portal.
-
-**Q:** Why is this important to CAMs? Why do I need to work with the Channel Partner to see this through? <br>
+>**Q:** What is Vartopia and how does it fit in the Channel Partner Lead Flow? <br>
+**A:** Vartopia is a lead-sharing module that allows the marketing team to share leads with Channel Partners. This platform is being actively used throughout multiple initiatives including Partner sponsored, MDF funded, free trial and joint partner campaign. When a partner lead is passed to a Channel Partner, the leads will become visible in Vartopia where the partner can choose to accept and action the lead or reject.
+>
+>**Note**, Channel Partners do not know what Vartopia is, they can access Vartopia, as “Prospects” in Impartner Partner Portal.
+>
+>**Q:** Why is this important to CAMs? Why do I need to work with the Channel Partner to see this through? <br>
 **A:** As a CAM, you should be aware of the joint-marketing campaigns that the Channel Partners are involved in to drive channel pipeline. These campaigns are ran and funded by the Field Marketing team, and leads acquired from are subject to recall. CAMs need to work with Channel Partner to ensure they update their leads' `Prospect Share Status` to `Accepted` otherwise the Channel Partner will lose their leads.
-
-**Q:** Do I, as the CAM, have access to Vartopia? <br>
+>
+>**Q:** Do I, as the CAM, have access to Vartopia? <br>
 **A:** Vartopia is not available to administrator nor manufacturer, that being said, only Channel Partners will have access, and CAMs can not get access to Vartopia. You will be able to find the leads share to Partners via these Salesforce reports:
-
-- [Partner Lead Status](https://gitlab.my.salesforce.com/00O8X000008RSHg)
-- [Partner Lead Status - Lead Details](https://gitlab.my.salesforce.com/00O8X000008mlxm)
-- [Partner Contact - Status](https://gitlab.my.salesforce.com/00O8X000008RTVZ)
-- [Partner Contact - Status - Details](https://gitlab.my.salesforce.com/00O8X000008RUAN)
-
-**Q:** What’s the purpose of the recall process? <br>
-**A:** The recall process allows for GitLab Inc. to pull back leads from joint events that aren’t actioned by Channel Partners. This will also encourage Channel Partners to work on the leads as they come in. Only partner leads acquired from fully paid initiatives generated by GitLab Inc. through joint events are subject to recall. **We will not recall leads from MDF campaigns and self-managed free trials.**
-
-**Q:** Who does the partner recall process affect impact?<br>
+>
+>- [Partner Lead Status](https://gitlab.my.salesforce.com/00O8X000008RSHg)
+>- [Partner Lead Status - Lead Details](https://gitlab.my.salesforce.com/00O8X000008mlxm)
+>- [Partner Contact - Status](https://gitlab.my.salesforce.com/00O8X000008RTVZ)
+>- [Partner Contact - Status - Details](https://gitlab.my.salesforce.com/00O8X000008RUAN)
+>
+>**Q:** What’s the purpose of the recall process? <br>
+>**A:** The recall process allows for GitLab Inc. to pull back leads from joint campaigns that aren’t actioned by Channel Partners. This will also encourage Channel Partners to work on the leads as they come in. Only partner leads acquired from fully paid initiatives generated by GitLab Inc. through joint campaigns are subject to recall. **We will not recall leads from Partner sponsored, MDF funded and free trial campaigns.**
+>
+>**Q:** Who does the partner recall process affect impact?<br>
 **A:** The partner recall process affect Channel Partners as their leads will be removed from Vartopia, more specifically resellers who participate in joint-marketing campaign with GitLab Inc. This should not be a surprise to Channel Partners as this process is mentioned in their SLAs. Remind your Channel Partner to review their leads and update their `Prospect Share Status` should they wish to keep the leads in their own possession.
-
-**Q:** Which partner leads are applicable to recall?<br>
-**A:** Only partner leads acquired from fully paid initiatives generated by GitLab Inc. through joint events are subject to recall. **We will not recall leads from MDF campaigns and self-managed free trials.**
-
-**Q:** How do you know when a lead has been recalled?<br>
-**A:** A partner lead is recalled when their `Prospect Share Status` = `Recall`. After the lead is removed from Vartopia, `Prospect Share Status` will equal to `NULL` and `[Vartopia] Recall Date` will be populated with a date/time.
-
-**Q:**  What is the Prospect Share Status? <br>
-**A:** The Prospect Share Status governs the sharing of the lead and the receipt of the lead by the partner. The prospect share status has statuses that are set by both the manufacturer and the partner. [See the definition of each status.](https://about.gitlab.com/handbook/marketing/marketing-operations/vartopia/#prospect-share-status-definitions)
-
-**Q:** What is the Partner Prospect Status? <br>
-**A:** The Partner Prospect Status is updated by the partner and identifies the status of the lead as the partner works it through the sales process. [See the definition of each status.](https://about.gitlab.com/handbook/marketing/marketing-operations/vartopia/#partner-prospect-status-definitions)
-
-**Q:** What resources are available to track the leads that are recalled? <br>
+>
+>**Q:** How do you know when a lead has been recalled?<br>
+**A:** A partner lead is recalled when their `Prospect Share Status` = `Recall`. After the lead is removed from Vartopia, `Prospect Share Status` will equal to `NULL`, `[Vartopia] Recall Date` will be populated with a date/time, `Partner Recalled` = `True`.
+>
+>**Q:**  What is the Prospect Share Status? <br>
+**A:** The `Prospect Share Status` governs the sharing of the lead and the receipt of the lead by the partner. The prospect share status has statuses that are set by both the manufacturer and the partner. [See the definition of each status.](https://about.gitlab.com/handbook/marketing/marketing-operations/vartopia/#prospect-share-status-definitions)
+>
+>**Q:** What is the Partner Prospect Status? <br>
+**A:** The `Partner Prospect Status` is updated by the partner and identifies the status of the lead as the partner works it through the sales process. [See the definition of each status.](https://about.gitlab.com/handbook/marketing/marketing-operations/vartopia/#partner-prospect-status-definitions)
+>
+>**Q:** What resources are available to track the leads that are recalled? <br>
 **A:** We are a few reports you can review including:
-- [Lead - Recall](https://gitlab.my.salesforce.com/00O8X000008muTH)
-- [Contact - Recall](https://gitlab.my.salesforce.com/00O8X000008muWG)
-- [Deal Reg by Partner Account](https://gitlab.my.salesforce.com/00O8X000008mvas)
-- [Lead - Recall Actively Working Account](https://gitlab.my.salesforce.com/00O8X000008mvcA)
-- [Contact - Recall Actively Working Account](https://gitlab.my.salesforce.com/00O8X000008mvcU)
-
-**Q:** What will happen when the leads get recalled? <br>
+>- [Lead - Recall](https://gitlab.my.salesforce.com/00O8X000008muTH)
+>- [Contact - Recall](https://gitlab.my.salesforce.com/00O8X000008muWG)
+>- [Deal Reg by Partner Account](https://gitlab.my.salesforce.com/00O8X000008mvas)
+>- [Lead - Recall Actively Working Account](https://gitlab.my.salesforce.com/00O8X000008mvcA)
+>- [Contact - Recall Actively Working Account](https://gitlab.my.salesforce.com/00O8X000008mvcU)
+>
+>**Q:** What will happen when the leads get recalled? <br>
 **A:** The lead will be assigned to the `Recycle Queue`, enrolled in the nurture and their status will be changed to `Recycle`.
-
-**Q:** When will the other phases be launched? <br>
+>
+>**Q:** When will the other phases be launched? <br>
 **A:** There is presently no firm date on the other phases. We are open to feedback on changes to improve this recall process.
-
-**Q:** What does the final phase look like? <br>
+>
+>**Q:** What does the final phase look like? <br>
 **A:** As stated in the Partner SLAs, GitLab Inc. will allow Channel Partners a period of 5 days, starting from the day the lead is assigned in Vartopia, to accept the lead by updating the `Prospect Share Status`. After accepting, Channel Partners will have a period of 10 days starting from the date the lead was accepted to revise the `Partner Prospect Status` before the lead is re-routed back to GitLab Inc for follow up.
 
-### SFDC Lead/Contact Page Layout
+## SFDC Lead/Contact Page Layout
 
 To retrieve information on a specific lead or contact, you can review the `Partner Lead Sharing Information` in Salesforce where the `Vartopia Partner Account`, `Prospect Share Status`, `Partner Prospect Status` and more can be found.
 
-### Field Glossary
+## Field Glossary
 
-#### SFDC Partner Prospect Admin 
-This SFDC field in the partner account MUST be filled in or else the records will be passed to no one. 
+### Partner Prospect Admin 
+The `Partner Prospect Admin` is a role that is responsible for managing and assigning the Prospects. Each `Vartopia Partner Account` can only have one person that will fill this role.
 
-#### Prospect Share Status 
-When a prospect is ready to be shared with a partner there are 2 fields related to the sharing process. 
+This SFDC field in the `Vartopia Partner Account` MUST be filled in or else the records will be passed to no one. 
 
-The `Prospect Share Status` governs the sharing of the lead and the receipt of the lead by the partner. The prospect share status has statuses that are set by both the manufacturer and the partner.
+### Prospect Share Status 
+The `Prospect Share Status` governs the sharing of the lead and the receipt of the lead by the partner. The prospect share status has statuses that are set by both the manufacturer and the partner. Partners see this field as `Sharing Status`.
 
 1. **Sending to Partner**: This is the initial status set when sharing a lead to a partner. This status is set by GitLab.
 1. **Pending**: This is an automated status, set when the lead is synced to the partner facing system. As part of the sync flow, the system sets the status to pending in both the partner facing system and SFDC. It is visible to both the reseller and the MFG.
    a. Meaning in SFDC: Pending indicates to the MFG that the lead has been successfully shared.
    b. Meaning in partner facing system: Pending indicates to the reseller they have a new lead shared from the MFG that they now need to accept or reject.
-1. **Accepted**: Indicates the reseller has accepted the lead and intends to work the opportunity. This status is automatically updated in SFDC
-1. **Rejected**: Indicates the reseller has refused the lead. This status is automatically updated in SFDC
+1. **Accepted**: Indicates the reseller has accepted the lead and intends to work the opportunity. This status is automatically updated in SFDC.
+1. **Rejected**: Indicates the reseller has refused the lead. This status is automatically updated in SFDC.
 a. *Note: rejecting a prospect immediately removes the prospect from the resellers’ system. They no longer have any visibility to the prospect. The sync ID is cleared from the prospect record in SFDC, and the record is ready to be assigned to a new reseller. The prospect will be in Rejected and Qualifying Status. A new partner can be selected, and the Share Status set back to “Sending to Partner” to reshare the prospect. 
 1. **Recall**: Indicates the prospect is being recalled by the MFG. This is set by the MFG in SFDC. When the system syncs this will remove the prospect from the resellers view. It will also clear out the assignment fields and sync ID making the prospect ready to be shared with a different reseller. 
 a. *Note: There is no alert or notification to a reseller when a prospect is recalled.
 
-#### Partner Prospect Status
+### Partner Prospect Status
 
-The `Partner Prospect Status` is updated by the partner and identifies the status of the lead as the partner works it though the sales process.
+The `Partner Prospect Status` is updated by the partner and identifies the status of the lead as the partner works it though the sales process. Partners see this field as `Status`.
 
-1. **Qualifying**: Indicates the reseller is working on the lead.
-a. *Note: This status is initially set by the MFG when sharing the prospect.
-It is visible to both the MFG and the reseller. The prospect remains in qualifying until updated by the reseller.
+1. **Qualifying**: Indicates the reseller is working on the lead.  **Note**: This status is initially set by the MFG when sharing the prospect. It is visible to both the MFG and the reseller. The prospect remains in qualifying until updated by the reseller.
 1. **Qualified**: Indicates the reseller has engaged the prospect and determined there is a valid opportunity. The status is automatically updated in SFDC.
 1. **Disqualified**: Indicates the reseller has determined the prospect is not a valid opportunity. The status is automatically updated in SFDC.
 1. **Converted to DR**: Indicates the reseller has converted the prospect to a deal. 
 
-#### Vartopia Partner Account
+### Vartopia Partner Account
 
 `Vartopia Partner Account` is a lookup field based on the Account ID (18) in Salesforce. This field shows the partner account in which the lead is associated with via Vartopia. 
 
-#### Vartopia Timestamps
+### Vartopia Timestamps
 
 1. [Vartopia] Created Date - this field is used to collect a time and date the partner lead is created in Vartopia. This is when `Prospect Share Status` = `Pending`. 
 2. [Vartopia] Accepted Date - this field is used to collect a time and date the partner lead is accepted in Vartopia. This is when `Prospect Share Status` = `Accepted`.
@@ -180,50 +179,53 @@ It is visible to both the MFG and the reseller. The prospect remains in qualifyi
 
 **Note: The timestamps were introduced on December 15, 2022. Any status updated prior to December 15, 2022 will not have a timestamp.**
 
-### Scheduled Reports
+## Scheduled Reports
 
 Creating scheduled reports that sends to channel partners' inbox at the start of the week is the best way to stay on top of leads.
 
 Follow the steps to create a report that summarizes new leads that are assigned to `Partner Prospect Admin`.
 
-1. Log into Vartopia 
-1. Go "Prospects" view, find "Custom Reports" located on the bottom left and click "New".
+1. Log into Partner Portal
+1. Go to the "Sales" tab
+1. Click the orange button "Register Opportunities"
+1. Go "Prospects" view, find "Custom Reports" located on the top right and click "New".
 1. Create New Customer Report
    1. Update Report Name
    1. Update Advanced Filtering 
-      1. Share Status Filter - Select `Pending`
-      1. Status Filter - Select `Qualifying`
+      1. Share Status Filter
+      1. Status Filter
       1. Update Assigned User 
       1. Update the Selected Columns
    1. Update Date Filter
       1. Update Created Within (Number of days)
    2. Update Scheduling and Distribution
-      1. Frequency - Select Weekly
-      1. Day of Week - Monday
+      1. Frequency 
+      1. Day of Week
       1. Update the Distribution List
 1. Click "Save Report"
 
-### FAQ
+## FAQ
 
-**Q**: As an employee at GitLab, how do I get access to Vartopia? <br>
-**A**: Vartopia is a platform strictly for Channel Partners. An administrative account is not a feature that is currently available as part of their solution.
-
-**Q**: What type of channel partners can use Vartopia? <br>
+>**Q**: What type of channel partners can use Vartopia? <br>
 **A**: Vartopia is meant for resellers. We can't pass leads to distributors.
-
-**Q**: How do you know if a partner lead has been synced to Vartopia? <br>
+>
+>**Q**: How do you know if a partner lead has been synced to Vartopia? <br>
 **A**: When a lead is synced to Vartopia, Vartopia will created for `Vartopia Transaction ID`.
-
-**Q**: How do you tell apart a partner lead from a regular lead? <br>
+>
+>**Q**: How do you tell apart a partner lead from a regular lead? <br>
 **A**: `Partner Managed` = `True` for partner leads.
-
-**Q**: How do Channel Partners access Vartopia? <br>
-**A**: Channel Partner can access Vartopia through Impartner, the partner portal.
-
-**Q**: How many `Partner Prospect Admin` can be added to a Vartopia partner account? <br>
+>
+>**Q**: How do Channel Partners access Vartopia? <br>
+**A**: Channel Partner can access Vartopia through Impartner, the partner portal. They must log into the Partner Portal, go to the "Sales" tab, and click the orange button, "Register Opportunities".
+>
+>**Q**: How many `Partner Prospect Admin` can be added to a Vartopia partner account? <br>
 **A**: There can only be one `Partner Prospect Admin` per account.
-
-**Q**: How often does Vartopia sync to Salesforce<br>
+>
+>**Q**: How often does Vartopia sync to Salesforce<br>
 **A**: The Prospects module sync once per hour, while the Deal Registration module sync once every two hours.
+>
+>**Q**: Can you bulk update a number of selected leads in Vartopia?<br>
+**A**: When you've selected a number of leads, a button will be unlocked called "Bulk Update" where you will be able to accept, reject or assign those leads.
+
 
 
