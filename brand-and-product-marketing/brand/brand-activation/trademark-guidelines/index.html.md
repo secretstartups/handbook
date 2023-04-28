@@ -1,14 +1,19 @@
- ---
+---
 layout: handbook-page-toc
 title: "Trademark Guidelines"
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 # Trademark Guidelines
+{:.no_toc}
 
-*Date of last revision: 2022/08/03*
 
-<!-- blank line -->
-
+*Date of last revision: 2023/04/27*
 
 To protect our intellectual property rights and our reputation, we are careful about how our trademarks can be used. 
 
@@ -16,10 +21,9 @@ These Trademark Guidelines (“**Guidelines**”) apply to all trademarks of Git
 
 To request use of the Trademarks in a manner, or for a purpose, not expressly permitted in these Guidelines, including use for any purpose of the Logos, email [intellectualproperty@gitlab.com](mailto:intellectualproperty@gitlab.com).
 
-
 ### **1. Use of the Trademarks**
     
-&nbsp;&nbsp; 1.1. You can use the GitLab Name to truthfully and accurately refer to, or identify, GitLab and its products and services, including in the following instances:
+1.1. You can use the GitLab Name to truthfully and accurately refer to, or identify, GitLab and its products and services, including in the following instances:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1. To indicate if your product, service, or solution integrates, or is interoperable or compatible, with GitLab, e.g. `Issue Downloader for GitLab`, provided that doing so does not create a likelihood of confusion as to the origin of such product, service, or solution;
         
@@ -29,7 +33,7 @@ To request use of the Trademarks in a manner, or for a purpose, not expressly pe
         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.4. As part of a public subdomain solely for the purpose of serving as the URL for a self-managed GitLab instance, e.g. `gitlab.companyname.com`.
 
-&nbsp;&nbsp; 1.2. When using the GitLab Name in accordance with this section, you must:
+1.2. When using the GitLab Name in accordance with this section, you must:
         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.1. Comply with these Guidelines, and the design guidelines available at [design.gitlab.com](https://design.gitlab.com) which are incorporated into these Guidelines by reference;
 
@@ -41,11 +45,9 @@ To request use of the Trademarks in a manner, or for a purpose, not expressly pe
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.4. Correct any use of the GitLab Name inconsistent with this section promptly following notification from us, or immediately cease use of the GitLab Name.
 
-<!-- blank line -->
-
 ### **2. Prohibited Use of the Trademarks**
 
-&nbsp;&nbsp; 2.1.    Unless otherwise expressly permitted in these Guidelines, you must never:
+2.1. Unless otherwise expressly permitted in these Guidelines, you must never:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.1. Use the Trademarks in the name of your business, product, service, app, domain name, social media account, or business indicator;
 
@@ -61,22 +63,17 @@ To request use of the Trademarks in a manner, or for a purpose, not expressly pe
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.7. File any application to register terms or logos identical or similar to the Trademarks as a trademark or any other proprietary right.
 
-<!-- blank line -->
-
 ### **3. Other terms**      
 
-&nbsp;&nbsp; 3.1. GitLab Inc. retains all right, title, and interest in and to the Trademarks, and you agree never to challenge, contest, or question the validity, or GitLab Inc.’s exclusive ownership, of the Trademarks.
+3.1. GitLab Inc. retains all right, title, and interest in and to the Trademarks, and you agree never to challenge, contest, or question the validity, or GitLab Inc.’s exclusive ownership, of the Trademarks.
 
-&nbsp;&nbsp; 3.2. In the event of inconsistency between these Guidelines and the terms of any other agreement governing your relationship with GitLab Inc., or the use of the Trademarks, the provisions of such other agreement will prevail to the extent of the inconsistency.
+3.2. In the event of inconsistency between these Guidelines and the terms of any other agreement governing your relationship with GitLab Inc., or the use of the Trademarks, the provisions of such other agreement will prevail to the extent of the inconsistency.
 
-&nbsp;&nbsp; 3.3. GitLab reserves the right in its sole discretion to (i) terminate, revoke, modify, or otherwise change permission to use the Trademarks at any time and; (ii) object to any use or misuse of the Trademarks in any jurisdiction worldwide. All changes to these Guidelines are effective immediately when posted, and your continued use of the Trademarks following the posting of revised Guidelines signifies your acceptance of such revision.
-
-<!-- blank line -->
-
+3.3. GitLab reserves the right in its sole discretion to (i) terminate, revoke, modify, or otherwise change permission to use the Trademarks at any time and; (ii) object to any use or misuse of the Trademarks in any jurisdiction worldwide. All changes to these Guidelines are effective immediately when posted, and your continued use of the Trademarks following the posting of revised Guidelines signifies your acceptance of such revision.
 
 ### **4. If you spot unauthorized use of the Trademarks**
 
-&nbsp;&nbsp; If you become aware of any unauthorized use of the Trademarks, please let us know:
+If you become aware of any unauthorized use of the Trademarks, please let us know:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GitLab Team Members contact the [#legal channel](https://app.slack.com/client/T02592416/C78E74A6L) on Slack.
 
