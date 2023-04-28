@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Marketing Devopment Funds"
+title: "Marketing Development Funds"
 description: "Marketing Development Funds Overview"
 ---
 ## On this page
