@@ -13,7 +13,7 @@ description: “Zuora is an order-to-revenue SaaS platform that supports GitLab'
 {:toc .hidden-md .hidden-lg}
 
 ## Zuora
-Zuora is an order-to-revenue SaaS platform that supports GitLab's quoting, billing, collections, revenue recognition, and subscription metrics reporting processes and the back-office teams that support those processes. It is the central platform that integrates with other order-to-cash systems like CustomerDot, Salesforce, Stripe, Avalara, Snowflake, and Netsuite.
+Zuora is an order-to-revenue SaaS platform that supports GitLab's quoting, billing, collections, revenue recognition, and subscription metrics reporting processes and the back-office teams that support those processes. It is the central platform that integrates with other order-to-cash systems like CustomerDot, Salesforce, Stripe, Avalara, Snowflake, and NetSuite.
 
 The following sections summarize the key components of the Zuora platform and their relationship to the order-to-cash process.
 
@@ -88,4 +88,4 @@ Zuora Revenue is the rebrand of the RevPro product Zuora purchased to solve for 
 Zuora Revenue is the SSOT for:
 - the logic for how subscription changes are grouped and considered as a single deal
 - the logic for how price is allocated between products on the subscription or products that are inferred to be on the subscription
-- the GL parameters for ultimate recording of revenue in Netsuite
+- the GL parameters for ultimate recording of revenue in NetSuite
