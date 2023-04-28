@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "TeamOps Direction"
+description: TeamOps' general timeline, OKRs, and plans.
 canonical_path: "/handbook/teamops/direction/"
 twitter_image: "/images/opengraph/all-remote.jpg"
 twitter_image_alt: "GitLab remote team graphic"
