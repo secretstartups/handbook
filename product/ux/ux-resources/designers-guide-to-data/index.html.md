@@ -46,7 +46,7 @@ To generate reports and dashboards, we use a third party tool called [Sisense](h
 
 The data source determines the table names used in Sisense queries. We have three primary data sources that are useful from a product perspective: usage ping, product database, and Snowplow.
 
-**Our goal is to analyze product usage. NOT to track individual users**. This means on the frontend we respect browser settings of "do not track" and allow opting out of usage ping. In addition to that, the Product Intelligence team is responsible for data pseudonymization so that there no personally identifiable information saved. This [video highlights how Snowplow, usage ping, and pseudonymization work together](https://www.youtube.com/watch?v=awWhNtwuVNs).
+**Our goal is to analyze product usage. NOT to track individual users**. This means on the frontend we respect browser settings of "do not track" and allow opting out of usage ping. In addition to that, the Analytics Instrumentation team is responsible for data pseudonymization so that there no personally identifiable information saved. This [video highlights how Snowplow, usage ping, and pseudonymization work together](https://www.youtube.com/watch?v=awWhNtwuVNs).
 
 ### Overview of the data sources
 
@@ -71,7 +71,7 @@ The data source determines the table names used in Sisense queries. We have thre
 
 These visualizations will help you understand how the systems work together:
 
-- A [simplified diagram](https://about.gitlab.com/handbook/product/product-intelligence-guide/#systems-overview) showing the interactions between GitLab Inc and self-managed instances.
+- A [simplified diagram](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/#systems-overview) showing the interactions between GitLab Inc and self-managed instances.
 - A detailed diagram of the [data platform's data stack](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack).
 
 ## Examples of using data for design decisions

@@ -17,7 +17,7 @@ a customer to the flow across multiple GitLab features - and even reactivation o
 
 - Activation, Conversion, Expansion, and Adoption connect users to the existing value that GitLab already delivers by
 rapid experimentation.
-- [Product Intelligence](https://about.gitlab.com/direction/analytics/product-intelligence/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
+- [Analytics Instrumentation](https://about.gitlab.com/direction/analytics/analytics-instrumentation/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
 culture at GitLab.
 
 Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform with our customers. In order to do that, we take a zoom in and zoom out approach. We break down the entire GitLab growth model, and identify the highest ROI lever at this moment to focus on. In the [Growth direction page](https://about.gitlab.com/handbook/marketing/growth/) we outline the Growth section's long term direction and near term focus areas.
@@ -64,9 +64,9 @@ In addition to the weekly Growth meeting, Growth team members participate in the
     1. Attendees: Growth team members
     1. Goals: Discuss anything Growth engineering related.
     1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Engineering%20Weekly%22)
-1. Weekly Product Intelligence and Data Weekly Sync
-    1. Attendees: Product Intelligence and Data
-    1. Goals: Stay in-sync for work across Product Intelligence, Data Engineering, and Data Analysis.
+1. Weekly Analytics Instrumentation and Data Weekly Sync
+    1. Attendees: Analytics Instrumentation and Data
+    1. Goals: Stay in-sync for work across Analytics Instrumentation, Data Engineering, and Data Analysis.
     1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Product%20Intelligence%20and%20Data%20Sync%22)
 1. Weekly Growth & Threat Management EM
     1. Attendees: Growth & Threat Management EMs
@@ -76,9 +76,9 @@ In addition to the weekly Growth meeting, Growth team members participate in the
     1. Attendees: Growth PMs
     1. Goals: Stay in sync as a PM team, discuss PM specific issues/ideas
     1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Weekly%20Growth%20PM%20Team%20Call%22)
-1. Product Intelligence, Fulfillment, Data, Customer Success, and Sales Weekly Sync
-    1. Product Intelligence, Data, Customer Success, and Sales
-    1. Goals: Stay in-sync for work across Product Intelligence, Data, Customer Success, and Sales
+1. Analytics Instrumentation, Fulfillment, Data, Customer Success, and Sales Weekly Sync
+    1. Analytics Instrumentation, Data, Customer Success, and Sales
+    1. Goals: Stay in-sync for work across Analytics Instrumentation, Data, Customer Success, and Sales
     1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:Product%20Intelligence,%20Data,%20Customer%20Success,%20and%20Sales%20Weekly%20Sync)
 1. Monthly sync meeting with the Data team
     1. Attendees: Growth PMs and Data team
