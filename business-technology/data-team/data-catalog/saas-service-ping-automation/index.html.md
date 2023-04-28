@@ -57,9 +57,9 @@ In total, there are 4 types of Service Ping either in production or development:
 | **Criteria** | 1. Self-Managed Service Ping | 2. Manual SaaS Service Ping | 3. Automated SaaS Instance Service Ping | 4. Automated SaaS Namespace Service Ping |
 | :--- | :--- | :--- | :--- | :--- |
 | Where Run | Environment 1: A Customer's Self-Managed Instance | Environment 2: Within GitLab.com Infrastructure | Environment 3: Data Platform Infrastructure | Environment 3: Data Platform Infrastructure |
-| Run By | GitLab (Automatically) | Product Intelligence (Manually) | Airflow (Automatically) | Airflow (Automatically) |
+| Run By | GitLab (Automatically) | Analytics Instrumentation (Manually) | Airflow (Automatically) | Airflow (Automatically) |
 | Frequency | Weekly | Weekly | Weekly | Weekly |
-| Code Owner | Product Intelligence | Product Intelligence | Data Team | Data Team |
+| Code Owner | Analytics Instrumentation | Analytics Instrumentation | Data Team | Data Team |
 | Source Code | `Ruby`, `SQL` | `Ruby`, `SQL` | `Python`, `SQL`, `dbt` | `Python`, `SQL`, `dbt` |
 | Data Granularity | Instance | Instance | Instance | Namespace |
 | Development Status | Live-Production | Live-Production | In Development | Live-Production | 
@@ -237,7 +237,7 @@ Within Service Ping, there are 2 main types of metrics supported:
 
 The SQL-based metrics workflow is the most complicated flow. SQL-based metrics are actually created by a SQL query run against the Postgres SQL database of the instance. For large tables, these queries can be very long to run. An example is for example the `counts.ci_builds` metric which is running a `COUNT(*)` on the ci_builds which is one of our largest (see dbt table containing more than 1 billion rows). The goal of this module will be to run against our Snowflake database instead of the postgres SQL database of our SaaS Instance.
 
-The Product Intelligence team has created an API endpoint that enables us to retrieve all the SQL queries to run to calculate the metrics. Here is an example file.
+The Analytics Instrumentation team has created an API endpoint that enables us to retrieve all the SQL queries to run to calculate the metrics. Here is an example file.
 
 A technical documentation about the API endpoint is available on the [export service ping sql queries](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries) page.
 
@@ -338,7 +338,7 @@ More details on app with the source code should be found in the [service-ping-me
 
 Redis counters are used to record high-frequency occurrences of some arbitrary situation happening in GitLab, that do not create a permanent record in our Database, for example when a user folds or unfolds the side bar. In such cases, the backend engineer will define a name that would represent a given situation, for example navigation_sidebar_opened, and also arbitrarily decide on the moment (by adding dedicated piece of code in existing execution path) when it happens.
 
-The Product Intelligence team has created an API endpoint that allows the Data Team to retrieve all Redis metrics value at any time we want. An example of the JSON Response is available on the page [UsageDataNonSqlMetrics API](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). Note that `-3` means that the metrics is not redis so the API doesn't retrieve any value for it. Once the JSON response received, we store it in Snowflake in the table `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`. Additional technical documentation about the API endpoint [is available here](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). The table has the following columns:
+The Analytics Instrumentation team has created an API endpoint that allows the Data Team to retrieve all Redis metrics value at any time we want. An example of the JSON Response is available on the page [UsageDataNonSqlMetrics API](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). Note that `-3` means that the metrics is not redis so the API doesn't retrieve any value for it. Once the JSON response received, we store it in Snowflake in the table `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`. Additional technical documentation about the API endpoint [is available here](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). The table has the following columns:
 
 - `jsontext`: that stores all the queries run 
 - `ping_date`: date when the query got run

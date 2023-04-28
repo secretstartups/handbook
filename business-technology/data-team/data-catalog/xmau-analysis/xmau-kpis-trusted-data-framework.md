@@ -31,7 +31,7 @@ The Data Team created also this [TD xMAU Dashboard](https://app.periscopedata.co
 
 #### Next steps
 
-Currently, the alerts are sent to only one team member (Mathieu Peychet). We will need to come up with a list of users receiving the Alerts (our proposal will be to send it to Product Intelligence PM and Product Analytics Team). 
+Currently, the alerts are sent to only one team member (Mathieu Peychet). We will need to come up with a list of users receiving the Alerts (our proposal will be to send it to Analytics Instrumentation PM and Product Analytics Team). 
 
 We are also experimenting with other solutions to make this alerting system, better and smarter:
 

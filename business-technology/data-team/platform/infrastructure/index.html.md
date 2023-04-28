@@ -923,7 +923,7 @@ There are many variables and considerations that need to be evaluated when deter
 
 #### Instance Service Ping: Version App - Manual Service Ping
 
-1. **Is there backdated data:** Yes, the Product Intelligence team checks for service ping payloads from customers on a rolling 10 week basis. Therefore, it is possible to receive backdated service ping data.
+1. **Is there backdated data:** Yes, the Analytics Instrumentation team checks for service ping payloads from customers on a rolling 10 week basis. Therefore, it is possible to receive backdated service ping data.
 1. **How far back can data be backdated:** 10 weeks
 1. **Are live models eligible for incremental configuration:** Yes, the live models can be set to incremental; however, must be careful with derived models that join in a time_frame or xMAU metric mapping for example which can update for metrics. 
 1. **Are snapshot models eligible for incremental configuration:** Yes, the snapshot service ping models take a snapshot of the final xMAU report models and there is no backdated data or need to full refresh.
