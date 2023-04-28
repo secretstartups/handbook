@@ -160,6 +160,7 @@ GitLab.com's Redis, as seen from above, is mostly Redis Sentinel deployed on VMs
 | Queues | Redis Sentinel on VM | Redis Sentinel on K8s |  Reduce toil |
 | Sessions | Redis Sentinel on VM | Redis Sentinel on K8s | Reduce toil |
 
+When needed we also sometimes deal with CPU saturation by making application changes. Some of the techniques for this are discussed in [this video](https://youtu.be/qgK8TPTZllU).
 
 #### Network Architecture
 
