@@ -67,7 +67,7 @@ We deploy a Role-Based Data Access Scheme in Snowflake:
 Additional controls include:
 
 * Based on the Data Classification standard, [data is managed with Databases and Schemas](/handbook/business-technology/data-team/platform/#data-storage)
-* Every query/user/process is assigned a [pre-defiend Warehouse, or Compute Resource](/handbook/business-technology/data-team/platform/#compute-resources)
+* Every query/user/process is assigned a [pre-defined Warehouse, or Compute Resource](/handbook/business-technology/data-team/platform/#compute-resources)
 * (Passwords are rotated)[/handbook/business-technology/data-team/platform/#passwords]
 
 ### General Data Security Controls
@@ -99,7 +99,7 @@ Additional controls include:
 
 * **Data Infrastructure**: includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users.
 * **Data Warehouse Controls**: The Enterprise Data Warehouse is a Tier 1 System.
-* **Endpoint Devices**: All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1
+* **Endpoint Devices**: All Endpoints Which Have Access To The Data Warehouse are Classified as Tier 1
 
 ### Quarterly Data Health and Security Audit
 
@@ -111,18 +111,18 @@ Here is a sample checklist of activities:
  
 #### Snowflake
 - Deactivate off-boarded employees from Snowflake
-     - All Snowflake accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boarded. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. 
+     - All Snowflake accounts from GitLab team members that are off-boarded, should be deactivated from the day they are off-boarded. This activity checks for any active accounts for off-boarded GitLab team members. Subsequently any active account will be deactivated. 
 - Deactivate any account, that has not logged-in within the past 60 days from the moment of performing an audit, from Snowflake.
-     - Any named user Snowflake account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
+     - Any named user Snowflake account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provisioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
      - Validate all user accounts do not have password set.
 - Drop orphaned tables
      - Tables managed through dbt should be manually dropped when they are no longer needed or managed by dbt. This activity compared tables to the tables managed by dbt for tables that have been orphaned. Identified orphaned tables are validated as not being in use and then dropped.
 
 #### Sisense
 - Deactivate off-boarded employees from Sisense.
-     - All Sisense accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boarded. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. To compare off-boarded employees with the actual users, 2 sources needs to be combined. This is done to extract the list of users from Sisense and load this via sheetload into Snowflake. The queries and details for this proces are in the [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
+     - All Sisense accounts from GitLab team members that are off-boarded, should be deactivated from the day they are off-boarded. This activity checks for any active accounts for off-boarded GitLab team members. Subsequently any active account will be deactivated. To compare off-boarded employees with the actual users, 2 sources needs to be combined. This is done to extract the list of users from Sisense and load this via sheetload into Snowflake. The queries and details for this process are in the [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
 - Deactivate any account, that has not logged-in within the past 90 days from the moment of performing an audit, from Sisense.
-     - Any Sisense account that hasn't logged-in for more than 90 days will be deactivated. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
+     - Any Sisense account that hasn't logged-in for more than 90 days will be deactivated. If a GitLab team member wants to have access provisioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
 - Deprovision `SAFE Dashboard` Space access after 90 days not logged-in within the past 90 days from the moment of performing an audit.
      - Any GitLab Team Member with access to the `SAFE Dashboard` Space that hasn't logged-in for more than 90 days will be deprovisioned from the `SAFE Dashboard` Space. If a GitLab team member wants to have access provisioned back again, a new AR needs to be created and all approvals need to be obtained again. 
 - Check and set all refresh schedules for `Skip if unused`. This setting is contributional to make efficient use of our resources. All dashboards in all spaces should have this option set to true.   
