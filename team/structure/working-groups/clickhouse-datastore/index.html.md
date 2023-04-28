@@ -74,7 +74,7 @@ This Working Group has the following goals:
 | Facilitator DRI | Sam Goldstein | Director of Engineering, Ops |
 | Co-Facilitator | Nick Nguyen | Senior Engineering Manager, Data Stores |
 | Co-Facilitator | Nicole Williams | Senior Engineering Manager, Monitor & Runner |
-| Functional Lead - Analytics | Mikołaj Wawrzyniak | Staff Backend Engineer, Analyze:Product Intelligence |
+| Functional Lead - Analytics | Mikołaj Wawrzyniak | Staff Backend Engineer, Analytics:Analytics Instrumentation |
 | Functional Lead - Optimize | Adam Hegyi | Staff Backend Engineer, Plan:Optimize |
 | Functional Lead - ModelOps | Mon Ray| Engineering Manager, ModelOps |
 | Functional Lead - Monitor | Mat Appelman | Principal Engineer, Monitor |
@@ -85,8 +85,8 @@ This Working Group has the following goals:
 | Member | Pavel Shutsin | Senior Backend Engineer, Plan:Optimize |
 | Member | Dennis Tang | Engineering Manager, Analyze:Product Analytics |
 | Member | Max Woolf            | Senior Backend Engineer, Analyze:Product Analytics |
-| Member | Sebastian Rehm | Engineering Manager, Analytics:Product Intelligence  |
-| Member | Piotr Skorupa   | Backend Engineer, Analyze:Product Intelligence |
+| Member | Sebastian Rehm | Engineering Manager, Analytics:Analytics Instrumentation  |
+| Member | Piotr Skorupa   | Backend Engineer, Analytics:Analytics Instrumentation |
 | Member | Alex Ives | Engineering Manager, Database (PostgreSQL) |
 | Member | Brandon Labuschagne | Engineering Manager, Plam:Optimize |
 | Member | Dylan Griffith | Principal Engineer, Data Stores |
