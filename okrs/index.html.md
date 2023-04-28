@@ -260,7 +260,7 @@ We value [iteration](/handbook/values/#iteration){:data-ga-name="iteration"}{:da
 1. A KR statement exists, but the target is a placeholder. For example, "Obtain $XM in bookings in Q1"
 1. A KR is related to achievement of a new initative, and it is agreed that we should pivot in terms of scope or focus as we learn more about what we want to achieve
 
-Please note that iteration **does not** mean [changing or lowering goal posts](https://about.gitlab.com/handbook/values/12-things-that-are-not-iteration){:data-ga-name="changing or lower goal posts"}{:data-ga-location="body"}, because it looks like we can't meet what were ambitious but agreed upon key results.
+Please note that iteration **does not** mean [changing or lowering goal posts](https://about.gitlab.com/blog/2021/12/01/dont-confuse-these-twelve-shortcuts-with-iteration/){:data-ga-name="changing or lower goal posts"}{:data-ga-location="body"}, because it looks like we can't meet what were ambitious but agreed upon key results.
 
 It is better to update an objective or KR than continue to work toward a goal that is not best aligned with desired business [results](/handbook/values/#results){:data-ga-name="results"}{:data-ga-location="body"}. In instances where CEO KRs are being updated in the spirit of iteration, flag the GitLab change in the #okrs Slack channel and tag the CEO and Chief of Staff to the CEO and the CEO for approval. Approval of the change indicates that the revised goal has been agreed upon. At this point, you can also update any associated issues and epics that exist.
 
