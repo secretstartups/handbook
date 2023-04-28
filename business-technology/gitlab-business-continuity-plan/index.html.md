@@ -129,7 +129,7 @@ More details on this will be covered in the `BC plan - roles & responsibilities 
 A plan cannot be successful without restoring customer confidence. As a final step, ensure that there is a detailed vendor communication plan as part of the Business continuity preparation plan. This plan will check for all the systems and services to ensure normal operations have resumed as intended once the damage is repaired in the area. Also, include the section to check with the main service providers on restoration and access.
 
 ### Root Cause Analysis
-Any time the business continuity plan is activated, a root cause analysis should be performed to identify lessons-learned. The root cause analysis should review the trigger of the event and recommend remediations that prevent future occurences of the issue. Additionally, if opportunities for improvements in the response to the specific business continuity scenario are identified, the business continuity plan and applicable procedures should be updated to reflect those lessons learned.
+Any time the business continuity plan is activated, a root cause analysis should be performed to identify lessons-learned. The root cause analysis should review the trigger of the event and recommend remediations that prevent future occurrences of the issue. Additionally, if opportunities for improvements in the response to the specific business continuity scenario are identified, the business continuity plan and applicable procedures should be updated to reflect those lessons learned.
 
 ## Business Continuity Test
 

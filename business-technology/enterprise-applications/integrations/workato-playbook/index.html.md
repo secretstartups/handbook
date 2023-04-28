@@ -20,7 +20,7 @@ Please join [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) 
 ### How to request access?
 To get started with Workato, please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign it to @dparker or @karuna16. In the AR, please include the following details:
 
-- [ ] your orgnizational team
+- [ ] your organizational team
 - [ ] Workato environment - dev, test or prod.
 - [ ] why you require access (for production only)
 
@@ -56,7 +56,7 @@ There's a common issue the users face while using the Okta SSO app for logging i
 
 ![workato login](workato-login.png)
 
-Here's a 3-Step process to self troubleshoot the issue, if you dont remember your password or have not set earlier ever:
+Here's a 3-Step process to self troubleshoot the issue, if you don't remember your password or have not set earlier ever:
 
 1. Go to Workato users [signing page](https://app.workato.com/users/sign_in) and click forgot password.
 2. You'll receive password reset e-mail. Click the link to create/change your password.
@@ -124,7 +124,7 @@ While using Workato for building recipes, here are some basic best practices tha
     2. Another handy way to manage recipes is to use the `New recipe` prefix while building the recipe, and when you have a successful recipe, change that to the intended name and delete the trial ones. You can easily track and delete the trial ones because of the 'New recipe' pre-fix.
     3. Clones: If you clone a recipe from some other user, your recipe gets the same name as the original. Keep in mind that when the original changes you don't get notified or updated.
 
-  4. #### Adding desciptions and comments:
+  4. #### Adding descriptions and comments:
   Use in-step comments to add one-liner description to your steps to the recipe readable and understandable. Please refer the video on how to set the comments. 
 
   5. #### Setting up and managing App Connections:

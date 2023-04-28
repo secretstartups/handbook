@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Zuora Revenue to Netsuite NOT DEPLOYED  "
+title: "Zuora Revenue to NetSuite NOT DEPLOYED  "
 ---
 
 {::options parse_block_html="true" /}
@@ -18,11 +18,11 @@ title: "Zuora Revenue to Netsuite NOT DEPLOYED  "
 - Zuora Revenue (source)
 - Platypus (middleware)
 - Workato (middleware)
-- Netsuite (destination)
+- NetSuite (destination)
 
 # Summary
 
-This integration is responsible for taking Zuora Revenue Journal Entries and creating Netsuite Journal Entries. This occurs monthly at the end of the month. The integration groups and summarises journal lines into Journal Entries whereby each Entity has `n` JEs depending on the grouping of the fields `GL Account Number` and `Product Rate Plan Charge`. Each resulting entry is summarised by summing the credit lines and separately summing the debit lines.
+This integration is responsible for taking Zuora Revenue Journal Entries and creating NetSuite Journal Entries. This occurs monthly at the end of the month. The integration groups and summarises journal lines into Journal Entries whereby each Entity has `n` JEs depending on the grouping of the fields `GL Account Number` and `Product Rate Plan Charge`. Each resulting entry is summarised by summing the credit lines and separately summing the debit lines.
 
 There are issues with rounding differences and decimal place expectations between systems so we had to solve that via the solution outlined in [this issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues/115).
 
@@ -35,7 +35,7 @@ sequenceDiagram
     participant Platypus Queue
     participant Workato
     participant Zuora Revenue
-    participant Netsuite
+    participant NetSuite
 
     loop every end of month
         % First we receive a trigger from the accounting team
@@ -61,8 +61,8 @@ sequenceDiagram
 
         loop for each batch line
             Platypus ->> Workato: Resolve Class, Account and Product Rate Plan Charge
-            Workato ->> Netsuite: Resolve Class, Account and Product Rate Plan Charge
-            Netsuite -->> Workato: Results
+            Workato ->> NetSuite: Resolve Class, Account and Product Rate Plan Charge
+            NetSuite -->> Workato: Results
             Workato -->> Platypus: Results
         end
 
@@ -72,12 +72,12 @@ sequenceDiagram
         Platypus Queue ->> Platypus: On new JE Job
         activate Platypus
         Platypus ->> Workato: Create Journal Entry
-        Workato ->> Netsuite: Create Journal Entry
-        Netsuite -->> Workato: Netsuite JE ID
-        Workato -->> Platypus: Netsuite JE ID
+        Workato ->> NetSuite: Create Journal Entry
+        NetSuite -->> Workato: NetSuite JE ID
+        Workato -->> Platypus: NetSuite JE ID
         deactivate Platypus
 
-        Note over Platypus,Netsuite: Once all the Journal entries for a batch are created in Netsuite
+        Note over Platypus,NetSuite: Once all the Journal entries for a batch are created in NetSuite
         Platypus ->> Zuora Revenue: Mark batch as transferred
     end
 ```
@@ -86,7 +86,7 @@ sequenceDiagram
 
 When validation errors occur on the incoming data from Zuora revenue we will post to `#alerts_revenue-accounting-integration` slack channel which is monitored by the Accounting Team.
 
-When errors occur with issues downstream in Netsuite we will post to the `#finsys-integrations` slack channel which is monitored by the Finance Systems Administration team.
+When errors occur with issues downstream in NetSuite we will post to the `#finsys-integrations` slack channel which is monitored by the Finance Systems Administration team.
 
 # Data Model
 
@@ -97,7 +97,7 @@ erDiagram
     JOURNAL_ENTRY ||--|{ JOURNAL_LINE: Has
 ```
 
-| Zuora Revenue Field | Netsuite Field          | Canonical Field        |
+| Zuora Revenue Field | NetSuite Field          | Canonical Field        |
 | ------------------- | ----------------------- | ---------------------- |
 | id                  | Source System Reference | Batch ID               |
 | reference5          | Subsidiary              | Entity                 |
@@ -127,7 +127,7 @@ This integration handles and stores [Orange Data](https://about.gitlab.com/handb
 
 # Environments
 
-| Environment | Zuora Revenue | Platypus                                                              | Workato             | Netsuite   |
+| Environment | Zuora Revenue | Platypus                                                              | Workato             | NetSuite   |
 | ----------- | ------------- | --------------------------------------------------------------------- | ------------------- | ---------- |
 | Production  | Production    | Production                                                            | Production          | Production |
 | Staging     | TBD           | Staging                                                               | Development/Testing | Sandbox 2  |
