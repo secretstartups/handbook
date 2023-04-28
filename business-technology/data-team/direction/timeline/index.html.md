@@ -45,7 +45,7 @@ Our FY24 Direction is based around 4 Pillars of Business Impact. These Pillars a
 
 - Build Customer Journey Analytics to align all GTM teams on Customer Health and Engagement Indexes.
 - [Expand Unified Customer ID](https://docs.google.com/presentation/d/1k64KNU-QdfQfBqwTYKMRqXpgJUHMyGC3Mu-N0Q5LQdg/edit#slide=id.g148196257e6_0_0) with trusted hierarchies, customer interactions, and more complete intent and opportunity signals.
-- Expand Data Science products to increase new logo aquisition, improve expansion, and reduce churn & contraction.
+- Expand Data Science products to increase new logo acquisition, improve expansion, and reduce churn & contraction.
 - Advance Sales Excellence with Customer Zero experiences.
 
 #### 3. [Best In Class Analytics Platform](https://docs.google.com/presentation/d/1dR7FYFWIvNa2mfLkG2TsJbyVQ7UGJAyWdwMknKbAU5w)

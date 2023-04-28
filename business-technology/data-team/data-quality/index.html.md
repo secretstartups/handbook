@@ -41,7 +41,7 @@ An example of Duplicate Data is two (almost) identical customer records in a CUS
 
 The Data Quality System is composed of **Scorecards**, which help people monitor problems over time, and **Detection Rules**, which locate specific known problems with data.
 
-- **Data Quality Scorecard** - The Data Quality Scorecard is a dashboard used by Data Customers and Data Creators. The Dashboard displays the overall quality of a subject area as measured by the status of individual Detection Rules for the subject area. Specific and indepdendent Data Quality Scorecards can and will be created for specific purposes. For example, we are actively developing a "Data Quality Scorecard - Product Usage Data" and anticipate developing a separate "Data Quality Scorecard - Zuora" to measure quality of our Zuora billing system.
+- **Data Quality Scorecard** - The Data Quality Scorecard is a dashboard used by Data Customers and Data Creators. The Dashboard displays the overall quality of a subject area as measured by the status of individual Detection Rules for the subject area. Specific and independent Data Quality Scorecards can and will be created for specific purposes. For example, we are actively developing a "Data Quality Scorecard - Product Usage Data" and anticipate developing a separate "Data Quality Scorecard - Zuora" to measure quality of our Zuora billing system.
 
 - **Data Quality Detection Rule** - A Data Quality Detection Rule is a SQL-based test to check the quality of data in a field or row versus a pre-defined condition. To run a Detection Rule, data must already exist in the Enterprise Data Warehouse. Detection Rules are enumerated and only one test is expressed per SQL statement. Examples of Detection Rules are:
      - Detection Rule 1: Inaccurate Data - State Field in Account Location record
@@ -50,11 +50,11 @@ The Data Quality System is composed of **Scorecards**, which help people monitor
 
 ### Operational Process
 
-Every week, the Detection Rule “Batch” is run and output is saved in a persistent table. The persistent table includes a run date, detection rule identifier, and transaction id to enable linking to the source syste. The persistent table is the basis from which the Scorecard is generated.
+Every week, the Detection Rule “Batch” is run and output is saved in a persistent table. The persistent table includes a run date, detection rule identifier, and transaction id to enable linking to the source system. The persistent table is the basis from which the Scorecard is generated.
 
 ### Fixing Data Quality Problems
 
-**Remediation** is the process of fixing, correcting, or eliminating the quality problem. Remediation is owned by 'Data Creators', the person or team repsonsible for creating the source data. Identifying or helping to identify quality problems is the responsibility of 'Data Customers'.
+**Remediation** is the process of fixing, correcting, or eliminating the quality problem. Remediation is owned by 'Data Creators', the person or team responsible for creating the source data. Identifying or helping to identify quality problems is the responsibility of 'Data Customers'.
 
 ### Product Data Quality Scorecard
 
@@ -77,7 +77,7 @@ IF the **percentage of records passed < threshold limit** then the Status of Det
 
 Kindly note that double clicking on the data points from the **Trend Analysis Chart** will navigate/drill-down to [TD: Product Data Quality Detailed Dashboard V1.0](https://app.periscopedata.com/app/gitlab/868646/TD:-Product-Data-Quality-Detailed-Dashboard-V1.0) that provides detailed information about the data rows and aggregated counts along with the Total ARR impacted for each of the Detection Rules.
 
- - **Summarized Counts for each day** shows the Total number of processed rows for each of the Daata Quality Detection Rule along with the Number of rows that Satisfy(pass) the rule/condition and that also do not satisfy(fail) the rule/condition for each day that is tracked by the Rule Run date.
+ - **Summarized Counts for each day** shows the Total number of processed rows for each of the Data Quality Detection Rule along with the Number of rows that Satisfy(pass) the rule/condition and that also do not satisfy(fail) the rule/condition for each day that is tracked by the Rule Run date.
  
 The data on both the Dashboards - [TD: Product Data Quality Scorecard - Overview V1.0](https://app.periscopedata.com/app/gitlab/887191/TD:-Product-Data-Quality-Scorecard---Overview-V1.0) and [TD: Product Data Quality Detailed Dashboard V1.0](https://app.periscopedata.com/app/gitlab/868646/TD:-Product-Data-Quality-Detailed-Dashboard-V1.0) gets refreshed on a daily basis.
 
@@ -147,7 +147,7 @@ This dashboard captures the percentage of data availability for Product Usage Me
 
 - A table and graphical visualization representing the Product Usage Metrics, Percentage of Data Availability, Percentage of Missing Values, Data Source, Description, and Performance Indicator Type for both SaaS and Self-Managed
   - The table provides details to the above fields
-  - The bar chart visualizes metrics by highest percentage of data avaibility to lowest and by data source
+  - The bar chart visualizes metrics by highest percentage of data availability to lowest and by data source
 - Description of above fields:
   - Product Usage Metrics: Metrics relating to product usage such as count of Active User, Merge Requests, DAST Jobs
   - Percentage of Data Availability: Percentage of how many records capture this data 
@@ -155,6 +155,4 @@ This dashboard captures the percentage of data availability for Product Usage Me
   - Data Source: whether the data comes from source such as database, redis, redis_hll, or system
   - Description: Definition of the metric
   - Performance Indicator Type Flags: whether the metric IS UMAU/SMAU/GMAU/PAID GMAU. Please refer to the [xMAU Analysis page](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/) for more information
-- Refesh runs on a weekly cadence
-
-
+- Refresh runs on a weekly cadence

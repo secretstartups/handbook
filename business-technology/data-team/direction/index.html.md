@@ -19,7 +19,7 @@ title: "Data Team Direction"
 
 ## FY24 Data Strategy
 
-In November-2022 we held several cross-team sessions to help align on the GitLab data strategy for FY24. Parcipants included Finance, Marketing, Sales Strategy, and Customer Success.
+In November-2022 we held several cross-team sessions to help align on the GitLab data strategy for FY24. Participants included Finance, Marketing, Sales Strategy, and Customer Success.
 
 - [FY24 X-Functional Data & Analytics Agenda](https://docs.google.com/document/d/1mHpP2m8Af5Qr7t9RkGBtVVCjYBs6bM-GsjI23jWyJzc/edit#heading=h.roi3bqp13662)
 - [FY24 X-Functional Data & Analytics Planning Deck](https://docs.google.com/presentation/d/1UXIKCir35b9ReHBN0rpLaYAshih5gIktgr1JahUedoY/edit#slide=id.g15464c2a8e6_0_0)
@@ -34,7 +34,7 @@ Outcomes of the strategy workshops include:
 
 ## FY23 Data Strategy
 
-In November-2021 we held several cross-team sessions to help align on the GitLab data strategy for FY23. Parcipants included Growth, Finance, Marketing, Sales Strategy, and Customer Success.
+In November-2021 we held several cross-team sessions to help align on the GitLab data strategy for FY23. Participants included Growth, Finance, Marketing, Sales Strategy, and Customer Success.
 
 - [Strategy Worksheet](https://docs.google.com/spreadsheets/d/11fkA6hAGcZGrVj7Ho2LIzHk9JGukG-x77KbC9Unsj0Q/edit#gid=0)
 - [Project Team Issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/10588) 
