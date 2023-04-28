@@ -93,13 +93,7 @@ After creating the email template you can send to the references. Because there 
 
 #### Why Hiring Managers Should Check References
 
-We recorded a training on this subject here:
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/8pdf_rRihcE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-In short, hiring managers check references:
+Hiring managers check references:
  - To ensure we are hiring the right candidate.
  - To understand under what circumstances this candidate thrives vs. what circumstances frustrates them.
     - As the hiring manager, you will be the closest to the GitLab team-member and benefit most from learning about them.
