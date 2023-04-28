@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "AI UX research guidelines"
-description: "How to conduct UX research in the Aritifical Intelligence (AI) space"
+title: "How to conduct UX research in the Artifical Intelligence (AI) space"
+description: "AI UX research guidelines"
 ---
 
 ## On this page
@@ -11,7 +11,7 @@ description: "How to conduct UX research in the Aritifical Intelligence (AI) spa
 {:toc .hidden-md .hidden-lg}
 
 
-As more teams are taking part in rapid prototyping activities to innovate within the AI space, it’s natural to pause and ask yourself: _What’s the problem this aims to solve?_
+As more teams are taking part in rapid prototyping activities to innovate within the Artificial Intelligence (AI) space, it’s natural to pause and ask yourself: _What’s the problem this aims to solve?_
 
 It’s common that exciting break-through technologies lead to product innovations. However, this can result in teams presenting a technical solution that is looking for a user problem - instead of the other way around. 
 
@@ -20,7 +20,7 @@ We need to make sure to keep users’ needs (and unmet needs) in mind while inno
 The guidelines on this page aim to provide direction on how to include the user’s perspective throughout the design and development of AI solutions. 
 
 
-## UX Researcher support?
+## UX Researcher support
 
 **If you have an assigned UX Researcher in your stage:** If you need UX Research support, connect with your [assigned stage UX Researcher](/handbook/product/ux/ux-research/how-uxr-team-operates/#how-ux-researchers-are-assigned) following the [research prioritization process](/handbook/product/ux/ux-research/research-prioritization/#how-to-handle-newly-identified-research-projects). Your AI-specific research topic will be prioritized against the other research projects already identified within their stage.
 
