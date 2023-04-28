@@ -251,7 +251,7 @@ The neuroscience studies show that recognition has the largest effect on trust w
 
 #### The Return on Trust
 
-Compared with people at low-trust companies, people at high trust companies report the following according to a [study from Accenture](https://talentorganizationblog.accenture.com/financialservices/the-importance-of-building-trust-in-the-financial-services-workplace-explained-in-6-eye-opening-statistics#:~:text=People%20at%20high%2Dtrust%20companies,106%25%20more%20energy%20at%20work): 
+Compared with people at low-trust companies, people at high trust companies report the following according to a [study from Accenture](https://bankingblog.accenture.com/the-importance-of-building-trust-in-the-financial-services-workplace-explained-in-6-eye-opening-statistics): 
 
 1. 106% more energy at work
 1. 76% more engagement
