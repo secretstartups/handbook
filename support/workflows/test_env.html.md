@@ -289,7 +289,7 @@ For testing LDAP integrations with a self-managed GitLab instance, you may consi
 1. [Jumpcloud](https://jumpcloud.com/) (Free for up to 10 users).
 
 ### DNS for test instances 
-If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can buy a domain in your GCP project. Instructions for accomplishing this in GCP [are being written](https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/47#note_1369328572).
+If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can buy a domain in your GCP project. Instructions for accomplishing this in GCP can be found [here](https://cloud.google.com/domains/docs/buy-register-domain). GitLab's recommendations and policies [are being written](https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/47#note_1369328572).
 
 ## Securing Cloud Testing Environments
 
