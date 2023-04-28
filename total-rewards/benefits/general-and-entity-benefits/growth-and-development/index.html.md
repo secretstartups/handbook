@@ -168,15 +168,16 @@ Coaching Right Now is our preferred and vetted coaching partner. If for some rea
 **Description:** As GitLab expands globally, we want to support our team members where English may not be their first language. Managers are encouraged to recommend this benefit to team members whose engagement as a part of GitLab and/or performance may be improved by further developing their English language skills.
 
 Examples of English Language Courses:
-     1. [Coursera](https://www.coursera.org/browse/language-learning/learning-english) offers a wide variety of online English courses in partnership with various reputable colleges and universities, like the [Business English for Non-Native Speakers course](https://www.coursera.org/specializations/business-english-speakers) and the [Improve your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english) . Their courses range from improving your English language skills to more specialized courses that focus on English for STEM or career development.
-     2. [Cambridge C2 Exam Prep Course](https://www.kaplaninternational.com/exam-preparation-courses/cambridge-c2-exam-preparation-course) is a program to consider if preparring to take the Cambridge English Qualification. This is an internationally recognized test and qualification of English language ability. More prep course materials can be found [here](https://www.cambridgeenglish.org/exams-and-tests/proficiency/preparation/) or via [International House London](https://www.ihlondon.com/course/cambridge-c2-proficiency-online)
-     3. The [University of Texas Austin](https://global.utexas.edu/english-language-center/programs/self-paced) has multiple self-paced writing and pronounciation courses available.
-     4. [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=english) has many courses for English.
-     5. [Writing in Plain English](https://www.linkedin.com/learning/writing-in-plain-english) seems particularly well suited for improving async communication. Language learning Apps and sites can be effective tools.
-     6. [Duolingo](https://www.duolingo.com/) offers gamified way to learn English, plus other languages.
-     7.  [Memrise](https://www.memrise.com/) is helpful for vocabulary building.
-     8. [italki](https://www.italki.com/teachers/english) to find a English tutor. 1:1 instruction is often necessary for continued improvement, especially once a person has reached basic proficiency.
-     9. English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university.
+
+  * [Coursera](https://www.coursera.org/browse/language-learning/learning-english) offers a wide variety of online English courses in partnership with various reputable colleges and universities, like the [Business English for Non-Native Speakers course](https://www.coursera.org/specializations/business-english-speakers) and the [Improve your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english) . Their courses range from improving your English language skills to more specialized courses that focus on English for STEM or career development.
+  * [Cambridge C2 Exam Prep Course](https://www.kaplaninternational.com/exam-preparation-courses/cambridge-c2-exam-preparation-course) is a program to consider if preparring to take the Cambridge English Qualification. This is an internationally recognized test and qualification of English language ability. More prep course materials can be found [here](https://www.cambridgeenglish.org/exams-and-tests/proficiency/preparation/) or via [International House London](https://www.ihlondon.com/course/cambridge-c2-proficiency-online)
+  * The [University of Texas Austin](https://global.utexas.edu/english-language-center/programs/self-paced) has multiple self-paced writing and pronounciation courses available.
+  * [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=english) has many courses for English.
+  * [Writing in Plain English](https://www.linkedin.com/learning/writing-in-plain-english) seems particularly well suited for improving async communication. Language learning Apps and sites can be effective tools.
+  * [Duolingo](https://www.duolingo.com/) offers gamified way to learn English, plus other languages.
+  *  [Memrise](https://www.memrise.com/) is helpful for vocabulary building.
+  * [italki](https://www.italki.com/teachers/english) to find a English tutor. 1:1 instruction is often necessary for continued improvement, especially once a person has reached basic proficiency.
+  * English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university.
 
 **Eligibility for Reimbursement:** Courses offered in-person or online by a credential college or university or an English language school are eligible for reimbursement. Invoice/receipt when submitting through Navan Expense.
 
