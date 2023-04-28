@@ -40,7 +40,7 @@ To request access to Zip:
 
 
 
-2. Once you are provisioned acces, Login to your [Okta home page](https://gitlab.okta.com/app/UserHome)
+2. Once you are provisioned access, Login to your [Okta home page](https://gitlab.okta.com/app/UserHome)
 3. Find the `Zip` tile.
 - _Zip should open in a new tab with your user logged in._
 - _The Zip  main page should look like the one below._

@@ -57,7 +57,7 @@ It is the Submitters responsibility to ensure all required information and appro
 - Add the specific date of when the new SKU is expected to be used.
 
 **How is the proposed SKU (meant to be) sold to Customers**
-- Select `Self-serve` if the customer can purchase the proposed SKU without having assistance from the sales team. (Fullfillment Approval required in Section 2).
+- Select `Self-serve` if the customer can purchase the proposed SKU without having assistance from the sales team. (Fulfillment Approval required in Section 2).
 - Select `Sales-assisted (SFDC Quote)` if the customer will need to go through the sales team to purchase the proposed SKU.
 
 **Product/Service Type for Quoting**
@@ -89,7 +89,7 @@ It is the Submitters responsibility to ensure all required information and appro
 **List Price**
 - Add the dollar amount price of the SKU. If a unit of measure is associated to this SKU, explain the dollar amount per UOM (Example: _$250/seat/quarter_)
 
-In the issue template, three asteriks (***) next to sections in Step 1 are considered a "non-standard" configuration request and require additional Cross-functional approvals in Step 2.
+In the issue template, three asterisks (***) next to sections in Step 1 are considered a "non-standard" configuration request and require additional Cross-functional approvals in Step 2.
 {: .alert .alert-warning}
 
 ### Step 2. Cross-functional Approval For Pricing and Non-Standard Requests
@@ -114,11 +114,11 @@ In the issue template, three asteriks (***) next to sections in Step 1 are consi
 {: .panel-heading}
 <div class="panel-body">
 
-- Once all required cross-functional approvals are obtained, appropiately assign the issue as described in Step 3 of the issue template to obtain Finance approvals:
+- Once all required cross-functional approvals are obtained, appropriately assign the issue as described in Step 3 of the issue template to obtain Finance approvals:
    - For **Finance**, assign the issue to the `Senior Director of Revenue Accounting`
    - For **Revenue/Billing**, assign the issue to the `Senior Manager of Revenue Accounting` for input on the Invoicing, Revenue, and Custom Fields sections
    - For **Tax**, assign the issue to the `VP of Tax` for input on the Taxation section and confirm if these professional services are used to support the self-managed (SM) software, SaaS or both
-- Once Finance approvals are obtained, send a request in the appropiate slack channel as described in Step 4 the issue template to obtain Management approvals:
+- Once Finance approvals are obtained, send a request in the appropriate slack channel as described in Step 4 the issue template to obtain Management approvals:
    - For **Professional Services Management Approval**, tag either the `Senior Director of Education Services` or the `Director of Professional Services` in #professional-services
    - For **Finance Management Approval**, tag the `Chief Financial Officer` in #cfo-approvals
    - For **Sales Management Approval**, tag the following individuals:
@@ -152,7 +152,7 @@ It is the Submitters responsibility to ensure all required information and appro
 - Add the specific date of when the new SKU is expected to be used.
 
 **How is the proposed SKU (meant to be) sold to Customers**
-- Select `Self-serve` if the customer can purchase the proposed SKU without having assistance from the sales team. (Fullfillment Approval required in Section 2).
+- Select `Self-serve` if the customer can purchase the proposed SKU without having assistance from the sales team. (Fulfillment Approval required in Section 2).
 - Select `Sales-assisted (SFDC Quote)` if the customer will need to go through the sales team to purchase the proposed SKU.
 
 **Product/Service Type for Quoting**
@@ -183,7 +183,7 @@ It is the Submitters responsibility to ensure all required information and appro
 **List Price**
 - Add the dollar amount price of the SKU. If a unit of measure is associated to this SKU, explain the dollar amount per UOM (Example: _$250/seat/quarter_)
 
-In the issue template, three asteriks (***) next to sections in Step 1 are considered a "non-standard" configuration request and require additional Cross-functional approvals in Step 2.
+In the issue template, three asterisks (***) next to sections in Step 1 are considered a "non-standard" configuration request and require additional Cross-functional approvals in Step 2.
 {: .alert .alert-warning}
 
 ### Step 2. Cross-functional Approval For Pricing and Non-Standard Requests
@@ -208,11 +208,11 @@ In the issue template, three asteriks (***) next to sections in Step 1 are consi
 {: .panel-heading}
 <div class="panel-body">
 
-- Once all required cross-functional approvals are obtained, appropiately assign the issue as described in Step 3 of the issue template to obtain Finance approvals:
+- Once all required cross-functional approvals are obtained, appropriately assign the issue as described in Step 3 of the issue template to obtain Finance approvals:
    - For **Finance**, assign the issue to the `Senior Director of Revenue Accounting`
    - For **Revenue/Billing**, assign the issue to `Senior Manager of Revenue Accounting` for input on the Invoicing, Revenue, and Custom Fields sections
    - For **Tax**, assign the issue to the `VP of Tax` for input on the Taxation section and confirm if these professional services are used to support the self-managed (SM) software, SaaS or both
-- Once Finance approvals are obtained, send a request in the appropiate slack channel as described in Step 4 the issue template to obtain Management approvals:
+- Once Finance approvals are obtained, send a request in the appropriate slack channel as described in Step 4 the issue template to obtain Management approvals:
    - For **Product Management Approval**, tag the `Chief Product Officer` in #product
    - For **Finance Management Approval**, tag the `Chief Financial Officer` in #cfo-approvals
    - For **Sales Management Approval**, tag the following individuals:

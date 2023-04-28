@@ -11,7 +11,7 @@ title: "NS Custom Field guide"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# How to create custom fields in Netsuite
+# How to create custom fields in NetSuite
 
 Recording (private due to finance systems information): [https://youtu.be/7QEw0-E4dTQ](https://youtu.be/7QEw0-E4dTQ)
 
