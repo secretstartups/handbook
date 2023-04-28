@@ -333,7 +333,7 @@ If you have a quick 1 off question on reporting, then please feel free to ask th
 If you have several questions or a more robust analysis of data you'd like help with, please open a [FMM leadership request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=leadership_request) and assign it to your manager. Your manager will review and will pull in the Director or other folks as needed.
 
 #### Field Marketers within SFDC
-To help with reporting within SFDC, each Field Marketing Manager is assigned the accounts based on SAE/AE assignment. Field Marketing has decided to align with the SAE/AE vs. 100% geo focused in an effort to foster collaboration.  The assignments are done through [Lean Data](/handbook/marketing/marketing-operations/leandata/), which is our lead routing tool.
+To help with reporting within SFDC, each Field Marketing Manager is assigned the accounts based on SAE/AE assignment. Field Marketing has decided to align with the SAE/AE vs. 100% geo focused in an effort to foster collaboration.  The assignments are done through [Traction Complete](/handbook/marketing/marketing-operations/traction-lead-complete), which is our lead routing tool.
 
 Routing for geo reps is done through zip codes worldwide. Named accounts and the US Public Sector are manually handled differently. Sales Ops will run monthly audits to update PubSec and Named accounts. Field Marketing Management works with Sales Ops to keep this information up to date.
 
@@ -1093,7 +1093,7 @@ All campaigns we are working with channel partners must flow through the outline
 Please refer to the [Channel ROI section](/handbook/marketing/field-marketing/#field-marketing-roi-to-gitlab-channel).
 
 ### Useful Fields in SFDC that relate to Vartopia
-1. Please refer to [this handbook page](/handbook/marketing/marketing-operations/vartopia/#sfdc-partner-prospect-admin) for further details.
+1. Please refer to [this handbook page](/handbook/marketing/marketing-operations/vartopia/#partner-prospect-admin) for further details.
 
 ### Channel Program
 The below list is not exhaustive.
