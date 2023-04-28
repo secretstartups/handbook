@@ -163,7 +163,7 @@ Categories
 
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
-- `Marketo`, `Bizible`, `Demandbase`, `Drift`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`,  `ZoomInfo`, `Smartling`, `On24`: used to highlight one of our tech stack tools
+- `Marketo`, `Bizible`, `Demandbase`, `Drift`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`,  `ZoomInfo`, `Smartling`, `On24`: used to highlight one of our tech stack tools
 - `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
 - `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
 - `SMOps/Systems - Changelog`: Used to track changelog issues that will impact Sales Operations or Systems
@@ -303,13 +303,13 @@ Integrated with Salesforce
 - [Bizible / Marketo Measue](/handbook/marketing/marketing-operations/bizible/)
 - [Demandbase](/handbook/marketing/account-based-marketing/demandbase/)
 - [Drift](/handbook/marketing/marketing-operations/drift/)
-- [LeanData](/handbook/marketing/marketing-operations/leandata)
 - [LinkedIn Sales Navigator](/handbook/sales/training/social-selling/)
 - [Marketo](/handbook/marketing/marketing-operations/marketo)
 - [Outreach.io](/handbook/marketing/marketing-operations/outreach)
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
 - [ReachDesk](/handbook/marketing/marketing-operations/reachdesk/)
 - [RingLead](/handbook/marketing/marketing-operations/ringlead/)
+- [Traction](/handbook/marketing/marketing-operations/traction-lead-complete)
 - [Terminus Email Experiences](/handbook/marketing/marketing-operations/terminus-email-experiences)
 - [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
 - [Vartopia - Lead Sharing Module](/handbook/marketing/marketing-operations/vartopia/)

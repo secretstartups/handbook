@@ -537,6 +537,8 @@ This tab shows a timeline of the most recent activity of a person. It shows `ALL
 #### Interesting Moments
 Interesting moments are captured when a milestone is reached, usually when a person attends an event, program status changes or they fill out a form. SDRs use the `Last Interesting Moments` field in their lead views to quickly see what the last action the prospect took before becoming an Inquiry or MQL. If you would like an intersting moment added for a certain activity, reach out to Mops to have them build it for you.
 
+For additional information, visit [this page](/handbook/marketing/marketing-operations/marketo/interesting-moments)
+
 #### Web Activity 
 This tab shows all of the web activity of a cookied user in this view and includes the referring page. For lead/contacts it shows the activity for that particular person, for Accounts it shows activity for all contacts related to that account.
 
