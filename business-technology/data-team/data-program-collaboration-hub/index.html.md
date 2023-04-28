@@ -152,7 +152,7 @@ The Data Directory is designed to provide quick access to / better organize key 
   * [Product Handbook](/handbook/product/)
   * [Product Performance Indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/) (internal handbook)
   * [Services Usage Data](/handbook/legal/privacy/services-usage-data/)
-  * [Our Commitment to Individual User Privacy in relation to Service Usage Data](/handbook/product/product-intelligence-guide/service-usage-data-commitment/)
+  * [Our Commitment to Individual User Privacy in relation to Service Usage Data](/handbook/product/analytics-instrumentation-guide/service-usage-data-commitment/)
 
 </details>
 
@@ -182,9 +182,9 @@ The Data Directory is designed to provide quick access to / better organize key 
   * [GitLab.com db table docs](https://gitlab.com/gitlab-org/gitlab/-/tree/master/db/docs)
   * [GitLab.com db table structure (columns, etc)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql)
   * [Customers dot db schema](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/master/db/schema.rb)
-  * [Product Intelligence Guide](/handbook/product/product-intelligence-guide/)
-    * [Data used as identifiers](/handbook/product/product-intelligence-guide/#data-used-as-identifiers)
-  * [Product Intelligence 101](https://docs.google.com/presentation/d/1omQ2-9i5l2LKHs_9WP_U1evVQmY6adzYyvZaVjbhdEk/edit?usp=sharing)
+  * [Analytics Instrumentation Guide](/handbook/product/analytics-instrumentation-guide/)
+    * [Data used as identifiers](/handbook/product/analytics-instrumentation-guide/#data-used-as-identifiers)
+  * [Analytics Instrumentation 101](https://docs.google.com/presentation/d/1omQ2-9i5l2LKHs_9WP_U1evVQmY6adzYyvZaVjbhdEk/edit?usp=sharing)
   * [GitLab Product Data Training](https://docs.google.com/presentation/d/1ySP9sndhF9BdRhaZhMK6kGbc8txO_UkAu48HmoxLtfI/edit?usp=sharing)
 
 </details>
@@ -281,7 +281,7 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 |	[Product Data Insights](/handbook/product/product-analysis/)	|	@cbraza	|	[#data](https://gitlab.slack.com/archives/C8D1LGC23)	|	Weekly (team meeting), Bi-weekly (office hours), X-functional series	|		|
 |	|		|		|		|		|		
 |	**Engineering**	|		|		|		|		|		|		|
-|	[Product Intelligence](/handbook/engineering/development/analytics/product-intelligence)	|	@stkerr, @bastirehm	|	[#g_product_intelligence](https://gitlab.slack.com/archives/CL3A7GFPF) |	Bi-weekly, Monthly x-functional series	|		|
+|	[Analytics Instrumentation](/handbook/engineering/development/analytics/analytics-instrumentation)	|	@stkerr, @bastirehm	|	[#g_product_intelligence](https://gitlab.slack.com/archives/CL3A7GFPF) |	Bi-weekly, Monthly x-functional series	|		|
 |	[Engineering Analytics](/handbook/engineering/quality/engineering-analytics/)	|	@meks, @lmai1 |	[#eng-data-kpi](https://gitlab.slack.com/archives/C0166JCH85U)	| Thu |		|		|		|
 |	|		|		|		|		|		|		|
 |	**People**	|		|		|		|		|		|		|

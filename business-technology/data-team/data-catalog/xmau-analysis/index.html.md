@@ -121,7 +121,7 @@ Release SMAU. Details on the metrics and the reasoning for the edge case can [be
  
 ### Service Ping metrics
 
-The [Product Intelligence group](/handbook/product/product-intelligence-guide/) maintains the
+The [Analytics Instrumentation group](/handbook/product/analytics-instrumentation-guide/) maintains the
 [Service Ping Metric Dictionary](https://metrics.gitlab.com/), in addition to the following
 related documentation:
  
@@ -241,7 +241,7 @@ are NOT SQL-generated counters. They are used to track actions that are not in t
 Postgres DB (ex: page views and frontend interactions) and for metrics that would non-performant 
 to generate via SQL query (ex: querying a massive table or querying across multiple tables).
   * Redis and RedisHLL counters _cannot_ be replicated using the Postgres replica.
-  * As a work-around the Product Intelligence team is instrumenting a subset of these counters 
+  * As a work-around the Analytics Instrumentation team is instrumenting a subset of these counters 
 as Snowplow events. This will allow us to aggregate the events in Snowflake and generate 
 paid SaaS xMAU.
 
@@ -432,7 +432,7 @@ only through those applications unless otherwise approved.
 ### Solution Ownership
 
 System Owners
-  - Service Ping & Versions App: [Product Intelligence](/handbook/product/product-intelligence-guide/)
+  - Service Ping & Versions App: [Analytics Instrumentation](/handbook/product/analytics-instrumentation-guide/)
   - Gitlab.com db: [Engineering teams across GitLab](https://docs.google.com/spreadsheets/d/1Rb4YgFz-2BP81v1efWxLn6TeKuf37SKvAdo91WQHqP0/edit#gid=0)
   - Salesforce: `TBD`
   - Zuora: `TBD`

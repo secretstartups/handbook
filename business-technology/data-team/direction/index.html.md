@@ -98,9 +98,9 @@ It is used to identify target state requirements to support [GitLab's Company St
 
 ### Data Flywheels
 
-#### Customer & Product Intelligence Flywheel
+#### Customer & Analytics Instrumentation Flywheel
 
-The Customer & Product Intelligence Flywheel is focused on improving the Customer Experience and encompasses the data and analytics involved in user-product interactions, customer use cases, product development, product adoption, and most aspects of the [Customer Journey](https://about.gitlab.com/handbook/customer-success/vision/).
+The Customer & Analytics Instrumentation Flywheel is focused on improving the Customer Experience and encompasses the data and analytics involved in user-product interactions, customer use cases, product development, product adoption, and most aspects of the [Customer Journey](https://about.gitlab.com/handbook/customer-success/vision/).
 
 ```mermaid
 graph BT;

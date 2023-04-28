@@ -123,7 +123,7 @@ What is missing from all these solutions is a governed way to enable data analyt
 
 ### Current State of Product Analytics
 
-Currently, Product Managers and others looking to analyze GitLab product data use either [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html) or [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) data. To visualize that data they use SQL in [Sisense for Cloud Data Teams](https://about.gitlab.com/handbook/product/product-intelligence-guide/getting-started/#accessing-the-data-in-sisense) to access the Snowplow and Service Ping data in our Snowflake data warehouse. Although this is sufficient for certain metrics like (xMAU)[https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/], it is not well suited for more complicated analysis (like for instance funnel or cohort analysis). 
+Currently, Product Managers and others looking to analyze GitLab product data use either [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html) or [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) data. To visualize that data they use SQL in [Sisense for Cloud Data Teams](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/getting-started/#accessing-the-data-in-sisense) to access the Snowplow and Service Ping data in our Snowflake data warehouse. Although this is sufficient for certain metrics like (xMAU)[https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/], it is not well suited for more complicated analysis (like for instance funnel or cohort analysis). 
 
 That means that currently product insights require time and resource-intensive manual SQL, limiting the team’s decision velocity and decision quality. Analysts spend multiple days/weeks building and updating dashboards, and a large portion of their workload is spent helping run SQL queries for less technical team members. To address that need we are in the process of implementing [PostHog](https://posthog.com/) specifically for product analytics.
 
@@ -168,7 +168,7 @@ Every member of the Product, Growth, and Analyst teams should be able to self-se
 
 **Pilot Implementation**
 
-We are currently running a pilot project with [PostHog](https://posthog.com) and our [Product Intelligence team](https://about.gitlab.com/handbook/product/product-intelligence-guide/). As part of the first iteration we're in the process of loading 3 months of [Snowplow](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowplow/) data into the platform. If successful we'll add additional data and will roll this out to a broader audience within the company. 
+We are currently running a pilot project with [PostHog](https://posthog.com) and our [Analytics Instrumentation team](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/). As part of the first iteration we're in the process of loading 3 months of [Snowplow](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowplow/) data into the platform. If successful we'll add additional data and will roll this out to a broader audience within the company. 
 
 ## Useful Resources
 
