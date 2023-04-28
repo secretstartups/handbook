@@ -1350,20 +1350,22 @@ EMEA Enterprise BDR Expand Team is aligned to account territories in Northern Eu
 
 ### EMEA Mid-Market BDR Alignment
 
-The EMEA MM FO team is split equally between North and South Europe. The 100-500 Segment is primarily targetting UKI, France and Germany as a P0 territory and the P1 territories below as a secondary target.
+The EMEA MM FO team is aligned to FO accounts in UKI, DACH, and France as well as TERR accounts in Nordics, Benelux, Eastern Europe, Southern Europe, Northern Africa and Israel.
 
-The team's baseline outbound activity revolves around at least 20 accounts per SDR per week. 15 from the P0 territories and 5 from their P1 territories. First Order BDRs source all 20 accounts from their territories.
+The team's baseline outbound activity revolves around at least 25 accounts and 150 contacts per BDR per week.
 
-|**BDR**|**Territory**|**Territory Codes**| BDR Secondary Language Profficiency |
+|**BDR**|**Territory**|**Territory Codes**| BDR Secondary Language Proficiency |
 | ------ | ------ | ------ | ------ |
-| Luis Calixto | South Europe  | COMM_EMEA_MM_EMEA_SOUTH_TERR_01, COMM_EMEA_MM_EMEA_SOUTH_TERR_02 | Spanish |
-| Daniel Fuller |  Nordics | COMM_EMEA_MM_EMEA_NORBEN_TERR_01, COMM_EMEA_MM_EMEA_NORBEN_TERR_02, COMM_EMEA_MM_EMEA_NORBEN_TERR_03, COMM_EMEA_MM_EMEA_NORBEN_TERR_04 | N/A |
-| Denis Stete | Eastern Europe | COMM_EMEA_MM_EMEA_SOUTH_TERR_03, COMM_EMEA_MM_EMEA_SOUTH_TERR_04, COMM_EMEA_MM_EMEA_SOUTH_TERR_05 | Spanish |
-| Barbara Schreuder | BeNeLux | COMM_EMEA_MM_EMEA_NORBEN_TERR_05, COMM_EMEA_MM_EMEA_NORBEN_TERR_06, COMM_EMEA_MM_EMEA_NORBEN_TERR_07 | Dutch |
-| Anastasiia Bakunovets | France | COMM_EMEA_MM_EMEA_SOUTH_TERR_08, COMM_EMEA_MM_EMEA_SOUTH_TERR_09, COMM_EMEA_MM_EMEA_SOUTH_FO_01, COMM_EMEA_MM_EMEA_SOUTH_FO_02 | French, Russian |
-| Israel Akinniranye | Israel & North Africa | COMM_EMEA_MM_EMEA_SOUTH_TERR_06, COMM_EMEA_MM_EMEA_SOUTH_TERR_07 | French |
-| Eamon Keanne | UK&I | COMM_EMEA_MM_EMEA_NORTH_FO_01, COMM_EMEA_MM_EMEA_NORTH_FO_02, COMM_EMEA_MM_EMEA_NORTH_TERR_01, COMM_EMEA_MM_EMEA_NORTH_TERR_02, COMM_EMEA_MM_EMEA_NORTH_TERR_03 | N/A |
-| Svitlana Balitska | DACH  | COMM_EMEA_MM_EMEA_CTL_FO_01, COMM_EMEA_MM_EMEA_CTL_FO_02, COMM_EMEA_MM_EMEA_CTL_TERR_01, COMM_EMEA_MM_EMEA_CTL_TERR_02, COMM_EMEA_MM_EMEA_CTL_TERR_03, COMM_EMEA_MM_EMEA_CTL_TERR_04,  COMM_EMEA_MM_EMEA_CTL_TERR_05, COMM_EMEA_MM_EMEA_CTL_TERR_06, COMM_EMEA_MM_EMEA_CTL_TERR_07 | German, Russian |
+| Eamon Keanne | UKI | COMM_EMEA_MM_EMEA_NORTH_FO_01, COMM_EMEA_MM_EMEA_NORTH_FO_02 | N/A |
+| Svitlana Balitska | DACH  | COMM_EMEA_MM_EMEA_CTL_FO_01, COMM_EMEA_MM_EMEA_CTL_FO_02| German |
+| Anastasiia Bakunovets | France | COMM_EMEA_MM_EMEA_SOUTH_FO_01, COMM_EMEA_MM_EMEA_SOUTH_FO_02 | French |
+| Izzy Akinniranye | Nordics & Benelux | COMM_EMEA_MM_EMEA_NORBEN_TERR_01, COMM_EMEA_MM_EMEA_NORBEN_TERR_02, COMM_EMEA_MM_EMEA_NORBEN_TERR_03, COMM_EMEA_MM_EMEA_NORBEN_TERR_04, COMM_EMEA_MM_EMEA_NORBEN_TERR_05A, COMM_EMEA_MM_EMEA_NORBEN_TERR_05B, COMM_EMEA_MM_EMEA_NORBEN_TERR_06, COMM_EMEA_MM_EMEA_NORBEN_TERR_07, | N/A |
+| Denis Stete | Eastern Europe, Portugal and Spain | COMM_EMEA_MM_EMEA_SOUTH_TERR_01, COMM_EMEA_MM_EMEA_SOUTH_TERR_03, COMM_EMEA_MM_EMEA_SOUTH_TERR_04, COMM_EMEA_MM_EMEA_SOUTH_TERR_05 | Spanish |
+| Francesca Gianfiglio | Israel, Italy and Northern Africa | COMM_EMEA_MM_EMEA_SOUTH_TERR_02, COMM_EMEA_MM_EMEA_SOUTH_TERR_06, COMM_EMEA_MM_EMEA_SOUTH_TERR_07 | Italian |
+
+
+
+
 
 In case of any AE requests for outbounding, the go-to BDRs above are briefed to incorporate these requests to their pipeline as a priority.
 
