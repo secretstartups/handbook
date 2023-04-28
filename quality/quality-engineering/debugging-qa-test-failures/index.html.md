@@ -386,21 +386,46 @@ WEBDRIVER_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost
 You can also use the same Docker image as the one used in the failing job to run GitLab in a container on your local.
 In the logs of the failing job, search for `gitlab-ee` or `gitlab-ce` and use its tag to start the container locally.
 
-To run [GitLab in a container](https://docs.gitlab.com/ee/install/docker.html#install-gitlab-using-docker-engine) on your local, the docker command similar to the one shown in the logs can be used. E.g.:
+To run [GitLab in a container](https://docs.gitlab.com/ee/install/docker.html#install-gitlab-using-docker-engine) on your local, follow the steps below that correspond to your host machine and setup:
+
+**MacOS with Rancher Desktop**
+
+First, make sure to [disable Traefik on Rancher Desktop](https://docs.rancherdesktop.io/faq/#q-can-i-disable-traefik-and-will-doing-so-remove-traefik-resources) to open ports 80 and 443 on your host machine.
+
+Rancher Desktop also uses port 22 to allow SSH communication with the VM. Therefore, you will need to forward a different port on your host machine to port 22 in the container,
+and configure `gitlab_shell_ssh_port` to use this new port.
+
+```shell
+docker run \
+  --hostname localhost \
+  --publish 443:443 --publish 80:80 --publish 2222:22 \
+  --name gitlab \
+  --env GITLAB_OMNIBUS_CONFIG='gitlab_rails["initial_root_password"] = "CHOSEN_PASSWORD"; gitlab_rails["gitlab_shell_ssh_port"] = 2222' \
+  --shm-size 256m \
+  registry.gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/gitlab-ee:<tag>
+```
+
+**Machines Running Docker Natively (Linux)**
+
+If you are not running Docker within a VM such as Rancher Desktop, you can use the following command:
 
 ```shell
 docker run \
   --hostname localhost \
   --publish 443:443 --publish 80:80 --publish 22:22 \
   --name gitlab \
-  --env GITLAB_OMNIBUS_CONFIG='gitlab_rails["initial_root_password"] = "CHOSEN_PASSWORD"'
+  --env GITLAB_OMNIBUS_CONFIG='gitlab_rails["initial_root_password"] = "CHOSEN_PASSWORD"' \
   --shm-size 256m \
   registry.gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/gitlab-ee:<tag>
 ```
 
+**Special Considerations**
+
 Note that to be able to pull the docker image from `registry.gitlab.com` you need to [authenticate with the Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/#authenticate-with-the-container-registry).
 
-To run Nightly images change `registry.gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/gitlab-ee:<tag>` from the Docker command above to `gitlab/gitlab-ee:nightly` or `gitlab/gitlab-ce:nightly`.
+To run Nightly images change `registry.gitlab.com/gitlab-org/build/omnibus-gitlab-mirror/gitlab-ee:<tag>` from one of the Docker commands above to `gitlab/gitlab-ee:nightly` or `gitlab/gitlab-ce:nightly`.
+
+**Running the Test**
 
 You can now run the test against this Docker instance. E.g.:
 
