@@ -99,9 +99,9 @@ See the [Access Manager Handbook Page](/handbook/it/access-manager) to learn mor
 * [Project Repositories](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations)
 * [Related - Project Platypus](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/platypus/#platypus-distilled)
 
-The Enterprise Applications Integrations team designs, builds, and maintains the complex ecosystem of automations that exist in our Enterprise Applications ecosystem using a hybrid of custom developed code in our Platypus codebase (powered by [Nest.js](https://nestjs.com/)) and/or Workato integrations platform-as-a-service (IPaas).
-
+The Enterprise Applications Integrations team designs, builds, and maintains the complex ecosystem of automations that exist in our Enterprise Applications ecosystem using a hybrid of custom developed code in our Platypus codebase (powered by [Nest.js](https://nestjs.com/)) and/or Workato integrations platform-as-a-service (IPaaS).
 In FY21-Q3, we launched v1.0 of Platypus. This release includes all of the work we’ve done so far to stand up Platypus and get it ready for projects. Going forward release versions will be bumped at the end of our monthly milestones and include the changelog of the work done in that milestone. We are releasing code to production on a daily basis, these versions just serves as a marker to capture a snapshot of the work we’ve done in each milestone. 
+
 
 You can learn more about Platypus and our capabilities and offerings on our [handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/) or ask in the `#bt-integrations` Slack channel.
 
@@ -128,7 +128,7 @@ We also provide escalation engineering and triage support for the [Security Inci
 
 In FY20-Q4, we launched the Demo Systems for the Customer Success department to have a shared sandbox environment for demonstration and training class purposes. You can learn more on the [demo systems handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/).
 
-In FY21-Q4, we launched the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/), a deployment of our open source [HackyStack](https://gitlab.com/hackystack/hackystack-portal) project (powered by [Laravel](https://laravel.com/docs/8.x)) to automate the provisioning of AWS acccounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
+In FY21-Q4, we launched the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/), a deployment of our open source [HackyStack](https://gitlab.com/hackystack/hackystack-portal) project (powered by [Laravel](https://laravel.com/docs/8.x)) to automate the provisioning of AWS accounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
 
 We are in the process of adopting the [Infrastructure Standards Labels and Tags](https://about.gitlab.com/handbook/infrastructure-standards/labels-tags/) to get better visibility into cost allocation for all of the AWS and GCP resources that are provisioned across the organization.
 

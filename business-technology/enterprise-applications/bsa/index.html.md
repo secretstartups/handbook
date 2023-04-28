@@ -25,31 +25,31 @@ We are a global team of five, focused on designing, delivering, and maintaining 
 GitLab handle: [@broncato](https://gitlab.com/broncato)  
 Slack handle: `@barbara`   
 Location and Timezone: Portugal, WEST/GMT+1  
-Linkedin Profile: [/roncatobarbara](https://www.linkedin.com/in/roncatobarbara/)
+LinkedIn Profile: [/roncatobarbara](https://www.linkedin.com/in/roncatobarbara/)
 
 **Kayoko Cooper - Business Systems Analyst**  
 GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
 Slack handle: `@Kayoko Cooper` <br>
 Location and Timezone: USA, EDT/EST  
-Linkedin Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
+LinkedIn Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
 
 **Kristina Koceban - Senior Business Systems Analyst**  
 GitLab handle: [@kkoceban](https://gitlab.com/kkoceban)  
 Slack handle: `@Kristina`   
 Location and Timezone: Ireland, WEST/GMT+1  
-Linkedin Profile: [/kristinakoceban](https://www.linkedin.com/in/kristinakoceban/)
+LinkedIn Profile: [/kristinakoceban](https://www.linkedin.com/in/kristinakoceban/)
 
 **Nicholas Sandoval - Business Systems Analyst**  
 GitLab handle: [@nicosando](https://gitlab.com/nicosando)  
 Slack handle: `@Nico Sandoval` <br>
 Location and Timezone: USA, EDT/EST  
-Linkedin Profile: [/nicolas-sandoval-331900b3](https://www.linkedin.com/in/nicolas-sandoval-331900b3/)
+LinkedIn Profile: [/nicolas-sandoval-331900b3](https://www.linkedin.com/in/nicolas-sandoval-331900b3/)
 
 **Santhosh Baranidharan - Senior Business Systems Analyst**  
 GitLab handle: [@sbaranidharan](https://gitlab.com/sbaranidharan)  
 Slack handle: `@Santhosh`    
 Location and Timezone: Netherlands, CET/GMT+2  
-Linkedin Profile: [/santhosh-b-28711613a](https://www.linkedin.com/in/santhosh-b-28711613a/)
+LinkedIn Profile: [/santhosh-b-28711613a](https://www.linkedin.com/in/santhosh-b-28711613a/)
 
 ## What Do We Do?
 Being business process first, we focus on requirements, use cases and process flows in order to help implement new systems, enhance existing processes or deliver fixes. On a project, our role includes requirements documentation, business process mapping, gap analysis, project scoping, timeline planning, and scheduling.
@@ -179,7 +179,7 @@ Labels help us organize and tag our work so we can track and find the work items
 | ~"BT-Priority::1" | Critical | gitlab-com, gitlab-org |
 | ~"BT-Priority::2" | Important not urgent | gitlab-com, gitlab-org |
 | ~"BT-Priority::3" | No rush to do, but please do it | gitlab-com, gitlab-org |
-| ~"BT Finance Systems" | For anything related to a Finance System (i.e. Zuora, Netsuite, Tipalti, Navan Expense, etc.). Catch all to ensure a Finance Systems Admin is aware and can triage as necessary. | gitlab-com, gitlab-org |
+| ~"BT Finance Systems" | For anything related to a Finance System (i.e. Zuora, NetSuite, Tipalti, Navan Expense, etc.). Catch all to ensure a Finance Systems Admin is aware and can triage as necessary. | gitlab-com, gitlab-org |
 | ~"BT::Backlog" | Unless a due date is indicated or urgency specified, non-access related issues will go into the backlog and prioritized bi-weekly | gitlab-com |
 | ~"BT::To Do" | Team will look at the issue within a week of submitting | gitlab-com |
 | ~"BT::In Progress" | Team is currently actively working on scoping out and gathering requirements | gitlab-com |
@@ -209,7 +209,7 @@ While we can't promise we'll never have meetings on Fridays, the team has adopte
    - Participants: Enterprise Applications 
 
 ### Business Engagement
-The purpose of engagement meetings is to focus on Roadmap Prioritization, Issues, Risks and Decisions. Engagement Meetings are strategic meetings to ensure that Enterprise Applications are aligned with their key business partners and they have clarity on our shared roadmap. Decisisons and timing are recorded in a shared Decision Log to ensure that there is clarity and decision are properly documentated (Prioritization).
+The purpose of engagement meetings is to focus on Roadmap Prioritization, Issues, Risks and Decisions. Engagement Meetings are strategic meetings to ensure that Enterprise Applications are aligned with their key business partners and they have clarity on our shared roadmap. Decisions and timing are recorded in a shared Decision Log to ensure that there is clarity and decision are properly documented (Prioritization).
 
 **How we operate**:<br>
 1. Meetings are lead by function leaders and have a bi-weekly or less frequent cadence.  
@@ -217,12 +217,12 @@ The purpose of engagement meetings is to focus on Roadmap Prioritization, Issues
 1. Rolly will be categorized by Business Partners so that they can see their impacting programs easily.
 
 #### Finance Engagement Meeting
-- Purpose: Align with Finance Business Partners on projects in flight and priortizie backlog. Get clear on what projects have dependencies and which are mutually exclusive. Log decisions and communicate them out. During this meeting we use [Rolly](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup) to cover project status, what's in progress and what is blocked. 
+- Purpose: Align with Finance Business Partners on projects in flight and prioritize backlog. Get clear on what projects have dependencies and which are mutually exclusive. Log decisions and communicate them out. During this meeting we use [Rolly](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup) to cover project status, what's in progress and what is blocked. 
    - Frequency: Monthly
    - Participants: Enterprise Applications (host), Revenue, Accounting, Billing
 
 #### Fulfillment / Sales Systems Engagement Meeting
-- Purpose: Technical and Delivery Alignment between Sale Systems, Fullfillment and Enterprise Applications. Roadmap and Delivery Date Focused. Backlog review, log decisions and communicate them out.
+- Purpose: Technical and Delivery Alignment between Sale Systems, Fulfillment and Enterprise Applications. Roadmap and Delivery Date Focused. Backlog review, log decisions and communicate them out.
    - Frequency: Bi-weekly
    - Participants: Enterprise Applications (host), Sales Systems, Fulfillment
 
