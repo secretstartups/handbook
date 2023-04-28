@@ -417,7 +417,7 @@ To easily access a report for what current job title specialties are for your te
     - People Mgrs: Managers, Senior Engineering Managers, and Group Product Managers managing ICs should have Stage and/or primary group (if applicable)
 
 - When requesting a job title specialty update, please follow the following formatting:
-    - Review Product/Categories and make sure the group names you use match what is listed in the spreadsheet.  If it doesn’t, please connect with your PM to confirm and work with them to update if needed
+    - Review Product/Categories and make sure the group names you use match these. If they don't, please connect with your Product Manager to confirm and work with them to update if needed.
     - Add both stage and group in the job title specialty field
         - Example:  Add “Manage: Authentication and Authorization” instead of “Authentication and Authorization”
         - **Important: Please ensure that you leave a space after the colon (:) between stage and group.**. For example, `Create: Source Code` is _correct_ formatting, and `Create:Source Code` is _incorrect_ formatting. This helps ensure that when pulling reports we have accurate counts for investment alignment.
