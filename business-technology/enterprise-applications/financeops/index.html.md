@@ -25,7 +25,7 @@ The **Finance Systems Administrator Team** implements and supports specialized a
 
 ## <i class="fas fa-tasks" id="biz-tech-icons"></i> How We Work within Enterprise Applications
 
-- **All work in which requirements need vetting will need to follow the [Enterprise Appliations intake process](https://about.gitlab.com/handbook/business-technology/enterprise-applications/#intake-request).**
+- **All work in which requirements need vetting will need to follow the [Enterprise Applications intake process](https://about.gitlab.com/handbook/business-technology/enterprise-applications/#intake-request).**
 - Once requirements are cleansed, the Business Systems Analyst team will create issues for system configuration work to be performed by the Finance Systems team. 
 
 ### Service Desk / Services We Support
@@ -33,13 +33,13 @@ The **Finance Systems Administrator Team** implements and supports specialized a
 - [Service Desk Board](https://gitlab.com/groups/gitlab-com/-/boards/2802782?scope=all&label_name[]=FinSys%3A%3AService%20Desk) Labels: `~FinSys::Service Desk`
 - Our Service Desk takes care of:
     - User Access to the Finance Systems we manage through Access Requests and Offboarding issues.
-    - All services outlined [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/#--services-we-support-finance-systems-service-desk): SKU Requests, SKU Retirement, Configuration Changes, Department Change Requests, EntApps System Incident Log, Coupa Sandbox Refresh, Netsuite Sandbox Refresh, Zuora Central Sandbox Refresh. 
+    - All services outlined [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/#--services-we-support-finance-systems-service-desk): SKU Requests, SKU Retirement, Configuration Changes, Department Change Requests, EntApps System Incident Log, Coupa Sandbox Refresh, NetSuite Sandbox Refresh, Zuora Central Sandbox Refresh. 
 - Issues will be assigned a Priority:
     - `~BT-Priority::1`
     - `~BT-Priority::2`
     - `~BT-Priority::3`
-- Issues will be assigned to a [Milestone by Enterprise Applications leadership team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/#entapps-milestone-planning). Assignment to a milestone is based on the [issue weight](https://about.gitlab.com/handbook/business-technology/enterprise-applications/#issue-weights), priortiy, and team member capacity.
-- Once issues are assigned to a Finance Systems Administrator and assigned to a Milestone, we track the status of the issue by asigning labels:
+- Issues will be assigned to a [Milestone by Enterprise Applications leadership team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/#entapps-milestone-planning). Assignment to a milestone is based on the [issue weight](https://about.gitlab.com/handbook/business-technology/enterprise-applications/#issue-weights), priority, and team member capacity.
+- Once issues are assigned to a Finance Systems Administrator and assigned to a Milestone, we track the status of the issue by assigning labels:
     - **Open:** Pending Priority and Admin assignment. Access Requests will progress to "In Progress" within 72 hours of assignment of the `~FinSys::Service Desk` label. 
     - **`~BT::InProgress`:** Priority and Admin has been assigned and it’s actively being worked on.
     - **Closed or BT::Done External:** Request has been fulfilled entirely or next steps have been agreed to. Sometimes an issue cannot be closed by the FinSys team because there are tasks/requests for other teams (i.e. Access Requests), so in those cases we’ll mark it with BT::Done External which indicates all work for the FinSys team has been completed.
@@ -58,8 +58,8 @@ This means that [configuration changes](https://about.gitlab.com/handbook/busine
 | Adaptive Insights | Financial Planning and Budgeting |
 | Avalara           | Tax Engine                       |
 | Coupa             | Procurement and AP               |
-| Docusign          | Signatures                       |
-| Netsuite          | ERP                              |
+| DocuSign          | Signatures                       |
+| NetSuite          | ERP                              |
 | Stripe            | Payment Processor                |
 | Tipalti           | AP                               |
 | Navan             | Travel Booking                   |
