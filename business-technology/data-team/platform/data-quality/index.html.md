@@ -24,7 +24,7 @@ In an effort to improve data quality at GitLab, the Central Data Team is creatin
 
 1. All data quality issues relating to the detection rules on the [TD: Product Data Quality Scorecard](https://app.periscopedata.com/app/gitlab/887191/TD:-Product-Data-Quality-Scorecard---Overview-V1.0) should be opened and triaged in the Data Quality Project. Issues in scope that are opened in the Data Team project can be moved to the Data Quality project. 
 
-1. The triager should apply the following lables to help determine next steps on the issue:
+1. The triager should apply the following labels to help determine next steps on the issue:
     1. [Workflow Status Label](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow): Pick `workflow
 1 - triage` to start
     1. [Prioritization Type](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=Priority+Label%3A+): Pick `Priority
@@ -40,7 +40,7 @@ In an effort to improve data quality at GitLab, the Central Data Team is creatin
 
 1. The DRI of the epic can validate that the newly linked issues are related and can apply the next applicable [Workflow Status Label](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow).
 
-1. If there is no epic opened that addresses the problem, then the issue requires further validation to determine if a governance plan is needed. Only issues related to the [TD: Product Data Quality Scorecard](https://app.periscopedata.com/app/gitlab/887191/TD:-Product-Data-Quality-Scorecard---Overview-V1.0) are in scope now. If the issue relates to one of the detection rules, then the triager can refere the issue to the R&D Data Fusion Team manager for next steps. If the issue does not relate to one of the detection rules, then the triager should follow the business as usual triage process.  
+1. If there is no epic opened that addresses the problem, then the issue requires further validation to determine if a governance plan is needed. Only issues related to the [TD: Product Data Quality Scorecard](https://app.periscopedata.com/app/gitlab/887191/TD:-Product-Data-Quality-Scorecard---Overview-V1.0) are in scope now. If the issue relates to one of the detection rules, then the triager can refer the issue to the R&D Data Fusion Team manager for next steps. If the issue does not relate to one of the detection rules, then the triager should follow the business as usual triage process.  
 
 **Governance Plan Runbook**
 
@@ -94,7 +94,7 @@ The root causes for the data quality issue identified in the problem statement s
 
 <summary><b>4. Define Data Definitions</b></summary>
 
-Pursuant to the root causes identified in the problem statement, identify the source system, source system database table, source system field, and source system field definition. This step is meant to document the source system entities and defintions at the point of data production before that data is emitted in a data pipeline. 
+Pursuant to the root causes identified in the problem statement, identify the source system, source system database table, source system field, and source system field definition. This step is meant to document the source system entities and definitions at the point of data production before that data is emitted in a data pipeline. 
 
 </details>
 
@@ -121,7 +121,7 @@ Quality standards relating to the issues defined in the problem statement should
 All applicable data tables and fields should be listed. The four main tables to focus on are:
 
 1. The source system table
-2. The source table in the RAW or PREP database in Snowflake, depending upon any de-dupeing or cleanup that happens for a data source 
+2. The source table in the RAW or PREP database in Snowflake, depending upon any de-duping or cleanup that happens for a data source 
 3. The `common_prep` or `common` enterprise dimensional model table in Snowflake, depending on where the data lands in COMMON first
 4. A mart or report table in Snowflake 
 
@@ -133,7 +133,7 @@ Team members should be assigned to each table and column as DRIs for the quality
 
 <summary><b>8. Solutions</b></summary>
 
-The solutions to the root causes identified in the governance plan should be documented in this step. These solutions can consist of temprorary work arounds as well as permanent solutions. Estimated ship dates for the solutions can be provided if they are available. 
+The solutions to the root causes identified in the governance plan should be documented in this step. These solutions can consist of temporary workarounds as well as permanent solutions. Estimated ship dates for the solutions can be provided if they are available. 
 
 </details>
 
@@ -176,10 +176,10 @@ There have been a number of issues raised to the CS Ops team related to customer
 
 <summary><b>4. Data Definitions</b></summary>
 
-| Source System | Source System Table | Source System Field Name | Source System Field Name Defintion | 
+| Source System | Source System Table | Source System Field Name | Source System Field Name Definition | 
 |     --        | --                  | --                       | --                |
 |   [Zuora](https://knowledgecenter.zuora.com/Zuora_Central_Platform/API/G_SOAP_API/E1_SOAP_API_Object_Reference/Subscription)      |  subscription       |   id (SubscriptionId)    |  The ID of this object. Upon creation, the ID of this object is SubscriptionId.  |
-|     Zuora        | subscription        | GITLABNAMESPACEID__C     | The SaaS Namespace Id that the subscription is associated with. This is a custom field added by GitLab's Fulfillment team   |
+|     Zuora        | `subscription`        | `GITLABNAMESPACEID__C`     | The SaaS Namespace Id that the subscription is associated with. This is a custom field added by GitLab's Fulfillment team   |
 
 </details>
 
@@ -221,29 +221,29 @@ The SaaS section of this [Instances w/out Subscriptions](https://app.periscopeda
 
 | System | Table | Column | DRI | 
 |     --        | --           | --           | --  |
-|    Zuora           |    subscription      |    subscriptionid          |  TBD   |
-|    Zuora           |    subscription      |    GITLABNAMESPACEID__C    |  TBD   |
+|    Zuora           |    `subscription`      |    `subscriptionid`          |  TBD   |
+|    Zuora           |    `subscription`      |    `GITLABNAMESPACEID__C`    |  TBD   |
 
 **Snowflake Source Table**
 
 | System | Table | Column | DRI | 
 |     --        | --           | --           | --  |
-|     Snowflake          |    raw.zuora_stitch.subscription      |   id     |  TBD  |
-|     Snowflake          |    raw.zuora_stitch.subscription      |   GITLABNAMESPACEID__C        |  TBD  |
+|     Snowflake          |    `raw.zuora_stitch.subscription`      |   `id`     |  TBD  |
+|     Snowflake          |    `raw.zuora_stitch.subscription`      |   `GITLABNAMESPACEID__C`        |  TBD  |
 
 **Snowflake Common_Prep or Common Table**
 
 | System | Table | Column | DRI | 
 |     --        | --           | --           | --  |
-|     Snowflake          |     prod.common_prep.prep_subscription   |    dim_subscription_id     |  TBD   |
-|     Snowflake          |     prod.common_prep.prep_subscription   |    namespace_id     |  TBD   |
+|     Snowflake          |     `prod.common_prep.prep_subscription`   |    `dim_subscription_id`     |  TBD   |
+|     Snowflake          |     `prod.common_prep.prep_subscription`   |    `namespace_id`     |  TBD   |
 
 **Snowflake Mart or Reporting Table**
 
 | System | Table | Column | DRI | 
 |     --        | --           | --           | --  |
-|     Snowflake    |    PROD.PUMPS.PUMP_GAINSIGHT_METRICS_MONTHLY_PAID   |   DIM_NAMESPACE_ID    |  TBD   |
-|     Snowflake    |    PROD.PUMPS.PUMP_GAINSIGHT_METRICS_MONTHLY_PAID   |   DIM_SUBSCRIPTION_ID_ORIGINAL    |  TBD   |
+|     Snowflake    |    `PROD.PUMPS.PUMP_GAINSIGHT_METRICS_MONTHLY_PAID`   |   `DIM_NAMESPACE_ID`    |  TBD   |
+|     Snowflake    |    `PROD.PUMPS.PUMP_GAINSIGHT_METRICS_MONTHLY_PAID`   |   `DIM_SUBSCRIPTION_ID_ORIGINAL`    |  TBD   |
 
 </details>
 

@@ -203,12 +203,12 @@ dbt specific:
 - `dbt clean` - this will remove the `/dbt_modules` (populated when you run deps) and `/target` folder (populated when models are run)
 - `dbt run` - regular run
 - Model selection syntax ([source](https://docs.getdbt.com/docs/model-selection-syntax)). Specifying models can save you a lot of time by only running/testing the models that you think are relevant. However, there is a risk that you'll forget to specify an important upstream dependency so it's a good idea to understand the syntax thoroughly:
-    - `dbt run --models modelname` - will only run modelname
-    - `dbt run --models +modelname` - will run modelname and all parents
-    - `dbt run --models modelname+` - will run modelname and all children
-    - `dbt run --models +modelname+` - will run modelname, and all parents and children
-    - `dbt run --models @modelname` - will run modelname, all parents, all children, AND all parents of all children
-    - `dbt run --exclude modelname` - will run all models except modelname
+    - `dbt run --models modelname` - will only run `modelname`
+    - `dbt run --models +modelname` - will run `modelname` and all parents
+    - `dbt run --models modelname+` - will run `modelname` and all children
+    - `dbt run --models +modelname+` - will run `modelname`, and all parents and children
+    - `dbt run --models @modelname` - will run `modelname`, all parents, all children, AND all parents of all children
+    - `dbt run --exclude modelname` - will run all models except `modelname`
     - Note that all of these work with folder selection syntax too:
         - `dbt run --models folder` - will run all models in a folder
         - `dbt run --models folder.subfolder` - will run all models in the subfolder
@@ -657,7 +657,7 @@ The Data Team reservers the right to reject code that will dramatically slow the
 - All `{{ ref('...') }}` statements should be placed in CTEs at the top of the file. (Think of these as import statements.)
     - This does not imply all CTE's that have a `{{ ref('...') }}` should be `SELECT *` only. It is ok to do additional manipulations in a CTE with a `ref` if it makes sense for the model
 
-- If you want to separate out some complex SQL into a separate model, you absolutely should to keep things DRY and easier to understand. The config setting `materalized='ephemeral'` is one option which essentially treats the model like a CTE.
+- If you want to separate out some complex SQL into a separate model, you absolutely should to keep things DRY and easier to understand. The config setting `materialized='ephemeral'` is one option which essentially treats the model like a CTE.
 
 #### Model Configuration
 
@@ -697,17 +697,17 @@ In dbt, it is possible to generate custom database and schema names. This is use
 ##### Databases
 The default behavior is documented in the ["Using databases" section of the dbt documentation](https://docs.getdbt.com/docs/building-a-dbt-project/building-models/using-custom-database). A macro called `generate_database_name` determines the schema to write to.
 
-We override the behavior of this macro with our own [`generate_database_name` definition](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/macros/utils/generate_database_name.sql). This macro takes the configuration (target name and schema) supplied in the profiles.yml as well as the schema configuration provided in the model config to determine what the final schema should be.
+We override the behavior of this macro with our own [`generate_database_name` definition](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/macros/utils/generate_database_name.sql). This macro takes the configuration (target name and schema) supplied in the `profiles.yml` as well as the schema configuration provided in the model config to determine what the final schema should be.
 
 ##### Schemas
 The default behavior is documented in the ["Using custom schemas" section of the dbt documentation](https://docs.getdbt.com/docs/using-custom-schemas). A macro called `generate_schema_name` determines the schema to write to.
 
-We override the behavior of this macro with our own [`generate_schema_name` definition](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/macros/utils/generate_schema_name.sql). This macro takes the configuration (target name and schema) supplied in the profiles.yml as well as the schema configuration provided in the model config to determine what the final schema should be.
+We override the behavior of this macro with our own [`generate_schema_name` definition](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/macros/utils/generate_schema_name.sql). This macro takes the configuration (target name and schema) supplied in the `profiles.yml` as well as the schema configuration provided in the model config to determine what the final schema should be.
 
 ##### Development behavior
 In FY21-Q4, we switched to having development databases instead of schemas. This means that the schemas that are used in production match what is used in development, but the database location is different. dbt users should have their own scratch databases defined, such as `TMURPHY_PROD` and `TMURPHY_PREP`, where models are written to.
 
-This switch is controlled by the target name defined in the `profies.yml` file. Local development should never have `prod` or `ci` as the target.
+This switch is controlled by the target name defined in the `profiles.yml` file. Local development should never have `prod` or `ci` as the target.
 
 #### Macros
 
@@ -717,8 +717,8 @@ This switch is controlled by the target name defined in the `profies.yml` file. 
 
 ##### Structure
 
-* Macros should be documented in either the macros.yml file or in a macros.md file in descriptions are long
-* Use the [arguments property](https://docs.getdbt.com/reference/macro-properties/) in macros.yml to describe the input variables
+* Macros should be documented in either the `macros.yml` file or in a macros.md file in descriptions are long
+* Use the [arguments property](https://docs.getdbt.com/reference/macro-properties/) in `macros.yml` to describe the input variables
 
 ##### dbt-utils
 
@@ -1109,7 +1109,7 @@ This test is implemented as a [dbt macro](https://docs.getdbt.com/docs/building-
 
 ##### Rowcount Test Example 2
 
-Purpose: We have a fast-growing business and should always have at least 50 and at most 200 new Subscriptions loaded from the previous day. This is controlled by the [`model_new_reocrds_per_day`](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.model_new_rows_per_day) macro.
+Purpose: We have a fast-growing business and should always have at least 50 and at most 200 new Subscriptions loaded from the previous day. This is controlled by the [`model_new_records_per_day`](https://dbt.gitlabdata.com/#!/macro/macro.gitlab_snowflake.model_new_rows_per_day) macro.
 
 ```sql
 -- https://gitlab.com/gitlab-data/data-tests/-/blob/main/tests/sources/zuora/rowcount/zuora_subscription_source_model_new_records_per_day.sql
@@ -1400,7 +1400,7 @@ This means we don't have source models.
 Base models for snapshots are available in the folder /models/snapshots of our dbt project.
 Key items to note:
 
-- Before writing a snapshot base model, don't forget to add it in the [sources.yml file](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/snapshots/base/sources.yml) This entry is required for the snapshot to be recognized and used by other models. (keep this file sorted)
+- Before writing a snapshot base model, don't forget to add it in the [`sources.yml` file](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/snapshots/base/sources.yml) This entry is required for the snapshot to be recognized and used by other models. (keep this file sorted)
 - The name of the table in the data warehouse should be consistent with our data warehouse design guideline. Ideally we would like to stick to `{source_name}_{source_table_name}_snapshots` as our naming convention. But dbt doesn't allow duplicated file names in projects. In order to avoid this the snapshot and the snapshot base model having the same name, we follow this pattern:
     - The name of the base model file will be the name of the source snapshot table to which we suffix `_base`. Ex: we have a `gitlab_dotcom_members_snapshots` snapshot file [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/snapshots/gitlab_dotcom/gitlab_dotcom_members_snapshots.sql) and a base model of this snapshot [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/snapshots/base/gitlab_dotcom_members_snapshots_base.sql) named `gitlab_dotcom_members_snapshots_base`.
     - We use the [dbt config alias argument](https://docs.getdbt.com/docs/building-a-dbt-project/building-models/using-custom-aliases/) to rename the table by removing the `_base` suffix and keep the table name clean
