@@ -131,7 +131,7 @@ If in the rare case that your laptop arrives damaged or unusable prior to your s
 
 GitLab approves the use of Linux, and Apple's macOS. Microsoft Windows is **prohibited** for the following reasons:
 
-- Due to Microsoft Windows' [dominance in desktop operating systems](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Desktop_and_laptop_computers), Windows is the platform most targetted by spyware, viruses, and ransomware.
+- Due to Microsoft Windows' [dominance in desktop operating systems](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Desktop_and_laptop_computers), Windows is the platform most targeted by spyware, viruses, and ransomware.
 - macOS is preinstalled on Apple computers and Linux is available free of charge. To approve the use of Windows, GitLab would have to purchase Windows Professional licenses, as Windows Home Edition does not satisfy [GitLab's security guidelines](https://about.gitlab.com/handbook/security/).
 
 
@@ -148,9 +148,9 @@ NOTE: GitLab's IT Ops team uses a corporate discount for our corporate-purchased
 
 #### Apple Hardware
 
-- Macbook Pro 16" - M1 Max / 24-Core CPU / 24-core GPU / 32GB Unified memory / 512GB or 1TB storage. **Performance model**
-- Macbook Pro 14" - M1 Max/  24-Core CPU/ 32GB Unified memory / 512GB* **only avaliable in APAC and EMEA**
-- Macbook Pro 13" -  M1 / 16Gb / 512GB - **Standard model**
+- MacBook Pro 16" - M1 Max / 24-Core CPU / 24-core GPU / 32GB Unified memory / 512GB or 1TB storage. **Performance model**
+- MacBook Pro 14" - M1 Max/  24-Core CPU/ 32GB Unified memory / 512GB* **only available in APAC and EMEA**
+- MacBook Pro 13" -  M1 / 16Gb / 512GB - **Standard model**
 
 Most roles that require higher performance machines are approved for a 14" or 16" MacBook Pro M1 Max. Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1OuC0_iliCzASKfOhDLWO4fBmDS-uL3VGRMI6063R6tk/edit?usp=sharing) (public) to locate your department group and determine which machine you are eligible for.
 
@@ -166,7 +166,7 @@ IT strongly encourages team members to select Macs; please only request a Linux 
 
 \*\*NOTE: The maximum price of Linux laptops is not to exceed **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model a minimum of 14 days, based on your locality, prior to your desired date to receive.
 
-Our **only approved Linux laptop vendor at this time is Dell**. These laptops generally come pre-loaded with Ubuntu Linux in order to save money on unused Windows licenses. Dell do not currenty sell laptops pre-installed with Linux in Australia and New Zealand; staff will need to install Linux themselves.
+Our **only approved Linux laptop vendor at this time is Dell**. These laptops generally come pre-loaded with Ubuntu Linux in order to save money on unused Windows licenses. Dell do not currently sell laptops pre-installed with Linux in Australia and New Zealand; staff will need to install Linux themselves.
 
 Dell is GitLab's exclusive Linux vendor for the following reasons:
 
@@ -248,7 +248,7 @@ The vendors on the list have been meeting the following criteria:
 1. Their values have to align with GitLab's CREDIT values
 1. They should pass a "negative-press" check (first 2 pages of Google)
 
-If you, as a GitLab team member, would like to add a vendor aligned with the cirteria, please comment in the [Vendor sheet](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0).
+If you, as a GitLab team member, would like to add a vendor aligned with the criteria, please comment in the [Vendor sheet](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0).
 
 
 #### Steps for donating your hardware
@@ -295,7 +295,7 @@ If purchasing, our Manager of IT, or Lead, IT Analyst will approve, and we will 
 Then, if the employee decides to move forward with purchasing, our accounting department will reach out with payment information.
 
 If a team member decides to retain their laptop, they are required to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by GitLab.
-GitLab provided laptops must be wiped with [Jamf](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/#apple-laptops) for Macs, and [Drivestrike](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) for Linux, this ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe. Under no circumstance should you perform your own disk wipe unless you are doing so at the request of IT, to troubleshoot a technical problem with the laptop.
+GitLab provided laptops must be wiped with [Jamf](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/#apple-laptops) for Macs, and [DriveStrike](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) for Linux, this ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe. Under no circumstance should you perform your own disk wipe unless you are doing so at the request of IT, to troubleshoot a technical problem with the laptop.
 If GitLab discovers that a device has not been wiped according to policy, GitLab may act to enforce a remote wipe without notice.
 
 If team members opt not to keep or purchase their existing laptops, they can return them to GitLab.
@@ -306,7 +306,7 @@ See the [returning old/offboarded laptops](#returning-oldoffboarded-laptops) sec
 Part of the IT Ops replacement laptop process is providing each team-member with instructions about how to return their old laptop (whether outdated or broken).
 All laptops must be returned **within 2 weeks of receiving the replacement laptop**, so please prioritize transferring information between laptops within this timeframe.
 
-If an offboarded employee decides not to purchase and is not under a current litigation hold, then we will provide a shipping label free of charge so the laptop can be sent to an IT Support Analyst for data santization and storage or repurposing.
+If an offboarded employee decides not to purchase and is not under a current litigation hold, then we will provide a shipping label free of charge so the laptop can be sent to an IT Support Analyst for data sanitization and storage or repurposing.
 
 (If the IT department has record of a current litigation hold for the offboarded employee please consult with Legal before proceeding.)
 
