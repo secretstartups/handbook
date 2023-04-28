@@ -79,31 +79,38 @@ _last updated: April 2023_
 <summary markdown="span"><b>Banner Notification Example Screenshots </b></summary>
 
 **User is approaching free tier limit in one of the projects** -- we don't notify at this stage
-      
-**Project over free tier limit and no purchased storage**
+<br>
+<br>
 
+**Project over free tier limit and no purchased storage**
+<br>
 OWNER
+<br>
 
 ![test][/handbook/product/fulfillment-guide/image.png]
 
+<br>
+
 NON-OWNER
-        
+<br>
+<br>        
       
 **Project over free tier limit; with purchased storage; under purchased limit**
-
+<br>
 OWNER
-
+<br>
 
 NON-OWNER
-        
+<br>
+<br>        
       
 **Project over free tier limit; with purchased storage; over purchased limit**
-
+<br>
 OWNER
-
+<br>
 
 NON-OWNER
-
+<br>
 </details>
 
 
