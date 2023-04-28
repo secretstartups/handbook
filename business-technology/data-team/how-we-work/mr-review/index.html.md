@@ -21,7 +21,7 @@ description: "GitLab Data Team MR responsibilities"
 All GitLab data team members can, and are encouraged to, perform code review on merge requests of colleagues and community contributors.
 If you want to review merge requests, you can wait until someone assigns you one, but you are also more than welcome to browse the list of open merge requests and leave any feedback or questions you may have.
 
-Note that while all team members can review all merge requests, the ability to _accept_ merge requests is restricted to codeowners.
+Note that while all team members can review all merge requests, the ability to _accept_ merge requests is restricted to code owners.
 
 The responsibility of a reviewer is
 
@@ -29,7 +29,7 @@ The responsibility of a reviewer is
 - to ensure the code achieves the business goals,
 - to check the data quality of the data models created.
 
-### Codeowner
+### Code owner
 
 Code ownership is a [feature of GitLab](https://gitlab.com/help/user/project/code_owners) that links a project member to specific folders and files in a project. It is meant to answer the questions "who can I ask about this code?" and "who should review changes to this code?".  The goal is to assign 2 or 3 GitLab Team Members (max 4) to a set of folders and files (if possible).
 With not assigning a big group of people to basically all of our code, we hope to define better ownership and drive better code reviews.
@@ -41,13 +41,13 @@ A code owner:
 - carries the ownership of the results that the code produces,
 - performs MR reviews and accepts merge requests.
 
-#### How to become a codeowner
-1. Create an MR to the [CODEOWNERS file](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) with the ownership change you wish to make
+#### How to become a code owner
+1. Create an MR to the [`CODEOWNERS` file](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) with the ownership change you wish to make
    - Explain in the MR body why they are ready to take on that responsibility.
    - Use specific examples of recent MR reviews that they have performed. MRs that introduce very simple changes are good, but should not be the only source of reviews.
 1. Work with the other code owners that already cover the area you wish to join.
 
-Requirements that should be taken into consideration to become a codeowner:
+Requirements that should be taken into consideration to become a code owner:
 - You should have an advanced understanding of the particular subject area.
 - The MRs you've written consistently make it through reviewer and maintainer review without significant required changes.
 - The MRs you've reviewed consistently make it through maintainer review without significant additionally required changes.
@@ -61,7 +61,7 @@ Every data team project has at least one maintainer, but most have multiple, and
 The responsibility of a Maintainer is to ensure that
 
 - Data team processes are followed,
-- the MR is not conflichting with the broader Data Team architecture, procedures and processes,
+- the MR is not conflicting with the broader Data Team architecture, procedures and processes,
 - final review on the MR.
 
 #### How to become a data team maintainer

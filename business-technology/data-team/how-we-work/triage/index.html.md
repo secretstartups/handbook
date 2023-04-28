@@ -97,7 +97,7 @@ this should be updated on the [Data Program's Google Calendar](https://calendar.
 
 Having dedicated triagers on the team helps address the bystander affect. The schedule shares clear daily ownership information but is not an on-call position. Through clear ownership, we create room for everyone else on the team to spend most of the day around deep work. The triager is encouraged to plan their day for the kind of work that can be accomplished successfully with this additional demand on time.
 
-#### Triage responsibilites 
+#### Triage responsibilities 
 
 Data triagers are the first responders to requests and problems for the Data Program.
 
@@ -111,7 +111,7 @@ Data triagers are the first responders to requests and problems for the Data Pro
        - Open issues on the [Data Platform - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). 
           - If an open incident or issue is already assigned it is still the triager responsibility to either take that issue or ensure progress is made. 
           - If there is no work to be performed on incidents or issues on the [board](https://gitlab.com/groups/gitlab-data/-/boards/1917859) the triager will work on their regular work assignments.
-    - Involvement from Data Platform Team members who do **not** carry triage responsibilities that week is likely still needed in somes cases like:
+    - Involvement from Data Platform Team members who do **not** carry triage responsibilities that week is likely still needed in some cases like:
        - A standing issue or incident could not be solved by the triager and triager need help from other Data Platform Team members.
        - Monitoring #data-prom-alerts:
           - The #data-prom-alerts slack channel is used for the most urgent breaking events, which requires **immediate** action. It is the responsibility of all Data Platform Team members to ensure action is taken in time after office hours of the triager.
