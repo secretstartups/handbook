@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Zuora Billing to Netsuite"
+title: "Zuora Billing to NetSuite"
 ---
 
 {::options parse_block_html="true" /}
@@ -19,11 +19,11 @@ title: "Zuora Billing to Netsuite"
 
 - Zuora Billing (source)
 - Workato (middleware)
-- Netsuite (destination)
+- NetSuite (destination)
 
 # Summary
 
-This integration is used a the end of each month to synchronise Zuora Billing journal entries to Netsuite.
+This integration is used a the end of each month to synchronise Zuora Billing journal entries to NetSuite.
 
 # Sequence
 
@@ -32,7 +32,7 @@ sequenceDiagram
     participant Z as Zuora
     participant W as Workato
     participant P as GCP Pub/Sub
-    participant N as Netsuite
+    participant N as NetSuite
     participant B as GCP BigQuery
 
 Z ->>+ W: New Journal Run (webhook)
@@ -105,7 +105,7 @@ This integration handles [Orange Data](/handbook/security/data-classification-st
 
 # Environments
 
-| Environment | Zuora | Workato | Netsuite |
+| Environment | Zuora | Workato | NetSuite |
 | ----------- | ----- | ------ | ------ |
 | Production  | Production   | Production | Production |
 | Staging     | Central Sandbox | Test | Sandbox 2 |
@@ -113,4 +113,4 @@ This integration handles [Orange Data](/handbook/security/data-classification-st
 
 # Notes
 - All GCP components are in the `entapps-integrations` GCP [project](https://console.cloud.google.com/welcome?project=entapps-integrations).
-- In the future this integration should be moved into Nestjs to greatly simplify it.
+- In the future this integration should be moved into Nest.js to greatly simplify it.

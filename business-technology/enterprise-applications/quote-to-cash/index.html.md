@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Quote to Cash Documentation"
-description: "Enterprise Appliactions Quote to Cash Documentation"
+description: "Enterprise Applications Quote to Cash Documentation"
 ---
 
 

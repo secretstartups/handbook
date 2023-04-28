@@ -65,7 +65,7 @@ Our department focuses on managing the framework of how GitLab procures, impleme
 
 As we move from Foundation to Scale as an IT organization, we will continue to take a fresh look at how we assess our application landscape and apply our heat map methodology.
 
-The broader Finance and Business Technology team is focused on the priciples of Break Down Silos, Be the Solution, Architect and Iterate, and Lead with Data. The IT team also lives by the following philosophy. 
+The broader Finance and Business Technology team is focused on the principles of Break Down Silos, Be the Solution, Architect and Iterate, and Lead with Data. The IT team also lives by the following philosophy. 
 
 ![it](/handbook/business-technology/it-vision.png)
 
@@ -139,7 +139,7 @@ Our focus is on organizational policy management, access request provisioning, a
 
 The [Demo Systems](/handbook/customer-success/demo-systems/) provide an always-on shared sandbox environment for demo and experimental use cases that aren't intended for or supported on GitLab.com and don't need dedicated infrastructure to be provisioned for your use case.
 
-The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), powered by [HackyStack](https://gitlab.com/gitlab-com/business-technology/engineering/tools/hackystack), automates the provisioning of AWS acccounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
+The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), powered by [HackyStack](https://gitlab.com/gitlab-com/business-technology/engineering/tools/hackystack), automates the provisioning of AWS accounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
 
 ## Career Opportunities
 
