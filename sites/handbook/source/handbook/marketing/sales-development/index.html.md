@@ -405,14 +405,14 @@ The GitLab marketing team uses digital channels - social media, email, mobile/we
 #### Inbound Process
 SDRs are responsible for following up with MQLs by reviewing their information, reaching out, and working with them to understand their goals, needs, and problems. BDRs have the same responsibility for MQLs that come from one of their “actively working” accounts. Once you have that information, you can use our [qualification criteria](/handbook/sales/field-operations/gtm-resources/) to determine if this is someone who has strong potential to purchase our product and therefore should be connected with sales for next steps. As you are the connection between Marketing and Sales you want to make sure every lead you pass to the Sales team is as qualified as possible.
 
-These MQLs will show up in your S1 or B1 lead and contact views in Salesforce. The other views, listed [here](/handbook/marketing/sales-development/#lead-and-contact-views), allow you to see your leads in a categorized way to simplify your workflow. Leads are routed to you and flow into your views via the tool [LeanData](/handbook/marketing/marketing-operations/leandata/) which takes each lead through a series of conditional questions to ensure it goes to the right person. Even though all SDRs leverage the same views, they will only show you leads that have been specifically routed to you. You will be responsible for following up with all of the leads in your MQL views by sequencing them using [Outreach.io](/handbook/marketing/marketing-operations/outreach/). Once sequenced, their lead status will change and they will move from your MQL views allowing you to have an empty view. Managers monitor all views to ensure they are cleared out. If you choose not to work a lead please unqualify it and state your reasons in the lead record.
+These MQLs will show up in your S1 or B1 lead and contact views in Salesforce. The other views, listed [here](/handbook/marketing/sales-development/#lead-and-contact-views), allow you to see your leads in a categorized way to simplify your workflow. Leads are routed to you and flow into your views via the tool [Traction Complete](/handbook/marketing/marketing-operations/traction-lead-complete) which takes each lead through a series of conditional questions to ensure it goes to the right person. Even though all SDRs leverage the same views, they will only show you leads that have been specifically routed to you. You will be responsible for following up with all of the leads in your MQL views by sequencing them using [Outreach.io](/handbook/marketing/marketing-operations/outreach/). Once sequenced, their lead status will change and they will move from your MQL views allowing you to have an empty view. Managers monitor all views to ensure they are cleared out. If you choose not to work a lead please unqualify it and state your reasons in the lead record.
 
 
 ### SDR Lead Routing Levels
 
 #### Lead Routing Level Procedure
 
-The SDR Managers will be responsible for facilitating lead routing level changes at the beginning of each new month (when applicable) by making the requisite moves in LeanData and Drift.
+The SDR Managers will be responsible for facilitating lead routing level changes at the beginning of each new month (when applicable) by making the requisite moves in Traction and Drift.
 
 #### Levels
 
@@ -421,28 +421,28 @@ The SDR Managers will be responsible for facilitating lead routing level changes
 ##### Onboarding
 
 * Timeframe: Month 0
-* Parameters: SDR not on quota, leads are off in LeanData, Drift is off
+* Parameters: SDR not on quota, leads are off in Traction, Drift is off
 
 #####  Ramping 1
 
 * Timeframe: Month 1
-* Parameters: SDR is on 25% quota, leads are set at 50% in LeanData, Drift is off
+* Parameters: SDR is on 25% quota, leads are set at 50% in Traction, Drift is off
 
 #####  Ramping 2
 
 * Timeframe: Month 2
-* Parameters: SDR is on 50% quota, leads are set at 100% in LeanData, Drift is off
+* Parameters: SDR is on 50% quota, leads are set at 100% in Traction, Drift is off
 
 #####  Ramping 3
 
 * Timeframe: Month 3
-* Parameters: SDR is on 75% quota, leads are set at 100% in LeanData, SDR is added to Drift
+* Parameters: SDR is on 75% quota, leads are set at 100% in Traction, SDR is added to Drift
 * To add SDRs to Drift, create a new [access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) and copy and paste in the code for the [Drift access request template](https://gitlab.com/-/ide/project/gitlab-com/team-member-epics/access-requests/edit/master/-/.gitlab/issue_templates/role_baseline_access_request_tasks/department_sales_development/role_sales_development_representative_drift.md)
 
 ##### Expert
 
 * Timeframe: Months 4+
-* Parameters: SDR is on full quota, leads are set at 100% in LeanData, Drift is on
+* Parameters: SDR is on full quota, leads are set at 100% in Traction, Drift is on
 * SDR is now able to create their own Outreach sequences [pending approval](https://about.gitlab.com/handbook/marketing/sales-development/sales-development-tools/#outreach-sequence-creation-process).
 
 #### Performance Requirements
@@ -576,7 +576,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
 **Begin with Enriching and using Find Duplicates**
 1. On SFDC lead record, you will be using the  **Find Duplicates** button and **LinkedIn** and follow the workflow below.
 2. First Click **“LinkedIn”** to see if you can enrich any title or company info which will help ensure correct search of duplicates and inform the collection you’ll use in Outreach.
-3. Check **“LeanData Matched Account”** and **ZoomInfo** sections:
+3. Check **“Matched Account”** and **ZoomInfo** sections:
     *   For Commercial leads (SMB and MM), if the existing SFDC account type equals "Customer", press 'Convert to Account' and convert the lead to a contact for that account. In case of a Contact Request lead source, please also chatter the Account Owner and inform them of the context of the message for them to action. **An exception exists if they've only bought CI/CD or storage; these can still be worked by the SDR. Leads should only be converted if the Customer account purchased Premium or Ultimate.**
     *   If an existing SFDC Large/Enterprise Customer account already exists, verify that the SFDC lead/prospect is not part of the existing GitLab subscription before working the lead by sending a short snippet like, "Hi XYZ, Thanks for reaching out. ABC company current has a GitLab subscription, are you currently using a GitLab license and if so, what version?". If they are, please follow the "Convert to Account" instructions above.
     *   Read the ZoomInfo description to check for **USA** PubSec indicators which will include words like the following in the description: County, City Of, State, University, College, Defense, Intelligence, Agency, Mission, Mission Critical, Mission Support, Speed to Mission, System Integrator, Contract Vehicle, Government Bid, Government Contract, Civilian, or Task Order.  **Canadian government leads get routed to the AMER commercial team.**
@@ -586,7 +586,7 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
         *   If it is not an Actively Working account, then the next step is to scroll to the top to see if there are `Matched Leads` or `Matched Contacts` that are a match. If so, then our merging process here will need to be followed.
         *  The lead owner should also check the `Matched Opportunities` Section to see if there is an active Opportunity for the account be it SAE/AE-owned or Channel owned (`Resale Partner` last column) The lead owner should determine if this lead is related to any active opportunity and then pass along the lead if relevant.
         *   If there is another lead at the same company with a Lead Status of MQL, ownership is determined by the lead whose MQL Date is the earliest. If there is another lead at the same company with a Lead Status of Accepted or Qualifying, pass the MQL to the owner of the accepted/qualifying lead.
-    *  Should a BDR receive a lead not associated with an Actively Working account, they are responsible for assigning the lead back to the SDR who assigned it to them. If it came from LeanData, they should chatter mktgops support on the record so that it can be routed correctly.
+    *  Should a BDR receive a lead not associated with an Actively Working account, they are responsible for assigning the lead back to the SDR who assigned it to them. If it came from Traction, they should chatter mktgops support on the record so that it can be routed correctly.
 
 5. Drift leads associated with **“Actively Working”** accounts
     *  SDR will be routed the lead and will need to quickly offer a meeting with the assigned BDR. From there they will move the lead into qualifying status, transfer ownership to the BDR and click to send notification.
