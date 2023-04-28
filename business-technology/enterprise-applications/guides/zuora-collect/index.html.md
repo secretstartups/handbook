@@ -23,7 +23,7 @@ The Billing team was spending an average 31.5 hours per month/per person on acco
 
 ## Business Solution
 
-Since Zuora was already an application from our Tech Stack and used across diferent teams and departments, the business decided to move forward with the implementation of the Zuora Collect module in order to support collection activities automation. The implementation would allow the Billing team to create a more organized Collections team by moving into a single use collection platform.
+Since Zuora was already an application from our Tech Stack and used across different teams and departments, the business decided to move forward with the implementation of the Zuora Collect module in order to support collection activities automation. The implementation would allow the Billing team to create a more organized Collections team by moving into a single use collection platform.
 
 ### What is Zuora Collect
 
@@ -248,7 +248,7 @@ To export notes in the Notes feature:
 1. Search for the account that needs to be assigned and open it (by clicking on the account name).
    - The collections agent for the account is displayed on the top left of the account details page.<br>
 1. Click the agent name or Unassigned. 
-1. Select an agent from the dropwdown list.
+1. Select an agent from the dropdown list.
 1. Click Update to save the settings.
    - Refresh the page to see the changes.
 
@@ -320,7 +320,7 @@ There are two ways to view invoices:
 1. Scroll down to the `Customer Account Notes` section and click on the plus icon on the right.
 1. In your note you can format the text, attach documents, add a hyperlink and mention a particular user if needed, by adding `@`before the user name.
    - When a user is tagged in a comment, they receive an email informing that they have been mentioned in a comment.
-1. When finsihed, click on Submit.
+1. When finished, click on Submit.
    - Comments cannot be edited or deleted by design.
 
 ##### How to reply to comments on an account?
@@ -333,7 +333,7 @@ There are two ways to view invoices:
 1. Click on the reply button on the right.
 1. In your note you can format the text, attach documents, add a hyperlink and mention a particular user if needed, by adding `@`before the user name.
    - When a user is tagged in a comment, they receive an email informing that they have been mentioned in a comment.
-1. When finsihed, click on Submit.
+1. When finished, click on Submit.
    - Comments cannot be edited or deleted by design.
 
 ##### How to add comments to an invoice?
@@ -344,7 +344,7 @@ There are two ways to view invoices:
 1. Search for the invoice that you are looking for and open it (by clicking on the invoice number).
 1. Scroll down to the `Invoice Notes` section and click on the plus icon on the right.
 1. In your note you can format the text, attach documents, add a hyperlink and mention a particular user if needed, by adding `@`before the user name.
-1. When finsihed, click on Submit.
+1. When finished, click on Submit.
    - Comments cannot be edited or deleted by design.
 
 ##### How to reply to comments on an invoice?
@@ -357,7 +357,7 @@ There are two ways to view invoices:
 1. Click on the reply button on the right.
 1. In your note you can format the text, attach documents, add a hyperlink and mention a particular user if needed, by adding `@`before the user name.
    - When a user is tagged in a comment, they receive an email informing that they have been mentioned in a comment.
-1. When finsihed, click on Submit.
+1. When finished, click on Submit.
    - Comments cannot be edited or deleted by design.
 
 ##### How to delete a comment?
@@ -395,7 +395,7 @@ There are two ways to view invoices:
 
 
 1. Open the `Users` tab from the Notes feature.
-1. Search for the user (using the magnigying glass on the right)).
+1. Search for the user (using the magnifying glass on the right)).
 1. Click on the action icon (the 3 dots on the left) and select `Edit`.
 1. Deselect Active.
 1. Click on `Update`.
@@ -408,7 +408,7 @@ There are two ways to view invoices:
 
 
 1. Open the `Users` tab from the Notes feature.
-1. Search for the user (using the magnigying glass on the right)).
+1. Search for the user (using the magnifying glass on the right)).
 1. Click on the action icon (the 3 dots on the left) and select `Edit`.
 1. Select Active.
 1. Click on `Update`.
@@ -418,7 +418,7 @@ There are two ways to view invoices:
 
 
 1. Open the `Users` tab from the Notes feature.
-1. Search for the user (using the magnigying glass on the right)).
+1. Search for the user (using the magnifying glass on the right)).
 1. Click on the action icon (the 3 dots on the left) and select `Edit`.
 1. Click on the drop-down list and type two or more characters from the user name of the intended escalation point. 
 1. Click on `Update`.

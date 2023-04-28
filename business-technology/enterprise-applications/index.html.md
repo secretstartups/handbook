@@ -21,7 +21,7 @@ The **Enterprise Applications Team** implements and supports specialized applica
 
 We are directly responsible for all of GitLab's finance systems and Enterprise Applications Integrations.  We build and extend these applications to support the processes of our business partners and rationalize our application landscape to ensure it is optimized for efficiency and spend.
 
-Our team ensures the availability of these applications and integrations through monitoring and alerting. These internal-facing applications include a multitude of different applications and environments, including Zuora, Adaptive Planning, Netsuite, Navan Expense, etc.  We are also responsible for the IT Audit and Compliance function to ensure we pass SOX Audit for our IT General Controls (ITGC).
+Our team ensures the availability of these applications and integrations through monitoring and alerting. These internal-facing applications include a multitude of different applications and environments, including Zuora, Adaptive Planning, NetSuite, Navan Expense, etc.  We are also responsible for the IT Audit and Compliance function to ensure we pass SOX Audit for our IT General Controls (ITGC).
 
 Our Enterprise Applications team is made up of a combination of roles to best support the services we offer. Learn more about each by clicking on the tiles:
 
@@ -59,7 +59,7 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 
 1. [Zuora](/handbook/finance/accounting/finance-ops/billing-ops/zuora-billing/)
 1. [Zuora Revenue (RevPro)](/handbook/finance/accounting/finance-ops/Revenue-Accounting/tech-stack-guide-zuora-revenue/)
-1. Netsuite
+1. NetSuite
 1. Coupa
 1. Tipalti
 1. Stripe
@@ -96,8 +96,8 @@ Open an [Incident issue](https://gitlab.com/gitlab-com/business-technology/enter
 ### Coupa Sandbox Refresh
 Open a [Coupa Sandbox Refresh request issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `Sandbox - Coupa Refresh Template` template.
 
-### Netsuite Sandbox Refresh
-Open a [Netsuite Sandbox Refresh request issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `Sandbox - Netsuite Refresh Template` template.
+### NetSuite Sandbox Refresh
+Open a [NetSuite Sandbox Refresh request issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `Sandbox - NetSuite Refresh Template` template.
 
 ### Zuora Central Sandbox Refresh
 Open a [Zuora Central Sandbox Refresh request issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) using the `Sandbox - Zuora Central Refresh Template` template.

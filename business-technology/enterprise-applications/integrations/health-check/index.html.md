@@ -180,7 +180,7 @@ The color of the row indicates whether the system review is in progress or compl
     <div class="item-health-matrix"><span class="unchecked"></span></div>
     <div class="item-health-matrix"><span class="unchecked"></span></div>
     <div class="item-health-matrix"><span class="unchecked"></span></div>
-    <div class="item-health-matrix"><b>Zuora Revenue <br/><><br/> Netsuite</b></div>
+    <div class="item-health-matrix"><b>Zuora Revenue <br/><><br/> NetSuite</b></div>
     <div class="item-health-matrix">In Development</div>
     <div class="item-health-matrix">0</div>
     <div class="item-health-matrix"><span class="unchecked"></span></div>
@@ -190,7 +190,7 @@ The color of the row indicates whether the system review is in progress or compl
     <div class="item-health-matrix"><span class="unchecked"></span></div>
     <div class="item-health-matrix"><span class="unchecked"></span></div>
     <div class="item-health-matrix"><span class="unchecked"></span></div>
-    <div class="item-health-matrix"><b>Zuora Billing <br/><><br/> Netsuite</b></div>
+    <div class="item-health-matrix"><b>Zuora Billing <br/><><br/> NetSuite</b></div>
     <div class="item-health-matrix">In Development</div>
     <div class="item-health-matrix">0</div>
     <div class="item-health-matrix"><span class="unchecked"></span></div>
@@ -250,7 +250,7 @@ The color of the row indicates whether the system review is in progress or compl
     <div class="item-health-matrix review-in-progress"><span class="checked"></span></div>
     <div class="item-health-matrix review-in-progress"><span class="unchecked"></span></div>
     <div class="item-health-matrix review-in-progress"><span class="checked"></span></div>
-    <div class="item-health-matrix health-orange review-in-progress"><b>BambooHR <br/><><br/> Netsuite</b></div>
+    <div class="item-health-matrix health-orange review-in-progress"><b>BambooHR <br/><><br/> NetSuite</b></div>
     <div class="item-health-matrix review-in-progress">In Review</div>
     <div class="item-health-matrix review-in-progress">5</div>
     <div class="item-health-matrix review-in-progress"><span class="checked"></span></div>

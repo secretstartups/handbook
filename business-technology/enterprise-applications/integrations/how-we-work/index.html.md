@@ -45,7 +45,7 @@ In order for the integrations team to have consistent planned work available to 
 1. By reaching out to our business partners to gain an understanding of their upcoming roadmaps and how integrations and automations work will fit into that. This is the genesis of a lot of our larger programs of work.
 1. Teams reach out to us for assistance with ad-hoc work that comes up in the day-to-day.
 1. We schedule work ourselves which will improve the integrations landscape and allow us to work more efficiently and effectively with the business to achieve results.
-1. We schedule work that will achieve certain compliance, security, maintainability, and auditibility goals for the business.
+1. We schedule work that will achieve certain compliance, security, maintainability, and auditability goals for the business.
 
 #### 2. Project Planning
 Prior to scheduling an engineering task into a milestone, we need to have a good understanding of the problem, the ask, and well-defined requirements. This assists us to design a solution that meets your core business needs and does that in a reliable way. This also has a secondary benefit which is that we can properly automate the testing of integrations so that they are easy for us to support and maintain. This allows our team to stay lean and flexible so that we aren't bogged down in support activities.
@@ -107,5 +107,5 @@ Once you have reached out to us, we will help you in determining the size of you
 | ------------- | --------   | --------- |
 | Small (S)     | - Switch to sending preferred names to existing EdCast integration via the API | TBD |
 | Medium (M)    | - Navex Global integration (upload daily list of users to FTP server) | TBD |
-| Large (L)     | - Zuora to Netsuite Integration | TBD |
+| Large (L)     | - Zuora to NetSuite Integration | TBD |
 | Extra Large (XL) | - Switch out a core system and rebuild all integrations | - Break this project down into size L or smaller projects |
