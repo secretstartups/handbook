@@ -105,61 +105,62 @@ For partners who are claiming reimbursement for the **first time** only: <br/>
 
 #### Phase 1: Pre-planning
 
-- Budget is established by the year, allocated by each quarter, then region. 
-- Channel Marketing Managers work on creating a strategic marketing plan a month before a new quarter starts. 
+- Budget is established by the year, allocated by each quarter, then region, and should be planned in a 6 month cycle. 
+- Channel Marketing Managers work on creating a strategic marketing plan on a 6 month rolling calendar. 
 - Internal approvals are needed. Plans are reviewed by Channel Marketing Manager's Team Managers and MDF Program Owner. 
 - If an MDF activity requires a contract signed or has a specific contract for that particular event, such as sponsorships or conferences, contracts need to be **reviewed and approved by Legal** before the approval is communicated to the Partner. 
    * In this case, CMMs are to submit contract to the MDF Program Owner and they will open a Zip request to get approval done. 
 - Once internal approvals have been completed, CMMs communicate to Partners activities that are approved. 
 - Partners are responsible for submitting an MDF request through the Partner Portal. 
 - MDF Program Owner creates Epic (internal): [FY24 MDF Planning Activities and Initiative](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3523) 
-   * This Epic contains all sub regional issues in order to provide visibility to everyone in the Channel organization of all the MDF requests for the year. 
-      * Under the epic we have 4 H1 issues (H1 stands for first half) - available internally:
-         * [FY24 H1 MDF | EMEA](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/806) 
-         * [FY24 H1 MDF | AMER](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/803) 
-         * [FY24 H1 MDF | PUB SEC](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/804) 
-         * [FY24 H1 MDF | APAC](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/805) 
-   * We use these issues as a place to communicate to the CMMs, add the links to Salesforce. Channel Account Managers and Channel Leadership also are informed 
-   * We also confirm on the issues that the MDF request was created by the partner, but linking the MDF number to the table, and from there we working on processing it internally. 
+* This Epic contains all sub regional issues in order to provide visibility to everyone in the Channel organization of all the MDF requests for the year. 
+* Under the epic we have 4 H1 issues (H1 stands for first half) - available internally:
+
+   * [FY24 H1 MDF - EMEA](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/806) 
+   * [FY24 H1 MDF - AMER](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/803) 
+   * [FY24 H1 MDF - PUB SEC](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/804) 
+   * [FY24 H1 MDF - APAC](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/805) 
+
+* We use these issues as a place to communicate to the CMMs, add the links to Salesforce. Channel Account Managers and Channel Leadership also are informed 
+* We also confirm on the issues that the MDF request was created by the partner, but linking the MDF number to the table, and from there we working on processing it internally. 
 
 #### Phase 2: Processing MDF
 
 * When a MDF fund request is received, MDF Program Owner and the Channel Marketing Manager receive an email alert. 
-      * The Channel Marketing Managers have the ability to approve first, by confirming that all of the information input by the Partner was correct. 
-      * Once they approve, the MDF Program Owner will do a final approval, also known as a level 2 approval. 
-      * MDF Program Owner will link the fund request to the regional issues, mentioning its fund request number. 
-      * At this point, all the MDFs that were approved and are ready to be processed. 
+* The Channel Marketing Managers have the ability to approve first, by confirming that all of the information input by the Partner was correct. 
+* Once they approve, the MDF Program Owner will do a final approval, also known as a level 2 approval. 
+* MDF Program Owner will link the fund request to the regional issues, mentioning its fund request number. 
+* At this point, all the MDFs that were approved and are ready to be processed. 
 
 * Processing an MDF consists of: 
-      * Adding the MDF line in Allocadia, with all of its information.
+* Adding the MDF line in Allocadia, with all of its information.
 _We don’t add this in the pre-planning phase because sometimes fund requests may get canceled or the Marketing Activity/event moves to a different date._
-      * From Allocadia we open an MDF Epic and two sub-issues List Upload and POP (Proof of Performance). 
-      * Marketo and Salesforce Campaign are created. 
+* From Allocadia we open an MDF Epic and two sub-issues List Upload and POP (Proof of Performance). 
+* Marketo and Salesforce Campaign are created. 
 
 * POP Tracking board: 
 To better track the POP we have created a [MDF Operations Board](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/boards/5415585?label_name[]=MDF-POP). 
-      * POP Label description can be found [in this section](https://about.gitlab.com/handbook/marketing/channel-marketing/#requesting-mdf-funds) of the handbook. 
-      * Channel Marketing Managers are also tagged to create their own activity tracking issue.
-      * A Zip requisition request is opened. 
-            * Zip will now have an MDF approver (MDF Program Owner) to make sure we have all of the correct information updated and to make sure that payment is not process for partner before receiving the POP. 
-            * After that Zip approval will take 4 business days. 
+* POP Label description can be found [in this section](https://about.gitlab.com/handbook/marketing/channel-marketing/#requesting-mdf-funds) of the handbook. 
+* Channel Marketing Managers are also tagged to create their own activity tracking issue.
+* A Zip requisition request is opened. 
+* Zip will now have an MDF approver (MDF Program Owner) to make sure we have all of the correct information updated and to make sure that payment is not process for partner before receiving the POP. 
+* After that Zip approval will take 4 business days. 
 
 #### Phase 3: Payment 
-      * Three automated emails are sent to partners notifying them to submit their claims. 
-            * Email 1: sent a day after the activity end date 
-            * Email 2: 14-day after the activity end date has passed 
-            * Email 3: 28 days after the activity end date has passed, alerting them once the 30-day deadline has been reached, GitLab can contractually  decline to pay if the MDF Claim is not submitted. For new partners that need to be onboarded in Coupa we are allowing a 35 day deadline.  
-            _For more information please read the Rules of Engagement for Payment. 
-      * A communication will be made to the Channel Marketing Managers if claim has not yet been made and Channel Marketing Managers will reach out to Partners. 
+* Three automated emails are sent to partners notifying them to submit their claims. 
+* Email 1: sent a day after the activity end date 
+* Email 2: 14-day after the activity end date has passed 
+* Email 3: 28 days after the activity end date has passed, alerting them once the 30-day deadline has been reached, GitLab can contractually  decline to pay if the MDF Claim is not submitted. For new partners that need to be onboarded in Coupa we are allowing a 35 day deadline. 
+* A communication will be made to the Channel Marketing Managers if claim has not yet been made and Channel Marketing Managers will reach out to Partners. 
 
 Once a claim is submitted MDF Program Owner receives an automated email. 
-      * All of the files received by the partner are checked. If any documentation is missing or does not fulfill the MDF Guidelines we will reach out to partner. 
-      * All of the documentation gets uploaded to the POP issue and the label for MDF Program Owner to review and approve. 
-      * MDF Program Owner checks every POP issue, looking at lead list, invoice and supporting images/pdfs and approves it or tags Channel Marketing Managers if there’s a concern. 
-      * Once approved, Teri will upload the lead list to the Lead Upload Issue. 
-      * She will email the invoice to AP. 
-      * She will note in Zip/Coupa - MDF Reimbursement payment is clear to pay. 
-      * Payment can take up to 45 days once invoice is submitted to Accounts Payable.
+* All of the files received by the partner are checked. If any documentation is missing or does not fulfill the MDF Guidelines we will reach out to partner. 
+* All of the documentation gets uploaded to the POP issue and the label for MDF Program Owner to review and approve. 
+* MDF Program Owner checks every POP issue, looking at lead list, invoice and supporting images/pdfs and approves it or tags Channel Marketing Managers if there’s a concern. 
+* Once approved, Teri will upload the lead list to the Lead Upload Issue. 
+* She will email the invoice to AP. 
+* She will note in Zip/Coupa - MDF Reimbursement payment is clear to pay. 
+* Payment can take up to 45 days once invoice is submitted to Accounts Payable.
 
 ## Contact us
 
