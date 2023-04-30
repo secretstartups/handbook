@@ -17,9 +17,9 @@ I particularly enjoy weird/strange/complicated technical issues, so if you're st
 
 ## Organisation 
 
-I use a personal project on GitLab with a board to manage my immediate day-to-day and medium-term work.  Todos and e-mails are, after initial filtering, turned into issues/cards on that board for Today; others (including random ideas that sprung to mind) may be in various 'future' categories from Tomorrow to Maybe Never 
+I use a local [Kanban board](https://greggigon.com/my-personal-kanban-2-0/) to manage my immediate day-to-day and medium-term work.  Todos and e-mails are, after initial filtering, turned into issues/cards on that board for Today; others (including random ideas that sprung to mind) may be in various 'future' categories from Tomorrow to Maybe Never 
 
-I strive very hard for Inbox Zero and GitLab Todo Zero.  I consider unblocking colleagues one of my higher priorities, so I will, if at all possible, respond to most Todos that need a response within a working day (I am, perhaps, lucky to still be early enough in my tenure that this is feasible).  If I haven't responded in some manner within a couple of working days, I've likely lost/missed it and may need another prompt (and will be happy to receive it).
+I strive very hard for Inbox Zero and GitLab Todo Zero.  I consider unblocking colleagues one of my higher priorities, so I try very hard to respond to Todos that are blocking within a working day.  If I haven't responded in some manner within a couple of working days, I've likely lost/missed it and may need another prompt (and will be happy to receive it).
 
 ## Communications
 
@@ -27,7 +27,7 @@ I prefer direct and unsubtle (but still kind) communication, and do not like hav
 
 I welcome constructive feedback on how to do anything better; if I have made a mistake I prefer to know it so I can try not to make it again.  In particular, I strive never to be rude or obnoxious (although I may fail on hopefully rare occasions), so if I am it is probably unintentional, and I ask that you tell me directly so that I can correct my future behavior.
 
-If I'm at work (at my desk in my dedicated office), I tend to respond fairly quickly to Slack unless I'm deep into something technical.  If I'm not at work (and not on-call), I occasionally open Slack on mobile but that's a bad habit and I am trying not to.  I do not have Mobile notifications enabled unless I'm literally on-call and even then only in select channels.  I do not have any access to any other GitLab accounts (e-mail, gitlab.com, etc) outside my work laptop, which stays at my desk 99.9% of the time, and I intend to keep it that way.
+If I'm at work (at my desk in my dedicated office), I tend to respond fairly quickly to Slack unless I'm deep into something technical.  If I'm not at work (and not on-call), I occasionally open Slack on mobile but that's a bad habit and I am trying not to.  I do not have Mobile notifications enabled.  I do not have any access to any other GitLab accounts (e-mail, gitlab.com, etc) outside my work laptop, which stays at my desk 99.9% of the time, and I intend to keep it that way.
 
 ## Limitations
 
