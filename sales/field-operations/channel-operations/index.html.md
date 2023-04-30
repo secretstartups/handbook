@@ -452,7 +452,7 @@ Follow the steps below to process a Partner Sourced Deal Registration for a resa
 6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
 7. Add any comments for the partner in the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
 
-  **GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
+   **GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
 
 8. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
@@ -490,7 +490,7 @@ Follow the steps below to process a Partner Sourced Deal Registration for an MSP
 10. Connect the GitLab Sales Rep to the MSP Partner Rep so they can discuss and align on opportunity and quote details.
 11. Provide [Deal Desk MSP quoting](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#msp-quotes) and [Internal Partner Program discounting](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) links to the GitLab Sales Rep so they have the process details necessary to manage the opportunity and create a quote.
 
-  **GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
+   **GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
 
 12. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
@@ -522,7 +522,7 @@ Follow the steps below to process a Partner Sourced Deal Registration for a Refe
 6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
 7. Add any comments for the partner in the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
 
-  **GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
+   **GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
 
 8. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
@@ -558,7 +558,7 @@ Follow the steps below to process a Service Attached Registration for a resale o
 6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.  
 7. Add any comments for the partner in the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
 
-  **GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
+   **GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
 
 8. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
