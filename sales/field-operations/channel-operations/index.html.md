@@ -436,7 +436,7 @@ Partner Sourced Deal Registrations for resale opportunities reward partners for 
 
 Follow the steps below to process a Partner Sourced Deal Registration for a resale opportunity:
  
-**Partner Manager for first review and action:**
+#### Partner Manager for first review and action
 
 1. Click the link in either your email or the Deal Registration Report to open the registration record in Salesforce.
 2. Confirm the `Deal Registration Type` is ”Resale” and that the partner provided sufficient detail to proceed with the registration. If registration details are:
@@ -452,7 +452,7 @@ Follow the steps below to process a Partner Sourced Deal Registration for a resa
 6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
 7. Add any comments for the partner in the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
 
-**GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
+#### Area Sales Manager (ASM) for final review and action (if approved by Partner Manager)
 
 1. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
@@ -470,7 +470,7 @@ A Managed Service Provider (MSP) purchases licenses on behalf of an end user. Th
 
 Follow the steps below to process a Partner Sourced Deal Registration for an MSP opportunity:
  
-**Partner Manager for first review and action:**
+#### Partner Manager for first review and action
 
 1. Click the link in either your email or the Deal Registration Report to open the registration record in Salesforce.
 2. Confirm the `Deal Registration Type` is "MSP" and that the partner provided sufficient detail to proceed with the registration. If registration details are:
@@ -490,7 +490,7 @@ Follow the steps below to process a Partner Sourced Deal Registration for an MSP
 10. Connect the GitLab Sales Rep to the MSP Partner Rep so they can discuss and align on opportunity and quote details.
 11. Provide [Deal Desk MSP quoting](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#msp-quotes) and [Internal Partner Program discounting](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) links to the GitLab Sales Rep so they have the process details necessary to manage the opportunity and create a quote.
 
-**GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
+#### Area Sales Manager (ASM) for final review and action (if approved by Partner Manager)
 
 1. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
@@ -506,7 +506,7 @@ Partner Sourced Deal Registrations for referral opportunities reward partners fo
 
 Follow the steps below to process a Partner Sourced Deal Registration for a Referral opportunity:
 
-**Partner Manager for first review and action:**
+#### Partner Manager for first review and action
 
 1. Click the link in either your email or the Deal Registration Report to open the registration record in Salesforce.
 2. Confirm the `Deal Registration Type` is ”Resale” and that the partner provided sufficient detail to proceed with the registration. If registration details are:
@@ -522,7 +522,7 @@ Follow the steps below to process a Partner Sourced Deal Registration for a Refe
 6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
 7. Add any comments for the partner in the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
 
-**GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
+#### Area Sales Manager (ASM) for final review and action (if approved by Partner Manager)
 
 1. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
@@ -533,14 +533,14 @@ Follow the steps below to process a Partner Sourced Deal Registration for a Refe
 
 _The deal registration form is not a quoting tool and will not have all the information needed to create a quote. The GitLab Sales Rep must connect with the partner to request any necessary information prior to creating a quote._
  
-## Service Attach Opportunities
+### Service Attached Registration and Opportunities
 GitLab incentivizes partners that sell their own professional services into a customer environment at the time of a GitLab product sale. An approved Service Attached Registration makes the partner eligible for a **back-end rebate** (processed quarterly) once (i) GitLab successfully closes the related software deal as won and (ii) the partner completes their services and provides Proof of Execution, as outlined in the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#definitions-and-qualifications). This is separate from the Partner Sourced Deal Registration for the license sale.
 
 To track the Partner Services, the partner must register the deal on the [Partner Portal](https://about.gitlab.com/handbook/resellers/#gitlab-partner-portal).
 
-Follow the steps below to process a Service Attached Registration for a resale opportunity:
+Follow the steps below to process a Service Attached Registration for an applicable GitLab software sale opportunity:
 
-**Partner Manager for first review and action:**
+#### Partner Manager for first review and action
 
 1. Click the link in either your email or the Deal Registration Report to open the registration record in Salesforce.
 2. Confirm the `Program Name` is “Service Attached Registration”, `Services Attach Type` is populated with the relevant service, and that the partner provided sufficient detail to proceed with the registration. If registration details are _accurate and complete_, proceed to the next step. If registration details are _inaccurate and/or incomplete_, navigate to the Approval History section of the registration and select `Return`. **Important to note:**
@@ -558,7 +558,7 @@ Follow the steps below to process a Service Attached Registration for a resale o
 6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.  
 7. Add any comments for the partner in the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
 
-**GitLab Area Sales Manager (ASM) for final review and action (if approved by Partner Manager):**
+#### Area Sales Manager (ASM) for final review and action (if approved by Partner Manager)
 
 1. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
@@ -567,7 +567,7 @@ Follow the steps below to process a Service Attached Registration for a resale o
 3. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
 4. Add any comments for the partner into the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
 
-**Post-Approval:**
+#### Post-Approval
 
 1. The registration and opportunity records will be updated with the approval information.
   - A Service Attached registration will **not** populate the Partner Sourced Deal Registration section of an opportunity. Click the related list link at the top of the opportunity to locate the Service Attached registration. This will bring you to a list of any registration attached to the opportunity, including the Service Attached Registration.
@@ -590,7 +590,7 @@ Rebate payouts will be reported and paid after each GitLab quarter close.
   - 1-3 Service attach deliveries in a quarter: 3% rebate on license net ARR up to $2,500
   - 4+ Service attach deliveries in a quarter:  6% rebate on license net ARR up to $5,000
   - Total cap is $25,000 per partner per quarter
-- Partners must register a Services Attach deal registration and provide proof of performance/execution to qualify for the incentive.
+- Partners must hold an approved Service Attached Registration and provide proof of performance/execution to qualify for the incentive.
 - Rebates and referral fees may require CRO approval. 
 - Discounts are off list price.  If GitLab is deeply discounting a large ARR customer engagement, the partner can reasonably expect to share in that with a discount reduction.  The Partner, GitLab Sales, Channel Account Manager must agree on the negotiated discount amount.
  
