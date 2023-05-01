@@ -63,7 +63,7 @@ Here what mentors and mentees at GitLab have to say about the program:
 
 ## Current Program Timeline
 
-The next iteration of this program is currently being planned. Please fill out [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSc49xN1n3VNzX-yQNbRcG6CJiksQy41aAMw0QnF1F6vyhwgkA/viewform?usp=sf_link) to stay informed of program updates.
+Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSf5yUA-H0RSeQSA8gj3_2mcdzZJkKLCsU-be-Ygdw5KfCSVLw/viewform?usp=sf_link) to be notified of mentorship programs happening in FY24!
 
 | Date | Description | Related Resources |
 | ----- | ----- | ----- |
