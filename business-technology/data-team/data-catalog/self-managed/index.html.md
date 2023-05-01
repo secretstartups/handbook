@@ -25,7 +25,7 @@ description: "This page defines Self-Managed and provides directions for Self-Ma
   - Self-Managed Implementations are identified at the Instance level with an Instance_id. A customer may have multiple Installations per Instance with the same instance id and different Host Names, i.e. Prod, Dev or Other Group.
     - Instance_id is synonymous with `uuid` in Service Ping or `dim_instance_id` in our data models
     - Installations are identified using `dim_installation_id` in our data models
-  - Each Instance has a set of features that are cascaded down through all Installations per the License Agreemnent
+  - Each Instance has a set of features that are cascaded down through all Installations per the License Agreement
 * License
   - A single License is assigned to each Customer Implementation (Instance).  The [license key](https://about.gitlab.com/pricing/#how-does-the-license-key-work) gives the authorization to activate and use the product. A [maximum number of users](https://docs.gitlab.com/ee/subscriptions/self_managed/#maximum-users) is assigned for the license period.  Additional users may be added during the License period and handled as [Users over License](https://docs.gitlab.com/ee/subscriptions/self_managed/#users-over-license) during renewal.   
 * Subscriptions

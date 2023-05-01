@@ -1,11 +1,11 @@
 ---
 layout: handbook-page-toc
 title: "TD: Zuora Revenue Waterfall"
-description: "The goal of this page is to help you understand how to navidate the Zuora Revenue Waterfall."
+description: "The goal of this page is to help you understand how to navigate the Zuora Revenue Waterfall."
 ---
 ## Goal of this Page:
 
-* Help you understand how to navidate the Zuora Revenue Waterfall.
+* Help you understand how to navigate the Zuora Revenue Waterfall.
 
 ## Waterfall Report
 The waterfall report allows us to understand when revenue from a given transaction will be recognized over time. This will be timed differently for various products in our catalog and is defined by the contract's particular schedule. The waterfall report is a powerful tool to see how much revenue will be recognized in a given month as well as the amount previously recognized for a specific transaction.
@@ -71,7 +71,7 @@ Facts:
 <ul>
   <li>as_of_period_id: key filter to show the waterfall report as it was for a past time period</li>
   <li>revenue_contract_line_attribute_16: indicates if a line has been adjusted through a manual true-up </li>
-  <li>revenue_contract_schedule: The performance obligations are recognized over time based on the rules for the performance obligation type. These rules are expessed as a schedule, which states when and what percent of a contract obligation can be recognized. This is the basis for the waterfall report</li>
+  <li>revenue_contract_schedule: The performance obligations are recognized over time based on the rules for the performance obligation type. These rules are expressed as a schedule, which states when and what percent of a contract obligation can be recognized. This is the basis for the waterfall report</li>
 </ul>
 </details>
 <style> #headerformat {

@@ -124,10 +124,10 @@ To create your own dashboards, you can reference the following views available i
 * **[mart_crm_opportunity]** - mart table that joins the applicable facts and dimensions together to get a view of the opportunity section of the Sales Funnel.
 * **[mart_crm_person]** - mart table that joins applicable facts and dimensions together to get a view of the marketing qualified lead section of the Sales Funnel.
 * **[mart_sales_funnel_target]** - mart table that joins applicable facts and dimensions together to get a view of the Sales Funnel Targets.
-* **[rpt_crm_opportunity_closed_period]** - report that pivots the **[mart_crm_opportunity]** view on the closed period and generaties useful date aggreation fields.
-* **[rpt_crm_opportunity_accepted_period]** - report that pivots the **[mart_crm_opportunity]** view on the accepted period and generaties useful date aggreation fields.
-* **[rpt_crm_opportunity_created_period]** - report that pivots the **[mart_crm_opportunity]** view on the created period and generaties useful date aggreation fields.
-* **[rpt_sales_funnel_target]** - report that pivots the **[mart_sales_funnel_target]** view on the target period and generaties useful date aggreation fields. 
+* **[rpt_crm_opportunity_closed_period]** - report that pivots the **[mart_crm_opportunity]** view on the closed period and generates useful date aggregation fields.
+* **[rpt_crm_opportunity_accepted_period]** - report that pivots the **[mart_crm_opportunity]** view on the accepted period and generates useful date aggregation fields.
+* **[rpt_crm_opportunity_created_period]** - report that pivots the **[mart_crm_opportunity]** view on the created period and generates useful date aggregation fields.
+* **[rpt_sales_funnel_target]** - report that pivots the **[mart_sales_funnel_target]** view on the target period and generates useful date aggregation fields. 
 * **[rpt_crm_person_mql]** - report that filters **[mart_crm_person]** WHERE is_mql = 1 that is used to count MQLs.
 
 This views takes into account the data models as seen in the Entity Relationship Diagram (ERD):
@@ -150,7 +150,7 @@ This views takes into account the data models as seen in the Entity Relationship
 <summary markdown='span'>
   Example Queries
 </summary>
-Let's calculate SAOs, MQLs, and pull the targets for SAOs using the Marts. You can use these queries in both Snowflkae and Sisense.
+Let's calculate SAOs, MQLs, and pull the targets for SAOs using the Marts. You can use these queries in both Snowflake and Sisense.
 <br>
 ```sql
 --select the targets for SAOs
