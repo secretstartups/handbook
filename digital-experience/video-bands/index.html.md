@@ -53,7 +53,7 @@ The carousel identifier is what you want the name of the carousel to be. Please 
 
 #### Image previews
 
-Each video needs a related preview image. There are a couple of options to use depending on the situation. Usually we use the thumbnail that already exists in Youtube's system. If that thumbnail isn't very good or representative then we might create one manually.
+Each video needs a related preview image. There are a couple of options to use depending on the situation. Usually we use the thumbnail that already exists in YouTube's system. If that thumbnail isn't very good or representative then we might create one manually.
 
 To grab the existing image from youtube videos you can use the browser developer tools inspector. You should see something like this from youtube with an image URL:
 

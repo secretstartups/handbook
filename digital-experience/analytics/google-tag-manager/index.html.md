@@ -12,7 +12,7 @@ title: "Tracking Web Events with Google Tag Manager"
 
 # Google Tag Manager
 
-Google Tag Manager (GTM) is a tag management tool that configures web tracking rules, sending data to various analytics and advertisement platforms such as Google Analytics 4, Google Ads, and Linkedin Ads.
+Google Tag Manager (GTM) is a tag management tool that configures web tracking rules, sending data to various analytics and advertisement platforms such as Google Analytics 4, Google Ads, and LinkedIn Ads.
 
 <!-- blank line -->
 <figure class="video_container">
@@ -37,7 +37,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ```
 
 ### Tag
-A tag contains the event name from an activity that occured on the website (e.g. page view, video play, link click, scroll), the destination of the data, and additional information about the event. Each tag contains a trigger that instructs the tag on how and when to fire (e.g. page load, form submission, link click). Optionally, the tag may contain variables to capture additional information about the event (e.g. page name, video title)
+A tag contains the event name from an activity that occurred on the website (e.g. page view, video play, link click, scroll), the destination of the data, and additional information about the event. Each tag contains a trigger that instructs the tag on how and when to fire (e.g. page load, form submission, link click). Optionally, the tag may contain variables to capture additional information about the event (e.g. page name, video title)
 
 All tags must contain the appropriate cookie consent condition based on the OneTrust consent rules. GA4 tags must only fire if `analytics_storage` cookies are accepted by the website visitor. On the OneTrust banner, this is considered the "Performance and Analytics" cookie category (ID C0002). 
 
