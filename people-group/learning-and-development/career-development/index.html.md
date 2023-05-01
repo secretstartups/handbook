@@ -354,7 +354,7 @@ _Please note that while managers can facilitate career development conversations
 *  There is no timeline or deadline on this process, however, the goal is for all team members to acknowledge at least one career development conversation in FY'22.
 *  If you have not had a career conversation yet it is up to you to schedule a time to review and discuss with your manager.
 *  If you are new to GitLab the recommendation is that you start career conversations after your first 90 days.
-*  Career conversations should not be confused with promotion conversations. Team members who do not want to increase their scope of work or be promoted, but are performing, should not feel pressured to move up or out. Career conversations can also focus on helping team members identify projects or other activities that keep the team member engaged and learning new skills. _Please note that development can also include lateral moves, or moving to another speciality within the same job family and job level._
+*  Career conversations should not be confused with promotion conversations. Team members who do not want to increase their scope of work or be promoted, but are performing, should not feel pressured to move up or out. Career conversations can also focus on helping team members identify projects or other activities that keep the team member engaged and learning new skills. _Please note that development can also include lateral moves, or moving to another specialty within the same job family and job level._
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/xUNupnJyTNY" frameborder="0" allowfullscreen="true"> </iframe>

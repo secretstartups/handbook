@@ -266,7 +266,7 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 | Term | Definition | Duration |
 | ------ | ------ | ------ |
 | Instructor-Led Training (ILT) | Practice of training and learning material between an instructor and learners. Face-to-face training (classroom training) | Varies |
-| Virtual Instructor-Led Training (VILT) | Training that is delivered in a virtual enviornment (i.e. training in Zoom)| 1 to 3 hours |
+| Virtual Instructor-Led Training (VILT) | Training that is delivered in a virtual environment (i.e. training in Zoom)| 1 to 3 hours |
 | E-Learning | Learning based on traditional learning theories which takes place electronically, often via the Internet. | Varies |
 | Blended Learning | Training that uses multiple methods to teach the new information to learners. It can includ ILTs, self-paced materials, VILT sessions, etc. | Varies |
 | Webinar | A seminar conducted virtually to a large audience | 3+ hours | 

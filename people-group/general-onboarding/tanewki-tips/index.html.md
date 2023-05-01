@@ -135,7 +135,7 @@ As point 36 on our [communication handbook page](/handbook/communication/#writin
 
 If you're nearing your start date and still haven't received your laptop, please reach out to people-connect@gitlab.com for us to check in with the IT department and see where your laptop is in transit. 
 
-**New user to Mac?** Don't worry, many of us were also first time users! When you get your laptop, feel free to explore and get used to using your Macbook (just remembering not to set up an Apple ID). There is this really great [Handbook page](/handbook/tools-and-tips/mac/) that share different helpful tips and many helpful [YouTube video's](https://www.youtube.com/watch?v=PlruI5ryP8Q). If you are switching from Windows to macOS, these [keyboard tips](https://support.apple.com/en-us/HT204216) may be useful.
+**New user to Mac?** Don't worry, many of us were also first time users! When you get your laptop, feel free to explore and get used to using your MacBook (just remembering not to set up an Apple ID). There is this really great [Handbook page](/handbook/tools-and-tips/mac/) that share different helpful tips and many helpful [YouTube video's](https://www.youtube.com/watch?v=PlruI5ryP8Q). If you are switching from Windows to macOS, these [keyboard tips](https://support.apple.com/en-us/HT204216) may be useful.
 
 GitLab utitilizes Navan as our team member [expense](/handbook/finance/expenses/) reimbursement tool. All team members will have access to Navan within 2 days from their hire date. If you don't see a tile for Navan in your Okta dashboard, please contact `ap@gitlab.com`. 
 
