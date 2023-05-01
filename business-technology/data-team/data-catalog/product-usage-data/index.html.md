@@ -93,18 +93,18 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 ### Solution Ownership
 
 - Source System Owner:
-    - Usage Ping: `@jfarris`
+    - Service Ping: `@jfarris`
     - Salesforce: `@jbrennan1`
 - Source System Subject Matter Expert:
-    - Usage Ping: `@jfarris`
+    - Service Ping: `@jfarris`
     - Gainsight:  `@jbeaumont`
     - Salesforce: `@jbrennan1`
-- Data Team Subject Matter Expert: `@rparker` `@snalamaru`
+- Data Team Subject Matter Expert: `@iweeks` `@snalamaru` `@mdrussell`
 
 ### Key Terms
 
 1. [Customer](/handbook/sales/sales-term-glossary/)
-1. [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/)
+1. [Service Ping](https://docs.gitlab.com/ee/development/service_ping/index.html)
 1. [GitLab Self-Managed Subscription](https://docs.gitlab.com/ee/subscriptions/self_managed)
 1. [GitLab SaaS subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#gitlab-saas-subscription)
 1. [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link)
@@ -147,19 +147,19 @@ A great way to get started building charts in Sisense is to watch this 10 minute
 #### Key Fields and Business Logic
 
 - The Product Usage data sourced from GitLab SaaS and GitLab Self-Managed customer deployments is fed into the Enterprise Data Warehouse on a regular basis to be consumed by Gainsight and Salesforce.
-- We utilize Usage Ping to derive self-managed customer usage data. Self-Managed customer product usage data is largely contained in the self-contained Usage Ping packets.
+- We utilize Service Ping to derive self-managed customer usage data. Self-Managed customer product usage data is largely contained in the self-contained Service Ping packets.
 - The SaaS Customer Product Usage Data is rebuilt using source database tables.
 - The Seat Link data encompasses license utilization data for all customers, regardless of type (self-managed or SaaS).
-- The Aggregated metrics are collected in 7 and 28 day time frames are added into Usage Ping payload under the aggregated_metrics sub-key in the counts_weekly and counts_monthly top level keys.
+- The Aggregated metrics are collected in 7 and 28 day time frames are added into Service Ping payload under the aggregated_metrics sub-key in the counts_weekly and counts_monthly top level keys.
 - Aggregated metrics for all time frame are present in the count top level key, with the aggregate_ prefix added to their name.
-- The underlying tables for Gainsight's consumption are built on the set of all Zuora subscriptions that are associated with a Self-Managed rate plans. Seat Link data from Customers DB is combined with high priority Usage Ping metrics to build out the set of facts included in this table. The most recently received and the latest Usage Ping (by created_at date for a given subscription_id) and Seat Link (by dim_subscription_id) payload from each month are reported.
+- The underlying tables for Gainsight's consumption are built on the set of all Zuora subscriptions that are associated with a Self-Managed rate plans. Seat Link data from Customers DB is combined with high priority Service Ping metrics to build out the set of facts included in this table. The most recently received and the latest Service Ping (by created_at date for a given subscription_id) and Seat Link (by dim_subscription_id) payload from each month are reported.
 
 
 #### Entity Relationship Diagrams
 
 | Diagram/Entity                                                                                              | Grain | Purpose | Keywords |
 | ------------------------------------------------------------------------------------------------------------| ----- | ------- | -------- |
-| [Product Usage Data ERD](https://lucid.app/lucidchart/232217df-3928-4756-bab5-ff5d9e9f8e1d/view?page=AD~qmCVo1T~c#) |  All of the below | Shows all table structures, including column name, column data type, column constraints, primary key, foreign key, and relationships between tables.| Customer, Usage Ping, Subscription, Seat Link, Self- Managed, SaaS, Product, Delivery, Accounts |
+| [Product Usage Data ERD](https://lucid.app/lucidchart/232217df-3928-4756-bab5-ff5d9e9f8e1d/view?page=AD~qmCVo1T~c#) |  All of the below | Shows all table structures, including column name, column data type, column constraints, primary key, foreign key, and relationships between tables.| Customer, Service Ping, Subscription, Seat Link, Self- Managed, SaaS, Product, Delivery, Accounts |
 
 
 #### Reference SQL
@@ -180,7 +180,7 @@ The Data Team has leveraged the native capabilities in Gainsight to read data fr
 
 #### Gainsight to Snowflake Data Pipeline:
 
-The Data Team to develop a new source data pipeline from Gainsight into Snowflake to include new custom objects and data created in Gainsight to increase the usage ping match rate, among other improvements.
+The Data Team to develop a new source data pipeline from Gainsight into Snowflake to include new custom objects and data created in Gainsight to increase the Service Ping match rate, among other improvements.
 
 The diagram [Product Usage data developmental Streams](https://lucid.app/lucidchart/232217df-3928-4756-bab5-ff5d9e9f8e1d/view?page=UJ-bqxNqcUw2#)
 illustrates our development approach for managing the delivery of Self-Managed and SaaS Product Usage to Gainsight.
