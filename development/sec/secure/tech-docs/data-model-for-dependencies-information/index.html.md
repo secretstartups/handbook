@@ -760,7 +760,7 @@ To make it efficient, a composite index on `vulnerability_identifiers.external_t
 
 A Software Bill of Materials (SBoM) is a document that lists components in a piece of software.
 The components are identified using URLs, sets of coordinates, or some other kind of IDs.
-Components might have addtional metadata like a list of authors, URLs, licenses, security advisories, etc.
+Components might have additional metadata like a list of authors, URLs, licenses, security advisories, etc.
 The document usually describes both the software for which the SBoM was created and the tool used to create the SBoM.
 
 In this document we focus on application-level packages detected by Dependency Scanning and License Scanning

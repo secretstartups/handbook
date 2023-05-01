@@ -65,7 +65,7 @@ By the end of day, all team members should take a last look at the board and mak
 #### Actions and wrap-up (Thursday)
 On the last day of retrospective the team will have a call to go over the insights discovered during the week and determine if any actions are required and what kind of action is needed. During this meeting the team will also vote and prioritize the actions that are identified so they can be assessed and detect what is important and what is feasible to do in the short term. 
 
-All team members are strongly encouraged to attend. This is a once a month meeting and a reasonable commitment for synchronous communication. In order to accomodate for various time zones, there will be two options for wrap-up calls for team members to attend. One will be friendly to anyone located in the US/EAST-WEST time region and another one for the EMEA region. As the team locations change over time, we will adjust the schedule to make sure the meetings always happen within normal working hours. 
+All team members are strongly encouraged to attend. This is a once a month meeting and a reasonable commitment for synchronous communication. In order to accommodate for various time zones, there will be two options for wrap-up calls for team members to attend. One will be friendly to anyone located in the US/EAST-WEST time region and another one for the EMEA region. As the team locations change over time, we will adjust the schedule to make sure the meetings always happen within normal working hours. 
 
 The retrospective will wrap up with a check-out activity that helps with reflection on how the retrospective itself went and if any adjustments are required.
 
