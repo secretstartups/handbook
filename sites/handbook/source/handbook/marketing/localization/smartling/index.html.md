@@ -285,7 +285,7 @@ If any strings are rejected from the translation job, those would appear as `iss
 
 ## History
 
-The `History` tab on a job provides detailed information about the activity that has occured with the job. You also have the option to `Download Translation Activity Report`. The same history is available on the individual string level. 
+The `History` tab on a job provides detailed information about the activity that has occurred with the job. You also have the option to `Download Translation Activity Report`. The same history is available on the individual string level. 
 
 ## Translation Memory
 
