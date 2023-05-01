@@ -83,7 +83,7 @@ In this approach, an agent is installed in your cluster to pull changes whenever
 Infrastructure as Code requires understanding of the platform and the desired state of the application environment. Users of Infrastructure as Code have a good understanding of both Git as a SCM tool as well as the platform they are expected to provision and manage. Below are a few power users Infrastructure as Code:
 
 * [Sam, the SRE](/handbook/product/personas/)
-  Sam works embedded into a service team with feature developers. They works on keeping the service up, deploying it, and managing the infrastruture needs of that service. They collaborate with the Platform team to systamatize best practices.
+  Sam works embedded into a service team with feature developers. They works on keeping the service up, deploying it, and managing the infrastructure needs of that service. They collaborate with the Platform team to systamatize best practices.
 
 
 * [Devon, the DevOps Engineer](/handbook/product/personas/)
@@ -140,7 +140,7 @@ Below are the [market requirements](/handbook/marketing/brand-and-product-market
      - Visibility into security scans and build stats
    - Value: Quality of the code changes being made increases which leads to
         - greater accuracy of fulfilled requests
-        - greater infrastruture stability
+        - greater infrastructure stability
         - and improved release velocity
         through team review and validation.
 
@@ -271,7 +271,7 @@ The WeaveWorks Cloud solution also works together with GitLab - with GitLab SCM 
 
 | Differentiator  | How competitor does it | How GitLab does it differently |
 | - | ---------------------- | ------------------------- |
-| Multiple products to achieve GitOps | The Weaveworks toolchain is GitHub for version control, CircleCI for CI , Quay.io for container registry, Weave Flux for CD in addition to other tools for configuration management, infrastructure provisioning and container orchestration [Source](https://www.weave.works/blog/the-gitops-pipeline). Customers can choose any other Git, CI, container registry of their choice as well | Customers have atleast 3 fewer tools to manage. Version control, CI/CD and container registry is offered by GitLab while we integrate with other tools for configuration management, infrastructure provisioning and container orchestration similar to Weaveworks. |
+| Multiple products to achieve GitOps | The Weaveworks toolchain is GitHub for version control, CircleCI for CI , Quay.io for container registry, Weave Flux for CD in addition to other tools for configuration management, infrastructure provisioning and container orchestration [Source](https://www.weave.works/blog/the-gitops-pipeline). Customers can choose any other Git, CI, container registry of their choice as well | Customers have at least 3 fewer tools to manage. Version control, CI/CD and container registry is offered by GitLab while we integrate with other tools for configuration management, infrastructure provisioning and container orchestration similar to Weaveworks. |
 | Multiple deployment targets |  Focused on cloud native deployments only | Can deploy to On-premise & cloud, physical, virtual, cloud native infrastructures |
 | Push & Pull based deployment Automation |  Flux watches for new images and updates services in the K8S cluster according to policies chosen by the customer. Does not support push based deployment. | The GitLab Agent for Kubernetes watches for new K8S manifests and updates the K8S cluster accordingly. Available on self managed and on invite only for SaaS. Currently - push based deployment is supported without agent. Roadmap includes push based deployment support as well using the agent. |
 | Use GitOps principles to install and manage self | Flux v2 can create a git repo, manage flux manifests and updates using GitOps principles | TBD? |
@@ -299,7 +299,7 @@ This table shows the recommended use cases to adopt, links to product documentat
 ### Quotes and reviews
 - [Video: kiwi.com on Infrastructure as Code](https://www.youtube.com/watch?v=Un2mJrRFSm4) - Learn how kiwi.com uses GitLab and Terraform to manage their infrastructure as code. Bonus info - see how they deploy self hosted gitlab instance from gitlab CI/CD and Infrastructure as Code
 - [Video: VMware - Infrastructure as Code with GitLab and Terraform Cloud](https://www.youtube.com/watch?v=qXj4ShQZ4IM) - GitLab and Terraform have worked well together for some time; Learn how VMware uses GitLab CI/CD and Terraform Cloud to manage infrastructure as code
-- [Video: ValidaTek's journey of DevOps and Infrastructure as code](https://www.youtube.com/watch?v=3uZE-ktP2Pc) - ValidaTek work with all areas of the US Federal government from civilian to military to IC. See how they's set up GitLab to manage their client's infrastruture.
+- [Video: ValidaTek's journey of DevOps and Infrastructure as code](https://www.youtube.com/watch?v=3uZE-ktP2Pc) - ValidaTek work with all areas of the US Federal government from civilian to military to IC. See how they's set up GitLab to manage their client's infrastructure.
 
 #### Gartner Peer Insights
 

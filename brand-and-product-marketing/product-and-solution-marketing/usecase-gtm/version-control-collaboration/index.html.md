@@ -92,7 +92,7 @@ Being the entry point to GitLab means that many user personas find utility and a
 - He would like to have clear, up-to-date requirements that he can reliably refer back to throughout the design process
 
 ### [Sydney the Systems Administrator](/handbook/product/personas/#sidney-systems-administrator)
-- She is in charge of making tools such as GitLab available and accesible to everyone.
+- She is in charge of making tools such as GitLab available and accessible to everyone.
 - She needs to undertand in depth the provision and scalability of the infrastructure to provide the company with a solid, fault tolerant instance of the platform.
 
 ### Buyer Personas

@@ -106,7 +106,7 @@ Review what happened during a fire-fight in a blameless setting. Walk through th
 
 | Market Requirements | How GitLab Delivers Today | Demos |
 | ------------------- | ------------------------- |-------|
-|Integrate alerting sources | We offer the ability to create HTTP endpoints for customers to send alert to. We offer a proprietary Prometheus integrations that recieves alerts from AlertManager | TBD |
+|Integrate alerting sources | We offer the ability to create HTTP endpoints for customers to send alert to. We offer a proprietary Prometheus integrations that receives alerts from AlertManager | TBD |
 |Alert Triage|Users can triage alerts in the alerts list with column sorting capabilities to filter to the most important ones. Clicking on an alert takes the user to the alert details where the user can view the payload, change the status, and assign it to someone. All actions taken on the alert appear as a system note in the audit trail for the alert.|TBD|
 |Incident Response|Users can create incident manually or set up a project to have them created automatically for all alerts that are created in GitLab. Incidents contain alert details, an editable description, and comments so users can collaborate during a fire fight. A user can promote the incident to an externally facing status page to communicate with external stakeholders.|TBD|
 |On-call schedule management|[On-call schedule management MVC](https://gitlab.com/groups/gitlab-org/-/epics/4544) is planned to release in 13.10. The MVC will enable users to create a single schedule in a project that contains multiple rotations. All alerts received to that project will email the on-call responder in the scehdule.|TBD|
