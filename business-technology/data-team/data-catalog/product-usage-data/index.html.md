@@ -172,7 +172,7 @@ A great way to get started building charts in Sisense is to watch this 10 minute
 
 ### Gainsight Data Pump
 
-Data is sourced from GitLab SaaS and GitLab Self-Managed customer deployments.
+Data is sourced from GitLab SaaS and GitLab Self-Managed customer deployments. For information on how to add additional Service Ping metrics to the Gainsight Data Pump, please see the [Data Guide for Adding Service Ping Metrics to Gainsight](/handbook/business-technology/data-team/data-catalog/gainsight-metrics/).
 
 #### EDW to Gainsight Data Pump:
 
