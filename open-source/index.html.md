@@ -21,7 +21,7 @@ The purpose of this page is to document how a GitLab employee can:
 
 ## Growth Strategy
 
-As an open source project, we want to stay healthy and be open for growth, but also ready to accomodate a 10x factor of
+As an open source project, we want to stay healthy and be open for growth, but also ready to accommodate a 10x factor of
 our community. In order to achieve that, we've [outlined a strategy](growth-strategy.html) that is a collaboration between multiple departments.
 
 ## General notes
