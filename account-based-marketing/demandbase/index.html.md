@@ -114,12 +114,12 @@ UKNOWN person data (intent, keyword search etc by folks who have not filled out 
 
 **Option 1: Account List by Company Name**
 
-Create an `account list` with filter for `Account Name` = [add all account names as appears in SFDC seperated by commas]
+Create an `account list` with filter for `Account Name` = [add all account names as appears in SFDC separated by commas]
      - Note: you can use "Switch to text view" to quickly copy and paste account names direct from SFDC if the search mechanism in the DB selector is taking a long time. 
 
 **Option 2: Account List by SFDC Account ID**
 
-Create an `account list` with filter for `SFDC account ID` = [all account IDs in the company hierarchy seperated by commas]
+Create an `account list` with filter for `SFDC account ID` = [all account IDs in the company hierarchy separated by commas]
 
 ### Public Sector data in Demandbase
 {: #demandbase-pubsec-data}
@@ -248,7 +248,7 @@ Any information or fields in Salesforce will be available in Demandbase. If you 
 - Journey Stage (pulls from Demandbase) - Details what journey stage the account is in. More information about journey stages can be found above [here](#journey-stages).)
 - Account Demographics: Sales Segment (pulls from SFDC) - Gives you the option to only see accounts in a specific sales segment
 - Account Owner (Text) (pulls from SFDC) - let's you filter accounts by a specific account owner
-- Account name (merged source, arrow icon) - Add a specific account name or list of account names (make sure to seperate by commas if you paste them in via text mode)
+- Account name (merged source, arrow icon) - Add a specific account name or list of account names (make sure to separate by commas if you paste them in via text mode)
 - Account ID OR Account ID (18) (pulls from SFDC) - helpful if you don't want to use the specific account name
 - First order available (pulls from SFDC) - shows if the account is FOA
 - ABM Tier (pulls from SFDC) - tells you if an account is part of ABM and if so, what tier
