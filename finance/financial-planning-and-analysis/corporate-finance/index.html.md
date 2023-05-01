@@ -55,7 +55,7 @@ We collaborate with tax to review actual tax expenses, forecast tax provision fo
 - We use [#earnings_call_comms](https://slack.com/app_redirect?channel=C02K1RD8TAR) to collaborate & communicate.
 
 ### Business Technology Partnership
-- We support BT team for Adaptive/Netsuite integration to ensure data accuracy between two systems and to meet compliance requirements. Integration is expected to be fully transitioned to the BT team by the end of Q2 FY23.
+- We support BT team for Adaptive/NetSuite integration to ensure data accuracy between two systems and to meet compliance requirements. Integration is expected to be fully transitioned to the BT team by the end of Q2 FY23.
 - We meet quarterly to align expectations & discuss transition plans. We use [#financesystems_help](https://slack.com/app_redirect?channel=C013MP2SY49) for communications, and track requests & progress through [GitLab issues](https://gitlab.com/gitlab-com/business-ops/financeops/finance-systems/-/issues/new).
 
 ### Data and Analytics Partnership
