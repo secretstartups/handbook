@@ -77,9 +77,9 @@ People with the S (Supporter) personality type tend to be "calm, patient and res
  
 ### My Availability
 
-* My calendar is viewable to anyone at GitLab, so feel free to schedule a call without asking, as I will move if I cannot accomodate your original time/date. 
+* My calendar is viewable to anyone at GitLab, so feel free to schedule a call without asking, as I will move if I cannot accommodate your original time/date. 
 * My Slack is always updated with what I'm doing, and my daily and long-term availabilities are up to date in my calendar. 
-* I sometimes work weird hours, to accomodate my needs, but I try not to work long hours. 
+* I sometimes work weird hours, to accommodate my needs, but I try not to work long hours. 
 * Feel free to schedule a coffee chat ☕ with me. I love talking about all things relating to movies, travel, cooking, neurodiversity and people ops! 
 
 ### What I am Working on
