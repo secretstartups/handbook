@@ -67,7 +67,7 @@ Please reach out to the Payroll team `nonuspayroll@gitlab.com` before your last 
 
 #### When will I receive my final pay?
 
-This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](https://about.gitlab.com/handbook/finance/payroll/#pay-date). If you have any additonal questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com` (depending on your location). 
+This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](https://about.gitlab.com/handbook/finance/payroll/#pay-date). If you have any additional questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com` (depending on your location). 
 
 #### When will I receive (if applicable) commission payment(s)?
 

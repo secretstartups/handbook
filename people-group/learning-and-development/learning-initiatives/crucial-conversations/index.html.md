@@ -97,7 +97,7 @@ After you've completed the Crucial Conversations course at GitLab, there are a f
 1. Email Crucial Learning and requst an order form for the licenses needed. Indicate the start date as the day you'll have team members sign up for the course (1 week before self paced learning starts)
 1. Open a Coupa request for the purchase of the licenses
 1. Upload the order form in Coupa and request a legal stamp
-1. Send order form with legal stamp for signature from Finance using Docusign
+1. Send order form with legal stamp for signature from Finance using DocuSign
 1. Re-upload the signed order form to Coupa and send the signed order form back to Crucial Learning
 1. When prepared, download the Purchase Order (PO) PDF from Coupa and email it to Crucial Learning
 1. Crucial Learning will send back the invoice via email. Forward that email to AP with a note and link to the related req in Coupa
