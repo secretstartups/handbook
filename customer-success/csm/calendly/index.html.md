@@ -17,7 +17,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ## Setup Calendly for Customer Success Managers
 
-CSMs use Calendly to efficently manage customer requests for booking ad-hoc meetings.
+CSMs use Calendly to efficiently manage customer requests for booking ad-hoc meetings.
 
 To ensure that a CSM's Calendly is setup to comply with GDPR and similar privacy laws, all team members with a Recorder license in Chorus are required to use a feature called Chorus Scheduler when organizing meetings with customers. Below are the steps required to use Chorus Scheduler for your events booked via Calendly.
 
@@ -33,7 +33,7 @@ To start, login to calendly.com and [edit your event details](https://help.calen
     
 
     -   Next, add the go.chorus.ai link to your calendly event configuration Location field.  
-        -   *Imporant Note*: Anyone booking through your calendly would use the same location link when booking an event instead of an automatically generated unique meeting ID per meeting. Please make sure your Zoom Personal Meeting follows GitLab’s best practices on [privacy and security](/handbook/tools-and-tips/zoom/#a-note-on-privacy-and-security).
+        -   *Important Note*: Anyone booking through your calendly would use the same location link when booking an event instead of an automatically generated unique meeting ID per meeting. Please make sure your Zoom Personal Meeting follows GitLab’s best practices on [privacy and security](/handbook/tools-and-tips/zoom/#a-note-on-privacy-and-security).
     
         -   Make sure to select display location only after confirmation
         -   ![calendly-location](calendly-location-chorus-go.jpeg)

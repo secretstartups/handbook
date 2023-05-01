@@ -68,7 +68,7 @@ This page provides an overview on relevant CSM leadership processes.
   <tr>
     <td>Team development</td>
     <td><ul><li>Once per quarter, the manager schedules an additional 1-hour sync with their team member to discuss their IDP and progress/obstacles</li><li>The CSM is responsible for building and maintaining this document in partnership with their manager</li><li>When a CSM is working towards a promotion, the promotion doc is built and collaborated on in partnership between the CSM and CSM manager. It is the manager’s role to ensure the areas the CSM needs to work on in order to move towards the promotion are clear and articulated with the CSM</li></ul></td>
-    <td>An active IDP in place for every team member, reveiwed on a quarterly basis</td>
+    <td>An active IDP in place for every team member, reviewed on a quarterly basis</td>
   </tr>
   <tr>
     <td><a href="/handbook/customer-success/csm/escalations/">Escalations</a></td>
@@ -96,7 +96,7 @@ For CSM Managers, here is a short checklist to assist in the review:
 
 Accounts are assigned at point of sale by the CSM Manager when a new Account in their region fits the criteria in [CSM Responsibilities and Services](/handbook/customer-success/csm/services/#csm-alignment).
 
-When an Account meets the critera, the following will happen:
+When an Account meets the criteria, the following will happen:
 
 - The CSM Manager assigns the CSM by populating the `CSM Name` field on the C360 account page in Gainsight (only managers have the ability to edit this field)
 - Once the field has been updated with the CSM name, Gainsight will fire the onboarding playbook
@@ -134,7 +134,7 @@ On a regular basis, the CSM Manager should review their team's active Onboarding
 - **Time to first value** uses license utilisation as a proxy for users actively using the platform with a threshold of 10%
   - Automatically calculated when Cloud Licensing turned on (*Note:* If Cloud Licensing is not enabled from the outset, this automation can cause invalid outliers, in this scenario manually correct)
   - Manually collected by the CSM in collaboration with the customer when License data isn't available
-- **Time to onboard** is calculated by onboarding enablement complete *not* infrastrucure ready
+- **Time to onboard** is calculated by onboarding enablement complete *not* infrastructure ready
 
 ### Success Plan Review
 

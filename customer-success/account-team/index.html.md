@@ -108,7 +108,7 @@ The SA owns all pre-sales technical relationships and activities. The SA coordin
 
 When an account moves from pre-sales to post-sales, it is [handed off from the Account Executive/Solutions Architect to the Customer Success Manager](/handbook/customer-success/pre-sales-post-sales-transition/).
 
-The CSM takes primary responsibility for the account once a customer becomes CSM-qualifiying and focuses on ensuring customer success and driving adoption. SAs can be reintroduced in the following situations:
+The CSM takes primary responsibility for the account once a customer becomes CSM-qualifying and focuses on ensuring customer success and driving adoption. SAs can be reintroduced in the following situations:
 - A new POV for upgrade or additional team
 - Transformative or dedicated professional services opportunities
 - If a CSM is over-committed or unable to support a customer request, the SA _may_ be requested to assist. However, the SA has discretion as to the level of involvement or assistance they provide post-sales.
