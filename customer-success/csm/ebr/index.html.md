@@ -53,7 +53,7 @@ From GitLab, in addition to the account team this may include:
 
 Decisions about who to invite to an EBR are made collectively by the account team with input from their respective managers.
 
-## Lifecyle and timetable
+## Lifecycle and timetable
 
 Below is an overview of the EBR process from start to finish. Timelines are listed relative to the EBR delivery date to provide a roadmap.
 
@@ -85,7 +85,7 @@ This meeting can optionally include other GitLab team members that the account t
 
 ### Initial discussion with the customer
 
-During the next cadence call, the CSM discusses the EBR with the customer contacts. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know [key stakeholders should attend](#intended-participants) and ask them to help with scheduling for those participants. After the cadence call, follow up with a written summary of the EBR and reiterate your ask for help in scheduling. Finding availabilty on all calendars can often require weeks or months of lead time, which is why this conversation should happen [no less than 3 months ahead of the target timeframe for the EBR](#lifecyle-and-timetable).
+During the next cadence call, the CSM discusses the EBR with the customer contacts. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know [key stakeholders should attend](#intended-participants) and ask them to help with scheduling for those participants. After the cadence call, follow up with a written summary of the EBR and reiterate your ask for help in scheduling. Finding availabilty on all calendars can often require weeks or months of lead time, which is why this conversation should happen [no less than 3 months ahead of the target timeframe for the EBR](#lifecycle-and-timetable).
 
 [Resources](#resources--materials) to help you with this discussion are available.
 

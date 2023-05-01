@@ -71,7 +71,7 @@ The CSM OKR timeline is as follows:
 | 4 weeks out | VP shares top goals with leadership team for feedback |
 | 4 weeks out | Leadership team collaboratively draft goals for next quarter and agree DRIs |
 | 4 weeks out | Leadership team review current OKR status |
-| 2 weeks out | Leaderhip team 50 minute draft review meeting. After, OKRs are put into GitLab and links are shared in #csm-updates Slack channel  |
+| 2 weeks out | Leadership team 50 minute draft review meeting. After, OKRs are put into GitLab and links are shared in #csm-updates Slack channel  |
 | 2 weeks out | Leadership team discusses with their respective teams and polishes OKRs |
 | 1 week out | Closing ceremony and playback of previous OKRs |
 | 0  | Update OKRs to be active |
