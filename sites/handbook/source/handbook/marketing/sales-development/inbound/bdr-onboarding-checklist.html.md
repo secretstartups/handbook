@@ -26,7 +26,7 @@ Create issue for new hire in marketing with following checklist.
 - What is GitLab (from a high level)
 - Create and assign merge requests (from your onboarding issue)
 - Sign in to SFDC (Salesforce.com)
-- Sign in to Linkedin
+- Sign in to LinkedIn
 
 ### Week 2
 
@@ -53,7 +53,7 @@ Create issue for new hire in marketing with following checklist.
 
 ### For Outbound BDR's
 
-1. [ ] Mine 5 leads each day using Linkedin Sales Navigator and Inside View then add them as contacts to SFDC
+1. [ ] Mine 5 leads each day using LinkedIn Sales Navigator and Inside View then add them as contacts to SFDC
 1. [ ] Create tasks for each contact
 1. [ ] Create a task list in SFDC of at least 25 contacts/leads
 1. [ ] Shadow 3 Outbound BDRs for one hour (See [Team Page](/company/team/))
