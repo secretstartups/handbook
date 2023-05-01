@@ -333,7 +333,7 @@ Add the team label to indicate the team running the event (Example: Field Market
 
 ### Platform and Bandwidth Restrictions: 
 * We can only host one a day/ in a 24 hour period
-* We only have 10 hopin licenses for the whole org. The events team will grant you access on a per event basis. Once the event is over your seat will likley be reallocated to accomodate the next event. 
+* We only have 10 hopin licenses for the whole org. The events team will grant you access on a per event basis. Once the event is over your seat will likley be reallocated to accommodate the next event. 
 * You will need at least two full time support staff to run the event (both need ot be GitLab Hopin admins)
 * Only suggested for events 3+ hours or more (due to complexity of setup)
 * Suggested for events targeting groups of 500+ or for initiatives that are in line with OKRs
@@ -459,7 +459,7 @@ The [virtual event calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLm
 ## Setting up an Event with Hopin- for hopin Admin only
 * You need admin access to do so. Only 5 accounts are held internally and shared bwteen the marketing team. 
 * Login to your account, find our organization and Create a new event. 
-  * See [planning sheet](https://docs.google.com/spreadsheets/d/1VzLTQW3lYDGcVdwnUq81I_gPGUFl_D_jXjZGhFuFhbU/edit#gid=739236632) for addtional steps on setup + screen shots on setup 
+  * See [planning sheet](https://docs.google.com/spreadsheets/d/1VzLTQW3lYDGcVdwnUq81I_gPGUFl_D_jXjZGhFuFhbU/edit#gid=739236632) for additional steps on setup + screen shots on setup 
   * See our internal guide on using and setting up [Hopin](https://docs.google.com/document/d/1-wLl03mF4pzI3WVBqTQgObxMLZtHhV2kUbpRwbCbfbQ/edit#)
 * A GitLab Hopin admin wioll be able to support you with event setup but Hopin also have some great guides on their [best practices](https://support.hopin.to/en/collections/1480288-using-hopin-as-an-organiser) 
 
@@ -674,15 +674,15 @@ The project owner is responsible for following the steps below to create the epi
 ###  Posting external virtual event recordings to youtube
 {: #post-youtube}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Follow this handbook documentation on how to [upload external webcast recordings](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube) to the [GitLab branded Youtube channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels).
+Follow this handbook documentation on how to [upload external webcast recordings](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube) to the [GitLab branded YouTube channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels).
 
 **This process must be completed by the tactic owner.**
 
 *Note: because these requests move through the Campaign Managers currently and their focus and priority is planning, implementing, and optimizing top-funnel campaign strategies, there is a [5 Business Day SLA](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas).*
 
-For immediate follow up emails, it is recommended to point directly to the GitLab Youtube link (uploaded by the tactic owner) to avoid delays in the send.
+For immediate follow-up emails, it is recommended to point directly to the GitLab YouTube link (uploaded by the tactic owner) to avoid delays in the send.
 
-If an upload to Pathfactory (and addition to a track), is *required*, the tactiic owner must open a [Pathfactory Upload](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) issue and **include the GitLab Youtube link**, as well as a [Pathfactory Track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) issue to have the asset added to a track.
+If an upload to Pathfactory (an addition to a track), is *required*, the tactiic owner must open a [Pathfactory Upload](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) issue and **include the GitLab YouTube link**, as well as a [Pathfactory Track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) issue to have the asset added to a track.
 
 
 ### Gating external webcasts
