@@ -242,6 +242,7 @@ The analytics hubs provide links to the current SSOT dashboards for an area of b
 * [Data Guide to Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing/)
 * [Data Guide to Service Data Inspector](/handbook/business-technology/data-team/data-catalog/service-data-inspector/)
 * [Data Guide to SaaS Service Ping Automation](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
+* [Data Guide for Adding Service Ping Metrics to Gainsight](/handbook/business-technology/data-team/data-catalog/gainsight-metrics/)
 
 </details>
 
