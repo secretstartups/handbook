@@ -60,7 +60,7 @@ Always On Lead Generation:
      - Dev Leads (Development Manager): Needs to have a finger on the pulse of their development team’s capacity and priorities. Concerned with improving productivity and unblocking any issues that get in the way of progress. Challenged when development deadlines and assigned tasks change rapidly or too frequently. Also challenged when work on feature delivery is interrupted by show-stopping bugs or blockers.
 * **Ideal state:**
   - Dev and Ops are empowered to work better together, no more "throwing things over the proverbial wall"
-  - Improved visiblity and communication, gain faster feedback and integrate smaller code changes frequently (with less risk of build-breaking changes)
+  - Improved visibility and communication, gain faster feedback and integrate smaller code changes frequently (with less risk of build-breaking changes)
   - Increase release velocity and ship more reliable code, faster time to market and more reliable builds = value into the hands of customer sooner with higher degree of confidence
   - Improve overall quality of the application due to increased test coverage and frequency of automated test execution, which enables preventing bugs from shipping
 * **How GitLab helps:**
@@ -87,7 +87,7 @@ Always On Lead Generation:
     - DevOps Engineer: Needs to effectively support the DevOps tools and infrastructure integral to their org’s application delivery. Concerned with providing development teams with the best possible tools, environments, and integrations for them to be successful. Challenged with prioritizing development work as an individual contributor (features/bug fixes) and supporting dev teams.
 * **Ideal state:**
   - Dev and Ops are empowered to work better together, no more "throwing things over the proverbial wall"
-  - Improved visiblity and communication, gain faster feedback and integrate smaller code changes frequently (with less risk of build-breaking changes)
+  - Improved visibility and communication, gain faster feedback and integrate smaller code changes frequently (with less risk of build-breaking changes)
   - Increase release velocity and ship more reliable code, faster time to market and more reliable builds = value into the hands of customer sooner with higher degree of confidence
   - Improve overall quality of the application due to increased test coverage and frequency of automated test execution, which enables preventing bugs from shipping
 * **How GitLab helps:**
