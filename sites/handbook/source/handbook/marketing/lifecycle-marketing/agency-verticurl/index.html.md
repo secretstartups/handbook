@@ -183,9 +183,9 @@ Verticurl FMC
 
 
 ### FMC Triage Steps
-1. **GitLab**: FMM moves the Field Marekting issue to `mktg-status::wip`. The Event details and FMC Checklist must be filled out in full and line item complete in Allocadia to an issue to WIP).
+1. **GitLab**: FMM moves the Field Marketing issue to `mktg-status::wip`. The Event details and FMC Checklist must be filled out in full and line item complete in Allocadia to an issue to WIP).
 1. **GitLab**: FMM pings the FMC in the Field Marketing issue to request epic and sub issue creation.
-1. **GitLab**: EMEA/APAC FMC reviews Field Marekting Issue, confirms the campaign tag and Allocadia ID has been created and adds in the allocadia line item to the event details.
+1. **GitLab**: EMEA/APAC FMC reviews Field Marketing Issue, confirms the campaign tag and Allocadia ID has been created and adds in the allocadia line item to the event details.
 1. **GitLab**: EMEA/APAC FMC adds the label `FMM-Verticurl::wip` to the Field Markeitng Issue, provides instructions on what is required and EMEA/APAC FMC will assign issue to a Verticurl FMC DRI (Directly Responsible Individual) 
 1. **Verticurl**: Verticurl FMC reviews Field Marketing Issue espcially that the FMC Checklist is complete. If information is incomplete the Verticurl FMC will message the FM DRI to clarify and to provide the missing information before they proceed
 1. **Verticurl**: Verticurl FMC creates the epic and sub-issues utilizing this [list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)  
