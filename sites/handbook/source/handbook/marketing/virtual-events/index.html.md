@@ -75,7 +75,7 @@ Once the DRI has identified that the date will change, **DRI** will:
 
 * Update the event date and the campaign tag on the main event issue and in the Budget Document.  
 * Tag the relevant internal contacts for the event in a comment to notify them that the date has changed.
-* In the main event issue, ping the GL Accountant (@GGGONZALEZ) with the old campaign tag to be removed from Netsuite and the new campaign tag to be added in Netsuite.  
+* In the main event issue, ping the GL Accountant (@GGGONZALEZ) with the old campaign tag to be removed from NetSuite and the new campaign tag to be added in NetSuite.  
 * If event is on the Events Page, [submit MR](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to update the date.
 * If event is on a specific Virtual Events Calendar, move to the new date and adjust calendar information.
 
@@ -388,7 +388,7 @@ You may also want to review the [GitLab Video Playbook](https://about.gitlab.com
 {: #best-practices-sponsored-events}
 * Unlike in-person events, there are not usually drink receptions, food and other activities that drive traffic to a virtual booth. If there is gamification, it also is not a guarantee someone will actually talk to someone in the booth. Do not expect to get the same type of traffic you would at an in person event.
 * To help drive traffic, staff and schedule SDRS and others to attend and network outside of the booth as well, whether that be through direct messages, in sessions, or any other networking features the event provides. Be mindful and encourage SDR’s to direct messages strategically, avoiding mass messaging everyone at the conference. This is often not an appreciated outreach and will be disregarded.
-* In AMER, Solution Architects will not join regional virtual sponsored conferences unless otherwise specified. If technical questions arise during the event, please list the question(s) into the #cs-questions slack channel. SA Manager is to be included on the event issue and a heads up will be given in the #cs-questions Slack channel so the SA team knows an event will be occuring and to expect questions.
+* In AMER, Solution Architects will not join regional virtual sponsored conferences unless otherwise specified. If technical questions arise during the event, please list the question(s) into the `#cs-questions` slack channel. SA Manager is to be included on the event issue and a heads-up will be given in the `#cs-questions` Slack channel so the SA team knows an event will be occurring and to expect questions.
 * Have staff reach out to booth leads as soon as they connect with you to help drive engagement and conversations during the event. Aim to set post event appointments.
 * Create a list of sessions/tracks relevant to GitLab and encourage staff to attend.
 * Post incremental updates in the internal event slack channel or have a daily sync about progress on the event goals, any updates, what to expect that day such as speaking slots or other relevant sessions.
