@@ -304,10 +304,10 @@ A Partner must be at least [Open Compliant](https://about.gitlab.com/handbook/re
 
 Compliant Partners can request LoAs directly from the portal (this process is also documented in the partner guide):
 1. Go to partners.gitlab.com → Support → Letter of Authorization
-2. The partner will be sent to Docusign to add in their company name. When they hit submit, it starts a chain of events:
-   - Docusign sends an email to PHD to confirm that the partner is authorized. Once this is done…
-   - Docusign sends an email to Legal to confirm whatever legal stuff they need to confirm. Once this is done…
-   - Docusign sends a completed Letter of Authorization to the partner who requested it, and an email to PHD alerting us that it has been completed.
+2. The partner will be sent to DocuSign to add in their company name. When they hit submit, it starts a chain of events:
+   - DocuSign sends an email to PHD to confirm that the partner is authorized. Once this is done…
+   - DocuSign sends an email to Legal to confirm whatever legal stuff they need to confirm. Once this is done…
+   - DocuSign sends a completed Letter of Authorization to the partner who requested it, and an email to PHD alerting us that it has been completed.
 
 The PDF of the authorization letter can be downloaded at any time, but it will not have the date or legal stamp on it until Legal approves it. Since there are manual approvals, it may take a bit. SLA is 2 business days. 
 
@@ -320,7 +320,7 @@ When a partner requests a Letter of Authorization, an email will be sent to the 
 5. Open the [GitLab Certification Tracking Dashboard V2.0](https://docs.google.com/spreadsheets/d/1PnjHrOtZAYlkQpNoSsAzNt0sT1oZh76Xy2x33CfCQ9k/edit?pli=1#gid=1799234939) and navigate to the “Certifications by Partner” tab. 
 6. Use the CMD+F function and search the name of the partner organization.
 7. Look to Column G, “Open Reqs Met?” and confirm the field says “Yes.”
-8. In Docusign, click the “Approve” button.
+8. In DocuSign, click the “Approve” button.
 9. Add the “LOA” tag to the email.
 
 ### Denying Letters of Authorization
@@ -329,9 +329,9 @@ Follow the steps for [Approving a Letter of Authorization](include link when ava
 - Open Reqs Met is _no_
 
 To Deny the Letter of Authorization
-1. In Docusign, click the “Other Actions” button, and choose “Deny to Sign” from the options that become available.
+1. In DocuSign, click the “Other Actions” button, and choose “Deny to Sign” from the options that become available.
 2. Confirm denial.
-3. In the box that appears, refer to the [PHD Common Response Template](https://docs.google.com/spreadsheets/d/1iPJh3sP6p3fc_FfJPe7d5uzWThe6FJ5W_3arGFm2Dj4/edit?usp=sharing) row for “LoA Denial in Docusign.”
+3. In the box that appears, refer to the [PHD Common Response Template](https://docs.google.com/spreadsheets/d/1iPJh3sP6p3fc_FfJPe7d5uzWThe6FJ5W_3arGFm2Dj4/edit?usp=sharing) row for “LoA Denial in DocuSign.”
 4. Press “Confirm.
 5. Open a new email from the Partner Support email box, and address it to the person whose name came with the LoA request. Copy partnersupport@gitlab.com and the Channel Manager assigned to the account. 
 6. Refer to the [PHD Common Response Template](https://docs.google.com/spreadsheets/d/1iPJh3sP6p3fc_FfJPe7d5uzWThe6FJ5W_3arGFm2Dj4/edit?usp=sharing) row for “LoA Denial.” Copy the provided subject line and text into the email. Personalize the email with the partner name and any other pertinent information. Do not forget to update the “trainings needed” section in the body of the email. 

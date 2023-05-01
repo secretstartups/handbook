@@ -159,7 +159,7 @@ All enablement materials can be accessed via the GitLab Partner Portal. Job aide
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Enrolling in Accreditation and Certification Courses</span>
 
-To sign up for any of the courses listed on this page, please visit the training section on the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/c/Training) and select Level Up. You do not require a seperate login or credentials to access the GitLab Training Portal from the Partner Portal.
+To sign up for any of the courses listed on this page, please visit the training section on the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/c/Training) and select Level Up. You do not require a separate login or credentials to access the GitLab Training Portal from the Partner Portal.
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Accreditation vs. Certification</span>
 
