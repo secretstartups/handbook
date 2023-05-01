@@ -54,6 +54,6 @@ Once the video is complete, how it is published is can affect how users react to
    * [Captions](https://www.boia.org/blog/youtube-closed-captioning-for-accessibility-why-and-how): While YouTube generates automated captions on GitLab videos, AI-generated captions contain errors, especially for technical terms. You should [review and clean up](https://support.google.com/youtube/answer/2734705) captions on your video content.
 
 #### Analytics/Growth
-* [12 Youtube Analytics Every YouTuber Should Know](https://www.business2community.com/youtube/12-youtube-analytics-every-youtuber-should-know-02206636)
+* [12 YouTube Analytics Every YouTuber Should Know](https://www.business2community.com/youtube/12-youtube-analytics-every-youtuber-should-know-02206636)
 * [How to Grow Your YouTube Channel in 2020](https://backlinko.com/grow-youtube-channel)
 

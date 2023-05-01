@@ -56,7 +56,7 @@ The detailed customer license FAQ including questions around how to add users, h
 ### Sales FAQs
 
 * **My customer is on GitLab Free. What tier should I upgrade them to?**
-A: If your customer is an enterprise customer OR is a company that is concerned about enterprise level features like compliance, HA/DR etc - you should upgrade them to atleast the Premium tier. See the [top 10 reasons to NOT sell Starter/Bronze](https://docs.google.com/presentation/d/1pJ3qrDh7fd4UQ9njs1K4LrQG2UL2TwlWUJjPGgQrmS0/edit#slide=id.p) to your customer.
+A: If your customer is an enterprise customer OR is a company that is concerned about enterprise level features like compliance, HA/DR etc - you should upgrade them to at least the Premium tier. See the [top 10 reasons to NOT sell Starter/Bronze](https://docs.google.com/presentation/d/1pJ3qrDh7fd4UQ9njs1K4LrQG2UL2TwlWUJjPGgQrmS0/edit#slide=id.p) to your customer.
 
 * **My customer thinks that the price jump between tiers is too high. How do I counter this?**
 A: GitLab tiers add features/value progressively in the tiers. The key value of premium is its enterprise level support, enterprise readiness features and DevOps features required for growing and multiple teams. The key value of Ultimate is Security. If a customer chooses to purchase  products from different vendors for the same usecases, the multiple / cost of ownership is significantly higher. See our ROI calculators and TEI reports for more justification.
