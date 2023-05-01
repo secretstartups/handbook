@@ -285,7 +285,7 @@ In this timeline, BD = Business Days, and incorporates US public holidays and T 
 Sometimes, it becomes necessary to change the date of an offline event. Once the FMM has identified that the date will change, the **FMM** will:
 
 - Update the event date and the campaign tag on the main event issue and in the Budget Document.
-- In the main event issue, ping the GL Accountant (@GGGONZALEZ) with the old campaign tag to be removed from Netsuite and the new campaign tag to be added in Netsuite.
+- In the main event issue, ping the GL Accountant (@GGGONZALEZ) with the old campaign tag to be removed from NetSuite and the new campaign tag to be added in NetSuite.
 
 If the change in the date is related to COVID-19, the **FMM** will:
 
@@ -1010,7 +1010,7 @@ While we would like for the hotel to be secured using the Coupa Virtual Card as 
 
 If the GitLab team member provides their own card, then the expense should be accounted for in the following way upon submitting the expense report:
 1. Category = Marketing Field Events OR Brand Marketing - depending on if you are in Field Marketing vs. another group in marketing - by selecting one of these categories, it puts the expense in the program spend bucket vs. the employee travel bucket within the financial systems.
-1. Classification = MUST add the Allocadia ID that has been created in Netsuite for this event
+1. Classification = MUST add the Allocadia ID that has been created in NetSuite for this event
 
 #### Option B
 The speaker would like to pay for everything themselves and would like for GitLab to reimburse them.
