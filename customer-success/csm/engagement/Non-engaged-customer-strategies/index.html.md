@@ -4,7 +4,7 @@ title: "Strategies for Non-Engaged Customers"
 ---
 
 Gainsight contains a playbook for non-engaged customers that *will* trigger if:
-- The customer has had no engagment (no logged calls or meetings) in over 60 days AND is a priority 1 or 2 customer
+- The customer has had no engagement (no logged calls or meetings) in over 60 days AND is a priority 1 or 2 customer
 - The customer has an onboarding CTA that has been open for over 90 days
 
 This playbook is also available to be manually opened with the 'Risk' CTA Type.
