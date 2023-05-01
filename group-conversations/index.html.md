@@ -455,7 +455,7 @@ If your GC is optional and you need to move the date, please work with your depa
 
 ## Examples of Past Group Conversations
 
-All of the public live streamed Group Conversations can be found on the GitLab Unfiltered Youtube channel [Group Conversations playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e).
+All of the public live streamed Group Conversations can be found on the GitLab Unfiltered YouTube channel [Group Conversations playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e).
 
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/EAtkUmww_7I"></iframe></figure>
 
