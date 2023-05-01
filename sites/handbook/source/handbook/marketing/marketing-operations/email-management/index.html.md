@@ -75,7 +75,7 @@ We have a [Localized email footer snippet](https://engage-ab.marketo.com/?munchk
 
 ### Send Frequency
 
-We have a Marketo enforced limit on how many emails a single address can recieve per day and week. The limits are 1/day and 3/week. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold, **unless** the email is marked as `operational`. Operational emails do not count against daily/weekly communication limits.
+We have a Marketo enforced limit on how many emails a single address can receive per day and week. The limits are 1/day and 3/week. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold, **unless** the email is marked as `operational`. Operational emails do not count against daily/weekly communication limits.
 
 The email limits are not set in campaign templates, however, if your email is set to send to more than 20,000 people, you must include a filter for `Not Sent Email in last 2 Days`.
 

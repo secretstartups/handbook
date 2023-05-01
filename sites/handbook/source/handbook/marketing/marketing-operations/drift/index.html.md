@@ -18,7 +18,7 @@ Drift is a chat platform used by the Sales Development organization to engage vi
 SDRs are inbound reps that will field a majority of conversations in Drift. Conversations are routed according to region/country on a round robin basis. Once Drift has routed a conversation to a rep, that SDR has 30 seconds to enter the conversation and begin a conversation with the site visitor. If 30 seconds elapses the conversation will route to the next available rep. If no rep on the team is available, the site visitor will have the option to schedule a meeting with the original rep or the first rep that has their calendar available and connected to Drift.
 
 ### BDR Use Case
-BDRs are outbound reps that will have a specialized use case in Drift. A BDR with a high priority ABM account may be selected to recieve conversations in Drift from site visitors that have been identified as connected to the ABM account they cover. 
+BDRs are outbound reps that will have a specialized use case in Drift. A BDR with a high priority ABM account may be selected to receive conversations in Drift from site visitors that have been identified as connected to the ABM account they cover. 
 
 ### Playbooks
 We have Drift playbooks across most of our website as well as on select landing pages. The content of the playbook depends on the target audience and in the case of temporary playbooks on landing pages, the intended experience or use case. The playbooks that are currently deployed include a sitewide engage all playbook; Enterprise, Small Business, and Public Sector segment playbooks; and named ABM account playbooks designed to engage site visitors from specific companies.
@@ -26,7 +26,7 @@ We have Drift playbooks across most of our website as well as on select landing 
 If you are interested in or have a need for a playbook designed to target a specific audience please reach out #mktgops in Slack and create an issue in the Marketing Operations project using the `Drift_Campaign_Request` template.
 
 #### Performance measurement
-All Drift playbooks are associated with Saleforce campaigns to enable playbook performance to be measured outside of the Drift platform. Drift also provides reports for each playbook on the number of impressions, sends, conversations, emails captured, and meetings booked.
+All Drift playbooks are associated with Salesforce campaigns to enable playbook performance to be measured outside of the Drift platform. Drift also provides reports for each playbook on the number of impressions, sends, conversations, emails captured, and meetings booked.
 
 ### Conversation routing
 Drift is expected to mirror the lead routing logic in [Traction Complete](/handbook/marketing/marketing-operations/traction-lead-complete) as closely as possible. Our goal is to provide the best possible experience for site visitors by connecting them with their aligned resources in the Sales Development organization. This means site visitors during offline hours will be asked to schedule a meeting with an SDR that aligns to their region/country.
