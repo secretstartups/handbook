@@ -121,7 +121,7 @@ Hear what our CEO has to say about the CEO shadow program.
 
 ### Eligibility
 
-All GitLab team members are eligibile to apply for the CEO Shadow Program. 
+All GitLab team members are eligible to apply for the CEO Shadow Program. 
 
 Exceptions to eligibility:
 
@@ -457,7 +457,7 @@ Personal meetings will be marked as "busy" on the calendar. Shadows do not atten
 ##### Earnings Call Prep Webinars
 {:.no_toc}
 
-Earnings prep webinars differ from other meetings on the CEO calendar as shadows should be added to the webinar as a participant using their invdividual GitLab team member email address vs. joining using the CEO's link. If you have not received an invite to an Earnings Prep Webinar on your individual calendar, please reach out to the [EBAs](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/) on Slack
+Earnings prep webinars differ from other meetings on the CEO calendar as shadows should be added to the webinar as a participant using their individual GitLab team member email address vs. joining using the CEO's link. If you have not received an invite to an Earnings Prep Webinar on your individual calendar, please reach out to the [EBAs](/handbook/eba/#executive-business-administrator-team) and [Chief of Staff to the CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/chief-of-staff/) on Slack.
 
 ##### Earnings Call
 {:.no_toc}
@@ -543,7 +543,7 @@ Shadows are responsible for being aware of the current time and verbally providi
 You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat in addition to verbalizing it. At the end of the meeting, the same will occur with "We are at time".
 
 To use the script:
-1. Download [setalarm](setalarm.sh), making sure to preserve the .sh extension. (recommended within your Home folder for easy access)
+1. Download [setalarm](setalarm.sh), making sure to preserve the `.sh` extension. (recommended within your Home folder for easy access)
 1. Load MacOS Terminal by running `Cmd+Space` and typing `terminal`.
 1. Run `source setalarm.sh` to load the `setalarm` function into memory.
 1. Then simply type `setalarm 50` to set a 50-minute timer (`setalarm` defaults to 25 minutes if no argument is provided).

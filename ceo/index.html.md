@@ -151,7 +151,7 @@ Please follow these steps if you'd like me to review a [Merge Request (MR)](http
 1. Create the MR
 1. Have the MR reviewed by a peer or your manager if you'd like early feedback
 1. Ensure that the MR is mergeable:
-   1. [All commment threads are resolved](https://docs.gitlab.com/ee/user/discussions/#resolve-a-thread)
+   1. [All comment threads are resolved](https://docs.gitlab.com/ee/user/discussions/#resolve-a-thread)
    1. If the MR is a draft, [mark the MR as ready](https://docs.gitlab.com/ee/user/project/merge_requests/drafts.html#mark-merge-requests-as-ready)
    1. The [CI/CD pipeline ran successfully](https://docs.gitlab.com/ee/user/project/merge_requests/widgets.html#pipeline-information) and deployed the latest [review app](https://docs.gitlab.com/ee/ci/review_apps/)
 1. When the MR is ready for my review:
@@ -164,7 +164,7 @@ Please follow these steps if you'd like me to review a [Merge Request (MR)](http
 
 ### Please chat me the subject line of emails
 
-I prefer other forms of communciation (e.g. slack) over email. I get a lot of email and I'm frequently not on top of it.
+I prefer other forms of communication (e.g. slack) over email. I get a lot of email and I'm frequently not on top of it.
 I appreciate it if you send my EBA a slack message if I need to respond to an email.
 Please quote the subject line of the email in your chat message.
 
@@ -328,7 +328,7 @@ People regularly ask what I use for my home office setup. Below is a list of the
 - Camera Holder: [Heron - 3FT Camera Mount with Desk Clamp](https://www.amazon.com/gp/product/B08BTW6W4N/)
 - Ports: [CalDigit ts3-plus](https://www.caldigit.com/ts3-plus/)
 - Desk: [Jarvis Laminate Standing Desk](https://www.fully.com/standing-desks/jarvis-adjustable-height-desk-laminate.html)
-- Laptop: [13-inch Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb)
+- Laptop: [13-inch MacBook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb)
 - Stand: [rain design mStand](https://www.raindesigninc.com/mstand.html)
 - Keyboard: [Apple Magic Keyboard](https://www.apple.com/shop/product/MK2C3LL/A/magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-models-with-apple-silicon-us-english-white-keys?)
 - Mouse: [Microsoft Pro IntelliMouse](https://www.amazon.com/Microsoft-Pro-Intellimouse-Dark-Shadow/dp/B07RPBXBMV?th=1)
@@ -359,7 +359,7 @@ When preparing scripts or documents in my voice, please follow these guidelines.
 
 ## Transport
 
-The CEO will pay for all transport expenses (flight, uber, etc.) personally.
+The CEO will pay for all transport expenses (flight, Uber, etc.) personally.
 By default flying business class.
 On short flight with other team members fly economy if we can sit together, in this case still pay personally.
 
