@@ -252,7 +252,7 @@ answering complex questions, developing or improving metrics, and making busines
 recommendations.
 
 In order to validate our target ratio, we looked at the practices of other large product 
-organizations, including Linkedin, Intuit, HubSpot, Squarespace, iHeartRadio, and Peloton 
+organizations, including LinkedIn, Intuit, HubSpot, Squarespace, iHeartRadio, and Peloton 
 Digital. We found that most maintained a ratio of 1.5-3 PMs per product analyst, in addition to 
 a self-service tool. As such, we feel comfortable setting a target of 3 PM:1 Product Analyst ratio.
 

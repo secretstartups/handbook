@@ -100,7 +100,7 @@ Here is the list of tools for RDS preparation, collaboration, and documentation.
         * Create the first draft of the prototype.
     * The Mural link to the collaboration project will be provided in the issue before the start of the RDS.
 
-* Video and/or screen recording tool (Loom, Quicktime, Zoom, etc.).
+* Video and/or screen recording tool (Loom, QuickTime, Zoom, etc.).
     * As part of the pre-RDS homework, RDS participants will be asked to record a short Lightning Walkthrough video. RDS participants can use any tool they feel comfortable with as long as it can capture their screen, mouse pointer, and audio.
 
 * A4/Letter-sized paper (preferably white blank), Sharpies/Pens (please don't use a pencil because it doesn't create enough contrast for photos).

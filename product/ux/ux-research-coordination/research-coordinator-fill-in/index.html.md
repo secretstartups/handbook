@@ -97,7 +97,7 @@ There are times when you will play the role of UX Research Operations Coordinato
      * Input the participants email address and first name, as well as the reward value in USD. Rybbon will automatically adjust the USD value to whatever currency the participant requires.
      * Once you have added the information, click add recipient. You will be able to add more if required, or simply press next to get to the payment screen.
      * On the payment screen select Pay with Credit Balance, and then click process.
-     * Your participants should recieve their incentive same day, but allow up to 48 hours for processing.
+     * Your participants should receive their incentive same day, but allow up to 48 hours for processing.
 
    
 

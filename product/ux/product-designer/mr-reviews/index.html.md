@@ -171,7 +171,7 @@ Some MRs have additional set up requirements.
 - Try to find something worth praising the author for, like a thorough MR description or their attention to detail on a certain aspect. But don't make empty praises, only praise them if you recognize the value of what they've done.
 - When there are concerns with an MR, especially for those that did not have a design DRI associated with the proposal, consider the following actions to help progress the review:
    - Iterate instead of revert. Consider coaching and guiding the author of the MR towards an ideal solution.
-   - Educate to collaborate. You may have more context of the problem than the author. Express your concerns and thoughts, and ask them how might they adapt their solution to accomodate the concerns.
+   - Educate to collaborate. You may have more context of the problem than the author. Express your concerns and thoughts, and ask them how might they adapt their solution to accommodate the concerns.
    - Get a second opinion. When you are uncertain about a change feel free to involve a [quad member](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) from your product group, your product design manager, and/or other designers. This can be done directly in the MR or in Slack channels.
    - Consider creating a follow-up issue to address the concerns of the MR and inform the design DRI of it.
    - If changes are behind a feature flag, but there are concerns about the feature going live, consider creating an issue that blocks the full release of the feature with a list of items that need to be addressed (see this [example](https://gitlab.com/gitlab-org/gitlab/-/issues/398152)).

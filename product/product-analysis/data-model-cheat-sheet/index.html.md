@@ -157,7 +157,7 @@ Snowplow is an open source event tracking tool that is used at GitLab to track G
 * In order to show up in the [metrics dictionary](https://metrics.gitlab.com/snowplow), every event needs a [.yml file](https://gitlab.com/gitlab-org/gitlab/-/tree/master/config/events). This will not happen automatically and should be created by the engineer that implements snowplow tracking.
 
 > Why is the value for `gsc_namespace_id` null for some proportion of snowplow events?
-* Engineers need to enable tracking for `gsc_namespace_id` when implementing new events. If tracking for `gsc_namespace_id` is already enabled and nulls are still occuring, the events may be triggered in a location within Gitlab.com that is not specific to any one namespace like the ToDos page.
+* Engineers need to enable tracking for `gsc_namespace_id` when implementing new events. If tracking for `gsc_namespace_id` is already enabled and nulls are still occurring, the events may be triggered in a location within Gitlab.com that is not specific to any one namespace like the ToDos page.
 
 
 #### Documentation
