@@ -113,9 +113,9 @@ For Sev3 and Sev4 incidents, the EOC is also responsible for [Incident Manager R
 1. **As EOC, your highest priority for the duration of your shift is the stability of GitLab.com.**
 1. The SSOT for who is the current EOC is the [GitLab Production](https://gitlab.pagerduty.com/service-directory/PATDFCE) service definition in PagerDuty.
 	1. SREs are responsible for arranging coverage if they will be unavailable for a scheduled shift.  To make a request, send a message indicating the days and times for which coverage is requested to the `#reliability-lounge` Slack channel.  If you are unable to find coverage reach out to a Reliability Engineering Manager for assistance.
-1. Alerts that are routed to Pagerduty require acknowledgment within 15 minutes, otherwise they will be escalated to the oncall Incident Manager.
+1. Alerts that are routed to PagerDuty require acknowledgment within 15 minutes, otherwise they will be escalated to the oncall Incident Manager.
     1. Alert-manager alerts in [`#alerts`](https://gitlab.slack.com/archives/alerts) and [`#alerts-general`](https://gitlab.slack.com/archives/alerts-general) are an important source of information about the health of the environment and should be monitored during working hours.
-    1. If the Pagerduty alert noise is too high, your task as an EOC is clearing out that noise by either fixing the system or changing the alert.
+    1. If the PagerDuty alert noise is too high, your task as an EOC is clearing out that noise by either fixing the system or changing the alert.
     1. If you are changing the alert, it is your responsibility to explain the reasons behind it and inform the next EOC that the change occurred.
     1. Each event (may be multiple related pages) should result in an issue in the `production` tracker. See [production queue usage](/handbook/engineering/infrastructure/production/#implementation) for more details.
 1. If sources outside of our alerting are reporting a problem, and you have not received any alerts, it is still your responsibility to investigate. [Declare a low severity incident](#reporting-an-incident) and investigate from there.
@@ -130,7 +130,7 @@ For Sev3 and Sev4 incidents, the EOC is also responsible for [Incident Manager R
 1. Keep in mind that a GitLab.com incident is not an "infrastructure problem". It is a company-wide issue, and as EOC, you are leading the response on behalf of the company.
     1. If you need information or assistance, engage with Engineering teams. If you do not get the response you require within a reasonable period, escalate through the Incident Manager.
     1. As EOC, require that those who may be able to assist to join the Zoom call and ask them to post their findings in the incident issue or active incident Google doc. Debugging information in Slack will be lost and this should be strongly discouraged.
-1. By acknowledging an incident in Pagerduty, the EOC is implying that they are working on it. To further reinforce this acknowledgement, post a note in Slack that you are joining the `The Situation Room Permanent Zoom` as soon as possible.
+1. By acknowledging an incident in PagerDuty, the EOC is implying that they are working on it. To further reinforce this acknowledgement, post a note in Slack that you are joining the `The Situation Room Permanent Zoom` as soon as possible.
     1. If the EOC believes the alert is incorrect, comment on the thread in `#production`. If the alert is flappy, create an issue and post a link in the thread. This issue might end up being a part of RCA or end up requiring a change in the alert rule.
 1. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
 1. The EOC should not consider immediate work on an incident completed until the top description section in the Incident Issue (above the "Incident Review" section) is filled out with useful information to describe all the key aspects of the Incident.
@@ -157,11 +157,11 @@ To engage with the Incident Manager run `/pd trigger` and choose the `GitLab Pro
 
 #### What happens when there are simultaneous incidents?
 
-Occassionally we encounter multiple incidents at the same time. Sometimes a single Incident Manager can cover multiple incidents. This isn't always possible, especially if there are two simultaneous high-severity incidents with significant activity.
+Occasionally we encounter multiple incidents at the same time. Sometimes a single Incident Manager can cover multiple incidents. This isn't always possible, especially if there are two simultaneous high-severity incidents with significant activity.
 
 When there are multiple incidents and you decide that additional incident manager help is required, take these actions:
 1. Post a slack message in #imoc_general as well as #incident-management asking for additional Incident Manager help.
-1. If your ask is not addressed via slack, escalate to  [Infastructure Leadership](https://gitlab.pagerduty.com/service-directory/PJKOEIS) in Pagerduty.
+1. If your ask is not addressed via slack, escalate to  [Infastructure Leadership](https://gitlab.pagerduty.com/service-directory/PJKOEIS) in PagerDuty.
 
 If a second incident zoom is desired, choose which incident will move to the new zoom and create a new meeting in zoom.  Be sure to edit the channel topic of the incident slack channel to indicate the correct zoom link.
 

@@ -220,7 +220,7 @@ If we hadn't had the capacity planning step in there, we may have noticed this p
 
 - The Tamland report showed potential saturation.
 - The responsible team was contacted and they made changes to address the problem. 
-- They believed they had done enough to prevent the saturation from occuring so they closed the issue. 
+- They believed they had done enough to prevent the saturation from occurring so they closed the issue. 
 - When Tamland produced its next report, [the item was still included](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/108).
 - The responsible team picked up the issue again and found that the metrics reporting the problem had been broken with the previous change.
 - The team confirmed that the saturation problem was definitely fixed and corrected the metrics to reflect the change.
