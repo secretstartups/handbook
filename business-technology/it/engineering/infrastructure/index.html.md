@@ -22,7 +22,7 @@ Our focus is on organizational policy management, access request provisioning, a
 
 The [Demo Systems](/handbook/customer-success/demo-systems/) provide an always-on shared sandbox environment for demo and experimental use cases that aren't intended for or supported on GitLab.com and don't need dedicated infrastructure to be provisioned for your use case.
 
-The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), powered by [HackyStack](https://gitlab.com/gitlab-com/business-technology/engineering/tools/hackystack), automates the provisioning of AWS acccounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
+The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), powered by [HackyStack](https://gitlab.com/gitlab-com/business-technology/engineering/tools/hackystack), automates the provisioning of AWS accounts, AWS IAM users, GCP projects, and GCP users. This has allowed us to automate a large portion of our AWS and GCP access requests.
 
 ## Reference Links
 

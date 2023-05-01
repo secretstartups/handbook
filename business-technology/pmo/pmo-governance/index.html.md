@@ -54,7 +54,7 @@ A business requirements document (BRD) is the first document to be created by th
 
 ### Program charter
 
-When the BRD is completed, the program charter is the next document that the Program DRI needs to create and present it to all relevant stakehodlers during the program kickoff. A program should have a charter that includes: 
+When the BRD is completed, the program charter is the next document that the Program DRI needs to create and present it to all relevant stakeholders during the program kickoff. A program should have a charter that includes: 
 
 #### 1. Program goal
 
@@ -104,7 +104,7 @@ The IT Program Manager updates the [Rolly](/handbook/business-technology/pmo/#we
 
 #### Status Report
 
-For larger programs, and based on the information from Rolly, the IT Program Manager might create a Status Report to be shared across the program team and is often reviewrd during the weekly program staus meetings.
+For larger programs, and based on the information from Rolly, the IT Program Manager might create a Status Report to be shared across the program team and is often reviewed during the weekly program status meetings.
 
 [Status Report Template](https://docs.google.com/presentation/d/1FvtL0MHftG33b-6eKO1sVx3vPFKu0DaeVp-GGbLdpcs/edit#slide=id.p1)
 {: .alert .alert-warning}
@@ -180,7 +180,7 @@ The program should have an enablement plan. The Business Lead should be DRI for 
 
 #### Training Materials
 
-The Program Manager should work with the Business Lead to schedule all revelant training sessions and office hours or AMAs as needed and communicate it with all relevant participants.
+The Program Manager should work with the Business Lead to schedule all relevant training sessions and office hours or AMAs as needed and communicate it with all relevant participants.
 
 #### Communication Plan
 
