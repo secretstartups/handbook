@@ -16,11 +16,11 @@ twitter_creator: "@gitlab"
 
 ##### iMovie
 
-  This is Digital Production's first recommendation. iMovie is free editing software from Apple. It is simple and straightforward to use versus other programs, and it is included with almost all Macbooks in the Applications list. As most GitLab employees use Macbooks, it should be an option for almost everyone. If you do not have a MacOS device, please see below. 
+  This is Digital Production's first recommendation. iMovie is free editing software from Apple. It is simple and straightforward to use versus other programs, and it is included with almost all MacBooks in the Applications list. As most GitLab employees use MacBooks, it should be an option for almost everyone. If you do not have a MacOS device, please see below. 
 
 ##### Adobe Premiere Rush
 
-  [Adobe Premiere Rush](https://www.adobe.com/ca/products/premiere-rush.html) is a subscription-based editing software that, like iMovie, attempts to strip down the features and complexity of other programs to make itself more accesible to the average user. It is available for Mac, PC, and other devices. As there is a fee, this option should only be used if the above iMovie software is not available to you. 
+  [Adobe Premiere Rush](https://www.adobe.com/ca/products/premiere-rush.html) is a subscription-based editing software that, like iMovie, attempts to strip down the features and complexity of other programs to make itself more accessible to the average user. It is available for Mac, PC, and other devices. As there is a fee, this option should only be used if the above iMovie software is not available to you. 
 
 ---
     

@@ -87,9 +87,9 @@ _Your camera will now display enchanced color when outputting via the HDMI cable
 
 #### Connecting a Lavalier Microphone
 
-The wireless lavalier kit contains a transmittor and a reciever. The transmittor can by identified by the mute switch located on the top.  
+The wireless lavalier kit contains a transmittor and a receiver. The transmittor can by identified by the mute switch located on the top.  
 
-1. Attach the microphone to the transmittor and the three pronged XLR cable to the reciever. 
+1. Attach the microphone to the transmittor and the three pronged XLR cable to the receiver. 
 1. Turn on both the microphone and the transmittor by opening the front facing panel and holding the **ON/OFF button** until the screen turns on. 
 1. Connect Mini XLR cable to the left side of the BlackMagic Camera. 1. Connect the receiver XLR cable to the Blackmagic Camera XLR cable. Connecting in this manner will allow you to use both the Rode Mic and the Lavalier mic simultaneously. 
 1. Connect the transmittor to your person (belt, pocket, boot).
@@ -239,7 +239,7 @@ Elgato lights are packaged with easy-to-follow directions on a cardboard sheet. 
 
 After setup, Elgato brand lights are controlled entirely via your computer or phone using the Elgato Control Center Software. 
 
-_Please note: On Macbooks, the Elgato Control Software appears only at the top right corner of the screen. This will occasionally make it appear as if attempting to open the control center via the applications menu did nothing. Click on the icon in the upper right corner to open the controls for the light._ 
+_Please note: On MacBooks, the Elgato Control Software appears only at the top right corner of the screen. This will occasionally make it appear as if attempting to open the control center via the applications menu did nothing. Click on the icon in the upper right corner to open the controls for the light._ 
 
 #### External Resources
 
