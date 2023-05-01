@@ -631,7 +631,7 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 1. Voting ends at the close of business on `M+1, 3rd`. Take note of which discussion topics have the most votes at this time. If there are not enough votes or if you deem the discussion topics as not relevant to the majority of participants, please choose other discussion topics.
 1. Announce the discussion topics alongside of the Retrospective Summary video in the Retrospective planning and execution issue, the #whats-happening-at-gitlab slack channel, and the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit)
 1. Ensure the Retrospective Discussion calendar invite is sent to participants by coordinating with the VP Development.
-1. Host the Retrospective Discussion and press livestream to Youtube.
+1. Host the Retrospective Discussion and press livestream to YouTube.
 1. After the Retrospective Discussion, close the Retrospective planning and execution issue.
 
 ### Utilizing Internal Notes in Retrospective Issues
@@ -917,7 +917,7 @@ Triage of infradev Issues is desired to occur asynchronously. These points below
 1. **Ensure scope is limited**. Each issue should be able to be owned by a single stage group team and should not need to be broken down further. Single task solutions are best.
 1. **Ensure a realistic severity is applied**: review the [availability severity label guidelines](/handbook/engineering/quality/issue-triage/#availability) and ensure that applied severity matches. Always ensure all issues have a severity, even if you are unsure.
 1. **If possible, include ownership labels** for more effective triage. The [product categories](/handbook/product/categories/) can help determine the appropriate stage group to assign the issue to.
-1. **Cross-reference links to Production Incidents, Pagerduty Alerts, Slack Alerts and Slack Discussions**. To help ensure that the team performing the triage have all the available data.
+1. **Cross-reference links to Production Incidents, PagerDuty Alerts, Slack Alerts and Slack Discussions**. To help ensure that the team performing the triage have all the available data.
    1. By adding "Related" links on the infradev issue, the [Infradev Status Report](https://gitlab.com/gitlab-org/infradev-reports/-/issues) will display a count of the number of production incidents related to each infradev issue, for easier and clearer prioritization.
 1. **Ensure that the issue title is accurate, brief and clear**. Change the title over time if you need to keep it accurate.
 1. **By adding an infradev label to an issue, you are assuming responsibility and becoming the sponsor/champion of the issue**.
