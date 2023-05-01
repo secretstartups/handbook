@@ -22,7 +22,7 @@ On this page, we're detailing how a [collection of values at GitLab](/handbook/v
 
 ## The importance of living your values
 
-GitLab's six values — **[Collaboration](/handbook/values/#collaboration)**, **[Results](/handbook/values/#results)**, **[Efficiency](/handbook/values/#efficiency)**, **[Diversity, Inclusion & Belonging ](/handbook/values/#diversity-inclusion)**, **[Iteration](/handbook/values/#iteration)**, and **[Transparency](/handbook/values/#transparency)** — are detailed in the company [Handbook](/handbook/).
+GitLab's six values — **[Collaboration](/handbook/values/#collaboration)**, **[Results](/handbook/values/#results)**, **[Efficiency](/handbook/values/#efficiency)**, **[Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion)**, **[Iteration](/handbook/values/#iteration)**, and **[Transparency](/handbook/values/#transparency)** — are detailed in the company [Handbook](/handbook/).
 
 While all-remote [isn't a value itself](/handbook/values/#what-is-not-a-value), it's something we do in order to practice the aforementioned values.
 
