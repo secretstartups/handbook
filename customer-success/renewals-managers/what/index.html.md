@@ -205,7 +205,7 @@ Note that if there is no risk on a given Renewal, the worst-case scenario and be
 # Account team collaboration
 Renewals Managers work closely with Customer Success Managers/Engineers and Account Executives. After a customer purchases a subscription with GitLab - they can expect to be engaged by these persona in the following ways:
 
-- **Account Executive**: Manages the overarching customer relationship with GitLab on the account level. Primary focus is on how to grow the customers relationship with GitLab. Account Executives are sales people. Best practice - CC the CSM/AE on the account when in communciation with customer. 
-- **Customer Success Manager/Engineer**: Dependent upon our segmentation, a CSM or CSE could be assigned to an account or territory. Their primary focus is adoption, outcomes and advocacy. CSM/Es are not sales people - they are specialists in Customer Success. Best practice - CC the CSM/AE on the account when in communciation with customer. 
+- **Account Executive**: Manages the overarching customer relationship with GitLab on the account level. Primary focus is on how to grow the customers relationship with GitLab. Account Executives are sales people. Best practice - CC the CSM/AE on the account when in communication with customer. 
+- **Customer Success Manager/Engineer**: Dependent upon our segmentation, a CSM or CSE could be assigned to an account or territory. Their primary focus is adoption, outcomes and advocacy. CSM/Es are not sales people - they are specialists in Customer Success. Best practice - CC the CSM/AE on the account when in communication with customer. 
 - **Renewals Manager**: Manages a customers existing renewable business. Primary focus is on retention, with a secondary focus on growth. Renewals managers are a hybrid role - managing the renewal "sale" and the renewal process. They sit at the intersection of customer success and sales. 
 
