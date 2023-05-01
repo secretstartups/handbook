@@ -35,16 +35,16 @@ The projects are further ordered into Sub-Groups by region:
 
 ### Use cases for the Customer Collaboration Projects
 
-- The encompassing group for the customer collaboration project has space for other special projects (Proof of Value, Value stream assesment, different Subscription at the customer) or an [Group access token](https://docs.gitlab.com/ee/user/group/settings/group_access_tokens.html) - API key for automations.
+- The encompassing group for the customer collaboration project has space for other special projects (Proof of Value, Value stream assessment, different Subscription at the customer) or an [Group access token](https://docs.gitlab.com/ee/user/group/settings/group_access_tokens.html) - API key for automations.
 - Agenda Issue for cadence or other meetings with the customer, via [agenda issue template](https://gitlab.com/gitlab-com/account-management/templates/collaboration/-/blob/master/.gitlab/issue_templates/Meeting%20Agenda.md) or on [group Level](https://gitlab.com/gitlab-com/account-management/sub-group-issue-templates/-/tree/master/.gitlab/issue_templates).
 - Conversations about Initiatives with the Customer, including collaborating with other GitLab members by [@ mentioning](https://docs.gitlab.com/ee/user/discussions/#mentions) into this issue.
 - Async Planning of Enablement Sessions [@ mentioning](https://docs.gitlab.com/ee/user/discussions/#mentions) GitLab contributors in the issue.
 - Async retrospectives, with [retrospective issue creation](https://gitlab.com/gitlab-org/async-retrospectives).
 - SA (Solution Architect) activities tracked for example demos or POVs.
-- Architecture diagramm with history (git history).
-- List of [Members in the Zendesk Support](https://about.gitlab.com/support/managing-support-contacts/#managing-contacts) [Shared Organization](https://about.gitlab.com/support/managing-support-contacts/#shared-organizations) maintanied by the customer with full history for governance (git history).
+- Architecture diagram with history (git history).
+- List of [Members in the Zendesk Support](https://about.gitlab.com/support/managing-support-contacts/#managing-contacts) [Shared Organization](https://about.gitlab.com/support/managing-support-contacts/#shared-organizations) maintained by the customer with full history for governance (git history).
 - [TAM Issue tracker](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/tam-issue-tracking) Tracking of product feature requests.
-- [Interacting with the Product Team](/handbook/customer-success/csm/product/#product-interacting-with-csms) and [Pirotizing Customer issues](/handbook/product/product-processes/customer-issues-prioritization-framework/#customer-success).
+- [Interacting with the Product Team](/handbook/customer-success/csm/product/#product-interacting-with-csms) and [Prioritizing Customer issues](/handbook/product/product-processes/customer-issues-prioritization-framework/#customer-success).
 - [Public Pages for Issue creation](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/tree/master/public).
 - [ServiceDesk Function](https://docs.gitlab.com/ee/user/project/service_desk.html#service-desk), to enable other users of the customer without a role in the Customer Collaboration Project to create issues. The CSM should notify the customer that the Collaboration Project is not meant for product support and troubleshooting inquiries.
 - Sharing service ping metrics, graphics, and Usage metrics guides via PDF, CSV with GitLab from the Customer ([configure Collab project for LFS](https://docs.gitlab.com/ee/user/project/settings/index.html#configure-project-visibility-features-and-permissions)).

@@ -41,20 +41,20 @@ We host weekly CSM office hours meetings to help you answer questions in a judgm
 
 ## GitLab Certifications
 
-At the moment (Feb. 2023) there are 6 [GitLab Technical Certifications - Self-Paced Options](/services/education/gitlab-technical-certification-self-paced/). All of those are relevant and gret learning material for CSMs at GitLab.  
+At the moment (Feb. 2023) there are 6 [GitLab Technical Certifications - Self-Paced Options](/services/education/gitlab-technical-certification-self-paced/). All of those are relevant and great learning material for CSMs at GitLab.  
 The [GitLab Certified DevOps Professional Pathway](https://levelup.gitlab.com/courses/gitlab-certified-devops-professional-bundle) includes the GitLab Certified [Git Associate](https://levelup.gitlab.com/courses/gitlab-certified-associate), [CI/CD Associate](https://levelup.gitlab.com/courses/gitlab-ci-cd-specialist-self-paced-bundle), [Project Management Associate](https://levelup.gitlab.com/courses/gitlab-certified-project-management-specialist-bundle) and [Security Specialist](https://levelup.gitlab.com/courses/gitlab-certified-security-specialist).  
 So if you are planing on doing **all 4** of those, start directly with the **DevOps Professional**.
 
 ## GitLab Webinars
 
 As a new joiner to get up to speed on your technical skills and observe how more senior team members hold webinars find the Webinars on the [CSM Scale Webinar calendar](/handbook/customer-success/csm/segment/scale/webinar-calendar/) and register/join as participant.
-Yoou can also watch the recordings of some of those Webinars on [YouTube - GitLab Webinars - GitLab Unfiltered - Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpczt4pRtyF147Uvn2bGGvq).
+You can also watch the recordings of some of those Webinars on [YouTube - GitLab Webinars - GitLab Unfiltered - Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpczt4pRtyF147Uvn2bGGvq).
 
-## GitLab.com Playgound and Demospace
+## GitLab.com Playground and Demo space
 
-For self lead training and experimentation you can setup your own playgound/demo space on GitLab.com. Find a selfpaced guide here:
+For self lead training and experimentation you can setup your own playground/demo space on GitLab.com. Find a self-paced guide here:
 
-- [Demo Systems Initial Set Up - Project](https://gitlab.com/gitlab-com/customer-success/demo-engineering/demo-systems-initial-set-up) (Privat project for GitLab members only)
+- [Demo Systems Initial Set Up - Project](https://gitlab.com/gitlab-com/customer-success/demo-engineering/demo-systems-initial-set-up) (Private project for GitLab members only)
 
 ## Finding Answers
 
