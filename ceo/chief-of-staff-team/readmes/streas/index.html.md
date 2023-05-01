@@ -26,7 +26,7 @@ Please feel free to contribute to this page by opening a merge request.
 * Before having children, my passion was travel. I've been to over 70 countries and aggressively checked off most of the items that had been on a bucket list that I created when I was 18 (swam with dolphins, lived abroad, jumped from a plane, visited mountain gorillas, went on a tiger safari, etc.).
 * I care about about a number of social causes. Before getting into technology, I worked for a number of nonprofits in various roles. 
 * My husband and I met on a trip to climb [Half Dome](https://www.nps.gov/yose/planyourvisit/halfdome.htm) in Yosemite. 
-* I have 2 young children who are the center of my world outside of work. While I look forward to the day when I can get an uninterupted night of sleep, they are pretty awesome. 
+* I have 2 young children who are the center of my world outside of work. While I look forward to the day when I can get an uninterrupted night of sleep, they are pretty awesome. 
 * Starting the day with hot coffee brings me great happiness. I grow increasingly articulate as I work my way through the first cup.
 
 ## How you can help me
@@ -44,7 +44,7 @@ Please feel free to contribute to this page by opening a merge request.
 
 ## What I assume about others
 
-* They also care about their work and are commited to operating in a way that reflects GitLab values.
+* They also care about their work and are committed to operating in a way that reflects GitLab values.
 
 ## What I want to learn
 
