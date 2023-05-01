@@ -16,7 +16,7 @@ title: "e-marketplace (Disty) API"
 # Connected Systems
 
 - Distributor e-marketplace
-  - Arrow (Arrowsphere)
+  - Arrow (ArrowSphere)
 - Platypus (middleware)
 - CustomersDot (destination & middleware)
 - Visual Compliance (destination)
@@ -123,7 +123,7 @@ This integration handles and stores [Red Data](/handbook/security/data-classific
 
 # Environments
 
-| Environment | Zuora Billing                    | Zuora Revenue     | Platypus                | Workato             | Netsuite   |
+| Environment | Zuora Billing                    | Zuora Revenue     | Platypus                | Workato             | NetSuite   |
 |-------------|----------------------------------|-------------------|-------------------------|---------------------|------------|
 | Production  | Production                       | Production        | Production              | Production          | Production |
 | Staging     | Zuora Central Sandbox (10000796) | REVPRO_GITLAB_S02 | Staging                 | Development/Testing | Sandbox 2  |

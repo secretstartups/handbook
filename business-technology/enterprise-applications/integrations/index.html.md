@@ -25,7 +25,7 @@ title: "Enterprise Applications Integrations"
 
 #### Quick Reference: Integration Docs
 - [Product Qualified Leads](./wiki/integrations-list/product-qualified-leads-integration)
-- [Zuora Revenue to Netsuite](./wiki/integrations-list/zuora-revenue-to-netsuite)
+- [Zuora Revenue to NetSuite](./wiki/integrations-list/zuora-revenue-to-netsuite)
 - [Zuora CICD](./wiki/integrations-list/zuora-ci-cd)
 - [Distributor (Disty) Orders API](./wiki/integrations-list/distributor-api)
 - [Marketing Data Pump field mapping change checklist](./wiki/integrations-list/marketing-data-pump-field-mapping-change-checklist)
@@ -74,7 +74,7 @@ We are the team that designs, builds and maintains the complex ecosystem of inte
     </a>
 </p>
 
-At GitLab we have a hybrid integrations platform philosophy called Platypus. Platypus is built with two tools; Nestjs and Workato. [Nest.js](https://nestjs.com/){:target="_blank"} is an open source Node.js backend application framework. In addition to Nest.js we also use an IPaaS platform called [Workato](https://www.workato.com/){:target="_blank"} that brings us out of the box connectors and recipes for common application integrations.
+At GitLab we have a hybrid integrations platform philosophy called Platypus. Platypus is built with two tools; Nest.js and Workato. [Nest.js](https://nestjs.com/){:target="_blank"} is an open source Node.js backend application framework. In addition to Nest.js we also use an IPaaS platform called [Workato](https://www.workato.com/){:target="_blank"} that brings us out of the box connectors and recipes for common application integrations.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-el26goNgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
