@@ -229,7 +229,7 @@ The following issue templates are used by the campaigns team to organize their w
 - `/assign @` - issues should have only DRI based on who will complete the work in the issue. If work needs to be completed by multiple people, consider breaking into separate issues with clear deliverables and due dates. (example: `/assign @aklatzkin`)
 - `/due 2021-` - add due date based on workback schedules (example: `/due 2020-07-13` or `/due tomorrow` or `/due 07/13/2020`)
 - `/milestone %` - add milestone based on the due date of the issue (example: `/milestone %"Mktg: ` )
-- `/weight ` - add weight between 1-5, with 1 being easiest (between 1-4 hours of time) and 5 being most complext (a full week of work). The majority of issues should fall into 1-2. If estimation is weight of 3+, break into separate issues for more manageable pieces to fit into milestones. (example: `/weight 1`)
+- `/weight ` - add weight between 1-5, with 1 being easiest (between 1-4 hours of time) and 5 being most complex (a full week of work). The majority of issues should fall into 1-2. If estimation is weight of 3+, break into separate issues for more manageable pieces to fit into milestones. (example: `/weight 1`)
 - `/epic ` - add epic of the overarching campaign or project to keep things organized. In almost all cases, there is a larger initiative that the issue relates to, so it is best practice to associate issues to the most relevant epic for visibility. (example: `/epic [https://gitlab.com/groups/gitlab-com/marketing/-/epics/370](https://gitlab.com/groups/gitlab-com/marketing/-/epics/370)`)
 
 #### Intake process daily/weekly steps
