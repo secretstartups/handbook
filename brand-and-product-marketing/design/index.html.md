@@ -31,7 +31,7 @@ As stewards of the [GitLab brand](/handbook/marketing/brand-and-product-marketin
 
 *Where we're going*
 
-The GitLab Brand Design team will elevate the brand beyond the logo and visuals - positioning ourselves as experts in brand strategy and behavior (how the brand presents itself, how it's precieved, and what makes it authentic)
+The GitLab Brand Design team will elevate the brand beyond the logo and visuals - positioning ourselves as experts in brand strategy and behavior (how the brand presents itself, how it's perceived, and what makes it authentic)
 
 ### Mission
 
@@ -81,7 +81,7 @@ The best way to get in contact with the Brand design team is to fill out one of 
 
 #### Team logo requests
 
-In the past we have accomodated internal team logo requests, typically in the form of customized tanukis. As our company grows, this approach is not scalable for the Brand Design team. Additionally, altering the logo or using too many logos diminishes the integrity of our brand identity and dilutes our brand awareness. We understand the desire for teams within GitLab to have their own identity, but this should not be prioritized over the business value that comes from preserving our core branding. For this reason, all designs should complement and adhere to our brand guidelines. 
+In the past we have accommodated internal team logo requests, typically in the form of customized tanukis. As our company grows, this approach is not scalable for the Brand Design team. Additionally, altering the logo or using too many logos diminishes the integrity of our brand identity and dilutes our brand awareness. We understand the desire for teams within GitLab to have their own identity, but this should not be prioritized over the business value that comes from preserving our core branding. For this reason, all designs should complement and adhere to our brand guidelines. 
 
 If your team works on a larger initiative, please refer to our [program lockup guidelines](https://design.gitlab.com/brand-logo/branded-lockups#program-lockups). These lockups should be used in conjunction with the GitLab logo and branding. If you are unsure if your program or initiative requires a lockup, please [contact the Brand Design team](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/design/#contacting-the-team).
 
@@ -240,7 +240,7 @@ Our Brand Guideline pages are located in the `Contents` folder and organized acc
 1. `.png` or `.jpg` work well for graphics that contain images. [Optimize](https://tinypng.com/) your graphic before uploading.
 1. `.gif` format is not accepted.
 1. Upload all files to `static` > `img` > `brand` folder. 
-1. Videos can be embedded (either from Vimeo or Youtube).
+1. Videos can be embedded (either from Vimeo or YouTube).
 
 **Adding media**
 
