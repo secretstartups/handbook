@@ -111,13 +111,15 @@ The CSE should then prepare a follow-up email to be sent to the customer through
 
 This ensures that a CSAT survey is deployed to the recipients of the email.
 
-## Scale Office Hours
+## Scale Onboarding Cohorts
 
-As a supplement to the [monthly webinars](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) presented by the CSM/CSE team, the CSE team also hosts an Office Hours segment to provide a forum for Scale customers to get their best practice questions answered as they don’t have the opportunity for proactive outreach to a CSM as CSM-owned accounts do.
+As a supplement to the [monthly webinars](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) presented by the CSM/CSE team, the CSE team also invites net-new scale eligible customers to participate in a monthly onboardhing cohort.
 
-In addition to the webinar live Q&A, office hours provides increased engagement with the ultimate goal of further enabling customers without having an ongoing relationship with a CSE.
+The onboarding cohort will have a duration of 4 weeks, starting at the beginning of each month, with 90-minute live weekly training led by a Customer Success Engineer. Customers will be grouped with other new GitLab customers during each training. In addition to the weekly hands-on calls, customers will have access to a shared Slack channel monitored by Customer Success Engineers throughout the program to help answer questions and provide best practice guidance.
 
-Office hour sessions are added to the [webinar calendar page](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/) and are also included in the monthly webinar invite email. Customers will have the opportunity to join a Zoom meeting or a public Slack channel and, if their question is not answered within the alloted time they will be offered a separate follow-up meeting with a CSE.
+- Week 1: [Getting Started and Project Management with GitLab](https://docs.google.com/presentation/d/1Aq0DrBv-EGXAP13pX8wD1RepPesNqq1wkjXjMkLaLus/edit?usp=sharing)
+- Week 2: [CI/CD in GitLab](https://docs.google.com/presentation/d/1WDfTfaK7AyPOXAT3HJkKoSODx5YLtxAPhj0Bf-CadNQ/edit?usp=sharing)
+- Week 3: [GitLab Security & Compliance](https://docs.google.com/presentation/d/11kBdYaW7b_2FiZZUOJNp7OQ9qRQzD_LaWiqRJ_YJJtQ/edit?usp=sharing)
+- Week 4: [GitLab GitOps Deployments](https://docs.google.com/presentation/d/1G6uFXNG3U1VD13BM8rj1MZf_VMH99j9R2lFqG_09R2Y/edit?usp=sharing)
 
-
-
+All customers participating will complete their training using a sandbox sub-group on gitlab.com [provisioned via gitlabdemo.com](https://about.gitlab.com/handbook/customer-success/demo-systems/#how-to-get-started). Additionally, customers participating in GitLab GitOps Deployments will also gain access to the [Instruqt platform](https://about.gitlab.com/handbook/business-technology/tech-stack/#instruqt) to allow hands-on access to a kubernetes cluster for deployments.
