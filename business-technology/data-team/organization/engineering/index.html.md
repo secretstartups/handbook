@@ -35,7 +35,7 @@ For example: If we are adding a data source, we would first create the merge req
 
 ## Data Platform Team knowledge sessions
 
-We as a Data Platform Team are always eager to gain more knowledge and looking for the latest solutions available. Therefore we allocate (half of) our Data Platform Team meeting every 2 months to invite external speakers. The Data Platform Team meeting is every Tuesday at 2PM UTC and we invite any solution provider to join every first Tuesday of every even month to talk with us about Data and Technology. Feel free to reach out to us pro-actively to join 1 of our Team meetings by opening an [issue](https://gitlab.com/groups/gitlab-data/engineers/-/issues) or contact any of the Data Platform Team members (by email or Linkedin).
+We as a Data Platform Team are always eager to gain more knowledge and looking for the latest solutions available. Therefore we allocate (half of) our Data Platform Team meeting every 2 months to invite external speakers. The Data Platform Team meeting is every Tuesday at 2PM UTC and we invite any solution provider to join every first Tuesday of every even month to talk with us about Data and Technology. Feel free to reach out to us pro-actively to join 1 of our Team meetings by opening an [issue](https://gitlab.com/groups/gitlab-data/engineers/-/issues) or contact any of the Data Platform Team members (by email or LinkedIn).
 
 | Date | Discussion topic |
 | ---------- | ------ | 

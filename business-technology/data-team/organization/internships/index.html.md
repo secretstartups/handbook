@@ -62,7 +62,7 @@ Requests to create a Data Team Intern position will be evaluated on the followin
      * Are the mentors interested in Leadership development?
      * Can the mentor commit to a 3-month engagement, including regular meetings and progress reviews? Are there potentially extended out-of-office periods that would affect the internship experience?
 1. Intern Commitment
-     * Can the intnern commit to a 3-month engagement, including regular meetings and progress reviews? Are there potentially extended out-of-office periods that would affect the internship experience?
+     * Can the intern commit to a 3-month engagement, including regular meetings and progress reviews? Are there potentially extended out-of-office periods that would affect the internship experience?
 
 If the answer to these questions is **YES**, there is a great chance the internship is a fit for all team members.
 
@@ -70,11 +70,11 @@ If the answer to these questions is **YES**, there is a great chance the interns
 
 The following KPIs are guidelines we plan to use for the internship. These may be adjusted by the mentor/intern prior to the start of the internship with approval from the team manager.
 
-1. Successfull Data Team Onboarding within 30 Calendar Days
+1. Successful Data Team Onboarding within 30 Calendar Days
 1. Monthly Progress Report and Feedback issue
 1. Final CSAT Score of 4 or higher on a 5 point scale
 1. Number of Data Project MRs successfully Merged > 5
-1. Number of Data Team Handbook MRs sucessfully Merged > 5
+1. Number of Data Team Handbook MRs successfully Merged > 5
 
 ### What Does A Data Team Intern Do?
 
@@ -137,7 +137,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 - Working knowledge of SQL
 - Working knowledge of Python (we use Jupyter notebooks to analyse and visualise data)
 - Basic knowledge of dashboard tools (we use Sisense)
-- Understanding of basic statistics concepts. if you need a refresher, this [Coursera Standford](https://www.coursera.org/learn/stanford-statistics) course is a great resource
+- Understanding of basic statistics concepts. if you need a refresher, this [Coursera Stanford](https://www.coursera.org/learn/stanford-statistics) course is a great resource
 - Understanding of machine learning algorithms including decision trees, gradient and regression models
 - Ability to communicate in English, including concise writing that summarises your work
 - Ability to work asynchronously - as a fully-remote company we have team members all around a globe with differing working hours

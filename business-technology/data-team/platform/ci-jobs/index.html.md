@@ -41,68 +41,68 @@ CI jobs are grouped by stages.
 
 These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml). All Snowflake objects created by a CI clone job will exist until dropped, either manually or by the [weekly clean up of Snowflake objects](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#what-to-do-if-a-pipeline-fails).
 
-#### clone_prep_specific_schema
+#### `clone_prep_specific_schema`
 
 Run this if you need a clone of any schema available in the prep database. Specify which schema to clone with the `SCHEMA_NAME` variable. If the clone already exists, this will do nothing. 
 
-#### clone_prod_specific_schema
+#### `clone_prod_specific_schema`
 
 Run this if you need a clone of any schema available in the prod database. Specify which schema to clone with the `SCHEMA_NAME` variable. If the clone already exists, this will do nothing. 
 
-#### clone_prod
+#### `clone_prod`
 
 Runs automatically when the MR opens to be able to run any dbt jobs. Subsequent runs of this job will be fast as it only verifies if the clone exists. This is an empty clone of the `prod` and `prep` databases.
 
-#### clone_prod_real
+#### `clone_prod_real`
 
 Run this if you need to do a real clone of the `prod` and `prep` databases. This is a full clone both databases.
 
-#### clone_raw_full
+#### `clone_raw_full`
 
 Run this if you need to run extract, freshness, or snapshot jobs. Subsequent runs of this job will be fast as it only verifies if the clone exists.
 
-#### clone_raw_postgres_pipeline
+#### `clone_raw_postgres_pipeline`
 
 Run this if you only need a clone of the raw `tap_postgres` schema in order to test changes to postgres pipeline or a manifest file.  If the raw clone already exists, this will do nothing.
 
-#### clone_raw_sheetload
+#### `clone_raw_sheetload`
 
 Run this if you only need a clone of the raw `sheetload` schema in order to test changes or additions to sheetload.  If the raw clone already exists, this will do nothing.
 
-#### clone_raw_specific_schema
+#### `clone_raw_specific_schema`
 
 Run this if you need a clone of any other raw schema in order to test changes or additions. Specify which raw schema to clone with the `SCHEMA_NAME` variable. If the raw clone already exists, this will do nothing. 
 
-#### force_clone_both
+#### `force_clone_both`
  
 Run this if you want to force refresh raw, prod, and prep. This does a full clone of raw, but a shallow clone of `prep` and `prod`.
 
-#### 🔑grant_clones
+#### `🔑grant_clones`
 
 Run this if you'd like to grant access to the copies or clones of `prep` and `prod` for your branch to your role or a role of a business partner. Specify the snowflake role (see [roles.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml)) you'd like to grant access to using the `GRANT_TO_ROLE` variable. This job grants the same `select` permissions as the given role has in `prep` and `prod` for all database objects within the clones of `prep` and `prod`. It does not create any future grants and so **all relevant objects must be built in the clone before you run this job if you want to ensure adequate object grants.**
 
-**_Since grants are copied from production database permissions, these grants cannot be run on new models._** If access is needed to new models, permission can be granted by a Data Engineer after the 🔑grant_clones CI job has completed successfully. Instructions for the Data Engineer can be found in [runbooks/CI_clones](https://gitlab.com/gitlab-data/runbooks/-/tree/main/CI_clones). 
+**_Since grants are copied from production database permissions, these grants cannot be run on new models._** If access is needed to new models, permission can be granted by a Data Engineer after the 🔑 `grant_clones` CI job has completed successfully. Instructions for the Data Engineer can be found in [runbooks/CI_clones](https://gitlab.com/gitlab-data/runbooks/-/tree/main/CI_clones). 
 
 **This will be fastest if the Data Engineer is provided with:**
 
 1. the fully qualified name (`"database".schema.table`) of the table(s) to which access needs to be granted
 2. the role to which permissions should be granted
 
-The database names for `PREP` and `PROD` can be found in the completed 🔑grant_clones CI job. Linking this job for the DE will also be helpful in expediting this process. 
+The database names for `PREP` and `PROD` can be found in the completed 🔑 `grant_clones` CI job. Linking this job for the DE will also be helpful in expediting this process. 
 
 ### 🚂 Extract
 
 These jobs are defined in [`extract-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/extract-ci.yml)
 
-#### boneyard_sheetload
+#### `boneyard_sheetload`
 
 Run this if you want to test a new boneyard sheetload load. This requires the real `prod` and `prep` clones to be available.
 
-#### sheetload
+#### `sheetload`
 
 Run this if you want to test a new sheetload load. This jobs runs against the clone of `RAW`. Requires the `clone_raw_specific_schema` (parameter `SCHEMA_NAME=SHEETLOAD`) job to have been run.
 
-#### pgp_test
+#### `pgp_test`
 This pipeline needs to be executed when doing changes to any of the below manifest files present in path `analytics/extract/postgres_pipeline/manifests_decomposed`. 
 
 - el_customers_scd_db_manifest.yaml
@@ -117,7 +117,7 @@ This pipeline requires.
 3. Variable `TASK_INSTANCE`(Optional): This do not apply to any of the incremental table. It is only required to be passed for table listed in the SCD manifest file for who has `advanced_metadata` flag value set to `true`. For example for table `bulk_import_entities` in manifest file `el_gitlab_com_scd_db_manifest.yaml`. We need to pass this variable `TASK_INSTANCE`. For testing purpose this can be any unique identifiable value. 
 
 
-#### gitlab_ops_pgp_test
+#### `gitlab_ops_pgp_test`
 
 This pipeline needs to be executed when doing changes to any of the below manifest files present in path `analytics/extract/postgres_pipeline/manifests_decomposed`. 
 
@@ -133,15 +133,15 @@ This pipeline requires.
 
 ### DBT cloning selection
 
-When making any DBT changes, 🔆⚡️clone_model_dbt_select should be your first pipeline run to set up the environment, followed by either the `run_changed` or `specify_model` pipeline (to test & validate). 
+When making any DBT changes, 🔆⚡️ `clone_model_dbt_select` should be your first pipeline run to set up the environment, followed by either the `run_changed` or `specify_model` pipeline (to test & validate). 
 
-The following jobs use the same selection syntax as the regular DBT runs, but they use this to **begin a SnowFlake cloning operation for the DBT lineage provided**. In the case of 🔆⚡️clone_model_dbt_select it is far faster, cheaper, and can handle a much greater data volume than the regular DBT runs, because they do not actually run DBT. 
+The following jobs use the same selection syntax as the regular DBT runs, but they use this to **begin a SnowFlake cloning operation for the DBT lineage provided**. In the case of 🔆⚡️ `clone_model_dbt_select` it is far faster, cheaper, and can handle a much greater data volume than the regular DBT runs, because they do not actually run DBT. 
 
-#### 🔆⚡️clone_model_dbt_select
+#### `🔆⚡️clone_model_dbt_select`
 
 Specify which model to run with the variable `DBT_MODELS`. Clones all models in the provided selection. Does not run any DBT tests or validation. This job will fail for the same errors as the existing DBT process (i.e. ensure that you have selected the correct lineage above your model).
 
-#### 🏗️🔆run_changed_️clone_model_dbt_select
+#### `🏗️🔆run_changed_️clone_model_dbt_select`
 
 Clones all models in the provided selection. Does not run any DBT tests or validation. This job will fail for the same errors as the existing DBT process (i.e. ensure that you have selected the correct lineage above your model).
 Runs all the models in the MR diff whose SQL has been edited. Does not pickup changes to schema.yml / source.yml, only .sql files.
@@ -172,23 +172,23 @@ You can also add `--fail-fast` to the end of the model selection to quickly end 
 
 If removing a model it's useful to run any dbt pipeline just to check it still compiles. In example you could run +dim_date to check that it works.
 
-#### 🐭specify_model
+#### `🐭specify_model`
 
 Specify which model to run with the variable `DBT_MODELS`
 
-#### 🦖specify_l_model
+#### `🦖specify_l_model`
 
 Specify which model to run using an L warehouse with the variable `DBT_MODELS`
 
-#### 🐘specify_xl_model
+#### `🐘specify_xl_model`
 
 Specify which model to run using an XL warehouse with the variable `DBT_MODELS`
 
-#### specify_dbt_parameters
+#### `specify_dbt_parameters`
 
 Specify how to run dbt using the variable `DBT_PARAMETERS`. This job essentially just puts everything in DBT_PARAMETERS variable into a command after `dbt run`, and can be used for excluding models. 
 
-#### 🐭🥩specify_raw_model
+#### `🐭🥩specify_raw_model`
 
 Specify a dbt model against the clone of the RAW database. This jobs runs against the clone of `RAW`. Requires the `clone_raw_specific_schema` job (parameter `SCHEMA_NAME=TAP_POSTGRES` or the schema you need) to have been run. This is useful for the following scenarios:
 
@@ -196,39 +196,39 @@ Specify a dbt model against the clone of the RAW database. This jobs runs agains
 * You have a new gitlab.com or other pgp table you're adding. You can use this to test the dbt models in the same MR you're adding the table.
 * You're adding a dbt snapshot and want to test models built on top of that snapshot.
 
-#### 🌱specify_csv_seed
+#### `🌱specify_csv_seed`
 
 This job tests specific seed file.
 
 Specify seed file with the variable `DBT_MODELS`.
 
-#### 📸🥩specify_snapshot
+#### `📸🥩specify_snapshot`
 
 Specify which snapshot to run with the variable `DBT_MODELS`.
 This jobs runs against the clone of `RAW`. Requires the Requires the `clone_raw_full` or `clone_raw_specific_schema` job (parameter `SCHEMA_NAME=SNAPSHOTS`) to have been run.
 
-#### 📸🥩🦖specify_l_snapshot
+#### `📸🥩🦖specify_l_snapshot`
 
 Specify which snapshot to run with the variable `DBT_MODELS`.
 This jobs runs against the clone of `RAW`, using a large SnowFlake warehouse. Requires the `clone_raw_specific_schema` job (parameter `SCHEMA_NAME=SNAPSHOTS`) to have been run.
 
-#### 🏗🛺️run_changed_models_sql
+#### `🏗🛺️run_changed_models_sql`
 Runs all the models in the MR diff whose SQL has been edited. Does not pickup changes to schema.yml / source.yml, only .sql files.
 * (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
 * (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models. 
 
-#### 🏗️🛺🦖run_changed_models_sql_l
+#### `🏗️🛺🦖run_changed_models_sql_l`
 Runs all the models in the MR diff whose SQL has been edited against an L warehouse. Does not pickup changes to schema.yml / source.yml, only .sql files.
 * (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
 * (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models. 
 
-#### 🏗️🛺🐘run_changed_models_sql_xl
+#### `🏗️🛺🐘run_changed_models_sql_xl`
 Runs all the models in the MR diff whose SQL has been edited against an XL warehouse. Does not pickup changes to schema.yml / source.yml, only .sql files. 
 * (Optionally) Specify running ancestors using the `ANCESTOR_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **before** the models. 
 * (Optionally) Specify running dependants using the `DEPENDENT_TYPE` variable along with either the `@` or `+` operator. The operator is inserted **after** the models. 
 
-#### ➕🐘🏭⛏specify_selector_build_xl
-Specify which selector to build with the variable `DBT_SELECTOR`, addtional filtering of the selction can be accompleshed by appending the `resource-type` options to the desierd selector. 
+#### `➕🐘🏭⛏specify_selector_build_xl`
+Specify which selector to build with the variable `DBT_SELECTOR`, additional filtering of the selection can be accomplished by appending the `resource-type` options to the desired selector. 
 
 For example,  `DBT_SELECTOR: customers_source_models --resource-type snapshot` will limit the models to only snapshot models.  
 
@@ -250,18 +250,18 @@ Using a bigger warehouse will result in shorter run time (and prevents timing ou
 
 These jobs are defined in [`snowflake-dbt-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/snowflake-dbt-ci.yml)
 
-#### 🧠all_tests
+#### `🧠all_tests`
 
 Runs all the tests
 
 - Note: it is not necessary to run this job if you've run any of the dbt_run stage jobs as tests are included.
 
-#### 💾data_tests
+#### `💾data_tests`
 
 Runs only data tests
 
 
-#### 🔍periscope_query
+#### `🔍periscope_query`
 
 This job runs automatically and only appears when `.sql` files are changed. In its simplest form, the job will check to see if any of the currently changed models are queried in Periscope. If they are, the job will fail with a notification to check the relevant dashboard. If it is not queried, the job will succeed.
 
@@ -291,31 +291,31 @@ This recursively searches the entire periscope repo for a string that matches a 
 
 This uses word count (wc) to see how many lines are in the comparison file. If there is more than zero it will print the lines and exit with a failure. If there are no lines it exits with a success.
 
-#### 🛃dbt_sqlfluff
+#### `🛃dbt_sqlfluff`
 
 Runs the SQLFluff linter on all changed `sql` files within the `transform/snowflake-dbt/models` directory.  This is currently executed manually and is allowed to fail, but we encourage anyone developing dbt models to view the output and format according to the linters specifications as this format will become the standard.  
 
-#### 🚫safe_model_script
+#### `🚫safe_model_script`
 
 In order to ensure that all [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) data is being stored in appropriate schemas all models that are downstream of [source models with MNPI data](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/new-data-source/#mnpi-data) must either have an exception tag or be in a restricted schema in `PROD`. This CI Job checks for compliance with this state. If your MR fails this job it will likely either need to be audited and verified to be without change MNPI data and have the appropriate exception tags added, or models may need to be migrated to the appropriate restricted schema
 
-#### 🔍macro_name_check:
+#### `🔍macro_name_check`:
 
 Automatically runs when making changes in the snowflake-dbt/macros folder and checks if the newly created macros match the correct name format.  
 
-#### 🗂schema_tests
+#### `🗂schema_tests`
 
 Runs only schema tests
 
-#### 📸snapshots
+#### `📸snapshots`
 
 Runs snapshots. This jobs runs against the clone of `RAW`. Requires the `clone_raw_full` job to have been run.
 
-#### 📝specify_tests
+#### `📝specify_tests`
 
 Runs specified model tests with the variable `DBT_MODELS`
 
-#### 🌱manual_seed
+#### `🌱manual_seed`
 
 Runs a full seed operation. For use to confirm results when working on changes to the dbt seeds themselves. 
 
@@ -327,48 +327,48 @@ There are several jobs that only appear when `.py` files have changed. All of th
 
 Pipelines running automatically are:
 
-#### ⚫python_black
+#### `⚫python_black`
 
 We handle python code formatting using the [`black`](https://github.com/psf/black) library. The pipeline checks the entire `/analytics` repo (all `*.py` files). 
 
-#### ✏️python_mypy
+#### `✏️python_mypy`
 
 We use the [`mypy`](https://mypy.readthedocs.io/en/stable/) library to check code correctness. The pipeline checks the entire `/analytics` repo (all `*.py` files). 
 
-#### 🗒️python_pylint
+#### `🗒️python_pylint`
 
 We use the [`pylint`](https://pylint.pycqa.org/en/latest/) library and check code linting for Python files. The pipeline checks only **changed** Python files (`*.py`) in `/analytics` repo. 
 
-#### 🌽python_flake8
+#### `🌽python_flake8`
 
 We use the [`flake8`](https://flake8.pycqa.org/en/latest/) library and check code linting for Python files. The pipeline checks only **changed** Python files (`*.py`) in `/analytics` repo. 
 
-#### 🦅python_vulture
+#### `🦅python_vulture`
 
 We use the [`vulture`](https://pypi.org/project/vulture/0.5/) library and check unused for Python files. `Vulture` finds unused classes, functions and variables in your code. This helps you cleanup and find errors in your programs.
 The pipeline checks only **changed** Python files (`*.py`) in `/analytics` repo. 
 
-#### 🤔python_complexity
+#### `🤔python_complexity`
 
 We use the [`xenon`](https://pypi.org/project/xenon/) library and check code complexity for Python files. The pipeline checks the entire `/analytics` repo (all `*.py` files). 
 
-#### ✅python_pytest
+#### `✅python_pytest`
 
 We ensure code quality by running the [`pytest`](https://docs.pytest.org/en/7.1.x/contents.html) library and test cases in `/analytics` repo. The pipeline all test files in the entire `/analytics` repo (all `*.py` files contains `pytest` library). 
 
 Manually running pipelines are:
 
-#### 🧊⚙permifrost_run
+#### `🧊⚙permifrost_run`
 
 Manual job to do a dry run of [Permifrost](https://gitlab.com/gitlab-data/permifrost/).
 
-#### 🧊 permifrost_spec_test
+#### `🧊 permifrost_spec_test`
 
 Must be run at least once before any changes to `permissions/snowflake/roles.yml` are merged. Takes around 30 minutes to complete.  
 
 Runs the `spec-test` cli of [Permifrost](https://gitlab.com/gitlab-data/permifrost/) to verify changes have been correctly configured in the database. 
 
-#### 📁 yaml_validation
+#### `📁 yaml_validation`
 
 Triggered when there is a change to `permissions/snowflake/roles.yml`. Validates that the YAML is correctly formatted.
 
@@ -376,7 +376,7 @@ Triggered when there is a change to `permissions/snowflake/roles.yml`. Validates
 
 These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml).
 
-#### clone_stop
+#### `clone_stop`
 
 Runs automatically when MR is merged or closed. Do not run manually.
 
@@ -385,18 +385,18 @@ Runs automatically when MR is merged or closed. Do not run manually.
 
 All the below run against the Prod DB using the changes provided in the repo. No cloning is needed to run the below. 
 
-#### 🧠 all_tests_prod
+#### `🧠 all_tests_prod`
 
 Runs through all tests in the analytics & data tests repo. 
 
-#### 💾 data_tests_prod
+#### `💾 data_tests_prod`
 
 Runs through all the data tests in the analytics & data tests repo's. 
 
-#### schema_tests_prod
+#### `schema_tests_prod`
 
 Runs through all the schema tests in the analytics & data tests repo's. 
 
-#### specify_tests_prod
+#### `specify_tests_prod`
 
 Runs specified model tests with the variable `DBT_MODELS`
