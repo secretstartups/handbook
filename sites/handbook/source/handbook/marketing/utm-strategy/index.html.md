@@ -86,14 +86,19 @@ These are the UTMs (**utm_campaign**) to align to the anchor campaigns (both GTM
 
 Using proper `utm_campaign` values below will minimize number of manual updates required for the DG Dashboard.
 
+#### Current GTM UTMs 
+{: #current-gtm-utms}
+* devsecopsplat = DevSecOps Platform GTM
+* seccomp = Security and Compliance GTM
+* autosd = Automated Software Delivery GTM
+
+#### Retired Use Case UTMs 
+{: #retired-use-case-utms}
 * singleappci = CI Campaign
-* devsecopsusecase = DevSecOps Campaign
 * iacgitops = GitOps Campaign
-* devopsgtm = DevOps Platform Campaign
 * vccusecase = VC&C Campaigns (retired)
 * competegh = OctoCat Competitive
 * cdusecase = CD Campaign
-* autosd = Automated Software Delivery Solutions Campaign
 
 RULE: all utm_campaign must start with one of the overarching campaigns (devopsgtm, singleappci, iacgitops, etc.)
 
