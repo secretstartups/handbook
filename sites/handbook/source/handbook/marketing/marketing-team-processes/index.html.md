@@ -268,7 +268,7 @@ Once you have created your Campaign Tag, follow [these instructions](/handbook/m
 
 1. Marketing Managers and Field Marketing Coordinators request the creation of an Allocadia ID or Campaign Tag in [this tracker](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit?usp=sharing). They will add all requested details outlined in the tracker.
    * The GL accounting team will create the IDs/tags at the end of each day. 
-   * The ID/tag is created in Netsuite and syncs with Expensify and Coupa.
+   * The ID/tag is created in NetSuite and syncs with Expensify and Coupa.
 1. The Allocadia ID/Campaign Tag must be noted in the Coupa requisition and in the main tactic issue (for Field Marketing, this information lives under the Event Details section in the main issue). Additional details on the Allocadia > Coupa integration can be found [here](/handbook/marketing/strategy-performance/allocadia/#coupa).
 1. Information on utilizing Allocadia IDs for SFDC campaign creation can be found [here](/handbook/marketing/strategy-performance/allocadia/#salesforcecom-sfdc).
    * For the MCM team, additional details can be found in the campaign epic. 
@@ -279,7 +279,7 @@ If your event or tactic gets postponed to a new date, you only need to request a
 
 ### Travel Costs
 
-Travel expenses (food, hotel stays, arline tickets, etc.) must also be tracked utilizing Allocadia IDs/Campaign Tags. You will include the Allocadia ID/Campaign Tag in the `classification` field in Expensify when you are completing your expense report. The instructions for how to request the Allocadia ID/Campaign Tag be created in Netsuite > Expensify can be found [here](/handbook/marketing/#how-to-create-and-manage-allocadia-idscampaign-tags). Additional information regarding travel can be found [here](/handbook/travel/).
+Travel expenses (food, hotel stays, arline tickets, etc.) must also be tracked utilizing Allocadia IDs/Campaign Tags. You will include the Allocadia ID/Campaign Tag in the `classification` field in Expensify when you are completing your expense report. The instructions for how to request the Allocadia ID/Campaign Tag be created in NetSuite > Expensify can be found [here](/handbook/marketing/#how-to-create-and-manage-allocadia-idscampaign-tags). Additional information regarding travel can be found [here](/handbook/travel/).
 
 # <i class="fas fa-forward fa-fw color-orange font-awesome"></i> Marketing Rapid Response Process
 
