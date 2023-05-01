@@ -122,11 +122,11 @@ Examples of tasks or initiatives that are important to the CEO:
 - Values updates
 - Preparing for calls
 - Special projects. These have included:
-    - Operationalizing chartiable donations
+    - Operationalizing charitable donations
     - A Slack direct message reduction campaign to promote transparency via the use of open channels
     - Supporting updates to GitLab's expense policy
     - Quantifying the value of transparency
-    - Auditing training resources and creating an accesible source of truth
+    - Auditing training resources and creating an accessible source of truth
     - Calculating GitLab's carbon emissions and leading a first iteration of a carbon reduction initiative
     - Identifying the underlying reasons for why we didn't meet targets for a core GTM KPI and identifying optimizations
 
@@ -255,7 +255,7 @@ The CEO's Quarterly Kickoff Slides usually cover:
         1. Click `Record` -> `Record on this Computer`
     1. After the recording has been made share the raw recording with Legal for quick feedback
     1. Review the recording and in the speaker notes of the slides add the appropriate timestamps for the Digital Production team to use to show the correct slide in the video
-    1. Update the issue with the Digitial Production team to link to the video and slides. Makes sure permissions are correct so they are only shared with the needed DRIs.
+    1. Update the issue with the Digital Production team to link to the video and slides. Makes sure permissions are correct so they are only shared with the needed DRIs.
     1. Once the video is returned, review it for correctness. Once reviewed, ask for Legal's final sign off.
     1. Reach out to the Learning and Development team, specifically [Satu Salminen](https://gitlab.com/ssalminen) and [Jamie Allen](https://gitlab.com/jallen16), to and share the video with them so they can post it to `Level Up`. They will share a special URL which will authenticate folks via Okta if they are not already authenticated. Make sure to use this URL when sharing. For example, FY23-Q4's Quarterly Kickoff URL was: 
     [`https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy23-q4-quarterly-kickoff`](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy23-q4-quarterly-kickoff)
@@ -296,7 +296,7 @@ In addition, the CoS to the CEO is responsible for preparing the CEO for offsite
 
 1. Finalizing the agenda to include CEO input
 1. Working with the CEO on what to cover in offsite introductions and closings
-1. Helping the CEO to prepare for sessions that the CEO will faciliate
+1. Helping the CEO to prepare for sessions that the CEO will facilitate
 
 ## CEO Performance Evaluation
 
@@ -412,7 +412,7 @@ Once a project or initiative to Shadow has been identified and the team member d
 Since the CoST to the CEO is working on many different projects at a given time, folks often struggle to understand the team's mission or contributions. To address this, we:
 
 1. Share a monthly newsletter in the [`#whats-happening-at-gitlab`](https://app.slack.com/client/T02592416/C0259241C) Slack channel and cross-post to the [`#ceo`](https://app.slack.com/client/T02592416/C3MAZRM8W) Slack channel
-1. Do a quarterly AMA or GC that showcases the CoST to the CEO, an initative driven by someone on the CoST
+1. Do a quarterly AMA or GC that showcases the CoST to the CEO, an initiative driven by someone on the CoST
 1. Starting in FY23, we plan to have an annual roadshow in which we stop by other teams or ask other team members to attend some of our meetings
 
 ## Organizational pulse
