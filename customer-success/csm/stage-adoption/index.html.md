@@ -122,7 +122,7 @@ Usage Discovery Questions:
 
 1. Are you using GitLab to deploy your applications?
 1. Do you use GitLab pages to create, manage and deploy static sites?
-1. Are you making use of review apps to get a full production like enviornment in every merge request?
+1. Are you making use of review apps to get a full production like environment in every merge request?
 1. How do you currently manage your releases? (i.e. versioning, release notes, etc.)
 
 ## Configure

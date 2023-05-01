@@ -266,7 +266,7 @@ Example 1:
 >
 > **Comments:** The customer's GitLab instance struggles with poor performance and instability, sometimes going offline during peak usage times and costing development teams time, slowing their release cycles.
 
-This example provides the three main components. We have the "what" (higher reliability by implementing HA), the "why" (Reduce SDLC times), and the metrics that will let us determine whether we've achieved the objecive, both strategic (SDLC time reduction target) and operational (uptime and scalability).
+This example provides the three main components. We have the "what" (higher reliability by implementing HA), the "why" (Reduce SDLC times), and the metrics that will let us determine whether we've achieved the objective, both strategic (SDLC time reduction target) and operational (uptime and scalability).
 
 Example 2:
 

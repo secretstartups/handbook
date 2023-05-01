@@ -100,7 +100,7 @@ Expansion is primarily driven by the SAE or AE in this segment, though a key dri
 
 Being a CSM at GitLab means that every day will be different, and you'll always have competing priorities. In general, CSMs should follow this guidance:
 
-1. **At-risk customers** always come first - this is our #1 priority! Identifying the risk quickly and then working on repeatable, effective plays to ensure we're doing everything we can to retain the customer. This risk could come through in a variety of ways: low usage reporting (red DevSecOps Ultimate customers, low PtC score, etc.), loss of enagement, or simply because they've told us. Whatever it is, always err on the side of caution and flag risk as soon as possible in Gainsight and notify your manager.
+1. **At-risk customers** always come first - this is our #1 priority! Identifying the risk quickly and then working on repeatable, effective plays to ensure we're doing everything we can to retain the customer. This risk could come through in a variety of ways: low usage reporting (red DevSecOps Ultimate customers, low PtC score, etc.), loss of engagement, or simply because they've told us. Whatever it is, always err on the side of caution and flag risk as soon as possible in Gainsight and notify your manager.
    - Please familiarize yourself with our [risk mitigation strategies](/handbook/customer-success/csm/risk-mitigation/) and [triage process](/handbook/customer-success/csm/health-score-triage/), utilizing these handbook guides through your customer interactions and account management.
 1. **Onboarding customers** should be the next highest priority. We've found that a [successful onboarding](/handbook/customer-success/csm/onboarding/) is crucial to ensuring long-term customer success, as any initial barriers to adoption can quickly stall their ROI. As a result, having regular communication with new customers (weekly for their first month) is important, in order to ensure we have alignment on their use cases, goals, and how we can help guide them towards best practices and adoption. Professional Services is often extremely valuable to ensure a positive onboarding, and the CSM should be involved throughout a PS engagement to ensure they can seamlessly take over adoption and growth once the engagement concludes.
 1. **Driving adoption** so our customers can grow is the reason our team exists. [Usage reporting](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) is key towards ensuring we can support and scale our customers, and it feeds directly into our ability to drive [enablement and expansion](/handbook/customer-success/csm/stage-enablement-and-expansion/). By seeing how our customers are using the tool, we can create applicable content to guide them and advise them on best practices, help them with adoption, and prevent blockers to adoption.
@@ -164,7 +164,7 @@ However, the Commercial team has some specific usage of Gainsight, outlined belo
 
 To ensure your calls are logged correctly, make sure to select `Customer Call` as the type, unless you are hosting a workshop, in which case choose `Workshop`.
 
-Whenever a customer's health changes (positively or negatively), always also log an `At-risk Update` mentioning the reasons why the health score is changed and linking to the triage issue if applicable (required for any Red accounts). This ensures we have accurate reporting at the team-level and understand the health status of the segment, without needing to reach out to individal CSMs.
+Whenever a customer's health changes (positively or negatively), always also log an `At-risk Update` mentioning the reasons why the health score is changed and linking to the triage issue if applicable (required for any Red accounts). This ensures we have accurate reporting at the team-level and understand the health status of the segment, without needing to reach out to individual CSMs.
 
 ### Success Plans
 
@@ -180,7 +180,7 @@ It's acceptable for success plans to have more than one objective which may or m
 
 ### CTAs
 
-The [Cockpit](/handbook/customer-success/csm/gainsight/ctas/#cockpit) houses all call-to-actions and success plan objecties that are assigned to CSMs. However, it can get very noisy and it's easy to get CTA-fatigue. To help avoid this, it's recommended for all Commercial CSMs to make the following adjustments in their Cockpit:
+The [Cockpit](/handbook/customer-success/csm/gainsight/ctas/#cockpit) houses all call-to-actions and success plan objectives that are assigned to CSMs. However, it can get very noisy and it's easy to get CTA-fatigue. To help avoid this, it's recommended for all Commercial CSMs to make the following adjustments in their Cockpit:
 
 1. At the top right where it says `Due Date`, click the dropdown and select `Type`.
    - This will organize your CTAs into different categories which will make triaging them easier; refer to the handbook page on [different types of CTAs](/handbook/customer-success/csm/gainsight/ctas/#types-of-ctas).

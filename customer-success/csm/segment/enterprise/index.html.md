@@ -67,7 +67,7 @@ In the Enterprise CSM motion, CSMs are typically able to spend more time with th
 
 During the Account Adoption Review and Planning, the Account Team and Regional Sales Leadership review the current state of Adoption, Success Plan Objectives, and Account Plan Details. The objective is to build a shared understanding of the customer roadmap, align actions within the team, reduce potential adoption risk early, and share best practices within the account teams and region.
 
-In addtion to [Success Planning](/handbook/customer-success/csm/success-plans/) where the focus is on building a shared plan between the customer and GitLab on how the customer achieves their desired business outcomes the Account Growth Plan includes actions to achieve growth and expansion within an account. The joint plans are used to bridge the gap between enablement into a strategic growth motion. 
+In addition to [Success Planning](/handbook/customer-success/csm/success-plans/) where the focus is on building a shared plan between the customer and GitLab on how the customer achieves their desired business outcomes the Account Growth Plan includes actions to achieve growth and expansion within an account. The joint plans are used to bridge the gap between enablement into a strategic growth motion. 
 
 
 ## Account Engagement
@@ -115,7 +115,7 @@ With the below guidelines, CSMs should expect on average 14 hours worth of calls
 
 CSMs should regularly work with their manager to ensure they have a healthy work/life balance and feel confident they can both complete all of their work as well as work towards continuous improvement. If a CSM is either not within these guidelines or is within the guidelines but feeling overwhelmed, they should speak to their manager about their workload to identify solutions together.
 
-In addition to the work spent for each task, the rhyrhm described below assumes team members will take 44 days of [PTO](/handbook/paid-time-off/) per year, which includes holidays, [Family & Friends days](/company/family-and-friends-day/), vacation, sick time, etc., but this is not a requirement, and team members are able and encouraged to take as much PTO as they'd like, as long as they follow our company and [team](/handbook/customer-success/csm/pto/) guidelines and meet their deliverables.
+In addition to the work spent for each task, the rhythm described below assumes team members will take 44 days of [PTO](/handbook/paid-time-off/) per year, which includes holidays, [Family & Friends days](/company/family-and-friends-day/), vacation, sick time, etc., but this is not a requirement, and team members are able and encouraged to take as much PTO as they'd like, as long as they follow our company and [team](/handbook/customer-success/csm/pto/) guidelines and meet their deliverables.
 
 | Tasks                                                             | Weekly | Monthly | Quarterly | Yearly | Notes |
 |-------|--------|---------|-----------|--------|-------|
