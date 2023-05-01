@@ -114,3 +114,4 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Infrastructure | @lmcandrew  | [Liam McAndrew](https://about.gitlab.com/company/team/#lmcandrew)  | Engineering Manager, Scalability Frameworks |
 | Infrastructure | @igorwwwwwwwwwwwwwwwwwwww | [Igor Wiedler](https://about.gitlab.com/company/team/#igorwwwwwwwwwwwwwwwwwwww) | Staff SRE, Scalability Frameworks |
 | Infrastructure | @mbursi | [Michele Bursi](https://about.gitlab.com/company/team/#mbursi) | Engineering Manager, Delivery System |
+| Support | @ralfaro | [Ronnie Alphero](https://gitlab.com/ralfaro) |  Support Engineering Manager | 
