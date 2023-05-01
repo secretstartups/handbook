@@ -82,7 +82,7 @@ You can find the UTM builder [here](/handbook/marketing/utm-strategy/#utm-builde
 
 GitLab allows only one self-managed trial license key per user. In the case, when a lead returns and attempts to fill out the self-managed trial form from Partners, they will be prompt with a rejection email. 
 
-As partner leads are [suspended](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) from receiving marketing communciations, the `Marketing Suspended` status is temporarily switch to `False` to send the email to the recipient. 
+As partner leads are [suspended](/handbook/marketing/channel-marketing/partner-campaigns/#email-management) from receiving marketing communications, the `Marketing Suspended` status is temporarily switch to `False` to send the email to the recipient. 
 
 #### SaaS Free Trial
 
