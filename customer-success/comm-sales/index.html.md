@@ -44,7 +44,7 @@ For commercial accounts, we do not currently offer our customers Slack channels 
 
 Prior to creating the channel and provisioning access for an existing account, the CSM for the account must approve its creation and use.
 
-If the customer is evaluating GitLab or doing a POV for an upgrade, it may be wortwhile to create an ephemeral Slack channel, but the channel should be closed within 90 days and/or at project completion. The SA must approve the creation and use, with the expectation that it may be used only during the pre-sales process.
+If the customer is evaluating GitLab or doing a POV for an upgrade, it may be worthwhile to create an ephemeral Slack channel, but the channel should be closed within 90 days and/or at project completion. The SA must approve the creation and use, with the expectation that it may be used only during the pre-sales process.
 
 ## Seamless Customer Journey
 

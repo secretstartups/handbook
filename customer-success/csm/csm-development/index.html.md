@@ -51,9 +51,9 @@ The content is divided into three key categories of competencies. [LevelUp](http
 - [Customer Experience: Journey Mapping](https://www.linkedin.com/learning/customer-experience-journey-mapping) (LinkedIn Learning)
 - [Advanced Business Development Communication & Negotiation](https://www.linkedin.com/learning/advanced-business-development-communication-and-negotiation/taking-it-to-the-next-level) (LinkedIn Learning)
 - [Sales: Customer Success](https://www.linkedin.com/learning/sales-customer-success) (LinkedIn Learning)
-- [Customer Success by Nick Mehta, Dan Steinman, Lincoln Murphy, Maria Martinez](https://learning.oreilly.com/library/view/customer-success/9781119167969/) (O'reilly Books)
-- [The Customer Success Professional's Handbook](https://learning.oreilly.com/library/view/the-customer-success/9781119624615/) (O'reilly Books)
-- [Sales & Customer Success Learning Path in SQS](/handbook/sales/onboarding/sales-learning-path/): Parallel to the scheduled training sessions in the [Sales Quick Start (SQS)](/handbook/sales/onboarding/), with [Rolebased content](/handbook/sales/onboarding/sales-learning-path/#customer-success-quick-start---role-based-curriculum) (Instructor-Led Sessions)
+- [Customer Success by Nick Mehta, Dan Steinman, Lincoln Murphy, Maria Martinez](https://learning.oreilly.com/library/view/customer-success/9781119167969/) (O'Reilly Books)
+- [The Customer Success Professional's Handbook](https://learning.oreilly.com/library/view/the-customer-success/9781119624615/) (O'Reilly Books)
+- [Sales & Customer Success Learning Path in SQS](/handbook/sales/onboarding/sales-learning-path/): Parallel to the scheduled training sessions in the [Sales Quick Start (SQS)](/handbook/sales/onboarding/), with [Role-based content](/handbook/sales/onboarding/sales-learning-path/#customer-success-quick-start---role-based-curriculum) (Instructor-Led Sessions)
 
 #### Leadership
 
@@ -102,7 +102,7 @@ As CSMs have positioned themselves to be more strategic and reach Director, VP, 
 - [The Six Morning Habits of High Performers](https://www.linkedin.com/learning/the-six-morning-habits-of-high-performers/six-practices-to-get-back-on-track-16454204?u=2255073) (LinkedIn Learning)
 - [Unconscious Bias](https://www.linkedin.com/learning/unconscious-bias/) (LinkedIn Learning)
 - [How to Make Strategic Thinking a Habit](https://www.linkedin.com/learning/how-to-make-strategic-thinking-a-habit/why-make-strategic-thinking-a-habit?u=2255073)  (LinkedIn Learning)
-- [Leading with Emotional Intellignece](https://www.linkedin.com/learning/leading-with-emotional-intelligence-3/lead-with-emotional-intelligence) (LinkedIn Learning)
+- [Leading with Emotional Intelligence](https://www.linkedin.com/learning/leading-with-emotional-intelligence-3/lead-with-emotional-intelligence) (LinkedIn Learning)
 
 {: #tech-domain}
 ### 🚀 Technology and Domain Knowledge
@@ -154,7 +154,7 @@ As CSMs have positioned themselves to be more strategic and reach Director, VP, 
 
 #### Docker
 
-- [Docker Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=pg19Z8LL06w) (Youtube)
+- [Docker Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=pg19Z8LL06w) (YouTube)
 - [Docker Desktop on your Mac](https://about.gitlab.com/handbook/tools-and-tips/mac/#docker-desktop)
 
 #### Kubernetes
