@@ -48,7 +48,7 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
     - The new host will now have the ability to livestream the call from Zoom
 1. Generally, for a livestream, it's helpful to have a separate person handling [promoting people to panelist](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-Participants-in-Webinar).
 1. To improve accessibility, [enable live transcription](/handbook/tools-and-tips/zoom/#enable-captions-and-live-transcription).
-1. **Please don't include any confidential information in the description of your Youtube video since there is a bug that can cause [private video descriptions to propagate over to public ones](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/-/issues/809)**
+1. **Please don't include any confidential information in the description of your YouTube video since there is a bug that can cause [private video descriptions to propagate over to public ones](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/-/issues/809)**
 
 ### Livestream with Zoom
 
@@ -85,7 +85,7 @@ The following 5-minute video shows how to start a livestream from a Zoom Meeting
   <iframe src="https://www.youtube.com/embed/mWWWdbS2q9U" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-If you recieve a permission error when attempting to start a livestream (i.e. "Please grant necessary privilege for live streaming"), you may need to first select your `user@gitlab.com` account in step 4 above. It will prompt you to grant permissions, and you should do so. After that, return to step 3 but this time select GitLab / GitLab Unfiltired at step 4. If the problem persists, reach out in #it-help.
+If you receive a permission error when attempting to start a livestream (i.e. "Please grant necessary privilege for live streaming"), you may need to first select your `user@gitlab.com` account in step 4 above. It will prompt you to grant permissions, and you should do so. After that, return to step 3 but this time select GitLab / GitLab Unfiltired at step 4. If the problem persists, reach out in #it-help.
 
 ### Livestream with OBS
 
@@ -201,11 +201,11 @@ We never post [unlisted](https://support.google.com/youtube/thread/10480825?hl=e
 Sometimes, some videos are still posted as unlisted, they can be spotted with this [link](https://studio.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos/upload?filter=%5B%7B%22name%22%3A%22VISIBILITY%22%2C%22value%22%3A%5B%22UNLISTED%22%5D%7D%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D) (while using the `GitLab Unfiltered` account).
 You can change the visibility of videos by clicking on the `Details` buttons when you hover a video in the list linked above.
 
-## Unable to view a video on Youtube
+## Unable to view a video on YouTube
 
-If you get a "Video unavailable This video is private." error on youtube, the error may be caused because the video is private to GitLab Unfiltered and you are accessing the video with your individual Youtube account.
+If you get a "Video unavailable This video is private." error on youtube, the error may be caused because the video is private to GitLab Unfiltered and you are accessing the video with your individual YouTube account.
 In order to see the video,
-1. Click your photo or icon in the upper right corner of Youtube.
+1. Click your photo or icon in the upper right corner of YouTube.
 
 2. Then Click > Switch Account
 
@@ -213,7 +213,7 @@ In order to see the video,
 
 3. Now Select > GitLab Unfiltered. Do not select the account with your name. If GitLab Unfiltered is not an option, see [Access](/handbook/marketing/marketing-operations/youtube/#access)
 
-![Select-User](/handbook/marketing/marketing-operations/youtube/Youtube_acount.png)
+![Select-User](/handbook/marketing/marketing-operations/youtube/YouTube_account.png)
 
 3. Once you are on GitLab unfiltered, **reload** the page and you can view the video
 
@@ -239,7 +239,7 @@ Consider switching to your personal account, responding to the comment, and iden
 
 Please do not comment on videos from non-GitLab YouTube accounts using any company related YouTube profile. Commenting as GitLab is reserved for responses to our owned videos on our channels only.
 
-Should you come across personal, political or inappropriate channel subscriptions, comments or shares in GitLab's Youtube account, please notify people-connect@gitlab.com immediately to ensure this can be removed.
+Should you come across personal, political or inappropriate channel subscriptions, comments or shares in GitLab's YouTube account, please notify people-connect@gitlab.com immediately to ensure this can be removed.
 
 ## Organizing
 
@@ -248,9 +248,9 @@ As a result, it can often be hard to find videos once they are published, partic
 Make liberal use of [tags](https://support.google.com/youtube/answer/146402) and [playlists](https://support.google.com/youtube/answer/57792) to organize the video content you publish.
 For published recordings of recurring meetings, which should be posted on the Unfiltered channel, please search for a playlist to put the video in. If there is no applicable playlist. please create one. You can also create a playlist that would automatically add new videos containing certain text in their titles, descriptions or tags to avoid manual steps ([instructions](https://support.google.com/youtube/answer/6084053?hl=en))
 
-## Audience on Youtube
+## Audience on YouTube
 
-When publishing, Youtube will ask if the content is made for kids. GitLab content should be marked as "No, it's not made for kids".
+When publishing, YouTube will ask if the content is made for kids. GitLab content should be marked as "No, it's not made for kids".
 
 ## Never call it a livestream or just a recording
 

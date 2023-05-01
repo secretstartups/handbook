@@ -429,7 +429,7 @@ For budgetary reasons, Marketing Operations will be performing quarterly, bi-qua
 
 - Tools included under the quarterly guidelines
   - Outreach
-  - Linkedin Sales Navigator
+  - LinkedIn Sales Navigator
   - PathFactory (`author` and `admin` roles)
   - On24
 
@@ -673,7 +673,7 @@ To be compliant with the latest privacy policies and safeguard our database from
 
 After collaborating with Gitlab's privacy department, it was decided to create a process for removing said contacts from our database.
 
-The current process takes place on a weekly basis and is implemented with the help of a Marketo Program. It takes advantage of the `Zoominfo Non-Matched Reason` field which is populated by Zoominfo. All leads/contacts that have the  `OPT_OUT` value, enter the process and are checked for additional activites that could qualify as independent lawful basis to be kept. If they lack said activites they will be removed from our database.
+The current process takes place on a weekly basis and is implemented with the help of a Marketo Program. It takes advantage of the `Zoominfo Non-Matched Reason` field which is populated by Zoominfo. All leads/contacts that have the  `OPT_OUT` value, enter the process and are checked for additional activities that could qualify as independent lawful basis to be kept. If they lack said activities they will be removed from our database.
 
 For more information, please visit this [mural](https://app.mural.co/t/gitlabmops4601/m/gitlabmops4601/1656333829598/2c60a74604bf29d3abb2de06358a36b56a3325a1?sender=u0b94b30ee620c147d6af0933).
 

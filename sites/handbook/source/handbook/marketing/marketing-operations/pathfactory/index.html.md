@@ -316,7 +316,7 @@ Before creating a new content track, decide what type of content track (target v
 1. Enter a button label for your CTA. This is what the user will see. Copy for CTAs should typically be 2-3 words max (18 characters) and include action words such as `Watch a demo`.
 1. Choose your CTA type (form, link, email). 
    - If choosing **form** as your CTA type, **it must include** proper capture tags and script. Do not choose a `WIP` form as your CTA.
-   - If choosing **link** as your CTA type, **it must include** UTM paramters for proper tracking (ex: `utm_source=pathfactory&utm_medium=cta-name`)
+   - If choosing **link** as your CTA type, **it must include** UTM parameters for proper tracking (ex: `utm_source=pathfactory&utm_medium=cta-name`)
    - For **email**, simply input the email address you want users to contact from clicking the CTA.
 1. Click `Save`.
 
@@ -400,7 +400,7 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 
 ## PathFactory Forms
 
-The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag and custom paramters **must be hardcoded in the script**. 
+The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag and custom parameters **must be hardcoded in the script**. 
 
 ### Request a new PathFactory Form
 

@@ -32,7 +32,7 @@ Only `admin` users can create campaigns. Only the `acccount owner` can add `admi
 
 ### Admin 
 
-From this tab you can view the account owners and admins, set company signature field defaults, set default UTM paramters, and change the default account time zone.
+From this tab you can view the account owners and admins, set company signature field defaults, set default UTM parameters, and change the default account time zone.
 
 ### Recipients
 
@@ -222,7 +222,7 @@ Before creating a Terminus email campaign, you need to [request a banner ad](htt
 1. Select your desired [campaign type](/handbook/marketing/marketing-operations/terminus-email-experiences/#types), name your campaign, and click `Get Started`. You are redirected to edit the campaign details.
 1. Name your banner ad, enter alt text for the image, and upload the banner ad. All banner ads uploaded to Sigstr must have consistent dimensions to all other banners in our instance for consistency of output. Please follow [best practices](/handbook/marketing/marketing-operations/terminus-email-experiences/#best-practices). 
 1. Under `Clickthrough URL`, choose your desired link type (manual clickthrough URL, mailto, or PathFactory experience). Note that you must already have a finalized PathFactory URL before selecting `PathFactory Experience`.
-1. Select the `UTM Parameters` drop down to add additional parameters for your campaign. If you do not enter additional paramters, the default parameters will be applied: `source=email_signature&medium=terminus&content=employee_email` Note that your campaign name became the default parameter for campaign. You also have the option of adding custom UTM parameters if desired. It is highly recommended that you apply UTM parameters to your campaigns to properly report success.
+1. Select the `UTM Parameters` drop down to add additional parameters for your campaign. If you do not enter additional parameters, the default parameters will be applied: `source=email_signature&medium=terminus&content=employee_email` Note that your campaign name became the default parameter for campaign. You also have the option of adding custom UTM parameters if desired. It is highly recommended that you apply UTM parameters to your campaigns to properly report success.
 
 ### Review and activate a campaign
 
