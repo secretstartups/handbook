@@ -89,7 +89,7 @@ There are several important things to keep in mind when sharing your opinions ab
 3. Actively invite people to help us on our journey.
 - Future candidates will be more interested in hearing about what we're building toward rather than where we have already arrived. Think about ways in which your messaging can invite others to "help us build a special company" rather than "joining a special company".
 
-4. Be considerate of tone and how your message may be percieved by the audience reading it.
+4. Be considerate of tone and how your message may be perceived by the audience reading it.
 - As a general guideline, we [don't bash our competitors](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/#its-your-job-to-protect-gitlab-our-customers-and-our-team-members) on social media
 - For our talent brand, this extends to the employment practices of our competitors. Especially given there have been a number of tech companies lay off staff in 2023, it's important that any messaging to those who may have been impacted by a lay off clearly convey sympathy and compassion. 
 - An example of a compassionate tone: "With many layoffs in the tech industry, please know that GitLab is currently hiring."

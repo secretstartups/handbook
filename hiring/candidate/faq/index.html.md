@@ -231,7 +231,7 @@ Please note that not every member of the team will be observing that holiday, so
 
 ### How references are conducted
 
-References will be collected towards the end of the interview stage and they must be checked before an offer is made. The Hiring Manager or hiring team will contact your references. These reference checks will be performed in accordance with the applicable law of the jurisdiction. Where applicable, a reference check can also be used in the final decision for making an offer. The reference check is not the sole factor for a decision to hire or not hire an individual. However, in conjuction with the interview scores and the interview team feedback, all of these factors go into the hiring decision.
+References will be collected towards the end of the interview stage and they must be checked before an offer is made. The Hiring Manager or hiring team will contact your references. These reference checks will be performed in accordance with the applicable law of the jurisdiction. Where applicable, a reference check can also be used in the final decision for making an offer. The reference check is not the sole factor for a decision to hire or not hire an individual. However, in conjunction with the interview scores and the interview team feedback, all of these factors go into the hiring decision.
 
 Three references will be requested and at least one needs to be a past manager. If you have only had 1 manager, and it is at your current company, it is okay to skip the manager reference (though at least two total references will still be required).
 
