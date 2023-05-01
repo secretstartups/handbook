@@ -22,37 +22,37 @@ The IT Program Management Office (PMO) mission is to provide:
 
 # <i class="fas fa-users" id="biz-tech-icons"></i> IT PMO Team
 
-We are a global team of five, focused on building and managing world-class information technology systems and business processes. To learn more about our individual job functions, visit the [Program Management, Business Technology familiy page](https://handbook.gitlab.com/job-families/finance/program-management-bt/).
+We are a global team of five, focused on building and managing world-class information technology systems and business processes. To learn more about our individual job functions, visit the [Program Management, Business Technology family page](https://handbook.gitlab.com/job-families/finance/program-management-bt/).
 
 **Barbara Roncato - Manager, IT Program Management**  
 GitLab handle: [@broncato](https://gitlab.com/broncato)  
 Slack handle: `@barbara`   
 Location and Timezone: Portugal, WEST/GMT+1  
-Linkedin Profile: [/roncatobarbara](https://www.linkedin.com/in/roncatobarbara/)
+LinkedIn Profile: [/roncatobarbara](https://www.linkedin.com/in/roncatobarbara/)
 
 **Caroline Swanson - Senior IT Program Manager**  
 GitLab handle: [@caroline.swanson](https://gitlab.com/caroline.swanson)  
 Slack handle: `@Caroline Swanson`   
 Location and Timezone: USA, MDT/MST  
-Linkedin Profile: [/caroline-smoke-swanson-pmp-a869b685](https://www.linkedin.com/in/caroline-smoke-swanson-pmp-a869b685/)
+LinkedIn Profile: [/caroline-smoke-swanson-pmp-a869b685](https://www.linkedin.com/in/caroline-smoke-swanson-pmp-a869b685/)
 
 **Kayoko Cooper - Business Systems Analyst**  
 GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
 Slack handle: `@Kayoko Cooper` <br>
 Location and Timezone: USA, EDT/EST  
-Linkedin Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
+LinkedIn Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
 
 **Kristina Koceban - Senior Business Systems Analyst**  
 GitLab handle: [@kkoceban](https://gitlab.com/kkoceban)  
 Slack handle: `@Kristina`   
 Location and Timezone: Ireland, WEST/GMT+1  
-Linkedin Profile: [/kristinakoceban](https://www.linkedin.com/in/kristinakoceban/)
+LinkedIn Profile: [/kristinakoceban](https://www.linkedin.com/in/kristinakoceban/)
 
 **Nico Sandoval - Business Systems Analyst**  
 GitLab handle: [@nicosando](https://gitlab.com/nicosando)  
 Slack handle: `@Nico Sandoval` <br>
 Location and Timezone: USA, EDT/EST  
-Linkedin Profile: [/nicolas-sandoval-331900b3](https://www.linkedin.com/in/nicolas-sandoval-331900b3/)
+LinkedIn Profile: [/nicolas-sandoval-331900b3](https://www.linkedin.com/in/nicolas-sandoval-331900b3/)
 
 # <i class="fas fa-tasks" id="biz-tech-icons"></i> What We Do
 
@@ -98,7 +98,7 @@ All projects added to the [IT - Consolidated Projects Roadmap](https://docs.goog
 - Resources assigned in order of priority
 - An appropriated label:
    - **Committed**: Projects that are in-flight / being worked on
-   - **Planned**: Projects that will be picked up once the resouces from a committed project becomes available
+   - **Planned**: Projects that will be picked up once the resources from a committed project becomes available
    - **Backlog**: Projects that are in the pipeline but not yet ready to start
 
 ### Alignment & OKRs

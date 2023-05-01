@@ -80,7 +80,7 @@ GitLab requires all team members to use either Biometrics or YubiKey as your [Ok
 
 Follow the GitLab Okta [FAQ](/handbook/business-technology/okta/okta-enduser-faq/).
 
-We have also prepared Introductory Videos on [Setting up MFA/Yubikeys](https://youtu.be/9UyKml_aO3s), [Configuring Applications](https://youtu.be/xS2CarGUPLc) and [Dashboard Tips](https://youtu.be/xQQwa_pbe2U).
+We have also prepared Introductory Videos on [Setting up MFA/YubiKeys](https://youtu.be/9UyKml_aO3s), [Configuring Applications](https://youtu.be/xS2CarGUPLc) and [Dashboard Tips](https://youtu.be/xQQwa_pbe2U).
 
 
 
@@ -94,7 +94,7 @@ These steps are for an iPhone, and may be slightly different for Android.  If yo
     <img src="/handbook/business-technology/Okta-Mac-Bluetooth-1.png" alt="Okta Mac Bluetooth-1" width="300"/> 
     <img src="/handbook/business-technology/Okta-Mac-Bluetooth-2.png" alt="Okta Mac Bluetooth-2" width="300"/>   
 1. On the computer, login into your [Okta](https://gitlab.okta.com)
-1. On the computer, click on your name on the top right to open the drop down menu (smiliar to above) and navigate to "Settings".
+1. On the computer, click on your name on the top right to open the drop down menu (similar to above) and navigate to "Settings".
 1. On the computer, under Security Methods click "Set up another" beside Security Key or Biometric. This will take you to a setup authentication screen, click "Verify". Provide Touch ID.
 1. On the computer, click "Set up", then click "Set up" again on the next screen
 1. On the computer, the next step depends on the browser and version.

@@ -62,13 +62,13 @@ Application Requests are managed via a [Change Management Issue](https://gitlab.
 [All new software must go through Procurement](https://about.gitlab.com/handbook/finance/procurement/new-software/) before being added to Okta.
 
 **Things to consider before opening a request:**
-   - Has the Vendor Representive (AE, CSM) confirmed that SSO, SAML or SCIM is supported?
+   - Has the Vendor Representative (AE, CSM) confirmed that SSO, SAML or SCIM is supported?
       - Please set up a call with a technical contact for the vendor and start an email thread to confirm available features for SSO and automated user management.
    - How should user creation, updates, and deactivation be processed?
-   - Which groups of users need access to this? An exact list of exisiting Google groups or a list of users will be needed.
+   - Which groups of users need access to this? An exact list of existing Google groups or a list of users will be needed.
    - **Timeline:** Please allow up to _4 weeks_ for an application integration to be completed. If the request is urgent, please tag your manager and explain the urgency and requested date of completion.
 
-## How do I request an app to be udpated?
+## How do I request an app to be updated?
 
 Application Update Requests are managed via a [Change Management Issue](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/new?issue%5Bmilestone_id%5D=#) within the Business Technology team. Please use the `okta_existing_app_udate` template to ensure all required information fields are inputted. 
 
