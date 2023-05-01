@@ -56,7 +56,7 @@ if an item will ship in the current or a future iteration.
 ## Other pieces of info to look for
 
 Issues are frequently included as part of a larger [Epic](https://docs.gitlab.com/ee/user/group/epics/)
-of work. Epics may have multiple issues, each with a seperate scope and
+of work. Epics may have multiple issues, each with a separate scope and
 assigned milestones. It can be helpful to look at the Epic an issue is contained
 in to understand what other related work is planned to understand when
 everything will be shipped and usable by users.

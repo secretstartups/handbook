@@ -113,7 +113,7 @@ Individual institutions may be part of a larger state, regional, or national uni
 
 **For-Profit Universities/Colleges**: Universities and colleges owned and operation by for-profit businesses are not eligible for the enterprise education offering.
 
-**For-Profit Units**: Individual non-profit institutions may have directly affiliated entities that are managed and operated by a for-profit entity or mechanism with a seperate tax status than the parent University. This may include online program managers (for-profit online programs), endowment money managers, startup incubators, etc. For-profit units are excluded from the enterprise education offering unless specifically agreed upon by GitLab and indicated on the order form.
+**For-Profit Units**: Individual non-profit institutions may have directly affiliated entities that are managed and operated by a for-profit entity or mechanism with a separate tax status than the parent University. This may include online program managers (for-profit online programs), endowment money managers, startup incubators, etc. For-profit units are excluded from the enterprise education offering unless specifically agreed upon by GitLab and indicated on the order form.
 
 **Educationally Related Entities**: any entity that does not meet the qualifying criteria, such as code academies, massive open online course providers, bootcamps, and professional training centers, do not qualify for the GitLab for Campuses enterprise offering.  
 
