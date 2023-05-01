@@ -33,6 +33,8 @@ The Production Database in the EDW is used for reporting and analysis by Data Co
 ### The Enterprise Dimensional Model 'BIG PICTURE' Diagram
 - We use Lucidchart's [ER diagram template](https://www.lucidchart.com/pages/er-diagrams) to build [Enterprise Entity Relationship Diagram](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) source.
 
+A Step-by-Step process of creating an ERD using Lucidchart can be found [here](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/##create-entity-relationship-(er)-diagrams-using-lucidchart).
+
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19" id="jBktl-f497ew"></iframe></div>
 
 ### Entity Relationship Diagram (ERD) Library
@@ -343,6 +345,93 @@ For performance reasons, it is helpful to keep the slowly changing dimension at 
 In the Enterprise Dimensional Model, we introduce the daily grain in the `COMMON` schema so the snapshot models are available in our reporting tool. These daily snapshot models should end with the suffix `_daily_snapshot`. If a slowly changing dimension requires additional business logic beyond what comes out of the source system and is stored in a `_source` model, the best practice is to create a staging model in the `COMMON_PREP` schema with the transformations and then [build the slowly changing dimension](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#create-snapshot-tables-with-dbt-snapshot) and daily snapshot model from the `COMMON_PREP` model. 
 
 The dbt solution for building snapshot tables will set the `valid_to` field as NULL for the current version of a record, as shown in the first example above. This is how the data will be presented in the `_source` models. When this is transformed into a daily snapshot in the `COMMON` schema, there is flexibility for the analyst to decide how to [set the end date](https://discourse.getdbt.com/t/building-models-on-top-of-snapshots/517) (today's date, a future date, into the infinite future) depending on the business use case.
+
+
+## Create Entity Relationship (ER) Diagrams using Lucidchart
+
+`Lucidchart` is a web-based diagramming application that allows users to visually collaborate on drawing, revising and sharing charts and diagrams, and improve processes, systems, and organizational structures. 
+
+An `Entity Relationship (ER) Diagram` is a type of flowchart that illustrates how `entities` or `objects` relate to each other within a system. `ER diagrams` are used to model and design relational databases, in terms of logic and business rules (in a logical data model) and in terms of the specific technology to be implemented (in a physical data model.) 
+
+The below steps illustrate how to create an `ER Diagram` (Logical & Physical Data Model) using `Lucidchart's ERD import functionality`. This process of creating a data model from a database or a script is also known as `Reverse engineering`.
+
+
+<details markdown=1>
+<summary><b>Step 1:</b> Create a blank lucid document from 'Lucidchart app' (should be available via Okta dashboard in case a user is assigned to it).</summary>
+
+![create-lucid-chart.png](./images/create-lucid-chart.png)
+</details> 
+
+<details markdown=1>
+<summary> <b>Step 2:</b> Click 'Import Data' that appears below the 'Shape Library' located at the bottom left hand side of the page. </summary>
+
+![import-data.png](./images/import-data.png)
+</details> 
+
+<details markdown=1>
+<summary><b>Step 3:</b> Select 'Entity Relationship (ERD)' from 'All Data Sources'. And choose 'Import from SQL Database' option from the dropdown list menu of 'Import your Data'.</summary>
+
+![import-sql-database.png](./images/import-sql-database.png)
+</details> 
+
+<details markdown=1>
+<summary> <b>Step 4:</b>  Select 'MySQL' as the DBMS source to import the data from, to create the ERD.</summary>
+
+![sql-script.png](./images/sql-script.png)
+</details> 
+
+<details markdown=1>
+<summary> <b>Step 5:</b>  Run the below script in Snowflake after updating/modifying the filter critera for selecting the 'table_schema' for selecting the tables for which the ERD needs to be created for.</summary>
+
+```
+The below query can be run in Prod database in Snowflake to get all the Models/tables from COMMON and COMMON_PREP Schemas:
+
+SELECT 'mysql' dbms,
+        t.TABLE_SCHEMA,
+        t.TABLE_NAME,
+        c.COLUMN_NAME,
+        c.ORDINAL_POSITION,
+        c.DATA_TYPE,
+        c.CHARACTER_MAXIMUM_LENGTH,
+        '' CONSTRAINT_TYPE,
+        '' REFERENCED_TABLE_SCHEMA,
+        '' REFERENCED_TABLE_NAME,
+        '' REFERENCED_COLUMN_NAME
+FROM INFORMATION_SCHEMA.TABLES t
+LEFT JOIN INFORMATION_SCHEMA.COLUMNS c
+ON t.TABLE_SCHEMA=c.TABLE_SCHEMA
+AND t.TABLE_NAME=c.TABLE_NAME
+WHERE t.TABLE_SCHEMA NOT IN('INFORMATION_SCHEMA')
+AND t.TABLE_SCHEMA IN ('COMMON', 'COMMON_PREP')
+```
+</details>
+
+<details markdown=1>
+<summary><b>Step 6:</b> Download and export the results/output of the above query from Snowflake in to a csv file.</summary>
+
+![export-results.png](./images/export-results.png)
+</details>
+
+<details markdown=1>
+<summary><b>Step 7:</b>  Navigate back to Lucidchart app and select the result.csv file to be uploaded and click 'Import'.</summary>
+
+![import-tables.png](./images/import-tables.png)
+</details> 
+
+<details markdown=1>
+<summary><b>Step 8:</b> All the tables/models from the selected 'table_schema' list will now appear under 'ERD Import'. The schemas can be expanded and scrolled through to view all the tables.</summary>
+
+![schemas.png](./images/schemas.png)
+
+![tables.png](./images/tables.png)
+</details> 
+
+<details markdown=1>
+<summary><b>Step 9:</b>  The required tables/entities of interest can be dragged on to the canvas and relationships between the entities can be defined from the ribbon to create the ER Diagram. <br>
+Note: The number of fields to be shown for each of the entity can easily be modified from the 'Advanced Options' section thats appears towards the right hand side of the page.</summary>
+
+![ERD.png](./images/ERD.png)
+</details> <br> 
 
 ## SPECIFIC Schema
 
