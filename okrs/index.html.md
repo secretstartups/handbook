@@ -200,7 +200,7 @@ CEO OKRs may continue to be refined in the lead up to the coming quarter.
 
 **Four Mondays** before the start of the fiscal quarter, in the days after the CEO shares OKRs with all of GitLab in the #okr channel, Executives propose OKRs for their functions in the OKR draft review meeting agenda. After this meeting, as OKRS are finalized, functional OKRs should be posted in GitLab. This should be noted through a Slack message in the #okrs channel. The CEO and Chief of Staff to the CEO should be @ mentioned. The CEO will confirm sign-off on objectives by commenting directly on them. While the CEO is the DRI, this responsibility may be delegated to the CoS to the CEO. The CoS to the CEO will also post CEO OKRs in GitLab. 
 
-Each executive should aim for a maximum of 3 objectives. Each objective has between 0 and 3 key results. While OKRs are known for being ambitious or committed, we only have ambitious OKRs. When drafting the OKRs, executives should strive to have clear numerical targets. Teams within a function can have zero objectives and key results. 
+Each executive should aim for a maximum of 5 objectives. Each objective has between 0 and 3 key results. While OKRs are known for being ambitious or committed, we only have ambitious OKRs. When drafting the OKRs, executives should strive to have clear numerical targets. Teams within a function can have zero objectives and key results. 
 
 Function objectives should cascade from one of the CEO's OKRs in GitLab.
 
