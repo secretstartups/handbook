@@ -215,7 +215,7 @@ Managers then need to add a tag of “manager approved” on the sequence in Out
 * ZI 101 Video: [Tagging Prospects in LinkedIn](https://www.youtube.com/watch?v=GQWTZWbMgg8) 
 * GitLab Handbook: [Zoominfo handbook page](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/)
 
-## Linkedin Sales Navigator
+## LinkedIn Sales Navigator
 
 [LinkedIn Sales Navigator](https://www.linkedin.com/sales/login) is a prospecting tool & extended reach into LinkedIn Connections.
 
@@ -225,7 +225,7 @@ Managers then need to add a tag of “manager approved” on the sequence in Out
 * GitLab Edcast: [LinkedIn Navigator Training](https://gitlab.edcast.com/journey/week-note)
 * GitLab Video: [Peer Tips](https://drive.google.com/file/d/1xzz8cEiSFqZ7bOw-dpqoNlHjSDwrIFE4/view)
 * GitLab Video: [LinkedIn Personalization](https://www.youtube.com/watch?v=7vEVB-WgDPA)
-* GitLab Video: [Loading Accounts from Salesforce into Linkedin](https://www.youtube.com/watch?v=_D8walmmOAU) 
+* GitLab Video: [Loading Accounts from Salesforce into LinkedIn](https://www.youtube.com/watch?v=_D8walmmOAU) 
 
 ## Demandbase
 
