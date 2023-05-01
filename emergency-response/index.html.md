@@ -189,7 +189,7 @@ For sends over 100k sending from Marketo, there are several steps to follow to d
 1. Set up priority send controller campaign to improve speed of send
 1. If send list is over 250,000, you must update the [smart campaign limits](/handbook/marketing/marketing-operations/marketo/#campaign-limits).
 1. Ensure email is marked operational, otherwise you may need to update [email communication limits](/handbook/marketing/marketing-operations/email-management/#send-frequency)
-1. After send, discuss with legal to delete unneccessary records out of Marketo.
+1. After send, discuss with legal to delete unnecessary records out of Marketo.
 
 ### Common Troubleshooting
 1. Email won't send
