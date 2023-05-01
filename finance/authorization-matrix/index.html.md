@@ -11,7 +11,7 @@ Any time GitLab is bound to terms and conditions, and/or, required to:
 - Pay an individual (or vendor); 
 - Provide services / software;
 - Click-through terms and conditions to gain access to a tool or resource; or 
-- Carry out any specific activites (e.g., keep information confidential).
+- Carry out any specific activities (e.g., keep information confidential).
 
 Team Members must follow the applicable process to ensure all terms and obligations are reviewed and approved by specific stakeholders. 
 

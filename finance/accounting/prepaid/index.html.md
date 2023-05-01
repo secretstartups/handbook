@@ -50,9 +50,9 @@ The **Prepaids Approval Group** verifies:
 
 1. **Commodity** - correct Commodity and GL account (NetSuite GL account which is tied to the deferral account) is selected. Users no longer need to select the Commodity previously denoted “Prepaid”.
 1. **Is this a prepaid?** - to determine this is actually a Prepaid.
-1. **Amortization Schedule** - this will determine if the invoice generates a schedule in Netsuite.
-1. **Service Start Date** - determines the start date for the schedule in Netsuite.
-1. **Service End Date** - determines the end date for the schedule in Netsuite.
+1. **Amortization Schedule** - this will determine if the invoice generates a schedule in NetSuite.
+1. **Service Start Date** - determines the start date for the schedule in NetSuite.
+1. **Service End Date** - determines the end date for the schedule in NetSuite.
 
 ![prepaid-image-1](/handbook/finance/accounting/prepaid/images/prepaid1a.png)
 
