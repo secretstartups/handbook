@@ -1583,7 +1583,7 @@ Pages like this are part of the [handbook](/handbook/). The GitLab handbook is t
 
 ### READMEs
 
-`README` - `README.md` files are what are shown by default when you browse a repository. Contains useful information to give context on what the project/reposiroty are for. These can also be used for [user profiles](https://docs.gitlab.com/ee/user/profile/#add-details-to-your-profile-with-a-readme) as personal READMEs.
+`README` - `README.md` files are what are shown by default when you browse a repository. Contains useful information to give context on what the project/repository are for. These can also be used for [user profiles](https://docs.gitlab.com/ee/user/profile/#add-details-to-your-profile-with-a-readme) as personal READMEs.
 
 ## Zoom
 

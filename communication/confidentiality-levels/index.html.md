@@ -22,7 +22,7 @@ If something isn't listed in the sections below we should make it available exte
 
 ### Internal
 
-Some things are **internal**, available internally but not externally. In instances where a topic should only be accessible to team members, but we would otherwise have a page in the public handbook, it can be added to GitLab's [internal handbook](https://internal-handbook.gitlab.io/). [Background on the internal handbook](/handbook/handbook-usage/#the-internal-handbook) can be found in the public handbook. It is okay to refer to the public handbook or the internal and public handbooks in agregate as "the handbook." The internal handbook should always be referred to as the "internal handbook." 
+Some things are **internal**, available internally but not externally. In instances where a topic should only be accessible to team members, but we would otherwise have a page in the public handbook, it can be added to GitLab's [internal handbook](https://internal-handbook.gitlab.io/). [Background on the internal handbook](/handbook/handbook-usage/#the-internal-handbook) can be found in the public handbook. It is okay to refer to the public handbook or the internal and public handbooks in aggregate as "the handbook." The internal handbook should always be referred to as the "internal handbook." 
 
 The following items are internal:
 
@@ -35,7 +35,7 @@ The following items are internal:
    - Team member retention (analysts may make business assumptions based on this)
    - The Sales pipeline (but the Marketing pipeline can be public)
    - Net and gross retention KPIs. Only the actual numbers can't be public. Everything else--the goal, their calculation, etc.--can be.
-1. All external communications about any financal information should be in line with the company's [SAFE Guidelines](/handbook/legal/safe-framework/) and [Social Media Policy](/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
+1. All external communications about any financial information should be in line with the company's [SAFE Guidelines](/handbook/legal/safe-framework/) and [Social Media Policy](/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/accounting/#procure-to-pay).
 1. Content that would compromise a GitLab team member, customer, or user's personal data as defined by [GDPR](https://gdpr.eu/article-4-definitions/), unless explicit consent has been provided by the data owner. Examples of compromising content include a name, an identification number, location data, an online identifier, or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 1. Legal discussions are not public due to the purpose of Attorney-Client Privilege.

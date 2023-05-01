@@ -80,7 +80,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_adelaide`](https://app.slack.com/client/T02592416/C03855YCQMT) | For the growing team presence in Adelaide, South Australia! |
 | [`#loc_africa`](https://app.slack.com/client/T02592416/C03S002M075) | 🇸🇹🇸🇱🇸🇨🇸🇳🇸🇩🇸🇸🇿🇦🇸🇴🇸🇿🇨🇬🇨🇩🇦🇴🇩🇿🇧🇯🇧🇼🇹🇩🇨🇫🇨🇲🇧🇮🇧🇫🇨🇮🇰🇲🇪🇷🇬🇶🇪🇬🇩🇯🇬🇭... |
 | [`#loc_alberta`](https://app.slack.com/client/T02592416/CN78PSCTW) | Locals to Alberta, Canada |
-| [`#loc_amsterdam`](https://app.slack.com/client/T02592416/CPV03CGTV) | amsterdam location specific channel |
+| [`#loc_amsterdam`](https://app.slack.com/client/T02592416/CPV03CGTV) | Amsterdam location-specific channel |
 | [`#loc_annapolis`](https://app.slack.com/client/T02592416/CPZG77JA2) |  |
 | [`#loc_arizona`](https://app.slack.com/client/T02592416/CTALWU0GK) | Discussion / Intro / Meetup for people in Arizona, USA |
 | [`#loc_atl`](https://app.slack.com/client/T02592416/CBNQ29E90) | House channel for greater Atlanta area |
@@ -144,7 +144,7 @@ If there's a channel not listed below, please add in alphabetical order with an 
 | [`#loc_nigeria`](https://app.slack.com/client/T02592416/CDB11DSRH) |  |
 | [`#loc_noco_aka_loconoco`](https://app.slack.com/client/T02592416/CJPLQ4LEM) | Connect GitLab team members who are in Boulder, Larimer and Weld Counties of Northern Colorado |
 | [`#loc_nyc`](https://app.slack.com/client/T02592416/C0XBJTC00) | Coordinate NYC-area coworking days and other events. Let us know if you're coming to town, and see our visitors doc! 🇺🇸 🗽 https://docs.google.com/document/d/1aTW4P0V44S9hBppStCOVl3bfLq6qW6hoJFW_Er6HOdA/   |
-| [`#loc_nz`](https://app.slack.com/client/T02592416/CF8MAMD39) | 🇳🇿 For those visiting, living in or interested in Aotearoa New Zealand. Also half of #loc_australia is in here too. https://docs.google.com/document/d/1VijZowFu8WpyV17MtRtrvz1GUqw9Y5Bcf-OkUOEU774/edit |
+| [`#loc_nz`](https://app.slack.com/client/T02592416/CF8MAMD39) | 🇳🇿 For those visiting, living in or interested in Aotearoa New Zealand. Also half of `#loc_australia` is in here too. https://docs.google.com/document/d/1VijZowFu8WpyV17MtRtrvz1GUqw9Y5Bcf-OkUOEU774/edit |
 | [`#loc_ottawa`](https://app.slack.com/client/T02592416/C01KH7P3KBR) |  |
 | [`#loc_pdx`](https://app.slack.com/client/T02592416/CS7N7UFGR) | For GitLab team members in/around Portland Oregon |
 | [`#loc_perth`](https://app.slack.com/client/T02592416/CQ6LTSP4L) | Join us (me) for enthralling (adequate) Perth, Australia conversation |

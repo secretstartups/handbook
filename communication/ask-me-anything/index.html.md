@@ -61,17 +61,17 @@ The intention of this is to make sure we're enabling asynchronous communication 
 - A team member of a particular underrepresented group will create an issue (Template link to follow)
 - The team member will tag a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), the [E-Group Members EBA](https://about.gitlab.com/handbook/eba/) and Stella Treas (Chief of Staff to the CEO)
 - The E-Group member will review the request, the E-Group member can suggest an alternative member including a direct report to host the AMA or may reject the AMA based on the information provided in the issue.
-- If accepted the E-Group EBA will work with the E-Group member or direct report to find a time and date that is sutiable.
+- If accepted the E-Group EBA will work with the E-Group member or direct report to find a time and date that is suitable.
 - The team member will work the EBA to ensure an agenda and facilitator are in place. 
 
 #### Reverse AMA Facilitators
 It is near impossible to be an effective facilitator while also being a participant.  So if you have been identified as a facilitator but would rather participate in the conversation, we encourage you to ask one of your designated facilitator team members (Facilitator Group link to follow) to take your place.
 
 Before facilitating a session, all facilitators will complete the following steps: 
-1. Complete the [Linkedin Learning Facilitator Training](https://www.linkedin.com/learning/meeting-facilitation/)
+1. Complete the [LinkedIn Learning Facilitator Training](https://www.linkedin.com/learning/meeting-facilitation/)
 1. Complete the [LinkedIn Learning Empathy Training](https://www.linkedin.com/learning/communicating-with-empathy/empathy-as-a-path-to-productive-conversations?u=2255073)
 1. Watch the purpose of Reverse AMA's Video (too come)
-1. Shadow a current faciliator when they are running and AMA
+1. Shadow a current facilitator when they are running and AMA
 1. Be shadowed by a current facilitator in your first AMA 
 
 **Current Facilitators:** 
@@ -121,7 +121,7 @@ AMA meetings always start with an [agenda](https://docs.google.com/document/d/1-
 
 Whenever possible AMAs should be private or publicly [live streamed](/handbook/marketing/marketing-operations/youtube/#public-or-private-streaming). Please strive to remain [public by default](/handbook/values/#public-by-default) when hosting an AMA unless it is centered around a topic that is [not-public](/handbook/values/#not-public)
 
-The DIB Team and the EBAs will ensure that each Reverse AMA has the correct team members invited, the DIB team will ask People Connect to run this [Report](https://docs.google.com/spreadsheets/d/1Ai8Trh0FOr5O7CJfhdTDsPM517NCEwzkiJcytLETOHk/edit#gid=1182431189) monthly (this is private please request if you need access with your reasonsing) to ensure we keep attendees up to date. 
+The DIB Team and the EBAs will ensure that each Reverse AMA has the correct team members invited, the DIB team will ask People Connect to run this [Report](https://docs.google.com/spreadsheets/d/1Ai8Trh0FOr5O7CJfhdTDsPM517NCEwzkiJcytLETOHk/edit#gid=1182431189) monthly (this is private please request if you need access with your reasoning) to ensure we keep attendees up to date. 
 
 ### Process Once Reverse AMA is Setup
 
@@ -129,7 +129,7 @@ The DIB Team and the EBAs will ensure that each Reverse AMA has the correct team
     - Note taker - this role should be assumed by the Business Partner for that group.  If you are the note taker, please reach out to the facilitator to ensure there isn't a concern of confidentiality in the note taker as a presence on the call.
     - Facilitator - reach out to the facilitator of choice based on regions from the list above
 1. Create follow up actions google doc leveraging the following [template here](https://docs.google.com/document/d/1oTiRS99IokoQ4CQYWalVXzW8BAL3wq8gr1RZFIQAbpI/edit?usp=sharing).
-1. Schedule the follow up call for actions with the leader, DIB team member Candace or Liam and the Business Parther for the group.
+1. Schedule the follow up call for actions with the leader, DIB team member Candace or Liam and the Business Partner for the group.
 1. Create a confidential slack channel if needed for that Reverse AMA to communicate transparently action items and or ongoing feedback, etc.
 
 
