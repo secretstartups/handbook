@@ -218,7 +218,7 @@ Functional changes are currently being defined as changes impacting the access l
     * Role change from `User` to `Admin` or `Read-Only Admin`
 
 #### Non-Functional Changes
-Non-Functional changes are currently being defined as changes that do not have impact to a role's access. A few exmaples of Non-Functional changes are:
+Non-Functional changes are currently being defined as changes that do not have impact to a role's access. A few examples of Non-Functional changes are:
 * Updating a slack channel name
 * Process Ownership change (System ownership changing from one team to another team)
 * Updating tagged Provisioners/Deprovisioners/Business Owners

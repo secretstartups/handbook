@@ -52,11 +52,11 @@ At GitLab, we plan to use centralized laptop management for company-issued lapto
 
 ### Expectation and success criteria
 
-Our expectation are that all Team Members will be using a GitLab sponsered device and that we will find that at least 10% of our Macbook devices lack harddrive encryption and 5% of the operating systems are not at the current patch level. 
+Our expectation are that all Team Members will be using a GitLab sponsored device and that we will find that at least 10% of our MacBook devices lack harddrive encryption and 5% of the operating systems are not at the current patch level. 
 
 If the number of encrypted drives is below 2% and the number of out of date OS is below 1% we will re-consider making end-point management required for all Mac OS users.
 
-After assessing our endpoints it was determined that the number of encrypted devices and the number of out of date OS was falling outside of our accetable percentages. As a result, Gitlab has decided to move forward with implementing and enforcing end-point management as a requirmenet for all Mac OS users.  
+After assessing our endpoints it was determined that the number of encrypted devices and the number of out of date OS was falling outside of our acceptable percentages. As a result, Gitlab has decided to move forward with implementing and enforcing end-point management as a requirement for all Mac OS users.  
 
 
 ### Why is this necessary?

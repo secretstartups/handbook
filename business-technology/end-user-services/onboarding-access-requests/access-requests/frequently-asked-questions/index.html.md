@@ -84,6 +84,6 @@ will close all access request issues that are 30 days old.
 
 Please note: This is the first iteration of the AR auto closer. Our team will be working to refine and improve this.
 
-### I need to remove an exisiting access
+### I need to remove an existing access
 Raise an Access Request specifying which accesses and person needs to be removed
 

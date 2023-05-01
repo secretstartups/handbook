@@ -100,7 +100,7 @@ To install Jamf on your Mac hardware device, you will need to launch the **Chrom
 
 <br/>
 
-- Click on the newly downloaded cert in the bottom of your Chrome window or double click it from your downloads profile and you will see a notification pop up in the top right of your screen indicating that a new profile needs to be installed. Open up System Prefrences -> Security and Privacy -> Profiles and you will see the new profile to install. 
+- Click on the newly downloaded cert in the bottom of your Chrome window or double click it from your downloads profile and you will see a notification pop up in the top right of your screen indicating that a new profile needs to be installed. Open up **System Preferences > Security and Privacy > Profiles** and you will see the new profile to install. 
 
 <img src="profile-notification.png" alt="Profile Notification" width="300">
 
@@ -117,7 +117,7 @@ To install Jamf on your Mac hardware device, you will need to launch the **Chrom
 <br/>
 <br/>
 
-- Double click on the new profile and then select install. The next prompt will ask for your password to your mac. enter your password and then the newly intalled profile will enroll your machine to Jamf
+- Double click on the new profile and then select install. The next prompt will ask for your password to your mac. enter your password and then the newly installed profile will enroll your machine to Jamf
 
 
 <br/>
@@ -161,7 +161,7 @@ There is a notification pop up called "Clever DevOps Co." that may say Nudge is 
 
 # Frequently Asked Questions
 
-### How do I verify my connection to Jamf or re-initate a connection to the Jamf console?
+### How do I verify my connection to Jamf or re-initiate a connection to the Jamf console?
 
 1. Open Terminal on your MacBook. One way to do so is to access the `Spotlight Search` via a CMD + Space combination, and search for the word `Terminal`.
 

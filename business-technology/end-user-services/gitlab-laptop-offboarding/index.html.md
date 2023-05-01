@@ -28,7 +28,7 @@ If you have a Linux laptop, ensure that it is [enrolled](https://about.gitlab.co
 
 Please schedule a time with an IT Analyst to wipe your laptop, you can find our Laptop Wipe Schedules in this [handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts).
  
-**Please confirm you have no personal data or files on your laptop before your last day. Once ITOps wipes the laptop any of this information will be permanently deleted. In the case of involuntary or mutual separation, because IT will not be able to determine which files are personal and because we have a responsiblity to keep GitLab secure, no access to your laptop will be provided.** 
+**Please confirm you have no personal data or files on your laptop before your last day. Once ITOps wipes the laptop any of this information will be permanently deleted. In the case of involuntary or mutual separation, because IT will not be able to determine which files are personal and because we have a responsibility to keep GitLab secure, no access to your laptop will be provided.** 
  
 ### On your last day.
 

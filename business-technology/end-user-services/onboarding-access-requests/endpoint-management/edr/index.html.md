@@ -14,14 +14,14 @@ description: "Endpoint Detection and Response: EDR, endpoint security, anti-viru
 # Endpoint Detection & Response Technology
 
 ## Overview
-With an increased number of high profile breaches in the media today it is important we carefully consider the risk and external threats GitLab faces.  Due to our service and the companies that use us, it is credible that we are or will soon become a high profile target for adversaries looking to exploit GitLab or a GitLab customer. Endpoint detection and response (EDR) technology helps further strengthen endpoint security protecting not only GitLab, but each of our Team Members as well. All macOS, Windows and Linux devices used by GitLab Team Members for the purposes of fulfilling the responsibilities of their role as a GitLab Team Member are required have the SentinelOne EDR agent installed and functioning. The use of a Windows endpoint requires a specfic business reason and an approved exception as the [use of a Windows endpoint is prohibited](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations).
+With an increased number of high profile breaches in the media today it is important we carefully consider the risk and external threats GitLab faces.  Due to our service and the companies that use us, it is credible that we are or will soon become a high profile target for adversaries looking to exploit GitLab or a GitLab customer. Endpoint detection and response (EDR) technology helps further strengthen endpoint security protecting not only GitLab, but each of our Team Members as well. All macOS, Windows and Linux devices used by GitLab Team Members for the purposes of fulfilling the responsibilities of their role as a GitLab Team Member are required have the SentinelOne EDR agent installed and functioning. The use of a Windows endpoint requires a specific business reason and an approved exception as the [use of a Windows endpoint is prohibited](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations).
 
 ### What is Endpoint Detection and Response (EDR)?
 
 EDR is a collection of endpoint security technologies that together record and store endpoint-system-level behaviors, use various data analytics techniques to detect suspicious system behavior, provide contextual information, block malicious activity, and provide remediation paths to restore affected systems.
 
 ### What is SentinelOne?
-[SentinelOne](https://www.sentinelone.com/) is the EDR technology chosen by GitLab to help protect endpoint devices. All data associated with the effort conducted to evaluate EDR vendors while ultimately resulted in the chosing of SentinelOne can be found in the efforts [project repo](https://gitlab.com/gitlab-com/gl-security/security-research/edr-proof-of-concept/-/tree/master).
+[SentinelOne](https://www.sentinelone.com/) is the EDR technology chosen by GitLab to help protect endpoint devices. All data associated with the effort conducted to evaluate EDR vendors while ultimately resulted in the choosing of SentinelOne can be found in the efforts [project repo](https://gitlab.com/gitlab-com/gl-security/security-research/edr-proof-of-concept/-/tree/master).
 
 ### Why is this necessary?
 
@@ -30,7 +30,7 @@ GitLab is a growing global company and as such we are required to meet complianc
 Equally important is the security and privacy of our team members and their laptops. As GitLab continues to grow, we are increasing the likelihood that we will be targeted by malicious attackers. We want to ensure we have a way to protect team members and their laptops whether they are at home, on the road, or at the coffee shop down the street.
 
 ### How to get help with SentinelOne
-If you need help with the SentinelOne agent on your endpoint please reach out to in the #sentinelone Slack channel. If you have security concerns please reach out to the Security team in the #security Slack channel.
+If you need help with the SentinelOne agent on your endpoint please reach out to in the `#sentinelone` Slack channel. If you have security concerns please reach out to the Security team in the #security Slack channel.
 
 ### Exception request process
 If SentinelOne is causing issues with your ability to fulfill the responsibilities of your role, you may request an exception to be granted using the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process). Exceptions will be granted based on the goal of least needs, attempting to maximize effectiveness, efficiency, and security risk mitigation of SentinelOne while minimizing the negative impact on the team member. For this reason, rarely will an exception be granted to completely disable SentinelOne. Rather, an exception will be granted for specific directory paths, specific applications, or specific collections of data that SentinelOne may be negatively impacting through quarantine or system performance degradation.
@@ -43,7 +43,7 @@ Antivirus can be seen as one part of the EDR complete security technology soluti
 
 The first line of defense is stopping (or if configured, alerting) common threats on the laptop. As for additional or more "layered" lines of defense, certain types of activity (mainly involving processes on the laptop) are recorded and uploaded to a private instance for further processing and investigation. Much more sophisticated processing can take place for more thorough threat detection. As a result, the agent on the laptop is typically 40-60mb in size, as opposed to the older traditional antivirus solutions which can be well over a gigabyte. This results in less resources being used on the laptop including low CPU and low memory usage.
 
-### Is this in addtion to Jamf or a replacement for Jamf?
+### Is this in addition to Jamf or a replacement for Jamf?
 
 The EDR technology is in addition to Jamf. While Jamf does offer security features and protections, an EDR solution combined with Jamf will offer great ability to detect and stop significant threats and advanced digital attacks on GitLab team member laptops.
 

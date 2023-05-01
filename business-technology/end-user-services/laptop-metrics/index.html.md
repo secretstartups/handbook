@@ -11,11 +11,11 @@ title:  Gitlab Laptop Delivery Metrics
 
 ### Purpose
 
-We're desiging this page to publicly and transparently show our metrics around laptop shipping, delivery, and procurement. This page is in its early stage and we will iterate and add more content as we continue to advance our metrics. 
+We're designing this page to publicly and transparently show our metrics around laptop shipping, delivery, and procurement. This page is in its early stage and we will iterate and add more content as we continue to advance our metrics. 
 
 ### Table Breakdown
 
-The **Regions** section is detailing what region and what metric we are tracking, within we are reporting total laptops delivered per region and percentage of on time delivery for the related month. The acronym ROW stands for **Rest of the World**, these are region that we hire in but do not have a registered vendor or shipping entity. Please note these numbers do not reflect new hires or team members that opt to self procure their own laptop. 
+The **Regions** section is detailing what region and what metric we are tracking, within we are reporting total laptops delivered per region and percentage of on time delivery for the related month. The acronym ROW stands for **Rest of the World**, these are region that we hire in but do not have a registered vendor or shipping entity. Please note these numbers do not reflect new hires or team members that opt to self-procure their own laptop. 
 
 
  
