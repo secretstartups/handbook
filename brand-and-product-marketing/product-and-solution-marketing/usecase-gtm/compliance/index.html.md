@@ -33,7 +33,7 @@ GitLab's platform approach seamlessly embeds security and compliance within the 
 
 While compliance and auditability has always been important, these requirements have greater attention following high-profile attacks on software supply chains and the related US President's [Executive Order to improve cyber security](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/).  The Executive Order (EO) directs NIST to publish preliminary guidelines for enhancing software supply chain security by November 8, 2021. It is anticipated that NIST, the National Institute of Standards and Technology, will provide even more guidance. [This article](https://www.insideprivacy.com/cybersecurity-2/october-2021-developments-under-president-bidens-cybersecurity-executive-order/) explains clearly why it's important to anyone developing software. It says, while the EO is "directly applicable to the U.S. Government, the standards being established for U.S. Government agencies could be adopted as industry standards for all organizations that develop or acquire software similar to various industries adopting the NIST Cybersecurity Framework as a security controls baseline."
 
-Application security testing is still a foundational part of compliance, but now visibility and control across the entire software factory is even more paramount than before, a capability that is made challenging by complext DevOps tool chains. 
+Application security testing is still a foundational part of compliance, but now visibility and control across the entire software factory is even more paramount than before, a capability that is made challenging by complex DevOps tool chains. 
 
 ### Desired business outcomes
 
@@ -211,7 +211,7 @@ Many great opportunities will not entirely fit this ideal profile. An ideal cust
 | Attribute | Enterprise | Mid-market | SMB |
 | ------ | ------ | ------ | ------ |
 | DevOps maturity | adopted DevOps for at least several projects or departments | adopted DevOps for at least several projects or departments | adopting DevOps for at least half of their projects |
-| Tool complexity | complext tool chains hinder end-to-end visibility | complext tool chains hinder end-to-end visibility | wanting to avoid a complext tool chain | 
+| Tool complexity | complex tool chains hinder end-to-end visibility | complex tool chains hinder end-to-end visibility | wanting to avoid a complex tool chain | 
 | CI pipeline control | Integrated security into DevOps but lacks pipeline consistency across projects | Integrated security into DevOps but lacks pipeline consistency across projects | Integrated security into DevOps but lacks pipeline consistency across projects |
 | Cloud native | using Docker and Kubernetes, APIs, but not confident in th security of these | using Docker and Kubernetes, APIs, but not confident in th security of these | using Docker and Kubernetes, APIs, but not confident in th security of these |
 | Public sector or vendor who sells to public sector | Concerned about Executive Order on Cybersecurity and potential new regulations | Concerned about Executive Order on Cybersecurity and potential new regulations | Concerned about Executive Order on Cybersecurity and potential new regulations |

@@ -17,7 +17,7 @@ Unlike Self-managed licenses which grant equal access to features across an inst
 
 ### Common Misconceptions
 1. **Misconception**: If I'm in an Ultimate group, my GitLab SaaS profile should say "Ultimate"
-   - **Reality**: GitLab SaaS subscriptions are scoped to a namespace, and individual users could participate in many groups with different subscription types. For example, they might have personal projects on a Free subscription type, particpate in an open-source project that has Ultimate features (because it's public) while their company has a Premium subscription.
+   - **Reality**: GitLab SaaS subscriptions are scoped to a namespace, and individual users could participate in many groups with different subscription types. For example, they might have personal projects on a Free subscription type, participate in an open-source project that has Ultimate features (because it's public) while their company has a Premium subscription.
 1. **Misconception**: Subscriptions grant "the midas touch" and any group or project a subscription-bearing user creates will get the features of their subscription level. i.e. an Ultimate user will be able to create Ultimate groups in which all members will have Ultimate features.
    - **Reality**: Subscriptions can be applied to *group namespaces only* and all items created within said namespace will receive the features of the subscription level.
    - **Reality**: All users invited to the group namespace will be able to enjoy the features of that subscription _only while working in the subgroups and projects **within the group**_. 

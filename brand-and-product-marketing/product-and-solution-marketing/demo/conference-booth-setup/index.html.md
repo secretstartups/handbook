@@ -20,19 +20,19 @@ Why are there two videos? Well . . .
 ### If there is only one main screen at the booth
 
 1. Download the ["GitLab Animation"](https://drive.google.com/drive/u/0/folders/1Hx-NQeyGRcBeKDdvdhzCsQRNXejDQkGY) video (whatever the latest version is).
-1. Use Quicktime player to play full screen and in a loop.
+1. Use QuickTime player to play full screen and in a loop.
 1. Make sure the sound is turned off.
 
 ### If there are two main screens at the booth (hey, it happens)
 
 #### Screen 1
 1. Download the ["GitLab Animation"](https://drive.google.com/drive/u/0/folders/1Hx-NQeyGRcBeKDdvdhzCsQRNXejDQkGY) video (whatever the latest version is).
-1. Use Quicktime player to play full screen and in a loop.
+1. Use QuickTime player to play full screen and in a loop.
 1. Make sure the sound is turned off.
 
 #### Screen 2
 1. Download the ["GitLab Overview for Booths"](https://drive.google.com/drive/u/0/folders/1Hx-NQeyGRcBeKDdvdhzCsQRNXejDQkGY) video (whatever the latest version is).
-1. Use Quicktime player to play full screen and in a loop.
+1. Use QuickTime player to play full screen and in a loop.
 1. Make sure the sound is turned off.
 
 Although, this video is silent and shows a combination of slides and product video clips in an end to end use case format.

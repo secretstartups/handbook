@@ -300,7 +300,7 @@ scaling efficiencies and new ways of working across multiple projects and enviro
    * GitLab supports your multi-cloud strategy by allowing you to deploy anywhere with no cloud vendor lock-in
    * Implement guardrails to control access to cloud envirionments and incrementally deploy your appliations to the cloud
    * Increase deployment velocity with auomation and CI/CD
-   * A single platform improves communciations with Dev, Sec, and other departments
+   * A single platform improves communications with Dev, Sec, and other departments
 
 
 * **Potential Titles:**

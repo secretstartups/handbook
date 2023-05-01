@@ -55,7 +55,7 @@ The advocacy team has traditionally driven what we know as the “customer advis
 
 **Marquee Videos**
 
-We partner with the brand and design team to deliver one marquee customer story video per quarter. You can find our videos on our [Customer Advocacy spot on Highspot](https://gitlab.highspot.com/spots/636e91aed5e577c7525c583a) or in our [customer stories playlist on Youtube](https://www.youtube.com/playlist?list=PLFGfElNsQthZG5hdIxVaeLIwGSG6Vw4kb). 
+We partner with the brand and design team to deliver one marquee customer story video per quarter. You can find our videos on our [Customer Advocacy spot on Highspot](https://gitlab.highspot.com/spots/636e91aed5e577c7525c583a) or in our [customer stories playlist on YouTube](https://www.youtube.com/playlist?list=PLFGfElNsQthZG5hdIxVaeLIwGSG6Vw4kb). 
 
 **Press**
 
