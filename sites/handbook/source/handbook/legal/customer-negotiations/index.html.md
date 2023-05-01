@@ -76,12 +76,12 @@ For any other channel partner legal request, please follow the [standard legal r
 
 1. **Sales Reps cannot sign any Agreements.** Only certain individuals may execute on behalf of GitLab see Authorization Matrix [here](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix). 
 2. All Agreements require a GitLab Legal stamp in order to be executed. This stamp is placed by a Contract Manager when an executable version is reached. 
-3. Once the Agreement has been stamped by GitLab legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the Agreement for signature within SFDC. **Note:** All Sales Team Members have Docusign access, please work with Sales Ops for any questions on how to use. 
+3. Once the Agreement has been stamped by GitLab legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the Agreement for signature within SFDC. **Note:** All Sales Team Members have DocuSign access, please work with Sales Ops for any questions on how to use. 
 
 **Additional Resources:**
 - Visit [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) for helpful information.
 
-#### **Need an NDA signed?** Follow the process for [Team Members with Docusign access](https://about.gitlab.com/handbook/legal/NDA/). 
+#### **Need an NDA signed?** Follow the process for [Team Members with DocuSign access](https://about.gitlab.com/handbook/legal/NDA/). 
 
 ### Letters of Authorization
 

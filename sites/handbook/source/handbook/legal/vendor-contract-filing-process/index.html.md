@@ -101,7 +101,7 @@ To set notifications for start and end dates, select the `Enable Notifications` 
 
 ###### End Date
 
-Order forms have auto-notifications as part of the template. These will send a notice to Procurement 120 before renewal is due. However, there is addtional information that needs to be added with the tags.
+Order forms have auto-notifications as part of the template. These will send a notice to Procurement 120 before renewal is due. However, there is additional information that needs to be added with the tags.
 
 1. Add the Business Owner's email address to the notification list.
 2. Fill in the vendor's name where noted in the notification template.

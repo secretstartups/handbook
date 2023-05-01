@@ -11,15 +11,15 @@ description: "How to complete an NDA Request"
 
 - Please visit the [Signatory Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) to identify individuals that may sign. If you have any questions, contact `#legal` in Slack. 
 
-- For Team Members who will regularly require agreements to be signed, please open an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) for Docusign. Manager approval will be required.
+- For Team Members who will regularly require agreements to be signed, please open an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) for DocuSign. Manager approval will be required.
 
 
-## Team Members with Docusign Access
-- All Sales Team Members have Docusign access. 
-- Team Members with Docusign access can use the pre-signed GitLab NDA Template to send an NDA to a recipient for signature. A [video](https://youtu.be/DaOggzBcb0U) highlighting the process has been created, and you can also find step-by-step directions below.
+## Team Members with DocuSign Access
+- All Sales Team Members have DocuSign access. 
+- Team Members with DocuSign access can use the pre-signed GitLab NDA Template to send an NDA to a recipient for signature. A [video](https://youtu.be/DaOggzBcb0U) highlighting the process has been created, and you can also find step-by-step directions below.
 
-### How to Send NDA in Docusign
-- Log in to Docusign and select “Use a Template” from the dropdown menu under “Start”;
+### How to Send NDA in DocuSign
+- Log in to DocuSign and select “Use a Template” from the dropdown menu under “Start”;
 - On the left, select “Shared with Me” and locate the “Non-Disclosure Agreement Pre-Signed Template”; 
 - Click the template and “Add Selected”;
 - Under **Recipient**, enter the signer’s name and email address;
@@ -32,10 +32,10 @@ description: "How to complete an NDA Request"
 - **Procurement Team Member:** Upload the fully executed NDA to the applicable folder with ContractWorks. 
 
 
-## Team Members without Docusign Access
+## Team Members without DocuSign Access
 - Use this [form](https://docs.google.com/forms/d/e/1FAIpQLSe5mzsAaj8lAeMPUorceNIE-0EkHFn-Bs2cdzWU3lca2ICDAw/viewform?usp=sf_link) to create an NDA request;
 - A member of the Legal Team will send an NDA for signature within one (1) business day;
-- You will be notified by email [via Docusign] when the recipient has executed; and
+- You will be notified by email [via DocuSign] when the recipient has executed; and
 - The fully executed NDA will be uploaded to ContractWorks [by the GitLab Legal Team] accordingly. 
 
 
