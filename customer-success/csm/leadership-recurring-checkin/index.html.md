@@ -15,7 +15,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ## What is a Leadership Recurring Check-In Call?
 
-The Leadership Recurring Check-In call is a strategic discussion with customer leadership to ensure we are progressing toward our success plan objectives together. While an Executive Business Review (EBR) aims to establish businesss goals and report on progress annually, the Leadership Recurring Check-In allows for a more focused conversation with leadership to allow for progress checks, and review the prioritization of objectives. It is less granular than a cadence call, but more focused than an EBR, and still has the aims of being strategic and requiring company leadership, even if they are not at the executive level.
+The Leadership Recurring Check-In call is a strategic discussion with customer leadership to ensure we are progressing toward our success plan objectives together. While an Executive Business Review (EBR) aims to establish business goals and report on progress annually, the Leadership Recurring Check-In allows for a more focused conversation with leadership to allow for progress checks, and review the prioritization of objectives. It is less granular than a cadence call, but more focused than an EBR, and still has the aims of being strategic and requiring company leadership, even if they are not at the executive level.
 
 CSMs should hold optional Leadership Recurring Check-Ins on a quarterly cadence with leadership within development and DevOps teams. These discussions should be anywhere from 30-60 minutes and allow time for the CSM to provide success plan updates and level-set on the customer's goals.
 

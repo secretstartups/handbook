@@ -11,8 +11,8 @@ I'm Sander Brienen, [customer success manager](https://handbook.gitlab.com/job-f
 I live in a small village close to the German border in the Netherlands, with my wife, children and [our dog](https://about.gitlab.com/company/team-pets/#12-bounty). We moved there because we liked to live a bit more rural. I now enjoy my daily rounds with the dog through the woods.
 
 ### Background
-I started my career as a Java developer. After having worked for 10 years in several lead development roles, I decided to make the switch to development tool consultant. I've always been a big fan of agile and this careerswitch gave me the opportunity to make use of that enthusiasm in a consultancy role. In those ten years I studied many agile and lean approaches like eXtreme Programming, LeSS, SAFe, the Toyota Production System, lean software development and later DevOps. In 2010 I founded the Agile Software Architecture Symposium in Arnhem to bring agile and software architecture closer together.
-In the following decade I adviced organisations large and small on the transition to Agile or DevOps ways of working based on the Atlassian and GitLab software. 
+I started my career as a Java developer. After having worked for 10 years in several lead development roles, I decided to make the switch to development tool consultant. I've always been a big fan of agile and this career switch gave me the opportunity to make use of that enthusiasm in a consultancy role. In those ten years I studied many agile and lean approaches like eXtreme Programming, LeSS, SAFe, the Toyota Production System, lean software development and later DevOps. In 2010 I founded the Agile Software Architecture Symposium in Arnhem to bring agile and software architecture closer together.
+In the following decade I advised organisations large and small on the transition to Agile or DevOps ways of working based on the Atlassian and GitLab software. 
 Since January 2022, I made the switch to GitLab to continue making customers successful with GitLab and DevOps.
 
 ### Interests
@@ -33,4 +33,4 @@ I typically work 8:30am-5:30pm in the [Central European time zone](https://www.t
 
 ### Meetings
 
-Whenver possible [I prefer to communicate async](/company/culture/all-remote/asynchronous/), but I'm happy to have a meeting if async is not effective or appropriate for a situation. If you'd like to invite me to a meeting, please give me a heads up and let me know what we'll be discussing. I work best when we have a meeting agenda shared ahead of time.
+Whenever possible [I prefer to communicate async](/company/culture/all-remote/asynchronous/), but I'm happy to have a meeting if async is not effective or appropriate for a situation. If you'd like to invite me to a meeting, please give me a heads up and let me know what we'll be discussing. I work best when we have a meeting agenda shared ahead of time.

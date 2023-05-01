@@ -121,7 +121,7 @@ Time to Engage is the number of days between the `Onboarding CTA Start Date` and
 
 **Note:** If the date of the first Timeline call or meeting is the same day as the Onboarding CTA Start Date, `Time to Engage` = 0. If the date of the first Timeline call or meeting is BEFORE the Onboarding CTA Start Date, that account will appear as a "0" for reporting.
 
-**Why is this metric imporatant?**
+**Why is this metric important?**
 Helps determine the time it takes to first engagement with the customer. Engagement is defined as the first CSM meeting with the customer. 
 
 
@@ -136,7 +136,7 @@ Time to First Value is calculated by taking the `Original Contract Date` and sub
 
 If Cloud License data is in Gainsight, the `First Value Date` will be automatically populated by the system when `Known License Utilization` meets or exceeds 10%. If Cloud License data is not available, it is the responsibility of the CSM to manually update the date field based on their best estimate.
 
-**Why is this metric imporatant?**
+**Why is this metric important?**
 Allows visibility into customer usage of GitLab. Customer is considered to have met first value when at least 10% of their Production licenses are activated. 
 
 **A few pointers to determine best estimate for self-managed customers**
@@ -156,7 +156,7 @@ Note: This is not a holistic list
 **How is it calculated:**
 Time to Onboard is the difference between `Onboarding CTA Start Date` and the date the Onboarding CTA is closed. For example, the `Onboarding CTA Start Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.
 
-**Why is this metric imporatant?**
+**Why is this metric important?**
 Helps determine the length of time it took to complete all of the onboarding tasks associated with a customer. 
 
 ### Instance/Namespace Time to Value Metrics

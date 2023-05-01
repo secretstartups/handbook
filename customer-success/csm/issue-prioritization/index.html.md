@@ -26,7 +26,7 @@ You can filter dashboard by Customer Success Manager. This will give you all cus
 
 Utilize the `Recently Opened` and `Recently Closed` dashboard views during your customer cadence calls. 
 
-In the `Recently Opened` view, CSMs can confirm a customer requested issue has been prioritized by refrencing the `Deliverable` column. 
+In the `Recently Opened` view, CSMs can confirm a customer requested issue has been prioritized by referencing the `Deliverable` column. 
 
 In the `Recently Closed` view, CSMs can share the recently released feature requests the customer has interest in. This can help drive frequency of GitLab upgrades. 
 
