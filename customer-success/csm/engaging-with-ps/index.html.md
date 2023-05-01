@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Engaging with Professional Services"
-description: "Guidelines for CSMs on how best to enagage with professional services."
+description: "Guidelines for CSMs on how best to engage with professional services."
 ---
 
 ## On this page

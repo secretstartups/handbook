@@ -24,13 +24,13 @@ The [FY22 Pulse Engagement Survey](/handbook/people-group/engagement/#fy22-pulse
 1. With our focus on the CSM segmentations rolling out, and our Big Rock initiatives - is acting upon these initiatives and keeping the team updated what we want to see in regards to action being taken this year?
 1. If no, what action would you like to see us take this year as a CSM team, as CSM and CS leadership?
 
-Of the 11 responses recieved (25% response rate) all 11 said that the above focus is the right one to report action on this year. 
+Of the 11 responses received (25% response rate) all 11 said that the above focus is the right one to report action on this year. 
 
 ## How We Will Take Action & Report Results
 
 1. [This Epic board](https://gitlab.com/groups/gitlab-com/customer-success/-/epic_boards/14748?label_name[]=TAM) shows the relevant epics for the following points
 1. Each Big Rock initiative is housed in an epic, with a CSM Manager DRI.  CSMs are encouraged to contribute, and progress made is reported back to the team in the bi-weekly team meeting
-1. The CSM segmentation is also housed in an epic, and roll-out is reported upong in the team meeting also. 
+1. The CSM segmentation is also housed in an epic, and roll-out is reported upon in the team meeting also. 
 
 
 

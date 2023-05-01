@@ -85,7 +85,7 @@ This meeting can optionally include other GitLab team members that the account t
 
 ### Initial discussion with the customer
 
-During the next cadence call, the CSM discusses the EBR with the customer contacts. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know [key stakeholders should attend](#intended-participants) and ask them to help with scheduling for those participants. After the cadence call, follow up with a written summary of the EBR and reiterate your ask for help in scheduling. Finding availabilty on all calendars can often require weeks or months of lead time, which is why this conversation should happen [no less than 3 months ahead of the target timeframe for the EBR](#lifecycle-and-timetable).
+During the next cadence call, the CSM discusses the EBR with the customer contacts. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know [key stakeholders should attend](#intended-participants) and ask them to help with scheduling for those participants. After the cadence call, follow up with a written summary of the EBR and reiterate your ask for help in scheduling. Finding availability on all calendars can often require weeks or months of lead time, which is why this conversation should happen [no less than 3 months ahead of the target timeframe for the EBR](#lifecycle-and-timetable).
 
 [Resources](#resources--materials) to help you with this discussion are available.
 
@@ -132,7 +132,7 @@ An in-person EBR is ideal to maximize the interaction and discussion between par
 
 Sessions should be planned and scheduled in advance, with proactively prepared topics, and managed or coordinated by the CSM. **Open-ended or unstructured sessions (e.g. "office hours") should be avoided.**
 
-##### Travel & Accomodations 
+##### Travel & Accommodations 
 
 Travel should be booked & planned two weeks prior to the EBR to ensure all client stakeholders and attendees are still confirmed for the day of. Travel and expenses are to be booked through [Navan](/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/). Do a suggested review of the [travel](/handbook/travel/) & [expense](/handbook/finance/expenses/) handbook pages prior to planning. 
 

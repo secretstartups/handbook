@@ -41,7 +41,7 @@ title: "Engaging with Partners"
 
 1. The CSM holds an EBR with their customer around month 6 of each contract year, [the process for the EBR can be found here](/handbook/customer-success/csm/ebr/)
 
-1. Prior to setting up any EBR, the CSM is to sync with the parters to determine who will invite the customer, and collaborate on the content taking into account the GitLab template and the strategic initiatives of the partner.
+1. Prior to setting up any EBR, the CSM is to sync with the partners to determine who will invite the customer, and collaborate on the content taking into account the GitLab template and the strategic initiatives of the partner.
 
 
 
