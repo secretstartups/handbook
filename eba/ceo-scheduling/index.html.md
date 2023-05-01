@@ -44,7 +44,7 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 1. The [agenda](https://docs.google.com/document/d/187Q355Q4IvrJ-uayVamoQmh0aXZ6eixAOE90jZspAY4/edit?ts=574610db&pli=1) of items to be handled by Sid's EBA
 1. Use 'and' or '&' instead of '<>' in meeting invites because of the transfer to YouTube titles when streaming
 1. **All** holds on Sid's calendar need a reason so he can judge when the hold might no longer apply.
-1. Monthly reoccuring 1:1 video calls are 25 minutes while quarterly calls/dinners are scheduled for 90 minutes plus any necessary travel time.
+1. Monthly reoccurring 1:1 video calls are 25 minutes while quarterly calls/dinners are scheduled for 90 minutes plus any necessary travel time.
 1. Follow up on introductions from certain recipients (board, investors) immediately without asking for approval.
 * If Sid is meeting with a candidate, partner with talent acquisition to send the calendar invite through Greenhouse.
 1. If Sid has an external meeting and the location is less than 25 minutes away on foot, he would prefer to walk. Please ensure the calendar reflects that he is walking versus driving/uber/lyft.
@@ -65,7 +65,7 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 ### Prep Calls for Customer/Prospect Meetings
 1. Prep calls for Sales meeting should be scheduled for 10 minutes by default. An [Internal Customer Briefing Document](https://docs.google.com/document/d/122w2WK3wqC87Ul4VjkP290Lkj34xAUwv8hy9r1EEqio/edit?usp=sharing) and an [External Collaboration Doc](https://docs.google.com/document/d/18Ds04BicQCZ5J7gKU0K4AA-iq0l9YMRTLLsPBjlUJto/edit#heading=h.1cyxs0j01dk1) is preferably provided by the Sales team member at the time of requesting the meeting with the CEO, however is not required until the prep call if the meeting logistics require it be booked quickly with the customer. 
 1. The account team including a Solutions Architect or Product Manager should always be included on the invite for both the prep meeting and the external meeting with the customer or prospect. 
-1. A draft email for the CEO to send should be made available in advance of the call. Any updates to it should be made immediately after, so the EBA to the CEO can quickly stage to send (within one business day of the meeting occuring).
+1. A draft email for the CEO to send should be made available in advance of the call. Any updates to it should be made immediately after, so the EBA to the CEO can quickly stage to send (within one business day of the meeting occurring).
 
 ### Calendar blurb for External Meetings with the CEO
 
