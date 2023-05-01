@@ -93,14 +93,14 @@ Being the marketing experts for the region, GitLab Field Marketers are also resp
 ### ReachDesk
 Go to the [Reachdesk page](/handbook/marketing/marketing-operations/reachdesk) for instructions on campaign set up. (WIP)
 
-### Linkedin events Feature - FMM team access
+### LinkedIn events Feature - FMM team access
 
 #### About
 The Field marketing team can use the GitLab Brand LinkedIn channel to create events. The LinkedIn Events feature provides members with an easy way to create and join professional Events that interest them, such as meetups, online workshops, seminars, and more.
 
 #### Successful usage
-##### [Field Marketing Linkedin admin for events quick training video](https://www.youtube.com/watch?v=VxVxdjeRkps)
-- The Field Marekting LinkedIn events admin can create, edit and maintain the events listings on the GitLab LinkedIn page. Please message the field marketing team in the #fieldmarketing Slack channel to request the admin to create an event.
+##### [Field Marketing LinkedIn admin for events quick training video](https://www.youtube.com/watch?v=VxVxdjeRkps)
+- The Field Marketing LinkedIn events admin can create, edit and maintain the events listings on the GitLab LinkedIn page. Please message the field marketing team in the `#fieldmarketing` Slack channel to request the admin to create an event.
 
 ###### Field Marketing admins who will respond to your request:
 * Kira Aubrey - AMER
@@ -141,7 +141,7 @@ Remember, an account-centric micro-campaign consists of at least 2 different acc
 
 # Confidentiality in GitLab Issues and Epics
 
-When working in GitLab issues and epics, please remember that due to GitLab's value of [Transparency](/handbook/values/#transparency), many of our issues and epics are, by default, public. Best practice is to avoid including any PII or login details in issues and epics directly. If posting details of this nature is a necessity, please remember to always make your [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential` when doing so. Please also be diligent in your issues and epics regarding comments made by other team members as well. If you notice another team member has posted details that should not remain public, immediately make the [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential`. Other options to allow our issues to remain public, are including PII in a spreadsheet or document posted in the issue or epic that are only accesible by certain people. If logins need to be shared, please utilize the Marketing Vault in [1pass](/handbook/security/#security-process-and-procedures-for-team-members).
+When working in GitLab issues and epics, please remember that due to GitLab's value of [Transparency](/handbook/values/#transparency), many of our issues and epics are, by default, public. Best practice is to avoid including any PII or login details in issues and epics directly. If posting details of this nature is a necessity, please remember to always make your [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential` when doing so. Please also be diligent in your issues and epics regarding comments made by other team members as well. If you notice another team member has posted details that should not remain public, immediately make the [issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#make-an-issue-confidential) or [epic](https://docs.gitlab.com/ee/user/group/epics/manage_epics.html#make-an-epic-confidential) `Confidential`. Other options to allow our issues to remain public, are including PII in a spreadsheet or document posted in the issue or epic that are only accessible by certain people. If logins need to be shared, please utilize the Marketing Vault in [1pass](/handbook/security/#security-process-and-procedures-for-team-members).
 
 For more information regarding confidentiality levels and compliancy, please visit [this handbook page](/handbook/communication/confidentiality-levels/).
 
@@ -378,8 +378,8 @@ FMMs are to provide a 5 business day lead time for all plan to WIP requests in o
 
 - FMM pings the FMC in the main Field Marketing issue and requests the FMC move the issue to WIP (FMM keeps issue label `mktg-status::plan`)
 - FMC reviews the Allocadia sub-category and line item panel details for the tactic and makes any changes necessary
-- FMC requests the Allocadia line item ID for the tactic be added to Netsuite in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit#gid=518252060) (if not already completed during the contract process)
-- FMC adds the Allocadia line item ID and the campaign name to the event details section of the issue, where indicated, as well as checks off the box that the Allocadia ID has been created in Netsuite
+- FMC requests the Allocadia line item ID for the tactic be added to NetSuite in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit#gid=518252060) (if not already completed during the contract process)
+- FMC adds the Allocadia line item ID and the campaign name to the event details section of the issue, where indicated, as well as checks off the box that the Allocadia ID has been created in NetSuite
 - FMC creates the epic and sub-issues utilizing [this list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)
 - FMC creates the [Marketo program and SFDC campaign](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) utilizing the [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/program-tracking.md) sub-issue previously created
    - FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
