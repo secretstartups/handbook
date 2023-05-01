@@ -81,7 +81,7 @@ If you have any questions or experience any issues accessing your scorecard, ple
 
 Once the recruiter/CES has notified the hiring manager of the references sent by the candidate, the hiring manager will complete references to establish the candidate's strengths and opportunities, to set them up for success once joining GitLab. 
 
-These reference checks will be performed in accordance with the applicable law of the jurisdiction. Where applicable, a reference check can also be used in the final decision for making an offer. The reference check is not the sole factor for a decision to hire or not hire a candidate. However, in conjuction with the interview scores and the interview team feedback, all of these factors go into the hiring manager decision. 
+These reference checks will be performed in accordance with the applicable law of the jurisdiction. Where applicable, a reference check can also be used in the final decision for making an offer. The reference check is not the sole factor for a decision to hire or not hire a candidate. However, in conjunction with the interview scores and the interview team feedback, all of these factors go into the hiring manager decision. 
 
 At least 2 references must be completed and documented in Greenhouse (one of them must be a manager or supervisor unless this reference only exists at their current company), before moving to offer with the candidate, unless requirements set out by local law differ. If a manager receives conflicting or inconsistent feedback from the 2 references, the manager should complete a 3rd reference to determine if there is any validity to the feedback received.
 

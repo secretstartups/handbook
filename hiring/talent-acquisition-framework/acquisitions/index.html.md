@@ -25,7 +25,7 @@ An Acqusition hire is any hire which was made as a direct result of acquisition 
 1. Talent Acquisition Manager/Lead to gain a dummy [GHP ID](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth)
 1. Talent Acquisition Manager/Lead will open a Requistion in Greenhouse that will house all the acquisition candidates.
 1. Talent Acquisition Manager will assign the Requsition to a Recruiter who will manage the Interview process.
-1. Provide candidate details i.e. Resume or Linkedin Profile, to the recruiter so they can process the candidate in Greenhouse.
+1. Provide candidate details i.e. Resume or LinkedIn Profile, to the recruiter so they can process the candidate in Greenhouse.
 1. Talent Acquisition Manager will gather details specific to the offer letter for each candidate from the Dir. Corp Dev as per our [acquisition handbook](/handbook/acquisitions/#what-we-offer)
 1. When a acquisition candidate has completed the process, the recruiter responsible will update the Slack Channel with the results.
 1. Once complete we will follow the standard process of background checks, offer approvals and offer process as outlined here [Hiring](/handbook/hiring/)

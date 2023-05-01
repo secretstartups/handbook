@@ -49,7 +49,7 @@ live or in an async way.
 
 **4.1 - Source prospects**
 
-The Recuiter and Hiring Manager will partner in finding top talent using different sourcing avenues to find candidates, with LinkedIn and GitLab Talent Community being the most used and efficient ones. *(It is possible that other Recruiters, and/or members of the CES Team will provide additonal [sourcing support](/handbook/hiring/talent-acquisition-framework/#sourcing-support)*.
+The Recuiter and Hiring Manager will partner in finding top talent using different sourcing avenues to find candidates, with LinkedIn and GitLab Talent Community being the most used and efficient ones. *(It is possible that other Recruiters, and/or members of the CES Team will provide additional [sourcing support](/handbook/hiring/talent-acquisition-framework/#sourcing-support)*.
 
 **4.2 - Add prospects to Greenhouse**
 

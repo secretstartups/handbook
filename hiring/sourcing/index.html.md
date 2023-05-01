@@ -53,7 +53,7 @@ Professional networks make it easy to scan a person's skill set and professional
 
 We encourage our team members to think out of the box and source creatively! For some positions, other networks may prove useful as well -
 for example, we are looking for someone who has public speaking experience combined with specific tech expertise.
-You can go on Youtube and search for candidates who have spoken at seminars or professional conferences, try to search for the person's name and look for suitable ways to contact them.
+You can go on YouTube and search for candidates who have spoken at seminars or professional conferences, try to search for the person's name and look for suitable ways to contact them.
 
 **About Reaching Out to Candidates**
 
@@ -80,7 +80,7 @@ In accordance with our [values](/company/culture/inclusion/#values) of Diversity
 
 ## Upgrading your LinkedIn account
 
-We're eager to provide Hiring Managers and all hiring team members with a **LinkedIn Recruiter** seat. To upgrade your seat, please add your GitLab email to your LinkedIn profile (Login to Linkedin > click `Me` > `Settings & Privacy` > `Sign in & security` > `Email addresses` > add your GitLab email address and verify it.
+We're eager to provide Hiring Managers and all hiring team members with a **LinkedIn Recruiter** seat. To upgrade your seat, please add your GitLab email to your LinkedIn profile (Login to LinkedIn > click `Me` > `Settings & Privacy` > `Sign in & security` > `Email addresses` > add your GitLab email address and verify it.
 ), then submit an [Access Request Issue](https://gitlab.com/gl-talent-acquisition/operations/issues/new?issuable_template=LinkedIn%20Access%20Request) using the `LinkedIn Access Request` template within the [Recruiting Operations project](https://gitlab.com/gl-talent-acquisition/operations). To integrate your LinkedIn account with Greenhouse, please refer to the [Enabling LinkedIn Recruiter System Connect](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect) section on the [Greenhouse](/handbook/hiring/greenhouse/) page.
 
 You can request one of the following seats (we recommend requesting a **Recruiter** seat):
@@ -160,7 +160,7 @@ possible.
 
 #### LinkedIn Sourcing
 
-[View Linkedin Training slide](https://docs.google.com/presentation/d/1W9PvVp2uGFsWHFTQrAd5ZjgzfAMmS_dQI6R7Lg7XDJc/edit#slide=id.g7ba34d75e8_0_16) to understand the Boolean logic.
+[View LinkedIn Training slide](https://docs.google.com/presentation/d/1W9PvVp2uGFsWHFTQrAd5ZjgzfAMmS_dQI6R7Lg7XDJc/edit#slide=id.g7ba34d75e8_0_16) to understand the Boolean logic.
 
 #### Greenhouse Sourcing
 
@@ -189,9 +189,9 @@ Here's an example workflow for sourcing **Product Design** candidates:
 3. To start your search, open LinkedIn Recruiter, and select `Projects` from the top banner. Here you will need to either start a new project by naming it `Product Designer - stage group`, or open an existing project if the Recruiter has already shared one with you.
 4. Once you're in the project, you'll need to open up the `Talent pool` tab.
 5. Now you're on the search page. In a new project, the search field will be blank. You will see the last search run if you're in an existing project.
-6. If you're in a new project, you can begin your search using the `job title` search box on the left of the interface. You can input `Product Designer` to search for anyone who has held this title in their current or past role. If you're following a tree ring strategy, you should select current from the dropdown. In an exisiting project, you can delete all the information as this will be saved by the Recruiter. You can then start your search using the `job title` field.
+6. If you're in a new project, you can begin your search using the `job title` search box on the left of the interface. You can input `Product Designer` to search for anyone who has held this title in their current or past role. If you're following a tree ring strategy, you should select current from the dropdown. In an existing project, you can delete all the information as this will be saved by the Recruiter. You can then start your search using the `job title` field.
 7. From here, you can refine this search further using the `current company` search box. Here, you can input the names of organizations you noted at the start of this process.
-8. Next, you can narrow your search further by searching for keywords that may be found within a potential candidate's Linkedin profile. The keywords you search for could be domain-specific, or keywords that could imply relevance for GitLab (e.g. Enterprise). You can narrow your search further by using a [Boolean operator](https://www.linkedin.com/help/linkedin/answer/75814/using-boolean-search-on-linkedin?lang=en) in the keyword search box within Linkedin. _Authentication AND Authorization AND Enterprise_ could be an example keyword search you would run if looking for a Product Designer for our Manage:Authentication and Authorization stage group.
+8. Next, you can narrow your search further by searching for keywords that may be found within a potential candidate's LinkedIn profile. The keywords you search for could be domain-specific, or keywords that could imply relevance for GitLab (e.g. Enterprise). You can narrow your search further by using a [Boolean operator](https://www.linkedin.com/help/linkedin/answer/75814/using-boolean-search-on-linkedin?lang=en) in the keyword search box within LinkedIn. _Authentication AND Authorization AND Enterprise_ could be an example keyword search you would run if looking for a Product Designer for our Manage:Authentication and Authorization stage group.
 9. Finally, you may want to narrow your search even further by searching for the number of years a candidate has been in the industry. Years of experience are an imperfect measure of ability so you should only do this if your search is returning >200 candidates.
 10. In the above example, if the initial tree ring search returns too few candidates, you could broaden it by searching for _(Authentication OR Authorization) AND Enterprise_.
 11. If you decide to search by `current` job title, you may also wish to broaden the search by selecting `current or past` in the job title search field.

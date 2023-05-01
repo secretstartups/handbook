@@ -113,7 +113,7 @@ These steps are executed by the **People Connect and Legal teams** when contract
 
 ### How to Send a Family Member Relationship Acknowledgment
 
-Consistent with GitLab’s policy governing Hiring Significant Others or Family Members, GitLab is committed to a policy of employment and advancement based on **qualifications and merit** and does not discriminate in favor of or in opposition to the employment of significant others or family members. Any new hire that has a family member relationship that is currently employed at GitLab must sign [this acknowledgment](https://docs.google.com/document/d/1IseZy4zJZMgP0VCAsGqCP3I6sfnavGdD81THnqljaPI/edit?usp=sharing) along with the GitLab team member. This process is done in conjuction with sending out the contract.
+Consistent with GitLab’s policy governing Hiring Significant Others or Family Members, GitLab is committed to a policy of employment and advancement based on **qualifications and merit** and does not discriminate in favor of or in opposition to the employment of significant others or family members. Any new hire that has a family member relationship that is currently employed at GitLab must sign [this acknowledgment](https://docs.google.com/document/d/1IseZy4zJZMgP0VCAsGqCP3I6sfnavGdD81THnqljaPI/edit?usp=sharing) along with the GitLab team member. This process is done in conjunction with sending out the contract.
 
 1. If you have not been notified by the recruiter that there is a family relationship in play, there is now a field in the 'Offer Details' that will show whether a relationship exists. There should also be a *Family Member* tag on their profile. It, however, will not show who that family member is.
 1. The Recruiter will post the name of the family member in the Private Notes within the Greenhouse profile. If not there, the CES will reach out to the recruiter to find out who the current GitLab team member is.
@@ -241,9 +241,9 @@ For Talent Acquisition Enablement:
 
 ### How to Keep Candidates Informed of Any Delays in the PEO Contract Process
 
-Occasionally, there can be delays between the candidate receiving the PEO New Hire Document issued by the CES team and the official contract from a PEO. This delay can result in a nervous wait for the candidate. We must keep anyone who has not recieved their full contract from our PEO informed of any delays outside of the PEO SLAs.
+Occasionally, there can be delays between the candidate receiving the PEO New Hire Document issued by the CES team and the official contract from a PEO. This delay can result in a nervous wait for the candidate. We must keep anyone who has not received their full contract from our PEO informed of any delays outside of the PEO SLAs.
 
-The Candidate Experience Specialist who initiated the contract process is expected to follow up with the PEO every 24-48 hours until the contract is sent and will note of follow-up dates in the [PEO Tracker](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0). This communciation should be sent in Greenhouse, so that the communication is captured in the activity feed. If there are any extreme circumstances that will result in a contract getting to the candidate outside of the PEO SLA's, the CES will also note those in the PEO Tracker. Recruiter is expected to keep the candidate updated on the progress of their contract every 24-48 hours until the candidate recieves their contract. A simple message that explains the delay is all that is neccessary. As a Candidate Experience Specialist or Recruiter, you're encouraged to utilize the Greenhouse reminder feature to manage these updates and log the email in Greenhouse.
+The Candidate Experience Specialist who initiated the contract process is expected to follow up with the PEO every 24-48 hours until the contract is sent and will note of follow-up dates in the [PEO Tracker](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0). This communication should be sent in Greenhouse, so that the communication is captured in the activity feed. If there are any extreme circumstances that will result in a contract getting to the candidate outside of the PEO SLA's, the CES will also note those in the PEO Tracker. Recruiter is expected to keep the candidate updated on the progress of their contract every 24-48 hours until the candidate receives their contract. A simple message that explains the delay is all that is necessary. As a Candidate Experience Specialist or Recruiter, you're encouraged to utilize the Greenhouse reminder feature to manage these updates and log the email in Greenhouse.
 
 ## Amended Contracts
 
@@ -341,7 +341,7 @@ CES: Follow the instructions below on how to create and send a letter of adjustm
 - **Special Note: Please ensure you are using the bottom two templates ONLY for NON US LOA's!**
 
 LOAs should be treated like contracts, where RSUs are only features in US ones and all other countries should have text within the DocuSign email instead.
-1. Click on Send through Docusign 
+1. Click on Send through DocuSign 
 1. You will be redirected to DocuSign.
 1. On the top left of the screen, click where it says the candidate's name, then click "Edit Recipients". Change the order of recipients to reflect the following order:
 - #1 is Director, Total Rewards (needs to sign)

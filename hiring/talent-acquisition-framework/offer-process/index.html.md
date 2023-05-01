@@ -75,7 +75,7 @@ A description on what to input into each Offer field in Greenhouse can be found 
 * **Start date:** New hires start on Monday, with exceptions made for public holidays for a new hires’ location, Family & Friends Day, and other designated [no start dates](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_connect_team/) as chosen by People Connect. Additionally, internal hires with salary changes start on the 1st or 16th only (regardless of the day of the week), and those in Sales can only start on the 1st.
 
 
-* **Job Title:** It’s important that we use the correct title, which should not include a speciality. People Managers have “Manager, “ before the rest of their title, whereas individual contributors will have the title followed by Manager. Total Rewards will review this title to ensure it matches with those in WorkDay. In some cases, such as Area Sales Manager, industry standards indicate that our expected conventions will not work and exceptions are made. 
+* **Job Title:** It’s important that we use the correct title, which should not include a specialty. People Managers have “Manager, “ before the rest of their title, whereas individual contributors will have the title followed by Manager. Total Rewards will review this title to ensure it matches with those in WorkDay. In some cases, such as Area Sales Manager, industry standards indicate that our expected conventions will not work and exceptions are made. 
 
 
 * **Level of Role:** Anything Director+ is considered a “Leader”
