@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Data Science Project Development Approach"
-description: "GitLab Data Science Team Approach to Model Developmment"
+description: "GitLab Data Science Team Approach to Model Development"
 ---
 
 ## On this page 
@@ -280,7 +280,7 @@ In the project issue, document the following:
 **Considerations**:
 - This step is prone to a lot of human error, so completing the tasks outlined above is helpful to ensure accurate scoring of the model.
 - What is the scoring cadence (Daily/Weekly/Month)? Batch or real-time?
-    - real-time scoring will likely have different techological requirements than batch scoring.
+    - real-time scoring will likely have different technological requirements than batch scoring.
 
 **Completion Criteria:** 
 - When scoring code is run on the training dataset, the score descriptives are identical to what was observed during training

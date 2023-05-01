@@ -35,7 +35,7 @@ Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#r
 - Being a **_Center of Excellence_** for [Data Management processes](https://about.gitlab.com/handbook/business-technology/data-team/data-management/)
 - Provide direction and support to the Data Modeling Project teams to develop architecture and implement dimensional model designs by following [Modeling Development process](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/#modeling-development-process) 
 - Review ERDs and validate Data models to ensure that they adhere to all the [Enterprise Dimensional Modeling Guidelines](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/#modeling-guidelines) and [Naming standards](Naming Standards)
-- Update/Maintain a current version of [Conformance matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=430467333) to enhance searchabilty of EDM Facts/Dims/marts for cross-subject area analysis
+- Update/Maintain a current version of [Conformance matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=430467333) to enhance searchability of EDM Facts/Dims/marts for cross-subject area analysis
 - Support Self-Service BI and Analytical capabilities by providing Data Enablement and required training to the Users on Data Models
 -  Continue to work towards adding more content to [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#data-catalog) for business users that synthesizes details about data assets across multiple data sources by organizing them into an easy to digest form
 - Creating Definitive Guide Handbook pages on various topics of interest for business and technical audience
@@ -44,7 +44,7 @@ Additionally, the `Enterprise Data Team` partners with the `Data Platform` & oth
 
   - **Data Storage & Integration**
     - `Archival processes`
-      - If the plan is to keep a certain period of history, an archive stratgey would be defined
+      - If the plan is to keep a certain period of history, an archive strategy would be defined
       - Specifies how much data will be kept on line
       - Specifies process of removing/archiving facts
       - Identifies how obsolete dimensional detail will be dealt with
@@ -54,7 +54,7 @@ Additionally, the `Enterprise Data Team` partners with the `Data Platform` & oth
   - **Data Quality**
       - Supporting Trusted Data Framework
       - Exposing Comprehensive and Accurate Data to Users
-      - Data Observabiity
+      - Data Observability
         
   - **Data Security**
     - Role based access to subject areas
