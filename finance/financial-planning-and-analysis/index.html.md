@@ -91,7 +91,7 @@ Final FY24 Planning documents are on Google Drive, please find the links in the 
 - FY24 Plan SSOT Hiring List
 - FY24 Bookings Quarterization
 
-All of the data for these planning documents are locked in our Adpative Planning instance (Adaptive Planning can only be accessed by FP&A.)
+All of the data for these planning documents are locked in our Adaptive Planning instance (Adaptive Planning can only be accessed by FP&A.)
 
 
 ## Long Range Outlook ("LRO")
