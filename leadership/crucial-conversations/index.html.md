@@ -77,7 +77,7 @@ There are many different influencing strategies and in this section we are going
     * Example: A vendor who is trying to land a big deal may offer their client incentives or a discount provided the size of the order large enough.
     * Develop: Understand the other person's requirements, identify your non-negotiable, role-play with a colleague, practive in a low risk real life situation.
 1.  **Networking**: Establish and maintain a network of contacts who you may need to influence going forward.
-    * Example: A manager spends time with their peers or cross functional partners in different activites (either work or non work related) in order to develop a better bond/relationship with their network.
+    * Example: A manager spends time with their peers or cross functional partners in different activities (either work or non work related) in order to develop a better bond/relationship with their network.
     * Develop: Take interest in other peoples lives, find common ground, leverage existing relationships and take advantage of existing opportunities.
 1.  **Stakeholder awareness**: Identifying the key stakeholder and the ability to gain support when needed.
     * Example: A manager identifies the key stakeholder and decision maker within a supporting organization and regularly meets with them to collaborate.

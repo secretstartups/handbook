@@ -284,7 +284,7 @@ Interested in learning about your own SOCIAL STYLE and those of your team? Below
 
 4. **Share** - Share the assessment with teammates who have not taken the assessment.
 
-5. **Aggregate Results** - Maintain a centralized location where exisiting and new team members can view individual SOCIAL STYLEs. 
+5. **Aggregate Results** - Maintain a centralized location where existing and new team members can view individual SOCIAL STYLEs. 
 
 Once you know your team's SOCIAL STYLE, what do you do next?
 - Talk to your team members about their style
