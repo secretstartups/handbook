@@ -161,7 +161,7 @@ To debug services run as background jobs, you will need to set up debugging for 
 - [http://onlywei.github.io/explain-git-with-d3/](http://onlywei.github.io/explain-git-with-d3/) is a very cool sandbox site that takes you through tutorials of various git commands, with a real-time visualization of what is going on.  You can also type your own commands outside of the tutorial instructions in many cases!
 - [https://ndpsoftware.com/git-cheatsheet.html](https://ndpsoftware.com/git-cheatsheet.html) is a great reference and visualization of the various git commands grouped into different "areas" in git.
 
-## Squashing down a branch which has had master merged into it
+### Squashing down a branch which has had master merged into it
 
 When a branch has followed a merge instead of a rebase workflow, it can get very confusing to know what is going on, and you want to just squash it down to a single commit. But, you can't just do a regular interactive rebase relative to master if the branch has had master merged into it. Here's what you have to do instead.
 
@@ -183,15 +183,6 @@ Assuming branch is named `branch` and upstream is named `master`:
 
 - [Expanding Issue/MR Threads for Searching](https://gitlab.com/gitlab-org/gitlab/issues/38235)
 
-## Settings && Navigation Development
-
-Currently our sidebar implementation lives in:
-
-- `lib/sidebars/`
-- `ee/lib/sidebars/`
-- `spec/lib/sidebars/`
-
-When you need to edit, delete or insert a new sidebar field, you will be working inside these files. The base menu class lives in `lib/sidebars/menu.rb` and all other menu items inherit it. If you need different behavior for a menu item, you can override this base class in your implementation. More information [about the full implementation](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/68441) is available.
 ## New habits
 
 Though the [contributor and development docs](https://docs.gitlab.com/ee/development/) are the single source of truth, there are some additional habits that may be worth developing when you're new to the code contribution process.
@@ -230,3 +221,76 @@ Some frontendmasters workshops related to testing that I want to take after the 
 
 - <https://frontendmasters.com/courses/testing-practices-principles/>
 - <https://frontendmasters.com/courses/testing-javascript/>
+
+## Jetbrains IDE Usage
+
+This section is a placeholder for proceses, tips, tools, etc. for working with the Jetbrains IDEs in the GitLab codebase.
+
+It will eventually be moved to its own dedicated handbook or docs page.
+
+We also have a relationship with the new PM of RubyMine, so we may be able to get attention on issues
+to address many of the shortcomings/pain points of RubyMine which are mentioned below.
+
+### Jetbrains IDE Setup
+
+See [Chad's notes on Jetbrains IDE setup](https://gitlab.com/cwoolley-gitlab/cwoolley-gitlab/-/blob/main/gitlab-workstation-setup-notes.md#jetbrains-ide-setup)
+
+### RubyMine GDK Debugging
+
+See the [RubyMine Debugging section](#rubymine-debugging) above.
+
+### Using `Inspect Code` with custom scopes
+
+The `Inspect Code` function (Cmd-shift-A -> "Inspect Code") is a very powerful way to find problems in your code without having to
+wait for `LEFTHOOK` to fail on push, or for a CI build to fail (which can take up to an hour or more).
+
+Instead, you can have immediate feedback that everything file is clean by seeing the "green checkmark" in the upper left of
+the editor, or if not, having an underlined code pointing out the error (and in many cases automatically fixing it).
+
+If you have all the linting plugins enabled and configured (e.g. rubocop, eslint, prettier, etc), it will report all of these
+errors, as well as other RubyMine-specific inspections (such as type safety warnings based on Typescript or RBS type definitions).
+
+Also, if you curate a custom "Scope" which only selects the files related to the feature you are currently working on, you can
+also use this report to find all warnings/errors in any of those files.
+
+Here's a quick list of steps to set this up (TODO: add more details/links):
+
+1. Ensure you have all the linting plugins enabled and configured: rubocop, eslint, prettier (search for these in the Preferences search, some are enabled by default)
+1. In Preferences -> Editor -> Code Editing -> Error Highlighting section -> Change `The 'Next Error' action goes through` to `All problems`
+1. Then you can see all the highlighting in the current file by default.
+1. Press `F2` (next error) to cycle through all errors in the current file. Press `Option+Return` while on the error to open a menu of possible fixes.
+1. To check multiple files, you can use the `Inspect Code` function (Cmd-shift-A -> "Inspect Code")
+   and pick an individual file or custom scope to inspect.
+1. You can also set up a custom scope to only include the files for the Feature or area of code you are working on:
+    1. Preferences -> Appearance and Behavior -> Scopes
+    1. `+` to add a scope and give it a name (e.g. `remote_dev`)
+    1. Use the Include/Exclude/Recursively buttons to define what files should be included in the scope.
+    1. Here's a current example of the `remote_dev` scope definition which could be shared with other team members: `file[gitlab]:ee/lib/remote_development//*||file[gitlab]:ee/spec/factories/remote_development//*||file[gitlab]:ee/spec/lib/remote_development//*||file[gitlab]:ee/app/services/remote_development//*||file[gitlab]:app/models/remote_development//*||file[gitlab]:ee/app/graphql/mutations/remote_development//*||file[gitlab]:ee/app/graphql/resolvers/remote_development//*||file[gitlab]:ee/app/graphql/types/remote_development//*||file[gitlab]:ee/app/models/remote_development//*||file[gitlab]:ee/spec/graphql/types/remote_development//*||file[gitlab]:ee/spec/models/remote_development//*||file[gitlab]:ee/spec/services/remote_development//*||file[gitlab]:ee/app/finders/remote_development//*||file[gitlab]:ee/spec/features/remote_development//*||file[gitlab]:ee/spec/support/shared_contexts/remote_development//*||file[gitlab]:ee/app/graphql/ee/types/user_interface.rb||file[gitlab]:ee/app/graphql/resolvers/concerns/remote_development//*||file[gitlab]:ee/app/graphql/resolvers/projects/workspaces_resolver.rb||file[gitlab]:ee/app/graphql/resolvers/users/workspaces_resolver.rb||file[gitlab]:ee/spec/requests/api/graphql/mutations/remote_development//*||file[gitlab]:ee/spec/requests/api/graphql/remote_development//*||file[gitlab]:ee/spec/finders/remote_development//*||file[gitlab]:ee/app/assets/javascripts/remote_development//*||file[gitlab]:ee/spec/frontend/remote_development//*||file[gitlab]:ee/spec/graphql/api/workspace_spec.rb`
+    1. You can also share the XML file for the directly, it will be under `.idea/scopes/SCOPE_NAME.xml`
+
+### Dealing with false positives from inspections
+
+Sometimes, the IDE will give you a "false positive" warning that can be ignored.
+
+Usually, these false positives are due to it not being able to properly resolve some Ruby RBS or Typescript type, usually in some dynamic code.
+
+These issues will sometimes resolve themselves eventually, as new releases of the IDEs come out, and RBS and Typescript support evolves.
+
+However, in the meantime, to keep a clean "green check" and "Inspect Code" report with no noise or broken windows to ignore, these
+false positives should be ignored with the `noinspection` directive. Here's how to do that:
+
+1. Either hit `Option-Enter` while on the warning line in the code, or else in the "Inspect Code" `Problems` pane report right click on the error
+1. In the menu that comes up, find the `Suppress for statement` option and click it.
+1. Note that there is currently a bug that doesn't put a space after the `#` comment in Ruby, you'll have to add one to avoid a rubocop error (TODO: Open an issue for this against RubyMine)
+1. This enables you to have a nice, clean report and green check with no false positives :)
+
+Some reviewers may have concerns about checking in these `# noinspection` comment lines, since not everyone uses Jetbrains IDEs.
+
+However, you should direct them to this section, and the following justifications:
+
+1. These are just comments. They are just as easily ignored as any other linting disable comment as is used by rubocop, eslint, prettier, etc.
+1. They contribute significantly to the [Efficiency](https://about.gitlab.com/handbook/values/#efficiency) of Jetbrains IDE users when working on the GitLab codebase.
+1. They support GitLab's [mission of Everyone Can Contribute](https://about.gitlab.com/company/mission/), by helping external contributors who use JetBrains IDEs to know what errors are known, and OK to ignore.
+1. TODO: It is a legitimate concern that these should not be left in the codebase indefinitely, and there should be a process to periodically review them.
+   This is on my ([Chad's](https://gitlab.com/cwoolley-gitlab)) personal TODO list, and I plan to work on a process for this at the same time I split this section out to a dedicated
+   handbook/doc page, and set up a more formal relationship with our PM contact at RubyMine to help address these false positives more proactively. But in the meantime... they're just comments :)
