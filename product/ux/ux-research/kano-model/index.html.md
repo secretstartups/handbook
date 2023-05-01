@@ -13,7 +13,7 @@ description: "Kano model provides a simple and powerful way how to think about t
 
 ## Kano model
 
-The [Kano model](https://www.qualtrics.com/au/experience-management/research/kano-analysis/) is a theory that ties percieved product functionality with user satisfaction. It was developed in Japan in the 1980s by Professor Noriaki Kano.
+The [Kano model](https://www.qualtrics.com/au/experience-management/research/kano-analysis/) is a theory that ties perceived product functionality with user satisfaction. It was developed in Japan in the 1980s by Professor Noriaki Kano.
 
 The Kano model classifies product features into five categories based on how developing them impacts user satisfaction:
 

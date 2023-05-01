@@ -12,7 +12,7 @@ description: "How to determine which design your participant prefers."
 
 Preference testing help you choose between design variations (icons, one page mockups, color palettes, design components, and more) by asking users to select their preferred option. You can have the participant select a preference based on the appearance of the design, how well it communicates information, or other qualities that evaluate your hypothesis. 
 
-It is important to note that you should not use this method to test workflows, usability, or anything that requires interaction. It can be used in conjuction with an open-ended question to ask about **why** participants made their selections to understand the reasons behind preferences. A moderated format would work best for that; as the moderator can ask more follow-up questions.
+It is important to note that you should not use this method to test workflows, usability, or anything that requires interaction. It can be used in conjunction with an open-ended question to ask about **why** participants made their selections to understand the reasons behind preferences. A moderated format would work best for that; as the moderator can ask more follow-up questions.
 
 ### Tips for creating Preference Tests:
 * Any visuals used must contain the full context for the design to be accurately assessed.
