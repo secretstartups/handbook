@@ -14,6 +14,14 @@ The Field Operations Changelog keeps a running log of Field Ops changes related 
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
+## Q2-FY24
+
+### 2023-05-01 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/301))
+
+**Sales Ops: [SFDC Sales Stages Workflow Change](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3481)**
+
+**Sales Ops: [Professional Services Bookings Forecasting for Sales Managers](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3451)**
+
 ## Q1-FY24
 
 ### 2023-03-20 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/289))
