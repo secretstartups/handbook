@@ -347,15 +347,15 @@ sudo chmod a+x /opt/gitlab/embedded/bin/exiftool
 
 ## Local Testing Environments
 
-### Install Docker
+### Docker
 
 If you'd like to use [Docker Desktop for Mac](https://www.docker.com/get-started) a subscription is required for business use. Please review the [Docker Desktop handbook page](https://about.gitlab.com/handbook/tools-and-tips/mac/#docker-desktop) to find more information on how to obtain a license as well as a list of recommended alternatives.
 
 In the mean time, consider using a Cloud or local VM with [Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux) for testing Docker environments.
 
-Note that on Macs with M1 / Apple Silicon, running GitLab in Docker is not working properly for now. Check out [UTM](#utm-free--opensource---compatible-with-apple-silicon) below as an alternative for a local setup on your M1 Mac.
+Note that on Macs with M1 / Apple Silicon, running GitLab in Docker is not working properly for now. Check out [UTM](#utm-apple-m1-compatible) below as an alternative for a local setup on your M1 Mac.
 
-### Install Docker Machine
+### Docker Machine
 
 Since Docker Toolbox has been deprecated, Docker Machine has to be downloaded and installed manually. Use the following commands to install or upgrade Docker Machine separately:
 
@@ -364,7 +364,7 @@ $ curl -L https://github.com/docker/machine/releases/download/v0.16.2/docker-mac
   chmod +x /usr/local/bin/docker-machine
 ```
 
-### VMWare Testing Environment
+### VMWare
 
 This guide involves configuring and setting up VMWare and Docker locally and assumes you're using macOS.
 
@@ -377,7 +377,7 @@ This guide involves configuring and setting up VMWare and Docker locally and ass
 1. Launch VMWare Fusion.
 1. When prompted, enter the license details.
 
-### UTM (free & opensource - compatible with Apple Silicon)
+### UTM (Apple M1 Compatible)
 
 UTM is an open source QEMU-based virtualisation software for MacOS. It currently provides support for Apple silicon hardware, so may be useful for engineers on Apple M1 devices to deploy local virtual machines.
 
@@ -387,7 +387,7 @@ UTM is an open source QEMU-based virtualisation software for MacOS. It currently
 1. Once installed, follow the [instructions for an ARM-based installation of Ubuntu](https://mac.getutm.app/gallery/ubuntu-20-04)
 1. Start the VM within the UTM interface.
 
-### VirtualBox Testing Environment (free & opensource - does not currently support Apple silicon)
+### VirtualBox (Incompatible with Apple M1)
 
 This guide involves configuring and setting up VirtualBox and Docker locally and assumes you're using macOS. *VirtualBox does not currently support Apple M1 CPUs.*
 
@@ -402,7 +402,7 @@ virtualization.
 
 **Note** The following list of commands can be saved as bash script for quickly spinning up new instances
 
-### Vagrant Testing Environment
+### Vagrant
 
 #### Install Vagrant
 
@@ -423,6 +423,112 @@ Once installed, [support/toolbox](https://gitlab.com/gitlab-com/support/toolbox)
 * [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups)
 
 > Provide a common provisioning and directory structure for various support setups including GitLab with connected GitLab Runners.
+
+### Multipass
+
+#### Install multipass
+
+Multipass is a tool to generate cloud-style Ubuntu VMs quickly on Linux, macOS, and Windows. This method is similar to Vagrant. 
+
+It can be [installed using brew](https://multipass.run/docs/installing-on-macos#heading--use-brew) or the [package installer](https://multipass.run/docs/installing-on-macos#heading--use-the-installer-package).
+
+NOTE: Some Mac users may experience a [long standing bug](https://github.com/canonical/multipass/issues/2387) where the MacOS firewall prevents Multipass from functioning consistenstly. Use macOS 13.3.1 or above to avoid this issue.
+
+Once installed, use `multipass help` to get an idea of what it can do. The general format is `multipass <command> <name>`.
+
+#### Examples
+
+##### Omnibus
+
+1. Make sure you download and install multipass.
+2. Create a script called `install-omnibus.sh` inside of `~/mp_mount` (or your preferred mount directory) with the following content:
+
+   ```bash
+   #!/bin/bash
+
+   echo "Starting script..."
+   sudo apt-get update
+   sudo apt-get install -y curl openssh-server ca-certificates
+   curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.deb.sh | sudo bash
+   export GITLAB_ROOT_PASSWORD="your_root_password"
+   export EXTERNAL_URL="$(hostname -I | awk '{print $1}')"
+   echo $EXTERNAL_URL
+   echo "Please enter the GitLab version (ex. 15.1.1):"
+   read GL_VERSION 
+   apt install -y "gitlab-ee=$GL_VERSION-ee.0"
+   ```
+
+3. Run the following one-liner. If you’d like to increase/decrease memory or disk, replace with the appropriate values. You can use `multipass help launch` for more details on this command.
+
+   ```bash
+   multipass launch --cpus 4 --memory 8G --disk 10G --name gitlab-omnibus && multipass mount ~/mp_mount/ gitlab-omnibus:/mp_mount && multipass exec gitlab-omnibus -- sh -c 'sudo sh /mp_mount/install-omnibus.sh'
+   ```
+
+4. You’re finished! Use `multipass shell gitlab-omnibus` to access your instance. Additionally:
+  - `multipass list` or `multipass ls` to see all instances
+  - `multipass stop gitlab-omnibus` to stop the instance
+  - `multipass delete gitlab-omnibus` to delete the instance
+  - Change the default `open shell` menu item by [using duti](https://multipass.run/docs/changing-terminal#heading--using-duti)
+   
+##### GitLab Runner
+
+1. Create an executable script called `install-runner.sh` inside of `~/mp_mount` (or your preferred mount directory) with the following content:
+    
+    ```bash
+    #!/bin/bash
+    
+    echo "Starting script..."
+    sudo apt-get update
+    sudo mkdir -p /etc/apt/keyrings
+    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+    echo \
+      "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+      $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+    sudo apt-get update
+    sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
+    curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.deb.sh" | sudo bash
+    apt-get install -y gitlab-runner
+    ```
+    
+2. Create a new instance:
+
+   ```bash
+   multipass launch --cpus 2 --memory 4G --disk 5G --name gitlab-runner && multipass mount ~/mp_mount/ gitlab-runner:/mp_mount && multipass exec gitlab-runner -- sh -c 'sudo sh /mp_mount/install-runner.sh'
+   ```
+
+3. Use `multipass shell gitlab-runner` to access your instance.
+
+##### Elasticsearch Instance
+
+1. Create a script called `install-es.sh` inside of `~/mp_mount` (or your preferred mount directory) with the following content:
+    
+    ```bash
+    #!/bin/bash
+    
+    wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo gpg --dearmor -o /usr/share/keyrings/elasticsearch-keyring.gpg
+    sudo apt-get install apt-transport-https
+    echo "deb [signed-by=/usr/share/keyrings/elasticsearch-keyring.gpg] https://artifacts.elastic.co/packages/7.x/apt stable main" | sudo tee /etc/apt/sources.list.d/elastic-7.x.list
+    sudo apt-get update && sudo apt-get install elasticsearch
+    sudo /bin/systemctl daemon-reload
+    sudo /bin/systemctl enable elasticsearch.service
+    sudo systemctl start elasticsearch.service
+    cat << EOF > /etc/elasticsearch/elasticsearch.yml
+    path.data: /var/lib/elasticsearch
+    path.logs: /var/log/elasticsearch
+    network.host: $(hostname -I | awk '{print $1}')
+    http.port: 9200
+    discovery.seed_hosts: ["$(hostname -I | awk '{print $1}')", "elasticsearch"]
+    EOF
+    sudo systemctl restart elasticsearch.service
+    ```
+    
+2. Create a new instance:
+    
+    ```bash
+    multipass launch --cpus 2 --memory 8G --disk 5G --name gitlab-es && multipass mount ~/mp_mount/ gitlab-es:/mp_mount && multipass exec gitlab-es -- sh -c 'sudo sh /mp_mount/install-es.sh'
+    ```
+    
+3. Use `multipass shell gitlab-es` to access your instance. You can use `multipass ls` to get the IP address and connect to it in your browser at port `:9200` to verify it is working. Alternatively, run `curl ip_address:9200` from your GitLab Omnibus instance to confirm you can reach your Elasticsearch instance.
 
 ## Creating GitLab test instance
 
