@@ -123,7 +123,7 @@ Our integrated campaign landing pages are currently created on about.gitlab.
 * Fill out the form (using a personal email address) and test that the resulting success message and flows take place:
   * If a webcast, check that the success message displays properly
   * If a Pathfactory experience, check that the link includes the correct code to (`&lb_email=<email-of-user>`) that will ensure Pathfactory recognizes the individual as a known lead, and track the activity back to the lead/contact record.
-* Check that you recieve the confirmation email and run through all the flows by reviewing the `Add to Campaign` smart campaign in your Marketo program (note that if you are using your `@gitlab.com` email address, you will be removed from the flows to avoid inflating program totals for employee form fills)
+* Check that you receive the confirmation email and run through all the flows by reviewing the `Add to Campaign` smart campaign in your Marketo program (note that if you are using your `@gitlab.com` email address, you will be removed from the flows to avoid inflating program totals for employee form fills)
 
 #### Code for integrated campaign landing pages
 
