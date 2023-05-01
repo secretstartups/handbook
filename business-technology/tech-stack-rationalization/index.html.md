@@ -30,7 +30,7 @@ Application rationalization is the act of streamlining the existing application 
 
 ### 1. Conduct a complete application portfolio assessment
 
-The [Apps Rationalization: Current Tech Stack](https://docs.google.com/spreadsheets/d/1VO5Ivsyh3_MbPfwxwQC65jccmGXAlMkE_BLxwJGmihk/edit#gid=467329161) tracker has been created as a baseline assessment of the entire Tech Stack. This also establishes necessary groundwork for follow-on broader app ratitonalization initiatives.
+The [Apps Rationalization: Current Tech Stack](https://docs.google.com/spreadsheets/d/1VO5Ivsyh3_MbPfwxwQC65jccmGXAlMkE_BLxwJGmihk/edit#gid=467329161) tracker has been created as a baseline assessment of the entire Tech Stack. This also establishes necessary groundwork for follow-on broader app rationalization initiatives.
 
 ### 2. Define business value
 
