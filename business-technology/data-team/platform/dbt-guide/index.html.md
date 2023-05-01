@@ -144,7 +144,9 @@ We use virtual environments for local dbt development because it ensures that ea
 The following commands enable zero copy cloning using DBT selections syntax to clone entire lineages. This is far faster and more cost-effective than running the models using DBT but do not run any DBT validations. As such, all dbt users are encourage to use these commands to set up your environment. 
 - Ensure you have dbt setup and are able to run models
 - These local commands run using the SnowFlake user configured in `/.dbt/profiles.yml`, and will skip any table which your user does not have permissions to.  
-- These commands run using the same logic as the dbt CI pipelines, using the DBT_MODELS as a variable to select a given lineage. 
+- These commands run using the same logic as the dbt CI pipelines, using the DBT_MODELS as a variable to select a given lineage.
+- You need to be in the `/analytics` directory to run these commands.
+- Because the `make` commands for local cloning are not part of the virtual environment, the suggested workflow is to run local clone operations in a separate terminal window from the terminal window that's running your dbt virtual environment.
 - If you encounter an error as below:
 ``` 
 Compilation Error
@@ -155,15 +157,15 @@ Compilation Error
 ##### Cloning into local user DB 
 
 - This clones the given DBT model lineage into the active branch DB (ie. `{user_name}_PROD`) 
-  - `make DBT_MODELS=<dbt_selector> clone-dbt-select-local-user`
-  - eg. `make DBT_MODELS=+dim_subscription clone-dbt-select-local-user`
+  - `make DBT_MODELS="<dbt_selector>" clone-dbt-select-local-user`
+  - eg. `make DBT_MODELS="+dim_subscription" clone-dbt-select-local-user`
 
 ##### Cloning into branch DB 
 
 - This clones the given DBT model lineage into the active branch DB (ie. `{branch_name}_PROD`), this is equivalent to running the CI pipelines clone step.
 - It does not work on Master. 
-  - `make DBT_MODELS=<dbt_selector> clone-dbt-select-local-branch`
-  - eg. `make DBT_MODELS=+dim_subscription clone-dbt-select-local-branch`
+  - `make DBT_MODELS="<dbt_selector>" clone-dbt-select-local-branch`
+  - eg. `make DBT_MODELS="+dim_subscription" clone-dbt-select-local-branch`
 
 ### Docker Workflow
 {: #docker-workflow}
