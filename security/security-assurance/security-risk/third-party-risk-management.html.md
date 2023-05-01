@@ -233,7 +233,7 @@ Engineers are advised to use professional judgment in determining the scope of c
 Independent Contractors requiring access to Orange or Red data in the provision of services must be vetted by Security prior to being granted system access. The below items are required prior to granting Security approval:
 
 <details>
-<summary markdown="span">2. Background Check Request</summary>
+<summary markdown="span">1. Background Check Request</summary>
 
 - Evidence of initiated background check, which will be monitored and adjudicated by the Sr. Background Check Specialist. 
     - This helps ensure that personnel with criminal backgrounds that may pose a threat to GitLab assets, customer relationships, and sensitive information are identified. 
