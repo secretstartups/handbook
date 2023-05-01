@@ -165,7 +165,7 @@ Review how to make a referral: /handbook/hiring/referral-process/
 1. Ensure the posted job title is aligned with the details outlined on [Slide 10 in the Job Description Rebuild deck](https://docs.google.com/presentation/d/16bqHv6y4o2IIcFo2x6TNvYbK-4jchChASR9byQNdi20/edit#slide=id.g229bf74aa96_0_0).
 1. If there is already a job description listed, check to see if the [External Job Description Template](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#) has been applied and that no salary information is in the job description. Instead, you'll address salary in the step below.
 1. If the `Pay Transparency` section is visible, add the CO/WA and CA/NY/NJ salary ranges that you see on the Approvals page.
-1. Once your job description is finalized, please copy and add it to the [Repository section in the document](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#).
+1. Once your job description is finalized, please copy and add it to the [Job Description Repository](https://drive.google.com/drive/folders/1qzuH4ol8PxIGrf11L13euI8KTzanqtKi) by creating a new Google Document, pasting your description there and titling it Job Title_Department_Date.
 1. All external job posts should ask the following custom application questions, which should be part of your job template:
    - Please choose the country in which you are located.
    - What's the name you'd prefer us to use throughout the interview process?
