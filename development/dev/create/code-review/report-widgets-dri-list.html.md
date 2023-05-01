@@ -21,7 +21,7 @@ Please refer to this list and keep it updated as Widgets evolve.
 | [Security](https://gitlab.com/gitlab-org/gitlab/-/issues/338283) | [#336175](https://gitlab.com/gitlab-org/gitlab/-/issues/336175) | Govern:Threat Insights  | [@beckalippert](https://gitlab.com/beckalippert) | [@svedova](https://gitlab.com/svedova) |
 | [Terraform](https://gitlab.com/gitlab-org/gitlab/-/issues/338284) | [#336174](https://gitlab.com/gitlab-org/gitlab/-/issues/336174) | Configure | [@andlovu](https://gitlab.com/andlovu) | [@anna_vovchenko](https://gitlab.com/anna_vovchenko)  |
 | [Test summary](https://gitlab.com/gitlab-org/gitlab/-/issues/338285) | [#336173](https://gitlab.com/gitlab-org/gitlab/-/issues/336173) | Verify:Pipeline Security | [@gdoyle](https://gitlab.com/gdoyle) | [@mfluharty](https://gitlab.com/mfluharty) |
-| [Status checks](https://gitlab.com/groups/gitlab-org/-/epics/7066) | [#336172](https://gitlab.com/gitlab-org/gitlab/-/issues/336172) | Govern:Compliance | [@seggenberger](https://gitlab.com/seggenberger) | [@jiaan](https://gitlab.com/jiaan) |
+| [Status checks](https://gitlab.com/groups/gitlab-org/-/epics/7066) | [#336172](https://gitlab.com/gitlab-org/gitlab/-/issues/336172) | Govern:Compliance | [@cam.x](https://gitlab.com/cam.x) | [@xanf](https://gitlab.com/xanf) |
 | [Load performance](https://gitlab.com/gitlab-org/gitlab/-/issues/338287) | [#336448](https://gitlab.com/gitlab-org/gitlab/-/issues/336448) | Verify:Pipeline Security  | [@gdoyle](https://gitlab.com/gdoyle) | [@mfluharty](https://gitlab.com/mfluharty) |
 
 # Related links
