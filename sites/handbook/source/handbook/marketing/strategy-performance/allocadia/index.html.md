@@ -52,7 +52,7 @@ All budget holders are added and Marketing ops is responsible for granting acces
 
 ## Home
 
-This section houses the main grid. This section is more for the Allocadia admin, although all budget holders will make use of it for mapping expenses to their line items as the Netsuite uploads are done monthly.
+This section houses the main grid. This section is more for the Allocadia admin, although all budget holders will make use of it for mapping expenses to their line items as the NetSuite uploads are done monthly.
 
 Also in this section, you can see where teams are from a forecast to plan standpoint by clicking into the `view-roll up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) in GitLab Unfiltered.
 
@@ -129,7 +129,7 @@ As we move to Coupa, that integration will allow us to use their list of standar
 We have just moved the Vendor to the Details panel - for now it shows up in both and can be updated in either place - but we are considering taking it off the main grid if there are no objections.
 
 - Comments - this can be used for any notes about the spend, but it is not reportable, sortable, nor does the budget holder (or anyone for that matter) receive a notification that a comment had been made.
-- Months - this is where you enter the dollar amounts by month. You can use the cut and paste feature and tab between months for ease of entry. You can also enter formulas, such as 12000/12 if you have an annual $12K cost that you want calculating the $1K per month. Depending on the `View`, there are columns for your bottoms up `Plan` and your ongoing 'Forecast'. And then monthly as we load in `Actuals` from Netsuite, those amounts will show in those columns.
+- Months - this is where you enter the dollar amounts by month. You can use the cut and paste feature and tab between months for ease of entry. You can also enter formulas, such as 12000/12 if you have an annual $12K cost that you want calculating the $1K per month. Depending on the `View`, there are columns for your bottoms up `Plan` and your ongoing 'Forecast'. And then monthly as we load in `Actuals` from NetSuite, those amounts will show in those columns.
 
 ##### Details panel
 
@@ -338,9 +338,9 @@ We will be using CSV transfer files to upload plans from Allocadia to Adaptive. 
 
 There is no integration with Marketo. However, through the [Marketo program/SFDC campaign creation process](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up), Marketo will update the SFDC campaign description with an ID. Allocadia ingests this ID and in return, updates SFDC campaign fields to match. 
 
-### Netsuite
+### NetSuite
 
-We will eventually be able to use an FTP data integration to download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do it's best guess but without the Allocadia ID, we will need to confirm or correct.
+We will eventually be able to use an FTP data integration to download actual expenses from NetSuite. In the meantime, we will be using CSV transfer files. [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do it's best guess but without the Allocadia ID, we will need to confirm or correct.
 
 
 #### Mapping Expenses
@@ -359,7 +359,7 @@ If Class: Name is not “- No Class -“, map to a Line Item by a match on the C
 
 3. If Department: Name = Field Marketing + Subsidiary: Name = `Gitlab XXX`, map to the `Y REGION` folder
 
-To find expenses that need to be mapped after the Netsuite actual upload, go to the home page. In the `Actuals` column, see if your `Map` column has a Map (#) in red. If so, click on that link, and it will open a new screen to show you what needs to be mapped. Scroll over to see descriptions, invoice numbers, etc from Netsuite. All you do is select the hierarchy category and then the line item to match each one to. Then hit map. You can also bulk map by shifting /clicking several lines and then hit bulk map for a smaller screen with its own “map” button.
+To find expenses that need to be mapped after the NetSuite actual upload, go to the home page. In the `Actuals` column, see if your `Map` column has a Map (#) in red. If so, click on that link, and it will open a new screen to show you what needs to be mapped. Scroll over to see descriptions, invoice numbers, etc from NetSuite. All you do is select the hierarchy category and then the line item to match each one to. Then hit map. You can also bulk map by shifting /clicking several lines and then hit bulk map for a smaller screen with its own “map” button.
 
 If you accidentally map something incorrectly, it can be corrected. You'll need to go to the Activities grid for the line item where you accidentally mapped it, right click and select `Go to Actuals`. A new screen will appear where hopefully you see your error line and you can delete by scrolling to the far right.
 
