@@ -19,12 +19,23 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Spring 2023 Lineup**
+**Summer 2023 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Apr 20 | *No session during the last week of the quarter* | N/A |
-| Apr 27 | *No session during the last week of the quarter* | N/A |
+| May 3 | Value Stream Assessment Showcase | Yu-Chen H. |
+| May 11 | FY24-Q2 - Revenue Play - Product Marketing Update | Diane O. |
+| May 18 | DevSecOps - Survey Results | Chandler G. |
+| May 25 | FY24-Q2 - Competition Corner | Joe K. |
+| Jun 1 | GitLab Dedicated | TBD |
+| Jun 8 | TBD |  |
+| Jun 15 | TBD |  |
+| Jun 22 | TBD |  |
+| Jun 29 | FY24-Q2 - Making Headlines: Analyst Relations Update | AR Team |
+| Jul 6 | TBD |  |
+| Jul 13 | TBD |  |
+| Jul 20 | *No session during the last week of the quarter* | N/A |
+| Jul 27 | *No session during the last week of the quarter* | N/A |
 
                                                                                                                                    
 ## Past Sessions
