@@ -253,7 +253,7 @@ The below table shows the rules how we select the demand gen related touchpoints
 
 **How to make sure that the LinkedIn Lead Gen campaigns will be captured properly by the dashboard?**
 
- You need to follow this steps while setting up the LinkedIn Lead Gen campaigns: [Steps to Setup Linkedin Lead Gen Form *Gated Content Only](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only). Important to note that the campaign name should include the campaign parameters, as the dashboard is using them to add into the different campaign groups.
+ You need to follow this steps while setting up the LinkedIn Lead Gen campaigns: [Steps to Setup LinkedIn Lead Gen Form *Gated Content Only](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only). Important to note that the campaign name should include the campaign parameters, as the dashboard is using them to add into the different campaign groups.
 
   
 | Campaign group                      | UTM string                                                                                        | Ad Campaign name                                                                                                                               |
