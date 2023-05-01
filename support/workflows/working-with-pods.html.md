@@ -62,3 +62,19 @@ positive customer outcomes.
 Each Support Pod may have specific recommendations on integrating its work into
 your day-to-day. These recommendations should be documented in the Support Pod's
 README in the [Support Pods project](https://gitlab.com/gitlab-com/support/support-pods).
+
+## Improving Support Pods by identifying and actioning on gaps
+
+To address issues, it will be necessary to identify areas of concern within a Support Pod or distribution of expertise.
+
+There are many ways to identify possible gaps or issues.
+Though the most important part of the process is to decide how to action on them.
+
+This is a non-exhaustive list that leads have completed with success:
+
+1. [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+   - Action: Create issues for "Threats" and "Weaknesses". Assign DRIs to resolve.
+1. Analysis of expertise across SGGs. [Example for Auth](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4920).
+   - Action: May vary, such as invite a base number per SGG to join the Support Pod, or targeted number open traning modules.
+1. Collect list of pain points from Support team members through a chosen method, such as a survey.
+   - Action: Analyze the list for actionable points. Create issues for each, and assign DRIs to resolve.
