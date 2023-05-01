@@ -1065,7 +1065,7 @@ Jointly with their regionally algined CAM, Field Marketers should be executing 5
 
 In order for FMM to engage in lead generation activity, the CAM needs to fill out the [Channel Lead Gen request issue template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Channel_LeadGen_Req).
 
-Detailed planning process is [outlined here](/handbook/marketing/channel-marketing/#quarterly-planning-field-and-channel). Week by week details can be [found here](https://docs.google.com/spreadsheets/d/1zCdPuLz5EhpM2s1thAGW8uZ785QwmdbE5z56cq59ZXo/edit#gid=0&range=A1).
+Detailed planning process is [outlined here](/handbook/marketing/channel-marketing/#6-month-planning-cycle-channel-marketing-managers). Week by week details can be [found here](https://docs.google.com/spreadsheets/d/1zCdPuLz5EhpM2s1thAGW8uZ785QwmdbE5z56cq59ZXo/edit#gid=0&range=A1).
 
 Note: The Channel Partner Enablement team is the DRI to make sure each Select Partner is fully enabled prior to FMM engagement. FMMs should not be involved in any channel enablement.
 
