@@ -109,7 +109,7 @@ The goal of the refinement process is to ensure an issue is ready to be worked o
    * The `~"quick win"` label is particularly helpful but note that you would
      be [volunteering to mentor new contributors](/handbook/marketing/community-relations/contributor-success/community-contributors-workflows.html#issues-for-new-contributors).
 1. Refinement Review.
-   * If the weight you've assigned to the issue is 1, move the issue directly to `~"workflow::ready for development"`.
+   * If the weight you've assigned to the issue is 3 or less, move the issue directly to `~"workflow::ready for development"`.
    * If the weight of the issue is greater than 3, unassign the issue from yourself and request a review from another engineer.
    * When the reviewer agrees with the implementation plan and weight, they will unassign themself
      and move the issue to `~"workflow::ready for development"`.
