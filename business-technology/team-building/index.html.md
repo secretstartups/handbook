@@ -41,7 +41,7 @@ We want to make sure that as a team we are not only constantly adding new workfl
 
 ## Hackathon
 
-_**Frequency:**_ Anually
+_**Frequency:**_ Annually
 
 _**Attendees:**_ Business Technology
 
@@ -49,7 +49,7 @@ A hackathon is a design sprint-like event; in which team members can collaborate
 
 ## Vendor Day
 
-_**Frequency:**_ Anually
+_**Frequency:**_ Annually
 
 _**Attendees:**_ Business Technology plus other departments depending on vendor
 
