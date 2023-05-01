@@ -88,7 +88,7 @@ A `Campaign Core Team` is led by a [Global Marketing Campaign Manager](/handbook
 * Digital Marketing (Secondary)
 * Organic Social (Secondary)
 * Email Lifecycle (Secondary)
-* Account Based Marekting (ABM) (Secondary)
+* Account Based Marketing (ABM) (Secondary)
 * SDR Leadership (Secondary)
 * SDR Enablement (Secondary)
 * Corporate Marketing (Liaison for activation)
