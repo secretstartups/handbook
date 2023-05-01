@@ -17,7 +17,7 @@ I typically work 9am-6pm in the [US Eastern time zone](https://www.timeanddate.c
 
 ### Meetings
 
-Whenver possible [I prefer to communicate async](/company/culture/all-remote/asynchronous/), but I'm happy to have a meeting if async is not effective or appropriate for a situation. If you'd like to invite me to a meeting, please give me a heads up and let me know what we'll be discussing. I work best when we have a meeting agenda shared ahead of time.
+Whenever possible [I prefer to communicate async](/company/culture/all-remote/asynchronous/), but I'm happy to have a meeting if async is not effective or appropriate for a situation. If you'd like to invite me to a meeting, please give me a heads up and let me know what we'll be discussing. I work best when we have a meeting agenda shared ahead of time.
 
 ### Audio setup
 

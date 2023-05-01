@@ -43,7 +43,7 @@ A renewal review meeting should have the following attendees:
 
 - Renewal DRI (AE or RM)
 - Customer Success Manager
-- Solutions Architecht, if an upsell is being discussed
+- Solutions Architect, if an upsell is being discussed
 
 For CSMs with larger books of business, it is appropriate to update an AE or SAE async that they are going to ask the soft renewal question in their next sync, to ensure they are aligned with other conversations that are ensuing.  
 
