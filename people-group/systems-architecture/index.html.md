@@ -41,7 +41,7 @@ flowchart TD
     X[Glassdoor]
     Y[Zoom]
     Z[Navan Expense]
-    AA[Netsuite]
+    AA[NetSuite]
 
     A --> P 
     linkStyle 0 stroke-width:2px,fill:none,stroke:green;
@@ -117,7 +117,7 @@ flowchart TD
 | Navex Global| SFTP Upload | one-way (reads from BambooHR) |TBD |
 | Compaas | TBD | one-way (reads from BambooHR) |TBD |
 | Navan Expense | Workato (API) | one-way (reads from BambooHR) | TBD |
-| Netsuite | Workato (API) | one-way (reads from BambooHR) | TBD |
+| NetSuite | Workato (API) | one-way (reads from BambooHR) | TBD |
 
 ### Greenhouse
 
