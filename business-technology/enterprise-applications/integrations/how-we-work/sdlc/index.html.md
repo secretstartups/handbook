@@ -98,7 +98,7 @@ graph TD
 | BT::In Progress                | This is for work that's in progress stage request                                                                                  | gitlab-com | scoped |
 | BT::Done               | This is for work completed by the assignee request                                                                                  | gitlab-com | scoped |
 | BT::Ready to Deploy                | This is for merge request ready to be deployed in master request                                                                                  | gitlab-com | scoped |
-| BT::Ready for Review                | This is for merge request ready for team memeber review request                                                                                  | gitlab-com | scoped |
+| BT::Ready for Review                | This is for merge request ready for team member review request                                                                                  | gitlab-com | scoped |
 | Bug               | This is for issues raised in the delivered work request                                                                                  | gitlab-com | scoped |
 
 

@@ -86,7 +86,7 @@ This is a running list of applications we have enabled SSO for. All of this work
 - Mavenlink
 - Xactly CEA
 - Allocadia
-- Docusign
+- DocuSign
 - Outreach
 - CustomersDot
 - LicenseApp
@@ -232,11 +232,11 @@ A custom connector to accelerate the development of GitLab integrations within W
 
 ### FY2021 - Q4
 
-#### Zuora Billing > Netsuite
+#### Zuora Billing > NetSuite
 
 **Synopsis:**
 
-Automates the synchronization of billing journal entries to Netsuite for month close.
+Automates the synchronization of billing journal entries to NetSuite for month close.
 
 **Impacted team(s):**  
 
@@ -249,11 +249,11 @@ Automates the synchronization of billing journal entries to Netsuite for month c
 
 ### FY2021 - Q3
 
-#### Bamboo HR <> Expensify <> Netsuite Sync
+#### Bamboo HR <> Expensify <> NetSuite Sync
 
 **Synopsis:**
 
-Utilising Workato to automatically synchronise team members and their managers from Bamboo HR into the correct Expensify policy as well as creating a vendor record in Netsuite.
+Utilising Workato to automatically synchronise team members and their managers from Bamboo HR into the correct Expensify policy as well as creating a vendor record in NetSuite.
 
 **Impacted team(s):**  
 

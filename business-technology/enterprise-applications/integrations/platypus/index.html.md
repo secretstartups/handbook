@@ -31,7 +31,7 @@ An additional benefit to housing your integrations in Platypus is that you have 
 ## For Product/Engineering
 At GitLab we have a broad ecosystem of internal and SaaS tools that are varying in technologies, APIs (REST, GraphQL, SOAP, FTP flat files), auth models, stability, support etc. For systems that do not live within the GitLab product, ownership is spread across many teams with varying expertise and engineering knowledge. The Enterprise Applications team is a specialised technical team that lives in the Business Technology function who's primary goal is to engage team members across GitLab and assist them in implementing their systems, integrating them into the wider ecosystem and support them in the long term. Part of this Enterprise Applications team is the Integrations Engineering team whose primary focus is building and maintaining the underlying technology that facilitates scale for the broader GitLab team and software ecosystem all the while keeping in mind our security and compliance objectives. The Integrations team is the DRI for all ingress and egress from the Enterprise Applications ecosystem that includes all software we have built or bought that isn't part of the GitLab product.
 
-[Platypus](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus) is a Typescript application running on node.js that is built on the [Nestjs framework](https://nestjs.com/). It is opinionated both in terms of how code should be written, as well as how we want to build integrations at GitLab to meet our broader company goals. It is however a generic framework built in a generic programming language, run on generic infrastructure. It is very flexible in terms of what types of projects can be built with it. As of now the primary purpose of the project is to build APIs and scheduled automations so that other teams and software can consume those APIs in order to integrate data. There are plan on the horizon to build some basic user interfaces to manage these integrations but in general we are not planning to build any rich application UIs of our own that would hit this backend. If those plans change we will post that information on our handbook pages.
+[Platypus](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus) is a Typescript application running on node.js that is built on the [Nest.js framework](https://nestjs.com/). It is opinionated both in terms of how code should be written, as well as how we want to build integrations at GitLab to meet our broader company goals. It is however a generic framework built in a generic programming language, run on generic infrastructure. It is very flexible in terms of what types of projects can be built with it. As of now the primary purpose of the project is to build APIs and scheduled automations so that other teams and software can consume those APIs in order to integrate data. There are plan on the horizon to build some basic user interfaces to manage these integrations but in general we are not planning to build any rich application UIs of our own that would hit this backend. If those plans change we will post that information on our handbook pages.
 
 ## For SysAdmins
 The Enterprise Applications Integrations team and Platypus are here to make your life as easy as possible. You can think of Platypus as a central hub for system integrations where data can flow in real-time around the Enterprise Applications ecosystem. We will use the integrations platform tools we have to build the automations and integrations that you need to make your
@@ -62,20 +62,20 @@ This is the integrations team's first official release of Platypus. It contains 
 #### Application
 - Queueing support via the Bull library
     - [Bull Project](https://github.com/OptimalBits/bull)
-    - [Nestjs Docs](https://docs.nestjs.com/techniques/queues#queues)
+    - [Nest.js Docs](https://docs.nestjs.com/techniques/queues#queues)
 - Bull Board UI integrated into the main platypus app (screenshot below)
     - [Bull Board Project](https://github.com/felixmosh/bull-board)
 - CRON Scheduling
-    - [Nestjs Docs](https://docs.nestjs.com/techniques/task-scheduling#task-scheduling)
+    - [Nest.js Docs](https://docs.nestjs.com/techniques/task-scheduling#task-scheduling)
 - CQRS/Mediator request handling architecture
-    - [Nestjs Docs](https://docs.nestjs.com/recipes/cqrs#cqrs)
+    - [Nest.js Docs](https://docs.nestjs.com/recipes/cqrs#cqrs)
 - Outgoing Slack Integration
     - [Slack Node SDK](https://github.com/slackapi/node-slack-sdk) - **Note: There are plans to move to the bolt library once it fully supports Typescript**
 - Workato Services API Integration
     - Allows us to leverage built in connectors in Workato
 - PostgresDB with ORM and Migrations
     - [TypeORM Project](https://typeorm.io/#/)
-    - [Nestjs Docs](https://docs.nestjs.com/recipes/sql-typeorm#sql-typeorm)
+    - [Nest.js Docs](https://docs.nestjs.com/recipes/sql-typeorm#sql-typeorm)
 - Parent-Child Queue job orchestration
 - Automatic Swagger API documentation generation (OpenAPI Spec 3) (screenshot below)
     - [API Docs](https://production.ci.nexus.gitlabenvironment.cloud/docs/static/index.html)
