@@ -31,7 +31,7 @@ All our internal competitive intelligence (competitor cards, internal webinars a
 
 For more information on Crayon, see our [competitive intelligence page in the internal handbook](https://internal-handbook.gitlab.io/handbook/marketing/brand-and-product-marketing/)
 
-Access to Crayon has been opened to all our Sales, Product, Engineering, and Marketing teams. You can access Crayon through the Okta tile (search for it within Okta if it doesn't appear on your list). In the spirit of the GitLab value of collaboration, all accounts are given "collaborator" level access, meaning all users can create and edit content in the same way as the competitive intelligence team. Users may be downgraded to "viewer" access if neccessary.
+Access to Crayon has been opened to all our Sales, Product, Engineering, and Marketing teams. You can access Crayon through the Okta tile (search for it within Okta if it doesn't appear on your list). In the spirit of the GitLab value of collaboration, all accounts are given "collaborator" level access, meaning all users can create and edit content in the same way as the competitive intelligence team. Users may be downgraded to "viewer" access if necessary.
 
 If you are not in these teams and require access, reach out to @jkempton on slack with your request.
 

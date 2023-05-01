@@ -26,14 +26,14 @@ Creating a nice look when recording with a green screen requires soft, even ligh
 ##### Audio
 - Shotgun Microphone (for camera) - [Example](https://www.bhphotovideo.com/c/product/1183909-REG/rode_videomicro_compact_on_camera.html?sts=pi&pim=Y)
 - Lav Microphone Kit - [Example](https://www.bhphotovideo.com/c/product/1385594-REG/sennheiser_ew_112p_g4_a1_ew_112p_g4_camera.html?gclid=CjwKCAiAkan9BRAqEiwAP9X6UcPXPNWTfrUHoz9YxiCTsjaXN0MTO3lKNQGHjHAO9Ys68UAY2aOA2xoC3jkQAvD_BwE&pcur=CAD)
-- Adapter to connect Lav reciever to Camera - [Example](https://www.bhphotovideo.com/c/product/1537930-REG/kondor_blue_kb_mxlr_16_bk_mini_xlr_male_to.html). 
+- Adapter to connect Lav receiver to Camera - [Example](https://www.bhphotovideo.com/c/product/1537930-REG/kondor_blue_kb_mxlr_16_bk_mini_xlr_male_to.html). 
 ##### Green Screen
 - Free Standing Green Screen - [Example](https://www.bhphotovideo.com/c/product/910676-REG/lastolite_ll_lb7622_panoramic_background_13_chromakey.html)
 ##### Lights
 - 3 Panel Light Kit with Stands - [Example](https://www.bhphotovideo.com/c/product/1492249-REG/gvm_800d_rgb_3l_800d_rgb_led_video_studio.html)
 ##### Camera Support
 - Tripod - [Example](https://www.bhphotovideo.com/c/product/1527795-REG/manfrotto_mkelmii4bk_bh_element_mii_aluminum_tripod.html)
-- Optional clamp to support Lav reciever - [Example](https://www.bhphotovideo.com/c/product/1422139-REG/smallrig_2164_multi_functional_crab_shaped_clamp.html)
+- Optional clamp to support Lav receiver - [Example](https://www.bhphotovideo.com/c/product/1422139-REG/smallrig_2164_multi_functional_crab_shaped_clamp.html)
      - Thread Adapter for above clamp - [Example](https://www.bhphotovideo.com/c/product/838895-REG/impact_ca_109_short_1_4_20_female_to.html) 
 ##### Teleprompter (Optional)
 - Teleprompter - [Example](https://www.amazon.com/Glide-Gear-TMP100-Adjustable-Teleprompter/dp/B019AJOLEM). 

@@ -29,7 +29,7 @@ Elgato lights are packad with easy to follow directions in cardboard.
 
 After setup, Elgato brand lights are controlled entirely via your computer or phone using the Elgato Control Center Software. 
 
-_Please note: On Macbooks, the Elgato Control Software appears only at the top right corner of the screen. This will occasionally make it appear as if attempting to open the via the applications menu did nothing. Click on the icon in the upper right corner to open the controls for the light._ 
+_Please note: On MacBooks, the Elgato Control Software appears only at the top right corner of the screen. This will occasionally make it appear as if attempting to open the via the applications menu did nothing. Click on the icon in the upper right corner to open the controls for the light._ 
 
 ### External Resources
 
