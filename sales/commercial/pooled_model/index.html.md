@@ -130,11 +130,11 @@ Cases will be created for these QSR opps that are > 14 days old, which will subs
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
-As detailed under the preceeding trigger, however the case will have the subject **RT: Failed QSR: XX.XX.XXXX**
+As detailed under the preceding trigger, however the case will have the subject **RT: Failed QSR: XX.XX.XXXX**
 
 ### EoA Renewals - Reactive Trigger
 
@@ -147,7 +147,7 @@ Cases will be created for these which will subsequently drop into the Pooled Sal
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -164,7 +164,7 @@ Cases will be created for these which will subsequently drop into the Pooled Sal
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -181,7 +181,7 @@ Cases will be created for these which will subsequently drop into the Pooled Sal
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -198,7 +198,7 @@ Cases will be created for these which will subsequently drop into the Pooled Sal
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -217,7 +217,7 @@ Note that a case may be created based on a past due renewal opp that also previo
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -234,7 +234,7 @@ Cases will be created for these which will subsequently drop into the Pooled Sal
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -251,7 +251,7 @@ Cases will be created for these which will subsequently drop into the Pooled Sal
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -268,7 +268,7 @@ Cases will be created for these which will subsequently drop into the Pooled Sal
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -285,7 +285,7 @@ Cases will be created for these which will subsequently drop into the Pooled Sal
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -302,7 +302,7 @@ These cases will subsequently drop into the Pooled Sales Queue.
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -318,7 +318,7 @@ When a customer fills in the Pooled Team Web Form form, a case is automatically 
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -334,7 +334,7 @@ When a customer fills in the Sales Contact Us form, a case is automatically crea
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -350,7 +350,7 @@ When a customer Hand Raises, a case is automatically created that enters the Poo
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -366,7 +366,7 @@ When a customer completes a survey, Self Service Ops creates a case that enters 
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -382,7 +382,7 @@ When a customer completes a survey, Self Service Ops creates a case that enters 
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 
@@ -398,7 +398,7 @@ When an SDR they interacts with a Pooled Customer, and they need to hand over th
 
 #### Policy
 
-As detailed under the preceeding trigger.
+As detailed under the preceding trigger.
 
 #### AE Steps
 

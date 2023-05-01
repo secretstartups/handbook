@@ -149,7 +149,7 @@ Working with local partners can speed up your sales cycles, increase the overall
 1. Prepare a list of prospect accounts you want to outbound (ideally Rank 1 or 1,5 accounts) and share with your preferred partners to see how they can help with prospecting. Partners may have worked with top tier accounts in the past and can provide warm introductions or they can help us with prospecting as some have their own GitLab dedicated BDR teams. 
     1. Work together with your channel manager to help partners arrange webinars, workshops etc.
     1. Promote partners webinars by creating [Outreach Sequences](https://app1a.outreach.io/sequences/7941) to share with prospects.
-    1. If you don’t have any contacts on SFDC that you can invite, use a Linkedin Sequence to invite fresh prospects to webinars.
+    1. If you don’t have any contacts on SFDC that you can invite, use a LinkedIn Sequence to invite fresh prospects to webinars.
 
 #### **Working on opportunities with Partners** 
 1. Familiarize yourself with the GitLab [Partner Program Discount Details](https://docs.google.com/document/d/1lMQHlSMEJQCH1HJnr-MdeVozZ9HJI0oVPmfbPWbJkyw/edit)
