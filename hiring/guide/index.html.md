@@ -65,7 +65,7 @@ DRI: Candidate Experience Team
 1. Once you have scheduled the interviews that need to be scheduled, click on the guide chrome extension in the upper right corner.
 1. Select Preview and Send and ensure the correct Email Template is being used in the dropdown.
    - First time candidate is receiving Guide - `Interview Confirmation - First Time - Single Interview`
-   - One interview scheduled and candidate already recieved Guide link - `Interview Confirmation - Single Interview`
+   - One interview scheduled and candidate already received Guide link - `Interview Confirmation - Single Interview`
    - Multiple interviews scheduled - `Multi-Interview Confirmation`
 1. Select Send
 1. To make the chrome extension go away, click on the icon in the upper right corner again
