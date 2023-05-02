@@ -125,6 +125,37 @@ The Senior Accountant is a [grade 7](https://about.gitlab.com/handbook/total-rew
 - 5-7 years public accounting experience
 - Have or actively pursuing CPA
 
+### Senior General Ledger Accountant, Team Lead
+
+The Senior General Ledger Accountant, Team Lead reports to the Senior Manager, Accounting.
+
+#### Job Grade
+
+The Lead General Ledger Accountant, Accounting is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior General Ledger Accountant, Team Lead Responsibilities
+
+- Leads meetings on their topic area, topics such as payroll, AP, cash or commissions
+- Guides the general accounting activities for their assigned areas, including recording company transactions, reviewing transactions, classifications, and reconciliation of account balances in accordance with GAAP and company policy
+- Play a vital part in the company’s financial management which includes account reconciliations and reporting to necessary parties, including Senior Manager of Accounting, Director of Accounting, and VP Controller
+- Help manage a timely and accurate month end close by reviewing various journal entries and account reconciliations for various accounts.
+- Key participant in process improvement initiatives in Financial Close, Commissions Accounting and Director’s Bonus
+- Responsible for the timely and accurate preparation and reporting of financial information and ensuring that information adheres to GAAP and internal company policies
+- Prepare flux analysis for the month end that summarizes and tells the “story” of the activity
+- Ensure compliance with Sarbanes-Oxley Section 404 key controls in the financial areas of responsibility, as applicable, and work with IA to update key controls as necessary
+- Monitor the need for business process improvements and assist with the design processes, procedures, and reporting enhancements to improve financial and operational processes.
+- Part of the development and implementation of systems related to the accounting team.
+- Point person for audit requests from internal and external auditors for assigned areas as needed
+- Can cover for manager during PTO or other absences as needed
+- Supports development of the team through coaching and mentorship of GL Accountants as needed
+
+#### Lead General Ledger Accountant, Accounting Requirements
+
+6-8 years experience with 2-3 years in public accounting
+Have or actively pursuing CPA
+
+
+
 ### Manager, Accounting
 
 The Manager, Accounting reports to the [Senior Manager, Accounting](https://about.gitlab.com/job-families/finance/accountant/).
