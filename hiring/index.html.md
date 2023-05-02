@@ -34,6 +34,9 @@ As we set out over the next decade to achieve this vision, we will continue to r
   1. **Inclusivity**: Applying best practices in the craft of Talent Acquisition has an outsized impact on our ability to build a representative workforce here at GitLab. By embedding inclusivity as a guiding principle, we design fair and equitable processes into the fabric of all that we do, rather than retroactively adding parameters to solve systemic challenges in the societies we exist in   
   1. **Predictability**: Our ability to have the right people, in the right jobs, at the right time is imperative to our ability to execute our commitments and plans as an organization. In order to achieve that, our team must design with an eye for accuracy and forecastability in any program, process or experience we enable. 
 
+### Our Objectives and Roadmap
+We strive to be as transparent as possible, but these sections are only available for our GitLab team members.
+[FY24 TA Strategy](https://docs.google.com/document/d/1Q9ui_BZLRPBAYpRtdtpHVSvGzW3g7JtVYkGj_KqwZBA/edit#heading=h.riu5wc8sjmum)
 
 ## Hiring pages
 - [Meeting Cadence](/handbook/hiring/meetings/)
