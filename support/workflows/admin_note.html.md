@@ -19,7 +19,7 @@ The admin note serves as a quick reference for any account changes or action per
 If you encounter a situation with the following cases, an admin note is required.
 
 - User requested change
-- Compute credits reset
+- Compute units reset
 - Legal case
 - Security or Abuse case
 
@@ -71,5 +71,5 @@ User Blocked:
 Name Squatting Rename:
 `2023-01-16 | Name Squatting Request | https://gitlab.zendesk.com/agent/tickets/123`
 
-Compute credits reset:
-`2023-01-16 | Compute credits reset | Bug | https://gitlab.zendesk.com/agent/tickets/123`
+Compute units reset:
+`2023-01-16 | Compute units reset | Bug | https://gitlab.zendesk.com/agent/tickets/123`

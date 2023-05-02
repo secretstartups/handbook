@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Handling compute credits
-description: Adjusting compute credits
+title: Handling units of compute
+description: Adjusting units of compute
 category: GitLab.com subscriptions & purchases
 ---
 ## On this page
