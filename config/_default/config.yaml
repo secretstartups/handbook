@@ -1,11 +1,15 @@
 baseURL: https://handbook.gitlab.com
-languageCode: en-us
+languageCode: en-US
+locale: en-US
 title: The GitLab Handbook
 
 social:
   twitter: GitLab
 
 params:
+  title: The GitLab Handbook
+  defaultContentLanguage: en
+  locale: en-US
   description: Learn more about GitLab and what makes us tick.
   images:
       - images/gitlab-cover.png
