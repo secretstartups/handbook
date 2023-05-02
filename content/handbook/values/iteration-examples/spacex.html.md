@@ -6,6 +6,7 @@ canonical_path: "/handbook/values/iteration-examples/spacex.html"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -15,10 +16,10 @@ canonical_path: "/handbook/values/iteration-examples/spacex.html"
 
 SpaceX has been one of the few private companies who have been able to break into the space launch business, with a number of firsts ([full list](https://en.wikipedia.org/wiki/SpaceX#Summary_of_achievements)):
 
-* First private company to successfully launch, orbit, and recover a spacecraft.
-* First private company to send a human-rated spacecraft to orbit.
-* First reuse, reflight and landing of an orbital first stage.
-* Largest commercial satellite constellation operator in the world.
+- First private company to successfully launch, orbit, and recover a spacecraft.
+- First private company to send a human-rated spacecraft to orbit.
+- First reuse, reflight and landing of an orbital first stage.
+- Largest commercial satellite constellation operator in the world.
 
 While there are likely many reasons for their success, Elon Musk highlighted in [an interview with Tim Dodd](https://www.youtube.com/watch?v=t705r8ICkRw) their process for building new features and products. It is composed of five steps:
 
@@ -32,12 +33,12 @@ It is worth going into each of these in more detail, and how they can relate to 
 
 ### Challenge and refine requirements
 
-Elon says in the interview: 
+Elon says in the interview:
 
 > Your requirements are definitely dumb. It does not matter who gave them to you. It’s particularly dangerous if a smart person gave you the requirements because you might not question them enough.
-> 
+>
 > ...
-> 
+>
 > Everyone’s wrong, no matter who you are, everyone’s wrong some of the time. Also, whatever requirement or constraint you have it must come with a name, not a department. Because you can’t ask the department, you have to ask a person. And that person who’s pulling for the requirement or constraint must agree that they must take responsibility for that requirement.
 
 
@@ -50,13 +51,13 @@ These two actions help to ensure our requirements are "less dumb" and it is clea
 
 ### Try to remove part/process
 
-Elon says in the interview: 
+Elon says in the interview:
 
 
 > The bias tends to be very strongly towards lets’s add this part of the process in case we need it, but you can basically make “in case” arguments for so many things.
-> 
+>
 > ...
-> 
+>
 > This is actually very important. If you’re not occasionally adding things back in, you are not deleting enough.
 
 
@@ -72,23 +73,23 @@ As you are building new features or introducing new code/processes, ask whether 
 
 For GitLab and software companies, one can translate this into a few recommended actions:
 
-1. Challenge yourself on whether a given setting or feature is required. Is there a possibility to utilize [convention over configuration](https://about.gitlab.com/handbook/product/product-principles/#convention-over-configuration)? Each setting/feature generates an on-going maintenance cost, as well as cognitive load on users. 
+1. Challenge yourself on whether a given setting or feature is required. Is there a possibility to utilize [convention over configuration](https://about.gitlab.com/handbook/product/product-principles/#convention-over-configuration)? Each setting/feature generates an on-going maintenance cost, as well as cognitive load on users.
 1. If you believe a feature is needed, ask yourself if there is a more general purpose way of solving this. Is there a small building block feature which could enable users to solve this problem, but also unlock the possibility to solve others? Could another feature be re-used or extended? An example of this is GitLab CI, where we provide a set of building blocks which users can assemble in many ways to solve a wide variety of problems, as well as incident management which re-uses issues.
 
 [Convention over Configuration](https://about.gitlab.com/handbook/product/product-principles/#convention-over-configuration)
 
 ### Accelerate cycle time
 
-Elon notes in the interview: 
+Elon notes in the interview:
 
-> You’re moving too slowly, go faster. But don’t go faster until you work on the other three things first. 
-> 
-> If you’re digging, you know, your grave, don’t dig it faster. Stop digging your grave, you know. 
+> You’re moving too slowly, go faster. But don’t go faster until you work on the other three things first.
+>
+> If you’re digging, you know, your grave, don’t dig it faster. Stop digging your grave, you know.
 
 This principle aligns well with a few of GitLab's core values, such as:
 
-* [Iteration](https://about.gitlab.com/handbook/values/#iteration)
-* [Velocity over predictabitlity](https://about.gitlab.com/handbook/engineering/development/principles/#velocity-over-predictability)
+- [Iteration](https://about.gitlab.com/handbook/values/#iteration)
+- [Velocity over predictabitlity](https://about.gitlab.com/handbook/engineering/development/principles/#velocity-over-predictability)
 
 ### Automate
 

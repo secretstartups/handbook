@@ -75,7 +75,7 @@ The Senior Security Manager is a [grade 9](/handbook/total-rewards/compensation/
 
 ### Hiring Process
 
-Candidates for the senior manager positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for the senior manager positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with a Director of Security to which the position reports to
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with additional directors and managers within the Security Organization
@@ -110,7 +110,7 @@ The Director, Security Assurance is a [grade 10](/handbook/total-rewards/compens
 
 ### Hiring Process
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with CISO
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
@@ -147,7 +147,7 @@ The Director, Application Security is a [grade 10](/handbook/total-rewards/compe
 
 ### Hiring Process
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with CISO
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
@@ -190,7 +190,7 @@ controls, and common security flaws that apply to Ruby on Rails applications
 
 ### Hiring Process
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with CISO
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
@@ -261,7 +261,7 @@ The Senior Director, Security Assurance is a [grade 11](/handbook/total-rewards/
 
 ### Hiring Process
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with CISO
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with directors and reporting managers within the Security Organization
@@ -321,7 +321,7 @@ Great candidates will have some meaningful proportion of the following.
 
 ### Hiring Process
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with CISO
 - Candidates will then be invited to schedule separate 60 minute interviews with three leaders of the organization
