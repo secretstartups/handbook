@@ -2,6 +2,9 @@ baseURL: https://handbook.gitlab.com
 languageCode: en-us
 title: The GitLab Handbook
 
+social:
+  twitter: GitLab
+
 params:
   description: Learn more about GitLab and what makes us tick.
   images:
