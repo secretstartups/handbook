@@ -19,7 +19,7 @@ An Account Escalation may be initiated by Support Engineering (Support Managers 
 
 ### Account Escalation Team
 
-Each escalation will have an [Escalation DRI](https://about.gitlab.com/handbook/customer-success/csm/escalations/#escalation-dri) and a team of people contributing toward the successful outcome of the escalation. Throughout this page, the term "escalation team" refers to the following (this list may include some or all of the roles mentioned above):
+Each escalation will have an [Escalation DRI](https://about.gitlab.com/handbook/customer-success/csm/escalations/#escalation-dri) leading a team of people contributing toward the successful outcome of the escalation. The team will consist of some (at a minimum the Escalation DRI, Lead Support Engineer, and Support Manager DRI) or all of the following roles:
 
 - Escalation DRI
     - CSM for critical or high severity escalations
@@ -32,10 +32,12 @@ Each escalation will have an [Escalation DRI](https://about.gitlab.com/handbook/
 
 ## Responsibilities of the Support Manager DRI
 
-The Support Manager DRI has two main goals:
+The Support Manager DRI has the following goals:
 
 1. Minimize uncertainties by turning them into well defined risks
 1. Help define a set of exit criteria (goals) for the escalation, and guide the efforts of the Support team to work toward achieving those criteria
+1. Create and maintain the [Support Escalation issue](https://gitlab.com/gitlab-com/support/escalated-customers/-/issues/new?issuable_template=incident&issue%5Bissue_type%5D=incident) to document our scope and exit criteria, along with other critical details tied to the Escalation
+1. Create and maintain the [Escalation retrospective issue](https://gitlab.com/gitlab-com/support/escalated-customers/-/issues/new?issuable_template=account-escalation-retro) linked to the Escalation issue for follow up once an escalation is closed 
 
 Additionally, the Support Manager DRI may also be the [Escalation DRI](/handbook/customer-success/csm/escalations/#escalation-dri) for low or medium severity escalations.
 
@@ -63,21 +65,25 @@ To serve as Support Manager DRI for an Account Escalation, use the following ste
 ### Step 0: Preparation
 
 - Ensure the [Customer Success Escalations Process](/handbook/customer-success/csm/escalations/) has been followed.
-- Review all recent support tickets that have been opened by the customer to help you determine the right Lead Support Engineer for the escalation, keeping the customer's timezone in mind.
+- Obtain a clear scope of the customer issues that led to the need for escalation to help you determine the right Lead Support Engineer for the escalation, keeping the customer's timezone in mind. A review of all recent support tickets opened by the customer can help further define this scope.
 
     **NOTE:** We are currently trialing an [Escalations-focused Support Engineer role](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4545#designated-escalations-focused-engineers-for-this-trial) in AMER under [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4545). Please reach out to the designated engineer(s) as a first point of contact either to step in as the technical lead or to provide technical guidance and support to the Lead Support Engineer.
 
-- Check (tick) the organization `Escalated State` field in ZenDesk. 
+- [Open an issue with Support Ops](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues) to ask that they check the `Escalated State` field for the organization in ZenDesk. 
     - This will add the `org_in_escalated_state` tag to all future tickets opened by the customer.
     - This tag will [add a NOTE to the organization notes](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/triggers/uploads/c9a3e2843eff23572100b53cfca0da0c/Screen_Shot_2022-09-07_at_4.46.01_PM.png) signifying that the account is in an escalated state.
 
-- Open an [incident issue](https://gitlab.com/gitlab-com/support/escalated-customers/-/issues/new?issuable_template=incident&issue%5Bissue_type%5D=incident) under the [Escalated Customers](https://gitlab.com/gitlab-com/support/escalated-customers) project to track Support's technical efforts toward resolution.
+- Open a [Support escalation issue](https://gitlab.com/gitlab-com/support/escalated-customers/-/issues/new?issuable_template=incident&issue%5Bissue_type%5D=incident) under the [Escalated Customers](https://gitlab.com/gitlab-com/support/escalated-customers) project to serve as our Support escalation portfolio. This portfolio will include important details of the escalation, such as Support's purpose (why we are involved), our goals (clear definition of the exit criteria), along with a list of tickets and issues that are tied to the escalation.
+    - Consider using the [timeline events](https://docs.gitlab.com/ee/operations/incident_management/incident_timeline_events.html) feature (available only if you create the issue as an incident) to track escalation updates, milestones, communication, and key events.
 
-    - Consider using the [timeline events](https://docs.gitlab.com/ee/operations/incident_management/incident_timeline_events.html) feature to track escalation updates, milestones, communication, and key events.
+- Open a [Support Escalation Retrospective issue](https://gitlab.com/gitlab-com/support/escalated-customers/-/issues/new?issuable_template=account-escalation-retro), linking it to the escalation issue, for proactive input and post-escalation follow-up.
+
 
 ### Step 1: Lead Support Engineer Assignment
 
 - Assign a Support Engineer to act as the **Lead Support Engineer** during an Account Escalation. Please ensure that you find an engineer who is in the same region as the escalated customer.
+
+    - If the escalation requires global effort, work with the on-call managers to identify Lead Support Engineers in those other regions.
 
     - For the AMER region, please reach out to the [Escalations-focused Engineer](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4545#designated-escalations-focused-engineers-for-this-trial) to take lead or to provide backend support if they are already leading another escalation (see [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4545) for more details).
 
@@ -89,20 +95,20 @@ To serve as Support Manager DRI for an Account Escalation, use the following ste
 
 From a technical perspective, the Lead Support Engineer will orchestrate the resolution, but they are not expected to be the sole technical owner of the escalation. Their role will be to guide the collaborative efforts between all regions and development teams in order to ensure prompt resolution of the issue.
 
-### Step 2: Define Scope
+### Step 2: Define Scope and Exit Criteria
 
-- Define a clear scope of work with the escalation team. Be sure to state the exit criteria (goals).
+- Define a clear scope of work with the escalation team. Be sure to state the exit criteria (goals). Both the scope and exit criteria need to be documented in the Support Escalation issue.
 
-- Through collaboration with the customer, identify the tickets that relate directly to the escalation.
+- Through collaboration with the customer, identify the tickets that relate directly to the escalation, and note those in the Support Escalation issue.
 
     - The Lead Support Engineer should take assignment of all related tickets.
     - Support Manager DRI's should add themselves to the CC list of all related tickets.
 
 - Make sure the customer understands that lower priority tickets that are out of scope of the escalation may be delayed to ensure our focus remains on the escalated tickets.
 
-### Step 3: Daily Updates
+### Step 3: Escalation Progress Updates
 
-Work with the escalation team to provide daily updates in the related Slack channel for the Account Escalation. This is a channel with a name in the format `#a_<CUSTOMER>_escalation`. These updates should include the following:
+Work with the escalation team to provide daily or weekly updates in the related Slack channel for the Account Escalation. This is a channel with a name in the format `#esc_<CUSTOMER>`. These updates should include the following:
 
 - Progress toward achieving the exit criteria
 - Status
@@ -110,9 +116,9 @@ Work with the escalation team to provide daily updates in the related Slack chan
 - Next steps
 - Blockers
 
-Help maintain updates (in collaboration with the escalation team) to the escalation tracker Google doc (used to track executive summary updates and customer meeting minutes) and the technical incident issue created under the [Escalated Customers](https://gitlab.com/gitlab-com/support/escalated-customers) project to track Support's technical efforts and progress.
+Help maintain updates (in collaboration with the escalation team) to the escalation tracker Google doc (used to track executive summary updates and customer meeting minutes) and to the Support Escalation issue created under the [Escalated Customers](https://gitlab.com/gitlab-com/support/escalated-customers) project to track Support's technical efforts and progress.
 
-**Side note:** Future desire - consider syncing Slack and Google doc updates or Slack and incident issue updates via some form of automation.
+**Side note:** Future desire - consider syncing Slack and Google doc updates or Slack and Support Escalation issue updates via some form of automation.
 
 #### Pausing Daily Updates
 
@@ -136,15 +142,15 @@ Before closing the Account Escalation:
 
 - Review the steps listed in the [Customer Success Escalation Page](/handbook/customer-success/csm/escalations/#closing-the-escalation) and collaborate as needed to complete the closing steps.
 
-- Uncheck the organization `Escalated State` field in ZenDesk.
+- [Open an issue with Support Ops](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues) to ask that they uncheck the `Escalated State` field for the organization in ZenDesk.
 
     - The `org_in_escalated_state` tag will no longer be applied to future tickets opened by the customer. The organization notes will no longer display the escalated heading 1 note.
 
 ### Step 6: Retrospective
 
-- Open an issue using the `Retro` template in the [Escalated Customers](https://gitlab.com/gitlab-com/support/escalated-customers/-/issues/new?issuable_template=Retro) project.
+- In collaboration with the escalation team, complete the retrospective (within 3 weeks of escalation closure) in the issue created.
 
-- In collaboration with the escalation team, complete the retrospective, outlining any follow-up action items as tasks to the retro issue.
+- Lead the retrospective sync meeting (if one is deemed necessary) to collect any final feedback and ensure all team members are clear on any remaining action items and due dates.
 
 ## FAQ
 
