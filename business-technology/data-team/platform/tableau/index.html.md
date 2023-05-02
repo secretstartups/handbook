@@ -141,7 +141,7 @@ Please see the [project-permission-structure](/handbook/business-technology/data
 | Marketing                     | `@christinelee`, `@jahye1`                                      | Sub-Project Leader       | Code Owner |
 | People                        | `@aperez349`, `@mccormack514`                                   | Sub-Project Leader       | Code Owner |
 | Product                       | `@cbraza`                                                       | Sub-Project Leader       | Code Owner |
-| Engineering                   | `@cdeleon_gitlab`                                               | Sub-Project Leader       | Code Owner |
+| Engineering                   | `@cdeleon_gitlab`, `@gitlab-org/quality/engineering-analytics`  | Sub-Project Leader       | Code Owner |
 | Sales                         | `@aileenlu`                                                     | Sub-Project Leader       | Code Owner |
 | Finance: GTM Finance          | `@alixtucker`, `@nbernardo`, `@ofalken`, `@vagrawalg`           | Sub-Project Leader       | Code Owner |
 | Finance: Corporate Finance    | `@james.shen`, `@vagrawalg`                                     | Sub-Project Leader       | Code Owner |
