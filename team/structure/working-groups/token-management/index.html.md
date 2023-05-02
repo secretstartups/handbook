@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/token-management/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | August 16, 2022   |
-| Date Ended      | TBD  |
+| Date Ended      | April 25, 2023  |
 | Slack           | [#wg_token]() (only accessible from within the company) |
 | Google Doc      | [Token Management Working Group Agenda](https://docs.google.com/document/d/17X-P9vnKDa6WZ6m-0Hxf5aIFkEhmArUN069GgQ-6Dss/edit) (only accessible from within the company) |
 
@@ -44,7 +44,12 @@ The Token Management Working Group will deliver:
     * Status: Complete
     * Results: [Risk assessments](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues/354) and [effort estimations](https://docs.google.com/spreadsheets/d/1selwO27d-Tk2KMlSy5ozY1DnHu7GmGxKO6o7axO7omc/edit#gid=0)
 * Propose possible out-of-product workaround mitigations for the top 2 high effort high risk items
-    * Status: On track with no blockers or risks
+    * Status: Complete
+    * Results: [Proposed out-of-product workarounds](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1565)
+
+## Retrospective
+
+The retrospective for the Token Working Group was conducted on 2023-04-25 and details can be found in [the retro issue](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1587).
 
 ## Roles and Responsibilities
 
