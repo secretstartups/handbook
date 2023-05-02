@@ -95,9 +95,9 @@ Currently we have the following recurring meetings scheduled:
 
 ## Work
 
-The Product Manager compiles the list of issues following
+The Product Manager (PM) compiles the list of issues following
 the [product prioritization process](/handbook/product/product-processes/#prioritization),
-with input from the team, Engineering Manager, and other stakeholders.
+with input from the team, Engineering Manager (EM), and other stakeholders.
 The iteration cycle lasts from the 18th of one month until the 17th of the next month,
 and is identified by the GitLab version set to be released on the 22nd.
 
@@ -109,9 +109,9 @@ counterparts. Quality engineering is included in our workflow via the
 
 Before starting a milestone, the group coordinates using [planning issues](https://gitlab.com/gitlab-org/tenant-scale-group/group-tasks/-/issues/?label_name%5B%5D=Planning%20Issue).
 We follow this process:
-- The Product Manager defines the goals of the milestone.
+- The PM defines the goals of the milestone.
 - The team members comment about the issues they consider relevant for the milestone.
-- The Product Manager and Engineering Manager work together to decide the final list of issues.
+- The PM and EM work together to decide the final list of issues.
 - The whole team reviews the items lined up before the milestone begins.
 
 ### What To Work On
@@ -176,6 +176,92 @@ We track our work on the following issue boards:
 - [Data Stores:Tenant Scale milestones](https://gitlab.com/groups/gitlab-org/-/boards/5549104)
 - [Data Stores:Tenant Scale team members](https://gitlab.com/groups/gitlab-org/-/boards/5549106)
 - [Data Stores:Tenant Scale important](https://gitlab.com/groups/gitlab-org/-/boards/1438588)
+
+### Capacity Planning
+
+We use a simple issue weighting system for capacity planning, ensuring a
+manageable amount of work for each milestone. We consider both the team's
+throughput and each engineer's upcoming availability from PTO by Deel using a
+[Google Apps Script](https://script.google.com/home/projects/1cH4Hrv03Kf_dlqPyxPdoyxWcV_x2d2u2PKNnGP_YwNjGifjcD4c29GKJ/edit).
+
+The weights are intended to be used in aggregate, and what takes one person a
+certain amount of time may be different for another, depending on their level of
+knowledge of the issue. We should strive to be accurate, but understand that
+they are estimates. Change the weight if it is not accurate or if the issue
+becomes more difficult than originally expected. Leave a comment indicating why the
+weight was changed and tag the EM and PM so we can better understand the scope
+and continue to improve.
+
+#### Weights
+
+To weigh an issue, consider the following important factors:
+
+- Volume of work: expected size of the change to the code base.
+- Complexity:
+  - Problem understanding: how well the problem is understood.
+  - Problem-solving difficulty: the level of difficulty we expect to encounter.
+
+When estimating development work, please assign an issue the appropriate weight:
+
+| Weight | Description  | Examples |
+| --- | --- |
+| 1: Trivial | The simplest possible change. We are confident there will be no side effects. Negligible complexity. | Documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. |
+| 2: Small | A simple change (minimal code changes), where we understand all of the requirements. Some small uncertainties exist but we are confident of a solution. | Simple features, like a new API endpoint to expose existing data, or regular bugs or performance issues where all investigation has already taken place. |
+| 3: Medium | A change with a bigger code footprint (e.g. lots of different files, or tests affected). There are uncertainties that we will need to work through. | Regular features, potentially with a backend and frontend component, or most bugs or performance issues. |
+| 5: Large | A more complex change that will impact multiple areas of the codebase. There may also be some refactoring involved. Requirements are poorly understood and you feel there are multiple important gaps. We will need to break this issue into smaller pieces before we can begin a merge request. | Large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or understood. |
+
+Anything with a weight of 5 or larger should be broken down if possible.
+
+### Backlog Refinement
+
+Every week the engineering team completes a backlog refinement process
+to review upcoming issues. The goal of this effort is for all issues to have a
+weight so we can more accurately plan each milestone and also improve our
+knowledge sharing.
+
+In addition to the backlog refinement process, engineers can estimate any
+issues without following this backlog refinement process.
+
+#### Step 1: Identifying Issues for Refinement
+
+The team will identify issues that need to be refined using the
+`workflow::refinement` label. If there are issues that are good
+candidates for the backlog refinement process (without weight,
+unclear requirements, etc.), please use the label. We will refine
+a maximum of 5 issues per week. 
+
+The EM will use the [refinement script](https://gitlab.com/gitlab-org/tenant-scale-group/group-tasks/-/blob/main/scripts/refinement)
+to generate an issue with all the issues identified for refinement.
+
+#### Step 2: Refining Issues
+
+Over the week, each engineer on the team will look at the list of issues
+selected for backlog refinement. [Current backlog refinement
+issues](https://gitlab.com/gitlab-org/tenant-scale-group/group-tasks/-/issues/?label_name%5B%5D=workflow%3A%3Arefinement).
+
+For each issue, team members will review the issues and provide:
+
+- An estimated weight.
+- A proposal of how to break down the issue into different issues or merge requests.
+
+When refining issues, consider the following:
+
+- Keep the conversation on the original issues.
+- Update the issue description, implementation plan, and labels as more information is gathered.
+- For efficiency, engineers can also skip the refinement of some issues depending on the feedback that we already have.
+- Where the fix is clear and easy, engineers can assign the issue to themselves, give it a weight of 1 and push the fix.
+
+#### Step 3: Finalizing Refinement
+
+After engineers have had a chance to provide input, the EM or PM will:
+
+- Assign a weight.
+- Inform stable counterparts if there are any concerns.
+- Remove the `workflow::refinement` label.
+- Add the `workflow::ready for development` label.
+
+For any issues that were not discussed and given a weight, we will work with
+the engineers to see if we need to get more information from PM or UX.
 
 ### Retrospectives
 
