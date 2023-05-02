@@ -106,9 +106,11 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 - Exhibit strong security and confidentiality practices with systems that handle sensitive data.
 
 ## Career Ladder
+
 The next step in the  IT Manager, Enterprise Applications Engineer job family is to move to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/) job family.
 
 ## Hiring Process
+
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 - Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
@@ -118,4 +120,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - At the final stage candidates will meet with the VP of IT.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
-
