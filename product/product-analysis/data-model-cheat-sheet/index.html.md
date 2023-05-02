@@ -79,7 +79,7 @@ These categories are grouped by data source and subject area.
 
 <details markdown="1"><summary>Click to expand</summary>
 
-* [Categories of data collected: Subscription, Operational, Optional](/handbook/legal/privacy/services-usage-data/#categories-of-data-collected)
+* [Categories of data collected: Subscription, Operational, Optional](/handbook/legal/privacy/services-usage-data/#what-are-the-data-collection-services-that-constitute-product-usage-data)
   * [Operational metrics](https://metrics.gitlab.com/?q=operational)  
   * [Optional metrics](https://metrics.gitlab.com/?q=optional)
 
