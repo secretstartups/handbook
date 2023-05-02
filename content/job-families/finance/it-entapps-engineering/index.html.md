@@ -48,22 +48,22 @@ Extends the IT Enterprise Applications Administrator responsibilities:
 - Communication: Target audience Sr. Manager, Director, Sr. Director and functional VP.
 - Application Specific Skills:
    - SFDC:
-      - Build Salesforce solutions on Salesforce Cloud, Service Cloud, Marketing Cloud, Salesforce Communities or Knowledge
-      - Develop end to end Salesforce solutions using Configuration and Customization - APEX Class, Triggers, Visualforce pages, Lightning components etc.,
-      - Automate business processes using Salesforce automation tools, such as Process Builder, Workflows, Formulas, Flow, Assignment Rules and email Alerts
+      - Build Salesforce solutions on Salesforce Cloud, Service Cloud, Marketing Cloud, Salesforce Communities or Knowledge.
+      - Develop end to end Salesforce solutions using Configuration and Customization - APEX Class, Triggers, Visualforce pages, Lightning components etc.
+      - Automate business processes using Salesforce automation tools, such as Process Builder, Workflows, Formulas, Flow, Assignment Rules and email Alerts.
       - Build integrations between Salesforce and external applications using REST, SOAP APIs, oAuth and Single Sign-On.
-   - NetSuite: 
-      - Develop with NetSuite SuiteCloud development tools such as SuiteBuilder, SuiteFlow, SuiteAnalytics, and SuiteScript to develop new and maintain existing business workflows
-      - Build system integrations tools such as SuiteTalk, RESTlets and Netsuite SOAP APIs
-   - Workday: 
-      - Assist with the implementations, and post-production support, of Workday’s HCM Suite of modules 
-      - Develop technical integrations using Workday Studio, Workday RaaS Integrations, Enterprise Interface Builder (EIB), Calculated Fields, Web Services, Workday Custom Reports, Web Services, XSLT, and xPath
-      - Contribute to Workday R1/R2 release reviews and testing by identifying impact associated with new release features
+   - NetSuite:
+      - Develop with NetSuite SuiteCloud development tools such as SuiteBuilder, SuiteFlow, SuiteAnalytics, and SuiteScript to develop new and maintain existing business workflows.
+      - Build system integrations tools such as SuiteTalk, RESTlets and Netsuite SOAP APIs.
+   - Workday:
+      - Assist with the implementations, and post-production support, of Workday’s HCM Suite of modules.
+      - Develop technical integrations using Workday Studio, Workday RaaS Integrations, Enterprise Interface Builder (EIB), Calculated Fields, Web Services, Workday Custom Reports, Web Services, XSLT, and xPath.
+      - Contribute to Workday R1/R2 release reviews and testing by identifying impact associated with new release features.
 
 ### IT Enterprise Applications Engineer Requirements
 
 - Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience.
-- 3-5 years of experience implementing, configuring, customizing and integrating SaaS software Eg: SalesForce, DocuSign CLM, Netsuite, Zuora Billing, Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.   
+- 3-5 years of experience implementing, configuring, customizing and integrating SaaS software Eg: SalesForce, DocuSign CLM, Netsuite, Zuora Billing, Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.
 - Be a self-starter, and thrive in a fast paced environment, customer centric and have the interpersonal skills necessary to manage business and technology relationships.
 - Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
 - Exhibit strong security and confidentiality practices with systems that handle sensitive data.
@@ -71,16 +71,16 @@ Extends the IT Enterprise Applications Administrator responsibilities:
    - SFDC:
       - Development experience with advanced Salesforce.com development tools and techniques (e.g. Apex language, Force.com custom development, triggers, controllers, JavaScript, Force.com SOAP and REST APIs, JSON, AngularJS, jQuery, JavaScript, sObjects, SOQL, SOSL, Chatter APIs, outbound messaging, Bootstrap, Lightning Design System (LDS), Lightning Components and Visualforce pages).
       - Strong preference for candidates who are Salesforce.com certified in the following areas - Certified Platform Developer I, Certified Platform Developer II.
-      - Experience with ETL tools like MuleSoft, Workato or Informatica Cloud would be a plus
+      - Experience with ETL tools like MuleSoft, Workato or Informatica Cloud would be a plus.
    - NetSuite:
-      - Full understanding of NetSuite stack and experience with all NetSuite modules (GL, AP, AR, FA, SuiteBilling, Procurement, etc.)
-      - Working knowledge of SuiteScript, SuiteTalk, SuiteFlow, CSV imports, user provisioning, defining roles, analytics, and scheduling scripts
-      - Expertise in web technologies such as HTML, CSS, JavaScript, Web Services, and Eclipse
-      - Strong data analytics, reporting, and database experience (SQL and NetSuite and other reporting tools, ODBC)
+      - Full understanding of NetSuite stack and experience with all NetSuite modules (GL, AP, AR, FA, SuiteBilling, Procurement, etc.).
+      - Working knowledge of SuiteScript, SuiteTalk, SuiteFlow, CSV imports, user provisioning, defining roles, analytics, and scheduling scripts.
+      - Expertise in web technologies such as HTML, CSS, JavaScript, Web Services, and Eclipse.
+      - Strong data analytics, reporting, and database experience (SQL and NetSuite and other reporting tools, ODBC).
    - Workday:
-      - Strong technical experience with XSLT, XTT, XML and object-oriented development including Java 
-      - Experience with Web Services and APIs (WSDL, SOAP, REST and WS standards)
-      - Experience with building web services integrations (REST/SOAP)
+      - Strong technical experience with XSLT, XTT, XML and object-oriented development including Java.
+      - Experience with Web Services and APIs (WSDL, SOAP, REST and WS standards).
+      - Experience with building web services integrations (REST/SOAP).
 
 ### IT Manager, Enterprise Applications Engineering
 
@@ -91,7 +91,8 @@ IT Manager, Enterprise Applications Engineering is a [grade 8](https://about.git
 Extends the IT Enterprise Applications Engineer responsibilities:
 
 - Business Partnership: Influences leadership within the cross-functional team and assists in roadmap planning. Solid relationships with key stakeholders at the VP level.
-- Business Operations: Analyze and plan improvements in technical implementations to continue to deliver value to business partners. Drive the business to adopt recommended technical solutions. Document related processes and technical configurations in the handbook.
+- Business Operations: Analyze and plan improvements in technical implementations to continue to deliver value to business partners. Drive the business to adopt recommended technical solutions
+- Document related processes and technical configurations in the handbook.
 - Technical Delivery: Provide hands-on, expert-level technical assistance to delivery teams. Drives adoption of technology and process changes. Drive end to end delivery on large, complex, cross-functional projects across multiple systems or integrations with minimal oversight. Proactively provides recommendations for system improvements.
 - Project Management: Run the technical implementation of large-sized projects which improve our ability to make better data driven insights, or make the company more efficient. Drive intake and prioritization process for functional areas of expertise.
 - Communication: Target audience Director, Sr. Director, VP, with presentations targeted to CFO staff for critical projects.
