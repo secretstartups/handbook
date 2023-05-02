@@ -34,7 +34,7 @@ This page provides an overview on relevant CSM leadership processes.
 | [Michael Leutz](/company/team/#mrleutz) | Enterprise | EMEA | Director | N/A |
 | [James Wormwell](/company/team/#jwormwell) | Enterprise | EMEA | Manager | N/A |
 | [Ally Frusciano](/company/team/#afrusciano) | Commercial | Global | Director | Territory & Key |
-| [Lauren Han](/company/team/#lauhan) | Commercial | AMER | Manager | Territory |
+| TBH | Commercial | AMER | Manager | Territory |
 | [Christina Souleles](/company/team/#csouleles) | Commercial | EMEA | Manager | N/A |
 | [Robert Clark](/company/team/#robclark14) | PubSec | PubSec | Manager | N/A |
 | [Steven Terhar](/company/team/#SteveTerhar) | PubSec | PubSec | Manager | N/A |
