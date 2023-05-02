@@ -49,10 +49,15 @@ When you create a new issue, you get the option to "Choose a template"
 **2. Choose a template** 
 
 Once a template has been selected, the description box will be populated with the content of the template ready for completion.
+    - Select `Ad hoc Reporting` for custom reporting requests.
+    - Select `Data Upload Request` for bulk updates to data.
+    - Select `Feature Request` for requesting enhancements to current systems.
+    - Select `Partner M&A and Name Changes` when requesting a partner account change related to mergers and acquisitions, merging duplicate accounts or moving them into an account hierarchy, or to change a partner account name. 
+    - Select `Procedures & HB Updates` to request edits or reviews for certain procedures/processes or handbook updates managed by Partner Operations, esepcially if more discussion is needed prior to submitting a MR for a page.
 
 **3. Before you submit**
 
-Please ensure your issue is **unassigned** as our team will be assigning issues based on the team bandwidth.
+Please ensure you have followed the prompts to fill in the selected issue template and that your issue is **unassigned**. Our team will be assigning issues based on team bandwidth.
 
 
 **Issue Templates Video**
