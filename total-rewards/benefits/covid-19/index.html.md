@@ -38,7 +38,7 @@ Completing a self-evaluation is essential and may be difficult.  However, it is 
 
 **Any modifications to a work schedule must meet business requirements.  For example, a sales representative may need to be available to customers on specific days of the week which would eliminate the ability to modify the workweek schedule.**
  
-**[COVID-19 Impact Self-Evaluation] (https://docs.google.com/document/d/10gxjLqW62jZF5ksp9AhEsIoNpm093IlxgfqhzfisvZE/edit#heading=h.5ahg1o4v53q7) template that you can optionally use to help guide your conversations. **
+**[COVID-19 Impact Self-Evaluation](https://docs.google.com/document/d/10gxjLqW62jZF5ksp9AhEsIoNpm093IlxgfqhzfisvZE/edit#heading=h.5ahg1o4v53q7) template that you can optionally use to help guide your conversations. **
  
 ### Communication
  
