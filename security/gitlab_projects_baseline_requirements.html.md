@@ -49,7 +49,7 @@ As a general rule, we want to protect our branches in such a way that we [requir
 
 ![Example 1 of Protected Branch Settings configured to Require an MR](/images/protected_branch_settings_example.jpg "Example of Protected Branch Settings")
 
-See [Note on usage of Code Owners](/handbook/security/gitlab_projects_baseline_requirements.html.md#note-on-usage-of-code-owners)
+See [Note on usage of Code Owners](https://about.gitlab.com/handbook/security/gitlab_projects_baseline_requirements.html#note-on-usage-of-code-owners)
 
 ## MR Approval Rule Configurations
 
@@ -63,7 +63,7 @@ MRs should be reviewed following GitLab's [Code Review Guidelines](https://about
 
 ![Example 2 of MR Approval Rules configured WITH Code Owners](/images/MR_approvals_with_code_owners.png "Example 2 of MR Approval Rules configured WITH Code Owners")
 
-See [Note on usage of Code Owners](/handbook/security/gitlab_projects_baseline_requirements.html.md#note-on-usage-of-code-owners)
+See [Note on usage of Code Owners](https://about.gitlab.com/handbook/security/gitlab_projects_baseline_requirements.html#note-on-usage-of-code-owners)
 
 ## Note on usage of Code Owners
 Note that not all projects will have Code Owners enabled as it may not be necessary in all instances.
