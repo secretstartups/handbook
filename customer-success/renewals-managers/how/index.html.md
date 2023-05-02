@@ -114,30 +114,25 @@ Our management philosophy regarding the expectations of booking renewals is simp
 
 # Compensation
 
-## Churn Execeptions
+## Churn Exceptions
 
-
-- Churn exceptions are possible, but not guaranteed. Each circumstance will be considered independetly. Some of the common scenarios considered for churn exceptions are:
-  1. False Churn/Contraction
-    - Near-term add-on contraction (true up negotiations, budget optimizations)
-    - Subscription migration- where we can prove that users simply moved to another subscription (not-merged)
-    - Split opps (same users migrating to a differnet opp)
-      - Sometimes based on product (premium to ultimate)
-      - Sometimes based on type (Self-managed to SaaS)
-    - Contract Resets that erroneously result in C&C
-    - Incorrectly merged opps
+- Churn exceptions are possible, but not guaranteed. Each circumstance will be considered independetly. Some common scenarios considered for churn exceptions are:
+  1. Misrepresented or temporary Churn/Contraction
+    - a. Near-term add-on contraction (true up negotiations, budget optimizations)
+    - b. Subscription migration and consolidations - where we can prove that users simply moved to another subscription (not-merged) on another opportunity, or to another account
+    - c. System errors (non-standard contract resets that may net incorrectly, incorrectly merged opps)
   2. Strategic Churn/Contraction
-    - Change in GTM (direct to indirect) and the associated margin event that results in contraction
-    - Change in term length - single to multi-year, and the discount event that results in contraction (must pass approvals)
+    - a. Change in GTM (direct to indirect) and the associated margin event that results in contraction
+    - b. Change in term length (must pass approvals)
   3. Protected Churn/Contraction
-    - Large/Influential Tier 3 deals where a churn event encompasses more than 10% of a Renewals Managers overall quarterly target.
-    - Recent account transition churn/contraction - opps that have been recently acquired as a result of account transition 
+    - a. Large/Influential Tier 3 deals where a churn event encompasses more than 10% of a Renewals Managers overall quarterly target may be considered
+    - b. Recent account transition churn/contraction - opps that have been recently acquired as a result of account transition 
 
-- Timing: Have all exceptions submitted by the end of the first week of the new quarter.
-- Threshold: Consider the amount of churn - small renewals in these scenarios should be balanced with the amount of effort to find/submit them (i.e. submitting a 200 dollar opp may take more time than it's worth)
+- Timing: Have all exceptions submitted by the first two days of the new quarter.
+- Threshold: Consider the amount of churn/contraction - small renewals in these scenarios should be balanced with the amount of effort to find/submit them (i.e. submitting a 200 dollar opp may take more time than it's worth)
 
 - Submission
-  - When submitting a merge request, chatter wth this syntax [Churn Exception Request] Details and context (link to supporting doc) CC: Manager for approval, CC: Caleb for approval CC: Sales Comp, CC: James Harrison
+  - When submitting a churn exception, chatter wth this syntax [Churn Exception Request] Details and context (link to supporting doc) CC: Manager for approval, CC: Caleb for approval CC: Sales Comp, CC: James Harrison
 
 
 # Metrics
