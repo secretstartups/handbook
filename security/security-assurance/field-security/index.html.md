@@ -20,7 +20,7 @@ The Field Security team serves as the public representation of GitLab's internal
 The Field Security team is tasked with providing high levels of security assurance to internal and external customers. We work with all GitLab departments to document requests, analyze the risks associated with those requests, and provide value-added remediation recommendations. We do this in three main ways:
 
 * Conducting [Customer Assurance Activities](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html) such as completing Security, Privacy, and Risk Management Questionnaires, assisting in Contract Reviews, participating in Customer Pre-Sales Meetings, and providing Security Documents (such as GitLab’s SOC2 or Penetration Test reports). These activities are managed through the [Customer Assurance Activities Service Desk](https://gitlab.com/gitlab-com/gl-security/security-assurance/field-security-team/customer-assurance-activities/caa-servicedesk/-/issues). 
-* Proactively maintaining self-service security and privacy resources including the [Customer Assurance Package](https://about.gitlab.com/security/cap/), the [Trust Center](https://about.gitlab.com/security/) and the **internal only** [AnswerBase](https://about.gitlab.com/handbook/security/security-assurance/field-security/answerbase.html) and [OneTrust Vendorpedia](https://about.gitlab.com/handbook/security/security-assurance/field-security/Vendorpedia.html).
+* Proactively maintaining self-service security and privacy resources including the [Customer Assurance Package](/handbook/security/security-assurance/field-security/customer-assurance-package.html), the [Trust Center](https://about.gitlab.com/security/) and the **internal only** [AnswerBase](https://about.gitlab.com/handbook/security/security-assurance/field-security/answerbase.html) and [OneTrust Vendorpedia](https://about.gitlab.com/handbook/security/security-assurance/field-security/Vendorpedia.html).
 * Providing recommendations based on customer security concerns in support of revenue growth through the annual [Field Security Study](https://about.gitlab.com/handbook/security/security-assurance/field-security/field-security-study.html) and participation in the [Quarterly Business Review](https://about.gitlab.com/handbook/sales/qbrs/) Process.
 * Building the GitLab Security brand by improving internal and external awareness of GitLab's security practices and the security of our platform. Engaging with customers and prospects through [Evangelism Activities](/handbook/security/security-assurance/field-security/Evangelism.html) and with internal stakeholders via the [Field Security Sales Training Program](/handbook/security/security-assurance/field-security/fsstp.html).
 
@@ -34,23 +34,24 @@ The Field Security team is tasked with providing high levels of security assuran
 
 ## <i class="fas fa-id-card" style="color:rgb(110,73,203)" aria-hidden="true"></i> Contact the Team
 
-[Marie-Claire Cerny](https://about.gitlab.com/company/team/#marieclairecerny), @marieclairecerny, Senior Security Assurance Engineer, Field Security
-   * [Customer Assurance Activities](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html)
-   * Self-Service Sales Enablement (AnswerBase, CAP, Trust Center, Self-Attestations) 
 
 [Ayoub Fandi](https://about.gitlab.com/company/team/#ayofan), @ayofan, Senior Security Assurance Engineer, Field Security
    * [Customer Assurance Activities](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html)
    * [Evangelism](/handbook/security/security-assurance/field-security/Evangelism.html)
-   * Collateral Development for the [Customer Assurance Package](https://about.gitlab.com/security/cap/)
+   * Collateral Development for the [Customer Assurance Package](/handbook/security/security-assurance/field-security/customer-assurance-package.html)
    * [Field Security Sales Training Program](/handbook/security/security-assurance/field-security/fsstp.html)
    * Customer Engagements
    * Contract Reviews
+   * Self-Service Sales Enablement (AnswerBase, CAP, Trust Center, Self-Attestations) 
+
 
 [Joe Longo](https://about.gitlab.com/company/team/#jlongo_gitlab), @jlongo_gitlab, Manager, Governance and Field Security
    * [Customer Assurance Activities](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html)
    * [Field Security Study](/handbook/security/security-assurance/field-security/field-security-study.html)
    * [Independent Security Assurance](https://about.gitlab.com/handbook/security/security-assurance/field-security/independent_security_assurance.html)
    * Contract Reviews
+   * Self-Service Sales Enablement (AnswerBase, CAP, Trust Center, Self-Attestations) 
+
 
  
 
