@@ -28,11 +28,11 @@ To get started with GitLab, register your company by going to [https://partners.
 
 ## Completing Training and Certifications
 
-Our training programs are available primarily through the [GitLab Partner Portal](https://partners.gitlab.com/). There, you will find the certification courses and testing needed to meet your GitLab program requirements for sales, pre-sales, technical, and professional services training. Check out the [Channel Partner Training and Certifications](/handbook/resellers/training/) handbook page for additional information.
+Our training programs are available primarily through the [GitLab Partner Portal](https://partners.gitlab.com/). There, you will find the accreditation courses and testing needed to meet your GitLab program requirements for sales, pre-sales, technical, and professional services training. Check out the [Channel Partner Training and Certifications](/handbook/resellers/training/) handbook page for additional information.
 
 ### Training & Certification Requirements for Transactions, Deal Registrations, NFRs, and Letters of Authorization (LoAs)
 
-Before a new partner is able to receive the full partner benefits, they must achieve [Open Partner Status](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/#program-requirements-and-benefits). To become an Open Partner, new partners must have two people complete the [Sales Core](https://about.gitlab.com/handbook/resellers/training/#gitlab-verifed-sales-core-associate) training, and one person complete the [Solutions Architect](https://about.gitlab.com/handbook/resellers/training/#gitlab-verified-solutions-architect-core-associate) training. 
+Before a new partner is able to receive the full partner benefits, they must achieve [Open Partner Status](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/#program-requirements-and-benefits). To become an Open Partner, new partners must have two people complete the [Sales Professional](https://about.gitlab.com/handbook/resellers/training/#gitlab-sales-professional) training, and one person complete the [Solutions Architect](https://about.gitlab.com/handbook/resellers/training/#gitlab-verified-solutions-architect-core-associate) training. 
 
 Upon achieving Open Partner status, that partner will be able to transact, request NFRs and LoAs, and receive all the benefits of the GitLab Partner Program. 
 
