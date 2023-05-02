@@ -20,13 +20,7 @@ There are 3 groups within marketing who handle external events. Each group has a
 - [Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/)
 - [Field Marketing](/handbook/marketing/field-marketing/)
 
-## COVID-19 Event Disclaimer
 
-GitLab’s top priority is the health and safety of our attendees and team members. GitLab reserves the right to switch any hosted in-person event to a virtual event. If this is done, we will communicate to all attendees via email.
-
-- Note, when building invite landing pages, please ensure the complete paragraph above has been added to the landing page.
-
-Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidance-covid-19).
 
 ### Legal verbiage that should be included in all event contracts thoughout FY22
 
