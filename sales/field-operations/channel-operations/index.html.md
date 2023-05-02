@@ -356,7 +356,7 @@ Refer to the following sections for step-by-step instructions on how to process 
 
 GitLab’s Partner Managers, Sales Reps, and Area Sales Managers collaborate to review and action Partner Sourced Deal Registration submissions. Refer to the [Partner Sourced Deal Registration: How it Works](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-how-it-works) section for details on the review and approval process.
 
-**The SLA for GitLab to respond to partners on a Partner Sourced Deal Registration is two business days. There must be contact with the registering partner within two business days, whether it be approval, rejection, request for more information, or notification that additional processing time is needed.**
+**The SLA for GitLab to communicate with partners on a Partner Sourced Deal Registration is two business days. There must be contact with the registering partner within two business days, whether it be initial outreach to discuss the registration, a request for more information, approval, or rejection.**
 
 There can only be one Partner Sourced Deal Registration approved for an opportunity, _as only one partner can source a deal_. As a reminder, Partner Sourced Deal Registrations are opportunity-based and partners cannot register an account.
  
@@ -404,8 +404,8 @@ The steps below outline how a Partner Sourced Deal Registration is submitted on 
   - The GitLab Partner Manager should communicate and align with the GitLab Sales Rep prior to approving or rejecting the Deal Registration.
   - The GitLab ASM should communicate and align with the GitLab Partner Manager and Sales Rep prior to approving or rejecting the Deal Registration.
 - **GitLab SLAs**
-  - The SLA for GitLab to respond to the partner on a Partner Sourced Deal Registration is two business days. There must be contact with the registering partner within two business days, whether it be approval, rejection, request for more information, or notification that additional processing time is needed.
-  - The GitLab Partner Manager and ASM (if applicable) each have one business day to action the Registration, which begins when the Registration hits their respective queues for approval.
+  - The SLA for GitLab to communicate with partners on a Partner Sourced Deal Registration is two business days. There must be contact with the registering partner within two business days, whether it be initial outreach to discuss the registration, a request for more information, approval, or rejection.
+  - The GitLab ASM has one business day to either approve or reject the Registration, which begins when the Registration hits their queue for approval. The ASM _must_ communicate with the GitLab Partner Manager if their approval is anticipated to push beyond the one business day SLA.
 - **Assigning a Delegated Approver**
   - GitLab Partner Managers and ASMs _always_ need to assign a delegated approver in SFDC prior to being out of office. This ensures approval requests are received and can be actioned in your absence, and is crucial to hitting our SLAs (see **GitLab SLAs** above).
   - Refer to the step-by-step process to [assign a delegated approver](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#reassign-quote-approvals) for details. Note, the delegated approver will be assigned to any/all of your approval processes in SFDC (e.g., registrations, quotes, etc).
@@ -427,8 +427,8 @@ The steps below outline how a Partner Sourced Deal Registration is submitted on 
 ### Partner Sourced Deal Registration: Reporting & Tools
 - [Deal Registration Report](https://gitlab.my.salesforce.com/00O4M000004aUal)
 - [Deal Registration Object Fields & Definitions](https://drive.google.com/file/d/1pdPHZpR_0sOUJlat-USGvcXfFjumDwC9/view)
-- [Adding the Registration Record to your Salesforce view](https://drive.google.com/file/d/1iUz42CfvYKPdw1quskc4NmraFVoZvFez/view)
-- [Creating personal deal registration views](https://drive.google.com/file/d/1UtERcTNgNr9pTIf9OXDdpj3dNuhk9ISj/view)
+- [Adding the Registration Object to your Salesforce view](https://drive.google.com/file/d/1iUz42CfvYKPdw1quskc4NmraFVoZvFez/view)
+- [Creating Personal Deal Registration views](https://drive.google.com/file/d/1UtERcTNgNr9pTIf9OXDdpj3dNuhk9ISj/view)
 - [Partner-facing Deal Registration instructions](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#deal-registration-instructions)
  
 ### Partner Sourced Deal Registration: Resale Opportunities
