@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Customer Assurance Package Internal Request Process
+title: Customer Assurance Package
 ---
 
 {::options parse_block_html="true" /}
@@ -13,15 +13,22 @@ title: Customer Assurance Package Internal Request Process
 
 # GitLab's Customer Assurance Package
 
-Are you looking for GitLab's Customer Assurance Package? We've moved! Please click below to be redirected:
+Are you looking for GitLab's Customer Assurance Package?
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="https://about.gitlab.com/security/cap/" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">GitLab Customer Assurance Package (Click Here!)</a>
 </div> 
 
+## Do you have 180 seconds to learn more about the CAP?
+
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/8xsMmciYbvE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## GitLab offers Customer Assurance Packages tailored to customer needs
 
-* **Community Package**: The first step on the trust journey, this package is a compilation of publicly available documentation designed to introduce GitLab’s approach to security. Directly available from the [Customer Assurance Package page](https://about.gitlab.com/security/cap/). All the documents in the Community Package are included in the Customer Packages.
+* **Community Package**: The first step on the trust journey, this package is a compilation of publicly available documentation designed to introduce GitLab’s approach to security. Directly available from the [Customer Assurance Package page](https://about.gitlab.com/security/cap/). *All the documents in the Community Package are included in the Customer Packages*.
 * **Customer Packages**: This package provides detailed security information to prospective and existing customers for completing vendor security assessments. Due to the sensitive nature of the documentation, an NDA is required to be in place prior to sharing the Customer Packages. Please review the [CAP request process](/handbook/security/security-assurance/field-security/customer-assurance-package.html#cap-request-process) for more details.
 <details>
 <summary markdown="span">*GitLab.com Package*</summary>
@@ -45,7 +52,7 @@ This package provides detailed security information to prospective and existing 
 </details>
 
 
-## CAP request process
+## How to request the CAP
 
 Due to the nature of some of GitLab's security reports, the [Customer Package](https://about.gitlab.com/security/cap/) is available under a [Non Disclosure Agreement](https://about.gitlab.com/handbook/legal/NDA/) or contractual confidentiality  clauses only.
 
@@ -55,7 +62,7 @@ These resources can be requested by a GitLab team member on behalf of a customer
 
 Customers or prospects can request a copy using the `Request by Email` option on our [Customer Assurance Package](https://about.gitlab.com/security/cap/) webpage.
 
-### New or updated CAP collateral
+### Requesting new collateral in the CAP
 
 To request new or updated CAP collateral, click the button below:
 
