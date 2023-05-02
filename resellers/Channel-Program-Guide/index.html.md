@@ -28,8 +28,8 @@ Partners may or may not be transacting partners, and qualifying partners can ear
 * Field Support
 
 Open partners must meet the minimum requirements outlined in the section Program Requirements and Benefits below to earn program benefits, including:
-* Completion of GitLab Sales Professional certification in the region specified in your GitLab Partner Contract.
-* Technical Sales certifications in the region specified in your GitLab Partner Contract. Both the GitLab Sales Architect Core and Professional Services Engineering courses meet this requirement.
+* Completion of GitLab Sales Professional accreditation in the region specified in your GitLab Partner Contract.
+* Technical Sales accreditations in the region specified in your GitLab Partner Contract. Both the GitLab Sales Architect Core and Partner Technical Engineer accreditations meet this requirement.
 
 **2. Select –** In this track, partners make a greater investment in expertise, develop services practices around GitLab, and are expected to drive greater product recurring revenues. In return, Select partners have a dedicated Channel Sales Manager and greater investment. Participation in the Select track is by invitation only. We provide:
 * Focused Strategic Relationships (Channel Account Manager, Solution Architect, Executives)
@@ -44,9 +44,8 @@ Open partners must meet the minimum requirements outlined in the section Program
 * Priority Position in the GitLab Partner Locator
 
 Since participation in the Select track is by invitation only, partners are not automatically upgraded. To be considered, they must meet the requirements outlined in Program Requirements and Benefits below, including:
-* Verifications (completion of GitLab Sales Core) and certification (Sales Core plus Advanced Use Case Training) in the region specified in your GitLab Partner Contract.
-* Technical Sales certifications in the region specified in your GitLab Partner Contract. Both the GitLab Sales Architect Core and Professional Services Engineering courses meet this requirement.
-* Professional Services certification.
+* Accreditations (GitLab Sales Professional) in the region specified in your GitLab Partner Contract.
+* Technical Sales accreditations in the region specified in your GitLab Partner Contract. Both the GitLab Verified Sales Architect Core Assocaiate and Partner Technical Engineer meet this requirement.
 * Executive-sponsored joint business plan.
 * Minimum program revenue, defined as Net Annual Recurring Revenue (NetARR). This includes all the incremental licenses sold to new and existing customers.
 * Dedicated DevOps sales and/or services practice.
@@ -58,10 +57,9 @@ Since participation in the Select track is by invitation only, partners are not 
 |------------------|:---------------------------:|:---:|
 | **Overall Program Requirements** |  |  |
 | GitLab Partner Agreement | X | X |
-| # of Verified Sales Associate (Sales Core) resources | 2 | 4 |
-| # of Accredited Sales Professional resources |   | 1 |
+| # of Sales Professionals or existing Verified Sales Associate (Sales Core) resources | 2 | 4 |
 | # of Solution Architect Verified Associate resources | 1 | 2 |
-| # of Certified Professional Services Engineer resources (2021 certification) |   | 1 |
+| # of Partner Technical Engineers or existing  Certified Professional Services Engineer resources (2021 certification) |   | 1 |
 | Exec Sponsored Joint Business Plan |  | X |
 | Program Rev Targets Min - BusPlan Committed |  | $300K |
 |  |  |  |
@@ -75,6 +73,7 @@ Since participation in the Select track is by invitation only, partners are not 
 | Level 2 Support Hotline |  | X |
 | Dedicated Channel Manager |  | X |
 | Not for Resale Licenses | X | X |
+| Discounts on GitLab Certifications | X | X |
 |  |  |  |
 | **Marketing** |  |  |
 | Partner Portal | X | X |
@@ -103,7 +102,7 @@ To learn more about the GitLab Services Program requirements and available servi
 * [Channel Services Program](/handbook/resellers/services/)
 * [Channel Services Catalog](/handbook/resellers/services/services-catalog/)
 
-## Training Accreditation, and  Certification Program and Requirements
+## Training and  Accreditation Program and Requirements
 GitLab has developed core training, accreditation and certification for sales, solution architects (pre-sales engineers), and post sales engineers and consultants.  The GitLab Partner Enablement Program is designed to provide our partners with similar training as GitLab employees themselves.  For details on available training resources visit the [Channel Training, Certifications and Enablement](https://about.gitlab.com/handbook/resellers/training/) page.
 
 ## Deal Registration, Discounts and Referral Fees, NFR
@@ -115,7 +114,7 @@ If you are looking for additional information on the GitLab Partner program see 
 * [Channel Program Guide](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/)
 * [Channel Services Program](/handbook/resellers/services/)
 * [Channel Services Catalog](/handbook/resellers/services/services-catalog/)
-* [Channel Partner Training and Certifications](/handbook/resellers/training/)
+* [Channel Partner Training and Accreditations](/handbook/resellers/training/)
 * [Channel Partners: Working with GitLab](/handbook/resellers/channel-working-with-GitLab/)
 * [Channel Tools and Resources](/handbook/resellers/channel-tools-resources/)
 * [Alliance Program](https://about.gitlab.com/partners/technology-partners/)
