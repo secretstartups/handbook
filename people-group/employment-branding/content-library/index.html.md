@@ -47,6 +47,9 @@ The current headcount number will be updated each quarter following our quarterl
 
 These awards and lists recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest:
 
+**2023**
+- [Best Places to Work, Builtin, 2023](https://builtin.com/awards/us/2023/best-places-to-work?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=4012565)
+
 **2022**
 - [Best Workplaces for Parents, Fortune, 2022](https://www.greatplacetowork.com/best-workplaces-parents?mkt_tok=NTIwLUFPTy05ODIAAAGIch_eubKDhGDzybtHOPnrcxe8dgsYnuW1QwdVR2XCewDx-EJjcFjfAJYwniK6cFNS-VLk-V5Kk2hzXRcCz-XNjpJys6F6_QGqCaPBDJxQtoJPDA)
 - [Best Companies for Remote Workers, Quartz, 2022](https://qz.com/list/best-companies-to-work-from-home-2022/gitlab-5)
@@ -85,6 +88,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 
 | Articles/Blogs/Features | Category |
 | ------ | ------ |
+| [How GitLab Enabled One Sales Pro to Build Her ‘Dream Life’](https://builtin.com/gitlab-enabled-one-sales-pro-build-her-dream-life?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab) | Sales |
 | [How Iteration drives innovation in our engineering org](https://about.gitlab.com/blog/2022/06/10/how-gitlab-iteration-value-drives-innovation-through-the-engineering-organization/) | Engineering |
 | [How GitLab's customer and partner focus fuels our culture](https://about.gitlab.com/blog/2022/05/03/how-gitlabs-customer-and-partner-focus-fuels-our-culture/) | Sales |
 | [GitLab is Changing the Look of DevOps and Remote Work, One Iteration at a Time](https://builtin.com/brand-studio/gitlab-changing-look-devops-remote-work?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab) | General |
@@ -124,6 +128,8 @@ There are a number of additional videos on our [corporate YouTube channel](https
 | [GitLab Careers](https://vimeo.com/675024697) | GitLab Careers Page |
 | [Life at GitLab](https://www.linkedin.com/company/5101804/admin/) | LinkedIn Life Page |
 | [Product at GitLab](https://vimeo.com/677814891) | LinkedIn Life Page |
+| [Engineering at GitLab](https://www.linkedin.com/company/gitlab-com/life/d7a581f5-5dd7-499f-a5e9-79bbcda7f29a/?viewAsMember=true) | LinkedIn Life Page |
+| [UX at GitLab](https://www.linkedin.com/company/gitlab-com/life/2401df61-b442-4630-a061-c586f6d788ba/?viewAsMember=true) | LinkedIn Life Page |
 | [Builtin](https://builtin.com/company/gitlab) | Culture Page and Job Board |
 | [Venturefizz](https://venturefizz.com/gitlab) | Culture Page and Job Board |
 | [Glassdoor](https://bit.ly/3BT89On) | Company Rating, Reviews and Job Board |
