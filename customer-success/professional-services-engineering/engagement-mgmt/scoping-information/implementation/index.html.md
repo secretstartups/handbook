@@ -19,7 +19,7 @@ description: "Describes the process for scoping GitLab implementations."
 
 - Implementations will use the standard documented [reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/).
 
-- All implementation services on prem with Geo included assume that we use a single large omnibus implementation for the secondary.   There are some challenges with full HA secondaries, so if we choose to scope an HA Geo, the general rule of thumb is to add an additonal 20-25 days to the scope to account for the complexities.
+- All implementation services on prem with Geo included assume that we use a single large omnibus implementation for the secondary.   There are some challenges with full HA secondaries, so if we choose to scope an HA Geo, the general rule of thumb is to add an additional 20-25 days to the scope to account for the complexities.
 
 - Implementations on AWS tend to be less complex than on-prem implementations because we take advantage of the various services AWS provides for HA.
 
