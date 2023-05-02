@@ -64,7 +64,7 @@ The assigned People Connect member will be automatically added to the list of as
 
 Many teams work to deprovision access including the IT Operations, this should be regarded as urgent and all tasks expected to be completed in 5 working days with the exception of [laptop returns](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#returning-oldoffboarded-laptops), which can take 2 - 4 weeks.
 
-Note: If the team member is temporarily transitioning to a [contractor or consultant role](/handbook/people-group/general-onboarding/consultants/), please proceed with the full offboarding process and create a separate onboarding issue to grant only specific temporary access for what they would need to fulfill their contractual obligations.
+Note: If the team member is temporarily transitioning to a [contractor or consultant role](/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/), please proceed with the full offboarding process and create a separate onboarding issue to grant only specific temporary access for what they would need to fulfill their contractual obligations.
 
 #### Creating the Offboarding Issue Manually
 
