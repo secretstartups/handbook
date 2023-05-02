@@ -99,8 +99,8 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 
 ### IT Manager, Enterprise Applications Engineering Requirements
 
-- Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience
-5-7 years of experience implementing, configuring, customizing and integrating SaaS software Eg: SalesForce, DocuSign CLM, Netsuite, Zuora Billing, Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.   
+- Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience.
+5-7 years of experience implementing, configuring, customizing and integrating SaaS software Eg: SalesForce, DocuSign CLM, Netsuite, Zuora Billing, Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.
 - Be a self-starter, and thrive in a fast paced environment, customer centric and have the interpersonal skills necessary to manage business and technology relationships.
 - Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
 - Exhibit strong security and confidentiality practices with systems that handle sensitive data.
