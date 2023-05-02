@@ -124,10 +124,11 @@ If an emergency communication needs to be send out, Marketing Ops will need to a
 ### Issue Boards
 
 1. [MktgOps Team (issues by team member)](https://gitlab.com/groups/gitlab-com/-/boards/2629685)
+1. [Campaign Operations (issues by milestone)](https://gitlab.com/groups/gitlab-com/marketing/-/boards/5563453?label_name[]=MktgOps-Support)
 
 ### Issues
 
-The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue or for small checks and questions, use the `~MktgOps::0 - To Be Triaged` label anywhere within the GitLab repo.
+The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue or for small checks and questions, use the `~MktgOps::00: Triage` label anywhere within the GitLab repo.
 
  If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
 
@@ -167,7 +168,7 @@ Categories
 - `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
 - `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
 - `SMOps/Systems - Changelog`: Used to track changelog issues that will impact Sales Operations or Systems
-- `MktgOps-Support`: Internal label used by MktgOps team to track non-issue work and support
+- `MktgOps-Support`: Used on issues to track field marketing and event support, such as field marketing landing pages and emails.
 - `MktgOps-Future Feature`: Something to consider for a future project as time allows. Timeframe: As time allows
 - `dg-campaigns`, `ABM`, `lifecycle-mktg`: Used on issues created by these teams for easier tracking of their requests.
 
