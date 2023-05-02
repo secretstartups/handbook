@@ -159,6 +159,9 @@ Snowplow is an open source event tracking tool that is used at GitLab to track G
 > Why is the value for `gsc_namespace_id` null for some proportion of snowplow events?
 * Engineers need to enable tracking for `gsc_namespace_id` when implementing new events. If tracking for `gsc_namespace_id` is already enabled and nulls are still occuring, the events may be triggered in a location within Gitlab.com that is not specific to any one namespace like the ToDos page.
 
+> What is the correct logic to identify events triggered in production environments?
+* Apply the following logic `WHERE app_id IN ('gitlab','gitlab_customers')`
+
 
 #### Documentation
 
@@ -173,22 +176,24 @@ Snowplow is an open source event tracking tool that is used at GitLab to track G
 
 * [Snowplow schema definitions in GitLab docs](https://docs.gitlab.com/ee/development/snowplow/schemas.html)
 
+* [PDI: Snowplow New Models Onboarding](https://docs.google.com/presentation/d/1L6g2XCHWhRRXAbJ5txBavdxPW0Jja1E43QzxbtYvQK0/edit?usp=sharing)
+
 
 </details>
 
 
 #### Commonly Used Data Models
 
-New and improved Snowplow models are in development. 
-
 <details markdown="1"><summary>Click to expand</summary>
 
 | Schema | Table Name | Data Grain | Description | Notes |
 | --- | --- | --- | --- | --- |
-| legacy | [snowplow_structured_events_90](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.snowplow_structured_events_90) | `event_id` | Snowplow structured events that have fired in the last 90 days. | snowplow_structured_events_190, snowplow_structured_events_400 and snowplow_structured_events_all are also available |
-| legacy | [snowplow_page_views_90](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.snowplow_page_views_90) | `page_view_id` | Page view events that have fired in the last 90 days. | snowplow_page_views_30 and snowplow_page_views_all are also available |
-| workspace_product | [fct_behavior_structured_event_experiment](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_behavior_structured_event_experiment) | `behavior_structured_event_pk` | Derived fact table for structured events related to experiments. |  |
-
+| common_mart | [mart_behavior_structured_event](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_behavior_structured_event) | `behavior_structured_event_pk` | Enriched Snowplow table for the analysis of structured events.| Depending on analysis use case, it could be helpful to filter by `behavior_date` for queries to run within reasonable timeframes.|
+| common | [fct_behavior_structured_event_without_assignment](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_behavior_structured_event_without_assignment) | `behavior_structured_event_pk` | Derived fact table containing data for Snowplow structured events excluding assignment events. Assignment events are events that signifies a user was enrolled into an Experiment. | `fct_behavior_structured_event_without_assignment_190` and `fct_behavior_structured_event_without_assignment_400` are also available. |
+| common | [fct_behavior_structured_event_experiment](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_behavior_structured_event_experiment) | `behavior_structured_event_pk` | Derived fact table for structured events related to experiments. |  |
+| common | [fct_behavior_website_page_view](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_behavior_website_page_view) | `fct_behavior_website_page_view_sk` | Fact table containing quantitative data for Page views. Page views are a subset of Snowplow events and are fired by the Javascript tracker. |  |
+| common | [fct_behavior_unstructured_event](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_behavior_unstructured_event) | `fct_behavior_unstructured_sk` | Derived fact table for unstructured events. |  |
+| common | [dim_behavior_event](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_behavior_event) | `dim_behavior_event_sk` | Dimensional model containing distinct events types from Snowplow. |  |
 
 
 </details>
@@ -198,7 +203,7 @@ New and improved Snowplow models are in development.
 
 <details markdown="1"><summary>Click to expand</summary>
 
-* If you are wondering if Snowplow events are implemented in a certain area of the product, the [Snowplow Inspector](https://chrome.google.com/webstore/detail/snowplow-inspector/maplkdomeamdlngconidoefjpogkmljm?hl=en) is a good complimentary resource to the [Metrics Dicitonary](https://metrics.gitlab.com/) which is not exhaustive. 
+* If you are wondering if Snowplow events are implemented in a certain area of the product, the [Snowplow Inspector](https://chrome.google.com/webstore/detail/snowplow-inspector/maplkdomeamdlngconidoefjpogkmljm?hl=en) is a good complimentary resource to the [Metrics Dicitonary](https://metrics.gitlab.com/) which is not exhaustive. The Snowplow Inspector will not show server side events.
 
 * We do not use snowplow on our self-managed instances, only on GitLab.com
 
@@ -308,6 +313,8 @@ Models used to report on trials, subscriptions and charges.
 * [SSOT Historical Namespace Subscriptions](https://gitlab.com/gitlab-data/analytics/-/issues/14401) is an Issue for Data to clarify and refactor models used for subscription and charge analysis.
 
 * Findings from Issue intended to [record differences between using legacy.customers_db_charges_xf vs common.dim_order_hist for namespace paid conv. analysis](https://gitlab.com/gitlab-data/product-analytics/-/issues/820#note_1227834945).
+
+* There are some known problems with our license to subscription mapping in SM and SaaS reporting. [Issue with more details](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/634). 
 
 </details>
 
