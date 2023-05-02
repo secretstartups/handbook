@@ -17,16 +17,16 @@ IT Enterprise Applications Administrator is a [grade 6](https://about.gitlab.com
 - Process Improvement: Accomplish improvements to processes that you support. Understanding the impacts of changes recommended and how to translate them into technical requirements. Document updated processes in the company handbook.
 - Business Acumen: Understanding of core business processes of quote to cash, record to report, hire to retire and procure to pay. Motivation for continuous learning in these areas.
 - Business Engagement: Engage with your team and stakeholders regarding their business strategy and objectives for automating and optimizing processes. Meet regularly with business partners to ensure that the applications are functioning as designed and supporting their needs.
-- Compliance: Supports data, security, and legal governance processes and adherence of guidelines between internal business units and systems in order to ensure efficient and compliance of technical delivery. 
+- Compliance: Supports data, security, and legal governance processes and adherence of guidelines between internal business units and systems in order to ensure efficient and compliance of technical delivery.
 - Project Management: Run small sized projects that improve our ability to make better data focused insights or make the company more efficient.
 - Share our values, and work in accordance with those values.
 
 ### IT Enterprise Applications Administrator Requirements
 
-- Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience
+- Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience.
 - Ability to use GitLab.
 - 2-3 years of experience in a systems administrator.
-- Hands-on administrator experience: SalesForce, DocuSign CLM, Netsuite, Zuora Billing, Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.   
+- Hands-on administrator experience: SalesForce, DocuSign CLM, Netsuite, Zuora Billing, Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.
 - Public company and SOX ITGC controls experience preferred.
 - Ability to thrive in a fully remote organization.
 - Be a self-starter, and thrive in a fast paced environment, customer centric and have the interpersonal skills necessary to manage business and technology - relationships.
@@ -41,7 +41,7 @@ IT Enterprise Applications Engineer is a [grade 7](https://about.gitlab.com/hand
 
 Extends the IT Enterprise Applications Administrator responsibilities:
 
-- Business Partnership: Influences cross-functional team regularly. Begins to build and manage holistic relationships with select partners
+- Business Partnership: Influences cross-functional team regularly. Begins to build and manage holistic relationships with select partners.
 - Business Operations: Build, maintain and improve internal analysis and planning processes to more efficiently deliver for our business partners. All processes should be documented in the handbook.
 - Technical Delivery: Drive end to end delivery processes with minimal guidance.
 - Project Management: Run medium-sized projects that improve our ability to make better data driven insights or make the company more efficient.
