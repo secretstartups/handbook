@@ -143,5 +143,5 @@ The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), 
 
 ## Career Opportunities
 
-You can see all of our [job families](https://handbook.gitlab.com/job-families/finance/) to learn more about the roles in our department. You can see our open positions at [https://jobs.gitlab.com](https://jobs.gitlab.com). 
+You can see all of our [job families](https://handbook.gitlab.com/job-families/finance/) to learn more about the roles in our department. You can see our open positions at [https://about.gitlab.com/jobs/](https://about.gitlab.com/jobs/). 
 
