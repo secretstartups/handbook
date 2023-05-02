@@ -48,37 +48,9 @@ relation to the upgrades available.
 
 <hr />
 
-### GitLab Critical Security Upgrade Banner Alert
-
-**Description**
-
-_note: this element is currently being reviewed and may be [removed in an upcoming milestone](https://gitlab.com/gitlab-org/gitlab/-/issues/387719)._
-
-This UI element is currently behind a feature flag: `Feature.enable(:critical_security_alert)`
-
-This Banner Alert element is only visible when a GitLab instance is behind a security
-upgrade that could make the instance vulnerable. The banner is shown only to admins,
-it's not dismissible, and appears on every page until the instance is upgraded.
-
-**UI Representation**
-
-<img src="images/critical-security-banner-alert.png" height="75px" />
-
-**UI Location(s)**
-
-- Everywhere
-
-**When to appear**
-
-- If behind a `danger` level upgrade, **always and non-dismissible**
-
-<hr />
-
 ### GitLab Critical Security Upgrade Modal
 
 **Description**
-
-This UI element is currently behind a feature flag: `Feature.enable(:critical_security_alert)`
 
 This Modal element is only visible when a GitLab instance is behind a security
 upgrade that could make the instance vulnerable. This modal appears and forces
