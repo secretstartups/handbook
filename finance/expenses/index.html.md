@@ -466,16 +466,6 @@ These instructions apply if a team member is unable to purchase required items, 
 5. AP will do their best to pay the reimbursement within 1 week, depending on the date submitted. 
     - Note that AP completed payments on Thursdays unless otherwise instructed for month and quarter end timelines.
 
-### Spend reduction
-
-When reducing spend, we'll not take the easy route of (temporarily) reducing discretionary spending.
-Discretionary spending includes expenses like travel, conferences, gifts, bonuses, merit pay increases and Contributes.
-By reducing in these areas we put ourselves at risk of [increasing voluntary turnover among the people we need most](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-%E2%80%93-soda%E2%80%99s-are-no-longer-free/).
-Discretionary spending is always subject to questioning, we are frugal and all spending needs to contribute to our goals.
-But we should not make cuts in reaction to the need to reduce spend; that would create a mediocre company with mediocre team members.
-Instead, we should do the hard work of identifying positions and costs that are not contributing to our goals.
-Even if this causes a bit more disruption in the short term, it will help us ensure we stay a great place to work for the people who are here.
-
 ### Expense Reimbursement for Terminated Team Members
 
 If a team member whom you managed has left GitLab and comes to you with final expenses that are valid for reimbursement, please verify that they were not already processed in Navan and then contact Accounts Payable. You must submit valid receipts and a completed copy of the [Expense Reimbursement template](https://docs.google.com/spreadsheets/d/1D0kWlqol7jBjqn7yDY6uc7UCWSIcUmiF/edit?usp=sharing&ouid=108533621432009168804&rtpof=true&sd=true) along with your approval. Please note that we may also ask the terminated team member to provide valid banking details in order to process the payment to them. 
