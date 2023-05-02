@@ -67,6 +67,12 @@ Team members are reimbursed on different schedules depending on their location. 
 * Any claim made which does not fall into the policy is not reimbursable. If an item is out of policy and approved by your manager, then please obtain and attach your manager's approval email prior to submitting the expense. This will then be reviewed by Expense team Admin and could need further approval from VP/ VP of Finance.
 * There will be occasions where if you have claimed an item and it needs to be reimbursed back to Gitlab, you will need to follow the reimbursement process in Navan for submission of the funds.
 
+### Submitting Expenses on Behalf (or Requested By) Your Manager
+
+Submitting expenses on behalf of your manager is a violation of our Expense policy and Gitlab's internal controls. If this is found during the expense review process, the following actions will take place:
+- AP Admins to notify the team member, the team member's manager, the team member manager's manager, and Finance leadership team of the violation
+- The expense is to be repaid to Gitlab immediately and the team member's manager will need to resubmit the expense themselves
+
 ### Manager Expectations
 
 * Managers are expected to review their team’s expenses in their entirety every month, and must flag any concerns immediately to the Accounts Payable team.
@@ -282,7 +288,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-btxf">N/A</td>
     <td class="tg-btxf">N/A</td>
     <td class="tg-btxf">N/A</td>
-    <td class="tg-btxf">- Not Reimbursable.<br>- Please follow Guidance from Handbook.</td>
+    <td class="tg-btxf">- Only reimbursable with approval from VP of department or the Swag team.<br>- Please follow Guidance from Handbook.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Team Building</td>
