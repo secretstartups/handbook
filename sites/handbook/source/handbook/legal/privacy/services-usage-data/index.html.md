@@ -30,7 +30,7 @@ _Data Sharing_: Service Ping Metrics are not shared with independent third-parti
 
 _Cadence_: Service Ping collected via Self-Managed payloads and SaaS namespaces are automatically collected on a weekly basis.  
 
-_Ownership_: Service Ping is owned by the [GitLab Product Intelligence Team](https://about.gitlab.com/handbook/engineering/development/analytics/product-intelligence/#vision).
+_Ownership_: Service Ping is owned by the [GitLab Analytics Instrumentation Group](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/).
 
 _Types of Data_: Service Ping Metrics have been broken down into the four categories of Metrics listed below:
    - **Operational Data**: Operational Data is a collection of aggregated usage and true/false Metrics that we are contractually obligated to collect in order to render Customer Success Services. Operational Data tracks how value is delivered through the use of the Software and provides insights into optimal customer implementation.  
@@ -41,7 +41,7 @@ _Types of Data_: Service Ping Metrics have been broken down into the four catego
 
     A full list of the Optional Data collected can be viewed [here](https://metrics.gitlab.com/?q=optional).
 
-- **Subscription Data**: Subscription Data is a collection of license-related Metrics synced to our data warehouse from Self Managed instances on version 14.1 or higher and connected to the internet.  As described in our Subscription Agreement, these Metrics are needed because they provide basic information on user count and instance version, which helps to facilitate discussions regarding customer behavior in the areas of provisioning and renewals.
+- **Subscription Data**: Subscription Data is a collection of license-related Metrics synced to our data warehouse from Self-Managed instances on version 14.1 or higher and connected to the internet.  As described in our Subscription Agreement, these Metrics are needed because they provide basic information on user count and instance version, which helps to facilitate discussions regarding customer behavior in the areas of provisioning and renewals.
 
     A full list of the Subscription Data collected can be viewed [here](https://metrics.gitlab.com/?q=subscription).
 
@@ -70,26 +70,26 @@ _Opting-Out_: Each of the four Service Ping categories have different parameters
     - <ins>Free and Paid SaaS users</ins>: You cannot opt-out of Standard Data for any of our SaaS offerings.
 
 ### Snowplow
-_Purpose_: GitLab operates a Product Intelligence platform in our infrastructure called Snowplow to collect user-level interactions within the SaaS version of the Software (e.g., viewing a specific page, clicking a button, etc).  This allows us to provide detailed usage information to customers and it allows us to understand how users navigate the product.  Unlike with Service Ping, the Metrics collected are not aggregated across an entire instance or namespace, but are attributable to a specific user, subject later to pseudonymization.  For more information on Snowplow, please see our comprehensive [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/).
+_Purpose_: GitLab operates a product intelligence platform in our infrastructure called Snowplow to collect user-level interactions within the SaaS version of the Software (e.g., viewing a specific page, clicking a button, etc).  This allows us to provide detailed usage information to customers and it allows us to understand how users navigate the product.  Unlike with Service Ping, the Metrics collected are not aggregated across an entire instance or namespace, but are attributable to a specific user, subject to a subsequent pseudonymization process.  For more information on Snowplow, please see our comprehensive [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/).
 
 _Applicable Software_: Snowplow collects Metrics from free and paid SaaS users.
 
 _Configuration_: The Snowplow collector takes user events in real time from GitLab.com and sends these user Metrics through our pseudonymization process. At this stage, the Metrics are stripped of personal identifiers, subject to the exceptions below, but the Metrics are still attributable to a SaaS namespace and project.
 
-_Personal Data Collected_:  Snowplow does collect the Personal Data of individual users in a raw format.  These raw Metrics, however, are sent through a pseudonymization process and subsequently purged, meaning only the pseudonymized Metrics are delivered to our data warehouse.  These pseudonymized Metrics are still considered personal data under applicable data protection laws since these Metrics are capable of re-identification. GitLab, however, does not undertake any processes to re-identify or relate the Metrics back to individual users.   There are two pieces of Snowplow personal data that we do not pseudonymize: Project_ID and Namespace_ID.  We also collect the country and region of the user’s location, but we do not store IP addresses.
+_Personal Data Collected_:  Snowplow does collect the personal data of individual users in a raw format.  These raw Metrics, however, are sent through a pseudonymization process and subsequently purged, meaning only the pseudonymized Metrics are delivered to our data warehouse.  These pseudonymized Metrics are still considered personal data under applicable data protection laws since these Metrics are capable of re-identification. GitLab, however, does not undertake any processes to re-identify or relate the Metrics back to individual users.   There are two pieces of Snowplow Metrics that we do not pseudonymize: Project_ID and Namespace_ID.  We also collect the country and region of the user’s location, but we do not store IP addresses.
 
 _Data Sharing_: Snowplow Metrics are not shared with independent third-parties.  All systems and software used in the collection and transfer of Snowplow Metrics are GitLab-controlled systems.
 
 _Cadence_: Snowplow Metrics are collected from Gitlab.com and sent to the data warehouse contemporaneously.
 
-_Ownership_: Snowplow is owned by the [GitLab Product Intelligence Team](https://about.gitlab.com/handbook/engineering/development/analytics/product-intelligence/#vision).
+_Ownership_: Snowplow is owned by the [GitLab Analytics Instrumentation Group](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/).
 
 _Types of Metrics_: Snowplow Metrics are composed of all the pseudonymized user interaction Metrics found [here](https://metrics.gitlab.com/snowplow/), as well as Project_ID, Namespace_ID, and the country and region of the user’s location.
 
 _Opting-Out_: Since Snowplow Metrics pertain to individual pseudonymized user events, Snowplow Metrics can only be opted-out on an individual basis using DNT signals.  However, please note that DNT signals depend on how the event is triggered and thus may not be recognized in all situations.
 
 ### License Sync
-_Purpose_: GitLab collects certain Metrics for Self Managed instances through License Sync to be able to determine if the amount of users provisioned under a paid license exceeds the monetary value of the subscription.  If there is a disjunction between the subscription and the number of users under a license, these Metrics are used by the GitLab Fulfillment Team as part of a quarterly or annual reconciliation process.  These Metrics also allows us to determine the number of open seats under a license and assists in our analysis of renewals and licensing consolidation.
+_Purpose_: GitLab collects certain Metrics for Self-Managed instances through License Sync to be able to determine if the amount of users provisioned under a paid license exceeds the monetary value of the subscription.  If there is a disjunction between the subscription and the number of users under a license, these Metrics are used by the GitLab Fulfillment Team as part of a monthly, quarterly or annual reconciliation process.  These Metrics also allows us to determine the number of open seats under a license and assists in our analysis of renewals and licensing consolidation.
 
 _Applicable Software_: License Sync Metrics are collected from paid Self-Managed (EE Distribution) instances.    License Sync does not collect Metrics from free Self-Managed (CE or EE Distribution).  For SaaS versions of the software, the GitLab Fulfillment Team uses the Subscription Data collected by Service Ping to facilitate the reconciliation review described in the preceding paragraph. Please read our [GitLab SaaS subscriptions](https://docs.gitlab.com/ee/subscriptions/gitlab_com/) and [Self-managed subscriptions](https://docs.gitlab.com/ee/subscriptions/self_managed/) pages for more information.
 
