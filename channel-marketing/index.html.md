@@ -22,6 +22,8 @@ The Global Channel marketing team provides support to partners by creating diffe
 
 Our Channel Marketing Managers enable the channel go-to-market efforts through our [MDF funding and management program](/handbook/resellers/Channel-Program-Guide/MDF/) and are responsible for ensuring they are building a strategic marketing plan with our [marketing ready partners](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=Channel_Mktg_Ready). 
 
+Marketing ready means: partner has an approved business plan with GitLab; has a list of focus accounts mapped with GitLab; has a dedicated person who manages leads sent to the partner by GitLab (Partner Prospect Admin); acknowledges the lead passing and recall process; has a dedicated marketing responsible person to work on the join activities with GitLab; has regular calls with the GitLab Channel Marketing Manager (CMM); acknowledges the MDF Policy and requirements for MDF process (Requests and Claims).
+
 Channel partners are ultimately responsible for the execution of these campaigns.  
 
 ## Marketing with the Channel 
