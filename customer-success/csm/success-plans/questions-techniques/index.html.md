@@ -128,7 +128,7 @@ We also want to ask about Stage Adoption metrics so that we can tie their GitLab
 - **Release**
   - Are you using GitLab to deploy your applications?
   - Do you use GitLab pages to create, manage and deploy static sites?
-  - Are you making use of review apps to get a full production like enviornment in every merge request?
+  - Are you making use of review apps to get a full production like environment in every merge request?
   - How do you currently manage your releases? (i.e. versioning, release notes, etc.)
 - **Configure**
   - Are you using AutoDevOps to provide your users a pre-defined CI/CD configuration?

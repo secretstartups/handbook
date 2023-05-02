@@ -8,7 +8,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ## LAB 4: DISPLAY PIPELINE ENVIRONMENT INFO
 
-1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CICD Hands On Demo** project you have open in a seperate window/tab.
+1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CICD Hands On Demo** project you have open in a separate window/tab.
 1. Open the **ci-environment** snippet and select the **Copy file contents** icon in the upper right corner of the file.
 1. Open your **CICD Demo** project from previous labs.
 1. Select on your `.gitlab-ci.yml` file to view its contents. Select the dropdown next to **Edit**, then **Edit this file only**. Select **Edit**.
