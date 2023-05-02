@@ -88,7 +88,7 @@ markup:
     tabWidth: 2
   tableOfContents:
     startLevel: 2
-    endLevel: 5
+    endLevel: 4
     ordered: false
 
 security:

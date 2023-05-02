@@ -1,16 +1,8 @@
 ---
-layout: handbook-page-toc
 title: "Iteration at SpaceX"
 description: Learn more about how SpaceX and Elon Musk iterate
-canonical_path: "/handbook/values/iteration-examples/spacex.html"
+canonical_path: "/handbook/values/iteration-examples/spacex/"
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Iteration at SpaceX
 
@@ -88,7 +80,7 @@ Elon notes in the interview:
 
 This principle aligns well with a few of GitLab's core values, such as:
 
-- [Iteration](https://about.gitlab.com/handbook/values/#iteration)
+- [Iteration](/handbook/values/#iteration)
 - [Velocity over predictabitlity](https://about.gitlab.com/handbook/engineering/development/principles/#velocity-over-predictability)
 
 ### Automate

@@ -137,9 +137,9 @@ In organizations built on information-based operations, team members' collective
 This is why establishing a transparent [cadence](https://about.gitlab.com/company/cadence/) for decision-making activities, informational updates, and feedback opportunities is important for teams practicing TeamOps. A regular cadence sets a _pace_ for productivity and creates predictable, comfortable intervals for work. Establishing and documenting a cadence for everything from operational workflows and [due dates](https://about.gitlab.com/handbook/teamops/measurement-clarity/#prioritize-due-dates-over-scope)  to company announcements and team meetings can prevent the kinds of distraction and burnout that often result from context switching, distractive research, or individual uncertainty.
 
 {{% details summary="Example of cadence" %}}
-Example: [GitLab’s Quarterly All-Hands Meeting](https://about.gitlab.com/company/gitlab-assembly/)
+Example: [GitLab’s Quarterly All-Hands Meeting](/company/gitlab-assembly/)
 
-At the same time each quarter, executive leadership hosts [GitLab Assembly](https://about.gitlab.com/company/gitlab-assembly/)—a company-wide recap of the past quarter's accomplishments, summary of the new quarter's objectives, and an open-floor Q&A for any employee to resolve questions or concerns. Knowing exactly when this meeting will occur, who will be in attendance, and what will be discussed gives GitLab team members full confidence of when they can have direct access to the executive team about company growth.
+At the same time each quarter, executive leadership hosts [GitLab Assembly](/company/gitlab-assembly/)—a company-wide recap of the past quarter's accomplishments, summary of the new quarter's objectives, and an open-floor Q&A for any employee to resolve questions or concerns. Knowing exactly when this meeting will occur, who will be in attendance, and what will be discussed gives GitLab team members full confidence of when they can have direct access to the executive team about company growth.
 {{% /details %}}
 
 ---
