@@ -88,16 +88,19 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 
 | Articles/Blogs/Features | Category |
 | ------ | ------ |
-| [How GitLab Enabled One Sales Pro to Build Her ‘Dream Life’](https://builtin.com/gitlab-enabled-one-sales-pro-build-her-dream-life?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab) | Sales |
 | [How Iteration drives innovation in our engineering org](https://about.gitlab.com/blog/2022/06/10/how-gitlab-iteration-value-drives-innovation-through-the-engineering-organization/) | Engineering |
 | [How GitLab's customer and partner focus fuels our culture](https://about.gitlab.com/blog/2022/05/03/how-gitlabs-customer-and-partner-focus-fuels-our-culture/) | Sales |
+| [How GitLab Enabled One Sales Pro to Build Her ‘Dream Life’](https://builtin.com/gitlab-enabled-one-sales-pro-build-her-dream-life?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab) | Sales |
+| [DEI Spotlight - Diversity, Equity, and Inclusion at GitLab](https://venturefizz.com/insights/dei-spotlight-diversity-equity-and-inclusion-gitlab) | General / DIB |
 | [GitLab is Changing the Look of DevOps and Remote Work, One Iteration at a Time](https://builtin.com/brand-studio/gitlab-changing-look-devops-remote-work?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab) | General |
-| [Building an all-remote company](https://hbr.org/podcast/2022/09/advice-from-the-ceo-of-an-all-remote-company) | General / All-remote |
 | [The Most Rewarding Teams in Tech are Looking For Talent. Are You in?](https://builtin.com/job-search-recruiting/most-rewarding-teams-tech-looking-talent) | General |
 | [How to win the burnout battle](https://about.gitlab.com/blog/2022/06/07/best-life-best-work/) | General |
 | [Preventing burnout: A manager's toolkit](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/) | General |
 | [Use your uniqueness as your superpower](https://about.gitlab.com/blog/2022/04/04/advice-for-women-seeking-careers-in-tech/) | General |
-| [How to win the burnout battle](https://about.gitlab.com/blog/2022/06/07/best-life-best-work/) | General |
+
+| Podcasts | Category |
+| ------ | ------ |
+| [Building an all-remote company](https://hbr.org/podcast/2022/09/advice-from-the-ceo-of-an-all-remote-company) | General / All-remote |
 
 | Videos | Category |
 | ------ | ------ |
@@ -106,28 +109,25 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | [A Conversation with Ragnar Hardarson, Engineering Manager at GitLab](https://vimeo.com/716075220) | Engineering |
 | [A Conversation with Monmayuri Ray, Engineering Manager, ModelOps at GitLab](https://vimeo.com/745189253) | Engineering |
 | [A Conversation with Nick Nguyen, Sr. Engineering Mgr., Enablement at GitLab](https://vimeo.com/745463953) | Engineering |
-| [A Conversation with Eliran Mesika, Sr. Dir. of Corporate Development at GitLab](https://vimeo.com/752283651) | G&A |
-| [GitLab's Engineering Team: An Inside Look](https://venturefizz.com/videos/gitlab-engineering-team) | Engineering |
+| [GitLab's Engineering Team: An Inside Look](https://www.youtube.com/watch?v=bnq8-iJeUMI) | Engineering |
+
 | [Ishita's Life at GitLab](https://vimeo.com/677814891) | Team Member Spotlight |
 | [Kyla's Life at GitLab](https://vimeo.com/677779723) | Team Member Spotlight |
 | [Bruno's Life at GitLab](https://vimeo.com/677785451) | Team Member Spotlight |
 | [Michael's Life at GitLab](https://vimeo.com/677818344) | Team Member Spotlight |
 | [Liam's Life at GitLab](https://vimeo.com/677812885) | Team Member Spotlight |
-| [Why work remotely?](https://youtu.be/GKMUs7WXm-E) | General |
-| [Everyone can contribute](https://youtu.be/kkn32x0POTE) | General |
+
 | [GitLab's core values](https://youtu.be/_8DFFHYAtj8) | General |
-| [This is GitLab](https://youtu.be/5QeHmiMFhDE) | General |
-| [What is GitLab?](https://youtu.be/MqL6BMOySIQ) | General |
-| [Working remotely at GitLab](https://youtu.be/NoFLJLJ7abE) | General |
+| [What is GitLab?](https://www.youtube.com/watch?v=tmEv_XgwR6Y) | General |
 | [Black is Tech](https://vimeo.com/746975612) | DIB |
 
 There are a number of additional videos on our [corporate YouTube channel](https://www.youtube.com/gitlab), as well as the GitLab Unfiltered YouTube channel about working at GitLab.
 
 | Platforms | Description |
 | ------ | ------ |
-| [GitLab Careers](https://vimeo.com/675024697) | GitLab Careers Page |
-| [Life at GitLab](https://www.linkedin.com/company/5101804/admin/) | LinkedIn Life Page |
-| [Product at GitLab](https://vimeo.com/677814891) | LinkedIn Life Page |
+| [GitLab Careers](https://about.gitlab.com/jobs/) | GitLab Careers Page |
+| [Life at GitLab](https://www.linkedin.com/company/gitlab-com/life/general/?viewAsMember=true) | LinkedIn Life Page |
+| [Product at GitLab](https://www.linkedin.com/company/gitlab-com/life/4763492d-8a7e-49de-8b66-30ad33df805e/?viewAsMember=true) | LinkedIn Life Page |
 | [Engineering at GitLab](https://www.linkedin.com/company/gitlab-com/life/d7a581f5-5dd7-499f-a5e9-79bbcda7f29a/?viewAsMember=true) | LinkedIn Life Page |
 | [UX at GitLab](https://www.linkedin.com/company/gitlab-com/life/2401df61-b442-4630-a061-c586f6d788ba/?viewAsMember=true) | LinkedIn Life Page |
 | [Builtin](https://builtin.com/company/gitlab) | Culture Page and Job Board |
