@@ -82,6 +82,7 @@ To formally recognize members of our revenue organization who partner with marke
 
 # How do I work with the team?
 
+
 **Make a request**
 To create a general request for the Customer Advocacy team, [open an issue here](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/product-marketing) and assign it to Nicole Smith.  
 
@@ -102,6 +103,8 @@ Find us on Slack at #customer-advocacy-and-references.
   Visit about.gitlab.com/customers to find our external customer stories page.
 
 **Other Links**
+
+- [Customer Story Pitch Slide](https://docs.google.com/presentation/d/1Sz0vQwOPL6OEc-VGTWGKXXlUddayKcz-3Xe5a9MhyZE/edit?usp=sharing): Leverage this slide to pitch the value of customer advocacy opportunities to your customers.
 
 -   [Customer Content Dashboard](https://lookerstudio.google.com/u/1/reporting/9b877a27-0b80-40cd-8e8b-1f68f80573dd/page/p_lglfu37l2c): Here we explore key content metrics related to customer content on the website.
 
