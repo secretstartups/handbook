@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Update Tickers"
-description: "The Field Update Tickers are a weekly summary of all relevant updates to the Field.
+description: "The Field Update Tickers are a weekly summary of all relevant updates to the Field."
 ---
 
 ## On this page
