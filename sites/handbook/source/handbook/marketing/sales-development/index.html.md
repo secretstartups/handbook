@@ -1318,81 +1318,13 @@ The next step after identifying all of the Net New focus accounts in a region is
 Examples of the Outbound Prospecting Framework [Can be found here](https://docs.google.com/presentation/d/1O5unjpSTYQFENlfheUi6_ZNV2fbrIqQjxNBqtwhEaYw/edit#slide=id.g10be0957fec_0_488)
 
 
-## Global Enterprise Expand BDR Team
-The Global Enterprise Expand BDR team is responsible for creating qualified meetings, sales accepted opportunities, and pipeline within existing customer accounts (Accounts with total CARR in parent/children/subsidiaries in a hierarchy) in the Large - Enterprise Segment.
-The team is composed of BDRs who focus on strategic account-based, persona-based outreach, strategic outbound prospecting, social selling, and creative outreach to create and expand internal champions that align with the [GitLab value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and use cases.
-The aim for the BDR is to find new business units within these customer account hierarchies who are looking to move from a competitor/GitLab Core/CE to a paid version of GitLab.
-SAEs alone are responsible for renewing/uptiering existing paid customer instances to a higher paid version of the product, eg from Standard to Premium.
-
-### How GitLab defines a customer
-
-Account alignment is based on the ultimate parent. If any account within the ultimate parent hierarchy is a customer and has a `Total CARR` amount of $48 or over, then the entire hierarchy is considered a customer and worked by the Expand team.
-
-Total CARR of $48 and below is deemed as a Land Account and these accounts are flagged with a check mark in the `First Order Available` field on the account object.
-
-Accounts with no check in the box fall to the Expand team.
-
 ## Expand and Territory Alignments
 
 
-### EMEA Enterprise Expand Alignment
-
-EMEA Enterprise BDR Expand Team is aligned to account territories in Northern Europe, DACH, France/Southern Europe, and emerging markets. Target accounts are based on SAE strategy, potential CARR, Intent data (propensity to buy), and industry.
-
-| **Role**         |  **BDR**             |  **Lead & Account Assignments**      |
-| :------------- |  :--------------------------------- | :----------------- |
-| SE - France       |  Bastien Escude   |  Hugh Christey, Théo Deschamps-Peugeot, Yannick Muller, Simon Duchene   |
-| DACH / CEE      |  Julian Bede   |  Christoph Stahl, Dirk Dornseiff, Christoph Caspar, Dennis Pfändler, Mac Grzelak   |
-| DACH     |  Emir Korajcevic  |  Rene Hoferichter, Hedayat Paktyan  |
-| UKI / UKI PubSec - SE (Spain,Italy)       |  Randeep Nag   |  Peter Davies, Jessica Cousins, Phillip Smith, Pierre Goyeneix |
-| Benelux / Nordics / Balkans      |  Tatiana Fernandez   | Annette Kristensen, Aslihan Kurt, Nasser Mohunlol, Nicolas Poulakakis  |
-| UKI       |  Tom Elliott   | Godwill NDulor, Warren Searle, Justin Haley, Nicholas Lomas, Steven Challis  |
-
-### EMEA Mid-Market BDR Alignment
-
-The EMEA MM FO team is aligned to FO accounts in UKI, DACH, and France as well as TERR accounts in Nordics, Benelux, Eastern Europe, Southern Europe, Northern Africa and Israel.
-
-The team's baseline outbound activity revolves around at least 25 accounts and 150 contacts per BDR per week.
-
-|**BDR**|**Territory**|**Territory Codes**| BDR Secondary Language Proficiency |
-| ------ | ------ | ------ | ------ |
-| Eamon Keanne | UKI | COMM_EMEA_MM_EMEA_NORTH_FO_01, COMM_EMEA_MM_EMEA_NORTH_FO_02 | N/A |
-| Svitlana Balitska | DACH  | COMM_EMEA_MM_EMEA_CTL_FO_01, COMM_EMEA_MM_EMEA_CTL_FO_02| German |
-| Anastasiia Bakunovets | France | COMM_EMEA_MM_EMEA_SOUTH_FO_01, COMM_EMEA_MM_EMEA_SOUTH_FO_02 | French |
-| Izzy Akinniranye | Nordics & Benelux | COMM_EMEA_MM_EMEA_NORBEN_TERR_01, COMM_EMEA_MM_EMEA_NORBEN_TERR_02, COMM_EMEA_MM_EMEA_NORBEN_TERR_03, COMM_EMEA_MM_EMEA_NORBEN_TERR_04, COMM_EMEA_MM_EMEA_NORBEN_TERR_05A, COMM_EMEA_MM_EMEA_NORBEN_TERR_05B, COMM_EMEA_MM_EMEA_NORBEN_TERR_06, COMM_EMEA_MM_EMEA_NORBEN_TERR_07, | N/A |
-| Denis Stete | Eastern Europe, Portugal and Spain | COMM_EMEA_MM_EMEA_SOUTH_TERR_01, COMM_EMEA_MM_EMEA_SOUTH_TERR_03, COMM_EMEA_MM_EMEA_SOUTH_TERR_04, COMM_EMEA_MM_EMEA_SOUTH_TERR_05 | Spanish |
-| Francesca Gianfiglio | Israel, Italy and Northern Africa | COMM_EMEA_MM_EMEA_SOUTH_TERR_02, COMM_EMEA_MM_EMEA_SOUTH_TERR_06, COMM_EMEA_MM_EMEA_SOUTH_TERR_07 | Italian |
-
-
-
-
-
-In case of any AE requests for outbounding, the go-to BDRs above are briefed to incorporate these requests to their pipeline as a priority.
-
-## Expectations
-
-### Expand BDRs are responsible for:
-
-- Accounts with their name in the `BDR Assigned` field
-- Leading account planning efforts with SAEs/CSMs/ISRs and creating in-depth account plans for top focus expand accounts and other accounts in their hierarchy
-- Qualifying and converting marketing-generated leads (MQLs) and inquiries into sales accepted opportunities (SAOs)
-- Aligning their outbound/inbound prospecting efforts to field/corporate/strategic/account based marketing campaigns
-- Educating prospects and making positive impressions
-- Generating/Expanding GitLab awareness, meetings, and ARR pipeline for sales
-- Collaborating with peers, marketing, and sales teams
-
-
-### Requirements:
-
-- Maintain a high sense of autonomy to focus on what's most important
-- Participate in lead planning, execution, and cross-functional meetings
-- Participate in initial qualifying meetings, discovery calls, and follow-up conversations
-- Maintain exceptional Salesforce hygiene, logging all prospecting activity, conversations and account intelligence uncovered, including LinkedIn conversations and calls as well as emails.
 
 
 ## Working with Sales
-Expand BDRs should prioritize communication with the SAEs within territories they are aligned to. BDRs will organize and schedule a kickoff call to:
-- Review the focus expand accounts (including all children/subsidiaries of over 500 employees)
+BDRs should prioritize communication with the SAEs within territories they are aligned to. BDRs will organize and schedule a kickoff call to:
 - Gather actionable intelligence from SAEs/CSMs/ISRs and discuss key expand strategy
 - Research the account with the SAEs/CSMs/ISRs, see if LinkedIn introductions can be made
 - Research the account on LISN and select 10 - 15 contacts who follow GitLab or who fall into the personas we target
