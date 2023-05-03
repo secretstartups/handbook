@@ -143,8 +143,8 @@ You then need to create a new webhook using the following information:
 
 * URL:
   https://ops.gitlab.net/api/v4/projects/619/ref/master/trigger/pipeline?token=TOKEN&variables[PROJECT_ID]=PROJECT_ID
-  * Replace TOKEN with the Contact Sync Token found within the Support Ops Vault
-    in 1Password.
+  * Replace TOKEN with the `Contact Management Project token` value found
+    within the Support Ops Vault in 1Password.
   * Replace PROJECT_ID with the project's ID.
 * Check the box next to `Push events`
 * Check the box next to `Enable SSL verification`
@@ -171,9 +171,6 @@ Every contact within that file uses the format:
 Where `NAME_OF_CONTACT` is the contact's name and `EMAIL_OF_CONTACT` is the
 contact's email. Both are required, so if you do not know the `NAME_OF_CONTACT`,
 use the `EMAIL_OF_CONTACT` value.
-
-An example of a working and valid contacts.yaml can be found
-[here](https://gitlab.com/support/zd-global-orgs/organization-380989798980/-/blob/master/contacts.yaml).
 
 You should ensure the contacts listed matching what the Zendesk organization
 _currently_ has in place.
@@ -209,6 +206,9 @@ out in the support operations slack channel.
 
 To remove the setup, simply delete the project in question. Doing so will
 effectively remove the contact management sync for the organization completely.
+
+Finally, update the organization within Zendesk. You want to remove the value
+from the `Contact Management Project ID` field.
 
 **NOTE** If the customer is over 30 contacts at the time of the removal request,
 ask the customer to use the contact management project to lower their contact
