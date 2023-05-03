@@ -13,13 +13,15 @@ IT Enterprise Applications Administrator is a [grade 6](https://about.gitlab.com
 
 ### IT Enterprise Applications Administrator Responsibilities
 
-- Technical Delivery: Ability to administer and configure finance systems applications to support GitLab business processes while adhering to SOX compliant change management.
+- Technical Delivery: Ability to administer and configure enterprise applications to support GitLab business processes while adhering to SOX compliant change management.
 - Process Improvement: Accomplish improvements to processes that you support. Understanding the impacts of changes recommended and how to translate them into technical requirements. Document updated processes in the company handbook.
 - Business Acumen: Understanding of core business processes of quote to cash, record to report, hire to retire and procure to pay. Motivation for continuous learning in these areas.
 - Business Engagement: Engage with your team and stakeholders regarding their business strategy and objectives for automating and optimizing processes. Meet regularly with business partners to ensure that the applications are functioning as designed and supporting their needs.
 - Compliance: Supports data, security, and legal governance processes and adherence of guidelines between internal business units and systems in order to ensure efficient and compliance of technical delivery.
 - Project Management: Run small sized projects that improve our ability to make better data focused insights or make the company more efficient.
-- Share our values, and work in accordance with those values.
+- Solve technical problems of moderate scope and complexity.
+- Craft code as required in Dev that meets our internal standards for style, maintainability, and best practices.
+- Conduct Code Review within our Code Review Guidelines and ensure community contributions receive a swift response.
 
 ### IT Enterprise Applications Administrator Requirements
 
@@ -59,6 +61,9 @@ Extends the IT Enterprise Applications Administrator responsibilities:
       - Assist with the implementations, and post-production support, of Workday’s HCM Suite of modules.
       - Develop technical integrations using Workday Studio, Workday RaaS Integrations, Enterprise Interface Builder (EIB), Calculated Fields, Web Services, Workday Custom Reports, Web Services, XSLT, and xPath.
       - Contribute to Workday R1/R2 release reviews and testing by identifying impact associated with new release features.
+   - Zuora Billing & Revenue:
+      - Create and maintain customizations within Zuora using the Zuora API and the Zuora Object Query Language (ZOQL).
+
 
 ### IT Enterprise Applications Engineer Requirements
 
@@ -70,17 +75,23 @@ Extends the IT Enterprise Applications Administrator responsibilities:
 - Application Specific Skills:
    - SFDC:
       - Development experience with advanced Salesforce.com development tools and techniques (e.g. Apex language, Force.com custom development, triggers, controllers, JavaScript, Force.com SOAP and REST APIs, JSON, AngularJS, jQuery, JavaScript, sObjects, SOQL, SOSL, Chatter APIs, outbound messaging, Bootstrap, Lightning Design System (LDS), Lightning Components and Visualforce pages).
-      - Strong preference for candidates who are Salesforce.com certified in the following areas - Certified Platform Developer I, Certified Platform Developer II.
       - Experience with ETL tools like MuleSoft, Workato or Informatica Cloud would be a plus.
+      - Salesforce.com certified Platform Developer, Salesforce.com App Builder, Architect or other advanced certifications.
    - NetSuite:
       - Full understanding of NetSuite stack and experience with all NetSuite modules (GL, AP, AR, FA, SuiteBilling, Procurement, etc.).
       - Working knowledge of SuiteScript, SuiteTalk, SuiteFlow, CSV imports, user provisioning, defining roles, analytics, and scheduling scripts.
       - Expertise in web technologies such as HTML, CSS, JavaScript, Web Services, and Eclipse.
       - Strong data analytics, reporting, and database experience (SQL and NetSuite and other reporting tools, ODBC).
+      - NetSuite SuiteCloud Developer certifications a plus.
    - Workday:
       - Strong technical experience with XSLT, XTT, XML and object-oriented development including Java.
       - Experience with Web Services and APIs (WSDL, SOAP, REST and WS standards).
       - Experience with building web services integrations (REST/SOAP).
+      - Workday Pro HCM, Compensation, Integrations, Reporting certifications a plus 
+   - Zuora Billing & Revenue:
+      - Experience working with Zuora, including experience with the Zuora 360, API and ZOQL.
+      - Experience integrating Zuora with other systems such as Salesforce, Netsuite, and Avalara.
+      - Zuora Certified Platform Admin, Zuora Billing and Revenue Certifications a plus.
 
 ### IT Manager, Enterprise Applications Engineering
 
