@@ -311,9 +311,13 @@ All international travelers must follow each country's guidelines governing entr
 If a meeting/meet-up includes 5 or more GitLab Team Members meeting in person, please follow these protocols:
 
 ### Covid-19 Testing:  
-All GitLab attendees must test negative on a rapid at-home Antigen test for Covid-19 prior to travel, and again each day of the event prior to meeting with team members.  If you have been exposed to Covid-19 within 10 days of travel, tested positive for Covid, or if you are symptomatic, please do not travel regardless of test results.  
+All GitLab attendees must test negative for COVID-19, three days prior to travel, and again each day of the event prior to meeting with team members.  
 
 The cost of the test kits are often covered by medical insurance.  In the event that the tests aren't covered by your insurance plan, you may expense the cost of the Antigen tests required during business travel. If you are attending a large event, please check with your event facilitator who may have tests available at discounted/bulk prices.  
+
+### Team Member Not Feeling Well
+
+If a team member is not feeling well, regardeless of COVID-19 test results, team members are asked not to attend in person events or activities. Team members should seek medical advise from their healthcare provider to determine when it is safe to be around others. 
 
 ### Positive Test Result:  
 If a Team Member tests positive for Covid-19, they are to refrain from meeting with others and must contact the facilitator of the meeting, and/or the venue contact, and notify teammemberrelations@gitlab.com via email. The team member may be required to quarantine until testing negative for Covid-19 which could take 7-10+ days.  Quarantine and isolation rules differ by country and that's where Team Member Relations can help determine next steps.  
