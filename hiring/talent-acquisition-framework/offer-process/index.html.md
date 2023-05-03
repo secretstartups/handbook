@@ -195,7 +195,7 @@ Our best practice is to set up approvals so the department head, or VP, is the a
 
 **Common approval challenges:**
 
-* Offer stuck in approvals: If the offer is stuck in the approvals chain because of someone is out of office, the Recruiter can talk to the approver's manager about an appropriate temporary adjustment and recommend this to the Enablement team. Recruiters should be proactive in reaching out to approvers if an offer is urgent or a candidate is being inconvenienced by a long wait time. If there is a known OOO, this discussion should happen before there's an offer waiting for approval. Enablement can help with any changes needed.
+* Offer stuck in approvals: If the offer is stuck in the approvals chain because someone is out of office, the Recruiter can talk to the approver's manager about an appropriate temporary adjustment and recommend this to the Enablement team. Recruiters should be proactive in reaching out to approvers if an offer is urgent or a candidate is being inconvenienced by a long wait time. If there is a known OOO, this discussion should happen before there's an offer waiting for approval. Enablement can help with any changes needed.
 * Offer approvals chain is incorrect: If approvers are missing or incorrect, the Recruiter should contact a member of the Enablement team to adjust. The only people with access to make approvers changes are Enablement and Director, Executive Recruiting, who change approval chains to maintain confidentiality for executive positions.
 
 **Counter offer details:**
