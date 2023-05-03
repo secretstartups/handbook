@@ -39,7 +39,7 @@ Both DAG and task naming should be as descriptive as possible so that engineers 
 
 As an example consider the DAG and task naming for the `gitlab_com_db_extract` DAG, which has tasks with names like `gitlab-com-packages-package-files-db-incremental-pgp-extract`. It is tempting to avoid the redundancy between the task and DAG naming, but since we sometimes only see the task name (like in Slack or Prometheus errors, or when using 'Browse' in airflow) it ends up being helpful. 
 
-Starting with Summer of 2021 we've introducted a more abbreviated, but hopefully equally descriptive way of describing some of the most common DAGs we create and this convention should be used in all DAG created since. Please use a prefix to indicate whats performed by that DAG. For example, if we had created the gitlab extract DAG after this convention it should be named `el_gitlab_com_db_extract` since it performs both extraction and loading phases, whereas `greenhouse_extract` would be `l_greenhouse` as it only loads extracted data from S3 into Snowflake.
+Starting with Summer of 2021 we've introduced a more abbreviated, but hopefully equally descriptive way of describing some of the most common DAGs we create and this convention should be used in all DAG created since. Please use a prefix to indicate whats performed by that DAG. For example, if we had created the gitlab extract DAG after this convention it should be named `el_gitlab_com_db_extract` since it performs both extraction and loading phases, whereas `greenhouse_extract` would be `l_greenhouse` as it only loads extracted data from S3 into Snowflake.
 
 List of prefix indicators
 
@@ -58,25 +58,25 @@ All DAGs are created using the `KubernetesPodOperator`, so the airflow pod itsel
 
 There are 4 containers running in the current Airflow deployment as defined in the [deployment.yml](https://gitlab.com/gitlab-data/data-image/blob/master/airflow_image/manifests/deployment.yaml):
 
-1. A sidecar container checks the repo activity feed for any merges to master. If there was one, the sidecar will reclone the repo so that Airflow runs the freshest DAGs.
+1. A sidecar container checks the repo activity feed for any merges to master. If there was one, the sidecar will re-clone the repo so that Airflow runs the freshest DAGs.
 1. The Airflow scheduler
 1. The Airflow webserver
-1. A cloudsql proxy that allows Airflow to connect to our cloudsql instance
+1. A Cloud SQL proxy that allows Airflow to connect to our Cloud SQL instance
 
 #### Kubernetes Setup
 
 We run in the `gitlab-analysis` project in Google Cloud Platform (GCP). Airflow runs in the `data-ops` cluster.
 
-##### Nodepools
+##### Node pools
 
-Within this cluster there are 4 nodepools: `highmem-pool`, `production-task-pool`, `testing-pool`, and `sdc-1`.  Each nodepool has a dedicated use for ease of monitoring and resource management.
+Within this cluster there are 4 node pools: `highmem-pool`, `production-task-pool`, `testing-pool`, and `sdc-1`.  Each node pool has a dedicated use for ease of monitoring and resource management.
 
 1) `highmem-pool` - used to run the Airflow server, scheduler, and network components.  Autoscales from 1-2 nodes.  
 2) `production-task-pool` - used to run most production Airflow tasks except SCD tasks.  Autoscales from 2-5 nodes.  
 3) `sdc-1` - used to run production SCD extractions.  Autoscales from 1-3 nodes.  
-4) `testing-pool` - a pool that does not usually have a running node, but is used to run engineer's locally-launced Airflow tasks.  Autoscales from 1-2 nodes.  
+4) `testing-pool` - a pool that does not usually have a running node, but is used to run engineer's locally-launched Airflow tasks.  Autoscales from 1-2 nodes.  
 
-All nodepools except the `highmem-pool` have labels and [taints](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/) to manage which nodepool launches which Airflow task. For a task to be scheduled in a nodepool, a task must have nodeAffinity for the pool and it must have a toleration that matches the taint. See [this MR](https://gitlab.com/gitlab-data/analytics/merge_requests/2006/diffs) where we added the affinity and toleration for the Slowly-Changing Dimensions task for our postgres pipeline jobs.
+All node pools except the `highmem-pool` have labels and [taints](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/) to manage which node pool launches which Airflow task. For a task to be scheduled in a node pool, a task must have nodeAffinity for the pool and it must have a toleration that matches the taint. See [this MR](https://gitlab.com/gitlab-data/analytics/merge_requests/2006/diffs) where we added the affinity and toleration for the Slowly-Changing Dimensions task for our postgres pipeline jobs.
 
 #### Create Namespace
 
@@ -452,7 +452,7 @@ For more detail on the 2 solutions, see below.
 - Look at the YAML for that volume and find the `pdName` under `gcePersistentDisk`. This is the GCE Disk that will need to be updated
 - Go to the [Compute Disks section of GCP](https://console.cloud.google.com/compute/disks?project=gitlab-analysis) and find the referenced disk
 - Click through on that disk and edit it to update the size
-- Go back to the YAML for the PersistentVolume and update `storage` which is under `spec: capcacity:`
+- Go back to the YAML for the PersistentVolume and update `storage` which is under `spec: capacity:`
 - The claim size should now be increased
 
 Alternatively, you can update the `persistent_volume.yaml` definition in the project. However, redeploying this _may_ delete the data already in the claim. This has not been tested yet.
