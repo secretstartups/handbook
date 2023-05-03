@@ -25,6 +25,7 @@ Our [Trust Center](/security/) outlines the various compliance and assurance cre
 The following links contain frequently asked security, legal & privacy, and availability questions.
 
 * [Security FAQs](/security/faq/)
+  * [Application Security FAQs](/security/security-engineering/application-security/runbooks/faq.html)
 * [Legal & Privacy FAQs](/privacy/)
 * [Availability FAQs](/handbook/engineering/infrastructure/faq/)
 
