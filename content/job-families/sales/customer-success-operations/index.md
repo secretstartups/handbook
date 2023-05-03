@@ -93,6 +93,39 @@ The Customer Success Operations Analyst (Senior) is a [grade 7](https://about.gi
 - Progressive experience building and maintaining tools such as Gainsight, Salesforce, Mavenlink, and/or other Customer Success and Professional Services systems
 - Relevant ownership of program management and/or operations
 
+### Staff Customer Success Operations Manager
+
+The Staff Customer Success Operations Manager reports to the [Senior Manager, Customer Success Operations](#senior-manager-customer-success-operations).
+
+#### Job Grade
+
+The Staff Customer Success Operations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+- Gainsight Administration: act as the primary administrator on our Gainsight Instance, this includes significant oversight of Gainsight and/or other system architecture
+- Triage and refine Customer Success Operations issues for streamlined review and effective and timely deployments
+- Manage Gainsight roadmap and agile milestone management to ensure timely completion of issues
+- Drive cross-functional programs and initiatives to support scaling of the business and integrate the Customer Success engagement processes with teams throughout GitLab (e.g., sales, marketing, product)
+- Lead the development and rollout of systems and digital tools to improve the team’s effectiveness and efficiency and provide increased customer insights through data, automation, and telemetry
+- Collaborate with Field Enablement to assist with training and enablement
+- Identify opportunities to improve current reporting formats, processes, and systems
+- Create and coordinate key reporting for GitLab leadership team, partnering with the Customer Success analyst to provide reporting on customer adoption, sentiment and advocacy and business results (i.e., forecasts, renew, expand, churn)
+- Assist implementing lifecycle processes, policies and metrics to support customer outcomes and business growth, defining the appropriate touch points (i.e., human-led and digital) throughout the customer journey (pre and post initial sale)
+
+#### Requirements
+
+- Extends that of the Customer Success Operations Analyst (Senior) Requirements
+- Progressive experience building and maintaining tools such as Gainsight, Salesforce, Mavenlink, and/or other Customer Success and Professional Services systems
+- Strong analytical ability and able to prioritize multiple projects
+- Excellent problem solving, project management, interpersonal and organizational skills
+- SaaS and B2B experience
+- Interest in GitLab, and open source software
+- You share our values and work in accordance with those values
+- Ability to use GitLab
+- Gainsight Admin certification, preferred
+- Understanding and knowledge of product usage date is preferred
+
 
 ### Manager, Customer Success Operations
 
@@ -189,4 +222,3 @@ Candidates for this position can expect the hiring process to follow the order b
 
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring).
-
