@@ -89,9 +89,9 @@ Here are GitLab’s current key topics with their drivers:
 
 Part of doing responsible business means minimizing our environmental footprint. However, to do that, we need data. We will be conducting our first formal greenhouse gas inventory in 2023 to understand the full scope of our emissions. Our inventory will help inform areas where we can reduce our emissions, set goals, and strategize a plan to achieve our goals. 
 
-We believe in iteration and don’t want to wait for perfection before starting to take corrective measures to reduce our carbon footprint. As part of our commitment to iteration, GitLab began purchasing [carbon offsets](/handbook/environmental-sustainability/) in 2020. As of January 2023, we have compensated over 23,223 tons of CO2 which is the equivalent of planting over 13,126 trees or taking 5,049 passenger cars off the road for an entire year.
+We believe in iteration and don’t want to wait for perfection before starting to take corrective measures to reduce our carbon footprint. As part of our commitment to iteration, GitLab began purchasing carbon offsets in 2020. As of January 2023, we have compensated over 23,223 tons of CO2 which is the equivalent of planting over 13,126 trees or taking 5,049 passenger cars off the road for an entire year.
 
-GitLab has [purchased accredited carbon offsets](https://about.gitlab.com/handbook/environmental-sustainability/#select-carbon-offset-projects-supported) since 2020 and has avoided unplanned deforestation, improved forest management, and contributed to afforestation, reforestation and revegetation in a variety of countries like Peru, Colombia, and the USA. 
+GitLab has purchased accredited carbon offsets since 2020 and has avoided unplanned deforestation, improved forest management, and contributed to afforestation, reforestation and revegetation in a variety of countries like Peru, Colombia, and the USA. 
 
 ### Social
 
@@ -166,7 +166,7 @@ Email: ESG@GitLab.com.
 
 **Q: Does GitLab calculate its carbon emissions?** 
 
-A: GitLab will conduct a formal greenhouse gas inventory in 2023. [Click here](/handbook/environmental-sustainability/) for historical in-house estimates. 
+A: GitLab will conduct a formal greenhouse gas inventory in 2023.  
 
 **Q: Has GitLab set a Science Based Target (SBT)?**
 
