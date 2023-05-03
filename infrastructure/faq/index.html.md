@@ -57,6 +57,4 @@ A: [You can see what services we're logging in our runbooks](https://gitlab.com/
 
 #### Q: How long are GitLab logs retained? 
 
-A: [You can see the retention policy in our runbooks](https://gitlab.com/gitlab-com/runbooks/tree/master/logging/doc#retention).
-
-
+A: [You can see the retention policy in our runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/logging/README.md?plain=0#retention).
