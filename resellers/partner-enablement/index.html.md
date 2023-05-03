@@ -29,7 +29,7 @@ The three main areas of making money with GitLab are selling Licensing, Training
 
 **$$ Training and Professional Services (PS):**  Customers new to GitLab will likely need help understanding the more effecient GitLab Flow Workflow. Our [GitLab Flow Best Practices](https://about.gitlab.com/topics/version-control/what-are-gitlab-flow-best-practices/) is a great place to start learning about how to work more efficiently. Also see the bottom of the page for [videos about GitLab Flow.](https://about.gitlab.com/handbook/resellers/partner-enablement/#third-party-tutorials)
 
-New customers to GitLab will need help migrating from existing tools and Git-based software sytems. You are welcome to resell GitLab's Professioanl Service offerings - or, as a partner, you can offer you own similar migration, training and enablement offerings. [Conduct the Project Service](https://partners.gitlab.com/prm/English/c/Services) of installation, configuration and integration, and migration from other tools.
+New customers to GitLab will need help migrating from existing tools and Git-based software sytems. You are welcome to resell GitLab's Professional Service offerings - or, as a partner, you can offer you own similar migration, training and enablement offerings. [Consult the Partner Services Overview Page](https://partners.gitlab.com/prm/English/c/Services) for guidance on creating serivces offerings on installation, configuration and integration, and migration from other tools. See more details on creating your own migration services offering in our [Partner Migration Services Overview](https://about.gitlab.com/handbook/resellers/partner-enablement/partner-migration-services).
 
 **$$$  License Growth Revenue:**  We have a Land and Expand model.  After successful customers adopt GitLab to solve a single-point problem, many discover that GitLab can replace and remove duplicative software tools.  When using GitLab as an end-to-end software development and delivery platform, removing redundant software tools becomes evident.  We focus our [incentives for partners](https://partners.gitlab.com/prm/English/s/assets?id=350001) on new licenses (Land) and license growth over the baseline (Expand).  We focus on the increased number of GitLab licensed users because we provide commercial, technical support, so you don’t have to (as much).  Partners play a crucial role in practice and integration support.  GitLab maintains a commercial support team that other DevOps product toolchain companies cannot provide as part of our single product platform viewpoint.  Customers buy more GitLab from you by vertically expanding their footprint from Premium to Ultimate licenses or increasing their user count horizontally.
 
@@ -37,7 +37,6 @@ New customers to GitLab will need help migrating from existing tools and Git-bas
 
 
 ## Ready to get Started?
-{: .gitlab-purple}
 [Click Here](https://partners.gitlab.com/English/register_email.aspx) to apply to GitLab's Partner Program.
 
 # Learning More
@@ -47,7 +46,6 @@ You will find sales guides, use cases, training materials, and program guides in
 Some of the links below require you to login to [GitLab's Partner Portal](https://partners.gitlab.com/) first.
 
 ## Partner Program 
-{: .gitlab-purple}
 
 -   **Partner Program Overview:** [FY23 GitLab Channel Program Guide](https://partners.gitlab.com/prm/English/s/assets?id=414926) This document includes details about sales tracks, benefits, and requirements at different partner levels.  (Be sure to log in to partners.gitlab.com first to access this link.)
 
@@ -64,7 +62,6 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 {: .gitlab-orange}
 
 ## Get to know GitLab, what it is, what it offers, and what it does
-{: .gitlab-purple}
 
 1.  GitLab [promo video](https://player.vimeo.com/video/702922416) on [https://about.gitlab.com](https://about.gitlab.com) (1 min)
 
@@ -76,7 +73,6 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 
 
 ## Pitch GitLab and uncover new opportunities
-{: .gitlab-purple}
 
 1.  Please register for the [Building Pipelines GitLab Partner Webinar Series,](https://content.gitlab.com/viewer/63bddf02edadd0b1346a73db) where we discuss various sales and presales-level topics that help you build your sales pipeline with GitLab.
 
@@ -90,7 +86,6 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 
 
 ## Learn how to solution and transact a GitLab deal
-{: .gitlab-purple}
 
 1.  GitLab has a leading market share in self-managed deployments.  Here are our [reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) and [install guides](https://docs.gitlab.com/ee/install/).  
 
@@ -102,7 +97,6 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 
 
 ## Services opportunities when selling Gitlab
-{: .gitlab-purple}
 
 1.  Here are some [service kits](https://partners.gitlab.com/prm/English/c/Channel_Service_Packages) we have developed, including sample Statements of Work (SOWs) and Levl of Effort (LOEs).
 
@@ -113,7 +107,6 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 {: .gitlab-orange}
 
 ## Compete
-{: .gitlab-purple}
 
 * [GitLab Maturity Page](https://about.gitlab.com/direction/maturity/): A very transparent assessment of the maturity of each GitLab feature. No direct comparisons with other vendors here.
 
@@ -122,7 +115,6 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 * [DevOps Tools Landscape](https://about.gitlab.com/devops-tools/): A great place to learn about how GitLab compares to its competitors. A more detailed view of the same is the [DevOps maturity comparison chart](https://about.gitlab.com/competition/). Clicking on some product names (on both pages) takes the viewer to a detailed comparison of GitLab and the selected competitor. For example: [GitLab vs. GitHub](https://about.gitlab.com/competition/github/).
 
 ## Technical
-{: .gitlab-purple}
 
 * [GitLab Documentation](https://docs.gitlab.com/): The best starting point for technical questions. It lists feature descriptions, excellent tutorials, and troubleshooting tips.
 
@@ -145,7 +137,6 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 {: .gitlab-orange}
 
 ## Demo resources to get started showcasing the Platform
-{: .gitlab-purple}
 
 1.  The GitLab [Demo Handbook Page.](https://about.gitlab.com/handbook/customer-success/solutions-architects/demonstrations/)
 
@@ -157,7 +148,6 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 
 
 ## Existing demo projects and guides you can leverage
-{: .gitlab-purple}
 
 1.  [Ultimate GitOps Workshop](https://guided-explorations.gitlab.io/workshops/gitlab-for-eks/): Leverage GitLab K8s agent to deploy to EKS.
 
@@ -173,7 +163,6 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 
 
 ## Proof of Value (POV), aka POC’s
-{: .gitlab-purple}
 
 Here’s the [handbook page](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/) for conducting POVs
 
@@ -182,7 +171,6 @@ Here’s the [handbook page](https://about.gitlab.com/handbook/customer-success/
 {: .gitlab-orange}
 
 ## Third-Party Tutorials
-{: .gitlab-purple}
 
 1.  **GitLab for Beginners:**
     - [Learn GitLab in 3 Hours GitLab Complete Tutorial For Beginners](https://www.youtube.com/watch?v=8aV5AxJrHDg) (~ 3 hrs)
