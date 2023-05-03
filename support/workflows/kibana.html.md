@@ -98,6 +98,16 @@ To see a list of projects deleted as part of a (sub)group deletion, in sidekiq:
 1. Filter `json.message` to "was deleted".
 1. Set a second filter `json.message` to `path/group`.
 
+#### Viewed CI/CD Variables
+
+While we do not specifically log _changes_ made to CI/CD variables in our [audit logs for group events](https://docs.gitlab.com/ee/administration/audit_events.html#group-events), there is a way to use Kibana to see who may have viewed the variables page. Viewing the variables page is required to change the variables in question. While this does _not_ necessarily indicate someone who has viewed the page in question has made changes to the variables, it should help to narrow down the list of potential users who could have done so. (If you'd like us to log these changes, we have [an issue open here to collect your comments](https://gitlab.com/gitlab-org/gitlab/-/issues/8070).)
+
+1. Set a filter for `json.path` `is` and then enter the full path of the associated project in question, followed by `/-/variables`. For example, if I had a project named `tanuki-rules`, I would enter `tanuki-rules/-/variables`.
+2. Set the date in Kibana to the range in which you believe a change was made.
+3. You should be able to then view anyone accessing that page within that time frame. The `json.meta.user` should show the user's username and the `json.time` should show the timestamp during which the page was accessed.
+4. You may also be able to search by `json.graphql.operation_name` `is` `getProjectVariables`.
+5. In general, a result in the `json.action` field that returns `update` and `json.controller` returning `Projects::VariablesController` is likely to mean that an update was done to the variables.
+
 #### Find Problems with Let's Encrypt Certificates
 
 In some cases a Let's Encrypt Certificate will fail to be issued for one or more reasons. To determine the exact reason, we can look this up in Kibana.
