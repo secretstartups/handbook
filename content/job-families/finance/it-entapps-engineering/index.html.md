@@ -87,7 +87,7 @@ Extends the IT Enterprise Applications Administrator responsibilities:
       - Strong technical experience with XSLT, XTT, XML and object-oriented development including Java.
       - Experience with Web Services and APIs (WSDL, SOAP, REST and WS standards).
       - Experience with building web services integrations (REST/SOAP).
-      - Workday Pro HCM, Compensation, Integrations, Reporting certifications a plus 
+      - Workday Pro HCM, Compensation, Integrations, Reporting certifications a plus.
    - Zuora Billing & Revenue:
       - Experience working with Zuora, including experience with the Zuora 360, API and ZOQL.
       - Experience integrating Zuora with other systems such as Salesforce, Netsuite, and Avalara.
