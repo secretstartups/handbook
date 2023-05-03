@@ -34,7 +34,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Security | Matt Angell | Guido Rolli|
 | Incubation | Matt Angell  | Guido Rolli |
 | Product Management  | Matt Angell  | Guido Rolli |
-| UX  | Matt Angell  | Guido Rolli |
+| UX  | Riley Smith | Guido Rolli |
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails.
 
