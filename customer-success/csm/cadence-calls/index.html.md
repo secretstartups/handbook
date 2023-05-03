@@ -149,6 +149,8 @@ The rationale for saving call notes in this manner is as follows:
 - Access to Gainsight is limited to CSMs, so other members of the Sales and Customer Success organizations will look for notes in Google Drive.
 - If a team member who created the Google Doc leaves GitLab, the notes will remain accessible to everyone, as they live in the shared Google Drive folder.
 
+Customer call notes should also always be linked in the C360 for the account, under the "Summary" tab, in the "Account Attributes (Editable)" section, in the "Google Doc Notes" field.
+
 When CSMs are logging calls in Gainsight [Timeline](/handbook/customer-success/csm/gainsight/timeline/), they need to copy & paste the link to the Google Doc. They should either write a simple summary of the meeting along with the link, or have the link be a direct deep link to the date the call happened, so as to not duplicate efforts.
 
 At the end of each customer call any changes to customer health should be reflected in the customer's Gainsight account. You have a few ways to update the CSM Sentiment and Product Sentiment for an account's health score, described in [Determining CSM Sentiment and Product Risk](/handbook/customer-success/csm/health-score-triage/#determining-CSM-sentiment-and-product-risk), the easiest of which is updating it directly when logging the call.
