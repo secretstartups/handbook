@@ -382,16 +382,15 @@ The mileage rate is based on your legal entity’s mileage rates for the current
 
 ### Team Building Budget
 
-In FY23, each eGroup member has been allocated $50 per team member per quarter for FY23-Q1 to FY23-Q3 for team building events. For FY23-Q3 each eGroup member may determine if they wish to use their team building allocation at Contribute or for a different team building event. There is no additional team building budget for Contribute above the $50 per team member. In FY23-Q4 there is an additional budget of $100 per team member. 
+In FY24, each EGroup member has been allocated a budget per quarter for FY24-Q2 to FY24-Q4 for team building events. Each EGroup member can use their discretion when using the budget. This budget should cover leadership offsites, team member get togethers, the holiday party and other virtual fun events.
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Year-end Holiday Party Budget
 
-GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in Q4 (until end of January) for the different year-end holiday celebrations. 
+GitLab has allocated budget for a holiday event in Q4 (until end of January) for the different year-end holiday celebrations for team members. Note in FY24: This budget is part of the team building budget above.
 
 Guidance on the year-end holiday budget:
 - Each Egroup member will coordinate for their respective organizations or appoint a designee for the organization
 - The budget can be used for in person or virtual events
-- The budget is [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member and funds cannot be pooled or re allocated if there is under spend
 - The money cannot be used for charitable donations or gifts
 - If you are hosting an event and asked to attend another event, the budget is for all events and not per event
 - The budget can be spent anytime in Q4, please make sure you promptly submit your expense report prior to the end of Q4
