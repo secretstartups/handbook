@@ -54,13 +54,6 @@ Come learn about DevOps metrics in GitLab and why it is useful to track them. We
 
 ### APAC Time Zone Webinars
 
-#### Intro to GitLab
-##### May 4th, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_GvjZ7i7IRNSJul7l0ZYLGA#)
-
 #### Intro to CI/CD
 ##### May 9th, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
 
@@ -84,13 +77,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 
 
 ### EMEA Time Zone Webinars
-
-#### Intro to GitLab
-##### May 4th, 2023 at 10:00-11:00AM UTC
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_2R1ATVQJS-mcIn0h4OIiYw#)
 
 #### Intro to CI/CD
 ##### May 9th, 2023 at 10:00-11:00AM UTC
