@@ -101,18 +101,45 @@ We maintain a single source of truth epic for all work underway for the Reliabil
 ### OKRs
 
 [OKRs for the Reliability team](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Sub-Department%3A%3AReliability&milestone_title=Any&first_page_size=100) that require status tracking should be updated each Wednesday.
-When updating the progress percentage of any given KR, it is not necessary to provide extensive notes.
-One sentence with a link to a larger update is sufficient in most cases.
-It is also acceptable to do a check-in without providing a note on a single occasion, but not over several check-ins.
 
-In addition to status updates every Wednesday, all objectives and key results assigned to the current quarter must have the following set:
+#### Labels
 
-1. The `~Sub-Department::Reliability` label applied.
-1. The corresponding Reliability team label using the convention `~Reliability::<name>`. (e.g. `~Reliability::Practices`).
-1. For work that is scheduled, assigned to [one of the quarterly milestone](https://gitlab.com/gitlab-com/gitlab-OKRs/-/milestones).
-1. Health status set to something other than "None", all OKRs should be set to "On-track" until we believe there will be an issue meeting the objective or the key result.
-1. A DRI assigned.
+All Objectives and Key Results should have the following labels:
+
+1. `~OKR`
+1. `~Division::Engineering`
+1. `~Department::Infrastructure`
+1. `~Sub-Department::Reliability`
+1. The corresponding Reliability team label using the convention `~Reliability::<name>`. (e.g. `~Reliability::Practices`)
+1. For work that is scheduled, assigned to [one of the quarterly milestone](https://gitlab.com/gitlab-com/gitlab-OKRs/-/milestones)
+
+#### Description
+
+The description of an Objective or Key Result should include the "why" for making this a focus area for the quarter.
+
+If appropriate, also include how the progress will be measured.
+
+[Example](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/16970)
+
+#### Status updates/check ins
+
+OKRs should be updated every Wednesday with an update of the % completed and a dated update in the comments for current status.
+
+If progress is on track and the % completed is getting updated as expected, it is not necessary to provide extensive status updates.
+
+One sentence with a link to a larger update in a corresponding epic is sufficient in most cases.
+
+It is also acceptable to do a check-in (ie update the % complete) without providing a note on a single occasion, but not over several check-ins.
+
+When status changes to "needs attention" or "at risk", we need to provide context as to why the status has changed, what action is being taken to address the issues and what assistance is required to enable team members not close to the work to understand the situation without requesting additional status updates.
 
 The [OKR Handbook](/company/okrs/#maintaining-the-status-of-okrs) has a starting point for when to add `Needs Attention` and `At Risk` to Health Status for OKRs
+
+#### Other requirements
+
+In addition to status updates every Wednesday, all Objectives and Key Results assigned to the current quarter must have the following set:
+
+1. Health status set to something other than "None"; all OKRs should be set to "On-track" until we believe there will be an issue meeting the objective or the key result.
+1. A [DRI](/handbook/people-group/directly-responsible-individuals/) assigned. The [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for providing the weekly updates. This can be a team member who is responsible for the work, or the Engineering Manager for the team. There should only be one [DRI](/handbook/people-group/directly-responsible-individuals/)
 
 [Production Readiness]: /handbook/engineering/infrastructure/production/readiness/
