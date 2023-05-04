@@ -10,7 +10,7 @@ description: "The Talent Acquisition team has a regular schedule of meetings. Pl
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-##Leadership Groups
+## Leadership Groups
 
 
 | **GROUP**                                         | **INDIVIDUALS**                                                                                             |
@@ -21,7 +21,7 @@ description: "The Talent Acquisition team has a regular schedule of meetings. Pl
 | R+D Leadership                                | Ursela Knezevic, Paul Hardy                                                                             |
 
 
-##Team Meetings
+## Team Meetings
 
 
 | Cadence   | Meeting                      | Owner                                         | Content Focus + Goals                                                                                                                                                                                                                                                                                                 |
