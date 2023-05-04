@@ -276,6 +276,101 @@ To reduce the amount of data issues across our systems, our goal is to try to en
 
 ![Zuora Salesforce ERD](zuora_salesforce_erd.jpeg)
 
+### Fulfillment data architecture plan
+
+#### CustomersDot BillingAccount management
+
+[CustomersDot BillingAccount management](https://gitlab.com/groups/gitlab-org/-/epics/8331)
+
+- [BillingAccount: Introduce a BillingAccount and BillingMembership object](https://gitlab.com/groups/gitlab-org/-/epics/8950)
+  - [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/1081849/WIP---Fulfillment:Platform---Align-CustomersDot-BillingAccounts-and-Users-to-Zuora-objects)
+- [BillingAccount: Update CDot navigation to display new data structure to customers](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4973) - Link to be updated
+- [BillingAccount: Multiple CDot customers can manage one BillingAccount](https://gitlab.com/groups/gitlab-org/-/epics/8951)
+- [BillingAccount: CDot customers can manage BillTo and SoldTo contacts](https://gitlab.com/groups/gitlab-org/-/epics/9831)
+- [BillingAccount: One CDot customer can manage multiple BillingAccounts](https://gitlab.com/groups/gitlab-org/-/epics/8986)
+- [BillingAccount: Clean up legacy data objects](https://gitlab.com/groups/gitlab-org/-/epics/8949)
+
+First, we want to focus on improving the data architecture alignment with Zuora Billing Accounts. The `Customer` model in CDot has known design flaws as it represents a combination of both a Contact (individual user) and an Account (organization).  Research for this epic can be found in [this Spike issue](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1874).
+
+##### Background
+
+In this epic, the focus is on improving the data architecture of CustomersDot to better align with Zuora Billing Accounts. The `Customer` model in CDot has known design flaws as it represents a combination of both a Zuora Contact (individual user) and a Zuora Account (organization).
+
+##### Problem
+
+Currently CustomersDot (CDot) has a data object for `Customer` (e.g. `customers` DB table) which serves a few different functions:
+
+- A user (with a unique email address) that can login CustomersDot
+- Contact information related to a physical person within a Company with metadata like first and last name, email, mailing address, etc.
+- Company information that is associated with a Zuora Account with company name.
+
+It is important to note that a Zuora Account maps to a company/customer account which can have many users or contacts. It should not map to one user in particular.  In the current architecture, a `zuora_account_id` can be shared with more than one Customer but this isn't ideal.  We need to have an architecture that accurately reflects the data structure from Zuora and our business model.  In CustomersDot, we need to have a data architecture that accurately reflects [Zuora's Billing Objects Model](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/A_Zuora_Billing_business_object_model)).
+
+##### Examples of issues this could benefit
+
+1. [CDot Issue #3626](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3626)
+1. [GL Issue #332236](https://gitlab.com/gitlab-org/gitlab/-/issues/332236)
+1. [Epic #2160](https://gitlab.com/groups/gitlab-org/-/epics/2160)
+1. [CDot Issue #242](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/242)
+1. [CDot Issue #695](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/695)
+1. [GL Issue #338546](https://gitlab.com/gitlab-org/gitlab/-/issues/338546)
+
+##### Plan
+
+We recommend adding a few new models to the CustomersDot data architecture to better reflect the Zuora data structure.
+
+Most importantly, CDot lacks a model for the `CustomersDot BillingAccount` (aka. "Company" / "Billing Entity").  Adding this model will allow us to separate the data currently in the `CustomersDot Customer` model that belongs at a BillingAccount level (see below for an example). We will also be renaming `CustomersDot Customer` model to `CustomersDot User` as the current naming is a bit confusing due to Salesforce having a different definition for what a [Salesforce Customer](https://developer.salesforce.com/docs/atlas.en-us.240.0.object_reference.meta/object_reference/sforce_api_objects_customer.htm) is.
+
+- `zuora_account_id`
+- `company_name`
+- `vat_code`
+- `salesforce_account_id`
+
+Additionally, we can add a join table (e.g. `billing_account_memberships` table) between the `CustomersDot BillingAccount` and `CustomersDot User` models which will allow a `CustomersDot BillingAccount` to have multiple `CustomersDot User`s.  Likewise, a `CustomersDot User` could be associated to many `CustomersDot BillingAccount`s.
+
+With this data structure, CDot should consider the data structure of `CustomersDot BillingAccount` and `CustomersDot User` as a way of determining which users of CDot should have access to view / manage subscriptions for a `Zuora Account`.  CDot could rely on Zuora for providing the source of truth for who the contacts are for the `Zuora Account` and likely their metadata (e.g. name, address).
+
+Currently, CDot creates a `CustomersDot User` record for the SoldTo contact associated with the Subscription Account.  In this epic, we could also create a `CustomersDot User` record for the BillTo contact as well for the same Subscription Account, but this isn't a requirement.  This will effectively allow both types of contacts to login to CDot and manage the Account's subscriptions.
+
+##### Why do we need the ability to associate a CustomersDot User with many CustomersDot BillingAccounts?
+
+We considered only allowing a `CustomersDot User` to be associated with a single `CustomersDot BillingAccount`, however, we determined that we should build a many-to-many mapping capability because:
+
+1. Zuora currently allows for a single user to map to multiple billing accounts.
+1. We see examples in production where this is already happening ([over 1800 user accounts in Zuora currently map to multiple Billing Accounts](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/938#note_1136376435)).
+
+Enabling this will bring parity between CustomersDot and Zuora.
+
+##### Source of Truth
+
+Zuora serves as the source of truth for `Zuora Account` and `Zuora Contact` data once a Subscription is purchased. Prior to a purchase, a user can register for CDot which creates a `CustomersDot User` record that isn't associated with an `CustomersDot BillingAccount` (because it doesn't exist yet).  Once purchased, the `CustomersDot BillingAccount` record is created along with the related `CustomersDot BillingAccountMembership`.
+
+Given that `CustomersDot User`/`Zuora Contact` and `CustomersDot BillingAccount`/`Zuora Account` information can be edited by users directly in CDot or directly in Zuora (or indirectly via SFDC), we need to be mindful of syncing this data between CDot and Zuora.  In particular, if we can't use Zuora callouts to keep the `CustomersDot BillingAccount` and `CustomersDot User` records in sync, we will explore [Zuora Custom Events](https://knowledgecenter.zuora.com/Central_Platform/Events_and_Notifications/A_Z_Custom_Events).
+
+A `CustomersDot User` record in CDot is tied to one email address.  This email address can be associated with multiple `Zuora Account`s, and therefore have multiple `Zuora Contact`s.  Each of these `Zuora Contact`s could be modified independently.  For instance, a billing admin may choose to change the address for Contact A for the billing entity in the US, but not choose to change the address for Contact B (associated with the same email address) for the billing entity in Europe.  For this reason, contact metadata could eventually be stored on the `CustomersDot BillingAccountMembership` model, but we are choosing to keep this lightweight to begin with to reduce scope.  We will start by fetching this data from Zuora.
+
+#### GitLab.com SSO as the only sign in option for CustomersDot
+
+With GitLab.com SSO as the only sign in option for Customers Portal, we can eliminate the legacy sign up (email and password) and prepare CDot for future integration with a third party e-commerce provider.
+Our goal is to streamline the experience between SaaS/self-managed and web direct/sales-assisted customers in how they access their subscription information.
+
+Overall, this will lead to a more secure environment for our customers in CDot and allows us to establish a 1:1 relationship between a CDot customer and a GitLab.com account.
+
+[GitLab.com SSO as the only sign up option for CustomersDot](https://gitlab.com/groups/gitlab-org/-/epics/8905)
+
+- [CDot SSO: Remove email and password sign up](https://gitlab.com/groups/gitlab-org/-/epics/9120)
+- [CDot SSO: Enhance experience for first time login to CDot](https://gitlab.com/groups/gitlab-org/-/epics/9156)
+- [CDot SSO: Migrate more CDot customers to use the GitLab SSO for login](https://gitlab.com/groups/gitlab-org/-/epics/9155)
+
+#### Align CustomersDot Orders to Zuora subscriptions and trials
+
+[Align CustomersDot Orders to Zuora subscriptions and trials](https://gitlab.com/groups/gitlab-org/-/epics/9748)
+
+- [Update Zuora Subscription API integration to more accurately determine subsription state](https://gitlab.com/groups/gitlab-org/-/epics/8402)
+- Further iterations - TBD
+
+This iteration focuses on breaking apart the `CustomersDot Order` table to more accurately reflect its representation of `Zuora Subscriptions + Trials`. In the future, we could explore moving the reference for GitLab Namespace from being stored on the Subscription (and Order) to a `Zuora Account`. See [this LucidChart](https://lucid.app/lucidchart/3eb534e8-35b3-47a4-a284-bc6d8984c82e/edit?invitationId=inv_761317ee-84f0-46a3-8b12-3c3a19aecdae&page=xv78vQuQCGfz#) for more details.
+
 ### Snowflake Data Warehouse and dbt (data build tool)  
 
 We extract data from the Quote to Cash systems towards Snowflake and use dbt to transform the data into data models for reporting and analysis.
