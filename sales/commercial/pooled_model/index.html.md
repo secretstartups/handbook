@@ -223,6 +223,42 @@ As detailed under the preceding trigger.
 
 As detailed above, however the case will have the subject **RT: Past Due Renewal: XX.XX.XXXX**
 
+### Self Managed Customers on a version prior to 14.1 - Reactive Trigger
+
+A Self Managed customer with an upcoming renewal, who is still on a GitLab version prior to 14.1.  Being on <14.1 means that the customer in ineligible for cloud licensing. 
+
+#### Process
+
+On a monthly basis, Self Service Ops will identify Self Managed renewal opps for customers on a version prior to 14.1,  that have a close date <60 days out. 
+Cases will be created for these which will subsequently drop into the Pooled Sales Queue. 
+
+#### Policy
+
+As detailed under the preceding trigger.
+
+#### AE Steps
+
+As detailed above, however the case will have the subject **RT:Upcoming SM Renewal not on 14.1: XX.XX.XXXX**
+
+### Overdue Renewals - Reactive Trigger
+
+If a customers renewal is past due, there service may be paused/ switched off.
+
+#### Process
+
+On a daily basis, Self Service will identify past due renewal opps owned the Pooled Sales User.
+Cases will be created for these which will subsequently drop into the Pooled Sales Queue. 
+
+Note that a case may be created based on a past due renewal opp that also previously triggerd one of the above scenarios i.e an overdue renewal opp where a PO is required.  When this occurs, the newer case will be auto assinged to the owner of the prior open case on the account.
+
+#### Policy
+
+As detailed under the preceding trigger.
+
+#### AE Steps
+
+As detailed above, however the case will have the subject **RT: Past Due Renewal: XX.XX.XXXX**
+
 ### New 5* PTE Accounts - Proactive Trigger
 
 Accounts that were recently updated and now have a PTE of 5, indicating there is potential for growth.
