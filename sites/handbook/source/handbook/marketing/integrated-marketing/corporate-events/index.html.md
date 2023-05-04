@@ -39,12 +39,12 @@ twitter_creator: gitlab
 
 
 ## Meet the Corporate Events Team and How to Reach Us
-* Michelle Lee - Corporate Events Manager - @eelellehcimebi
-* Suli Stuelpnagel - Corporate Events Content Manager - @sstuelp
-* Amanda Shen - Corporate Events Coordinator - @amandawshen
+
+* Michelle Lee - Corporate Events Manager - `@eelellehcimebi`
+* Suli Stuelpnagel - Corporate Events Content Manager -`@sstuelp`
+* Amanda Shen - Corporate Events Coordinator - `@amandawshen`
 
 ### Current Slack Corporate Event Channels
-
 
 <table>
   <tr>
@@ -74,8 +74,7 @@ twitter_creator: gitlab
 </table>
 
 
-
-### If you’d like to email us instead, please reach us at:
+### If you’d like to email us instead, please reach us at
 
 General Questions: [events at gitlab dot com](mailto:events@gitlab.com)
 
@@ -102,7 +101,7 @@ All GitLab events must check at least  three or more of the goals of our events 
 10. Promote Partnerships and Alliances
 
 
-### Corporate Events must also meet:
+### Corporate Events must also meet
 
 1. Audience minimum requirement will vay based on the type of sponsored event
 2. Audience demographic requirements. We consider the balance of roles represented (contributor, user, customer, potential hires), and the Global reach of the audience. Audience profile must be over 50% national/ global.
@@ -110,7 +109,7 @@ All GitLab events must check at least  three or more of the goals of our events 
 **If you are looking to request a new Corporate Event, please use the following [issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_Request)
 
 
-## Questions we ask ourselves when assessing an event:
+## Questions we ask ourselves when assessing an event
 
 * How and where will this event position us as a brand?
 * Does this event drive business goals forward in the next quarter? Year?
@@ -172,11 +171,13 @@ If a session is chosen by an event for a CFP that was submitted, the sponsored e
 If the event we are sponsoring is not on the Developer Evangelism team's radar to submit the CFP the ECM will start the conversation with the DE team via a comment on the [strategy issue](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3538?_gl=1*1jqjp5x*_ga*MTM3Mzg1MjIwNS4xNjU1MjE1MTQy*_ga_ENFH3X7M5Y*MTY3NTcxNDEzNC4xNzkuMC4xNjc1NzE0MTM0LjAuMC4w).
 
 ### Tiering of 3rd party conferences
+
 * Tier 1 -
 * Tier 2 -
 * Tier 3 -
 
 ### Teams we work with internally at Tier 1 shows
+
     * Event Marketing — Project management, execute logistics, budget management, event staffing/training, lead collection/reporting, and ancillary events
     * Field Marketing — Field communication, meeting program support, onsite booth support, ancillary event support
     * Inside Sales Rep  — Drive registration, booth support, lead follow-up
@@ -191,6 +192,7 @@ If the event we are sponsoring is not on the Developer Evangelism team's radar t
     * [Leading Organization Team](/handbook/marketing/community-relations/leading-organizations/) — Executive/customer meetings, attending social events (ex: receptions, dinners), panel discussions, speaking engagements, media interviews
 
 ### Staffing 3rd party sponsored event booths
+
 The Corporate Events team collaborates with teams listed above to determine who should help to staff our 3rd party sponsored event booths. We aim to have a certain number of staff to booth size ratio that enables GitLab representatives to be diverse, knowledgeable, and welcoming for attendees. The number of staff we need is also dependent on how many days the conference schedule is. We try to utilize the following formula to staff our booths:
 
 10x10 booth or smaller and a 2 day conference = 8-10 staff members
@@ -219,6 +221,7 @@ TBD	Speakers - dependent on numbers of CFP accepted
 20x20 booth or larger and a 4 day conference = 40 staff members
 
 #### Staffing for a 20X20 Booth
+
 Example of the staffing requirements for our 20x20 booth over 3 days:
 6 -	Sales/Field
 12 - Demos/Technical Questions
@@ -229,13 +232,11 @@ TBD	Speakers - dependent on numbers of CFP accepted
 
 These are estimated numbers that the Corporate Events team uses to account for budget and passes. Numbers may vary based on expected number of attendees at the show and how many days the conference is. We understand there are serveral business use cases where team members can travel and attend these same conferences to meet with partners, customers, and prospects. However, if the staff member is not staffing the booth or there for other purposes, the Corporate Events team is unable to cover the team member's travel and pass.
 
-
 ## GitLab Commit On the Road
 
 * Commit On the Road - [Planning Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3618)
 * GitLab Commit On the Road, GitLab’s user conference, is an event that connects you to the ideas, technologies, and people that are driving DevSecOps transformation and is for the technology champions responsible for building, operating and securing applications.
 * This event will be a one day event with a single track featuring GitLab team members, customers, and partners. This roadshow will start in Q2 across 10+ cities.
-
 
 ### Event Execution
 
@@ -243,9 +244,7 @@ For event execution instructions, please see the [Marketing Events page](https:/
 
 For both GitLab-owned and external events, speakers and content DRIs should build in steps for legal approvals from necessary parties on public-facing presentations before materials are due.
 
-
 ### Labels used by the Corporate Events Team
-
 
 <table>
   <tr>
@@ -304,10 +303,7 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
   </tr>
 </table>
 
-
-
 ### Issue Templates used by the Corporate Events Team
-
 
 <table>
   <tr>
@@ -336,10 +332,7 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
   </tr>
 </table>
 
-
-
 ### Internal Partner Issue Templates used by the Corporate Events Team
-
 
 <table>
   <tr>
@@ -375,16 +368,12 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
   </tr>
 </table>
 
-
-
 ### Best Practices on site at a GitLab event
 
 * [Employee Booth Guidelines](https://about.gitlab.com/handbook/marketing/events/#employee-booth-guidelines)
 * [Scanning Best Practices](https://about.gitlab.com/handbook/marketing/events/#scanning-best-practices)
 
-
 ## Accessibility at GitLab Hosted Events
-
 
 ### In advance of the event, we promise that we will take into account the following:
 
@@ -400,7 +389,6 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
 * Large group meals will have ingredients and allergens listed. If you have communicated your needs with the event staff and the kitchen cannot provide a suitable meal for you, there will be a designated amount you can expense per meal on site.
 * The Events team will commit to the idea that no detail is too small
 * For all GitLab hosted events of 300+ we hire security that is also certified in first aid.
-
 
 ### Communicating Accessibility
 
@@ -441,11 +429,9 @@ For both GitLab-owned and external events, speakers and content DRIs should buil
 * For interpreters, always look at and address the participating attendee
 * Repeat questions posted by the audience before responding, especially if there is not a roving microphone available.
 
-
 ## Virtual Events at GitLab
 
 At GitLab, the Corporate Events team owns events that meet specific criteria (link), including those events that have a global hybrid or virtual element. By design, virtual events at GitLab are not a simple video call nor are they a static playlist. GitLab virtual events aim to retain the same [brand personality](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/), engagement, inclusivity, and fun as our in-person events.
-
 
 ### Lead time
 
@@ -513,6 +499,7 @@ Having run several global-focused virtual events, the GitLab team has some [best
 As part of the event planning and execution process at GitLab, the event lead will ensure that diversity, inclusion, and belonging initiatives are taken into consideration throughout the entire event process.
 
 #### Content Creation
+
 The planning committee will ensure that there is an inclusive environment when selecting CFP/keynote/speakers which aligns with [GitLab's event requirements for speaking](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/#event-requirements).
 This includes researching and sourcing for speakers from [underrepresented groups](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups) and with various backgrounds including:
 * Ability, disability, and ableism
@@ -525,6 +512,7 @@ This includes researching and sourcing for speakers from [underrepresented group
 * LGBTQIA+ identity
 
 #### Venue/Vendor/Supplier Selection
+
 When working with a vendor or supplier, the team will ensure that the selected venue/vendor/supplier is supportive of GitLab’s DIB values. These may include, but are not limited to the following:
 * LGBTQIA+, racial, faith/religious, and gender friendly
 * Are able to accommodate accessibility needs or are able to make special arrangements if needed
@@ -532,7 +520,8 @@ When working with a vendor or supplier, the team will ensure that the selected v
 * Avoid any religious and cultural days of observance
 * Partner with venues that have all-gendered restrooms or are willing to designate specific restrooms as gender neutral, as well as setting up any additional designated rooms as needed (i.e. lactation room, prayer room, etc.)
 
-#### GitLab Hosted Events Best Practices:
+#### GitLab Hosted Events Best Practices
+
 * During registration, when applicable, include questions about dietary needs and accessibility needs.
 * Ensure there is reserved seating available who may need/request for it (i.e. pregnant attendees, attendees with disabilities, older attendees, etc.).
 * Ensure that signage, tables, spacing, and other materials are easily accessible and readable for all attendees.
@@ -544,6 +533,7 @@ When working with a vendor or supplier, the team will ensure that the selected v
 * Provide a physically safe environment for as many people to participate  in activities/excursions (i.e. accessibility).
 
 ## Environmental Sustainability Initiatives
+
 At GitLab, the Corporate Events team wants to continue to play our part and operate with integrity when we are making decisions. The team is consciously making decisions that help align with the company’s social and environmental efforts.
 
 The Corporate Events team works with our [swag vendor](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) that sources swag with a goal of 95% of swag is sustainable or eco-friendly or work with companies that have sustainable initiatives. Some categories that the Corporate Events team considers when selecting suppliers are:
