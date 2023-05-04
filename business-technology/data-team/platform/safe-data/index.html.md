@@ -90,7 +90,9 @@ This space is only about limiting access to sensitive sales organization dashboa
 
 ### Tableau
 
-Access to Tableau dashboards is based on job role and governed by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Tableau, dashboards are classified as dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need. All Tableau users need prior access to the Sisense SAFE space.
+Access to Tableau dashboards is based on job role and governed by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Tableau, we apply the SAFE security framework using [User Groups](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/#user-groups). 
+
+The development workflow for Tableau Creators that work with data that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart) is to publish into the SAFE folder in their department's development project. Should the Creator want to publish the workbook outside of the SAFE folder within the development project, they should open an [issue](https://gitlab.com/gitlab-data/tableau/-/issues/new) using the `All Requests` template in the Tableau project and request a review of the content by the BI Platform team. The BI Platform team will provide a yes or no decision on whether it is SAFE to publish the content outside of the SAFE folder in the development project.
 
 ### Snowflake
 
