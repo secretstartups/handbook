@@ -156,7 +156,7 @@ See also: [Zendesk](https://about.gitlab.com/handbook/marketing/community-relati
 Connect with GitLab via 3rd Party Billing Portal
 </summary>
 
-GitLb currently supports various 3rd Party Billing Portals. 
+GitLab currently supports various 3rd Party Billing Portals. 
 
 Customer billing portals are used for PO receipt and submission of invoices billed by GitLab to our customers.
 
