@@ -63,7 +63,7 @@ For Marketing Operations - When OOO/PTO please add this to the backup team membe
 * **Alerting email team as soon as possible that there may be a send (even if it does not move forward)**
 * Providing FINAL email, landing page, form copy, autoresponder copy, etc.
      * NOTE: The addition of each item will increase scope and potentially delay announcement
-* [Requesting target list (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new) from Data Team
+* [Requesting target list](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new?issuable_template=list-request) from the Marketing Strategy & Analytics team
 * Creating epic and corresponding issues
       * Creating Epic - [Template here](/handbook/marketing/emergency-response/#customer-comms-epic-issues)
       * Creating [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)
