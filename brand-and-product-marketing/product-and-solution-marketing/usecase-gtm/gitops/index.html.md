@@ -290,9 +290,10 @@ This table shows the recommended use cases to adopt, links to product documentat
 | Feature / Use Case | Free |	Premium |	Ultimate | Product Analytics | Notes |
 | ------------------ | ---- | ------- | -------- | ----------------- | ------ |
 | [Try the GitLab Agent for Kubernetes](https://docs.gitlab.com/ee/user/clusters/agent/) | ✓ | ✓ | ✓ | `counts.kubernetes_agents_with_token` | |
-| [Migrate from custom CI solution](https://docs.gitlab.com/ee/user/clusters/agent/ci_cd_tunnel.html) | ✓ | ✓ | ✓ | `counts.kubernetes_agent_gitops_sync` | |
-| [Use push based deployments](https://docs.gitlab.com/ee/user/clusters/agent/repository.html#synchronize-manifest-projects) | ⤬ | ✓ | ✓ | `counts.kubernetes_agents_with_token` | |
-| [Advanced permissions management for CI connection](https://docs.gitlab.com/ee/user/clusters/agent/ci_cd_tunnel.html#restrict-access-of-authorized-projects-and-groups) | ⤬ | ✓ | ✓ | `counts.kubernetes_agent_gitops_sync` | |
+| [Migrate from custom CI solution](https://docs.gitlab.com/ee/user/clusters/agent/ci_cd_tunnel.html) | ✓ | ✓ | ✓ | `redis_hll_counters.kubernetes_agent.agent_users_using_ci_tunnel_monthly` | |
+| [Use push based deployments](https://docs.gitlab.com/ee/user/clusters/agent/repository.html#synchronize-manifest-projects) | ⤬ | ✓ | ✓ | `redis_hll_counters.kubernetes_agent.agent_users_using_ci_tunnel_monthly` | |
+| [Advanced permissions management for CI connection](https://docs.gitlab.com/ee/user/clusters/agent/ci_cd_tunnel.html#restrict-access-of-authorized-projects-and-groups) | ⤬ | ✓ | ✓ | `redis_hll_counters.kubernetes_agent.agent_users_using_ci_tunnel_monthly` | |
+| [Use pull-based deployments](https://docs.gitlab.com/ee/user/clusters/agent/gitops.html) | ✓ | ✓ | ✓ | [WIP](https://gitlab.com/gitlab-org/gitlab/-/issues/366294) | |
 
 ## Proof Points - customers
 
