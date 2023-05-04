@@ -67,7 +67,7 @@ Some of our GitLab team-members in the Netherlands have a "werkvergunning" or wo
 - Work permits must be renewed at the end of each contract period, but at minimum once every 5 years.
 - At the time of applying for permit renewal, the application must satisfy various criteria including an age-dependent [minimum salary requirement](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx) (with a step at age 30, also see this [handy table](https://ind.nl/en/required-amounts-income-requirements#application-to-work-as-a-highly-skilled-migrant-and-for-the-european-blue-card)). This requirement should be taken into consideration when issuing a new contract, since the contract can be made valid for just a year or for an indefinite period; thus triggering more or less frequent re-applications for work permit extensions. Permit extensions cannot be applied for when the current permit is still valid for more than 6 months.
 
-Here is a [generally but not authoritative helpful guide](http://www.expatica.com/nl/visas-and-permits/When-your-residence-permit-expires-or-you-want-to-leave-the-Netherlands_108416.html) on considerations around permit extensions.
+The IND (Dutch immigration services) in general take about 4 to 6 weeks’ time to make a decision on the renewal application, but officially they have 90 days to decide.
 
 1. Some important notes before you arrange travel / depart to the Netherlands:
 - **A direct flight to the Netherlands is required, indirect travel may result in entry refusal**
@@ -161,6 +161,7 @@ The EU Blue Card Germany, is a German residence permit for highly skilled worker
 
 You can apply for an EU Blue Card from the Foreigner’s Office in Germany.  Depending on your current location you may need to obtain an entry visa from your most local German embassy. 
 
+1. [Apply for a Long-Term Relocation](https://about.gitlab.com/handbook/people-group/relocation/#how-to-apply-for-a-long-term-relocation) to Germany, as you will need a German employment agreement for the EU Blue Card application
 1. Set up a visa appointment for employment purposes from the German embassy or consulate
 2. Collect the required documents: your local German embassy will provide a list of required documents which usually includes an employment agreement, validation of academic qualififications, and travel health insurance. 
 3. Once you have arrived in Germany you will need to register for residence and obtain either [Public](https://visaguide.world/international-health-insurance/germany/list-of-health-insurance-providers-in-germany/) or private health insurance.
