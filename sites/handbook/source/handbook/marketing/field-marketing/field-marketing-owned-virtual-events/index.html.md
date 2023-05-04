@@ -44,7 +44,7 @@ Please note the Self-Service option does not allow for registration to be capped
 #### Guidelines of Self-Service Options
 
 - For Self-Service Virtual Events **without** Promotion, no Marketo LP or invite support is requested. 
-- For Self-Service Virtual Events **with** Promotion, Verticurl will provide support for a Marketo landing page, 2 invitations, reminder and a follow-up email send.
+- For Self-Service Virtual Events **with** Promotion, Marketing Ops will provide support for a Marketo landing page, 2 invitations, reminder and a follow-up email send.
 
 ## Hosted on Field Marketing Zoom License
 
@@ -152,7 +152,7 @@ This section focuses on best practices, timelines and logistical set up for a Fi
 * Zoom setup and integration: FMC
 * Landing page and email copy: FMM
 * Marketo program, SFDC campaign: FMC
-* Landing page, email creation: Verticurl
+* Landing page, email creation: Marketing Ops
 * Host dry run and run day-of event Zoom meeting: FMM
 
 ## Webcast Epic Code
@@ -256,7 +256,7 @@ Note: This training video includes Zoom configuration setup instructions, as wel
 Please follow [these SFDC setup instructions](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign).
 
 ### Step 3.A: Update Marketo Tokens
-**DRI: FMC and Verticurl**
+**DRI: FMC and Marketing Ops**
  
 Buckle up! There are a lot of tokens, but for good reason. This is an **advanced practice** and **best practice** within Marketo templates to increase efficiency and speed. Updating these at the top level of the program allows them to cascade through the landing page, emails, automation, and alerts creating a significantly more efficient process of launching new webcasts.
  
@@ -272,8 +272,8 @@ These will be completed by the FMC when setting up the Marketo program.
   * `{{my.pfslidelink}}` - For virtual workshops only. Token where FMC links cloned workshop Pathfactory track for follow up email. **IMPORTANT NOTE:** The `https://` is hard-coded into the Marketo templates, which means you should not include `https://` before your Pathfactory track URL in the Marketo token. We include the Pathfactory track link in the purple `View the Slides` button at the bottom of the follow up email. To make sure this CTA works properly, the FMC must also add `?lb_email=` at the end of the URL. Your Pathfactory Track URL should look like this in the Marketo token: `learn.gitlab.com/advanced-cicd-workshop?lb_email=`.
      * A little bit behind the WHY: If you are driving to Pathfactory from Marketo, you want to use the lb_email= part of the link. This tells PF that the person is a known user (and won't present any forms) because it passes the email address from Marketo to PF. When you are in Pathfactory and get the share link for a track, you can select Marketo and it will include the complete proper code (including Marketo token). You typically won't need to do that because we already have the token coded into our emails. Also, it won't always be a ? in front of lb_email=. As long as you use a custom URL, it will be a ? and that's why we recommend always using a custom URL. Refer to [the Pathfactory page](/handbook/marketing/marketing-operations/pathfactory/#appending-utms-to-pathfactory-links) for more details.
 
-#### Verticurl Tokens
-These will be completed by Verticurl when setting up the landing page.
+#### Marketing Ops Tokens
+These will be completed by Marketing Ops when setting up the landing page.
  
   * `{{my.bullet1}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/13APTi8qTeFmvGcURrp9ywvl3zTxWU2cQ_ePX9S81Fao/edit#gid=1092923472)
   * `{{my.bullet2}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/13APTi8qTeFmvGcURrp9ywvl3zTxWU2cQ_ePX9S81Fao/edit#gid=1092923472)
@@ -305,9 +305,9 @@ These will be completed by Verticurl when setting up the landing page.
   * Activate the `01a Registration Flow (single timeslot)` smart campaign by going to the `schedule` tab and selecting `activate`.
  
 ### Step 3.C: Create the Landing Page
-**DRI: Verticurl**
+**DRI: Marketing Ops**
 
-* Make sure all tokens are completed from [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#verticurl-tokens). 
+* Make sure all tokens are completed from [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#marketing-ops-tokens). 
 * When you clone the webcast template, and update the Marketo tokens, your landing page is almost ready to go!
   * Under "Assets" right-click on `Registration Page` and hover over `URL Tools` > `Edit URL Settings`
   * Use the format `webcast-topic` (or `webcast-topic-region` if region is relevant) - ex. `webcast-mastering-cicd` or `webcast-mastering-cicd-italian`
@@ -315,7 +315,7 @@ These will be completed by Verticurl when setting up the landing page.
   * Use the format `webcast-topic-thank-you` (or `webcast-topic-region-thank-you` if region is relevant) - ex. `webcast-mastering-cicd-thank-you` or `webcast-mastering-cicd-italian-thank-you`
 
 ##### Adjusting number of speakers in Marketo landing page
-**DRI: Verticurl**
+**DRI: Marketing Ops**
 *This section only applies to webcasts and not workshops.*  
  
 **Less Speakers**
@@ -355,7 +355,7 @@ The speaker module is controlled in the Marketo landing page module. The templat
 If additional assistance is required, please comment in the [#marketing_programs slack](https://gitlab.slack.com/archives/CCWUCP4MS) for assistance if needed.
 
 ### Step 4: Webcast Invitations
-**DRI: Verticurl**
+**DRI: Marketing Ops**
 1. Update emails `invitation 1 - 2 weeks prior`,  `invitation 2 - 1 week prior` , and if needed `invitation 3 - Day before` with relevant copies related to the webcast. *Note: We normally use the same copy for all 3 emails and simply tweaked the templated subject lines to sound more like “Reminders”.*
 2. Approve copy and send samples to the requestor, and the presenter (if different from requestor).
 3. Go to the List folder and edit the `Target List` smart list and input the names of past similar programs and applicable program statuses to the `Member of program` filter. This will make sure people that have attended programs with similar topics in the past are included in the invite.
@@ -373,7 +373,7 @@ If additional assistance is required, please comment in the [#marketing_programs
   - Does the landing page pull in the tokens that have already been provided?
   - Are there any spelling mistakes or incorrect dates?
 
-**FMC to test the setup again, once Verticurl finishes the landing page with all remaining tokens by doing the following:**    
+**FMC to test the setup again, once Marketing Ops finishes the landing page with all remaining tokens by doing the following:**    
 - Submit a test registration. NOTE: Anyone already signed up as a host or panelist in Zoom should not utilize their GitLab email address to test the site (you will not receive a confirmation). If you utilize a different email address, make sure to indicate your registration is a test by listing `test` in first and last name fields. Test the LIVE landing page to make sure the registration is tracked appropriately in the Marketo program and you get a confirmation email from Zoom. 
   - Are you getting a confirmation email and in that email, is there a calendar invite with the access link? 
   - Does the calendar invite save the correct time on your calendar? 
@@ -401,7 +401,7 @@ Each registrant receives a Zoom login URL unique to them so login URLs should no
 
 *Note: Instructions for closing registration landing pages varies, depending on the campaign type/Marketo template. Please only utilize the below instructions to close a webcast LP.*
 
-Please reach out to your Verticurl rep to shut down the landing page, or if you have an urgent request after hours, please follow the below instructions (supporting screenshots [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/3459#note_626402553)).
+Please reach out to your Marketing Ops rep to shut down the landing page, or if you have an urgent request after hours, please follow the below instructions (supporting screenshots [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/3459#note_626402553)).
 
 1. Click into your event's Marketo program
 1. Click into `Assets`
@@ -476,7 +476,7 @@ More options
 **Workshops:**  
 - FMC to have already followed [these instructions](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/webcast-prep.md#fmc-tasks-dri-fmc-) to have added the Pathfactory track to the Marketo token.
 
-#### Marketo - Verticurl
+#### Marketo - Marketing Ops
 
 1. **Marketo**: Navigate to the webcast program and update the following My Tokens
    * Update the `formButtonCopy` token to be `Watch now`
@@ -503,7 +503,7 @@ More options
    * Under "Schedule" on the `04 Viewed On Demand` smart campaign, click `Activate`.
 
 ### Test your follow up emails and set to send
-**DRI: Verticurl**  
+**DRI: Marketing Ops**  
  
 Note: do not schedule the emails until you have completed the "on demand switch" process (and there is a Pathfactory URL ready to be used)
  
@@ -533,7 +533,7 @@ If you would like your on-demand webcast to be hosted on the [Resources page](ht
 **DRI: FMM and FMC**  
 
 ### Emergency Rescheduling of a Workshop
-There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. Below you will find directions in bold to follow to send out a bulk notification to registrants about the disruption and reschedule the date. If you run into any problems, please [open an issue](/handbook/marketing/marketing-operations/) with the Marketing Ops team, or tag the Verticurl team for help. For urgent requests, also include the issue link in the slack channel `#mktgops`.
+There are certain occassions when a workshop needs to urgently be rescheduled due to technical difficulties. Below you will find directions in bold to follow to send out a bulk notification to registrants about the disruption and reschedule the date. If you run into any problems, please [open an issue](/handbook/marketing/marketing-operations/) with the Marketing Ops team for help. For urgent requests, also include the issue link in the slack channel `#mktgops`.
 
 **DRI: FMM**  
 
@@ -581,12 +581,12 @@ In the event you need to cancel your webcast, please follow the steps outlined b
  
 1. Add [Cancelled] to the webcast epic, main issue and sub-issues.
 1. Leave a comment in the epic and main issue stating the event has been cancelled and tag all internal panelists and hosts.
-1. Re-open your Marketo LP issue and request Verticurl close the LP and specify that the event has been cancelled. If this is an urgent request after-hours, please utilize [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-a-webcast-landing-page) to close a `webcast LP` and [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-registration) to close a `workshop LP`. 
+1. Re-open your Marketo LP issue and request Marketing Ops close the LP and specify that the event has been cancelled. If this is an urgent request after-hours, please utilize [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-a-webcast-landing-page) to close a `webcast LP` and [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-registration) to close a `workshop LP`. 
 1. Close out all issues and epic.
 1. Remove any forecasted cost from Allocadia and indicate the event was cancelled.
 1. If the webcast is on the Events Page, [submit MR](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to remove.
 1. Remove event from the GitLab Hosted Zoom Webcast calendar.
-1. If you want to send a Marketo cancellation email, create an [issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_email_invite.md) for the request and triage to Verticurl. Or, you can send out a personalized cancellation email.
+1. If you want to send a Marketo cancellation email, create an [issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_email_invite.md) for the request and triage to Marketing Ops. Or, you can send out a personalized cancellation email.
 1. After the Marketo cancellation email is sent (if applicable), go to the Marketo program, deactivate all active smart campaigns and add [Cancelled] to the program name.
 1. Field Marketing does not have access to delete a Marketo program, so you will need to send a request in the `#mktgops` Slack channel to have your Marketo program deleted (remember to link to the Marketo program in the request).
 1. Go to the Salesforce campaign, add [Cancelled] to the SFDC campaign name and change the status to `aborted`.
@@ -604,7 +604,7 @@ This section focuses on best practices, timelines and logistical set up for a Fi
 * Content Creation: DE (Demo Engineer)
 * Landing page and email copy (templated with limited customization, if any): FMM/FMC
 * Marketo program, SFDC campaign: FMC
-* Landing page, email creation: Verticurl
+* Landing page, email creation: Marketing Ops
 * Host dry run and run day-of event Zoom meeting: FMM
 * Day of event moderator: SAE / ISR
 
@@ -634,7 +634,7 @@ Our new demo environment, gitlab.com group Learn Labs + Instruqt, involves a per
 `NOTE: Please make sure your Webcast or Workshop date is confirmed before starting the below process. Moving a Webcast or Workshop date is extremely time-intensive once setup is complete.`
 
 ### Virtual Workshop Logistical Set-Up 
-**DRI: FMM, FMC and Verticurl**
+**DRI: FMM, FMC and Marketing Ops**
 
 Instructions for Virtual Workshop Zoom / Marketo / SFDC set-up can be found in the Webcast Set-Up instructions [HERE](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcast-setup).
 
@@ -661,13 +661,13 @@ This includes the program, SFDC, Zoom, landing pages, and emails as they are tem
 Please follow the instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-5-test-your-setup).  
 
 #### Marketo Landing Page Setup
-**DRI: Verticurl**
+**DRI: Marketing Ops**
 
-1. Complete the Marketo tokens specified [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#verticurl-tokens).
+1. Complete the Marketo tokens specified [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#marketing-ops-tokens).
 1. Follow the landing page setup instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-3c-create-the-landing-page).
 
 #### Workshop Invitations
-**DRI: Verticurl**  
+**DRI: Marketing Ops**  
 
 1. Once the tokens are updated in Marketo, the invitation and sales-nominated emails should be ready.
 1. Approve copy and send samples to the FMM for review and approval.
@@ -694,12 +694,12 @@ The GitLab Learn Labs environment can currently support up to 250 users at one t
 FMCs are the DRIs for checking the registration numbers regularly via the Marketo program (linked in the epic code - registration numbers are listed on the main Marketo program page) or SFDC campaign (by pulling a report and sorting by the Registered field). Note that due to potential delays with the sync between Marketo and SFDC, it is recommended to check the Registration number in Marketo. 
 
 ##### Closing Registration
-- Once capacity is reached, the FMC will follow [these instructions](/handbook/marketing/field-marketing/#process-to-close-marketo-landing-pages-and-landing-page-forms). If Verticurl is unavailable and closing the LP is urgent, please follow the steps to closing a workshop LP [below](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#instructions-for-closing-registration-for-a-workshop).
+- Once capacity is reached, the FMC will follow [these instructions](/handbook/marketing/field-marketing/#process-to-close-marketo-landing-pages-and-landing-page-forms). 
 
 ##### Instructions for Closing Registration for a Workshop
 *Note: Instructions for closing registration landing pages varies, depending on the campaign type/Marketo template. Please only utilize the below instructions to close a workshop LP.*
 
-Please reach out to your Verticurl rep to shut down the landing page, or if you have an urgent request after hours, please follow the below instructions.
+Please reach out to Marketing Ops to shut down the landing page, or if you have an urgent request after hours, please follow the below instructions.
 
 In order to cap registration, we remove the registration form on the Landing Page in Marketo. To do this:  
 
@@ -741,7 +741,7 @@ In order to cap registration, we remove the registration form on the Landing Pag
 1. FMM will ping FMC to create epic and sub-issues (linked in [epic code](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#virtual-workshop-epic-code)).
 1. Once the FMC has created the sub-issues they are responsible for (broken out in the epic code), they will then ping the FMM to create any of the optional sub-issues they may require (also broken out in the epic code).
 1. FMC and FMM will assign the due dates for their appropriate sub-issues according to the [SLA workback schedule](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280)
-1. Once Verticurl creates the landing page, they will ping the FMM to review. Once the landing page is live, the FMM will ping the FMC to add the workshop to the GitLab Events Page utilizing this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents). FMC also to make sure the landing page is linked in the epic. 
+1. Once Marketing Ops creates the landing page, they will ping the FMM to review. Once the landing page is live, the FMM will ping the FMC to add the workshop to the GitLab Events Page utilizing this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents). FMC also to make sure the landing page is linked in the epic. 
 1. FMM to create the [Template for Certification of Completion](https://drive.google.com/drive/u/0/folders/1D9ReKCU7dhbHbkLotKgh4D7dZZ9m2IHS)   
 1. Note about Optional Issues:  
    - For workshop design requests, you have the option of opening a [Marketing Design Request](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general) or utilizing [Canva](https://www.canva.com/design/DAD-xgXwnrk/8irvi2Qv08B1riRCt7EEoQ/view?utm_conte
@@ -1077,7 +1077,7 @@ For details on this process, please reference [this section](/handbook/marketing
 - Zoom setup: FMM
 - Landing page and email copy (with promotion only): FMM
 - Marketo program, SFDC campaign: FMC
-- Landing page, email creation (with promotion only): Verticurl
+- Landing page, email creation (with promotion only): Marketing Ops
 - Run day-of event Zoom meeting: FMM
 
 ## Self-Service without Promotion Epic
@@ -1122,7 +1122,7 @@ In order for your FMC to triage your Marketo LP issues, you **must** have your Z
 
 ## Self-Service Capacity
 
-**DRI: FMC & Verticurl**  
+**DRI: FMC & Marketing Ops**  
 
 Note that our capacity for self-service with promotion is 200 attendees with Zoom. With our attrition rates, that means you should plan on shutting down registration at around 400 registrants. The FMC is responsible for tracking the registrations via the Marketo program.
 
@@ -1132,7 +1132,7 @@ Note that our capacity for self-service with promotion is 200 attendees with Zoo
 
 *Note: Instructions for closing registration landing pages varies, depending on the campaign type/Marketo template. Please only utilize the below instructions to close a self-service event LP.*
 
-Please reach out to your Verticurl rep to shut down the landing page, or if you have an urgent request after hours, please follow the below instructions (supporting screenshots [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2941#note_577918968)).
+Please reach out to Marketing Ops to shut down the landing page, or if you have an urgent request after hours, please follow the below instructions (supporting screenshots [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2941#note_577918968)).
 
 - Navigate into the `Marketo Program` > `Assets` > `Registration Page` > `Edit Draft`
 - On the right side under the `Variables` section, slide the `2 column sidebar` to `no sidebar`.
@@ -1146,8 +1146,8 @@ Please reach out to your Verticurl rep to shut down the landing page, or if you 
 
 #### Additional Tasks to Closing Registration
 
-- If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will also ask Verticurl to unschedule the send before closing the issue
-- The FMC will also re-open the sales nominated issue and request Verticurl shut down the sales-nominated daily sends.
+- If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will also ask Marketing Ops to unschedule the send before closing the issue
+- The FMC will also re-open the sales nominated issue and request Marketing Ops shut down the sales-nominated daily sends.
 - There is no need to remove the event listing from the events page. Having a sold out event listed could create more excitement over the event and encourage future attendees to register for events sooner.
 
 ## [Rescheduling Self-Service Events](/handbook/marketing/virtual-events/self-service-virtual-events/#rescheduling-self-service-virtual-events-with-or-without-promotion)
