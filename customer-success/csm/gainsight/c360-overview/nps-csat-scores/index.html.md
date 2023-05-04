@@ -14,42 +14,77 @@ For an overview of how CSMs use Customer360 (or C360), please refer to the [Gain
 
 ## Customer NPS/CSAT surveys
 
-The purpose of these surveys are to measure customer loyalty, satisfaction, and enthusiasm with GitLab. The onboarding NPS/CSAT serves as an early warning system for the customer beyond what CSM sentiment or product usage data can tell us. It is another attribute that can point to risk early in an account, enabling faster time to resolution. The renewal NPS/CSAT serves as an additional attribute into our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
+Customers at GitLab periodically receive surveys sent via Gainsight by Digital CS Team to gauge customer sentiment. The Net Promoter Score, or NPS, are surveys sent directly to customers to measure customer loyalty, satisfaction, and enthusiasm with GitLab at different points in the customer lifecycle. 
+Customer Satisfaction score, or CSAT, are surveys sent directly to customers to measure satisfaction of a service, product, interaction or experience with GitLab. A customer may receive a CSAT survey at any point in their life cycle depending on the survey’s configuration. 
 
-In order for our customers to receive the surveys,  a [`GitLab admin` role needs to be assigned](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) in Gainsight to the appropriate contacts.  It is the CSM’s role to complete the role assignment, and this process has been added as a task in the customer onboarding playbook, and again in the customer renewal playbook. 
+In order for customers to receive these surveys, a [`GitLab admin` role needs to be assigned](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) in Gainsight to the appropriate contacts.
+
+It is the CSM/CSE’s responsibility to ensure the role assignment is completed. This process is a task in the Customer Onboarding playbook, and also in the Customer Renewal playbook. If an account doesn’t have a CSM or CSE, the AE must configure the role.
 
 ##### What is NPS?
-- Net Promoter Score - From 1-10
+- Net Promoter Score is a standardized numerical value from 1 to 10.
 - It is always one question - "How likely are you to recommend (company) to a friend or colleague?"
-- A Promoter responds with a score of 9 or 10 and can signify a loyal and enthusiastic customer.
-- A Passive responds with 7 or 8. They are satisfied, but not happy enough to be a promoter. It is a great target area for improving and learning from these customers.
-- A Detractor responds anywhere from 0 to 6, are unlikely to buy again, and may also discourage others from buying
-- It is an attribute that can give another view into how a portion of the customer lifecycle has gone, or may go, such as onboarding (early enablement) and preparation to renew. 
-- The rolled up score can give insight into trends - such as onboarding/enablement being bumpy. 
-- In companies that have more complex/longer onboarding processes, the NPS typically starts lower and rises as the customer begins to feel more return on investment later in the lifecycle.  
+- A **Promoter<** responds with a score of 9 or 10 and can signify a loyal and enthusiastic customer.
+- A **Passive** responds with 7 or 8. They are satisfied, but not happy enough to be a promoter. It is a great target area for improving and learning from these customers.
+- A **Detractor** responds anywhere from 0 to 6, are unlikely to buy again, and may also discourage others from buying
+- It is an attribute that can give a view into how a portion of the customer lifecycle has gone or may go, such as onboarding (early enablement), preparation to renew, and the renewal process.
+- The rolled-up score can give insight into trends, such as onboarding or enablement being bumpy.
+- In companies that have more complex/longer onboarding processes, the NPS typically starts lower and rises as the customer begins to feel more return on investment later in the life cycle.
+- A trackable aggregate metric for all customers at GitLab.
 
 ##### What is NPS not?
-- A determination of the health of a customer.  It is simply another attribute.
+- A determination of customer health. It is simply another attribute.
+- A method of pinpointing specific product issues.
 
 ##### What is CSAT?
-- There are customer satisfaction questions, that often accompany the NPS question to get a deeper understanding of the customer sentiment at that point in the lifecycle.
+- Customer Satisfaction is a qualitative metric to ascertain a deeper understanding of the customer sentiment at a point in the life cycle.
+- It is a transactional attribute to understand how a specific action, product, or experience in the customer lifecycle has gone.
+- Any type of question or questions can be a CSAT survey. There are no standards for questions or metrics. It is entirely based on what GitLab is trying to learn about the customer from a question.
 
-##### What CSAT / NPS questions are we asking?
+##### What is CSAT not?
+- A standardized quantitative metric for Customer Satisfaction.
+
+
+Customers receive NPS surveys at multiple points in their customer lifecycle and may include additional CSAT surveys. They are as follows: 
+
+##### NPS Surveys
 - Post-Onboarding - 
-   - Considering your experience with us so far, how likely are you to recommend GitLab to a friend or colleague?
-   - Overall, how satisfied are you with your onboarding experience?
-   - How can we improve your readiness to adopt the product?
+   - NPS: Considering your experience with us so far, how likely are you to recommend GitLab to a friend or colleague?
+   - CSAT: Overall, how satisfied are you with your onboarding experience?
+   - CSAT: How can we improve your readiness to adopt the product?
+   - Sent on Day 60 for net-new customers
+      - Provides an early warning system for the customer beyond what CSM/CSE or AE sentiment or product usage data can tell us.
+
 - Pre-Renewal - 
-   - How likely are you to recommend GitLab to a friend or colleague?
-   - How satisfied are you with GitLab? 
+   - NPS: How likely are you to recommend GitLab to a friend or colleague?
+   - CSAT: How satisfied are you with GitLab?
+   - Sent 120 days before renewal
+      - An additional attribute to our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
 
-##### What will we do with the scores?
-- In addition to writing the score to a scorecard in the customer 360, we will also trigger CTA’s to action based on the feedback.
-- Negative NPS Scores (0-6 OR Very Dissatisfied, Dissatisfied, Neutral) will create a CTA for the CSM Manager to follow-up with the contact.
-- Positive NPS Scores (7-10 OR Satisfied, Very Satisfied) will create a CTA for the CSM to follow-up with the contact.
-- All scores will be posted to #cs_programs_nps_results channel in Slack!
+- Post-Renewal
+   - NPS: How likely are you to recommend GitLab to a friend or colleague?
+   - CSAT: How satisfied are you with GitLab?
+   - Sent 120 days before renewal
+      - An additional attribute to our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
 
-##### Who will receive the survey and when?
-- We will send the NPS/CSAT survey at the 60 day mark for new customers (not those longer-standing that recently got a CSM) and again at 120 days before renewal.
+##### Dedicated CSAT Surveys
+- Post-Churn Survey
+   - What is the primary reason for canceling your subscription?
+   - What could we do better to improve?
+- Post-Scale CSE Engagement
+   - Please take a few seconds to select the answer that best aligns with your experience
 
 
+### How to View NPS and CSAT Surveys
+
+#### If you have Gainsight access
+- For CSMs/CSEs: NPS and CSAT scores are written to a scorecard in the Customer 360 and trigger Calls to Action (CTA’s) based on the feedback
+      - Negative NPS Scores (0-6 OR Very Dissatisfied, Dissatisfied, Neutral) will create a CTA for the CSM Manager to follow-up with the contact.
+      - Positive NPS Scores (7-10 OR Satisfied, Very Satisfied) will create a CTA for the CSM to follow-up with the contact.
+- Survey responses can also be found in the embedded Gainsight widget on any account page in Salesforce.
+- Individual survey responses, questions, and company-wide NPS trends can be viewed in the <b>Surveys</b> portion of Gainsight.
+
+#### If you _don't_ have Gainsight access
+- All scores are posted to the #cs_programs_nps_results channel in Slack. Members of each account team are @-mentioned in the survey results message facilitated by Troops. You must be a member of this channel to receive notifications. Note: Given GitLab’s Slack data retention policy, results will only be available for 90 days after each response.
+   - PubSec customers are sent to a private channel. Ask your manager to learn how to access these results.
+- NPS/CSAT will soon be available in Snowflake so that they can be accessed at any time by all GitLab team members.
