@@ -133,7 +133,7 @@ The Senior responsibilities, plus the responsibilities below:
 
 - Conduct impactful research that informs decisions **across our product lifecycle**.
 
-- Deliver high-quality artifacts that tell compelling stories integrated with research findings **and set the quality standard for the UX Research team**.
+- **Set the quality standard for the UX Research team** through expert delivery of high-quality artifacts that tell compelling stories integrated with research findings.
 
 - Advocate for and socialize actionable insights in a clear and compelling way **that sets the standard for others conducting research**.
 
@@ -143,7 +143,9 @@ The Senior responsibilities, plus the responsibilities below:
 
 - Actively seek out difficult impediments to our efficiency as a team (process, tooling, etc). Propose and implement solutions that will enable the entire team to work more efficiently and enhance the quality of research practices and deliverables across the team.
 
-- Invite other Researchers to participate in your research projects.
+- Elevate the UX research skills of Product Designers, Product Managers, and other UX Researchers by providing clear, concise guidance on research methodology.
+
+- Mentor other Researchers by inviting them to participate in your research projects.
 
 - Provide support to other Researchers, as needed, on their projects by assisting in any phase of a given research project.
 
