@@ -5,6 +5,14 @@ title: "Customer Advocacy at GitLab"
 
 ---
 
+## On this page
+
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
 **The Customer Advocacy Team is dedicated to forging evergreen co-marketing relationships with top advocates and enterprise brands that fuel an integrated strategy aligned to pipeline-driving initiatives, threading the customer voice into all GTM motions.**
 
   - We create programs and opportunities that put Enterprise logos and advocates in the spotlight.
