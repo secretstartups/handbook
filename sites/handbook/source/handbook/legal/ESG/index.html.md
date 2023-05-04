@@ -199,3 +199,33 @@ A: GitLab does not currently have a formal corporate giving program. Pending the
 **Q: Does GitLab donate its product to nonprofits?**
 
 A: GitLab does not currently have a formal in-kind donation program. Pending the results of the 2022 materiality assessment, the first iteration of a non-profit in-kind donation program is planned for 2023. Learn about [other ways](/handbook/marketing/community-relations/community-programs/education-program/) that GitLab contributes its product to the community. 
+
+
+## GitLab Inc Philanthropy Request Process
+Information on how GitLab Inc. supports Registered Nonprofit Organizations can be found in the [Philanthropy Policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/) 
+
+Please note that for all Philanthropic Requests, approval by the ESG team and CLO is required as defined by the Oversight Responsibility section of the Policy.  
+
+If you would like to submit a philanthropic request, please follow the instructions based on your request type.
+
+### Monetary Contributions
+
+There are two ways that team members can submit a request for monetary support. 
+
+1. Request funding from the ESG team to support a Registered Nonprofit Organization OR
+
+2. Request utilizing department or TMRG  budget to support a Registered Nonprofit Organization
+
+If you are requesting funding from the ESG team to support a Registered Nonprofit Organization, please note that at this time, we are not accepting applications. If you would like to submit a Nonprofit Organization to be considered for support in the future, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the **Monetary_Support Template**.  You will be notified if there is a future opportunity. 
+
+If you have a department or TMRG  budget that you would like to utilize to support a Registered Nonprofit Organization, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the **Monetary_Support Template**. Please tag your manager to approve the request if you are submitting on behalf of your department. If you are submitting a request on behalf of a TMRG or DIB, please add Sherida McMullan as a reviewer. 
+
+Please allow a minimum of 10 working days for review. 
+
+### In Kind Support
+Currently, GitLab does not offer an in-kind product donation program for nonprofits. Please keep an eye on this page for updates. 
+
+### Team Member Volunteerism
+Through the GitLab Volunteer Program, GitLab team members are able to organize volunteer activities in their local community or virtually. If you would like to submit a request to organize a volunteer activity with a Registered Nonprofit Organization, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the **Volunteer_Support Template**.
+
+At this time, GitLab does not offer a matching gifts program. 
