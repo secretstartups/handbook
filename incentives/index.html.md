@@ -336,6 +336,9 @@ Visit our [GitLab Anniversary Gift](/handbook/people-group/celebrations/#anniver
 
 The Get Together Grant is currently paused. Stay tuned to the [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C) Slack channel and this page for updates.
 
+In FY24, each E-Group member has been allocated a budget (can be for a specific quarter or split out between FY24-Q2 to FY24-Q4 as decided upon by the E-Group member in coordination with Finance) for team building events. Each E-Group member can use their discretion when using the budget. This budget should cover leadership offsites, team member get togethers, holiday parties, and other virtual events to drive team bonding.
+
+
 <details><summary>See the previous process for reference:</summary>
 Start your quarter off by getting to know someone new at GitLab, or meeting someone in person for the first time! During the first month of every quarter in Feb, May, and August we invite team members to use a Get Together Grant to meet up with a team member either in person or virtually. In the fourth quarter, we will have a [holiday grant](https://about.gitlab.com/handbook/finance/expenses/#-year-end-holiday-party-budget) that will be coordinated by your E-group leader.  To take part in the grant, check out the following details:
 
