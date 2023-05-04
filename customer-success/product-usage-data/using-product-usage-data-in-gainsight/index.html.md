@@ -274,6 +274,14 @@ If your customer IS sending data but it does not appear in Gainsight, here are t
 
 Note: this process may take several days or a week, given schedules and load. Please be patient as this is an entirely manual process until automation resolves these issues.
 
+### Timing and flow
+
+Because of the data integrations (listed above), there are certain delays from the moment the customer sends data via Service Ping (self-managed) or collected via Snowplow (SaaS) to when it is visible and usable in systems such as Gainsight and Salesforce. This delay is 1-2 days from when the Service Ping is received from the customer. 
+
+Data from SaaS customers is collected on Mondays at 00:00 UTC (Sundays at 5:00 pm PST) each week. Once collected it makes its way through the Snowflake lineage and is then ingested by Gainsight on Mondays at 15:00 UTC (Mondays at 8:00 am PST).
+
+Data from Self-Managed customers also comes in on a weekly basis but each instance has its own day and time when the data is collected. Since this process is not standardized the way SaaS collection is, longer delays are expected based on the time the data is collected (between 1 and 2 days). 
+
 ### Data sources and application
 
 Below are the various data sources, their definitions, and uses.
