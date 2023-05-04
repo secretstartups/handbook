@@ -19,7 +19,7 @@ The Risk Management and Dispute Resolution (RMDR) division of GitLab Legal and C
 In support of these goals, we adopt this mantra: **if you see something, say something!**
 
 - If the question is of a general nature and does not require legal advice or discussion of confidential information, you can reach out to this team in Slack at #legal. We find this channel best for questions regarding process, who handles what, or how to find certain things if the handbook has not yielded the right result for you after searching. #legal is not a private channel, so your inquiry will be visible to the entire company.
-- To open a general issue where confidential or sensitive information is not implicated, select the RMDR-Intake-Form from the Issue Template list at this [link](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new).
+- To open a general issue where confidential or sensitive information is not implicated, select the RMDR-Intake-Form from the Issue Template list at this [link](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new). You can also apply the label `RMDR::to-do` to a GitLab issue to ensure the team is notified.
 - For sensitive, private, or confidential requests, or any requests involving issues with a third party, email legal_internal@gitlab.com.
 
 ## Privilege
