@@ -148,3 +148,15 @@ AI Enablement exposes AI services and the underlying models (third party or nati
 
 You can contact this group via Slack in [#ai_enablement_group](https://gitlab.slack.com/archives/C051K31F30R). View their [issue board here](https://gitlab.com/gitlab-org/gitlab/-/boards/5518200?label_name%5B%5D=group%3A%3Aai-enablement).
 
+#### Current team members
+
+| Name | Role |
+| ---- | ---- |
+| Alexandru Croitor | Senior Backend Engineer |
+| George Koltsov | Senior Backend Engineer |
+| Gosia Ksionek  | Staff Backend Engineer | 
+| Nicolas Dular |  Senior Backend Engineer |
+| Denys Mishunov | Staff Frontend Engineer |
+| Patrick Bajao | Senior Backend Engineer |
+| Bojan Marjanović | Senior Backend Engineer |
+| Jan Provaznik | Staff Backend Engineer |
