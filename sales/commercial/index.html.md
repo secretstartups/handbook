@@ -670,64 +670,71 @@ GitLab has a mature Partner network with good coverage of GitLab-trained Sales a
 - List of [GitLab-trained OPEN and SELECT channel partners](https://help.salesforce.com/articleView?id=reports_schedule.htm&type=5)
 - Channel Partner Finder **[Here](https://partners.gitlab.com/English/directory/)
 
-## Mid-Market Key Accounts First Order
 
-**Mid-Market Key Accounts First Order Team (MMKAFO) Tactics and Definitions**
-
-[The MM Key Accounts First Order Team](https://about.gitlab.com/handbook/sales/commercial/#mid-market-roles) is comprised of Account Executives that work on the highest potential accounts that are [not currently customers of GitLab](https://about.gitlab.com/handbook/sales/sales-term-glossary/#first-order-customers). Once the customer has signed its first contract, the customer is transitioned to a MM Key Account Named AE. However, if an account is won by this team and is deemed to be low potential it will be passed to a MM Territory AE. The rough guideline for these accounts is between 500 and 1999 employees and more than 100 combined employees in engineering and IT. We don't refer to MM First Order accounts as "Named Accounts", because First Order accounts can either go to Named or Territory AEs.
-
-It is the goal of this team to make the first transaction with GitLab:
-
-1. Customer-Focused
-1. Efficient
-1. Scaleable
-
-#### First Order Prospecting Guidelines
-
-**Inbound Leads**
-
-1. As a general rule, Sales Development Representatives (SDRs) own leads and Account Executives (AEs) own accounts and opportunities. It is the Account Executive's job to help the SDR understand how the First Order team works and what the expectations are. The expectations are as follows:
-
-   - Reach out to all [Marketing Qualified Leads](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#:~:text=The%20lead%20scoring%20model%20is,Score%20and%20their%20Demographic%20Score%20.) (MQLs) within one hour of them being assigned to the SDR.
-    - The first outreach should be a phone call if there is a phone number listed
-    - After the initial call, the SDR should email the prospect using either the sequence designated for trial requests and contact requests or the sequence designated for all other MQLs.
-    - If an MQL or inquiry hasn't been actioned after two weeks of being assigned to the SDR, the AE has permission to reach out to the lead.
-
-#### First Order Handoff Process
+#### Mid-Market First Order Account Handoff and Named/Territory Collaboration Process
 
 After the first transaction is closed by the MMKAFO team, the First Order AEs are responsible to kickstart the handover process. Below are the responsibilities of the Mid-Market Key Account First Order team and the Mid-Market Key Account Named team.
 
-**MMKAFO Team**
+**When to Pass an Account to Named / Territory**
+Mid-Market First Order AEs will own an account until the customer has a working license. Once this happens, the handover process will commence.
 
-1. After the opportunity is marked 'Closed-Won', [look here](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2028) to find the appropriate MMKAN AE.
-1. Ensure the customer has received and installed their license
-1. Chatter the Named AE (if known), their ASM, the First Order ASM, Sales-Support, and Mid-Market Global Director to change the account and renewal opportunity into the Named Account Executive’s name.
-1. Log an activity on the ACCOUNT detailing:
+### Handover Process
+**First Order AE Responsibilities**
+
+1. Ensure the opportunity is marked as ‘Closed-Won’.
+1. Ensure the customer has a working license.
+1. Log an activity (naming convention: [FO AE NAME] FO Account Summary for Handoff)  on the account level detailing the following:
     - Why the account chose GitLab (use case)
-    - Key contacts at the account
     - The expected NetARR to be sold in the next 12 months
-    - Date by which the next order is expected to close
-    - Estimated NetARR of the next opportunity
-    - Why you believe c,d,and e
-    - Naming convention of the activity should be: (Name of FO AE) FO Account Summary for Handoff
-1. Set up a call with the Named AE and the customer for a handoff call.
-1. If the initial amount AND the immediate potential of the account is low (< $20,000
-combined), a handoff email can be used.
+    - Estimated timeframe of the next purchase
+    - Why you believe b and c to be the case
+1. Work with the Named or Territory AE, the CSM (if known), and the customer to set up a handoff call
+    - First Order AE should take the lead on scheduling this call
+        - **Note** : Should the FO Rep and Named or Territory AE agree ahead of time that an email introduction will suffice, then the team can bypass the handoff call.
+1. If the initial amount AND the potential of the next opportunity are less than a combined NetARR of $10,000, or the inheriting AE agrees,a handoff email can be used.
 1. Ensure all material like custom decks are editable by everyone.
+1. For Web Directs without prior engagement :There will be no handover as the FO AE has not had any engagement.
 
-**MMKAN Team**
+**Named/Territory AE Responsibilities**
 
-1. Work with the First Order AE to schedule a handoff call (or email) with the customer.
+1. Work with the First Order AE, CSM, and customer to schedule a handoff call (or email).
     - The goal should be to have two-way communication with the customer within one week of the initial close.
-    - Named AE please respond to the handoff email/meeting invite to introduce yourself.
-1. Look in the account activities for the notes from the First Order AE, and based on those notes open an appropriate growth opportunity.
-1. Read through all notes tagged (ii) to gain an understanding of the account and its potential.
-1. Determine if a CSM (if under $50,000 nARR) is appropriate for this customer based on the immediate growth potential. If needed, request on
-1. Create a growth/add on opportunity for any growth that will happen before the first renewal date.
+    - If an email is used, the Named or Territory AE should respond at their earliest convenience to introduce themselves as the new primary point of contact
+1. Look at the account activities for the activity logged by the FO AE. 
+1. Based on the above notes, open a growth opportunity if scheduled before the first renewal date
+1. Read through all notes tagged (ii), the custom pitch deck, and the command plan to gain an understanding of the account and its potential. 
+1. Engage the CSM on strategic accounts and get them engaged asap
+1. For Web Directs: It is the responsibility of the Named/Territory AE to reach out to the new customer.
 
-**Note 1:** Once the account is handed off to the new AE, the new account owner is responsible for the success of the account. This includes any troubleshooting, support, ticket escalations, etc. The exception to this will be if there are any billing issues that arise on the initial order. Because billing issues related to the first order are assigned to the account owner. In some cases, the First Order AE can better fix such problems. In these cases, Named AE can re-assign the issue to the First Order AE for resolution.
+### Process to Move Accounts From First Order to Named/Territory
+1. Once the “First Order Available” box has been unchecked because a first order has taken place, the account will be batched to transfer to the appropriate Named or Territory AE with the nightly SalesForce update. This process should happen automatically.
+    - Europe Employee Threshold
+        - All accounts between 101-500 employees will be assigned to Territory AEs
+        - All accounts between 501-2000 employees will be assigned to Named AEs
+    - AMER Employee Threshold
+        - All accounts between 101-300 employees will be assigned to Territory AEs
+        - All accounts between 301-2000 employees will be assigned to Named AEs
 
-**Note 2:** If a First Order account is deemed to have low potential (fewer than 100 total users), it should be assigned to a Mid-Market Territory Account Executive. If in question, the First Order AE should involve their ASM, Regional Director, and VP of Commercial to determine if the account should be assigned to a Mid-Market First Order AE or a Mid-Market Named AE.
+### When to Consider Involving a Named or Territory AE Before the Initial Deal is Done
+1. There may be situations where it is beneficial to either GitLab, the Prospect, or both to introduce the Named or Territory AE before the initial deal closes. These situations include, but are not limited to:
+    - Extra support is needed for a strategic account.
+    - A CSM may need to be engaged before the initial contract is signed.
+    - An onsite meeting may need to happen and the Named/Territory AE is in a better geographical location to handle it.
+    - The customer has asked to be introduced to who will handle their account after the initial contract is signed.
+
+## General Guidelines to Follow When Making this Consideration
+1. It is always the decision of the First Order AE to determine if an introduction should be made pre-contract signature, but there are some general best practices to follow if an introduction is to be made.
+    - Ideally, pre-contract introductions would be limited to higher LAM accounts, so this does not become a scale issue.
+        - >99 LAMDev for Key Accounts
+        ->49 LAMDev for Territory Accounts
+    - In an effort to not waste Named/Territory AEs time, an introduction should not be made unless there is a very high close percentage. Therefore, an introduction is best if made when the opportunity is in *stage 5 or 6*.
+1. Named/Territory AEs and First Order AEs should meet often (every other week on average) to identify accounts where a pre-contract introduction would make sense.
+
+
+
+
+
+
 
 ## Commercial Leadership Development Pilot Program
 This pilot program is for Commercial team members interested in learning more about Sales management and building foundational leadership skills.
