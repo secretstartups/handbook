@@ -98,14 +98,9 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Description: Recognize and incentivize organizations who are among our most active contributors. Our goal is for 10% of GitLab customers to be Leading Organizations by FY25-Q4. Follows User Engagement Initiative.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880)
    1. Quarter Started/Starting: FY23-Q4 (work currently being done under the User Engagement initiative. When that retires, this one will launch as a separate initiative)
-1. Continue to win against GitHub
-   1. DRI / Sponsor: TBD / @akramer
-   1. Description: This includes product positioning, R&D priorities, marketing messaging and field readiness.
-   1. Links: to be added
-   1. Quarter Started/Starting: FY24-Q1
-1. Ship AI features
-   1. DRI / Sponsor: TBD / @david
-   1. Description: Make GitLab (the application) smarter by shipping 16 AI/ML-assisted features and workflows across developer, security, and operations personas and launching AI messaging to support GitLab’s “AI in all we do” focus.
+1. Continue to win against GitHub and ship AI features
+   1. DRI / Sponsor: @dsteer / @david
+   1. Description: Make GitLab (the application) smarter by shipping 16 Generally Available (GA) AI/ML-assisted features and workflows across developer, security, and operations personas and launching AI messaging to support GitLab’s "Continue to win against GitHub with AI in all we do” [Yearly](https://about.gitlab.com/company/yearlies/). In addition to releasing features, this also includes overall and related product positioning, R&D priorities, marketing messaging and field readiness. 
    1. Links: to be added
    1. Quarter Started/Starting: FY24-Q1
 
