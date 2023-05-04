@@ -32,25 +32,31 @@ The source of truth for FY24-Q2 OKRs will be in GitLab.
 
 ## OKRs
 
-The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?label_name%5B%5D=CEO%20OKR&milestone_title=FY24-Q2). CEO objectives and KRs are captured on this page. 
+The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?label_name%5B%5D=CEO%20OKR&milestone_title=FY24-Q2). CEO objectives and KRs are captured on this page. OKRs largely map to [Yearlies]/company/yearlies/). In FY24-Q2, we break out "Continue to win against GitHub with AI in all we do" Yearly into 2 objectives: 
+1. Continue to win and against GitHub 
+1. Have AI in all we do
+This is intentional as these are top priorities with a number of supporting KRs. While broken out at 2 objectives in Q2, the work that we do with AI is key for continuing to win against GitHub. In this instance, we are choosing not to be [MECEFU](/handbook/communication/#mecefu-terms). 
 
 ### 1. CEO: [Continue to win against GitHub](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1875)
 1. **CEO KR**: [Develop comprehensive GitHub compete narrative with new content positioning stronger AI leadership, sales/rev play campaign](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1962)
-1. **CEO KR**: [Achieve 100% of the CRO org having completed the GitHub competitive messaging training](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1963)
 1. **CEO KR**: [Define R&D priorities → Share updated roadmap that reflects near-term win requirements](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1964)
+1. **CEO KR**: [Achieve 100% of the CRO org having completed the GitHub and AI competitive messaging training](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1967)
+1. **CEO KR**: [Deliver 5 customer value stories (1 marquee video, big names preferred) with clear ROI outlined and promote customers through 2 monthly releases (blog or other medium) per month of leader at customer doing great work with GitLab](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1974)
 
 ### 2. CEO: [Have AI in all we do](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1882)
-1. **CEO KR**: [Quickly deliver AI Assisted features including 48 experimental features, 16 beta features, and 8 GA features on GitLab.com](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1966)
-1. **CEO KR**: [Achieve 100% of the CRO org having completed the AI competitive messaging training](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1967)
+1. **CEO KR**: [Quickly deliver AI Assisted features including 48 experimental features, 16 beta features, and 10 GA features on GitLab.com](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1966)
+1. **CEO KR**: Drive AI usage with 1M code suggestion users
+
 1. **CEO KR**: [David or Sid conduct an exclusive, in-depth AI briefing, including a product roadmap, with a tier-one AMER media outlet, to lay the foundation for our AI strategy](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1968)
 1. **CEO KR**: [Continue briefing cadence with 5-7 key publications across EMEA and APJ once the exclusive runs in AMER](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1969)
+1. **CRO KR**: Have a signed off monetization strategy for AI 
 
 ### 3. CEO: [Deliver predictable high value to customers by reducing churn and contraction](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1893)
 1. **CEO KR**: [Reduce churn and contraction by X% compared to ATR FY23-Q4](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1970)
 1. **CEO KR**: [Overachieve on Professional Services attach rate at X% of Q2 Net ARR (target in plan = Y%) via mandatory Ultimate attach initiative, to drive improved product adoption](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1971)
 1. **CEO KR**: [>90% of top 50 customers by ARR pitched about GitLab’s AI strategy in H1 FY24, with unbranded content in hand for them to use internally in their own AI advocacy](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1972)
 1. **CEO KR**: [Support 3 customers with >$100K ARR to contribute 10+ MRs in the quarter](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1973)
-1. **CEO KR**: [Deliver 5 customer value stories (1 marquee video, big names preferred) with clear ROI outlined (shared with sales)](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1974)
+1. **CEO KR**: Grow revenue through identifying 7 AI and non-AI features that drive net retention
 
 ### 4. CEO: [Make GitLab easier to do business with](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1899)
 1. **CEO KR**: Complete 4 Q2 Fulfillment initiatives:  [scope temporary licenses technical solution](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6124), [complete web store discount work](https://gitlab.com/groups/gitlab-org/-/epics/10245), [single customer definition across Q2C systems](https://gitlab.com/groups/gitlab-org/-/epics/8951), and [deliver first iteration of project Juvet](https://gitlab.com/groups/gitlab-org/-/epics/10398): https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1975  
