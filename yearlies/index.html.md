@@ -49,10 +49,12 @@ The Annual Plan process [finishes two quarters after](https://about.gitlab.com/c
 
 FY24 Yearlies and additional detail can be found by searching for the "FY24 Yearlies" Google Doc. This document is limited access. Initiatives in italic and followed by "XFN" are part of GitLab's existing [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives). 
 
-1. Continue to win against GitHub
-    1. XFN *Continue to win against GitHub*. This includes product positioning, R&D priorities, marketing messaging and field readiness
-1. AI in all we do
-    1. XFN *Ship AI features*. Make GitLab (the application) smarter by shipping 16 AI/ML-assisted features and workflows across developer, security, and operations personas and launching AI messaging to support GitLab’s “AI in all we do” focus
+1. Continue to win against GitHub with AI in all we do 
+    1. XFN *Ship AI features*. Make GitLab (the application) smarter by shipping 16 AI/ML-assisted features and workflows across developer, security, and operations personas per quarter 
+    1. XFN *Continue to win against GitHub*. This includes product positioning, R&D priorities, marketing messaging and field readiness. It also includes AI messaging to support GitLab’s “AI in all we do” focus
+    1. Own AI thought leadership. Deliver 15 customer value stories with clear ROI outlined and promote customers through 2 monthly releases (blog or other medium) per month of leader at customer doing great work with GitLab
+    1. Have 10M code suggestion users
+    1. Rollout monetization approach for AI 
 1. Deliver predictable high value to customers by reducing churn and contraction
     1. Reduce churn and contraction to half of the ATR as compared to FY23-Q4
     1. XFN Run cross functional program to drive DevSecOps Adoption including shipping top product priorities in (Security, Plan, Value Stream Analytics)
