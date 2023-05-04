@@ -382,7 +382,9 @@ The mileage rate is based on your legal entity’s mileage rates for the current
 
 ### Team Building Budget
 
-In FY24, each EGroup member has been allocated a budget per quarter for FY24-Q2 to FY24-Q4 for team building events. Each EGroup member can use their discretion when using the budget. This budget should cover leadership offsites, team member get togethers, the holiday party and other virtual fun events.
+In FY24, each EGroup member has been allocated a budget per quarter for FY24-Q2 to FY24-Q4 for team building events. Each EGroup member can use their discretion when using the budget. The budget should be used within the quarter the funds are allocated and unused funds cannot be moved to a different quarter. This budget should cover leadership offsites, team member get togethers, the holiday party and other virtual fun events.
+
+In Navan, the team member must code any related expense to Classification (under optional details) "FY24 Team Building Budget".
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Year-end Holiday Party Budget
 
