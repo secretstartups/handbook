@@ -57,7 +57,7 @@ The VP of Incubation Engineering is a [grade 12](https://about.gitlab.com/handbo
 
 - Able to enable people to go from 0 to 1: get something shipped
 - Maintain the prioritized, justified list of future investment opportunities
-- Learn, live, and teach our [core values](https://about.gitlab.com/handbook/values/#credit)
+- Learn, live, and teach our [core values](/handbook/values/#credit)
 - Be technically credible (at the VP level)
 - Be an excellent recruiter of engineering talent
 - Have a defined management philosophy

@@ -1,6 +1,7 @@
 ---
-title: "Backend Engineering Roles"
-description: "Learn more about requirements and responsibilities for Backend Engineering roles at GitLab."
+title: "Backend Engineering"
+description: "Backend Engineers at GitLab work on our product. This includes both the open source and enterprise editions, and the GitLab.com service."
+canonical_path: "/job-families/engineering/backend-engineer/"
 manual_cookiebot: true
 ---
 
@@ -13,7 +14,7 @@ requirements and responsibilities:
 
 <a id="intermediate-requirements"></a>
 
-### Requirements
+#### Requirements
 
 - Significant [professional experience](#professional-experience) with Ruby on Rails **or** [language](#primary-programming-language) required by the [specialty](#specialties)
 - Professional experience with any other technologies that may be required by the [specialty](#specialties)
@@ -31,13 +32,14 @@ requirements and responsibilities:
 - Share [our values][values], and work in accordance with those values
 - Ability to thrive in a fully remote organization
 - Ability to use GitLab
+- Comfort and familiarity with our [code review process](https://about.gitlab.com/handbook/engineering/workflow/code-review/)
 
-[values]: https://about.gitlab.com/handbook/values/
+[iteration]: https://about.gitlab.com/handbook/values/#iteration
 [collaboration]: https://about.gitlab.com/handbook/values/#collaboration
 [efficiency]: https://about.gitlab.com/handbook/values/#efficiency
-[iteration]: https://about.gitlab.com/handbook/values/#iteration
+[values]: https://about.gitlab.com/handbook/values
 
-### Nice-to-haves
+#### Nice-to-haves
 
 - Experience in a peak performance organization, preferably a tech startup
 - Experience with the GitLab product as a user or contributor
@@ -49,14 +51,15 @@ requirements and responsibilities:
 - Computer science education or equivalent experience
 - Passionate about/experienced with open source and developer tools
 
-### Responsibilities
+#### Responsibilities
 
 - Develop features and improvements to the GitLab product in a secure,
   well-tested, and performant way
 - Collaborate with Product Management and other stakeholders within Engineering (Frontend, UX, etc.) to maintain a high bar for quality in a fast-paced, iterative environment
 - Advocate for improvements to product quality, security, and performance
 - Solve technical problems of moderate scope and complexity.
-- Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
+- Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment.
+- Conduct [Code Review](https://about.gitlab.com/handbook/engineering/workflow/code-review/) within our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html) and ensure community contributions receive a swift response.
 - Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions
 - Represent GitLab and its values in public communication around specific projects and community contributions.
 - Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
@@ -82,7 +85,7 @@ For context, see this merge request with some [history on this policy](https://g
 Some [specialties](#specialties) within GitLab are using primary programming
 languages other than Ruby. These programming languages are defined as being
 primary in terms of an engineer's experience and what they'll be writing day
-to day. The expecation from the specialty is that engineers will have extensive
+to day. The expectation from the specialty is that engineers will have extensive
 experience in this primary programming language as well as some level of
 understanding of Ruby and, Ruby on Rails.
 
@@ -107,23 +110,17 @@ Engineering Managers have the following job-family performance indicators. Perfo
 
 ## Levels
 
-{{< section-inline-toc >}}
-
 Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
 
-### Intern, Backend Engineer
+### Associate Backend Engineer
 
-Intern, Backend Engineers, while sharing the same requirements and responsibilities outlined above, typically join with less or alternate experience than typical Backend Engineers. More information on intern hiring and the intern program can be found [here](https://about.gitlab.com/handbook/engineering/career-development/#internships-in-engineering).
+The Associate level in the Engineering Division is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Job Grade
-
-The Junior Backend Engineer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Backend Engineer
+### Intermediate Backend Engineer
 
 #### Job Grade
 
-The Backend Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Backend Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Backend Engineer
 
@@ -143,7 +140,7 @@ The Senior Backend Engineer is a [grade 7](https://about.gitlab.com/handbook/tot
 - Represent GitLab and its values in public communication around broader initiatives, specific projects, and community contributions.
 - Provide mentorship for Junior and Intermediate Engineers on your team to help them grow in their technical responsibilities and remove blockers to their autonomy.
 - Confidently ship moderately sized features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Improves the [engineering projects](https://about.gitlab.com/handbook/engineering/projects/) at GitLab via [the maintainer program](https://about.gitlab.com/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer). For more information regarding timelines and exceptions, [see this page](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer).
+- Improves the [engineering projects](https://about.gitlab.com/handbook/engineering/projects/) at GitLab via [the maintainer program](https://about.gitlab.com/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer) at own comfortable pace, while striving to become a [project maintainer](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer).
 
 ----
 
@@ -172,7 +169,6 @@ The Staff Backend Engineer is a [grade 8](https://about.gitlab.com/handbook/tota
 - Represent GitLab and its values in public communication around broad initiatives, specific projects, and community contributions. Interact with customers and other external stakeholders as a consultant and spokesperson for the work of your team.
 - Provide mentorship for all Engineers on your team to help them grow in their technical responsibilities and remove blockers to their autonomy.
 - Confidently ship large features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Participate in either Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues **OR** the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team
 
 ### Backend Engineering Manager
 
@@ -197,7 +193,6 @@ The Backend Engineering Manager role is a [grade 8](https://about.gitlab.com/han
 - Foster technical decision making on the team, but make final decisions when necessary
 - Draft quarterly OKRs and [Engineering KPIs](https://about.gitlab.com/company/kpis/#engineering-kpis)
 - Improve product quality, security, and performance
-- Participate in the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 #### Requirements
 
@@ -230,8 +225,7 @@ Candidates for this position can generally expect the hiring process to follow t
 
 For Individual Contributors:
 
-- As part of the application, candidates are asked to complete a short technical questionnaire, with a possibility of additional technical questions being asked if needed after the application is submitted.
-- Next, candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Backend Engineers
 - Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers
 - Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
@@ -251,28 +245,58 @@ For Managers:
 
 ## Specialties
 
-Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) is at GitLab here.
+### Distribution:Build
 
-### Distribution
+The Build team closely partners with our greater engineering organization to build and distribute GitLab services. The Build team is tasked with ensuring the components that make up GitLab are up to date, license compliant, and available for our users’ platforms and architectures. This group manages the build pipelines, researches support for new services, platforms, and architectures, as well as maintains existing ones. We strive to respond efficiently to build failures, security results, and dependency changes in order to ensure a safe reliable product for our users.
 
-The Distribution team closely partners with our greater engineering organization to build, configure and automate GitLab deployments.
-GitLab's distribution team is tasked with creating a seamless installation and upgrade experience for users across a multitude of platforms.
+Distribution Build engineering regularly interfaces with broader development teams in supporting newly created features. Notably, the Distribution Deploy team is the Build team's biggest internal collaborator, so there is significant team interdependency. The Distribution Build team is involved with diverse projects and tasks that include assisting community packaging efforts.
 
-Distribution engineering regularly interfaces with broader development teams in supporting newly created features.
-Notably, our infrastructure team is the distribution team's biggest internal customer, so there is significant team interdependency.
-The Distribution team is involved with diverse projects and tasks that include assisting community packaging efforts.
-This is reflected in the job role:
+#### Requirements
 
-- Development and maintenance of Cloud Native GitLab deployment tooling and upgrade methods
-- Support Omnibus GitLab package installations across multiple Linux based Operating Systems
-- Experience with various Cloud provider deployment methods including AWS Cloudformation, GCP Deployment Manager, Azure Resource Manager
+- Experience with building Docker images and docker build tooling
+- Extensive Linux experience, comfortable between Debian and RHEL based systems
+- Experience building and packaging archives such as .deb and .rpm
+- Familiar with building and packaging cloud native applications
+- Familiar with multi-stage build systems
+- Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
+
+#### Responsibilities
+
+- Research for the support of new clouds, platforms, architecture, and components
+- Access controls, permissions, and CVE patches
+- Dependency updates
+- License management
+- Submissions to Partners for validations/certifications
+- The install, update, and upgrade pages
+- Build and own the infrastructure used for creating the various installation methods
+- Maintaining infrastructure used in Distribution
+
+### Distribution:Deploy
+
+The Deploy team closely partners with our greater engineering organization to configure and automate GitLab deployments.
+The Deploy team is tasked with delivering an intuitive, clear, and frictionless installation experience, followed by smooth, seamless upgrade and maintenance processes for deployments of any scale. We strive to deliver ongoing operational behaviors for scaling, little to zero downtime upgrades, and highly reliable experiences for not only instance administrators but their users.
+
+Distribution Deploy engineering regularly interfaces with broader development teams in supporting newly created features.
+Notably, our infrastructure team is the deploy team's biggest internal customer, so there is significant team interdependency.
+The Distribution Deploy team is involved with diverse projects and tasks that include assisting community packaging efforts.
 
 #### Requirements
 
 - Experience with Docker and Kubernetes in production use cases
 - Chef experience (writing complex cookbooks from scratch, custom providers, custom resources, etc.)
 - Extensive Linux experience, comfortable between Debian and RHEL based systems
-- Experience building and packaging archives such as .deb and .rpm
+- Experience running applications at scale in Kubernetes
+- Experience transforming existing applications to cloud native oriented applications
+
+#### Responsibilities
+
+- Initial installation and composability for self-managed installations and GitLab.com
+- Upgrades / Downgrades
+- Scaling deployments
+- Migration between platforms or providers
+- Data lifecycle management
+- Secure configuration & communication
+- Research of clouds and platforms for integration to existing tools
 
 ### Package
 
@@ -312,6 +336,7 @@ Focus on security protection features for GitLab (including policy, vulnerabilit
 
 - Develop security components from proposal to polished end result.
 - Integrating 3rd party security tools into production environments deployed by GitLab.
+
 
 ### Secure
 
@@ -428,15 +453,14 @@ making the GitLab project maintainable in the long-term.
 
 #### Responsibilities
 
-- Build automated measurements and dashboards to gain insights into Engineering Productivity
-to understand what is working and what is not.
-- Make suggestions for engineering workflow improvements, monitor the results and iterate.
-- Increase contributor and developer productivity by improving the development setup, workflow, processes, and tools.
-- Improve Review apps for CE/EE.
-- Build automated tooling to speed up issue and merge request review and triage.
-- Ensure workflow and label hygiene in our system which feeds into our metrics dashboard.
-- Build automated tooling to ensure the consistency and quality of the codebase and merge request workflow.
-- Help with maintaining GitLab Docs.
+- Build automated measurements and dashboards to gain insights into the productivity of the Engineering organization to identify opportunities for improvement.
+- Increase contributor and developer productivity by making measurement-driven improvements to the development tools / workflow / processes, then monitor the results, and iterate.
+- Dogfood GitLab product features to improve developer workflow and provide feedback to product teams.
+- Participate in activities related to Engineering throughput and Quality KPIs
+- Develop automated processes for improving label classification hygiene in support of product and engineering workflows.
+- Increase efficiency for wider GitLab Community contributions
+- Enhance and add new features to the GitLab product to improve engineer productivity
+
 
 #### Requirements
 
@@ -450,7 +474,7 @@ to understand what is working and what is not.
 - Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
 - Experience using Docker and containerized architectures (e.g. Kubernetes).
 
-See the description of the [Quality team](https://about.gitlab.com/handbook/engineering/quality/) for more details.
+See the description of the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity/) for more details.
 The position also involves working with the community as
 [Merge Request Coach](/job-families/expert/merge-request-coach/), and working together with our
 [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and
@@ -460,10 +484,18 @@ address issues from the community.
 
 Engineering Productivity Engineers have the following job-family performance indicators.
 
-- [Average CE/EE pipeline duration per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#average-ce-ee-pipeline-duration-per-month)
-- [Successful vs failed CE/EE review app deployments per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#successful-vs-failed-ce-ee-review-app-deployments-per-month)
-- [Successful vs failed CE/EE master pipelines per month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#successful-vs-failed-ce-ee-master-pipelines-per-month)
-- [New issue first triage SLO](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#new-issue-first-triage-slo)
+- [GitLab project master pipeline success rate](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#gitlab-project-master-pipeline-success-rate)
+- [Average merge request pipeline duration for GitLab](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#average-merge-request-pipeline-duration-for-gitlab)
+- [Average cost per merge request pipeline for GitLab](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#average-cost-per-merge-request-pipeline-for-gitlab)
+- [Review App deployment success rate for GitLab](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#review-app-deployment-success-rate-for-gitlab)
+
+#### Hiring Process
+
+1. 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters.
+1. 60 minute behavioral interview with the Engineering Manager, Engineering Productivity.
+1. 50 minute behavioral interview with two Quality team members with at least 1 Backend Engineer, Engineering Productivity
+1. 90 minute Ruby-based technical interview.
+1. 50 minute behavioral interview with the VP of Quality.
 
 ### Application Performance
 
@@ -485,31 +517,29 @@ The Application Performance team works to improve availability, reliability, and
 #### Requirements
 
 An ideal engineer candidate -
-
 - Expert of Ruby on Rails.
 - Experience of performance tuning and/or architecture, [Example](https://rubykaigi.org/2018/presentations/tenderlove.html).
 - Experience of memory leak troubleshooting, [Example 1](http://www.be9.io/2015/09/21/memory-leak/), [Example 2](https://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby).
 
 Alternatively, some of the following qualifications, may not necessarily be all -
-<!-- markdownlint-disable MD022 -->
 1. **Must** be proficient in one or more of the following in preference order
-    1. Ruby.
-    1. Go.
-    1. Similar OOP languages (e.g. Python, C++, Java, C#, etc.).
+1. Ruby.
+1. Go.
+1. Similar OOP languages (e.g. Python, C++, Java, C#, etc.).
 1. AND/OR proficient in one or more of the following
-    1. Proven record of building scalable solutions.
-    1. Top notch understanding of DB principles and optimization mechanisms.
-    1. Familiar with a framework similar to the concepts of Rails (e.g. CakePHP, Ember, Node.js, Angular, J2EE, etc.) - For reference and apply with due diligence.
-    1. High-level principles: has knowledge of existing perf testing tools and test automation with some Ruby.
-    1. Low-level principles: Understands internals, how memory works, garbage collection. Sorting algorithms.
+1. Proven record of building scalable solutions.
+1. Top notch understanding of DB principles and optimization mechanisms.
+1. Familiar with a framework similar to the concepts of Rails (e.g. CakePHP, Ember, Node.js, Angular, J2EE, etc.) - For reference and apply with due diligence.
+1. High-level principles: has knowledge of existing perf testing tools and test automation with some Ruby.
+1. Low-level principles: Understands internals, how memory works, garbage collection. Sorting algorithms.
 1. **Nice to have**
-    1. Tuning up performance from architecture/design perspective.
-    1. Troubleshooting memory leaks (any language).
-    1. Optimizing full stack implementation, e.g. I/O, caching.
-    1. Good knowledge of performance testing.
+1. Tuning up performance from architecture/design perspective.
+1. Troubleshooting memory leaks (any language).
+1. Optimizing full stack implementation, e.g. I/O, caching.
+1. Good knowledge of performance testing.
 1. Strong problem analysis and solving skills, methodological in problem solving.
 1. **Must** be a proven fast-learner and self-starter.
-<!-- markdownlint-enable MD022 -->
+
 ### Ecosystem
 
 The Ecosystem team is responsible for seamless integration between GitLab and 3rd party products as well as making GitLab products available on cloud service providers’ marketplaces such as AWS. The team plays a critical role in developing APIs and SDK and expanding GitLab market opportunities.
@@ -529,15 +559,18 @@ The Ecosystem team is responsible for seamless integration between GitLab and 3r
 - Proficient or fluent with one or more of other common languages: Go, Python, Java, Node, JavaScript, etc.
 - Familiar with full web technology stack (e.g. HTTP, cookies, asset loading, caching).
 
-### Gitaly
+### <a name="Gitaly"></a>Cluster
 
-Gitaly is a new service in our architecture that handles git and other filesystem operations for GitLab instances, and aims to improve reliability and performance while scaling to meet the needs of installations with thousands of concurrent users, including our site GitLab.com. This position reports to the Gitaly Lead.
+Gitaly is the *Git* data storage tier of GitLab, providing a reliable, secure and fast distributed Git data store over gRPC. For more information about Gitaly, see the team's [Direction](https://about.gitlab.com/direction/gitaly/) page. This position reports to the Gitaly lead.
+
+Gitaly's high-availability storage requires developers who understand distributed storage systems, their management, observability and availability. **Cluster team** contributes features, fixes bugs and improves performance of this software stack.
 
 #### Responsibilities
 
 - Participate in architectural discussions and decisions surrounding Gitaly.
+- Design RPC interfaces for the Gitaly service.
 - Scope, estimate and describe tasks to reach the team’s goals.
-- Collaborate on designing RPC interfaces for the Gitaly service
+- Develop Gitaly in accordance with the product's goals.
 - Instrument, monitor and profile Gitaly in the production environment.
 - Build dashboards and alerts to monitor the health of your services.
 - Conduct acceptance testing of the features you’ve built.
@@ -545,27 +578,41 @@ Gitaly is a new service in our architecture that handles git and other filesyste
 
 #### Requirements:
 
-- Mandatory: production experience building, debugging, optimising software in large-scale, high-volume environments.
-- Mandatory: Solid production Ruby experience.
-- Highly desirable: Experience working with Go. It’s important that candidates must be willing to learn and work in both Go and Ruby.
+- Mandatory: proven [professional experience](#professional-experience) building, debugging, optimising software in large-scale, high-volume environments.
+- Mandatory: proven [professional experience](#professional-experience) writing and testing high-quality code.
+- Mandatory: a good understanding of building instrumented, observable software systems.
+- Highly desirable: proven [professional experience](#professional-experience) writing and testing quality code **in Go**.
+- Highly desirable: a good understanding of git’s internal data structures or experience running git servers.
 - Highly desirable: experience with gRPC.
-- Highly desirable: a good understanding of git’s internal data structures or experience running git servers. You can reason about software, algorithms, and performance from a high level.
-- Understanding of how to build instrumented, observable software systems.
-- Experience highly-available systems in production environments.
+- Highly desirable: willingness to learn Ruby.
+- Highly desirable: experience running highly-available systems in production environments.
 
-### Meltano (BizOps Product)
+### Git
 
-[Meltano](https://gitlab.com/meltano/meltano) is an early stage project at GitLab focused on delivering an open source framework for analytics, business intelligence, and data science. It leverages version control, data science tools, CI, CD, Kubernetes, and review apps.
+Gitaly is the *Git* data storage tier of GitLab, providing a reliable, secure and fast distributed Git data store over gRPC. For more information about Gitaly, see the team's [Direction](https://about.gitlab.com/direction/gitaly/) page. This position reports to the Git team lead.
 
-A Meltano Engineer will be tasked with executing on the vision of the Meltano project, to bring the product to market.
+Gitaly uses the open-source Git product under the hood to implement the business logic for repository access. **Git team** contributes features, fixes bugs and improves performance of upstream Git in accordance with product direction for both Git and GitLab/Gitaly.
 
-#### Requirements
+#### Responsibilities
 
-- A passion for data science and analytics
-- Experience with doing initial prototyping, architecture, and engineering work
-- In-depth experience with Python (no Ruby or Rails experience required for this
-  role)
-- Experience with Kubernetes, Helm, and CI/CD is a **strict requirement**
+- Participate in architectural discussions and decisions surrounding Git and Gitaly.
+- Participate in the Git community, connect and bridge discussions in the opensource community with GitLab.
+- Scope, estimate and describe tasks to reach the team’s goals.
+- Develop Git in accordance with both the team's and the community's goals.
+- Adapt Gitaly to make best use of Git, including integrating new features.
+- Conduct acceptance testing of the features you’ve built and integrated.
+- Be a good citizen of the open-source community.
+
+#### Requirements:
+
+- Mandatory: a good understanding of building instrumented, observable software systems.
+- Mandatory: a good understanding of git’s code and data structures or experience running git servers.
+- Mandatory: proven [professional experience](#professional-experience) writing and testing quality code **in C**.
+- Mandatory: accepted contributions to the Git project.
+- Highly desirable: proven [professional experience](#professional-experience) writing and testing quality code **in Go**.
+- Highly desirable: experience with Linux internals (processes, memory management, I/O, filesystems).
+- Highly desirable: experience building, debugging, optimising software in large-scale, high-volume environments.
+- Highly desirable: experience running highly-available systems in production environments.
 
 ### Database
 
@@ -585,35 +632,9 @@ of PostgreSQL. As such Ruby knowledge is absolutely required and deep PostgreSQL
 - Expert-level understanding of relational databases, SQL and query optimization techniques and demonstrated ability to both diagnose and prevent performance problems
 - Significant experience working in a distributed production environment
 
-### Gitter
-
-[Gitter](https://gitter.im) specialists are full-stack JavaScript developers who are able to write JavaScript code that is shared between multiple environments. Gitter uses a JavaScript stack running Node.js on the server, and bundled with webpack on the client. The [iOS](https://gitlab.com/gitlab-org/gitter/gitter-ios-app), [Android](https://gitlab.com/gitlab-org/gitter/gitter-android-app), macOS (Cocoa) and [Linux/Windows (NW.js)](https://gitlab.com/gitlab-org/gitter/desktop/) clients reuse [much of the same codebase](https://gitlab.com/gitlab-org/gitter/webapp) but also require some knowledge of Objective-C, Swift and Java. Gitter uses MongoDB, Redis, and Elasticsearch for backend storage.
-
-#### Requirements
-
-- Strong client-side JavaScript experience
-- Strong production Node.js experience
-- Highly desirable: MongoDB, Elasticsearch, and Redis experience
-- Desirable: Some Java, Objective-C or Swift experience building mobile apps
-- Desirable: DevOps experience, working with Linux, Ansible, AWS or similar products
-
-#### Responsibilities
-
-- Fix prioritized issues from the issue tracker
-- Triage issues (duplicates, clarification, reproduction steps, prioritization)
-- Create high quality frontend and backend code
-- Review community contributions
-- Provide second-level support to the Production Team to ensure that all Gitter production services remain stable
-- Document tribal knowledge, particularly around runbooks and production incident processes
-- Keep an eye on Sentry to find regressions and ensure application errors are addressed
-- Continually improve the quality of Gitter by using discretion of where you think changes are needed
-- Continue to migrate the codebase from old repository locations to GitLab, while open-sourcing as much of it as possible
-- Maintain the iOS, Android, and desktop applications
-- Provide community support for Gitter via [Gitter rooms](https://gitter.im/gitterHQ/gitter), [Twitter](https://twitter.com/gitchat), Zendesk, etc
-
 ### Infrastructure
 
-[Infrastructure](https://about.gitlab.com/handbook/engineering/infrastructure/) specialists work alongide DBREs and SREs and are experienced Ruby/GoLang developers who work in the product with a focus on reliability, observability, performance and scalability at the application level, as well as on resource optimization from an Infrastructure perspective and on operationally relevant features.
+[Infrastructure](https://about.gitlab.com/handbook/engineering/infrastructure/) specialists work alongside DBREs and SREs and are experienced Ruby/GoLang developers who work in the product with a focus on reliability, observability, performance and scalability at the application level, as well as on resource optimization from an Infrastructure perspective and on operationally relevant features.
 
 #### Requirements
 
@@ -638,7 +659,7 @@ every GitLab release reaches the public in time.
 
 #### Responsibilities
 
-- Assures the [GitLab Release Process](https://about.gitlab.com/handbook/engineering/releases/)
+- Guarantees the [GitLab Release Process](https://about.gitlab.com/handbook/engineering/releases/)
 - Creates new tools to automate the release process
 - Builds new GitLab release features to replace existing custom tooling
 - Works with individual teams on defining and implementing solutions that will help them release quicker
@@ -652,13 +673,13 @@ every GitLab release reaches the public in time.
 ### Scalability
 
 The [Scalability team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/) is responsible for optimising GitLab.com
-performance through improving reliability, availability and performance of GitLab individual services and application as a whole.
+performance through improving the reliability, availability and performance of individual GitLab services and the application as a whole.
 
 #### Responsibilities
 
-- Analyse existing, create and maintain new GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective) (SLOs).
+- Create, analyze, and maintain GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective) (SLOs).
 - Resolve problems that contribute to missed SLOs.
-- Find, define and resolve application bottlenecks as observed on GitLab.com.
+- Find, define, and resolve application bottlenecks as observed on GitLab.com.
 - Work closely with embedded Site Reliability Engineers to prepare production changes.
 
 #### Requirements
@@ -672,7 +693,7 @@ Candidate should ideally be:
 
 Other qualifications include:
 
-- High proficiency in Ruby or Go. Knowledge of other lanuages is a nice to have.
+- Language expertise. Application contributions are expected in Ruby and the ability to contribute in Go is helpful.
 - Knowledge of profiling, and performance testing.
 - Understanding of basic database principles and optimisation mechanisms.
 

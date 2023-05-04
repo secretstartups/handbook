@@ -16,7 +16,7 @@ information we also maintain an [Internal Handbook](https://internal-handbook.gi
 
 - [About GitLab](https://about.gitlab.com/company/)
     - [History](https://about.gitlab.com/company/history/)
-- [Values](https://about.gitlab.com/handbook/values/)
+- [Values](/handbook/values/)
 - [Mission](https://about.gitlab.com/company/mission/)
 - [Vision](https://about.gitlab.com/company/vision/)
 - [Strategy](https://about.gitlab.com/company/strategy/)

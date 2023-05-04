@@ -230,7 +230,7 @@ The Director, Sales Operations is a [grade 10](https://about.gitlab.com/handbook
 - Proven ability to thrive in a fluid, fast-paced, unpredictable environment
 - Interest in GitLab, and open source software
 - Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values
-- You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
+- You share our [values](/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 
 ### Senior Director, Sales Operations
@@ -264,7 +264,7 @@ The Senior Director, Sales Operations is a [grade 11](https://about.gitlab.com/h
 - Deep SFDC expertise and expert knowledge of enterprise sales tools
 - Ability to coach, motivate, performance manage and recruit Sales Operations teams
 - Interest in GitLab, and open source software
-- You share our [values](https://about.gitlab.com/handbook/values/) and work in accordance with those values
+- You share our [values](/handbook/values/) and work in accordance with those values
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 
 ## Specialties
@@ -319,7 +319,7 @@ The Senior Director, Sales Operations is a [grade 11](https://about.gitlab.com/h
 - Deep SFDC expertise and knowledge of channel management systems (e.g., Partner Portal) and enterprise SaaS tools
 - Experience with QTC process, tools, and automation
 - Interest in GitLab, and open source software
-- You share our [values](https://about.gitlab.com/handbook/values/) and work in accordance with those values
+- You share our [values](/handbook/values/) and work in accordance with those values
 
 #### Director, Sales Operations (Channel) Responsibilities
 
@@ -373,7 +373,7 @@ The Senior Director, Sales Operations is a [grade 11](https://about.gitlab.com/h
 - Exceptional written/verbal communication and presentation skills
 - Team player with strong interpersonal and cross-functional collaboration skills
 - Ability to thrive in a fast-paced, unpredictable environment
-- Share and work in accordance with [GitLab's values](https://about.gitlab.com/handbook/values/)
+- Share and work in accordance with [GitLab's values](/handbook/values/)
 - Prior experience as well as knowledge and familiarity with the Software Development Life Cycle, DevOps, open source software, and SaaS not required but considered a plus
 
 ### Partner Operations Project Manager
