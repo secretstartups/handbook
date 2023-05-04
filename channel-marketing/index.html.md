@@ -37,7 +37,7 @@ For an in-depth look at the programs and tools we offer our partners, see our [m
 * Turnkey, integrated instant marketing campaigns provide the collateral materials partners need to run a demand-generation campaign. 
 * Provide review and approval for local/regional [field marketing](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing--channel-marketing) plans with partners
 * Build marketing plans with Marketing Ready focus partners. 
-* Build a repeatable, predictable, sustainable and desirable model enabling partners to receive, accept, nurture and close GitLab leads leveraging the GitLab Partner Portal and Vartopia Deal Registration system.
+* Build a repeatable, predictable, sustainable and desirable model enabling partners to receive, accept, nurture and close GitLab leads leveraging the GitLab Partner Portal and Deal Registration system.
 * Enable channel partners to add “[GitLab free trial](https://about.gitlab.com/free-trial/)” functionality to their websites with marketing tools and lead passing to allow partners to effectively generate and nurture their own leads.  This will serve as partner primary CTA within demand generation efforts. 
 * For Marketing Ready partners, participate in partner QBRs and provide input and ideation on successful go to market campaigns and initiatives to help partners drive more business with GitLab. 
 * On a monthly basis, provide marketing content and input to the Global Channel Operations team for use in the global channel communication/newsletter 
@@ -149,7 +149,7 @@ Get all the assets you need to host a GitLab Ultimate SaaS or Self-Managed free 
 We currently offer the Self-Managed form in English, Spanish, German, French, Korean and Japanese and the custom SaaS free trial form in English.
 
 *   [Reference the Free Trial Introduction Guide](https://partners.gitlab.com/prm/English/s/assets?id=433002&q=free%20trial%20) 
-*   [How to grow business using Microsites, Free Trial and Vartopia lead passing Video](https://partners.gitlab.com/prm/English/s/assets?id=453616) 
+*   [How to grow business using Microsites, Free Trial and Lead passing Video](https://partners.gitlab.com/prm/English/s/assets?id=453616) 
 *   [GitLab Lead Management Demo](https://partners.gitlab.com/prm/English/s/assets?id=455381) 
 *   [GitLab Lead Management Prospect Guide](https://partners.gitlab.com/prm/English/s/assets?id=439667&q=prospect)
 
@@ -244,7 +244,7 @@ Note, the subject needs to be an exact match of what's displayed above, otherwis
 *   **Daria Polukanina**: Channel Marketing Manager for EMEA and APAC
 
 
-## The best way to contact our team is through our Slack channels
+## The best way to contact our team is through our Slack channel
 
 #channel-marketing 
 
