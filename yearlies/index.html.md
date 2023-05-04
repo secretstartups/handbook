@@ -71,7 +71,7 @@ FY24 Yearlies and additional detail can be found by searching for the "FY24 Year
 1. Continue to build a diverse team of top talent that we retain and grow 
     1. Reduce regrettable turnover by 0.6%
     1. Increase our URG population from 17% to 19% and female population from 31% to 34%, increase leadership 
-    1. Elevate graduates from 10% to 85% of our people managers
+    1. Increase graduates from the Elevate program from 10% to 85% of our people managers
 
 
 
