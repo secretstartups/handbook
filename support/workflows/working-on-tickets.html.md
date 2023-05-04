@@ -187,14 +187,15 @@ needs, and that might save you and the customer time and effort as well.
 Each week, every Support Engineer should aim at least to meet, and preferably to exceed, [the
 appropriate baseline](/handbook/support/support-engineer-responsibilities.html#ticket-baseline) from the following list for the number of first responses:
 
-- **Self-managed focus: 6 tickets**
-- **SaaS focus: 10 tickets, including "SaaS account" tickets**
-- **L&R focus: 15 tickets**
+- **Self-managed: 6 tickets**
+- **SaaS: 7 tickets**
+- **SaaS Accounts: 8 tickets**
+- **L&R: 24 tickets**
 
-These numbers are based on ticket volume, number of SEs, and average
-PTO (15%). We will continue to monitor ticket volume and number of SEs to make
-sure the above guidelines are accurate. We need everyone to contribute on days they
-are available, which will result in us exceeding our goal.
+The aim is to ensure equitable ticket distribution among team members. These
+numbers are based on ticket volume, number of SEs, and average PTO (15%). We
+will continue to monitor ticket volume and number of SEs to make sure the above
+guidelines are accurate.
 
 #### What if I can't meet baseline?
 
