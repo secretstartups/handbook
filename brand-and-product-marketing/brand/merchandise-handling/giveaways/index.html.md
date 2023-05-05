@@ -134,7 +134,7 @@ Cons:
 - your team is responsible for the swag, fulfillment, and shipping costs associated with giveaway link abuse.
 
 ### Phase 4: Obtain Legal Approval
-Due to the global nature of GitLab, some giveaways may need customized Terms and Conditions. Please complete the [Legal approval questionnaire](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=sweepstakes_legal_template) to ensure you have appropriate terms for your giveaway.
+Due to the global nature of GitLab, some giveaways may need customized Terms and Conditions. Please complete the [Legal approval questionnaire](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=promotional_games_legal_template) to ensure you have appropriate terms for your giveaway.
 
 ### Phase 5: Set up your giveaway campaign
 
