@@ -6,6 +6,8 @@ twitter_image: "/images/opengraph/all-remote.jpg"
 twitter_image_alt: "GitLab remote team graphic"
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
+cascade:
+  type: docs
 ---
 
 At its heart is a belief that creating the environment for better decisions and improved execution of them makes for better teams — and ultimately, progress.
