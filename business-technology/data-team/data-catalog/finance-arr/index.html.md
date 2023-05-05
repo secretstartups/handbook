@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "TD: Snapshot Annual Recurring Revenue (ARR)"
+title: "TD: Finance Annual Recurring Revenue (ARR)"
 ---
 ## On this page
 
@@ -15,6 +15,7 @@ The goal of this page:
 
 * Help you understand how to navigate through the Snapshot ARR Dashboards.
 * Help you understand the data models used to create the Snapshot ARR dashboards.
+* Help you undersand the manual true up additions to ARR calculations
 * And overall help everyone contribute!
 
 ## Snapshot ARR
@@ -40,6 +41,24 @@ Method Three uses the more traditional bottoms-up snapshotting approach that is 
 ### Maintenance Schedule:
 
 1. As needed, Scheduled Maintenance will be performed every two weeks on Friday, from 9am to 11am EST.
+
+## True Up Subscriptions
+Manual true ups come from our Revenue Accounting team through Zuora Revenue. We combined these true ups with our other charge records to adjust our overall ARR number. 
+
+#### Key Data Models
+- `zuora_revenue_revenue_contract_lines_source`: Flags subscriptions with manual true ups using custom field (ATR16)
+- `zuora_revenue_manual_journal_entry_source`: Source of true up amount based on flags in revenue contract lines
+- `prep_charge`: Combines non-manual charges with manual true up charges to generate ARR models
+- `rpt_dropped_manual_true_up_charges`: Compares snapshotted charges with current charges to alert if manual true ups are dropped
+
+#### Monitoring Dropped True Ups
+Flow: 
+1. Alert goes to emails assigned in alert (Revenue Accounting team & GTM Data team)
+1. Data team creates a triage issue
+1. Data team tags Revenue Accounting DRI, asking to update the dropped subscription(s) in the issue
+1. Check after the next data warehouse refresh that the data has flowed in the ARR models and the alert is showing 0 dropped true ups
+
+Monitoring dashboard can be found at <a href = "https://app.periscopedata.com/app/gitlab:safe-dashboard/945482/Zuora-Revenue-ARR-Adjustments?widget=15003201&udv=0"> Dropped True Up Subscriptions </a>
 
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
