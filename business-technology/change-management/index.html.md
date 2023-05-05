@@ -166,6 +166,21 @@ To make a global configuration or settings change to a [third-party application 
         - IT will review the change request and engage Legal as needed. Additional participants will be included during weekly CAB reviews to include team members requesting change(s) and their managers. 
 - In the event a change request is not approved, IT will work with the individual submitting the change request to address any blockers/concerns.
 
+### Rollout of Mass Deployments
+
+Where possible, mass deployments such as macOS operating system upgrades (i.e. Monterey to Ventura) or net new software rollouts will be done by Department. Smaller changes such as security patches or minor updates of existing software are not subject to the same schedule and can be deployed globally after Phase 1 testing is complete.  The order of mass deployments will be as follows:
+- Phase 1: IT, Security, and Volunteers
+- Phase 1b: Legal
+- Phase 2: Marketing & People Group
+- Phase 3: Engineering
+- Phase 4: Sales & Finance
+- Phase 5: CEO Group & VIPs
+
+VIP support for significant or disruptive changes will be treated via direct support from the Service Desk team who will schedule a call at a convenient time to ensure the update or deployment is successful with minimal disruption.
+
+```If you wish to join the volunteers group to test new software, please join the #it-security-beta-testers channel on Slack and let us know - everyone can contribute!
+```
+
 ### Communication Changes
 
 If during the Business Technology change request process it's decided team members should be notified of a change (for example, changing the default Google Doc sharing settings), please ensure that you communicate the change and its impact by posting in `#whats-happening-at-gitlab`.
