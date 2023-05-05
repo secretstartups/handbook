@@ -28,10 +28,10 @@ If you'd like to order swag for customers, your team, events, giveaways, TMRGs, 
 
 **Orders of less than 20 items or $700** 
 
-1. Confirm that your team has approved budget for this order. If you're not sure, check with your manager or finance business partner.
+1. Confirm that your team has approved budget for this order. If you're not sure, check with your manager or [finance business partner](/handbook/finance/financial-planning-and-analysis/#our-team).
 1. Create an issue using this template to start your order. 
 1. Once the order is approved, the team at Boundless (our swag vendor) will add a credit to your account.
-1. Purchase the swag in the Swag Shop using the account credit, and be sure to use the free shipping code (team members can find the code in the #swag Slack channel description). 
+1. Purchase the swag in the [Swag Shop](https://shop.gitlab.com/) using the account credit, and be sure to use the free shipping code (team members can find the code in the #swag Slack channel description). 
 
 Please allow 3 weeks from the time you open this issue to the time the item is delivered. If you need something more urgently, add the `Swag: URGENT` label to the issue, along with a comment explaining the expedited timeline. 
 
@@ -39,9 +39,9 @@ Please allow 3 weeks from the time you open this issue to the time the item is d
 
 **Orders of more than 20 items or $700+**
 
-1. Confirm that your team has approved budget for this order. If you're not sure, check with your manager or finance business partner.
+1. Confirm that your team has approved budget for this order. If you're not sure, check with your manager or [finance business partner](/handbook/finance/financial-planning-and-analysis/#our-team).
 1. Create an issue using this template to start your order.
-1. The Boundless team will share a quote with you. Use this number to submit a purchase requisition in Zip. Once a PO has been created, add the PO number to the issue.
+1. The Boundless team will share a quote with you. Use this quote to [submit a purchase requisition in Zip](/handbook/business-technology/enterprise-applications/guides/zip-guide/#zip---getting-started). Once a PO has been created, add the PO number to the issue.
 1. Boundless will place the order and have it shipped to your recipients. 
 
 Please allow 4 weeks from the time you open the issue to the time the swag is delivered. If you need something more urgently, add the `Swag: URGENT` label to the issue, along with a comment explaining the expedited timeline. 
@@ -50,13 +50,13 @@ Please allow 4 weeks from the time you open the issue to the time the swag is de
 
 #### Organizing a gift card
 
-If you'd like to allow giveaway (e.g. Hackathon winners) or gift recipients to choose their own swag, we can set up a store credit for them to use in the GitLab swag shop.
+If you'd like to allow giveaway (e.g. Hackathon winners) or gift recipients to choose their own swag, we can set up a store credit for them to use in the [GitLab Swag Shop](https://shop.gitlab.com/).
 
 1. Ensure your team has approved budget before requesting the page. If you're not sure about budget, please check with your manager or finance business partner.
 1. Open an issue using this template.  
 1. The Boundless team will respond with instructions on how each person can access the credit. 
 
-Note: This is only for items currently in the Swag Shop. You will only be charged for the amount redeemed in the store once it is spent.  
+Note: This is only for items currently in the [Swag Shop](https://shop.gitlab.com/). You will only be charged for the amount redeemed in the store once it is spent.  
 
 #### Gift of choice landing page
 
