@@ -47,7 +47,6 @@ We strive to be as transparent as possible, but these sections are only availabl
 - [Prelude](/handbook/hiring/prelude)
 - [Overview of Job Families](/handbook/hiring/job-families)
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
-- [Principles](/handbook/hiring/principles/)
 - [Talent Acquisition Alignment](/handbook/hiring/recruiting-alignment/)
 - [Talent Acquisition Privacy Policy](/handbook/hiring/recruitment-privacy-policy/)
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
