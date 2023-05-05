@@ -71,10 +71,10 @@
 
 [ceo]
 /content/job-families/chief-executive-officer @sytses @streas
-/content/job-families/board-of-directors/board_member/ @sytses @robin
+/content/job-families/board-of-directors/ @sytses @robin
 
 [chief-information-security-officer]
-/content/job-families/chief-information-security-officer/ @robin @fofungwu
+/content/job-families/chief-information-security-officer.md @robin @fofungwu
 
 [comms]
 /content/news/ @sliang2
@@ -111,9 +111,9 @@
 
 [people]
 /content/job-families/people-group/recruiting-operations-insights/ @sytses @streas @wendybarnes @rallen3
-/content/job-families/people-group/recruiter/ @sytses @streas @wendybarnes @rallen3
-/content/job-families/people-group/recruiting-sourcer/ @sytses @streas @wendybarnes @rallen3
-/content/job-families/people-group/candidate-experience/ @sytses @streas @wendybarnes @rallen3
+/content/job-families/people-group/recruiter.md @sytses @streas @wendybarnes @rallen3
+/content/job-families/people-group/recruiting-sourcer.md @sytses @streas @wendybarnes @rallen3
+/content/job-families/people-group/candidate-experience.md @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/ @wendybarnes @pegan
 
 [product]
@@ -137,9 +137,21 @@
 /content/handbook/product/fulfillment/qsr/ @tgolubeva
 /content/handbook/product/fulfillment/auto-renewal/ @tgolubeva
 /content/handbook/company/performance-indicators/product/fulfillment-section/ @ofernandez2 @tgolubeva @courtmeddaugh @alex_martin @doniquesmit
-/content/job-families/product/technical-writer/ @clenneville @susantacker @dianalogan @kpaizee @david
-/content/job-families/product/technical-writing-manager/ @clenneville @susantacker @dianalogan @kpaizee @david
-/content/job-families/product/ @joshlambert @vkarnes
+/content/job-families/product/technical-writer.md @susantacker @dianalogan @kpaizee
+/content/job-families/product/product-design-management.md @vkarnes
+/content/job-families/product/product-designer.md @vkarnes
+/content/job-families/product/ux-fullstack-engineer.md @susantacker
+/content/job-families/product/ux-research-manager.md @asmolinski2
+/content/job-families/product/ux-research-operations-coordinator.md @asmolinski2
+/content/job-families/product/ux-researcher.md @asmolinski2
+/content/job-families/product/technical-writing-manager.md @susantacker @dianalogan @kpaizee
+/content/job-families/product/pricing.md @justinfarris
+/content/job-families/product/product-analyst.md @justinfarris @cbraza 
+/content/job-families/product/product-management-leadership.md @david @hbenson @mflouton @justinfarris 
+/content/job-families/product/product-manager.md @david @justinfarris @hbenson @mflouton @joshlambert @fzimmer @jreporter @ofernandez2 
+/content/job-families/product/product-operations.md @justinfarris 
+/content/job-families/product/ @david @clenneville @mflouton @justinfarris @hbenson
+
 
 [sales]
 /content/handbook/sales/ @dhong
