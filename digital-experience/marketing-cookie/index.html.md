@@ -14,5 +14,5 @@ This cookie determined if a user has an active sesssion within the GitLab produc
 [Related MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/113761)
 
  <figure class="video_container">
-   <iframe src="https://youtu.be/Nm8wWtoBCTc" frameborder="0" allowfullscreen="true"> </iframe>
+   <iframe src="https://www.youtube.com/embed/Nm8wWtoBCTc" frameborder="0" allowfullscreen="true"> </iframe>
  </figure>
