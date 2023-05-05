@@ -38,16 +38,20 @@ As we set out over the next decade to achieve this vision, we will continue to r
 We strive to be as transparent as possible, but these sections are only available for our GitLab team members.
 [FY24 TA Strategy](https://docs.google.com/document/d/1Q9ui_BZLRPBAYpRtdtpHVSvGzW3g7JtVYkGj_KqwZBA/edit#heading=h.riu5wc8sjmum)
 
-## Hiring pages
+### Team Process Pages
+- [TA Key Performance Indicators](https://internal-handbook.gitlab.io/handbook/people-group/talent-acquisition/key-performance-indicators/) Note: this page is currently in our internal handbook as they are a work in progress.
 - [Meeting Cadence](/handbook/hiring/meetings/)
+- [Talent Acquisition Alignment](/handbook/hiring/recruiting-alignment/)
+- [Diversity, Inclusion & Belonging Talent Acquisition Initiatives](/company/culture/inclusion/talent-acquisition-initiatives/)
+- [Triad Process](/handbook/hiring/talent-acquisition-framework/triadprocess/)
+
+### Hiring Pages
 - [Interviewer Prep Requirements](/handbook/hiring/interviewing/)
 - [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
-- [Diversity, Inclusion & Belonging  Talent Acquisition Initiatives](/company/culture/inclusion/talent-acquisition-initiatives/)
 - [Greenhouse](/handbook/hiring/greenhouse/)
 - [Prelude](/handbook/hiring/prelude)
 - [Overview of Job Families](/handbook/hiring/job-families)
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
-- [Talent Acquisition Alignment](/handbook/hiring/recruiting-alignment/)
 - [Talent Acquisition Privacy Policy](/handbook/hiring/recruitment-privacy-policy/)
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
 - [Referral Operations](/handbook/hiring/referral-operations/)
@@ -55,7 +59,7 @@ We strive to be as transparent as possible, but these sections are only availabl
 - [Resource Guide](/handbook/hiring/guide/)
 - [Sourcing](/handbook/hiring/sourcing/)
 
-Potential applicants should refer to the [jobs FAQ page](/handbook/hiring/candidate/faq/).
+Potential applicants should refer to the [Candidate Handbook Page](/handbook/hiring/candidate/faq/).
 
 ## Related to hiring
 
