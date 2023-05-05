@@ -184,18 +184,18 @@ To send a Non-Disclosure Agreement (NDA) to a candidate, Recruiters should ping 
 CES can then log into DocuSign, select "start" and "use a template", and then access shared templates.
 Once the NDA has been returned, upload the document in the "details" section of Greenhouse. Download this document from DocuSign as separate files, and only use the NDA itself (the summary is not necessary).
 
-### Background Checks
+### Background Screenings
 
-GitLab will obtain references and complete a criminal [background check](https://about.gitlab.com/handbook/people-policies/#background-checks) with employment verifications.
+GitLab will obtain references and complete a criminal [records check](https://about.gitlab.com/handbook/people-policies/#background-checks) with employment verifications.
 
-   - If the candidate is located in Belgium and the role is not Grade 9 or higher, the CES or Recruiter (whoever kicks off the reference check process) should send the job requisition to the legal team via the #legal Slack channel during Reference/Background check phase to determine whether or not the role is a position of trust.
-- The recruiter should select "Email the team" and send the "CES Start Contract Request" email to CES* to initiate the offer letter and background check processes after the verbal offer has been made.
-- The Candidate Experience Specialist will [initiate a background check](/handbook/people-policies/#background-checks) and start the contract process for the candidate. 
+   - If the candidate is located in Belgium and the role is not Grade 9 or higher, the CES or Recruiter (whoever kicks off the reference check process) should send the job requisition to the legal team via the #legal Slack channel during Reference/Background screening phase to determine whether or not the role is a position of trust.
+- The recruiter should select "Email the team" and send the "CES Start Contract Request" email to CES* to initiate the offer letter and background screening processes after the verbal offer has been made.
+- The Candidate Experience Specialist will [initiate a background screening](/handbook/people-policies/#background-checks) and start the contract process for the candidate. 
 - Background check results will be received by the Senior Background Check Specialist and escalated to Team Member Relations and Legal where appropriate
 
-For additional information on reviewing Background checks see [this page](/handbook/people-policies/#background-checks).
+For additional information on reviewing Background screenings see [this page](/handbook/people-policies/#background-checks).
 
-#### Initiating a Background Check through Greenhouse
+#### Initiating a Background Screening through Greenhouse
 
 1. Log in to [Greenhouse](https://app2.greenhouse.io/dashboard) and go to the candidate's profile.
 1. Click the `Private` tab.
@@ -205,14 +205,14 @@ For additional information on reviewing Background checks see [this page](/handb
 1. If the candidate is located in New York City and you have already initiated Step 1, please order NYC Step 2 instead of a traditional US check. 
 
 
-#### Initiating a Background Check through Sterling Talent Solutions
+#### Initiating a Background Screening through Sterling Talent Solutions
 
 1. Log in to [Sterling](https://secure.sterlingdirect.com/login/Default.aspx) and E-invite the candidate by inputting their email address.
 1. Under "Applicant Information" enter in the candidate's first and last name, as well as their email address to confirm.
 1. Next, select "GitLab" from the "Job Position" drop down menu.
 1. Next, select the name of the country where the candidate is located. If the candidate is located in the US, the package will be called `Comprehensive Criminal with Employment`. If the country is not listed, choose `Global Screening`
 1. Finally, scroll to the bottom of the page and click "Send"
-1. Make a note in the Greenhouse profile that the Background Check has been started
+1. Make a note in the Greenhouse profile that the Background Screening has been started
 
 
 ### Reference Check Forms
@@ -240,11 +240,11 @@ It's important to note that the USA Reference Check form should be sent to the c
 
 5. This process has been added due to NYC law, which separates the employment verification from the criminal check. Keep an eye on the status of the Step 1 screening results in Sterling. While we are waiting for Step 1 to be cleared, the recruiter can provide the candidate the verbal offer, begin creating the offer in Greenhouse and going through the approval stages. Recruiters can send the contract request ticket to CES when they are ready, **although, CES _cannot_ send a written contract to the candidate until Step 1 has been cleared.**
 
-**Tip:** when the CES desk receives the contract ticket, add the NYC BGC label immediately to remind yourself and your team members that this candidate is undergoing the NYC two-step background check process. 
+**Tip:** when the CES desk receives the contract ticket, add the NYC BGC label immediately to remind yourself and your team members that this candidate is undergoing the NYC two-step background screening process. 
 - When checking BGCs in Sterling initiated by other team members, be sure to select "Entire Organization" in the top left section of the [Sterling dashboard](https://sterlingcheck.app/dashboard/#/dashboard/). 
 
 
-6. Once the recruiter has sent CES a contract ticket, CES will then complete **NYC Step 2** of the background check through the Greenhouse integration. Once in Sterling, select the NYC Step 2 screening package and send. 
+6. Once the recruiter has sent CES a contract ticket, CES will then complete **NYC Step 2** of the background screening through the Greenhouse integration. Once in Sterling, select the NYC Step 2 screening package and send. 
 
 **Troubleshooting Tip:** If you receive an "expired" error when initiating Step 2 through the Greenhouse Sterling integration, you can navigate to the [Sterling Direct dashboard](https://secure.sterlingdirect.com/sys/). On the right hand side, under "E-Invite Applicant to Background Check", enter in the candidate's email address and select "Invite".
 - Fill in the applicant's information 
@@ -305,7 +305,7 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
 
    1. Check all aspects of the offer:
       - Do we have the new team members' legal name in their profile?
-         -  _It is extremely important to enter the team member's full legal name (as much as it is known before visually seeing a legal ID). Full legal name should be provided for the [background check](/handbook/people-policies/#background-checks) process. It is important to be as accurate as possible, including the person's full legal name as well as any accents used for their name.
+         -  _It is extremely important to enter the team member's full legal name (as much as it is known before visually seeing a legal ID). Full legal name should be provided for the [background screening](/handbook/people-policies/#background-checks) process. It is important to be as accurate as possible, including the person's full legal name as well as any accents used for their name.
       - Is the new team members' address listed on the details page?
       - What contract type and entity are required based upon location and offer details?
       - Is all necessary information (start date, salary, location, etc.) up to date?
@@ -313,7 +313,7 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
       - Has the signatory been determined by the Candidate Experience Specialist and updated?
       - Has the Entity been selected based on the New Hire's location? If the job title has Federal or PubSec included, please check with the Recruiter if they set up the contract as Inc rather than Federal LLC to confirm.
    1. [Generate the contract within Greenhouse](/handbook/hiring/talent-acquisition-framework/ces-contract-processes) using a template based on the details found in the offer package.
-   1. Contact the recruiter or new team member to gather any missing pieces of information (note: the address can be found on the background check information page).
+   1. Contact the recruiter or new team member to gather any missing pieces of information (note: the address can be found on the background screening information page).
    1. If the contract was created outside of Greenhouse, ensure that the contract has been reviewed and approved by a member of the Legal team.
    1. [Stage the contract in DocuSign from within Greenhouse](/handbook/hiring/talent-acquisition-framework/ces-contract-processes), which emails the contract to the signing parties, with the recruiter, talent acquisition manager, and the hiring manager cc'd. It will be sent to the designated signatory as previously determined in Offer Details.
    1. **Before marking the candidate as hired** the Candidate Experience Specialist will reject the candidate from any other active roles including roles for which they are a prospect (without sending a rejection email). _NOTE: If this step is skipped, the profile will not be exported to Workday when the candidate is marked as hired._
