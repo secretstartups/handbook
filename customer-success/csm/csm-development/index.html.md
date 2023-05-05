@@ -19,10 +19,10 @@ To this end, it is essential to understand what resources are available for your
 
 ## Key handbook sections, roadmaps and L&D platforms for enablement
 
-1. [CSM Planned Enablement Roadmap for FY24](https://docs.google.com/presentation/d/1maP9grsRJTlEsPsvQSw3d2jxw6BB-tgnURmA2lvOC_I/edit#slide=id.g1d865653f95_8_0)
+1. [CSM Planned Enablement Roadmap for FY24](https://docs.google.com/presentation/d/1maP9grsRJTlEsPsvQSw3d2jxw6BB-tgnURmA2lvOC_I/edit#slide=id.g23e6c497812_0_432)
 1. [CSM Enablement Corner](https://docs.google.com/document/d/1xyaxc37iCDtfeabo2NXCRV31pNOdvieXoVDxJw_aXoM/edit?usp=sharing) (updated Quarterly with Key Dates and CSM required actions)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTB9tOQWZ771-M2nrIQkqIpx3XF7f9q1xXbBRkW5D-_UAyksak626FVn0Ovrj0j7rHDurML4N8f83IY/embed?start=false&loop=false&delayms=3000&slide=id.g2060538b15c_0_0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTB9tOQWZ771-M2nrIQkqIpx3XF7f9q1xXbBRkW5D-_UAyksak626FVn0Ovrj0j7rHDurML4N8f83IY/embed?start=false&loop=false&delayms=3000&slide=id.g23e582b58af_0_829" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Customer Success Management - Learning and Development Resources
 
