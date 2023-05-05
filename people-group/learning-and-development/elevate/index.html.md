@@ -155,7 +155,19 @@ People Leaders with direct reports who are in a current Elevate cohort could be 
 
 This section includes key resources for the Learning and Development team who delivers Elevate.
 
+### Resources
+
 1. [Use the #new-elevate-cohort issue template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master/.gitlab/issue_templates) whenever you start a new round of Elevate
+
+### Disengaged Participants
+
+If a participant misses a live session or falls behind on self paced work, the L&D team should:
+
+| Timeline | L&D Action | 
+| ----- | ----- |
+| Participant is incomplete on live session or self pace work | Message 1: Direct message via Slack to coordinate makeup or check on progress |
+| No response 24 hours after Message 1 | Message 2: Direct message via Slack to participant & PBP |
+| No response 24 hours after Message 2 | Message 3: Direct message via Slack to participant, PBP, & Talent Aquisition VP |
 
 
 
