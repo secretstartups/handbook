@@ -22,12 +22,12 @@ This is a cross-functional page which is meant to be the source of truth for our
 <%= partial('includes/team_member_table', locals: { team_members: product_monetiation_fulfillment }) %>
 
 ### Sales
-<% sales = %w[jbrennan1 jrabbits] %>
+<% sales = %w[jrabbits] %>
 <% sales = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: sales }) %>
 
-### IT, Enterprise Apps, and Finance Systems
-<% it_ent_apps = %w[NabithaRao sbaranidharan jesssalcido] %>
+### IT Enterprise Apps
+<% it_ent_apps = %w[NabithaRao sbaranidharan jesssalcido jbrennan1] %>
 <% it_ent_apps = Gitlab::Homepage::Team::Member.all!.find_all { |person| it_ent_apps.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: it_ent_apps }) %>
 
