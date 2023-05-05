@@ -172,6 +172,39 @@ A CW Opportunity is defined by records in the [Opportunity Mart](https://dbt.git
 
 Sisense Snippet: [rpt_crm_opportunity_closed_period_closed_won](https://app.periscopedata.com/app/gitlab:safe-dashboard/view/rpt_crm_opportunity_closed_period_closed_won/5e22f16719214a549899c36ffd8ff02c/edit)
 
+### SaaS Trials
+#### SaaS Trial Volume
+GitLab counts the number of SaaS trial signups by counting the number of Inquiries in Salesforce with a lead source = ‘SaaS Free Trial’.
+
+#### Trial-to-Paid Conversion Metric
+GitLab measures the Trial-to-Paid conversion rate by looking at the number of top-level group namespaces created for business use by time period, then finding the percent of those namespaces that became paying after 45 days from their trial start date.
+
+We do not count every namespace trial. Instead, we only include those with the following criteria:
+ - Only trials considered [Valuable Signups](https://internal-handbook.gitlab.io/handbook/marketing/growth/growth/#valuable-signup-metric)
+ - First time going through the trial
+ - Top-level namespaces
+ - Non-GitLab company related namespaces.
+
+##### Trial-to-Paid Dashboard
+You can find the SSoT for the [Trial-to-Paid metric in Tableau](https://10az.online.tableau.com/#/site/gitlab/views/TrialNamespaceConversionRateCohorted/ThreeLines_1?:iid=1). This dashboard is the source of trial conversion metrics for Marketing in Key Reviews and other executive readouts. The dashboard cohorts the company trial conversion rate described above to 45 days, 30 days, and 90 days. While the 45-Day rate is the primary metrics we use for reporting, we’ve included the others as they give more context to decision-makers.
+
+The dashboard creates the cohorts in the following way: 
+1. Find all trial records that meet the criteria above
+1. Find the 30, 45, and 90 days from the start of the trial. These calculated dates define when the trial record enters into the 30, 45, and 90-day cohort
+1. Create a row for each cohort above for each trial
+1. Since many trials will not have reached any of the cohorts, they are hidden from the dashboard until they have aged at least 30 days
+1. Add fiscal dates to datasource
+1. Chart the percent of converted trial records by the cohort date
+
+**Filters on the Dashboard:**
+The dashboard has the following filters:
+Date Grouping - This filter changes the resolution of the view, the data is calculated by date but can be presented from Week to Fiscal Year
+Time Period - This filter selects which fiscal quarters are included in the dashboard view
+Order Type - A filter limit to the view to persons in SFDC who are consider first order
+
+You can see the code in [this file](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/blob/master/ssot_code_base/cohorted_trial_conversions).
+
+
 
 ## Marketing Sisense Dashboards
 In [Sisense](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) there are mutlipe marketing metric dashboards. You can quickly find the current source of truth dashboards by referencing the `Marketing` topic within Sisense. There are 3 topics that marketing leverages:   
