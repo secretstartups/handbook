@@ -494,7 +494,7 @@ The following is a list of all statutory annual vacation entitlements by entity 
 
 ### GitLab LTD (UK)
 
-Team members are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However, given the situation surrounding COVID-19 team members may be eligible to carry over unused vacation days if team members have a COVID-related reason that prevented them from being able to utilize vacation.  [UK government announcement](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19).
+Team members are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date at a rate of 1.67 days/month. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However, given the situation surrounding COVID-19 team members may be eligible to carry over unused vacation days if team members have a COVID-related reason that prevented them from being able to utilize vacation.  [UK government announcement](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19).
 
 ### GitLab BV (Netherlands)
 
@@ -506,7 +506,7 @@ Team members with less than 1 year of tenure are entitled to 2 days/month totali
 
 ### GitLab BV (Belgium)
 
-Team members are entitled to at least 20 vacation days; the days taken must be communicated to the Belgian payroll provider each month by People Ops. These days do not carry over into the next calendar year.
+Team members are entitled to at least 20 vacation days/year.  These days will be front-loaded at the beginning of each year. The days taken must be communicated to the Belgian payroll provider each month by People Ops. These days do not carry over into the next calendar year.
 
 ### GitLab IT BV (Contractors)
 
@@ -514,7 +514,7 @@ Contractors do not have statutory vacation requirements, but are eligible for ou
 
 ### GitLab GmbH (Germany)
 
-Team members are entitled to at least 20 vacation days. The days will accrue from the start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the employee was unable to take the holiday due to operational or personal reasons.
+Team members are entitled to at least 20 vacation days. The days will accrue from the start date at a rate of 1.67 days/month. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the employee was unable to take the holiday due to operational or personal reasons.
 
 ### GitLab PTY (Australia & New Zealand)
 
