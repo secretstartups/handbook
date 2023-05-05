@@ -12,6 +12,13 @@ description: "Provides an aggregated listing of popular and important links and 
 
 ## Commonly requested resources
 
+### Contacting GitLab for reporting security issues
+
+* [Reporting Abuse](/handbook/security/security-operations/trustandsafety/abuse-on-gitlab-com.html)
+* [Coordinated Disclosure Process](/security/disclosure/)
+* [HackerOne Reporting Process](/handbook/security/security-engineering/application-security/runbooks/hackerone-process.html)
+
+
 ### GitLab's Customer Assurance Package (CAP)
 
 Our Customer Assurance Package contains documents such as our SOC2 report, ISO 27001 certificate, penetration test executive summary, and pre-filled CAIQ and SIG questionnaires, among many other documents. Please see our [CAP page](/security/cap/) to request the package.
@@ -25,13 +32,12 @@ Our [Trust Center](/security/) outlines the various compliance and assurance cre
 The following links contain frequently asked security, legal & privacy, and availability questions.
 
 * [Security FAQs](/security/faq/)
-  * [Application Security FAQs](/security/security-engineering/application-security/runbooks/faq.html)
 * [Legal & Privacy FAQs](/privacy/)
 * [Availability FAQs](/handbook/engineering/infrastructure/faq/)
 
 ## Control topics
 
-### Table of contents for control topics
+### Table of contents
 
 | [Acceptable use](/handbook/security/gitlab_security_resource_center.html#acceptable-use) | [Access management](/handbook/security/gitlab_security_resource_center.html#access-management) | [Business continuity](/handbook/security/gitlab_security_resource_center.html#business-continuity) | [Cryptography](/handbook/security/gitlab_security_resource_center.html#cryptography) | [Data classification](/handbook/security/gitlab_security_resource_center.html#data-classification) 
 | [Disaster recovery](/handbook/security/gitlab_security_resource_center.html#disaster-recovery) | [Endpoint management](/handbook/security/gitlab_security_resource_center.html#endpoint-management) | [Hardening](/handbook/security/gitlab_security_resource_center.html#gitlabs-gitlabcom-hardening-techniques) | [Incident response and communication](/handbook/security/gitlab_security_resource_center.html#incident-response-and-communication) | [Independent assurance](/handbook/security/gitlab_security_resource_center.html#independent-assurance)
@@ -79,7 +85,7 @@ The following links contain frequently asked security, legal & privacy, and avai
     * [EDR](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/)
 * [Use Gitleaks as a pre-commit git hook on laptops](/handbook/security/gitleaks.html)
 
-### GitLab's GitLab.com hardening techniques
+### GitLab.com hardening techniques
 
 * [GitLab projects baseline requirements](/handbook/security/gitlab_projects_baseline_requirements.html)
 * [GitLab security requirements for deployment and development](/handbook/security/planning/security-development-deployment-requirements/)
@@ -92,7 +98,6 @@ The following links contain frequently asked security, legal & privacy, and avai
 ### Independent assurance
 
 * [Independent Security Assurance](/handbook/security/security-assurance/field-security/independent_security_assurance.html)
-* [HackerOne Process](/handbook/security/security-engineering/application-security/runbooks/hackerone-process.html)
 
 ### Logging and monitoring
 
@@ -138,5 +143,3 @@ The following links contain frequently asked security, legal & privacy, and avai
 * [Vulnerability management standard](/handbook/security/threat-management/vulnerability-management/)
 * [Application vulnerability management procedure](/handbook/security/security-engineering/application-security/vulnerability-management.html)
 * [Infrastructure vulnerability management procedure](/handbook/security/threat-management/vulnerability-management/Infrastructure-vulnerability-procedure.html)
-* [Responsible disclosure policy](/security/disclosure/)
-* [HackerOne Process](/handbook/security/security-engineering/application-security/runbooks/hackerone-process.html)
