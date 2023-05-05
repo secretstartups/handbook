@@ -46,6 +46,7 @@ For an in-depth look at the programs and tools we offer our partners, see our [m
     *   Support requests for inclusion in third party publications
 * Support the web team in maintaining GitLab’s marketing website [partner pages](https://about.gitlab.com/partners/)
 * Working with Sales Ops and Marketing Ops improve attribution and reporting of [partner sourced leads (CQLs), and partner sourced opportunities](/handbook/sales/field-operations/channel-operations/). 
+* [Partner Concierge Program](https://gitlab.com/gitlab-com/marketing/demand-generation/fy24-integrated-marketing-planning/-/issues/8#pre-pilot-launch) is starting a pilot program with a list of select partners approved for participation. 
 
 ## 6 Month Planning Cycle: Channel Marketing Managers
 
@@ -70,9 +71,9 @@ The goal is that we eventually have our partners aligned to our planning cycle, 
 ### Team Roles and Responsibilities
 * **GEO Channel Director** - Sets the strategy for the region, manages the Channel Account Managers and approves the criteria for Select and Open partner selection in the region.
 
-* **Channel Account Managers** - Own the strategy, relationship and ongoing, consistent engagement with the Select partners in their territory.  The channel account manager is responsible for the holistic success and health of the partner relationship. 
+* **Channel Account Managers (CAMs)** - Own the strategy, relationship and ongoing, consistent engagement with the Select partners in their territory.  The channel account manager is responsible for the holistic success and health of the partner relationship. 
 
-* **Channel Marketing Manager** - Responsible for building and driving the marketing strategy with the Marketing Ready partners, including the usage of MDF & proposing which partners are ready to run campaigns WITH the Field Marketing team. The CMMs are regionally aligned, to collaborate with CAMS in specific geographies.
+* **Channel Marketing Manager (CMMs)** - Responsible for building and driving the marketing strategy with the Marketing Ready partners, including the usage of MDF & proposing which partners are ready to run campaigns WITH the Field Marketing team. The CMMs are regionally aligned, to collaborate with CAMS in specific geographies.
 
 * **Field Marketing Managers** - The field marketing managers are responsible for articulating where we need channel partner engagement to drive demand generation plans, the FMMs collaborate directly with the regional Channel Marketing Managers to execute marketing campaigns WITH the marketing ready channel partners. 
 
@@ -99,14 +100,14 @@ For more information about Highspot, please see the [Highspot at GitLab handbook
 
 ## Requesting MDF funds
 * Marketing Ready Channel partners with marketing plans in place will submit [MDF proposals through the Partner Portal](https://partners.gitlab.com/English/Partner/SFDC/MDF2/Request/Create), and GitLab approvers will be notified of the request via email.
-    +  The MDF proposal will go through 3 levels of approvals 
+    +  The MDF proposal will go through 2 levels of approvals 
        + Level 1 approval - Channel Marketing Manager
        + Level 2 approval - Sr Partner Program Manager
     +  Once the MDF request has been either approved or declined the partner will be notified: 
           + If declined, the Channel Marketing DRI will reach out to the partner and let them know. We will copy the CAM on the notificiation
           + If approved, the MDF Operation's team will [open an epic](/handbook/marketing/channel-marketing/channel-marketing-epics/) and correlating sub-issues defined therein. 
     + Once Epic has been created, CMM will create the sub-issues listed in the epic. Includes (links are to templates):
-       + Campaign Creation (Assign to Verticurl and add in ~verticurl label)
+       + Campaign Creation 
          + List Upload
           + MDF POP 
              + For POP issues add labels:
@@ -125,9 +126,9 @@ Details are listed out in the [MDF handbook](/handbook/resellers/Channel-Program
 These activities are captured as `Campaign Type Details` on the campaign level in Salesforce.com for `Partner - MDF` [Campaign Type](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) only.
 
 ## Requesting Swag for Channel Events and Awards
-CAMs can now order swag for approved co-marketing events or other approved awards through Channel Marketing’s partner swag portal.  Please allow 10-15 business days for the approval and processing of your request plus additional shipping time. The event start date cannot be within 3 weeks of the request as items may not arrive in time. Please allow plenty of time for the Swag to be delivered.
+CMMs can now order swag for approved co-marketing events or other approved awards through Channel Marketing’s partner swag portal.  Please allow 10-15 business days for the approval and processing of your request plus additional shipping time. The event start date cannot be within 3 weeks of the request as items may not arrive in time. Please allow plenty of time for the Swag to be delivered.
 
-**Please note we have a new vendor, and the new portal information will be available shortly. In the meantime please follow the following steps to get your swag ordered**
+**Please follow the following steps to get your swag ordered**
 1. Reach out to your Channel Marketing Managers
 2. Have the following information ready: date of the envent, contact information and shipping address
 3. CMMs will coordinate with the CAM/Parnter directly to get the items shipped
