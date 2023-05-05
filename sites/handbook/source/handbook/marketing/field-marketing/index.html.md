@@ -366,7 +366,7 @@ The following is the process for when a Field Marketing issue moves from `mktg-s
 
 ## SLA
 
-FMMs are to provide a 5 business day lead time for all plan to WIP requests in order to give FMCs time to complete the request. Also keep in mind that we have a 5 business day [SLA with Verticurl](/handbook/marketing/lifecycle-marketing/agency-verticurl/#sla-with-verticurl), so please plan ahead accordingly.
+FMMs are to provide a 5 business day lead time for all plan to WIP requests in order to give FMCs time to complete the request. Also keep in mind that we have a 5 business day [SLA with Marketing Ops](/handbook/marketing/marketing-operations/campaign-operations/#slas), so please plan ahead accordingly.
 
 ## Items required by FMM to request moving an issue from Plan to WIP
 
@@ -431,24 +431,24 @@ There are two options for closing Marketo landing pages:
 1. Closing the LP registration form (which removes the registration form from the LP so registrations can no longer be accepted) and updating the LP to explain why the registration form is no longer available (either the event has reached capacity or the event has occurred).
 2. Closing the entire LP. If someone clicks on the LP link, it will take them to our about.gitlab.com page instead of a registration LP. This option is now done automatically during the [Marketo Asset Expiration process](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration). Asset expiration occurs 4 weeks after the event date, so it is important to close the registration form and update the LP verbiage once an event reaches capacity or has occurred so the LP does not remain open and active during this time.
 
-The FMC will track all open Marketo LPs and will be responsible for requesting the LP form be closed once the event occurs or if an event reaches capacity. If Verticurl is unavailable and the request is urgent, the FMC can follow the below steps as well. If the campaign type is not listed below and the request is urgent, please reach out to Marketing Ops to help close the registration form.
+The FMC will track all open Marketo LPs and will be responsible for requesting the LP form be closed by Marketing Ops once the event occurs or if an event reaches capacity.
 
-To close the LP registration form, the FMC will re-open the Marketo LP issue and request Verticurl follow one of the below processes (depending on campaign type, as Marketo program templates vary across different tactics). In the LP issue, the FMC will request Verticurl remove the registration form and will provide Verticurl specific verbiage for the top of the LP page. Please see standard verbiage options below. If the event is a workshop that was listed on the demo/workshop page, the FMC will also request Verticurl remove the listing. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
+To close the LP registration form, the FMC will re-open the Marketo LP issue and request Marketing Ops follow one of the below processes (depending on campaign type, as Marketo program templates vary across different tactics). In the LP issue, the FMC will request Marketing Ops remove the registration form and will provide Marketing Ops specific verbiage for the top of the LP page. Please see standard verbiage options below. If the event is a workshop that was listed on the demo/workshop page, the FMC will also request Marketing Ops remove the listing. The FMC will update the due date of the issue.
 
 ## If an event has reached capacity
 - The FMC will follow the above instructions to close the LP regisrtation form and update the verbiage to specify the event has reached capacity.
-- If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will ask Verticurl to unschedule the send before closing the issue. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
-- The FMC will also re-open the sales nominated issue and request Verticurl shut down the sales-nominated daily sends. The FMC will update the due date of the issue and move the triage label back to `FMM-Verticurl::WIP`.
+- If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will ask Marketing Ops to unschedule the send before closing the issue. The FMC will update the due date of the issue.
+- The FMC will also re-open the sales nominated issue (if utilized) and request Marketing Ops shut down the sales-nominated daily sends. The FMC will update the due date of the issue.
 - If an intelligent nurture email request was opened, the FMC will ping `@dambrold` in the issue to remove the email from the nurture streams.
 - There is no need to remove the event listing from the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) if an event has reached capacity. Having a sold out event listed could create more excitement over the event and encourage future attendees to register for events sooner.
 
 ## Standard verbiage for closing a Marketo LP after the event has occurred
-*The below verbiage can be utilized/sent to Verticurl when closing a Marketo LP form after an event has occurred.*
+*The below verbiage can be utilized/sent to Marketing Ops when closing a Marketo LP form after an event has occurred.*
 
 Thank you for your interest in this [insert event type]. This event has concluded and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.
 
 ## Standard verbiage for closing a Marketo LP if an event is at capacity
-*The below verbiage can be utilized/sent to Verticurl when closing a Marketo LP form if an event is at capacity.*
+*The below verbiage can be utilized/sent to Marketing Ops when closing a Marketo LP form if an event is at capacity.*
 
 Thank you for your interest in this [insert event type]. The event has reached capacity and registration is now closed, but GitLab has a number of hands-on events and educational programs scheduled at any given time. Please visit our [events page](https://about.gitlab.com/events/) for more information on upcoming events and dates.
 
@@ -469,20 +469,13 @@ See instructions [here](/handbook/marketing/field-marketing/field-marketing-owne
 
 ## Adding and Removing Workshop Postings on the Regional Workshop Demo Pages
 
-We market our workshops on both the [GitLab events page](https://about.gitlab.com/events/) and via the below regional workshop/demo pages. The GitLab events page listings require an MR to add new events (see instructions [here](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)) and events will automatically drop off the page once the event date passes. But the regional workshop/demo pages require manual adjustment. When a workshop LP is created by Verticurl, they will add to the appropriate regional workshop/demo page once the LP is approved. When a workshop is completed and the FMC requests that Verticurl closes the LP, Verticurl will also remove the listing from the regional workshop/demo page. These Verticurl to do items are listed in the [Marketo LP issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_mkto_landing_page.md).
+We market our workshops on both the [GitLab events page](https://about.gitlab.com/events/) and via the below EMEA regional workshop/demo page (the AMER and APAC demo pages have been deprecated). The GitLab events page listings require an MR to add new events (see instructions [here](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)) and events will automatically drop off the page once the event date passes. But the regional workshop/demo pages require manual adjustment. When an EMEA workshop LP is created by Marketing Ops, they will add to the EMEA workshop/demo page once the LP is approved. When the workshop is completed and the FMC requests that Marketing Ops closes the LP, Marketing Ops will also remove the listing from the regional workshop/demo page. 
 
-- [AMER Workshop/Demo Page](https://page.gitlab.com/events-amer-enterprise.html)
-- [EMEA Workshop/Demo Page](https://page.gitlab.com/events-pd-emea.html)
-- [APAC Workshop/Demo Page](https://page.gitlab.com/events-pd-technical-apac.html)
+- [EMEA Workshop/Demo Page](https://page.gitlab.com/technical-demo-series-emea.html)
 
-### Regional Workshop Demo Pages - Instructions for Verticurl
+### Regional Workshop Demo Pages - Instructions for Marketing Ops
 
-Verticurl will follow the instructions in [this video](https://www.youtube.com/embed/Vu3NOuiFwBE) and in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1788) to add and remove postings on the regional workshop demo pages. Verticurl is only responsible for adding/removing events for the AMER and EMEA pages. The Campaigns Team will manage the APAC pages.
-
-- [AMER Workshop/Demo Page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7547B2) - Verticurl
-- [EMEA Workshop/Demo Page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7582A1LA1) - Verticurl
-- [APAC Workshop/Demo Page - General](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team
-- [APAC Workshop/Demo Page - Paid Promotion](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/LP7646A1LA1) - Campaigns Team
+Marketing Ops will add EMEA workshops only to the [EMEA Tech Demos and Workshop page](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/landingpage/16146).
 
 For more information regarding the regional workshop/demo pages, please visit [this handbook page](/handbook/marketing/virtual-events/webcasts/#technical-demo-landing-pages).
 
@@ -1604,7 +1597,7 @@ At times, Field Marketers may want to create a SPIF (sales performance incentive
 - [Events at GitLab](/handbook/marketing/events/)
 - [Marketing Operations](/handbook/marketing/marketing-operations/)
 - [Sales Development](/handbook/marketing/sales-development/)
-- [Verticurl - 3rd party Marketo contractor](/handbook/marketing/lifecycle-marketing/agency-verticurl/)
+- [Marketo program/campaign support](https://about.gitlab.com/handbook/marketing/marketing-operations/campaign-operations/)
 - [Field Marketing onboarding videos](https://drive.google.com/open?id=1m8ReMIiymMTqqk5PJAG7u_IG-Q5pkusV) - NOTE - these are also in the Field Marketing Onboarding issue that is kept in the [Marketing onboarding project](https://gitlab.com/gitlab-com/marketing/onboarding#onboarding)
 
 # Account Based Marketing
