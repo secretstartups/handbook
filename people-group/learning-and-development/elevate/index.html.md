@@ -52,9 +52,35 @@ The visual below illustrates the 5 Elevate modules:
 
 ![visual displaying the module path for learners in the Elevate program](elevate-path.png){: .shadow.medium.center}
 
-### Additional expectations
 
-1. Demonstrate mastery of material at the end of module 5 to earn the GitLab Elevate certification.
+## Additional Commitments
+
+### Project
+
+Work with a small group to discuss and apply leadership competencies to a challenge or scenario you're facing at work.
+
+Additional details about the Elevate project will be added soon.
+
+### Certification
+
+The Elevate Certification process is your time to shine!
+
+Following Module 5, you'll be assesed on your mastery of the leadership competencies taught in Elevate. Certification will occur in a live, collaborative, 50 minute session with a small group of other Elevate participants, likely in your cohort.
+
+**To prepare for the certification, you'll need to:**
+
+1. Sign up for a 50 minute session that works for your schedule. The sign up issue for your cohort will be shared in Slack.
+1. Review the 4 scenarios that you might be asked about in the session (link to be added soon)
+1. Understand how your performance will be assessed by reviewing the grading rubric (link to be added soon)
+1. Practice and ask questions in you cohort Slack channel
+
+**Here's what you can expect in the live session:**
+
+1. A collaborative, 50 minute session with others Elevate participants, likely in your cohort
+1. Opportunity to demonstrate your understanding of Elevate leadership competencies
+1. Time to give feedback and discuss iterations for others in your small group
+
+Following the certification, a member of the L&D team will follow up with your results, and either share your Elevate certification or discuss next steps.
 
 
 ## Frequently Asked Questions
