@@ -2,8 +2,6 @@
 title: "Engineering Manager, Monitoring"
 ---
 
-{: .text-center}
-<br>
 
 ## Responsibilities
 
