@@ -2,10 +2,8 @@
 title: "Measurement Clarity"
 summary: Outdated workforce supervision tactics often trigger bias and presenteeism. Evaluating productivity differently requires unique methods of recording and managing results.
 canonical_path: "/teamops/measurement-clarity/"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+images:
+    - /images/opengraph/all-remote.jpg
 ---
 
 ![GitLab TeamOps teamwork illustration](/teamops/images/teamops-illustration_teamwork_purple.png)

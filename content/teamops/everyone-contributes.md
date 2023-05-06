@@ -2,10 +2,8 @@
 title: "Everyone Contributes"
 summary: Instead of relying on hierarchical management, organizations must create systems and channels where everyone can equally consume and contribute information, regardless of level, function, or location.
 canonical_path: "/teamops/everyone-contributes/"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+images:
+    - /images/opengraph/all-remote.jpg
 ---
 
 ![GitLab TeamOps contribution illustration](/teamops/images/teamops-illustration_contribution_purple.png)
@@ -26,7 +24,7 @@ Action tenets of facilitating equal contributions, including real-world examples
 
 Working asynchronously does more than free up calendar space. TeamOps prioritizes asynchronous communication as a way of enabling equal opportunities for team members to participate in conversations, receive updates, share insights, or deliver results no matter where or when they are working. In conventional organizations, information exchanges are tightly linked to meetings, which severely limits contributions to only those who are in attendance and are comfortable in a live, spontaneous discussion dynamic.
 
-Instead of spending time scouring schedules and time zone differences to discuss something synchronously, shift the focus to creating clear documentation that will allow team members to contribute both on their own time and with greater intentionality. This [gives agency](https://about.gitlab.com/handbook/values/#give-agency), reinforces a [bias for action](https://about.gitlab.com/handbook/values/#bias-for-action), and [bridges the knowledge gap](https://about.gitlab.com/company/culture/all-remote/asynchronous/#6-asynchronous-work-bridges-the-knowledge-gap), resulting in more total iterations.
+Instead of spending time scouring schedules and time zone differences to discuss something synchronously, shift the focus to creating clear documentation that will allow team members to contribute both on their own time and with greater intentionality. This [gives agency](/handbook/values/#give-agency), reinforces a [bias for action](/handbook/values/#bias-for-action), and [bridges the knowledge gap](https://about.gitlab.com/company/culture/all-remote/asynchronous/#6-asynchronous-work-bridges-the-knowledge-gap), resulting in more total iterations.
 
 Establishing a thriving asynchronous culture also requires leaders to [celebrate incremental improvements](https://about.gitlab.com/company/culture/all-remote/asynchronous/#celebrate-incremental-improvements) and fight the urge to seek immediate gratification. To do this, they can encourage their team to strive for [iteration](/handbook/values/#iteration); [transparency](/teamops/shared-reality/#public-by-default); and [progress, not perfection](https://about.gitlab.com/company/culture/all-remote/asynchronous/#aim-for-progress-not-perfection).
 
@@ -40,7 +38,7 @@ Scaled across an organization, this meeting-free approach to making decisions en
 
 ## Give agency
 
-Efficient execution [requires granting agency by default](https://about.gitlab.com/handbook/values/#give-agency). A critical component of workforce autonomy, agency empowers team members to independently and proactively make decisions without permission, review, or approval—in other words, to self-govern as a [manager of one](https://about.gitlab.com/handbook/leadership/#managers-of-one). Leaders who grant this kind of agency also communicate their trust in individual team members to do what they feel is necessary to accommodate their unique needs and to design custom strategies to focus their time and attention on what they deem most important for the organization's success.
+Efficient execution [requires granting agency by default](/handbook/values/#give-agency). A critical component of workforce autonomy, agency empowers team members to independently and proactively make decisions without permission, review, or approval—in other words, to self-govern as a [manager of one](https://about.gitlab.com/handbook/leadership/#managers-of-one). Leaders who grant this kind of agency also communicate their trust in individual team members to do what they feel is necessary to accommodate their unique needs and to design custom strategies to focus their time and attention on what they deem most important for the organization's success.
 
 Valuing agency so highly doesn't mean assuming _**all**_ organizational decisions will be made completely independently. Collaboration is still a critical component of TeamOps. But does every organizational decision require collaboration? To enhance their teammates' sense of agency, leaders can start by removing rules or permissions for smaller operational components such as meeting attendance, personal task management systems, or working schedules.
 
@@ -59,7 +57,7 @@ In organizations practicing TeamOps, every project or decision has a single [dir
 
 This decision-making model [combinines beneficial dynamics from both hierarchical and consensus-guided organizations](https://about.gitlab.com/company/culture/all-remote/management/#separating-decision-gathering-from-decision-making). It opens decisions to a wider collection of voices and perspectives while avoiding unclear expectations and delays that might result from having too many people involved in reaching a conclusion.
 
-Leaders must foster a culture where DRIs are empowered, able to [escalate to unblock](https://about.gitlab.com/handbook/values/#escalate-to-unblock), and willing to share their ideas in the open. This unlocks the team's highest potential. A successful DRI should consult and collaborate with all teams and stakeholders and welcome input from a broad range of diverse perspectives as they form their thoughts.
+Leaders must foster a culture where DRIs are empowered, able to [escalate to unblock](/handbook/values/#escalate-to-unblock), and willing to share their ideas in the open. This unlocks the team's highest potential. A successful DRI should consult and collaborate with all teams and stakeholders and welcome input from a broad range of diverse perspectives as they form their thoughts.
 
 It's important to note that TeamOps still allows flexibility for team members to [disagree, commit, and disagree](/teamops/everyone-contributes/#disagree-commit-and-disagree), but it reduces the risk that disagreement or dissent will prevent a [bias for action](/handbook/values/#bias-for-action).
 
@@ -124,9 +122,9 @@ GitLab's Learning and Development team hosted a [livestreamed Group Conversation
 
 ## Short toes
 
-An organization's speed of decision-making slows dramatically if its members worry excessively about "stepping on others' toes" when proposing an idea or contributing to work outside of their immediate job descriptions. Often the source of such worry is a fear of conflict, which is one of the [five dysfunctions](https://about.gitlab.com/handbook/values/#five-dysfunctions) of a team.
+An organization's speed of decision-making slows dramatically if its members worry excessively about "stepping on others' toes" when proposing an idea or contributing to work outside of their immediate job descriptions. Often the source of such worry is a fear of conflict, which is one of the [five dysfunctions](/handbook/values/#five-dysfunctions) of a team.
 
-Adopting a TeamOps mentality means having [short toes](/handbook/values/#short-toes) and feeling comfortable with feedback, suggestions, and contributions to the work you "own." It also means speaking up when you see an opportunity for iteration. Eliminating a territorial mindset allows for better [collaboration](https://about.gitlab.com/handbook/values/#collaboration), greater [diversity of thought](https://about.gitlab.com/handbook/values/#seek-diverse-perspectives), and ultimately faster decisions.
+Adopting a TeamOps mentality means having [short toes](/handbook/values/#short-toes) and feeling comfortable with feedback, suggestions, and contributions to the work you "own." It also means speaking up when you see an opportunity for iteration. Eliminating a territorial mindset allows for better [collaboration](/handbook/values/#collaboration), greater [diversity of thought](/handbook/values/#seek-diverse-perspectives), and ultimately faster decisions.
 
 {{% details summary="Example of short toes" %}}
 **Example 1:** [Marketing team member contributing a proposal to improve a People function process](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues/555)

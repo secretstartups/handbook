@@ -2,10 +2,8 @@
 layout: handbook-page-toc
 title: "TeamOps Growth"
 canonical_path: "/handbook/teamops/growth/"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+images:
+    - /images/opengraph/all-remote.jpg
 ---
 
 The future of work is about human empowerment. So, as a company, we at GitLab support both strategies of work-life balance and employee experience through our human-centric operational model: TeamOps. Based on autonomous ways of working. TeamOps enables users (internally or externally) to enjoy the schedule flexibility that comes along with async-first, handbook-first operations, but also activates an attractive work environment in workflows and processes, including:

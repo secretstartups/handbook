@@ -2,10 +2,8 @@
 layout: handbook-page-toc
 title: "TeamOps — making teamwork an objective discipline"
 description: TeamOps' vision and methodology overview.
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+images:
+    - /images/opengraph/all-remote.jpg
 ---
 
 ## Solving DIY Management with TeamOps

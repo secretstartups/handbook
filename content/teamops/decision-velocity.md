@@ -2,10 +2,8 @@
 title: "Decision Velocity"
 summary: Achieving faster, better results depends on decision-making velocity – a team’s ability to increase the quality and quantity of decisions made in a particular stretch of time through behavioral and logistical agreements.
 canonical_path: "/teamops/decision-velocity/"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+images:
+    - /images/opengraph/all-remote.jpg
 ---
 
 ![GitLab TeamOps contribution illustration](/teamops/images/teamops-illustration_contribution_purple.png)
@@ -24,9 +22,9 @@ Action tenets of maximizing decision velocity, including real-world examples of 
 
 ## Bias for action
 
-A [bias for action](https://about.gitlab.com/handbook/values/#bias-for-action) accelerates ideation, collaboration, and execution better than alignment and consensus. This bias stems from the [agency](/teamops/everyone-contributes/#give-agency) and [ownership](/teamops/decision-velocity/#push-decisions-to-the-lowest-possible-level) with which every individual is empowered in an organization practicing TeamOps. People can then use that autonomy to optimize their own proactivity, self-efficacy, and creativity. A team member operating in a conventional organizational context might feel compelled to ask "Should I?" A team member operating via TeamOps  can instead think "I will."
+A [bias for action](/handbook/values/#bias-for-action) accelerates ideation, collaboration, and execution better than alignment and consensus. This bias stems from the [agency](/teamops/everyone-contributes/#give-agency) and [ownership](/teamops/decision-velocity/#push-decisions-to-the-lowest-possible-level) with which every individual is empowered in an organization practicing TeamOps. People can then use that autonomy to optimize their own proactivity, self-efficacy, and creativity. A team member operating in a conventional organizational context might feel compelled to ask "Should I?" A team member operating via TeamOps  can instead think "I will."
 
-When facing decisions that may involve imperfect information or failures, having a bias for action ensures a more rapid pace of execution. This may require a greater organizational tolerance for mistakes and an appreciation for [two-way door decisions](https://about.gitlab.com/handbook/values/#make-two-way-door-decisions), which teams should discuss as part of their [shared reality](/teamops/shared-reality/#shared-reality) and their [collaboration guidelines](/teamops/decision-velocity/#collaboration-codification).
+When facing decisions that may involve imperfect information or failures, having a bias for action ensures a more rapid pace of execution. This may require a greater organizational tolerance for mistakes and an appreciation for [two-way door decisions](/handbook/values/#make-two-way-door-decisions), which teams should discuss as part of their [shared reality](/teamops/shared-reality/#shared-reality) and their [collaboration guidelines](/teamops/decision-velocity/#collaboration-codification).
 
 {{% details summary="Example of collaboration codification" %}}
 **Example 1:** [Setting Internal Communication Guidelines for Standardized Tool Use](https://about.gitlab.com/handbook/communication/)
@@ -36,11 +34,11 @@ To minimize miscommunications that can stem from cultural diversity, contextual 
 
 ## Boring solutions
 
-Solving problems by seeking out the most cutting-edge, complex, or interesting solutions can be tempting. TeamOps, however, encourages selecting ["boring" or simple solutions](https://about.gitlab.com/handbook/values/#boring-solutions) to problems and challenges. For instance, consider one boring solution you may often see: researching what other successful organizations are doing and adopting their methods, rather than reinventing a process.
+Solving problems by seeking out the most cutting-edge, complex, or interesting solutions can be tempting. TeamOps, however, encourages selecting ["boring" or simple solutions](/handbook/values/#boring-solutions) to problems and challenges. For instance, consider one boring solution you may often see: researching what other successful organizations are doing and adopting their methods, rather than reinventing a process.
 
 Also take into account the situational need: a simple solution in one situation may be complex in another.
 
-Taking every opportunity to reduce complexity in an organization increases the speed and frequency at which that organization can innnovate. Embracing boring solutions and shipping the [minimum viable change (MVC)](https://about.gitlab.com/handbook/values/#move-fast-by-shipping-the-minimal-viable-change) also means [accepting mistakes](https://about.gitlab.com/handbook/values/#accept-mistakes) if that solution doesn't work, then moving on to the next [iteration](https://about.gitlab.com/handbook/values/#iteration). Because changes are small, mistakes are far less costly. This encourages more decision-making in a shorter span of time.
+Taking every opportunity to reduce complexity in an organization increases the speed and frequency at which that organization can innnovate. Embracing boring solutions and shipping the [minimum viable change (MVC)](/handbook/values/#move-fast-by-shipping-the-minimal-viable-change) also means [accepting mistakes](/handbook/values/#accept-mistakes) if that solution doesn't work, then moving on to the next [iteration](/handbook/values/#iteration). Because changes are small, mistakes are far less costly. This encourages more decision-making in a shorter span of time.
 
 {{% details summary="Example of boring solutions" %}}
 **Example 1:** [Solving a GitLab attribution problem by improving git commit message](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/3)
@@ -52,11 +50,11 @@ In a TeamOps organization, boring solutions are celebrated _because of_ their si
 
 ## Disagree, commit, and disagree
 
-TeamOps treats decisions as [two-way doors](https://about.gitlab.com/handbook/values/#make-two-way-door-decisions), meaning they're easy to reverse. That's why a [DRI](/teamops/everyone-contributes/#directly-responsible-individual-dri) should go ahead and make a decision without universal approval or consensus. Only decisions that can't be reversed or broken down into smaller, reversible components should require more thorough discussion.
+TeamOps treats decisions as [two-way doors](/handbook/values/#make-two-way-door-decisions), meaning they're easy to reverse. That's why a [DRI](/teamops/everyone-contributes/#directly-responsible-individual-dri) should go ahead and make a decision without universal approval or consensus. Only decisions that can't be reversed or broken down into smaller, reversible components should require more thorough discussion.
 
 "Disagree and commit” has become a commonly used phrase in some professional settings as a strategy to help prevent the [consensus trap](/teamops/decision-velocity/#collaboration-is-not-consensus), which stalls decision velocity. It refers to a team’s ability to have disagreements while a decision is being made, but then committing to the change after a final conclusion has been confirmed.
 
-A "disagree and commit" mentality certainly encourages execution, but it tends to limit contributions to _future_ iterations. That's why TeamOps adds [a second "disagree" to the maxim](https://about.gitlab.com/handbook/values/#disagree-commit-and-disagree). Explicitly stating that team members are expected to execute (commit) while a decision stands—but are welcome to disagree about future iterations—invites everyone to constructively surface dissent and potential proposals for change. This mentality removes the time constraint of contributing ideas or feedback, and enables changes to be made without slowing down the pace of execution. This is made possible by the value of [iteration](/teamops/measurement-clarity/#iteration), which means that the team is only agreeing to one commitment at a time, so new contributions can easily be considered for the next iterative result.
+A "disagree and commit" mentality certainly encourages execution, but it tends to limit contributions to _future_ iterations. That's why TeamOps adds [a second "disagree" to the maxim](/handbook/values/#disagree-commit-and-disagree). Explicitly stating that team members are expected to execute (commit) while a decision stands—but are welcome to disagree about future iterations—invites everyone to constructively surface dissent and potential proposals for change. This mentality removes the time constraint of contributing ideas or feedback, and enables changes to be made without slowing down the pace of execution. This is made possible by the value of [iteration](/teamops/measurement-clarity/#iteration), which means that the team is only agreeing to one commitment at a time, so new contributions can easily be considered for the next iterative result.
 
 Increasing the flexibility of contributions and decision making requires reframing a conventional management mindset. Reverting work back to a previous state is a positive thing, because you're getting feedback more quickly and learning from it. Making a small change quickly prevents bigger (and slower) reverts and revisions in the future.
 
@@ -84,7 +82,7 @@ Support team members are [assigned as a permanent contact](https://about.gitlab.
 
 TeamOps unlocks your organization's potential for making many decisions quickly by challenging the notion that consensus is productive. Organizations should strive to have smaller teams iterating rapidly and transparently (allowing everyone to contribute) rather than larger teams producing things slowly as they work toward consensus.
 
-Leaders and managers must moderate the desire to be involved in every decision. [Permissionless innovation](https://about.gitlab.com/handbook/values/#collaboration-is-not-consensus) increases a team's [bias for action](/teamops/decision-velocity/#bias-for-action) and the number of decisions being made. If you choose the right [directly responsible individual (DRI)](/teamops/everyone-contributes/#directly-responsible-individual-dri) and empower them to work transparently, you should not expect them to wait for a brainstorming meeting or group sign-off.
+Leaders and managers must moderate the desire to be involved in every decision. [Permissionless innovation](/handbook/values/#collaboration-is-not-consensus) increases a team's [bias for action](/teamops/decision-velocity/#bias-for-action) and the number of decisions being made. If you choose the right [directly responsible individual (DRI)](/teamops/everyone-contributes/#directly-responsible-individual-dri) and empower them to work transparently, you should not expect them to wait for a brainstorming meeting or group sign-off.
 
 Because all feedback should be documented transparently, a DRI can review all of it—but they're not required to _respond_ to everything. This can be challenging for teams and managers, especially when certain contributions or ideas don't receive an explicit reply. However, this experience is far superior to that of decisions being made in private, with limited visibility and fewer opportunities for healthy discussion.
 
@@ -100,7 +98,7 @@ Innovation never happens in a vaccuum. Achieving forward momentum is easier when
 
 TeamOps recognizes the productivity of constraints and treats structure as a strategic resource, helping teams appreciate the ways adhering to boundaries can actually accelerate their thinking. It views innovation as an iterative process of incremental improvement—of resisting the urge to "start over" every time and instead begin work by searching for tried-and-true organizational resources that have worked in the past. It encourages adhearance to [collaboration guidelines](/teamops/shared-reality#collaboration-guidelines) and [well-managed meetings](/teamops/everyone-contributes/#well-managed-meetings) because acting through an agreed-upon structure actually accelerates work rather than stifling it.
 
-Moreover, TeamOps resists depicting innovation as a linear process: idea, discussion, implementation, execution. It treats innovation as discontinuous—full of course-corrections and reversals. [Two-way door decisions](https://about.gitlab.com/handbook/values#make-two-way-door-decisions), [short toes](/handbook/teamops/everyone-contributes#short-toes), and the tendency to [disagree, commit, and disagree](/teamops/decision-velocity#disagree-commit-and-disagree) help ensure that everyone keeps moving forward despite productive setbacks.
+Moreover, TeamOps resists depicting innovation as a linear process: idea, discussion, implementation, execution. It treats innovation as discontinuous—full of course-corrections and reversals. [Two-way door decisions](/handbook/values#make-two-way-door-decisions), [short toes](/handbook/teamops/everyone-contributes#short-toes), and the tendency to [disagree, commit, and disagree](/teamops/decision-velocity#disagree-commit-and-disagree) help ensure that everyone keeps moving forward despite productive setbacks.
 
 {{% details summary="Example of fostering discontinuous innovation" %}}
 **Example 1:** [Creating the one DevOps Plattform by fostering discontinuous innovation](https://www.youtube.com/watch?v=4BIsON95fl8&t=2034s)

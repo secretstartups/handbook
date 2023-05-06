@@ -2,10 +2,8 @@
 title: "Shared Reality"
 summary: While other management philosophies prioritize the speed of knowledge **transfer**, TeamOps optimizes for the speed of knowledge **retrieval** in company-wide documentation.
 canonical_path: "/teamops/shared-reality/"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+images:
+    - /images/opengraph/all-remote.jpg
 ---
 
 ![GitLab TeamOps collaboration illustration](/teamops/images/teamops-illustration_collaboration_purple.png)
@@ -28,7 +26,7 @@ Action tenets of building a Shared Reality, including real-world examples of eac
 
 ## Single Source of Truth (SSoT)
 
-To maximize universal information accessibility, TeamOps intentionally structures all information data (policies, objectives, workflows, instructions, values, etc.) in a virtual knowledge management system referred to as a [single source of truth (SSoT)](https://about.gitlab.com/handbook/values/#single-source-of-truth). It is founded on the thesis that decisions are [better informed](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) when there is no such thing as a "latest version." There is only _the_ version.
+To maximize universal information accessibility, TeamOps intentionally structures all information data (policies, objectives, workflows, instructions, values, etc.) in a virtual knowledge management system referred to as a [single source of truth (SSoT)](/handbook/values/#single-source-of-truth). It is founded on the thesis that decisions are [better informed](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) when there is no such thing as a "latest version." There is only _the_ version.
 
 Teams and functions may choose different mediums as the SSoT depending on the task and the nature of their work. TeamOps allows this type of SSoT flexibility, but requires that those who dictate the SSoT share that information transparently and [crosslink](https://about.gitlab.com/handbook/communication/#cross-link) where appropriate.
 
@@ -44,7 +42,7 @@ In conventional organizations, multiple departments may maintain their own versi
 
 ## Public by default
 
-Conventional management philosophies may rely on intentional information silos or a "need-to-know-basis" model. This approach restricts transparency, with the goal of reducing misinformation. TeamOps flips this: information should be [public by default](https://about.gitlab.com/handbook/values/#transparency), with the goal of allowing maximum contribution. "Public by default" requires an organization to designate which information is [explicitly not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public), creating a bias for transparency across all functions of a business.
+Conventional management philosophies may rely on intentional information silos or a "need-to-know-basis" model. This approach restricts transparency, with the goal of reducing misinformation. TeamOps flips this: information should be [public by default](/handbook/values/#transparency), with the goal of allowing maximum contribution. "Public by default" requires an organization to designate which information is [explicitly not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public), creating a bias for transparency across all functions of a business.
 
 A traditional business problem is "how do we get the right information to the right people at the right time?" A TeamOps organization asks: "How do we create a system that allows everyone to access information and make contributions, regardless of role or function?"
 
@@ -67,7 +65,7 @@ Many organizations are so focused on finalizing a decision that they neglect the
 
 When shared realities are based on effectively and efficiently sharing information, it means that communication practices need to be as aligned as possible. [Collaboration guidelines](https://about.gitlab.com/handbook/communication/) are the articulation and documentation of the cultural norms, software standards, and behavioral expectations that help standardize team member experience within an organization. These include details such as how company values are visible in workstreams, etiquette for various communication channels, organizational rituals, and guidelines for tool use. Codifying items like these facilitates more effective and universal collaboration, and helps ensure that miscommunication doesn't unnecessarily stall a decision or result.
 
-Guidelines should be included in your team's [Single Source of Truth (SSoT)](https://about.gitlab.com/handbook/values/#single-source-of-truth) for easy reference and continuous accountability. Depending on the format of your knowledge management system and the volume of codification you have, it could either be a dedicated section, or woven throughout all of the pages.
+Guidelines should be included in your team's [Single Source of Truth (SSoT)](/handbook/values/#single-source-of-truth) for easy reference and continuous accountability. Depending on the format of your knowledge management system and the volume of codification you have, it could either be a dedicated section, or woven throughout all of the pages.
 
 {{% details summary="Example of collaboration guidelines" %}}
 **Example 1:** [Setting Internal Communication Guidelines for Standardized Tool Use](https://about.gitlab.com/handbook/communication/)
@@ -86,7 +84,7 @@ Assuming that recipients of your communication do not know anything about the to
 - Simple, not complex
 - Comprehensive, not narrow.
 
-A critical principle of low-context communication is to [Say Why, not just What](https://about.gitlab.com/handbook/values/#transparency). TeamOps organizations recognize that up-front transparency is a foundational element to team member autonomy, transparent documentation, and business continuity. This requires announcements, updates, and decisions to be shared not only with _**what**_ the change is, but also [_**why**_](https://about.gitlab.com/handbook/values/#say-why-not-just-what) it's being made. While saying "why" does not mean justifying every decision against other alternatives, it does require a leader to [articulate their reasoning](https://about.gitlab.com/handbook/values/#articulate-when-you-change-your-mind). This prevents speculation, contributes to institutional memory, and [builds trust](/handbook/leadership/building-trust/), which is one of the traits of being a [great remote manager](https://about.gitlab.com/company/culture/all-remote/being-a-great-remote-manager/).
+A critical principle of low-context communication is to [Say Why, not just What](/handbook/values/#transparency). TeamOps organizations recognize that up-front transparency is a foundational element to team member autonomy, transparent documentation, and business continuity. This requires announcements, updates, and decisions to be shared not only with _**what**_ the change is, but also [_**why**_](/handbook/values/#say-why-not-just-what) it's being made. While saying "why" does not mean justifying every decision against other alternatives, it does require a leader to [articulate their reasoning](/handbook/values/#articulate-when-you-change-your-mind). This prevents speculation, contributes to institutional memory, and [builds trust](/handbook/leadership/building-trust/), which is one of the traits of being a [great remote manager](https://about.gitlab.com/company/culture/all-remote/being-a-great-remote-manager/).
 
 Also note that each business function may have unique expectations on low-context communication (e.g. what classifies as low-context in sales may not in engineering). If decisions within a function appear to be ill-informed, audit the expectations on context first.
 
@@ -112,9 +110,9 @@ Each organization may create its unique values, but whatever they are, values mu
 Shared values also create guardrails that provide more freedom for individual decision making. This leads to more informed decisions by removing guesswork on whether (or how) values were applied during operational processes.
 
 {{% details summary="Example of shared values" %}}
-**Example 1:** [20+ ways GitLab values are integrated into decision making](https://about.gitlab.com/handbook/values/#how-do-we-reinforce-our-values)
+**Example 1:** [20+ ways GitLab values are integrated into decision making](/handbook/values/#how-do-we-reinforce-our-values)
 
-GitLab [reinforces its values in 20+ ways](https://about.gitlab.com/handbook/values/#how-do-we-reinforce-our-values), including what we select for during hiring, our default software settings, criteria for discretionary bonuses and promotions, and what we explicitly call out when making decisions. These intentional integrations increase the likelihood that decisions are informed by shared values.
+GitLab [reinforces its values in 20+ ways](/handbook/values/#how-do-we-reinforce-our-values), including what we select for during hiring, our default software settings, criteria for discretionary bonuses and promotions, and what we explicitly call out when making decisions. These intentional integrations increase the likelihood that decisions are informed by shared values.
 
 **Example 2:** [How to work with external teams](https://about.gitlab.com/company/culture/all-remote/asynchronous/#working-async-outside-of-your-company)
 
@@ -126,10 +124,10 @@ Starting communication and collaboration with an external team (be it prospectiv
 
 TeamOps encourages and supports a culture of respect.
 
-Decisions and results are better informed when they include a maximally [diverse array of perspectives](https://about.gitlab.com/handbook/values/#seek-diverse-perspectives).
+Decisions and results are better informed when they include a maximally [diverse array of perspectives](/handbook/values/#seek-diverse-perspectives).
 While team members should always be empowered to work autonomously, they should still remain included as a collaborator, informed as a colleague, and valued as a critical component of success.
 
-In TeamOps, a [bias for asynchronous communication](/teamops/everyone-contributes/#asynchronous-workflows) fosters [inclusion](https://about.gitlab.com/company/culture/inclusion/) of many diverse personas, including underrepresented groups, folks from different cultural / geographical locations, and [neurodiverse individuals](https://about.gitlab.com/handbook/values/#embracing-neurodiversity). By defaulting to written, asynchronous sharing, everyone contributes in the same way, which standardizes and equalizes the weight of each written message. People of all backgrounds, abilities, and work styles are invited to participate in a way that serves their needs. The best idea—not the loudest voice in the meeting—wins.
+In TeamOps, a [bias for asynchronous communication](/teamops/everyone-contributes/#asynchronous-workflows) fosters [inclusion](https://about.gitlab.com/company/culture/inclusion/) of many diverse personas, including underrepresented groups, folks from different cultural / geographical locations, and [neurodiverse individuals](/handbook/values/#embracing-neurodiversity). By defaulting to written, asynchronous sharing, everyone contributes in the same way, which standardizes and equalizes the weight of each written message. People of all backgrounds, abilities, and work styles are invited to participate in a way that serves their needs. The best idea—not the loudest voice in the meeting—wins.
 
 TeamOps frees contributors from the conventional bounds of time zones and meetings, and invites a wider audience to participate in a shared reality. This generates more informed contributions from more parties, more thoughtful conversation, and more archived context for retrospectives and evaluations.
 
@@ -138,13 +136,13 @@ TeamOps frees contributors from the conventional bounds of time zones and meetin
 
 Samantha L., a leader in GitLab's Learning & Development team, hosted [Crucial Conversations](https://about.gitlab.com/handbook/leadership/crucial-conversations/) cohorts for six months. She noticed a common theme: people consistently struggled to say "no" at work. Rather than hosting a closed-door meeting to change an operating principle to address this, Samantha proposed a change in a public forum ([a GitLab merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/103753)).
 
-Additionally, she posted a Slack message in the public `#values` channel asking for feedback and suggestions from anyone who felt compelled to contribute. Ultimately, [the DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) of the impacted handbook page — [GitLab Values](https://about.gitlab.com/handbook/values/) — came to a decision that was more informed, as it included a more diverse range of perspectives. The feedback is also well-documented for future reference and iterations.
+Additionally, she posted a Slack message in the public `#values` channel asking for feedback and suggestions from anyone who felt compelled to contribute. Ultimately, [the DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) of the impacted handbook page — [GitLab Values](/handbook/values/) — came to a decision that was more informed, as it included a more diverse range of perspectives. The feedback is also well-documented for future reference and iterations.
 {{% /details %}}
 
 
 ## Informal communication
 
-An intentional approach to [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/) is crucial in a fast-paced organization with a bias for [asynchronous workflows](https://about.gitlab.com/company/culture/all-remote/asynchronous) and [text-based communication](https://about.gitlab.com/company/culture/all-remote/effective-communication/). Understanding a colleague's unique personality will help teams collaborate more effectively, so leaders should encourage team members to prioritize informal connections (e.g. coffee chats, social calls, special interest chat channels) and [get to know the people](https://about.gitlab.com/handbook/values/#get-to-know-each-other) behind the text. This builds trust, prevents conflict, and enables better communication during work-related interactions.
+An intentional approach to [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/) is crucial in a fast-paced organization with a bias for [asynchronous workflows](https://about.gitlab.com/company/culture/all-remote/asynchronous) and [text-based communication](https://about.gitlab.com/company/culture/all-remote/effective-communication/). Understanding a colleague's unique personality will help teams collaborate more effectively, so leaders should encourage team members to prioritize informal connections (e.g. coffee chats, social calls, special interest chat channels) and [get to know the people](/handbook/values/#get-to-know-each-other) behind the text. This builds trust, prevents conflict, and enables better communication during work-related interactions.
 
 Building this level of trust also helps enable DRIs to make faster decisions, as there's a foundation of confidence in the experience and judgment of others.
 
