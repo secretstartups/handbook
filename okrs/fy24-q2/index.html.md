@@ -44,7 +44,7 @@ The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitla
 1. **CEO KR**: [Continue briefing cadence with 5-7 key publications across EMEA and APJ once the exclusive runs in AMER](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1969)
 1. **CRO KR**: [Have a signed off monetization strategy for AI ](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2809)
 
-### 2. CEO: [Deliver predictable high value to customers by reducing churn and contraction](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1893)
+### 2. CEO: [Reduce churn and contraction by delivering predictable high value to customers](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1893)
 1. **CEO KR**: [Reduce churn and contraction by X% compared to ATR FY23-Q4](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1970)
 1. **CEO KR**: [Overachieve on Professional Services attach rate at X% of Q2 Net ARR (target in plan = Y%) via mandatory Ultimate attach initiative, to drive improved product adoption](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1971)
 1. **CEO KR**: [>90% of top 50 customers by ARR pitched about GitLab’s AI strategy in H1 FY24, with unbranded content in hand for them to use internally in their own AI advocacy](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1972)
