@@ -25,7 +25,7 @@ window.dataLayer = window.dataLayer || [];
 dataLayer.push({
  'event': 'launchDarklyExperiment',
  'launchDarklyExperimentName': 'name of experiment',
- 'launchDarklyExperimentId': '0 or 1' //0 = control, 1 = variant 
+ 'launchDarklyExperimentId': '0 or 1' //0 = control, 1 = variant
 });
 ```
 
@@ -40,10 +40,10 @@ Below are some resources to learn more about feature flags. At a high level, a f
 
 ### How we run AB test
 
-Our AB tests include two files, the control and the test variant. Both exist on the page in the HTML DOM at the same time, but are hidden by default on page load. The javascript SDK will return which version of the experiment should be shown. For each test, we use the following process: 
+Our AB tests include two files, the control and the test variant. Both exist on the page in the HTML DOM at the same time, but are hidden by default on page load. The javascript SDK will return which version of the experiment should be shown. For each test, we use the following process:
 1. Test Candidates are validated by modelling out the potential lift on an annualized basis.
 1. AB test candidate with the highest annualized lift (lift scoped specifically to the action/improvement we’re measuring) is run as an AB test.
-1. AB test complete, data analysis on results. 
+1. AB test complete, data analysis on results.
 1. The winner goes live at 100%.
 1. Saves (tests that did not deliver as expected) are documented.
 
@@ -51,11 +51,11 @@ Our AB tests include two files, the control and the test variant. Both exist on 
 
 ### Planned A/B Tests
 
-| Issue | Test Length | Status | 
+| Issue | Test Length | Status |
 | ------ | ------ | ------ |
 | [Homepage Featured Blocks vs Carousel](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/169) | | scheduled |
 
-### Completed A/B Tests & Results 
+### Completed A/B Tests & Results
 
 | Issue | Variant A | Variant B | Winner |
 | ------ | ------ | ------ | ------ |
@@ -76,14 +76,6 @@ This can be overridden by optional URL parameters as exhibited in the codepaths 
 
 [Example merge request for an AB test](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/80315)
 
-#### Codepaths
-
-* [JS: run experiment](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/javascripts/run-experiment.js)
-  * This is our in-house javascript created to assist us with running feature-flag based AB tests.
-* [HTML: Experiment structure](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/experiments/structure.html.haml)
-  * This file is the superstructure that includes the CSS, JS, and optional arguments.
-* [AB test files are stored here](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/uncategorized/source/experiments)
-
 #### Tutorials for implementing AB test in the www-gitlab-com project
 
 **Active**
@@ -103,7 +95,7 @@ This can be overridden by optional URL parameters as exhibited in the codepaths 
 
 ## Why did we choose LaunchDarkly
 
-Because the marketing website about.gitlab has no dynamic server, we needed a solution that could be performant and implemented using a javascript SDK. In addition to that, we needed a solution that was able to attach metrics. 
+Because the marketing website about.gitlab has no dynamic server, we needed a solution that could be performant and implemented using a javascript SDK. In addition to that, we needed a solution that was able to attach metrics.
 
 Below are some links with information on the history of the decision:
 
