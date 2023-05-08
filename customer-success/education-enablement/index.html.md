@@ -64,7 +64,6 @@ To align our education and enablement with our product, each of the topics below
 - [Boards Feature Docs](https://about.gitlab.com/stages-devops-lifecycle/issueboard/)
 - [Epics Feature Docs](https://about.gitlab.com/product/epics/)
 - [Roadmaps Feature Docs](https://docs.gitlab.com/ee/user/group/roadmap/)
-- [Service Desk Feature Docs](https://about.gitlab.com/stages-devops-lifecycle/service-desk/)
 - [Requirements Management Feature Docs](https://docs.gitlab.com/ee/user/project/requirements/)
 - [Quality Management Feature Docs](https://docs.gitlab.com/ee/ci/test_cases/index.html)
 - [Design Management Feature Docs](https://docs.gitlab.com/ee/user/project/issues/design_management.html)
@@ -177,13 +176,10 @@ To align our education and enablement with our product, each of the topics below
 - [Monitor Stage Direction and Roadmap](https://about.gitlab.com/direction/monitor/)
 ##### Intermediate Level
 - [Runbooks Feature Docs](https://docs.gitlab.com/ee/user/project/clusters/runbooks/)
-- [Metrics Feature Docs](https://docs.gitlab.com/ee/operations/metrics/)
 - [Incident Management Feature Docs](https://docs.gitlab.com/ee/operations/incident_management/)
-- [Logging Feature Docs](https://docs.gitlab.com/ee/user/project/clusters/kubernetes_pod_logs.html#kubernetes-pod-logs)
-- [Tracing Feature Docs](https://docs.gitlab.com/ee/operations/tracing.html)
 - [Error Tracking Feature Docs](https://docs.gitlab.com/ee/operations/error_tracking.html)
-- [Synthetic Monitoring Direction and Roadmap](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8338)
 - [Product Analytics Feature Docs](https://docs.gitlab.com/ee/operations/product_analytics.html)
+- [Service Desk Feature Docs](https://about.gitlab.com/stages-devops-lifecycle/service-desk/)
 
 ### Secure Stage
 ***
