@@ -305,7 +305,7 @@ To add new objectives in GitLab, follow the steps below:
 ### Creating Key Results
 Each [Objective](#creating-objectives) will contain one or more sub-objectives or key results. Sub-objectives are only used to cascade OKR down a level in [organizational structure](/team/structure/#layers) while [Key Results are the measure](#what-are-okrs) which helps us understand if we’ve met our objective and can be cascaded down a level of organization structure to become an objective one level down. Key Results must be created as part of an Objective and cannot be created independent of an Objective since Key Results [should be linked](https://about.gitlab.com/company/okrs/#criteria-for-key-results:~:text=Linked%20%2D%20Be%20aligned%20to%20an%20Objective%20and%20be%20relevant%20to%20teams%20one%20level%20down%3B%20this%20alignment%20also%20allows%20KRs%20to%20easily%20roll%20down%20to%20become%20objectives%20one%20level%20down.) to an Objective. 
 
-Since [Key Results are the measure](#what-are-okrs) that helps us understand if we’ve met our Objective, Key Results are aligned to the same, single layer of the [organizational structure](/team/structure/#layers) as their parent Objective and not a Key Result for multiple layers of organizational structure. However, Key Results can be cascaded down from this single organizational structure layer by becoming Objectives in the next organizational level down - see [Cascading OKRs](/#cascading-okrs).
+Since [Key Results are the measure](#what-are-okrs) that helps us understand if we’ve met our Objective, Key Results are aligned to the same, single layer of the [organizational structure](/team/structure/#layers) as their parent Objective and not a Key Result for multiple layers of organizational structure. However, Key Results can be cascaded down from this single organizational structure layer by becoming Objectives in the next organizational level down - see [Cascading OKRs](/#cascading-okrs-and-how-to-align-division-okrs-to-the-ceo-okrs).
 
 To add new key results in GitLab, follow the steps below:
 1. Navigate to the the objective that you want to add a child key result to by opening the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs), selecting **Issues** on the left sidebar, then clicking on the target objective. 
@@ -332,17 +332,22 @@ Watch this video for a demo on how to create objectives and key results:
   <iframe src="https://www.youtube.com/embed/QmOM7J0Tu0o" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-### Cascading OKRs
+### Cascading OKRs and how to Align Division OKRs to the CEO OKRs
 
 Cascading is the process by which top-level CEO OKRs cascade down from company-level to division, department, teams, and sometimes individual level. There are two methods to cascade:
 1. [Explicit Alignment](#explicit-alignment) - adopt a higher-level Key Result as an Objective.
-2. Directional Alignment - Using objective from higher level of the organization in order to guide creation of your team's objective(s), then align your team's objective to higher-level objective.
+2. [Directional Alignment](#directional-alignment) - Using objective from higher level of the organization in order to guide creation of your team's objective(s), then cross-linking your team's objective to the higher-level objective.
 
-Through these two cascade methods, a lower level team can either inherit or create an Objective. However, in both cases, the lower level team creates net new Key Results for the new Objective at team's level of [organizational structure](/team/structure/#layers).
+Through these two cascade methods, a lower level team can either inherit or create an Objective. However, in both cases, the lower level team creates Key Results for the new Objective at team's level of [organizational structure](/team/structure/#layers).
 
 The following works for cascading any multi-level OKRs, not just CEO OKRs. CEO key results cascade down to relevant areas of the company in two ways:
-1. CEO KR converted to a division or team-level objective with more specific child key results 
-2. A portion or all of a CEO KR can be adopted as a KR at the division or team level if it’s specific to that area of the company. 
+
+1. CEO KR converted to a division or team-level objective with more specific child key results.
+2. A portion or all of a CEO KR can be adopted as a KR at the division or team level if it’s specific to that area of the company.
+
+#### Explicit Alignment
+
+Although KRs are not meant to have children, [the concept of Explicit Alignment](https://www.whatmatters.com/series_entries/s3-5-okr-alignment#:~:text=Explicit%20alignment%20is%20when%20you%E2%80%99ve%20been%20given%20a%20Key%20Result%20as%20an%20Objective.%20We%20also%20call%20this%20%E2%80%9Cinheriting%E2%80%9D%20an%20Objective.) means a Key Result of a higher level can be inherited as an Objective at a lower level.
 
 In order to align division or team objectives to a CEO KR and have progress flow up to CEO KR automatically, the CEO key results should be created as an objective, not as a key result, as GitLab functionality doesn’t allow for a KR to have child OKRs. The hierarchy will look like this: 
 1. CEO objective 
@@ -353,37 +358,42 @@ If input in this format, progress entered for team KRs will flow up to update CE
 
 As an example, a [CEO objective in FY23-Q4](https://about.gitlab.com/company/okrs/fy23-q4/) was to “Grow Careers” with KRs managed by the Workplace, Learning & Development, and DIB teams. So, the CEO KRs were the objectives for those respective teams. As they updated progress on their objectives, the results were measured on the CEO level as KRs, and combined to create progress and health status reports for the objective as a whole.
 
-To ensure accurate reporting in a cascading OKR, follow these steps:  
+To ensure accurate reporting in a cascading OKR, the Chief of Staff Team to the CEO does the following:
 
-1. Create the CEO objective 
+1. Create the CEO objective.
 1. Create the CEO key results as child objectives of the CEO objective. 
-1. For team OKRs that are aligned to CEO OKRs, create team objectives as child objectives of the relevant CEO objective or CEO key result (CEO key result will be an objective in GitLab) as instructed in Creating Objectives. 
-1. Add your group key results embedded as children inside of the team objective.
+
+Once CEO OKRs are created, other divisions and departments do the following _for team OKRs that are aligned to CEO OKRs_:
+
+1. Click on the CEO KR you want to be the new parent for an objective/key result.
+1. Click **Add** in the **Child objectives and key results** section of the CEO KR.
+1. Create team objectives or KRs as child objectives of the relevant CEO key result (CEO key result will be an objective in GitLab).
+1. If the team objectives or KRs already exist, [find the objective or key result for alignment](https://docs.gitlab.com/ee/user/okrs#child-objectives-and-key-results) by typing in the search bar that appears in the **Child objectives and key results** section. See [documentation to add a child objective](https://docs.gitlab.com/ee/user/okrs#add-a-child-objective).
+1. If applicable, add your group key results embedded as children inside of the team objective.
 1. Add DRIs as Assignees on each KR, and the group leader or department head as the Assignee of the team objective.
 
+Until OKR work items can score to multiple parents, the team objective (that is a child of the CEO KR) may include key results that do not directly align to the CEO KR. If a team objective has multiple key results that align with _multiple_ CEO KRs, make the team objective a child of the CEO _objective_ instead.
 
-### How to Align Division OKRs to the CEO OKRs
-Once division OKRs have been added to GitLab, they can then be aligned to relevant CEO OKRs. Division OKRs should align to a CEO objective when it contributes to the progress of that objective. If a division level OKR does not contribute to progress of CEO objective but is still related, crosslink the CEO OKR and division OKR in the description of each OKR for visibility.
+A hypothetical example with various ways division OKRs can be children of the CEO OKRs:
 
-Follow the steps below to align division OKRs to the CEO Objectives: 
-1. Click on the CEO objective you want to be the new parent for an objective/key result.  
-1. Clicking **Add** in the **Child objectives and key results** section of the CEO objective.
-1. [Find the objective or key result for alignment](https://docs.gitlab.com/ee/user/okrs#child-objectives-and-key-results) by typing in the search bar that appears in the **Child objectives and key results** section. See [documentation to add a child objective](https://docs.gitlab.com/ee/user/okrs#add-a-child-objective). 
-1. Your objective or key result is now aligned to the CEO's objective. 
+CEO Objective: Retain and grow top talent
 
-When a division level OKR is the child of a CEO Key Result, follow the [explicit alignment](https://about.gitlab.com/company/okrs/#explicit-alignment) process. 
+1. KR 1: Have 10% of managers enrolled in leadership program
+   1. CRO Objective: Retain and grow top talent -- Note that the KR 1 is directly aligned with CEO KR1 but the KRs are not aligned with CEO KR2 or KR3
+      1. KR 1: Have 10% of managers enrolled in leadership program
+      1. KR 2: Have 90% of managers complete neurodiversity training
+   1. CMO KR 2: Have 10% of managers enrolled in leadership program; part of "CMO Objective: Retain and grow top talent" -- may be duplicated for division to score separately
+1. KR 2: Increase URG from 17% to 18%
+1. KR 3: Increase female population from 31% to 33%
+1. CTO Objective: Retain and grow top talent -- multiple KRs here align with multiple CEO KRs, so is a child of CEO objective
+   1. KR 1: Have 10% of managers enrolled in leadership program
+   1. KR 2: Increase female population from 31% to 33%
 
-#### Explicit Alignment
+If you need to track the team objective or KRs separately, you can take a look at [Engineering's guidance on tracking department OKRs](/handbook/engineering/okrs/#tracking-department-okrs). If you need the team objective or KRs to score to another parent objective, duplicating the OKR is currently the only way to do so. Please ensure the OKR tied to the CEO KR is the [single source of truth](https://handbook.gitlab.com/handbook/values/#single-source-of-truth) if you duplicate.
 
-Although KRs are not meant to have children, [the concept of Explicit Alignment](https://www.whatmatters.com/series_entries/s3-5-okr-alignment#:~:text=Explicit%20alignment%20is%20when%20you%E2%80%99ve%20been%20given%20a%20Key%20Result%20as%20an%20Objective.%20We%20also%20call%20this%20%E2%80%9Cinheriting%E2%80%9D%20an%20Objective.) means a Key Result of a higher level can be inherited as an Objective at a lower level.
+#### Directional Alignment
 
-Steps when a CEO KR is a “parent” of a division Objective: 
-1. Replicate the CEO KR as a Division Objective
-1. Create sub-objectives and KRs under that division objective
-1. Align the Division Objective to the CEO OKR by making the division objective a child objective of the CEO objective
-1. Cross-link the CEO KR and Division Objective by pasting the link for each in the description of CEO KR and Division Objective 
- 
-Now progress for the CEO KR will be measured in the division’s parent objective and ladder up the CEO objective.
+Division OKRs should align to a CEO KR when it contributes to the progress of that objective. If a division level OKR does not contribute to progress of a CEO KR but is still related, crosslink the CEO OKR and division OKR in the description of each OKR for visibility.
 
 ### Search and Filter OKRs
 
