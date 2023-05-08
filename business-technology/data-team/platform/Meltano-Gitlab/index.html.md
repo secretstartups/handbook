@@ -25,7 +25,7 @@ Currently 3 project repository is in place for Meltano.
 | SNo.  | Repository | Description | 
 | - | ---------- | ----------- |
 | 1 | [Gitlab-data-meltano](https://gitlab.com/gitlab-data/gitlab-data-meltano) | Contains infrastructure related code i.e. it hold kubernetes pods creation information in `gitlab-app.yaml` and configuration in `meltano.yml`. | 
-| 2 | [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps) |  This is primary repository which holds the TAP source code. It has at the moment source code for `TAP-XACTLY`,`TAP-ADAPTIVE` and `TAP-EDCAST` | 
+| 2 | [meltano_taps](https://gitlab.com/gitlab-data/meltano_taps) |  This is primary repository which holds the TAP source code. It has at the moment source code for `TAP-XACTLY`,`TAP-ADAPTIVE` and `TAP-EDCAST` |  
 | 3 | [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) | This project which hold tap-zengrc source code.  | 
 
 
@@ -230,9 +230,10 @@ Meltano uses Airflow internally and we use Cloud SQL as the metadata database. T
 
 ### Development guidelines and troubleshooting
 
-During the devlopment of `tap-edcast` found a couple of interesing places which worth consider as a possible points for discussion.
+During the development of `tap-edcast` found a couple of interesting places which worth consider as a possible points for discussion.
 
 If you want to re-use hands-on script used for `tap-edcast` development, testing and deployment, refer to [help_scripts/meltano.sh](https://gitlab.com/rbacovic/data_misc_scripts/-/blob/main/help_scripts/meltano.sh).
+
 #### Schema issue
 
 When you have value in the schema that can have more than one data type, it is difficult to make it work. Let's say, we have columns retrieved from API that can contain an empty string or number, for instance: ['',1,2,3,4].
@@ -271,8 +272,8 @@ AttributeError: 'SnowflakeDialect' object has no attribute 'driver'
 ```
 
 **Solution:** 
-The [`target-snowflake`](https://gitlab.com/meltano/target-snowflake) we are using is obsolete as it uses the old version of `snowflake-sqlalchemy`. We upgraded `snowflake-sqlalchemy` library in the project, fork it and make it work. `snowflake-sqlalchemy==1.1.2` was upgraded to `snowflake-sqlalchemy==1.3.3`
-It is located under our new repo for target-snowflake [edcast-target-snowflake](https://gitlab.com/gitlab-data/edcast-target-snowflake)
+The [`target-snowflake`](https://gitlab.com/meltano/target-snowflake) we are using is obsolete as it uses the old version of `snowflake-sqlalchemy`. We upgraded `snowflake-sqlalchemy` library in the project, fork it and make it work. `snowflake-sqlalchemy==1.1.2` was upgraded to `snowflake-sqlalchemy==1.3.3`
+It is located under our repo for target-snowflake [edcast-target-snowflake](https://gitlab.com/gitlab-data/edcast-target-snowflake)
 
 #### Incremental load
 
