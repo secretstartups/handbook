@@ -40,7 +40,7 @@ It is then up to the PM to weigh all these inputs and decide on a [prioritizatio
 
 Generally speaking, all product feedback should be provided via issues. For detailed overview of how to create an issue, please [read this section on the process](/handbook/product/product-processes/#issues). If you have any product-related questions, comments, input, or otherwise, the Product Manager is the primary person you should talk to, _if creating an issue does not suffice_.
 
-Creating an issue includes, but is not limited to, features, bugs, and other changes that need to be prioritized, changed, discussed, or need more attention. Product Managers will reach out to stakeholders when making or communicating any decision. The pressure of balancing priorities while ensuring we build excellent software is on the product managers and they need all the input they can get to achieve this. Paid features fall under their respective PMs, not under one PM in particular. For instance, Service Desk falls under the Plan PM, because it's part of our Issues.
+Creating an issue includes, but is not limited to, features, bugs, and other changes that need to be prioritized, changed, discussed, or need more attention. Product Managers will reach out to stakeholders when making or communicating any decision. The pressure of balancing priorities while ensuring we build excellent software is on the product managers and they need all the input they can get to achieve this. Paid features fall under their respective PMs, not under one PM in particular. For instance, Service Desk falls under the Monitor PM.
 
 ### Customer feature requests
 
