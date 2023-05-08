@@ -46,7 +46,7 @@ Please allow 3 weeks from the time you open this issue to the time the item is d
 
 Please allow 4 weeks from the time you open the issue to the time the swag is delivered. If you need something more urgently, add the `Swag: URGENT` label to the issue, along with a comment explaining the expedited timeline. 
 
-### Giveaways and gift cards
+### Giveaways and store credit
 
 #### Organizing a gift card
 
