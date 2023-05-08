@@ -32,6 +32,10 @@ Some UX teams have documented detailed information about their ways of working a
     * Growth UX team: [How we approach experiments](/handbook/product/ux/ux-resources/experimentation/)
     * Fulfillment UX team: [How we work](/handbook/product/ux/stage-group-ux-strategy/fulfillment/)
 
+## Learn about UX and see our work
+
+* [YouTube Playlist for UX Showcases](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz) 
+
 ## Product Design Workflow
 
 Product Designers follow the guidance outlined in the [Product Development flow](/handbook/product-development-flow/) while working on stage group work with our stable counterparts. 
@@ -60,10 +64,6 @@ Learning and Development
 * [UX Department Learning and Development](/handbook/product/ux/learning-and-development)
 
 Are you a new GitLab Product Designer? If so, welcome! Make sure you see the [Product Designer Workflow](/handbook/product/ux/product-designer/) handbook page that will help you get started.
-
-## Learn about UX and see our work
-
-* [YouTube Playlist for UX Showcases](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz) 
 
 ## Design Principles
 
