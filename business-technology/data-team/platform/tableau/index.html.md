@@ -29,24 +29,24 @@ description: "Tableau at GitLab"
 
 ### FY24 Tableau Deployment Roadmap
 
-We follow the nomenclature found in the [GitLab Docs](https://docs.gitlab.com/ee/policy/alpha-beta-support.html) and will stand-up the Tableau Production program using Experiment, Beta, and Generally Available features.
+We follow the nomenclature found in the [GitLab Docs](https://docs.gitlab.com/ee/policy/alpha-beta-support.html) and will stand-up the Tableau Production program using Experimental, Beta, and Generally Available dashboards.
 
-- FY24-Q1 - Experiment Features
-    - Ready Tableau Online environment for Production Releases (Experiment Features)
-    - Move the CFO and Headcount Dashboards to full Production (Experiment Features)
+- FY24-Q1 - Experimental Dashboards
+    - Ready Tableau Online environment for Production Releases 
+    - Move the CFO and Headcount Dashboards to full Production 
     - Develop a list of Top SSOT Dashboards for GTM and Finance
     - Develop project plan for deprecating the legacy schema in Snowflake
-- FY24-Q2 - Experiment and Beta Features
-    - GTM and Finance teams to migrate key content to Tableau Production (Beta Features)
-    - Design Spike: Test Tableau embedding capabilities for 1 Engineering KPI Public Handbook embedding use case (Experiment Features)
+- FY24-Q2 - Experimental and Beta Dashboards
+    - GTM and Finance teams to migrate key content to Tableau Production 
+    - Design Spike: Test Tableau embedding capabilities for 1 Engineering KPI Public Handbook embedding use case 
     - Deprecate GTM and Finance related data models in the legacy schema
     - Develop additional data models for R&D to support Tableau migration in Q3
-- FY24-Q3 - Generally Available Features
-    - Bring R&D, People, and the rest of the Enterprise into focus (Generally Available Features)
-    - Business teams to migrate key content across all use cases, including embedding KPI charts in the handbook (Generally Available Features)
+- FY24-Q3 - Generally Available Dashboards
+    - Bring R&D, People, and the rest of the Enterprise into focus 
+    - Business teams to migrate key content across all use cases, including embedding KPI charts in the handbook 
     - Deprecate R&D and People related data models in the legacy schema in Snowflake
-- FY24-Q4 - Generally Available Features
-    - All Business departments to migrate key content (Generally Available Features)
+- FY24-Q4 - Generally Available Dashboards
+    - All Business departments to migrate key content 
     - Deprecate remaining data models in the legacy schema in Snowflake
     - Complete Tableau migration efforts
 
