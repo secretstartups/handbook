@@ -144,3 +144,26 @@ Here are some commit message examples and how they affect the version increase:
 
 After running the job, a new tag is created, the changelog file is updated and the `package.json` version is increased.
 
+# Localization
+
+## Content Management
+
+We implemented a localization solution for [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) using the [Nuxt i18n module](https://i18n.nuxtjs.org/). This module provides a user-friendly platform for contributors to translate pages into their preferred language.
+
+With the Nuxt i18n module, we can easily manage translations, create language-specific pages, and ensure a smooth and seamless user experience for our contributors. Anyone can now contribute to the localization efforts, making the Buyer Experience more accessible to a wider audience and improving the overall user experience.
+
+## Workflow
+
+When a first-time user visits any page on the site, the system reads the preferred language from their browser. If their language preference matches one of the available languages on the site, the page will load in that language. Users will also be able to see a **Language Selector** on the site to change their preferred language if necessary.
+
+If the user's preferred language cannot be detected, the page will load in the default language, and the **Language Selector** will still be visible, allowing users to switch to their preferred language. This ensures that all users can access the site's content in their desired language, regardless of whether their browser settings are supported or not.
+
+Some pages on the site may not be available in all languages. In these cases, if a user navigates to a non-localized page, the page will appear in the default language.
+
+To ensure a seamless user experience, site redirections are managed through a combination of [Nuxt i18n module](https://i18n.nuxtjs.org/) routing configuration and a custom routing configuration in the [Digital Experience Navigation Repository](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation). This dynamic redirection system automatically directs users to their preferred language page if it exists, or to the default language page if a localized version is not available.
+
+We are committed to improving the site's localization efforts and providing users with the best possible experience on our site.
+
+## Learn More
+
+For more technical details, please check [Language selector initial implementation](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation/-/merge_requests/177)
