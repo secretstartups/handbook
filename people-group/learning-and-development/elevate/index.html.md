@@ -155,6 +155,24 @@ People Leaders with direct reports who are in a current Elevate cohort could be 
 
 This section includes key resources for the Learning and Development team who delivers Elevate.
 
+### Lanugage
+
+Refer to the table below to algin on language used to talk about Elevate.
+
+| Term | Definition |
+| ----- | ---------- |
+| Round | Collection of cohorts starting Elevate at the same time - used for internal reference only |
+| Cohort | Groups of 10-12 participants organized by timezone who meet together for Group Coaching - used with participants |
+| Projects | Group based projects which showcase learning application at GitLab, begin with Round 1 |
+| Manager+ Path | Elevate content for Managers and Senior Managers |
+| Director+ Path | Elevate content for Directors, Senior Directors, and VPs
+| Pilot | First group of ~45 managers involved in Elevate |
+| Round 1 | Manager+ Path running from April-August 2023 - 100 participants |
+| Round 2 | Manager+ Path running from June-October 2023 - 60 participants |
+| Round 3 | Director+ Path running from June-October 2023 - 30 participants |
+
+
+
 ### Resources
 
 1. [Use the #new-elevate-cohort issue template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master/.gitlab/issue_templates) whenever you start a new round of Elevate
