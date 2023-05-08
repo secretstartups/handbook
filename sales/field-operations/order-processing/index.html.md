@@ -563,7 +563,9 @@ Under the [**GitLab Partner Program**](/handbook/resellers/#gitlab-partner-progr
 
 **Only GitLab-authorized partners who have completed one sales certification may transact a GitLab order.**
 
-**Quote Approvals:** The Quote Approval module identifies channel deals (subscription deals only) and manages the necessary approvals automatically. **To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/sales/field-operations/order-processing/#standard-quote-approval)**
+**Quote Approvals:** The Quote Approval module identifies channel deals (subscription deals only) and manages the necessary approvals automatically. If the discount applied to the quote is _less_ than the GitLab Partner Program discount, discount approval is required by the regional Channel Approver listed in the [Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=kix.y33malxy9ex9). If the discount applied is _more_ than the GitLab Partner Program discount, the added discount portion is subject to standard approvals listed in the [Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=kix.7goasfb500q2). Effective FY24 Q2, only the portion of the discount that _exceeds_ the GitLab Partner Program discount will be subject to approvals.
+
+**To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/sales/field-operations/order-processing/#standard-quote-approval)**
 
 **Channel Approvers:** More information regarding regional Channel Approvers can be found [here](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#channel-approvals).
 
