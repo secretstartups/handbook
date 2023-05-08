@@ -61,7 +61,7 @@ If the team member desires financial assistance to purchase the hardware, the Co
 
 Team member Laptops can be refreshed after 3 years (of use!) without question. Everyone's needs are different so it is hard to set a clear timeline of when computer upgrades are necessary for all team-members, but team-members become eligible for an updated laptop after 3 years. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) then manager and [Michael Beltran's](https://about.gitlab.com/company/team/#mbeee)/[Rob Rea's](https://about.gitlab.com/company/team/#rrea1) approval  will be required before IT can purchase the replacement laptop. If you qualify/complete a laptop refresh, please also refer to our [Laptop Buy back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) below. 
 
-Laptops being requested as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/end-user-services/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
+Laptops being requested as part of the refresh program use [this template](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
 
 ### GitLab Laptop Replacement Program
 
