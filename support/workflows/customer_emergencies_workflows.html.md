@@ -44,7 +44,7 @@ An example DRI schedule is below. Note that AMER 2 is DRI for 30 minutes longer 
 
 ### Communicate
 
-When you get an alert, you should immediately start a Slack thread and take notes therein. Tag the Customer Success Manager (CSM) - "cc @user" is good enough - if the customer has one (steps [here](/handbook/support/workflows/support-sales-escalations.html#role-customer-success-manager-csm) for how to identify CSMs). This creates visibility around the situation and opens the door to let the team join in.
+When you get an alert, you should immediately use the PagerDuty message in Slack to start a thread and take notes therein. Tag the Customer Success Manager (CSM) - "cc @user" is good enough - if the customer has one (steps [here](/handbook/support/workflows/support-sales-escalations.html#role-customer-success-manager-csm) for how to identify CSMs). This creates visibility around the situation and opens the door to let the team join in.
 
 Good notes in Slack help others follow along, and help you with your follow-ups after the call.
 
@@ -137,7 +137,7 @@ If at any point you would like advice or help finding additional support, [conta
    1. Offer a Zoom call to the customer if appropriate to the reported situation. A SaaS emergency related to a public incident published on the status page, for example, would not warrant a call.
    * Example of self-managed emergency ticket which was resolved without a call: https://gitlab.zendesk.com/agent/tickets/148028
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.
-1. Start a thread in `#support_self-managed` or `#support_gitlab-com` with the ticket link. _"Thread for emergency ticket LINK HERE"_.
+1. Use the PagerDuty message in `#support_self-managed` or `#support_gitlab-com` to start a Slack thread. This ensures that everyone coming into the ensuing discussion can easily identify the corresponding emergency ticket.
 1. After 15 minutes, if the customer has not responded to our initial contact with them, send a follow up message covering the following points:
     - The bridge created to work on the emergency.
     - If the customer is not able to join immediately, we can make other arrangements.
