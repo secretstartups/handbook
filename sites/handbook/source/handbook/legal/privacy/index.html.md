@@ -21,6 +21,7 @@ The Privacy Team is part of the Legal and Corporate Affairs Team. We provide sup
 - [Privacy Terms](/handbook/legal/privacy/#privacy-terms)
 - [Vendor Privacy Review Process](/handbook/legal/privacy/#privacy-review-process)
 - [Internal Product Feature/Release Privacy Review](/handbook/legal/privacy/#internal-privacy-review)
+- [Guidelines for Law Enforcement Requests](https://about.gitlab.com/handbook/legal/privacy/law-enforcement-guidelines/)
 
 ## Privacy Statement Links
 
