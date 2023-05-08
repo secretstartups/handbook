@@ -60,7 +60,7 @@ Each program we send is created by the CS Programs team in Gainsight. Once a pro
 
 For a new program, the workflow is as follows:
 
-1. The requester [submits an issue](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#create-or-update-a-program) using the correct template, filling out as much information as possible. If the form is not complete, this may delay completion. Please include the desired date the program will go to customers.
+1. The requester submits an issue using the correct template, filling out as much information as possible. If the form is not complete, this may delay completion. Please include the desired date the program will go to customers.
 1. The CS Programs team verifies that the information needed is present and will provide additional information or clarify.
 1. The requester provides initial content for the program. This may be copy content, such as the contents of the email requested, branding requirements, and any token information needed to create the program.
 1. The CS Programs team provides a timeline for completion once all the information is available.
@@ -72,7 +72,7 @@ In general, at least _5 business days_ are required for a new program, and in mo
 
 For program update requests, the workflow is as follows:
 
-1. The requester [submits an issue](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#create-or-update-a-program)) using the correct template, filling out as much information as possible. This should include the name of the program to change, and the date the requester wants the change to be completed.
+1. The requester submits an issue using the correct template, filling out as much information as possible. This should include the name of the program to change, and the date the requester wants the change to be completed.
 1. The CS Programs team verifies that all information needed is present and will provide additional information or clarify.
 1. The CS Programs team makes the requested changes to the program copy document, then requests [SME review](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#subject-matter-expert-sme-review-guidelines) by Product and/or Support as needed.
 1. When SME review is complete, the CS Programs team adds the changes to Gainsight.
@@ -152,16 +152,16 @@ The programs below are available to our Tech Touch and Scale CSM customer segmen
 |---------------------------------|-------------|----------|---------------------------------------------------------|--------|
 | Onboarding Enrollment   | Onboarding  | [Copy doc](https://docs.google.com/document/d/1VmJ_UWWbbTvMnjagixhPRWTomzLZmWJBI4t04pwFiOY/edit?usp=sharing) | 0-2 days of contract date                        | Time-based trigger |
 | Onboarding Series               | Onboarding  | [Copy doc](https://docs.google.com/document/d/12RBtKSNWBvW6_SEfczxO2Bp8JeHvNlh8S01TrFOTp50/edit?usp=sharing) | 2-5 days | Time-based trigger |
-| CI Enablement Series | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) |  15-20 days   | Time-based trigger |
-| DevSecOps Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | 35-40 days  | Time-based trigger |
-| CD Enablement Series    | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | 55-60 days     | Time-based trigger |
-| Agile Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | 65-70 days   | Time-based trigger |
+| CI Enablement Series | Enablement  | [Copy doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) |  15-22 days   | Time and usage-based trigger |
+| DevSecOps Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | 30-37 days  | Time-based trigger |
+| CD Enablement Series    | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | 45-50 days     | Time-based trigger |
+| Agile Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | 53-58 days   | Time-based trigger |
 | Monthly Newsletters  | Enablement  | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/85)     | Sent Monthly on Fridays  | Time-based trigger |
 | NPS Post-Onboarding Survey | Onboarding  | [Issue](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/274)    | First Value Date, or 90 days after contract date, whichever is first  | Time- and usage-based trigger |
 | NPS Pre-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | ~ 120 days before Next renewal date | Time-based trigger |
 | NPS/CSAT Post-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/308)    | 60 days after Next renewal date        | Time-based trigger |
 | Monthly Webinar Invitations     | Enablement  | [Handbook](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/)   | Sent monthly dependent on event date                     | Time-based trigger |
-| Post Churn Survey            | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/293)    | Opportunity marked Closed-Lost, Active Subscription = 0 | Usage-based trigger |
+| Post-Churn Survey            | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/293)    | Opportunity marked Closed-Lost, Active Subscription = 0 | Usage-based trigger |
 | Low License Utilization (SMB Only)    | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/114)    | License Utilization less than 75%, customer between 90-150 days of contract | Usage-based trigger |
 | High PTC (value 1 or 2)    | Retention   | [Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/153)    | 6-9 months before next renewal date, PTC Value = 1 or 2| Usage-based trigger |
 
@@ -187,11 +187,11 @@ The programs below are available to **CSM-assigned accounts** only and are sent 
 
 _* Monthly newsletters and NPS/CSAT surveys require a GitLab Admin contact_<br>
 
-## Create or update a program
+## Propose a new program or update an existing one
 
-You may request new programs, such as an email series, contribute to existing programs, or update programs. We provide issue templates for ease of use.
+You may request a potential new program, such as an email series, contribute to existing programs, or update existing programs. We provide issue templates for ease of use.
 
-**To request a new program or update an existing program:**
+**To propose a new program or update an existing program:**
 
 1. Open a new issue in the [CS Ops Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues).
 
@@ -275,7 +275,7 @@ CSE/CSMs can use the Customer Programs Research Template to research new program
 1. Create a new issue using the [CSM Program Research Template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/new?issuable_template=CSM%20Program%20Research%20Template).
 1. Use the questions in the template to gather as much information as possible for the stage or use case.
 1. Assign the template to a CSM or CSM manager for peer review. This will be a multi-step process, as you'll need to ask questions of your customers as well as internal sources.
-1. Once CSM peer review is complete, create a new issue [using the appropriate template](#create-or-update-a-program), and relate this issue.
+1. Once CSM peer review is complete, create a new issue using the appropriate template, and relate this issue.
 
 ## Create a CTA with a Digital Program playbook
 
