@@ -64,10 +64,10 @@ Customers receive NPS surveys at multiple points in their customer lifecycle and
       - An additional attribute to our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
 
 - **Post-Renewal**
-   - NPS: How likely are you to recommend GitLab to a friend or colleague?
-   - CSAT: How satisfied are you with GitLab?
-   - Sent 120 days before renewal
-      - An additional attribute to our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
+   - NPS: Considering your experience with us so far, how likely are you to recommend GitLab to a friend or colleague?
+   - Sent 60 days after contract renewal
+      - Provides an attribute of sentiment into the success of the renewal and insight for continued prioritization. 
+
 
 #### Dedicated CSAT Surveys
 - **Post-Churn Survey**
