@@ -26,6 +26,16 @@ To get started with GitLab, register your company by going to [https://partners.
 * Take the sales training as well as other relevant training.
 * Register your first deal.
 
+## Creating Partner Portal Logins for Users (After Initial Partner Registration)
+_This information can also be found in the [Partner Guide](https://partners.gitlab.com/prm/English/s/assets?id=414926&q=partner%20guide)(portal login required to access))._  
+If a partner organization already exists in the partner portal, but a new partner user needs login credentials:
+- Visit our [partner portal](https://partners.gitlab.com) and scroll down to the login area
+- On the left side of the page, click "Request Portal Access"   
+
+![PHD_HB_Request_Portal_Access](/handbook/resellers/partner-support/source/images/PHD_HB_Request_Portal_Access.png) 
+
+The partner user will be directed to a page that asks them to confirm the organization they work for. After they confirm, they should click next, and fill in their information. After submitting the information, they'll receive login credentials if it is an active partner account with GitLab. Email partnersupport@gitlab.com if you have any problems.
+
 ## Completing Training and Certifications
 
 Our training programs are available primarily through the [GitLab Partner Portal](https://partners.gitlab.com/). There, you will find the accreditation courses and testing needed to meet your GitLab program requirements for sales, pre-sales, technical, and professional services training. Check out the [Channel Partner Training and Certifications](/handbook/resellers/training/) handbook page for additional information.
