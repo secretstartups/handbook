@@ -70,8 +70,8 @@ Following Module 5, you'll be assesed on your mastery of the leadership competen
 **To prepare for the certification, you'll need to:**
 
 1. Sign up for a 50 minute session that works for your schedule. The sign up issue for your cohort will be shared in Slack.
-1. Review the 4 scenarios that you might be asked about in the session (link to be added soon)
-1. Understand how your performance will be assessed by reviewing the grading rubric (link to be added soon)
+1. Review the 4 scenarios that you might be asked about in the session [here](https://docs.google.com/document/d/1vugl8dAeEIX3UxMCIusgG3_HDH6QEABenIf72y83ujg/edit).
+1. Understand how your performance will be assessed by reviewing the grading rubric [here](https://docs.google.com/document/d/1jzbJ-7aa9Qwn6fv111pKLJ6llYg7z_tPCx-O3mWQi2c/edit)
 1. Practice and ask questions in you cohort Slack channel
 
 **Here's what you can expect in the live session:**
