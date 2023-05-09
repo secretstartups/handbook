@@ -12,7 +12,7 @@ job: "Staff Backend Engineer"
 
 ## Introduction
 
-Hello, my name is Thong Kuah. I am a Staff Backend Engineer with the Sharding group, and I currently reside in Wellington, New Zealand.
+Hello, my name is Thong Kuah. I am a Staff Backend Engineer with the [Tenant Scale group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/tenant-scale/). I currently reside in Wellington, New Zealand.
 
 I joined GitLab in 2018, starting with the Configure group.
 
@@ -24,19 +24,19 @@ I joined GitLab in 2018, starting with the Configure group.
 
 ## My day
 
-As my timezone is UTC +12 or UTC +13, Mondays are relatively quiet (perks of living in the future!). There is some overlap with AMER in my mornings. As some in my team are in EMEA, I have some evening meetings with them.
+As my timezone is UTC +12 or UTC +13, Mondays are relatively quiet. There is some overlap with AMER in my mornings. As some in my team are in EMEA, I have some evening meetings with them.
 
-I will usually take the time in the morning to drop my children off at school, and start work shortly after at 9 AM. The morning will then be either reviewing merge requests, replying to TODOs to unblock others. Sometimes I elect to focus on a particular issue instead.
+After droping my children off at school, I start work shortly after 9 AM. The morning will then be either reviewing merge requests, replying to mentions to unblock others. Sometimes I elect to focus on a particular issue instead.
 
 I mostly work from home, so lunch is mostly leftover dinners. After lunch, there’s usually more work to continue though I tend to slow down. I stop work to pick up kids from school at 3 PM.
 
-In the evenings (Mon-Thurs) after the kids have gone to bed, I resume work as this is my most productive time. Friday evenings is a no-work time slot as it is reserved for movie nights with my partner :)
+In the evenings (Mon-Thurs) after the kids have gone to bed, I resume work as this is my most productive time. Friday evenings is a no-work time slot as it is reserved for movie nights with my partner.
 
-I am open to coffee chats, especially if we haven’t had one before. Simply schedule it within my working hours in Google Calendar.
+I am always open to coffee chats, whether or not we have met before. Simply schedule it within my working hours in Google Calendar.
 
 ## Work style
 
-I am motivated by feedback, and a sense of accomplishment. I welcome direct, actionable feedback from customers, co-workers, code review comments, and even RSpec telling me the specs are failing.
+I am motivated by feedback, and a sense of accomplishment. I welcome direct, actionable feedback from customers, co-workers, code review comments, and even RSpec telling me the tests are failing.
 
 I work mainly off the GitLab To-Do List, mostly on a First-in-First-out basis. I tend to operate best when I am working on one or two "things" at a time.
 
