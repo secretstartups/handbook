@@ -225,6 +225,25 @@ To create a new content type:
 
 ## Reporting
 
+If you're looking for a basic overview of reporting, a good place to start is the [Reporting Hub](https://academy.thoughtindustries.com/learn/course/reporting-hub/reporting-hub-tour/navigating-reporting-hub?client=gitlab&page=1) course in the Thought Industries academy training platform.
+
+### Creating a completion report
+
+Here's a simple video tutorial on how to [create a completion report for a content item in Level Up](https://youtu.be/L54A-9y-PAk). It's privately listed, so you'll need to be signed in to GitLab Unfiltered to view it.
+
+Here's a step by step guide:
+
+1. In the Level Up Admin panel, navigate to `Reporting` > `Explore`
+1. Under the `Learner Content & Progress` heading, select the `What % complete are my learners with a particular item?` report.
+1. In the Filters at the top of page, use the `Learner Content Details Content Title` to search for the piece of content you'd like to report on.
+1. From the list of fields on the left hand side, expand `Learner Content` and click `Status`. This will add in the status of whether a Learner is `not-started`, `started`, or `completed`. This is important as any learners who completed in our previous learning system will show as completed, but have 0% progress, so should still be captured.
+1. Add any other fields you think would be useful to include.
+1. Click `Run`
+1. To download the report, click the cog icon in the top right to open a dropdown menu. Then click `Download`.
+1. In the new menu that pops up, update the file format (usually to CSV), and ensure you choose `All Results` option for `Limit`. Click `Download`
+
+This is a way to create a simple completion report, remember there are lots of other criteria and information to utilise when putting reports together.
+
 ### Using Google Sheets to share completion reporting with the business
 
 Here is an [example](https://docs.google.com/spreadsheets/d/1ZmRT-9XzN0WBXZ2p6kzMIuhjuRVNhM73h7QFi-qOZC4/edit#gid=1860209145) of a pivot chart that breaks down completions by division. Make a copy of [this template](https://docs.google.com/spreadsheets/d/1caRFWpLEts0Hs3zk8LgEEltQwmL519ijj50_x20N4gY/edit#gid=1965851534) and follow the steps below to build your own.
