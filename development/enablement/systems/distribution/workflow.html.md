@@ -63,16 +63,21 @@ All scheduled work for omnibus-gitlab, Helm charts and team projects is shown on
 
 ### Label definitions
 
-There are a number of labels applied at any time to both issues and merge requests (items),
+There are a number of labels applied at any time to Epics, issues and merge requests (items),
 but there is a priority, first being the highest:
 
 * `Deliverable` - Issues with this label are agreed between team EM and the PM and have the highest overall priority. If you are looking for new work to pick up,
 unassigned issues should be tackled in order of priority label. Deliverable issues not closed in a given milestone are auto forwarded
 via [milestone cleanup](/handbook/engineering/workflow/#milestone-cleanup) workflow.
-* `Distribution:Build` - Issues specific to, and MR's authored by [build](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/#distributionbuild-charter) group. Label is not scoped.
-* `Distribution:Deploy` - Issues specific to, and MR's authored by [deployment](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/#distributiondeploy-charter) group. Label is not scoped.
+* `group::distribution` - Items specific to, or authored by Distribution team. It is a [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) to be applied to all Distribution subgroups items until further guidance.
+* `group::distribution::*` - Items specific to, or authored by one of Distribution subgroups. They are [nested scope labels](https://docs.gitlab.com/ee/user/project/labels.html#nested-scopes), and mutually exclusive, but can be used with `group::distribution` scoped label together.
+  * `group::distribution::build` - Items specific to, or authored by [build](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/#distributionbuild-charter) group.
+  * `group::distribution::deploy` - Items specific to, or authored by [deployment](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/#distributiondeploy-charter) group.
 * `Stretch` - Items with this label are scheduled for work similar like
 the items with `Deliverable` label but with lower priority. If items with this label are not delivered in the current cycle, they will become `Deliverable` in the next release.
+* `Distribution OBJ::*` (1-4) - Items relate to a Distribution objective, usually combine with quarterly label. It is a [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels). i.e. `Distribution OBJ::1`. The number (*) associates with a [OKR](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Adistribution&first_page_size=50) item prefix number in a given quarter. 
+* `Distribution KR::*` (1-4) - Items relate to a Distribution key result, usually combine with objective and quarterly label. It is a [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels). i.e. `Distribution KR::3`. The number (*) associates with a [OKR](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Adistribution&first_page_size=50) item prefix number in a given quarter. 
+* `FY(Year in two digitals)::*` (1-4) - [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) to indicate efforts targeted for release within a quarter. i.e. `FY24::Q2`.
 * `Unscheduled` - Items with this label are being worked on in this release but have not been previously scheduled by the EM and PM. Work on this items is
 usually event driven - another team requires help, regression affecting users, or technical debt that is causing inefficiency in the team.
 * `Internal` - Items with this label contain work that is not directly user facing, work such as technical debt, refactoring and workflow improvements. This label is a direct measurement of team effectiveness. If there are too many
