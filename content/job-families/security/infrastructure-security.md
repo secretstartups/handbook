@@ -1,11 +1,11 @@
 ---
 title: "Infrastructure Security - Roles & Responsibilities"
-description: "As members of GitLab's Security Operations sub department, the Infrastructure Security engineers own security initiatives related to security of GitLab.com."
+description: "As members of GitLab's Security Engineering sub department, the Infrastructure Security engineers own security initiatives related to security of GitLab.com."
 extra_js:
 - libs/mermaid.min.js
 ---
 
-As members of GitLab's [Security Operations sub department](https://about.gitlab.com/handbook/security/security-operations/), the [Infrastructure Security](https://about.gitlab.com/handbook/security/) engineers own security initiatives related to security of GitLab.com. They are Infrastructure's stable counterparts in the Security department, and as such work with various Infrastructure and Security teams to identify and mitigate security issues, vulnerabilities, and misconfigurations by applying their in-depth knowledge of operating systems, infrastructure, and cloud providers. They work very closely with the Security Incident Response Team and share their findings in a proactive manner. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
+As members of GitLab's [Security Engineering sub department](https://about.gitlab.com/handbook/security/security-engineering/), the [Infrastructure Security](https://about.gitlab.com/handbook/security/security-engineering/infrastructure-security/) engineers own security initiatives related to security of GitLab.com. They are Infrastructure's stable counterparts in the Security department, and as such work with various Infrastructure and Security teams to identify and mitigate security issues, vulnerabilities, and misconfigurations by applying their in-depth knowledge of operating systems, infrastructure, and cloud providers. They work very closely with the Security Incident Response Team and share their findings in a proactive manner. Successful Security Engineers thrive in high-stress environments and can think like both an attacker and defender, engage with and mentor more junior Security Engineers, and can help come up with proactive and preventative security measures to keep GitLab and its user’s data safe in an ever changing threat landscape.
 
 ## Responsibilities
 
@@ -42,7 +42,6 @@ The Infrastructure Security Engineer is a [grade 6](https://about.gitlab.com/han
 - Utilize log ingestion platform for security analytics and identification of tactics, techniques and patterns of attackers
 - Contribute to creation of runbooks
 - Contribute to the production and tuning of detection rules
-- Participate in the Security Incident Response Team on-call rotation
 
 #### Infrastructure Security Engineer (Intermediate) Requirements
 
@@ -59,7 +58,7 @@ The Infrastructure Security Engineer is a [grade 6](https://about.gitlab.com/han
 
 ### Senior Infrastructure Security Engineer
 
-This position reports to the [Manager, Security Incident Response Team](#manager-infrastructure-security).
+This position reports to the [Manager, Infrastructure Security](#manager-infrastructure-security).
 
 #### Senior Infrastructure Security Engineer Job Grade
 
@@ -88,7 +87,7 @@ The Senior Infrastructure Security Engineer is a [grade 7](https://about.gitlab.
 
 ### Staff Infrastructure Security Engineer
 
-This position reports to the [Manager, Security Incident Response Team](#manager-infrastructure-security).
+This position reports to the [Manager, Infrastructure Security](#manager-infrastructure-security).
 
 #### Staff Infrastructure Security Engineer Job Grade
 
@@ -98,7 +97,6 @@ The Staff Infrastructure Security Engineer is a [grade 8](https://about.gitlab.c
 
 - Extends Senior Infrastructure Security Engineer responsibilities, plus;
 - Identify inconsistencies in logs and work with Product to standardise them
-- Participate in the Security Incident Manager on-call rotation
 - Lead the design, evaluation, implementation and deployment of new security technologies
 - Ownership and delivery on complex projects
 - Ownership of Security Department's dedicated cloud environment
@@ -149,11 +147,11 @@ The  Infrastructure Security Manager is a [grade 8](https://about.gitlab.com/han
 
 ### Senior Manager, Infrastructure Security
 
-This role reports to the [Director of Security Operations](/job-families/security/security-leadership/#director-security-operations).
+This role reports to the [Director of Security Engineering](/job-families/security/security-leadership/#director-security-engineering).
 
 #### Senior Manager, Infrastructure Security Job Grade
 
-The Security Incident Response Team Senior Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Infrastructure Security Team Senior Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Infrastructure Security Responsibilities
 
@@ -166,7 +164,6 @@ The Security Incident Response Team Senior Manager is a [grade 9](https://about.
 - Draft and successfully deliver on quarterly OKRs
 - Train team members to screen candidates and conduct managerial interviews
 - Build a substantial, collaborative partnership with your peers in the Legal, Infrastructure, IT, Development and Product departments
-- Being part of the Security Escalation On-Call rotation
 
 #### Senior Manager, Infrastructure Security Requirements
 
@@ -210,10 +207,10 @@ More information can be found here [Security Logging Team Job Family](/job-famil
   sec:stse(Staff Infrastructure Security Engineer)-->sec:dse(Distinguished Infrastructure Security Engineer);
   sec:sse(Senior Infrastructure Security Engineer)-->sec:sem(Infrastructure Security Manager);
   sec:sem(Infrastructure Security Manager)-->sec:sesm(Infrastructure Security Senior Manager);
-  sec:sesm(Infrastructure Security Senior Manager)-->sec:ds(Director of Security Operations);
+  sec:sesm(Infrastructure Security Senior Manager)-->sec:ds(Director of Security Engineering);
 ```
 
-For details on the Security organisation leadership roles, to include the Security Operations Director and VP of Security, see the Security Leadership page.
+For details on the Security organisation leadership roles, to include the Security Engineering Director and VP of Security, see the Security Leadership page.
 
 ## Hiring Process
 
