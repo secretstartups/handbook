@@ -67,7 +67,7 @@ Laptops being requested as part of the refresh program use [this template](https
 
 We get it, sometimes things happen! If you laptop is broken or not sufficient for your role you can request a replacement laptop if you do not qualify for the 3 year refresh yet. 
 
-Replacement laptops for broken GitLab laptops can be requested as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/end-user-services/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the End User Services issue tracker project. Please describe the reason for your replacement in the issue. (i.e., my screen and battery are damaged) also, please note replacements will require your manager's approval in the issue. 
+Replacement laptops for broken GitLab laptops can be requested as needed by [creating an issue](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the End User Services issue tracker project. Please describe the reason for your replacement in the issue. (i.e., my screen and battery are damaged) also, please note replacements will require your manager's approval in the issue. 
 
 Many team members can use their company issued laptop until it breaks. If your productivity is suffering, you can request a new laptop. The typical expected timeframe for this is about three years, but it can depend on your usage and specific laptop. 
 
