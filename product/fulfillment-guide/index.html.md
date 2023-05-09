@@ -11,16 +11,26 @@ description: "The Fulfillment Sub-department is responsible for the infrastructu
 
 ## Key Fulfillment Documentation links
 
-1. [Fulfillment Direction](/direction/fulfillment): Outlines the Fulfillment vision and what we are working on next. 
-2. [docs.gitlab.com Subscription documentation](https://docs.gitlab.com/ee/subscriptions/): includes customer-facing documentation around GitLab subscriptions, including Customer Portal (customers.gitlab.com) information.
-3. Fulfillment Guide (this page): documentation around CustomersDot Admin tools and process documentation that is not part of the docs.gitlab.com Subscription documentation above.
-4. [Dev - Fulfillment Sub Department](/handbook/engineering/development/fulfillment/): R&D team, priorities, prioritization processes, and more.
-5. [Internal Handbook - Fulfillment](https://internal-handbook.gitlab.io/handbook/product/fulfillment/): documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information, such as revenue-based KPIs or sensitive project documentation.
-6. [UX Scorecards for Fulfillment](https://gitlab.com/groups/gitlab-org/-/epics/2015): A good way to see Fulfillment workflows in action is to view our scorecards. This is when we take a critical look at our UX and see where we can improve.
-7. [Licensing FAQ](/pricing/licensing-faq/)
-8. [Cloud Licensing Overview](/pricing/licensing-faq/cloud-licensing/)
-9. [Quote-to-Cash process](/handbook/business-technology/enterprise-applications/quote-to-cash/#quote-to-cash-introduction) - EntApps documentation including systems and process diagrams.
-10. [Sales Order Processing - Deal Desk Docs](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
+| Resource  | Areas Covered | 
+| --------  | ------------- |
+| [Fulfillment Direction](/direction/fulfillment/) | Fulfillment vision and what we are working on next. | 
+| [docs.gitlab.com Subscription](https://docs.gitlab.com/ee/subscriptions/) | Customer-facing documentation around GitLab subscriptions, including Customer Portal (customers.gitlab.com) information. |
+| Fulfillment Guide (this page) | Documentation around CustomersDot Admin tools and process documentation that is not part of the docs.gitlab.com Subscription documentation above. |
+| [Fulfillment Development Sub-Department](/handbook/engineering/development/fulfillment/) | Team members, stable counterparts (PM, UX, Quality, Security, EntApps, Field Ops, Sales, Billing, Customer Success, Support Engineering), project management processes, and more. | 
+| [Internal Handbook - Fulfillment](https://internal-handbook.gitlab.io/handbook/product/fulfillment/) | Documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information. |
+| [Cloud Licesing Overview (External)](/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites | 
+| [Cloud Licensing (Internal)](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing | 
+| [CustomersDot Access and Use by Sales](/handbook/sales/field-operations/customersdot-access-and-use/) | Logging in, information available in CustomersDot, seat reconciliations for a customer, usage data for a customer | 
+| [Deal Desk Handbook](/handbook/sales/field-operations/sales-operations/deal-desk/) | Standard Quote Configuration (new subscription, amend subscription, add-on quote creation, upgrade or product switch during subscription term, renewal, channel deals, true-ups, co-terms, Starter/Bronze End of Availability, SuperSonics, Professional Services), Non-Standard Quotes (Contract Resets, Concurrent Subscriptions, Multi-year Deals, Ramp deals), Alliance Marketplace Private Offers, and more.  | 
+| [Sales Order Processing](/handbook/sales/field-operations/order-processing/) | Account and opportunity creation, quote configuration, approvals process, opportunity booking requirements, closing an opportunity. |
+| [Internal Support](/handbook/support/internal-support/) | Submitting all requests around licensing, subscription, trials, and grace periods. | 
+| [Licensing FAQ](/pricing/licensing-faq/) | Common questions around purchasing, licensing, billing, contacting sales, and more | 
+| [Finance and Legal Authorization Matrix](/handbook/finance/authorization-matrix/) | | 
+| [Trade Compliance](/handbook/legal/trade-compliance/) | |
+| [Billing, invoice and payment requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html) | Zuora contact change, Zuora entity change and effects on SM/SaaS subscriptions, cancellations, downgrades, refunds, invoices, payments, credit card removals, renewal reversals, split payment requests | 
+| [Troubleshooting: True Ups, licenses + EULAs](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/) | |
+| [Quote-to-Cash systems documentation (EntApps)](/handbook/business-technology/enterprise-applications/quote-to-cash/) | Overview of systems, EntApps Architecture, Process Flow Diagrams, Entity Relationship Diagrams | 
+| [Quote-to-Cash process](/handbook/business-technology/enterprise-applications/quote-to-cash/#quote-to-cash-introduction) | EntApps documentation including systems and process diagrams. |
 
 ## Helpful data links
 
