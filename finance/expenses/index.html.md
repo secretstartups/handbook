@@ -296,7 +296,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6071 - Team Building</td>
     <td class="tg-0pky">5071 - Team Building COGS</td>
     <td class="tg-0pky">Team events &amp; meals</td>
-    <td class="tg-0pky">$50 a quarter.</td>
+    <td class="tg-0pky">Please refer to the <a href="https://about.gitlab.com/handbook/finance/expenses/#team-building-budget"><span style="color:#905">Team Building Budget</span></a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Train</td>
@@ -410,6 +410,7 @@ Please refer to our [Incentives at Gitlab Handbook Page](/handbook/incentives/#g
 This policy applies to all GitLab team members registering, or maintaining a registration for, GitLab-related Domain Names, including GitLab-related Domain Names registered or used for sandbox or testing purposes.
 
 Domain names are key assets in GitLab's intellectual property portfolio. Centralizing the registration and maintainance of domain names under the Infrastructure Shared Services group using GitLab's approved domain name registrar helps us track and protect these valuable assets.
+Please refer to the <a href="https://about.gitlab.com/handbook/it/guides/domains-dns/"><span style="color:#905">Domain Names and DNS Records Handbook Page</span></a>
 
 "**GitLab-related Domain Names**" when used in this policy means any domain name:
    - registered or used for any purpose related to a team member's role at GitLab;
