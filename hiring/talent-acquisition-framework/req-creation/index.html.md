@@ -131,7 +131,7 @@ Scroll to the bottom of the page and click `Request Approval`.
    - `Application Language` should always be `English`.
    - `Pay transparency rules` should always be `N/A`, because we do not post salary ranges on internal positions.
    - `Description` should be the copy/pasted from the job family on GitLab.com with the relevant information for the level/specialty/etc.
-1. If there is not a job description listed, copy the [Job Description Template](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#) for Internal Job Posting, or select the Test Support - DO NOT REPORT internal post in Greenhouse and paste it into the job description section. Work with your hiring manager to ensure alignment on the finalized job post. 
+1. If there is not a job description listed, copy the [Job Description Template](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#) for Internal Job Posting, or search and select the Test Support - DO NOT REPORT internal post in Greenhouse and copy and paste it into the job description section. Work with your hiring manager to ensure alignment on the finalized job post. 
 1. If there are any links in the description, click on the link, then click the link icon in the text box toolbar, then change `Target` to `New Window`, then click `Ok` and repeat for any other links in the description; this will ensure all links work properly.
 1. For the Custom Application Questions, ensure the following questions are included:
    - LinkedIn Profile
@@ -161,12 +161,13 @@ Review how to make a referral: /handbook/hiring/referral-process/
 1. Create or update the `Job Post` under `Job Setup`, which will hold the opening description. Next to the name of the opening, click the pencil icon to edit the job post.
    - `Post To` should always be `GitLab`.
    - `Pay Transparency Rules` will help you post salary ranges to your job description, if applicable. If your job will be posted to locations `Remote, Americas`, `Remote`, or `Remote, US` (any positions posted in the US), you should select `Hiring in the USA`. If this job will not be posted in the US, select `N/A`.
-1. If there is not a job description listed, copy the [Job Description Template](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#) for External Job Posting, or select the Test Support - DO NOT REPORT external post in Greenhouse as a template and paste it into the job description section. Work with your hiring manager to ensure alignment on the finalized job post. 
+1. If there is not a job description listed, copy the [Job Description Template](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#) for External Job Posting, or search and select the Test Support - DO NOT REPORT external post in Greenhouse as a template and copy and paste it into the job description section. Work with your hiring manager to ensure alignment on the finalized job post. 
 1. Ensure the posted job title is aligned with the details outlined on [Slide 10 in the Job Description Rebuild deck](https://docs.google.com/presentation/d/16bqHv6y4o2IIcFo2x6TNvYbK-4jchChASR9byQNdi20/edit#slide=id.g229bf74aa96_0_0).
 1. If there is already a job description listed, check to see if the [External Job Description Template](https://docs.google.com/document/d/1i0P4kUqxLrRCBmf7n9e1qBgB3P4pZhfQziYp7cMIKe0/edit#) has been applied and that no salary information is in the job description. Instead, you'll address salary in the step below.
 1. If the `Pay Transparency` section is visible, add the CO/WA and CA/NY/NJ salary ranges that you see on the Approvals page.
 1. Once your job description is finalized, please copy and add it to the [Job Description Repository](https://drive.google.com/drive/folders/1qzuH4ol8PxIGrf11L13euI8KTzanqtKi) by creating a new Google Document, pasting your description there and titling it Job Title_Department_Date.
-1. All external job posts should ask the following custom application questions, which should be part of your job template:
+1. All external job posts should have resume required in the basic application questions.
+1. All external job posts should ask the following custom application questions by default. If further custom questions are desired, discuss this during the kickoff call with your hiring manager:
    - Please choose the country in which you are located.
    - What's the name you'd prefer us to use throughout the interview process?
    - Will you now or in the future require sponsorship for a visa to remain at your current location?
