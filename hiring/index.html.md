@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Hiring"
+title: "Hiring & Talent Acquisition Handbook"
 description: "Landing page for many of the handbook pages the talent acquisition team at GitLab uses."
 ---
 
