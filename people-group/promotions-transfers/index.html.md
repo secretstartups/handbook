@@ -27,78 +27,100 @@ This page captures information about transfers, promotions, realignments and car
 
 # Promotions
 
+
 # Promotion Philosophy
 
-Our promotion philosophy comprises core pillars surrounding the approach and process alignment to our values. 
+
+Our promotion philosophy comprises core pillars surrounding the approach and process alignment to our values.
+
 
 ### Pillars
 
- - Promotions are based on performance, not on growth potential. If being considered for an in-line promotion, Team members should already be executing at the next level ([job grade](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)) prior to promotion.
- - Career growth should be a partnership between team member and manager. As a manager, it is important to create space to regularly discuss your team members' development and career aspirations, and identify opportunities to support them in their advancement and growth. 
+
+- Promotions are based on performance, not on growth potential. If being considered for an in-line promotion, Team members should already be executing at the next level [job frameworks level](https://docs.google.com/document/d/1TQZEWMRKmiD1ghWBCG0AoWe9W6DMldNmJetmgts1JzM/edit#)) prior to promotion.
+- Career growth should be a partnership between team member and manager. As a manager, it is important to create space to regularly discuss your team members' development and career aspirations, and identify opportunities to support them in their advancement and growth.
 - When reviewing a proposed promotion, we consider: 1) readiness of the individual, and 2) business justification/opportunity.
 - All in-line promotions at GitLab require a [promotion document](https://docs.google.com/document/d/1nDkYGK2yhe8pD-lnMGmEF-Cf0IlGgVOznjXMq9FxGiQ/edit?usp=sharing). We believe in [transparency](https://about.gitlab.com/handbook/values/#transparency) within the promotion process.
 - We encourage team members to live our [efficiency value](https://about.gitlab.com/handbook/values/#efficiency), be a [manager of one](https://about.gitlab.com/handbook/values/#managers-of-one), and take ownership of their promotion document in partnership with their manager.
-- We calibrate in-line promotions on a quarterly basis to ensure an equitable review, and through this process track metrics that help us understand if our promotions are occurring at a healthy and fair rate. 
+- We calibrate planned promotions on a bi-annual basis to ensure an equitable review, and through this process track metrics that help us understand if our promotions are occurring at a healthy and fair rate.
 
-### Values Alignment 
+
+### Values Alignment
+
 
 Our promotion philosophy is also aligned with our [values](/handbook/values/):
 
-- **Collaboration**: Cross-functional lens for feedback and calibration 
+
+- **Collaboration**: Cross-functional lens for feedback and calibration
 - **Results**: Business justification, scope, and team member results are demonstrated and documented to support promotions
-- **Efficiency**: Consistency and scalability in our processes
+- **Efficiency**: Consistency and scalability in our promotion processes by bi-annual planning and calibration. The planning and calibration timing considers existing programs and cycles for the business and aims to embed promotions into cadences where they best align for efficiency.
 - **Diversity, Inclusion, and Belonging**: Fairness and equity reflected through a consistent approach and documentation to promotions at all levels in the organization and supported by our [job frameworks](/company/team/structure/) and Total Rewards [URG](/handbook/total-rewards/compensation/compensation-review-cycle/review-cycle-inputs/#underrepresented-group-audit) audit
-- **Iteration**: Process is improved each cycle. In FY23, we moved to quarterly promotions with calibration and updated our processes and metrics accordingly.
+- **Iteration**: Process is improved each cycle. In FY23, we moved to quarterly promotions with calibration and updated our processes and metrics accordingly. In FY24, we moved to a bi-annual promotion cadence to ensure efficiency and scalability in our process as the business continues to grow.
 - **Transparency**: Clarity and efficacy of promotion metrics, budget, and guidelines, in addition to transparency in promotion justification through internally public promotion documents.
+
+
+
 
 ### Processing a Promotion
 
-Most promotions are processed through our Quarterly Promotion Calibrations, with exceptions going through Greenhouse or Workday depending on whether or not the individual interviews and accepts a position filling an approved headcount. More info on these 3 methods for processing a promotion below.
 
-## Quarterly Promotion Calibration Process & Timeline
+Most promotions are processed through our Bi-Annual Promotion Calibrations, with exceptions going through Greenhouse or Workday depending on whether or not the individual interviews and accepts a position filling an approved headcount. More info on these 3 methods for processing a promotion below.
 
-At GitLab, we promote on a quarterly basis. This means that there is **one effective date per quarter when team members can be promoted**. There are three core stages to the promotion process: Planning, Calibration, and Processing. 
+
+## Bi-Annual Promotion Calibration Process & Timeline
+
+
+At GitLab, we promote on a bi-annual basis. This means that there is **one effective date every 6 months when team members can be promoted**. We process promotions in Q1 (effective date February 1st) and Q3 (effective date August 1st). There are three core stages to the promotion process: Planning, Calibration, and Processing.
+
 
 | Stage | Purpose |
 | ---------- | ----- |
 | [Planning](/handbook/people-group/promotions-transfers/#planning) | Managers and leaders to review their respective teams to determine promotion readiness, business need, and timeline for the upcoming quarters and project promotions. |
-| [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a quarterly basis. This is an opportunity to create visibility and ensure consistency in who we are promoting and why. |
-| [Processing](/handbook/people-group/promotions-transfers/#process-for-managers-requesting-a-promotion) | The final stage once promotions are defined, is to determine where to process the promotion to finalize (this will take place via Workday or Greenhouse). 
+| [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a bi-annual basis. This is an opportunity to create visibility and ensure consistency in who we are promoting and why. |
+| [Processing](/handbook/people-group/promotions-transfers/#process-for-managers-requesting-a-promotion) | The final stage once promotions are defined, is to determine where to process the promotion to finalize (this will take place via Workday or Greenhouse).
 
-**Managers do not need to submit promotions that are part of the quarterly calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Connect team following calibration and Division leader approval.** Below is the timeline for FY24: 
 
-- FY24-Q1: Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline) 
-  - Planning: December 20 to January 6
-  - Calibrations: January 9 to January 20
-  - Processing: January 23 to February 1 (Promotions must be added to Workday by January 20)
-     - Effective date for promotions: 2023-02-01. 
-     - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
-     
-- FY24-Q2: 
-  - Planning: March 15 to April 1
-  - Calibrations: April 1 to April 15
-  - Processing: April 15 to May 1 (promotions must be added to Workday by April 20)
-     - Effective date for promotions: 2023-05-01. 
-     - Communication: After fully approved in either Greenhouse or Workday
-     - After communicating 1:1 with individuals **on or after 2023-04-24**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
+**Managers do not need to submit promotions that are part of the bi-annual calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Connect team following calibration and Division leader approval.** Below is the timeline for FY24:
 
-- FY24-Q3: _Tentative_
- - Planning: June 12 to June 23
- - Calibrations: June 26 to July 14
- - Processing: July 17 to August 1 ((promotions must be added to HRIS by July 20))
-     - Effective date for promotions: 2023-08-01. 
-     - Communication: After fully approved in either Greenhouse or Workday
-     - After communicating 1:1 with individuals **on or after 2023-08-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
 
-- FY24-Q4: _Tentative_
-  - Planning: September 15 to September 30
-  - Calibrations: October 3 to October 14 
-  - Processing: October 17 to November 1 (promotions must be added to Workday by October 20)
-     - Effective date for promotions: 2023-11-01. 
-     - Communication: After fully approved in either Greenhouse or Workday
-     - After communicating 1:1 with individuals **on or after 2023-11-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
+**Previously, we promoted on a quarterly basis, but transitioned to bi-annual to ensure efficiency and scalability of our promotion process. We will move to our bi-annual cadence effective in Q3 FY'24, meaning that Q2 FY'24 will be our last quarterly promotion cycle.**
 
-_Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated at the [quarterly E-group offsite](https://about.gitlab.com/company/offsite/#schedule)._
+
+- FY24-Q1: _Completed_ Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline)
+ - Planning: December 20 to January 6
+ - Calibrations: January 9 to January 20
+ - Processing: January 23 to February 1 (Promotions must be added to Workday by January 20)
+    - Effective date for promotions: 2023-02-01.
+    - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
+   
+- FY24-Q2: _Completed_ 
+ - Planning: March 15 to April 1
+ - Calibrations: April 1 to April 15
+ - Processing: April 15 to May 1 (promotions must be added to Workday by April 20)
+    - Effective date for promotions: 2023-05-01.
+    - Communication: After fully approved in either Greenhouse or Workday
+    - After communicating 1:1 with individuals **on or after 2023-04-24**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
+
+
+- FY24-Q3: 
+- Planning: June 12 to June 23
+- Calibrations: June 26 to July 14
+- Processing: July 17 to August 1 ((promotions must be added to HRIS by July 20))
+    - Effective date for promotions: 2023-08-01.
+    - Communication: After fully approved in either Greenhouse or Workday
+    - After communicating 1:1 with individuals **on or after 2023-08-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
+
+
+- FY25-Q1: Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline)
+ - Planning: December 18 to January 5
+ - Calibrations: January 8 to January 19
+ - Processing: January 22 to February 1 (Promotions must be added to Workday by January 19)
+    - Effective date for promotions: 2024-02-01.
+    - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
+
+
+_Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated bi-annually at the [E-group offsite](https://about.gitlab.com/company/offsite/#schedule)._
+
 
 
 ## Planning
