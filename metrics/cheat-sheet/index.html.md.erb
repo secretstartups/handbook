@@ -31,11 +31,14 @@ A cheat sheet that Engineering Analysts can use to refer back to dashboards that
 | --------------        | -----------                    | ----------- |
 | workspace_engineering | engineering_merge_requests     | This table is fitered down to all merge requests that directly affect our product.          | 
 | workspace_engineering | engineering_issues             | This table is fitered down to all issues that directly affect our product.         | 
-| legacy                | gitlab_dotcom_notes_xf         | Shows MR/issue history including comments, commits, merges, assignments, etc. Most of what you find in the history section of an MR or issue will likely be captured in this table.         | 
+| workspace_engineering | internal_issues_enhanced       | Similar to `engineering_issues`, except it does not filter for only part of product issues |
+| workspace_engineering | internal_issues                | Base for `workspace_engineering.engineering_issues`. We use this table to build other issue DBT models.|
+| workspace_engineering | internal_merge_requests        | Base for `workspace_engineering.engineering_merge_requests`. We use this table to build other issue DBT models.|
+| workspace_engineering | internal_notes                 | Shows MR/issue history including comments, commits, merges, assignments, etc. Most of what you find in the history section of an MR or issue will likely be captured in this table.         | 
+| workspace_engineering | issues_history                 | Daily snapshot of issue. We use this for past due metrics. |
+| workspace_engineering | merge_request_rate             | This DBT model filters for MR rate by group and department. |
 | legacy                | employee_directory_analysis    | To explore employee job data such as titles, start date, job title specialities, department, etc. |
-| legacy                | gitlab_dotcom_users_xf         | Table of all GitLab users including data such as user names. We use the email field in this table to map team members back to GitLab data |
-
-**Note: We will de migrating away from legacy tables soon and these tables will be updated.**
+| legacy                | gitlab_dotcom_users_xf         | Table of all GitLab users including data such as user names. We use the email field in this table to map team members back to GitLab data. |
 
 ## Dashboards that our team owns
 
