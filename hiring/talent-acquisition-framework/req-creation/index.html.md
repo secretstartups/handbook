@@ -12,13 +12,39 @@ description: "The Talent Acquisition Process Framework for Creating REQs provide
 
 ## Requisition Creation Process
 
-Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth). The Hiring manager will then notify their [Recruiter](/handbook/hiring/recruiting-alignment/). The information they should be prepared to share with their Recruiter is as follows:
+Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth). 
+
+### Creation and Approval
+There are three creation types for new requisitions: Annual Planned Headcount, [Rolling List of Ask (RLoA)](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) Incremental Headcount and Backfills. Annual Planned Headcount is released at the beginning of each fiscal year. RLoA Incremental Headcount is released each quarter for the following quarter (ie: Q2 cycle will release Q3 headcount). Backfills are opened with attrition throughout the year. 
+How is headcount communicated:
+1. Annual Planned headcount: Communicated by FP+A partners to TA, PBPs and business leadership at the beginning of each fiscal year.  
+1. RLoA headcount: Communicated by FP+A partners to TA, PBPs and business leadership at the beginning of each fiscal quarter. 
+1. Backfills: Upon a resignation, hiring managers are to submit official notice to Workday. 
+
+Once the annual/RLoA headcount plan has been communicated by finance the Talent Acquisition leadership will allocate a recruiter to the role. The recruiter is the main driver for moving the hiring process forward at a reasonable pace and will partner with the hiring manager on creating the requisition.   
+
+For annual planned headcount and RLoA headcount, once a role has been funded and communicated to the business by FP+A, a hiring manager should be prepared to discuss the following with their Recruiter:
 
 - Job Title
 - Office or Territory
 - GitLab Hiring Plan ID (if a role for R&D)
 - Job Family URL
 - Employment Type (New Hire or Backfill. If a backfill, the name of the teammate and last day of employment)
+
+Then proceed to [‘Create or Review the Job Family’](https://about.gitlab.com/handbook/hiring/job-families/) step. 
+
+#### Backfill Approvals
+Backfills require a needed approval process prior to moving to the next step of the process. 
+In order to open a backfill: 
+1. Manager of departing team member enters attrition in Workday. [off-boarding process]( https://about.gitlab.com/handbook/people-group/offboarding/). 
+1. Talent Acquisition Leadership is notified via automated reporting once attrition is entered into the system. 
+1. Leadership allocates the role to appropriate recruiter.
+1. Recruiter creates a backfill issue that informs: FP+A, PBP, VP, (+Sales Strategy for Sales roles) via the appropriate backfill template in [department] headcount project.
+1. Recruiter works through backfill issue with the business and PBP to drive towards backfill approval: role is to be direct backfill, repurposed within a team or organization. Recruiters to ensure documentation in issue for each decision made. 
+*For Sales roles only*: Once the backfill issue is created, TA leadership posts in Sales Leadership channel for approval from the VP of the department. Once approval is recieved, TA leader is to document approval in backfill issue for future reference. For templates, GitLab team members can utilize [this link](https://docs.google.com/document/d/19LjNhyNhcqmBMHoaGbjPvUfjWQk0wR9w8iowPlgdfkU/edit)
+*For roles being repurposed*: the business leader owns communication to the team to discuss rationale and drive clarity. PBP/Strategy team partners on reallocation decision. 
+1. Once the role is approved/decision has been reached and all has been documented in the issue, the recruiter can create a position in Greenhouse for approval and move to the next step of the process. 
+
 
 For the Product and Engineering backfill or transfer process, see this [handbook page](https://about.gitlab.com/handbook/engineering/#rd-backfill--transfer-process). 
 
