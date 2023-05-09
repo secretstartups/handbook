@@ -541,19 +541,24 @@ If you no longer wish to have another team member book or manage travel on your 
 **Navan mobile app**
 
 1. Navigate to the `Profile` tab on your mobile app.
-2. Select `Expense settings`.
-3. Tap `Switch users` and use the search bar to type in the name of the user you would like to submit/manage an expense for. This will impersonate the user within the app and you will see a banner indicating you are `Logged in as [user name]`. 
-4. When you are ready to switch back to your profile, tap `Profile` and select your name.
+1. Select `Expense settings`.
+1. Tap `Switch users` and use the search bar to type in the name of the user you would like to submit/manage an expense for. This will impersonate the user within the app and you will see a banner indicating you are `Logged in as [user name]`. 
+1. When you are ready to switch back to your profile, tap `Profile` and select your name.
 
 **Navan Expense web app**
 
 1. Click `Log in as` (person icon) from the homepage of your Navan account.
-2. Use the search bar to type in the name of the user you would like to submit/manage an expense for. This will impersonate the user within Navan and you will see a banner indicating `You are currently logged in as [user name]`. 
-3. Once you are logged in as the user, click `Access your expenses` and select `Add transaction`.
-4. Select `Upload receipt` or `Type in details` and follow the prompts to submit the transaction.
-5. Click `End session` from the top banner to return to your profile.
-6. Users you have recently logged in as will appear as small contact icons along the right side of your search page, allowing you to easily toggle between your profile and other users.
+1. Use the search bar to type in the name of the user you would like to submit/manage an expense for. This will impersonate the user within Navan and you will see a banner indicating `You are currently logged in as [user name]`. 
+1. Once you are logged in as the user, click `Access your expenses` and select `Add transaction`.
+1. Select `Upload receipt` or `Type in details` and follow the prompts to submit the transaction.
+1. Click `End session` from the top banner to return to your profile.
+1. Users you have recently logged in as will appear as small contact icons along the right side of your search page, allowing you to easily toggle between your profile and other users.
    - _Note: Transactions submitted on behalf of others will follow that user's assigned policy (expense allotment). To review the user's expense allotment, navigate to the Policy tab on the mobile app while you are logged in as them._
+
+#### Reviewing transactions on behalf of another user
+
+1. Repeat the [steps as outlined](#submitting-a-manual-expense-for-another-user) to log in as a different user.  Note that they'll need to [delegate you with access to their account](#designating-delegate-access-to-another-team-member) first.
+1. You will then be able to review any transactions submitted, including their teams' transactions if that user is a manager.
 
 #### Managing transactions for another user
 
