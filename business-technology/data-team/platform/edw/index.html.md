@@ -169,7 +169,11 @@ It is critical to be intentional when organizing a self-service data environment
 
 - **All dimensions must have a missing member value:**
     - An example of this is in [prep_order_type](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_order_type#code). We used the `MD5('-1')` to generate the `dim_order_type_id` value for missing member. As of June 2022, the `dbt_utils.surrogate_key` will be used to generate the value for missing member key. It returns the same value as the `MD5('-1')` and it will be easier to keep the same function that is used to generate the main surrogate key in the dimension. `'Missing order_type_name' AS order_type_name` and `'Missing order_type_grouped' AS order_type_grouped` are added as the values that would be returned when a join is made to the dimension and there is a missing member.
-    - Coming soon...We are developing a macro that can be used to generate the `missing member` value automagically in the dimension. The current process is to add the `missing member` entry manually to the dimension pursuant to the [prep_order_type](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_order_type#code) example. When there are many fields in the dimension, `missing member` values should be added for each field. [prep_amendment](https://gitlab-data.gitlab.io/analytics/#!/model/model.gitlab_snowflake.prep_amendment#code) is an example of this. The macro under development will aim to automate the generate of these `missing member` entries. 
+    - We have developed a [macro](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/macros/utils/missing_member_column.sql) that can be used to generate the `missing member` value automagically in the dimension. The macro will generate the missing member record as follows:
+        - **primary key**: returns `MD5('-1')` for the primary key supplied
+        - **referential integrity columns**: returns `MD5('-1')` for the columns supplied so referential integrity tests do not fail
+        - **not null test columns: return**s `0` so `not_null` tests do not fail for any column type (text, boolean, numeric) 
+        - Values for the remaining fields are automatically filled in with default values based on the field's data type
 
 ##### Keys for Fact Tables
 
