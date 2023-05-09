@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
-title: Troubleshooting license upload errors
-description: "How to troubleshoot GitLab license uploading errors"
+title: Troubleshooting and categorising license activation errors
+description: "How to troubleshoot and categorise GitLab license activation errors"
 category: GitLab Self-Managed licenses
 ---
 
@@ -48,3 +48,33 @@ You can use the Zendesk [`Subscriptions::Active Users`](https://gitlab.com/searc
   - During the subscription term, has 12 active users, including 2 guest users
   - At renewal, customer downgrades to Premium license
   - License must be generated as: `Users count: 12` (or more), `Previous users count: 10`, `Trueup count: 0`
+
+
+## Workflow for setting the correct Zendesk Form Fields to track license activation failures
+
+As detailed in the issue [Create a process which provides the means of identifying the number of customers who are not able to activate their instance due to overage enforcement?](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4959) the Zendesk L&R Form fields have been modified to allow support engineers to categorize tickets where a customer has been unable to activate their license using either a license file or an activation code.
+
+In such scenarios the L&R Support Engineers should follow the workflow below to categorize the ticket appropriately.
+
+### 1. Field: L&R - Category
+- Set to `Self-managed license related matters`
+
+### 2. Field: L&R - SM Subcategory
+- Set to `I am getting errors applying my license or activation code`
+
+### 3. Field: Transactions Issue Type
+- If the customer used a license file, then set to `License troubleshooting (SM only)`
+- If the customer used an activation code, then set to `Cloud Licensing (SM only)` 
+
+### 4. Field: `L&R: License troubleshooting`
+
+*This field is kept hidden until step 3 is complete.*
+
+Select the most appropriate option to describe the problem the customer encountered:
+
+* `Customer issue`
+* `Multiple unique subscriptions`
+* `Multi-year license conflict (formerly named "Multi-year license")`
+* `New license activation bug`
+* `Transition legacy to cloud`
+
