@@ -97,9 +97,9 @@ Find us on Slack at #customer-advocacy-and-references.
 
   Visit our Customer Advocacy spot on HighSpot to find all of our existing customer story content and filter based on industry, use case, region, and more! Here you can create a “pitch” and share out your content of choice directly from the platform.
 
-  [**Website**](https://about.gitlab.com/customers/)
+  [**Website**](/customers/)
   
-  Visit about.gitlab.com/customers to find our external customer stories page.
+  Visit [about.gitlab.com/customers](/customers/) to find our external customer stories page.
 
 **Other Links**
 
