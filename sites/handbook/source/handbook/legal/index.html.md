@@ -93,6 +93,7 @@ The Risk Management and Dispute Resolution team addresses dispute resolution acr
 * [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
 * [Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/)
 * [Whistleblower Policy](https://drive.google.com/drive/folders/1kB3k5FRnR3OUBP0Eyo3SxxyPKeiRFfUk)*
+* [Public Sector Code of Ethics](https://docs.google.com/document/d/11EVWDUMnXNSVhhcfrHpnVTjsDICXjlFY/edit)
 
 *Only available to GitLab Team Members.
 
