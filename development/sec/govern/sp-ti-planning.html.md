@@ -103,6 +103,8 @@ The goal of the refinement process is to ensure an issue is ready to be worked o
 1. Determine if [a feature flag is needed](https://docs.gitlab.com/ee/development/feature_flags/process.html#when-to-use-feature-flags).
    * If you think that we should use the feature flag for a given issue, add ~"feature flag" label
      and add in the description a section called **Feature Flag** with the proposed name.
+   * Create a [feature flag rollout](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20Flag%20Roll%20Out) issue to track the multiple stages of releasing with a feature flag.
+   * Consider creating a [feature flag clean up](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20Flag%20Cleanup) issue if the removal of the feature flag will occur in a subsequent milestone. 
 1. Encourage Community Contributions.
    * If the scope of the issue is well defined and there are no dependencies, consider adding
      [contribution Labels](/handbook/marketing/community-relations/contributor-success/community-contributors-workflows.html#labels).
