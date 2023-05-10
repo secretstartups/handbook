@@ -18,12 +18,6 @@ description: "Customer Account Scoring overview and methodology framework to imp
 
 The Customer Health Score assists GitLab Account Teams to understand the relative health of customers to guide through expansion, retention, and churn through understanding the customer's product adoption, risks, and engagement with GitLab.
 
-## Responsibilities
-
-The CSM is responsible for coordinating with all relevant parties to develop a plan to address the risks. Typically, this will involve the account team and communication group (above), as well as other resources such as Product Managers, marketing, executive or engineering resources meeting to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for regular updates to the triage issue. When the risks have been addressed bringing the customer to a healthy / green status, the triage issue can be closed.
-
-
-<br>
 
 ## Scoring methodologies
 
@@ -96,6 +90,8 @@ The customer's business performance is materially impacted and declining. The co
 
 ## Health assessment guidelines
 
+See [Customer Health Assessment and Management](/handbook/customer-success/csm/health-score-triage/#tracking-customer-health) for details on how and when a CSM tracks a customer's health, including when an account should be set to Yellow, Red, or Will Churn.
+
 The items below serve as *guidelines* for the CSM to assess and record customer health and should consider where the customer is their lifecycle journey. Account health feeds into [open renewal opportunities](/handbook/customer-success/csm/renewals/#tracking-renewal-opportunity-health-and-risks).
 
 Understanding how Gainsight calculates a measure score to be Red, Yellow, or Green: 
@@ -122,90 +118,7 @@ To view Timeline entires where the CSM Sentiment was updated:
 1. Filter by Sentiment = Green, Yellow, or Red
 1. Apply any other specific filters (CSM Name, Timeline date, etc)
 
-### Green
-
-Customer is very likely to renew and/or expand with no known or assumed risk of downsell or churn. Customer's experience: engagement, adoption and experiences are as expected or better than expected, delivering value and outcomes as appropriate the customer's stage in their journey. Examples:
-
-- Progressive adoption of GitLab use cases as defined by their success plan, considering their stage in their journey
-- Alignment with stakeholders who can drive desired outcomes
-- Regular communication and engagement in meetings
-- Positive feedback on the product and experience and/or high scores on NPS surveys
-- Leveraging support services as defined by creation of tickets (1-5 tickets per month)
-- Interest in providing feedback and engaging with GitLab through other programs and events (e.g., Commit, CAB)
-
-### Yellow & Yellow "Needs Triage"
-
-Potential risk or significant lack of information leading to uncertainty. Indicates challenges to overcome, with a lower risk of churn or downsell. Customer's experience: engagement, adoption and/or experiences are lower than expected, risking GitLab's ability to deliver customer value and outcomes and/or drive future revenue growth. Examples:
-
-- Slow, delayed, or blocked adoption of GitLab use cases in support of the customer's success plan
-- Customer lacks definition of goals or success criteria
-- High number of support cases, critical / blocker product issue(s), or poor experience based on the customer's expectations
-- Lack of engagement, responsiveness or participation in meetings and/or events
-- Loss of sponsor or champion due to change of role or organization or acquisition
-- Lack of adoption of releases (self-managed only) where they are more than a major release behind the current release
-- Not leveraging technical support services or has a large number of cases and/or high severity cases (6-15 tickets per month, or no ticket(s) opened after being advised by the CSM that Support is the best path to resolution for an issue(s))
-- Poor experiences with Support, Professional Services or another part of GitLab
-- Working with a single contact at a company (single-threaded).
-
-There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the CSM decides that corrective actions and follow up from team members outside of the CSM group is required the CSM must follow the [At-Risk Customer Process](/handbook/customer-success/csm/renewals/#at-risk-process) and flag the account as Yellow "Requires Triage".
-
-### Red
-
-Specific, known risks to account retention or upcoming opportunity, or overwhelming lack of information, such as unresponsiveness leading up to renewal. Customer's experience: engagement, adoption and/or experiences are significantly lower than expected where issues are blocking GitLab's ability to deliver expected value, outcomes, or positive experiences as defined by the customer.
-Examples:
-
-- Lack of alignment with stakeholders who can drive outcomes... 
-   - [Economic Buyer](https://about.gitlab.com/handbook/sales/meddppicc/#economic-buyer) 
-   - [Champion](https://about.gitlab.com/handbook/sales/meddppicc/#champion)
-   - Key [Personas](https://about.gitlab.com/handbook/product/personas/) 
-      - [Cameron (Compliance Manager)](https://about.gitlab.com/handbook/product/personas/#cameron-compliance-manager)
-      - [Delaney (Development Team Lead)](https://about.gitlab.com/handbook/product/personas/#delaney-development-team-lead)
-- Product does not deliver expected value or outcomes as defined by success plan
-- No or low product adoption with no progression
-- Communication of poor sentiment
-- Lack of any engagement
-- Significantly poor experiences with Support or Professional Services
-- Significant number of support tickets (16+ per month)
-
-### Will Churn (Grey)
-
-Very rarely, a customer reaches a point at which it is accepted by the account team and leadership that a customer will churn. As Gainsight does not support a 'grey' color (or any color outside of the standard green to red health scoring), the `will churn` lifecycle stage can be applied in 360º Attributes.  Applying this stage will remove the customer from health scoring reporting, so that at-risk reviews are spent productively.
-
-In order for a customer to move to the `will churn` stage, the following must be completed:
-
-- [ ] All options discussed in the triage issue and in at-risk reviews have been exhausted
-- [ ] CSM discusses it with their manager and gets agreement on moving to `will churn`
-- [ ] CSM opens a `Will Churn` issue ([`Will Churn` issue template](https://gitlab.com/gitlab-com/customer-success/account-triage/-/issues/new?issuable_template=Will%20Churn%20-%20ENT))
-- [ ] CSM links from the triage issue to the newly created `Will Churn` issue and closes the triage issue
-- [ ] Listed personas in the `Will Churn` issue provide feedback and approval
-- [ ] SAL/AE marks the opportunity as `Will Churn`
-- [ ] CSM updates the Lifecycle Stage in Gainsight C360 > Attributes > Lifecycle Stage to `Will Churn`
-
-In line with GitLab's approach to blameless root cause analysis in both [Professional Services](/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html) and [Engineering](/handbook/engineering/root-cause-analysis/), we follow a similar methodology in the form of a retrospective in the `Will Churn` issue to identify learnings from what went well and what didn't, what we could have done better to avoid this churn, and how we can change our approach in order to avoid future churn. This information is important and required to be included the issue in order to provide context to leadership prior to them approving. This retrospective and lessons learned should also be discussed in the next 1:1 between the CSM and their manager, as well as potentially lead to a handbook or process update shared with the broader team.
-
-## Communication guidelines
-
-The following are guidelines on who to notify when an account is yellow or red. This includes the [update frequency for the triage issue](/handbook/customer-success/csm/renewals/index.html.md#update-frequency). Please make sure the following people are notified with the respective customer health ratings.
-
-### Yellow health rating
-
-- Account Team (i.e., Strategic Account Leader or Account Executive, Solution Architect)
-- Regional CSM Manager
-- CSM Director (all non-Public Sector customers) or Director of Customer Success Public Sector (for Public Sector customers)
-
-### Red health rating
-
-- Include the list above as well as…
-- Area Sales Manager and Regional Director
-- Vice President of Customer Success
-
-## Responsibilities
-
-The CSM is responsible for coordinating with all relevant parties to develop a plan to address the risks. Typically, this will involve the account team and communication group (above), as well as other resources such as Product Managers, marketing, executive or engineering resources meeting to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for regular updates to the triage issue. When the risks have been addressed bringing the customer to a healthy / green status, the triage issue can be closed.
-
 ## Gainsight
-
-
 
 ### Gainsight scorecard attributes and calculations
 

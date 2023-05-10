@@ -17,6 +17,8 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 ----
 This page covers the factors to consider for customer health, guidelines for selecting the appropriate rating, communication guidelines, CSM responsibilities and instructions for the account triage issue creation.
 
+See [Customer Health Scoring](/handbook/customer-success/customer-health-scoring) for an overview on how customer health scoring is defined and calculated at GitLab.
+
 ## CSM Responsibilities
 
 The CSM is responsible for coordinating with all relevant parties to develop a plan to address account risks. Typically, this will involve the account team and communication group ([Communication Guidelines](/handbook/customer-success/csm/health-score-triage/#communication-guidelines)), as well as other relevant stakeholders such as Product Managers, marketing, executive, or engineering team members to develop and deliver the plan to address the risks. The CSM then drives execution of the strategy and is responsible for logging regular updates. When the risks have been addressed bringing the customer to a healthy / green status, the account team can agree to move the account out of triage.
@@ -70,7 +72,6 @@ Examples:
 - Lack of any engagement
 - Significantly poor experiences with Support or Professional Services
 - Significant number of support tickets (16+ per month)
-
 
 ### Will Churn
 
@@ -136,7 +137,7 @@ This can then be discussed with the [Account Team](/handbook/customer-success/ac
    1. Monthly [At-Risk Timeline](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) updates
       - Entry should include progress towards risk mitigation over the past month and plans for the upcoming month.
 
-![GitLab At-Risk Customer Process](CSM_At-Risk_Customer_Process.png)
+![GitLab At-Risk Customer Process](/CSM_At-Risk_Customer_Process.png)
 
 ### When to open an Account Escalation
 
@@ -199,95 +200,7 @@ The following are guidelines on who to notify when an account is yellow or red. 
 - Area Sales Manager and Regional Director
 - Vice President of Customer Success
 
-## Gainsight Scoring Definitions
 
-### CSM Sentiment
-
-CSMs update CSM Sentiment in determining overall account health. The guidelines are as follows:
-
-- **CSM Sentiment**: Qualitative measure that the CSM updates to indicate their perceived sentiment of the customer. This should consider all the factors mentioned above and measured by the health assessment (green, yellow, red) criteria
-- **CSM Sentiment Override of Overall Health Score**: When the CSM Sentiment score becomes red, the overall score will automatically become red. Once the CSM Sentiment moves back to a green or yellow score, the standard weighting of measures and groups will be reapplied as usual.
-
-The CSM Sentiment score will be updated each time you [log a Timeline activity](/handbook/customer-success/csm/gainsight/timeline/) and select a value from the CSM Sentiment dropdown. Once you have logged the activity to Timeline, Gainsight will update the value of the CSM Sentiment scorecard measure and display the notes from the Timeline activity on the scorecard. The rule that sets the scorecard value runs every 2 hours.
-
-There are a number of [enablement videos](/handbook/customer-success/csm/gainsight/#videos) you can watch to learn how to update customer health assessment and log activities that affect that assessment.
-
-#### Clearing Stale Health Measures
-
-**Product**
-If usage data stops being received into Gainsight, the health measures will move to "NA" after 60 days. This is to prevent analysis and actions based on outdated data. In this case, we prefer to show nothing ("NA") over outdated data.
-
-**CSM Sentiment**
-`CSM Sentiment` health scores become stale after 90 days of not being updated; this will be reflected on your health score dashboard by an exclamation point next to the score. If an account is marked as stale, but you've updated the `CSM Sentiment` within 90 days, please reach out in [gainsight-users](https://gitlab.slack.com/archives/C011ACG9MJB). Accounts with a stale `CSM Sentiment` will also be monitored via the CSM Burn-Down Dashboard in Gainsight and discussed in account planning meetings. Sentiment scores will be set to NA if they have not been updated in more than 120 days to remove outdated values.
-
-**Support Measures**
-Support measures are considered stale if they have not been updated in more than 30 days. They will be automatically set to NA after 30 days without an update.
-
-
-#### Gainsight Scorecard Attributes and Calculations
-
-Health score criteria is either manually or automatically applied to determine the overall measure. If an individual measure is missing, the weighting is redistributed to the completed measures.
-
-* Except for CSM Sentiment, all health measures will typically be NULL for the first 30 days of the customer's onboarding due to insufficient stats and inaccurate results, such as Engagement.
-* In instances where a measure is N/A, the percentage weighting will be redistributed to the other health measures.
-   * Example 1: If all product usage stats are missing, then it's entirely reallocated to the other measures (Engagement, ROI, CSM Sentiment...). Heavier weighter measures, such as CSM Sentiment, would receive a bigger allocation because it's already the largest.
-   * Example 2: If we're receiving Product Usage Statistics but Continuous Delivery (CD) is NULL, that will be reallocated among Product Usage stats measures. So CI health would go from, say, 5% to 7%.
-
-
-| Group (PROVE) | Measure | Description | Method | Calculation | Measure Weight | Group Weighting | Segmentation |
-|---|---|---|---|---|---|---|---|
-| **Product** |  | Scores the customer based on their depth and breadth of adoption, if Operational Metrics are available | Automatic | [See Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) |  | 50% |  |
-|  | License utilization |  |  |  | 30% |  | All |
-|  | User Engagement |  |  |  | 10% |  | All |
-|  | SCM adoption |  |  |  | 15% |  | All |
-|  | CI adoption |  |  |  | 15% |  | All |
-|  | DevSecOps adoption |  |  |  | 15% |  | All |
-|  | CD adoption |  |  |  | 15% |  | All |
-| **Risk** | [CSM sentiment](/handbook/customer-success/csm/health-score-triage/#gainsight) | Qualitative measure the CSM updates to indicate their perceived sentiment of the customer | Manual/Automatic | For all `CSM-owned` accounts, CSM manually determines red/yellow/green | 100% | 25% | N/A for Tech Touch |
-| **Outcomes** | ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | For All `CSM Prioritization = 1` accounts AND all CSM-owned accounts that have an open Success Plan:<br>- Green: Active Success Plan with 1 or more objectives and no Strategy/Highlight information<br>- Yellow: Draft Success Plan OR Active Success Plan with 1 or more objectives and no Strategy/Highlight information<br>- Red: No Success Plan or no objectives | 100% | 10% | N/A for Scale and Tech Touch |
-| **Voice of the customer** |  |  |  |  |  | 5% |  |
-|  | Support issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month<br>- Yellow: 5-15 tickets/month<br>- Red: More than 15 tickets/month | 100% |  | All |
-|  | Support emergency tickets | Based on the number of open/closed tickets.<br>**Priority**: urgent tickets | Automatic | - Yellow: 1+ closed emergency ticket in the last 7 days<br>- Red: 1+ open emergency ticket | 0% |  | All |
-| **Engagement** |  |  |  |  |  | 10% |  |
-|  | Meeting cadence | Based on recency of last call or meeting with the customer | Automatic | For `CSM Prioritization = 1` accounts:<br>- Green: <= 35 days<br><br>- Yellow: > 35 days and <= 60 days<br><br>- Red: > 60 days<br><br><br>For `CSM Prioritization = 2` accounts:<br>- Green: <= 65 days<br><br>- Yellow: > 65 days and <= 90 days<br><br>- Red: > 90 days | 50% |  | N/A for Scale and Tech Touch |
-|  | **Persona engagement** | Are we meeting with the correct personas in the account? | Automatic | Persona Engagement is based on the roles of External Attendees added on timeline entries<br>- Green: both Dev Lead and Security Lead are listed as external attendees on a timeline entry in the past three months<br>- Yellow: one of the two personas attend<br><br>- Red: neither personas are listed as having attended a meeting | 50% |  | N/A for Growth, Scale and Tech Touch |
-
-### Multiple Production Instances Health Scoring
- 
-When an account has multiple GitLab instances identified as Production (Instructions on how to [Update Self-Managed Instance Type](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#updating-self-managed-instance-type)), the Product Usage health measures the most recently updated instance instead of the primary instance, causing scoring inconsistencies. Note: this is less than 5% of the time because the vast majority of accounts have a single production instance.
-
-#### Solution
-
-[Video Instructions](https://youtu.be/N0JUABX88Hg) to update instance data in Gainsight to include only one instance in Product Usage health measure.
-
-1. On the account C360 scroll to the Instance and Namespace Details Section
-2. Scroll right to see the “Included in Health Measure” column
-3. To exclude instances, click the three dots, "Edit", and then select “Opt-Out” in the `Included in Health Measures` to EXCLUDE the instance section. NOTE: Make sure you select “Opt-Out” rather than null, or the system may overwrite your update. Then click Update
-4. To select your **primary** instance for health scoring, click on the three dots, Edit, and click “Included in health Score” then click "Update"
-
-**Important Notes**: 
-1. Best practice is to only have ONE instance marked as "Included in Health Measure" 
-2. All Production instances are automatically marked "Included in Health Measure" unless they are marked "Opt-Out" 
-3. Select "Opt-Out" rather than null, or the system may overwrite your update
-
-<details>
-
-<summary markdown='span'>Multiple Production Instances: Gainsight Admin Processes</summary>
-<br>
-
-Because the DevSecOps health measure looks to the account as "Ultimate", this step was added to make sure the correct production instance is scored in the case of multiple subscriptions under a given account. 
-
-If a CSM has marked a production instance under a Premium subscription, DevSecOps health will appear as be “NA”. Meaning, even if there are two subscriptions with one Premium and another Ultimate, as long as the CSM marked the Premium one for health scoring, you will no longer see a DevSecOps health score (generally red) on the account.
-
-**Gainsight Rules:**
-
-1. `NEW: Admin: Update Plan Name on Product Usage Instance Metrics`
-   1. This pushes `Plan Name` from the Customer Subscription object to the Product Usage Instance Metrics object
-2. `Set Score: DevSecOps Adoption Individual Measures`
-   1. The rule looks at the `Plan Name` on the Product Usage Instance Metrics object instead of the `Products Purchased` on the Company object
-
-</details>
-<br>
 
 ## Related Processes
 
