@@ -324,6 +324,9 @@ Procurement team can assist you in your negotiation. The goal is to get the best
 
 All vendors require a security review. Please see the details of SLA and how to complete this process in our [Zip documentation section](https://about.gitlab.com/handbook/finance/procurement/#security-review-4-14-days).
 
+### Privacy Review
+All vendors processing [Personal Data](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-definitions) require a privacy review. A full privacy review is only required every 24-months, provided the Vendor completed a full and satisfactory privacy review during the prior procurement cycle. Please see the details of SLA and how to complete this process in our [Zip documentation section](https://about.gitlab.com/handbook/finance/procurement/#privacy-review4-14-days)
+
 ### Onboarding
 
 In order for your vendor to be able to be paid they need to be onboarded into our systems. The details are in our [Zip documentation section](https://about.gitlab.com/handbook/finance/procurement/#new-supplier-onboarding-2-3-days).
