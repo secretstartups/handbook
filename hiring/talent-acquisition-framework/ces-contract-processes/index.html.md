@@ -653,7 +653,7 @@ Please follow the outlined steps below before sending the unsigned copy of the C
     
 - Once the email is sent to the German counsel, CES adds the candidate to the German contract tracker. A link to this is in the contract templates received in the Service Desk.
 - In order to inform the candidate regarding the physical copies sent out via post, go to the Greenhouse profile of the ​​candidate, using the “email the “candidate name” function, select the template “ German Contract already sent to counsel”. 
-- A non-US welcome email should be sent to the candidate, and they should be marked as hired as per the normal hiring process.
+- A welcome email should be sent to the candidate, and they should be marked as hired as per the normal hiring process.
 - Once the candidate has confirmed that they have received the physical contract in mail. CES will send the email template "German Contract step 2" to the candidate and close out the issue.
 
 
