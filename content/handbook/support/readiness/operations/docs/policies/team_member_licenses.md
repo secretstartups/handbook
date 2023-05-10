@@ -69,5 +69,5 @@ To do this, reply with the following:
 After sending that reply, do the following:
 
 - Add time spent on the issue
-- Add the label `~Support-Ops::Completed` to the issue
+- Add the label `~SupportOps::Completed` to the issue
 - Close the issue
