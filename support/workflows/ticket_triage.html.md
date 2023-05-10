@@ -36,9 +36,9 @@ graph TD
 
 ## Applying the Correct Form
 
-A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-forms-and-fields/#ticket-form-id-numbers) applied to it to help route it to the right set of individuals who can assist with that request.
+A ticket should have the correct [form](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/forms/) applied to it to help route it to the right set of individuals who can assist with that request.
 
-The single source of truth for what forms exist is the [Current active forms](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_forms.html#current-active-forms) list in the Support Ops handbook section.
+The single source of truth for what forms exist is the [Current active forms](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/forms/) list in the Support Ops handbook section.
 
 Below is a list of some commonly used Zendesk forms with a brief explanation regarding their usage:
 

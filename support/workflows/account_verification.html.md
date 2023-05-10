@@ -66,7 +66,7 @@ More succinctly: they're paid, they use the account to pay, or we use the accoun
 
 If one of the above conditions is met the user is eligible for our 2FA reset process.
 
-If an invoice can not be provided, suggest [sign in with legacy email/password](https://customers.gitlab.com/customers/sign_in?legacy=true), where an invoice can be downloaded. 
+If an invoice can not be provided, suggest [sign in with legacy email/password](https://customers.gitlab.com/customers/sign_in?legacy=true), where an invoice can be downloaded.
 
 
 ## Workflow
@@ -75,7 +75,7 @@ The workflow applies to all cases where account verification is required.
 
 ### Keeping the Ticket Simple and Accurate
 
-Because an ownership-verification ticket is a matter of record, the ticket must be simple, accurate, and tightly focused on the access issue. 
+Because an ownership-verification ticket is a matter of record, the ticket must be simple, accurate, and tightly focused on the access issue.
 
 1. Do not allow the customer to bring up unrelated topics.
 1. Do not add requested CCs to the ticket. Remove any CCs that get added, except:
@@ -89,8 +89,8 @@ If you need a basis for a response where you send the challenges, or in a 2FA ti
 
 > **Note**: In case the user sends back very minimal information and it's clear it's not sufficient or the answers are vague, reply asking for more information immediately after their response. You can provide some additional guidance, such as "please provide the exact date and time of the commit, not just an approximate one".
 
-1. To verify the challenge answers, use [chatops](https://about.gitlab.com/handbook/support/workflows/chatops.html), the [Zendesk GitLab User Lookup App](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) or, for those who have admin access, check at `https://gitlab.com/admin/users/USERNAME`.
-1. Use the [ZenDesk GitLab Super App's 2FA Helper](../support-ops/documentation/zendesk_global_apps.html#gitlab-super-app) to determine the risk factor based on the user's answers. Data classification criteria and any notes are in the [Internal Handbook - Data Classification table](https://internal-handbook.gitlab.io/handbook/support/#data-classification) (GitLab internal), which is considered the source of truth. If you need to leave a comment manually (instead of through the app), use the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket.
+1. To verify the challenge answers, use [chatops](https://about.gitlab.com/handbook/support/workflows/chatops.html), the [Zendesk GitLab User Lookup App](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) or, for those who have admin access, check at `https://gitlab.com/admin/users/USERNAME`.
+1. Use the [ZenDesk GitLab Super App's 2FA Helper](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) to determine the risk factor based on the user's answers. Data classification criteria and any notes are in the [Internal Handbook - Data Classification table](https://internal-handbook.gitlab.io/handbook/support/#data-classification) (GitLab internal), which is considered the source of truth. If you need to leave a comment manually (instead of through the app), use the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket.
    - [Specific conditions are required to be considered for 2FA resets](#conditions-for-2fa-reset-consideration).
    - Challenge answers must be evaluated against a paid namespace if the user is a member of any paid namespace. If the user is not a member of a paid namespace, refer to [Conditions for 2FA Reset Consideration](#conditions-for-2fa-reset-consideration) for further guidance.
    - If a group owner is answering on an [enterprise user's](gitlab-com_overview.html#enterprise-users) behalf, you can accept the owner's answers on the user's behalf. Use the same verification process, and [owner vouch process](#authenticating-an-owner-vouch) (the same owner can be the one vouching). The answers can relate to either the owner's or user's account (pick one, not pieces from both).
@@ -353,14 +353,14 @@ Account Ownership Change Requests are initiated when the sole Owner of a group l
 
 If a user has a pre-listed Twitter account on their GitLab profile, this may be used as an additional factor for proving account ownership.
 
-1. Invite the user to follow `@GLSupport2FA` in a reply to their ticket. 
+1. Invite the user to follow `@GLSupport2FA` in a reply to their ticket.
 1. Log in to https://twitter.com/ using the GLSupport2FA twitter account in the 1Password Vault.
    - If the login requires a 2FA code, log in to https://mail.google.com using the techsupport@gitlab.com gmail credentials. Note: If you are redirected to OKTA login, use the same gmail credentials to log in to OKTA.
 1. Go to https://twitter.com/GLSupport2FA/followers and confirm the listed Twitter account is in the Followers list.
 1. Go to the messages list and send them the following snippet:
 
 ```
-Hi, 
+Hi,
 
 We recently got a request to <remove the 2FA on | delete | change the primary email address> your GitLab.com account. Since you listed this account there, we're reaching out for confirmation. Please let us know if it was you who initiated this request.
 
@@ -371,4 +371,3 @@ GitLab Support
 ```
 
 If a reply is received within 7 days, account for it in the Risk Factor Worksheet and continue with the workflow. Otherwise, this can be counted as a failed challenge.
-

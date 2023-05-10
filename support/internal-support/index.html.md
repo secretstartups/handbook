@@ -54,18 +54,18 @@ If your customer contacts you requiring technical support, the following options
     - **Note:** If the customer already has a license/subscription, and is getting errors while applying it, it's best for the customer to open a Support ticket directly with us.
     - **Note:** To submit the form you must have a [Zendesk Light Agent account](#requesting-a-zendesk-light-agent-account), which all GitLab team members can request. The account also enables team members to see customer tickets in Zendesk, and leave notes for the Support team.
 
-1. In sensitive cases where asking a customer to open a ticket would aggravate a situation, you can open a Support ticket on behalf of the customer. 
+1. In sensitive cases where asking a customer to open a ticket would aggravate a situation, you can open a Support ticket on behalf of the customer.
    - **Note:** You cannot be logged into Zendesk if you choose this option, because Zendesk automatically closes any tickets submitted with `gitlab.com` email addresses. Instead, use a private/incognito window in your browser to submit the ticket. When submitting the ticket, in the "Your email address" field, enter your customer's email address. If you should be CC'd on the ticket, please request it in the ticket body.
 
 
 #### Support does not action out of Slack
 
-For questions about specific customer situations, we need a support ticket (from the customer) or an [internal request](#internal-requests) ticket (from a GitLab team member). 
+For questions about specific customer situations, we need a support ticket (from the customer) or an [internal request](#internal-requests) ticket (from a GitLab team member).
 
 There are several reasons why Support cannot respond to customer-specific requests made through Slack:
 - We aim to meet the [Service Level Agreement](https://about.gitlab.com/support/#service-level-agreements) (SLA) each time we help a customer, and we only track SLA compliance via Zendesk.
 - Zendesk has a ticket assignment system which is vital to our workflow. We have no system to assign tickets in Slack.
-- When we are trying to solve a current customer problem, we frequently [search resolved tickets in Zendesk](https://about.gitlab.com/handbook/support/support-ops/training/searching-in-zendesk.html). Since Slack content is deleted after 90 days, we may lose valuable information if a customer's problem and/or the solutions to it are discussed in Slack instead of a Zendesk ticket.
+- When we are trying to solve a current customer problem, we frequently [search resolved tickets in Zendesk](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/searching/). Since Slack content is deleted after 90 days, we may lose valuable information if a customer's problem and/or the solutions to it are discussed in Slack instead of a Zendesk ticket.
 - We want to keep all of our records of a customer's technical support problems and their solutions in a single place (Zendesk).
 
 If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html)).
@@ -235,13 +235,13 @@ To keep the term "_escalation_" [MECEFU](/handbook/communication/#mecefu-terms),
 Please open a **support ticket attention request**, during [GitLab Global Support Hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours) only, if
 any of these are true:
  - progress in the ticket has stalled and the ticket needs more support engineering effort
- - the priority of the ticket has changed (Low -> High) 
+ - the priority of the ticket has changed (Low -> High)
  - the ticket requires immediate intervention to address a high level of customer dissatisfaction
  - Support Management oversight is required in order to bring structure and focus to the situation
 
 [More about support ticket attention requests](/handbook/support/internal-support/support-ticket-attention-requests.html)
 
-Please open an **[account escalation](/handbook/customer-success/csm/escalations/)** if: 
+Please open an **[account escalation](/handbook/customer-success/csm/escalations/)** if:
  - There is account level risk because of a single ticket or an aggregation of several issues.
  - Visibility and attention from multiple departments is required to restore customer confidence and resolve the issue.
 
@@ -318,4 +318,3 @@ Examples of some notes you might want added:
 - You want to put the SA's name on there for use in the tickets.
 - A customer prefers specific titles be used when addressing them.
 - An organization has multiple subscriptions.
-

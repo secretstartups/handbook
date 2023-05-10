@@ -95,7 +95,7 @@ not prepared to keep the ticket progressing. When that happens, remember you
 have your group, and in fact the whole global team, ready to help you drive the
 ticket to a great resolution. You're never alone. So go ahead and accept the
 challenge! Assign the ticket to yourself, send out your first response, and
-seek help as soon as you need it. 
+seek help as soon as you need it.
 
 ### Assigning a ticket with a different preferred region
 
@@ -119,7 +119,7 @@ of your group** who is in the preferred region.
       1. Ask in your group's Slack channel for one of the SEs in the target
          region to assign the ticket to themself, to notify the customer of the
          transfer and to continue the ticket work where you left off.
-         1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members. 
+         1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members.
          1. If relevant, cc the [Support Manager on-call](https://about.gitlab.com/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
          1. Bonus info: You can also use the Slack ["schedule message"](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) feature, to ensure the message pops up within working hours of the intended region.
       1. **Until another SE has taken assignment, keep the ticket assigned to
@@ -134,7 +134,7 @@ needs, and that might save you and the customer time and effort as well.
 
 1. **If you take none of the other steps described in this topic, take this one.
    It is the one most likely to get you very quickly on the right path.**
-   
+
    Confirm with the customer your understanding of their situation, needs, and
    problem to be solved or question to be answered.
    1. If you're not confident about one or more of these, consider making your
@@ -176,8 +176,8 @@ needs, and that might save you and the customer time and effort as well.
        for further guidance on this workflow.
     1. Submit the ticket as `Open`
     1. Please consider using the
-       ['Due Date'](/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker) and
-       ['Reminder'](/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app)
+       ['Due Date'](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app) and
+       ['Reminder'](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
        apps.
 
 ## FAQ
@@ -265,7 +265,7 @@ There will be times when you may be leading an escalation, working through chall
 
 ### 8. How can I open a new ticket on behalf of a customer?
 
-   As detailed in the [Support General Policies](https://about.gitlab.com/support/general-policies/#we-handle-each-incident-within-a-single-support-ticket) it is GitLab policy to handle each individual incident, problem or issue within a single support ticket. If a situation arises where you need to open a new ticket on behalf of a customer then please use the following steps: 
+   As detailed in the [Support General Policies](https://about.gitlab.com/support/general-policies/#we-handle-each-incident-within-a-single-support-ticket) it is GitLab policy to handle each individual incident, problem or issue within a single support ticket. If a situation arises where you need to open a new ticket on behalf of a customer then please use the following steps:
 
 1. Go to the [Submit a Request](https://support.gitlab.com/hc/en-us/requests/new) Ticket Portal.
 2. Enter the customer's details (Self-Managed or SaaS, email address, subject, problem description etc.).
@@ -273,5 +273,3 @@ There will be times when you may be leading an escalation, working through chall
 3. Once the form is submitted the form will not provide the corresponding ticket id. You can however obtain the new ticket id by performing a search on the customers details such as email address.
 
 Please note: The above approach is required in order to ensure that the ticket is routed correctly and is assigned an SLA.
-
-

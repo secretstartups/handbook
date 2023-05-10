@@ -15,8 +15,7 @@ description: Organizations in Zendesk are created automatically through our Sale
 
 For more specific information about organizations, please see:
 
-* [Zendesk Global Organizations](/handbook/support/support-ops/documentation/zendesk_global_organizations.html)
-* [Zendesk US Federal Organizations](/handbook/support/support-ops/documentation/zendesk_us_federal_organizations.html)
+* [Zendesk Organizations](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/organizations/)
 
 ## Adding users to organizations
 

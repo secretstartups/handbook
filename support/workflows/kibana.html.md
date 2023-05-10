@@ -272,7 +272,7 @@ Kibana can be used to search for specific errors related to a purchase attempt. 
 
 #### GitLab.com purchase errors
 
-**Note**: You need to have the **GitLab username** of the account used to make the purchase. Sometimes the user fills the `GitLab username` value of the ticket fields, or you can check the ticket requester's GitLab username in the [GitLab User Lookup Zendesk App](/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup).
+**Note**: You need to have the **GitLab username** of the account used to make the purchase. Sometimes the user fills the `GitLab username` value of the ticket fields, or you can check the ticket requester's GitLab username in the [GitLab User Lookup Zendesk App](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app).
 
 1. Navigate to [Kibana](https://log.gprd.gitlab.net/)
 1. Ensure the `pubsub-rails-inf-gprd-*` index pattern (GitLab.com logs) is selected.
@@ -296,6 +296,6 @@ If you encounter a generic error message try checking CustomersDot purchase erro
 1. Add a positive filter on `json.customer_id` for the username of the account used to make the purchase.
 1. Add a positive filter on `json.severity` for `ERROR`.
 
-Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/9c28ba80-9d9b-11ed-9f43-e3784d7fe3ca` and update the value of `json.customer_id`. 
+Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/9c28ba80-9d9b-11ed-9f43-e3784d7fe3ca` and update the value of `json.customer_id`.
 
 In case you have the namespace details, get the **Namespace ID** then go to `https://log.gprd.gitlab.net/goto/b598dfe0-9d9b-11ed-9f43-e3784d7fe3ca` and update the value of `json.params.gl_namespace_id`

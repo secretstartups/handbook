@@ -24,7 +24,7 @@ The context for this flow is because [CCs are disabled](https://about.gitlab.com
 
 ## Access limited to US Citizens
 
-Only our US Citizen Support Engineers have access to the [US Federal Zendesk Instance](/handbook/support/support-ops/documentation/zendesk_instances.html#zendesk-us-federal). If you are a US Citizen and would like to get access and contribute you can open an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for either a [light agent](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) or [full agent](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_us_federal_users.html#support-us-federal-staff)(limited to Support/Security Team members).
+Only our US Citizen Support Engineers have access to the [US Federal Zendesk Instance](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/#zendesk-us-federal). If you are a US Citizen and would like to get access and contribute you can open an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for either a [light agent](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) or [full agent](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)(limited to Support/Security Team members).
 
 ## Communication Guidelines
 
@@ -57,7 +57,7 @@ The US Federal team has implemented an automated follow up system that checks in
 
 There can be certain situations in which a task may take longer than 7 days for the customer to make changes and provide feedback. If there has been an agreed upon day in the future where the customer has agreed they will update us then an agent may opt to use the `Support::Block Automatic Reopen` macro. This macro will add the `blocked_by` tag and create an internal comment where the agent must fill in the details indicating why the case should remain in pending. The `blocked_by` tag must be manually removed by an agent when the agreed upon date has been reached to resume the standard pending to follow-up workflow. Some best practice suggestions for using the macro are below:
 
-- Set a [task reminder](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_us_federal_apps.html#due-date-picker) for the date that we should hear back from the user.
+- Set a [task reminder](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#due-date-picker) for the date that we should hear back from the user.
 - Regularly review pending cases to ensure we are receiving follow-up by the date promised
 - Put the relevant issue or case number in the blocked-by reason so that others may be aware and follow-up on your behalf
 
@@ -104,7 +104,7 @@ In some cases, a single requester or org may create multiple tickets within a sh
 ## Getting help with a ticket
 
 Getting help with a US Federal ticket can be tricky since some information must be kept confidential. However, there are many times when a non-US Federal engineer may be the subject matter expert needed to help efficiently resolve a US Federal Support case. It is encouraged to ask questions in `#support_self-managed` and other Slack channels provided the [Communication Guidelines](#communication-guidelines) are followed.
- 
+
 If you need a manager's help with a ticket, please keep in mind that only US Citizens have access to our US Federal Instance, which means that some of our managers cannot help you with tickets. If you are a US Citizen working in US Federal and your manager isn't, please feel free to reach out to a different manager if you are unable to address an issue without sharing confidential information.
 
 ### Discussion issues from tickets
@@ -132,8 +132,8 @@ When a customer selects the checkbox to indicate they would like a session there
 
 There is a Calendly managed event template called **GitLab US Federal Customer Discovery Call** and it can be assigned to an agent by asking a Calendly admin. This event type is a 30 minute session with 1 day lead time.
 
-It is recommended to continue working the case async while awaiting the discovery call session. 
+It is recommended to continue working the case async while awaiting the discovery call session.
 
-When the scheduled session occurs the agent should set the expectations that we will be asking the customer to demonstrate the issue and then work with them to create a collection of artifacts that will be uploaded to the case at a later time. 
+When the scheduled session occurs the agent should set the expectations that we will be asking the customer to demonstrate the issue and then work with them to create a collection of artifacts that will be uploaded to the case at a later time.
 
 A short post call synopsis reminding the customer of what artifacts were collected and providing a technical description of what was observed is recommended to ensure both parties have the same understanding of next steps.

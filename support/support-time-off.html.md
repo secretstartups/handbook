@@ -63,7 +63,7 @@ time off, please:
   steps such as the above to be sure you can get the planned days off
 - if possible, plan your time off to avoid disruptions to the various rotations
   such as on-call
-  
+
 ## Preparing for time off
 
 When you are approaching a planned absence from work, it is your responsibility
@@ -73,9 +73,9 @@ yourself to disconnect from work and make your time off effective.
 
 If you're taking off **less than half a day,** you do not need to make entries in PTO by Deel or the Support Time Off Calendar, but please consider updating your Slack status. Also consider blocking the interval on your personal Google Calendar, so no one tries to book a pairing/meeting with you during that time.
 
-If you're taking off **a half day or more,** enter the time off in PTO by Deel. 
+If you're taking off **a half day or more,** enter the time off in PTO by Deel.
 
-At the end of your last work day before taking PTO, update your availability using the [Out of Office](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
+At the end of your last work day before taking PTO, update your availability using the [Out of Office](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
 
 Follow the guidance below to prepare yourself, your customers, and your colleagues.
 
@@ -113,7 +113,7 @@ If they want to pause, put the ticket on-hold. Otherwise:
    absence and ask for volunteers to take responsibility for those.
 
 #### If your absence is three or more business days
- 
+
 1. Change your workflow in advance of your absence:
    1. A week in advance: Start thinking about whether you may need to hand off tickets, and pair with others to get them up to speed.
    1. Two to three days in advance: stop taking new tickets.
@@ -130,7 +130,7 @@ If they want to pause, put the ticket on-hold. Otherwise:
 ## How Support Handles Family and Friends Days
 
 During [Family and Friends Days](/company/family-and-friends-day/#upcoming-family-and-friends-days) GitLab Support continues
-to operate as normal. During the month of a Family and Friends Days, choose a day off to spend as you please. 
+to operate as normal. During the month of a Family and Friends Days, choose a day off to spend as you please.
 Please follow the same guidelines as you would in [Choosing and Recording Time Off](#choosing-and-recording-time-off).
 
 ## How Support Handles Holidays
@@ -158,7 +158,7 @@ The following peak holidays have the greatest potential to affect coverage:
    - Whit Monday (May or June)
    - Ascension Day (May)
    - Labour Day (first Monday in September)
-   
+
 ### If you are planning to take time off during peak holidays
 
 If you plan to be out for more than three days, follow the guidance regarding
@@ -171,7 +171,7 @@ Otherwise:
    might be on the same holiday schedule and will be fine with resuming work on
    a ticket when you both return.
 2. For those tickets that will not require action over the holiday, there is no
-   special action to be taken. 
+   special action to be taken.
 
 ### If you are working on a holiday
 1. Continue to prioritize FRT first, and then management of your own tickets.
@@ -201,10 +201,10 @@ truly make the most of your time off, and make it easier to return to work:
 Please consider adding an item in the Support Week in Review after you get back to let the rest of the
 team know what you've been up to!
 
-## Catching up after a scheduled time off 
+## Catching up after a scheduled time off
 
 Trying to catch-up after a scheduled time off - especially if it's a week long, or more - can be a bit overwhelming.
-So here is a list of resources to check that should get you up to date with almost everything 
+So here is a list of resources to check that should get you up to date with almost everything
 that happened while you were away:
 
 - [SWIR](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/)
@@ -217,7 +217,6 @@ that happened while you were away:
 
 Consider setting up a few coffee chats with teammates to simply reconnect with them. You can also ask your teammates who haven't taken PTO while you were out, during coffee chats or pairing sessions, to mention a thing or two that you might have missed.
 
-Once you have taken the time to catch-up, update your availability using the [Out of Office](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#out-of-office) app in Zendesk showing you are no longer OOO. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make available` button on the row with your user information in it.
+Once you have taken the time to catch-up, update your availability using the [Out of Office](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk showing you are no longer OOO. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make available` button on the row with your user information in it.
 
-For more tips, check [returning from pto](/handbook/paid-time-off/#returning-from-pto). 
-
+For more tips, check [returning from pto](/handbook/paid-time-off/#returning-from-pto).

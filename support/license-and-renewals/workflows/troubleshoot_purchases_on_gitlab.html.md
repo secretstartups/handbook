@@ -31,11 +31,11 @@ We use an Issue to [document any issues](https://gitlab.com/gitlab-com/support/t
 # Workflow
 
 ## Get the error from Sentry
-Attempt to [locate the specific Sentry error event](#finding-an-error-message-in-sentry) logged for the user **making the purchase**. 
+Attempt to [locate the specific Sentry error event](#finding-an-error-message-in-sentry) logged for the user **making the purchase**.
 Please note that sometimes the ticket submitter might not be the user making the purchase.
 
 ## Get the error from GitLab.com Kibana logs
-Attempt to [locate the logs in Kibana](/handbook/support/workflows/kibana.html#gitlab.com-purchase-errors) for the user **making the purchase**. 
+Attempt to [locate the logs in Kibana](/handbook/support/workflows/kibana.html#gitlab.com-purchase-errors) for the user **making the purchase**.
 Please note that sometimes the ticket submitter might not be the user making the purchase.
 
 **NOTE:** If you are unable to locate any error messages, check that the known issues do not apply to the user before requesting them to re-attempt the purchase.
@@ -53,10 +53,10 @@ Request the user to add a second name in their GitLab account profile as a tempo
 ## 3D Secure Authentication (3DS)
 > Transaction declined.generic_decline - Your card was declined
 
-Our current integration with Zuora does not support authorizing payment methods which require 3DS. 
+Our current integration with Zuora does not support authorizing payment methods which require 3DS.
 With the volume of users requiring this being low, the issue has not yet been prioritized.
 
-For now, the first option is to request the user to try another card. 
+For now, the first option is to request the user to try another card.
 You can also [reach out to Sales](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales) to offer the user an alternative payment method.
 
 ## Check whether the linked accounts have matching emails
@@ -88,7 +88,7 @@ The error is reported because *they did not link their Customers Portal account 
 
 ##### Unlinked CustomersDot account for purchases via Sales
 Let's say a Customer Y purchases a subscription through Sales. Their signed Order Form has the **Sold To** contact's email as customerY@example.com.
-Once the Quote is processed, Zuora's [callout service](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/zuora/zuora_callouts.md#purpose) 
+Once the Quote is processed, Zuora's [callout service](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/doc/zuora/zuora_callouts.md#purpose)
 triggers an account creation on Customers Portal. This service uses the `Sold To` contact's details to create the account.
 
 For various reasons, the created Customers Portal account is not linked to a GitLab account.  
@@ -104,7 +104,7 @@ The error is reported because *they did not link their Customers Portal account 
 
 ##### Linked accounts have different emails
 Let's say a Customer Z has an existing Customers Portal account (customerZ@example.com) either from an existing purchase or by creating a new account.
-And this Customers Portal account has been linked to a GitLab account (check the `GitLab Groups` tab) whose email is gitlabZ@example.com. 
+And this Customers Portal account has been linked to a GitLab account (check the `GitLab Groups` tab) whose email is gitlabZ@example.com.
 *This could be someone else's GitLab account or Customer Z might have multiple GitLab accounts.*
 
 
@@ -116,7 +116,7 @@ CustomersDot then tries to create an account using the email customerZ@example.c
 🔧 To fix the problem, Customer Z needs to log in to their [Customers Portal](https://customers.gitlab.com/customers/sign_in) account and either:
 
 - [Change the linked GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account) to the GitLab account with email customerZ@example.com
-- Or update the email in their Customers Portal account to match the email in the linked GitLab account, which is gitlabZ@example.com. 
+- Or update the email in their Customers Portal account to match the email in the linked GitLab account, which is gitlabZ@example.com.
 Customer Z should not create another account with the email customerZ@example.com because an account will be created for them automatically when the transaction succeeds.
 
 **TODO:** We need to verify that Customer Z can purchase using the GitLab account with the email gitlabZ@example.com because the system will locate the linked Customers Portal account.
@@ -141,7 +141,7 @@ Send a reply asking the customer to check the credit card:
 > The Contract effective date should not be later than the term end date of the basic subscription
 
 This error indicates that a purchase is attempting to update an expired subscription that is
-currently linked to the namespace. The problem has [been fixed](https://gitlab.com/groups/gitlab-org/-/epics/7966), 
+currently linked to the namespace. The problem has [been fixed](https://gitlab.com/groups/gitlab-org/-/epics/7966),
 please report if you encounter it again.
 
 > :warning: Please exercise caution and understand the risks of unlinking a subscription **before** continuing with the following steps.
@@ -175,14 +175,14 @@ please report if you encounter it again.
 
 If you could not find the user's specific error in Sentry, then consider asking for a browser console output. Some purchasing error details are visible in this output.
 
-Please use your best judgement to **try to limit the number of purchase retries you ask the user to attempt** 
+Please use your best judgement to **try to limit the number of purchase retries you ask the user to attempt**
 so that their card does not get locked or blocked.
 
 ## Handling failed credit card verifications
 
 If a customer contacts Support informing that their attempt to use their credit card for verification in order to use units of compute on shared runners (please note that when a customer verifies using their credit card, it will not be charged but instead will be verified with a one-dollar authorisation transaction). Then you should do the following:
 
-1. Respond to the ticket by using the Zendesk Macro `Support::L&R::Credit Card Authorisation Failed' 
+1. Respond to the ticket by using the Zendesk Macro `Support::L&R::Credit Card Authorisation Failed'
 2. If the customer comes back after 24 hours and confirms they are still unable to proceed, but they have verified their credit card works outside of GitLab.com, then refer them to Trust and Safety for further guidance. The Trust and Safety Team contact details can be found in the handbook: [Working with the GitLab Trust and Safety Team](https://about.gitlab.com/handbook/security/security-operations/trustandsafety/#working-with-gitlab-trust-and-safety-team).
 
 # Finding an error message in Sentry
@@ -198,7 +198,7 @@ To find the error specifically related to a user on Sentry, try to check for a l
 
 To locate a Sentry event, first get the `ID` or `Username` of the **user making the purchase from GitLab** using any of the following:
    - Chatops: Run `/chatops run user find <username or email>`
-   - Admin account: Navigate to the admin link in the [GitLab User Lookup](/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) Zendesk app
+   - Admin account: Navigate to the admin link in the [GitLab User Lookup](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app) Zendesk app
    - [Users API](https://docs.gitlab.com/ee/api/users.html#for-normal-users): Search for user using their email or username
 
 #### Searching with the username in `gitlabcom` Sentry project
@@ -219,5 +219,5 @@ If you have the `ID` of the user, find the error message for the user in Sentry'
 
 #### Searching `customersgitlabcom` Sentry project
 If the purchase was also attempted from [CustomersDot portal](https://customers.gitlab.com/customers/sign_in), use
-the [workflow](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry) 
+the [workflow](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry)
 to find the error message in [Customers Portal Sentry project](https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/).

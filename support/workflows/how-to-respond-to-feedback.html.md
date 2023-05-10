@@ -33,7 +33,7 @@ territory, you can subscribe to the appropriate `OrganizationRegion` scoped
 label through the [Feedback project labels page](https://gitlab.com/gitlab-com/support/feedback/-/labels).
 
 These labels are applied based on organization information
-[synced to Zendesk](/handbook/support/support-ops/documentation/zendesk_global_organizations.html#organization-fields)
+[synced to Zendesk](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/organizations/)
 from SFDC.
 
 | Label   | Description |
@@ -52,18 +52,18 @@ The single source of truth for these definitions can be found in the [Go to Mark
 The [SSAT Reviewing Manager PagerDuty schedule](https://gitlab.pagerduty.com/schedules#P9UIIDY) is the [SSOT](/handbook/values/#single-source-of-truth) for who is on-call. The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) identifies the current **SSAT Reviewing Manager**, with a link to the PagerDuty schedule.
 
 The **SSAT Reviewing Manager** on duty when a feedback issue is created is responsible for reviewing the issue and responding as needed. Feedback issues
-[are assigned](/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat) to the SSAT Reviewing Manager automatically. The manager receives email notification from GitLab and a To-Do item.
+[are assigned](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/ssat/) to the SSAT Reviewing Manager automatically. The manager receives email notification from GitLab and a To-Do item.
 
 ### Sources of feedback
 
 Currently, the following methods create feedback issues for review:
 
-1. [Automatic email survey](/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat) -- sent to customers when tickets are closed.
+1. [Automatic email survey](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/ssat/) -- sent to customers when tickets are closed.
 1. Mid-ticket feedback link -- each Public Comment from a GitLab Support Engineer or Manager has a link to a form where a customer can provide feedback or request contact from a manager while the ticket is open (introduced in issue [2913](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2913)).
-   1. This feedback form creates issues in the customer feedback project, with a subject format of **Positive/Negative/Neutral feedback for ticket nnnnnn**, and is automatically assigned to the **SSAT reviewing manager**. 
+   1. This feedback form creates issues in the customer feedback project, with a subject format of **Positive/Negative/Neutral feedback for ticket nnnnnn**, and is automatically assigned to the **SSAT reviewing manager**.
    1. If the feedback is negative, there is an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, a Slack notification is sent to the #support_ticket-attention-requests channel. The [**On Call Manager**](https://about.gitlab.com/handbook/support/workflows/support_manager-on-call.html#expectations-for-support-manager-on-call) should promptly follow the guidance in [Handling mid ticket feedback requesting manager contact during business hours](https://about.gitlab.com/handbook/support/workflows/support_manager-on-call.html#handling-mid-ticket-feedback-requesting-manager-contact-during-business-hours).
 1. GitLab team members (such as CSMs and Sales team) can open an [Indirect Feedback](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect+Feedback) issue with details they received from the customer.
-1. Any issue requiring contact can also be identified by applying the `SSAT::Contact` label. In the Description or in a Comment, specify that manager contact was requested. 
+1. Any issue requiring contact can also be identified by applying the `SSAT::Contact` label. In the Description or in a Comment, specify that manager contact was requested.
 
 
 ### What does success look like?
@@ -105,27 +105,27 @@ If you're the SSAT Reviewing manager it should be assigned to you automatically,
 
 Anything you add to the body of this issue will be included in the SWIR digest for the week. No further action is required other than having the body of the issue updated. Please do be aware of some considerations in [formatting feedback in the SWIR issue](#formatting-feedback-in-swir-issue).
 
-**Due Date**: the cut off for content for the SWIR is close of business on your Thursday. Plan to add any ticket feedback before this time. Anything you want to add after this time needs to be added to the content for the following week, to ensure it is included in the audio recording. 
+**Due Date**: the cut off for content for the SWIR is close of business on your Thursday. Plan to add any ticket feedback before this time. Anything you want to add after this time needs to be added to the content for the following week, to ensure it is included in the audio recording.
 
 When selecting feedback to share, you don't need to share every piece of positive feedback. Consider the following when choosing what to share:
 
 1. Comments that stand out to you - the ones that you dwell on and smile as you read them
 1. The customer has taken the time to name the individual(s) they appreciated
 1. The customer has described why they were satisfied or how our support improved their day (we get some great stories!)
-1. If there are general sentiments or themes, feel free to congratulate the whole team. For example, if we were praised for our overall approach to support, speed, clarity, etc. 
-1. Is the feedback **definitely** positive?  Sometimes comments in positive feedback can be neutral or even negative. For example "I would have liked a quicker response", or "I was satisfied" are valuable to us, but they don't really encourage the team when shared in the SWIR. 
+1. If there are general sentiments or themes, feel free to congratulate the whole team. For example, if we were praised for our overall approach to support, speed, clarity, etc.
+1. Is the feedback **definitely** positive?  Sometimes comments in positive feedback can be neutral or even negative. For example "I would have liked a quicker response", or "I was satisfied" are valuable to us, but they don't really encourage the team when shared in the SWIR.
 
-#### Formatting feedback in SWIR issue 
+#### Formatting feedback in SWIR issue
 
-When adding the comment to the SSAT issue in the `support-week-in-review` tracker, feel free to use markdown formatting. If you wish to use headers (`#`) please 
+When adding the comment to the SSAT issue in the `support-week-in-review` tracker, feel free to use markdown formatting. If you wish to use headers (`#`) please
 - use H4 (`####`) or lower
 - be aware that headers will be included in the table of contents in the issue
 
-Generally, include the ticket number with a link to the ticket, the comment from the customer, and where applicable @ mention the person (or people) who primarily worked the ticket. 
+Generally, include the ticket number with a link to the ticket, the comment from the customer, and where applicable @ mention the person (or people) who primarily worked the ticket.
 
 #### Automatically collecting positive feedback
 
-The [`populate_ssat` job](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/#populate_ssat) in the `support-week-in-review` tracker will automatically collect open issues labeled with `~"satisfaction::good"` and append a nicely formatted version to the open SSAT issue. 
+The [`populate_ssat` job](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/#populate_ssat) in the `support-week-in-review` tracker will automatically collect open issues labeled with `~"satisfaction::good"` and append a nicely formatted version to the open SSAT issue.
 
 To run this job:
 1. Create a new pipeline by going to CI/CD -> Pipelines -> Run Pipeline
@@ -223,7 +223,7 @@ If you believe the customer should be contacted following completion of a closed
 
 1. Determine the best way to reach out. Some options are:
    1. Sending the customer an email from your GitLab email address. This should
-      be the appropriate option in the majority of cases. 
+      be the appropriate option in the majority of cases.
    1. Responding directly on the Zendesk ticket. This is appropriate if you
       determine that the ticket was not adequately resolved and work should be
       continued.
