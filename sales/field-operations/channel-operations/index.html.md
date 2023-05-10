@@ -533,7 +533,7 @@ Follow the steps below to process a Partner Sourced Deal Registration for a Refe
 #### Partner Manager for first review and action
 
 1. Click the link in either your email or [Deal Registration View](https://gitlab.my.salesforce.com/a9W?fcf=00B4M000004toX7) to open the registration record in Salesforce.
-2. Confirm the `Deal Registration Type` is ”Resale” and that the partner provided sufficient detail to proceed with the registration. If registration details are:
+2. Confirm the `Deal Registration Type` is ”Referral” and that the partner provided sufficient detail to proceed with the registration. If registration details are:
    - _accurate and complete_, proceed to the next step.
    - _inaccurate and/or incomplete_, chatter `@Partner Operations`with the information request and we will return the registration to the partner for review and update.
 3. Discuss the opportunity with the GitLab Sales Rep and decide to either approve or reject the registration.
