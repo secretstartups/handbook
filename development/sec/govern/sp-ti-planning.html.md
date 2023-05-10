@@ -178,6 +178,11 @@ bugs, the velocity *should* go down so we have time to address any systemic qual
 
 We are using the Fibonacci sequence for issue weights. Definitions of each numeric value are associated with the [frontend-weight & backend-weight labels](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=-weight%3A%3A). Anything larger than 5 should be broken down whenever possible.
 
+Setting a `frontend-weight` or `backend-weight` label on an issue is optional, but ensure you set the **Weight** property on the issue during refinement.
+
+Examples of when it may be appropriate to set a weight label instead of / as well as setting the issue weight include:
+- On newly drafted issues, where we haven't yet fully determined the scope or if both frontend and backend are needed.
+- On bugs, where we don't directly assign a weight. The label can help provide guidance on complexity.
 
 ## Implementation Plan
 
