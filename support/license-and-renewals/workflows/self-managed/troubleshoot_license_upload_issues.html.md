@@ -52,7 +52,7 @@ You can use the Zendesk [`Subscriptions::Active Users`](https://gitlab.com/searc
 
 ## Workflow for setting the correct Zendesk Form Fields to track license activation failures
 
-As detailed in the issue [Create a process which provides the means of identifying the number of customers who are not able to activate their instance due to overage enforcement?](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4959) the Zendesk L&R Form fields have been modified to allow support engineers to categorize tickets where a customer has been unable to activate their license using either a license file or an activation code.
+As detailed in the issue [Create a process which provides the means of identifying the number of customers who are not able to activate their instance due to overage enforcement](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4959) the Zendesk L&R Form fields have been modified to allow support engineers to categorize tickets where a customer has been unable to activate their license using either a license file or an activation code.
 
 In such scenarios the L&R Support Engineers should follow the workflow below to categorize the ticket appropriately.
 
