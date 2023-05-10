@@ -20,7 +20,6 @@ description: "The Fulfillment Sub-department is responsible for the infrastructu
 | [Internal Handbook - Fulfillment](https://internal-handbook.gitlab.io/handbook/product/fulfillment/) | Documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information. |
 | [Cloud Licesing Overview (External)](/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites | 
 | [Cloud Licensing (Internal)](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing | 
-| [CustomersDot Access and Use by Sales](/handbook/sales/field-operations/customersdot-access-and-use/) | Logging in, information available in CustomersDot, seat reconciliations for a customer, usage data for a customer | 
 | [Deal Desk Handbook](/handbook/sales/field-operations/sales-operations/deal-desk/) | Standard Quote Configuration (new subscription, amend subscription, add-on quote creation, upgrade or product switch during subscription term, renewal, channel deals, true-ups, co-terms, Starter/Bronze End of Availability, SuperSonics, Professional Services), Non-Standard Quotes (Contract Resets, Concurrent Subscriptions, Multi-year Deals, Ramp deals), Alliance Marketplace Private Offers, and more.  | 
 | [Sales Order Processing](/handbook/sales/field-operations/order-processing/) | Account and opportunity creation, quote configuration, approvals process, opportunity booking requirements, closing an opportunity. |
 | [Internal Support](/handbook/support/internal-support/) | Submitting all requests around licensing, subscription, trials, and grace periods. | 
@@ -181,14 +180,15 @@ There’s an automated process (Zuora Workflow) that sets `Subscription.TurnOnSe
 - [Seat usage](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#how-seat-usage-is-determined)
 - [Seats owed](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#seats-owed)
 
-
 ## CustomersDot Admin Panel
 
 The target audience is the internal GitLab team, and covers the [admin panel](https://customers.gitlab.com/admin/) of the [Customers Portal](https://customers.gitlab.com). Customers or subscription managers should refer to the [Customers](https://docs.gitlab.com/ee/subscriptions/) section of GitLab's user documentation for help in using the portal, or the [licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/) for questions on subscriptions such as how users are counted.
 
-### Sales use of CustomersDot Admin
+### Log in
 
-For members of our sales teams, you can learn more about how to use CustomerDot for common use cases in our [Field Operations - CustomersDot Access and Use](/handbook/sales/field-operations/customersdot-access-and-use/) page.
+File an access request for [customers.gitlab.com/admin/](https://customers.gitlab.com/admin/sign_in) ([example access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/14359)) to get access. 
+
+Once access is granted, either go to [customers.gitlab.com/admin/](https://customers.gitlab.com/admin/sign_in) and click “Sign in with Okta” or go to your Okta App and look for the Customers Portal App.
 
 ### Searching
 
@@ -316,6 +316,74 @@ Adding a new billing account membership between a customer and a billing account
 1. Click on the `GitLab Groups`.
 1. If the trial is expired and needs to be extended, click on the `Renew Trial` button.
 1. Change the trial date as necessary and click on `Update`. **Warning:** Do not change the date to a date prior to today's date in UTC timezone.
+
+
+### Licenses
+
+1. Navigate to the `Licenses` section.
+1. From this page, you can:
+   - View the list of most recently generated licenses
+   - Search for a license by name
+1. Scroll to the right and click on ℹ️ icon to show details of a license.
+
+The details of a license contains the following information:
+- Type: Cloud, offline cloud or legacy license.
+- Trial: Displays if it's a trial license or not.
+- Name
+- Company
+- Email
+- Issued at, starts at and expires at
+- User count
+- Zuora subscription name and link
+- GitLab plan
+
+#### Find Usage Data For a Customer By License Lookup
+
+The following process allows you to view usage data for all servers with a given license installed.
+
+1. Navigate to the `Licenses` section.
+1. Search for the customer using the search box (Make sure you are searching for the name as it is in Salesforce).
+1. All licenses for the customer will be returned, use the issued and expiry dates to determine which is the active license.
+1. Scroll to the right and click on ℹ️ icon to show details of a license
+1. Click on `Lookup hostnames` under `Hostnames with this license` at the bottom of the screen. This will open version.gitlab.com
+ - version.gitlab.com does not yet support Okta so you will login with your GitLab account.
+1. You will see one row for each server that has returned usage data and has this license installed. Look at the `Usage Ping Last Checked On` column to determine which entries contain recent usage ping data.
+1. Click on the server name to load the usage ping details.
+
+This [video tutorial](https://gitlab.edcast.com/insights/card-e7589a95-0229-4d20-9c54-ee84750020df) walks through an example of how to find the license details for a particular customer.
+
+### Reconciliations
+
+1. Navigate to the `Reconciliations` section.
+1. Search for the customer using the search box (Make sure you are searching for the name as it is in Salesforce).
+1. Any reconciliations for the customer will be returned, and the following information:
+   - Customer name
+   - Subscription name with link to Zuora
+   - Reconciliation status
+   - Reconciliation date
+   - Reconciliation finished/done date
+   - Skip reason (if applicable)
+   - User count (after reconciliation)
+   - Invoiced amount
+   - Error message (if applicable)
+
+### Sales use cases of CustomersDot Admin panel
+
+#### Lookup all issued licenses for a customer/prospect
+
+It provides an understanding of who and how many trials they have requested, when, and for how many users. [Self-Requested Trials](https://about.gitlab.com/free-trial/) are not easily reported.
+
+#### Cross-reference a license with version.gitlab.com
+
+It's the only way to search for usage ping data if the server name is not known. For example a customer acmeinc.com uses acmeinc.ninja. There is no straightforward way to find this.
+
+#### Quickly find which email address was used to deliver a license
+
+It is important to know who received the license for further troubleshooting as CustomersDot is the SSOT for license information.
+
+##### References
+- [Troubleshooting: Licenses](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/#licenses)
+- [Changing License Owner (Contact Support)](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/#how-do-i-change-the-license-owner-for-self-managed-instances-with-licensegitlab)
 
 ## Action plan for Fulfillment-impacting bugs
 
