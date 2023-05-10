@@ -59,20 +59,20 @@ description: IT Business Technology
 
 ## Role of IT Business Technology
 
-Our department focuses on managing the framework of how GitLab procures, implements, integrates, secures, exports analytics, and supports our [tech stack applications](/handbook/business-technology/tech-stack-applications) while providing strategic enablement and integration support for all departments and team members that allows us to scale efficiently, [SAFE](/handbook/legal/safe-framework/)ly, and securely. 
+Our department focuses on managing the framework of how GitLab procures, implements, integrates, secures, exports analytics, and supports our [tech stack applications](/handbook/business-technology/tech-stack-applications) while providing strategic enablement and integration support for all departments and team members that allows us to scale efficiently, [SAFE](/handbook/legal/safe-framework/)ly, and securely.
 
 ### Direction
 
 As we move from Foundation to Scale as an IT organization, we will continue to take a fresh look at how we assess our application landscape and apply our heat map methodology.
 
-The broader Finance and Business Technology team is focused on the principles of Break Down Silos, Be the Solution, Architect and Iterate, and Lead with Data. The IT team also lives by the following philosophy. 
+The broader Finance and Business Technology team is focused on the principles of Break Down Silos, Be the Solution, Architect and Iterate, and Lead with Data. The IT team also lives by the following philosophy.
 
 ![it](/handbook/business-technology/it-vision.png)
 
 ### IT Strategy for FY24
 
 #### Team
-- Upskill, Identify Gaps, Hire Key Roles 
+- Upskill, Identify Gaps, Hire Key Roles
 - Expansion through low cost geo model
 - Centralize IT - starting with sales and finance applications
 
@@ -97,7 +97,7 @@ As a SaaS company, our Engineering division also has an [infrastructure SRE team
 ### System Owner Directory
 
 * [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations/)
-* [Customer Support Operations](/handbook/support/support-ops/)
+* [Customer Support Operations](https://handbook.gitlab.com/handbook/support/readiness/operations/)
 * [Engineering Infrastructure (Reliability SREs)](/handbook/engineering/infrastructure/)
 * [Engineering Productivity](/handbook/engineering/quality/engineering-productivity/)
 * [Engineering Security](/handbook/security/)
@@ -143,5 +143,4 @@ The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/), 
 
 ## Career Opportunities
 
-You can see all of our [job families](https://handbook.gitlab.com/job-families/finance/) to learn more about the roles in our department. You can see our open positions at [https://about.gitlab.com/jobs/](https://about.gitlab.com/jobs/). 
-
+You can see all of our [job families](https://handbook.gitlab.com/job-families/finance/) to learn more about the roles in our department. You can see our open positions at [https://about.gitlab.com/jobs/](https://about.gitlab.com/jobs/).
