@@ -119,7 +119,9 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 
 ## Performance Indicators (PI)
 
-- As with all roles in the Finance Department the Finance System Administrator participates in the [team KPIs](https://about.gitlab.com/company/kpis/#finance-kpis).
+- [Evaluating System or Process Efficiency](https://about.gitlab.com/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
+- [Average Issues](https://about.gitlab.com/handbook/business-technology/metrics/#average-issues)
+- [Average Merge Requests](https://about.gitlab.com/handbook/business-technology/metrics/#average-merge-request)
 
 ## Career Ladder
 
