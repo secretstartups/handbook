@@ -97,10 +97,6 @@ In certain cases, the help of a third party agency or design partner may be brou
 
 Whenever a third party is brought in to support design, the work must be shared with the Brand Design team to ensure brand integrity and that we are [working transparently](/handbook/values/#transparency) with one another.
 
-#### Brand oversight
-
-Occasionally the [old GitLab logo](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/gitlab-brand-files/gitlab-logo-files/full-color/solid-logo/png/gitlab-logo-gray-rgb.png) is still in use on partner websites, diagrams or images, and within our own documentation. If you come across our old logo in use, please bring it to our attention by creating an issue in the [Marketing](https://gitlab.com/gitlab-com/marketing/general/issues) issue tracker. Please include a link and screenshot (if possible) in the description of the issue and we will follow-up to get it updated. Thanks for contributing to our brand integrity!
-
 #### Fanart
 
 The GitLab brand has been a source of creative inspiration for team members and the wider community since its inception. In many cases, team members may find themselves creating spinoff art inspired by our [values](https://about.gitlab.com/handbook/values/), [software](https://about.gitlab.com/stages-devops-lifecycle/), and [tanuki](https://design.gitlab.com/brand-logo/logomark) logo. 
