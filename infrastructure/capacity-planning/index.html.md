@@ -129,38 +129,18 @@ The prioritization framework uses an [Eisenhower Matrix](https://todoist.com/pro
  * [Issues sorted by priority](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/?sort=label_priority&state=opened)
  * [Scoped prioritized labels](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/labels?subscribed=&search=capacity-planning%3A%3Apriority)
 
-### Relaying Capacity Incidents to Engineering
+### Relaying Forecasted Capacity Saturation Warnings to Engineering
 
-The forecasts of crucial saturation points are reviewed in the weekly [Gitlab SaaS Availability](/handbook/engineering/#saas-availability-weekly-standup) and any required corrective actions are prioritized according to the timeframes for saturation predicted by the forecast, and the criticality of the resources.
+All forecasted capacity saturation warnings are associated with a [service](https://gitlab.com/gitlab-com/runbooks/-/blob/master/services/service-catalog.yml). 
+The Scalability team uses the [service catalog](https://gitlab.com/gitlab-com/runbooks/-/blob/master/services/service-catalog.yml) to find the owner of the relevant service. 
+We apply the matching team label and assign the issue to the Engineering Manager for that team who will be the [DRI](/handbook/people-group/directly-responsible-individuals/) going forward. The Engineering Manager can be found by looking for the owning team in [the teams.yml file](https://gitlab.com/gitlab-com/runbooks/-/blob/master/services/teams.yml) and finding the `manager` entry. 
 
-We select the most crucial saturation points to report in the meeting based on the impact they would have when fully saturated and how difficult the mitigation might be. To indicate issues like this, we apply the ~"SaaS Weekly" label when we do the weekly triage.
+The [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for resolving the capacity warning, maintaining the due date for the issue, and for providing status information on the issue. If they would like to raise a separate issue in their own tracker, they need to link the issues together and to continue to update the capacity planning issue with status each week.
 
-For the Availability weekly we report all of the issues with this label:
-1. For each item, confirm the latest status with the DRI and update the agenda to match.
-1. If there is not movement on an issue, confirm the urgency of the problem and raise awareness in the meeting. Another approach is to ask the DRI for when the next update will be available.
-1. Report which items were closed since last week's report.
+The [DRI](/handbook/people-group/directly-responsible-individuals/) can also decide to change the Service Level Objective or the metric definition that is used to generate the capacity warnings. 
+If there is data available to the owning team indicating the warning and the predicted saturation date are not the right distance apart, the [DRI](/handbook/people-group/directly-responsible-individuals/) should work on adjusting that Service Level Objective. The [Scalability:Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html] is available to assist, but the work should be owned by the [DRI](/handbook/people-group/directly-responsible-individuals/) and related team. 
 
-Actions described above can also take place asynchronously at any time - we should not wait for the Engineering Allocation meeting to update issue status or find
-DRIs for issues.
-
-The Scalability:Projections team will triage the capacity alerts by labeling them with the relevant [severity/priority labels](/handbook/engineering/quality/issue-triage/#severity-slos) and
-assign them to the appropriate owner. We rely on the [Infradev Process](/handbook/engineering/workflow/#infradev) to assist with prioritization of these capacity issues.
-We remain available for guidance and review support.
-
-#### Identifying the DRI for a Capacity Issue
-There are three scenarios that can occur:
-
-1. Wholly-owned component: An alert fires for a component that is owned by a specific group. Projections will triage the issue, and assign the alert to the Engineering Manager of that group. Tracking of the issue forms part of the Infradev Process. (Where Infrastructure owns the issue, the motivation for addressing the problem comes from wanting to prevent alerts to the on-call engineers).
-1. Shared-ownership but clear cause: An alert fires for a general component. During triage, the Projections team can identify a single cause and a clear owner. Projections will triage the issue and assign the alert to the relevant Engineering Manager. Tracking of the issue forms part of the Infradev Process. 
-1. Shared-ownership, alert caused by multiple factors: The Projections team will remain the DRI for these issues and may also own the remediation tasks unless a specific DRI can be identified during the investigation. 
-
-The severity and priority assigned to these Infradev issues will be based on the alert information. If the alert continues to fire, the severity and priority
-will be raised appropriately. 
-
-When the DRI has been identified, the issue will be assigned to them and a comment will be added to describe how we identified them as the owner as well as what is expected from them to resolve the issue.
-The DRI should keep the issue updated by maintaining the due date and adding status information each time the due date is adjusted. 
-
-If the issue belongs to a specific team, the team label will also be applied.
+We select the most crucial saturation points to report in the [Gitlab SaaS Availability](/handbook/engineering/#saas-availability-weekly-standup) meeting based on the impact they would have when fully saturated and how difficult the mitigation might be. To indicate issues like this, we apply the ~"SaaS Weekly" label when we do the weekly triage.
 
 ## Examples of Capacity Issues
 
