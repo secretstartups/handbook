@@ -14,6 +14,20 @@ description: "The verify development group handbook page."
 
 We enable global software organizations and teams to make great decisions with [smart feedback loops](/direction/ops/#smart-feedback-loop) by delivering [speedy, reliable pipelines](/direction/ops/#speedy-reliable-pipelines) in a [comprehensive CI platform](/direction/ops/#verify) that embodies [Operations for All](/direction/ops/#operations-for-all).
 
+### Technical Roadmap 
+
+In 2022, the Verify stage focused on reliability and scalability of GitLab CI, which was critical for the availability of gitlab.com.  This included addressing database performance, security vulnerabilities, performance improvements and relevant technical debt.
+This ensured GitLab remained secure, compliant and performant, with our SaaS offering that was able to maintain [SLAs of gitlab.com](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability).
+
+In 2023, the Verify Pipeline teams will be focused on the following Engineering-led initiatives, in addition to our deliverables for the [FY24 Yearlies](https://about.gitlab.com/company/yearlies/#fy24-yearlies):
+1. [CI Data Partitioning](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/architecture/blueprints/ci_data_decay/pipeline_partitioning.md)
+1. Pipeline speed improvements - including analysis of pipeline performance
+1. Review the [data retention strategy of CI data on gitlab.com](https://gitlab.com/gitlab-org/verify-stage/-/issues/440)
+1. Security vulnerabilities and infradev issues related to SaaS availablity
+1. S1/S2 bug burndown of Categories that do not have planned feature development for FY24.
+    1. Note that this also includes the `Continuous Integration` category, which has the biggest backlog of bugs in Verify.  While it may be considered "Maintenance" (no new feature development planned), this work remains critical in ensuring we keep GitLab CI performant and reliable.
+    1. [Pipeline Execution](/handbook/engineering/development/ops/verify/pipeline-execution/) owns the `Continuous Integration` category. The team is also the DRI for CI Data Partitioning and Pipeline speed improvement efforts.
+
 ## Mission
 
 As engineers in Verify we know our customers because we _are_ our customers, and we are constantly striving to make our platform better for everyone. We do this through [iteration](/handbook/values/#iteration), [dogfooding](/handbook/values/#dogfooding), and being involved in our open source community. We innovate, we collaborate, and we challenge assumptions to arrive at great results.
@@ -59,7 +73,7 @@ Pipeline Authoring and Pipeline Execution are closely related but they also repr
 
 ### Verify:Runner
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Verify:Runner') %>
+<%= direct_team(manager_role: 'Senior Engineering Manager, Verify:Runner') %>
 
 ### Verify:Pipeline Security
 
