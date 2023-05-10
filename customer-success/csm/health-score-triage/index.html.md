@@ -136,7 +136,7 @@ This can then be discussed with the [Account Team](/handbook/customer-success/ac
    1. Monthly [At-Risk Timeline](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) updates
       - Entry should include progress towards risk mitigation over the past month and plans for the upcoming month.
 
-![GitLab At-Risk Customer Process](images/CSM_AtRisk_Customer_Process.jpeg)
+![GitLab At-Risk Customer Process](CSM_At-Risk_Customer_Process.png)
 
 ### When to open an Account Escalation
 
