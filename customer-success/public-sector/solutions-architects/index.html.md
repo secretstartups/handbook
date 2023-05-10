@@ -21,7 +21,7 @@ Because specific requirements and common engagement practices differ from Enterp
 The GitLab Support Team provides [U.S.-based support](https://about.gitlab.com/support/us-federal-support) for those customers that require U.S. citizens to work their support tickets.
 
 - The user that submits the ticket needs to be associated with the appropriate account in SFDC.
-- All accounts and user information get synched between SFDC and Zendesk on an hourly basis under the conditions detailed on the [Support Ops page](/handbook/support/support-ops/responsibilities.html#sfdcus-federal-zendesk-sync).
+- All accounts and user information get synched between SFDC and Zendesk on an hourly basis under the conditions detailed on the [Support Ops page](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/zendesk_salesforce_sync/).
 - All communications with support will be asynchronous, unless a synchronous call is requested by the Customer Success Manager and/or Solutions Architect for that account.
 - Only customers designated as Public Sector in SFDC are eligible for Federal Support.
 - When a Public Sector prospective customer begins a sales-assisted trial (including Proofs of Value), the Public Sector Solutions Architect will verify that the appropriate "Support Level" is set in the account record in SFDC (Premium or Ultimate).  This will ensure that the SLA for support is set correctly.
@@ -85,7 +85,7 @@ A: The GitLab Server Operator (the ability to run a GitLab instance on openShift
 
 **Q: What features currently do not work when running GitLab with OpenShift?**
 
-A: SAST, DAST, AutoDevops. These are on the roadmap with no designated date as of yet. 
+A: SAST, DAST, AutoDevops. These are on the roadmap with no designated date as of yet.
 
 **Q: What OpenShift versions will the integration work with?**
 
@@ -100,4 +100,3 @@ A: [See this GitLab Epic](https://gitlab.com/groups/gitlab-org/-/epics/2068)
 The GitLab for Campuses program introduced flat rate pricing for universities based on size. In order for these campuses to evaluate GitLab's fit for their schools, labs, and students, a campus technical evaluation playbook was created.  The playbook covers personas, meeting types, options and outcomes associated with an ideal 4 to 8 week evaluation of GitLab for campuses with minimal to moderate knowledge of GitLab.
 
 Solutions Architects can use this playbook to guide campuses through an evaluation of GitLab's broad technical capabilities. The [playbook](https://docs.google.com/spreadsheets/d/1vyRgC2auX0RYp34nqMMp8xr0YllhsVfxJ3EnGImtM9k/edit?usp=sharing) is accessibly by GitLab team members only.
-

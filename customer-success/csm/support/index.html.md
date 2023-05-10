@@ -47,11 +47,11 @@ GitLab offers [a variety of support options](/support/) for all customers and us
 1. If a call is necessary, the support engineer will invite your team to a call via the ticket.
 1. If a support engineer requests follow up items, please make sure to respond back with these items. This will help us resolve the issue as quickly as possible.
 
-## Automated linking of customer architecture / [Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) information in Zendesk tickets 
+## Automated linking of customer architecture / [Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) information in Zendesk tickets
 
-For each customer / org in Zendesk managed by a CSM, we can get a link to the collaboration project included, which then can point to the customers architecture details within existing tickets. This link helps our support team to access customer information from the [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) without looking up the URL manually each time. 
+For each customer / org in Zendesk managed by a CSM, we can get a link to the collaboration project included, which then can point to the customers architecture details within existing tickets. This link helps our support team to access customer information from the [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) without looking up the URL manually each time.
 
-To enable this [linking from ZD to the corresponding collaboration project](/handbook/support/workflows/looking_up_customer_technical_details.html#architecture-diagram-and-customer-success-project) and make the life of the GitLab support team easier, you need to review the [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) ID set in Zendesk (visible on the left side). 
+To enable this [linking from ZD to the corresponding collaboration project](/handbook/support/workflows/looking_up_customer_technical_details.html#architecture-diagram-and-customer-success-project) and make the life of the GitLab support team easier, you need to review the [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) ID set in Zendesk (visible on the left side).
 
 If the [Customer Collaboration Project](/handbook/customer-success/csm/customer-collaboration-project/) id is not correct, you can open a new issue with our support ops team [here](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/organizations/-/issues/new) and let it get changed by using the following information in your request:
 
@@ -66,12 +66,12 @@ If the [Customer Collaboration Project](/handbook/customer-success/csm/customer-
 
 ---
 
-Once done and the AM id was updated, the link itself will be visible within ZD in an existing ticket, when you click on "Apps" at the top right within the single ticket view. 
+Once done and the AM id was updated, the link itself will be visible within ZD in an existing ticket, when you click on "Apps" at the top right within the single ticket view.
 
 
 ## Support Ticket Notifications
 
-When a CSM is assigned to an account in Salesforce, any time that a user from that account submits a support ticket, the CSM will receive an email to let them know, which includes a link to the Zendesk ticket and an [automatically-created](/handbook/support/support-ops/#salesforce---zendesk-sync) Salesforce case. The email will also include the account name, contact name and email, and the date the ticket was opened. CSMs should receive the email within 1-2 hours of the ticket being opened.
+When a CSM is assigned to an account in Salesforce, any time that a user from that account submits a support ticket, the CSM will receive an email to let them know, which includes a link to the Zendesk ticket and an [automatically-created](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/zendesk_salesforce_sync/) Salesforce case. The email will also include the account name, contact name and email, and the date the ticket was opened. CSMs should receive the email within 1-2 hours of the ticket being opened.
 
 In the email notifying CSMs of new tickets, the included Zendesk ticket link currently leads directly to the ticket. In the past, it has been a .json file which is difficult to read and sometimes doesn't load. If you encounter this, there are a few ways to work around this:
 
