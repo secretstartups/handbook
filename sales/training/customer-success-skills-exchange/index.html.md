@@ -25,61 +25,36 @@ The Customer Success Skills Exchnage is a bi-weekly webinar focused on topics fo
 ## Upcoming Training
 To see what training is coming soon, view the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538).
 
-**Q1 2023 Lineup**
+**Q2 FY24 Lineup**
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|  
-| 2023-03-21 | Value Pillar Messaging (see below for recording) | Saumya Upadhyaya & Haim Snir | 
-| 2023-04-05 | Education Services AMA (see below for recording) | Niyati Shah | 
-| 2023-04-19 | Indicators for Scaling GitLab | Caleb Cooper | 
+| 2023-05-10 | GitLab and GCP Partnership Overview | Regnard Raquedan | 
+| 2023-04-05 | GitLab Dedicated | Andrew Thomas | 
+| 2023-06-07 | TBD | TBD |
+| 2023-06-21 | How to sell Remote Development | Eric Schurter | 
+| 2023-07-05 | TBD | TBD |
+| 2023-07-19 | ModelOps Update | Taylor McCaslin | 
 
 ## Past Sessions
 <details>
 <summary markdown="span">Click here to see links to past sessions on YouTube</summary>
 
-| **Date** | **Topic** | **Public or Private** |
-| ------   | ------    | ------                |   
-| 2023-04-19 | **[Indicators for Scaling GitLab](https://youtu.be/-JMTTrK3mLI)** | Private | 
-| 2023-04-05 | **[Education Services AMA](https://youtu.be/IKKkvQu73Ls)** | Private |
-| 2023-03-21 | **[Value Pillar Messaging](https://youtu.be/mLmvBpvAT00)** | Private |                        
-| 2022-12-07 | **[GitOps Overview and Demo - Session 2](https://www.youtube.com/watch?v=_DMdSHIfQYI)** | Private |  
-| 2022-12-06 | **[GitOps Overview and Demo - Session 1](https://www.youtube.com/watch?v=fKTwNhSHcJw)** | Private | 
-| 2022-11-30 | **[Buyer Persona AMA](https://youtu.be/AdgiCCRo7LE)** | Private | 
-| 2022-10-19 | **[Turning Customers into Contributors](https://youtu.be/Z_uRqfHIYlQ)** | Private | 
-| 2022-10-11 | **[DORA](https://www.youtube.com/watch?v=WueBXydQpzg)** | Private | 
-| 2022-07-27 | **[ModelOps Technical Session](https://youtu.be/1SXPqTh9tnE)** | Private |  
-| 2022-06-15 | **[GitLab 15](https://youtu.be/8LR2lX_Mxd8)** | Public | 
-| 2022-06-01 | **[How to use ‘GitLab Kubernetes Agent Working Examples for Training and Demos’](https://youtu.be/RGs65Zi-Tno)** | Public | 
-| 2022-05-18 | **Canceled** | N/A |
-| 2022-05-04 | **[Tabnine Integration Overview](https://youtu.be/eO6GruDlz8s)** | Public |
-| 2022-04-20 | **[GitLab Agent for Kubernetes and CI/CD tunnel with generic impersonation](https://youtu.be/NysUlIUx434)** |  Public |
-| 2022-04-06 | **[App Modernization with Google Cloud Platform](https://youtu.be/LoLaHUUHk1k)** | Public |
-| 2022-03-30 | **[Alliances Solution Index](https://youtu.be/sKl-pUNqHC4)** | Public |
-| 2022-03-16-17  |  **[GitLab 2022 Sales Kickoff Prework](https://gitlab.edcast.com/insights/ECL-80bd2ef1-0234-4f05-8a02-31c5f056d5a2)**     |    Accelerate is the theme for GitLab SKO 2022 |
-| 2022-03-02 | **[Click-through Demos](https://youtu.be/_VMlygiWzPo)**    | Private | 
-| 2022-02-16 | **[Enhanced DevSecOps and Compliance Management Demo Environment](https://youtu.be/kXmE7Po_2rc)**     |     Public  |
-| 2022-02-02 | **[F.I.R.E. Collaborations - Igniting Inner Sourcing](https://youtu.be/khYtYQ_pCtM)**           |  Public            |
-| 2022-01-19 | **[GitLab Environment Toolkit (GET)](https://youtu.be/qzWxOFNpgsE)**           |  Public            |
-| 2021-12-15 | **[GitLab and RedHat OpenShift](https://youtu.be/gI8alsuQCyw)**           |  Public            |
-| 2021-12-01 | **[GitLab for AI/ML applications](https://youtu.be/bDng9nwwLKU)** |  Public              |
-| 2021-11-17 | **[A Journey into the Customer Portal](https://www.youtube.com/watch?v=JsJyCA7Z6m0)** |  Private              |
-| 2021-11-03 | **[Kubernetes Integration with the Agent](https://youtu.be/kgFbgsCsNTo)**             |    Public           |
-| 2021-10-20 | **[GitOps with GitLab](https://youtu.be/9laTbEb2jbM)**             |  Private              |
-| 2021-10-06 | **[GitOps using GitLab Terraform and Terratag](https://youtu.be/dMo11PzhVQI)**             |    Public           |
-| 2021-09-15 | **[Gitlab + DVC for Code and Data Version Control](https://youtu.be/fvwQQbvSyj8)**    |    Private       |
-| 2021-09-01 | **[Reporting Options/ Metrics with GitLab](https://youtu.be/1nOzwl2vO3k)**             |  Private             |
-| 2021-08-18 | **[Group Conversation: Demo Repo](https://youtu.be/3j8ypg7TX64)**            |    Private            |
-| 2021-08-04 | **[Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131)**   |  Public    |
-| 2021-07-14 | **[How to Introduce PS with Ease](https://youtu.be/JU3aXg7Hry0)** | Private |
-| 2021-05-19 | **[Enablement Roundtable - Completed OKR's](https://youtu.be/m6w4mVhA2GY)** |    Private          |
-| 2021-05-04 | **[Incident Management](https://youtu.be/iEepe2uy1uM)** |   Public          |
-| 2021-04-21 | **[GitLab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)**       | Public        |
-| 2021-03-31 | **[Integrate & Analyze Usage Data in Gainsight](https://youtu.be/h2mPxX-uotw)**              |   Private        |
-| 2021-03-24 | **[Product Roadmap Update](https://youtu.be/2K5wVhitfBk)**            |  Public          |
-| 2021-03-10 | **[Peeling back the layers of Auto Devops](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/121)**  | Public |
-| 2021-03-03 | **[Objection Handling Techniques & Role Play](https://youtu.be/vobGVMqUpqA)**            |     Public         |
-| 2021-02-24 | **[Tracking Value With GitLab - DORA4 Metrics](https://youtu.be/iZzGjnf_T_Y)** | Public |
-
+| **Date** | **Topic** | 
+| ------   | ------    |   
+| 2023-05-10 | **[GitLab and GCP Partnership Overview](https://youtu.be/qTWgNsc3Ets)** |
+| 2023-04-19 | **[Indicators for Scaling GitLab](https://youtu.be/-JMTTrK3mLI)** | 
+| 2023-04-05 | **[Education Services AMA](https://youtu.be/IKKkvQu73Ls)** | 
+| 2023-03-21 | **[Value Pillar Messaging](https://youtu.be/mLmvBpvAT00)** |                         
+| 2022-12-07 | **[GitOps Overview and Demo - Session 2](https://www.youtube.com/watch?v=_DMdSHIfQYI)** |   
+| 2022-12-06 | **[GitOps Overview and Demo - Session 1](https://www.youtube.com/watch?v=fKTwNhSHcJw)** |  
+| 2022-11-30 | **[Buyer Persona AMA](https://youtu.be/AdgiCCRo7LE)** |  
+| 2022-10-19 | **[Turning Customers into Contributors](https://youtu.be/Z_uRqfHIYlQ)** |  
+| 2022-10-11 | **[DORA](https://www.youtube.com/watch?v=WueBXydQpzg)** | 
+| 2022-07-27 | **[ModelOps Technical Session](https://youtu.be/1SXPqTh9tnE)** |   
+| 2022-06-15 | **[GitLab 15](https://youtu.be/8LR2lX_Mxd8)** |  
+| 2022-06-01 | **[How to use ‘GitLab Kubernetes Agent Working Examples for Training and Demos’](https://youtu.be/RGs65Zi-Tno)** | 
+| | Older videos can be watched on [CS Skills Exchange Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) |
 
 </details>
 
@@ -133,8 +108,6 @@ For more information about Recording and Public/ Private YouTube videos, check o
 
 As the moderator for the CS Skills Exchnage, you are responsible for identifying topics, speakers, and dates for the quarter. 
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/b3b5a76a-03bb-4aa2-8ae3-4155f9bbe097" id="iY1k92X_sooG"></iframe></div>
-
 #### Webinar Moderator Responsibilities
 
 
@@ -150,16 +123,16 @@ The moderator for each webinar should serve as the host of the call and overall 
 
 * Log in to zoom 5 minutes ahead of time
 * The video should not be recording, but pause if this is the case
-* Promptly welcome everyone to the call and remind them that the presentation will be public/private. Specifically mention how to talk about sensitive info on every intro. Be sure to start the meeting as close to the start time as possible. 
+* Promptly welcome everyone to the call and remind them that the call will be recorded. Specifically mention how to talk about sensitive info on every intro. Be sure to start the meeting as close to the start time as possible. 
 * Record the call.
 * Monitor the time. 
-* After the session, upload the video to  the [YouTube Unfiltered channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). 
+* After the session, upload the video to  the [GitLab Unfiltered channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). 
 
 
 **After the Webinar**
 
-* Upload the video to the [CS Skills Exchnage playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) in YouTubeUnfiltered
-* Post a announcement in the #ustomer-success Slack channel, and link to the YouTube video.
+* Upload the video to the [CS Skills Exchnage playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) in GitLab Unfiltered
+* Post a announcement in the #customer-success Slack channel, and link to the YouTube video.
 
 Sample Announcement:
 
