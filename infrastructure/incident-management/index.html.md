@@ -153,7 +153,7 @@ If any of the following are true, it would be best to engage an Incident Manager
 1. Any unauthorized access to a GitLab.com production system
 1. Two or more S3 or higher incidents to help delegate to other SREs.
 
-To engage with the Incident Manager run `/pd trigger` and choose the `GitLab Production - Incident Manager` as the impacted service.
+To engage with the Incident Manager run `/pd trigger` and choose the `GitLab Production - Incident Manager` as the impacted service. **Please note** that when an incident is upgraded in severity (for example from S3 to S1), PagerDuty does not automatically page the Incident Manager or Communications Manager and this action must be taken manually.
 
 #### What happens when there are simultaneous incidents?
 
