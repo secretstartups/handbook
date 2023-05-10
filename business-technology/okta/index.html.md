@@ -21,7 +21,7 @@ It allows GitLab to consolidate authentication and authorisation to applications
 
 ### How is GitLab using Okta?
 
-GitLab is using Okta for a few key goals :
+GitLab is using Okta for a few key goals:
 
 - We can use Okta to enable Zero-Trust based authentication controls upon our assets, so that we can allow authorised connections to key assets with a greater degree of certainty.
 - We can better manage the login process to the 80+ and growing cloud applications that we use within our tech stack.
@@ -134,12 +134,58 @@ If both of previous devices are not available, you could use a [YubiKey](https:/
 ### I would like to get a YubiKey, how can I do so?
 Please fill open up the Slack form using /yubikey in a DM to yourself, ([check out our guide for some additional information](https://about.gitlab.com/handbook/it/guides/yubikey/)), and we will coordinate shipment of one to you thru our group buy.
 
+
 ### Lost access to your 2FA or your OKTA account has been locked out because of failed attempts?
 
 - Head to `#it_help` in Slack or email `it-help@gitlab.com` and ask for a 2FA Reset, please be prepared to verify your identity
 - Once Okta 2FA is reset please reconfigure it by logging into your Okta account and setting up with either Biometrics or a YubiKey.
 - If your account is locked please head to `#it_help` and ask to have your account unlocked. As a precaution, you will also need to change your Okta Password.
 
+## Device Trust
+
+Okta Device Trust ensures that team members are acccessing Okta applications from a managed device. For additional details and timelines, please see the [internal handbook](https://internal-handbook.gitlab.io/handbook/it/okta-device-trust/).
+
+### Device Trust Setup on macOS
+
+1. Open the Okta Verify application on macOS by selecting the magnifying glass in the menu bar (top right corner of display)
+![Spotlight Search](/handbook/business-technology/okta/images/spotlight.png)
+
+1. Search for `Okta Verify`
+![Okta Verify Search](/handbook/business-technology/okta/images/okta-verify-search.png)
+
+1. Select `Get Started`
+![Get Started](/handbook/business-technology/okta/images/get-started.png)
+
+1. Select `Next`
+![Get Started-Next](/handbook/business-technology/okta/images/get-started-2.png)
+
+1. Confirm `gitlab.okta.com` is populated for Sign-in URL and then select `Next`
+![Sign-in URL](/handbook/business-technology/okta/images/signin-url.jpg)
+
+1. A browser window will open to gitlab.okta.com to confirm your identity
+![Identity](/handbook/business-technology/okta/images/identity.png)
+
+1. After doing so, you will see the `Your Identity is Verified` message and you can close the browser
+![Identity Success](/handbook/business-technology/okta/images/identity-success.png)
+
+1. The Okta Verify application will refresh. Press `Next` if you are using Touch ID on your Mac (most common), or `Skip` if you are not. Okta Verify uses macOS's Touch ID capability, and the [mathematical calculation](https://support.apple.com/en-us/HT204587) is stored locally within Apple's Secure Enclave and not available to Okta or GitLab.
+![Touch ID Prompt](/handbook/business-technology/okta/images/touch-id-or-skip.png)
+
+1. If you pressed `Next`, then click `Enable Touch ID`
+![Touch ID Prompt 2](/handbook/business-technology/okta/images/touch-id-prompt-2.png)
+
+1. Your GitLab Okta account will now be available to use with Okta Verify on macOS
+![Okta Verify Complete](/handbook/business-technology/okta/images/okta-verify-complete.png)
+
+### After enrolling
+
+You will continue to be able to use a [YubiKey](https://about.gitlab.com/handbook/it/guides/yubikey/) in addition to Touch ID to login to Okta from macOS device. You will not be able to login from a personal macOS device.
+
+A macOS device missing the certificate (even when enrolled with Okta Verify), will quickly show:
+![No Certificate](/handbook/business-technology/okta/images/no-certificate.png)
+
+Then re-direct to the following error:
+![No Certificate 2](/handbook/business-technology/okta/images/no-certificate-2.png)
 
 ## Managing Okta Access Using Google Groups
 
@@ -175,15 +221,6 @@ We will work with you to verify details and provide setup instructions.
 Yes you can!
 Submit a [new application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta) on the Okta project page for your application.
 We will work with you to verify details and provide setup instructions.
-
-## I'm getting asked to MFA authenticate a lot, is that normal?
-
-The way we have Okta setup should require you to authenticate once with MFA when you start your working day, and that session should last for the rest of your work day.
-It's recommended that you login via the [Okta Dashboard](https://gitlab.okta.com/) at the beginning of your day, and then use either the dashboard or the Okta plugin for applications during your work day.
-
-For some applications, we enforce an additional MFA step periodically because of the sensitivity of the data in them.
-We are also trialling a risk-based authentication algorithm that may ask you to re-authenticate if anomalous behaviour is detected on your account or Okta detects an unusual login pattern.
-At this stage, BambooHR and Greenhouse require an additional authentication step.
 
 If you are having problems with being asked for multiple MFA authentications during the day, please [log an issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues) and we can look into it.
 
