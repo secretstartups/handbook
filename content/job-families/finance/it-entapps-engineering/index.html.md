@@ -117,6 +117,12 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 - Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
 - Exhibit strong security and confidentiality practices with systems that handle sensitive data.
 
+## Performance Indicators
+
+### Performance Indicators (PI)
+
+- 
+
 ## Career Ladder
 
 The next step in the  IT Manager, Enterprise Applications Engineer job family is to move to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/) job family.
