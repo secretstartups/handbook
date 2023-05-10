@@ -117,11 +117,9 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 - Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
 - Exhibit strong security and confidentiality practices with systems that handle sensitive data.
 
-## Performance Indicators
+## Performance Indicators (PI)
 
-### Performance Indicators (PI)
-
-- 
+- As with all roles in the Finance Department the Finance System Administrator participates in the [team KPIs](https://about.gitlab.com/company/kpis/#finance-kpis).
 
 ## Career Ladder
 
