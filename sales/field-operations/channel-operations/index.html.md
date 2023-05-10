@@ -430,11 +430,15 @@ The steps below outline how a Partner Sourced Deal Registration is submitted on 
 - Deal Registrations are individual Registration records under the Registration object in SFDC. Deal Registrations are not Lead records on the Lead object.
  
 ### Partner Sourced Deal Registration: Reporting & Tools
-- [Deal Registration Report](https://gitlab.my.salesforce.com/00O4M000004aUal)
-- [Deal Registration Object Fields & Definitions](https://drive.google.com/file/d/1pdPHZpR_0sOUJlat-USGvcXfFjumDwC9/view)
-- [Adding the Registration Object to your Salesforce view](https://drive.google.com/file/d/1iUz42CfvYKPdw1quskc4NmraFVoZvFez/view)
-- [Creating Personal Deal Registration views](https://drive.google.com/file/d/1UtERcTNgNr9pTIf9OXDdpj3dNuhk9ISj/view)
-- [Partner-facing Deal Registration instructions](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#deal-registration-instructions)
+- Deal Registration Views by Role
+  - [Partner Manager](https://gitlab.my.salesforce.com/a9W?fcf=00B4M000004toX7)
+  - [Sales Rep](https://gitlab.my.salesforce.com/a9W?fcf=00B4M000004tokk)
+  - [ASM](https://gitlab.my.salesforce.com/a9W?fcf=00B8X00000AmOeS)
+- [ASM Deal Registration Guide](https://docs.google.com/document/d/1HpN7Hh2HJL8H2Cds9xBzqqk_ZrxGbhbWvvh-IRITVB8/edit?usp=sharing)
+- [Deal Registration Object Overview](https://docs.google.com/document/d/109fyrxrE5AELqRJp_L1zwWALQS92XW2hZpQQjXCtfYY/edit?usp=sharing)
+- [Adding the Registration Object to your Salesforce Navigation Bar](https://docs.google.com/document/d/1XtQIKLC5y5i1so-woJyZoShJqwT2hunulqw3FP92y98/edit?usp=sharing)
+- [How to View All of your Deal Registrations in SFDC](https://docs.google.com/document/d/16RF5HiHfGvYg2x7AsVpJzr_yUbBveIE0S255KKJhIe0/edit?usp=sharing)
+- [Partner Facing Deal Registration instructions](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#deal-registration-instructions)
  
 ### Partner Sourced Deal Registration: Resale Opportunities
 Partner Sourced Deal Registrations for resale opportunities reward partners for bringing net-new business to GitLab. An approved Partner Sourced Deal Registration generally provides the partner a deeper discount than the Co-Sell rate, as outlined in the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#definitions-and-qualifications).
@@ -443,28 +447,36 @@ Follow the steps below to process a Partner Sourced Deal Registration for a resa
  
 #### Partner Manager for first review and action
 
-1. Click the link in either your email or the Deal Registration Report to open the registration record in Salesforce.
+1. Click the link in either your email or [Deal Registration View](https://gitlab.my.salesforce.com/a9W?fcf=00B4M000004toX7) to open the registration record in Salesforce.
 2. Confirm the `Deal Registration Type` is ”Resale” and that the partner provided sufficient detail to proceed with the registration. If registration details are:
    - _accurate and complete_, proceed to the next step.
-   - _inaccurate and/or incomplete_, navigate to the Approval History section of the registration and select `Return`.
+   - _inaccurate and/or incomplete_, chatter `@Partner Operations`with the information request and we will return the registration to the partner for review and update.
 3. Discuss the opportunity with the GitLab Sales Rep and decide to either approve or reject the registration.
 4. Click `Link/Create Opportunity`.
+    ![14-Link_Create_Opp_Button](/handbook/sales/field-operations/channel-operations/images/14-Link_Create_Opp_Button.png)
 5. On the “Link/Create Opportunity” page, search for the opportunity in the provided list and/or perform a “Global Search.”
    - **If the opportunity already exists** and you plan to:
      - _**Approve**_ the registration, click `Link & Make Primary` next to the opportunity name. You will then be brought back to the deal registration record. 
      - _**Reject**_ the registration, click `Link` next to the opportunity name. You will then be brought back to the deal registration record.
    - **If there is no matching opportunity**, click `Create New`, then choose “Standard” as the Opportunity Record Type. Click “Save” on the opportunity and you will be brought back to the “Link/Create Opportunity” page. Click `Link & Make Primary` and you will be brought back to the deal registration record.
-6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
-7. Add any comments for the partner in the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
+    ![15-Link_Create_Opp_Screen](/handbook/sales/field-operations/channel-operations/images/15-Link_Create_Opp_Screen.png)
+6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`. _Note, if you are rejecting but want to add a rejection reason and/or comment for the partner prior to doing so, please chatter `@Partner Operations`with this information. We will make the necessary updates to the registration and then reject it on your behalf_.
+    ![16-CAM_Approval_History](/handbook/sales/field-operations/channel-operations/images/16-CAM_Approval_History.png)
+7. Select either `Approve` or `Reject`.
+    ![18-Final_Approve_Reject](/handbook/sales/field-operations/channel-operations/images/18-Final_Approve_Reject.png)
+8. If you created a new opportunity during this process (see step 5 above), update `Opportunity Owner` to the Sales Rep who owns the customer account using the `Change Opportunity Owner` button on the opportunity.
+    ![19-Change_Opp_Owner_Button](/handbook/sales/field-operations/channel-operations/images/19-Change_Opp_Owner_Button.png)
 
 #### Area Sales Manager (ASM) for final review and action (if approved by Partner Manager)
 
 1. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
-  - **If you have _not_ yet aligned** with the GitLab Partner Manager and Sales Rep, click the link in either your email or the Deal Registration Report to open the registration record in SFDC, then proceed to the next step.
+  - **If you have _not_ yet aligned** with the GitLab Partner Manager and Sales Rep, click the link in your email or [Deal Registration View](https://gitlab.my.salesforce.com/a9W?fcf=00B8X00000AmOeS) to open the registration record in SFDC, then proceed to the next step.
 2. Confirm alignment with the Partner Manager and GitLab Sales Rep prior to providing final approval or rejection on the registration.
 3. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
-4. Add any comments for the partner into the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
+    ![17-ASM_Approval_History](/handbook/sales/field-operations/channel-operations/images/17-ASM_Approval_History.png)
+4. Select either `Approve` or `Reject`.
+    ![18-Final_Approve_Reject](/handbook/sales/field-operations/channel-operations/images/18-Final_Approve_Reject.png)
 
 _The deal registration form is not a quoting tool and will not have all the information needed to create a quote. The GitLab Sales Rep must connect with the partner to request any necessary information prior to creating a quote._
 
@@ -477,21 +489,26 @@ Follow the steps below to process a Partner Sourced Deal Registration for an MSP
  
 #### Partner Manager for first review and action
 
-1. Click the link in either your email or the Deal Registration Report to open the registration record in Salesforce.
+1. Click the link in either your email or [Deal Registration View](https://gitlab.my.salesforce.com/a9W?fcf=00B4M000004toX7) to open the registration record in Salesforce.
 2. Confirm the `Deal Registration Type` is "MSP" and that the partner provided sufficient detail to proceed with the registration. If registration details are:
    - _accurate and complete_, proceed to the next step.
-   - _inaccurate and/or incomplete_, navigate to the Approval History section of the registration and select `Return`.
+   - _inaccurate and/or incomplete_, chatter `@Partner Operations`with the information request and we will return the registration to the partner for review and update.
 3. Discuss the opportunity with the GitLab Sales Rep and decide to either approve or reject the registration.
 4. Click `Link/Create Opportunity`.
+    ![14-Link_Create_Opp_Button](/handbook/sales/field-operations/channel-operations/images/14-Link_Create_Opp_Button.png)
 5. On the “Link/Create Opportunity” page, search for the opportunity in the provided list and/or perform a “Global Search.”
    - **If the opportunity already exists** and you plan to:
      - _**Approve**_ the registration, click `Link & Make Primary` next to the opportunity name. You will then be brought back to the deal registration record. 
      - _**Reject**_ the registration, click `Link` next to the opportunity name. You will then be brought back to the deal registration record.
    - **If there is no matching opportunity**, click `Create New`, then choose “Standard” as the Opportunity Record Type. Click “Save” on the opportunity and you will be brought back to the “Link/Create Opportunity” page. Click `Link & Make Primary` and you will be brought back to the deal registration record.
-6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
-7. Add any comments for the partner in the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
+    ![15-Link_Create_Opp_Screen](/handbook/sales/field-operations/channel-operations/images/15-Link_Create_Opp_Screen.png)
+6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`. _Note, if you are rejecting but want to add a rejection reason and/or comment for the partner prior to doing so, please chatter `@Partner Operations`with this information. We will make the necessary updates to the registration and then reject it on your behalf_.
+    ![16-CAM_Approval_History](/handbook/sales/field-operations/channel-operations/images/16-CAM_Approval_History.png)
+7. Select either `Approve` or `Reject`.
+    ![18-Final_Approve_Reject](/handbook/sales/field-operations/channel-operations/images/18-Final_Approve_Reject.png)
 8. Change the `Account Name` field on the opportunity to the partner account. This should **not** be the MSP End User (i.e., customer) account.
 9. If you created a new opportunity during this process (see step 5 above), update `Opportunity Owner` on the opportunity to the Sales Rep who owns the MSP End User (i.e., customer) account using the `Change Opportunity Owner` button.
+    ![19-Change_Opp_Owner_Button](/handbook/sales/field-operations/channel-operations/images/19-Change_Opp_Owner_Button.png)
 10. Connect the GitLab Sales Rep to the MSP Partner Rep so they can discuss and align on opportunity and quote details.
 11. Provide [Deal Desk MSP quoting](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#msp-quotes) and [Internal Partner Program discounting](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing) links to the GitLab Sales Rep so they have the process details necessary to manage the opportunity and create a quote.
 
@@ -499,10 +516,12 @@ Follow the steps below to process a Partner Sourced Deal Registration for an MSP
 
 1. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
-  - **If you have _not_ yet aligned** with the GitLab Partner Manager and Sales Rep, click the link in either your email or the Deal Registration Report to open the registration record in SFDC, then proceed to the next step.
+  - **If you have _not_ yet aligned** with the GitLab Partner Manager and Sales Rep, click the link in your email or [Deal Registration View](https://gitlab.my.salesforce.com/a9W?fcf=00B8X00000AmOeS) to open the registration record in SFDC, then proceed to the next step.
 2. Confirm alignment with the Partner Manager and GitLab Sales Rep prior to providing final approval or rejection on the registration.
 3. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
-4. Add any comments for the partner into the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
+    ![17-ASM_Approval_History](/handbook/sales/field-operations/channel-operations/images/17-ASM_Approval_History.png)
+4. Select either `Approve` or `Reject`.
+    ![18-Final_Approve_Reject](/handbook/sales/field-operations/channel-operations/images/18-Final_Approve_Reject.png)
 
 _The deal registration form is not a quoting tool and will not have all the information needed to create a quote. The GitLab Sales Rep must connect with the partner to request any necessary information prior to creating a quote._
 
@@ -513,28 +532,36 @@ Follow the steps below to process a Partner Sourced Deal Registration for a Refe
 
 #### Partner Manager for first review and action
 
-1. Click the link in either your email or the Deal Registration Report to open the registration record in Salesforce.
+1. Click the link in either your email or [Deal Registration View](https://gitlab.my.salesforce.com/a9W?fcf=00B4M000004toX7) to open the registration record in Salesforce.
 2. Confirm the `Deal Registration Type` is ”Resale” and that the partner provided sufficient detail to proceed with the registration. If registration details are:
    - _accurate and complete_, proceed to the next step.
-   - _inaccurate and/or incomplete_, navigate to the Approval History section of the registration and select `Return`.
+   - _inaccurate and/or incomplete_, chatter `@Partner Operations`with the information request and we will return the registration to the partner for review and update.
 3. Discuss the opportunity with the GitLab Sales Rep and decide to either approve or reject the registration.
 4. Click `Link/Create Opportunity`.
+    ![14-Link_Create_Opp_Button](/handbook/sales/field-operations/channel-operations/images/14-Link_Create_Opp_Button.png)
 5. On the “Link/Create Opportunity” page, search for the opportunity in the provided list and/or perform a “Global Search.”
    - **If the opportunity already exists** and you plan to:
      - _**Approve**_ the registration, click `Link & Make Primary` next to the opportunity name. You will then be brought back to the deal registration record. 
      - _**Reject**_ the registration, click `Link` next to the opportunity name. You will then be brought back to the deal registration record.
    - **If there is no matching opportunity**, click `Create New`, then choose “Standard” as the Opportunity Record Type. Click “Save” on the opportunity and you will be brought back to the “Link/Create Opportunity” page. Click `Link & Make Primary` and you will be brought back to the deal registration record.
-6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
-7. Add any comments for the partner in the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
+    ![15-Link_Create_Opp_Screen](/handbook/sales/field-operations/channel-operations/images/15-Link_Create_Opp_Screen.png)
+6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`. _Note, if you are rejecting but want to add a rejection reason and/or comment for the partner prior to doing so, please chatter `@Partner Operations`with this information. We will make the necessary updates to the registration and then reject it on your behalf_.
+    ![16-CAM_Approval_History](/handbook/sales/field-operations/channel-operations/images/16-CAM_Approval_History.png)
+7. Select either `Approve` or `Reject`.
+    ![18-Final_Approve_Reject](/handbook/sales/field-operations/channel-operations/images/18-Final_Approve_Reject.png)
+8. If you created a new opportunity during this process (see step 5 above), update `Opportunity Owner` to the Sales Rep who owns the customer account using the `Change Opportunity Owner` button on the opportunity.
+    ![19-Change_Opp_Owner_Button](/handbook/sales/field-operations/channel-operations/images/19-Change_Opp_Owner_Button.png)
 
 #### Area Sales Manager (ASM) for final review and action (if approved by Partner Manager)
 
 1. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
-  - **If you have _not_ yet aligned** with the GitLab Partner Manager and Sales Rep, click the link in either your email or the Deal Registration Report to open the registration record in SFDC, then proceed to the next step.
+  - **If you have _not_ yet aligned** with the GitLab Partner Manager and Sales Rep, click the link in your email or [Deal Registration View](https://gitlab.my.salesforce.com/a9W?fcf=00B8X00000AmOeS) to open the registration record in SFDC, then proceed to the next step.
 2. Confirm alignment with the Partner Manager and GitLab Sales Rep prior to providing final approval or rejection on the registration.
 3. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
-4. Add any comments for the partner into the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
+    ![17-ASM_Approval_History](/handbook/sales/field-operations/channel-operations/images/17-ASM_Approval_History.png)
+4. Select either `Approve` or `Reject`.
+    ![18-Final_Approve_Reject](/handbook/sales/field-operations/channel-operations/images/18-Final_Approve_Reject.png)
 
 _The deal registration form is not a quoting tool and will not have all the information needed to create a quote. The GitLab Sales Rep must connect with the partner to request any necessary information prior to creating a quote._
  
@@ -547,30 +574,36 @@ Follow the steps below to process a Service Attached Registration for an applica
 
 #### Partner Manager for first review and action
 
-1. Click the link in either your email or the Deal Registration Report to open the registration record in Salesforce.
-2. Confirm the `Program Name` is “Service Attached Registration”, `Services Attach Type` is populated with the relevant service, and that the partner provided sufficient detail to proceed with the registration. If registration details are _accurate and complete_, proceed to the next step. If registration details are _inaccurate and/or incomplete_, navigate to the Approval History section of the registration and select `Return`. **Important to note:**
+1. Click the link in either your email or [Deal Registration View](https://gitlab.my.salesforce.com/a9W?fcf=00B4M000004toX7) to open the registration record in Salesforce.
+2. Confirm the `Program Name` is “Service Attached Registration”, `Services Attach Type` is populated with the relevant service, and that the partner provided sufficient detail to proceed with the registration. If registration details are _accurate and complete_, proceed to the next step. If registration details are _inaccurate and/or incomplete_, chatter `@Partner Operations`with the information request and we will return the registration to the partner for review and update. **Important to note:**
    - There may also be a Resale or Referral Partner Sourced Deal Registration for the license sale. The Resale or Referral registration will populate in the opportunity fields, while the Service Attached registration will only be linked to the opportunity.
    - A Service Attached Registration **must** attach to a license sale opportunity. 
    - There should already be an existing license sale opportunity in the system prior to processing approvals on a Service Attached Registration. If there is no existing license opportunity, the Partner Manager should request that the partner submit a Partner Sourced Deal Registration for the license sale. Once the Partner Manager has processed the Partner Sourced Deal Registration, they can attach the Service Attached Registration to the existing opportunity and proceed with approvals.
 3. Discuss the Service Attached registration with the GitLab Sales Rep and decide to either approve or reject.
 4. Click `Link/Create Opportunity`.
+    ![20-Svce_Att_Reg_LinkCreateOpp_Button](/handbook/sales/field-operations/channel-operations/images/20-Svce_Att_Reg_LinkCreateOpp_Button.png)
 5. On the “Link/Create Opportunity” page, search for the opportunity in the provided list and/or perform a “Global Search.”
    - **If the opportunity already exists**, click `Link` next to the opportunity name. You will then be brought back to the deal registration record. 
    - **If there is no matching opportunity**, and you plan to:
      - _**Approve**_ the registration, click the `Back` button and refer to Step 2 above for next steps.
      - _**Reject**_ the registration, click the `Back` button and proceed to the next step.
    - **The opportunity must be less than 6 months old to qualify for the incentive**. If the opportunity is greater than 6 months old, the Partner Manager should reject the registration and work with the partner to see if there is an upcoming licensing opportunity that would qualify for partner services.
-6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.  
-7. Add any comments for the partner in the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
+    ![21-Svce_Att_Reg_LinkCreateOpp_Screen.png](/handbook/sales/field-operations/channel-operations/images/21-Svce_Att_Reg_LinkCreateOpp_Screen.png)
+6. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`. _Note, if you are rejecting but want to add a rejection reason and/or comment for the partner prior to doing so, please chatter `@Partner Operations`with this information. We will make the necessary updates to the registration and then reject it on your behalf_.
+    ![16-CAM_Approval_History](/handbook/sales/field-operations/channel-operations/images/16-CAM_Approval_History.png)
+7. Select either `Approve` or `Reject`.
+    ![18-Final_Approve_Reject](/handbook/sales/field-operations/channel-operations/images/18-Final_Approve_Reject.png)
 
 #### Area Sales Manager (ASM) for final review and action (if approved by Partner Manager)
 
 1. You will receive an approval request email when a registration has entered your queue for review and approval:
   - **If you have already aligned** with the GitLab Partner Manager and Sales Rep, you can reply to the email to Approve or Reject. This will add your approval/rejection to the registration record in SFDC and complete the process (i.e., no further action needed).
-  - **If you have _not_ yet aligned** with the GitLab Partner Manager and Sales Rep, click the link in either your email or the Deal Registration Report to open the registration record in SFDC, then proceed to the next step.
+  - **If you have _not_ yet aligned** with the GitLab Partner Manager and Sales Rep, click the link in your email or [Deal Registration View](https://gitlab.my.salesforce.com/a9W?fcf=00B8X00000AmOeS) to open the registration record in SFDC, then proceed to the next step.
 2. Confirm alignment with the Partner Manager and GitLab Sales Rep prior to providing final approval or rejection on the registration.
 3. Navigate to the Approval History section at the bottom of the registration record and click `Approve / Reject`.
-4. Add any comments for the partner into the `Comments` field. This is not required, but anything included in the `Comments` field will be sent back to the partner. Then select either `Approve` or `Reject`.
+    ![17-ASM_Approval_History](/handbook/sales/field-operations/channel-operations/images/17-ASM_Approval_History.png)
+4. Select either `Approve` or `Reject`.
+    ![18-Final_Approve_Reject](/handbook/sales/field-operations/channel-operations/images/18-Final_Approve_Reject.png)
 
 #### Post-Approval
 
