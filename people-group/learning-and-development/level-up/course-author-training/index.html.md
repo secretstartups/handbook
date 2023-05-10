@@ -16,6 +16,8 @@ This training is designed for team members who would like to create their own le
 
 This handbook page is used to document the Level Up Learning Evangelist Training. The Learning & Development team use a [handbook first](/people-group/learning-and-development/interactive-learning/) approach to interactive learning, so the content in this page can also be found in the Level Up course, but is preserved here as a Single Source of Truth (SSOT).
 
+[You can access this course in Level Up here.](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/learning-evangelist-training)
+
 ## Switching between admin and learner views
 
 When your permissions are uplifted, you will be granted access to the admin side of the platform. This video shows you how to switch between the Learner and Admin views, so that you can create content, but also still navigate the platform as a regular learner.
