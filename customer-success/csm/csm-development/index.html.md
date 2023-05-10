@@ -57,12 +57,7 @@ The content is divided into three key categories of competencies. [LevelUp](http
 
 #### Leadership
 
-- [GitLab Company-Wide Mentorship Program](/handbook/people-group/learning-and-development/mentor/company-program/) (HB)
-- [GitLab Leadership development program - Elevate](/handbook/people-group/learning-and-development/elevate/)
-- [CEO Shadow Program](/handbook/ceo/shadow/)
-- [Sounding Board](https://www.soundingboardinc.com/request-demo/) (External resource with online coaching)
-- [New Manager Foundations](https://www.linkedin.com/learning/new-manager-foundations-2/)
-- [Being a good mentor](https://www.linkedin.com/learning/being-a-good-mentor/)
+- [CSM Aspiring Leaders Program](/handbook/customer-success/csm/aspiring-leaders-program/)
 
 #### Executive Communication
 

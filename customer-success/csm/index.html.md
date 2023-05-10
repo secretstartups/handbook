@@ -222,6 +222,7 @@ There are 7 pillars that we have identified as crucial for success as CSMs. It i
 
 - [CSM Objectives and Key Results (OKRs)](/handbook/customer-success/csm/csm-okrs)
 - [Overview of available resources, training plans & career paths](/handbook/customer-success/csm/csm-development/)
+- [CSM Aspiring Leaders Program](/handbook/customer-success/csm/aspiring-leaders-program/)
 
 ### CSM Responsibilities
 
