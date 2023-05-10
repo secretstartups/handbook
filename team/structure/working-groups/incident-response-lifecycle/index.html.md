@@ -70,7 +70,6 @@ canonical_path: "/company/team/structure/working-groups/incident-response-lifecy
    * [How to Perform CMOC Duties](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html)
    * [Contacting Customers](https://about.gitlab.com/handbook/support/internal-support/#contacting-customers-via-tickets)
    * [Sending Notices](https://about.gitlab.com/handbook/support/workflows/sending_notices.html) (small number of users)
-   * [Customer Ticket Generator](https://about.gitlab.com/handbook/support/support-ops/workflows/customer-ticket-generator.html) (large number of users)
 
 ### Noted issues
 
