@@ -93,11 +93,11 @@ Extends the IT Enterprise Applications Administrator responsibilities:
       - Experience integrating Zuora with other systems such as Salesforce, Netsuite, and Avalara.
       - Zuora Certified Platform Admin, Zuora Billing and Revenue Certifications a plus.
 
-### IT Manager, Enterprise Applications Engineering
+### Manager, IT Enterprise Applications Engineering
 
-IT Manager, Enterprise Applications Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/).
+Manager, IT Enterprise Applications Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/).
 
-### IT Manager, Enterprise Applications Engineering Responsibilities
+### Manager, IT Enterprise Applications Engineering Responsibilities
 
 Extends the IT Enterprise Applications Engineer responsibilities:
 
@@ -109,7 +109,7 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 - Communication: Target audience Director, Sr. Director, VP, with presentations targeted to CFO staff for critical projects.
 - Mentorship: Build and manage global teams. Guide and coach team members. Mentors junior team members and models GitLab values for the team.
 
-### IT Manager, Enterprise Applications Engineering Requirements
+### Manager, IT Enterprise Applications Engineering Requirements
 
 - Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience.
 5-7 years of experience implementing, configuring, customizing and integrating SaaS software Eg: SalesForce, DocuSign CLM, Netsuite, Zuora Billing, Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.
@@ -125,7 +125,7 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 
 ## Career Ladder
 
-The next step in the  IT Manager, Enterprise Applications Engineer job family is to move to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/) job family.
+The next step in the  Manager, IT Enterprise Applications Engineering job family is to move to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/) job family.
 
 ## Hiring Process
 
