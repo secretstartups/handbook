@@ -49,7 +49,7 @@ and introduce new personas that fit into these new organization archetypes.
 It can happen that a persona from one organizational archetype will have similar jobs-to-be-done,
 or other characteristics, as one or even multiple personas from another organizational archetype.
 Describing all of them will help us understand the differences that could otherwise go unnoticed
-and make better-focused decisions during product development.  [Learn more](/handbook/product/personas/organization-archetype/) about the organizational archetypes GitLab is addressing.
+and make better-focused decisions during product development. [Learn more](/handbook/product/personas/organization-archetype/) about the organizational archetypes GitLab is addressing.
 
 #### List of User Personas
 We describe the following personas in terms of the jobs they do, their motivations and frustrations. Understanding our users through this lens helps us contribute to a product that supports their workflow. 
@@ -291,7 +291,7 @@ I wear lots of hats, but the majority of my time is spent monitoring and flaggin
 
 ##### Motivations
 
-I want a smooth deployment
+- I want a smooth deployment
 - I want to make sure everything in the pipeline will work, because it’s the last thing that happens before it’s moved to production. If you ship something into production that shouldn’t be there, that can be catastrophic.
 - Every time the CI/CD pipelines run to green or catch issues when needed, I can sleep calmly.
 
@@ -546,4 +546,3 @@ My goal is to deeply understand the lifecycle of data from various sources and m
 - It can be difficult to know exactly how to approach analysis, when my colleagues are not clear about the questions they have and why they want to explore certain aspects of the data.
 - It’s hard to trust the integrity of data, when inconsistent tracking results in missing context for key events.
 - It’s difficult to answer big picture questions about feature usage and user retention, when feature parameters and usage criteria aren’t completely defined.
-
