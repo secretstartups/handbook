@@ -244,6 +244,12 @@ After the EBR session is complete, there are steps to take on the takeaways from
 
 Within 1 business day of the EBR, the CSM sends an email to all participants. In it, they will thank everyone for their participation and partnership, and summarize key takeaways & next steps, with timelines and persons responsible for each item. Attached to this message is a copy of the slide deck, and any other materials that were agreed on to be shared.
 
+#### Log in the Gainsight Timeline
+
+Once an EBR is finished, add a Gainsight Timeline entry to catalog it. When adding a timeline entry type of either `Customer Call` Or `In-Person Meeting`, select the option `Executive Business Review` from the Meeting Type dropdown menu. Provide details about who was in attendance in the appropriate fields, as well as some summary details in the description.
+
+Timeline entries added as described above drive our EBR reporting & metrics.
+
 #### Action items
 
 There will be several action items, follow-ups, and next steps defined both from the content prepared ahead of time and as a result of the discussion during the EBR. These are captured in the EBR slide deck, and in the notes taken collaboratively during the session.
@@ -260,15 +266,6 @@ Initial steps on follow-up items should be completed no more than one week follo
 Within a few days of the EBR, while the information is still fresh, the CSM updates the customer's [success plan](/handbook/customer-success/csm/success-plans/). The EBR will have generated a lot of new information that will drive our strategy and actions with the customer for the coming months. All sections of the success plan should be updated, and objectives created and/or updated based on the EBR discussion & takeaways.
 
 The CSM Manager will discuss the EBR with the CSM in their next 1:1 after the EBR, which will include reviewing the success plan.
-
-## EBRs in Gainsight
-
-_October 19, 2022: with the revised guidance on EBR timeline added to this page, the timing of when the EBR CTA in Gainsight is created is currently under discussion and may change to align with the information contained in this page. For details [please look at the issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/1902) (GitLab internal only)._
-{: .alert .alert-info}
-
-A [CTA in Gainsight](/handbook/customer-success/csm/gainsight/#ctas) will automatically open seven months before renewal, with a due date of 45 days later to give time to schedule, prepare for and conduct the EBR. In most cases the EBR process should have already started ahead of this CTA, particularly if we're delivering an EBR to a customer for the first time. If doing a more frequent business review, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR.
-
-If you do not plan to conduct the EBR within a reasonable timeframe (discuss this with your manager, but typically within 30 days of the target timeframe) close the CTA with details added for why it's closed, and then open a new EBR CTA when you start working on it again.
  
 ## EBR Enablement
 
