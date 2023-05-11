@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Intro to CI/CD
-##### May 9th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_JdlcIhAkTkSdrKtI1EPy7Q)
-
 #### Advanced CI/CD
 ##### May 16th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
 
@@ -54,13 +47,6 @@ Come learn about DevOps metrics in GitLab and why it is useful to track them. We
 
 ### APAC Time Zone Webinars
 
-#### Intro to CI/CD
-##### May 9th, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_XbMLGDaZTViFn1b9CU939w#)
-
 #### Advanced CI/CD
 ##### May 16th, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
 
@@ -77,13 +63,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 
 
 ### EMEA Time Zone Webinars
-
-#### Intro to CI/CD
-##### May 9th, 2023 at 10:00-11:00AM UTC
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_xz2mwX-vQwmMOy3IOmbnRw#)
 
 #### Advanced CI/CD
 ##### May 16th, 2023 at 10:00-11:00AM UTC
