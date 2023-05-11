@@ -522,7 +522,7 @@ View the [Technical Marketing Epic](https://gitlab.com/groups/gitlab-com/marketi
 To make a request of the Technical Marketing team please [open an issue and fill in the Product and Solution Marketing Request template](https://gitlab.com/gitlab-com/marketing/product-marketing/issues/new?issuable_template=A-SM-Support-Request). We will respond to it using [our request management flow](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/).
 
 ## Chat, say hi, quick question
-Slack channel: #technical-marketing
+Slack channel: [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B)
 
 ## Which Technical Marketing Manager?
 
