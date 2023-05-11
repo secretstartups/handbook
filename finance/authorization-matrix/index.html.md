@@ -16,7 +16,7 @@ Any time GitLab is bound to terms and conditions, and/or, required to:
 Team Members must follow the applicable process to ensure all terms and obligations are reviewed and approved by specific stakeholders. 
 
 General examples include:
-- The purchasing of any software and/or professional services to be used by a GiLab Team Member to carry out an activity at GitLab;
+- The purchasing of any software and/or professional services to be used by a GitLab Team Member to carry out an activity at GitLab;
 - The sale of any GitLab software and/or professional services;
 - Employment, contracting or subcontract agreements; and/or
 - Contracts/Agreements which bind GitLab to obligations without the necessity of payment, for example: Evaluation/Trial Agreements and Non-Disclosure Agreements
