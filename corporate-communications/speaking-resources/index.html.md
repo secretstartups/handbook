@@ -32,7 +32,7 @@ So you're interested in becoming a public speaker? That's great!
 
 Sometimes people have an awesome story to share but can't find the time to put words on paper. [Share your ideas (Google Form)](https://forms.gle/5RbekekqWD1e6F686) and the Developer evangelism team will work with you to build it into a talk. In the event that you are unable to speak on the topic, we can get other speakers to do justice to the talk.
 
-The submission is open to everyone including wider community members. If you have any question, please ask in the [#developer-evangelism Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) (internal for team members) and mention `@abuango` (or [Twitter](https://twitter.com/sarki247)) in any ongoing GitLab issue. 
+The submission is open to everyone including wider community members. If you have any question, please ask in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) (internal for team members) and mention `@abuango` (or [Twitter](https://twitter.com/sarki247)) in any ongoing GitLab issue. 
 
 You can request help with reviewing CFP abstract drafts and talk slide from the [Developer Evangelism team](/handbook/marketing/community-relations/developer-evangelism/#presentations-and-events). Review examples:
 
