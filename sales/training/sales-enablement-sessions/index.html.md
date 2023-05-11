@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| May 11 | FY24-Q2 - Revenue Play - Product Marketing Update | Diane O. |
 | May 18 | DevSecOps - Survey Results | Chandler G. |
 | May 25 | FY24-Q2 - Competition Corner | Joe K. |
 | Jun 1 | GitLab Dedicated | TBD |
@@ -44,6 +43,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-05-11 | **[FY24-Q2 - Revenue Play - GitLab AI](https://youtu.be/BCfuWuUodQQ)** | Private |
 | 2023-05-03 | **[Value Stream Assessment Showcase](https://youtu.be/Em0pjb8tXk0)** | Private |
 | 2023-04-13 | **[FY24-Q1 - Channel Program Update](https://youtu.be/oCNI17x9bC4)**  | Private |
 | 2023-04-06 | **[Positioning Professional Services](https://youtu.be/vFr86T4MFCE)** | Private |
