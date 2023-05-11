@@ -393,13 +393,15 @@ The GitLab ASM for the opportunity is responsible for final review of any Partne
 
 ****Alliance Partners**
 
-Alliance partners do source opportunities for GitLab; however, they do not submit their own Partner Sourced Deal Registrations for these opportunities. The Registration process for alliance partners is instead initiated by the GitLab Alliance Partner Manager on behalf of the partner. 
+Alliance marketplace and OEM partners do source opportunities for GitLab; however, they do not submit their own Partner Sourced Deal Registrations for these opportunities. The Registration process for alliance partners is instead initiated by the GitLab Alliance Partner Manager on behalf of the partner.
 
 The steps below outline how a Partner Sourced Deal Registration is submitted on behalf of an alliance partner to initiate the Deal Registration process:
 1. The GitLab Alliance Partner Manager opens the [Alliances Partner Sourced Deal Registration](https://docs.google.com/document/d/16wTiDbwBoomUmnu2y4OmAAdC4VpvMIUGL1k4vdSrl2Y/edit?usp=sharing) document and follows the instructions to submit a Registration via the google form.
 2. The Managed Services team uses the data provided in the google form to submit a formal Partner Sourced Deal Registration via Vartopia on behalf of the alliance partner.
 3. The standard Partner Sourced Deal Registration process is then followed beginning with the “Partner” paragraph at the top of this handbook section.
- 
+
+_Note, Partner Sourced Deal Registration incentives do not apply to alliance partners, as our alliance partner agreements supersede these programmatic incentives._
+
 ### Partner Sourced Deal Registration: Rules of Engagement
 - **Partner Sourced Discount**
   - To receive a quote with a Partner Sourced discount, the partner must submit a Partner Sourced Deal Registration for the opportunity which must be approved by GitLab.
@@ -408,6 +410,7 @@ The steps below outline how a Partner Sourced Deal Registration is submitted on 
   - Partner Sourced Deal Registration approval is based on who sourced that particular opportunity. If the partner brought us the deal, then the registration should be approved. For clarity, it is not about first touch with the customer, but the actual creation/conversion of an opportunity.
   - The GitLab Partner Manager should communicate and align with the GitLab Sales Rep prior to approving or rejecting the Deal Registration.
   - The GitLab ASM should communicate and align with the GitLab Partner Manager and Sales Rep prior to approving or rejecting the Deal Registration.
+  - _Friendly reminder_, a partner and a GitLab SDR cannot both source an opportunity, it has to be one or the other. As noted above, it is not about first touch with the customer, but the actual creation/conversion of an opportunity.
 - **GitLab SLAs**
   - The SLA for GitLab to communicate with partners on a Partner Sourced Deal Registration is two business days. There must be contact with the registering partner within two business days, whether it be initial outreach to discuss the registration, a request for more information, approval, or rejection.
   - The GitLab ASM has one business day to either approve or reject the Registration, which begins when the Registration hits their queue for approval. The ASM _must_ communicate with the GitLab Partner Manager if their approval is anticipated to push beyond the one business day SLA.
