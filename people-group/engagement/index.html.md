@@ -100,7 +100,7 @@ See the [example epics](https://about.gitlab.com/handbook/people-group/engagemen
 
 #### Resources for Managers
 
-[Engagment Survey Manager Toolkit - GitLab Learn pathway](https://gitlab.edcast.com/pathways/engagement-survey-manager-toolkit)
+[Engagement Survey Manager Toolkit - GitLab Learn pathway](https://gitlab.edcast.com/pathways/engagement-survey-manager-toolkit)
 
 [Managers Guide to Taking Action](https://academy.cultureamp.com/hc/en-us/articles/207302419-Manager-s-guide-to-taking-action-on-Engagement-survey-results)
 
@@ -242,7 +242,7 @@ See the examples from FY21' for the [Product](https://gitlab.com/gitlab-com/Prod
 
 #### Resources for Managers
 
-[Engagment Survey Manager Toolkit - GitLab Learn pathway](https://gitlab.edcast.com/pathways/engagement-survey-manager-toolkit)
+[Engagement Survey Manager Toolkit - GitLab Learn pathway](https://gitlab.edcast.com/pathways/engagement-survey-manager-toolkit)
 
 [Managers Guide to Taking Action](https://academy.cultureamp.com/hc/en-us/articles/207302419-Manager-s-guide-to-taking-action-on-Engagement-survey-results)
 
@@ -354,7 +354,7 @@ Bar those who joined on or after 2020-11-01 the survey was extended to all GitLa
 
 #### Benchmarking and Reporting
 
-The FY21 survey was benchmarked against New Tech 1,000+ 2020 in addition to being reviewed against the preceeding years results. Preliminary reports were released on 2021-01-08 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://handbook.gitlab.com/job-families/people-group/people-business-partner/) and respective Group Leaders.
+The FY21 survey was benchmarked against New Tech 1,000+ 2020 in addition to being reviewed against the preceding years results. Preliminary reports were released on 2021-01-08 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://handbook.gitlab.com/job-families/people-group/people-business-partner/) and respective Group Leaders.
 
 #### Company Results (Overall)
 
@@ -413,7 +413,7 @@ Bar those who joined on or after 2019-10-01 the survey was extended to all GitLa
 
 #### Benchmarking and Reporting
 
-The FY20 survey was benchmarked against New Tech Size >500 2019 in addition to being reviewed against the preceeding years results. Preliminary reports were released in the week of 2019-11-07 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://handbook.gitlab.com/job-families/people-group/people-business-partner/) and respective Group Leaders.
+The FY20 survey was benchmarked against New Tech Size >500 2019 in addition to being reviewed against the preceding years results. Preliminary reports were released in the week of 2019-11-07 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://handbook.gitlab.com/job-families/people-group/people-business-partner/) and respective Group Leaders.
 
 #### Company Results (Overall)
 
