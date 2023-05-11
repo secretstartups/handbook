@@ -10,9 +10,15 @@ description: "This page outlines ways to request swag."
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Welcome to the swag handbook
+
+This page outlines everything you need to know about the swag program at GitLab. Whether you're ordering swag for yourself or others, follow the processes below to get started.
+
+Don't see what you need on this page? Reach out to us via the #swag Slack channel and tag [the DRI](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#dris-for-the-swag-program) for your question. 
+
 ## Swag shop
 
-Check out the [**GitLab Swag Shop**](https://www.shop.gitlab.com)! 
+Browse the [**GitLab Swag Shop**](https://www.shop.gitlab.com)! 
 
 Free shipping is available to GitLab team members for all items in the swag shop. Visit the #swag Slack channel for the code.
      
