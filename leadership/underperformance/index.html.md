@@ -83,7 +83,7 @@ Tell your manager immediately if there are circumstances in your life that cause
 
 ### Loop in the Team Member Relations Partner
 
-Looping in [Team Member Relations](https://about.gitlab.com/handbook/people-group/) early is essential. Team Member Relations can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR Partner prior to delivering any formal action plan to team members. Formal action can include a Written Performance Letter, Verbal Warning, Written Warning, and a Performance Improvement Plan. Managers will partner with the team member relations group in the creation and delivery of any formal action.
+Looping in [Team Member Relations](/handbook/people-group/) early is essential. Team Member Relations can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR Partner prior to delivering any formal action plan to team members. Formal action can include a Written Performance Letter, Verbal Warning, Written Warning, and a Performance Improvement Plan. Managers will partner with the team member relations group in the creation and delivery of any formal action.
 
 **Important**: While it’s never too early to involve Team Member Relations, if there are performance concerns without sustained improvement with informal manager lead coaching in place for 1 month or more, the TMR team should be looped in. Reaching out to the TMR team is critical to managing underperformance, and not doing so within a reasonable timeframe ultimately impacts the manager's performance. Connecting with the TMR team ensures that feedback is being delivered in accordance with our [guidance for giving feedback](/handbook/people-group/guidance-on-feedback/) and  in accordance with local labor law and regulations in the location of each individual. See the `underperformance management related to manager performance` section below for more detail.
 
@@ -125,7 +125,7 @@ Remediation options will vary based on the identified  underperformance being  s
 
 [Coaching](/handbook/leadership/coaching/) is the preferred option to deal with underperformance and is the first step in addressing performance issues.
 
-Managers are expected to address performance concerns (skill-based or will-based) in a timely manner. Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team members. These conversations must be documented by the manager and shared with the team member so that both have access  to the record of the discussion and are in alignment on where improvements need to be made and within a specified timeframe.  Documentation should be brief (a few key bullet points or a paragraph), and will normally be sent via email to the team member following the verbal discussion. See the example coaching email below:
+Managers are expected to address performance concerns (skill-based or will-based) in a timely manner. Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team members. These conversations must be documented by the manager and shared with the team member so that both have access  to the record of the discussion and are in alignment on where improvements need to be made and within a specified timeframe. Documentation should be brief (a few key bullet points or a paragraph), and will normally be sent via email to the team member following the verbal discussion. See the example coaching email below:
 
 ```
 Dear (Team member name)
@@ -142,19 +142,17 @@ Underperformance feedback should be included on your [1-1 agenda](/handbook/lead
 
 There may be extenuating circumstances that need to be taken into consideration during the performance management process.  This is an area where the Team Member Relations Team can provide a sounding board or a needed perspective.
 
-
 ## Written Performance Letter
 
-A Written Performance Letter is used to bring attention to performance issues or ongoing deficiencies previously addressed by your manager. Team members should already be aware of the performance issues due to ongoing coaching in your 1x1's with your manager and the follow-up coaching emails. The Written Performance Letter will identify development areas/gaps, outline what success looks like, and specific action/deliverables and due dates. The Written Performance Letter is not a Performance Improvement Plan (PIP) it is a documented coaching mechanism to help provide the team member with clear guidance to immediately improve performance.
+A Written Performance Letter is used to bring attention to performance issues or ongoing deficiencies previously addressed by your manager. Team members should already be aware of the performance issues due to ongoing coaching in your 1x1's with your manager and the follow-up coaching emails. The Written Performance Letter will identify development areas/gaps, outline what success looks like, and specific action/deliverables and due dates. The Written Performance Letter is not a Performance Improvement Plan (PIP), it is a documented coaching mechanism to help provide the team member with clear guidance to immediately improve performance.
 Team Member Relations will send the Written Performance Letter to the team member and manager to review and sign via DocuSign. Once signed the team member relations specialist will save the documentation to the team member's Workday profile. There may be times when a team member will not sign a written performance letter, in which case that will be noted on the document and stored in Workday. The written performance letter will remain in Workday for the requisite time, as required by applicable local law.
 Before issuing a Written Performance Letter the manager should reach out to Team Members Relations who can provide the appropriate template and partner with the manager on both creating and delivering the letter to the team member.
-
 
 ### Communication During Underperformance Remediation
 
 It is important that the Team Member Relations team and management are closely connected during the underperformance management process.
 
-An effective method to ensure all parties are kept up to date can be a private slack channel including the direct manager, manager's manager, the [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division), and the [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/). Additional layers of leadership can/should be added if the situation escalates.
+An effective method to ensure all parties are kept up to date can be a private slack channel including the direct manager, manager's manager, the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division), and the [Team Member Relations Specialist](/handbook/people-group/). Additional layers of leadership can/should be added if the situation escalates.
 
 While the coaching period is ongoing, ideally the direct Manager provides weekly async updates to the private slack channel, thus keeping everyone in the loop transparently.
 
@@ -251,16 +249,15 @@ It is important to note that when a PIP is active, the team member is not eligib
 
 When in the process of underperformance remediation you are generally not eligible for transfer to other roles within GitLab. If the underperformance is exclusively a result of a skills mismatch (not of lack of motivation, commitment, delivery etc. or misalignment to our values) other roles within GitLab may be considered, however, a determination regarding your eligibility is at the discretion of your manager and People Business Partner.
 
-When the underperformance is resolved and you want to transfer to another role, please review [the Internal Application Process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#for-internal-applicants---different-job-family) for transfer. Please note that an internal reference will be conducted before the transfer is final, with this the documented underperformance may be discussed.
+When the underperformance is resolved and you want to transfer to another role, please review [the Internal Application Process](/handbook/people-group/promotions-transfers/#for-internal-applicants---different-job-family) for transfer. Please note that an internal reference will be conducted before the transfer is final, with this the documented underperformance may be discussed.
 
 ### Talent Assessment and managing underperformance
 
-Managers need to be aware and take into consideration both skill-based and will-based performance issues when they are participating in the [Talent Assessment Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/) process as listed in the handbook. It is critical that a manager consider these performance issues when evaluating a team member. If a team member is technically performing in their role but there are will-based performance issues that are impacting their ability or the team's ability to succeed, these need to be taken into consideration.
+Managers need to be aware and take into consideration both skill-based and will-based performance issues when they are participating in the [Talent Assessment Performance/Potential Matrix](/handbook/people-group/talent-assessment/) process as listed in the handbook. It is critical that a manager consider these performance issues when evaluating a team member. If a team member is technically performing in their role but there are will-based performance issues that are impacting their ability or the team's ability to succeed, these need to be taken into consideration.
 
 ### Letting Someone Go
 
 This should be discussed with Team Member Relations before any action is taken to ensure the process is compliant with local laws and regulations. As soon as it becomes transparent that a Team Member will be off-boarded from the company, we recommend that this is addressed immediately. The team member is entitled to know where they stand. Delaying the conversation causes problems with confidentiality (the Team Member may realize in another way, that they will be exiting the company) and can potentially escalate the issues for the team member, the manager and the wider team (working relationships could  be greatly affected).
-
 
 ### Underperformance in Senior Leadership
 
