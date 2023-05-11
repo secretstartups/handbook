@@ -30,22 +30,13 @@ Docker is not expensable, so you will need to open an access request to get a va
 
 ### DevKit
 
-Our internal development kit is a Docker Compose project which will run the entire product analytics stack comprised of:
-
-* Event tracker (Jitsu)
-* Clickhouse
-* Cube
+Our internal development kit is a Docker Compose project which will run the entire product analytics stack.
 
 It is pre-configured and the [repository](https://gitlab.com/gitlab-org/analytics-section/product-analytics/devkit) contains all the required information and steps to get started.
 
 ### Feature flags
 
-Your GDK should also be running with a valid Ultimate license, and you should enable the following flags in your GDK environment:
-
-* [`cube_api_proxy`](https://gitlab.com/gitlab-org/gitlab/-/issues/385600)
-* [`product_analytics_admin_settings`](https://gitlab.com/gitlab-org/gitlab/-/issues/385602)
-* [`product_analytics_internal_preview`](https://gitlab.com/gitlab-org/gitlab/-/issues/376347)
-* [`combined_analytics_dashboards`](https://gitlab.com/gitlab-org/gitlab/-/issues/389067)
+Your GDK should also be running with a valid Ultimate license, and you should enable the feature flags defined in the [user documentation](https://docs.gitlab.com/ee/user/product_analytics/) to work on features.
 
 ## Communication
 
@@ -55,5 +46,5 @@ We have dedicated Slack channels for the Product Analytics group, `#g_analyze_pr
 
 ### Meetings
 
-* Our weekly sync meeting is usually at 14:00UTC on Tuesdays. All GitLab team members are welcome to join. Attendance is not mandatory and the meeting is recorded on GitLab Unfiltered. You can find the meeting link in the `#g_analyze_product_analytics` channel.
+* Our weekly sync meeting switches fortnightly on Tuesdays between EMEA/AMER (1400UTC) and AMER/APAC (1930UTC) friendly times. Attendance is not mandatory (although encouraged, if you are available) and the meeting is recorded on GitLab Unfiltered. You can find the meeting link in the `#g_analyze_product_analytics` channel.
 * All analytics meetings can be found by searching for the `Analytics Shared` meeting room in Google calendar and all GitLab team members are welcome to join.
