@@ -328,16 +328,19 @@ see [how to manually connect your GitLab.com account](https://www.gitpod.io/docs
 - [Prevent auto-stopping Review Apps](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html#auto-stopping-of-review-apps)
 - [How to enable Feature Flags in Review Apps](https://www.youtube.com/watch?v=VBo667LiwBQ)
 
-You can enable a feature flag by sending an API request to the review app in your local environment, or using a browser API request tool such as [Reqbin](https://reqbin.com/).
+You can enable a feature flag by sending an API request to the review app using a tool such as `curl` or [Postman](https://www.postman.com).
 
-To enable a feature flag using Reqbin, follow these steps:
+To enable a feature flag using `curl`, follow these steps:
 
 - Open the user settings in the review app and create an API access token in access tokens
-- Open [Reqbin](https://reqbin.com/)
-- Copy and paste the token you created to the authorization field
-- Copy and paste the review app URL to the URL field, followed by `api/v4/features/:feature_name`
-- Select a POST request
-- Set content of the request to `{"value": true}`
+- Open a [Terminal](https://support.apple.com/en-ca/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac) for running the command.
+- Make note of the token you created. We will refer to this as `<your access token>` below.
+- Make note of the review app URL. We will refer to it as `<your review app URL>` below.
+- Make note of the feature flag name. We will refer to it as `<your feature flag name>` below.
+- Filling in with the above values, run the following command in your terminal (write it out and press return):
+    ```shell
+    curl --data "value=true" --header "PRIVATE-TOKEN: <your access token>" "<your review app URL>/api/v4/features/<your feature flag name>"
+    ```
 - If the request is sent correctly, you can go back to the review app and the feature flag should be on
 
 ### Help!
