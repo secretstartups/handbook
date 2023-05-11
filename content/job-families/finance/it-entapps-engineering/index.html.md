@@ -1,6 +1,5 @@
 ---
-layout: IT Enterprise Applications Engineering
-title: The IT Enterprise Applications Engineering job family is responsible for the implementation and operational ownership of all Enterprise Applications.
+title: IT Enterprise Applications Engineering
 ---
 
 The IT Enterprise Applications Engineering job family is responsible for the implementation and operational ownership of all Enterprise Applications.
