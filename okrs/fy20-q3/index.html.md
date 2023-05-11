@@ -66,7 +66,7 @@ This fiscal quarter will run from August 1, 2019 to October 31, 2019.
 
 1. VP Product:  Hire at least 18 PM roles in Q3 to catch up with annual hiring plan.
 1. VP Engineering: [Scale gracefully to 500+ members](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4895)
-    1. Development: [Hire to Plan, New Manager Documenation, Increase Maintainers](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4838) => 44%
+    1. Development: [Hire to Plan, New Manager Documentation, Increase Maintainers](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4838) => 44%
     1. Quality: [Grow the department to plan and improve onboarding experience](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4854) => 73%
     1. Security: [Build next phase of zero-trust roadmap](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4926)
 1. CPO: People Group to dogfood our own product
