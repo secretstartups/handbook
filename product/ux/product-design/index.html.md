@@ -48,6 +48,7 @@ For specific details
 * [Partnering with UX Research](/handbook/product/ux/product-designer/#product-design-process)
 * [Partnering with Technical Writers](/handbook/product/ux/product-designer/#partnering-with-technical-writers)
 * [Contributing to Pajamas](https://design.gitlab.com/get-started/contribute)
+* [Designing AI solutions](/handbook/product/ux/product-designer/#designing-ai-solutions)
 
 Product Designer Tools
 * [UX Scorecard](/handbook/product/ux/ux-scorecards/)
