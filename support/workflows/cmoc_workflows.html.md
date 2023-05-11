@@ -238,7 +238,7 @@ You simply need to issue `/incident post-statuspage` from anywhere on Slack. You
 
 The CMOC now needs to notify internal stakeholders of the incident using the Incident Notifier Slack workflow. This should be done after the severity of the incident has been confirmed by the IM.
 
-This workflow, once used, will ask you to fill out a form with details of the incident and will then post those details to `#community-relations` and `#customer-success`. This serves to notify those teams of the incident. A copy will also be sent in a direct message to you, should you be asked to post it anywhere else. To engage the workflow:
+This workflow, once used, will ask you to fill out a form with details of the incident and will then post those details to `#developer-relations` and `#customer-success`. This serves to notify those teams of the incident. A copy will also be sent in a direct message to you, should you be asked to post it anywhere else. To engage the workflow:
 
 1. Click the lightning bolt in the message composition box within `#support_gitlab-com` and select `Incident Notifier`.
 
