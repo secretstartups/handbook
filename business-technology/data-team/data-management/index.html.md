@@ -61,14 +61,14 @@ Additional controls include:
 We deploy a Role-Based Data Access Scheme in Snowflake:
 
 * User Access is managed with Okta and [Access Requests are managed with GitLab](/handbook/business-technology/data-team/platform/#warehouse-access)
-* Each user is assigned one more (Roles based on their job function)[/handbook/business-technology/data-team/platform/#snowflake-permissions-paradigm] and this configuration is managed with [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
+* Each user is assigned one more [Roles based on their job function](/handbook/business-technology/data-team/platform/#snowflake-permissions-paradigm) and this configuration is managed with [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
 * The Snowflake scheme interacts with the Sisense Data Access scheme to ensure a user does not have a "back door" into data from either system.
 
 Additional controls include:
 
 * Based on the Data Classification standard, [data is managed with Databases and Schemas](/handbook/business-technology/data-team/platform/#data-storage)
 * Every query/user/process is assigned a [pre-defined Warehouse, or Compute Resource](/handbook/business-technology/data-team/platform/#compute-resources)
-* (Passwords are rotated)[/handbook/business-technology/data-team/platform/#passwords]
+* [Passwords are rotated](/handbook/business-technology/data-team/platform/#passwords)
 
 ### General Data Security Controls
 
