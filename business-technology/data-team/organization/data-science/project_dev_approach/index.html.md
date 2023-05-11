@@ -263,19 +263,20 @@ In the project issue, document the following:
 **Purpose:** In order to score a model independently of a training run -- and on data outside of the training time period -- we need to operationalize a scoring process and add it to the data science production pipeline
 
 **Tasks:** 
-- Place all your model parameters into a scoring_parameters.yml file.
-   - For example, see [PtE scoring.params.yml](https://gitlab.com/gitlab-data/data-science/-/blob/main/deployments/pte/scoring_params.yml) 
+- Place all your model parameters into a scoring parameters yaml file.
+   - For example, see [PtE scoring_params.yml](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-expand/-/blob/main/prod/scoring_params.yml) 
 - Create a new scoring notebook.
-   - For example, see [PtE scoring_code.pynb](https://gitlab.com/gitlab-data/data-science/-/blob/main/deployments/pte/scoring_code.ipynb) 
+- Create a scoring jupyter notebook (a python script also works)
+- For example, see [PtE scoring_code.pynb](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-expand/-/blob/main/prod/scoring_code.ipynb) 
    - Create any hard-codes that are necessary. For example, if you performed outliers for training, use those values in your scoring code (as opposed to calculating new outliers on your scoring dataset)
    - Create dummy codes for any dummy-coded features in your model
    - Make sure you are completing all the same model prep steps in the scoring score as you did in the training code.
 - Once you have your scoring notebook ready, a good way to check for errors is to run your training dataset through it. You should arrive at the same model score descriptives and decile breakdowns as you did in your training code.
-   - [ ]If the numbers are not aligning up, it is most likely due to an issue with your scoring code. The best way to check this is to look at the descriptives of the features. Look at the descriptive right before they get scored in the training code and in the scoring code. If one or more features are off, then you have most likely located the issue.
+   - If the numbers are not aligning up, it is most likely due to an issue with your scoring code. The best way to check this is to look at the descriptives of the features. Look at the descriptive right before they get scored in the training code and in the scoring code. If one or more features are off, then you have most likely located the issue.
 - Now you can run your code with your scoring dataset. Be sure update your sql code so it is parameterized to use the most current data available.
 - Examine the model decile distribution of your scored records. They should be roughly equal. If they are wildly off, or if they vary widely in each scoring run, it could be a sign that your model is overfit/underfit and cannot generalize beyond the training dataset.
-- Add .sql file, parameters.yml, model artifacts, and jupyter notebook to the [data-science deployments](https://gitlab.com/gitlab-data/data-science/-/tree/main/deployments/pte) directory and create a MR
-- Create a new issue using the [Scheduling Notebook Request](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Scheduling%20Notebook%20Request.md) template and tag `@gitlab-data/engineers`
+- Add .sql file, parameters.yml, model artifacts, and jupyter notebook to a production directory in your repo. See [here](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-expand/-/tree/main/prod) for an example
+- Create a new issue using the [Scheduling Notebook Request](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Scheduling%20Notebook%20Request.md) template, follow any additional steps, and tag `@gitlab-data/engineers` when ready to operationalize
 
 **Considerations**:
 - This step is prone to a lot of human error, so completing the tasks outlined above is helpful to ensure accurate scoring of the model.
