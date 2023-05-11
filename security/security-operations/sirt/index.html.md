@@ -40,7 +40,6 @@ The following people are permanent members of the SIRT
 |Tuan Lam|[Senior Security Engineer, SIRT](https://handbook.gitlab.com/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
 |Janina Roppelt|[Senior Security Engineer, SIRT](https://handbook.gitlab.com/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
 |Laurens Van Dijk|[Senior Security Engineer, SIRT](https://handbook.gitlab.com/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
-|Andy Lockhart|[Senior Security Engineer, SIRT](https://handbook.gitlab.com/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
 |Chathura Kuruwita|[Senior Security Engineer, SIRT](https://handbook.gitlab.com/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
 |Bala Allam|[Security Engineer, SIRT](https://handbook.gitlab.com/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate)|
 |Leslie Anzures|[Security Engineer, SIRT](https://handbook.gitlab.com/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate)|
