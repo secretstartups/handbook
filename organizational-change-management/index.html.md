@@ -100,7 +100,7 @@ After you have completed the impact assessment, you can determine which groups o
 
 When rolling out a new initiative, consider who in the organization will be the most impacted. 
 
-This is also a good time to identify champions within the impacted groups that can help serve as positive change agents throughout the remainder of the OCM process. Champions can help "message test" the change before you send it out to the wider audience, and they can serve as advocates and subject matter experts for the change in their day-to-day work once the change is announced. Champions can include members of leadership, but they should also include team members from all varieties of organizational levels to ensure that you have access to feedback and percieved impact at all levels, allowing you to more effectively craft your communications. 
+This is also a good time to identify champions within the impacted groups that can help serve as positive change agents throughout the remainder of the OCM process. Champions can help "message test" the change before you send it out to the wider audience, and they can serve as advocates and subject matter experts for the change in their day-to-day work once the change is announced. Champions can include members of leadership, but they should also include team members from all varieties of organizational levels to ensure that you have access to feedback and perceived impact at all levels, allowing you to more effectively craft your communications. 
 
 ### Step 4 - Communicating the change
 
