@@ -148,15 +148,37 @@ AI Enablement exposes AI services and the underlying models (third party or nati
 
 You can contact this group via Slack in [#ai_enablement_group](https://gitlab.slack.com/archives/C051K31F30R). View their [issue board here](https://gitlab.com/gitlab-org/gitlab/-/boards/5518200?label_name%5B%5D=group%3A%3Aai-enablement).
 
-#### Current team members
+### AI Engineering Allocation
 
-| Name | Role |
-| ---- | ---- |
-| Alexandru Croitor | Senior Backend Engineer |
-| George Koltsov | Senior Backend Engineer |
-| Gosia Ksionek  | Staff Backend Engineer | 
-| Nicolas Dular |  Senior Backend Engineer |
-| Denys Mishunov | Staff Frontend Engineer |
-| Patrick Bajao | Senior Backend Engineer |
-| Bojan Marjanović | Senior Backend Engineer |
-| Jan Provaznik | Staff Backend Engineer |
+Because of the dynamic nature of the AI work and folks to be engaged, we are putting the AI work under an Engineering Allocation.   This means that assignments may change rapidly as focus and priorities shift.  Current focus is on Code Suggestions adoption.
+
+| Name | Role | Area of Work | 
+| ---- | ---- | ------------ | 
+| Alexandru Croitor | Senior Backend Engineer | AI Enablement | 
+| George Koltsov | Senior Backend Engineer | AI Enablement | 
+| Gosia Ksionek  | Staff Backend Engineer | AI Enablement | 
+| Nicolas Dular |  Senior Backend Engineer | AI Enablement | 
+| Denys Mishunov | Staff Frontend Engineer | AI Enablement | 
+| Patrick Bajao | Senior Backend Engineer | AI Enablement | 
+| Bojan Marjanović | Senior Backend Engineer | AI Enablement | 
+| Jan Provaznik | Staff Backend Engineer | AI Enablement | 
+| Daniel Tian | Senior Frontend Engineer | Threat Insights |
+| Mo Khan | Senior Backend Engineer | Threat Insights |
+| Kerri Miller | Staff Backend Engineer | Code Review |
+| Stanislav Lashmanov | Senior Frontend Engineer | Code Review |
+| Pavel Shutsin | Senior Backend Engineer | Plan:Optimize |
+| Simon Knox | Senior Frontend Engineer | Plan:Project Management |
+| Nikola Milojevic | Senior Backend Engineer | Application Performance |
+| Aleksei Lipniagov | Senior Backend Engineer | Application Performance |
+| Matthias Käppler | Staff Backend Engineer | Application Performance |
+| Roy Zwambag | Backend Engineer | Application Performance |
+| Dmitry Gruzd | Staff Backend Engineer | Global Search |
+| Terri Chu | Senior Backend Engineer | Global Search |
+| Madelein van Niekerk | Backend Engineer | Global Search |
+| John Mason | Senior Backend Engineer | Global Search |
+| Matt Kasa | Senior Backend Engineer | Database |
+| Igor Drozdov | Staff Backend Engineer | Source Code |
+| Patrick Cyiza | Backend Engineer | Source Code | 
+| Natalia Radina | Frontend Engineer | Source Code | 
+
+
