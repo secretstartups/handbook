@@ -52,7 +52,7 @@ Potential risk or significant lack of information leading to uncertainty. Indica
 - Poor experiences with Support, Professional Services or another part of GitLab
 - Working with a single contact at a company (single-threaded).
 
-There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the CSM decides that corrective actions and follow up from team members outside of the CSM group is required the CSM must create an [At Risk Timeline Entry](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) and flag the account as Yellow "Requires Triage".
+There might be well understood reasons within the account team why a customer is flagged as Yellow within the current phase of the customer lifecycle. If the CSM decides that corrective actions and follow up from team members outside of the CSM group is required the CSM must create an [At Risk Timeline Entry](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries).
 
 ### Red
 
@@ -102,11 +102,8 @@ CSMs are responsible for keeping Gainsight up to date regarding all of their acc
 
 For any account that is Red or Yellow, the following steps for an At Risk timeline update is required: 
 
-1. In the account timeline, log an `At-Risk Update`, marking CSM Sentiment as Red (or Yellow) and any context for the at-risk account
-1. Gainsight will auto create the `At-Risk` CTA (in Cockpit) within 24h
-1. CSM updates CTA [Risk Impact](/handbook/customer-success/csm/health-score-triage/#risk-impact-definitions) and [Risk Reason](/handbook/customer-success/csm/health-score-triage/#risk-reason-definitions) dropdown fields
-   1. In the CTA, update `Stage Name` and `Competitor` fields if applicable
-1. CSM logs new `At-Risk Update` based on [Frequency of At Risk Timeline Entries](/handbook/customer-success/csm/health-score-triage/#frequency-of-at-risk-timeline-entries). At-Risk Update entries should follow the template to include the following information:
+1. In the account timeline, log an `At-Risk Update`, marking CSM Sentiment as Red (or Yellow). Also select values for the `Risk Reason` and `Risk Impact` fields.
+1. CSM logs subsequent `At-Risk Updates` based on [Frequency of At Risk Timeline Entries](/handbook/customer-success/csm/health-score-triage/#frequency-of-at-risk-timeline-entries). At-Risk Update entries should follow the template to include the following information:
    1. General background or updates on the At-Risk customer (i.e., key discussion points on the most recent cadence call)
    2. Next Steps and/or pending action items
    3. Date of the next scheduled call
@@ -114,19 +111,11 @@ For any account that is Red or Yellow, the following steps for an At Risk timeli
    1. Customer is won back:
       1. Log Account-level Timeline `At-Risk Update` type for CSM Sentiment as Green and final notes
       1. Change customer Lifecycle Stage to Adopting
-      1. Close out CTA with success criteria (Closed-Won, win reasons)
    1. Customer is lost:
       1. Log Account-level Timeline `At-Risk Update` type with final update
       1. Change customer Lifecycle Stage to: Will Churn for a churning customer and Adopting for downgrade customer
-      1. Close out CTA with success criteria (Closed-Lost, loss reasons)
 
-**Tips**:
-
-- **Keep the CTA open until fully resolved**. Resolved can mean the customer is won back, contraction has happened, or they will churn
-- Use `closed-won` when we saved the customer AND had a flat or positive net ARR opportunity
-- Use `closed-lost` when we churned the customer or had contraction
-
-This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
+These can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
 
 ### Frequency of At Risk Timeline Entries
 
