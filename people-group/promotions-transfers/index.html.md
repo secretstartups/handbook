@@ -83,7 +83,7 @@ At GitLab, we promote on a bi-annual basis. This means that there is **one effec
 **Managers do not need to submit promotions that are part of the bi-annual calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Connect team following calibration and Division leader approval.** Below is the timeline for FY24:
 
 
-**Previously, we promoted on a quarterly basis, but transitioned to bi-annual to ensure efficiency and scalability of our promotion process. We will move to our bi-annual cadence effective in Q3 FY'24, meaning that Q2 FY'24 will be our last quarterly promotion cycle.**
+**Previously, we promoted on a quarterly basis, but transitioned to bi-annual to ensure efficiency and scalability of our promotion process. We will move to our bi-annual cadence effective in Q1 FY'25, meaning that Q3 FY'24 will be our last quarterly promotion cycle.**
 
 
 - FY24-Q1: _Completed_ Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline)
