@@ -20,28 +20,6 @@ The Security Operations Sub-department focuses on the operational aspect of secu
  * Security anomaly/event detection and incident response - [SIRT - Security Incident Response Team](/handbook/security/security-operations/sirt), [Issues Tracker]( https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues)
  * Abuse of GitLab.com - [Trust & Safety](/handbook/security/security-operations/trustandsafety/), [Issues Tracker](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety)
 
-
-## Sub-department Members
-
-The following people are permanent members of the Security Operations Sub-department:
-
-<%
-departments = ['Trust & Safety', 'Security Incident Response Team']
-department_regexp = /(#{Regexp.union(departments)})/
-%>
-
-<%=  direct_team(role_regexp: department_regexp, manager_role: "Director of Security Operations") %>
-
-## All Team Members
-
-The following people are permanent members of teams that belong to the Operations Sub-department:
-
-<% departments.each do |dep| %>
-### <%= dep %>
-  <% manager_role = "Security Manager, #{dep}" %>
-  <%= direct_team(manager_role: manager_role) %>
-<% end %>
-
 ## Common Links
 
 * [How to Engage the Security Engineer On-Call](/handbook/security/security-operations/sirt/engaging-security-on-call.html)
