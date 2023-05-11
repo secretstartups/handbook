@@ -34,7 +34,7 @@ The Team Member Relations Partner is a [grade 5](https://about.gitlab.com/handbo
 - Ability to use GitLab tools.  
 - Aligns with GitLabs values.  
 
-### Career Ladder
+### Team Member Relations Specialist Career Ladder
 
 The next step in the job family is Team Member Relations Partner.
 
@@ -65,7 +65,7 @@ The Team Member Relations Partner is a [grade 6](https://about.gitlab.com/handbo
 - Strong project management, change management, and experience driving programs independently.
 - Handles confidential information with care and utmost discretion.
 
-### Career Ladder
+### Team Member Relations Partner Career Ladder
 
 The next step in the job family is Senior Team Member Relations Partner.
 
@@ -95,7 +95,38 @@ The Senior Team Member Relations Partner is a [grade 7](https://about.gitlab.com
 - Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
 - Ability to interface and partner with stakeholders to achieve and influence results.
 
-### Career Ladder
+### Senior Team Member Reloations Partner Career Ladder
+
+The next step in the job family is Staff Team Member Relations Partner, Team Member Relations.
+
+#### Staff Team Member Relations Partner
+
+The Staff Team Member Relations Partner reports to the Director, Team Member Relations.  
+
+### Staff Team Member Relations Partner Job Grade
+
+The Staff Team Member Relations Partner is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Staff Team Member Relations Partner Responsibilities
+
+- Extends that of the Senior Team Member Relations Partner responsibilities.
+- Acts as a subject matter expert to provide strategic coaching to management at all levels on addressing a variety of people issues while effectively mitigating business and company risk.
+- Leads department specific and org-wide strategic initiatives, soliciting buy in, partnering with cross-functional partners and driving scalable solutions.
+- Ensures oversight and governance of policies and practices globally, including interpreting and applying understanding of corporate policies and practices, employment laws, and other regulations to provide advice, guidance, or clarification for Team Member Relations inquiries.
+- Analyzes data to identify trends, provide insights and make recommendations to stakeholders and cross-functional partners to develop scalable solutions, programs and policies to improve the team member experience.
+
+
+### Staff Team Member Relations Partner Requirements
+
+- Ability to use GitLab
+- Extends that of the Senior Team Member Relations Partner requirements
+- 8+ years experience in employee relations
+- Comfortable adapting to change in a fast-paced, global environment
+- Exceptional interpersonal and communication skills
+- Strong analytical and data skills and experience using Google Sheets
+- Ability to prioritize and take ownership of projects and strategic goals.
+
+### Staff Team Member Relations Career Ladder
 
 The next step in the job family is Manager, Team Member Relations.
 
@@ -126,7 +157,7 @@ The Manager, Team Member Relations is a [grade 8](https://about.gitlab.com/handb
 - Strong analytical and data skills and experience using Google Sheets
 - Ability to prioritize and take ownership of projects and strategic goals.  
 
-### Career Ladder
+### Manager, Team Member Relations Career Ladder
 
 The next step in the job family is Director, Team Member Relations.
 
@@ -179,7 +210,7 @@ The Director, Team Member Relations is a [grade 10](https://about.gitlab.com/han
 - Collaboration
    - Effective partnership with key stakeholders such as People Business Partners, Legal and People Success.  
 
-## Career Ladder
+## Director, Team Member Relations Career Ladder
 
 The next step in the job family is VP, People Operations, or Director, People Business Partner.  
 
