@@ -91,7 +91,7 @@ Buckle up! There are a lot of tokens, but for good reason. This is an **advanced
    * `{{my.utm}}` - UTM to track traffic to the proper campaign in reporting dashboards (append integrated campaign utm or program name, if webcast is not part of an integrated campaign, to the utm campaign token)
    * `{{my.valueStatement}}` token with the short value statement on what the viewer gains from the webcast, this ties into the follow up emails and must meet the max/min requirements of the [character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1471341556)
    * `{{my.webcastDate}}` - the webcast LIVE date.
-   * `{{my.webcastDescription}}` - 2-3 sentences with approved character limits, this will show up in page previews on social and be used in Youtube and Pathfactory description.
+   * `{{my.webcastDescription}}` - 2-3 sentences with approved character limits, this will show up in page previews on social and be used in YouTube and Pathfactory description.
    * `{{my.webcastSubtitle}}` token with subtitle for the webcast.
    * `{{my.webcastTime}}` token with the webcast time in local timezone/UTC timezone.
    * `{{my.webcastTitle}}` token with the webcast title.

@@ -334,7 +334,7 @@ Make sure these settings are enabled in your personal zoom account settings as n
      * Under In Meeting (Basic section), `Play sound when participants join or leave` is deactivated
      * Toggling `Mute participants upon entry` to active.
 2. To enable Livestream feature:
-    *  Under In Meeting (Advanced) section, toggle `Allow live streaming the meetings and enable Youtube` to active
+    *  Under In Meeting (Advanced) section, toggle `Allow live streaming the meetings and enable YouTube` to active
 3. To enable Polling feature:
     *  Under In Meeting (Basic) section, toggle `Polling` to active.
 4. To enable Breakout sessions feature:
@@ -437,7 +437,7 @@ Once the DRI has identified that the date will change, **DRI** will:
 
 * Update the event date and the campaign tag on the main event issue and in the Budget Document.  
 * Tag the relevant internal contacts for the event in a comment to notify them that the date has changed.
-* In the main event issue, ping the GL Accountant (@GGGONZALEZ) with the old campaign tag to be removed from Netsuite and the new campaign tag to be added in Netsuite.  
+* In the main event issue, ping the GL Accountant (@GGGONZALEZ) with the old campaign tag to be removed from NetSuite and the new campaign tag to be added in NetSuite.  
 * If event is on the Events Page, [submit MR](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to update the date.
 * If event is listed on the [self-serive virtual events calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t), move to the new date and adjust calendar information.
 * Make the date change in your personal Zoom account where the event was set up. Make sure to check the `Notify registrants about changes to this meeting` checkbox so registrants gets the date change email notification with their unique join link from zoom. 

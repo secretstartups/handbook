@@ -179,7 +179,7 @@ Create a [webcast date request issue](https://gitlab.com/gitlab-com/marketing/de
 
 **Step 4: Post-event follow up**
 * Work with the Campaign Manager on the follow up email for attendees and no shows of the webcast. The follow-up email(s) should be prepped and ready to go (minus links to the recording) 48 hours prior to the live event. The following is minimum guidance for what should be included in the follow-up email:
-  + *Slide Deck and Unlisted Youtube video of the webcast*
+  + *Slide Deck and Unlisted YouTube video of the webcast*
   + *A call-to-action for a 30-day trial, any other relevant joint partner collateral (gated or not), and/or an applicable Path Factory*
   + *Follow up emails should be sent 24-48 hours post webcast*
 * Work with the Campaign Manager on the [conversion of the on-demand page post webcast](https://about.gitlab.co/handbook/marketing/virtual-events/webcasts/#converting-the-webcast-to-an-on-demand-gated-asset---zoom)
@@ -439,7 +439,7 @@ Buckle up! There are a lot of tokens, but for good reason. This is an **advanced
    * `{{my.utm}}` - UTM to track traffic to the proper campaign in reporting dashboards (append integrated campaign utm or program name, if webcast is not part of an integrated campaign, to the utm campaign token)
    * `{{my.valueStatement}}` token with the short value statement on what the viewer gains from the webcast, this ties into the follow up emails and must meet the max/min requirements of the [character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1471341556)
    * `{{my.webcastDate}}` - the webcast LIVE date.
-   * `{{my.webcastDescription}}` - 2-3 sentences with approved character limits, this will show up in page previews on social and be used in Youtube and Pathfactory description.
+   * `{{my.webcastDescription}}` - 2-3 sentences with approved character limits, this will show up in page previews on social and be used in YouTube and Pathfactory description.
    * `{{my.webcastSubtitle}}` token with subtitle for the webcast.
    * `{{my.webcastTime}}` token with the webcast time in local timezone/UTC timezone.
    * `{{my.webcastTitle}}` token with the webcast title.
@@ -637,12 +637,12 @@ This is considered a complex set-up. It is recommended that you engage Marketing
 **Please Note: Workshops are not converted to on-demand assets.**
 
 **🤩 NEW! In Marketo:** 
-1. **Youtube**: Upload the recording to our main GitLab channel
+1. **YouTube**: Upload the recording to our main GitLab channel
    * Fill in the title with the webcast title matching the Marketo token (`{{my.webcastTitle}}`)
    * Fill in the description with the short description matching the Marketo tokens (`{{my.contentDescription}}`)
    * Make sure the video is set as `Unlisted` so only people with the URL to the video can find it
    * In YouTube Studio, navigate to the bottom of the page to expand the `Show More` option and check the box for `allow embedding`
-1. **Youtube**: Once the recording has been uploaded, copy the video link on the right
+1. **YouTube**: Once the recording has been uploaded, copy the video link on the right
 1. **Pathfactory**: Login to PathFactory and add the copied youtube link to Pathfactory as new content by following the instructions outlined [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#issue-templates).
 1. **Marketo**: Navigate to the webcast program and update the following My Tokens
    * Update the `formButtonCopy` token to be `Watch now`
@@ -707,7 +707,7 @@ Note: do not schedule the emails until you have completed the "on demand switch"
 In the event you need to change the date of your webcast, please follow the steps outlined below.
 
 1. Update the date/time of the webcast on the webcast calendar and resend invites to all panelists.
-2. In the Field/Corporate Marketing issue, Field/Corporate DRI to ping the GL Accountant (@gggonzalez) with the old campaign tag to be removed from Netsuite and the new campaign tag to be added in Netsuite.
+2. In the Field/Corporate Marketing issue, Field/Corporate DRI to ping the GL Accountant (@gggonzalez) with the old campaign tag to be removed from NetSuite and the new campaign tag to be added in NetSuite.
 3. Update the webcast date on the [FY21 webcast planning issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2300).
 4. Update the webcast epic and subsequent issues so the new date is reflected on the title and issue due dates are updated based on the new timeline. *Field/Corporate DRI make sure to change the date in the Field/Corporate Marketing issue and adjust date in the Budget Document.*
 5. Leave a comment on the epic stating the event has been rescheduled and tag all internal panelists and hosts.
@@ -1002,11 +1002,11 @@ Submit a test lead using your GitLab email on the LIVE landing page to make sure
 ON24 will automatically convert the video to on-demand in the ON24 platform. The steps below allow us to further leverage the webcast in Pathfactory.
 
 1. **Vimeo**: vimeo provides an ads free user expierence, therefore should be primary video platform used for on-demand recording uploads. To request an upload, open [an issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) with Digital Production Team.
-1. **Youtube**: upload the recording to our main GitLab channel:
+1. **YouTube**: upload the recording to our main GitLab channel:
    * Fill in the title with the webcast title matching the Marketo token (`{{my.webcastTitle}}`)
    * Fill in the description with the short description matching the Marketo tokens (`{{my.contentDescription}}`)
    * Make sure the video is set as `Unlisted` so only people with the URL to the video can find it
-1. **Youtube**: Once the recording has been uploaded, copy the video link on the right
+1. **YouTube**: Once the recording has been uploaded, copy the video link on the right
 1. **Pathfactory**: Login to PathFactory and add the YouTube or Vimeo link to Pathfactory as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory).
 
 ### Rescheduling an ON24 webcast
@@ -1117,7 +1117,7 @@ Buckle up! There are a lot of tokens, but for good reason. This is an **advanced
    * `{{my.utm}}` - UTM to track traffic to the proper campaign in reporting dashboards (append integrated campaign utm or program name, if webcast is not part of an integrated campaign, to the utm campaign token)
    * `{{my.valueStatement}}` token with the short value statement on what the viewer gains from the webcast, this ties into the follow up emails and must meet the max/min requirements of the [character limit checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1471341556)
    * `{{my.webcastDate}}` - the webcast LIVE date.
-   * `{{my.webcastDescription}}` - 2-3 sentences with approved character limits, this will show up in page previews on social and be used in Youtube and Pathfactory description.
+   * `{{my.webcastDescription}}` - 2-3 sentences with approved character limits, this will show up in page previews on social and be used in YouTube and Pathfactory description.
    * `{{my.webcastSubtitle}}` token with subtitle for the webcast.
    * `{{my.webcastTime}}` token with the webcast time in local timezone/UTC timezone.
    * `{{my.webcastTitle}}` token with the webcast title.
