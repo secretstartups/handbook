@@ -213,7 +213,7 @@ If the user fails the challenge questions, apply the `Account Verification Faile
 
 If the user fails the challenge questions, but they are the sole owner of groups and projects, we can consider approval for an exception by working through the following:
 
-1. Validate that the user is the **only** owner / member of projects and groups.
+1. Validate that the user is the **only** owner of any top-level groups and that any projects associated with their account are in their personal namespace.
 1. Check that the user has not logged in for at least 1 year.
 1. Check that the projects and groups owned by the user have not been updated in at least 1 year.
 1. Reach out to the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel to engage a Support Manager and Privacy for review and approval (approver will add `Deletion Request::Exception Approved` to the issue if approved).
