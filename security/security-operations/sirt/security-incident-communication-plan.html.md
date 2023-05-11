@@ -84,7 +84,7 @@ As security practitioners and incident response engineers, our security assuranc
 * Acting as an approval point on final messaging to ensure it’s ready for external use
 * Liaising with PR and corporate communications for additional reviews and/or messaging needs (public/media statements)
 * Deploying the messaging via collaboration with our PR (media statement), Content Marketing (blog post) and Marketing Operations teams (email response)
-* Posting final communications materials to slack channels (`#community-relations`, `#social_media_action`, `#sales`, `#security-department` and `#customer-success`) for awareness and use.
+* Posting final communications materials to slack channels (`#developer-relations`, `#social_media_action`, `#sales`, `#security-department` and `#customer-success`) for awareness and use.
      * `Support manager on call` will manage support team awareness
      * **The following groups are auto-tagged on each communications tracking issue: PR, Support, Field Security, Customer Success, Legal, Community Relations and Security department leadership**
 
@@ -95,7 +95,7 @@ As security practitioners and incident response engineers, our security assuranc
 
 - **Support Team:** Using background information and prepared responses provided by the Security Engineer On Call and Communications Manager On Call, our Support Team will triage and respond to customer communications stemming from the security incident. [Contact the on-call manager via `#spt_managers` in Slack](/handbook/support/internal-support/#on-slack). If it's urgent [page the `Support Manager On-call`](/handbook/support/on-call/#paging-the-on-call-manager) using `/pd-support-manager` command in slack. To ensure this group has early awareness on security incidents and events they are autotagged as an FYI in the security-external-incident-or-event-response template.
 
-- **Community Relations:** May need to respond to customers and the general public via social channels, as such should be engaged before public-facing materials are released. Any prepared responses or FAQs should be provided to assist with their interactions. Contact this group in `#community-relations` or any Slack channel by pinging `@community-team`. To ensure this group has early awareness on security incidents and events they are autotagged as an FYI in the `security-external-incident-or-event-response` template.
+- **Community Relations:** May need to respond to customers and the general public via social channels, as such should be engaged before public-facing materials are released. Any prepared responses or FAQs should be provided to assist with their interactions. Contact this group in `#developer-relations` or any Slack channel by pinging `@community-team`. To ensure this group has early awareness on security incidents and events they are autotagged as an FYI in the `security-external-incident-or-event-response` template.
 
 - **Designated Approvers:** This is the group of individuals who act as reviewers and approvers across each piece of communications developed for a security incident. It includes representatives from Security, Support, Customer Success, Legal, Corporate Communications and Investor Relations.
 
