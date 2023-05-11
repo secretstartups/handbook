@@ -53,7 +53,7 @@ Ideally an onboarding buddy:
 - available during the first two weeks (no major PTO events or leave)
 - is someone who can support the adjustment to GitLab and knows a bit about the applications / tools the new team member may be using in the course of their role
 
-These guidelines have been developed from the feedback we recieve in the Onboarding Survey and feedback from onboarding buddies. It is not always possible to achieve all of these guidelines depending on the team or location.
+These guidelines have been developed from the feedback we receive in the Onboarding Survey and feedback from onboarding buddies. It is not always possible to achieve all of these guidelines depending on the team or location.
 
 ## Example Email Template
 
