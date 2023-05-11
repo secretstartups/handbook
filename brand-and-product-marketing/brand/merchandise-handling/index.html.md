@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab swag program"
-description: "This page outlines ways to request swag."
+description: "This page outlines the swag program at GitLab."
 ---
 
 ## On this page
@@ -52,9 +52,9 @@ Please allow 3 weeks from the time you open this issue to the time the item is d
 
 Please allow 4 weeks from the time you open the issue to the time the swag is delivered. If you need something more urgently, add the `Swag: URGENT` label to the issue, along with a comment explaining the expedited timeline. 
 
-### Giveaways and store credit
+### Gift cards or specialty gifts
 
-#### Organizing a gift card
+#### Sending a gift card
 
 If you'd like to allow giveaway (e.g. Hackathon winners) or gift recipients to choose their own swag, we can set up a store credit for them to use in the [GitLab Swag Shop](https://shop.gitlab.com/).
 
@@ -64,9 +64,9 @@ If you'd like to allow giveaway (e.g. Hackathon winners) or gift recipients to c
 
 Note: This is only for items currently in the [Swag Shop](https://shop.gitlab.com/). You will only be charged for the amount redeemed in the store once it is spent.  
 
-#### Gift of choice landing page
+#### Sending specialty gifts
 
-If you’d like to create a unique giveaway for a group of more than 15 people with items that are not on the swag store, a “gift of choice" redemption landing page can be set up. This is a great option for a special group who attended an event or won a prize. Recipients enter their own information and the gift is shipped directly to them. 
+If you’d like to offer gift options with items that are not on the swag store, a “gift of choice" landing page can be set up. This is a great option for a special group who attended an event or won a prize. Recipients enter their own information and the gift is shipped directly to them. 
 
 **How to submit the request:**
 
