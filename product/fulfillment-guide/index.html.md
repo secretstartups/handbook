@@ -180,6 +180,9 @@ There’s an automated process (Zuora Workflow) that sets `Subscription.TurnOnSe
 - [Seat usage](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#how-seat-usage-is-determined)
 - [Seats owed](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#seats-owed)
 
+#### Subscription Display 
+1. For sales assisted subscriptions, there could be cases wherein a single subscription term has multiple plans (e.g. premium, ultimate). This could be because the subscription was sold with a plan and mid-term the plan was changed to another one. In our new subscription card design, in such cases only the latest version of the subscription will be shown and the details of the old plan will not be shown. The start date of the new plan should be shown correctly as starting from the date from which the new plan is active. More details in this [issue](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6103) (internal).
+
 ## CustomersDot Admin Panel
 
 The target audience is the internal GitLab team, and covers the [admin panel](https://customers.gitlab.com/admin/) of the [Customers Portal](https://customers.gitlab.com). Customers or subscription managers should refer to the [Customers](https://docs.gitlab.com/ee/subscriptions/) section of GitLab's user documentation for help in using the portal, or the [licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/) for questions on subscriptions such as how users are counted.
