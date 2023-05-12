@@ -41,6 +41,7 @@ The following people are permanent members of the SIRT
 |Sean Gillespie|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
 |Bala Allam|[Security Engineer, SIRT](/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate)|
 |Leslie Anzures|[Security Engineer, SIRT](/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate)|
+|Ellis Coulson|[Security Engineer, SIRT](/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate)|
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Services We Provide:
 1. Reactive - Services design to respond to active incident handling, including but not limited to 
