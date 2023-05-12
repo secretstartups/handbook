@@ -96,10 +96,16 @@ cycle of source code:
 ## Security Architecture Principles
 
 The Security Architecture Principles are not requirements nor decisions, but something in between.
-These principles are taken from the book Software Systems Architecture (see
+
+Our principles are based on two simple pillars:
+
+1. **Least privileges**
+1. **Network isolation**
+
+They are detailed below with the principles taken from the book Software Systems Architecture (see
 [references](#references)) and this [ACCU 2019 related
-video](https://www.youtube.com/watch?v=YbjoaMN67Hw). They are very close to the [OWASP Security
-Design Principles], but fit better to our current workflow at GitLab.
+video](https://www.youtube.com/watch?v=YbjoaMN67Hw). These are very close to the [OWASP Security
+Design Principles] but are easier to understand and apply.
 
 [OWASP Security Design Principles]: https://github.com/OWASP/DevGuide/blob/master/02-Design/01-Principles%20of%20Security%20Engineering.md
 
@@ -391,8 +397,11 @@ aka Fail Safe Defaults.
 - Don't rely on a single point/layer of security:
   - Secure every level
   - Stop failures at one level propagating
-- Encrypt data at rest and in transit
+- [Encrypt data at rest] and [in transit]
 - Use vulnerability scanners
+
+[Encrypt data at rest]: /handbook/security/threat-management/vulnerability-management/encryption-policy.html#encryption-at-rest
+[in transit]: /handbook/security/threat-management/vulnerability-management/encryption-policy.html#encryption-in-transit
 
 #### Examples
 
