@@ -89,28 +89,7 @@ Incidents may optionally have a `Delivery impact:*` label to indicate the impact
 | Delivery impact::2 | Deployments and/or scheduled releases will soon become blocked. Resolve as soon as possible |
 | Delivery impact::3 | Deployments and releases are not currently blocked but there is some impact on the delivery process |
 
-
-### Self-managed releases
-
-Similar to the above mentioned label, each `self-managed release` has a label
-to highlight that a certain merge request should be backported to the targeted
-release. For example, releases in the 12.3 series will have `~"Pick into 12.3"`
-label which will signal that this merge request should be included in one of the
-[next patch releases being created][creating patch release]. The patch releases are created as needed but only according to our [maintenance policy].
-
-The label should be applied in the following situations:
-
-- The backport (stable) branch has been created, the release on the 22nd is not created
-and the merge request fixes a critical regression.
-- The 22nd has passed and the merge request fixes a bug.
-
-The label should not be applied to merge requests:
-
-- Introducing new features
-- Resolving a security vulnerability because process for [security releases](../security/index.html#security-releases) differs
-from the regular release
-
-#### Labels indicating inclusion in upcoming Self-managed release
+### Labels indicating inclusion in upcoming Self-managed release
 
 As a merge request is included in monthly self-managed release candidates (RC), it will receive the
 `released::candidate` label when the release candidate it is included in is deployed to
@@ -196,20 +175,9 @@ The different processes are documented here:
   - [Critical security releases][process-security-release-critical]
   - [Non-critical security releases][process-security-release-non-critical]
   - [Patch releases][process-patch-release]
-    - 🔊 During 15.10, Delivery is piloting a new GitLab engineer patch release process, details on the [internal pilot][internal-pilot-question] question.
 - GitLab.com releases:
   - [Auto-deploy releases][process-auto-deploy-release]
   - [Hot patch]
-
-### Where I can learn more about the internal patch release pilot for GitLab engineers?
-
-During 15.10, Delivery is piloting a different patch release process for GitLab engineers that allows stage teams to have more control over what changes
-are included in patch release. As part of this pilot, engineers will be enabled to start merging into stable release branches so that they can self-serve
-on bug fixes. This is an initial iteration to enable the [Maintenance Policy Extension][maintenance-policy-extension].
-
-For additional details at the [announcement issue][announcement-issue] and refer to the [new patch release runbook][new-patch-release-runbook] for guidelines.
-
-Feedback is encourage, please leave your thoughts on the [announcement issue][announcement-issue].
 
 ### A security issue was assigned to me, where should I start?
 
@@ -275,7 +243,6 @@ If you need any additional help please ask the Release Managers in the [#release
 [release-tools]: https://gitlab.com/gitlab-org/release-tools
 [release/tasks]: https://gitlab.com/gitlab-org/release/tasks/-/issues
 [labels of importance]: #labels-of-importance
-[creating patch release]: https://youtu.be/lHag9jARbIg
 [auto-deploy]: https://www.youtube.com/watch?v=_G-EWRpCAz4
 [severity]: /handbook/engineering/quality/issue-triage/#severity
 [#releases]: https://gitlab.slack.com/archives/C0XM5UU6B
