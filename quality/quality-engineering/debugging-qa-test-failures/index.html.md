@@ -539,7 +539,8 @@ The failure was caused by a bug in the application code.
 - Add the steps to reproduce the bug and expected/actual behavior.
 - Apply the `~"type::bug"` label, and cc-ing the corresponding Engineering Managers (EM), QEM, and SET.
 - If the problem adheres to the definition of a [transient bug](/handbook/engineering/quality/issue-triage/#transient-bugs), apply the ~"bug::transient" label as well.
-- If there is an issue open already for the bug, mark the new issue as a duplicate of the original bug.
+- Apply the `~"found by e2e test"` label to the bug to indicate the bug was found by the end-to-end test execution.
+- If there is an issue open already for the bug, mark the new issue as a duplicate of the original bug and apply the `~"found by e2e test"` label to the original.
 - Communicate the issue in the corresponding Slack channels.
 - Do _not_ [quarantine][quarantining tests] the test immediately unless the bug won't be fixed quickly (e.g. if it is a minor/superficial bug). Instead, leave a comment in the issue for the bug asking if the bug can be fixed in the current release. If it can't, quarantine the test.
 - When the reason for quarantining a test is because of a low severity bug in the code which will not be fixed in the upcoming couple of releases, add `type: :bug` in the `quarantine` tag.
