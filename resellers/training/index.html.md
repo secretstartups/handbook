@@ -69,7 +69,7 @@ GitLab Partner Technical Engineer (PTE) accreditation is a technical deep dive t
 
 The Partner Technical Engineer learning pathway consists of 6 courses: Git Essentials, Project Management, CI/CD, Security, Implementation, and migration. There is a final exam at the end of the learning pathway, upon passing learners will be awarded the GitLab Partner Technical Engineer Accreditation. 
 
-This learning pathway taxes approximately 6 hours to complete. 
+This learning pathway takes approximately 6 hours to complete. 
 
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Accessing Training Materials </span>
