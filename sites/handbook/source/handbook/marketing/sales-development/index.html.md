@@ -251,8 +251,7 @@ Quota is made up of the following depending on [sales segment](/handbook/sales/f
 - [Sales Accepted Opportunities (SAOs)](/handbook/marketing/sales-development/sales-sdr-alignment/#goals--targets)
 - [ARR](/handbook/sales/sales-term-glossary/arr-in-practice) pipeline component
 - 2-way communication must be documented on the Contact in the Opportunity to receive credit. Opportunities missing this documentation will not be considered for compensation and will not retire quota.
-- For BDRs and SDRs who have SAO/ARR goals, compensation is based on the SAO attainment. ARR attainment is a qualifier for accelerator payments. Our aim is to land net new logos and expand to new customer business units, SAOs being our quantity metric and ARR our quality metric.  Our mission is to create good qualified pipeline for the company.
-- BDRs and SDRs are not responsible for uptiering customer accounts from a paid lower tier to a higher tier, ie. from Premium to Ultimate, this is the responsibility of sales.
+- For BDRs and SDRs who have SAO/ARR goals, compensation is based on the SAO attainment. ARR attainment is a qualifier for accelerator payments. Our aim is to land net new logos and expand to new customer business units, SAOs being our quantity metric and ARR our quality metric.  Our mission is to create good qualified pipeline for the company. SAO credit is given for licences and not for PS Opportunities (for training, for example) nor pipeline minutes. 
 
 #### Sales Development Org Compensation Breakdown
 **Team Member OTE (SDR/MM BDR, APAC BDR, & Pub Sec)**
