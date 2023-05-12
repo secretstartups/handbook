@@ -87,34 +87,34 @@ At GitLab, we promote on a bi-annual basis. This means that there is **one effec
 
 
 - FY24-Q1: _Completed_ Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline)
- - Planning: December 20 to January 6
- - Calibrations: January 9 to January 20
- - Processing: January 23 to February 1 (Promotions must be added to Workday by January 20)
+ - Planning: 2022-12-20 to 2023-01-06
+ - Calibrations: 2023-01-09 to 2023-01-20
+ - Processing: 2023-01-23 to 2023-02-01 (Promotions must be added to Workday by 2023-01-20)
     - Effective date for promotions: 2023-02-01.
     - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
    
 - FY24-Q2: _Completed_ 
- - Planning: March 15 to April 1
- - Calibrations: April 1 to April 15
- - Processing: April 15 to May 1 (promotions must be added to Workday by April 20)
+ - Planning: 2023-03-15 to 2023-04-01
+ - Calibrations: 2023-04-01 to 2023-04-15
+ - Processing: 2023-04-15 to 2023-05-01 (promotions must be added to Workday by 2023-04-20)
     - Effective date for promotions: 2023-05-01.
     - Communication: After fully approved in either Greenhouse or Workday
     - After communicating 1:1 with individuals **on or after 2023-04-24**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
 
 
 - FY24-Q3: 
-- Planning: June 12 to June 23
-- Calibrations: June 26 to July 14
-- Processing: July 17 to August 1 ((promotions must be added to HRIS by July 20))
+- Planning: 2023-06-12 to 2023-06-23
+- Calibrations: 2023-06-26 to 2023-07-14
+- Processing: 2023-07-17 to 2023-08-01 (promotions must be added to HRIS by 2023-07-20)
     - Effective date for promotions: 2023-08-01.
     - Communication: After fully approved in either Greenhouse or Workday
     - After communicating 1:1 with individuals **on or after 2023-08-01**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
 
 
 - FY25-Q1: Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline)
- - Planning: December 18 to January 5
- - Calibrations: January 8 to January 19
- - Processing: January 22 to February 1 (Promotions must be added to Workday by January 19)
+ - Planning: 2023-12-18 to 2024-01-05
+ - Calibrations: 2024-01-08 to 2024-01-19
+ - Processing: 2024-01-22 to 2024-02-01 (Promotions must be added to Workday by 2024-01-19)
     - Effective date for promotions: 2024-02-01.
     - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
 
