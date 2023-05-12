@@ -86,7 +86,7 @@ stable_counterparts(role_regexp: /Fulfillment|Fulfillment:/, direct_manager_role
 <% ent_apps_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| ent_apps.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: ent_apps_members }) %>
 
-### Sales
+### Sales & Go To Market (GTM)
 
 <% sales = %w[asipala] %>
 <% sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales.include?(person.anchor) } %>
@@ -109,6 +109,12 @@ stable_counterparts(role_regexp: /Fulfillment|Fulfillment:/, direct_manager_role
 <% support_engineering = %w[jlyttle mdunninger kslaats] %>
 <% support_engineering_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| support_engineering.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: support_engineering_members }) %>
+
+### Chief of Staff Team to the CEO
+
+<% chief_of_staff_team = %w[ipedowitz] %>
+<% chief_of_staff_team_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| chief_of_staff_team.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: chief_of_staff_team_members }) %>
 
 ## Project management process
 
