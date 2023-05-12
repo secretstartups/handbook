@@ -489,9 +489,18 @@ Below is the list of table which has data and which will be created in snowflake
 |17|Cost|RPRO_BI3_RC_LN_COST_V|BI3_RC_LN_COST|BI3_RC_LN_COST |No|No|
 
 
-### Zuora Revenue Extract 
+## Zuora Revenue Extract 
+
+### Summary of extract and load pipeline
+- Extract: [extract_zuora_revenue.py](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/zuora_revenue/src/extract_zuora_revenue.py), uploads data to a GCS bucket called [zuora_revpro_gitlab](https://console.cloud.google.com/storage/browser/zuora_revpro_gitlab). Note the following:
+    - The extract is NOT run on airflow, rather it is scheduled and run on a dedicated *Compute Instance*.
+    - Currently, every run is done as a *full extract* because the Zuora system sometimes misses updating the `UPDT_AT` column, [issue](https://gitlab.com/gitlab-data/analytics/-/issues/10774).
+- Load: data is then loaded from the GCS bucket to Snowflake with the zuora_revenue_load.py [DAG](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/zuora_revenue_load.py) which then runs [load_zuora_revenue.py](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/zuora_revenue/load_zuora_revenue.py) 
+- Triage note: Zuora performs deletes/reconciliations(monthly and/or quarterly) at the source system and since zuora is a full refresh system, we get volume anomalies in Monte carlo which can be marked as *expected*.
+
+### Diving deeper
 <details>
-  <summary markdown="span">Below is the information around the extraction of Zuora Revenue extraction pipeline, click here to expand</summary>
+  <summary markdown="span">Below is how to set-up the Compute Engine for the extract, click here to expand</summary>
 
 ### Setup the environment in Compute engine 
 Do SSH to the zuora compute engine using your service account.
@@ -616,6 +625,10 @@ The current schedule is set to run at 02:00 AM UTC every day.
 00 02 * * * . $HOME/.bash_profile;$python_venv && cd $zuora_src && python3 extract_zuora_revenue.py -table_name BI3_RC_SCHD_DEL   -bucket_name $zuora_bucket -api_dns_name $zuora_dns -api_auth_code "$authorization_code" &>/tmp/mycommand.log
 00 02 * * * . $HOME/.bash_profile;$python_venv && cd $zuora_src && python3 extract_zuora_revenue.py -table_name BI3_RI_ACCT_SUMM  -bucket_name $zuora_bucket -api_dns_name $zuora_dns -api_auth_code "$authorization_code" &>/tmp/mycommand.log
 ```
+</details>
+
+<details>
+<summary>Zuora Extract Flow Chart</summary>
 
 ## Zuora Extract Flow Chart 
 ![Zuora Extract FLow](https://lucid.app/publicSegments/view/87b3c145-78aa-4fe8-bc1e-63c4c008c0a1/image.png)
@@ -625,9 +638,7 @@ At the end of the process below will be output.
 2) Any file for the date range wil be present in the GCS bucket. 
 </details>
 
-**Note :** Zuora performs deletes/reconciliations(monthly and/or quarterly) at the source system and since zuora is a full refresh system, we get volume anomalies in Monte carlo which can be marked as expected.
-
-## In order to add table for extraction to Snowflake.
+### In order to add table for extraction to Snowflake.
 From this list if any table get the data and we need to add the entry to snowflake then we need to follow below steps.    
 **Step 1:** Add the entry `extract/zuora_revenue/zuora_revenue_table_name.yml` to add task in the `zuora_revenue_load_snow` DAG.  
 **Step 2:** For the respective table follow  Step 5, Step 6 and Step 8.
@@ -636,7 +647,7 @@ From this list if any table get the data and we need to add the entry to snowfla
 **Notes:** Don't use the describe column API to create the table definition because the order of column in list may differ from original table definition. 
 
 
-### For Derived table 
+#### For Derived table 
 Zuora have provided view definition for the derived view. As extracting data from the derived view is not feasible in production. Hence for table BI3_WF_SUMM we prepare the data in the DBT model in PREP layer with the DDL provided from Zuora. The DDL definition is present in [extract/zuora_revenue/README.md](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/zuora_revenue) in repo. 
 
 ## Zoominfo
