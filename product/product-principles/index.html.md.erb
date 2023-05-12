@@ -268,6 +268,12 @@ When you have to add a new configuration, make sure that the features and servic
 
 If the decision to add a configuration follows the [principles above](https://about.gitlab.com/handbook/product/#principles), add it to the repository-specific CI configuration options and be sure to default it to the option that results in the best user experience. We are much more liberal with additions to CI configurations than Instance configurations.
 
+#### Every feature is owned by a group
+
+Features should be owned by one group, including the respective DRIs of that group. Make sure that the documentation metadata and the `features.yml` for your team are kept up to date to make it easier for other teams to find the correct owner. 
+
+This principle is important because unowned product features are unsupervised, and continue to accrue technical debt over time. This increases the risk of performance and maintenance issues, which tend to only get resolved once the situation has become critical. In addition, by having clear DRIs for our entire surface area, teams are able to advocate for investment and/or removal of features. If you encounter a feature that does not seem to be owned or documented, work with the team that originally introduced the functionality to decide on ownership. If the feature is large and needs to be broken down, document which elements are owned by which team. If you cannot decide who should own the feature, escalate the decision to the lowest common reporting line between the involved teams. If there are features that no group wants to own, or features that a group no longer wants to own, that feature should be considered for deprecation and removal.
+
 ### User Experience
 
 Within each stage, the learning curve must be at least comparable to our best-in-class competitors, with clear, cohesive workflows, a highly usable interface, and comprehensive documentation. Product works closely with the [User Experience](/handbook/product/ux/) team to achieve our user experience goals.
