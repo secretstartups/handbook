@@ -13,11 +13,41 @@ description: "The Respond Group a part of the Monitor Stage of the DevOps lifecy
 ## Respond
 The **Respond** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
 
+This team maps to the [Respond Group](/handbook/product/categories/#respond-group) category and focuses on:
+
+* [Service Desk](https://about.gitlab.com/direction/monitor/service_desk/)
+* [Incident Management](https://about.gitlab.com/direction/monitor/debugging_and_health/incident_management/)
+* [On-call Schedule Management](https://about.gitlab.com/direction/monitor/debugging_and_health/on-call_schedule_management/)
+* [Runbooks](https://about.gitlab.com/direction/monitor/debugging_and_health/runbooks/)
+
 ## Exciting things and accomplishments
 This section details the happenings within the Respond group. At any given time this section will have the top exciting things and/or accomplishments of the team.
 1. We created a [teardown for GitLab Incident Management](https://gitlab.com/gitlab-org/monitor/respond/-/issues/184) in a blank state for Reporters, Developers and Maintainers and identify opportunities to help users better onboard with GitLab Incident Management.
 1. Sarah automated and iterated on our Weekly Update issue, [here](https://gitlab.com/gitlab-org/monitor/respond/-/issues/195#note_1261721192) is a recent example.
 1. Will is wrapping up the research for the [Monitor Stage Navigation](https://gitlab.com/gitlab-org/ux-research/-/issues/2292) to determine if we should rename our left hand navigation.
+
+## Team members
+
+<%= direct_team(manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
+
+## Stable counterparts
+
+<%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Observability)/, direct_manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
+
+## Communication
+
+- Slack channel: [#g_respond](https://gitlab.slack.com/archives/C02SHPPGZS5)
+- Slack alias: [@monitor-respond-group](https://app.slack.com/client/T02592416/C02SHPPGZS5/user_groups/SLFUX86HF)
+- Our Google groups are organized like this:
+  - [Monitor Respond Group](mailto:monitor-respond-group@gitlab.com) (whole team)
+    - [monitor-respond_be](mailto:monitor-respond-be@gitlab.com) (backend team)
+    - [monitor-respond-fe](mailto:monitor-respond-fe@gitlab.com) (frontend team)
+- The Respond group team meetings are scheduled on our [Monitor Stage team calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xbGMyZHFpbjFoMXQ2MHFoNnJmcjJjZTE5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+  - The team holds a weekly sync meeting, alternating between 2 timezone groups (Wed @ 2100UTC and Thurs @ 1500UTC) and [meetings are recorded](https://drive.google.com/drive/u/0/folders/11oEDabI5blfcHz0P9dOZY6Oj_dHd0-wx).
+    - 1st week of the month - At the start of the quarter review the [roadmap](https://gitlab.com/groups/gitlab-org/-/epics/7013) and [product direction](https://about.gitlab.com/direction/monitor/debugging_and_health/incident_management/).
+    - 2nd week of the month - Walk through in-progress work on the [workflow dashboard](https://gitlab.com/groups/gitlab-org/-/boards/1160198).
+    - 3rd week of the month - Review the [planning issue](https://gitlab.com/gitlab-org/monitor/respond/-/issues/?label_name%5B%5D=Planning%20Issue) for the upcoming milestone.
+    - 4th week of the month - Demo new features and showcase any interesting work done within or outside of our team (in-person or recorded demos).
 
 ## Peformance Indicators
 The Respond Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we need to establish an initial user base that we can learn from to improve and further grow the Monitor stage. We have prioritized the Incident Management category to obtain this usage. 
@@ -391,36 +421,6 @@ Service Ping is used for self-managed customers.  The table below was generated 
     </tr>
 </table>
 </details>
-
-## Communication
-
-- Slack channel: [#g_respond](https://gitlab.slack.com/archives/C02SHPPGZS5)
-- Slack alias: [@monitor-respond-group](https://app.slack.com/client/T02592416/C02SHPPGZS5/user_groups/SLFUX86HF)
-- Our Google groups are organized like this:
-  - [Monitor Respond Group](mailto:monitor-respond-group@gitlab.com) (whole team)
-    - [monitor-respond_be](mailto:monitor-respond-be@gitlab.com) (backend team)
-    - [monitor-respond-fe](mailto:monitor-respond-fe@gitlab.com) (frontend team)
-- The Respond group team meetings are scheduled on our [Monitor Stage team calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xbGMyZHFpbjFoMXQ2MHFoNnJmcjJjZTE5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-  - The team holds a weekly sync meeting, alternating between 2 timezone groups (Wed @ 2100UTC and Thurs @ 1500UTC) and [meetings are recorded](https://drive.google.com/drive/u/0/folders/11oEDabI5blfcHz0P9dOZY6Oj_dHd0-wx).
-    - 1st week of the month - At the start of the quarter review the [roadmap](https://gitlab.com/groups/gitlab-org/-/epics/7013) and [product direction](https://about.gitlab.com/direction/monitor/debugging_and_health/incident_management/).
-    - 2nd week of the month - Walk through in-progress work on the [workflow dashboard](https://gitlab.com/groups/gitlab-org/-/boards/1160198).
-    - 3rd week of the month - Review the [planning issue](https://gitlab.com/gitlab-org/monitor/respond/-/issues/?label_name%5B%5D=Planning%20Issue) for the upcoming milestone.
-    - 4th week of the month - Demo new features and showcase any interesting work done within or outside of our team (in-person or recorded demos).
-
-## Team members
-
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
-
-## Stable counterparts
-
-<%= stable_counterparts(role_regexp: /(?<!:)Monitor(?!:Observability)/, direct_manager_role: 'Fullstack Engineering Manager, Monitor:Respond') %>
-
-## Responsibilities
-{: #monitoring}
-
-This team maps to the [Respond Group](/handbook/product/categories/#respond-group) category and focuses on:
-
-* [Incident Management](https://about.gitlab.com/direction/monitor/debugging_and_health/incident_management/)
 
 ## Dashboards
 
