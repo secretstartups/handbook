@@ -231,26 +231,12 @@ As you learned in the technical terminology portion, a GitLab Merge Request (MR)
 
 ### How to create a GitLab Merge Request (i.e. How to make an update to the handbook)
 
-To create a merge request:
-
-1. Find the page of the [handbook](/handbook/) that you want to make the change to. (ex. [Learning & Development](/handbook/people-group/learning-and-development/))
-1. Once you are on the page you want to make a change to, scroll all the way to the bottom and select "View page source"
-1. This will redirect you to the file on the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project
-1. Then you will need to click the blue "Edit" button
-1. Select the soft wrap/no wrap button in the top right (just above the text box) to how you prefer
-1. Find the portion of the page you were wanting to change and make your proposed changes.
-1. Update the "Commit message" - this should describe the changes you made in a few words (ex. Add Values Certification to Page)
-1. Update the "Target Branch" - this will be similar to the commit message, but shorter and using dashes instead of spaces. Every branch name must be unique.
-1. Click "Commit changes" - don't worry, this will just create your merge request, it will not make your changes reflect right away (someone still has to merge it before your changes will be reflected).
-1. On the next page the "Title" will auto populate as the Commit message from the previous page
-1. Answer the questions in the "Description section"
-1. Assign the merge request to your manager for review
-1. Click "submit merge request"
+Follow the instructions to [Edit the Handbook](https://about.gitlab.com/handbook/git-page-update/#13-edit-the-handbook) which include creating a merge request to commit an edit.
 
 #### Video: How to create a GitLab Merge Request (~10 minutes)
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/etgjyJ0SSUM" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://youtu.be/DJo4bQdawSo?t=632" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ### How to search for a GitLab Merge Request
@@ -263,7 +249,6 @@ You can search for a GitLab Merge Request in the same way as you search for a Gi
    1. Soft Wrap - when you are editing your MR, you can either select soft wrap or no wrap. If you select "soft wrap" you will be able to see all of the text in one screen. If you select "no wrap" (which is the default) you will have to scroll to the right if the text on the line is wider than the page.
    1. Squash Commits - when obtaining a merge request, there is an option to enable or disable [“Squash commits when merge request is accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/squash_and_merge.html). If enabled, it combines all your merge request’s commits into one and retain a clean history.
    1. Delete Branch - when creating or editing your merge request, you can also select the [“Delete source branch when merge request accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/#delete-the-source-branch-on-merge-by-default) option.
-
 
 To become certified in GitLab 101, you will have to pass (with at least an 80%) all three Lessons including: Technical Terminology, GitLab Issues, and GitLab Merge Requests.
 
