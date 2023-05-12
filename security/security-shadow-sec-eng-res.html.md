@@ -22,13 +22,13 @@ For example if a shadow is watching an AppSec team member triage HackerOne issue
 
 ## Application Security
 
-Do you like magic? Do you enjoy pointing out bad ideas and then advising what to do instead? Do you love knowing about LOTS of scary secrets. How about trawling through false positives, dupes, spam, and other invalid security reports? If you answered, "Yo, that's dope" to each one of these questions, then there's a good chance you'll love working on the [AppSec Team](/handbook/security/security-engineering/application-security/).
+Do you like complexity? Do you have a knack for identifying insecure edge cases, communicating them and helping provide alternative solutions? Do you enjoy spending time in confidential issues 🔒? How about sifting through false positives, duplicates, spam, and other invalid security reports to improve the signal to noise ratio? If your response to each of these questions is an enthusiastic "Yes," then there's a strong likelihood that the work of the [AppSec Team](/handbook/security/security-engineering/application-security/) will interest you.
 
 **Schedule / Topics Covered:**
-- AS101.1: Intro to AppSec and meditating through pain (1 hour)
+- AS101.1: Intro to AppSec (1 hour)
 - AS101.2: HackerOne “The Program” (1-2 hours)
 - AS101.3: AppSec Review Ride-Along (1-2 hours)
-- AS101.4: Unstable Counterparts (1 hour)
+- AS101.4: Stable Counterparts and Working with Engineering Teams (1 hour)
 - AS101.5: Security “It’s Happening” Release (1-2 hours)
 
 This schedule is a suggestion. The AppSec Engineer and the shadow are encouraged to communicate
