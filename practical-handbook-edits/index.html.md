@@ -10,100 +10,17 @@ description: "Video recordings and written tips for non-engineering team members
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Welcome to the Practical Handbook Edits Examples Page
-
-This page contains video recordings and written tips for non-engineering team members on how to work Handbook-First. In these videos, we run through the GitLab Handbook with experts, uncovering how to best use the Handbook in our day-to-day work, and learning best-practices for Handbook editing along the way. This page is intended to be complementary to [Using GitLab at GitLab](/handbook/using-gitlab-at-gitlab/#using-gitlab-competency), and we suggest you start there if you have not yet completed the [GitLab 101 Tool Certification](/handbook/people-group/learning-and-development/gitlab-101/).
+This page contains instructions, tips, and historical recordings for non-technical team members on how to work Handbook-First. This page is intended to be complementary to [Using GitLab at GitLab](/handbook/using-gitlab-at-gitlab/#using-gitlab-competency), and we suggest you start there if you have not yet completed the [GitLab 101 Tool Certification](/handbook/people-group/learning-and-development/gitlab-101/).
 
 **Have your own practical Handbook editing tips? Drop a video below!**
 
-### Creating new handbook pages and multimedia embedding best-practices
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/hQgS97M8abc" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+## Using the Web IDE to edit the handbook 
 
-**_Please note that the video mentions that you need to go to source/handbook to create a page which is no longer the case. The handbook is located under [sites/handbook/source/handbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/handbook/source/handbook)_**. 
-
-This video covers:
-- Creating a new handbook page - @:37
-- Embedding a video - @15:25, @18:53
-- Making a URL open in a new tab - @17:05
-- How this page got started - @22:48
-
-### How to move the location of a handbook page 
-
-[This video](https://youtu.be/aQl001ka3Y4) walks you through moving the location of a handbook page. There is a 1 min delay, so recommend starting the video at 1:03 for efficient viewing. We have seen that it may take over 24 hours for the move to completely take place, so even after the pipeline passes, you may still have an instance where the origial link AND the new link both still work. 
-
-Keep in mind that if there are links throughout the handbook that link to the old page, you will need to update those links so people don't receive a 400 error when clicking on those links.
-
-You may also request a redirect. That process is [outlined here](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect). 
-
-### Changing a page name and subsequent updates
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/HeQax_U74NM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-This video covers:
-- Renaming a URL - @1:05
-- Redirecting from one URL to the other - @2:17
-- Finding places where an old URL is linked and updating it to a new URL - @ 4:30
-
-### Creating mermaid diagrams
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/SQ9QmuTHuSI" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-This video covers:
-- Creating a mermaid diagram for the handbook:
-   - Intro to a mermaid diagram
-   - What they look like
-   - Use cases for using them in the handbook
-
-Note: Flowcharts are universally used to outline the steps of a processes in sequential order. [Every shape or symbol has its own function in a flowchart.](https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained)
-### Creating issue templates
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/ObNWS3trqIY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-This video covers:
-- Why you may want to use issue templates - @0:10
-- What is an issue template and how to create one - @:54
-- How issue templates and boards facilitate workflow management and automation - @3:55
-
-### Adding images to the handbook and handbook analytics
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/P7Nv7bzksiY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-This video covers:
-- How to see analytics on visits to a handbook page - @0:24
-- When and how to add images to the handbook - @5:32
-- How to keep up-to-date on changes in the handbook - @21:40
-
-### How to add a new directory and page to the handbook
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/9NcJG9Bv6sQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-This video covers:
-- How to add a new page to your section of the handbook complete with a new main page and table of contents
-
-### Updating individual team member YAML for managerial changes
-
-Every GitLab team member has an entry in [team_members/person](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person). There are step by step instructions on how to update the individual YAMLs in the [Edit this website locally handbook page](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page)
-
-When a new manager joins a team, updates are needed in three places:
-
-- Manager's entry - Update job family
-- Team member's entry - Update `reports_to` to include the new manager slug
-- [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) to indicate the new manager for the team (if part of engineering/product)
-
-### Using the new Web IDE to edit the handbook 
-
-The [new Web IDE](https://docs.gitlab.com/ee/user/project/web_ide_beta/index.html) was [released as Beta on 2022-12-19](/blog/2022/12/15/get-ready-for-new-gitlab-web-ide/) and introduces a client-only VS Code editor in the browser. The workflows for editing the handbook changed compared to the old Monaco-based Web IDE. This handbook section explains a typical workflow to edit the handbook, commit changes, create a merge request, and later edit a merge request during reviews. 
+The updated [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide_beta/index.html) was [released as Beta on 2022-12-19](/blog/2022/12/15/get-ready-for-new-gitlab-web-ide/) and introduces a client-only VS Code editor in the browser. The workflows for editing the handbook changed compared to the old Monaco-based Web IDE. This handbook section explains a typical workflow to edit the handbook, commit changes, create a merge request, and later edit a merge request during reviews. 
 
 _Please go with bias for action to add updates into this handbook page as the Web IDE Beta continues, and more features are added to improve the workflows. Feel free to assign @dnsmichi for review._
 
-#### Practical handbook edits: New Web IDE and single file editor 
+### Practical handbook edits: Web IDE and single file editor 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/DJo4bQdawSo" frameborder="0" allowfullscreen="true"> </iframe>
@@ -115,7 +32,7 @@ This video covers:
 - `Edit in Web IDE` action using the Web IDE, overview walkthrough, editing the handbook, again creating a merge request with the same actions. 
 - Practical handbook edit tips showning this handbook. 
 
-#### Web IDE editing steps 
+### Web IDE editing steps 
 
 1. Navigate to the handbook page you want to edit. At the bottom, click on the URL `Edit in Web IDE` to open the new Web IDE. 
     - Alternatively, open the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project and select `Web IDE` from the edit actions. This requires you to navigate into the source tree where the handbook files are located. 
@@ -178,9 +95,92 @@ This video covers:
 
 **Tip**: Practice the keyboard shortcuts for your workflows: After making changes, `Control+Shift+G` to commit, `Cmd+Enter`, Cursor to select the branch, `Enter`, etc. 
 
+**Note:** The `Cmd+w` keyboard shortcut to close a file tab in the Web IDE gets overridden by the Chrome browser to close the browser tab. This is a [known problem](https://gitlab.com/gitlab-org/gitlab/-/issues/386209), use this shortcut carefully. 
 
-**Note:** The `Cmd+w` keyboard shortcut to close a file tab in the Web IDE gets overridden by the Chrome browser to close the browser tab. This is a [known problem](https://gitlab.com/gitlab-org/gitlab/-/issues/386209), use this shortcut carefully.  
+### Historical Recordings
 
+In these videos, we run through the GitLab Handbook using the legacy version of the Web IDE (deprecated May 2023) with experts, uncovering how to best use the Handbook in our day-to-day work, and learning best-practices for Handbook editing along the way. They are meant to be helpful to understand generally how GitLab works, but **the instructions cannot be followed exactly since the Web IDE used is no longer live as of May 2023**.
+
+#### Historical: Creating new handbook pages and multimedia embedding best-practices
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/hQgS97M8abc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+**_Please note that the video mentions that you need to go to source/handbook to create a page which is no longer the case. The handbook is located under [sites/handbook/source/handbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/handbook/source/handbook)_**. 
+
+This video covers:
+- Creating a new handbook page - @:37
+- Embedding a video - @15:25, @18:53
+- Making a URL open in a new tab - @17:05
+- How this page got started - @22:48
+
+#### Historical: How to move the location of a handbook page 
+
+[This video](https://youtu.be/aQl001ka3Y4) walks you through moving the location of a handbook page. There is a 1 min delay, so recommend starting the video at 1:03 for efficient viewing. We have seen that it may take over 24 hours for the move to completely take place, so even after the pipeline passes, you may still have an instance where the origial link AND the new link both still work. 
+
+Keep in mind that if there are links throughout the handbook that link to the old page, you will need to update those links so people don't receive a 400 error when clicking on those links.
+
+You may also request a redirect. That process is [outlined here](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect). 
+
+#### Historical: Changing a page name and subsequent updates
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/HeQax_U74NM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+This video covers:
+- Renaming a URL - @1:05
+- Redirecting from one URL to the other - @2:17
+- Finding places where an old URL is linked and updating it to a new URL - @ 4:30
+
+#### Historical: Creating mermaid diagrams
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/SQ9QmuTHuSI" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+This video covers:
+- Creating a mermaid diagram for the handbook:
+   - Intro to a mermaid diagram
+   - What they look like
+   - Use cases for using them in the handbook
+
+Note: Flowcharts are universally used to outline the steps of a processes in sequential order. [Every shape or symbol has its own function in a flowchart.](https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained)
+### Creating issue templates
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/ObNWS3trqIY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+This video covers:
+- Why you may want to use issue templates - @0:10
+- What is an issue template and how to create one - @:54
+- How issue templates and boards facilitate workflow management and automation - @3:55
+
+#### Historical: Adding images to the handbook and handbook analytics
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/P7Nv7bzksiY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+This video covers:
+- How to see analytics on visits to a handbook page - @0:24
+- When and how to add images to the handbook - @5:32
+- How to keep up-to-date on changes in the handbook - @21:40
+
+#### Historical: How to add a new directory and page to the handbook
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/9NcJG9Bv6sQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+This video covers:
+- How to add a new page to your section of the handbook complete with a new main page and table of contents
+
+#### Historical: Updating individual team member YAML for managerial changes
+
+Every GitLab team member has an entry in [team_members/person](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person). There are step by step instructions on how to update the individual YAMLs in the [Edit this website locally handbook page](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page)
+
+When a new manager joins a team, updates are needed in three places:
+
+- Manager's entry - Update job family
+- Team member's entry - Update `reports_to` to include the new manager slug
+- [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) to indicate the new manager for the team (if part of engineering/product)
 
 ### More Tips
 
