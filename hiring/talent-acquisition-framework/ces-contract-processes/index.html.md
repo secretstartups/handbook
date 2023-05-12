@@ -268,7 +268,7 @@ _Note: It is essential that People Connect Team members are informed of all chan
     - Tag the Total Rewards team member who approved in a note to confirm that both compensation values have been approved
     - Tag the Recruiter as CC
 1. Once Total Rewards has confirmed both have been reviewed and approved, generate the appropriate contract
-1. Download the Word version of the contract and upload into Google Drive for editing
+1. Download the Word version of the contract and upload into Google Drive for editing. Don't click to open the doc, just transfer it into Drive so it doesn't impact formatting.
     - Navigate to Google Drive
     - Click “New” in the upper corner of the left toolbar
     - Select “File Upload”
@@ -282,12 +282,13 @@ _Note: It is essential that People Connect Team members are informed of all chan
         - 10. Location. Your employment with GitLab is conditioned upon your permanent legal residence being near Boise, ID. If your permanent legal residence changes from that location you must notify the Company prior to any such changes. Changes to your permanent legal residence could result in a change to your compensation, benefits, and in some circumstances, termination of your employment.
     - Updated
         - 10. Location. Your employment with GitLab is conditioned upon your permanent legal residence being near Boise, ID and you've disclosed a planned move to San Francisco, CA on or around January 1st, 2021. If your permanent legal residence changes from those locations you must notify the Company prior to any such changes. Changes to your permanent legal residence could result in a change to your compensation, benefits, and in some circumstances, termination of your employment.
-1. Delete out all tokens from the document
+1. Delete out all signature tokens from the document, because they will otherwise show up as text in DocuSign.
 1. Save and download the contract as a PDF
 1. Upload in GH by selecting “Upload Replacement”
 1. Stage contract as normal
 1. Add tokens back in after changing signing order
 1. Send
+1. When the contract is completed, message People Connect to make sure they note the relocation.
 
 ### Amendments after starting with GitLab:
 
