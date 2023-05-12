@@ -25,7 +25,7 @@ Not all of this might be a applicable to your situation, so use what works for y
 If you know something we don't or just want to share your solution to abuse prevention solution, feel free to open an MR to add to this page!
 
 ## Self-managed customers: preventing, detecting and mitigating spam
-GitLab uses [Akismet Spam filter](/handbook/support/workflows/managing_spam.html) to check for spam when users create issues and reCaptcha as an added level of spam and abuse prevention. 
+GitLab uses [Spamcheck](/https://docs.gitlab.com/ee/user/admin_area/reporting/spamcheck.html) to check for spam when users create issues and reCaptcha as an added level of spam and abuse prevention. 
 
 This tooling helps respond to the symptoms of abuse, but the root of the problem remains: malicious actors register new accounts, or take over existing accounts and then use the accounts to spam and abuse instances and projects. 
 
