@@ -23,6 +23,10 @@ words of the snow queen, Elsa, "let it go."**
 
 ### One-time setup actions
 
+#### Support Time Off calendars
+
+If you regularly handle L&R tickets, please subscribe to the global L&R calendar and relevant L&R regional calendar.
+
 1. Be sure you have access to the
 [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com)
 team calendar.
@@ -40,11 +44,27 @@ team calendar.
    1. After your personal calendar is linked, click 'Add calendar' under
    'Additional calendars to include?'. The 'Support - Time Off' calendar ID is
    `gitlab.com_as6a088eo3mrvbo57n5kddmgdg@group.calendar.google.com`
+   1. Continue to link the calendars for your SGG and your SGG region, under 'Additional calendars to include?'. ID's are in the list below (right click / copy link).
 
 1. Verify the following calendars are shared with you. These are shared with the Support Team Google Group:
    1. [Support OOO - AMER](https://calendar.google.com/calendar/u/0/embed?src=c_rt0g4ptj1nut4045lcgsm21chg@group.calendar.google.com)
    1. [Support OOO - APAC](https://calendar.google.com/calendar/embed?src=c_408bhp8a8j579lqr99j552u21s%40group.calendar.google.com)
    1. [Support OOO - EMEA](https://calendar.google.com/calendar/u/0/embed?src=c_ev56c9rgjd9l1sn291i368jn78@group.calendar.google.com)
+
+1. Add the calendars for your SGG and your SGG region, to your own calendar.
+   1. In Google Calendar's left-hand side toolbar, scroll down to "Other Calendars". Click the "+" icon and choose "Subscribe to calendar".
+   1. Enter the Calendar ID (below) for your SGG calendar
+   1. Repeat for your SGG region calendar
+
+##### SGG / L&R Calendar IDs
+
+- [Support L&R ID](c_200f3afcbd9d0e18cbd80f00163ea7ca84e08bf857bdafc2bcad4202fed64f3e@group.calendar.google.com)| [Support L&R AMER ID](c_55ea946dce89e101efa9d377ae355a201cc96b8d91079ada092cd2d9d821d602@group.calendar.google.com)| [Support L&R APAC ID](c_6d683f9a00d982d28055c0ef986561adc1aacf57570b7285a14ec79c31fd5f89@group.calendar.google.com) | [Support L&R EMEA ID](c_a849778a4950b23ce10953fa4f98d49e3abdc0aa57e88d448a27d87c6286ad0d@group.calendar.google.com)
+- [Support Baobab ID](c_cd8ab158f223036b3fb2664d4d50909e8b7eb17e1d58005c7df78c91c4b1a66d@group.calendar.google.com)| [Support Baobab AMER ID](c_c1cc09c0a895122bf20f3880d69e85ae593c62dbbc1f386f6441272dc98036f4@group.calendar.google.com)| [Support Baobab APAC ID](c_28d2e03fbb15ec559fbcb72ed6a209cd6f24105d5f1323c24349d4105858c9eb@group.calendar.google.com) | [Support Baobab EMEA ID](c_41a30ad6e82030ce88642d27f3eb8aa05ed097d9d5d48fc05ab1f5b045b0ff4a@group.calendar.google.com)
+- [Support Ginkgo ID](c_df36f948d613f53bc54e808b8325cc7f390906d7dd83981f7c6720b5e1f74ee5@group.calendar.google.com)| [Support Ginkgo AMER ID](c_1b3eeb218f3cfb9cbaff23050cb1c6bae87d786224850b01a4fd6af65014146d@group.calendar.google.com)| [Support Ginkgo APAC ID](c_5aee30435e223ee08ca3ac1b9716813b9573ed0658fcf75c50f2ec493643af96@group.calendar.google.com) | [Support Ginkgo EMEA ID](c_a545646a434f60a94f4d2084f5f0ea941fa54dce736e0909554573aa6896179f@group.calendar.google.com)
+- [Support Kapok ID](c_f5ba7f8e8d044db55024a76dac7dc2382ae4ae344245f709af4e39263abdfa69@group.calendar.google.com)| [Support Kapok AMER ID](c_af21a0d750da1cfbec05f4c23a7b1aedb729174310d3b1678af467202c8adab8@group.calendar.google.com)| [Support Kapok APAC ID](c_376d033527fa45e61a727e1bad77e6116c54789394b7d0e894e26145349bd5ad@group.calendar.google.com) | [Support Kapok EMEA ID](c_60302ec9d8a032ac3d9d10515d32e602a192cbdb52cf969448f547fe52a0925e@group.calendar.google.com)
+- [Support Maple ID](c_9267f798a9ed00f9341979d21fe5a765ba474727bd1734e5e21a341880ab8cef@group.calendar.google.com)| [Support Maple AMER ID](c_dafae2e5f43c29027e2f1192fcc4c6c4f653f0c3670f016ab4275c903bf2ac4e@group.calendar.google.com)| [Support Maple APAC ID](c_166c8a69af9b7cc7f50d17d27c953f00675beb597f46e1317f5dbb863d85e0ba@group.calendar.google.com) | [Support Maple EMEA ID](c_c86311c4b592a35fe5f598fdab42facd800c646d4615e7c6af6b230e230f3469@group.calendar.google.com)
+- [Support Pine ID](c_cef7cdb1565aed8160b68d5fb227a0d8458c114254bc0cf6341477ff376069f1@group.calendar.google.com)| [Support Pine AMER ID](c_5fccfa58dd768e2e6bb3159596b503cab508cab65907721c9c786b1ea50622d7@group.calendar.google.com)| [Support Pine APAC ID](c_7e8a93a17189fc9b38bf5e3a3cc172a6dbe1df0b353f76a3ba94d7c01e436b99@group.calendar.google.com) | [Support Pine EMEA ID](c_6e35e330542a169789e51bf78fd181794124a2779b8c5ea31000802bf44de431@group.calendar.google.com)
+
 
 ## Choosing and recording time off
 
@@ -55,8 +75,8 @@ possible for everyone to take their desired days off. As you look to plan your
 time off, please:
 
 - ensure you know the [company wide paid time off guidelines](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
-- consider a different time off schedule if your [regional capacity calendar](https://gitlab.com/gitlab-com/support/toolbox/support-calendar) shows that on any of the days you would be absent the regional team
-  would be short by 20% or more of its people
+- consider a different time off schedule if your [regional capacity calendar](https://gitlab.com/gitlab-com/support/toolbox/support-calendar) shows that on any of the days you would be absent, the regional team would be short by 20% or more of its people
+- check the regional and global calendars for the groups you are part of (SGG/L&R/etc.) and coordinate with your group to ensure we have sufficient cover for days with low availability.
 - schedule your time off as far in advance as you can, especially for days that
   may be popular, are [holidays](#how-support-handles-holidays), or that are particularly important to you
 - don't lock yourself into nonrefundable travel itineraries before you've taken
