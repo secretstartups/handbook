@@ -99,7 +99,7 @@ The Security Architecture Principles are not requirements nor decisions, but som
 
 Our principles are based on two simple pillars:
 
-1. **Least privileges**
+1. **Least privilege**
 1. **Network isolation**
 
 They are detailed below with the principles taken from the book Software Systems Architecture (see
@@ -145,6 +145,7 @@ Broad privileges allow malicious or accidental access to protected resources.
 
 - <https://owasp.org/www-community/Access_Control#principle-of-least-privilege>
 - <https://csrc.nist.gov/glossary/term/least_privilege>
+- <https://about.gitlab.com/handbook/security/access-management-policy.html#principle-of-least-privilege>
 
 </details>
 
@@ -399,6 +400,7 @@ aka Fail Safe Defaults.
   - Stop failures at one level propagating
 - [Encrypt data at rest] and [in transit]
 - Use vulnerability scanners
+- Close unnecessary ports and disable unused features
 
 [Encrypt data at rest]: /handbook/security/threat-management/vulnerability-management/encryption-policy.html#encryption-at-rest
 [in transit]: /handbook/security/threat-management/vulnerability-management/encryption-policy.html#encryption-in-transit
@@ -409,6 +411,7 @@ aka Fail Safe Defaults.
 - Accounts are locked when too many attempts, in order to avoid brute-force attacks.
 - OS execution can lead to bypass all application security layers, because the execution occurs
   outside of the application.
+- Unnecessary open ports and enabled features may lead to authentication bypass and other weaknesses. They increase the exposure of an application.
 
 #### Links
 
