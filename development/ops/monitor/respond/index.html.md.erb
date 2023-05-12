@@ -487,7 +487,7 @@ The engineering managers want to make unblocking their teams their highest prior
 
 The Product Manager is responsible for scheduling issues in a given milestone. The engineering team will make sure that issues are scoped and well-defined enough to implement and whether they need UX involvement and/or technical investigation.
 
-As we approach the start of the milestone, Engineering Managers are responsible for adding the ~deliverable label to communicate which issues we are committing to finish in the given milestone. Generally, the Engineering Manager will use the prioritized order of issues in the milestone to determine which issues to label as ~deliverable. The Product Manager will have follow-up conversations with the Engineering Managers if the deliverables do not meet their expectations or if there are other tradeoffs we should make.
+See also [Measuring Say Do ratio](https://about.gitlab.com/handbook/engineering/development/ops/monitor/respond/#measuring-say-do-ratio) for more on milestone commitments.
 
 #### Estimating
 
@@ -519,14 +519,15 @@ As part of the [Ops sub-department Async Updates](https://about.gitlab.com/handb
 
 Weekly update flow:
 1. Monday
-   1. (human) Close last week's issue, share a link to it in #g_respond.
    1. (bot) Weekly update is created automatically as an issue in the [gitlab-org/monitor/respond](https://gitlab.com/gitlab-org/monitor/respond/-/blob/master/weekly_update/README.md) project.
 1. Throughout the week
    1. (human) Noteworthy highlights, blockers, key metrics, etc, are posted manually in a comment thread on the issue.
 1. Friday
    1. (bot) Issue stats are pulled and inserted in the issue.
    1. (bot) Highlight thread is copied in the issue.
-   1. (human) Tweak the issue description if needed.
+   1. (human) Curate the issue description as needed.
+   1. (human) If the milestone just ended, report on Say Do ratio with some context and trend.
+   1. (human) Close the issue, share a link to it in the #g_respond Slack channel.
 
 Links
 - [Past weekly update issues](https://gitlab.com/gitlab-org/monitor/respond/-/issues/?sort=created_date&state=all&label_name%5B%5D=OpsSection%3A%3AWeekly-Update&first_page_size=100)
@@ -589,6 +590,34 @@ The current workflow:
 
 * Finally, we review MRs following the [guidelines](/handbook/product/ux/product-designer/mr-reviews/) as closely as possible to reduce the impact on velocity whilst maintaining quality.
 
+### Measuring Say Do ratio
+
+How we measure Say Do ratio:
+1. We set a list of goals in the milestone planning issue. Usually 3-5 of them.
+   1. Stretch goals may exist but don't contribute to Say/Do.
+1. Ideally 1 goal = 1 epic. There can be exceptions, some goals don't map 1:1 with an epic. That's ok.
+1. Say = number of goals planned (i.e. committed) at the start of the milestone.
+1. Do = number of goals achieved at the end of the milestone (i.e. number of epics closed, usually).
+1. The Engineering Manager reports the ratio in the [weekly async update](https://about.gitlab.com/handbook/engineering/development/ops/monitor/respond/#weekly-async-updates) with some context and the recent trend.
+
+How this differs from past approaches:
+1. We do not apply the `~deliverable` label to issues committed to being completed in the current milestone.
+1. We do not apply the `~filler` label to issues which are not committed in the current milestone.
+
+Why we choose this approach:
+1. Clear goals. Puts the focus on committing to milestone goals, and whether we're achieving them. Milestone plan is the go-to source of truth for our priorities.
+   1. Bonus: we get better at writing goals (Say), because if we don’t they’ll be hard to assess (Do).
+1. Accuracy. By zooming out to the epic-level, we gain accuracy. We don't need to label individual issues, they're either part of a deliverable goal / epic, or not.
+1. Usability. By being less granular, we don't need to spend time labeling individual issues. Engineering Managers save time, engineers retain ownership and case-by-case decisions within an established goal/epic.
+1. Easier to reason about. The Say Do ratio is "rounder" (20%, 25%, 33%, 40%, etc), since the number of goals is 3-5. It’s less noisy, and less prone to over-analysis than an issue-based ratio. E.g. what would it mean to go from 77.8% to 73.6% delivered issues? Is it worrisome? Is it ok?
+1. See [this thread](https://gitlab.com/gitlab-org/monitor/respond/-/issues/217#note_1326514387) for the original context that lead to this approach.
+
+Downsides to this approach:
+1. Accuracy may still be a problem, depending on how well we break down our milestone goals.
+   1. Mitigation: accept that perfect accuracy is not a goal, and rely on the feedback cycle to improve our goal setting skills.
+1. Query-based dashboards such as [this one](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios) will not pick up our Say Do ratio.
+   1. Mitigation: reporting of Say Do ratio in the Ops sub-department is moving to the monthly PI review instead of relying on a dashboard.
+
 ## Repos we own or use
 * [Prometheus Ruby Mmap Client](https://gitlab.com/gitlab-org/ruby/gems/prometheus-client-mmap) - The ruby Prometheus instrumentation lib we built, which we used to instrument GitLab
 * [GitLab FOSS](https://gitlab.com/gitlab-org/gitlab-foss) and [GitLab](https://gitlab.com/gitlab-org/gitlab) - Where much of the user facing code lives
@@ -648,9 +677,6 @@ The Respond team uses labels for issue tracking and to organize issue boards.  M
   - `~Category:Synthetic Monitoring`
   - `~Category:Product Analytics`
 - **Milestone**: optional. While technically not a label, if the issue is being worked on immediately, add the current milestone.  If you know when the issue needs to be scheduled (such as follow-up work), add the future milestone that it should be scheduled in.  Otherwise, leave it empty.
-- **Priority**: required, when scheduled. If an issue is scheduled in the current milestone it mush have a `~deliverable` or `~filler` label.
-  - `~deliverable`: Issues committed to being completed in the current milestone.
-  - `~filler`: Issues which are not committed in the current milestone. These are typically either stretch goals, technical debt or non-customer facing.
 - **Issue Type**: required.
   - `~"type::feature"`: [Feature Issues](/handbook/product/product-processes/#feature-issues)
   - `~"type::bug"`: [Bug Issues](/handbook/product/product-processes/#bug-issues)
@@ -662,9 +688,6 @@ The Respond team uses labels for issue tracking and to organize issue boards.  M
   - `workflow::in dev`: Issues that are actively being worked on by a developer.
   - `workflow::in review`: Issues that are undergoing code review by the development team.
   - `workflow::verification`: Everything has been merged, waiting for verification after a deploy.
-
-### Deliverable Labels
-In our group, the (frontend + backend) engineering managers are responsible for adding the `~deliverable` label to any issues that the team is publicly stating that to the best of their ability, they expect that issue to be completed in that milestone. We are not perfect but our goal is that 100% of the issues with that label do ship in the release that they are scheduled in. This allows engineering to share what issues they commit to and helps set expectations for the product manager and for the community.
 
 ## Respond PTO
 Just like the rest of the company, we use [PTO by Deel](/handbook/paid-time-off/#pto-by-deel) to track when team members are traveling, attending conferences, and taking time off. The easiest way to see who has upcoming PTO is to run the `/pto-deel whosout` command in the `#g_respond_standup` slack channel. This will show you the upcoming PTO for everyone in that channel.
