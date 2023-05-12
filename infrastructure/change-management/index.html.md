@@ -85,7 +85,7 @@ Examples:
 
 Plan issues are opened in the [production](https://gitlab.com/gitlab-com/gl-infra/production/issues) project tracker via the [change management issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=change_management). Each issue should be opened using an issue template for the corresponding level of criticality: `C1`, `C2`, `C3`, or `C4`. It must provide a detailed description of the proposed change and include all the relevant information in the template. Every plan issue is initially labeled `~"change::unscheduled"` until it can be reviewed and scheduled with a Due Date. After the plan is approved and scheduled it should be labeled `~"change::scheduled"` for visibility.
 
-To open the change incident management issue from Slack issue the following slash command:
+To open the change management issue from Slack issue the following slash command:
 
 ```
 /change declare
@@ -272,7 +272,7 @@ Steps:
 * Add the `~Scheduled Maintenance` label to the Change issue or create a new issue using the template `external_communication` if a confidential issue is necessary.
 * Obtain approval for the overall plan and expected impact from:
   * Director of SRE, Infrastructure
-  * VP of Infrastructure
+  * VP of Infrastructure & Quality
   * Director of Support, Global Readiness
 * 1 month before the change at least (if possible):
     * Ask our CSMs in our `#customer-success` Slack channel about their preferences on how to communicate this change to our main customers:
@@ -316,9 +316,9 @@ During the soft PCL, feature flags can be conditionally toggled, depending on th
 
 In addition to all of the restrictions in the Soft PCL, Hard PCLs include code deploys and infrastructure changes for every criticality level (see [change severities](/handbook/engineering/infrastructure/change-management/#change-severities)).
 
-In case of an active S1/S2 incident, the EOC should interact with the Incident Manager On Call prior to making any decision. It is at EOC and Incident Manager On Call discretion to make a decision on whether a change should be approved and executed. If the change is approved, Incident Manager On Call should inform the VP of Infrastructure of this decision (who will inform the executive team as necessary).
+In case of an active S1/S2 incident, the EOC should interact with the Incident Manager On Call prior to making any decision. It is at EOC and Incident Manager On Call discretion to make a decision on whether a change should be approved and executed. If the change is approved, Incident Manager On Call should inform the [Infrastructure Leadership Escalation](/handbook/engineering/infrastructure/incident-management/#infrastructure-leadership-escalation) of this decision (who will inform the executive team as necessary).
 
-During some multi-day PCL periods it will be preferred to exempt specific changes from the PCL.  Each of these must have an associated issue providing clear justification for the exemption and have the approval of the VP of Infrastructure or their designee.
+During some multi-day PCL periods it will be preferred to exempt specific changes from the PCL.  Each of these must have an associated issue providing clear justification for the exemption and have the approval of the VP of Infrastructure & Quality or their designee.
 
 ## Feature Flags and the Change Management Process
 
@@ -356,7 +356,7 @@ Additionally, during an incident investigation, knowing which high-risk features
 - **What if I still want to make a change during the PCL period?**
 
     Product Group Development code changes will require Development VP approval
-    All other changes, including all underlying cloud and infrastructure changes will require Infrastructure VP approval.
+    All other changes, including all underlying cloud and infrastructure changes will require Infrastructure & Quality VP approval.
 
 - **Does this apply to our monthly release which happens on the 22nd?**
 
