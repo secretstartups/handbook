@@ -117,29 +117,29 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 # Epic Template
 
 ```
+## [Main Issue]() - Link main event issue here
+
+## [Landing Page]() - Link event landing page here when live
+
 ## Event Details
 
-* `Place details from the event issue here`
-  * Event DRI:
-  * Marketo program type:
-  * Campaign utm `enter utm here` (Format: Campaign Tag, must be all lowercase, with no spaces, underscores, or special characters)
-  * Event Budget:
-  * Event Goals:
-  * [Add the planning sheet]()
-  * Link to event landing page:
-  * Related GTM motions (sleect allt hat apply)
-         * [ ]  CI
-         * [ ]  DevOps
-         * [ ]  GitOps
+* Event DRI:
+* Campaign Type: `Usually Owned Event or Conference'
+* Type: In-Person
+* Official Event Name:   
+* Date(s):  
+* Campaign utm `enter utm here` (Format: Campaign Tag, must be all lowercase, with no spaces, underscores, or special characters)
+* [Add the planning sheet]()
+* Related GTM motions (select all that apply)
+      * [ ]  Security and Compliance
+      * [ ]  DevSecOps Platform
+      * [ ]  Automated Software Delivery
+* [SFDC Campaign]() 
+* [MKTO Program]() 
+* Event Budget:
+* Allocadia ID: `enter ID`
 
-## Program Tracking Details
-  * Campaign Type: `enter utm here- usually Owned Event'
-  * SFDC Campaign: To be added by Verticurl
-  * MKTO Program: To be added by Verticurl
-  * UTM Campaign: `enter utm here`
-  * Finance Tag: `enter utm here`
-
-## [Copy for landing page and emails >>]() - [template](<a href="https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit">https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit</a>)
+## [Copy for landing page and emails >>]() - [template](https://docs.google.com/document/d/1_ek6A9fFPxHzPDTGs24oKM-5J5eQPLQ5CIgD0zu7_uI/edit#heading=h.6vgpxnyb4dh1)
 
 * Alliances/Partner Marketing involved - (if yes, must designate a DRI)
 * Will this event include use of Marketing Development Funds (MDFs)? YES/NO
@@ -147,16 +147,16 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 
 ## Issues to be created
 
-* [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - Corp DRI creates, assigns to Verticurl
-* [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - Corp DRI creates, assigns to Corp DRI
-* [ ] [Email Invitation Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-corp-conference-email) - for tier 1 events only - Corp DRI creates one for single invitation, assigns to Corp DRI, Lifecycle (@aklatzkin), and Verticurl
+* [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-program-tracking) - Corp DRI creates, follow instructions in issue
+* [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - Corp DRI creates, assigns to Corp DRI - use this [copy doc template](https://docs.google.com/document/d/1_ek6A9fFPxHzPDTGs24oKM-5J5eQPLQ5CIgD0zu7_uI/edit#heading=h.6vgpxnyb4dh1) for copy
+* [ ] [Marketo Landing Page](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-marketo_landing_page_request) - Corp DRI creates if necessary, follow instructions in issue
+* [ ] [Email Invitation Issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-email-invite) - for tier 1 events only - Corp DRI creates one for single invitation, assigns to Corp DRI, Lifecycle Marketing DRI, and follows instructions in issue
 * [ ] [Add to blog newsletter issue]() - for tier 1 events only - Corp DRI creates one for tier 1 events, assigns to Blog team (@sgittlen)
-* [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-corp-conference-email) - Corp DRI creates, assigns to Corp DRI, Lifecycle (@aklatzkin), and Verticurl
-* [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - Corp DRI creates, assigns to Corp DRI and MOps
+* [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-email-followup) - Corp DRI creates, assigns to Corp DRI, Lifecycle Marketing DRI, and follows instruction in issue
+* [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - Corp DRI creates, follow instructions in issue
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - Corp DRI creates, assigns to Corp DRI
-* [ ] Optional: [Request target audience for email send](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new#) - Corp DRI creates, assigns to Lifecycle (@aklatzkin)
+* [ ] Optional - use only if target list is not requested on Email Invitation Issue or if a complex list is required: [Request target audience for email send](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-target-list) - Corp DRI creates, follow instructions on issue
 
-cc @jburton to create list upload issue and DMA request as required
 
 ```
 #### Corporate Marketing: Issue best practices
@@ -165,15 +165,13 @@ cc @jburton to create list upload issue and DMA request as required
 - Issue creator associates all issues to the event epic.
 - **IF** there are ancillary events associated with the main event, the DRI will have created a separate event issue for each ancillary event. Each ancillary event will need it's own YES/NO checklist to create related necessary issues (ex: Landing Page - Happy Hour - Event Name).
 
-⚠️ Note: MOps is required to create their list clean and upload issue, and DMA list issue in their project with the proper template and associate back to the epic.
-
 ☝️ _Tip: DRIs use [this document](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0) to auto-populate timelines / SLAs for events. They will add the event as a new row when it is created with a status of Plan, add the start and end date, and look at the resulting due dates for each action item._
 
 ### Step 4- DRI Event Admin Tasks
 
 1. Add the event to Events Cal and [Events Page](/events/).
    - How to [add an event to the events page](#how-to-add-events-to-aboutgitlabcomevents).
-1. Start an [event DRI issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#) and start checking off the necessary tasks. Some things to note as you go through process in template:
+1. Start an [event DRI issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_DRI_Template) and start checking off the necessary tasks. Some things to note as you go through process in template:
    - Start an event specific slack channel.
    - Once team member staffing has been selected invite them to the channel in addition to other Field Marketing or Alliance team members that will be involved.
    - Do not link anything but the Epic in the slack channel.
@@ -437,7 +435,7 @@ It is important that we are communicating with our customers and prospects when 
 
 #### Email alias usages for outreach
 
-We use several email aliases for pre and post event outreach. Below are guidlines as to which one should be used based on the event
+We use several email aliases for pre and post event outreach. Below are guidelines as to which one should be used based on the event
 
 - Corporate events (all communications): `info@`
 - Field marketing events (invitations and follow up emails): `<amer,emea,apac,uspubsec>field@gitlab.com`
@@ -462,7 +460,6 @@ The sales nominated process allows for records to be added to the campaign in or
 - SAEs/SDRs should add members to campaign to be invited to event, using the appropriate `Campaign Status`:
   - `Sales Invited` = You have personally invited the person to the event.
   - `Sales Nominated` = Marketing will invite the person on your behalf. They will receive invitation email pre-event plus any confirmations/reminders if they register. [Video training on how add is also available.](https://drive.google.com/open?id=1QNB3DXXWtnmMBvzeHPkT7cRmigJdIWq5)
-  - `Marketing Invited` = Marketing will be sending geo-targted invitation emails to specific events pulling the names from our active database. Anyone included in this master send will be added to the campaign with this status.
   - **Any other Status** = Do not assign any other status to records. The campaign members will be updated by FMC/Marketing Ops or automated through registration.
 
 #### Employee Booth Guidelines
@@ -621,12 +618,11 @@ The sales nominated process allows for records to be added to the campaign in or
 
 1. List received by event DRI from event organizers
 1. Event DRI reviews and cleans up list following the guidelines for [list imports](/handbook/marketing/marketing-operations/list-import/)
-1. List is sent to Marketing Ops for upload to Marketo & associate to related Campaign (w/in 24hrs of receipt from event)
+1. We now use an automated list import process, described on the link above and in the list clean and upload issue. 
    - Marketo will match based on `Email Address` to existing records regardless if LEAD or CONTACT object.
-1. Marketo will sync to SFDC automatically. LeanData assigns records based on Territory ownership.
-1. Marketing Ops notifies DRI in the list clean issue when the upload has been completed so the follow up email(s) can be scheduled.
-1. Marketing Ops makes a post on the `#sdr_global` slack channel with a link to SFDC campaign, link to SDFC LEAD & CONTACT view, and link to Outreach view (if exists) as well as posting to the `#event_list_upload` channel as well.
-   - Ops will ping the `sdr` slack alias and cc the `@sdr-leadership` slack alias.
+1. Marketo will sync to SFDC automatically. Traction assigns records based on Territory ownership.
+1. Event DRI will notify Marketing Ops in the email follow-up issue that the list has been loaded.
+1. The import bot will update the `#event_list_upload` channel upon list upload.  
 1. Event DRI follow up on leads to make sure expected followup completed and lead status changed.
 
 Common lead questions:
@@ -635,7 +631,7 @@ Common lead questions:
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
 - Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/) on the record as follow up is done.
-- Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/) can be found in the Marketing Ops handbook
+- Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) can be found in the Marketing Ops handbook
 
 #### Onsite registration form & landing page
 
