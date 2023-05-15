@@ -11,7 +11,7 @@ description: >-
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Talent Programs - Calendar 
+## GitLab People Managers Calendar 
 
 This page shows an overview of the Talent Programs that People Managers are involved in. The goal of this page is to ensure that People Managers can plan ahead and have an overview of upcoming programs and timelines.
 
