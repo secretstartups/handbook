@@ -104,7 +104,7 @@ GitLab.com (SaaS) is a single installation reporting a single ping within our Se
 * No. Our snowplow user identifiers are anonymized, while our Gitlab.com user identifiers are not. However, it is possible to join Snowplow and Gitlab.com data at the namespace (group/project) level.
 
 > I've heard there are some reliability issues with our Gitlab.com data. How can I stay up to date on outages or known problems?
-* [This Issue](https://gitlab.com/gitlab-data/analytics/-/issues/12921) documents all known problems with the Gitab.com replica. 
+* [This Issue](https://gitlab.com/gitlab-data/analytics/-/issues/12921) documents all known problems with the GitLab.com replica. 
 
 #### Documentation
 
