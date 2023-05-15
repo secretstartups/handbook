@@ -283,7 +283,7 @@ cat << EOF >> data/redirects.yml
 EOF
 
 # Add entry to codeowners for migrated content
-sed -i '' -e "s~\[handbook-migration\]~[handbook-migration\]\n$DIRECTORY_TO_SPLIT @jamiemaynard @marshall007~g" .gitlab/CODEOWNERS
+sed -i '' -e "s~\[handbook-migration\]~[handbook-migration\]\n/$DIRECTORY_TO_SPLIT @jamiemaynard @marshall007~g" .gitlab/CODEOWNERS
 
 # Remove old content and replace with a README.md
 echo -e "${bold}Removing migrated content from www-gitlab-com...${normal}"
@@ -338,4 +338,4 @@ Please complete the following tasks:
 
 EOF
 
-cat  ~/Desktop/$SECTION-report.md
+cat $REPORT_OUT
