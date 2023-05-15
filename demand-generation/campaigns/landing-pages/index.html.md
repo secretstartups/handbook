@@ -76,7 +76,8 @@ _Curious how to estimate when a landing page due date should be set? We've tried
 1. Review flow steps and activate related smart campaigns
 1. Test your landing page using the [QA Review Steps](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-qa-review-steps)
 1. Once tested and any necessary updates made, comment in the relevant issue to alert other approvers to review and approve
-1. When the page is live, do final QA on live version to test all flows are working appropriately via Mareto
+1. When the page is live, do final QA on live version to test all flows are working appropriately via Marketo
+1. When using the URL in emails or other uses with utm values, Marketo page URLs (starting with page.gitlab.com) should not have a `/` at the end of the page URL before the `?`. This will likely cause the page to redirect. (Correct example: https://page.gitlab.com/webcast-example?{{my.utm}}). Note that about.gitlab.com pages should use a `/`.
 
 **about.gitlab landing page instructions being phased out**
 * Event landing pages (events yml) - [See Events Handbook Page](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (for now)
@@ -124,6 +125,7 @@ Our integrated campaign landing pages are currently created on about.gitlab.
   * If a webcast, check that the success message displays properly
   * If a Pathfactory experience, check that the link includes the correct code to (`&lb_email=<email-of-user>`) that will ensure Pathfactory recognizes the individual as a known lead, and track the activity back to the lead/contact record.
 * Check that you receive the confirmation email and run through all the flows by reviewing the `Add to Campaign` smart campaign in your Marketo program (note that if you are using your `@gitlab.com` email address, you will be removed from the flows to avoid inflating program totals for employee form fills)
+* When using the URL in emails or other uses with utm values, about.gitlab.com page URLs (starting with about.gitlab.com) must have a `/` at the end of the page URL before the `?`. Omitting the `/` can cause the form not to display on the page. (Correct example: https://about.gitlab.com/webcast-example/?{{my.utm}}). Note that Marketo pages should not use a `/`.
 
 #### Code for integrated campaign landing pages
 
