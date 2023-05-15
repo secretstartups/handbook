@@ -282,6 +282,9 @@ cat << EOF >> data/redirects.yml
   comp_op: '~'
 EOF
 
+# Add entry to codeowners for migrated content
+sed -i '' -e "s~\[handbook-migration\]~[handbook-migration\]\n$DIRECTORY_TO_SPLIT @jamiemaynard @marshall007~g" .gitlab/CODEOWNERS
+
 # Remove old content and replace with a README.md
 echo -e "${bold}Removing migrated content from www-gitlab-com...${normal}"
 git rm -r $DIRECTORY_TO_SPLIT/*
@@ -292,7 +295,10 @@ cat << EOF > $DIRECTORY_TO_SPLIT/README.md
 This handbook content has been migrated to the new handbook site and as such this directory
 has been locked from further changes.
 
-If you need help or assitance with this please reach out to @jamiemaynard (Develop/Handbooks) or
+Viewable content: [$REDIRECT_TARGET]($REDIRECT_TARGET)
+Repo Location: [https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main/$NEW_SECTION_PATH](https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main/$NEW_SECTION_PATH)
+
+If you need help or assitance with this please reach out to @jamiemaynard (Developer/Handbooks) or
 @marshall007 (DRI Content Sites).  Alternatively ask your questions on slack in [#handbook](https://gitlab.slack.com/archives/C81PT2ALD)
 
 EOF
