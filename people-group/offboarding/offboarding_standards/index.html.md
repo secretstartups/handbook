@@ -112,9 +112,8 @@ The People Connect Team member will need to complete:
 
 ### Offboarding Compliance
 
-The People Connect Team member in the relevant rotation will complete a weekly audit of all offboarding issues opened within that specific week and check that all tasks have been completed by all Team Member and/or Departments. In the event that tasks are still outstanding, the People Connect Team member will ping the relevant Departments within the offboarding issue to call for tasks to be completed.
+The People Connect Team ensures all offboarding issues are opened within each week of the offboarding date and once all tasks have been completed by the relevant Team Member(s) and/or Departments, The People Connect Team will close the offboarding issue. On a quarterly basis the People Connect Team  will audit all open offboarding issues and ping the relevant Departments within the offboarding issue to call for tasks to be completed.
 
-Once all tasks have been completed, the People Connect Team member will close the offboarding issue and mark as completed in the offboarding tracker.
 
 All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](/handbook/business-technology/tech-stack-applications/).
 
@@ -124,7 +123,7 @@ To ensure a successful completion of the offboarding issue, it is important that
 - I have checked and this team member was not given access to this particular the system/tool
 
 ## Exceptions
-Exceptions to this policy must be approved by PeopleOps.
+Exceptions to this policy must be approved by People Connect.
 
 ## References
 * [Information Security Parent Policy](/handbook/security/)
