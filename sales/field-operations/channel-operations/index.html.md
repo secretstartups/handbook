@@ -648,9 +648,7 @@ If an approver will not be able to approve opportunities due to PTO or some othe
 ## Letters of Authorization
 When a partner needs a Letter of Authorization, they must log into the partner portal and request one from the “Letter of Authorization” button along the top of the page. If a partner does not log in to the portal, they will not be able to access this request, ensuring that only authorized partners can access the link. 
 
-The partner will be prompted to input basic company information that will auto-fill the letter of authorization. When they click submit, an email will be sent to partnersupport@gitlab.com. Partner Operations will need to validate that the partner is authorized, and then click the “approve” button in the email. 
-
-Upon approval, the letter of authorization will be automatically sent to the legal team who will approve and initial the letter before sending it to GitLab's PAO for signature. Once signed, the letter of authorization will be sent directly to the partner via email. The letter is good for one calendar year from the date on the letter. 
+The partner will be prompted to input basic company information that will auto-fill the letter of authorization. Upon submitting, the letter of authorization will be automatically sent to the legal team who will approve and initial the letter before sending it to GitLab's PAO for signature. Once signed, the letter of authorization will be sent directly to the partner via email. The letter is good for one calendar year from the date on the letter. 
 
 ## Partner Support and Communication
  
