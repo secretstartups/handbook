@@ -72,4 +72,4 @@ You may support the political process through personal contributions or by volun
 
 ### Charitable Contributions
 
-We support community development throughout the world. GitLab team members may contribute to these efforts, or may choose to contribute to organizations of their own choice. However, as with political activities, you may not use company resources to personally support charitable or other non-profit institutions not specifically sanctioned or supported by the company. You should consult the Legal department if you have questions about permissible use of company resources.
+We support community development throughout the world. GitLab team members may contribute to these efforts, or may choose to contribute to organizations of their own choice. However, as with political activities, you may not use company resources to personally support charitable or other non-profit institutions not specifically sanctioned or supported by the company. Please review the [Philanthropy Policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/#gitlab-inc-philanthropy-policy) for guidelines and instructions to request support. 
