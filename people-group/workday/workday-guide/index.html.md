@@ -82,7 +82,7 @@ Modules/functionality being implemented:
 
 | Workday will replace | Workday will enhance |Workday will integrate with |What remains the same in this phase|
 | ------ | ------ |------ |------ |
-| BambooHR (with a few exceptions to certain business processes) | Reporting, Auditing, Organization hierarchy, Management hierarchy, Business process workflows |Greenhouse, Culture Amp, EdCast, Navan Expense, LawLogix, Modern Health, Navex, NetSuite, GitLab, E-trade, ADP, Okta, Nominator bot, People Connect bot,Employment Automation, Sync BambooHR entities to GitLab groups, Sync new team members to team page, Sync specialty to team files, Team page readiness check,Anniversary Announcement, New Hire Announcement|PTO by Deel, BambooHR Documents, BambooHR Contractor Invoices|
+| BambooHR (with a few exceptions to certain business processes) | Reporting, Auditing, Organization hierarchy, Management hierarchy, Business process workflows |Greenhouse, Culture Amp, EdCast, Navan Expense, LawLogix, Modern Health, Navex, NetSuite, GitLab, E-trade, ADP, Okta, Nominator bot, People Connect bot,Employment Automation, Sync BambooHR entities to GitLab groups, Sync new team members to team page, Sync specialty to team files, Team page readiness check,Anniversary Announcement, New Hire Announcement|Time Off by Deel, BambooHR Documents, BambooHR Contractor Invoices|
 
 #### Phase 1 Integrations
 
@@ -120,7 +120,7 @@ Modules/functionality being implemented:
 
 | Workday will replace | 
 | ------ | 
-| Talent Assessment Tool, Compaas (Compensation planning tool), PlanSource, PTO by Deel, Internal Employment Automations |
+| Talent Assessment Tool, Compaas (Compensation planning tool), PlanSource, Time Off by Deel, Internal Employment Automations |
 
 
 ### Phase 3

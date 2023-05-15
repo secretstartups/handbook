@@ -20,7 +20,7 @@ flowchart TD
     B[BambooHR]
     C[GitLab]
     D[Modern Health]
-    E[PTO by Deel]
+    E[Time Off by Deel]
     F[LawLogix]
     G[Okta]
     H[Culture Amp]

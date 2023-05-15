@@ -60,7 +60,7 @@ BambooHR was used by GitLab to store all team member information in one central 
 
 GitLab’s ATS (Applicant Tracking System). All hiring managers and interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more. Please refer to the [hiring handbook](https://about.gitlab.com/handbook/hiring/greenhouse/) for additional information.
 
-## PTO by Deel
+## Time Off by Deel
 
 A slack application used to request, track, approve and analyze time off.
 
