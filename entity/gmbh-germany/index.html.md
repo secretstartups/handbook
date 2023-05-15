@@ -118,7 +118,7 @@ GitLab does not plan to offer different Life Insurance Benefits because team mem
 
 ### GitLab GmbH Germany Parental Leave
 
-To initiate your Parental Leave, submit the dates in PTO by Deel under the Parental Leave category. This will prompt the Absence Management team to process your leave. You can find out more information about our Parental Leave policy [here](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your Parental Leave, submit the dates in Time Off by Deel under the Parental Leave category. This will prompt the Absence Management team to process your leave. You can find out more information about our Parental Leave policy [here](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 #### Statutory Leave Entitlement
 
@@ -161,7 +161,7 @@ In case a woman takes parental leave subsequently to the child’s birth, the pe
 - Team members must register their parental leave, in writing (wet signature), 7 weeks before the desired start date if your child is under 3 years old, and 13 weeks prior to the desired start date if your child is between 3 and 8 years old. At the same time it must be declared for which periods within two years parental leave is to be taken.
 - A request for parental leave by facsimile or email does not comply with the written form requirement and is therefore void.
 - Please register your leave, in addition to the written application, by emailing leaves@domain.
-- Submit your Parental Leave in PTO by Deel by selecting the `Parental Leave` option.
+- Submit your Parental Leave in Time Off by Deel by selecting the `Parental Leave` option.
 
 - Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
@@ -181,7 +181,7 @@ https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-bene
 
 **Vacation Leave**
 
-Team members are entitled to at least 20 vacation days which run concurrently with GitLab's PTO policy. The days will accrue from the team member's start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the team member was unable to take the holiday due to operational or personal reasons. Team members must designate all vacation time taken as `Vacation` in PTO by Deel to ensure that vacation entitlement is properly tracked.
+Team members are entitled to at least 20 vacation days which run concurrently with GitLab's PTO policy. The days will accrue from the team member's start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the team member was unable to take the holiday due to operational or personal reasons. Team members must designate all vacation time taken as `Vacation` in Time Off by Deel to ensure that vacation entitlement is properly tracked.
 
 ## Long-term Care Insurance (Pflegeversicherung)
 
@@ -218,7 +218,7 @@ Beginning January 1, 2023 team members with statutory health insurance are not r
 * Team Members with private health insurance will still be required to email leaves@domain a hard copy of their certificate no later than the 4th day of illness.
 
 ##### Reporting Guidelines
-Team members are still required to report their absence(s) to GitLab, but AU certificates are not required until after the 3rd day of an absence.  Beginning the first day, team members should enter their time away into PTO by Deel by selecting the label `Out Sick` and notifying their Manager of their absence.  After 3 days of continuous absences, team members should first notify the Absence Management team (leaves@domain) of their sick leave (including the start and anticipated end date) and then enter the time away into PTO by Deel using the label `Out Sick`.  The Absence Management Team will then "call up" the AU certficiate on behalf of the team member.  
+Team members are still required to report their absence(s) to GitLab, but AU certificates are not required until after the 3rd day of an absence.  Beginning the first day, team members should enter their time away into Time Off by Deel by selecting the label `Out Sick` and notifying their Manager of their absence.  After 3 days of continuous absences, team members should first notify the Absence Management team (leaves@domain) of their sick leave (including the start and anticipated end date) and then enter the time away into Time Off by Deel using the label `Out Sick`.  The Absence Management Team will then "call up" the AU certficiate on behalf of the team member.  
 * Team Members with private health insurance will still be required to email leaves@domain a hard copy of their certificate no later than the 4th day of illness.
 
 #### During COVID-19
