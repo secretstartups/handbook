@@ -204,6 +204,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [ClickHouse Datastore](/company/team/structure/working-groups/clickhouse-datastore/)
 1. [Cross Functional Prioritization](/company/team/structure/working-groups/cross-functional-prioritization/)
 1. [Demo & Test Data](/company/team/structure/working-groups/demo-test-data/)
+1. [Emerging Talent](/company/team/structure/working-groups/emerging-talent/)
 1. [Event Stream](/company/team/structure/working-groups/event-stream/)
 1. [Expense Management](/company/team/structure/working-groups/expense-management/)
 1. [FedRAMP Execution](/company/team/structure/working-groups/fedramp-execution/)
