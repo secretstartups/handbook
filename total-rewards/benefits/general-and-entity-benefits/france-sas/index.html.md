@@ -60,11 +60,11 @@ Please see the Scheme Conditions in the [Unilateral Employer Decision Life & Dis
 * Team members are entitled to be paid by their employer for the first 3 days of paternity leave. [Eligible](https://www.ameli.fr/assure/remboursements/indemnites-journalieres/conge-paternite-accueil-enfant) team members may apply for paternity benefits through social security. Statutory paternity leave runs concurrently with GitLab Parental Leave. If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) for GitLab Parental Leave and you receive a paternity leave allowance, GitLab will supplement your pay so that you receive 100% of yor salary for the first 16 weeks of leave.
 
 #### Applying for Parental Leave in France
-To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in Time Off by Deel at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 ## Gitlab France S.A.S. Paid Time Off (Vacation)
 * Team members can review statuatory requirements for paid time off in relation to vacation as per this Handbook [page](https://about.gitlab.com/handbook/paid-time-off/#gitlab-sas-france).
-* Team members should always submit their leave via [PTO by Deel](https://about.gitlab.com/handbook/paid-time-off/#pto-by-deel) in Slack & also via the [Mihi Platform](https://2.mihi.info/Account/Login?ReturnUrl=%2F). _Please note_, the mihi platform currently tracks other leave such as RTT days where required. 
+* Team members should always submit their leave via [Time Off by Deel](https://about.gitlab.com/handbook/paid-time-off/#time-off-by-deel) in Slack & also via the [Mihi Platform](https://2.mihi.info/Account/Login?ReturnUrl=%2F). _Please note_, the mihi platform currently tracks other leave such as RTT days where required. 
 
 ## Sick Time
 Team members in France are eligible for up to 6 months of sick leave if on the day they stop working they meet the following conditions:
@@ -85,7 +85,7 @@ The daily allowance is equal to 50% of the daily basic wage.  The gross referenc
 GitLab's Sick Time policy will run concurrently with this benefit for the first 25 working days, "topping up" the team members salary to 100%.  After that, the sick leave will become unpaid by GitLab.
 
 ### Reporting Requirements
-Team members who fall ill are required to inform GitLab as soon as possible (but no later than 48 hrs) by selecting the `Out Sick` label in PTO by Deel AND entering the time away into the Mihi platform. You must provide proof by sending the Absence Management Team (leaves@gitlab.com) the sheet no. 3 of the medical sheet drawn up by your physician specifying the dates and reasons for being unable to work. Sheet no. 1 & 2 should be sent to your social security organization.
+Team members who fall ill are required to inform GitLab as soon as possible (but no later than 48 hrs) by selecting the `Out Sick` label in Time Off by Deel AND entering the time away into the Mihi platform. You must provide proof by sending the Absence Management Team (leaves@gitlab.com) the sheet no. 3 of the medical sheet drawn up by your physician specifying the dates and reasons for being unable to work. Sheet no. 1 & 2 should be sent to your social security organization.
 
 If an extension is needed, team members must notify GitLab as soon as possible (but no later than 48hrs) and send an updated sheet no. 3. 
 
