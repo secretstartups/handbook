@@ -21,9 +21,10 @@ DIRECTORY_TO_SPLIT=NOSET
 # Command line options
 DUBDUBDUB_REPO=$(git rev-parse --show-toplevel)/../www-gitlab-com
 IS_HANDBOOK=false
-SECTION=job-families
+SECTION=NOSET
 TITLE=NOTSET
 ICON=NOTSET
+REPORT_OUT=NOTSET
 # SECTION=job-families
 # TITLE="Job Families"
 # ICON="fa-solid fa-users"
@@ -35,6 +36,7 @@ usage() {
     echo -e "  ${bold}${red}-t  --tittle${normal}                 Human readable title of the section being moved"
     echo -e "  ${bold}${red}-i  --icon${normal}                   FontAwesome icon for new handbook entry"
     echo -e "  ${bold}${red}-r  --www-rero${normal}               The location of the www-gitlab-com repo"
+    echo -e "  ${bold}${red}-o  --out${normal}                    The place to output the completion report normally ~/Desktop/\$SECTION-migration-report.md"
 
     echo -e "  ${bold}${red}-v  --version${normal}                Shows version details"
     echo -e "  ${bold}${red}-h  --help${normal}                   Shows this usage message"
@@ -63,6 +65,9 @@ while [ "$1" != "" ]; do
         -r | --www-repo)            shift
                                     DUBDUBDUB_REPO=$1
                                     ;;
+        -o | --out)                 shift
+                                    REPORT_OUT=$1
+                                    ;;
         -v | --version)             version
                                     exit
                                     ;;
@@ -90,6 +95,21 @@ fi
 if [[ $IS_HANDBOOK == false ]]; then
   if [[ $ICON == "NOTSET" ]]; then
     echo -e "${red}${bold}Error:${normal}  Icon of section to migratte not set.  Exiting..."
+    exit 1
+  fi
+fi
+
+# Check report output directory
+if [[ $REPORT_OUT == "NOTSET" ]]; then
+  if [ -d ~/Desktop ]; then
+    REPORT_OUT=~/Desktop/$SECTION-migration-report.md
+  else
+    REPORT_OUT=~/$SECTION-migration-report.md
+  fi
+else
+  touch $REPORT_OUT
+  if [! -f $REPORT_OUT ]; then
+    echo -e "${red}${bold}Error:${normal} Unable write to report output location ($REPORT_OUT). Exiting..."
     exit 1
   fi
 fi
@@ -173,10 +193,14 @@ else
   git mv $SECTION content/
 fi
 
-
-echo -e "${bold}Creating index page for new content...${normal}"
-# Create an index page so we can view the content
-cat << EOF > $NEW_SECTION_PATH/_index.md
+if [ -f $NEW_SECTION_PATH/index.html.md ]; then
+  git mv $NEW_SECTION_PATH/index.html.md $NEW_SECTION_PATH/_index.md
+elif [ -f $NEW_SECTION_PATH/index.html.erb ]; then
+  git mv $NEW_SECTION_PATH/index.html.erb $NEW_SECTION_PATH/_index.md
+else
+  echo -e "${bold}Creating index page for new content...${normal}"
+  # Create an index page so we can view the content
+  cat << EOF > $NEW_SECTION_PATH/_index.md
 ---
 title: $TITLE
 cascade:
@@ -187,16 +211,26 @@ menu:
     pre: '<i class="$ICON"></i>'
 ---
 EOF
+fi
 
 # Do a find and replace on all handbook and company links
 if [[ $IS_HANDBOOK == false ]]; then
   echo -e "${bold}Finding and replacing broken handbook links...${normal}"
-  find . -type f -name "*.md" -print0 | xargs -0 sed -i '' -e 's~](/handbook~](https://about.gitlab.com/handbook~g'
+  find . -type f -name "*.md" -o -name "*.erb" -print0 | xargs -0 sed -i '' -e 's~](/handbook~](https://about.gitlab.com/handbook~g'
 fi
 if [[ $SECTION != "company" ]]; then
   echo -e "${bold}Finding and replacing broken company links...${normal}"
-  find . -type f -name "*.md" -print0 | xargs -0 sed -i '' -e 's~](/company~](https://about.gitlab.com/company~g'
+  find . -type f -name "*.md" -o -name "*.erb" -print0 | xargs -0 sed -i '' -e 's~](/company~](https://about.gitlab.com/company~g'
 fi
+
+cd content
+find . -type f -name "*.md" -o -name "*.erb" -print0 | xargs -0 sed -i '' -e 's~](https://about.gitlab.com/handbook/values~](/handbook/values~g'
+find . -type f -name "*.md" -o -name "*.erb" -print0 | xargs -0 sed -i '' -e 's~](https://handbook.gitlab.com/handbook/values~](/handbook/values~g'
+find . -type f -name "*.md" -o -name "*.erb" -print0 | xargs -0 sed -i '' -e 's~](https://about.gitlab.com/handbook/teamops~](/handbook/teamops~g'
+find . -type f -name "*.md" -o -name "*.erb" -print0 | xargs -0 sed -i '' -e 's~](https://handbook.gitlab.com/handbook/teamops~](/handbook/teamops~g'
+find . -type f -name "*.md" -o -name "*.erb" -print0 | xargs -0 sed -i '' -e 's~](https://about.gitlab.com/job-families~](/job-families~g'
+find . -type f -name "*.md" -o -name "*.erb" -print0 | xargs -0 sed -i '' -e 's~](https://handbook.gitlab.com/job-families~](/job-families~g'
+cd ..
 
 # Run markdownlint to try to fix as many errors as possible
 echo -e "${bold}Runnig markdownlint in fix mode...${normal}"
@@ -230,18 +264,24 @@ cd $DUBDUBDUB_REPO
 # Setup redirects in dubdubdub
 echo -e "${bold}Setting up redirects in www-gitlab-com...${normal}"
 git checkout -b removing-$SECTION-and-adding-redirects
+
+if [[ $IS_HANDBOOK == false ]]; then
+  $REDIRECT_SOURCE=/$SECTION
+  $REDIRECT_TARGET=https://handbook.gitlab.com/$SECTION
+else
+  $REDIRECT_SOURCE=/handbook/$SECTION
+  $REDIRECT_TARGET=https://handbook.gitlab.com/handbook/$SECTION
+fi
+
 # Replace existing redirects with new URL
-gsed -i -e "s~target: /$SECTION~target: https://handbook.gitlab.com/$SECTION~g" data/redirects.yml
-# Add new redirects for migrated content
-for d in $(find $DIRECTORY_TO_SPLIT -type d | gsed -e "s+$DIRECTORY_TO_SPLIT+$SECTION+g"); do
-  target_url="https://handbook.gitlab.com/$d"
-    cat << EOF >> data/redirects.yml
-- sources:
-    - /$d
-  target: $target_url
-  comp_op: "^~"
+gsed -i -e "s~target: $REDIRECT_SOURCE~target: $REDIRECT_TARGET~g" data/redirects.yml
+
+# Add new redirect for migrated content
+cat << EOF >>
+- sources: $REDIRECT_SOURCE
+  target: $REDIRECT_TARGET
+  comp_op: '~'
 EOF
-done
 
 # Remove old content and replace with a README.md
 echo -e "${bold}Removing migrated content from www-gitlab-com...${normal}"
@@ -273,17 +313,24 @@ echo $WWW_MR_OUTPUT
 echo -e "${bold}Cleaning up the copy of www-gitlab-com repo...${normal}"
 rm -rf /tmp/gitlab-migration
 
-cat << EOF
-Migration complete...
+cat << EOF >> $REPORT_OUT
+# Migration Report
+
+**Section:** $SECTION
+
+**Completed:** $(date)
 
 Please complete the following tasks:
 
-[ ] In www-gitlab-com please lock $DIRECTORY_TO_SPLIT in the GitLab frontend
-[ ] Review the MR in handbook for the new content
-    $HANDBOOK_MR_OUTPUT
-[ ] Fix outstanding markdown lint errors
-[ ] Merge MR for handbook
-[ ] Review the MR in www-gitlab-com for the removal of the old content and merge
-    $WWW_MR_OUTPUT
-[ ] Advise on Slack the content has been successful migrated
+- [ ] Review the MR in handbook for the new content
+  - MR Link: [$HANDBOOK_MR_OUTPUT]($HANDBOOK_MR_OUTPUT)
+- [ ] Fix outstanding markdown lint errors
+- [ ] Merge MR for \`handbook\`
+- [ ] Review the MR in \`www-gitlab-com\` for the removal of the old content
+  - MR Link: [$WWW_MR_OUTPUT]($HANDBOOK_MR_OUTPUT)
+- [ ] Merge MR for \`wwww-gitlab-com\`
+- [ ] Advise on Slack the content has been successfully migrated
+
 EOF
+
+cat  ~/Desktop/$SECTION-report.md
