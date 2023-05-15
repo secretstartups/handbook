@@ -42,7 +42,7 @@ Our promotion philosophy comprises core pillars surrounding the approach and pro
 - When reviewing a proposed promotion, we consider: 1) readiness of the individual, and 2) business justification/opportunity.
 - All in-line promotions at GitLab require a [promotion document](https://docs.google.com/document/d/1nDkYGK2yhe8pD-lnMGmEF-Cf0IlGgVOznjXMq9FxGiQ/edit?usp=sharing). We believe in [transparency](https://about.gitlab.com/handbook/values/#transparency) within the promotion process.
 - We encourage team members to live our [efficiency value](https://about.gitlab.com/handbook/values/#efficiency), be a [manager of one](https://about.gitlab.com/handbook/values/#managers-of-one), and take ownership of their promotion document in partnership with their manager.
-- We calibrate planned promotions on a bi-annual basis to ensure an equitable review, and through this process track metrics that help us understand if our promotions are occurring at a healthy and fair rate.
+- We calibrate planned promotions on a twice per year basis to ensure an equitable review, and through this process track metrics that help us understand if our promotions are occurring at a healthy and fair rate.
 
 
 ### Values Alignment
@@ -53,9 +53,9 @@ Our promotion philosophy is also aligned with our [values](/handbook/values/):
 
 - **Collaboration**: Cross-functional lens for feedback and calibration
 - **Results**: Business justification, scope, and team member results are demonstrated and documented to support promotions
-- **Efficiency**: Consistency and scalability in our promotion processes by bi-annual planning and calibration. The planning and calibration timing considers existing programs and cycles for the business and aims to embed promotions into cadences where they best align for efficiency.
+- **Efficiency**: Consistency and scalability in our promotion processes by twice per year planning and calibration. The planning and calibration timing considers existing programs and cycles for the business and aims to embed promotions into cadences where they best align for efficiency.
 - **Diversity, Inclusion, and Belonging**: Fairness and equity reflected through a consistent approach and documentation to promotions at all levels in the organization and supported by our [job frameworks](/company/team/structure/) and Total Rewards [URG](/handbook/total-rewards/compensation/compensation-review-cycle/review-cycle-inputs/#underrepresented-group-audit) audit
-- **Iteration**: Process is improved each cycle. In FY23, we moved to quarterly promotions with calibration and updated our processes and metrics accordingly. In FY24, we moved to a bi-annual promotion cadence to ensure efficiency and scalability in our process as the business continues to grow.
+- **Iteration**: Process is improved each cycle. In FY23, we moved to quarterly promotions with calibration and updated our processes and metrics accordingly. In FY24, we moved to a twice per year promotion cadence to ensure efficiency and scalability in our process as the business continues to grow.
 - **Transparency**: Clarity and efficacy of promotion metrics, budget, and guidelines, in addition to transparency in promotion justification through internally public promotion documents.
 
 
@@ -64,26 +64,26 @@ Our promotion philosophy is also aligned with our [values](/handbook/values/):
 ### Processing a Promotion
 
 
-Most promotions are processed through our Bi-Annual Promotion Calibrations, with exceptions going through Greenhouse or Workday depending on whether or not the individual interviews and accepts a position filling an approved headcount. More info on these 3 methods for processing a promotion below.
+Most promotions are processed through our twice per year Promotion Calibrations, with exceptions going through Greenhouse or Workday depending on whether or not the individual interviews and accepts a position filling an approved headcount. More info on these 3 methods for processing a promotion below.
 
 
-## Bi-Annual Promotion Calibration Process & Timeline
+## Twice per Year Promotion Calibration Process & Timeline
 
 
-At GitLab, we promote on a bi-annual basis. This means that there is **one effective date every 6 months when team members can be promoted**. We process promotions in Q1 (effective date February 1st) and Q3 (effective date August 1st). There are three core stages to the promotion process: Planning, Calibration, and Processing.
+At GitLab, we promote on a twice per year basis. This means that there is **one effective date every 6 months when team members can be promoted**. We process promotions in Q1 (effective date February 1st) and Q3 (effective date August 1st). There are three core stages to the promotion process: Planning, Calibration, and Processing.
 
 
 | Stage | Purpose |
 | ---------- | ----- |
 | [Planning](/handbook/people-group/promotions-transfers/#planning) | Managers and leaders to review their respective teams to determine promotion readiness, business need, and timeline for the upcoming quarters and project promotions. |
-| [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a bi-annual basis. This is an opportunity to create visibility and ensure consistency in who we are promoting and why. |
+| [Calibration](/handbook/people-group/promotions-transfers/#calibration) | The calibration exercise is an opportunity for leaders (sync or async) to review projected promotions on a twice per year basis. This is an opportunity to create visibility and ensure consistency in who we are promoting and why. |
 | [Processing](/handbook/people-group/promotions-transfers/#process-for-managers-requesting-a-promotion) | The final stage once promotions are defined, is to determine where to process the promotion to finalize (this will take place via Workday or Greenhouse).
 
 
-**Managers do not need to submit promotions that are part of the bi-annual calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Connect team following calibration and Division leader approval.** Below is the timeline for FY24:
+**Managers do not need to submit promotions that are part of the twice per year calibration process via Workday or Greenhouse. These will be processed by the PBP, Total Rewards, and People Connect team following calibration and Division leader approval.** Below is the timeline for FY24:
 
 
-**Previously, we promoted on a quarterly basis, but transitioned to bi-annual to ensure efficiency and scalability of our promotion process. We will move to our bi-annual cadence effective in Q1 FY'25, meaning that Q3 FY'24 will be our last quarterly promotion cycle.**
+**Previously, we promoted on a quarterly basis, but transitioned to twice per year to ensure efficiency and scalability of our promotion process. We will move to our twice per year cadence effective in Q1 FY'25, meaning that Q3 FY'24 will be our last quarterly promotion cycle.**
 
 
 - FY24-Q1: _Completed_ Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline)
@@ -119,7 +119,7 @@ At GitLab, we promote on a bi-annual basis. This means that there is **one effec
     - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
 
 
-_Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated bi-annually at the [E-group offsite](https://about.gitlab.com/company/offsite/#schedule)._
+_Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated twice per year at the [E-group offsite](https://about.gitlab.com/company/offsite/#schedule)._
 
 
 
