@@ -70,18 +70,24 @@ The Senior Red Team Engineer is a [grade 7](https://about.gitlab.com/handbook/to
 #### Senior Red Team Engineer Responsibilities
 
 - Includes [base-level responsibilities](#responsibilities).
-- Lead both solo and group Red Team Operations
-- Submit talk abstracts to top tier Information Security conferences
-- Help identify new Red Team Operations
-- Perform "read outs" of completed Red Team Operations
-- Collaborate closely with defensive and infrastructure teams
+- Deploy and manage attack infrastructure for stealth operations
+- Create and deliver short video summaries of completed Red Team operations
+- Publish blogs on offensive-security topics
+- Teach and mentor other engineers, within the Red Team and beyond
 - Participate in candidate interviews during the hiring process
 
 #### Senior Red Team Engineer Requirements
 
 - Includes [base-level requirements](#requirements).
-- Intermediate knowledge of exploit techniques, and common TTPs
-- Intermediate knowledge of one or more programming or scripting languages
+- Several years experience conducting adversary-emulation exercises
+- Deep knowledge of the MITRE ATT&CK framework
+- Experience deploying, managing, and operating a Command & Control (C2) framework
+- Senior-level command-line skills with Linux-based operating systems
+- Senior-level technical skills in one or more of the following:
+  - CI/CD and software supply-chain exploitation
+  - Google Cloud administration and exploitation
+  - MacOS administration and exploitation
+
 
 ### Staff Red Team Engineer
 
