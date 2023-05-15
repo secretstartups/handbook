@@ -1,0 +1,78 @@
+Every week the engineering team completes a backlog refinement process
+to review upcoming issues. The goal of this effort is for all issues to have a
+weight so we can more accurately plan each milestone using the estimated
+capacity for the team and the estimated issue weights.
+
+In addition to this backlog refinement process, engineers on the team can add
+weights to any issues that are straight-forward and do not need backlog
+refinement.
+
+This process happens in three steps.
+
+#### Step 1: Identifying Issues for Refinement
+
+The engineering manager will identify issues that need to be
+refined. On average we will try to refine 3-6 issues per
+week. If there are issues that are good candidates for the backlog refinement
+process, please let the engineering manager know in the issue.
+
+When picking issues to refine, we try to have themed refinements to reduce the
+context switching while the issues are being investigated. Here are some places
+to look:
+
+- [Infradev Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aimport%20and%20integrate&label_name[]=infradev&weight=None)
+- [Issues scheduled for the next milestone without weight](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aimport%20and%20integrate&milestone_title=%23upcoming&weight=None)
+- [Security Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aimport%20and%20integrate&label_name[]=security&weight=None)
+- [Performance issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aimport%20and%20integrate&label_name[]=performance&weight=None)
+- [Application Limits](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aimport%20and%20integrate&label_name[]=Application%20Limits&weight=None)
+- [Missed-SLO](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aimport%20and%20integrate&label_name[]=missed-SLO&weight=None)
+- [Approaching-SLO](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aimport%20and%20integrate&label_name[]=approaching-SLO&weight=None)
+- [Bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aimport%20and%20integrate&label_name[]=type::bug&weight=None)
+- [Issues without weight](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name[]=group%3A%3Aimport%20and%20integrate&weight=None)
+
+Once identified, the engineering manager will apply the `ready for next refinement` label, which will indicate the issues are ready for
+refinement.
+
+The engineering manager will use the [Refinement
+Bot](https://gitlab.com/gitlab-org/manage/import-and-integrate/refinement-bot)
+to generate an issue with all the issues that have been identified for
+refinement.
+
+#### Step 2: Refining Issues
+
+Over the week, each engineer on the team will look at the list of issues
+selected for backlog refinement. [Current backlog refinement
+issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&state=opened&label_name%5B%5D=ready%20for%20next%20refinement).
+
+For each issue, each team member will review the issues and provide the
+following information:
+
+- Estimated weight.
+- How to break down the issue into different issues or merge requests.
+
+Some considerations:
+
+- Keep the conversation on the original issues.
+- During this process, the issue description and labels should be updated as
+more information is gathered.
+- Does the issue need a feature flag?
+- Consider adding an "Availability and Testing" section as defined in the [Quad Planning](/handbook/engineering/quality/quality-engineering/quad-planning/).
+- For efficiency, engineers can also skip the refinement of some issues
+depending on the feedback that we already have.
+- Where the fix is clear and easy, we can assign the issue to
+ourselves, give it a weight of 1 and push the fix.
+
+#### Step 3: Finalizing Refinement
+
+After engineers have had a chance to provide input, the engineering manager will then:
+
+- Apply a final weight. This could be the average of weights provided by the
+engineers, but the final decision is up to the engineering manager taking into
+consideration the uncertainty.
+- Inform stable counterparts if there are any testing or security concerns.
+- Remove the `ready for next refinement` label.
+- Apply the right `workflow::` label based on the outcome of the refinement. Example `workflow::ready for development`.
+
+For any issues that were not discussed and given a weight, the engineering
+manager will work with the engineers to see if we need to get more information
+from PM or UX.
