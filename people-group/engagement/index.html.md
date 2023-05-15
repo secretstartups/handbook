@@ -106,6 +106,28 @@ See the [example epics](https://about.gitlab.com/handbook/people-group/engagemen
 
 [Take Action with Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework)
 
+### Employer Award surveys
+
+## Great Place to Work
+[Great Place to Work](https://www.greatplacetowork.com/) recognizes companies for their outstanding workplace culture, benefits and performance through successful completion of a regional team member survey and culture brief application. They partner with Fortune to produce the Fortune 100 Best Companies list annually. The survey is based off of the following components:
+1. US-based respondents only
+1. Surveyed over a 2-week period
+1. 61 Statements
+1. 14 On-Survey Demographic Questions
+1. 2 Open-Ended Questions
+
+**FY24 Great Place to Work Survey Results**
+GitLab received [Great Place to Work Certification](https://www.greatplacetowork.com/certified-company/7013799) for the 3rd year in a row in the US in May 2023 and was recognized for our outstanding company culture. 
+1. 85% average of all statements
+1. 89% of team members say GitLab is a Great Place to Work
+[Read more about the survey results](https://docs.google.com/presentation/d/1lT6E46aDmMM8JGAdXmNJFnhoSeCBx9DstsOq-y6yFH0/edit#slide=id.g123a13deda8_0_405). 
+
+**FY23 Great Place to Work Survey Results**
+GitLab received [Great Place to Work Certification](https://www.greatplacetowork.com/certified-company/7013799) for the 2nd year in a row in the US in December 2021 and was recognized for our outstanding company culture. 
+1. 93% average of all statements
+1. 96% of team members say GitLab is a Great Place to Work
+[Read more about the survey results](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/5803). 
+
 ### Organizational Health surveys
 
 In Q3 FY'23, our Talent & Engagement team ran our first organizational health survey.
