@@ -391,13 +391,13 @@ The Partner Manager receives an email notification to review the Partner Sourced
 
 The GitLab ASM for the opportunity is responsible for final review of any Partner Sourced Deal Registration approved by a Partner Manager, and must either approve, reject, or return the registration for additional information. The ASM receives an email notification to review the registration only if/when the Partner Manager approves (`DR-Status` = “Pending ASM Review”). ASMs can also view registrations in their list view within the SFDC Registration tab.
 
-****Alliance Partners**
+****Alliance and GSI Partners**
 
-Alliance marketplace and OEM partners do source opportunities for GitLab; however, they do not submit their own Partner Sourced Deal Registrations for these opportunities. The Registration process for alliance partners is instead initiated by the GitLab Alliance Partner Manager on behalf of the partner.
+Alliance marketplace and OEM partners, and GSI partners do source opportunities for GitLab; however, they do not submit their own Partner Sourced Deal Registrations for these opportunities. The Registration process for these partners is instead initiated by the GitLab Partner Manager on behalf of the partner.
 
-The steps below outline how a Partner Sourced Deal Registration is submitted on behalf of an alliance partner to initiate the Deal Registration process:
-1. The GitLab Alliance Partner Manager opens the [Alliances Partner Sourced Deal Registration](https://docs.google.com/document/d/16wTiDbwBoomUmnu2y4OmAAdC4VpvMIUGL1k4vdSrl2Y/edit?usp=sharing) document and follows the instructions to submit a Registration via the google form.
-2. The Managed Services team uses the data provided in the google form to submit a formal Partner Sourced Deal Registration via Vartopia on behalf of the alliance partner.
+The steps below outline how a Partner Sourced Deal Registration is submitted on behalf of an alliance or GSI partner to initiate the Deal Registration process:
+1. The GitLab Partner Manager opens the [Alliance and GSI Partner Sourced Deal Registration](https://docs.google.com/document/d/16wTiDbwBoomUmnu2y4OmAAdC4VpvMIUGL1k4vdSrl2Y/edit?usp=sharing) document and follows the instructions to submit a Registration via the google form.
+2. The Managed Services team uses the data provided in the google form to submit a formal Partner Sourced Deal Registration via Vartopia on behalf of the partner.
 3. The standard Partner Sourced Deal Registration process is then followed beginning with the “Partner” paragraph at the top of this handbook section.
 
 _Note, Partner Sourced Deal Registration incentives do not apply to alliance partners, as our alliance partner agreements supersede these programmatic incentives._
