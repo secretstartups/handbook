@@ -61,7 +61,7 @@ The [Buyer Experience Group Internal Handbook](https://internal-handbook.gitlab.
 | [Finance and Legal Authorization Matrix](/handbook/finance/authorization-matrix/) | | 
 | [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/) | |
 | [Billing, invoice and payment requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html) | Zuora contact change, Zuora entity change and effects on SM/SaaS subscriptions, cancellations, downgrades, refunds, invoices, payments, credit card removals, renewal reversals, split payment requests | 
-| [CustomersDot Access and Use by Sales](/handbook/sales/field-operations/customersdot-access-and-use/) | Logging in, information available in CustomersDot, seat reconciliations for a customer, usage data for a customer | 
+| [CustomersDot Access and Use](/handbook/product/fulfillment-guide/#customersdot-admin-panel) | Logging in, information available in CustomersDot, seat reconciliations for a customer, usage data for a customer | 
 | [Troubleshooting: True Ups, licenses + EULAs](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/) | |
 | [Cloud Licensing (Internal)](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing | 
 | [Cloud Licesing Overview (External)](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites | 

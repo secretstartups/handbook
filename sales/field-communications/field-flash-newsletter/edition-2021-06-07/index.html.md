@@ -69,7 +69,7 @@ Learn how Radio France increased their deployment speed by 5x, reduced cycle tim
 Take 5 minutes to review the [updated Sales Order Processing handbook page](/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) for instructions and enablement on how to send order forms to customers for signature using DocuSign. Reach out in #sales-support with questions.
 
 ----
-**Every Field team member now has access to CustomersDot!** This means that reps no longer have to ask Fulfillment and other teams for insights into whether or not a customer has activated their license key, when licenses expire, etc. For more information about CustomersDot use cases, instructions for how to log in, finding available information and more, see the [CustomersDot Access and Use handbook page](/handbook/sales/field-operations/customersdot-access-and-use/).
+**Every Field team member now has access to CustomersDot!** This means that reps no longer have to ask Fulfillment and other teams for insights into whether or not a customer has activated their license key, when licenses expire, etc. For more information about CustomersDot use cases, instructions for how to log in, finding available information and more, see the [CustomersDot Access and Use handbook page](handbook/product/fulfillment-guide/#sales-use-cases-of-customersdot-admin-panel).
 
 ----
 The Channel Ops team has announced **multiple updates and improvements to Channel processes**:
