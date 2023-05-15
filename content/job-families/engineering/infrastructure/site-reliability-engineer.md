@@ -81,6 +81,42 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 
 ## Levels for Site Reliability Engineer
 
+### Associate Site Reliability Engineer
+
+#### Job Grade
+
+The Associate Site Reliability Engineer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+##### Technical
+
+1. Basic knowledge of 4 technical expertise areas, with a strong interest in 1 area
+   1. Configuration Management tools including Ansible (basic syntax, tasks, playbooks) and Chef (basic syntax, recipes, cookbooks).
+   1. Terraform basic syntax and GitLab CI/CD configuration, pipelines, jobs
+   1. Cloud resources provisioning and configuration through CLI/API
+   1. Kubernetes basic understanding, CLI, service re-provisioning
+   1. Provisiong and setup metric in Prometheus, Thanos, and Grafana, alerts and silences
+   1. Understanding of how to do basic queries in logs tools for general questions
+   1. Operating system (Linux) configuration, package management, startup and troubleshooting
+   1. Block and object storage configuration
+   1. Networking VPCs, proxies and CDNs
+
+##### Execution
+
+1. Follow established processes and runbooks, and submit updates to improve them for others.
+1. Proposes ideas and solutions within the Infrastructure Department to reduce the workload through automation.
+1. Plan and execute configuration change operations both at the application and the infrastructure levels.
+1. Actively looks for opportunities to improve the availability and performance of the system by applying the learnings from monitoring and observation
+
+##### Collaboration and Communication
+
+1. Self-organize through issues and epics
+1. Improves documentation all around, either in application documentation, or in runbooks, explaining the why, not stopping with the what.
+
+##### Influence and Maturity
+
+1. Shares the learnings publicly through issues, runbooks and documentation.
+
+
 ### Site Reliability Engineer
 
 #### Job Grade
