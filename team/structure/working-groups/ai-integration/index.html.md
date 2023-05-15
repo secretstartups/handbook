@@ -180,5 +180,6 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Igor Drozdov | Staff Backend Engineer | Source Code |
 | Patrick Cyiza | Backend Engineer | Source Code | 
 | Natalia Radina | Frontend Engineer | Source Code | 
-
+| Allison Browne | Senior Backend Engineer | Verify:Pipeline Execution |
+| Andrei Zubov | Senior Frontend Engineer | Deploy:Environments |
 
