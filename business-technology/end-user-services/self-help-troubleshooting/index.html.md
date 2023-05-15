@@ -343,9 +343,9 @@ Scheme: Choose GUID Partition Map.
 
 Click Erase to begin erasing your disk and every container and volume within it. You may be asked to enter your Apple ID. When it's finished, quit Disk Utility.
 
-Once this is complete you can then install OS by clicking on Reinstall macOS from Utilities window again and selecting the disk you've just wiped. Follow the prompts and the OS will install
+Once this is complete you can then install OS by clicking on Reinstall macOS from Utilities window again and selecting the disk you've just wiped. Follow the prompts and the OS will install:
 
-![image_6.png](./image_6.png)
+![ventura-install.png](./ventura-install.png)
 
 ## Enrolling your Chromebook into GitLab Google Device Management
 
