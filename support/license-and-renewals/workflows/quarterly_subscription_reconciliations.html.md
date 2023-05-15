@@ -66,4 +66,6 @@ Given that support team has no influence over the process at this point, direct 
 
 If approvals are given for resetting `Max Seats`, you can use the ZenDesk Mechanizer App > Max Seats tool, or do so through console access.  Document the action in the relevant ticket, or in an [internal-request](https://gitlab-com.gitlab.io/support/internal-requests-form/). In the case where QSR is approved for refund, approval for `Max seats` reset is still needed.
 
-Be sure that you are setting this value such that it only eliminates the approved and waived overages. In many cases, you can simply set this value to the namespace's current usage, but use some common sense here too like reviewing the ticket, screenshots, customer interactions, etc to be sure you are setting the proper amount.  Ask in slack if you're unsure.
+Be sure that you are setting this value such that it only eliminates the approved and waived overages. In many cases, you can simply set this value to the namespace's current usage, but use some common sense here too like reviewing the ticket, screenshots, customer interactions, etc to be sure you are setting the proper amount.  Ask in slack if you're unsure. 
+
+**Important:** If a QSR is refunded, max user count must be reset by opening a ticket with Support. Deal Desk will support this process. [Internal process guide here](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/wikis/Web-Direct-Quarterly-Seat-Reconciliation-(QSR)-Refunds). 
