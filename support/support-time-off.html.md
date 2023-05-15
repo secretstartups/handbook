@@ -32,12 +32,12 @@ If you regularly handle L&R tickets, please subscribe to the global L&R calendar
 team calendar.
    1. You should have been granted access during Support Onboarding. If you don't have it, verify whether you are part of the Support Google Group (supportteam@); if you are not, ask to be added (as per the role based entitlements) via the #support_operations Slack channel (cc @jcolyer).
 
-1. Set up the Google Calendar integration with Time Off by by Deel, so that you do not need to populate your personal and "Support - Time Off" calendars manually.
+1. Set up the Google Calendar integration with Time Off by Deel, so that you do not need to populate your personal and "Support - Time Off" calendars manually.
    1. In Slack, click the `+` sign next to 'Apps' at the bottom of the left sidebar
    1. Search for 'Time Off by Deel' and click 'View'
    1. Under 'Home', click on 'Your Events' to show a dropdown
    1. Click on 'Calendar Sync' under the Settings break
-   1. Click on 'Connect your Calendar' and complete the actions to sync your calendar to PTO by Deel
+   1. Click on 'Connect your Calendar' and complete the actions to sync your calendar to Time Off by Deel
       - You will see a 'Success! Your calendar has been connected.' message and
         your calendar listed under 'Your synced calendar' in Time Off by Deel on Slack
       - ***NOTE: this also serves to block your availability in Calendly, and ensures your OOO is included in the [regional capacity calendars](https://gitlab.com/gitlab-com/support/toolbox/support-calendar)***
@@ -93,7 +93,11 @@ yourself to disconnect from work and make your time off effective.
 
 If you're taking off **less than half a day,** you do not need to make entries in Time Off by Deel or the Support Time Off Calendar, but please consider updating your Slack status. Also consider blocking the interval on your personal Google Calendar, so no one tries to book a pairing/meeting with you during that time.
 
+<<<<<<< HEAD
 If you're taking off **a half day or more,** enter the time off in Time Off by Deel.
+=======
+If you're taking off **a half day or more,** enter the time off in Time Off by Deel. 
+>>>>>>> 4806cc24048 (Find and replace pto by deel)
 
 At the end of your last work day before taking PTO, update your availability using the [Out of Office](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
 
