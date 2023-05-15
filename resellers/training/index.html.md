@@ -79,15 +79,12 @@ All enablement materials can be accessed via the GitLab Partner Portal. Job aide
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Enrolling in Accreditation and Certification Courses</span>
 
+## For Channel Partners##
 To sign up for any of the courses listed on this page, please visit the training section on the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/c/Training) and select Level Up. You do not require a separate login or credentials to access the GitLab Training Portal from the Partner Portal.
 
-## <span class="colour" style="color: rgb(56, 13, 117);">Accreditation vs. Certification</span>
+## For Alliance Partners##
+To sign up for any of the courses listed on this page, please visit the [Alliance Partner Learning Dashboard](levelup.gitlab.com/alliance-partner) and enter the unique validation code provided to you via your SA and/or ABDM. 
 
-[A GitLab Technical Certification](https://about.gitlab.com/services/education/gitlab-technical-certification-self-paced/) requires learners to first pass a written assessment, followed by a hands-on lab assessment proctored by GitLab. GitLab Partner recieve a discount to take GitLab Certifications. 
-
-A GitLab Accreditation is unique to GitLab Partners and GitLab field sales members and requires learners to pass a written assessment. This includes Accreditation pathways such as Sales Professional Accreditation and GitLab Partner Technical Engineer. 
-
-GitLab Partners have access to both GitLab Certifications and Accreditations within our Learning Experience Platform. 
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Badge Award Process</span>
 GitLab uses Credly to award our Technical Certifications and Accreditations. Once you have successfully completed all components of an Accreditation or Certification, you will receive an email notification from Credly. You will need to accept the badge. Once you accept the badge, you will be able to share your badge, attach your badge to your email, and attach your badge to your LinkedIn profile.##Please note that it can take 7-10 business days for your completion to be reflected in the partner portal.## Please refer to the below links to assist you in managing your badge(s):
