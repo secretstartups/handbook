@@ -67,20 +67,22 @@ The Elevate Certification process is your time to shine!
 
 Following Module 5, you'll be assesed on your mastery of the leadership competencies taught in Elevate. Certification will occur in a live, collaborative, 50 minute session with a small group of other Elevate participants, likely in your cohort.
 
-**To prepare for the certification, you'll need to:**
+The certification for Elevate is not meant to be scary! It's a time to demonstrate everything you've learned and celebrate your new skills and self awareness as you continue to grow as a leader at GitLab.
 
-1. Sign up for a 50 minute session that works for your schedule. The sign up issue for your cohort will be shared in Slack.
+**Elevate Participant Action Items:**
+
+1. Sign up for a 50 minute certification session that works for your schedule. The sign up issue for your cohort will be shared in Slack.
 1. Review the 4 scenarios that you might be asked about in the session [here](https://docs.google.com/document/d/1vugl8dAeEIX3UxMCIusgG3_HDH6QEABenIf72y83ujg/edit).
 1. Understand how your performance will be assessed by reviewing the grading rubric [here](https://docs.google.com/document/d/1jzbJ-7aa9Qwn6fv111pKLJ6llYg7z_tPCx-O3mWQi2c/edit)
 1. Practice and ask questions in you cohort Slack channel
 
-**Here's what you can expect in the live session:**
+**What to expect in the certification session:**
 
 1. A collaborative, 50 minute session with others Elevate participants, likely in your cohort
 1. Opportunity to demonstrate your understanding of Elevate leadership competencies
 1. Time to give feedback and discuss iterations for others in your small group
 
-Following the certification, a member of the L&D team will follow up with your results, and either share your Elevate certification or discuss next steps.
+Following the certification, a member of the L&D team will follow up with your results, and either share your Elevate certification or discuss next steps. If for some reason you don't pass the certification, you'll meet 1:1 with a Elevate coach to practice your skills.
 
 
 ## Frequently Asked Questions
