@@ -2,7 +2,7 @@ This is a collection of links for monitoring our features.
 
 ### Grafana dashboards
 
-- [Import][grafana-dashboard-impor] and [Integrations][grafana-dashboard-integrations] dashboards which contain:
+- [Import and Integrate group dashboard][grafana-dashboard] which contain:
     - Links to various Kibana logs, filtered to our feature categories
     - Our [error budget](#error-budget) spend attribution
 - [Worker queues](https://dashboards.gitlab.net/d/sidekiq-queue-detail/sidekiq-queue-detail?orgId=1&var-PROMETHEUS_DS=Global&var-environment=gprd&var-stage=main&var-queue=jira_connect:jira_connect_sync_branch) where you can switch queues with the `queue` dropdown
@@ -34,8 +34,8 @@ This is a collection of links for monitoring our features.
 ### Error budgets
 
 GitLab uses [error budgets][error-budgets-handbook] to measure the availability and performance of our features.
-Each engineering group has its own budget spend. The current 28-day spend for the Integrations team
-shows in the [Import][grafana-dashboard-import] and [Integrations][grafana-dashboard-integrations] dashboards.
+Each engineering group has its own budget spend. The current 28-day spend for the Import and Integrate team
+shows in this [Grafana dashboard][grafana-dashboard].
 
 Error budget spend happens when either of the following exceeds a certain threshold:
 
@@ -44,7 +44,7 @@ Error budget spend happens when either of the following exceeds a certain thresh
 
 #### Determine the highest-impact fixes
 
-To determine the highest-priority problems in our [Import][grafana-dashboard-import] and [Integrations][grafana-dashboard-integrations] dashboards:
+To determine the highest-priority problems in our [Grafana dashboard][grafana-dashboard]:
 
 1. Go to the **Error budget** panel.
 1. Expand **Budget spend attribution**. The **Budget failures** panel is ordered by top failures.
@@ -62,5 +62,4 @@ Learn more about error budgets with these resources:
 - [Feature categorization](https://docs.gitlab.com/ee/development/feature_categorization): our code is attributed to us by `feature_category: :api`, `feature_category: :integrations`, `feature_category: :internationalization`, `feature_category: :importers`, and `feature_category: :webhooks`
 
 [error-budgets-handbook]: /handbook/engineering/error-budgets/ "Error budgets handbook page"
-[grafana-dashboard-integrations]: https://dashboards.gitlab.net/d/stage-groups-integrations/stage-groups-integrations-group-dashboard?orgId=1 "Grafana Error Budget Dashboard for Integrations"
-[grafana-dashboard-import]: https://dashboards.gitlab.net/d/stage-groups-import/stage-groups-import-group-dashboard?orgId=1 "Grafana Error Budget Dashboard for Import"
+[grafana-dashboard]: https://dashboards.gitlab.net/d/stage-groups-import_and_integrate/stage-groups-import-and-integrate-group-dashboard?orgId=1 "Grafana Error Budget Dashboard for Integrations"
