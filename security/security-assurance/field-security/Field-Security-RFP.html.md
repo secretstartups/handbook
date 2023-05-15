@@ -54,6 +54,6 @@ The following GitLab groups participate in the shared RFP program:
 - Legal, DRI: @mtaylor
 - ESG, DRI: @slcline 
 - People Ops, DRI: @cgudgenov
-- Security, DRI: @marieclairecerny
+- Security, DRI: @ayofan
 
-Interested in participating? Contact @marieclairecerny today! 
+Interested in participating? Contact @ayofan today! 
