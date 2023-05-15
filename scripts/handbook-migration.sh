@@ -276,7 +276,7 @@ fi
 gsed -i -e "s~target: $REDIRECT_SOURCE~target: $REDIRECT_TARGET~g" data/redirects.yml
 
 # Add new redirect for migrated content
-cat << EOF >>
+cat << EOF >> data/redirects.yml
 - sources: $REDIRECT_SOURCE
   target: $REDIRECT_TARGET
   comp_op: '~'
