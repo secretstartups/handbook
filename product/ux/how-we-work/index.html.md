@@ -121,13 +121,13 @@ Taking [time off](/handbook/paid-time-off/) is important. It is equally importan
 
 Backups are responsible for addressing critical UX work while a designer is away. Critical UX work is defined as any work that addresses an outage, a broken feature with no workaround, or the current workaround is unacceptable. If a backup begins to feel overwhelmed with workload, they should immediately reach out to their manager for help. Your manager will be able to help further delegate tasks when necessary.
 
-When taking time off, be sure to [communicate it with other people](/handbook/paid-time-off/#communicating-your-time-off) and ensure your [PTO is synced with the UX calendar](#syncing-pto-by-deel-with-google-calendar).
+When taking time off, be sure to [communicate it with other people](/handbook/paid-time-off/#communicating-your-time-off) and ensure your [PTO is synced with the UX calendar](#syncing-time-off-by-deel-with-google-calendar).
 
 When returning to work, you are not responsible for responding to every To Do that accrued while you were away. Utilizing a tool such as [PTO Tanuki](https://gitlab.com/yorickpeterse/pto-tanuki) helps reduce outdated mentions upon returning.
 
 ### Coverage during time off
 
-No matter how much time off you are taking: Always use [PTO by Deel](/handbook/paid-time-off/#pto-by-deel) to set a role for your backup person during your PTO, and add the [UX Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_9psh26fha3e4mvhlrefusb619k%40group.calendar.google.com) (_internal only_) to your settings (its calendar ID is in the Google Calendar settings), so your PTO events are visible to everyone in the department.
+No matter how much time off you are taking: Always use [Time Off by Deel](/handbook/paid-time-off/#time-off-by-deel) to set a role for your backup person during your PTO, and add the [UX Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_9psh26fha3e4mvhlrefusb619k%40group.calendar.google.com) (_internal only_) to your settings (its calendar ID is in the Google Calendar settings), so your PTO events are visible to everyone in the department.
 
 **If you are taking at least 1 week off:** In the GitLab Design project, open a new issue using the [UX Coverage template](https://gitlab.com/gitlab-org/gitlab-design/-/blob/master/.gitlab/issue_templates/UX%20Coverage.md) and list the priorities and issues that the responsible backups need to cover while you are on PTO.
 
@@ -139,13 +139,13 @@ _This section applies to Product Design and UX Research. For Technical Writing, 
 
 **When taking an extended time off**, such as [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave): Work with your manager to communicate with the relevant stable counterparts to ensure that UX workload for that stage is reduced in order to avoid burnout among other designers on the team. We do not expect designers to increase their capacity during your time off.
 
-### Syncing PTO by Deel with Google Calendar
+### Syncing Time Off by Deel with Google Calendar
 
-Syncing your PTO with Google Calendar is a simple way of ensuring team members know when you are going to be out of office. To sync PTO by Deel with Google Calendar:
+Syncing your PTO with Google Calendar is a simple way of ensuring team members know when you are going to be out of office. To sync Time Off by Deel with Google Calendar:
 
 1. In Google Calendar, click on the gear icon in the upper right corner to navigate to `Settings`
 1. Click on the calendar you want to sync with, and scroll down to find the `Calendar ID`
-1. Within Slack, navigate to the `PTO by Deel` application
+1. Within Slack, navigate to the `Time Off by Deel` application
 1. On the home tab, click the dropdown and select `Calendar sync`
 1. Under `Additional calendars to include?` click on `Add calendar`
 1. In the modal, paste the `Calendar ID` you copied from Google Calendar and hit `Submit`
