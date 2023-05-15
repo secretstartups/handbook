@@ -43,8 +43,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
-| 2023-05-11 | **[FY24-Q2 - Revenue Play - GitLab AI](https://youtu.be/BCfuWuUodQQ)** | Private |
-| 2023-05-03 | **[Value Stream Assessment Showcase](https://youtu.be/Em0pjb8tXk0)** | Private |
+| 2023-05-11 | **[FY24-Q2 - Revenue Play - GitLab AI](https://gitlab.highspot.com/items/645e5407594d6ed056734ec4?lfrm=shp.12)** | Private |
+| 2023-05-03 | **[Value Stream Assessment Showcase](https://gitlab.highspot.com/items/646270d36e681fe7e8488a8c?lfrm=shp.0)** | Private |
 | 2023-04-13 | **[FY24-Q1 - Channel Program Update](https://youtu.be/oCNI17x9bC4)**  | Private |
 | 2023-04-06 | **[Positioning Professional Services](https://youtu.be/vFr86T4MFCE)** | Private |
 | 2023-03-23 | **[Winning with Value Stream Assesments](https://youtu.be/Bl4f87W-S0Y)**  | Private |
