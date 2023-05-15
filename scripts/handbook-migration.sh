@@ -240,7 +240,6 @@ sed -i '' -e 's~fix: false~fix: true~g' .markdownlint.yaml
 set +e
 docker run -v ${PWD}:/workdir davidanson/markdownlint-cli2:next -f "content/**/*.md"
 set -e
-sed -i '' -e '$ d' .markdownlint.yaml
 sed -i '' -e 's~"fix": true,~"fix": false,~g' .markdownlint-cli2.jsonc
 sed -i '' -e 's~fix: true~fix: false~g' .markdownlint.yaml
 
@@ -266,11 +265,11 @@ echo -e "${bold}Setting up redirects in www-gitlab-com...${normal}"
 git checkout -b removing-$SECTION-and-adding-redirects
 
 if [[ $IS_HANDBOOK == false ]]; then
-  $REDIRECT_SOURCE=/$SECTION
-  $REDIRECT_TARGET=https://handbook.gitlab.com/$SECTION
+  REDIRECT_SOURCE=/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/$SECTION
 else
-  $REDIRECT_SOURCE=/handbook/$SECTION
-  $REDIRECT_TARGET=https://handbook.gitlab.com/handbook/$SECTION
+  REDIRECT_SOURCE=/handbook/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/$SECTION
 fi
 
 # Replace existing redirects with new URL
