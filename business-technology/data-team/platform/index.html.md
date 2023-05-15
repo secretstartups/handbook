@@ -121,7 +121,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | Monte Carlo | Snowflake Share | `n/a` | `prep_legacy` | Data | 12h / 24h | No | Tier 3 |
 | [Netsuite](https://www.netsuite.com/portal/home.shtml) | Fivetran | `netsuite_fivetran` | `netsuite` | Finance | 6h / 24h | Yes | Tier 2 |
 | [PMG](https://www.pmg.com/) | x | `pmg` | `pmg` | x | x / x | No | Tier 3 |
-| [PTO by Deel](https://www.deel.com/engage/pto) | Snowpipe | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No | Tier 3 |
+| [Time Off by Deel](https://www.deel.com/engage/pto) | Snowpipe | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No | Tier 3 |
 | [Qualtrics](https://www.qualtrics.com/) | Airflow | `qualitrics` | `qualtrics` | Marketing | 12h / 48h | No | Tier 2 |
 | [SaaS Service Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | Airflow | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x | No | Tier 1 |
 | [Salesforce](https://www.salesforce.com/) | Stitch | `salesforce_stitch` | `sfdc` | Sales | 6h / 24h | Yes | Tier 1 |

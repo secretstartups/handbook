@@ -50,7 +50,7 @@ This list has been pre-approved so if any team-member needs access to these syst
 | System Name                      | Business Purpose                                    | System Role (What level of access)                                         | Permissions Assigned within Role |
 | -------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------- |
 | 1Password                        | User Password Management                            | Team Member                                                                | Read+Write                       |
-| BambooHR                         | Human Resource Platform                             | Employee, Manager (if people manager)                                                                    | Read+Write                       |                              
+| BambooHR                         | Human Resource Platform                             | Employee, Manager (if people manager)                                      | Read+Write                       |                              
 | CultureAmp                       | Survey Management                                   | User                                                                       | Read+Write                       |
 | EdCast                           | Structured and personal learning experiences        | User                                                                       | Read-Only                        |
 | GitLab.com                       | GitLab Application for Staff                        | Developer role in gitlab-org and gitlab-com groups                         | Read+Write                       |      
@@ -61,18 +61,18 @@ This list has been pre-approved so if any team-member needs access to these syst
 | Modern Health                    | Employee Assistance Program                         | Employee                                                                   | Read-Only                        |
 | Navex Global                     | LMS Training tool                                   | Employee                                                                   | Read-Only                        |
 | Okta                             | Identity and Single Sign On                         | User                                                                       | Read-Only                        |
-| PTO by Deel            | PTO tool                                            | User                                                                       | Read+Write                       |
-| Navan                      | Travel booking/Expense Claims and Management                                      | User                                                                  | Read+Write                       |
+| Time Off by Deel                 | PTO tool                                            | User                                                                       | Read+Write                       |
+| Navan                            | Travel booking/Expense Claims and Management         User                                                                        | Read+Write                       |
 | Slack                            | GitLab async communications                         | Member                                                                     | Read+Write                       |
 | Sisense (Periscope)              | Data Analysis and Visualisation                     | User                                                                       | Read-Only                        |
 | Will Learning                    | Staff Training and Awareness Portal                 | User                                                                       | Read-Only                        |
 | YouTube                          | Video sharing platform                              | User                                                                       | Read+Write                       |
-| Workday                          | Human Resource Platform                             | Employee, Manager (if people manager)                                                                       | Read+Write                       |
+| Workday                          | Human Resource Platform                             | Employee, Manager (if people manager)                                      | Read+Write                       |
 | ZenDesk (non US Federal instance | Customer Support - Incident Management              | [Light Agent](/handbook/support/internal-support/#viewing-support-tickets) | Read+Write                       |
 | ZenGRC                           | Governance, Risk, and Compliance tool               | ZenGRC `Reader` role                                                       | Read-Only                        |
 | Zoom                             | For video conferencing / meetings                   | Pro                                                                        | Read-Only                        |
 | Authomize                        | User Access Review tool                             | Reviewer                                                                   | Read + Write for assigned campaigns |
-| OneTrust Vendorpedia                      | RFx Tool                                            | Answerbase General Users | Read-Only |
+| OneTrust Vendorpedia             | RFx Tool                                            | Answerbase General Users                                                   | Read-Only                        |
 
 ## Role Entitlements for a specific job
 
