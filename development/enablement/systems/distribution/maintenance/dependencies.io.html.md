@@ -73,7 +73,7 @@ installed, then navigate to the root directory of the project you want to run it
 on, and run the following from your shell:
 
 ```bash
-deps run
+deps upgrade
 ```
 
 For debugging it's useful to run with the `-v` flag for verbose output.
