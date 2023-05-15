@@ -774,8 +774,6 @@ Having clearly defined the target audience of the micro-campaign, the next step 
 
 Below, we outline the main datapoints that each of our tools can provide, and how they can be used to help structure your micro-campaign:
 
-**Cognism:**
-
 | Functionality | Feature Benefit | Tool Availability
 | ------ | ------ | ------ |
 | Technologies Used  | can be used for sourcing accounts that use competitor technologies | ZoomInfo, Cognism |
@@ -934,6 +932,10 @@ To be effective, these need to be customized to the individuals we call as per t
 * Business’ Needs and Objectives
 
 The main documentation may be found [here](https://docs.google.com/document/d/1D3iV_WW5fRidRN5H8-3SZVAAr3ffEvjxUC6cW5SFXDM/edit) and the library of resources [here](https://drive.google.com/drive/folders/1VhxVwy4DoEvFco_wXeOLb0DLtVIfo7wQ)
+
+### Do Not Call and Do Not Email Automations
+
+Leads with certain criteria will be automatically labeled as **Do Not Call** and or **Do Not Email** shortly after loading into our database. It's understandable this can be frustrating for certain territories. Please keep in mind, the criteria behind this automation has been set in order to follow local law. Please see the [Internal GitLab handbook](https://internal-handbook.gitlab.io/handbook/marketing/marketing-strategy-and-platforms/marketing-operations/do-no-contact) for more information on the triggers. 
 
 ### Up-Front Contract
 
