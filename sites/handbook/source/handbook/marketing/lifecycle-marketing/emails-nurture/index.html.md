@@ -32,7 +32,7 @@ This page focuses on emails and nurture programs, owned and managed by Lifecycle
     - this is an ongoing effort led by Campaigns in collaboration with Content Mktg, Product Mktg, Technical Mktg
     - [see the epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1530)
 * Logic-based Marketo nurture programs by segment
-    - this is an ongoing effort led by Campaigns, and specifically spearheded by our Email Marketing Campaign Manager [@Aklatzkin](https://gitlab.com/Aklatzkin).
+    - this is an ongoing effort led by Campaigns, and specifically spearheaded by our Email Marketing Campaign Manager [@Aklatzkin](https://gitlab.com/Aklatzkin).
     - [see this epic for holding location of projects to be prioritized](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1040)
 
 ### Quick Links
@@ -47,7 +47,7 @@ This page focuses on emails and nurture programs, owned and managed by Lifecycle
 <!-- DO NOT CHANGE THIS ANCHOR -->
 We have moved our email calendar to Asana! We will have email stakeholder syncs each Thursday to review emails for the upcoming two weeks. If you need the call added to your calendar, please ask Allie Klatzkin. To ensure this is done smoothly, please add your emails to the calendar as soon as you know that they are upcoming (regardless if you have all information). 
 
-**All emails must be added to the calendar before he Email Stakeholder call the week before send**. Emails added after the call will be pushed to the next week.
+**All emails must be added to the calendar before the Email Stakeholder call the week before send**. Emails added after the call will be pushed to the next week.
 
 Due to limited seats, we will be providing 1-2 seats per team on the calendar. Please reach out to your team's DRI with any questions. 
 
@@ -88,8 +88,8 @@ First step in requesting an email from lifecycle begins by creating an issue usi
 ### Team variations to QA process
 {: #qa-processes-by-team}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-- Campaigns: build the email yourself (or request from Verticurl) and have lifecycle QA.
-- FMM: Request the email to be built by Verticurl and send to lifecycle for approval.
+- Campaigns: build the email yourself and have lifecycle QA.
+- FMM: Request the email to be built by MOps and send to lifecycle for approval.
 - Corp: using the process we outlined previously [here](https://docs.google.com/spreadsheets/d/1aTCrUlc87BDLAqqAju7ZEbL8Wu0VZNfWd1MhdAccRDA/edit#gid=0)
 
 #### Campaigns Team QA process
@@ -109,14 +109,14 @@ _Submit final email for QA and scheduling_
 #### Field Marketing QA process
 {: #qa-process-field-marketing}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-_Request for Verticurl to build the email_
+_Request for MOps to build the email_
 - Step 1: Submit an email issue as normal with requested send time and date. Assign to lifecycle marketing for advanced visibility.
-- Step 2: Create copy and tag Verticurl and Lifecycle - within existing SLA of 5 days before send:
+- Step 2: Create copy and tag Lifecycle - within existing SLA of 5 days before send:
     - [Copy doc](https://docs.google.com/document/d/1ZhHihX1tSoMkio2-qN-iH7lX_2WQuudVOBacd5tiHIk/edit?usp=sharing) filled in (including UTMs - only necessary for internal links)
     - Images 
     - Requested segmentation
-- Step 3: Verticurl will build the email and send to FMM & Lifecycle to review within 24 hours
-- Step 4: Verticurl makes any corrections and will schedule the email
+- Step 3: MOps will build the email and send to FMM & Lifecycle to review within 24 hours
+- Step 4: MOps makes any corrections and will schedule the email
 
 #### Corporate Marketing QA process
 {: #qa-process-corporate}
@@ -133,6 +133,53 @@ The process must kick off a month before the event, to ensure we have all of the
 {: #qa-process-newsletter}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 Full newsletter request information can be found [here](/handbook/marketing/lifecycle-marketing/emails-nurture/#newsletter).
+
+### Email QA Checklist - Technical
+{: #qa-checklist-technical}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+The following outlines the technical QA that any email builder including Lifecycle, MOps, and Campaigns should complete after building an email. This also applies to anyone providing a secondary QA prior to deployment.
+
+As the email builder, you are responsible for making sure the email is formatted properly according to our templates, that the links are formatted properly for tracking and use, that any tokenized sections are showing properly, the appropriate unsubscribe language is included, and any special requests from the business owner are displaying properly in the email in accordance with our template guidelines. You are not responsible for QA on spelling, grammar, dates/times, or links provided to you by the business owner (for example, if they drive to a webpage and provided you with the wrong link - as long as you formatted it properly in the email). If you notice inaccuracies in spelling/grammar, please update them in the email, but the business owner is responsibile for those. You have joint ownership with the business owner to make sure the email looks good and is easy for the user to read.
+
+* Confirm that all tokens used in the email are complete in the program. This can vary from email to email, so you will need to check the email in the editor to confirm which tokens are in use. Generally, be sure to check {{my.landingpageURL}}, {{my.utm}}, the tokens for the title of the event, date, time, and in some cases intro paragraph and bullets. If anything is not complete and you do not have the information, ask the business owner to complete them.
+* Confirm that CTAs are in sentence case: ex: Register now (not Register Now)
+* Check the {{my.landingpageURL}} token to confirm that if you are driving to a `page.gitlab.com` address, there is NO `/` at the end of the url. If you are driving to `about.gitlab.com`, there should be a `/` at the end of the url. For example, the token should look like this (with no https://): `about.gitlab.com/sixteen/` or `page.gitlab.com/sixteen`.  
+* In the email editor, confirm that each link is hard-coded with `https://`. This cannot be in a token because the Marketo tracking [will not work properly](https://nation.marketo.com/t5/knowledgebase/how-to-track-tokenized-links-in-email-assets/ta-p/254486). Your links should look like this in the email editor: `https://{{my.LandingpageURL}}?{{my.utm}}`
+* In the editor, click on the text version of the email. The content should have been copied from HTML, but you will need to reformat it. Be sure that after you bring over the copy initially, you uncheck the "Copy from HTML" box. Format the email to use proper spacing between paragraphs and that the date/time information is easy to read. 
+* In the text version, there should be no links in line with content. Move the links to the end of the paragraph or into separate bullets. You should have a "Register now" link at the top of the email and at the bottom. Confirm the links in the text version are formatted properly (as described above).
+* On the text version, you do not need unsubscribe text because Marketo will automatically attach this if it is missing. If it is there, no need to remove it. The exception is if you are using the `Localized email footer` snippet. You do need to make sure this appears in the text version.
+* If dynamic content or snippets are not intended for the email, make sure no dynamic content is in use. In the email editor, click on "Dynamic" under the content section. If this is blank, there is no dynamic content in use. If it is not blank, click on the segment in use and it will highlight it in the email. If this is not intentional, select "Make Static" or "Replace with Rich Text" (depending on the type of dynamic content in use).
+* If you are using dynamic content or snippets, click on "Preview". Change the `View by` to "Segmentation". Select the segmentation, then be sure to preview the email for each segmentation option to make sure it displays as you expect. You can also send yourself a sample using each segmentation if you would like. You will need to provide screenshots or samples to the business owner to review the content in use for each segment.
+* Custom Header Image: If you are using the standard template with no changes to the header image, you can skip this step. If you are using custom header images (for example on large owned events), you must confirm that the image used was a transparent image. You can do this by looking at the design issue and confirming the image requested and provided by the design team is transparent. If you are working on a large event email (sending to 100k plus), you must also QA the email in [Litmus](https://about.gitlab.com/handbook/marketing/marketing-operations/litmus/#steps-to-test-an-email).
+* View the email in `Preview`. Confirm all of the tokenized sections fill in properly and the name of the event, date, and time are showing correctly. 
+* In `Preview`, hover over each link in the email and confirm the full URL is accurate with the correct UTM values. If any of this is incorrect, confirm that the https:// is hard-coded, check the {{my.landingpageURL}} token, and check the {{my.utm}} token. After you make any necessary changes, preview the email again.
+* After viewing in `Preview`, if the text in the header appears to be too large, resize it to be smaller so the line breaks make sense and the text isn't overbearing.
+* Send a sample to yourself. **Click all links** in the email and confirm they go where you expect them to. The links in your emails should have Marketo tracking codes, so when you get to the URL in your browser, confirm that the complete URL with utms is accurate. If the links drive to `about.gitlab.com` pages, it is recommended that you fill out the form and make sure the response is captured in Marketo.
+* On the sample you sent to yourself, confirm all tokenized sections filled in properly. Check the formatting and images on the email. 
+* After your QA is complete, send a sample to the business owner for review.
+
+### Email QA Checklist - Business owner
+{: #qa-checklist-requestor}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+The following outlines the business owner QA that the requestor (not builder) should complete before approving the email. 
+
+As the requestor/business owner, you are responsible for QA on content, spelling, grammar, dates/times, and links. You have joint ownership with the email builder to make sure the email looks good and is easy for the user to read, in line with our email best practices.
+
+* Check the pre-header information before you click on the email.
+* On the HTML version: 
+     * Check the subject line, to and from details.
+     * Check the date, time, and event name/header.
+     * Read the subject line and email for spelling mistakes and grammar. Confirm the content is accurate.
+     * Review locations, agendas, or any other details included in the email.
+     * Click on **all links** in the email. You must click on the links because the links are coded for Marketo tracking and will not show the URL until after you click on them. Confirm that all links go where you expect. You should also confirm that the utms (particularly the utm campaign value) is accurate. 
+     * Confirm the layout and text size in the header is what you expect. 
+* You will also receive a text version of the email. This email is built separately from the HTML, so you must repeat your review on this. 
+     * Check the date, time, and event name/header.
+     * Read the email for spelling mistakes and grammar. Confirm the content is accurate.
+     * Review locations, agendas, or any other details included in the email.
+     * Click on all links in the email. You must click on the links because the links are coded for Marketo tracking and will not show the URL until after you click on them. Confirm that all links go where you expect. You should also confirm that the utms (particularly the utm campaign value) is accurate. 
+* If you requested dynamic content or if your email is localized, you may receive multiple versions of the email. Repeat the checks above for each version, confirming that the dynamic content is showing up as you expect.
+* For localized emails, confirm that the email footer is displaying in the requested language. This snippet displays based on the language preference of the user, with the default being English if they do not have a language on file.
 
 ## Email Nurture Programs
 {: #nurture-programs .gitlab-purple}
@@ -276,7 +323,7 @@ Instead, we should take the following steps:
 Please see the [A/B testing section](/handbook/marketing/lifecycle-marketing/emails-nurture/#best-practices-testing) below for best practices for conducting an A/B test.
 
 
-#### Intelligent Nurture - Event promotional changes 2022-2023
+#### Intelligent Nurture - Event promotion
 {: #event-promotional-changes-2022}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -334,9 +381,13 @@ Which would lead us to the next solution. Once the contacts fall into exhausted 
 {: #setup-trial-nurture}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-[Marketo Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP8569A1)
+Self Managed owners go through the [Marketo Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP8569A1)
 
 UTMs: ?utm_medium=email&utm_source=marketo&utm_campaign=trial-nurture&utm_content=(custom per email)
+
+SaaS owners are now going through the program in [Iterable](https://app.iterable.com/workflows/361081/edit?mode=beta&workflowType=Published).
+
+UTMs: ?utm_source=Iterable&utm_medium=email&utm_campaign=trial-nurture
 
 
 #### In Product Email Campaigns
@@ -473,22 +524,23 @@ For one-time emails (i.e. a blast to promote a program for which we do not recei
 * [Video on how to create an email](https://www.youtube.com/watch?v=pfl71Hh5e2E)
 * [Video on how to edit an email](https://www.youtube.com/watch?v=RUvykCohLqI)
 
-### (Interim) target list creation
+### Target list creation
 {: #target-lists}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-Target list issue templates are an interim solution while foundational work is being complete for overall [Marketo database audience stretegy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022) (DRI: Nout Boctor-Smith).
+Target list issue templates are an interim solution while foundational work is being complete for overall [Marketo database audience stretegy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022).
 
-* **Lifecycle Stage (Lead Status):** Raw, Inquiry, Nurture, MQL, Accepted, Qualifying, Qualified
-* **Sales Segment:** add filter for `sales segment` Marketo segment
-* **Region:** add filter for `region` Marketo segment
-* **Sub-Region:** add filter for `sub-region` Marketo segment
-* **Sales Territory (if specific):** ??
-* **Key Persona:** ??
-* **Activity filters:** ??
-* **Inclusions:** ??
-* **Exclusions:** ??
+* **Lifecycle Stage (Lead Status):** (Raw, Inquiry, MQL, Accepted, Qualifying, Qualified)
+   - **Funnel Stage:** (see [options](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations))
+   - **Sales Segment:** (Large, MM, SMB, PUBSEC - if US PubSec, you can also specify territory (NSG, DoD, etc))
+   - **Region:** (APAC, AMER, EMEA)
+   - **Sub-Region (East/West/PubSec or Southern/Northern/UKI/DACH):** 
+* **Persona-Level:** (see [options](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations))
+   - **Buyer Personas-Function:** (see [options](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations))
+   - **Language Preference:** (see [options](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#segmentations))
+   - **Activity filters (if necessary):** ([see options](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/emails-nurture/#Active-Lists))
+   - **Inclusions:** (if including records on previous campaigns, MUST include the name as appears on SFDC campaign, and campaign membership statuses to exclude)
+   - **Exclusions:** (if excluding records on previous campaigns, MUST include the name as appears on SFDC campaign, and campaign membership statuses to exclude)
 
-**What to do with DemandBase Lists:** In the Marketo smartlist, add filter for either `Account ID (18) ` or `Email Address` (depending on what is provided in the DemandBase target list export that the requester has submited) and paste the list of Account IDs or Email Address from the DemandBase target list export.
 
 ### Active lists 
 {: #Active-Lists}
@@ -621,9 +673,11 @@ The approval table below applies to non-Marketing emails.
 *  Consider resposive design
 *  Code all text in HTML
 *  Minimize CTAs
+*  CTAs must be in sentence structure caps (ex: Register now)
 *  Images should add to the goal of your email and not take away from it
 *  An email is not a landing page
 *  Consider accessibility
+*  In order to accomodate different clients and modes (dark mode, etc) header image requests to the design team must be for transparent images. This means that the image will not look right without a solid background in the email header. We cannot use a non-transparent image because they do not render properly in all clients. 
 
 ### A/B testing best practices
 {: #best-practices-testing}
@@ -773,16 +827,16 @@ Also, in case of not having access to Marketo to download the report you can go 
 
 **What email templates are available for us to use?** In Marketo (Design Studio > Email Templates), the following email templates are available:
 
-| Template Name in MKTO | Use For | Image Specs | Notes |
+| Template Name in MKTO | Use For | Image Specs (px, w x h) | Notes |
 | ------ | ------ | ------ | ------ |
-| A - Event Invite v3.0  | Events or asset downloads | Background image - Transparent background 600px wide |  Top button is removable, **The text version will need to be updated manually due to limitations with marketo variables** |
-| B - Advanced modular template - light mode | Larger events/assets with more modules to add with speakers; Transparent background 600 px wide, Speaker images - 300px wide  | Do not use all modules at once, **The text version will need to be updated manually due to limitations with marketo variables** |
+| A - Event Invite v3.0  | Events or asset downloads | Header background image - Transparent background 600x345 |  Top button is removable, **The text version will need to be updated manually due to limitations with marketo variables** |
+| B - Advanced modular template - light mode | Larger events/assets with more modules to add with speakers   | Header - Transparent background 600x345, Speaker images - 300x300 (2x the size) | Do not use all modules at once, **The text version will need to be updated manually due to limitations with marketo variables** |
 | C - Simple email template | Assets/webcasts/events/anything | Background image - png 600x wide. Transparent background | Only use with 1 CTA |
 | D - Letter format v1.0 | Any letter-like communication such as account update | N/A | N/A |
 | E - Newsletter Dark Mode | DevOps Download developer newsletter only | The only image we swap out is the background image of the release section - 600px wide. The top image (infinity loop) is 600px wide also. | For DevOps Download newsletter only|
 | F - Level Up Certification Invite Template | Level-up certification content | TBD | N/A |
-| G - Event Invite with 2 buttons| Webcast invitations, events, ABM, anything really | Headline background image - 600px wide; Speaker images - 300px wide | **The text version will need to be updated manually due to limitations with marketo variables** |
-| H - Advanced modular template | Larger events/assets with more modules to add with speakers; Transparent background 600 px wide, Speaker images - 300px wide  | Do not use all modules at once, **The text version will need to be updated manually due to limitations with marketo variables** |
+| G - Event Invite with 2 buttons| Webcast invitations, events, ABM, anything really | Headline background image - 600x345; Speaker images - 300x300 (2x the size) | **The text version will need to be updated manually due to limitations with marketo variables** |
+| H - Advanced modular template | Larger events/assets with more modules to add with speakers   | Transparent background 600x345, Speaker images - 300x300 (2x the size) | Do not use all modules at once, **The text version will need to be updated manually due to limitations with marketo variables** |
 
 **Additional links/info:**
 - A - Event Invite v2.0 -- [COPY DOC TEMPLATE](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#heading=h.tl82wncgutxu)
@@ -801,7 +855,7 @@ If you don't have Marketo access and would like to see what the email templates 
 
 **NOTE:** It is very important that you format your copy to align with the design of the email template you're using. This will improve efficiency of building emails, and ensure copy is best fit to the layout.
 
-**What if I want a custom email template?** You may submit a request for a custom layout, but please note that the critical priority currently is to efficiently launch emails and nurtures into market. In your [request](https://gitlab.com/gitlab-com/marketing/lifecycle-marketing/-/issues/new), please tag @nbsmith and clearly describe why the existing layout is not satisfactory, how often and broadly the requested template will be used, and quantifiable benefits we anticipate from the new layout. To reiterate: Upon implementation of the critical emails and nurtures, we plan to devote more time and energy to developing and testing new templates, however the launch of lifecycle emails takes precedence over these requests.
+**What if I want a custom email template?** You may submit a request for a custom layout, but please note that the critical priority currently is to efficiently launch emails and nurtures into market. In your [request](https://gitlab.com/gitlab-com/marketing/lifecycle-marketing/-/issues/new), please tag @aklatzkin and clearly describe why the existing layout is not satisfactory, how often and broadly the requested template will be used, and quantifiable benefits we anticipate from the new layout. To reiterate: Upon implementation of the critical emails and nurtures, we plan to devote more time and energy to developing and testing new templates, however the launch of lifecycle emails takes precedence over these requests.
 
 
 ## Email review protocol
