@@ -51,6 +51,10 @@ With Cognism, we're only enriching Cognism custom fields so the mapping reflects
 
 If you have concerns about field mapping or you notice that some of the fields do not get enriched as expected, do reach out to Marketing Operations. 
 
+### Do Not Call and Do Not Email Automation
+
+If the proper criteria is set, Cognism can cause a lead/contact in SFDC to be labeled as `Do not email` and `Do not call`. Read more about the rules on the [sales development handbook page](/handbook/marketing/sales-development/#do-not-call-and-do-not-email-automations).
+
 ### Outreach Integration
 
 The Cognism Outreach integration is live and you may export contacts directly to Outreach. Any contacts you do export, will also be exported in SFDC. 

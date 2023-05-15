@@ -22,7 +22,7 @@ Currently being implemented in [this epic](https://gitlab.com/groups/gitlab-com/
 
 ## Use
 Iterable will be used for the following:
-   - Trial Email Nurture
+   - Trial Email Nurture (Launched 2023-05-10)
    - Free User onboarding and nurture [Current flow can be found here](https://docs.google.com/presentation/d/1nb26f7NJEY-_KNkQ3GjXVCnrBCo1Y3SeW7QTBCO_DYM/edit#slide=id.p)
    - Triggered email sends off of user behavior
 

@@ -34,12 +34,12 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 | ------ | ------ |
 | [Christine Lee](https://gitlab.com/christinelee ) | Sr. Director, Marketing Strategy, Operations, and Analytics |
 | [Amy Waller](https://gitlab.com/amy.waller) | [Senior Manager, Marketing Operations](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-manager-marketing-operations) |
+| [Gillian Murphy](https://gitlab.com/gillmurphy) | [Manager, Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
 | [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Staff Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#staff-marketing-operations-manager) |
-| [Gillian Murphy](https://gitlab.com/gillmurphy) | [Senior Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Jenny Tiemann](https://gitlab.com/jennyt) | [Senior Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Robert Rosu](https://gitlab.com/RobRosu) | [Senior Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
 | [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Senior Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) |
-| [Salina Tran](https://gitlab.com/stran5) | [Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
+| [Salina Tran](https://gitlab.com/stran5) | [Senior Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager/) |
 | [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
 | [Evan Mathis](https://gitlab.com/emathis) | [Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) |
 | [Bryce Weatherford](https://gitlab.com/bweatherford) | [Associate Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) |
@@ -124,7 +124,7 @@ If an emergency communication needs to be send out, Marketing Ops will need to a
 ### Issue Boards
 
 1. [MktgOps Team (issues by team member)](https://gitlab.com/groups/gitlab-com/-/boards/2629685)
-1. [Campaign Operations (issues by milestone)](https://gitlab.com/groups/gitlab-com/marketing/-/boards/5563453?label_name[]=MktgOps-Support)
+1. [MktgOps-Support - FM/Event Marketo set-up (issues by milestone)](https://gitlab.com/groups/gitlab-com/marketing/-/boards/5563453?label_name[]=MktgOps-Support)
 
 ### Issues
 
@@ -171,6 +171,7 @@ Categories
 - `MktgOps-Support`: Used on issues to track field marketing and event support, such as field marketing landing pages and emails.
 - `MktgOps-Future Feature`: Something to consider for a future project as time allows. Timeframe: As time allows
 - `dg-campaigns`, `ABM`, `lifecycle-mktg`: Used on issues created by these teams for easier tracking of their requests.
+- `MktgOps::Events/FM Copy Review`: Used by Field Marketing and Corporate Events on `MktgOps-Support` issues to note when an issue is ready for copy review.
 
 </details>
 
@@ -183,6 +184,8 @@ Collaboration with Sales Systems
 - `MktgOpsPrio::00: Requested`: Issues that are ready for prioritization with Sales Systems
 - `MktgOpsPrio::01: In Queue`: Added to prioritization call agenda or `fast track` slack channel
 - `MktgOpsPrio::02: Actioned`: Discussed in prioritization and added to a future milestone - refer to Sales Systems labels moving forward for issue status
+- `MktgOpsPrio::03: Needs Approval`: Place on issues that require business process owner approval, after UAT and validation is completed
+- `MtkgOpsPrio::04: Approved `: Issues that have received business process owner approval
 
 </details>
 
@@ -212,6 +215,7 @@ Stage
 - `MktgOps::06: Ready to Deploy`: Issues in current milestones, sign-off(s) given by business owner, ready to be deployed by MktgOps team member
 - `MktgOps::07: Blocked`: Issue is blocked and no other actions can be taken by MktgOps. Waiting for someone else/another team to complete an action item before being able to proceed. May also be blocked due to external party such as a vendor to complete an action before closing.
 - `MktgOps::08: Completed`: MktgOps has completed their task on this issue although the issue may not be closed.
+
 
 </details>
 
@@ -406,6 +410,10 @@ The general process for a new tool evaluation is:
 1. Implementation
 1. Post-Implementation Review & Retro
 
+## Resources
+1. [Requirements Gathering Template](https://docs.google.com/spreadsheets/d/1JsUcCnePqWnc8ownZQEsjsDtMea6pLPk2k-6TV3M_uI/edit#gid=0)
+1. [Weekly Implementation Update Template](https://docs.google.com/document/d/10-C4ZP_GTmG164-1DwV_KPDlcxpIknfPrq0Qv1TccKQ/edit#)
+
 ### Roles and Responsibilities
 
 | Role | Responsibility |
@@ -464,8 +472,10 @@ If you need assistance with Sales Systems follow the next steps:
 4. Prioritization labels will be updated on a regular cadence. If they are labeled `MktgOpsPrio::01: In Queue`, they have been added to the agenda for the Sales Systems Prioritization call that occurs each Tuesday.
 5. Once a milestone is added and the issue is discussed, the label will be updated to `MktgOpsPrio::02: Actioned` by the MktgOps representative that is in the prioritization call. Fast Tracks will often be actioned before the Tuesday call.
     * Once the label has been updated to `MktgOpsPrio::02: Actioned`, follow along with the Sales Systems labels for next steps.
-6. Systems will first push any updates to the Staging environment first, and will require Business Owner Acceptance before they will deploy to production. This is an important step that represents acceptance of the solution, its testing, and the authority to change the related process.
-7. Once in production, MktgOps should confirm the field/update in SFDC and corresponding/impacted systems.
+6. Systems will work on the issue and push any updates to the Staging environment first
+7. It is the responsibility of hte Business Owner to test and accept. The Business Owner must show proof (such as a testing plan, or screenshot) that the solution is working correctly in the staging environment. This is an important step that represents acceptance of the solution, its testing, and the authority to change the related process.  Once this is added to the issue, they must add the label `MktgOpsPrio::03: Needs Approval` to request approval from the Business Process Owner. `Acceptance before they will deploy to production.
+8. The Business Process Owner will review, and if approved, they will add the `MktgOpsPrio::04: Approved` label to the issue, and check the required box in the issue for Systems to deploy. 
+7. Once in production, MktgOps should confirm again that the field/update in SFDC and corresponding/impacted systems is working as anticipated.
 8. Issue is closed and completed.
 
 **Other helpful links:**
@@ -473,10 +483,6 @@ If you need assistance with Sales Systems follow the next steps:
 - [Steps to getting help from Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#steps-to-getting-help-from-sales-systems)
 - [Sales Systems Charter](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter)
 
-
-### <i class="fas fa-receipt" id="biz-tech-icons"></i> Invoice Approval
-
-Invoices submitted to Coupa will be routed for approval. Details regarding this process can be found on the [Coupa End Users Guide](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#methods-to-approve-transactions) page. Campaign tags are used to track costs related to events and campaigns.
 
 ## Lead Scoring, Lead Lifecycle, and MQL Criteria
 For more information about lead lifecycle, visit [this handbook page](/handbook/marketing/marketing-operations/lead-lifecycle/)
@@ -488,6 +494,8 @@ A Marketing Qualified Lead (MQL) is a lead that has reached a certain threshold,
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaigns aligns our efforts across Marketing, Sales and Finance.
 
 Go to the [Campaigns and Programs Page](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) to view all of the campaign types, their progression statuses and cost tracking. That page also includes directions for set up in Marketo and Salesforce.
+
+Marketing Ops partners with the Field Marketing and Corporate Events teams to provide Marketo program set-up and configuration, providing these teams with an internal partner to provide advise on the best technical set-up to reach their goals and streamlining more complex program requirements. Visit the [Marketo Program/Campaign Support page](https://about.gitlab.com/handbook/marketing/marketing-operations/campaign-operations/) for additional details.
 
 ## Email Management
 

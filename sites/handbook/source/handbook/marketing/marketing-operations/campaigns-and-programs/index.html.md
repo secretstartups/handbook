@@ -13,6 +13,7 @@ description: "Campaigns are used to track efforts of marketing tactics - field e
 
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaign aligns our efforts across Marketing, Sales and Finance.
 
+Marketing Ops partners with the Field Marketing and Corporate Events teams to provide Marketo program set-up and configuration, providing these teams with an internal partner to provide advise on the best technical set-up to reach their goals and streamlining more complex program requirements. Visit the [Marketo Program/Campaign Support page](https://about.gitlab.com/handbook/marketing/marketing-operations/campaign-operations/) for additional details.
 
 ### Campaign Cost Tracking
 
@@ -83,6 +84,22 @@ This is when a package or piece of mail is sent out.
 | Cancelled | The recipient has requested their gift be cancelled |  | Physical |
 | Returned | The recipient has returned their gift |  | Returned |
 
+#### Email Send
+
+This program type is used in conjunction with Marketo email programs. This program type is available to sync into SFDC, but should only be synced into SFDC if the email send in question has significant business impact that needs associated opportunity tracking. Please keep in mind that some email addresses will block Marketo's tracking, so these cannot be 100% accurate.
+
+**Bizible:** This is technically tracked as neither an _online_ or _offline_ channel. Touchpoints are technically not created by the program type itself, but rather the action of an email recipient clicking an in-email link and visiting a Touchpoint enabled website. 
+
+| Member Status | Definition | Success | 
+| ------------- | ---------- | ------- |
+| No Action | Default starting position for all records |  |
+| Member | Added to program. If still in this status after the email send, it can be assumed they were blocked from being sent the email |  |
+| Email Bounced | Marketo's email tracking detected the recipient email address bounced   |  |
+| Email Delivered | Marketo's email tracking detected the recipient email address received the email sent |  |
+| Email Opened | Marketo's email tracking detected the recipient opened the email |  |
+| Clicked In-Email Link | Marketo's email tracking detected the recipient opened a link found in the email | Yes |
+| Replied to Email | Likely to be unused step as we do not prompt for email replies |  |
+| Unsubscribed | Marketo's email tracking detected the recipient unsubscribed from further communications via the in-email preferences link |  |
 
 #### Executive Roundtables
 
@@ -401,6 +418,7 @@ If this is to set up a program that involves a channel partner, you must also fo
    - DevOps Automation: [YYYYMMDD_Workshop_DevOpsAutomation_EventType](https://app-ab13.marketo.com/#ME6532A1)
    - Advanced CI/CD: [YYYYMMDD_Workshop_CI/CD_EventType](https://app-ab13.marketo.com/#ME6807A1)  
    - Jenkins [YYYYMMDD_Workshop_Jenkins_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1) 
+   - GitOps Hands On: [YYYYMMDD_Workshop_GitOpsHands-on_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME14657A1)
 
 ##### Other Tactic Marketo Templates
 - Conference - `Virtual`: [YYYYMMDD_YYYYMMDD_Vendor_VirtualConfName1 (Virtual Conference Template)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME7624A1)
@@ -464,7 +482,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 * If this is `Workshop` follow the below activation instructions:
      * Click the `Smart Campaigns` folder
      * Select the `00 Interesting Moment` smart campaign, navigate to the Schedule tab and select `Activate`
-     * Select the `01a Registration Flow` smart campaign for virtual webinars or the `03 In-person Processing` smart campaign for in-person events
+     * Select the `01a Registration Flow` smart campaign 
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag. 
      * Click to the `Schedule` tab and click `Activate` 
 * If this is an `Owned Event` (not Hopin) follow the below activation instructions:
@@ -789,10 +807,8 @@ We have listeners set up in Marketo listening certain parameters. Please check t
 | Campaign                                 | Campaign Parameter for Tracking |Marketo Listener?|
 |------------------------------------------|---------------------------------|-----------------|
 | DevOps GTM - active                      | devopsgtm                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8342A1)|
-| AutoSD - active                          | autosd                          |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG12823A1)|
-| GitOps Use Case - active                 | iacgitops                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6756A1)|
-| Security & Compliance                    | seccomp                         | [Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG14557A1)  | 
-| DevSecOps Platform -                     | devsecopsplat                   | No  |
+| AutoSD - active                          | autosd                          |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG12823A1)| | DevSecOps Platform -                     | devsecopsplat                   | No |
+| Security & Compliance                    | seccomp                         |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG14557A1)  | 
 | CI Use Case                              | singleappci                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6803A1)|
 | PubSec - devops GTM only                 | amer-pubsec                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7588A1)|
 
@@ -810,7 +826,7 @@ We have listeners set up in Marketo listening certain parameters. Please check t
 | OctoCat	                               | octocat                         ||
 | DevSecOps Use Case	                   | devsecopsusecase                | |
 | AWS	                                   | awspartner                      ||
-
+| GitOps Use Case                          | iacgitops                       | | 
 
 
 
@@ -825,12 +841,32 @@ If this form is in a different language, make sure that the LinkedIn Form has th
 
 When someone fills out these forms, they will be automatically added to the [Language Segmentation](/handbook/marketing/marketing-operations/marketo/#segmentations) allowing them to receive messages in their local language.
 
+### Create LinkedIn Lead Gen Form in LinkedIn (digital marketing)
+
+* Clone the form template according to the region your campaign is located (AMER, EMEA/APAC). The reason for the different forms is compliance related, so please be sure to use the correct template for the region. If you are setting up all three regions, you will need to use both templates.
+  * Ensure the ‘form name’ includes the utm_campaign exactly as it appears in the table above
+  * Form name should also include the utm_content exactly as listed in the issue 
+  * Form names in AMER forms also need to include `amer` in the form name 
+  * Example of correct format
+    * _Ex.devopsgtm_amer_guide-to-devops_feb2023_
+    * NOTE: If there is a segment specific version, add the segment inside the content name for better tracking. _devopsgtm_amer_guide-to-smb-devops_feb2023..._
+* Fill out ‘offer headline’ and ‘offer details’
+* Update ‘confirmation message’ and `landing page URL`
+  * The template has the homepage as a standard landing page URL, but if there is a more appropriate page, update the URL and keep the UTMs the same
+* Update hidden field for `utm_campaign` and `utm_content`
+  * This is very important to have the correct campaign naming to ensure the lead data is passed to Marketo
+* Save Form
+* Navigate to the campaign that will be using the new form and edit
+* In `form details` select `download` as the call-to-action and select your new form
+  * Note: If your new asset is launching in multiple regions, confirm you’re adding the correct form to the correct regional campaign
+
+
 
 ### Step 1: For new campaigns not listed above, [clone this program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8361A1)
 - Use format `YYYY_Social_[Name]_[parameter]_LinkedIn Lead Gen`
-- Campaign parameter must be one of the [GTM campaign parameters](/handbook/marketing/utm-strategy/#utm-campaign) (usually used as utm_campaign - ex. `iacgitops` or `singleappci`). The Salesforce campaign name must include the campaign parameter for the responses to roll up to the correct campaign on the Sisense dashboards.
+- Campaign parameter must be one of the [GTM campaign parameters](/handbook/marketing/utm-strategy/#utm-campaign) (usually used as utm_campaign - ex. `devopsgtm` or `autosd`). The Salesforce campaign name must include the campaign parameter for the responses to roll up to the correct campaign on the Sisense dashboards.
 
-_e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
+_e.g.: 2020_Social_AutomatedSoftwareDelivery_autoSD_LinkedIn Lead Gen_
 
 ### Step 2: Sync to Salesforce
 
@@ -880,11 +916,11 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 - Have Digital Marketing send a test record through the form. You can request this in the issue using the following text, updating the indicated sections:   `The Marketo program has been set-up for [name of asset] in [segment/region if applicable - you will not always need to provide this]. The automation will trigger based on [gtm code] and [content name]. Please submit a test record.`
 - After the test lead is submitted, open the test record in the Marketo database. Go to the `Activity History` and confirm:
    1. The form that was submitted. You will pay attention to the gtm name and the content name. Make sure this is the form you wanted to test. If confirmed, move to step 2.
-   1. Confirm the correct autoresponder for the requested asset deployed
-   1. Confirm that no other autoresponders were sent
-   1. Confirm that the correct Interesting Moment was triggered
-   1. Confirm that the test record was added to the SFDC campaign (this may take a few minutes)
-   1. Confirm that the test record was not sent any other emails or added to other programs as a result of this test
+   1. Confirm the correct autoresponder for the requested asset deployed (digital)
+   1. Confirm that no other autoresponders were sent (campaigns)
+   1. Confirm that the correct Interesting Moment was triggered (campaigns)
+   1. Confirm that the test record was added to the SFDC campaign (this may take a few minutes) (campaigns)
+   1. Confirm that the test record was not sent any other emails or added to other programs as a result of this test (campaigns)
 
 ### Step 7: Update this Handbook page
 - Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form) with a `yes` and a link to the parameter and campaign you have set up.

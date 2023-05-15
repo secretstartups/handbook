@@ -1,3 +1,4 @@
+
 ---
 layout: handbook-page-toc
 title: "Marketo"
@@ -473,6 +474,45 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 - Free User
 - Default
 
+</details>
+
+### Snippets
+
+[Localized email footer](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/ds/snippet/15/overview/details) - This snippet can be applied to localized emails to automatically include the translated unsusbcribe language. The unsubscribe language will be localized if the recipient has a known `Preferred Language`. If they do not have a preferred language on file, the footer will be in English.
+
+<details>
+<summary markdown='span'>
+How to use the localized email footer snippet
+</summary>
+To use the Localized email footer snippet in an email, select the "Body Text 1 Column" module from the email modules template in the right sidebar. Drag this section below the existing unsubscribe language. Click on the generic copy, then click on the gear that appears. Note that there are two things you can select here - the copy and the module itself. Be sure to select the gear for the copy. Select `Replace with Snippet`, then select `Localized email footer` and click Save. You can then select the module with the existing unsubscribe language, click the gear, and click, `Delete`. You should only see the unsubscribe language once now. 
+
+To test the snippet, click `Preview`, then select `View by: Segmentation`. Select "Language Preference", then the language you would like to preview. You will see that the unsubscribe language changes based on the language you select.
+</details>
+
+[Trust Logo snippet](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/ds/snippet/8/overview/details) - This snippet is used to display approved customer logos. It is typically used on thank you pages, but can be used on landing pages as well. The snippet will display when the `Trust Logos` section of the landing page is toggled on. Only Marketing Operations should edit this snippet based on direction from the customer advocacy team.
+
+<details>
+<summary markdown='span'>
+MOps use - How to edit the trust logo snippet
+</summary>
+The instructions below are for MOps Admin users.
+
+1. All images must be black or grayscale and sized to 50px high x no more than 110px wide. You can use [this template](https://www.canva.com/design/DAFiV-KHYew/OazKFgDLLNOIjnVHaJrpKw/edit?utm_content=DAFiV-KHYew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) in Canva to size the image. Marketo rejects .svg files downloaded from Canva, so it will be easiest to save the file as a .png. 
+
+2. The template has space for 14 logos. If you add logos, you should remove an equal amount. The customer advocacy team should provide guidance on which logos to update.
+
+3. Add the sized images to the [Design Studio](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/ds/imagesandfiles/25821). The image will look distorted in the preview because the preview shows larger than the size of the image. It will be fine on the page. Copy the link for each logo onto a separate document to make it easier for yourself when editing the html.
+
+4. We have a [TEST trust logo snippet](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/ds/snippet/40/overview/details) available. It is advised that you should make your changes on the test snippet first to view them and gain approval from the customer advocacy team before making changes to the live snippet. Changes on the live snippet will be applied to all live landing pages. You can view how the changes look on [this](https://page.gitlab.com/TestHopinEvent_Thankyoupage.html) test thank you page. The editing instructions below are for both the test snippet and the live snippet.
+
+5. Create a draft of the [Trust Logo snippet](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/ds/snippet/8/overview/details) (or the test snippet if you are just getting started on the updates). Click on HTML to edit the snippet. The formatting for the snippet is controlled by the landing page template, so the snippet itself doesn't look good. 
+
+6. Click on "HTML" to make your edits. Copy this code:
+`<a href="INSERT LINK TO CUSTOMER CASE STUDY" target="_blank"> <img src="INSERT LINK FROM DESIGN STUDIO" alt="ENTER NAME OF COMPANY logo" /></a>`
+
+7. Place it just before the `</div>` at the bottom of the html and replace the text in caps as instructed. The alt text should not be all caps. This will add the new logo to the end of the list. If you would like it in another location, place the code where you would like the logo to appear.
+
+8. After you have updated the code, click Apply. Once auto-save completes, you can close the snippet. Then, Approve the draft and select "Update all". "Update All" will add the snippet to all approved assets and all draft assets. It will not auto-approve draft assets. Details about the [No-Draft Snippet updates](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/253609) can be found in the Marketo documentation. 
 </details>
 
 ### Other Field Documentation and Definitions

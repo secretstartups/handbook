@@ -66,6 +66,10 @@ To access Zoominfo training sessions specific for GitLab follow [this link](http
 
 To access additional Zoominfo on-demand training follow [this link](https://university.zoominfo.com/pages/on-demand-training).
 
+### Do Not Call and Do Not Email Automation
+
+If the proper criteria is set, Zoominfo can cause a lead/contact in SFDC to be labeled as `Do not email` and `Do not call`. Read more about the rules on the [sales development handbook page](/handbook/marketing/sales-development/#do-not-call-and-do-not-email-automations).
+
 ### Zoominfo Licensing Policy and Procedures
 
 ZoomInfo admin management is shared between the Data Intellgience team who manages and provisions licenses to the sales team members (field sales), and the Marketing Operations team who manages and provisions licenses to the marketing team members (sales development org).
