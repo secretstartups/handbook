@@ -286,6 +286,19 @@ The billing account is the representation of a billing entity which is mostly co
 1. In the desired billing account's detail view, click on `History`.
 1. You will see a list of all events and logs that happened to the billing account.
 
+#### See all invoices of a billing account
+
+1. In the desired billing account's detail view, click on `List invoices`.
+1. You will see a list of all invoices for that billing account including:
+   - ID
+   - Date
+   - Amount
+   - Payment status
+   - Balance
+   - Due date
+
+**Note:** This view is also visible for CDot admins with `read only` permissions.
+
 ### Billing Acccount Memberships
 
 The billing account membership defines the relation between a customer and a billing account. The customer will be able to see the subscription in their Customers Portal account if there is a billing account membership with an active subscription.
