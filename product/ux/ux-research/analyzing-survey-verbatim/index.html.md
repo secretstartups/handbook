@@ -24,10 +24,20 @@ There are two different approaches to categorizing verbatims.
 Analyzing verbatim generally follows the steps below. The exact steps that you take will depend on the scope and goals of your research project.
 
 ## Steps in Verbatim Analysis
-| Top-down approach | Bottom-up approach |
-| ------ | ------ |
-| 1. **Identify your data** by sorting and “cleaning” it 2. **Assign final themes** 3. **Create a summary table**  | 1. **Identify your data** by sorting and “cleaning” it 2. ***Familiarize yourself with the data** 3. ***Assign early drafts of codes** 4. ***Recursively refine and aggregate codes** 5.***Elevate codes to themes, iteratively**. 6. **Determine final themes** 7. **Assign final themes** 8. **Create a summary table**   |
+### Top-down approach
+1. Identify your data by sorting and “cleaning” it 
+2. Assign final themes 
+3. Create a summary table 
 
+### Bottom-up approach
+1. Identify your data** by sorting and “cleaning” it 
+2. *Familiarize yourself with the data 
+3. *Assign early drafts of codes 
+4. *Recursively refine and aggregate codes
+5. *Elevate codes to themes, iteratively 
+6. Determine final themes
+7. Assign final themes
+8. Create a summary table
 
 *= repeat these steps until you have a set of themes that reflect the user experience
 
@@ -60,7 +70,8 @@ To get started, create early drafts of the codes that you’ll review later. Thi
 
 In the tables below, we’re using five example verbatims that all aligned with the same theme at the end of the analysis. Keep in mind that these verbatim wouldn’t be grouped together like this during the early phases of the analysis.
 
-Table with examples
+Table with examples:
+
 | SUS Verbatim | Early Draft of Codes |
 | ------ | ------ |
 |    I find the new "rules" section of gitlab-ci not intuitive. The former system was less complex and easier to understand.    |   CI rules not intuitive, complex     |
@@ -85,6 +96,7 @@ During this part of the analysis you should ask yourself questions like:
 Note: If you are using a spreadsheet for your analysis, it’s helpful to sort based on your early drafts of code (e.g., sorting them alphabetically) and to use the find function (e.g., search for all the times that the word complex is used within each code) to help you find ways to combine them.
 
 Table with examples:
+
 | SUS Verbatim | Early Draft of Codes |
 | ------ | ------ |
 |    I find the new "rules" section of gitlab-ci not intuitive. The former system was less complex and easier to understand.    |   CI rules not intuitive, complex     |
@@ -106,6 +118,7 @@ To do this, ask yourself questions like:
 - If you’re working in a spreadsheet, it’s helpful to keep your original codes in a separate column from your themes so that you can iterate without losing work.
 
 Table with examples:
+
 | SUS Verbatim | Early Draft of Codes | Next Iteration of Codes |
 | ------ | ------ |  ------ |
 |    I find the new "rules" section of gitlab-ci not intuitive. The former system was less complex and easier to understand.    |   CI rules not intuitive, complex     | CI rules complex |
@@ -122,6 +135,7 @@ Generally, you’ll want to have a maximum of 10 themes. That’s because the mo
 You might need to take a step back here, both conceptually and in terms of an actual break to take a walk, in order to think about ways to reduce the number of themes. For example, in our SUS verbatim analysis we created a separate list of topics (e.g., Pipelines) for each verbatim (e.g., “Pipelines are too complex and confusing”) so that we could create a shorter list of themes that reflected the user experience (e.g., theme: complex / confusing). This allowed us to reduce our SUS themes in verbatim analysis from a list of 23 themes to a smaller list of 10. Creating two different axes, or ways of looking at the data, is called a form of [axial coding](https://en.wikipedia.org/wiki/Axial_coding), which is a bit outside the scope of this handbook page. Suffice it to say that it can sometimes be helpful to create different types of themes to see how they relate to each other. As another example of using an additional coding axis, you might want to code each verbatim for valence, like the positive or negative emotions that they represent, so that you can see how user emotions expressed relate to different topics (e.g., which topics were talked about most positively). 
 
 Table with example:
+
 | SUS Verbatim | Final Code | Topic | SUS Theme |
 | ------ | ------ |  ------ |  ------ |
 | Pipelines are too complex and confusing   |  Pipelines confusing |  Pipelines  | Complex/Confusing |
@@ -132,6 +146,7 @@ Table with example:
 Once you have your finalized list of themes, you’ll need to go back through your data and make sure that you’ve assigned each verbatim with a theme. It’s best practice to assign one theme to each verbatim because this allows you to report on the overall percentages of themes within your data set.
 
 Table with examples:
+
 | SUS Verbatim | Final Code | Topic | SUS Theme |
 | ------ | ------ |  ------ |  ------ |
 |    I find the new "rules" section of gitlab-ci not intuitive. The former system was less complex and easier to understand.    |   CI rules complex     | CI /CD | Complex/Confusing |
@@ -147,6 +162,7 @@ Table with examples:
 After you define and assign your final themes (or during that process), create a table with examples of each theme as well as a quick description. This will make it easier for your stakeholders to understand what you’ve done.
 
 Table with example:
+
 | SUS Verbatim | Quick Description | SUS Verbatim Example |
 | ------ | ------ |  ------ |
 | Complex/Confusing | User notes that there is a lot going on with GitLab and/or that it’s very complex | “I think the way different pipelines are presented to be confusing and it's hard to know which are running” |
