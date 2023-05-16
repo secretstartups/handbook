@@ -43,7 +43,6 @@ The GitLab Corporate Communications team is responsibility for the following act
 - We get stuff done!
   - We are in a highly visible role, managing high stakes opportunities that impact the GitLab brand. While there are "glass balls" vs "rubber balls," most of the opportunities we oversee are "glass" and will break if dropped. 
 
-
 ## Objectives and Goals
 
 As detailed in GitLab’s public [CMO OKRs](/company/okrs/), GitLab’s corporate communications team seeks to elevate the profile of GitLab in the media and on social media, positioning it as a pioneer of remote work, increasing share of voice against competitors, and securing key narratives in feature articles.
@@ -139,31 +138,39 @@ In the event that a media member, editor, or publisher offers a draft or preview
 ### Speaking Opportunities (conferences, meetups, webinars and other events)
 
 **Invited to Speak**
+
 If you are asked to speak on behalf of GitLab at an event, on a webinar or at a Meetup (and you are not already a member of the [GitLab speakers bureau](/speakers/)), please reach out to the Corporate Communications and Developer Evangelist teams to ensure that the opportunity aligns with GitLab objectives and key narratives. Inquiries should be initiated in the `#external-comms` Slack channel before you accept the speaking invitation. Please allow 5 business days for evaluation. Opening an issue under Corporate Marketing to further collaborate on the opportunity may be requested.
 
 **Submitting to Speak**
+
 If you are planning to submit an event CFP or request to participate as a speaker for a webinar or Meetup (and you are not already a member of the [GitLab speakers bureau](/speakers/)), please ensure the opportunity aligns with GitLab objectives and key narratives. If you are unsure, please reach out to the Corporate Communications and Developer Evangelist teams. If accepted to speak, please take the training “Best practices for public speaking,” notify the Corporate Communications and Developer Evangelist teams via the `#cfp` Slack channel w/link to the accompanying issue and ensure the teams have 7-10 business days to review your final presentations.
 
 **E-Group External Communications Request**
+
 If you have an opportunity (media opportunity, podcast, video, webinar, fireside chat, conference, meetup, etc.) that you would like to invite an e-group member to participate in, please create a GitLab issue within the Corporate Marketing project using the [E-Group External Communications Request Issue Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=EGroupExternal_Communications_Request_Issue_Template). When possible, please plan 90 days minimum from time of open issue to time of speaking opportunity for preparation. Once the issue is created, please post in `#external-comms` Slack channel for further assistance. Please allow the Corporate Communications team 5 business days to review your request.
 
 **Amplifying your Speaking Opportunity**
+
 When speaking at an event, on a webinar or at a Meetup, if you are open to being a spokesperson with media or creating a contributed article on your talk, reach out to the Corporate Communications team via the `#external-comms` Slack channel.
 
 For ways to amplify your speaking opportunity, check out the “[How to make your content work harder for you](/handbook/marketing/corporate-communications/resources-trainings/#how-to-make-your-content-work-harder-for-you)” presentation.
 
 **Event Booth Staffing**
+
 If you are staffing the GitLab booth at an in-person or virtual event, you are representing GitLab. Please follow the company’s [SAFE framework](/handbook/legal/safe-framework/) when engaging with booth visitors and event attendees.
 
 ### Research-oriented requests
 
 **Analysts**
+
 For analyst research-oriented requests, please consult the [Analyst Relations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/) handbook section and direct questions to the `#analyst-relations` Slack channel.
 
 **Media**
+
 For media inquiries that are more research oriented, please share the request and associated context in the `#external-comms` Slack channel. An example of a research-oriented request is an invitation to participate in an interview to share more about one's day-to-day role at GitLab, specific tools teams use on a daily basis, how a team interacts and collaborates with other teams, specific products that are most helpful to them in their workflow, etc. The Corporate Communications team will evaluate for reach, awareness, merit, and potential [conflicts of interest](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d), and advise on a case-by-case basis.
 
 **Honorariums**
+
 If the request has an honorarium offered (for example, a gift card or cash amount awarded for participation), please go through our [Approvals for Outside Projects & Activities process](/handbook/people-group/contracts-probation-periods/#approval-for-outside-projects--activities-aka-exceptions-to-piaa) to ensure a [conflict of interest is not present](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 
 You may be approached by external parties seeking to provide payment for a GitLab team member's time to discuss GitLab remote practice to help them guide a client. While this is not a traditional research or speaking opportunity (i.e. event or Meetup) it is still considered an external speaking opportunity. We ask that team members verify who they are speaking with to make sure the source is indeed valid and the request legitimate. Remember that you represent GitLab and if any question makes you uncomfortable or gives you a pause on whether you should answer, we recommend that you do not answer. Questions regarding GitLab financials, sales, compliance, executives or where the company is heading should adhere to the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) and be treated with caution, as should anything which is not already available in the GitLab handbook. We encourage all team members to be company evangelists and this can be done without sharing [Not Public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) information about GitLab.
@@ -240,6 +247,7 @@ Please submit a request via an `announcement` [issue template in the Corporate M
     - A public issue (see [below](https://about.gitlab.com/handbook/marketing/corporate-communications/#using-public-issues-to-communicate-with-users))
 
 ## Requests for Press Releases
+
 If your request for an external announcement meets the Level 1 criteria, please open an issue using the `press-release-template` [issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/press-release-template.md). The issue template will prompt you to fill in logistics details, such as timing, and answer the following questions:
 
 - What are we announcing? 
