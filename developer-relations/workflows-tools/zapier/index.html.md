@@ -56,7 +56,7 @@ The Zaps are organized in the [Developer Evangelism folder](https://zapier.com/a
 | [Twitter, text `@gitlab`: @itzikgb](https://zapier.com/editor/194077532) | Parses account tweets for text `@gitlab` and posts to Slack | Twitter, Slack |
 | [Twitter @GHChangelog](https://zapier.com/editor/188095515/published) | Posts new account tweets to Slack | Twitter, Slack | 
 | [Twitter @GitHubNext](https://zapier.com/editor/188096407/published) | Posts new account tweets to Slack | Twitter, Slack | 
-
+| [Twitter @DiscourseStatus](https://zapier.com/editor/193755545/published) | Posts hosting status updates to Slack | Twitter, Slack | 
 
 
 ##### Zaps for Hacker News
