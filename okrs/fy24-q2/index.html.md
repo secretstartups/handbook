@@ -34,7 +34,7 @@ The source of truth for FY24-Q2 OKRs will be in GitLab.
 
 The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?label_name%5B%5D=CEO%20OKR&milestone_title=FY24-Q2). CEO objectives and KRs are captured on this page. OKRs map to [Yearlies]/company/yearlies/). 
 
-### 1. CEO: [Continue to win against GitHub with AI in all we do](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1875)
+### 1. CEO: [Continue to win against GitHub with AI](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1875)
 1. **CEO KR**: [Define R&D priorities → Share updated roadmap that reflects near-term win requirements](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1964)
 1. **CEO KR**: [Drive AI usage with 1M code suggestion users](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2808)
 1. **CEO KR**: [Develop comprehensive GitHub compete narrative with new content positioning stronger AI leadership, sales/rev play campaign](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/1962)
