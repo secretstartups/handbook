@@ -7,11 +7,13 @@ The Professional Services Manager contributes to and executes the strategic visi
 
 ### Job Grades
 
+| Title | Grade |
+|---|---|
 | [Regional Manager, Professional Services](#regional-manager-professional-services) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Senior Regional Manager, Professional Services](#senior-regional-manager-professional-services) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Director, Professional Services](#director-of-professional-services) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Senior Director, Professional Services](#senior-director-of-professional-services) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Vice President, Professional Services](#vice-president-of-professional-services) | [Grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Vice President, Professional Services](#vice-president-of-professional-services) | [Grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 
 ## Regional Manager, Professional Services
