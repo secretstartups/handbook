@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Analyzing and synthesizing user research data"
-description: "Guidelines for how to set yourself up for successful analysis and synthesis while you're conducting research sessions and after your interviews are complete"
+description: "Guidelines for how to analzye survey verbatim"
 ---
 
 ## On this page

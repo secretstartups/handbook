@@ -80,6 +80,7 @@ Below is a full list of our UX Research team handbook content:
 - [Collecting useful data](/handbook/product/ux/ux-research/collecting-useful-data/)
 - [Using quantitative data to find insights](/handbook/product/ux/ux-research/quantitative-data/)
 - [Analyzing and synthesizing user research data](/handbook/product/ux/ux-research/analyzing-research-data/)
+- [Analyzing survey verbatim](/handbook/product/ux/ux-research/analyzing-survey-verbatim/)
 - [Research insights](/handbook/product/ux/ux-research/research-insights/)
 - [Documenting research insights in Dovetail](/handbook/product/ux/dovetail/)
 
