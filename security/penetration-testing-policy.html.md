@@ -23,18 +23,18 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 # Penetration Testing Policy
 
-A penetration test, (aka pentest or ethical hacking), is a process to identify security vulnerabilities in an application or infrastructure with an attacker's mindset in a safe manner in order to evaluate the security of the system. The test is performed to identify strengths, weaknesses, and vulnerabilities; including the potential for unauthorized parties to gain access to a system's features and data enabling a full risk assessment to be completed.
+A penetration test is a process to identify security vulnerabilities in an application or infrastructure in order to evaluate the security of the system.
 
-GitLab performs external, independent penetration testing at least annually with a firm that has a strong reputation within the security industry against production systems and internally, if it is determined that a significant change has been made to applications or infrastructure.
+GitLab performs external, independent penetration testing at least annually with a firm that has a strong reputation within the security industry. This testing is done against production and internal systems, if it is determined that a significant change has been made to applications or infrastructure.
 
 ## Purpose
 
-The purpose of this test is to secure personal, confidential, sensitive data from outsiders, like hackers, who can have unauthorized access to the system. Once the vulnerability is identified it is used to exploit the system to gain access to sensitive information.
+The purpose of this test is to secure personal, confidential, and sensitive data.
 
 A penetration test determines whether or not defensive measures employed on the system are strong enough to prevent security breaches. Penetration test reports also suggest the countermeasures that can be taken to reduce the risk of the system being attacked.
 
 ## Scope of Penetration Testing
-The scope of a GitLab's Penetration Testing may vary due to a number of factors including priority and resources but will be explicitly outlined prior to any Penetration Testing taking place. At minimum, annually a Penetration Test or a combination of Penetration Tests will result in 100% of the external facing Gitlab.com environment being reviewed.
+The scope of a GitLab's Penetration Testing may vary due to a number of factors including priority and resources but will be explicitly outlined prior to any Penetration Testing taking place. On an annual basis, a third party penetration test will be performed, targeting the core gitlab application stack for the GitLab.com and GitLab Dedicated production environments. A white-box testing approach is used, and the testing targets web applications and web services (e.g. API), external network perimeter, and cloud infrastructure configuration.
 
 ## Roles & Responsibilities
 
@@ -48,12 +48,13 @@ The scope of a GitLab's Penetration Testing may vary due to a number of factors 
 ### Why GitLab should perform Penetration Testing
 
 1. To meet the information security compliance requirements at GitLab and to implement an effective security strategy.
-2. Independent testing brings a new perspective which reduces the likelihood of undiscovered errors made by GitLab.
-3. Assure customers that their security of data is kept safe from vulnerabilities. We are seeing many customers requesting evidence of our penetration testing as part of contract negotiations. 
-4. Penetration testing at regular intervals to protect information systems against security breaches.
-5. As a check to ensure that critical, sensitive, and personal data is secured while in-transit.
-7. To find security vulnerabilities in an application or infrastructure which reduces the vulnerabilities likely to be discovered through 3rd party reporting which saves GitLab money.
-9. To assess the business impact of successful attacks. 
+1. Independent testing brings a new perspective which reduces the likelihood of undiscovered errors made by GitLab.
+1. Assure customers that their data is secure and that vulnerabilities are identified and remediated.
+1. Many customers request evidence of penetration testing as part of contract negotiations. 
+1. Penetration testing at regular intervals is done to protect information systems against security breaches.
+1. As a check to ensure that critical, sensitive, and personal data is secured while in-transit.
+1. To find security vulnerabilities in an application or infrastructure which reduces the number of vulnerabilities discovered through 3rd party reporting, which saves GitLab money.
+1. To assess the business impact of successful attacks. 
 
 ## Exceptions
 Exceptions to this policy will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
