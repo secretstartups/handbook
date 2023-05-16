@@ -28,6 +28,7 @@ Navigate to career development resources located throughout the GitLab handbook:
     <a href="/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations" class="btn btn-purple" style="width:250px;margin:5px;">Career Development Conversations </a>
     <a href="/company/team/structure/#job-frameworks" class="btn btn-purple" style="width:200px;margin:5px;">Job Frameworks</a>
     <a href="https://docs.google.com/document/d/1O45gRkQqUa3dEgjJXGwdBE7iZbBI22EPC7zrkS3T4dM/edit" class="btn btn-purple" style="width:250px;margin:5px;">Tips for Creating Effective Growth Plans</a>
+    <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/igp" class="btn btn-purple" style="width:250px;margin:5px;">How to use the IGP</a>
   </div>
 </div>
 
@@ -139,11 +140,13 @@ Looking at example IGPs from team members can give you ideas to start your own. 
     <a href="https://docs.google.com/document/d/1grTPbWxFHDcfskAEI23t4EUV1UoW1sJQgxNE4LTfD6k/edit" class="btn btn-purple" style="width:250px;margin:5px;">Lateral Growth</a>
   </div>
 </div>
-Looking for a step-by-step guide on filling out the IGP? Follow this link or click the button below:
+
+Looking for a step-by-step guide on filling out the IGP? Use the resources below:
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/people-group/learning-and-development/career-development/igp-guide" class="btn btn-purple" style="width:250px;margin:5px;"> The GitLab IGP Guide </a>
+    <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/igp" class="btn btn-purple" style="width:275px;margin:5px;">Short Course: How to use the IGP</a>
+    <a href="/handbook/people-group/learning-and-development/career-development/igp-guide" class="btn btn-purple" style="width:275px;margin:5px;"> Handbook: The GitLab IGP Guide </a>
   </div>
 </div>
 
