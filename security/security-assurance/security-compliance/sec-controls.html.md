@@ -85,7 +85,6 @@ _Detailed sub-controls are included in the various control family pages_
 | AC-4 | Information Flow Enforcement | Enforce approved authorizations for controlling the flow of information within and between GitLab's systems. |
 | AC-5 | Separation of Duties | Identify and document defined roles and associated system access authorizations to support separation of duties. |
 | AC-6 | Least Privilege | Employ the principle of least privilege, allowing only authorized accesses for users (or processes acting on behalf of users) that are necessary to accomplish assigned tasks. |
-| AC-7 | Unsuccessful Logon Attempts | Enforce a limit of consecutive invalid logon attempts by a user and respond when the maximum number of unsuccessful attempts is exceeded. |
 | AC-17 | Remote Access | Establish requirements and authorization controls before allowing remote access connections to GitLab's systems. |
 | AC-18 | Wireless Access | Establish requirements and authorization controls before allowing wireless network  connections to GitLab's systems. |
 | AC-19 | Access Control for Mobile Devices | Establish requirements and authorization controls before allowing mobile device connections to GitLab's systems. |
