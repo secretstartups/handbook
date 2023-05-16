@@ -121,8 +121,8 @@ This step provides us with all the necessary information we need to complete you
 - Navigate to the [UX Research Project](https://gitlab.com/gitlab-org/ux-research/-/issues) and open a new issue. 
 - Select the <Recruiting Request> template and fill in the information required.
 
-**Step 2 - Wait one working day**
-One of the UX Research Operations Coordinators will claim the study within one working day and work with you to find your participants. They will reach out to you with any further questions and an update. When your study is claimed, the coordinator will add a label to identify they are working on it. `ReOps::Cait` - for Caitlin Faughnan. `ReOps::Jenn` - for Jennifer Mundy
+**Step 2 - Wait one-two working days**
+The UX Research Operations Coordinator will claim the study within one-two working days and work with you to find your participants. They will reach out to you with any further questions and an update on their timeline. When your study is claimed, the coordinator will remove the `ReOps::Triage` label. It will be replaced to identify they are working on it e.g. `ReOps::Cait` - for Caitlin Faughnan. 
 
 #### What if I want to get a head start, but I’m not quite ready?
 
@@ -132,19 +132,19 @@ When the issue is ready to leave the WIP/DRAFT phase, @mention the UX Research O
 
 #### What will the UX Research Coordinator be responsible for on my request?
 
-The UX Research Operations Coordinator is responsible for launching recruitment campaigns, prioritizing requests, [scheduling participants](/handbook/product/ux/ux-research/recruiting-participants/#scheduling-participants), [reimbursing them for their time](/handbook/product/ux/ux-research/recruiting-participants/#reimbursing-participants-for-their-time), and ensuring NDAs, as needed, are signed and stored properly.
+The UX Research Operations Coordinator is responsible for launching recruitment campaigns, prioritizing requests, [scheduling participants - if required](/handbook/product/ux/ux-research/recruiting-participants/#scheduling-participants), [reimbursing them for their time](/handbook/product/ux/ux-research/recruiting-participants/#reimbursing-participants-for-their-time), and ensuring NDAs, as needed, are signed and stored properly.
 
 #### What recruitment method will be used?
 
 The UX Research Operations Coordinator assigned to your project will select the best method for recruitment, based on the recruitment criteria. That may include using multiple approaches, depending on the criteria. Options include:
-1. First Look Research Panel
+1. Data Warehouse
+1. Marketo
 1. Respondent.io - a third party recruitment tool
-1. UserTesting.com - a third party recruitment tool
 1. Social Outreach
 1. Direct Sourcing via LinkedIn
 1. Docs Site Banner
-1. Marketo
-1. Data Warehouse
+1. UserTesting.com - a third party recruitment tool (primarily used by Product Designers to self-serve)
+1. First Look Research Panel
 
 More detailed information on the above recruitment methods can be found [here](https://about.gitlab.com/handbook/product/ux/ux-research-coordination/#recruitment-methods).
 
@@ -176,7 +176,7 @@ If your study is ongoing, simply comment on the issue or tag the UX Research Ope
 
 Recruitment typically takes 2 weeks for target participants who are plentiful in our research panel and customer database, such as Engineers and DevOps professionals. 
 Recruitment for low-incidence users, like security professionals or users of a newly released feature, may take more than 2 weeks. 
-In rare cases, when your target participants cannot be found, the UX Research Operations Coordinator will suggest other options
+In rare cases, when your target participants cannot be found, the UX Research Operations Coordinator will suggest other options.
 
 In all cases, the UX Research Operations Coordinator will keep you updated on the progress of the recruitment effort by commenting on the recruiting issue.
 
