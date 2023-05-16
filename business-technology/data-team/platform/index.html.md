@@ -635,26 +635,28 @@ For the unlikely event that Snowflake becomes unavailable for an undetermined am
 
 In order to keep Snowflake up and running, we perform administrative work.
 
-#### Create Storage location
+#### Create new Snowflake external stage for storage bucket
 
-In order to load data into the data warehouse, data is usually read out of a storage bucket. To load from a bucket, that bucket must be added as part of an allow list in Snowflake and a `stage` must be created. 
+In order for Snowflake to access the files in the storage bucket (i.e GCS, S3), the files must be copied into a Snowflake `external stage`.
 
-First select all current storage locations. Copy the value under `property_value` where property=`STORAGE_ALLOWED_LOCATIONS`
-```sql
-DESC INTEGRATION GCS_INTEGRATION;
-```
+To create the external stage, the new path to the bucket must be included (included means **appended** to the existing list of storage locations) in the `STORAGE_ALLOWED_LOCATIONS` attribute. If it is not appended, but **overwritten** to the existing attributes, all existing storage locations will be **erased** and stop many pipelines to run. Follow these instructions to append the new external stage:
 
-Paste the value in the query below, over `<<<<_paste_here_>>>>` + the value of the new bucket location. Values needs to be separated by a `,`.
-```sql
-ALTER INTEGRATION GCS_INTEGRATION 
-SET STORAGE_ALLOWED_LOCATIONS = ('<<<<_paste_here_>>>>')
-```
-
-A new stage can then be created with the added storage location. 
-```sql
-CREATE STAGE "RAW"."PTO".pto_load
-STORAGE_INTEGRATION = GCS_INTEGRATION URL = 'bucket location';
-```
+1. use role `ACCOUNTADMIN`, if you don't have access to this role, you cannot proceed
+1. get all *current* storage locations by running this: 
+    ```sql
+    DESC INTEGRATION GCS_INTEGRATION;
+    ```
+1. From the output, copy the value  under `property_value` where property=`STORAGE_ALLOWED_LOCATIONS`. It will look something like: `gcs://postgres_pipeline/,gcs://snowflake_backups,..`
+1. Next, update the alter statement below, by taking 'current_paths' that you just copied and combine it with the 'new_path' that you want to add. Values needs to be separated by a `,`. 
+    ```sql
+    ALTER INTEGRATION GCS_INTEGRATION 
+    SET STORAGE_ALLOWED_LOCATIONS = ('<<<<current_paths,new_path>>>>')
+    ```
+1. After you run the ALTER statement, the new stage can now be created, like so:
+    ```sql
+    CREATE STAGE "RAW"."PTO".pto_load
+    STORAGE_INTEGRATION = GCS_INTEGRATION URL = 'bucket location';
+    ```
 
 ## <i class="fas fa-cogs fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Transformation
 
