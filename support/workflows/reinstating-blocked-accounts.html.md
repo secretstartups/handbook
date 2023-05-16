@@ -38,6 +38,23 @@ You can see `Account Locked` states in [Kibana](kibana.html) by searching for `j
 
 ![locked_account](/images/support/locked_example.png)
 
+## Manual unlock
+
+A user should attempt all self-serve methods first.
+
+If self-serve methods have been exhausted and a member of a group with a paid subscription still cannot access their account,
+we can consider a manual unlock if necessary. For example, if a user cannot receive external email to receive codes, a manual unlock may be required.
+
+Process:
+
+1. Follow the locked accounts workflow above and ensure that the user has exhausted all self-serve methods first.
+1. For other cases, [comment or create an issue](working-with-issues.html) as applicable.
+1. Do an [account ownership verification](account_verification.html).
+1. [Unlock the account from the admin area](https://docs.gitlab.com/ee/security/unlock_user.html#unlock-a-user-from-the-admin-area)
+1. [Add an admin note](admin_note.html).
+
+Feature request for group owners to self-serve is in [anti-abuse#339](https://gitlab.com/gitlab-org/modelops/anti-abuse/team-tasks/-/issues/339).
+
 # Blocked Accounts
 
 This workflow is used to determine if a blocked user can be reinstated if it has been blocked by us. All blocked accounts should have an admin note with a link to a relevant issue.
