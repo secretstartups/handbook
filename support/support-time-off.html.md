@@ -44,7 +44,7 @@ team calendar.
    1. After your personal calendar is linked, click 'Add calendar' under
    'Additional calendars to include?'. The 'Support - Time Off' calendar ID is
    `gitlab.com_as6a088eo3mrvbo57n5kddmgdg@group.calendar.google.com`
-   1. Continue to link the calendars for your SGG and your SGG region, under 'Additional calendars to include?'. ID's are in the list below (right click / copy link).
+   1. Continue to link the calendars for your SGG and your SGG region, under 'Additional calendars to include?'. The calendar links are in the list below. The ID is the string following `https://calendar.google.com/calendar/u/0/embed?src=`.
 
 1. Verify the following calendars are shared with you. These are shared with the Support Team Google Group:
    1. [Support OOO - AMER](https://calendar.google.com/calendar/u/0/embed?src=c_rt0g4ptj1nut4045lcgsm21chg@group.calendar.google.com)
@@ -56,7 +56,7 @@ team calendar.
    1. Enter the Calendar ID (below) for your SGG calendar
    1. Repeat for your SGG region calendar
 
-##### SGG / L&R Calendar IDs
+##### SGG / L&R Calendar links
 
 - [Support L&R ID](https://calendar.google.com/calendar/u/0/embed?src=c_200f3afcbd9d0e18cbd80f00163ea7ca84e08bf857bdafc2bcad4202fed64f3e@group.calendar.google.com)| [Support L&R AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_55ea946dce89e101efa9d377ae355a201cc96b8d91079ada092cd2d9d821d602@group.calendar.google.com)| [Support L&R APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_6d683f9a00d982d28055c0ef986561adc1aacf57570b7285a14ec79c31fd5f89@group.calendar.google.com) | [Support L&R EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_a849778a4950b23ce10953fa4f98d49e3abdc0aa57e88d448a27d87c6286ad0d@group.calendar.google.com)
 - [Support Baobab ID](https://calendar.google.com/calendar/u/0/embed?src=c_cd8ab158f223036b3fb2664d4d50909e8b7eb17e1d58005c7df78c91c4b1a66d@group.calendar.google.com)| [Support Baobab AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_c1cc09c0a895122bf20f3880d69e85ae593c62dbbc1f386f6441272dc98036f4@group.calendar.google.com)| [Support Baobab APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_28d2e03fbb15ec559fbcb72ed6a209cd6f24105d5f1323c24349d4105858c9eb@group.calendar.google.com) | [Support Baobab EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_41a30ad6e82030ce88642d27f3eb8aa05ed097d9d5d48fc05ab1f5b045b0ff4a@group.calendar.google.com)
