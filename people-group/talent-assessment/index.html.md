@@ -783,3 +783,53 @@ We want to make sure we use engagement tools to retain Key Talent. A few of our 
 * **Succession Planning:** As team members identified as Key Talent are critical to roles that have a high impact on the company's success, it is important that we identify successors to avoid any single points of failure within the organization.
 
 **Note that being considered or designated as a key talent one year, does not mean or guarantee that a team member will be considered or designated as a key talent moving forward.**
+
+## Key Talent Program
+
+Supporting Key Talent at GitLab is a critical element of business scalability and organizational development and growth. Our Key Talent are often individuals that can be looked to for mentorship and guidance by others, but it is also important that we invest in the development of this group and ensure that key knowledge is shared. A couple of key ways we can support our Key Talent is through regular discussions and the development of [Individual Growth Plans (IGPs)](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/).
+
+Below are suggestions for getting started, resources for managers, a [Key Talent Engagement Discussion template](https://docs.google.com/document/d/1ZMDkD8TE7mAcB1IUuHjNi5VeuXDbvsEsqKnGFXUqxsc/edit#heading=h.akod5o3a8i5q), and a recommended cadence. 
+
+### Key Talent Engagement Discussion
+
+One way to set up a structure and regular cadence for touchpoints with our Key Talent population is through Key Talent Engagement Discussions. We recommended these discussion focus areas are: Overall Engagement, Growth/Challenge, and Support Needed. The main goals for check-ins with this group include: 
+
+1. Get a pulse on overall engagement
+1. Uncover potential risks for business continuity and implement plans to mitigate 
+1. Identify areas of support needed
+1. Identify opportunity for stretch projects and continued growth
+1. Use this discussion as a starting point to partner with team members to get [Individual Growth Plans (IGPs)](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/) in place
+1. Leverage this data to identify key themes and potential actions across our Key Talent pool with the goal of improving engagement (leaders can work with their aligned [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) on this piece)
+
+Managers can leverage [this template](https://docs.google.com/document/d/1ZMDkD8TE7mAcB1IUuHjNi5VeuXDbvsEsqKnGFXUqxsc/edit#heading=h.akod5o3a8i5q) to help facilitate consistency in Key Talent Engagement Discussions.
+
+### Individual Growth Plans (IGPs)
+
+Key Talent Engagement Discussions can be a great starting point to start thinking through Individual Growth Plans, which is the recommended next step. Some ideas for our Key Talent population to consider when thinking through [Individual Growth Plans (IGPs)](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/) include:
+
+- Stretch project (Cross functional, and an opportunity to be DRI)
+- Mentor (leader to help identify internal or external mentor)
+- Coach or Coaching program (e.g. [Coaching Right Now](https://about.gitlab.com/handbook/leadership/coaching/#selecting-a-coach))
+- Management development (if applicable) 
+- Cross-functional/leadership exposure plan 
+- Cross learning plan with other roles within their division
+
+### Cadence 
+
+We recommend that managers perform Key Talent Engagement Discussions twice per year, roughly every 5-6 months. Discussion timing is at manager discretion, as we want to ensure these discussions are held at the most relevant and impactful time for each team member. Key Talent Engagement Discussions are more geared towards stay interview format, and should not replace ongoing informal check-ins, regular feedback, and growth discussions that happen more regularly in 1:1s. 
+
+A couple of options for Key Talent Engagement Discussions that managers can consider are:
+
+1. **Before Mid-Year check-in**: Before our company-wide [Mid-Year check-ins](https://about.gitlab.com/handbook/people-group/talent-assessment/#mid-year-check-in). This cadence would be 1) Key Talent Engagement Discussions, 2) Mid year check-in discussion, 3) [Individual Growth Plans (IGPs)](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/) (_if applicable). Touching base with Key Talent ahead of Mid year check-ins can help provide an insightful baseline and level of insight before going into more performance-focused discussions. 
+
+In FY'24 Q2, we will begin _optional_ Key Talent Engagement Discussions across the organization aligned with our upcoming mid-year check-in process. For divisions or departments that choose to opt in, the high level timeline would be as follows (exact dates TBD):
+
+- May: Key Talent Engagement Discussions (optional)
+- June: [Mid year check-ins](https://about.gitlab.com/handbook/people-group/talent-assessment/#mid-year-check-in) (required)
+- July: IGP (Individual Growth Plan) development (optional)
+
+1. **After our [Talent Assessment cycle](https://about.gitlab.com/handbook/people-group/talent-assessment/#q4-formal-talent-assessment)**: This cadence would be 1) Self-assessment 2) Talent Assessment performance review discussion 3) Key Talent Engagement Discussion, 4) [Individual Growth Plans (IGPs)](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/) (_if applicable). We recommend that Key Talent Engagement Discussions occur _after_ Talent Assessments as opposed to before to ensure we have the most recent group of key talent calibrated and confirmed before Key Talent Engagement Discussions occur. 
+
+As mentioned above, Key Talent Engagement Discussions can be done at any point during the year, it is not necessary that they are coupled with our Mid year check-in process. 
+
+
