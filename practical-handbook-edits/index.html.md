@@ -16,9 +16,14 @@ This page contains instructions, tips, and historical recordings for non-technic
 
 ## Using the Web IDE to edit the handbook 
 
-The updated [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide_beta/index.html) was [released as Beta on 2022-12-19](/blog/2022/12/15/get-ready-for-new-gitlab-web-ide/) and introduces a client-only VS Code editor in the browser. The workflows for editing the handbook changed compared to the old Monaco-based Web IDE. This handbook section explains a typical workflow to edit the handbook, commit changes, create a merge request, and later edit a merge request during reviews. 
+The [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/index.html) based on VS Code was [released as Beta on 2022-12-19](/blog/2022/12/15/get-ready-for-new-gitlab-web-ide/) and is the new default with GitLab 16.0. This handbook section explains a typical workflow to edit the handbook:
 
-_Please go with bias for action to add updates into this handbook page as the Web IDE Beta continues, and more features are added to improve the workflows. Feel free to assign @dnsmichi for review._
+1. [Use the Web IDE to make changes](https://docs.gitlab.com/ee/user/project/web_ide/#use-the-web-ide).
+1. [Commit changes](https://docs.gitlab.com/ee/user/project/web_ide/#commit-changes).
+1. Create a merge request, [assign reviewers](/handbook/handbook-usage/#when-to-get-approval).
+1. Edit a merge request during reviews. 
+
+_Please go with bias for action to add updates to this handbook page as the Web IDE development continues, and more features are added to improve the workflows. Feel free to assign @dnsmichi for review._
 
 ### Practical handbook edits: Web IDE and single file editor 
 
@@ -34,12 +39,12 @@ This video covers:
 
 ### Web IDE editing steps 
 
-1. Navigate to the handbook page you want to edit. At the bottom, click on the URL `Edit in Web IDE` to open the new Web IDE. 
+1. Navigate to the handbook page you want to edit. At the bottom, or on the right, click on the URL `Edit in Web IDE` to open the new Web IDE. 
     - Alternatively, open the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project and select `Web IDE` from the edit actions. This requires you to navigate into the source tree where the handbook files are located. 
 
    ![Handbook page at the bottom, action: Edit in Web IDE](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_bottom_handbook_action.png)
 
-2. Familiarize yourself with the Web IDE editor, based on VS Code:
+2. Familiarize yourself with the [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/):
     - The menu sections are located on the left
     - The explorer section provides the file tree for the project, which is opened automatically when editing a handbook file. (keyboard shortcut: `Shift+Cmd+E`)
     - The editing view is on the right side. On top, there are tabs to organize open files. 
@@ -49,7 +54,7 @@ This video covers:
     ![Web IDE overview, handbook page highlighted in the file tree](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_file_tree_edit_handbook_page.png)
 
 3. Edit the selected file, and try the Markdown preview. `Cmd+Shift+P` on macOS opens the Web IDE command palette to search for commands. For example, type `Markdown`, select `Markdown: Open Preview to the Side` and try the preview. 
-    - Note that the [handbook markdown engine](/handbook/markdown-guide/) supports more rendering features than the [Web IDE preview based on VS Code](https://code.visualstudio.com/docs/languages/markdown), and some items won't be rendered properly. Commit and create a draft MR to view the handbook [review apps](https://docs.gitlab.com/ee/ci/review_apps/) to e.g. verify embedded images. 
+    - Note that the [handbook markdown engine](/handbook/markdown-guide/) supports more rendering features than the [Web IDE preview based on VS Code](https://code.visualstudio.com/docs/languages/markdown), and some items won't be rendered properly. Commit and create a [draft merge request](https://docs.gitlab.com/ee/user/project/merge_requests/drafts.html) to view the handbook [review apps](https://docs.gitlab.com/ee/ci/review_apps/) to e.g. verify embedded images. 
 
     ![Web IDE editor, Markdown preview](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_console_markdown.png)
 
@@ -81,11 +86,11 @@ This video covers:
 
     ![GitLab Merge Request view](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_gitlab_create_mr.png)
 
-11. Make additional changes to the MR: Select `Code > Open in Web IDE` on the upper right menu. This opens the Web IDE again to make changes. **Note**: This feature is in development and may miss functionality such as opening the changed file tree automatically, see [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/385510). 
+11. Make additional changes to the MR: Select `Code > Open in Web IDE` on the upper right menu. This opens the Web IDE again to make changes. All changed files are opened automatically. 
 
     ![Merge request, open in Web IDE](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_gitlab_mr_open_in_web_ide.png) 
 
-12. Make changes, commit and push them, and select the MR associated branch again (follow [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383801) for UX commit flows). 
+12. Make changes, commit and push them, and select the MR associated branch again (follow [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383801#note_1214559713) for UX commit flows). 
 
     ![Web IDE, commit and select MR associated branch](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_from_mr_changes_source_control_select_branch.png)
 
@@ -182,9 +187,9 @@ When a new manager joins a team, updates are needed in three places:
 - Team member's entry - Update `reports_to` to include the new manager slug
 - [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) to indicate the new manager for the team (if part of engineering/product)
 
-### More Tips
+## More Tips
 
-#### Pre-requisites
+### Pre-requisites
 
 Some tips may require terminal shell access on macOS/Linux. Ensure that your environment is working and that you have cloned the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project for example.
 
@@ -207,7 +212,7 @@ On macOS it is advised to use Homebrew and install the GNU tools. See [this blog
 brew install gnu-sed
 ```
 
-#### Find files
+### Find files
 
 One of the shell tools provided with macOS/Linux GNU is `find`. Open a terminal an run the following command in the main directory of the `www-gitlab-com` repository to get a list of all `*.md` files. This matches `.md` as suffix.
 
@@ -238,7 +243,7 @@ find . -type f -name '*blogpost-filename*'
 ```
 
 
-#### Find files and perform an action
+### Find files and perform an action
 
 This comes in handy when you want to print all matches with a prefix, or perform additional replace actions. The main principle is to follow the matching rules explained above, and add the `-exec` parameter.
 
@@ -250,7 +255,7 @@ Run the command in a terminal to see how it works:
 find source/handbook/marketing -type f -name '*.md' -exec sh -c 'echo "Matched {}"' \;
 ```
 
-#### Replace strings in a file
+### Replace strings in a file
 
 The GNU `sed` shell command is useful to replace a defined string in a file. The `-i` flag specifies to do that inline in the same file. The `g` flag defines a global match, replacing all pattern matches.
 
@@ -270,9 +275,9 @@ With using the `/` separator, it is necessary to escape all `/` characters in th
 gsed -i 's,<searchtext>,<replacementtext>,g' file.md
 ```
 
-#### Find and Replace a String in all (Matching) Files
+### Find and Replace a String in all (Matching) Files
 
-##### Using a terminal
+#### Using a terminal
 
 Sometimes a project, URL target or Slack channel is being renamed. You can easily search and edit with the Web IDE on GitLab.com but for other files there is a quick and automated way required.
 
@@ -306,7 +311,7 @@ To cut it down:
 - Verify the changes with `git status` and `git diff` before committing them
 - Commit, push and create the MR from the URL
 
-##### Using Visual Studio Code
+#### Using Visual Studio Code
 
 You can also do bulk find and replace operations using [Visual Studio Code](https://code.visualstudio.com/download) along with the [GitLab Workflow extension for VS Code](https://docs.gitlab.com/ee/user/project/repository/vscode.html). The following steps were used in this [MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/106599) for updating `sub-value` to `operating principle`.
 
