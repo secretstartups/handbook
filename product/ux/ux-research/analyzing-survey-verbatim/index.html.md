@@ -13,8 +13,8 @@ description: "Guidelines for how to analyze survey verbatim"
 [Verbatim are comments that are submitted to open-ended questions](https://goascribe.com/blog/verbatim-coding-for-survey-research/) (e.g.,” Is there anything that you’d like to share with us about GitLab’s usability?”) that are typically asked in a survey where respondents can type in their responses in a free-form format. A verbatim analysis helps us understand different phenomena, like the user experience, by looking for themes across those responses.
 
 The process of analyzing verbatim is usually called “coding”, which is not related to writing a computer program in a programming language but describes the process of assigning codes that represent what a verbatim is trying to communicate.
-- **A code** is a word or phrase that acts as a label for a segment of text.
-- **Coding** refers to the process of labeling segments of text with the appropriate codes.
+- **A code** [is "a word or phrase that acts as a label for a segment of text"](https://www.nngroup.com/articles/thematic-analysis/#:~:text=Definition%3A%20A%20code%20is%20a,a%20hashtag%20describes%20a%20tweet).
+- **Coding** ["refers to the process of labeling segments of text with the appropriate codes"](https://www.nngroup.com/articles/thematic-analysis/#:~:text=Definition%3A%20A%20code%20is%20a,a%20hashtag%20describes%20a%20tweet).
 - **Themes** represent groups of codes that tell us something about the user experience.
 
 There are two different approaches to categorizing verbatims.
