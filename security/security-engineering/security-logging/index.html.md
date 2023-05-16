@@ -50,11 +50,11 @@ The Security Logging Team is not responsible for the logging, monitoring, and al
 
 ## Working With Us
 1. [Create an issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-logging/security-logging/-/issues) in our issue tracker dedicated to Business as Usual (BAU) activities and general inquiries.
-    * It is not necessary to `@mention` anyone. In case you want to mention the whole team, use the TBD handle on GitLab.com.
-    * You can also chat with us on Slack in the dedicated `#security-logging` channel or by tagging us TBD.
+    * It is not necessary to `@mention` anyone. In case you want to mention the whole team, use the @gitlab-com/gl-security/engineering-and-research/security-logging handle on GitLab.com.
+    * You can also chat with us on Slack in the dedicated `#security-logging` channel or by tagging us @security-logging-team.
 
 ### How to contact us
-The Security Logging Team can be contacted in Slack using the `#security-logging` channel, the `#security` channel, or the `#security-department` channel. You can also contribute, commment, view, or interact with us in our [team repo](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-logging/security-logging).
+The Security Logging Team can be contacted in Slack using the `#security-logging` channel, the `#security` channel, or the `#security-department` channel. You can also contribute, comment, view, or interact with us in our [team repo](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-logging/security-logging).
 
 ## How We Work
 We are an internal customer focused and customer driven team. Our customers drive our priorities and help us define our responsibilities. We work to balance this with a risk based approach aimed at reducing and minimizing security risk at GitLab. Additionally, we embrace the DevOps model, software defined infrastructures, a cloud first approach, modular decoupled architectures, self-serviceability, and automate when and wherever possible.
@@ -66,7 +66,7 @@ The team does have set of regular synchronous calls:
 
 * A weekly team sync to discuss progress, blockers, and anything related to the InfraSec team.
     * Everyone in the company is welcome to join.
-    * The [agenda is public within GitLab](tbd) as well.
+    * The [agenda is public within GitLab](https://docs.google.com/document/d/1kFahDB78MSKpIUJX1XG3i8WkD_tSrg3iVk2TFbLa3cI/edit?usp=sharing) as well.
 * A quarterly team retrospective to reflect on what went well in the previous quarter, and discuss what can be improved going forward.
 * 1-1s between Individual Contributors and the Engineering Manager.
 
@@ -80,8 +80,7 @@ We use Epics, Issues, and Issue Boards to organize our work, as they complement 
 * The single source of truth for engineering work is the [Security-Logging Sub-Group in GitLab](https://gitlab.com/groups/gitlab-com/gl-security/engineering-and-research/security-logging/-/epics). **All Epics will be collected at this level**.
 * Having all projects at this level allows us to use a single list for prioritization and enables us to prioritize
 work for different services alongside each other.
-* Projects are prioritized in line with [tbd](tbd) and with the [🎯 tbd](tbd).
-* The [🎯 TBD ](tbd) provide a snapshot of the current progress against each quarter.
+* Projects are prioritized in line with [Security Logging Board](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-logging/security-logging/-/boards/5041378).
 
 #### Team Planning
 
@@ -103,14 +102,13 @@ The owner needs to:
 
 #### Labels
 
-Please use the following labels for **project work only**:
+Please use the following labels for **general work only**:
 
 | Label                       | Use Case                                                        |
 | --------------------------- | --------------------------------------------------------------- |
-| `~"☁️ tbd"`             | Team Label (to be included in every project-related issue)      |
-| `~"tbd::triage"`       | For new issues which need to be triaged                         |
-| `~"tbd::this-quarter"` | For EPICs committed to the current quarter                      |
-| `~"tbd::decision"`     | For issues to be included in the Decision Log                   |
+| `~"☁️ SecLog"`             | Team Label (to be included in every project-related issue)      |
+| `~"SecLog::Incoming-Requests"`       | For new issues which need to be triaged                         |
+
 
 ### Design Documents
 
@@ -124,7 +122,7 @@ To start discussing a new design:
 1. Fill the data as requested
 
 ## Security Logging Program Roles and Responsibilities  
-The following roles and responsibilities are specific to the management and execution of the Security Logging Program which is overall the responsibilty of the Security Engineering sub-department.
+The following roles and responsibilities are specific to the management and execution of the Security Logging Program which is overall the responsibility of the Security Engineering sub-department.
 
 ### Security Logging is responsible for:
 - Ownership of, management, and maintenance of our SIEM
