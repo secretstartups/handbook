@@ -27,7 +27,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 ## Purpose
 
-As new GitLab security controls are identified that need to be implemented by the Security Compliance Team for compliance or regulatory reasons, these controls follow an established process in order to make that implementation successful. 
+As new GitLab security controls are identified that need to be implemented by the Security Compliance Teams for compliance or regulatory reasons, these controls follow an established process in order to make that implementation successful. 
 
 These lifecycle phases are managed via GitLab's governance, risk and compliance (GRC) application, [ZenGRC](https://info.reciprocitylabs.com/). If your GitLab team is interested in using ZenGRC for your risk and compliance needs, please reach out in the GitLab #sec-assurance slack channel.
 
@@ -82,7 +82,7 @@ After testing a decision is made about the controls:
 
 #### Remediation
 
-Remediation is the phase of the lifecycle where required changed are made to the design of the security control or the process of the control's operation. Remediation is either performed by the observation owner or is tracked by the observation owner if the observation remediation is blocked by another GitLab team's work. The Security Compliance Team is responsible for tracking all validated observation and continually reporting on those observations to ensure they are tracked, prioritized appropriately, and escalated as needed to meet the security compliance program goals.
+Remediation is the phase of the lifecycle where required changed are made to the design of the security control or the process of the control's operation. Remediation is either performed by the observation owner or is tracked by the observation owner if the observation remediation is blocked by another GitLab team's work. The Security Compliance Team is responsible for tracking all validated observations and continually reporting on those observations to ensure they are tracked, prioritized appropriately, and escalated as needed to meet the security compliance program goals.
 
 #### Operating
 
@@ -90,7 +90,7 @@ Controls that are tested with no observations noted during that testing activity
 
 Controls in an operating state will still need to be re-tested annually or quarterly (as determined by the risk rating of the control) to ensure no substantive changes have occured which would impact the design or operating effectiveness of that control; controls move from the operating state back into the preparation state to prepare the control for the next iteration of testing.
 
-##### *For a listing of application/systems that are currently in-scope for Security Compliance Testing, reference [FY23 Security Compliance Audit Schedule](https://docs.google.com/spreadsheets/d/1I9PUJxIvaFWwLf-64WPpJwZL6si5RWtnDw8SJn7HfhQ/edit#gid=519103183). Even though [transparency is one of our values](https://about.gitlab.com/handbook/values/#transparency), we are unable to share this document [publicly](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public).
+##### *For a listing of application/systems that are currently in-scope for Security Compliance Testing, reference [FY24 Security Compliance Audit Schedule](https://docs.google.com/spreadsheets/d/16Bd5bYG61RDw5t77_Tte8ykG4YARJa5stK2qcdm2CbI/edit#gid=0). Even though [transparency is one of our values](https://about.gitlab.com/handbook/values/#transparency), we are unable to share this document [publicly](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public).
 
 ## Exceptions
 
@@ -98,8 +98,8 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 
 ## References
 
-- [Information Security Policies](https://about.gitlab.com/handbook/security/#information-security-policies)
-- [Controlled Document Procedure](https://about.gitlab.com/handbook/security/controlled-document-procedure.html)
+- [Information Security Policies](/handbook/security/#information-security-policies)
+- [Controlled Document Procedure](/handbook/security/controlled-document-procedure.html)
 
 <div class="flex-row" markdown="0" style="height:40px">
     <a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Return to the Security Compliance Team Page</a>
