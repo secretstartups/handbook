@@ -46,7 +46,7 @@ In order to open a backfill:
 1. Once the role is approved/decision has been reached and all has been documented in the issue, the recruiter can create a position in Greenhouse for approval and move to the next step of the process. 
 
 
-For the Product and Engineering backfill or transfer process, see this [handbook page](https://about.gitlab.com/handbook/engineering/#rd-backfill--transfer-process). 
+For the Product and Engineering backfill or transfer process, see this [handbook page](https://about.gitlab.com/handbook/engineering/#backfill-headcount-process). 
 
 ### Create or Review the Job Family (DRI: Hiring Manager)
 
