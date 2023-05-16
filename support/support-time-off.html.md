@@ -25,8 +25,6 @@ words of the snow queen, Elsa, "let it go."**
 
 #### Support Time Off calendars
 
-If you regularly handle L&R tickets, please subscribe to the global L&R calendar and relevant L&R regional calendar.
-
 1. Be sure you have access to the
 [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com)
 team calendar.
@@ -50,6 +48,8 @@ team calendar.
    1. [Support OOO - AMER](https://calendar.google.com/calendar/u/0/embed?src=c_rt0g4ptj1nut4045lcgsm21chg@group.calendar.google.com)
    1. [Support OOO - APAC](https://calendar.google.com/calendar/embed?src=c_408bhp8a8j579lqr99j552u21s%40group.calendar.google.com)
    1. [Support OOO - EMEA](https://calendar.google.com/calendar/u/0/embed?src=c_ev56c9rgjd9l1sn291i368jn78@group.calendar.google.com)
+
+1. If you regularly handle L&R tickets, please subscribe to the global L&R calendar and relevant L&R regional calendar.
 
 1. Add the calendars for your SGG and your SGG region, to your own calendar.
    1. In Google Calendar's left-hand side toolbar, scroll down to "Other Calendars". Click the "+" icon and choose "Subscribe to calendar".
