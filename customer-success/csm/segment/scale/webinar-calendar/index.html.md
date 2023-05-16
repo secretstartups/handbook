@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Advanced CI/CD
-##### May 16th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_fFB4CRXUR1qeCPxBXLe8hQ)
-
 #### DevSecOps/Compliance
 ##### May 22nd, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
 
@@ -47,13 +40,6 @@ Come learn about DevOps metrics in GitLab and why it is useful to track them. We
 
 ### APAC Time Zone Webinars
 
-#### Advanced CI/CD
-##### May 16th, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_YRn53UL2SzKdb5uMryOK7w#)
-
 #### DevSecOps/Compliance
 ##### May 23rd, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
 
@@ -63,13 +49,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 
 
 ### EMEA Time Zone Webinars
-
-#### Advanced CI/CD
-##### May 16th, 2023 at 10:00-11:00AM UTC
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_QkvuP0czRfCrWktIl-FNig#)
 
 #### DevSecOps/Compliance
 ##### May 22nd, 2023 at 10:00-11:00AM UTC
