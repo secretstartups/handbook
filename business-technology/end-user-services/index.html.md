@@ -144,13 +144,21 @@ To learn more on how this automation works, check the [IT-Help Slack Issue Creat
 
 - Business Systems Analyst - [Marc Di Sabatino](https://about.gitlab.com/company/team/#marc_disabatino), mdisabatino@gitlab.com, @marc_disabatino
 
-- IT Analyst - Alex Krusiec, akrusiec-ext@gitlab.com, @akrusiec-ext
+- IT Analyst Americas - Alex Krusiec, akrusiec-ext@gitlab.com, @akrusiec-ext
+
+- IT Analyst Americas - [Jeff Ford](https://about.gitlab.com/company/team/#jeffford_), jford@gitlab.com, @jeffford_
 
 - IT Analyst Americas - [Jenny Wong](https://about.gitlab.com/company/team/#jwong6), jwong@gitlab.com, @jwong6
 
+- IT Analyst Americas - Mic Rohr, mrohr-ext@gitlab.com, @mrohr-ext
+
 - IT Analyst APAC -  [Steve Ladgrove](https://about.gitlab.com/company/team/#sladgrove), sladgrove@gitlab.com, @sladgrove
 
-- IT Analyst APAC -  [Max Hirata](https://about.gitlab.com/company/team/#mraetz), mraetz@gitlab.com, @mraetz 
+- IT Analyst APAC -  [Max Hirata](https://about.gitlab.com/company/team/#mhirata-gl), mraetz@gitlab.com, @mhirata-gl
+
+- IT Analyst EMEA - Bruno Ferreira, bferreira-ext@gitlab.com, @bferreira-ext
+
+- IT Analyst EMEA - Eoghan Dunne, edunne-ext@gitlab.com, @edunne-ext
 
 - System Administrator - [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy), malkobaisy@gitlab.com, @malkobaisy
 
