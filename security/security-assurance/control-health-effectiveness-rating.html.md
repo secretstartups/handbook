@@ -31,9 +31,9 @@ Observation risk ratings play a key role in determining how to establish a contr
 
 ### Procedure
 
-<details markdown="1">
-
-<summary><b>Determining the Individual Control Health & Effectiveness Rating (CHER)</b>
+<details>
+<summary markdown="1"><b>Determining the Individual Control Health & Effectiveness Rating (CHER)</b>
+</summary>
 
 #### Risk rating and determining effectiveness
 
@@ -105,11 +105,12 @@ CHER provides a qualitative value of a control's effectiveness that is used as a
   </tr>
 </tbody>
 </table>
+</details>
 
 
-<details markdown="1">
-
-<summary><b>Determining System Health Rating</b>
+<details>
+<summary markdown="1"><b>Determining System Health Rating</b>
+</summary>
 
 #### Quantitative vs. Qualitative Terms and Definitions
 
@@ -157,6 +158,7 @@ CHER is assigned on a control by control basis but in instances where we want to
   </tr>
 </tbody>
 </table>
+</details>
 
 Refer to the System Effectiveness Rating Table below for a mapping of averaged CHERs to the qualitative term and definition that can be used to report on system health/effectiveness. Note that when using this table the final average of CHER values should be rounded **up** to the nearest quantitative value to determine the CHER for the system (i.e if average of all CHER's equals 2.3, the final CHER for the system would be rounded up to a 3)
 
