@@ -26,43 +26,31 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 ## Purpose
 
-Please read through this page to find the most common questions GitLab team members encounter. If you cannot find an answer to your question, please find more information on how to contact us at the bottom of the page. If the team has provided you with an answer that isn't listed here, please submit an MR to add it!
+Please read through this page to find the common troubleshooting questions GitLab Team Members encounter. If you cannot find an answer to your question, please find more information on how to contact us at the (bottom of the page)[https://about.gitlab.com/handbook/business-technology/end-user-services/self-help-troubleshooting/#cant-find-what-you-are-looking-for].
 
-## Scope
+### <i class="fas fa-question-circle" id="biz-tech-icons"></i> Frequently Asked Questions
 
-### <i class="fas fa-question-circle" id="biz-tech-icons"></i> Frequently asked questions
+## Troubleshooting Guides
 
+## Two-factor Authenticators
 
-## Roles & Responsibilities
-
-| Role | Responsibility | 
-|-----------|-----------|
-| GitLab Team Members | Responsible for following the requirements in this procedure |
-| Business Technology | Responsible for implementing and executing this procedure | 
-| Business Technology Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
-
-## Procedure
-
-### Getting a new phone, lost/broken Yubikey or TouchID not working for Okta and Gitlab
+### I can't get into Okta or GitLab with my authenticators
 
 #### Gitlab
 
-- For 2FA related problems for your GitLab accounts, please use your backup codes or try generating [new ones](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#generate-new-recovery-codes-using-ssh).
-- If you are locked out completely reach out in `#it_help` Slack channel
+- Please check any authenticator apps (Google Authenticator, Duo Mobile, Okta Verify, etc.) on your phone that has an entry of gitlab.com:name@gitlab.com.
+- There may be recovery codes in your Downloads folder titled gitlab-recovery-codes.txt, you can enter one of those codes to regain access.
+- If you are locked out completely reach out in **#it_help** Slack channel, an IT Analyst will require a Zoom call to verify that it is you before doing the reset, this is required for security purposes.
 
 #### Okta
 
-WebAuthn is now required for all Okta users. Refer [to these instructions](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) on how to configure
+WebAuthn is now required for all Okta users. Refer [to these instructions](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) on how to configure this.
 
 - If your TouchID, Yubikey or Mobile Authentication is not working make sure your OS and phone is updated to the latest version
 - Try to login with different browsers (Chrome and Safari)
-- Reach out in `#it_help` if all else fails
-- 2FA resets will require a Zoom call with an IT team member who will ask you to hold your government ID with your address (ex. Drivers license) up to your webcam to have us verify your picture and postal address against your Workday postal address. This is for security verification
+- If you are locked out completely reach out in **#it_help** Slack channel, an IT Analyst will require a Zoom call to verify that it is you before doing the reset, this is required for security purposes.
 
-
-
-
-### Clearing Browsing Data in Advanced Settings Below Will Cause Issues With Your WebAuthN (Biometrics/Touch ID)
+#### Clearing Browsing Data in Advanced Settings Below Will Cause Issues With Your WebAuthN (Biometrics/Touch ID)
 
 Do **not do** the following when clearing cache and cookies in Google Chrome as this will clear WebAuthN (Biometrics/Touch ID) browsing data and cause issues logging in:
 
@@ -81,7 +69,7 @@ If you cleared your cache and got locked out please do the following:
 
 Please check out the [following page](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) for information and assistance on setting up WebAuthN (Biometrics/Touch ID)/Phone passkey and Yubikey
 
-### My YubiKey is Entering Codes Into Slack and Sending Them (OTP Touch Options, "Getting Yubikey'd")
+#### My YubiKey is Entering Codes Into Slack and Sending Them (OTP Touch Options, "Getting Yubikey'd")
 
 This is because the OTP function is enabled on your YubiKey. You can avoid this by:
 
@@ -100,31 +88,15 @@ This is because the OTP function is enabled on your YubiKey. You can avoid this 
 ![yk_5](./yk_5.png)
 
 
-### Forgot my password
+## I Forgot My Password
 
-If you require IT to reset your password and it requires immediate access, please reach out on the slack #it_help channel and provide as much information as possible. Password resets to sensitive systems such as your Google Workspace account and Okta. They require a Zoom call with an IT Analyst to verify that it is you before doing the reset, this is required for security purposes.
+If you require IT to reset your password and it requires immediate access, please reach out on the Slack **#it_help** channel and provide as much information as possible. Password resets to sensitive systems such as your Google Workspace account and Okta will require a Zoom call with an IT Analyst to verify that it is you before doing the reset, this is required for security purposes.
 
-### Using Gmail app on phone with Okta log in
-
-Please refer to our GitLab Acceptable Use Policy on [Personal Phones Mobile Phone and Tablet Usage](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage) prior to adding your GitLab Gmail account to your personal device. 
-
-**Please make sure you have your phone enrolled with WebAuthn in your Okta profile. Refer to [this page](https://docs.google.com/document/d/1VVEuNu7pZkNKo0ccLKy88AGonPW3ESYPG1JoFMkMts0/edit#bookmark=id.c85hcbk2nv4) for instructions**
-
-To have Gmail on your phone now that it is controlled by Okta, you must use the actual Google Apps. 
-- Download the official Gmail app made by Google LLC to your phone
-    - iOS: [here](https://apps.apple.com/us/app/gmail-email-by-google/id422689480)
-    - Android: [here](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en_CA&gl=US&pli=1)
-- Add Google account
-- Input your GitLab email
-- Google will redirect to Okta login. Input your Okta username
-- Input Okta password
-- Accept 2FA prompt on your phone
-- All set!
-
+## MacBook Guides
 
 ### New to Mac?
 
-A lot of people coming onboard to GitLab have had some sort of exposure to macOS and Apple hardware, if you are one of those people the below link is probably not for you but you still might learn something!
+Several people have joined GitLab with not a lot of experience with macOS and that's totally okay! Here are some guides from Apple that we found useful.
 
 - [Mac tips for Windows switchers](https://support.apple.com/en-us/HT204216)
 - [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236) - great to help your productivity!
@@ -132,32 +104,10 @@ A lot of people coming onboard to GitLab have had some sort of exposure to macOS
 - [Got an iPad? - Check out Sidecar!](https://support.apple.com/en-afri/HT210380) - Apple iPad Sidecar
 - [How to use multiple workspaces on Mac](https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac)
 
-### How to Erase a Disk for Mac
-
-If you are keeping your GitLab machine [Laptop Buy Back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) it is required that IT wipes the machine and restores it to base OS. We currently use 2 products to accomplish this task and you can read more about this here - [Remote Wipe procedure](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe).
-
-#### Jamf (MacOS)
-
-- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules [here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
-- Make sure all your data is backed up and laptop is powered on and connected to the internet
-- Please refer to your refresh [issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues) which contains further instructions
-
-#### Drivestrike (Linux)
-
-- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules [here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
-- Please refer to your refresh [issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues) which contains further instructions
-
-- We will send you an email which will contain install instructions for Drivestrike
-
 #### Transferring of data to New Mac
 
 - We do NOT recommend the use of Migration Assistant to transfer your data to your new Mac as this will break the connectivity of JAMF
 - Please use GitLab's Google Drive function to back up what is needed and then you're able to download this onto your new Mac
-
-## Self-Help and Troubleshooting Tips
-
-This section should provide some quick and easy troubleshooting tips anyone can do to possibly remedy an IT issue before reaching out.
-This section will be expanding over time so keep an eye out or feel free to contribute if you think something belongs.
 
 ### Built-In MacBook Troubleshooting Commands
 
@@ -189,13 +139,34 @@ Apple's Disk Utility tool can fix some problems such as applications unexpectedl
 
 This is a quick walkthrough on how to check your MacBook's disk and run First Aid, you can follow the guide [here](https://support.apple.com/en-ca/guide/disk-utility/dskutl1040/mac)
 
-### How long is my MacBook in Warranty?
+### How long is my MacBook covered by warranty?
 
 -  Review your Apple Warranty Status [Service and Support](https://checkcoverage.apple.com/)
 
 ### Book an Apple Genius Bar Appointment for repair
 
 If your Apple device is having issues or is broken you can make an Apple Genius Bar Appointment to see if it can be fixed [Apple Genius Bar](https://www.apple.com/retail/geniusbar/)
+
+## Okta
+
+Want to know how as an organization we leverage Okta as a Single Sign On tool? Please click [here](/handbook/business-technology/okta/)
+
+## Google
+
+### I want to access my work Gmail on my phone
+
+Please refer to our GitLab Acceptable Use Policy on [Personal Phones Mobile Phone and Tablet Usage](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage) prior to adding your GitLab Gmail account to your personal device. 
+
+- You will need to follow and complete [this guide](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication-to-okta-for-my-mobile-device-iphoneipad-or-android) before the next steps.
+- Download the official Gmail app made by Google LLC to your phone
+    - iOS: [here](https://apps.apple.com/us/app/gmail-email-by-google/id422689480)
+    - Android: [here](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en_CA&gl=US&pli=1)
+- Add Google account
+- Input your GitLab email
+- Google will redirect to Okta login. 
+- Input your email address and your password to your Okta account.
+- Accept 2FA prompt on your phone
+- All set!
 
 ### Want to add different profiles for your different GitLab accounts?
 
@@ -224,9 +195,24 @@ Please look into the following mailing applications which may prevent this from 
 
 Both of those applications are listed in GitLab's tech stack meaning they can be used.
 
-### Questions about Okta?
+## Laptop Wipes
 
-Want to know how as an organization we leverage Okta as a Single Sign On tool? Please click [here](/handbook/business-technology/okta/)
+### How to Erase a Disk for Mac
+
+If you are keeping your GitLab machine [Laptop Buy Back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) it is required that IT wipes the machine and restores it to base OS:
+
+#### Jamf (macOS)
+
+- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules [here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
+- Make sure all your data is backed up and laptop is powered on and connected to the internet
+- Please refer to your refresh [issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues) which contains further instructions
+
+#### Drivestrike (Linux)
+
+- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules [here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
+- Please refer to your refresh [issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues) which contains further instructions
+
+- We will send you an email which will contain install instructions for Drivestrike
 
 ### Tools and Tips
 
@@ -351,6 +337,7 @@ Once this is complete you can then install OS by clicking on Reinstall macOS fro
 
 ![ventura-install.png](./ventura-install.png)
 
+<!---
 ## Enrolling your Chromebook into GitLab Google Device Management
 
 1. Turn on your Chromebook, connect it to a network and follow the on-screen instructions until you see the **Who's using this Chromebook** screen. Don't sign in yet. 
@@ -359,7 +346,8 @@ Once this is complete you can then install OS by clicking on Reinstall macOS fro
 4. Once you successfully input your registered Gitlab email address a Okta prompt should appear. You should now enter the email address and password you use for Okta. Afterwards you should be prompted to input a 2FA code or verify a push notification
 5. When you get a confirmation message that the device is successfully enrolled, click Done.
 6. Lastly, you should be prompted one final time to **Sign in to your Chromebook**. Click next and repeat the steps above. (input Okta email and password + 2FA or push notification)
-7. Congrats! You have now completed your sign in an enrollment. 
+7. Congrats! You have now completed your sign in an enrollment.
+--->
 
 ## Can't find what you are looking for?
 
