@@ -32,13 +32,13 @@ An endpoint is any device that is physically an endpoint on a network. These can
 
 ## What is endpoint management?
 
-End-point management is used to protect the corporate network when accessed via remote devices such as laptops. Each laptop with a remote connection to the network creates a potential entry point for security threats.
+Endpoint management is used to protect the corporate network when accessed via remote devices such as laptops. Each laptop with a remote connection to the network creates a potential entry point for security threats.
 
 ## Scope
 
 ### Endpoint management at GitLab
 
-At GitLab, we plan to use centralized laptop management for company-issued laptops. If you are in possession of a company-issued laptop, the details below apply to you. However, not all endpoint management technologies GitLab deploys will be required for Apple, Linux, and Windows laptops. Some technologies may be specific to the hardware platform or operating system. Please review the details of each technology for more information and details. 
+At GitLab, we use centralized laptop management for company-issued laptops. If you are in possession of a company-issued laptop, the details below apply to you. However, not all endpoint management technologies GitLab deploys will be required for Apple, Linux, and Windows laptops. Some technologies may be specific to the hardware platform or operating system. Please review the details of each technology for more information and details. 
 
 ## Roles & Responsibilities
 
@@ -48,29 +48,19 @@ At GitLab, we plan to use centralized laptop management for company-issued lapto
 | Business Technology | Responsible for implementing and executing this procedure | 
 | Business Technology Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
-## Procedure
 
-### Expectation and success criteria
-
-Our expectation are that all Team Members will be using a GitLab sponsored device and that we will find that at least 10% of our MacBook devices lack harddrive encryption and 5% of the operating systems are not at the current patch level. 
-
-If the number of encrypted drives is below 2% and the number of out of date OS is below 1% we will re-consider making end-point management required for all Mac OS users.
-
-After assessing our endpoints it was determined that the number of encrypted devices and the number of out of date OS was falling outside of our acceptable percentages. As a result, Gitlab has decided to move forward with implementing and enforcing end-point management as a requirement for all Mac OS users.  
-
-
-### Why is this necessary?
+## Why is this necessary?
 
 In order to achieve compliance with frameworks such as SOX (required as part of public company readiness), [SOC](https://www.aicpa.org/content/dam/aicpa/interestareas/frc/assuranceadvisoryservices/downloadabledocuments/trust-services-criteria.pdf), and in preparation of [FedRAMP](https://www.fedramp.gov/assets/resources/documents/FedRAMP_Security_Assessment_Framework.pdf) and [ISO 27001](https://www.isms.online/iso-27001/annex-a-8-asset-management/), certain protections of company assets are mandated.
 
-Given that transparency is so ingrained in our culture, the risk of any laptop having confidential or PII data is high (e.g. Slack contains team-member phone numbers).
+Given that transparency is so ingrained in our culture, the risk of any laptop having confidential or PII data is high (e.g. Slack contains team member phone numbers).
 
 Additionally, to meet the rigorous security requirements of enterprise customers who desire to use our service, a combination of endpoint management solutions is necessary. We have to select endpoint management solutions that will accomplish the following:
 
 1. Allow for software to be remotely deployed without requiring manual installation
 1. Maintain asset inventory of all GitLab owned devices
 1. Software license management
-1. Enable confirmation that whole disk encryption has been enabled (using the Mac OS built-in FileVault feature)
+1. Enable confirmation that whole disk encryption has been enabled (using the built-in capabilities of macOS and Linux)
 1. Provide the ability to remotely wipe a device that has been lost or stolen
 1. Allow for the configuration of security features such as required passwords and OS updates
 1. Automatically identify and stop digital attacks on endpoints
@@ -92,6 +82,9 @@ Jamf is an Apple device management solution used by system administrators to con
 
 SentinelOne is an endpoint detection and response technology used to secure and protect endpoints from malicious digital attacks. For more detail, please review the [Endpoint Detection & Response page](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/).
 
+### DriveStrike
+
+DriveStrike is a lightweight device management solution for Linux that can remotely wipe devices. It also can be used to wipe macOS devices in the event Jamf is unable to do so. For more detail, please review the [DriveStrike page](https://about.gitlab.com/handbook/it/guides/drivestrike/)
 
 ## Exceptions
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
