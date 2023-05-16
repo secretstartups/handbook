@@ -128,17 +128,15 @@ The following metrics and definitions are the core of how GitLab performs benchm
 | **UMUX lite** |  Canonically, UMUX lite is a 2-question survey that measures perceived usefulness and usability of a system or product. For benchmarking at GitLab, we tend to use it to measure usability against the specific JTBD in our study. |  Collected once per JTBD at end of session.  |    1 question, on a 7-point Likert scale from strongly disagree to strongly agree.    | On a scale of 1-7, where 1 is strongly disagree and 7 is strongly agree, how much to do agree with the statement, "This system helps me perform (insert description of JTBD here)" |
 
 #### Notes on scoring and metrics
-Scoring task success vs. failure:
-- If the participant has met the task criteria, mark the task as a **success**.
-- If a participant believes they have finished the task, but they **have not met the completion criteria**, mark the task as **failure**. 
-- If a participant believes they have not completed the task, but they **have** met the completion criteria, mark the task as **success**.
+If participants _don't meet_ the completion criteria for the task:
+- **Do not** enter time on task for that participant on that specific task. We want to measure the time it takes to successfully complete each task. 
+- **Do** include the CES score and error count. We want to understand the experience for everyone who completed the task. 
+- Mark the task as **incomplete**, even if a participant believes they have finished the task, but they **have not** met the completion criteria. 
+- Mark the task as **incomplete**, even if a participant believes they have NOT completed the task, but they **have** met the completion criteria.
+     
 
-What data to include when you calculate task metrics: 
-- If a participant does not meet the completion criteria for the task, **do not enter time on task for that participant** on that specific task. We want to measure the time it takes to successfully complete the task and therefore don't want to include the times for participants who didn't complete each task. 
-- **Do include the CES score and error count for all participants**. We want to understand the experience for everyone, regardless if they successfully completed the task.  
-
-For the per-task metrics:
-- Report time on task metrics with a 95% confidence interval, unless you have a clear reason to do otherwise.
+For per-task metrics:
+- Report all metrics with a 95% confidence interval, unless you have a clear reason to do otherwise.
 - For completion rate, use the [adjusted Wald calculation](https://measuringu.com/calculators/wald/#:~:text=It%20uses%20the%20Wald%20Formula,of%201.96%20or%20approximately%202.) for the confidence interval.
 - For time on task, use a natural log calculation for confidence interval, and report geometric mean rather than the median as a recommended [best practice](https://measuringu.com/calculators/time_intervals/). 
 - Precisely defining and accurately counting errors is **tricky** and does not always need to be performed. If you plan to do it, you must be very clear about the definition for errors in your tasks. 
