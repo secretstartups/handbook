@@ -193,6 +193,10 @@ This is a quick walkthrough on how to check your MacBook's disk and run First Ai
 
 -  Review your Apple Warranty Status [Service and Support](https://checkcoverage.apple.com/)
 
+### Book an Apple Genius Bar Appointment for repair
+
+If your Apple device is having issues or is broken you can make an Apple Genius Bar Appointment to see if it can be fixed [Apple Genius Bar](https://www.apple.com/retail/geniusbar/)
+
 ### Want to add different profiles for your different GitLab accounts?
 
 It is recommended that you create different profiles in Chrome so you can manage your different GitLab accounts (production, dev, staging, etc.). This way you can easily sign in without having to signout out of different accounts each time. You can follow this guide to create different Google Chrome [profiles](https://support.google.com/chrome/answer/2364824?hl=en&co=GENIE.Platform%3DDesktop)
