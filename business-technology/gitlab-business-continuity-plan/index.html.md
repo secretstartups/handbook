@@ -83,8 +83,14 @@ Both GitLab.com and customers.gitlab.com are hosted on Google cloud platform. De
     - Solution(s): The team is distributed geographically (except during team get-togethers). Customer emergencies are handled by _any_ person who is in the [on-call rotation](/handbook/on-call/). The on-call load is distributed at many levels, service engineers, production engineers, and even developers can be summoned when we have an outage or a customer incident. Emergencies also trigger automatic notifications on our internal chat system, alerting the entire company. There is also an ongoing effort to publish our [runbooks](https://gitlab.com/gitlab-com/runbooks), explaining how we manage our infrastructure and how we deal with outage cases.
 
 1. Disruption of service of ZenDesk.
-    - Effect: support workflows are disrupted. New tickets cannot be created, existing tickets cannot be responded to.
-    - Solution(s): For the duration of the outage (if more than e.g. 4 hours) temporarily re-route incoming support requests to individual email accounts of members of the support team. Customers with premium support also have access to a direct chat channel.
+    - Effect: support workflows are disrupted. New tickets cannot be created,
+      existing tickets cannot be responded to.
+    - Solution(s): If the outage has lasted for more than 4 hours, Support will
+      update the GitLab status page to indicate the support system is down and
+      to direct all requests to a temporary inbox. Support agents will work via
+      this inbox for the duration of the outage. Agents will log the emails
+      worked. After service is restored, Support Readiness will work to get the
+      data from the emails back into the support system.
 
 **P2: Outage would have immediate impact on GitLab ability to continue business**
 Malicious Software attack and hacking or other Internet attacks.
