@@ -62,14 +62,14 @@ Simply add all your filters as described above in the LinkedIn Recruiter sourcin
 
 You can download several profiles in bulk in an XLS file and you can run your searches in the spreadsheet. For this, click on the blue “Export” button on the top of your search results in the “All candidates” section of a search result tab.
 
-## Re-engagement 
+### Re-engagement 
 The recommended process of re-contacting candidates:
 
 1. Re-contacting a candidate for the same/another position if the candidate failed in the previous interview process: we suggest other TA member re-contact them after 6+ months from the time of their last interview. Please consult with the other TA member who contacted/recruited them previously and discuss the case, if needed.
 2. Re-contacting the candidate for the same/another position if they haven't responded to the past inmails: the recommended time to contact the candidate again is around 3 months. Please consult with the other TA member who contacted them previously and discuss the case, if needed.
 
 ### For GitLab Team Members
-If you are a Hiring Manager on a open role, your recruiter will partner with you to ensure you have a good action plan for building a passive candidate pool for your role. Some of the best results come from active collaboration in building a passive candidate pool, and we welcome you to start by contributing to our sourcing effforts. 
+If you are a Hiring Manager on a open role, your recruiter will partner with you to ensure you have a good action plan for building a passive candidate pool for your role.
 
 Sourcing vs. Referrals: If you **know** a candidate from school, previous companies, seminars... even among your neighbors or family members - the best next step is to submit them as a referral by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-talent-acquisition/referrals/-/issues/new?issuable_template=Referral%20Submission). More information about the **Referrals** can be found on the [Referral Process](/handbook/hiring/referral-process/) page.
 
