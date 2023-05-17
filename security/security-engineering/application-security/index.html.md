@@ -41,7 +41,7 @@ Please see the [Application Security Job Family page][6].
 * [Overview of a project member permissions](https://gitlab.com/help/user/permissions)
 * [The DevOps stages and their different groups](https://about.gitlab.com/handbook/product/categories/). This page contains information on the development teams, their areas of focus, and their team members as well as the AppSec stable counterparts. It is used to assign issues to the stable counterparts.
 * [The product features listed by groups that own them](https://about.gitlab.com/handbook/product/categories/features/)
-* [List of merged security issues in `gitlab-org`](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=merged&label_name%5B%5D=security&milestone_title=%23upcoming&not%5Blabel_name%5D%5B%5D=security-awards%3A%3Aawarded&not%5Blabel_name%5D%5B%5D=security-awards%3A%3Anomination), particularly useful to nominate issues for the [Security Awards Program](/handbook/security/security-awards-program.html). **Note:** It can include results from the security mirror `gitlab-org/security/`.
+* [List of merged security issues in `gitlab-org`](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=merged&label_name[]=security&milestone_title=%23upcoming). **Note:** It can include results from the security mirror `gitlab-org/security/`.
 
 The list above is not exhaustive and is subject to be modified as our processes keep evolving.
 
