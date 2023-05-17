@@ -67,6 +67,8 @@ Some of our GitLab team-members in the Netherlands have a "werkvergunning" or wo
 - Work permits must be renewed at the end of each contract period, but at minimum once every 5 years.
 - At the time of applying for permit renewal, the application must satisfy various criteria including an age-dependent [minimum salary requirement](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx) (with a step at age 30, also see this [handy table](https://ind.nl/en/required-amounts-income-requirements#application-to-work-as-a-highly-skilled-migrant-and-for-the-european-blue-card)). This requirement should be taken into consideration when issuing a new contract, since the contract can be made valid for just a year or for an indefinite period; thus triggering more or less frequent re-applications for work permit extensions. Permit extensions cannot be applied for when the current permit is still valid for more than 6 months.
 
+Here is a [generally but not authoritative helpful guide](https://www.expatica.com/nl/moving/relocation/leaving-the-netherlands-108416/) on considerations around permit extensions.
+
 The IND (Dutch immigration services) in general take about 4 to 6 weeks’ time to make a decision on the renewal application, but officially they have 90 days to decide.
 
 1. Some important notes before you arrange travel / depart to the Netherlands:
