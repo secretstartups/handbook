@@ -5,18 +5,18 @@ RoleName: "Japan Country Manager"
 
 At GitLab, we are fundamentally changing the way our customers get their software to market by putting the entire DevOps lifecycle into a single application. With over 100,000 organizations using the product, GitLab is one of the fastest growing companies in technology. We make our customers successful in achieving their business outcomes with the GitLab product as they move to truly modern DevOps. We know that our customers trust GitLab to take their ideas all the way from plan to shipped product in production. We take that responsibility seriously. We have an incredible existing and rapidly growing customer base with a passionate, supportive open-source community and incredibly talented teams located in 40 countries focused on supporting them.
 
-We're looking for an experienced leader to lead GitLab’s Enterprise go to market efforts in Japan. As Japan Country Manager, you will be responsible for bringing your strategic vision and innovative approach to build a high-performing sales team into a destination for top sales talent. Reporting to the Vice President of Enterprise Sales, you will play a key role in hiring and leading the Japan Enterprise Sales team, driving leads, new and expansion revenue, service delivery, customer goals, and market expansion to deliver massive value to our customers and to GitLab.
+We're looking for an experienced leader to lead GitLab’s Enterprise go to market efforts in Japan. As Japan Country Manager, you will be responsible for bringing your strategic vision and innovative approach to build a high-performing sales team into a destination for top sales talent. Reporting to the Chief Revenue Officer, you will play a key role in hiring and leading the Japan Enterprise Sales team, driving leads, new and expansion revenue, service delivery, customer goals, and market expansion to deliver massive value to our customers and to GitLab.
 
 If you have an action mindset and are excited by the idea of quickly scaling a rapidly growing region, this is a rare opportunity to join a bold, fast-moving, transparent, values-driven leadership team and company while engaging with some of the best partners in the world.
 
 ## Job Grade
 
-The Country Manager is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Country Manager is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibiltiies
 
 - Establish and execute GitLab’s enterprise sales strategy in Japan to build and grow GitLab’s presence and to achieve business targets. Gather market data and identify untapped market potential.
-- Recruit, onboard, and develop a results-focused enterprise sales team; foster a successful and positive team environment.
+- Recruit, onboard, and develop a results-focused enterprise sales team and cross functional resources; foster a successful and positive team environment.
 - Work closely with regional channel marketing managers, XDR leadership, and product managers to align on and execute GitLab’s Japan sales strategy.
 - Educate team on significant industry factors including competitive products, regulations, trends, customer needs, and pricing.
 - Prepare forecasts, territory/industry management, and growth plans.
