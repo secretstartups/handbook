@@ -176,7 +176,7 @@ No, not at this time.
 | July 3     |  Available | |
 | July 10    |  Available | |
 | July 17    |  Available | |
-| July 24    |  Available | |
+| July 24    |  [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
 | July 31    |  Available | |
 | August 7   |  [Julia Lopez](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadow -  Manager for Animation & Gaming Technical Support at [Netflix](https://www.netflix.com)  |
 | August 14  |  Available | |
