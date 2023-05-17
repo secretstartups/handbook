@@ -298,56 +298,6 @@ More information to come soon!
 11. Change all the fields labeled “True” to an “X.” 
 12. Save the spreadsheet as a .csv file, and attach that to the email to the partner.
 
-
-## Letters of Authorization (LoAs)
-A Partner must be at least [Open Compliant](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#training--certification-requirements-for-transactions-deal-registrations-nfrs-and-letters-of-authorization-loas) before they can receive a Letter of Authorization from GitLab. 
-
-Compliant Partners can request LoAs directly from the portal (this process is also documented in the partner guide):
-1. Go to partners.gitlab.com → Support → Letter of Authorization
-2. The partner will be sent to DocuSign to add in their company name. When they hit submit, it starts a chain of events:
-   - DocuSign sends an email to PHD to confirm that the partner is authorized. Once this is done…
-   - DocuSign sends an email to Legal to confirm whatever legal stuff they need to confirm. Once this is done…
-   - DocuSign sends a completed Letter of Authorization to the partner who requested it, and an email to PHD alerting us that it has been completed.
-
-The PDF of the authorization letter can be downloaded at any time, but it will not have the date or legal stamp on it until Legal approves it. Since there are manual approvals, it may take a bit. SLA is 2 business days. 
-
-### Approving Letters of Authorization
-When a partner requests a Letter of Authorization, an email will be sent to the Partner Support email box with the subject line, “ GitLab LOA: [Name of Person Requesting LoA].”
-1. Click on the “Review Document” link in the email to open DocuSign.
-2. Open the document and view the _company_ name on the document. 
-3. Open Salesforce and input the name of the company in the search bar. Hit enter. 
-4. In the “GitLab Partner Program Info” section of the Partner Account record, check the `Partner Status` field says “Authorized.” 
-5. Open the [GitLab Certification Tracking Dashboard V2.0](https://docs.google.com/spreadsheets/d/1PnjHrOtZAYlkQpNoSsAzNt0sT1oZh76Xy2x33CfCQ9k/edit?pli=1#gid=1799234939) and navigate to the “Certifications by Partner” tab. 
-6. Use the CMD+F function and search the name of the partner organization.
-7. Look to Column G, “Open Reqs Met?” and confirm the field says “Yes.”
-8. In DocuSign, click the “Approve” button.
-9. Add the “LOA” tag to the email.
-
-### Denying Letters of Authorization
-Follow the steps for [Approving a Letter of Authorization](include link when available). If, during the process, any of the following happen, you must deny the letter:
-- Partner Status is _not_ authorized
-- Open Reqs Met is _no_
-
-To Deny the Letter of Authorization
-1. In DocuSign, click the “Other Actions” button, and choose “Deny to Sign” from the options that become available.
-2. Confirm denial.
-3. In the box that appears, refer to the [PHD Common Response Template](https://docs.google.com/spreadsheets/d/1iPJh3sP6p3fc_FfJPe7d5uzWThe6FJ5W_3arGFm2Dj4/edit?usp=sharing) row for “LoA Denial in DocuSign.”
-4. Press “Confirm.
-5. Open a new email from the Partner Support email box, and address it to the person whose name came with the LoA request. Copy partnersupport@gitlab.com and the Channel Manager assigned to the account. 
-6. Refer to the [PHD Common Response Template](https://docs.google.com/spreadsheets/d/1iPJh3sP6p3fc_FfJPe7d5uzWThe6FJ5W_3arGFm2Dj4/edit?usp=sharing) row for “LoA Denial.” Copy the provided subject line and text into the email. Personalize the email with the partner name and any other pertinent information. Do not forget to update the “trainings needed” section in the body of the email. 
-7. Hit Send.
-8. Add the “LOA” tag to the email.
-
-### LoAs for Partners with Specific Needs
-If a partner needs a tailored LoA, have the Channel Manager open an SFDC case by navigating to the partner account record and clicking "Legal Request."
-
-### Reporting a Problem with LoAs
-To report a problem with the LoA process, open an issue on the Legal Channel's project, and tag Kristen Tesh, Jade Allum, and Matthew Taylor.
-
-
-## Partner Support Google Group Management
-More information to come soon!
-
 ### Setting an Out of Office response on the Partner Support box:
 
 1. In the Partner Support box, go to Group Settings/
