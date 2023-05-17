@@ -158,7 +158,7 @@ graph TD;
 
 **Manager Process**
 
-1. Please submit as a [One Time Payment](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit) in Workday.
+1. Please submit as a [One Time Payment](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit) in Workday. Make sure to write in the `Additional Information` box what the working group bonus is for.
 
 **Approval Process:**
 
