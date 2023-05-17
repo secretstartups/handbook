@@ -238,102 +238,14 @@ After Field Marketing has run a campaign, the Field Marketing Manager is respons
 
 # ROI tracking for Field Marketing
 
-For a complete picture of GitLab Marketing Metrics, please refer to our [Marketing Metrics page](/handbook/marketing/strategy-performance/marketing-metrics/).
-
-This section will go into specifics on the workflow for a Field Marketer to check their results.
-
-At the highest level, Field Marketing is responsible for helping to progress MQLs with the rest of the Integrated Marketing team. Those MQLs will ultimately create [Sales Accepted Opportunities](/handbook/marketing/sales-development/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity) by the Sales Development team.  We also track campaign contribution to the sales pipeline as well as velocity of the opportunities that interact with our campaigns.
-
-## The Field Marketing Dashboard
-Our FMM Dashboard lives in the SAFE Intermediate space within the platform and provides an overview on the performance of the Field Marketing programs.
-
-- [Field Marketing Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965060/Field-Marketing-Metrics-(V2---WIP))
+For complete instructions on FMM ROI, [please see here](https://about.gitlab.com/handbook/marketing/strategy-performance/marketing-metrics/#field-marketing-metrics). 
 
 ## Adding SFDC Campaigns to Leads for Attribution
 
 For instructions on how to add a SFDC campaign to a lead for attribution, please watch this two minute [instructional video](https://youtu.be/IYzkR3h4Ajo) (you must be signed into GitLab Unfiltered to view).
 
-## Useful Links
-This section provides links to relevant reports that may live outside of the Field Marketing Dashboard.
-- [Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution)
-- [FMM Weighted ARR Contribution](https://gitlab.my.salesforce.com/01Z4M000000oYas) - SSOT lives in Sisense. The SFDC version exists to allow further drill ins.
-- [Digital spend Dashboard via PMG Agency country detail](https://datastudio.google.com/u/0/reporting/1NL1FxHvoXRul4vlQJCVfWWfwsu8Jz1XZ/page/kmnGB)
-- [Field Marketing Specific digital spend Dashboard via PMG agency](https://datastudio.google.com/reporting/17t7s-cbcFUghpBHD1xlU8hBe8P7IHZGK/page/mPgDB)
-- [SAOs accepted by last touch = Field Marketing Campaigns](https://gitlab.my.salesforce.com/00O4M000004FYB0)
-- [Sales Pipeline Report stages 1-3](https://gitlab.my.salesforce.com/00O4M000004aJh9)
-- [WW SFDC Field Marketing Digital Report](https://gitlab.my.salesforce.com/00O4M000004aA0V)
-- [Workshop attendance rates](https://gitlab.my.salesforce.com/00O4M000004aXke) - note, if you want to see attendance rates by a different tactic, just modify the report!
-- List of campaign members with Outreach stages listed - to help facilitate the FMM<>SDR convo on lead status follow-up. If you are a FMM reading this, then we suggest you add `Campaign Owner Name` to filter to your specific campaigns. Feel free to play around with the filters and save your own copy as well!
-   - [AMER FMM Campaign Members](https://gitlab.my.salesforce.com/00O4M000004aNoL)
-   - [APAC FMM Campaign Members](https://gitlab.my.salesforce.com/00O4M000004aQLL)
-   - [EMEA FMM Campaign Members](https://gitlab.my.salesforce.com/00O4M000004aQLV)
-- [FY23 SFDC reporting fields](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/100#important-fields-for-fy23-reporting)
-
-### Field Marketing ROI to GitLab Channel
-GitLab Field Marketing receives `credit`for the Partner Sourced Opportunity if the opportunity has a Bizible touchpoint from the FMM campaign.
-
-* [Sisense Marketing influenced opportiunity report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/983640/WIP:-Partner-Sourced)
-* [Sisense Leads passed to the parnter report](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/992265/WIP:-Partner-Lead-Status)
-
-#### Back up SFDC leads passed to partner report
-* [Leads](https://gitlab.my.salesforce.com/00O4M000004enu7)
-* [Contacts](https://gitlab.my.salesforce.com/00O4M000004enuC)
-
-Please clone and modify the reports based on the campaign name you are wanting to dig into. Reminder that SFDC treats leads and contacts separetely, so you'll need both a leads and a contacts report to see full picture.
-
-#### Back up SFDC detailed reports
-We have 3 reports we use that shows different types of contribution to the GitLab channel program.
-
-* [FMM_DP_Channel_AllCampaigns](https://gitlab.my.salesforce.com/00O4M000004opQ0) - Field Marketing Deal Path = Channel. Field Marketing impact on all deal path = Channel. Includes MORE than just channel generated opps & regardless if a specific channel partner was directly involved with campaign.
-* [FMM_SQS_Channel_Generated](https://gitlab.my.salesforce.com/00O4M000004opqh) - Field Marketing Sales Qualified Source = Channel. FMM impact on Deal path = channel AND channel generated opps and regardless if a specific channel partner was directly involved with campaign.
-* [FMM CAMPAIGNS specific impact DP channel](https://gitlab.my.salesforce.com/00O4M000004opqr) - Field Marketing Campaigns impact to Deal Path = Channel.  Opp Deal path = Channel - Impact from FMM campaigns runs specifically with channel.
-
-The above reports are Bizible attribution reports at the person level, you will need to understand how many unique opportunies are in your report. In order to do this, you will download the report from SFDC, and then upload into google sheets, then use the unique count formula (=countA(unique(B:B)),where counta = the bizible touchpoint ID & unique B = the name of the opportunity.
-
-[Example SFDC report](https://gitlab.my.salesforce.com/00O4M000004opfA) and an [example google sheet](https://docs.google.com/spreadsheets/d/12vKuafod5__ORqv0bCGiasMr1ANPlzPUY_95RN6Pwr0/edit#gid=48544605&range=P1) with the forumla.
-
-* [Records passed to partners](https://gitlab.my.salesforce.com/00O8X000008RSHg) - As part of our [campaigns we run jointly with channel partners](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events), we would like to understand the status of records we've passed to partners, this report give us that insight.
-
-### Contribution to sales pipeline
-
-This can be calculated by heading to the [Marketing Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution). NOTE: Ensure you’ve got your filters properly dialed in.
-* Default to setting the opportunity created date to the current fiscal year - to pull the data you'd like to report out on
-* It takes about 15 days for MQLs<>SAO, therefore pull the campaigns report
-
-### How to track the ROI of an in person event
-
-- SAOs accepted - Reference the SAO accepted SFDC report.
-- Contribution to pipeline - Reference the Linear Attribution dashboard.
-
-If you spent money on digital ads to drive registration, then you’ll also want to check on the ROI of your spend. Head down to the How to track the ROI of your Digital Tactics section, which is relevant for all digital spend.
-
-### How to track the ROI of your Digital Tactics
-
-#### 3rd Party digital agency
-
-In order to track engagement for any work we do with on the digital side of the house, a campaign UTM code will be created by the DMP team. The DMP team uses this UTM code to create a SFDC UTM Report. Please note a SFDC UTM Report is not the same as a SFDC Campaign (which pulls in registrations for events, webinars and content syndication leads). It is a dedicated report for our paid digital efforts only. For more information on UTM's at GitLab [can be found here](/handbook/marketing/integrated-marketing/digital-strategy/digital-strategy-management/#utm-tracking).
-
-You will follow this process when you are working with our 3rd party digital agency to serve your target audience ads/LinkedIn InMails.
-
-At the highest level, it's interesting to see the spend, clicks, impressions, CPC (cost per click), inquiries, and CPI (cost per inquiry). This is done by going to the Field Marketing Specific digital spend Dashboard via our digital team, linked in the `Useful Links` section and searching for your campaign using the campaigns UTM code. Here is the report as well, because we know sometimes you just want the link in the exact place you are looking for it in ;) . [WW SFDC Field Marketing Digital Report](https://gitlab.my.salesforce.com/00O4M000004aA0V)
-
-Inquiries (people who end up registering for your event or engaging with your ad) are the most important to look into and really the status of them attending your event or interacting with your campaign, eventually leading to an SAO and then pipeline!
-
-If you were driving people to register for something, then hop over to your SFDC campaign. Then go down to the `Custom Links` section and click on the `View All Campaign Members` report.
-
-You’ll then want to sort by `Ad Campaign Name (FT)`, which answers the question “What was the 1st touch ad this record interacted with?” and also the `Ad Campaign Name (LC)`, which answers the question “What ad created this lead?”.
-
-If you did not have a specific SFDC Campaign you were driving to, and you wanted to see the success of your campaign, then you would still refer to the [WW SFDC Field Marketing Digital Report](https://gitlab.my.salesforce.com/00O4M000004aA0V), add in your campaigns UTM there, using the filter `Ad Campaign Name` [contains] and add your UTM.
-
-Please note that whilst you can track leads via SFDC campaigns or UTM reports, pipeline generated should be viewed on [Sisense](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965070/WIP:-TD-Attribution) only, as SFDCs last touch model is different from our multi touch attribution model.
-
-#### How to trouble shoot your ROI questions
-If you have a quick 1 off question on reporting, then please feel free to ask the question in the #fieldmarketing slack channel.
-
-If you have several questions or a more robust analysis of data you'd like help with, please open a [FMM leadership request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=leadership_request) and assign it to your manager. Your manager will review and will pull in the Director or other folks as needed.
-
-#### Field Marketers within SFDC
-To help with reporting within SFDC, each Field Marketing Manager is assigned the accounts based on SAE/AE assignment. Field Marketing has decided to align with the SAE/AE vs. 100% geo focused in an effort to foster collaboration.  The assignments are done through [Traction Complete](/handbook/marketing/marketing-operations/traction-lead-complete), which is our lead routing tool.
+## Field Marketers within SFDC
+To help with reporting within SFDC, each Field Marketing Manager is assigned the accounts based on SAE/AE assignment. Field Marketing has decided to align with the SAE/AE vs. 100% geo focused in an effort to foster collaboration.
 
 Routing for geo reps is done through zip codes worldwide. Named accounts and the US Public Sector are manually handled differently. Sales Ops will run monthly audits to update PubSec and Named accounts. Field Marketing Management works with Sales Ops to keep this information up to date.
 
@@ -1083,7 +995,7 @@ All campaigns we are working with channel partners must flow through the outline
 
 ### Tracking success of FMM campaigns with Channel
 
-Please refer to the [Channel ROI section](/handbook/marketing/field-marketing/#field-marketing-roi-to-gitlab-channel).
+Please refer to the [Field Marketers within SFDC](/handbook/marketing/field-marketing/#field-marketers-within-sfdc) section.
 
 ### Useful Fields in SFDC that relate to Vartopia
 1. Please refer to [this handbook page](/handbook/marketing/marketing-operations/vartopia/#partner-prospect-admin) for further details.
