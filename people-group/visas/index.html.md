@@ -12,7 +12,7 @@ description: "Information on travel visas, visa letters, and immigration to the 
 
 ## Visas and Sponsorship
 
-GitLab does **not** offer any form of work or study sponsorship anywhere in the world, other than our specific, internal [Netherlands](/handbook/people-group/visas/#right-to-immigrate-to-the-netherlands) process. GitLab does **not** offer any form of support to transfer an existing work permit. During the [screening process](/handbook/hiring/interviewing/#what-to-expect-during-an-interview-with-a-recruiter), recruiters will ask applicants if they require any type of sponsorship or support.
+GitLab does **not** offer any form of work or study sponsorship anywhere in the world, other than our specific, internal [Netherlands](/handbook/people-group/visas/#right-to-immigrate-to-the-netherlands) process and support for highly skilled candidates in _certain_ countries, where a candidate is already based in that country. GitLab does **not** offer any form of support to transfer an existing work permit. During the [screening process](/handbook/hiring/interviewing/#what-to-expect-during-an-interview-with-a-recruiter), recruiters will ask applicants if they require any type of sponsorship or support.
 
 # Travel Visas
 
@@ -147,7 +147,52 @@ Here is a [document written by a GitLab team member](https://docs.google.com/doc
 
 Sid and Marin discuss the history of GitLab's right to immigrate to the Netherlands.
 
-## EU Blue Card Germany
+## Highly Skilled Candidates (Ireland and EU Blue Card Germany processes)
+
+### Critical Skills Employment Permit Ireland
+
+GitLab may be able to offer employment agreements to highly skilled candidates seeking employment already in Ireland, who apply for, or already hold, a [Critical Skills Employment Permit](https://enterprise.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/), where the relevant role falls into a category listed on the [Critical Skills Occupations List](https://enterprise.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Employment-Permit-Eligibility/Highly-Skilled-Eligible-Occupations-List/) or a salary threshold is exceeded. 
+
+Please note: GitLab does not cover any costs for the application nor does it guarantee the issuance of the Critical Skills Employment Permit.  The employment agreement offered will include the condition that the candidate will hold the sufficient right to work and if a permit is required that they will be able to obtain the permit.  If the critical skills employment permit application is refused, the employment agreement would be rescinded. Permit holders may apply to the Irish Naturalisation and Immigration Service for permission to reside and work without the requirement for an employment permit upon completion of the Critical Skills Employment Permit’s duration.
+
+#### The eligibility criteria
+
+Occupations with a minimum annual remuneration of €32,000 for a restricted number of strategically important occupations contained in the Critical Skills Occupations List a relevant degree qualification or higher is required.
+All occupations with a minimum annual remuneration of over €64,000, other than those on the [Ineligible List of Occupations for Employment Permits](https://enterprise.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Employment-Permit-Eligibility/Ineligible-Categories-of-Employment/) or which are contrary to the public interest. A non-EEA national who does not have a degree qualification or higher, must have the necessary level of experience.
+The prospective employee concerned must have secured a 2-year job offer in respect of the eligible occupation from the prospective employer. 
+
+#### Further criteria include:
+
+The prospective employee concerned must possess the relevant qualifications, skills and experience that are required for the employment.
+An employment permit will not be granted to companies unless 50% or more of the employees in the firm are EEA nationals at the time of application. However, this restriction may be waived in respect of start-up companies within 2 years of their establishment (that is, registered as an employer with Revenue) and which are supported by the enterprise development agencies, Enterprise Ireland, or IDA Ireland (this applies to client companies of Enterprise Ireland or IDA Ireland only). 
+
+The details of what is required are set out on the application form and include:
+
+* A full description of the proposed employment,
+* Starting date,
+* Annual remuneration excluding bonuses, and
+* Information in respect of the qualifications, skills or experience required for the employment.
+
+#### Application process
+
+An application for a Critical Skills Employment Permit can be made online on the [Employment Permits Online System (EPOS)](https://epos.enterprise.gov.ie/). There is a [User Guide (PDF document)](https://epos.djei.ie/EPOSOnlinePortal/UserGuide.pdf) available on the online system which guides the applicant through the process and details the documentary requirements for each employment permit type.
+
+Before you start an application please see the [Critical Skills Employment Permit Checklist (PDF document)](https://enterprise.gov.ie/en/Publications/Publication-files/Critical-Skills-Employment-Permits-Checklist.pdf) which will assist the process.
+
+There are up to three stages in the passage of an employment permit application:
+
+Application received (awaiting processing): Once an application is submitted and the associated fees, if appropriate, are recorded the application is then placed in the relevant processing queue. Please note that applications are processed strictly in date order by Employer Type and applicants can keep track of the [current processing dates](https://enterprise.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Current-Application-Processing-Dates/). They can also check the progress of their specific application online on the [Online Status Update Enquiry facility](https://enterprise.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Current-Application-Processing-Dates/).
+　 
+Processing stage: This stage is where the application is considered by a decision maker, an official with decision making authority. The processor may request additional information, if required, which should be returned within 28 days. The processor will then either grant an application or refuse it for specific reasons.
+
+Review: Where an applicant wishes a refusal decision to be reviewed then they may do so within 28 days on the prescribed Submission of a Decision for Review Form. The review will be considered by a separate and more senior official. The confirmation of a refusal decision on review does not preclude the applicant from submitting a new application following all of the relevant procedures for the specific employment permit type.
+
+#### Fee
+The processing fee for a Critical Skills Employment Permit is €1,000 (which must be paid by the applicant, GitLab does not cover the costs of an application). If an application is unsuccessful, 90% of the fee will be refunded.
+
+There is more information [here](https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/permit-types/critical-skills-employment-permit/).
+
+### EU Blue Card Germany
 
 GitLab may be able to offer employment agreements to selected highly skilled candidates seeking employment already in Germany, who apply for, or already hold a German EU Blue card.
 
