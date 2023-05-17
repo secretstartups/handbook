@@ -42,7 +42,7 @@ Team members are reimbursed on different schedules depending on their location. 
 
 * Itemized receipts are required for all expenses.  Receipts must contain vendor name, date of purchase, listing of what was purchased, and contains a full breakout of the subtotal and tax amounts. Snapshot from phone/computer screen of Applications, Card/Bank Statements are not an acceptable form of receipt.
 * Expense items must have a description filled out. If left blank, the expense will be rejected to resubmit.
-* Items over 90 days from purchase date will not be reimbursed.
+* Expense claims over 90 days from purchase date will not be reimbursed.
 * The maximum monthly limit to be reimbursed is $5K USD (or local currency equivalent).
 * Expenses that span longer than a month must be submitted on a monthly basis (i.e. although you paid for a year upfront for the internet, you must divide the total by 12 months and submit the cost monthly).
 * Gift cards are not accepted as a form of payment for business expenses.
@@ -152,7 +152,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-btxf">6076 - Co Working Space</td>
     <td class="tg-btxf">5076 - Co Working Space COGS</td>
     <td class="tg-btxf">Other</td>
-    <td class="tg-btxf">- $700.00 Limit per month.<br> - Full receipts to be provided.<br> - Copy of approved email must be submitted with first month submission.<br> - Parking, meals, beverages, access cards and other additional expenses in a co-working facility are not reimbursable. Only the rent for the space is reimbursable.<br> - If co-working space is used together with a combination of working from home, we will allow the reimbursement of the internet cost for where you spend most of your time. i.e. if you expense a co-working space for a full month then internet for home cannot be expensed. If you expense co-work for a few days in a month then home internet can be expensed in full.</td>
+    <td class="tg-btxf">- $700.00 Limit per month.<br> - Full receipts to be provided.<br> - Copy of approved email must be submitted with first month submission.<br> - up to 5 One-off Days in a calendar month related to co-working space do not require Manager or Finance approval.  If more than 5 days are booked in the month, then Manager and Finance approval is required and need to be obtained prior to submission of expense.<br> - Parking, meals, beverages, access cards and other additional expenses in a co-working facility are not reimbursable. Only the rent for the space is reimbursable.<br> - If co-working space is used together with a combination of working from home, we will allow the reimbursement of the internet cost for where you spend most of your time. i.e. if you expense a co-working space for a full month then internet for home cannot be expensed. If you expense co-work for a few days in a month then home internet can be expensed in full.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Conferences</td>
