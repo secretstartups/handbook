@@ -1,4 +1,3 @@
-
 ---
 layout: handbook-page-toc
 title: "Marketo"
@@ -484,7 +483,12 @@ Complete list of priority countries as found [here](https://gitlab.com/gitlab-co
 <summary markdown='span'>
 How to use the localized email footer snippet
 </summary>
-To use the Localized email footer snippet in an email, select the "Body Text 1 Column" module from the email modules template in the right sidebar. Drag this section below the existing unsubscribe language. Click on the generic copy, then click on the gear that appears. Note that there are two things you can select here - the copy and the module itself. Be sure to select the gear for the copy. Select `Replace with Snippet`, then select `Localized email footer` and click Save. You can then select the module with the existing unsubscribe language, click the gear, and click, `Delete`. You should only see the unsubscribe language once now. 
+To use the Localized email footer snippet in an email:
+
+1. select the "Body Text 1 Column" module from the email modules template in the right sidebar. Drag this section below the existing unsubscribe language. 
+2. Click on the generic copy, then click on the gear that appears. Note that there are two things you can select here - the copy and the module itself. Be sure to select the gear for the copy.  
+1. Select `Replace with Snippet`, then select `Localized email footer` and click Save. 
+1. You can then select the module with the existing unsubscribe language, click the gear, and click, `Delete`. You should only see the unsubscribe language once now. 
 
 To test the snippet, click `Preview`, then select `View by: Segmentation`. Select "Language Preference", then the language you would like to preview. You will see that the unsubscribe language changes based on the language you select.
 </details>
