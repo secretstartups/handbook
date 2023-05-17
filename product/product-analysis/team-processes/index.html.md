@@ -17,7 +17,7 @@ All issues must have the following:
 
 * `Team::PDI` label
   * This is the label used to identify and track the team's work
-* `product data analysis` label
+* `product data insights` label
 * Workflow label (ex: `workflow::1 - triage`)
 * PDI priority label (ex: `pdi-priority::2`)
 * Section priority label (ex: `section-priority::1`)
