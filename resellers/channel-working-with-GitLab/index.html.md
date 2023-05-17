@@ -198,10 +198,10 @@ If any of the above requirements are not met—or you fail to promptly schedule 
 The Services Attached incentive is based on the volume of licensing opportunities with services attached to those licensing deals. The more licensing deals you attach services to the richer the program becomes.
 * Services Attach deal registrations are submitted via the Partner Portal as a deal registration (Deal Registration Type = Services Attach) and then linked to GitLab licensing opportunities.
 * In order to receive their rebate, Partners must submit reasonable information and documentation proving that the services meet both program guidelines and customer needs.
-* There are two (2) parts to this process:
-    1. Partners need to email proof of execution (POE) for delivery of services to the customer. The POE must include customer confirmation of the services and that the services meet/met the guidelines as outlined in the current program guidance (found in the Partner Portal) for the incentive. The most likely form of POE is a signed statement of work (SOW) outlining work and cost to the customer. POEs must be approved by GitLab Sales.
-        * Email POE to partnersupport@gitlab.com.
-    2. Partners need to submit the [Proof of Execution (POE) form](https://forms.gle/n8xDfkNbbeNKwaG36).
+
+Partners need to email proof of execution (POE) for delivery of services. The POE must include customer confirmation of the services and that the services meet/met the guidelines as outlined in the current program guidance (found in the Partner Portal) for the incentive. The most likely form of POE is a signed statement of work (SOW) outlining work and cost to the customer. POEs must be approved by GitLab Sales.
+ * Email POE to partnersupport@gitlab.com.
+
 
 Rebates are paid out no later than 45 days after the end of each quarter.  Partners need to have connected with GitLab in our billing system,Coupa, by providing your banking information. To view the GitLab Services Attach Incentive Program, please visit the [GitLab Partner Portal](https://partners.gitlab.com/) and access the resources in the Program Documents folder in the Asset Library.
 
