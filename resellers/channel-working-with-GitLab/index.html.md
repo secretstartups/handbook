@@ -40,13 +40,17 @@ The partner user will be directed to a page that asks them to confirm the organi
 
 Our training programs are available primarily through the [GitLab Partner Portal](https://partners.gitlab.com/). There, you will find the accreditation courses and testing needed to meet your GitLab program requirements for sales, pre-sales, technical, and professional services training. Check out the [Channel Partner Training and Certifications](/handbook/resellers/training/) handbook page for additional information.
 
-### Training & Certification Requirements for Transactions, Deal Registrations, NFRs, and Letters of Authorization (LoAs)
+### Training & Certification Requirements for Transactions, Deal Registrations, and NFRs 
 
 Before a new partner is able to receive the full partner benefits, they must achieve [Open Partner Status](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/#program-requirements-and-benefits). To become an Open Partner, new partners must have two people complete the [Sales Professional](https://about.gitlab.com/handbook/resellers/training/#gitlab-sales-professional) training, and one person complete the [Solutions Architect](https://about.gitlab.com/handbook/resellers/training/#gitlab-verified-solutions-architect-core-associate) training. 
 
-Upon achieving Open Partner status, that partner will be able to transact, request NFRs and LoAs, and receive all the benefits of the GitLab Partner Program. 
+Upon achieving Open Partner status, that partner will be able to transact, request NFRs, and receive all the benefits of the GitLab Partner Program. 
 
 To open up deal registration access, partners must complete at least one sales training.
+
+## Letter of Authorization Requests
+
+Partners can request a Letter of Authorization after signing the click-through Partner agreement and accessing the Partner Portal. After logging into the Partner Portal, go to the Support tab and click on Letter of Authorization. Follow the on-screen instructions to submit a Letter of Authorization request. 
 
 ## Partner Lead Sharing Overview
 
