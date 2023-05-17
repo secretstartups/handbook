@@ -1,6 +1,7 @@
 ---
 title: "Everyone Contributes"
-summary: Instead of relying on hierarchical management, organizations must create systems and channels where everyone can equally consume and contribute information, regardless of level, function, or location.
+summary: "Everyone must be able to contribute. Organizations must **create a system** where everyone can consume information and contribute, regardless of level, function, or location. When people don't have the opportunity to contribute because of their background, or where they live, or their life stage, we miss out on valuable perspectives."
+weight: 2
 canonical_path: "/teamops/everyone-contributes/"
 images:
     - /images/opengraph/all-remote.jpg

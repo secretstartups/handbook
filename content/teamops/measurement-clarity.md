@@ -1,6 +1,7 @@
 ---
 title: "Measurement Clarity"
-summary: Outdated workforce supervision tactics often trigger bias and presenteeism. Evaluating productivity differently requires unique methods of recording and managing results.
+summary: "Teams exist to deliver results. This is about achieving objectives. TeamOps’ decision-making principles are only useful if you execute and deliver results. **A result is not a one-time event**; rather, delivering a result establishes a new baseline. This allows future iterations to begin. In this way, focusing on execution empowers everyone to contribute to meaningful business outcomes."
+weight: 4
 canonical_path: "/teamops/measurement-clarity/"
 images:
     - /images/opengraph/all-remote.jpg

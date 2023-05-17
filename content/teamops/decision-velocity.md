@@ -1,6 +1,7 @@
 ---
 title: "Decision Velocity"
-summary: Achieving faster, better results depends on decision-making velocity – a team’s ability to increase the quality and quantity of decisions made in a particular stretch of time through behavioral and logistical agreements.
+summary: "Decisions are the fuel for high-performance teams. Conventional management philosophies often strive for consensus and avoid risk instead of developing a [bias for action](https://about.gitlab.com/handbook/values/#bias-for-action). This can result in slow decision-making. In TeamOps, success is correlated with **decision velocity**: the quantity of decisions made in a particular stretch of time (e.g. month, quarter) and the results that stem from faster progress."
+weight: 3
 canonical_path: "/teamops/decision-velocity/"
 images:
     - /images/opengraph/all-remote.jpg

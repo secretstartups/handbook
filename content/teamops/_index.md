@@ -2,10 +2,8 @@
 title: TeamOps
 description: TeamOps is a new people practice that brings precision and operations to how people work together. It's rooted in reality and objectivity, and focuses on the behaviors that make for better teams. It's supported by actionable tenets and concrete, real world examples.
 canonical_path: "/teamops/"
-twitter_image: "/images/opengraph/all-remote.jpg"
-twitter_image_alt: "GitLab remote team graphic"
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+images:
+    - /images/opengraph/all-remote.jpg
 cascade:
   type: docs
 ---
@@ -15,15 +13,3 @@ At its heart is a belief that creating the environment for better decisions and 
 TeamOps is how GitLab scaled from a startup to a global public company in a decade. Now we're opening it up to every organization.
 
 The four guiding principles of TeamOps are below.
-
-1. [Teams exist to deliver results](/teamops/measurement-clarity/)
-   - This is about achieving objectives. TeamOps’ decision-making principles are only useful if you execute and deliver results.
-   - **A result is not a one-time event**; rather, delivering a result establishes a new baseline. This allows future iterations to begin. In this way, focusing on execution empowers everyone to contribute to meaningful business outcomes.
-1. [Teams must be informed by an objective, shared reality](/teamops/shared-reality/)
-   - To make informed decisions, teams must have access to shared knowledge. While other management philosophies prioritize the speed of knowledge **transfer**, TeamOps optimizes for the speed of knowledge **retrieval**.
-   - Everyone can consume (self-serve) the same information, clearly documented in a single source of truth. Values manifest as behaviors, which can be observed and quantified. And wherever possible, teams must default to transparency.
-1. [Everyone must be able to contribute](/teamops/everyone-contributes/)
-   - Organizations must **create a system** where everyone can consume information and contribute, regardless of level, function, or location.
-When people don't have the opportunity to contribute because of their background, or where they live, or their life stage, we miss out on valuable perspectives.
-1. [Decisions are the fuel for high-performance teams](/teamops/decision-velocity/)
-   - Conventional management philosophies often strive for consensus and avoid risk instead of developing a [bias for action](https://about.gitlab.com/handbook/values/#bias-for-action). This can result in slow decision-making. In TeamOps, success is correlated with **decision velocity**: the quantity of decisions made in a particular stretch of time (e.g. month, quarter) and the results that stem from faster progress.

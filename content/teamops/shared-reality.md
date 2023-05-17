@@ -1,6 +1,7 @@
 ---
 title: "Shared Reality"
-summary: While other management philosophies prioritize the speed of knowledge **transfer**, TeamOps optimizes for the speed of knowledge **retrieval** in company-wide documentation.
+summary: "Teams must be informed by an objective, shared reality. To make informed decisions, teams must have access to shared knowledge. While other management philosophies prioritize the speed of knowledge **transfer**, TeamOps optimizes for the speed of knowledge **retrieval**."
+weight: 1
 canonical_path: "/teamops/shared-reality/"
 images:
     - /images/opengraph/all-remote.jpg
