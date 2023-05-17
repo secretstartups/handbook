@@ -57,9 +57,65 @@ The visual below illustrates the 5 Elevate modules:
 
 ### Project
 
-Work with a small group to discuss and apply leadership competencies to a challenge or scenario you're facing at work.
+**Apply what you've learned in Elevate to real life challenges - then contribute their findings to the wider GitLab community!**
 
-Additional details about the Elevate project will be added soon.
+The Elevate Project is your opportunity to contribute new ideas for managers at GitLab and in the wider GitLab community. You'll be assigned to work with a group of other Elevate participants. In your group, you'll discuss a prompt, record a video outlining your solution, and submit a merge request to the handbook to document your findings. Projects are due by the end of the program. _Completion of this project is required to earn the Elevate certification._
+
+#### Prompts
+
+Each group will select **one prompt** to focus on.
+
+The prompts are as followed:
+
+| Prompt | Description|
+| ----- | ---------- |
+| 1 | Identify a current business initiative or challenge at GitLab- within your group or outside of it - that you feel you could move the needle on. How would you use what you learned in Elevate to do so? |
+| 2 | Identify a current challenge that our external stakeholders are facing and that you feel you could move the needle on. How would you use what you learned in Elevate to do so? |
+| 3 | Compile a multi-disciplinary set of resources (5-10) to illustrate one of the modules, including what “good” and “bad” look like |
+
+#### Results
+
+Each group will deliver the following:
+
+1. **One 6-8 minute Video Recording:** Groups will record a Zoom discussion where each participant contributes that includes:
+     - Description of the prompt/project they chose
+     - Ideal outcome 
+     - Description of how they solved it - tools, resources, models, etc.
+     - Conclusion and Implications - how would you pitch this solution to e-group in under 3 minutes?
+1. **One Merge Request:** Merge at least 1 merge request to the GitLab handbook that documents new ideas, strategies, or details your group has applied.
+
+#### Tips for Success
+
+Below, you'll find suggestions on how to make the most of your project. In addition, there are 2 **optional** resources you can choose to use to increase collaboration with your group.
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="https://docs.google.com/presentation/d/1ichxrIiZxOjr8t8ep45W5Cmn_QWj9bkZq94PwLO2_-E/edit#slide=id.g222f4addab1_0_344" class="btn btn-purple" style="width:250px;margin:5px;"> Slide Deck Template </a>
+    <a href="https://docs.google.com/document/d/1CZAqM1FasAudovVfQWhd4scrnPNgdfiO0OPaHuBfkz0/edit" class="btn btn-purple" style="width:250px;margin:5px;"> Recording Agenda Template </a>
+  </div>
+</div>
+
+1. Find a way to collaborate with your group. You might use your cohort Slack channel or stand up a temporary channel.
+1. Select a prompt that resonates with the members of your group. Brainstorm common situations among your small group that can drive your project discussion.
+1. Work in a shared Google Doc or Slides to contribute ideas and prepare for your video async. Consider using the optional templates linked above.
+1. Find time to meet and record your video. Videos will be shared both internally and externally.
+1. There is no pressure to use the optional slide deck linked above - if you prefer your video to be conversational, please go with that!
+1. Your small group doesn't have to meet live to record together - consider splitting up each section of your response, and submitting multiple videos in a collection.
+1. When recording the video, think about your audience: _How can you best serve a leader who's looking to solve a similar problem?_
+1. It's OK if the scenario you're working through contains non-public information. Please highlight this verbally at the start of the video so that the material is not shared externally.
+1. The location of merge requests is up to your group - the [Leadership handbook](/handbook/leadership/) is a good place to start.
+
+
+#### Submit your Project
+
+When your project is complete, follow these steps to submit. 
+
+**Remember that projects are accepted on a rolling basis and are due before the end of Elevate.**
+
+1. Upload your video(s) to Google Drive in [this folder](https://drive.google.com/drive/folders/1zUwOzEFGAiiTaYTgVes1k85kmKBNuRR_)
+1. Link your video and merge requests to [this Google sheet](https://docs.google.com/spreadsheets/d/1z9YTQgtBsnM3FASmuiTvQtwZW7Rtihn4Az9AMLsXO2A/edit#gid=904075814)
+1. Tag `@slee@gitlab.com` and `jallen@gitlab.com` in a comment on the Google Sheet when your group has submitted their project.
+
 
 ### Certification
 
