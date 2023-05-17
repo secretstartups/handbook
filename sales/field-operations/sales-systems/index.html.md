@@ -61,6 +61,47 @@ Below is a list of the different technical skill sets found on the Sales System 
 4. Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 5. If there is a severity impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as described above as well as share the issues in the `Sales-Support` Slack Channel
 
+
+## Sales Systems Issue Deployment & Compliance Steps
+
+ In order to deploy & close an issue the checklist below has to be signed off :
+- [ ] 1. [Business DRI] Business User Acceptance Testing Complete with Evidence
+- [ ] 2. [Business Program Owner] Business Process Owner sign-off.
+- [ ] 3. [Systems Owner] Systems Owner Sign-off.
+- [ ] 4. [Systems DRI] Add the correct `SalesSystems::Deployed - #` GitLab Label
+- [ ] 5. [Systems DRI] Screenshot of Completed Change Set Attached and MR Attached (if Code)
+
+#### [Business DRI] Business User Acceptance Testing Complete with Evidence :- The Business DRI should sign off after validating the provided solution works as expected as `definition of done`. The Business DRI will add evidence in the issue or in few scenarios the systems team member will be providing the evidence for the business DRI to confirm in the issue.
+
+#### [Business Program Owner] Business Process Owner sign-off :- Business Process Owner pertaining to the team should provide signoff. The signoff matrix is below pertaining to the Team / Department, 
+| Team / Lane                 | Main Approver                                                | Backup Approver                                                 |
+|-----------------------------|--------------------------------------------------------------|-----------------------------------------------------------------|
+| QTC                         | Jesse Rabbits - Director, Quote to Cash                      | James Harrison - Senior Director, Sales Operations              |
+| Territory Management        | Melia Vilain - Senior Manager, Sales Strategy                | Jake Bielecki - VP, Sales Strategy & Analytics                  |
+| Channel Operations          | Colleen Farris - Senior Director, Sales Operations           | David Hong - VP of Field Operations                             |
+| Customer Success Operations | Jeff Beaumont - Senior Director, Customer Success Operations | David Hong - VP of Field Operations                             |
+| Sales Operations            | Katrina Gavalas - Director, Sales Operations                 | James Harrison - Senior Director, Sales Operations              |
+| Marketing Operations        | Amy Waller - Senior Manager, Marketing Operations            | Christine Lee - Senior Director, Marketing Strategy & Platforms |
+| Sales Dev Operations        | Ramona Elliott - Director, Sales Development Operations      | Jean-Baptiste Larramendy - VP, Sales Development                |
+| Sales Compensation          | Lisa Puzar - Senior Manager, Sales Commissions               | James Harrison - Senior Director, Sales Operations              |
+| Legal                       | Rob Nalen - VP, Legal Operations                             | Robin Schulman - Chief Legal Officer                            |
+
+#### [Systems Owner] Systems Owner Sign-off :- Salesforce CRM System Owners should provide the signoff. The signoff matrix is an below,
+| Main Approver               |Backup Approver (if Jack Brennan or Sheela Viswanathan are unavailable)                                               | Backup Approver (if Jack Brennan or Sheela Viswanathan and Al Champagne are unavailable)                                                |
+|-----------------------------|--------------------------------------------------------------|-----------------------------------------------------------------|
+| Jack Brennan - Senior Director, Sales Systems
+or
+Sheela Viswanathan - Senior Manager, Sales Systems  |Al Champagne - Senior Director, Enterprise Applications | Nabitha Rao - VP, IT  |
+
+#### [Systems DRI] Add the correct `SalesSystems::Deployed - #` GitLab Label :- Once the issue has been deployed, the issue should be tagged with one of the following deploy label following the [SDLC - Software Development Life Cycle](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#salesforcecom-change-management-processes-and-sdlc-software-development-life-cycle) by the sales systems team member assigned to the issue.
+
+- SalesSystems::Deployed - 0 - No Changes
+- SalesSystems::Deployed - 1 - Settings Change
+- SalesSystems::Deployed - 2 - Configuration Change
+- SalesSystems::Deployed - 3 - Code Change
+
+#### [Systems DRI] Screenshot of Completed Change Set Attached and MR Attached (if Code) :- If the issue ended up in label `SalesSystems::Deployed - 2 - Configuration Change` OR `SalesSystems::Deployed - 3 - Code Change` the systems member assigned to the issue should add the screenshot of the change set.
+
 ## Milestone Review and QA
 
 Before a milestone can be closed, the following checks are performed by Sales Systems leadership:
