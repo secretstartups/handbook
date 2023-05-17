@@ -81,7 +81,7 @@ Here's what to expect in the Slack training:
 
 ### Topics Covered
 
-Below you're find the topics and links covered in each day of the training
+Below you'll find the topics and links covered in each day of the training
 
 | Training Day | Topic | Links |
 | ----- | ----- | ---------- |
