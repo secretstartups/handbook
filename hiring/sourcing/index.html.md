@@ -20,7 +20,7 @@ The speed with which we can grow our team is dependent on the rate at which we f
 * **Sourced (aka Passive)** - a person who is found during sourcing (searching) efforts by the TA team with or without the help of the hiring team (Source-a-thon).
 This person is of interest, but has not interacted with the Talent Acquisition (TA) team or Hiring Manger yet.
 
- ## Prospects vs. Candidates
+## Prospects vs. Candidates
 * **Prospect** - a person is qualified for a potential future or current role at GitLab, but has not yet formally engaged with moving forward to enter the interview process. There is basic information available (LinkedIn, Blogs, Conference Talks, etc.) and are housed in our CRM talent community.
 * **Candidate** - a person that is interested in an active position at GitLab and is engaged in the interview process (which starts with a recruiter phone screen). These individuals are then tracked in our Applicant Tracking System to engage through the interview process. 
 
