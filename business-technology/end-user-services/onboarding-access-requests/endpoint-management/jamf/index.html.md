@@ -159,6 +159,16 @@ There is a notification pop up called "Clever DevOps Co." that may say Nudge is 
 
 <img src="clever-devops.png" alt="Clever Devops" width="300">
 
+### Troubleshooting Nudge
+
+If Nudge is not behaving as expected please follow these steps to produce logs for troubleshooting purposes:
+
+- Open a Terminal window and paste in the following command `log stream --predicate 'subsystem == "com.github.macadmins.Nudge"' --info --style syslog --color none`
+
+- Open a second Terminal window (Command + N) and paste the following command to launch Nudge `/Applications/Utilities/Nudge.app/Contents/MacOS/Nudge`
+
+- After a few seconds, once the log stream finishes producing its output, copy and paste the output of the log stream to the team member assisting you. You can then close the Terminal windows. 
+
 # Frequently Asked Questions
 
 ### How do I verify my connection to Jamf or re-initiate a connection to the Jamf console?
