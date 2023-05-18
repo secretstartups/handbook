@@ -18,16 +18,18 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 
 ## Requirements
 
-- Ability to use GitLab and willing to work with Git and GitLab whenever possible
-- Alignment with our [values](/handbook/values/), and willingness to work in accordance with those values
+- Understanding of Git and typical branching strategies
+- Knowledge of software development lifecycle and development pipeline
+- Understanding of continuous integration, continuous deployment, DevSecOps
 - Prior experience in Customer Success or equivalent history of increasing satisfaction, adoption, and retention
-- Familiarity working with customers of all sizes, especially large enterprise organizations
+- Experience partnering with customers to define and achieve business outcomes
+- Familiarity working with customers of sizes relevant to the assigned [segment](https://about.gitlab.com/handbook/customer-success/csm/segment/#segments)
 - Exceptional verbal, written, organizational, presentation, and communications skills
 - Detailed oriented and analytical
 - Strong team player but self-starter
 - Project management experience & skills
 - Strong technical, analytic, and problem-solving skills
-- Share our [values](/handbook/values/), and work in accordance with those values
+- Alignment with our [values](/handbook/values/), and willingness to work in accordance with those values
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ### Levels
