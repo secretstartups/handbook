@@ -24,6 +24,18 @@ There are different survey types that we run at different times throughout the y
 - *Employer Award surveys:* we ask team members to complete employer award surveys (i.e. Great Place to Work) to understand how GitLab compares against our talent competitors and to give future candidates insight into what it would look like to work here. The process for selecting and participating in [employer award surveys](https://about.gitlab.com/handbook/people-group/employment-branding/awards-process/) is outlined in the Talent Brand section of the handbook.
 - *Organizational Health survey:* we will sometimes run a survey to understand our company and culture more fully (i.e. McKinsey OHI survey) and classify these efforts as Organizational Health surveys. 
 
+### Organizational Health surveys
+
+In Q3 FY'23, our Talent & Engagement team ran our first organizational health survey.
+
+GitLab used McKinsey & Company’s [Organizational Health Index "OHI"](https://www.mckinsey.com/solutions/orgsolutions/overview/organizational-health-index) survey to help us understand where we have opportunities to help our organization and team members execute better and increase their impact. The OHI survey is separate from our CultureAmp Engagement survey; learnings from the former will complement the latter and also help inform workplace practices beyond GitLab.
+
+## FY'23 Q3/Q4 McKinsey OHI Survey Results
+
+We’ve summarized high level results of the OHI survey for all GitLab team members in [this document](https://docs.google.com/presentation/d/1B-T8TUcuidyIwbcpih01id2-TxZpE6D91Xt6w3z0uIw/edit?usp=sharing). 
+
+The document linked above is only available to GitLab team members.
+
 ### CultureAmp Engagement Survey Overview
 
 Team Member Engagement is important to the continued success of GitLab making the Engagement Survey an important element within the annual `People Group` calendar. Engagement strategies have been shown to reduce attrition; improve productivity and efficiency; further embed the company values and ultimately enhance role satisfaction.
@@ -128,17 +140,6 @@ GitLab received [Great Place to Work Certification](https://www.greatplacetowork
 1. 96% of team members say GitLab is a Great Place to Work
 [Read more about the survey results](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/5803). 
 
-### Organizational Health surveys
-
-In Q3 FY'23, our Talent & Engagement team ran our first organizational health survey.
-
-GitLab used McKinsey & Company’s [Organizational Health Index "OHI"](https://www.mckinsey.com/solutions/orgsolutions/overview/organizational-health-index) survey to help us understand where we have opportunities to help our organization and team members execute better and increase their impact. The OHI survey is separate from our CultureAmp Engagement survey; learnings from the former will complement the latter and also help inform workplace practices beyond GitLab.
-
-## FY'23 Q3/Q4 McKinsey OHI Survey Results
-
-We’ve summarized high level results of the OHI survey for all GitLab team members in [this document](https://docs.google.com/presentation/d/1B-T8TUcuidyIwbcpih01id2-TxZpE6D91Xt6w3z0uIw/edit?usp=sharing). 
-
-The document linked above is only available to GitLab team members.
 
 
 ## FY'23 Q2 Pulse Engagement Survey Results
