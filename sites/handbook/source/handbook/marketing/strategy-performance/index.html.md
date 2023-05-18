@@ -20,15 +20,14 @@ description: >-
 
 Marketing Strategy and Analytics supports the entire Marketing team to develop and execute a Global Marketing Strategy working with Marketing Leadership and GTM teams, as well as owning the overall measurement strategy for GitLab marketing working with the data team.
 
-We are a small team with a leader and data analysts.
-
 ## <i id="biz-tech-icons" class="fas fa-users"></i>Meet the Team
 
 - [Christine Lee, Senior Director, Marketing Strategy & Analytics](https://about.gitlab.com/company/team/#christinelee)
 - [Jerome Ahye, Manager, Data Analytics](https://about.gitlab.com/company/team/#jahye1)
-- [Robert Kohnke, Data Analyst](https://about.gitlab.com/company/team/#rkohnke)
-- [David Egan, Senior Data Analyst](https://about.gitlab.com/company/team/#dwegan)
+- [Robert Kohnke, Senior Data Engineer](https://about.gitlab.com/company/team/#rkohnke)
+- [David Egan, Staff Data Analyst](https://about.gitlab.com/company/team/#dwegan)
 - [Djordje Micovic, Senior Data Analyst](https://about.gitlab.com/company/team/#dmicovic)
+- [Dennis Charukulvanich, Digital Experience Analyst](https://about.gitlab.com/company/team/#dennischarukulvanich)
 
 ## <i id="biz-tech-icons" class="fas fa-users"></i>Teams We Work Closely With
 
@@ -52,7 +51,7 @@ We are a small team with a leader and data analysts.
 
 **Slack channels**
 
-We can be reached via our own [#mktg-strat-perf](https://gitlab.slack.com/archives/C01HTAYQBM5) channel, although we also monitor the general [#marketing](https://gitlab.slack.com/archives/C0AKZRSQ5) channel and [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration.
+We can be reached via our own [#mktg-strat-analytics](https://gitlab.slack.com/archives/C01HTAYQBM5) channel, although we also monitor the general [#marketing](https://gitlab.slack.com/archives/C0AKZRSQ5) channel and [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration.
 
 
 ## <i id="biz-tech-icons" class="far fa-life-ring"></i>How to Get Help
@@ -62,6 +61,10 @@ We can be reached via our own [#mktg-strat-perf](https://gitlab.slack.com/archiv
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
   </div>
 </div>
+
+## <i id="biz-tech-icons" class="fas fa-tasks"></i>Our Work
+
+As part of our work, we publish self-service dashboards for team members to understand campaign performance and key marketing KPIs. Our [dashboard page](dashboards) lists our currently supported dashboards and our framework for publishing a new dashboard.
 
 ## <i id="biz-tech-icons" class="fas fa-tasks"></i>How We Work
 
@@ -92,27 +95,13 @@ Mktg Strategy uses the Fibonnacci sequence when creating [issue weights](https:/
 
 ### Triage Schedule
 
-We follow a weekly triage schedule and alternate responsibility between the team.
+We follow a weekly triage schedule and alternate responsibility between the team. You can see who is currently on triage with our shared [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y185YTczZjgzOWQyOWUyY2U3MDEwYjkyNTJmYzFmY2U2NTYzM2MyMzBiOGQxNzk5NmY4ZDIyODkxOGVlNmM1ZWM5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 During your rotation, you are expected to:
   - Triage new issues in our board according to our stakeholder alignment, checking at least twice per day.
   - Triage or help with new messages in [#mktg-strat-analytics](https://gitlab.slack.com/archives/C01HTAYQBM5)
 
-We will follow the schedule below:
-
-| Week of | Team Members |
-| ----------- | ----------- |
-| 2023-03-13 | David, Robert |
-| 2023-03-20 | Jerome, Djordje |
-| 2023-03-27 | David, Robert |
-| 2023-04-03 | Jerome, Djordje |
-| 2023-04-10 | David, Robert |
-| 2023-04-17 | Jerome, Djordje |
-| 2023-04-24 | David, Robert |
-| 2023-05-01 | Jerome, Djordje |
-
 Dennis is responsible for all web analytics triage.
-
 
 ### Epics
 
@@ -130,7 +119,7 @@ We use labels for two purposes:
 Categories
 </summary>
 
-- `Bizible`: Used to highlight a data related tech stack tool; we are currently still administering this but it will be moving to MktgOps soon.
+- `Bizible`: Used to highlight a data related tech stack tool.
 - `MktgSandP- Reporting`: Used to highlight that the issue is one requiring or related to a report or dashboard.
 - `In Epic`: Bright yellow label to show that it is part of a Mktg Strategy epic.
 
@@ -179,23 +168,34 @@ The Marketing Strategy team has continued our experiment with MOps on 2020-04-20
 
 Periodically Marketing Strategy and Analytics becomes aware of significant changes that affect overall data and reporting. To capture these, we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA) with the MktgOps team. They primarily add any process changes to this document as they occur. It has been a great communication tool, especially as we look back at metrics in the past and can track the changes that were made.
 
+## Skateholder Alignment
+
+To give each functional marketing team has a single point of contact for marketing analytics, we use the following stakeholder mapping alignment table.
+
+| Functional Marketing Team  | MS&A Team Member |
+| ------ | ------ |
+| [Brand](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/)  | Jerome Ahye |
+| [SEO](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/seo-strategy/) | Dennis Charukulvanich |
+| [Account Based Marketing](https://about.gitlab.com/handbook/marketing/account-based-marketing/) | Jerome Ahye |
+| [Sales Dev](https://about.gitlab.com/handbook/marketing/sales-development/)  | Djordje Micovic |
+| [Demand Generation Campaigns Team](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) | David Egan |
+| [Partner](https://about.gitlab.com/handbook/marketing/channel-marketing/#how-we-communicate-with-channel-partners)  | David Egan |
+| [Digital Strategy](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/) | David Egan |
+| [Lifecycle Marketing](https://about.gitlab.com/handbook/marketing/lifecycle-marketing/) | David Egan |
+| [Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/) | Djordje Micovic |
+| [Global Channel Marketing](https://about.gitlab.com/handbook/marketing/channel-marketing/) | Djordje Micovic |
+| [Digital Experience](https://about.gitlab.com/handbook/marketing/digital-experience/) | Dennis Charukulvanich |
+
 ## <i id="biz-tech-icons" class="far fa-folder-open"></i>Important Resources
 
 - [Marketing Metrics](/handbook/marketing/strategy-performance/marketing-metrics)
 
-## <i id="biz-tech-icons" class="fas fa-toolbox"></i>Tech Stack
-
-For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-technology/tech-stack-applications/) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company. Below are tools that are currently owned and managed by Marketing Strategy and Analytics.
-
-<details>
-<summary markdown='span'>
-Integrated with Salesforce
-</summary>
+## <i id="biz-tech-icons" class="fas fa-toolbox"></i>We are the Bussiness Owners Of the Following Applications: 
 
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
 - [Allocadia](/handbook/marketing/strategy-performance/allocadia/)
+- Google Analytics
 
-</details>
 
 ### Requesting access to an existing tool
 
@@ -216,9 +216,9 @@ Similarly, we are interested in the`Initial Source` of a given prospect. It is t
 
 The Lead & Contact objects in Salesforce have unified statuses with [set definitions](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
 
-## Touchpoints
+## Touchpoints & Attribution
 
-We use Bizible for tracking times when there is engagement with our prospects. Lots of details about how that works is on the [Bizible page itself](/handbook/marketing/marketing-operations/bizible/).
+We use Adobe Marketo Measure (Bizible) for marketing attribution and tracking times when there is engagement with our prospects. The [Adobe Marketo Measure handbook page](/handbook/marketing/marketing-operations/bizible/) has more details.
 
 ## Web Traffic Analysis
 
