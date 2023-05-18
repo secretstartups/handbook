@@ -12,7 +12,7 @@ title: Cultivating Contributions from the Wider Community
 
 ## Impact of wider community contributions
 
-GitLab's commitment to fostering a thriving environment for [wider community contributions](https://about.gitlab.com/community/contribute/), has been a significant factor in its success and appeal. Contributions from the wider community naturally prevent silos, boost velocity, and incentivize engineers to uphold a higher standard of maintainability.
+GitLab's commitment to fostering a thriving environment for [wider community contributions](https://about.gitlab.com/community/contribute/), has been a significant factor in its success and appeal. Contributions from the wider community naturally prevent silos, boost velocity, and encourage engineers to uphold a higher standard of maintainability.
 
 Our Editor Group has a lot to gain from cultivating wider community contributions within our slice of the GitLab product.
 
@@ -39,7 +39,7 @@ Here is an interdependency graph breaking down this problem into possible contri
 - **Lack of issue visibility:** Issues represent the primary Work-To-Be-Done for our organization. If our Editor Group's issues are not visible to the wider community, then naturally we will have low community contributions.
 - **Lack of contributor motivation:** Community members that find Editor Group issues may lack motivation to pick them up. This may be caused by the relevant feature itself (for example, it is niche and doesn't have wide adoption), or simply by the way the issue is triaged and written (for example, it lacks weighting or assumes some prior knowledge).
 - **Lack of ability to contribute:** If a community member is motivated to pick up an issue, they may still be blocked by an inability to make any progress. This can be caused by issues with unclear objectives, unclear implementation steps, and/or a codebase that is hard to understand and modify by newcomers.
-- **Issues not newcomer friendly:** This problem describes situations where issues are focused and written in such a way that cannot be easiler understood or picked up by newcomers. This can happen because the issue description has unclear requirements, assumes prior-information, and/or the issue weight is tailored towards specific people.
+- **Issues not newcomer friendly:** This problem describes situations where issues are focused and written in such a way that cannot be easily understood or picked up by newcomers. This can happen because the issue description has unclear requirements, assumes prior-information, and/or the issue weight is tailored towards specific people.
 - **Code not newcomer friendly:** When our codebase cannot be easily understood and modified by newcomers, then wider community contributions will be naturally discouraged since the Cost-To-Contribute is high.
 - **Lack of feature adoption:** If a feature has low user adoption, then the perceived pay-off for a community contribution can be relatively smaller than the pay-off of other issues.
 
@@ -47,7 +47,7 @@ Here is an interdependency graph breaking down this problem into possible contri
 
 A codebase that evolves in [a silo](https://en.wikipedia.org/wiki/Information_silo) is difficult to maintain in the long run.
 
-Silos are systems which generate knoweldge, but keep that knowledge within themselves. This can create a single-point-of-failure for an organization. It also threatens to deteriorate quality overtime, because the system cannot receive external feedback, nor knowledge foreign to the system.
+Silos are systems which generate knowledge, but keep that knowledge within themselves. This can create a single-point-of-failure for an organization. It also threatens to deteriorate quality overtime, because the system cannot receive external feedback, nor knowledge foreign to the system.
 
 When there is a healthy stream of contributions from the wider community, the codebase is naturally protected from growing in a silo. On the other hand, a lack of wider community contributions could be an indicator that the codebase will exhibit other silo-like behavior (most notably, a decline in maintainability). This further prevents outside involvement, creating a negative feedback loop.
 
@@ -63,7 +63,7 @@ The following sections describe possible solutions that address the above proble
 
 The most significant impact towards fostering wider community contributions is to treat the wider community as the primary audience for issues. This directly improves a contributor's motivation for picking up an issue. Issues written this way:
 
-- Are clear and concise (e.g., the most relevant information is kept [above the fold](https://en.wikipedia.org/wiki/Above_the_fold) and not burried in discussion comments)
+- Are clear and concise (e.g., the most relevant information is kept [above the fold](https://en.wikipedia.org/wiki/Above_the_fold) and not buried in discussion comments)
 - Do not assume prior knowledge (e.g., a code refactoring that references a new pattern by name without any links or details)
 - Are weighted and the weight is decoupled from time estimates and specific assignees ([see relevant guideline](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#issue-weight)). When issues are weighted for specific individuals, we discourage the wider community from participating and [reinforce silos](#symptom-of-a-silo).
 
@@ -103,7 +103,7 @@ Participants of the GitLab Hackathon have an incentive to create a lot of MR's d
 
 **This seems like a lot of work. What do we expect to gain?**
 
-The Hackathon attracts new and veteran contributors, and is a great way to mentor people to not only conrtibuting to GitLab, but contributing to the Editor Group's relevant issues. When contributors have a positive experience, they tend to gravitate towards similar experiences (e.g., searching for issues with similar labels or people involved).
+The Hackathon attracts new and veteran contributors, and is a great way to mentor people to not only contributing to GitLab, but contributing to the Editor Group's relevant issues. When contributors have a positive experience, they tend to gravitate towards similar experiences (e.g., searching for issues with similar labels or people involved).
 
 An investment in the Hackathon is an investment into fostering a longer-term community.
 

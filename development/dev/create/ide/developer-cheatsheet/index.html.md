@@ -224,7 +224,7 @@ Some frontendmasters workshops related to testing that I want to take after the 
 
 ## Jetbrains IDE Usage
 
-This section is a placeholder for proceses, tips, tools, etc. for working with the Jetbrains IDEs in the GitLab codebase.
+This section is a placeholder for processes, tips, tools, etc. for working with the Jetbrains IDEs in the GitLab codebase.
 
 It will eventually be moved to its own dedicated handbook or docs page.
 
@@ -295,7 +295,7 @@ _TL;DR: These comments enhance the efficiency of Jetbrains IDE users, both team 
 1. They support GitLab's [mission of Everyone Can Contribute](https://about.gitlab.com/company/mission/), by helping external contributors who use JetBrains IDEs to know what errors are known, and OK to ignore.
 1. Question: "Why can't these be disabled in the IDE?"
    1. We want the Jetbrains IDEs to work with our codebase out of the box as much as possible, even for external contributors as mentioned above. So, we don't want to require extra configuration to ignore warnings or errors.
-   1. Often, it is not desirable to disable the entire inspection, becuse it still provides useful information. We just want to disable the false positives on a per-line basis.
+   1. Often, it is not desirable to disable the entire inspection, because it still provides useful information. We just want to disable the false positives on a per-line basis.
 1. TODO: It is a legitimate concern that these should not be left in the codebase indefinitely, and there should be a process to periodically review them.
    This is on my ([Chad's](https://gitlab.com/cwoolley-gitlab)) personal TODO list, and I plan to work on a process for this at the same time I split this section out to a dedicated
    handbook/doc page, and set up a more formal relationship with our PM contact at RubyMine to help address these false positives more proactively. But in the meantime... they're just comments :)
