@@ -498,7 +498,7 @@ SDR Managers will monitor key metrics and ensure they are being handled effectiv
 BDRs will work these leads.
 
 * **Requirements to remain in Actively Working status:** All  “BDR comments” fields will need to be populated within 10 days of moving into “Actively Working” status and a minimum of 5 people will need to be added to sequences within 15 days of the “Actively Working” timestamp. Accounts will move back to queued should criteria not be met.
-    * MM has a limit of 150 accounts in “Actively Working” status, Large has a limit of 100.
+    * MM BDRs have a limit of 150 accounts in “Actively Working” status, Large BDRs have a limit of 100.
 
 * **Queued status:** Accounts with this BDR prospecting status are waiting to be moved into Actively Working
     * SDRs will work these MQLs.
