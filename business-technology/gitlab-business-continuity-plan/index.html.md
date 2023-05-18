@@ -68,15 +68,15 @@ For a business continuity plan to be effective, it needs to be triggered as soon
 
 This section provides details about the production environment that must be available for GitLab.com (for both SaaS services Dedicated and Commercial) to run effectively:
 
-Both GitLab.com and customers.gitlab.com are hosted on Google cloud platform. Dedicated is hosted on AWS. 
+GitLab.com and customers.gitlab.com are hosted on Google Cloud Platform. Dedicated is hosted on AWS. 
 
 **Priority::1: Outage would have immediate impact on GitLab customer/user operations**
 
-1. Disruption of service of Google Cloud Platform and AWS, specifically the region in which GitLab.com and dev.gitlab.org are hosted. for both (Dedicated and Commercial).
+1. Disruption of service of Google Cloud Platform and AWS, specifically the region in which `GitLab.com`, `dev.gitlab.org` and `ops.gitlab.net` are hosted (for both Dedicated and GitLab.com).
     - Effect: a loss or degradation of service, of either Google Cloud Platform or AWS means that GitLab.com or GitLab Dedicated are not available. This affects anyone who uses GitLab.com or GitLab Dedicated to host their repositories and may prevent GitLab team members from completing their work. GitLab.com is also the primary server where GitLab CE and EE source code and packages are hosted.
-    - Solution(s): There are many other servers across the globe where GitLab CE is readily available.
-    - Effect: Security releases are developed and staged on dev.gitlab.org before being brought to production on GitLab.com; these may be lost or unavailable for the duration of the disruption.
-    - Solution(s): Depending on the duration and nature of the disruption, the solution is to wait for service to be restored (minimal duration), or build a new staging server. Using VM snapshots, recovery from backup is relatively quick.
+    - Solution(s): Ensure that `ops.gitlab.net` and `dev.gitlab.org` mirror critical repositories necessary for operating GitLab.com and GitLab Dedicated, and that they are running from different regions. Ensure that there are many other servers across the globe where GitLab CE/EE is readily available.
+    - Effect: Security releases are developed on `GitLab.com` and staged on `dev.gitlab.org` before being brought to production on GitLab.com; Parts of these may be lost or unavailable for the duration of the disruption.
+    - Solution(s): Depending on the duration and nature of the disruption, the solution is to wait for service to be restored (minimal duration), or build a new set of servers. Leverage database snapshots, and initiate recovery from backup as it is relatively quick.
 
 1. Unavailability of support staff in case of a customer emergency.
     - Effect: emergency response times are greater than intended.
