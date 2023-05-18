@@ -272,35 +272,39 @@ The Senior Manager, Total Rewards is a [grade 9](https://about.gitlab.com/handbo
 
 ## Director, Total Rewards
 
-The Director, Total Rewards leads the function ensuring our total rewards strategy and practices continue to support our culture and growth. This role is a senior member of the People Group team who is responsible for building out the Total Rewards function and mentoring current team members. The Director, Total Rewards reports to the Chief People Officer.
+The responsibilities for a Director, Total Rewards will be added at the time of a business need for the role.
 
 ### Job Grade
 
 The Director, Total Rewards is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+## Senior Director, Total Rewards
 
-- Lead and manage a growing Total Rewards team responsible for ensuring competitive compensation, benefits, and equity plans are in place.
-  - Coach your managers to grow the careers of all team members.
-  - Lead the team to perform effective job evaluations/leveling, conduct market surveys, collect and analyze market data, and maintain compensation survey data; continuously updating our compensation ranges and job structure
-  - Has overall control of budgetary planning and staffing strategy
-- Design, develop, and execute on a comprehensive global total rewards strategy that aligns with our culture and business plans, and allows GitLab to attract, retain, and motivate top talent
-- Own the communications strategy and plan for total rewards, ensuring team members understand all that’s offered at GitLab
-- Review and analyze GitLab’s total rewards (compensation, benefits, perks, recognition) practices globally and in relation to local markets; propose improvements to remain competitive
-- Maintain expertise in industry practices and lead effective, competitive, and fair total rewards programs that ensure market consistency and cost-effectiveness
-- Develop recommendations for annual budgeting and planning while maintaining internal and external equity in pay plans; manage annual compensation review cycles
-- Work closely with the Chief People Officer to develop material for executive management and the Compensation Leadership & Development Committee
-- Develop and manage executive compensation; review, design, develop, and manage variable incentive pay for non-sales
-- Oversee our benefits programs.
-- Manage equity planning and implementation of new schemes as needed; partner with Chief Financial Officer to manage the cap table
-- Create scalable processes, practices, and programs that support our rapid growth while continuing to deliver an incredible team member experience
-- Oversee and support the development, implementation, and maintenance or compensation tools and systems
-- Lead stock administration and ensure accurate information is provided to team members about stock grants, vesting schedules, exercise process, and eligibility
-- Accurately interpret, counsel, communicate, and educate People Group members, managers, and executives on pay philosophy, policies, and practices
-- Be open to feedback about compensation practices from the company and community to iterate based on findings
-- Ensure compliance with all international rules and regulations.
-- Manage total rewards documentation.
-- Keep it efficient and DRY.
+The Senior Director, Total Rewards leads the development and administration of our total rewards strategy and practices to support our culture and growth.  This role will serve as a trusted organizational leader to lead strategy development, design, implementation, administration, and governance of all compensation and benefit programs globally.  In partnership with the People leadership team and senior business leaders, translate business strategy into scalable and meaningful Total Rewards strategies that are effective in attracting, rewarding and retaining key talent.  The Senior Director reports to the VP, Total Rewards and Operations.  
+
+### Job Grade
+
+The Senior Director, Total Rewards is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+- Develop and align the total rewards strategy and roadmap to the goals of the company; ensuring it is positioned to attract candidates and motivate and retain current employees
+- Lead and develop compensation and benefits team, encouraging ongoing development to keep current on training, practices, trends and compliance matters to provide a high level of expertise to the business.
+- Research market compensation and benefits data and build creative solutions, ensuring that the organization retains a competitive total rewards position in the marketplace
+- Serve as Subject Matter Expert in the development of incentive compensation (i.e. annual cash and equity) and other incentive plans (e.g., sales commission), and oversight of benefit plans and plan design
+- Oversee all annual processes associated with Total Rewards including planning annual compensation review cycles; benefits open enrollment, communications and marketing; equity management, administration and communication.
+- Plan, develop, and oversee administration of benefit programs
+- Review current compensation and benefit programs; lead the proposal, development, and implementation of necessary changes to align with our global business
+- Create internal compensation branding messaging and trainings to ensure employees understand the components and rationale towards total compensation
+- Continually optimize our job architecture and career pathing framework for both scale and effectiveness in attracting and retaining talent.  
+- Provide thought leadership to business units on compensation issues including new hire packages, performance recognition, incentive plans, retention arrangements and compensation structure
+- Prepare annual Total Rewards budget, quarterly forecasts, and work with Compensation Committee on recommendations and allocations
+- In partnership with the People Leadership team and Finance, establish compensation budgets and guidelines for global locations
+- Own the communications strategy and plan for total rewards, ensuring team  members understand all that is offered at GitLab
+
+#### Career Ladder
+
+The next step in the Total Rewards job family is to move to the VP, Total Rewards and Operations or other People Group leadership positions.  
 
 ## Total Rewards Performance Indicators
 
@@ -315,12 +319,10 @@ Candidates for Total Rewards can expect the hiring process to follow the order b
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with a Recruiting Manager
 - Next, candidates will be invited to a 45 minute interview with the Hiring Manager.
-- Then, candidates will be invited to schedule a 45 minute interviews with a peer in Total Rewards.
+- Then, candidates will be invited to schedule a 45 minute interview with a peer on the People Leadership Team.
 - Then, candidates may be invited to schedule a 45 minute interview with a People Business Partner.
-- Final, candidates will be invited to schedule a 50 minute interview with the leader in Total Rewards.
+- Final, candidates will be invited to schedule a 50 minute interview with a business leader
 
 As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
 
-### Career Ladder
 
-The next step in the Total Rewards job family is to move to a higher grade within Total Rewards or People Group leadership which is not yet defined.
