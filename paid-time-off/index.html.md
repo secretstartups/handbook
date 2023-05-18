@@ -11,7 +11,7 @@ title: "Paid time off at GitLab"
 
 ## Introduction
 
-This policy relates to the types of leaves that GitLab offers and the guidelines associated with each leave type.
+This policy relates to the types of leaves that GitLab offers and the guidelines associated with each leave type. Training on our PTO policy is included as part of a team member's onboarding, and is also available [here](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/pto-training-gitlab) for reference or if a refresher is needed.
 
 ## Paid Time Off
 
