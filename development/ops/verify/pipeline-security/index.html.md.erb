@@ -140,6 +140,18 @@ When possible, the assigned team member is encouraged to schedule synchronous ti
 
 We limit the number of of technical investigation issues assigned in each milestone to two so that we can maintain overall velocity and [MR Rate](../engineering/metrics/#merge-request-rate).
 
+#### Splitting issues
+
+If an issue has several components (e.g. ~frontend, ~backend, or ~documentation) we should split it up into separate implementation issues. When these issues are created, the issues should be titled `Frontend: [Issue title]` or `Backend: [Issue title]`, and marked as `blocked by` in case one is blocking the other. The original issue should hold all the discussion around the feature, with the implementation issues being used to track the work done. By splitting issues, there are several benefits:
+
+1. There's only one DRI per issue.
+1. Workflow labels and health statuses are more relevant.
+1. We can weight issues with more accuracy.
+1. We can mark one implementation as a blocker for another.
+1. It's easier to see what work can be picked up by each functional group.
+1. We can schedule feature work across multiple milestones.
+1. When team members are selecting work from the [group workflow board](https://gitlab.com/groups/gitlab-org/-/boards/4876910?label_name[]=group%3A%3Apipeline%20security), it simplifies what issue relates to which component.
+
 #### Error Budget issues
 
 [Error Budgets](https://about.gitlab.com/handbook/engineering/error-budgets/) for stage groups have been established in order to help groups identify and prioritize issues that are impacting customers and infrastructure performance.
