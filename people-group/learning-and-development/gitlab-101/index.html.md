@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: GitLab 101 Tool Certification
+title: GitLab 101
 ---
 
 ## On this page
@@ -11,29 +11,25 @@ title: GitLab 101 Tool Certification
 
 ## Introduction
 
-Welcome to the GitLab 101 Tool certification page! Here you will find our 101 course on how to use GitLab.
+Welcome to the GitLab 101 page! Here you will find our 101 course on how to use GitLab.
 
 #### GitLab Team Members
 
-Please visit Level Up and create an account to complete the [GitLab 101 Certification](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101) and earn the GitLab 101 Badge!
+Please visit Level Up and create an account to complete [GitLab 101](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab101) and earn the GitLab 101 Badge!
 
 Team members can also complete the [GitLab Team Members Certification](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-team-members-certification). All of the information contained on this handbook page can be found in the GitLab Team Members Certification on Level Up.
 
 #### Community Members
 
-Please visit Level Up and create an account to complete the [GitLab 101 Certification](https://levelup.gitlab.com/courses/gitlab101) and earn the GitLab 101 Badge!
+Please visit Level Up and create an account to complete [GitLab 101](https://levelup.gitlab.com/courses/gitlab101).
 
 ### Who can benefit from this 101 training?
 
 Everyone at GitLab needs to know how to use GitLab and be technical to some level. This training is geared toward GitLab team members who are in non-engineering roles (i.e. talent acquisition, peopleops, marketing, finance, etc) and/or have not used a DevOps tool like GitLab before. This can also be helpful for non-engineering people outside of GitLab wanting to learn how to use GitLab for personal projects.
 
-###  When should this training be completed?
-
-This GitLab 101 training should be completed within 30 days of joining GitLab to help you be successful and impactful in your role while using GitLab as a tool.
-
 ###  What do you need to get started?
 
-To get started with the GitLab 101 Tool Certification you will need:
+To get started with the GitLab 101 you will need:
 
 * to have your GitLab Account set up
 * your Laptop
@@ -250,7 +246,7 @@ You can search for a GitLab Merge Request in the same way as you search for a Gi
    1. Squash Commits - when obtaining a merge request, there is an option to enable or disable [“Squash commits when merge request is accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/squash_and_merge.html). If enabled, it combines all your merge request’s commits into one and retain a clean history.
    1. Delete Branch - when creating or editing your merge request, you can also select the [“Delete source branch when merge request accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/#delete-the-source-branch-on-merge-by-default) option.
 
-To become certified in GitLab 101, you will have to pass (with at least an 80%) all three Lessons including: Technical Terminology, GitLab Issues, and GitLab Merge Requests.
+To complete GitLab 101, you will have to pass (with at least an 80%) all three Lessons including: Technical Terminology, GitLab Issues, and GitLab Merge Requests.
 
 ## Feedback
 
