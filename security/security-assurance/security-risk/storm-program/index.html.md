@@ -21,25 +21,15 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 </div>
 </div>
 
-# Overview
-
-## Quick Introduction to Risk Management at GitLab
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/vt56R5ufR8g" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 ## Purpose
 
-The purpose of the Security Operational Risk Management (“StORM”) program at GitLab is to identify, track, and treat security operational risks in support of GitLab's [strategy](https://about.gitlab.com/company/strategy/). The Security Risk Team utilizes the procedures below to ensure that security risks that may impact GitLab's ability to achieve its customer commitments and operational objectives are effectively managed. 
+The purpose of the Security Operational Risk Management (“StORM”) program at GitLab is to identify, monitor, treat and report upon security operational risks in support of GitLab's [strategy](https://about.gitlab.com/company/strategy/). The Security Risk Team utilizes the procedures below to ensure that security risks that may impact GitLab's ability to achieve its customer commitments and operational objectives are effectively managed. 
 
 ## Scope
 
-The scope of the StORM program is limited to operational (also referred to as Tier 2) risks as defined in the [NIST SP 800-30 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) risk management hierarchy below. These risks are generally identified during the Annual Risk Assessment(ARA) or Ad-Hoc reports. 
+The scope of the StORM program is limited to operational (also referred to as Tier 2) risks as defined in the [NIST SP 800-30 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) risk management hierarchy. These risks are generally identified during the Annual Risk Assessment(ARA) or Ad-Hoc reports. 
 
-**Out of Scope** Tier 2 risks such as operational risks that are not security-related are out of scope. [Tier 3 Risks](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html) identified by teams across the organization are considered by Security Risk when scoring and/or treating their associated Tier 2 risk (where applicable). Security Risk does not directly facilitate the treatment of Tier 3 risks but may effectively do so through the treatment of a Tier 3 risk's associated Tier 2 risk. [Tier 1 risks] or enterprise risks are managed as part of our Enterprise Risk Management Program and examples can be found on our [Mitigating Concerns](https://about.gitlab.com/handbook/leadership/mitigating-concerns/) handbook page.
-
-![Risk Management Hierarchy](/handbook/security/security-assurance/images/nist-rm-hierarchy.png)
+**Out of Scope** Tier 2 risks such as operational risks that are not security-related are out of scope (accounting related risks, for example). [Tier 3 Risks](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html) identified by teams across the organization are considered by Security Risk when scoring and/or treating their associated Tier 2 risk (where applicable). Security Risk does not directly facilitate the treatment of Tier 3 risks but may effectively do so through the treatment of a Tier 3 risk's associated Tier 2 risk. [Tier 1 risks] or enterprise risks are managed as part of our Enterprise Risk Management Program and examples can be found on our [Mitigating Concerns](https://about.gitlab.com/handbook/leadership/mitigating-concerns/) handbook page.
 
 ## Roles and Responsibilities
 
@@ -48,12 +38,12 @@ A risk governance structure has been put in place to outline the overall roles a
 | Role | Responsibility |
 | ------ | ------ |
 | Risk Owners | - Makes decisions for their specific organizations<br>- Provides insight into the day-to-day operational procedures executed by their organization in support of Risk Treatment planning<br>- Responsible for driving risk acceptance and/or implementing remediation activities over the risks identified |
-| Security Risk Team | - Coordinates and executes the annual risk assessment<br>- Maintains the risk register to ensure accuracy and currency<br>- Acts in a Program Management capacity to support the tracking of risk treatment activities<br>- Coordinates peer validation testing after all risk remediation activities have been completed |
-| Manager of Security Risk| Provides management level oversight of the StORM program, including continuing reviews of GitLab's Risk Register and acts as a point of escalation as needed |
-| Director of Security Assurance | Provides senior leadership level oversight of the StORM program, including a review and approval of the annual risk assessment report |
-| VP of Security | Executive sponsor of StORM program, performs a final review and approval of the annual risk assessment report |
-| Senior Leadership | Sets the tone of the risk appetite across the organization <br><br>* Drives direct reports in their respective business units to comply with the StORM program |
-| GitLab Team Members (Employees and Contractors) | Comply with the StORM program policies and procedures |
+| Security Risk Team | - Coordinates and executes the annual risk assessment<br>- Maintains the risk register to ensure accuracy and currency<br>- Acts in a Program Management capacity to support the tracking of risk treatment activities<br>- Coordinates peer validation testing after all risk remediation activities have been completed <br>- Periodically reports on the status of security operational risks |
+| Risk Manager | This role is assigned per risk to a specific Security Risk team member. Expectations include:<br>- Maintains knowledge on the history, current-state, and direction of their risk<br>- Works with the risk owner or owners to ensure the risk and remediation activity is accurately captured<br>- Identifies and monitors associated issues/MRs/epics/working groups that are relevant to their assigned risk<br>- Validates remediation activity |
+| Manager of Security Risk Team | Provides management level oversight of the StORM program, including continuing reviews of GitLab's Risk Register and acts as a point of escalation as needed |
+| Senior Director of Security Assurance | Provides senior leadership level oversight of the StORM program, including a review and approval of the annual risk assessment report |
+| CISO | Executive sponsor of StORM program, performs a final review and approval of the annual risk assessment report |
+| Senior Leadership | Sets the tone of the risk appetite across the organization <br><br>* Leverages information derived from StORM to make strategic decisions |
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
 ## StORM Procedures
@@ -70,7 +60,7 @@ In order to effectively identify, manage, and treat operational risks, GitLab ha
 
 The Security Risk Team interviews/surveys GitLab team members operating in a leadership capacity at GitLab in order to identify security operational risks within their respective departments. Risks identified will always be framed in terms of threat sources and threat events, and then assessed against the likelihood of occurrence and the impact to GitLab if the risk event occurs. Additionally, these risks will be assessed against the current internal controls in place to determine the overall residual risk remaining. 
 
-For details of the scoring methodology used, refer to the [StORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring) page. For guidance on drafting risk language see the [Risk Drafting Guidance](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-drafting-guidance). Risks will be quality reviewed by the Security Risk Manager or delegate and approval captured via comment in the GRC application.
+For details of the scoring methodology used, refer to the [StORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring) page. For guidance on drafting risk language see the [Risk Drafting Guidance](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-drafting-guidance). Risks will be quality reviewed by a member of the Security Risk Team.
 
 #### Step 3: Risk Tracking and Reporting
 
@@ -80,45 +70,12 @@ Risks identified through the Risk Identification phase are formally tracked via 
 
 For each risk identified above, a formal risk response decision is made to determine how GitLab will handle the risk. For details of the risk response options available, refer to the [StORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-response-options) page. Note that as part of the risk response procedures, the Risk Owner will make a determination on whether or not to accept a risk or pursue remediation based on our [Risk Appetite and Tolerances](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#establishing-a-risk-appetite-and-tolerance-for-operational-security-risk-taking). Treatment plans will be reviewed by the Security Risk Manager or delegate and approval captured via comment in the GRC application.
 
-#### Step 5: Annual StORM Reports
+#### Step 5: StORM Detailed Report
 
-Once the annual security operational risk assessment is completed, an executive and detailed report is prepared:
-* **Executive Report**: The executive report is a summary report that is used to share internally and upon request from external parties as applicable. This report is a high-level summary that does not expose specific details about risks identified and individuals involved during the annual assessment.
-* **Detailed Report**: The detailed report contains information about the specific high risks identified as part of the annual assessment in addition to the specific individuals that contributed to the annual assessment process.
+Once the annual security operational risk assessment is completed, a detailed report is prepared to provide an overview of the Security Risk landscape and risk-specific information, including the incorporation of information gathered as part of our risk assessment.
 
 ### Ad-hoc Risk Identification and Assessment
-There may be times that risks are identified outside of the annual StORM process - such as risks that arise from a security incident, risk identified through regular day-to-day business operations, etc. All security operational risks identified ad-hoc are discussed with the Security Risk Team, an inherent risk score is assigned, and a quantitative analysis done to determine if it should be escalated to the risk register. 
-
-### Pilot: Annual Technical (Tech) Debt Analysis
-On an annual basis, the Security Risk Team performs an analysis of security tech debt to support GitLab's ability to respond to emerging threats.
-
-#### Definition
-
-[Technical debt](https://about.gitlab.com/blog/2019/04/29/avoiding-foreclosure-on-your-technical-debt/#what-is-technical-debt) is a pattern in which a development team does not have enough time, information, or capacity to refine and refactor their code, so their architecture, implementation, and testing may be incomplete. Tech Debt can also be used to describe IT systems and applications that are not effectively enabling the achievement of our mission and goals.
-
-Examples of Tech Debt include systems/apps that:
-
-- have more breakfixes than planned changes
-- are no longer utilized or supported
-- are outdated or obsolete
-- are redundant
-- do not align with GitLab's overall strategy or enterprise architecture
-
-#### Scope
-
-Systems/apps that support and/or enable GitLab's security controls are in-scope for the purposes of the Tech Debt Analysis. A list of in-scope systems can be found [here](https://internal-handbook.gitlab.io/handbook/security/#security-tooling). This list is supplemented by other tools that are owned outside of Security (e.g., Okta or NIRA) that can be found in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
-
-#### Process Overview
-
-1. DRIs of Security Tech Stack Systems/Apps Complete "Tech Debt Questionnaire" (2 Weeks) -
-The Security Risk Team will send each Directly Responsible Individual (DRI) of a security control-enabling system/app a separate Tech Debt Questionnaire. This brief questionnaire requests the DRI's input on topics such as:
-   - Investment Classification and Rationale (What should be done with the system/app at this point in time? Invest, maintain status quo, replace, or [dogfood](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding)?)
-   - Volume and cycle time of development changes and incidents/issues (if applicable)
-   - UI responsiveness
-   - Security updates and feature releases
-2. Security Risk Team Reviews Completed Questionnaires (1 Week) - 
-As DRIs complete questionnaires, the Security Risk Team will review responses to assess whether the system/application represents a risk to GitLab. The information collected will also help to support decision-making from a budget/investment perspective.
-3. Reporting of Results - TBD
+There may be times that risks are identified outside of the annual StORM process - such as risks that arise from a security incident, risk identified through regular day-to-day business operations, etc. All security operational risks identified ad-hoc are discussed with the Security Risk Team, an inherent risk score is assigned, and a qualitative analysis done to determine if it should be escalated to the risk register. 
 
 ### Security System Intake
 To assess newly acquired/developed systems that enable security controls OR are/may be in scope for compliance programs for potential inclusion into our [GitLab Control Framework (GCF)](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/sec-controls.html#gitlab-control-framework-gcf) and compliance programs  (e.g., [Security Compliance Program](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/#-core-competencies) and [SOX Program](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/)).
@@ -158,15 +115,14 @@ There are multiple ways the team can be engaged for risk:
    * Fill out the form presented in Slack and submit 
    * The Security Risk Team will intake and triage the risk and will follow-up if needed
    * **Note that Slack will not post the details that are entered into the form to the public channel**
-2. If the risk is identified within an issue, for example like a Security Incident issue, the following label can be applied: `risk::escalation`. The Security Risk Team will monitor and triage issues or MRs that have this label applied. 
-   * Team members can also tag the team directly by @ mentioning `gitlab-com/gl-security/security-assurance/risk-field-security-team` on the issue or MR
+2. If the risk is identified within an issue, team members can tag the team directly by @ mentioning `@gitlab-com/gl-security/security-assurance/security-risk-team` on the issue or MR
 3. Submit a [Risk Escalation issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/risk-field-security-team/risk-assessments/-/issues/new?issuable_template=risk-escalation) on the StORM Repo
 
-When documenting risks, team members can leverage [Observation Description guidance](/handbook/security/security-assurance/observation-management-procedure.html#drafting-observation-description-guidance) for existing issues/observations or [risk drafting guidance](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-drafting-guidance) for things that might happen, or a combo of both, go crazy!
+When documenting risks, team members can leverage [Observation Description guidance](/handbook/security/security-assurance/observation-management-procedure.html#drafting-observation-description-guidance) for existing issues/observations or [risk drafting guidance](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-drafting-guidance).
 
 ## Transparency and the StORM Program
 
-As per [GitLab's Communication Page](/handbook/communication/confidentiality-levels/#not-public), information about risks tracked in GitLab's Risk Register defaults to _not public and limited access_. Given the nature of risk management, GitLab will always be susceptible to risks. The goal of implementing risk treatment plans and carrying out risk remediation activities is to reduce the likelihood or impact (or both) of a risk occurring. Given that no risks identified can ever be fully eliminated, but instead are mitigated through reduction of likelihood and/or impact, risks that have been escalated to GitLab's Risk Register will be shared on a need-to-know basis.
+As per [GitLab's Communication Page](/handbook/communication/confidentiality-levels/#not-public), information about risks tracked in GitLab's Risk Register defaults to _not public and limited access_. GitLab will always be susceptible to risks. The goal of implementing risk treatment plans and carrying out risk remediation activities is to reduce the likelihood or impact (or both) of a risk occurring. Given that no risks identified can ever be fully eliminated, but instead are mitigated through reduction of likelihood and/or impact, risks that have been escalated to GitLab's Risk Register will be shared on a need-to-know basis.
 
 ## Exceptions
 
