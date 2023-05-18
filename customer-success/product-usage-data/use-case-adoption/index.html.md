@@ -13,7 +13,7 @@ description: "How we measure a customer's health score for general GitLab and di
 
 ---
 
-To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Gainsight Scorecard Attributes and Calculations](/customer-health-scoring/#gainsight-scorecard-attributes-and-calculations).
+To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Gainsight Scorecard Attributes and Calculations](/handbook/customer-success/customer-health-scoring/#gainsight-scorecard-attributes-and-calculations).
  
 
 ## License Utilization
