@@ -979,8 +979,8 @@ Save the changes and wait for Google Mail to reload.
 
 ### Google Slides
 
-Use this general [FY23 GitLab Theme Template](https://docs.google.com/presentation/d/1xuw2RrjoSPx69p9v7aacrustmVto8cKWaFn_YK7Riug) when creating slide decks for internal and external use.
-Make a copy of the slide deck and only edit the copy; please do not edit the template itself. To avoid potentially editing the source deck, you can go to the [Template gallery](https://docs.google.com/presentation/?ftv=1) and click on the `FY23 GitLab Theme Template` to quickly make a copy and begin a new deck. Ensure that all pages in the slide deck are numbered, with the title page always being number 1.
+Use this general [FY24 GitLab Slide Template](https://docs.google.com/presentation/d/14K2lcPnX4pAElgeOpdT-gdamrm5jbgaipvZvVV1pMbk/edit?usp=sharing) when creating slide decks for internal and external use.
+Make a copy of the slide deck and only edit the copy; please do not edit the template itself. To avoid potentially editing the source deck, you can go to the [Template gallery](https://docs.google.com/presentation/u/0/?ftv=1&tgif=d) and click on the `FY23 GitLab Theme Template` to quickly make a copy and begin a new deck. Ensure that all pages in the slide deck are numbered, with the title page always being number 1.
 
 #### Updating your existing slide deck theme
 
@@ -989,8 +989,8 @@ Here are a few quick steps for updating your existing slide decks to match the m
 1. In the top toolbar click `Theme` which will open the Themes panel (on the right-hand side).
 ![Change theme in Google Slides](/handbook/tools-and-tips/images/google-slides-change-theme.png)
 1. At the bottom of the Themes panel, click `Import theme`.
-1. In the Import theme dialog box type `FY23 GitLab Theme Template` into the search field.
-1. Find the `FY23 GitLab Theme Template` and click the `Select` button in the bottom left to apply the theme to your slide deck.
+1. In the Import theme dialog box type `FY24 GitLab Slide Template` into the search field.
+1. Find the `FY24 GitLab Slide Template` and click the `Select` button in the bottom left to apply the theme to your slide deck.
 1. Minor adjustments may be needed once the new theme is applied; the 'Layout' button in the toolbar will help you find the right slide layout for your content.
 
 ### Google Jamboard
