@@ -214,7 +214,7 @@ If a DRI has not acknowledged or signaled working on a fix, any developer can ta
 Once the resolution DRI announces that `master` is fixed:
 
 * Maintainers should start a new merged results pipeline (for canonical MRs)
-  and enable "Merge When Pipeline Succeeds" (MWPS).
+  and enable "Auto-merge".
   There's no need to rebase once `master` has been fixed since we use [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html).
 * (For forks only) Authors should rebase their open merge requests (since
   [merged results pipelines](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html)
