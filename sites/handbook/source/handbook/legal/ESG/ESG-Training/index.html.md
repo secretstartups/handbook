@@ -39,11 +39,11 @@ By ensuring that good ESG practices are embedded into the organization, this wil
   - New ESG disclosure requirements in the EU [(CSRD)](https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en) and [proposed requirements](https://www.sec.gov/news/press-release/2022-46) from the SEC will require public companies to disclose information on how companies manage ESG risks in addition to ESG metrics, such as greenhouse gas emissions (GHG). Many EU companies already require GHG data from their vendors, including GitLab, and for this reason, providing accurate and complete data is a priority. This will ensure that GitLab is in compliance with local regulations and continues to be easy to buy from. 
 
 
- ## GitLab's Key ESG Topics
- ### Materiality Assessment Overview
+## GitLab's Key ESG Topics
+### Materiality Assessment Overview
  - GitLab completed its first [double materiality assessment](https://about.gitlab.com/handbook/legal/ESG/#esg-materiality-matrix) in January 2023. The assessment considered the perspectives of all of GitLab’s stakeholders including team members, senior leadership, customers, community members, board members, investors. The assessment involved speaking with GitLab’s stakeholders to understand the key topics they believe have the biggest impact on the success of the business and where GitLab has the biggest impact on the environment, society and people. We also considered ESG regulation, our peers, competitors and nonprofit organizations.The materiality assessment was the first step in developing the company’s first ESG strategy.
 
- ### GitLab's 6 Key Topcs
+### GitLab's 6 Key Topcs
  - Environment
    - Greenhouse gas emissions 
         - Measurement and reduction of scope 1, 2 and 3 emissions
@@ -78,7 +78,7 @@ By ensuring that good ESG practices are embedded into the organization, this wil
         - Environmental impact considerations for product
         - Data processing and storage
         
- ## Developing an ESG Strategy
+## Developing an ESG Strategy
 - In collaboration with teams across the company, the ESG team uses the results of the materiality assessment to develop an ESG strategy. The goal of the strategy is to identify 1) areas where we are already aligned with best practice, 2) areas of improvement, 3) meaningful metrics for tracking performance, and 4) issues where we can demonstrate our commitment to improving our ESG performance in the short and long term by setting quantifiable and time bound goals. 
     - For example, in 2023, GitLab took the first step in developing a climate action plan to address the company’s GHG emissions. We completed the company’s first GHG inventory. The ESG team will collaborate with teams across the company to leverage the results of the inventory to identify areas where the company can reduce its carbon footprint.
 
