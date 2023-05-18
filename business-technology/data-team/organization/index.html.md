@@ -63,9 +63,9 @@ classDiagram
 
 | Data Fusion Team Name | Data Champion Team | Data Champion Name | Manager, Data | Lead Analytics Engineer | Function Analyst(s) | Analytics Engineer(s) | Data Engineer(s) |
 | --------------------- | ------------------ | ------------------ | ------------- | ----------------------- | ---------------- | --------------------- | ---------------- |
-| **Research and Development Data Fusion** | **Product Data Insights** | `@cbraza` | `@iweeks` | `@iweeks` | `@cbraza` `@eneuberger` `@nicolegalang` `@dpeterson1` `@nraisinghani` `@matthewpetersen` | `@jeanpeguero` `@snalamaru` `@mdrussell` | `@rbacovic ` |
-|  | **Customer Success**  | `@jdbeaumont` |           |      `@mdrussell`      |  `@bbutterfield` `@marntz` |  `@mdrussell`  |    |
-| **Go to Market Data Fusion** | **Sales Strategy and Analytics** | `@aileenlu` | `@nmcavinue` | `@michellecooper` | `@nfiguera` `@mvilain` |  `@chrissharp` | `@paul_armstrong` `@Rigerta` |
+| **Research and Development Data Fusion** | **Product Data Insights** | `@cbraza` | `@mdrussell` (Acting Manager) | `@mdrussell` | `@cbraza` `@eneuberger` `@nicolegalang` `@dpeterson1` `@nraisinghani` `@matthewpetersen` | `@jeanpeguero` `@michellecooper` | `@rbacovic ` |
+|  | **Customer Success**  | `@jdbeaumont` | `@mdrussell` (Acting Manager) | `@mdrussell` |  `@bbutterfield` `@marntz` |  `@mdrussell` `@michellecooper`  |    |
+| **Go to Market Data Fusion** | **Sales Strategy and Analytics** | `@aileenlu` | `@nmcavinue` | `@snalamaru` | `@nfiguera` `@mvilain` |  `@chrissharp` | `@paul_armstrong` `@Rigerta` |
 |  | **Marketing Strategy and Analytics**  |  `@christinelee` |     |     | `@jahye1` `@rkohnke` `@degan` |                     |                          |
 |  | **Online Sales and Self-Service**  | `@mfleisher` |           |                   | `@mfleisher` |             |              |
 | **Financial Analytics Data Fusion** | **Corporate Finance** | `@james.shen` | `@nmcavinue`  | `@chrissharp` | `@vagrawalg` `@dgupta5` `@smishra27` | `@chrissharp` | `@paul_armstrong` |
