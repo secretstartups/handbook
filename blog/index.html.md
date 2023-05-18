@@ -62,7 +62,7 @@ You can self-service checking page views post publication by using [our dashboar
 The editorial team members are the [directly responsible individuals (DRI) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/).
 
 ## How to suggest a blog post
-The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @Sgittlen.
+The first step in publishing a blog is to open an issue in [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and ping @Sgittlen.
 
 Please go down the checklist and makes sure you've accounted for all items.
 
@@ -108,7 +108,7 @@ Official [GitLab partners](/partners/) may include promotional copy, however the
 
 For guest posts, the process and guidelines for publishing are as follows:
 
-1. Create an issue in the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project and label it `blog-post` and `guest/partner post`.
+1. Create an issue in the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new) project, choose the blog-post template, and label the issue `blog-post` and `guest/partner post`.
 2. If technical input is required, we will ask for instructions from the third party; otherwise it is at the discretion of the blog editorial and technical writing teams whether or not to go forward.
 
 ### Guest posts by non-partners
