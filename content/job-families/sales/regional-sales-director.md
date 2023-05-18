@@ -38,10 +38,9 @@ The Regional Sales Director is a [grade 10](https://about.gitlab.com/handbook/to
 
 {{% job-families/sales/performance %}}
 
+
 ## Location
 
-- APAC
-   - Reside in the APAC region with the ability to travel throughout the region as needed.
 
 ## Career Ladder
 
