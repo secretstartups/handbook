@@ -46,7 +46,7 @@ You’ll enable Dependency Scanning by including a GitLab-provided template in y
     2. Adds a commit to the branch which edits your CI/CD configuration file to enable Dependency Scanning
     3. Redirects you to a page for creating an MR for that branch
 1. On the MR creation page, leave all fields at their default values and select **Create merge request**. GitLab will redirect you to the details page for the MR you just created.
-1. In the middle of the page, find the notification that a pipeline is running on the MR’s branch. It could take a few minutes for the pipeline to finish, even if you've disabled scans from the previous lab. Do **not** select **Merge when pipeline succeeds** in the MR, since that can lead to unexpected behavior. Instead, wait for the pipeline to finish (you can watch it by selecting **CI/CD > Pipelines** in the left navigation pane) and then select **Merge** in the MR. You might have to refresh the MR page to see this button.
+1. In the middle of the page, find the notification that a pipeline is running on the MR’s branch. It could take a few minutes for the pipeline to finish, even if you've disabled scans from the previous lab. Do **not** select **Auto-merge** in the MR, since that can lead to unexpected behavior. Instead, wait for the pipeline to finish (you can watch it by selecting **CI/CD > Pipelines** in the left navigation pane) and then select **Merge** in the MR. You might have to refresh the MR page to see this button.
 1. In the left navigation pane, select **Repository > Files** and open `.gitlab-ci.yml`. Notice that the MR has added documentation at the top, reformatted the file, and added a Dependency Scanning template in the `include:` section.
 
 
