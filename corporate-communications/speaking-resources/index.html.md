@@ -20,7 +20,7 @@ So you're interested in becoming a public speaker? That's great!
 - If you're looking to learn how to be a more effective and confident public speaker, you can check out:
     - [LinkedIn Learning courses](https://www.linkedin.com/learning/public-speaking-foundations-2018/)
     - Books like _The Art of Public Speaking_ by Dale Carnegie
-    - Brendan's blog post: [What makes a great tech talk](https://boleary.dev/blog/2022-09-21-what-makes-a-great-tech-talk)     
+    - Brendan's blog post: [What makes a great tech talk](https://boleary.dev/what-makes-a-great-tech-talk/)     
     - Or join your local [Toastmasters](https://www.toastmasters.org/Resources/Public-Speaking-Tips).
 - Review the steps on this page for 
     - Getting help with CfP and talk ideas
