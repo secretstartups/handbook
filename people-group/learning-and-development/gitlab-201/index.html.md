@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: GitLab 201 Tool Certification
+title: GitLab 201 Tool
 ---
 
 ## On this page
@@ -11,9 +11,9 @@ title: GitLab 201 Tool Certification
 
 ## Introduction
 
-Welcome to the GitLab 201 Tool certification page! This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become certified in GitLab 201, participants will have to pass all 3 lessons with at least 80%. We recommend that courses are completed and passed in order.
+Welcome to GitLab 201. This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become complete GitLab 201, participants will have to pass all 3 lessons with at least 80%. We recommend that courses are completed and passed in order.
 
-Please visit GitLab Learn and create an account to complete the [GitLab 201 Certification](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-201-certification) and earn the GitLab 201 Badge!
+Please visit GitLab Learn and create an account to complete the [GitLab 201](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-201-certification) and earn the GitLab 201 Badge!
 
 ### Who can benefit from this 201 training?
 
@@ -21,10 +21,10 @@ Everyone at GitLab needs to know how to use GitLab and be technical to some leve
 
 ### Prerequsites
 
-[GitLab 101 Tool Certification](/handbook/people-group/learning-and-development/gitlab-101/)
+[GitLab 101](/handbook/people-group/learning-and-development/gitlab-101/)
 
 ### What do you need to get started?
-To get started with the GitLab 201 Tool Certification, you will need:
+To get started with the GitLab 201, you will need:
 
 - A laptop
 
@@ -246,7 +246,7 @@ description: "[insert a short sentence to appear as part of search results]"
 Please complete the Lesson 3 assessment in [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-201-certification)
 
 
-To become certified in GitLab 201, you will have to pass (with at least an 80%) all three lessons.
+To complete GitLab 201, you will have to pass (with at least an 80%) all three lessons.
 
 ## Feedback
 We are always trying to improve. Please let us know what you thought of this GitLab 201 course by filling out our [feedback form in Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-201-certification).
