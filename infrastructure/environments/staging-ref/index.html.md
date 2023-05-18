@@ -31,7 +31,7 @@ Staging Ref is a sandbox environment used for pre-production testing of the late
 ### Environment information
 
 - [Geo](https://docs.gitlab.com/ee/administration/geo/) is setup on Staging Ref with these configurations:
-  - Staging Ref US site - *primary* - [10k Cloud Native Hybrid Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative) environment - stateless components (Webservice, Sidekiq, NGINX) deployed to Google Kubernetes Engine cluster and the remaining stateful components installed to GCP virtual machines
+  - Staging Ref US site - *primary* - [3k Cloud Native Hybrid Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/3k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative) environment - stateless components (Webservice, Sidekiq, NGINX) deployed to Google Kubernetes Engine cluster and the remaining stateful components installed to GCP virtual machines
   - Staging Ref EU site - *secondary* - [3k Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/3k_users.html) full Omnibus environment
 - Deployed with [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/gitlab-environment-toolkit) and [Deployer](https://ops.gitlab.net/gitlab-com/gl-infra/deployer)
 - SSL Certificates automated with [Let's Encrypt](https://letsencrypt.org/)
@@ -90,7 +90,7 @@ gstg_qa -[#554488]-> gprd
 Staging Ref is a safe playground for engineers who want to test latest Staging(`gstg-cny`) code. Staging Ref has several advantages that allow it to be a full-fledged sandbox environment:
 
 - Staging Ref deployments do not block the deployment process and can be tweaked or updated by any GitLab engineer. Hence GitLab engineers have wide permissions and full control over the environment.
-- Environment follows 10k hybrid architecture, so it is more performant than existing Staging(`gstg`) and could be used for load testing if needed.
+- Environment follows 3k hybrid architecture, so it is more performant than existing Staging(`gstg`) and could be used for load testing if needed.
 
 To sign in to the environment, navigate to [staging-ref.gitlab.com](https://staging-ref.gitlab.com/users/sign_in) and use your GitLab Google account in 'Sign in with Google' option.
 
@@ -113,8 +113,7 @@ If you have `gcloud` or `kubectl` set up locally, then follow [Connect from your
 ##### Connect via your browser
 
 1. Get [access to the GCP project `gitlab-staging-ref`](#request-access-to-gcp-project-and-environment)
-1. Visit **GCP > Kubernetes > Workloads** in [the `gitlab-staging-ref` project](https://console.cloud.google.com/kubernetes/workload/overview?project=gitlab-staging-ref)
-1. Click the Workload `gitlab-toolbox`
+1. Visit [`gitlab-toolbox`](https://console.cloud.google.com/kubernetes/deployment/us-east1-c/staging-ref-3k-hybrid-us/default/gitlab-toolbox/overview?project=gitlab-staging-ref) workload in the `gitlab-staging-ref` project
 1. In the **Managed pods** section, click on the **Name** of a Running pod. For example, the **Name** looks like `gitlab-toolbox-5955db475c-ng2xr`.
 1. Click the **Kubectl** dropdown near the top
 1. Hover over **Exec** to reveal a sub menu
@@ -126,7 +125,7 @@ If you have `gcloud` or `kubectl` set up locally, then follow [Connect from your
 
 ##### Connect from your local terminal
 
-1. Navigate to the [staging-ref cluster](https://console.cloud.google.com/kubernetes/clusters/details/us-east1-c/staging-ref-10k-hybrid/details?project=gitlab-staging-ref&cloudshell=false)
+1. Navigate to the [staging-ref cluster](https://console.cloud.google.com/kubernetes/clusters/details/us-east1-c/staging-ref-3k-hybrid-us/details?project=gitlab-staging-ref&cloudshell=false)
 1. Click **Connect**
 1. Copy the command and run it locally to get `kubeconfig`
 1. Follow [Kubernetes cheat sheet](https://docs.gitlab.com/charts/troubleshooting/kubernetes_cheat_sheet.html#gitlab-specific-kubernetes-information)
