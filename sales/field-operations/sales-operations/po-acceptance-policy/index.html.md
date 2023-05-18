@@ -14,8 +14,7 @@ description: "Acceptance criteria for Customers and Partners who require POs to 
 
 ## PO Acceptance Policy 
 
-PO Acceptance Policy
-When issuing purchase orders, the following information on the PO must match the signed order form to book:
+If a customer requires a Purchase Order to accept our invoice, the following information is required on the PO and match the signed order form before we can book the order. 
 
 **Direct Customers with signed order form:**
 
@@ -48,6 +47,8 @@ When issuing purchase orders, the following information on the PO must match the
 1. For partner POs, when end customer name/email differ from order form, chatter confirmation from the rep on the correct end user is required to book.
 
 1. A revised PO or order form is required when there is mismatched information between the two documents. PO exceptions outside of EOQ will be reviewed on a case by case basis. Approvals will be at the discretion of the Sales Operations team with acceptance language/reason validated in Finance Notes of the opportunity record.
+
+1. If a customer is switching between SaaS & Self-Managed on the same product tier, that results in no change to the total contract value, no PO is required. A signed order form is required at minimum to book the order. If transacting through a partner, a 0.00 PO must be issued to complete the order.
 
 ### Exception Email Requirements
 
