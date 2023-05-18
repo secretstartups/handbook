@@ -14,6 +14,120 @@ description: "The Plan UX team supports the Plan section to provide customers a 
 ## How We Work
 
 
+### Introduction
+
+This section describes the research program to support Product Planning and Project Management groups. The reseach plan may be iterated on to support any team working on user experiences that support the Work Items initiative.
+
+With such a large scope of work that touches upon several personas, the efforts associated with building out the experiences related to Product Planning and Project Management can be overwhelming. This research plan is meant to guide the team: starting with problem validation where research needs are defined, and ending in solution validation where usability testing is conducted to give us confidence in our designs.
+
+The following research plan is designed to fit within the way the Plan teams operate, with flexibility and efficiencies called out. The research plan is based on our standard software development process, with some adjustments to accommodate for the scope of Product Planning and Project Management.
+
+#### Not every change requires us to follow every step. For example:
+- For a brand new feature where market need is well defined but user workflows aren’t well known: start with problem validation.
+- If the user need is already well defined and understood by the team, start with design and solution validation.
+- Most times when adding a new Work Item, or migrating something to a new Work Item, all steps should be followed.
+- Because of the potentially large impact on customers, non-trivial changes to high use pages such as Issue/Epic/Task views, detail pages, and boards should always be validated by testing with external users.
+- When making a change to existing functionality that uses Work Items, and that has been previously validated, the Product Designer and User Researcher can determine which steps or abbreviated steps are needed.
+
+
+![Diagram of Research Steps](research_plan.png "Research Plan to Support Work Items")
+
+#### Goal
+With whatever we’re building, we should be able to say:
+- Why we’re building it
+- How it fills an unmet user need
+- How important it is for users
+- Here are the identified risks
+- How new concepts compare against existing experiences
+
+
+### Problem validation
+
+Naturally, when we start designing a solution, we start with: understanding our users, the relevant personas, the problems they face, their unmet needs, etc - all in the context of Plan.
+
+The first three steps are to be completed across the relevant personas.  While it may be too arduous to conduct detailed research for each persona on a given topic, it’s recommended to include relevant personas in each step to look for differences and similarities.  If there are more differences than similarities, that’s a clue that it’s probably time to dig deeper into those particular personas to learn more. 
+
+**Step 1: Define research needs:** This is perhaps the most important step; it’s where everyone in the quad gains a common understanding of the work to do and where research questions start. Start by working with stakeholders to:
+- Understand the goals and scope of the upcoming work
+- Align on the above
+- Create research questions that are aimed at justifying the work
+
+**Output: a set of problem validation research questions to field**
+
+**Step 2: Review existing research:** It’s always good practice to first look to see if there are existing insights that address your research questions.  This can be done by looking within Dovetail or a more exhaustive internet search.  To help stay focused during this step, it’s recommended to first document the following:
+- What we already know or are fully confident in
+- What we’re fairly confident in
+- What we still need to learn
+
+To stay efficient during this step, it’s best to focus your attention on the research questions you are less confident in and research questions that contain a large knowledge gap. Note that it’s not uncommon for a search to yield results that aren’t applicable to your research questions. However, just knowing that is important - and can justify the next step.
+
+
+**Step 3: Conduct research:** Now it’s time to start conducting problem validation research to address the knowledge gaps identified in earlier steps. Along the way, you’ll be:
+- Identifying user challenges and unmet user needs
+- Conducting mental modeling exercises
+- Understanding what users value most when it comes to a product planning or project management related experience - along with the goals of the work
+
+EFFICIENCY BONUS: At this point, there’s an opportunity to increase efficiency with participant recruitment by creating a common screener, where a mini-database of qualified participants is created to use throughout the course of the work.
+
+
+**Step 4: Analyze the data:** After the research is conducted, it’s time to take a step back and analyze the data you collected. You should be able to learn:
+- What should be prioritized, in terms of the work being done
+- If there are additional research questions that surfaced during Step 3 that need to be answered
+- Which user needs are most important to the user
+- What trends exist across personas
+- What follow-up research needs to be done
+
+**Output: at the end of this step, we have a known user problem.  We understand what they need, why they need it, how important it is, etc.  These aspects are critical in understanding how those fit into the goal you’re working towards. If something doesn’t feel right or isn’t aligned, this is the time to discuss with stakeholders to reassess.** 
+
+**Step 5: Establish measures and a baseline:**  By Step 4, we learned about areas of the experience that are important to our users.  Now is the time to establish measures on how our users feel about those experiences.  In doing so, we’re also creating a baseline of the experience as it is today.  The goal is to provide us with a measured indication to ultimately understand if our proposed designs are resulting in a better user experience than the baseline experience. This can be accomplished by:
+- Deciding on a few metrics that apply directly to the experience and the goals
+    - Ensure they can be used to accurately measure what’s important to the user
+    - The measures should also be able to be reused and are applicable to future design iterations
+- Conduct research: run participants through the current experience and apply the metrics
+- Document the scores
+- Save them to compare against when testing future iterations
+
+**Output: a set of reusable measures and a benchmark.**
+
+Note: This isn’t currently part of our standard research process. We would like to introduce a method to baseline the experience and measure changes over time to confirm whether the experience is improving. We feel this is important for Product Planning and Project Management, because there are so many opportunities to improve and we want to focus on impact to aid decision making. 
+
+**Step 6: Design the solution(s):** Now that problem validation is complete and you have a baseline, it’s time to design the solution(s). It’s important to:
+- Consider the personas when designing your solution(s)
+- Ensure your designs address the identified problem(s)
+
+**Output: Mockups or prototypes**
+
+—-------
+#### Confidence Check
+ARE WE CONFIDENT? We can pause at this moment and ask ourselves if we’re confident in the design solution(s). Sometimes, a design solution is straightforward enough where we’re very confident to move ahead with it without solution validation. However, there are times when we’re unsure how the design solution will perform, thereby resulting in a low level of confidence. This is when we decide if we need to conduct solution validation research.
+
+
+### Solution validation
+
+**Step 7: Prepare for testing:** This is where we identify the research questions we need to answer for solution validation. During this step, the best 1-3 designs are selected for testing. Often, prototypes are built for this kind of testing.
+
+**Output: assets to run participants through solution validation.**
+
+**Step 8: Conduct research:**
+It’s time to run participants through the design solutions using our standard solution validation research approach with the relevant personas.  However, there’s one exception: you’ll be using the measures you established in Step 5. Within this step, you’ll be:
+- Using the metrics when testing your design(s)
+- Comparing the scores against the baseline
+- Identifying risks with the design(s)
+- Iterate and repeat steps as new insights are discovered
+
+**Output: a design that performs better than the baseline.**
+
+EFFICIENCY BONUS: At this point, there’s an opportunity to increase efficiency with participant recruitment by creating a common screener, where a mini-database of qualified participants is created to use throughout the course of the work.
+
+We may also be able to leverage some of our previous studies to more rapidly build tasks and scenarios for our participants to complete. For example, we could use the scenarios from the benchmarking study to evaluate experience of editing a task from a drawer.
+
+—------
+
+DONE! At this point, we have a valid solution. It solves the problem, it’s easy to use and understand, and it’s a better solution than what users currently have.
+
+When the design is released, even if solution validation wasn’t done, it’s still important to measure against the baseline scores.  With extended use in real-life within their own environments, users may score differently than during the study.
+
+
 
 ## Design process for work items
 When designing for objects that use the [work items architecture](https://docs.gitlab.com/ee/architecture/blueprints/work_items/) we will follow a specific process intending to ensure that we are providing value-rich experiences that meet users needs. The work items Architecture enables code efficiency and consistency, and the UX team supports the effort by identifying user needs and the places where those needs converge into similar workflows.
