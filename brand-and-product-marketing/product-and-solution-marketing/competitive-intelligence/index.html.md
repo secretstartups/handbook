@@ -27,6 +27,10 @@ These assets have two different purposes:
 
 ## Comparison Assets - Internal Competitive Assets
 
+### Crayon
+
+#### About Crayon
+
 All our internal competitive intelligence (competitor cards, internal webinars and documents) are hosted on our [Highspot page](https://gitlab.highspot.com/spots/615dd78be6303bc4429268a1), leveraging our [Crayon](app.crayon.co) competitive intelligence tool, which hosts the competitor cards. 
 
 For more information on Crayon, see our [competitive intelligence page in the internal handbook](https://internal-handbook.gitlab.io/handbook/marketing/brand-and-product-marketing/)
@@ -34,6 +38,71 @@ For more information on Crayon, see our [competitive intelligence page in the in
 Access to Crayon has been opened to all our Sales, Product, Engineering, and Marketing teams. You can access Crayon through the Okta tile (search for it within Okta if it doesn't appear on your list). In the spirit of the GitLab value of collaboration, all accounts are given "collaborator" level access, meaning all users can create and edit content in the same way as the competitive intelligence team. Users may be downgraded to "viewer" access if necessary.
 
 If you are not in these teams and require access, reach out to @jkempton on slack with your request.
+
+In the spirit of the GitLab values of iteration and collaboration, Crayon is designed to allow GitLab teammates to contribute and develop any and all competitive intelligence, wherever and whenever they encounter it, rather than it being gatekept by just the Competitive Intelligence Team. In that regard, the team are encouraged to update, correct, amend and comment on competitive intelligence news, on competitive cards, and collaborate on competitive boards to ensure everyone has the best and most up-to-date information. Crayon also has a dedicated analyst working behind the scenes to help source and surface competitive intelligence; you may see comments from our analyst within the Crayon tool.
+
+For any questions around how to use the Crayon platform, please use Crayon’s [own FAQ](https://support.crayon.co/hc/en-us) before reaching out to ‘@jkempton’ for any help.
+
+Note also that the “help” functionality on the tool should ONLY be used for questions around the use of the Crayon tool, and not for general questions directed at the GitLab competitive intelligence team (for example, questions like “Can you help with this competitor” should be shared in the ‘#competition’ slack channel, not asked as a question through Crayon)
+
+#### How to use Crayon
+
+Any GitLab Sales, Product, Engineering, and Marketing team member can contribute to Crayon including:
+- Adding a new competitor card
+- Adding in objection handling questions and resolutions
+- Highlighting a product release or notable competitor change
+
+When adding, removing or amending competitive information to Crayon, please follow the process below:
+1. Find the appropriate competitive card to add the content. It's important to evaluate the importance of the information: Does it just impact one competitor? Is it part of a broader theme? Do we need to duplicate the information across to other competitor cards?
+2. Once new content is created, the information will not be updated until it is re-published. Tag @Jkempton in the comments section for the card to confirm what additions/removals have been made, similar to the process of an MR within GitLab.
+3. @jkempton will then review the content changes, edit if appropriate, and re-publish the cards.
+
+Remember that Crayon is designed for hosting our competitive information for the field to quickly reference. It is not a dictionary of information with expansive explanations, and needs to be straight to the point with truthful and simple explanations.
+
+### Clozd
+
+Clozd is our third-party win/loss interview partner. Clozd allows us to undertake deep-dive interviews with customers or prospects who have evaluated GitLab. We have engaged the services of Clozd to ensure we get a non-biased view of our marketing, our sales process, and product capabilities, and to help solve the following challenges:
+
+- Some internal data may not give us accurate enough information on why we win and lose deals, or at least gives us a high-level overview
+- Knowing what product capabilities should take priority can be difficult when we have hundreds of issues on different topics
+- Understanding who was the biggest threat in competitive situations can be difficult when we are often up against multiple DIY DevOps challengers
+
+#### FY2024 strategy
+We will engage Clozd with 60 interviews over the course of FY 2024. Our aim is to have a small majority of these as losses versus wins, as these tend give us greater insight into our shortcomings as a company. We will also split out interviews geographically in line with GitLab sales.
+
+Our win criteria:
+
+- The larger the better (ideally Enterprise customer)
+- A customer that recently chose GitLab
+- A customer that was evaluating other competitors (preferably GitHub or other major competitors)
+- A customer that chose us for "interesting" criteria, (e.g. that are either our strengths, or elements where we usually lose to competitors, not just because we might have been cheaper)
+
+Our loss criteria:
+
+- A customer that recently chose a competitor to GitLab
+- The larger the better (ideally Enterprise customer)
+- A customer that considered us in the final decision (e.g. the decision came down to GitLab vs GitHub)
+- Ideally, a loss where the reasons for the loss are still not entirely clear (e.g. we communicated our differences with our competitors but they weren't convinced).
+- A loss that did not come down solely to pricing
+
+#### Clozd process and Risk Mitigation Plan
+
+In order to mitigate the risk associated with Win/Loss communications, the following plan has been agreed internally with the Privacy team:
+
+| Process |
+| ------ |
+| Clozd can send Win/Loss communications in the United States with no further consent from the Prospect/Lead because the United States is on Opt-Out. | 
+
+| Clozd can send automated communications in the rest of the world if there is a Win opportunity with the Prospect/Lead because then future communications are subject to a transaction and Soft Opt-In is available in the majority of the world | 
+
+| Generally Clozd cannot send automated communications in the rest of the world if there is a Loss with the Prospect/Lead because then Soft Opt-in is not available.  However, these communications can be sent if the following is true: | 
+
+| The GitLab sale representative asks the Prospect/Lead during its conversations whether they can be contacted by Clozd for Loss analysis and the Prospect/Lead agrees | 
+
+| There is some kind of proof of that agreement, such as an email confirmation or contemporaneous call notes stating the Prospect/Lead agreed to subsequent communications | 
+
+| The Clozd business owner, @jkempton, manually sends the contact information to Clozd upon validating the two prior sub-bullets |
+
 
 ## Account-Specific Support
 
@@ -77,44 +146,16 @@ Comparison's at a deep level are challenging and time consuming.  We'd like to a
 - [CNCF](https://landscape.cncf.io/)
 - [Gitea](https://docs.gitea.io/en-us/comparison/).
 
-## ROI Model
-
-We have developed this ROI Model to capture the value provided by GitLab.  The intent is that customers will use this, optionally with help from the GitLab team, to capture the cost of ownership and value provided by GitLab v/s a Competitive product/solution.  This model will be continually revised to include new Use Cases and value drivers as we hear about them from our customers.
-
-[ROI Model in Google Sheets](https://docs.google.com/spreadsheets/d/1KJNnoZ29DHMckYsbuD-OMCDsy7KDZHwWTOWx6EfaWDo/edit?usp=sharing)
-
-NOTE: To prevent customers accidentally sharing information they would not want to we've made this document view only.  Please make a copy of this file  before inserting your numbers.
-
-## Win-Loss Analysis
-
-A key responsibility of the Competitive Intelligence team is understanding Win and Loss patterns and to glean generalizable insights into trends and patterns.  Here's the latest Win-Loss analysis.  Please note this document is only accessible by GitLab personnel.
-
-[Latest Win-Loss Analysis](https://docs.google.com/presentation/d/1nVsOg-HhNwJXWURZwz4HI0AUaBhSWCiegS-MD-NnoY4/edit#slide=id.g834ef2b6a8_0_52)
 
 ## Where we are headed
 
 Comparisons at a feature level are a great first step and they form the basis for higher level comparisons.  Customer's ultimately are interested in specific Use Cases and Capabilities that help them solve business problems.  We are working on building on the feature level comparison foundation to showcase how customer defined use cases are accomplished using GitLab and how it compares to other offerings.  Stay tuned for more updates on this.
 
 ### Strategy
-The competitive intelligence strategy will evolve to take a use case approach.  We will select key use cases that comprise the "Lovable" category within GitLab (see below).  Moreover, we will start with analyzing some key competitors, so as to reduce the effort involved (see below).  For each use case-competitor scenario the goal of Competitive Intelligence will be to provide a complete set of assets and other deliverables that enable sales teams to compete and win.
+For each use case-competitor scenario the goal of Competitive Intelligence will be to provide a complete set of assets and other deliverables that enable sales teams to compete and win.
 The diagram below captures the overall approach.  The idea is that for each use case-competitor with the exception of the strategy document (hosted in Crayon), all other resources should generally be publicly accessible.  This is in keeping with GitLab value of Transparency.
 
 ![Competitive Framework](compintel-strategy.png)
 
-### Use Cases Scope
-Initially we will target the following use cases:
-1. SCM
-2. CI-CD
-3. DevSecOps
-
-### Competitor Scope
-Initially we will focus on the following key competitors:
-
-1. MSFT Azure DevOps
-2. GitHub
-3. Atlassian
-4. CloudBees-Jenkins
-
-Even a limited set of Use Cases and Competitors can result in several possible combinations.  To focus our efforts we will prioritize the most common combinations faced in sales situations. 
 
 [See the Solutions Marketing page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/) for more information.  
