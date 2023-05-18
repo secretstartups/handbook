@@ -65,8 +65,9 @@ Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSf5yUA-H0RS
 | 2023-06-12 | Call for Mentees | |
 | 2023-06-23  | Applications Close | |
 | 2023-06-30   | Pairing of mentor relationships complete and communicated to applicants | |
-| By 2023-06-14 | Mentor/Mentee pre-program coffee chats | |
-| Week of 2023-06-14  | Initial program Kickoff meeting |
+| By 2023-07-14   | Pre-Program survey sent via Culture Amp | |
+| By 2023-07-14 | Mentor/Mentee pre-program coffee chats | |
+| Week of 2023-07-14  | Initial program Kickoff meeting |
 | Week of 2023-11-30 | End of program feedback due |  |
 
 
