@@ -58,6 +58,12 @@ which can be found
       <td>
       </td>
       <td>
+        <ul style='list-style: none; padding-left: 0px;'>
+          <li>
+          <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+          <a href='https://customers.gitlab.com/' target='_blank'>Customers Portal</a>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -69,7 +75,7 @@ which can be found
             <a href='https://gitlab.pagerduty.com/' target='_blank'>Pagerduty</a>
           </li>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
             <a href='https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-global' target='_blank'>ZD<>SFDC sync global</a>
           </li>
           <li>
@@ -85,12 +91,22 @@ which can be found
       <td>
         <ul style='list-style: none; padding-left: 0px;'>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
             <a href='https://gitlab.com/gitlab-com/support/toolbox/mechanizer' target='_blank'>Mechanizer</a>
           </li>
         </ul>
       </td>
       <td>
+        <ul style='list-style: none; padding-left: 0px;'>
+          <li>
+            <i class="fas fa-square fa-fw" style="color:rgb(204,204,0);"></i>
+            <a href='https://status.io/' target='_blank'>Status.io</a>
+          </li>
+          <li>
+            <i class="fas fa-square fa-fw" style="color:rgb(204,204,0);"></i>
+            <a href='https://zapier.com/' target='_blank'>Zapier</a>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -98,7 +114,7 @@ which can be found
       <td>
         <ul style='list-style: none; padding-left: 0px;'>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
             <a href='https://gitlab.unbabel.com/' target='_blank'>Unbabel</a>
           </li>
           <li>
@@ -106,11 +122,11 @@ which can be found
             <a href='https://calendly.com/' target='_blank'>Calendly</a>
           </li>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
             <a href='https://gitlab.com/gitlab-com/support/support-ops/other-software/lnr-ir-processor' target='_blank'>Global IR Form/Processor</a>
           </li>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
             <a href='https://gitlab.com/gitlab-com/support/support-ops/other-software/lnr-ir-processor-us-federal' target='_blank'>US Federal IR Form/Processor</a>
           </li>
           <li>
@@ -118,12 +134,24 @@ which can be found
             <a href='https://gitlab.1password.com/' target='_blank'>1Password Support Vault</a>
           </li>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
             <a href='https://zapier.com/' target='_blank'>Ticket feedback Global</a>
           </li>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
             <a href='https://gitlab.com/gitlab-com/support/support-ops/forms/us-federal-customer-feedback' target='_blank'>Ticket feedback US Federal</a>
+          </li>
+          <li>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <a href='https://about.gitlab.com/handbook/support/workflows/large_files.html' target='_blank'>Support Uploader</a>
+          </li>
+          <li>
+            <i class="fas fa-square fa-fw" style="color:rgb(204,204,0);"></i>
+            <a href='https://gitlab.com/gitlab-com/support/support-ops/other-software/free-user-offer-processor' target='_blank'>Free user offer form/processor</a>
+          </li>
+          <li>
+            <i class="fas fa-square fa-fw" style="color:rgb(204,204,0);"></i>
+            <a href='https://gitlab.com/support/usage-ping-request' target='_blank'>Usage ping requests form/processor</a>
           </li>
         </ul>
       </td>
@@ -166,9 +194,8 @@ which can be found
       <td>
         <ul style='list-style: none; padding-left: 0px;'>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
-            <i class="fas fa-exclamation-circle fa-fw" style="color:rgb(128,128,128);"></i>
-            <a href='https://gitlab.com/gitlab-com/support/support-uploader/' target='_blank'>Support Uploader</a>
+            <i class="fas fa-square fa-fw" style="color:rgb(204,204,0);"></i>
+            <a href='https://customers.staging.gitlab.com/' target='_blank'>Customers Portal Staging</a>
           </li>
         </ul>
       </td>
