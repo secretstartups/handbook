@@ -32,7 +32,7 @@ Monthly self-managed release preparation steps
 2. Following a successful deployment to GitLab.com a stable branch is created for the targeted [semver] version with a stable suffix, eg. ```12-3-stable``` and a test release candidate (RC) is tagged. The test RC checks that a package can be built and successfully deployed and tested on the [Pre](https://about.gitlab.com/handbook/engineering/infrastructure/environments/#pre) environment. At this point [release managers](https://about.gitlab.com/community/release-managers/) will announce the final commit to be included in the release 
 3. After confirming automated tests have passed on the CE stable branch, EE stable branch, and Omnibus stable branches the release managers will tag the release
 4. The release package is built and deployed to the [Release](/handbook/engineering/infrastructure/environments/#release) environment
-5. On the 22nd the release package and the release blog post are published 
+5. On the 22nd the release package and the release blog post are published
 
 ### Timelines
 
@@ -74,6 +74,32 @@ The last commit to make it into the release will have a message similar to this:
 https://gitlab.com/gitlab-org/gitlab/-/commits/13-1-stable-ee
 
 Merge Requests that have been included in the monthly release will receive [a label indicating inclusion](https://about.gitlab.com/handbook/engineering/releases/#labels-indicating-inclusion-in-upcoming-self-managed-release).
+
+## Patch releases overview
+
+The [patch release policy] allows bug fixes to be backported to the current stable released version of GitLab. Patches are created on demand according to our
+[maintenance policy] and at the discretion of release managers. Patches that are outside of our [maintenance policy] for bug
+fixes must be requested and agreed upon by the release managers and the requester (see
+[backporting to versions outside the maintenance policy] for details).
+
+### Patch release process
+
+Patches are released on an as-needed basis in order to fix regressions in the
+current self-managed release. The end-to-end process consists on the following stages:
+
+1. **Prepare** - A merge request backporting a bug fix to the current version is prepared by
+   GitLab engineers.
+1. **Test** - The merge request executes end-to-end tests via package-and-test pipeline
+   to guarantee the bug fix meets the quality standards.
+1. **Merge** - The merge request is merged by a GitLab maintainer in the stable branch associated
+   with the current version.
+1. **Analysis** - To determine if a patch release is required, release managers analyze the severity and number of backports waiting to be patch along other release pressures.
+1. **Tag** - Release managers tag a new patch release package for the current version.
+1. **Deploy** - The patch release package is deployed and tested to the GitLab Release instance.
+1. **Publish** - Release managers publish the packages associated with the patch release.
+
+Details of steps 1 to 3 can be found on the [patch release runbook for GitLab engineers] while details for steps 4 to 7
+can be found on the [patch release runbook for release managers].
 
 ## Labels of importance
 
@@ -263,6 +289,7 @@ If you need any additional help please ask the Release Managers in the [#release
 [post-deploy migrations]: https://docs.gitlab.com/ee/development/database/post_deployment_migrations.html
 [post-deploy migration pipeline documentation]: https://gitlab.com/gitlab-org/release/docs/-/tree/master/general/post_deploy_migration
 [internal-pilot-question]: #where-i-can-learn-more-about-the-internal-patch-release-pilot-for-gitlab-engineers
-[announcement-issue]: https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2886
-[new-patch-release-runbook]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/process_new.md
-[maintenance-policy-extension]: https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/828
+[backporting to versions outside the maintenance policy]: https://docs.gitlab.com/ee/policy/maintenance.html#backporting-to-older-releases
+[patch release runbook for GitLab engineers]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/engineers.md
+[patch release runbook for release managers]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/release_managers.md
+[patch release policy]: https://docs.gitlab.com/ee/policy/maintenance.html#patch-releases
