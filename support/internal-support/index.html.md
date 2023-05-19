@@ -107,7 +107,7 @@ Note that you cannot send public replies to customers with a Light Agent account
 | Who is on-call for GitLab.com CMOC? | Run `/chatops run oncall cmoc` in a direct message to `GitLab Chatops` and review the results. This will **not** page the on-call engineer. |
 | Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist. |
 | Report complaints about support that you received from a client or prospect | [Open an issue](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect%20Feedback) using the `Indirect Feedback` template. |
-| See if an inactive GitLab.com Namespace can be claimed | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Name%20Squatting%20Request) using the `Name Squatting Request` template.
+| See if an inactive GitLab.com Namespace can be claimed | If you are a GitLab team member requesting on behalf of a customer, please use the [GitLab Support Form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000803379) and select `Namesquatting Requests` as the Problem Type. Prospects, free users and GitLab team members do not qualify for name squatting requests.|
 
 ### GitLab plan or license for team members
 
