@@ -978,7 +978,7 @@ Save the changes and wait for Google Mail to reload.
 ### Google Slides
 
 Use this general [FY24 GitLab Slide Template](https://docs.google.com/presentation/d/14K2lcPnX4pAElgeOpdT-gdamrm5jbgaipvZvVV1pMbk/edit?usp=sharing) when creating slide decks for internal and external use.
-Make a copy of the slide deck and only edit the copy; please do not edit the template itself. To avoid potentially editing the source deck, you can go to the [Template gallery](https://docs.google.com/presentation/u/0/?ftv=1&tgif=d) and click on the `FY23 GitLab Theme Template` to quickly make a copy and begin a new deck. Ensure that all pages in the slide deck are numbered, with the title page always being number 1.
+Make a copy of the slide deck and only edit the copy; please do not edit the template itself. To avoid potentially editing the source deck, you can go to the [Template gallery](https://docs.google.com/presentation/u/0/?ftv=1&tgif=d) and click on the `FY24 GitLab Theme Template` to quickly make a copy and begin a new deck. Ensure that all pages in the slide deck are numbered, with the title page always being number 1.
 
 #### Updating your existing slide deck theme
 
