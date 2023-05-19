@@ -121,6 +121,82 @@ At GitLab, we define them a bit differently:
 - Closed
   - We use them exactly as Zendesk defines them.
 
+## Manually creating tickets
+
+The process to manually create a ticket depends largely on the type of ticket it
+is.
+
+#### Creating tickets on behalf of customers
+
+When creating a ticket on behalf of a customer, you need to navigate to the
+support portal for the Zendesk instance you are working on in a browser that is
+_not logged into Zendesk_. From there, you would create a ticket much like any
+customer would. See
+[Creating a ticket](https://about.gitlab.com/support/portal/#creating-a-ticket)
+for more information.
+
+#### Creating tickets for outbound requests
+
+**Warning** This often requires the ability to _create users_ in Zendesk, which
+is only available on specific roles. That access is _very_ risky and should only
+be used as documented in this section.
+
+**Note** This only applies to Zendesk Global at this time.
+
+**Note** Doing this will bring up the new ticket page. The main part of the page
+may look different depending on if you are using the
+[agent workspace](/handbook/support/readiness/operations/docs/agent_workspace)
+or not, but the left side should be uniform.
+
+When you need to send an outbound request, it must be done in a very specific
+manner to ensure it routes properly and the end-user we wish to contact receives
+the correct notification.
+
+To do this, start by hover over the `+ Add` at the top-left of Zendesk and then
+click `Ticket`.
+
+![Manually creating a ticket 1](/handbook/support/readiness/operations/images/manually_create_ticket1.gif)
+
+The first thing you need to do is select the requester. To do this, click in the
+text box below `Requester` at the top-left of the page and put the email you are
+looking to reach out to.
+
+The action taken next depend on whether the user in question exists or not:
+
+- If the user exists, it will show said user in a drop-down (clicking said entry
+  in the drop-down will select the user).
+  ![Manually creating a ticket 2](/handbook/support/readiness/operations/images/manually_create_ticket2.gif)
+- If the user does not exist, no results will be found and you will need to
+  click the `+ Add user` link in the drop-down. Doing so will bring up a modal
+  where you will enter the name and email of the user to create. If you are
+  unsure of the name, it is always safest to use the email itself for both the
+  name and email field. Click the blue `Add` button to create the user.
+  ![Manually creating a ticket 3](/handbook/support/readiness/operations/images/manually_create_ticket3.gif)
+  - **Warning** Never create a user in any other fashion. This is the one and
+    only way a user should ever be manually created within our support system by
+    any team other than Support Readiness. Never utilize this method when CC'ing
+    a user.
+
+After doing this, you should add the subject of the ticket. This should always
+be done via the top-center part of the page.
+
+After filling out the subject, you now need to apply the macro
+`General::Outbound Contact Request`. This step is **vital** and should never be
+skipped. This macro will ensure the ticket is setup properly for an outbound
+request. Skipping this step can result in the new ticket not routing properly
+and encountering an untold number of problems.
+
+![Manually creating a ticket 4](/handbook/support/readiness/operations/images/manually_create_ticket4.gif)
+
+After this has been done, you will then enter the description for the ticket.
+This is the core of the message you are wanting to send to the end-user.
+
+Once this has been completed, the last step is to then finish creating the
+ticket by submitting it as _pending_. This is done by clicking the downward
+arrow at the bottom-right of the page and clicking `Submit as Pending`.
+
+![Manually creating a ticket 5](/handbook/support/readiness/operations/images/manually_create_ticket5.gif)
+
 ## Change management
 
 As the ticket settings changes are unique in deployment, please see
