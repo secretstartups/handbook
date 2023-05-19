@@ -646,12 +646,21 @@ To create the external stage, the new path to the bucket must be included (inclu
     ```sql
     DESC INTEGRATION GCS_INTEGRATION;
     ```
-1. From the output, copy the value  under `property_value` where property=`STORAGE_ALLOWED_LOCATIONS`. It will look something like: `gcs://postgres_pipeline/,gcs://snowflake_backups,..`
-1. Next, update the alter statement below, by taking 'current_paths' that you just copied and combine it with the 'new_path' that you want to add. Values needs to be separated by a `,`. 
-    ```sql
-    ALTER INTEGRATION GCS_INTEGRATION 
-    SET STORAGE_ALLOWED_LOCATIONS = ('<<<<current_paths,new_path>>>>')
-    ```
+1. From the output, copy the value  under `property_value` where property=`STORAGE_ALLOWED_LOCATIONS`. It will look something like: `gcs://postgres_pipeline/,gcs://snowflake_backups,..`.
+1. Update the Storage Integration, instructions:
+    - take the 'current_paths' that you just copied and combine it with the 'new_path' that you want to add.  
+        - Each path needs to be separated by a `,` 
+        - Each path needs to have it's own pair of  `''`, These need to be added manually
+    - ALTER statement template:
+        ```sql
+        ALTER STORAGE INTEGRATION GCS_INTEGRATION
+        SET STORAGE_ALLOWED_LOCATIONS = ('current_path1','current_path2','new_path');
+        ```
+    - ALTER statement example:
+        ```sql
+        ALTER STORAGE INTEGRATION GCS_INTEGRATION 
+        SET STORAGE_ALLOWED_LOCATIONS= ('gcs://postgres_pipeline/','gcs://snowflake_backups','gcs://snowflake_exports');
+        ```
 1. After you run the ALTER statement, the new stage can now be created, like so:
     ```sql
     CREATE STAGE "RAW"."PTO".pto_load
