@@ -93,10 +93,9 @@ The issue verification should be done by someone else other than the MR author. 
 
 - All MRs should have verification steps in the description.
 - When an engineer has merged their work, they should move their issue into the verification status, indicated by the `~workflow:verification` label and wait until they receive notification that their work has been deployed on staging via the release issue email.
-- If possible, after the engineer has received the notification and verified their work in staging, they leave a comment summarizing the testing that was completed in the issue. It would be ideal if the verification includes a brief exploratory test session in addition to the prescribed verification steps. That is, a few minutes spent using the feature in a way you haven't before, which doesn't follow the happy path or the precise verification steps.
-- After the change is available on .com/production, the engineer should verify again and leave a comment summarizing the testing that was completed. Also provide a link to a project or page, if applicable.
+  - For ~`~type::bug`, `~type::feature`, or big changes the engineer should verify again once the change is available on .com/production and leave a comment summarizing the testing that was completed. Also provide a link to a project or page, if applicable.
 - Issues in the `~workflow:verification` state are assigned randomly by the triage bot based on the verification policy to an applicable team engineer. This engineer should then additionally verify the issue.
-- Once the issue has been verified in production by both engineers, the verifying engineer will close the issue and unassign themselves. The issue will automatically get the `~workflow::complete` label added.
+- Once the issue has been verified in production, the verifying engineer will close the issue and unassign themselves. The issue will automatically get the `~workflow::complete` label added.
 
 In cases where verification in staging or production is unfeasible, the [staging-ref environment](https://about.gitlab.com/handbook/engineering/infrastructure/environments/staging-ref/) may be used. For complex setups, the DRI for the MR should work with a domain expert to ensure verification steps are clear and correct.
 
