@@ -205,6 +205,13 @@ If your request meets any of the below criteria, add the additional time noted f
 - **TIP:** To increase speed of approval, upload any security compliance documentation (SOC-2 Report, ISO27001 Certificate) to the ZipHQ Request and notify your supplier contact they will be receiving a request from ZenGRC for completion ASAP.
 - For any inquiries and questions, please tag @securityrisk in the #procurement slack channel. 
 
+### PeopleOps Review: 1-4 Days
+- PeopleOps serve as reviewers on all professional services requisitions to determine if a background screening is necessary.
+- Per GitLab's [People Policies](https://about.gitlab.com/handbook/people-policies/#background-screenings) contractors are subject to complete a background screening. GitLab will accept a completed background screening from a contractor's employer. However, if a background screening was never conducted GitLab will either complete one or ask that one be completed. 
+- Approval will occur once proof of a completed or an initiated background screening has been shared or once the contractor has submitted their background screening for processing.
+- The Sr. Background Check Specialist will only follow up if a result of concern returns on the background screening.
+- Questions and/or proof regarding background screenings on professional service requisitions in Zip can be sent to [backgroundchecks@gitlab.com](mailto:backgroundchecks@gitlab.com).
+
 ### Privacy Review: 4-14 Days
 - This activity begins **after** the supplier completes a Privacy and Trade Compliance Assessment form and a Transfer Impact Assessment Form (where personal data is transferred from the EU to the U.S.) Oftentimes, it can take a week for the supplier to respond and complete the requested forms. The SLA begins once that is completed.
 - Time before this activity can begin is entirely dependent upon the supplier's response time and whether a DPA/SCCs are required. 
