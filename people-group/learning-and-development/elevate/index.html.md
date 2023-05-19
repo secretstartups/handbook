@@ -143,6 +143,15 @@ Following the certification, a member of the L&D team will follow up with your r
 
 ## Frequently Asked Questions
 
+### What does success in Elevate look like?
+
+To earn the final Elevate certification, participants must:
+
+1. Attend or makeup all live sessions, as outlined below
+1. Complete all self-paced work in Level Up
+1. Submit an Elevate Project
+1. Pass the Elevate Certification
+
 ### Is my participation in Elevate required?
 
 Yes, this is a required training for all people leaders at GitLab.
@@ -153,7 +162,9 @@ When the program begins, you'll be added to a Slack group that includes all memb
 
 ### I missed, or cannot attend, a live learning or group coaching. What do I do?
 
-It's a requirement to make up missed sessions within each month to ensure that you're learning each new skill and moving through the program in the appropriate order. Please make every effort to attend live sessions as scheduled. If a conflict arises for your assigned group coaching session, you can attend with another cohort. **Please reach out proactively to a member of the Learning and Development Team if you cannot attend a session.**
+It's a requirement to make up missed sessions within each month to ensure that you're learning each new skill and moving through the program in the appropriate order. Please make every effort to attend live sessions as scheduled. We have [2 makeup options outlined below](/handbook/people-group/learning-and-development/elevate/#making-up-missed-sessions). If a conflict arises for your assigned group coaching session, you can attend with another cohort. If none of the live session times work for you, you can complete the Buddy Makeup. **Please reach out proactively to a member of the Learning and Development Team if you cannot attend a session.**
+
+We're committed to working with you to find a solution that let's you successfully complete Elevate. If you must miss one live session for personal reasons, you need approval from your manager. Additional missed sessions will result in an incomplete Elevate status.
 
 ### What if I have already completed the manager challenge? 
 
@@ -170,6 +181,7 @@ We currently plan for a new group of ~100 people leaders to start this program e
 ### Is there opportunity to participate in the program if I am an aspiring manager? 
 
 Due to our priority to certify 85% of our people leaders in FY24, participation by aspiring managers is not currently an option. 
+
 
 ## Making up missed sessions
 
