@@ -11,6 +11,8 @@ title: "Tax Treatment of Stock Options at GitLab PTY Ltd"
 
 The information on this page should be used for discussion purposes only. For any personal advice please reach out to a tax professional.
 
+For more information on Restricted Stock Units (RSUs) and tax obligations for Australian team members, see [RSU Tax Treatment (Australia)](./rsu-tax-treatment.html.md)
+
 ### Equity Award
 Stock Option Plan
 
