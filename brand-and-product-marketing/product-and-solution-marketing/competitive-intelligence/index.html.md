@@ -73,7 +73,7 @@ We will engage Clozd with 60 interviews over the course of FY 2024. Our aim is t
 Our win criteria:
 
 - The larger the better (ideally Enterprise customer)
-- A customer that recently chose GitLab
+- A customer that recently chose GitLab, and which has successfully onboarded.
 - A customer that was evaluating other competitors (preferably GitHub or other major competitors)
 - A customer that chose us for "interesting" criteria, (e.g. that are either our strengths, or elements where we usually lose to competitors, not just because we might have been cheaper)
 
