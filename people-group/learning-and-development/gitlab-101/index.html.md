@@ -233,10 +233,10 @@ As you learned in the technical terminology portion, a GitLab Merge Request (MR)
 
 Follow the instructions to [Edit the Handbook](https://about.gitlab.com/handbook/git-page-update/#13-edit-the-handbook) which include creating a merge request to commit an edit.
 
-#### Video: How to create a GitLab Merge Request (~10 minutes)
+#### Video: How to create a GitLab Merge Request (~20 minutes)
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/DJo4bQdawSo?t=632" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/DJo4bQdawSo" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ### How to search for a GitLab Merge Request
