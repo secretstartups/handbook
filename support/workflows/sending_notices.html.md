@@ -39,37 +39,12 @@ However, some contact requests may involve contacting all of the owners of multi
 
 Make sure to [add an admin note](admin_note.html) on a user/group we took action on. This will ensure that we can track a block/change reason if a user reaches out to us using a different channel. 
 
-There are various [macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/tree/master/macros/active/Support/SaaS/Notices) in the `Support::SaaS::Notices` section can be used as a template when only a few users need to be contacted.
-
-
 ### Manually create a Zendesk ticket
 
-#### The user exists in Zendesk
-
-The easiest way to send a customer notice is to [manually create a Zendesk ticket](https://support.zendesk.com/hc/en-us/articles/4408882462618-Creating-a-ticket-on-behalf-of-the-requester). 
-
-1. Briefly, in any view in Zendesk, click the `+ Add` button, or mouse-over the `+ Add` button and choose "New -> Ticket". 
-1. The requestor email is the person you want to send to. If the user does not exist, you will see the message `You do not have permission to create new users`. Move onto the next section if the user does not exist.
-1. Type a sensible subject and body and assign yourself.
-1. Use `General::Outbound Contact Request` to automatically set the form and appropriate tags to skip automations, such as SSAT and avoiding other autoresponders.
-1. Set the status appropriately:
-   - **Pending** if you're expecting a response from the user
-   - **Solved** if no response is expected
-
-#### The user does not exist
-
-When the user does not exist, [open a ticket on behalf of the user](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#8-how-can-i-open-a-new-ticket-on-behalf-of-a-customer). Due to security restrictions, Support Engineers cannot create users manually if the user doesn't exist in Zendesk.
-
-1. Start a request on the ticket portal following the [instructions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#8-how-can-i-open-a-new-ticket-on-behalf-of-a-customer).
-1. Place the following in the body of the message, ensuring that USER is replaced:
-    > This ticket is being opened on behalf of "USER" for an outbound request. We will respond to this request with details shortly.
-1. Submit the ticket. Once the ticket ID is obtained, go to the ticket in Zendesk and use the `General::Outbound Contact Request` macro to automatically set the form and appropriate tags to skip automations, such as SSAT and avoiding other autoresponders.
-1. Assign yourself and respond to the user with the body of the message and reason you are contacting them.
-1. Set the status appropriately:
-   - **Pending** if you're expecting a response from the user
-   - **Solved** if no response is expected
-
-Note that if the user does not exist in Zendesk, they'll get a one bot response but setting the macro will ensure it has the correct tags.
+For the process of sending the outbound contact requests in Zendesk, please
+review the 
+[Support Readiness documentation](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
+for more information.
 
 ### Customer Ticket Generator (Currently under review)
 
