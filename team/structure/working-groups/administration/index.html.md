@@ -33,7 +33,7 @@ The maintenance and enhancement of GitLab Administration functions has been a sh
 
 ### Exit Criteria 
 
-1. Owners of the items in [this spreadsheet](https://docs.google.com/spreadsheets/d/139BM766XqosbkyZOdPbN9NaClGKl-3amSViSVjor8DU/edit?usp=sharing) are identified, acknowledged, and documented in the handbook.
+1. Owners of the items in the Admin Area of GitLab are identified, acknowledged, and documented in the handbook.
 2. Owners of things related to instance management (upgrade, backup and restore, metrics, performance) and configuration are identified, acknowledged, and documented in the handbook.
 3. A proposal for a new team in case there is a need for certain items of the GitLab Administrator features. There is a chance this is unnecessary if the above two items cover all features.
 4. A process of identifying Owners for future administration features is documented in the handbook.
