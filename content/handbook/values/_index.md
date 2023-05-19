@@ -4,6 +4,7 @@ description: Learn more about how we live our values at GitLab
 canonical_path: "/handbook/values/"
 images:
     - /images/opengraph/gitlab_values_handbook_social_card.png
+no_list: true
 ---
 
 ## CREDIT
