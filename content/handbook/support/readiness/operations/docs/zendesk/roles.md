@@ -59,6 +59,25 @@ We currently maintain all groups via Zendesk itself.
   - Analytics
     - Explore permissions: View reports
     - Reports permissions: View, add, and edit
+- [Security Staff](https://gitlab.zendesk.com/admin/people/team/roles/8869988210972)
+  - Tickets
+    - Tickets they can access: All, including those in private groups
+    - Edit ticket properties: Checked
+      - Delete tickets: Checked
+      - Redact ticket content: Checked
+      - Merge tickets: Checked
+      - Edit ticket tags: Checked
+    - Commenting permissions: Public and private comments
+  - People
+    - End-user profile access: Add, edit, and delete for all end users
+    - View user profile lists: Checked
+  - Agent workflow
+    - Views permissions: Add and edit personal views
+    - Macros permissions: Apply only
+    - Contribute to side conversations: Checked
+  - Analytics
+    - Explore permissions: View reports
+    - Reports permissions: View, add, and edit
 - [Light agent](https://gitlab.zendesk.com/admin/people/team/roles/360004984553)
   - Omitting details as it is a system role
 - [Support Managers](https://gitlab.zendesk.com/admin/people/team/roles/360001716340)
@@ -112,6 +131,26 @@ We currently maintain all groups via Zendesk itself.
     - Commenting permissions: Public and private comments
   - People
     - End-user profile access: Read only
+    - View user profile lists: Checked
+  - Agent workflow
+    - Views permissions: Add and edit personal views
+    - Macros permissions: Apply only
+    - Contribute to side conversations: Checked
+  - Analytics
+    - Explore permissions: Create reports
+    - Reports permissions: View, add, and edit
+- [Support Staff - CMOC](https://gitlab.zendesk.com/admin/people/team/roles/8869919308956)
+  - Tickets
+    - Tickets they can access: All, including those in private groups
+    - Edit ticket properties: Checked
+      - Delete tickets: Checked
+        - View deleted tickets: Checked
+      - Redact ticket content: Checked
+      - Merge tickets: Checked
+      - Edit ticket tags: Checked
+    - Commenting permissions: Public and private comments
+  - People
+    - End-user profile access: Add, edit, and delete for all end users
     - View user profile lists: Checked
   - Agent workflow
     - Views permissions: Add and edit personal views
