@@ -17,13 +17,13 @@ Q: When is my GitLab subscription due for renewal?
 
 A: Login to customers.gitlab.com to see the renewal/ expiry date.
 
-![renewal.due](/images/handbook/sales/commerical/when.is.my.renewal.due.png)
+![renewal.due](/handbook/sales/images/when.is.my.renewal.due.png)
 
 Q: Where can I manage my GitLab subscription and upcoming renewal?
 
 A: Once logged into to customer.gitlab.com, you will see various options regarding your upcoming renewal, including *Upgrade Plan* & *Add More Seats*
 
-![manage.renewal](/images/handbook/sales/commerical/where.can.i.manage.png)
+![manage.renewal](/handbook/sales/images/where.can.i.manage.png)
 
 Q: Will my GitLab subscription auto renew?
 
@@ -33,7 +33,7 @@ A: Once logged into to customer.gitlab.com, you will see one the following under
 
 *Renews* indicated Auto Renew is On, *Expire*s indicated Auto Renew is Off.  Should you wish to turn Auto Renew back on, you can select the *Resume Subscription* option. 
 
-![manage.renewal](/images/handbook/sales/commerical/am.i.on.auto.renew.png)
+![manage.renewal](/handbook/sales/images/am.i.on.auto.renew.png)
 
 Q: When my GitLab subscription is due for renewal, am I able to add or remove licenses?
 
@@ -55,7 +55,7 @@ Q: In the GitLab customer portal, I see the option to cancel my subscription. Wh
 
 A: In customers.gitlab.com, if *Cancel subscription* is highlighted then this means auto-renew is turned on. Clicking *Cancel* turns off auto-renew. You will still have access to your paid features until the subscription expiration date.
 
-![renewal.status](/images/handbook/sales/commerical/renewal.status.png)
+![renewal.status](/handbook/sales/images/renewal.status.png)
 
 Q: In the GitLab customer portal, I see the option to resume my subscription. What happens if i click resume?
 
