@@ -254,31 +254,6 @@ This is especially useful when you're working on a cellular/metered connection. 
 
 ## Text editors
 
-### JetBrains
-
-We have a central account for managing licenses of JetBrains' products like RubyMine or GoLand.
-If you want to use one of their products, please log an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests) and select the best option for your situation (single user, bulk user, etc.) and, once approved by your manager, [activate a license for yourself](https://www.jetbrains.com/help/license-vault-cloud/Activating_a_license.html). Use the license server URL `https://gitlab.fls.jetbrains.com` when activating your IDE, and be sure to log in via Okta when prompted to authenticate. Make sure to use your company email address when creating your Jetbrains account.
-
-If you have an Individual License acquired through your own means, it is suitable for [General commercial use](https://www.jetbrains.com/store/comparison.html#LicenseComparison) and you may use it. However, GitLab will not reimburse an Individual License, as Individual License cannot be purchased or reimbursed by companies. That being said, even if you used to use an Individual License, you can always request a company issued one.
-
-Useful plugins:
-
-- [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink/) - It provides a shortcut to open a file or commit in GitLab.
-
-### Sublime Text
-
-Putting the following in Preferences.sublime-settings - User will among other things ensure that if you open the www-gitlab-com website you're not opening the output files by accident:
-
-```css
-{
-  "font_size": 18,
-  "spell_check": true,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "folder_exclude_patterns": ["public"]
-}
-```
-
 ### GitHub Copilot
 
 GitHub released [Copilot](https://copilot.github.com), an AI-powered tool for in-situ suggestions within VSCode, in 2021. It’s an interesting and exciting tool. However at this time it does not guarantee that the code being suggested is strictly sourced from codebases governed by [an open source license compatible with our own project](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/LICENSE) which could lead to license conflicts. Until the licensing of the suggestions is established, please don't use Copilot.

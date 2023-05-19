@@ -1,0 +1,12 @@
+{{- define "subpages" -}}
+<ul>
+  {{ range .Pages }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ if .Pages }}
+  {{- template "subpages" . -}}
+  {{ end }}
+  {{ end }}
+</ul>
+{{- end -}}
+
+{{- template "subpages" .Page -}}

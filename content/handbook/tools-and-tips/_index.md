@@ -1,17 +1,15 @@
 ---
 title: Tools and tips
+no_list: true
 ---
 
-This page contains useful tips for working at GitLab and for various tools we use such as [Slack](#slack), [Zoom](#zoom), and [Google](#google).
+## Overview
 
-You can find more tools and tips in the following sub-pages:
+This page contains useful tips for working at GitLab and for various tools we use.
 
-- [macOS page](/handbook/tools-and-tips/mac/)
-- [Linux page](/handbook/tools-and-tips/linux/)
-- [Other apps](/handbook/tools-and-tips/other-apps/)
-- [How to search like a pro](/handbook/tools-and-tips/searching/)
-- [`git` page](/handbook/tools-and-tips/git/)
-- [`rubocop` page](/handbook/tools-and-tips/rubocop/)
+## Sub-pages
+
+{{< subpages >}}
 
 ## GitLab tips
 
