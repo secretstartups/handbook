@@ -22,7 +22,7 @@ A good editor/IDE will have:
 
 Many editors are free to use, some require paid licenses to unlock all features.
 GitLab team members can expense the cost of their tools, and in some cases we
-have licenses we can hand out (for example for [RubyMine](#rubymine)).
+have licenses we can hand out (for example, for [JetBrains IDEs](jetbrains-ides/#licenses)).
 
 There are many, many good text editors.
 
