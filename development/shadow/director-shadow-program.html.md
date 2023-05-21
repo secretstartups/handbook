@@ -159,14 +159,15 @@ No, not at this time.
  |[Praveen Elamkootil](http://linkedin.com/in/ekpraveen) | Non-GitLab shadow |
 | [Jonathan Ducharme](https://www.linkedin.com/in/ducharme-jonathan/) | Non-Gitlab shadow - Engineering Manager at [AlleyCorp Nord](https://alleycorp.com/) |
 | [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer at [Alarm.com](https://alarm.com/) |
+|  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com) |
+|  [Jeremy Neff](https://www.linkedin.com/in/jeremy-r-neff/) | Non-GitLab shadow - Manager at [Joint Communications Unit](https://www.jcu.mil/) |
+
 
 ## Schedule
 
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| May 8      |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com) |
-| May 15     |  [Jeremy Neff](https://www.linkedin.com/in/jeremy-r-neff/) | Non-GitLab shadow - Manager at [Joint Communications Unit](https://www.jcu.mil/) |
 | May 23 - May 25     |  [Alexander Chueshev](https://gitlab.com/achueshev) | Senior Backend Developer at ModelOps, AI Assisted |
 | May 29     |  Not Available | |
 | June 5     |  Available | |
@@ -182,7 +183,7 @@ No, not at this time.
 | August 14  |  Available | |
 | August 21  |  Available | |
 | August 28  |  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
-| September 4|  Available | |
+| September 4|  Not Available | |
 | September 11 |  Available     |       |
 | September 18 |  Available     |       |
 | September 25 |  Available     |       |
