@@ -128,6 +128,18 @@ As we have a lot of involvement with our stable counterparts and reliability tea
     2. They fit under one of the quarterly [OKRs of the Reliability::Practices team](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Reliability%3A%3APractices&first_page_size=20).
     3. They take into account downtime related to the OnCall and OnCall follow up work.
 
+### Prioritization labeling
+
+To indicate priority of issues during an iteration we may use labels `~"Runner::P1" ~"Runner::P2" ~"Runner::P3"`.
+At a minimum we will always identify our top priorities using `~"Runner::P1"`.
+
+1. `~"Runner::P1"` means "elevated priority". We aim to deliver all or most of these issues.
+1. `~"Runner::P2"` means "normal priority".
+1. `~"Runner::P3"` means "reduced priority".
+1. `~"Runner::P*"` labels can and should differ from `~priority:*` labels.
+    [`~priority:*`](/handbook/engineering/quality/issue-triage/#priority) labels imply the timeline for when issues will be addressed.
+    While `~"Runner::P*"` indicate priority for the scheduled iteration.
+
 ### Design and development process
 
 We follow the [product development flow](/handbook/product-development-flow/). Our team uses one issue as SSOT for design, backend, and frontend work. 
