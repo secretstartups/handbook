@@ -30,7 +30,10 @@ The team's mission overlaps with that of several other teams. That being said, i
 The [Infrastructure Department](https://about.gitlab.com/handbook/engineering/infrastructure/) is focused on availability, reliability, performance, and scalability efforts of GitLab.com. The fast pace that's intrinsic to running a rapidly growing SaaS can often prove challenging to secure - operational issues, technical & security debt, rapid implementation of new technologies, all present serious security risks that could impact the success of the SaaS in the long run. This is where Infrastructure Security comes into play by serving the Infrastructure Department in 2 specific modes:
 
 * As an **internal consultancy** to help review and challenge decisions from a security standpoint (i.e. how to improve the security of k8s, what to log, what approach to take to access production environments in a secure and auditable way ...)
-* As an **external enabler** that alleviates Infrastructure's load from Security's incessant requests.
+* As an **external enabler** to simplify security nuances for all the teams and provide smooth engagement to make it easier for all the teams to be better at Infrastructure Security.  
+  - By contributing to security improvements and enhancements for the different codebases.  
+  - By building and maintaining tools to improve the audit, detection and response capabilities.  
+  - By working with the teams in defining policies and procedures to support decision making from an Infrastructure Security perspective.  
 
 The role of the Infrastructure Security team can hereby be compared to the role of the Application Security team - the latter helps with the quality of the code, while the former helps with the quality of the infrastructure.
 
@@ -88,7 +91,7 @@ To engage with the team:
 1. [Create an issue](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security/bau/-/issues) in our issue tracker dedicated to Business as Usual (BAU) activities and general inquiries.
     * It is not necessary to `@mention` anyone. In case you want to mention the whole team, use the `@gitlab-com/gl-security/security-operations/infrastructure-security` handle on GitLab.com.
     * You can also chat with us on Slack in the dedicated `#security-infrasec` channel or by tagging us `@infrasec-team`.
-    * You can also refer to the **[InfraSec Team Wiki](https://gitlab.com/groups/gitlab-com/gl-security/security-operations/infrastructure-security/-/wikis/home)** (internal only) for general information about the team and current projects.
+    * You can also refer to the **[InfraSec Team Wiki](https://internal-handbook.gitlab.io/handbook/security/infrastructure_security/#team-information)** (internal only) for general information about the team and current projects.
 1. The team will triage (and prioritise accordingly) all incoming request during the weekly team sync (usually happening on Tuesday).
 
 
@@ -107,7 +110,7 @@ The team does have set of regular synchronous calls:
 
 ### Team Pages
 * This [Handbook Page](https://about.gitlab.com/handbook/security/security-engineering/infrastructure-security/), which contains general information about the team
-* The [Team Wiki](https://gitlab.com/groups/gitlab-com/gl-security/security-operations/infrastructure-security/-/wikis/home), which is the operational source of truth for the team. Everyone is **encouraged** to check it out for team's information
+* The [Internal Handbook](https://internal-handbook.gitlab.io/handbook/security/infrastructure_security/), which is the operational source of truth for the team. Everyone is **encouraged** to check it out for team's information
 * The [Infrastructure Security GitLab Sub-Group](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security), which contains EPICs and repositories
 * The [Infrastructure Security **Public** Sub-Group](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security-public), which contains publicly facing resources (e.g., Docker images, etc.)
 
