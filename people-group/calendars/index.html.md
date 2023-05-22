@@ -13,5 +13,5 @@ description: >-
 
 # Calendars
 
-1. [People Leader Calendar](https://about.gitlab.com/handbook/people-group/calendars/manager-calendar/)
+1. [People Managers Calendar](https://about.gitlab.com/handbook/people-group/calendars/manager-calendar/)
 1. [All Team Member Calendar](https://about.gitlab.com/handbook/people-group/calendars/team-member-calendar/)
