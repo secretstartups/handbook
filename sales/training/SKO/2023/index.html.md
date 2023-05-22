@@ -11,13 +11,13 @@ description: "GitLab Sales Kickoff 2023"
 {:toc .hidden-md .hidden-lg}
 
 # Overview
-GitLab SKO 2023 will take place in-person and virtually from February 13-17, 2023. The event is offered in a hybrid format to accommodate our team members around the world who may be unable or unwilling to attend in person. To learn more about the event, see the [Field Team FAQ document](https://docs.google.com/document/d/1f8W927mNSmF6BwHbPCDiCLXjAGJ7eUOfA76UpXHhmn4/edit). 
+GitLab SKO 2023 took place from February 13-17, 2023. The event was offered in a hybrid format to accommodate our team members around the world. To learn more about the event, see the [Field Team FAQ document](https://docs.google.com/document/d/1f8W927mNSmF6BwHbPCDiCLXjAGJ7eUOfA76UpXHhmn4/edit). 
 
-## SKO 2023 Event Promo Video
+# Event Recordings 
 
-Coming soon...
+All SKO 2023 session recordings are now available! There are two ways to view all mainstage sessions, pre-recorded breakout sessions and supplemental videos:
+1. Access the [SKO 2023 page in Highspot](https://gitlab.highspot.com/spots/615dd82071cff4c4b2bcbc32?list=615de3de145718c4b165e083)
+1. If you do not have access to Highspot, you can view the [SKO 2023 Recordings Google Drive folder](https://drive.google.com/drive/folders/19qGDnfWQSK7fR7VEYuLMi7MkcPH8ovEU)
 
-# Watch Again
-
-All recordings from SKO 2023 will be available [in Highspot](https://gitlab.highspot.com/spots/615dd82071cff4c4b2bcbc32?list=615de3de145718c4b165e083) following the event.
+Remember: All SKO 2023 content is SAFE and should not be downloaded or shared externally for any reason. 
 
