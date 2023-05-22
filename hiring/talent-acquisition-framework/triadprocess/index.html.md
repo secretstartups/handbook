@@ -19,7 +19,11 @@ This group meets once a week to audit the centralized headcount report for their
 
 **DRI**: The relevant TA leader is the DRI in the meeting based on the fact that they are ultimately responsible for TA metrics and reporting for their group. TA leaders will drive the conversation to ensure three key outcomes (1) our planning and recruiting tools are aligned (2) our hiring forecasts are current and (3) all requisition changes are communicated and updated in Adaptive through sharing the **Triad Interlock Weekly Audit Report**. 
 
-**Contributors**: The remaining triad members (inclusive of both People Business Partners and Finance Buisness Partners) will be key contributors for the interlock meeting. Finance Buisness Partners are responsible for providing context where needed and ensuring Adaptive reflects all influenced inputs (ie: target start dates, requisition changes, etc.). People Business Partners are responsible for collaborating with FP+A and TA to help enable the partnership with business leaders.  
+**Contributors**: The remaining triad members (inclusive of both People Business Partners and Finance Buisness Partners) will be key contributors for the interlock meeting. 
+
+- Finance Buisness Partners are responsible for providing context where needed and ensuring Adaptive reflects all influenced inputs (ie: target start dates, requisition changes, etc.). 
+- People Business Partners (PBPs) are responsible for collaborating with FP&A and TA to help enable the partnership with business leaders. PBPs should be leading disucssions around organizational design with their client groups, leveraging relevant inputs from TA and FP&A. Discussions around organizational design include the correct job level for roles given the job responsibilities and skills required. If a discussion around organizational design happens without a PBP present, TA and FP&A team members should collaborate with the PBP to ensure alignment with the outcome and the business strategy. PBPs should bring insights on changes or trends in the organization to the triad relevant to accurate reporting and headcount planning.   
+
 
 #### Outcomes
 The successful output of the Triad meeting is aligned reporting, and data hygiene between systems and G&A parties. We will continue to have one source of truth for requisition status, hiring plan and hire data information enabled by this collaborative effort between TA, FP&A and PBPs.  
