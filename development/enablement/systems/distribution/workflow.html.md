@@ -185,6 +185,8 @@ The goal is to catch scope creep, ensure we are iterating in ways that deliver m
 
 Distribution team follows below dependency maintenance policy in order to achieve our [technology vision](/handbook/engineering/development/enablement/systems/distribution/#vision).
 
+Distribution aims to add support to newer release of Distribution managed dependencies within 3 to 5 milestones after their original release unless specified below otherwise.
+
 ### OS
 
 All the operating systems supported by GitLab and their EOL policy are listed in the [Supported OS doc page](https://docs.gitlab.com/ee/administration/package_information/supported_os.html) and [installation page](https://about.gitlab.com/install/).
