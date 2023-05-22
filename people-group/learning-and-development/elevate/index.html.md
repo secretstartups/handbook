@@ -225,9 +225,9 @@ People Leaders with direct reports who are in a current Elevate cohort could be 
 
 This section includes key resources for the Learning and Development team who delivers Elevate.
 
-### Lanugage
+### Language
 
-Refer to the table below to algin on language used to talk about Elevate.
+Refer to the table below to align on language used to talk about Elevate.
 
 | Term | Definition |
 | ----- | ---------- |
