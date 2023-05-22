@@ -290,7 +290,7 @@ The billing account is the representation of a billing entity which is mostly co
 
 #### See all invoices of a billing account
 
-1. In the desired billing account's detail view, click on `List invoices`.
+1. In the desired billing account's detail view, click on `List Invoices`.
 1. You will see a list of all invoices for that billing account including:
    - ID
    - Date
@@ -299,7 +299,26 @@ The billing account is the representation of a billing entity which is mostly co
    - Balance
    - Due date
 
-**Note:** This view is also visible for CDot admins with `read only` permissions.
+**Note:** This view is also accessible for CDot admins with `read only` permissions.
+
+#### See all payment methods on file for a billing account
+
+1. In the desired billing account's detail view, click on `List Payment Methods`.
+1. You will see a list of all payment methods on file for that billing account including:
+   - Credit card:
+     - Ending in
+     - Card type
+     - Name on card
+     - Expiration date
+
+   - ACH:
+     - Routing Number
+     - Account Number
+     - Account Type
+     - Bank Name
+     - Account Name 
+
+**Note:** This view is also accessible for CDot admins with `read only` permissions.
 
 ### Billing Acccount Memberships
 
