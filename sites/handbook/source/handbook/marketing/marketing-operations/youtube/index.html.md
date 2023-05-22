@@ -229,7 +229,7 @@ For People Connect troubleshooting:
 1. If a team member reaches out that they have not received their GitLab Unfiltered invite, resend the invite via the `Manage Permissions`
 1. Should the team member still not see the invite under `Pending Invitations`, revoke the original invite by doing `command f` in the `Manage Permissions` section for the team members email address. You can revoke by clicking the `X` next to the email address.
 1. Once you have revoked the invite, close the YouTube Unfiltered page and reopen. 
-1. Once reopen, select `Manage Permissions` and reinvite the team memebr by clicking on the `Add` option and enter the team members email address.
+1. Once reopen, select `Manage Permissions` and reinvite the team member by clicking on the `Add` option and enter the team members email address.
 1. This should now appear in the `Pending Invitations` section [here](https://myaccount.google.com/brandaccounts). 
 
 ## Commenting & Subscribing to Channels
