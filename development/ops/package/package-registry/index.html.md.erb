@@ -62,6 +62,18 @@ The DRI for a given project can be identified by looking at the corresponding ep
 
 Additionally, we maintain a list of active projects and the assigned DRI on this page, in [What Are We Working On](#what-are-we-working-on).
 
+### How we handle breaking changes
+
+Announce deprecations, breaking changes, and removals at least 3 milestone before (according to https://docs.gitlab.com/ee/development/deprecation_guidelines/#when-can-a-feature-be-removedchanged).
+
+- Before the major version milestone: implement the breaking change with a feature flag. A feature flag will be used every time unless there is a very good argument not to.
+- In the major version milestone:
+  - Rollout the feature flag.
+  - If no issues are detected, the change is considered stable and we can open the feature flag cleanup MR.
+
+By implementing the change before the major milestone we have less MRs to produce on the major version milestone. In addition, it allows more flexiblity. For example, if the rollout goes wrong. We have then two paths:
+- We can fix it before the end of the major version milestone and do the rollout again or
+- We can disable the feature flag and wait for the next major version milestone to re-do the rollout.
 
 ## 📈 Measuring results
 
