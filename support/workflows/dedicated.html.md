@@ -20,7 +20,7 @@ If you'd like to work on GitLab Dedicated tickets, consider [creating an issue u
 
 ### Administrative access to a Dedicated instance
 
-The GitLab Dedicated team does not have administrative access to the GitLab application on Dedicated instances. Any support requests that require a GitLab instance administrator to make a change in the admin panel, for example resetting 2FA, has to be performed by the appropriate team within the customer organization.
+The GitLab Dedicated team does not have administrative access to the [Admin Area](https://docs.gitlab.com/ee/user/admin_area/) in the GitLab application on Dedicated instances. Any support requests that require a GitLab instance administrator to make a change in the Admin Area, for example resetting 2FA, has to be performed by the appropriate team within the customer organization.
 
 ### Working with logs
 
