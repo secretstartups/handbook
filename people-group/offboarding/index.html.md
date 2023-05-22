@@ -327,13 +327,9 @@ The departing team member may work with their manager to author a goodbye messag
   3. Managers are encouraged to use the suggested template (above link) and have the space to add more color wherever they see fit.
 
 In some instances there will be no further clarification on why a team member has departed, if there are concerns you can address those with your manager.
-Different levels of transparency will exist based on maintaining respectful treatment for all departures.
-Having team members leave may be a learning opportunity for some, but should not be a point of gossip for anyone.
-Managers will need to balance the opportunity for learning with the expectation of privacy and consult their People Business Partner should they have questions.
+Different levels of transparency will exist based on maintaining respectful treatment for all departures. Having team members leave may be a learning opportunity for some, but should not be a point of gossip for anyone. Managers will need to balance the opportunity for learning with the expectation of privacy and consult their People Business Partner should they have questions.
 
-Transparency is one of our values.
-In the case of offboarding transparency [can be painfully specific, calling out an employee’s flaws, while inviting more questions and gossip](https://outline.com/PTGkER).
-We opt to share the feedback only with peers and reports of the person since we balance transparency with our value of collaboration and negative is 1-1.
+Transparency is one of our values. In the case of offboarding, transparency could be specific (e.g. calling out a team member's issues), while inviting more questions and gossip. We opt to share the feedback only with peers and direct reports as needed, since we balance transparency with our value of collaboration and [constructive guidance](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/) shared 1-1.
 
 ## Turnover Data
 
