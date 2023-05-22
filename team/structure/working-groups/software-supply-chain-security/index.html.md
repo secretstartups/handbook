@@ -80,11 +80,12 @@ A prioritized list of work will be tracked here after an engineering DRI has bee
 
 | Priority | Epic  | Status |
 | -------- | ----- | ------ |
-| 1        | [Research spike](https://gitlab.com/gitlab-org/gitlab/-/issues/396632) into the next steps to support [Native Signing of Build Artifacts](https://gitlab.com/groups/gitlab-org/-/epics/9212) | |
-| 2        | [User Experience for Signed Container Registry Images](https://gitlab.com/groups/gitlab-org/-/epics/7856)   | Designs complete; ready for refinement |
-| 3        | [Upstream Cosign changes to use a GitLab provider](https://gitlab.com/gitlab-org/gitlab/-/issues/388515) | Ready for development |
+| 1        | [Research spike](https://gitlab.com/gitlab-org/gitlab/-/issues/396632) into the next steps to support [Native Signing of Build Artifacts](https://gitlab.com/groups/gitlab-org/-/epics/9212) | Research in progress |
+| 2        | [User Experience for Signed Container Registry Images](https://gitlab.com/groups/gitlab-org/-/epics/7856)   | Backend development in progress; frontend development not currently resourced |
+| 3        | [Upstream Cosign changes to use a GitLab provider](https://gitlab.com/gitlab-org/gitlab/-/issues/388515) | Development in progress |
 | 4        | [User Experience for Signed Build Artifacts](https://gitlab.com/groups/gitlab-org/-/epics/8839)   | Designs nearly complete; almost ready for refinement |
-| 5+       | This is a WIP and we are still working to add a list of prioritized Epics to deliver on the rest of the exit criteria for the group. | In progress |
+| 5        | [Support for GitSign](https://gitlab.com/gitlab-org/gitlab/-/issues/364428) | Ready for refinement |
+| 6+       | This is a WIP and we are still working to add a list of prioritized Epics to deliver on the rest of the exit criteria for the group. | In progress |
 
 ## Outcome
 
