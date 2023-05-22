@@ -103,12 +103,12 @@ Once you've determined a severity for an issue add a note that explains in summa
 The severity label also helps us define the time a ~"type::bug" or ~"corrective action" of that severity should be completed.
 This indicates the expected timeline & urgency which is used to measure our SLO targets.
 
-| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~"type::bug"` resolution SLO | `~"GitLab.com Resource Saturation"` resolution SLO |
-|----------------|---------|--------------------------------------------------------------------------------| ----|
-| `~"severity::1"` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) | Within 2 months |
-| `~"severity::2"` | 30 days | The next release (60 days)                                                     |  |
-| `~"severity::3"` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |  |
-| `~"severity::4"` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |   |
+| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~"type::bug"` resolution SLO | `~"GitLab.com Resource Saturation"` resolution SLO | Security `~vulnerability` SLO | 
+|----------------|---------|--------------------------------------------------------------------------------| ----|-----|
+| `~"severity::1"` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) | Within 2 months | See [Vulnerability Remediation SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) |
+| `~"severity::2"` | 30 days | The next release (60 days)                                                   |  | See [Vulnerability Remediation SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas)  |
+| `~"severity::3"` | 60 days | Within the next 3 releases (approx one quarter or 90 days) |  | See [Vulnerability Remediation SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas) |
+| `~"severity::4"` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).    |  |  See [Vulnerability Remediation SLAs](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/#remediation-slas)  |
 
 #### Examples of severity levels
 
