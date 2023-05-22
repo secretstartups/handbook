@@ -806,7 +806,7 @@ In Field Marketing, the FMCs manage all [Zip requisitions](/handbook/business-te
 - [AFCEA](https://www.afcea.org/site/) - Membership is handled by the Public Sector Field Marketing Manager. Account information is stored in the marketing 1Pass vault. Please ping Kira Aubrey or Haley McComber for assistance. 
 - [ACT-IAC](https://www.actiac.org) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details if you'd like to join.
 - [Charleston DCA](https://www.charlestondca.org/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details if you'd like to join.
-- [G2xExchange](https://www.g2xchange.com/join-today/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Haley McComber for details if you'd like to join.
+- [G2xExchange](https://www.g2xchange.com) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Haley McComber for details if you'd like to join.
 - [NASCIO](https://www.nascio.org/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Haley McComber for details.
 - [GBEF](https://gbef.tech/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details.
 - [INSA](https://www.insaonline.org/) - Membership is handled by the Public Sector Field Marketing Manager. Please ping Kira Aubrey for details.
