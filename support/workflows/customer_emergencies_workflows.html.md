@@ -56,7 +56,9 @@ Take and share screenshots of useful info the customer is showing you. Make sure
 
 ### Determine if the situation qualifies as an emergency
 
-According to our [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1) an emergency exists when a "GitLab server or cluster in production is not available, or otherwise unusable". In the event that the situation does not clearly qualify under the strict definition of emergency, an exception may be granted. See more about the [criteria for exceptions](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria) in the [Emergency Exception Workflow](/handbook/support/workflows/emergency_exception_workflow.html).
+According to our [definition of Severity 1](https://about.gitlab.com/support/definitions/#severity-1) an emergency exists when a "GitLab server or cluster in production is not available, or otherwise unusable". In the event that the situation does not clearly qualify under the strict definition of emergency, an exception may be granted. 
+
+We [assume positive intent](/handbook/values/#assume-positive-intent) and use our [criteria for exceptions](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria) in the [Emergency Exception Workflow](/handbook/support/workflows/emergency_exception_workflow.html) as a framework for understanding the business impact of situations customers raise. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't strictly qualify as an emergency, the CSM for the customer or a Support Manager can discuss that with the customer.
 
 | When you decide the request... | Then apply the Zendesk macro... | and communicate to the customer... |
 | ------------------------------ | ------------------------------- | ---------------------------------- |
