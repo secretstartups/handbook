@@ -100,9 +100,13 @@ Self Managed Subscription - [How to Add User](https://docs.gitlab.com/ee/subscri
 
 ### GitLab Employee Focused Questions
 
+Q: How can I check to see when my customers subscription is due for renewal?
+
+A: You can find when a Customer is up for renewal by checking the *Next Renewal Date* field on the Account. If an Account has multiple Subscriptions you can navigate to the relevant *Renewal Opportunit*y and check the *Subscription Renewal Date.*
+
 Q: How can I check to see if my customer has successfully linked their Gitlab.com user account to their CDot user account?
 
-A:
+A: First, navigate to https://customers.gitlab.com/admin/customer/.  From this page, you can use the *Zuora* and *Impersonate* tabs to validate that the information in these portals matches CustomerDot
 
 Q: How can I check to see if my customer has successfully linked their GitLab subscription to the GitLab namespace?
 
@@ -154,11 +158,11 @@ A: If a customer is not on auto-renewal (Turn on Auto Renew = No) or if we know 
 
 Q: When should I direct a customer to renew online, and how can I help them do that?
 
-A:
+A: Advise them to log into the [Customer Portal](https://customers.gitlab.com/?_gl=1*2rhaas*_ga*MjAzMjU3NDY5NS4xNjY5NjU0NzM4*_ga_ENFH3X7M5Y*MTY3OTY3ODY4MS4xOTcuMS4xNjc5Njc4Nzk5LjAuMC4w) using their credentials. Once they have navigated to the *Manage Purchases* view, they should see an option to *Renew*. Once they have clicked on *Renew* and reviewed their order, they can proceed to checkout and select *Purchase*.
 
 Q: How do I know if my customer has renewed via the online web store?
 
-A: 
+A: Once a customer follows the process outlined above, the renewal opportunity on the Account in Salesforce will be auto set to closed won.
 
 Q: If my customer advised they want to purchase through the channel, what action should I take?
 
@@ -172,13 +176,9 @@ Q: My customer wants to consolidate multiple Subscriptions into one.  How do I a
 
 A: Reach out to Deal Desk for guidance as early as possible. If all the relevant Subscriptions are co-termed (have the same end dates) and the consolidation is occurring at the time of Renewal then build the quote with all the consolidating products on the Renewal Opportunity that is associated to the namespace that will remain active. Once the Order Form is signed, [Submit the Opportunity for Booking](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking). For the remaining Renewal Opportunities reach out to Deal Desk via chatter and request they be Closed Lost with Closed Lost Reason = Merged into another opportunity. In the instance where a customer is requesting to consolidate Subscriptions which requires one or more Subscriptions to be early-renewed then consolidate the Subscriptions via [Contract Reset](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#contract-reset).
 
-Q: My customer has gone over their licenses count for the first time.  What action should I take?
+Q: My customer has exceed over their licenses count for the first time.  What action should I take?
 
-A:
-
-Q: My customer has gone over their license count by a large amount. What action should I take?
-
-A:
+A: If the customer has exceed their license count (this info can be viewed under Draft *Utilization* on the Account), you can either sell them Add On licenses, or they can charged for licenses retroactively, and pro rated, via a QSR.
 
 ### Other helpful resources
 
