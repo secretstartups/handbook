@@ -59,7 +59,7 @@ At GitLab we are [Handbook First](/handbook/handbook-usage/#why-handbook-first) 
     1. Sales Channel - Win Rate, Services Attach Rate,
     1. Marketing - Opportunities Created, Product Downloads
 1. **Improve the Business Model**
-    1. Product Intelligence - Sign-up Growth, New Features Delivered, Top Features
+    1. Analytics Instrumentation - Sign-up Growth, New Features Delivered, Top Features
     1. Customer Analytics - Firmographics, Adoption Trends, Usage vs. Subscription
     1. Customer Purchasing Trends - Renewals, Upgrades, Downgrades
 1. **Improve the Customer Experience**

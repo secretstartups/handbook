@@ -52,7 +52,7 @@ Here are some useful links that we recommend for you to bookmark:
 - If you do happen to experience timeouts in Sisense (you'll see an error message saying "query killed"), reach out to the data team and we might be able to help you optimize your query or run it as a one-off with more computational resources.
 - Sisense dashboards can be designated as "Official", meaning it has been reviewed by a data team member. If you're interested in making your dashboard official, the process is documented [here](/handbook/business-technology/data-team/platform/sisensecdt/#official-badge-for-a-dashboard).
 - Sisense has a concept of "Topics" which organizes dashboards into topical areas. Check out the [Product Topic](https://app.periscopedata.com/app/gitlab/topic/Product/ab707846c91f4d30b1c1ca0399803d67) to see what's already available in Periscope and to get inspiration for future charts.
-- One limitation of Sisense is that it is a BI tool, not a product analytics tool. We've received feedback that it's difficult to do any product analytics without a strong knowledge of SQL. To meet this need, the product team is exploring alternative analytics tools in [this epic](https://gitlab.com/gitlab-org/product-intelligence/issues/303)
+- One limitation of Sisense is that it is a BI tool, not a product analytics tool. We've received feedback that it's difficult to do any product analytics without a strong knowledge of SQL. To meet this need, the product team is exploring alternative analytics tools in [this epic](https://gitlab.com/gitlab-org/analytics-section/analytics-instrumentation/internal/-/issues/303)
 
 #### How do I know what tables are available?
 
@@ -95,7 +95,7 @@ The first question we on the data team ask product managers is usually "are you 
 
 - [Service Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) is a custom tool that GitLab built to deal with the problem of collecting weekly aggregate information from our customers who host our product on their own hardware.
 - It is optional but defaults to being on.
-- You can see the percent of paid subscriptions that successfully send a ping every month on [this chart](https://app.periscopedata.com/app/gitlab/771580/Product-Adoption-Dashboard?widget=9864774&udv=1468937). We do not know about unlicensed (core) users but assume the same rate. Here is more [information](https://gitlab.com/gitlab-org/product-intelligence/issues/291#note_276741996) on why some instances block data from being sent.
+- You can see the percent of paid subscriptions that successfully send a ping every month on [this chart](https://app.periscopedata.com/app/gitlab/771580/Product-Adoption-Dashboard?widget=9864774&udv=1468937). We do not know about unlicensed (core) users but assume the same rate. Here is more [information](https://gitlab.com/gitlab-org/analytics-section/analytics-instrumentation/internal/-/issues/291#note_276741996) on why some instances block data from being sent.
 - GitLab.com service pings can be filtered out of your query using the `ping_delivery_type` field.
 - Monthly totals for Service Ping are added to Snowflake daily. By the 2nd all the data should be available from the previous month. You can always check the [Manual Service Ping Validation Status Dashboard](https://app.periscopedata.com/app/gitlab/762611/Manual-Usage-Ping-Validation).
 
@@ -180,7 +180,7 @@ Once your Snowplow events have been instrumented, as part of the validation proc
 Testing Snowplow events can be tricky. Snowplow doesn't have a proper testing interface. However, several tools can help you debug, test, and validate your events implementation:
 
 - When working on your local instance: you can use [Snowplow Micro](https://snowplow.io/blog/introducing-snowplow-micro/). [This video is a nice tutorial on getting started with Snowplow Micro](https://www.youtube.com/watch?v=OX46fo_A0Ag).
-- In the near future, we plan to implement [Snowplow Mini](https://github.com/snowplow/snowplow-mini) as a way to QA our events on our staging environment. You can follow the progress [in this issue](https://gitlab.com/gitlab-org/product-intelligence/issues/266).
+- In the near future, we plan to implement [Snowplow Mini](https://github.com/snowplow/snowplow-mini) as a way to QA our events on our staging environment. You can follow the progress [in this issue](https://gitlab.com/gitlab-org/analytics-section/analytics-instrumentation/internal/-/issues/266).
 
 #### Visualize your events in Sisense
 

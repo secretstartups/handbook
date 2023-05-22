@@ -37,7 +37,7 @@ In future iterations, we plan on adding the following:
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://docs.google.com/document/d/10EHqM8cfJifVi-DWLYZ1W_7A8-bTD6CE38NI5U8AM18/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Service Data Inspector README</a>
-  <a href="https://gitlab-org.gitlab.io/growth/product-intelligence/metric-dictionary/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Metrics Dictionary</a>
+  <a href="https://metrics.gitlab.com" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Metrics Dictionary</a>
   <a href="https://docs.google.com/spreadsheets/d/1ZR7duYmjQ8x86iAJ1dCix88GTtPlOyNwiMgeG_85NiA/edit#gid=0" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Project Compass Wave</a>
   <a href="https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Metric Dictionary to Snowflake Mapping</a>
 </div>

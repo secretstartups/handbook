@@ -319,7 +319,7 @@ The first iteration has added with a focus on:
 
 ### [Product Usage Metrics Coverage Dashboard](https://app.periscopedata.com/app/gitlab/921541/WIP:-Product-Usage-Metrics-Coverage])
 
-This dashboard captures the percentage of data availability for Product Usage Metrics, based on our [Metrics Dictionary](https://gitlab-org.gitlab.io/growth/product-intelligence/metric-dictionary/) and [Metrics to Snowflake Mapping](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0), which includes:
+This dashboard captures the percentage of data availability for Product Usage Metrics, based on our [Metrics Dictionary](https://metrics.gitlab.com) and [Metrics to Snowflake Mapping](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0), which includes:
 
 - A table and graphical visualization representing the Product Usage Metrics, Percentage of Data Availability, Percentage of Missing Values, Data Source, Description, and Performance Indicator Type for both SaaS and Self-Managed
   - The table provides details to the above fields
