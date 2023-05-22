@@ -623,6 +623,7 @@ for tracking purposes:
 | Tickets      | The number of tickets the organization created               |
 | Customer?    | If the SFDC account now shows them as a customer             |
 | CARR         | The `CARR (This Account)` value on SFDC account              |
+| Proposed ARR | The opportunity ARR from the original request issue          |
 | Status Ended | The month and year when the status expired (e.g. March 2021) |
 
 Where:
