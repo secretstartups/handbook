@@ -253,9 +253,9 @@ Proceed with processing the request by doing the following:
 
 1. Create a new **confidential** issue in the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new) using one of the following templates, depending on the request type, and populate the issue title with the email address of the original request: 
 
-   - [Deletion Meta Issue - Full](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20Full) for **Full Deletion** requests.
+   - [Deletion Meta Issue - Full](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20Full) for **Full Deletion** requests.
   
-   - [Deletion Meta Issue - GitLab-com](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20GitLab-com) for **GitLab.com Account Deletion** requests.
+   - [Deletion Meta Issue - GitLab-com](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new?issuable_template=Deletion%20Meta%20Issue%20-%20GitLab-com) for **GitLab.com Account Deletion** requests.
 
 1. Follow the instructions in the top of the template, then complete each step in the issue that begins with `Support Engineer:` in order.
 
