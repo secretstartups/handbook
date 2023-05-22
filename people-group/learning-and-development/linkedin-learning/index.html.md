@@ -291,3 +291,11 @@ The Learning & Development Generalist will be tagged on any [department name cha
    - You can search your inbox for the subject `subject line`. If you still can't find the email, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
 - How do I access content in LinkedIn Learning? 
    - To access LinkedIn Learning content we recommend that you go to our Level Up platform and search for skills and topics you want to learn more about that way. You can filter content to only show LinkedIn Learning content. 
+- I can't view a LinkedIn Learning video that's embedded in a course, how can I resolve the issue?
+ - We recommend trying the following troubleshooting to see if this resolves the issue:
+ 1. Access via a different browser (I'd recommend incognito in Chrome)
+ 2. Clear your cache and cookies- Here are the steps you can take to do that:  https://www.linkedin.com/help/learning/answer/a517600 
+ 3. Disable any VPN's, adblockers or browser extensions
+ 4. Try a different internet connection
+
+ If this still doesn't resolve the issue, please let the Learning and Development team know in the #learninganddevelopment slack channel.
