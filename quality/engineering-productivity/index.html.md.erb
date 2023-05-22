@@ -300,7 +300,7 @@ Tests that provide coverage to the code changes in each merge request are most l
 - [RSpec predictive jobs](https://docs.gitlab.com/ee/development/pipelines/#rspec-predictive-jobs) which runs relevant RSpec tests that are mapped to the code changes
 - [Jest predictive jobs](https://docs.gitlab.com/ee/development/pipelines/#jest-predictive-jobs) which runs relevant Jest tests that are mapped to the code changes
 
-See https://docs.gitlab.com/ee/development/pipelines/index.html#predictive-test-jobs-before-a-merge-request-is-approved for more information.
+See <https://docs.gitlab.com/ee/development/pipelines/index.html#predictive-test-jobs-before-a-merge-request-is-approved> for more information.
 
 #### Fail-fast job
 
@@ -308,7 +308,7 @@ There is a [fail-fast job](https://docs.gitlab.com/ee/development/pipelinesx/#fa
 Take a look at this [youtube video](https://www.youtube.com/watch?v=FCCbxZky5Nk) for details on how [GitLab](https://gitlab.com/gitlab-org/gitlab) implements the fail-fast job with test_file_finder.
 Note that the current design only works with low-impacting merge requests which are only mapped to a small set of tests. If there is a large number of tests that are likely to fail for a merge request, putting them in a single job is not feasible and could result in a long-running bottleneck which defeats its purpose.
 
-See https://docs.gitlab.com/ee/development/pipelines/index.html#fail-fast-job-in-merge-request-pipelines for more information.
+See <https://docs.gitlab.com/ee/development/pipelines/index.html#fail-fast-job-in-merge-request-pipelines> for more information.
 
 Premium GitLab customers, who wish to incorporate the `Fail-Fast job` into their Ruby projects, can set it up with our [Verify/Failfast](https://docs.gitlab.com/ee/ci/testing/fail_fast_testing.html) template.
 
@@ -317,7 +317,7 @@ Premium GitLab customers, who wish to incorporate the `Fail-Fast job` into their
 Tests that previously failed in a merge request are likely to fail again, so they provide the most urgent feedback in the next run.
 To grant these tests the highest priority, the [GitLab](https://gitlab.com/gitlab-org/gitlab) pipeline [prioritizes previously failed tests by re-running them early](https://docs.gitlab.com/ee/development/pipelines/#re-run-previously-failed-tests-in-merge-request-pipelines) in a dedicated job, so it will be one of the first jobs to fail if attention is needed.
 
-See https://docs.gitlab.com/ee/development/pipelines/index.html#re-run-previously-failed-tests-in-merge-request-pipelines for more information.
+See <https://docs.gitlab.com/ee/development/pipelines/index.html#re-run-previously-failed-tests-in-merge-request-pipelines> for more information.
 
 #### Selective jobs via pipeline rules
 
