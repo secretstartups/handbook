@@ -106,6 +106,8 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Vulnerability Research Representative | @dbolkensteyn | [Dinesh Bolkensteyn](https://about.gitlab.com/company/team/#dbolkensteyn) | Sr. Vulnerability Researcher |
 | Third Party Security Risk Representative | @tdilbeck | [Ty Dilbeck](https://about.gitlab.com/company/team/#tdilbeck) | Security Risk Manager |
 | Governance and Field Security Representative | @jlongo_gitlab | [Joseph Longo](https://about.gitlab.com/company/team/#jlongo_gitlab) | Governance and Field Security Manager |
+| Security Compliance Representative | @kbray | [Ken Bray](https://about.gitlab.com/company/team/#kbray) | Sr. Security Compliance Engineer (Dedicated Markets) |
+| Security Compliance Representative | @lcoleman | [Liz Coleman](https://about.gitlab.com/company/team/#lcoleman) | Security Compliance Manager (Commercial) |
 | Security Automation Representative | @agroleau | [Alexander Groleau](https://about.gitlab.com/company/team/#agroleau) | Senior Security Engineering Manager (Automation) |
 | Security Automation Representative | @imand3r | [Ian Anderson](https://about.gitlab.com/company/team/#imand3r) | Staff Security Engineer (Automation) |
 | Application Security Representative | @greg | [Greg Myers](https://about.gitlab.com/company/team/#greg) | Security Engineer (Application Security) |
@@ -183,3 +185,4 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Allison Browne | Senior Backend Engineer | Verify:Pipeline Execution |
 | Andrei Zubov | Senior Frontend Engineer | Deploy:Environments |
 
+>>>>>>> sites/uncategorized/source/company/team/structure/working-groups/ai-integration/index.html.md
