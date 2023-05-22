@@ -103,6 +103,8 @@ The legal environment surrounding AI-generated creative works, including images,
 
 * Use of any text-to-image model besides those listed under `Model-Specific Requirements` below is not permitted without prior legal review of the model's license and any applicable restrictions.
 
+* Don't use AI image generation to create logos.
+
 ### **Model-Specific Requirements**
 
 #### ***Stable Diffusion***
