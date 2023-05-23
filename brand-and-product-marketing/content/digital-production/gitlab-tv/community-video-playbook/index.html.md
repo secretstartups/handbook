@@ -16,7 +16,7 @@ twitter_creator: "@gitlab"
 
 The GitLab.tv Community Channel is focused on providing information to the wider GitLab community, including community contributors and GitLab Heros. The channel aims to demonstrate GitLab’s commitment to “Everyone Can Contribute” and should encourage viewers to take that action. 
 
-Ultimately, the GitLab.tv Community Channel should aid the Community Relations team’s overall goals to increase the number of first-contributors, monthly code contributions, monthly meetups, community-driven blog posts, and community-led presentations at events. 
+Ultimately, the GitLab.tv Community Channel should aid the Developer Relations team’s overall goals to increase the number of first-contributors, monthly code contributions, monthly meetups, community-driven blog posts, and community-led presentations at events. 
 
 ## Success Metrics 
 
@@ -31,7 +31,7 @@ These goals are measured as traffic from YouTube to key Community pages, outline
 
 Everyone can contribute content to the Community Channel provided it follows the playbook guidelines. Common contributor scenarios include: 
 
-* Community Relations team members and other community members sharing how-tos, best practices, and other starter guide type content (finding issues to work on, getting help, writing a good MR).
+* Developer Relations team members and other community members sharing how-tos, best practices, and other starter guide type content (finding issues to work on, getting help, writing a good MR).
 * GitLab Heros sharing tutorials, interviews, and presentations. 
 * Meetup organizers sharing meeting recordings. 
 * Frequent contributors sharing technical knowledge, tutorials on how to use/take advantage of GitLab features. 
