@@ -12,21 +12,20 @@ description: "Overview of the primary meetings for the global GitLab Field team"
 
 The below page overviews the primary meetings for the WW Field Team. 
 
-
 ## Field All-Hands Meetings
 The team meets as a full group multiple times in a given quarter, with each meeting series serving a different enablement or planning purpose. 
 
 The high-level cadence of Field full-team meetings in a given quarter is: 
 
 1. **Month 1**
-   1. [WW Field Sales Call]()
+   1. [WW Field Sales Call](/handbook/sales/sales-meetings/#ww-field-sales-call)
    1. [Quarterly Business Reviews (QBRs)](/handbook/sales/sales-meetings/#quarterly-business-reviews)
-   1. **[In Pilot]** CRO Segment Roundtable
+   1. **[In Pilot]** [CRO Segment Roundtable](/handbook/sales/sales-meetings/#fy24-pilot-cro-segment-roundtable)
 1. **Month 2**
    1. [Sales, Marketing, Product QBR & Recognition (QBR&R)](/handbook/sales/sales-meetings/#sales-marketing-product-qbr--recognition-qbrr-call)
-   1. **[In Pilot]** All Field Manager Call
+   1. **[In Pilot]** [All Field Manager Call](/handbook/sales/sales-meetings/#fy24-pilot-all-field-manager-call)
 1. **Month 3**
-   1. [WW Field Sales Call]()
+   1. [WW Field Sales Call](/handbook/sales/sales-meetings/#ww-field-sales-call)
 
 ### WW Field Sales Call
 
