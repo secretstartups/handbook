@@ -22,7 +22,7 @@ Several GitLab teams collaborate to provide support for ARM:
 
 1. [Distribution][distribution] manages the ARM runner provider
    and issues with build pipelines.
-1. [Community Relations team][community-relations] and support teams answer questions and provide community assistance in the forums.
+1. [Developer Relations team][developer-relations] and support teams answer questions and provide community assistance in the forums.
 1. [Verify CI][verify-ci] would help build packages for ARM runners.
 
 ## Failure Notifications
@@ -42,5 +42,5 @@ Community Edition.
 
 [verify-ci]: /handbook/engineering/development/ops/verify/
 [distribution]: /handbook/engineering/development/enablement/systems/distribution/
-[community-relations]: /handbook/marketing/community-relations/
+[developer-relations]: /handbook/marketing/developer-relations/
 [memory requirements]: https://docs.gitlab.com/ee/install/requirements.html#memory
