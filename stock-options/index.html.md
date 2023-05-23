@@ -70,10 +70,11 @@ In September 2021, the Company’s board of directors and its stockholders appro
 5. Eligible ESPP GitLab Entities 
   * Canada Corp (Canada) 
   * GmbH (Germany)
-  * BV (Netherlands/Belgium)
+  * BV (Netherlands/Belgium/Finland)
   * Inc. & Federal (United States) 
   * Ltd (United Kingdom)
   * PTY Ltd (Australia/New Zealand) 
+  * Ireland Ltd (Ireland)
 6. Changing Contribution Amounts 
   * Contribution increases and decreases are limited during Offering and Purchase Periods
   * Increases: Team members may not increase their contributions after the Offering Period begins.
