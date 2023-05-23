@@ -332,6 +332,26 @@ These accountabilities are important factors in ensuring that the TMRG maintains
 * Managing the TMRG budget, including tracking TMRG budget spend. This will ensure we know how to allocate future budgets.
 * Engaging and growing the TMRG members
 
+**TMRG Leadership Recognition Program & Key Performance Indicators**
+
+In May 2023 the DIB team did an informal recognition bonus to TMRG Leads for their contribution to the DIB Strategy. We want to formalise this process and tie this to TMRG Leadership performance in the future as outlined below. 
+
+Budget permitting the Diversity, Inclusion & Belonging Team may provide a recognition bonus to team members leading our TMRGs or DIB focused groups. This is to recognise great work being done to support the DIB Strategy, DIB Team and embedding the DIB value at GitLab. In order to recognise great performance we have set out a criteria to be eligible for the recognition bonus. This can also work as a form of job responsibilities for leaders.
+
+In order to be eligible for the full recognition bonus you must have performed at least 80% of the requirements. To be eligible for part of the recognition bonus you must have performed at least 60% of the requirements.
+
+**TMRG Leadership Key Performance Indicators:** 
+
+- Participated in completing an annual strategy for the TMRG 
+- Participated in completing a quarterly action plan for the TMRG for each quarter
+- Taken action and delivered part or the full annual and quarterly strategies and action plan 
+- Effectively plan and track budget use 
+- Have completed TMRG events in all four of the outlined TMRG Pillars
+- Maintain a regular cadence of TMRG meetings that accommodate our global demographic 
+- Receive an average TMRG satisfaction score from TMRG members above 7/10
+- Meet with the DIB Team at least once a quarter to discuss goals and outcomes 
+- Developed an executive sponsor engagement plan alongside your executive sponsor  
+- Maintain or grow team member engagement measured through Slack Analytics, event attendance, issues participation and synchronous meeting attendance 
 
 
 ### Optional roles
