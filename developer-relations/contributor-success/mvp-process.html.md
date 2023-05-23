@@ -45,14 +45,16 @@ Each release post GitLab recognizes a community contributor as the MVP ("Most Va
       ```md
       @community-team - We only have one (or none) MVP nomination. I’m going to wait until the end of the day, 12pm UTC for other nominations. Please nominate a community contributor that delivered something great for X-Y!
       ```
-1. Draft a merge request for adding the new MVP
-  - Find the `data/release_posts/x_y/mvp.yml` file targeting the release branch. E.g.`data/release_posts/15_8/mvp.yml` targeting the `release-15-8` branch.
+1. From the current release branch, draft a merge request for adding the new MVP
+  - The first step is switching to the current release branch `release-x-y` in the `www-gitlab-org` project. Using the 15.8 release as an example, navigate to the current release branch directly on GitLab by selecting the `release-15-8` branch from the dropdown menu. If working locally, checkout the `release-15-8` branch.
+  - Navigate to the `mvp.yml` file inside the current release folder under `data/release_posts/x_y`. In this example it would be the `15_8` folder which has a placeholder `mvp.yml` file inside.
+  - Begin drafting the merge request by updating the new MVP name and user handle. Remove the placeholder text for the write-up blurb. Commit the changes on a new branch. When creating the merge request on GitLab make sure your branch is targeting the current release branch `release-x-y` and not targeting `master`. 
   - Follow the steps to collaborate the [MVP write-up blurb](#mvp-write-up-blurb)
-  - Add MVP name, user handle and completed write-up blurb
-  - Update the [data/mvps.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/mvps.yml) file
+  - Update the [data/mvps.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/mvps.yml) file from your existing merge request
   - Add release version, MVP name, user handle, release post date and release post URL
-  - Ping the release post manager into the MR (for information only)
-  - Assign another Contributor Success team member to review/merge and double check the merge request is targeting the correct release branch
+  - Create an MR against this release branch, do not commit directly in to the release branch.
+  - Assign another Contributor Success team member to review/merge
+  - Ping the [release post manager](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml) into the MR for awareness.
   - Merge by 20th of the month
 1. Announce the MVP winner in the team member Slack channels and community Discord.
   - Link to the MVP section of the release post
