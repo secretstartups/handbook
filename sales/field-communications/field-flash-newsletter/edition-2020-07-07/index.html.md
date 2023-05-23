@@ -40,7 +40,7 @@ In order to avoid confusion caused by disparate issues and Google Docs, the core
 
 Welcome our newest Ecosystem Technology Partner, OverOps! Check out the blog post below for more details on OverOps support for GitLab. Also, watch the [2-minute demo](https://youtu.be/zFGrsljY8UU) of the OverOps plugin for GitLab and invite your customers to our [joint webinar](https://go.overops.com/R00k00gQ0i003000BYXMMJ0) on July 22. [Read and Share -->](https://go.overops.com/j0jQ0g3kB000000JXir0Q00)
 
-Not one, but two new case studies are available. Learn why global tech company NVIDIA relies on GitLab Geo for stability and security. And, learn how more than 10,000 GitLab users at Sopra Steria, a large French tech company, are using our platform to fuel their digital transformation. [Read More - NVIDIA -->](https://about.gitlab.com/customers/Nvidia/) [Read More - Sopra Steria -->](https://about.gitlab.com/customers/sopra_steria/)
+Not one, but two new case studies are available. Learn why global tech company NVIDIA relies on GitLab Geo for stability and security. And, learn how more than 10,000 GitLab users at Sopra Steria, a large French tech company, are using our platform to fuel their digital transformation. [Read More - NVIDIA -->](https://about.gitlab.com/customers/nvidia/) [Read More - Sopra Steria -->](https://about.gitlab.com/customers/sopra_steria/)
 
 We recently added a Cross-Culture Collaboration Guide to the Handbook to help GitLab team members practice effective and inclusive communication and cross-cultural collaboration globally; irrespective of culture or background. [See the Handbook for Details -->](https://about.gitlab.com/company/culture/cross-culture-collaboration-guide/)
 

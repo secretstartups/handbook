@@ -46,7 +46,7 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 ----
 
-<big>[NVIDIA](/customers/Nvidia/)</big><br>
+<big>[NVIDIA](/customers/nvidia/)</big><br>
 **Problem:** Dispersed development groups faced mirroring issues in time management and security<br>
 **Solution:** GitLab Premium (CI/CD, SCM)<br>
 **Result:** Zero downtime, 51% user growth in 1 year and 99% uptime resulting in increased efficiency<br>
