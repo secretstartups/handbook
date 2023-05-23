@@ -1495,10 +1495,10 @@ Steps:
     * Under contacts, add the reseller contact, role as reseller, and primary contact.
     * Under partners, add the reseller account as VAR/Reseller"
 
-## Working with the Community Relations Team
-The [Community Relations team](/handbook/marketing/community-relations/) owns GitLab's [Education](/handbook/marketing/community-relations/community-programs/education-program/), [Open Source](/handbook/marketing/community-relations/community-programs/opensource-program/), and [Startups](/solutions/startups/) programs. When a lead fills out the form to apply for one of these free community programs, Salesforce `Lead` ownership will automatically change to the `Community Advocate Queue`. If this Lead was in an Outreach sequence, it will automatically be marked as finished.
+## Working with the Developer Relations Team
+The [Developer Relations team](/handbook/marketing/developer-relations/) owns GitLab's [Education](/handbook/marketing/developer-relations/community-programs/education-program/), [Open Source](/handbook/marketing/developer-relations/community-programs/opensource-program/), and [Startups](/solutions/startups/) programs. When a lead fills out the form to apply for one of these free community programs, Salesforce `Lead` ownership will automatically change to the `Community Advocate Queue`. If this Lead was in an Outreach sequence, it will automatically be marked as finished.
 
-The [Community Programs team](/handbook/marketing/community-relations/community-programs/) (a sub-team of Community Relations), and the Program Managers for each program, will then work to qualify the lead. If the Lead does not end up qualifying for one of the programs, they will be passed straight to sales.
+The [Community Programs team](/handbook/marketing/developer-relations/community-programs/) (a sub-team of Developer Relations), and the Program Managers for each program, will then work to qualify the lead. If the Lead does not end up qualifying for one of the programs, they will be passed straight to sales.
 - Forms
      -   [GitLab for education](https://about.gitlab.com/solutions/education/)
      -   [GitLab for Startups](https://about.gitlab.com/solutions/startups/)
