@@ -549,7 +549,7 @@ The sales nominated process allows for records to be added to the campaign in or
 - [The Forrester Wave - Cloud-Native Continuous Integration Tools](/uploads/9ad85130be17d9ced05647283d738f40/The_Forrester_Wave___Cloud-Native_Continuous_Integration_Tools__Q3_2019.pdf)
 - [Ebook - 2020 DevSecOps Report](/uploads/cc655c78ad1a23ce8ade736c4d3c2311/2020-devsecops-report.pdf)
 - [Video - Making the case for CI/CD in your organization](https://www.youtube.com/watch?v=MqxcGV9NT8k&feature=emb_logo)
-- [Use Case - NVIDIA - How GitLab Geo supports NVIDIA's innovation](https://about.gitlab.com/customers/Nvidia/)
+- [Use Case - NVIDIA - How GitLab Geo supports NVIDIA's innovation](https://about.gitlab.com/customers/nvidia/)
 - [Solution Brief - GitLab on AWS](/uploads/74879d7fa7e1919948d9674d6e4be315/source_resources_downloads_GitLab_AWS_Solution_Brief.pdf)
 - [Solution Brief - GitLab on GCP](/uploads/d830cb6d747573e252c5a6520884010a/source_resources_downloads_GitLab_GCP_Solution_Brief.pdf)
 - [A Seismic Shift in Application Security whitepaper](/uploads/fd88f354f9f25bd5a73dab555b26a1dc/gitlab-seismic-shift-in-application-security-whitepaper.pdf)
