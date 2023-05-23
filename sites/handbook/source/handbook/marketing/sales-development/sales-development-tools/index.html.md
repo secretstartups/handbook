@@ -108,18 +108,9 @@ Content created for BDRS and SDRs to use to create hyper-personalized sequences,
 
 ### Outreach Sequence Creation Process
 
-#### Eligibility
-* Only Expert SDRs, Senior BDRs and BDR Team Leads are authorized to create new Outreach sequences. All other SDRs and BDRs must use the sequences that are already provided.
-
-* The exception to this rule is if you have a language-specific use case. In this scenario, a sequence can be cloned by a manager who can then assign ownership of the sequence to the rep who will then translate the sequence. Once the sequence is translated, the manager/ops will review that the naming convention is correct, proper tags and collections are added, click and open tracking are enabled, send test email(s) and then activate the sequence.
-
 #### Prior to Building a New Sequence
-* For SDRs, approval from your direct manager or the Director of Sales Development is required before building a new sequence in Outreach.
-* For BDRs, please retain approval from your direct manager or the Sales Dev Ops team before creating a new sequence.
-* Before asking for approval, ask the question, “can this be solved with an A/B test on an existing sequence step?” If the answer is yes, connect with your manager about the A/B test you’d like to run. 
-* If you are looking to replace a sequence or step, is the sequence/step you are replacing actually performing poorly?
-* If the use case for the sequence is not one that can be solved with an A/B test, the first step is to create an issue to get manager approval
-* If your manager rejects your proposal, you are not authorized to continue creating your sequence. If they have responded with their approval, you are cleared to move forward with building out your new sequence.
+
+Please review the BDR or SDR process and conceptualize what iteration does a new sequence bring to our existing library, from the moment you have clarified your intent please [follow the steps here](https://about.gitlab.com/handbook/marketing/sales-development/#new-outreach-sequenceworkflow-creation) to request a new sequence, we'll work with you to develop the best possible iteration we can. 
 
 #### Building a New Sequence, Prior to Setting it Live
 As you begin building your new sequence, make sure you are following the proper guidelines:
@@ -134,12 +125,6 @@ As you begin building your new sequence, make sure you are following the proper 
     -   **Language** (English - EN, Spanish - SP, Portuguese - POR, French - FR, German - GER, Dutch - DUT, Russian - RUS, Korean - KOR, Japanese - JP)
 
 **Example** - FY24 IB WW SMB SDR Free to Paid HT EN
-
-* **Structure** - typically all sequences should use the approved structure for its Touch Level:
-	-  **HT** - Step 1 - Phone Call (Day 1), Step 2 - Email (Day 1), Step 3 - LinkedIn Connection Request (Day 1), Step 4 - Phone Call (Day 2), Step 5 - Phone Call (Day 5), Step 6 - Email (Day 5), Step 7 - Phone Call (Day 7), Step 8 - LinkedIn Message (Day 9), Step 9 - Phone Call (Day 12), Step 10 - Email (Day 14)
-	-  **LT** - Step 1 - Email (Day 1), Step 2 - Email (Day 5), Step 3 - Email (Day 14)
-
-Different sequence structures can be used with manager/ops approval
 
 * **Sequence Settings**:
     - **Sequence Type** - Steps by day interval
