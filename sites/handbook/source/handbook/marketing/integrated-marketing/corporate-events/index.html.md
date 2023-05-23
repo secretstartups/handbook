@@ -147,8 +147,8 @@ Suggested events will be subject to a valuation calculation - will it meet or ex
 * [Corporate Events FY 24 Sponsored Events Speaking Session + CFP Tracker](https://docs.google.com/spreadsheets/d/1zX5gP_YI0wbn6791Ho6Qmvensy_dZEGaN7l1KpgIy4k/edit?usp=sharing)
 * [FY24 Sponsored Events & Epics](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3526)
 * [FY24 Dev Evangelism Event Strategy](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3538?_gl=1*1jqjp5x*_ga*MTM3Mzg1MjIwNS4xNjU1MjE1MTQy*_ga_ENFH3X7M5Y*MTY3NTcxNDEzNC4xNzkuMC4xNjc1NzE0MTM0LjAuMC4w)
-* [Developer Evangelism CFPs](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/cfps/)
-* [Developer Evangelism CFP Workflow](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/workflow/#cfp-workflow)
+* [Developer Evangelism CFPs](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/cfps/)
+* [Developer Evangelism CFP Workflow](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/workflow/#cfp-workflow)
 
 ### Process
 
@@ -181,7 +181,7 @@ If the event we are sponsoring is not on the Developer Evangelism team's radar t
     * Event Marketing — Project management, execute logistics, budget management, event staffing/training, lead collection/reporting, and ancillary events
     * Field Marketing — Field communication, meeting program support, onsite booth support, ancillary event support
     * Inside Sales Rep  — Drive registration, booth support, lead follow-up
-    * Customer Success (TAM, SAs attending) / Community Relations — Booth support, attend customer meetings, presentations/speaking engagements
+    * Customer Success (TAM, SAs attending) / Developer Relations — Booth support, attend customer meetings, presentations/speaking engagements
     * Product/Alliance Marketing — Messaging, content creation (blogs, sponsorship deliverables, post event emails etc), onsite booth support
     * Technical Marketing — Demos creation, onsite support
     * Social and Communications — Pre-event, on-site, post-event social content creation, PR & media
@@ -189,7 +189,7 @@ If the event we are sponsoring is not on the Developer Evangelism team's radar t
     * Recruiting - Onsite booth support
     * Design — Look & feel, tone, collateral (print), digital, environmental
     * Large & MidMarket sales teams - Attending & setting up meetings
-    * [Leading Organization Team](/handbook/marketing/community-relations/leading-organizations/) — Executive/customer meetings, attending social events (ex: receptions, dinners), panel discussions, speaking engagements, media interviews
+    * [Leading Organization Team](/handbook/marketing/developer-relations/leading-organizations/) — Executive/customer meetings, attending social events (ex: receptions, dinners), panel discussions, speaking engagements, media interviews
 
 ### Staffing 3rd party sponsored event booths
 
