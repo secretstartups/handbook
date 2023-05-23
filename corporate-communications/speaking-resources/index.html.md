@@ -16,7 +16,7 @@ The Corporate Marketing and Developer Evangelism teams want to enable everyone t
 So you're interested in becoming a public speaker? That's great!
 
 - Complete the [GitLab external speaker training](/handbook/marketing/corporate-communications/resources-trainings/#external-speaking-trainings).
-- Join the [GitLab Speakers Bureau](/speakers/), see the [Developer Evangelist page on the Speakers Bureau](/handbook/marketing/community-relations/developer-evangelism/speakers-bureau/).
+- Join the [GitLab Speakers Bureau](/speakers/), see the [Developer Evangelist page on the Speakers Bureau](/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/).
 - If you're looking to learn how to be a more effective and confident public speaker, you can check out:
     - [LinkedIn Learning courses](https://www.linkedin.com/learning/public-speaking-foundations-2018/)
     - Books like _The Art of Public Speaking_ by Dale Carnegie
@@ -34,7 +34,7 @@ Sometimes people have an awesome story to share but can't find the time to put w
 
 The submission is open to everyone including wider community members. If you have any question, please ask in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) (internal for team members) and mention `@abuango` (or [Twitter](https://twitter.com/sarki247)) in any ongoing GitLab issue. 
 
-You can request help with reviewing CFP abstract drafts and talk slide from the [Developer Evangelism team](/handbook/marketing/community-relations/developer-evangelism/#presentations-and-events). Review examples:
+You can request help with reviewing CFP abstract drafts and talk slide from the [Developer Evangelism team](/handbook/marketing/developer-relations/developer-evangelism/#presentations-and-events). Review examples:
 
 - [Efficient Pipelines with CI/CD Templates abstract review](https://gitlab.com/gitlab-com/Product/-/issues/3866#note_852899090)
 - [Secure CI/CD using JWT tokens abstract review](https://gitlab.com/gitlab-com/Product/-/issues/4474)
@@ -51,11 +51,11 @@ To view or add topics for the next Speakers Lean Coffee, see the [Speakers Lean 
 
 - If you are interested in finding out about speaking opportunities, join the [#cfp Slack channel](https://gitlab.slack.com/archives/C106ACT6C).
 - You can also see CFPs we're tracking with the `CFP` label [in the Corporate Marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CFP)
-- For a complete list of events we are tracking, see our [Events Spreadsheet](https://docs.google.com/spreadsheets/d/1KX8uf-4Ov8ybztJibQlGr9HvgH9VobpA8Nv5ecny1N4/edit#gid=1294176754) and the [Developer Evangelism team calendar](/handbook/marketing/community-relations/developer-evangelism/).
+- For a complete list of events we are tracking, see our [Events Spreadsheet](https://docs.google.com/spreadsheets/d/1KX8uf-4Ov8ybztJibQlGr9HvgH9VobpA8Nv5ecny1N4/edit#gid=1294176754) and the [Developer Evangelism team calendar](/handbook/marketing/developer-relations/developer-evangelism/).
 - More sources for events and CFPs:
   - [CFP Land](https://www.cfpland.com/)
   - [Developers Conferences Agenda](https://github.com/scraly/developers-conferences-agenda) by Aurélie Vache
-  - [Newsletters](/handbook/marketing/community-relations/developer-evangelism/social-media/#content-sources). @dnsmichi maintains a section in his [opsindev.news newsletter](https://opsindev.news/) every month. 
+  - [Newsletters](/handbook/marketing/developer-relations/developer-evangelism/social-media/#content-sources). @dnsmichi maintains a section in his [opsindev.news newsletter](https://opsindev.news/) every month. 
 
 ### CFP Submission
 
@@ -68,7 +68,7 @@ To view or add topics for the next Speakers Lean Coffee, see the [Speakers Lean 
 - For ideas to help you or your customers get their submissions accepted:
   - Review [How to Get Your Presentation Accepted (video)](https://www.youtube.com/watch?v=wGDCavOCnA4).
   - Join the [Speakers Lean Coffee](#speakers-lean-coffee).
-  - Schedule a chat with a [Developer Evangelism](/handbook/marketing/community-relations/developer-evangelism/) team member.
+  - Schedule a chat with a [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) team member.
 
 #### Event Requirements
 
@@ -81,7 +81,7 @@ Follow these steps throughout the CFP process and speaker announcements:
 
 1. Assign the CFP issue to yourself, set the due date to the CFP notification date, and review the speakers list once announced.
 1. When speaking at an event (either by CFP or invite) please notify the conference organizers that your acceptance is contingent on this event requirement. You can share this requirement with the event organizers in the CFP submission forms or via email by linking to this handbook section.
-1. If you are accepted as a speaker, and the requirements are not met, work with your manager and the [corporate communications](/handbook/marketing/corporate-communications/) and [developer evangelism](/handbook/marketing/community-relations/developer-evangelism/) teams in the [#external-comms Slack channel](https://gitlab.slack.com/archives/CB274TZRR) to take appropriate actions. There may be some instances of smaller event gatherings where the organizer's had every intention of cultivating an agenda of diversity and unfortunately the available pool of speakers was limited due to various restrictions (geography, audience, available pool, travel guidance). If this occurs, please discuss the circumstances with the corporate marketing team and your manager before speaking. 
+1. If you are accepted as a speaker, and the requirements are not met, work with your manager and the [corporate communications](/handbook/marketing/corporate-communications/) and [developer evangelism](/handbook/marketing/developer-relations/developer-evangelism/) teams in the [#external-comms Slack channel](https://gitlab.slack.com/archives/CB274TZRR) to take appropriate actions. There may be some instances of smaller event gatherings where the organizer's had every intention of cultivating an agenda of diversity and unfortunately the available pool of speakers was limited due to various restrictions (geography, audience, available pool, travel guidance). If this occurs, please discuss the circumstances with the corporate marketing team and your manager before speaking. 
 
 #### Process
 
@@ -89,10 +89,10 @@ If there is an event you would like to attend, are attending, speaking, or have 
 
 1. Contact your manager for approval to attend/ speak.
 1. After getting approval from your manager to attend, follow the steps in the Corporate Communications handbook section on [Speaking Opportunities](/handbook/marketing/corporate-communications/#speaking-opportunities-conferences-meetups-webinars-and-other-events).
-1. [Add your event/ talk](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/events/index.yml) to the [events page](/events/) and assign a [Developer Evangelism team member](/handbook/marketing/community-relations/developer-evangelism/) to review the merge request. 
+1. [Add your event/ talk](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/events/index.yml) to the [events page](/events/) and assign a [Developer Evangelism team member](/handbook/marketing/developer-relations/developer-evangelism/) to review the merge request. 
 1. If the conference does not cover your travel and expenses, GitLab will cover your expenses (transportation, meals, and lodging for days said event takes place). If those expenses exceed $500, please get approval from your manager. When booking your trip, use our [travel portal](/handbook/travel/), book early, and spend as if it is your own money. Note: Your travel and expenses will not be approved until your event/engagement has been added to the events page.
 1. If you are speaking, please note your talk in the description when you add it to the Events Page.
-1. If you are not already on the [speakers page](/speakers/), please [add yourself](/handbook/marketing/community-relations/developer-evangelism/speakers-bureau/#join-the-speakers-bureau).
+1. If you are not already on the [speakers page](/speakers/), please [add yourself](/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/#join-the-speakers-bureau).
 1. We suggest bringing swag and/or stickers with you. Check the [Requesting Swag handbook](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) how to request/order swag and stickers. 
 
 ### Presentation Assets

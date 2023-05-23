@@ -52,7 +52,7 @@ The head of corporate communications will assess the request within 1 HOUR (6amP
 
 - [Corporate Communications phone tree](https://docs.google.com/document/d/1qos3kjM_yIhS8-syey7WfR22SzmnHYFSCZpnFnBv7Rw/edit) - This team will coordinate external communications efforts according to the communication escalation action plan and liaise across the extended GitLab teams to ensure all parties are activated, updated and aligned. This team is also responsible for social media.
 - Internal Communications - This team will coordinate internal communications efforts according to the action plan.
-- [Community Relations phone tree](/handbook/marketing/community-relations/#emergency-contact) - This team is responsible for community response situations, monitoring, and [enforcing the GitLab Code of Conduct](/handbook/marketing/community-relations/workflows-tools/code-of-conduct-enforcement/) on the relevant GitLab.com discussions.
+- [Developer Relations phone tree](/handbook/marketing/developer-relations/#emergency-contact) - This team is responsible for community response situations, monitoring, and [enforcing the GitLab Code of Conduct](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/) on the relevant GitLab.com discussions.
 - CLO - The Chief Legal Officer will provide legal input on the action plan, as well as all written external and internal communications.
 - CMO - DRI on final external message. Any disagreements on urgency or action will be escalated immediately to the CMO for a final decision.
 
@@ -62,21 +62,21 @@ The head of corporate communications will assess the request within 1 HOUR (6amP
 
 ##### Monitor Across Channels with Social Listening (All Tiers)
 
-While monitoring takes place on a regular (if not several times a day) basis across social channels from both the community relations team and the social team, it’s particularly important to monitor channels on a more frequent basis during this time. There is a need to have many instigators (that may be different per channel) and it’s critical to try and understand this information in order to best evaluate the actions to be taken for communication escalation.
+While monitoring takes place on a regular (if not several times a day) basis across social channels from both the Developer Relations team and the social team, it’s particularly important to monitor channels on a more frequent basis during this time. There is a need to have many instigators (that may be different per channel) and it’s critical to try and understand this information in order to best evaluate the actions to be taken for communication escalation.
 
 Social Listening could take place in the existing GitLab brand health monitor inside of Sprout Social. Because listening is always on (and Sprout backfills data, it is not an immediate need to set up a new topic.
 
 ##### What a tier 2 incident looks like on organic brand social channels
 
-Tier 2 incidents could either be addressed publicly without further interruption or be cause for a temporary pause on outbound organic social media from our brand channels. In either scenario, inbound responses (replying to folks directly rather than a new message from GitLab) should be included as part of the response. Generally, community relations and support teams use canned messages for product service interruptions to communicate with customers and the community, especially if the incident is product or service-related.
+Tier 2 incidents could either be addressed publicly without further interruption or be cause for a temporary pause on outbound organic social media from our brand channels. In either scenario, inbound responses (replying to folks directly rather than a new message from GitLab) should be included as part of the response. Generally, Developer Relations and support teams use canned messages for product service interruptions to communicate with customers and the community, especially if the incident is product or service-related.
 
-When the incident is not caused by our product and is not service-related, the need to coordinate with support teams may not exist. However, working with the community relations team helps to address core and niche social media channels.
+When the incident is not caused by our product and is not service-related, the need to coordinate with support teams may not exist. However, working with the Developer Relations team helps to address core and niche social media channels.
 
 To learn more about pausing social media / going dark during an incident, [review the social media handbook](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/#social-during-an-incident).
 
 #### Community Response
 
-The Community Operations Manager will work through existing frameworks for tiers 3 and 4. For a tier 2 incident, the director of community relations and the community operations manager will be looped into the existing e-group led response.
+The Community Operations Manager will work through existing frameworks for tiers 3 and 4. For a tier 2 incident, the director of Developer Relations and the community operations manager will be looped into the existing e-group led response.
 
 For tier 2 incidents, the community team follows their responsible portions of the [comms-reactive-tier-2-incident-checklist template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/comms-reactive-tier-2-incident-checklist.md).
 
