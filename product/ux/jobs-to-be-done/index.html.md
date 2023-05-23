@@ -103,10 +103,6 @@ _JTBD hierarchy diagram_
 
 ![JTBD hierarchy diagram](JTBD_Diagram.png)
 
-## Prioritizing JTBD
-
-Often, we find there are many JTBD for one category. We are striving to have 2-3 JTBDs per category, at the most. Using [user research](/handbook/product/ux/jobs-to-be-done/prioritizing-jobs-to-be-done) to help determine which JTBD are the most crucial to our users can help when planning for future research, design, and product needs.
-
 ## Quick methods to increase confidence
 
 - Reference previous research and industry standards.
