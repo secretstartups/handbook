@@ -24,7 +24,7 @@ Each quarter a Slack reminder will go out in #what's-happening-at-GitLab Slack c
 | Action | May | June | July |
 | ----- | ----- | ----- | ----- |
 | Key Company Events | Q2 Begins + Complete Engagement Survey | ----- | Q2 Ends |
-| Career Growth | ----- | ----- | ----- |
+| Career Growth | ----- | Mid-Year Check-In | ----- |
 | History and Awareness | Asian American and Pacific Islander Heritage Month; Mental Health Awareness Month | LGBTQ+ Pride Month | ----- |
 | Skill of the Month | Continuous Learning | Customer Centricity | Personal Productivity |
 
@@ -34,7 +34,7 @@ Each quarter a Slack reminder will go out in #what's-happening-at-GitLab Slack c
 | Action | August | September | October |
 | ----- | ----- | ----- | ----- |
 | Key Company Events | Q3 Begins | ----- | Q3 Ends |
-| Career Growth | Review IGP with your manager | Mid-Year Check-In  | IGP Work |
+| Career Growth | Review IGP with your manager |  | IGP Work |
 | History and Awareness | ----- | Latinx Heritage Month | ----- |
 | Skill of the Month | ----- | ----- | ----- |
 | ----- | ----- | ----- | ----- |
