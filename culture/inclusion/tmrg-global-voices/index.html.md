@@ -21,8 +21,9 @@ The Global Voices TMRG has determined the three main objectives to generate impa
 1. Advocate for global diversity across the organization
 
 ## Leads
-1. [Eliran Mesika](https://www.gitlab.com/eliran.mesika) - Lead
-1. [Marin Jankovski](https://www.gitlab.com/marin) - Co-Lead
+1. [Eliran Mesika](https://gitlab.com/eliran.mesika) - Lead
+1. [Marin Jankovski](https://gitlab.com/marin) - Co-Lead
+1. [Charlie Ablett](https://gitlab.com/cablett) - Co-Lead
 
 
 ## Executive Sponsors
