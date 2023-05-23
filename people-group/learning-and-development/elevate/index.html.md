@@ -249,13 +249,14 @@ Refer to the table below to align on language used to talk about Elevate.
 
 ### Disengaged Participants
 
-If a participant misses a live session or falls behind on self paced work, the L&D team should:
+If a participant misses a live session or falls behind on self paced work, the L&D team should use the following outreach process. Messages can be found [in this Google sheet](https://docs.google.com/spreadsheets/d/1HkgVWfMFutt9JlUpQnp8jXJs0prvbSnLO0dS41gonoY/edit#gid=1090672786).
 
 | Timeline | L&D Action | 
 | ----- | ----- |
 | Participant is incomplete on live session or self pace work | Message 1: Direct message via Slack to coordinate makeup or check on progress |
 | No response 24 hours after Message 1 | Message 2: Direct message via Slack to participant & PBP |
 | No response 24 hours after Message 2 | Message 3: Direct message via Slack to participant, PBP, & Talent Aquisition VP |
+| Disengaged or request program exit | Message 4: L&D team sends message to PBP of participant to discuss enrollment of future Elevate cohort |
 
 
 
