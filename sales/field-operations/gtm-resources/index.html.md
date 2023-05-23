@@ -20,7 +20,7 @@ description: "Operations, Procedures, Documentation"
 ### Issues and Projects
 
 - [Sales](https://gitlab.com/groups/gitlab-com/sales-team/-/issues) - general sales related needs & issues
-- [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/issues) - all issues related to website, product, design, events, webcasts, lead routing, social media and community relations
+- [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/issues) - all issues related to website, product, design, events, webcasts, lead routing, social media and Developer Relations
 - [Customer Success SA Triage](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards) - technical pre-sales requests
 
 ### Slack: A short list of the helpful Slack channels
