@@ -59,7 +59,7 @@ Please do **not** use the enabling compute credits process for validating a user
 Requirements:
 
 1. Requester has [filed an internal request](https://gitlab-com.gitlab.io/support/internal-requests-form/) or ZenDesk ticket to track request.
-1. Request is approved or created by a [Community Relations](https://about.gitlab.com/handbook/marketing/community-relations/#-meet-the-team) or [Contributor Success](https://about.gitlab.com/handbook/marketing/community-relations/contributor-success/#team-members) team member.
+1. Request is approved or created by a [Developer Relations](https://about.gitlab.com/handbook/marketing/developer-relations/#-meet-the-team) or [Contributor Success](https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/#team-members) team member.
 1. GitLab.com admin account
 
 Steps:

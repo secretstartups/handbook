@@ -54,7 +54,7 @@ Tickets can be submitted by customers on paid plans for either gitlab.com or sel
 
 ## Support for customers on free plans
 
-For customers on free plans (.com 'Free' and self-managed 'core'), there is the [GitLab forum](https://forum.gitlab.com). The Support Team does not currently work with the forum - the Community Relations Team aims to answer questions there on a best-effort basis in conjunction with the wider community.
+For customers on free plans (.com 'Free' and self-managed 'core'), there is the [GitLab forum](https://forum.gitlab.com). The Support Team does not currently work with the forum - the Developer Relations Team aims to answer questions there on a best-effort basis in conjunction with the wider community.
 
 ## GitLab issue trackers
 
