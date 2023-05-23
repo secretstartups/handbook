@@ -52,8 +52,8 @@ team calendar.
 1. If you regularly handle L&R tickets, please subscribe to the global L&R calendar and relevant L&R regional calendar.
 
 1. Add the calendars for your SGG and your SGG region, to your own calendar.
-   1. In Google Calendar's left-hand side toolbar, scroll down to "Other Calendars". Click the "+" icon and choose "Subscribe to calendar".
-   1. Enter the Calendar ID (below) for your SGG calendar
+   1. Click on the Calendar URL link (below) for your SGG calendar. This will open the calendar.
+   1. On the bottom right hand corner of your screen, click on the `Add to Calendar` button 
    1. Repeat for your SGG region calendar
 
 ##### SGG / L&R Calendar links
