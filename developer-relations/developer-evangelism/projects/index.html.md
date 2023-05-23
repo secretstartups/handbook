@@ -11,7 +11,9 @@ title: "Projects"
 
 ## Introduction
 
-We maintain our projects in the [gitlab-de group](https://gitlab.com/gitlab-de). This includes repositories for maintained [open source projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/), workshops and tutorial exercises, thought leadership research, and more learning resources.
+We maintain our projects in the public [gitlab-de group](https://gitlab.com/gitlab-de). This group has access to an Ultimate subscription. 
+
+The group organizes use cases, workshops, tutorials, maintained [open source projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/), demo playgrounds, thought leadership research, and more learning resources.
 
 ## Organisation Structure
 
@@ -21,6 +23,7 @@ All projects are organized in sub-groups on the top level. No projects are allow
 |--------------|-----|--------------|
 | [playground](https://gitlab.com/gitlab-de/playground) | all | Test projects, simple demo cases, code snippets, etc. without support | 
 | [use-cases](https://gitlab.com/gitlab-de/use-cases) | all | Use cases for specific topics for product demos, talks, thought leadership, research | 
+| [use-cases/ai](https://gitlab.com/gitlab-de/use-cases/ai) | all | [AI workflows and use cases](/solutions/ai/) |
 | [use-cases/efficiency](https://gitlab.com/gitlab-de/use-cases/efficiency) | @dnsmichi | Efficiency use cases (CI/CD, container images, workflows, CLI, etc.) | 
 | [use-cases/gitlab-api](https://gitlab.com/gitlab-de/use-cases/gitlab-api) | @dnsmichi | GitLab API use cases with libraries and scripts |  
 | [use-cases/observability](https://gitlab.com/gitlab-de/use-cases/observability) | @dnsmichi | Observability uses cases and research (OpenTelemetry, eBPF, etc.) |
