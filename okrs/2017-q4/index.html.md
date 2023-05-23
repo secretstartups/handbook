@@ -185,7 +185,7 @@ canonical_path: "/company/okrs/2017-q4/"
     * HackerOne bug bounty program. Implemented and bounties awarded. => Done.
     * Security policies for cloud services and cloud migrations. Policy published and enacted. => Done.
 * CMO: Build trust of, and preference for GitLab among software developers
-  * CMO: Hire Director, DevRel/Community Relations => Deferred to Q1.
+  * CMO: Hire Director, DevRel/Developer Relations => Deferred to Q1.
     * CA: Grow community and increase community engagement. Increase number of new contributors by 10%, increase number of total contributions per release by 5% and increase number of Twitter mentions of GitLab by 10%. => Not achieved.
   * PMM: Support field marketing at AWS: Reinvent & KubeCon with booth decks and training => Done.
   * MSD: $600K in self serve revenue. => 98% achievement.

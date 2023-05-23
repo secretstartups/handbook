@@ -360,28 +360,28 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from February 1, 
       1. Director of Brand and Digital Design KR: Complete brand guidelines audit to identify opportunities for improvement
       1. Director of Brand and Digital Design KR: Facilitate collaborative brand summit to improve brand strategy
       1. Director of Brand and Digital Design KR: Publish next-generation brand strategy and identity guidelines in the handbook
-  1. **Director of Community Relations: Improve scalability and capacity of the Evangelist Programs.**
-      1. Director of Community Relations KR: Launch streamlined swag ordering and delivery via Printfection for meetup organizers and GitLab Heroes
-      1. Director of Community Relations KR: Create new applications and workflows for GitLab Meetups and GitLab Heroes that allow us to capture all necessary information in the application, automate email responses, and reduce response times.
-      1. Director of Community Relations KR: Create email mailing lists for both Meetups program participants and GitLab Heroes to allow for more efficient communication and better tracking.
-  1. **Director of Community Relations: Leverage real-time/synchronous engagement with the wider community to recruit new contributors.**
-      1. Director of Community Relations KR: Support/organize 5 “Hackathon-in-a box” type events at meetups or at industry events (e.g. SCaLE18x)
-      1. Director of Community Relations KR: Set-up regular office hours with product/engineering teams (e.g. Runner, Package, etc.) to engage with the wider community to review backlogs, highlight areas for community contribution, etc.
-  1. **Director of Community Relations: Improve scalability and efficiency of the Code Contributors program.**
-      1. Director of Community Relations KR: Streamlined swag process for first-time contributors and Hackathon-in-a-box
-      1. Director of Community Relations KR: Deliver Gitter-Slack integration in conjunction with the Quality team
-      1. Director of Community Relations KR: 3 other opportunities for automation identified and planned. This could include auto-labeling milestones post deployment of the merged MR, automatic label for 1st-time contributors or others.
-  1. **Director of Community Relations: Ramp up engagement with existing education program members.**
-      1. Director of Community Relations KR: Execute Education Program Survey, with published results in a public blog post
-      1. Director of Community Relations KR: Publish 3 use cases from existing member institutions, including their logos on the website
-  1. **Director of Community Relations: Increase Education Program Awareness.**
-      1. Director of Community Relations KR: Event plan for 2021; execute on at least 1 event in Q1.
-      1. Director of Community Relations KR: Redesigned Education Program landing page, with new terms, program definition, and institution member logos.
-      1. Director of Community Relations KR: Publish 5 blog posts on Education Program
-  1. **Director of Community Relations: Scale Community Advocates team.**
-      1. Director of Community Relations KR: Plan for 24/7 coverage on GitLab mentions.
-      1. Director of Community Relations KR: Plan for Advocate expertise rotation, with each team member having acquired 2 new expertises.
-      1. Director of Community Relations KR: A set of Live Learning sessions scheduled to raise awareness on involving experts to address wider community mentions and train GitLab members to interact with our community as domain knowledge experts.
+  1. **Director of Developer Relations: Improve scalability and capacity of the Evangelist Programs.**
+      1. Director of Developer Relations KR: Launch streamlined swag ordering and delivery via Printfection for meetup organizers and GitLab Heroes
+      1. Director of Developer Relations KR: Create new applications and workflows for GitLab Meetups and GitLab Heroes that allow us to capture all necessary information in the application, automate email responses, and reduce response times.
+      1. Director of Developer Relations KR: Create email mailing lists for both Meetups program participants and GitLab Heroes to allow for more efficient communication and better tracking.
+  1. **Director of Developer Relations: Leverage real-time/synchronous engagement with the wider community to recruit new contributors.**
+      1. Director of Developer Relations KR: Support/organize 5 “Hackathon-in-a box” type events at meetups or at industry events (e.g. SCaLE18x)
+      1. Director of Developer Relations KR: Set-up regular office hours with product/engineering teams (e.g. Runner, Package, etc.) to engage with the wider community to review backlogs, highlight areas for community contribution, etc.
+  1. **Director of Developer Relations: Improve scalability and efficiency of the Code Contributors program.**
+      1. Director of Developer Relations KR: Streamlined swag process for first-time contributors and Hackathon-in-a-box
+      1. Director of Developer Relations KR: Deliver Gitter-Slack integration in conjunction with the Quality team
+      1. Director of Developer Relations KR: 3 other opportunities for automation identified and planned. This could include auto-labeling milestones post deployment of the merged MR, automatic label for 1st-time contributors or others.
+  1. **Director of Developer Relations: Ramp up engagement with existing education program members.**
+      1. Director of Developer Relations KR: Execute Education Program Survey, with published results in a public blog post
+      1. Director of Developer Relations KR: Publish 3 use cases from existing member institutions, including their logos on the website
+  1. **Director of Developer Relations: Increase Education Program Awareness.**
+      1. Director of Developer Relations KR: Event plan for 2021; execute on at least 1 event in Q1.
+      1. Director of Developer Relations KR: Redesigned Education Program landing page, with new terms, program definition, and institution member logos.
+      1. Director of Developer Relations KR: Publish 5 blog posts on Education Program
+  1. **Director of Developer Relations: Scale Community Advocates team.**
+      1. Director of Developer Relations KR: Plan for 24/7 coverage on GitLab mentions.
+      1. Director of Developer Relations KR: Plan for Advocate expertise rotation, with each team member having acquired 2 new expertises.
+      1. Director of Developer Relations KR: A set of Live Learning sessions scheduled to raise awareness on involving experts to address wider community mentions and train GitLab members to interact with our community as domain knowledge experts.
   1. **Senior Director of Corporate Marketing: Grow competitive share-of-voice.**
       1. Senior Director of Corporate Marketing KR: 55% SOV vs. main competitor.
       1. Senior Director of Corporate Marketing KR: At least two key messages included in 75% of feature articles
@@ -478,9 +478,9 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from February 1, 
 		1. Senior Director of Corporate Marketing KR: Establish 2020 GitLab Remote Work Survey
 		1. Senior Director of Corporate Marketing KR: Secure 7 articles about remote work survey
 		1. Senior Director of Corporate Marketing KR: Reach 200,000 people via all channels. Implement content into three panels or keynotes
-	1. **Director of Community Relations: Improve diversity of Heroes program as defined on GitLab’s Diversity, Inclusion and Belonging page.**
-		1. Director of Community Relations KR: Create 3 new initiatives, campaigns, or content (such as blog posts or videos) aimed at improving the diversity of the Heroes program.
-		1. Director of Community Relations KR: Accept 5 new GitLab Heroes who are gender minorities and 5 new GitLab Heroes from other underrepresented groups
+	1. **Director of Developer Relations: Improve diversity of Heroes program as defined on GitLab’s Diversity, Inclusion and Belonging page.**
+		1. Director of Developer Relations KR: Create 3 new initiatives, campaigns, or content (such as blog posts or videos) aimed at improving the diversity of the Heroes program.
+		1. Director of Developer Relations KR: Accept 5 new GitLab Heroes who are gender minorities and 5 new GitLab Heroes from other underrepresented groups
 	1. **Senior Director of Corporate Marketing Corporate Marketing: Hold successful Contribute.**
 		1. Senior Director of Corporate Marketing KR: Hold successful Contribute with 4 out of 5 stars from the attendee survey
 		1. Senior Director of Corporate Marketing KR: Secure positive coverage around carbon emissions announcement, securing 5 articles
