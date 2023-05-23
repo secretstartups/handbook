@@ -648,6 +648,5 @@ If for any reason the API Key needs to be rotated it needs to be rotated in the 
 
 - [The Handbook Project](https://gitlab.com/gitlab-com/www-gitlab-com/)
 - [The KPI Slides Project](https://gitlab.com/gitlab-com/kpi-slides/)
-- [Okta](https://about.gitlab.com/handbook/business-technology/okta/)
 
 Team members who work on the performance indicators page generation code will also need it, since they need it to be able to build the pages locally.
