@@ -72,7 +72,7 @@ It is highly recommended to use the feedback template below to make this easier.
 
 #### Feedback template
 
-You can copy/paste this to make sure you don't miss anything:
+You can copy/paste this to make sure you don't miss anything or [create a comment template](https://docs.gitlab.com/ee/user/profile/comment_templates.html#create-comment-templates) for reusability:
 
 ```
 <!-- Select the appropriate subscription and product text below and remove the others (note: do not add them as labels)>
