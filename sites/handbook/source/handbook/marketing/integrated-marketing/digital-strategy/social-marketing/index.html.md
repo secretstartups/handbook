@@ -13,7 +13,7 @@ twitter_creator: gitlab
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-📖 **Welcome to the Social Marketing Handbook**. The social marketing team is responsible for the stewardship of the GitLab brand social channels. We’re accountable for the organic editorial calendar and work with partners across the community relations, digital marketing, talent brand, and other teams to orchestrate the social media landscape for GitLab.
+📖 **Welcome to the Social Marketing Handbook**. The social marketing team is responsible for the stewardship of the GitLab brand social channels. We’re accountable for the organic editorial calendar and work with partners across the Developer Relations, digital marketing, talent brand, and other teams to orchestrate the social media landscape for GitLab.
 {:.alert .alert-info .text-justify}
 
 ### Social Marketing Handbook Pages
@@ -170,7 +170,7 @@ Our content pillars provide strategic direction for the social team and the GitL
 
 - All Remote Brand
 - Blog
-- Community relations
+- Developer Relations
 - Corporate Events
 - DevOps Leadership 
 - Press / News 
