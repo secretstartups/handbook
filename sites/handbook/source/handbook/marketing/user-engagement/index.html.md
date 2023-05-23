@@ -31,7 +31,7 @@ There are numerous stakeholders working on this initiative including:
 * Content Marketing
 * Customer Success
 * Field Enablement
-* Community Relations
+* Developer Relations
 
 ## How we work
 
