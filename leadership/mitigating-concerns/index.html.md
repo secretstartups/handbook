@@ -30,7 +30,7 @@ Listed below are some of our concerns bucketed by type. We do not view the list 
 1. Keep our [promises](/company/stewardship/#promises)
 1. Keep listening
 1. Assign [Merge Request Coaches](https://handbook.gitlab.com/job-families/expert/merge-request-coach/)
-1. Have [Leading Organizations](/handbook/marketing/community-relations/leading-organizations)
+1. Have [Leading Organizations](/handbook/marketing/developer-relations/leading-organizations)
 
 ### Loss of the values that bind us
 {:#loss-of-the-values-that-bind-us}
