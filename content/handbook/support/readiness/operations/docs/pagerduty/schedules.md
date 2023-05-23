@@ -14,7 +14,7 @@ As per [Pagerduty](https://support.pagerduty.com/docs/schedules):
 ## Creating a schedule
 
 **Note** This does not add the schedule to an escalation policy. Until that is
-done, he scehdule is classified as "unused".
+done, the schedule is classified as "unused".
 
 1. Login to [pagerduty](https://gitlab.pagerduty.com/)
 1. Hover over `People` and click `On-Call Schedules` to go to the
