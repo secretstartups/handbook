@@ -373,11 +373,11 @@ The structure of Repository Health Day is as follows:
 
 By allowing our team members to contribute to the health of our repositories for a day, we can contribute low-effort, high-impact solutions that will drive results for our team, partners, and the entire marketing site. This will enable Digital Experience team members to use their strengths to efficiently drive results for https://about.gitlab.com/. We’re all good at different things and come from different backgrounds. Let’s use that to our advantage to build a better tech stack that is inclusive of the team members that use it everyday.
 
-## Data Studio Dashboard
+## Analytics
 
-The Digital Experience team utilizes [Data Studio](https://datastudio.google.com/reporting/c47c1759-6d08-4f9b-aae3-3f6b4a3f8d0e/page/PUsnC), a dashboarding tool that visualizes data from Google Analytics, to monitor metrics related to web traffic, engagements, conversions, and site health over time. Team members can interact with the dashboard accordingly by changing the data range, filter by device type or traffic source, or drill-down certain reports with a secondary dimension. A detailed walk-through video of the dashboard is available [here](https://www.youtube.com/watch?v=z-JgjKfltoE). 
+The Digital Experience team utilizes [Looker Studio](https://datastudio.google.com/reporting/c47c1759-6d08-4f9b-aae3-3f6b4a3f8d0e/page/PUsnC), a dashboarding tool that visualizes data from Google Analytics, to monitor metrics related to web traffic, engagements, conversions, and site health over time. Team members can interact with the dashboard accordingly by changing the data range, filter by device type or traffic source, or drill-down certain reports with a secondary dimension. A detailed walk-through video of the dashboard is available [here](https://www.youtube.com/watch?v=z-JgjKfltoE). 
 
-To make a change request to the dashboard, please submit an issue to the [Buyer Experience](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues) project with the `dex::analytics` label. 
+For any Digital Experience analytics request, please create an issue within the [Marketing Strategy and Analytics](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) project using the `dex_analytics_request` template to outline specific requirements. To ensure a smooth milestone planning, please assign the issue to [@dennischarukulvanich](https://gitlab.com/dennischarukulvanich) ideally a week or more in advance.  
 
 ##  Sales Shadows
 ### How to set up a Sales Shadow
