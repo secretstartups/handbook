@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### DevSecOps/Compliance
-##### May 22nd, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_2Zm7T5z1T1G6MfYRvqY7yw)
-
 #### Getting Started with DevOps Metrics
 ##### May 24th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
 
@@ -38,29 +31,10 @@ Come learn about DevOps metrics in GitLab and why it is useful to track them. We
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_nNREhitnSKy3OoDo2CaXdw)
 
-### APAC Time Zone Webinars
-
-#### DevSecOps/Compliance
-##### May 23rd, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_u9D0xlxPT5KB1uewZsxiDA#)
-
-
-### EMEA Time Zone Webinars
-
-#### DevSecOps/Compliance
-##### May 22nd, 2023 at 10:00-11:00AM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_C2AlvSwoTW2ZGLtMR_WL4Q#)
 
 ## June 2023
 
 ### AMER Time Zone Webinars
-##
 
 #### Intro to GitLab
 ##### June 6th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
