@@ -16,7 +16,7 @@ title: GitLab Event Information
 
 There are 3 groups within marketing who handle external events. Each group has a specific purpose. Please review each page for specific details.
 
-- [Community Relations](/handbook/marketing/community-relations/evangelist-program/)
+- [Developer Relations](/handbook/marketing/developer-relations/evangelist-program/)
 - [Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/)
 - [Field Marketing](/handbook/marketing/field-marketing/)
 
@@ -55,7 +55,7 @@ Please _only request_ event support/sponsorship if your proposed event fits the 
 
 If your event fits the criteria above and you would like support from marketing, create an issue in the appropriate marketing project.
 
-- **Community Relations** - We are unable to support inbound requests for sponsorship of community events for the remainder of FY23.
+- **Developer Relations** - We are unable to support inbound requests for sponsorship of community events for the remainder of FY23.
 - [**Corporate Events**](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Event_Sponsored_Corporate_Events) - use the "Event-Request" template
 - **Field Marketing**
   `Please Note:` _These requests will be reviewed by the appropriate regional Field Marketing Manager. Even if the event is free or low-cost, all requests must be approved by Field Marketing prior to any commitment to ensure the event or tactic aligns to the marketing strategy, meets SAO objectives and Field Marketing can properly execute to maximize GitLab’s future success._ - To suggest a Field Marketing event (in-person or virtual) or other tactic for review, please open an [`Event_Tactic_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Event_Tactic_Request) issue and follow the instructions.
@@ -708,9 +708,9 @@ All information on swag can be found in the [swag process handbook](/handbook/ma
 
 For all details regarding Field Marketing Swag and Event Assets, please visit the Field Marketing page [here](/handbook/marketing/field-marketing/#field-marketing-swag).
 
-## Specifics for Community Relations
+## Specifics for Developer Relations
 
-GitLab's Community Relations team reviews and manages our community events (typically an event with less than 250 attendees that is targetting end users of GitLab) including [Meetups](/handbook/marketing/community-relations/evangelist-program/#meetups). The [Community Relations handbook](/handbook/marketing/community-relations/evangelist-program/#community-events) has additional information on the events the Community Relations team will support.
+GitLab's Developer Relations team reviews and manages our community events (typically an event with less than 250 attendees that is targetting end users of GitLab) including [Meetups](/handbook/marketing/developer-relations/evangelist-program/#meetups). The [Developer Relations handbook](/handbook/marketing/developer-relations/evangelist-program/#community-events) has additional information on the events the Developer Relations team will support.
 
 ## Specifics for Corporate Events
 
