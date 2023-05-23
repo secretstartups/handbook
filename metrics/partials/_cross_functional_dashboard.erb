@@ -9,3 +9,9 @@ We also track our backlog of issues, including past due security and infradev is
 MR Type labels help us report what we're working on to industry analysts in a way that's consistent across the engineering department. The dashboard below shows the trend of MR Types over time and a list of merged MRs.
 
 <%= partial "handbook/engineering/metrics/partials/_mr_types_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for("quality", "group", filter_value) } %>
+
+#### Flaky Test Issues
+(<a href="https://app.periscopedata.com/app/gitlab/1095543/Flaky-Test-Issues" target="_blank">Sisense↗</a>)
+Flaky test are problematic [for many reasons](/handbook/engineering/quality/engineering-productivity/flaky-tests/).
+
+<%= partial "handbook/engineering/metrics/partials/_flaky_test_issues_dashboard.erb", locals: { filter_type: filter_type_for("quality", "group"), filter_value: filter_value_for("quality", "group", filter_value) } %>
