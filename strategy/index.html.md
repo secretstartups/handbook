@@ -41,7 +41,7 @@ Ensure that GitLab is the default when customers buy DevSecOps software.
     1. Standardize customer value data
     1. [Value Streams Dashboard for Executive](https://gitlab.com/groups/gitlab-org/-/epics/9317) 
 1. Co-create
-    1. [Leading Organizations](/handbook/marketing/community-relations/leading-organizations/)
+    1. [Leading Organizations](/handbook/marketing/developer-relations/leading-organizations/)
       1. Reaching 1000 monthly contributors
       1. Internal experts at our largest customers
       1. Ensure customers see it as their own product
@@ -174,9 +174,9 @@ graph BT;
 | Part of flywheel | Key Performance Indicator (KPI) | Department |
 |-------------- ---|---------------------------------|------------|
 | More Users | [Stage Monthly Active Users](/handbook/product/performance-indicators/){:data-ga-name="stage monthly active user"}{:data-ga-location="body"} | Product |
-| More Contributions | [Unique Wider Community Contributors per month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month){:data-ga-name="community contributors per month"}{:data-ga-location="body"} | Community Relations and Engineering |
-| More Contributions | [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr){:data-ga-name="MRARR"}{:data-ga-location="body"} | Community Relations and Engineering |
-| More Contributions | [Wider community contributions per release](/handbook/marketing/community-relations/performance-indicators/#wider-community-merged-mrs-per-release){:data-ga-name="wider community contributors per release"}{:data-ga-location="body"} | Community Relations and Engineering |
+| More Contributions | [Unique Wider Community Contributors per month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month){:data-ga-name="community contributors per month"}{:data-ga-location="body"} | Developer Relations and Engineering |
+| More Contributions | [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr){:data-ga-name="MRARR"}{:data-ga-location="body"} | Developer Relations and Engineering |
+| More Contributions | [Wider community contributions per release](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release){:data-ga-name="wider community contributors per release"}{:data-ga-location="body"} | Developer Relations and Engineering |
 | More Features | [Merge Requests per release per engineer in product development](/handbook/engineering/development/performance-indicators/#average-mrs-development-engineers-month){:data-ga-name="mrs per engineer"}{:data-ga-location="body"} | Engineering and Product Management |
 | More Revenue | [IACV](/handbook/sales/#incremental-annual-contract-value-iacv){:data-ga-name="IACV"}{:data-ga-location="body"} vs. plan | Sales and Marketing |
 
@@ -219,7 +219,7 @@ graph TB
 
 Legend with links to the relevant metrics:
 
-1. [Wider community contributions Turbo](/handbook/marketing/community-relations/performance-indicators/#wider-community-merged-mrs-per-release){:data-ga-name="contributions per milestone"}{:data-ga-location="body"}{:data-ga-name="contributions per milestone"}{:data-ga-location="body"}
+1. [Wider community contributions Turbo](/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release){:data-ga-name="contributions per milestone"}{:data-ga-location="body"}{:data-ga-name="contributions per milestone"}{:data-ga-location="body"}
 1. [R&D Overall MR Rate](/handbook/engineering/performance-indicators/#rd-overall-mr-rate){:data-ga-name="mr rate"}{:data-ga-location="body"}
 1. [Stage maturity](/direction/maturity/){:data-ga-name="maturity"}{:data-ga-location="body"} increase
 1. [MAU](/handbook/product/performance-indicators/){:data-ga-name="MAU"}{:data-ga-location="body"} increase
