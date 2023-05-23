@@ -6,12 +6,6 @@ The Procurement Operations job family supports procurement and spend management 
 
 ### Procurement Operations Analyst
 
-#### Procurement Operations Analyst Levels
-
-#### Procurement Operations Analyst (Intermediate)
-
-The Procurement Operations Analyst reports to Director, Procurement.
-
 #### Procurement Operations Analyst (Intermediate) Job Grade
 
 The Procurement Operations Analyst is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -42,8 +36,6 @@ The Procurement Operations Analyst is a [grade 5](https://about.gitlab.com/handb
 
 ### Senior Procurement Operations Analyst
 
-The Senior Procurement Operations Analyst reports to Director, Procurement.
-
 #### Senior Procurement Operations Analyst Job Grade
 
 The Senior Procurement Operations Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -61,12 +53,6 @@ The Senior Procurement Operations Analyst is a [grade 6](https://about.gitlab.co
 - Extends the Procurement Operations Analyst (Intermediate) requirements
 
 ### Procurement Category Manager
-
-#### Procurement Category Manager Levels
-
-#### Procurement Category Manager (Intermediate)
-
-The Procurement Category Manager (Intermediate) reports to Director, Procurement
 
 #### Procurement Category Manager (Intermediate) Job Grade
 
@@ -102,12 +88,6 @@ The Procurement Category Manager is a [grade 7](https://about.gitlab.com/handboo
 
 ### Manager, Procurement
 
-#### Manager, Procurement Levels
-
-### Manager, Procurement
-
-The Manager, Procurement reports to Director, Procurement
-
 #### Manager, Procurement Job Grade
 
 The Manager, Procurement is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -141,8 +121,6 @@ The Manager, Procurement is a [grade 8](https://about.gitlab.com/handbook/total-
 
 ### Senior Manager, Procurement
 
-The Senior Manager, Procurement reports to Director, Procurement
-
 #### Senior Manager, Procurement Job Grade
 
 The Senior Manager, Procurement is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -163,12 +141,6 @@ The Senior Manager, Procurement is a [grade 9](https://about.gitlab.com/handbook
 
 ### Director, Procurement
 
-#### Director, Procurement levels
-
-### Director, Procurement
-
-The Director, Procurement reports to VP, IT
-
 #### Director, Procurement Job Grade
 
 The Director, Procurement is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -186,10 +158,37 @@ The Director, Procurement is a [grade 10](https://about.gitlab.com/handbook/tota
 
 - Extends the Senior Manager, Procurement requirements
 - At least 7-10 years of experience in procurement at a technology company
-- Drive for results. Counted on to deliver goals, constantly pushes self and others to achieve OKR's.
+
+### Senior Director, Procurement
+
+#### Senior Director, Procurement Job Grade
+
+The Director, Procurement is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Director, Procurement Responsibilities
+
+- Extends the Director, Procurement responsibilities
+- Creates, communicates, and executes a procurement strategy in support of GitLab’s overall objectives
+- Owns policies, practices, and systems to support a fast-growth environment while managing risk and improving operational efficiency
+- Develops procurement processes, systems and purchase controls to ensure compliance and develop a communication strategy to bring awareness to the policies
+- Works with external auditors and advisors on audit, accounting and other matters as needed; work cross functionally with business partners to continue to challenge efficiencies in the procurement and negotiation processes
+- Builds and maintains relationships with internal stakeholders to ensure customer satisfaction and that programs meet business need
+- Drives vendor negotiation strategy, including Leading negotiations with vendors to ensure best-in-class pricing and terms
+- Analyzes spend data and category intelligence to inform strategic vendor management
+- Define team KPIs. Root cause and develop plans to improve KPIs to drive efficiency in procurement operations.
+- Leads and manage procurement team by fostering a culture of continuous iteration and professional development in alignment with our CREDIT values
+
+#### Senior Director, Procurement Requirements
+
+- Extends the Director, Procurement requirements
+- At least 10 years of experience in procurement at a technology company
+- At least 5 years managing a procurement team
+- Drive for results. Counted on to deliver goals, constantly pushes self and others to achieve OKR’s.
 - Makes good decisions based upon wisdom, experience and judgment based on industry knowledge.
 - Understands broad stakeholder needs, knowledgeable in current and possible future policies, practices, trends, and information affecting his/her business organization.
-- Creates and communicates a compelling vision beyond current state with optimism and mileposts to rally support.
+- Strong operational skills required to drive consistency and speed in the execution of our procure to pay processes
+- Ability to craft solutions that meet current business needs while providing a framework for growth and scale
+
 
 ## Performance Indicators (PI)
 
