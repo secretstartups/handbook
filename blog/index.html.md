@@ -378,11 +378,11 @@ We use these to make it faster to track the effectiveness of different types of 
 1. **Content marketing:** Examples, education, reporting, storytelling, thought leadership, and use cases.
 1. **Corporate:** Company news, announcements, and community updates (ex: issue bash, contributor profiles).
 1. **Product:** Release posts, critical updates, and partnership announcements.
-1. **dev-evangelism:** Blog posts authored or contributed to by members of the [Developer Evangelism](/handbook/marketing/community-relations/developer-evangelism/) team.
+1. **dev-evangelism:** Blog posts authored or contributed to by members of the [Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/) team.
 1. **Product Marketing:** Blog posts authored or contributed to by members of the [Product Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/) team.
 1. **Technical Marketing:** Blog posts authored or contributed to by members of the [Technical Marketing](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/technical-marketing/) team.
-1. **edu-program:** Blog posts authored or contributed by [Education Program Team](/handbook/marketing/community-relations/community-programs/education-program/)
-1. **oss-program:** Blog posts authored or contributed by [Open Source Program Team](/handbook/marketing/community-relations/community-programs/opensource-program/)
+1. **edu-program:** Blog posts authored or contributed by [Education Program Team](/handbook/marketing/developer-relations/community-programs/education-program/)
+1. **oss-program:** Blog posts authored or contributed by [Open Source Program Team](/handbook/marketing/developer-relations/community-programs/opensource-program/)
 
 Use the `postType` frontmatter option to set the content definition.
 
