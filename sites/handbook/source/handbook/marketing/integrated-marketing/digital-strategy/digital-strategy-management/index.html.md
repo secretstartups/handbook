@@ -305,9 +305,6 @@ Each paid channel has its own unique design specifications, ad copy character li
    - Recommended Image File Type: JPG or PNG
    - Recommended Image File Size: 5MB Max
    - Recommend using shorter copy within image, and lean on the headline/introduction text to convey more of your message
-   - Copy: Primary Text: 150 character limit
-   - Copy: Headline: 70 character limit
-   - Copy: Description: 100 character limit
 * LinkedIn Video: 
    - Text recommendations
      - Headline: 70 characters (200 max)
