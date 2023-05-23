@@ -242,7 +242,7 @@ Current groups and sub-groups are outlined below:
    - Campaigns
    - CMO Executive
    - Communications
-   - Community Relations
+   - Developer Relations
    - Content Marketing
    - Digital Design
    - Digital Marketing

@@ -225,7 +225,7 @@ We're hiring across the company. Check out our opportunities: https://about.gitl
 
 **HackerNews Notes:**
 - Sid's HackerNews credentials should not to be used for the "Who's Hiring" post. The team member posting the comment should use their own account.
-- When posting on HackerNews, remember that it is our most important social channel. Please follow the [best practices](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#best-practices-when-responding-on-hacker-news) and [social media guidelines](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#social-media-guidelines).
+- When posting on HackerNews, remember that it is our most important social channel. Please follow the [best practices](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#best-practices-when-responding-on-hacker-news) and [social media guidelines](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#social-media-guidelines).
 
 
 
