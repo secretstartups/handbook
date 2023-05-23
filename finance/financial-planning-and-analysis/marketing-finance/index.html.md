@@ -29,7 +29,7 @@ title: "Marketing Finance"
 | Brand & Product Marketing | Content | @rcallam |
 | Brand & Product Marketing | Search Marketing | @rcallam |
 | Brand & Product Marketing | Product Marketing | @rcallam |
-| Community Relations | Community Relations | @rcallam |
+| Developer Relations | Developer Relations | @rcallam |
 | Revenue Marketing | Sales Development| @rcallam |
 | Growth | Growth | @rcallam |
 | Strategy, Operations, & Analytics | Marketing Ops | @rcallam |
