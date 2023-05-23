@@ -11,7 +11,7 @@ description: "Global Channel supports global channel sales objectives and provid
 {:toc .hidden-md .hidden-lg}
 
 # Our Team
-Global Channel Marketing team is a team of professionals supporting global channel sales objectives and providing support to the GitLab channel partner community and customers.  We think about our Channel Marketing program in terms of marketing to the channel, marketing through the channel, and marketing with the channel.
+Global Channel Marketing team is a team of professionals who's job is to build marketing plans to grow the channel business worldwide. We think about our Channel Marketing program in terms of marketing to the channel, marketing through the channel, and marketing with the channel.
 
 ## Marketing to the Channel
 This team is responsible for the development of channel marketing campaigns that leverage GitLab’s go-to-market campaigns.  We work with partners to help them understand what the campaigns are, how to use them to help drive partner sourced opportunities, how to leverage upcoming GitLab webinars/webcasts to drive conversion and how to generate trials for GitLab that they can nurture with prospects. Part of this program includes a Partner Leadership Summit, which is an in person event meant to connect our channel partner leadership & GitLab direct leadership to share the GitLab vision and the important part our channel partners play in the success of our business. 
@@ -241,7 +241,7 @@ Note, the subject needs to be an exact match of what's displayed above, otherwis
 
 *   **Lauren Roberts**: Partner Program Manager,  Lauren will be focusing on supporting our channel partner programs including the Free trial program; partner microsites, and integrated instant marketing campaigns for GitLab channel partners.  
 
-*   **Gabby Chorny**: Senior Channel Marketing Manager for AMER and PubSec.
+*   **Gabby Chorny**: Channel Marketing Manager for AMER and PubSec.
 
 *   **Daria Polukanina**: Channel Marketing Manager for EMEA and APAC
 
