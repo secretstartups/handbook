@@ -32,6 +32,7 @@ Navigate to career development resources located throughout the GitLab handbook:
   </div>
 </div>
 
+
 ### Career Growth Opportunities
 <div class="flex-row" markdown="0">
   <div>
@@ -50,10 +51,28 @@ Navigate to career development resources located throughout the GitLab handbook:
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training" class="btn btn-purple" style="width:200px;margin:5px;">Crucial Conversations</a>
     <a href="/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#academic-study" class="btn btn-purple" style="width:200px;margin:5px;">Academic Study</a>
     <a href="https://handbook.gitlab.com/job-families/expert/merge-request-coach/" class="btn btn-purple" style="width:200px;margin:5px;">MR Coaching</a>
+    <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/teamops" class="btn btn-purple" style="width:200px;margin:5px;">TeamOps Certification</a>
+    <a href="/company/culture/inclusion/tmrg-gitlab-women/" class="btn btn-purple" style="width:200px;margin:5px;">#IamRemarkable Workshop</a>
+    <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/igp" class="btn btn-purple" style="width:250px;margin:5px;">Individual Growth Plan Course</a>
+
+    
   </div>
 </div>
 
-#### Job Shadow Programs at GitLab
+### Manager Training
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="/handbook/people-group/learning-and-development/elevate/" class="btn btn-purple" style="width:200px;margin:5px;">Elevate</a>
+    <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/support-your-team-with-career-conversations" class="btn btn-purple" style="width:250px;margin:5px;">Support your Team with Career Conversations Course</a>
+    <a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13409" class="btn btn-purple" style="width:250px;margin:5px;">Manager M Groups</a>
+    <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/mitigating-risk" class="btn btn-purple" style="width:200px;margin:5px;">Mitigating Risk Course</a>
+    <a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13409" class="btn btn-purple" style="width:250px;margin:5px;">Manager M-Team Groups</a>
+    <a href="https://levelup.gitlab.com/learn/course/getting-to-know-yourself-and-your-team" class="btn btn-purple" style="width:250px;margin:5px;">Get to Know Yourself and your Team Course</a>
+  </div>
+</div>
+
+### Job Shadow Programs
 <div class="flex-row" markdown="0">
   <div>
     <a href="/handbook/ceo/shadow/" class="btn btn-purple" style="width:200px;margin:5px;">CEO Shadow</a>
