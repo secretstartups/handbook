@@ -11,7 +11,90 @@ title: "Projects"
 
 ## Introduction
 
-We maintain our projects in the [gitlab-de group](https://gitlab.com/gitlab-de). This includes repositories for maintained [open source projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/), workshops exercises, and more learning resources.
+We maintain our projects in the [gitlab-de group](https://gitlab.com/gitlab-de). This includes repositories for maintained [open source projects](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/), workshops and tutorial exercises, thought leadership research, and more learning resources.
+
+## Organisation Structure
+
+All projects are organized in sub-groups on the top level. No projects are allowed on the top-level namespace `gitlab.com/gitlab-de`. 
+
+| Group        | DRI | Description  |
+|--------------|-----|--------------|
+| [playground](https://gitlab.com/gitlab-de/playground) | all | Test projects, simple demo cases, code snippets, etc. without support | 
+| [use-cases](https://gitlab.com/gitlab-de/use-cases) | all | Use cases for specific topics for product demos, talks, thought leadership, research | 
+| [use-cases/efficiency](https://gitlab.com/gitlab-de/use-cases/efficiency) | @dnsmichi | Efficiency use cases (CI/CD, container images, workflows, CLI, etc.) | 
+| [use-cases/gitlab-api](https://gitlab.com/gitlab-de/use-cases/gitlab-api) | @dnsmichi | GitLab API use cases with libraries and scripts |  
+| [use-cases/observability](https://gitlab.com/gitlab-de/use-cases/observability) | @dnsmichi | Observability uses cases and research (OpenTelemetry, eBPF, etc.) |
+| [use-cases/remote-development](https://gitlab.com/gitlab-de/use-cases/remote-development) | @dnsmichi @iganbaruch | Remote development environments and Web IDE use cases |
+| [workshops](https://gitlab.com/gitlab-de/workshops) | all | Workshop groups and projects provided by the team |
+| [projects](https://gitlab.com/gitlab-de/projects) | @abuango | Production projects maintained by the team | 
+| [tutorials](https://gitlab.com/gitlab-de/tutorials) | all |
+| [tutorials/security-and-governance](https://gitlab.com/gitlab-de/tutorials/security-and-governance) | @fjdiaz | This group contains different projects as well as documentation around GitLab's security and governance tools. | 
+| [unmaintained](https://gitlab.com/gitlab-de/unmaintained) | - | Projects, tutorials, use cases that are not maintained anymore but kept public for transparency | 
+
+### Access
+
+Access is limited to [team members in the `gitlab-de` group](https://gitlab.com/groups/gitlab-de/-/group_members). Adding/removing members [requires an issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues) to document the change. 
+
+Allowed exceptions are workshop sub-groups that invite external users into their workshop projects temporarily. All temporarily added users [**must** use a membership expiration date of 7 days](https://docs.gitlab.com/ee/user/project/members/#add-users-to-a-project). 
+
+### Add a new project or group 
+
+1. Define the scope of your project, and add it into one of the top-level groups. 
+1. When unsure, create the project in the [playground](https://gitlab.com/gitlab-de/playground) group first, and transfer it to its production location later in the project settings. 
+
+**Do not create new top-level groups without first proposing the change in an issue/MR.**
+
+#### Group: Use Cases 
+
+1. Blog posts or thought leadership research usually describe a use case or specific topic. Review the existing [use-cases](https://gitlab.com/gitlab-de/use-cases), add a new project or sub-group.
+1. If your use case is new, create a new subgroup, add a description, and update the handbook organization structure. Add yourself as DRI to the table. 
+
+#### Group: Tutorials and Workshops 
+
+1. [Tutorials](https://gitlab.com/gitlab-de/tutorials) provide helpful content to learn specific topics and have a DRI assigned to maintain the projects. Tutorials are referenced in blog posts, webinars, etc. 
+1. [Workshops](https://gitlab.com/gitlab-de/workshops) provide self-contained learning resources in the form of exercises, solutions, etc. in a single repository. 
+
+When unsure where to start, create a new tutorial sub group first, and later decide to migrate the content to a workshop for example. 
+
+#### Group: Projects 
+
+The [projects](https://gitlab.com/gitlab-de/projects) group contains all projects that are used in production. They require extended documentation in the team handbook, since the team depends on the functionality for workflows and efficiency. We also maintain microsites that are served with GitLab pages and custom domains.
+
+### Remove a project/group
+
+Our demo projects are referenced in blog posts and other public content. Moving these projects/groups into the [unmaintained](https://gitlab.com/gitlab-de/unmaintained) is recommended to signal their deprecation to users instead of archiving/deleting the projects. 
+
+## Project Resources
+
+Some projects require access to Kubernetes clusters, self-managed CI/CD Runners, cloud VMs, domains, etc. The team has access to Google Cloud or AWS cloud resources that allow hosting these types of external infrastructure dependencies for GitLab.com SaaS demos. 
+
+### Workflow
+
+1. Document the project setup in its README file (or a in a docs/ structure in the Git repository).
+1. Shutdown resources when not needed (i.e. Kubernetes clusters).
+1. Always add [security scanning](https://docs.gitlab.com/ee/user/application_security/) as default, unless it competes with the demo cases. 
+
+For demos that require debugging the deployments, prefer shared resources, for example in Google Cloud.
+
+1. Document access in the 1Password vault if not available via SSO login.
+1. A GitLab app requires oauth setup from an account. Use a group shared account (e.g. DE Bot) for production apps (Code challenge, etc.)
+
+Shared cloud resources examples:
+
+1. All team members can manage resources in Google Cloud in the [community-group project](https://console.cloud.google.com/kubernetes/list/overview?hl=en&project=group-community-a29572) and `Editor` role. Create an [access request](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) to add/remote team members. 
+1. Google Cloud/AWS also allows you to [register domains that are not trademarked](/handbook/it/guides/domains-dns/#non-trademark-domain-names) (no `gitlab` in the name!) and use the domains for demo setups. 
+
+For individual short-lived tutorials or demo setups for a blog post, prefer the [Cloud Sandbox Realm](/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). This provides automated shutdown, generated domains for easier access, etc. 
+
+```mermaid
+flowchart TD;
+  A{Shared resource access required?}
+  A -->|Yes| B[Use cloud group resources]
+  A -->|No| C{Short-lived}
+  C --> |Yes| D[Use individual Cloud Sandbox projects]
+  C --> |No| B
+```
+
 
 ## Learning Collections
 
