@@ -265,7 +265,7 @@ Here is a reference for the Data Program Teams meeting series, subject DRIs, and
 |	Marketing - Corporate	|		|		|		|		|	
 |   [Marketing - Campaigns / Demand Gen](/handbook/marketing/demand-generation/campaigns/)	|	@jgragnola	|	|		|		|	
 |	Marketing - Digital Experience	|		|		|	
-|	Marketing - Community Relations	|		|		|		
+|	Marketing - Developer Relations	|		|		|		
 |	Marketing - Portfolio	|		|		|	
 |	|		|		|		
 |	[**Sales**](/handbook/sales/)	|		|		|			
