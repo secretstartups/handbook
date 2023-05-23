@@ -271,7 +271,7 @@ As we continue to build on [inclusion](/handbook/values/#diversity-inclusion), r
 1. Please do not mention working outside of working hours, we want to minimize the pressure to do so.
 1. Please do not celebrate GitLab contribution graphs that include working for uninterrupted weeklong cycles, as this does not foster healthy [work/life harmony](/company/culture/all-remote/people/#worklife-harmony) for all team members. While GitLab team members are free to time-shift and work weekends in place of weekdays, we discourage celebrating the absence of time away from work.
 1. Do not thank the CEO or other executives for something that the company paid for, thank GitLab instead.
-1. To thank someone who is not a team member, you can [nominate them for community swag](/handbook/marketing/community-relations/contributor-success/community-appreciation/).
+1. To thank someone who is not a team member, you can [nominate them for community swag](/handbook/marketing/developer-relations/contributor-success/community-appreciation/).
 1. Understand that everyone doesn't need or want recognition. Once this is advised, please respect when they don't.
 
 #### Values emoji
@@ -416,7 +416,7 @@ Below are a few things to remember when creating issues:
 1. Once a feature is [**done**](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), update the description to add a link to the corresponding documentation. When using a Search Engine, issues often appear before documentation pages, which makes it harder to find the relevant information about the feature.
 1. Write issues so that they exclude private information. This way, the issue can be public. Only use confidential issues, if the issue must contain [non-public information](/handbook/communication/confidentiality-levels/#not-public). **Note:** Confidential issues are [accessible to all members of the project with Reporter access and above](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#permissions-and-access-to-confidential-issues). You may consider using a Google Doc for items that require a stricter level of confidentiality.
 1. If the content within a public issue transitions to become what is deemed confidential [non-public information](/handbook/communication/confidentiality-levels/#not-public), the issue may be made confidential.
-1. If the content of a public issue draws comments that are deemed in violation of our [code of conduct](/community/contribute/code-of-conduct/) the issue may be locked and may [undergo moderation](/handbook/marketing/community-relations/workflows-tools/code-of-conduct-enforcement/#overview).
+1. If the content of a public issue draws comments that are deemed in violation of our [code of conduct](/community/contribute/code-of-conduct/) the issue may be locked and may [undergo moderation](/handbook/marketing/developer-relations/workflows-tools/code-of-conduct-enforcement/#overview).
 
 ### How to make a company wide announcement
 
