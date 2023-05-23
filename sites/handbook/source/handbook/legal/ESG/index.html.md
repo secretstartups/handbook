@@ -147,9 +147,9 @@ GitLab has 10 Team Member Resource Groups [(TMRGs).](company/culture/inclusion/e
 
 **GitLab Community** 
 
-From the beginning, GitLab has been an open source project made possible by contributions from the [community](/handbook/marketing/community-relations/community-pathway/#how-community-fits-into-gitlabs-strategy).  Contributors to GitLab (the platform and the company) make up the GitLab community and are a critical part of GitLab’s strategy and mission to make it so that everyone can contribute. 
+From the beginning, GitLab has been an open source project made possible by contributions from the [community](/handbook/marketing/developer-relations/community-pathway/#how-community-fits-into-gitlabs-strategy).  Contributors to GitLab (the platform and the company) make up the GitLab community and are a critical part of GitLab’s strategy and mission to make it so that everyone can contribute. 
 
-Contributing to GitLab can include blog posts, code, documentation, discussions on forums/social media, meetups, presentations, translations, UX design, and more. The [Community Relations team](/handbook/marketing/community-relations/) works with our GitLab community to ensure all receive support and recognition for contributing to GitLab.
+Contributing to GitLab can include blog posts, code, documentation, discussions on forums/social media, meetups, presentations, translations, UX design, and more. The [Developer Relations team](/handbook/marketing/developer-relations/) works with our GitLab community to ensure all receive support and recognition for contributing to GitLab.
 
 We also offer community programs that support organizations that align with our [values.](/handbook/values/) We aim to help these organizations grow and thrive by putting GitLab’s most powerful features in the hands of communities that may not otherwise have the means to access them. Each program is unique in its organization and execution; however, in general, community programs offer GitLab customers benefits such as:
 * Complimentary subscriptions to GitLab Ultimate
@@ -158,11 +158,11 @@ We also offer community programs that support organizations that align with our 
 
 GitLab Community Programs:
 
-* The [GitLab for Education](/handbook/marketing/community-relations/community-programs/education-program/) Program's mission is to facilitate and drive the adoption of GitLab at educational institutions around the globe and build an engaged community of GitLab evangelists and contributors in the next generation of the workforce.
+* The [GitLab for Education](/handbook/marketing/developer-relations/community-programs/education-program/) Program's mission is to facilitate and drive the adoption of GitLab at educational institutions around the globe and build an engaged community of GitLab evangelists and contributors in the next generation of the workforce.
 
 * The [GitLab for Open Source](/solutions/open-source/) Program supports GitLab's mission to make the world a place where anyone can contribute. We help make GitLab the best place for open source projects to grow and thrive.
 
-* The [GitLab for Startups](/handbook/marketing/community-relations/community-programs/startups-program/) Program helps qualifying startups access to our top tiers and 50,000 units of compute for free for 12 months.
+* The [GitLab for Startups](/handbook/marketing/developer-relations/community-programs/startups-program/) Program helps qualifying startups access to our top tiers and 50,000 units of compute for free for 12 months.
 
 As of January 2023, The GitLab for Education Program has over 3 million users of GitLab’s top-tier at over 1,000 educational institutions in over 65+ countries.
 
@@ -233,7 +233,7 @@ A: GitLab does not currently have a formal corporate giving program. Pending the
 
 **Q: Does GitLab donate its product to nonprofits?**
 
-A: GitLab does not currently have a formal in-kind donation program. Pending the results of the 2022 materiality assessment, the first iteration of a non-profit in-kind donation program is planned for 2023. Learn about [other ways](/handbook/marketing/community-relations/community-programs/education-program/) that GitLab contributes its product to the community. 
+A: GitLab does not currently have a formal in-kind donation program. Pending the results of the 2022 materiality assessment, the first iteration of a non-profit in-kind donation program is planned for 2023. Learn about [other ways](/handbook/marketing/developer-relations/community-programs/education-program/) that GitLab contributes its product to the community. 
 
 
 
