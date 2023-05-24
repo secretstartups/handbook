@@ -181,6 +181,14 @@ Tableau Workbooks must satisfy all of the below requirements in order to be publ
 1. The workbook uses a Certified Virtual Connection or a Certified Published Data Source.
 1. Performance tuning has been performed and the workbook refreshes within 5 minutes max.
 
+<details markdown=1>
+
+<summary><b>Tableau Style Guide</b></summary>
+
+For more guidance on design best practices and resources, please refer to our [Tableau Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau-style-guide/) handbook page.
+
+</details>
+
 ### Tableau Trusted Data Certification
 
 Tableau Workbooks that meet all requirements for [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) and meet all requirements for BI Development Excellence (Link coming soon...) will receive a `Trusted Data` Certification. The certification is applied by placing a `TD` in the workbook title. 
@@ -601,6 +609,56 @@ Note: training videos listed above are provided for free by third parties and th
 
 </details>
 
+<details markdown=1>
+
+<summary><b>Training by Roles</b></summary>
+
+Below is a set of training courses and learning paths that are recommended for the following [roles](https://gitlab.com/gitlab-data/tableau/-/blob/main/README.md) based on their responsibilities and required skill sets:
+
+Site Administrator
+* Minimum: [Introduction to Site Administration](https://elearning.tableau.com/path/site-administrator/introduction-to-site-administration) _(time estimate: 3 hours)_
+* [Site Administrator Learning Path](https://elearning.tableau.com/path/site-administrator) _(time estimate: 20-25 hours)_
+* [Tableau Services & Support](https://elearning.tableau.com/tableau-services-and-support) _(time estimate: 1 hour)_
+
+Project Lead / Maintainer
+* Minimum: [Getting Started with Tableau Cloud](https://elearning.tableau.com/path/community-leader/getting-started-with-tableau-online) _(time estimate: 4 hours)_; 
+* [The Role of the Community Leader](https://elearning.tableau.com/path/community-leader/the-role-of-the-community-leader) _(time estimate: 2 hours)_
+* [Community Leader Learning Path](https://elearning.tableau.com/path/community-leader) _(time estimate: 5-10 hours)_
+* [New Feature Spotlight Course](https://elearning.tableau.com/path/new-feature-spotlight) _(time estimate: 5-10 hours)_
+* [Tableau Intermediate Course](https://elearning.tableau.com/tableau-intermediate) _(time estimate: 20-25 hours)_
+* [Tableau Advanced Course](https://elearning.tableau.com/tableau-advanced) _(time estimate: 10+ hours)_
+
+Creator / Explorer / Analyst
+* Minimum: [Getting Started with Tableau Desktop](https://elearning.tableau.com/path/data-scientist/getting-started-with-tableau-desktop) _(time estimate: 4 hours)_ ; 
+* [Author Learning Path](https://elearning.tableau.com/path/author-learning-path) _(time estimate: 35-40 hours)_
+* [Designer Learning Path](https://elearning.tableau.com/path/designer) _(time estimate: 60-75 hours)_
+* [Analyst Learning Path](https://elearning.tableau.com/path/analyst-learning-path) _(time estimate: 50-60 hours)_
+* [Data Scientist Learning Path](https://elearning.tableau.com/path/data-scientist) _(time estimate: 85-100 hours)_
+* [Developer Learning Path](https://elearning.tableau.com/path/developer)  _(time estimate: 15-20 hours)_
+* [Tableau Fundamentals Course](https://elearning.tableau.com/tableau-fundamentals) _(time estimate: 30-40 hours)_
+* [Prep Builder Course](https://elearning.tableau.com/prep-course) _(time estimate: 14 hours)_
+
+Business Owner / Stakeholder
+* Minimum: [The Role of the Executive Sponsor](https://elearning.tableau.com/path/executive-sponsor/the-role-of-the-executive-sponsor) _(time estimate: 2 hours)_
+* [Executive Sponsor Learning Path](https://elearning.tableau.com/path/executive-sponsor) _(time estimate: 5-10 hours)_
+
+Viewer / End User
+* Minimum: [Getting Started with Tableau Cloud](https://elearning.tableau.com/path/consumer/getting-started-with-tableau-online) _(time estimate: 4 hours)_
+* [Consumer Learning Path](https://elearning.tableau.com/path/consumer) _(time estimate: 15-20 hours)_
+
+</details>
+
+<details markdown=1>
+
+<summary><b>Tableau Certification</b></summary>
+
+Tableau offers several [certifications](https://www.tableau.com/learn/certification) for users to prove out their specialized skills in and knowledge of the tool. The following certifications are recommended for creators / analysts who want to showcase their expertise:
+
+* [Certified Tableau Desktop Specialist](https://www.tableau.com/learn/certification/desktop-specialist): This exam is for those who have foundational skills and understanding of Tableau Desktop and at least three months of applying this understanding in the product. Please also view the [exam guide](https://www.tableau.com/learn/certification/tableau-desktop-specialist-exam-guide) for more details on how to prepare.
+* [Certified Tableau Data Analyst](https://www.tableau.com/learn/certification/certified-data-analyst): This exam is for analysts that can enable stakeholders to make business decisions by understanding the business problem, identifying data to explore for analysis, and delivering actionable insights. Please also view the [exam guide](https://www.tableau.com/learn/certification/tableau-certified-data-analyst-exam-guide) for more details on how to prepare.
+
+</details>
+
 ## Support
 
 In addition to the proactive steps we’ve taken with self-service help resources and education initiatives, we want to provide our user community with the support they need in case these two approaches do not answer their question or resolve the issue. 
@@ -650,8 +708,8 @@ We hold weekly office hours (8:30-8:55AM PST) for Tableau users to be able to re
 1. Post your questions in the `#data-tableau` internal slack channel to see if someone in the company has the answer.
 1. Post your questions in the `#ext-gitlab-tableau` external slack channel if you need someone from Tableau to look at it.
 1. Post your questions in the [Tableau Community](https://community.tableau.com/s/) to see if someone in the wider Tableau user community has the answer.
-1. Open a support case with [Tableau Support](https://www.tableau.com/support) if you're experiencing a technical issue with the Tableau Online platform or Tableau Desktop.
-    - Anyone can open a support case, however if you want expediated response and resolutions times based on [Tableau Premium Support's](https://www.tableau.com/resources/teams-organizations/premium-support) SLAs ask one of the designated support contacts to open the support case for you instead. Currently the listed contacts are:
+1. For additional troubleshooting support you can [submit a support case](https://kb.tableau.com/articles/howto/submitting-a-case-from-the-customer-portal) to Tableau via the [Customer Portal](http://customer.tableausoftware.com/) under [Cases](https://customer-portal.tableau.com/s/my-cases) OR open a support case with [Tableau Support](https://www.tableau.com/support) if you're experiencing a technical issue with the Tableau Online platform or Tableau Desktop.
+    - Anyone can open a support case, however if you want expedited response and resolutions time based on [Tableau Premium Support's](https://www.tableau.com/resources/teams-organizations/premium-support) SLAs, then ask one of the designated support contacts to open the support case for you instead. Currently the listed contacts are:
         - `@ttnguyen28`
         - `@snalamaru`
         - `@pempey`
