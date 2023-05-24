@@ -146,9 +146,23 @@ If the user fails to respond within 7 calendar days, apply the `Account Verifica
 
 If the user account is not blocked or banned, skip this section.
 
-If the user account is blocked or banned:
+If the user is blocked due to a user deleting their own account (see the admin note on the account):
 
-1. Follow the [reinstating a blocked account workflow](reinstating-blocked-accounts.html#blocked-accounts). Generally, this means opening a Trust and Safety issue for evaluation.
+<details>
+  <summary markdown="span">Account Blocked - User initiated account deletion</summary>
+
+  <p>Greetings,</p>
+
+  <p>As an account deletion has been initiated, the account stays in a blocked state for 7 days until it is permanently deleted. New accounts with the same email address or username cannot be created during that time.</p>
+
+  <p>You will need to wait 7 days, starting the day of the deletion request, to create a new account with the same email address or username.</p>
+
+  <p>Regards,</p>
+</details>
+
+For all other blocked or banned reasons:
+
+1. Follow the [reinstating a blocked account workflow](reinstating-blocked-accounts.html#blocked-accounts). Generally, this means opening a Trust and Safety issue for evaluation. 
 2. Reply to the user to let them know.
 
 <details>
