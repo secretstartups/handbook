@@ -18,6 +18,13 @@ The Customer Emergencies rotation is one of the rotations that make up [GitLab S
 
 ## Expectations for Support Engineers in the Customer Emergencies Rotation
 
+When on-call, please ensure to:
+
+1. Be available as soon as your shift starts.
+1. Organize your physical surroundings to allow for customer calls at any time during your shift.
+1. Plan for an additional 15-30 minutes after your shift ends to allow for cross-region handovers
+1. Start your day by checking for emergencies currently in progress from the previous shift. You will be expected to be the DRI for any emergency tickets (or find a replacement DRI) which have not yet been de-escalated/resolved. This ensures that all team members can leave as soon as possible after their shift ends.
+
 ### How to be added to the Customer Emergencies PagerDuty rotation
 
 To be added to the Customer Emergency On Call Rotation, you should have first completed the [Customer Emergency On-Call training module](https://gitlab.com/gitlab-com/support/support-training/-/issues/new) and then after agreement with your manager, you should raise a new [Pager Duty Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues) with the Support-Ops team requesting that you are added to the appropriate Pager Duty rotation. 
