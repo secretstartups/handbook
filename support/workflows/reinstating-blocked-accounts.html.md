@@ -43,7 +43,7 @@ You can see `Account Locked` states in [Kibana](kibana.html) by searching for `j
 A user should attempt all self-serve methods first.
 
 If self-serve methods have been exhausted and a member of a group with a paid subscription still cannot access their account,
-we can consider a manual unlock if necessary. For example, if a user cannot receive external email to receive codes, a manual unlock may be required.
+we can consider a manual unlock if necessary. For example, if a user cannot receive external email to receive codes, a manual unlock may be required. Note that only an admin user can modify a user account on SaaS.
 
 Process:
 
@@ -54,6 +54,21 @@ Process:
 1. [Add an admin note](admin_note.html).
 
 Feature request for group owners to self-serve is in [anti-abuse#339](https://gitlab.com/gitlab-org/modelops/anti-abuse/team-tasks/-/issues/339).
+
+## Change risk assessment (Credit Card verification)
+
+If a user has failed credit card verification or cannot use a credit card, follow the below process to verify the user in order to change their risk level. Please see [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5154#what-impact-will-this-have-on-users) and the [documentation](https://docs.gitlab.com/ee/security/identity_verification.html#stages) for more details. 
+
+**Note**: This process can only be done for free users if it's determined that they are impacted by a GitLab bug, such as [customers#3811](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3811).
+
+Process:
+
+1. Follow the steps above for [manual unlock](#manual-unlock).
+1. While in the admin area for the user, scroll to the **Custom Attributes** section.
+1. Change the field for `arkose_risk_band` from `high` to `medium`.
+1. If necessary, [unlock the account](https://docs.gitlab.com/ee/security/unlock_user.html#unlock-a-user-from-the-admin-area).
+1. [Add an admin note](admin_note.html).
+1. Click `Save` when done.
 
 # Blocked Accounts
 
