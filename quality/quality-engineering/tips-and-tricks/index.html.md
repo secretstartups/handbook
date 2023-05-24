@@ -50,7 +50,7 @@ For example, here is the link to run a manual GitLab QA pipeline [against Stagin
 
 ### Running from a specific GitLab-QA branch against a live environment
 It is often needed to test the impact of changes in the [GitLab-QA codebase](https://gitlab.com/gitlab-org/gitlab-qa) on
-[Nightly](https://gitlab.com/gitlab-org/quality/nightly/-/pipelines), [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines),
+[`gitlab-org/gitlab` nightly schedule pipeline](https://gitlab.com/gitlab-org/gitlab/-/pipeline_schedules), [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines),
 [Pre-Prod](https://ops.gitlab.net/gitlab-org/quality/preprod/-/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/-/pipelines) 
 or [Production](https://ops.gitlab.net/gitlab-org/quality/production/-/pipelines) pipelines.
 This can be achieved by manually triggering a pipeline in any of these projects and setting the `QA_BRANCH` variable to the branch name you are working on in the [GitLab-QA project](https://gitlab.com/gitlab-org/gitlab-qa).
