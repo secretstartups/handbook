@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Women at GitLab Mentorship Program"
+title: "The GitLab Mentorship Program hosted by the Women TMRG"
 description: "Mentorship opportunities for women at GitLab sponspored by a partnership between the Women TMRG, GitLab Learning and Development team, and the GitLab DIB team"
 canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/"
 ---
@@ -11,9 +11,9 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/mentorship-program
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Women at GitLab Mentorship Program 
+# The GitLab Mentorship Program hosted by the Women TMRG
 
-The Women at GitLab Mentorship program is a 5-month career development opportunity for participants to build trust across the organization, enable pathways for internal growth and development, and increase collaboration across teams. The program is hosted in collaboration with the Women's TMRG, GitLab Learning and Development team, and the GitLab DIB team.
+The GitLab Mentorship program hosted by the Women TMRG is a 5-month career development opportunity for participants to build trust across the organization, enable pathways for internal growth and development, and increase collaboration across teams. The program is hosted in collaboration with the Women's TMRG, GitLab Learning and Development team, and the GitLab DIB team.
 
 Questions, comments, and feedback can be posted in the [#women-at-gitlab-mentorship](https://app.slack.com/client/T02592416/C0219QJR1K5) slack channel. 
 
@@ -114,7 +114,7 @@ As a mentee, you benefit from:
 
 ## Mentee requirements
 
-- You're a woman-identifying or non-binary team member at GitLab.
+- You're a woman-identifying, including all women and trans women, or non-binary team member at GitLab.
 - You have been with GitLab for at least 3 months at the time of application 
 - You have availability in your schedule to meet with your mentor on a bi-weekly basis for at least 30 minute meetings for the entire length of the program
 - You plan to make every effort to attend all live trainings included in the program structure
