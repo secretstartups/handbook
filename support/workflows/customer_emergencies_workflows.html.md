@@ -140,9 +140,7 @@ If at any point you would like advice or help finding additional support, [conta
    lower the priority of the ticket and inform the customer kindly that their
    subscription does not include emergency support.
 1. Work with the on-call Support Manager to [determine if the situation qualifies as an emergency](#determine-if-the-situation-qualifies-as-an-emergency)
-   1. Create a Public Comment in the ticket acknowledging receipt of the
-      emergency request and communicating according to the qualification
-      determination.
+   1. Create a Public Comment in the ticket acknowledging receipt of the emergency request and communicating according to the qualification determination. Please note that the responding Support Engineer needs to add a Public Comment to ensure that the ticket SLA is "reset".
    1. Offer a Zoom call to the customer if appropriate to the reported situation. A SaaS emergency related to a public incident published on the status page, for example, would not warrant a call.
    * Example of self-managed emergency ticket which was resolved without a call: https://gitlab.zendesk.com/agent/tickets/148028
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.
