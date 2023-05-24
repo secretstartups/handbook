@@ -54,7 +54,7 @@ All feedback should be recorded in Greenhouse and/or discussed live with the hir
 
 #### Interview Shadowing
 
-Shadowing as a new interviewer at GitLab is an important part of interview training as we continue to grow. Once you have completed the steps in the [Interview Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md)you may organise shadowing by reaching out to the specific Hiring Manager, Recruiter or the Talent Acquisition team. 
+Shadowing as a new interviewer at GitLab is an important part of interview training as we continue to grow. Once you have completed the steps in the [Interview Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md) you may organise shadowing by reaching out to the specific Hiring Manager, Recruiter or the Talent Acquisition team. 
 
 Interview shadowing is only available to full time GitLab team members. Under no circumstances should an outside third party be invited to shadow or interview a candidate. 
 
