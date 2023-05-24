@@ -26,6 +26,7 @@ The product strategy and roadmap for the runner product categories are covered o
 
 - [Runner Core](/direction/verify/runner_core/)
 - [Runner Fleet](/direction/verify/runner_fleet)
+- [Runner SaaS](/direction/verify/runner_saas)
 
 ## UX strategy
 
@@ -40,11 +41,13 @@ In the [OPS section](https://internal-handbook.gitlab.io/handbook/company/perfor
 
 The following people are permanent members of the Verify:Runner group:
 
-<%= shared_team_members(role_regexps: [/Verify:Runner/i]) %>
+<%= direct_team(manager_role: 'Senior Engineering Manager, Verify:Runner') %>
 
 ## Stable Counterparts
 
-To find out who our stable counterparts are, look at the [runner product
+<%= stable_counterparts(role_regexp: /[,&] Verify:Runner/, direct_manager_role: 'Senior Engineering Manager, Verify:Runner') %>
+
+For a more comprehensive list of counterparts, look at the [runner product
 categtory](/handbook/product/categories/#runner-group)
 
 ## Dashboards
@@ -81,10 +84,11 @@ is added to each project with maintainer permission. We also try to align tools 
 
 ## Technologies
 
-We spend a lot of time working in Go which is the language that [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) is written in. Familiarity with Docker and Kubernetes is also useful on our team.
+We spend a lot of time working in Go which is the language that [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) is written in. We also contribute to the main [GitLab app](https://gitlab.com/gitlab-org/gitlab), working in Rails and Vue.js. Familiarity with Docker and Kubernetes is also useful on our team.
 
 ## Common Links
 
+ * [Issue Board](https://gitlab.com/groups/gitlab-org/-/boards/5389813?label_name[]=group%3A%3Arunner&milestone_title=Upcoming)
  * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Arunner)
  * [Slack Channel](https://gitlab.slack.com/archives/g_runner)
 
@@ -94,7 +98,7 @@ We spend a lot of time working in Go which is the language that [GitLab Runner](
 
 We work in monthly iterations. Iteration planning dates for the upcoming milestone are aligned with GitLab's [product development timeline](/handbook/engineering/workflow/#product-development-timeline).
 
-At a minimum, 30 days before the start of a milestone, the runner PM reviews and re-prioritizes as needed the features to be included for developer assignment in the iteration. Note - this is and must be a conversation with the PM, EM and members of the team.
+At a minimum, 30 days before the start of a milestone, the runner PM reviews and re-prioritizes as needed the features to be included in the [iteration planning issue](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Planning%20Issue&first_page_size=20). The planning issue is a tool for asynchoronous collaboration between the PM, EM and members of the team. We use [cross-functional prioritization](/handbook/product/cross-functional-prioritization/#prioritization-for-feature-maintenance-and-bugs) to guide the collaboration process.
 
 The commitments for the iteration plan are directly related to the capacity of the team for the upcoming iteration. Therefore, to finalize the iteration plan (resource allocation) for a milestone, we evaluate and consider the following:
 
@@ -110,14 +114,11 @@ The commitments for the iteration plan are directly related to the capacity of t
 ### Iteration Planning and Issue Refinement Process
 
 1. The PM creates iteration planning issues for at minimum the next three milestones.
-1. The PM adds candidate issues to the planning issues.
+1. The PM adds candidate issues to the planning issues, applying the appropriate priority label for the iteration (e.g. `Runner::P1`)
 1. The PM adds the scoped label `~candidate::x.y` to each issue. For example `~candidate::16.0`
-1. The PM assigns the iteration planning issues to the runner engineering manager (EM).
-1. The EM reviews all candidate tech debt, bugs, security and feature issues and validates if the `~workflow::ready for development` label can be applied or the issue needs further refinement. The priority is the next in queue milestone.
-1. The EM will assign issues needing refinement to individual engineers and add the `~workflow::refinement` label to the issue.
-1. **Issue Refinement**: engineers assigned to refine an issue are responsible for coming up with an implementation plan for the issue - exploring any unknowns, edge cases, or compatibility challenges that may come up and proposing how the issue can be broken down into smaller tasks that can be iterated on quickly. We strive to iterate and break down the efforts to ship as much value in the milestone for our users as possible. If you see a more efficient way forward when you start working on issue refinement, you are free to update the proposal and create a new issue to deliver value more quickly to our users.
-1. At minimum, three business days prior to GitLab's monthly release [kickoff](https://about.gitlab.com/handbook/engineering/workflow/#kickoff) livestream, the PM, EM, Quality and UX leads finalize the iteration plan for the upcoming milestone. All issues that are targeted for delivery in the milestone must have an engineer assigned.
-1. Finally the EM adds the `~deliverable` label to all issues and removes the scoped label `~candidate::x.y` from the issue.
+1. The PM assigns the iteration planning issues to the runner EM, UX, QE and TW counterparts.
+1. The EM reviews all candidate tech debt, bugs, security and feature issues and applies the `deliverable` label to issues based on team capacity. The deliverable label signals a commitment for delivery and is tied directly to our team KPIs. Any issue not receiving the `deliverable` label will be treated as stretch and pulled in as team members have capacity.
+1. At minimum, three business days prior to GitLab's monthly release [kickoff](https://about.gitlab.com/handbook/engineering/workflow/#kickoff) livestream, the PM, EM, Quality and UX leads finalize the iteration plan for the upcoming milestone. 
 
 ### Design and development process
 
