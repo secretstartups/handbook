@@ -14,13 +14,13 @@ description: "This page outlines the swag program at GitLab."
 
 This page outlines everything you need to know about the swag program at GitLab. Whether you're ordering swag for yourself or others, follow the processes below to get started.
 
-Don't see what you need on this page? Reach out to us via the #swag Slack channel and tag [the DRI](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#dris-for-the-swag-program) for your question. 
+Don't see what you need on this page? Reach out to us via the `#swag` Slack channel and tag [the DRI](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#dris-for-the-swag-program) for your question. 
 
 ## Swag shop
 
 Browse the [**GitLab Swag Shop**](https://www.shop.gitlab.com)! 
 
-Free shipping is available to GitLab team members for all items in the swag shop. Visit the #swag Slack channel for the code.
+Free shipping is available to GitLab team members for all items in the swag shop. Visit the `#swag` Slack channel for the code.
      
 **_Don't see an item you're looking for?_** Submit requests for future items you'd like to see in the swag shop in [this issue](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-strategy/-/issues/11).
 
@@ -37,7 +37,7 @@ If you'd like to order swag for customers, your team, events, giveaways, TMRGs, 
 1. Confirm that your team has approved budget for this order. If you're not sure, check with your manager or [finance business partner](/handbook/finance/financial-planning-and-analysis/#our-team).
 1. Create an issue [using this template](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-strategy/-/issues/new?issuable_template=swag-request) to start your order. 
 1. Once the order is approved, the team at Boundless (our swag vendor) will add a credit to your account.
-1. Purchase the swag in the [Swag Shop](https://shop.gitlab.com/) using the account credit, and be sure to use the free shipping code (team members can find the code in the #swag Slack channel description). 
+1. Purchase the swag in the [Swag Shop](https://shop.gitlab.com/) using the account credit, and be sure to use the free shipping code (team members can find the code in the `#swag` Slack channel description). 
 
 Please allow 3 weeks from the time you open this issue to the time the item is delivered. If you need something more urgently, add the `Swag: URGENT` label to the issue, along with a comment explaining the expedited timeline. 
 
@@ -64,7 +64,7 @@ Note: This is only for items currently in the [Swag Shop](https://shop.gitlab.co
 
 ### Sending specialty gifts
 
-If you’d like to offer gift options with specific items that are not on the swag store, a “gift of choice" landing page can be set up. This is a great option for a special group who attended an event or won a prize. Recipients enter their own information and the gift is shipped directly to them. Please note that this can take more lead time than a regular order. 
+If you’d like to offer gift options with specific items that are not on the swag store, a "gift of choice" landing page can be set up. This is a great option for a special group who attended an event or won a prize. Recipients enter their own information and the gift is shipped directly to them. Please note that this can take more lead time than a regular order. 
 
 **How to submit the request:**
 
@@ -78,11 +78,13 @@ If you’d like to offer gift options with specific items that are not on the sw
 There are two main giveaway options for Team Member Resource Groups (TMRGs): A one-time send, or a continuous giveaway and storage plan.
 
 **One-time giveaways:**
+
 - Are cheaper as there are no storage fees.
 - Can support both internal and external giveaways.
 - Must have approved budget.
 
 **Continuous giveaways and long-term storage option:**
+
 - Best for groups wanting to send items to group members as they join the group.
 - Must have approved budget to purchase the inventory of items. Items are invoiced at the time of ordering. 
 - Purchased items will be sent to the inventory warehouse and listed on an internal swag store for on-demand fulfillment. 
@@ -119,4 +121,4 @@ Have feedback or suggestions for items you'd like to see in the swag shop? Pleas
 |    New hire swag    |    Talent Brand team: `@drogozinski`    |
 |   Anniversary swag     |    People Connect team: `@ameeks`    |
 
-If you have other questions, please send a message in the #swag Slack channel. 
+If you have other questions, please send a message in the `#swag` Slack channel. 
