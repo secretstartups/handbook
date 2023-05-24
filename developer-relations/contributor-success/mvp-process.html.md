@@ -52,8 +52,7 @@ Each release post GitLab recognizes a community contributor as the MVP ("Most Va
   - Follow the steps to collaborate the [MVP write-up blurb](#mvp-write-up-blurb)
   - Update the [data/mvps.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/mvps.yml) file from your existing merge request
   - Add release version, MVP name, user handle, release post date and release post URL
-  - Create an MR against this release branch, do not commit directly in to the release branch.
-  - Assign another Contributor Success team member to review/merge
+  - Assign another Contributor Success team member to review/merge and double check the merge request is targeting the correct release branch
   - Ping the [release post manager](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml) into the MR for awareness.
   - Merge by 20th of the month
 1. Announce the MVP winner in the team member Slack channels and community Discord.
