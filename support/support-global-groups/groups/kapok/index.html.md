@@ -28,6 +28,11 @@ Introductory text, logos, or whatever the group wants here
 AMER has a standing weekly crush session - all are welcome to attend.
 The Zoom link is pinned to the Slack channel and is [here also](https://gitlab.zoom.us/j/91565753538?pwd=cFkrTEFyZjNKQnRqODhCeG1pdFdNdz09).
 
+AMER also has a weekly "NRTea Party" crush focused on unassigned NRT tickets or NRT tickets where the asignee is away on PTO.
+or otherwise not able to respond. All are welcome, the meeting is on the support team calendar. 
+  - Bringing tea to the NRTea Party is optional but it does add some fun!
+  - If you plan to be out and have tickets that may need some attention please post in the daily thread requesting they be added to the NRTea crush so we can make a note in the pairing issue.
+
 ### Slack
 
 When questions are asked of Kapok - for example, when asking for assistance with a specific ticket - Kapok engineers will respond with an emoji to show whether we have availability for the specific ticket or not.
@@ -57,7 +62,7 @@ If a handover to a customer's preferred region is requested, either due to a tro
 
 ### PTO
 
-When more than 2 agents in a given region are on PTO, relevant tickets and questions about coverage are usually discussed during our [weekly Kapok Crush](https://gitlab.zoom.us/j/91565753538?pwd=cFkrTEFyZjNKQnRqODhCeG1pdFdNdz09) (Wednesdays at 8:00 PM UTC) or ad-hoc via a [Slack](https://gitlab.slack.com/archives/C03C6JQV3EZ) thread.
+When more than 2 agents in a given region are on PTO, relevant tickets and questions about coverage are usually discussed during our [weekly Kapok Crush](https://gitlab.zoom.us/j/91565753538?pwd=cFkrTEFyZjNKQnRqODhCeG1pdFdNdz09) (Wednesdays), the NRTea Crush (Tuesdays), or ad-hoc via a [Slack](https://gitlab.slack.com/archives/C03C6JQV3EZ) thread.
 
 If you have questions about coverage or whether you should take PTO or not, feel free to start a thread in the [Slack channel](https://gitlab.slack.com/archives/C03C6JQV3EZ).
 
