@@ -9,19 +9,19 @@ description: "This guide will outline all of the offerings from the Demo Archite
 
 - TOC
 {:toc}
-# Demo Arcitech Offerings
+# Demo Architect Offerings
 
 ## Term Definitions
 
 Before we jump into all of the offerings we need to first cover definitions because how GitLab references workshops, labs etc. may not be the same as where you worked before:
 
- - Workshop: this most often refers to a large online (or sometimes in person) event put on by the Field Marketing team. Goal attendance for these events would be around 250 students with a full GitLab staff MCing and helping with questions. Realistically they are more like a webinar with hands on exercises as the instructor does not directly interact with any of the students.
+ - Workshop: this most often refers to a large online (or sometimes in person) event put on by the Field Marketing team. Goal attendance for these events would be around 250 students with a full GitLab staff MCing and helping with questions. Realistically they are more like a webinar with hands-on exercises as the instructor does not directly interact with any of the students.
 
-- Lab: Also called hands on exercise, workshop etc. These are smaller, more personal events that fit into what you would traditionally call a workshop. The goal of these is to sell personalized content to a customer through an interactive hands on activity that we have planned out.
+- Lab: Also called hands-on exercise, workshop etc. These are smaller, more personal events that fit into what you would traditionally call a workshop. The goal of these is to sell personalized content to a customer through an interactive hands-on activity that we have planned out.
 
 - Demos: whenever this doc mentions demos it is talking about ready to go projects/scripts/videos that you can then use in your own calls. If there is no hands-on component that falls into the Demo category.
 
-- Lunch & Learns: Primarily a term used by the CSE/CSM group to describe demo’s they give to a larger crowd. Will typically cover a topic like CICD in a short time frame with no hands on portion. Almost all of the content here can be converted to this format. 
+- Lunch & Learns: Primarily a term used by the CSE/CSM group to describe demos they give to a larger crowd. Will typically cover a topic like CICD in a short time frame with no hands-on portion. Almost all of the content here can be converted to this format. 
 
 - Cohorts: Term for a session put on by the CSE team that is halfway between a lab and a workshop. The content is typically a workshop focusing only on the important stuff, but also is in a setting where the students can ask questions live.
 
@@ -77,22 +77,22 @@ The content in this section is typically updated at least 1 month after each rel
 - X to GitLab Workshop ( GitHub, Bitbucket, etc.)
     - [Slides](https://drive.google.com/drive/folders/1L_kd6QudSWcvAKDM-h6oPvvC6LiNj_ER)
     - [Content](https://gitlab.com/gitlab-learn-labs/sample-projects)
-    - What does it sell/cover: This can be many different topics but typicalls is GitHub or Bitbucket. The goal here is to take people new to GitLab and show them how easy it is to swap platforms and what they are missing.
+    - What does it sell/cover: This can be many different topics but typically is GitHub or Bitbucket. The goal here is to take people new to GitLab and show them how easy it is to swap platforms and what they are missing.
     - Instruqt?: Maybe
 
-## Labs/Hands On Content
+## Labs/hands-on Content
 
-The goal of labs is to provide SA/CSM/CSEs with the ability to put on hands on demos for a customer to land a sale without them having to go through all of the work to set it up.  These have had tremedious success being the key to landing a first order or getting a customer to see the vaule in Ultimate. They are often a great replacement for a trial as well because we can do a hands on exercise into a short trial to ensure they actually test out the functionality we want them to.  Because of this the content often needs to be customised so there is no set template like the workshops or cs demos. Instead we often use those as a starting point for the final result we are trying to show. To request a lab you first need to fill out this [issue](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library/demo-engineering-workshop-issues/-/issues/8) then one of the Demo Architects will set up and intro call with you to go over content and start the process. Below are some examples of past labs we have ran:
+The goal of labs is to provide SA/CSM/CSEs with the ability to put on hands-on demos for a customer to land a sale without them having to go through all of the work to set it up.  These have had tremendous success being the key to landing a first order or getting a customer to see the value in Ultimate. They are often a great replacement for a trial as well because we can do a hands-on exercise into a short trial to ensure they actually test out the functionality we want them to.  Because of this the content often needs to be customised so there is no set template like the workshops or cs demos. Instead we often use those as a starting point for the final result we are trying to show. To request a lab you first need to fill out this [issue](https://gitlab.com/gitlab-com/customer-success/demo-engineering/workshop-library/demo-engineering-workshop-issues/-/issues/8) then one of the Demo Architects will set up and intro call with you to go over content and start the process. Below are some examples of past labs we have ran:
 
-- Interactive Security Lab: The goal of this lab was to give the attendees a real life experience using GitLab to solve security problems. It was a small in person event, so we created an insecure project with many issues that were then assigned to various attendees. There was a short intro to GitLab + Security, followed by 2 hours of hands on group work where the students collaborated to secure the project with their assigned issues. This was then followed by a retro and wrap up which really drove the value home.
+- Interactive Security Lab: The goal of this lab was to give the attendees a real life experience using GitLab to solve security problems. It was a small in person event, so we created an insecure project with many issues that were then assigned to various attendees. There was a short intro to GitLab + Security, followed by 2 hours of hands-on group work where the students collaborated to secure the project with their assigned issues. This was then followed by a retro and wrap up which really drove the value home.
 
-- Customer Lab Series: There was a customer that was partially using GitLab premium but still primarily a BitBucket account. A team of SAs + CSMs came together and gave a series of 20+ labs that walked through how to migrate off of BitBucket and onto GitLab followed by an in depth look at GitLabs Ultimate security features. This led to a huge up sell in both licenses and Ultimate.
+- Customer Lab Series: There was a customer that was partially using GitLab premium but still primarily a BitBucket account. A team of SAs + CSMs came together and gave a series of 20+ labs that walked through how to migrate off of BitBucket and onto GitLab followed by an in depth look at GitLab's Ultimate security features. This led to a huge up sell in both licenses and Ultimate.
 
-- 0 to Hero Labs: This series of Labs has been running in the public sector where an SA will schedule an onsite visit and plan a day of labs. Morning is a PM and GitLab basics session to get everyone familiar with the product, followed by an afternoon session that is either hands on/off and highlights all the best practices with GitLab Security. This has been a fantastic pipe generator specifically when you get people in the room that have never heard of GitLab mixed with existing customers. Because the sessions are so long there is plenty of time for discussion allowing people to discuss the true value of the product in their field.
+- 0 to Hero Labs: This series of Labs has been running in the public sector where an SA will schedule an onsite visit and plan a day of labs. Morning is a PM and GitLab basics session to get everyone familiar with the product, followed by an afternoon session that is either hands-on/off and highlights all the best practices with GitLab Security. This has been a fantastic pipe generator specifically when you get people in the room that have never heard of GitLab mixed with existing customers. Because the sessions are so long there is plenty of time for discussion allowing people to discuss the true value of the product in their field.
 
 # Shared CS Demos
 
-These demos are meant for anyone in the CS org to use when they get asked a question like "Hey can you show us how child pipelines work?" and instead of going out and re inventing the wheel you have a catalgue of ready to go applications that cover the topic. The idea is that anyone can contribute, and it is up to the contributor to keep the content up to date and provide a decent script or recording to help you present the topic. Watch the CS & SA slack channels at the start of the month as well when we will announce the porject of the month.
+These demos are meant for anyone in the CS org to use when they get asked a question like "Hey can you show us how child pipelines work?" and instead of going out and re inventing the wheel you have a catalogue of ready to go applications that cover the topic. The idea is that anyone can contribute, and it is up to the contributor to keep the content up to date and provide a decent script or recording to help you present the topic. Watch the CS & SA slack channels at the start of the month as well when we will announce the project of the month.
 
 ### [AI](https://gitlab.com/gitlab-learn-labs/webinars/ai)
 
@@ -183,7 +183,7 @@ This project creates a GitOps pipeline to perform init, validate, build, and dep
 
 - [Coverage Fuzzing Security Scanner](https://gitlab.com/gitlab-learn-labs/webinars/security/coverage-fuzzing-security-scanner): Lots of fuzzing examples for afl, cpp, go, heartbleed, java, js, python, ruby, rust, swift
 
-- [External Required Scans](https://gitlab.com/gitlab-learn-labs/webinars/security/external-required-scans): This project identifies a single CI/CD YAML file that includes several scanners avaialable for projects within the realm of the compliance framework. The goal is to identify a number of external scanners and scan results, providing a variety of results to the project that can then be acted upon.
+- [External Required Scans](https://gitlab.com/gitlab-learn-labs/webinars/security/external-required-scans): This project identifies a single CI/CD YAML file that includes several scanners available for projects within the realm of the compliance framework. The goal is to identify a number of external scanners and scan results, providing a variety of results to the project that can then be acted upon.
 
 - [External Scans with C++ Compliance](https://gitlab.com/gitlab-learn-labs/webinars/security/external-scans-with-c-compliance): This project provides a working example of C/C++ scanning utilizing a combination of GitLab scanners as well as external scanners. It was forked from the GitLab project providing an example for LibFuzzer scanner. As the LibFuzzer is pretty specific I felt this was a good launch point from where other scanners can be added.
 
@@ -191,7 +191,7 @@ This project creates a GitOps pipeline to perform init, validate, build, and dep
 
 - [Security Dashboard Project](https://gitlab.com/gitlab-learn-labs/webinars/security/security-dashboard-project): Static project that your can use look through the end results of a security scan
 
-- [Security Demo Project](https://gitlab.com/gitlab-learn-labs/webinars/security/workshop-project): Basic security demo that you can use to show how to add security scanenrs then parse the results
+- [Security Demo Project](https://gitlab.com/gitlab-learn-labs/webinars/security/workshop-project): Basic security demo that you can use to show how to add security scanners then parse the results
 
 - [Tanuki Trust](https://gitlab.com/gitlab-learn-labs/webinars/tanuki-enterprises): Large scale project great for not just showing off PM but also security and CICD. Fantastic for any customer that wants to see the full layout of what their group on gitlab.com may be
 
