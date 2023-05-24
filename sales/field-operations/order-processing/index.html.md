@@ -582,29 +582,58 @@ The quoting system will provide visibility into the correct programmatic partner
 
 ### Service Attach Quote Approval
 
-- **Enterprise Service Attach Opportunity Criteria:**
+- **Enterprise Service Attach Opportunity Criteria (All Products):**
+
+IF: 
 
 1. Order Type 2.0 = `1. New - First Order`
 2. Net ARR >=`$20,000`
 3. Stamped Sales Segment = `Large`, `PUBSEC`
 4. Stamped Opp Owner User Region = `AMER`, `EMEA`
 
+THEN:
+
+1. Minimum Professional Services Amount to Attach: $15,000
+
+- **Enterprise Service Attach Opportunity Criteria (Ultimate Only):**
+
+* Note: If the below criteria are met, this requirement will supersede the above "All Products" requirement.
+
+IF:
+
+1. Opportunity Type = New Business or Add-On Business
+2. Net ARR >= $100,000
+3. Stamped Sales Segment = Large
+4. Stamped Opp Owner User Region = AMER
+5. Product Sold = SaaS - Ultimate, Self-Managed - Ultimate, or Dedicated - Ultimate
+
+THEN:
+
+1. Minimum Professional Services Amount to Attach: $20,000
+
 - **Mid-Market Service Attach Opportunity Criteria:**
+
+IF: 
 
 1. Order Type 2.0 = `1. New - First Order`
 2. Net ARR >=`$20,000`
 3. Stamped Sales Segment = `Mid-Market``
 
+THEN: 
+
+1. Minimum Professional Services Amount to Attach: $15,000
+
+
 - **Service Attach Quoting Process:**
 
-If an opportunity meets the criteria listed above, a minimum of $15,000 in Professional Services must be attached to the opportunity. Services can be attached using one of two methods:
+If an opportunity meets the criteria listed above, the Minimum Professional Services Amount must be attached to the opportunity. Services can be attached using one of two methods:
 
-1. Add standard SKU professional services (i.e. Admin Training) totaling or exceeding $15,000 to the quote. Note: Custom services requiring a signed SOW must be quoted separately on a standalone opportunity - see below.
-2. Link a separate, standalone professional services opportunity with services totaling or exceeding $15,000 via the "PS Opportunity" field. 
+1. Add standard SKU professional services (i.e. Admin Training) totaling or exceeding the Minimum Professional Services Amount to the quote. Note: Custom services requiring a signed SOW must be quoted separately on a standalone opportunity - see below.
+2. Link a separate, standalone professional services opportunity with services totaling or exceeding the Minimum Professional Services Amount via the "PS Opportunity" field. 
 
 - **Service Attach Exceptions/Approval Requirements:**
 
-If an opportunity meets the criteria listed above, but does not have a Professional Services value of $15,000, or does not have a linked opportunity with a Professional Services value of $15,000, the quote will require approval to sell the subscription deal without the minimum Service Attach. 
+If an opportunity meets the criteria listed above, but does not meet the Minimum Professional Services Amount, or does not have a linked opportunity that meets the Minimum Professional Services Amount, the quote will require approval to sell the subscription deal without the minimum Service Attach. 
 
 - **Service Attach Quote Approval Process:**
 
