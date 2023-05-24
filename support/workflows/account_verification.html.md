@@ -42,20 +42,44 @@ If a paid user (part of paid group or paid user namespace) is unable to remove 2
 
 For security purposes, support will not process 2FA resets for users who are added to a paid subscription for the express purpose of having 2FA disabled on their account.
 
-### Conditions for 2FA Reset Consideration
+## Workflow
 
-In order for a SaaS user to be a candidate for the [workflow](#workflow), one of the following is true:
+The workflow applies to all cases where account verification is required.
+
+### Keeping the Ticket Simple and Accurate
+
+Because an ownership-verification ticket is a matter of record, the ticket must be simple, accurate, and tightly focused on the access issue. 
+
+1. Do not allow the customer to bring up unrelated topics.
+1. Do not add requested CCs to the ticket. Remove any CCs that get added, except:
+    1. Exception: Owners of the top-level group may be CCed as required.
+
+### Checking user eligibility (2FA requests only)
+
+Before you send the challenges, make sure the user is eligible to receive support for 2FA removal.
+
+#### Conditions for SaaS users
+
+A SaaS user must meet one of the following conditions to be eligible for a 2FA reset.
 
 1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
-1. The user is an [Enterprise User](gitlab-com_overview.html#enterprise-users).
+2. The user is an [Enterprise User](gitlab-com_overview.html#enterprise-users).
     - Note: A top-level group owner or user can submit the ticket. If the user is not a member of the group, an [owner vouch](#authenticating-an-owner-vouch) is required, and the [data classification](https://internal-handbook.gitlab.io/handbook/support/#data-classification) (GitLab internal) is still Red based on the status of the paid namespace.
-1. The user is the primary billing contact on a current invoice for a SaaS purchase.
-1. GitLab team member (account managers, CSMs or others) collaborate with the holder of this account in an account management project.
-1. The user account is required for SSO access to Customers Portal to manage a paid subscription - see: [Conditions for 2FA Reset when account is used to access Customers Portal](#conditions-for-2fa-reset-consideration).
+3. The user is the primary billing contact on a current invoice for a SaaS purchase.
+4. GitLab team member (account managers, CSMs or others) collaborate with the holder of this account in an account management project.
+5. The user account is required for SSO access to Customers Portal to manage a paid subscription - see: [Conditions for 2FA Reset when account is used to access Customers Portal](#conditions-when-account-is-used-to-access-customers-portal).
 
 More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
 
-### Conditions for 2FA Reset when account is used to access Customers Portal
+While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
+
+1. An [Owner vouch](#authenticating-an-owner-vouch) from an owner in the paid namespace is required.
+1. Primary email of the account must match the company domain.
+1. User must still prove account ownership following the [workflow](#workflow).
+   - Include the paid namespace when determining the data classification level.
+1. If the user is classed as an [Enterprise user](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#enterprise-users) the user or an owner of the paid group raises the ticket.
+
+#### Conditions when account is used to access Customers Portal
 
 [Customers Portal](https://customers.gitlab.com) requires all customers to access through a [Linked Gitlab Account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account).
 
@@ -68,19 +92,6 @@ If one of the above conditions is met the user is eligible for our 2FA reset pro
 
 If an invoice can not be provided, suggest [sign in with legacy email/password](https://customers.gitlab.com/customers/sign_in?legacy=true), where an invoice can be downloaded.
 
-
-## Workflow
-
-The workflow applies to all cases where account verification is required.
-
-### Keeping the Ticket Simple and Accurate
-
-Because an ownership-verification ticket is a matter of record, the ticket must be simple, accurate, and tightly focused on the access issue.
-
-1. Do not allow the customer to bring up unrelated topics.
-1. Do not add requested CCs to the ticket. Remove any CCs that get added, except:
-    1. Exception: Owners of the top-level group may be CCed as required.
-
 ### Sending Challenges
 
 If you need a basis for a response where you send the challenges, or in a 2FA ticket, if the user has not answered the challenges, use the `Support::SaaS::2FA::2FA Challenges` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103721068).
@@ -91,8 +102,8 @@ If you need a basis for a response where you send the challenges, or in a 2FA ti
 
 1. To verify the challenge answers, use [chatops](https://about.gitlab.com/handbook/support/workflows/chatops.html), the [Zendesk GitLab User Lookup App](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) or, for those who have admin access, check at `https://gitlab.com/admin/users/USERNAME`.
 1. Use the [ZenDesk GitLab Super App's 2FA Helper](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) to determine the risk factor based on the user's answers. Data classification criteria and any notes are in the [Internal Handbook - Data Classification table](https://internal-handbook.gitlab.io/handbook/support/#data-classification) (GitLab internal), which is considered the source of truth. If you need to leave a comment manually (instead of through the app), use the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket.
-   - [Specific conditions are required to be considered for 2FA resets](#conditions-for-2fa-reset-consideration).
-   - Challenge answers must be evaluated against a paid namespace if the user is a member of any paid namespace. If the user is not a member of a paid namespace, refer to [Conditions for 2FA Reset Consideration](#conditions-for-2fa-reset-consideration) for further guidance.
+   - [Specific conditions are required to be considered for 2FA resets](#checking-user-eligibility-2fa-requests-only).
+   - Challenge answers must be evaluated against a paid namespace if the user is a member of any paid namespace. If the user is not a member of a paid namespace, refer to [Conditions for 2FA Reset Consideration](#checking-user-eligibility-2fa-requests-only) for further guidance.
    - If a group owner is answering on an [enterprise user's](gitlab-com_overview.html#enterprise-users) behalf, you can accept the owner's answers on the user's behalf. Use the same verification process, and [owner vouch process](#authenticating-an-owner-vouch) (the same owner can be the one vouching). The answers can relate to either the owner's or user's account (pick one, not pieces from both).
 1. **If verification passed:** Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com`.
 1. **If the verification failed**: A peer review is optional, and you may opt to [offer more challenges to the user](#user-fails-to-prove-account-ownership).
@@ -142,48 +153,6 @@ This section is typically done by the peer reviewer. If needed, the peer reviewe
 ## 2FA Removal
 
 2FA removal and other account actions can only be completed if the [workflow](#workflow) above is successful.
-
-## GitLab Team Members
-
-If the user is a GitLab team member, have them contact IT Ops.
-
-## Self Service 2FA Removal
-
-In most cases, users can disable 2FA themselves and regain access to their accounts, using one of the following methods:
-
-1. Use a saved [two-factor recovery code](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#recovery-codes).
-1. [Generate new recovery codes via SSH](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#generate-new-recovery-codes-using-ssh).
-    - If a user has an SSH key tied to their account but receives a `Permission denied (publickey)` error, they may need to manually register their private SSH key using `ssh-agent` if they're using a non-default SSH key pair file path. Direct the user to [our documentation](https://docs.gitlab.com/ee/ssh/#configure-ssh-to-point-to-a-different-directory) for guidance on how to solve this.
-
-> As of August 2020, [free users won't be able restore access to accounts](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/) if self-service methods do not work for them.
-
-## Disable 2FA With Support Intervention
-
-If a user cannot make use of self-serve methods (lost their account recovery codes and has no SSH key registered), proving they own the account can be difficult. Support intervention for 2FA removal after the above steps have been attempted is only possible for users with an *existing paid plan* when the ticket was created.
-
-If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
-
-#### Note
-
-For security purposes, support will not process 2FA resets for users who are added to a paid subscription for the express purpose of having 2FA disabled on their account.
-
-### Conditions for 2FA Reset Consideration
-
-In order for a SaaS user to be a candidate for the [workflow](#workflow), one of the following is true:
-
-1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
-1. The user is the primary billing contact on a current invoice for a SaaS purchase.
-1. GitLab team member (account managers, CSMs or others) collaborate with the holder of this account in an account management project.
-
-More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
-
-While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
-
-1. An [Owner vouch](#authenticating-an-owner-vouch) from an owner in the paid namespace is required.
-1. Primary email of the account must match the company domain.
-1. User must still prove account ownership following the [workflow](#workflow).
-   - Include the paid namespace when determining the data classification level.
-1. If the user is classed as an [Enterprise user](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#enterprise-users) the user or an owner of the paid group raises the ticket.
 
 ## Large Customers
 
