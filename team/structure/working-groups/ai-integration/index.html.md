@@ -184,5 +184,3 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Natalia Radina | Frontend Engineer | Source Code | 
 | Allison Browne | Senior Backend Engineer | Verify:Pipeline Execution |
 | Andrei Zubov | Senior Frontend Engineer | Deploy:Environments |
-
->>>>>>> sites/uncategorized/source/company/team/structure/working-groups/ai-integration/index.html.md
