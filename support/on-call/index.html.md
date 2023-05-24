@@ -84,10 +84,20 @@ There are several ways to view current and future schedules:
 1. In Google Calendar, [subscribe to your on-call schedule](https://support.pagerduty.com/docs/schedules-in-apps#section-export-only-your-on-call-shifts)
 1. In the `#spt-gg-forest` slack channel, you can see who is on-call for the different schedules today
 
-#### Requesting changes to PagerDuty rotations or schedules
+#### Changes to PagerDuty rotations or schedules
 
-All changes to PagerDuty schedules or rotations (including adding or removing team members) must be initiated through an Issue in the [Support Ops PagerDuty Project](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/). Requesters should [create a new Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues/new) using the appropriate Issue Template.
+Changes to PagerDuty schedules will happen once a quarter with additions and removals handled via the [Support PagerDuty Worksheet](https://docs.google.com/spreadsheets/d/1FdUzVXCZleopfteC2QxW7LJwyylGWGl9hwXHMPkRHbQ/edit?usp=sharing). Permissions on the  Worksheet will be limited to Support Management and the Support Operations team.
 
+The Support Operations team will unlock the Support PagerDuty Worksheet at the start of the second month of the quarter. At this time, they will notify the Support Managers and ask them to review and submit changes as necessary. During the final month of the quarter, the Support Operations team will once again lock the Worksheet and implement the changes to go live at the beginning of the next quarter.
+
+When requesting changes to the Shadow schedules, please [create a new Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues/new?_gl=1*os6d81*_ga*MjA5ODYxOTMxMi4xNjU1MjIyMDgw*_ga_ENFH3X7M5Y*MTY4NDUxMzAyOS41MzIuMS4xNjg0NTE2MTg0LjAuMC4w) using the appropriate Issue Template.
+
+##### Additions
+When adding someone to the schedule the manager will need to manually add the email address of the user they want added to the rotation.
+
+##### Removals
+
+When removing a user from a schedule the manager will need to delete the email address of the user they are removing, leaving the cell blank.
 
 #### Your first on-call shift
 
