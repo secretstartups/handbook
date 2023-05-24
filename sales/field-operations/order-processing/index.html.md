@@ -582,7 +582,7 @@ The quoting system will provide visibility into the correct programmatic partner
 
 ### Service Attach Quote Approval
 
-- **Enterprise Service Attach Opportunity Criteria (All Products):**
+#### Enterprise Service Attach Opportunity Criteria (All Products):
 
 IF: 
 
@@ -595,9 +595,9 @@ THEN:
 
 1. Minimum Professional Services Amount to Attach: $15,000
 
-- **Enterprise Service Attach Opportunity Criteria (Ultimate Only):**
+#### Enterprise Service Attach Opportunity Criteria (Ultimate Only):
 
-* Note: If the below criteria are met, this requirement will supersede the above "All Products" requirement.
+Note: If the below criteria are met, this requirement will supersede the above "All Products" requirement.
 
 IF:
 
@@ -611,7 +611,7 @@ THEN:
 
 1. Minimum Professional Services Amount to Attach: $20,000
 
-- **Mid-Market Service Attach Opportunity Criteria:**
+#### Mid-Market Service Attach Opportunity Criteria:
 
 IF: 
 
@@ -623,19 +623,18 @@ THEN:
 
 1. Minimum Professional Services Amount to Attach: $15,000
 
-
-- **Service Attach Quoting Process:**
+#### Service Attach Quoting Process:
 
 If an opportunity meets the criteria listed above, the Minimum Professional Services Amount must be attached to the opportunity. Services can be attached using one of two methods:
 
 1. Add standard SKU professional services (i.e. Admin Training) totaling or exceeding the Minimum Professional Services Amount to the quote. Note: Custom services requiring a signed SOW must be quoted separately on a standalone opportunity - see below.
 2. Link a separate, standalone professional services opportunity with services totaling or exceeding the Minimum Professional Services Amount via the "PS Opportunity" field. 
 
-- **Service Attach Exceptions/Approval Requirements:**
+#### Service Attach Exceptions/Approval Requirements:
 
 If an opportunity meets the criteria listed above, but does not meet the Minimum Professional Services Amount, or does not have a linked opportunity that meets the Minimum Professional Services Amount, the quote will require approval to sell the subscription deal without the minimum Service Attach. 
 
-- **Service Attach Quote Approval Process:**
+#### Service Attach Quote Approval Process:
 
 1. Populate the "ProServ Exception Approval Notes" field on the quote with the following information: 
   - What use cases are they adopting?
