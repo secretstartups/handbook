@@ -44,39 +44,48 @@ By ensuring that good ESG practices are embedded into the organization, this wil
  - GitLab completed its first [double materiality assessment](https://about.gitlab.com/handbook/legal/ESG/#esg-materiality-matrix) in January 2023. The assessment considered the perspectives of all of GitLab’s stakeholders including team members, senior leadership, customers, community members, board members, investors. The assessment involved speaking with GitLab’s stakeholders to understand the key topics they believe have the biggest impact on the success of the business and where GitLab has the biggest impact on the environment, society and people. We also considered ESG regulation, our peers, competitors and nonprofit organizations.The materiality assessment was the first step in developing the company’s first ESG strategy.
 
 ### GitLab's 6 Key Topcs
- - Environment
-   - Greenhouse gas emissions 
-        - Measurement and reduction of scope 1, 2 and 3 emissions
-        - Greenhouse gas reduction targets, goals and commitments
+
+- Environment
+  - Greenhouse gas emissions 
+    - Measurement and reduction of scope 1, 2 and 3 emissions
+    - Greenhouse gas reduction targets, goals and commitments
 - Social
-   - Diversity, Inclusion and Belonging (DIB)
-        - Diverse hiring and recruitment of underrepresented groups
-        - Culture of DIB (events, TMRGs, courses, etc.)
-        - Pay and promotion equity and inclusive benefits
-        - Board, leadership and workforce diversity KPIs
-        - Product accessibility
-   - Talent Management and Engagement
-        - Talent attraction and recruitment
-        - Team member learning and development
-        - Leadership programs
-        - Succession planning
-        - Talent retention
-        - Workplace culture and remote work
-        - Comp and benefits
+  - Diversity, Inclusion and Belonging (DIB)
+    - Diverse hiring and recruitment of underrepresented groups
+    - Culture of DIB (events, TMRGs, courses, etc.)
+    - Pay and promotion equity and inclusive benefits
+    - Board, leadership and workforce diversity KPIs
+    - Product accessibility
+  - Talent Management and Engagement
+    - Talent attraction and recruitment
+    - Team member learning and development
+    - Leadership programs
+    - Succession planning
+    - Talent retention
+    - Workplace culture and remote work
+    - Comp and benefits
 - Governance
-   - Cybersecurity and Data privacy 
-        - Data, system and network breaches
-        - Monitoring of emerging threats
-        - Information security training
-        - Customer data use transparency
-        - Data processing and storage
-        - PII
-   - Responsible Product Development
-        - Open source
-        - Ethical AI
-        - Human rights issues from product use
-        - Environmental impact considerations for product
-        - Data processing and storage
+  - Cybersecurity and Data privacy 
+    - Data, system and network breaches
+    - Monitoring of emerging threats
+    - Information security training
+    - Customer data use transparency
+    - Data processing and storage
+    - PII
+  - Responsible Product Development
+    - Open source
+    - Ethical AI
+    - Human rights issues from product use
+    - Environmental impact considerations for product
+    - Data processing and storage
+  - Business Ethics
+    - Up to date code of conduct, anti-corruption, anti-bribery policies
+    -  Regulatory compliance
+    - Legal proceedings and monetary losses
+    - Internal compliance
+    - Oversight and ethics training
+    - Human rights policies, risk assessments and due diligence
+
         
 ## Developing an ESG Strategy
 - In collaboration with teams across the company, the ESG team uses the results of the materiality assessment to develop an ESG strategy. The goal of the strategy is to identify 1) areas where we are already aligned with best practice, 2) areas of improvement, 3) meaningful metrics for tracking performance, and 4) issues where we can demonstrate our commitment to improving our ESG performance in the short and long term by setting quantifiable and time bound goals. 
