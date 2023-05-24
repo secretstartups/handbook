@@ -46,11 +46,11 @@ which can be found
       <td>
         <ul style='list-style: none; padding-left: 0px;'>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
             <a href='https://gitlab.zendesk.com' target='_blank'>Zendesk Global</a>
           </li>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
             <a href='https://gitlab-federal-support.zendesk.com' target='_blank'>Zendesk US Federal</a>
           </li>
         </ul>
@@ -60,8 +60,8 @@ which can be found
       <td>
         <ul style='list-style: none; padding-left: 0px;'>
           <li>
-          <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
-          <a href='https://customers.gitlab.com/' target='_blank'>Customers Portal</a>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <a href='https://customers.gitlab.com/' target='_blank'>Customers Portal</a>
           </li>
         </ul>
       </td>
@@ -79,7 +79,7 @@ which can be found
             <a href='https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zd-sfdc-sync-global' target='_blank'>ZD<>SFDC sync global</a>
           </li>
           <li>
-           <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
             <a href='https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/zd-sfdc-sync-us-federal' target='_blank'>ZD<>SFDC sync us-federal</a>
           </li>
           <li>
@@ -244,6 +244,10 @@ which can be found
             <i class="fas fa-square fa-fw" style="color:rgb(204,204,0);"></i>
             <a href='https://gitlab.com/gitlab-com/support/toolbox/1-1-issue-generator' target='_blank'>1-1 issue generator</a>
           </li>
+          <li>
+            <i class="fas fa-circle fa-fw" style="color:rgb(0,255,0);"></i>
+            <a href='https://gitlab.com/gitlab-com/support/toolbox/gitlabrb_sanitizer' target='_blank'>gitlab.rb sanitizer</a>
+          </li>
         </ul>
       </td>
       <td>
@@ -251,11 +255,6 @@ which can be found
           <li>
             <i class="fas fa-circle fa-fw" style="color:rgb(0,255,0);"></i>
             <a href='https://gitlab.com/gitlab-com/support/toolbox/fast-stats' target='_blank'>fast-stats</a>
-          </li>
-          <li>
-            <i class="fas fa-circle fa-fw" style="color:rgb(0,255,0);"></i>
-            <i class="fas fa-exclamation-circle fa-fw" style="color:rgb(128,128,128);"></i>
-            <a href='https://gitlab.com/gitlab-com/support/toolbox/gitlabrb_sanitizer' target='_blank'>gitlab.rb sanitizer</a>
           </li>
         </ul>
       </td>
