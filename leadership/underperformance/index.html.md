@@ -74,7 +74,7 @@ Team members who have the skills necessary to succeed in their current role but 
 - Unprofessional behavior, actions or communication towards fellow team members 
 - Undesirable behavior that impedes the success of another Team member, Team or GitLab as a whole
 
-If a manager or any team member witnesses or is made aware of any team member behavior that violates our [Code of Conduct](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) they should immediately reach out to Team Member Relations at teammemberrelations@gitlab.com.
+If a manager or any team member witnesses or is made aware of any team member behavior that violates our [Code of Conduct](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) they should immediately reach out to Team Member Relations at `teammemberrelations@gitlab.com`.
 
 
 ### Team Member: Discuss Circumstances Immediately With Your Manager
@@ -94,7 +94,6 @@ The important thing to remember as a manager is to immediately address signs of 
 ### Immediately Discuss With The Manager's Manager
 
 Taking early action to address underperformance is an essential manager skill and one of the most important ways to improve results. As a people leader, it is best practice to inform your manager as a priority when you've identified possible underperformance and [always tell us the bad news promptly](/company/team/structure/#management-group). When a manager informs their leader, they can work together to ensure that underperformance is identified and that appropriate and agreed action is taken to address it.
-
 
 ## Frequency and Metrics
 
@@ -119,7 +118,6 @@ Remediation options will vary based on the identified  underperformance being  s
 - [Coaching](/handbook/leadership/underperformance/#coaching) 
 - [Written Performance Letter](https://about.gitlab.com/handbook/leadership/underperformance/#written-performance-letter) or [Performance Improvement Plan (PIP)](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
 - [Letting Someone Go](/handbook/leadership/underperformance/#letting-someone-go)
-
 
 ## Coaching
 
@@ -165,7 +163,6 @@ At GitLab we think that giving someone a plan while you intend to let them go is
 
 A PIP at GitLab is not used to "check the box;" a PIP is a genuine opportunity to help clarify underperformance and areas of focus.
 You should only offer a PIP if you are confident that the team member can successfully complete it. The team member should also be committed to successfully completing their Performance Improvement Plan for the duration. It is imperative that the higher standard of performance achieved  during the PIP process is sustained by the Team Member once the plan timeframe has completed. A PIP will not be successful unless both the team member and the manager believes the team member can succeed.
-
 
 #### SMART Goals
 
