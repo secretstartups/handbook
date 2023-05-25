@@ -70,7 +70,7 @@ The Education Program Manager is a [grade 6](https://about.gitlab.com/handbook/t
 
 ### Senior Education Program Manager
 
-The Senior Education Program Manager reports to the Director, Education or Director of Community relations if there is not a Director, Education.
+The Senior Education Program Manager reports to the Director, Education or Director of Developer relations if there is not a Director, Education.
 
 #### Senior Education Program Manager Job Grade
 
@@ -124,7 +124,7 @@ In addition to meeting all the requirements of the Manager, Education Program:
 
 ### Director, Education
 
-The Director, (Head of Education) reports to the Director of Community Relations.
+The Director, (Head of Education) reports to the Director of Developer Relations.
 
 #### Director, Education (Head of Education) Job Grade
 
@@ -172,7 +172,7 @@ Candidates for positions within the GitLab for Education team can expect the hir
 
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 - Candidates may then be offered a 30 minute interview with one of our Senior Community Programs Managers.
-- Next, candidates will be invited to schedule an interview with our Director of Community Relations.
+- Next, candidates will be invited to schedule an interview with our Director of Developer Relations.
 - Candidates will then be invited to schedule interviews with key team members from relevant company departments that the role will work with closely.
 - Finally, our Chief Marketing Office or Sr. Marketing Director(s) may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via video, phone, or email.

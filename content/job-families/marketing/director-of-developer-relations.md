@@ -1,18 +1,18 @@
 ---
-title: "Director of Community Relations"
+title: "Director of Developer Relations"
 ---
 
-## Director, Community Relations
+## Director, Developer Relations
 
 At other companies the role would likely be called director of Developer Relations (DevRel).
-Since developers are also our users we call it Community Relations.
+Since developers are also our users we call it Developer Relations.
 And instead of giving talks and writing blogs ourselves our team focusses on enabling our community members.
 
-As the Director, Community Relations, you will be responsible for managing and building a team and stellar strategy focused on supporting evangelists, committers, students, and open source projects.
+As the Director, Developer Relations, you will be responsible for managing and building a team and stellar strategy focused on supporting evangelists, committers, students, and open source projects.
 
 ### Job Grade
 
-The Director, Community Relations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Developer Relations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 
 ### Responsibilities
@@ -50,4 +50,4 @@ The Director, Community Relations is a [grade 10](https://about.gitlab.com/handb
 
 ## Career Ladder
 
-The next step in the Director of Community Relations job family is not yet defined at GitLab.
+The next step in the Director of Developer Relations job family is not yet defined at GitLab.

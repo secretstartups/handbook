@@ -4,7 +4,7 @@ title: "Community Advocate"
 
 ## Role
 
-As a GitLab Community Advocate, you will be a member of the Community Advocacy team within Community Relations, with a goal of responding to questions about GitLab asked online. You will help to create processes and documentation around the way the team interacts with the community, as well as help make it easier to provide feedback about GitLab. Most importantly, you will play an active role in connecting experts within the GitLab team to our wider community. With this, you will be contributing to ensure that the GitLab team continues to remain engaged with our community, to provide the best answers we can give, and to actively listen and act on their feedback as the company scales.
+As a GitLab Community Advocate, you will be a member of the Community Advocacy team within Developer Relations, with a goal of responding to questions about GitLab asked online. You will help to create processes and documentation around the way the team interacts with the community, as well as help make it easier to provide feedback about GitLab. Most importantly, you will play an active role in connecting experts within the GitLab team to our wider community. With this, you will be contributing to ensure that the GitLab team continues to remain engaged with our community, to provide the best answers we can give, and to actively listen and act on their feedback as the company scales.
 
 ### Job Grade
 
@@ -106,7 +106,7 @@ In addition to meeting the requirements of a Manager, Community Advocate, the Se
 
 ### Career Ladder
 
-The next step in a Senior Manager, Community Advocate's career at GitLab would be [Director, Community Relations](https://about.gitlab.com/job-families/marketing/director-of-community-relations/).
+The next step in a Senior Manager, Community Advocate's career at GitLab would be [Director, Developer Relations](https://about.gitlab.com/job-families/marketing/director-of-developer-relations/).
 
 ## Performance Indicators
 
@@ -120,8 +120,8 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - A 45 minute interview with one of our Senior Community Advocates
-- A 45 minute interview with one of the Program Managers in the Community Relations team
-- A 45 minute interview with our Director of Community Relations
+- A 45 minute interview with one of the Program Managers in the Developer Relations team
+- A 45 minute interview with our Director of Developer Relations
 - A 45 minute interview with our Chief Marketing Officer
 - Successful candidates will subsequently be made an offer via email
 
@@ -129,5 +129,5 @@ Additional details about our process can be found on our [hiring page](https://a
 
 ## Relevant links
 
-- [Community Relations Handbook](https://about.gitlab.com/handbook/marketing/community-relations)
-- [Community Advocacy Handbook](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy)
+- [Developer Relations Handbook](https://about.gitlab.com/handbook/marketing/developer-relations)
+- [Community Advocacy Handbook](https://about.gitlab.com/handbook/marketing/developer-relations/community-advocacy)

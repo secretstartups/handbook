@@ -2,7 +2,7 @@
 title: "Senior Director, Corporate Marketing"
 ---
 
-As the Senior Director, Corporate Marketing, you will lead the team responsible for building the GitLab brand and sharing the GitLab story globally. This role will successfully promote the company through a strong PR and communications program, All-Remote content and messaging, social media, unique corporate events for users, prospects and employees, and through Community Relations. The qualified candidate will be a driven and engaged senior leader with a successful track record of building and leading, brand, global programs and PR globally. Reporting to the CMO, the Senior Director, Corporate Marketing must have experience across public relations, brand development, creative, digital marketing, social media, and thought leadership campaigns.
+As the Senior Director, Corporate Marketing, you will lead the team responsible for building the GitLab brand and sharing the GitLab story globally. This role will successfully promote the company through a strong PR and communications program, All-Remote content and messaging, social media, unique corporate events for users, prospects and employees, and through Developer Relations. The qualified candidate will be a driven and engaged senior leader with a successful track record of building and leading, brand, global programs and PR globally. Reporting to the CMO, the Senior Director, Corporate Marketing must have experience across public relations, brand development, creative, digital marketing, social media, and thought leadership campaigns.
 
 ### Job Grade
 
@@ -12,7 +12,7 @@ The Senior Director, Corporate Marketing is a [grade 11](https://about.gitlab.co
 
 - Work closely with the Marketing leadership team to contribute to the definition of the strategic objectives for marketing and build strong working relationships to deliver as a team.
 - Define and execute corporate marketing and brand strategy, resulting in consistent branding, messaging and positioning.
-- Create and execute a community relations plan that attracts new contributors and engages the community.
+- Create and execute a developer relations plan that attracts new contributors and engages the community.
 - Oversee global event strategy and execution for conferences and industry events, and support internal events.
 - Manage corporate communications including executive communications, messaging development, and PR.
 - Lead our All-Remote brand building efforts.

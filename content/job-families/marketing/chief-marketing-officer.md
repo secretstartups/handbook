@@ -10,7 +10,7 @@ The CMO will report to the CEO and will play a vital leadership role in ensuring
 
 The Marketing department consists of the following teams:
 
-- Community Relations
+- Developer Relations
   - Community Advocacy
   - Community Programs
 - Corporate Marketing
