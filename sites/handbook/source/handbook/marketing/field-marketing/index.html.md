@@ -91,29 +91,8 @@ Field Marketing works closely with our Marketing Program Managers to functionall
 Being the marketing experts for the region, GitLab Field Marketers are also responsible for using other tactics to help generate leads to build pipeline. We have options such as survey tools, both of current employees and past employees based on the 3rd party vendor we use, webcasts, direct mailings, and also various digital tactics.
 
 ### ReachDesk
-Go to the [Reachdesk page](/handbook/marketing/marketing-operations/reachdesk) for instructions on campaign set up. (WIP)
+Go to the [Reachdesk page](/handbook/marketing/marketing-operations/reachdesk) for instructions on campaign set up and best practices.
 
-### LinkedIn events Feature - FMM team access
-
-#### About
-The Field marketing team can use the GitLab Brand LinkedIn channel to create events. The LinkedIn Events feature provides members with an easy way to create and join professional Events that interest them, such as meetups, online workshops, seminars, and more.
-
-#### Successful usage
-##### [Field Marketing LinkedIn admin for events quick training video](https://www.youtube.com/watch?v=VxVxdjeRkps)
-- The Field Marketing LinkedIn events admin can create, edit and maintain the events listings on the GitLab LinkedIn page. Please message the field marketing team in the `#fieldmarketing` Slack channel to request the admin to create an event.
-
-###### Field Marketing admins who will respond to your request:
-* Kira Aubrey - AMER
-* Helena Dixon - EMEA
-- Information to be included on event pages: Title of event, date, time, region,registration link and About or description.
-- Field marketing are not authorized to write posts, edit the page or its contents, or to respond to users via the corporate LinkedIn account.
-- LinkedIn events should only be used for events and not for campaigns.
-
-Find out more on the social media page[here](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#field-marketing-team-access-to-linkedin-events-feature)
-
-### Best Practices
-- The LinkedIn Event CTA button ATTEND is not synced to the registration link on our marketo registration page. The admin should include additional instructions in the About section of the LinkedIn event, for example: Please use the registration link to enter your details to register for this event.
-- Add the LinkedIn events links into the SDR Request issue. A suggestion would be for the SDR team to check the LinkedIn events attendee list one week before each event to see who has clicked "ATTEND" on LinkedIn and compare the list with our registration list in SFDC. Then reach out to those who didn't register with a personalised LinkedIn inmail to invite them to register.
 
 ## Digital Tactics
 
