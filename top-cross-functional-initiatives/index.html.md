@@ -72,12 +72,6 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Description: Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1)
    1. Quarter Started/Starting: FY23-Q1
-1. Project Matterhorn
-   1. DRI / Sponsor: @justinfarris / @david
-   1. Description: [Limited access](/handbook/communication/confidentiality-levels/#limited-access) 
-   1. [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7)
-   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7)
-   1. Quarter Started/Starting: FY23-Q1
 1. AWS/GCP Partnerships
    1. DRI / Sponsor: @nbadiey / @mmcb
    1. Description: Expand GitLab's access to AWS/GCP LAM via cloud-first sales plays, new products, and lower friction buying.
@@ -138,8 +132,15 @@ This is a a list of top cross-functional initiatives that have been retired.
    1. Description: Finalize research for introducing consumption-based and user-based add-ons. Update our Fulfillment and product capabilities to support these new types of add-ons. Update GTM motions and messaging to support these new add-ons. *Retired as it was folded into the the Fulfillment Efficiency initiative*
    1. Links: TBD
    1. Quarter Started/Starting: FY23-Q4 - FY24-Q1
+1. Project Matterhorn
+   1. DRI / Sponsor: @justinfarris / @david
+   1. Description: [Limited access](/handbook/communication/confidentiality-levels/#limited-access) 
+   1. [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7)
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/7)
+   1. Quarter Started/Starting: FY23-Q1/FY24-Q2
 1. Shift LAM to Primary Metric
    1. DRI / Sponsor: @aileenlu / @mmcb
    1. Description: Shift LAM to our primary metric for top of funnel and decision-maker. *This is still important, but it will be managed as a GTM, not as a cross-functional initiative**
    1. Links: TBD
    1. Quarter Started/Starting: FY23-Q3 - FY24-Q1
+
