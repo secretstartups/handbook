@@ -100,7 +100,6 @@ The DevOps tools below are commonly found in a build-your-own DevOps tool chain.
 - [SharePoint](https://products.office.com/en-us/sharepoint/collaboration)
 
 ### Continuous Integration
-- [Jenkins](/devops-tools/jenkins-vs-gitlab/)
 - [Travis CI](https://travis-ci.org/)
 - Atlassian Bamboo
 - [Atlassian Bitbucket](/competition/bitbucket/)
@@ -134,7 +133,6 @@ The DevOps tools below are commonly found in a build-your-own DevOps tool chain.
 - [Sonatype Nexus](https://www.sonatype.com/nexus-repository-sonatype)
 
 ### Continuous Delivery/Deployment
-- [Jenkins](/devops-tools/jenkins-vs-gitlab/)
 - [Spinnaker](https://www.spinnaker.io/)
     - [Armory](https://www.armory.io/)
 - [Go CD](https://www.gocd.org/index.html)
