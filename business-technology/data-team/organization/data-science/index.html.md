@@ -16,7 +16,7 @@ description: "GitLab Data Science Team Handbook"
 **PURPOSE: This page is focused on the operations of GitLab's internal _Data Science Team_. For information about GitLab's Product Data Science Capabilities, please visit [GitLab ModelOps](https://about.gitlab.com/direction/modelops/)**
 {: .alert .alert-success}
 
-`Last Updated At: 2023-04-28`
+`Last Updated At: 2023-05-18`
 
 # The Internal Data Science Team at GitLab
 
@@ -106,7 +106,7 @@ graph BT;
 
 | Work Stream | Internally Known As | Maturity | Objective | Last Update | Next Update |
 | ----- | -----| -----| ----- | ----- | ----- |
-| Revenue Expansion | [Propensity to Expand](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-expand) (PtE)  | Optimized | Determine which paid accounts are likely to increase in ARR via seat expansion or up-tier to Ultimate | FY23-Q4 | Next update: FY24-Q2 |
+| Revenue Expansion | [Propensity to Expand](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-expand) (PtE)  | Optimized | Determine which paid accounts are likely to increase in ARR via seat expansion or up-tier to Ultimate | FY23-Q4 | FY24-Q2 |
 | Loss Prevention | [Propensity to Contract](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-contract-and-churn) (PtC) | Optimized  | Determine which paid accounts are likely to decrease in ARR via seat expansion or down-tier to Premium  | FY24-Q1 | FY24-Q2 |
 | Conversion  | [Propensity to Purchase](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-purchase) (PtP)  | Viable  | Identify which non-paid users (free and trials accounts) are likely to become paid accounts  | FY24-Q1 | FY24-Q2 | 
 | Product Research  | [Namespace Segmentation](https://gitlab.com/gitlab-data/data-science-projects/namespace-segmentation)  | Optimized | Define groups for paid and free SaaS namespaces based on its product usage  |  FY23-Q3 | TBD |
@@ -154,7 +154,7 @@ Maturity of data science projects is similar to the [GitLab product maturity mod
 
 - Organizational Sponsor: Customer Success
 - Use Cases: [Issue](https://gitlab.com/gitlab-data/analytics/-/issues/14907)
-- Plans for next iteration: Churn forecasting (in progress), added data sources
+- Plans for next iteration: Churn forecasting (in progress), PtC refresh (Q3)
 - Slack Channel (internal only): [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7)
 - Repositories (internal only): 
    - [Propensity to Contract](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-contract-and-churn)
