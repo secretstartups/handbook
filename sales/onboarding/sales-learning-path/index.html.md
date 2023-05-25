@@ -192,9 +192,6 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **GitLab vs. GitHub (Material - Video - 3 Minutes)**
    - No... we are not the same company! This short YouTube video on [GitLab vs. GitHub](https://www.youtube.com/watch?v=s8DCpG1PeaU) covers some basic differences.
    - Check out the [GitLab vs. GitHub](https://about.gitlab.com/competition/github/)
-*  **Cloudbees + Jenkins (Material - Video and Battlecard - 35 minutes)**
-   - Watch the [YouTube Video](https://www.youtube.com/watch?v=a95DQqRTOHw&feature=youtu.be)
-   - Check out the [GitLab vs. Jenkins](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab/)
 *  **Azure DevOps**
    - Check out the [GitLab vs. Azure DevOps](https://about.gitlab.com/competition/azure/)
 *  **ACTIVITY: Phone-A-Friend: Competitors (Assignment - 45 Minutes - 10 Points - Pre Work)**

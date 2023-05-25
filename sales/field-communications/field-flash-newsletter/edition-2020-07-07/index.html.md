@@ -19,7 +19,6 @@ In this month's [Field Flash](/handbook/sales/field-communications/field-flash-n
 There are multiple **new Competitive Intelligence resources** available to aid you in customer conversations. For the latest-and-greatest, make sure you've checked out:
 1. GitLab's new [Compete Page](https://about.gitlab.com/compete) - This will take the place of Crayon as your SSOT for competitive sales resources. For more information, watch the latest [Competitive Intelligence Sales Enablement Webinar](https://youtu.be/S_z_hgf3ASc).
    - Heads up - GitLab will continue to maintain the [DevOps Tool Landscape](https://about.gitlab.com/competition/) page.
-1. [GitLab vs. BitBucket Comparison Guide](https://about.gitlab.com/devops-tools/bitbucket-vs-gitlab.html) - This page was created by an independent third party group, giving it increased credibility in customer conversations. It is aligned to the Use Case go-to-market and features an improved user experience and more engaging content.
 1. [Hear Sid's POV on GitHub](https://www.youtube.com/watch?v=ZpJany2-mts&feature=youtu.be) - Listen as Sid highlights key differentiators between GitLab and GitHub and how well-positioned we are in the DevOps market.
 
 Questions? Feedback for the team on content you'd like to see? Slack #competition.
@@ -49,7 +48,7 @@ The Field team is piloting Focus Fridays through the Summer. Consider adopting F
 ### Did You Know? 🔢
 Effective immediately, we will follow **a revised SPIFF payout for GitLab-delivered and partner-delivered services**. Highlights include larger deal size support, more opportunities for SPIFF, and added availability for CSMs for growth service opportunities over $25k. Plus, we have lowered the minimum engagement amounts for our Partner Services incentive to drive greater partner interest in delivering services around GitLab deployments.
 
-For the full details, please see the [updated compensation deck](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g88c7cba71f_10_1) and [updated Channel Partner Handbook page](/handbook/resellers/#definitions-and-qualifications). 
+For the full details, please see the [updated compensation deck](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g88c7cba71f_10_1) and [updated Channel Partner Handbook page](/handbook/resellers/#definitions-and-qualifications).
 
 ----
 The PS team has put together a great **resource to help you position the value proposition of Professional Services to customers and prospects**. In it, you'll find:
@@ -67,7 +66,7 @@ The Deal Desk team used your **feedback from the recent Quote to Cash survey** t
 [Check out this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1205) for a full breakdown of the survey results and steps Deal Desk is taking to action your feedback.
 
 ----
-**Registration for our GitLab Virtual Commit is now live!** This is a 1-day immersive user conference that will run a full 24-hours on 2020-08-26. Please invite your customers, prospects, and LinkedIn connections to attend for free by signing up at this link: https://bit.ly/386sPUk. 
+**Registration for our GitLab Virtual Commit is now live!** This is a 1-day immersive user conference that will run a full 24-hours on 2020-08-26. Please invite your customers, prospects, and LinkedIn connections to attend for free by signing up at this link: https://bit.ly/386sPUk.
 
 ----
 The Customer Reference Team is actively managing our presence on Peer Review sites such as [Gartner Peer Insights](https://www.gartner.com/reviews/market/application-release-orchestration-solutions/vendor/gitlab) and [G2](https://www.g2.com/products/gitlab/reviews). These sites also give us active Customer Quote Assets that can serve as **helpful resources for *you* to help demonstrate the value of GitLab to your customers and prospects**. For more information:
@@ -77,9 +76,9 @@ The Customer Reference Team is actively managing our presence on Peer Review sit
 
 ### What's New in GitLab 🚀
 The GitLab [13.1 release](https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/) is live! Here are the takeaways for customers and prospects:
-- **Reduce Security and Compliance Risk:** Enhanced and extended security and compliance features including a policy management UI for network container policies, group-level vulnerability exports for audits or internal reviews, and helpful UX improvements to the Security Dashboard make it easier for customers to achieve a fully secure, compliant SDLC. 
+- **Reduce Security and Compliance Risk:** Enhanced and extended security and compliance features including a policy management UI for network container policies, group-level vulnerability exports for audits or internal reviews, and helpful UX improvements to the Security Dashboard make it easier for customers to achieve a fully secure, compliant SDLC.
 - **Increase Operational Efficiencies:** GitLab’s Alert Management aggregates and ranks IT alerts from all of customers’ services to simplify assessment and remediation, helping them increase productivity and research and address critical issues right away.
-- **Deliver Better Products Faster:** Organizations can boost the speed and accuracy of their code reviews and address errors in recently-modified code immediately with new features to improve code quality that include code coverage tracking over time and native code intelligence. 
+- **Deliver Better Products Faster:** Organizations can boost the speed and accuracy of their code reviews and address errors in recently-modified code immediately with new features to improve code quality that include code coverage tracking over time and native code intelligence.
 
 [Visit the 13.1 Release Post for more details](https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/)
 
@@ -115,12 +114,12 @@ Please refer to the specific linked issue for each event for details as they unf
 We have launched **two additional use case integrated campaigns for GitOps and Version Control & Collaboration (VC&C)**. For a list of all of our active integrated campaigns by region, see [here](/handbook/marketing/campaigns/#active-integrated-campaigns).
 
 ### Enablement Corner 🧠
-[Watch this video](https://www.youtube.com/watch?v=G7pRWDKts_Q&index=3&t=0s) from the Secure team that provides more information about our [acquisitions](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html) of Peach Tech and Fuzzit and a brief roadmap for how we will integrate these technologies into GitLab. Want to learn more? Check out these [Fuzz Testing Intro slides](https://docs.google.com/presentation/d/1e_Y9xUEu6OpWb2JjokmMx2lQ8bR_p0zTEZaB0yZbZ5o/edit#slide=id.g889053dfda_0_0) and this [SDR Enablement Video](https://www.youtube.com/watch?v=YPZR1GrgVYE). 
+[Watch this video](https://www.youtube.com/watch?v=G7pRWDKts_Q&index=3&t=0s) from the Secure team that provides more information about our [acquisitions](https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html) of Peach Tech and Fuzzit and a brief roadmap for how we will integrate these technologies into GitLab. Want to learn more? Check out these [Fuzz Testing Intro slides](https://docs.google.com/presentation/d/1e_Y9xUEu6OpWb2JjokmMx2lQ8bR_p0zTEZaB0yZbZ5o/edit#slide=id.g889053dfda_0_0) and this [SDR Enablement Video](https://www.youtube.com/watch?v=YPZR1GrgVYE).
 
-Level Up your technical acumen with the new [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/) page created by the SA and Product Marketing teams. This page gives you answers to some of the most common technical questions from customers so you can answer without the help of an SA. 
+Level Up your technical acumen with the new [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/) page created by the SA and Product Marketing teams. This page gives you answers to some of the most common technical questions from customers so you can answer without the help of an SA.
 
 ### Team Member Spotlight 🔦
-Martin Brümmer was nominated for going above and beyond by giving freely of his time and energy to the rest of the field organization. Learn more about how Martin has fully embraced GitLab's value of "Bias for Action" to build multiple tools to help the Sales and CS teams in their day-to-day work. Also, Martin shares more about the food he can't live without – East German Mustard! 
+Martin Brümmer was nominated for going above and beyond by giving freely of his time and energy to the rest of the field organization. Learn more about how Martin has fully embraced GitLab's value of "Bias for Action" to build multiple tools to help the Sales and CS teams in their day-to-day work. Also, Martin shares more about the food he can't live without – East German Mustard!
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/JFXhhxcsHrA" frameborder="0" allowfullscreen="true"> </iframe>

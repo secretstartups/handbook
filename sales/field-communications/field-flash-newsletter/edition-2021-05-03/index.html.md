@@ -13,22 +13,22 @@ description: "May 2021 edition of the Field Flash Newsletter sent to the GitLab 
 *This email newsletter was originally sent to the GitLab Field Team and stakeholders on 2021-05-03.*
 
 ## NEW ⚡️ GitLab Field Flash: May 2021 Edition ⚡️
-In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll learn more about the first GitLab Sales Play, GitLab’s leadership position in Gartner’s latest Magic Quadrant for Enterprise Agile Tools, how GitLab compares to Jenkins when solving common decision maker problems, new resources for working with alliance partners and more. Plus, dive into Peter Davies’ Land deal of the month, and learn more about Alyssa Belardi in her team member spotlight. 
+In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll learn more about the first GitLab Sales Play, GitLab’s leadership position in Gartner’s latest Magic Quadrant for Enterprise Agile Tools, how GitLab compares to Jenkins when solving common decision maker problems, new resources for working with alliance partners and more. Plus, dive into Peter Davies’ Land deal of the month, and learn more about Alyssa Belardi in her team member spotlight.
 
-### Introducing: The First GitLab Sales Play! 
-The first Sales Play – [Upselling Premium to Ultimate](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/) – is now available for all sales segments! Review the details below and start leveraging Sales Plays in your selling motions today. 
-1. **What is a Sales Play?** A [Sales Play](/handbook/marketing/plan-fy22/#sales-plays) is a prescriptive set of actionable steps to guide reps through one of our key GTM motions: CI/CD, DevOps Platform, and GitOps. Sometimes it is also tied to a Marketing campaign. 
-1. **What is included in a Sales Play?** In this Sales Play, you’ll find: 
-   1. Detailed Background Information: Ideal customer profile, target buyer personas, common pain points, discovery questions, elevator pitch, value positioning, objection handling and more. 
+### Introducing: The First GitLab Sales Play!
+The first Sales Play – [Upselling Premium to Ultimate](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/) – is now available for all sales segments! Review the details below and start leveraging Sales Plays in your selling motions today.
+1. **What is a Sales Play?** A [Sales Play](/handbook/marketing/plan-fy22/#sales-plays) is a prescriptive set of actionable steps to guide reps through one of our key GTM motions: CI/CD, DevOps Platform, and GitOps. Sometimes it is also tied to a Marketing campaign.
+1. **What is included in a Sales Play?** In this Sales Play, you’ll find:
+   1. Detailed Background Information: Ideal customer profile, target buyer personas, common pain points, discovery questions, elevator pitch, value positioning, objection handling and more.
    1. Sales Play Tactics: Detailed, step-by-step actions for ENT, MM and SMB reps to put the play into practice to generate leads.
-1. **Where does it live?** You can find this and future Sales Plays in the [GitLab Handbook](/handbook/marketing/sales-plays-cicd/). 
+1. **Where does it live?** You can find this and future Sales Plays in the [GitLab Handbook](/handbook/marketing/sales-plays-cicd/).
 1. **Who is it for?** This Sales Play is for ALL Sales segments (ENT, MM, SMB) for team members who call on existing GitLab Premium customers.
-1. **Where can I learn more?** Check out these resources: 
+1. **Where can I learn more?** Check out these resources:
    1. [Sales Enablement LevelUp Webcast recording](https://www.youtube.com/watch?v=UY-J-SHcCC8)
    1. [Mural outlining overall campaign & Sales Play flow](https://app.mural.co/t/gitlab2474/m/gitlab2474/1617835914654/71e792568b93c3b56ff6f23054391c3a8d1ee82a) for SMB vs. MM/ENT
    1. [Practitioner track](https://learn.gitlab.com/c/security-tests-ci?x=6e4ppk[) and [manager track](https://learn.gitlab.com/c/compliance-made-easy?x=h7zzhf) assets in PathFactory
 
-Keep an eye out for additional Sales Plays coming in Q2! Please reach out in #sales with questions.  
+Keep an eye out for additional Sales Plays coming in Q2! Please reach out in #sales with questions.
 
 ### Deal of the Month 🏅
 Peter Davies and John Feeny discuss how they closed a 300-seat Premium Land deal with a government entity on a tight timeline by demonstrating a clear understanding of the customer's digital transformation goals as well as the specific needs and requirements of Public Sector timelines and paper processes.
@@ -40,14 +40,9 @@ Peter Davies and John Feeny discuss how they closed a 300-seat Premium Land deal
 ### New and Noteworthy Resources 📓
 GitLab has been named a leader in Gartner’s 2021 Enterprise Agile Tools Magic Quadrant for the first time! [Use this link](https://learn.gitlab.com/2021-mq-eapt) to share the report with customers, and [access the press release here](https://about.gitlab.com/press/releases/2021-04-27-gitlab-positioned-leader-gartner-magic-quadrant-enterprise-agile-planning-tools.html). [Check it Out -->](https://learn.gitlab.com/2021-mq-eapt)
 
-Competitive Intelligence has created two new pages comparing how GitLab vs. Jenkins address common Business (BDM) and Technical Decision Makers (TDM) problems. They have also created a GitHub Pricing Update deck in response to the company removing GitHub One from its pricing page, following GitLab’s lead and simplifying their pricing to 3 options. [See the DevOps Tools Page -->](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab/)
-1. [GitLab vs. Jenkins for BDM](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab/business-decision-makers/#gitlab-vs-jenkins-solutions-to-common-bdm-problems)
-1. [GitLab vs. Jenkins for TDM](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab/technical-decision-makers/)
-1. [GitHub Pricing Update deck](https://docs.google.com/presentation/d/1xhlidgSZk9s71G-2uDSxBeV6TP5-mpuR6b5qnAIMiE0/edit#slide=id.g8011342750_0_816)
-
 GitLab is launching Incident Management to help Premium & Ultimate customers reduce downtime and respond to IT incidents directly in our single application. Check out this brief video overview (slides), and join the Sales Enablement Level Up Webinar session on 2021-06-03 and/or the CS Skills Exchange session on 2021-05-05 to learn more. [Watch Now -->](https://drive.google.com/file/d/1ZN2z83IOrPHlnO8-FWZB-53Y8sM6hIjt/view)
 
-Learn how HackerOne achieves 5x faster deployments with GitLab’s integrated security in this latest case study that focuses on CI, Security, reducing toolchain, and agile. You can also use this [HackerOne case study slide](https://docs.google.com/presentation/d/1YuP5_7LOnTMDcvl9UKPqim7lxaush4SUXDtTQ0uA4Sg/edit#slide=id.gd01b9d0d58_0_13) in your customer decks as an easily-digestible reference resource. [Learn More -->](https://about.gitlab.com/customers/hackerone/) 
+Learn how HackerOne achieves 5x faster deployments with GitLab’s integrated security in this latest case study that focuses on CI, Security, reducing toolchain, and agile. You can also use this [HackerOne case study slide](https://docs.google.com/presentation/d/1YuP5_7LOnTMDcvl9UKPqim7lxaush4SUXDtTQ0uA4Sg/edit#slide=id.gd01b9d0d58_0_13) in your customer decks as an easily-digestible reference resource. [Learn More -->](https://about.gitlab.com/customers/hackerone/)
 
 The Channel team has made important Channel Partner Program updates to further align with GitLab’s FY22 key investment areas. Watch the latest group conversation ([slides](https://docs.google.com/presentation/d/14hZHeZw7qYN0ietqJcNmUhkb7XmyS8X6DwIh0OiSRuo/edit#slide=id.gca51f3a810_0_0)) about the Program changes and learn how to best position your co-selling motions to increase Net New customer logos and accelerate existing customer growth. [Watch Now -->](https://www.youtube.com/watch?v=6Ngt3Pit9S4)
 
@@ -61,7 +56,7 @@ You can now find all key components and critical information about GitLab Allian
 - Demo: [DORA-related features in GitLab 13.10](https://youtu.be/kJp6FEwDB74)
 
 ### Did You Know? 🔢
-**Sales Ops has updated the bookings policy for Subscription Start Dates** to ensure proper revenue recognition while adding efficiency to the Sales cycle. See the details for New Business, Add-Ons and Renewals on the [Sales Order Processing Handbook page](/handbook/sales/field-operations/order-processing/#subscription-start-date) and reach out in #sales-support for any questions on the changes. 
+**Sales Ops has updated the bookings policy for Subscription Start Dates** to ensure proper revenue recognition while adding efficiency to the Sales cycle. See the details for New Business, Add-Ons and Renewals on the [Sales Order Processing Handbook page](/handbook/sales/field-operations/order-processing/#subscription-start-date) and reach out in #sales-support for any questions on the changes.
 
 ----
 The ABM team has made multiple process iterations to help you work more efficiently, transparently and collaboratively. Reach out in #abmteam with questions.
@@ -100,13 +95,13 @@ To see what's ahead in 13.12, watch the [kickoff video](https://www.youtube.com/
 - APAC: [ITnews Webinar: Harnessing Developers to Accelerate DevSecOps; Shifting Security Left](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2574) - May 20
 - EMEA: [Jenkins Migration Workshop EMEA](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2002) - May 27
 
-For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/virtual-events/#calendar). 
+For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/virtual-events/#calendar).
 
 **Channel Webinars**
 - [GitLab Partner Webcast (APAC)](https://www.brighttalk.com/webcast/18613/483881?utm_source=GitLabInc&utm_medium=brighttalk&utm_campaign=483881) - May 5
 - [GitLab Partner Webcast (AMER & EMEA)](https://www.brighttalk.com/webcast/18613/483879?utm_source=GitLabInc&utm_medium=brighttalk&utm_campaign=483879) - May 6
 
-Want the latest on Partner webinars? Subscribe to our [GitLab Partner Channel](https://www.brighttalk.com/channel/18613/). 
+Want the latest on Partner webinars? Subscribe to our [GitLab Partner Channel](https://www.brighttalk.com/channel/18613/).
 
 ### Enablement Corner 🧠
 From [avoiding common discovery pitfalls](https://youtu.be/04kviW1GkW4) to [co-selling with IBM](https://youtu.be/E546ohLj-cQ) to [deal registration and working with partners](https://youtu.be/8XyM4Z-0XLg), the 9 LevelUp Webcast sessions in Q1 helped us start off the fiscal year strong by honing many of the skills needed to reach our Peak Performance in FY22. See all recordings on the [Sales Enablement Sessions handbook page](/handbook/sales/training/sales-enablement-sessions/#past-sessions) and join us for more sessions each Thursday at 9 am PT this quarter.
@@ -119,23 +114,23 @@ From [avoiding common discovery pitfalls](https://youtu.be/04kviW1GkW4) to [co-s
 
 **Where did you grow up, and where are you based now?**
 
-I grew up in a split household between San Francisco and Tiburon, California. I love the SF Bay Area and have been fortunate enough to stay here for my entire life (except for a short stint living in the Australian bush… slack me to hear that crazy story) and now reside in Orinda, CA. 
+I grew up in a split household between San Francisco and Tiburon, California. I love the SF Bay Area and have been fortunate enough to stay here for my entire life (except for a short stint living in the Australian bush… slack me to hear that crazy story) and now reside in Orinda, CA.
 
 **What is your favorite thing about your job?**
 
-Collaborating with various teams to achieve desired results. The most important part of my job is triangulating resources to tell an impactful story, prove the product, provide for and inspire our customers. Without the support of the broader GitLab team, I would most certainly not be able to do my job effectively. 
+Collaborating with various teams to achieve desired results. The most important part of my job is triangulating resources to tell an impactful story, prove the product, provide for and inspire our customers. Without the support of the broader GitLab team, I would most certainly not be able to do my job effectively.
 
 **Which of GitLab's Values resonates most with you?**
 
-Results because I firmly believe one can’t achieve Results without Collaboration, Iteration, Diversity/Inclusion, Efficiency and Transparency. This GitLab value holds me accountable every day. 
+Results because I firmly believe one can’t achieve Results without Collaboration, Iteration, Diversity/Inclusion, Efficiency and Transparency. This GitLab value holds me accountable every day.
 
 **Do you have a helpful tip for working at GitLab to share?**
 
-Don’t be shy in Slack channels. Using the channels yields incredible responses from multiple sources – I’ve learned so much from some of the conversations started with what I thought was a simple question. 
+Don’t be shy in Slack channels. Using the channels yields incredible responses from multiple sources – I’ve learned so much from some of the conversations started with what I thought was a simple question.
 
 **What is a hobby or skill you have that the team might not know about?**
 
-I collect vintage and unique glass items. Vases are my favorite - especially from Sklo Union, Rosenthal Studio and Louise Roe Copenhagen. I adore arranging flowers in special vases around the house, it’s my simple pleasure to make living itself an art. 
+I collect vintage and unique glass items. Vases are my favorite - especially from Sklo Union, Rosenthal Studio and Louise Roe Copenhagen. I adore arranging flowers in special vases around the house, it’s my simple pleasure to make living itself an art.
 
 **Icebreaker: What was your favorite item of clothing as a kid?**
 
