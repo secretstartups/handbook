@@ -147,7 +147,7 @@ Okta Device Trust ensures that team members are acccessing Okta applications fro
 
 ### Device Trust Setup on macOS
 
-1. Open the Okta Verify application on macOS by selecting the magnifying glass in the menu bar (top right corner of display)
+1. Open the Okta Verify application on macOS via Spotlight by selecting the magnifying glass in the menu bar (top right corner of display). Another method to open Spotlight is to use `cmd + Space`
 ![Spotlight Search](/handbook/business-technology/okta/images/spotlight.png)
 
 1. Search for `Okta Verify`
