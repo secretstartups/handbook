@@ -52,7 +52,7 @@ We strive to be as transparent as possible, but these sections are only availabl
 - [Prelude](/handbook/hiring/prelude)
 - [Overview of Job Families](/handbook/hiring/job-families)
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
-- [Talent Acquisition Privacy Policy](/handbook/hiring/recruitment-privacy-policy/)
+- [Talent Acquisition Privacy Policy](/handbook/hiring/candidate/faq/recruitment-privacy-policy/)
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
 - [Referral Operations](/handbook/hiring/referral-operations/)
 - [Referral Process](/handbook/hiring/referral-process/)
