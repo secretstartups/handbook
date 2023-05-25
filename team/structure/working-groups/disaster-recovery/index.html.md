@@ -65,6 +65,7 @@ Planned:
 | Member                   | Joshua Lambert                   | Director of Product Management, Enablement                      |
 | Member                                   | Steve Azzopardi                  | Staff SRE, Infrastructure.                                      |
 | Member                                   | Fabian Zimmer                    | Director of Product Management, SaaS Platforms                  |
+| Member                                   | Nick Westbury                    | Senior Software Engineer in Test, Geo                           |
 
 ## Related Links
 
