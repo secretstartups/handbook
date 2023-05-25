@@ -37,21 +37,21 @@ There are two ways that team members can submit a request for monetary support.
 
 2. Request utilizing department or TMRG  budget to support a Registered Nonprofit Organization
 
-If you are requesting funding from the ESG team to support a Registered Nonprofit Organization, please note that at this time, we are not accepting applications. If you would like to submit a Nonprofit Organization to be considered for support in the future, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the **Monetary_Support Template**.  You will be notified if there is a future opportunity. 
+If you are requesting funding from the ESG team to support a Registered Nonprofit Organization, please note that at this time, we are not accepting applications. If you would like to submit a Nonprofit Organization to be considered for support in the future, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the [Monetary_Support Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=monetary_support).  You will be notified if there is a future opportunity. 
 
-If you have a department or TMRG  budget that you would like to utilize to support a Registered Nonprofit Organization, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the **Monetary_Support Template**. Please tag your manager to approve the request if you are submitting on behalf of your department. If you are submitting a request on behalf of a TMRG or DIB, please add Sherida McMullan as a reviewer. 
+If you have a department or TMRG  budget that you would like to utilize to support a Registered Nonprofit Organization, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the [Monetary_Support Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=monetary_support). Please tag your manager to approve the request if you are submitting on behalf of your department. If you are submitting a request on behalf of a TMRG or DIB, please add Sherida McMullan as a reviewer. 
 
 Please allow a minimum of 10 working days for review. 
 
 #### Team Member Volunteerism
-Through the GitLab Volunteer Program, GitLab team members are able to organize volunteer activities in their local community or virtually. If you would like to submit a request to organize a volunteer activity with a Registered Nonprofit Organization, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the **Volunteer_Support Template**.
+Through the GitLab Volunteer Program, GitLab team members are able to organize volunteer activities in their local community or virtually. If you would like to submit a request to organize a volunteer activity with a Registered Nonprofit Organization, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the [Volunteer_Support Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=volunteer_support).
 
 #### In Kind Support & Matching Gifts Program
 Currently, GitLab does not offer an in-kind product donation program for nonprofits. Please keep an eye on this page for updates. In addition, at this time, GitLab does not offer a matching gifts program. 
 
 ### Membership Requests (non-monetary)
 For requests related to GitLab Membership of Association, Program or Organization, and includes terms, conditions and/or obligations on GitLab that must be executed, please follow the below process.  
-Open an [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new) and use the **Membership Request Issue Template**. Complete and attach the necessary information. Note: If you are submitting a request on behalf of a TMRG or DIB, please add Sherida McMullan as a reviewer  
+Open an [issue using the Membership Request Issue Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=membership-request). Complete and attach the necessary information. Note: If you are submitting a request on behalf of a TMRG or DIB, please add Sherida McMullan as a reviewer  
 
 NOTE: For any request(s) that require payment, please be certain to follow applicable ESG & Procurement processes.
 
