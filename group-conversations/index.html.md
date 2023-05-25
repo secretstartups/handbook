@@ -394,8 +394,8 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday July 20 | **Available** | DRI | Key Review Date | 
 | Tuesday July 25 |  **Available** | DRI | Key Review Date |
 | Wednesday July 26 | **Available** | DRI | Key Review Date |
-| Thursday July 27 | IT | Nabitha Rao | July 19 |
-| Tuesday August 1 | **Available** | DRI | Key Review Date |
+| Thursday July 27 | **Available** | DRI | Key Review Date |
+| Tuesday August 1 | IT | Nabitha Rao | July 19 |
 | Wednesday August 2 | **Available** | DRI | Key Review Date |
 | Thursday August 3 | Development | Christopher Lefelhocz | July 26 |
 | Tuesday August 8 | **Available** | DRI | Key Review Date |
