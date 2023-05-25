@@ -92,12 +92,6 @@ As point 36 on our [communication handbook page](/handbook/communication/#writin
 | VSA |  [Value Stream Assessment](/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments) |
 | L28D |  Short form for "Last 28 days". |
 
-**Engineering Related Acronyms**
-
-| Acronym| Word/Saying/Title | 
-|:---------------|:---------------|
-| MWPS | Merge When Pipeline Succeeds | 
-
 **People Group Related Acronyms**
 
 | Acronym| Word/Saying/Title | 
