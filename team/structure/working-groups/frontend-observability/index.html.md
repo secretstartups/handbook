@@ -71,3 +71,4 @@ Ideally the functional lead is someone who is an IC that might be affected by th
 | Member | Sheldon Led | Fulfillment | Senior Frontend Engineer |
 | Member | Adeline Yeung | Infrastructure | Site Reliability Engineer |
 | Member | Rahul Chanila | Package | Senior Frontend Engineer |
+| Member | Savas Vedova | Govern | Senior Frontend Engineer |
