@@ -20,13 +20,9 @@ Information about SIRT responsibilities and incident ownership is available in t
 
 ## Incident Severity
 
-Before engaging the SEOC, please review the following severity levels to ensure that the incident has been assigned the appropriate level of response.
+Before engaging the SEOC, please review [our severity and priority levels](/handbook/security/security-operations/sirt/severity-matrix) to ensure that the incident has been assigned the appropriate level of response.
 
-| Severity<br><br>SLA | Description | Examples | Action |
-| ------------ | ----------- | -------- | ------ |
-| High<br><br>15 min | Critical issues that may affect the confidentiality, integrity, or availability of GitLab services or data | 1. GitLab.com is down for all customers<br><br>2. Confidentiality or Privacy is breached<br><br>3. Unauthorized access<br><br>4. Data loss<br><br>5. Leaked credentials | See [Engage the SEOC](#engage-the-security-engineer-on-call) |
-| Medium<br><br>4 hours | Issues that have limited impact on GitLab services or data | 1. Some staff members or customers are affected<br><br>2. Limited damage<br><br>3. No public safety-related threat | See [Engage the SEOC](#engage-the-security-engineer-on-call) |
-| Low<br><br>24 hours or next business day | Issues that have minimal to no impact on GitLab services or data | 1. Third party vendor vulnerability<br><br>2. Phishing<br><br>3. Customer inquiries<br><br>4. Troubleshooting device security<br><br>5. Security training questions | For phishing related issues, see [Phishing](#phishing)<br><br>For other non-urgent issues, see [Low Severity Issues](#low-severity-issues) |
+For phishing related issues, see [Phishing](#phishing). For other non-urgent issues, see [Low Severity Issues](#low-severity-issues)/
 
 Note: Additional information on Recovery Time Objective (RTO) and Recovery Point Objective (RPO)is available on the [BPC Handbook page](/handbook/business-technology/gitlab-business-continuity-plan/)
 

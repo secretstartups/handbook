@@ -86,7 +86,7 @@ A **confidential** issue means any data within the issue and any discussions abo
 
 ### Incident Tracking
 
-Security incident investigations must begin by opening a [tracking issue](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/new?issuable_template=Incident_Response) in the [SIRT](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues) project and using the Incident Response template. This tracking issue will be the primary location where all work and resulting data collection will reside throughout the investigation.
+Security incident investigations must begin by opening a new project and associated incident-type issue in the [SIRT](https://gitlab.com/gitlab-sirt/) group. The project should be created using the [Incident Response project template](https://gitlab.com/gitlab-sirt/project-templates/Incident-template). The created issue will be used as tracking issue, and will be the primary location where all work and resulting data collection will reside throughout the investigation. If you would like to report an incident but do not have access to the SIRT group, please refer to the [Engaging the Security Engineer On-Call page](/handbook/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call).
 
 All artifacts from an investigation must be handled per the [Artifact Handling and Sharing](https://gitlab.com/gitlab-com/gl-security/runbooks/-/blob/master/sirt/external_requests/handling_and_sharing_artifacts.md) internal only runbook.
 
@@ -109,23 +109,18 @@ Assigning severity to an incident isn't an exact science and it takes some ratio
     - How many hosts or services?
 - Has this incident resulted in any hosts or services being unavailable?
 
-To help place the correct severity rating on the incident you are about to submit, please refer to the following examples:
+To help place the correct severity rating on the incident you are about to submit, please refer to the [Incident Classification](/handbook/security/security-operations/sirt/severity-matrix.html) page.
 
-| Severity  | Description  | Examples  |Resolution   |   
-|---|---|---|---|
-| High | A Critical Incident with a High Impact | 1. Gitlab.com is down for all customers <br><br>2. Confidentiality or Privacy is breached <br><br> 3. Customer Data is lost <br><br>4. Exposed key |  Activate Pager Duty Immediately |  
-| Low | A minor incident with a very low impact  | Suspicious activity on team-member laptop <br><br>  Third party vendor vulnerability <br><br> [Example_1](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1414)<br><br>[Example_2](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1469) <br><br> [Example_3](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1485) | Resolution will be provided during business hours for Engineer on call |
-
-
-### Internal Engagement & Escalation
+### Internal Engagement & Escalation for High-Severity Incidents
 
 Coordinate with internal teams and prepare for the incident investigation:
 
-- Invite all available parties to the SIRT incident response Zoom conference bridge for easier discussion (see topic in the SIRT Slack channel, or Zoom link in incident issue). The Security Engineer On-Call will begin recording the Zoom conference bridge **to their computer** then upload it to the team drive after concluding the incident bridge.
 - Open an incident-focused Slack channel to centralize non-verbal discussion, particularly if the incident is of a sensitive nature. This should follow the naming convention `#sirt_####` where #### is the GitLab issue number in the SIRT project.
+- Pin a link to the SIRT Zoom conference bridge to the Slack channel's topic and invite all available parties to this call for easier discussion. 
+- If a different high-severity incident is already in progress, create a new Zoom conference call and pin it to the incident Slack channel's topic. Invite all available parties to this call for easier discussion. 
 - If the incident was created by the security pager, a Google Drive folder and shared Google Doc should have been created automatically and linked to the issue. If the incident was created manually:
     - Set up a [shared Google Drive folder or GCS bucket](https://gitlab.com/gitlab-com/gl-security/runbooks/-/blob/master/sirt/external_requests/handling_and_sharing_artifacts.md#storing-and-sharing-files-using-google-cloud-storage) for centralized storage of evidence, data dumps, or other pieces of critical information for the incident.
-    - Create a shared Google Doc from the [Security Incident Response Template](https://docs.google.com/document/d/1mYQxuLXGaBr6xwHV7YgRbDt_k597tk_Dr2NFX4qb79s/template/preview) and move it into the shared Google Drive folder to act as a centralized record of events in real-time. Try to capture significant thoughts, actions, and events as they're unfolding. This will simplify potential hand-off's and eventual Incident Review of the incident.
+    - Try to capture significant thoughts, actions, and events in the incident issue as they're unfolding. This will simplify potential hand-offs and an eventual Incident Review of the incident.
 
 In the event that an incident needs to be escalated within GitLab, the Security Engineer On Call (SEOC) will page the Security Incident Manager On Call (SIMOC). It is the responsibility of the SIMOC to direct response activities, gather technical resources from required teams, coordinate communication efforts with the Communications Manager On Call, and further escalate the incident as necessary.
 
@@ -186,13 +181,9 @@ In the event of a perceived major security incident (which may prove to not be o
 - **Humor is your ally**. No, it really is.
 
 
-### Incident Tracking
-
-Incidents are tracked in the [Operations tracker](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/) through the use of the [incident template](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/blob/master/.gitlab/issue_templates/incident_response.md).
+### Incident Labels
 
 The correct use of dedicated [scoped incident labels](#incident-labels) is critical to the sanity of the data in the incident tracker and the subsequent metrics gathering from it.
-
-#### Incident Labels
 
 Incident delineator `Incident` denotes that an issue should be considered an incident and tracked as such.
 
@@ -203,7 +194,6 @@ Incident delineator `Incident` denotes that an issue should be considered an inc
 | `Incident::Phase::Eradication`     | Cleaning, restoring, removing affected systems, or otherwise remediating findings |
 | `Incident::Phase::Recovery`        | Testing fixes, restoring services, transitioning back to normal operations |
 | `Incident::Phase::Incident Review` | The incident review process has begun (required for all S1/P1 incidents) |
-| `Incident::Phase::Closed`          | Incident is completely resolved |
 
 | **`Incident::Category`**                    | What is the nature of the incident? |
 | ------------------------------------------- | ----------------------------------- |
@@ -217,6 +207,7 @@ Incident delineator `Incident` denotes that an issue should be considered an inc
 | `Incident::Category::NetworkAttack`         | Incident due to malicious network activity - DDoS, credential stuffing |
 | `Incident::Category::NotApplicable`         | Used to denote a false positive incident (such as an accidental page) |
 | `Incident::Category::Phishing`              | Phishing |
+| `Incident::Category::Smishing`              | Smishing |
 | `Incident::Category::UnauthorizedAccess`    | Data or systems were accessed without authorization |
 | `Incident::Category::Vulnerability`         | A vulnerability in GitLab and/or a service used by the organization has lead to a security incident |
 
@@ -256,6 +247,19 @@ Incident delineator `Incident` denotes that an issue should be considered an inc
 | `Incident::Classification::FalsePositive` | False positive |
 | `Incident::Classification::TrueNegative`  | True negative |
 | `Incident::Classification::FalseNegative` | False positive |
+
+### Phishing Labels
+
+We currently track several labels specific to phishing-related incidents:
+
+| **`Phishing::Category`**            | What type of phishing attack? |
+| ----------------------------------------- | ----------------------------- |
+| `Phish_Target::Compromise`  | Denotes the attempt of having the user install an unwanted application. |
+| `Phish_Target::Credentials`  | Denotes phishing attacks that try to collect credentials. |
+| `Phish_Target::Financial`  | Denotes phishing attacks that have a clear financial goal. |
+| `Phish_Target::Invalid`  | Denotes a situation where there is no phishing goal possible. |
+| `Phish_Target::Simulation`  | Denotes phishing emails that are part of an internal phishing simulation campaign. |
+| `Phish_Target::Spam`  | A spam email that has been reported as phishing. |
 
 ## Exceptions
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
