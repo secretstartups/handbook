@@ -58,7 +58,7 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Links: [Operational Data Vision](/handbook/customer-success/product-usage-data/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/1)
    1. Quarter Started/Starting: FY23-Q1
 1. FedRAMP
-   1. DRI / Sponsor: @Julia.Lake / @david
+   1. DRI / Sponsor: @mflouton / @david
    1. Description: Achieve FedRAMP Moderate Certification.
    1. Links: [Working group page](/company/team/structure/working-groups/fedramp-execution/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/3)
    1. Quarter Started/Starting: FY23-Q1
@@ -93,7 +93,7 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880)
    1. Quarter Started/Starting: FY23-Q4 (work currently being done under the User Engagement initiative. When that retires, this one will launch as a separate initiative)
 1. Continue to win against GitHub and ship AI features
-   1. DRI / Sponsor: @dsteer / @david
+   1. DRI / Sponsor: @justinfarris / @david
    1. Description: Make GitLab (the application) smarter by shipping 16 Generally Available (GA) AI/ML-assisted features and workflows across developer, security, and operations personas and launching AI messaging to support GitLab’s "Continue to win against GitHub with AI in all we do” [Yearly](https://about.gitlab.com/company/yearlies/). In addition to releasing features, this also includes overall and related product positioning, R&D priorities, marketing messaging and field readiness. 
    1. Links: to be added
    1. Quarter Started/Starting: FY24-Q1
@@ -143,4 +143,3 @@ This is a a list of top cross-functional initiatives that have been retired.
    1. Description: Shift LAM to our primary metric for top of funnel and decision-maker. *This is still important, but it will be managed as a GTM, not as a cross-functional initiative**
    1. Links: TBD
    1. Quarter Started/Starting: FY23-Q3 - FY24-Q1
-
