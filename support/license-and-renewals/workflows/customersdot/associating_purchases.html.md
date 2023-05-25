@@ -2,10 +2,11 @@
 layout: handbook-page-toc
 title: Associating purchases with additional accounts
 category: CustomersDot
-description: Associating subscription with another account on CustomersDot account and for changing primary contact.
+description: Associating subscription with other CustomersDot users and changing subscription owner.
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -13,26 +14,94 @@ description: Associating subscription with another account on CustomersDot accou
 
 ----
 
-Sometimes a customer may ask that a colleague be given the ability to manage a
-subscription. This can be accomplished provided they also have a CustomersDot
-account.
+Sometimes a subscription owner (`Sold To` contact) may want to associate the subscription with more CustomersDot users, or transfer the subscription ownership.
 
-This process would also apply for requests to send a license to a different email
-than the one used on the purchasing account.
+This process would also apply for requests to send a license to a different email other than the `Sold To` contact.
 
-## Ownership verification
+#### CustomersDot changes can update Zuora Sold To contact
 
-First, we need **one** of the following in order to verify eligibility for the
-ownership change:
+**Important note:** Any time a CustomersDot user is edited via the Admin, the Zuora account contact associated with the customer is updated. In case there is no Zuora contact with the same email, the Zuora account `Sold To` address is replaced.
+
+If the workflow requires editing a CustomersDot user (Customer record) via the Admin, click `Save` on the user with the same email as the original `Sold To` contact **LAST**, to ensure they remain the `Sold To` on their Zuora account. Refer to the workflow [Update Zuora Sold To contact using CustomersDot](#update-zuora-sold-to-contact-using-customersdot).
+
+Creating a new Billing Account Membership for a user will not update the Zuora `Sold To` contact.
+
+## Add subscription management contact
+
+Provide subscription access to additional CustomersDot user by creating billing account membership.
+
+1. Verify the requestor's identity as outlined under [ownership verification](#ownership-verification).
+1. Ensure the requestor has a Customer record in [CustomersDot](https://customers.gitlab.com).
+1. Locate the CustomersDot billing account for the provided Zuora account.
+1. Navigate to the `Billing account memberships` section.
+1. Select the `+ Add new` action.
+1. Select the correct CustomersDot user and CustomersDot billing account for the new subscription management request. The CustomersDot user can be uniquely located by its `Email` and the billing_account by its `zuora_account_id`.
+1. Click `Save`.
+1. Check to [ensure alignment between the CustomersDot user and the Zuora account](#ensure-alignment-between-the-customersdot-user-and-the-zuora-account) for reseller customers.
+
+**Note:** If a CustomersDot user already has a billing account membership, it is not currently possible to create a second billing account membership for them. Confirm with the existing CustomersDot user if they want to stop managing the existing subscriptions before [removing the existing billing account membership](#remove-a-billing-account-membership).
+
+## Change subscription management contact workflow
+
+Use this workflow for requests to change subscription owner, transfer ownership, or regaining access to a subscription that was set up by another person not in the organization anymore.
+
+### Self-service option
+
+Consider using the [Support::L&R::Change Customers Portal Contact](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/Self-Managed/Change%20Customers%20Portal%20Contact.yaml) macro so the requestor can self-service. **Important**: Do not add the existing `Sold To` contact as a CC. The requester would see the email address, which would be considered a leak of Personal Data.
+
+If the requestor is an existing subscription contact, have access to the Customer Portal account or email address of the previous owner, guide them to:
+
+   1. Issue a [password reset](https://customers.gitlab.com/customers/password/new)
+      to the existing owner's email.
+   2. [Claim the account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-account-owner-information) by changing over the personal details.
+   3. [Link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account) to the Customers Portal account or [change the linked account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account) for authentication.
+   4. Once the requestor update the account on the Customers Portal, verify that the `Sold To` contact in the Zuora account matches the Customers Portal account. Follow the [Update Zuora Sold To contact using CustomersDot workflow](#update-zuora-sold-to-contact-using-customersdot) if they do not match.
+
+#### Error "Email has already been taken" reported
+
+If the requestor follow the [self-service option](#self-service-option) and get the error "Email has already been taken", this means the new account owner is an existing CustomersDot user. Assist them by following the [the Support-assisted option for existing CustomersDot user](#process-for-existing-customersdot-user).
+
+### Support-assisted option
+
+This process should be a last resort for **non-reseller customers**. Only after ruling out the [self-service option](#self-service-option) above will we consider making the requested ownership change.
+
+First, verify the customer's identity as outlined under [ownership verification](#ownership-verification).
+
+#### Process for existing CustomersDot user
+
+If the requestor is an existing CustomersDot user when doing an email search:
+
+   1. Follow [Add subscription management contact workflow](#add-subscription-management-contact).
+   1. Follow [Remove a billing account membership workflow](#remove-a-billing-account-membership) to remove association to the subscription of the previous `Sold To` contact.
+   1. Follow [Update Zuora Sold To contact using CustomersDot workflow](#update-zuora-sold-to-contact-using-customersdot).
+
+#### Process for non-existing CustomersDot user
+
+If the requestor is not an existing CustomersDot user when doing an email search:
+
+   1. Edit the `Name` and `Email` of the current `Sold To` contact user account to the new contact, check the box `Skip email confirmation` and click `Save`.
+   1. Check if the CustomersDot user is linked to a GitLab.com account:
+      - On the CustomersDot account, navigate to the `Show` tab and confirm there is a value under `Uid`. The `Uid` is the ID of a GitLab account which can be checked via the Users API `https://gitlab.com/api/v4/users/<Uid>`
+      - [Unlink GitLab.com Account mechanizer function](mechanizer.html#unlink-gitlabcom-account).
+   1. Trigger a [password reset](https://customers.gitlab.com/customers/password/new) to the new email. For SaaS, link their GitLab.com account.
+   1. Follow [Update Zuora Sold To contact using CustomersDot workflow](#update-zuora-sold-to-contact-using-customersdot).
+
+## Other notable workflows involving CustomersDot
+
+### Ownership verification
+
+**Note 1:**  For any of the options below, do not add the existing `Sold To` contact as a CC. The requester would see that email address, which would be considered a leak of Personal Data.
+
+**Note 2:** We do not accept vouches from GitLab Team Members (including Account Owners listed in SFDC) as proof of a customer's association to a subscription.
+
+We need **one** of the following in order to verify eligibility for the subscription ownership change:
 
 1. Approval from the existing contact
-   - If the billing account has different SoldTo and BillTo contacts, we can only accept approval from the existing **SoldTo** contact.
-   - The BillTo contact must provide a recent GitLab invoice.
-   - **NOTE** we cannot add the CC of the owner for the customer. They must be able to do it. If we need to contact the owner, please file a new ticket reaching out to the owner.
+   - If the billing account has different `Sold To` and `Bill To` contacts, we can only accept approval from the existing `Sold To` contact.
+   - The `Bill To` contact must provide a recent GitLab invoice.
 1. Prior subscription contract
 1. Recent GitLab invoice (last 12 months)
    - This option is not available for customers who purchased through a reseller. Instead, the reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket. The reseller can then provide the invoice as proof of identity.
-   - **NOTE** we cannot add the CC for the customer. They must be able to do it.
 1. Copy of last loaded license (Self-Managed only) in text format only.
    - Screenshots are not valid
    - To obtain the license code:
@@ -41,137 +110,37 @@ ownership change:
      - GitLab versions older than 14.1, use `Download license` from the `Admin area > License` page.
    - License file can be decoded in customersDot from `Licenses` -> `Validate License` (`/admin/license/validate_license`)
 
-**NOTE:** We do not accept vouches from GitLab Team Members (including Account Owners listed in SFDC) as proof of a customer's association to a subscription.
+### Update Zuora Sold To contact using CustomersDot
 
-Please consider using the [Support::L&R::Change Customers Portal Contact](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/Self-Managed/Change%20Customers%20Portal%20Contact.yaml) macro to ask for this information.
-
-**NOTE** Do _not_ add the existing owner as a CC. The requester would _see_ that
-email address, which would be considered a leak of Personal Data.
-
-## Add subscription management contact workflow
-
-If a customer requests to **add** another subscription management contact without removing the current contact,
-first verify their identity as outlined under [ownership verification](#ownership-verification).
-
-Once we have received one of the verification requirements, we can proceed to add a subscription management contact:
-
-#### Important
-
-Any time a CustomersDot customer is edited via the Admin, the Zuora account contact associated with the customer is updated. In case there is no Zuora contact with the same email, the Zuora account `Sold To` address is replaced. When adding additional subscription managers requires to edit the customer, it is important to press `save` on the original contact LAST, to ensure they remain the primary contact on their Zuora account.
-
-> Note this only occurs when editing a Customer record - creating a new Billing Account Membership for a customer will not update the Zuora Sold To contact.
-
-Ensure alignment between the customer and the Zuora account:
-
-1. Navigate to the provided Zuora account and check the value of `SSPChannel`. If it is marked as **Reseller**:
-    1. Locate the customer to be added to the Zuora account
-    1. Ensure the `Login activated` checkbox for the customer is **unchecked**. If the `Login activated` checkbox is checked:
-       1. Go to the customer edit page.
-       1. Uncheck the `Login activated` checkbox.
-       1. Click `Save`.
-       1. Locate the original `Sold To` contact in CustomersDot and click Save on the `Edit` page to ensure this contact remains the Sold To.
-
-**Note:** Make sure you tell the customer that they cannot log in to the account because they purchased through a reseller.
-
-Set the customer as a subscription management contact by creating a billing account membership:
-
-1. Locate the CustomersDot billing account for the provided Zuora account.
-1. Navigate to the `Billing account memberships` section.
-1. Select the `+ Add new` action.
-1. Select the proper customer and CustomersDot billing account for the new subscription management request.
+1. Search for the user in CustomersDot.
+1. Click `Edit` on the CustomersDot user account.
 1. Click `Save`.
+1. Verify in Zuora if the `Sold To` contact is updated to CustomersDot user.
 
-**Note:** If a customer already has a billing account membership, it is not currently possible to create a second billing account membership for this customer.
+If the Zuora `Sold To` contact does not get updated, hand the ticket to the Billing team using the [Zuora contact change workflow](../billing_contact_change_payments.html#zuora-contact-change) to update that.
 
-Remove an existing billing account membership to associate a customer with a different billing account:
+### Remove a billing account membership
+
+You can remove an existing billing account membership:
 
 1. Navigate to the `Billing account memberships` section.
-1. Locate the correct billing account membership (e.g. by searching for the customer's email address).
+1. Locate the correct billing account membership by searching for the CustomersDot user's email.
 1. Open the billing account membership and select `x Delete` action.
-1. Confirm the correct billing account membership was selected.
+1. Confirm the correct billing account membership is selected.
 1. Select `Yes, I'm sure`.
 1. See the `Billing account membership successfully deleted`  success notification.
-1. Refer to the paragraph above if you want to add a new billing account membership to the customer.
+1. Refer to [Add subscription management contact](#add-subscription-management-contact) if you want to add a new billing account membership to the CustomersDot user.
 
 **Note:** If the deleted billing account membership was the only one associated with the billing account, please ensure that this is the desired state.
 
-## Change subscription management contact workflow
+### Ensure alignment between the CustomersDot user and the Zuora account
 
-This process should be a last resort for **non-reseller customers**, and [self-service options must first be explored](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-account-owner-information).
+1. Navigate to the provided Zuora account and check the value of `SSPChannel`. If it is marked as **Reseller**:
+    1. Locate the CustomersDot user and click on the `Show` page.
+    1. Ensure the `Login activated` checkbox for the CustomersDot user is **unchecked**. If the `Login activated` checkbox is checked:
+       1. Go to the CustomersDot user `Edit` page.
+       1. Uncheck the `Login activated` checkbox.
+       1. Click `Save`.
+       1. Locate the CustomersDot user matching the original `Sold To` contact and click Save on the `Edit` page to ensure this user remains the `Sold To` in Zuora as explained in [CustomersDot changes can update Zuora Sold To contact](#customersdot-changes-can-update-zuora-sold-to-contact).
 
-Reseller customers **do not** have access to CustomersDot -- for such customers, proceed to the [Support assisted option](#support-assisted-option) steps.
-
-### Self-service option
-
-**Ensure that the requestor has exhausted all self-service options:**
-
-1. If the requestor is the existing Customers Portal account owner, inform them that
-   to transfer account ownership they need to:
-   1. [change the personal details](https://docs.gitlab.com/ee/subscriptions/#change-account-owner-information)
-      to be the new account owner's personal details
-   2. issue a
-      [password reset](https://customers.gitlab.com/customers/password/new)
-      to the new owner's email
-   3. [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account)
-      to ensure their subscription is kept in sync with the linked GitLab group
-   4. Once the customer updates their account on Customers Portal, confirm that the Sold To contact in the
-      Zuora account matches the Customers Portal account.
-      Follow the [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update.
-1. Otherwise, if they have access to the existing Customer Portal account owner's
-   email address, guide them to:
-   1. issue a [password reset](https://customers.gitlab.com/customers/password/new)
-      to the existing owner's email
-   2. [claim the account](https://docs.gitlab.com/ee/subscriptions/#change-account-owner-information)
-      by changing over the personal details
-   3. [link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account)
-      to ensure their subscription is kept in sync with the linked GitLab group
-   4. Once the customer updates their account on Customers Portal, confirm that the Sold To contact in the
-      Zuora account matches the Customers Portal account.
-      Follow the [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update.
-
-### Support assisted option
-
-#### Important
-
-- In order to change the subscription management contact, we should ask for the same [ownership verification](#ownership-verification) information.
-- **Do not** change/move the zuora_account_id or salesforce_id of the customer account in CustomersDot.
-
-Use this workflow if a customer requests to change a subscription contact by either taking over ownership,
-handing over ownership, or re-gaining access to a subscription that was set-up by another person not in the
-organization anymore.
-
-We should try to always retain the original CustomersDot account with access to the Zuora subscription
-until [Issue#4247](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4247) is resolved.
-
-**Reason:**
-Currently, an Order entry in the database is linked to one customer account only.
-If the Order points at a Customer that doesn't have a `zuora_id` on it, the customer's Subscription cannot be found.
-This may then lead to cloud activation errors and SaaS subscriptions not syncing to GitLab.com.
-
-#### Reseller customer note
-
-- Please keep in mind that the customer (if purchased via a reseller) will only have one subscription contact in CustomersDot
-  - If such a customer is requesting multiple contacts be added, please recommend that they propose a shared inbox or email address for the account update.
-- For reseller requested contact change, edit the exsiting contact in CDot and change to the requested details. Check `Skip email confirmation`.
-   - Check in Zuora if the changes are reflected to the `Sold to` contact. If it's not, then follow [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update.
-
-#### Process
-
-Only after ruling out the [self-service options](#self-service-option) above will we consider making
-the requested ownership change:
-
-1. Verify the customer's identity as outlined under [ownership verification](#ownership-verification).
-1. If the customer has already created a new account and wants the ownership to be transferred.
-    - Point them to [Issue#4247](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4247) and explain that might cause purchasing problems.
-    - Change the email in the new account for example: `person@example.com` to `person_edited@example.com`
-1. Update the `Name` and `Email` of the current account.
-1. For SaaS only, use the [unlink GitLab.com Account mechanizer function](mechanizer.html#unlink-gitlabcom-account) if the accounts were linked
-   - On the CustomersDot account, navigate to the `Show` tab and confirm there is a value under `Uid`.
-   - The `Uid` is the ID of a GitLab account which can be checked via the Users API `https://gitlab.com/api/v4/users/<Uid>`
-1. Trigger a [password reset](https://customers.gitlab.com/customers/password/new) to the new email, and for SaaS, to link their GitLab.com account.
-1. Follow the [Zuora contact change workflow](#zuora-contact-change-workflow) to complete this update.
-
-## Zuora contact change workflow
-
-If a change is needed in the contact for future invoice and renewal related emails,
-pass to Billing team by following the [Zuora Contact Change Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#zuora-contact-change).
+**Note:** Make sure to tell the customer that they cannot log in to the account because they purchased through a reseller.
