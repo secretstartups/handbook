@@ -351,6 +351,18 @@ We use issue labels to keep us organized. Every issue has a set of required labe
 - [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::in dev`, etc.
 - [Type:](/handbook/engineering/metrics/#work-type-classification) `~"type::bug"`, `~"type::feature"`, `~"type::tooling"`, `~"type::maintenance"`
 
+### Issue description
+
+The description for an issue assigned to our group should always include the following sections:
+
+- **Problem**: The problem being adressed by this issue.
+- **Desired Outcome**: The desired state of the affected system after this issue has been completed.
+- **Potential Solution(s)**: An outline of potential solutions to get to the desired outcome. These solution(s) can still be adjusted throughout the implementation as long as the desired outcome is achieved.
+- **How to verify**: How can we verify that the desired outcome has been achieved? The instrcutions from this section should be used to move the issue from ~"worfklow::verification".
+- **Further actions needed**: Any further tasks that need to be completed after the main work of the issue is done, such as announcing the changes or updating documentation.
+
+The sections **Potential Solution(s)** and **How to verify** can initially be empty but should to be filled when preparing the issue for development.
+
 ### Merge request labels
 
 MR labels should mirror issue labels (which is automatically done when created from an issue):
