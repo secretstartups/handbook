@@ -23,6 +23,12 @@ The Sales organisation is a central part of this initiative. They have the criti
 
 The goal of the security sales enablement program is to focus on fulfilling these objectives using the approach detailed in the next sections.
 
+## Program presentation
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/Ijjjuk_A_dk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## 5 Objectives
 
 ### Embed Security early
