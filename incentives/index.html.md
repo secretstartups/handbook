@@ -19,7 +19,7 @@ The following incentives are available for GitLab team members. Also see our sep
 #### Discretionary Bonuses for Individuals
 
 1. Every now and then, individual GitLab team members really shine as they live our values.  We especially like to celebrate the special moments that exemplify the behavior we want to see in all GitLab team members.
-1. We recognize this through the #thanks channel, and sometimes also through a discretionary bonus.
+1. We recognize this through the `#thanks` channel, and sometimes also through a discretionary bonus.
 1. [Any GitLab team member can recommend a discretionary bonus for another GitLab team member to the GitLab team member's manager using the Nominator Bot](/handbook/incentives/) for a $1,000 at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates). The exception is that direct reports cannot nominate their manager or anyone in their management chain for a discretionary bonus.
 1. Only [GitLab team members](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab) are eligible to receive a discretionary bonus / working group bonus or nominate other GitLab team members. Hence, `Temporary Contractors` (Not included in GitLab Team Member Types) are not eligible to receive or nominate discretionary bonus / working group bonus. Any such nominations for the temporary contractors will not be approved by the People Connect team.
 1. We are fixing this amount at $1,000 thoughtfully and purposefully. We want the focus to be on the value and the behavior, not on the perceived monetary impact to GitLab. This is about recognition.
@@ -54,7 +54,8 @@ Discretionary bonuses are to celebrate team members that live by our values. To 
 * Partnering or collaborating with other groups within GitLab
 * Working long hours or on weekends
 
-*Examples of a valid discretionary bonus*
+**Examples of a valid discretionary bonus**
+
  - The reason for the bonus is that this person (X, a Technical Writer) has single-handedly stepped in to act as a part-time documentation engineer in the absence of a full-time engineer.
 The person's history of contributions is plain to see here: (Nominator included links to boards, issues or merge requests)
 In particular, X's implementation of a Global Navigation and GitLab iconography for documentation are real highlights of X's impact for end-users. For developers, they have modernized the codebase and continue to work toward making `gitlab-docs` just like any other GitLab project for developers. X's dedication to the Technical Writing team over a long period of time motivates me to do more than just thank X in #thanks channel. X has specifically: Been active to see the Technical Writing team to [succeed](/handbook/values/#see-others-succeed). X delivers for the team in lots of [MVCs](/handbook/values/#minimal-viable-change-mvc), so we can get early value. For example, making iconography available using Markdown first, and planning to deliver other implementations later. X solutions are [boring](/handbook/values/#boring-solutions), in that X aims to reuse as much GitLab code as possible, and raising instances where that isn’t the case as technical debt. For example, docs icons are the same library as icons in the product.
@@ -64,7 +65,7 @@ In particular, X's implementation of a Global Navigation and GitLab iconography 
 * I am nominating X for the values efficiency and results for the Nominator Bot. This bot assists us to nominate a team member for Discretionary Bonus without logging into Workday. This new bot speeds up the process probably by half the time it took to get approvals (for both me that administers the process and managers for approval) and directly now impacts our PI to increase discretionary bonuses. X is managing all the debugging and going above and beyond to solve any problems, without anyone asking X or having to follow up and this is out of scope of "just building a nominator" bot.
 You can read more about the process in [our handbook](/handbook/incentives/#nominator-bot-process)
 
-*Examples of invalid discretionary bonus*
+**Examples of invalid discretionary bonus**
 
 * "X has been an integral part to my onboarding experience, working tirelessly to help me get access and answers questions.  X truly embodies GitLab's value of efficiency, collaboration and results"
 * "X has continually met or exceeding their sales quota for 3 months"
@@ -72,7 +73,7 @@ You can read more about the process in [our handbook](/handbook/incentives/#nomi
 * "X has helped to update handbook pages, keeping the handbook alive"
 * "I find the team member is doing very inspiring work and easy to collaborate with"
 
-*What does 'going above and beyond' mean?*
+**What does 'going above and beyond' mean?**
 
 > to do more or better than would usually be expected of you
 
@@ -109,7 +110,7 @@ If you received the same nomination twice (for the same person and the same reas
 1. Slack will open a dialog and ask you for some details about the nomination. Use the motivation text field, to write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above. Don't forget that the nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria. You can select the values it applies to.
 1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination.
 1. Once submitted, the bot will send this over to the manager to kick-off the approval flow.
-1. If at any point in the approval flow the manager or the manager's manager has a question about approving the bonus they can reach out to the manager and/or nominator for more context. If they have remaining questions related to the process and logistics (e.g., where is the bonus in the approval chain?), this [FAQ guide](https://about.gitlab.com/handbook/people-group/engineering/nominatorbot/#frequenty-asked-questions) could help clarify, alternatively they can reach out to [people connect](/handbook/people-group/people-connect/). For remaining questions regarding guidance on whether to approve a nomination, they can reach out to their aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
+1. If at any point in the approval flow the manager or the manager's manager has a question about approving the bonus they can reach out to the manager and/or nominator for more context. If they have remaining questions related to the process and logistics (e.g., where is the bonus in the approval chain?), this [FAQ guide](/handbook/people-group/engineering/nominatorbot/#frequenty-asked-questions) could help clarify, alternatively they can reach out to [people connect](/handbook/people-group/people-connect/). For remaining questions regarding guidance on whether to approve a nomination, they can reach out to their aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 1. Once everyone has approved the bot will report back to you with the good news. If it's rejected we ask the person who rejects, to reach out to you. That is not done by the bot.
 
 ###### Manager Process
@@ -117,9 +118,9 @@ If you received the same nomination twice (for the same person and the same reas
 1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination.
 1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager and the People Connect team).
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
-1. When everyone else has approved, the bot will reach out to you so you can share this with the team member, in the [#thanks](https://gitlab.slack.com/archives/C038E3Q6L) Slack channel, and make sure the team member's direct peers can easily see it:
+1. When everyone else has approved, the bot will reach out to you so you can share this with the team member, in the `[#thanks](https://gitlab.slack.com/archives/C038E3Q6L)` Slack channel, and make sure the team member's direct peers can easily see it:
      - For example, cross-post to the team member's group channel
-     - For Support, add it to the [Support Week in Review](https://about.gitlab.com/handbook/support/#support-week-in-review) as a "Team Member Update" item
+     - For Support, add it to the [Support Week in Review](/handbook/support/#support-week-in-review) as a "Team Member Update" item
 
 ###### Approval flow
 ```mermaid
