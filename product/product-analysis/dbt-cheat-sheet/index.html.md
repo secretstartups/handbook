@@ -50,15 +50,14 @@ because it completely builds the models from scratch.
 Here are a few options for cloning dependencies in Snowflake. In these examples, pretend that 
 your role is `JSMITH` and your development databases are `JSMITH_PROD` and `JSMITH_PREP`.
 
-<!--- Temporarily commenting out this section until the error and permissions issue is fixed. 
-Otherwise this will lead to analysts losing access to the models they are trying to clone :(
-
 ### Clone a lineage using the command line
 
-Please see instructions [here](/handbook/business-technology/data-team/platform/dbt-guide/#cloning-models-locally) 
-on how to clone an entire lineage (similar to the CI jobs) using the command line.
+Please see instructions [here](/handbook/business-technology/data-team/platform/dbt-guide/#cloning-into-local-user-db).
+on how to clone a single model or an entire lineage (similar to the CI jobs) using the 
+command line. This is the preferred method for cloning models locally.
 
---->
+Note: You need to run this in the `/analytics` directory. You cannot run it in the dbt virtual 
+environment.
 
 ### Clone a single model using Snowflake
 
