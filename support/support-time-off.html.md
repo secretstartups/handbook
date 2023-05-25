@@ -93,11 +93,7 @@ yourself to disconnect from work and make your time off effective.
 
 If you're taking off **less than half a day,** you do not need to make entries in Time Off by Deel or the Support Time Off Calendar, but please consider updating your Slack status. Also consider blocking the interval on your personal Google Calendar, so no one tries to book a pairing/meeting with you during that time.
 
-<<<<<<< HEAD
 If you're taking off **a half day or more,** enter the time off in Time Off by Deel.
-=======
-If you're taking off **a half day or more,** enter the time off in Time Off by Deel. 
->>>>>>> 4806cc24048 (Find and replace pto by deel)
 
 At the end of your last work day before taking PTO, update your availability using the [Out of Office](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
 
