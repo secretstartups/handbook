@@ -24,6 +24,7 @@ All projects are organized in sub-groups on the top level. No projects are allow
 | [playground](https://gitlab.com/gitlab-de/playground) | all | Test projects, simple demo cases, code snippets, etc. without support | 
 | [use-cases](https://gitlab.com/gitlab-de/use-cases) | all | Use cases for specific topics for product demos, talks, thought leadership, research | 
 | [use-cases/ai](https://gitlab.com/gitlab-de/use-cases/ai) | all | [AI workflows and use cases](/solutions/ai/) |
+| [use-cases/cicd-components-catalog](https://gitlab.com/gitlab-de/use-cases/cicd-components-catalog) |  @iganbaruch | GitLab CI/CD Components Catalog use cases |
 | [use-cases/efficiency](https://gitlab.com/gitlab-de/use-cases/efficiency) | @dnsmichi | Efficiency use cases (CI/CD, container images, workflows, CLI, etc.) | 
 | [use-cases/gitlab-api](https://gitlab.com/gitlab-de/use-cases/gitlab-api) | @dnsmichi | GitLab API use cases with libraries and scripts |  
 | [use-cases/observability](https://gitlab.com/gitlab-de/use-cases/observability) | @dnsmichi | Observability uses cases and research (OpenTelemetry, eBPF, etc.) |
@@ -46,6 +47,18 @@ Allowed exceptions are workshop sub-groups that invite external users into their
 1. When unsure, create the project in the [playground](https://gitlab.com/gitlab-de/playground) group first, and transfer it to its production location later in the project settings. 
 
 **Do not create new top-level groups without first proposing the change in an issue/MR.**
+
+#### README
+
+Always add a `README.md` file that explains the purpose of the project/group (copy the text into `Settings > General > Description`), and links all resources (issues, direction pages, blog posts, etc.). GitLab supports [Group READMEs](https://docs.gitlab.com/ee/user/group/manage#add-group-readme) next to project READMEs.
+
+Optional but recommended: Add a project/group avatar image that illustrates the topic. Use an official GitLab brand image, or download [a free asset from Unsplash](/handbook/legal/ip-public-materials-guidelines/#visual-content-including-videos-gifs-photographs-illustrations-graphics-and-artwork). Add the credits to the `README.md` file. 
+
+Tip: You can [resize images](https://handbook.gitlab.com/handbook/tools-and-tips/#resizing-images) using the following CLI command: 
+
+```
+find . -type f -exec sh -c 'convert {} -resize 150 {}' \;
+```
 
 #### Group: Use Cases 
 
