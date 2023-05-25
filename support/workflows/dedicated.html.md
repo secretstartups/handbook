@@ -30,7 +30,7 @@ Support can access tenant logs through [OpenSearch](https://opensearch.org/).
 
 #### Identifying tenants
 
-Credentials needed for examining logs are stored in the `GitLab Dedicated - Support` vault. Each customer is noted by a customer number in the vault, so you must refer to the `<tenant name>` to identify the proper credentials to use for a customer. This is used as part of the accessible URL, such as: `<tenant name>.gitlab-dedicated.com`.
+Credentials needed for examining logs are stored in the `GitLab Dedicated - Support` vault. Each customer is noted by a customer number in the vault, so you must refer to the `<tenant name>` to identify the proper credentials to use for a customer. This is used as part of the accessible URL, such as: `opensearch.<tenant name>.gitlab-dedicated.com`.
 
 #### Accessing logs
 
@@ -71,6 +71,28 @@ SAML related fields:
 - `controller: OmniauthCallbacksController`
 - `location: https://tenant.gitlab-dedicated.com/`
 
+### Working with Grafana
+
+#### Accessing Grafana
+
+Credentials are stored in the `GitLab Dedicated - Support` Vault.  Just as with OpenSearch, the passwords are refered to by customer number. Use the `website` field to find the customer.
+
+#### Finding Dashboards
+
+When logging in for the first time, dashboards are not immediately visible and you will be greeted by a Grafana welcome screen. To find the dashboards:
+
+1. Select the icon of four boxes on the left pane. Hovering over should reveal that this is the Dashboards link
+1. Click on Dashboard or click Browse. These go to the same place
+1. In the center now is a folder called `General`. You can expand this folder to see the dashboards. 
+
+#### Grafana tips
+
+The `General / Triage` dashboard is most useful for an emergency as it has the pods all laid out in a single view. By default it has 6 hours of data. It is helpful for finding blips & dips. Use this data to correlate to other dashboards.
+
+Remember that Grafana is used for visualizing issues and spotting problems. It won't tell us directly what is wrong. You must correlate to the logs to find the exact problem.
+
+As an example, the Triage dashboard may show that `webservice` errors are increasing. Use this to correlate an approximate time and filter out the other logs by the `kubernetes.labels.app` to find the error for just `webservice`.
+
 ### View instance metadata and upgrade history
 
 GitLab Dedicated tenants are defined in the
@@ -86,7 +108,9 @@ GitLab Dedicated tenants are defined in the
 
 GitLab Dedicated uses the [Cloud Native Hybrid reference architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative). Instance implementation and changes are done via the [instrumentor project](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/instrumentor)
 
-When any changes to the tenant instance are required, please contact the GitLab Dedicated infrastructure team on Slack, using channel [`#g_dedicated-team`](https://gitlab.slack.com/archives/C025LECQY0M)
+When any changes to the tenant instance are required, raise an issue in the [GitLab Dedicated issue tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues) using a [Support Request template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request).
+
+If it's an emergency, [escalate the emergency](#escalating-an-emergency-issue) and contact GitLab Dedicated infrastructure team on Slack, using channel [`#g_dedicated-team`](https://gitlab.slack.com/archives/C025LECQY0M).
 
 ### Filing issues
 
