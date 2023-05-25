@@ -447,6 +447,10 @@ If a customer submits an emergency case outside the [working hours of Federal Su
  - A slack notification will trigger in the #spt_us-federal channel alerting the team to an off hours emergency and indicating follow-up is needed at the start of business hours
  - The `Off hours emergency request` trigger will inform the ticket submitter that it is after hours and give them the option to either create an emergency case in Global support or wait for US Federal support to follow-up at the next start of business hours. 
 
+## GitLab Dedicated Emergencies
+
+Emergencies from [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/) come through the Customer Emergency On Call rotation. The [GitLab Dedicated Handbook](dedicated.html.md) has information about [working with logs](dedicated.html.md#working-with-logs) and a section on [escalating emergency issues](dedicated.html.md#escalating-an-emergency-issue).
+
 ## Special handling notes
 
 There are a few cases that require special handling. If an emergency page falls in one of these categories please follow these special handling instructions. If you think an emergency is special and not called out below, connect with the Support Manager On-call for help as how best to approach it.
