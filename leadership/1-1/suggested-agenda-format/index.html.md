@@ -51,19 +51,18 @@ Please see [our guide on giving career development](/handbook/people-group/guida
       * `DISCUSS` - cover in the next 1-1 meeting
       * `REVIEW` - there is a Merge Request (MR) or document that can be approved, the MR should not be a Work In Progress (WIP)
       * `HELP` - if you need help with anything.
-    1. Information
-      * `FYI` - informational, can be removed outside of the meeting by the person who did not put it on the agenda.
-      * `DONE` - only to be removed by the person who put it on the agenda, only set after any related MR has been merged
-      * `MOVE` - if you want to move it outside of the agenda, for example an issue tracker.
-      * `DUPLICATE` - An item that is an outdated duplicate of another item on the agenda. To be removed similar to items marked as `DONE`.
+      * `THINK` - if the person who did not put it on the agenda wants time to think about it and discuss it next meeting.
+    1. Ready to remove
+      * `FYI` - informational, can be removed outside of the meeting by the person who did not put it on the agenda (the audience for the FYI).
+      * `DONE` - to be removed by the person who put it on the agenda, only set after any related MR has been merged
+      * `MOVE` - if you want to move it outside of the agenda, for example an issue tracker, removal by the purson who put it on the agenda
+      * `DUPLICATE` - An item that is an outdated duplicate of another item on the agenda, removal by the purson who put it on the agenda. 
       * `WONT` - if you think this is no longer something that should be done.
       * `WHY` - if you get the suggestion but wonder why this is important and what the problem is.
-      * `THINK` - if the person who did not put it on the agenda wants time to think about it and discuss it next meeting.
       * `IDEA` - if the person who put it on the agenda is offering a suggestion for consideration and possible dismissal rather than as a directive.
-    1. Personal
-      * `FEEDBACK` - this is feedback about your performance (also means that all the other items are not performance feedback)
       * `THANKS` - mostly used by the manager to praise the report, these should not require a follow-up action. There is a tendency to focus on issues and challenges. Do not forget to recognize accomplishments and success.
       * `SORRY` - if you want to say sorry for something.
+      * `FEEDBACK` - this is feedback about your performance (also means that all the other items are not performance feedback)
 1. It is recommended to provide a section to list frequently & useful tags that helps facilitate ideas and perception triggers when a direct report (or their manager) fills out the 1-1 agenda.
     - This helps reassure that all these topic tags are readily available and encouraged to be used. This is especially important for `THANKS`, `SORRY` and `HELP` tags.
 1. As specified above items are removed after being set to `DONE`. The 1-1 is one list that is continually modified. It is not a meeting agenda that is duplicated every week under a new date.
