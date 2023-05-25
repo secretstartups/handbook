@@ -260,8 +260,14 @@ If your request for an external announcement meets the Level 1 criteria, please 
 - What key point(s) would you like to make in the executive quote and who should be quoted? 
 
 ### Partner Requests for Press Release Support
+If a channel or alliance partner is interested in taking the lead on making a formal announcement, please see complete a [partner announcement issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=channel-partner-announcement-request), which includes details on the review and approval process as well as links to the press release template.
 
-If a channel or alliances partner has requested support of their press release with a quote from GitLab, please see complete a [partner announcement issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=channel-partner-announcement-request) which includes details on the review and approval process as well as links to press release templates.
+A few stipulations:
+- Any press release issued by a partner that includes GitLab’s name or logo must be approved by GitLab.
+- GitLab cannot guarantee support for a partner’s press release. 
+- The PR team requires a minimum of 15 days to review and approve press releases. 
+- The partner contract must be signed and finalized before considering an announcement.
+
 
 ### GitLab Vendor Reference Requests
 
