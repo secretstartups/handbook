@@ -22,6 +22,7 @@ These guidelines ensure that features in our Production environments can be oper
 ### Experiment
 
 1. On-call SRE knows how to disable the feature
+1. Incidents for Experimental features are assigned as [Severity 4](/handbook/engineering/infrastructure/incident-management/#incident-severity)
 
 ### Beta
 
@@ -29,6 +30,7 @@ These guidelines ensure that features in our Production environments can be oper
 1. On-call SRE knows how to access services
 1. On-call SRE knows who to contact for further diagnosis
 1. Basic observability in place
+1. Incidents for Beta features are assigned as [Severity 4](/handbook/engineering/infrastructure/incident-management/#incident-severity)
 
 ### Generally Available
 
@@ -37,6 +39,7 @@ These guidelines ensure that features in our Production environments can be oper
 1. Readiness review completed
 1. Security review completed
 1. Automatic alert routing in place
+1. Incidents for Generally Available features are assigned according to the [incident severity table](/handbook/engineering/infrastructure/incident-management/#incident-severity) listed on the Incident Management page. 
 
 ## How to expedite features to General Availability
 
