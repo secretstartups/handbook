@@ -173,7 +173,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Order Management | Use this for Order Management requests. Please note if the license information you are requesting does not match the Salesforce opportunity, we will likely not be able to generate the license as Support cannot waive seats or Trueups. Ensure you include a summary of the action requested in the context field. |
 | Hacker One Reporter License | Use this to request a license be generated for a Hacker One reporter. |
 | Wider Community License | Use this to request a community license be generated. Please note for any license lasting longer more than 90 days, manager approval is required. Without an approving manager's email being provided, the ticket will be closed out |
-| Other (nothing else fits the request) | Use this when nothing else fits. Please note if this is used when an option **does** exist, the request will be closed and you will need to re-submit your request using the correct option. |
+| Use this for any license & renewal issues where no other options fit. Please note if this form is used when an option **does** exist, the request will be closed and you will need to submit a new request using the correct form. |
 
 Grace period extensions are treated similarly to trial extensions for both Self-managed and GitLab.com SaaS. To request these, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/) with the correct option as highlighted in the table above.
 
