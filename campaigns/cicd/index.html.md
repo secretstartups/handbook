@@ -19,7 +19,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. Connect with the manager of App/Dev, show them the value of GitLab CI
-2. Drive conversion optimization throughout the funnel to increase asset downloads 
+2. Drive conversion optimization throughout the funnel to increase asset downloads
 3. Free trials driven by the campaign page
 
 ### Campaign Visual
@@ -64,11 +64,11 @@ Always On Lead Generation:
   - Increase release velocity and ship more reliable code, faster time to market and more reliable builds = value into the hands of customer sooner with higher degree of confidence
   - Improve overall quality of the application due to increased test coverage and frequency of automated test execution, which enables preventing bugs from shipping
 * **How GitLab helps:**
-  - Delivering better products/software faster - Validated, secure code gets to production faster and lovable features get into the hands of customers sooner. Happy customers, higher confidence, and more revenue! 
+  - Delivering better products/software faster - Validated, secure code gets to production faster and lovable features get into the hands of customers sooner. Happy customers, higher confidence, and more revenue!
   - Increasing operational efficiencies - Automation reduces manual work and overall cost of tools. Less overhead. Improved performance.
   - Reducing security and compliance risk: Regular releases on a monthly cadence (thanks to rapid innovation) minimizes security risk along with automated tests and scan
 * **Why is GitLab a better solution than competitors:**
-  - GitLab as a single application provides end-to-end visibility into the SDLC and promotes better, more frequent, collaboration among teams. Errors are caught earlier in the process before they turn into bigger problems. 
+  - GitLab as a single application provides end-to-end visibility into the SDLC and promotes better, more frequent, collaboration among teams. Errors are caught earlier in the process before they turn into bigger problems.
   - GitLab enables faster release cycles in batches of small iterations without requiring a complete overhaul of existing development workflows and/or DevOps tools
   - GitLab’s built-in CI means less context switching between tools and more time that developers spend writing code. Overall productivity increases
 
@@ -91,12 +91,12 @@ Always On Lead Generation:
   - Increase release velocity and ship more reliable code, faster time to market and more reliable builds = value into the hands of customer sooner with higher degree of confidence
   - Improve overall quality of the application due to increased test coverage and frequency of automated test execution, which enables preventing bugs from shipping
 * **How GitLab helps:**
-  - Delivering better products/software faster - Validated, secure code gets to production faster and lovable features get into the hands of customers sooner. Happy customers, higher confidence, and more revenue! 
+  - Delivering better products/software faster - Validated, secure code gets to production faster and lovable features get into the hands of customers sooner. Happy customers, higher confidence, and more revenue!
   - Increasing operational efficiencies - Automation reduces manual work and overall cost of tools. Less overhead. Improved performance.
   - Reducing security and compliance risk: Regular releases on a monthly cadence (thanks to rapid innovation) minimizes security risk along with automated tests and scan
 * **Why is GitLab a better solution than competitors:**
   - GitLab’s built-in CI means less context switching between tools and more time that developers spend writing code. Overall productivity increases
-  - GitLab as a single application provides end-to-end visibility into the SDLC and promotes better, more frequent, collaboration among teams. Errors are caught earlier in the process before they turn into bigger problems. 
+  - GitLab as a single application provides end-to-end visibility into the SDLC and promotes better, more frequent, collaboration among teams. Errors are caught earlier in the process before they turn into bigger problems.
   - GitLab enables faster release cycles in batches of small iterations without requiring a complete overhaul of existing development workflows and/or DevOps tools
 
 ### Keyword Research
@@ -167,7 +167,7 @@ Always On Lead Generation:
 | ------ | ------ | -------| -------|
 | Awareness| [[EBOOK] Modernize your CI/CD](https://about.gitlab.com/resources/ebook-fuel-growth-cicd/) | [[WEBCAST] Accelerating Software Delivery: Keys for a Digital Transformation](https://www.youtube.com/watch?v=Igu9DKpfweQ) | [[WEBCAST] Simplify Continuous Integration and Delivery Pipelines with New Tools](https://www.youtube.com/watch?v=esZSETVu70I)  |
 | Consideration | [[EBOOK] Benefits of single application CI/CD](https://about.gitlab.com/resources/ebook-single-app-cicd/) | [[REPORT] The Total Economic Impact™ of GitLab](https://about.gitlab.com/resources/report-forrester-tei/) | [[VIDEO] GitLab CI/CD Overview](https://www.youtube.com/watch?v=wsbSvLyC2Z8) |
-| Purchase| [[ANALYST] The 2019 Forrester Wave™: Cloud-Native Continuous Integration Tools](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/4203)| [[REFERENCE] How Jaguar Land Rover embraced CI to speed up builds](https://about.gitlab.com/blog/2018/07/23/chris-hill-devops-enterprise-summit-talk/)| [[COMPETITIVE] GitLab vs. Jenkins](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab/)|
+| Purchase| [[ANALYST] The 2019 Forrester Wave™: Cloud-Native Continuous Integration Tools](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/4203)| [[REFERENCE] How Jaguar Land Rover embraced CI to speed up builds](https://about.gitlab.com/blog/2018/07/23/chris-hill-devops-enterprise-summit-talk/)| [COMPETITIVE] GitLab vs. Jenkins |
 
 
 ### Marketo Nurture Emails
