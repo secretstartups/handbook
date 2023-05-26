@@ -35,7 +35,6 @@ See:
  - [Improve documentation and publicly share knowledge](/handbook/support/support-engineer-responsibilities.html#improve-documentation-and-publicly-share-knowledge-weekly)
  - [Fix GitLab bugs and create features](/handbook/support/support-engineer-responsibilities.html#fix-gitlab-bugs-and-create-features-occasionally)
 
-**Note**: This performance indicator is under review in FY23, see [FY23 Direction - Organizational Efficiency](https://about.gitlab.com/handbook/support/#organizational-efficiency) and [support-team-meta#3795](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3795).
 
 ##### Pairing Sessions
 
