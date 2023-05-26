@@ -59,11 +59,7 @@ While handing the subscription provisioning requests, we'll face some cases wher
 
 - If the namespace has more active users than the number of seats in the subscription, the system redirects to the payment page to purchase additional seats to match the GitLab.com Group's active user count, in this scenario if the customer is not interested in purchasing additional seats upfront then we can force associate the subscription and the additional seats will be reflected as true-ups on the group's billing page.
 
-- Another scenario would be while handling subscription provisioning requests corresponding to EDU/OSS customers - the ```Change Linked Namespace``` button on the subscription doesn't exist and in this case, we can use the [force Associate subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html) to associate the subscription. 
-
-Proceed as follows:
-
-Use the [force Associate subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html) - Open this page and enter the ```Namespace``` and ```Subscription ID``` details and submit the form. This will create an internal issue and updates the issue description with the response of the force association script
+- Another scenario: Provisioning requests for EDU/OSS customers. In this case, the ```Change Linked Namespace``` button on the subscription does not exist, so you must use the [Force Associate Zendesk App](handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#force-associate) to associate the subscription. 
  
 - If it's successful then the response would be {:success=>true} -> You can also verify the namespace and close the issue.
 - If it's not successful then add the `~Console Escalation - customers` label and this will be investigated by the engineers with console access. 
@@ -84,7 +80,7 @@ Navigate to the [Clear subscription form](https://gitlab-com.gitlab.io/support/t
 - If it's not successful then add the `~Console Escalation - customers` label and this will be investigated by the engineers with console access.
 
  ***
- FYI: If interested, you can find more information about the L&R's Mechanizer tools [here](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html).
+ FYI: You can read more about using the Zendesk Mechanizer app for Licensing & Renewals tickets [here](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html).
 
 ## Customer self-serve: associating the subscription and namespace
 
@@ -102,9 +98,9 @@ Associating a group with a subscription in CustomersDot:
 **Note:** if the relevant namespace is grayed out or not on the namespace drop-down list, they cannot proceed -- they need assistance from Support to complete the association. Use the following information to determine the correct next step:
 
 1. Until [multiple active orders on a namespace](https://gitlab.com/groups/gitlab-org/-/epics/9486) are supported, a namespace is grayed out because it already has a subscription associated to it. This could be a recently expired subscription, or a consumption subscription.
-1. Verify that the **new** subscription is for **a plan with seats**. If it is for units of compute or other consumption, STOP and review the CI purchases to ensure we don't overwrite and lose their existing units of compute (this can be done by an L&R expert).
+1. Verify that the **new** subscription is for **a plan with seats**. If it is for units of compute, STOP and review the purchases to ensure we don't overwrite and lose their existing units of compute (this can be done by an L&R expert).
 1. If the the **new** subscription is for **a plan with seats**, check the seat count as shown in the current Group and compare it to the new Subscription. **The seat count should be the same.** If the Subscription is substantially different to the Group's seats-in-use, STOP and review to ensure we don't create an unexpected QSR calculation (example: force a 10 seat license when they have 40 users). Confirm the way forward with the customer before proceeding.
-1. After verifying the seat count is the same, you can use the [Force Associate Zendesk App](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#force-associate) to apply the new subscription to the namespace.
+1. After verifying the seat count is the same, you can use the [Force Associate option in the ZD Mechanizer App](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#force-associate) to apply the new subscription to the namespace.
 1. At this point, additional root-cause analysis may be performed by the L&R experts (for example, they may need to contact the Billing Ops team, if the underlying problem is due to Zuora or SFDC accounts).
 
 ### If the user does not see the subscription in CustomersDot

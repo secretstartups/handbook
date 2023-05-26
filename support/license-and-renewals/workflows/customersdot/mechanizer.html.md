@@ -21,7 +21,8 @@ The Mechanizer is [currently in maintenance mode](https://gitlab.com/gitlab-com/
 
 ## Existing Automations
 
-The new ZD app can be found by opening the ZD App side bar, you will need to scroll down as it is the last app.
+The new ZD Mechanizer app can be found by opening the ZD App side bar. You must scroll down to find it; it is shown below several other apps.
+
 In the app you will have the option to select from the following request types:
 
 #### Note
@@ -37,7 +38,15 @@ Allows setting additional units of compute to a customer namespace to the value 
 The form has two required fields:
 
 - **Namespace**: The customer namespace as it appears in the URL.
-- **Extra minutes**: The number of units of compute to add
+- **Extra minutes**: The value of units of compute to add. (_**Note:** This will update the 'Additional Minutes' value._ )
+
+### Enable units of compute
+
+_Currently labeled: `Enable CI Minutes` in the ZD Mechanizer App._
+
+Remove the restrictions for using units of compute for groups who are part of a sales assisted trial.
+
+- **Namespace**: The customer namespace as it appears in the URL.
 
 ### Force Associate
 
