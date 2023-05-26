@@ -790,6 +790,7 @@ For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
         6. Eventbrite Registration Page for ancillary event
 6. Generate and save as a PDF, jpg, or ai file
 7. Test QR Code personally and send to at least 1 teammate to confirm the QR Code is live and analytics are being collected in the QR Code Generator portal.
+8. Due to our current account subscription only allowing 50 active QR Codes, please proceed to Pause or Delete the QR Code when the event has concluded or the QR code is no longer in use. To do this, navigate to the Active tab, locate the QR Code and click Details, select the three dots below the Download button, and click Pause or Delete.
 
 ### AMER Field Marketing Badge and Event Check-In Process
 
