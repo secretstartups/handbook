@@ -35,7 +35,10 @@ We strive to be as transparent as possible, but these sections are only availabl
 [FY24 TA Strategy](https://docs.google.com/document/d/1Q9ui_BZLRPBAYpRtdtpHVSvGzW3g7JtVYkGj_KqwZBA/edit#heading=h.riu5wc8sjmum)
 
 
+## Talent Acquisition Pages and Processes
+
 ### Team Process Pages
+
 - [TA Key Performance Indicators](https://internal-handbook.gitlab.io/handbook/people-group/talent-acquisition/key-performance-indicators/) Note: this page is currently in our internal handbook as they are a work in progress.
 - [Meeting Cadence](/handbook/hiring/meetings/)
 - [Talent Acquisition Alignment](/handbook/hiring/recruiting-alignment/)
@@ -53,11 +56,13 @@ We strive to be as transparent as possible, but these sections are only availabl
 
 </details>
 
+
 ### Candidate Handbook Pages
 Please find pages for potential and active applicants below.
 
 - [Candidate Handbook Page](/handbook/hiring/candidate/faq/)
 - [Talent Acquisition Privacy Policy](/handbook/hiring/candidate/faq/recruitment-privacy-policy/)
+
 
 ### Interviewer Processes
 
