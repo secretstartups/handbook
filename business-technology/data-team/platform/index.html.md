@@ -25,6 +25,24 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](/
 </div>
 ---
 
+# Purpose
+
+The Data Platform is used for data analytics purposes. This document conceptually describes on high level the components which all together are defined as the Data Platform. 
+
+# Scope
+
+This document is limited to describe the Data Platform conceptually. There are other resources that describe it in more detail (i.e. the Data Pipelines and the [infrastructure](/handbook/business-technology/data-team/platform/infrastructure/)/
+
+# Roles & Responsibilities
+
+| Role | Responsibility |
+| ---- | -------------- |
+| GitLab Team Members | Responsible for taking notice of how the standard that forms the Data Platform |
+| Data Platform Team Members | Responsible for implementing and executing data use cases based on this standard |
+| Data Management Team | Responsible for approving significant changes and exceptions to this standard | 
+
+# Standards
+
 ## <i class="fas fa-map-marked-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Quick Links
 
 - [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure/)
@@ -1013,3 +1031,12 @@ A new role was created specifically, called `SALES_SYSTEMS_SNOWFLAKE_API_ROLE` f
 The Snowflake API user has been created following the steps in the official Snowflake documentation on [Using Key Pair Authentication](https://docs.snowflake.com/en/developer-guide/sql-api/authenticating.html#using-key-pair-authentication) and the credential is stored in our Data Team Secure vault and is to be shared with the Sales Systems team.
 
 We created a runbook with a step-by-step guide on how to create the user and role for this purpose - [link to the Snowflake API User](https://gitlab.com/gitlab-data/runbooks/-/tree/main/snowflake_api_user) runbook.
+
+# Exceptions
+
+Exceptions to this standard will be tracked as per the Information Security Policy Exception Management Process.
+
+# References
+
+The platform [infrastructure](/handbook/business-technology/data-team/platform/infrastructure/). 
+
