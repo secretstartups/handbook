@@ -242,6 +242,22 @@ The customer is now blocked from accessing their Customers Portal account.
 
 **Note:** That does not affect the ability to access their GitLab.com account.
 
+#### See all Zuora subscriptions of a billing account
+
+1. In the desired customer's detail view, click on `Zuora Subscriptions`.
+1. You will see a list of all Zuora subscriptions for this customer including:
+   - Name of the subscription
+   - Type (SaaS or SM)
+   - Start date
+   - End date
+   - Owed seats
+   - Cloud Licensing turned on or off
+   - Operational Metrics turned on or off
+   - Quaterly Coterms turned on or off
+   - Auto Renew turned on or off
+
+**Note:** Owed seat = Max seats used - seats in subscription.
+
 #### View history of customer account changes
 
 1. In the desired customer's detail view, click on `History`.
@@ -319,6 +335,22 @@ The billing account is the representation of a billing entity which is mostly co
      - Account Name 
 
 **Note:** This view is also accessible for CDot admins with `read only` permissions.
+
+#### See all Zuora subscriptions of a billing account
+
+1. In the desired billing account's detail view, click on `Zuora Subscriptions`.
+1. You will see a list of all Zuora subscriptions for this billing account including:
+   - Name of the subscription
+   - Type (SaaS or SM)
+   - Start date
+   - End date
+   - Owed seats
+   - Cloud Licensing turned on or off
+   - Operational Metrics turned on or off
+   - Quaterly Coterms turned on or off
+   - Auto Renew turned on or off
+
+**Note:** Owed seat = Max seats used - seats in subscription.
 
 ### Billing Acccount Memberships
 
