@@ -242,7 +242,7 @@ The customer is now blocked from accessing their Customers Portal account.
 
 **Note:** That does not affect the ability to access their GitLab.com account.
 
-#### See all Zuora subscriptions of a billing account
+#### See all Zuora subscriptions of a customer
 
 1. In the desired customer's detail view, click on `Zuora Subscriptions`.
 1. You will see a list of all Zuora subscriptions for this customer including:
