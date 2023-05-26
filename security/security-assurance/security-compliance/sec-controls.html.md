@@ -77,6 +77,8 @@ _Detailed sub-controls are included in the various control family pages_
 
 For full control descriptions where they have yet to be completed OR where full details of the control are required, please visit the corresponding control page on the [official NIST page](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home)
 
+Note: In some instances, GitLab has created custom controls for the GCF which expand upon the NIST framework. GitLab has applied the NIST naming convention to these controls for ease of control family grouping. If you cannot find corresponding NIST control guidance for a GCF control on the [official NIST page](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home), it's likely a custom control. Please reach out to #sec-assurance in Slack for any questions regarding any controls.
+
 <details markdown="1">
 <summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">Access Control (AC) </a></summary> This control family contains controls that cover access to systems, networks, and devices. Controls provide guidance on the implementation of access policies, account management, and topics like user privileges; aiming to lower the risk of unapproved access to a range of systems, devices, or networks. 
  
@@ -431,6 +433,7 @@ For full control descriptions where they have yet to be completed OR where full 
 |	SR-3(5)	|	Supply Chain Controls and Processes - Confidentiality Commitments		|	To be completed.	|
 |	SR-3(6)	|	Supply Chain Controls and Processes - Cloud Services - Shared Roles and Responsibilities Agreements		|	To be completed.	|
 |	SR-3(7)	|	Supply Chain Controls and Processes - Cloud Services - Special Contractual Considerations		|	To be completed.	|
+|	SR-3(8)	|	SOC Report CUEC Review		|	Review of Service Provider CUECs to ensure adequate coverage of identified control areas passed onto the end user.	|
 |	SR-4	|	Provenance		|	To document, monitor, and maintain valid provenance of the systems, system components, and associated data.	|
 |	SR-5	|	Acquisition Strategies, Tools, and Methods		|	To employ acquisition strategies, contract tools, and procurement methods to protect against, identify, and mitigate supply chain risks of organization-defined acquisition strategies, contract tools, and procurement methods.	|
 |	SR-6	|	Supplier Assessments and Reviews		|	To assess and review the supply chain-related risks associated with suppliers or contractors and the system, system component, or system service they provide.	|
@@ -441,16 +444,6 @@ For full control descriptions where they have yet to be completed OR where full 
 |	SR-12	|	Component Disposal		|	To dispose of organization-defined data, documentation, tools, or system components.	|
  
 </details>
-
-<details markdown="1">
-<summary><a href="https://about.gitlab.com/handbook/security/security-assurance/security-compliance/" target="_blank">GCF Custom Controls</a></summary> This control family covers the custom controls GitLab has added to supplement the NIST 800-53 framework
- 
-| Control | Title | Description |
-|---------|-------------|---------------|
-|	GLB-CUS-1.1	|	SOC Report CUEC Review		|	Review of Service Provider CUECs to ensure adequate coverage of identified control areas passed onto the end user.	|
- 
-</details>
-
 
 ## References
 
