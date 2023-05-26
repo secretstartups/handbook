@@ -235,11 +235,12 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. Fiscal Year Kickoff. 50 minutes.
 1. Industry Conferences such as: DevOps Enterprise Summit, AWS re:Invent, KubeCon, Linux Summit
 
-## CEO Meeting Cadence
+## CEO Vacation Preference
 
 I try to plan my vacations around times when many team members in the United States are on vacation. A rough overview of these times is captured on GitLab's [cadence page](/company/cadence/#gantt-chart). Other team members may also preference taking off work during these windows as there tends to be less demand for synchronous collaboration during these times. 
 
 ## Candidate interviews
+
 1. Candidate interviews should default to 50 minutes unless there is a specific request to make the meeting shorter or longer.
 1. There should be an invite that includes both the candidate and the CEO. If this is a C-level candidate or it is otherwise requested, the meeting should have "private" visibility. Otherwise, it can be "public."
 1. There should be a second calendar invite from Sid's account with the subject: [Shadow or No Shadows] CEO Briefing Doc: [Person's Name]. This should follow the "private" conventions shared in item 2. This invite should include a briefing document that contains the following information:
