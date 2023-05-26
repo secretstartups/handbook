@@ -216,4 +216,11 @@ gantt
     AAP                             :01-03, 116d
     Australia WGEA                  :03-13, 80d
     VETS-4212                       :05-01, 25d
+
+    section Dates when Team Members are more likely to be OOO
+    Popular Spring Break Periods    :03-04, 30d
+    Easter Holidays                 :03-30, 9d
+    Popular Summer Travel Periods   :07-01, 62d
+    American Thanksgiving           :11-20, 9d
+    Christmas and New Year Celebrations          :12-23, 9d    
 ```
