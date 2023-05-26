@@ -25,36 +25,43 @@ The Customer Success Skills Exchnage is a bi-weekly webinar focused on topics fo
 ## Upcoming Training
 To see what training is coming soon, view the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538).
 
-**Q2 FY24 Lineup**
+**Q2 FY24 Sessions**
 
-| DATE   | TOPIC    | SPEAKERS                                       |
-|--------|--------------------------------------------------------------------------|-------------------------------------------------|  
+| Date   | Topic    | Speakers                                       |
+|--------|---------------------------------------------------|------------------------------------|  
 | 2023-05-10 | GitLab and GCP Partnership Overview | Regnard Raquedan | 
-| 2023-04-05 | GitLab Dedicated | Andrew Thomas | 
+| 2023-04-05 | GitLab Dedicated | Andrew Thomas and John Feeney| 
 | 2023-06-07 | TBD | TBD |
 | 2023-06-21 | How to sell Remote Development | Eric Schurter | 
-| 2023-07-05 | TBD | TBD |
+| 2023-07-05 | Google Suite Best Practices  | Lars Blockken |
 | 2023-07-19 | ModelOps Update | Taylor McCaslin | 
+
+## Q2 Session Recordings
+
+| Date   | Topic and Recording  | 
+| ------   | ------    |   
+| 2023-05-10 | [GitLab and GCP Partnership Overview](https://youtu.be/qTWgNsc3Ets) |
+| 2023-04-05 | [GitLab Dedicated](https://youtu.be/lHDsTjRTDLg) |  
 
 ## Past Sessions
 <details>
-<summary markdown="span">Click here to see links to past sessions on YouTube</summary>
+<summary markdown="span">Click here to see links to past sessions </summary>
 
-| **Date** | **Topic** | 
+| Date   | Topic and Recording | 
 | ------   | ------    |   
-| 2023-05-10 | **[GitLab and GCP Partnership Overview](https://youtu.be/qTWgNsc3Ets)** |
-| 2023-04-19 | **[Indicators for Scaling GitLab](https://youtu.be/-JMTTrK3mLI)** | 
-| 2023-04-05 | **[Education Services AMA](https://youtu.be/IKKkvQu73Ls)** | 
-| 2023-03-21 | **[Value Pillar Messaging](https://youtu.be/mLmvBpvAT00)** |                         
-| 2022-12-07 | **[GitOps Overview and Demo - Session 2](https://www.youtube.com/watch?v=_DMdSHIfQYI)** |   
-| 2022-12-06 | **[GitOps Overview and Demo - Session 1](https://www.youtube.com/watch?v=fKTwNhSHcJw)** |  
-| 2022-11-30 | **[Buyer Persona AMA](https://youtu.be/AdgiCCRo7LE)** |  
-| 2022-10-19 | **[Turning Customers into Contributors](https://youtu.be/Z_uRqfHIYlQ)** |  
-| 2022-10-11 | **[DORA](https://www.youtube.com/watch?v=WueBXydQpzg)** | 
-| 2022-07-27 | **[ModelOps Technical Session](https://youtu.be/1SXPqTh9tnE)** |   
-| 2022-06-15 | **[GitLab 15](https://youtu.be/8LR2lX_Mxd8)** |  
-| 2022-06-01 | **[How to use ‘GitLab Kubernetes Agent Working Examples for Training and Demos’](https://youtu.be/RGs65Zi-Tno)** | 
-| | Older videos can be watched on [CS Skills Exchange Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) |
+| 2023-04-19 | [Indicators for Scaling GitLab](https://youtu.be/-JMTTrK3mLI) | 
+| 2023-04-05 | [Education Services AMA](https://youtu.be/IKKkvQu73Ls) | 
+| 2023-03-21 | [Value Pillar Messaging](https://youtu.be/mLmvBpvAT00) |                         
+| 2022-12-07 | [GitOps Overview and Demo - Session 2](https://www.youtube.com/watch?v=_DMdSHIfQYI) |   
+| 2022-12-06 | [GitOps Overview and Demo - Session 1](https://www.youtube.com/watch?v=fKTwNhSHcJw)*|  
+| 2022-11-30 | [Buyer Persona AMA](https://youtu.be/AdgiCCRo7LE) |  
+| 2022-10-19 | [Turning Customers into Contributors](https://youtu.be/Z_uRqfHIYlQ)|  
+| 2022-10-11 | [DORA](https://www.youtube.com/watch?v=WueBXydQpzg) | 
+| 2022-07-27 | [ModelOps Technical Session](https://youtu.be/1SXPqTh9tnE) |   
+| 2022-06-15 | [GitLab 15](https://youtu.be/8LR2lX_Mxd8) |  
+| 2022-06-01 | [How to use ‘GitLab Kubernetes Agent Working Examples for Training and Demos’](https://youtu.be/RGs65Zi-Tno) | 
+
+Older videos can be watched on [CS Skills Exchange Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_)
 
 </details>
 
