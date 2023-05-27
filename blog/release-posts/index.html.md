@@ -1141,9 +1141,9 @@ extras:
 
 ### Deprecations, removals, and breaking changes
 
-Deprecation, removal, and breaking change announcements appear in [GitLab Docs](https://docs.gitlab.com) and in the release post of the announcement's corresponding milestone.
+Deprecation, removal, and breaking change announcements appear [in GitLab Docs](https://docs.gitlab.com/ee/update/deprecations.html) and in the release post of the announcement's corresponding milestone.
 
-Before making an announcement, review the [breaking changes, deprecations and removals guidance](/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features) to ensure you:
+Before making an announcement, review the [breaking changes, deprecations and removals guidance](/handbook/product/gitlab-the-product/#deprecations-removals-and-breaking-changes) to ensure you:
 
 - Are minimizing disruption for our customers.
 - Are providing the required advance notice for workflow changes.
