@@ -87,9 +87,9 @@ Adoption timeline: 1 months after license purchase
 
 |                       | **Red** | **Yellow** | **Green** |
 | --------------------- | ------- | ---------- | --------  |
-| [Git Operations - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216182040_action_monthly_active_users_project_repo.yml) / Licenses Sold | < 25%    | ≥ 25 - < 50%     | ≥ 50%    |
+| [Git Operations - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216182040_action_monthly_active_users_project_repo.yml) / Billable Users | < 25%    | ≥ 25 - < 50%     | ≥ 50%    |
 
-This looks to all active users who performed any Git operation (read/write/push) / Licenses Sold.
+This looks to all active users who performed any Git operation (read/write/push) / Billable Users.
 
 ### Continuous Integration (CI)
 
@@ -98,9 +98,9 @@ Adoption timeline: 1 months after license purchase
 
 |  | **Red** | **Yellow** | **Green** |
 |---|---|---|---|
-| CI Pipelines Utilization % ([CI Pipelines - User L28](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216175554_ci_pipelines.yml) / Licenses Sold) | < 25% | ≥ 25% - < 50% | ≥ 50% |
-| Deployments Per User L28D ([Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) / Licenses Sold) | < 3% | ≥ 3% - < 8% | ≥ 8% |
-| User Deployments Utilization % ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) / Licenses Sold) | < 5% | ≥ 5% - < 12% | ≥ 12% |
+| CI Pipelines Utilization % ([CI Pipelines - User L28](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216175554_ci_pipelines.yml) / Billable Users) | < 25% | ≥ 25% - < 50% | ≥ 50% |
+| Deployments Per User L28D ([Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) / Billable Users) | < 3% | ≥ 3% - < 8% | ≥ 8% |
+| User Deployments Utilization % ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) / Billable Users) | < 5% | ≥ 5% - < 12% | ≥ 12% |
 
 
 ### DevSecOps
@@ -109,9 +109,9 @@ These DevSecOps metrics are available for all customers. Adoption timeline: 1 mo
 
 |  | **Red** | **Yellow** | **Green** |
 |---|---|---|---|
-| Secure Scanner Utilization % ([Secure Scanners - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216181956_user_unique_users_all_secure_scanners.yml) / Licenses Sold) | ≤ 5% | > 5% - < 20% | ≥ 20% |
-| Container Scanning Jobs Utilization % ([Container Scanning Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216175505_user_container_scanning_jobs.yml) / Licenses Sold) | ≤ 3% | > 3% - < 10% | ≥ 10% |
-| Secret Detection Jobs Utilization % ([Secret Detection Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216182127_user_secret_detection_jobs.yml) / Licenses Sold) | ≤ 6% | > 6% - < 20% | ≥ 20% |
+| Secure Scanner Utilization % ([Secure Scanners - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216181956_user_unique_users_all_secure_scanners.yml) / Billable Users) | ≤ 5% | > 5% - < 20% | ≥ 20% |
+| Container Scanning Jobs Utilization % ([Container Scanning Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216175505_user_container_scanning_jobs.yml) / Billable Users) | ≤ 3% | > 3% - < 10% | ≥ 10% |
+| Secret Detection Jobs Utilization % ([Secret Detection Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216182127_user_secret_detection_jobs.yml) / Billable Users) | ≤ 6% | > 6% - < 20% | ≥ 20% |
 
 
 ### Continuous Delivery (CD)
@@ -121,13 +121,11 @@ Adoption timeline: 1 months after license purchase
 
 |                    | **Red** | **Yellow** | **Green** |
 | ------------------ | ------- | ---------- | --------  |
-| User Deployments Utilization % ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) / Licenses Sold) | < 5%    | 5-12%     | > 12%    |
-| Deployments Per User L28D ([Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) / Licenses Sold) | < 2 | 2 - 7 | > 7 |
+| User Deployments Utilization % ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) / Billable Users) | < 5%    | 5-12%     | > 12%    |
+| Deployments Per User L28D ([Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) / Billable Users) | < 2 | 2 - 7 | > 7 |
 | Successful Deployments % ([Successful Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181923_successful_deployments.yml) / (Successful Deployments - L28D + [Failed Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181924_failed_deployments.yml))) | < 25% | 25% - 80% | > 80% |
 
 ## Limitations
-1. All user-based metrics use `licenses sold` as the denominator. This means that while we can see the OVERALL value an account is paying for, we will not see if a new or recently upgraded subscription finds value with a small portion of their `billable users`. E.g., if a customer purchased 500 licenses, but has only deployed 50 licenses (`billable users`), then the account will show red for user-based health scores
-   1. **Resolution**: Next steps are being discussed [here](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/2512)
 1. DevSecOps health scores are currently user based. However, that is an inadequate method to measure value adopted as some customers allow everyone to run scans and some hold those to a small portion of users. The future plan is to look to event based metrics, such as the number of scans and other features (see [epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/253))
    1. **Resolution**: The DevSecOps health score is [being refactored](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/253) to align to a better proxy 
 1. Usage is measured at the instance level, which is attached to a subscription, attached to an account. So a "Account" health score is a view of a single instance (the most important one) but, for more complex accounts, that can hide the health of other instances and subscriptions (see [graph](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#csmcse-actions)) that shows how a single account can have multiple subscriptions and each subscription could have multiple instances (self-managed only). Process for dealing with [multiple production instances](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#multiple-production-instances-health-scoring)
