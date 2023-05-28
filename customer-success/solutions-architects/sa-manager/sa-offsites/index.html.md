@@ -98,3 +98,4 @@ On the last day, cordinating with the event organizer to understand that all inv
 1. Connect with the procurement team upon your return to your remote based location and ensure that all payment requests have been finalised in Coupa
 
 In the spirit of our company values, it is recommended to transparently share the success the of the Offsite with our SA team worldwide. Offering assistance and ideas for future events and don't forget to share picture via internal communications channels.
+
