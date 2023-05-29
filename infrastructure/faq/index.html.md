@@ -45,6 +45,8 @@ A: Currently you can only use the [project import/export](https://docs.gitlab.co
 
 A: No, once a project is deleted it cannot be restored. For some projects, [Delayed project deletion](https://docs.gitlab.com/ee/user/gitlab_com/index.html#delayed-project-deletion) will allow users to restore a project during the soft deletion state.
 
+For Support team members looking for further guidance, please refer to [Support's restoring deleted data workflow](/handbook/support/workflows/restore_requests.html).
+
 #### Q: Can customers be put on the allowlist for the API?
 
 A: Yes, with sufficient evidence that it's necessary, customers can request to be allowlisted. To request to be added to the allowlist, see our section on [how we handle incoming requests](../production#incoming-requests-of-the-infrastructure-team) in the handbook.
