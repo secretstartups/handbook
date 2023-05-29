@@ -20,7 +20,7 @@ This page documents ways in which content is leveraged in campaigns, including i
 
 In an effort to best engage our technical audience, we are pursuing an **ungated content journey** that leverages Pathfactory tracks, rather than gated landing pages. This allows viewers to preview content before signing up to view in its entirety. We have flexibility about when and how the forms display, and will test to deliver the best experience with proven results. This process will also be more efficient to launch new content so time can be focused on how to leverage the content in campaigns.
 
-The epic code in each section below outlines the necessary issues to open in order to "check off" the list of action items to launch a new piece of content. *While this page exists within the Campaigns Team handbook page, it is meant to be contributed to by all teams in marketing. If you see an updated needed, please submit an MR and assign to `@jgragnola`.*
+The epic code in each section below outlines the necessary issues to open in order to "check off" the list of action items to launch a new piece of content. *While this page exists within the Campaigns Team handbook page, it is meant to be contributed to by all teams in marketing. If you see an updated needed, please submit an MR and assign to `@aoetama`.*
 
 * Jump to ungated content journey (Pathfactory) setup process
 * Jump to gated content (Landing Page) setup process - *being phased out*
@@ -64,7 +64,7 @@ The below process should be used for all new content (ebooks, guides, whitepaper
 
 ##### [Watch this video overview of the process >>](https://youtu.be/RbQ8Hr6DuQo)
 
-If you have any questions on this process, please contact `@jgragnola` in the [#marketing-campaigns](https://gitlab.slack.com/archives/CCWUCP4MS) Slack channel. This process has been iterated since 2018 for efficiency and to fit all teams' project management practices, and is meant to continually updated as needed!
+If you have any questions on this process, please contact `@aoetama` in the [#marketing-campaigns](https://gitlab.slack.com/archives/CCWUCP4MS) Slack channel. This process has been iterated since 2018 for efficiency and to fit all teams' project management practices, and is meant to continually updated as needed!
 
 1. **Internally-Created Content Epics:** `Campaign Manager` aligned to the integrated campaign creates epic (using code below) and associates to campaign epic
 1. **Related Issues:** `Campaign Manager` aligned to the integrated campaign creates the issues as designated in the epic code, and associates to the content epic
@@ -141,9 +141,22 @@ If you have any questions on this process, please contact `@jgragnola` in the [#
 <!-- DO NOT CHANGE THIS ANCHOR -->
 External content can be sourced from Analyst Relations, partners, and other vendors with whom we work. Some examples would be vendor comparisons (i.e. Gartner/Forrester) or industry/market analyses (i.e. DevOps Institute).
 
-When a GitLab team member (i.e. AR) is evaluating a potential content for sponsorship, they are responsible for working with the [GTM Motion teams](/handbook/marketing/plan-fy22/#core-teams) to discuss how to leverage the content and if it makes sense for us to sponsor. They can do so by opening a decision matrix issue (Agnes will link). The campaign manager will evaluate the decision matrix inputs and give the final go/no go on sponsorship decision. If the decision is to sponsor the external content, the campaign manager will create the content activation epic and associated issues to request work of all relevant teams (outlined below to try to make it efficient, comprehensive, and repeatable!).
+When a GitLab team member (i.e. AR) is evaluating a potential content for sponsorship, they are responsible for working with the [GTM Motion teams](/handbook/marketing/plan-fy22/#core-teams) to discuss how to leverage the content and if it makes sense for us to sponsor. They can do so by opening a [decision matrix issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=decision-tree-matrix) (see step by step process below). The campaign manager will evaluate the decision matrix inputs and give the final go/no go on sponsorship decision. If the decision is to sponsor the external content, the campaign manager will create the content activation epic and associated issues to request work of all relevant teams (outlined below to try to make it efficient, comprehensive, and repeatable!).
 
 All external content should be planned in advance of purchase with `at least a 30 business day time to launch date`. This allows time to plan activation into existing and future integrated campaigns and GTM Motions.
+
+#### The decision matrix
+
+The purpose of the decision matrix is to gather cross-functional feedback whether a new analyst report will be a lucrative investment to solidify GitLab's positioning in the market. It will also outline the campaigns and persona it is aligned to as well as the channels where it will be activated.
+
+##### Step by step decision matrix process:
+
+1. **Analyst relations** will open a [decision matrix issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=decision-tree-matrix) and assign to relevant Campaign Manager. 
+1. **Campaign Manager** to tag relevant product marketing, sdr enablement, and field enablement counterparts on the decision matrix issue and comment to submit their inputs by agreed upon SLA date. | `SLA: 1 Business Day`
+1. **Product Marketing,SDR Enablement, Field Enablement** to fill out their portions for relevant channels, campaign, persona. Tag relevant technical counterparts for input. | `SLA: 3 Business Days`
+1. **Campaign Manager** fills out the suggested channel for promotion and makes the go/no go decision on sponsorship, tagging analyst relations |  `SLA: 3 Business Day`
+
+**Decision Matrix end to end decision timeline (SLA): 7 Business days**
 
 #### Epic code and issues - External Content
 {: #epic-issues-external-content}
@@ -168,10 +181,15 @@ As a guide in developing timeline, please view the workback timeline calculator 
 ## [Pathfactory link]() - `to be added when live`
 
 #### :key: Key Details
-* **Content Owner (i.e. AR) DRI:**  
+* **Analyst Relations DRI:**  
+* **Product Marketing DRI:**  
+* **Campaigns DRI:**  
 * **Official Content Name:** 
 * **Official Content Type:** 
 * **Primary Campaign:** 
+   - [ ] DevSecOps platform
+   - [ ] Automated Software Delivery
+   - [ ] Security & Compliance
 * **Primary Sales Segment:**
    - [ ] Enterprise
    - [ ] Mid-Market
@@ -187,50 +205,59 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [main salesforce program]() - `to be added`
 * [ ] [main marketo campaign]() - `to be added`
 * [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
+* [ ] [Pathfactory & Resource Page Copy]() - `doc to be added by Content Owner` ([use template here](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1837173931)
+* [ ] UTMS: `utm_campaign=[add here]&utm_content=[add here]`
 
-### [Pathfactory & Resource Page Copy]() - `doc to be added by Content Owner` ([use template here](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1837173931)
+#### :dart: Timeline / Promotional asset list (add links when completed) and DRIs:
+Adjust list as applicable for each report activation:
 
-### :books:  Issues to Create
-
-[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
-
-**Required Issues:**
-
-**Content Owner**
-* [ ] :link: Not an issue, but an action item: Provide reprint link and expiration date
-* [ ] Not an issue, but an action item: Secure analyst citation review / approval
-
-**Product Marketing**
-* [ ] :dart: Not an issue, but an action item: Add to HighSpot
-
-**Campaign Managers to create**
-* [ ] :calendar: Not an issue, but an action item for campaign manager: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493)
-* [ ] 🧨 Not an issue, but an action item for content owner: upload to Pathfactory
-* [ ] [Nurture Email Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture) - Assign to Content, Lifecycle & Campaigns
-* [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Assign to Campaigns
-* [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Assign to Campaigns
-* [ ] [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) - Multiple Teams
-
-
-<details>
-<summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
-
-**Analyst Relations to create**
-
-* [ ] [Analyst Report Commentary Page Issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=AR-Commentary-Page)
-* [ ] Add to the open Product Marketing / Field Communications Planning epic (see [handbook entry](https://about.gitlab.com/handbook/sales/field-communications/#recurring-announcements) for more detail & link to latest epic) - AR
+* [ ] 2023-xx-xx add report to **Pathfactory** `@DRI`
+* [ ] 2023-xx-xx **landing page** live `@DRI`
+* [ ] 2023-xx-xx add to [Analyst research page](https://about.gitlab.com/analysts/) `@DRI` 
+* [ ] 2023-xx-xx report live on [**resources page**](https://about.gitlab.com/resources/) `@DRI`
+* [ ] 2023-xx-xx publish **blog** `@DRI` 
+* [ ] 2023-xx-xx publish **commentary page** `@DRI` 
+* [ ] 2023-xx-xx add on **website pages** (solution pages, homepage) `@DRI`
+* [ ] 2023-xx-xx **press release** live `@DRI` 
+* [ ] Field Enablement `@DRI` 
+  * [ ] 2023-xx-xx send **field FYI**
+  * [ ] 2023-xx-xx conduct **field enablement session**
+* [ ] Organic social `@DRI`
+  * [ ] 2023-xx-xx **Facebook** post(s)
+  * [ ] 2023-xx-xx **LinkedIn** post(s)
+  * [ ] 2023-xx-xx **Twitter** post(s)
+* [ ] **Executive social sharing** posts `@DRI` 
+* [ ] 2023-xx-xx add to **Highspot** `@DRI`
+* [ ] 2023-xx-xx add to **Intelligent email nurture** `@DRI`
+* [ ] 2023-xx-xx add to **paid digital** `@DRI`
 
 
-**Campaign Managers to create**
-* [ ] [Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Assign to Content & Campaigns _(only if promoting via Facebook and Google AdWords)_
-* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Assign to digital
-* [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Assign to Social
+### :books:  Issues to Create & Tasks to complete
 
+Adjust list as applicable for each report activation. [Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
-**Product Marketing to create**
-* [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - Assign to PR
-* [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Assign to Editorial
-* [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/indbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Assign to Growth Marketing
+**Analyst relations** `@DRI`
+* [ ] Provide reprint link and expiration date
+* [ ] Secure analyst citation review / approval
+* [ ] [Open Analyst Report Commentary Page Issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=AR-Commentary-Page)
+* [ ] Add to the open Product Marketing / Field Communications Planning epic (see [handbook entry](https://about.gitlab.com/handbook/sales/field-communications/#recurring-announcements) for more detail & link to latest epic)
+
+**Product Marketing** `@DRI`
+* [ ] Add to HighSpot
+* [ ] [Open PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) 
+* [ ] [Open Blog Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch)
+* [ ] Open MR to add to add to web pages (e.g. solutions pages, homepage etc.)
+* [ ] Open issue for executive social sharing
+
+**Campaign Manager** `@DRI`
+* [ ] Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1fyrC4O1e13QTRNmYR3H5rMZIoIJcPk93vltOCx0ubjk/edit#gid=571560493)
+* [ ] [Open Pathfactory upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
+* [ ] [Open Nurture Email Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=add-to-intelligent-email-nurture)
+* [ ] [Open Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition)
+* [ ] [Open Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) 
+* [ ] [Open Landing Page Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-content-landing-page) - Assign to Content & Campaigns _(only if promoting via Facebook and Google AdWords)_
+* [ ] [Open Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request)
+* [ ] [Open Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-general-request)
 
 
 </details>
@@ -241,13 +268,13 @@ As a guide in developing timeline, please view the workback timeline calculator 
 ## Adding new content to the Resources page
 {: #add-to-resources-page .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-*Note from `@jgragnola`: [open issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1030) to investigate how to leverage Pathfactory to automatically tap into all content for a better user experience and more efficient process on the GitLab side.*
+*Note from `@aoetama`: [open issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1030) to investigate how to leverage Pathfactory to automatically tap into all content for a better user experience and more efficient process on the GitLab side.*
 1. Begin a new MR from [the resources yml](https://gitlab.com/gitlab-com/www-gitlab-com/edit/master/data/resources.yml)
 2. Use the code below to add a new entry with the relevant variables
 3. Add commit message `Add [resource name] to Resources page`, rename your target branch, leave "start a new merge request with these changes" and click "Commit Changes"
 5. Assign the merge request to yourself
-6. When you've tested the MR in the review app and all looks correct (remember to test the filtering!), assign to `@jgragnola`
-7. Comment to `@jgragnola` that the MR is ready to merge
+6. When you've tested the MR in the review app and all looks correct (remember to test the filtering!), assign to `@aoetama`
+7. Comment to `@aoetama` that the MR is ready to merge
 
 *Note: For ungated journeys, the URL drives to the PF asset/track, instead of a landing page.*
 
@@ -293,7 +320,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 **TOPICS to choose from (add all that apply):**
 
-*Note from @jgragnola: let's see if we can align this with topics in Pathfactory for efficiency (if we don't go the route of Pathfactory explore page).*
+*Note from @aoetama: let's see if we can align this with topics in Pathfactory for efficiency (if we don't go the route of Pathfactory explore page).*
 
 * Agile
 * CD
@@ -465,5 +492,5 @@ To be completed by the content owner if Pathfactory access is granted. If no acc
 1. Where it says `www-gitlab-com / sites / marketing / source / resources / +`, click the plus drop down and select "Upload File"
 1. Upload the file you've saved to your computer with the naming convention above
 1. For commit message, add `Upload [Asset Type]: [Asset Name]`, check box for "create new merge request", name your merge request, and click "Upload file"
-1. Add description to MR, complete the author checklist, assign to `@jgragnola` and click "Submit Merge Request"
+1. Add description to MR, complete the author checklist, assign to `@aoetama` and click "Submit Merge Request"
 1. In your Marketo program, for the `pdfVersion` My Token, add the naming convention above which will be available when the MR is merged. (the token should look like `https://about.gitlab.com/resources/downloads/add-file-name-here.pdf`)
