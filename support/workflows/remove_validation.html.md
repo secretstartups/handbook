@@ -22,10 +22,18 @@ This workflow covers how to remove validation for a GitLab.com user account. All
 
 You must ensure the customer is aware that removal of validation will result in their GitLab.com account being unable to use shared runners until they provide a credit or debit card for validation.
 
-1. Complete the [Account Changes workflow](account_changes.html) to verify the account owner and that you have received their permission to proceed.
+1. Complete the [account ownership verification workflow](account_verification.html#workflow) to verify the account owner and that you have received their permission to proceed. Please use the [standard data classification definition](https://internal-handbook.gitlab.io/handbook/support/#data-classification). The peer review is not mandatory for these cases.
 2. Sign into your admin account and locate the customer's user account.
 3. Under the account tab, click `Edit`.
     1. Uncheck the "Validate user account" box.
     1. Add an [Admin Note](admin_note.html).
     1. Save your changes.
-4. Use the `Support:SaaS::Credit Card Validation Removal Successful` macro.
+4. Send the following message to the user:
+
+```
+Hi,
+
+We have now processed this request. Your credit card validation has been removed and your credit card details have been deleted from your GitLab.com account.
+
+Regards,
+```
