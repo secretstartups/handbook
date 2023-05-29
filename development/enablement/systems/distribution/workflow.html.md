@@ -147,7 +147,7 @@ The Distribution DRI works on the following areas per the order of the list.
 #### During the week
 
 1. Support production incident
-1. [Support customer request and call](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/#engaging-distribution-for-expertise-in-support)
+1. [Support customer request and call](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/#engaging-distribution-for-expertise-in-support) ([Issue list](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/?sort=created_date&state=opened&label_name%5B%5D=support%20request&or%5Blabel_name%5D%5B%5D=Help%20group%3A%3ADistribution%20Build&or%5Blabel_name%5D%5B%5D=Help%20group%3A%3ADistribution%20Deploy&first_page_size=20))
 1. Answer or redirect questions in Slack channel [#g_distribution](https://gitlab.slack.com/archives/C1FCTU4BE)
 1. [Triage issues](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/triage.html)
 1. Response `@gitlab-org/distribution` group mention in GitLab
