@@ -1009,6 +1009,51 @@ ON24 will automatically convert the video to on-demand in the ON24 platform. The
 1. **YouTube**: Once the recording has been uploaded, copy the video link on the right
 1. **Pathfactory**: Login to PathFactory and add the YouTube or Vimeo link to Pathfactory as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory).
 
+#### Converting the webcast to an On-Demand gated asset - On24
+{: #zoom-on-demand-switch} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+
+**🤩 NEW! In Marketo:** 
+1. **Vimeo**: Upload the recording to Vimeo
+   * Fill in the title with the webcast title matching the Marketo token (`{{my.webcastTitle}}`)
+   * Fill in the description with the short description matching the Marketo tokens (`{{my.contentDescription}}`)
+1. **Vimeo**: Once the recording has been uploaded, copy the video embed link in Vimeo
+1. **Pathfactory**: Login to PathFactory and add the copied Vimeo link to Pathfactory as new content by following the instructions outlined [here](https://support.pathfactory.com/kb/add-content/).
+1. **Marketo**: Navigate to the webcast program and update the following My Tokens
+   * Update the `formButtonCopy` token to be `Watch now`
+   * Update the `formHeaderCopy` token to be `Watch the webcast today`
+   * Update the `ondemandUrl` token with the Pathfactory link
+     * This URL should *not* contain `https://` (it should begin with `learn.gitlab.com/`)
+     * This URL should *not* contain any `?` question marks (if it does, you did not update the custom URL slug) - [WATCH THE EXPLAINER VIDEO](https://www.youtube.com/watch?v=VHgR33cNeJg)
+     * This URL should *not* contain the Pathfactory tracking parameter `lb_email=` (this is already incorporated into all assets of the Marketo program template)
+1. **Marketo**: In the Marketo program, right click on the "Registration Page" and choose `Edit Draft`
+   * On the right side rail, under "Elements" right click on the "Form Custom" element and choose `Edit`
+   * The form should currently be set to the Webcast form (`FORM 1592: webcast` or relevant localized form) - you will change this to be `FORM 2076: On-demand Webcast`
+   * Change the "Follow-up Type" to be `Landing Page`
+   * Change the "Follow-up Page" to be the thank you page in your program (begin to type in the Marketo program name and select your thank you page)
+1. **Marketo**: Send sample of the "On-demand Autoresponder" email to your inbox
+  * Right click on the email and choose `Send Sample`
+  * Expand advanced settings, under "Sample person for tokens" begin to type in your test lead email address. This will pull in the email address to review that the tracking is working properly in your email.
+  * For "Send To:" choose your email address (or type next to the `*` asterisk)
+1. **Your Inbox**: Review the sample email in your inbox
+  * Check all email copy
+  * Click all links and confirm they are not broken
+  * Click the `Watch now` CTA and confirm that your email address is in the URL displayed (this happens quickly and disappears in the URL, so watch carefully!)
+  * :thumbs-up: If all of the above apply, move on to activating the smart campaigns!
+1. **Marketo**: Update the smart campaigns (activate and deactivate)
+   * Under "Schedule" on the `01a Registration Flow (single timeslot)` smart campiagn, click `Deactivate` once the webcast has completed.
+   * On the `04 On24 Processing - On Demand - On24` smart campaign - Smart List, add your On24 `eventid`. Flow: it's all set! For your first few, feel free to review the flows (but they are all using tokens, so it should be ready to go automatically). Go to schedule and click `Activate`.
+   * On the `04 On24 Processing - On Demand - Pathfactory` smart campaign - Smart List: 
+       * The second trigger for Fills out Form should be set to Form Name is "Form 2074: PF General". In Referrer contains, enter the Pathfactory asset name slug. For example guide-to-devops.
+       * The third trigger for Fills out Form should be set to Form Name is "Pathfactory Webhook". In Referrer contains, enter the Pathfactory asset name slug. For example guide-to-devops.
+       * Filter 1 - Filled Out Form should already be set properly. This will be Form Name is `FORM 2076: On-demand Webcast`. Web Page is (the name of your landing page).
+       * Filter 2 - Filled Out Form should be set to Form Name is "Form 2074: PF General". In Referrer contains, enter the Pathfactory asset name slug. For example guide-to-devops.
+       * Filter 3 - Filled out Form should be set to Form Name is "Pathfactory Webhook". In Referrer contains, enter the Pathfactory asset name slug. For example guide-to-devops. Date of Activity should already be set to in the past 1 hour.
+       * Filter 4 - Pathfactory Engagement Time greater than 600 is set as the default. 600 is the Pathfactory view threshold for Webcasts. 
+       * Advanced filters will be set to 1 or 2 or (3 and 4)
+   * Flow: it's all set! For your first few, feel free to review the flows (but they are all using tokens, so it should be ready to go automatically)
+   * Under "Schedule" on the `04 On24 Processing - On Demand - Pathfactory` smart campaign, click `Activate`.
+
 ### Rescheduling an ON24 webcast
 {: #on24-reschedule} <!-- DO NOT CHANGE THIS ANCHOR -->
 
