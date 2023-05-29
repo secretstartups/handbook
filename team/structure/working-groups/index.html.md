@@ -252,6 +252,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [IACV - Delta ARR](/company/team/structure/working-groups/iacv-delta-arr/)
 1. [IC Gearing](/company/team/structure/working-groups/ic-gearing/)
 1. [Improve Ops Quality](/company/team/structure/working-groups/improve-ops-quality/)
+1. [Internship Pilot](/company/team/structure/working-groups/internship-pilot/)
 1. [Internal Feature Flag usage](/company/team/structure/working-groups/feature-flag-usage/)
 1. [Isolation](/company/team/structure/working-groups/isolation/)
 1. [Learning Restructure](/company/team/structure/working-groups/learning-restructure)
