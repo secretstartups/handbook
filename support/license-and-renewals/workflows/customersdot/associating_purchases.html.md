@@ -37,7 +37,7 @@ Provide subscription access to additional CustomersDot user by creating billing 
 1. Select the `+ Add new` action.
 1. Select the correct CustomersDot user and CustomersDot billing account for the new subscription management request. The CustomersDot user can be uniquely located by its `Email` and the billing_account by its `zuora_account_id`.
 1. Click `Save`.
-1. Check to [ensure alignment between the CustomersDot user and the Zuora account](#ensure-alignment-between-the-customersdot-user-and-the-zuora-account) for reseller customers.
+1. Ensure the `Login activated` checkbox for the CustomersDot user is **checked**. If it is not, then [confirm the CustomersDot account login status](#confirm-the-customersdot-account-login-status).
 
 **Note:** If a CustomersDot user already has a billing account membership, it is not currently possible to create a second billing account membership for them. Confirm with the existing CustomersDot user if they want to stop managing the existing subscriptions before [removing the existing billing account membership](#remove-a-billing-account-membership).
 
@@ -63,7 +63,8 @@ If the requestor follow the [self-service option](#self-service-option) and get 
 
 ### Support-assisted option
 
-This process should be a last resort for **non-reseller customers**. Only after ruling out the [self-service option](#self-service-option) above will we consider making the requested ownership change.
+
+This process should be a last resort for **all customers** (including reseller customers). Only after ruling out the [self-service option](#self-service-option) above will we consider making the requested ownership change.
 
 First, verify the customer's identity as outlined under [ownership verification](#ownership-verification).
 
@@ -133,14 +134,13 @@ You can remove an existing billing account membership:
 
 **Note:** If the deleted billing account membership was the only one associated with the billing account, please ensure that this is the desired state.
 
-### Ensure alignment between the CustomersDot user and the Zuora account
+### Confirm the CustomersDot account login status
 
-1. Navigate to the provided Zuora account and check the value of `SSPChannel`. If it is marked as **Reseller**:
-    1. Locate the CustomersDot user and click on the `Show` page.
-    1. Ensure the `Login activated` checkbox for the CustomersDot user is **unchecked**. If the `Login activated` checkbox is checked:
-       1. Go to the CustomersDot user `Edit` page.
-       1. Uncheck the `Login activated` checkbox.
-       1. Click `Save`.
-       1. Locate the CustomersDot user matching the original `Sold To` contact and click Save on the `Edit` page to ensure this user remains the `Sold To` in Zuora as explained in [CustomersDot changes can update Zuora Sold To contact](#customersdot-changes-can-update-zuora-sold-to-contact).
-
-**Note:** Make sure to tell the customer that they cannot log in to the account because they purchased through a reseller.
+If the `Login activated` checkbox for a CustomersDot account is **not checked**, then:
+   
+1. Click the `History` tab and search for `login_activated = false`. If you find an entry dated any time **after** the `create` entry, that indicates that we may have intentionally disabled login for this customer. Do not proceed with enabling login unless you are sure. For help, ask for guidance in the `#support_licensing_subscription channel`.
+2. To enable the customer's login:
+   1. Click the `Edit` tab
+   2. Check the `Login activated` checkbox
+   3. Click `Save`
+   4. Locate the original `Sold To` contact in CustomersDot and click `Save` on the `Edit` page to ensure this contact remains the `Sold To`

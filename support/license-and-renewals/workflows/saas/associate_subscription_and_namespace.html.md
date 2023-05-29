@@ -15,33 +15,9 @@ category: GitLab.com subscriptions & purchases
 
 ## Provisioning subscriptions for reseller customers
 
-L&R and people working in the gitlab.com queue have been tasked with assisting customers who don't have access to the [customers portal](https://customers.gitlab.com/customers/sign_in) in their provisioning steps for setting up a new gitlab.com subscription. You can read more about the change in [this issue](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1373).
+Customers who purchase from GitLab Partners, resellers, AWS, and/or GCP have **read-only** access to their subscriptions in [Customers Portal](https://customers.gitlab.com/customers/sign_in).
 
-Note that the requests will come in as a response to this [provisioning email](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1444#note_349585674). Reseller customer and sales-assisted customers will receive this email.
-
-You can verify reseller customers by looking at the edit page for their customers portal account - you will see ```Login activated``` field is unchecked.
-
-Take the following steps for this provisioning request:
-
-1. Login into the customers portal with admin permissions
-2. Log into gitlab.com with admin login (use the same browser! we need the cookies for both sessions)
-3. Impersonate user on gitlab.com
-4. Impersonate user in customers portal
-5. In Customer portal, go to ```My account``` drop-down -> select ```Account details``` -> go to ```Your GitLab.com account section``` -> select ```Link my Gitlab.com account``` button
-6. You should now have linked the user's GitLab.com account because you impersonated them on GitLab.com
-7. Go to ```Manage purchases``` page
-8. Select ```Change linked namespace``` button
-9. Select the namespace the subscription should be applied to from the drop-down (the customer should give you this info)
-If the namespace isn't on the list, it means the user doesn't have owner level permissions on the group they are trying to link. Ask the customer to get themselves added to the group as an owner.
-10. Proceed to checkout if there is no outstanding fee to be paid
-11. You should see the namespace linked to the subscription card
-12. Send the customer a confirmation email, you can use the following snippet:
-
-> I have successfully provisioned your subscription and it has been associated with your account and namespace. Please navigate to your group's billing page for confirmation: https://gitlab.com/groups/GROUPNAME/-/billings
-
-If there is an outstanding fee at step 10, go to the admin view > namespaces tab. You should see the namespace and a drop-down for the plans. Select the relevant plan and click the `Update` button. This should successfully associate the subscription.
-
-Use the `Associate namespace` transactions issue type in ZD and set the ticket to Pending.
+All SaaS customers should provision their subscriptions from CustomersDot as described under [Customer self-serve: associating the subscription and namespace](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html#customer-self-serve-associating-the-subscription-and-namespace).
 
 ## Troubleshooting 502 errors while provisioning the subscription 
 
@@ -104,21 +80,7 @@ Associating a group with a subscription in CustomersDot:
 1. At this point, additional root-cause analysis may be performed by the L&R experts (for example, they may need to contact the Billing Ops team, if the underlying problem is due to Zuora or SFDC accounts).
 
 ### If the user does not see the subscription in CustomersDot
-If the user doesn't see a subscription in CustomersDot:
 
-1. Log into [Salesforce](https://login.salesforce.com/) using the generic
-   email. Password is stored in 1Password.
-1. Using the global navigation search on the top right, enter the email address
-   associated with the purchase
-1. Select the appropriate account (note that Type = Customer)
-1. Copy the SFDC Account ID from the page's URL to a clipboard _note: this is
-   the number appended to end of the URL after `gitlab.my.salesforce.com/`_
-1. From the Quotes related list, select the Quote record with the proper
-   subscription term and with `Status` = `Sent to Z-Billing`
-1. Copy the `Zuora Account ID` to a clipboard
-1. Log into the [CustomersDot](https://customers.gitlab.com/customers/sign_in)
-   using the generic email. Password is stored in 1Password.
-1. Locate the proper account in the CustomersDot and navigate to the `Edit` page
-1. Enter the `Zuora ID` and `Salesforce Account ID` in the fields and select `Save`
-1. Walk the user through the steps for Associating a group with a subscription
-   noted above
+If the user doesn't see a subscription in CustomersDot, 
+follow the [associating purchases workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html) 
+to give the user access to the subscription.
