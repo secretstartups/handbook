@@ -24,7 +24,7 @@ This page explains the main choices available to you. Some guidelines:
 1. If you need a more complex environment, the following tools can help:
     * [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
     * [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups/-/blob/master/README.md) via local (Virtualbox, VMWare, libvirt) VMs
-1. For K8s Helm installations, we recommend using GKE - see the section below.
+1. For K8s Helm installations, we [recommend using GKE](#gcp-gke-kubernetes-cluster).
 1. If you need to replicate specific cloud provider environments (e.g. for a scaled architecture), see the sections on GCP, AWS and Azure below.
 1. Consider joining the [#spt_testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) to share your own tips and tricks for testing environments.
 
@@ -66,13 +66,34 @@ You're free to create any testing environments that you need in order to perform
 
 ### GCP
 
+GCP resources can belong to different [GCP projects](https://cloud.google.com/storage/docs/projects). There is a number of GCP projects available to you to create your resources in.
+
 #### GitLab Sandbox Cloud for GCP (preferred)
 
-If you need additional flexibility for creating test environments. The [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) allows for creating a personally-owned GCP project. You can do so using the [GCP console](https://console.cloud.google.com/home/dashboard), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud). If you need to replicate any of the [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/), it's recommended that you use the [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit).
+If you need flexibility for creating test environments, the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) allows for creating a personally-owned GCP projects. You can create test resources using the [GCP console](https://console.cloud.google.com/home/dashboard), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud). If you need to replicate any of the [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/), it's recommended that you use the [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit).
 
-**Note:** Please remember to shut down resources that you are no longer using. The personally-owned GCP projects aren't yet making use of the [frugal resources tool](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md#frugal-resources) for automating the shut down of resources created in your own project.
+**Note:** Please remember to shut down resources that you are no longer using.
+We are now using [automation scripts](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/instance-ttl-automation) to shutdown resources over the weekend. To exclude your resources from being shutdown you'll need to add the `instance-ttl-bot-ignore` label to those resrouces.
 
-#### GCP `support-resources` automation (deprecated)
+##### Managing your GCP resources automatically
+
+You can use [Terraform Environments](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#terraform-environments) to automatically manage GCP resources in your personally-owned GCP projects. If you are after a simple Omnibus machine with a runner, select `support-resources-template-v2-########` template. Feel free to also explore other available [Project templates](https://gitlab.com/gitlab-com/infra-standards/project-templates) to deploy [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit) or create a GKE cluster that already has GitLab installed through Helm chart.
+
+Note that these environments are ephemeral.
+
+Check out a [this demo video](https://www.youtube.com/watch?v=aBF-AyQiFfA) for details walk-through.
+
+#### Other GCP Projects
+
+You can use the `support-resources` project to manually create resources in a GCP testing environment alongside the resources created by our [automation tools](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md). As with the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) for GCP - you can manage these manually created resources using the [GCP console](https://console.cloud.google.com/home/dashboard?project=support-resources-c801eb), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud).
+
+**Warning:** You may also have access to the `gitlab-internal` and `gitlab-support` GCP projects. It's strongly recommended that you make use of the `support-resources` project or the GitLab Sandbox Cloud, instead of creating new resources in these projects.
+
+We also have a `support-openshift` project created for the purpose of creating OpenShift clusters for testing the [GitLab Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) and [GitLab Runner Operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator). Reach out to your Support Team colleagues in the [#support-testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) for more details on using this project for shared OpenShift testing.
+
+**Note:** Please remember to shut down or delete any resources that you are no longer using.
+
+##### GCP `support-resources` automation (deprecated)
 
 You can also use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) project to automatically spin up resources. They will appear in the `support-resources` GCP project, which all Support Engineers should have access to as part of their baseline entitlements. If you don't have access to this project, please reach out in the `#support_operations` slack channel for assistance.
 
@@ -94,19 +115,11 @@ There's also a few disadvantages to using the project:
 1. Familiarity with GCP - when using the `Support-Resources` project a lot of the intricacies of using GCP are performed beneath the covers. Having your own GCP projects will expose you to the complexity of setting things up manually or automating that yourself.
 1. Sandbox Cloud is the emerging company standard. For more history and details on the sets of problems it solves, see the [Sandbox Cloud Context and Problem Statement](/handbook/infrastructure-standards/realms/sandbox/#background-context-and-problem-statement)
 
-#### Other GCP Projects
-
-You can use the `support-resources` project to manually create resources in a GCP testing environment alongside the resources created by our [automation tools](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md). As with the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) for GCP - you can manage these manually created resources using the [GCP console](https://console.cloud.google.com/home/dashboard?project=support-resources-c801eb), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud).
-
-**Warning:** You may also have access to the `gitlab-internal` and `gitlab-support` GCP projects. It's strongly recommended that you make use of the `support-resources` project or the GitLab Sandbox Cloud, instead of creating new resources in these projects.
-
-**Note:** Please remember to shut down any manually created that you are no longer using.
-
 #### GCP GKE Kubernetes Cluster
 
-Please use the `support-resources` GCP project or your [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) GCP project to create a GCP Kubernetes (GKE) cluster. If you are using the `support-resources` GCP project you can create a GKE cluster manually from the console or you can use the [Support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master) automation project to streamline your [GKE cluster creation](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master#how-do-i-spin-up-a-gke-cluster) and there's even an option to [create a GKE cluster that already has GitLab installed through helm chart](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master#how-do-i-spin-up-a-gke-cluster-with-gitlab-installed-through-helm-chart).
+Please use your [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) GCP project to create a GCP Kubernetes (GKE) cluster. You can create a GKE cluster manually from the console or you can use the [Support GKE cluster template](https://gitlab.com/gitlab-com/infra-standards/project-templates/support-gke-cluster-template) (for an empty GKE cluster) or  [Support GitLab GKE cluster template](https://gitlab.com/gitlab-com/infra-standards/project-templates/support-gitlab-gke-template) (for a GKE cluster with a Gitlab helm deployment) from your [GitLab Sandbox account(https://gitlabsandbox.cloud/cloud). Click [here](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-create-a-terraform-environment) for more information on spinning up resources with terraform in the GitLab Sandbox. 
 
-**Note:** If you are using GKE to test GitLab Runners, it is recomended to use [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). GitLab Runners required the use of [RBAC roles in GCP](https://cloud.google.com/kubernetes-engine/docs/how-to/role-based-access-control).  The `support-resources` GCP project  does not allow the user enough permision to create the required roles.
+**Note:** If you are using GKE to test GitLab Runners, note that GitLab Runners require the use of [RBAC roles in GCP](https://cloud.google.com/kubernetes-engine/docs/how-to/role-based-access-control). The `support-resources` GCP project  does not allow the user enough permision to create the required roles, but you can do it with your personal [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) GCP project
 
 <details>
 <summary>Open me for instructions on how to manually create GKE on your own project.</summary>
