@@ -87,6 +87,7 @@ When paged, the Incident Managers have the following responsibilities during a S
 1. In the event of an incident which has been triaged and confirmed as a clear Severity 1 impact, notify Infrastructure Leadership via PagerDuty, by typing `/pd trigger` in Slack. In the "Create New Incident" dialog, select "Infrastructure Leadership" as the Impacted Service with a link to the incident in the Description as well as a reminder that Infrastructure Leadership should follow the [process for Infrastructure Leadership Escalation](/handbook/engineering/infrastructure/incident-management/#infrastructure-leadership-escalation). This notification should happen 24/7.
 1. Responsible for posting regular status updates in the `Current Status` section of the incident issue description. These updates should summarize the current customer impact of the incident and actions we are taking to mitigate the incident. This is the most important section of the incident issue, it will be referenced to status page updates, and should provide a summary of the incident and impact that can be understood by the wider community.
 1. Ensure that the incident issue has all of the [required labels](#required-labeling) applied.
+1. Ensure that the incident issue is appropriatly restricted based on [data classification](#incident-data-classification). 
 1. If present, ensure that the `Summary for CMOC notice / Exec summary` in the incident description is filled out as soon as possible.
 1. Ensure that all corrective actions, investigations or followups have corresponding issues created and associated to the incident issue.
 1. Ensuring that the Timeline section of the incident is accurate.
@@ -455,6 +456,17 @@ Incident Managers and Engineers On-Call can use the following table as a guide f
 
 1. Alerts severities do not necessarily determine incident severities. A single incident can trigger a number of alerts at various severities, but the determination of the incident's severity is driven by the above definitions.
 1. Over time, we aim to automate the determination of an incident's severity through service-level monitoring that can aggregate individual alerts against specific SLOs.
+
+## Incident Data Classification
+
+There are four data classification levels defined in GitLab's [Data Classification Standard](/handbook/engineering/security/data-classification-standard.html#data-classification-levels).
+
+- RED data should never be included in incident issues, even if the issue is confidential.
+- ORANGE and YELLOW data can be included and the Incident Manager managing the incident should ensure the incident issue is marked as confidential or is in an internal note.
+
+The Incident Manager should exercise caution and their best judgement, in general we prefer to use internal notes instead of marking an entire issue confidential if possible.
+A couple lines of non-descript log data may not represent a data security concern, but a larger set of log, query, or other data must have more restrictive access.
+If assistance is required follow the [Infrastructure Leadership Escalation process](#infrastructure-leadership-escalation).
 
 ## Incident Workflow
 
