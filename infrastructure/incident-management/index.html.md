@@ -82,6 +82,8 @@ These definitions imply several on-call rotations for the different roles. Note 
 
 #### Incident Manager (IM)
 
+_For general information about how shifts are scheduled and common scenarios about what to do when you have PTO or need coverage, see the [Incident Manager onboarding documentation](/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/#questions-about-becoming-an-incident-manager)._
+
 When paged, the Incident Managers have the following responsibilities during a Sev1 or Sev2 incident and should be engaged on these tasks immediately when an incident is declared:
 
 1. In the event of an incident which has been triaged and confirmed as a clear Severity 1 impact, notify Infrastructure Leadership via PagerDuty, by typing `/pd trigger` in Slack. In the "Create New Incident" dialog, select "Infrastructure Leadership" as the Impacted Service with a link to the incident in the Description as well as a reminder that Infrastructure Leadership should follow the [process for Infrastructure Leadership Escalation](/handbook/engineering/infrastructure/incident-management/#infrastructure-leadership-escalation). This notification should happen 24/7.
