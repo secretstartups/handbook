@@ -153,7 +153,7 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 * [ ] [Email Invitation Issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-email-invite) - for tier 1 events only - Corp DRI creates one for single invitation, assigns to Corp DRI, Lifecycle Marketing DRI, and follows instructions in issue
 * [ ] [Add to blog newsletter issue]() - for tier 1 events only - Corp DRI creates one for tier 1 events, assigns to Blog team (@sgittlen)
 * [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-email-followup) - Corp DRI creates, assigns to Corp DRI, Lifecycle Marketing DRI, and follows instruction in issue
-* [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - Corp DRI creates, follow instructions in issue
+* [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=event-clean-upload-list) - Corp DRI creates, follow instructions in issue
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - Corp DRI creates, assigns to Corp DRI
 * [ ] Optional - use only if target list is not requested on Email Invitation Issue or if a complex list is required: [Request target audience for email send](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-target-list) - Corp DRI creates, follow instructions on issue
 
