@@ -297,6 +297,7 @@ These will be completed by Marketing Ops when setting up the landing page.
   * `{{my.valueStatement}}` token with the short value statement on what the viewer gains from the webcast, this ties into the follow up emails and must meet the max/min requirements of the [character limit checker](https://docs.google.com/spreadsheets/d/13APTi8qTeFmvGcURrp9ywvl3zTxWU2cQ_ePX9S81Fao/edit#gid=1092923472)
   * `{{my.webcastDescription}}` - 2-3 sentences with approved character limits, this will show up in page previews on social and be used in YouTube and Pathfactory description.
   * `{{my.webcastSubtitle}}` token with subtitle for the webcast.
+   * `{{my.reply email}}` - enter the email address that cancellations and questions should be sent to. This is typically the regional FM email address. This token is used in the confirmation email.
 
 ### Step 3.B: Turn on Smart Campaigns in Marketo
 **DRI: FMC**
@@ -309,10 +310,12 @@ These will be completed by Marketing Ops when setting up the landing page.
 
 * Make sure all tokens are completed from [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#marketing-ops-tokens). 
 * When you clone the webcast template, and update the Marketo tokens, your landing page is almost ready to go!
+* For virtual workshops, adjust the {{my.requirementsInPerson}} or {{my.requirementsVirtual}} token on the landing page based on how the workshop is being delivered. No changes are required in the token itself.
   * Under "Assets" right-click on `Registration Page` and hover over `URL Tools` > `Edit URL Settings`
   * Use the format `webcast-topic` (or `webcast-topic-region` if region is relevant) - ex. `webcast-mastering-cicd` or `webcast-mastering-cicd-italian`
 * Complete the same steps for the `Thank You Page`
   * Use the format `webcast-topic-thank-you` (or `webcast-topic-region-thank-you` if region is relevant) - ex. `webcast-mastering-cicd-thank-you` or `webcast-mastering-cicd-italian-thank-you`
+
 
 ##### Adjusting number of speakers in Marketo landing page
 **DRI: Marketing Ops**
@@ -653,6 +656,7 @@ This includes the program, SFDC, Zoom, landing pages, and emails as they are tem
     * [Project/Program Management Workshop program template](https://app-ab13.marketo.com/#ME6536A1)
     * [Advanced CI/CD Workshop program template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6807A1)
     * [Jenkins Workshop program template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1)
+    * [GitLab GitOps Workshop program template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME14657A1)
 1. Complete the rest of the steps as outlined in the [webcast setup instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-2-set-up-the-webcast-in-marketosfdc-and-integrate-to-zoom). Note there are more tokens to complete for the workshop and details for each are contained in the token value area.
 
 #### Test Your Setup
