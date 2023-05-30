@@ -21,6 +21,12 @@ to determine what organization contact changes are required on Zendesk Global.
 
 It will then perform a sync with the needed changes.
 
+Depending on the results, a badge will be added to the project. This is to help
+the project developers know the current status of the sync.
+
+![Success badge](https://img.shields.io/badge/Sync%20Status-Success-green)
+![Failure badge](https://img.shields.io/badge/Sync%20Status-Failed-red)
+
 ## How do we set this up
 
 These are setup via several stages that all work together to reflect a complete
