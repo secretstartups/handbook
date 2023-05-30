@@ -19,7 +19,7 @@ This page captures information about transfers, promotions, realignments and car
 
 ## Definitions
 
-- **In-Line Promotions** occur when a team member increases in level within the same job family. For example, a Backend Engineer is promoted to a Senior Backend Engineer. Similarly, a Senior Backend Engineer would receive an in-line promotion by moving to a Staff Backend Engineer or Manager, Engineering.  This process is managed by the PBP and the functional leadership team and referred to as the Calibrated Promotion Process which is performed on a cyclical basis (quarterly or semi-annually).  
+- **In-Line Promotions** occur when a team member increases in level within the same job family. For example, a Backend Engineer is promoted to a Senior Backend Engineer. Similarly, a Senior Backend Engineer would receive an in-line promotion by moving to a Staff Backend Engineer or Manager, Engineering.  This process is managed by the PBP and the functional leadership team and referred to as the Calibrated Promotion Process which is performed on a cyclical basis (twice per year).  
 - **Promotions** occur when a team member increases in level while also changing job families. For example, a Backend Engineer transfers to a Sr. Site Reliability Engineer.  Generally these occur based on an open requisition and application process via Greenhouse. 
 - **Transfers** occur when a team member changes positions but does not increase in level. For example, a Backend Engineer would transfer to a Site Reliability Engineer. Generally these happen based on an open requisition and application process via Greenhouse. 
 - **Change in specialty** has no impact on the job level or family and is therefore not considered a promotion or a transfer. For example, a Backend Engineer with a specialty Plan: Knowledge that will change specialty to Create:Source Code.
@@ -125,7 +125,7 @@ _Please note that the Calibration timeline for Senior Director+ promotions will 
 
 ## Planning
 
-Quarterly Promotion Planning is generally done via spreadsheets to maintain confidentiality and enable collaboration across department leaders where appropriate. Prior to the Planning phase in the timeline above, People Business Partners will make sure the spreadsheets are up to date before going into the Calibration phase. 
+Promotion Planning is generally done via spreadsheets to maintain confidentiality and enable collaboration across department leaders where appropriate. Prior to the Planning phase in the timeline above, People Business Partners will make sure the spreadsheets are up to date before going into the Calibration phase. 
 
 ### Promotion Document
 
@@ -198,25 +198,25 @@ GitLab targets an average of [5-10% compensation change](/handbook/people-group/
 
 ##### Budget Impact (see below) 
 
-FP&A tracks budget impact by Department/Division on a quarterly basis.
+FP&A tracks budget impact by Department/Division twice per year.
 
 ### Promotion Budget
 
-Promotion budget is held at the division leader level, and optionally scaled down to department heads on a quarterly basis depending on department size. Decision to scale budget  down is at the division leader's discretion.
+Promotion budget is held at the division leader level, and optionally scaled down to department heads twice per year depending on department size. Decision to scale budget  down is at the division leader's discretion.
 
-Please review the [Compensation Program Budget](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to understand how the quarterly promotion budget is allocated and the process to review potential tradeoffs if divisions/departments are over/under budget for any given quarter. 
+Please review the [Compensation Program Budget](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to understand how the promotion budget is allocated and the process to review potential tradeoffs if divisions/departments are over/under budget for any given quarter. 
 
-## Promotions Processed Outside of the Quarterly Promotion Calibration Process 
+## Promotions Processed Outside of the Twice Per Year Promotion Calibration Process 
 
-Certain types of promotions can be handled outside of the Quarterly Promotion Calibration process:
+Certain types of promotions can be handled outside of the Twice Per Year Promotion Calibration process:
 1. Application to a new, approved headcount in Greenhouse: 
     - Internal candidates go through an interview process as defined further in the Greenhouse Promotions/Transfers section.
 2. Promotions stemming from individuals in [interim/acting roles](/handbook/people-group/promotions-transfers/#interim-and-acting-roles).
-3. Exceptions that are outside of the quarterly process and not aligned with any of the types listed above.
+3. Exceptions that are outside of the twice per year process and not aligned with any of the types listed above.
 
 ### How to Process an Exception: Submitting an out-of-cycle Promotion request in Workday
 
-For exceptional situations where a promotion is not handled through the quarterly promotion calibration process or via an open requisition in Greenhouse, managers can work with their People Business Partner to submit promotions through Workday. Managers should reach out to their PBP via email and  include a promotion document, justification for the exception,  and next level manager approval for any compensation increase recommendations above 10%. Once the People Business Partner approves an exception, the promotion can be processed and the People Business Partner can submit the promotion in Workday.  See the [Workday Guide](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit) for help with submitting the changes.
+For exceptional situations where a promotion is not handled through the twice per year promotion calibration process or via an open requisition in Greenhouse, managers can work with their People Business Partner to submit promotions through Workday. Managers should reach out to their PBP via email and  include a promotion document, justification for the exception,  and next level manager approval for any compensation increase recommendations above 10%. Once the People Business Partner approves an exception, the promotion can be processed and the People Business Partner can submit the promotion in Workday.  See the [Workday Guide](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit) for help with submitting the changes.
 
 #### Exception Approvals
 
@@ -239,7 +239,7 @@ The following types of promotions/transfers can be processed through Greenhouse:
 - Lateral Transfers to a different job family: apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
     - Example: Backend Engineer applies to a Site Reliability Engineering role.
 - Change in territory, segment, or specialty that requires a change in job family or level, change in compensation or stock adjustment or requires a backfill request: Apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
-- Promotions or Applications to Manager level roles: Any Manager role should be opened via Greenhouse for team members to apply unless the manager role is not a net new headcount but a continuation of someone's career progression. If it is a continuation of career progression, it can be processed via Workday but will need to be calibrated as a part of the Quarterly Promotion cycle. This could for example apply if there's not a significant change in scope, or the team member has been identified and there are no other qualified candidates for that role. Whether an interim period should apply for the promotion when there's not a significant change of scope, will be determined by the manager, Department Head and People Business Partner for that group. 
+- Promotions or Applications to Manager level roles: Any Manager role should be opened via Greenhouse for team members to apply unless the manager role is not a net new headcount but a continuation of someone's career progression. If it is a continuation of career progression, it can be processed via Workday but will need to be calibrated as a part of the Twice Per Year Promotion cycle. This could for example apply if there's not a significant change in scope, or the team member has been identified and there are no other qualified candidates for that role. Whether an interim period should apply for the promotion when there's not a significant change of scope, will be determined by the manager, Department Head and People Business Partner for that group. 
 
 #### Greenhouse Process Requirements
 
@@ -263,8 +263,8 @@ The [justification document](https://docs.google.com/document/d/1feA04oVpXYa1QWA
  
 ## Process for Managers: Requesting a Promotion
 
-1. Determine whether the promotion change should be processed through the [quarterly promotion cycle](/handbook/people-group/promotions-transfers/#quarterly-promotion-calibration-process--timeline) or through [Greenhouse](/handbook/people-group/promotions-transfers/#promotions-processed-outside-of-the-quarterly-promotion-calibration-process)  
-1. If proceeding with the [quarterly promotion cycle](/handbook/people-group/promotions-transfers/#quarterly-promotion-calibration-process--timeline), work with your People Business Partner and Leadership to recommend the promotion ahead of the [planning process](/handbook/people-group/promotions-transfers/#planning) so the team member included in planning and calibrations. Ensure the [Promotion or Compensation Change Document](/handbook/people-group/promotions-transfers/#promotion-document) has been created at this time.
+1. Determine whether the promotion change should be processed through the [twice per year promotion cycle](/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline) or through [Greenhouse](/handbook/people-group/promotions-transfers/#promotions-processed-outside-of-the-bi-annual-promotion-calibration-process)  
+1. If proceeding with the [twice per year promotion cycle](/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline), work with your People Business Partner and Leadership to recommend the promotion ahead of the [planning process](/handbook/people-group/promotions-transfers/#planning) so the team member included in planning and calibrations. Ensure the [Promotion or Compensation Change Document](/handbook/people-group/promotions-transfers/#promotion-document) has been created at this time.
    - If the team member you are recommending a promotion for is director or above, please refer to the [promotions to director and above](/handbook/people-group/promotions-transfers/#promotions-to-director-and-above).
 1. If the promotion/compensation change should be processed through Greenhouse, please follow the steps outlined in the [Greenhouse Promotions/Transfers Process section](/handbook/people-group/promotions-transfers/#greenhouse-promotions-transfer-process).
 1. If the promotion is considered an exception, please follow the steps outlined in the [How to Process an Exception: Submitting an out-of-cycle Promotion request in Workday](/handbook/people-group/promotions-transfers/#how-to-process-an-exception-submitting-an-out-of-cycle-promotion-request-in-workday).
