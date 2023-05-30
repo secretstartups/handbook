@@ -46,7 +46,7 @@ review the
 [Support Readiness documentation](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
 for more information.
 
-### Customer Ticket Generator (Currently under review)
+### Customer Ticket Generator (Deprecated)
 
 The [Customer Ticket Generator](https://gitlab-com.gitlab.io/support/support-ops/forms/customer-ticket-generator/) is a form that can be used to send multiple tickets out at once. Once the form is submitted, an issue will be created in the [customer ticket generator tracker](https://gitlab.com/gitlab-com/support/support-ops/forms/customer-ticket-generator) where a member of SupportOps will then run it. This can also be used in conjunction with the [Email Grab Script](#email-grab-script), whose output can be provided as the CSV for the form.
 
