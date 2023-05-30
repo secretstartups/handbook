@@ -22,7 +22,7 @@ The Regional Manager, Professional Services reports into the Director, Professio
 
 ### Responsibilities
 
-- Ensure the Professional Services Project Managers exceed expectations in completing projects successfully while Meeting revenue targets and delivering business outcomes with a high level of customer satisfaction
+- Ensure the Professional Services Project Managers exceed expectations in completing projects successfully while meeting revenue targets and delivering business outcomes with a high level of customer satisfaction
 - Work with the Professional Services Director to help establish and manage goals and responsibilities for Professional Services Engineers
 - Assist in development of thought leadership, event-specific, and customer-facing presentations
 - Share hands-on technical preparation and presentation work for key accounts helping sell on the value of what GitLab professional services has to offer
@@ -45,7 +45,7 @@ The Regional Manager, Professional Services reports into the Director, Professio
 
 ### Requirements
 
-All requirements for the Professional Services Engineer role apply to the Manager, Professional Services role, as the management role will need to understand and participate with the day-to-day aspects of the Professional Services Engineer role in addition to managing the team. Additional requirements include:
+The Manager, Professional Services role, requires a high level of technical depth as this role will need to understand and participate with the day-to-day aspects of the Professional Services Engineer and Technical Architect roles in addition to managing the team. Additional requirements include:
 
 - Experienced in and with advanced insight to the GitLab platform
 - Experienced in giving and received positive and constructive feedback
@@ -100,8 +100,6 @@ The Senior Manager, Professional Services reports into the Director, Professiona
 - Ability to travel up to 20%
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
-
-<%= partial("job-families/sales/performance", :locals => { :roleName => "Director of Professional Services" }) %>
 
 ## Senior Director of Professional Services
 
