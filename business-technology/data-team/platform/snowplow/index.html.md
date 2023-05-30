@@ -14,7 +14,34 @@ description: Snowplow Infrastructure Management
 
 Snowplow is an open source, event analytics platform. There is a business entity that runs SaaS for Snowplow and they also maintain the code for the open source product. The general [architecture overview of snowplow is on GitHub](https://github.com/snowplow/snowplow/#snowplow-technology-101) and has more detail on the basics of how it works and how it is set up.
 
-In June of 2019, we switched sending Snowplow events from a third party to sending them to infrastructure managed by GitLab, documented on this page. From the perspective of the data team, not much changed from the third party implementation. Events are sent through the collector and enricher and dumped to S3.
+In `June of 2019`, we switched sending Snowplow events from a third party to sending them to infrastructure managed by GitLab, documented on this page. From the perspective of the data team, not much changed from the third party implementation. Events are sent through the collector and enricher and dumped to S3.
+
+#### Snowplow - adding new `app_id`
+
+When new application should be tracked by `Snowplow` here is the few things should be considered.
+
+![](images/new_app_id.png)
+
+The right `app_id`, and collector URL should be done in coordination with the data team. 
+URL wil stay the same `snowplow.trx.gitlab.net`. Any `app_id` is fine if there are no other concerns around enabling tracking on `CustomersPortal` staging as well.
+
+> **Note:** Any un-expected events _(with wrong app_id)_ are normally dropped.
+
+The only model with app_id filtering is [snowplow_base_events](https://dbt.gitlabdata.com/#!/model/model.snowplow.snowplow_base_events). That model flows downstream to the page view models:
+
+```mermaid
+flowchart LR
+SPBE[snowplow_base_events] --> SPWE[snowplow_web_events]
+SPWE --> snowplow_page_views
+snowplow_page_views --> common_prep.prep_snowplow_page_views_all
+common_prep.prep_snowplow_page_views_all --> common.fct_behaviour_website_page_views
+snowplow_page_views --> legacy.snowplow_page_views_*
+```
+
+In order to add a new `app_id` to [snowplow_base_events](https://dbt.gitlabdata.com/#!/model/model.snowplow.snowplow_base_events) _(and downstream page view models)_, the `snowplow:app_ids`
+variable in the dbt package must be updated. Those values are set in the `dbt_project.yml`
+file. As an example, [here is an issue](https://gitlab.com/gitlab-data/analytics/-/issues/16552) to update the variable.
+
 
 #### GitLab Implementation
 
