@@ -314,10 +314,11 @@ At GitLab, we want to drive customer results through focusing on platform enhanc
 
 ##### Dogfooding
 
-1. We [use our own product](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
-Our development organization uses GitLab.com to manage the DevOps lifecycle of GitLab itself.
+We [use our own product](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) in the way our users do to surface improvements that will lead to better [customer results](#customer-results).
+
+1. Our development organization uses GitLab.com to manage the DevOps lifecycle of GitLab itself.
 1. Our entire company uses GitLab to collaborate on this handbook.
-We also capture other content and processes in Git repos and manage them with GitLab.
+1. We capture content and processes in Git repos and manage them with GitLab.
 1. When something breaks, doesn't work well, or needs improvement, we are more likely to notice it internally and address it before it impacts our larger community.
 
 ##### Give agency
