@@ -3,13 +3,16 @@ layout: handbook-page-toc
 title: Working With GitLab Support
 description: How GitLab team members can work with and best ways to contact Support.
 ---
+## On this page
+
+- TOC
+{:toc}
+
+{::options parse_block_html="true" /}
 
 ## Overview
 
 The purpose of this page is to direct GitLab team members outside of Support on what GitLab Support does, how to get in contact with us, and where to direct common requests that require our involvement. **Are you a customer looking for technical support? If so, please visit the [Support Page](/support/) instead.**
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Quick reference
 
@@ -136,11 +139,68 @@ You can request Support to contact GitLab.com users on your behalf. Here are som
 
 ### Internal Requests
 
-All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). For internal requests, our SLO aligns with our SLA with customers for
-[questions about licensing](https://about.gitlab.com/support/#have-questions-about-billing-purchasing-subscriptions-or-licenses),
-which is that "GitLab Support will respond within 8 hours on business days (24x5)".
+All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
 
-A list of common scenarios and the appropriate option are detailed in the following table. Some of the scenarios contain a useful walkthrough YouTube video. for example `Extend an (almost) expired subscription`and `Strict Cloud licensing exemption request` , please note that a GitLab unfiltered account is required to view the videos.
+#### Internal Request SLO
+
+<details><summary markdown='span'>Click for details</summary>
+
+For internal requests, our SLO varies depending on the selected `Priority` for the ticket. Please select the appropriate priority for each request, using the following information as your guide:
+
+**Urgent**
+* SLO: 1 hour
+* Criteria: service loss
+* Common Scenarios:
+  * SaaS group downgraded
+  * SM license expired and grace period exhausted
+
+**High**
+* SLO: 4 hours
+* Criteria: time sensitive tasks
+* Common Scenarios:
+  * Customer will lose SaaS service today
+  * SM license grace period will end today
+
+**Normal**
+* SLO: 8 hours
+* Common Scenarios:
+  * SaaS namespace association
+  * SM license troubleshooting
+  * Purchasing problems resulting in blockage such as:
+    * CI minutes fully exhausted
+    * SaaS storage is inaccessible because a project is locked
+    * SM renewal period is ending and the customer is facing a purchasing error or problem
+
+**Low**
+* SLO: 24 hours
+* Common Scenarios:
+  * Purchasing problems with no immediate blockage, e.g. several days are available for resolution
+  * Contact management
+  * Account management
+  * Request to contact sales
+  * Pass to billing/AR
+  * Reset max seats
+  * Order Management tickets
+  * Cloud license exemption, resend license, forward license
+    * Unless customer is fully blocked / previous license fully expired
+  * Trials (start / extend)
+    * Requests from sales to increase CI quota / storage quota
+  * QSR / billable users disputes or request for more info
+  * Educational, product / process questions
+  * Community / NFR licenses or subscriptions
+  * Non-customers
+
+All of the SLOs apply to business days (24x5) only.
+
+</details>
+
+---
+
+#### Common Internal Request Scenarios
+
+<details><summary markdown='span'>Click for details</summary>
+
+A list of common scenarios and the appropriate option are detailed in the following table. Some of the scenarios contain a useful walkthrough YouTube video. For example `Extend an (almost) expired subscription` and `Strict Cloud licensing exemption request` , please note that a GitLab unfiltered account is required to view the videos.
 
 > - **NOTE**: Support cannot start a new trial. If one is needed, *have the user initiate a normal trial first*.
 > - **NOTE**: Support requires a single license or subscription request per ticket. If a provided license does not work, or you require a further extension, then please submit a new ticket. All internal L&R tickets must have a 1 to 1 relationship with the generated license or subscription, for audit/reporting reasons.
@@ -185,6 +245,10 @@ Please consider the following:
 #### Obtaining Proof of Delivery for a Subscription
 
 A copy of the license email sent to the customer is automatically logged under the `Activity History` of the `Sold To Contact` in SFDC when a subscription is created. Note that this will be a replica of the email the customer receives, but with the actual license key/activation code removed for compliance purposes. The subject line will begin with `[GitLab Transactions]`.
+
+</details>
+
+---
 
 ### US Federal Internal Requests
 
