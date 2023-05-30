@@ -86,9 +86,13 @@ As partner leads are [suspended](/handbook/marketing/channel-marketing/partner-c
 
 #### SaaS Free Trial
 
-Partners can use the SaaS free trial submission via GitLab.com. They will have a specific UTM parameter that is captured upon form submit that allows us to pass that lead directly to the partner. Below explains the backend for the activity. Each page must have the UTM `glm_source` and `glm_content` in the URL populated, otherwise we cannot pass to the partner.  
+Partners can use the SaaS free trial submission via GitLab.com. They will have a specific UTM parameter that is captured upon form submit that allows us to pass that lead directly to the partner. Below explains the backend for the activity. 
 
-**NOTE:** `glm source` should always be equal to `partner` and `glm_content` will be equal to the `CRM Partner ID` associated with the partner account.
+Each page must have the UTMs in the URL :
+- `glm_source` and `glm_content` to pass to the partner
+- `utm_source` to track online touchpoints 
+
+**NOTE:** `glm source` and `utm_source` should always be equal to `partner` and `glm_content` will be equal to the `CRM Partner ID` associated with the partner account.
 
 1. Form is hosted on GitLab.com. 
 1. Once submitted, Marketo then appends that value `Vartopia Partner Account` fields.
