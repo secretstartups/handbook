@@ -53,7 +53,7 @@ FY24 Yearlies and additional detail can be found by searching for the "FY24 Year
     1. XFN *Ship AI features*. Make GitLab (the application) smarter by shipping 16 AI/ML-assisted features and workflows across developer, security, and operations personas per quarter 
     1. XFN *Continue to win against GitHub*. This includes product positioning, R&D priorities, marketing messaging and field readiness. It also includes AI messaging to support GitLab’s “AI in all we do” focus
     1. Own AI thought leadership. Deliver 15 customer value stories with clear ROI outlined and promote customers through 2 monthly releases (blog or other medium) per month of leader at customer doing great work with GitLab
-    1. Have 10M code suggestion users
+    1. Have 1M [Code Suggestion](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html) users
     1. Rollout monetization approach for AI 
 1. Reduce churn and contraction by delivering predictable high value to customers
     1. Reduce churn and contraction to half of the ATR as compared to FY23-Q4
