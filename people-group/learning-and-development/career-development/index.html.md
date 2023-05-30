@@ -268,7 +268,7 @@ Managers should support their direct reports with their professional development
 1. Encourage team members to create an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) or use [Gitlab Epics to track their career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development).
 1. Utilize the [Growth & Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/).
 1. Recommend (and model) blocking [time to learn during the work week](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign).
-1. Organize team specific and cross-functional learning communities to practice [social learning.](/handbook/people-group/learning-and-development/learning-initiatives/#social-learning-through-live-learning).
+1. Organize team specific and cross-functional learning communities to practice [social learning](/handbook/people-group/learning-and-development/learning-initiatives/#social-learning-through-live-learning).
 1. Model and share your own career and professional development pursuits.
 1. Create a [Learning Hub](/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team) in Level Up with curated learning material for your team from LinkedIn Learing, the Handbook, and other external resources.
 
