@@ -1277,7 +1277,7 @@ If a customer requires POs, they will typically reject any invoice sent to them 
 
 **What if "PO Required" = "YES," and the customer has provided a PO number but not a PO document?**
 
-1. If the customer provides a PO number, but not a PO document, please attach the confirmation email (containing the PO number and stating that there is no PO document issued) to the opportunity. If all other booking requirements are met, the opportunity will be closed. 
+1. If the customer provides a PO number, but not a PO document, please attach the confirmation email (containing the PO number and stating that there will be no PO document issued) to the opportunity. If all other booking requirements are met, the opportunity will be closed. If the customer intends to issue a PO document, see the question and answer below.
 
 **What if the customer requires a PO and the PO is delayed, but all other booking requirements are met?**
 
