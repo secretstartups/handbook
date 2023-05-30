@@ -646,7 +646,10 @@ The maintenance task has to be completed in the first week of every month. To do
 
 If for any reason the API Key needs to be rotated it needs to be rotated in the following places:
 
+- The Periscope API Key in the Data Team Secure vault
 - [The Handbook Project](https://gitlab.com/gitlab-com/www-gitlab-com/)
+- [The Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io)
+  - _you will need maintainer access, or help from a maintainer to do this_
 - [The KPI Slides Project](https://gitlab.com/gitlab-com/kpi-slides/)
 
 Team members who work on the performance indicators page generation code will also need it, since they need it to be able to build the pages locally.
