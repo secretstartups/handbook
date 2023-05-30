@@ -464,7 +464,10 @@ If this is to set up a program that involves a channel partner, you must also fo
 - For live events, be sure to update the `reply email` token. This is used in the confirmation email. You need to add the correct email address for cancellations or special accomodations, and update the subject to something descriptive. Keep the `%20` between each word in the subject so the subject populates correctly.
 
 ### Step 4a: Activate Marketo smart campaign(s)
-* If this is a `Vendor Arranged Meeting` skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
+* If this is a `Vendor Arranged Meeting`:
+     * Click the `Smart Campaigns` folder
+     * Select the `01 Interesting Moments` smart campaign
+          * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign 
 * If this is `Self-Service with Promotion` or `Speaking Session` follow the below activation instructions:
      * Click the `Smart Campaigns` folder
      * Select the `01a Registration Flow` smart campaign
