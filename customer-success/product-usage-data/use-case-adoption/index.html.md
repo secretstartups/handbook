@@ -87,13 +87,13 @@ Adoption timeline: 1 months after license purchase
 
 |                       | **Red** | **Yellow** | **Green** |
 | --------------------- | ------- | ---------- | --------  |
-| [Git Operations - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216182040_action_monthly_active_users_project_repo.yml) / `Licensed Users` | < 25%    | ≥ 25 - < 50%     | ≥ 50%    |
+| [Git Operations - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216182040_action_monthly_active_users_project_repo.yml) / `Billable Users` | < 25%    | ≥ 25 - < 50%     | ≥ 50%    |
 
-This looks to all active users who performed any `Git operation` (read/write/push) / `Licensed Users` 
+This looks to all active users who performed any `Git operation` (read/write/push) / `Billable Users` 
 
 ##### **Green Adoption Criteria:** 
 
-When 50% or more of `Licensed Users` have performed a `Git Operation` (read/write/push) in the last 28 days, then SCM is considered adopted.
+When 50% or more of `Billable Users` have performed a `Git Operation` (read/write/push) in the last 28 days, then SCM is considered adopted.
 
 ### Continuous Integration (CI)
 
@@ -115,8 +115,8 @@ These Security (DevSecOps) metrics are available for all customers. Adoption tim
 |  | **Red** | **Yellow** | **Green** |
 |---|---|---|---|
 | Secure Scanner Utilization % ([Secure Scanners - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216181956_user_unique_users_all_secure_scanners.yml) / `Billable Users`) | ≤ 5% | > 5% - < 20% | ≥ 20% |
-| Container Scanning Jobs Utilization % ([Container Scanning Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216175505_user_container_scanning_jobs.yml) / Licenses Sold) | ≤ 3% | > 3% - < 10% | ≥ 10% |
-| Secret Detection Jobs Utilization % ([Secret Detection Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216182127_user_secret_detection_jobs.yml) / Licenses Sold) | ≤ 6% | > 6% - < 20% | ≥ 20% |
+| Container Scanning Jobs Utilization % ([Container Scanning Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216175505_user_container_scanning_jobs.yml) / `Billable Users`) | ≤ 3% | > 3% - < 10% | ≥ 10% |
+| Secret Detection Jobs Utilization % ([Secret Detection Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216182127_user_secret_detection_jobs.yml) / `Billable Users`) | ≤ 6% | > 6% - < 20% | ≥ 20% |
 
 ##### **Green Adoption Criteria:**
 
@@ -129,8 +129,8 @@ Adoption timeline: 1 months after license purchase
 
 |                    | **Red** | **Yellow** | **Green** |
 | ------------------ | ------- | ---------- | --------  |
-| User Deployments Utilization % ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) / Billable Users) | < 5%    | 5-12%     | > 12%    |
-| Deployments Per User L28D ([Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) / Billable Users) | < 2 | 2 - 7 | > 7 |
+| User Deployments Utilization % ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) / `Billable Users`) | < 5%    | 5-12%     | > 12%    |
+| Deployments Per User L28D ([Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) / `Billable Users`) | < 2 | 2 - 7 | > 7 |
 | Successful Deployments % ([Successful Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181923_successful_deployments.yml) / (Successful Deployments - L28D + [Failed Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181924_failed_deployments.yml))) | < 25% | 25% - 80% | > 80% |
 
 ##### **Green Adoption Criteria:**
