@@ -33,13 +33,12 @@ _Please go with bias for action to add updates to this handbook page as the Web 
 
 This video covers:
 - Editing the marketing handbook as example
-- `View source` action with the single file editor, creating a merge request, telling title and description, labels, assignees and reviewers.
-- `Edit in Web IDE` action using the Web IDE, overview walkthrough, editing the handbook, again creating a merge request with the same actions. 
+- `Edit this page` action using the Web IDE, overview walkthrough, editing the handbook, again creating a merge request with the same actions. 
 - Practical handbook edit tips showning this handbook. 
 
 ### Web IDE editing steps 
 
-1. Navigate to the handbook page you want to edit. At the bottom, or on the right, click on the URL `Edit in Web IDE` to open the new Web IDE. 
+1. Navigate to the handbook page you want to edit. At the bottom, or on the right, click on the URL `Edit this page` to open the new Web IDE. 
     - Alternatively, open the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project and select `Web IDE` from the edit actions. This requires you to navigate into the source tree where the handbook files are located. 
 
    ![Handbook page at the bottom, action: Edit in Web IDE](/images/handbook/editing/practical_handbook_edits_web_ide_vs_code_bottom_handbook_action.png)
