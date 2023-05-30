@@ -93,7 +93,7 @@ Starting from `2022-06-13` the Support Team and the Development Team are rolling
 The easiest way to determine the correct place for a Support Request for Help issue is to use the docs pages. One possible workflow is as follows:
 
 1. Locate a documentation page for the feature or topic on which you need help.
-1. Scroll down to the bottom of the page and click on either the "View page source" or "Edit in Web IDE" link.
+1. Scroll down to the bottom of the page and click on either the "Edit this page" link.
 1. This will open up the `.md` source file of that docs page, which contains both the `stage` and `group` responsible for it noted on the top.
 1. Now go to the [Product Categories handbook page](https://about.gitlab.com/handbook/product/categories/) and search for the Development Section to which the group identified on the previous step belongs to.
 1. Use the table and workflow below to create a Request for Help issue in the project identified above. 
