@@ -44,6 +44,8 @@ Below is some more information to help you get set up with your [Navan](https://
 
 All flights need to be booked through [Navan](https://tripactions.com) (Business related flights), the costs will be added to the GitLab invoice and **no credit card is needed**. Please note that all business related flights will not have the option to pay with a personal credit card. Also to note that while it is possible to find a cheaper flight outside of Navan, we get overall better rates in the aggregate with the buying power of the whole company. Flights should not exceed $1K USD (or local currency equivalent) per team member per month for economy class, with a booking lead time of 7 days to be within policy.  The exception is for the Sales teams, in which flights should not exceed $3K (or local currency equivalent) per team member per month.  Please note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team.  If booked within Navan and is flagged as “Out of Policy”, please also refer to the "Booking shows Out of Policy" section below.
 
+Team members should book Economy class and they must obtain email pre-approval to fly any class other than economy.
+
 **Hotels and Cars**
 
 If you book Hotels and/or Cars through Navan Travel, the costs will need to be charged to a personal credit card. For business related bookings, you can submit the costs for reimbursement via the Navan Expense reimbursement tool.  Hotel stays are reimbursable up to $300 USD (or equivalent local currency) inclusive of tax per night for standard rooms, with a 7 day booking lead time.  Always choose the refundable room booking unless the only available option is a non refundable room.  The exception is the Corporate Events hotel room blocks organized by the internal team or if the conference hotel room block has better pricing than Navan. The hotel room block's pricing is generally withn the boundds of the $300USD/night and in the event it is over that amount, please contact the AP team for an exception to be granted. Conference hotel room blocks or Corporate Events organized blocks will still need to be charged to a personal credit card and then submitted for reimbursement via Navan Expense. Rental Cars are reimbursable for the intermediate car class, with a 7 day booking lead time.  Please note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team.  If booked within Navan and is flagged as “Out of Policy”, please also refer to the "Booking shows Out of Policy" section below.
@@ -127,17 +129,13 @@ Please read through these FAQ **entirely**.
 
 #### FAQ about travel upgrades
 
-1. If you exceed `193.6cm` or `6'4"` in height (i.e. you exceed the [95th percentile height distribution for a male human](https://ourworldindata.org/human-height#height-is-normally-distributed)) you may:
+1. If you exceed 6'5" in height, you may:
     - Expense the full cost for an upgrade to Economy Plus on any flight
     - Expense up to the first [$300 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Business Class on flights longer than 8 hours
 1. If your height does not match the exact cm/inch requirement, and you feel unsafe to travel, you may:
     - Expense up to the first [$100 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Economy Plus on flights longer than 8 hours
     - Reach out to leaves@gitlab.com to request a reasonable accommodation.
 1. GitLab does not cover expenses for significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
-
-> We base eligibility on the 95 percentile because it is a practical figure for capturing outliers without being overly prescriptive and applicable to all travel if we care to flesh out guidance around other forms of transit in the future.
->
-> It is common for manufacturers to design seating that comfortably accommodates only a certain percentage of the population. For example, see [how Herman Miller designs their chairs to accomodate the 95th percentile](https://www.hermanmiller.com/research/categories/white-papers/the-evolution-of-anthropometrics-and-user-control/).
 
 #### Booking shows Out of Policy
 
