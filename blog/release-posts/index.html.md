@@ -439,7 +439,7 @@ You can make changes to the release post after it's live to make edits to featur
 
 To edit a content block:
 
-1. At the bottom of the release post you wish to edit, select "Edit in Web IDE".
+1. At the bottom of the release post you wish to edit, select "Edit this page".
 1. Find and edit the relevant `.yml` file in the correct subdirectory. For example, to add or edit the example Widgets feature to the 14.6 release post, create or edit the `data/release_posts/14_6/widgets_example.yml` in an MR against `master`.
 
    To remove the feature block, remove the file in your MR. Or to announce it in the next release post, move the file to the `data/release_posts/unreleased` folder.
