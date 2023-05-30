@@ -19,6 +19,14 @@ The availability of a feature is closely related with our ability to support the
 
 These guidelines ensure that features in our Production environments can be operated by our Reliability teams to match the expected level of support. 
 
+### Requesting and creating new GCP infrastructure resources
+
+Please use the [Sandbox Cloud GCP Group Project issue template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=gcp_group_account_create_request) to request new resources. After the GCP project is created, it can be configured as needed, this provides initial provisioning and IAM management. This provides basic resources and is available to anyone team-member. 
+
+As we make progress on [Project Runway](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/969), we will encourage development teams to use Runway to provision new resources. Runway projects will include automated configuration and Runway provides many of the Infrastucture Readiness requirements as standard. Using Runway will make it easier and faster to promote new features into a Generally Available state in Production. 
+
+## Feature Availability Support
+
 ### Experiment
 
 1. On-call SRE knows how to disable the feature
