@@ -10,7 +10,7 @@ Please note that all links are GitLab-internal only.
 
 
 ## Insider Trading Policy and Insider Trading Policy FAQ
-- [Insider Trading Policy](https://drive.google.com/file/d/1c2tX4IK3GofrsA6N_i4Sr72hOcI1_g_q/view?usp=sharing)
+- [Insider Trading Policy](https://drive.google.com/file/d/1chE70vX27LA8OK0KvfQ7RMAai_nf3rq7/view)
 - [Insider Trading Policy FAQ](https://docs.google.com/document/d/1vKFiYuieDQtKmrak-aAB2dTT3B3Q-aU4DtbcRm27X4U/edit?usp=sharing)
 
 
