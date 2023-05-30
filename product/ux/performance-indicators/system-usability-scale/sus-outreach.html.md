@@ -53,6 +53,7 @@ Every quarter, we include a question in the SUS survey that asks whether respond
 1. If multiple GitLab team members are on the call, it can be beneficial to debrief immediately afterwards.
 1. Collect all notes that were taken and the link to the Zoom recording (if applicable) and add them to our [SUS Follow-ups folder in the UX Research team Google Drive](https://drive.google.com/drive/folders/1vcCCRVnP3BrpdE9iZN64hqKJK89v6PbJ?usp=sharing).
 1. If you told the user you'd follow up on anything or promised to send them further information, make sure you do so, ideally within two business days.
+1. Add the label 'SUS::Impacting' to any epics/issues that result from or align with feedback from the SUS outreach calls.
 
 
 
