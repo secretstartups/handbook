@@ -25,15 +25,9 @@ Ensure that GitLab is the default when customers buy DevSecOps software.
 
 1. Even easier to buy
     1. [Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/)
-    1. E-commerce experience => [Fulfillment efficiency](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
+    1. [Fulfillment efficiency](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
     1. [Consumption add-ons](https://about.gitlab.com/pricing/)
     1. Sales efficiency
-       1. [LAM as the top metric](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
-       1. Segmentation
-       1. Non-US revenue
-       1. Channel
-       1. Renewals
-       1. [Project Matterhorn--a limited access initiative](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives) 
     1. [Registration features](/direction/registration-initiatives/#registration-features)
 1. Prove value
     1. Advocate Training
@@ -42,13 +36,7 @@ Ensure that GitLab is the default when customers buy DevSecOps software.
     1. [Value Streams Dashboard for Executive](https://gitlab.com/groups/gitlab-org/-/epics/9317) 
 1. Co-create
     1. [Leading Organizations](/handbook/marketing/developer-relations/leading-organizations/)
-      1. Reaching 1000 monthly contributors
-      1. Internal experts at our largest customers
-      1. Ensure customers see it as their own product
     1. [Dogfooding](/handbook/values/#dogfooding)
-      1. [Professional Services](/services/)
-      1. Information technology service management 
-      1. [Service desk](/stages-devops-lifecycle/service-desk/) 
 
 ### 2) Mature the Platform
 Build upon our current platform to meet current and future user needs. 
@@ -57,34 +45,17 @@ Build upon our current platform to meet current and future user needs.
     1. Be a replacement for the [existing Best In Class (BIC) tools](https://about.gitlab.com/devops-tools/) so people can switch from DIY DevOps to a DevSecOps Platform.
     1. [GitHub best in class comparison](/competition/github/) and differentiation 
     1. [Plan](/direction/plan/)
-        1. Provide mature planning solution to Ultimate customers
-        1. Custom fields
-        1. Workflow automation
-        1. Great importers
     1. [Create](/direction/create/)
-        1. Code suggestions 
-        1. Remote Dev 
     1. [Verify](/direction/ops/#verify)
-        1. Build, test, and deployment automation
-        1. Increase speed
-    1. [Ops](/direction/ops)
-        1. Monitor UI library 
-        1. Agent using environments 
-        1. [GitOps](/topics/gitops/)
-    1. [Incubation engineering](/handbook/engineering/incubation/) 
-        1. [OKRs](/company/okrs/)
-        1. [MLOps](/handbook/engineering/incubation/mlops/)
+    1. [Security](/direction/secure/)
 1. Scaling
     1. Dedicated (see ARR strategy pillar for details)
-    1. Free user limits 
     1. Storage measurement 
     1. [Disaster Recovery time](/company/team/structure/working-groups/disaster-recovery/) 
     1. Standardize Usage data 
     1. [Pods](/direction/pods/) 
     1. Data archival 
     1. Import sandbox 
-    1. Yubikeys
-    1. Clickhouse sharding 
 1. Curated experience 
     1. Fulfillment efficiency (see ARR strategy pillar for details)
     1. Usability benchmarking 
@@ -92,8 +63,6 @@ Build upon our current platform to meet current and future user needs.
     1. AI removes security dupes 
     1. [Governance documentation](https://docs.gitlab.com/ee/administration/compliance.html)
     1. [DORA documentation](https://docs.gitlab.com/ee/user/analytics/dora_metrics.html)
-    1. Snyk migration 
-    1. Duplicate efforts
 
 More detail on our product strategy can be found on our [direction page](/direction/#vision){:data-ga-name="direction page"}{:data-ga-location="body"}.
 
