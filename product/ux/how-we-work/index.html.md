@@ -219,6 +219,18 @@ Remember:
 - **Invite peers into your process.** Some UX and PM tasks overlap, and individual skills vary quite a bit. Keep communication open, and talk about who is doing what. Some PMs like to do a little design work, and some UXers enjoy product strategy. This is always a good thing. With good communication, you both can work to your strengths without stepping on toes.
 - **Advocate for great UX.** Consider asking your PM to allocate time each sprint to "customer delight" related stories. This could be a percentage, a point count, or whatever else works. This is a way to keep the focus on customer experience and delight, even when other priorities start to push in.
 
+### Cross stage design collaborations 
+
+GitLab provides various functions and services for different users' needs; cross-stage design collaboration is essential for creating consistent, intuitive products tailored to our users' needs. Use [cross-stage design tips and guidelines](/handbook/product/ux/how-we-work/cross-stage-design-collaboration/) to help your cross-stage design collaboration to be more efficient and effective:
+
+- [How do we determine if the topic is a cross-stage design](/handbook/product/ux/how-we-work/cross-stage-design-collaboration/#how-do-we-determine-if-the-topic-is-cross-stage-design)
+- [How can we find the right DRI for a particular feature](/handbook/product/ux/how-we-work/cross-stage-design-collaboration/#how-can-we-find-the-right-dri-for-a-particular-feature)
+- [When should we contact the other team(s)](/handbook/product/ux/how-we-work/cross-stage-design-collaboration/#when-should-we-contact-the-other-teams)
+- [What kind of information would be helpful for teams for better ross-stage collaboration](/handbook/product/ux/how-we-work/cross-stage-design-collaboration/#what-kind-of-information-would-be-helpful-for-teams-for-better-cross-stage-collaboration)
+- [What needs to be agreed upon for better cross-stage design collaboration?](/handbook/product/ux/how-we-work/cross-stage-design-collaboration/#what-needs-to-be-agreed-upon-for-better-cross-stage-design-collaboration)
+- [Cross-stage design collaboration frameworks](/handbook/product/ux/how-we-work/cross-stage-design-collaboration/#cross-stage-design-collaboration-frameworks)
+- [Tips for cross-stage collaboration](/handbook/product/ux/how-we-work/cross-stage-design-collaboration/#tips-for-cross-stage-collaboration)
+
 ## Review, test, and contribute
 
 There are several methods for you to review, test, and contribute changes to the app, user documentation, Pajamas, GitLab UI or company handbook.
