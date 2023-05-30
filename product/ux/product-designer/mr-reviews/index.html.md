@@ -22,23 +22,30 @@ MRs with only backend changes sometimes affect the UX (for example, performance 
 
 To help triage, be aware of all MRs in your stage group and ask engineers about which MRs could affect the UX and how. Product Designers often give constructive feedback on any kind of MR, including MRs that _seem_ to not affect the UX, so use your best judgment when deciding which MRs you should review.
 
-### How to assign MR reviews 
+### Benefits
 
-#### Stage group MRs
+- Evenly distribute MR reviews across the Product Designers in the UX Department in support of our [Product Design MR review volume KPI](/handbook/product/ux/performance-indicators/#product-design-mr-review-volume). This will have a more significant impact on higher usage areas of our product by opening up capacity for those designers to increase time spent on creating design solutions.
+- Create awareness of the end-to-end GitLab product by having designers involved in reviewing work outside of their normal areas. This can lead to holistic solutions and seeing connections between stage groups (and Pajamas) that would otherwise get missed.
+- Improve communication and documentation of design solutions, as we're now relying on another designer to confirm that a solution is developed as intended.
+- Give designers visibility and experience in other areas of the product to potentially discover a new passion or area of interest. 
+
+## How to assign MR reviews 
+
+### Stage group MRs
 
 The [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) will randomly suggest a designer to review. These MRs should have a well-documented design solution. Your role as a reviewer is to ensure the solution is developed as intended. After you've completed your review, cc the [design DRI of the group](/handbook/product/categories/#devops-stages) for awareness. Additionally, if you have further feedback on a particular UX solution, open a follow-up issue and mention the design DRI.
   - There may be scenarios where an MR is based on a previous conversation or it proposes a solution that did not have a design associated with it. If this happens, `@ mention` the design DRI to ensure requirements are met. The design DRI should then notify the suggested UX reviewer to complete the MR review when ready.
       - An example is an MR with the label, `~"Internal hackathon"`. The design solution is likely being solved at the time of development.
 
-#### Community contributions
+### Community contributions
 
 Community submitted MRs require more context to review and are assigned to the design DRI of the group it impacts ([What if a team doesn't have a designer?](#what-if-a-team-doesnt-have-a-designer)). All UX-related community contributions will generate a Slack message in the `#ux-community-contributions` channel and will be manually assigned until we automate the process.
 
-#### Single engineering group MRs
+### Single engineering group MRs
 
 Single Engineer Group (SEG) MRs often require more active collaboration and additional context on the work. UX-related MRs created from a SEG should be reviewed by the design DRI of the group it impacts ([What if a team doesn't have a designer?](#what-if-a-team-doesnt-have-a-designer)).
 
-#### UX Paper Cuts MRs
+### UX Paper Cuts MRs
 
 MRs created by the UX Paper Cuts team will be handled by the UX Paper Cuts team. If one of the two designers are OOO, then the team will utilize the [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) to help distribute MR reviews across the Product Design subdepartment.
 
@@ -47,13 +54,6 @@ MRs created by the UX Paper Cuts team will be handled by the UX Paper Cuts team.
 In cases where there is no design DRI to review the MR, you can assign it to [Pedro Moreira da Silva](https://about.gitlab.com/company/team/#pedroms) (`@pedroms`), who's covering for teams without a designer.
 
 For general guidance for teams without a designer, see [Product Processes](/handbook/product/product-processes/#what-if-your-team-doesnt-have-a-designer).
-
-### Benefits
-
-- Evenly distribute MR reviews across the Product Designers in the UX Department in support of our [Product Design MR review volume KPI](/handbook/product/ux/performance-indicators/#product-design-mr-review-volume). This will have a more significant impact on higher usage areas of our product by opening up capacity for those designers to increase time spent on creating design solutions.
-- Create awareness of the end-to-end GitLab product by having designers involved in reviewing work outside of their normal areas. This can lead to holistic solutions and seeing connections between stage groups (and Pajamas) that would otherwise get missed.
-- Improve communication and documentation of design solutions, as we're now relying on another designer to confirm that a solution is developed as intended.
-- Give designers visibility and experience in other areas of the product to potentially discover a new passion or area of interest. 
 
 ## Workload and response times
 
