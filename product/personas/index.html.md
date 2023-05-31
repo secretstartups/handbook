@@ -119,7 +119,7 @@ I am responsible for defining and scoping features, incorporating company object
 
 #### Delaney (Development Team Lead)
 
-- **Alternative Job Titles:** Technical Manager, Software Engineering Team Lead, Technical Team Lead, Software Development Director, Development Lead
+- **Alternative Job Titles:** Technical Manager, Software Engineering Team Lead, Technical Team Lead, Software Development Director, Development Lead, Head of Development
 
 ##### Job Summary
 
