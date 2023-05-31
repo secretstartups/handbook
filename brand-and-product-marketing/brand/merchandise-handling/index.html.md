@@ -48,9 +48,9 @@ Please allow 3 weeks from the time you open this issue to the time the item is d
 1. Confirm that your team has approved budget for this order. If you're not sure, check with your manager or [finance business partner](/handbook/finance/financial-planning-and-analysis/#our-team).
 1. Create an issue [using this template](https://gitlab.com/gitlab-com/marketing/brand-product-marketing/brand-strategy/-/issues/new?issuable_template=swag-request) to start your order.
 1. The Boundless team will share a quote with you. Use this quote to [submit a purchase requisition in Zip](/handbook/business-technology/enterprise-applications/guides/zip-guide/#zip---getting-started). Once a PO has been created, add the PO number to the issue.
-1. Boundless will place the order and have it shipped to your recipients. 
+1. Boundless will place the order and have it shipped to your recipients. Alternatively, you can also request to assign credit to each recipient (or your account) instead of shipping the items directly to them.
 
-Please allow 4 weeks from the time you open the issue to the time the swag is delivered. If you need something more urgently, add the `Swag: URGENT` label to the issue, along with a comment explaining the expedited timeline. 
+Please allow 4 weeks from the time you open the issue to the time the swag is delivered (or credit is assigned). If you need something more urgently, add the `Swag: URGENT` label to the issue, along with a comment explaining the expedited timeline. 
 
 ### Sending gift cards
 
