@@ -107,10 +107,9 @@ Please find pages for potential and active applicants below.
 
 <details>
 <summary><a href="/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse">Open a req</a>
+* [Instructions here](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse)<br>
+* [Open a kickoff session](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)<br>
 
-  * [Instructions here](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse)<br>
-  * [Open a kickoff session](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)<br>
-</details>
 
 <details>
 <summary markdown="span">Evergreen requisitions</summary>
@@ -122,17 +121,20 @@ Please find pages for potential and active applicants below.
    
      * Know your department before you open your req. If you need to change the department name later, the approval chain will not automatically update. If this happens to you, please contact Enablement.
      * We do not re-open jobs after they have been closed. This is because permissions and approvers may have changed in the time since the job was first closed.
+</details>
 
-+ <details><summary markdown="span">Post a job in Greenhouse</summary>
-  * [Post an **internal** job](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse-dri-recruiter)<br>
+<details>
+<summary markdown="span">Post a job in Greenhouse</summary>
+   * [Post an **internal** job](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse-dri-recruiter)<br>
    * [Post an **external** job](/handbook/hiring/talent-acquisition-framework/req-creation/#publish-the-job-to-the-careers-page--review-greenhouse-configuration)<br>
    + <details> <summary>Tips and Tricks</summary>
      * Salary transparency: In select US states, GitLab discloses salaries in job descriptions in accordance with local laws. Total Rewards will add this information to the job’s approvals page. When you create your _external_ job post, utilize Pay Transparency Rules and select Hiring in the USA. If the job will not be posted in the US, select N/A.<br>
      * EEOC questions should be checked off in the US only<br>
      * [Click here](/handbook/hiring/talent-acquisition-framework/req-creation/#choosing-the-correct-location-for-your-published-job) for more information on selecting the correct location for your job. This will help ensure that your LinkedIn listings are posted in the correct countries.<br>
      * Our jobs are now set up to automatically go to Indeed and Glassdoor and be posted as remote roles on both sites. Recruiters should unselect or leave unselected the option in Greenhouse to "publish to free job boards" as this requires us to input city, state, and country data that overrides the remote job listing. There is an automation in place to automatically send jobs to Indeed and Glassdoor.<br>
-   + <details><summary><a href="/handbook/hiring/talent-acquisition-framework/req-creation/#using-job-posting-rules-in-greenhouse">How to use Rules</a></summary>
+   + <details> <summary><a href="/handbook/hiring/talent-acquisition-framework/req-creation/#using-job-posting-rules-in-greenhouse">How to use Rules</a></summary>
      * [Auto-tags](/handbook/hiring/greenhouse/#auto-tags)<br>
+
 
 
   <details><summary markdown="span">Req access and permissions</summary>
