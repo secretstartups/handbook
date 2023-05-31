@@ -150,7 +150,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | Option     | Example Use Case                                             |
 | ---------- | ------------------------------------------------------------ |
 | **SaaS Subscription Related** | |
-| Extend an (almost) expired subscription | Use this when the customer has a subscription with us and their grace period is (almost) expired. Please note we cannot extend the actual subscription. This instead makes a trial for the namespace and uses that for the extension. |
+| Extend an (almost) expired subscription | Use this when the customer has a subscription with us and their grace period is (almost) expired. Please note we cannot extend the actual subscription. This instead makes a trial for the namespace and uses that for the extension. Check the [What is included and excluded in trials](https://about.gitlab.com/free-trial/#what-is-included-in-my-free-trial-what-is-excluded) page for more context. |
 | Investigate incorrect subscription info | Use this when the customer has a subscription with us and something is incorrect in their subscription information. This includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace, and current seat usage counts. |
 | Reset max seats for QSR | Use this after [approval to waive the overage](/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements) has been granted and documented via SFDC chatter. Once that is done, file the form to request that Support reset the max seats. |
 | SaaS NFR license request | Ensure the group on GitLab.com has started a trial, then use this option to request a SaaS NFR subscription generation. |
