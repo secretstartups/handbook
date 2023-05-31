@@ -124,7 +124,7 @@ Previous Volunteers
 
 ### How do I volunteer?
 
-If you are a Product Designer or Engineer who wants to volunteer, please create an MR to update the table above by adding your name, and assign it to your manager to review/merge. If you have any questions, please feel free to reach out to the VP of User Experience or the Director of Product Design.
+If you are a Product Designer or Engineer who wants to volunteer, please create an [MR to update the table above](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/handbook/source/handbook/product/ux/product-design/index.html.md) by adding your name, and assign it to your manager to review/merge. In the MR description, please include what percentage of your capacity you plan to dedicate to this initiative. If you have any questions, please feel free to reach out to the VP of User Experience or the Director of Product Design.
 
 ### I signed up. Great! What's next?
 
@@ -136,12 +136,12 @@ Every MR should follow the [approval guidelines](https://docs.gitlab.com/ee/deve
 
 ### Remember to assess the possible impact of your changes
 
-The point of this initiative is to move fast, often in product areas you may not be familiar with. Because these fixes don't go through our regular [product development flow](https://about.gitlab.com/handbook/product-development-flow/), it's important to take reasonable steps to reduce risk. Consider things like:
+The point of this initiative is to move fast, often in product areas you may not be familiar with. Because these fixes don't go through our regular [product development flow](/handbook/product-development-flow/), it's important to take reasonable steps to reduce risk. Consider things like:
 
 - **Use feature flags**. To more quickly and easily revert changes, it can make sense to use feature flags. Annabel Dunstone Gray recorded a [UX showcase around how to do so and why it might be beneficial](https://www.youtube.com/watch?v=M9pgdTlqBmw).
 - **How will this change impact our self-managed customers?** Because we use our SaaS product, we're not always personally aware of nuanced differences between our Self-Managed and SaaS offerings. Make sure to consider the possible implications of any changes to all of our deployment options. Start by reviewing the docs related to the feaure, and ask questions if you're still unsure.
 - **How can I crowd source feedback on a significant change?** Sometimes there will be dependencies that aren't obvious. Consider opening up feedback issues (like [this one](https://gitlab.com/gitlab-org/gitlab/-/issues/363276)) and use our internal Slack to make the company aware of significant upcoming changes, so that people can offer feedback. Channels like #product, #whats-happening-at-gitlab, and #is-this-known can be good places to publicize these messages.
-- **Use the [Pajamas Design System](https://design.gitlab.com/).** Make sure your changes align with the design system and leverage available components. If there's a need to update an exisitng component or propose a new one, follow the [component lifecycle](https://design.gitlab.com/get-started/lifecycle). If you have questions, ask a member of the [Foundations group](https://about.gitlab.com/handbook/product/categories/#foundations-group).
+- **Use the [Pajamas Design System](https://design.gitlab.com/).** Make sure your changes align with the design system and leverage available components. If there's a need to update an exisitng component or propose a new one, follow the [component lifecycle](https://design.gitlab.com/get-started/lifecycle). If you have questions, ask a member of the [Foundations group](/handbook/product/categories/#foundations-group).
 
 ### How will we measure success?
 
