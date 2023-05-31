@@ -58,7 +58,7 @@ Discretionary bonuses are to celebrate team members that live by our values. To 
 
  - The reason for the bonus is that this person (X, a Technical Writer) has single-handedly stepped in to act as a part-time documentation engineer in the absence of a full-time engineer.
 The person's history of contributions is plain to see here: (Nominator included links to boards, issues or merge requests)
-In particular, X's implementation of a Global Navigation and GitLab iconography for documentation are real highlights of X's impact for end-users. For developers, they have modernized the codebase and continue to work toward making `gitlab-docs` just like any other GitLab project for developers. X's dedication to the Technical Writing team over a long period of time motivates me to do more than just thank X in #thanks channel. X has specifically: Been active to see the Technical Writing team to [succeed](/handbook/values/#see-others-succeed). X delivers for the team in lots of [MVCs](/handbook/values/#minimal-viable-change-mvc), so we can get early value. For example, making iconography available using Markdown first, and planning to deliver other implementations later. X solutions are [boring](/handbook/values/#boring-solutions), in that X aims to reuse as much GitLab code as possible, and raising instances where that isn’t the case as technical debt. For example, docs icons are the same library as icons in the product.
+In particular, X's implementation of a Global Navigation and GitLab iconography for documentation are real highlights of X's impact for end-users. For developers, they have modernized the codebase and continue to work toward making `gitlab-docs` just like any other GitLab project for developers. X's dedication to the Technical Writing team over a long period of time motivates me to do more than just thank X in `#thanks` channel. X has specifically: Been active to see the Technical Writing team to [succeed](/handbook/values/#see-others-succeed). X delivers for the team in lots of [MVCs](/handbook/values/#minimal-viable-change-mvc), so we can get early value. For example, making iconography available using Markdown first, and planning to deliver other implementations later. X solutions are [boring](/handbook/values/#boring-solutions), in that X aims to reuse as much GitLab code as possible, and raising instances where that isn’t the case as technical debt. For example, docs icons are the same library as icons in the product.
 
 * I’d like to nominate X for a discretionary bonus for exhibiting the values for results, efficiency, and collaboration. While the whole backend engineers in the X team were OOO, despite it wasn’t his team, X stepped in and handled a problem (link) that was blocking a deploy. X was able to debug the problem, not an easy one by the way, communicate it to the different counterparts, and also fix it. X also spotted that it could affect other features and provide a way to fix them as well.
 
@@ -88,7 +88,7 @@ Any bonus submitted that does not include clear and valid reasons for submission
 
 #### Multiple Discretionary Bonuses
 
-If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #thanks Slack channel announcement.
+If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the `#thanks` Slack channel announcement.
 
 **For example:**
 - Person A submits a valid nomination for Project X on 2021-01-01
@@ -96,7 +96,7 @@ If you received the same nomination twice (for the same person and the same reas
 - Person B submits a valid nomination for Project X (same project) on 2021-01-02
 - Manager copies the nomination (because Nominator Bot may not save the message), reaches out to let Person B know, and rejects Person B's nomination.
 - Person A's nomination is fully approved
-- Manager shares in #thanks Slack channel, mentioning nomination by both Person A and Person B and with the descriptions from both
+- Manager shares in `#thanks` Slack channel, mentioning nomination by both Person A and Person B and with the descriptions from both
 
 #### Process for Recommending a Team Member for a Discretionary Bonus
 
@@ -139,7 +139,7 @@ graph TD;
 
 #### Working Group Bonus
 1. Sometimes a [working group](/company/team/structure/#working-groups) strongly displays GitLab Values over a period, project or situation. For this case, use the  Working Group Bonus.
-1. As with individuals, we recognize those who make up that group through the #thanks channel and sometimes through a Working Group Bonus.
+1. As with individuals, we recognize those who make up that group through the `#thanks` channel and sometimes through a Working Group Bonus.
 1. [Anybody can recommend a Working Group Bonus through the managers of the individuals involved](/handbook/incentives/) for $100 per person at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
 
 #### Process for Recommending Working Group Bonus in Workday
@@ -148,7 +148,7 @@ graph TD;
 
 1. Write a description of how the working group has demonstrated a specific GitLab value in their work.
 1. Email that sentence to the managers of the individuals, suggesting a Working Group Bonus, and set-up a 15 minute Zoom meeting with all the managers to discuss your proposal. _Note: The alignment with managers can also be done asynchronously in a private Slack channel._
-1. Remember that the manager(s) may or may not agree and they have full discretion (with approval of their manager) on whether their reports get a bonus.  Don't forget that you can also use the #thanks channel to recognize people, as well.
+1. Remember that the manager(s) may or may not agree and they have full discretion (with approval of their manager) on whether their reports get a bonus.  Don't forget that you can also use the `#thanks` channel to recognize people, as well.
 
 **Sales Development Focus Bonus (Sales Development specific working bonus)**
 
@@ -166,7 +166,7 @@ graph TD;
 1. The next level Manager receives an alert from Workday and can approve or deny.
 1. Once approved by the next level manager, the request is sent to People Connect for review and final approval. 
 1. Once fully approved, Payroll is notified of the bonus and can begin processing.
-1. After this, the manager is able to notify the team member of the bonus and will announce it on the GitLab Slack channel [#thanks](https://gitlab.slack.com/archives/C038E3Q6L). The announcement should include the “who” and “why” of the bonus.
+1. After this, the manager is able to notify the team member of the bonus and will announce it on the GitLab Slack channel `[#thanks](https://gitlab.slack.com/archives/C038E3Q6L)`. The announcement should include the “who” and “why” of the bonus.
 
 #### Communicating Discretionary Bonuses
 
