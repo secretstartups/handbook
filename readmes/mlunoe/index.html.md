@@ -1,12 +1,12 @@
 ---
 layout: markdown_page
 title: "Michael Lunøe's README"
-job: "Fullstack Engineering Manager, Fulfillment:Provision"
+job: "Staff Frontend Engineer, Fulfillment:Billing and Subscription Management"
 ---
 
 ## Michael Lunøe README
 
-**Michael Lunøe, Fullstack Engineering Manager (Interim)** This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
+**Michael Lunøe, Staff Frontend Engineer** This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
 
 It’s also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team.
 
