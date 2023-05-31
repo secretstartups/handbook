@@ -26,7 +26,7 @@ The term "usability" can mean a variety of things. At GitLab, we use the followi
 
 * **Satisfaction** refers to the user’s perceptions, feelings, and opinions of the product. 
 
-*Note: This definition is based on information from the [Handbook of Usability Testing](https://www.amazon.com/Handbook-Usability-Testing-Conduct-Effective/dp/0470185481) and the [International Usability and UX Qualification Board curriculum](https://uxqb.org/public/documents/CPUX-F_EN_Curriculum-and-Glossary.pdf).*
+*Note: This definition is based on information from the [Handbook of Usability Testing](https://www.amazon.com/Handbook-Usability-Testing-Conduct-Effective/dp/0470185481) and the [International Usability and UX Qualification Board curriculum](https://uxqb.org/en/documents/cpux-f-en-curriculum/).*
 
 
 ## Usability testing
@@ -64,11 +64,11 @@ Summative usability tests tend to be larger in scope and are run with the live p
     - Before testing with users, reach agreement among your stakeholders about what success looks like, such as the target completion rate you are aiming for. For example, a completion rate greater than 80% translates to a Complete or Lovable [CM scorecard level](https://about.gitlab.com/handbook/product/ux/category-maturity/category-maturity-scorecards/#calculating-the-cm-scorecard-score). This article from [MeasuringU](https://measuringu.com/task-completion/) suggests using 78% as a baseline, whereas a minimum of 92% would satisfy a completion rate in the top quartile. However, it's not unreasonable to aim for even 100%; it's up to each team to determine the success criteria required for each study and each feature.    
 4. [Identify your target audience and initiate recruiting](https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/).
 5. [Prepare your prototype or demo environment](https://about.gitlab.com/handbook/product/ux/category-maturity/category-maturity-scorecards/#step-2-prepare-your-testing-environment).
-6. [Write your test script, including tasks and metrics to collect](https://docs.google.com/document/d/1_5Qu2JR9QE5LE6cK4eq9yJs-nXv2rlWWifcjacaiWdI/edit).
+6. [Write your test script, including tasks and metrics to collect](https://docs.google.com/document/d/135OtPVzguF8ZmbtfVL9hqVeehcN48IxWceWr5g070T8/copy).
     - Set up your test to measure these [usability factors](/handbook/product/ux/ux-research/usability-testing/#usability-factors-to-measure), as this will help to measure improvements consistently over time and to assess their impact on [system usability](/handbook/product/ux/performance-indicators/system-usability-scale/). There are many other metrics that you can measure to understand usability problems, such as error rates or number of times a user needed help. If you find them helpful for your research topic, feel free to use them.
     - Remind participants to think aloud as they go through the tasks, especially in an unmoderated test.
     - Take a look at these more [detailed tips and tricks](https://about.gitlab.com/handbook/product/ux/ux-research/writing-usability-testing-script/) on how to write an excellent usability test script. 
-    - If you run an unmoderated usability test, please use or reference the [usability metrics template](https://app.usertesting.com/test_plan_templates/11481/edit) available in UserTesting.com. UserTesting.com has native options for _task success_ and _difficulty_ to capture metrics that are similar to ours, but these are not the same usability metrics needed for our studies. Please use the options listed in this template instead.
+    - If you run an unmoderated usability test on UserTesting, create a test from the [usability metrics template](https://app.usertesting.com/share/314d003c-cba4-4fde-91bb-c524a169addd), located in the “Account templates” section. UserTesting has native options for _task success_ and _difficulty_ to capture metrics that are similar to ours, but these are not the same usability metrics needed for our studies. Please use the options listed in this template instead.
     - If you run an unmoderated usability test that will run under 5 minutes, toggle the Short test option *on* when building your test plan.
 7. [Run a pilot session to test the usability test](https://about.gitlab.com/handbook/product/ux/ux-research/writing-usability-testing-script/#3-test-the-test).
 8. [Analyze your research data](https://about.gitlab.com/handbook/product/ux/ux-research/analyzing-research-data/)

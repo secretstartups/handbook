@@ -30,13 +30,13 @@ A test script:
 It is virtually impossible to practice solid usability study research without having a test script. Don’t go in without one.
 
 ## How to write your first task based usability testing draft
-Use this [Usability Testing Script template](https://docs.google.com/document/d/1_5Qu2JR9QE5LE6cK4eq9yJs-nXv2rlWWifcjacaiWdI/edit?usp=sharing) (internal access only) as your starting point for writing a first draft for your usability study:  
+Use this [Usability Testing Script template](https://docs.google.com/document/d/135OtPVzguF8ZmbtfVL9hqVeehcN48IxWceWr5g070T8/copy) (internal access only) as your starting point for writing a first draft for your usability study:  
 
 A usability study script typically follows 4 main parts:
-1. Introduction
-2. Warm-up questions
-3. Tasks
-4. Wrap-up questions and closing words
+1. [Introduction](#introduction)
+2. [Warm-up questions](#warm-up-questions)
+3. [Tasks](#tasks)
+4. [Wrap-up questions and closing words](#wrap-up-questions-and-closing-words)
 
 Here is a bit about each part (you may want to read this while going over the template).
 
@@ -47,7 +47,7 @@ Use the introduction to build rapport with the participant of the usability stud
 
 Remember to distance yourself from the solution you are testing. Do not present yourself as the person who is involved in creating the concept that’s being tested (even if you were). Emphasize that the participant won’t hurt your feelings regardless of what they say during the testing. Remind them that we are testing the experience and not them. Also remind them that the main purpose of this exercise is to receive their candid feedback.
 
-#### Warm-up questions
+### Warm-up questions
 Warm-up questions are meant to further break the ice, as well as get relevant background information on the participant.
 
 Here are some standard warm up questions to consider:
@@ -62,8 +62,8 @@ Here are some standard warm up questions to consider:
 
 **Tip 3**: If needed and you have the time for it, you might include some additional interview questions here that would benefit either this study or a different one. (If it’s a different study, make sure it shares the same participant profile with this one!) In particular, consider asking questions that might be used later on as part of a persona or a JTBD study (for example, "What would you say are your top 3 tasks?").
 
-#### Tasks
-This is the heart of the usability study script and the part that takes the longest to write. Usability studies usually (but not always) consist of 3-4 tasks.
+### Tasks
+This is the heart of the usability study script and the part that takes the longest to write. Usability studies usually (but not always) consist of 3–4 tasks.
 
 **How to define good tasks**  
 When sitting down to write your tasks, you should already have [defined your research goals, objectives and hypotheses](/handbook/product/ux/ux-research/defining-goals-objectives-and-hypotheses/). To form good usability tests, start by going over your research objectives that detail what you and your stakeholders want to get out of the study, and consider how to best translate them into user tasks.
@@ -88,8 +88,7 @@ Finally, pay close attention to how you phrase your tasks to avoid bias, leading
 
 * A usability study, or usability tests, should be focused on evaluating if the participant can accomplish the task given, not exploring how they might understand the task. If your participant can not proceed during some point of the task, ask them how they would normally proceed and encourage them to try that option.
 
-To learn more about writing good tasks, we highly recommend reading this helpful NN/g article:
-[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://www.nngroup.com/articles/better-usability-tasks/).
+To learn more about writing good tasks, we highly recommend reading [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://www.nngroup.com/articles/better-usability-tasks/).
 
 **Tip 1**: For each task, add a link in your script for the prototype/webpage that’s relevant for that task. Not only will it help your teammates who will review the script to understand what the task is about, but it will also allow you to quickly resend the relevant link should the participant need it again.
 
@@ -101,7 +100,7 @@ To learn more about writing good tasks, we highly recommend reading this helpful
 * As a general rule, start with the tasks that matter most to you. It will take time mastering moderating usability sessions, and it is common to fall behind on time when you’re just starting out. Therefore, start with what matters most to you, and leave what’s merely nice to have to the end of the test.
 
 **How to structure each usability testing scenario**  
-For each task, consider whether some setup is required to provide context and appropriate motivation for the participant. If so, describe a relevant scenario prior to giving the task. Lets look at some usability test cases examples:  
+For each task, consider whether some setup is required to provide context and appropriate motivation for the participant. If so, describe a relevant scenario prior to giving the task. Let's look at some usability test cases examples:  
 
 Scenario: “Let’s say this is a project you’re working on, and you just committed some new code.”  
 Task: “Please test to see whether that code contains any security vulnerabilities.”
@@ -112,7 +111,7 @@ Then, consider adding some more specific questions and prompts that the moderato
 * Is SAST running right now?
 * What would you do next, if anything?
 
-#### Usability study wrap-up questions
+### Wrap-up questions and closing words
 Here, you can get the participant’s broad impressions about what they saw and experienced. These are some standard questions to consider:
 * What do you think about this process you just went through?
 * How does what you just experienced with GitLab fare in comparison to the tool you normally use?
@@ -128,27 +127,23 @@ You can also include qualitative survey questions. Make sure to follow up with "
 
 Conclude the script with thanking your participant and mentioning when they are expected to get their compensation.
 
-#### You've completed your draft script. Now what?
+## You've completed your draft script. Now what?
 
-##### 1. Review your usability study draft
+### 1. Review your usability study draft
 Once your draft is more or less done, give it another read and ask yourself:
 - Does it cover the project’s objectives?
-- Does it make sense timewise? Estimating time will get easier with experience. Keep in mind that usability tests should normally take between 30-45 minutes.
+- Does it make sense timewise? Estimating time will get easier with experience. Keep in mind that usability tests should normally take between 30–45 minutes.
 
-##### 2. Let others review your draft
+### 2. Let others review your draft
 Edit as needed based on feedback received from your stakeholders/teammates.
 
-##### 3. Test the test
+### 3. Test the test
 Run a pilot test with a colleague or internal participant to make sure your task instructions are clear and that you’re keeping time. Edit as needed, and notify your stakeholders of any big changes.
 
-### A crash course on remote, moderated usability testing
+## A crash course on remote, moderated usability testing
 
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/5MvpxvN9vLU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
-
-**Slides**
-
-[View the slides](https://drive.google.com/file/d/1AqmTX0atvxRsag5EIdyFduGRfzNQLjRC/view?usp=sharing)
