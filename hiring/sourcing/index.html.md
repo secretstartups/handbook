@@ -118,6 +118,18 @@ recruiting partner beforehand in order to avoid duplication and/or poor candidat
 
 Take a look at the [Content library - life at GitLab](https://about.gitlab.com/handbook/people-group/employment-branding/content-library/) for the latest team member count, employer awards, blog posts, and more facts about working at GitLab. These resources are meant to help guide your outreach to potential candidates.
 
+**Upgrading Your LinkedIn Account to Hiring Manager**
+
+Hiring Managers and hiring team members are able to request a **LinkedIn Hiring Manager Seat.** To upgrade your seat, please add your GitLab email to your LinkedIn profile by following this process: {+ Login to Linkedin > click Me > Settings & Privacy > Sign in & security > Email addresses > add your GitLab email address and verify it. +} Next, submit an [Access Request Issue](https://gitlab.com/gl-talent-acquisition/operations/issues/new?issuable_template=LinkedIn%20Access%20Request) using the LinkedIn Access Request template within the [Technology and Insights project](https://gitlab.com/gl-talent-acquisition/operations). 
+
+- **A Hiring Manager seat** allows a user to collaborate on projects, where they can share and review profiles and provide feedback on prospective candidates.
+
+**New to LinkedIn?** Please reach out to your TA partner for tips.
+
+Please note, we won't be able to reimburse any LinkedIn seats purchased at your own expense.
+
+If you're locked out of your LinkedIn account with no way to confirm your identification via 2 Step Verification, you are able to turn off 2 Step Verification.
+
 ## Source-a-thons
 As our company continues to see rapid growth, we aim to hire the best talent out there and we want all GitLab team members to partner with the Talent Acquisition team on building the greatest GitLab crew!
 We ask you all to contribute by digging into LinkedIn or your favorite social
