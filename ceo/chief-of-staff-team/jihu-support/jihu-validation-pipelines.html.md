@@ -22,15 +22,15 @@ To revisit this policy, checkout: [Disallow as-if-jh pipeline to fail](https://g
 
 ## When and where we run it
 
-Currently, we run JiHu validation pipelines in merge requests having:
-
-* Changes to feature flags
-* Label `~"pipeline:run-as-if-jh"`
+We run the validation pipelines when we detected that the changes is more
+likely to break JiHu's pipeline. The detection is automated and we can also
+apply label `~"pipeline:run-as-if-jh"` to force it if not detected.
 
 Job `start-as-if-jh` will trigger a cross project downstream pipeline in the
 [GitLab JH validation](https://gitlab.com/gitlab-org-sandbox/gitlab-jh-validation) project.
 
-For technical details about how we run this validation pipeline, checkout:
+For how the detection works and technical details about how we run this
+validation pipeline, checkout:
 [As-if-JH cross project downstream pipeline](https://docs.gitlab.com/ee/development/pipelines/#as-if-jh-cross-project-downstream-pipeline)
 
 ## What to do when the validation pipeline failed
