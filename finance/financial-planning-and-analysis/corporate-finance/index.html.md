@@ -38,7 +38,7 @@ We collaborate with tax to review actual tax expenses, forecast tax provision fo
 	- In the **second month of each quarter**, FP&A will share the latest locked forecast with Tax on Day 9 (or 48 hours after the books have closed, whichever is sooner) every month. Providing the latest forecast with Tax enables the team to update their tax models for the full year provision. The following is an example of such timeline for Month 2 of Q1-FY23 (using the 2+10 Forecast): 
 		- **2022-04-15**: Accounting closes books and consolidations occurs
 		- **2022-04-18**: FP&A locks forecast and shares with Tax a full GAAP PTI forecast, including the forecasts for the non-GAAP entity-level P&L, stock-based compensation expense, and other GLs including depreciation, amortization, capital additions, etc.
-- Close timelines can be found in Gitab Issues created by the Accounting team to increase transparency and efficiency across teams as part of close. The Q1-FY23 close timeline can be found at the issue here.
+- Close timelines can be found in GitLab Issues created by the Accounting team to increase transparency and efficiency across teams as part of close. The Q1-FY23 close timeline can be found at the issue here.
 
 ### Revenue Accounting Partnerships
 - We collaborate with the Revenue team to review actuals as part of our revenue variance process performed each month and quarter-end, understand the impact on our revenue forecast as it relates to changes in the revenue waterfall, changes in the business, new accounting standards, or other process improvements.
