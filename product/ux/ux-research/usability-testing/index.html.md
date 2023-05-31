@@ -33,7 +33,7 @@ The term "usability" can mean a variety of things. At GitLab, we use the followi
 
 Usability testing is the process of evaluating a product experience with representative users. The aim is to observe how users complete a set of tasks and to understand any problems they encounter. Since users often perform tasks differently than expected, this qualitative method helps to uncover why users perform tasks the way that they do, including understanding their motivations and needs. At GitLab, usability testing is part of [solution validation](https://about.gitlab.com/handbook/product/ux/ux-research/solution-validation-and-methods/).
 
-We also conduct regaular [Usability Benchmarking](https://about.gitlab.com/handbook/product/ux/ux-research/usability-benchmarking/) studies at GitLab. These are also focused on usability, and are used to set performance and ux benchmarks for specific tasks and workflows across GitLab. As such, they are much more rigorous and time-consuming than a normal usability test ought to be.
+We also conduct regular [Usability Benchmarking](https://about.gitlab.com/handbook/product/ux/ux-research/usability-benchmarking/) studies at GitLab. These are also focused on usability, and are used to set performance and ux benchmarks for specific tasks and workflows across GitLab. As such, they are much more rigorous and time-consuming than a normal usability test ought to be.
 
 ### Different types of usability testing
 
@@ -65,25 +65,27 @@ Summative usability tests tend to be larger in scope and are run with the live p
 4. [Identify your target audience and initiate recruiting](https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/).
 5. [Prepare your prototype or demo environment](https://about.gitlab.com/handbook/product/ux/category-maturity/category-maturity-scorecards/#step-2-prepare-your-testing-environment).
 6. [Write your test script, including tasks and metrics to collect](https://docs.google.com/document/d/1_5Qu2JR9QE5LE6cK4eq9yJs-nXv2rlWWifcjacaiWdI/edit).
-    - [The International Organization of Standardization’s (ISO) definition of usability](https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-2:v1:en) focuses on [3 factors: Effectiveness, Efficiency, Satisfaction](https://about.gitlab.com/handbook/product/ux/ux-research/usability-testing/#3-factors-to-measure). When setting up your usability test, we recommend capturing the [metrics shown below](https://about.gitlab.com/handbook/product/ux/ux-research/usability-testing/#3-factors-to-measure), as this will help to measure improvements consistently over time and [to assess their impact on system usability](https://about.gitlab.com/handbook/product/ux/#system-usability). There are many other metrics that you can measure to understand usability problems, such as error rates or number of times a user needed help. If you find them helpful for your research topic, feel free to use them.
+    - Set up your test to measure these [usability factors](/handbook/product/ux/ux-research/usability-testing/#usability-factors-to-measure), as this will help to measure improvements consistently over time and to assess their impact on [system usability](/handbook/product/ux/performance-indicators/system-usability-scale/). There are many other metrics that you can measure to understand usability problems, such as error rates or number of times a user needed help. If you find them helpful for your research topic, feel free to use them.
     - Remind participants to think aloud as they go through the tasks, especially in an unmoderated test.
     - Take a look at these more [detailed tips and tricks](https://about.gitlab.com/handbook/product/ux/ux-research/writing-usability-testing-script/) on how to write an excellent usability test script. 
     - If you run an unmoderated usability test, please use or reference the [usability metrics template](https://app.usertesting.com/test_plan_templates/11481/edit) available in UserTesting.com. UserTesting.com has native options for _task success_ and _difficulty_ to capture metrics that are similar to ours, but these are not the same usability metrics needed for our studies. Please use the options listed in this template instead.
     - If you run an unmoderated usability test that will run under 5 minutes, toggle the Short test option *on* when building your test plan.
 7. [Run a pilot session to test the usability test](https://about.gitlab.com/handbook/product/ux/ux-research/writing-usability-testing-script/#3-test-the-test).
 8. [Analyze your research data](https://about.gitlab.com/handbook/product/ux/ux-research/analyzing-research-data/)
-    - For each task, synthesize how many users succeeded or failed and why they failed. 
-    - For each task, calculate how easy or difficult it was for participants to complete it. Look for patterns on why they gave a score.
-    -  Calculate the average score for the [SUS adjective rating scale](https://uxpajournal.org/determining-what-individual-sus-scores-mean-adding-an-adjective-rating-scale/), and look for patterns in why they gave a particular score. 
+    - For each task, synthesize how many users succeeded or failed, and why they failed. 
+    - For each task, calculate the average score for the _efficiency_ question. Look for patterns on why they gave a score.
+    - Calculate the average score for the _satisfaction_ and _usefulness_ questions. Look for patterns on why they gave a score.
     - Note down any other interesting observations you had. 
 9. [Document your insights in Dovetail](/handbook/product/ux/dovetail/#the-ux-research-teams-guide-to-documenting-insights-in-dovetail). If you have actionable insights, ensure they are also [documented in the GitLab UX Research project](https://about.gitlab.com/handbook/product/ux/ux-research/research-insights/#how-to-document-actionable-insights).
 10. Decide on the next steps.
     - Any [actionable insights](https://about.gitlab.com/handbook/product/ux/ux-research/research-insights/#actionable-insights) require a follow up. Work with your counterparts to determine priority for the identified usability problems. Remember to conduct another usability study to validate your proposed solution.
 
-### 3 Factors to measure
+### Usability factors to measure
 
-#### 1. Effectiveness
-- What’s being measured?  
+To learn more about these factors, see [our definition of usability](#usability-at-gitlab).
+
+#### Effectiveness
+- What’s being measured?
     - Effectiveness can be determined by calculating the pass rate. This shows the success or completion rate of each task.
 - How is it measured?  
     - The pass rate can be determined by dividing the number of participants that were able to complete the task by the total number of participants.
@@ -91,30 +93,42 @@ Summative usability tests tend to be larger in scope and are run with the live p
 - Why are we measuring it?
     - We want users to succeed in reaching their goals. Understanding why and where they fail will help us improve the experience.
 
-#### 2. Efficiency
+#### Efficiency
 - What’s being measured?  
-    - Efficiency can be measured by understanding how easy a task was perceived to be by participants. This can be done by asking a [Single Ease Question](https://about.gitlab.com/handbook/product/ux/category-maturity/category-maturity-scorecards/#the-3-questions-we-ask) per task
+    - Efficiency can be measured by understanding the participants perception of how easy a task is.
 - How is it measured?  
-    - Ask the Single Ease question after each task. 
+    - After each task, ask the [Single Ease Question](/handbook/product/ux/category-maturity/category-maturity-scorecards/#the-3-questions-we-ask).
        - *“Overall, this task was…”* <br> *- Extremely difficult* <br> *- Difficult* <br> *- Neither easy nor difficult* <br> *- Easy* <br> *- Extremely easy* <br> *“Why?”*                                       
-    - Ensure that you are asking *why* participants rated it this way right after having them rate the ease of use.
+    - Ensure that you are asking *why* participants rated it this way right after they reply.
 - Why are we measuring it?
-    - The subjectively perceived task difficulty is something we collect during CMS. Collecting it as part of a usability test gives a prediction and pulse check for a later CMS study.
+    - We also collect this during [Category Maturity Scorecards](/handbook/product/ux/category-maturity/category-maturity-scorecards/#the-3-questions-we-ask) (CM Scorecards). Collecting it as part of a usability test gives a prediction and pulse check for a later CM Scorecards study.
     - It is important to understand the participants’ reasons for giving a rating, especially in situations where a rating is low. This is especially important in usability testing when the number of participants is also low.
 
-#### 3. Satisfaction
+#### Satisfaction
 - What’s being measured?  
-    - Satisfaction can be determined by understanding how user-friendly a participant perceives an *experience* or series of tasks to be.
+    - Satisfaction can be determined by understanding the participants' perception of how the experience is.
 - How is it measured?  
-    - After all tasks are completed, ask the participant to rate the experience on the [Adjective rating scale](https://uxpajournal.org/determining-what-individual-sus-scores-mean-adding-an-adjective-rating-scale/).
-       - *“Overall, I would rate the user-friendliness of this product as:”* <br> *- Worst-imaginable* <br> *- Awful* <br> *- Poor* <br> *- OK* <br> *- Good* <br> *- Excellent* <br> *- Best imaginable*
-    - Ensure that you are asking *why* participants rated it this way right after having them rate the experience.
+    - After all tasks are completed, ask the [User Experience rating question](/handbook/product/ux/category-maturity/category-maturity-scorecards/#the-3-questions-we-ask).
+       - *“How would you rate the quality of the user experience?”* <br> *- Extremely good* <br> *- Good* <br> *- Neither good nor bad* <br> *- Bad* <br> *- Extremely bad*
+    - Ensure that you are asking *why* participants rated it this way right after they reply.
 - Why are we measuring it?
-    - This score highly correlates to SUS, and our aim is to [increase system usability](https://about.gitlab.com/company/strategy/#2-build-on-our-open-core-strength).
-    - It is important to understand the participants’ reasons for giving a rating, especially in situations where a rating is low. This is especially important in usability testing when the number of participants is also low. 
+    - We also collect this during CM Scorecards. Collecting it as part of a usability test gives a prediction and pulse check for a later CM Scorecards study.
+    - It is important to understand the participants’ reasons for giving a rating. This is especially important in usability testing when the number of participants is also low.
+
+#### Usefulness
+- What’s being measured?  
+    - Usefulness can be determined by understanding the participants perception of how much the tested features would enable them to achieve their goals.
+- How is it measured?  
+    - After all tasks are completed, ask our [adjusted UMUX Lite question](/handbook/product/ux/category-maturity/category-maturity-scorecards/#the-3-questions-we-ask).
+       - *“You just experienced our implementation of <Feature/Scenario>. How would you agree or disagree with the following statement: <Feature/Scenario> has the capabilities I need for what I need to do in my own work.”* <br> *- Strongly agree* <br> *- Agree* <br> *- Neither agree nor disagree* <br> *- Disagree* <br> *- Strongly disagree*
+    - Ensure that you are asking *why* participants rated it this way right after they reply.
+- Why are we measuring it?
+    - We also collect this during CM Scorecards. Collecting it as part of a usability test gives a prediction and pulse check for a later CM Scorecards study.
+    - This score highly correlates to the [System Usability Scale](/handbook/product/ux/performance-indicators/system-usability-scale/) (SUS) score, one of our [regular performance indicators](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score).
+    - It is important to understand the participants’ reasons for giving a rating, especially in situations where a rating is low. This is especially important in usability testing when the number of participants is also low.
 
 ## How usability testing relates to Category Maturity Scorecards (CM Scorecards)
-Usability testing happens before you conduct a [CM Scorecard](https://about.gitlab.com/handbook/product/ux/category-maturity/category-maturity-scorecards/#intro-and-goal). Usability testing helps to identify the majority of problems users encounter, the reasons for these issues, and their impact when using GitLab, so we know what to improve. 
+Usability testing happens before you conduct a [CM Scorecard](/handbook/product/ux/category-maturity/category-maturity-scorecards/). Usability testing helps to identify the majority of problems users encounter, the reasons for these issues, and their impact when using GitLab, so we know what to improve. 
 
 If you run a CM Scorecard without prior usability testing, you will likely identify some of the usability problems users experience. However, the effort and rigor connected with the Category Maturity Scorecard to measure objectively the current maturity of the product doesn’t justify skipping usability testing. 
 In addition, during usability testing you have opportunities to engage with participants directly and dive deeper into understanding their behaviors and problems. The Category Maturity Scorecard process does not allow for such interactions as it's designed to capture unbiased metrics and self-reported user sentiment.
@@ -126,6 +140,3 @@ It’s a self-reported measure which may or may not be true. If a participant in
 
 **Why should I not use UserTesting.com’s native task metric _difficulty_ to assess Efficiency? Isn’t it the same?**
 UserTesting.com’s task metric _difficulty_ is similar but it uses a different rating scale than the Single Ease Question. Currently, there is no option to change the scale labels in UserTesting.com to align with ours.  
-
-
-
