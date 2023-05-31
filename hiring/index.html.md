@@ -108,7 +108,7 @@ Please find pages for potential and active applicants below.
 <details>
 <summary markdown="span">Open a req</summary>
 * [Instructions here](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse)<br>
-* [Open a kickoff session](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)<br>
+* [Open a kickoff session](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)
 </details>
 
 <details>
@@ -133,11 +133,12 @@ Please find pages for potential and active applicants below.
      * [Click here](/handbook/hiring/talent-acquisition-framework/req-creation/#choosing-the-correct-location-for-your-published-job) for more information on selecting the correct location for your job. This will help ensure that your LinkedIn listings are posted in the correct countries.<br>
      * Our jobs are now set up to automatically go to Indeed and Glassdoor and be posted as remote roles on both sites. Recruiters should unselect or leave unselected the option in Greenhouse to "publish to free job boards" as this requires us to input city, state, and country data that overrides the remote job listing. There is an automation in place to automatically send jobs to Indeed and Glassdoor.<br>
    + <details> <summary><a href="/handbook/hiring/talent-acquisition-framework/req-creation/#using-job-posting-rules-in-greenhouse">How to use Rules</a></summary>
-     * [Auto-tags](/handbook/hiring/greenhouse/#auto-tags)<br>
+     * [Auto-tags](/handbook/hiring/greenhouse/#auto-tags)
+  </details>
 </details>
 
 
-  <details><summary markdown="span">Req access and permissions</summary>
+<details><summary markdown="span">Req access and permissions</summary>
 
   * As a member of the Talent Acquisition team, you have the ability to add team members to view your job with differing layers of access. By default, all team members can access the interview kit & scorecard of someone they’re interviewing and this access does not need to be granted. For team members who require additional access, such as a Hiring Manager or their EBA, you will need to grant that access where appropriate.<br>
   * As you are deciding what access level someone should have, default to the setting that allows the most confidentiality for a candidate. If a team member does not need access to scorecards, for example, we should be choosing an access level that does not allow them to see them. A job admin (someone with higher level permissions) typically should not be at the same level or a direct report of a job they have access to. Enablment is in the process of creating a table with specific information about each level, which we will link to here when it is complete.<br>
@@ -145,8 +146,7 @@ Please find pages for potential and active applicants below.
   </details>
 
 
-
-<details><summary><a href="/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-scorecard">Setting up scorecards and interview plans</a></summary>
+<details><summary markdown="span">Set up scorecards and interview plans</summary>
 
   * There are two elements of a scorecard: the Scorecard section and the Interview Plan section. Both are accessible through Job Setup.
   * [**Scorecard**](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-scorecard) Depending on your department, you may have a lot of your scorecard options pre-filled. R&D scorecards are always set up for you, and may only require small tweaks depending on technical language or job grade.
@@ -159,7 +159,7 @@ Please find pages for potential and active applicants below.
     * Recruiters don’t need to be the only ones adding interview questions to the interview plan. Invite your Hiring Manager to complete this task alongside you.
     </details>
 
-</details>
+
 
 
 
