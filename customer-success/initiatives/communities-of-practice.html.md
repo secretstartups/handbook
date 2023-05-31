@@ -45,7 +45,7 @@ Anyone can establish or participate in an existing Community of Practice. Below 
 | [AWS](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/aws-community-of-practice)                  | [Darwin Sanoy](https://gitlab.com/darwinjs) |
 | [Google Cloud](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/google-cloud-community-of-practice) | [Regnard Raquedan](https://gitlab.com/rraquedan) |
 | [Modern Applications](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/modern-applications)                 | [@reshmikrishna](https://gitlab.com/reshmikrishna) |
-| [OpenShift](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/redhat-openshift-community-of-practice)                  | [Kurt Dusek (@kdusek)](https://gitlab.com/kdusek) |
+| [OpenShift](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/redhat-openshift-community-of-practice)                  | TBD |
 | [Trusted Advisor Skill Development](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/trusted-advisor-skill-development)   | Lead: [Bart Zhang (@bzhang7)](https://gitlab.com/bzhang7), Co-Leads: [Chester Nwachukwu (@cnwachukwu)](https://gitlab.com/cnwachukwu), [Darwin Sanoy (@DarwinJS)](https://gitlab.com/darwinjs) |
 
 
