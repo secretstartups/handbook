@@ -143,7 +143,7 @@ At the root of how we rate/grade experiences, it arguably comes down to three ma
 
 **Question 1: Single Ease Question (SEQ)**
 
-The [Single Ease Question (SEQ)](https://measuringu.com/single-question/) is a newly introduced industry-wide question based on other UX-related questions and measures. This question essentially helps us understand if the scenario was easy or difficult to complete and provides a simple and reliable way of measuring scenario-performance satisfaction. Bonus: this question is also used for UX Scorecard testing.
+The [Single Ease Question (SEQ)](https://measuringu.com/single-question/) is a newly introduced industry-wide question based on other UX-related questions and measures. This question essentially helps us understand if the scenario was easy or difficult to complete and provides a simple and reliable way of measuring scenario-performance satisfaction. This question is also used for the UX Scorecard formative evaluation approach.
 
 _Q1: “Overall, this scenario was...”_
 
@@ -155,7 +155,7 @@ _Q1: “Overall, this scenario was...”_
 
 **Question 2: User Experience rating**
 
-Admittedly, the term ‘user experience’ is broad; as it encompasses many components we care about (ex: efficiency, speed, usability, etc) that are completely applicable to how one rates an overall user experience. Because of that, we’re intentionally not defining ‘user experience’ and feel that given our audience, the definition will be collectively understood with a high level of accuracy. What sets this question apart: it closely aligns with the grading and scoring criteria with the UX Scorecard and CM Scorecard testing. Bonus: this question is also used for UX Scorecard testing.
+Admittedly, the term ‘user experience’ is broad; as it encompasses many components we care about (ex: efficiency, speed, usability, etc) that are completely applicable to how one rates an overall user experience. Because of that, we’re intentionally not defining ‘user experience’ and feel that given our audience, the definition will be collectively understood with a high level of accuracy. This question is also used for the UX Scorecard formative evaluation approach.
 
 _Q2: “How would you rate the quality of the user experience?”_
 
@@ -167,7 +167,7 @@ _Q2: “How would you rate the quality of the user experience?”_
 
 **Question 3: UMUX Lite, adjusted**
 
-The [UMUX Lite](https://measuringu.com/umux-lite/) score is based on the UMUX (Usability Metric for User Experience), created by [Finstad](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.872.6330&rep=rep1&type=pdf), and it is highly correlated with the [SUS](/handbook/product/ux/performance-indicators/system-usability-scale/) and the Net Promoter Score. It's intended to be similar to the SUS, but it's shorter and targeted toward the [ISO 9241 definition of usability](https://www.w3.org/2002/Talks/0104-usabilityprocess/slide3-0.html) (effectiveness, efficiency, and satisfaction).
+The [UMUX Lite](https://measuringu.com/umux-lite/) score is based on the UMUX (Usability Metric for User Experience), created by [Finstad](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.872.6330&rep=rep1&type=pdf), and it is highly correlated with the [SUS](/handbook/product/ux/performance-indicators/system-usability-scale/) and the Net Promoter Score. It's intended to be similar to the SUS, but it's shorter and targeted toward the [ISO 9241 definition of usability](https://www.w3.org/2002/Talks/0104-usabilityprocess/slide3-0.html) (effectiveness, efficiency, and satisfaction). This question is also used for the UX Scorecard formative evaluation approach.
 
 _Q3: "You just experienced our implementation of_ `<Scenario>`. _How would you agree or disagree with the following statement:_
 

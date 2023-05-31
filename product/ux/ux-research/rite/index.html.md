@@ -64,7 +64,7 @@ The RITE process is completed if you don’t identify any new usability issues i
 
 ### Metrics
 
-Since a RITE study is a usabity testing method, the same measures that are used for usability testing are used for RITE testing: Effectiveness, Eficiency, and Satisfaction.  The detailed measures to use can be found on the [usability testing](/handbook/product/ux/ux-research/usability-testing/#3-factors-to-measure) handbook page.
+Since a RITE study is a usabity testing method, the same measures that are used for usability testing are used for RITE testing: Effectiveness, Efficiency, Satisfaction, and Usefulness. The detailed measures to use can be found on the [usability testing](/handbook/product/ux/ux-research/usability-testing/#usability-factors-to-measure) handbook page.
 
 ### Number of tasks
 
