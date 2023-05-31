@@ -2,18 +2,18 @@
 title: "RubyMine"
 ---
 
+## Overview
+
 Website: https://www.jetbrains.com/ruby/
 
-Best for: editing Ruby or Rails applications, which can include Javascript/Typescript
+Best for: editing Ruby or Rails applications, which can include Javascript/Typescript.
 
-Strengths:
+## Common Jetbrains Setup and Configuration
 
-- Code completion
-- Easy refactoring
-- Powerful navigation tools
-- integrated git client
-- testing and debugging
+Jetbrains IDEs are standardized, so much of the setup and configuration information applies to all IDEs, and can be found under [Common Jetbrains Setup and Configuration](../setup-and-config).
 
-Designed specifically for Ruby/Rails, but it also supports other languages and
-file formats. It's an integrated development environment that also helps with
-testing and debugging.
+Specific config for this RubyMine can be found below at [RubyMine-specific Setup and Configuration](rubymine-specific-setup-and-config)
+
+## RubyMine-specific Setup and Configuration
+
+Placeholder for future content...
