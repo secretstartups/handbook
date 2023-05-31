@@ -99,10 +99,12 @@ Please find pages for potential and active applicants below.
 
 #### Opening a job
 
-+ <details> <summary>Get your headcount assignments</summary>
-
-  * [How to open headcount on R&D](/handbook/engineering/#hiring-practices)
-  * [How to open headcount on Sales and G&A](/handbook/hiring/talent-acquisition-framework/req-creation/#creation-and-approval)
+<details>
+<summary markdown="span">Get your headcount assignments</summary>
+<br>
+* [How to open headcount on R&D](/handbook/engineering/#hiring-practices)
+* [How to open headcount on Sales and G&A](/handbook/hiring/talent-acquisition-framework/req-creation/#creation-and-approval)
+</details>
 
 + <details><summary><a href="/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse">Open a req</a></summary>
 
