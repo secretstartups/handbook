@@ -296,6 +296,8 @@ If moderate or low risk observations are noted during the review process the Bus
 
 </details>
 
+In the case of a control deficiency introducing a material risk to the security of data, the Privacy team should be notified prior to finalization of the associated Risk Acceptance. Scenarios could exist in which a Security control failure carries Privacy implications that should be communicated to the Business Owner.
+
 Please refer to our [StORM Methodology Handbook](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) for required approvals based on risk rating (High/Medium/Low) and responsibilities of Accepted Risk Owners and Risk Acceptance Approvers.
 
 ## Exceptions
