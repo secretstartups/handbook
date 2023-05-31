@@ -262,6 +262,8 @@ There are two TPRM Risk Acceptance types:
 1. When business needs dictate that the Security Assessment process is delayed or bypassed (Delay or Bypass TPRM Review)
 2. When Observations are identified during a Security Assessment (Accepting Risk Associated to a Known Issue)
 
+In the case of a control deficiency introducing a material risk to the security of data, the Privacy team should be notified prior to finalization of the associated Risk Acceptance. Scenarios could exist in which a Security control failure carries Privacy implications that should be communicated to the Business Owner.
+
 Please refer to our [StORM Methodology Handbook](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) for required approvals based on risk rating (High/Medium/Low) and responsibilities of Accepted Risk Owners and Risk Acceptance Approvers.
 
 ## Exceptions
