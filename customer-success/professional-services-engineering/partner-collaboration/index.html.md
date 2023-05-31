@@ -147,7 +147,7 @@ If the project requirements exceed the current capacity of the available resourc
 - PS GitLab Project Manager raises risk of Change Order to PS Ops as appropriate
 - Consultant holds weekly check-in outside of customer meetings, including with their onboarding buddy. _Consultant and PS Onboarding Buddy ensure clear communication (as Consultant have less access to slack)._
 
-### Consulting Subcontractor Prime Partner Statement of Work (SOW) Process (WIP)
+### Consulting Subcontractor Prime Partner Statement of Work (SOW) Process
 
 Consulting subcontracting Prime SOWs include the terms and conditions, such as rates and dollar amount for a partner to deliver Consulting on GitLab's behalf. Each partner has a dollar amount specified on the Prime Partner SOW. After the funds are exhausted, a new Prime Partner SOW is generated. Each Prime Partner SOW has corresponding Coupa requisition and Work Authorization assignments.
 
@@ -197,8 +197,10 @@ When a GitLab Partner Travels:
 
 Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator will provide the partner the travel budget. Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the following details:
 
-- Separate line item for expenses on the invoice
+- Expense Report that includes a separate line item for each expenses
 - One PDF document to include receipts for each expense 
+- Guidlines for [Traveling](https://about.gitlab.com/handbook/travel/#expenses-while-traveling)
+- Expense [Guidlines](https://about.gitlab.com/handbook/finance/expenses/#expense-policy-outline)
 
 Expenses are to be invoiced in the month in which they have incurred    
    
