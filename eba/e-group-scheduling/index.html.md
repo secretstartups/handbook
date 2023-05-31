@@ -68,7 +68,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Do not schedule over DNB/Focus Time blocks without consulting the EBA of the People Group.
 * Scheduling should ideally be kept between 9:00 am and 5:30 pm Pacific Time
 
-## Scheduling for David DeSanto, VP Product 
+## Scheduling for David DeSanto, Chief Product Officer
 * Daily office hours are 9am-5pm ET, please Do Not Book meetings outside of working hours unless arranged with Sr. EBA, Gena Schwam
 * All meeting requests should go through the Sr. EBA for Product, Gena, and should include an agenda doc
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
