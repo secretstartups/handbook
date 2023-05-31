@@ -106,7 +106,7 @@ Please find pages for potential and active applicants below.
 </details>
 
 <details>
-<summary><a href="/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse">Open a req</a>
+<summary markdown="span">Open a req</summary>
 * [Instructions here](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse)<br>
 * [Open a kickoff session](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)<br>
 </details>
