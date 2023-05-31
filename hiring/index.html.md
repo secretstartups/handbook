@@ -105,24 +105,22 @@ Please find pages for potential and active applicants below.
 * [How to open headcount on Sales and G&A](/handbook/hiring/talent-acquisition-framework/req-creation/#creation-and-approval)
 </details>
 
-+ <details><summary><a href="/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse">Open a req</a></summary>
+  <details><summary><a href="/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse">Open a req</a></summary>
 
   * [Instructions here](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse)<br>
   * [Open a kickoff session](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)<br>
-   + <details> 
-   <summary markdown="span">Evergreen Requisitions</summary>
+
+   <details><summary markdown="span">Evergreen Requisitions</summary>
 
      * [Creating an evergreen req](/handbook/hiring/talent-acquisition-framework/evergreen-requisitions/)<br>
      * [Evergreen req guide](/handbook/hiring/talent-acquisition-framework/evergreen-requisitions/)<br>
      * An Evergreen Job is a requisition that is 'always open'. More specifically, it is used when we have at least 3 openings for a particular job repeated each quarter. There is then one Evergreen job posted for internal, external and passive candidates. It is important that no candidate is hired to an Evergreen job, and instead is moved to an approved opening (aka an opening with a single corresponding GHPiD). TA Leadership will open EVG roles at the start of a fiscal year, with a quarterly review cadence, by leveraging the hiring plan and attrition assumptions. See the pages above for more information.<br>
-    </details>
-   + <details> <summary markdown="span">Tips and Tricks</summary>
+   <details> <summary markdown="span">Tips and Tricks</summary>
    
      * Know your department before you open your req. If you need to change the department name later, the approval chain will not automatically update. If this happens to you, please contact Enablement.
      * We do not re-open jobs after they have been closed. This is because permissions and approvers may have changed in the time since the job was first closed.
-    </details>
 
-+ <details><summary markdown="span">Get your headcount assignments</summary>
++ <details><summary markdown="span">Post a job in Greenhouse</summary>
    * [Post an **internal** job](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse-dri-recruiter)<br>
    * [Post an **external** job](/handbook/hiring/talent-acquisition-framework/req-creation/#publish-the-job-to-the-careers-page--review-greenhouse-configuration)<br>
    + <details> <summary>Tips and Tricks</summary>
@@ -132,12 +130,9 @@ Please find pages for potential and active applicants below.
      * Our jobs are now set up to automatically go to Indeed and Glassdoor and be posted as remote roles on both sites. Recruiters should unselect or leave unselected the option in Greenhouse to "publish to free job boards" as this requires us to input city, state, and country data that overrides the remote job listing. There is an automation in place to automatically send jobs to Indeed and Glassdoor.<br>
    + <details><summary><a href="/handbook/hiring/talent-acquisition-framework/req-creation/#using-job-posting-rules-in-greenhouse">How to use Rules</a></summary>
      * [Auto-tags](/handbook/hiring/greenhouse/#auto-tags)<br>
-  * Job Templates - To be completed in Q2<br>
-  </details>
-  </details>
-  </details>
 
-+ <details> <summary>Req access and permissions</summary>
+
+  <details><summary markdown="span">Post a job in Greenhouse</summary>
 
   * As a member of the Talent Acquisition team, you have the ability to add team members to view your job with differing layers of access. By default, all team members can access the interview kit & scorecard of someone they’re interviewing and this access does not need to be granted. For team members who require additional access, such as a Hiring Manager or their EBA, you will need to grant that access where appropriate.<br>
   * As you are deciding what access level someone should have, default to the setting that allows the most confidentiality for a candidate. If a team member does not need access to scorecards, for example, we should be choosing an access level that does not allow them to see them. A job admin (someone with higher level permissions) typically should not be at the same level or a direct report of a job they have access to. Enablment is in the process of creating a table with specific information about each level, which we will link to here when it is complete.<br>
