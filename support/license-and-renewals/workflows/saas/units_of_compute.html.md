@@ -29,6 +29,22 @@ View the <a href="/handbook/support/workflows/chatops.html#setting-additional-mi
 Support ChatOps documentation</a> for more information.
 </details>
 
+## Process for authorising additional units of compute for customers as an act of goodwill
+
+- For an existing customer, Support is able to issue units of compute as an act of goodwill. Example situations include: customer has encountered a product bug related to units of compute; customer experienced an unplanned GitLab.com downtime. In such cases, 
+please request the customer to provide a list of impacted projects to our Support team. 
+([Example Ticket 1](https://gitlab.zendesk.com/agent/tickets/294974) 
+| [Example Ticket 2](https://gitlab.zendesk.com/agent/tickets/391109)) 
+- Once you have reviewed and validated: 
+  1. Post an internal note on the ticket denoting the number of units of compute to be applied, using the following formula: 
+  - `Total units of compute = Their current units of compute + (2 x sum of units of compute for all failed jobs)`
+  2. Request Manager Approval to `Restore Units of Compute as an act of goodwill` to the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) channel in Slack 
+  3. MANAGERS: Acknowledge in Slack and post approval via internal note in the ticket. 
+  4. Once Approval provided in ticket, restore the units of compute using the [mechanizer zendesk app: Set units of compute to namespace workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#set-units-of-compute-to-namespace)
+- This will provide recovery of the units of compute lost, with an additional amount in recognition of the inconvenience caused to the customer 
+- If the request falls outside of the examples above, any additional units of compute should be paid for. If you are unsure, verify in 
+the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) channel in Slack.
+
 ## Process for authorising additional units of compute to be added to GitLab Trial customers
 
 - If a customer is in trial and a request is submitted to increase their amount of units of compute to match those a Premium or Ultimate subscriber receives then the support engineer should seek authorisation from the customers sales representative to provide the additional units of compute, as they are able to self-authorise such requests. However, if a request is made for an increase in excess of the standard allotments of units of compute (i.e. more than 10,000 minutes for a Premium trial and more than 50,000 minutes for an Ultimate trial) then a transaction is required and those minutes should be paid.
