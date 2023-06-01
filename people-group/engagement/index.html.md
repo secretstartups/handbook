@@ -64,7 +64,7 @@ Team Member Engagement is important to the continued success of GitLab making th
 
 We partner with [CultureAmp](https://www.cultureamp.com/) to run our Engagement Surveys. CultureAmp provides a platform to gather feedback confidentially, benchmark against external comparables, and uses algorithms to highlight which areas matter most to our team members.
 
-Engagement surveys are geared toward giving team members an opportunity to provide feedback in terms of their experience within GitLab touching on pertinent elements such as `Company Culture`, `Teamwork`, `Management` and `Wellbeing` among others.
+Engagement surveys are geared toward giving team members an opportunity to provide feedback in terms of their experience within GitLab touching on pertinent elements such as `Company Culture`, `Teamwork`, `Management` and `Inclusion` among others.
 
 Feedback from the survey in turn allows Leadership within GitLab to gain insight into what is most important to team members, in particular what the business is doing well and what may need future iteration with the intention of improving the underlying team member experience and ensuring healthy levels of attrition are maintained.
 
@@ -76,19 +76,28 @@ In an effort to ensure team member confidentiality is upheld, only managers with
 
 The GitLab Team Member Engagement Survey is comprised of eleven sections each of which is aligned to a specific area of focus otherwise known as a factor.
 
-The survey factors for FY19 through FY21 were as follows with each section including three to eight questions - the most recent survey was comprised of fifty-four questions in total building out the original forty-six to include insight gathering around COVID-19. The format of the survey was predominantly Likert or Rating Scale with a handful of free text questions or comments toward the end. The favorable score is the percentage of participants who selected 'agree' and 'strongly agree'.
+The survey factors for FY24 were as follows with each section including three to five questions and the survey was comprised of fifty seven questions in total. The format of the survey was predominantly Likert or Rating Scale with a handful of free text questions or comments toward the end. The favorable score is the percentage of participants who selected 'agree' and 'strongly agree'.
 
-1. Section 01: GitLab Overall
-1. Section 02: Company Confidence
-1. Section 03: Our Leaders
-1. Section 04: Your Manager
-1. Section 05: Teamwork
-1. Section 06: Your Role
-1. Section 07: The Culture
-1. Section 08: Growth and Development
-1. Section 09: Wellbeing COVID-19
-1. Section 10: Action
-1. Section 11: Comments (Free Text)
+1. Section 01: Overall Sentiment and Inclusivity
+1. Section 02: Confidence in GitLab and Management
+1. Section 03: Your Role & Connecting at GitLab
+1. Section 04: Team and Company Values
+1. Section 05: Action
+1. Section 06: Comments (Free Text)
+
+## FY'24 Engagement Survey
+
+#### FY'24 Engagement Survey Timeline
+
+- 2023-05-16: Engagement Survey launch
+- 2023-06-07: Engagement Survey close
+- 2023-06-16: Results shared with e-group
+- 2023-06-21: Managers with 5+ responses receive reports via Culture Amp
+- 2023-06-21 through 2022-07-04: Leaders/Managers review their reports and discuss/brainstorm action plans in Staff/team meetings
+- 2023-06-28 and 2023-06-29: Target date for results shared company-wide
+- 2023-07-30: Finalize Action items and document in epics/issues
+- 2023-08-01: Functional action plans added to FY'23 Q3 OKRs and Division epics
+
 
 ### FY'23 Pulse Engagement Survey
 
