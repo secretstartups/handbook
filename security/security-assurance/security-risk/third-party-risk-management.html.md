@@ -269,6 +269,9 @@ Please refer to our [StORM Methodology Handbook](/handbook/security/security-ass
 ## Exceptions
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
+## Documentation Requests
+Looking for compliance reports for an active GitLab vendor? [Open a new issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new) within the TPRM workspace using the 'Vendor Documentation Request' template, and we'll be happy to track it down.
+
 ## References
 - Parent Policy: [Information Security Policy](/handbook/security/)
 - [SCF Compliance Controls](/handbook/security/security-assurance/security-compliance/guidance/compliance.html)
