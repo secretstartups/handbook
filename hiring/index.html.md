@@ -205,7 +205,7 @@ Please find pages for potential and active applicants below.
       * If this is an internal candidate, the most recent profile should always be Primary, but should not be merged until the candidate has accepted their offer to minimize the number of people with access to this information.
       * After merging, check the Activity Feed and Details tabs to see what information was removed from old profiles and ensure that you have the most accurate Recruiter, Coordinator, and Source.
       * If you have any questions, please contact the Enablement Manager because profile merges cannot be undone. 
-  </details>
+    </details>
 
   + <details><summary markdown="span">Adding or transferring candidates between jobs</summary>
 
@@ -214,7 +214,7 @@ Please find pages for potential and active applicants below.
     * When you add a candidate to a new job, the candidate starts the new job with a clean slate. There will be no scorecards or forms from any other position. This should be chosen when you are starting a brand new hiring process and will not be considering scorecards from any other job, and want their application date to be the date that you add them.
     * When you transfer a candidate from one job to another, most of their data before the reference check stage moves with them. Scorecards will be visible in the “Scorecards” tab and their original application date will remain. Scorecards that have not been submitted cannot be submitted after transfer, so make sure you collect those before you make your move. Offers and forms are also not transferable, so it’s important to transfer before a candidate hits the Reference Check stage. When you are moving someone from an Evergreen req into the role they will be hired into, you should always transfer. There will be no record of the previous job in any reporting.
     * Sometimes, deciding whether to add or transfer can be tricky. If a candidate interviewed for a role that was filled by someone else, and you get a new headcount a few months later, should you transfer them into the new job or add them and start over? One thing to consider is the implication your choice will have on the data. In this case, a candidate who transfers will appear to have been in the hiring process for months, when you’ve actually only been talking to them about this opening for a few days. At the same time, you want to save their scorecards because they’ll be relevant for the new job. In another situation, you could have an applicant who was being considered for the role, was rejected by the Hiring Manager, but contacted a few months later when the scope of the role changed and they were now considered a good fit. The key to knowing when to transfer is understanding what impact it would have on our data, and what solution would paint the most **accurate** picture. If you’re not sure whether to add or transfer, you should check in with Enablement to get another opinion.
-  </details>
+    </details>
   
   + <details><summary markdown="span">Rejecting candidates</summary>
   
@@ -224,7 +224,7 @@ Please find pages for potential and active applicants below.
       * Please note that you cannot submit scorecards after rejecting a candidate.
       * We will not cancel an interview within less than 24 hours' notice if the candidate is being rejected. The recruiter will notify the candidate that they are no longer in consideration for the role and present them with the option to continue with the scheduled interview slot. The interviewer must be informed, and will not discuss the feedback that led to the decline. The conversation will pivot to general opportunities at GitLab and answering any questions about the company and team that the candidate may have.
       * If the candidate's interview is outside 24 hours, the interview should be deleted in Greenhouse before the candidate is rejected and notified. The candidate should always be notified if they've been rejected, and the recruiter  is primarily responsible for declining the candidate. Any interviews scheduled will also not be automatically canceled, so you’ll need to ensure this happens first.
-  </details>
+    </details>
   
 </details>
 
