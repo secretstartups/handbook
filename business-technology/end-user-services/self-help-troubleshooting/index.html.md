@@ -26,7 +26,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 ## Purpose
 
-Please read through this page to find the common troubleshooting questions GitLab Team Members encounter. If you cannot find an answer to your question, please find more information on how to contact us at the (bottom of the page)[https://about.gitlab.com/handbook/business-technology/end-user-services/self-help-troubleshooting/#cant-find-what-you-are-looking-for].
+Please read through this page to find the common troubleshooting questions GitLab Team Members encounter. If you cannot find an answer to your question, please find more information on how to contact us at the [bottom of the page](https://about.gitlab.com/handbook/business-technology/end-user-services/self-help-troubleshooting/#cant-find-what-you-are-looking-for).
 
 ### <i class="fas fa-question-circle" id="biz-tech-icons"></i> Frequently Asked Questions
 
@@ -106,7 +106,7 @@ Several people have joined GitLab with not a lot of experience with macOS and th
 
 #### Transferring of data to New Mac
 
-- We do NOT recommend the use of Migration Assistant to transfer your data to your new Mac as this will break the connectivity of JAMF
+- We prohibit the use of Migration Assistant to transfer your data to your new Mac as this will break the connectivity of JAMF
 - Please use GitLab's Google Drive function to back up what is needed and then you're able to download this onto your new Mac
 
 ### Built-In MacBook Troubleshooting Commands
@@ -143,9 +143,9 @@ This is a quick walkthrough on how to check your MacBook's disk and run First Ai
 
 -  Review your Apple Warranty Status [Service and Support](https://checkcoverage.apple.com/)
 
-### Book an Apple Genius Bar Appointment for repair
+### Apple Support
 
-If your Apple device is having issues or is broken you can make an Apple Genius Bar Appointment to see if it can be fixed [Apple Genius Bar](https://www.apple.com/retail/geniusbar/)
+Please work with #it_help before reaching out to Apple Support or going to the Apple Genius Bar. For hardware issues, please see [laptop repair](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-repair) and [laptop replacement](/handbook/business-technology/end-user-services/onboarding-access-requests/#gitlab-laptop-replacement-program). 
 
 ## Okta
 
@@ -280,22 +280,13 @@ With the installation of JAMF comes Self Service which can be found in Applicati
 
 
 
-### Using Jamf Self Service to Erase your Mac 
+### Jamf Wipe
 
-macOS Monterey and newer includes Erase All Content and Settings, a way to quickly and securely erase all of your settings, data and apps, while maintaining the operating system currently installed. You can use Jamf's Self Service to do this for you. This functionality is only available when using macOS Monterey on a Mac with Apple silicon or a Mac with the Apple T2 Security Chip.
+If you need to wipe a macOS system because you have received a new (refreshed) system for GitLab work or are departing GitLab, please [schedule a time](/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts) with an IT Analyst to perform the wipe and decommission from Jamf management.
 
-If you are needing to wipe a machine because you have received a new (refreshed) system for GitLab work, please [schedule a time](/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts) with an IT Analyst to perform the wipe and decommission from Jamf management.
+### Reinstalling macOS after a Jamf wipe
 
-1. Search for the **Self Service** application on your MacBook.
-2. In the search bar, look up **Erase Assistant**. 
-4. From here, you'll see Erase Assistant. ***PLEASE ONLY CLICK ON THIS IF YOU WISH TO ERASE YOUR MAC. DATA WILL NOT BE RECOVERABLE***
-5. You'll be required to enter your computer password at the next prompt
-6. From here, your computer will be offline while the wipe commences for around 15-30 minutes
-7. Setup is complete when you see the Setup Assistant window.
-
-### Reinstalling macOS after a JAMF wipe
-
-We use JAMF to wipe Macs when you're either getting a new laptop, sending it back to our supplier, or retaining your laptop after you have left the company (https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy)
+We use Jamf to wipe Macs when you're either getting a new laptop, sending it back to our supplier, or retaining your laptop after you have left the company (https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy)
 
 After we have initiated the wipe from our end, the Mac should restart several times and end up in the Setup Assistant window. If this is not the case then you will need to manually reinstall macOS by following the steps below:
 
