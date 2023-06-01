@@ -102,7 +102,7 @@ The revoking and redistribution of licenses can only be processed by LinkedIn Le
 
 Once you have completed a course on LinkedIn Learning, you will receive a certificate. You will have the option to download and/or share it on your LinkedIn Profile. The video below walks thorugh how to do both. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GpWhSB-qrF0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vluzfElaReQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## LinkedIn Learning Cohorts
 
