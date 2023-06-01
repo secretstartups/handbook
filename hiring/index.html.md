@@ -13,7 +13,8 @@ description: "Landing page for many of the handbook pages the talent acquisition
 {::options parse_block_html="true" /}
 
 
-# Introduction 
+# Introduction
+--- 
 At the core of our team’s vision, mission, and strategy is our ability to impact GitLab’s overarching [mission](https://about.gitlab.com/company/mission/): to make it so that **everyone can contribute**. When **everyone can contribute**, users become contributors and we greatly increase the rate of innovation. 
 
 As a Talent Acquisition team, we have an outsized impact on GitLab’s ability to make this mission a reality, by connecting top talent to profound careers from wherever they are in a truly distributed, remote workforce. 
@@ -37,6 +38,7 @@ We strive to be as transparent as possible, but these sections are only availabl
 
 
 # Talent Acquisition Pages and Processes
+---
 
 
 ## Team Process Pages
@@ -60,6 +62,7 @@ We strive to be as transparent as possible, but these sections are only availabl
 
 
 ## Candidate Handbook Pages
+---
 Please find pages for potential and active applicants below.
 
 - [Candidate Handbook Page](/handbook/hiring/candidate/faq/)
@@ -67,6 +70,7 @@ Please find pages for potential and active applicants below.
 
 
 ## Interviewer Processes
+---
 
 - [Interviewer Prep Requirements](/handbook/hiring/interviewing/)
 - [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
@@ -74,12 +78,14 @@ Please find pages for potential and active applicants below.
 
 
 ## Hiring Manager Processes
+---
 
 - [Hiring Manager Processes](/handbook/hiring/talent-acquisition-framework/hiring-manager/)
 - [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
 - [Greenhouse for Hiring Managers](/handbook/hiring/greenhouse/#for-hiring-managers)
 
 ## Candidate Experience Specialist Processes
+---
 
 <details>
 <summary markdown="span">Greenhouse integrations you'll need</summary>
@@ -96,7 +102,7 @@ Please find pages for potential and active applicants below.
 
 
 ## Recruiters and Sourcers
-
+---
 
 #### Opening a job
 
@@ -230,18 +236,19 @@ Please find pages for potential and active applicants below.
 
 
 ## Other Hiring Pages
+---
 
 - [Greenhouse](/handbook/hiring/greenhouse/)
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
 - [Referral Operations](/handbook/hiring/referral-operations/)
 - [Referral Process](/handbook/hiring/referral-process/)
-- [Resource Guide](/handbook/hiring/guide/)
 - [Sourcing](/handbook/hiring/sourcing/)
 
 
 
 ## Additional Resources
+---
 
 - [Overview of Job Families](/handbook/hiring/job-families)
 - [Background checks](/handbook/people-policies/#background-checks)
