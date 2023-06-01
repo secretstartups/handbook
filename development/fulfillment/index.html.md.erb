@@ -86,11 +86,13 @@ stable_counterparts(role_regexp: /Fulfillment|Fulfillment:/, direct_manager_role
 <% ent_apps_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| ent_apps.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: ent_apps_members }) %>
 
-### Sales & Go To Market (GTM)
+### Sales & Go-To-Market (GTM)
 
 <% sales = %w[asipala] %>
 <% sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: sales_members }) %>
+
+The Sales & Go-To-Market stable counterpart will serve as the GTM DRI for strategic cross-functional intiatives, new feature and system updates, and bug resolution. They will ensure that an end-to-end approach is taken into account when communicating with the field and users. Fulfillment PMs can engage the counterpart for new GTM work by using @mention in GitLab as the primary method to submit and prioritize tasks. 
 
 ### Billing and Accounts Receivable
 
