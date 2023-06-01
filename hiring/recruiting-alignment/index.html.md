@@ -10,7 +10,7 @@ description: "This page is an overview of the search team alignment and the tale
 |--------------------------|-----------------|-------------------------------------|
 | Executive          | Rich Kahn    | Sruthy Menon  |
 | Executive          | Zach Choquette   | Sruthy Menon  |
-| Enterprise Sales, NA | Kevin Rodrigues |Sruthy Menon |
+| Enterprise Sales, NA | Kevin Rodrigues |Michelle Jubrey |
 | Enterprise Sales, APAC | Yas Priatna | Lerato Thipe |
 | Enterprise Sales, EMEA | Kannwal Matharu | Lerato Thipe |
 | Commercial Sales,	AMER | Marcus Carter | Michelle Jubrey |
