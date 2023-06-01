@@ -55,12 +55,9 @@ As we make progress on [Project Runway](https://gitlab.com/groups/gitlab-com/gl-
 
 We are able to help expedite features to General Availability.
 
-Please contact an Infrastructure Engineering Manager or Director with the following information to hand:
+In order to expedite a prototype feature, on the epic tracking the work required to reach General Availability, include the label `~expedite_prototype`.
+Infrastructure leadership are subscribed to this label and will be notified that the intention is to expedite this feature. 
 
-1. Link to the GA Epic for this feature
-1. Names of the Product Manager and Engineering Manager
-1. Name of the stage group that owns this feature
-1. Name of an Engineering IC (preferably Staff level)
+Infrastructure leadership will confirm with the epic DRI if they are able to support this. 
 
-The Infrastructure leadership will help this group work through the table listed above so that
-the feature can be made Generally Available as quickly as possible.
+Epics with this label are visible in the [Prototype Status epic board](https://gitlab.com/groups/gitlab-org/-/epic_boards/44867).
