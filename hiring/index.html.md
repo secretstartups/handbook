@@ -139,11 +139,12 @@ Please find pages for potential and active applicants below.
    * [Using Rules](/handbook/hiring/talent-acquisition-framework/req-creation/#using-job-posting-rules-in-greenhouse/)
    * [Auto-tags](/handbook/hiring/greenhouse/#auto-tags)
    + <details><summary markdown="span">Tips and Tricks</summary>
+   
      * Salary transparency: In select US states, GitLab discloses salaries in job descriptions in accordance with local laws. Total Rewards will add this information to the job’s approvals page. When you create your _external_ job post, utilize Pay Transparency Rules and select Hiring in the USA. If the job will not be posted in the US, select N/A.<br>
      * EEOC questions should be checked off in the US only<br>
      * [Click here](/handbook/hiring/talent-acquisition-framework/req-creation/#choosing-the-correct-location-for-your-published-job) for more information on selecting the correct location for your job. This will help ensure that your LinkedIn listings are posted in the correct countries.<br>
      * Our jobs are now set up to automatically go to Indeed and Glassdoor and be posted as remote roles on both sites. Recruiters should unselect or leave unselected the option in Greenhouse to "publish to free job boards" as this requires us to input city, state, and country data that overrides the remote job listing. There is an automation in place to automatically send jobs to Indeed and Glassdoor.
-  </details>
+</details>
 
 
 
@@ -168,6 +169,7 @@ Please find pages for potential and active applicants below.
     * Recruiters don’t need to be the only ones adding interview questions to the interview plan. Invite your Hiring Manager to complete this task alongside you.
     </details>
 </details>
+
 
 #### Interview Stages
 
