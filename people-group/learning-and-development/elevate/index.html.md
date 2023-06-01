@@ -250,7 +250,7 @@ Refer to the table below to align on language used to talk about Elevate.
 
 ### Disengaged Participants
 
-If a participant misses a live session or falls behind on self paced work, the L&D team should use the following outreach process. Messages can be found [in this Google sheet](https://docs.google.com/spreadsheets/d/1HkgVWfMFutt9JlUpQnp8jXJs0prvbSnLO0dS41gonoY/edit#gid=1090672786).
+If a participant misses a live session or falls behind on self paced work, the L&D team should use the following outreach process. Messages can be found [in this Google sheet](https://docs.google.com/spreadsheets/d/1xPAVF9hlZE_oZohmQ_WhE6Q36TJoSuJkidPraUNbZ3c/edit#gid=0).
 
 | Timeline | L&D Action | 
 | ----- | ----- |
