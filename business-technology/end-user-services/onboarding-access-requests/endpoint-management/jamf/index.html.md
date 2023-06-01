@@ -159,6 +159,21 @@ There is a notification pop up called "Clever DevOps Co." that may say Nudge is 
 
 <img src="clever-devops.png" alt="Clever Devops" width="300">
 
+
+
+If Nudge is recommending that you update your OS and no OS seems to be available try the following
+
+- Open a Terminal window paste the following to install all updates
+
+``` shell
+sudo software update -ia
+```
+- If you are on an older macOS version like macOS Monterey then try fetching the full installer
+
+``` shell
+sudo softwareupdate --fetch-full-installer --full-installer-version <latest macOS version number>
+```
+
 ### Troubleshooting Nudge
 
 If Nudge is not behaving as expected please follow these steps to produce logs for troubleshooting purposes:
