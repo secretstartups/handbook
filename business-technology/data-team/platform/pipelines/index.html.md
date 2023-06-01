@@ -368,9 +368,27 @@ Export queries for BigQuery are generated via details in the `gcs_external.yml` 
 
 The detail table is partitioned daily, which matches the current schedule interval in the DAG, the summary table however is partitioned monthly, though run daily. **This means that when backfilling the summary table you only need to run one task instance per month**.
 
+#### dbt external table package
 This data is then accessed in Snowflake via external tables created with the [dbt external table package](https://github.com/dbt-labs/dbt-external-tables), which is implemented for this GCS billing pipeline in [`/sources/gcp_billing/sources.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/sources/gcp_billing/sources.yml#L25).
 
 This pattern should be expanded or replicated for any future BigQuery to GCS export use cases.
+
+###### External table perms
+There is a slight complication regarding Snowflake perms. The external stage must be created with the LOADER role. However, the external table created by the dbt package uses the TRANSFORMER role. This causes a `Schema 'some_schema' does not exist or not authorized` error.
+
+To fix this, the Snowflake `external stage` and `schema` must be updated to be owned by the TRANSFORMER role like so:
+```sql
+use <database.schema>;
+use role <your-username>;
+
+-- schema currently owned by LOADER
+grant ownership on schema <schema>
+to role transformer copy current grants;
+
+-- stage currently owned by LOADER
+grant ownership on stage <stage>
+to role transformer copy current grants;
+```
 
 ### Container Registry Logs
 
