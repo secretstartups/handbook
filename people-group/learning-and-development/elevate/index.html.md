@@ -129,6 +129,7 @@ The certification for Elevate is not meant to be scary! It's a time to demonstra
 
 1. Sign up for a 50 minute certification session that works for your schedule. The sign up issue for your cohort will be shared in Slack.
 1. Review the 4 scenarios that you might be asked about in the session [here](https://docs.google.com/document/d/1vugl8dAeEIX3UxMCIusgG3_HDH6QEABenIf72y83ujg/edit).
+1. Make a copy of the [Elevate Tools and Frameworks resource](https://docs.google.com/document/d/1o-JbkF7uB0pQmf1NJcuZkmak3s-eXaMxo_BL1bIlCPU/edit) for your own note take and certification prep.
 1. Understand how your performance will be assessed by reviewing the grading rubric [here](https://docs.google.com/document/d/1jzbJ-7aa9Qwn6fv111pKLJ6llYg7z_tPCx-O3mWQi2c/edit)
 1. Practice and ask questions in you cohort Slack channel
 
