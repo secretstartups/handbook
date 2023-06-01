@@ -80,7 +80,7 @@ Since these items are company property, you do not need to buy insurance for the
 
 If your laptop is broken and needs to be repaired you can take it into an Apple repair store. You should ensure that you have a recent backup before doing so, and that your laptop is not your only registered device for iCloud two-factor authentication.
 
-If the repair is not going to be too expensive (more than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
+If the repair is not going to be too expensive (less than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
 
 You must open an issue in the [End User Services Issue Tracker](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval. Please make sure to attach/include any estimates or receipts for the repair that you got from Apple (or any authorized service center) in the issue. Picture or PDF will work just fine.
 
