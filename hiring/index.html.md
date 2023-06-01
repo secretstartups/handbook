@@ -13,7 +13,7 @@ description: "Landing page for many of the handbook pages the talent acquisition
 {::options parse_block_html="true" /}
 
 
-## Introduction 
+# Introduction 
 At the core of our team’s vision, mission, and strategy is our ability to impact GitLab’s overarching [mission](https://about.gitlab.com/company/mission/): to make it so that **everyone can contribute**. When **everyone can contribute**, users become contributors and we greatly increase the rate of innovation. 
 
 As a Talent Acquisition team, we have an outsized impact on GitLab’s ability to make this mission a reality, by connecting top talent to profound careers from wherever they are in a truly distributed, remote workforce. 
@@ -36,10 +36,10 @@ We strive to be as transparent as possible, but these sections are only availabl
 
 
 
-## Talent Acquisition Pages and Processes
+# Talent Acquisition Pages and Processes
 
 
-### Team Process Pages
+## Team Process Pages
 
 - [TA Key Performance Indicators](https://internal-handbook.gitlab.io/handbook/people-group/talent-acquisition/key-performance-indicators/) Note: this page is currently in our internal handbook as they are a work in progress.
 - [Meeting Cadence](/handbook/hiring/meetings/)
@@ -59,27 +59,27 @@ We strive to be as transparent as possible, but these sections are only availabl
 </details>
 
 
-### Candidate Handbook Pages
+## Candidate Handbook Pages
 Please find pages for potential and active applicants below.
 
 - [Candidate Handbook Page](/handbook/hiring/candidate/faq/)
 - [Talent Acquisition Privacy Policy](/handbook/hiring/candidate/faq/recruitment-privacy-policy/)
 
 
-### Interviewer Processes
+## Interviewer Processes
 
 - [Interviewer Prep Requirements](/handbook/hiring/interviewing/)
 - [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
 - [Greenhouse for Interviewers](/handbook/hiring/greenhouse/#for-all-interviewers/)
 
 
-### Hiring Manager Processes
+## Hiring Manager Processes
 
 - [Hiring Manager Processes](/handbook/hiring/talent-acquisition-framework/hiring-manager/)
 - [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
 - [Greenhouse for Hiring Managers](/handbook/hiring/greenhouse/#for-hiring-managers)
 
-### Candidate Experience Specialist Processes
+## Candidate Experience Specialist Processes
 
 <details>
 <summary markdown="span">Greenhouse integrations you'll need</summary>
@@ -95,9 +95,11 @@ Please find pages for potential and active applicants below.
 
 
 
-### Recruiters and Sourcers
+## Recruiters and Sourcers
+
 
 #### Opening a job
+
 
 <details>
 <summary markdown="span">Get your headcount assignments</summary>
@@ -106,7 +108,7 @@ Please find pages for potential and active applicants below.
 </details>
 
 <details>
-<summary markdown="span">Open a req</summary>
+<summary markdown="span">Open a req in Greenhouse</summary>
 * [Instructions here](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse)<br>
 * [Open a kickoff session](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)
 </details>
@@ -125,6 +127,7 @@ Please find pages for potential and active applicants below.
 
 <details>
 <summary markdown="span">Post a job in Greenhouse</summary>
+
    * [Post an **internal** job](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse-dri-recruiter)<br>
    * [Post an **external** job](/handbook/hiring/talent-acquisition-framework/req-creation/#publish-the-job-to-the-careers-page--review-greenhouse-configuration)<br>
    * [Using Rules](/handbook/hiring/talent-acquisition-framework/req-creation/#using-job-posting-rules-in-greenhouse/)
@@ -134,8 +137,6 @@ Please find pages for potential and active applicants below.
      * EEOC questions should be checked off in the US only<br>
      * [Click here](/handbook/hiring/talent-acquisition-framework/req-creation/#choosing-the-correct-location-for-your-published-job) for more information on selecting the correct location for your job. This will help ensure that your LinkedIn listings are posted in the correct countries.<br>
      * Our jobs are now set up to automatically go to Indeed and Glassdoor and be posted as remote roles on both sites. Recruiters should unselect or leave unselected the option in Greenhouse to "publish to free job boards" as this requires us to input city, state, and country data that overrides the remote job listing. There is an automation in place to automatically send jobs to Indeed and Glassdoor.
-     </details>
-
   </details>
 
 
@@ -162,13 +163,75 @@ Please find pages for potential and active applicants below.
     </details>
 </details>
 
+#### Interview Stages
+
+<details>
+<summary markdown="span">Screening Stage</summary>
+
+  * [Screening Stage guidelines](/handbook/hiring/talent-acquisition-framework/req-overview/#screening)
+  * All phone screens are scheduled through Calendly by the Recruiter. [Click here](https://support.greenhouse.io/hc/en-us/articles/360029359472-Enable-Calendly-integration) for instructions on how to set up the Calendly-Greenhouse integration. All Recruiters have a Calendly subscription through the Talent Acquisition plan, so please check with Enablement if you don’t have one.
+  * Even if you know you won’t hire the candidate, recruiters should always put scorecards into Greenhouse within 24 hours of a screen. Should that candidate apply again, other recruiters will want to review your notes.
+  * To maintain privacy and confidentiality for the candidate, all mention of salary or personal information should be recorded as private notes. Salary information should never be written in a candidate’s scorecard. If a candidate discloses information about being part of a protected class, such as their ethnicity, current pregnancy, or sexual orientation, refrain from writing any notes referencing this.
+  * Click [here](/handbook/hiring/talent-acquisition-framework/req-overview/#screening) to find where some of your potentially confidential information about a candidate can be placed.
+</details>
+
+- [Assessments](/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-interview-plan)
+- [Team Interview](/handbook/hiring/talent-acquisition-framework/req-overview/#team-interview)
+<details>
+<summary markdown="span">Scheduling tools in Greenhouse</summary>
+
+  * Candidate Experience Specialists use [Prelude](/handbook/hiring/prelude/#prelude) to schedule.
+  * Interview confirmations are sent through [Guide](/handbook/hiring/guide/#guide). Because of this, confirmations have calendar invites that can be downloaded rather than being sent through. For this reason, Recruiters are not able to be added to candidate interview invites.
+</details>
+
+<details>
+<summary markdown="span">Greenhouse for internal candidates</summary>
+
+  * There are a few elements of Greenhouse that are different for internal candidates. Please note that internal candidates refer to current, full time team members. Interns converting to full time, contractors, or rehires are not considered internal candidates.
+  * Interviews will always be scheduled as “private” events to ensure the candidate’s privacy. Interviews will show up as “busy” events on candidate and interviewers calendars rather than showing as interviews.
+  * If internal applicants apply via our internal job board, the yellow “internal applicant” tag will automatically show in the GH profile. If you don’t see this tag, you can add it by navigating to the “Details” tab in GH and scroll down to “Source & Responsibility”. Click the pencil next to Source and select Internal Applicant from the drop down.
+  * CES will use the internal applicant’s Google Calendar to find an appropriate time for them to meet, and do not need to be sent an availability email.
+</details>
+
+<details>
+<summary markdown="span">Candidate Hygiene</summary>
+
+  + <details><summary markdown="span">Merging candidates</summary>
+
+    * Recruiters should [merge applicant profiles](https://support.greenhouse.io/hc/en-us/articles/115004506466-Merge-candidate-profiles) whenever you see the opportunity and can verify that the candidates are the same. Merging applicant profiles allows you to keep data up to date, and also ensures that you know the full application history of anyone who applies. Aside from Internal candidates who should be merged right before hiring, you can merge candidates at any stage of the process.
+    * All of Talent Acquisition has access to merge profiles. You can merge candidate profiles by viewing the right hand toolbar on an applicant profile, and clicking on either the alert that appears at the top of the toolbar or ‘See More’ in the ‘Tools’ section.Before beginning, please ensure that the profiles are a match for each other by verifying that their emails, phone numbers, and/or resumes are the same.
+    * When selecting which profile is Primary (right side), consider the following:
+      * As a default, the most recent applicant profile should most likely be the Primary one, unless the most recent is a Prospect.
+      * If this is an internal candidate, the most recent profile should always be Primary, but should not be merged until the candidate has accepted their offer to minimize the number of people with access to this information.
+      * After merging, check the Activity Feed and Details tabs to see what information was removed from old profiles and ensure that you have the most accurate Recruiter, Coordinator, and Source.
+      * If you have any questions, please contact the Enablement Manager because profile merges cannot be undone. 
+  </details>
+
+  + <details><summary markdown="span">Adding or transferring candidates between jobs</summary>
+
+    * If a candidate is in one job and needs to move to another, it’s important to correctly determine whether they should be added or transferred. Both are accessible by clicking the ‘Add, Transfer, or Remove Candidate’s Jobs’ button on the bottom right corner of your candidate profile.
+    * Before making any moves, always ensure the candidate does not have any interviews scheduled. Transferring will automatically remove scheduled interviews and make them invisible on the candidates’ Guide, but will not cancel the interview from the interviewers’ calendar or inform the candidate of what is happening. Always wait until the interview has been completed, or fully cancel the interview and reschedule under the new req.
+    * When you add a candidate to a new job, the candidate starts the new job with a clean slate. There will be no scorecards or forms from any other position. This should be chosen when you are starting a brand new hiring process and will not be considering scorecards from any other job, and want their application date to be the date that you add them.
+    * When you transfer a candidate from one job to another, most of their data before the reference check stage moves with them. Scorecards will be visible in the “Scorecards” tab and their original application date will remain. Scorecards that have not been submitted cannot be submitted after transfer, so make sure you collect those before you make your move. Offers and forms are also not transferable, so it’s important to transfer before a candidate hits the Reference Check stage. When you are moving someone from an Evergreen req into the role they will be hired into, you should always transfer. There will be no record of the previous job in any reporting.
+    * Sometimes, deciding whether to add or transfer can be tricky. If a candidate interviewed for a role that was filled by someone else, and you get a new headcount a few months later, should you transfer them into the new job or add them and start over? One thing to consider is the implication your choice will have on the data. In this case, a candidate who transfers will appear to have been in the hiring process for months, when you’ve actually only been talking to them about this opening for a few days. At the same time, you want to save their scorecards because they’ll be relevant for the new job. In another situation, you could have an applicant who was being considered for the role, was rejected by the Hiring Manager, but contacted a few months later when the scope of the role changed and they were now considered a good fit. The key to knowing when to transfer is understanding what impact it would have on our data, and what solution would paint the most **accurate** picture. If you’re not sure whether to add or transfer, you should check in with Enablement to get another opinion.
+  </details>
+  
+  + <details><summary markdown="span">Rejecting candidates</summary>
+  
+    * When rejecting candidates, it’s important to carefully review all rejection reasons and pick the one that most accurately describes why a candidate is being rejected. This is because data is analyzed on a quarterly basis by the Talent Acquisition Leadership team, People Leadership Team, and E-Group.
+    * Once you’ve clicked the most detailed reason, include detailed context on the reason in the “Rejection Notes” box. Please be as specific as possible. For example, instead of writing “the candidate rejected because of compensation”, write “the candidate rejected because the salary and equity that we offered was much lower than a competing offer.”
+    * Timing
+      * Please note that you cannot submit scorecards after rejecting a candidate.
+      * We will not cancel an interview within less than 24 hours' notice if the candidate is being rejected. The recruiter will notify the candidate that they are no longer in consideration for the role and present them with the option to continue with the scheduled interview slot. The interviewer must be informed, and will not discuss the feedback that led to the decline. The conversation will pivot to general opportunities at GitLab and answering any questions about the company and team that the candidate may have.
+      * If the candidate's interview is outside 24 hours, the interview should be deleted in Greenhouse before the candidate is rejected and notified. The candidate should always be notified if they've been rejected, and the recruiter  is primarily responsible for declining the candidate. Any interviews scheduled will also not be automatically canceled, so you’ll need to ensure this happens first.
+  </details>
+  
+</details>
 
 
-
-### Other Hiring Pages
+## Other Hiring Pages
 
 - [Greenhouse](/handbook/hiring/greenhouse/)
-- [Overview of Job Families](/handbook/hiring/job-families)
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
 - [Referral Operations](/handbook/hiring/referral-operations/)
@@ -180,6 +243,7 @@ Please find pages for potential and active applicants below.
 
 ## Additional Resources
 
+- [Overview of Job Families](/handbook/hiring/job-families)
 - [Background checks](/handbook/people-policies/#background-checks)
 - [Benefits](/handbook/total-rewards/benefits/)
 - [Compensation](/handbook/total-rewards/compensation/)
