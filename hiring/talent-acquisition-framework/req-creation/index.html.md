@@ -312,7 +312,9 @@ There are set location options in Greenhouse to make this possible. Recruiters c
 | Remote, Global | United States, Canada, United Kingdom, Netherlands, India, Australia, Ireland |
 | Remote, Americas | United States, Canada, Mexico, Chile, Costa Rica |
 | Remote, EMEA | United Kingdom, Netherlands, Germany, France, Ireland, South Africa, Belgium |
+| Remote, Europe | United Kingdom, Netherlands, Germany, France, Ireland |
 | Remote, APAC | Australia, New Zealand, South Korea, Singapore, Japan, India, Phillipines |
+| Remote, Asia | Singapore, Phillipines, South Korea, Japan |
 | Remote, US | United States |
 | Remote, North America | United States, Canada |
 | Remote, France | France |
