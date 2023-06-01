@@ -147,8 +147,7 @@ Accounts and Subscriptions excluded from auto-renewal:
    3. `Account.Support Hold = Yes` (customers are placed on support hold when accounts become >90 days past due without payment commitment).
    4. `Account.Credit Hold = Yes` (customers are placed on credit hold when any balance is written off to bad debt)
 
-There’s an automated process (Zuora Workflow) that sets `Subscription.TurnOnSeatReconciliation__c` to No for the use cases listed above.
-
+There’s an automated process (Zuora Workflow) that sets `Subscription.TurnOnAutoRenew__c` to `No` for the use cases listed above.
 
 ##### GitLab Docs for SaaS (public)
 
@@ -181,6 +180,87 @@ There’s an automated process (Zuora Workflow) that sets `Subscription.TurnOnSe
 - [True-up](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html)
 - [Seat usage](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#how-seat-usage-is-determined)
 - [Seats owed](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#seats-owed)
+
+#### Quarterly Subscription Reconciliation (QSR)
+
+With QSR, paying for the seat overages is easy to understand, saves precious time, and results in a fairer billing model for our customers. SaaS and Self-Managed customers have their seat usage reviewed on quarterly basis, and receive an invoice for any overages. Some customers may choose to opt out of QSR (via Contract amendment), in which case they will default to the existing Annual true-up process. Using operational data around seat utilization, we aim to automate as much as possible for the seat overage billing process. This allow us to:
+
+1. Drive sales efficiency at renewal: minimize the friction at renewal of dealing with seat overages. For smaller accounts, this is the foundation for fully automated renewals, which completely frees up sales capacity to focus on larger accounts.
+2. Improved customer satisfaction: quarterly reconciliation reduces customer billing surprises and also helps reduce customer costs for users added later into the annual term.
+
+##### QSR eligibility
+
+Accounts and Subscriptions excluded from QSR:
+
+1. Subscriptions purchased via a Reseller or another Channel partner (where the customer didn’t transact with GitLab directly).
+2. Subscriptions for Education, OSS, or Startup (i.e. Community Programs).
+3. Subscriptions with non-standard term (not in 12 month term increments).
+4. Multi-year subscriptions (with term greater than 12 months). This is a temporary measure until [this epic](https://gitlab.com/groups/gitlab-org/-/epics/9591) is done.
+5. Accounts with the following settings in Zuora:
+   1. `Account.PO Required = Yes` (customer notifies GitLab they have a “no PO, no Pay policy”, booking requirement and pre-billing).
+   2. `Account.Portal Required = Yes` (customer notifies GitLab that they require invoices to be manually uploaded to a billing portal, and includes non-PO, PO, contract, or SOW).
+   3. `Account.Support Hold = Yes` (customers are placed on support hold when accounts become >90 days past due without payment commitment).
+   4. `Account.Credit Hold = Yes` (customers are placed on credit hold when any balance is written off to bad debt)
+
+There’s an automated process (Zuora Workflow) that sets `Subscription.TurnOnSeatReconciliation__c` to No for the use cases listed above.
+
+##### QSR Process
+
+1. When a new subscription is purchased or an existing subscription renewed, it is opted into Quarterly Reconciliation.
+   1. `Subscription.TurnOnSeatReconciliation__c` variable is set to Yes.
+   2. `Subscription.ContractSeatReconciliation__c` variable is set to Yes.
+2. Usage data is gathered daily
+   1. SaaS: Usage data is collected directly from GitLab.com using the namespace API.
+   2. Self-Managed: Data is gathered via Cloud Licensing.
+3. Seven days prior to reconciliation, an alert displayed to the customer informing them of the overage and a process to be taken place ([SaaS](https://gitlab.com/gitlab-org/gitlab/-/issues/215187/), [Self-Managed](https://gitlab.com/gitlab-org/gitlab/-/issues/332041)).
+4. 3 / 6 / 9 months after Subscription Start Date, an automated reconciliation occurs. Any overage incurred during Q4 is forgiven.
+5. 12 months after Subscription Start Date - [renewal occurs](#subscription-renewal-and-auto-renewal).
+
+**How individual automated reconciliation works:**
+
+This functionality lives in Customers Portal and runs daily at midnight UTC. Please note that this process is shifted by 6 days for Self-Managed subscriptions, so that we have enough time to collect seat usage data from the instance.
+
+1. Find all subscriptions where `TurnOnSeatReconciliation__c` is equal to Yes.
+2. Calculate overage by checking what the Max User count was over the previous quarter.
+3. Store the seat overage, preview and store the invoice amount against Zuora.
+   1. Send an email to the customer with the exact overage quantity and invoice amount they can expect to pay (subject: "Important information about your GitLab subscription").
+   2. Copy this email to SFDC, and display under the Contact Activity.
+4. Create an Open SFDC Opportunity, store that OpportunityId on the Reconciliation record.
+5. 7 days later, create an amendment in Zuora to add additional seats at Effective Price. The new seat count is effective at the end of the quarter and through the end of Subscription Term (no historical chargeback for overage).
+   1. Amendment Name is set to `Automated seat reconciliation`.
+6. Generate an invoice and apply payment.
+   1. If payment fails, or no payment method is on file, reconciliation doesn’t happen. Email is sent (subject: “Your GitLab subscription failed to reconcile”). Copy this email to SFDC, and display under the Contact Activity.
+   2. For Sales Assisted customers, an invoice is generated and sent for payment (from Zuora). Account specific payment terms apply.
+7. Send an email with the Receipt from Zuora (via a scheduled Zuora Workflow).
+8. Send an email that reconciliation has occurred, include provisioning instructions (subject: “Your GitLab subscription has been reconciled”). This email is copied to SFDC and displayed under Contact Activity.
+9. Additional seats are provisioned.
+   1. For SaaS customers, provision additional seats immediately.
+   2. For Self-managed customers, provision additional seats in the next instance sync (24 hrs), or customer can trigger the update from within their instance.
+10. Update SFDC Opportunity to Closed Won, and created related SFDC Quote and Quote objects.
+   1. If reconciliation fails for any reason, SFDC Opportunity remains open.
+
+<!--##### QSR and SFDC Opportunities
+-->
+##### FAQs
+
+1. **How do I see the status of QSRs?**
+   1. Log in to [Customers Portal Admin](https://customers.gitlab.com/admin), and navigate to [Reconciliations](https://customers.gitlab.com/admin/reconciliation) section.
+   2. Input subscription name (i.e. "A-S00039268") in the filter box, and do a search.
+   3. This will display all of the reconciliation records for that subscription, and you'll be able to see each of their statuses.
+2. **Customer is enrolled in QSR, but no reconciliations have been performed.**.
+   1. QSR could have been skipped for various reasons, including declined payment. Please follow the instructions in point `1` for looking up the QSR status.
+3. **Customer is enrolled in QSR, but reconciliation has been skipped with `reconciliations_disabled` reason code.**
+   1. Customer’s Self-Managed instance must be activated with Cloud License. This will enable seat usage collection, so that we can perform the reconciliation.
+4. **Customer is on EOA or another plan at a discounted per-seat price. Will their QSR amendment be based on the discounted/effective or list price?**
+   1. QSR Amendment for additional seats will be based on the effective price.
+5. **Does QSR respect the EOA business rule of 25 maximum seats at a discounted price?**
+   1. Kind of - we will skip the QSR if we try to amend EOA-type subscription for more than 25 seats. [Click here](https://customers.gitlab.com/admin/reconciliation?&f%5Berror_message%5D%5B98073%5D%5Bo%5D=like&f%5Berror_message%5D%5B98073%5D%5Bv%5D=MaxAdditionalSeatsExceededError&model_name=reconciliation&sort=reconcile_on&sort_reverse=true) to see a list of all QSRs that errored because of this rule.
+
+##### Additional documentation
+
+- [Customer-facing documentation](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html)
+- [Finance team’s documentation about QSR refunds and escalations](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/WIP%20Quarterly%20Subscription%20Reconciliation%20Escalation#quarterly-subscription-reconciliation-process-post-billing)
+- [Process illustrations](https://gitlab.com/groups/gitlab-org/-/epics/5560#illustration)
 
 #### Subscription Display 
 1. For sales assisted subscriptions, there could be cases wherein a single subscription term has multiple plans (e.g. premium, ultimate). This could be because the subscription was sold with a plan and mid-term the plan was changed to another one. In our new subscription card design, in such cases only the latest version of the subscription will be shown and the details of the old plan will not be shown. The start date of the new plan should be shown correctly as starting from the date from which the new plan is active. More details in this [issue](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6103) (internal).
