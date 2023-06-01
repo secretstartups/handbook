@@ -52,7 +52,8 @@ In addition to the team member policies listed on the ['People Policies' page](h
 
 ### France 
 
-* [Remote Work Policy](https://docs.google.com/document/d/1_8-m3QVNXIN7idfv-F0eYJqRhipjrsWx/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true)
+* [Remote Work Charter](https://docs.google.com/document/d/1_8-m3QVNXIN7idfv-F0eYJqRhipjrsWx/edit?usp=sharing&ouid=106298195226644329866&rtpof=true&sd=true)
+* [Right to Disconnect Charter](https://docs.google.com/document/d/1i-FdN6GtfoJWftO3p9ml3kn5dwJu7fyvs0Q7ScYj8mM/edit)
 </details>
 
 <details>
