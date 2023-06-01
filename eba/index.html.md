@@ -28,7 +28,7 @@ This page details processes and general guidelines specific to the Executive Bus
 | [Marketing](https://about.gitlab.com/handbook/marketing/)| **Linsea O'Shea**<br>Sr EBA | Dave Steer (VP of Brand & Product Marketing)<br>Carrie Maynard (VP of Integrated Marketing)<br>Lisa Boughner (VP of Communications)
 | [People](https://about.gitlab.com/handbook/people-group/) | **Julia Nishioki**<br>EBA  | Wendy Barnes (CPO)<br>Pattie Egan (VP of People Operations, Technology and Analytics)<br> Rob Allen (VP of Talent Acquisition)<br>Sherida McMullan (VP of Diversity, Inclusion and Belonging) 
 | [Product](https://about.gitlab.com/handbook/product/) | **Gena Schwam**<br>Sr EBA|  David DeSanto (CProdO) 
-| [Product](https://about.gitlab.com/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (Sr Director of Product Monetization) 
+| [Product](https://about.gitlab.com/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (Sr Director of Product Monetization)<br>Christie Lenneville (VP of UX)<br>Hillary Benson (Sr Director of Product Management) 
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Michael McBride (CRO)  
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Nima Badiey (VP of Alliances) 
 | [Sales](https://about.gitlab.com/handbook/sales/) | **TO BE HIRED - contact @sales-eba-team*<br>Sr EBA | David Hong (VP of Field Operations)
