@@ -66,7 +66,12 @@ List the specific goals of the program, including all tasks, deliverables, costs
 
 #### 3. Roles and responsibilities 
 
-Note the key stakeholders, including Program Sponsor(s), Business Lead(s), Program Manager(s), Subject Matter Experts (SMEs).
+Note the key stakeholders, including Project Sponsor(s), Business Lead(s), Program Management Office (PMO) team, Subject Matter Experts (SMEs).
+
+- **Project Sponsors**: Final decision-makers, escalation point, ensure resource capacity, promote the project work.
+- **Business Lead(s)**: Requirements approvers, solution collaboration with project team, advocate and shape the project work.
+- **PMO**: Coordinating with stakeholders, managing timeline, requirements gathering/Level Of Effort weighing.
+- **Subject Matter Experts (SME)**: Ensuring the facts and details are correct so that the project deliverables meet the needs of the stakeholders, legislation, policies, standards, and best practices.
 
 #### 4. Initial timeline
 
@@ -92,7 +97,7 @@ As part of the program charter an executive steering committee should be named. 
 
 ### Core team
 
-A core team should be established and commitments should be made from these team members. This should include a business lead, SMEs for different areas, BSA and technical resources from IT. The DRI for the program should get time commitments for requirements gathering, UAT testing and enablement/training support from the business. And sprint time for design, development and functional testing from the IT teams.  In the case of expense management we named the Manager of AP as the business lead and had SMEs across accounting, sales, exec admin,
+A core team should be established and commitments should be made from these team members. This should include a program DRI from the PMO tem, business lead, SMEs for different areas, BSA (if needed) and technical resources from IT. The DRI for the program should get time commitments for requirements gathering, UAT testing and enablement/training support from the business. And sprint time for design, development and functional testing from the IT teams.  In the case of expense management we named the Manager of AP as the business lead and had SMEs across accounting, sales, exec admin.
 
 ### Operating rhythm including status rollup
 
@@ -130,7 +135,8 @@ The program DRI should establish a clear escalation process so that if a program
 
 There should be a clear program timeline with sprints defined so that we can deliver the program in smaller increments. There should be clarity around key requirement deadlines, delivery milestones, testing timelines so that everyone is clear. The program timeline should consider company holidays, enablement time and consider adding additional time for complex requirements (if needed).
 
-_The IT PMO team are in the process of creating a template for this._
+The IT PMO team uses the [Gitlab Roadmap](https://docs.gitlab.com/ee/user/group/roadmap/#roadmap) feature to track the progress of each program.
+{: .alert .alert-warning}
 
 ### Clear documentation for data model
 
