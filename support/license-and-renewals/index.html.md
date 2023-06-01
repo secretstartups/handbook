@@ -71,6 +71,103 @@ experience related to managing subscriptions. We achieve this by:
 Before starting to work L&R tickets, be sure you complete the
 [L&R / Subscriptions training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Subscriptions%20License%20and%20Renewals.md).
 
+### Core Concepts
+
+As an L&R Engineer, you will want to understand some core concepts of terms, expressions and
+features we interact with every day. The next few paragraphs explain these concepts, which can also
+be referred to in the [terminology table](#common-terminology).
+
+**Subscription** is a term used to explain the purchase of a specific tier of features for a set
+amount of time. There are two factors that comprise a subscription:
+
+- **SaaS** or **Self-Managed**, which defines where the subscription is ‘applied’.
+**GitLab Dedicated** is considered as Self-Managed for the purposes of how it is applied.
+- The **Tier**, providing access to different features. This includes **Premium** or **Ultimate**.
+
+A **License** is a *legacy* file that was previously required to activate a subscription on
+Self-Managed instances. Since GitLab `14.1`, activations are now almost always handled by
+**cloud activation codes**, with a few exceptions:
+
+- [Offline cloud licensing](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/#offline-cloud-licensing)
+allows for cloud licensing in an offline environment. The customer must manually download and send
+periodic usage data via email. Requires at minimum GitLab `15.0`.
+- For instances still on versions prior to GitLab `14.1`, customers must work with their GitLab
+representative to request an exemption as part of the sales purchase or renewal process.
+  - As noted on GitLab's [statement of support](https://about.gitlab.com/support/statement-of-support/#version-support),
+  our Support team are (in almost all circumstances) unable to assist customers running below
+  GitLab `14.x`, so this should provide further encouragement for customers to upgrade.
+- [Post-sales exemptions for Cloud Licensing](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#post-sale-exemptions-support)
+are rare and require an internal request and Sales VP approval.
+- License files are still used for Self-Managed **Trials**.
+
+A **Namespace** is a top-level group where users can collaborate in subgroups and projects, and is
+considered a separate entity from other namespaces. SaaS customers purchase a subscription for a
+namespace, which means the namespace has access to their purchased tier of features, such as
+Premium or Ultimate. For example, company: `“Example Corporation”` has a namespace located
+at: `gitlab.com/example-co`:
+
+- All subgroups (`gitlab.com/example-co/marketing`) and projects
+(`gitlab.com/example-co/development/webapp`) created under this path have access to the paid
+features of the subscription.
+- A separate namespace, also used by the company, `gitlab.com/example-net` is not included in the
+subscription, and has no access to paid features.
+
+A **Web Direct** customer has purchased a subscription or product *directly*, via GitLab.com and/or
+customers.gitlab.com. A **Sales-assisted** customer has been assisted by Sales via *Salesforce* to
+purchase the subscription or product, and is common in Enterprise organisations where a
+contract is involved.
+
+[**Cloud Licensing**](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/#what-is-cloud-licensing)
+(also known as **Cloud Activation**, **Cloud License**) is the now-default and preferred method to
+activate a subscription for Self-Managed instances. A Cloud License is a 24-digit alphanumeric code
+that customers apply to their Self-Managed instance. Some benefits of a Cloud License:
+
+- No need to re-apply a license file every year
+- Allows for the ability to use **Quarterly Subscription Reconciliation (QSR)** to reconcile
+Users over Subscription
+
+[**Quarterly Subscription Reconciliation (QSR)**](./workflows/quarterly_subscription_reconciliations.html)
+is a method to reconcile any additional usage over the subscription agreement, such as when there
+are **Users over Subscription**. When enabled, QSR is performed each quarter (every three months)
+and generates an invoice if seat usage has increased over the current maximum.
+
+### Add-ons
+
+The L&R team handles a lot of different types of purchases, and also assists with troubleshooting
+one-off or recurring **add-ons**. While GitLab Self-Managed predominantly consists of just a
+subscription purchase, GitLab.com provides a variety of add-ons for purchase including
+**Units of Compute** and **Storage and Transfer**.
+
+#### Units of Compute
+
+Formerly known as "CI/CD Minutes" or "Compute Credits", Units of Compute allow for usage of
+GitLab-managed Runners (Shared Runners) on GitLab.com (SaaS). Different tiers receive units
+as part of their subscription, which refresh every month:
+
+- Free (No Subscription): `400`
+- Premium: `10,000`
+- Ultimate: `50,000`
+
+Units **are not a 1-to-1 translation of minutes** and are subject to
+[cost factors](https://docs.gitlab.com/ee/ci/pipelines/cicd_minutes.html#cost-factor),
+including [the type of Runner being used](https://docs.gitlab.com/ee/ci/pipelines/cicd_minutes.html#additional-costs-on-gitlab-saas)
+in a pipeline. A customer [can purchase additional units](https://docs.gitlab.com/ee/ci/pipelines/cicd_minutes.html#purchase-additional-cicd-minutes)
+at any time.
+
+#### Storage and Transfer
+
+On GitLab.com (SaaS), [project storage limits](https://docs.gitlab.com/ee/user/usage_quotas.html#project-storage-limit),
+are enforced. The default storage limit is 10 GB *per project*. Once a project reaches its storage limit, it is considered as
+having [excess storage usage](https://docs.gitlab.com/ee/user/usage_quotas.html#excess-storage-usage)
+and may enter into a read-only state until additional storage is purchased. Additional
+storage [can be purchased at any time](https://docs.gitlab.com/ee/subscriptions/gitlab_com/index.html#purchase-more-storage-and-transfer).
+
+Changes to how storage and transfer limits are considered at a
+[namespace level](https://docs.gitlab.com/ee/user/usage_quotas.html#namespace-storage-limit) are
+planned, but not currently enforced. See [the storage management improvements issue](https://gitlab.com/gitlab-org/gitlab/-/issues/375296)
+and [Pricing FAQ](https://about.gitlab.com/pricing/faq-paid-storage-transfer/#q-what-is-changing-with-storage-and-transfer-limits)
+for further information.
+
 ### What you'll be working on
 
 * Tickets in the L&R queue (see
@@ -100,7 +197,7 @@ supplements the baseline entitlements for the Support Engineer job family.
 CustomersDot is the common name for the web application built by GitLab and found at
 https://customers.gitlab.com. All license and subscription management is conducted
 on this site. You will need access to this to generate, forward and modify customer
-license and subscription information. When submitting an access request (AR) for
+license and subscription information. When submitting [an access request (AR)](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for
 CustomersDot, use this information:
 
 * System name:
@@ -116,7 +213,7 @@ A Salesforce.com (SFDC) account makes collaboration with Sales team members more
 efficient, primarily because you'll be able to receive notifications when you're
 tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html)).
 
-When creating an individual/bulk access request, use the following information:
+When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), use the following information:
 
 * System name:
   * If you are a US citizen:
@@ -161,7 +258,7 @@ Having access to Zuora will help with troubleshooting in situations where a
 customer's CustomersDot and Salesforce records present conflicting or confusing
 information.
 
-When creating an individual/bulk access request, use the following information:
+When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), use the following information:
 
 * System name:
   > Zuora READ-ONLY access
