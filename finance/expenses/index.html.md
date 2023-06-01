@@ -336,7 +336,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-0pky">6060 - Software Subscriptions</td>
     <td class="tg-0pky">5060 - Software Subscriptions COGS</td>
     <td class="tg-0pky">Other</td>
-    <td class="tg-0pky">- To be claimed per month.<br>- Itemized Receipt required.</td>
+    <td class="tg-0pky">- Policy is set at $150 per year.<br>- Yearly subscription can be submitted in one claim.<br>- Monthly subscriptions to be submitted monthly.<br>- Valid receipts to be submitted for all claims.<br>- Multi year Policy - only current year subscription can be claimed.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Visas/Permits/Covid Tests</td>
