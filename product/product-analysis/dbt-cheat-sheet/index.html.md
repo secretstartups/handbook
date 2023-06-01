@@ -36,7 +36,10 @@ running the onboarding script.
 * `user:` This is your GitLab email address (ex: `JSMITH@GITLAB.COM`)
 * `role:` This is your Snowflake role, usually first initial + last name (ex: `JSMITH`)
 * `database:` This is your first initial + last name (ex: `JSMITH`)
-* Set up targets for different sized warehouses (ex: one for `DEV_XS` and one for `DEV_XL`)
+* Set up targets for different sized warehouses (ex: one for `DEV_XS` and one for `DEV_L`)
+  * Note: You should always default to using an XS warehouse. The [example provided in the 
+  dbt guide](/handbook/business-technology/data-team/platform/dbt-guide/#example) defaults 
+  to an XS warehouse.
 
 ## Setting up development databases in Snowflake
 
@@ -106,6 +109,12 @@ CLONE PROD.COMMON
 
 ## Running and testing models in dbt
 
+You should always default to using an XS warehouse and be mindful of the costs associated 
+with running queries using a larger warehouse. See the 
+[dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide/#choosing-the-right-snowflake-warehouse-when-running-dbt) 
+for guidance on selecting the appropriate warehouse when running dbt.
+{: .alert .alert-info}
+
 ### Running models in dbt
 
 Once you make the desired changes to the model(s) you are working on, you need to build 
@@ -119,17 +128,17 @@ are some other useful resources and tips:
 * You can specify multiple models by using [graph operators](https://docs.getdbt.com/reference/node-selection/graph-operators) 
 like `+` and `@` to refer to upstream or downstream models
 * You can specify that you want to run the models using a larger warehouse by setting the 
-`target` (warehouse connection)
+`target` (warehouse connection).
 
 ```
-$ dbt run --select my_model                         # run my_model
-$ dbt run --select my_model my_model_2              # run my_model and my_model_2
-$ dbt run --select my_model+                        # run my_model and all children
-$ dbt run --select +my_model                        # run my_model and all parents
-$ dbt run --select +my_model+                       # run my_model, all of its parents, and all of its children
-$ dbt run --select @my_model                        # run my_model, all parents, all children, AND all parents of all children
-$ dbt run --select my_model+ --exclude my_model_2   # run my_model and all children EXCEPT my_model_2
-$ dbt run --select my_model --target dev_xl         # run my_model using an XL warehouse (targets defined in profiles.yml)
+$ dbt run --select my_model                       # run my_model
+$ dbt run --select my_model my_model_2            # run my_model and my_model_2
+$ dbt run --select my_model+                      # run my_model and all children
+$ dbt run --select +my_model                      # run my_model and all parents
+$ dbt run --select +my_model+                     # run my_model, all of its parents, and all of its children
+$ dbt run --select @my_model                      # run my_model, all parents, all children, AND all parents of all children
+$ dbt run --select my_model+ --exclude my_model_2 # run my_model and all children EXCEPT my_model_2
+$ dbt run --select my_model --target dev_l        # run my_model using a L warehouse (targets defined in profiles.yml)
 ```
 
 ### Testing models in dbt
@@ -138,7 +147,7 @@ Testing models in dbt just requires you to run `dbt test`. `dbt test` uses the s
 (ex: `--select`) as `dbt run`
 
 ```
-$ dbt test --select my_model                 # run custom tests on my_model
+$ dbt test --select my_model # run custom tests on my_model
 ```
 
 ### Linting
@@ -148,8 +157,12 @@ Once you are running dbt, linting a model can be done with a single command. Ple
 for instructions on how to install SQLFluff on your local machine and more more details about 
 the linter settings. When you run the linter, the results will be printed in your terminal.
 
+You can also leverage the `fix` command to have the linter apply fixes to rule violations 
+(when possible).
+
 ```
-$ sqlfluff lint models/path/to/file/file-to-lint.sql
+$ sqlfluff lint models/path/to/file/file-to-lint.sql # lint the file and print results in terminal
+$ sqlfluff fix models/path/to/file/file-to-lint.sql  # lint the file and apply fixes
 ```
 
 ### Real-world walkthrough
@@ -428,7 +441,9 @@ Other team members (ex: Analytics Engineers) reviewing the MR will also have acc
 MR database and that is how they will review and validate the changes.
 
 Once the MR is ready for review, tag code owners and assign as reviewers (you will see 
-code owners listed in the approval section of the MR).
+code owners listed in the approval section of the MR). For changes to workspace models, 
+please be sure to have a functional analyst review the MR before tagging a member of the Data 
+team as a reviewer.
 
 ### Getting the MR merged
 
