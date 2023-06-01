@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "How to conduct UX research in the Artifical Intelligence (AI) space"
-description: "AI UX research guidelines"
+title: "Doing UX research in the AI space"
+description: "How to conduct UX research in the Artificial Intelligence (AI) space, including research guidelines."
 ---
 
 ## On this page
@@ -10,7 +10,6 @@ description: "AI UX research guidelines"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-
 As more teams are taking part in rapid prototyping activities to innovate within the Artificial Intelligence (AI) space, it’s natural to pause and ask yourself: _What’s the problem this aims to solve?_
 
 It’s common that exciting break-through technologies lead to product innovations. However, this can result in teams presenting a technical solution that is looking for a user problem - instead of the other way around. 
@@ -18,7 +17,6 @@ It’s common that exciting break-through technologies lead to product innovatio
 We need to make sure to keep users’ needs (and unmet needs) in mind while innovating. If we don’t do this, the risk is that we end up building powerful AI solutions that may not address  identified user problems. 
 
 The guidelines on this page aim to provide direction on how to include the user’s perspective throughout the design and development of AI solutions. 
-
 
 ## UX Researcher support
 
@@ -32,31 +30,22 @@ The guidelines on this page aim to provide direction on how to include the user�
 
 AI solutions themselves won’t reveal the user problem they are meant to solve. To identify and understand user needs (and to determine if the AI solution is addressing a real user problem), there are different approaches you can take:
 
-<img src='overview-of-approaches.png' ALT='Overview of approaches to identify and understand user needs'>
+<img src='overview-of-approaches.png' alt='Overview of approaches to identify and understand user needs'>
 
 **Review existing research**
 - Understand what research knowledge already exists. Dovetail and the [UX Research Drive](https://drive.google.com/drive/u/0/folders/0AH_zdtW5aioNUk9PVA) are good places to start as well as asking your assigned stage researcher. Reviewing what research exists outside of GitLab is valuable, too.
 - If **your review results in a medium or low level of confidence** regarding users’ needs, the following options help with collecting additional data.
 
 **Use case definition (recommended option for medium level confidence)**
-- Use existing research and your domain expertise to formulate assumptions on the user problem you believe is being addressed with the AI solution. Use the following format to phrase the problem statement, which is aligned to how we write Jobs to be Done (JTBD): 
-
-&ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; - “When [circumstance a person is in when they want to accomplish something], I want to [something the person wants to accomplish].”
-
-&ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; - Example: _When I am on triage rotation and prioritizing business-critical risks, I want to review the most recent riks detected in my assets._
-
+- Use existing research and your domain expertise to formulate assumptions on the user problem you believe is being addressed with the AI solution. Use the following format to phrase the problem statement, which is aligned to how we write [Jobs to be Done](/handbook/product/ux/jobs-to-be-done/) (JTBD):
+   - “When [circumstance a person is in when they want to accomplish something], I want to [something the person wants to accomplish].”
+   - Example: _When I am on triage rotation and prioritizing business-critical risks, I want to review the most recent risk detected in my assets._
 - Then, validate your problem statements through a quantitative [online survey](/handbook/product/ux/ux-research/surveys/) to understand:
-
-&ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; - The frequency of users encountering this problem
-
-&ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; - The importance of addressing the problem 
-
+   - The frequency of users encountering this problem
+   - The importance of addressing the problem 
 - There are other parameters you can include in your survey, such as:
-
-&ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; - How users currently solve the problem
-
-&ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; - The difficulty of solving this problem today
-
+   - How users currently solve the problem
+   - The difficulty of solving this problem today
 - See this [template](https://docs.google.com/document/d/1-81BH7JPj_SU5L1YvfX2HpYuIdKnUuTpRHuRlKb5w3M/copy) for example questions. More example studies coming soon.
 
 **Extended solution validation**
@@ -72,26 +61,22 @@ Did you know that you can validate your future AI powered feature in parallel to
 
 Here are a few things to keep in mind when preparing the prototype:
 - If your solution includes personalization, you should collect relevant user data for a more realistic experience in the prototype before the session takes place. Make sure users are informed about how their data is being used. 
-- Include “wrong” recommendations, too, as AI technology is probabilistic and won’t be accurate all the time (see Guideline 4). For example, let’s say you are evaluating a chat bot and participants want to ask questions about UX Research methods. Besides relevant responses to that topic, include some that are not connected to UX Research. You could vary how many “wrong” responses are given to understand what is still acceptable versus where users get frustrated and stop using it.   
+- Include “wrong” recommendations, too, as AI technology is probabilistic and won’t be accurate all the time (see [Guideline 4](#guideline-4-learn-about-the-cost-of-errors-that-ai-will-make)). For example, let’s say you are evaluating a chatbot and participants want to ask questions about UX Research methods. Besides relevant responses to that topic, include some that are not connected to UX Research. You could vary how many “wrong” responses are given to understand what is still acceptable versus where users get frustrated and stop using it.   
 
 It may be tempting, but don’t ask users if they would use this AI feature. People are poor predictors of future behavior, so their answers won’t be accurate or useful for you. To get closer to understanding if people may use a solution, it’s best to understand: 
 1. their problem or need, and 
 2. how helpful the solution is with addressing those. In other words, does it provide value? 
 
-### Guideline 3: Solution validation and more - Collect _more_ than just usability feedback during solution validation of your AI powered prototype
+### Guideline 3: Solution validation and more - Collect more than just usability feedback during solution validation of your AI powered prototype
 
 Once an AI powered solution is available for validation, make sure to not only collect feedback on its usability, but also: 
 - **Baseline data** - on how users currently solve this problem. This allows us to assess the impact the AI solution may have and how helpful it is. 
 - **On trust** - If people trust the information provided by AI. If they don’t trust it, they won’t use it. Here are some example questions to consider:
-
-&ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; - _How much do you trust the [feature name, e.g. code suggestions] provided?_
-
-&ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; - _Do you trust [feature name, e.g. code suggestions] with [task, e.g. providing correct code]? Why/Why not?_
-
-&ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; &ensp;&thinsp; - Coming soon: quantitative measures
-
+   - _How much do you trust the [feature name, e.g. code suggestions] provided?_
+   - _Do you trust [feature name, e.g. code suggestions] with [task, e.g. providing correct code]? Why/Why not?_
+- Coming soon: quantitative measures
 - **On giving feedback** - If they feel comfortable giving system feedback, e.g. when a code suggestion is not helpful. The AI improves based on user feedback, so it’s important they can do it. You can do this by including a task that focuses on giving feedback on a “wrong” recommendation and measure if they were successful doing it and how they felt about it.
-- **On attitudes towards third-party AI services** - If your AI solution is powered by a third party (e.g. OpenAI), it’s important to understand if users are aware of the use of a third-party and their attitude towards it. This provides insights into users’ mental model (see Guideline 5) and impact on GitLab as a brand.
+- **On attitudes towards third-party AI services** - If your AI solution is powered by a third party (e.g. OpenAI), it’s important to understand if users are aware of the use of a third-party and their attitude towards it. This provides insights into users’ mental model (see [Guideline 5](#guideline-5-plan-ahead-for-longitudinal-research)) and impact on GitLab as a brand.
 
 To get robust feedback during solution validation, it’s recommended to collect at least three data points. As AI output varies, it’s not sufficient to rely on the first output only. You can do this by having three similar tasks to see how participants react to the AI’s responses in these three different scenarios. 
 
@@ -104,7 +89,7 @@ To get robust feedback during solution validation, it’s recommended to collect
 AI will make mistakes due to their probabilistic nature. It’s important to understand how AI mistakes may affect users. Will certain mistakes result in turning users away from using it? Or using GitLab? Here's what you can do:
 
 - Plan for research activities to assess what mistakes are ok to do versus those that cause harm and need to be avoided at all cost.  
-- There may also be opportunities to include questions related to AI mistakes when conducting solution validation, e.g. When evaluating early prototypes (see Guidelines 2 and 3). 
+- There may also be opportunities to include questions related to AI mistakes when conducting solution validation, e.g. When evaluating early prototypes (see [Guidelines 2](#guideline-2-pre-solution-validation---collect-user-feedback-on-your-idea-before-building-anything) and [3](#guideline-3-solution-validation-and-more---collect-more-than-just-usability-feedback-during-solution-validation-of-your-ai-powered-prototype)). 
 - Set up your prototype in a way that it includes “wrong” recommendations to capture how people react to AI mistakes.
 
 ### Guideline 5: Plan ahead for longitudinal research
@@ -112,16 +97,8 @@ AI will make mistakes due to their probabilistic nature. It’s important to und
 AI evolves as users engage with it over time. As a result, users’ mental models about how it works as they engage with it over time may change (it’s a continuous loop). To ensure we’re continuing to offer AI solutions of value, it’s  important to understand how mental models change over time and evaluate the performance of AI solutions as use cases and users increase. 
 
 ### References
+
 - [People + AI playbook by Google](https://pair.withgoogle.com/guidebook)
 - [User research for machine learning systems - a case study](https://dl.acm.org/doi/10.1145/3290607.3299061)
 - [Testing AI concepts in user research](https://uxdesign.cc/testing-ai-concepts-in-user-research-b742a9a92e55)
 - [Human centered machine learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
-
-
-
-
-
-
-
-
-
