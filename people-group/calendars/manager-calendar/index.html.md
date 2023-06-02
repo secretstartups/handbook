@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Talent Programs Calendar - People Managers
+title: Programs Calendar - People Managers
 description: >-
   The Talent Programs Calendar helps people managers priortise and plan ahead. It is the one overview that shows all Talent Programs that require people manager input and execution. 
 ---
