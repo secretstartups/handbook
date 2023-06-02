@@ -16,6 +16,8 @@ The handbook provides guidance on GitLab [leadership competencies](/handbook/com
 
 At this time, Elevate is only available for current People Leaders, People Business Partners, and members of the Team Member Relations team.
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/827425645?h=8019cd1096&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Welcome to Elevate!"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ### Goal
 
 In FY24, 85% of people leaders will complete Elevate and earn the GitLab Elevate certification.
