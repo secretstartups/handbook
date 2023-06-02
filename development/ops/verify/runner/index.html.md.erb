@@ -120,6 +120,14 @@ The commitments for the iteration plan are directly related to the capacity of t
 1. The EM reviews all candidate tech debt, bugs, security and feature issues and applies the `deliverable` label to issues based on team capacity. The deliverable label signals a commitment for delivery and is tied directly to our team KPIs. Any issue not receiving the `deliverable` label will be treated as stretch and pulled in as team members have capacity.
 1. At minimum, three business days prior to GitLab's monthly release [kickoff](https://about.gitlab.com/handbook/engineering/workflow/#kickoff) livestream, the PM, EM, Quality and UX leads finalize the iteration plan for the upcoming milestone. 
 
+As we have a lot of involvement with our stable counterparts and reliability team, we also add a section to our iteration plan to reflect any `blocking` or `relating` issues.
+1. The engineering team adds all `blocking` or `related` reliability issues to the iteration plan.
+1. The reliability team reviews these issues and checks feasibility and suggests changes.
+1. The reliability team commits to their issues in the iteration plan as long as:
+    1. They don't affect the current due dates for an ongoing KR.
+    2. They fit under one of the quarterly [OKRs of the Reliability::Practices team](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Reliability%3A%3APractices&first_page_size=20).
+    3. They take into account downtime related to the OnCall and OnCall follow up work.
+
 ### Design and development process
 
 We follow the [product development flow](/handbook/product-development-flow/). Our team uses one issue as SSOT for design, backend, and frontend work. 
