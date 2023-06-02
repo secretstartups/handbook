@@ -550,7 +550,8 @@ All programs have different necessities so it will be important to determine how
     - All other fields on the campaign are not required and are not used for reporting - take `Status` as an example. You WOULD update this field to `Aborted` if the campaign was cancelled for any reason. We have a process that goes into more detail specifically when [offline events are cancelled](/handbook/marketing/events/#cancellation-of-offline-events). 
     - Click "Save"
 - Add the Marketo program link and SFDC campaign link to the epic.
-- For all SFDC campaign types run by Corporate Events or Field Marketing, please check the `High Priority` check box on the campaign level, as this is part of a [pilot we are running in FY23 Q3 & Q4](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6905) with the business development team.
+- For all SFDC campaign types run by Corporate Events or Field Marketing, please check the `High Priority` check box on the campaign level. 
+        * Details on our [pilot](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6905) we ran with the business development team which led us to add this!
 
 ### Step 5: Update the Salesforce campaign - Using Allocadia 
 Using an integration from Allocadia > Marketo, Marketo > SFDC, the information you've provided in Allocadia will push to your SFDC campaign.  
