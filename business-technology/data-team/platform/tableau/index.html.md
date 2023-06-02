@@ -487,7 +487,7 @@ Alternatively, Account Owners in the Data Team assign a Creator License Code und
     2. Connectors > Snowflake
         1. Fill in the following:
             - Server: `gitlab.snowflakecomputing.com`
-            - Role: For Production releases: RESTRICTED_SAFE. For ad-hoc or development you can use your Snowflake username (you can find it in Snowflake in the top right section of your screen)
+            - Role: Leave blank.  This will help with publishing and troubleshooting and will use your default role in Snowflake. Ensure that your default role in Snowflake is not set to PUBLIC to prevent log-in errors. You can find your default role in Snowflake in the switch role menu.
             - Authentication: `Sign in using OAuth`
         2. Click on `Sign in`
         3. Click on `Sign Sign On`
