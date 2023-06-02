@@ -285,7 +285,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | [Sales](/handbook/sales/) | Sales VPs | Yes (GTM Key Review shared with Marketing) | Monthly - rotates between VP of Commercial, VP of Enterprise, VP of Channel & VP of Customer Success | | EBAs in Sales | 
 | [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter | | EBAs in Finance| 
 | [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | EBA to CPO | 
-| [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Twice per quarter | | EBA to VP, Product | 
+| [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Quarterly | | EBAs in Product | 
 | [Infrastructure](/handbook/engineering/infrastructure/) | Mek Stittri | Yes | Twice per quarter | | EBA to Engineering | 
 | [Support](/handbook/support/) | Lyle Kozloff, Lee Matos | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering | 
 | [Security](/handbook/security/) | Acting CISO (Robin Schulman) | Yes | Every other month| | EBA to Engineering | 
