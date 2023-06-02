@@ -107,12 +107,13 @@ Click the `+ Add a sheet or range`, put the description as `Locked for FY##Q#"`
 then put the corresponding value in the box (depending on the sheet you are
 currently working on):
 
-| Sheet    | Value to use      |
-|----------|-------------------|
-| AMER     | `AMER!3:1001`     |
-| APAC     | `APAC!3:1001`     |
-| EMEA     | `EMEA!3:1001`     |
-| Managers | `Managers!3:1001` |
+| Sheet      | Value to use          |
+|------------|-----------------------|
+| AMER       | `AMER!3:1001`         |
+| US Federal | `'US Federal'!3:1001` |
+| APAC       | `APAC!3:1001`         |
+| EMEA       | `EMEA!3:1001`         |
+| Managers   | `Managers!3:1001`     |
 
 After doing so, click the green `Set permissions` button. Doing so will make a
 pop-up appear asking who has editing permissions for the protected ranges.
@@ -179,12 +180,13 @@ Each drop-down showing reflects who is in the schedule it is for.
 We have several protections in place on the sheet to prevent editing cells that
 are not meant to be edited:
 
-| Name of protection | Sheet    | Except for                   |
-|--------------------|----------|------------------------------|
-| AMER headers       | AMER     | D3:F1001, K3:K1001, P3:Q1001 |
-| APAC headers       | APAC     | D3:E1001, J3:K1001           |
-| EMEA headers       | EMEA     | D3:D1001, I3:I1001           |
-| Managers headers   | Managers | D3:D1001, I3:J1001, O3:O1001 |
+| Name of protection | Sheet      | Except for                   |
+|--------------------|------------|------------------------------|
+| AMER headers       | AMER       | D3:F1001, K3:K1001, P3:Q1001 |
+| US Federal headers | US Federal | D2:E1001, J2:J1001           |
+| APAC headers       | APAC       | D3:E1001, J3:K1001           |
+| EMEA headers       | EMEA       | D3:D1001, I3:I1001           |
+| Managers headers   | Managers   | D3:D1001, I3:J1001, O3:O1001 |
 
 #### Editing the drop-down
 
