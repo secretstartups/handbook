@@ -139,3 +139,17 @@ All incidents are reported in MonteCarlo incident portal. For triage purposes th
 `*` COMMON is also the COMMON_RESTRICTED equivalent. It excludes COMMON_PREP and COMMON_MAPPING    
 `**` WORKSPACE-DATA-SCIENCE is the only workspace schema we are including in the notification strategy    
 `***` Only these two models (`snowplow_structured_events_400` and `snowplow_structured_events_all`) of the `LEGACY` schema have been included temporarily as per [!7049](https://gitlab.com/gitlab-data/analytics/-/merge_requests/7049)
+
+## Domains
+
+We have the availability to use [domains](hhttps://vimeo.com/646676972) in our Monte Carlo environment. Currently domains  used to create separate environments for separate team members,  domains automatically filter monitors and incidents by projects and datasets. We have a limited number of domains available.
+
+| Domain | Description | Data Scope |
+| ------ | ----------- | ---------- | 
+| Data Platform Team | Domain for the Data Platform Team - scope raw data layer in Snowflake | Snowflake `raw` layer |
+
+### Use domains
+
+In Monte Carlo UI in the top right corner there is a dropdown box available which you can select a particular domain or all domains.
+
+![image](/handbook/business-technology/data-team/platform/monte-carlo/Screenshot_MC_domain.png)
