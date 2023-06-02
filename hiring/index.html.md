@@ -236,6 +236,136 @@ Please find pages for potential and active applicants below.
   
 </details>
 
+#### Offers and Closing Reqs
+
+<details>
+<summary markdown="span">Reference Checks</summary>
+
+  * [Reference check information](/handbook/hiring/talent-acquisition-framework/offer-process/#reference-reviews)
+  * Reference check forms are mandatory. If you receive reference check information outside of the form and don't want a candidate to fill it out again, Enablement can help you adjust the form to collect the remaining information. These forms are important because they provide necessary information for the accuracy and completion of a contract.
+  + <details><summary markdown="span">Tips and Tricks</summary>
+
+    * These forms, just like an offer in Greenhouse, **do not transfer** when you move a candidate from one job to another. Ensure that your candidate is in the role they’ll be hired for before sending.
+    * Completed forms live in a candidate’s “application” tab. If you can’t find the form, it’s likely there!
+    * While nicknames, preferred last names, and PIAA details will save to the details page automatically, legal name will not. Please ensure the legal first and last name is set as the candidates’ name before sending contracts.
+    * If you have a candidate in the Netherlands, they are required to provide their BSN and date of birth. Recruiters should add those fields into the offer.
+    </details>
+</details>
+
+<details>
+<summary markdown="span">Offers</summary>
+
+  * [Creating an offer in Greenhouse](/handbook/hiring/talent-acquisition-framework/offer-process/#offer-approvals)
+  + <details><summary markdown="span">Common approval challenges</summary>
+
+    * Offer stuck in approvals: If the offer is stuck in the approvals chain because someone is out of office, the recruiter can talk to the approver's manager about an appropriate temporary adjustment and recommend this to the Enablement team. Recruiters should be proactive in reaching out to approvers if an offer is urgent or a candidate is being inconvenienced by a long wait time. If there is a known OOO, this discussion should happen before there's an offer waiting for approval. Enablement can help with any changes needed.
+    * Offer approvals chain is incorrect: If approvers are missing or incorrect, the Recruiter should contact a member of the Enablement team to adjust. The only people with access to make approvers changes are Enablement and Director, Executive Recruiting, who change approval chains to maintain confidentiality for executive positions. Often, approval chains are incorrect because you have chosen the wrong department, so it's important to choose the right one before opening your req.
+    </details>
+
+  * [Verbal offer information](/handbook/hiring/talent-acquisition-framework/offer-process/#verbal-job-offer)
+  * [Declined offer steps](/handbook/hiring/talent-acquisition-framework/offer-process/#declined-offers)
+  + <details><summary markdown="span">Background screens</summary>
+    * Contact the Senior Background Check Specialist at backgroundchecks@gitlab.com with any questions or requests for status updates.
+    * The most commonly asked question for candidates outside the US is, “Why can’t I enter more than one past employer?” Outside of ​the US, candidates will only submit one former employer and Sterling is working as expected.
+    </details>
+
+</details>
+
+#### Sourcing at GitLab
+  * [Sourcing overview](/handbook/hiring/sourcing/)
+  * [Identifying prospects](/handbook/hiring/talent-acquisition-framework/req-overview/#step-4-identify--engage-top-talent-prospects)
+
+#### Notifications
+
+There are no perfect or required ways to set up your Greenhouse notifications, but these are some of our recommendations. 
+
+<details>
+<summary markdown="span">Slack</summary>
+
+  * To set up Slack to notify you when you’re tagged in candidate notes, select your initials in the upper right hand corner of Greenhouse. From there, you can activate your Slack integration. Toggle the button to send @mentions to Slack. This is also a great button to point out to Hiring Managers so they are easier for the team to reach.
+  * Additionally, you will see a section for “Notification Preferences”. Most recruiters will set these up, but they are optional if you prefer to only receive notifications by email.
+
+</details>
+
+<details>
+<summary markdown="span">Email notifications</summary>
+
+  * There are two ways to set up your email notifications. The first is to select your initials in the top right corner of Greenhouse, and under “notification preferences”, select where you would like to receive notifications about jobs. This is an easy way for Hiring Managers to set up their preferences for all jobs at once, but may not be as easy for the Talent Acquisition team to remember to update.
+  * Instead, we would recommend setting your reminders either during your job setup process or after, by clicking into your Notifications tab of an individual job’s Job Setup. Here, we recommend that you stay in the loop on your candidates by electing to receive emails every time a scorecard is submitted, an internal candidate applies, a referral is submitted, and an offer is fully approved. You can choose your name or “Candidate’s Recruiter”, but you’ll want to be sure that you’re listed as the recruiter on the role to make this work. Recruiters should double check during this time that no one is receiving notifications that should not (ie an interviewer receiving offer notifications) and adjust privacy settings accordingly.
+  * You can sync your emails between Greenhouse and Gmail. Greenhouse has a Gmail add-on that can help with syncing communications. You can learn more about it by [going here](https://support.greenhouse.io/hc/en-us/articles/360003111031-Greenhouse-Gmail-add-on).
+
+</details>
+
+## Talent Acquisition Programs
+---
+
+#### Referrals
+  * [Referral Operations](/handbook/hiring/referral-operations/)
+  * [Referral Process](/handbook/hiring/referral-process/)
+  * [Details on who is eligible for referrals](/handbook/incentives/#referral-bonuses)
+
+#### [Acquisitions](/handbook/hiring/talent-acquisition-framework/acquisitions/)
+
+#### Internal Mobility
+  * [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/)
+  * [Posting a job internally](/handbook/hiring/talent-acquisition-framework/req-creation/#post-the-job-internally)
+  * [In the offer process](/handbook/hiring/talent-acquisition-framework/offer-process/#offer-approvals)
+
+#### Executive Hiring
+
+  * [Executive Search](/handbook/hiring/talent-acquisition-framework/executive-search/)
+
+#### Emerging Talent
+
+Stay tuned!
+
+## Global Hiring Resources
+---
+
+<details>
+<summary markdown="span">Global hiring links</summary>
+
+  * The [“country hiring status”](https://comp-calculator.gitlab.net/hiring_status/index) section within the compensation calculator is the best place to look for a list of current countries available for hiring. 
+  * [This country list](https://docs.google.com/spreadsheets/d/1SLsLHcUaDqRUM0w0rWkISfA9NiZ3X6XRq--7IthqSYQ/edit#gid=1223524307), maintained by and accessible to recruiters, details specific information about each country that can help you answer candidate questions and prepare for potential hiring delays. 
+  * For general questions about specific policies or whether we support certain types of visas or sponsorship, message #people-group-confidential. If the request is more involved, or requires a conversation, you can slack Harley Devlin. 
+  </details>
+
+<details>
+<summary markdown="span">PEO information and timelines</summary>
+
+  * For candidates who are located in Countries where we do not have an entity, we use a PEO (Professional Employment Organization).  The actual employment contracts will be sent and issued by the PEO who also handles the processing and payment of payroll and associated taxes and compliance in each of the countries on behalf of GitLab. The contracts themselves are between the individual and the PEO.  
+  * GitLab is currently hiring into three PEOs
+    * [Remote.com](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#remotecom)
+    * [Global Upside](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#preparing-employment-agreements-for-gitlab-team-members-employed-via-global-upside)
+    * [Papaya](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#how-to-add-the-new-hire-to-the-remote-platform)
+  * The following timelines to onboarding are advised:
+    * **Remote.com:** [remote.com onboarding timeline](https://support.remote.com/hc/en-us/articles/4411262104589-Employee-Onboarding-Timeline)
+      | Country | Working days |
+      |------|------|	 
+      | Austria :flag_at: | 9 |
+      | Denmark :flag_dk:  | 9 |
+      | Hungary :flag_hu: | 9 |
+      | Italy :flag_it: | 9 |
+      | Mexico :flag_mx: | 3 |
+      | South Africa :flag_za: | 5 | 
+      | Spain :flag_es: | 7 |
+      | Switzerland :flag_ch: | 7 |
+    * **Global Upside:**
+      | Country | Working days |
+      |------|------|	 
+      | India :flag_in:  | 7 business days |
+      | Philippines :flag_ph:  | 17 ( Including 7 business days for pre hire medical test and 3 business days for social registration) |
+      | Kenya :flag_ke:  | 7 business days |
+      | Costa Rica :flag_cr:  | 12 ( Including 5 business days for social registration) |
+      | Latvia :flag_lv:  | 8 ( Including 1 business day for social registration) |
+      | Chile :flag_cl:  | 12 ( Including 5 business days for social registration) |
+    * **Papaya**<br>
+      Processing for the United Arab Emirates could take up to a month, so we recommend start dates at least 6 weeks after the offer is generated.
+
+ 
+  </details>
+
+
 
 ## Other Hiring Pages
 ---
@@ -243,9 +373,6 @@ Please find pages for potential and active applicants below.
 - [Greenhouse](/handbook/hiring/greenhouse/)
 - [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
-- [Referral Operations](/handbook/hiring/referral-operations/)
-- [Referral Process](/handbook/hiring/referral-process/)
-- [Sourcing](/handbook/hiring/sourcing/)
 
 
 
