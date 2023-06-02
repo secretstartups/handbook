@@ -140,7 +140,8 @@ Channel Managers or Sales can escalate a partner or customers ticket to a Suppor
 More information can be found in the [Partner Guide](https://partners.gitlab.com/prm/English/s/assets?id=404715).
 
 ## Creating a Partner Portal Login
-_This information can also be found in the Partner Guide ([internal-only link](https://docs.google.com/document/d/1HOzcdl22JRRbqo0SLPDsoUiM8NpNkf6-L2eiUHr6HZ4/edit))._  
+_Partner user instructions can be found: in the Partner Guide ([internal-only link](https://docs.google.com/document/d/1HOzcdl22JRRbqo0SLPDsoUiM8NpNkf6-L2eiUHr6HZ4/edit)) or on the [Channel Partners: Working with GitLab](https://gitlab.com/gitlab-com/channel/channels/-/issues/981#note_1316107709) handbook page._  
+
 If a partner organization already exists in our system (Impartner/SFDC), but a new rep needs a login, the instructions are fairly simple. That person should visit our [partner portal](https://partners.gitlab.com), and scroll down to the login section. On the left side of the page, there's an option to "Request Portal Access."   
 
 ![PHD_HB_Request_Portal_Access](/handbook/resellers/partner-support/source/images/PHD_HB_Request_Portal_Access.png) 
