@@ -52,12 +52,12 @@ This page provides an overview on relevant CSM leadership processes.
 <tbody>
   <tr>
     <td>Account Reviews in 1:1s</td>
-    <td><ul><li>As a CSM Manager, it is our responsibility to ensure that the CSM requirements per CSM are reviewed with the CSM on a weekly basis, with coaching and guidance on overcoming objections and challenges offered where needed</li><li>The structure of 1:1s is to follow the <a href="/handbook/customer-success/csm/csm-manager/#gainsightcustomer-review-in-directorcsm-manager-11-cadence">documented 1:1 cadence</a>. The manager updates their manager one week later, ensuring that successes and challenges are shared in a programmatic way across the leadership team</li><li>In order to review the customer portfolio with a CSM and also have time for CSM agenda items, it is highly recommended that 1:1s are 45-60 minutes in length</li></ul></td>
+    <td><ul><li>As a CSM Manager, it is our responsibility to ensure that the CSM requirements per CSM are reviewed with the CSM on a regular cadence, with coaching and guidance on overcoming objections and challenges offered where needed</li><li>The structure of 1:1s is to follow the <a href="/handbook/customer-success/csm/csm-manager/#gainsightcustomer-review-in-directorcsm-manager-11-cadence">documented 1:1 cadence</a>. The manager updates their manager one week later, ensuring that successes and challenges are shared in a programmatic way across the leadership team</li><li>In order to review the customer portfolio with a CSM and also have time for CSM agenda items, it is highly recommended that 1:1s are 45-60 minutes in length</li></ul></td>
     <td>Accounts are reviewed with CSMs on a weekly basis.</td>
   </tr>
   <tr>
     <td>Reviews &amp; Coaching</td>
-    <td><ul><li>It is important that the CSM manager is actively coaching their CSMs on the above requirements</li><li>Managers are encouraged to set time aside to review upcoming call agendas, open playbooks and recently closed playbooks, account health and triage issues and success plans for coaching opportunities - see below for more detail on these reviews</li></ul></td>
+    <td><ul><li>It is important that the CSM manager is actively coaching their CSMs on the above requirements</li><li>Managers are encouraged to set time aside to review upcoming call agendas, open playbooks and recently closed playbooks, account health, success plans and at-risk customers for coaching opportunities - see below for more detail on these reviews</li></ul></td>
     <td>Managers follow the <a href="/handbook/customer-success/csm/csm-manager/#customer-onboarding-review">review guidelines documented</a>, review outside of the 1:1 </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ For CSM Managers, here is a short checklist to assist in the review:
 - [Account assignment:](#account-assignment) Accounts have been reviewed and are assigned or are in review
 - [Customer Onboarding:](#customer-onboarding-review) Customers in the Onboarding phase have been reviewed and onboarding status and notes are complete
 - [Success Plans:](#success-plan-review) Customers have a Success Plan, it is being communicated with the customer, and the CSM is using it as the guiding document
-- [Triage and Health:](#triage-and-health-review) Health for all CSM-assigned accounts have been updated within the last month, and any accounts in Triage are being evaluated
+- [At-Risk Customers:](#health-review-and-at-risk-customers) Health for all CSM-assigned accounts have been updated within the last month, and any accounts at-risk (Red, Yellow trending down) are being evaluated
 - [Renewal Review:](#renewal-review) Upcoming customer renewals have been reviewed — the CSM has updated customer health and communicated with the SAE and SA for the upcoming renewal
 
 ### Account Assignment
@@ -154,20 +154,18 @@ The CSM Manager should then work with their team to help the CSM drive up and de
 - [Success Plan Handbook](/handbook/customer-success/csm/success-plans/)
 - Gainsight Dashboard - **CSM Portfolio** or **CS Leadership**
 
-### Triage and Health Review
+### Health Review and At-Risk Customers
 
-On at least a monthly basis, review accounts within your region for upcoming one-one-ones and the team triage call. This includes reviewing:
+On at least a monthly basis, review accounts within your region for upcoming one-one-ones and the team at-risk call. This includes reviewing:
 
 1. Gainsight region dashboard for unhealthy accounts
    1. Red accounts to inquire about in upcoming one-on-ones
    1. Outdated customer health reviews to discuss in upcoming one-on-ones
-1. The GitLab Triage board for accounts in triage
+1. Salesforce reporting for current quarter, next quarter and all-time risk 
 
-#### Triage Resources
+#### At-Risk Resources
 
-- [Account Triage Handbook](/handbook/customer-success/csm/health-score-triage/)
-- [Account Triage Board](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
-- Gainsight Dashboard - **CSM Portfolio** or **CS Leadership**
+- Gainsight Dashboard - **At-Risk Dashboard**
 
 ### Renewal Review
 
