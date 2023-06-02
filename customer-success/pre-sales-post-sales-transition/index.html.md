@@ -32,7 +32,7 @@ If you have questions about CSM alignment (either for existing or newly-qualifyi
 | **When** does the introduction happen? | `Closed Won` | `3-Technical Evaluation` or `4-Proposal` |
 | **Why** does the introduction happen at this stage? | Since assignments are multifaceted, a CSM/CSM manager typically needs to make the assignment. This is triggered automatically on `Closed Won`, however prior to that the account team can [request a CSM via an issue](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/commercial/-/issues/new) . | Introduce the CSM when business value discussions are still being had within the account, allowing them to build relationships with the key strategic decision-makers and help the customer visualize their implementation journey. This sets the CSM up for continued engagement at the right level within the account. |
 | **How** does the introduction get scheduled? | SA/AE will send an introduction email to the customer team or schedule a "Welcome to GitLab" call. | SA will schedule a "Welcome to GitLab" call with the customer team, after having synced internally with the full [account team](/handbook/customer-success/account-team/) (inc. CSM) | 
-| **Where** can the CSM access account information? | - Custom Pitch Deck <br> - Command Plan <br> - POV (when applicable) | - Customer Meeting Notes Doc <br> - Command Plan <br> - Account Plan | 
+| **Where** can the CSM access account information? | - Custom Pitch Deck <br> - Command Plan  <br> - POV (when applicable) <br> - Customer Strategy/Value Plan | - Customer Meeting Notes Doc <br> - Command Plan <br> - Account Plan <br> - Customer Strategy/Value Plan| 
 
 ## Enterprise CSM Transition Process
 
@@ -67,7 +67,15 @@ After a CSM is assigned by the manager, the SA should arrange an internal [accou
 
 ### Internal Account Team Meeting
 
-In preparation for introducing the CSM, the SA should schedule a meeting with the entire [account team](/handbook/customer-success/account-team/) to discuss general information about the customer. Prior to the meeting, the SA should create an agenda (in a Google Doc attached to the meeting invite) and include as much of the following information as possible. If this information is not shared prior to the call, the CSM may ask to SA to reschedule until the information can be completed.
+In preparation for transitioning the account to post-sales, the CSM should schedule a meeting with the entire [account team](/handbook/customer-success/account-team/) to review details about the customer and the success plan. The account team should use the following questions to review details, and define the next steps near-, medium-, and long-term for the customer adoption journey:
+
+- What are the customer’s objectives & measurable success criteria for the next 6-12 months? For each objective discussed, ensure we have answers to the following:
+  - Initiative - What activity are we completing?
+  - Business Outcome - What customer-defined result do we need to achieve?
+  - Success Criteria - How do we measure success?
+  - Timeline - When will this be done, and what are our milestones along the way?
+- Who are the decision maker(s) and stakeholders for GitLab? When is our next meeting with each of them?
+- What will we discuss in our EBR with the customer 6 months from now?
 
 Agenda for the meeting:
 
@@ -75,6 +83,7 @@ Agenda for the meeting:
   - Name of organisation
   - Industry / sector they operate in
   - Any recent news articles about them, or the sector
+  - Current Tool Stack
 - Key people
   - Champion
   - Decision maker / economic buyer
@@ -87,11 +96,14 @@ Agenda for the meeting:
 - Services engagement
   - Scope and deliverables
   - Timeline
-- POV overview (if a POV was conducted)
-  - Technical objectives and results
-  - Pending items to resolve
-  - Customer's required capabilities
-  - Overall sentiment coming out of the POV
+- Customer Strategy Plan 
+  - Background 
+  - Solutions Alternatives/Obstacles
+  - Roles
+  - In Scope
+  - Out of Scope
+  - Target Benefits
+  - Key Stakeholders 
 - Open Support Tickets
 
 If the Solutions Architect has created a collaboration project, the [account team](/handbook/customer-success/account-team/) should review it together, and ensure that `readme.md` details and issues are up to date.
@@ -100,7 +112,7 @@ If the Solutions Architect has created a collaboration project, the [account tea
 
 Following the internal account team meeting, the SA should set up a CSM introduction meeting with the customer. When arranging this meeting, the SA can provide the customer with a high-level overview of the CSM role, and what the CSM engagement _might_ look like going forward. However, the SA (and SAE) should refrain from making any statements on behalf of the CSM, as to what activities they _will_ do.
 
-Prior to the customer meeting, the CSM should work with the SA to prepare the [CSM program overview deck](https://docs.google.com/presentation/d/1fsIFLcecs6nQxR7g5MHDTT71tx3b1aW9b3d2RX6ZOLk/edit) to be presented as part of the meeting. This will be starting point of the CSM's relationship with the customer, and it's important to convey what the CSM's role is, and the expectations from both sides moving forward. As this one agenda item of the SA's meeting with the customer, the CSM portion should not be extensive and should be used to set the stage for future conversations.
+Prior to the customer meeting, the CSM should work with the SA to prepare the [CSM program overview deck](https://docs.google.com/presentation/d/1fsIFLcecs6nQxR7g5MHDTT71tx3b1aW9b3d2RX6ZOLk/edit) & [Customer Strategy Plan Summary-Page](https://docs.google.com/presentation/d/1npyhUebp68YkccLlJP5R_6gmtQjfELpB1mBGWfroVmY/edit#slide=id.g219d09d831d_0_459) to be presented as part of the introduction client meeting. This will be starting point of the CSM's relationship with the customer, and it's important to convey what the CSM's role is, the CSM's understanding of the customer's initiative's and mutually agreed upon timeline(s), and the general expectations from both sides moving forward.
 
 While the opportunity progresses through commercial discussions, the CSM should engage with the SA where appropriate, in order to maintain the relationships with the strategic personnel and decision makers within the organisation.
 
@@ -134,9 +146,9 @@ From this initial introduction, the CSM should schedule the kickoff meeting with
 
 ### Shifting responsibility from AE & SA to CSM
 
-Once the account is in post-sales, the CSM takes primary responsibility for guidance & best practices conversations, customer enablement, and product usage. Most responsibilities of the AE & SA will transition to the CSM at this point.
+Once the account is in post-sales, the CSM takes primary responsibility for guidance & best practices conversations, customer enablement, and product usage. Most responsibilities of the AE & SA will transition to the CSM at this point. 
 
-During customer onboarding, the SA may choose to stay engaged with the customer to help facilitate a seamless introduction and address any ongoing activities from the POV. This should be done in such a way as to allow the CSM to take over those activities, so all conversations with the customer on these items should include the CSM.
+During customer onboarding, the SA may choose to stay engaged with the customer to help facilitate a seamless introduction and address any ongoing activities from the Customer Strategy Plan. This should be done in such a way as to allow the CSM to take over those activities, so all conversations with the customer on these items should include the CSM.
 
 Once the account is fully transitioned to post-sales, the SA may be invited by the CSM for the following activities:
 
