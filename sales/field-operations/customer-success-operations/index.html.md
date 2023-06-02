@@ -59,6 +59,31 @@ Customer Success Operations provides support, content, and data analysis for all
 
 ![CS Ops Issue Flowchart](https://lucid.app/publicSegments/view/d1fded0a-7969-46d4-b300-0603d802e6e4/image.png "CS Ops Issue Flowchart")
 
+### Process Flow
+
+Instructions for new request intake and execution for following along with the flowchart above (definitions further down on the page). Once assigned, the Issue Assignee moves the issue through each label.
+
+* Workstream Lead: the individual who has oversight for a given topic, product, or section (e.g., Digital, Gainsight, Scale, ROPS)
+* Issue Assignee: the assignee for the issue who will execute and will own the issue through to completion
+
+1. **New Request** only has ~CSOps label - The Workstream Lead (Gainsight, Scale, Digital, ROPS, etc.) will review requests on a weekly basis to assign, mark as Need more info, mark as won't do, transfer them to a different team, or defer to a later date
+1. **CSOps::Triage** - The Workstream Lead will move the issue here when after review and ready for prioritization
+1. **CSOps::Need_More_Info** - Issue Assignee to apply label if additional information or clarity is needed from the business stakeholder
+1. **CSOps::Unassigned** - Workstream Lead to apply the label when we've agreed the work should be done, but lack prioritization and/or capacity
+1. **CSOps::In Process** - Issue Assignee is actively working the issue; if you are working an issue, it must have this label
+1. **CSOps::Awaiting Feedback** - Issue Assignee to add Peer Reviewer and add label
+1. **CSOps::Blocked** - Issue Assignee applies the label when the issue cannot be worked (technical problem or decision to be made)
+1. **CSOps::Won’t Do** - Workstream Lead selects this when the decision has been made that it will not be worked, then close the issue
+1. **CSOps::Backlog** - Workstream Lead applies label when we've agreed it's helpful and reasonable, but is either a lower priority or cannot achieve in the next 90 days
+1. **Issue closing** - Issue Assignee to:
+   1. Ensure any handbook sections have been updated
+   1. Add to the Gainsight changelog
+   1. Ensure the peer review process has been followed
+   1. Communicate with stakeholders (in the issue, and possibly using other mediums such as Slack or a team call) as the last step, ensuring awareness and follow-through of the completion of the request
+   1. Ensure the Workstream Lead is made aware, along with a summary of the work and any next steps
+   1. Issue Assignee to remove `CSOps::In Process` label
+   1. Close the issue!
+
 ## CS Ops Board, Groups, Projects, and Labels
 
 ### CS Operations Board
@@ -105,12 +130,14 @@ Labels to use when creating new issues or MRs for CS Ops:
 
 **Scoped Labels** - used for tracking SDLC progress
 - **CSOps::Need_More_Info** - Requires additional information from the requester, or lacks information to complete the request.
+- **CSOps::Triage**- Issue that is in the triage stage.
 - **CSOps::Ready_for_Assignment** - Ready to be assigned and prioritized by CS Ops.
 - **CSOps::Awaiting Feedback**  - Used for peer review and when analysis is needed before closing the issue.
 - **CSOps::In_Process** - Actively being worked on in the current week or milestone.
 - **CSOps::Blocked** - Currently blocked by an internal or external prerequisite.
+- **CSOps::Backlog** - Issues that are not currently being evaluated or worked on.
 - **CSOps - Interrupt** - Issue that was submitted after the current milestone started and prioritized ahead of the original milestone scope.
-- **CSOps::Triage**- Issue that is in the traige stage.
+- **CSOps::Triage**- Issue that is in the triage stage.
 - **CSOps::Won’t Do** - Indicates that the issue is not going to be worked/completed, although scoping of solution might have already been concluded.
 
 **Segment and Team Support Labels** - for tracking where the request(s) came from
