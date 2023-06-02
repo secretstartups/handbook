@@ -488,7 +488,7 @@ The details of a license contains the following information:
 
 #### Find Usage Data For a Customer By License Lookup
 
-The following process allows you to view usage data for all servers with a given license installed.
+The following process allows you to view Service Ping usage data for all servers with a given license installed.
 
 1. Navigate to the `Licenses` section.
 1. Search for the customer using the search box (Make sure you are searching for the name as it is in Salesforce).
@@ -500,6 +500,17 @@ The following process allows you to view usage data for all servers with a given
 1. Click on the server name to load the usage ping details.
 
 This [video tutorial](https://gitlab.edcast.com/insights/card-e7589a95-0229-4d20-9c54-ee84750020df) walks through an example of how to find the license details for a particular customer.
+
+### License Seat Links
+
+The `License seat links` page in CustomersDot provides visibility into current usage and version data for Self Managed customers on [Cloud Licensing](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/) or [Offline Cloud Licensing](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/#offline-cloud-licensing). One record is created for each data sync, representing point-in-time data that can help to show changes in usage over time or the date that a customer exceeded a certain seat count. For Cloud License enabled customers, a record will be created once per day as part of [License Sync](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-data-synchronization). For Offline License enabled customers, a record is created whenever the customer manually submits their usage data to GitLab, which is requested at a cadence of once per month.
+
+On this page, you can search by `Company`, `Subscription name`, or `Hostname` to see all license usage for a specific customer. The following metrics are reported with each sync:
+
+1. `License user count` - the number of seats purchased as part of the customer's subscription
+1. `Billlable user count` - the current count of active, billable users at the time of the sync
+1. `Max historical user count` - the highest value of billable users recorded during the current subscription term
+1. `GitLab version` - the version of GitLab at time the customer is on at time of sync
 
 ### Reconciliations
 
