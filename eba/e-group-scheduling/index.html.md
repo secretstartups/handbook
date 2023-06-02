@@ -50,7 +50,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * All meeting requests should include an agenda or some sort of reference material
 * A calendar key is available for viewing in the CoS to the CEO's daily schedule
 
-## Scheduling for Robin Schulman, Chief Legal Officer
+## Scheduling for Robin Schulman, Chief Legal Officer and Head of Corporate Affairs
 * All meeting requests should go through the CLO's Sr. EBA, Sharlene Seemungal
 * Priority to candidate interviews, CEO, E-Group and GitLab BoD
 * Unavailable due to Group Conversations, Company Calls and personal commitments from 7-9am PT
