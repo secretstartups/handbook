@@ -90,6 +90,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 | Articles/Blogs/Features | Category |
 | ------ | ------ |
 | [How Iteration drives innovation in our engineering org](https://about.gitlab.com/blog/2022/06/10/how-gitlab-iteration-value-drives-innovation-through-the-engineering-organization/) | Engineering |
+| [The Best Leadership Advice I Never Received](https://womeninsaleseverywhere.com/blog/author/meaghan-thatcher/) | Sales |
 | [How GitLab's customer and partner focus fuels our culture](https://about.gitlab.com/blog/2022/05/03/how-gitlabs-customer-and-partner-focus-fuels-our-culture/) | Sales |
 | [How GitLab Enabled One Sales Pro to Build Her ‘Dream Life’](https://builtin.com/gitlab-enabled-one-sales-pro-build-her-dream-life?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab) | Sales |
 | [DEI Spotlight - Diversity, Equity, and Inclusion at GitLab](https://venturefizz.com/insights/dei-spotlight-diversity-equity-and-inclusion-gitlab) | General / DIB |
@@ -132,6 +133,7 @@ There are a number of additional videos on our [corporate YouTube channel](https
 | [Engineering at GitLab](https://www.linkedin.com/company/gitlab-com/life/d7a581f5-5dd7-499f-a5e9-79bbcda7f29a/?viewAsMember=true) | LinkedIn Life Page |
 | [UX at GitLab](https://www.linkedin.com/company/gitlab-com/life/2401df61-b442-4630-a061-c586f6d788ba/?viewAsMember=true) | LinkedIn Life Page |
 | [Builtin](https://builtin.com/company/gitlab) | Culture Page and Job Board |
+| [Women in Sales Everywhere](https://app.womeninsaleseverywhere.com/companies/gitlab) | Company Page and Community Member Benefits |
 | [Venturefizz](https://venturefizz.com/gitlab) | Culture Page and Job Board |
 | [Glassdoor](https://bit.ly/3BT89On) | Company Rating, Reviews and Job Board |
 | [Comparably](https://www.comparably.com/companies/gitlab) | Culture Page and Job Board |
