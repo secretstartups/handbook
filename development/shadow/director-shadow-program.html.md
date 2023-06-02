@@ -59,6 +59,10 @@ For non-GitLab prospective shadows:
 
 1. Check the schedule below for availability.
 1. Fill out this [form](https://forms.gle/EoHLLvdaVZLnFNuB7) to apply.
+1. Review and electronically sign the MNDA that will be sent to you via Docusign
+1. Schedule time with me to discuss at least 3 business days before your preferred shadow week (link to do so will be sent by me via email).
+1. After you sign the MNDA and we have our discussion, you will be accepted to the program.
+
 
 ## How does the shadowing work?
 
@@ -168,9 +172,6 @@ No, not at this time.
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| May 23 - May 25     |  [Alexander Chueshev](https://gitlab.com/achueshev) | Senior Backend Developer at ModelOps, AI Assisted |
-| May 29     |  Not Available | |
-| June 5     |  Available | |
 | June 12    |  Available | |
 | June 19    |  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
 | June 26    |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com)  |
