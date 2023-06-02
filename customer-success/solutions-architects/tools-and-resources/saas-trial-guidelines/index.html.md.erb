@@ -14,7 +14,7 @@ description: SaaS Trial Guidelines
 ## SaaS Trial Guidelines
 {:.no_toc}
 
-GitLab currently prevents users from adding a trial license to an existing licensed SaaS namespace.  Since some features such as project and group access tokens are not available with a trial license, using a separate trial namespace ensures data integrity of production data and reduces confusion for end users in the production instance.  The guidelines here are meant to help customers get started with an Ultimate trial.  
+GitLab currently prevents users from adding a trial license to an existing licensed SaaS namespace.  Since some features such as group access tokens are not available with a trial license and others being limited (like project access tokens being limited to only one), using a separate trial namespace ensures data integrity of production data and reduces confusion for end users in the production instance.  The guidelines here are meant to help customers get started with an Ultimate trial.  
 
 ### Creating a New Namespace on SaaS and Starting a Trial
  - To create a new namespace, you should login to gitlab.com and [create a new top-level group](https://docs.gitlab.com/ee/user/group/manage.html#create-a-group).  Note that the group should be created **outside** of your existing SaaS subscription. e.g. if your production group name is ACME123 and you want your trial group to be ACME123-trial, then the trial group url should be `https://gitlab.com/ACME123-trial`, **not** `https://gitlab.com/ACME123/ACME123-trial`.
@@ -26,7 +26,7 @@ GitLab currently prevents users from adding a trial license to an existing licen
     - Use copies of your own existing groups/projects - see [General Approaches](####general-approaches) below
     - Use GitLab Security demo projects - GitLab provides a set of [security demos](https://gitlab.com/gitlab-org/security-products/demos) to show how the various security scans work
 
-- [Project Access Tokens](https://docs.gitlab.com/ee/user/project/settings/project_access_tokens.html) and [Group Access Tokens](https://docs.gitlab.com/ee/user/group/settings/group_access_tokens.html) are not available on a trial license
+- Only one [Project Access Tokens](https://docs.gitlab.com/ee/user/project/settings/project_access_tokens.html) is available with a trial license and [Group Access Tokens](https://docs.gitlab.com/ee/user/group/settings/group_access_tokens.html) are not available on a trial license
  
 #### General Approaches
 
