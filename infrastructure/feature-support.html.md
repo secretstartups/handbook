@@ -17,7 +17,7 @@ When a GitLab feature is released to Production, it can be released at one of th
 
 The availability of a feature is closely related with our ability to support the feature on our SaaS Platforms.
 
-These guidelines ensure that features in our Production environments can be operated by our Reliability teams to match the expected level of support.
+These guidelines ensure that features in our Production environments can be operated by our [Reliability teams](/handbook/engineering/infrastructure/team/reliability/) to match the expected level of support.
 
 ### Requesting and creating new GCP infrastructure resources
 
@@ -30,24 +30,25 @@ As we make progress on [Project Runway](https://gitlab.com/groups/gitlab-com/gl-
 ### Experiment
 
 1. Incidents for Experimental features are assigned as [Severity 4](/handbook/engineering/infrastructure/incident-management/#incident-severity)
+1. Basic troubleshooting information is added to the service's `doc/` directory in the [runbook repository](https://gitlab.com/gitlab-com/runbooks). At minimum, there should be instructions for how how to disable the feature.
 1. If the feature requires a new service:
-  1. A service catalog entry is created with a label, team and owner assigned along with references to documents if they are available ([example](https://gitlab.com/gitlab-com/runbooks/-/merge_requests/5800)).
-  1. Basic troubleshooting information is added to the service's `doc/` directory in the [runbook repository](https://gitlab.com/gitlab-com/runbooks). At minimum, there should be instructions for how how to disable the feature.
+   1. A [service catalog](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/service-inventory-catalog/index.md) entry is created with a label, team and owner assigned along with references to documents if they are available ([example](https://gitlab.com/gitlab-com/runbooks/-/merge_requests/5800)).
+
 
 ### Beta
 
-1. All underlying services exist in the Service Catalog
-1. On-call SRE knows how to access services
-1. On-call SRE knows who to contact for further diagnosis
+1. All underlying services exist in the [Service Catalog](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/service-inventory-catalog/index.md)
+1. How to access services is documented in the [runbook repository](https://gitlab.com/gitlab-com/runbooks)
+1. Who to contact for further diagnosis is documented in the [runbook repository](https://gitlab.com/gitlab-com/runbooks)
 1. Basic observability in place
 1. Incidents for Beta features are assigned as [Severity 4](/handbook/engineering/infrastructure/incident-management/#incident-severity)
 
 ### Generally Available
 
-1. Runbooks exist
+1. Runbooks exist in the [runbook repository](https://gitlab.com/gitlab-com/runbooks)
 1. Observability exists
-1. Readiness review completed
-1. Security review completed
+1. [Readiness review](/handbook/engineering/infrastructure/production/readiness/) completed
+1. [Security review](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security/bau/-/issues/new?issue[title]=Security%20Review%20Request%3A%20{%2B%20Service%2FFeature%20Name%20%2B}&issuable_template=production_readiness&_gl=1*1n9lhal*_ga*NDQ1MjYzMjU0LjE2NTk5Mzg1NjE.*_ga_ENFH3X7M5Y*MTY4NTU0ODM4OS42MDIuMS4xNjg1NTQ5NTc2LjAuMC4w) completed
 1. Automatic alert routing in place
 1. Incidents for Generally Available features are assigned according to the [incident severity table](/handbook/engineering/infrastructure/incident-management/#incident-severity) listed on the Incident Management page.
 
