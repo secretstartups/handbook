@@ -4,7 +4,7 @@ title: "Josh Lemos README"
 job: "CISO"
 ---
 
-
+## Summary
 Everything starts with people, without which we would not have organizational leadership. Humans are the most interesting and difficult part of building and supporting any business enterprise or technological advancement. Our goals as  leaders is to create and maintain environments where brilliant people can thrive and drive incredible outcomes. We must foster a culture in which everyone has an opportunity to meaningfully contribute.
 
 ## Values
