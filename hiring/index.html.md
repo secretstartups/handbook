@@ -310,9 +310,9 @@ There are no perfect or required ways to set up your Greenhouse notifications, b
 <br>
 <br>
 
-#### [Acquisitions](/handbook/hiring/talent-acquisition-framework/acquisitions/)
+#### [**Acquisitions**](/handbook/hiring/talent-acquisition-framework/acquisitions/)
 <br>
-<br>
+
 
 #### Internal Mobility
   * [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/)
