@@ -159,10 +159,12 @@ Some of the links below require you to login to [GitLab's Partner Portal](https:
 
 1.  [Customer Success Workshops](https://gitlab.com/gitlab-com/customer-success/workshops/templates):  A working group containing all CS Workshop Templates.
 
-1.  [SA Demo Catalog](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/demo-catalog):  Demo Archive of SA Demo's which can be reused or repurposed for your demos.
+1.  [SA Demo Catalog](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/demo-catalog):  Demo Archive of SA Demo's which can be reused or repurposed for your demos
 
+1. [CI Samples Demo](https://gitlab.com/gitlab-learn-labs/webinars/cicd/cicd-samples):  CI functions samples for quick demos 
 
 ## Proof of Value (POV), aka POC’s
+
 
 Here’s the [handbook page](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/) for conducting POVs
 
