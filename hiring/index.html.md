@@ -169,7 +169,7 @@ Please find pages for potential and active applicants below.
     * Recruiters don’t need to be the only ones adding interview questions to the interview plan. Invite your Hiring Manager to complete this task alongside you.
     </details>
 </details>
-
+<br>
 
 #### Interview Stages
 
@@ -235,6 +235,7 @@ Please find pages for potential and active applicants below.
     </details>
   
 </details>
+<br>
 
 #### Offers and Closing Reqs
 
@@ -270,10 +271,12 @@ Please find pages for potential and active applicants below.
     </details>
 
 </details>
+<br>
 
 #### Sourcing at GitLab
   * [Sourcing overview](/handbook/hiring/sourcing/)
   * [Identifying prospects](/handbook/hiring/talent-acquisition-framework/req-overview/#step-4-identify--engage-top-talent-prospects)
+<br>
 
 #### Notifications
 
@@ -303,7 +306,7 @@ There are no perfect or required ways to set up your Greenhouse notifications, b
   * [Referral Operations](/handbook/hiring/referral-operations/)
   * [Referral Process](/handbook/hiring/referral-process/)
   * [Details on who is eligible for referrals](/handbook/incentives/#referral-bonuses)
-
+<br>
 
 #### [Acquisitions](/handbook/hiring/talent-acquisition-framework/acquisitions/)
 
@@ -312,17 +315,17 @@ There are no perfect or required ways to set up your Greenhouse notifications, b
   * [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/)
   * [Posting a job internally](/handbook/hiring/talent-acquisition-framework/req-creation/#post-the-job-internally)
   * [In the offer process](/handbook/hiring/talent-acquisition-framework/offer-process/#offer-approvals)
-
+<br>
 
 #### Executive Hiring
 
   * [Executive Search](/handbook/hiring/talent-acquisition-framework/executive-search/)
-
+<br>
 
 #### Emerging Talent
 
 Stay tuned!
-
+<br>
 
 
 ## Global Hiring Resources
