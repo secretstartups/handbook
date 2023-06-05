@@ -339,28 +339,34 @@ Stay tuned!
     * [Global Upside](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#preparing-employment-agreements-for-gitlab-team-members-employed-via-global-upside)
     * [Papaya](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#how-to-add-the-new-hire-to-the-remote-platform)
   * The following timelines to onboarding are advised:
-    * **Remote.com:** [remote.com onboarding timeline](https://support.remote.com/hc/en-us/articles/4411262104589-Employee-Onboarding-Timeline)
-      | Country | Working days |
-      |------|------|	 
-      | Austria :flag_at: | 9 |
-      | Denmark :flag_dk:  | 9 |
-      | Hungary :flag_hu: | 9 |
-      | Italy :flag_it: | 9 |
-      | Mexico :flag_mx: | 3 |
-      | South Africa :flag_za: | 5 | 
-      | Spain :flag_es: | 7 |
-      | Switzerland :flag_ch: | 7 |
-    * **Global Upside:**
-      | Country | Working days |
-      |------|------|	 
-      | India :flag_in:  | 7 business days |
-      | Philippines :flag_ph:  | 17 ( Including 7 business days for pre hire medical test and 3 business days for social registration) |
-      | Kenya :flag_ke:  | 7 business days |
-      | Costa Rica :flag_cr:  | 12 ( Including 5 business days for social registration) |
-      | Latvia :flag_lv:  | 8 ( Including 1 business day for social registration) |
-      | Chile :flag_cl:  | 12 ( Including 5 business days for social registration) |
-    * **Papaya**<br>
-      Processing for the United Arab Emirates could take up to a month, so we recommend start dates at least 6 weeks after the offer is generated.
+    
+**Remote.com:** [remote.com onboarding timeline](https://support.remote.com/hc/en-us/articles/4411262104589-Employee-Onboarding-Timeline)
+      
+| Country | Working days |
+|------|------|	 
+| Austria | 9 |
+| Denmark   | 9 |
+| Hungary | 9 |
+| Italy  | 9 |
+| Mexico  | 3 |
+| South Africa  | 5 | 
+| Spain  | 7 |
+| Switzerland | 7 |
+
+**Global Upside:**
+
+| Country | Working days |
+|------|------|	 
+| India   | 7 business days |
+| Philippines   | 17 ( Including 7 business days for pre hire medical test and 3 business days for social registration) |
+| Kenya   | 7 business days |
+| Costa Rica   | 12 ( Including 5 business days for social registration) |
+| Latvia   | 8 ( Including 1 business day for social registration) |
+| Chile   | 12 ( Including 5 business days for social registration) |
+
+**Papaya**
+      
+Processing for the United Arab Emirates could take up to a month, so we recommend start dates at least 6 weeks after the offer is generated.
 
  
   </details>
