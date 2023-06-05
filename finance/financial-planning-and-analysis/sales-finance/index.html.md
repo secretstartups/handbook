@@ -20,11 +20,13 @@ title: "Sales Finance"
 
 | Name | Function |
 | -------- | ---- |
+| @nbernardo  | Strategic Planning/Consolidation |
+| @jlatendresse| GTM Business Partner Lead |
 | @kmckern | Strategic Planning/Consolidation |
-| @chauenstein | Enterprise, Channels, Alliances |
-| @waqaar | Commercial Sales, Customer Success |
-| @laura_newbury | Professional Services, Field Ops |
-| @ofalken | Dashboards, Data, Strategic Finance |
+| @chauenstein | Enterprise & Commercial Sales |
+| @waqaar | Customer Success, Channels & Alliances |
+| @rcallam | GTM Cross Functional Manager |
+
 
 ## Greenhouse HC Approval SLA (Service Level Agreement)
 We approve all new HC reqs (complete and error-free) by EOD business day or within 24 hours, whichever is the latter. Please notify us at least 48 hours in advance for any urgent requests (otherwise, thank you for your patience and partnership).
