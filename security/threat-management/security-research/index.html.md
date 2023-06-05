@@ -234,6 +234,14 @@ The intention for these sessions is learning on both sides, challenge us with so
 interesting new technologies or software concepts, and in return we'll do our best to
 share our approaches in vulnerability identification to the given codebase.
 
+### Vulnerability Disclosure Guidelines
+
+Vulnerability disclosure can be a delicate process and there is no one-size-fits-all approach for reporting parties. Within the Security Research Team we'll try to report each vulnerability the most effective way, focusing on timely remediation within our GitLab's infrastructure and fix on the vendor's side while respecting embargoes which might be in place.
+
+For third party software listed in our [tech stack](/handbook/business-technology/tech-stack-applications/) any vulnerability disclosures should be coordinated with the respective owner of the tech stack item. They might have additional contacts on the vendor side, or more context how to implement a temporary mitigation for an identified vulnerability.
+
+Depending on the actual risk and exposure it might be needed to further limit the information around the disclosure. In such cases it is recommended to involve the [SIRT](/handbook/security/security-operations/sirt/).
+
 ## Bug bounties and speaker fees
 
 As a result of Security Research it might occur that a team member gets offered
