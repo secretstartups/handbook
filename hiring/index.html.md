@@ -277,6 +277,7 @@ Please find pages for potential and active applicants below.
   * [Sourcing overview](/handbook/hiring/sourcing/)
   * [Identifying prospects](/handbook/hiring/talent-acquisition-framework/req-overview/#step-4-identify--engage-top-talent-prospects)
 <br>
+<br>
 
 #### Notifications
 
@@ -307,24 +308,29 @@ There are no perfect or required ways to set up your Greenhouse notifications, b
   * [Referral Process](/handbook/hiring/referral-process/)
   * [Details on who is eligible for referrals](/handbook/incentives/#referral-bonuses)
 <br>
+<br>
 
 #### [Acquisitions](/handbook/hiring/talent-acquisition-framework/acquisitions/)
-
+<br>
+<br>
 
 #### Internal Mobility
   * [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/)
   * [Posting a job internally](/handbook/hiring/talent-acquisition-framework/req-creation/#post-the-job-internally)
   * [In the offer process](/handbook/hiring/talent-acquisition-framework/offer-process/#offer-approvals)
 <br>
+<br>
 
 #### Executive Hiring
 
   * [Executive Search](/handbook/hiring/talent-acquisition-framework/executive-search/)
 <br>
+<br>
 
 #### Emerging Talent
 
 Stay tuned!
+<br>
 <br>
 
 
