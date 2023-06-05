@@ -304,20 +304,26 @@ There are no perfect or required ways to set up your Greenhouse notifications, b
   * [Referral Process](/handbook/hiring/referral-process/)
   * [Details on who is eligible for referrals](/handbook/incentives/#referral-bonuses)
 
+
 #### [Acquisitions](/handbook/hiring/talent-acquisition-framework/acquisitions/)
+
 
 #### Internal Mobility
   * [Internal Hiring Process](/handbook/hiring/talent-acquisition-framework/internal-hiring-process/)
   * [Posting a job internally](/handbook/hiring/talent-acquisition-framework/req-creation/#post-the-job-internally)
   * [In the offer process](/handbook/hiring/talent-acquisition-framework/offer-process/#offer-approvals)
 
+
 #### Executive Hiring
 
   * [Executive Search](/handbook/hiring/talent-acquisition-framework/executive-search/)
 
+
 #### Emerging Talent
 
 Stay tuned!
+
+
 
 ## Global Hiring Resources
 ---
