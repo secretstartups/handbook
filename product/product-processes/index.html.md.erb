@@ -86,29 +86,6 @@ Non-public items for discussion should be added directly to the [agenda document
 - All Sections  will leverage and personalize this [template](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/section-PI-review-monthly-template.md)
 - All Sections will leverage and personalize this [agenda template](https://docs.google.com/document/d/1hKGU8hN_SpudlV-SnCu821EmMwgLVppJsXZmY4Gom4A/edit). 
 
-#### Leadership Performance Indicator Review (Monthly)
-**DRIs:** [Senior Director, Product Monetization](/company/team/#justinfarris) and [EBA to CProdO](/company/team/#gschwam)
-- **What:** A monthly meeting to provide an opportunity for the CProdO and R&D leadership to review a rollup of the [monthly Section performance indicators](#section-performance-indicator-review-monthly).
-- **When:** During the second week of every month 
-- **Duration:** 50 minutes
-- **Format:** The meeting is lead by the Senior Director of Product Monetization
-     - Discussion of watchpoints from any individual Section PI reviews (example: "Create SMAU down 5% quarter over quarter, discuss trend and action items" OR "group::purchase has been over SLA on past due infradev issues, discuss plan to remediate") 
-     - Core product-wide metrics review (CMAU, etc)
-     - Items CProdO wants to deep dive on for the month
-- **Recordings:** Each meeting will be recorded, and published so participants can engage async. The meetings have [REC] in the title and will automatically go to the [Google Drive Folder](https://drive.google.com/drive/search?q=type:video%20Performance%20Indicator). If you cannot find a recording, please message the EBA to the CProdO.
-- **Preparation:** 
-- Sr Director of Product Monetization & Operations will prepare a summary view of each section review as individual agenda items in the shared agenda doc
-- Sr Director of Product Monetization & Operations will callout any watchpoints for each section and update the agenda with appropriate links to dashboards or reports
-- Once ready EBA to CProdO will inform CProdO agenda is ready for pre-read
-- **Meeting Attendees** 
-- The following participants will be included in the sync meeting from each group (attendance can be async):
-   1. CProdO
-   2. Members of Product Leadership Team (all direct reports of the CProd)
-   3. VP of Development
-   4. VP of Quality
-   5. All Product Division Section leaders
-- All meetings  will leverage this [agenda template](https://docs.google.com/document/d/16aOTOEkkLyhGqkpxMcT-mfu2CtLhMmgJ7LV_mvicFes/edit#). 
-
 #### Product Direction Showcases 
 **DRIs:** [Director, Verify & Package](/company/team/#jreporter) and [Product Operations](/company/team/#fseifoddini)
 
@@ -135,6 +112,7 @@ Aligned with the company [cadence](/company/cadence/), using the Dev Section as 
 1. [Vision](/direction/#vision): 10 years
 1. [Strategy](/company/strategy/#sequence-): 3 years
 1. [FY Themes](/direction/#fiscal-year-product-investment-themes)
+1. [Yearlies](/company/yearlies/)
 1. [Product Releases](https://gitlab.com/gitlab-org/release-tools/blob/master/templates/monthly.md.erb): month (we try to not change the release that is started)
 
 Inspired by:
@@ -149,17 +127,13 @@ Introducing changes requires a number of steps, with some overlap, that should b
 This process should be both up front and on an on-going basis when building features.
 
 ### PM, EM, UX and SET Quad DRIs
-
 GitLab is designed and developed in a unique way.
-
 Consistent with our value of [Efficiency](/handbook/values/#efficiency)
 the product is developed with [directly responsible individuals](/handbook/people-group/directly-responsible-individuals/) from Product, UX, Quality and Development working together.
-
 | Product Managers | Engineering Managers | UXers | SETs |
 | :--------------: | :------------------: | :---: | :---: |
 | Set [milestone priorities](/handbook/product/cross-functional-prioritization/#planning-for-the-milestone) and define what features Engineering works on | Own the definition of done; decide what gets merged into Product. [Prioritizes maintenance work](#prioritization-for-feature-maintenance-and-bugs) | Proactively identify small and large strategic UX needs to aid Product Management prioritization | Own and identify test strategy and requirements to complete the definition of done |
-
-#### Quad + Infra + Security Product Group DRIs
+### Product Group Counterparts and DRIs
 
 At GitLab, we develop our product for self-managed as well as SaaS-hosted customers. We realize that while we have DRIs there are many stakeholders who have needs. Examples teams include: Engineering, Quality, UX, Product, Security, and Infrastructure. Example expertise/stakes include: The Security team often has the deeper context of what it takes to run a secure SaaS system. The Infrastructure team has insights into what we should build into the product to reduce toil and enable efficient, reliable, performant and scalable systems.
 
@@ -254,26 +228,6 @@ Finally, issues are the substance of your plan. Ensure you are applying the labe
 
 You can mix Direction epics and issues or just use one or the other. Epics will appear before issues in any lists.
 
-#### Moving the product direction forward
-
-In each release, you should be moving your plan forward. At least one item with this label
-should be included; if not, it's possible you're getting off track from where you planned
-to go and should assess.
-
-Note that, by their nature, Product Direction items should not be sitting in the backlog or with no
-milestone. If they are, this is a signal that either they are not as important as originally
-thought, or that something important is not getting due attention.
-
-### Prioritization: Ahead of kickoff
-
-1. Proper discovery has been done and requirements for the change are defined
-1. Engineering has been involved in the discovery and prioritization process (FE, BE, UX, Quality, and others as needed)
-    1. You have worked with your Quad (EM, UX, QEM) to identify non-feature priorities by [work type](/handbook/engineering/metrics/#work-type-classification)
-    1. Features, maintenance, and bugs work are [properly balanced](/handbook/product/cross-functional-prioritization/#planning-for-the-milestone)
-1. Technical architecture has been drafted and is agreed upon
-1. Scoping and splitting up into actionable issues has happened
-1. Issues that move your plan forward have the appropriate [Product Direction label](/handbook/product/product-processes/#managing-your-product-direction) applied
-
 ### Top ARR Drivers
 
 The Product function at GitLab maintains a list of prioritized product improvements that would drive ARR in collaboration with Sales Leadership. The priorities and methodology for prioritizing this input is discussed in a monthly meeting and maintained in the `Top ARR Drivers for Sales/CS` GoogleSheet which you can find in our internal GoogleDrive.
@@ -324,11 +278,6 @@ When planning, Product Managers plan to GitLab milestones. Here is the process f
 
 - [Interpreting release dates](/handbook/product/interpreting-release-dates.html) clarifies how product teams use milestones and labels to indicate the likelihood of feature delivery within certain timeframes.
 - The [release definitions](/handbook/engineering/releases/) are maintained by the Engineering Team and we run the end of each Milestone on the 22nd.
-
-### Product Milestones Usage
-
-- These milestones are used to create boards and issues for each release
-- The [Product Development Google Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_baef86oeitmd9uuq7m9i8021j8%40group.calendar.google.com) (WIP) - also uses these milestone names and dates.
 
 ### Relevant links
 
@@ -476,32 +425,6 @@ It's important to keep [`features.yml`](https://gitlab.com/gitlab-com/www-gitlab
 
 - [SaaS vs. Self-managed](/features/)
 - [Features by tier](/features/by-paid-tier/)
-
-### Major feature rollout
-
-Major features deserve proper attention from Product and Marketing. With a proper rollout, we'll have ample marketing opportunities and receive more feedback ahead of, during, and after the release.
-
-Here is the ideal rollout schedule. For each step there is an indication for
-who is responsible for it.
-
-1. Feature is drafted in an epic or issue (PM)
-1. Feature is planned in an upcoming release (PM)
-1. A feature proposal blog post is made (PM or Dev), which includes:
-    - What we are planning on doing.
-    - How people will be able to get it: CE or any EE Editions.
-    - A link to the issue.
-    - When it'll be available, if possible.
-    - Anything else that is interesting to share in order to fuel the discussion.
-1. Feature is implemented, and documentation is written (Dev).
-1. Feature should appear on the website (Marketing)
-    - For very significant features: Feature page on the website is made and pushed, with the mention "Available from X.X"
-    - For other features: Feature should be listed on some page (/devops-tools, Enterprise page, /features page).
-1. Feature is launched with the release (Marketing)
-    - "Available from X.X" is removed
-    - Documentation and other resources are linked
-    - Pricing page is updated if needed
-1. Feature is highlighted in a blog post (Marketing)
-    - This post is linked from the feature page on the website (if applicable)
 
 ### Channel partner strategy
 
@@ -1020,31 +943,6 @@ In addition to making the appropriate changes listed above to ensure that the ca
 Throughout the customer lifecycle, customer facing teams (Support, Sales, Professional Services, Account Managers, etc.) may need the assistance of a product manager. This can include a detailed discussion of our direction, how to address specific use cases, or gaps in functionality, with an organization.
 
 To ensure these requests can be quickly triaged, easily scheduled, and later tracked, there is a standardized request process based on issues.
-
-#### Requesting support from Product
-
-Product support requests are tracked in the [Product team project](https://gitlab.com/gitlab-com/Product). To create a request:
-
-1. Create a [new issue with the `Product-Support-Request` template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Product-Support-Request)
-1. Fill out the form within the template, be sure to include relevant details and issues
-1. Ensure the issue is confidential, save it.
-
-For time sensitive and high impact requests, please paste a link to the issue in the `#product` Slack channel, and @mention the recommended PM's in the template.
-
-#### Working with support requests
-
-When a support request is opened, labels will automatically be assigned to categorize the request.
-
-Three fields are particularly important when triaging requests:
-
-- Priority: How time critical the request is, `urgent` requests should be treated with a high priority.
-- Impact: Potential impact to the business, based on [total contract value (TCV)](/handbook/sales/sales-term-glossary/).
-- Stage: Which stage the request relates to.
-
-All product managers should ensure they are set up to receive label notifications for their respective stages:
-
-1. List the [product project's labels](https://gitlab.com/gitlab-com/Product/-/labels)
-1. Subscribe to relevant stage labels.
 
 ## How to work as a PM
 
@@ -2001,36 +1899,6 @@ Consider the following to improve iteration:
 - If the project is multi-phase, consider iterative targets and guardrails to help the team focus on the next iterative milestone, rather than the final end state goal.
 - If your team needs to do repetitive work on behalf of customers, partners, or other GitLab teams, consider using a framework approach so that dependent teams can self-serve.
 
-### Issue Reviews
-
-Issue reviews are an **optional step** in the [product development flow](/handbook/product-development-flow/#outcomes-and-activities-4) that brings peer PMs in to help you hone your skills at _iteration_, _clarity_, and _strategy_. Keeping issues small and iterative is core to how GitLab maintains [velocity](/handbook/engineering/development/principles/#the-importance-of-velocity). Writing a "small" issue is often (counterintuitively) more difficult than writing a bigger one, and understanding the _entire strategy_ of how GitLab operates is a herculean task. Having a helping hand with these tasks is important to professional development, and it ensures that our entire product organization continues to improve.
-
-You should consider requesting a review when:
-
-1. You're having specific challenges defining the problem, identifying the affected personas, or breaking down the solution to small chunks of work.
-1. There are potential design or technical dependencies across Sections, Stages, or Groups.
-1. This issue takes the product in a novel direction or adds functionality unlike anything else in the product
-
-_*Note: **If you're a new GitLab team member**, you should request reviews of the first 3 issues you create. It will help familiarize you with what we're looking for in an iteration, get more comfortable with our process, and meet your fellow team members. After you've completed a few reviews, this track can be considered optional._
-
-If you would like a peer to review one of your issues (or epics):
-
-1. Add the `issue::needs review` label to your issue
-1. Post a link to the issue in the [**#product**](https://gitlab.slack.com/archives/C0NFPSFA8) channel in Slack
-    1. _Note: If you need a review to be completed quickly, be sure to mention when it needs to be done by._
-1. The issue gets picked up by a Reviewer PM, who adds a ✅ reaction on the Slack message.
-1. Reviewer PM reads through the issue and leaves feedback on these criteria:
-    1. **Iteration**: Has the solution been broken down as much as possible? Is it small enough to be completed in one milestone rather than spanning multiple milestones? Have implementation risks been considered and minimized?
-    1. **Clarity**: Is the problem well versed and the personas identified? Could someone outside the group or category understand the issue? Is the value being delivered to the users articulated?
-    1. **Strategy**: How will it work in GitLab as whole? Does it tie back to category strategy or stage direction?
-1. Things for the reviewer to **not** do:
-    1. Don't just _enforce the template_. Instead, give contextual feedback with the appropriate template as a reference point.
-    1. Don't treat this as another task to check off, but instead, take this opportunity to engage in conversation and improve our organizations ability to iterate.
-    1. Don't assume that the other PM will do exactly what you say. You're providing recommendations, not edicts.
-1. When complete, the Reviewer PM adds the `issue::reviewed` label and lets the original PM know that the review is complete.
-
-You can view all of the work happening in this track [on this board](https://gitlab.com/groups/gitlab-org/-/boards/1569699).
-
 ### Community participation
 
 Engaging directly with the community of users is an important part of a PM's job. We
@@ -2367,10 +2235,6 @@ One of the primary artifacts of the validation track is the Opportunity Canvas. 
 
 Please note that an opportunity canvas is not required for product functionality or problems that already have well-defined [jobs to be done (JTBD)](/handbook/product/ux/ux-resources/#jobs-to-be-done-jtbd). For situations where we already have a strong understanding of the problem and its solution, it is appropriate to skip the opportunity canvas and proceed directly to solution validation. It might be worth using the opportunity canvas template for existing features in the product to test assumptions and current thinking, although not required.
 
-##### Comparative Opportunity Review
-
-As a product with a significant breadth, opportunity canvases serve as a great tool to compare and prioritize multiple, competing product directions. It is as important what we do not build as what we build. An opportunity canvas review should preferably present 2-4 canvases and the review might be about validating the prioritization of the different directions. As canvases are being prepared, feel free to drop some of the opportunities without ever reviewing them with product leaders, you can still reference them during a review if needed.
-
 ##### Reviews 
 
 Reviewing opportunity canvases with leadership provides you with an opportunity to get early feedback and alignment on your ideas. To schedule a review:
@@ -2393,12 +2257,6 @@ Reviewing opportunity canvases with leadership provides you with an opportunity 
 #### Opportunity Canvas Lite
 
 Opportunity Canvases are a great assessment for ill-defined or poorly understood problems our customers are experiencing that may result in net new features. As noted previously, opportunity canvases are helpful for existing features, except they are tailored for new feature development which is where the [`Product-Opportunity-Opportunity-Canvas-Lite`](https://gitlab.com/gitlab-com/Product/-/issues/new?issuable_template=Product-Opportunity-Canvas-Lite) issue template delivers. This template offers a lightweight approach to quickly identify the customer problem, business case, and feature plan in a convenient issue. The steps to use the template are outlined in the [Instructions](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Opportunity-Canvas-Lite.md#instructions) section and for clarity, one would create this issue template for an existing feature they are interested in expanding. For example, this template would be great to use if you are evaluating the opportunity to add a third or fourth iteration to an MVC. This issue should leverage already available resources and be used to collate details to then surface to leadership for review. Once you fill out the template, you will assign to the parties identified in the issue and you can always post in the `#product` channel for visibility.
-
-#### Opportunity Reviews
-
-Some members of the Product Team participate in a [weekly opportunity review issue (note - issues are confidential due to discussion of customers and prospects)](https://gitlab.com/gitlab-com/Product/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=opportunity%20review). The intent of this weekly review is to better understand the top opportunities in our Sales Pipeline and ensure coordinated assistance from across the product group as well as share key-takeaways with the broader product team.
-
-To participate in this process propose an MR adding yourself to the [weekly top opportunity review issue template](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/Weekly-Top-Opportunity-Review.md).
 
 ### Analyst Engagement
 
@@ -2695,25 +2553,6 @@ There are also other higher precedence labels, as documented by [Engineering Met
 
 When considering whether an issue is [a missing feature or a bug](/handbook/product/product-processes/#issues), refer to the [definition of an MVC](/handbook/values/#minimal-viable-change-mvc) and [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) for general guidance that works well in most cases. If in doubt - think from our customer's perspective - not our internal one - focus on whether it is valuable for our customers and should be prioritized. In the long run it won't matter whether we called it a bug or a feature -what would matter is if we focused on the right things to deliver to our users. Remember that bug fixes can be fast and iterative. See an example where the Package team found, researched, designed, implemented, and merged a small fix in 24 hours, while also planning a longer-term fix to follow.
 
-##### Competitive Analysis Issues
-
-[Competitive Content Issues](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/Product-Competitive-Content.md) are used to document and track competitive analysis.
-
-Oftentimes, different reports or assets from Analyst Relations, the Market, or Product Marketing appear with incredible insights. It is important to capture those findings and share key takeaways from competitive analysis across Product, Design, Engineering, and Product Marketing.
-
-The process for documenting takeaways is as follows:
-
-- Create an issue from the `Product-Competitive-Content` Issue Template
-- Assign the issue to yourself or the product manager that is responsible for the relevant area
-- Follow the steps in the issue, to include sharing the completed issue and any changes across various channels on slack, such as:
-    - #analyst_relations
-    - #compeition
-    - #section channel
-    - #s_stage
-    - #g_group
-
-This issue template will help share and create single place for people to view competitive content.
-
 ##### Feature issues
 
 Feature issues identify work to support the implementation of a feature and/or results in an improvement in the user experience.
@@ -2809,12 +2648,6 @@ In addition, it's often a good idea to throw away an original plan and
 start fresh. Try to do this more often, even more than you're comfortable with.
 Close the issue and create a new one.
 
-#### Which issue should you be working on?
-
-When you don't have any specific tasks assigned, you should work on issues that are
-labeled `Product work`, in both the EE and CE projects. These are issues that need
-our attention the most.
-
 ## Life Support PM Expectations
 
 When performing the role of Life Support PM only the following are expected:
@@ -2834,31 +2667,6 @@ Some discouraged responsibilities:
 - Direction page updates
 - Analyst engagements
 - CAB presentations
-
-### Product Manager Buddy System
-
-In order to avoid suffering in silence, encourage growth in your trade and foster collaboration and understanding
-across groups and stages we have a Product Buddy System whereby we designate pairs of Product Managers. These pairs should consider
-working together on:
-
-- Reviewing each others' MVCs
-- Reviewing each others' monthly milestone prioritization
-- Reviewing each others' direction items
-- Participating in Think Big exercises about each others' groups
-
-The pairing for this buddy system is defined in the [Product Buddy System Google Doc (internal only)](https://docs.google.com/spreadsheets/d/1g52exL3Wi0q1JZQDZOzaw4H26bywG0A4kZ917DIQ9Po/edit#gid=1777807595).
-
-### MVC and New Config Reviews
-
-Product Managers are fully empowered to define the what and priority of what they are building. Making PMs the DRI enables our entire company to iterate faster and drive more value for users. There are a few instances where it is helpful to have an outside review of your scheduled issues. Those are:
-
-- **MVCs** - Creating the smallest iteration possible is difficult, especially when you've been working with a problem for sometime. It's natural to think what you've come up with is the smallest, and takes collaboration with others to get to something even smaller.
-- **New Configs** - It's easy to think of all the possible options users might want with a feature. When introducing new configuration it's natural to get into a local-optimization mindset that some users want to be able to adjust this setting so why not add a new config option? It is helpful to have an outside perspective to bring a slightly more global view of the addition of a new config option, and the possibility of eliminating it or supplying an appropriate default.
-- **Application limits** - It's important that we add application limits to prevent abuse of GitLab. As you consider adding new limits, it is helpful to review your reasoning prior to introducing the limit.
-
-How and when these reviews happen is dependent on the Product section. The [Ops section](/handbook/product/categories/#ops-section) section utilizes an [MVC & New Config issue](https://gitlab.com/gitlab-com/Product/-/blob/main/templates/MVC-CONFIG.md.erb) that is automatically created each month to remind and encourage additional review of upcoming issues that are MVCs or introduce new configuration.
-
-All other sections perform this as part of the refinement process on an ad-hoc (when and as needed) basis and do not utilize the automated issue.
 
 ### Build vs "Buy"
 
@@ -2946,9 +2754,9 @@ Calibration and assessment are two different steps in the process. The assessmen
 
 For Product specifically, we will calibrate:
 
-1. Anyone in [Box 1](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix) aligned with [company-wide guidelines](/handbook/people-group/talent-assessment/#who-do-i-calibrate). We will not calibrate team members promoted with 2022-11-01 effective dates that are in Box 1. The rationale here is that we already spent sync time in Q3 calibrating these team members to ensure promotion readiness. 
-1. Anyone in [Box 9](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix) aligned with [company-wide guidelines](/handbook/people-group/talent-assessment/#who-do-i-calibrate). When calibrating Box 9, we will only discuss team members who have been with GitLab for 3+ months, as it is expected that new hires (particularly if hired within 0-3 months - on/after 2022-07-31) would fall in this box. 
-1. Anyone hired in the last 3 months (on/after 2022-07-31) assessed as “Performing” or “Exceeding” for Performance or “Growing” or “Exceeding” for Growth Potential aligned with [eligibility guidance](/handbook/people-group/talent-assessment/#eligibility)
+1. Anyone in [Box 1](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix) aligned with [company-wide guidelines](/handbook/people-group/talent-assessment/#who-do-i-calibrate). We will not calibrate team members promoted with YYYY-MM-DD effective dates that are in Box 1. The rationale here is that we already spent sync time in Q3 calibrating these team members to ensure promotion readiness. 
+1. Anyone in [Box 9](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix) aligned with [company-wide guidelines](/handbook/people-group/talent-assessment/#who-do-i-calibrate). When calibrating Box 9, we will only discuss team members who have been with GitLab for 3+ months, as it is expected that new hires (particularly if hired within 0-3 months) would fall in this box. 
+1. Anyone hired in the last 3 months assessed as “Performing” or “Exceeding” for Performance or “Growing” or “Exceeding” for Growth Potential aligned with [eligibility guidance](/handbook/people-group/talent-assessment/#eligibility)
 1. Anyone identified as Key Talent
 
 It's important to note that while these will be our focus areas for calibration sessions, leaders should feel free to raise any team member's assessment up for discussions if they have any questions or concerns. Calibrating outliers is not a limitation, but rather a structural adjustment to ensure this process is scalable and focused. 
@@ -2967,7 +2775,7 @@ In addition to the [calibration session pre work](/handbook/people-group/talent-
 
 1. Key Talent assessment need to be completed and added to the session agenda doc at least 3 business days before the live calibration session. 
 
-  - If an individual is indicated as key talent, an explanation should be added to indicate how this individual qualifies as key talent against our [key talent definition](/handbook/people-group/talent-assessment/#key-talent). Reminder that the bar for key talent is set high, and that key talent makes up roughly ~10% of the entire population. In Product, we will be assessing Key Talent from the Director level and above [aligned with guidelines](/handbook/people-group/talent-assessment/#process-to-determine-key-talent), meaning that while *everyone in the organization is eligible to be identified as Key Talent*, Directors+ will be assessing and making these initial nominations. The rationale behind this decision is that is important to have a holistic view of all team members when determining who meets the key talent criteria, which is why we require a certain scope when assessing key talent in the organization. 
+  - If an individual is indicated as key talent, an explanation should be added to indicate how this individual qualifies as key talent against our [key talent definition](/handbook/people-group/talent-assessment/#key-talent). A reminder that the bar for key talent is set high, and that key talent makes up roughly ~10% of the entire population. In Product, we will be assessing Key Talent from the Director level and above [aligned with guidelines](/handbook/people-group/talent-assessment/#process-to-determine-key-talent), meaning that while *everyone in the organization is eligible to be identified as Key Talent*, Directors+ will be assessing and making these initial nominations. The rationale behind this decision is that is important to have a holistic view of all team members when determining who meets the key talent criteria, which is why we require a certain scope when assessing key talent in the organization. 
 
 1. Every session attendee should review the Performance/Growth Potential assessments and Key Talent overviews for outliers asynchronously ahead of the session to be prepared for live discussion/calibration. 
 
@@ -2975,27 +2783,25 @@ In addition to the [calibration session pre work](/handbook/people-group/talent-
 
 Calibration session attendees will be organized by leadership layer within the Product division.
 
-Below is an overview of our calibration structure and timeline for the FY'23 Q4 Talent Assessment cycle. At a high level, the week of November 7th is the week that section and sub-department leaders should calibrate their respective organizations ahead of the commencement of the Product division wide calibration sessions, which will begin the week of November 14th. 
+Below is an overview of our calibration structure and timeline for the FY'23 Q4 Talent Assessment cycle. At a high level, the week of November 7th is the week that section and sub-department leaders should calibrate their respective organizations ahead of the commencement of the Product division-wide calibration sessions, which will begin the week of Month Day. 
 
 | Session Number | Attendees | Calibration Level Focus | Session Date | Duration |
 | --------------- | ----------------- |----------------- |----------------- |----------------- |
-| Session 1  | Section/Sub-Department (Managers, Sr Mgrs, GMP, and Director/Sr Director; VP and PBP optional) | IC | Week of November 7-11 | Leader discretion |
-| Session 2  | Directors+ in the Product division + PBP  | Senior Manager/Manager/GMP/IC  | Week of November 14 | 1.5 hours |
-| Session 3  | Directors+ in the Product division + PBP  | Senior Manager/Manager/GMP/IC  | Week of November 14 | 1.5 hours |
-| Session 4 | CProdO; VP, UX; PBP | Product division Directors | Week of November 14 | 1.5 hours |
-| Session 5 | CProdO and PBP | All of the CProdO's direct reports + finalize division-wide | November 28 | 1.5 hours | 
+| Session 1  | Section/Sub-Department (Managers, Sr Mgrs, GMP, and Director/Sr Director; VP and PBP optional) | IC | Week of Month Day| Leader discretion |
+| Session 2  | Directors+ in the Product division + PBP  | Senior Manager/Manager/GMP/IC  | Week of Month Day | 1.5 hours |
+| Session 3  | Directors+ in the Product division + PBP  | Senior Manager/Manager/GMP/IC  | Week of Month Day | 1.5 hours |
+| Session 4 | CProdO; VP, UX; PBP | Product division Directors | Week of Month Day| 1.5 hours |
+| Session 5 | CProdO and PBP | All of the CProdO's direct reports + finalize division-wide | Week of Month Day | 1.5 hours | 
 
 ### Annual Compensation Review
 
 The SSOT timeline for the upcoming Annual Compensation Review can be found [here](/handbook/total-rewards/compensation/compensation-review-cycle/#january). Below you will find additional dates specific to the Product division to ensure all levels have time to review as we move through the process.
 
-- January 9-13 @ 5pm PT - Manager/GMP level finalizes comp recommendations
-- January 16-17 @ 5pm PT - Sr Mgr (or next level up if no Sr Mgr) finalize comp recommendations
-- January 18-19 @ 5pm PT - CEO Skips (CProdO) finalize comp recommendations
-- January 20-23 @ 5pm PT - CProdO finalize comp recommendations
-- January 25-26 @ 5pm PT: E-Group review and approve
-
-
+- TBA - Manager/GMP level finalizes comp recommendations
+- TBA - Sr Mgr (or next level up if no Sr Mgr) finalize comp recommendations
+- TBA - CEO Skips (CProdO) finalize comp recommendations
+- TBA - CProdO finalize comp recommendations
+- TBA - E-Group review and approve
 ### Span of Control Guidance
 
 We have added high level span of control guidance to our [Product leadership job families](https://handbook.gitlab.com/job-families/product/product-management-leadership/).
