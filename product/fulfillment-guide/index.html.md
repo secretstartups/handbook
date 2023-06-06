@@ -239,8 +239,18 @@ This functionality lives in Customers Portal and runs daily at midnight UTC. Ple
 10. Update SFDC Opportunity to Closed Won, and created related SFDC Quote and Quote objects.
    1. If reconciliation fails for any reason, SFDC Opportunity remains open.
 
-<!--##### QSR and SFDC Opportunities
--->
+##### QSR and SFDC Opportunities
+
+As of 2023-05-22, SFDC Opportunities created for QSR have 2 new fields populated: `QSR Status` and `QSR Notes`. Here's a summary of what you can expect to see in these fields and suggested action for Sales Reps.
+
+| QSR Status | QSR Notes | Stage | Suggestion Action | Additional Notes |
+| :-------- | :-------- |:-------- |:-------- |:-------- |
+| Pending | Reconciliation record link (e.g.cust....gitlab.com/admin/r../12345) | 6-Awaiting Signature | No action | The QSR will be auto reconciled within 7 days. |
+| Processed | Reconciliation record link (e.g.cust....gitlab.com/admin/r../12345) | Closed Won | No action |  |
+| Failed | Failed to amend subscription/ amount does not match latest preview | 6-Awaiting Signature | AE to set to Closed Lost. | The QSR has become redundant, since the customer purchased additional seats after the QSR has already been created. |
+| Failed | multiple_rate_plans | 6-Awaiting Signature | AE to contact customer, advising that extra seats must be purchased. | QSR cannot be processed as the customer has multiple rate plans on the subscription. |
+| Failed | - card was declined<br/>- card does not support this type of purchase<br/>- card number is incorrect<br/>- expiration year is invalid<br/>- expiration month is invalid<br/>- has insufficient funds, or any other payment_declined/ transaction declined error. | 6-Awaiting Signature | Optional: AE to contact customer. | Customer will receive a notification that their card was declined, together with the steps they need to take to resolve. Once the customer updates their payment method, QSR will be re-processed. |
+
 ##### FAQs
 
 1. **How do I see the status of QSRs?**
