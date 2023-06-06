@@ -121,7 +121,7 @@ Please find pages for potential and active applicants below.
 <details>
 <summary markdown="span">Evergreen requisitions</summary>
 
-  * [Creating an evergreen req](/handbook/hiring/talent-acquisition-framework/evergreen-requisitions/)<br>
+  * [Creating an evergreen req](/handbook/hiring/talent-acquisition-framework/req-creation/#creating-an-evergreen-requisition)<br>
   * [Evergreen req guide](/handbook/hiring/talent-acquisition-framework/evergreen-requisitions/)<br>
   * An Evergreen Job is a requisition that is 'always open'. More specifically, it is used when we have at least 3 openings for a particular job repeated each quarter. There is then one Evergreen job posted for internal, external and passive candidates. It is important that no candidate is hired to an Evergreen job, and instead is moved to an approved opening (aka an opening with a single corresponding GHPiD). TA Leadership will open EVG roles at the start of a fiscal year, with a quarterly review cadence, by leveraging the hiring plan and attrition assumptions. See the pages above for more information.<br>
   + <details><summary markdown="span">Tips and Tricks</summary>
@@ -265,6 +265,7 @@ Please find pages for potential and active applicants below.
   * [Verbal offer information](/handbook/hiring/talent-acquisition-framework/offer-process/#verbal-job-offer)
   * [Declined offer steps](/handbook/hiring/talent-acquisition-framework/offer-process/#declined-offers)
   + <details><summary markdown="span">Background screens</summary>
+  
     * Contact the Senior Background Check Specialist at backgroundchecks@gitlab.com with any questions or requests for status updates.
     * The most commonly asked question for candidates outside the US is, “Why can’t I enter more than one past employer?” Outside of ​the US, candidates will only submit one former employer and Sterling is working as expected.
     </details>
