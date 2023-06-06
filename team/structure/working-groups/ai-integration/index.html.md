@@ -165,7 +165,7 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Bojan Marjanović | Senior Backend Engineer | AI Enablement | 
 | Jan Provaznik | Staff Backend Engineer | AI Enablement | 
 | Daniel Tian | Senior Frontend Engineer | Threat Insights |
-| Mo Khan | Senior Backend Engineer | Threat Insights |
+| Gregory Havenga | Backend Engineer | Threat Insights |
 | Kerri Miller | Staff Backend Engineer | Code Review |
 | Stanislav Lashmanov | Senior Frontend Engineer | Code Review |
 | Pavel Shutsin | Senior Backend Engineer | Plan:Optimize |
