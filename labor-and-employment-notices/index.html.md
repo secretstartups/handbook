@@ -382,7 +382,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Wage Theft Prevention](https://dol.ny.gov/system/files/documents/2021/03/p715.pdf)
 * [Paid Family Leave](https://www.wcb.ny.gov/content/main/forms/PFLDocs/pfl-at-a-glance-2023.pdf)
 * [New York State Disability Statement of Rights (DB217S)](https://www.wcb.ny.gov/content/main/forms/db271s.pdf)
-* [Rights of Nursing Mothers to Express Breast Milk in the Work Place](https://dol.ny.gov/system/files/documents/2021/02/ls702_guidelines_regarding_the_rights_of_nursing_mothers_to_express_breast_milk_in_the_work_place.pdf)
+* [Rights of Nursing Mothers to Express Breast Milk in the Work Place](https://dol.ny.gov/system/files/documents/2023/06/p705-policy-on-the-rights-of-employees-to-express-breast-milk-in-the-workplace-single.pdf)
 * [Child Labor Law - permitted working hours](https://dol.ny.gov/system/files/documents/2021/03/ls171.pdf)
 * [Prohibition of Employer Retaliation](https://dol.ny.gov/system/files/documents/2022/02/ls740_1.pdf)
 * [Time Off and Work Hours Notice](https://dol.ny.gov/system/files/documents/2021/02/ls606_guidelines_for_employers-requirements_to_notify_employees_about_time_off_and_work_hours.pdf)
