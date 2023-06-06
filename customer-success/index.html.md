@@ -56,7 +56,7 @@ Collecting and making use of customer data and insights is key to customer succe
 
 ### Initiative: Performance
 
-Utilizing built-in monitoring instrumentation and [a scalable HA architecture](https://docs.gitlab.com/ee/administration/reference_architectures/index.html), The Customer Success team helps ensure implementations of GitLab are operating at peak performance as organization scale and adopt more features.
+Utilizing built-in monitoring instrumentation and [a scalable HA architecture](https://docs.gitlab.com/ee/administration/reference_architectures/index.html), the Customer Success team helps ensure implementations of GitLab are operating at peak performance as organization scale and adopt more features.
 
 ## Customer Success Playbooks
 
