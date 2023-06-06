@@ -96,14 +96,14 @@ Within a success plan objective (or "CTA"), tasks can be used to further decompo
 
 With these three elements, you can develop an objective that allows you to measure and report on progress towards outcomes throughout your book in a scalable way.
 
-#### Objective Categories
-
-There are five types of objectives: Stage Adoption and ROI.
-
-- **Stage Adoption** objectives are intended to be used only when the end result of the objective is [measurable adoption of a GitLab product stage](/handbook/customer-success/csm/stage-adoption/). For example, if you are going to be driving adoption of GitLab CI (Verify stage) to achieve the stated business outcome, you would categorize the objective as Stage Adoption.
-- **ROI** objectives are essentially for anything that isn't explicitly stage adoption that ties to the customer's positive business outcomes and continued value-add from GitLab. Examples include implementing HA architecture, or enabling integration with existing tools.
 
 ## Building a Success Plan
+
+In FY24, the SA team has begun rolling out customer-agreed [strategy roadmaps](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#customer-strategy-planning) ([Link to overview - GitLab internal](https://docs.google.com/presentation/d/1npyhUebp68YkccLlJP5R_6gmtQjfELpB1mBGWfroVmY/edit#slide=id.g1f08ae24719_1_7)).  
+
+These roadmaps outline the customer success outcomes that are now being defined in the presales process, in order to engage in a value-based conversation with the customer that starts in the sales process and carries through to the CSM engagement.  For guidance on where to put the determined objectives when a strategy roadmap is in place, please see the ***Translating a Strategy Roadmap to a Success Plan*** section below.
+
+When a strategy roadmap is not in place, the following guidance details the process the CSM follows to align on a customer's desired business outcomes.
 
 ### Understand the Customer’s Motivation
 
@@ -153,8 +153,7 @@ When a CSM is assigned to an account, an active ROI Success Plan will be automat
 1. From the menu on the left-hand side of the screen, choose "Success Plan"
 1. In the upper right-hand side, click "+ Success Plan"
 1. Add a Name for the success plan, e.g. "`Customer Name` ROI Success Plan" for customer-facing plans and "`Customer Name` Internal Success Plan" for internal plans
-1. Add Type as "ROI Success Plan" for customer-facing plans or "Stage Adoption" for internal plans
-   1. If a customer wants to adopt a stage as one of their goals, don't worry! This still falls under a "ROI success plan" and will be categorized as a "Stage Adoption" objective
+1. Add Type as "ROI Success Plan"
 1. Set the "Due Date" as end of GitLab's fiscal calendar or a date logical given the content of the success plan
 1. Click "Save"
 
@@ -165,11 +164,10 @@ Success plans can have multiple objectives, though each needs to reflect a key b
 - **Name**: Objective title, such as “Cut Time to First Commit by 20%”
 - **Owner**: Who is invested in this objective
 - **Due Date**: Due date for the objective
-- **Objective Category**:  Indicate if the objective is Stage Adoption or ROI Success (if the objective is focused on stage adoption, even if it also add to their ROI, choose "Stage Adoption" as we track metrics on this)
-- **Stage Name**: if the objective category above is `Stage Adoption`, then select from this dropdown which stage you're helping the customer adopt
+- **Objective Category**:  ROI Success 
 - **Status**: Mark the objective “New” or “Work in Progress”
 - **Priority**: Indicate if the priority is Low, Medium, or High
-- **Playbook**: If the objective is for Stage Adoption, choose the corresponding playbook (or customize your own!)
+- **Playbook**: If the objective is for Stage (use case) Adoption, choose the corresponding playbook (or customize your own!)
 - **Success Criteria**: Indicate what will need to happen for this objective to be considered successful (you can log Activity updates to capture progress)
 - **Comments**: Share any info that might be relevant to the objective (e.g. potential blockers, architecture details, or other important details worth mentioning)
 - **Summary of Outcome**: Provide a brief summary of the outcome of the objective (e.g what changed, what was the impact, what actions were performed). Note: this field is required before the objective can be closed
@@ -196,6 +194,17 @@ Tasks will affect the overall completion of the objective, and provide more gran
 
 Finally, next to the success plan due date, change the "Status" of the success plan from "Draft" to "Active". Don't forget this step, as it determines if your success plan with have a green [health score](/handbook/customer-success/csm/health-score-triage/) and if your objectives will show up in your cockpit.
 
+### Translating a Strategy Roadmap to a Success Plan 
+During pre-sales, a [Strategy Roadmap](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#customer-strategy-planning) is created by the Solutions Architect and shared with the customer. The Strategy Roadmap is a mutually agreed roadmap for achieving value through GitLab adoption. Once an account transitions to post-sales, the CSM will be the [directly responsible individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for transitioning the Strategy Plan’s objectives and timeline to the customer's [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/) in Gainsight. The aim is to retain information from Pre-sales to Post-sales without requiring customers to repeat themselves. During the [internal account transition](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/) between AE/SA to CSM, the pre-sales team will provide the Strategy Roadmap to the CSM. This information can then be utilized during an [Executive Business Review (EBR)](https://about.gitlab.com/handbook/customer-success/csm/ebr/) at the 6-month mark, post implementation.
+
+
+To translate the Strategy Roadmap to a Success Plan follow the steps below:
+
+1. Open the Strategy Roadmap located in Customer folder on GDrive
+2. Add `Targeted Benefits` (by Functional Team) section on Slide 6 to the Success Plan's `Strategy` section
+3. Add `Objectives` (by Functional Team) from Slide 6 by creating an<span dir=""> </span>[<span dir="">Objective</span>](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#objectives)<span dir=""> and filling in </span>all available details
+4. Add Post-sales `Activities` from Slide 11 by creating Tasks under the respective [<span dir="">Objective</span>](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#objectives) 
+
 ## Manager Approval Process
 
 On a bi-annual basis (once in the first half of the fiscal year February 1 through July 31, and again in the second half ending January 31), success plans must be manager-reviewed and approved via a checkbox within the gainsight interface.
@@ -218,14 +227,9 @@ To share a ROI Success Plan, click the link icon next to the success plan due da
 
 ##### Open and Categorize a Stage Adoption Objective within a Success Plan in Gainsight
 
-Stage adoption can consist of two different motions: [stage enablement and stage expansion](/handbook/customer-success/csm/stage-enablement-and-expansion/), and each belongs in a specific success plan. Understanding the differences and similarities between these motions is key to properly building your success plans and driving stage adoption plays.
+**Note** as we have not yet had the capacity to update stages to use cases in Gainsight, you'll see 'stage' referenced at times in this guidance and within Gainsight.
 
-Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) (GitLab only) on how to open a stage adoption objective and categorize it correctly in Gainsight to enable reporting on our team's progress; the topics the video includes are:
-
-1. How to determine when to use a ROI Success Plan and when to use a Expansion: Internal Only Success Plan
-1. How to create the stage adoption objective
-1. How to categorize the stage adoption objective within the CTA so that it reflects the correct stage
-1. What is not considered stage adoption
+Use case adoption can consist of two different motions: [enablement and expansion](/handbook/customer-success/csm/stage-enablement-and-expansion/), and each belongs in a specific success plan. Understanding the differences and similarities between these motions is key to properly building your success plans and driving stage adoption plays.
 
 For understanding the Use Case Enablement and Expansion reporting, see [Reporting on Expansion and Enablement Objectives](/handbook/customer-success/csm/stage-enablement-and-expansion/#reporting-on-expansion-and-enablement-objectives).
 
@@ -278,13 +282,13 @@ Example 2:
 >
 > **Comments:** The customer wants to adopt the "shift left" security model, and conduct static code scanning earlier in the SDLC. They have an existing tool that runs late in the cycle and is expensive.
 
-Here we have all of the elements, and actually even have two strategic outcomes with one objective! The customer has given us reducing risk and cost reductions (efficiency). Since this is a new part of GitLab that the customer wants to use it's a Stage Adoption objective. We have both a metric related to the adoption across projects, as well as a "binary metric" of replacing a different tool with GitLab. The additional details in the comments help us to shape the narrative of the value we're providing.
+Here we have all of the elements, and actually even have two strategic outcomes with one objective! The customer has given us reducing risk and cost reductions (efficiency). Since this is a new part of GitLab that the customer wants to use it's a use case Adoption objective. We have both a metric related to the adoption across projects, as well as a "binary metric" of replacing a different tool with GitLab. The additional details in the comments help us to shape the narrative of the value we're providing.
 
 Example 3:
 
 > **Title:** Deliver better products faster by adopting GitLab CI
 >
-> **Category:** Stage Adoption
+> **Category:**  Stage Adoption
 >
 > **Metrics:** All new projects use GitLab CI; 75% of existing projects are migrated to GitLab CI from the existing CI tool within 12 months
 >
