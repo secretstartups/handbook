@@ -327,7 +327,7 @@ There are no perfect or required ways to set up your Greenhouse notifications, b
 <br>
 <br>
 
-#### [Emerging Talent](/handbook/hiring/emerging-talent/)
+#### [**Emerging Talent**](/handbook/hiring/emerging-talent/)
 <br>
 <br>
 
