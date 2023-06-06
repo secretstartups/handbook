@@ -430,7 +430,7 @@ To use our credit consumption effectively, we try to minimize the amount of ware
 | -------------------- | ----------------------------------------------------------------------------------------------- | ------------------- |
 | `admin`              | This is for permission bot and other admin tasks                                                | 10                  |
 | `datasiren`          | This is used for the Data siren proces                                                          | 30                  |
-| `dev_x`              | This is used for development purposes, to be used when using the Snowflake UI and in CI-pipelines | 180               |
+| `dev_xs/m/l/xl`      | This is used for development purposes, to be used when using the Snowflake UI and in CI-pipelines | 180               |
 | `gainsight_xs`       | This is used for gainsight data pump                                                            | 30                  |
 | `gitlab_postgres`    | This is for extraction jobs that pull from GitLab internal Postgres databases                   | 10                  |
 | `grafana`            | This is exclusively for Grafana to use                                                          | 60                  |
