@@ -129,9 +129,8 @@ A handy App for time keeping is Senzillo's "Speech Timer for Talks".  It is avai
 Finance team members have a high workload and may not be able to complete a full 3-day rotation. If you are interested in shadowing for the full or part of the weeks listed below, open the MR to add your name to schedule per the instructions on [How to Apply](/handbook/finance/growth-and-development/cfo-shadow-program/#how-to-apply), and message the slack channel `#cfo-shadow` with the exact dates you are requesting. 
 
 | Start Date | End Date |Shadow Name |
-| ------ | ------ |------ | |
-| April 24th (M,W,Th) | April 27th | |
-| June 13th |  June 15th | |
-| July 25th | July 27th | |
-| August 8th | August 10th | |
+| June 13th |  June 15th  | |
 | August 15th | August 17th | |
+| August 29th | August 31st | |
+| September 5th | September 7th | |
+
