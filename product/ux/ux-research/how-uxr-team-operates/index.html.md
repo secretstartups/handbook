@@ -26,13 +26,13 @@ The designated UX Researcher is the go-to person for their assigned [stage group
 
 | Section: Stage Groups | Assigned DRI |
 |---------|-------------------------------|
-| **Enablement**: Distribution, Geo, Application Performance, Global Search, Tenant Scale <br>**SaaS Platforms**: GitLab Dedicated, US Public Sector Services, Delivery, Scalability <br>**Ops**: Deploy, Respond, Observability | [Will Leidheiser] |
+| **Enablement**: Distribution, Geo, Application Performance, Global Search, Tenant Scale <br>**SaaS Platforms**: GitLab Dedicated, US Public Sector Services, Delivery, Scalability <br>**CD**: Deploy <br>**Secure**: Respond, Observability | [Will Leidheiser] |
 | **Fulfillment**: Purchase, Utilization, Fulfillment Platform, Billing & Subscription Management, Provision <br>**Analytics**: Product Inteligence, Product Analytics <br>**ModelOps**: AI Assisted, AI Enablement| [Nicholas Hertz] |
 | **Manage**: Authentication & Authorization, Import, Foundations | [Ashley Knobloch] |
 | **Plan**: Project Management, Product Planning, Optimize, Knowledge | [Danika Teverovsky]|
 | **Secure**: Static Analysis, Dynamic Analysis, Composition Analysis, Vulnerability Research <br> **Govern**: Security Policies, Threat Insights, Compliance | [Michael Oliver] |
 | **Create**: Source Code, Editor, Code Review | [Ben Leduc-Mills] |
-| **Ops**: Pipeline Execution, Pipeline Authoring, Runner, Pipeline Security, Package | [Erika Feldman] |
+| **CI**: Pipeline Execution, Pipeline Authoring, Runner, Pipeline Security, Package | [Erika Feldman] |
 
 [Will Leidheiser]: https://gitlab.com/wleidheiser
 [Nicholas Hertz]: https://gitlab.com/NickHertz
