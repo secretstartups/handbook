@@ -13,8 +13,7 @@ description: "Landing page for many of the handbook pages the talent acquisition
 {::options parse_block_html="true" /}
 
 
-# Introduction
---- 
+
 At the core of our team’s vision, mission, and strategy is our ability to impact GitLab’s overarching [mission](https://about.gitlab.com/company/mission/): to make it so that **everyone can contribute**. When **everyone can contribute**, users become contributors and we greatly increase the rate of innovation. 
 
 As a Talent Acquisition team, we have an outsized impact on GitLab’s ability to make this mission a reality, by connecting top talent to profound careers from wherever they are in a truly distributed, remote workforce. 
