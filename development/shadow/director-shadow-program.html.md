@@ -172,7 +172,7 @@ No, not at this time.
 
 | Week of | Shadow | Department | 
 | ------ | ------ | ----- |
-| June 12    |  Available | |
+| June 12    | [Palwasha Malik](https://www.linkedin.com/in/palwasha-malik/) and [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/) | Non-GitLab shadows - Palwasha is a software developer at Devsinc and Anshuman is an independent software engineer |
 | June 19    |  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
 | June 26    |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com)  |
 | July 3     |  Available | |
