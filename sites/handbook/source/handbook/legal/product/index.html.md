@@ -37,16 +37,19 @@ The guidance for using open source software has been updated to enable team memb
 
 **Team members wishing to use open source software should now refer to the comprehensive [Blue Oak Council](https://blueoakcouncil.org/list) license list, and proceed, as follows:**
 
-* `Pre-approved (Acceptable)`: Software associated with license types rated [Gold](https://blueoakcouncil.org/list#gold), [Silver](https://blueoakcouncil.org/list#silver), and[Bronze](https://blueoakcouncil.org/list#bronze) are considered pre-approved for use by the Legal & Corporate Affairs team. 
+* `Pre-approved (Acceptable)`: Software associated with license types rated [Gold](https://blueoakcouncil.org/list#gold), [Silver](https://blueoakcouncil.org/list#silver), and [Bronze](https://blueoakcouncil.org/list#bronze) and all licenses on the Exceptions list are pre-approved for use by the Legal & Corporate Affairs team. 
     * Team members can proceed without seeking legal input.
 
-* `Approval required (Potentially Acceptable or Unacceptable)`: Software associated with a [Lead](https://blueoakcouncil.org/list#lead) rated license type or software associated with a license not included on the Blue Oak Council list requires review before use by the Legal & Corporate Affairs team. 
+* `Approval required (Potentially Acceptable or Unacceptable)`: Aside from the the Exception list, Software associated with a [Lead](https://blueoakcouncil.org/list#lead) rated license type or software associated with a license not included on the Blue Oak Council list requires review before use by the Legal & Corporate Affairs team. 
     * Team members can request a review by opening a [legal issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template). 
     * Include the details of how the software will be used, whether or not it will be modified, and how it will be distributed (if at all) in the issue description. 
 
+* `Exception list (Acceptable)`:
+    * [WTFPL](http://wtfpl.net)
+
 Team members must ensure that we **comply with all requirements and restrictions associated with the applicable license** (these are typically defined in the body text of the license). 
 * For example, a common requirement is to include the original copyright and license notice in all copies of the distributed software
-* ependencies which are only used in development or test environments are exempt from open source license requirements as they're not distributed.
+* Dependencies which are only used in development or test environments are exempt from open source license requirements as they're not distributed.
 
 ### Helpful resources
 
