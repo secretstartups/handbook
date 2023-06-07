@@ -23,7 +23,7 @@ Each quarter a Slack reminder will go out in #what's-happening-at-GitLab Slack c
 
 | Action | May | June | July |
 | ----- | ----- | ----- | ----- |
-| Key Company Events | Q2 Begins + Complete Engagement Survey | ----- | Q2 Ends |
+| Key Company Events | Q2 Begins + Complete Engagement Survey | Earnings Call; Assembly all-company meeting | Q2 Ends |
 | Career Growth | ----- | Mid-Year Check-In | ----- |
 | History and Awareness | Asian American and Pacific Islander Heritage Month; Mental Health Awareness Month | LGBTQ+ Pride Month | ----- |
 | Skill of the Month | Continuous Learning | Customer Centricity | Personal Productivity |
@@ -33,7 +33,7 @@ Each quarter a Slack reminder will go out in #what's-happening-at-GitLab Slack c
 
 | Action | August | September | October |
 | ----- | ----- | ----- | ----- |
-| Key Company Events | Q3 Begins | ----- | Q3 Ends |
+| Key Company Events | Q3 Begins | Earnings Call | Assembly all-company meeting; Q3 Ends |
 | Career Growth | Review IGP with your manager |  | IGP Work |
 | History and Awareness | ----- | Latinx Heritage Month | ----- |
 | Skill of the Month | ----- | ----- | ----- |
@@ -45,7 +45,7 @@ Each quarter a Slack reminder will go out in #what's-happening-at-GitLab Slack c
 
 | Action | November | December | January |
 | ----- | ----- | ----- | ----- |
-| Key Company Events | Q4 Begins | ----- | Q4 Ends |
+| Key Company Events | Q4 Begins | Earnings Call | Assembly all-company meeting; Q4 Ends |
 | Career Growth | Talent Assessment | IGP Work | IGP Work |
 | History and Awareness | ----- | ----- | ----- |
 | Skill of the Month | ----- | ----- | ----- |
