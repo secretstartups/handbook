@@ -14,7 +14,7 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-gente/"
 ## Introduction
 Bienvenidos, bem-vinda and welcome to the Gente space! We are a TMRG that was started in early 2021. Join us in our slack channel `#gente` to be notified of our upcoming calls and feel free to check out what we've been up to so far below.
 
-[Gente TMRG Overview Slide Deck (WIP)](https://docs.google.com/presentation/d/1eQIv4Km0bd9ciuJ-hjmuPSRo1TZxH1f7FcUfau7xQB4/edit#slide=id.gb5fc211329_1_0)   
+[Gente TMRG Overview Slide Deck](https://docs.google.com/presentation/d/1eQIv4Km0bd9ciuJ-hjmuPSRo1TZxH1f7FcUfau7xQB4/edit#slide=id.gb5fc211329_1_0)   
 [Latinx Project in GitLab](https://gitlab.com/gitlab-com/latinx-tmrg)  
 Slack Channel: `#gente` 
 Google Group: latinxtmrg@gitlab.com
@@ -31,7 +31,9 @@ To promote advancement, cultural awareness, talent recruitment, retention, and p
 * [Pilar Mejia](https://gitlab.com/pmejia)
 * [Hugo Azevedo](https://gitlab.com/hugoazevedo) - Co Lead 
 * [Romer Gonzalez](https://gitlab.com/romerg) - Co Lead
-* [Chris Cruz](https://gitlab.com/chriscruz) - Co Lead
+
+## Founding alumni 
+* Chris Cruz - Co Lead
 
 ## Executive Sponsors
 Looking for nominations!
@@ -41,9 +43,11 @@ Looking for nominations!
 
 ## Upcoming Events 
 * Gente TMRG Monthly Call: Monthly on the first Thursday 6:00pm – 6:25pm UTC [Notes](https://docs.google.com/document/d/12dYSDjiVvFt-c6UO9y350pFbrrK5Iq2o/edit)
-
+* Gente Reverse AMA with CEO (Every 3-6 months): https://docs.google.com/document/d/1jlHXT13mWPSZVRZLE6NDwMAJCLgC0-akv_BCLYaCuqM/edit#heading=h.nur5qbfg3ak6
+* `#gente-cafecito` slack channel donut coffee chats(every two weeks)
 
 ## Past Events
+* EOQ Cafecito - April 26th: https://gitlab.com/gitlab-com/latinx-tmrg/-/issues/77
 * [Launch Call March 4th, 2021](https://calendar.google.com/calendar/u/0/r/eventedit/MXE5MGZpb3JuZzRwaHEzcnBkbWZjcjNrcnFfMjAyMTAzMDRUMTkwMDAwWiBwbWVqaWFAZ2l0bGFiLmNvbQ?tab=mc)
 * Latinx Round Table, an Iteration to [DIB Roundtable](https://about.gitlab.com/company/culture/inclusion/dib-roundtables/) – [Issue](https://gitlab.com/gitlab-com/latinx-tmrg/-/issues/38)
 
@@ -55,7 +59,7 @@ Our Gente members are proud to be contributing externally to the following chari
 * [Latinitas](https://latinitasmagazine.org/) - Empowering all girls to innovate through media and technology
 * [Latinas in Tech](https://www.latinasintech.org/) - We are a non-profit organization with the aim to connect, support, and empower Latina women working in tech. We work hand in hand with top technology companies to create safe spaces for learning, mentorship and recruitment..
 
-## Latinx Member Development
+## Gente Member Development
 Learn more about the Latinx community
 
 * [Why Latinx?](https://www.merriam-webster.com/words-at-play/word-history-latinx) 
