@@ -265,6 +265,10 @@ If there is an error, search for an existing issue. Errors where the metadata is
 
 If no error is found and the import is partial, most likely it is a timeout issue.
 
+### Identify cause of IP Blocks
+
+There are some useful tips [here](../ip-blocks.html) about searching kibana for errors related to IP blocks.
+
 #### Known Import Issues
 
 - **Imported project's size differs from where it originated**
