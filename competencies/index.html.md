@@ -76,6 +76,7 @@ In general, the scope of impact and expected behaviors expands as job level incr
 
 | Level | Scope of Impact | Expected Behaviors |
 |-----------------|----------------------------------------|------------------------------------------|
+| Intern | Contribute | Learns/Supports | 
 | Associate | Own work | Learns/Develops |
 | Intermediate | Work within team | Grows/Acts |
 | Senior | Cross functional work | Models |
