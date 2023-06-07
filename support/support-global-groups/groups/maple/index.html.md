@@ -48,7 +48,7 @@ Scheduled Maple Hours:
 
 - APAC Maple Hour every Friday at 04:00 UTC
 - AMER Maple Hour every Thursday at 19:30 UTC
-- EMEA Maple Hour every Monday and Wednesday at 09:00 UTC
+- EMEA Maple Hour every Wednesday at 09:00 UTC
 
 ### Sync Calls
 
@@ -57,4 +57,4 @@ The purpose is to facilitate conversations on topics like continuous development
 Scheduled Sync Calls:
 
 - APAC: Every third Thursday of the month at 02:00 UTC
-- EMEA: Every 12 weeks on a Wednesday at 11:00 UTC
+- EMEA: Every first Wednesday of the month at at 11:00 UTC
