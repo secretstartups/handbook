@@ -38,7 +38,16 @@ for all major software development ecosystems. Although they are separate applic
 
 ## Licenses
 
-For GitLab employees, there is a central account for managing licenses of JetBrains' products like RubyMine or GoLand.
-If you want to use one of their products, please log an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests) and select the best option for your situation (single user, bulk user, etc.) and, once approved by your manager, [activate a license for yourself](https://www.jetbrains.com/help/license-vault-cloud/Activating_a_license.html). Use the license server URL `https://gitlab.fls.jetbrains.com` when activating your IDE, and be sure to log in via Okta when prompted to authenticate. Make sure to use your company email address when creating your Jetbrains account.
+For GitLab employees, there is a [central license management](https://www.jetbrains.com/help/license-vault-cloud) for JetBrains' products.
+
+1. Depending on the Product you want to use, you might want or need to file an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests)
+    1. If you want to onboard a larger set of users (5 or more), please _do file_ an Access Request.
+    1. If you want to use GoLand, RubyMine, PyCharm or DataGrip, you _do not_ need to file an Access Request.
+    1. If you want to use any other JetBrains product:
+        - on a _regular basis_, please _do file_ an Access Request.
+        - _occasional use_ is possible without an Access Request. Please note that we have a limited set of "All Products" licenses. People who filed an Access Request will receive priority treatment over occassional users.
+1. You can [activate a license for yourself](https://www.jetbrains.com/help/license-vault-cloud/Activating_a_license.html) even while an Access Request is pending.
+    - Use the license server URL `https://gitlab.fls.jetbrains.com` during activation
+    - Make sure you log-in via Okta to authenticate
 
 If you have an Individual License acquired through your own means, it is suitable for [General commercial use](https://www.jetbrains.com/store/comparison.html#LicenseComparison) and you may use it. However, GitLab will not reimburse an Individual License, as Individual License cannot be purchased or reimbursed by companies. That being said, even if you used to use an Individual License, you can always request a company issued one.
