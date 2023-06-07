@@ -23,7 +23,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 ## Purpose
 
-Centralized access management is key to ensuring that the authorized GitLab team-members have access to the correct data and systems at the correct level. GitLab access controls are guided by the principle of least privilege and need-to-know. 
+Centralized access management is key to ensuring that authorized GitLab team-members have access to the correct data and systems at the correct level. GitLab access controls are guided by the principle of least privilege and need-to-know. 
 
 ## Scope
 
@@ -48,18 +48,18 @@ These templates should be used during the [onboarding process](/handbook/people-
 
 | Role | Responsibility |
 | --- | --- |
-| Security Assurance | Responsible for implementing and executing this procedure | 
-| Business or System Owners |Alignment to this procedure and any related standards |
-| Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure | 
+| Security Assurance | Responsible for implementing and executing this policy | 
+| Business or System Owners |Alignment to this policy and any related standards |
+| Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this policy | 
 | Team Members | Responsible for adhering to the requirements of this policy | 
 
-## Access Control Procedure
+## Access Control
 
 * All new access or permissioning change requests that are not part of a team member's [baseline role-based entitlements](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/) will require a [New Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request).
 
 * Shared accounts may not be used for customers.gitlab.com, dev.gitlab.org, Shopify, Stripe, and Zuora in order to comply with PCI-DSS requirements. Currently, GitLab's financial controls prohibit the use of shared accounts within the following applications: NetSuite.
 
-* Shared and group credentials are restricted. Any systems that require shared accounts or credentials and are not yet implemented or configured into Okta must have an Access Request approved and an exception to this procedure for each user. Bulk access requests are not allowed for shared or group credentials.
+* Shared and group credentials are restricted. Any systems that require shared accounts or credentials and are not yet implemented or configured in Okta must have an Access Request approved and an exception to this policy for each user. Bulk access requests are not allowed for shared or group credentials.
 
 * All access requests must be approved by the team member's manager with the exception of:
 
@@ -69,9 +69,9 @@ These templates should be used during the [onboarding process](/handbook/people-
    - ARs for access removal
    - ARs resulting from a [User Access Review](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html) in which users are marked for an access change by the technical/business owner performing the review
 
-  Please note that ARs for access to internal systems for "external to GitLab individuals" (eg. customers, prospects) require managerial approval. This includes access to Google Workspace security groups also require managerial approval.
+  Please note that ARs for access to internal systems for "external to GitLab individuals" require managerial approval. This includes access to Google Workspace security groups.
 
-* Access requests are required when requesting a role above developer (i.e. maintainer, owner) on the following GitLab repositories and Groups:
+* Access requests are required when requesting a role above developer (i.e. maintainer, owner) on the following GitLab repositories and groups:
 
   - Repos:
     - www-gitlab-com (Public Handbook Repo) (See note below)
@@ -100,17 +100,17 @@ These templates should be used during the [onboarding process](/handbook/people-
 
 * In regard to support during or prior to provisioning, please do not tag the Security Operations team in the AR issue; to ask Security for help with AR assignments, please use the #it_help channel.
 
-* If admin-level access is being requested, the request must be approved by the team member's manager and Infrastructure Management if applicable.
+* If admin-level access is being requested, the request must be approved by the team member's manager and Infrastructure Management, if applicable.
 
 ### Role Based Access Control (RBAC) Requirements
 
-GitLab has an established RBAC via the formalization and maintainence of [Baseline Role-Based Entitlements](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/). RBAC is subject to continuous control monitoring by the Security Compliance team to ensure that GitLab meets it's regulatory and compliance obligations related to user access to information. Additionally, as noted per the requirements in the role baseline template, changes to permissions on these documents are required to be reviewed and approved by the Director, Senior Leader or Manager of the team that the role belongs to. If an update is proposed by a Manager or above, it should be reviewed by another, more senior manager of the team that role belongs too.
+GitLab has an established RBAC via the formalization and maintainence of [Baseline Role-Based Entitlements](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/). RBAC is subject to continuous control monitoring by the Security Compliance team to ensure that GitLab meets its regulatory and compliance obligations related to user access to information. Additionally, as noted per the requirements in the role baseline template, changes to permissions on these documents are required to be reviewed and approved by the Director, Senior Leader or Manager of the team that the role belongs to. If an update is proposed by a Manager or above, it should be reviewed by another, more senior manager of the team that the role belongs to.
 
 The structure of the baseline role-based entitlements ensures that team members receive the appropriate access privileges when they join GitLab. These templates are based off one of the following:
-- A team member's title (excluding levels, such as Junior, Senior, etc.), as listed in their BambooHR employment profile
-- A combination of a team member's title (excluding levels, such as Junior, Senior, etc.) listed in their BambooHR employment profile **AND** their specific **job specialty** 
+- A team member's title (excluding levels, such as Junior, Senior, etc.), as listed in their Workday employment profile
+- A combination of a team member's title (excluding levels, such as Junior, Senior, etc.) listed in their Workday employment profile **AND** their specific **job specialty** 
    - **Example**: Team members within the Security Assurance sub-department all utilize the Security Assurance Engineer title, but there are job specialities in Compliance, Risk, Governance and Field Security, which have different role based access requirements. As such, the baseline role-based entitlements are named like so:
-      - [role_security_assurance_engineer_risk_and_field_security](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_security/role_security_assurance_engineer_risk_and_field_security.md)
+      - [role_security_assurance_engineer_security_risk](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_security/role_security_assurance_engineer_security_risk.md)
       - [role_security_assurance_engineer_compliance](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_security/role_security_assurance_engineer_compliance.md)
 
 Specific instructions for the creation, review, and maintenance of these templates can be found [here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#instructions). These instructions also include details on any nuances that should be considered as part of the creation of the template.
@@ -133,16 +133,16 @@ Specific instructions for the creation, review, and maintenance of these templat
   - The adding of team members to Slack groups.
   - All GitLab team-members listed on the Access Request have the same manager and the same level of access is being requested.
 
-  Please note that the above use cases do not apply to ADMIN-level access, which needs to be submitted using the  **one** issue per GitLab team-member rule.
+  Please note that the above use cases do not apply to **Admin**-level access, which needs to be submitted using the  **one** issue per GitLab team-member rule.
 
 
 ### Access Requests and Onboarding
 
-During the onboarding process, the manager should determine which email and slack groups the new team member should be added to. Also determine if new team member will need access to the `dev` server, which is used by engineers to prepare fixes for security issues and also allows for access to version.gitlab.com and license.gitlab.com. If so, request the creation of a [new dev.GitLab.org account](https://dev.gitlab.org/admin/users/new) *with the same username the team member has on gitlab.com* and an invitation to the [gitlab group](https://dev.gitlab.org/groups/gitlab/group_members) as a Developer. Fill out one [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for both the groups and Dev account if needed.
+During the onboarding process, the manager should determine which email and slack groups the new team member should be added to. The manager should also determine if the new team member will need access to the `dev` server, which is used by engineers to prepare fixes for security issues and also allows for access to version.gitlab.com and license.gitlab.com. If so, request the creation of a [new dev.GitLab.org account](https://dev.gitlab.org/admin/users/new) *with the same username the team member has on gitlab.com* and an invitation to the [gitlab group](https://dev.gitlab.org/groups/gitlab/group_members) as a Developer. Fill out one [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for both the groups and Dev account if needed.
 
 ### Principle of Least Privilege
 
-GitLab operates its access management under the [principle of least privilege](https://csrc.nist.gov/glossary/term/least_privilege). Under least privilege, a team member should only be granted the minimum necessary access to perform their function. An access is considered necessary only when a GitLab team member cannot perform a function without that access. If an action can be performed without the requested access, it's not considered necessary. Least privilege is important because it protects GitLab and its customers from unauthorized access and configuration changes and in the event of an account compromise by limiting access.
+GitLab operates its access management under the [principle of least privilege](https://csrc.nist.gov/glossary/term/least_privilege). Under least privilege, a team member should only be granted the minimum necessary access to perform their function. Access is considered necessary only when a GitLab team member cannot perform a function without that access. If an action can be performed without the requested access, it's not considered necessary. Least privilege is important because it protects GitLab and its customers from unauthorized access, unauthorized configuration changes, and account compromise by limiting access.
 
 ### Least Privilege Reviews for Access Requests
 
@@ -156,11 +156,11 @@ GitLab operates its access management under the [principle of least privilege](h
 
 * If the access requested provides the team member **access beyond what is required** in the information provided in the `rationale` section of the access request, the request doesn't align with the principle of least privilege and the request should be temporarily rejected until the appropriate access can be defined. To reject an access request on the basis of least privilege, respond to the issue with the following information:
 
-  - Which service(s) are being requested excessive permissions.
-  - A specific example of why the requested access is excessive. For example, a team member is requesting Super Admin access on Google Workspace only for provision user accounts, but the Super Admin role provides access far beyond just user account provisioning.
-  - An alternative level of access and brief explanation how the new level of access allows the team member to fulfill their role. For example, a User Admin role on Google Workspace allows the team member to provision user accounts while not also providing all the other access a Super Admin role would. If no alternative can be given, the access request should be approved in the interest of the team member's productivity.
+  - Which service(s) are being requested with excessive permissions.
+  - A specific example of why the requested access is excessive. For example, a team member is requesting Super Admin access on Google Workspace to provision user accounts, but the Super Admin role provides access far beyond user account provisioning.
+  - An alternative level of access and a brief explanation of how the new level of access allows the team member to fulfill their role. For example, a User Admin role on Google Workspace allows the team member to provision user accounts without providing the additional access a Super Admin would receive. If no alternative can be given, the access request should be approved in the interest of the team member's productivity.
 
-* Should there be disagreement on an access request rejection on the basis of least privilege, an [exception request](/handbook/security/index.html#information-security-policy-exception-management-process) should be submitted. An exception request is important because it provides a clearly defined escalation process, promotes transparency, and allows us to appropriately track any deviations from policy.
+* Should there be disagreement on an access request rejection on the basis of least privilege, an [exception request](/handbook/security/index.html#information-security-policy-exception-management-process) should be submitted. An exception request is important because it provides a clearly defined escalation process, promotes transparency, and allows us to appropriately track any policy deviations.
 
 ### Deprovisioning
 
@@ -168,7 +168,7 @@ GitLab operates its access management under the [principle of least privilege](h
 
 * All attempts will be made for individual access removal requests to be processed within the SLA requested. If no SLA is noted, access will be deprovisioned within 5 business days of the submission of the issue.
 
-* If access removal needs to occur immediately, please follow the [panic email procedures](/handbook/security/#panic-email), which will alert the Security Team on-call.
+* If access removal needs to occur immediately, please follow the [panic email procedures](/handbook/security/#panic-email), which will alert the on-call Security team member(s).
 
 ### Job Transfers
 
@@ -189,23 +189,23 @@ GitLab operates its access management under the [principle of least privilege](h
 
 
 * An [access review](/handbook/security/security-assurance/security-compliance/access-reviews.html) includes two parts:
-  - review current access and access level appropriateness, i.e. Does team member need access and are the system entitlements that they have appropriate?
-  - recertification of appropriateness of access and entitlements, i.e. Approve continued access to system at the same level.
+  - review current access and access level appropriateness (e.g. Does the team member need access and are the system entitlements that they have appropriate?)
+  - recertification of appropriateness of access and entitlements (e.g Approve continued access to the system at the same level.)
 
-* Please note that access reviews should include a [least privilege review](/handbook/security/#least-privilege-reviews-for-access-requests). This is considered as part of the review of appropriateness of system entitlements, aka access level.
+* Please note that access reviews should include a [least privilege review](/handbook/security/#least-privilege-reviews-for-access-requests). This is considered as part of the review of appropriateness of system entitlements (access level).
 
 * Review and recertification is generally performed by team member's manager or someone above them in their reporting hierarchy. For example, review can be performed by a Director and include their direct reports' direct reports.
 
-* If reviewer is not the manager of team member, reviewer should be the system owner or the data owner, or an individual with sufficient understanding of the system(s), the system entitlements, and the ability to assess the appropriateness of the access granted.
+* If reviewer is not the manager of a team member, the reviewer should be the system owner, the data owner, or an individual with sufficient understanding of the system(s), the system entitlements, and the ability to assess the appropriateness of the access granted.
 
-* Reviewers must never recertify their own access; this must be reviewed and recertified by an alternate system administrator, system owner, or the primary reviewer's manager (or someone above them in their reporting hierarchy).
+* Reviewers must never recertify their own access; this must be reviewed and recertified by a different system administrator, system owner, or the primary reviewer's manager (or someone above them in their reporting hierarchy).
 
 * An access review should be documented and performed as part of a formal job transfer. This should be initiated by the team member transferring and their new manager.
 
 Please refer to the [Access reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html) page for additional information.
 
 
-### Access Control Procedure Activities
+### Access Control Activities
 
 GitLab's access controls include the following control activities:
 1. user registration and de-registration
@@ -221,9 +221,8 @@ GitLab's access controls include the following control activities:
 
 ### Requesting GitLab.com service account for automation
 
-The generic `@gitlab-bot` account should not be used for new automations, and for each
-different tasks a new service account should be created. The rationales
-behind this are:
+The generic `@gitlab-bot` account should not be used for new automations. For
+different tasks, a new service account should be created. The rationales behind this are:
 
 * Enable better isolation of scope:
   - Different tasks will have different [API requests quota](https://docs.gitlab.com/ee/user/admin_area/settings/user_and_ip_rate_limits.html).
@@ -231,10 +230,10 @@ behind this are:
   - More secure by sharing less and enable possibility for [least access](/handbook/security/access-management-policy.html#least-privilege-reviews-for-access-requests).
   - More robust by not having a single point of failure (account).
 * Enable better process for provisioning and revocation:
-  - More clear what should be granted and what can be revoked.
+  - Better understanding of what should be granted and what should be revoked.
 
 A [New Service Account Requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLabCom_Service_Account_Request)
-should be filled to request a new service account.
+should be completed to request a new service account.
 
 Access tokens for each service account should be requested accordingly.
 
@@ -242,13 +241,13 @@ Access tokens for each service account should be requested accordingly.
 
 - GitLab.com Administrator Account Naming Convention:
  - Use user's GitLab Google Workspace email `+admin@gitlab.com` as the email address: **username+ADMIN@gitlab.com**
- - GitLab.com admin account name should the user's normal account with `-admin` appended: **username-admin**
+ - GitLab.com admin account name should be the user's normal account with `-admin` appended: **username-admin**
  - The admin account "Full name" should include text to indicate it is an admin account: **First Last (Admin)**
 
 - GitLab.com Bot Account Naming Convention:
-  - Use email for the group who owned the bot `+[TASK NAME]-bot@gitlab.com` as the email address: **GROUP+TASK-BOT@gitlab.com**
-  - GitLab.com bot account name should start with `gitlab` and append with the task name and `-bot`: **gitlab-task-bot**
-  - The bot account "Full name" should include text to indicate it is an bot account: **First Last (Bot)**
+  - Use email for the group who owns the bot `+[TASK NAME]-bot@gitlab.com` as the email address: **GROUP+TASK-BOT@gitlab.com**
+  - GitLab.com bot account name should start with `gitlab` and append the task name and `-bot`: **gitlab-task-bot**
+  - The bot account "Full name" should include text to indicate it is a bot account: **First Last (Bot)**
 
 - Temporary Contractor Account Naming Convention: **username-CTR@gitlab.com**
 
@@ -272,11 +271,11 @@ This is required to allow the actions of any given account to be associated back
 
 For anyone hired **after** 2020-03-23: GitLab will block and reclaim team-members gitlab accounts during the offboarding process. The reasoning behind this is due to the case of visibility into confidential issues; if the `closed-assigned` or `participant` issues are in public projects, the former team-member will continue to have access to the closed issues and will continue to be updated and can access the confidential issues where they are a `participant`. For this reason, we advise team members to not utilize your work GitLab account for personal projects. 
 
-For anyone hired **before** 2020-03-23: Upon offboarding - IT Operations will update your email address on your GitLab account to be your personal email that is on file in Workday and you will be allowed to take your account with you. Please note: should you ever be rehired at GitLab, you will be required to make a new GitLab account. Access to all GitLab related projects and groups will be removed. 
+For anyone hired **before** 2020-03-23: Upon offboarding - IT Operations will update your email address on your GitLab account to be your personal email that is on file in Workday, and you will be allowed to take your account with you. Please note: should you ever be rehired at GitLab, you will be required to make a new GitLab account. Access to all GitLab related projects and groups will be removed. 
 
 ###  Access to all systems
 
-Access to all systems including gitlab accounts should be removed throughout the off boarding process to mitigate the risk of off-boarded employees retaining access to our systems and confidentail information.  In line with our SOX requirements please refer to our [SOX ITGC Compliance HB page](https://about.gitlab.com/handbook/business-technology/it-compliance/ITGC.html) control LA.2 for additional information related to our ITGC controls.
+Access to all systems including GitLab accounts should be removed through the offboarding process to mitigate the risk of off-boarded employees retaining access to our systems and confidentail information. In line with our SOX requirements, please refer to our [SOX ITGC Compliance HB page](https://about.gitlab.com/handbook/business-technology/it-compliance/ITGC.html) control LA.2 for additional information related to our ITGC controls.
 ## Exceptions
 
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
