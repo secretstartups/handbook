@@ -288,7 +288,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Quarterly | | EBAs in Product | 
 | [Infrastructure](/handbook/engineering/infrastructure/) | Mek Stittri | Yes | Twice per quarter | | EBA to Engineering | 
 | [Support](/handbook/support/) | Lyle Kozloff, Lee Matos | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering | 
-| [Security](/handbook/security/) | Acting CISO (Robin Schulman) | Yes | Every other month| | EBA to Engineering | 
+| [Security](/handbook/security/) | Josh Lemos | Yes | Every other month| | EBA to Engineering | 
 | [UX](/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering | 
 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering | 
 | [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month | | EBA to Engineering | 
@@ -378,14 +378,14 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday June 14 | **Available** | DRI | Key Review Date |
 | Thursday June 15 | **Available** | DRI | Key Review Date |  
 | Tuesday June 20 | CRO - Enterprise | ENT Leadership |  |
-| Wednesday June 21 | Support | Lyle Kozloff, Lee Matos | June 13 |
+| Wednesday June 21 | **Available** | DRI | Key Review Date |
 | Thursday June 22 | Product | Product Leadership | June 15 |  
 | Tuesday June 27 | **Available** | DRI | Key Review Date |
 | Wednesday June 28 | **Available** | DRI | Key Review Date |
-| Thursday June 29 | Security | Security Leadership | June 21 |  
+| Thursday June 29 | **Available** | DRI | Key Review Date | 
 | Tuesday July 4 | Independence Day (US)| | N/A |
-| Wednesday July 5 | **Available** | DRI | Key Review Date |
-| Thursday July 6 | **Available** | DRI | Key Review Date |
+| Wednesday July 5 | Security | Josh Lemos | June 21 |
+| Thursday July 6 | Support | Lyle Kozloff, Lee Matos | June 13 |
 | Tuesday July 11 | **Available** | DRI | Key Review Date |
 | Wednesday July 12 | **Available** | DRI | Key Review Date |
 | Thursday July 13 |  **Available** | DRI | Key Review Date |
