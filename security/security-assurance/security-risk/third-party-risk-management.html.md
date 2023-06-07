@@ -48,7 +48,12 @@ This procedure applies to all third party providers that access, store, process 
 ## Third Party Minimum Security Standards
 TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found below.
 
-Additionally, effective FY23 Q3, all third party systems that store or transmit GitLab data are required to [authenticate via Okta inline with GitLab's approach to centralized authentication and authorization](/handbook/business-technology/okta/#what-is-okta). Risk acceptances will be required in all cases where Okta is not supported regardless of security status. 
+The following findings will likely require a risk acceptance and result in a higher vendor residual risk score:
+1. Inability to integrate with [Okta](/handbook/business-technology/okta/#what-is-okta) (system-related reviews)
+1. Lack of third-party assessment (ISO 270001, SOC2 Type 2)
+1. Lack of background checks for employees and contractors
+1. Lack of MFA capabilities (system-related reviews)
+1. Lack of evidence for a recent penetration test (system-related reviews)
 
 ## Procedure
 Where GitLab controls, owns, or is otherwise responsible for data, the diagram below depicts TPRM procedures based on the [Data Classification](/handbook/security/data-classification-standard.html) of data shared with the third party.
