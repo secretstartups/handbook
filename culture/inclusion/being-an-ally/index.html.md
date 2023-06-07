@@ -242,21 +242,17 @@ We held a 50 minute [Live Learning](https://about.gitlab.com/handbook/people-gro
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRWRr6Aclf-Ddft1MKjtwdQ98216WEGG7LWJ2UZ3MOSnRZ0-cMhaPNeHpjQ4kk4c7pKkpuV-nvDN-2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-## Being an Ally Knowledge Assessment
-
-Anyone can become certified in GitLab Ally Training. To obtain certification, you will need to complete this [Being an Ally knowledge assessment](https://docs.google.com/forms/d/e/1FAIpQLScmd2Z9Vz66yYR6kCKZBZM61aDMFPHlViWCr2ZsGqFbbxIa4w/viewform) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certification that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
-
 ## External Ally Training 
 
 There are some essential skills that are required to be an ally, here are a number of trainings that will help you enhance your allyship skills. Some of these are not allyship specific but will sharpen your skills in those important areas. 
 
-[Equality Ally Strategies](https://trailhead.salesforce.com/en/content/learn/modules/workplace_equality_ally_strategies)
-[Champion Workplace Equality](https://trailhead.salesforce.com/en/content/learn/trails/champion_workplace_equality)
-[Effective Listening](https://www.linkedin.com/learning/effective-listening/improve-your-listening-skills?u=2255073)
-[How to engage meaningfully in Allyship](https://www.linkedin.com/learning/paths/how-to-engage-meaningfully-in-allyship-and-anti-racism?u=2255073)
-[Becoming a true ally](https://www.linkedin.com/learning/inclusive-mindset-for-committed-allies/becoming-a-true-ally?u=2255073)
-[Building Trust](https://www.linkedin.com/learning/building-trust-6/building-trust?u=2255073)
-[Why trust matters](https://www.linkedin.com/learning/why-trust-matters-with-rachel-botsman/the-importance-of-trust?u=2255073)
+- [Equality Ally Strategies](https://trailhead.salesforce.com/en/content/learn/modules/workplace_equality_ally_strategies)
+- [Champion Workplace Equality](https://trailhead.salesforce.com/en/content/learn/trails/champion_workplace_equality)
+- [Effective Listening](https://www.linkedin.com/learning/effective-listening/improve-your-listening-skills?u=2255073)
+- [How to engage meaningfully in Allyship](https://www.linkedin.com/learning/paths/how-to-engage-meaningfully-in-allyship-and-anti-racism?u=2255073)
+- [Becoming a true ally](https://www.linkedin.com/learning/inclusive-mindset-for-committed-allies/becoming-a-true-ally?u=2255073)
+- [Building Trust](https://www.linkedin.com/learning/building-trust-6/building-trust?u=2255073)
+- [Why trust matters](https://www.linkedin.com/learning/why-trust-matters-with-rachel-botsman/the-importance-of-trust?u=2255073)
 
 ## Ally Learning Activity and Scenarios
 
