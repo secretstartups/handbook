@@ -58,9 +58,6 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | Executive Sponsor  | Christopher Lefelhocz | VP of Development                       |
 | Facilitator        | Matt Nohr             | Engineering Manager, Create             |
 | Functional Lead    | Robert Marshall       | Senior Backend                          |
-| Member             | Balasankar 'Balu' C   | Senior Backend                          |
 | Member             | Chun Du               | Director of Engineering, Enablement     |
-| Member             | DJ Mountney           | Engineering Manager, Distribution:Build |
-| Member             | Jason Plum            | Staff Backend                           |
 | Member             | Thomas Woodham        | Senior Engineering Manager, Secure      |
 | Member             | Ross Fuhrman          | Senior Backend                          |
