@@ -137,14 +137,15 @@ Please see the [project-permission-structure](/handbook/business-technology/data
 -------------------------------------- | -------------------- | ------------------------ | --------------------------------|
 | Data: BI Platform             | `@ttnguyen28`, `@iweeks`, `@pempey`, `@nmcavinue`, `@snalamaru` | Top Level Project Leader | Maintainer |
 | Data                          | `@ttnguyen28`, `@iweeks`, `@pempey`, `@nmcavinue`               | Sub-Project Leader       | Code Owner |
-| Customer Success              | `@jdbeaumont`                                                   | Sub-Project Leader       | Code Owner |
+| Customer Success              | `@jdbeaumont`,  `@aileenlu`                                     | Sub-Project Leader       | Code Owner |
 | Marketing                     | `@christinelee`, `@jahye1`                                      | Sub-Project Leader       | Code Owner |
 | People                        | `@aperez349`, `@mccormack514`                                   | Sub-Project Leader       | Code Owner |
 | Product                       | `@cbraza`                                                       | Sub-Project Leader       | Code Owner |
 | Engineering                   | `@cdeleon_gitlab`, `@gitlab-org/quality/engineering-analytics`  | Sub-Project Leader       | Code Owner |
 | Sales                         | `@aileenlu`                                                     | Sub-Project Leader       | Code Owner |
-| Finance: GTM Finance          | `@alixtucker`, `@nbernardo`, `@ofalken`, `@vagrawalg`           | Sub-Project Leader       | Code Owner |
+| Finance: GTM Finance          | `@alixtucker`, `@nbernardo`, `@vagrawalg`                       | Sub-Project Leader       | Code Owner |
 | Finance: Corporate Finance    | `@james.shen`, `@vagrawalg`                                     | Sub-Project Leader       | Code Owner |
+| Security                      | `TBD`                                                           | Sub-Project Leader       | Code Owner |
 | Go To Market                  | `@aileenlu`, `@christinelee`, `@alixtucker`, `@nmcavinue`, `@vagrawalg` | Sub-Project Leader | Code Owner |
 | Team Member                   | `@aperez349`, `@james.shen`, `@vagrawalg`, `@nmcavinue`         | Sub-Project Leader       | Code Owner |
 
@@ -409,10 +410,10 @@ permission_templates:
 
 <summary><b>Tableau Licenses</b></summary>
 
-GitLab has 120 user licenses available for the duration of the Tableau Pilot project. These licenses can be reassigned during the pilot project. More licenses will be acquired in FY24 =. 
-- 60 Creators: Full editor capabilities, including Data Modeling, Data Prep and Data Visualizations. 
+GitLab currently has 220 user licenses available. These licenses can be reassigned and more will be acquired for a broad rollout starting Q2 of FY24. 
+- 90 Creators: Full editor capabilities, including Data Modeling, Data Prep and Data Visualizations. 
 - 10 Explorers: Ability to edit Data Visualizations.
-- 50 Viewers: for Data Consumers, which includes the ability to filtering the data and the use of [Ask Data](https://www.tableau.com/about/blog/2021/6/tableau-release-ask-data-explain-data-viewers-collections) natural language querying. 
+- 120 Viewers: for Data Consumers, which includes the ability to filtering the data and the use of [Ask Data](https://www.tableau.com/about/blog/2021/6/tableau-release-ask-data-explain-data-viewers-collections) natural language querying. 
 
 GitLab also has 60 eLearning credits available for Creators. These cannot be reassigned.
 
@@ -433,30 +434,31 @@ Unused licenses will be reclaimed by the data team.
 
 #### Tableau Online Access
 
-Users can request access by creating an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required and assigning it to the Data Collaboration Team. To make a request, please navigate to the **Choose a template** dropdown menu and select the **Tableau_Request** template to get your AR started.
+Users can request access by creating an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required and assigning it to a designated [Tableau Online admin](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/#tableau-online-admins) after acquiring manager approval. To make a request, please navigate to the **Choose a template** dropdown menu and select the **Tableau_Request** template to get your AR started.
 
-For most Creators Tableau access also requires [Snowflake access](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowflake/), manager approval, and approval by your respective Tableau department owner. Please tag the designated Lead Approver(s) for your team / department from below for review and approval in your AR issue:
+All users will be given access to their Division's sub-project by default. For access to another team's space please submit your request in a [Tableau Project issue](https://gitlab.com/gitlab-data/tableau/-/issues) via the **All Requests** template and tag the designated Lead Approver(s) for that team from below for approval in your issue:
 
 | **Team / Department** | **Approver(s) / Project Leader** |
 | ------- |------- |
-| Customer Success  | `@jdbeaumont`  |
+| Customer Success  | `@jdbeaumont`, `@aileenlu` |
 | Data & Business Insights  | `@ttnguyen28` |
 | Marketing         | `@jahye1` |
 | People            | `@aperez349`, `@mccormack514` |
 | Product           | `@cbraza` |
 | Sales             | `@aileenlu` |
-| Finance: GTM Finance  | `@ofalken` |
+| Finance: GTM Finance  | `@nbernardo` |
 | Finance: Corporate Finance | `@james.shen` |
+| Security          | `TBD` |
 
-Tableau Desktop users will also need a Yubikey set up in Okta to access content published in Tableau Online. One can be requested using a by filling in a [form](https://docs.google.com/forms/d/e/1FAIpQLScKJ2Th2TU2YZ97WMfU_y2nC5AQKsiNeZ7kXea6-IS2CrEyzA/viewform).
+Tableau Desktop users will also need a Yubikey set up in Okta to access content published in Tableau Online. Due to our new security method that only accepts Biometric or Yubikey for authentication, please request a Yubikey via the [Yubibot](https://about.gitlab.com/handbook/it/guides/yubikey/) to ensure that logging into Tableau will be secure and smooth. Currently biometrics are not supported yet in Tableau Desktop.
 
-Once approved, the Data Collaboration team will then add the user to the `okta-tableau-users` [Google Group](https://groups.google.com/a/gitlab.com/g/okta-tableau-users), add the user in [Tableau Online](https://10az.online.tableau.com/#/site/gitlab/users) and assign the correct license, then add the user to the right [Tableau Group](https://10az.online.tableau.com/#/site/gitlab/groups). 
+Once approved, the BI Platform team will then add the user to the `okta-tableau-users` [Google Group](https://groups.google.com/a/gitlab.com/g/okta-tableau-users), add the user in [Tableau Online](https://10az.online.tableau.com/#/site/gitlab/users) and assign the correct license, then add the user to the right [Tableau Group](https://10az.online.tableau.com/#/site/gitlab/groups). 
 
 #### Tableau Desktop Access
 
-Creators with an active license to Tableau Online can also use Tableau Desktop for local development for specific use cases. Locally developed Data Sources or Workbooks can later be published to Tableau Online, provided they fall under the acceptable use cases.
+Creators with an active license to Tableau Online is encouraged to use Tableau Desktop for development. Locally developed Data Sources or Workbooks can later be published to Tableau Online. All Creators will be assigned access to Tableau Online and Desktop. The BI Platform team will assign Dekstop keys from the [Licenses](https://customer-portal.tableau.com/s/my-keys) section of the [Tableau Customer Portal](https://customer-portal.tableau.com/s/). Those assigned a Desktop key can follow email instructions from Tableau to set up their client.
 
-Download Tableau Desktop using the links below, or follow the link from the [Home Page](https://10az.online.tableau.com/#/site/gitlab/home) of Tableau Online.
+One can download Tableau Desktop using the links below, or follow the link from the [Home Page](https://10az.online.tableau.com/#/site/gitlab/home) of Tableau Online.
 * [Tableau Desktop Download](https://www.tableau.com/products/desktop)
 * [Tableau Prep Builder Download](https://www.tableau.com/products/prep)
 
@@ -467,7 +469,19 @@ Any user can download the desktop tools and start a 14-day free trial without li
 1. Quick Connect: Tableau Online
 1. Log in to Okta using a Yubikey - if Okta isn't set up for your account, login using your Tableau login & MFA. Note: only users with active licenses will be able to complete this step, and this will only work when using a Yubikey, not when using fingerprints to authenticate to Okta.
 
-Alternatively, Account Owners in the Data Team assign a Creator License Code under the License or License section of the [Tableau Customer Portal](https://customer-portal.tableau.com/s/my-keys).
+### Tableau Desktop vs. Tableau Cloud
+
+Tableau offers two ways to create / edit workbooks and data sources, either via the Desktop client or Cloud (web) version. However, we recommend to develop in Desktop, as this version will have full functionality for editing and development.
+
+Benefit of each version:
+
+**Desktop**
+Tableau Desktop provides FULL functionality. All the capabilities available by Tableau will be accessible in Desktop and you can create data sources, workbooks, dashboards, groups, sets, formatting, customized calculations, etc. 
+
+**Cloud**
+Tableau Cloud allows users to interact with content (that you've created and published with Desktop). Cloud will also allow you to create workbooks / dashboards, but not data sources, sets, in-depth formatting, etc.
+
+Fore more details on features offered by each version please see this Tableau article on [Web Authoring and Tableau Desktop Feature Comparison](https://help.tableau.com/current/pro/desktop/en-us/server_desktop_web_edit_differences.htm)
 
 #### Data Source Access: Tableau Online
 
@@ -487,7 +501,7 @@ Alternatively, Account Owners in the Data Team assign a Creator License Code und
     2. Connectors > Snowflake
         1. Fill in the following:
             - Server: `gitlab.snowflakecomputing.com`
-            - Role: Leave blank.  This will help with publishing and troubleshooting and will use your default role in Snowflake. Ensure that your default role in Snowflake is not set to PUBLIC to prevent log-in errors. You can find your default role in Snowflake in the switch role menu.
+            - Role: Leave blank in development. This will help with publishing and troubleshooting and will use your default role in Snowflake. Ensure that your default role in Snowflake is not set to PUBLIC to prevent log-in errors. You can find your default role in Snowflake in the switch role menu. For Production releases: RESTRICTED_SAFE. 
             - Authentication: `Sign in using OAuth`
         2. Click on `Sign in`
         3. Click on `Sign Sign On`
@@ -522,7 +536,7 @@ Alternatively, Account Owners in the Data Team assign a Creator License Code und
 
 #### Data Source Access: Tableau Desktop or Tableau Prep Builder
 
-*Important:* In order to connect Tableau Desktop to Tableau Online, you need to set up a [Yubikey](https://about.gitlab.com/handbook/security/#security-process-and-procedures-for-team-members) in Okta. Fingerprints will not work.
+*Important:* In order to connect Tableau Desktop to Tableau Online, you need to set up a [Yubikey](https://about.gitlab.com/handbook/security/#security-process-and-procedures-for-team-members) in Okta. Fingerprints will not work. Please see the [Tableau Online Access](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/#tableau-online-access) section above for more details on how to order a Yubikey.
 
 <details markdown=1>
 
@@ -587,7 +601,7 @@ GitLab team members who realize the full potential of analytical insights can do
 
 * [Free Training](https://www.tableau.com/learn/training/20222)
 * [Training Portal](https://elearning.tableau.com/)
-    * Request Access Code from Data Team. Account Owners in the Data Team can find the Access Code under the eLearning section of the [Tableau Customer Portal](https://customer-portal.tableau.com/s/my-elearning). The Data Collaboration team will share the Access Code via [1password](https://about.gitlab.com/handbook/security/#1password-guide).
+    * Request Access Code from Data Team. Account Owners in the Data Team can find the Access Code under the eLearning section of the [Tableau Customer Portal](https://customer-portal.tableau.com/s/my-elearning). The BI Platform team will share the Access Code via email.
     * New Creators without prior Tableau experience should complete the Tableau Fundamentals training course at the minimum. Tableau Intermediate is also recommended as a follow up course.
     * If you experience any issues accessing the training content, check [this page](https://support.skilljar.com/hc/en-us/articles/360033553054) for solutions to the most common problems.
 * [Tableau Community](https://community.tableau.com/s/)
@@ -616,35 +630,34 @@ Note: training videos listed above are provided for free by third parties and th
 Below is a set of training courses and learning paths that are recommended for the following [roles](https://gitlab.com/gitlab-data/tableau/-/blob/main/README.md) based on their responsibilities and required skill sets:
 
 Site Administrator
-* Minimum: [Introduction to Site Administration](https://elearning.tableau.com/path/site-administrator/introduction-to-site-administration) _(time estimate: 3 hours)_
-* [Site Administrator Learning Path](https://elearning.tableau.com/path/site-administrator) _(time estimate: 20-25 hours)_
-* [Tableau Services & Support](https://elearning.tableau.com/tableau-services-and-support) _(time estimate: 1 hour)_
+
+* [Site Administrator Learning Path](https://elearning.tableau.com/path/site-administrator) (**estimated )
+* [Tableau Services & Support](https://elearning.tableau.com/tableau-services-and-support)
 
 Project Lead / Maintainer
-* Minimum: [Getting Started with Tableau Cloud](https://elearning.tableau.com/path/community-leader/getting-started-with-tableau-online) _(time estimate: 4 hours)_; 
-* [The Role of the Community Leader](https://elearning.tableau.com/path/community-leader/the-role-of-the-community-leader) _(time estimate: 2 hours)_
-* [Community Leader Learning Path](https://elearning.tableau.com/path/community-leader) _(time estimate: 5-10 hours)_
-* [New Feature Spotlight Course](https://elearning.tableau.com/path/new-feature-spotlight) _(time estimate: 5-10 hours)_
-* [Tableau Intermediate Course](https://elearning.tableau.com/tableau-intermediate) _(time estimate: 20-25 hours)_
-* [Tableau Advanced Course](https://elearning.tableau.com/tableau-advanced) _(time estimate: 10+ hours)_
 
-Creator / Explorer / Analyst
-* Minimum: [Getting Started with Tableau Desktop](https://elearning.tableau.com/path/data-scientist/getting-started-with-tableau-desktop) _(time estimate: 4 hours)_ ; 
-* [Author Learning Path](https://elearning.tableau.com/path/author-learning-path) _(time estimate: 35-40 hours)_
-* [Designer Learning Path](https://elearning.tableau.com/path/designer) _(time estimate: 60-75 hours)_
-* [Analyst Learning Path](https://elearning.tableau.com/path/analyst-learning-path) _(time estimate: 50-60 hours)_
-* [Data Scientist Learning Path](https://elearning.tableau.com/path/data-scientist) _(time estimate: 85-100 hours)_
-* [Developer Learning Path](https://elearning.tableau.com/path/developer)  _(time estimate: 15-20 hours)_
-* [Tableau Fundamentals Course](https://elearning.tableau.com/tableau-fundamentals) _(time estimate: 30-40 hours)_
-* [Prep Builder Course](https://elearning.tableau.com/prep-course) _(time estimate: 14 hours)_
+* [New Feature Spotlight Course](https://elearning.tableau.com/path/new-feature-spotlight)
+* [Community Leader Learning Path](https://elearning.tableau.com/path/community-leader)
+* [Tableau Intermediate Course](https://elearning.tableau.com/tableau-intermediate)
+* [Tableau Advanced Course](https://elearning.tableau.com/tableau-advanced)
+
+Creator / Analyst
+
+* [Author Learning Path](https://elearning.tableau.com/path/author-learning-path)
+* [Designer Learning Path](https://elearning.tableau.com/path/designer)
+* [Analyst Learning Path](https://elearning.tableau.com/path/analyst-learning-path)
+* [Data Scientist Learning Path](https://elearning.tableau.com/path/data-scientist)
+* [Developer Learning Path](https://elearning.tableau.com/path/developer)
+* [Tableau Fundamentals Course](https://elearning.tableau.com/tableau-fundamentals)
+* [Tableau Prep Builder Course](https://elearning.tableau.com/prep-course)
 
 Business Owner / Stakeholder
-* Minimum: [The Role of the Executive Sponsor](https://elearning.tableau.com/path/executive-sponsor/the-role-of-the-executive-sponsor) _(time estimate: 2 hours)_
-* [Executive Sponsor Learning Path](https://elearning.tableau.com/path/executive-sponsor) _(time estimate: 5-10 hours)_
 
-Viewer / End User
-* Minimum: [Getting Started with Tableau Cloud](https://elearning.tableau.com/path/consumer/getting-started-with-tableau-online) _(time estimate: 4 hours)_
-* [Consumer Learning Path](https://elearning.tableau.com/path/consumer) _(time estimate: 15-20 hours)_
+* [Executive Sponsor Learning Path](https://elearning.tableau.com/path/executive-sponsor)
+
+End User
+
+* [Consumer Learning Path](https://elearning.tableau.com/path/consumer)
 
 </details>
 
@@ -668,6 +681,8 @@ In addition to the proactive steps we’ve taken with self-service help resource
 <summary><b>Tableau Office Hours</b></summary>
 
 We hold weekly office hours (8:30-8:55AM PST) for Tableau users to be able to regularly meet and showcase their work, as well as discuss topics / ask questions on anything relating to the tool. Please refer to our running [Meeting Agenda and Question & Answer document](https://docs.google.com/document/d/1i23bIsoupKC7rTepbU2lVXTHB5vxKuAgl07kAQq2EBA/edit) for content covered in our sessions.
+
+For additional troubleshooting support you can [submit a support case](https://kb.tableau.com/articles/howto/submitting-a-case-from-the-customer-portal) to Tableau via the [Customer Portal](http://customer.tableausoftware.com/).
 
 </details>
 
@@ -708,8 +723,8 @@ We hold weekly office hours (8:30-8:55AM PST) for Tableau users to be able to re
 1. Post your questions in the `#data-tableau` internal slack channel to see if someone in the company has the answer.
 1. Post your questions in the `#ext-gitlab-tableau` external slack channel if you need someone from Tableau to look at it.
 1. Post your questions in the [Tableau Community](https://community.tableau.com/s/) to see if someone in the wider Tableau user community has the answer.
-1. For additional troubleshooting support you can [submit a support case](https://kb.tableau.com/articles/howto/submitting-a-case-from-the-customer-portal) to Tableau via the [Customer Portal](http://customer.tableausoftware.com/) under [Cases](https://customer-portal.tableau.com/s/my-cases) OR open a support case with [Tableau Support](https://www.tableau.com/support) if you're experiencing a technical issue with the Tableau Online platform or Tableau Desktop.
-    - Anyone can open a support case, however if you want expedited response and resolutions time based on [Tableau Premium Support's](https://www.tableau.com/resources/teams-organizations/premium-support) SLAs, then ask one of the designated support contacts to open the support case for you instead. Currently the listed contacts are:
+1. Open a support case with [Tableau Support](https://www.tableau.com/support) if you're experiencing a technical issue with the Tableau Online platform or Tableau Desktop.
+    - Anyone can open a support case, however if you want expediated response and resolutions times based on [Tableau Premium Support's](https://www.tableau.com/resources/teams-organizations/premium-support) SLAs ask one of the designated support contacts to open the support case for you instead. Currently the listed contacts are:
         - `@ttnguyen28`
         - `@snalamaru`
         - `@pempey`
