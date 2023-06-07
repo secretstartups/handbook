@@ -678,7 +678,6 @@ More details can be found in the [Letter of Adjustment](/handbook/people-group/p
 
 A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) is created when the one of the following criteria is met:
 
-- Migration from Individual Contributor to Manager (these changes are defined based on Management level changes in Workday)
 - Migration from Manager to Individual Contributor (defined as a decrease in management level from Mgr+ to IC within Workday)
 - Migration of Team (for purposes of Career Mobility issues, team changes are defined as a change in both manager & cost center)
 
