@@ -140,7 +140,7 @@ Security Compliance managed access reviews required for audit evidence have a de
 |  5 | Authomize "nudge" | Reviewer |
 |  3 | Slack ping | Reviewer |
 |  2 | Authomize "nudge" & <br/>Slack ping the Reviewer | Reviewer, Reviewer's Manager, and Security Compliance Manager |
-|  0 | Escalated to VP of Security | VP of Security |
+|  0 | Escalated to CISO | CISO |
 
 {-If an access review is not completed within 10 days, identified access will be removed.-}
 
