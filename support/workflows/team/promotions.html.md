@@ -31,7 +31,7 @@ The general process for promotions is:
 1. Support Directs review and calibrate all proposed promotions once a quarter.
 1. Approved promotions proceed through the rest of the process.
 
-## Promotion document
+## Promotion Document
 
 The promotion document template can be found in the
 [Pillars section of the Promotions and Transfers handbook page](/handbook/people-group/promotions-transfers/#pillars).
@@ -41,3 +41,18 @@ the expected competencies for the role as laid out in:
 
 - The [GitLab Job Frameworks](/company/team/structure/#job-frameworks).
 - The [Support Career Framework](/handbook/engineering/career-development/matrix/engineering/support/).
+
+## In-Progress Promotion Documents
+
+Collaboration on promotion documents encourages transparency in the promotion process. It can 
+motivate and inspire others to build and strengthen their promotion documents. Internally 
+public promotion documents are part of GitLab's  
+[Promotion Philosophy](/handbook/people-group/promotions-transfers/#promotion-philosophy). 
+GitLab Support team members can link their internally 
+public promotion documents in this section. Having a public in-progress promotion document is **optional**. It is encouraged for Staff+ promotions.
+
+If you want to list your document here, decide what level of publicity you are comfortable with. Set the appropriate access for the GitLab group in the document's _Share_ settings: You can keep it read-only (`Viewer`), allow others to comment and suggest edits (`Commenter`) – or fully open it to collaboration (`Editor`).
+
+### Promotion to Senior Support Engineer
+
+### Promotion to Staff Support Engineer
