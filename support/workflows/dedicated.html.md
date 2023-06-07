@@ -93,6 +93,10 @@ Remember that Grafana is used for visualizing issues and spotting problems. It w
 
 As an example, the Triage dashboard may show that `webservice` errors are increasing. Use this to correlate an approximate time and filter out the other logs by the `kubernetes.labels.app` to find the error for just `webservice`.
 
+#### Monitoring system graphs are for internal use
+
+We do not share internal graphs from our monitoring systems with Dedicated customers. The reason for this is that as the SaaS provider, we manage the underlying environment. Sharing internal graphs would not be actionable by the customer since they don't have access to the environment and these graphs may not be interpreted correctly without a proper understanding of our system.
+
 ### View instance metadata and upgrade history
 
 GitLab Dedicated tenants are defined in the
