@@ -185,6 +185,10 @@ We currently plan for a new group of ~100 people leaders to start this program e
 
 Due to our priority to certify 85% of our people leaders in FY24, participation by aspiring managers is not currently an option. 
 
+### What if I get promoted while I'm part of Elevate?
+
+If you're promoted from Manager to Senior Manager, you'll continue Elevate without inturruption. If you're promoted to a Director role or above, please plan to discuss directly with your manager and the Elevate team. Decisions will be made on a case by case basis.
+
 
 ## Making up missed sessions
 
