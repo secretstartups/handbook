@@ -25,13 +25,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Intro to GitLab
-##### June 6th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_dfQ_V30SRPCJYMtlBBy4hQ#)
-
 #### Intro to CI/CD
 ##### June 13th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
 
@@ -61,13 +54,6 @@ Learn from our director of engineering how to shift left your change management 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_5nvvGPgUTtOYj19LpZUCGQ#)
 
 ### EMEA Time Zone Webinars
-
-#### Intro to GitLab
-##### June 6th, 2023 at 10:00-11:00AM UTC
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_T_b0w8BHRCGo8CIqJM_lmA)
 
 #### Intro to CI/CD
 ##### June 13th, 2023 at 10:00-11:00AM UTC
