@@ -142,7 +142,7 @@ All incidents are reported in MonteCarlo incident portal. For triage purposes th
 
 ## Domains
 
-We have the availability to use [domains](hhttps://vimeo.com/646676972) in our Monte Carlo environment. Currently domains can be used to create separate environments for separate team members,  domains automatically filter monitors and incidents by projects and datasets. We have a limited number of domains available.
+We have the availability to use [domains](https://vimeo.com/646676972) in our Monte Carlo environment. Currently domains can be used to create separate environments for separate team members,  domains automatically filter monitors and incidents by projects and datasets. We have a limited number of domains available.
 
 | Domain | Description | Data Scope |
 | ------ | ----------- | ---------- | 
