@@ -12,7 +12,12 @@ title: "Releases"
 ## Overview and terminology
 This page describes the processes used to release packages to self-managed users. 
 
-The **Monthly self-managed release**: GitLab version (XX.YY.0) [is published every month on the 22nd][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed. 
+**Monthly self-managed release**
+
+GitLab version (XX.YY.0) [is published every month on the 22nd][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed. 
+
+Starting no earlier than 16.6 (November 2023), we will move from publishing on every 22nd of the month to [**every 3rd Thursday of the month**](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/124310). The release process is not expected to change, except the days of the week for the process will be more stable, reducing the pressure to work on weekends. For example, the code cutoff will always be the **Friday** before the Thursday release day. All releases up to and including the one prior to this change will still be published on the 22nd of the month.
+{: .alert .alert-gitlab-orange}
 
 Our [maintenance policy] describes in detail the cadence of our major, minor and patch releases for self-managed users. The major release yearly cadence was defined [after an all stakeholder discussion](https://gitlab.com/gitlab-com/Product/issues/50).
 
