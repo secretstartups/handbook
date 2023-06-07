@@ -92,6 +92,12 @@ Data Team OKRs are managed with [GitLab Plan](https://about.gitlab.com/direction
 - helps to keep Epic and Issue description content to a manageable level
 - supports the [Rolly Bot](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#weekly-roll-up-reporting) for regular progress reporting
 
+OKRs across the Data Team are written using GitLab's [How to Write OKRs](https://about.gitlab.com/company/okrs/#how-to-write-okrs) handbook page. The below formulas are used to write OKRs:
+
+- Objectives: Verb + What you want to do + In order to/for/so that (what you hope to achieve or rationale for objective). Objective Example: Increase awareness of company in the market in order to increase sales.
+
+- Key Results: Verb + what you’re going to measure + from “x to y”. Key Result Example: 100% of employees certified on OKR expectations and process.
+
 After OKRs have been drafted and shared across the Data Team, they are shared with Business Partner stakeholders for feedback. Once the draft process is complete, three summarized Objectives and KRs are published into the [Business Technology Group Project](https://gitlab.com/groups/gitlab-com/business-technology/) for sharing with the broader Business Technology Team, Finance Team, and company. These summarized Objectives and KRs attempt to capture the top OKRs in support of business results.
 
 #### OKR Structure
