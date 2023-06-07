@@ -871,16 +871,10 @@ Required fields when requesting Google Cloud Credits on an Opportunity
 3. Credits being requested (Sales Rep enters in the amount of credits required to close the deal)
 Once all required information is submitted, the request  will be routed internally for approval. If approved, the opportunity is updated to ‘approved’ and the opportunity owner  is notified via email. GCP Credits are provided directly to the customer by the GCP Team after acceptance of the private offer. For more information, visit the [Private Alliance Handbook](https://gitlab-com.gitlab.io/alliances/alliances-internal/gcp/).
  
-### IBM Partner Requests & QTC Process
-1. IBM Partner Requests: Visit the [Internal Alliance Handbook](https://internal-handbook.gitlab.io/handbook/alliances/ibm/)
-2. Common Use Cases:
-  - IBM Partner Request
-  - IBM/GitLab Identify Opportunity
-  - IBM Partner Order
-Additional Information on the QTC Process is available in the [Internal Alliance Handbook](https://internal-handbook.gitlab.io/handbook/alliances/ibm/).
- 
+### IBM (OEM) Partner Requests & QTC Process
+See [IBM (OEM) Partner Requests & QTC Process](https://docs.google.com/document/d/1m9oh62xnJrPCoYBfz_V3Z5eBttUlXXQw7lqS2BOIHwY/edit#heading=h.o9px8kwapw3d) for a step-by-step guide of the IBM (OEM) Quote to Cash process. 
+
 ## Compensation on Channel Opportunities
- 
 The executed compensation letter should be the approved and legal source of truth for compensation. However please use the following resources to assist in clarification or exceptions.
 
 [FY23 Channel & Alliance Comp & Splits Matrix](https://docs.google.com/spreadsheets/d/1jkdVDYeToAHjNhkF4xAs5wuMaw-TTOU8Ow286CXoznc/edit?usp=sharing)
