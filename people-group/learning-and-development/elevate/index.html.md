@@ -53,6 +53,9 @@ Elevate runs for a total of 5 months and is organized into 5 learning modules. I
 | Step 3 | Group Coaching | Cross-functional group coaching sessions with 10-12 other GitLab people leaders to practice module concepts | 80 minutes | 
 | Step 4 | Assess your Learning | Take a quiz in Level Up to demonstrate your understanding of new concepts. |
 
+Watch this video for a walk through of each step:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eyh-Az13o0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Additional Commitments
 
