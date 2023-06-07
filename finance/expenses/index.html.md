@@ -268,7 +268,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
   </tr>
   <tr>
     <td class="tg-0pky">Professional dues, membership fees</td>
-    <td class="tg-0pky">All costs associated with professional dues and membership fees are reimbursable and an approved <a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/"><span style="color:#905">completed G&amp;D issue]</span></a> will need to be noted in the expense report upon submission. Select classification or tag “Growth and Development” in Navan when you create expenses.</td>
+    <td class="tg-0pky"> For bar license dues / fees, team members who are employed by GitLab as an attorney will supply evidence of payment for such fees and expense via Navan. Other costs associated with professional dues and membership fees are reimbursable and an approved <a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/"><span style="color:#905">completed G&amp;D issue]</span></a> will need to be noted in the expense report upon submission. Select classification or tag “Growth and Development” in Navan when you create expenses.</td>
     <td class="tg-0pky">6021 - Professional dues, membership fees</td>
     <td class="tg-0pky">5021 - Professional dues, membership fees COGS</td>
     <td class="tg-0pky">Books, dues &amp; subscriptions</td>
