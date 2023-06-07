@@ -56,3 +56,6 @@ If you want to list your document here, decide what level of publicity you are c
 ### Promotion to Senior Support Engineer
 
 ### Promotion to Staff Support Engineer
+
+ - [Brie Carranza](https://docs.google.com/document/d/14DbQH4VjbE47r9zefK0HPBKW_ZAfI8Sm_Kqdo_6Svbo/edit)
+ - [Manuel Grabowski](https://docs.google.com/document/d/1hGH6ScWyJwVnR5tU-7xG7_WY_ykyyLuzHD-5TJzGme0/edit)
