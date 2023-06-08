@@ -60,36 +60,6 @@ To contact the Code Review BE team in GitLab, you can use the `@code-review-be` 
 
 [Team members](/handbook/engineering/development/dev/create/code-review/backend/#team-members) meet monthly and are encouraged to join in order to to interact with peers, solve technical challenges, and discuss freely with each other. You can check for the next meeting on the [Code Review Group calendar](https://calendar.google.com/calendar/embed?src=c_bt3jpkj6afr7321vpg9ra1191s%40group.calendar.google.com&ctz=America%2FChicago).
 
-### Capacity planning
-
-<%= partial("handbook/engineering/development/dev/create/capacity_planning.erb") %>
-
-#### Availability
-
-Approximately 5-10 business days before the start of a new release, the EM will begin determining how "available" the team will be. Some of the things that will be taken into account when determining availability are:
-
-* Upcoming training
-* Upcoming time off / holidays
-* Upcoming on-call slots
-* Potential time spent on another teams deliverables
-
-Availability is a percentage calculated by _(work days available / work days in release) * 100_.
-
-All individual contributors start with a "weight budget" of 10, meaning they are capable (based on historical data) of completing a maximum number of issues worth 10 weight points total (IE: 2 issues which are weighted at 5 and 5, or 10 issues weighted at 1 each, etc.) Then, based on their availability percentage, weight budgets are reduced individually. For example, if you are 80% available, your weight budget becomes 8.
-
-Product will prioritize issues based on the teams total weight budget. Our [planning rotation](#planning-rotation) will help assign weights to issues that product intends on prioritizing, to help gauge the amount of work prioritized versus the amount we can handle prior to a kickoff.
-
-#### Kickoff emails
-
-Once availability has been determined, weights have been assigned, and the PM/EM finalize a list of prioritized issues for the upcoming release, kickoff emails will be sent. The intent of this email is to notify you of the work we intend to assign for the upcoming release. This email will be sent before the release begins. The kickoff email will include:
-
-* Your availability, weight budget, and how it was calculated
-* A list of the issues you will most probably be assigned as an individual
-* A reasoning behind why you have been assigned more than your weight budget, if applicable
-* A list of the issues the team is working on that are deemed "note-worthy," in case you'd like to offer help on those issues as time allows
-
-Emails get sent to each individual contributor on the team, as well as the Application Security counterpart, in order to give a heads-up about the upcoming issues in the milestone and what the assignments will be.
-
 #### Planning
 
 > If you haven't read the code, you haven't investigated deeply enough
@@ -227,16 +197,6 @@ they should create a performance issue if there's no existing one. If there's
 an existing one, team member can either update the issue, investigate or work
 on the issue (if they have spare time).
 
-### Service Level Objectives Monitoring
-
-We take proactive steps to avoid having reported bugs to go past the target duration defined in [Severity SLOs](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos).
-
-When issues are not clearly visible, it is more likely they can slip out of our hands. By paying attention to our issues regularly, investigating, and scheduling them to be addressed in our upcoming releases if they require development, we often find that some of them can be closed by as duplicates or no longer an issue. This helps us to keep our velocity in responding to new issues high.
-
-The [Bug Triage Board](https://gitlab.com/groups/gitlab-org/-/boards/2546239) can be used to browse them together in one board.
-
-Generally, the engineering manager is responsible for monitoring this board and triaging issues, but this task can be delegated to a developer temporarily or permanently if we have a volunteer.
-
 #### Responsibilities of Issue Triage
 
 - Do a weekly review of the triage board and make sure these issues are investigated by assigning them to developers or performing the investigation
@@ -249,4 +209,5 @@ Generally, the engineering manager is responsible for monitoring this board and 
 
 In addition to the information on this page, here is some additional information for our team members:
 
-- [Create:Code Revew BE Engineer Resources](/handbook/engineering/development/dev/create/code-review/backend/engineers)
+- [Create:Code Review BE Engineer Resources](/handbook/engineering/development/dev/create/code-review/backend/engineers)
+- [Create:Code Review BE Engineering Manager Responsibilities](/handbook/engineering/development/dev/create/code-review/backend/manager)
