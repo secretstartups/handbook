@@ -384,6 +384,52 @@ The IDE Group collates all video recordings related to the group and its team me
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "IDE" } %>
 
+## Automations
+
+Automations should be set up via [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops/) if possible.
+
+### Automations for Remote Development Workflow
+
+Ideally we should automate as much of the [Remote Development Planning Process](#-remote-development-planning-process) workflow as possible. 
+
+We have the following automation goals for the Remote Development Workflow. Unless otherwise noted, these rules are all defined in the  [triage-ops `policies/groups/gitlab-org/ide/remote-development-workflow.yml` config file](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml))
+
+**Goal:** To ensure every issue in the category is assigned to an epic
+
+**Automation:**
+- Issues in ~"Category:Remote Development" but no epic assigned should get a warning comment (TODO: implement)
+
+**Goal:** To ensure category issues show up on the Iteration Planning board
+
+**Automation:**
+- Issues in `~"Category:Remote Development"` but no `~rd-workflow` label should be added to `~rd-workflow::unprioritized` (Currently implemented as [Rule index 0](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml))
+
+**Goal:** To avoid premature assignment of specific milestones before an issue has gone through IPM, to avoid getting this warning: https://gitlab.com/gitlab-org/gitlab/-/issues/411933#note_1419147845
+
+**Automation:**
+- Issues with a specific milestone but not in ~rd-workflow::prioritized should have the milestone automatically set back to %"Next 1-3 releases" (TODO: implement)
+- Issues with a specific milestone but no weight should have the milestone automatically set back to %"Next 1-3 releases" (TODO: implement)
+- Issues with a specific milestone but no iteration should have the milestone automatically set back to %"Next 1-3 releases" (TODO: implement)
+
+**Goal:** To ensure prioritized issues are in the correct state
+
+**Automation:**
+- Issues in ~rd-workflow::prioritized and with weight assigned but no assignee should get a warning comment (TODO: implement)
+- Issues in ~rd-workflow::prioritized and specific milestone but no weight assigned should get a warning comment (TODO: implement)
+
+**Goal:** Syncing Remote Development workflow and GitLab workflow labels
+
+**Automation:**
+- Issues in ~rd-workflow::unprioritized but with no GitLab workflow label should have ~"workflow::refinement" assigned (TODO: implement)
+- Unstarted issues in ~rd-workflow::prioritized but with ~"workflow::refinement" assigned should get ~"workflow::ready for development" assigned (TODO: implement)
+- Can we assume that other subsequent workflow states are already handled by standard triage rules? If so, confirm and list/link them (TODO: implement)
+
+**Goal:** To ensure issues and MRs are 1-1
+
+**Automation:**
+- Every MR in `~"Category:Remote Development"` must have the first line of the description matching: `Issue: <issue link>\n\n`. See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests  (TODO: implement)
+- Every Issue in ~"Category:Remote Development" must have the first line of the description matching: "MR: <MR link>\n\n" or "MR: No associated MR\n\n". See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests (TODO: implement)
+
 <!-- LINKS START -->
 
 [hb-create]: /handbook/engineering/development/dev/create/
