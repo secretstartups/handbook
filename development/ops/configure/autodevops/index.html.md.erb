@@ -25,40 +25,6 @@ The `Configure AutoDevOps Templates template: express|rails|spring works with Au
 - [`staging`](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines)
 	-`qa-triggers-browser_ui-7_configure`
 
-The `Configure Auto DevOps support when rbac is enabled runs auto devops` test is tagged with the `:kubernetes` tag meaning it will run in:
-- [`master`](https://gitlab.com/gitlab-org/gitlab-qa-mirror/-/pipelines)<sup>*</sup>
-	- `ee:kubernetes` full runs (but not sanity runs).
-- [`nightly`](https://gitlab.com/gitlab-org/quality/nightly/-/pipelines)
-	- `ee:kubernetes`
-
-The `Configure Auto DevOps runs an AutoDevOps pipeline` test runs in:
-- [`master`](https://gitlab.com/gitlab-org/gitlab-qa-mirror/-/pipelines)
-	- `ee:instance 3/5`
-	- `ee:praefect 3/5`
-	- `ee:relative_url 3/5`
-	- `ee:update 3/5` 
-- [`staging`](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines)
-	- `qa-triggers-browser_ui_7_configure` in full runs
-	- `qa-schedules-smoke` in sanity runs.
-- [`nightly`](https://gitlab.com/gitlab-org/quality/nightly/-/pipelines)
-	- `ce:airgapped-smoke`
-	- `ce:instance-image 2/2`
-	- `ce:instance-image-slow-network 4/4`
-	- `ce:nplus1-instance-image 2/2`
-	- `ce:update 2/2`
-	- `ce-upgrade 3/5`
-	- `ee:airgapped-smoke`
-	- `ee:instance-image 3/5`
-	- `ee:nplus1-instance-image 3/5`
-	- `ee:update 3/5`
-- [`pre-prod`](https://ops.gitlab.net/gitlab-org/quality/preprod/-/pipelines)
-	- `qa-triggers-smoke`
-- `production`
-	- [`canary`](https://ops.gitlab.net/gitlab-org/quality/canary/-/pipelines)
-		- `qa-schedules-smoke`
-	- [production, actual](https://ops.gitlab.net/gitlab-org/quality/production/-/pipelines)
-		- `qa-schedules-browser_ui-7_configure`
-
 #### Quarantined tests
 The following tests, if they are tagged `quarantine`, will run in these environments:
 
@@ -66,11 +32,6 @@ The following tests, if they are tagged `quarantine`, will run in these environm
 - [`staging`](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines)
 	- `qa-triggers-browser_ui-quarantine`
 
-`Configure Auto DevOps support when rbac is enabled runs auto devops` runs in
-- [`master`](https://gitlab.com/gitlab-org/gitlab-qa-mirror/-/pipelines)
-	- `ee:kubernetes-quarantine` requires manual action to start pipeline.
-- [`nightly`](https://gitlab.com/gitlab-org/quality/nightly/-/pipelines)
-	- `ce:integration-kubernetes-quarantine`
 
 ## Configure your GDK to run the tests
 Follow the documentation on [how to Use GDK with a GKE cluster](https://gitlab.com/gitlab-org/gitlab-development-kit/-/tree/master/doc/howto/kubernetes#use-gdk-with-a-gke-cluster).
