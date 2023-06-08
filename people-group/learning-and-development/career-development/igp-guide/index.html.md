@@ -12,7 +12,7 @@ description: "Step by Step resource for team members filling out the GitLab Indi
 
 # Step by Step Guide to Completing the GitLab Individual Growth Plan (IGP)
 
-This guide is for team members who are looking for guidance on how to complete their IGP. The guide will go through each section of the IGP including resources, inspiration, and suggestions for how to best use the template to plan and take action towards your career goals.
+This guide is for team members who are looking for guidance on how to complete their IGP. The guide will go through each section of the IGP including resources, inspiration, and suggestions for how to best use the IGP in Workday to plan and take action towards your career goals.
 
 
 # Your Role with the IGP
@@ -20,15 +20,19 @@ This guide is for team members who are looking for guidance on how to complete t
 As the Directly Responsible Individual (DRI) of your career, it’s your responsibility to make decisions that best serve your growth. Consider this course as guidance, not prescription. At its core, the Individual Growth Plan (or IGP) is a tool to reflect, set, and action on goals.
 
 Once your IGP is complete, it’s important to think about how you’ll practice continuous learning. 
-The best way to do this is to block calendar time for learning. This blocked time might start with your work on the IGP and evolve to taking a course, earning a certification, or attending a webinar. Socialize the time you’re spending learning to your team - especially if you’re a manager. We all play a role in modeling continuous learning at GitLab and encouraging other to prioritize their growth.
+The best way to do this is to block calendar time for learning. This blocked time might start with your work on the IGP and evolve to taking a course, earning a certification, working on a stretch assignment, reading a book, or engaging in a mentor relationship. Socialize the time you’re spending learning to your team - especially if you’re a manager. We all play a role in modeling continuous learning at GitLab and encouraging others to prioritize their growth.
 
 # Section 1: Discover your Inspiration
 
 Reflection helps guide our career decisions. Section 1 of the IGP is focused on reflection, asking these 5 questions:
 
-![screenshot of section 1 of the igp](section1.png){: .shadow.medium.center}
+1. What parts of your role are most engaging?
+2. What work brings the greatest sense of excitement and belonging?
+3. Which areas of work feel draining?
+4. How do you like to learn?
+5. In 2-3 years, what role would you like to be in and why?
 
-Be flexible with yourself in this section. Some choose to make this an elaborate reflection and lean on resources like the Myers Briggs assessment, Strengths Finder assessment, or learning style definition. Others treat it like a quick check-in.
+Be flexible with yourself in this section. Some choose to make this an elaborate reflection and lean on resources like the [Myers Briggs assessment](https://www.16personalities.com/free-personality-test), [Strengths Finder assessment](https://www.gallup.com/cliftonstrengths/en/home.aspx), or [learning style definition](https://edugage.com/what-is-my-learning-style/). Others treat it like a quick check-in.
 
 **Get Inspired: Listen to a group of GitLab team members share what gives them energy, and what drains them, at work. Do you notice any of the same trends in your own reflection?**
 
@@ -49,55 +53,74 @@ Be flexible with yourself in this section. Some choose to make this an elaborate
 
 **Tip: Having trouble answering these questions? Try using a journal to record your energy throughout the day for 1 week, then look back at what drained or energized you.**
 
-# Section 2: Clarify your Role
+# Section 2: Narrow your Focus
 
-Knowing your growth direction helps you set goals and find the right resources. This is the goal of Section 2 of the IGP - to clarify your role trajectory. 
+Knowing your growth direction helps you set goals and find the right resources. This is the goal of Section 2 of the IGP - to clarify your role trajectory by focusing on the following 3 questions:
 
-![screenshot of section 2 of the igp](section2.png){: .shadow.medium.center}
+1. Do you want to stay on your current team or try something new?
+2. Would you like to manage a team or department?
+3. Would you like to stay as an individual contributor and develop a specific area of expertise?.
 
 Think big in this section. Do you want to become a manager? Are you growing as an IC leader? Maybe you’re ready for a career transition to a new team. Remember that at GitLab, career growth is non-linear - we grow in all directions. 
 
 ![infographic showing examples of non-linear careers at GitLab](non-linear.png){: .shadow.medium.center}
 
-# Exploration: Prepare for Section 3
 
-If you’re a planner, section 3 might feel like home. Or, you might feel uncomfortable fitting your big career goals into one Google Sheet.
+# Section 3: Set your Intention
 
-**Remember - Make this your own - if you have 7 career goals this year, add 7 lines to the page. If you have 1, remove the others. It’s your learning plan!**
+Done exploring for now? It’s time to populate section 3 of the IGP. Setting your eyes on the future, the goal of section 3 is to think about what your mediate term goals are.  Think about what you want your next career step to be (from section 2) and how you will know you are successful by answering the following 2 questions:
 
-GitLab team members have a repository of resources, programs, and learning platforms at their disposal. Before you start filling in Section 3, it’s important to do some exploration. [Here’s a directory](/handbook/people-group/learning-and-development/career-development/#directory) of handbook links to guide you. Bookmark learning programs that are most relevant to the direction you’d like to grow.
+1. What accomplishments would you like to achieve to help you reach your career objectives?
+1. How will you know that you have been successful?  
 
-**Tip: If you can’t find resources internally, refer to the Growth and Development Benefit to cover university programs, coding classes, external certifications, and more.**
 
-# Section 3: Set Specific Goals
+A few examples of how to answer those questions are below:
 
-Done exploring for now? It’s time to populate section 3 of the IGP. Let’s review each column:
+| Example | Accomplishments | Measuring Success |
+| ----- | ------------ | ------------ | 
+| Lateral Career Move | I want to learn more about product management and what types of skills are needed to pursue product management as a career. | I will know I have been successful if I can clearly articulate whether I am interested in a career in product management in 6 months. |
+| Aspiring Manager | I would like to become a people manager as part of my journey to leading a functional area. | I will know I have been successful if I am managing a team of 3 team members. |
+| IC Growth | I would like to become a technical expert in data integrations. | I will know I have been successful if I am able to lead a data integration project for a key customer account. |
 
-![screenshot of section 3 of the igp](section3.png){: .shadow.medium.center}
 
-| Column | Description |
-| ----- | --------------- |
-| Skill/Behavior | What are you learning? Identify the main skill/behavior that you want to develop. |
-| What resources/support do you need? | List the results of your exploration. Include handbook links, Growth and Development benefit issues, self-paced course names, etc. |
-| How will this support your career goals? | How will this make you a better team member? How will it contribute to your ability to do your job and live our CREDIT values? |
-| List 1-2 measurable and achievable action steps | Get specific here. Do you need to sign up or apply? Set aside time to learn? Is there a deadline? Clarify all necessary steps. |
-| How will you engage your network? | Plan to share what you  learn. Will you post on LinkedIn, present to your team, or share with your coach/mentor? |
-| Anticipated Challenges | Get ahead of challenges for greater support. Will it be hard to find time? Do you need accountability support? |
+# Set Developpment Goals
 
-# Section 4: Track, Reflect, and Iterate
+Now that you set your intention, it’s time to set specific development goals to help you reach your career objectives. Team member’s should focus on setting 1-3 development goals per review period to help them reach their overall career goals. 
 
-The IGP is a dynamic, living document. To make the most of your IGP, we’ve made suggestions about how and when you might reference, reflect, and iterate on your goals. Review them and set calendar reminders where appropriate so you don’t forget to revisit your IGP. Check them off directly in the IGP as you complete each piece.
+When setting your development goals, try to make your goals specific.  Think about and include details such as:
 
-![screenshot of section 4 of the igp](section4.png){: .shadow.medium.center}
+1. What resources or support will you need?
+1. How will this support your career goals?
+1. What actionable steps will you take to reach your goal?
+1. How will you engage your network?
+1. What challenges do you anticipate?
 
-# Get Inspired
+Think creatively about your development goals, focusing on the [70-20-10 rule for development](/handbook/people-group/learning-and-development/career-development/#70-20-10-rule-for-development). 
 
-Review these example IGPs for ideas and inspiration:
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 75.93%; padding-top: 0; height: 0;"><iframe frameborder="0" width="300" height="250" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/62fd2aa9021efd0018b7c8eb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
-1. [IC growing in your role](https://docs.google.com/document/d/19griy2U2nXxpNPfbrGeQn_LTazAE62osgyGmExLbYlY/edit)
-1. [Aspiring Manager (IC to manager)](https://docs.google.com/document/d/1-osaABt5dsS9GO7Wm-USohcyiSuS2BXAru-kf9K6ItA/edit)
-1. [People Manager growth (within role and to senior+ roles)](https://docs.google.com/document/d/1jP3qPN69otQ8fXI1LXfvnjgO-Prq_rODux6sLXygrQ4/edit)
-1. [Lateral Growth/Career Transition (new team or division)](https://docs.google.com/document/d/1grTPbWxFHDcfskAEI23t4EUV1UoW1sJQgxNE4LTfD6k/edit)
+If you need ideas or help finding development opportunities, [access this repository](/handbook/people-group/learning-and-development/career-development/#directory) of resources, programs, and learning platforms. Explore the directory of handbook links to guide you. Bookmark learning programs that are most relevant to the direction you’d like to grow.
+
+**Tip: If you can’t find resources internally, refer to the Growth and Development Benefit to cover university programs, coding classes, external certifications, coaching programs, and more.**
+
+# Track, Reflect, and Iterate
+
+The IGP is a dynamic tool to help support your growth and development. Workday will send a reminder for you to review and re-launch your IGP 6 months after your manager provides input. You can also set calendar reminders where appropriate so you don’t forget to revisit your IGP. [Update your development goals](https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit#heading=h.wje1pky1vhig) directly in Workday as you make progress against each one. Below are suggestions regarding how and when you might reference, reflect, and iterate on your goals and IGP:
+
+1. Select a format to track your progress. Consider [these examples](/handbook/people-group/learning-and-development/career-development/#tracking-your-progress).
+1. Have at least one quarterly [career conversation](/handbook/people-group/learning-and-development/career-development/#having-career-conversations) with your manager during a 1:1.
+1. Review your IGP before completing the [Engagement Survey](/handbook/people-group/engagement/#cultureamp-engagement-survey-overview) to incorporate in your feedback on career growth.
+1. Review before engaging in the [360 feedback program](/handbook/people-group/360-feedback/). Ask for feedback on your specific development areas.
+1. Include your lessons learned and growth opportunities in your [Talent Assessments](/handbook/people-group/talent-assessment/).
+
+Below is a sample timeline that you may want to follow when it comes to tracking,reflecting and iterating on your IGP, aligning with each half of the fiscal year. 
+
+| Months | Activity | Resource |
+| ----- | ------------ | ------------ | 
+| February | IGP Review/Iteration | [Workday User Guide - How to: Launch an Individual Growth Plan](https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit#heading=h.4zqq3z25qo1i) |
+| March - July | Update your development goals as you make progress | [Workday User Guide - How to: Update Your Development Goals](https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit#heading=h.wje1pky1vhig) |
+| August | IGP Review/Iteration | [Workday User Guide - How to: Launch an Individual Growth Plan](https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit#heading=h.4zqq3z25qo1i) |
+| September - January | Update your development goals as you make progress | [Workday User Guide - How to: Update Your Development Goals](https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit#heading=h.wje1pky1vhig) |
 
 
 # Additional Resources
