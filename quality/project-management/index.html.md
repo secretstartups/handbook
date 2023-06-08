@@ -28,7 +28,6 @@ The Quality team currently works cross-functionally and our task ownership spans
     - [Quality team tasks](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks)
     - [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops)
     - [Quality toolbox](https://gitlab.com/gitlab-org/quality/toolbox)
-    - [Nightly tests](https://gitlab.com/gitlab-org/quality/nightly)
     - [Staging tests](https://gitlab.com/gitlab-org/quality/staging)
     - [Canary test pipeline](https://gitlab.com/gitlab-org/quality/canary)
     - [Production test pipeline](https://gitlab.com/gitlab-org/quality/production)
@@ -168,7 +167,5 @@ This also ensures that the data rolled up to the top level board is consistent.
     - [Quality Tasks](https://gitlab.com/gitlab-org/quality/team-tasks) Roadmap and initiative planning
       - [`Roadmaps`](https://gitlab.com/gitlab-org/quality/team-tasks/boards/548459)
       - [`Initiatives`](https://gitlab.com/gitlab-org/quality/team-tasks/boards/793708)
-    - [Nightlies](https://gitlab.com/gitlab-org/quality/nightly)
-      - Use the [default board](https://gitlab.com/gitlab-org/quality/nightly/boards)
     - [Staging](https://gitlab.com/gitlab-org/quality/staging)
       - Use the [default board](https://gitlab.com/gitlab-org/quality/staging/boards)
