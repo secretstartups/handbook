@@ -614,53 +614,53 @@ Goals of the Mid-Year check in are:
 * Team members share a cumulative self assessment of their performance against expectations and progress on development goals   
 * Managers respond, and provide their own cumulative update to the team member on how things are going. This should build on the regular performance feedback they should be delivering weekly in 1:1s and ensure no surprises at the end of the year review.
 
-#### Eligibility
+### Eligibility
 
 To participate in the mid-year check in we recommend that team members have at least 3 months of tenure so accomplishments and improvement areas are able to be clearly outlined with examples. As our mid-year review kicks off on 2023-06-12, team members who started _on or before 2023-03-12 would be eligible to participate_. 
 
-#### Process 
+### Process 
 
 Recommended process for our FY'24 Q2 cycle will be as follows:
 
 1. _Team Member Led: Team member provides a self-assessment on their own performance in their [1:1 document](https://about.gitlab.com/handbook/leadership/1-1/)_
 
-Team members can leverage their 1:1 document and should reflect on their achievements, strengths, and opportunity areas since the last formal Talent Assessment in FY'22 Q4. It is the team member’s responsibility to provide the self-assessment and bring it to the conversation with their manager to discuss and align. Documenting in the 1:1 agenda ensures the material is available to come back to throughout the rest of the year.  
+   Team members can leverage their 1:1 document and should reflect on their achievements, strengths, and opportunity areas since the last formal Talent Assessment in FY'22 Q4. It is the team member’s responsibility to provide the self-assessment and bring it to the conversation with their manager to discuss and align. Documenting in the 1:1 agenda ensures the material is available to come back to throughout the rest of the year.  
 
-A recommended agenda for the Mid-Year check-in 1:1 is as follows:
+    A recommended agenda for the Mid-Year check-in 1:1 is as follows:
 
-- **Achievements**
+    - **Achievements**
 
-List your 3 most significant achievements since the last formal [Talent Assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/), aligned with the job responsibilities and expectations of the role. This can include significant impact to the department or company, customer-impact, community-impacting, etc. Feedback can also be included in this section if applicable.
+      List your 3 most significant achievements since the last formal [Talent Assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/), aligned with the job responsibilities and expectations of the role. This can include significant impact to the department or company, customer-impact, community-impacting, etc. Feedback can also be included in this section if applicable.
 
-- **Strengths & Opportunities in Role**
+    - **Strengths & Opportunities in Role**
 
-In this area the goal is to determine 2-3 strengths and 2-3 opportunity areas in accordance with your role, job family, and [job framework](https://about.gitlab.com/company/team/structure/#job-frameworks). Include examples when necessary to provide clarity or context.  Ensure there are actionable takeaways.
+      In this area the goal is to determine 2-3 strengths and 2-3 opportunity areas in accordance with your role, job family, and [job framework](https://about.gitlab.com/company/team/structure/#job-frameworks). Include examples when necessary to provide clarity or context.  Ensure there are actionable takeaways.
 
-- **Support Needed**
+    - **Support Needed**
 
-A place to outline any support needed from your manager for your ongoing success and development at GitLab.
+      A place to outline any support needed from your manager for your ongoing success and development at GitLab.
 
-- **Manager Feedback**
+    - **Manager Feedback**
 
-Managers will provide additional feedback or response to the self-assessment outlined above. Managers should be sure to reference the Achievements (3) and Roles & Responsibilities (Strengths and Opportunities) outlined by the team member above, and to any additional thoughts or feedback (2-3 points).
+      Managers will provide additional feedback or response to the self-assessment outlined above. Managers should be sure to reference the Achievements (3) and Roles & Responsibilities (Strengths and Opportunities) outlined by the team member above, and to any additional thoughts or feedback (2-3 points).
 
-- **Next Steps**
+    - **Next Steps**
 
-A space for the team member and manager to document any relevant next steps stemming from this conversation. This could be a full [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) or a couple of key actions or development opportunities for the individual. 
+      A space for the team member and manager to document any relevant next steps stemming from this conversation. This could be a full [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) or a couple of key actions or development opportunities for the individual. 
 
 2. _Manager Feedback: Team members let their manager know when they have provided their self-assessment overview in their [1:1 document](https://about.gitlab.com/handbook/leadership/1-1/)_
 
-Team members should share their Mid-Year Check In document with their manager at least one week prior to the live discussion to ensure managers have time to review the content, and to add in their own feedback in the `Manager Feedback` section.
+   Team members should share their Mid-Year Check In document with their manager at least one week prior to the live discussion to ensure managers have time to review the content, and to add in their own feedback in the `Manager Feedback` section.
 
 3. _Live Discussion_
 
-Team members and managers use a dedicated 1:1 to discuss the Mid Year check in.
+   Team members and managers use a dedicated 1:1 to discuss the Mid Year check in.
 
 4. _Align on actions/next steps_
 
-Team member and manager align on action items stemming from the conversation to best support team member development and alignment to their goals. You are encourage to leverage our [Career Development and Mobility](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) handbook page for ideas and inspiration. 
+   Team member and manager align on action items stemming from the conversation to best support team member development and alignment to their goals. You are encourage to leverage our [Career Development and Mobility](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) handbook page for ideas and inspiration. 
 
-#### Timeline
+### Timeline
 
 Mid-Year Check In launch: 
 - 2023-06-12
