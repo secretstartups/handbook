@@ -55,7 +55,7 @@ A BIA is initiated as the result of TPRMs process for net new systems (guided by
       1. Search for and select the 'Business Impact Analysis (BIA)' questionnaire template
       1. Populate the Recipient Details section. The Recipient is "Internal" (input name/GitLab email of one Business/Technical Owner only). 
       1. Search for and select the 'BIA Questionnaire (New System)' email template
-      1. Update the Title/Subject, Greeting, Message body, Reply-To email, and Due Date accordingly.  Target completion of the BIA Questionnaire is two weeks.
+      1. Update the Title/Subject, Greeting, Message body, CC and Reply-To @securityrisk@gitlab.com, and Due Date accordingly.  Target completion of the BIA Questionnaire is two weeks.
       1. Click 'Review' > 'Submit' when ready
       1. Map the appropriate System Object to the BIA Questionnaire by clicking the pencil icon in the 'map:system' column.
 
