@@ -68,8 +68,8 @@ Once you have the compiled audio:
 #### Update the legacy SWIR Gdoc
 
 1. Copy the contents of the Digest issue starting from below the TOC
-1. Paste it into the legacy SWIR doc
-1. Manually add the date and phraes of the week as a level 1 heading
+1. Paste it into the [legacy SWIR doc](https://drive.google.com/drive/u/0/search?q=support%20week%20in%20review%20SWIR)
+1. Manually add the date and phrase of the week as a level 1 heading
 1. Manually paste in the metrics graph
 
 #### Prepare SWIR for the next week
