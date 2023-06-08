@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Product Usage Data"
+title: "Customer Product Usage Information"
 description: "GitLab's Product Usage Data policies"
 ---
 
@@ -12,7 +12,7 @@ description: "GitLab's Product Usage Data policies"
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-# Product Usage Data
+# Customer Product Usage Information
 ## Overview
 GitLab is committed to providing value and functionality through our free, open-source software and paid offerings (collectively, the “Software”). In order to continue innovating and supporting our growing user base, it is helpful to have in-depth knowledge of how our users are utilizing the Software, which we collect as certain metrics generated through a customer or a users’ use of the Software (“Metrics”).  To achieve the foregoing, GitLab collects information about how the features and functionality of the Software are used at an instance, namespace, or user level.
 
