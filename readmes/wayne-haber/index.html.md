@@ -94,17 +94,6 @@ Please be an [accountability partner](https://medium.com/@MaryLouWrites/accounta
 * When I make requests or ask questions, always include the priority and expected time frames 
 * Use my [standing desk](https://www.webmd.com/fitness-exercise/standing-desks-help-beat-inactivity) at least two hours a day.
 
-# 2023 Q1 OKRs
-
-[OKR Search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=wayne&type%5B%5D=objective&milestone_title=FY24-Q1&first_page_size=20)
-
-Themes:
-* Application health: Error budgets, Rails upgrade, Vue upgrade, Improve observability
-* Team member career growth: Training, Yearly assessment followup, Complete Best In Class (BIC) gap analysis
-* Mature the Platform to be the leading DevSecOps platform: Use GitLab for OKRs, Team MR rate
-* Increase revenue by growing a customer result mindset and delivering results: Key secure/govern/data science feature delivery, Reduce customer facing bugs, Stay ahead of SLA on security issues
-
-
 # 2023 Q2 OKRs
 
 [OKR Search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=wayne&type%5B%5D=objective&milestone_title=FY24-Q2&first_page_size=20)
