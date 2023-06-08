@@ -141,24 +141,14 @@ Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://
 
 ### Individual Growth Plan 
 
-The [Individual Growth Plan (IGP)](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) is a tool to help you, the DRI of your career, plan and action on your career growth. It's a dynamic, customizable template that is meant to adapt based on your specific goals. Think of the IGP template as a starting place, where you have the freedom to add and subtract sections that do and don't serve you.
+The Individual Growth Plan (IGP) is a tool to help you, the DRI of your career, plan and action on your career growth. It's a template to guide you through career goal setting and action planning. Think of the IGP template as a starting place, where you have the freedom to answer and dive deeper on sections that help spark your interest and think differently about your career development.
 
 The IGP can help with:
 
-1. Setting and acheving learning goals
+1. Setting and achieving learning goals
 1. Keeping learning plans organized in one easy to share place that is used company wide
 1. Preparing for promotions
 1. Preparing for career transitions
-Looking at example IGPs from team members can give you ideas to start your own. Check out a few of the examples we have below:
-
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="https://docs.google.com/document/d/19griy2U2nXxpNPfbrGeQn_LTazAE62osgyGmExLbYlY/edit" class="btn btn-purple" style="width:250px;margin:5px;">Individual Contributor</a>
-    <a href="https://docs.google.com/document/d/1-osaABt5dsS9GO7Wm-USohcyiSuS2BXAru-kf9K6ItA/edit" class="btn btn-purple" style="width:250px;margin:5px;">Aspiring Managers</a>
-    <a href="https://docs.google.com/document/d/1jP3qPN69otQ8fXI1LXfvnjgO-Prq_rODux6sLXygrQ4/edit" class="btn btn-purple" style="width:250px;margin:5px;">People Leaders</a>
-    <a href="https://docs.google.com/document/d/1grTPbWxFHDcfskAEI23t4EUV1UoW1sJQgxNE4LTfD6k/edit" class="btn btn-purple" style="width:250px;margin:5px;">Lateral Growth</a>
-  </div>
-</div>
 
 Looking for a step-by-step guide on filling out the IGP? Use the resources below:
 
@@ -166,10 +156,11 @@ Looking for a step-by-step guide on filling out the IGP? Use the resources below
   <div>
     <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/igp" class="btn btn-purple" style="width:275px;margin:5px;">Short Course: How to use the IGP</a>
     <a href="/handbook/people-group/learning-and-development/career-development/igp-guide" class="btn btn-purple" style="width:275px;margin:5px;"> Handbook: The GitLab IGP Guide </a>
+    <a href="https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit#" class="btn btn-purple" style="width:275px;margin:5px;">Workday User Guide: Individual Growth Plans</a>
   </div>
 </div>
 
-Watch: interivew with a GitLab team member who's used the Individual Growth Plan to plan a career transition at GitLab. 
+Watch: interview with a GitLab team member who's used the Individual Growth Plan to plan a career transition at GitLab. 
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/0ih0lMoKxN0" frameborder="0" allowfullscreen="true"> </iframe>
@@ -178,11 +169,11 @@ Watch: interivew with a GitLab team member who's used the Individual Growth Plan
 
 #### Start your IGP
 
-1. Make a copy of the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) + save to your drive
-1. Fill out the template. Refer to the [job frameworks](/company/team/structure/#job-frameworks) and your job family to determine a skill and behavior focus. Embrace flexibility in the template to make the IGP work for you. Give yourself time to think, plan, and fill out your IGP. Set learning blocks over the next 1-2 weeks rather than completing the IGP in one sitting.
-1. Share your IGP with your manager. Schedule a career conversation with your manager and review your IGP in your next 1:1 or at a separate time.
+1. Launch your Individual Growth Plan in Workday: [User Guide Here](https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit)
+1. Fill out the IGP in Workday. Refer to the [job frameworks](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=0) and your [job family](https://handbook.gitlab.com/job-families/) to determine a skill and behavior focus. Give yourself time to think, plan, and fill out your IGP. Set learning blocks over the next 1-2 weeks rather than completing the IGP in one sitting.
+1. Submit your IGP to your manager. Schedule a career conversation with your manager and review your IGP in your next 1:1 or at a separate time.
 1. Make a plan that integrates working on your IGP during the flow of work by setting aside weekly or monthly time dedicated to learning. Block these times on your calendar.
-1. Choose a method to track your progress. The IGP itself might work for you, but if you need more structure, consider using [GitLab Epics + Issues](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development) or a [health tracker in Google Sheets](/handbook/people-group/learning-and-development/career-development/#health-tracker-growth-plan).
+1. Update progress against your development goals. The IGP and [development goals in Workday](https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit#heading=h.wje1pky1vhig) itself might work well for you, but if you need more structure, consider using [GitLab Epics + Issues](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development) or a [health tracker in Google Sheets](/handbook/people-group/learning-and-development/career-development/#health-tracker-growth-plan).
 
 ### Tracking your Progress
 
