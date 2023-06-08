@@ -61,3 +61,4 @@ Progress will be tracked on the Working Group [issue board](https://gitlab.com/g
 | Member             | Chun Du               | Director of Engineering, Enablement     |
 | Member             | Thomas Woodham        | Senior Engineering Manager, Secure      |
 | Member             | Ross Fuhrman          | Senior Backend                          |
+| Memeber            | Patrick Bajao         | Senior Backend Engineer, Create         |
