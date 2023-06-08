@@ -25,6 +25,9 @@ we do for WebDirect or Sales Assisted purchases. Note the following for a custom
 
 ### Identifying whether a customer purchased through reseller
 
+Zuora is the single source of truth for whether a purchase was made via a reseller, however this information can be viewed via either Zuora or SalesForce. Authorised resellers are listed on the [GitLab Partner directory](https://partners.gitlab.com/English/directory/).
+
+#### Via Zuora
 Check if a subscription was purchased through a reseller by locating the `Invoice Owner` in the customer account on Zuora.
 
 1. [Searching for the customer account in Zuora](https://drive.google.com/file/d/1c7ChL7iCp9nYByBttX_RvWTrOxkVcDAn/view?t=2m09s)
@@ -32,6 +35,12 @@ Check if a subscription was purchased through a reseller by locating the `Invoic
 1. The reseller should be listed in the `Invoice Owner` field in the subscription page
 
 Note:  Sometimes you can also see Partners section in the end-user's SFDC account.
+#### Via Salesforce
+
+1. Open a quote that has its `Status` set as `Sent to Z-Billing` for an opportunity
+1. Wait for the Zuora iframe to load
+1. If the subscription was purchased via a reseller, the GitLab partner details will be listed in the iframe table under the **Customer Account Details** section as the **Resale Partner**.
+   - The **Resale Partner** may also be listed in the **Required Approvals From VP of Channel** notes.
 
 ### Requests to update end-user contact information
 
