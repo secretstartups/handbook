@@ -56,17 +56,18 @@ Currently, our frontend development guidelines only document features and practi
 
 ### Roles and Responsibilities
 
-| Working Group Role | Person                | Title                                               |
-| ------------------ | --------------------- | --------------------------------------------------- |
-| Executive Sponsor  | Christopher Lefelhocz | VP of Development (Delegating to Tim Zallmann)      |
-| Executive Sponsor  | Tim Zallmann          | Senior Director of Engineering                      |
-| Facilitator        | Donald Cook           | Engineering Manager, Plan:Project Management        |
-| Functional Lead    | Natalia Tepluhina     | Principal Engineer, Plan                            |
-| Member             | Vitaly Slobodin       | Staff Frontend Engineer, Fulfillment                |
-| Member             | Paul Slaughter        | Staff Frontend Engineer, Create:IDE              |
-| Member             | Mark Florian          | Senior Frontend Engineer, Ecosystem:Foundations     |
-| Member             | Lukas Eipert          | Senior Frontend Engineer, Ecosystem:Foundations     |
-| Member             | Frédéric Caplette     | Senior Frontend Engineer, Verify:Pipeline Authoring |
-| Member             | Andrei Zubov          | Senior Frontend Engineer, Release                   |
-| Member             | Stanislav Lashmanov   | Senior Frontend Engineer, Create:Source Code        |
-| Member             | Florie Guibert        | Senior Frontend Engineer, Plan:Product planning     |
+| Working Group Role | Person                   | Title                                               |
+| ------------------ | ------------------------ | --------------------------------------------------- |
+| Executive Sponsor  | Christopher Lefelhocz    | VP of Development (Delegating to Tim Zallmann)      |
+| Executive Sponsor  | Tim Zallmann             | Senior Director of Engineering                      |
+| Facilitator        | Donald Cook              | Engineering Manager, Plan:Project Management        |
+| Functional Lead    | Natalia Tepluhina        | Principal Engineer, Plan                            |
+| Member             | Vitaly Slobodin          | Staff Frontend Engineer, Fulfillment                |
+| Member             | Paul Slaughter           | Staff Frontend Engineer, Create:IDE                 |
+| Member             | Mark Florian             | Staff Frontend Engineer, Manage:Foundations         |
+| Member             | Lukas Eipert             | Senior Frontend Engineer, Manage:Foundations        |
+| Member             | Frédéric Caplette        | Senior Frontend Engineer, Verify:Pipeline Authoring |
+| Member             | Andrei Zubov             | Senior Frontend Engineer, Release                   |
+| Member             | Stanislav Lashmanov      | Senior Frontend Engineer, Create:Source Code        |
+| Member             | Florie Guibert           | Senior Frontend Engineer, Plan:Product planning     |
+| Member             | Paul Gascou-Vaillancourt | Senior Frontend Engineer, Manage:Foundations        |
