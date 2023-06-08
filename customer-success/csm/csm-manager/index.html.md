@@ -51,13 +51,13 @@ This page provides an overview on relevant CSM leadership processes.
 </thead>
 <tbody>
   <tr>
-    <td>Account Reviews in 1:1s</td>
-    <td><ul><li>As a CSM Manager, it is our responsibility to ensure that the CSM requirements per CSM are reviewed with the CSM on a regular cadence, with coaching and guidance on overcoming objections and challenges offered where needed</li><li>The structure of 1:1s is to follow the <a href="/handbook/customer-success/csm/csm-manager/#gainsightcustomer-review-in-directorcsm-manager-11-cadence">documented 1:1 cadence</a>. The manager updates their manager one week later, ensuring that successes and challenges are shared in a programmatic way across the leadership team</li><li>In order to review the customer portfolio with a CSM and also have time for CSM agenda items, it is highly recommended that 1:1s are 45-60 minutes in length</li></ul></td>
-    <td>Accounts are reviewed with CSMs on a weekly basis.</td>
+    <td>Account Reviews in 1:1s (weekly)</td>
+    <td><ul><li>Review CSM responsibilities, provide coaching and guidance on overcoming objections and challenges where needed</li><li>The structure of 1:1s generally follows the <a href="/handbook/customer-success/csm/csm-manager/#gainsightcustomer-review-in-directorcsm-manager-11-cadence">documented 1:1 cadence</a>. The manager updates their manager one week later, ensuring that successes and challenges are shared in a programmatic way across the leadership team</li><li>It is recommended that 1:1s are 45-60 minutes to adequately cover all agenda items</li></ul></td>
+    <td>CSM/Manager shows a knowledgeable understanding of their book of business, and competency in CSM motion</td>
   </tr>
   <tr>
     <td>Reviews &amp; Coaching</td>
-    <td><ul><li>It is important that the CSM manager is actively coaching their CSMs on the above requirements</li><li>Managers are encouraged to set time aside to review upcoming call agendas, open playbooks and recently closed playbooks, account health, success plans and at-risk customers for coaching opportunities - see below for more detail on these reviews</li></ul></td>
+    <td><ul><li>It is important that the CSM manager is actively coaching their CSMs on the above requirements</li><li>Managers are encouraged to set time aside to review upcoming Customer call agendas, success plans, workshops and account health for coaching opportunities - see below for more detail on these reviews</li></ul></td>
     <td>Managers follow the <a href="/handbook/customer-success/csm/csm-manager/#customer-onboarding-review">review guidelines documented</a>, review outside of the 1:1 </td>
   </tr>
   <tr>
@@ -66,8 +66,8 @@ This page provides an overview on relevant CSM leadership processes.
     <td>1-2 calls per week (total) from Chorus for their team.</td>
   </tr>
   <tr>
-    <td>Team development</td>
-    <td><ul><li>Once per quarter, the manager schedules an additional 1-hour sync with their team member to discuss their IDP and progress/obstacles</li><li>The CSM is responsible for building and maintaining this document in partnership with their manager</li><li>When a CSM is working towards a promotion, the promotion doc is built and collaborated on in partnership between the CSM and CSM manager. It is the manager’s role to ensure the areas the CSM needs to work on in order to move towards the promotion are clear and articulated with the CSM</li></ul></td>
+    <td>Team development (quarterly)</td>
+    <td><ul><li>The manager schedules an additional 1-hour sync to discuss their IDP and progress/obstacles</li><li>The CSM is responsible for building and maintaining this document in partnership with their manager</li><li>When a CSM is working towards a promotion, the promotion doc is built and collaborated on in partnership between the CSM and CSM manager. It is the manager’s role to ensure the areas the CSM needs to develop to move towards the promotion are clear and articulated</li></ul></td>
     <td>An active IDP in place for every team member, reviewed on a quarterly basis</td>
   </tr>
   <tr>
@@ -156,16 +156,21 @@ The CSM Manager should then work with their team to help the CSM drive up and de
 
 ### Health Review and At-Risk Customers
 
-On at least a monthly basis, review accounts within your region for upcoming one-one-ones and the team at-risk call. This includes reviewing:
+On at least a monthly basis, review accounts within your region in preparation for a biweekly **At-Risk** call. This includes reviewing:
 
-1. Gainsight region dashboard for unhealthy accounts
-   1. Red accounts to inquire about in upcoming one-on-ones
-   1. Outdated customer health reviews to discuss in upcoming one-on-ones
-1. Salesforce reporting for current quarter, next quarter and all-time risk 
+1. Gainsight dashboards for unhealthy accounts
+   1. SFDC Reports on red accounts
+   1. Gainsight at-risk comments per account 
+
+Details for all at-risk account should be captured in Gainsight using an `At-Risk Update` timeline entry. These updates are synced to Salesforce, and reports used to review at-risk accounts draw on these updates.
 
 #### At-Risk Resources
 
-- Gainsight Dashboard - **At-Risk Dashboard**
+Generally triage commentary now is recorded by the CSM/Manager in the account timeline in Gainsight, however the CSM may create a Triage issue for broader collaboration across the account team:
+- Gainsight Dashboard - **CSM Portfolio** or **CS Leadership**
+- [Account Triage Handbook](/handbook/customer-success/csm/health-score-triage/)
+- [Account Triage Board](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
+
 
 #### At-Risk Review Meetings
 
@@ -204,36 +209,34 @@ The CSM Manager is responsible for developing and delivering a [Quarterly Busine
 
 [CSM Manager QBR details](/handbook/customer-success/csm/csm-manager/qbr/)
 
-- Gainsight Dashboard - **CSM Portfolio** or **CS Leadership**
-- [SFDC: WW Renewal Forecast](https://gitlab.my.salesforce.com/00O4M000004aARC)
-
 ## Gainsight/Customer Review in Director/CSM Manager 1:1 Cadence
 
-This cadence is used by CSM managers in their weekly 1:1 with their direct manager (Director or Vice President).
+This is a suggested cadence that can be used by regional CSM managers in their weekly 1:1s with the CSM VP, and additionally used for other CSM Manager 1:1 meetings
 
 `1st week` is defined as the first **full** week of the month.
 
-1st week: 
-1. Onboarding Metrics, Overdue onboarding (burn-down) EBRs overdue, Engagement/Cadence Calls overdue (focus on PR1)
-1. Development: Personal Growth Plan
-1. Recruiting update: open headcount hiring status, quality and pipeline
-1. Discussion
+
+1st week:
+1. KPIs: nARR, renewal rate (async)
+1. Team: Hiring, Career Dev, Risk
+1. Customers: Escalations & Risk. SFDC Report: **At-Risk Customers**
 
 2nd week:
-1. Success Plan Review (2 SPs)
-1. Upcoming At-Risk Renewals (Contractions, Churn, for rolling 90 days)
-1. OKR /Big Rock initiatives progress
-1. Discussion
+1. KPIs: nARR, renewal rate (async)
+1. Top 50 customer reveiw. Tableau Report, OR Gainsight Dashboard - **Customer Health** sort by ARR
+1. OKR / Big Rock initiatives progress
 
 3rd week:
-1. Adoption Risk (Red DevSecOps, Low License)
-1. Recruiting update: open headcount hiring status, quality and pipeline
-1. Discussion
+1. KPIs: nARR, renewal rate (async)
+1. Team: Hiring, Career Dev, Risk
+1. Customers: Escalations & Risk. SFDC Report - **At-Risk Customers**
 
 4th week:
-1. Renewals, At Risk Accounts, Red Scorecards
-1. OKR /Big Rock initiatives progress
-1. Discussion
+1. KPIs: nARR, renewal rate (async)
+1. Ultimate Customers. Sisence dashboard OR Gainsight Dashboard - **Use Case Adoption**  
+   1. Purchased last Qtr
+   1. By ARR
+1. OKR / Big Rock initiatives progress
 
 
 
@@ -241,23 +244,29 @@ This cadence is used by CSM managers in their weekly 1:1 with their direct manag
 
 ### President's Club Calculations
 
-The following process is that used to calculate the President's Club Performance: 
+The following process is that used to calculate the President's Club Performance (FY24): 
+
+CSM must have been in a commissionable role since beginning of Q3
+
+#### CSM Nomination Criteria (equally weighted):
+
+1. % of Accounts with manager-validated Green Success Plans (Based on accounts >30 days from onboarding start date)
+1. % per CSM attainment to targets laid out in FY24 comp. plans: Net ARR & Renewal rate.
+
+#### CSE Nomination Criteria (equally weighted):
+
+1. % attainment of CSE customer calls to target 
+1. % per CSE attainment to targets laid out in FY24 comp. plans: Net ARR & Renewal rate.
 
 
+#### Scoring Process for each of the categories:
+1. 1st place in the team: 50 points
+1. 2nd place in the team: 35 points
+1. 3rd place in the team: 15 points
 
-#### Nomination Criteria (equally weighted):
+#### People Manager Criteria:
 
-1. % Contribution to Net ARR bookings (growth).  The calculation calls for tallying the netARR for closed opps in which the CSM is assigned.  Then dividing that by the ending ARR managed by the CSM.
-1. % of Accounts with EBRs completed
-1. % of Accounts with Green Success Plans (Based on accounts >30 days from onboarding start date)
-1. % of Accounts with Closed-Won Use Case/Stage Adoption Plays (Expansion, Enablement) in past 12 months
-1. Total number of workshops delivered where a workshop is defined as a specifically scheduled event in which the CSM presents enablement content/information.
-
-
-#### Scoring Process for each of the 4 categories:
-1. 1st place: 50 points
-1. 2nd place: 35 points
-1. 3rd place: 15 points
+1. CSM/CS Leadership discretion based on GitLab values, and is at the discretion of CS leadership.
 
 #### Conditions:
 1. No points for anything following top 3 positions unless there are multiple CSMs with 100% (success plans for example), in which case each CSM scoring 100% would receive 50 points
