@@ -200,7 +200,7 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 
 
 ## Segmentation of BDR Team
-The Business Development team aligns to the [Commercial](/handbook/sales/commercial/),Large, and PubSec sales teams. These teams are broken down into three segments: [Large, Mid-Market and SMB](/handbook/sales/field-operations/gtm-resources/#segmentation) which are based on the total employee count of the Global account. *Note: The commercial sales team includes both Mid-Market and SMB. This segmentation allows BDRs and Sales to be focused in their approach and messaging. The segments are aligned to a region/vertical and then divided one step further via territories in the regions. Our single source of truth for determining the number of employees is Zoominfo.
+The Business Development team aligns to the [Commercial](/handbook/sales/commercial/), Large, and PubSec sales teams. These teams are broken down into three segments: [Large, Mid-Market and SMB](/handbook/sales/field-operations/gtm-resources/#segmentation) which are based on the total employee count of the Global account. *Note: The commercial sales team includes both Mid-Market and SMB. This segmentation allows BDRs and Sales to be focused in their approach and messaging. The segments are aligned to a region/vertical and then divided one step further via territories in the regions. Our single source of truth for determining the number of employees is Zoominfo.
 * [Sales segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 * Sales territories(Link to Come)
 * [Determining if a lead is in your territory](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
