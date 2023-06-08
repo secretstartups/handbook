@@ -44,6 +44,7 @@ If you need an `NDA`, you can find more information on obtaining one [here](http
 
 Please review [our SLAs](/handbook/security/security-assurance/field-security/customer-security-assessment-process.html#service-level-agreements) regarding the timelines for each type of customer assurance activity.
 
+For any **financial information**, please use the [Sales Team New Customer Form Resources](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Sales%20Team%20New%20Customer%20Form%20Resources) which has all the relevant information inclding banking information for all GitLab entities. Also review the [investor relations](https://ir.gitlab.com/) page for filings and financial results data.
 
 
 ### Participants
