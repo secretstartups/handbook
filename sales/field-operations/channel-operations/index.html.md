@@ -874,6 +874,9 @@ Once all required information is submitted, the request  will be routed internal
 ### IBM (OEM) Partner Requests & QTC Process
 See [IBM (OEM) Partner Requests & QTC Process](https://docs.google.com/document/d/1m9oh62xnJrPCoYBfz_V3Z5eBttUlXXQw7lqS2BOIHwY/edit#heading=h.o9px8kwapw3d) for a step-by-step guide of the IBM (OEM) Quote to Cash process. 
 
+### Consulting Partner Private Offers (CPPO)
+For more information on our AWS CPPO Pilot Program, please reference the following [program guide.](https://docs.google.com/document/d/1cH0pJP6xaY0I-Fxra212VjYwn_MvNTH1hHOtkhGVC-4/edit#heading=h.lpzn62rdfa90)
+
 ## Compensation on Channel Opportunities
 The executed compensation letter should be the approved and legal source of truth for compensation. However please use the following resources to assist in clarification or exceptions.
 
