@@ -61,7 +61,7 @@ Examples of each data type: [See Data Classification Index](https://docs.google.
 Restricted and must remain confidential. This is GitLab’s most sensitive data and access to it should be considered privileged and must be explicitly approved. Exposure of this data to unauthorized parties could cause extreme loss to GitLab and/or its customers. In the gravest scenario, exposure of this data could trigger or cause a business extinction event. 
 
 Examples include:
-* Customer Data
+* Customer Data (see definition above in the [Data Classification Definitions section](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-definitions))
 * Vector embeddings derived from red data
 
 #### ORANGE
