@@ -14,7 +14,7 @@ description: Guidelines for investigating end-to-end test pipeline failures
 
 These guidelines are intended to help you to investigate [end-to-end test](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/index.html) pipeline failures so that they can be properly addressed. This will involve analyzing each failure and creating an issue to report it. It might also involve [fixing tests](#fixing-the-test), [putting them in quarantine](#quarantining-tests), or [reporting bugs in the application](#bug-in-the-application).
 
-The Pipeline triage [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for analyzing and debugging test pipeline failures. Please refer to the [Quality Department pipeline triage rotation schedule](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#schedule) to know who the current DRI is.
+The Pipeline triage [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for analyzing and debugging test pipeline failures. Please refer to the [DRI weekly rotation schedule](https://gitlab.com/gitlab-org/quality/pipeline-triage#dri-weekly-rotation-schedule) to know who the current DRIs are.
 
 ### General guidelines
 
@@ -22,11 +22,12 @@ The Pipeline triage [DRI](https://about.gitlab.com/handbook/people-group/directl
 - **Follow the [pipeline triage guidelines](#how-to-triage-a-qa-test-pipeline-failure) for investigating, reporting, and resolving test failures**
 - **Flaky tests are quarantined until proven stable**: A flaky test is as bad as no tests or in some cases worse due to the effort required to fix or even re-write the test.
 As soon as detected it is quarantined immediately to stabilize CI, and then fixed as soon as possible, and monitored until it is fixed.
-- **Close issue when the test is moved out of quarantine**: Quarantine issues should not be closed unless tests are moved out of quarantine.
-- **Quarantine issues should be assigned and scheduled**: To ensure that someone is owning the issue, it should be assigned with a milestone set.
-- **Make relevant stage group aware**: When a test fails no matter the reason, an issue should be created and made known to the relevant product stage group as soon as possible.
+- **Close test failure issue (e.g example [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/412769)) when the test is moved out of quarantine**: Quarantine issues should not be closed unless tests are moved out of quarantine.
+- **Quarantine issues should be assigned and scheduled**: To ensure that someone is owning the issue, it should be assigned with a milestone set and have appropriate `~"quarantine"`, quarantine with type (e.g. `~"quarantine::bug"`) and failure with type (e.g. `~"failure::bug"`) labels.
+- **Make relevant stage group aware**: When a test fails no matter the reason, an issue with related product group label (e.g. `~"group::ide"`) should be created and made known to the relevant product stage group as soon as possible.
 In addition to notifying that a test in their domain fails, enlist help from the group as necessary.
-- **Failure due to bug**: If a test failure is a result of a bug, link the failure to the bug issue. It should be fixed as soon as possible.
+- **Failure due to bug**: If one or multiple test failure(s) is a result of a bug, create a bug issue and provide as much details as possible (e.g. using issue's Bug template, provide steps to reproduce, relevant screenshots, etc.). Link the **all** related test failure issues to the bug issue. Apply `~"type::bug"`, severity, priority, product group, feature category, etc. labels to ensure a fix is scheduled in a timely manner.
+Test failure issues are used for tracking and investigating purposes, they should not have `~"type::bug"` label. If the test failure is a result of a bug, apply `~"failure::bug"` label instead.
 - **Everyone can fix a test, the responsibility falls on the last who worked on it**: Anyone can fix a failing/flaky test, but to ensure that a quarantined test isn't ignored,
 the last engineer who worked on the test is responsible for taking it out of [quarantine](https://gitlab.com/gitlab-org/gitlab/blob/master/qa/README.md#quarantined-tests).
 
@@ -187,10 +188,11 @@ Known failures should be linked to the current [pipeline triage report](https://
 
 1. Search for existing issues that have already been created with the `failure::*` label. By order of likelihood:
     1. [`failure::investigating`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Ainvestigating)
-    1. [`failure::test-environment`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Atest-environment)
-    1. [`failure::broken-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Abroken-test)
-    1. [`failure::flaky-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Aflaky-test)
-    1. [`failure::stale-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Astale-test)
+    2. [`failure::test-environment`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Atest-environment)
+    3. [`failure::broken-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Abroken-test)
+    4. [`failure::flaky-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Aflaky-test)
+    5. [`failure::stale-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Astale-test)
+    6. [`failure::bug`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Abug)
 1. If the issue has already been reported please use the existing issue to track the latest status.
 1. If there is no existing issue for the failure, please create an issue using one of [classification labels](#classify-and-triage-the-test-failure) via the steps below.
 
@@ -213,7 +215,7 @@ Please use this step if there are no issues created to capture the failure. If t
     - For staging environment-related failures, you can post a question in [`#infrastructure-lounge`](https://gitlab.slack.com/archives/CB3LSMEJV), or open an issue in the [infrastructure project](https://gitlab.com/gitlab-com/gl-infra/infrastructure)
     - Ask for help in [`#quality`](https://gitlab.slack.com/archives/C3JJET4Q6) if you're unsure where to file the issue.
 1. In the relevant Slack channel, add the :boom: emoji and reply to the failure notification with a link to the issue.
-1. Add the issue as a related issue to the current pipeline triage report.
+1. Add the issue as a related issue to the current pipeline triage report. If multiple issues are the result of 1 bug, add the bug issue to the report instead.
 
 #### Special considerations for Staging-Canary
 
@@ -503,7 +505,7 @@ We use the following labels to capture the cause of the failure.
 - `~"failure::broken-test"`: [Bug in the test](#bug-in-the-test)
 - `~"failure::flaky-test"`: [Flaky test](#flaky-test)
 - `~"failure::test-environment"`: [Failure due to test environment](#failure-due-to-test-environment)
-- `~"type::bug"`: [Bug in the application](#bug-in-the-application)
+- `~"failure::bug"`: [Bug in the application](#bug-in-the-application)
 
 Bugs blocking end-to-end test execution (due to the resulting quarantined tests) should additionally have severity and priority labels. For guidelines about which to choose, please see the [blocked tests section of the issue triage page](/handbook/engineering/quality/issue-triage/#blocked-tests).
 
@@ -535,15 +537,18 @@ See [Quarantining Tests]
 
 The failure was caused by a bug in the application code.
 
-- Include your findings in a note in the issue about the failure.
+- Apply `~"failure::bug"` label to the test failure issue(s).
+- Create a new issue link all related test failure issue(s) to this issue.
+- Include your findings in a note in the bug issue about the failure.
 - Add the steps to reproduce the bug and expected/actual behavior.
 - Apply the `~"type::bug"` label, and cc-ing the corresponding Engineering Managers (EM), QEM, and SET.
+- Apply the `~"found by e2e test"` label to the bug issue to indicate the bug was found by the end-to-end test execution.
 - If the problem adheres to the definition of a [transient bug](/handbook/engineering/quality/issue-triage/#transient-bugs), apply the ~"bug::transient" label as well.
-- Apply the `~"found by e2e test"` label to the bug to indicate the bug was found by the end-to-end test execution.
-- If there is an issue open already for the bug, mark the new issue as a duplicate of the original bug and apply the `~"found by e2e test"` label to the original.
+- If there is an issue open already for the bug, use this issue instead and apply the above steps.
 - Communicate the issue in the corresponding Slack channels.
-- Do _not_ [quarantine][quarantining tests] the test immediately unless the bug won't be fixed quickly (e.g. if it is a minor/superficial bug). Instead, leave a comment in the issue for the bug asking if the bug can be fixed in the current release. If it can't, quarantine the test.
-- When the reason for quarantining a test is because of a low severity bug in the code which will not be fixed in the upcoming couple of releases, add `type: :bug` in the `quarantine` tag.
+- [Quarantine][quarantining tests] the test right after the bug issue has been created. Leave a note on the bug issue with the link to the quarantined test and mention that it should be un-quarantined with the fix.
+- When the reason for quarantining a test is because of a low severity bug in the code which will not be fixed in the upcoming couple of releases, add the `~"quarantine"` , quarantine with type and `~"failure::bug"` labels to the test failure issue(s).
+- When the bug is fixed, the related quarantined tests should be unquarantined and verified as well. The bug issue and all related test failure issues should be closed out together.
 
 **Note**: GitLab maintains a [daily deployment cadence](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/880) so a breaking change in `master` reaches Canary and Production fast. Please communicate broadly to ensure that the corresponding [Product Group](/handbook/product/categories/#devops-stages) is aware of the regression and action is required. If the bug is [qualified for dev escalation](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#scope-of-process) (example: `priority::1/severity::1` issue that blocks the deployment process), consider involving [On-call Engineers](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) in the [`#dev-escalation`](https://gitlab.slack.com/archives/CLKLMSUR4) channel. To find out who’s on-call follow the links in the channel subject line.
 
