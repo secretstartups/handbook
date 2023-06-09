@@ -28,17 +28,62 @@ Use the relevant workflows below when you receive a ticket about [GitLab for Edu
 
 ## Workflows
 
-### GitLab for Education (EDU)
+### Applications and renewals
+
+#### GitLab for Education (EDU)
 
 When a customer seeks to apply or renew an existing subscription, send the [`General::EDU Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/EDU%20Response.yaml) macro.
 
-### GitLab for Open Source (OSS)
+#### GitLab for Open Source (OSS)
 
 When a customer seeks to apply or renew an existing subscription, send the [`General::OSS Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/OSS%20Response.yaml) macro.
 
-### GitLab for Startups
+#### GitLab for Startups
 
 When a customer seeks to apply or renew an existing subscription, send the [`General::Startup Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Startup%20Response.yaml) macro.
+
+### Product Transfer
+
+While redeeming a community program coupon customers may select the wrong product type by accident (SaaS instead of Self-Managed, or vice-versa).
+
+In this case, please direct customers to contact the appropriate inbox under the ['Program-specific contact inboxes' section](#program-specific-contact-inboxes)
+
+
+#### Example Tickets
+
+- [ZD#382970](https://gitlab.zendesk.com/agent/tickets/382970)
+
+### Organisation not appearing in SheerID list
+
+Please direct customers to contact the appropriate inbox under the ['Program-specific contact inboxes' section](#program-specific-contact-inboxes).
+
+If after several days the customer reports they have not heard back from the Community Programs team, please reassure them and raise the ticket in `#community-programs` (ideally providing the email address the customer contacted the team with).
+
+#### Example Tickets
+
+- [ZD#375293](https://gitlab.zendesk.com/agent/tickets/375293)
+
+### "This code has already been used." error when attempting to redeem coupon
+
+Please raise the ticket in `#community-programs` as the coupon may have been erroneously issued.
+
+#### Example Tickets
+
+- [ZD#379559](https://gitlab.zendesk.com/agent/tickets/379559)
+
+### Customer is concerned by their seat usage or true-ups
+
+While applying, customers are asked to provide their desired seat count - during their subscription term they can exceed this and then upon renewal the true-up cost will be zero (and the overage seats will be added to the renewal term).
+
+## Program-specific contact inboxes
+
+For enquiries relating to specific programs (that aren't otherwise handled by the workflows above), please direct customers to contact:
+
+
+ 1. EDU: `education@gitlab.com`
+ 2. OSS: `opensource@gitlab.com`
+ 3. Startups: `startups@gitlab.com`
+
 
 ## Troubleshooting
 
@@ -60,6 +105,10 @@ You can retrieve `CustomerIP` by:
 
 ## Example of previous cases
 
-- [ZD Tiket 288871](https://gitlab.zendesk.com/agent/tickets/288871)
+- [ZD Ticket 288871](https://gitlab.zendesk.com/agent/tickets/288871)
 - [Related Sentry event 2575450](https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/2575450/events/40335146/)
 - [Bug issue](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4288)
+
+## See Also
+
+- [Collaborating with Community Programs (Sales Training)](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)
