@@ -141,7 +141,7 @@ Watch this live speaker series where we talk to Leah Weiss of [Skylyte](https://
 
 ### Individual Growth Plan 
 
-The Individual Growth Plan (IGP) is a tool to help you, the DRI of your career, plan and action on your career growth. It's a template to guide you through career goal setting and action planning. Think of the IGP template as a starting place, where you have the freedom to answer and dive deeper on sections that help spark your interest and think differently about your career development.
+The Individual Growth Plan (IGP) is a tool to help you, the DRI of your career, plan and action on your career growth. It's a template to guide you through career goal setting and action planning. Think of the IGP template as a starting place, where you have the freedom to reflect on your career, answer and dive deeper on sections that help spark your interest and think differently about your career development.
 
 The IGP can help with:
 
