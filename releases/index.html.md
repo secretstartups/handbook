@@ -21,7 +21,7 @@ Starting no earlier than 16.6 (November 2023), we will move from publishing on e
 
 Our [maintenance policy] describes in detail the cadence of our major, minor and patch releases for self-managed users. The major release yearly cadence was defined [after an all stakeholder discussion](https://gitlab.com/gitlab-com/Product/issues/50).
 
-## Self-managed releases overview 
+## Self-managed overview 
 The `self-managed release` is a [semver] versioned package containing changes from many successful [deployments on GitLab.com](/handbook/engineering/deployments-and-releases/deployments/). Users on GitLab.com, therefore, receive features and bug fixes earlier than users of self-managed installations.
 
 The [deployments and releases page](/handbook/engineering/deployments-and-releases/) details how the two processes work together. 
@@ -105,6 +105,10 @@ current self-managed release. The end-to-end process consists on the following s
 
 Details of steps 1 to 3 can be found on the [patch release runbook for GitLab engineers] while details for steps 4 to 7
 can be found on the [patch release runbook for release managers].
+
+## Backports overview
+
+For information on backports, visit the [backports page](/handbook/engineering/releases/backports).
 
 ## Labels of importance
 
@@ -195,7 +199,7 @@ In other words:
 
 **The quality and stability of what is delivered by everyone defines the final MR that will be included in the monthly release.**
 
-For more detailed answer, see [self-managed release timelines](/handbook/engineering/releases/#self-managed-releases-overview).
+For more detailed answer, see [self-managed release timelines](/handbook/engineering/releases/#self-managed-overview).
 
 ### What's the process for a release of type X?
 
@@ -248,6 +252,8 @@ Once a security merge request has been merged, it's not advisable to revert it f
 If a security vulnerability introduced a bug, in most cases, the appropriate path forward is to fix the issue in the canonical repository (after the security release has been published).
 
 If a security vulnerability introduced a high severity bug, engage with AppSec and release managers to coordinate next steps. 
+
+
 
 ## Resources
 
