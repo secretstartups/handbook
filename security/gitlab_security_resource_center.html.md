@@ -40,7 +40,7 @@ The following links contain frequently asked security, legal & privacy, and avai
 ### Table of contents
 
 | [Acceptable use](/handbook/security/gitlab_security_resource_center.html#acceptable-use) | [Access management](/handbook/security/gitlab_security_resource_center.html#access-management) | [Business continuity](/handbook/security/gitlab_security_resource_center.html#business-continuity) | [Cryptography](/handbook/security/gitlab_security_resource_center.html#cryptography) | [Data classification](/handbook/security/gitlab_security_resource_center.html#data-classification) 
-| [Disaster recovery](/handbook/security/gitlab_security_resource_center.html#disaster-recovery) | [Endpoint management](/handbook/security/gitlab_security_resource_center.html#endpoint-management) | [Hardening](/handbook/security/gitlab_security_resource_center.html#gitlabs-gitlabcom-hardening-techniques) | [Incident response and communication](/handbook/security/gitlab_security_resource_center.html#incident-response-and-communication) | [Independent assurance](/handbook/security/gitlab_security_resource_center.html#independent-assurance)
+| [Disaster recovery](/handbook/security/gitlab_security_resource_center.html#disaster-recovery) | [Endpoint management](/handbook/security/gitlab_security_resource_center.html#endpoint-management) | [Hardening](/handbook/security/gitlab_security_resource_center.html#gitlabcom-hardening-techniques) | [Incident response and communication](/handbook/security/gitlab_security_resource_center.html#incident-response-and-communication) | [Independent assurance](/handbook/security/gitlab_security_resource_center.html#independent-assurance)
 | [Logging and monitoring](/handbook/security/gitlab_security_resource_center.html#logging-and-monitoring) | [Network security](/handbook/security/gitlab_security_resource_center.html#network-security) | [Privacy](/handbook/security/gitlab_security_resource_center.html#privacy) | [Security awareness](/handbook/security/gitlab_security_resource_center.html#security-awareness) | [Third party risk management](/handbook/security/gitlab_security_resource_center.html#third-party-risk-management) 
 | [Threat modeling](/handbook/security/gitlab_security_resource_center.html#threat-modeling) | [Vulnerability management](/handbook/security/gitlab_security_resource_center.html#vulnerability-management) |
 
@@ -89,6 +89,8 @@ The following links contain frequently asked security, legal & privacy, and avai
 
 * [GitLab projects baseline requirements](/handbook/security/gitlab_projects_baseline_requirements.html)
 * [GitLab security requirements for deployment and development](/handbook/security/planning/security-development-deployment-requirements/)
+* [How to harden your self-managed GitLab instance](https://about.gitlab.com/blog/2023/05/23/how-to-harden-your-self-managed-gitlab-instance/)
+* [The ultimate guide to securing your code on GitLab.com](https://about.gitlab.com/blog/2023/05/31/securing-your-code-on-gitlab/)
 
 ### Incident response and communication
 
