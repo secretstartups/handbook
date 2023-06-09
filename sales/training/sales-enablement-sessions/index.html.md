@@ -23,9 +23,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jun 8 | AI / GitHub Compete Course | Kelley S. |
-| Jun 15 | TBD |  |
-| Jun 22 | GitLab Security Competitors Overview | Fern D.  |
+| Jun 15 | Industry Research  | Saumya U. |
+| Jun 22 | GitLab Security Competitors Overview | Fern D. & Joe K. |
 | Jun 29 | FY24-Q2 - Making Headlines: Analyst Relations Update | AR Team |
 | Jul 6 | TBD |  |
 | Jul 13 | TBD |  |
@@ -40,6 +39,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-06-08 | **[GitLab’s AI Vision & Strategy AMA & Course Launch](https://drive.google.com/file/d/1JHsZWwzzhaJQKYpUxSi8sn61cNMIGyyu/view?usp=sharing)**  | Private |
 | 2023-06-01 | **[GitLab Dedicated - General Availability Launch](https://gitlab.highspot.com/items/6478cd2f94e64c47fe04e6f5)** | Private |
 | 2023-05-25 | **[GitLab AI Competitors Overview](https://gitlab.highspot.com/items/6474ca9b3df78ba1b4baac4c)** | Private |
 | 2023-05-18 | **[Global DevSecOps Trends - Survey Results](https://gitlab.highspot.com/items/64668846776d67e6807de286?lfrm=shp.0)** | Private |
