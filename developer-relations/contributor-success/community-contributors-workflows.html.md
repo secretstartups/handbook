@@ -152,44 +152,56 @@ See [GitLab MVP Selection Process](/handbook/marketing/developer-relations/contr
 The Contributor Success team has been regularly thanking GitLab team members and Wider community members for active participation in Merge Requests. At the moment, this takes the form of:
 
 * A weekly thanks message in the `#thanks` channel in slack - Thanking GitLab team members for participation in `Community Contribution` Merge Requests.
-* A monthly thanks message in the `#thanks` channel in discord - Thanking Wider community members for active participation in MRs that aren't their own.
+* A weekly thanks message in the `#thanks` channel in discord - Thanking wider community members for having MRs merged, as well as participating in other's MRs that were merged.
+* A monthly thread on the forum, with the weekly posts from discord crossposted.
 
-These messages are generated with the help of a [script](https://gitlab.com/gitlab-org/community-relations/contributor-success/toolbox) that is being maintained and iterated on by the Contributor Success Team.
+These messages are generated with the help of a [script](https://gitlab.com/gitlab-org/community-relations/contributor-success/toolbox) that is being maintained and iterated on by the Contributor Success Team. The script runs on a Monday morning, and injects the messages into the `#contributor-success` channel in slack.
 
-### Prerequisites needed to generate messages
+### Weekly message posting
 
-This script can be executed on any machine by following these steps:
+To post the messages:
+
+* Copy the appropriate message from the `#contributor-success` Slack channel into the appropriate `#thanks` channel. The `Scope: GitLab Team mode` message goes to Slack `#thanks` and the `Scope: Wider Community mode` message goes to Discord `#thanks`.
+* Verify the content is applicable to the audience (i.e. the internal message in slack, etc)
+* Validate any automated user handle expansions to verify the correct person and add missing user handles.
+* Send the message!
+* Post the wider community message on the forum, too, under the [Community](https://forum.gitlab.com/c/community/39) category, with the addition of a crosslink to the Discord post.
+    * If this is the first post since a release, open a new topic with the title: `GitLab x.xx Release Community Thanks` and use the tag `thanks`.
+    * Otherwise, add a new message on the existing thread.
+* Update the assignee of the tracking issues and due dates.
+
+Tracking issues:
+
+* [Internal Weekly message](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/85)
+* [Wider Community message](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/186)
+
+### Manual execution
+
+In the event you need to generate the message(s) manually, you will need to follow these prerequisite steps:
 
 1. Check out the latest `main` branch of the toolbox project: `git clone git@gitlab.com:gitlab-org/community-relations/contributor-success/toolbox.git`
 1. Change directory to the checked out project: `cd toolbox`
 1. Install the required gems: `bundle install`
-
-### Generating the GitLab team member thanks message
-
-This is typically done at some point on a Monday, but could be done on a Tuesday if the Monday is a holiday, or other day off. Regardless of the day it is sent, it is typically generated to cover the period of 7 days from the previous Monday.
 
 To generate the internal weekly message:
 
 1. Execute the script following the 'weekly' example [here](https://gitlab.com/gitlab-org/community-relations/contributor-success/toolbox/#community-mr-participants)
 1. Paste the resulting message into `#thanks` in slack, taking care to note the keystrokes: `Paste this message into slack using Cmd-v, then apply formatting using Cmd-Shift-F`
 1. Double check the message that was pasted - making sure to edit `@` mentions where slack has 'helpfully' incorrectly linked the user.
-1. If exceptions were raised in the script for missing managers attempt to track down the acting manager or the next level up report and manually cc them in the message 
+1. If exceptions were raised in the script for missing managers attempt to track down the acting manager or the next level up report and manually cc them in the message.
 1. Send the message and join in the celebrations!
-1. Record the PI numbers from the message in the [tracking issue](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/85)
+1. Record the PI numbers from the message in the [tracking issue](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/85) if necessary.
 1. Update the assignee of the tracking issue and due date.
-
-### Generating the wider community thanks message
-
-This message is typically sent within a day or two of a GitLab release (22nd of the month). It covers the time period between releases.
 
 To generate the external community message:
 
-1. Execute the script following the 'monthly' example [here](https://gitlab.com/gitlab-org/community-relations/contributor-success/toolbox/#community-mr-participants)
+1. Execute the script following the 'wider' example [here](https://gitlab.com/gitlab-org/community-relations/contributor-success/toolbox/#community-mr-participants)
+1. Make sure to check the duration for which you want to run the report.
 1. Paste the resulting message into `#thanks` in discord.
 1. Double check the message that was pasted - to ensure the users/names all look 'right'.
 1. Send the message and join in the celebrations!
-
-Once posted to discord, you can post this message on the forum, too, under the [Community](https://forum.gitlab.com/c/community/39) category, with the addition of a crosslink to the Discord post. Forum posts can be deep linked to from social media, and additionally can be indexed by search engines.
+1. Record the PI numbers from the message in the [tracking issue](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/186) if necessary.
+1. Update the assignee of the tracking issue and due date.
 
 ## Organizing and promoting events
 
