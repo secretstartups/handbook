@@ -16,13 +16,13 @@ title: "Core Team"
 
 A new member can be added to the [Core Team](/community/core-team/) at any time through the following steps:
 
-1. Current Core Team members can nominate a new member from the wider community at any time using a confidential issue in [the Core Team group](https://gitlab.com/groups/gitlab-org/gitlab-core-team/-/issues).
-2. The nominee will be added to the Core Team if they have received positive votes from two-thirds (2/3) of all current core team members within a two week period and accept the nomination.
+1. Any Core Team member or GitLab Team member can nominate a new member from the wider community at any time using a confidential issue in [the Core Team group](https://gitlab.com/groups/gitlab-org/gitlab-core-team/-/issues).
+2. The nominee will be added to the Core Team if they have received positive votes from two-thirds (2/3) of all current core team members within a four-week period and accept the nomination.
 3. Once a new member has been added, start the onboarding process by following the steps outlined in the [Core Team member orientation section](/handbook/marketing/developer-relations/core-team/#core-team-member-orientation) below.
   
 ## Monthly Core Team meetings
 
-The Core Team meets on the third Tuesday of each month and anyone is welcome to join the call.
+Due to time differences, and other commitments, the Core Team meets asynchronously on the third Tuesday of each month.
 Call logistics/agenda/notes for the meeting are available on the [Core Team issue tracker](https://gitlab.com/gitlab-org/gitlab-core-team/general/-/issues).
 All meeting recordings are available at the [Core Team meeting Playlist](https://www.youtube.com/playlist?list=PLFGfElNsQthZ12EUkq3N9QlThvkf3WGnZ).
 
