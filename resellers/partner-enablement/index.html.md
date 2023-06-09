@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Channel Partner Field Team Enablement"
+title: "Channel Partner Technical Presales Enablement"
 ---
 
 
@@ -12,51 +12,12 @@ title: "Channel Partner Field Team Enablement"
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 {::options parse_block_html="true" /}
 
-# GitLab’s differentiation in the ecosystem
-{: .gitlab-orange}
 
-GitLab is a public company that provides commercial support and sells per-user subscription licenses of GitLab - The DevSecOps Platform - as a product to enterprises globally. GitLab simplifies DevOps chains of custom integrated tools in the ecosystem into a single application or platform. GitLab Enterprise Edition, based on the core open-source GitLab Community Edition, provides commercial support, training, and professional service offerings. GitLab’s core codebase is backed by millions of users in the community, with incredible innovation due to the contributions of thousands of developers globally.
+In this section of the Channel Partner Programs Handbook we review assets and enablement from the perspective of Channel Partners' Technical Presales constituencies.
 
-GitLab, as a DevSecOps platform, is better experienced than described. When customers adopt GitLab, they typically do so to solve a particular DevOps problem. Successful customers quickly realize that GitLab’s complete set of software planning, collaborating, revision controlling, security verifying, deploying, and monitoring is unlike any other DevOps software tool available today. This platform-based approach is a crucial differentiator among other git-based revision control systems that rely on a network of ‘plugins’ and ‘add-ons’ to complete a fully functional software delivery factory. GitLab as a platform encompasses the entire “toolchain” of ecosystem tools, an improvement from cobbled-together toolchains.
+Beyond our Channel Partners Handbook pages, you will find sales guides, use cases, training materials, and program guides reviewed below and hosted and updated in our [GitLab Partner Portal](https://partners.gitlab.com/). The materials should be a great place to start effectively selling, serving and hitting your number with GitLab.
 
-Long-lived customers adopt new features and experience the power of pre-integrated features that work well together. With GitLab, pipelines become easier, DevOps pros begin to solve higher-order problems, and you sell more.
-
-# Here’s how you make money with GitLab
-{: .gitlab-orange}
-The three main areas of making money with GitLab are selling Licensing, Training, and Professional (Consultative) Services.
-
-**$  License Revenue:**  Lead with full [GitLab Ultimate](https://about.gitlab.com/pricing/ultimate/), and scale back to [GitLab Premium](https://about.gitlab.com/pricing/premium/) for narrower use cases or price-adverse buyers. [Register the deal on partners.gitlab.com](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#submitting-a-deal-registration), and take down the initial sale of GitLab Licenses.
-
-**$$ Training and Professional Services (PS):**  Customers new to GitLab will likely need help understanding the more effecient GitLab Flow Workflow. Our [GitLab Flow Best Practices](https://about.gitlab.com/topics/version-control/what-are-gitlab-flow-best-practices/) is a great place to start learning about how to work more efficiently. Also see the bottom of the page for [videos about GitLab Flow.](https://about.gitlab.com/handbook/resellers/partner-enablement/#third-party-tutorials)
-
-New customers to GitLab will need help migrating from existing tools and Git-based software sytems. You are welcome to resell GitLab's Professional Service offerings - or, as a partner, you can offer you own similar migration, training and enablement offerings. [Consult the Partner Services Overview Page](https://partners.gitlab.com/prm/English/c/Services) for guidance on creating serivces offerings on installation, configuration and integration, and migration from other tools. See more details on creating your own migration services offering in our [Partner Migration Services Overview](https://about.gitlab.com/handbook/resellers/partner-enablement/partner-migration-services).
-
-**$$$  License Growth Revenue:**  We have a Land and Expand model.  After successful customers adopt GitLab to solve a single-point problem, many discover that GitLab can replace and remove duplicative software tools.  When using GitLab as an end-to-end software development and delivery platform, removing redundant software tools becomes evident.  We focus our [incentives for partners](https://partners.gitlab.com/prm/English/s/assets?id=350001) on new licenses (Land) and license growth over the baseline (Expand).  We focus on the increased number of GitLab licensed users because we provide commercial, technical support, so you don’t have to (as much).  Partners play a crucial role in practice and integration support.  GitLab maintains a commercial support team that other DevOps product toolchain companies cannot provide as part of our single product platform viewpoint.  Customers buy more GitLab from you by vertically expanding their footprint from Premium to Ultimate licenses or increasing their user count horizontally.
-
-**$$$ Transformation Services:**  Our partners find that GitLab breath and depth provide a long tail of strategic growth in customer consulting.  Customers improve their DevSecOps practices by leveraging GitLab’s workflow.  Treat the platform as an ongoing reason for client engagement.  In starting with GitLab, ensure all project managers, developers, security engineers, and managers can log in and access the platform.  Use the shareable links anywhere within GitLab to allow the different roles to know where their planning, development, security reports, and value stream reporting are.  Next, enable security scanning and reporting.  Next, allow auto-deployment to the cloud.  Because the breadth and depth of GitLab’s software factory-like platform are so broad and deep, coaching successful customers towards DevOps best practices becomes a natural opportunity for you to sell additional services.  For a large enterprise, use GitLab to provide a roadmap of where you will take your customer with GitLab in their software development maturity journey.  Coaching and consultative services will also offer a roadmap for revenue quarter after quarter.
-
-
-## Ready to get Started?
-[Click Here](https://partners.gitlab.com/English/register_email.aspx) to apply to GitLab's Partner Program.
-
-# Learning More
-{: .gitlab-orange}
-You will find sales guides, use cases, training materials, and program guides in the material below.  The materials should be a great place to start effectively selling, serving and hitting your number with GitLab.
-
-Some of the links below require you to login to [GitLab's Partner Portal](https://partners.gitlab.com/) first.
-
-## Partner Program 
-
--   **Partner Program Overview:** [FY23 GitLab Channel Program Guide](https://partners.gitlab.com/prm/English/s/assets?id=414926) This document includes details about sales tracks, benefits, and requirements at different partner levels.  (Be sure to log in to partners.gitlab.com first to access this link.)
-
--   **How to request Not For Resale (NFR) licenses:**  Each GitLab partner is allowed one set of annual NFR licenses for a GitLab Self Managed Instance and a GitLab.com SaaS license [per this handbook page](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#internal-nfr-request-processes).   [Partner Portal](https://partners.gitlab.com/) > [Services](https://partners.gitlab.com/prm/English/c/Services) > [Request an NFR](https://docs.google.com/forms/d/e/1FAIpQLSc8jdwNrVMfVQ4x7XWXwcaMrcO4m2C6nGEq3_tKQWJnftAN_g/viewform)
-
--   **Training and Certifications:** Available on the Training > Start Training tab at the top of the [GitLab Partner Portal](https://partners.gitlab.com/) or by accessing [https://levelup.gitlab.com/](https://levelup.gitlab.com/) after authenticating to the GitLab Partner Portal.
-
--   **GitLab Certification Guide:**  You can share this [GitLab Certification Guide](https://content.gitlab.com/viewer/639a5b13fc695b0f033c4ff9) with your teams describing the GitLab Certifications
--   **GitLab Training:**  This [Handbook page](https://about.gitlab.com/handbook/resellers/training/) on training available for partners
--   **Engaging Partner Support:** [Handbook Page](https://about.gitlab.com/handbook/resellers/partner-support/)
--   **GitLab Partner Locator:** [Partner Catalog](https://about.gitlab.com/partners/)
+Rember that some of the links below require you to login to [GitLab's Partner Portal](https://partners.gitlab.com/) first. If you haven't already, [here is where you register for portal access](https://partners.gitlab.com/English/).
 
 # Basic Presales Knowledge
 {: .gitlab-orange}
