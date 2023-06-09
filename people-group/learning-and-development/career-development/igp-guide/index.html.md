@@ -83,7 +83,7 @@ A few examples of how to answer those questions are below:
 | IC Growth | I would like to become a technical expert in data integrations. | I will know I have been successful if I am able to lead a data integration project for a key customer account. |
 
 
-# Set Developpment Goals
+# Set Development Goals
 
 Now that you set your intention, it’s time to set specific development goals to help you reach your career objectives. Team member’s should focus on setting 1-3 development goals per review period to help them reach their overall career goals. 
 
