@@ -41,6 +41,8 @@ This data could include, but is not limited to:
 - Repositories
 - Vulnerabilities
 
+See [this Unfiltered video](https://www.youtube.com/watch?v=4ZMLr8oDhqI) to see how this works.
+
 ### Test Data Generation
 
 Engineers can create specific sets of data in seed files that they would like to test.
@@ -59,8 +61,10 @@ of generating data to be used with testing or demoing.
 
 ### Links
 
+- [Technical Documentation](https://docs.gitlab.com/ee/topics/data_seeder.html)
+- [Data Seeder Issue Tracker](https://gitlab.com/gitlab-org/gitlab/-/boards/3766722?label_name[]=data%20seeder)
 - [Working Group page][working-group]
-- [Working Group Slack channel](https://gitlab.slack.com/archives/C02M7GX1SBE)
-- [Ongoing Data Seeder work](https://gitlab.com/gitlab-org/gitlab/-/boards/3766722?label_name[]=wg_demo-test-data)
+- [`#data-seeder`](https://gitlab.slack.com/archives/C055Y333MM1) Slack Channel (internal)
+- [Feedback Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/414671)
 
 [working-group]: https://about.gitlab.com/company/team/structure/working-groups/demo-test-data/
