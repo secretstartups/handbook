@@ -23,6 +23,20 @@ Internal Key Performance Indicator: - Internally we aggregate the Platform Adopt
 Sales Feedback Loop: Sellers need to know how their customers are using GitLab, and how they can assist customers realize more value and provide recommendations.
 Product Feedback Loop: These metrics are shared with Product to better understand the adoption of GitLab across all customers.
 
+### How do different teams use and drive platform adoption
+The following shows how different teams use and measures they apply to increase platform adoption:
+- Marketing leverages use case terms as part of top-level and marketed value drivers for the GitLab single application platform. Customer Marketing would leverage use cases to promote existing customers to expand usage and value realization.
+  - Measures: Case studies, competitive analysis, demos and use case videos
+- Sales, Solution Architects and Renewals teams position GitLab marketed value drivers, use cases, and customer journey to deliver to customer’s desired business outcomes. Expectations are set to ensure the customer has a roadmap (new and growth opportunities) for successful adoption of use cases, including skill sets, resourcing, timelines, and services (as needed) to realize business value as quickly as possible.
+  - Measures: Success roadmaps completed, service attach, Ultimate sales
+- Professional Services, Customer Success Managers, and Support drive adoption of features supporting use cases and ultimately platform value realization defined by adoption of 3+ use cases.
+  - Measures: service attach, development of services to deliver to all customer use cases, time-to-value, use case and platform adoption, support case measures and feedback by use case, gross retention by subscription tier
+- Product and Engineering leverage use case and platform adoption as an input into investments and prioritization. Those metrics can inform decisions about prioritization and resourcing of feature development in order to drive greater adoption and retention of usage. In addition, Product and Engineering will work towards including use case adoption metrics in the product so customers have the same visibility GitLab team members do. 
+  - Measures: time-to-value, use case and platform adoption, and retained usage by customers
+- Finance, People Ops and Operations would prioritize efforts in alignment with use case priorities (i.e., funding, data and analytics, etc.).
+- Data and Analytics: Deliver and maintain data products that support / increase use case adoption.
+  - Measures: On-time delivery, data quality, and predictive models and analytics (e.g., PtC, PtE)
+
 
 ### References
 * [Account Health Scoring](/handbook/customer-success/customer-health-scoring/#scoring-methodologies) for a list of the main measures we measure customer value
