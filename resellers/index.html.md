@@ -82,7 +82,7 @@ This page provides an overview of the Channel partner program, requirements, ben
 * [Channel Services Catalog](/handbook/resellers/services/services-catalog/)
 * [Channel Partner Training and Certifications](/handbook/resellers/training/)
 * [Channel Partners: Working with GitLab](/handbook/resellers/channel-working-with-GitLab/)
-* [Channel Field Team Enablement](/handbook/resellers/partner-enablement/)
+* [Channel Partner Presales Team Enablement](/handbook/resellers/partner-enablement/)
 * [Channel Tools and Resources](/handbook/resellers/channel-tools-resources/)
 * [Alliance Program](https://about.gitlab.com/partners/technology-partners/)
 
