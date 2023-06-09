@@ -217,6 +217,70 @@ began in the previous iteration.
    * 5 points are counted towards Completed Issue Velocity
    * 5 points are counted towards Total Issue Velocity
 
+## Workload calibration
+
+Given the fluid nature of the Product division and shifts in company prioritization, PDI will 
+conduct a workload calibration twice per year. Broadly speaking, the goal of the calibration 
+is to ensure that the PDI workload is equitably distributed across the team. For example, 
+if there is a large shift in company prioritization leading to greater focus on an area of the 
+product, we should ensure that we are staffed such that a single analyst is not overloaded 
+with work.
+
+### Goal of calibration
+
+The workload calibration is intended to:
+
+* Provide the best support possible to the Product division
+* Set the analysts up for success by minimizing context switching and maintaining reasonable 
+expectations of deliverables
+* Allow for a healthy work-life balance
+
+This calibration is _not_ an exercise in measuring analysts against one another with respect 
+to output.
+
+### Considerations in calibration
+
+There are several different items to consider during the calibration (not in priority order):
+
+* Volume of incoming work
+  * How often are stakeholders adding to the backlog and how much work needs to be delivered?
+* Type and complexity of incoming work
+  * Does incoming work mostly consist of ad hoc requests, PI chart updates, deep dives, etc?
+* Relative urgency and expected turn-around time for incoming work
+  * Can the analyst reasonably plan their work in advance or is there disproportionate amount 
+  of urgent, unplanned work?
+* Volume of stakeholders
+  * How many relationships does the analyst need to maintain?
+* Required knowledge of the product
+  * Does the analyst need to know in-depth details about vastly different features/areas of the 
+  product?
+* Required knowledge of related data
+  * Does the analyst need to be specialized in a specific data source? Does the analyst need to 
+  be an SME in multiple different types of data/data sources?
+* Volume of "other" work
+  * In addition to supporting PMs, is the analyst engaged in other cross-functional 
+  initiatives?
+* Analyst feedback
+  * Does the analyst feel like their workload is reasonable and balanced?
+  * _This one is arguably the most important!_
+
+### Mechanism of calibration
+
+(The exact mechanism for the review is still a WIP)
+
+Product analysts will provide input into all of the areas of consideration listed above. In 
+addition, PDI management will evaluate workload allocation against company priorities.
+
+### Frequency of calibration
+
+PDI will go through a calibration twice per year, leading into Q1 and leading into Q3. We will 
+aim to have calibration complete in time for analysts to appropriately engage in quarterly 
+planning with their stakeholders. Ideally the calibration occurs frequently enough to address 
+changes in priorities and imbalances in workload, but not so often that it is disruptive to 
+work.
+
+Both frequency and timing of calibration can and will be revisited, if necessary.
+
 ## Style guidelines
 
 The Product Data Insights group follows the Data team's [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/) 
