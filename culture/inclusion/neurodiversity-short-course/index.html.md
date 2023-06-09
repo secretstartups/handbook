@@ -118,7 +118,7 @@ Mike Lindsay: [Transcript](https://docs.google.com/document/d/1WjFGzhZFdhb8UTG66
 
 #### What can you do next: Building a more inclusive environment for neurodivergent team members 
 
-* Build [**team member profiles**](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md) or build your own team member profile and share it with your colleagues/manager. Personalisation is key, by focussing on the team members' individual working styles, communication styles and feedback loops, you will negate the need for disclosure and allow all team members to thrive. You can use this issue template [insert template](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md)
+* Build [**team member profiles**](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md) or build your own team member profile and share it with your colleagues/manager. Personalisation is key, by focussing on the team members' individual working styles, communication styles and feedback loops, you will negate the need for disclosure and allow all team members to thrive. You can use this issue [template](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md).
 
 [**Neurodiversity Resources Handbook Page**](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/)
 

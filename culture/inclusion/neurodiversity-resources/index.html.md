@@ -49,7 +49,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 
 As a way to support all team members and ensure that neurodivergent team members who choose not to disclose or may be undiagnosed are being provided the support they need. All team members have individual needs and employing personalisation will go along way to ensuring everyone feels included. 
 
-You can use this template (insert) to help build a simple team member profile of communication, working and feedback styles. 
+You can use this [template](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/blob/master/.gitlab/issue_templates/Team-Member-Profile.md) to help build a simple team member profile of communication, working and feedback styles. 
 
 ## Reasonable Accommodations
 
