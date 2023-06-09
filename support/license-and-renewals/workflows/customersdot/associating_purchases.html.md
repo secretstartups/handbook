@@ -18,6 +18,8 @@ Sometimes a subscription owner (`Sold To` contact) may want to associate the sub
 
 This process would also apply for requests to send a license to a different email other than the `Sold To` contact.
 
+Occasionally, Billing Team may forward requests / tickets to our team to vet and then assist with changing `Sold To` details.  The processes below would apply for those tickets as well.
+
 #### CustomersDot changes can update Zuora Sold To contact
 
 **Important note:** Any time a CustomersDot user is edited via the Admin, the Zuora account contact associated with the customer is updated. In case there is no Zuora contact with the same email, the Zuora account `Sold To` address is replaced.
