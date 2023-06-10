@@ -170,6 +170,11 @@ Any line items within a category or subcategory default inherit the details from
 ##### Useful tricks inside the Activity Grid 
 1. Do you find yourself wanting to copy & paste a line item from a differnt activity plan into your activity plan? If so, then you will need to (right click) Copy/Paste the line item within the same activity plan, and then use the right-click "Move" option to move the line item copy to the correct activity plan. Within the Field Marketing team, we ask FMMs to transfer dollars to the ALL plans for shared activity, vs. having multiple line items for the same activity in multiple activity plans. Those instructions can be [found here](/handbook/marketing/field-marketing/#the-field-marketing-budget) pt. 12. 
 
+#### Channel Marketing Set up
+**Category:** FY + Quarter
+**Sub-categories:** Partner_Activity Name (no need to add date, it will be listed in the details panel)
+**Line Item:** MDF 000 Partner_Activity Name (000 indicates being 'bookedmarked' once MDF has been approved and the funds request received in SFDC, the MDF Program Owner will change from 000 to the funds request number)
+
 #### 🗓 GitLab Internal Calendars
 
 Certain groups within GitLab have the ability to create a calendar invite directly from the details panel within Allocadia.
