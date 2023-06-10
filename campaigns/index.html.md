@@ -197,7 +197,8 @@ Our dashboards are owned and managed by the Marketing Strategy and Performance t
 The below global integrated campaigns are continally optimized by the Marketing Campaigns team, in collaboration wit Digtial Marketing, Technical Marketing, Product Marketing, and beyond. These campaign bundles are leveraged by all teams in Marketing to apply cohesive and consistent messaging and approach across all marketing channels and tactics.
 
 
-### :pencil: DevSecOps Platform Campaign (Previously DevOps Platform Campaign)
+### 🚀 DevSecOps Platform Campaign (Previously DevOps Platform Campaign)
+
 
 **Campaign Manager DRI: Eirini Pan**
 
