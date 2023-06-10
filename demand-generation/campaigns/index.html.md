@@ -150,6 +150,21 @@ In between bi-weekly Campaigns Team Connect calls:
    - Begin with `DISCUSS: <brief description>` (i.e. `DISCUSS: Marketing tool champions`)
    - Include link to MR (preferred) or issue
 
+### Half-yearly Field Marketing & Campaigns Planning Workshop
+
+Every 6 months, Regional campaigns managers will conduct a joint planning workshop with their Sr Manager/Manager, Field marketing counterparts (below): 
+
+| Region | Campaign Manager | Sr Manager/Manager, Field Marketing|
+| ------ | ------ |-----|
+|    AMER    |  Meilynda Herbst      |   Ginny Reib |
+|    EMEA    |  Indre Kryzeviciene      | Kristine Setchin   |
+|    APAC   |   Timothy Tran     |  Kate Baker  |
+
+#### Collaboration Timeline/Deliverables:
+- **X week before planning session:**  Manager/Sr Manager of field marketing shares next quarter planned field marketing events with regional campaign managers.
+- **By planning session:** Regional campaign manager to pull invite list for each planned event.
+- **During planning session:** Manager/Sr Manager of field marketing & campaign manager reviews invite list. If invite list for a particular planned event is too small, collectively decide if FMM should change the event venue or work with their regional campaign manager on a strategy to grow the invite list via paid or organic channels.
+
 ### Meeting Cadence
 {: #meeting-cadence}
 <!-- DO NOT CHANGE THIS ANCHOR -->
