@@ -27,7 +27,7 @@ Customer Success Managers will typically manage customer engagements via a GitLa
 ### Start a customer upgrade engagement
 
 1. After the Customer Success Manager has been aligned with the account, they will assign themselves to the “Customer Success Manager” field within Salesforce.
-1. Provided that the customer is part of the [CSM-Assigned segment](/handbook/customer-success/csm/customer-segments-and-metrics/#csm-assigned-segment), confirm that the customer project has been created previously during the customer journey sequence, and if not available create a project for the customer in GitLab and include a Customer Success Manager who is best aligned with the customer account transition. For Commercial accounts, the CSM will determine if it is beneficial to have a customer project.
+1. Provided that the customer is part of the [CSM-Assigned segment](/handbook/customer-success/csm/segment/), confirm that the customer project has been created previously during the customer journey sequence, and if not available create a project for the customer in GitLab and include a Customer Success Manager who is best aligned with the customer account transition. For Commercial accounts, the CSM will determine if it is beneficial to have a customer project.
 1. Verify that the project complies with the [Enterprise](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template) or the [Commercial](https://gitlab.com/gitlab-com/account-management/commercial/templates/new-customer-project/) Customer Success Plan Template.
 1. Follow the steps in the PLEASE-READ-THESE-INSTRUCTIONS.md file.
 
@@ -116,7 +116,7 @@ Customer personas are attributed to individual contacts in Gainsight when viewin
 
 ## Customer Prioritization
 
-GitLab uses a customer prioritization model and [associated metrics](/handbook/customer-success/csm/customer-segments-and-metrics/) based on their customer segment (Enterprise, Commercial, Scale) to focus the CSM's efforts where they will have maximum value and impact. 
+GitLab uses a customer prioritization model and [associated metrics](/handbook/customer-success/csm/segment/) based on their customer segment (Enterprise, Commercial, Scale) to focus the CSM's efforts where they will have maximum value and impact. 
 
 On the Gainsight Attributes section, the CSM can set the priority level per customer with levels 1 or 2, with 1 being the highest. A new CSM-assigned customer coming on to GitLab will default to Pr1 until their onboarding enablement is complete. Pr3 is solely for unmanaged child accounts, and Pr4 is only for our digital customers and not for the CSM-assigned segment, with the exception of the Public Sector that is trialing a CSM-assigned digital customer. Priority definitions vary by CSM segment.
 
