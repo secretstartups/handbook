@@ -38,7 +38,6 @@ I’m a veteran of three successful startups (including GitLab) and have experie
 Links about Wayne:
 * [GitLab](https://gitlab.com/wayne)
 * [LinkedIn](https://www.linkedin.com/in/waynehaber/)
-* [Twitter](https://twitter.com/waynehaber)
 * [WayneHaber.com](https://www.waynehaber.com)
 
 # How to collaborate with Wayne
