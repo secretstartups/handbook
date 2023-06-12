@@ -362,7 +362,6 @@ The analytics hubs provide links to the current SSOT dashboards for an area of b
 <summary><b>Analytics Hubs</b></summary>
 
 - [People Analytics Hub](https://app.periscopedata.com/app/gitlab/1104972/People-Analytics-Hub)
-- [People Metrics - Data Discovery in Sisense Dashboard](https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature)
 
 </details>
 
