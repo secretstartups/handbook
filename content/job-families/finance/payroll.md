@@ -259,6 +259,37 @@ The Senior Manager, Global Payroll Operations is a [grade 9](https://about.gitla
 - Experience with large payroll platforms such as ADP or Paychex
 - CPP a plus
 
+## Director, Global Payroll Operations
+
+The Director, Global Payroll Operations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Director, Global Payroll Operations Responsibilities
+
+- Serve as a key contributor to the development of the operational and system road map for Payroll
+- Responsible for leading Payroll system and process improvement across the organization
+- Exemplify a collaborative approach in the payroll organization and ensure issues are addressed timely with the appropriate sense of urgency
+- Bring the payroll accounting function fully into the payroll organization and partner with the wider accounting team to ensure reporting and audit deadlines are met timely
+- Ensure global payroll compliance tasks are understood, documented and addressed timely
+- Provide critical input to the VP, Corporate Controller, and other members of senior management regarding the operational performance of the Payroll team, including recommendations for action and collaboratively developing operating policies and procedures to enable the attainment of corporate and business objectives
+- Evaluate PEO relationships from a payroll perspective and collaborate cross-functionally to recommend improvements or changes where needed
+- Support all M&A finance operations integrations
+- Lead the efforts for international expansions for payroll
+- Leading, motivating, developing, and retaining a high-quality global Payroll team
+- Develop Payroll reporting KPIs, including operational and financial metrics, and PEO related metrics and SLAs
+- Serve as a strategic business advisor and prepare ad-hoc reports and special analyses to facilitate management's ability to understand business issues and drivers
+- Implement internal controls and maintain SOX compliance related to global Payroll procedures and processes
+
+### Director, Global Payroll Operations Requirements
+
+- 15+ years of progressive growth in a global payroll function with experience at high growth companies, Software/SaaS industry experience is preferred
+- 7+ years of management experience
+- 5+ years of payroll accounting experience
+- Knowledge of ADP and Workday preferred
+- Experience working predominantly within Slack highly preferred
+- You share our [values](/handbook/values/), and work in accordance with those values
+- [Leadership](https://about.gitlab.com/company/team/structure/#director-group) at GitLab
+- Ability to use GitLab
+
 ## Performance Indicators
 
 - [Payroll accuracy for each check date](https://about.gitlab.com/handbook/finance/payroll/#payroll-accuracy-for-each-check-date--100)
@@ -267,7 +298,7 @@ The Senior Manager, Global Payroll Operations is a [grade 9](https://about.gitla
 
 ## Career Ladder
 
-The next step in the Payroll job family is to move a higher level leadership payroll role which is not yet defined at GitLab.
+The next step in the Payroll job family is to move to an Accounting leadership role such as Director, Accounting Operations or other undefined role.
 
 ## Hiring Process
 
