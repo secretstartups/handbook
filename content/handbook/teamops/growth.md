@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: "TeamOps Growth"
 canonical_path: "/handbook/teamops/growth/"
 images:

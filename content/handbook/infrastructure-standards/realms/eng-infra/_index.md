@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: "Engineering Infrastructure Realm"
 description: "Realm for the engineering infrastructure team to deploy shared and team-specific infrastructure resources that aren't appropriate for the saas realms."
 ---

@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: "TeamOps — making teamwork an objective discipline"
 description: TeamOps' vision and methodology overview.
 images:

@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: "Personal VPN"
 description: "Basic questions answered, tips, and recommendations for using a personal VPN."
 ---

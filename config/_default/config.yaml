@@ -42,7 +42,7 @@ params:
         url: "https://gitlab.slack.com/archives/C81PT2ALD"
         icon: "fab fa-slack"
         desc: "Discuss GitLab Handbook on Slack"
-    handbooks:
+    developer:
       - name: "GitLab"
         url: "https://about.gitlab.com/"
         icon: "fab fa-gitlab"

@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: "Security Realm"
 description: "This realm is for the engineering security team to deploy shared and team-specific infrastructure resources."
 ---

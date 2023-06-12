@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: "IT Realm"
 description: "This infrastructure realm is for resources managed by the IT Infrastructure team."
 ---

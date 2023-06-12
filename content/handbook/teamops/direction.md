@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: "TeamOps Direction"
 description: TeamOps' general timeline, OKRs, and plans.
 canonical_path: "/handbook/teamops/direction/"

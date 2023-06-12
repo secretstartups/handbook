@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: "Searching GitLab like a pro"
 ---
 

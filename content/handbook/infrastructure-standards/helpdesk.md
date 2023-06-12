@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: "Infrastructure Helpdesk and Support"
 description: "This handbook section defines the latest iteration of infrastructure standards for AWS and GCP across all departments and groups at GitLab."
 ---
