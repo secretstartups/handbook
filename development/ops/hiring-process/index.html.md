@@ -133,34 +133,33 @@ If you're unable to submit it within that timeframe, please reach out to the Hir
 
 1. Hiring Manager to complete [Justification](/handbook/hiring/talent-acquisition-framework/req-overview/#step-7-justification-engineering-only) scorecard.
 1. Justification scorecard will be reviewed by Director of Ops (or a delegate) for these criteria (see [Engineering Hiring Process README](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/blob/master/Engineering/README.md) for additional detail):
-    1. :star: Two "Strong Yes" scorecard ratings minimum. 
+    1. ⭐️ Two "Strong Yes" scorecard ratings minimum. 
     1. All must-haves assessed and positive.  These should be checked in the Justification scorecard.  The ratings should reflect the hiring manager's evaluation of the candidate based on all feedback.  They are *not* an average of scores given by the interview panel.
-    1. Majority (e.g. 5 out of 8) of  nice-to-haves assessed and positive in Justification.   These should be checked in the Justification scorecard.  The ratings should reflect the hiring manager's evaluation of the candidate based on all feedback.  They are *not* an average of scores given by the interview panel.
-    1. :thumbsdown: Negative scorecards (No, Definitely Not) from interviewers should be explicitly addressed with a brief comment in the Justification.  
-    1. :x: Any previous GitLab job application rejections must be explicitly addressed in Justification. (Confirm with TA)
-    1. :triangular_flag_on_post: Any red flag must be explicitly addressed in Justification.
-        1. :page_with_curl:  Each flag should have a corresponding item in the "How do we intend on setting this candidate up for success?" section to explain how the Hiring Manager plans to mitigate the flag.
-
+    1. ✔️ Majority (e.g. 5 out of 8) of  nice-to-haves assessed and positive in Justification.   These should be checked in the Justification scorecard.  The ratings should reflect the hiring manager's evaluation of the candidate based on all feedback.  They are *not* an average of scores given by the interview panel.
+    1. 👎 Negative scorecards (No, Definitely Not) from interviewers should be explicitly addressed with a brief comment in the Justification.  
+    1. ❌ Any previous GitLab job application rejections must be explicitly addressed in Justification. (Confirm with TA)
+    1. 🚩 Any red flag must be explicitly addressed in Justification.
+        1. 📃  Each flag should have a corresponding item in the "How do we intend on setting this candidate up for success?" section to explain how the Hiring Manager plans to mitigate the flag.
 
 <details>
-  <summary>Example justification structure with expected criteria --></summary>
-
-    In what specific way(s) does this candidate make the team better? *
-      - Describe each must have category for the role with a summary of how the candidate is a good fit.
-
-    What flags were raised during the interview process? *
-      - If the candidate was previously rejected, determine the reason they were rejected and describe why and how they are a good fit for the current role.  Your recruiter, Senior EM, or Director can help you determine the reason they were previously reject (you may not have access to the other roles in Greenhouse).  In cases where they were rejected by another hiring manager who is still employed at GitLab it is good to follow up with that HM to get their input.  Include that information in the discussion of why they are a good fit for the current role.
-      - If the candidate had a Thumbs-down scorecard, explain why and elaborate on the reason you, as the HM are still wanting to move forward with the offer to hire them.
-      - Do not list every possible flag, but rather just the important red flags to consider when justifying they are a good hire choice. 
-
-    How do we intend on setting this candidate up for success? *
-      - Expand on each flag described above and how you, as the HM plan to mitigate that flag and set the candidate up for success at GitLab.
-
-    Is the offer in-plan, and why? (e.g.: critical budgeted hire, backfill, transfer) *
-      - Stating which kind of hire is sufficient, per the referenced examples.
-
-    Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) for the role? *
-      - Yes, [First Name] met a majority of the nice-to-have requirements.
-
+  <summary>Example justification structure with expected criteria</summary>
+<br/>
+    In what specific way(s) does this candidate make the team better? *<br/>
+      - Describe each must have category for the role with a summary of how the candidate is a good fit.<br/>
+<br/>
+    What flags were raised during the interview process? *<br/>
+      - If the candidate was previously rejected, determine the reason they were rejected and describe why and how they are a good fit for the current role.  Your recruiter, Senior EM, or Director can help you determine the reason they were previously reject (you may not have access to the other roles in Greenhouse).  In cases where they were rejected by another hiring manager who is still employed at GitLab it is good to follow up with that HM to get their input.  Include that information in the discussion of why they are a good fit for the current role.<br/>
+      - If the candidate had a Thumbs-down scorecard, explain why and elaborate on the reason you, as the HM are still wanting to move forward with the offer to hire them.<br/>
+      - Do not list every possible flag, but rather just the important red flags to consider when justifying they are a good hire choice. <br/>
+<br/>
+    How do we intend on setting this candidate up for success? *<br/>
+      - Expand on each flag described above and how you, as the HM plan to mitigate that flag and set the candidate up for success at GitLab.<br/>
+<br/>
+    Is the offer in-plan, and why? (e.g.: critical budgeted hire, backfill, transfer) *<br/>
+      - Stating which kind of hire is sufficient, per the referenced examples.<br/>
+<br/>
+    Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) for the role? *<br/>
+      - Yes, [First Name] met a majority of the nice-to-have requirements.<br/>
+<br/>
 </details>
 
