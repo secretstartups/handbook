@@ -292,10 +292,15 @@ Once the work starts, it is important to realize that working on complex
 technical / architectural initiatives is an evolutionary process. The DRIs will
 be responsible for getting back to the content described in the design
 document, to update it with the information from the feedback every iteration
-gives them.  The design document evolves as the implementation continues.
+gives them. The design document evolves as the implementation continues.
 
 ### Finally
 
 When the work is completed, design documents no longer represent a
-forward-looking vision, instead the content describes work done. As such, they
-can be removed from *docs.gitlab.com* website or transformed into blog posts.
+forward-looking vision, instead the content describes work done. As such, a
+design document should be updated to become more useful as a knowledge-sharing
+artifact, helping new engineers and contributors to get familiar with design
+decisions and architectural choices more quickly.
+
+It is recommended to reference it from the code itself, in a `README.md` in a
+main module directory or a comment at the top-level of a related Ruby class.
