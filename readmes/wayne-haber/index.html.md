@@ -99,7 +99,7 @@ Please be an [accountability partner](https://medium.com/@MaryLouWrites/accounta
 
 Themes:
 * AI in everything we do
-* Deliver on high prioritry product roadmap items for secure, govern, growth, and data science
+* Deliver on high priority product roadmap items for secure, govern, growth, and data science
 * Growth of team members (hiring + training)
 * Application health (error budgets, burndown UX issues, component upgrades, cross-functional collaboration)
 
