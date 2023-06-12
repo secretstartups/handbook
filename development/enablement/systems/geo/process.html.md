@@ -323,6 +323,9 @@ Process summary:
 | Month     | Name |
 | -------   | ---- |
 | **2023**  |      |
+| November  | [`@jbobadilla-ext`](https://gitlab.com/jbobadilla-ext) |
+| October   | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
+| September | [`@brodock`](https://gitlab.com/brodock) |
 | August     | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
 | July     | [`@vsizov`](https://gitlab.com/vsizov) |
 | June     | [`@mkozono`](https://gitlab.com/mkozono) |
