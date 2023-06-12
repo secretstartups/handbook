@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Security Awareness Training Procedure"
-description: "Security Training Procedure"
+title: "Security Awareness Training Standard"
+description: "Security Training Standard"
 ---
 
 ## On this page
@@ -23,11 +23,11 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 </div>
 
 ## Purpose
-Security Trainings and Awareness is key to ensuring that GitLab team members are continuously being provided user education activities and exercises about evolving threats, compliance obligations and secure workplace practices, in order to refine and improve their awareness to stay vigilant and trained in security core competencies.
+Security Trainings and Awareness is key to ensuring that GitLab team members are continuously provided with user education activities and exercises about evolving threats, compliance obligations, and secure workplace practices in order to refine and improve their awareness.
 
 ## Scope
 
-Applies to all GitLab team members, contractors/Temporary Service Providers (TSPs), consultants, vendors and other service providers that handle, manage, store or transmit GitLab data in support of GitLab's statutory, regulatory and contractual requirements. 
+This standard applies to all GitLab team members, contractors/Temporary Service Providers (TSPs), consultants, vendors and other service providers that handle, manage, store or transmit GitLab data in support of GitLab's statutory, regulatory and contractual requirements. 
 
 ### Definitions
 
@@ -40,36 +40,36 @@ Applies to all GitLab team members, contractors/Temporary Service Providers (TSP
 
 | Role | Responsibilities |
 |------|----------|
-| GitLab Team Members | Responsible for following the requirements of this procedure |
-| Security Governance Team | Responsible for managing and execution of security trainings and programs outlined in this procedure |
-| Security Governance Management | Responsible for oversight, escalation and approval of exceptions for this procedure |
-| Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
+| GitLab Team Members | Responsible for following the requirements of this standard |
+| Security Governance Team | Responsible for the management and execution of security trainings and programs outlined in this standard |
+| Security Governance Management | Responsible for oversight, escalation and approval of exceptions for this standard |
+| Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this standard |
 
-## Procedure
+## Standard
 All GitLab Team members and contractors/TSPs are required to participate in GitLab's General Security Awareness Training, New Hire Training and on-going phishing simulations and training, or show evidence of equivalent training completion within the calendar year.  Security Trainings that require participation include the following:
 
 ### New Hire Security Training
-[New Hire Security Training](https://about.gitlab.com/handbook/security/#new-hire-security-training) is required to be completed by all GitLab Team Members and contractors/TSPs during their onboarding at GitLab and [annually thereafter](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-awareness-training.html). This security training provides new hires with the knowledge to identify cybersecurity threats, vulnerabilities, and attacks.
+[New Hire Security Training](https://about.gitlab.com/handbook/security/#gitlab-security-awareness-training) is required to be completed by all GitLab Team Members and contractors/TSPs during their onboarding at GitLab. This security training provides new hires with the knowledge to identify cybersecurity threats, vulnerabilities, and attacks.
 
 ### General Security Awareness Training (GSAT)
-The GitLab [security awareness training program](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-awareness-training.html) provides ongoing training to GitLab team members that enhances knowledge and identification of cybersecurity threats, vulnerabilities, and attacks as well as satisfying external regulatory requirements and bolster customer assurance. GitLab's handbook-first General Security Awareness Training is provided annually via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party provider, and requires participation and completion by all GitLab Team Members and contractors/TSPs.
+The GitLab [security awareness training program](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-awareness-training.html) provides ongoing training to GitLab team members that enhances knowledge and identification of cybersecurity threats, vulnerabilities, and attacks as well as satisfying external regulatory requirements. GitLab's handbook-first General Security Awareness Training is provided annually via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party provider, and requires participation and completion by all GitLab Team Members and contractors/TSPs.
 
 Exceptions during the active campaign will be made for GitLab team members on extended leave.
 
 ### Phishing Training
-The GitLab [Phishing Training Program](https://about.gitlab.com/handbook/security/security-assurance/governance/phishing.html) is designed to educate and evaluate GitLab's ability to detect and prevent phishing attempts.  Ongoing [phishing simulations and trainings](https://about.gitlab.com/handbook/security/#phishing-tests) are conducted at a minimum, once per quarter, via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party provider, and requires participation and completion by all assigned GitLab Team Members and contractors/TSPs.
+The GitLab [Phishing Training Program](https://about.gitlab.com/handbook/security/security-assurance/governance/phishing.html) is designed to educate and evaluate GitLab's ability to detect and prevent phishing attempts.  Ongoing [phishing simulations and trainings](https://about.gitlab.com/handbook/security/#phishing-simulations) are conducted once per quarter via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party provider, and requires participation and completion by all assigned GitLab Team Members and contractors/TSPs.
 
-Remember: See something, say something and always report via [PhishAlarm](https://about.gitlab.com/handbook/security/#option-1-preferred).
+Remember: If you see something, say something, and always report suspicious emails via [PhishAlarm](https://about.gitlab.com/handbook/security/#option-1-preferred).
 
 ### Data Classification Training
 
-To maintain our culture of security, transparency and to minimize the risk to our sensitive data and our customers, GitLab team members are encouraged to complete [Data Classification Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-data-classification-training) to help understand the different types of data at GitLab and how to keep it [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).  This is a recommended training.
+To maintain our culture of security and transparency, and to minimize the risk to our sensitive data and our customers, GitLab team members are encouraged to complete [Data Classification Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-data-classification-training) to help understand the different types of data at GitLab and how to keep it [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/). This is a recommended training.
 
 ### Secure Coding Training
 
-The [GitLab Secure Coding Training](https://about.gitlab.com/handbook/security/secure-coding-training.html) is a required training completed by a sub-group of GitLab Team Members and contractors/TSPs in the Engineering Department.  This training contains descriptions and [Secure Coding Guidelines](https://docs.gitlab.com/ee/development/secure_coding_guidelines.html) for OWASP (Open Web Application Security Project) addressing security vulnerabilities commonly identified in the GitLab codebase. This training is intended to help developers identify potential security vulnerabilities early, with the goal of reducing the number of vulnerabilities released over time. 
+The [GitLab Secure Coding Training](https://about.gitlab.com/handbook/security/secure-coding-training.html) is a required training completed by a sub-group of GitLab Team Members and contractors/TSPs in the Engineering Department.  This training contains descriptions and [Secure Coding Guidelines](https://docs.gitlab.com/ee/development/secure_coding_guidelines.html) from OWASP (Open Web Application Security Project) addressing security vulnerabilities commonly identified in the GitLab codebase. This training is intended to help developers identify potential security vulnerabilities early, with the goal of reducing the number of vulnerabilities released over time. 
 
-GitLab's handbook-first Secure Coding Training is provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party provider.
+GitLab's handbook-first Secure Coding Training is provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/).
 
 Exceptions during the active campaign will be made for GitLab team members on extended leave.
 
