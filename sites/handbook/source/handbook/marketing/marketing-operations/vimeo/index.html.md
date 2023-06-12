@@ -50,7 +50,7 @@ If a team is needing access to Vimeo, please open a [bulk access request](https:
 
 ## Support
 
-1. `#mktgops`
+1. `#brand_video` in Slack
 1. [Contact Support](https://vimeo.com/help/contact)
 1. [Help Center](https://vimeo.com/help)
 

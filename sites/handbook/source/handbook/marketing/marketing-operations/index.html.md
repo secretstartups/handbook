@@ -554,6 +554,7 @@ Status in the table below means:
 | Purchased List | purchased list |  | Active |
 | Employee Referral | referral |  | Active |
 | Partner Qualified Lead | referral| GitLab partner sourced, previously `partner` or `Channel Qualified Lead`| Active|
+| Web Chat | inbound | Engaged with us through website chat bot | Active|
 | Word of Mouth | referral |  | Active |
 | Existing Client | referral |  | Active |
 | External Referral | referral |  | Active |
@@ -568,7 +569,6 @@ Status in the table below means:
 
 | Source | Source Bucket | Definition and/or transition plan | Status* |
 | ------ | ------------- | --------------------------------- | ------- |
-| Web Chat | inbound | Engaged with us through website chat bot | Inactive |
 | Startup Application | inbound |  | Inactive |
 | Consultancy Request | inbound |  | Inactive |
 | Promotion | paid demand gen |  | Inactive |
