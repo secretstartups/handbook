@@ -61,8 +61,8 @@ Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSf5yUA-H0RS
 | Date | Description | Related Resources |
 | ----- | ----- | ----- |
 | May 2023 | Discuss program details with Women's TMRG group meeting |  |
-| 2023-06-12  | Call for Mentors | |
-| 2023-06-12 | Call for Mentees | |
+| 2023-06-12  | Call for Mentors | [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfkudZz3p1PsUxM4cHD9kuDRe4SQeqxM7fovVuK1bFpJPqzFQ/viewform?usp=sf_link) |
+| 2023-06-12 | Call for Mentees | [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSc5DLUdcJ6gvBd0qPqLtmgMYw7Of-66Ecg0XOck2xQCHvEIBg/viewform?usp=sf_link) |
 | 2023-06-23  | Applications Close | |
 | 2023-06-30   | Pairing of mentor relationships complete and communicated to applicants | |
 | By 2023-07-14   | Pre-Program survey sent via Culture Amp | |
