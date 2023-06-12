@@ -99,6 +99,14 @@ The main goals for this rotation:
 
 | Month     | Name             |
 | -----     | ------           |
+| **2023**  | |
+| December  | [`@jbobadilla-ext`](https://gitlab.com/jbobadilla-ext) |
+| November  | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
+| October   | [`@brodock`](https://gitlab.com/brodock) |
+| September | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
+| August    | [`@vsizov`](https://gitlab.com/vsizov) |
+| July      | [`@mkozono`](https://gitlab.com/mkozono) |
+| June      | [`@ibaum`](https://gitlab.com/ibaum) |
 | **2022**  | |
 | July      | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
 | June      | [`@mkozono`](https://gitlab.com/mkozono) |
@@ -107,25 +115,4 @@ The main goals for this rotation:
 | March     | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
 | February  | [`@cat`](https://gitlab.com/cat) |
 | January   | [`@vsizov`](https://gitlab.com/vsizov) |
-| **2021**  | |
-| December  | [`@ibaum`](https://gitlab.com/ibaum) |
-| November  | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
-| October   | [`@mkozono`](https://gitlab.com/mkozono) |
-| September | [`@brodock`](https://gitlab.com/brodock) |
-| August    | [`@vsizov`](https://gitlab.com/vsizov) |
-| July      | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
-| June      | [`@mkozono`](https://gitlab.com/mkozono) |
-| May       | [`@ibaum`](https://gitlab.com/ibaum) |
-| April     | [`@alexives`](https://gitlab.com/alexives) |
-| March     | [`@vsizov`](https://gitlab.com/vsizov) |
-| February  | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
-| January   | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta)|
-| **2020**  | |
-| December  | [`@brodock`](https://gitlab.com/brodock)   |
-| November  | [`@mkozono`](https://gitlab.com/mkozono) |
-| October   | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
-| September | [`@alexives`](https://gitlab.com/alexives) |
-| August    | [`@vsizov`](https://gitlab.com/vsizov) |
-| July      | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
-| June      | [`@toon`](https://gitlab.com/toon) |
-| May       | [`@mkozono`](https://gitlab.com/mkozono) |
+
