@@ -22,9 +22,9 @@ The Data Team default for observing the status of the data is using Monte Carlo.
 
 ### Current State and Use Cases of Monte Carlo
 
-- `Number of Users:` 20
+- `Number of Users:` 30
 - `Number of systems:` 1 (Snowflake)
-- `Number of tables:` 6,000+ tables
+- `Number of tables:` 7,000+ tables
 - `Tables under active Alert:` 1,700+ tables
 - Part of [Daily Data Triage](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/)
 - Create Custom Monitors for advanced use cases
@@ -43,7 +43,7 @@ We use the [#data-pipelines](https://gitlab.slack.com/archives/C0384JBNVDJ) Slac
 We are planning on using the [#data-analytics](https://gitlab.slack.com/archives/CBZD1BA5S) Slack channel in the near future for model related alerts, as soon as we have implemented the full notification strategy for Monte Carlo.
 This work is planned under this epic for F23Q3: [Onboard Analytics Engineers to the Monte Carlo Tool](https://gitlab.com/groups/gitlab-data/-/epics/615)
 
-Monte Carlo is becoming an integral part of our [Daily Data Triage](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/) and will replace the [TD Trusted Data Dashboards](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-operations-dashboard).
+Monte Carlo is an integral part of our [Daily Data Triage](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/) and will replace the [TD Trusted Data Dashboards](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-operations-dashboard).
 
 
 ```mermaid
@@ -66,14 +66,15 @@ The whole body of work covering the Monte Carlo rollout at GitLab falls under ep
 
 Login to Monte Carlo is done via Okta. Go to https://getmontecarlo.com/signin.
 The following screen appears upon login and after providing your email and clicking "Sign in with SSO", you should be redirected to your Okta login.
+Please note, you need to login via SSO and not via username/password.
 
 ![image](/handbook/business-technology/data-team/platform/monte-carlo/screenshot-1.png)
 
 A runbook of how everything is technically set up can be found in the [Monte Carlo Runbook](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/runbooks/-/wikis/IT-Runbooks/App-Setup/Monte-Carlo:-How-It's-Built).
 
-The gist of it is that there is an Okta Group called Data that is a generic group which adds all users with `department = Data` to it.
-This department group has the Monte Carlo app assigned to it.
-In order to be able to access Monte Carlo via Okta by default, your user should be part of the Data department.
+The gist of it is that there is an Okta Group called `okta-montecarlo-users` that is maintained by the Data team and has the Monte Carlo app assigned to it.
+In order to be able to access Monte Carlo via Okta by default, your user should be part of the `okta-montecarlo-users` group. 
+For that you should submit an AR (similar ARs: [Example AR 1]](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/22860), [Example AR 2](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/22878)) and assign it to Rigerta Demiri (@rigerta) or ping the #data channel linking the AR.
 
 ## Navigating the UI
 
@@ -136,8 +137,8 @@ All incidents are reported in MonteCarlo incident portal. For triage purposes th
 |           | LEGACY `***`                                         | -                    | -                    | -                                   | -                    |
 
 
-`*` COMMON is also the COMMON_RESTRICTED equivalent. It excludes COMMON_PREP and COMMON_MAPPING    
-`**` WORKSPACE-DATA-SCIENCE is the only workspace schema we are including in the notification strategy    
+`*` COMMON is also the COMMON_RESTRICTED equivalent. It excludes `COMMON_PREP` and `COMMON_MAPPING`
+`**` WORKSPACE-DATA-SCIENCE is the only workspace schema we are including in the notification strategy
 `***` Only these two models (`snowplow_structured_events_400` and `snowplow_structured_events_all`) of the `LEGACY` schema have been included temporarily as per [!7049](https://gitlab.com/gitlab-data/analytics/-/merge_requests/7049)
 
 ## Domains
