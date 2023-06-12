@@ -114,7 +114,7 @@ As a mentee, you benefit from:
 
 ## Mentee requirements
 
-- You're a woman-identifying, including all women and trans women, or non-binary team member at GitLab.
+- You're a woman, including cis and trans women, or non-binary team member at GitLab.
 - You have been with GitLab for at least 3 months at the time of application 
 - You have availability in your schedule to meet with your mentor on a bi-weekly basis for at least 30 minute meetings for the entire length of the program
 - You plan to make every effort to attend all live trainings included in the program structure
