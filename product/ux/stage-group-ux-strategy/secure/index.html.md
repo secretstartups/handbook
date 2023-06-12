@@ -19,9 +19,10 @@ We have different user types we consider in our experience design effort. Even w
 * [Software Developer](/handbook/product/personas/#sasha-software-developer)
 * [Development Tech Lead](/handbook/product/personas/#delaney-development-team-lead)
 * [DevOps Engineer](/handbook/product/personas/)
-* [Security Analyst](/handbook/product/personas/#sam-security-analyst)
+* [Application Security Engineer](/handbook/product/personas/#amy-application-security-engineer)
+* [Infrastructure Security Engineer](/handbook/product/personas/#isaac-infrastructure-security-engineer)
+* [Security Operations Engineer](/handbook/product/personas/#alex-security-operations-engineer)
 * [Compliance Manager](/handbook/product/personas/#cameron-compliance-manager)
-* [Security Engineer](/handbook/product/personas/#alex-security-operations-engineer)
 * Chief Information Security Officer
 
 Generally, developers are the users of the vulnerability reports in the MR/pipeline while security professionals are the users of the Security Dashboards.

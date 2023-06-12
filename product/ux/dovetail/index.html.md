@@ -120,7 +120,7 @@ Gitlab Global Tags are organized into six categories:
 | User Feedback | Useful to describe what a user said during their research session.<br>Also a set of tags with generic options (A through D) which can be used in [Solution Validation](/handbook/product/ux/ux-research/solution-validation-and-methods/).<br>| A user might have a `feature request` when talking about a functionality they want in their workflow.<br><br>Or, the user could `Prefer Option B` in a design evaluation.                                            |
 | User Emotion  | These tags are related to the user’s attitude towards the UI, like in a [usability test](/handbook/product/ux/ux-research/usability-testing/) or walkthrough. | A user could feel `overwhelmed` when being presented with a UI. |
 | Workflow      | Can be used to track the user’s actions in their workflow specifically.<br><br>Also a subset of tags with generic task numbers (1-10), which can be used for [usability tests](/handbook/product/ux/ux-research/usability-testing/) or [UX Scorecards](/handbook/product/ux/ux-scorecards/#option-b-perform-a-formative-evaluation).| You could use the `unsuccessful end task` tag if a user finished a series of tasks, but missed a key deliverable.<br><br>Or, you may want to keep track of when a user finished `task 1` and `task 2`.|
-| Personas      | Each tag relates to one of our [user personas](/handbook/product/personas/#list-of-user-personas), or characteristics of those personas.<br><br>Use these tags when looking for jobs or features that correspond to certain personas.| When a user configures a static scanner, they could be `Sam, Security Analyst`.<br><br>Or, if you are performing [foundational research](/handbook/product/ux/ux-research/foundational-research/) on the users’ organization, you could use `enterprise` or `start-up` tags. |
+| Personas      | Each tag relates to one of our [user personas](/handbook/product/personas/#list-of-user-personas), or characteristics of those personas.<br><br>Use these tags when looking for jobs or features that correspond to certain personas.| When a user configures a static scanner, they could be `Amy, Application Security Engineer`.<br><br>Or, if you are performing [foundational research](/handbook/product/ux/ux-research/foundational-research/) on the users’ organization, you could use `enterprise` or `start-up` tags. |
 | JTBD          | Most of the tags relate to the various stages in [mapping jobs](/handbook/product/ux/jobs-to-be-done/mapping-jobs-to-be-done/#how-to-create-a-job-map).<br><br>Can be used when performing foundational jobs research such as [contextual inquiries](/handbook/product/ux/ux-research/problem-validation-and-methods). | When conducting a contextual, a user may talk about monitoring their pipeline, which could be tagged with `Step in Job - monitor`.|
 
 #### Global tag definitions
@@ -206,20 +206,21 @@ Gitlab Global Tags are organized into six categories:
 
 | Tag      | Definition       |
 | ------------- | ------------- |
-| Cameron, Compliance Manager | Participant’s role or tasks match with [Cameron](/handbook/product/personas/#cameron-compliance-manager). |
 | Parker, Product Manager | Participant’s role or tasks match with [Parker](/handbook/product/personas/#parker-product-manager). |
 | Delaney, Development Team Lead | Participant’s role or tasks match with [Delaney](/handbook/product/personas/#delaney-development-team-lead). |
 | Presley, Product Designer | Participant’s role or tasks match with [Presley](/handbook/product/personas/#presley-product-designer). |
 | Sasha, Software Developer | Participant’s role or tasks match with [Sasha](/handbook/product/personas/#sasha-software-developer). |
 | Devon, DevOps Engineer | Participant’s role or tasks match with [Devon](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/persona-snippets/user-personas/devon/). |
 | Sidney, Systems Administrator | Participant’s role or tasks match with [Sidney](/handbook/product/personas/#sidney-systems-administrator). |
-| Sam, Security Analyst | Participant’s role or tasks match with [Sam](/handbook/product/personas/#sam-security-analyst). |
 | Rachel, Release Manager | Participant’s role or tasks match with [Rachel](/handbook/product/personas/#rachel-release-manager). |
-| Alex, Security Operations Engineer | Participant’s role or tasks match with [Alex](/handbook/product/personas/#alex-security-operations-engineer). |
 | Simone, Software Engineer in Test | Participant’s role or tasks match with [Simone](/handbook/product/personas/#simone-software-engineer-in-test). |
 | Allison, Application Ops | Participant’s role or tasks match with [Allison](/handbook/product/personas/#allison-application-ops). |
 | Ingrid, Infrastructure Operator | Participant’s role or tasks match with [Ingrid](/handbook/product/personas/#ingrid-infrastructure-operator). |
 | Dakota, Application Development Director | Participant’s role or tasks match with [Dakota](/handbook/product/personas/#dakota-application-development-director). |
+| Amy, Application Security Engineer | Participant’s role or tasks match with [Amy](/handbook/product/personas/#amy-application-security-engineer). |
+| Isaac, Infrastructure Security Engineer | Participant’s role or tasks match with [Isaac](/handbook/product/personas/#isaac-infrastructure-security-engineer). |
+| Alex, Security Operations Engineer | Participant’s role or tasks match with [Alex](/handbook/product/personas/#alex-security-operations-engineer). |
+| Cameron, Compliance Manager | Participant’s role or tasks match with [Cameron](/handbook/product/personas/#cameron-compliance-manager). |
 | New or unknown persona | User persona that we haven’t previously identified in our [handbook](/handbook/product/personas/). |
 | Buyer personas | Users who serve as the main buyer in an organization or a champion within an enterprise that drives the buying conversation. |
 | Team leader | User who is in a management role and does have direct reports. |

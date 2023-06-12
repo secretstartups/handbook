@@ -54,7 +54,6 @@ and make better-focused decisions during product development. [Learn more](/hand
 #### List of User Personas
 We describe the following personas in terms of the jobs they do, their motivations and frustrations. Understanding our users through this lens helps us contribute to a product that supports their workflow. 
 
-  1. [Cameron, Compliance Manager](/handbook/product/personas/#cameron-compliance-manager)
   1. [Parker, Product Manager](/handbook/product/personas/#parker-product-manager)
   1. [Delaney, Development Team Lead](/handbook/product/personas/#delaney-development-team-lead)
   1. [Presley, Product Designer](/handbook/product/personas/#presley-product-designer)
@@ -62,13 +61,15 @@ We describe the following personas in terms of the jobs they do, their motivatio
   1. [Priyanka, Platform Engineer](/handbook/product/personas/#priyanka-platform-engineer)
   2. [Janell, Enablement Advocate](/handbook/product/personas/#janell-enablement-advocate)
   1. [Sidney, Systems Administrator](/handbook/product/personas/#sidney-systems-administrator)
-  1. [Sam, Security Analyst](/handbook/product/personas/#sam-security-analyst)
   1. [Rachel, Release Manager](/handbook/product/personas/#rachel-release-manager)
-  1. [Alex, Security Operations Engineer](/handbook/product/personas/#alex-security-operations-engineer)
   1. [Simone, Software Engineer in Test](/handbook/product/personas/#simone-software-engineer-in-test)
   1. [Allison, Application Ops](/handbook/product/personas/#allison-application-ops)
   1. [Ingrid, Infrastructure Operator](/handbook/product/personas/#ingrid-infrastructure-operator)
   1. [Dakota, Application Development Director](/handbook/product/personas/#dakota-application-development-director)
+  1. [Amy, Application Security Engineer](/handbook/product/personas/#amy-application-security-engineer)
+  1. [Isaac, Infrastructure Security Engineer](/handbook/product/personas/#isaac-infrastructure-security-engineer)
+  1. [Alex, Security Operations Engineer](/handbook/product/personas/#alex-security-operations-engineer)
+  1. [Cameron, Compliance Manager](/handbook/product/personas/#cameron-compliance-manager)
 
 #### Personas across stages
 Our personas span across stages (see table below for a depiction of how our user personas map across stages). Understanding how our personas map across stages helps us understand how to collaborate cross-functionally to support their needs. 
@@ -78,32 +79,6 @@ Our personas span across stages (see table below for a depiction of how our user
 </figure>
 
 _Note: To change the table above, team members can edit the [Google Slide deck](https://docs.google.com/presentation/d/1IVDu5RIlywcRCqpkXzdSG7lW8dNiE_XHq54GdI7lkfk/edit?usp=sharing)._
-
-#### Cameron (Compliance Manager)
-
-- **Alternative Job Titles:** Compliance Program Manager, Audit Report Analyst, Audit Events Analyst
-
-##### Job Summary
-
-I’m in charge of ensuring that our organization’s use of third-party software adheres to internal company policy. This can consist of the SDLC, access management, change management, and a multitude of other policies. I interface regularly with our internal compliance, audit, and/or security teams to deliver the information they need for our organization’s compliance program.
-
-##### Jobs to be done
-
-- I need to be able to provide our internal compliance teams with evidence artifacts that help my company maintain a positive compliance posture.
-- I need to find tools that enable my organization to manage our compliance program and mitigate risk within the application and its use.
-- I need to create effortless processes for compliance so that my team will remain productive and efficient while meeting obligations for our primary job responsibilities.
-
-##### Motivations
-
-- When I’m supporting an audit, I need the information to be available quickly and easily so I can reduce the time and disruption involved in the evidence collection process.
-- When I’m managing my teams and projects, I need to know I’m not introducing unnecessary risks so I can protect the company from liability.
-
-##### Frustrations
-
-- I’m frustrated because it’s difficult to find, aggregate, and report on all of the necessary data for audit purposes.
-- I’m frustrated when tools do not have features that give me peace of mind about our organization’s compliance posture.
-- It’s challenging to compile data in a format that’s efficient and valuable to my internal audit or compliance team.
-- It’s challenging to build custom tooling and services every time we identify a gap in the compliance posture of our tools.
 
 #### Parker (Product Manager)
 
@@ -267,28 +242,6 @@ I maintain and scale our infrastructure and configurations, and my priority is t
 - I'm frustrated when I get inundated by requests from people who have not followed the correct process.
 - I'm frustrated when developers do not implement my recommendations, and I’m responsible for fixing their preventable problems anyway.
 
-#### Sam (Security Analyst)
-
-- **Alternative Job Titles:** Security Consultant, or an Application Security Specialist
-
-##### Job Summary
-
-I wear lots of hats, but the majority of my time is spent monitoring and flagging events, running down high priority tasks and working with other teams to implement new systems.
-
-##### Motivations
-
-- When I’m monitoring my dashboards, I want to see everything I am monitoring in one tool, so I can do my job easier and more efficiently.
-- When security testing, I want to be more proactive than reactive, so I can anticipate potential threats or vulnerabilities before the bad guys do.
-- When I've done all I can do proactively, I also want to be able to enable reactive tools and investigate the data from them as a final layer of defense.
-- When on the job, I want to stay up to date on the latest information and education in information security, so I can grow in my career.
-
-##### Frustrations
-
-- I’m frustrated I don’t have the resources to complete this project to its specifications.
-- I’m frustrated when I know how to fix a security issue but the red tape at my company doesn’t allow me to in a timely manner.
-- I’m concerned that what I don’t know, I don’t know and my company can be attacked in any manner of ways at any time.
-- I’m concerned that I might miss something and my company may become compromised because of it.
-
 #### Rachel (Release Manager)
 
 ##### Jobs to be done
@@ -317,66 +270,6 @@ I wear lots of hats, but the majority of my time is spent monitoring and flaggin
 - JIRA (for tickets from non-technical users)
 - Trello (for planning issues and communication)
 - Slack (for communication)
-
-#### Alex (Security Operations Engineer)
-
-##### My role
-
-I’m the firefighter of the Security team. My objective is to **prevent malicious attacks** and **mitigate active risks** to my organization as they pop up, as **quickly** as possible. In order to do that, I develop detection tooling that generates **trustworthy alerts**, and take part in an on-call rotation where I serve as an **Incident Responder**.
-
-_“I need to be jack of all trades: When SecOps get paged, it could be about anything, and there’s a high probability that the incident concerns something you’ve never dealt with before. The sky could be falling and there’s a lot at stake and so the role of a security operations person can be pretty stressful.”_
-
-##### Jobs to be done
-
-- **Manage incident response:** When I am on-call, I need to respond to and manage incidents as they pop up, so as to mitigate the risk to my organization as quickly as possible.
-- **Real-time documentation:** As an incident unfolds, I want to document as much of what is happening as possible, so that later on I could use that information as part of updating or creating a runbook, and possibly creating an RCA (Root Cause Analysis).
-- **Building detection tools:** When I’m not on-call, I want to build tools that enhance our detection and alerting capabilities, so as to improve my organization’s security stance.
-- **Short-term project management:** As an incident unfolds, I want to assign tasks and coordinate the work of multiple individuals across my organization, so I can move as quickly as possible to remediate the risk.
-
-##### Skills & Personal Traits
-
-- Great ability to divide my focus effectively and deal with interruptions, such as new alerts, new data, and urgent requests from colleagues
-- Good at thinking quickly on my feet and maintaining my composure in stressful situations
-- Can think like an attacker as well as a defender
-- Enjoy building tools (has coding skills)
-- Passionate about improving processes
-- Effective communicator: articulate both verbally and in writing
-- Enjoys the variance of SecOps work
-- Feels relatively comfortable with handling unknown unknowns
-
-##### Frustrations
-
-- It is cumbersome to edit description of timeline in real-time, and it’s especially difficult to do in hindsight. Often the timeline documentation isn’t completed.
-- Often important parts of the info I need in order to handle the incident are either not communicated fully, or are being communicated in an unstructured manner which makes aggregation and searching difficult.
-
-##### Key Tools
-
-- **GitLab Issues**: Tracking, documentation
-- **PagerDuty**: Initiation standpoint, where pages are sent through
-- **Slack, Zoom, GitLab Issues**: Communication
-- **Google Docs**: Real-time documentation
-- **Terminal, coding environment**: Mostly Python, some Go - for building and/or running tools
-- **The Hive**: A security incident management tracking tool
-    - Cortex - part of The Hive, allows for easy automation
-- **A cloud management console**: To access the infrastructure
-- **Various tools for triage and mitigation**:
-    - Docker - to reproduce security issues and test approaches
-    - Accounts for different environments - to test against
-    - ELK stack - to go over logs
-    - Stackdriver or BigQuery - long-term storage, used for incidents that are open for a long period of time
-
-##### Collaboration with other teams
-
-- Infrastructure
-- Legal
-- Compliance, AppSec
-- Support
-- Development teams
-- Various SMEs
-
-##### Related resources
-
-- [Relevant UX Research findings](https://gitlab.com/groups/gitlab-org/-/epics/2215)
 
 #### Simone (Software Engineer in Test)
 
@@ -504,6 +397,174 @@ Dakota is a key IT leader who manages and leads several teams of developers supp
 - **Reactive versus proactive:** Urgent roadblocks, organizational issues and emergencies make it difficult to manage time and workload.
 - **Context switching:** There is a large amount of content to cover across all of my projects and teams.
 - **Creating business cases:** Securing budget for new strategic initiatives and resources for her team is labor-intensive and time-consuming.
+
+#### Amy (Application Security Engineer)
+
+- **Alternative Job Titles:** Application Security Analyst or Specialist
+
+##### My Role
+
+I am responsibility for assessing potential business-critical vulnerabilities, performing code reviews to focus on security best practices, and verifying security fixes in the environment.  
+
+##### Jobs to be done
+
+- When I set up new assessing vulnerabilities, I want to understand the potential threat a particular vulnerability represents to my organization's assets, so that I can prevent the threat from occurring.
+- When I am reviewing feature proposals or a code author's code, I want to ensure the new code will not introduce security vulnerabilities in my organization's assets, so that there are fewer business critical vulnerabilities.  
+- When I am reviewing security fixes, I want to verify there are no remaining threats to the organization's assets, so my organization can be confident about its security.
+
+##### Motivations
+
+- When I’m monitoring my vulnerability dashboards, I want to see everything I am monitoring in one tool, so I can do my job easier and more efficiently.
+- I want to make sure to run all necessary security scans before code is released to remain proactive.
+- When on the job, I want to stay up to date on the latest information and education in information security, so I can grow in my career.
+
+##### Frustrations
+
+- I'm frustrated by the large volume of vulnerabilities that I face.
+- I'm frustrated when I am not provided enough time to assess all of the vulnerabilities I face.
+- I'm frustrated when code authors do not provide enough documentation or context related to the security of their code changes.
+
+##### Collaboration with other teams
+
+- Infrastructure security teams
+- Development teams
+- Compliance 
+
+##### Resources
+- [Relevant UX Research findings](https://gitlab.com/groups/gitlab-org/-/epics/7363)
+
+#### Isaac (Infrastructure Security Engineer)
+
+- **Alternative Job Titles:** Infrastructure Security Analyst or Specialist
+
+##### My Role
+
+I am responsibility for creating and maintaining security tools, monitoring production environments, and assessing security tools to ensure my organization's assets are compliant with the security requirements. 
+
+##### Jobs to be done
+
+- When my organization has a new security policy they must follow, I want to create security tools to ensure my organization's assets are compliant with the policies, so that I can prevent the threat from occurring.
+- When reviewing a code author's code, I want to ensure the new code will not introduce security vulnerabilities in my organization's assets, so that there are fewer business critical vulnerabilities.  
+- When assessing my organization's assets, I want to verify there are no uncompliant areas in the organization's assets.
+
+##### Motivations
+
+- When I’m monitoring my dashboards, I want to see everything I am monitoring in one tool, so I can do my job easier and more efficiently.
+- When evaluating the security of production environments, I want to be more proactive than reactive, so I can anticipate potential threats or vulnerabilities before the bad guys do.
+- When I've done all I can do proactively, I also want to be able to enable reactive tools and investigate the data from them as a final layer of defense.
+- When on the job, I want to stay up to date on the latest information and education in information security, so I can grow in my career.
+
+##### Frustrations
+
+- I'm frustrated when internal development teams are noncompliant with a security policy by subverting a security policy or a security tool I created and maintain.
+- I'm frustrated when internal development teams do not respond in a timely manner to fix new vulnerabilities detected in a production environment.
+- I'm frustrated when code authors do not provide enough documentation or context related to the security of their code changes.
+- I'm frustrated when development teams are resistant to security changes.
+
+##### Collaboration with other teams
+
+- Application security teams
+- Security operations teams
+- Development teams
+- Compliance 
+
+##### Resources
+- [Relevant UX Research findings](https://gitlab.com/groups/gitlab-org/-/epics/7363)
+
+#### Alex (Security Operations Engineer)
+
+- **Alternative Job Titles:** Security Operations Analyst or Specialist
+
+##### My role
+
+I’m the firefighter of the Security team. My objective is to **prevent malicious attacks** and **mitigate active risks** to my organization as they pop up, as **quickly** as possible. In order to do that, I develop detection tooling that generates **trustworthy alerts**, and take part in an on-call rotation where I serve as an **Incident Responder**.
+
+_“I need to be jack of all trades: When SecOps get paged, it could be about anything, and there’s a high probability that the incident concerns something you’ve never dealt with before. The sky could be falling and there’s a lot at stake and so the role of a security operations person can be pretty stressful.”_
+
+##### Jobs to be done
+
+- **Manage incident response:** When I am on-call, I need to respond to and manage incidents as they pop up, so as to mitigate the risk to my organization as quickly as possible.
+- **Real-time documentation:** As an incident unfolds, I want to document as much of what is happening as possible, so that later on I could use that information as part of updating or creating a runbook, and possibly creating an RCA (Root Cause Analysis).
+- **Building detection tools:** When I’m not on-call, I want to build tools that enhance our detection and alerting capabilities, so as to improve my organization’s security stance.
+- **Short-term project management:** As an incident unfolds, I want to assign tasks and coordinate the work of multiple individuals across my organization, so I can move as quickly as possible to remediate the risk.
+
+##### Skills & Personal Traits
+
+- Great ability to divide my focus effectively and deal with interruptions, such as new alerts, new data, and urgent requests from colleagues
+- Good at thinking quickly on my feet and maintaining my composure in stressful situations
+- Can think like an attacker as well as a defender
+- Enjoy building tools (has coding skills)
+- Passionate about improving processes
+- Effective communicator: articulate both verbally and in writing
+- Enjoys the variance of SecOps work
+- Feels relatively comfortable with handling unknown unknowns
+
+##### Motivations
+
+- When I’m monitoring my dashboards for security alerts or incidents, I want to see everything I am monitoring in one tool, so I can do my job easier and more efficiently.
+- When security testing, I want to be more proactive than reactive, so I can anticipate potential threats or vulnerabilities before the bad guys do.
+- When I've done all I can do proactively, I also want to be able to enable reactive tools and investigate the data from them as a final layer of defense.
+- When on the job, I want to stay up to date on the latest information and education in information security, so I can grow in my career.
+
+##### Frustrations
+
+- It is cumbersome to edit description of timeline in real-time, and it’s especially difficult to do in hindsight. Often the timeline documentation isn’t completed.
+- Often important parts of the info I need in order to handle the incident are either not communicated fully, or are being communicated in an unstructured manner which makes aggregation and searching difficult.
+
+##### Key Tools
+
+- **GitLab Issues**: Tracking, documentation
+- **PagerDuty**: Initiation standpoint, where pages are sent through
+- **Slack, Zoom, GitLab Issues**: Communication
+- **Google Docs**: Real-time documentation
+- **Terminal, coding environment**: Mostly Python, some Go - for building and/or running tools
+- **The Hive**: A security incident management tracking tool
+    - Cortex - part of The Hive, allows for easy automation
+- **A cloud management console**: To access the infrastructure
+- **Various tools for triage and mitigation**:
+    - Docker - to reproduce security issues and test approaches
+    - Accounts for different environments - to test against
+    - ELK stack - to go over logs
+    - Stackdriver or BigQuery - long-term storage, used for incidents that are open for a long period of time
+
+##### Collaboration with other teams
+
+- Infrastructure
+- Legal
+- Compliance, AppSec
+- Support
+- Development teams
+- Various SMEs
+
+##### Related resources
+
+- [Relevant UX Research findings](https://gitlab.com/groups/gitlab-org/-/epics/2215)
+
+#### Cameron (Compliance Manager)
+
+- **Alternative Job Titles:** Compliance Program Manager, Audit Report Analyst, Audit Events Analyst
+
+##### Job Summary
+
+I’m in charge of ensuring that our organization’s use of third-party software adheres to internal company policy. This can consist of the SDLC, access management, change management, and a multitude of other policies. I interface regularly with our internal compliance, audit, and/or security teams to deliver the information they need for our organization’s compliance program.
+
+##### Jobs to be done
+
+- I need to be able to provide our internal compliance teams with evidence artifacts that help my company maintain a positive compliance posture.
+- I need to find tools that enable my organization to manage our compliance program and mitigate risk within the application and its use.
+- I need to create effortless processes for compliance so that my team will remain productive and efficient while meeting obligations for our primary job responsibilities.
+
+##### Motivations
+
+- When I’m supporting an audit, I need the information to be available quickly and easily so I can reduce the time and disruption involved in the evidence collection process.
+- When I’m managing my teams and projects, I need to know I’m not introducing unnecessary risks so I can protect the company from liability.
+
+##### Frustrations
+
+- I’m frustrated because it’s difficult to find, aggregate, and report on all of the necessary data for audit purposes.
+- I’m frustrated when tools do not have features that give me peace of mind about our organization’s compliance posture.
+- It’s challenging to compile data in a format that’s efficient and valuable to my internal audit or compliance team.
+- It’s challenging to build custom tooling and services every time we identify a gap in the compliance posture of our tools.
 
 ### Internal personas
 

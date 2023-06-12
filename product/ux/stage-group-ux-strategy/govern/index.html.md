@@ -21,10 +21,18 @@ The Govern user is responsible for maintaining the security of their company’s
 
 The Govern user is responsible for risk mitigation, remediation, documenting their processes in timelines and runbooks, collaborating with other teams, meeting compliance standards, and performing root cause analyses. 
 
-Typically, these user roles are: 
+We have different user types we consider in our experience design effort. Even when a user has the same title, their responsibilities may vary by organization size, department, org structure, and role. Here are some of the people we are serving:
 
-- [Security Analyst](/handbook/product/personas/#sam-security-analyst) 
-- SecOps Engineer
+* [Software Developer](/handbook/product/personas/#sasha-software-developer)
+* [Development Tech Lead](/handbook/product/personas/#delaney-development-team-lead)
+* [DevOps Engineer](/handbook/product/personas/)
+* [Application Security Engineer](/handbook/product/personas/#amy-application-security-engineer)
+* [Infrastructure Security Engineer](/handbook/product/personas/#isaac-infrastructure-security-engineer)
+* [Security Operations Engineer](/handbook/product/personas/#alex-security-operations-engineer)
+* [Compliance Manager](/handbook/product/personas/#cameron-compliance-manager)
+* Chief Information Security Officer
+
+Generally, developers are the users of the vulnerability reports in the MR/pipeline while security professionals are the users of the Security Dashboards.
 
 ### UX scorecards 
 
