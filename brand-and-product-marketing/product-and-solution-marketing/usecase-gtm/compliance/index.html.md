@@ -49,7 +49,7 @@ Application security testing is still a foundational part of compliance, but now
 
 **[Sasha the Software Developer](https://about.gitlab.com/handbook/product/personas/#sasha-software-developer)** uses GitLab primarily within the MR pipeline report. The developer cares about compliance and security but does not want to become a compliance expert. Capabilities that help them run fast while staying compliant are appreciated.
 
-**[Sam the Security Analyst](/handbook/product/personas/#sam-security-analyst)** may be tasked with automating and reporting on compliance policies so would like them to be simple, efficient, and automated wherever possible. Sam finds it difficult to control which policies are applied within the development prociess (e.g. CI pipelines) and to keep them from being circumvented. In fact, he may not even know they've been circumvented.
+**[Amy the Application Security Engineer](/handbook/product/personas/#amy-application-security-engineer)** may be tasked with automating and reporting on compliance policies so would like them to be simple, efficient, and automated wherever possible. Amy finds it difficult to control which policies are applied within the development process (e.g. CI pipelines) and to keep them from being circumvented. In fact, she may not even know they've been circumvented.
 
 
 ### Buyer Personas
