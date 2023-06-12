@@ -20,6 +20,22 @@ Example: `We have discussed the topic in Slack - (copy of Slack conversation). T
 * [ ] If the changes affect team members, or warrant an announcement in another way, please post an update in [#whats-happening-at-gitlab][whats-happening-at-gitlab-slack] linking to this MR
     - If this is a change that directly impacts the majority of global team members, it should be a candidate for [#company-fyi][company-fyi-slack]. Please work with [internal communications][internal-communications] and check the handbook for examples.
 
+<!-- Quick actions for assignment, labels, review requests. Please update them as needed. -->
+
+<!-- Assign yourself -->
+
+/assign me
+
+<!-- Apply labels: You can keep or remove `~"internal-handbook::content"` as needed, add other relevant labels, or remove this line. -->
+
+/label ~"handbook::content"
+
+<!-- Assign reviewer(s), following https://about.gitlab.com/handbook/handbook-usage/#when-to-get-approval. Remove the [HTML comment tags](https://www.w3schools.com/tags/tag_comment.asp) to enable. -->
+
+<!--
+/assign_reviewer codeowner-maintainer-or-manager
+-->
+
 ---
 
 <!-- DO NOT REMOVE -->
@@ -32,5 +48,4 @@ Example: `We have discussed the topic in Slack - (copy of Slack conversation). T
 [company-fyi-slack]: https://gitlab.slack.com/archives/C010XFJFTHN
 [whats-happening-at-gitlab-slack]: https://gitlab.slack.com/archives/C0259241C
 
-/label handbook::content
-/assign @me
+
