@@ -29,7 +29,7 @@ description: "Tableau at GitLab"
 
 ### FY24 Tableau Deployment Roadmap
 
-We follow the nomenclature found in the [GitLab Docs](https://docs.gitlab.com/ee/policy/alpha-beta-support.html) and will stand-up the Tableau Production program using Experimental, Beta, and Generally Available dashboards.
+We follow the nomenclature found in the [GitLab Docs](https://docs.gitlab.com/ee/policy/experiment-beta-support.html) and will stand-up the Tableau Production program using Experimental, Beta, and Generally Available dashboards.
 
 - FY24-Q1 - Experimental Dashboards
     - Ready Tableau Online environment for Production Releases 
