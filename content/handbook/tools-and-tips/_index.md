@@ -1013,4 +1013,18 @@ Jamboard is a collaborative whiteboarding platform, accessible at https://jamboa
 
 - Search and find things by typing words from document/issue/etc page titles into the urlbar (anything that appears in the page title). The search is "best effort" but surprisingly efficient at finding that doc or issue you've accessed recently.
 - "Search engines" help even more! Typing "drive" and pressing Tab, for example, searches in Google Drive. To discover and customize them, go to `Settings > Search engine`.
-- Logging in to the browser (with your GitLab Workspace account) preserves your profile across installations.
+- Practice [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en). Here are a few common helpful shortcuts:
+    - Jump to the address bar: `cmd l`
+    - Create a new tab `cmd t`, close a tab `cmd w`, undo close tab `cmd shift t`
+    - Open new incognito window: `cmd shift n` (e.g. to reproduce a UI bug, or login problem)
+    - Search all opened tabs: `cmd shift a`
+    - Hide the bookmarks bar: `cmd shift b` (e.g. for screenshots, or shared screen presentations)
+    - Open the developer tools: `cmd option i` (e.g. for debugging website errors)
+- You can [organize tabs into tab groups](https://www.google.com/chrome/tips/#organize), assign names and custom colors, and collapse or reorder them. Moving tabs between groups also works across browser windows.
+- Logging in to the browser (with your GitLab Workspace account) preserves [your profile across installations](https://www.google.com/chrome/tips/#customize). This is helpful to migrate bookmarks, extensions, and configuration [when refreshing your laptop](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#gitlab-laptop-refreshes-for-team-members).
+
+#### Chrome Performance Settings
+
+1. Enable the [memory saver](https://support.google.com/chrome/answer/12929150?hl=en). This will pause inactive tabs and reduce memory consumption.
+1. Enable the [energy saver](https://support.google.com/chrome/answer/12929150?hl=en). This can help extend battery life by telling Chrome to reduce background task activities.
+
