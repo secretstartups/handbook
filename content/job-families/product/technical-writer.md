@@ -126,7 +126,6 @@ Extends the Staff Technical Writer responsibilities in complexity and scope.
 ## Performance Indicators
 
 - [Technical Writing team member MR rate](https://about.gitlab.com/handbook/product/ux/performance-indicators/#technical-writing-team-member-mr-rate)
-- [Distribution of Technical Writing team documentation effort](https://about.gitlab.com/handbook/product/ux/performance-indicators/#distribution-of-technical-writing-team-documentation-effort)
 - [Technical Writing collaboration on UI text](https://about.gitlab.com/handbook/product/ux/performance-indicators/#technical-writing-collaboration-on-ui-text)
 
 ## Hiring Process
