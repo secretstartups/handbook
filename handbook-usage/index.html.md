@@ -234,6 +234,8 @@ All team members will have this added to their Okta access when they join the co
 
 The handbook is a living document and we'll occasionally need to change URLs or move pages. This is [the process Growth Marketing uses to set up and manage redirects](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect) for about.gitlab.com.
 
+When you rename a file/URL please remember to add a redirect to [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml) by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md). You'll also want to ensure you find/replace all instances of the old URL/anchor with the new one, which can be accomplished using this [practical handbook edits example](/handbook/practical-handbook-edits/#find-and-replace-a-string-in-all-matching-files).
+
 ## Management
 
 It is each department and team member's responsibility to ensure the handbooks (public handbook, internal handbook, and staging handbook) stay current. The content in the handbook should be accurate and follow the same format as outlined in the [Guidelines](/handbook/handbook-usage/#handbook-guidelines). For questions on who to submit a merge request to, or assistance with the handbook, please reach out on the `#handbook` Slack channel.
