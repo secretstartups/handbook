@@ -194,17 +194,17 @@ If you're promoted from Manager to Senior Manager, you'll continue Elevate witho
 
 ## Making up missed sessions
 
-Attendance to all Elevate live sessions is required to earn the certification. We understand that making time for all live sessions can be difficult. We have 2 options for making up sessions you've missed:
+Attendance to all Elevate live sessions is required to earn the certification. We understand that making time for all live sessions can be difficult. We have options for making up sessions you've missed:
 
 **Option 1: Attend Another Session**
 
-There are **5 Live Learning** and **10 Group Coaching** sessions for each module. If you cannot attend your scheduled sessions, Option 1 is to attend another scheduled session.
+There are **5 Live Learning** and **10 Group Coaching** sessions for each module. If you cannot attend your scheduled sessions, Option 1 is to attend another scheduled session. Additonal Group Coaching makeups will be scheduled after each module to accommodate anyone who has missed a session.
 
 Note: You will be initially be invited to 4 Live Learning & 1 Group Coaching session - invites will be shared to the other makeup sessions based on your availability.
 
 **Option 2: Buddy Makeup**
 
-If none of the 5 Live Learning or 10 Group Coaching session will work, you may use Option 2: Buddy Makeup. Note that this can only be used a total of **one time** per participant.
+If none of the 5 Live Learning sessions will work, you may use Option 2: Buddy Makeup. Note that this can only be used a total of **one time** per participant.
 
 Buddy Makeups require the following:
 
