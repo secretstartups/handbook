@@ -73,7 +73,7 @@ We are mindful of [holidays](https://about.gitlab.com/handbook/support/support-t
 | Easter Friday                           | Movable            | Australia, NZ, Philippines |                                                                                                                                            |
 | Easter Monday                           | Movable            | Australia, NZ, Philippines |                                                                                                                                            |
 | ANZAC Day                               | 25th April         | Australia, NZ              | Let AMER know in time for the Friday prior due to no coverage for first 2-5 hours of business hours on a Monday.                           |
-| Monarch's Birthday                      | 1st Monday in June | NZ                         | Let AMER know in time for the Friday prior due to no coverage for first 2 hours of business hours on a Monday.in time for the Friday prior |
+| Monarch's Birthday                      | 1st Monday in June | NZ                         | Let AMER know in time for the Friday prior due to no coverage for first 2 hours of business hours on a Monday. |
 | Monarch's Birthday                      | 2nd Monday in June | Australia (except QLD)     |                                                                                                                                            |
 | Independence Day                        | 12th June          | Philippines                | Be aware that this can coincide with Australia's observation of Monarch's Birthday when June 12 is a Monday.                               |
     
