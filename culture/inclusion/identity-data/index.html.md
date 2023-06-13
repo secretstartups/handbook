@@ -7,15 +7,11 @@ canonical_path: "/company/culture/inclusion/identity-data/"
 
 #### GitLab Identity Data
 
-<embed width="49.7%" height="300" src="<%= signed_periscope_url(dashboard: 1131846, embed: 'v2') %>">
-
 Data as of 2023-01-31
 
-##### Country Specific Data
+##### Region Specific Data
 
-<embed width="49.7%" height="300" src="<%= signed_periscope_url(dashboard: 1131846, chart: 16548799, embed: 'v2') %>">
-
-| **Country Information** | **Percentages** |
+| **Region Information** | **Percentages** |
 |---|:---:|
 | Based in JAPAC | 12.90% |
 | Based in EMEA | 30.60% |
