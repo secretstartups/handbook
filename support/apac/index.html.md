@@ -67,13 +67,16 @@ coverage.
 
 We are mindful of [holidays](https://about.gitlab.com/handbook/support/support-time-off.html#holiday-time-off-ticket-management) that impact large parts of the team. The following are official holidays for mostly APAC team members, which we plan coverage for outside of global practices: 
 
-* Impact to both APAC Groups 1 and 2: 
-    * Australia Day/India Republic Day (26 January)
-
-* Impact mostly to APAC Group 1 
-    * Easter Friday 
-    * Easter Monday
-    * Anzac Day (25-April)
+| **Holiday**                             | **Date**           | **Countries**              | **Notes**                                                                                                                                  |
+|-----------------------------------------|--------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| - Australia Day<br>- India Republic Day | 26th January       | Australia, India           | Full region impact as this impacts both our Group 1 and Group 2 on-call coverage.                                                           |
+| Easter Friday                           | Movable            | Australia, NZ, Philippines |                                                                                                                                            |
+| Easter Monday                           | Movable            | Australia, NZ, Philippines |                                                                                                                                            |
+| ANZAC Day                               | 25th April         | Australia, NZ              | Let AMER know in time for the Friday prior due to no coverage for first 2-5 hours of business hours on a Monday.                           |
+| Monarch's Birthday                      | 1st Monday in June | NZ                         | Let AMER know in time for the Friday prior due to no coverage for first 2 hours of business hours on a Monday.in time for the Friday prior |
+| Monarch's Birthday                      | 2nd Monday in June | Australia (except QLD)     |                                                                                                                                            |
+| Independence Day                        | 12th June          | Philippines                | Be aware that this can coincide with Australia's observation of Monarch's Birthday when June 12 is a Monday.                               |
+    
 
 To refer to past planning issues, see issues linked to the [[APAC] Holiday Coverage Planning Issues epic](https://gitlab.com/groups/gitlab-com/support/-/epics/252).
 
