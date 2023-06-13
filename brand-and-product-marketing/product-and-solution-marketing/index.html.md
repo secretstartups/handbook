@@ -25,7 +25,6 @@ We create positioning and messaging to fuel demand and adoption of GitLab’s so
 
 1. [Core product marketing - positioning, messaging, narrative & content](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/)
 1. [Competitive marketing and intelligence](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/competitive-intelligence/)
-1. [Technical marketing - narrative and content, user messaging, external evangelism](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/technical-marketing/)
 1. [Market Research and Insights (MRI) - target market & audience definition](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/market-insights/) 
 1. [Analyst relations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/analyst-relations/)
 1. [Customer advocacy](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/customer-advocacy/)
@@ -51,7 +50,6 @@ Product and Solution Marketing synthesizes customer knowledge, analyst views, ma
 
 Each team within Product and Solution Marketing contributes uniquely and equally toward gathering market insights:  
 * Core Product Marketing - win/loss analysis, customer churn, customer interviews and deep dives, message testing with customers 
-* Technical Marketing - User education/research via technical deep dives that includes workshops, interactive webinars, external evangelism, internal/external product enablement and analyst debriefings
 * Marketing Research & Insights - primary and secondary research, market insight research, focus groups
 * Customer Advocacy - customer reference interviews,  peer review curation, Customer Advisory Board (CAB)
 * Analyst Relations - analyst inquiries/reports, message testing with analysts
