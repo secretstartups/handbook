@@ -136,6 +136,9 @@ This video covers:
 - Redirecting from one URL to the other - @2:17
 - Finding places where an old URL is linked and updating it to a new URL - @ 4:30
 
+**Note:** The "find and replace a string" process that could be used for URL renaming/redirects is detailed [later in this handbook page](#find-and-replace-a-string-in-all-matching-files).
+{: .note}
+
 #### Historical: Creating mermaid diagrams
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/SQ9QmuTHuSI" frameborder="0" allowfullscreen="true"> </iframe>
@@ -275,6 +278,8 @@ gsed -i 's,<searchtext>,<replacementtext>,g' file.md
 ```
 
 ### Find and Replace a String in all (Matching) Files
+
+Please see the following suggestions for doing a bulk find and replace. If you rename a file/URL please remember to add a redirect to [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml) by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md).
 
 #### Using a terminal
 
