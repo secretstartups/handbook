@@ -1,5 +1,6 @@
 ---
 title: "Manager, Sales Development"
+summary: " "
 ---
 
 ## Manager, Sales Development (SDR or BDR)
@@ -103,7 +104,7 @@ The Manager, Sales Development (Efficiency and Strategy) reports to the Global D
 - Extends that of the Manager, Sales Development requirements
 - Track record of leading a team that consistently meets/exceeds goals
 - Experience in successfully hiring and onboarding SDRs and SDR managers
-- Experience building out new SDR team segments, including processes and strategies  
+- Experience building out new SDR team segments, including processes and strategies
 - Proven track record of implementing and executing efficiency measures in a high volume lead flow model.
 
 #### Manager, Sales Development (Public Sector)

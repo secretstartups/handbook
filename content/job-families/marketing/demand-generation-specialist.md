@@ -1,5 +1,6 @@
 ---
 title: "Demand Generation Specialist"
+summary: " "
 ---
 
 ## Responsibilities

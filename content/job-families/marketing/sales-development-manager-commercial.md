@@ -1,5 +1,6 @@
 ---
 title: "Sales Development Manager - Commercial"
+summary: " "
 ---
 
 As a Sales Development Representative (SDR) Manager for the Commercial (Small & Mid-Market) segment, you are a player-coach. As a manager your job is threefold: (1) Lead a team of Commercial SDRs to create qualified opportunities for the sales team, (2) Train other members of the Commercial SDR team, and (3) take on operational and administrative tasks to help the Commercial SDR  team perform and exceed expectations. You will be a source of knowledge and best practices amongst the Commercial SDRs, and will help to train, onboard, and mentor new SDRs.

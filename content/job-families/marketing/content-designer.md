@@ -1,5 +1,6 @@
 ---
 title: "Content Designer"
+summary: Responsible for assisting the marketing team on create engaging visual content across all channels. Projects will range from promotional videos, social campaigns, and infographics, to ebooks, whitepapers, and illustrations
 ---
 
 As the content designer for GitLab you will be responsible for assisting the marketing team on create engaging visual content across all channels. Projects will range from promotional videos, social campaigns, and infographics, to ebooks, whitepapers, and illustrations. Our ideal candidate has a strong design skill-set, takes direction openly and positively, and is very detail oriented. Major bonus points if you’ve used GitLab before!

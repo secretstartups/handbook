@@ -1,5 +1,6 @@
 ---
 title: "Globalization & Localization"
+summary: Lead Gitlab’s go-to-market localization strategy, operations and technology platform, with a primary focus on Sales, Marketing, Growth & E-commerce Product areas.
 ---
 
 ## Levels
@@ -31,7 +32,7 @@ The Director, Globalization & Localization will lead Gitlab’s go-to-market loc
 - Leadership experience managing a high-performing team in a distributed environment, with an emphasis on people leadership, building teams to scale, and engaging global and local stakeholders.
 - Experience collaborating across multiple internal departments and teams, building effective relationships and influencing change
 - Strong network and relationship with localization agencies, project managers and linguists
-- Deep domain expertise in localization lifecycle, CAT tools, TMS. Technical understanding of common DevOps platforms, CMS, and marketing automation systems. - Demonstrated ability to learn and leverage new technologies  
+- Deep domain expertise in localization lifecycle, CAT tools, TMS. Technical understanding of common DevOps platforms, CMS, and marketing automation systems. - Demonstrated ability to learn and leverage new technologies
 - Professional fluency in English and at least one of the following languages: French, Germany, Spanish, or Japanese
 - Comfortable using data to measure results and inform decision making and strategy development.
 - You share our values, and work in accordance with those values.

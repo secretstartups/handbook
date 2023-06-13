@@ -1,5 +1,6 @@
 ---
 title: "Chief Marketing Officer (CMO)"
+summary: The CMO plays a vital leadership role in ensuring rapid and sustainable growth in demand to further drive sales growth.
 ---
 
 ## About the Position

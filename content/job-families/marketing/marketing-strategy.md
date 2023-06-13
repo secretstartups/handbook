@@ -1,8 +1,7 @@
 ---
 title: Marketing Strategy
+description: The Marketing Strategy & Performance team at GitLab is responsible for developing marketing plans and go-to-market strategies as well as developing dashboards and reports to support our plans.
 ---
-
-The Marketing Strategy & Performance team at GitLab is responsible for developing marketing plans and go-to-market strategies as well as developing dashboards and reports to support our plans.
 
 ## Levels
 

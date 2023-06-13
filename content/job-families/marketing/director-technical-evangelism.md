@@ -1,5 +1,6 @@
 ---
 title: "Director, Technical Evangelism"
+summary: Lead and build our technical evangelism function to enable speaking and content creation/distribution.
 ---
 
 As Director of technical evangelism, you will be responsible for building our technical evangelism function to enable speaking and content creation/distribution with the ultimate objective of:

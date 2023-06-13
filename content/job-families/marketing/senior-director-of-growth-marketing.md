@@ -1,5 +1,6 @@
 ---
 title: "Senior Director of Pipe-to-Spend"
+summary: " "
 ---
 
 ## Responsibilities

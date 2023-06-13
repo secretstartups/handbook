@@ -1,5 +1,6 @@
 ---
 title: "Marketing Strategy and Platforms"
+summary: " "
 ---
 
 ## Levels

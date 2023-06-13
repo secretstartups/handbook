@@ -1,5 +1,6 @@
 ---
 title: "Evangelist Programs"
+summary: Enable members from the GitLab community to evangelize GitLab.
 ---
 
 ## Evangelist Program Manager

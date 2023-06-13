@@ -1,5 +1,6 @@
 ---
 title: "Director, Marketing Operations"
+Summary: Lead our team that ensures effective strategy, efficient investment, and accountability across the GitLab marketing department.
 ---
 
 As the Director of Marketing Operations, you will be responsible for leading the team that ensures effective strategy, efficient investment, and accountability across the GitLab marketing department. You will be responsible for ensuring marketing technology is customized to the needs of its users as well as set up to ensure effective data quality. You will also lead  process development, budget administration, and marketing analytics.

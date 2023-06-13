@@ -1,5 +1,6 @@
 ---
 title: "Inbound Marketing"
+summary: Create tools and processes to continually improve the results of a prospective customers journey, and sharing results and insights with stakeholders throughout the company.
 ---
 
 ## Intro

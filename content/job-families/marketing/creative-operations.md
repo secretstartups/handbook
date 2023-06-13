@@ -1,11 +1,7 @@
 ---
 title: "Creative Operations"
+description: Creative Operations helps organize and evolve our brand creative processes, systems, tooling, projects, and programs that enable the team to scale and create world class brand experiences.
 ---
-
-## Creative Operations
-
-Creative Operations helps organize and evolve our brand creative processes, systems, tooling, projects, and programs that enable the team to scale and create world class brand experiences.
-
 
 ### Responsibilities
 

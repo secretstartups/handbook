@@ -1,5 +1,6 @@
 ---
 title: "Director of Developer Relations"
+summary: Build and Manage a team and stellar strategy focused on supporting evangelists, committers, students, and open source projects.
 ---
 
 ## Director, Developer Relations

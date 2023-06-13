@@ -1,5 +1,6 @@
 ---
 title: "Global Content"
+summary: " "
 ---
 
 ## Levels

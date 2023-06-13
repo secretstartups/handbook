@@ -1,5 +1,6 @@
 ---
 title: "Global Programs Manager"
+summary: "Bring your background and global programs experience to the company leading the advancement of the DevOps market."
 ---
 
 Do you have a deep understanding and real passion for building global awareness and demand generation programs that encompass both strategy and tactics directed at specific audiences and buyer personas? Then this role is for you! Bring your background and global programs experience to the company leading the advancement of the DevOps market. GitLab’s Global Programs Manager position is a key role within the marketing organization and will make a tremendous impact on company growth. You will have the opportunity to define and build global campaigns to drive new logo acquisition and growth in our existing customer base.

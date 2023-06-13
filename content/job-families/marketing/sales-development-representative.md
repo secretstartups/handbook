@@ -1,7 +1,8 @@
 ---
 title: "Sales Development Organization Roles"
+summary: " "
 ---
- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eHzmPIL-TB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
@@ -28,7 +29,7 @@ The Business Development Associate is a [grade 5](https://about.gitlab.com/handb
 - Prepare to move into SDR Role
 - Complete Tanuki tech 100 level
 
-#### Business Development Associate Requirements  
+#### Business Development Associate Requirements
 
 - Relevant work place experience
 - Ability to demonstrate transferable skill set
@@ -195,7 +196,7 @@ BDR (Land) focuses on acquiring new logos.
 - Educating prospects and making positive impressions
 - Generating awareness, meetings, and pipeline for sales
 - Collaborating with peers, marketing, and sales teams
-  
+
 #### BDR (Land) Requirements
 
 - Extends that of the BDR requirements
@@ -204,7 +205,7 @@ BDR (Land) focuses on acquiring new logos.
 - Participate and lead planning, execution, and cross-functional meetings
 - Maintain exceptional Salesforce hygiene, logging all prospecting activity, conversations, and account intelligence uncovered
 - Generate IACV Pipeline
-  
+
 ### BDR (Expand)
 
 BDR (Expand) focuses on existing customers and their subsidiaries.

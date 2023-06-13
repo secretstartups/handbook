@@ -1,5 +1,6 @@
 ---
 title: "Product Marketing Manager"
+summary: Help tell the story about the value of how GitLab helps to unlock the potential of sharing and contribution.
 ---
 Product Marketing Managers at GitLab have a unique opportunity to contribute to our [mission](https://about.gitlab.com/company/mission/#mission):
 

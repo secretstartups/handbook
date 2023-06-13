@@ -1,5 +1,6 @@
 ---
 title: VP, Developer Relations and Community
+summary: Engage our community including contributors to our open-source product, users of our paid products and participants of our community programs by managing and building a team of technical evangelists, community builders and maintainers, marketing program owners and technical content specialists.
 ---
 
 The VP, Developer Relations and Community is responsible for engaging our community including contributors to our open-source product, users of our paid products and participants of our community programs (GitLab for education, etc). You will be responsible for managing and building a team of technical evangelists, community builders and maintainers, marketing program owners and technical content specialists. You will own the community, content and marketing programs needed to meet the goals of having a vibrant active and engaged community and increasing code contributions.

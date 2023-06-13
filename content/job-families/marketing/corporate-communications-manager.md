@@ -1,5 +1,6 @@
 ---
 title: Corporate Communications Manager
+summary: Through leadership, experience, and insight, you will position GitLab as a trustworthy partner to customers with a strong track record of addressing business challenges, increase overall brand awareness, provide air cover for business as a whole, and come up with thought leadership opportunities
 ---
 
 ### Corporate Communications Manager

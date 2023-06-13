@@ -1,5 +1,6 @@
 ---
 title: "Code contributor program manager"
+summary: Responsible for enabling members from the wider GitLab community to contribute code, documentation, and translations to GitLab
 ---
 
 ## Code Contributor Program Manager

@@ -1,5 +1,6 @@
 ---
 title: "Director of Field Marketing"
+summary: Support our Sales Teams, globally, build and lead a global team of field marketers aligned to our regional sales directors.
 ---
 
 GitLab is looking for a highly motivated, sales-focused field marketing leader to support our Sales Teams, globally. The Director, Field Marketing position is responsible for building and leading a global team of field marketers aligned to our regional sales directors.

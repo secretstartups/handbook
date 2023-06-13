@@ -1,5 +1,6 @@
 ---
 title: "Developer Evangelists"
+summary: Help us fulfill our mission by connecting with other developers, contributing to open source, and sharing your knowledge and experience about GitLab and other leading technologies at conferences and meetups, in contributed articles, and on blogs, podcasts, and social media.
 ---
 
 ## Developer Evangelist

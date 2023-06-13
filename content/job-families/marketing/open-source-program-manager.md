@@ -1,5 +1,6 @@
 ---
 title: "Open Source Program Manager"
+summary: Help foster the adoption of GitLab in the Open Source space.
 ---
 
 ## Open Source Program Manager

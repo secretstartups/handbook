@@ -1,8 +1,7 @@
 ---
 title: "Contributor Success Fullstack Engineer"
+description: Contributor Success Fullstack Engineers work on laying down an efficiency foundation for our community members to contribute to GitLab.
 ---
-
-Contributor Success Fullstack Engineers work on laying down an efficiency foundation for our community members to contribute to GitLab.
 
 ## Responsibilities
 

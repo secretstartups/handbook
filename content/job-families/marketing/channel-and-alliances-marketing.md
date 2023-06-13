@@ -1,5 +1,6 @@
 ---
 title: Channel Marketing Team
+summary: The Global Channel Marketing team is a team of demand generation professionals dedicated to the creation of tools and programs that support our partners demand generation efforts.
 ---
 The Global Channel Marketing team is a team of demand generation professionals dedicated to the creation of tools and programs that support our partners demand generation efforts.  The team sits within the Integrated Marketing organization.
 

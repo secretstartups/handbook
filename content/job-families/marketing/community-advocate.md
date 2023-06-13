@@ -1,5 +1,6 @@
 ---
 title: "Community Advocate"
+summary: Community Advocates have a goal of responding to questions about GitLab asked online. They help to create processes and documentation around the way the team interacts with the community, as well as help make it easier to provide feedback about GitLab
 ---
 
 ## Role

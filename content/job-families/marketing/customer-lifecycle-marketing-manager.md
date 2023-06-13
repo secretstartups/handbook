@@ -1,5 +1,6 @@
 ---
 title: "Customer Lifecycle Marketing Manager"
+summary: Own the strategy and execution of end-to-end lifecycle marketing initiatives, ranging from first click to retention and renewal initiatives, with a focus on instilling loyalty within the our ever-growing customer base.
 ---
 
 Are you a passionate marketer with strong program management skills who has mastered the art of building relationships and executing on exciting new projects? GitLab is looking for an awesome Customer Lifecycle Marketing Manager to own the strategy and execution of end-to-end lifecycle marketing initiatives, ranging from first click to retention and renewal initiatives, with a focus on instilling loyalty within the our ever-growing customer base. Our ideal candidate will have no problem rolling up their sleeves and working directly with customers to understand the wants and needs of the market, while ensuring that relevant programs are being created for all stages of the customer journey.

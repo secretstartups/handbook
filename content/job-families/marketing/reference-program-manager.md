@@ -1,5 +1,6 @@
 ---
 title: "Reference Program Manager"
+summary: Be part of a team responsible for managing and growing a compelling and persuasive customer reference program that provides timely references, nurtures a vibrant peer review community, and delivers impactful case studies in support of sales, analyst relations, field events, press releases and other marketing activities.
 ---
 
 As a Reference Program Manager, you will be part of a team responsible for managing and growing a compelling and persuasive customer reference program that provides timely references, nurtures a vibrant peer review community, and delivers impactful case studies in support of sales, analyst relations, field events, press releases and other marketing activities.

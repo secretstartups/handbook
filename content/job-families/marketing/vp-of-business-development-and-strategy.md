@@ -1,8 +1,10 @@
 ---
 title: "VP of Business Development and Strategy"
+summary: "Be responsible for strategic business development and our strategy from an outside perspective. This perspective is based on our customers, partners, and the market."
 ---
 
-DRAFT
+{{% alert title="Draft" color="danger" %}}
+{{% /alert %}}
 
 ## Responsibilities
 

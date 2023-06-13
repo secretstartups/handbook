@@ -1,5 +1,6 @@
 ---
 title: "Growth Product Manager"
+summary: Lead the Growth section which is dedicated to making it easier for teams to find value and increased efficiency within the GitLab platform.
 ---
 
 ## Intro

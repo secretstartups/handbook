@@ -1,5 +1,6 @@
 ---
 title: "Marketing Program Manager"
+summary: " "
 ---
 
 You might describe yourself as inquisitive, creative, organized, and curious. You have experience in planning engaging marketing programs and using modern marketing technology to deliver those programs. You enjoy setting up elegant workflow in marketing automation platforms, conducting quality assurance, measuring results and making informed conclusions based on what you learn.

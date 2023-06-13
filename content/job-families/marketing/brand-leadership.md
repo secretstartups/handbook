@@ -1,5 +1,6 @@
 ---
 title: "Brand Leadership"
+summary: " "
 ---
 
 ## Levels

@@ -1,7 +1,8 @@
 ---
 title: "Corporate Events"
+summary: " "
 ---
- 
+
 ## Levels
 
 ### Corporate Events Coordinator

@@ -1,5 +1,6 @@
 ---
 title: "Account Research Specialist"
+summary: " "
 ---
 
 ## Responsibilities

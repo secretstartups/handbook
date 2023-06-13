@@ -1,5 +1,6 @@
 ---
 title: "Technical Marketing Manager"
+summary: Evangelize our products to both technical and non technical audiences by expressing the technical capabilities of the product as values to our target audiences.
 ---
 
 Technical marketing managers at GitLab have a unique opportunity to contribute to our

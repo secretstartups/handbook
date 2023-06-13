@@ -1,5 +1,6 @@
 ---
 title: "Production Designer"
+summary: Collaborate with our Brand Designers, and other areas of marketing, to produce on-brand assets across various print, web, and digital mediums.
 ---
 
 ## Production Designer

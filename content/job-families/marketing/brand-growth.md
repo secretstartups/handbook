@@ -1,5 +1,6 @@
 ---
 title: "Brand Growth - Roles & Responsibilities"
+summary: " "
 ---
 
 ## Levels
@@ -128,7 +129,7 @@ The Senior Brand Manager is a [grade 7](https://about.gitlab.com/handbook/total-
 
 - Develops brand campaigns to help build our brand leadership in DevOps
 - Works collaboratively with key stakeholders to develop and propose brand campaigns.
-- Creates timelines for deliverables and collaborate between stakeholders to driver brand campaigns in a timely and consistent manner.  
+- Creates timelines for deliverables and collaborate between stakeholders to driver brand campaigns in a timely and consistent manner.
 - Reports on brand campaign performance and measurement data.
 - Helps evolve and maintain GitLab's brand positioning, how it’s articulated, how it is best deployed, across all marketing touchpoints.
 - Partners with brand design team to plan, manage, and implement a calendar of brand opportunities to bring the GitLab brand to life.

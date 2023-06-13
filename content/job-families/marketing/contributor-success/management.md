@@ -1,8 +1,7 @@
 ---
 title: "Engineering Management - Contributor Success"
+description: The Contributor Success Engineering Manager manages a team of full-stack engineers driving efficiency and improvements of our contribution process.
 ---
-
-The Contributor Success Engineering Manager manages a team of full-stack engineers driving efficiency and improvements of our contribution process.
 
 ## Responsibilities
 

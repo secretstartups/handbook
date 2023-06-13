@@ -1,5 +1,6 @@
 ---
 title: "Analyst Relations Manager"
+summary: " "
 ---
 
 ## Levels
@@ -89,7 +90,7 @@ The Staff Analyst Relations Manager is a [grade 8](https://about.gitlab.com
 - Excellent communicator with proven ability to clearly convey ideas and data in written and verbal presentations to a variety of audiences.
 - Ability and interest to design, build, implement, and use data-driven mechanisms to simplify and speed decision making regarding analyst relations activities.
 
-### Manager, Analyst Relations  
+### Manager, Analyst Relations
 
 The Manager, Analyst Relations  reports to Manager, Market Insights.
 

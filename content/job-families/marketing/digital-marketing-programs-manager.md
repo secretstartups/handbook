@@ -1,5 +1,6 @@
 ---
 title: "Digital Marketing Manager"
+summary: Developing and managing the digital demand strategy and plans to support GitLab marketing campaigns across paid search, paid social, programmatic display, and sponsored publisher channels
 ---
 
 ## Overview

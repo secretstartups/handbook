@@ -1,5 +1,6 @@
 ---
 title: Sales Development Solutions Architect
+summary: Be responsible for providing real-time support to the Sales Development Reps as they prospect and build pipeline in multiple sales segments.
 ---
 
 The GitLab Sales Development team is looking for a Sales Development Solutions Architect to join our Revenue Marketing Team. In this role, you’ll be responsible for providing real-time support to the Sales Development Reps as they prospect and build pipeline in multiple sales segments. You’ll collaborate with the Sales Development leadership team as well as other teams in Marketing and Sales to validate and develop content from a technical perspective. As a technical training specialist, excellent communication and people skills are a must as you’ll be instrumental in training new hires on our product and market. You'll achieve a balance of technical expertise, a real passion for the DevOps market, and the desire to help our team fully understand our product and business model, so they can work with customers and have valuable conversations that identify opportunities.

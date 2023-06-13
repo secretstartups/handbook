@@ -1,5 +1,6 @@
 ---
 title: "Senior Manager, Sales Development"
+summary: Oversee a team in the Sales Development organization, help them perform and exceed expectations by training, coaching, and mentoring them to drive impactful results.
 ---
 
 As a Senior Manager of Sales Development at GitLab, you’ll get the opportunity to oversee a team in the Sales Development organization. You’ll help your team perform and exceed expectations by training, coaching, and mentoring them to drive impactful results. You’ll also partner closely with our Marketing and Sales teams to align on integrated campaigns, strategic business initiatives, improve processes, and ultimately generate qualified meetings and pipeline for GitLab’s Sales organization.

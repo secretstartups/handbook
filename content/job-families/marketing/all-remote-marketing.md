@@ -1,5 +1,6 @@
 ---
 title: "All-Remote Marketing"
+summary: The All-Remote Marketing team holds a unique position on the corporate marketing team to develop and tell the story of GitLab’s remote culture.
 ---
 
 The All-Remote Marketing team holds a unique position on the corporate marketing team to develop and tell the story of GitLab’s remote culture. As a pioneer of remote work, this team will tell the story of GitLab’s global remote employees, remote work processes, transparent culture and the movement to remote work that GitLab has created.
@@ -66,7 +67,7 @@ The All-Remote Evangelist is a [grade 6](https://about.gitlab.com/handbook/total
 
 - Serve as a spokesperson for GitLab’s all-remote culture.
 - Create new all-remote guides in the GitLab handbook.
-- Activate the GitLab team in sharing all-remote content with their networks, increasing our reach to media, academia, analysts, etc.  
+- Activate the GitLab team in sharing all-remote content with their networks, increasing our reach to media, academia, analysts, etc.
 - Collaborate with GitLab’s PR agency partners to facilitate and secure media coverage for GitLab’s all-remote culture.
 - Compile quarterly metrics reports to measure our all-remote successes in relation to awareness, newsletter sign-ups, and impact.
 - Manage projects from start to finish.

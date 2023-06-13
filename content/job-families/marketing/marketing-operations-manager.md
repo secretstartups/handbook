@@ -1,5 +1,6 @@
 ---
 title: "Marketing Operations Roles"
+summary: " "
 ---
 
 You understand that setting a foundation for healthy growth in a fast-paced company is effective marketing operations. In all cases, you share our [values](/handbook/values/)

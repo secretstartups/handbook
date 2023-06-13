@@ -1,5 +1,6 @@
 ---
 title: Product Designer (UX) - Marketing
+summary: A Product Design Roles on GitLab's Marketing team, collaborates closely with Product Managers, Engineers, UX Research, and other Product Designers to create a productive, streamlined, and human experience.
 ---
 
 A Product Design Roles on GitLab's Marketing team, collaborates closely with Product Managers, Engineers, UX Research, and other Product Designers to create a productive, streamlined, and human experience. Product Designers report to a Product Manager.

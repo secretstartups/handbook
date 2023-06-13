@@ -1,5 +1,6 @@
 ---
 title: "PR Manager"
+summary: Help GitLab build thought leadership and drive conversation in external communications channels.
 ---
 
 ## Role

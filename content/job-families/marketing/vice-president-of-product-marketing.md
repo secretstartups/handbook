@@ -1,5 +1,6 @@
 ---
 title: "Vice President of Product Marketing"
+summary: Be responsible for managing and building the product marketing, technical marketing, competitive intelligence & market research and customer insights teams.
 ---
 
 As the Vice President of Product Marketing, you will be responsible for managing and building the product marketing, technical marketing, competitive intelligence & market research and customer insights teams.
@@ -36,7 +37,7 @@ The Vice President, Product Marketing is a [grade 12](https://about.gitlab.com/h
 - Experience building trusted relationships with executive sponsors and end users.
 - Technical background or clear understanding of developer products; familiarity with Git, Continuous Integration, Containers, Kubernetes and Project Management software a plus.
 - Experience with enterprise Software-as-a-Service offerings a plus.
-- Experience supporting an Integrated GTM motions that includes sales, channel and services partners, strategic alliances and technology eco-systems.  
+- Experience supporting an Integrated GTM motions that includes sales, channel and services partners, strategic alliances and technology eco-systems.
 - Bachelor’s degree in computer science, marketing, business, or related area; MBA is a plus.
 - Proven track record in building, getting buy-in and executing marketing plans, and staying focused on “getting it done” in a fast-moving, technical environment.
 - Able to coordinate across many teams and perform in fast-moving startup environment.

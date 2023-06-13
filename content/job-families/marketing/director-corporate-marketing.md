@@ -1,5 +1,6 @@
 ---
 title: "Senior Director, Corporate Marketing"
+summary: Lead the team responsible for building the GitLab brand and sharing the GitLab story globally.
 ---
 
 As the Senior Director, Corporate Marketing, you will lead the team responsible for building the GitLab brand and sharing the GitLab story globally. This role will successfully promote the company through a strong PR and communications program, All-Remote content and messaging, social media, unique corporate events for users, prospects and employees, and through Developer Relations. The qualified candidate will be a driven and engaged senior leader with a successful track record of building and leading, brand, global programs and PR globally. Reporting to the CMO, the Senior Director, Corporate Marketing must have experience across public relations, brand development, creative, digital marketing, social media, and thought leadership campaigns.

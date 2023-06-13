@@ -1,5 +1,6 @@
 ---
 title: "Marketing Intern"
+summary: " "
 ---
 
 ## Responsibilities
