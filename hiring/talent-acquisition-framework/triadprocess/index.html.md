@@ -50,9 +50,9 @@ To support business readiness, we are introducing a Quarterly Headcount Validati
 **Process Outline**
 | DRI      | Process | Timing |
 | --- | ----------- | ----------- |
-|TA Directors | VALIDATION: Create point-in-time data pull of all upcoming quarter headcount for business review [VP level audience] to share asynchronously with leaders. Data source for the pull should be the working Interlock sheet by cost center that we work through with FP+A, PBPs and the business each week. PBPs to advise and partner with leaders to work through exercise of reviewing and validating: All details on open requisitions - hiring manager, title, grade, location and start date.Provide information on likelihood of internal vs. external placement |mid-end of month 1 of quarter |
-|TA Directors |STARTS REVIEW: Any start month adjustments rolled up to reviewed by TA and Finance | First week of month 2 of quarter |
-|FP&A Partners | ADJUSTMENT APPROVAL: Approve all requested updates to start dates for following quarter and upload into Adaptive/Interlock sheets. | By  15th of month 2 of quarter|
-|Hiring Managers | Hiring Managers with upcoming headcount needing new job families creation begin the process early to create necessary documentation ahead of recruiters being allocated to requisitions. | Last month of quarter |
-|TA Manager+ | ROLE ALLOCATION: Allocate roles to recruiters for all net new roles for Q3.| By 15th of month 2 of quarter|
-|Recruiters | OPEN ROLES: All Q3 roles to be opened in Greenhouse | By end of Quarter |
+|TA Directors | VALIDATION: Create point-in-time data pull of all upcoming quarter headcount for business review [VP level audience] to share asynchronously with leaders. Data source for the pull should be the working Interlock sheet by cost center that we work through with FP+A, PBPs and the business each week. PBPs to advise and partner with leaders to work through exercise of reviewing and validating: All details on open requisitions - hiring manager, title, grade, location and start date. Provide information on likelihood of internal vs. external placement | mid-end of month 1 of Quarter |
+| TA Directors | STARTS REVIEW: Any start month adjustments rolled up to reviewed by TA and Finance | First week of month 2 of Quarter |
+| FP&A Partners | ADJUSTMENT APPROVAL: Approve all requested updates to start dates for following quarter and upload into Adaptive/Interlock sheets. | By 15th of month 2 of Quarter |
+| Hiring Managers | Hiring Managers with upcoming headcount needing new job families creation begin the process early to create necessary documentation ahead of recruiters being allocated to requisitions. | Last month of Quarter |
+| TA Manager+ | ROLE ALLOCATION: Allocate roles to recruiters for all net new roles for Q3.| By 15th of month 2 of Quarter|
+| Recruiters | OPEN ROLES: All Q3 roles to be opened in Greenhouse | By end of Quarter |
