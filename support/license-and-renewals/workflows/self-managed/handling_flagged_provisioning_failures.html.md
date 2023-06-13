@@ -12,7 +12,7 @@ The [Provision tracking system](https://gitlab.com/groups/gitlab-org/-/epics/830
 
 ## Workflow for handling Provisioning failures
 
-1. The Fulfillment Team will monitor the Slack channel for provisioning failures. The full process from the Fulfillment Team perspective is outlined [here](www.enterlinkwhencreated)
+1. The Fulfillment Team will monitor the Slack channel for provisioning failures. The following link provides information on the [Provision Failure Monitoring process](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/123966423b08392b13675cec9249484dd2faf377/doc/provision_tracking_system/failure_monitoring.md#provision-failures-monitoring) from the Provisioning team perspective. 
 1. If the Fulfillment Team is unable to resolve a failed provision then they will request help from L&R Support via the following [Internal Request form](www.stilltobecreated). The criteria for submission are:
    - If Fulfillment requires L&R Support intervention to fix something for the customer, OR
    - The root cause of the issue is already fixed or being fixed, so it's not going to be an ongoing failure case 
