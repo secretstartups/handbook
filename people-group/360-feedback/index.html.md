@@ -45,18 +45,17 @@ Team members who opt-in for the 360 feedback review cycle will be asked to:
 - **(optional)** Following the 360, share the themes you heard and resulting actions you plan to take with stakeholders who can support your growth throughout the year.   
 
 
-## Timeline FY'23
+## Timeline FY'24
 
-The 360 feedback process will be ongoing from July 25, 2022 - September 23, 2022. 
+The 360 feedback process will be ongoing from July 31, 2023 - September 22, 2023. 
 
 | Dates  | Event   | 
 |------------|------------|
-| 2022-07-01 through 2022-07-20 @ 5pm PT | Sign Up Window |
-| 2022-07-25 | Feedback Cycle Launch | 
-| 2022-07-25 through 2022-08-05 @ 5pm PT | Nomination Phase |
-| 2022-08-06 through 2022-08-31 | Feedback Phase |
-| 2022-09-01 through 2022-09-09 | Review Phase | 
-| 2022-09-10 through 2022-09-23 | Discussion Phase
+| 2023-07-10 through 2023-07-28 @ 5pm PT | Sign Up Window |
+| 2023-07-31 | Feedback Cycle Launch | 
+| 2023-07-25 through 2023-08-11 @ 5pm PT | Nomination Phase |
+| 2023-08-14 through 2023-09-01 | Feedback Phase |
+| 2023-09-04 through 2023-09-22 | Review & Discussion Phase | 
 
 `IMPORTANT`: Each phase needs to be completed by the due dates indicated in the table above. To keep this process on track, extensions won't be accommodated. 
 
@@ -68,15 +67,15 @@ The 360 feedback process will be ongoing from July 25, 2022 - September 23, 2022
 
 ### Eligibility
 
-For 360 feedback cycle we will only include team members with at least 6 months of tenure (start date on or before January 25th, 2022). 
+For 360 feedback cycle we will only include team members with at least 6 months of tenure (start date on or before January 28th, 2023). 
 
 Participants should also ensure that they meet the [requirements to participate](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-requirements) in the process. 
 
 ### Sign Up Process
 
-The FY'23 360 Feedback Cycle will be optional company-wide. To sign up, **all team members must complete [this Google Form](https://forms.gle/aqLLbKrkbyV9g3DM8) to participate**. There are a few important things to keep in mind before signing up:
+The FY'24 360 Feedback Cycle will be optional company-wide. To sign up, **all team members must complete [this Google Form](https://forms.gle/aqLLbKrkbyV9g3DM8) to participate**. There are a few important things to keep in mind before signing up:
 
-- **You must sign up before the [Sign Up Window due date](https://about.gitlab.com/handbook/people-group/360-feedback/#timeline-fy23) or you will not be able to participate in the cycle.** This is to ensure we are able to launch the review cycle on time
+- **You must sign up before the [Sign Up Window due date](https://about.gitlab.com/handbook/people-group/360-feedback/#timeline-fy24) or you will not be able to participate in the cycle.** This is to ensure we are able to launch the review cycle on time
 - Ensure you meet the [tenure eligibility](https://about.gitlab.com/handbook/people-group/360-feedback/#eligibility) requirement 
 - Make sure that you [fulfill the requirements](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-requirements) for participation and that you have an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) (or equivalent) in place prior to the 360 Feedback launch
 - Review [the guidelines](https://about.gitlab.com/handbook/people-group/360-feedback/#is-the-360-process-right-for-me) to determine whether the 360 Feedback process is right for you
