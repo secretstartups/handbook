@@ -63,4 +63,4 @@ Team members remain responsible for their own assigned reports.
 
 ### Triaging exposed secrets
 
-Exposure of information and secrets is handled a little differently to vulnerabilities, as there is nothing to patch and therefore no need for a GitLab Project Issue, CVSS, or CVE. When you're pinged during your rotation and you see a leaked secret, follow the process discribed on the [HackerOne runbook](./hackerone-process.html.md#Triaging-exposed-secrets)
+Exposure of information and secrets is handled a little differently to vulnerabilities, as there is nothing to patch and therefore no need for a GitLab Project Issue, CVSS, or CVE. When you're pinged during your rotation and you see a leaked secret, follow the process discribed on the [HackerOne runbook](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/hackerone-process.html#triaging-exposed-secrets)
