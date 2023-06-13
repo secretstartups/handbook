@@ -67,11 +67,6 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Description: Offering a scalable single tenant SaaS solution.
    1. Links: [Direction page](https://about.gitlab.com/direction/saas-platforms/dedicated/), [Epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479), [Team page](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/)
    1. Quarter Started/Starting: FY23-Q1
-1. SaaS Free User Efficiency
-   1. DRI / Sponsor: @ipedowitz / @akramer
-   1. Description: Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits.
-   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1)
-   1. Quarter Started/Starting: FY23-Q1
 1. AWS/GCP Partnerships
    1. DRI / Sponsor: @nbadiey / @mmcb
    1. Description: Expand GitLab's access to AWS/GCP LAM via cloud-first sales plays, new products, and lower friction buying.
@@ -143,3 +138,9 @@ This is a a list of top cross-functional initiatives that have been retired.
    1. Description: Shift LAM to our primary metric for top of funnel and decision-maker. *This is still important, but it will be managed as a GTM, not as a cross-functional initiative**
    1. Links: TBD
    1. Quarter Started/Starting: FY23-Q3 - FY24-Q1
+1. SaaS Free User Efficiency
+   1. DRI / Sponsor: @ipedowitz / @akramer
+   1. Description: Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1)
+   1. Quarter Started/Starting: FY23-Q1
+   1. Quarter Ended: FY24-Q2
