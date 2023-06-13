@@ -191,6 +191,12 @@ convert blogimage.jpg -resize 1920x1080 blogimage.jpg
 
 You can also use percentage values for the `-resize` parameter. The `convert` CLI command can do more things explained in the [documentation](https://imagemagick.org/script/convert.php).
 
+If you need to convert multiple images, combine the `convert` command with `find`. Note that this replaces the images inline.
+
+```shell
+find . -type f -name '*.jpg' -exec sh -c 'convert {} -resize 1920x1080 {}' \;
+```
+
 ### Add drop shadow to images
 
 [Install ImageMagick](#imagemagick) and use the `convert` CLI command to add a drop shadow. The `-shadow` parameter may need adjustments on the dimension.
