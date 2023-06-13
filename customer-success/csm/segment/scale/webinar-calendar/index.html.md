@@ -25,13 +25,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Intro to CI/CD
-##### June 13th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_ie-LQGDCRIWcGlD32Hm76Q#)
-
 #### Advanced CI/CD
 ##### June 20th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
 
@@ -54,13 +47,6 @@ Learn from our director of engineering how to shift left your change management 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_5nvvGPgUTtOYj19LpZUCGQ#)
 
 ### EMEA Time Zone Webinars
-
-#### Intro to CI/CD
-##### June 13th, 2023 at 10:00-11:00AM UTC
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_JPe-HIczTISnrLV2fBVXyg)
 
 #### Advanced CI/CD
 ##### June 20th, 2023 at 10:00-11:00AM UTC
