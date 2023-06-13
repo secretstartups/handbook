@@ -91,9 +91,11 @@ The card number, expiration date, and CVV code will be available to the requeste
 
 - **How do I attach a receipt or invoice after Purchase Order is issued?**
    - Receipts are **NOT REQUIRED** for Virtual Card charges. 
-   - If you receive a notification to attach a receipt, click your name at the top right > Settings > Notifications > and remove the following notifications
+   - If you receive a notification to attach a receipt, click your name at the top right > Settings > Notifications > and remove the following 2 notifications
+         - "Charge Created"
+         - "Charge missing receipt reminder"
 
- ![vcard-image-16](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/chargenotification.png)  
+ ![vcard-image-16](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/chargenotification_jun2023.png)  
 
 
 <br>
