@@ -28,6 +28,8 @@ If you work for GitLab Inc., we don't expect you to figure this out by yourself.
 - People that have 'engineer' in their title.
 - We encourage you to meet someone new by asking someone you don't know for help. You can also ask for help in #questions or #people-connect by posting 'Who can do a video call with me to help me work on the website locally /handbook/git-page-update/ ?'. If the other options don't work for you, please ask your onboarding buddy.
 - Suggest improvements to the GitLab marketing website with the [help of the growth marketing team](/handbook/marketing/inbound-marketing/#requesting-support) -- (e.g. [requesting a new page](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-new-website-brief), [updating an existing page](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-update-website-brief), or [suggesting a promotion on the front page of about.gitlab.com](/handbook/marketing/brand-and-product-marketing/content/#homepage-promotion-guidelines)
+- A redirect can be added by [following this process](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/redirects_on_about_gitlab_com.md) to add a new path in [`redirects.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/redirects.yml).
+- You can do a bulk find/replace of all instances of a string in a repository using this [practical handbook edits example](/handbook/practical-handbook-edits/#find-and-replace-a-string-in-all-matching-files).
 
 ## 2. Start using GitLab
 
@@ -350,6 +352,10 @@ The Web Integrated Development Environment (IDE) is used to make changes within 
 1. Assign the MR to the [Directly Responsible Individual (DRI)](/handbook/people-group/directly-responsible-individuals/):
   - If the DRI for the page(s) being updated isn't immediately clear, then assign it to your manager.
   - If your manager does not have merge rights, please ask someone to merge it _after_ it has been approved by your manager in [#mr-buddies](https://gitlab.slack.com/archives/CLM8K5LF4).
+
+### Using Visual Studio Code
+
+You can edit the handbook using [Visual Studio Code](https://code.visualstudio.com/download) along with the [GitLab Workflow extension for VS Code](https://docs.gitlab.com/ee/user/project/repository/vscode.html). Instructions for this method are on the [Practical Handbook Edits page](https://about.gitlab.com/handbook/practical-handbook-edits/#using-visual-studio-code). This method is helpful for bulk find and replace changes such as replacing a URL/link.
 
 ### Locally, using the terminal
 
