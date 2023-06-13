@@ -28,11 +28,11 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 
 The purpose of the Change Management Policy is to ensure that a standard set of minimum requirements are established for changes that are made to production systems and supporting infrastructure across the organization. 
 
-These requirements are meant to provide a level of consistency across how changes are managed from the initial change request through to production deployment. These requirements have been established based on the GitLab Control Framework which is based on NIST CSF, ISO 27001 and SOC 2 standards.
+These requirements are meant to provide a level of consistency across how changes are managed from the initial change request through to production deployment. These requirements have been established based on the GitLab Control Framework which is based on NIST SP 800-53, ISO 27001 and SOC 2 standards.
 
 # Scope
 
-Changes, in the context of this policy, are defined as **modifications** to the production environment, to include supporting infrastructure, and key corporate systems. The policy applies to changes that are made to systems assigned a [Critical System Tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html) of `Tier 1 Mission Critical`, `Tier 2 Business Critical`, `Tier 3 Business Operational`, and `Tier 4 Administrative`. 
+Changes, in the context of this policy, are defined as **modifications** to the production environment and include supporting infrastructure and key corporate systems. The policy applies to changes that are made to systems assigned a [Critical System Tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html) of `Tier 1 Mission Critical`, `Tier 2 Business Critical`, and `Tier 3 Business Operational`. 
 
 **Modifications** include, but are not limited to:
 - Creation/development/implementation of new systems, integrations, features, key reports, databases, etc.
@@ -48,7 +48,7 @@ Changes, in the context of this policy, are defined as **modifications** to the 
 
 ## Applicable Change Management Procedures: 
 
-In conjunction with this policy, supplemental change management procedures are formally documented to describe the standard operating procedure/workflow for executing changes in accordance with this policy and the [Controlled Document Procedure](/handbook/security/controlled-document-procedure.html). The change management procedures used at GitLab today have been listed below for reference, including a brief statement on the applicable scope for the change procedure. Additional information on scope is provided directly on each respective procedure's handbook page:
+In conjunction with this policy, supplemental change management procedures are formally documented to describe the standard operating procedure/workflow for executing changes in accordance with this policy and the [Controlled Document Procedure](/handbook/security/controlled-document-procedure.html). GitLab's current change management procedures are listed below for reference, including a brief statement on the applicable scope for each change procedure. Additional information on scope is provided directly on each respective procedure's handbook page:
 
 - [Infrastructure Change Management Procedure](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/), for changes made to environments and cloud infrastructure services directly supporting the `GitLab.com SaaS product`
 - [Business Technology Change Management Procedure](https://about.gitlab.com/handbook/business-technology/change-management/), for changes made to production systems/tools/infrastructure that `do not` directly support the `GitLab.com SaaS product` 
@@ -66,7 +66,7 @@ In conjunction with this policy, supplemental change management procedures are f
 
 # Change Management Policy
 
-The minimum change management requirements described below have been identified based on the [Change Management Control Family (CHG)](/handbook/security/security-assurance/security-compliance/guidance/change-management.html) established by the [GitLab Control Framework (GCF)](/handbook/security/security-assurance/security-compliance/sec-controls.html#gitlab-control-framework-gcf). These controls are subject to internal and external audits and therefore provide the minimum requirements for change management across the organization.
+The minimum change management requirements described below have been identified based on change management controls established by the [GitLab Control Framework (GCF)](/handbook/security/security-assurance/security-compliance/sec-controls.html#gitlab-control-framework-gcf). These controls are subject to internal and external audits and therefore provide the minimum requirements for change management across the organization.
 
 ## Change Management Policy Guidance
 Supplemental change management procedures must incorporate the requirements called out in the sections below:
@@ -79,9 +79,9 @@ Supplemental change management procedures must incorporate the requirements call
 - Details on why the change is being requested
 - Information about the Impact of the Change (e.g. does the change impact team members? and if so, in what capacity?)
 - Testing procedures, including the [change testing requirements](#change-testing-requirements) documented below
-- Change type, if applicable (e.g. teams may opt to have different procedures for emergency changes, standard changes, configuration changes, etc. or use a singular procedure for all changes, regardless of the type of change)
+- Change type, if applicable (e.g. teams may opt to have different procedures for emergency changes, standard changes, configuration changes, etc.) or use a singular procedure for all changes, regardless of the type of change.
 - Change rollback/backout procedures in the event a deployed change does not function as intended
-- Specific requirements for peer review(s), approvals, and post-deployment verification, as applicable (e.g requirements may be based on change type, as long as the change review and approvals meet minimum requirements outlined in the related section below)
+- Specific requirements for peer review(s), approvals, and post-deployment verification, as applicable (e.g requirements may be based on change type)
 - Change Communication: who are the relevant stakeholders that need to be notified of the change (e.g. if the change impacts all team members, how will team members be notified?)
 
 ### Change Testing Requirements
@@ -92,7 +92,7 @@ Supplemental change management procedures must incorporate the requirements call
    - manual testing / reconciliations (e.g. new finance report created to support month end activities - testing should include verifying calculated totals are complete and accurate and intended account data is included)
    - configurations changes are tested to confirm they function as intended
    - any additional testing procedures applicable based on the nature of the change
-- Testing is documented, team members who performed testing, the results and evidence of testing is attached/linked back to the change request
+- Testing is documented and includes the team members who performed the testing. The results and evidence of testing is attached/linked back to the change request
 
 ### Change Review and Approval Requirements
 
@@ -104,14 +104,14 @@ Supplemental change management procedures must incorporate the requirements call
 
 ### Change Deployment Requirements
 
-- Where possible, changes are deployed by a team member separate than the team member(s) who developed the change. If this is not possible, team members must confirm that additional changes/development work does not take place after the change has been approved. If additional work is completed after a change has been approved for deployment, additional review(s) and approval(s) should be obtained prior to the change being deployed. 
+- Where possible, changes are deployed by a different team member than the team member(s) who developed the change. If this is not possible, team members must confirm that additional changes/development work does not take place after the change has been approved. If additional work is completed after a change has been approved for deployment, additional review(s) and approval(s) should be obtained prior to the change being deployed. 
 - Date of deployment is documented on the change request to ensure auditability
 - Where possible, post-deployment verifications are completed and comments/documentation are linked to the change request (e.g. change is successful and functioning as anticipated in production)
 
 ### Additional Guidance 
 
-1. Change requests can be tied back to a specific change or changes from the system (i.e as part of external audits, an auditor will ask for a population of changes from the SYSTEM itself instead of the change request repository. A sample of changes will be requested from this population and for each change, the related change request/change documentation will need to be provided)
-2. Where it is not technically feasible for systems to be configured in a way that restricts the ability for those involved with the development of a change from being able to deploy a change, team members should consider some sort of periodic review of changes to ensure that changes are not being deployed by any individual without an appropriate separate individual's approval (or identify an alternative mechanism or process to monitor for this)
+1. Change requests can be tied back to a specific change or changes from the system (e.g. as part of external audits, an auditor will ask for a population of changes from the SYSTEM itself instead of the change request repository. A sample of changes will be requested from this population and for each change, the related change request/change documentation will need to be provided)
+2. Where it is not technically feasible for systems to be configured in a way that restricts the ability for those involved with the development of a change from being able to deploy a change, team members should consider some sort of periodic review of changes. The review should ensure that changes are not being deployed by an individual without a separate and appropriate individual's approval (or identify an alternative mechanism or process to monitor for this)
 3. Some minimum requirements may not be applicable based on the type of change (e.g. emergency changes typically don't require approvals prior to deployment due to the need to deploy emergency changes quickly). Change procedures should clearly document exceptions to the minimum requirements in this policy and the mechanisms in place to meet the requirements of this policy (e.g. for emergency changes, a post-deployment verification is performed and retroactive approvals are obtained and documented on the emergency change request within a specified period of time)
 
 
@@ -134,5 +134,4 @@ Exceptions to this policy will be tracked as per the [Information Security Polic
 - [Controlled Document Procedure](/handbook/security/controlled-document-procedure.html)
 - [Critical System Tiers](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html)
 - [GitLab Control Framework (GCF)](/handbook/security/security-assurance/security-compliance/sec-controls.html#gitlab-control-framework-gcf)
-   - [Change Management Control Family (CHG)](/handbook/security/security-assurance/security-compliance/guidance/change-management.html)
 - [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process)
