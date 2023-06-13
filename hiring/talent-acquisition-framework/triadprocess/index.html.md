@@ -48,6 +48,7 @@ Our headcount management is a fluid process through the fiscal year. Starting wi
 To support business readiness, we are introducing a Quarterly Headcount Validation exercise in our G&A, Marketing and R&D cost centers. The goal of this exercise is two-fold: (1) provide a structured point in time review of open headcount and reallocate as business needs change with the understanding of financial impact and (2) to collect all the necessary information needed for Talent Acquisition to drive efficiency in our recruitment process for the upcoming quarters set roles. 
 
 **Process Outline**
+
 | DRI      | Process | Timing |
 | --- | ----------- | ----------- |
 |TA Directors | VALIDATION: Create point-in-time data pull of all upcoming quarter headcount for business review [VP level audience] to share asynchronously with leaders. Data source for the pull should be the working Interlock sheet by cost center that we work through with FP+A, PBPs and the business each week. PBPs to advise and partner with leaders to work through exercise of reviewing and validating: All details on open requisitions - hiring manager, title, grade, location and start date. Provide information on likelihood of internal vs. external placement | mid-end of month 1 of Quarter |
