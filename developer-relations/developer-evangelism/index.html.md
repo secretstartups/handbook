@@ -32,7 +32,7 @@ description: "We build GitLab's technical brand with deep, meaningful conversati
 
 ### Want to work with the team?
 
-[ <i class="fas fa-chalkboard-teacher"></i> Learn about Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/learn-developer-evangelism/){:.btn .btn-purple-inv} [<i class="far fa-edit"></i> Request a Developer Evangelist Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request){:.btn .btn-purple-inv} [ <i class="far fa-edit"></i>Request Community Response support](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=community-response-plan){:.btn .btn-purple-inv}
+[ <i class="fas fa-chalkboard-teacher"></i> Learn about Developer Evangelism](/handbook/marketing/developer-relations/developer-evangelism/learn-developer-evangelism/){:.btn .btn-purple-inv} [<i class="far fa-edit"></i>Technical Marketing](/handbook/marketing/developer-relations/technical-marketing/){:.btn .btn-purple-inv} [<i class="far fa-edit"></i> Request a Developer Evangelist Issue Template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=developer-evangelist-request){:.btn .btn-purple-inv} [ <i class="far fa-edit"></i>Request Community Response support](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=community-response-plan){:.btn .btn-purple-inv}
 
 ***
 
@@ -80,6 +80,14 @@ We are members of the [Developer Relations team](/handbook/marketing/developer-r
 | [Fatima Sarah Khalid](/company/team/#sugaroverflow) <br/> Developer Evangelist | Community Engagement, DevSecOps | English | [Beyond Code Series](/handbook/marketing/developer-relations/evangelist-program/#beyond-code-series) | CI, Verify, PHP, JavaScript | |
 | [Michael Friedrich](/company/team/#dnsmichi) <br/> Senior Developer Evangelist | DevSecOps with a focus on the SRE, Ops and Sec engineers' perspective | English, German, Austrian | [EveryoneCanContribute cafe meetup](/handbook/marketing/developer-relations/developer-evangelism/projects/#everyonecancontribute-cafe), [opsindev.news newsletter](/handbook/marketing/developer-relations/developer-evangelism/projects/#opsindevnews-newsletter), [o11y.love](/handbook/marketing/developer-relations/developer-evangelism/projects/#o11ylove) | CI/CD, Observability, SRE, IaC, Security, Python, Go, C/C++, Rust, Ruby | [Talks](https://dnsmichi.at/talks/), [Portfolio](https://dnsmichi.at/talks/) , [cfps.dev](https://cfps.dev/u/dnsmichi/events) |
 | [William Arias](/company/team/#warias) <br/> Senior Developer Evangelist | DevSecOps with a focus on AI/ML, Sec and Data | English, Spanish |  | CI/CD, AI/ML, Kubernetes, Security, Python, C |  |
+
+We collaborate closely with the [Technical Marketing team](/handbook/marketing/developer-relations/technical-marketing/). Their focus is user education/research via technical deep dives that includes workshops, demos, technical blog posts, interactive webinars, external evangelism, internal/external product enablement and analyst debriefings.
+
+| Team member |  Focus areas | Language skills | Projects | Technologies | Speaker Portfolio |
+|-------------|-------------|--------------|-------------|--------------|-------------------|
+| [Cesar Saavedra](/company/team/#csaavedra1) <br/> Senior Technical Marketing Manager | DevSecOps with a focus on CD, GitOps, Kubernetes | English, Spanish |  |  Kubernetes, CI/CD, Java |  |
+| [Fernando Diaz](/company/team/#fjdiaz) <br/> Technical Marketing Manager | DevSecOps with a focus on Security and Compliance | English, Spanish | [Security and Governance tutorials](https://gitlab.com/gitlab-de/tutorials/security-and-governance) | Security, Kubernetes, CI/CD, Python |  |
+| [Itzik Gan-Baruch](/company/team/#iganbaruch) <br/> Senior Technical Marketing Manager | DevSecOps with a focus on CI/CD, Remote Development/IDEs and Value Stream Management | English, Hebrew |  |  Remote Development, CI/CD, Value Stream Management |  |
 
 
 ### Stable counterparts
