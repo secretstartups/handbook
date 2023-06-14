@@ -16,6 +16,12 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q2-FY24
 
+### 2023-06-12 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/332))
+
+**Partner Ops: [Filter Invoice Owner in SFDC Quote Studio for Partner Quotes](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/4006)**
+
+**Partner Ops: [Filter Partner account fields in SFDC Quote Studio for Partner Quotes](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3994)**
+
 ### 2023-05-01 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/301))
 
 **Sales Ops: [SFDC Sales Stages Workflow Change](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3481)**
