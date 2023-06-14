@@ -89,7 +89,7 @@ When paged, the Incident Managers have the following responsibilities during a S
 1. In the event of an incident which has been triaged and confirmed as a clear Severity 1 impact, notify Infrastructure Leadership via PagerDuty, by typing `/pd trigger` in Slack. In the "Create New Incident" dialog, select "Infrastructure Leadership" as the Impacted Service with a link to the incident in the Description as well as a reminder that Infrastructure Leadership should follow the [process for Infrastructure Leadership Escalation](/handbook/engineering/infrastructure/incident-management/#infrastructure-leadership-escalation). This notification should happen 24/7.
 1. Responsible for posting regular status updates in the `Current Status` section of the incident issue description. These updates should summarize the current customer impact of the incident and actions we are taking to mitigate the incident. This is the most important section of the incident issue, it will be referenced to status page updates, and should provide a summary of the incident and impact that can be understood by the wider community.
 1. Ensure that the incident issue has all of the [required labels](#required-labeling) applied.
-1. Ensure that the incident issue is appropriatly restricted based on [data classification](#incident-data-classification). 
+1. Ensure that the incident issue is appropriatly restricted based on [data classification](#incident-data-classification).
 1. If present, ensure that the `Summary for CMOC notice / Exec summary` in the incident description is filled out as soon as possible.
 1. Ensure that all corrective actions, investigations or followups have corresponding issues created and associated to the incident issue.
 1. Ensuring that the Timeline section of the incident is accurate.
@@ -485,6 +485,19 @@ It is important to add as much information as possible as soon as an incident is
 
 The EOC and the Incident Manager On Call, at the time of the incident, are the default assignees for an incident issue. They are the assignees for the entire workflow of the incident issue.
 
+### Timeline
+
+Incidents use the [Timeline Events](https://docs.gitlab.com/ee/operations/incident_management/incident_timeline_events.html) feature, the timeline can be viewed by selecting the "Timeline" tab on the incident.
+By default, all label events are added to the Timeline, this includes `~"Incident::Mitigated"` and `~"Incident::Resolved"`.
+At a minimum, the timeline should include when start and end times of user impact.
+You may also want to highlight notes in the discussion, this is done by selecting the clock icon on the note which will automatically add it to the timeline.
+For adding timeline items quickly, use the [quick action](https://docs.gitlab.com/ee/user/project/quick_actions.html), for example:
+
+```
+/timeline DB load spiked resulting in performance issues | 2022-09-07 09:30
+/timeline DB load spike mitigated by blocking malicious traffic | 2022-09-07 10:00
+```
+
 ### Labeling
 
 The following labels are used to track the incident lifecycle from active incident to completed incident review. [Label Source](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=Incident%3A%3A)
@@ -595,9 +608,9 @@ These labels are always required on incident issues.
 
 | **Label** | **Purpose** |
 | ----- | ------- |
-| `~incident` | Label used for metrics tracking and immediate identification of incident issues. |
+| `~incident` (automatically applied) | Label used for metrics tracking and immediate identification of incident issues. |
 | `~Service::*` | Scoped label for service attribution. Used in metrics and error budgeting. |
-| `~Severity::*` | Scoped label for severity assignment. Details on severity selection can be found in the [availability severities](/handbook/engineering/quality/issue-triage/#availability) section. |
+| `~Severity::*` (automatically applied) | Scoped label for severity assignment. Details on severity selection can be found in the [availability severities](/handbook/engineering/quality/issue-triage/#availability) section. |
 | `~RootCause::*` | Scoped label indicating root cause of the incident. |
 
 #### Optional Labeling
