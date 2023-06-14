@@ -100,7 +100,7 @@ The main goals for this rotation:
 | Month     | Name             |
 | -----     | ------           |
 | **2023**  | |
-| December  | [`@jbobadilla-ext`](https://gitlab.com/jbobadilla-ext) |
+| December  | [`@jtapiab`](https://gitlab.com/jtapiab) |
 | November  | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
 | October   | [`@brodock`](https://gitlab.com/brodock) |
 | September | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
