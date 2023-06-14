@@ -70,7 +70,6 @@ variables:
     - apk add go npm
     - ./scripts/sync-data.sh
     - npm ci
-    - hugo mod get
     - hugo
   rules:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH

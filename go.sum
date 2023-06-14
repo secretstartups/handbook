@@ -6,3 +6,5 @@ github.com/google/docsy/dependencies v0.7.0/go.mod h1:gihhs5gmgeO+wuoay4FwOzob+j
 github.com/twbs/bootstrap v5.2.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.1.1 h1:D+MVKCxVKQh5KRVBiXxkbN/NbzwdVrAyje+6P44AN7I=
 gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.1.1/go.mod h1:XSbeHClNun1w/mhjfsLDl0OMSEUtib6dC4Jq3ot8UKQ=
+gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.1.2 h1:AdZpsZBHffa1ziErFMKVkyXGAt/PD7J/Fxsl0IhUmNw=
+gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.1.2/go.mod h1:XSbeHClNun1w/mhjfsLDl0OMSEUtib6dC4Jq3ot8UKQ=
