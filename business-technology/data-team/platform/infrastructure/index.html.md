@@ -723,6 +723,54 @@ There's a once-daily CI job that executes in the [version project](https://gitla
 The explanation for `version_db` timestamp columns as it is vital to fully understand their meaning:
 1. `recorded_at` its time when ServicePing was generated on the client side, we receive [usage_data.rb](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/usage_data.rb#L51-51) it with payload
 2. `created_at` and `updated_at` are standard Rails datetime columns. In the case of  table `usage_data` and `raw_usage_data` they will always hold the same values, as we don't upsert record, always create new and reflect the timestamp when the payload was received.
+    
+#### VERSION_DB late arriving data framework    
+
+Problem with late ingested pings in the `VERSION_DB` pipeline  is sorted out using `TIMESTAMP` column `_uploaded_at` - the format we captured is `yyyy-mm-dd hh24:mi:ss`.
+
+Column `_uploaded_at` (started with "_") is the housekeeping column that determines WHEN the record is inserted in the `RAW` layer in Snowflake. This column was added to the tables:
+* `raw.version_db.conversational_development_indices`
+* `raw.version_db.fortune_companies`
+* `raw.version_db.hosts`
+* `raw.version_db.raw_usage_data`
+* `raw.version_db.usage_data`
+* `raw.version_db.usage_ping_errors`
+* `raw.version_db.usage_ping_metadata`
+* `raw.version_db.users`
+* `raw.version_db.version_checks`
+* `raw.version_db.versions`
+
+The main motivation for introducing `_uploaded_at` column is to use it as a mechanism to sort out [**"late arriving"**](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/late-arriving-fact/#:~:text=A%20fact%20row%20is%20late,late%20arriving%20measurement%20event%20occurred.) problem with data in the `prep_ping_instance+` lineage. Using this approach, the data will be processed forward in downstream models when they are ingested in `Snowflake` despite the time **WHEN** the ping is created. The entire `prep_ping_instance+` lineage is defined to use the `_uploaded_at` column as a condition for the incremental load. 
+Furthermore, the current approach will allow the data flow, even if it arrives later, without running the [full-refresh](https://docs.getdbt.com/reference/resource-configs/full_refresh) for `dbt` models in the lineage.
+
+> **Note:** For the consistency of naming, in the `PREP` and `PROD` layer, `_uploaded_at` column is exposed as the `uploaded_at` column, and the meaning is the same.
+
+The `dbt` models which are incremental, will use this condition to load the data:
+```sql
+{% if is_incremental() %}
+    WHERE _uploaded_at >= (SELECT MAX(_uploaded_at) FROM {{this}})
+{% endif %}
+```
+
+In the diagram below, the solution is exposed visually to explain the current state of data loading in the VERSION_DB pipeline.
+
+![version_db_pipeline.png](version_db_pipeline.png)
+
+For more details, refer to gitlab dbt documentation for [prep_ping_instance](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_ping_instance) model.
+The models impacted by this mechanism are:
+
+| Model                                                                                                                                                                                                |  
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| [version_usage_data_source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.version_usage_data_source)                                                                                    |
+| [version_raw_usage_data_source](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.version_raw_usage_data_source)                                                                            |
+| [**prep_ping_instance**](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_ping_instance)                                                                                                                                                                           |
+| [prep_ping_instance_flattened](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_ping_instance_flattened?g_v=1&g_i=%2Bprep_ping_instance%2B)                                           |
+| [fct_ping_instance](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance)                                                                                                    |
+| [fct_ping_instance_metric](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric)                                                                                      |
+| [fct_ping_instance_metric_rolling_13_months](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_metric_none_null?g_v=1&g_i=%fct_ping_instance_metric_rolling_13_months%2B) |
+| [fct_ping_instance_free_user_metrics](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_free_user_metrics)                                                                |
+| [wk_usage_ping_geo_node_usage](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.wk_usage_ping_geo_node_usage)                                                                              |
+
 
 #### Snowflake Stage
 
