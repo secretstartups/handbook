@@ -494,16 +494,16 @@ SDR Managers will monitor key metrics and ensure they are being handled effectiv
 
 * **Partner Prospecting Status:** If this is populated, the lead/contact is being worked by a partner and the Sales Dev team should not proceed with outreach. Instead the rep should change the ownership to Marketo Integration. BDRs should not bring these into their outreach on AWA’s.
 
-* **Actively Working Status:** An account researched and chosen by the BDR and/or SAE- based on alignment to ICP, news insights, company initiative, intent, ABM list etc. This is an account that the BDR will proactively be performing strategic outreach to. There is no limit to how long an account can stay in “Actively working” status as long as outreach is continuing to be made.
-BDRs will work these leads.
+* **Actively Working Status:** An account researched and chosen by the BDR and/or SAE- based on alignment to our ideal customer profile, news insights, company initiative, intent, ABM list etc. This is an account that the BDR will proactively be performing strategic outreach to. BDRs will work inbound leads from these accounts.
+    * When an account is moved into Actively Working, a Recycle Date will automatically be populated with a date 10 weeks ahead. The account will automatically be moved into WorkedinFY year status 2 weeks after that date.  If that account needs to continue to be worked, the BDR will need to move it back into Actively Working. B4 and B5 account  views highlight accounts about to be moved to WorkedinFY and those that have been moved to WorkedinFY.
 
-* **Requirements to remain in Actively Working status:** All  “BDR comments” fields will need to be populated within 10 days of moving into “Actively Working” status and a minimum of 5 people will need to be added to sequences within 15 days of the “Actively Working” timestamp. Accounts will move back to queued should criteria not be met.
+* **Actively Working Status Requirements:** The BDR Account Strategy field  must be populated before you can move an account into Actively Working status. BDR Research and Next Steps notes need to be populated within 10 days of an account moving into “Actively Working” status as well. A minimum of 5 people will need to be added to sequences within 15 days of the “Actively Working” timestamp for the account to stay in Actively Working. Accounts can be moved back to queued should criteria not be met.
     * MM BDRs have a limit of 150 accounts in “Actively Working” status, Large BDRs have a limit of 100.
 
 * **Queued status:** Accounts with this BDR prospecting status are waiting to be moved into Actively Working
     * SDRs will work these MQLs.
 
-* **Worked in FY status:** Accounts with this BDR prospecting status are actively worked but has not had prospects active in sequence in the last 30 days. Being moved to “Worked in FY”  indicates that they have gone through being an Actively Working” account this FY. An account in this status can be moved back into “Actively Working” working status later that year if desired.
+* **Worked in FY status:**  An account that is labeled “Worked in FY” indicates they have gone through being an "Actively Working” account this FY. An account in this status can be moved back into “Actively Working” working status later that year if desired.
     * SDR will work MQLs for that account.
 
 * **Restricted status:** SAE indicated that this account cannot be worked by BDR. BDRs should be the only ones changing the BDR Prospecting Status. So if you’re asked to move an account into Restricted Status, please make sure you note the reason for the restriction in the BDR comments section under “BDR account research”.
