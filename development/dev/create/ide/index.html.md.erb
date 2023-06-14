@@ -116,8 +116,6 @@ The layout for these Milestone issues are automated and can be found [here](http
 
 In the Create:IDE team we leverage an automatic issue hygiene system via the [triage bot](https://gitlab.com/gitlab-org/quality/triage-ops/-/tree/master/policies/groups/gitlab-org/ide). This helps to ensure issues and label hygiene are respected, currently, our rules are:
 
-- TODO: Update our rules once the team renaming is complete.
-
 ### 🌉 Architecture Plans vs. Iteration Plans
 
 We use the terms _Architecture Plan_ and _Iteration Plan_ when we think of outcomes to broad high-level issues. An investigative spike should result in an Architecture Plan and an Iteration Plan.
@@ -236,12 +234,12 @@ We plan to continue iterating in this area, with the goal of eventually having G
 ```mermaid
 graph TD;
   S['Category:Remote Developent' issue created] -->|New issue is added to an epic, and 'rd-workflow::unprioritized' label is applied| V[High Level Validation and Planning]
-  V -->|'Next 1-3 Releases' milestone is applied to higher-priority issues| P[Pre-IPM]
-  P -->|Unprioritized issues with 'Next 1-3 Releases' milestone are refined and prioritized into 'rd-workflow::prioritized'| I[IPM]
+  V -->|'Next 1-3 Releases' milestone is applied to higher-priority issues| R[Pre-IPM - Async Refinement]
+  R -->|Unprioritized issues with 'Next 1-3 Releases' milestone are refined| P[Pre-IPM - Sync prioritization]
+  P -->|Refined issues are prioritized into 'rd-workflow::prioritized'| I[IPM]
   I -->|'rd-workflow::prioritized' issues are discussed and estimated by the entire team| N[Next]
   N -->|Issue is assigned to a specific release based on its calculated iteration| E[Development proceeds for issue]
 ```
-
 
 #### 1. High Level Validation and Planning
 
@@ -262,30 +260,60 @@ Issues which are not a priority to finish within the `%"Next 1-3 releases"` may 
 
 There may be concerns about over-committing too many issues to the `%"Next 1-3 releases"` release. However:
 
-1. If we are being healthy and diligent about following the Pre-IPM process **_every week_** as defined, we should be reviewing **_ALL_** issues which have the %"Next 1-3 releases" during every Pre-IPM, and moving them to `~"rd-workflow::prioritized"` .
+1. If we are being healthy and diligent about following the Pre-IPM process **_every week_** as defined, we should be reviewing **_ALL_** issues which have the `%"Next 1-3 releases"` during every Pre-IPM, and moving them to `~"rd-workflow::prioritized"` .
 1. If we don't get to them one week, we should decide how to deal with it - either agree to do them async in the next week, schedule an extra Pre-IPM, or commit to ensuring we finish reviewing them in next week's Pre-IPM.
-1. Then, during the weekly IPM, per the process defined above, these issues will be weighted and prioritized, and have their release changed from %"Next 1-3 releases" to a specific release, depending on what iteration they fall into (and we can always give ourselves a "buffer" by assuming, for our purposes, that only things slated to be completed by a certain time will be likely to be in the release, e.g., everything slated to be completed in the 2nd iteration of the month, which is a ~1+ week buffer before the actual release is cut).
+1. Then, during the weekly IPM, per the process defined above, these issues will be weighted and prioritized, and have their release changed from `%"Next 1-3 releases"` to a specific release, depending on what iteration they fall into (and we can always give ourselves a "buffer" by assuming, for our purposes, that only things slated to be completed by a certain time will be likely to be in the release, e.g., everything slated to be completed in the 2nd iteration of the month, which is a ~1+ week buffer before the actual release is cut).
 
 See the [following discussion thread](https://gitlab.com/gitlab-org/create-stage/-/issues/13151#note_1417052962) for more context.
 
 #### 2. Pre-Iteration Planning Meeting
 
-**TL;DR: Refine each `rd-workflow::unprioritized` issue which has the `Next 1-3 releases` milestone, and prioritize it into the `rd-workflow::prioritized label.**
+**TL;DR:** 
 
-**Process:**
+- **Async phase - Refinement: Divide up the work to refine each `rd-workflow::unprioritized` issue which has the `%"Next 1-3 releases"` milestone using the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20group%20-%20issue.md), then apply the `refined` label.**
+- **Sync phase - Prioritization: Product and Engineering leaders meet to prioritize each `refined` issue into the `rd-workflow::prioritized` label.**
 
-1. During each Pre-IPM meeting, we will (temporarily) [filter the Iteration Planning board on the `Next 1-3 releases` milestone](https://gitlab.com/groups/gitlab-org/-/boards/5283620?label_name[]=Category%3ARemote%20Development&milestone_title=Next%201-3%20releases), so that only issues with that milestone appear in the `~"rd-workflow::unprioritized"` list.
-1. The goal of each Pre-IPM will be to refine and prioritize all of these issues into the `~"rd-workflow::prioritized"` list. They are prioritized by dragging them into the appropriate order in the `~"rd-workflow::prioritized"` list, with the highest-priority issues being at the top, and the lowest-priority issues being at the bottom.
-1. A critical part of this process is to ensure that the description of each prioritized issue is complete, and contains enough information for the team to understand and estimate it during the next IPM, in less than 5-10 minutes, without extensive debate/discussion.
+**Async Phase of Pre-IPM Process - Refinement:**
+
+1. Identify all issues which:
+   1. Have the `~"rd-workflow::unprioritized"` **AND**
+   1. Have the `%"Next 1-3 releases"` milestone applied **AND**
+   1. Do **NOT** yet have the `~refined` label
+1. Assign each of these issues to an appropriate team member to be refined. This process can be whatever works for the team, but
+   in general issues should be refined by someone who has the knowledge and availability to refine them properly and promptly.
+   If there are questions, ask for help or reassign it to someone else.
+1. The assignee should use the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20group%20-%20issue.md) to refine the issue. The refinement should ensure
+   that the description of each prioritized issue is complete, and contains enough information for the team to review, understand
+   and estimate it during the next IPM, in less than 5-10 minutes, without extensive debate/discussion. 
+1. If the refinement uncovers additional scope/complexity, the issue should be broken down into smaller issues, which
+   are then refined individually. Optionally, an epic may be created to organize the work across multiple issues.
+
+**Sync Phase of Pre-IPM Process - Prioritization:**
+
+1. During each Pre-IPM meeting, we will (temporarily) [filter the Iteration Planning board on the `~refined` label](https://gitlab.com/groups/gitlab-org/-/boards/5283620?label_name[]=Category%3ARemote%20Development&label_name[]=refined), so that only refined issues appear in the `~"rd-workflow::unprioritized"` list.
+1. The goal of each Pre-IPM sync meeting will be to prioritize all of these issues into the `~"rd-workflow::prioritized"` list, based on their
+   relative importance, whether they are blocking other issues, etc. They are prioritized by dragging them into the appropriate order in the `~"rd-workflow::prioritized"` list, with the highest-priority issues being at the top, and the lowest-priority issues being at the bottom.
 
 **Explanation:**
 
 The "Pre-Iteration Planning" (Pre-IPM) meeting prepares for the Iteration Planning Meeting. It is analogous to ["backlog refinement"](https://about.gitlab.com/handbook/product-development-flow/#outcomes-and-activities-4) in the standard GitLab product development flow.
 
-During the Pre-IPM meeting, the leaders on the team will collaborate on creating/refining, organizing, and clarifying all issues which are to be prioritized for the upcoming iteration(s). This will normally involve Product and Engineering leaders on the team, but may also involve Design or other team members depending on the nature of the issues involved. The goal is to ensure that all issues which have been identified as a priority for the upcoming releases are properly refined, curated, prioritized, and ready for the wider team to briefly discuss and estimate in the next IPM.
+During the Pre-IPM, the team will collaborate on creating/refining, organizing, and clarifying all issues which are to be prioritized for the upcoming iteration(s). This will normally involve Product and Engineering leaders on the team, but may also involve Design or other team members depending on the nature of the issues involved. The goal is to ensure that all issues which have been identified as a priority for the upcoming releases are properly refined, curated, prioritized, and ready for the wider team to briefly discuss and estimate in the next IPM.
 
 If a single piece of work spans multiple projects/repos, there should be be a separate issue created for each MR in each repo. We cannot use the [tasks feature](https://docs.gitlab.com/ee/user/tasks.html#set-task-weight), because boards cannot display individual
 tasks.
+
+**QUESTION: Why isn't there a `~rd-workflow::refined` phase instead of using the `~refined` label?**
+
+For a few reasons:
+
+1. We want to keep the main process and board simple and easy to understand. The three columns for `unprioritized`, `prioritized`, and `done` phases
+   are intuitive and self-explanatory. Also, the movement between `unprioritized` and `prioritized` is a sync process, which ensures the team leadership
+   are all on the same page about current priorities.
+1. The refinement and prioritization process may vary among different teams that use this process in the future. Keeping the three core phases simple
+   means that the basic process and board approach can still be used with simpler or more complex refinement/prioritization processes.
+1. Finally (and most importantly from a pragmatic perspective), the implementation of the logic for velocity and iteration calculations on the board is
+   much simpler if we enforce a standardized three-phase/three-column process and UI.
 
 #### 3. Iteration Planning Meeting
 
@@ -308,13 +336,61 @@ The iteration cycle is one week long, and the team maintains one board for track
 
 #### 4. Assigning prioritized issues to specific releases based on calculated iterations
 
-TODO: Ideally this can be automated in the future. For now, it will be a manual process.
+TODO: This can be automated in the future by adding functionality to the chrome extension. For now, it will be a manual process.
 
 **TL;DR: Assign issues to specific releases based on their calculated iteration**
 
 At this point, once all prioritized issues have been estimated, with the use of the [GitLab Velocity Board Extension](https://gitlab.com/cwoolley-gitlab/gl-velocity-board-extension) we will be able to know how they break down into future iterations.
 
 Then, based on the dates of calculated iterations, we can reassign the issues from the `Next 1-3 releases` milestone into specific milestones.
+
+### Example Lifecycle for a Feature Issue
+
+1. Product and Design work together to identify a new feature requirement.
+1. An issue is created using the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20group%20-%20issue.md). The correct labels are automatically applied by the template,
+   so the issue shows up in the `~"rd-workflow::unprioritized` list of the Iteration Planning board.
+   Note that the issue description may be incomplete/unrefined and high-level at this point.
+1. Product decides the issue is a high priority, so they apply the `%"Next 1-3 Releases"` milestone to signal this.
+1. As part of the async Pre-IPM process, someone is assigned to refine the issue, by finishing filling out the issue template, then applying the `~refined` label
+1. As part of the sync Pre-IPM meeting, product and engineering leadership move the refined issue to the `~rd-workflow::prioritized` list,
+   in the appropriate position based on its priority relative to other issues.
+1. In the sync IPM meeting, the wider team discusses and estimates the issue, and it is assigned to whoever will do the work.
+1. Once the priority and weight are determined, the current velocity will tell us what iteration the issue should be completed in, and a specific
+   release milestone can be assigned to the issue based on that.
+1. The assignee opens an MR for the issue, ensures that the issue and MR are cross-referenced on the first lines of their descriptions, and
+   begins work on the MR.
+1. When the work is completely done - i.e., the MR is reviewed and merged, the feature is verified and tested in production, etc.,
+   then the issue is closed, and moved to the `~rd-workflow::done` list.
+
+### 1-to-1 Relationship of Issues to MRs
+
+We want to enforce that:
+
+1. Every MRs is only associated with a single issue
+1. No issue can have more than 1 MR associated with it
+
+This is in order to facilitate accurate and granular velocity calculations and issue prioritization under this process.
+The merge request is the atomic unit of deliverable work in most cases, so it must be represented in the prioritization
+and calculations by being associated with one and only one issue.
+
+If boards and epics allowed MRs to be added and estimated as well as issues, this would not be necessary - for feature/maintenance
+involving an MR, we could have the MR directly represent the full lifecycle of the discussion and implementation, and not
+have an issue at all.
+
+We also cannot rely on the Crosslinking Issues feature (https://docs.gitlab.com/ee/user/project/issues/crosslinking_issues.html),
+because this shows ALL linked MRs that have mentioned the issue anywhere, and cannot enforce this 1-1 relationship.
+
+In order to enforce this via triage-ops automations
+(https://about.gitlab.com/handbook/engineering/development/dev/create/ide/#automations-for-remote-development-workflow),
+the first line of the issue should have the format: `MR: <...>`:
+
+1. For new issues, the first description line should be: `MR: Pending`
+1. Once an MR is created for the issue and work is started, the first description line of the issue should be: `MR: <MR link with trailing +>`,
+   and the first description line of the MR should be `Issue: <Issue link with trailing +>` 
+1. If there is _NO MR_ associated with this issue, the first line should be: `MR: No MR`.
+   However, this should be rare, because most issues should have some sort of committed deliverable, even if it is only
+   a documentation addition or update. If it is an issue which represents a larger piece of work split across smaller issues,
+   then it should be promoted to an epic.
 
 ### 📝 Ad-Hoc Work
 
@@ -407,9 +483,9 @@ We have the following automation goals for the Remote Development Workflow. Unle
 **Goal:** To avoid premature assignment of specific milestones before an issue has gone through IPM, to avoid getting this warning: https://gitlab.com/gitlab-org/gitlab/-/issues/411933#note_1419147845
 
 **Automation:**
-- Issues with a specific milestone but not in ~rd-workflow::prioritized should have the milestone automatically set back to %"Next 1-3 releases" (TODO: implement)
-- Issues with a specific milestone but no weight should have the milestone automatically set back to %"Next 1-3 releases" (TODO: implement)
-- Issues with a specific milestone but no iteration should have the milestone automatically set back to %"Next 1-3 releases" (TODO: implement)
+- Issues with a specific milestone but not in ~rd-workflow::prioritized should have the milestone automatically set back to `%"Next 1-3 releases"` (TODO: implement)
+- Issues with a specific milestone but no weight should have the milestone automatically set back to `%"Next 1-3 releases"` (TODO: implement)
+- Issues with a specific milestone but no iteration should have the milestone automatically set back to `%"Next 1-3 releases"` (TODO: implement)
 
 **Goal:** To ensure prioritized issues are in the correct state
 
