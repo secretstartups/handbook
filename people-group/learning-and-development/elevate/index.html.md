@@ -61,21 +61,21 @@ Watch this video for a walk through of each step:
 
 ### Project
 
-**Apply what you've learned in Elevate to real life challenges - then contribute their findings to the wider GitLab community!**
+**Apply what you've learned in Elevate to real life challenges - then contribute your findings to the wider GitLab community for real impact!**
 
-The Elevate Project is your opportunity to contribute new ideas for managers at GitLab and in the wider GitLab community. You'll be assigned to work with a group of other Elevate participants. In your group, you'll discuss a prompt, record a video outlining your solution, and submit a merge request to the handbook to document your findings. Projects are due by the end of the program. _Completion of this project is required to earn the Elevate certification._
+The Elevate Project is your opportunity to contribute new ideas for managers at GitLab and in the wider GitLab community. You'll be assigned to work with a group of other Elevate participants. In your group, you'll discuss a prompt, record a video outlining your solution, and submit a merge request to the handbook to document your findings. Projects are due by the conclusion of Module 4. _Completion of this project is required to earn the Elevate certification._
 
 #### Prompts
 
-Each group will select **one prompt** to focus on.
+Project groups will be assigned by the Learning and Development team. You'll work with other managers in your coaching cohort - the same managers you see each module during Step 3: Group Coaching. 
 
-The prompts are as followed:
+Each group will select **one prompt** to focus on. The prompts are as follows:
 
 | Prompt | Description|
 | ----- | ---------- |
 | 1 | Identify a current business initiative or challenge at GitLab- within your group or outside of it - that you feel you could move the needle on. How would you use what you learned in Elevate to do so? |
 | 2 | Identify a current challenge that our external stakeholders are facing and that you feel you could move the needle on. How would you use what you learned in Elevate to do so? |
-| 3 | Compile a multi-disciplinary set of resources (5-10) to illustrate one of the modules, including what “good” and “bad” look like |
+| 3 | Compile a multi-disciplinary set of globally-based resources (at least 5 articles, videos, ted talks, etc) to illustrate one of the modules and the skills / concepts included |
 
 #### Results
 
@@ -119,6 +119,8 @@ When your project is complete, follow these steps to submit.
 1. Upload your video(s) to Google Drive in [this folder](https://drive.google.com/drive/folders/1zUwOzEFGAiiTaYTgVes1k85kmKBNuRR_)
 1. Link your video and merge requests to [this Google sheet](https://docs.google.com/spreadsheets/d/1z9YTQgtBsnM3FASmuiTvQtwZW7Rtihn4Az9AMLsXO2A/edit#gid=904075814)
 1. Tag `@slee@gitlab.com` and `jallen@gitlab.com` in a comment on the Google Sheet when your group has submitted their project.
+
+Videos will be reviewed by the L&D team and added to the handbook to promote the program and the solutions you’ve developed. Some ideas may be selected to be shared with GitLab leadership (by the groups who made them).
 
 
 ### Certification
