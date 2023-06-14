@@ -19,16 +19,16 @@ Our brand is the embodiment of our [mission](/company/mission/#mission), [vision
 GitLab's official Brand guidelines can be found at **[design.gitlab.com](https://design.gitlab.com/brand/overview)** under the `Brand` tab. These guidelines should be applied to all marketing materials, including, but not limited to: digital ads, events, publications, merchandise, etc. 
 
 
-## Brand expressions vs sub-brands
+## Brand extensions vs sub-brands
 
-`Brand expressions` and `sub-brands` are extensions of our core brand. They are both governed by our [brand guidelines](https://design.gitlab.com/brand/overview), but take on additional creative elements that complement the core branding. Brand expressions help distinguish projects and initiatives that directly promote either the company or the product. Sub-brands are used to classify GitLab programs that bring awareness to topics that extend beyond the company and product.
+`Brand extensions` and `sub-brands` are both governed by our [brand guidelines](https://design.gitlab.com/brand/overview), but take on additional creative elements that complement the core branding. Brand extensions help distinguish projects and initiatives that directly promote either the company or the product. Sub-brands are used to classify GitLab programs that bring awareness to topics that extend beyond the company and product.
 
-### Brand Expression Strategy
-Brand expressions are directly aligned with GitLab marketing initiatives and connect back to the company and/or product. Visually, they lean into GitLab core branding, while maintaining their own specific look and feel.
+### Brand Extension Strategy
+Brand extensions are directly aligned with GitLab marketing initiatives and connect back to the company and/or product. Visually, they lean into GitLab core branding, while maintaining their own specific look and feel.
 
-An example of a brand expression is the [Partner Leadership Summit](https://twitter.com/hapapower/status/1529106372771577857). This brand expression builds upon the core branding by incorporating new elements, such as the distinct arrow motif, that make it stand apart from our standard marketing collateral.
+An example of a brand extension is the [Partner Leadership Summit](https://twitter.com/hapapower/status/1529106372771577857). This brand extension builds upon the core branding by incorporating new elements, such as the distinct arrow motif, that make it stand apart from our standard marketing collateral.
 
-Here are the style guides for existing brand expressions:
+Here are the style guides for existing brand extensions:
 - [Partner Leadership Summit](https://www.figma.com/proto/oXk59yUAsJm7ZAqSUK4LhI/Alliance-%26-Channel-Partner-Summit?page-id=296%3A153&node-id=296%3A321&viewport=3169%2C1327%2C1&scaling=contain)
 
 ### Sub-branding Strategy
