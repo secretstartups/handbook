@@ -202,8 +202,8 @@ This is a simplified version of the [primary command reference](https://docs.get
 
 dbt specific:
 
-- `dbt clean` - this will remove the `/dbt_modules` (populated when you run deps) and `/target` folder (populated when models are run)
-- `dbt run` - regular run
+- [`dbt clean`](https://docs.getdbt.com/reference/commands/clean) - this will remove the `/dbt_modules` (populated when you run deps) and `/target` folder (populated when models are run)
+- [`dbt run`](https://docs.getdbt.com/reference/commands/run) - regular run
 - Model selection syntax ([source](https://docs.getdbt.com/docs/model-selection-syntax)). Specifying models can save you a lot of time by only running/testing the models that you think are relevant. However, there is a risk that you'll forget to specify an important upstream dependency so it's a good idea to understand the syntax thoroughly:
     - `dbt run --models modelname` - will only run `modelname`
     - `dbt run --models +modelname` - will run `modelname` and all parents
@@ -216,9 +216,11 @@ dbt specific:
         - `dbt run --models folder.subfolder` - will run all models in the subfolder
         - `dbt run --models +folder.subfolder` - will run all models in the subfolder and all parents
 - `dbt run --full-refresh` - will refresh incremental models
-- `dbt test` - will run custom data tests and schema tests; TIP: `dbt test` takes the same `--model` and `--exclude` syntax referenced for `dbt run`
-- `dbt seed` - will load csv files specified in the `data-paths` [directory](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt/data) into the data warehouse. Also see the [seeds section of this guide](/handbook/business-technology/data-team/platform/dbt-guide/#seeds)
-- `dbt compile` - compiles all models. This isn't a command you will need to run regularly. dbt will compile the models when you run any models.
+- [`dbt test`](https://docs.getdbt.com/reference/commands/test) - will run custom data tests and schema tests; TIP: `dbt test` takes the same `--model` and `--exclude` syntax referenced for `dbt run`
+- [`dbt seed`](https://docs.getdbt.com/reference/commands/seed) - will load csv files specified in the `data-paths` [directory](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt/data) into the data warehouse. Also see the [seeds section of this guide](/handbook/business-technology/data-team/platform/dbt-guide/#seeds)
+- [`dbt compile`](https://docs.getdbt.com/reference/commands/compile) - compiles the templated code within the model(s) and outputs the result in the `target/` folder.
+    This isn't a command you will need to run regularly as dbt will compile the models automatically when you to 'dbt run'.
+    One common use-case is the compiled code can be run in Snowflake directly for debugging a model.
 
     Works only if you've run the [onboarding script](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/onboarding_script.sh):
 - `dbt_run_changed` - a function we've added to your computer that only runs models that have changed (this is accessible from within the docker container)
