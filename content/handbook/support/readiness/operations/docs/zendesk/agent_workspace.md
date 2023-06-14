@@ -45,6 +45,11 @@ image or using Ctrl+K/Cmd+K).
 **Note** This is only the case for messages you type. Markdown links in any
 macros you use will render correctly.
 
+#### Markdown tables do not work
+
+When typing a reply, markdown tables do not render properly. There is not a
+WYSIWYG ability for these, so tables would not longer be usable.
+
 #### Inline images now work
 
 You can now use inline images in your replies. Simply copy the image and paste
@@ -102,7 +107,12 @@ for macros in composer".
 
 Agent workspace allows full agents to ping someone in their replies. This is
 done by using the at sign (`@`) and typing out the name of the person. You then
-select the person from the submenu that appears.
+select the person from the submenu that appears. This works on both public and
+internal replies.
+
+**Note** Consider the end-user experience if using this on a public reply. The
+end-user will just see a name, so they may follow-up with a question such as
+"how do I talk to that person".
 
 Doing so will CC the agent on the ticket (for Zendesk Global) or add them as a
 follower on the ticket (Zendesk US Federal).
@@ -149,6 +159,20 @@ messages. It only submits the message you currently have displayed.
 Agent workspace removed the preview functionality from the reply box. This was
 with the assumption that you can preview your message as you type it, since the
 reply box renders the reply as it will be posted.
+
+#### There is now a draft mode for replies
+
+In the bottom-left of the reply box, there is an option to toggle draft mode for
+your reply. This allows you to write your message without the worry of
+accidently sending it out before it is completed. When in draft mode, if you try
+to send out the reply, a warning message will indicate you are in draft mode and
+ask you to confirm the sending of the reply.
+
+For more information on draft mode, please see
+[Zendesk's documentation](https://support.zendesk.com/hc/en-us/articles/5627101293722).
+
+**Note** You can also use the keyboard shortcut Ctrl+Alt+T or Cmd+Option+T to
+toggle draft mode on and off.
 
 ## The far right sidebar has more options
 
