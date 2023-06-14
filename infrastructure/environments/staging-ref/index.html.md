@@ -125,7 +125,7 @@ If you have `gcloud` or `kubectl` set up locally, then follow [Connect from your
 
 ##### Connect from your local terminal
 
-1. Navigate to the [staging-ref cluster](https://console.cloud.google.com/kubernetes/clusters/details/us-east1-c/staging-ref-3k-hybrid-us/details?project=gitlab-staging-ref&cloudshell=false)
+1. Navigate to the [staging-ref cluster](https://console.cloud.google.com/kubernetes/clusters/details/us-east1-c/staging-ref-3k-hybrid-us/details?project=gitlab-staging-ref&cloudshell=false) or to the [staging-ref geo cluster](https://console.cloud.google.com/kubernetes/clusters/details/europe-west6-c/staging-ref-3k-hybrid-eu/details?cloudshell=false&project=gitlab-staging-ref)
 1. Click **Connect**
 1. Copy the command and run it locally to get `kubeconfig`
 1. Follow [Kubernetes cheat sheet](https://docs.gitlab.com/charts/troubleshooting/kubernetes_cheat_sheet.html#gitlab-specific-kubernetes-information)
