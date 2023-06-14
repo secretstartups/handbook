@@ -33,7 +33,7 @@ SaaS, or Dedicated.
 |:----:| ----- |
 |Self-managed| Self Managed Administrators will need to [configure the desired auth provider](https://docs.gitlab.com/ee/administration/auth/) directly in their gitlab.rb. Any configuration change on this file will require that you run `gitlab-ctl reconfigure` to successfully apply changes.|
 |DotCom| Customers will [Configure SAML SSO for Groups](https://docs.gitlab.com/ee/user/group/saml_sso/index.html) directly, by going to **Group > Settings > SAML SSO**.|
-|Dedicated|Raise issue with Dedicated team|
+|Dedicated|[Raise issue with Dedicated team](./dedicated_overview.html#filing-issues)
 
 
 
@@ -43,7 +43,7 @@ SaaS, or Dedicated.
 |:----:| ----- |
 |Self-managed| Geo is [configured in the gitlab.rb](https://docs.gitlab.com/ee/administration/geo/setup/) file. It requires a premium or higher subscription. **The steps must be followed in the order in which they appear.**|
 |DotCom| *Geo is a Self-Managed feature only.*|
-|Dedicated|Raise issue with Dedicated team|
+|Dedicated|[Raise issue with Dedicated team](./dedicated_overview.html#filing-issues)|
 
 #### Administrator Panel
 
@@ -51,7 +51,7 @@ SaaS, or Dedicated.
 |:----:| ----- |
 |Self-managed| Administrators of self-managed systems will have access to their instance admin. Use the following documentation for reference: [Admin area docs](https://docs.gitlab.com/ee/user/admin_area/#gitlab-admin-area). |
 |DotCom| Only GitLab Team Members can make use of administrative tasks on gitLab.com, therefore access is not granted to customers.|
-|Dedicated|Only GitLab Team Members can make use of administrative tasks on GitLab dedicated, therefore access is not granted to customers.|
+|Dedicated| There is no console access for customers. However, customers have instance admins that can access the admin panel. Use the following documentation for reference: [Admin area docs](https://docs.gitlab.com/ee/user/admin_area/#gitlab-admin-area). |
 
 #### Gitaly
 
@@ -67,7 +67,7 @@ SaaS, or Dedicated.
 |:----:| ----- |
 |Self-managed| [GitlabSOS](https://gitlab.com/gitlab-com/support/toolbox/gitlabsos) is a great way to gather all logs from a customer instance in order to investigate further on potential issues.<br/>Similar to GitlabSOS, use [KubeSOS](https://gitlab.com/gitlab-com/support/toolbox/kubesos) if your customer uses Kubernetes instead of source or omnibus installations.<br/>[Fast-stats](https://gitlab.com/gitlab-com/support/toolbox/fast-stats) is a great way to compare performance analytics from and between GitLab Logs.<br/>[Green-hat](https://gitlab.com/gitlab-com/support/toolbox/greenhat)  is an experimental SOS and log parser.|
 |DotCom|[Kibana](https://log.gprd.gitlab.net/) provides visualization capabilities on top of the content indexed on an Elasticsearch cluster to find Web based queries. Check the [tips and tricks](https://about.gitlab.com/handbook/support/workflows/kibana.html#tips-and-tricks) to understand what kind of information you can pull using this tool.<br/>[Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/) helps investigate errors across different applications or environments, for example Ruby code related errors. Search on Sentry usually is done using a Correlation ID.<br/>[Grafana](https://about.gitlab.com/handbook/engineering/monitoring/#main-monitoring-dashboards) is used for infrastructure metrics collection for GitLab.com |
-|Dedicated|[GitLab Dedicated Logs](https://about.gitlab.com/handbook/support/workflows/dedicated.html#working-with-logs)|
+|Dedicated|[GitLab Dedicated Logs](./dedicated_logs.html)|
 
 ### Architecture
 

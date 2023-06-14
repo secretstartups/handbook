@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: GitLab Dedicated Handbook
+title: GitLab Dedicated Overview
 category: GitLab Dedicated
 description: "Gitlab Dedicated Support overview."
 ---

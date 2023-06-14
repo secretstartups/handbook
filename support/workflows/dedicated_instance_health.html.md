@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: GitLab Dedicated Handbook
+title: GitLab Dedicated Observability and Monitoring (Grafana)
 category: GitLab Dedicated
 description: "Gitlab Dedicated Support - Observability and Monitoring"
 ---

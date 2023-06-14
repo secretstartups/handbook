@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: GitLab Dedicated Handbook
+title: GitLab Dedicated Logs
 category: GitLab Dedicated
 description: "Gitlab Dedicated Support - Working with logs"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: GitLab Dedicated Handbook
+title: GitLab Dedicated Switchboard Troubleshooting
 category: GitLab Dedicated
 description: "Gitlab Dedicated Support - Switchboard"
 ---
