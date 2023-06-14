@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Engineering Career Development"
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -148,39 +150,67 @@ For more details on logistics of ending an interim or acting period please refer
 
 #### Development Department
 
+<div class="x-scrollable">
+<div style="width: 1800px;">
+
 ```mermaid
   graph LR;
   %% frontend roles
-  eng:jfe(Intern Frontend Engineer);
-  click eng:jfe "/job-families/engineering/development/frontend#intern-frontend-engineer";
+  eng:tfe(Intern Frontend Engineer);
+  click eng:tfe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#intern-frontend-engineer";
+  
+  eng:afe(Associate Frontend Engineer);
+  click eng:afe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#associate-frontend-engineer";
 
   eng:ife(Intermediate Frontend Engineer);
-  click eng:ife "/job-families/engineering/development/frontend/#intermediate-frontend-engineer";
+  click eng:ife "https://handbook.gitlab.com/job-families/engineering/development/frontend/#intermediate-frontend-engineer";
 
   eng:sfe(Senior Frontend Engineer);
-  click eng:sfe "/job-families/engineering/development/frontend/#senior-frontend-engineer";
+  click eng:sfe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#senior-frontend-engineer";
 
-  eng:stf(Staff Frontend Engineer);
-  click eng:stf "/job-families/engineering/development/frontend/#staff-frontend-engineer";
+  eng:stfe(Staff Frontend Engineer);
+  click eng:stfe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#staff-frontend-engineer";
 
   eng:fem(Frontend Engineering Manager);
-  click eng:fem "/job-families/engineering/development/frontend/manager/";
+  click eng:fem "https://handbook.gitlab.com/job-families/engineering/development/frontend/manager/";
 
   %% backend roles
-  eng:jbe(Intern Backend Engineer);
-  click eng:jbe "/job-families/engineering/development/backend/#intern-backend-engineer";
+  eng:tbe(Intern Backend Engineer);
+  click eng:tbe "https://handbook.gitlab.com/job-families/engineering/development/backend/#intern-backend-engineer";
+
+  eng:abe(Associate Backend Engineer);
+  click eng:abe "https://handbook.gitlab.com/job-families/engineering/development/backend/#associate-backend-engineer";
 
   eng:ibe(Intermediate Backend Engineer);
-  click eng:ibe "/job-families/engineering/development/backend/#backend-engineer";
+  click eng:ibe "https://handbook.gitlab.com/job-families/engineering/development/backend/#backend-engineer";
 
   eng:sbe(Senior Backend Engineer);
-  click eng:sbe "/job-families/engineering/development/backend/#senior-backend-engineer";
+  click eng:sbe "https://handbook.gitlab.com/job-families/engineering/development/backend/#senior-backend-engineer";
 
-  eng:stb(Staff Backend Engineer);
-  click eng:stb "/job-families/engineering/development/backend/#staff-backend-engineer";
+  eng:stbe(Staff Backend Engineer);
+  click eng:stbe "https://handbook.gitlab.com/job-families/engineering/development/backend/#staff-backend-engineer";
 
   eng:bem(Backend Engineering Manager);
-  click eng:bem "/job-families/engineering/development/backend/manager";
+  click eng:bem "https://handbook.gitlab.com/job-families/engineering/development/backend/manager/";
+
+  %% fullstack roles
+  eng:tfs(Intern Fullstack Engineer);
+  click eng:tfs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#intern-fullstack-engineer";
+  
+  eng:afs(Associate Fullstack Engineer);
+  click eng:afs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#associate-fullstack-engineer";
+
+  eng:ifs(Intermediate Fullstack Engineer);
+  click eng:ifs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#intermediate-fullstack-engineer";
+
+  eng:sfs(Senior Fullstack Engineer);
+  click eng:sfs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#senior-fullstack-engineer";
+
+  eng:stfs(Staff Fullstack Engineer);
+  click eng:stfs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#staff-fullstack-engineer";
+
+  eng:fsm(Fullstack Engineering Manager);
+  click eng:fsm "https://handbook.gitlab.com/job-families/engineering/development/management/fullstack-manager/";
 
 
   %% engineering leadership
@@ -206,18 +236,22 @@ For more details on logistics of ending an interim or acting period please refer
   click eng:fel "/job-families/engineering/engineering-management/#engineering-fellow";
 
   %% career progression
-  subgraph Based on Merit &amp; Company Need
-  eng:stf & eng:fem
-  eng:stb & eng:bem;
+  subgraph Based on Merit and Company Need
+  eng:stfe & eng:fem
+  eng:stbe & eng:bem
+  eng:stfs & eng:fsm;
 
-  eng:bem & eng:fem-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
-  eng:stb & eng:stf-->eng:pre-->eng:dis-->eng:fel;
+  eng:bem & eng:fem & eng:fsm-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
+  eng:stbe & eng:stfe & eng:stfs-->eng:pre-->eng:dis-->eng:fel;
   end
   subgraph Merit Based
-  eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem
-  eng:jbe-->eng:ibe-->eng:sbe-->eng:stb & eng:bem;
+  eng:tfe-->eng:afe-->eng:ife-->eng:sfe-->eng:stfe & eng:fem
+  eng:tbe-->eng:abe-->eng:ibe-->eng:sbe-->eng:stbe & eng:bem;
+  eng:tfs-->eng:afs-->eng:ifs-->eng:sfs-->eng:stfs & eng:fsm;
   end
 ```
+</div>
+</div>
 
 #### Quality Department
 
