@@ -898,9 +898,9 @@ BDR Account views are to help with territory organization. It is very important 
 
 **Account views**
 
-* **B1 View**- All accounts in territory, (clone) - This view will need to be cloned to be customized to the accounts in the territory the BDR is aligned to. It will allow the BDR to mass update the BDR Assigned field. The BDR manager should work with the BDR on the fields needed in the logic.
-* **B2 View**- My BDR Assigned accounts, (clone) - This view will need to be cloned to be customized to accounts where you are the BDR assigned. Once set up, it will allow the BDR to mass update the 'BDR Prospecting Status' field to show which ones they will be "Actively Working'. They can also use this view to move into other statuses.
-* **B3 View**- My Actively Working accounts, clone - This view will need to be cloned to be customized to show “Actively Working” accounts where you are the BDR assigned.
+* **B1 View**- My BDR Assigned accounts, (clone) - This view will need to be cloned and customized to accounts where you are the BDR assigned. You'll need to know your territory name in order to populate. Once set up, it will allow the BDR to mass update the 'BDR Strategy' field and then the 'BDR Prospecting Status' field to show which ones they will be "Actively Working". You can also use this view to move leads into other statuses.
+* **B2 View**- My Actively Working accounts, clone - This view will need to be cloned and customized to show “Actively Working” accounts where you are the BDR assigned.
+* **B3 View**- My Actively Working accounts, clone - This view will need to be cloned and customized to show “Actively Working” accounts where you are the BDR assigned.
 * **B4 Biew**- >>B4 BDR Recycle Date Past due (Clone) - This view will need to be cloned to show AWA accounts where the Recycle Date is in the past two weeks. 
 * **B5 Biew**- >>>>B5 Mvd to "WorkedinFY" this wk (Clone) - This view will need to be cloned to show Worked in FY accounts with a recent Recycle Date.
 
