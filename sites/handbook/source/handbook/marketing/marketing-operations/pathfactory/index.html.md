@@ -255,8 +255,9 @@ Before creating a new content track, decide what type of content track (target v
 
 ### Create a Content Track
 
-1. When you're ready, select `Campaign Tools` in the top navigation bar and select the content track type you want to create (target or recommend).
-1. Click the `Create track` button in the top right.
+1. When you're ready, login to PathFactory SSO via Okta. 
+1. Go to `Content Activation` on the top navigation bar >>  Select `Standard Experiences` (formerly `Campaign Tools`) >> Select the content track type you want to create (`Target` or `Recommend`).
+1. Click the `Create track` button on the top right.
 1. Name your content track. Be descriptive about the topic or campaign that your track will be used for. If you're unsure, review the names of other content tracks to get an idea. The content track name is for internal use only and will not be shown to visitors. Each content track has to have a unique name. You cannot use duplicate names for content tracks.
 1. Choose to clone an existing content track, which will copy all assets from that content track into yours, or simply start from scratch.
 1. Choose the folder where your content track will live. Follow the current folder hierarchy for organization which is currently set up by team.
@@ -274,7 +275,7 @@ Before creating a new content track, decide what type of content track (target v
 1. Set the appearance for the track. 
 1. Set the language for the track.
 1. Leave `Links & Sharing` set to default.
-1. Leave `External ID` set to default.
+1. Leave `External Code` and `External ID 1` set to default (`None`).
 1. Turn on the `Cookie Consent` before providing the approved content track link for live use.
 
 #### Promoters
