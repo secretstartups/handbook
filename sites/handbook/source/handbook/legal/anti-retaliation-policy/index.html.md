@@ -119,3 +119,6 @@ This Policy is in addition to, and does not replace or supersede the anti-retali
 * [Protected Disclosures Policy](https://docs.google.com/document/d/1cIRHYLBCKJy2doHcpL4Yg-A4PWaw16IgjWLUCb34OyE/edit?usp=sharing)
 * [Anti-Harassment Policy](https://about.gitlab.com/handbook/anti-harassment/)
 
+## Current and Past Versions
+
+A PDF of the current version of the policy is available [here](https://drive.google.com/drive/folders/11P6OpKHk2Yspll6Wh7MhR25zSWpQzB51). If/when the policy is updated, PDFs of previous versions will be made available here for transparency.
