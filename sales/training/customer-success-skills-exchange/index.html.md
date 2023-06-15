@@ -31,7 +31,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 |--------|---------------------------------------------------|------------------------------------|  
 | 2023-05-10 | GitLab and GCP Partnership Overview | Regnard Raquedan | 
 | 2023-04-05 | GitLab Dedicated | Andrew Thomas and John Feeney| 
-| 2023-06-07 | TBD | TBD |
+| 2023-06-07 | DAST Best Practices | Mirko Brandner |
 | 2023-06-21 | How to sell Remote Development | Eric Schurter | 
 | 2023-07-05 | Google Suite Best Practices  | Lars Blockken |
 | 2023-07-19 | ModelOps Update | Taylor McCaslin | 
@@ -40,6 +40,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | Date   | Topic and Recording  | 
 | ------   | ------    |   
+| 2023-06-07 | [DAST Best Practices](https://youtu.be/1RuDoQPuDmU)
 | 2023-05-10 | [GitLab and GCP Partnership Overview](https://youtu.be/qTWgNsc3Ets) |
 | 2023-04-05 | [GitLab Dedicated](https://youtu.be/lHDsTjRTDLg) |  
 
