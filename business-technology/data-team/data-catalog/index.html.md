@@ -68,7 +68,7 @@ The analytics hubs provide links to the current SSOT dashboards for an area of b
 
 <summary><b>Data Guides</b></summary>
 
-- [Data Guide to UCID Analysis (internal only)](https://internal-handbook.gitlab.io/handbook/finance/definitive-guide-to-ucid-analysis/)
+- [Data Guide to Customer Master Prototype](/handbook/business-technology/data-team/data-catalog/customer-master/)
 - [Data Guide to Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
 - [Data Guide to Opportunity to Subscription Mapping](/handbook/business-technology/data-team/data-catalog/opportunity_subscription_mapping/)
 - [Data Guide to Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
