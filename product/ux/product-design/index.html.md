@@ -15,6 +15,28 @@ description: "We support the business of GitLab by becoming experts in our stage
 
 We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals. We partner closely with our stable counterparts in Product Management and Development. 
 
+## Principles
+
+### Process and DRI
+
+#### Owner of design jugdment
+
+As Product Designers, we are the **owners of design judgment**. 
+
+We start with a problem to solve and always first consider what the best experience for the user would be.
+
+If we get additional information about **constraints or context** from counterparts (e.g. technical considerations or a marketing advantage), we take that as input and evaluate together if and how we need to adapt our designs. When these constraints have influenced our design proposal, we **communicate proactively** about the fact that these constraints exist, how they changed the design, and what impact these changes will have on the user.
+
+If our counterparts have a **different opinion on what will serve the user best**, we evaluate if that's correct and how it will change our design, but we are empowered to make the final call on this question, as we are the owners of design judgment.
+
+#### Identifying UX needs to aid Product Management prioritization
+
+To support the Product Management team with their prioritization, we give them our input for UX needs. This could be both for quick wins, as well as for larger strategic initiatives.
+
+### Design
+
+Our [design principles](https://design.gitlab.com/get-started/principles) can be found with the Pajamas Design System. 
+
 ## Team Structure
 
 Each Product Designer is assigned to an area of our product, called Stage Groups. They learn everything they can about users and their workflows to design solutions for real customer problems.
@@ -65,10 +87,6 @@ Learning and Development
 * [UX Department Learning and Development](/handbook/product/ux/learning-and-development)
 
 Are you a new GitLab Product Designer? If so, welcome! Make sure you see the [Product Designer Workflow](/handbook/product/ux/product-designer/) handbook page that will help you get started.
-
-## Design Principles
-
-Our [design principles](https://design.gitlab.com/get-started/principles) can be found with the Pajamas Design System. 
 
 ## Beautifying our UI
 
