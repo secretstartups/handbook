@@ -250,17 +250,17 @@ Corrective Actions (CAs) are work items that we create as a result of an inciden
 
 Corrective Actions should be related to the incident issue to help with downstream analysis, and it can be helpful to refer to the incident in the description of the issue.
 
-Corrective Actions issues in the Infrastructure project should be created using the Corrective Action issue template to ensure consistency in format and labeling.
+Corrective Actions issues in the [Reliability project](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new) should be created using the [Corrective Action issue template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/blob/master/.gitlab/issue_templates/incident-corrective-action.md) to ensure consistency in format and labeling.
 
 ### Best practices and examples, when creating a Corrective Action issue:
 
 - Use [SMART](https://en.wikipedia.org/wiki/SMART_criteria) criteria: Specific, Measurable, Achievable, Relevant and Time-bounded.
 - Link to the incident they arose from.
 - Assign a Severity label designating the highest severity of related incidents.
-- Assign a priority label indicating the urgency of the work.
+- Assign a priority label indicating the [urgency](/engineering/infrastructure/team/reliability/issues.html#issue-priority) of the work. By default, this should match the incident Severity
 - Assign the label for the associated affected service if applicable.
-- Provide enough context so that any engineer in the CA issue's project could pick up the issue and know how to move forward with it.
-- Avoid creating CAs that:
+- Provide enough context so that any engineer in the Corrective Action issue's project could pick up the issue and know how to move forward with it.
+- Avoid creating Corrective Actions that:
     - Are too generic (most typical mistake, as opposed to Specific)
     - Only fix incident symptoms.
     - Introduce more human error.
