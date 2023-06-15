@@ -13,7 +13,23 @@ description: "The Plan UX team supports the Plan section to provide customers a 
 
 The Plan UX team supports [Product Planning](/handbook/product/categories/#product-planning-group), [Project Management](/handbook/product/categories/#project-management-group) and [Optimize](handbook/product/categories/#optimize-group). Product Planning and Project Management are focused on the work items architecture architecture effort. This page focuses mainly on the specifics of how we support this, since it requires alignment and cross-group collaboration.
 
+## How We Work
 
+Some UX specific processes we follow. All groups in Plan don't have to work exactly the same way, but standardizing opens up some efficiencies for us. When it's possible to standardize, we should.
+
+### UX issue management, weights and capacity planning
+- As a pilot starting in June 2023, Product Planning, Project Management and Optimize will consistently create issues for UX work and pre-pend the title with [UX]. Here is an example - https://gitlab.com/groups/gitlab-org/-/epics/10224#note_1337213171+
+    - UX issues are the SSOT for design goals, design drafts, design conversation and critique, and the chosen design direction that will be implemented. 
+    - Product requirement discussions should continue to happen in the main Issue or Epic as much as possible.
+    - When the Product Designer wants to indicate that the design is ready for ~"workflow::planning breakdown", they should apply this label to their issue, notify the PM and EM, and close the issue.
+- UX issues should have a weight before work is scheduled for a milestone. 
+    - Issue weights should follow the [UX Department's definitions](https://about.gitlab.com/handbook/product/ux/product-designer/#ux-issue-weights).
+    - The issue weight can be added to the `weight` field, but should be duplicated as a ~'design weight:" label. This is for UX Department planning purposes.
+    - Product Managers and Product Designers can use issue weights to ensure the milestone has the right amount of work, to discuss tradeoffs, or to initiate conversations about breaking work into smaller pieces for high-weight items.
+
+
+
+## Work Items
 When designing for objects that use the [work items architecture](https://docs.gitlab.com/ee/architecture/blueprints/work_items/) we will follow this process intending to ensure that we are providing value-rich experiences that meet users needs. The work items Architecture enables code efficiency and consistency, and the UX team supports the effort by identifying user needs and the places where those needs converge into similar workflows.
 
 ### About work items
