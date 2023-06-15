@@ -26,14 +26,14 @@ This page is meant to showcase the features by tier across GitLab's Product Hier
         <% groupLine << "GitLab Group: @#{group.gitlab_group}" if group&.gitlab_group %>
         <% groupLine << "[Handbook](/handbook/#{group.handbook})" if group&.handbook %>
         <% groupLine << "Product Management: #{team_links_from_group(group: group.pm_team_tag)}" if group.pm_team_tag %>
-        <% groupLine << "Product Manager".pluralize([*group.pm].count) + ": " + [*group.pm].map{ |pm| "[#{pm}]" }.join(", ") if group.pm %>
-        <% groupLine << "Product Marketing Manager: [#{group.pmm}]" if group.pmm %>
-        <% groupLine << "Staff Product Designer".pluralize([*group.spd].count) + ": " + [*group.spd].map{ |spd| "[#{spd}]" }.join(", ") if group.spd %>
-        <% groupLine << "Product Designer".pluralize([*group.ux].count) + ": " + [*group.ux].map{ |ux| "[#{ux}]" }.join(", ") if group.ux %>
-        <% groupLine << "Engineering Manager: [#{group.em}]" if group.em %>
-        <% groupLine << "Fullstack Managers: " + Array(group.fullstack_managers).map{ |fem| "[#{fem}]"}.join(", ") if group.fullstack_managers %>
-        <% groupLine << "Backend Engineering Manager: [#{group.backend_engineering_manager}]" if group.backend_engineering_manager %>
-        <% groupLine << "Frontend Engineering Manager: [#{group.frontend_engineering_manager}]" if group.frontend_engineering_manager %>
+        <% groupLine << display_users_group("Product Manager", group.pm) if group.pm %>
+        <% groupLine << display_users_group("Product Marketing Manager", group.pmm) if group.pmm %>
+        <% groupLine << display_users_group("Staff Product Designer", group.spd) if group.spd %>
+        <% groupLine << display_users_group("Product Designer", group.ux) if group.ux %>
+        <% groupLine << display_users_group("Engineering Manager", group.em) if group.em %>
+        <% groupLine << display_users_group("Fullstack Manager", group.fullstack_managers) if group.fullstack_managers %>
+        <% groupLine << display_users_group("Backend Engineering Manager", group.backend_engineering_manager) if group.backend_engineering_manager %>
+        <% groupLine << display_users_group("Frontend Engineering Manager", group.frontend_engineering_manager) if group.frontend_engineering_manager %>
 #### <%= "#{stage.display_name}:#{group.name}" %> Group
 <%= "#{groupLine.join(' \\| ')}" if groupLine %>
         <% if group.categories %>
