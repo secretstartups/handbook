@@ -219,6 +219,21 @@ For additional information on reviewing Background screenings see [this page](/h
 
 Prior to giving an offer, Recruiters are required to request references and other offer-related information by sending a form in the Reference Check stage. There are a few versions of this form available on every job based on the country where the candidate is located. When CES receives a form in the Service Desk, there are 3-4 fields to look at: NYC status, PIAA (Employee Invention Assignment Agreement), Outside Work disclosure, and TMRG requests. 
 
+**Japan Background Checks**
+
+Background Checks for hires in Japan will need to be conducted _before_ the offer is sent.
+
+Global Reference Check Forms will have a question for hires asking if they are located in Japan. If the candidate selects  "Yes", you will need to perform the following steps:
+
+1. CES service desk receives a ticket indicating that the candidate has submitted Reference Check Process Information-Global. CES will note that the candidate has selected "Yes" for the Japan location question. CES will label that ticket with the "Japan BGC" label.
+2. CES will [initiate the background](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/#initiating-a-background-screening-through-greenhouse) check in the candidates GH profile. 
+
+CES will then need to track the request to know when the Background check clears and we can move forward with sending the offer. Please follow the following steps:
+
+1. Set reminders to follow up to see if Background check has cleared and/or reach out to the Background Check specialist at GitLab to confirm.  You can set reminders in the candidates GH profile and/or due dates on your ticket in GitLab.
+2. Once confirmation of background check clearance is received, the offer can then be sent and the Reference Check form ticket can be closed. Normal [offer process](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#employment-agreements-for-gitlab-team-members-in-japan) will continue from there. 
+3. **Note**: If recruiter has already sent in the contract request ticket for the candidate, please add the "On Hold" label so that you do not send the offer until you have clearance of the background check
+
 **NYC Location**
 
 USA Reference Check forms only: 
