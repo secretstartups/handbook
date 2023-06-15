@@ -172,6 +172,34 @@ Calibration should be aligned to the following levels of leaders and people mana
 
 Note that calibration structure may vary by division and department depending on size/scope/etc.
 
+### Engineering Promotion Feedback Pilot
+
+In the Engineering Division, we are piloting a formal process for incorporating peer feedback into the promotion process for Engineers who are pursuing a promotion to an individual contributor role at a Staff level or higher as outlined in our [individual contributor job framework](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/career-development-resources/).
+
+We will incorporate feedback from 2-3 individuals who work directly, closely, and regularly with the team member. Feedback should be provided by team members who are currently at or above the level we are proposing to promote the team member into (I.E. If the team member is currently a `Senior Backend Engineer`, and we are proposing to promote them to `Staff Backend Engineer`, feedback should be solicited from `Staff Backend Engineer` level team members or higher). Feedback can be from team members within Engineering, or from stakeholders that work closely with the team member (these could be individuals within Engineering, or stable counterparts in other divisions, I.E. Product). Ideally, we would have a mix of both Engineering and cross-functional feedback for completeness and balance. 
+
+To ensure this feedback is provided in a structured and safe way, the manager will be responsible for collecting the feedback and compiling the themes to supplement the promotion document materials presented at the CTO level calibration. Once feedback is collected, a Google document summary should be shared with CTO Staff (I.E. CTO direct reports) via the `cto-leadership@gitlab.com` email alias, and the Engineering People Business Partners via the `pbp-r-and-d@gitlab.com` email alias to ensure appropriate access is in place ahead of CTO level calibration.
+
+#### Promotion Feedback Template
+
+Until Workday is enabled to collect feedback, managers will use the linked [template](https://docs.google.com/document/d/1SZwFzL64JWEYUM2SWr-eBgJCaSjaDEOaxOm6OckRsH8/edit#) to collect feedback. The template is structured in a Start/Stop/Continue format with question prompts that can help guide relevant inputs. 
+
+We encourage feedback providers to provide specific examples and actionable recommendations to ensure the feedback is meaningful and constructive. Please provide your feedback based on your firsthand interactions and observations of the team members' performance. Your input should be specific, constructive, and focused on their work. Consider their skills, abilities, behaviors, and areas for improvement.
+
+#### Promotion Feedback Pilot Timeline
+
+We have built in a few additional touchpoints into the company-wide [promotion calibration and processing timeline](https://about.gitlab.com/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline) to ensure enough time in the process for feedback sessions to take place.
+
+1. Week of 2023-06-26: Department level calibrations completed utilizing the promotion document
+2. *NEW* Promotion Feedback Obtained (can be obtained following departmental calibration): Managers and Team Members collaboratively select 2-3 team members to participate in the feedback collection process.  
+3. Manager requests participation in the promotion feedback process using [Promotion Feedback template](https://docs.google.com/document/d/1SZwFzL64JWEYUM2SWr-eBgJCaSjaDEOaxOm6OckRsH8/edit#)
+4. Managers review this content and can schedule follow up interviews to gain additional clarity and dig into any themes that have arisen if necessary. 
+5. Manager compiles a summary of written feedback along with any relevant interview notes that is presented at CTO calibration by their department leader in conjunction with the promotion document. 
+6. Week of 2023-07-10: CTO Calibration, Promotions Approved within Engineering and submitted for final company approval and processing
+7. Upon final approval of promotions: Manager will provide a consolidated summary of the themes collected in the promotion feedback process. The goal of this conversation is to aid in the ongoing growth of the team member and should be presented in a way that provides the team member with actionable insights for development. Unless specifically agreed upon with the team member who provided feedback, feedback should be presented thematically vs directly attributable. 
+8. Note: Managers should plan to discuss promotion feedback with all promotion candidates for whom feedback was solicited, not just those whose promotions were approved. If a promotion was not approved, the collective feedback from calibration and the promotion feedback process should inform a discussion about growth areas for the team member to focus on to be more ready for future promotion.
+
+
 
 ### Promotions to Senior Director+
 
