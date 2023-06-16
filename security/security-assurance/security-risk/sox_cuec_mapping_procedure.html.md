@@ -69,4 +69,4 @@ N/A
 
 * [GitLab SOX ITGC Compliance](https://about.gitlab.com/handbook/business-technology/it-compliance/ITGC.html)
 * [Third Party Risk Management](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html)
-* [CUEC Mapping Runbook](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/Runbooks/FY23%20SOC1%20CUEC%20Mapping%20Runbook.md)
+
