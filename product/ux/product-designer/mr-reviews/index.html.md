@@ -61,7 +61,14 @@ MR review requests are the [number one priority for Product Designers](/handbook
 
 Balancing MR reviews with other priorities is a challenge, as they can be unpredictable. To avoid disruptions and context-switching, we suggest you block some time every day to review MRs (for example, 30 minutes or 1 hour per day).
 
-If you're struggling with MR reviews, remember to [manage expectations with MR authors](/handbook/engineering/workflow/code-review/#managing-expectation) and let your manager know right away so they can help you. Before taking up a review, make an estimation of your capacity keeping in mind any upcoming time off. If you are unsure of completing the review before leaving for a time off, spin the roulette again to assign the review to a different designer.
+
+If you're struggling with MR reviews, remember to [manage expectations with MR authors](/handbook/engineering/workflow/code-review/#managing-expectation) and let your manager know right away so they can help you. 
+
+Before taking up a review, make an estimation of your capacity keeping in mind any upcoming time off. If you are unsure of completing the review before leaving for a time off, spin the roulette again to assign the review to a different designer and [set the appropriate GitLab or Slack status](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) to avoid Danger bot assigning you to more merge requests reviews. 
+
+Community contributions are not assigned for reviews through Danger Bot. Work with your manager to communicate and negotiate with the merge request author if your capacity is limited, or in case of upcoming time off.
+
+
 
 ## Reviewing
 
