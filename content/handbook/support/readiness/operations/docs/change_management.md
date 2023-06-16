@@ -4,11 +4,50 @@ description: Support Operations documentation page for change management
 canonical_path: "/handbook/support/readiness/operations/docs/change_management"
 ---
 
-This page is a work in progress. Check back soon for updates.
-
 ## Standard change management
 
-TBD
+With the standard change mangement process, we use automations to handle our
+deployments. This shifts the responsibilities you have when working a request
+that would utilize our standard change management process.
+
+Through the automation, all deployments are automatically done on the first of
+the month. This means when you create a request, you should determine if the
+workload required for the request can be done in a proper amount of time so that
+it is completed on the next deployment date. You should consider the time needed
+for development, testing, testing review, and the requester's indicated
+preferences in making your decision.
+
+Once you have decided on the decision, you will add the corresponding milestone
+to the issue (and subsequent MR) to indicate the deployment it belongs to. You
+should also ensure the deployment date the request will fall into is
+communicated to the requester.
+
+Once you are done working the request, you would simply merge the changes into
+the corresponding repository. The automation will handle it from there on the
+deployment date.
+
+#### Cutoff date
+
+The cutoff date for new requests to be added into the upcoming deployment is 5
+business days before the next deployment date. Our business days are Monday
+through Friday, so if the deployment day is on a Monday, this would mean the
+previous Monday is the cutoff date.
+
+Any request filed after the cutoff date will not be able to put into the
+upcoming deployment without approvals from both a Support Director and Readiness
+Director.
+
+#### Exceptions
+
+All exceptions to the standard change management process should be done by a
+Support Readiness, Operations Manager. This member of leadership will analyze
+the milestone and determine what impact the exception will cause. They will then
+explain what the impact of the exception would be, pinging all of the Support
+Directors. The Support Directors would discuss the exception and what impact it
+will have and come back with a decision.
+
+The Support Readiness, Operations Manager will then make the needed changes to
+issues/merge requests in the current milestone to accomodate the exception.
 
 #### Service level agreements information
 
@@ -38,6 +77,12 @@ customer facing ticket.
    made via both slack (#support_team-chat) and the SWIR.
 1. The Support Ops Manager will update relevant documentation with the change.
 1. The Support Ops Manager will update the original issue and close it out.
+
+#### Change Deployment Scripts
+
+Our standard change deployments are done via scripts running on ops.gitlab.net
+via pileine schedules. You can locate the source code
+[here](https://gitlab.com/gitlab-com/support/support-ops/support-ops-tools/change-deployment).
 
 ## Immediate deployments
 
