@@ -68,7 +68,7 @@ Instructions for new request intake and execution for following along with the f
 
 1. **New Request** only has ~CSOps label - The Workstream Lead (Gainsight, Scale, Digital, ROPS, etc.) will review requests on a weekly basis to assign, mark as Need more info, mark as won't do, transfer them to a different team, or defer to a later date
 1. **CSOps::Triage** - The Workstream Lead will move the issue here when after review and ready for prioritization
-1. **CSOps::Monitoring** - Apply this label for issues that have been transferred to another team ex: systems, SOPS, etc or when CSOps open an issue for completion by another team and would like to monitor progress on said issue to completion
+1. **CSOps::Monitoring** - Apply this label for issues that have been transferred to another team ex: systems, SOPS, etc or when CSOps opens an issue for completion by another team and would like to monitor progress on said issue to completion
 1. **CSOps::Need_More_Info** - Issue Assignee to apply label if additional information or clarity is needed from the business stakeholder
 1. **CSOps::Unassigned** - Workstream Lead to apply the label when we've agreed the work should be done, but lack prioritization and/or capacity
 1. **CSOps::In Process** - Issue Assignee is actively working the issue; if you are working an issue, it must have this label
@@ -82,7 +82,7 @@ Instructions for new request intake and execution for following along with the f
    1. Ensure the peer review process has been followed
    1. Communicate with stakeholders (in the issue, and possibly using other mediums such as Slack or a team call) as the last step, ensuring awareness and follow-through of the completion of the request
    1. Ensure the Workstream Lead is made aware, along with a summary of the work and any next steps
-   1. Issue Assignee to remove `CSOps::Completed` label
+   1. Issue Assignee to add the `CSOps::Completed` label
    1. Close the issue!
 
 ## CS Ops Board, Groups, Projects, and Labels
