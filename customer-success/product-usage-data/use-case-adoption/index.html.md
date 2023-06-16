@@ -138,8 +138,8 @@ Adoption timeline: 1 months after license purchase
 Due to equal weighting and Gainsight's defined scoring ranges, two (2) of the three measure groups have to be Green and one (1) measure group can be Yellow/Green for an overall Green CD score
 
 ## Limitations
-1. DevSecOps health scores are currently user based. However, that is an inadequate method to measure value adopted as some customers allow everyone to run scans and some hold those to a small portion of users. The future plan is to look to event based metrics, such as the number of scans and other features (see [epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/253))
-   1. **Resolution**: The DevSecOps health score is [being refactored](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/253) to align to a better proxy 
+1. Security (DevSecOps) health scores are currently user based. However, that is an inadequate method to measure value adopted as some customers allow everyone to run scans and some hold those to a small portion of users. The future plan is to look to event based metrics, such as the number of scans and other features (see [epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/253))
+   1. **Resolution**: The Security (DevSecOps) health score is [being refactored](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/253) to align to a better proxy 
 1. Usage is measured at the instance level, which is attached to a subscription, attached to an account. So a "Account" health score is a view of a single instance (the most important one) but, for more complex accounts, that can hide the health of other instances and subscriptions (see [graph](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#csmcse-actions)) that shows how a single account can have multiple subscriptions and each subscription could have multiple instances (self-managed only). Process for dealing with [multiple production instances](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#multiple-production-instances-health-scoring)
    1. **Resolution**: The ideal outcome is to "split" subscriptions apart into relevant child accounts, which is being [discussed here](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3032)
 1. `Billable Users` was a metric introduced in 14.0. Any customers on an older (self-managed) instance will not have this value and License Utilization will appear as NULL (note: this is a non-issue for SaaS customers)
@@ -166,11 +166,11 @@ Use this chart to understand how many use cases each of your customers have adop
 <summary> Gainsight calculation rules
 </summary>
 
-##### Calculation of use case adoption counts for SCM, CI, CD and DevSecOps
+##### Calculation of use case adoption counts for SCM, CI, CD and Security (DevSecOps)
 
-Gainsight Rules mark boolean fields as true on `Company` object for accounts with green scores. These boolean fields are named SCM Adoption, CI Adoption, CD Adoption and DevSecOps Adoption. 
+Gainsight Rules mark boolean fields as true on `Company` object for accounts with green scores. These boolean fields are named SCM Adoption, CI Adoption, CD Adoption and Security (DevSecOps) Adoption. 
 
-Once marked, the number of “true” booleans for each account are summed. If an account has a green SCM, CI, CD and DevSecOps, this would be a 4 score. If none of the use cases are green, this would be 0 and if all of the use case scores are N/A, this would be NULL to mean no usage stats have been recorded.
+Once marked, the number of “true” booleans for each account are summed. If an account has a green SCM, CI, CD and Security (DevSecOps), this would be a 4 score. If none of the use cases are green, this would be 0 and if all of the use case scores are N/A, this would be NULL to mean no usage stats have been recorded.
 </details>
 
 ## Product Health Score Drop CTA
@@ -186,7 +186,7 @@ The CSM may also be able to spot trends of where customers may have lagging usag
 This logic applies to the following Scores:
 - CI Adoption
 - CD Adoption
-- DevSecOps Adoption
+- Security (DevSecOps) Adoption
 - License Utilization
 - SCM Adoption
 - User Engagement 

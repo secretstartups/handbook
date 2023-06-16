@@ -25,7 +25,7 @@ By looking at the Adoption scores, the CSM will gain an understanding of the cus
   <summary markdown="span"> Building Adoption Scores </summary>
 
 ### Metrics Availability & Evaluation
-The first step in the process of building a Use Case adoption score starts with identifying active metrics that can gauge a customer’s level of performance and adoption for a given use case. To capture the breadth of use case adoption, there should be a minimum of 3 and ideally 5-7 metrics to be able to provide a comprehensive score. Product Management and Customer Success teams play a big role in identifying use case specific metrics. Product Marketing works with Product Managers to identify Adoption Recommendations for each use case which can be viewed on the the respective Use Case Resource Pages. After identifying a sufficient list of metrics, we move on to identifying the denominator to normalize the metric (i.e. `Git Operations - User L28D` / by `Licensed Users` = `Git Operation Utilization %`). 
+The first step in the process of building a Use Case adoption score starts with identifying active metrics that can gauge a customer’s level of performance and adoption for a given use case. To capture the breadth of use case adoption, there should be a minimum of 3 and ideally 5-7 metrics to be able to provide a comprehensive score. Product Management and Customer Success teams play a big role in identifying use case specific metrics. Product Marketing works with Product Managers to identify Adoption Recommendations for each use case which can be viewed on the the respective Use Case Resource Pages. After identifying a sufficient list of metrics, we move on to identifying the denominator to normalize the metric (i.e. `Git Operations - User L28D` / by `Billable Users` = `Git Operation Utilization %`). 
 
 <details>
   <summary markdown="span"> Use Case Resource Pages </summary>
@@ -35,7 +35,7 @@ The first step in the process of building a Use Case adoption score starts with 
   <br>
   - [CD](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#adoption-recommendation)
   <br>
-  - [DevSecOps](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)
+  - [Security (DevSecOps)](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)
   <br>
   - [Compliance](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/compliance/)
   <br>
@@ -53,7 +53,7 @@ The threshold percentages are chosen by looking at how many customers fall into 
 This is an important part of validating the selected metrics, thresholds, weighting, and data integrity. The process entails calculating the score for at least 15-20 real accounts, specifically where we have a good understanding of their adoption of the given use case, which we can then share with the CSMs to confirm the resulting score. 
 <br>
 ### Operationalize in Gainsight
-Use Case Adoption metrics currently live in Gainsight, which is planned to change in the future as Gitlab continues to evaluate new BI tools, but for now, we currently calculate the Adoption score using the Adoption Use Case usage reports in Gainsight. This report contains normalized metrics (i.e. `CI Pipelines - L28D` / `Licensed Users` = `CI Pipelines Utilization %`) which are currently calculated using Gainsight Rules Engine. 
+Use Case Adoption metrics currently live in Gainsight, which is planned to change in the future as Gitlab continues to evaluate new BI tools, but for now, we currently calculate the Adoption score using the Adoption Use Case usage reports in Gainsight. This report contains normalized metrics (i.e. `CI Pipelines - L28D` / `Billable Users` = `CI Pipelines Utilization %`) which are currently calculated using Gainsight Rules Engine. 
 <br>
 ### Enablement
 The last piece is enabling CSMs to be able to calculate the score, formulate the customer-facing slide deck and be able to present the score in detail. This requires cross-functional partnership between CSMs, CSM Managers, Enablement and CSOps, where a CSM will usually lead the enablement sessions with a mock presentation, while CSOps handle Q&A and any follow-ups that may come out of those enablement sessions. 
@@ -103,8 +103,8 @@ In this (internal) video a fellow CSM walks you through:
     - [Value Statements for CI Adoption](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/delivery-automation/#customer-adoption-and-value)
 
 
-### DevSecOps adoption scoring
-The following metrics are used to determine a customer's DevSecOps Adoption Score:
+### Security (DevSecOps) Adoption Scoring
+The following metrics are used to determine a customer's Security Adoption Score:
 <br>
 ![DevSecOps Adoption Scoring](https://lucid.app/publicSegments/view/ab7a9ef5-d69c-47ff-9dc0-defe3e8f8610/image.png)
 <br>
@@ -117,12 +117,12 @@ The following metrics are used to determine a customer's DevSecOps Adoption Scor
 - [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1JdRlS5G9iB0XMMWktYxYBDCnhVs2Ti-I6jBW0q61YZk/edit?usp=sharing) (internal only)
    - In order to generate the slide - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
         - Instructions on using the sheet can be found in this Artifact Generator How to [internal video](https://youtu.be/pLp2Y0oZuc0)
-- Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's DevSecOps Metrics to export and calculate the Adoption score
+- Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's Security (DevSecOps) Metrics to export and calculate the Adoption score
 - [Value Statements](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#the-gitlab-solution)
 - Additional CSM Enablement - [Session 1](https://youtu.be/VXtiPVrOzS4) (internal only).  [Session 2](https://youtu.be/xwj-vHMYcUE) (internal only)
 
 ### CD Adoption Scoring
-The following metrics are used to determine a customer's DevSecOps Adoption Score:
+The following metrics are used to determine a customer's Security Adoption Score:
 <br>
 ![CD Adoption Scoring](https://lucid.app/publicSegments/view/52a3c35f-a4c0-4632-ab89-258a02d78042/image.jpeg)
 <br>
@@ -148,5 +148,9 @@ In this (internal) [enablement session](https://youtu.be/MQkIlvlsBUA), CSOps & a
         - Instructions on using the sheet can be found in this [internal video](https://youtu.be/oWuX_jtLnLI)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's CI Metrics to export and calculate the Adoption score
 
+### SCM Adoption Scoring
+# WIP - Target Launch Date: 2023-07-31
+
+<br>
 
 ##### **Disclaimer:**  The scoring criterias & thresholds will continue to evolve as we iterate
