@@ -522,6 +522,18 @@ On this page, you can search by `Company`, `Subscription name`, or `Hostname` to
 1. `Max historical user count` - the highest value of billable users recorded during the current subscription term
 1. `GitLab version` - the version of GitLab at time the customer is on at time of sync
 
+### Orders
+
+1. Navigate to the `Orders` section.
+1. Search for the order using the search box. You can use the following parameter for your search:
+   - Order ID
+   - Billing account
+   - Subscription name
+   - Gl namespace
+   - Gl namespace name
+1. Click on the ℹ️ icon on the right to show all details of an order.
+1. Click on the 📕 icon on the right to see the history of an order.
+
 ### Reconciliations
 
 1. Navigate to the `Reconciliations` section.
