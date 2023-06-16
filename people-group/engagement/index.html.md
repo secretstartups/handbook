@@ -98,8 +98,8 @@ The survey factors for FY24 were as follows with each section including three to
 - 2023-05-16: Engagement Survey launch
 - 2023-06-07: Engagement Survey close
 - 2023-06-16: Results shared with e-group
-- 2023-06-21: Managers with 5+ responses receive reports via Culture Amp
-- 2023-06-21 through 2022-07-04: Leaders/Managers review their reports and discuss/brainstorm action plans in Staff/team meetings
+- 2023-06-23: Managers with 5+ responses receive reports via Culture Amp
+- 2023-06-23 through 2022-07-04: Leaders/Managers review their reports and discuss/brainstorm action plans in Staff/team meetings
 - 2023-06-28 and 2023-06-29: Target date for results shared company-wide
 - 2023-07-30: Finalize Action items and document in epics/issues
 - 2023-08-01: Functional action plans added to FY'23 Q3 OKRs and Division epics
