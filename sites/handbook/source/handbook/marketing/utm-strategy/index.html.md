@@ -66,15 +66,45 @@ Below are some rules (per [PMG advice](https://gitlab.com/gitlab-com/marketing/d
 {: #utm-medium}
 <!-- DO NOT CHANGE ANCHOR -->
 
-**Campaign Medium** The medium is the overarching channel bucket like `paidsearch`, `social`, or `sponsorship`. It answers the question of "how did they come to us?". `utm_source` will further categorize the overarching channel. 
+**Campaign Medium** The medium is the overarching channel bucket that answers the question of "how did they come to us?". How is it being promoted? `utm_source` will further categorize the overarching channel. 
 
-You can choose a campaign medium from a provided picklist of values in the URL Builder spreadsheet. If you need a new campaign medium, please check with the Digital Marketing Programs team as new mediums will not automatically be attributed correctly.
+You can choose a campaign medium from a provided picklist of values in the [URL Builder spreadsheet](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=2043976569). If you need a new campaign medium, please check with the Digital Marketing Programs team as new mediums will not automatically be attributed correctly.
+
+Current available options for `utm_medium` are as follows: 
+* `email` = all email systems such as marketo, outreach, mailjet, highspot, etc.
+* `cpc` = Paid Search
+* `display` = Display ads
+* `paidsocial` = Paid Social
+* `social` = Organic Social
+* `sponsorship` = Paid publishers engagements/sponsorships (used with PMG and built into their reporting)
+* `chat`
+* `search` [no utm because automatically captured]
+
 
 #### utm_source
 {: #utm-source}
 <!-- DO NOT CHANGE ANCHOR -->
 
-**Campaign Source** The source-based URL parameter can tell you which website is sending the traffic. The source is a further "slicing" of overall channels. It answers the question of "how did they come to us?" but with more granular details than utm_medium. Examples include `demandbase`, `twitter`, or `marketo`.
+**Campaign Source** The source-based URL parameter can tell you which website is sending the traffic. The source is a further "slicing" of overall channels. It answers the question of "how did they come to us?" but with more granular details than utm_medium. Where is this being promoted? 
+
+Current available options for `utm_source` are as follows: 
+* `adwords` (cpc)
+* `bing` (cpc)
+* `yahoo` (cpc)
+* `doubeclick`
+* `demandbase` (display)
+* `google` (search, cpc, display)
+* `stack-overflow`
+* `linkedin` (social, paid social)
+* `twitter`  (social, paid social)
+* `facebook` (social, paid social)
+* `marketo` (email)
+* `mailjet` (email)
+* `outreach` (email)
+* `highspot` (email)
+* `gmail`
+* `drift`
+* `partner`
 
 Values for `utm_source` are available as an open picklist in the UTM builder googlesheet. Please be consistent when adding new values to the [list](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=3), keeping the best practice of no characters and all lower case.
 
@@ -84,7 +114,13 @@ Values for `utm_source` are available as an open picklist in the UTM builder goo
 
 These are the UTMs (**utm_campaign**) to align to the anchor campaigns (both GTM and sub-campaigns within GTMs). They must be followed as below in order to display in the Demand Gen Dashboard.
 
-Using proper `utm_campaign` values below will minimize number of manual updates required for the DG Dashboard.
+Using correct `utm_campaign` values below will minimize number of manual updates required for the Sisense Dashboards.
+
+* seccomp = Security & Compliance
+* devsecopsplat = DevSecOps Platform
+* autosd = Automated Software Delivery 
+
+Legacy `utm_campaign` values (for refference only):
 
 #### Current GTM UTMs 
 {: #current-gtm-utms}
@@ -100,7 +136,7 @@ Using proper `utm_campaign` values below will minimize number of manual updates 
 * competegh = OctoCat Competitive
 * cdusecase = CD Campaign
 
-RULE: all utm_campaign must start with one of the overarching campaigns (devopsgtm, singleappci, iacgitops, etc.)
+RULE: all utm_campaign must start with one of the overarching campaigns (seccomp, devsecopsplat, etc.)
 
 #### utm_content
 {: #utm-content}
@@ -130,6 +166,20 @@ Values (available as picklist in the UTM builder googlesheet):
 * ptnr = Partner Marketing
 * chnl = Channel Marketing
 * cmp = Marketing Campaigns
+
+#### utm_asset_type
+{: #utm-asset-type}
+<!-- DO NOT CHANGE ANCHOR -->
+
+**Campaign Asset Type** (`utm_asset_type`) help us understand how different asset types performed in the GTMs and overall for Marketing. 
+
+Values (available as picklist in the UTM builder googlesheet):
+* ebook = Gated ebooks
+* whitepaper = Whitepapers
+* blog = Blog posts
+* video = Video content
+* briefs = Solutions Briefs
+* infogr = Infographic
 
 #### utm_allptnr
 {: #utm-allptnr}
