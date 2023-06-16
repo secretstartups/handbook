@@ -41,7 +41,6 @@ The Talent Brand Program Manager is a [grade 6](https://about.gitlab.com/handboo
 - Self-motivated with the ability to work both independently and collaboratively
 - Proficient in Google Docs
 - You share our [values](/handbook/values/), and work in accordance with those values
-- Ability to learn to use GitLab
 
 
 ### Senior Talent Brand Program Manager
