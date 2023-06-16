@@ -57,7 +57,7 @@ Customer Success Operations provides support, content, and data analysis for all
 
 ## CS Ops Request Process
 
-![CS Ops Issue Flowchart](https://lucid.app/publicSegments/view/d1fded0a-7969-46d4-b300-0603d802e6e4/image.png "CS Ops Issue Flowchart")
+![CS Ops Issue Flowchart](https://lucid.app/publicSegments/view/38bb1bd5-aeb1-4d7d-93cc-94b5e8788f12/image.png "CS Ops Issue Flowchart")
 
 ### Process Flow
 
@@ -68,6 +68,7 @@ Instructions for new request intake and execution for following along with the f
 
 1. **New Request** only has ~CSOps label - The Workstream Lead (Gainsight, Scale, Digital, ROPS, etc.) will review requests on a weekly basis to assign, mark as Need more info, mark as won't do, transfer them to a different team, or defer to a later date
 1. **CSOps::Triage** - The Workstream Lead will move the issue here when after review and ready for prioritization
+1. **CSOps::Monitoring** - Apply this label for issues that have been transferred to another team ex: systems, SOPS, etc or when CSOps open an issue for completion by another team and would like to monitor progress on said issue to completion
 1. **CSOps::Need_More_Info** - Issue Assignee to apply label if additional information or clarity is needed from the business stakeholder
 1. **CSOps::Unassigned** - Workstream Lead to apply the label when we've agreed the work should be done, but lack prioritization and/or capacity
 1. **CSOps::In Process** - Issue Assignee is actively working the issue; if you are working an issue, it must have this label
@@ -81,7 +82,7 @@ Instructions for new request intake and execution for following along with the f
    1. Ensure the peer review process has been followed
    1. Communicate with stakeholders (in the issue, and possibly using other mediums such as Slack or a team call) as the last step, ensuring awareness and follow-through of the completion of the request
    1. Ensure the Workstream Lead is made aware, along with a summary of the work and any next steps
-   1. Issue Assignee to remove `CSOps::In Process` label
+   1. Issue Assignee to remove `CSOps::Completed` label
    1. Close the issue!
 
 ## CS Ops Board, Groups, Projects, and Labels
@@ -118,41 +119,42 @@ Anything that takes longer than a day of work should be captured in an epic/mult
 Labels to use when creating new issues or MRs for CS Ops:
 
 **Team Specific or System Labels**
-- **CSOps** - Use to track and manage all CS Operations-related issues and MRs.
-- **CS Programs** - For the Digital Programs team to track and manage content requests, improvements, and other means of digital customer marketing.
-- **CS Product Usage Reporting** - Issues related to Customer Success product usage data.
-- **CS Analytics** - Used to track Customer Success Analytics issues.
-- **CS RenewalOps** - Label to designate issues for the Renewal Ops team to improve our customer renewal process and experience.
-- **CS Ops Technical Writing** - Assigned to the CS Ops technical writers for review or creation of copy.
-- **Gainsight**- Label to designate the issue is related to Gainsight. 
-- **Gainsight: Bug**- This label is used to track bugs exclusive to Gainsight.
-- **Gainsight: Feature Request** - This label is used to track feature requests for our installation of Gainsight (not for Gainsight the product).
+- **CSOps** - Use to track and manage all CS Operations-related issues and MRs
+- **CS Programs** - For the Digital Programs team to track and manage content requests, improvements, and other means of digital customer marketing
+- **CS Product Usage Reporting** - Issues related to Customer Success product usage data
+- **CS Analytics** - Used to track Customer Success Analytics issues
+- **CS RenewalOps** - Label to designate issues for the Renewal Ops team to improve our customer renewal process and experience
+- **CS Ops Technical Writing** - Assigned to the CS Ops technical writers for review or creation of copy
+- **Gainsight**- Label to designate the issue is related to Gainsight.
+- **Gainsight: Bug**- This label is used to track bugs exclusive to Gainsight
+- **Gainsight: Feature Request** - This label is used to track feature requests for our installation of Gainsight (not for Gainsight the product)
 
 **Scoped Labels** - used for tracking SDLC progress
-- **CSOps::Need_More_Info** - Requires additional information from the requester, or lacks information to complete the request.
-- **CSOps::Triage**- Issue that is in the triage stage.
-- **CSOps::Ready_for_Assignment** - Ready to be assigned and prioritized by CS Ops.
-- **CSOps::Awaiting Feedback**  - Used for peer review and when analysis is needed before closing the issue.
-- **CSOps::In_Process** - Actively being worked on in the current week or milestone.
-- **CSOps::Blocked** - Currently blocked by an internal or external prerequisite.
-- **CSOps::Backlog** - Issues that are not currently being evaluated or worked on.
-- **CSOps - Interrupt** - Issue that was submitted after the current milestone started and prioritized ahead of the original milestone scope.
-- **CSOps::Triage**- Issue that is in the triage stage.
-- **CSOps::Won’t Do** - Indicates that the issue is not going to be worked/completed, although scoping of solution might have already been concluded.
+- **CSOps::Need_More_Info** - Requires additional information from the requester, or lacks information to complete the request
+- **CSOps::Triage** - Issue that is in the triage stage
+- **CSOps::Ready_for_Assignment** - Ready to be assigned and prioritized by CS Ops
+- **CSOps::Awaiting Feedback** - Used for peer review and when analysis is needed before closing the issue
+- **CSOps::In_Process** - Actively being worked on in the current week or milestone
+- **CSOps::Blocked** - Currently blocked by an internal or external prerequisite
+- **CSOps::Backlog** - Issues that are not currently being evaluated or worked on
+- **CSOps - Interrupt** - Issue that was submitted after the current milestone started and prioritized ahead of the original milestone scope
+- **CSOps::Triage**- Issue that is in the triage stage
+- **CSOps::Won’t Do** - Indicates that the issue is not going to be worked/completed, although scoping of solution might have already been concluded
+- **CSOPs::Completed** - Used to show that the work associated with the issue has been delivered/completed and the issue is being closed 
 
 **Segment and Team Support Labels** - for tracking where the request(s) came from
-- **CSOps - CSM- Ops** - Request opened by the CS Ops team that benefits the CSM team.
-- **CSOps - CSM** - Request originating from the CSM team.
-- **CSOps - PS** - Request originating from, or to benefit the PS team.
-- **CSOps - SA** - Request originating from, or to benefit the SA team.
-- **CSOps - Ops** - Request to benefit the CSOps team.
-- **CSOps - PubSec** - Requests that are specific to the Pub Sec CSM Team.
-- **CSOps - Strategic** - Requests that are specific to the Strategic CSM Team. 
-- **CSOps - Scale** - Requests the are for the Scale Segment. 
-- **CSOps - All Segments** - Request that cover all CS Segments. 
-- **CSOps - Growth** -  Requests that are specific to the Growth CSM Team. 
+- **CSOps - CSM- Ops** - Request opened by the CS Ops team that benefits the CSM team
+- **CSOps - CSM** - Request originating from the CSM team
+- **CSOps - PS** - Request originating from, or to benefit the PS team
+- **CSOps - SA** - Request originating from, or to benefit the SA team
+- **CSOps - Ops** - Request to benefit the CSOps team
+- **CSOps - PubSec** - Requests that are specific to the Pub Sec CSM Team
+- **CSOps - Strategic** - Requests that are specific to the Strategic CSM Team
+- **CSOps - Scale** - Requests the are for the Scale Segment
+- **CSOps - All Segments** - Request that cover all CS Segments
+- **CSOps - Growth** -  Requests that are specific to the Growth CSM Team
 - **CSOpsSlack-Questions** - Indicates that the request/issue came in via Slack (#gainsight-users Slack channel being the largest contributor to it)
-- **CSOPs-Priority** - This is for initiative/issues tied to Top Priority Initiatives.
+- **CSOPs-Priority** - This is for initiative/issues tied to Top Priority Initiatives
 
 ## Peer Review
 The peer review process (currently for issues related to Gainsight) allows CS Ops team members to have another member of the team review their work.
