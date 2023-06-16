@@ -31,7 +31,7 @@ The GitLab Administration Working Group will determine the work needed to mainta
 
 The maintenance and enhancement of GitLab Administration functions has been a shared responsibility among Development groups. This often triggers the same questions about shared responsibilities - who owns this and who should work on this. Before a development owning group can be identified, a working group will help us to maintain the related functions to run GitLab (the software) smoothly.
 
-### Exit Criteria 
+### Exit Criteria
 
 1. Owners of the items in the Admin Area of GitLab are identified, acknowledged, and documented in the handbook.
 2. Owners of things related to instance management (upgrade, backup and restore, metrics, performance) and configuration are identified, acknowledged, and documented in the handbook.
@@ -44,7 +44,6 @@ The maintenance and enhancement of GitLab Administration functions has been a sh
 |------------------------------------------|----------------------------------|----------------------------------------------------------------|
 | Executive Stakeholder                    | Christopher Lefelhocz (@clefelhocz1)           | VP of Development |
 | Facilitator/DRI                          | Peter Lu (@plu8)                 | Engineering Manager, Distribution:Deploy |
-| Facilitator/DRI                          | Sean Carroll (@sean_carroll)     | Engineering Manager, Create::Source Code |
 | Product Management DRI                   | Dilan Orrino (@dorrino )         | Product Manager Distribution |
 | Member                                   | Gosia Ksionek (@mksionek)        | Backend Engineer, Manage::Authentication & Authorization       |
 | Member                                   | Christina Lohr (@lohrc)        |  Senior Product Manager, Data Stores::Tenant Scale               |
@@ -54,3 +53,4 @@ The maintenance and enhancement of GitLab Administration functions has been a sh
 | Member                                   | Falko Sieverding (@fsieverding)  | Customer Success Manager, EMEA |
 | Member                                   | Shawn Sichak (@ssichak)  | Senior Security Engineer, Trust and Safety |
 | Member                                   | Manuel Kraft (@manuel.kraft)  | Customer Success Manager, EMEA |
+| Member                                   | Sean Carroll (@sean_carroll) | Engineering Manager, Create::Source Code |
