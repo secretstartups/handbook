@@ -62,6 +62,22 @@ Renewal Operations supports the Renewals, Success and Sales Teams: Directors & A
 
 **Sales Operations** supports Renewal Operations by maintaining our systems that process the renewals and opportunity management. As we progress, it can also improve risk management and forecasting. 
 
+## Renewal Operations Process Cadences
+
+### Weekly
+- Renewal Forecast Template Update
+- [Forecast Data Quality Review](https://docs.google.com/document/d/1P-2VJnWXHsZeeaujoPRVhsP9Gc0gv2kLLwUmtuxjOjU/edit#heading=h.22dzztfqglrf)
+- Loss/Downgrade Reason Review
+- [Renewal Opportunity - Customer Subscription Reconciliation](https://docs.google.com/document/d/1YKbaIdwqkKv2DGTKLilGGMPbrepbxZxQRrqq0s25g9c/edit#heading=h.22dzztfqglrf)
+
+### Monthly
+- [Top Churn & Contraction Opportunity Review](https://docs.google.com/spreadsheets/d/1UVfCFsBztoReg-Caq87Kt8VqtPZhxlwzai5_9fn6pbg/edit#gid=0)
+- Debook-Rebook Renewal Reconciliation 
+- SMB Churn & Contraction Readout
+- MM Churn & Contraction Readout
+- Customer Success Forum 
+
+
 ## Renewal Operations Projects
 
 Renewal Operations uses issues and issue boards to track our projects and tasks. If your expertise can assist in any of our projects or if you simply want to share an idea you believe could assist the Renewals process, please open an issue and add the ~CS RenewalOps label anywhere within the GitLab repo.
