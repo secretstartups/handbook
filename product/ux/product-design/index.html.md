@@ -177,3 +177,34 @@ The UX Paper Cuts team is a small team responsible for identifying and fixing sm
 The UX Paper Cuts team continuously improves the user experience by creating merge requests to address these small issues. By focusing on small details, the team helps create a more polished and user-friendly interface, leading to increased user satisfaction, engagement, and, ultimately, a more successful product. 
 
 You can find changes made by the UX Paper Cuts by following along in the [GitLab Polish Gallery](https://nicolasdular.gitlab.io/gitlab-polish-gallery/), the internal Slack channel `#ux_paper_cuts_mrs`, or by searching the GitLab label [UX Paper Cuts](https://gitlab.com/dashboard/merge_requests?scope=all&state=all&label_name[]=UX%20Paper%20Cuts). 
+
+### UX Paper Cuts team workflow
+
+#### General workflow
+One of our goals is to deliver changes as efficiently as possible. With that in mind:
+- Try to review ~"UX Paper Cuts" MRs assigned to you as soon as you can
+- Keep your merge requests small and focused
+  - If you have a larger initiative in mind, plan on breaking it into smaller MRs
+  - Cross-link each MR if they're related
+
+#### Milestone theme work
+Each milestone we focus on a specific area of the product (previous milestone themes include Merge request UI, AI feature polish, and labels & lists). Focusing on smaller areas like this maximizes the impact of our changes. Each milestone planning issue will include a list of ideas and issues we think we can work on.
+- Look at list in description; if you see one you'd like to work on, assign yourself
+- In your merge request:
+  - Link MR back to the issue
+  - Add labels ~"group::ux paper cuts" ~"UX Paper Cuts" ~frontend ~UX ~"type::maintenance" ~"maintenance::usability" ~"section::dev" ~"SUS::Impacting" ~"severity::4" (adjust to use correct number)
+- Assign a paper cuts designer to review ~"UX"
+- Use reviewer roulette for developer reviews
+
+#### Other fixes
+- If you want to fix something that's _not_ on the list, feel free! Just link the MR back to milestone planning issue
+- Look at Slack channel #is-this-known for recent bugs
+
+#### Useful links & tips
+- [Open UX Paper Cuts MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name%5B%5D=UX%20Paper%20Cuts) 
+- All available [utility classes](https://unpkg.com/browse/@gitlab/ui@64.10.1/src/scss/utilities.scss)
+- You can speed up your workflow a bit by creating [comment templates](https://docs.gitlab.com/ee/user/profile/comment_templates.html) for commonly used actions, like assigning a reviewer or approving an MR  (for example, you could create an "Approve" comment template including the `/approve`, `/remove_reviewer`, and `/unsubscribe` quick actions)
+
+#### For help
+- Try pinging the developers on your MR suggested by reviewer roulette
+- People are super helpful in Slack channels #g_manage_foundations and #gitlab-ui
