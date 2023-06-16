@@ -44,6 +44,8 @@ to run GitLab QA locally for development.
 #### Investigate QA failures
 
 1. Search for the failure in open [Pipeline Triage issue](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues) or search for the spec name in [the main GitLab project](https://gitlab.com/gitlab-org/gitlab/-/issues/?scope=all&search=qa%20failure&state=opened&utf8=%E2%9C%93)
+    - If Allure report is available: Click on report link -> Product defects -> Select failed spec -> click Failure issues. [Demo](https://youtu.be/_0dM6KLdCpw?t=234)
+    - Some specs might have multiple QA failure issues with different stack trace. In such case, compare failed stack trace from the job with the ones listed in the issues.
 1. If an issue with the same error is not found
     - Continue to debug the QA failure [following the guide](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#investigate-the-root-cause)
     - Reach out to the Quality Engineering team - [on-call DRI](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/oncall-rotation/#schedule) or [Distribution SET](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/enablement-saas-platforms-qe-team/#team-members)
