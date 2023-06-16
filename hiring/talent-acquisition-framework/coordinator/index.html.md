@@ -342,7 +342,21 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
    1. Should the start date change after the welcome email is sent please see the required steps [here](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
    1. Exception to the start date and onboarding date alignment: If a new team member requires a specific start date for legal reasons (cannot have break in employment) but onboarding on that specific day is restricted (because of Public Holiday, Family & Friends Day, etc.), the Candidate Experience Specialist can notify the People Connect Team in the private Slack channel `people-connect_ces`. The Contract, Greenhouse and Workday should reflect the same start date regardless of the actual onboarding date.  
 
-It is **important** that the Candidate Experience Specialist notifies the People Connect Team of any important changes regarding the new team member, which also ensures the new team members are handed off properly to the People Connect Team.
+The last part of the Candidate Experience Specialist's responsibilities with a candidate is to hire them into the system and pass them on to People Connect. The hire-in process includes more complexities, so CES created the following guidelines to clarify start date exceptions and confidentiality around new hires.
+
+**SETTING GREENHOUSE REMINDERS** - CES should utilize reminders in Greenhouse at least 12 days before the start date and maintain consistent communication with the recruiters to ensure the candidates in the requisition are cleared completely. CES can make use of the "Need to hire into Workday" label and set due dates in the GitLab issue to track as well. 
+
+The People Connect team has an SLA period of 10 working days to onboard an entity-based team member. In the event of an exception, the minimum notice required for the People Connect team is 5 working days.
+
+**PROACTIVE COMMUNICATION**- CES should promptly notify in the #peopleconnect-ces slack channel when the CES experiences a delay/ issues with the PEO contract generated. In case of any start date issues, the responsible CES must keep the People Connect team updated about the changes. The People Connect team requires a minimum of 10 working days to onboard a new team member from a PEO successfully. While generating the PEO contract, please ensure the PEO payroll cut off date is also factored in. Most recruiters are aware of these dates.
+
+**NEW HIRE EXCEPTIONS** - For any confidential hires that necessitate a public announcement, please inform Alissa Meeks or Melody Patel about the specific scenario. Additionally, loop them in any communication related to the role to keep them in the loop. This will also be considered as an exception.
+
+**VERIFYING GLOBAL HOLIDAYS** - CES should verify whether the proposed start date coincides with a holiday in the new hire’s location. It is the responsibility of the recruiter to check with the Hiring Manager to ensure that the new team member has a support/ onboarding buddy on the first day of onboarding.
+
+**START DATE EXCEPTION EMAIL FOR URGENT HIRES** - This email seeks a required explanation and business justification for the proposed changes in the start date. The People Connect team will review this on a case-by-case basis. Urgent hires refer to situations where the HM requests an earlier start date than the previously agreed upon one, and the new start date does not adhere to the standard 10 working day SLA period for candidate onboarding. **Important**: an exception will not be made without a minimum of 5 working day notice to the People Connect team.
+
+Prominent reasons for urgent hires are Critical Skill Gap / New business opportunities, Equity vesting grant options and Unexpected departures or backfills. CES can access this email under the "Email the team" option in the candidates' Greenhouse profile.
 
 ### Next Steps
 
