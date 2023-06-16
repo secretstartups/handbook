@@ -107,6 +107,10 @@ Estimated Delivery Timelines for Gitlab Hardware
 - EMEA New Hires - 1-2 weeks (Apple M1 Max Model) and 3-5 weeks (Linux)
 - Other Regions - 2-3 weeks (Apple) and 6-9 weeks (Linux)
 
+### Additional Laptop Request/Personal Laptop Usage
+
+We currently do not allow personal laptops to be used in GitLab systems. If you are in need of a additional device, have a business justification, have manager approval and IT approval, you can request an additional laptop through the [Laptop Refresh/Upgrade template](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new#). Please note that if the secondary device is approved it will be a refurbished device and not a new device. 
+
 ### Key Performance Indicators
 
 KPI 90% of laptops will arrive prior to start date or 21 days from the date of order.
