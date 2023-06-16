@@ -327,7 +327,7 @@ Trust & Safety Requirements
 
 ### Security Assurance
 
-Security Assurance Engineers enable Sales by achieving standards as required by our customers and helping to secure the organization. This includes SaaS, self-managed, and open source instances.
+Security Assurance Engineers enable Sales and support go-to-market by achieving standards as required by our customers and helping to secure the organization. This includes SaaS, self-managed, and open source instances.
 
 - Please refer to the [Security Assurance](https://about.gitlab.com/handbook/security/security-assurance/) page for additional information.
   - [Security Compliance](https://about.gitlab.com/job-families/security/security-compliance/)
@@ -353,7 +353,7 @@ Red Team specialists emulate adversary activity to better GitLab’s enterprise 
 
 ### Security Architect
 
-This role reports directly to the VP of Security. Generally we would see this specialty to be filled at the Distinguished level. Distinguished engineers and Fellows have the widest sphere of influence and responsibility at the individual contributor level and as such may be asked to focus on high impacting focus areas. The security architect is a highly technical role responsible for planning, designing, testing, implementing and maintaining security strategy and solutions across the entire GitLab ecosystem. More specifically the responsibilities of this role include:
+This role reports directly to the CISO. Generally we would see this specialty to be filled at the Distinguished level. Distinguished engineers and Fellows have the widest sphere of influence and responsibility at the individual contributor level and as such may be asked to focus on high impacting focus areas. The security architect is a highly technical role responsible for planning, designing, testing, implementing and maintaining security strategy and solutions across the entire GitLab ecosystem. More specifically the responsibilities of this role include:
 
 - Define key architectural patterns, engineering practices and standards and drive them across the organization.
 - Work closely with other teams to develop and promote security architectures to protect microservices, serverless, containers, application development and operations practices
@@ -388,7 +388,7 @@ All interviews are conducted using Zoom video conferencing software. Candidates 
 
 ### Round 3
 
-- 60 Minute Interview with Director of Security or VP of Security, or both
+- 60 Minute Interview with Director of Security or CISO, or both
 
 As always, the interviews and screening call will be conducted via a video call.
 See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).

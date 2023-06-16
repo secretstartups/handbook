@@ -8,15 +8,15 @@ description: "Leaders in the security department at GitLab see the team as their
 
 Leaders in the security department at GitLab see the team as their product. While they are technically credible and know the details of what security engineers and analysts work on, their time is spent hiring a world-class team and putting them in the best position to succeed. They own the delivery of security commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Security leaders have:
 
-- Command Skills: Relishes leading, takes unpopular stands if necessary, encourages direct and tough debate but isn’t afraid to end and move on, is looked to for guidance in a crisis, faces adversity head on, energized by tough challenges.
-- Conflict Management: Steps up to conflicts, seeing them as opportunities: reads situations quickly, good at focused listening, can hammer out tough agreements and settle disputes equitably, can find common ground and get cooperation with minimum noise.
-- Perspective: Looks toward the broadest possible view of an issue/challenge: has broad-ranging personal and business interests and pursuits, can easily pose future scenarios, can think globally, can discuss multiple aspects and impacts of issues and project them into the future.
-- Presentation Skills: Is effective in a variety of formal presentation settings: one-on-one, small and large groups, with peers, reports, and bosses, is effective both inside and outside the organization, on both cool data and hot and controversial topics, commands attention and can manage group processes during the presentation, can change tactics midstream when something isn’t working.
-- Priority Setting: Spends their time and the time of others on what’s important: quickly zeros in on the critical few and puts the trivial many aside, can quickly sense what will help or hinder accomplishing a goal, eliminates roadblocks, creates focus.
-- Process Management: Good at figuring out the processes necessary to get things done: knows how to organize people and activities, understands how to separate and combine tasks into efficient work flow, knows what to measure and how to measure it, can see opportunities for synergy and integration where others can’t, can simplify complex processes; gets more out of fewer resources.
-- Strategic Agility: Sees ahead clearly: can anticipate future consequences and trends accurately, has broad knowledge and perspective, is future oriented, can articulately paint credible pictures and visions of possibilities and likelihoods, can create competitive and breakthrough strategies and plans.
-- Building Effective Teams: Blends people into teams when needed: creates morale and spirit in their team, shares wins and successes, fosters open dialogue, lets people finish and be responsible for their work, defines success in terms of the whole team, creates a feeling of belonging in the team.
-- Managing Vision and Purpose: Communicates a compelling and inspired vision or sense of core purpose: talks beyond today, talks about possibilities, is optimistic, creates mileposts and symbols to rally support behind the vision, makes the vision shareable by everyone, can inspire and motivate entire units or organizations.
+- **Command Skills:** Relishes leading, takes unpopular stands if necessary, encourages direct and tough debate but isn’t afraid to end and move on, is looked to for guidance in a crisis, faces adversity head on, energized by tough challenges.
+- **Conflict Management:** Steps up to conflicts, seeing them as opportunities: reads situations quickly, good at focused listening, can hammer out tough agreements and settle disputes equitably, can find common ground and get cooperation with minimum noise.
+- **Perspective:** Looks toward the broadest possible view of an issue/challenge: has broad-ranging personal and business interests and pursuits, can easily pose future scenarios, can think globally, can discuss multiple aspects and impacts of issues and project them into the future.
+- **Presentation Skills:** Is effective in a variety of formal presentation settings: one-on-one, small and large groups, with peers, reports, and leaders. Is effective both inside and outside the organization, on both cool data and hot and controversial topics, commands attention and can manage group processes during the presentation, can change tactics midstream when something isn’t working.
+- **Priority Setting:** Spends their time and the time of others on what’s important: quickly zeros in on the critical few and puts the trivial many aside, can quickly sense what will help or hinder accomplishing a goal, eliminates roadblocks, creates focus.
+- **Process Management:** Good at figuring out the processes necessary to get things done: knows how to organize people and activities, understands how to separate and combine tasks into efficient work flow, knows what to measure and how to measure it, can see opportunities for synergy and integration where others can’t, can simplify complex processes; gets more out of fewer resources.
+- **Strategic Agility:** Sees ahead clearly: can anticipate future consequences and trends accurately, has broad knowledge and perspective, is future oriented, can articulately paint credible pictures and visions of possibilities and likelihoods, can create competitive and breakthrough strategies and plans.
+- **Building Effective Teams:** Blends people into teams when needed: creates morale and spirit in their team, shares wins and successes, fosters open dialogue, lets people finish and be responsible for their work, defines success in terms of the whole team, creates a feeling of belonging in the team.
+- **Managing Vision and Purpose:** Communicates a compelling and inspired vision or sense of core purpose: talks beyond today, talks about possibilities, is optimistic, creates mileposts and symbols to rally support behind the vision, makes the vision shareable by everyone, can inspire and motivate entire units or organizations.
 
 ## Responsibilities
 
@@ -136,7 +136,7 @@ The Director, Application Security is a [grade 10](/handbook/total-rewards/compe
 - Drive efforts to improve security awareness in the areas of application security and the secure development of code through education and training
 - Champion technical efforts to obtain and maintain compliance with customer, regulatory, and security compliance framework requirements
 - Secure the product and the company with innovative and industry leading technical security controls and practices
-- Partner with the CISCO to build and maintain the most transparent security program in the world
+- Partner with the CISO to build and maintain the most transparent security program in the world
 - Act as an advocate for information security practices
 
 #### Director, Security Engineering Requirements
@@ -210,7 +210,7 @@ The Senior Director, Security is a [grade 11](/handbook/total-rewards/compensati
 
 - Expanded scope and functional area ownership over sub-department director responsibilities
 - Assist in the mentoring and coaching of Security Directors and Managers
-- Overflow VP responsibilities
+- Overflow security leadership responsibilities
 - Ability to successfully drive department-level initiatives
 - Ability to drive and influence change cross-company
 - Provide a consistent/successful interface between all applicable stakeholders including, but not limited to, Engineering, Product, Finance and Sales
@@ -294,7 +294,7 @@ The VP of Security is a [grade 12](/handbook/total-rewards/compensation/compensa
 
 #### VP of Security Requirements
 
-GitLab’s VP of Security must have all of the following attributes.
+GitLab’s VPs of Security must have all of the following attributes.
 
 Must-haves:
 - Relevant, progressive experience managing information security teams
@@ -303,7 +303,7 @@ Must-haves:
 - Experience managing a multi-level security organization with managers and IC’s
 - Collaborate with other groups outside engineering such as Sales, Legal, People Ops, and Finance
 - Ability to excel in a remote-only, multicultural, distributed environment
-- Possess domain knowledge of common information security management frameworks and regulatory requirements and applicable standards such as ISO 27001, SOC 2, HIPAA, GDPR, PCI, Sarbox, etc.
+- Possess domain knowledge of common information security management frameworks and regulatory requirements and applicable standards such as ISO 27001, SOC 2, HIPAA, GDPR, PCI, SOX, etc.
 - Excellent project and program management skills and techniques
 
 Nice-to-haves
@@ -331,7 +331,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ## Career Ladder
 
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
+For more details on the security engineering career ladders, please review the [security engineering career development](https://handbook.gitlab.com/job-families/security/security-engineer/) handbook page.
 
 ## Performance Indicators
 
