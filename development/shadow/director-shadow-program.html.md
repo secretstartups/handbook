@@ -21,6 +21,7 @@ Some blogs from previous shadows:
 1. [My experience shadowing an Engineering Director for a week](https://mkapade.medium.com/my-experience-shadowing-an-engineering-director-for-a-week-22971d9b4020) - [Mrunal Kapade](https://linkedin.com/in/mrunalk)
 1. [What I Learned as a Development Director](https://awkwardferny.medium.com/what-i-learned-as-an-engineering-director-shadow-at-gitlab-1a783cb564d0) - [@fjdiaz](https://gitlab.com/fjdiaz)
 1. [The engineering director shadow experience at GitLab](https://about.gitlab.com/blog/2022/04/01/engineering-director-shadow/) - [@warias](https://gitlab.com/warias)
+1. [Exciting Experience at GitLab Shadow Program](https://www.linkedin.com/posts/palwasha-malik_pakistani-gitlab-gitlabshadowprogram-activity-7075930932083310592-RZLr/) - [Palwasha Malik](https://www.linkedin.com/in/palwasha-malik/)
 
 
 ## Benefits
@@ -51,7 +52,7 @@ For non-GitLab prospective shadows:
 ## Process for requesting to be a shadow for GitLab team members
 
 1. Check the schedule below for availability.
-1. Create an MR to add yourself to the table for the weeks in which you want to shadow via an MR. To get started, you can [edit the page here](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/engineering/development/shadow/director-shadow-program.html.md)
+1. Create an MR to add yourself to the table for the weeks in which you want to shadow via an MR.
 1. Obtain written approval from your manager that they are ok with you participating via your manager commenting in the MR that they approve, as your workload may need to be significantly reduced for the shadow program duration.
 1. After your manager approves, assign the MR to me to review and merge.
 
@@ -165,6 +166,8 @@ No, not at this time.
 | [Tulika Gupta](https://www.linkedin.com/in/tulika-gupta-30190819/) | Non-GitLab shadow - Principal DevOps Engineer at [Alarm.com](https://alarm.com/) |
 |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com) |
 |  [Jeremy Neff](https://www.linkedin.com/in/jeremy-r-neff/) | Non-GitLab shadow - Manager at [Joint Communications Unit](https://www.jcu.mil/) |
+| [Palwasha Malik](https://www.linkedin.com/in/palwasha-malik/) | Non-GitLab shadow - Software developer at [Devsinc](https://devsinc.com/)  |
+| [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/) | Non-GitLab shadow - Independent software engineer |
 
 
 ## Schedule
@@ -172,11 +175,10 @@ No, not at this time.
 
 | Week of | Shadow(s) | Department | 
 | ------ | ------ | ----- |
-| June 12    | [Palwasha Malik](https://www.linkedin.com/in/palwasha-malik/) and [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/) | Non-GitLab shadows - Palwasha is a software developer at [Devsinc](https://devsinc.com/) and Anshuman is an independent software engineer |
 | June 19    |  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
 | June 26    |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com)  |
 | July 3     |  Not Available | |
-| July 10    |  Available | |
+| July 10    |  [Fazal Ur-Rehman](https://www.linkedin.com/in/fazal-ur-rehman-805571128/) | Associate Team Lead at [LexisNexis](https://www.lexisnexis.com/) |
 | July 17    |  Available | |
 | July 24    |  [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
 | July 31    |  Available | |
