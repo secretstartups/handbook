@@ -335,22 +335,6 @@ Security Assurance Engineers enable Sales and support go-to-market by achieving 
   - [Security Risk](https://about.gitlab.com/job-families/security/security-risk/)
   - [Security Governance](https://about.gitlab.com/job-families/security/security-governance/)
 
-### Red Team
-
-Red Team specialists emulate adversary activity to better GitLab’s enterprise and product security. The role requires the ability to think like an advanced persistent threat. Creativity is key. For example, develop attack plans and stealthily execute them to compromise sensitive information on GitLab.com such as private repos, or develop and distribute malware to GitLab team-members to demonstrate how the corporate enterprise could be compromised.
-
-- Utilize threat modeling concepts and frameworks such as MITRE ATT&CK, STRIDE, etc. to continually identify ways to protect and defend GitLab assets by executing attacks that emulate a range of adversaries
-- Focus on designing, researching, and executing attacks to challenge the blue team
-- Strive to identify weaknesses within GitLab products and corporate network and demonstrate the associated risks
-- Contribute to the GitLab Secure and Govern products
-- Incorporate current security trends, advisories, publications, and academic research
-- Understand CND technologies to bypass these security controls and stay undetected
-- Report on the Red Team engagements providing an in-depth analysis of the security issues identified
-- Identify complex security vulnerabilities and exploit them before an external attacker can exploit them
-- Determine the level of effort required to compromise sensitive data
-- Publish blog posts and present talks at security conferences
-- Contribute to GitLab products by testing and proposing new features
-
 ### Security Architect
 
 This role reports directly to the CISO. Generally we would see this specialty to be filled at the Distinguished level. Distinguished engineers and Fellows have the widest sphere of influence and responsibility at the individual contributor level and as such may be asked to focus on high impacting focus areas. The security architect is a highly technical role responsible for planning, designing, testing, implementing and maintaining security strategy and solutions across the entire GitLab ecosystem. More specifically the responsibilities of this role include:
