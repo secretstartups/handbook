@@ -156,7 +156,7 @@ App information:
 ###### Configuring Unbabel in Zendesk
 
 Every Agent profile in Zendesk needs to be individually configured so that only
-tickets submitted in the supported languages are translated.
+tickets submitted in the [supported languages](https://about.gitlab.com/support/portal/#language-support) are translated.
 
 To do this you can use [a javascript snippet](https://gitlab.com/gitlab-com/support/toolbox/snippets/snippets/1971515) created internally.
 
