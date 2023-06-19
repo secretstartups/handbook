@@ -16,7 +16,7 @@ title: "Core Team"
 
 A new member can be added to the [Core Team](/community/core-team/) at any time through the following steps:
 
-1. Any Core Team member or GitLab Team member can nominate a new member from the wider community at any time using a confidential issue in [the Core Team group](https://gitlab.com/groups/gitlab-org/gitlab-core-team/-/issues).
+1. Any Core Team member or GitLab Team member can nominate a new member from the wider community at any time using a confidential issue in [the Core Team group](https://gitlab.com/groups/gitlab-org/gitlab-core-team/-/issues) to limit any possible negative feedback in the smallest setting possible.
 2. The nominee will be added to the Core Team if they have received positive votes from two-thirds (2/3) of all current core team members within a four-week period and accept the nomination.
 3. Once a new member has been added, start the onboarding process by following the steps outlined in the [Core Team member orientation section](/handbook/marketing/developer-relations/core-team/#core-team-member-orientation) below.
   
