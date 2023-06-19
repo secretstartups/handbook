@@ -595,7 +595,7 @@ GitLab's [PTO policy](/handbook/paid-time-off/) overrides over GitLab Canada Cor
 | All of Canada (except SK, QC, ON)| 2 weeks after 1 year / 3 weeks after 5 years  | 4% for the first 5 years, 6% after 5 years |
 | Quebec Only | Less than 1 year - 1 day per full month of uninterrupted service, not to exceed 2 weeks; 1 year to less than 3 years - 2 consecutive weeks; 3 years or more - 3 consecutive weeks | 4% for first 3 years; 6% after 3 years |
 | Saskatchewan Only | 3 weeks after 1 year / 4 weeks after 10 years | 6% for the first 9 years, 8% after 9 years | 
-| Ontario Only | 2 weeks after 1 year / 3 weeks after 4 years  | 4% for the first 4 years, 6% after 4 years |
+| Ontario Only | 2 weeks after 1 year / 3 weeks after 4 years  | 4% for the first 5 years, 6% after 5 years |
 
 ## Processing Vacation Requirements (People Ops Instructions)
 
