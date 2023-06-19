@@ -12,7 +12,7 @@ description: "Job families are organized by function at GitLab and we use them t
 
 ## Job Families
 
-* Job families are [organized by function in directories in the www-gitlab-com repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/job-families).
+* Job families are [organized by function in directories in the `content-sites` repository](https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main/content/job-families).
 * For any questions related to job families, please contact [total rewards](/handbook/total-rewards/benefits/#contact-total-rewards).
 
 ### Things to Keep in Mind
