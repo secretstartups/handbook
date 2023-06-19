@@ -21,10 +21,8 @@ This team maps to the [Respond Group](/handbook/product/categories/#respond-grou
 * [Runbooks](https://about.gitlab.com/direction/monitor/debugging_and_health/runbooks/)
 
 ## Exciting things and accomplishments
-This section details the happenings within the Respond group. At any given time this section will have the top exciting things and/or accomplishments of the team.
-1. We created a [teardown for GitLab Incident Management](https://gitlab.com/gitlab-org/monitor/respond/-/issues/184) in a blank state for Reporters, Developers and Maintainers and identify opportunities to help users better onboard with GitLab Incident Management.
-1. Sarah automated and iterated on our Weekly Update issue, [here](https://gitlab.com/gitlab-org/monitor/respond/-/issues/195#note_1261721192) is a recent example.
-1. Will is wrapping up the research for the [Monitor Stage Navigation](https://gitlab.com/gitlab-org/ux-research/-/issues/2292) to determine if we should rename our left hand navigation.
+
+You can follow along with the team's accomplishments by reading the [latest weekly async updates](https://gitlab.com/gitlab-org/monitor/respond/-/issues/?sort=created_date&state=closed&label_name%5B%5D=OpsSection%3A%3AWeekly-Update&first_page_size=100).
 
 ## Team members
 
@@ -43,384 +41,7 @@ This section details the happenings within the Respond group. At any given time 
     - [monitor-respond_be](mailto:monitor-respond-be@gitlab.com) (backend team)
     - [monitor-respond-fe](mailto:monitor-respond-fe@gitlab.com) (frontend team)
 - The Respond group team meetings are scheduled on our [Monitor Stage team calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xbGMyZHFpbjFoMXQ2MHFoNnJmcjJjZTE5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-  - The team holds a weekly sync meeting, alternating between 2 timezone groups (Wed @ 2100UTC and Thurs @ 1500UTC) and [meetings are recorded](https://drive.google.com/drive/u/0/folders/11oEDabI5blfcHz0P9dOZY6Oj_dHd0-wx).
-    - 1st week of the month - At the start of the quarter review the [roadmap](https://gitlab.com/groups/gitlab-org/-/epics/7013) and [product direction](https://about.gitlab.com/direction/monitor/debugging_and_health/incident_management/).
-    - 2nd week of the month - Walk through in-progress work on the [workflow dashboard](https://gitlab.com/groups/gitlab-org/-/boards/1160198).
-    - 3rd week of the month - Review the [planning issue](https://gitlab.com/gitlab-org/monitor/respond/-/issues/?label_name%5B%5D=Planning%20Issue) for the upcoming milestone.
-    - 4th week of the month - Demo new features and showcase any interesting work done within or outside of our team (in-person or recorded demos).
-
-## Peformance Indicators
-The Respond Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we need to establish an initial user base that we can learn from to improve and further grow the Monitor stage. We have prioritized the Incident Management category to obtain this usage. 
-
-With that in mind, our primary performance indicator, the Monitor:Respond GMAU, is the [count of unique users that interact with alerts and incidents](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=10039330). This PI will inform us if we are on the right path to provide meaningful incident response tools.
-
-We expect to track the journey of users through the following funnel:
-
-```mermaid
-classDiagram
-  Acquisition --|> Activation
-	Acquisition: Are users aware of the product or feature set?
-	Acquisition: Measurement (Count of views of alerts list and incident list)
-  Activation --|> Retention
-	Activation: Are users applying the feature?
-	Activation: Measurement (Count of monthly active users leveraging alerts (Alert MAU))
-  Retention --|> Revenue
-	Retention: Are users applying the feature over time?
-	Retention: Measurement (Count of monthly active users leveraging incidents (Incident MAU))
-  Revenue --|> Referral
-	Revenue: Are users paying for the features?
-	Revenue: Measurement (Count of monthly active users leveraging paid features (Alert endpoints, on-call schedule management, Status Page, etc))
-  Referral --|> Acquistion
-	Referral: Are users encouraging others to use the feature?
-	Referral: Measurement (In App referrals for setting up alert and incident management in other projects)
-```
-### PI Dashboards
-
-- [Monitor:Respond error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-respond/stage-groups-group-dashboard-monitor-respond?orgId=1): The Respond Group has work in progress to separate our dashboard into two, active and inactive projects.  This will allow the team to identify trends in our newly released features separately from inactive projects.  We're looking for different trends in active vs inactive projects.  Active projects are constantly changing and the chances of introducing problems that impact our Error Budget are more likely.  With inactive projects, we're looking for impact from changes in dependencies which may adversely affect the Error Budget.  The team will review both of the dashboards monthly as part of our async retrospective process and track the needed improvements as technical debt issues.
-
-Work with Nicole to clean up this section
-
-
-## Snowplow Events
-Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/1032030/Respond-Group-Dashboard?widget=15225900&udv=0) for a list of events we have instrumented for Monitor:Respond Events.
-
-<details><summary>Table of Snowplow Events</summary>
-<table>
-    <tr>
-        <td>Event Category</td>
-        <td>Event Action</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>view_alerts_list</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>view_alert_details</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>update_alert_status</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>view_incidents_list</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>view_incident_details</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>toggle_incident_comments_into_timeline_view</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>create_incident_button_clicks</td>
-    </tr>
-</table>
-</details>
-
-## Service Ping
-Service Ping is used for self-managed customers.  The table below was generated from https://metrics.gitlab.com/.
-
-
-<details><summary>Table of Service Ping Events</summary>
-<table>
-    <tr>
-        <td>Event Category</td>
-        <td>Event Action</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.issues_created_gitlab_alerts</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.incident_issues</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.issues_created_from_alerts</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.alert_bot_incident_issues</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.issues_created_manually_from_alerts</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.issues_with_embedded_grafana_charts_approx</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.issues_with_associated_zoom_link</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.issues_using_zoom_quick_actions</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.quickactions.i_quickactions_promote_to_incident_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.quickactions.i_quickactions_publish_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.quickactions.i_quickactions_severity_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.projects_with_alerts_created</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.projects_with_enabled_alert_integrations</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>usage_activity_by_stage.monitor.projects_with_incidents</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>usage_activity_by_stage_monthly.monitor.projects_with_incidents</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>usage_activity_by_stage.monitor.projects_with_alert_incidents</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>usage_activity_by_stage_monthly.monitor.projects_with_alert_incidents</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_alert_todo_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_alert_todo_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_comment_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_comment_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_todo_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_todo_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_relate_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_relate_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_assigned_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_alert_assigned_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_alert_assigned_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_alert_status_changed_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_alert_status_changed_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_change_confidential_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_created_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_created_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_zoom_meeting_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management_alerts.incident_management_alert_create_incident_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts_monthly.aggregated_metrics.incident_management_alerts_total_unique_counts</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts_monthly.aggregated_metrics.incident_management_incidents_total_unique_counts</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management_alerts.incident_management_alert_create_incident_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts_weekly.aggregated_metrics.incident_management_alerts_total_unique_counts</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts_weekly.aggregated_metrics.incident_management_incidents_total_unique_counts</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_total_unique_counts_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_total_unique_counts_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_unrelate_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_reopened_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_reopened_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_published_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_published_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management_oncall.i_incident_management_oncall_notification_sent_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management_oncall.i_incident_management_oncall_notification_sent_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_assigned_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_change_confidential_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_closed_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_closed_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_zoom_meeting_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.incident_management_incident_unrelate_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.quickactions.i_quickactions_publish_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.quickactions.i_quickactions_severity_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.quickactions.i_quickactions_promote_to_incident_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.projects_creating_incidents</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.issuable_resource_links_total_unique_counts_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.issuable_resource_links_total_unique_counts_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.timeline_event_total_unique_counts_weekly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>redis_hll_counters.incident_management.timeline_event_total_unique_counts_monthly</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.status_page_incident_publishes</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.status_page_incident_unpublishes</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>usage_activity_by_stage.monitor.projects_with_enabled_alert_integrations_histogram</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.status_page_issues</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts_monthly.projects_with_alerts_created</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>usage_activity_by_stage.monitor.projects_incident_sla_enabled</td>
-    </tr>
-    <tr>
-        <td>Incident Management</td>
-        <td>counts.status_page_projects</td>
-    </tr>
-    <tr>
-        <td>On-Call Schedule Management</td>
-        <td>redis_hll_counters.quickactions.i_quickactions_page_monthly</td>
-    </tr>
-    <tr>
-        <td>On-Call Schedule Management</td>
-        <td>redis_hll_counters.quickactions.i_quickactions_page_weekly</td>
-    </tr>
-</table>
-</details>
+  - The team holds a [weekly sync meeting](https://docs.google.com/document/d/1_z-VJYnobq5UN0PbFoABWLK3PNn9IXlDo8WO51DF2Ls), alternating between 2 timezone groups (Thu @ 06:00 UTC and Thu @ 14:00 UTC) and [meetings are recorded](https://drive.google.com/drive/u/0/folders/11oEDabI5blfcHz0P9dOZY6Oj_dHd0-wx). We generally try to keep our process pretty light on meetings.
 
 ## Dashboards
 
@@ -477,9 +98,9 @@ Service Ping is used for self-managed customers.  The table below was generated 
 
 ### Surfacing blockers
 
-To surface blockers, mention your Engineering Manager in the issues, and then contact them via slack and or 1:1's. Also make sure to raise any blockers in your daily async standup using Geekbot.
+To surface blockers, mention your Engineering Manager or Product Manager in the issues. Also make sure to raise any blockers in your daily async standup using Geekbot.
 
-The engineering managers want to make unblocking their teams their highest priority. Please don't hesitate to raise blockers
+The Engineering Manager and Product Manager want to make unblocking the team their highest priority. Please don't hesitate to raise blockers.
 
 ### Scheduling
 
@@ -489,29 +110,15 @@ The Product Manager is responsible for scheduling issues in a given milestone. T
 
 See also [Measuring Say Do ratio](https://about.gitlab.com/handbook/engineering/development/ops/monitor/respond/#measuring-say-do-ratio) for more on milestone commitments.
 
-#### Estimating
-
-We use the following values for estimating the effort of issues to help determine our capacity during the planning process.
-
-- **XS**: 1 to 2 days to merge
-- **S**: 2 days to a week to merge
-- **M**: 1 to 2 weeks to merge
-- **L**: 2 weeks to 1 cycle to merge
-- **XL**: Bigger than 1 cycle (needs to be broken down further)
-
 #### Scheduling bugs
 
-When new bugs are reported, the engineering managers ensure that they have proper Priority and Severity labels. Bugs are discussed in the weekly triage issue and are scheduled according to severity, priority, and the capacity of the teams. Ideally, we should work on a few bugs each release regardless of priority or severity.
+When new bugs are reported, the Engineering Manager ensures that they have proper [Priority](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority) and [Severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) labels. Bugs are discussed in the [weekly triage issue](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/?label_name%5B%5D=group%3A%3Arespond) and are scheduled according to severity, priority, and the capacity of the teams. Ideally, we should work on a few bugs each release regardless of priority or severity.
 
 #### Scheduling technical debt
 
-As new technical debt issues are created, the engineering manager and product manager will triage, prioritize and schedule these issues.   When new issues are created by Monitor team members, add any relevant context to the description about the priority or timing of the issue, as this will help streamline the triage work.
+As new technical debt issues are created, the Engineering Manager and Product Manager will triage, prioritize and schedule these issues.   When new issues are created by Monitor team members, add any relevant context to the description about the priority or timing of the issue, as this will help streamline the triage work.
 
-Priorities for scheduling technical debt will apply as follows:
-- **P1**: Interrupt the current milestone or schedule in the next milestone
-- **P2**: Schedule in the next 1-2 milestones
-- **P3**: To be scheduled at a later date
-- **P4**: Backlog, awaiting higher demand
+Technical debt is planned following the [standard prioritization scheduling](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
 
 ### Weekly async updates
 
@@ -620,7 +227,7 @@ Downsides to this approach:
 
 ## Repos we own or use
 * [Prometheus Ruby Mmap Client](https://gitlab.com/gitlab-org/ruby/gems/prometheus-client-mmap) - The ruby Prometheus instrumentation lib we built, which we used to instrument GitLab
-* [GitLab FOSS](https://gitlab.com/gitlab-org/gitlab-foss) and [GitLab](https://gitlab.com/gitlab-org/gitlab) - Where much of the user facing code lives
+* [GitLab](https://gitlab.com/gitlab-org/gitlab) - Where much of the user facing code lives
 * [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) and [Charts](https://gitlab.com/charts/charts.gitlab.io), where a lot of the packaging related work goes on. (We ship GitLab fully instrumented along with a Prometheus instance)
 
 ## Service accounts we own or use
@@ -653,9 +260,6 @@ The following people are owners of this account and can [grant access](https://z
 
 For more information on how to use Zoom see theirs [guides](https://marketplace.zoom.us/docs/guides) and [API reference](https://marketplace.zoom.us/docs/api-reference/introduction).
 
-## Recurring Meetings
-While we try to keep our process pretty light on meetings, we do hold a [Monitor:Respond Team](https://docs.google.com/document/d/1_z-VJYnobq5UN0PbFoABWLK3PNn9IXlDo8WO51DF2Ls/edit#heading=h.8jytjqyq0he2) meeting weekly to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
-
 ## Labels
 The Respond team uses labels for issue tracking and to organize issue boards.  Many of the labels we use also drive reporting for Product Management and Engineering Leadership to track delivery metrics.  It's important that labels be applied correctly to each issue so that information is easily discoverable.
 
@@ -680,7 +284,7 @@ The Respond team uses labels for issue tracking and to organize issue boards.  M
 - **Issue Type**: required.
   - `~"type::feature"`: [Feature Issues](/handbook/product/product-processes/#feature-issues)
   - `~"type::bug"`: [Bug Issues](/handbook/product/product-processes/#bug-issues)
-  - `~technical debt` : [Technical Debt](/handbook/product/product-processes/#feature-issues)
+  - `~technical debt` : [Technical Debt](/handbook/engineering/workflow/#technical-debt)
 - **Workflow**: required. 
   - `workflow::refinement`: Issues that need further input from team members in order for it to be `workflow::ready for development`.
   - `workflow::blocked`: Waiting on external factors or another issue to be completed before work can resume.
@@ -700,5 +304,5 @@ A list of interesting content related to the areas of the Respond group:
   - [Google's SRE Workbook, Chapter 8 - On-Call](https://sre.google/workbook/on-call/) 
 - **Incident Response**
   - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/incident-response/) 
-- **Postmoretm Culture: Learning from Failure**
+- **Postmortem Culture: Learning from Failure**
   - [Google's SRE Workbook, Chapter 9 - Incident Response](https://sre.google/workbook/postmortem-culture/)  
