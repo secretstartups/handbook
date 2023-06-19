@@ -132,7 +132,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
   </tr>
   <tr>
     <td class="tg-btxf">Business Cards</td>
-    <td class="tg-btxf">Business cards are ordered from Moo as per the instructions provided by the People Connect team. Urgent Business cards needed for the day of start can be requested by emailing <a href="mailto:&#112;&#101;&#x6f;&#x70;&#108;&#101;&#x2d;&#101;&#x78;&#x70;&#64;&#103;&#105;&#x74;&#x6c;&#97;&#x62;&#46;&#99;&#111;&#x6d;"><span style="color:#905">people-exp@gitlab.com</span></a>. As a last resort, Moo does offer 3 to 4 Day Express service.</td>
+    <td class="tg-btxf">Business cards are ordered from Moo as per the instructions provided by the People Connect team. Urgent Business cards needed for the day of start can be requested by emailing <a href="mailto:&#112;&#101;&#x6f;&#x70;&#108;&#101;&#x2d;&#101;&#x78;&#x70;&#64;&#103;&#105;&#x74;&#x6c;&#97;&#x62;&#46;&#99;&#111;&#x6d;"><span style="color:#905">people-connect@gitlab.com</span></a>. As a last resort, Moo does offer 3 to 4 Day Express service.</td>
     <td class="tg-btxf">6040 - Office Supplies</td>
     <td class="tg-btxf">5040 - Office Supplies COGS</td>
     <td class="tg-btxf">Office Supplies</td>
