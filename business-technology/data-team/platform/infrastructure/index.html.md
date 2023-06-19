@@ -771,6 +771,11 @@ The models impacted by this mechanism are:
 | [fct_ping_instance_free_user_metrics](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_ping_instance_free_user_metrics)                                                                |
 | [wk_usage_ping_geo_node_usage](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.wk_usage_ping_geo_node_usage)                                                                              |
 
+#### VERSION_DB execution timeline
+
+`VERSION_DB` data are aligned with file dump in Google Cloud Storage and `dbt` DAG running in Airflow. Below is the representation of the timeline of how pipelines are executed. This setup will allow us to narrow the delay of data load _(will load data from the prior day)_.
+
+![version_db_current_state.png](version_db_current_state.png)
 
 #### Snowflake Stage
 
