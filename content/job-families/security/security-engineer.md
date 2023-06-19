@@ -205,17 +205,6 @@ At the close of the project, the team member should document what goals were met
 
 ## Specialties for Security Engineer roles
 
-### Security Research
-
-Security research specialists are subject matter experts (SME) that conduct research in their area of expertise to protect GitLab the product and GitLab company assets. They are also encouraged to participate in the larger security community through blog posts and participation in industry conferences. Responsibilities for this specialty include:
-
-- Conduct research in their area of expertise to protect GitLab and GitLab.com assets.
-- Research security posture of FOSS tools that are integrated with GitLab.
-- Report findings to tool developers and track mitigation process, following [responsible disclosure guidelines](https://about.gitlab.com/security/disclosure/#disclosure-guidelines-for-vulnerabilities-in-3rd-party-software).
-- Author blogs posts and presentations on vulnerabilities discovered and their area of expertise.
-- Support other GitLab initiatives as a SME.
-- Author documentation and/or tooling for security training.
-
 ### Application Security
 
 Application Security specialists work closely with development teams, product managers (PM), and third-party groups (including the paid bug bounty program) to ensure that GitLab products are secure.
