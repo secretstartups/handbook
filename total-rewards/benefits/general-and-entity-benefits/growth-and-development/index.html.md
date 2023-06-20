@@ -79,7 +79,6 @@ The Growth and Development policy is meant to further team members' learning and
   - Enterprise Sales: Mike Pyle (VP of Enterprise Sales)
   - Customer Success: David Sakamoto (VP of Customer Success)
   - Commercial Sales: Ryan O'Nell (VP of Commercial Sales)
-  - Field Operations: David Hong (VP of Field Operations)
   - Worldwide Channels: David Helfer (interim VP of Worldwide Channels)
 
 * **Sales Development organization executive signature should be routed by the following:**
