@@ -23,8 +23,7 @@ Workato is a tool that helps you manage your integrations. It is a web applicati
 1. Add the appropriate [change management label](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=CMT%3A%3A) to the issue using the [approval matrix](/handbook/business-technology/change-management/#approval-matrix). If the change is comprehensive, add the `Business Owner Approval::Needs Approval` label.
 1. Receive approval from the business owners of any affected systems in the change and have them comment their approval and add the `Business Owner Approval::Approved` label to the issue.
 1. Once the change is made in development, link the relevant recipes and changes in a comment on the issue and request peer approval from someone else on the integrations team. Have them comment with their approval and add the label `Peer Approval::Approved` to the issue.
+1. After peer approval, move the code in test and request for manager approval by adding the comment `BT Integration Manager::Needs Approval`. Once reviewed and approved add the label `BT Integration Manager::Approved`.
+1. Next, create an issue in [Change Management](https://gitlab.com/gitlab-com/business-technology/change-management) project by using the [change management](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/blob/main/.gitlab/issue_templates/change%20management.md) issue template.
+1. Once all the checklist items in change management issue are done, you're ready to move the code in prod.
 
-## Nestjs changes
-For Nestjs the process is the same, except that for peer approvals, we utilize Merge Request approvals instead of labels. The merge request template will guide devs through applying the right labels and linking the relevant change management issue.
-
-To ensure that we don't have long lived merge requests, we have the option to use feature flags to toggle the change / feature. That way we can maintain the prior functionality in production until the business owner has approved the change management issue. The benefit of doing this is that we reduce the need for constant conflict resolution and peer reapproval due to MR approval resets on all commits. Feature flag toggling should be performed by a different person to the author of the MR.
