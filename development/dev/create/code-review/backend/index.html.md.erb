@@ -133,54 +133,11 @@ by `action` and/or `controller`.
 3. This issue should contain as much information on why it is the severity/priority as logs are often held for only 7 days
 4. Using a [specific performance issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/2621072) we can keep track of our current issues and they will be prioritized accordingly during planning
 
-##### Severity Criteria
+#### Priority and Severity
 
-The severity of an issue helps determine the urgency and communication required for issues identified. More details can be found [in the handbook](/handbook/engineering/quality/issue-triage/#severity)
+More details can be found in the handbook for [severity](/handbook/engineering/quality/issue-triage/#severity) and [priority](/handbook/engineering/quality/issue-triage/#priority)
 
-P90 Latency follows [existing ~performance criteria](/handbook/engineering/quality/issue-triage/#severity)
-
-###### S4
-* P90 Latency > 500 ms
-* P90 #SQL queries > 100 queries
-* Error rate > 0
-
-###### S3
-* P90 Latency > 1000 ms
-* P90 #SQL queries > 200 queries
-* Error rate > 0.05
-
-###### S2
-* P90 Latency > 2000 ms
-* P90 #SQL queries > 400 queries
-* Error rate > 0.1
-
-###### S1
-* P90 Latency > 9000 ms
-* P90 #SQL queries > 1800 queries
-* Error rate > 0.2
-
-
-##### Priority Criteria
-
-The priority label is used to indicate the importance and guide the scheduling of the issue. More details can be found [in the handbook](/handbook/engineering/quality/issue-triage/#priority)
-
-###### P4
-* S3/4
-* RPS > 0
-
-###### P3
-* S3/4
-* RPS > 2
-
-###### P2
-* S1/2
-* RPS > 0
-
-###### P1
-* S1/2
-* RPS > 2
-
-##### Calendar Invites
+#### Calendar Invites
 
 There are calendar invites that act as a reminder for backend team members
 to check these dashboards weekly on Monday:
