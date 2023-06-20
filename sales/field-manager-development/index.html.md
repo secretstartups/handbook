@@ -88,7 +88,6 @@ This program will leverage content from the GitLab Manager Challenge and address
 - Performance Management ([slides](https://docs.google.com/presentation/d/1Owxaz0VtFHR3FOVFHvYq2GCnStmbWfhhc4CWEMdhcw8/edit?usp=sharing)) (GitLab internal only)
 - Performance Management Module Introduction
     - [David Sakamoto (VP, Customer Success](https://youtu.be/OaKic20yEFU) 8am PT intro (3 minutes)
-    - [David Hong (VP, Field Ops)](https://youtu.be/qzh0149chZ0) 2pm PT intro (3 minutes)
 - [Q3 Field Manager Summit Look Ahead](https://youtu.be/_nb9nVCuqu8) (1 minute)
 - [Performance Management Module Learning Objectives](https://youtu.be/dqP0UbG_Mdc) (1 minute)
 - Field Manager Spotlight: Giving Feedback
