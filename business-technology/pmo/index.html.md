@@ -69,6 +69,35 @@ The IT portfolio planning & prioritization process has 6 steps:
 5. Project Commits
 6. Alignment & OKRs
 
+### Portfolio Planning Calendar
+
+There are several activities that take place to prepare for new OKRs / commits and report on the current ones:
+- **Project List & Priorities from Business**: The IT PMO team reaches out to Business stakeholders to get a list of projects and priorities for the upcoming quarter.
+- **Update OKR(s) progress**: The IT PMO works with IT Leadership to update the OKR(s) progress in gitlab.com.
+- **IT PMO & Leadership - Upcoming Quarter Priorities Review**: The IT PMO team reviews the business projects and priorities with IT Leadership to add initiatives to the upcoming commits tracker.
+- **Quarter Commits - Corporate Rank**: The IT Leadership team adds a corporate rank to each upcoming quarter commit.
+- **Cross Functional Meeting - Quarter Commits Review**: IT PMO team hosts the `IT Portfolio Roadmap & Health` meeting to review with the Business stakeholders, the list of projects and priorities for the upcoming quarter.
+- **IT PMO - Quarter Commits (Adjustments)**: The IT PMO team makes all the necessary adjustments to the upcoming quarter commits following the meeting with the Business stakeholders.
+- **IT Corporate - Quarter Commits (First Pass)**: The upcoming IT quarter commits are shared with the Corporate stakeholders.
+- **IT Leadership - Quarter Commits (Adjustments)**: The IT Leadership team makes all the necessary adjustments to the upcoming quarter commits following the updates from the Corporate stakeholders.
+- **IT Leadership - Quarter Commits (Final Pass)**: The IT Leadership team finalizes the upcoming quarter commits.
+- **IT Corporate - Quarter Commits (Final Pass)**: The IT Leadership team finalizes the CFO upcoming quarter commits.
+- **Upcoming Quarter Commits Shared with the Business**: The IT PMO team shares the upcoming quarter commits with the Business stakeholders.
+- **Finalize Upcoming Quarter OKR(s)**: Upcoming quarter commits are completed.
+- **IT All Hands Quarterly Meeting**: The IT Leadership hosts the Quarterly IT All Hands.
+
+#### FY24 Q3 Calendar
+
+![it-pmo](/handbook/business-technology/pmo/it-pmo-fy24-q3.png)
+
+#### FY24 Q4 Calendar
+
+![it-pmo](/handbook/business-technology/pmo/it-pmo-fy24-q4.png)
+
+#### FY25 Q1 Calendar
+
+![it-pmo](/handbook/business-technology/pmo/it-pmo-fy25-q1.png)
+
 ### Portfolio of Projects
 
 The inventory of all committed and planned projects in IT Operations and Enterprise Applications. The [IT - Consolidated Projects Roadmap](https://docs.google.com/spreadsheets/d/1ojnTFGB2iYJz9kNPYdoLc4PeyDqAN60gu9cQBrKpHJQ/edit?pli=1#gid=955721517) is available for internal team members to track IT planned initiatives. All projects on the roadmap have a Team & Corporate stack ranked to align with the overall [global optimization](https://about.gitlab.com/handbook/values/#global-optimization). 
