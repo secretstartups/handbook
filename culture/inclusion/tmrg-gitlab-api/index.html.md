@@ -35,7 +35,6 @@ The API TMRG provides a safe space for every GitLab team member to better unders
 * [Steve Xu](https://gitlab.com/steve_xu) [Co-Lead]
 
 ## Executive Sponsors
-* [David Hong](https://gitlab.com/dhong)
 * [David Sakomoto](https://gitlab.com/dsakamoto)
 
 ## How To Get Involved
