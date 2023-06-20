@@ -42,6 +42,8 @@ Contact Owner:
 1. Apply the [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059) macro and mark the ticket as **On-hold**.
 1. Make an internal comment providing a link to the **namespace requester's ticket**.
 
+If the group contains multiples owners, contact one owner per ticket. Limit to 3 owners if more (you can pick the owners that have the most recent *Last activity* in the page `https://gitlab.com/groups/<group_name>/-/group_members` or/and the owner(s) that is(are) listed as *Source* if still an owner at the time of the namesquatting request). 
+
 Requester's Ticket:
 
 1. Copy the ticket's link and add it to the **Internal Checklist**.
