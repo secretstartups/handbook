@@ -176,7 +176,7 @@ No, not at this time.
 | Week of | Shadow(s) | Department | 
 | ------ | ------ | ----- |
 | June 19    |  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
-| June 26    |  [Heejin Han](https://www.linkedin.com/in/heejinhan/) | Non-GitLab shadow - Technical Operations Manager at [Netflix](https://www.netflix.com)  |
+| June 26    | [Palwasha Malik](https://www.linkedin.com/in/palwasha-malik/) | Non-GitLab shadow - Software developer at [Devsinc](https://devsinc.com/)  |
 | July 3     |  Not Available | |
 | July 10    |  [Fazal Ur-Rehman](https://www.linkedin.com/in/fazal-ur-rehman-805571128/) | Associate Team Lead at [LexisNexis](https://www.lexisnexis.com/) |
 | July 17    |  Available | |
