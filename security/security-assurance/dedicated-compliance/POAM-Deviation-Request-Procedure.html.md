@@ -118,7 +118,7 @@ Deviation requests are often not permanent, as patches are eventually made avail
 
 Once the vulnerability is remediated, apply the label `FedRAMP::DR Status::Vuln Remediated` to both the vulnerability issue and the DR issue.
 
-For issues with label `Vulnerability::Vendor Package::Will Not Be Fixed`, these shall remain open indefinitely or until no longer detected by the scanner. Keeping these issues open is important for providing the SSOT of vulnerabilities that are present.
+Issues with the label `Vulnerability::Vendor Package::Will Not Be Fixed` may be closed until a vendor patch is made available. 
 
 ## Exceptions
 There are no exceptions allowed to this procedure. 
