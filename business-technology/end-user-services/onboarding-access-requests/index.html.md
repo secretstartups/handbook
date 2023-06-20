@@ -80,7 +80,7 @@ Since these items are company property, you do not need to buy insurance for the
 
 If your laptop is broken and needs to be repaired you can take it into an Apple repair store. You should ensure that you have a recent backup before doing so, and that your laptop is not your only registered device for iCloud two-factor authentication.
 
-If the repair is not going to be too expensive (less than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
+If the repair is not going to be too expensive (less than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that uses a supported hardware OS.
 
 You must open an issue in the [End User Services Issue Tracker](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval. Please make sure to attach/include any estimates or receipts for the repair that you got from Apple (or any authorized service center) in the issue. Picture or PDF will work just fine.
 
@@ -119,24 +119,13 @@ Obtain two quotes from local retailers (online or physical).
 Email your manager with those quotes attached, requesting the funds advance and detailing the reason why (geo region, unable to have laptop delivered).
 Your manager will supply this information and follow the [process to initiate an advance](https://about.gitlab.com/handbook/finance/expenses/#team-member-expense-temporary-advances).
 
-Should a laptop not be available to a new GitLab team-member upon their start date, but is pending, interim options include:
-
-    - Using personal non-Windows hardware (Mac, Linux, Mobile)
-    - Renting and expensing non-Windows hardware
-    - Purchasing and expensing (or returning) a Chromebook
+Should a laptop not be available to a new GitLab team-member upon their start date, it is permissable for a team member to temporarily use a personal macOS or Linux laptop. 
 
 If in the rare case that your laptop arrives damaged or unusable prior to your start date, please reach out to your Candidate Experience Specialist and CC [itops@gitlab.com](mailto:itops@gitlab.com) for next steps on an immediate replacement or repair.
 
 ### Laptop Configurations
 
-GitLab approves the use of Linux, and Apple's macOS. Microsoft Windows is **prohibited** for the following reasons:
-
-- Due to Microsoft Windows' [dominance in desktop operating systems](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Desktop_and_laptop_computers), Windows is the platform most targeted by spyware, viruses, and ransomware.
-- macOS is preinstalled on Apple computers and Linux is available free of charge. To approve the use of Windows, GitLab would have to purchase Windows Professional licenses, as Windows Home Edition does not satisfy [GitLab's security guidelines](https://about.gitlab.com/handbook/security/).
-
-
-    As many purchases of laptops have occurred with employees making the purchases and then being reimbursed by GitLab, a remote employee would typically be making a purchase of a laptop pre-loaded with Windows Home Edition.
-- Windows Home Edition is notoriously [hard to secure](https://www.markloveless.net/blog/2019/1/15/dealing-with-windows-10).
+GitLab approves and supports the use of Linux and Apple's macOS as the OS for employee laptops. To keep GitLab IT Support efficient, Windows is not supported as a hardware laptop OS.
 
 Further information on GitLab authorized operating systems, versions, and exception process is available on the [Approved Operating Systems for GitLab Team Member Endpoint Systems](/handbook/it/operating-systems/) page.
 
@@ -177,9 +166,17 @@ Dell is GitLab's exclusive Linux vendor for the following reasons:
 - The current Ubuntu LTS is the preferred Linux platform; Ubuntu LTS has a record of stability and quick patching.
 - Purchasing laptops from a single vendor opens the possibility of corporate discounts.
 - [Dell is a certified Ubuntu vendor](https://certification.ubuntu.com/desktop/models?query=&category=Desktop&category=Laptop&level=&release=18.04+LTS&vendors=Dell) with multiple laptop choices available. They even have their own Ubuntu OEM release of Ubuntu they maintain, and as a result of their effort, the standard Ubuntu Linux 20.04 LTS image natively supports Dell hardware and even firmware updates.
-- To date, all of Dell's major security issues have resulted from the Windows operating system, not their hardware.
+- To date, all of Dell's major security issues have not been related to their hardware.
 
 Laptops are purchased by IT Ops during a team member's onboarding process; the team-member will be sent a form to fill out for ordering.
+
+#### Windows for Customer Support and Product Development
+
+While GitLab limits the Laptop Hardware OSes supported for team member daily work, specific roles will need to use Windows for Customer Support and Product Development to ensure excellent platform and ecosystem support for GitLab customers and partners who develop for the Microsoft Ecosystem.
+
+Microsoft Windows Professional (Desktop OS) and Windows Server may need to be used by some technical roles for supporting GitLab customer usage of Windows and developing GitLab software. These editions can be used for support and development purposes using virtualization or cloud instances and are self-supported and must be in compliance with [all endpoint policies](/handbook/it/operating-systems/), [including installation of SentinelOne](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/) as well all information in this section.
+
+Complete details about Windows usage is available on the [Approved Operating Systems for GitLab Team Member Endpoint Systems](/handbook/it/operating-systems/) page.
 
 ### Laptop Vendor Selection Criteria
 
@@ -188,6 +185,7 @@ Our current recommendations include Apple MacBook Pro running macOS and Dell Pre
 
 By its very nature, GitLab has historically been very open as a company, starting as open source and migrating from a group of coders with their own laptops to an organization that needs to protect not just their own corporate data but customer data as well.
 Having developed a Data Classification Policy and currently implementing Zero Trust, we've had to make adjustments in laptop recommendations.
+
 Our laptop vendor selection criteria is as follows:
 
 #### Team member need
@@ -198,18 +196,8 @@ Apple macOS and Dell Linux distributions meet the operating system needs.
 
 #### Security needs
 
-GitLab needs the ability to ensure a secure and stable platform.
-From an operating system perspective, macOS and Linux meet the basic needs.
-The Security team has found a slight advantage in Ubuntu as a Linux distribution due to their rapid response time when it comes to patching security flaws, and recommend this distribution.
-This is not at the exclusion of all other distributions, but this is the one we recommend.
+GitLab needs the ability to ensure a secure and stable platform. From an operating system perspective, macOS and Linux meet the needs. The Security team has found a slight advantage in Ubuntu as a Linux distribution due to their rapid response time when it comes to patching security flaws, and we recommend this distribution. It is necessary to use an [approved Linux distribution](/handbook/it/operating-systems/).
 
-In the case of Microsoft Windows, as we previously stated there are a number of reasons to restrict access from a security perspective.
-Historically, the operating system has had its share of security flaws and is a frequent target of various forms of malware.
-In fact Windows is responsible for the major share of all malware, including such items as ransomware.
-
-From a hardware point of view, we have to examine security issues such as supply chain attacks.
-Some vendors have had these issues involving the operating system, although in many cases it has been directly related to Microsoft Windows.
-However, if a vendor has had potential supply chain issues involving firmware or hardware, we will consider other vendors first.
 
 #### Compliance needs
 
