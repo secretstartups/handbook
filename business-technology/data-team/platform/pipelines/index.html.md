@@ -885,3 +885,13 @@ The [DAG](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/le
 Since each API endpoint has a `startDate` and `endDate` parameter, we can correspondingly pass in the DAG run's `execution_date` and `next_execution_date`. And since the DAG has a daily schedule, each run will return data for a 24-hour period.
 
 To do backfills for a longer period of time, it may be useful to follow the [handbook guidelines](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#backfills) on backfilling from the command line.
+
+## Omamori Extract
+The [Omamori Project](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/omamori) is a mass detection and mitigation system for Trust & Safety.
+
+The Security team moves data from the source application to an Analytics-owned [GCS bucket](https://console.cloud.google.com/storage/browser/gitlab-omamori-exported-data;tab=objects?forceOnBucketsSortingFiltering=true&project=gitlab-analysis&prefix=&forceOnObjectsSortingFiltering=false), the work was done in this [Security & Safety Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/omamori/-/issues/69).
+
+Once the upstream data is in GCS, the following steps take place, ([Analytics MR](https://gitlab.com/gitlab-data/analytics/-/merge_requests/8406)):
+- `t_omamori_external` DAG runs the following every hour:
+    - Snowflake `external table` referring to each Omamori table is refreshed
+    - dbt incremental source model is updated based on any new data in the external table
