@@ -38,6 +38,15 @@ Team Members can designate their beneficiaries in the case of death on the [AXA 
 
 Please see the Scheme Conditions in the [Unilateral Employer Decision Life & Disability document](https://drive.google.com/file/d/1hL6c5ejtlI8te9uwKbRXBR_wCyc3GoAC/view?usp=sharing)
 
+## France Holiday Bonus
+
+Eligible France Team Members will recieve an Holiday Bonus annually. The Holiday Bonus is paid once a year during the June Payroll. 
+
+The bonus is 1% of Total Gross Compensation that was paid through the prior 12 month period (June 1st to May 31st). Variable compensation such as bonus, commission, and overtime are included in the total compensation calculation. 
+
+The Holiday Bonus is taxable, and subject to social charges and income tax. Team Members must be employed in the month of June to recieve the annual bonus. 
+
+
 ## Gitlab France S.A.S. Parental Leave
 
 ### Statutory Parental Leave
