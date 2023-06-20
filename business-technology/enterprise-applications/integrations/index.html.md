@@ -16,30 +16,28 @@ title: "Enterprise Applications Integrations"
 ## Enterprise Applications Integrations
 #### Quick links
 
-1. [Milestone board](https://gitlab.com/groups/gitlab-com/-/boards/1937586){:target="_blank"}
 1. [Integrations Work tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues){:target="_blank"}
-1. [Integrations Platform (Platypus)](./platypus){:target="_blank"}
+1. [Automation-Integration Inventory](https://docs.google.com/spreadsheets/d/1mGeG2ClY8GHz2RZUpu-5FN0wUPCaw1o2bWEGtS0qLXE/edit?usp=sharing)
 1. [Workato Playbook](./workato-playbook){:target="_blank"}
 1. [Change Management](./change-management){:target="_blank"}
-1. [Platypus Integrations Wiki](./wiki){:target="_blank"}
+1. [Integrations Wiki](./wiki){:target="_blank"}
 
 #### Quick Reference: Integration Docs
-- [Product Qualified Leads](./wiki/integrations-list/product-qualified-leads-integration)
-- [Zuora Revenue to NetSuite](./wiki/integrations-list/zuora-revenue-to-netsuite)
-- [Zuora CICD](./wiki/integrations-list/zuora-ci-cd)
-- [Distributor (Disty) Orders API](./wiki/integrations-list/distributor-api)
-- [Marketing Data Pump field mapping change checklist](./wiki/integrations-list/marketing-data-pump-field-mapping-change-checklist)
-- [Zuora-CI-CD: code changes info](./wiki/integrations-list/zuora-ci-cd-code-changes-info)
+- [GreenHouse to Workday](./wiki/integrations-list/greehouse-workday/)
+- [Rolly Automation](./wiki/integrations-list/rolly-updates-automation/)
+- [Zuora Billing <> NetSuite](./wiki/integrations-list/zuora-billing-netsuite/)
+- [Workday > Navex Gloabl](./wiki/integrations-list/workday-navex-gloabl/)
+
 
 ## How we work
 To learn about our processes please visit the [How We Work](./how-we-work) page
 
 ## Who are we?
 
-### Daniel Parker - Senior Integrations Engineer
-GitLab handle: [@dparker](https://gitlab.com/dparker){:target="_blank"}
+### Dennis  - Senior Integrations Engineer
+GitLab handle: [@dgriffin4](https://gitlab.com/dgriffin4){:target="_blank"}
 
-Slack handle: [@dparker](https://gitlab.slack.com/team/U01760T6R6Y){:target="_blank"}
+Slack handle: [@dgriffin4](https://gitlab.slack.com/team/U052E2AGY3F){:target="_blank"}
 
 Job Family: [Integrations Engineer](https://handbook.gitlab.com/job-families/finance/integrations-engineer/#senior-integrations-engineer){:target="_blank"}
 
@@ -50,10 +48,10 @@ Slack handle: [@Karuna Singh](https://gitlab.slack.com/team/U01GEHXQZEK){:target
 
 Job Family: [Integrations Engineer](https://handbook.gitlab.com/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
 
-### Dominic Roy-Stang - Integrations Engineer
-GitLab handle: [@droystang](https://gitlab.com/droystang){:target="_blank"}
+### Durgesh Thakkar - Senior Manager, Integrations Engineering
+GitLab handle: [@dthakkargit](https://gitlab.com/dthakkargit){:target="_blank"}
 
-Slack handle: [@droystang](https://gitlab.slack.com/team/U01JM8ZJUVD){:target="_blank"}
+Slack handle: [@dthakkargit](https://gitlab.slack.com/team/U053SBVN3EX){:target="_blank"}
 
 Job Family: [Integrations Engineer](https://handbook.gitlab.com/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
 
@@ -63,20 +61,9 @@ Slack: `#bt-integrations`
 ## What do we do?
 We are the team that designs, builds and maintains the complex ecosystem of integrations and automations that exist in our Enterprise Applications ecosystem. We do this via the use of a hybrid integrations platform. We also fill a governance role in the organization for system integrations and real-time data flow by applying [standards and conventions](#standards-and-conventions) for all of our Enterprise Application systems and integrations.
 
-### GitLab's Hybrid Integrations Platform
-<p style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus" target="_blank">
-        <img style="padding: 5px" src="https://camo.githubusercontent.com/c704e8013883cc3a04c7657e656fe30be5b188145d759a6aaff441658c5ffae0/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667" width="400px">
-    </a>
-    <i class="fas fa-plus" style="font-size: 2em; margin-top: 10px; margin-bottom: 10px"/>
-    <a href="https://www.workato.com/" target="_blank">
-        <img style="background-color: #000; padding: 5px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMTIzJyBoZWlnaHQ9JzIwJyBmaWxsPSdub25lJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjxwYXRoIGZpbGwtcnVsZT0nZXZlbm9kZCcgY2xpcC1ydWxlPSdldmVub2RkJyBkPSdNMzIuMzUxIDIuMjY3YzEuMTcgMS45MS42MDcgNC40MzYtMS4yNzkgNS42MjgtMS4yNTYuNzk1LTIuNzY3Ljc4NC0zLjk4OC4xNTJsLS4wMi0uMDA4LS4wMi0uMDA5YTEuNjY4IDEuNjY4IDAgMDAtLjQzMi0uMTE0IDEuNzMzIDEuNzMzIDAgMDAtLjc1LjA3MmwtLjAxNC4wMDRhMS45NCAxLjk0IDAgMDAtLjM5OS4xOTkgMS43OCAxLjc4IDAgMDAtLjU2NyAyLjQwM2wxLjg2OCAzLjA0OGMxLjE3IDEuOTA5LjYwNyA0LjQzNi0xLjI3OSA1LjYyOGEzLjk2NyAzLjk2NyAwIDAxLTUuNTI3LTEuMzAzbC0xLjgzMi0yLjk5Yy0uNTEtLjgyOC0xLjU4Mi0xLjA4MS0yLjM4NC0uNTYzYTEuNzY4IDEuNzY4IDAgMDAtLjgxMyAxLjQ3MnYuMDE4YzAgMS4zNjgtLjY2MSAyLjcwMy0xLjg4NiAzLjQ3NmEzLjk2NyAzLjk2NyAwIDAxLTUuNTI3LTEuMzAyTC42MSA2Ljg0NEMtLjU2IDQuOTM1LjAwMyAyLjQwOCAxLjg5IDEuMjE3YTMuOTY3IDMuOTY3IDAgMDE1LjUyNiAxLjMwMkw5LjI1OCA1LjUyYy41MDQuODIgMS41NiAxLjA3NyAyLjM2LjU3OGwuMDI0LS4wMTVjLjUxLS4zMi43OTEtLjg3Mi44MTMtMS40MzRhNC4wOSA0LjA5IDAgMDExLjg4Ni0zLjUzMiAzLjk2NyAzLjk2NyAwIDAxNS41MjcgMS4zMDNsMS44NTMgMy4wMjNjLjUxLjgyOCAxLjU4MiAxLjA4MSAyLjM4NC41NjMuMTktLjEyMS4zNjUtLjMzLjUyNy0uNjI1YTEuNDMgMS40MyAwIDAxLjAxNy0uMDM3Yy4xMTItLjIxNy4xODQtLjM4OS4yMTYtLjUxNS4wMzEtLjEyMy4wNTQtLjI0LjA2OC0uMzU1LjE0Ny0xLjU2My42Ny0yLjcyNiAxLjg5LTMuNTA5YTMuOTY3IDMuOTY3IDAgMDE1LjUyOCAxLjMwMnonIGZpbGw9JyM2N0VBREQnLz48cGF0aCBkPSdNNDMuMTA0IDE3LjgzNmwyLjgwMi04LjE4OCAyLjkyNSA4LjE4OGgyLjA4OGw0LjIwMy0xMS41NTNoLTIuNzAzbC0yLjY4IDcuNzkzLTIuNjUzLTcuNzkzaC0yLjM2bC0yLjY1NCA3Ljc5My0yLjY1NC03Ljc5M2gtMi43MDNsNC4zMjUgMTEuNTUzaDIuMDY0em0xOC40MjQuMjQ3YzMuMjY4IDAgNi4wMi0yLjQgNi4wMi02LjA2IDAtMy42NjItMi43NTItNS45ODctNi4wMi01Ljk4Ny0zLjI0NCAwLTUuOTcyIDIuMzI1LTUuOTcyIDUuOTg2IDAgMy42NjIgMi43MjggNi4wNjEgNS45NzIgNi4wNjF6bTAtMi40NzRjLTEuODkyIDAtMy40NjUtMS40MS0zLjQ2NS0zLjU4NyAwLTIuMTI3IDEuNTcyLTMuNDg4IDMuNDY1LTMuNDg4IDEuOTE3IDAgMy40OSAxLjM2MSAzLjQ5IDMuNDg4IDAgMi4xNzctMS41NzMgMy41ODctMy40OSAzLjU4N3ptMTAuNTM1IDIuMjI3VjEzLjY4YzAtMy4wNjguOTA5LTUuMjQ1IDMuMDcxLTUuMjQ1LjQ5MiAwIDEuMDU3LjA3NSAxLjY5Ni4zOTZsLjQxOC0yLjM1Yy0uMzY5LS4yNDctMS4yMjktLjQ0NS0yLjA0LS40NDUtMS40MjUgMC0yLjU1Ni44NDEtMy4xNDUgMi44OTRWNi4yODNINjkuNTN2MTEuNTUzaDIuNTMxem04Ljk2MSAwdi00LjU4MWw0LjI2NCA0LjU4aDMuMzE4bC01LjQ0NC01Ljc0MyA1LjQ0NC01LjgwOWgtMy4zMThsLTQuMjY0IDQuNTk3VjBoLTIuNTA2djE3LjgzNmgyLjUwNnptMTMuNTA5LjI0N2MxLjQyNSAwIDMuMDk2LS42NDMgMy44NTgtMS45MDV2MS42NThoMi41MDdWNi4yODNoLTIuNTA3djEuNjMzYy0uNzg3LTEuMzExLTIuNDgyLTEuODgtMy44NTgtMS44OC0zLjA5NyAwLTUuODI1IDIuMzI1LTUuODI1IDYuMDExczIuNzI4IDYuMDM2IDUuODI1IDYuMDM2em0uMjk0LTIuNDc0Yy0xLjkxNiAwLTMuNTE0LTEuNDYtMy41MTQtMy41ODcgMC0yLjEyNyAxLjU5OC0zLjUxMiAzLjUxNC0zLjUxMiAxLjcyIDAgMy41NCAxLjIzNyAzLjU0IDMuNTEyIDAgMi4yNzYtMS42NzIgMy41ODctMy41NCAzLjU4N3ptMTIuMjMxIDIuMjI3di05LjQ1aDIuNDMzVjYuMjgzaC0yLjQzM1YxLjkwNWgtMi41MzF2NC4zNzhoLTIuMDY1djIuMTAzaDIuMDY1djkuNDVoMi41MzF6bTkuMDYuMjQ3YzMuMjY4IDAgNi4wMjEtMi40IDYuMDIxLTYuMDYgMC0zLjY2Mi0yLjc1My01Ljk4Ny02LjAyMS01Ljk4Ny0zLjI0NCAwLTUuOTcyIDIuMzI1LTUuOTcyIDUuOTg2IDAgMy42NjIgMi43MjggNi4wNjEgNS45NzIgNi4wNjF6bTAtMi40NzRjLTEuODkyIDAtMy40NjUtMS40MS0zLjQ2NS0zLjU4NyAwLTIuMTI3IDEuNTczLTMuNDg4IDMuNDY1LTMuNDg4IDEuOTE3IDAgMy40OSAxLjM2MSAzLjQ5IDMuNDg4IDAgMi4xNzctMS41NzMgMy41ODctMy40OSAzLjU4N3onIGZpbGw9JyNmZmYnLz48L3N2Zz4=" height="50px"/>
-    </a>
-</p>
 
-At GitLab we have a hybrid integrations platform philosophy called Platypus. Platypus is built with two tools; Nest.js and Workato. [Nest.js](https://nestjs.com/){:target="_blank"} is an open source Node.js backend application framework. In addition to Nest.js we also use an IPaaS platform called [Workato](https://www.workato.com/){:target="_blank"} that brings us out of the box connectors and recipes for common application integrations.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R-el26goNgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Workato - Integration Platform
+Workato is low code - no code integrtaion platform in which we can create automations, integrations and APIs for all the integration needs. For more please visit the platform (page)[https://www.workato.com/]
 
 ### Capabilities & Offerings
 #### System Integrations and APIs
@@ -109,7 +96,7 @@ Through our integration with Workato we are able to offer out of the box connect
 We ship logs from all of our integrations to a central location which allows us to quickly and easily debug problems with integrations, as well as trigger automated alerts for system outages and errors.
 
 #### Security
-The Platypus integrations platform provides out of the box solutions for common authentication and authorization requirements that we frequently encounter. We can also provide guarantees about data security at rest and in-flight through regular application security audits as well as CI/CD driven SAST and DAST testing that exposes critical vulnerabilities to us before code reaches production.
+The Workato integrations platform provides out of the box solutions for common authentication and authorization requirements that we frequently encounter. We can also provide guarantees about data security at rest and in-flight through regular application security audits as well as CI/CD driven SAST and DAST testing that exposes critical vulnerabilities to us before code reaches production.
 
 We are set up to handle [Red, Orange and Yellow data](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-levels) so that you don't need to worry about that when we're building out your integrations.
 
