@@ -80,6 +80,17 @@ If you are temporarily working hours different to your usual schedule, you can u
 1. In the `Schedule` > `Default Hours` area, use the `TIME ZONE` dropdown to select your updated timezone. Changes are automatically saved.
 1. Set a calendar reminder for yourself, to reset your timezone when your working hours have reverted to usual. 
 
+### Set the minimum amount of notice that is required for an event
+
+You can specify scheduling conditions that disallow scheduling events within a configurable interval
+of an event start time.
+
+1. Log in and edit the event type
+1. Click `When can people book this event`
+1. Click `Additional rules for your availability`
+1. Under `Scheduling conditions`, select a time interval under `Invitees can't schedule within...`
+1. Click `Save & Close`
+
 ## Support calls in the team calendar
 
 We copy customer calls to the *GitLab Support* Google calendar using a [Zapier zap](https://zapier.com/app/editor/33897756?redirect=true). For this to work
