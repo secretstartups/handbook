@@ -150,7 +150,7 @@ IT strongly encourages team members to select Macs; please only request a Linux 
 {: .alert .alert-info}
 
 **Below are roles that qualify for Linux Laptops**
--  Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are eligible for Dell Precision Mobile Workstation laptops from the 5500 or 5700 lines. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [15.6” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/shop/laptops/new-15-5560-workstation/spd/precision-15-5570-laptop).
+-  Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers, and Digital Production are eligible for Dell Precision Mobile Workstation laptops from the 5500 line. Due to supply constraints, specific models available from these lines my vary. IT will work with each person to find an available model meeting the following specifications: [15.6” display / 512 GB SSD / 32 GB of RAM / Intel i9 or i7 CPU](https://www.dell.com/en-us/shop/laptops/new-15-5560-workstation/spd/precision-15-5570-laptop).
 
 
 \*\*NOTE: The maximum price of Linux laptops is not to exceed **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model a minimum of 14 days, based on your locality, prior to your desired date to receive.
