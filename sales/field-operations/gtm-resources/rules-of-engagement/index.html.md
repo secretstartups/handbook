@@ -65,32 +65,31 @@ Account ownership will be determined by the Sales Segment and Address.  All chil
 **The following two policies apply to account ownership in the middle of the Fiscal year:**
 
 1. **Feb 1st Confirmed Segment** applies to when an Account is accurately aligned to the correct segment and owner at the beginning of the year based on employee count. During the year, if there is an increase or decrease to employee count, the Account will NOT be moved to a new segment or owner until the subsequent year. 
-<<<<<<< sites/handbook/source/handbook/sales/field-operations/gtm-resources/rules-of-engagement/index.html.md
     - Upon discovery of inaccurate data (examples: bad data, wrong parent account) resulting in incorrect assignment, the SAE/AE is to partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunities (Closed in the last 90 days)  ownership to the correct SAE/AE. 
 
-    When does this policy apply? 
-(1)  FY24 move if accounts were assigned based on inaccurate data.
-(2)  FY25 move if organic growth warrants an Account to move segments/owners.
-(3)  Applies to ENT Named and Major Accounts; Excludes MM Named Accounts.
+    **When does this policy apply?** 
 
-Use Case(s):  
-(1)  Employee count data was inaccurate and the Account should align to a new segment, reassigned in FY24.
-(2)  ZoomInfo enriched the Account and the employee count increased and now it aligns to the Enterprise segment. No change to account assignment in FY24, but it will be reassigned to the correct segment in FY25.
-(3)  Data was accurate for the Feb 1st Confirmed Segment and the number of employees changes (up or down), and the Account is stale (no documented activity). The Account moves in FY25.
+    1. FY24 move if accounts were assigned based on inaccurate data.
+    2. FY25 move if organic growth warrants an Account to move segments/owners.
+    3. Applies to ENT Named and Major Accounts; Excludes MM Named Accounts.
+
+    **Use Case(s):** 
+
+    1. Employee count data was inaccurate and the Account should align to a new segment, reassigned in FY24.
+    2. ZoomInfo enriched the Account and the employee count increased and now it aligns to the Enterprise segment. No change to account assignment in FY24, but it will be reassigned to the correct segment in FY25.
+    3. Data was accurate for the Feb 1st Confirmed Segment and the number of employees changes (up or down), and the Account is stale (no documented activity). The Account moves in FY25.
 
 2. **Stale Accounts Exception to Feb 1st Confirmed Segment** implies (i) when an Account's employee count deems it should move segments and there has been no SFDC activity records logged within the last 9 weeks, there's no open opportunity and/or close plan prior to a request from the receiving SAE/AE, the team should collaborate to move the Account immediately to the new owner. Activity is defined as bi-directional email exchange, phone calls; meetings (zoom or in-person),updated Command Plan, Next Steps, and Next Steps date.(ii) Stale Accounts with churn expected during the current FY, which is either known or should reasonably be known by the SAE/AE should remain with the existing SAE/AE through the end of the FY.
+    
+    **When does this policy apply?** 
 
-When does this policy apply? 
-(1)  If it is confirmed there has been no activity documented in SFDC in the last 9 weeks and no open opportunity, the team should collaborate and move the Account immediately in FY24.
-(2)  If mutual agreement between the SAE/AE and a key individual in the Account (i.e. COO, CTO) is reached to re-engage at a later date and such agreement is documented in the Command Plan, the Account does not move.  
-(3)  Applies to Named or Major Accounts.
+    1. If it is confirmed there has been no activity documented in SFDC in the last 9 weeks and no open opportunity, the team should collaborate and move the Account immediately in FY24.
+    2. If mutual agreement between the SAE/AE and a key individual in the Account (i.e. COO, CTO) is reached to re-engage at a later date and such agreement is documented in the Command Plan, the Account does not move.  
+    3. Applies to Named or Major Accounts.
 
-Use Case(s):  
-Account Demographic data indicates the Account should move segments, and there is no documented activity on the Account, the Account moves in FY24.
-=======
-    - Upon discovery of inaccurate ZoomInfo data (examples: bad data, wrong parent account) resulting in incorrect assignment, the SAE/AE is to partner with Sales Support to immediately transfer the Account and open or improperly closed won opportunity ownership to the correct SAE/AE. 
-2. **Stale Accounts Exception to Feb 1st Confirmed Segment** implies (i) when an Account's employee count deems it should move segments and there has been no SFDC activity records logged within the last 9 weeks, there's no open opportunity and/or close plan prior to a request from the receiving SAE/AE, the team should collaborate to move the Account immediately to the new owner. (ii) Accounts with churn expected during the current FY, which is either known or should reasonably be known by the SAE/AE should remain with the existing SAE/AE through the end of the FY.
->>>>>>> sites/handbook/source/handbook/sales/field-operations/gtm-resources/rules-of-engagement/index.html.md
+    **Use Case(s):**  
+
+    1. Account Demographic data indicates the Account should move segments, and there is no documented activity on the Account, the Account moves in FY24.
 
 **Important Notes**
 - Non-compliance to these policies goes against the GitLab values and it will be up to the SAE or AE Leadership Team's discretion as to applicable disciplinary action.
@@ -102,22 +101,11 @@ Account Demographic data indicates the Account should move segments, and there i
 
 All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](https://about.gitlab.com/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
 
-### Named Account
-
-<<<<<<< sites/handbook/source/handbook/sales/field-operations/gtm-resources/rules-of-engagement/index.html.md
+#### Named Account
 An account that is owned by a Sales Rep with a headquarters outside of his or her designated geographical territory. Named accounts are identified by the Named Account Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Executive (SAE) or Account Executive (AE) along with all records (LEADS and CONTACTS) associated with that Named Account and any related Child accounts within or added to SFDC. Upon discovery of data inaccuracies in Named accounts, sales-support should be engaged to review the data and move the account, if applicable, following the February 1st Confirmed Segment and Stale Accounts Exception policies.
 
-### Major Account
+#### Major Account
 An account that is owned by a Major Account Executive, this account can be headquarters outside of his or her designated geographical territory. Major accounts will be reviewed annually to determine if any ownership changes are required. Upon discovery of data inaccuracies in Major accounts, sales-support should be engaged to review the data and move the account, if applicable, following the February 1st Confirmed Segment and Stale Accounts Exception policies.
-=======
-An account that is owned by a Sales Rep with a headquarters outside of his or her designated geographical territory. Named accounts are identified by the Named Account Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Executive (SAE) or Account Executive (AE) along with all records (LEADS and CONTACTS) associated with that Named Account and any related Child accounts within or added to SFDC.  Named accounts will be reviewed annually to determine if they should be moved to the Global Account Owner at that time or remain Named. 
->>>>>>> sites/handbook/source/handbook/sales/field-operations/gtm-resources/rules-of-engagement/index.html.md
-
-
-<<<<<<< sites/handbook/source/handbook/sales/field-operations/gtm-resources/rules-of-engagement/index.html.md
-=======
-An account that has been identified as important for the Area, Region and Segment and where we want to focus our sales efforts. Key Accounts may also be marked as Named Accounts. Each Strategic Account Executive should have 15-20 Key Accounts on average in their territory.  Key Accounts are identified at the beginning of the fiscal year by the ASM, RD or VP of the specific region and will be reviewed annually. Any changes to the Key Accounts list would need to be reviewed and approved by ASM, RD and VP of the region. The 'Key Account' field will be checked for these accounts.
->>>>>>> sites/handbook/source/handbook/sales/field-operations/gtm-resources/rules-of-engagement/index.html.md
 
 #### Public Sector Account: 
 
@@ -127,14 +115,14 @@ An account that is identified as Public Sector Worldwide. Once identified, the a
 
 Mid-Market accounts are covered by three Sales motions: First Order (New Business) accounts, Named accounts, and Territory accounts:
 - **First Order Accounts:** Targeted high-potential prospect accounts, assigned to First Order Account Executives until the initial transaction is closed.
-    - **Criteria:** Account hierarchies with no active subscription (now or within the last 180 days), and 500+ Employees.
 - **Named Accounts:** High potential accounts with an active subscription, that we're looking to expand with dedicated sales resources. These accounts are nominated through both quantitative & qualitative analysis in Annual Planning for their growth potential. In addition, all `First Order` accounts will be passed over as a `Named Account` once an initial deal is closed won. It's important this transition occurs in a timely manner after initial deal closure, to start business expansion efforts ASAP.
-- **Territory Accounts:** All remaining Mid-Market accounts are considered Territory Accounts and will be worked by the Territory AE. This includes Prospects (100-499 employees), and Customers not marked as a Named Account.
+- **Territory Accounts:** All remaining Mid-Market accounts are considered Territory Accounts and will be worked by the Territory AE.
 
 #### Override Hierarchy Routing:
 
 An account that is owned by a local account rep regardless of the Global Account Leader. We must have agreement from both ASMs via SFDC Chatter in order to move an account to a different owner than the Global Account rep. Split hierarchies will be reviewed annually to determine if they should be moved to the Global Account Rep at that time.
-    - **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
+
+- **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
 
 #### Holdover Accounts:
 
@@ -159,19 +147,19 @@ Accounts that are categorized as an independent Franchise or Consultant are cons
 
 #### Newly Updated Accounts
 
-Accounts that have had employee count and/or address information updated that would require a region or segment change, timing on when the account will move will follow the February 1st Confirmed Segment and Stale Accounts Exception policies. If the change is due to organizational changes (i.e Merges and acquisitions), if the org change happened during this FY, the account will move to the correct owner next FY.
+Accounts that have had employee count and/or address information updated that would require a region or segment change, timing on when the account will move will follow the February 1st Confirmed Segment and Stale Accounts Exception policies. If the change is due to organizational changes (i.e Merges and acquisitions) and the org change happened during this FY, the account will move to the correct owner next FY.
 
-Use Case(s):  
-(1)  Account data was accurate and there was an acquisition. The Account gets realigned to the correct Ultimate Parent in FY25. If the child account being acquired is stale, the Stale Accounts Exception policy applies.  
+**Use Case(s):**
+1. Account data was accurate and there was an acquisition. The Account gets realigned to the correct Ultimate Parent in FY25. If the child account being acquired is stale, the Stale Accounts Exception policy applies.  
 
 #### Net New Accounts 
 
 Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. Only Sales Operations has the ability to create new accounts because they must be parented and processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the Steps to create an issue for an account list import. To request a new account be created that is not from an enrichment tool or a list load please open an issue in the Sales Operations Project.
 
 **Sales Admin Owned Accounts**: When new accounts are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
-     - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process
-     - For accounts without known attributes (employees and location not identified), the account is manually reviewed by Sales Operations twice weekly and assigned to the correct owner.
-     - If Sales Operations is unable to identify enough attributes to correctly assign the account, it will remain in Sales Admin owned and allocated to SMB for crediting.
+- For accounts with known attributes (employees and location), the account gets routed to the correct owner via the Account Demographics process
+- For accounts without known attributes (employees and location not identified), the account is manually reviewed by Sales Operations twice weekly and assigned to the correct owner.
+- If Sales Operations is unable to identify enough attributes to correctly assign the account, it will remain in Sales Admin owned and allocated to SMB for crediting.
 
 All Embargoed Accounts will remain in Sales Admin per ROE for Banned Countries
 
@@ -194,33 +182,12 @@ _Any request to transfer an account for any reason must follow the outlined exce
      - **Spirit of Collaboration:** All requests and or actions must adhere to the [GitLab Value of “Collaboration”](https://about.gitlab.com/handbook/values/#collaboration) and proactively communicate the inquiry and/or intent to **_all parties affected._**
      - **Indisputable:** Requestor must provide evidence with supporting links.
      - **Final Decision:** For a final decision on account ownership, the current and next Area Sales Manager must both agree to transfer of ownership. If consensus cannot be reached by Area Sales Managers it will continue to escalate up the sales chain to the VP level if necessary.
-<<<<<<< sites/handbook/source/handbook/sales/field-operations/gtm-resources/rules-of-engagement/index.html.md
 2. **Step 2**: Chatter @sales-support with the request to have the account transferred and provide all supporting documentation. Chattering @sales-support will create a case in Salesforce for the Sales Operations team to review. Only one tag and case is required for each request.
-=======
-     - **Notify Sales Support:** Consensus must be met by all parties prior to asking for a transfer. Chatter @sales-support with the request to have the account transferred and provide all supporting documentation. Chattering @sales-support will create a case in Salesforce for the Sales Operations team to review.
-     - **Timing for Submitting Requests:** Dates for submittal, black out periods and moves will be posted on the [Field Operation's Calendar](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-we-work)
-          1. First week of Q2 (reactive) moves: Requests that come from the field
-          1. First week of Q3 (proactive) moves: Sales Ops does a review and cleans up accounts + addresses field requests
-          1. First week of Q4 (reactive) moves: Requests that come from the field
-          1. First week of Q1 no moves, FY planning will address moves   
-2. **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
-     - **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales    Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will either be moved immediately or marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Accounts that have CARR must be flagged to be reviewed at the quarter to review the sum of CARR on all of the AEs accounts requested to move.If the sum of CARR for all requested accounts is under $50K the accounts can be moved as agreed upon. If the sum of CARR for all requested accounts is over $50K Sales Operations will work with Sales Strategy to evaluate the potential impact on AEs quota and work directly with the ASM an accounts will remain with the current owner until a decision is made. Flagged accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
-     - **Sales Operations Immediate and Quarterly Account Review Process** 
-             1. Accounts that can be moved immediately by Sales Operations: 
-                 1. Public Sector accounts owned by non-Public Sector AEs/SAEs 
-                 1. Non-Public Sector accounts owned by Public Sector SAEs
-                 1. EDU/OSS/Startups accounts owned by a Community Programs team member 
-                 1. Web directs that are enriched with inaccurate data resulting in incorrect accounts assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
-                 1. Newly created accounts with inaccurate data resulting in incorrect account assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
-                 1. First Order Accounts owned by the Mid-Market or SMB First Order team that have an initial Closed Won opportunity. These Accounts should be transitioned as Named Accounts to the corresponding Account Executive as indicated in the Proposed Account Owner field.  
-                 1. Accounts owned by SDRs, Sales Administrator or any other non sales role
-             2. Accounts that will be marked for quarterly review and moved at the quarter with approvals: 
-                 1. Prospects with open opportunities
-                 1. Customer accounts - Sales Operations will not immediatly move accounts due to total CARR value of all requested account moves by a rep per quarter. If a rep requests accounts accumulating in over $50K of CARR to be transferred will require a review of remaining accounts to ensure quota is not affected
->>>>>>> sites/handbook/source/handbook/sales/field-operations/gtm-resources/rules-of-engagement/index.html.md
+ 
+3. **Step 3 - Sales Operations Process:** Timing and process for account escalation review and moves.
+     - **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. 
+     
 
-2. **Step 1 - Sales Operations Process:** Timing and process for account escalation review and moves.
-     - **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. As per the  February 1st Confirmed Segment and Stale Accounts Exception policies, the account will either move immediately.
    </details>
 
 #### Holdover Accounts
@@ -240,14 +207,12 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 1. **Opportunity Ownership:** 
     1. Only active Field Sales (AE/SAE) members can own opportunities. The exceptions to this rule include:
         1. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
-<<<<<<< sites/handbook/source/handbook/sales/field-operations/gtm-resources/rules-of-engagement/index.html.md
-            - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Commumity Programs team member manages the relationship.
-        1. **Reseller opportunities**: which can be owned by the AE or channel manager
-=======
+           - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Commumity Programs team member manages the relationship.
+       1. **Reseller opportunities**: which can be owned by the AE or channel manager
             - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE/SAE owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Commumity Programs team member manages the relationship.
-        1. **Reseller opportunities**: which can be owned by the AE/SAE or channel manager
->>>>>>> sites/handbook/source/handbook/sales/field-operations/gtm-resources/rules-of-engagement/index.html.md
-    1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
+        1. **Reseller opportunities**: which can be owned by the AE/SAE or channel manager:
+
+        1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
         1. Those noted in the aforementioned section
         1. Holdover opportunities
         1. When an Renewals Manager or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAE
