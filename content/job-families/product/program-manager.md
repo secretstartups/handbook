@@ -1,4 +1,7 @@
-# Product Program Manager
+---
+title: "Product Program Manager"
+description: "This role supports cross-division initaitives across PM, UX and other functions within R&D"
+---
 
 Driving operational efficiency for the Product Division. The Program Manager, Product is responsible for supporting cross-division initiatives across Product Management and User Experience along with supporting initiatives cross functionally across all of R&D.
 
