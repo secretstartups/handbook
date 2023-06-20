@@ -39,7 +39,6 @@ Deliver cross-functional revenue globalization priority frameworks and committed
 | Working Group Role    | Person                   | Title                                           |
 |-----------------------|--------------------------|-------------------------------------------------|
 | Executive Sponsor     | Michael McBride          | CRO                                             |
-| Facilitator / DRI     | David Hong               | VP, Field Operations                            |
 | Member                | Jake Bielecki            | VP, Sales Strategy & Analytics                  |
 | Member                | Jack Caine               | Sr Manager, Sales Strategy                      |
 | Member                | Alex Cohen               | Director, GTM Planning & Ops                    |

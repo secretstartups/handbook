@@ -36,6 +36,6 @@ Add Epic...
 | Working Group Role    | Person                | 
 |-----------------------|-----------------------|
 | Facilitator           | Chase Wright          | 
-| Functional Lead(s)    | Craig Mestel, David Hong|
+| Functional Lead(s)    | Craig Mestel          |
 | Member                | Israel Weeks, Jack Brennan, James Harrison, Jamie Cary, Kat Tam, Matt Benzaquen | 
 | Executive Stakeholder | Michael McBride, Paul Machle |
