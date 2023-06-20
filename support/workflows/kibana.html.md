@@ -267,7 +267,7 @@ If no error is found and the import is partial, most likely it is a timeout issu
 
 ### Identify cause of IP Blocks
 
-There are some useful tips [here](../ip-blocks.html) about searching kibana for errors related to IP blocks.
+There are some useful tips [here](ip-blocks.html) about searching kibana for errors related to IP blocks.
 
 #### Known Import Issues
 
