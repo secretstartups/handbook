@@ -240,13 +240,13 @@ The PM should also make a determination if certain bugs should be immediately cl
 
 The PM should use the Triage Report generated and sent through email as one of the sources of untriaged bugs that need screening. Another source is any bug with the `group::geo` tag that does not have a workflow label. 
 
-Once a Bug is under screening, it can be labelled with `workflow::problem validation`. If during screening the DRI needs to ask for more information, the bug can be labelled with `awaiting feedback`
+Once a Bug is under screening, it can be labelled with `geo::planning` and `workflow::problem validation`. If during screening the DRI needs to ask for more information, the bug can be labelled with `awaiting feedback`
 
 Once the bug has passed screening it should be relabelled to `workflow::solution validation`. 
 
 Bugs that have been screened should meet the following criteria:
 
-- Labelled with: `group::geo` and `workflow::solution validation`
+- Labelled with: `group::geo`, `geo::planning` and `workflow::solution validation`
 - A `severity` label has been set
 - The body of the issue is fully completed with the template information cited above
 - Should no longer have an `awaiting feedback` label
@@ -260,7 +260,7 @@ Bugs that have gone through screening can then be assessed by the engineer that 
 * Devise a high-level possible resolution approach and identify the type of bug it is
 * Roughly estimate the effort for resolution by assigning a weight
 
-The backlog from where the DRI engineer works are all bugs labelled with `group::geo` and `workflow::solution validation`. These are the bugs that have gone through screening. 
+The backlog from where the DRI engineer works are all bugs labelled with `group::geo`, `geo::planning` and `workflow::solution validation`. These are the bugs that have gone through screening. 
 
 When trying to reproduce, the engineer may recruit help from the QA stable counterpart if needed (e.g. to get help setting up a test framework and/or environment that meets the conditions to reproduce the problem).
 
@@ -270,7 +270,7 @@ Once the engineer has been able to reproduce and assigned a weight, the bug shou
 
 Bugs that have been technically assessed should meet the following criteria:
 
-- Labelled with: `group::geo` and `workflow::scheduling`
+- Labelled with: `group::geo`, `geo::planning` and `workflow::scheduling`
 - A `bug::<subtype>` label has been assigned
 - The severity label has been updated (if necessary) according to workaround options found
 - Weight value has been assigned
