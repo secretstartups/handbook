@@ -449,7 +449,7 @@ If a customer submits an emergency case outside the [working hours of Federal Su
 
 ## GitLab Dedicated Emergencies
 
-Emergencies from [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/) come through the Customer Emergency On Call rotation. The [GitLab Dedicated Handbook](/handbook/support/workflows/dedicated.html) has information about [working with logs](/handbook/support/workflows/dedicated.html#working-with-logs) and a section on [escalating emergency issues](/handbook/support/workflows/dedicated.html#escalating-an-emergency-issue).
+Emergencies from [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/) come through the Customer Emergency On Call rotation. The [GitLab Dedicated Handbook](/handbook/support/workflows/dedicated_overview.html) has information about [working with logs](/handbook/support/workflows/dedicated_logs.html) and a section on [escalating emergency issues](/handbook/support/workflows/dedicated_overview.html#escalating-an-emergency-issue).
 
 ## Special handling notes
 
