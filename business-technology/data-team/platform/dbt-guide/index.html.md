@@ -1637,7 +1637,7 @@ Increasing the warehouse size will not always mean an increase in performance an
 See the [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/infrastructure/upgrading_dbt_version.md) for instructions on how to independently and asyncronously upgrade dbt.
 
 ### Staying up to date
-Our policy is that we should never be more than one minor release behind for [`dbt-core`](https://docs.getdbt.com/docs/core-versions). So for example, if v1.3.1 is the most recent release, we should be running at least v1.2.0.
+Our policy is that we should always be on a version of [`dbt-core`](https://docs.getdbt.com/docs/core-versions) that does have critical support. Check the linked schedule to see planned releases and support windows. For minor releases that are released while we are still on a version with critical support, we will evaluate on a quarterly basis to determine whether the minor release warrants an update.
 
 When a major release happens, we should upgrade to the new major version before the second minor release on the new major version. So for example, we should be on v2.0.0 _before_ v.2.2.0 is released. The extra time allowance is in place to account for breaking changes between major versions.
 
