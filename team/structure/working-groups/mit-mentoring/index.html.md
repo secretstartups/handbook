@@ -32,7 +32,6 @@ Deliver Minorities in Tech (MIT) Mentoring Program aligning with the MIT TMRG Me
 | Facilitator                     | Sharif Bennett         |  Mid Market Account Executive |
 | Engineering Lead | Darva Satcher           | Create Engineering Manager, Editor & Knowledge                           |
 | Digital Production Lead | Aricka Flowers           | Manager, Digital Production                           |
-| Executive Stakeholder           | David Hong         | VP of Field Operations             |
 | Executive Stakeholder           | Christopher Lefelhocz        | VP of Development         |
 | Executive Stakeholder           | Ryan O'Nell          | VP of Commercial Sales     |                                         
 

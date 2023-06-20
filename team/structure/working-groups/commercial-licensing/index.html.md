@@ -38,8 +38,7 @@ Define business & customer experience requirements for a system to handle commer
 | Person                | Title                                  |
 |-----------------------|----------------------------------------|
 | Scott Williamson      | Chief Product Officer                         |
-| Bryan Wise            | VP of IT                               |
-| David Hong            | VP of Field Operations                 |
+| Bryan Wise            | VP of IT                               |               
 | Jack Brennan          | Director, Sales Systems                |
 | Dara Warde            | Director of Marketing Operations       |
 | Christopher Nelson    | Sr. Director of Enterprise Applications|
