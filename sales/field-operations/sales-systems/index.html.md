@@ -78,8 +78,8 @@ Below is a list of the different technical skill sets found on the Sales System 
 |-----------------------------|--------------------------------------------------------------|-----------------------------------------------------------------|
 | QTC                         | Jesse Rabbits - Director, Quote to Cash                      | James Harrison - Senior Director, Sales Operations              |
 | Territory Management        | Melia Vilain - Senior Manager, Sales Strategy                | Jake Bielecki - VP, Sales Strategy & Analytics                  |
-| Channel Operations          | Colleen Farris - Senior Director, Sales Operations           | David Hong - VP of Field Operations                             |
-| Customer Success Operations | Jeff Beaumont - Senior Director, Customer Success Operations | David Hong - VP of Field Operations                             |
+| Channel Operations          | Colleen Farris - Senior Director, Sales Operations           | TBD                            |
+| Customer Success Operations | Jeff Beaumont - Senior Director, Customer Success Operations | TBD                             |
 | Sales Operations            | Katrina Gavalas - Director, Sales Operations                 | James Harrison - Senior Director, Sales Operations              |
 | Marketing Operations        | Amy Waller - Senior Manager, Marketing Operations            | Christine Lee - Senior Director, Marketing Strategy & Platforms |
 | Sales Dev Operations        | Ramona Elliott - Director, Sales Development Operations      | Jean-Baptiste Larramendy - VP, Sales Development                |
