@@ -13,7 +13,7 @@ extra_js:
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Definition and access
+## Definition and Access
 
 > **Note:** Use the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Tech Stack Apps.
 
@@ -26,17 +26,18 @@ The Tech Stack is a list of all the technology that GitLab currently uses to sup
 
 The historical spreadsheets (deprecated on 2020-10-16 and 2021-03-03) can be found [here](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0). Both are protected in case they are needed in future audits. Only Editors of the file (currently the BSAs and Team Member Enablement team) can unhide and unprotect the spreadsheets in case it is needed.
 
-## Tech Stack Support Hierarchy
+## Roles and Responsibilities
 
-1. Business and Technical Owners
-1. IT Team
+|Role|Responsibilities|
+|----------|------------------------------|
+|Business and Technical Owners of Systems|Accountable for completeness and accuracy of Tech Stack data; Process [Tech Stack updates](/handbook/business-technology/tech-stack-applications/#tech-stack-updates); Primary contacts for system-related inquiries and administration.|
+|IT Business Technology| Code Owners of Tech Stack; Advise Business and Technical Owners in supporting systems.
+|Security Risk|Help facilitate Tech Stack updates, including the [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html#business-impact-analysis) for new and existing systems.|
 
-Business and technical owners will remain the point of contact for provisioning and issues involving administration of the systems they manage. The IT team empowers business and technical owners to maintain accountability for tech systems through efforts involving automation, monitoring, and visibility.
-
-## Tech Stack definitions:
+## Tech Stack Definitions:
 
 - **Business Owner**: The Business Owner is the individual(s) responsible for all budget and decision making around the tool. They should define how the tool is used and by whom. This person(s) usually has login access to the tool as `Owner` but login access isn't necessary in all cases. Please make sure you list individual people in this field, rather than teams.
-- **Technical Owner**: This may be the same as the Business Owner based on the nature of the system. For instance, if the system isn't centrally managed and or/requires little to no configuration. For systems that are centrally managed and/or heavily configured, the Technical Owner is someone with understanding of the application's architecture, functionality (including types of data involved), and overall criticality/impact to GitLab. Technical Owner(s) are typically `administrators` of a tool. This includes everyone with the administrative clearance to provision and deprovision access of a tool and/or as the technical expertise needed to manage it. 
+- **Technical Owner**: This may be the same as the Business Owner based on the nature of the system, for instance, if the system isn't centrally managed and or/requires little to no configuration. For systems that are centrally managed and/or heavily configured, the Technical Owner is someone with understanding of the application's architecture, functionality (including types of data involved), and overall criticality/impact to GitLab. Technical Owner(s) are typically `administrators` of a tool. This includes everyone with the administrative clearance to provision and deprovision access of a tool and/or as the technical expertise needed to manage it. 
 - **Provisioner/Deprovisioner**: People in charge of granting and removing team member access to a tool. At least two provisioners/deprovisioners should be named for every tool in the handbook. Provisioners can be contacted as a group in Slack using the `@provisioners` handle and in GitLab using the `@tech-stack-provisioner` handle.
 
 ## Tech Stack Updates
@@ -136,7 +137,7 @@ To update any system information listed in the Tech Stack, you must start a merg
 
 Occasionally systems listed in our tech stack will be deprecated. If a system is being offboarded (no longer being used and/or being replaced), please create an MR in the [tech stack yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) to remove the entry for the tool (DON'T MERGE IT), and then create [an issue following this template](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new?issuable_template=offboarding_tech_stack). Once the issue has been submitted, link the MR in the comments. The Business Owner will need to work with Legal and IT Compliance to ensure that the data deletion process is being completed as outlined in the vendor contract regarding their process and responsibilities.
 
-## Other related processes
+## Other Related Processes
 
 ### Access Requests
 
