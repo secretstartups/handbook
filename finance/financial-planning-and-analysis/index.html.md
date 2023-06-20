@@ -409,18 +409,18 @@ Adaptive Quarterly Roadmap
 
    _Note: WD is defined as Working Days, which are Mondays through Fridays, excluding Federal holidays._
 
-#### Q2-FY24 RLOA Timeline
-   - **Through early May 2023,** FP&A maintains alignment with business needs.
+#### Q3-FY24 RLOA Timeline
+   - **Through early August 2023,** FP&A maintains alignment with business needs.
      - FBPs, **with the functional leader(s),** maintain a RLOA file of key incremental investments from the business
      - FBPs, **with the functional leader(s),** prioritize the RLOA and develop a recommendation following the below timeline
-   - **2023-04-19:** Corporate FP&A locks Prelim Forecast version (from 2+10) and shares RLOA calendar with FBPs 
-   - **2023-05-05:** RLOA asks submitted via finance business partners
-   - **2023-05-12:** Forecast pencils down
-      - Corporate FP&A and VP of Finance review Forecast and RLOA submissions to determine funding
+   - **2023-07-31:** Corporate FP&A kicks off RLOA and shares detailed daily calendar with FBPs 
+   - **2023-08-04 noon Pacific:** RLOA asks submitted via finance business partners
+   - **2023-08-14 to 15:** Forecast pencils down
+      - Corporate FP&A and VP of Finance review Forecast and RLOA submissions to determine funding by 2023-08-14 EOD
       - Corporate FP&A provide Prelim Forecast vs. Final Forecast view to FBPs
-      - TA reviews RLOA asks to determine recruiting feasibility & TA asks
-      - Final Forecast Lock on 2023-05-16 used for earnings call
-   - **2023-05-17:** CFO review RLOA proposal based on Forecast vs. Street Consensus performance
-   - **2023-05-22:** At eGroup Meeting, CFO shares proposal for formal approval and inclusion into investor guidance
-      - Corporate FPA updates this section of the Handbook page with the timeline for the next RLOA cycle
+      - FP&A does lap with TA to review RLOA asks to determine recruiting feasibility
+      - Final Forecast Lock (pre-tax) on 2023-08-15 used for earnings call
+   - **2023-08-17:** CFO review RLOA proposal based on Forecast vs. Street Consensus performance
+   - **2023-08-21:** At eGroup Meeting, CFO shares proposal for formal approval and inclusion into investor guidance
+      - Corporate FP&A updates this section of the Handbook page with the timeline for the next RLOA cycle
       - After formal approvals, business, FP&A, and TA collaborate to execute on RLOA approved asks
