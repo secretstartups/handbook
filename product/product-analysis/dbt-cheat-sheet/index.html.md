@@ -269,7 +269,31 @@ models:
       description: '{{ doc("event_pk") }}'
 ```
 
-## MR Workflow
+## Model configuration
+
+The model configuration can be set at the top of the .sql file. Configurations include whether 
+the model should be a materialized table vs a view, a full refresh vs an incremental load, etc.
+
+Please refer to the [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide/#model-configuration) 
+for details on model configuration.
+
+### Tags for product data models
+
+With respect to product data models, you need to include the `"product"` tag on the model 
+to ensure that it runs in the correct DAG (i.e., it builds after the other product dependencies). 
+Failure to include this tag could lead to a lag in data freshness (ex: if the model builds 
+before a dependency is refreshed). Please see existing models in dbt docs for 
+[additional examples](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_namespace).
+
+``` sql
+{{ config(
+    tags=["product"]
+) }}
+```
+
+There is additional documentation on tags on the [dbt Guide handbook page](/handbook/business-technology/data-team/platform/dbt-guide/#tags).
+
+## MR workflow
 
 The Data team has a well-documented [MR workflow](/handbook/business-technology/data-team/how-we-work/#merge-request-workflow).
 
