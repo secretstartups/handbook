@@ -17,5 +17,4 @@ title: "Platypus Integrations Wiki"
 
 _Pages that don't have links have not been constructed yet. Know something about Platypus and want to help out? Please submit a page update._
 
-- [Using the Platypus API](./using-the-platypus-api)
 - [Integration documentation](./integrations-list)
