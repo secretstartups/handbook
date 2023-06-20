@@ -97,8 +97,183 @@ More information about the User and Contact objects shown in the table above, an
 
 The following is a focused view of the database ERD for the newly proposed data architecture.
 
-![CustomerDot Object Model](cdot-object-model.png)
+```mermaid
+erDiagram
+  CustomersDotUser ||--o{ CustomersDotBillingAccountMembership : "has many"
+  CustomersDotUser ||--o{ ZuoraContact : "has many"
+  CustomersDotBillingAccount ||--o{ CustomersDotBillingAccountMembership : "has many"
+  CustomersDotBillingAccount ||--o{ CustomersDotCloudActivation : "has many"
+  CustomersDotBillingAccount ||--o{ CustomersDotLicense : "has many"
+  CustomersDotBillingAccount ||--o{ CustomersDotOrder : "has many"
+  CustomersDotBillingAccount ||--|| GitLabOrganization : "has one"
+  CustomersDotCloudActivation ||--o{ GitLabCloudActivation : "has many"
+  CustomersDotLicense ||--o{ GitLabLicense : "has many"
+  CustomersDotUser ||--|| GitLabUser : "has one"
+  CustomersDotOrder ||--o{ CustomersDotSubscription : "has many"
+  CustomersDotSubscription ||--|| ZuoraSubscription : "has one"
+  GitLabUser ||--o{ GitLabMember : "has many"
+  GitLabOrganization ||--o{ GitLabMember : "has many"
+  GitLabOrganization ||--o{ GitLabLicense : "has many"
+  GitLabOrganization ||--o{ GitLabCloudActivation : "has many"
+  ZuoraAccount ||--o{ ZuoraContact : "has many"
+  ZuoraAccount ||--o{ ZuoraPaymentMethod : "has many"
+  ZuoraAccount ||--o{ ZuoraOrder : "has many"
+  ZuoraAccount ||--o{ ZuoraSubscription : "has many"
+  ZuoraOrder ||--o{ ZuoraSubscription : "has many"
+  ZuoraAccount ||--|| CustomersDotBillingAccount : "has one"
+  SFDCAccount ||--o{ ZuoraAccount : "has many"
+  SFDCAccount ||--o{ CustomersDotBillingAccount : "has many"
 
+  CustomersDotBillingAccount {
+    bigint id
+    string zuora_account_id
+    string zuora_account_name
+    string zuora_account_number
+    string zuora_account_entity
+    string zuora_account_vat_id
+    string salesforce_account_id
+    timestamp created_at
+    timestamp updated_at
+  }
+  CustomersDotBillingAccountMembership {
+    bigint id
+    bigint user_id
+    bigint billing_account_id
+    timestamp created_at
+    timestamp updated_at
+  }
+  CustomersDotUser {
+    int id
+    string first_name
+    string last_name
+    datetime created_at
+    datetime updated_at
+    string email
+    string encrypted_password
+    string reset_password_token
+    datetime reset_password_sent_at
+    datetime remember_created_at
+    integer sign_in_count
+    datetime current_sign_in_at
+    datetime last_sign_in_at
+    inet current_sign_in_ip
+    inet last_sign_in_ip
+    string provider
+    string uid
+    string country
+    string state
+    string city
+    string zip_code
+    string vat_code
+    string company
+    boolean billable
+    string access_token
+    string confirmation_token
+    datetime confirmed_at
+    datetime confirmation_sent_at
+    string unconfirmed_email
+    string address_1
+    string address_2
+    string company_size
+    string authentication_token
+    string phone_number
+    boolean login_activated
+    string refresh_token
+    datetime_with_timezone access_token_expires_at
+    datetime_with_timezone token_refresh_last_attempted_at
+  }
+  CustomersDotCloudActivation {
+    bigint id
+    bigint billing_account_id
+    string activation_code
+    string subscription_name
+    boolean super_sonics_aware
+    datetime seat_utilization_reminder_sent_at
+    timestamp created_at
+    timestamp updated_at
+  }
+  CustomersDotLicense {
+    bigint id
+    bigint billing_account_id
+    uuid license_file_md5
+    bigint creator_id
+    datetime_with_timezone created_at
+    datetime_with_timezone updated_at
+    datetime_with_timezone last_synced_at
+    datetime_with_timezone next_sync_at
+    integer users_count
+    integer previous_users_count
+    integer trueup_quantity
+    date expires_at
+    date starts_at
+    date trueup_from
+    date trueup_to
+    boolean trial
+    boolean cloud_licensing_enabled
+    string plan_code
+    string plan_name
+    string zuora_subscription_id
+    string email
+    string name
+    string company
+    string zuora_subscription_name
+    text notes
+    text license_file
+    datetime_with_timezone activated_at
+    boolean auto_renew_enabled
+    boolean seat_reconciliation_enabled
+    boolean operational_metrics_enabled
+    boolean reconciliation_completed
+    boolean offline_cloud_licensing_enabled
+  }
+  CustomersDotOrder {
+    int id
+    bigint billing_account_id
+    string zuora_product_rate_plan_id
+    string zuora_subscription_id
+    string zuora_subscription_name
+    date start_date
+    date end_date
+    integer quantity
+    datetime created_at
+    datetime updated_at
+    string gl_namespace_id
+    string gl_namespace_name
+    string amendment_type
+    boolean trial
+    datetime last_extra_ci_minutes_sync_at
+    string zuora_account_id
+    datetime increased_billing_rate_notified_at
+    boolean reconciliation_accepted
+    integer trial_extension_type
+    string source
+    datetime_with_timezone seat_overage_notified_at
+    datetime_with_timezone auto_renew_error_notified_at
+  }
+  CustomersDotSubscription {
+  }
+  ZuoraAccount {
+    string crm_id
+  }
+  ZuoraContact {
+  }
+  ZuoraSubscription {
+  }
+  ZuoraPaymentMethod {
+  }
+  SFDCAccount {
+  }
+  GitLabLicense {
+  }
+  GitLabCloudActivation {
+  }
+  GitLabOrganization {
+  }
+  GitLabMember {
+  }
+  GitLabUser {
+  }
+  ```
 
 ### Zuora Billing Object Model
 
