@@ -82,7 +82,7 @@ Our goal on the Field Security team is to be the liaison between GitLab’s Secu
 3 days, 4-6 hours 
 
 ### Team Manager:
-Julia Lake, @julia.lake
+TBD
 
 ## Security Risk
 
