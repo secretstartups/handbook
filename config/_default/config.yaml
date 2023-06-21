@@ -28,6 +28,7 @@ params:
     sidebar_menu_truncate: 100
     navbar_logo: true
   copyright: "GitLab"
+  privacy_policy: https://about.gitlab.com/privacy/
   links:
     user:
       - name: "Contribute"
