@@ -199,3 +199,5 @@ Using the link above, locate the template of the department owning the new syste
 When finished, link the MR in the "Access Tasks" section of the 'Tech Stack - Add New System' MR.
 </details>
 
+### Exceptions
+There are exceptions to adding technologies to the Tech Stack which are handled on a case-by-case basis.
