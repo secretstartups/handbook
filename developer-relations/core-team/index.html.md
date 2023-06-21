@@ -96,6 +96,7 @@ A list of the up-to-date channels the Core should/have access to can be found in
 - community-programs
 - community-relations
 - competition
+- contributor-success
 - core
 - developer-evangelism
 - development
@@ -107,7 +108,6 @@ A list of the up-to-date channels the Core should/have access to can be found in
 - frontend
 - frontend_maintainers
 - frontend_pairs
-- g_contributor_success
 - g_observability
 - g_pipeline-security
 - g_project-management
