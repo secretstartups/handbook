@@ -41,41 +41,40 @@ Ask in [your group's Slack channel](/handbook/support/support-global-groups/#sla
       - For example: "Kubernetes Runner help needed: user is running into X
         error, logs are saying Y, and we've tried Z. What else could it be?"
 
-#### Expand to Support Pods and other subject matter experts
-
-1. See if there is a [Support Pod](/handbook/support/workflows/working-with-pods.html) that covers the area your ticket is in and ask one of the Pod members for help.
-2. Ask for help in one of the broader
-   [relevant Support Slack channels](https://about.gitlab.com/handbook/support/#slack).
-   In addition to the Slack reminders above, also:
-   - Check the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html)
-     Support page to see who might have the skills to assist. Mention those
-     people in the thread and in the ticket to let them know you think they
-     can help.
-3. Ask for help in the appropriate [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) Support Request project 
-   using the [formal help request workflow](##how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team), or reach out 
-   to the [Support Stable Counterpart](../support-stable-counterparts.html)
-   for the appropriate product area. If you are unsure which product area it is,
-   ask your group or a manager for guidance.
-   - For example, if you need help with a runners issue, ask for development
-     support in the [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) by 
-     creating an issue in that project using the "SupportRequestTemplate-Runner" template, or reach out to the Support stable
-     counterpart(s) that are listed under the
-     [runner group](https://about.gitlab.com/handbook/product/categories/#runner-group)
-     section.
-4. [Formally request help from the relevant GitLab Development Team](#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team)
-
 #### Bring the ticket before a group of peers
+
+Other Support Engineers are a great resource to help out with tickets. To get help from peers, you can try one or more of the following:
 
 1. Attend crush or help sessions such as those noted below (see the [GitLab Support calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV85YnMxNTllaHJjNXRxZ2x1cjg4ZGpiZDUxa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for times):
     - AMER Senior SE Help Sessions
     - APAC/AMER or EMEA/AMER crush sessions
     - APAC or EMEA crush / collaboration sessions
     - Senior Support Office Hours (varying times)
+2. Ask for help in one of the broader
+   [Support Slack channels](https://about.gitlab.com/handbook/support/#slack).
 2. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html)
    - This is like a crush session, with the specific intention of helping 1 or 2
      groups with FRTs
 
+#### Expand to Support Pods and other subject matter experts
+
+You can also do one or more of the following:
+
+1. See if there is a [Support Pod](/handbook/support/workflows/working-with-pods.html) that covers the area your ticket is in and ask one of the Pod members for help.
+1. Ask an expert within Support. You can check the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html)
+   Support page to see who might have the skills to assist, or reach out 
+   to the [Support Stable Counterpart](../support-stable-counterparts.html)
+   for the appropriate product area. Mention those
+   people in the thread and in the ticket to let them know you think they can help.
+1. [Request help from the relevant GitLab Development Team](#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team).
+   Gather what information you have and fill in as much detail as possible for the dev team in the issue. To get more attention, you can post in the relevant group Slack channel with a message and link to the issue.
+   If you don't get a response within the SLO, contact the listed engineering manager in the project readme.
+   See [below](#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team) for more details.
+   If you have a reproducible issue, then go straight to a bug issue in the appropriate [GitLab product tracker](https://gitlab.com/gitlab-org).
+
 #### Bring the ticket to managers
+
+Especially if you feel you're stalled on a ticket and need assistance identifying next steps:
 
 1. Always feel free to reach out to any available manager (such as your manager, or the [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html)) in the `#spt_managers` channel. They will help you to determine next steps. 
    - Avoid messages with no identified DRI for responding in `#spt_managers` as they can be missed or be a victim to the bystander effect.
