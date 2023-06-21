@@ -183,6 +183,8 @@ When discussing a proposed compensation, the talent acquisition team and hiring 
 
 #### **The offer approval process**
 
+Do not move a candidate into the Background Check and Offer stage in Greenhouse until their offer is approved and you're ready to give your verbal offer. To get an offer approved, please see the steps below.
+
 The offer approval process begins with Total Rewards, who reviews the following:
  * Ensure the compensation is in line with our compensation benchmarks
  * Ensure the bonus percentage, if applicable, matches bonus percent amount. For bonus/commission, this will be a percent of    OTE. For Director level bonus, this will be a percent of base. 
@@ -209,7 +211,7 @@ Information in the offer package for counter offers should include the following
 
 ### **Verbal Job Offer**
 
-Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager. _**Please note:** verbal offers should not be made to candidates in Japan until after a clear background check has been received. If the offer is ready to be verbalized but the background check is not yet complete, the hiring manager or recruiter can let the candidate know that they would like to make an offer, but it is contingent upon their background checking coming back clear._
+Once the offer is approved in Greenhouse and references are completed, a candidate can be moved to the Background Check and Offer stage and an offer will be verbalized to the candidate by the Recruiter or Hiring Manager. _**Please note:** verbal offers should not be made to candidates in Japan until after a clear background check has been received. If the offer is ready to be verbalized but the background check is not yet complete, the hiring manager or recruiter can let the candidate know that they would like to make an offer, but it is contingent upon their background checking coming back clear._
 
 Offer details usually include:
 - [Start Date](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_connect_team/) - ensure that the candidates start date is not a no-start date (unless needed for legal reasons). They should never start on a National holiday in the country when they are located, and anticipate that the People Connect team requests at least 10 days' notice from the time the candidate is marked as hired until their start date.
