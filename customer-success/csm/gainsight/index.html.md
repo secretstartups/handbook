@@ -30,7 +30,7 @@ The table below represents the steps a CSM would typically take in Gainsight. Pl
 #### C360
 - [C360 overview](/handbook/customer-success/csm/gainsight/c360-overview)
 - [Account Engagement - Customer Prioritization](/handbook/customer-success/csm/engagement/#customer-prioritization)
-- [NPS/CSAT](/handbook/customer-success/csm/gainsight/c360-overview/nps-csat-scores)
+- [NPS/CSAT](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores)
 - [Customer contacts](/handbook/customer-success/csm/gainsight/#customer-contacts)
 
 #### Timeline
@@ -77,9 +77,9 @@ The table below represents the steps a CSM would typically take in Gainsight. Pl
 #### Dashboard Metrics
 - [Time to Value Metrics](/handbook/customer-success/csm/onboarding/#time-to-value-metrics)
 
-#### Programs
+#### Digital Customer Success Programs
 - [Customer Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
-- [NPS/CSAT](/handbook/customer-success/csm/gainsight/c360-overview/nps-csat-scores)
+- [NPS/CSAT](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores)
 
 #### Technical Documentation
 - [Gainsight Technical Documentation](/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html)

@@ -88,7 +88,7 @@ For more information on general Product Usage Reporting, see [Using Product Usag
 | Field Name | Description | Reference |
 |:---|:---|:---|
 | Program Emails | Some of the Program Emails can be found cataloged within the Account Page > Activity History section in SFDC. There you can see the log of the Email Subject Line & see the `Assigned to` field = “Gainsight Integration” |  |  
-| Survey Results | These surveys are used to measure customer loyalty, satisfaction, and enthusiasm with GitLab and can act as an early warning system about a customer’s adoption.  | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/c360-overview/nps-csat-scores/#customer-npscsat-surveys)  |  
+| Survey Results | These surveys are used to measure customer loyalty, satisfaction, and enthusiasm with GitLab and can act as an early warning system about a customer’s adoption.  | [Link](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores/)|  
 | Timeline Activities  | The Timeline view in Gainsight gives us a chronological overview of our activities with the customer. It's a valuable tool to see our interactions and progression on success efforts over time. | [Link](https://about.gitlab.com/handbook/customer-success/csm/gainsight/timeline/#how-to-log-activities-in-timeline)  |  
 
 ## Customer Subscriptions
