@@ -18,10 +18,14 @@ description: "Monte Carlo Guide"
 
 ## Business Use Case (Please explain what this data will be used for):
  
+## Data Categorization
+
+| Data Classficiation | MNPI | Sensitive data | 
+| ------------------- | ---- | -------------- |
+| `Red`/`Orange`/`Yellow`/`Green` | `Yes`/`No` | `Yes`/`No` |
+
 ### Data information 
 
-* Does it contain MNPI data? `Yes/No`
-* Does it contain PII data? `Yes/No`
 * How often does the data need to be refreshed? `..`
 * SLA Description: `..`
 * Severity in case of an incident

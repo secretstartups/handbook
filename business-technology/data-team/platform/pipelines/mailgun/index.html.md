@@ -22,10 +22,14 @@ MailGun
  
 Allow more stakeholders across the company to have access to this data and save time pulling the data manually.
 
-### Data information 
+## Data Categorization
 
-* Does it contain MNPI data? `No`
-* Does it contain PII data? `Yes`
+| Data Classficiation | MNPI | Sensitive data | 
+| ------------------- | ---- | -------------- |
+| `Red` | `No` | `Yes` |
+
+## Data information 
+
 * How often does the data need to be refreshed? `Every 24h`
 * SLA Description: `..`
 * Severity in case of an incident
