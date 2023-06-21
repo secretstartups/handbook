@@ -230,6 +230,46 @@ This has reported to work with latest versions of the Nvidia drivers (as of Dec 
   - `asdf install ruby 2.4.4`
   - `asdf install nodejs 8.11.3`
 
+## Enabling the fingerprint reader
+
+Some of the authorized Dell laptops come with a fingerprint reader which is not supported by their official Ubuntu images. However, the fingerprint reader can be enabled using [fprintd](https://fprint.freedesktop.org/).
+
+- Install the required software:
+
+``` shell
+sudo apt install fprintd libpam-fprintd
+```
+
+- Update the PAM configuration:
+
+``` shell
+sudo pam-auth-update
+```
+
+- Edit the `/etc/pam.d/common-auth` configuration to enable fingerprint authorization in the terminal and other password prompts. Find the `auth [success=1 default=ignore] pam_unix.so nullok_secure` line and replace it with the following two lines.
+
+``` shell
+auth    [success=2 default=ignore]      pam_fprintd.so max-tries=3 timeout=10
+auth    [success=1 default=ignore]      pam_unix.so nullok_secure
+```
+
+  Note that `max-tries` is the number of fingerprint scans you can attempt until prompted for a password instead, and `timeout` is how long you have to scan your fingerprint before the authorization times out. You can configure these to your requirements.
+
+- Enable fingerprint authorization on the login screen (`sddm`) by editing the `etc/pan.d/addm` file and adding the following lines **at the top of the file**.
+
+``` shell
+auth        sufficient        pam_unix.so try_first_pass likeauth nullok
+auth        sufficient        pam_fprintd.so
+```
+
+- Finally, enroll your fingerprint with `fprintd`:
+
+``` shell
+fprintd-enroll $USER
+```
+
+Fingerprint login and authorization has now been enabled! Note that the sddm login screen has an unintuitive user interface. You'll be prompted with a password field as usual. Press enter and the screen will fade slightly. Now you can scan your fingerprint to log in.
+
 ## Troubleshooting
 
 ### Zoom screensharing on GNOME on Wayland
