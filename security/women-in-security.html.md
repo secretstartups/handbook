@@ -22,7 +22,7 @@ While tailored for current female team members of the GitLab Security organizati
 - Publications
 
 ### Leadership Sponsor
-Julia Lake, Sr. Director, Security Assurance
+PENDING
 
 ## Catalog of Events and Publications
 - [Applying Risk Management to Pandemic-driven Remote Learning](/blog/2020/08/27/applying-risk-management-to-remote-learning/)
