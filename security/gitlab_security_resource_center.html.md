@@ -108,6 +108,8 @@ The following links contain frequently asked security, legal & privacy, and avai
 * [Logging and monitoring architecture](/handbook/engineering/infrastructure/production/architecture/#monitoring-and-logging)
 * [GitLab audit logging policy](/handbook/security/audit-logging-policy.html)
 * [Log and audit requests process](/handbook/support/workflows/log_requests.html)
+* [Infrastructure department KPIs](/handbook/engineering/infrastructure-quality/performance-indicators/#gitlabcom-availability)
+* [Infrastructure production runbooks](https://gitlab.com/gitlab-com/runbooks/)
 
 ### Network security
 
