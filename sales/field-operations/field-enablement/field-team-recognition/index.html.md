@@ -94,7 +94,7 @@ Considerations include:
 1. Achievers recognized in the next-available [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/)
 
 ### Quarterly Achiever's Recognition Dinner 
-As part of this initiative, Quarterly Achievers are able to expense a meal up to $250.00 USD within the same quarter they were selected in. For example, if a team member is selected as a Quarterly Achiever in November, they must expense their meal before the end of Q4 (the last day in January). Please submit your meal expense in Expensify and in the description field link to this section of the handbook for approval. 
+As part of this initiative, Quarterly Achievers are able to expense a meal up to $250.00 USD within the same quarter they were selected in. For example, if a team member is selected as a Quarterly Achiever in November, they must expense their meal before the end of Q4 (the last day in January). Please submit your meal expense in Navan and in the description field link to this section of the handbook for approval. 
 
 The $250.00 USD is reimbursable for a meal only, other items do not qualify. 
 
