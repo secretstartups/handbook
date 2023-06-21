@@ -96,7 +96,7 @@ In addition to following the [Team Member Social Media Policy](/handbook/marketi
 
 ### Return of GitLab-Owned Assets
 
-Unless otherwise agreed, all GitLab-owned computing resources, regardless of the value of the asset, must be [returned](/handbook/people-group/offboarding/#returning-property-to-gitlab) upon separation from the company. 
+All GitLab-owned computing resources must be [returned](/handbook/people-group/offboarding/#returning-property-to-gitlab) upon separation from the company.  Notwithstanding anything contrary in the [Laptop Buy Back Policy](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) or the [Offboarding Tasks](https://about.gitlab.com/handbook/people-group/offboarding/#managing-the-offboarding-tasks), Team Members must return any GitLab-Owned Assets -- irrespective of their valuation -- if they are specifically requested to do so either during their tenure with GitLab or upon offboarding.
 
 ### Bring-Your-Own-Device (BYOD)
 
