@@ -70,6 +70,16 @@ Additional controls include:
 * Every query/user/process is assigned a [pre-defined Warehouse, or Compute Resource](/handbook/business-technology/data-team/platform/#compute-resources)
 * [Passwords are rotated](/handbook/business-technology/data-team/platform/#passwords)
 
+### Data Categorization
+
+In the Data Platform at GitLab we have multiple categories. Its good to highlight that each category applies to all the data. This means that every Data Product (extracted source, table, row, field, dashboard, pump, etc..) is applicable to **each** of the data categories. 
+
+| Data category | Description | Possible values | How to handle | Access controls |
+| ------------- | ----------- | --------------- | ------------- | --------------- |
+| Data Classification | The type and level of data. | Red, Orange, Yellow, Green. | Red data is not allowed to be stored in the Data Platform. Follow the [general data security controls](/handbook/business-technology/data-team/data-management/#general-data-security-controls). | No particular controls in place. |
+| MNPI | This is material non public information. | MNPI or not MNPI. | Follow the [SAFE Data guide](/handbook/business-technology/data-team/platform/safe-data/). | Access is granted by Permifrost. GitLab Team Members will become a designated insider. Manager and VP approval needed via an AR. |
+| Sensitive data | Data that is considered to be kept sensitive and not be shared with all GitLab Team members by default. | Sensitive or not Sensitive. | Sensitive data is [masked](/handbook/business-technology/data-team/platform/dbt-guide/#sensitive-data) via DBT | Access is granted by Permifrost. Manager approval needed via an AR. |
+
 ### General Data Security Controls
 
 * For the purpose of defining Data Controls, the Enterprise Data Platform is a [Tier 1 system](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html). 
