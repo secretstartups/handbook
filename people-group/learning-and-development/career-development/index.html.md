@@ -154,7 +154,7 @@ Looking for a step-by-step guide on filling out the IGP? Use the resources below
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="https://levelup.gitlab.com/learn/course/how-to-use-the-gitlab-individual-growth-plan-i[…]lab-individual-growth-plan-igp?client=internal-team-members" class="btn btn-purple" style="width:275px;margin:5px;">Short Course: How to use the IGP</a>
+    <a href="https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/how-to-use-the-gitlab-individual-growth-plan-igp" class="btn btn-purple" style="width:275px;margin:5px;">Short Course: How to use the IGP</a>
     <a href="/handbook/people-group/learning-and-development/career-development/igp-guide" class="btn btn-purple" style="width:275px;margin:5px;"> Handbook: The GitLab IGP Guide </a>
     <a href="https://docs.google.com/document/d/1qEqTHx_G1uIPQi8rIIbrHjJ6S0NYhKDoHeBOLXsjkNw/edit#" class="btn btn-purple" style="width:275px;margin:5px;">Workday User Guide: Individual Growth Plans</a>
   </div>
