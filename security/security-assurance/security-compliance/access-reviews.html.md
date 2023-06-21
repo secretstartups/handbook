@@ -50,7 +50,8 @@ Tier 3 applications as defined in the [tech stack](https://gitlab.com/gitlab-com
 | Role | Responsibility |
 | :---: | :---: |
 | Security Compliance Team | * Execution of entitlement reviews<br><br>* Execution of terminated user access reviews<br><br>* Creation of observations and oversight of remediation activities for any identified findings|
-| System Owners | * Validation of privileged entitlements<br><br>* Validation of user entitlements<br><br>* Timely evidence support <br><br>* Execution of remediation plans for identified observations|
+| System Owners | * Validation of privileged entitlements<br><br>* Validation of user entitlements<br><br>* Timely evidence support <br><br>* Execution of remediation plans for identified observations<br><br>* Execution of access removal(s)|
+| IT Operations | * Execution of access removal(s)|
 | Managers | * Support validation of privileged entitlements<br><br>* Support validation of user entitlements|
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
@@ -77,7 +78,7 @@ In the event access is identified to no longer be required, open an [Access Remo
 
 If you have any questions or require assistance with completing an access review, please [contact the GitLab Security Compliance team](/handbook/security/security-assurance/security-compliance/).
 
-### Access Review Cadence FY23:
+### Annual Access Review Cadence:
 
 - Tier 1
     - Quarterly Terminated User Access Reviews
@@ -97,7 +98,7 @@ The determination and tracking of systems ranked by tiers 1-4 are managed in the
 
 ### Access Removals
 
-If appropriateness of access cannot be verified as part of the review or a system owner/reviewer flags a user for removal, a validation will take place with the team member’s manager prior to access removal as per the [Observation Management Procedure](/handbook/security/security-assurance/observation-management-procedure.html). This validation must take place within **7 calendar days** and if access is determined to not be required **OR** no agreement can be reached within that SLA between the Manager and system owner/reviewer, access will be removed. If the risk associated with unvalidated access is too high, access will be revoked immediately and impacted users will be directed towards the new access request process for re-provisioning. While we want to avoid disruption in access whenever possible, we need to balance the impact of that disruption with the risk of continued and unvalidated access to GitLab systems.
+If appropriateness of access cannot be verified as part of the review or a system owner/reviewer flags a user for removal, a validation will take place with the team member’s manager prior to access removal as per the [Observation Management Procedure](/handbook/security/security-assurance/observation-management-procedure.html). This validation must take place within **7 calendar days** and if access is determined to not be required **OR** no agreement can be reached within that SLA between the Manager and system owner/reviewer, access will be removed. If the risk associated with unvalidated access is too high, access will be revoked immediately and impacted users will be directed towards the new access request process for re-provisioning. While we want to avoid disruption in access whenever possible, we need to balance the impact of that disruption with the risk of continued and unvalidated access to GitLab systems. The Security Compliance team is not responsible nor has the ability to remove access. Security Compliaces role and responsiblity is limited to opening access removal issues and assigning those issues out to the appropriate System Owner(s) and/or the IT Operations team. System Owners and/or IT Operations is responsible for execution of access removal or adjustment. Communication of the access removal or adjustment for affected team members is at the discretion of the system owner/reviewer.
 
 ## Additional Guidance
 
