@@ -237,7 +237,7 @@ Independent Contractors requiring access to Orange or Red data in the provision 
 <summary markdown="span">1. Background Screening Request</summary>
 
 - Evidence of initiated background screening, which will be managed by the Background Screening Team. 
-      - _Note: Background check requirements are subject to change at the discretion of the People Operations team. Please refer to the background screening entry within the [People Policies handbook](/handbook/people-policies/#background-screenings) to ensure alignment with current requirements. If further guidance is needed, contact the Background Screening Team at `backgroundchecks@gitlab.com`._
+      - _Note: Background check requirements are subject to change at the discretion of the People Operations team. A background screening can be requested by opening an issue in the [Lifecycle Management](https://gitlab.com/gitlab-com/temporary-service-providers/lifecycle/-/issues) project by using the `background_check_request` template. Please refer to the background screening entry within the [People Policies handbook](/handbook/people-policies/#background-screenings) to ensure alignment with current requirements. If further guidance is needed, contact the Background Screening Team at `backgroundchecks@gitlab.com`._
 
 </details>
 
