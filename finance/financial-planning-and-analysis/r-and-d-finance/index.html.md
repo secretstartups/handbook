@@ -18,15 +18,14 @@ Ellen Boyd, Senior Manager, FP&A @eboyd1
 
 | Department | Name | Function |
 | -------- | ---- | -------- |
-| Development | @JessSmith | Sr. FP&A |
+| Development | @rtaira | FP&A Manager |
 | UX | @JessSmith | Sr. FP&A |
-| Security | @JessSmith | Sr. FP&A |
-| Quality | @JessSmith | Sr. FP&A |
-| Infrastructure | @JessSmith | Sr. FP&A |
-| Hosting | @sshackleford | FP&A Manager |
-| Incubation Engineering | @JessSmith | Sr. FP&A |
+| Security | @rtaira | FP&A Manager |
+| Infrastructure and Quality | @rtaira | FP&A Manager |
+| Hosting | @rtaira | FP&A Manager |
+| Incubation Engineering | @rtaira | FP&A Manager |
 | Product Management | @JessSmith | Sr. FP&A |
-| Customer Support | @JessSmith | Sr. FP&A |
+| Customer Support | @rtaira | FP&A Manager |
 
 
 Shuang and Ellen can approve Coupa and Greenhouse Reqs as needed for Finance Business Partners.  
