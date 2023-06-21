@@ -21,10 +21,10 @@ The source of truth for FY24-Q3 OKRs will be in GitLab.
 | ------ | ------ | ------ |
 | -5 | 2023-06-26 | CEO shares top goals with E-group for feedback |
 | -4 | 2023-07-03 | CEO shares top goals in #okrs Slack channel |
-| -4 | 2023-07-03 | E-group propose OKRs for their functions in the OKR draft review meeting agenda |
-| -3 | 2023-07-10 | E-group 50 minute draft review meeting | 
-| -2 | 2023-7-17 | E-group discusses with their respective teams and polishes OKRs |
-| -2 | 2023-07-17 | CEO top goals available in GitLab | 
+| -3 | 2023-07-10 | E-group propose OKRs for their functions in the OKR draft review meeting agenda |
+| -2 | 2023-07-17 | E-group 50 minute draft review meeting | 
+| -2 | 2023-07-17 | E-group discusses with their respective teams and polishes OKRs |
+| -1 | 2023-07-24 | CEO top goals available in GitLab | 
 | -1 | 2023-07-24 | Function OKRs are put into GitLab and links are shared in #okrs Slack channel |
 | -1 | 2023-07-24 | CEO reports post links to final OKRs in #okrs slack channel and @ mention the CEO and CoS to the CEO for approval |
 | 0  | 2023-07-31 | CoS to the CEO updates OKR page for current quarter to be active and includes CEO level OKRs with consideration to what is public and non-public |
