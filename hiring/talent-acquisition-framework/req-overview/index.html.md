@@ -154,14 +154,15 @@ Once a Hiring Manager has determined they want to move forward with a candidate,
 
 If you would like the Hiring Manager to receive an email when the form has been received, you can go to the job setup for that req, select 'Forms' and edit the individual form you plan to send. The Recruiter, individual CES assigned to the candidate, and CES@gitlab.com will all automatically receive an email when the form is completed.
 
-### **Step 7: Offer Approval**
-
-Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval.
+During this time, you will also submit your offer for approvals.
 
 If the candidate for the position is internal, you should wait until you've presented an offer to merge the applicants' profiles. Please visit the [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions. 
 
 If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval.
 
-### **Step 9: Verbal Offer & Contract**
+
+### **Step 7: Verbal Offer & Contract**
+
+Once references are completed or are in progress, and the offer has been approved, the Recruiter will move the candidate to offer stage to show that they are ready to present a verbal offer.
 
 For details about these final stages, please visit the [Job Offer Process](/handbook/hiring/talent-acquisition-framework/offer-process/) page. 

@@ -370,14 +370,12 @@ Each role has similar stages, with various interviews within each stage. Below i
   - The "Evergreen" stage is utilized during Evergreen positions only, and encompasses some of the interviews that would typically take place in a team interview. They allow for seamless transferring of scorecards when the candidate moves into the official hiring req.
 - **Team Interview**
   - The "Team Interview" usually has several interviews within it, typically with the Hiring Manager, two peers, a director, and/or a panel interview.
-- **Executive Interview**
-  - This stage consists of two interview events, one for the executive of the division and another for the CEO. Both of these interviews are optional.
-- **References**
-  - There are two spots for completed reference checks, one from a former peer and one from a former manager.
-- **Offer**
-  - This is where the Talent Acquisition Team prepares the offer and the offer is approved.
+- **Reference Check**
+  - There are two spots for completed reference checks, one from a former peer and one from a former manager. This is also where the Recruiter sends a form to collect this information, along with details needed for the eventual contract.
+- **Background Check and Offer**
+  - This is where the Talent Acquisition Team prepares the offer and the offer is approved. Candidates should be moved into this stage once they are ready for a verbal offer.
 
-On rare occasion, there may be additional or less stages than represented here, but these stages should be consistent as much as possible in order to maintain data integrity for reporting. The interviews within the stages can be adjusted as needed, as long as they follow the same names (e.g. there should only be one `Peer Interview 1` across all jobs and not a `Peer Interview 1` on one job and a `Peer Interview One` on another). If there is any doubt or confusion, feel free to reach out to the Talent Acquisition Operations Team.
+On rare occasion, there may be additional or less stages than represented here, but these stages should be consistent as much as possible in order to maintain data integrity for reporting. 
 
 If a candidate will have more interviews in a stage than predetermined, you can add additional interview events as long as the candidate is in the stage where you need to add the additional event.
 
@@ -474,7 +472,6 @@ Please note that only Site Admins are able to update or add new departments in G
 
 To change the name of a division or department, click the pencil button next to it. Please note you are unable to have a division and department with the same name. To add a new division or department, click "New Department" and type in the name; if it is a new division, simply click create, but if it is a new department click the "Subordinate to" dropdown and choose the division it is associated to (for example, the "Security" department is a subordinate to the "Engineering" division).
 
-There are currently two exceptions to the official divisions and departments, in order to keep things organized and clear for both applicants and reporting purposes. Firstly, "Customer Success" is its own division with subordinate departments instead of falling under "Sales". Secondly, "Engineering Management" is a department under "Engineering" instead of being portioned out to various teams.
 
 ## Additional resources
 
