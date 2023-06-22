@@ -43,6 +43,7 @@ Team members are reimbursed on different schedules depending on their location. 
 * Itemized receipts are required for all expenses.  Receipts must contain vendor name, date of purchase, listing of what was purchased, and contains a full breakout of the subtotal and tax amounts. Snapshot from phone/computer screen of Applications, Card/Bank Statements are not an acceptable form of receipt.
 * Expense items must have a description filled out. If left blank, the expense will be rejected to resubmit.
 * Expense claims over 90 days from purchase date will not be reimbursed.
+* For expenses related to an event - The expense needs to be submitted in the same month as the event or if not possible due to the timing of the event, the latest acceptable submission will be before the end of the fiscal quarter that the event took place.
 * The maximum monthly limit to be reimbursed is $5K USD (or local currency equivalent).
 * Expenses that span longer than a month must be submitted on a monthly basis (i.e. although you paid for a year upfront for the internet, you must divide the total by 12 months and submit the cost monthly).
 * Gift cards are not accepted as a form of payment for business expenses.
@@ -65,6 +66,7 @@ Team members are reimbursed on different schedules depending on their location. 
 * If the claim is over the advised guidance, the claim will be rejected with a note for the team member.  The team member should be able to rectify the claim and resubmit.
 * Where the team member has already received approval from from manager, that approval should be attached as a receipt on the claim transaction. Follow this guideline on [how to upload an email as pdf](https://docs.google.com/document/d/1QTEd2i7CitCWh1re82bZHUTypyAdnyRLTcmBSIbY5WE/edit) to the Navan expense transaction.
 * Any claim made which does not fall into the policy is not reimbursable. If an item is out of policy and approved by your manager, then please obtain and attach your manager's approval email prior to submitting the expense. This will then be reviewed by Expense team Admin and could need further approval from VP/ VP of Finance.
+* There will be exceptions that might not be approved by your manager- For these specific items an [Expense Exception issue](https://gitlab.com/gitlab-com/Finance-Division/ap-team/ap-project/-/issues/new) (template: Expense Exception) will be required and needs to be reviewed and approved by Finance.
 * There will be occasions where if you have claimed an item and it needs to be reimbursed back to Gitlab, you will need to follow the reimbursement process in Navan for submission of the funds.
 
 ### Submitting Expenses on Behalf (or Requested By) Your Manager
@@ -384,7 +386,7 @@ The mileage rate is based on your legal entity’s mileage rates for the current
 
 In FY24, each EGroup member has been allocated a budget per quarter for FY24-Q2 to FY24-Q4 for team building events. Each EGroup member can use their discretion when using the budget. The budget should be used within the quarter the funds are allocated and unused funds cannot be moved to a different quarter. This budget should cover leadership offsites, team member get togethers, the holiday party and other virtual fun events.
 
-In Navan, the team member must code any related expense to Classification (under optional details) "FY24 Team Building Budget".
+In Navan, the team member must code any related expense to GL code "Team events & meals" and Classification (under optional details) "FY24 Team Building Budget". The expense needs to be submitted in the same month as the event or if not possible due to the timing of the event, the latest acceptable submission will be before the end of the fiscal quarter that the event took place.
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Year-end Holiday Party Budget
 
