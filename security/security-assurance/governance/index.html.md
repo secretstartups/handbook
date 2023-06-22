@@ -75,7 +75,7 @@ We will assist in managing and providing guidance to carry out day to day activi
    * [Security compliance training](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-training.html)
    * [GCF control maintenance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/sec-controls.html)
 
-[Julia Lake](https://about.gitlab.com/company/team/#Julia.Lake), @julia.lake, Sr. Director, Security Assurance
+
 
 ## <i class="fas fa-book" style="color:rgb(110,73,203)" aria-hidden="true"></i> References
 
