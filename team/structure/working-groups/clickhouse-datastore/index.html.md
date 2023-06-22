@@ -96,7 +96,6 @@ This Working Group has the following goals:
 | Member | Lucas Charles | Staff Backend Engineer, Secure::Static Analysis |
 | Member | Kamil Niechajewicz | Engineering Manger, Growth:Acquisition  |
 | Member | Doug Stull | Staff FullStack Engineer, Growth:Acquisition  |
-| Member | David Curlewis | Engineering Manager, Reliability |
 | Member | Nicholas Klick | Engineering Manager, Observability |
 | Member | Arun Sori | Senior Backend Engineer, Monitor:Observability |
 | Member | Nailia Ishakkova | Senior Software Engineer in Test, Enablement: Distribution |
