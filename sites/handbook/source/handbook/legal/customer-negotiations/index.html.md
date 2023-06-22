@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Sales Guide: Collaborating with GitLab Legal
+title: Sales Guide | Collaborating with GitLab Legal
 description: This resource provides assistance to the GitLab Sales Team on operational and educational elements of working with GitLab Legal for Customer negotiations
 ---
 
@@ -63,7 +63,7 @@ The information contained on this page is organized into two distinct categories
 
 2. All agreements require a Legal approval stamp in order to be signed. This stamp is placed on the agreement by a Legal team member when an executable version is reached.
 
-### _NOTE - the Legal Stamp is not a signature_
+#### _NOTE - the Legal Stamp is not a signature_
 
 3. Once the Agreement has been stamped by Legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the agreement for signature within SFDC.
 
@@ -134,9 +134,25 @@ In instances where a customer or a partner has requested material non-standard t
 GitLab includes a signed version of the DPA on the [Terms of Service](https://about.gitlab.com/terms/), as stated within the [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) this DPA is applicable to all Enterprise Customer's and does not need to be counter-signed. In addition, as stated within the header of the DPA, a Customer’s acceptance of the Subscription Agreement shall be treated as its execution of the DPA.  
 
 ## Request for Name Change or Change in Control
-Occasionally GitLab will receive a notice from a customer or partner outlining either a change of their company’s legal name or a change in control of the company. The following flow chart outlines the steps to have the customer or partner’s account updated in SFDC.
+Occasionally GitLab will receive a notice from a customer or partner outlining either a change of their company’s legal name or a change in control of the company. The following steps outline the process to have the customer or partner’s account updated in SFDC.
 
-[![](https://mermaid.ink/img/pako:eNqNVE1v4jAQ_Suj9NJKqboSlzYrrQQJadVSkEpXPQAHyxmCtY6d2g4sovz3TnDCl1hpOcX2mzdv5s2wCbjOMIiC3LByAe_JVAH9uteTuLJOF2igNHopMrSgWIHAF0zlCEo7wRGchjGTaO9iulYo7ewGGoYoiuLf4_fb21-961MM6BKVBQYDzJmEN_ys0DoQCsZpEt_4-B7Fj7uD_pgI4s3GQ7lWc2EKWC3QLUjasaLRW_tFRAR0Rsvt1pPFRDboP3YHQGxf3S9IJpNhHRs3sUquZ7NGebwD9b6gP5k073oOsWeczTwoIUx61CRqRNMnmAvFFCe1meZVgcoxJ7SCjwfQBj7ue_3hpbZ52j7RPrbVEqot2BmmLOM7Is4c5tqsI2D8sxJW1LchZGJJXRSuMhgCsxYdWMoRAsnL0YTUFqvlEhVft21JDx49nXtUlVKzzJ4VUQs_ePTUelQfn4jleW-U1JYmhkwC6S-YRZ_2ufWiPjy2Bwp-aYNXQkowuBS4At40-K5kxilq9KkepjLAv4LqVjmw3CDWb9ZnejkiH5yQo9iNT2bY3FGmTApVq9X7dGdp9H4LQJGo00dblaU2OwV1vTur5mi8hsGRhtfDvOzL2S-XFbnCrDbcEvOFtl-Yl9eDf8Nz_yjEW9gyE-NxhXsFjHNdqdP1Gx4t3-g_PB0dPK2PXNL8JUhLQ-JoH6SMrtI07cZJaGmJ_mB01el0fp5A_Xp67MN92nu4_zd2J63B9n8Qc3qGnaogDKjIgomM_ts2dfQ0IOUFToOIPjOcs0q6aTBVW4KyyunxWvEgcqbCMKjKjJYsETRRrPCX228nc7-J?type=png)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNqNVE1v4jAQ_Suj9NJKqboSlzYrrQQJadVSkEpXPQAHyxmCtY6d2g4sovz3TnDCl1hpOcX2mzdv5s2wCbjOMIiC3LByAe_JVAH9uteTuLJOF2igNHopMrSgWIHAF0zlCEo7wRGchjGTaO9iulYo7ewGGoYoiuLf4_fb21-961MM6BKVBQYDzJmEN_ys0DoQCsZpEt_4-B7Fj7uD_pgI4s3GQ7lWc2EKWC3QLUjasaLRW_tFRAR0Rsvt1pPFRDboP3YHQGxf3S9IJpNhHRs3sUquZ7NGebwD9b6gP5k073oOsWeczTwoIUx61CRqRNMnmAvFFCe1meZVgcoxJ7SCjwfQBj7ue_3hpbZ52j7RPrbVEqot2BmmLOM7Is4c5tqsI2D8sxJW1LchZGJJXRSuMhgCsxYdWMoRAsnL0YTUFqvlEhVft21JDx49nXtUlVKzzJ4VUQs_ePTUelQfn4jleW-U1JYmhkwC6S-YRZ_2ufWiPjy2Bwp-aYNXQkowuBS4At40-K5kxilq9KkepjLAv4LqVjmw3CDWb9ZnejkiH5yQo9iNT2bY3FGmTApVq9X7dGdp9H4LQJGo00dblaU2OwV1vTur5mi8hsGRhtfDvOzL2S-XFbnCrDbcEvOFtl-Yl9eDf8Nz_yjEW9gyE-NxhXsFjHNdqdP1Gx4t3-g_PB0dPK2PXNL8JUhLQ-JoH6SMrtI07cZJaGmJ_mB01el0fp5A_Xp67MN92nu4_zd2J63B9n8Qc3qGnaogDKjIgomM_ts2dfQ0IOUFToOIPjOcs0q6aTBVW4KyyunxWvEgcqbCMKjKjJYsETRRrPCX228nc7-J)
+1. Customer provides name change notice to Sales/Channels.
+2. Sales/Channels opens a Legal Request in SFDC.
+3. Legal confirms whether name change OR change in control:
+   
+    a. For **name changes only**, Customer provides financial documentation, W9 or W8BEN to Sales/Channels. 
+    
+    - Sales/Channels uploads documentation to SFDC.
+    - Legal closes the legal case.
+   
+    b. For **change of control**, Legal confirms transaction category (acquisition, divestiture, asset sale, merger, insolvency). 
+    
+    - Legal will review customer/partner documentation and existing agreements.
+    - Legal will either draft redlines to customer documentation or provide new documentation supporting the transfer.
+    - Customer/partner provides signed consent documentation to Sales/Channels.
+    - Sales/Channels uploads signed doc to customer/partner account in SFDC.
+    - Legal closes the legal case.
+
 
 ## Legal Commercial Coverage Model
 
