@@ -41,13 +41,6 @@ Learn from our director of engineering how to shift left your change management 
 
 ### EMEA Time Zone Webinars
 
-#### DevSecOps/Compliance
-##### June 22nd, 2023 at 10:00-11:00AM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_G5hkJv_TTwiVA0wFAVZI6w)
-
 #### Getting Started with DevOps Metrics
 ##### June 27th, 2023 at 10:00-11:00AM UTC
 
