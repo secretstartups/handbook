@@ -33,7 +33,7 @@ SaaS, or Dedicated.
 |:----:| ----- |
 |Self-managed| Self Managed Administrators will need to [configure the desired auth provider](https://docs.gitlab.com/ee/administration/auth/) directly in their gitlab.rb. Any configuration change on this file will require that you run `gitlab-ctl reconfigure` to successfully apply changes.|
 |DotCom| Customers will [Configure SAML SSO for Groups](https://docs.gitlab.com/ee/user/group/saml_sso/index.html) directly, by going to **Group > Settings > SAML SSO**.|
-|Dedicated|[Raise issue with Dedicated team](./dedicated_overview.html#filing-issues)
+|Dedicated|[Raise issue with Dedicated team](./dedicated.html#filing-issues)
 
 
 
@@ -43,7 +43,7 @@ SaaS, or Dedicated.
 |:----:| ----- |
 |Self-managed| Geo is [configured in the gitlab.rb](https://docs.gitlab.com/ee/administration/geo/setup/) file. It requires a premium or higher subscription. **The steps must be followed in the order in which they appear.**|
 |DotCom| *Geo is a Self-Managed feature only.*|
-|Dedicated|[Raise issue with Dedicated team](./dedicated_overview.html#filing-issues)|
+|Dedicated|[Raise issue with Dedicated team](./dedicated.html#filing-issues)|
 
 #### Administrator Panel
 
