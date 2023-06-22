@@ -5,6 +5,53 @@ summary: Lead Gitlab’s go-to-market localization strategy, operations and tech
 
 ## Levels
 
+### Senior Manager, Globalization Technology
+
+The Senior Manager, Globalization Technology reports to the Director, Globalization & Localization.
+
+#### Senior Manager, Globalization Technology Job Grade
+
+The Senior Manager, Globalization Technology is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+
+#### Senior Manager, Globalization Technology Role
+
+The Senior Manager, Globalization Technology is passionate about the changing localization technology landscape and can build a program that leans on tried-and-true tools and practices but with a sharp eye toward the future, especially capabilities that are disruptive in nature and in alignment with the future of automation and AI-assisted tooling. They are a recognized leader in the localization space with a background in building systems that allow for seamless automation, integration, and data capture. They have a recognized talent for helping businesses go global and a demonstrable track record for solutions that solve perennial localization challenges and turning a nascent program into a well-oiled machine. A strong candidate for this role is comfortable with ambiguity and able to navigate within a rapidly transforming environment.
+
+#### Senior Manager, Globalization Technology Responsibilities
+
+- Drive the development and evolution of our localization infrastructure to enable the translation of diverse offerings, including web collateral, product strings, support documentation, and in-language copywriting endeavors.
+- Oversee our technology roadmap by ensuring we meet critical deadlines, show demonstrable improvements at scale and efficiency, and directly impact our deliverability for multiple teams and stakeholders of localized content.
+- Implement integrations with content and product systems to build a holistic ecosystem that allows for the successful localization of any surface area while helping teams and suppliers maintain quality and time-to-market expectations.
+- Partner closely with development teams, content managers, and stakeholders to ensure alignment on workstreams and success measurements
+- Establish operational performance metrics and define a reporting framework for ongoing communication and analysis with an constant eye toward cost and efficiency improvement.
+- Work with developers and suppliers to set up AI-driven routing, workflow enhancements with machine translation, natural language processing, and machine learning to solve localization scale and time-to-market challenges.
+- Be a constant learner, develop a deep understanding of the changing tech landscape in localization and ensure GitLab is adopting or building the best-in-class solutions.
+- Lead by example and communicate localization best practices throughout the organization.
+
+#### Senior Manager, Globalization Technology Desirable Skills, Knowledge, and Experience
+
+- Experience building and leading the development of translation and localization technology stacks.
+- Demonstrable success with building functional relationships with internal stakeholders and external suppliers to support localization endeavors.
+- Deep understanding of localization operational data and reporting frameworks that demonstrate the overall health, strengths, and weaknesses of translation pipelines.
+- Vast working knowledge of the latest localization products and services with a critical eye toward industry trends.
+- Experience brining cross-functional teams together to accomplish global expansion goals.
+- Effective at communicating the business impact of localization operations throughout a globally distributed organization.
+- Strong communication skills.
+- Fluency in English.
+- You share our values, and work in accordance with those values.
+
+### Career Ladder
+
+The next step in the Senior Manager, Globalization Technology job family is not yet defined at GitLab.
+
+### Performance Indicators
+
+- Build and maintain a state-of-the-art localization platform in partnership with internal development teams and external suppliers.
+- Deploye solutions for localization workflows that rely more on integrated ML and generative AI tooling.
+- Speed and throughput of translation; % of on-time deliveries.
+- Localization Quality; average language quality scores.
+- Total localization costs relative to content volume / format; fully-loaded price per word.
+
 ### Director, Globalization & Localization
 
 The Director, Globalization & Localization reports to the VP Marketing Strategy & Platforms.
@@ -52,6 +99,7 @@ The next step in the Director, Globalization & Localization job family is not ye
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#screening) with one of our Global Recruiters.
 - A 45 minute interview with our VP, Marketing Strategy & Platforms
 - A 45 minute interview with our Director, Digital Experience or Group Product Manager, Growth
