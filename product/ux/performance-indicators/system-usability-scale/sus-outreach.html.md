@@ -48,10 +48,15 @@ Every quarter, we include a question in the SUS survey that asks whether respond
 >
 > I disagree, I do not want my voice or screen to be recorded.
 
+#### Before the call
+
+1. Locate and review the [SUS Interview Template](https://gitlab.dovetailapp.com/data/4GEKIhm6rHl421tJM382vi) in Dovetail. Make sure to copy this template into a new note file for your session.
+1. Update the note to include information about your session. Specifically, copy over the participants' SUS score and verbatim from the survey, so you can learn more about the user's feedback. 
+
 #### After the call
 
 1. If multiple GitLab team members are on the call, it can be beneficial to debrief immediately afterwards.
-1. Collect all notes that were taken and the link to the Zoom recording (if applicable) and add them to our [SUS Follow-ups folder in the UX Research team Google Drive](https://drive.google.com/drive/folders/1vcCCRVnP3BrpdE9iZN64hqKJK89v6PbJ?usp=sharing).
+1. Collect all notes that were taken and the upload the Zoom recording (if applicable) to our [SUS Follow-up Project in Dovetail](https://gitlab.dovetailapp.com/projects/36nmGVKvkaT7SGMXtUeHVg/v/70xPTo5RzTRZnCNEVz1fWH).
 1. If you told the user you'd follow up on anything or promised to send them further information, make sure you do so, ideally within two business days.
 1. Add the label 'SUS::Impacting' to any epics/issues that result from or align with feedback from the SUS outreach calls.
 
