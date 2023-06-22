@@ -18,7 +18,7 @@ Reports are considered [Internal](https://about.gitlab.com/handbook/communicatio
 Annually during Q4
 
 ### Leadership Sponsor
-Julia Lake, Sr. Director, Security Assurance
+TBD
 
 ### DRI
 The Field Security team is responsible for collecting and analyzing the data, crafting and validating potential solutions, and tracking future remediation activities. 
