@@ -1,7 +1,14 @@
-layout: handbook-page-toc
-title: "Sales Guide: Collaborating with GitLab Legal"
-description: "This resource provides assistance to the GitLab Sales Team on operational and educational elements of working with GitLab Legal for Customer negotiations"
 ---
+layout: handbook-page-toc
+title: Sales Guide: Collaborating with GitLab Legal
+description: This resource provides assistance to the GitLab Sales Team on operational and educational elements of working with GitLab Legal for Customer negotiations
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## OVERVIEW 
 
@@ -9,45 +16,32 @@ Thank you for visiting! The purpose of this Handbook resource is to provide all 
 
 Note: All references to ‘GitLab Legal’ or ‘Legal’ within this Handbook page refers to the Commercial Legal team.
 
-(1) [Operational](https://about.gitlab.com/handbook/legal/customer-negotiations/#operational) - How to work with and engage GitLab Legal including requirements to close a deal, general FAQ for legal ops, including some parallels to Finance and Deal Desk matters. 
+(1) [Operational](#operational) - How to work with and engage GitLab Legal including requirements to close a deal, general FAQ for legal ops, including some parallels to Finance and Deal Desk matters. 
 
-(2) [Educational](https://about.gitlab.com/handbook/legal/customer-negotiations/#educational) - Learning about how and why Legal and our agreements work to better serve Sales during a sales cycle including proactive advice and education to enable Sales to feel more confident when a customer has legal related questions.   
+(2) [Educational](#educational) - Learning about how and why Legal and our agreements work to better serve Sales during a sales cycle including proactive advice and education to enable Sales to feel more confident when a customer has legal related questions.   
 
 The information contained on this page is organized into two distinct categories Operational and Educational as follows:
 
-
-| OPERATIONAL|
-| ------ |
-| [**How to Reach the Legal Commercial Team**](#how-to-reach-the-legal-commercial-team) |      
-| [**How do I get an Agreement signed**](#how-do-i-get-an-agreement-signed) (including NDAs, DPAs and Letters of Authorization) | 
-| [**Clearing Export Review in SFDC**](#export-review-in-sfdc) |
-| [**Completing Vendor Request Forms**](#completing-vendor-request-forms) |
-| [**Requests for GitLab Financial Information and Insurance Certificates**](#requests-for-gitlab-financial-information-and-insurance-certificates) | 
-| [**Escalation Process**](#escalation-process) |
-| [**Request for Name Change or Change in Control**](#request-for-name-change-or-change-in-control) |
-| [**Legal Commercial Coverage Model**](#legal-commercial-coverage-model) |
+| OPERATIONAL | EDUCATIONAL |
+| ------ | ------ |
+| [**How to Reach the Legal Commercial Team**](#how-to-reach-the-legal-commercial-team) | [**Overview of GitLab Agreements**](#overview-of-gitlab-agreements)  |     
+| [**How do I get an Agreement signed**](#how-do-i-get-an-agreement-signed) (including NDAs, DPAs and Letters of Authorization) | [**When does GitLab negotiate**](#when-does-gitlab-negotiate)  |
+| [**Clearing Export Review in SFDC**](#export-review-in-sfdc) | [**What is Open Source Software?**](#what-is-open-source) |
+| [**Completing Vendor Request Forms**](#completing-vendor-request-forms) | [**GitLab Subscription Agreement Basics**](#gitlab-subscription-agreement-basics) |
+| [**Requests for GitLab Financial Information and Insurance Certificates**](#requests-for-gitlab-financial-information-and-insurance-certificates) | [**Business Associate Agreements**](#business-associate-agreements-baas) |
+| [**Escalation Process**](#escalation-process) | [**Data Privacy and the GitLab Data Processing Addendum**](#data-privacy-security-and-the-gitlab-data-processing-addendum) |
+| [**Request for Name Change or Change in Control**](#request-for-name-change-or-change-in-control) | [**Legal Commercial Coverage Model**](#legal-commercial-coverage-model)|
+| [**Legal Commercial Coverage Model**](#legal-commercial-coverage-model) | [**Contract Lifecycle Management (CLM) Process**](#clm-process)|
 | [**GitLab Issues: Collaborating Cross-Functionally**](#collaborating-cross-functionally-with-gitlab-issues) |
 | [**Best Practices for a Legal Call**](#best-practices-for-a-legal-call) |
 | [**Request for Training (LevelUp) Certification Purchases**](#request-for-training-levelup-certification-purchases)|
 | [**Request for an Evaluation Agreeement**](#request-for-a-trial-or-evaluation-agreement) |
 
-| EDUCATIONAL |
-| ------ |
-| [**Overview of GitLab Agreements**](#overview-of-gitlab-agreements)  |
-| [**When does GitLab negotiate**](#when-does-gitlab-negotiate)  |
-| [**What is Open Source Software?**](#what-is-open-source) |
-| [**GitLab Subscription Agreement Basics**](#gitlab-subscription-agreement-basics) |
-| [**Business Associate Agreements**](#business-associate-agreements-baas) |
-| [**Data Privacy and the GitLab Data Processing Addendum**](#data-privacy-security-and-the-gitlab-data-processing-addendum) |
-|[**Legal Commercial Coverage Model**](#legal-commercial-coverage-model)|
-|[**Contract Lifecycle Management Process**](#clm-process)|
-
-
-## OPERATIONAL
+# OPERATIONAL
 
 ## How to Reach the Legal Commercial Team
 
-### Different situations require different approaches. In the vast majority of cases regarding revenue-related requests, the proper way to engage the Legal team is through Salesforce (SFDC) by creating a legal request per the process below.
+#### Different situations require different approaches. In the vast majority of cases regarding revenue-related requests, the proper way to engage the Legal team is through Salesforce (SFDC) by creating a legal request per the process below.
 
 1. Click the "Legal Request” button under the customer’s opportunity in SFDC (or at the account level if related to a partner). This enables Legal to gather more information regarding Legal Requests created and the applicable opportunity information. If an opportunity does not exist, please open a $0 opportunity and then create the Legal Request following the steps within this section.  
 2. Once the Legal Request is correctly created, the request is logged in a queue where the appropriate Legal team member will assign themselves to the case and will communicatewith originator as applicable. 
@@ -69,7 +63,7 @@ The information contained on this page is organized into two distinct categories
 
 2. All agreements require a Legal approval stamp in order to be signed. This stamp is placed on the agreement by a Legal team member when an executable version is reached.
 
-## _NOTE - the Legal Stamp is not a signature_
+### _NOTE - the Legal Stamp is not a signature_
 
 3. Once the Agreement has been stamped by Legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the agreement for signature within SFDC.
 
@@ -85,7 +79,7 @@ GitLab includes a signed version of the DPA on the Terms of Use website. As stat
 Visit the [Channel Operations page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#letters-of-authorization) to learn how partners can request a Letter of Authorization.
 
 **Legal Team Steps:**
-1. Once the Partner has executed or otherwise clicked to accept a GitLab partner abreement, credentials and access to the partner portal will be made available to allow a partner to request an LOA to confirm that the partner is 
+1. Once the Partner has executed or otherwise clicked to accept a GitLab partner agreement, credentials and access to the partner portal will be made available to allow a partner to request an LOA to confirm that the partner is 
 a valid and authorized, Legal will receive an email via DocuSign to `loa@gitlab.com`.
 2. Legal will then fol GitLab partner.  Once the DocuSign process is initiated by the partner, the LOA will be routed to the Legal team to add a Legal Stamp, and then to a GitLab authorized signatory.  Upon completion, the fully executed LOA will be distributed via DocuSign to GitLab Legal and the partner.
 3. If a partner requests a non-standard LOA with custom terms, please open a Legal Request in SFDC as outlined above. 
@@ -142,11 +136,7 @@ GitLab includes a signed version of the DPA on the [Terms of Service](https://ab
 ## Request for Name Change or Change in Control
 Occasionally GitLab will receive a notice from a customer or partner outlining either a change of their company’s legal name or a change in control of the company. The following flow chart outlines the steps to have the customer or partner’s account updated in SFDC.
 
-'''mermaid
-
 [![](https://mermaid.ink/img/pako:eNqNVE1v4jAQ_Suj9NJKqboSlzYrrQQJadVSkEpXPQAHyxmCtY6d2g4sovz3TnDCl1hpOcX2mzdv5s2wCbjOMIiC3LByAe_JVAH9uteTuLJOF2igNHopMrSgWIHAF0zlCEo7wRGchjGTaO9iulYo7ewGGoYoiuLf4_fb21-961MM6BKVBQYDzJmEN_ys0DoQCsZpEt_4-B7Fj7uD_pgI4s3GQ7lWc2EKWC3QLUjasaLRW_tFRAR0Rsvt1pPFRDboP3YHQGxf3S9IJpNhHRs3sUquZ7NGebwD9b6gP5k073oOsWeczTwoIUx61CRqRNMnmAvFFCe1meZVgcoxJ7SCjwfQBj7ue_3hpbZ52j7RPrbVEqot2BmmLOM7Is4c5tqsI2D8sxJW1LchZGJJXRSuMhgCsxYdWMoRAsnL0YTUFqvlEhVft21JDx49nXtUlVKzzJ4VUQs_ePTUelQfn4jleW-U1JYmhkwC6S-YRZ_2ufWiPjy2Bwp-aYNXQkowuBS4At40-K5kxilq9KkepjLAv4LqVjmw3CDWb9ZnejkiH5yQo9iNT2bY3FGmTApVq9X7dGdp9H4LQJGo00dblaU2OwV1vTur5mi8hsGRhtfDvOzL2S-XFbnCrDbcEvOFtl-Yl9eDf8Nz_yjEW9gyE-NxhXsFjHNdqdP1Gx4t3-g_PB0dPK2PXNL8JUhLQ-JoH6SMrtI07cZJaGmJ_mB01el0fp5A_Xp67MN92nu4_zd2J63B9n8Qc3qGnaogDKjIgomM_ts2dfQ0IOUFToOIPjOcs0q6aTBVW4KyyunxWvEgcqbCMKjKjJYsETRRrPCX228nc7-J?type=png)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNqNVE1v4jAQ_Suj9NJKqboSlzYrrQQJadVSkEpXPQAHyxmCtY6d2g4sovz3TnDCl1hpOcX2mzdv5s2wCbjOMIiC3LByAe_JVAH9uteTuLJOF2igNHopMrSgWIHAF0zlCEo7wRGchjGTaO9iulYo7ewGGoYoiuLf4_fb21-961MM6BKVBQYDzJmEN_ys0DoQCsZpEt_4-B7Fj7uD_pgI4s3GQ7lWc2EKWC3QLUjasaLRW_tFRAR0Rsvt1pPFRDboP3YHQGxf3S9IJpNhHRs3sUquZ7NGebwD9b6gP5k073oOsWeczTwoIUx61CRqRNMnmAvFFCe1meZVgcoxJ7SCjwfQBj7ue_3hpbZ52j7RPrbVEqot2BmmLOM7Is4c5tqsI2D8sxJW1LchZGJJXRSuMhgCsxYdWMoRAsnL0YTUFqvlEhVft21JDx49nXtUlVKzzJ4VUQs_ePTUelQfn4jleW-U1JYmhkwC6S-YRZ_2ufWiPjy2Bwp-aYNXQkowuBS4At40-K5kxilq9KkepjLAv4LqVjmw3CDWb9ZnejkiH5yQo9iNT2bY3FGmTApVq9X7dGdp9H4LQJGo00dblaU2OwV1vTur5mi8hsGRhtfDvOzL2S-XFbnCrDbcEvOFtl-Yl9eDf8Nz_yjEW9gyE-NxhXsFjHNdqdP1Gx4t3-g_PB0dPK2PXNL8JUhLQ-JoH6SMrtI07cZJaGmJ_mB01el0fp5A_Xp67MN92nu4_zd2J63B9n8Qc3qGnaogDKjIgomM_ts2dfQ0IOUFToOIPjOcs0q6aTBVW4KyyunxWvEgcqbCMKjKjJYsETRRrPCX228nc7-J)
-
-'''
 
 ## Legal Commercial Coverage Model
 
@@ -194,8 +184,7 @@ Provided the customer has been directed to the trial process first and approvals
 
 Once the Request Form is executed, the sales team member or solutions architect should save the document in the customer’s account in SFDC. Sales Support should then be tagged in SFDC to assist in activating customer’s free access to the GitLab Software for the applicable term and number of users. 
 
-
-## EDUCATIONAL
+# EDUCATIONAL
 
 ## Overview of GitLab Agreements
 
@@ -215,9 +204,6 @@ If the net ARR threshold requirements are met, a Sales team member must open a L
 
     * *Note about Channel Partners: With regard to partners, eligibility for negotiations arises from partner categorization (Open Partner or Select Partner) as only Select partners will be allowed to negotiate terms.*
 
-
-
-
 2. __Negotiating on customer's agreement template__: Regardless of the NARR, a customer's agreement will almost always have terms that are unrelated to, and in some cases at complete odds with, the type of software we sell, how we license our software, and, in the case of professional services, how we implement our software.  
 
     For example, customer agreements rarely cover, (i) an open-core model, (ii) our support SLAs, (iii) correct reference to the types of product usage data that we will (or will not) collect. We sell standard software with no customization or independent development of the underlying GitLab software. If it is determined to utilize a customer’s agreement, it is best practice to work with your assigned Legal team member to pre-emptively message and set expectations with the customer  to help establish a level of trust and transparency, knowing that there will likely be extensive modifications and an increased time frame to finalize terms. 
@@ -231,7 +217,7 @@ If the net ARR threshold requirements are met, a Sales team member must open a L
 4. The open source project for GitLab can be found at [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab/).
 
 ## GitLab Subscription Agreement Basics
-### 🎥 Watch the ["Subscription Agreement Basics" Video](https://www.youtube.com/watch?v=jaX81XXD55w) 
+#### 🎥 Watch the ["Subscription Agreement Basics" Video](https://www.youtube.com/watch?v=jaX81XXD55w) 
 **Note: The video above is available to GitLab team members only**
 
 ## Business Associate Agreements (BAAs)
