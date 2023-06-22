@@ -245,7 +245,9 @@ Independent Contractors requiring access to Orange or Red data in the provision 
 <summary markdown="span">2. GitLab Laptop Request</summary>
 
 - GitLab Laptop Request Issue OR Assignment of VDI Environment Access
-    - Controls related to the security of hardware utilized by personnel are an important piece in ensuring the security and privacy of GitLab data. In order for GitLab to maintain oversight over this critical function, contractors are required to be issued a GitLab laptop or access to a VDI (Virtual Desktop Interface) environment to be used for **all** work performed on GitLab's behalf. To submit a request for a GitLab laptop, please follow the directions [here](https://docs.google.com/forms/d/e/1FAIpQLScbEx4SNmyZBngsUEkBf_4kgBS3X8EcE_KZ_6qige6OTJjYWw/viewform). 
+    - Controls related to the security of hardware utilized by personnel are an important piece in ensuring the security and privacy of GitLab data. In order for GitLab to maintain oversight over this critical function, contractors are required to be issued a GitLab laptop or access to a VDI (Virtual Desktop Interface) environment to be used for **all** work performed on GitLab's behalf. To submit a request for a GitLab laptop, please follow the directions [here](https://docs.google.com/forms/d/e/1FAIpQLSfd9TR-Vw4IU5G3yQYzUStUAybcIWwCB44WICA5YqVDcb0QIg/viewform). 
+
+    Note that this does not apply to professional services vendors whose internal security control environment (including endpoint security controls) have been vetted by TPRM.
 
 </details>
 
