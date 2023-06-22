@@ -179,6 +179,29 @@ WHERE group_name=[fill in group name here]
 AND granularity_level = 'group'
 ORDER BY 1
 ```
+
+## Tableau Migration
+
+Please see our team’s [FY24 Q2 OKR - Begin migration from Sisense to Tableau for Engineering](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2732) for a general overview of the Tableau migration.
+
+In FY24 Q2, we plan to migrate ~20 following dashboards, starting with:
+* Top Engineering Metrics dashboard: [Sisense](https://app.periscopedata.com/app/gitlab/1000952) [Tableau](https://10az.online.tableau.com/t/gitlab/views/TopEngineeringMetrics_16873826376700/TopEngineeringMetricsDashboard?:origin=card_share_link&:embed=n)
+* Quality Department KPIs: [Sisense](https://app.periscopedata.com/app/gitlab/516343)
+* Development KPIs: [Sisense](https://app.periscopedata.com/app/gitlab/504639)
+
+[Analysis of Sisense dashboards owned by Engineering](https://app.periscopedata.com/app/gitlab/1142390/WIP:-cdeleon---Engineering-owned-dashboards-and-owners)
+
+[Google sheet to check off which dashboards need to be ported over, deprecated, or re-designed](https://docs.google.com/spreadsheets/d/1ZpfHJ5CpRlxjmW2aHYzjbRC5pxyQ2NYQWTPle9spYPY/edit#gid=0)
+
+This effort includes:
+* migration or deprecation of existing Engineering dashboards/charts
+* migration of charts embedded in our public handbook
+* any data engineering work that is required as we move from Sisense to Tableau (e.g., snippets in Sisense to become data models in Snowflake that can be explored/used in Tableau)
+* updating of documentation related to Engineering metrics
+
+Note: These dashboards in particular will not be re-designed, and thus porting should be relatively straightforward; i.e., the overall dashboards and their charts will look and act very similarly to how they are displayed and how they behave in Sisense today.
+
+
 ## Work Type Classification
 
 We use the following type labels to classify our Issues and Merge Requests.
