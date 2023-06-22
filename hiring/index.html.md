@@ -198,6 +198,7 @@ Please find pages for potential and active applicants below.
   * Interviews will always be scheduled as “private” events to ensure the candidate’s privacy. Interviews will show up as “busy” events on candidate and interviewers calendars rather than showing as interviews.
   * If internal applicants apply via our internal job board, the yellow “internal applicant” tag will automatically show in the GH profile. If you don’t see this tag, you can add it by navigating to the “Details” tab in GH and scroll down to “Source & Responsibility”. Click the pencil next to Source and select Internal Applicant from the drop down.
   * CES will use the internal applicant’s Google Calendar to find an appropriate time for them to meet, and do not need to be sent an availability email.
+  * Former GitLab team members who re-apply are not considered internal candidates. Their source should be whatever they used to apply (ie application), and you should add a "Former Team Member" tag to their profile.
 </details>
 
 <details>
