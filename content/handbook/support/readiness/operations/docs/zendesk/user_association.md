@@ -61,6 +61,10 @@ If the organization has a contact management project, we cannot proceed forward.
 The organization would need to add the user in question via the contact
 management project.
 
+>> Note: If customer purchased AWS license (AWS AMI with GitLab domain email),
+please use [this organization](https://gitlab.zendesk.com/agent/organizations/9306291514524)
+to associate. Please read the organization notes carefully.
+
 ##### Locating the Salesforce ID for SaaS customers
 
 For SaaS customers, we need to use a comnbination of the `GitLab Super App` and
