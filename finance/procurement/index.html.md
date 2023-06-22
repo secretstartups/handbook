@@ -406,6 +406,17 @@ In addition to ensuring terms and conditions, the GitLab Legal Procurement team 
 
 Agreements, as GitLab does with its own customers, include obligations that vendor’s have to GitLab. These can include uptime / downtime commitments (for SaaS providers), SLAs (for support), termination rights, and other commercial contract provisions which would enable GitLab to seek relief in the event of disruption
 
+### Large Internal Events Process
+
+For any large internal events with a total cost greater than $1M, such as SKO, President’s Club, Commit, etc, the following should be completed before any contracts are executed or any work is conducted. The planning stages for events of this size should be completed at least 18-24 months prior to the actual event. This allows for ample time to get the necessary internal approvals, run any RFPs needed, and book large hotel blocks or buyouts.
+    -Connect with your Procurement Category Manager and FP&A Business Partner to determine the various vendors needed to run the event and line item detail in the total event budget. This would include lodging, food & beverage, event planning, on-site support, excursions, travel, etc.
+    -Determine with your Procurement contact how these vendors will be selected and the timeline to run any necessary RFPs. RFPs should be conducted at least 20 months prior to the event dates.
+    -Upon completion of RFPs, the top 2-3 location options and their total pricing will be presented to the E Group DRI (CRO/CMO) and VP of Finance to determine the preferred location choice and corresponding budget. All information should be summarized in an issue where these approvals may be documented.
+    -Once preferred location and budget are tentatively chosen, this information will be presented to the CFO for approval, and will then be presented to the Board for approval at their quarterly meeting, or via email as necessary. Please note that Board approvals may take multiple weeks. CFO and Board approvals should be obtained no less than 18 months prior to the event dates.
+    -After all executive approvals are received, the Zip request(s) should be created to document official approvals, obtain signatures on contracts, and release PO(s).
+
+
+
 ## <i class="fas fa-book" id="biz-tech-icons"></i> Helpful Documents and Templates
 
 #### Contract Templates
