@@ -111,6 +111,7 @@ See the [onboarding template](https://gitlab.com/gitlab-com/people-group/employm
 Or for example a list of [Key Performance Indicators](/company/kpis/) that links to performance indicators but doesn't duplicate definitions.
 
 #### Avoid unstructured content
+{:.no_toc}
 
 - **Avoid unstructured content based on formats like Learning Playbooks, [FAQs](https://idratherbewriting.com/2017/06/23/why-tech-writers-hate-faqs/), lists of links (such as quick links), resource pages, glossaries, courses, videos, tests, processes, standard operating procedure, training, or how-to's.**
 These are very hard to keep up-to-date and are not compatible with organization per function and result. For example: Call it Contract Negotiation Handbook instead of Contract Negotiation Playbook
@@ -119,7 +120,7 @@ Use descriptive headings so that people can easily search for content.
 - That said, please mix _formats_ where and when appropriate in the handbook, even within a single page.
 Utilizing multiple formats can be valuable, and different people may prefer certain formats over others.
 - Worry only about the organization **per function and result**, not about how the page will look if you embed varying types and formats of content.
-- Note: A weakness of [FAQs](https://about.gitlab.com/handbook/communication/dont-use-faqs) is that questions are often asked in biased or leading ways. When possible, state facts as facts. 
+- Note: A weakness of [FAQs](/handbook/communication/#dont-use-faqs) is that questions are often asked in biased or leading ways. When possible, state facts as facts. 
 
 #### Use headings liberally
 {:.no_toc}
@@ -127,6 +128,11 @@ Utilizing multiple formats can be valuable, and different people may prefer cert
 If a page includes more than two headings (especially if it's larger than a single "screen"), add an automatically generated Table of Contents (ToC) by copying [line 6 to 10 in this MR](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/7141/diffs#f054d0f855ebef2a11559c362a356a2f9e010b99_6_6).
 Headings should have normal capitalization: don't use [ALL CAPS](https://en.wikipedia.org/wiki/All_caps) or [TitleCase](http://www.grammar-monster.com/glossary/title_case.htm).
 After a heading, leave one blank line; this is [not required in the standard](http://spec.commonmark.org/0.27/#example-46), but it is our convention.
+
+#### Use contributable diagrams
+{:.no_toc}
+
+Preference contributable diagrams over uploading images or other less contributable diagrams. This makes it easier for other people to suggest changes and contribute. Diagram options in Markdown include [Mermaid](/handbook/markdown-guide/#mermaid) and [PlantUML](/handbook/markdown-guide/#plantuml). 
 
 ### Editing the handbook
 {:.no_toc}
