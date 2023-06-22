@@ -169,16 +169,15 @@ No, not at this time.
 |  [Jeremy Neff](https://www.linkedin.com/in/jeremy-r-neff/) | Non-GitLab shadow - Manager at [Joint Communications Unit](https://www.jcu.mil/) |
 | [Palwasha Malik](https://www.linkedin.com/in/palwasha-malik/) | Non-GitLab shadow - Software developer at [Devsinc](https://devsinc.com/)  |
 | [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/) | Non-GitLab shadow - Independent software engineer |
-
+|  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
 
 ## Schedule
 
 
 | Week of | Shadow(s) | Department | 
 | ------ | ------ | ----- |
-| June 19 |  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
 | June 26    | [Palwasha Malik](https://www.linkedin.com/in/palwasha-malik/) | Non-GitLab shadow - Software developer at [Devsinc](https://devsinc.com/)  |
-| July 3     |  Not Available | |
+| July 3 |  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
 | July 10    |  [Fazal Ur-Rehman](https://www.linkedin.com/in/fazal-ur-rehman-805571128/) | Associate Team Lead at [LexisNexis](https://www.lexisnexis.com/) |
 | July 17    |  Available | |
 | July 24    |  [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
