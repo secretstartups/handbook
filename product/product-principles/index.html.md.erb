@@ -207,9 +207,11 @@ Sometimes fast deployments are needed to fix a service or application outage tha
 
 #### Parity between SaaS and Self-managed deployments
 
-We want to provide the same capabilities to our users regardless of the method they choose to use GitLab (GitLab.com or Self-managed). At the same time, we believe in the power of a [single code base](https://about.gitlab.com/handbook/product/single-application/#single-codebase).
+We want to provide the same capabilities to end users regardless of the method they choose to use GitLab (GitLab SaaS or Self-managed). At the same time, we believe in the power of a [single code base](https://about.gitlab.com/handbook/product/single-application/#single-codebase). Therefore we strive to maintain feature parity between SaaS and Self-managed installations. 
 
-Therefore we maintain feature parity between SaaS and Self-managed installations.
+In line with our [SaaS-first](#saas-first) principle, some features may be released on SaaS to gain operational experience prior to recommending and supporting customers using it. All features will eventually be made available across SaaS and self-managed once those learnings have been applied.
+
+For functionality where implementation may be especially challenging without cloud services, for example with AI, self-managed functionality may be dependent on an underlying SaaS service. This allows us to provide end users the same capabilities regardless of deployment type, and not overly constrain our feature set or impose significant operational complexities on each deployment. Product managers need to be aware that this may impact the adoption of these features, as not all customers may be willing or able to leverage underlying SaaS services, such as air-gapped deployments.
 
 #### Principled adherence to the established knowledge architecture
 
