@@ -37,8 +37,8 @@ According to the [statement of support](/support/gitlab-com-policies/#name-squat
 
 Contact Owner:
 
-1. Create a **new Zendesk ticket** with the **namespace owner's email address** as the requester (found in admin).
-1. Set the form of the new ticket to **SaaS Account**.
+1. Create a **new Zendesk ticket** with the **namespace owner's email address** as the requester (found in admin) by following [**this specific workflow to create ticket and user**](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests) 
+1. Apply the macro `General::Outbound Contact Request` that ensure the new ticket routes properly and the end-user we wish to contact receives the correct notification. 
 1. Apply the [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059) macro and mark the ticket as **On-hold**.
 1. Make an internal comment providing a link to the **namespace requester's ticket**.
 
