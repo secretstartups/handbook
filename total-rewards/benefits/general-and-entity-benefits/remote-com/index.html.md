@@ -25,6 +25,8 @@ All of the benefits listed below are administered and managed by [Remote](https:
 
 Remote will offer healthcare through Omint all hired from April 2022 onwards. Team members have the option to add dependents to the healthcare plan at an additional cost. 
 
+Team Members hired prior to April 2022 are legacied in to the medical allowance policy. Team Members hired after April 2022 are not eligible for this policy.
+
 ### Remote - Brazil  Statutory Leave policies
 Below is the information related to Brazil's statutory leave policies.  Please note that team members hired in Brazil are hired via Remote (PEO) and you should always check with Remote first for the most up to date information.
 
