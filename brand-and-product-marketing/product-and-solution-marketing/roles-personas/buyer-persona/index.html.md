@@ -157,7 +157,7 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
 
 
 * **Potential Titles:**
-   * Application Development Executive (VP, etc) / Application Development Director / Application Development Manager / Product Development / Application Developer / Software Developer/ Softwware Engineer  
+   * Application Development Executive (VP, etc) / Application Development Director / Application Development Manager / Product Development / Application Developer / Software Developer / Software Engineer
      
 * **Reports to:**
    * Director or VP App Development  
