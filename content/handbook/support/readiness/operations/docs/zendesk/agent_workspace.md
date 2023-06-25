@@ -1,6 +1,6 @@
 ---
 title: Agent Workspace
-description: Support Operations documentation page for Zendesk agent worspace
+description: Support Operations documentation page for Zendesk agent workspace
 canonical_path: "/handbook/support/readiness/operations/docs/zendesk/agent_workspace"
 ---
 
@@ -18,9 +18,9 @@ For those using the legacy ticket pages, this comes with a number of changes.
 
 ## The comments sorting is now reversed
 
-With agent worspace, the way the comments are displayed now mirror what our
+With agent workspace, the way the comments are displayed now mirror what our
 customers see. This means the oldest comment is at the top of the ticket and the
-nexest comment is at the bottom of the ticket.
+latest comment is at the bottom of the ticket.
 
 When loading a ticket, you should also be put at the newest comment on the
 ticket (i.e. at the bottom of the ticket's comment section).
@@ -89,7 +89,7 @@ While macros can still be used in the same traditional way (using the
 them via slash commands now. It will use what is being typed to filter through
 the macros on the Zendesk instance (you can use the arrow keys to navigate
 through this menu). To apply the macro in this way, you can either click the
-macro that appears or hit the enter key when hightlighted on the macro in
+macro that appears or hit the enter key when highlighted on the macro in
 question.
 
 ![Using macros in agent workspace](/handbook/support/readiness/operations/images/agent_workspace_macros.gif)
@@ -151,7 +151,7 @@ resume working on the other mode.
 **Note** Switching between the two does **not** copy the message into the new
 mode. You will need to copy your reply first and paste it into the new mode.
 
-**Note** Typing in obth modes and submitting the ticket does **not** submit both
+**Note** Typing in both modes and submitting the ticket does **not** submit both
 messages. It only submits the message you currently have displayed.
 
 ## There is no longer a preview option for your reply
@@ -164,7 +164,7 @@ reply box renders the reply as it will be posted.
 
 In the bottom-left of the reply box, there is an option to toggle draft mode for
 your reply. This allows you to write your message without the worry of
-accidently sending it out before it is completed. When in draft mode, if you try
+accidentally sending it out before it is completed. When in draft mode, if you try
 to send out the reply, a warning message will indicate you are in draft mode and
 ask you to confirm the sending of the reply.
 
