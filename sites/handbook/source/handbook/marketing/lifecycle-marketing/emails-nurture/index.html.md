@@ -864,10 +864,9 @@ If you don't have Marketo access and would like to see what the email templates 
 
 All Campaign Managers and reviewers should adhere to the following protocol for every marketing email that is sent to ensure brand consistency and quality in our email program. While the owner of the email should review the email, they must also assign the emails to the corresponding Lifecycle Marketing Manager as listed on the email templates.
 
+ Marketo is the primary system for all marketing emails and the regularly scheduled security updates. Iterable or Marketo should be used for emails to gitlab.com users as these users are not in our marketing systems (unless they have signed up for content).
 
-We use both Marketo and MailJet to send ad-hoc emails. Marketo is the primary system for all marketing emails and the regularly scheduled security updates. MailJet should be used for emails to gitlab.com users as these users are not in our marketing systems (unless they have signed up for content). *Examples of emails to be sent through MailJet: Critical security updates, support updates that impact a specific subset of users, suspicious account activity notifications.*
-
-To send via MailJet, fill out an issue and follow protocol found [here](/handbook/marketing/emergency-response/#customer-comms-email).
+To send an operational email, fill out an issue and follow protocol found [here](/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email).
 
 ## Sales nominated flows in Marketo
 {: #sales-nominated .gitlab-purple}
