@@ -113,6 +113,7 @@ This is used for campaigns that can either be organised through a 3rd party vend
 | Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  |
 | Waitlist | Holding state if registration is full will be moved to `Registered` if space opens |  |
 | Registered | Registered for the event |  |
+| Cancelled | Registered, but cancelled ahead of the event | 
 | No Show | Registered, but did not attend the event |  |
 | Attended | Attended the Event | Yes |
 | Follow Up Requested | Requested follow up during the event | Yes |

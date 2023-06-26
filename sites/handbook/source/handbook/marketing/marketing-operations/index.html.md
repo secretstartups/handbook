@@ -304,14 +304,14 @@ For information regarding the tech stack at GitLab, please visit the [Tech Stack
 Integrated with Salesforce
 </summary>
 
-- [6sense]()
+- [6sense](/handbook/marketing/marketing-operations/6sense/)
 - [Bizible / Marketo Measue](/handbook/marketing/marketing-operations/bizible/)
 - [Demandbase](/handbook/marketing/account-based-marketing/demandbase/)
 - [Drift](/handbook/marketing/marketing-operations/drift/)
 - [LinkedIn Sales Navigator](/handbook/sales/training/social-selling/)
 - [Marketo](/handbook/marketing/marketing-operations/marketo)
 - [Outreach.io](/handbook/marketing/marketing-operations/outreach)
-- [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
+- [Qualified](/handbook/marketing/marketing-operations/qualified/)
 - [ReachDesk](/handbook/marketing/marketing-operations/reachdesk/)
 - [RingLead](/handbook/marketing/marketing-operations/ringlead/)
 - [Traction](/handbook/marketing/marketing-operations/traction-lead-complete)
@@ -333,6 +333,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/)
 - [On24](/handbook/marketing/marketing-operations/on24)
+- [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
 - [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/)
 - [Smartling](/handbook/marketing/localization/smartling/) (Until Localization team is built out)
 - Survey Monkey
@@ -375,11 +376,11 @@ Click to see dropdown list of available status page URLs.
 
 ### Renewal process for marketing technology budget owners
 
-- Renewal discussion should start 90 days before contract end date (6 months+ for complex tools with many integrations - Marketo, Outreach, etc…).
-- For new software that has been approved create a business case to attach to the Coupa ([example](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6171)).
+- Renewal discussion should start atleast 90 days before contract end date (6 months+ for complex tools with many integrations - Marketo, Outreach, etc…).
+- For new software that has been approved create a business case to attach to the Zip Request ([example](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6171)).
 - With Procurement submit an RFP every 2 years or for tools over 50K+.
 - POC for any new tools or new features before signing a contract.
-- No auto-renewals and 2 year contracts should have massive cost savings.
+- No auto-renewals
 
 Align with Procurement and Finance:
 - Work with Procurement to structure and negotiate the contract. As well, look to do an RFP with multiple vendors for competitive pricing.
@@ -395,8 +396,8 @@ To request access to an existing tool in the stack, [please follow the access re
 
 If you are working with a contractor or consultant that requires access to a tool in our stack, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/) as outlined in the procurement handbook.
 
-### MarTech Change Management 
-## Requesting a New Tool or Process
+## MarTech Change Management 
+### Requesting a New Tool or Process
 
 If you are interested in or would like to request a new tool be added to the tech stack, [please submit an issue using the tools eval issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) in the Marketing Operations repository. Marketing Operations should be included in new tool evaluations to account for system integrations, budget, etc. Any new tools desired after the budget is set will be handled by transferring budget from the other department to Marketing Operations.
 
@@ -410,7 +411,7 @@ The general process for a new tool evaluation is:
 1. Implementation
 1. Post-Implementation Review & Retro
 
-## Resources
+#### Resources
 1. [Requirements Gathering Template](https://docs.google.com/spreadsheets/d/1JsUcCnePqWnc8ownZQEsjsDtMea6pLPk2k-6TV3M_uI/edit#gid=0)
 1. [Weekly Implementation Update Template](https://docs.google.com/document/d/10-C4ZP_GTmG164-1DwV_KPDlcxpIknfPrq0Qv1TccKQ/edit#)
 
@@ -462,13 +463,13 @@ If a field needs to be created in Marketo AND SFDC, it must be created in SFDC f
 If you need assistance with Sales Systems follow the next steps:
 1. Open an [Sales System issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in their project and assign the label `MktgOps/Systems-Request`. Then, add to the corresponding Epic as a related issue, or in the description ([FY23Q4 Example](https://gitlab.com/groups/gitlab-com/-/epics/2043).
 2. Determine the type of request you have:
-    - Fast Track Requests:
+    - Fast Lane Requests:
        1. Permission Set only updates (72 hour SLA w/ Systems)
        2. New Field Creation (1 week SLA w/ Systems)
             - if able, create a changeset in the Marketing Sandbox and link to it in the issue for faster deployment.
     - All other requests that will need separate prioritization based on size and scope
 3. Add [prioritization label](/handbook/marketing/marketing-operations/#labeling) of `MktgOpsPrio::00: Requested`
-    - If a *Fast Track* Request, slack #mktgops and tag Amy Waller to flag to the System Prioritization Slack Channel
+    - If a *Fast Lane* Request, slack #mktgops and tag Amy Waller to flag to the System Prioritization Slack Channel
 4. Prioritization labels will be updated on a regular cadence. If they are labeled `MktgOpsPrio::01: In Queue`, they have been added to the agenda for the Sales Systems Prioritization call that occurs each Tuesday.
 5. Once a milestone is added and the issue is discussed, the label will be updated to `MktgOpsPrio::02: Actioned` by the MktgOps representative that is in the prioritization call. Fast Tracks will often be actioned before the Tuesday call.
     * Once the label has been updated to `MktgOpsPrio::02: Actioned`, follow along with the Sales Systems labels for next steps.
@@ -574,12 +575,6 @@ Status in the table below means:
 | Promotion | paid demand gen |  | Inactive |
 
 
-
-### A Note About Trials
-
-In Q1 FY22 the Demand Generation team began running paid campaigns to drive trial signups. Currently, we don't have the "trial" source bucket split out by paid vs. organic because we don't have Google Analytics tracking on the signup form. Fortunately, this will soon be changing!
-
-Until then, if pulling metrics around source buckets for CAC calculations please use the [Demand Gen dashboard in Sisense](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard) (you can filter by trials).
 
 
 ## Lead and Contact Statuses

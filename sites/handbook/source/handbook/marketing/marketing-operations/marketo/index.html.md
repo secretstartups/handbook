@@ -358,8 +358,10 @@ Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-prod
 
 <details>
 <summary markdown='span'>
-[Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1013A1)
+[Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1013A1)  
 </summary>
+
+Not recommended for email. `Region` uses the country of the parent account, which might not be the location of the person being emailed. This segmentation is not recommended for email marketing unless the message is meant to be based on Account Demographics.
 
 - AMER
 - EMEA
@@ -369,6 +371,20 @@ Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-prod
 
 </details>
 
+<details>
+<summary markdown='span'>
+[Person Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1031A1)   
+</summary>
+
+Recommended for email lists. `Person Region` uses the country of the lead/contact, not the account. Use `Person Region` when you are offering a local event or are sending messaging for people in-region. 
+
+- AMER
+- EMEA
+- APAC
+- LATAM
+- Default
+
+</details>
 
 <details>
 <summary markdown='span'>
