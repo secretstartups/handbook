@@ -30,7 +30,26 @@ The Associate Solutions Architect is a [grade 5](https://about.gitlab.com/handbo
 
 #### Associate Solutions Architect Responsibilities & Requirements
 
-The Associate Solutions Architect has the same responsibilites and requirements as a Solutions Architect, but with less experience.
+#### Associate Solutions Architect Responsibilities
+
+- Engage with customers, both onsite and remotely, by providing technical expertise during the pre-sales process. This includes answering customer inquiries, conducting product demonstrations, and explaining the capabilities and benefits of GitLab.
+- Collaborate with the sales team to support the formulation and execution of the sales strategy. Help identify potential opportunities for GitLab adoption and contribute to the development of sales plans and proposals.
+- Contribute to technical evaluations by assisting in proof-of-concept (POC) or proof-of-value (POV) initiatives. Support the team in designing workshops and providing technical guidance during requests for proposal (RFP) or audits.
+- Establish and maintain positive relationships with customers, focusing on building rapport and trust. Collaborate with individuals within customer environments, understand their needs, and assist them in becoming advocates for GitLab.
+- Effectively communicate customer feedback, requirements, and challenges to relevant teams (including Product Development, Sales, and Marketing) to drive continuous improvement.
+- Maintain a foundational understanding of technologies related to GitLab's market focus.
+- Develop a comprehensive knowledge of the GitLab platform and associated technologies. Stay up to date with product updates, new features, and industry trends related to GitLab.
+- Participate in training and certification programs to enhance expertise in specific technologies.
+- Continuously improve your professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others.
+
+#### Associate Solutions Architect Requirements
+
+- Technical presentation and communication skills
+- Experience in the field of information technology or technical pre-sales
+- Understanding of the end-to-end software development lifecycle
+- Understanding of continuous integration and continuous deployment
+- Ability to use GitLab
+- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ### Solutions Architect
 
@@ -53,16 +72,10 @@ The Solutions Architect is a [grade 6](https://about.gitlab.com/handbook/total-r
 
 #### Solutions Architect Requirements
 
-- Technical presentation and communication skills
+- Extends the Associate Solutions Architect requirements
 - Experience with technical pre-sales or as a professional in the field of information technology
-- Knowledge of the end-to-end software development lifecycle
-- Understanding of continuous integration and continuous deployment
 - Experience with modern software development or operations and their associated technologies
 - Experience with cloud computing and related technologies and practices
-- Willingness to travel
-- B.Sc. in Computer Science or equivalent experience
-- Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
 ### Senior Solutions Architect
 
@@ -74,7 +87,7 @@ The Senior Solutions Architect is a [grade 7](https://about.gitlab.com/handbook/
 
 #### Senior Solutions Architect Responsibilities
 
-- Extends the Associate Solutions Architect responsibilities.
+- Extends the Solutions Architect responsibilities.
 - Solve technical customer issues of broad scope and high complexity.
 - Provide mentorship for Solution Architecture team members and remain a current contributor to team-learning initiatives and activities.
 - Work cross-departmentally to find solutions to complex scenarios and integration issues.
@@ -83,6 +96,8 @@ The Senior Solutions Architect is a [grade 7](https://about.gitlab.com/handbook/
 - Represent GitLab as a speaker at field events or as an author in GitLab-focused publications and blogs.
 - Provide opportunity strategy leveraging market and industry knowledge and trends.
 - Collaborate with the product team while representing customer requirements and feedback.
+- Create Customer Strategy Roadmaps with customers
+- Contribution to Account and Territory Planning Sessions of their region/sub-region
 - Regularly enhances GitLab documentation for clarity and accuracy as well as adding new explanations, examples and sections.
 - Share subject matter expertise through Slack posts, documentation updates, communities of practice, issue and MR participation and other common GitLab collaboration mechanisms.
 - Coach sales team-members on deal qualification when necessary.
@@ -90,7 +105,7 @@ The Senior Solutions Architect is a [grade 7](https://about.gitlab.com/handbook/
 
 #### Senior Solutions Architect Requirements
 
-- Extends the Associate Solutions Architect requirements
+- Extends the Solutions Architect requirements
 - Has experience with the additional responsibilities of a Senior Solutions Architect
 
 ### Staff Solutions Architect
