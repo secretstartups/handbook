@@ -24,13 +24,56 @@ This person is of interest, but has not interacted with the Talent Acquisition (
 * **Prospect** - a person is qualified for a potential future or current role at GitLab, but has not yet formally engaged with moving forward to enter the interview process. There is basic information available (LinkedIn, Blogs, Conference Talks, etc.) and are housed in our CRM talent community.
 * **Candidate** - a person that is interested in an active position at GitLab and is engaged in the interview process (which starts with a recruiter phone screen). These individuals are then tracked in our Applicant Tracking System to engage through the interview process. 
 
+## Our Top of Funnel Commitment
+GitLab uses the term ["underrepresented"](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups) and it is meant to be a way of recognizing that we need more of what we do not have in all aspects of our business. There are many studies that have focused on understanding the benefits of representation in the workforce, and one worth noting is a McKinsey & Company study from 2020. This study found that companies in the top quartile for ethnic and cultural diversity were 36% more likely to have above-average profitability than companies in the bottom quartile. The study analyzed data from more than 1,000 companies in 15 countries*.
+
+As a Talent Acquisition team, we are in a unique position to impact the future of GitLab through intentionally building inclusive hiring practices. One of the key elements of that is the application of thoughtful sourcing strategies to build a balanced top of the funnel. This is not the only thing we are doing to ensure we set ourselves up for success, but it is a main focus for FY24.
+
+* McKinsey & Company. (2020). Diversity wins: How inclusion matters.
+
+### Why focus on top of the funnel?
+
+Statistically, our application and referral candidate pools look very similar to our current team member community. For Talent Acquisition, we know our biggest, direct opportunity to impact our mission toward building a representative workforce is in our sourcing efforts. We are committed to building a sourcing strategy for every search to provide a balanced top of the funnel that is representative of the talent market. In order to measure these efforts, we have introduced a new metric: the sourcing rate %. 
+
+### How will we measure the impact of our efforts?
+Sourcing rate % is a metric that depicts the total number of candidates sourced using a sourcing strategy that has a high probability of reaching underrepresented talent*. This gives an indication of the % of time each of our recruiters spend focused on sourcing underrepresented talent, while also ensuring we are not making any assumptions on how someone may identify. When a recruiter runs a search that is designed to have a greater chance of identifying candidates who are underrepresented at GitLab, they will utilize tags within Greenhouse to enable this metric for us to goal to as a team. Each quarter, we will set team and individual sourcing rate % goals and measure regularly.  
+* Sourcing Rate % Calculation: candidates sourced using DIB strategy / divided by the total number of passively sourced candidates.
+
+### The Sourcing Rate % Metric
+
+**What is Sourcing rate %**: Defined as the total number of candidates sourced utilizing a ‘diverse sourcing strategy’ divided by the total number of candidates (passive, applicants and referrals) in a given pipeline. It is one of our key performance indicators for both sourcers and recruiters on the Talent Acquisition team.  
+
+**How does it work**: Per the definition above, we are measuring our sourcing strategy and it’s effectiveness in building representation in our pipelines. 
+
+ 
 ## How to Source Candidates
 ### For Talent Acquisition Team Members
 At GitLab, we consider each of our recruiter team members on the Talent Acquisition team 'full life cycle' which means, sourcing is a skill and part of the craft in what we do. In order to ensure we are able to bring a snap shot of the total addressable market for each role that we hire against, cultivating a passive pipeline of talent is an essential part of that process. It is also our opportunity to get very intentional when it comes to building representation into our pipelines. 
 
 In accordance with our [values](/company/culture/inclusion/#values) of Diversity, Inclusion and Belonging, and to build teams as diverse as our users, Talent Acquisition provides a collection of sourcing tools [here](https://docs.google.com/spreadsheets/d/1Hs3UVEpgYOJgvV8Nlyb0Cl5P6_8IlAlxeLQeXz64d8Y/edit#gid=2017610662) to expand our hiring teams’ candidate pipelines. If you have any questions on how to implement these resources into your current sourcing strategy or have suggestions for new tools, please reach out to the Talent Acquisition team.
 
-### Our Sourcing Tools
+Our strategy to building representative teams is rooted in our top of funnel strategy. At a high level, our approach and expectations for recruiters and sourcers is as follows: 
+1. At the beginning of every role, recruiters are responsible to build a DIB first approach to their sourcing strategy. We believe healthy pipelines show a balance between source types (applications, referrals, passive talent and internal talent) in order for our hiring teams to have an adequate view of the talent market before making their hiring decision. 
+1. Recruiters run targeted searches leveraging some of our internal resources and sourcing tools (ex: LinkedIn Recruiter, SeekOut, our our CRM)
+1. For each candidate that is sourced in step 2 utilizing a DIB sourcing strategy (ie: leveraging HCBUs in a boolean string, utilizing GraceHopper resume books, etc), apply the appropriate tag. 
+
+**IMPORTANT NOTE** These indicators are not assuming or identifying an individual’s gender, race, or ethnicity—we cannot be certain of this information from a search and do not want to make any assumptions without self-identification. 
+
+Our sourcing rate % is meant to provide a data point to ensure we are taking the appropriate steps, and taking the needed time as a TA team to create a representative top of the funnel. These metrics will not be considered in any hiring decisions. Our sourcing rate % is intended to build more representation into the beginning of the process which we believe will result in more representation at GitLab. We are using coded names in order to further anonymize this information from our hiring teams.
+
+We will set functional sourcing rate % goals that align to the business needs and reach our aspirational hiring rate % goals set quarterly. 
+
+
+
+#### Our Tags
+| Tag      | Description |
+| ----------- | ----------- |
+| Project Fig      | Searches focused toward candidates that may identify as women globally       |
+| Project Maple      | Searches focused toward candidates that may identify as one of our race/ethnicity URGs (Underrepresented Groups: Black or Hispanic/Latino, Indigenous/native Alaskan, Hawaiian/Pacific Islander) in the United States       |
+
+**Calculation of the Metric**: We will measure this throughout the course of the quarter at an individual, team, and functional level. Each quarter, along with our hiring and starts goals, our Talent Acquisition Directors will set sourcing rate % goals for their teams. These goals will be influenced by our aspirational hiring rate % goals per function, health of our pipelines and domain. These goals are a [key performance indicator] (https://internal-handbook.gitlab.io/handbook/people-group/talent-acquisition/key-performance-indicators/) for our team members and progress to goal is housed in our Tableau Productivity Dashboard.
+
+### Our Sourcing Tools and Enablement
 #### LinkedIn Talent Insights
 
 Our Talent Acquisition team has two seats for LinkedIn's **Talent Insights** product. **Talent Insights** is a platform that is specialized in answering business questions regarding workforce planning, talent pools, competitive hiring analysis, and more from its database that exceeds 705 million members, 50 million companies, 20 million jobs, and 90,000 schools. The use of this tool is helpful in determining the diversity of a talent pool  (LinkedIn's best guess based on provided profile information), regional talent availability, and competitor analysis. To request such insights, please submit an Issue [here](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) using the `LinkedIn Talent Insights Request` template.
@@ -62,6 +105,18 @@ Simply add all your filters as described above in the LinkedIn Recruiter sourcin
 
 You can download several profiles in bulk in an XLS file and you can run your searches in the spreadsheet. For this, click on the blue “Export” button on the top of your search results in the “All candidates” section of a search result tab.
 
+#### DIB Enablement 
+Examples of searches: 
+1. Use of SeekOut’s gender or race & ethnicity-specific search tools
+A list of all HBCUs (Historically Black Colleges and Universities) in the United States
+1. A search of all sororities in the United States
+1. A LinkedIn search including “she” or “her” pronouns
+You cannot search for race or gender on LinkedIn, but you can search for associations. (Examples would be NSBE OR “Black engineer” OR NSMBA OR “Black MBAs” OR AAWIT OR “African American women in technology” OR NAACP OR “Black chamber of commerce” OR “African American chamber”)
+1. Sourcing Library (available to internal team members only) coming soon
+
+
+
+
 #### Pitch Pages 
 
 Pitch Pages are a [Guide](https://about.gitlab.com/handbook/hiring/interviewing/#guide)-like experience, intended for prospective candidates that have yet to dive into learning about the experience of working at GitLab, or for current candidates who are in the process and interested in learning more. Pitch Pages are a great sourcing tool aimed to help convert a prospect into a true candidate, or to provide more insight about our company for those currently in the process.
@@ -77,7 +132,7 @@ The recommended process of re-contacting candidates:
 1. Re-contacting a candidate for the same/another position if the candidate failed in the previous interview process: we suggest other TA member re-contact them after 6+ months from the time of their last interview. Please consult with the other TA member who contacted/recruited them previously and discuss the case, if needed.
 2. Re-contacting the candidate for the same/another position if they haven't responded to the past inmails: the recommended time to contact the candidate again is around 3 months. Please consult with the other TA member who contacted them previously and discuss the case, if needed.
 
-### For GitLab Team Members
+### For GitLab Hiring Managers and Team Members
 If you are a Hiring Manager on a open role, your recruiter will partner with you to ensure you have a good action plan for building a passive candidate pool for your role.
 
 Sourcing vs. Referrals: If you **know** a candidate from school, previous companies, seminars... even among your neighbors or family members - the best next step is to submit them as a referral by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-talent-acquisition/referrals/-/issues/new?issuable_template=Referral%20Submission). More information about the **Referrals** can be found on the [Referral Process](/handbook/hiring/referral-process/) page.
