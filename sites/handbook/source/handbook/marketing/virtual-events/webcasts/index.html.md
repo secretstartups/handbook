@@ -999,7 +999,7 @@ Submit a test lead using your GitLab email on the LIVE landing page to make sure
 ### Switching ON24 Webcasts to On-Demand
 {: #on24-ondemand-switch} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-ON24 will automatically convert the video to on-demand in the ON24 platform. The steps below allow us to further leverage the webcast in Pathfactory.
+ON24 will automatically convert the video to on-demand in the ON24 platform. The steps below allow us to further leverage the webcast in Pathfactory. If you are going to drive to On24 directly for On-demand viewing (such as for large corporate events), skip to the instructions below starting at `Using On24 for On-Demand Viewing`.
 
 1. **Vimeo**: vimeo provides an ads free user expierence, therefore should be primary video platform used for on-demand recording uploads. To request an upload, open [an issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) with Digital Production Team.
 1. **YouTube**: upload the recording to our main GitLab channel:
@@ -1053,6 +1053,37 @@ ON24 will automatically convert the video to on-demand in the ON24 platform. The
        * Advanced filters will be set to 1 or 2 or (3 and 4)
    * Flow: it's all set! For your first few, feel free to review the flows (but they are all using tokens, so it should be ready to go automatically)
    * Under "Schedule" on the `04 On24 Processing - On Demand - Pathfactory` smart campaign, click `Activate`.
+
+### Using On24 for On-Demand Viewing - Switching to On-Demand
+{: #on24-using-on24-on-demand-switch} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+In most cases, the landing pages for these events are managed by DEX. These instructions assume you are using the same form and the LP is managed by DEX, not in Marketo. 
+
+1. **Marketo**: Navigate to the webcast program and update the following My Tokens
+   * Update the `ondemandUrl` token with the On24 audience URL
+     * This URL should *not* contain `https://` 
+     * This URL should *not* contain any `?` question marks (if it does, you did not update the custom URL slug) 
+1. **Marketo**: Modify the on-demand autoresponder email
+  * Confirm that the URL to view the on-demand webcast is `https://{{my.ondemandUrl}}?{{my.utm}}`
+  * Make any changes to the content that you need.
+  * Since you are driving to On24, you can use language such as "If you are prompted for an email address, please enter: {{lead.Email Address:default=No email found, please re-register using a valid email address}}". This will provide the user with a quick reference of the email address they used when registering.
+  * Update the text version of the email. Then `Approve and Close`.
+  * Right click on the email and choose `Send Sample`
+  * Expand advanced settings, under "Sample person for tokens" begin to type in your test lead email address. This will pull in the email address to review that the tracking is working properly in your email.
+  * For "Send To:" choose your email address (or type next to the `*` asterisk)
+1. **Your Inbox**: Review the sample email in your inbox
+  * Check all email copy
+  * Click all links and confirm they are not broken
+  * Click the `Watch now` CTA and view in a private browser to confirm the utms and links work. 
+  * :thumbs-up: If all of the above apply, move on to activating the smart campaigns!
+1. **Marketo**: Update the smart campaigns (activate and deactivate)
+   * Clone the `01a Registration Flow (single timeslot)` campaign to a new smart campaign called `04a On-Demand Registration Processing`
+   * There will be no change to the Smart List if you are using the form DEX set up on the page originally. If the form is changing, you'll need to update the smart campaign.
+   * On the Smart List: Add a filter for `Member of Program` is false. Program is `name of the program you are working on`, Program status is Webcast > Attended. This means that the person needs to fill out the registration form and not all ready be a member of the program with the status of `Attended`.
+   * On the Flow: Change Step 1 to Change Program Status - Program is `name of the program you are working on` New status: `Webcast > Attended On-demand`
+   * On Schedule: Select `Activate`. Immediately do the next step.
+   * Under "Schedule" on the `01a Registration Flow (single timeslot)` smart campiagn, click `Deactivate`.
+   * On the `04 On24 Processing - On Demand - On24` smart campaign - Smart List, add your On24 `eventid`. Flow: it's all set! For your first few, feel free to review the flows (but they are all using tokens, so it should be ready to go automatically). Go to schedule and click `Activate`.
 
 ### Rescheduling an ON24 webcast
 {: #on24-reschedule} <!-- DO NOT CHANGE THIS ANCHOR -->
