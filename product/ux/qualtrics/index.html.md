@@ -244,6 +244,25 @@ There will be studies where you wish to target specific populations of users bas
 
 If you have followed all of the above steps correctly and your spreadsheet does not process within 20 minutes of adding it to the Qualtrics Request drive, the Qualtrics Data Pipeline might be broken. To fix it, open up an issue using the DE Triage template in the [GitLab Data Team project](https://gitlab.com/gitlab-data/analytics/-/issues). Here's an example of a [previous issue](https://gitlab.com/gitlab-data/analytics/-/issues/11443#note_817069161) opened by the team.
 
+### Tips for increasing survey response rate
+
+1. Keep the number of survey questions to a minimum ([Hubspot](https://blog.hubspot.com/service/ideal-survey-length) recommends 10 questions or fewer) and keep question types basic (avoid multiple open ended questions or matrix style questions).
+1. Tell respondents in the email about the goal of the survey and how long it will take to complete.
+1. Use inviting subject lines in your email to get potential respondents to open them (`We would love to hear from you`, `How did we do?`, `Take a quick 5 minute survey`).
+1. Avoid including certain formatting (all caps), characters (exclamation marks), or words in the email (last chance) subject line to keep the email from going into spam folders.
+1. Use real names whenever possible to personalize who the survey is getting sent to and who is conducting the research.
+1. Pilot test surveys in advance to find points where respondents get confused or might want to stop filling it out.
+1. Remove any company specific jargon that might not be understood by respondents.
+1. Brand the email and/or survey with a company logo to indicate that it is legitimate.
+1. Allow respondents to fill out the survey anonomously and communicate that their survey responses will be anonymous. 
+1. Provide some form of incentive (for example: gift card or company swag item) whenever possible. 
+1. Embed the first question of the survey in the body of the email or include a `Start Survey` button to make it clear how to participate.
+1. Use multiple distribution methods to send out your survey (for example: email, social media, company website, blog). Whenever possible, track the completion rates associated with each method of distribution, so you can understand which method(s) were successful or unsucessful.
+1. Optimize your email for mobile devices whenever possible.
+1. Assure respondents as early as possible how their data will be kept secure (for example: data will be used internally at GitLab and research reports will not include customer names and/or contact information).
+1. For surveys sent to customers at small to medium businesses or enterprises, try to distribute the survey during early morning (10am-12pm) or late afternoon (3pm-6pm) work hours to increase response rates. 
+1. Surveys should be sent out only on weekdays (Mondays-Fridays). Surveys usually have the best response rates on Mondays.
+
 ## How to create a tracked link
 
 You may want to promote a survey using several methods, and keep track of which one performs the best (for example: GitLab social, ux team social, in a blog post, or in a banner within gitlab.com). You can do this by using query strings. Read the [documentation](https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/standard-elements/passing-information-through-query-strings/), or watch a [short video](https://share.getcloudapp.com/kpumEOvR). 
