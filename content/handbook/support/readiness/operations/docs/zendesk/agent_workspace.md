@@ -20,7 +20,7 @@ For those using the legacy ticket pages, this comes with a number of changes.
 
 With agent workspace, the way the comments are displayed now mirror what our
 customers see. This means the oldest comment is at the top of the ticket and the
-latest comment is at the bottom of the ticket.
+newest comment is at the bottom of the ticket.
 
 When loading a ticket, you should also be put at the newest comment on the
 ticket (i.e. at the bottom of the ticket's comment section).
@@ -55,7 +55,7 @@ WYSIWYG ability for these, so tables would not longer be usable.
 You can now use inline images in your replies. Simply copy the image and paste
 it into the text box.
 
-**Note** The customer needs to be logged in to see these, so it consider how
+**Note** The customer needs to be logged in to see these, so consider how
 your reply would look via email when they receive the notification.
 
 ## Redaction no longer require a Zendesk app
