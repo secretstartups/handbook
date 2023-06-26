@@ -530,18 +530,14 @@ Slack channel: [#dev-evangelism-and-technical-marketing](https://gitlab.slack.co
 
 Each TMM is listed with their areas of primary responsibility, but all TMM's should be able to help in other areas of the product as well:
 
-  - [Tye Davis](/company/team/#TyeD19) - Manager TMM, Agile
   - [Itzik Gan-Baruch](/company/team/#itzikgb) - CI, CD, Software Delivery Automation
   - [Fernando Diaz](/company/team/#fjdiaz) - DevSecOps, Security, Continuous Software Security Assurance, Continous Software Compliance
-  - [William Arias](/company/team/#warias) - SCM, DevOps Platform, Software Delivery Automation
   - [Cesar Saavedra](/company/team/#csaavedra1) - CD/GitOps/IaC, Software Delivery Automation
-  - [Dave Steer](/company/team/#dsteer) - VP of Product Marketing
 
 ## Technical Marketing Howto's
 * Creating a Demo Environment
 * Examples of StoryBoarding (make a new template)
 * Links Technical Marketing GitLab page with actual demos
-
 
 ## Making better videos
 
