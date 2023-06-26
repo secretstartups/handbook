@@ -550,12 +550,12 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Consolidated Labor Law Posters](https://dws.wyo.gov/wp-content/uploads/2022/08/labor-law-wyoming.pdf)
 
 ### EEOC (U.S. Equal Employment Opportunity Commission) Notices
-* ["EEO is the Law" English poster for screen readers](https://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reader_10_20.pdf)
-* ["EEO is the Law" English poster for printing](https://www.eeoc.gov/sites/default/files/2022-10/22-088_EEOC_KnowYourRights_10_20.pdf)
-* ["EEO is the Law" Spanish poster for printing](https://www.eeoc.gov/sites/default/files/2022-10/22-088_EEOC_KnowYourRightsSp_10_20.pdf)
+* ["EEO is the Law - Know Your Rights: Workplace Discrimination is Illegal" English poster for screen readers](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)
+* ["EEO is the Law - Know Your Rights: Workplace Discrimination is Illegal" English poster for printing](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf)
+* ["EEO is the Law - Know Your Rights: Workplace Discrimination is Illegal" Spanish poster for printing](https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRightsSp6.12.pdf)
 * ["EEO is the Law" English Poster Supplement](https://www.dol.gov/sites/dolgov/files/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf)
 * ["EEO is the Law" Spanish Poster Supplement](https://www.dol.gov/sites/dolgov/files/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_SP_JRFQA508c.pdf)
-* All ["EEO is the Law"](https://www.eeoc.gov/poster) poster links.
+* All ["EEO is the Law - Know Your Rights: Workplace Discrimination is Illegal" poster links](https://www.eeoc.gov/poster) poster links.
 
 ### E-Verify 
 * [Notice of E-Verify Participation Poster](https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf) 
