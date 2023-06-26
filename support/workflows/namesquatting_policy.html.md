@@ -14,11 +14,7 @@ subcategory: Accounts
 
 ### Overview
 
-According to the [statement of support](/support/gitlab-com-policies/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria, and requested **by a paid customer** (member of a paid namespace or a self-managed customer migrating to SaaS) or [sales approved prospects](../internal-support/#trials-and-prospect-support). You can identify a sales approved prospect by the following properties:
-
-- The user would be in an org where the SFDC ID is `PRIORITY PROSPECT`
-- The name of the org would start with `PP:`
-- The org would be listed [here](https://docs.google.com/spreadsheets/d/11p3aBj1LTr-ngk1wxoMlae-UvJ3bOTuQHd48so2ZcXU/edit?usp=sharing)
+According to the [statement of support](/support/gitlab-com-policies/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria, and requested **by a paid customer** (member of a paid namespace or a self-managed customer migrating to SaaS).
 
 **IMPORTANT NOTE:** If you have any situation that is unusual, or does not fall under the workflow below, [open an Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new?issuable_template=General%2BUncategorized) with Security Operations. Describe the situation and request them to review and provide guidance.
 
@@ -27,7 +23,7 @@ According to the [statement of support](/support/gitlab-com-policies/#name-squat
 ### Workflow
 
 1. Search for the requested namespace in GitLab.com admin: [users](https://gitlab.com/admin/users) or [groups](https://gitlab.com/admin/groups), once found visit the GitLab admin page for the namespace.
-1. Apply the [`Support::SaaS::Name Squatting Policy::Internal Checklist`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569860) macro in Zendesk. Please remember, impersonating a user will reset the Last Sign-In values on the user account such as `Last Sign-In IP` and `Last Sign-in at` (Impersonation should be avoided when reviewing activity on Personal Namespace).
+1. Apply the [`Support::SaaS::Name Squatting Policy::Internal Checklist`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569860) macro in Zendesk. Please remember, impersonating a user will reset the Last Sign-In values on the user account such as `Last Sign-In IP` and `Last Sign-in at` (Impersonation should be avoided when reviewing activity on a Personal Namespace).
 1. Answer all questions in the **Internal Checklist** (Yes/No) ensuring to cross-check the information found in the admin section.
 1. If the namespace is eligible for immediate release, follow [Request successful](#request-successful).
 1. If the namespace is eligible for release, but requires attempting to contact the owner, follow [Namespace needs owner contact](#namespace-needs-owner-contact).
