@@ -16,7 +16,7 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 
 <!-- Note to Amy: should we put a timeframe on what we consider an emergency? -->
 
-**Not an emergency?** For important planned customer communications, please use [the customer update/announcement process](/handbook/marketing/emergency-response/#customer-comms-email), to enable teams to work together and plan without the urgency of an emergency request.
+**Not an emergency?** For important planned customer communications, please use [the customer update/announcement process](/handbook/marketing/marketing-operations/email-management/operational-email-sends/#customer-comms-email), to enable teams to work together and plan without the urgency of an emergency request.
 
 **As soon as an emergency communication is recognized, the Requesting team MUST:**
 1. Create an **[incident communication request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)** 
@@ -65,7 +65,7 @@ For Marketing Operations - When OOO/PTO please add this to the backup team membe
      * NOTE: The addition of each item will increase scope and potentially delay announcement
 * [Requesting target list](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new?issuable_template=list-request) from the Marketing Strategy & Analytics team
 * Creating epic and corresponding issues
-      * Creating Epic - [Template here](/handbook/marketing/emergency-response/#customer-comms-epic-issues)
+      * Creating Epic - [Template here](/handbook/marketing/marketing-operations/email-management/operational-email-sends/#epic-code-and-issues)
       * Creating [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)
       * Creating [Form request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request)
       * Creating [Landing Page request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request)
@@ -145,7 +145,7 @@ The following approvers are needed for the copy and list size:
 
 ### List considerations
 
-- List loads greater than 20k take time. Millions may take hours/days.
+- List loads greater than 20k take time. 100k+ may take hours/days.
 - Each platform has their own limits as to size of CSV that can be uploaded.
 - Lists greater than 100k may be subject to verification, so that we do not risk our sending reputation. 
 
@@ -182,7 +182,7 @@ For sends over 100k sending from Marketo, there are several steps to follow to d
      1. [Generic Email Trigger](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC6830A1)
      1. [OP-Generic Email Address Scoring](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC3441A1ZN)
      1. [OptOuts after 9.10 - Trigger](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#SC17036A1ZN)
-     1. [01-Compiling Last Event Notes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#SC22700A1ZN)
+     1. [01a ZoomInfo Enrich - non API leads](hhttps://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC39715D4ZN19)
      1. [Add to nurture](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC21890A1ZN19)
      1. [Nurture movement](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC21912A1)
      1. [Spam catcher](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SC2929A1)
@@ -197,91 +197,3 @@ For sends over 100k sending from Marketo, there are several steps to follow to d
    - If email isn't marked operational, you may have to update email comm limits, or mark the email as operational (if this is the case, make sure to double check your filters)
 1. Email needs to send out faster than 15 minutes
    - Set up smart campaign to send the email vs using the email program default settings
-
-
-## Customer update / Announcement emails
-{: #customer-comms-email .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-This section should be used for all customer communications to communicate product or security issues and risk. At minimum, these communications need to be approved in sequence by the head of the department that is leading the communication (e.g., Product, Engineering, Security), Vice President of Customer Success, Legal, or appropriate designates (if they are out on PTO or unavailable).
-
-For low-priority, non-security and non-emergency customer communications, you may skip getting the approvals from VP level of your department if your manager and the VP of Customer Success signs off on it. 
-
-### Recommended format for customer emails
-The following is the recommended format for ad hoc customer emails though tailor it if the communication objective or content requires this. This does not include marketing (e.g., email campaigns, blogs, etc.) or standard product or security notifications (e.g., release blogs, release notifications, etc.). Emails should be clear, crisp, and direct, providing links for details (e.g., details on the issue or risk, procedural details to action). To [maximize reading comprehension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1709943), remove all extraneous words and language to maximize the probability the email will be read and acted upon. 
-
-The email should answer the following questions in the following order:
-1.  Why are you (customer) getting this email? This can be either specific (i.e., we know) or general (i.e., you may be or need to be aware). This be the first sentence in the email. 
-1.  What is the issue/change/problem/etc.? What are the risk and impact? How do you know if you're impacted or potentially impacted by the issue? Is it resolved or still being worked on? 
-1.  What is your call to action? What should you do?
-1.  Where should you go if you need support? If applicable, where do you provide feedback (e.g., forum, issue, other)? If additional updates will be provided, when and how will that information be shared? 
-
-To request an email, follow directions on [this page](/handbook/marketing/marketing-operations/email-management/#request-non-demand-generation-emails)
-
-#### Sample email 
-
-Two examples are provided:
-1.  (GitLab internal only as it references a 3rd party software provided) an [example of a security email](https://docs.google.com/document/d/10TEgeGWzmlHpOaiiAYuUzNkevYsWGNmLkNbqWt1KXlo/edit#bookmark=id.aa65snh7vyl6) 
-1.  An example of a product risk communication (see below) 
-
-```
-Subject: Important update information for customers using {GitLab Feature}
-
-Hello {Customer name},
-
-If you use {GitLab Feature}, or plan to migrate to it, this information may be relevant to you.
-
-We recently identified {cases} where {GitLab Feature} can cause a {specific issue} that requires GitLab Support intervention to resolve.
-
-We recommend the following actions to identify and resolve this issue:
-
-- If you use {GitLab Feature}, please review the [scenarios] and avoid them.
-- If you have not migrated to {GitLab Feature}, please know that we [provided additional support] to all affected releases.
-
-We're working to reduce the conditions that can cause {specific issue} and will update the [{cases}] when we do so. If you are using {GitLab Feature} and require additional guidance, please contact your support representative or your CSM.
-
-Kind regards,
-{Sender}
-```
-
-
-## Epic code and issues
-{: #customer-comms-epic-issues .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-The requestor (Security, CSM, etc.) will follow the process below to create the epic, which will have quick links to the appropriate issues to open.
-
-* Create epic here and input code below: [https://gitlab.com/groups/gitlab-com/-/epics/new](https://gitlab.com/groups/gitlab-com/-/epics/new)
-
-```
-### :exclamation: Action items for requestor to complete
-*Note: this will automatically be a confidential epic.*
-* [ ] Once created, associate this epic to parent epic (if exists)
-* [ ] Create issues in section at bottom
-* [ ] Ensure all issues are associated to this epic
-
-### :star: Purpose
-<!-- Requestor, please describe the purpose of the email communication in this section for context by all teams involved -->
-
-### :link: Key links
-* [Copy Document]() `to be added by requestor ` ([use this template](https://docs.google.com/document/d/1hv0XF7j6SibLgHgGFxxlrbPrufxbcXHrO8ZRG04nFjU/edit#))
-* [Target List]() `to be added by requestor when final`
-* [Email Program]() `to be added by MOps` [shortcut](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF4267A1)
- 
-
-### :books: Issues for requestor to create (shortcuts below)
-* [ ] [Request target list issue (internal link)](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new?issuable_template=list-request) 
-* [ ] [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) - requestor open, MOps DRI
-  - the email issue is blocked until requestor provides final copy
-* [ ] If landing page required: [Landing Page request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request) (optional, will increase scope and delay timeline) - requestor open, MOps DRI
-* [ ] If form required: [Form request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request)
-
-### :point_up: Reminders on action items & timeline
-* Requestor is responsible for providing FINAL copy, including review by all reviewers, by date indicated in timeline
-* Requestor is responsible for providing list of who must review and approve email
-* Requestor is responsible for approving test email and providing send time and date
-
-/confidential
-/label ~"MktgOps-Urgency::P1" ~"MktgOps-Priority::High Priority" ~"Customer Success" ~CSM 
-/cc @amy.waller @bweatherford
-```
