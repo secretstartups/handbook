@@ -26,15 +26,15 @@ Free access to support granted in this way is not for any customer who wants it,
 
 ## Support Restrictions
 
-* This does not include emergency support
-* This does not include upgrade assistance support
+* This does not include [emergency support](https://about.gitlab.com/support/#how-to-trigger-emergency-support)
+* This does not include [upgrade assistance support](https://about.gitlab.com/support/scheduling-upgrade-assistance/)
 * This does not include migration assistance support
 * This does not include architecture review support
-* This does not include namesquatting requests
+* This does not include [namesquatting requests](/support/workflows/namesquatting_policy.html)
 * This should only be for [PoVs](../../customer-success/solutions-architects/tools-and-resources/pov/) involving errors from a setup (and not the setup
   process itself)
-* A maximum of 3 contacts are able to create support tickets for the organization.
-* This does not include Shared organization setup
+* A maximum of 3 contacts are able to create support tickets for the organization
+* This does not include [shared organization setup in Zendesk](https://about.gitlab.com/support/managing-support-contacts/#shared-organizations)
 * All response times are reasonable effort and will be given an internal SLO of
   24 hours.
 * Everything within [the statement of support](/support/statement-of-support/) applies.
