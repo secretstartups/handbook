@@ -55,6 +55,15 @@ Each release post GitLab recognizes a community contributor as the MVP ("Most Va
   - Assign another Contributor Success team member to review/merge and double check the merge request is targeting the correct release branch
   - Ping the [release post manager](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml) into the MR for awareness.
   - Merge by 20th of the month
+1. Award the MVP winner with the MVP achievement using the `MVP Achievements` group access token from the Contributor Success vault in 1Password:
+   ```shell
+   curl -g \
+   -X POST \
+   -H "Content-Type: application/json" \
+   -H "Authorization: Bearer <group_access_token>" \
+   -d '{"query":"mutation{achievementsAward(input:{achievementId: \"gid://gitlab/Achievements::Achievement/53\" userId: \"gid://gitlab/User/<user_id>\"}){errors}}"}' \
+   https://gitlab.com/api/graphql
+   ```
 1. Announce the MVP winner in the team member Slack channels and community Discord.
   - Link to the MVP section of the release post
   - In the Slack message, thank any team members who added nominations, supportive comments or :thumbsup: votes within the MVP nomination issue.
