@@ -28,8 +28,6 @@ The Assocate Solutions Architect reports to the Manager, Solutions Architect.
 
 The Associate Solutions Architect is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-#### Associate Solutions Architect Responsibilities & Requirements
-
 #### Associate Solutions Architect Responsibilities
 
 - Engage with customers, both onsite and remotely, by providing technical expertise during the pre-sales process. This includes answering customer inquiries, conducting product demonstrations, and explaining the capabilities and benefits of GitLab.
@@ -45,7 +43,7 @@ The Associate Solutions Architect is a [grade 5](https://about.gitlab.com/handbo
 #### Associate Solutions Architect Requirements
 
 - Technical presentation and communication skills
-- Experience in the field of information technology or technical pre-sales
+- Experience in or familiarity with (for the [early-in-career program](https://about.gitlab.com/handbook/customer-success/solutions-architects/career-development/#associate-solution-architecture-program) candidates) the field of information technology or technical pre-sales
 - Understanding of the end-to-end software development lifecycle
 - Understanding of continuous integration and continuous deployment
 - Ability to use GitLab
