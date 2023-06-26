@@ -13,6 +13,9 @@ category: Handling tickets
 
 # Global Support Uploader
 
+In the event that a customer wishes to share a large volume of data with us, we require a way to receive the information.
+Please follow the steps below in order to create a unique user, and upload relevant information for review by the GitLab Support Team.
+
 ## Generating a FTP user for the customer
 
 To generate the FTP credentials for a customer, navigate to the Zendesk Super
