@@ -16,6 +16,17 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q2-FY24
 
+### 2023-06-26 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/336))
+
+**Sales Ops: [Change to Clari Forecast Reset Date](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/)**
+
+**Sales Ops: [FY24 Q2 QBR Top Asks Tracking](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3614)**
+
+**Sales Ops: [SFDC Account Creation Policy Change](https://internal-handbook.gitlab.io/handbook/sales/data-intelligence/governance/_governance/)**
+
+**CS Ops: [Scale Engagement Requests in Salesforce](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3902)**
+
+
 ### 2023-06-12 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/332))
 
 **Partner Ops: [Filter Invoice Owner in SFDC Quote Studio for Partner Quotes](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/4006)**
