@@ -45,8 +45,7 @@ each analyst is assigned to one or more sections or teams to support.
 * [Dashboards, Analysis, & Insights](/handbook/product/product-analysis/dashboards-analysis-insights/)
 * [Team Processes](/handbook/product/product-analysis/team-processes/)
 * [Product Data Insights Data Models Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/)
-* [Crash Course for Product Stage Resources](/handbook/product/product-analysis/crash-course/)
-* [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
+* [Crash Course for Product Stage Resources (Including Section::Growth)](/handbook/product/product-analysis/crash-course/)
 * [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
 * [dbt Cheat Sheet for Functional Analysts](/handbook/product/product-analysis/dbt-cheat-sheet/)
 

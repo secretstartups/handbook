@@ -684,13 +684,7 @@ Supports enterprise-grade operational experience of GitLab products from streaml
 
 **Top dashboards referenced by this team**
 
-* [Enablement::Geo Metrics](https://app.periscopedata.com/app/gitlab/500159/Enablement::Geo-Metrics) Geo Group
-
-* [Version Upgrade Rate](https://app.periscopedata.com/app/gitlab/406972/Version-Upgrade-Rate) Distribution Group
-
-* [Enablement: Gitaly Dashboard](https://app.periscopedata.com/app/gitlab/728407/Enablement:-Gitaly-Dashboard) Gitaly Group
-
-* [Centralized SMAU GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) General SMAU and GMAU metrics
+* All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Enablement Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/820).
 
 
 **Important data documentation**
@@ -757,23 +751,7 @@ Supports enterprise-grade operational experience of GitLab products from streaml
 
 **Top dashboards referenced by this team**
 
-* [Enablement::Database - Performance Indicators](https://app.periscopedata.com/app/gitlab/754160/Enablement::Database---Performance-Indicators) Database Group
-
-* [Enablement::Memory](https://app.periscopedata.com/app/gitlab/679200/Enablement::Memory) Memory Group
-
-* [Global Search Self Managed Deep Dive](https://app.periscopedata.com/app/gitlab/1035187/Global-Search-Self-Managed-Deep-Dive) Global Search Group
-
-* [gitlab.com performance per snowplow dashboard](https://app.periscopedata.com/app/gitlab/790506/gitlab.com-performance-per-snowplow-dashboard) Enablement Section overall - Primarily relates to Data Stores Group
-
-* [Josh <> Mathieu: Enablement PPI](https://app.periscopedata.com/app/gitlab/794513/Josh-%3C%3E-Mathieu:-Enablement-PPI) - Enablement Section overall - Primarily relates to Data Stores Group
-
-* [Active Instances](https://app.periscopedata.com/app/gitlab/441909/Active-Instances) - Database Group
-
-* [Error Budget Dashboard - Stage Enablement](https://app.periscopedata.com/app/gitlab/892802/Error-Budget-Dashboard---Stage-Enablement) - Enablement Section overall
-
-* [Infra PM Dashboard](https://app.periscopedata.com/app/gitlab/710777/Infra-PM-Dashboard) - Database Group
-
-* [Enablement: Gitaly Dashboard](https://app.periscopedata.com/app/gitlab/728407/Enablement:-Gitaly-Dashboard) - Gitaly Group
+* All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Enablement Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/820).
 
 
 **Important data documentation**
@@ -835,3 +813,65 @@ OR
 
 </details>
 
+
+### Growth Section
+Although the [Growth Section](https://about.gitlab.com/handbook/marketing/growth/) falls within the Maketing & Strategy division, the Growth Section has dedicated support from Product Data Insights on topics within our ownership areas. 
+
+
+#### Growth Stage (Acquisition, Activation Groups)
+Growth owns the free and trial registration and new user onboarding experiences.
+
+
+<details markdown="1"><summary>Click to expand</summary>
+
+**Top dashboards referenced by this team**
+
+* All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Growth Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/729).
+
+* [Growth Section Product Data Insights Hub in Tableau](https://10az.online.tableau.com/t/gitlab/views/GrowthSectionProductDataInsightsHub/GrowthSectionProductDataInsightsHub) 
+
+* [Filterable Growth Experiment Analysis Dashboard](https://app.periscopedata.com/app/gitlab/1121391/Filterable-Growth-Experiment-Analysis)
+
+* [Growth Experiment Event Validation](https://app.periscopedata.com/app/gitlab/1120337/Growth-Experiment-Event-Validation) 
+
+* [Snowplow Event Exploration L30D](https://app.periscopedata.com/app/gitlab/539181/Snowplow-Event-Exploration---last-30-days) - commonly sent to engineers for event validation.
+
+
+**Important data documentation**
+
+* [workspace_product.wk_rpt_namespace_onboarding](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.wk_rpt_namespace_onboarding) This model contains all of the most commonly analyzed Growth use cases including namespace and namespace creator attributes and SaaS product behavior. This model can be contributed to by PDI, DEX and Marketing Analytics teams. 
+
+* Because Growth topics are broad and cross-functional, there are many data models that are commonly used to answer Growth product analytics questions. More comprehensive documentation can be found in [Product Data Insights Data Models Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/).
+
+**Helpful video resources**
+
+[Growth YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr_-AowJmbhGk9yj_zIZySf)
+
+**Product roadmap link**
+
+[Growth Direction handbook page](https://about.gitlab.com/handbook/marketing/growth/)
+
+**Performance indicators**
+
+* [SaaS Team Activation](https://docs.google.com/presentation/d/1rJG8FaqEjfgA-Nz9Ww3blgcUwRGzri7CeKkn1e2eEHY/edit?usp=sharing) 
+
+* [Valuable Signup](https://docs.google.com/presentation/d/1xHBrnvwdMxQGqmX0TtcQz5tUYsAeU6CAMnpcDlhHUpc/edit?usp=sharing)
+
+* Both of the above metrics are monitored in [Growth Section Product Data Insights Hub in Tableau](https://10az.online.tableau.com/t/gitlab/views/GrowthSectionProductDataInsightsHub/GrowthSectionProductDataInsightsHub) 
+
+**Key handbook pages**
+
+[Overall Growth Section Handbook page for Engineering](https://about.gitlab.com/handbook/engineering/development/growth/)
+
+[Growth Direction Page](https://about.gitlab.com/handbook/marketing/growth/)
+
+**Slack channels**
+
+**#s_growth**
+
+
+**Team members**
+
+[All team members section of engineering page](https://about.gitlab.com/handbook/engineering/development/growth/#all-team-members)
+
+</details>
