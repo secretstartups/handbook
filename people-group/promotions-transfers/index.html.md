@@ -185,7 +185,7 @@ To ensure this feedback is provided in a structured and safe way, and to support
 
 #### Promotion Feedback Template
 
-Until Workday is enabled to collect feedback, managers will use the linked [template](https://docs.google.com/document/d/1SZwFzL64JWEYUM2SWr-eBgJCaSjaDEOaxOm6OckRsH8/edit#) to collect feedback. The template is structured in a Start/Stop/Continue format with question prompts that can help guide relevant inputs. 
+Until Workday is enabled to collect feedback, managers will use the linked [template](https://docs.google.com/document/d/1SZwFzL64JWEYUM2SWr-eBgJCaSjaDEOaxOm6OckRsH8/edit#) to collect feedback. The template is structured in a Start/Stop/Continue format with question prompts that can help guide relevant inputs. The team member's promotion document can also be shared with the 2-3 individuals selected to provide feedback.
 
 We encourage feedback providers to provide specific examples and actionable recommendations to ensure the feedback is meaningful and constructive. Please provide your feedback based on your firsthand interactions and observations of the team members' performance. Your input should be specific, constructive, and focused on their work. Consider their skills, abilities, behaviors, and areas for improvement.
 
