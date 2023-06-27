@@ -199,6 +199,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Account Escalation Process](/company/team/structure/working-groups/account-escalation-process)
 1. [AI Integration](/company/team/structure/working-groups/ai-integration/)
 1. [API Vision](/company/team/structure/working-groups/api-vision/)
+1. [Automotive Development](/company/team/structure/working-groups/automotive-development/)
 1. [Category Leadership](/company/team/structure/working-groups/category-leadership/)
 1. [CI/CD Build Speed time-to-result](/company/team/structure/working-groups/ci-build-speed/)
 1. [ClickHouse Datastore](/company/team/structure/working-groups/clickhouse-datastore/)
