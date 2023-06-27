@@ -14,11 +14,9 @@ description: "GitLab's Quote to Cash systems and processes"
 
 The Quote-to-Cash (O2C) process encompasses `Customer Account Management`, `Order Fulfillment`, `Billing`, and `Accounts Receivable` functions. The coordination of this process is owned by the Enterprise Applications team.
 
-This is a cross-functional page which is meant to be the source of truth for our Quote to Cash (Q2C) teams, project management process, and system architecture. 
+This is a cross-functional page which is meant to be the source of truth for our Quote to Cash (Q2C) systems and underlying data systems and processes. 
 
-## Business Usecases 
-
-An efficient Quote-to-Cash system will make purchasing, activating, and managing GitLab subscriptions as easy as possible.
+An efficient Quote-to-Cash system makes purchasing, activating, and managing GitLab subscriptions as easy as possible.
 
   - Improves `customer satisfaction`, and also `streamlines our go-to-market (GTM) processes` and accelerates `revenue growth` for the company.
   - Ensures `consistency` between the data for some of the most critical business objects/entities across all the Source Systems.
@@ -26,36 +24,9 @@ An efficient Quote-to-Cash system will make purchasing, activating, and managing
   - Proper `alignment/sync` exists between all the data source systems - Zuora, CustomerDot, SFDC and Gitlab.com along with 1:1 mapping between Zuora Billing Object Model and CustomersDot.
   - Improves `data quality` and ensures a `single lineage` for understanding the paid namespace conversion journey, the first paid subscription for a given namespace, free/trial to paid conversion analysis etc..
 
-## Q2C Teams
+## Q2C System Teams
 
-### Product Monetization and Fulfillment 
-<% product_monetiation_fulfillment = %w[justinfarris ofernandez2 tgolubeva courtmeddaugh mgass1 alex_martin vincywilson jackib chloeliu jeromezng jameslopez csouthard rhardarson shreyasagarwal isandin] %>
-<% product_monetiation_fulfillment = Gitlab::Homepage::Team::Member.all!.find_all { |person| product_monetiation_fulfillment.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: product_monetiation_fulfillment }) %>
-
-### Sales
-<% sales = %w[jrabbits] %>
-<% sales = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: sales }) %>
-
-### IT Enterprise Apps
-<% it_ent_apps = %w[NabithaRao sbaranidharan jesssalcido jbrennan1] %>
-<% it_ent_apps = Gitlab::Homepage::Team::Member.all!.find_all { |person| it_ent_apps.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: it_ent_apps }) %>
-
-### Data
-<% data = %w[iweeks] %>
-<% data = Gitlab::Homepage::Team::Member.all!.find_all { |person| data.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: data }) %>
-
-### Finance, Billing, and Revenue
-<% finance_billing_revenue = %w[lwhelihan s_mccauley annapiaseczna andrew_murray msubramanian] %>
-<% finance_billing_revenue = Gitlab::Homepage::Team::Member.all!.find_all { |person| finance_billing_revenue.include?(person.anchor) } %>
-<%= partial('includes/team_member_table', locals: { team_members: finance_billing_revenue }) %>
-
-## Q2C Project Management Process
-
-To be added
+Quote-to-Cash system projects and initiatives often require close collaboration across functions and teams. The teams most often involved include: [Enterprise Applications](/handbook/business-technology/enterprise-applications/), [Billing Ops](/handbook/finance/accounting/finance-ops/billing-ops/), [Fulfillment](/direction/fulfillment/), [Field Operations](/handbook/sales/field-operations/), [Support](/handbook/support/readiness/operations/), and [Data](/handbook/business-technology/data-team/).
 
 ## Q2C System Architecture
 
