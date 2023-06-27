@@ -250,7 +250,6 @@ There are 7 pillars that we have identified as crucial for success as CSMs. It i
    - [Non-Engaged Customer Strategies](/handbook/customer-success/csm/engagement/Non-engaged-customer-strategies/)
 - [Account Onboarding](/handbook/customer-success/csm/onboarding/)
 - [Success Plans](/handbook/customer-success/csm/success-plans/)
-   - [Developer & Productivity Metrics](/handbook/customer-success/csm/metrics/)
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](/handbook/customer-success/csm/success-plans/questions-techniques/)
 - [Use Case Enablement & Use Case Expansion - The Two Use Case Adoption Motions](/handbook/customer-success/csm/stage-enablement-and-expansion/)
    - [Use Case Adoption Metrics](/handbook/customer-success/csm/stage-adoption/)
