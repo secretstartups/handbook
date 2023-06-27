@@ -162,6 +162,9 @@ Snowplow is an open source event tracking tool that is used at GitLab to track G
 > What is the correct logic to identify events triggered in production environments?
 * Apply the following logic `WHERE app_id IN ('gitlab','gitlab_customers')`
 
+> How should I interpret the `event_category` value in structured snowplow event payloads?
+* The `event_category` value will be automatically populated according to [this codified logic](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/helpers/application_helper.rb?ref_type=heads#L143-143) unless the engineer instrumenting the event overrides this logic, which is often the case for backend events. A great place to search for the meaning of these values is by key word searching in [this EE controllers repository]( https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/controllers). Controllers outside of EE are also searchable and located [here](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/controllers). Otherwise, you can reach out to the engineering slack channel for the team who instrumented the event of interest and ask for validation on the correct interpretation of your `event_category` value there. 
+
 
 #### Documentation
 
