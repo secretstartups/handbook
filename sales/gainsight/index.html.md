@@ -66,7 +66,7 @@ To adjust your individual notifications, click on your name in the upper right c
 
 New feature requests can be submitted by creating an issue and selecting the [Gainsight Request template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) in the Customer Success Operations project. Make sure the `gainsight` label, and optionally ether the `gainsight::feature_request` or `gainsight::bug` scoped label, are successfully applied when opening the issue. The status of all Gainsight-related issues can be viewed on the [Gainsight issue board](https://gitlab.com/groups/gitlab-com/-/boards/1609037?label_name[]=gainsight).
 
-To request new email templates be added to Gainsight or the [Digital Journey](/handbook/customer-success/csm/digital-journey/), open an issue in the [Sales Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) and apply the program request or new program template if relevant. Then `@mention` a Gainsight administrator.
+To request new email templates be added to Gainsight, open an issue in the [Sales Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) and apply the program request or new program template if relevant. Then `@mention` a Gainsight administrator.
 
 To view recent updates to Gainsight, view [the running changelog](https://docs.google.com/spreadsheets/d/1QknfSfX50JFOhkHZoz2VjovREWK2fJkYBxr5HEjkT9Q/edit#gid=0).
 
