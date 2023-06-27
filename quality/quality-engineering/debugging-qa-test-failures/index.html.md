@@ -59,7 +59,7 @@ flowchart TB
     		tag_issue_for_report(add your emoji to issue for the DRI gem)
 		    publish_results(publish your results to the triage issue with the DRI gem)
 		    dri_handoff(handoff to next DRI anything that is still in flight)
-      
+
         %% external links
         click failed_pipeline "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#review-the-failure-logs"
         click new_issue "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#create-an-issue"
@@ -100,7 +100,7 @@ flowchart TB
 					notify_groups --> incident
 	    		incident -->|no| tag_issue_for_report
 		    	tag_issue_for_report --> tag_pipeline
-					
+
 					fire_engine --> tag_issue_for_report
 					tag_pipeline --> another_failure
 					another_failure -->|yes| failed_pipeline
@@ -116,7 +116,7 @@ flowchart TB
 				  investigate --> fix_tests
 					investigate --> quarantine_tests
 				end
-					
+
 				subgraph end of your day
 			    publish_results --> dri_handoff
 				end
@@ -202,7 +202,7 @@ In the relevant Slack channel:
 
 1. Apply the :eyes: emoji to indicate that you're investigating the failure(s).
 1. If there's a system failure (e.g., Docker or runner failure), retry the job and apply the :retry: emoji. Read below for examples of system failures.
-1. If an issue exists, add a :fire_engine: emoji. It can be helpful to reply to the failure notification with a link to the issue(s), but this isn't always necessary, especially if the failures are the same as in the previous pipeline and there are links there.  
+1. If an issue exists, add a :fire_engine: emoji. It can be helpful to reply to the failure notification with a link to the issue(s), but this isn't always necessary, especially if the failures are the same as in the previous pipeline and there are links there.
 1. If you create a new issue, add a :boom: emoji.
 
 #### Create an issue
@@ -228,7 +228,7 @@ Note when viewing a deployment failure from the `#announcements` Slack channel, 
 
 Click on the diagram below to visit the announcement issue for more context and view an uncompressed image:
 
-[![Pipeline Reorder](https://gitlab.com/gitlab-com/gl-infra/delivery/uploads/a1a22a36718ca6deec8a7bcadf894484/Screen_Shot_2022-01-21_at_14.39.13.png "pipeline diagram")](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2280)
+[![Pipeline Reorder](/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/deployment-pipeline-and-e2e-tests.png "pipeline diagram")](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2280)
 
 Note the diagram has been updated as part of increasing rollback availability by removing the [blocking nature of post-deployment migrations](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/585).
 
@@ -285,7 +285,7 @@ find what changes caused it and act on resolving the failure more quickly.
 This is triggered from the `dev` omnibus [pipeline schedule](https://dev.gitlab.org/gitlab/omnibus-gitlab/-/pipeline_schedules).
 It won't run when Nightly builds are paused. (See Special considerations for Nightly).
 
-It is a triggered Reference Architecture Tester pipeline that stands up an environment, runs the `full` suite against 5 parallel jobs, then tears the environment down. Reference Architecture Tester project is maintained by [Distribution team](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/). It stores scripts and configs that are used to build environments using [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit). 
+It is a triggered Reference Architecture Tester pipeline that stands up an environment, runs the `full` suite against 5 parallel jobs, then tears the environment down. Reference Architecture Tester project is maintained by [Distribution team](https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/). It stores scripts and configs that are used to build environments using [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit).
 
 Failures can be triaged as per any other pipeline. Note that as the environment is torn down, retrying QA jobs will fail as the endpoint is unreachable.
 
@@ -296,7 +296,7 @@ The pipeline can be manually retried by:
   - `QA_IMAGE` - This is typically `gitlab/gitlab-ee-qa:nightly`
   - `REFERENCE_ARCHITECTURE` - For FIPS nightly this is `omnibus-gitlab-mrs-fips`
 
-Note that as the retry is not triggered, there will not be a slack notification unless you pass `CI_PIPELINE_SOURCE = trigger` when triggering the pipeline. 
+Note that as the retry is not triggered, there will not be a slack notification unless you pass `CI_PIPELINE_SOURCE = trigger` when triggering the pipeline.
 
 If you need to run tests against the environment locally, use credentials specified in [1Password note](https://start.1password.com/open/i?a=LKATQYUATRBRDHRRABEBH4RJ5Y&v=z4ezvuu5b47wltqcitxwytniue&i=ruqhitok5falvljc7dxkyhtmv4&h=gitlab.1password.com). It also has information about GCP project where RAT environments are being built. If you need access to machines, create [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) to this GCP project. Once finished with debugging, **ensure** that `terraform-destroy` job was run to save costs.
 
@@ -327,7 +327,7 @@ The following can help with your investigation:
 | Sentry logs ([Staging](https://sentry.gitlab.net/gitlab/staginggitlabcom), [Staging Ref](https://sentry.gitlab.net/gitlab/staging-ref/), [Preprod](https://sentry.gitlab.net/gitlab/pregitlabcom/), [Production](https://sentry.gitlab.net/gitlab/gitlabcom/)) | If staging, preprod or production tests fail due to a server error, there should be a record in [Sentry](/handbook/support/workflows/sentry.html). For example, you can search for all unresolved staging errors linked to the `gitlab-qa` user with the query [`is:unresolved user:"username:gitlab-qa"`](https://sentry.gitlab.net/gitlab/staginggitlabcom/?query=is%3Aunresolved+user%3A%22username%3Agitlab-qa%22). However, note that some actions aren't linked to the `gitlab-qa` user, so they might only appear in the [full unresolved list](https://sentry.gitlab.net/gitlab/staginggitlabcom/?query=is%3Aunresolved). |
 | Kibana logs ([Staging and Preprod](https://nonprod-log.gitlab.net/app/kibana#/discover), [Production](https://log.gprd.gitlab.net/app/kibana#/discover))                                                                                                       | Various system logs from live environments are sent to [Kibana](/handbook/support/workflows/kibana.html), including Rails, Postgres, Sidekiq, and Gitaly logs. <br><br>**Note:** Staging and Preprod logs both use the same URL, but the search index pattern will be different. Staging indices contain `gstg` while Preprod contains `pre`. For example, to search within the Staging Rails index, you would change the index pattern dropdown value to `pubsub-rails-inf-gstg*`. More information on how to do this can be found [here](/handbook/support/workflows/kibana.html#parameters).                                   |
 
-#### Kibana and Sentry Logs 
+#### Kibana and Sentry Logs
 
 When a request fails in an E2E test that results in an error from the server, the job logs will print a link with the relevant correlation ID to logs in Sentry and Kibana for environments where these are available.
 
@@ -341,7 +341,7 @@ We have QA Correlation Dashboards in Kibana to help organize logs from various G
 - [QA Correlation Dashboard - Preprod](https://nonprod-log.gitlab.net/app/dashboards#/view/15596340-7570-11ed-9af2-6131f0ee4ce6?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1d%2Cto%3Anow)))
 - [QA Correlation Dashboard - Prod](https://log.gprd.gitlab.net/app/dashboards#/view/5e6d3440-7597-11ed-9f43-e3784d7fe3ca?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-15m%2Cto%3Anow)))
 
-In addition to the dashboard link being automatically generated in E2E test failure logs, you can access these dashboards and use them manually as well. Just replace the correlation ID in the `json.correlation_id` filter with the ID you are interested in and set the appropriate date and time range. 
+In addition to the dashboard link being automatically generated in E2E test failure logs, you can access these dashboards and use them manually as well. Just replace the correlation ID in the `json.correlation_id` filter with the ID you are interested in and set the appropriate date and time range.
 
 This is similar to the Support team's [Correlation Dashboard](/handbook/support/workflows/kibana.html#correlation-dashboard), but can be customized to fit the Quality team's needs.
 
@@ -666,9 +666,9 @@ To be sure that the test is quarantined quickly, ask in the `#quality` Slack cha
 
 Here is an [example quarantine merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/83575/diffs).
 
-> **Note** Be aware that for blocked release cycle auto deploy with quarantined test will not work. During canary deployment we trigger tests against both staging and canary. Spec is not quarantined on staging yet because quarantined MR didn't reach it. That leads to environment circular dependency problem. 
+> **Note** Be aware that for blocked release cycle auto deploy with quarantined test will not work. During canary deployment we trigger tests against both staging and canary. Spec is not quarantined on staging yet because quarantined MR didn't reach it. That leads to environment circular dependency problem.
 >
-> In that case the Release Managers should decide whether it is possible to rollback Staging, or whether to [manually deploy the quarantined MR to Staging](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/deploy-to-a-single-environment.md). Manually deploying the fix to Staging will reduce the amount of mixed-version testing but may be the only option to allow deployment pipelines to continue.  
+> In that case the Release Managers should decide whether it is possible to rollback Staging, or whether to [manually deploy the quarantined MR to Staging](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/deploy-to-a-single-environment.md). Manually deploying the fix to Staging will reduce the amount of mixed-version testing but may be the only option to allow deployment pipelines to continue.
 
 #### Quarantined Test Types
 
