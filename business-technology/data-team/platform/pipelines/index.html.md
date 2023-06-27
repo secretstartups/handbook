@@ -263,6 +263,7 @@ The following 3 sites are included in the extract:
 - `https://about.gitlab.com/`
 - `https://gitlab.com/`
 - `http://gitlab.com/`
+- `https://page.gitlab.com/`
 
 ## Service ping
 
