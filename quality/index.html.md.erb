@@ -359,9 +359,13 @@ The GitLab test automation framework is distributed across two projects:
 - Install and run [GitLab QA] to kick off test execution.
     - The spec files (test cases) can be found in the [GitLab codebase](https://gitlab.com/gitlab-org/gitlab/tree/master/qa)
 
-#### Test results tracking
+### Test results tracking
 
-- Within a test spec, each test example is associated with 1 [Gitlab testcase](https://gitlab.com/gitlab-org/gitlab/-/quality/test_cases).
+Technical details about our test results tracking can be found in the [Test results tracking](https://docs.gitlab.com/ee/development/testing_guide/test_results_tracking.html) page.
+
+#### Individual test tracking
+
+- Within an E2E test file, each test is associated with one [GitLab testcase](https://gitlab.com/gitlab-org/gitlab/-/quality/test_cases).
 
 ```ruby
 RSpec.describe 'Stage' do
@@ -377,9 +381,21 @@ RSpec.describe 'Stage' do
 end
 ```
 
-- Each [Gitlab testcase](https://gitlab.com/gitlab-org/gitlab/-/quality/test_cases) would contain information regarding the test example: file path, example name, example description, and historical records of the associated [testcase issue](https://gitlab.com/gitlab-org/quality/testcases/-/issues).
-- A [testcase issue](https://gitlab.com/gitlab-org/quality/testcases/-/issues) is an issue that lives within [quality/testcase](https://gitlab.com/gitlab-org/quality/testcases) project. This issue can either be created by the author of the test or by Gitlab QA Bot, and should have very similar description content with the testcase it's associated with. This is where we keep track of test results from all environments that the test is executed in.
-- When the [testcase issue](https://gitlab.com/gitlab-org/quality/testcases/-/issues) reaches its number of comments limit, a new [testcase issue](https://gitlab.com/gitlab-org/quality/testcases/-/issues) will be automatically created in the next test execution with the same content and added to the testcase historical records. The old test case issue is closed.
+  The test failure stack trace and the issue stack trace are compared, and the existing issue for which the stack trace is the most similar (under a 15% difference threshold) to the test failure is used.
+  The test failure job is then added to the failure report list in the issue.
+  Group label is automatically inferred based on the `product_group` metadata of the test.
+
+#### Test session tracking
+
+For each end-to-end pipeline that runs in the various environments we automatically test, we create a [test session issue](https://gitlab.com/gitlab-org/quality/testcase-sessions/-/issues) that contains the test session information.
+
+Test session issues group test results by DevOps stages, and link to [test cases](https://gitlab.com/gitlab-org/gitlab/-/quality/test_cases), and [test failure issues](https://gitlab.com/gitlab-org/gitlab/-/issues/?label_name%5B%5D=QA).
+
+Example of a test session issue: <https://gitlab.com/gitlab-org/quality/testcase-sessions/-/issues/72516>
+
+Test session issues are [working around missing GitLab feature](https://gitlab.com/groups/gitlab-org/-/epics/3129).
+
+Once GitLab stores test data, we can improve failure reporting and management.
 
 #### Documentation and videos
 
