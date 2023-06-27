@@ -131,6 +131,7 @@ While there are myriad job boards that curate part-time and freelance gigs which
 
 Here's a [list](https://www.ryrob.com/remote-jobs-websites/) of 60 remote jobs sites in 2020, including:
 
+1. [Real Work From Anywhere](https://realworkfromanywhere.com/)
 1. [Startup Jobs](https://startup.jobs/remote-jobs)
 1. [Himalayas](https://himalayas.app)
 1. [Remote Rocketship](https://www.remoterocketship.com)
@@ -152,7 +153,6 @@ Here's a [list](https://www.ryrob.com/remote-jobs-websites/) of 60 remote jobs s
 1. [Remote For Me](https://remote4me.com/)
 1. [FlexJobs](https://www.flexjobs.com/)
 1. [Remote.Co](https://remote.co/)
-1. [Remotey](https://remotey.com/search/vacancy)
 1. [Glassdoor](https://www.glassdoor.com/) (toggle the "WFH or Remote" option to filter search results)
 1. [People First Jobs](https://peoplefirstjobs.com/jobs)
 1. [Remote Tech Jobs](https://www.remotetechjobs.com/)
