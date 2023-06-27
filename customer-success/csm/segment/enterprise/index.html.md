@@ -83,7 +83,7 @@ Accounts that meet the following criteria should be categorized as a Priority 1:
 
 All other accounts should be Priority 2. Accounts should be reviewed for accuracy on prioritization on a quarterly, or as-needed, basis.
 
-Occasionally, we find more than the expected number customers need prioritization at the same time, and a 30% split for P1 is not feasible. If a CSM finds their book of business in this state, the CSM may, pending discussion with their manager, have more (up to 50%) of their book of business be P1; however, this should only ever be a temporary edge case lasting at most one quarter, with defined action items to get customers into a stable place where they can qualify for P2 and bring the P1 percentage back down to 30%.
+Occasionally, we find more than the expected number of customers need prioritization at the same time, and a 30% split for P1 is not feasible. If a CSM finds their book of business in this state, the CSM may, pending discussion with their manager, have more (up to 50%) of their book of business be P1; however, this should only ever be a temporary edge case lasting at most one quarter, with defined action items to get customers into a stable place where they can qualify for P2 and bring the P1 percentage back down to 30%.
 
 #### Cadence Frequency
 
@@ -97,7 +97,7 @@ Ideally all customers will have an annual [Executive Business Review](/handbook/
 
 ### Workshops
 
-Our goal for [workshops](/handbook/customer-success/csm/workshops/) is to be intentionally driving adoption and usage with our customer base, to ensure they are getting full ROI out of GitLab.
+The goal of [workshops](/handbook/customer-success/csm/workshops/) is to intentionally drive adoption and usage with our customer base, to ensure they are getting full ROI out of GitLab.
 
 For any customers who have low usage (which should fall into P1 categorization), we should aim to have regular workshops with them focused on areas of the product that they have not yet fully adopted, or where additional training would help adoption of other features; a general framework would be quarterly workshops for these customers.
 
