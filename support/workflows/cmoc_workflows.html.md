@@ -294,7 +294,10 @@ A ready to be published update should look similar to the following.
 
 ![Incident update](/images/support/cmoc_post_incident_update.png){: .shadow}
 
-Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from Status.io.
+
+Twitter has a 280 character limit, but we noticed that some tweets get truncated to 230 characters, such as [this one](https://twitter.com/gitlabstatus/status/1641150257936601088). This can be due to twitter converting any URLs to a 23-character URL via their link shortener service.
+
+Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it, and try to fit the main body of the message (before the final URL to the issue) in 220 characters. This leaves about 10 characters to display the final URL, if it gets truncated.
 
 After the update has been published, visit the [live status page](https://status.gitlab.com/) to verify that it went through.
 
