@@ -91,20 +91,13 @@ Additionally, we make use of our [automated policy](https://gitlab.com/gitlab-or
 
 ## Quality
 
-### How to classify MRs which need to run Package and QA?
+### Running E2E specs in the MR pipeline
 
-It is advisable to manually trigger the `Package and QA` downstream [E2E](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/) job in an MR and review the results when there are changes in:
+We encourage running the `e2e: package-and-test` downstream [E2E job](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/#testing-code-in-merge-requests) in merge requests at least once and review the results when there are changes in:
    - GraphQL (API response, query parameters, schema etc)
    - Gemfile (version changes, adding/removing gems)
-   - Vue files which contain "data-qa-selector" attribute because these are used in identifying UI elements in E2E tests
    - Database schema/query changes
    - Any frontend changes which directly impact vulnerability report page, MR security widget, pipeline security tab, security policies, configuration, license compliance page
-
-To manually trigger the QA job:
-1. Navigate to the pipelines tab of the MR. 
-2. Click the the `>` arrow on the right of the `Stages` and click the `package-and-qa` item.
-
-It's advisable to run the QA job on the latest pipeline at least once during the MR review cycle.
 
 ### E2E tests with feature flags
 
