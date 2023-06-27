@@ -97,9 +97,9 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Update Stale CSM Sentiment                                      | Manual           | Activity        |                                                              |
 | Upcoming Renewal                                                | Automated        | Renewal         |                                                              |
 | Digital Adoption - CI Enablement                                | Manual           | Digital Journey |                                                              |
-| Digital Onboarding - SaaS Email Series                          | Manual           | Digital Journey | [Internal link - existing playbook](https://about.gitlab.com/handbook/customer-success/csm/digital-journey/)                            |
+| Digital Onboarding - SaaS Email Series                          | Manual           | Digital Journey |                                                              |
 | Digital Onboarding - Self-Managed Alternative Backup Strategies | Manual           | Digital Journey |                                                              |
-| Digital Onboarding - Self-Managed Email Series                  | Manual           | Digital Journey | [Internal link - existing playbook](https://about.gitlab.com/handbook/customer-success/csm/digital-journey/)                            |
+| Digital Onboarding - Self-Managed Email Series                  | Manual           | Digital Journey |                                                              |
 | Digital Onboarding - Welcome Email                              | Manual           | Digital Journey |                                                              |
 | CSM Account Transitions                                         | Manual           | Digital Journey |                                                              |
 
