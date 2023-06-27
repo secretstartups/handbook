@@ -130,7 +130,7 @@ Be sure to communicate with the reporter(s):
 - That you are acknowledging their page as soon as you have the opportunity to do so.
 - That you have contained the security concern as soon as you have the opportunity to do so.
 
-## 2. Review, Engage & The Incident Label
+## 2. Review, Engage & The `incident` Label
 
 Occasionally, issues that do not trigger a page are still created in the GitLab-SIRT namespace and will be marked with the `incident` label during the on-call shift, we should watch for and engage on new, as well as existing, open issues to assist towards mitigation/resolution. Those lower-priority incidents are also directly mentioned in the appropriate Slack channel. 
 
