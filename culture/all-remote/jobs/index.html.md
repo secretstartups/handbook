@@ -144,7 +144,6 @@ Here's a [list](https://www.ryrob.com/remote-jobs-websites/) of 60 remote jobs s
 1. [AngelList](https://angel.co/jobs/)
 1. [Jobspresso](https://jobspresso.co/)
 1. [Working Nomads](http://www.workingnomads.co/jobs)
-1. [Wrk Crush](https://wrkcrush.com/)
 1. [PowerToFly](https://powertofly.com)
 1. [Remote jobs on Angellist](https://angel.co/job-collections/remote)
 1. [Remotive](https://remotive.io/) - in particular, [The List of Awesome](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview?pli=1#gid=0)
