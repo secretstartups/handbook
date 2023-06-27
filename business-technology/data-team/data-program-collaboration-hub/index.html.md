@@ -167,7 +167,6 @@ The Data Directory is designed to provide quick access to / better organize key 
   * [Data Guide to Self-Managed Analysis](/handbook/business-technology/data-team/data-catalog/self-managed/)
   * [Product Manager Toolkit](/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html)
   * [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
-  * [Data Guide for Growth](/handbook/product/product-analysis/growth-data-guide/)
   * [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
   * [Service Ping Metrics Dictionary](https://metrics.gitlab.com/)
   * [GitLab docs: Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/)

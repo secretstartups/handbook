@@ -232,7 +232,6 @@ The analytics hubs provide links to the current SSOT dashboards for an area of b
 * [Data Guide to Self-Managed Analysis](/handbook/business-technology/data-team/data-catalog/self-managed/)
 * [Data Guide to XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
 * [Data Guide to Self-Managed Estimation Methodology](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html)
-* [Data Guide for Growth](/handbook/product/product-analysis/growth-data-guide/)
 * [Data Guide to Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
 * [Data Guide to SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
 * [Data Guide to CI Runner Activity](/handbook/business-technology/data-team/data-catalog/ci-runner-activity/) 
