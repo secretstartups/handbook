@@ -52,7 +52,7 @@ Rember that some of the links below require you to login to [GitLab's Partner Po
 
 2.  SaaS on GitLab.com is an increasingly popular option.  [Start a Free Trial](https://gitlab.com/-/trials/new) now.
 
-3.  Pricing is a simple per-user subscription that is the same whether you are using SaaS or Self Hosted instance.  Customers see the [List Price here](https://about.gitlab.com/pricing).  Review the [Partner Program Incentives Guide](https://partners.gitlab.com/prm/English/s/assets?id=350001) for more details on partner transactions.
+3.  Pricing is a simple per-user subscription that is the same whether you are using SaaS or Self Hosted instance.  Customers see the [List Price here](https://about.gitlab.com/pricing/).  Review the [Partner Program Incentives Guide](https://partners.gitlab.com/prm/English/s/assets?id=350001) for more details on partner transactions.
 
 4.  There are [online ROI calculators;](https://about.gitlab.com/calculator/), your partner team can share more advanced ROI tools.
 
