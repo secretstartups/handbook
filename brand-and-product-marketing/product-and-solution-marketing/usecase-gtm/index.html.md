@@ -8,7 +8,7 @@ title: Solutions Go-to-market
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# What are solutions?
+# Solutions and Value Plays
 
 Solutions are a product or suite or products and services that business purchase to solve business problems. They are typically categorized into 3 buckets that address
 
@@ -39,30 +39,18 @@ A **Digital Transformation** initiative is typically executed through a set of s
 | 1. **Cloud transformation** | gain business agility | line-of-business VP (LOB) or CTO | often technology-focused with adoption of cloud, containers, Kubernetes, IaC |
 | 1. **Application modernization** | improve software time-to-market | CTO | often process-focused with DevOps, Agile, velocity, VSM |
 
-### Connecting solutions to value plays
+## Connecting solutions to value plays
 
 These transformative solutions must get connected to DevOps initiatives where GitLab is established. It's important to guide prospects from broad ideas down to specific actions, budgets, and sales opportunities. We do this via **core DevOps GTM solutions** where we articulate a message of how we help customers achieve positive business outcomes, and where we align sales efforts (Value plays and revenue programs) and marketing campaigns (such as digital ads, email campaigns, nurture, events), to focus on opportunities where we have the greatest likelihood of success. By providing a solutions framework and capturing steps in value plays, we expect to achieve repeatable, predictable sales outcomes with metrics that help us optimize marketing spend for greatest impact.
 
 GitLab customers can purchase these solutions by working directly with our sales teams or by working with our Channel Partners and Technology Alliance Partners. Partners support GitLab customers by offering services that deliver DevOps solutions. The **core DevOps solutions** and the **value plays** each supports include:
 
-* **[DevSecOps](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)**
+* **[Software Security](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)**
 * **[Software Compliance](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/compliance/)**
 * **[Automated Software Delivery](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/delivery-automation/)**
-* and cumulatively, The DevOps **[Platform](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/)**.
+* and cumulatively, The DevSecOps **[Platform](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/)**.
 
-#### Capabilities / use cases as Wedge conversations
-
-Within the core DevOps solutions, are capabilities. They may also be referred to as Use Cases. These topics may be hot in the market (like GitOps), or associated with GitLab (like SCM). They may attract interest for a conversation with a prospect. Conversations about these capabilities may open the door (as a wedge) to broader conversations that align to value plays - typically leading to either the platform solution or Automated Software Delivery solution. Capabilities may have associated marketing campaigns. 
-
-Examples include:
-* **[Source Code Management](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/) (SCM), also referred to as Version Control and Collaboration (VCC)** does not have a value play. It is driven by web-selling alone. It does require messaging, web pages, and supporting assets, but is not typically sold by the sales team.
-* **[Continuous integration](https://about.gitlab.com/features/continuous-integration/)**    
-* **[DevSecOps](https://about.gitlab.com/solutions/dev-sec-ops)**  
-* **[GitOps](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/)** (infrastructure automation) has been a solution/use case, with an accompanying sales play. GitOps has been folded into the Automated software delivery solution.
- 
-The Customer Success Managers (CSMs) are goaled on expanding an existing customer's use of GitLab capabilities. It is measured in stage utilization. Mapping capabilities to stages helps the CSMs know which capability/use case material to apply.
-
-### Which solution to use for which persona
+## Which solution to use for which persona
 
 The core DevOps solutions are communicated to sales via **Solutions Selling** in [HighSpot](https://gitlab.highspot.com/spots/615dd7e3911d70c4887812a7).
 
@@ -79,59 +67,46 @@ Understanding which solution to apply where requires consideration of the person
 
 ## DevOps Solution DRIs and key links
 
-Core DevOps Solutions have DRIs and a wealth of internally-focused and externally-focused resources.  The chart below shows everything in 1 place. 
-
-### DevOps Solutions
-
-|  | **Automated Software Delivery** | **Security/DevSecOps** | **Compliance** | Platform |
+|  | **Automated Software Delivery** | **Security/DevSecOps** | **Compliance** | **Platform** |
 | --- | ----------- | ------------------ | ----------- | -------------- |
-| **PMM** | Saumya Upadhyaya | Brian Mason | Brian Mason |  Saumya Upadhyaya | 
+| **PMM** | TBH Saumya Upadhyaya as placeholder | Brian Mason | Brian Mason |  Saumya Upadhyaya | 
 | **TMM** | Itzik | Fern | Fern |  William Arias |
-| **PM** | Jackie Porter | Hillary Benson | Orit Golowinski | Kenny Johnston |
+| **PM** | Jackie Porter | Hillary Benson | Hillary Benson | Mike Flouton / Justin Farris |
 | **Resource page** | [Automated Software Delivery](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/delivery-automation/) | [DevSecOps page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/) | [Compliance](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/compliance/) | [Platform](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/) |
-| **Solution page** | [Automated Software Delivery solution](https://about.gitlab.com/solutions/delivery-automation/) | [DevSecOps solution](https://about.gitlab.com/solutions/dev-sec-ops/) | [Compliance solution](https://about.gitlab.com/solutions/compliance)  | [GitLab home page](https://about.gitlab.com/) |
-| **Topic page** | [CI-CD](https://about.gitlab.com/topics/ci-cd/) | [Application Security/DevSecOps](https://about.gitlab.com/topics/devsecops/) | URL tbd | [DevOps Platform](https://about.gitlab.com/topics/devops-platform/)|
-| **Campaign page** | ASD coming soon | DevSecOps landing page | na | tbd |
-| **Value play** | [Automated Software Delivery](https://docs.google.com/presentation/d/1E3vMfzaE49NauWnIW5PJzL1e1XUljhbVXK6z0Eb9ZMk/edit#slide=id.gec8126bebe_0_3) | [DevSecOps2.0](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/) | [Software compliance](https://docs.google.com/presentation/d/1JGqApMeEyZzfejysjtrg2dS7jWbXVI9elNELTj2wSK4/edit#slide=id.gfaa86ae08c_0_36) | | [Platform](https://docs.google.com/presentation/d/15_xU3u_0qeEupaRNrR29HY3B_Tlc1R99xWRUUjGwrz8/edit#slide=id.gec8126bebe_0_3) |
-| **Slack channel** | #gtm-autosd | #gtm-ci-cd (it was security focused) | na | #gtm-platform |
+| **Solution page** | [Automated Software Delivery solution](https://about.gitlab.com/solutions/delivery-automation/) | [DevSecOps solution](https://about.gitlab.com/solutions/dev-sec-ops/) | [Compliance solution](https://about.gitlab.com/solutions/compliance)  | [GitLab home page](https://about.gitlab.com/platform) |
+| **Highspot page** | [Automated Software Delivery]() | [Software Security]() | [Software Compliance]() | [DevSecOps Platform]() |
 
-### Capabilities / use cases
 
-| --- | **CI/CD** | **SCM** | **GitOps** | Agile planning |
-| --- | ----------- | ------------------ | ----------- | ------------- |
-| **PMM** | Heather Simpson / Aathira Nair  | Heather Simpson | Aathira Nair | Heather Simpson / Saumya Upadhyaya |
-| **TMM** | Itzik | William Arias | Cesar Saavedra | William Arias |
-| **PM** | Jackie Porter  | Daniel Gruesso | Viktor Nagy | n/a |
-| **Resource page** | [CI resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/)| [SCM resource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/) | [GitOps resource](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/) | [Agile planning](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/agile/) |
-| **Capabilities page** | [CI](https://about.gitlab.com/features/continuous-integration/) | [SCM capabilities](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/) | URL tbd | URL tbd |
-| **Topic page** | [CI-CD](https://about.gitlab.com/topics/ci-cd/) | [SCM](https://about.gitlab.com/topics/version-control/) | [What is GitOps?](/topics/gitops/) | 
-| **Campaign page** | [CI landing page](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/) | [SCM landing page](https://about.gitlab.com/why/simplify-collaboration-with-version-control/) | [GitOps landing page](/why/gitops-infrastructure-automation/) | tbd |
-| **Sales resources** | tbd| **web-selling only** |[Infrastructure Automation](https://about.gitlab.com/handbook/marketing/sales-plays/gitops/) | t bd) |
-| **Slack channel** | #gtm-ci-cd | | n/a | #gtm-gitops | na |
+# Capabilities / use cases 
 
-For solutions that have a GTM (campaign) Motion built around them, DRIs for the motion are based on the [GTM Motion Core team](https://about.gitlab.com/handbook/marketing/plan-fy22/#core-teams).
+Within the core DevOps solutions, are capabilities. They may also be referred to as Use Cases. These topics may be hot in the market (like GitOps), or associated capabilities with GitLab (like SCM). They may attract interest for a conversation with a prospect. Conversations about these capabilities may open the door (as a wedge) to broader conversations that align to value plays - typically leading to either the platform solution or Automated Software Delivery solution. 
 
-Use cases coming next
+Examples include:
+* **[Source Code Management](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/) (SCM)**.
+* **[Continuous integration](https://about.gitlab.com/features/continuous-integration/)**    
+* **[GitOps](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/)**
+ 
+The Customer Success Managers (CSMs) are goaled on expanding an existing customer's use of GitLab capabilities. It is measured in stage utilization. Mapping capabilities to stages helps the CSMs know which capability/use case material to apply.
 
-| VSM | Observability | supply chain security |
-| --- | --- | --- | 
+### Capabilities / use cases DRIs and key links
 
-|  | **Automated Software Delivery** | **DevSecOps** | **Compliance** | **SCM** (capability) | **GitOps** (capability) | Platform |
-| --- | ----------- | ------------------ | ----------- | ------------- | --------------- | -------------- |
-| **PMM** | Saumya Upadhyaya | Cindy Blake | Cindy Blake | Brian Glanz | Saumya Upadhyaya| Cormac Foster | 
-| **TMM** | Itzik | Fern | Fern | William Arias | Cesar Saavedra | William Arias |
-| **PM** | Jackie Porter | Hillary Benson | Orit Golowinski | Daniel Gruesso | Viktor Nagy | n/a |
-| **Resource page** | [Automated Software Delivery](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/delivery-automation/) | [DevSecOps page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/) | [Compliance](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/compliance/) | [VC&C page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/) | [GitOps page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/gitops/) | [Platform](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/) |
-| **Solution page** | [Automated Software Delivery solution](https://about.gitlab.com/solutions/delivery-automation/) | [DevSecOps solution](https://about.gitlab.com/solutions/dev-sec-ops/) | [Compliance solution](https://about.gitlab.com/solutions/compliance) | [vcc Solution](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/) | URL tbd | URL tbd |
-| **Topic page** | [CI-CD](https://about.gitlab.com/topics/ci-cd/) | [Application Security/DevSecOps](https://about.gitlab.com/topics/devsecops/) | URL tbd | [Version Control](https://about.gitlab.com/topics/version-control/) | [What is GitOps?](/topics/gitops/) | [DevOps Platform](https://about.gitlab.com/topics/devops-platform/)|
-| **Campaign page** | Not available [CI landing page](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/) | DevSecOps landing page | Compliance tbd | [VC&C landing page](https://about.gitlab.com/why/simplify-collaboration-with-version-control/) | [GitOps landing page](/why/gitops-infrastructure-automation/) | tbd |
-| **Value play** | [Automated Software Delivery](https://docs.google.com/presentation/d/1E3vMfzaE49NauWnIW5PJzL1e1XUljhbVXK6z0Eb9ZMk/edit#slide=id.gec8126bebe_0_3) | [DevSecOps2.0](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/) | [Software compliance](https://docs.google.com/presentation/d/1JGqApMeEyZzfejysjtrg2dS7jWbXVI9elNELTj2wSK4/edit#slide=id.gfaa86ae08c_0_36) | **web-selling only** |[Infrastructure Automation](https://about.gitlab.com/handbook/marketing/sales-plays/gitops/) | [Platform](https://docs.google.com/presentation/d/15_xU3u_0qeEupaRNrR29HY3B_Tlc1R99xWRUUjGwrz8/edit#slide=id.gec8126bebe_0_3) |
-| **Slack channel** | #gtm-ci-cd | #gtm-ci-cd | tbd | n/a | #gtm-gitops | #gtm-platform |
+| Usecase | **SCM** | **CI** | **CD** | **Security** | **Compliance** | **Artifact Mgmt** | **Agile Planning** | **Analytics & Insights** |
+| ---     | --      | --     | --     | --           | --             | --                | --                 | --                       |
+| **PMM** | Saumya Upadhyaya (Placeholder) | Saumya Upadhyaya (Placeholder) | Aathira Nair | Brian Mason | Brian Mason | Saumya Upadhyaya (Placeholder) | Saumya Upadhyaya (Placeholder) | Aathira Nair |
+| **PM**  | Sarah Waldner | Jackie Porter | Viktor Nagy | Hillary Benson | Hillary Benson | Jackie Porter | Melissa Ushakov | Justin Farris |
+| **Handbook** | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/) | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#adoption-guide) | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/) | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/compliance/) | [link](https://about.gitlab.com/handbook/marketing/sales-plays/package/) | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/agile/) | link | 
+| **Adoption guide** | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#adoption-recommendation) | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#adoption-guide) | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#adoption-guide) | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#adoption-guide) | link | link | [link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/agile/#adoption-guide) | link | 
 
-<!--
-| **Webcast pages** | tbd | [DevSecOps webinar](https://www.youtube.com/watch?v=cURONFXW_NQ&t=3s) | [Compliance webinar](https://www.youtube.com/watch?v=fTFsbGyl6o0) |[VC&C webinar](https://about.gitlab.com/webcast/collaboration-without-boundaries/) | [GitOps webinar](/why/gitops-infrastructure-automation/) | tbd |
-| [**epic**](https://gitlab.com/groups/gitlab-com/marketing/strategic-marketing/-/epics/71) | [CI epic](https://gitlab.com/groups/gitlab-com/marketing/strategic-marketing/-/epics/70) | [DevSecOps epic](https://gitlab.com/groups/gitlab-com/marketing/strategic-marketing/-/epics/56) | Compliance tbd | [VC&C epic](https://gitlab.com/groups/gitlab-com/marketing/strategic-marketing/-/epics/42) | [GitOps epic](https://gitlab.com/groups/gitlab-com/marketing/strategic-marketing/-/epics/28) |  |
--->
+
+### Future Use cases 
+
+- Test automation (UI test automation, mobile app testing, performance tests, load tests .. )
+- GitOps 
+- Ecosystem - extensibility, plugins, content        
+- Observability        
+- AI (currently AI workflows will be captured as part of the usecases they are part of. Future decision to be made to track as a separate usecase)
+- Platform engineering - Self-service developer experience that offers the right capabilities to enable developers and others to produce valuable software with as - little overhead as possible (includes internal dev portals, wikis)
+
 
 ## Last mile alignment
 
@@ -147,7 +122,7 @@ Externally, solutions GTM should drive:
 * Solutions pages (from Home page drop-down)
 
 
-## Buyer's journey and typical collateral
+# Buyer's journey and typical collateral
 
 As a prospect is determining that they have a specific problem to solve, they typically go through several stages of a [buyer's journey](/handbook/marketing/brand-and-product-marketing/content/#content-stage--buyers-journey-definitions) which we hope ultimately leads them to selecting GitLab as their solution of choice.
 
@@ -170,13 +145,13 @@ In addition the **buyer's journey**, there are also different audiences in an or
 The Buyer's journey can also start when developers and the team start to look for solutions to their day to day challenges. The staff initiates the effort, as they have identified a challenge and are the champion of a change. They then convince their managers and executives of the need to consider an alternative to their current state.
 
 
-### Solution GTM Bill of Materials
+## Solution GTM Bill of Materials
 
 To this model, we need to add ideal customer profiles to better inform marketing on types of companies to target for campaigns and to help sales qualify opportunities.
 
 ![GTM-bom](../images/BOM-Activation.png)
 
-### Market Requirements
+## Market Requirements
 
 Solution "Market Requirements" are the broad capabilities that a solution (product or multiple products) would need to support. Each GitLab DevOps solution should have roughly 8-12 market requirements defined.
 
