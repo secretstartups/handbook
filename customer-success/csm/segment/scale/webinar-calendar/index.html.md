@@ -16,37 +16,9 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 
 # Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars in the month of June and July.
+We’d like to invite you to our free upcoming webinars in the month of July.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
-
-
-## June 2023
-
-### AMER Time Zone Webinars
-
-#### DevSecOps/Compliance
-##### June 27th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_g9uXtLMsSRq2-i5R7MgEcw#)
-
-#### Continuous Change Management in a Secure Way
-##### June 28th, 2023 at 12:00-1:00PM Eastern Time/4:00-5:00PM UTC
-
-Learn from our director of engineering how to shift left your change management process and why that is important. You will learn about the why and how of a safe and secure change management process.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_5nvvGPgUTtOYj19LpZUCGQ#)
-
-### EMEA Time Zone Webinars
-
-#### Getting Started with DevOps Metrics
-##### June 27th, 2023 at 10:00-11:00AM UTC
-
-Come learn about DevOps metrics in GitLab and why it is useful to track them. We will cover an overview of DORA metrics, Value Stream Analytics, and Insight dashboards, and what it looks like in Gitlab.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_e0LxX5o_QVuDqkqxiYxX8Q)
 
 ## July 2023
 
@@ -80,6 +52,13 @@ Expand your CI/CD knowledge while we cover advanced topics that will accelerate 
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_xEnLCQgCRzedFJzrkoXy9A#)
 
+### GitLab - The AI Powered DevSecOps Platform
+##### July 26th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
+
+Join us to learn about the evolution of the Gitlab platform from DevOps to DevSecOps to the AI-powered DevSecOps platform!
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_M5uLxfsURdWQxl1x1R1e_A#)
+
 #### DevSecOps/Compliance
 ##### July 31st, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -96,8 +75,15 @@ New to GitLab? Join this webinar, where we will review what GitLab is, how it be
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_yhmL6RLEQ0CxER1ucDLGrg#)
 
-#### Intro to CI/CD
+#### GitLab - The AI Powered DevSecOps Platform
 ##### July 18th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
+
+Join us to learn about the evolution of the Gitlab platform from DevOps to DevSecOps to the AI-powered DevSecOps platform!
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Tmo20HMtQG-X81DY3j8w8Q#)
+
+#### Intro to CI/CD
+##### July 20th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
 
 Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
 
