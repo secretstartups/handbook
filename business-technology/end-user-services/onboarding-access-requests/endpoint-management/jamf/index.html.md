@@ -153,12 +153,26 @@ Yes. It is safe to install and there is no threat to install the certificate. Wh
 
 <img src="GitLab-Nudge-Logo.png" alt="GitLab Nudge" width="400">
 
+### Deferring updates with Nudge
+
+Before the required installation date, users can choose to defer the Nudge window by selecting 'Defer' in the lower right corner. From you can choose Later, One Hour, One Day, or a Custom amount. Selecting 'Custom' will allow you to set the Nudge reminder to a date and time of your choosing.
+ 
+ <br/>
+
+<img src="nudge-custom.png" alt="GitLab Nudge Custom" width="400">
+
+<br/>
+
+<img src="nudge-time.png" alt="GitLab Nudge Time" width="400">
+
+<br/>
+
 ### Nudge is requiring a system update, but no update is available under Software Update 
 
 1. Rebooting your Mac, often this will cause a update to appear
 1. Open a Terminal window, and paste the following to install all updates
 ``` shell
-sudo software update -ia
+sudo softwareupdate -ia
 ```
    1. If you are on an older macOS version like macOS Monterey then try fetching the full installer
 
@@ -184,6 +198,12 @@ If Nudge is not behaving as expected please follow these steps to produce logs f
 - Open a second Terminal window (Command + N) and paste the following command to launch Nudge `/Applications/Utilities/Nudge.app/Contents/MacOS/Nudge`
 
 - After a few seconds, once the log stream finishes producing its output, copy and paste the output of the log stream to the team member assisting you. You can then close the Terminal windows. 
+
+# General Troubleshooting and known issues
+
+## Fish Shell has compatibility issues with Jamf
+
+If you use [Fish Shell](https://fishshell.com/), Jamf's inventory process will be broken. To remedy this, do not let Fish Shell modify ~/.bash_profile or ~/.bashrc. If they are modified, revert them back to their defaults. Use a workaround by having your Terminal program launch Fish. For more information, see this [note](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/2625#note_1436895220).
 
 # Frequently Asked Questions
 
