@@ -121,9 +121,17 @@ It's challening to include remote participants in team building, especially in a
 
 ## Ready to get planning?
 
-The content and suggestions from this page are neatly captured in this 'onsite' planning template. Simply open the template, make a copy, and use this resource to plan your event!
+The content and suggestions from this page are neatly captured in 2 planning template. Simply open the template, make a copy, and use this resource to plan your event!
 
-<Insert link to google doc template available to all GitLab team members>
+Customize the templates as needed. We suggestion you start with the `Onsite Planning Guide` to plan, then use the `Onsite Attendee Guide` to communicate plans to your team.
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="https://docs.google.com/spreadsheets/d/1WawNa6Xjg30Ev_lzFv5a1rre3f962sWaI45lQdNk1F4/edit#gid=1554266865" class="btn btn-purple" style="width:250px;margin:5px;">Onsite Planning Guide</a>
+    <a href="https://docs.google.com/spreadsheets/d/1ZV7bI9lSuGPsNOMlfLpnHEq8awT4kh0C6syiYU260d0/edit#gid=0" class="btn btn-purple" style="width:250px;margin:5px;">Onsite Attendee Guide - Know Before you Go</a>
+  </div>
+</div>
+
 
 ## Additional Resources
 1. [Travel Guidelines](/handbook/travel/)
