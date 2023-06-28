@@ -30,11 +30,13 @@ We currently have experiences the following experiences built:
 
 ### Routing
 
-Routing rules are set up in Qualified to send a visitor to the most appropiate rep to handle the conversation.- If the visitor clicked to the site from a link in an Outreach sequence, the visior is routed to the sender of the email. 
-- If a visitor is existing in our CRM and being Actively Sequenced, they will be routed to the sequencing rep.
-- If a visitor is identified to be associated to a US PubSec account they are routed to the BDR Assigned on that account. If no BDR Assigned is present on the account they will be round robined to the PubSec team. 
-- If a visitor is identified to be associted with an Actively Working account they will be routed to the BDR Assigned on that account. If the rep is not available the visitor will be shown the calendar of that rep to book a meeting.
-- If a visitor is not being sequenced, not PubSec, and not part of an Actively Working account they will be routed to the the geo based SDR round robin pool.
+Routing rules are set up in Qualified to send a visitor to the most appropiate rep to handle the conversation.
+
+- A visitor that arrives to the site from clicking a link in an Outreach sequence email will be routed to the sequencing rep. 
+- A visitor that is existing in our CRM and being Actively Sequenced, they will be routed to the sequencing rep.
+- A visitor that is identified as being associated to a US PubSec account will be routed to the BDR Assigned on that account. If no BDR Assigned is present on the account they will be round robined to the PubSec team. 
+- A visitor that is identified to be associted with an Actively Working account will be routed to the BDR Assigned on that account. If the rep is not available the visitor will be routed to the inbound SDR team based on Geo to further qualify the lead and schedule time on the assigned BDR's calendar.
+- A visitor that is not being sequenced, not PubSec, and not part of an Actively Working account will be routed to the the appropriate Geo based SDR round robin pool.
 
 If you feel you have been routed a conversation or visitor in error please post a link to the lead/conversation in the #mktgops Slack channel. 
 
@@ -58,6 +60,15 @@ The Qualified/Outreach integration allows Qualified to be able to identify if a 
 
 Qualified offers an integration with 6sense to help you pull in firmographic information about the website visitors from the start. Using 6sense’s reverse IP lookup, you can quickly see where the visitor is coming from, their company information, segments they belong to, and insights for their product lines.
 
+#### Zoom
+
+A seamless integration with Zoom is coming shortly. Until then, reps can either:
+1. Input their personal meeting link in the section `Calendar -> Meeting details -> Enter your own meeting details` and their mmeting link will appear in the calendar invite.
+
+OR
+
+2. Manually open the calendar invite in Google calendar and click `Add video conferencing details` to add a unique Zoom link.
+
 ### Performance Measurement
 
 The Rep Performance Dashboard helps you understand the metrics that mean the most to your success including:
@@ -72,7 +83,8 @@ The Rep Performance Dashboard helps you understand the metrics that mean the mos
 
 ### Resources
 
-- Sales Rep Setup Guide: https://www.qualified.com/university-guides/sales-rep-setup-guide
-- Best Practices for Sales Reps: https://www.qualified.com/university-categories/sales-reps
-- Best Practices for Sales Managers: https://www.qualified.com/university-categories/sales-managers
-- 
+- [Qualified University](https://www.qualified.com/university)
+- [Sales Rep Setup Guide](https://www.qualified.com/university-guides/sales-rep-setup-guide)
+- [Best Practices for Sales Reps](https://www.qualified.com/university-categories/sales-reps)
+- [Best Practices for Sales Managers](https://www.qualified.com/university-categories/sales-managers)
+
