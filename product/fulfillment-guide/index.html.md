@@ -725,3 +725,9 @@ During these quarterly reviews we will aim to commit up to 70% of Fulfillment’
 #### Communicating roadmap changes
 
 Any proposed changes to the roadmap will be first communicated to cross-functional partners async in a relevant Slack channel with the relevant context and rationale, and ask for feedback. As needed, a synchronous meeting will be scheduled to discuss. All feedback will be considered by the product team and a final decision will be made and communicated once made.
+
+### Fulfillment Prioritization Escalations
+
+If you have an urgent Fulfillment need that is not being prioritized by Fulfillment's regular prioritization process due to competing priorities, and it is both important and urgent, please work with your division's leadership for escalation. The first step can be an async discussion involving Fulfillment leadership (as of now include [ofernandez2](https://gitlab.com/ofernandez2)). Situations in which competing company-priority projects would need to be reprioritized to accommodate your request may require escalation to GitLab's [e-group](/company/team/structure/#executives). 
+
+Team members in our Sales and Customer Success groups should escalate first via the [Top ARR Drivers meeting](/handbook/product/product-processes/#top-arr-drivers) for cross-team leadership visibility and prioritization. Simply add your item to the list of asks (link in the meeting agenda) for discussion.
