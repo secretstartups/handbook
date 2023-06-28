@@ -103,7 +103,8 @@ The survey factors for FY24 were as follows with each section including three to
 - 2023-06-22 through 2023-07-04: Leaders/Managers review their reports and discuss/brainstorm action plans in Staff/team meetings
 - 2023-06-28 and 2023-06-29: Target date for results shared company-wide
 - 2023-07-30: Finalize Action items and document in epics/issues
-- 2023-08-01: Functional action plans added to FY'23 Q3 OKRs and Division epics
+- 2023-08-01: Division action plans added to FY'24 Q3 OKRs and Division epics
+- 2023-08-31: Department action plans (if applicable) complete
 
 
 ### FY'23 Pulse Engagement Survey
