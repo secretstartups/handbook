@@ -48,7 +48,7 @@ Don't take our word for it - check out what mentors and mentees at GitLab have t
 | ----- | -------- |
 | **Start of Program Feedback Form** | A survey to measure results of the program. Participation is **required**. |
 | **Mentor/Mentee Training** | Completion of the self-paced [How to be a Good Mentor or Mentee](https://www.linkedin.com/learning/how-to-be-a-good-mentee-and-mentor/the-power-of-mentoring?u=2255073) course on LinkedIn Learning is **required** of all mentors and mentees. If you prefer to review text-based information, you can instead review [this slides](/handbook/people-group/learning-and-development/mentor/#mentor-and-mentee-training), created using content from the LinkedIn course. |
-| **Initial program kickoff** | A 25-minute discussion pannel with mentors, mentees, and company leadership. Attendance is **required**. |
+| **Initial program kickoff** | A 25-minute discussion to meet other mentors and mentees in the program. Attendance is **encouraged but not required**. |
 | **1:1 Mentor Sessions** | Mentors and mentees should meet every other week for 30-minutes for a total of 5 months (with the option to extend). Sessions are led by the mentee and should be focused on specific goals. Attendance is **required**. |
 | **Mentor/Mentee Resources** |[Async resources](/handbook/people-group/learning-and-development/mentor/#mentoring-resources) are available as a training guide for all mentor/mentee pairs. These resources include suggested articles to read and discuss, strategies for goal setting, sample meeting agendas, and additional training material. Use of resources is encouraged but not required. |
 | **End of Program Feedback Form** | A survey to measure results of the program. Participation is **required**. |
@@ -67,7 +67,7 @@ Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSf5yUA-H0RS
 | 2023-06-30   | Pairing of mentor relationships complete and communicated to applicants | |
 | By 2023-07-14   | Pre-Program survey sent via Culture Amp | |
 | By 2023-07-14 | Mentor/Mentee pre-program coffee chats | |
-| Week of 2023-07-14  | Initial program Kickoff meeting |
+| 2023-07-12 and 2023-07-13  | Initial program Kickoff meeting |```
 | Week of 2023-11-30 | End of program feedback due |  |
 
 
