@@ -195,6 +195,8 @@ The promotion candidate will be aware that their promotion has moved to the feed
 
 Aligned with our [company-wide promotion timeline](https://about.gitlab.com/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline), we do not communicate promotion status (approved/denied) to team members until we are fully through the approval process, so it is important ensure team members are clear on the fact that participating in the feedback promotion phase does not indicate promotion approval. 
 
+Promotion feedback documents differ from promotion documents in terms of who they are shared with. While promotion documents are shared company-wide upon promotion approval, promotion feedback documents *will not be shared publicly*. The intention of promotion feedback is to ensure we are incorporating cross-functional feedback into the promotion process and providing team members with holistic feedback on their strengths and opportunity areas with the ultimate goal of supporting growth. Promotion feedback documents will only be shared with the People group, CTO Staff, the team member's leadership chain, and the Indirect Manager facilitating the feedback process. 
+
 #### Promotion Feedback Pilot Steps & Timeline
 
 We have built in a few additional touchpoints into the company-wide [promotion calibration and processing timeline](https://about.gitlab.com/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline) to ensure enough time in the process for feedback sessions to take place.
