@@ -134,7 +134,7 @@ With a [few exceptions](#exceptions-for-breaking-changes), if the answer is yes 
 
 Deprecating and removing a feature needs to follow a specific process because it is important that we minimize disruption for our users. As you move through the process, use the language `deprecated` or `removed` to specify the current state of the feature that is going to be or has been removed.
 
-**Note** - some deprecations or removals do not result in a breaking change. So in your deprecation or removal notice, you need to be explicit about the following:
+**Note** - some deprecations or removals do not result in a breaking change. So in your notice, you need to be explicit about the following:
 
 - Does the deprecation or removal result in a breaking change?
 - If the deprecation or removal results in a breaking change, then what does it break? 
@@ -164,8 +164,9 @@ _For example, if the intended removal milestone is `16.0`, given the following r
 
 **Milestone of Removal:**
 
-1. Announce the final removal in the [Release Post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#removals)
 1. Engage the support team to update the [Statement of Support](https://about.gitlab.com/support/statement-of-support/) as necessary
+
+The release post automatically shows all removals that occur during a milestone. (In the deprecation yaml file, the `removal_milestone`.)
 
 **Important Notes**
 
@@ -177,6 +178,9 @@ _For example, if the intended removal milestone is `16.0`, given the following r
 #### Video on deprecations and removals process
 
 - Watch this [video](https://youtu.be/ehT1xBajCRI) for an overview of GitLab's deprecations and removals policy and recent updates to it. It also includes an overview of the process from the Runner engineering team for managing deprecations and removals between major releases.
+
+In June of 2023, we changed the process so that all deprecations and removals are displayed on [the Deprecations page](https://docs.gitlab.com/ee/update/deprecations.html).
+The announcements are grouped by the milestone they'll be removed. The deprecation announcement date is listed below each individual item.
 
 #### Syntax deprecation process
 
