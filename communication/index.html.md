@@ -1318,6 +1318,7 @@ To get in touch with the [e-group](/company/team/?department=executive) on Slack
 | CMO    | `#cmo` |
 | CPO    | `#cpo` |
 | CLO    | `#legal`     |
+| CISO   | `#ciso`      |
 
 ### Key Slack channels
 
