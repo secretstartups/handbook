@@ -221,3 +221,7 @@ If you have the `ID` of the user, find the error message for the user in Sentry'
 If the purchase was also attempted from [CustomersDot portal](https://customers.gitlab.com/customers/sign_in), use
 the [workflow](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry)
 to find the error message in [Customers Portal Sentry project](https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/).
+
+# Finding an error message in Stripe
+
+As we use [Stripe](https://about.gitlab.com/handbook/business-technology/tech-stack/#stripe) as a payment processor, some error codes that are visible to the customers are not handled by GitLab, and are reported by Stripe directly. For example, the `do_not_honor` error is an error message that comes from Stripe. As such, we can rely on the [**Stripe's Decline Codes documentation**](https://stripe.com/docs/declines/codes) to find more information regarding the root cause of an error.
