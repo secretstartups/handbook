@@ -54,8 +54,20 @@ Please note that we are adding supported countries to this list as we discover o
 You can test this by going to order a MacBook Pro (or Dell) from the regional Apple store, and seeing if they let you customize a build or alternately refer you to local retailers.
 If the latter, see below.
 
-If your country is not listed above or for any general laptop procurement questions please contact IT-Help@gitlab.com or your Candidate Experience Specialist to discuss alternate options.
+If your country is not listed above or for any general laptop procurement questions please contact `IT-Help@gitlab.com` or your Candidate Experience Specialist to discuss alternate options.
 If the team member desires financial assistance to purchase the hardware, the Company will advance the funds to help facilitate the purchase (see Exception Processes below).
+
+<div class="panel panel-warning">
+**Warning: fake job scams**
+{: .panel-heading}
+<div class="panel-body">
+
+Scammers may impersonate GitLab and target job seekers. GitLab will never ask new hires to send us funds for equipment purchases.
+
+Read the ["What to know about a fake job scam impersonating GitLab"](https://about.gitlab.com/blog/2023/06/29/fake-gitlab-job-scam/) blog post to learn the warning signs and how to protect yourself.
+
+</div>
+</div>
 
 ### GitLab Laptop Refreshes for Team Members
 
