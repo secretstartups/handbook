@@ -32,11 +32,12 @@ We do not add new items in order to:
 
 ## How to propose a change that impacts navigation
 
-**Note: We are not considering any top-level navigation changes to the Project or Group sidebar until 6 months after our new navigation launches.**
+**Note: We are not considering any top-level navigation changes to the Project or Group sidebar until 6 months after our new navigation launches (01-11-2023).**
 
 1. Before opening an issue, review the [elements and patterns for navigation in Pajamas](https://design.gitlab.com/patterns/navigation). It is worth checking the [direction page](/direction/manage/foundations/navigation_settings/) to see how your proposal aligns or conflicts with upcoming changes.
+1. It is recommended to propose a navigation change 2 milestones ahead of when you want to release. This allows enough time for collaboration between the team requesting navigation changes and Product/UX counterparts in Foundations.
 1. If you are ready to propose a navigation change, use this [issue template](https://gitlab.com/gitlab-org/gitlab/-/issues\new?issuable_template=Navigation%20Proposals) to kick off a discussion with the `group::foundations` team.
-1. The [Product Manager for Foundations](/handbook/product/categories/#foundations-group) must approve any proposal as the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual). They will consult with UX counterparts to consider the impact on the user experience based on user research and business needs. UX and Product Management leadership may also be engaged for feedback when necessary.
+1. The [Product Manager for Foundations](/handbook/product/categories/#foundations-group) must approve any proposal as the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual). They will consult with UX counterparts to consider the impact on the user experience based on user research and business needs. UX and Product Management leadership may also be engaged for feedback when necessary. Turnaround time from Foundations team will be 1 milestone.
 1. When you have approval and are ready to start implementation, then follow the [GitLab Docs on adding items to the navigation](https://docs.gitlab.com/ee/development/navigation_sidebar.html#adding-page-specific-vue-content).
 
 ### Utilizing feature flags
