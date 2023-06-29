@@ -270,17 +270,35 @@ Approvals for the Director+ level off-cycle promotion exceptions require E-Group
 
 Regardless of the promotion level, it is critical that leaders work with their People Business Partner, Total Rewards, and FP&A [as outlined](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to identify tradeoffs we can review to fund the promotion.
 
-### Greenhouse Promotions/Transfers Process
+### Transfers: Greenhouse or Workday
+
+#### Greenhouse
 
 The following types of promotions/transfers can be processed through Greenhouse:
 - Interim Roles: Interim roles at all levels should go through the Greenhouse interview process (regardless of the number of applicants for the role). 
     - Example: Senior Backend Engineer applies to become a Manager, Engineering (interim)
-- Interim roles that transition to the permanent role: All team members that started the Greenhouse process and were hired into the interim role will make the transition to the permanent role via Greenhouse as well. While on the interim the req will be paused by Talent Acquisition and reopened to process the hire into the permanent role. 
-    - Example: Manager, Engineering (interim) transitions to Manager, Engineering. 
-- Lateral Transfers to a different job family: apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
+- Lateral Transfers to a new job family and new department: apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
     - Example: Backend Engineer applies to a Site Reliability Engineering role.
 - Change in territory, segment, or specialty that requires a change in job family or level, change in compensation or stock adjustment or requires a backfill request: Apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
 - Promotions or Applications to Manager level roles: Any Manager role should be opened via Greenhouse for team members to apply unless the manager role is not a net new headcount but a continuation of someone's career progression. If it is a continuation of career progression, it can be processed via Workday but will need to be calibrated as a part of the Twice Per Year Promotion cycle. This could for example apply if there's not a significant change in scope, or the team member has been identified and there are no other qualified candidates for that role. Whether an interim period should apply for the promotion when there's not a significant change of scope, will be determined by the manager, Department Head and People Business Partner for that group. 
+
+#### Workday
+
+The following types of transfers can be processed through Workday:
+- Lateral Transfers can be processed through Workday when the following conditions are met:
+    1. Role _not_ net new
+    2. Compensation remains _unchanged_
+    3. Job family is within the team member's current department (Example: Backend Engineer changes job title to Fullstack Engineer within the Development department)
+    4. Role is an individual contributor position (not a people management role)
+
+Rationale for this scenario could be that responsiblities have shifted and the goal is to map job title more closely to the actual day-to-day responsiblities of the team member. This process can be initiated by the team member directly or by the team member's manager.
+
+Steps:
+1. Manager to document how the team member is (and will continue to) execute in their current role more closely aligned with the requested job family
+2. Share documentation through department head level for review and approval
+3. Share documentation with aligned People Business Partner for review and approval 
+4. PBP to submit request in Workday (please link document with justification for reference and ensure it is accessible by `people-connect@gitlab.com`)
+5. People Connect to process and determine whether a Letter of Adjustment is needed to accompany the change
 
 #### Greenhouse Process Requirements
 
