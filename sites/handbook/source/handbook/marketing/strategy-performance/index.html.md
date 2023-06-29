@@ -185,6 +185,7 @@ To give each functional marketing team has a single point of contact for marketi
 | [Field Marketing](https://about.gitlab.com/handbook/marketing/field-marketing/) | Djordje Micovic |
 | [Global Channel Marketing](https://about.gitlab.com/handbook/marketing/channel-marketing/) | Djordje Micovic |
 | [Digital Experience](https://about.gitlab.com/handbook/marketing/digital-experience/) | Dennis Charukulvanich |
+| [Developer Relations](https://about.gitlab.com/handbook/marketing/developer-relations/) | Robert Kohnke |
 
 ## <i id="biz-tech-icons" class="far fa-folder-open"></i>Important Resources
 
