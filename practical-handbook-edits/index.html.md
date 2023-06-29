@@ -346,3 +346,28 @@ Once you've made your edits use the `Source Control` (`⌃⇧G`) functionality t
 1. Clicking on the publish or sync button
 
 You can use the `GitLab Workflow` extension to manage the `Merge Request` (MR) once the branch has been pushed and MR created.
+
+
+### Remove trailing whitespaces 
+
+CI/CD linting jobs can use checks for trailing whitespaces. When detected, the checks cause the pipeline to fail, and require editing the files again. This can increase time to create and review MRs. The following tips help with removing trailing spaces in detected files faster. 
+
+```
+content/handbook/marketing/developer-relations-and-community/_index.md:78:70 MD009/no-trailing-spaces Trailing spaces [Expected: 0 or 2; Actual: 1]
+```
+
+An IDE or the command line are common ways to fix the problem. 
+
+1. [Visual Studio Code](https://handbook.gitlab.com/handbook/tools-and-tips/editors-and-ides/visual-studio-code/): Open the file to edit. On macOS, [use the shortcut `cmd k x`](https://code.visualstudio.com/docs/getstarted/keybindings#_rich-languages-editing) to clear trailing whitespaces and [`cmd s` to save the file](https://code.visualstudio.com/docs/getstarted/keybindings#_file-management).
+1. [vim](https://handbook.gitlab.com/handbook/tools-and-tips/editors-and-ides/vim/): Change to the command mode (ESC), start a command with `:` and copy the following sequence to clear all trailing whitespaces: `%s/\s\+$//e`. Press enter, and save the file with `:wq`. 
+
+Visual Studio Code provides an editor setting to remove trailing whitespaces permanently. Navigate to `File > Preference > Settings > User > Text Editor > Files > Trim Trailing Whitespace` and check the box to trim whitespaces when files are saved automatically. Please use this setting carefully, because some files contain many whitespaces to fix and can render the Merge Request change diff hard to read. This increases MR review time. It is recommended to remove and fix trailing whitespaces in a separate MR. 
+
+#### Bulk remove trailing whitespaces 
+
+You can replace trailing whitespaces in multiple files on the command line using [GNU sed](/handbook/practical-handbook-edits/#pre-requisites) and [find](/handbook/practical-handbook-edits/#using-a-terminal). The following example recurisvely searches the `content/handbook` directory for files matching the pattern `*.md` and executes a script on each file, which replaces trailing whitespaces inline (`sed -i ...`). 
+
+```shell
+find content/handbook -type f -name '*.md' -exec sh -c "sed -i 's/[ \t]*$//' "$1" '{}'" \;
+```
+
