@@ -127,6 +127,12 @@ Here is a sample checklist of activities:
      - Validate all user accounts do not have password set.
 - Drop orphaned tables
      - Tables managed through dbt should be manually dropped when they are no longer needed or managed by dbt. This activity compared tables to the tables managed by dbt for tables that have been orphaned. Identified orphaned tables are validated as not being in use and then dropped.
+- Drop unused models
+     - Models (tables and views) which are not being used will be dropped and the code which generates them will be removed from the Analytics repository. An unused model can be defined as:
+          - It has not been queried in more than three months.
+          OR
+          - The Airflow account is the only user and no downstream models depend on it.
+     - A review of tables flagged for removal will be done by the analytics community before being dropped. This will allow for any tables wrongly flagged to be kept.
 
 #### Sisense
 - Deactivate off-boarded employees from Sisense.
