@@ -24,7 +24,7 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-### Git Basics
+#### Git Basics
 ##### July 7th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
 Are you new to Git? Attend this webinar targeted at beginners working with source code, where we will review the basics of using Git for version control and how it works with GitLab to help you get started quickly.
@@ -45,17 +45,17 @@ Come learn about what CI/CD is and how it can benefit your team. We will cover a
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_8__Dyj59RkWXvB5FtlNr5w#)
 
-### Advanced CI/CD
+#### Advanced CI/CD
 ##### July 25th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
 Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_xEnLCQgCRzedFJzrkoXy9A#)
 
-### GitLab - The AI Powered DevSecOps Platform
+#### GitLab - The AI Powered DevSecOps Platform
 ##### July 26th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
-Join us to learn about the evolution of the Gitlab platform from DevOps to DevSecOps to the AI-powered DevSecOps platform!
+Join us to learn about the evolution of the Gitlab platform from DevOps to DevSecOps to the new AI-powered DevSecOps platform!
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_M5uLxfsURdWQxl1x1R1e_A#)
 
@@ -78,7 +78,7 @@ New to GitLab? Join this webinar, where we will review what GitLab is, how it be
 #### GitLab - The AI Powered DevSecOps Platform
 ##### July 18th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
 
-Join us to learn about the evolution of the Gitlab platform from DevOps to DevSecOps to the AI-powered DevSecOps platform!
+Join us to learn about the evolution of the Gitlab platform from DevOps to DevSecOps to the new AI-powered DevSecOps platform!
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Tmo20HMtQG-X81DY3j8w8Q#)
 
@@ -89,7 +89,7 @@ Come learn about what CI/CD is and how it can benefit your team. We will cover a
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_OztFR_JMTC65F7DFj7ibPA#)
 
-### Advanced CI/CD
+#### Advanced CI/CD
 ##### July 25th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
 Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
 
