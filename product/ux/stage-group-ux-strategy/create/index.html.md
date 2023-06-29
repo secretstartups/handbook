@@ -43,9 +43,9 @@ The Create stage helps teams accelerate software delivery and reduce cycle times
 
 -->
 
-### Editor
+### IDE
 
-[Group direction page](/direction/create/editor/)
+[Group direction page](/direction/create/ide/)
 
 Developers often face the obstacle of setting up their local development environment, which can be time-consuming and demotivating. GitLab's Remote Development aims to eliminate this responsibility by providing ephemeral, cloud-based workspaces configured in a single file stored in a repository. This allows for easy provisioning of new environments with a single click, connecting securely from the GitLab Web IDE or desktop editor. Monitoring tools and dashboards are available to manage running and suspended environments, freeing up valuable development time and streamlining onboarding for new developers.
 
