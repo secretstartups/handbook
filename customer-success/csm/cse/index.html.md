@@ -24,8 +24,7 @@ The Customer Success Engineer (CSE) provides deep subject matter expertise on Gi
 | *Name*                                           | *Region*  |
 | ------------------------------------------------ | --------- |
 | [Martin Brümmer](https://gitlab.com/mbruemmer)   | EMEA      | 
-| [Philippe Charriere](https://gitlab.com/k33g)    | EMEA      | 
-| [Nick Wilson](https://gitlab.com/nwilson-gitlab) | AMER East | 
+| [Philippe Charriere](https://gitlab.com/k33g)    | EMEA      |  
 
 ## FY23 Direction
 1. Establish the core team
@@ -40,7 +39,8 @@ Engage with customers in a technical consultancy and advisor role during their G
 - Technical Discovery in-line with a customer's desired business outcomes
 - Infrastructure Discovery (initial exploration on direction, complexity)
 - Hands-on workshops to drive adoption
-- CSM Office Hours, enablement
+- Customer enablement on specific technical questions with direct engagements
+- Team member enablement on best practices in CSM Office Hours
 
 ## Deliverables & Scope per Use Case
 - CSE is working on a fixed (time), scoped (deliverables) engagement with a dedicated area/business unit/team (aligned) within an existing customer.
@@ -51,7 +51,15 @@ Engage with customers in a technical consultancy and advisor role during their G
 
 ## Engagement Model
 
-Customer Success Engineer engagement follows a process for validation and delivery.
+Customer Success Engineer engagements can be divided into complex and spot engagements.
+
+[Complex engagements](#complex-engagements) are those that present a significant opportunity or significant risk for our customer relationships. They require a a long-term engagement of the Customer Success Engineer over multiple weeks or months in order to support the regular account team. Examples are Ultimate expand opportunities, Ultimate onboarding engagements with multiple workshops or regular account team support for major customers as a dedicated technical resource. This kind of engagement requires an [Engagement Request](#engagement-request) and Opportunity Review.
+
+In [Spot engagements](#spot-engagements), Customer Success Engineers will provide support for specific customer questions and problems that are clearly limited in scope and can be handled in a one-time call with the customer. Examples include difficulty implementing individual CI pipelines or applying certain features, need for best-practice advise in one use case or an individual demo or presentation for a customer. This kind of engagement does not require an engagement request but is offered by Customer Success Engineering on a best-effort basis.
+
+### Complex engagements
+
+Complex Customer Success Engineer engagement follows a process for validation and delivery.
 
 ```mermaid
 graph TD
@@ -71,7 +79,7 @@ graph TD
     B --> F --> G
 ```
 
-### Engagement Request
+#### Engagement Request
 
 **DRI: CSM**
 
@@ -86,11 +94,23 @@ When involving a CSE in a customer's adoption journey or other technical impleme
    1. **Stakeholders & contacts:** who from the customer is involved, and what is their role? _Please provide each person's name and role/title, as well as a brief summary of their responsibilities during the engagement._
 1. **Create CSE engagement request issue:** [Issue template](https://gitlab.com/gitlab-com/customer-success/customer-success-engineering/-/issues/new?issuable_template=cse-engagement-request)
 
-### Request Review and Approval
+#### Request Review and Approval
 
 **DRI: CSE Manager**
 
 Once a CSE engagement request is submitted, the CSE manager will review the request. They will respond with any clarifying questions, and determine CSE availability (Capacity planning).
+
+### Spot Engagements 
+
+**DRI: CSM**
+
+During regular CSM engagements with customers, specific technical requests or adoption impediments my come up that exceed the technical knowledge of the CSM and that require a more hands-on consulting approach than async Q&A can provide. When customers have difficulty solving specific business problems using GitLab, a technical deep dive with a CSE can unblock those customers and provide more "depth" to account teams.
+
+Examples include specific CI implementation and configuration issues; automation, API and custom integration support as well as individual best practice sessions on Secure and Compliance implementation. As a guideline, if the whole engagement can be covered by an internal sync call and a follow-up customer call, it can be treated as Spot Engagement.
+
+Those deep dives can be informally scheduled in CSE office hours. The CSM will present the question and provide context to the CSE. Based on the complexity of the question, the CSE will decide if a Spot Engagement with the customer is needed or a simple async answer will be appropriate. The CSE will then schedule an internal 1:1 sync to discuss the issue and approach in more detail. Following that, the CSE may set up a demo project or appropriate slides. The CSM will set up a meeting with the customer and the CSE to discuss the issue and provide the prepared solution.
+
+Afterwards, the CSM will track the meeting as timeline entry in Gainsight. The meeting name should have a "CSE: " prefix and the CSE should be part of the participants.
 
 ## Metrics & Key Performance Indicators
 1. Green Success Plans (% complete) with technical milestones & objectives in place, in collaboration with the CSM
