@@ -63,6 +63,22 @@ by going to `0.0.0.0:80` in your browser.
 1. Submit the issue. It will be reviewed by the vulnerability research team. They will follow up with any questions and then submit it to be assigned a CVE identifier.
 1. For each CVE request submission, link the relevant security issue to it. Once a CVE identifier is assigned, please also comment with that on the relevant issue and ensure that it gets included in the blog post.
 
+### CVE credit
+
+Most vulnerabilities are credited either to a HackerOne researcher or a team member. These reports are always credited using the existing CVE template. 
+
+When a vulnerability is reported directly as a GitLab issue or by a customer via ZenDesk, provide an opportunity to be publicly credited:
+
+```
+Hello `[contact]`,
+
+We are preparing to patch the issue you reported. Would you like to be publicly credited with discovering the issue, and if so, how?
+
+Some suggestions are `@social_media_handle`, `FirstName LastName`, `FirstName LastName from CustomerName`, or `the team at CustomerName`. We can also format the credit with a link.
+
+Our default credit will be `This vulnerability was reported by a customer` for customers and `This vulnerability was disclosed using our [Coordinated Disclosure Process](https://about.gitlab.com/security/disclosure/).` for other members of the wider GitLab community.
+```
+
 ## Updating CVEs
 
 To update a CVE after it has been published, open a merge request in [https://gitlab.com/gitlab-org/secure/vulnerability-research/advisories/cves-private] which modifies `published/CVE-YYYY-IDIDID.json`.
