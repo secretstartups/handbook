@@ -313,7 +313,6 @@ We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read
 ## Email Lists
 
 1. [Software Lead Weekly](http://softwareleadweekly.com/)
-1. [Threatpost Security Newsletter](https://threatpost.com/) (Subscribe at the bottom of the page)
 
 ## Training
 
