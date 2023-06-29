@@ -1980,10 +1980,10 @@ you want to embed:
 
 ### Google products
 
-For Google products, with your document opened, click **File** -> **Publish to the web**.
+For Google products, with your document opened, click **File** -> **Share** -> **Publish to web**.
 For example, here's what Google sheets will look like:
 
-![Google Sheets - File - Publish to the web](/images/markdown-guide/file-publish-to-the-web.png)
+![Google Sheets - File - Publish to the web](/images/markdown-guide/publish-to-the-web-updated.png)
 
 Choose **Embed**, check your settings, click on **Publish** and copy the `<iframe>`.
 Then go to your markdown file and wrap the iframe into a `<figure>` tag with the
