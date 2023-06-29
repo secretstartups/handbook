@@ -203,7 +203,7 @@ If Nudge is not behaving as expected please follow these steps to produce logs f
 
 ## Fish Shell has compatibility issues with Jamf
 
-If you use [Fish Shell](https://fishshell.com/), Jamf's inventory process will be broken. To remedy this, do not let Fish Shell modify ~/.bash_profile or ~/.bashrc. If they are modified, revert them back to their defaults. Use a workaround by having your Terminal program launch Fish. For more information, see this [note](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/2625#note_1436895220).
+If you use [Fish Shell](https://fishshell.com/), Jamf's inventory process may be broken. To remedy this, do not set the default shell to Fish and do not launch Fish in `~/.bash_profile` or `~/.profile` or any other files which can be loaded by login shell. Use a workaround by having your Terminal program launch Fish. Please [verify the Jamf connection](#how-do-i-verify-my-connection-to-jamf-or-re-initiate-a-connection-to-the-jamf-console) after you have finished configuring Fish.
 
 # Frequently Asked Questions
 
