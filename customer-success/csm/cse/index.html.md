@@ -34,6 +34,16 @@ The Customer Success Engineer (CSE) provides deep subject matter expertise on Gi
 ## Role & Responsibilities
 Engage with customers in a technical consultancy and advisor role during their GitLab Journey while providing technical and solution guidance. This is achieved by driving towards measurable value (business outcomes), leading to product adoption, renewal, and expansion opportunities. The team is focused on solution-based programs that are customized to fit an individual customer's needs. 
 
+## Developer Advocate
+The Customer Success Engineer is also involved in the area of "Developer Success" for GitLab Customers, a component of the Developer Relations area. 
+
+They are a Developer Advocate whose activities primarily involve the internal user communities of GitLab customers. Their role is to ensure the satisfaction and loyalty of customers who use GitLab. They work with clients to initiate, support, and advise them and drive further GitLab Use Case adoption.
+
+They will intervene as a Developer Advocate with existing customers at the request of the Customer Success Manager (CSM) or the sales team, after qualification of the need and according to their capacity.
+The CSE responsibilities:
+- Create technical content (articles, tutorials, demos, webinars, etc.) for existing customers to enhance GitLab
+- Contribute to customer events (conferences, meetups, hackathons, etc.) to strengthen GitLab's visibility and credibility with these clients' developer communities.
+
 ## GitLab Use Cases supported by CSEs
 
 - Technical Discovery in-line with a customer's desired business outcomes
