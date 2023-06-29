@@ -51,7 +51,14 @@ Please review this course on [Introducing the Customer Success Manager](https://
 
 The kickoff call is the first conversation between the CSM and the customer. This is when the CSM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](/handbook/customer-success/csm/success-plans/).
 
-The goal of the kickoff call is to align on desired business outcomes, key upcoming milestones, and create clarity on our partnership as CSMs. A [kickoff slide deck](https://docs.google.com/presentation/d/1fsIFLcecs6nQxR7g5MHDTT71tx3b1aW9b3d2RX6ZOLk/edit#slide=id.g20a53d489f_0_213) (internal only) is available as part of the [onboarding CTA](#cta-content-and-process). The CSM should review and revise this deck in advance of the kickoff call based on what they already know about the customer and what they are still looking to understand.
+The goal of the kickoff call is to align on desired business outcomes, key upcoming milestones, and create clarity on our partnership as CSMs. 
+
+CSMs select from the following templates for their kick off call, depending on the customer handover:
+
+1. If a strategy roadmap was completed with the SAs, use this [kickoff slide deck](https://docs.google.com/presentation/d/1LShY62EHCZLNjS0Z6MBzTsYF_GllNwH7Rbw3_PJQUOo/edit#slide=id.g129f8c95ce4_0_569) (internal only) Please [click here](https://youtu.be/iYfs5Le053Y) for a video overview of how to best utilize the deck. 
+2. If not, use this [kickoff slide deck](https://docs.google.com/presentation/d/1fsIFLcecs6nQxR7g5MHDTT71tx3b1aW9b3d2RX6ZOLk/edit#slide=id.g129f8c95ce4_0_569) (internal only), and is available as part of the [onboarding CTA](#cta-content-and-process).
+
+The CSM should review and revise this deck in advance of the kickoff call based on what they already know about the customer and what they are still looking to understand. 
 
 There are 4 primary questions you always want to have answered coming out of a kickoff call:
 1.` Why did you buy GitLab?` Ideally you've already answered this question in your handoff from pre-sales, so if that's the case, reframe the question to validate that you understand they purchased GitLab for X reason and confirm your understanding of what challenges the customer is looking to solve.
