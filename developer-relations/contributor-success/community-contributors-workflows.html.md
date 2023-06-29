@@ -80,7 +80,7 @@ Renewal of this license:
 * In the event of active contributions in the previous license cycle, this license can be renewed for a further year.
 * If there have been no active contributions in the previous license cycle, a 90 day renewal can be granted.
 
-Contributors will need to create an request in this project to request their license: [Wider Community Contributor License Request](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/new?issuable_template=contributor_ee_license_request).
+Contributors will need to create an request in this project to request their license: [Wider Community Contributor License Request](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/new?issuable_template=contributor_ee_license_request).
 
 (Internal link for GitLab team members) Upon evaluation of the contributor's request, a license request can be made using [this form](https://gitlab-com.gitlab.io/support/internal-requests-form/) (Make sure to follow the Zendesk Global Light Agent steps if you haven't already). The Support team will respond following [this workflow](/handbook/support/license-and-renewals/workflows/self-managed/creating-wider-community-license.html).
 
@@ -155,7 +155,7 @@ The Contributor Success team has been regularly thanking GitLab team members and
 * A weekly thanks message in the `#thanks` channel in discord - Thanking wider community members for having MRs merged, as well as participating in other's MRs that were merged.
 * A monthly thread on the forum, with the weekly posts from discord crossposted.
 
-These messages are generated with the help of a [script](https://gitlab.com/gitlab-org/community-relations/contributor-success/toolbox) that is being maintained and iterated on by the Contributor Success Team. The script runs on a Monday morning, and injects the messages into the `#contributor-success` channel in slack.
+These messages are generated with the help of a [script](https://gitlab.com/gitlab-org/developer-relations/contributor-success/toolbox) that is being maintained and iterated on by the Contributor Success Team. The script runs on a Monday morning, and injects the messages into the `#contributor-success` channel in slack.
 
 ### Weekly message posting
 
@@ -172,35 +172,35 @@ To post the messages:
 
 Tracking issues:
 
-* [Internal Weekly message](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/85)
-* [Wider Community message](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/186)
+* [Internal Weekly message](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/85)
+* [Wider Community message](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/186)
 
 ### Manual execution
 
 In the event you need to generate the message(s) manually, you will need to follow these prerequisite steps:
 
-1. Check out the latest `main` branch of the toolbox project: `git clone git@gitlab.com:gitlab-org/community-relations/contributor-success/toolbox.git`
+1. Check out the latest `main` branch of the toolbox project: `git clone git@gitlab.com:gitlab-org/developer-relations/contributor-success/toolbox.git`
 1. Change directory to the checked out project: `cd toolbox`
 1. Install the required gems: `bundle install`
 
 To generate the internal weekly message:
 
-1. Execute the script following the 'weekly' example [here](https://gitlab.com/gitlab-org/community-relations/contributor-success/toolbox/#community-mr-participants)
+1. Execute the script following the 'weekly' example [here](https://gitlab.com/gitlab-org/developer-relations/contributor-success/toolbox/#community-mr-participants)
 1. Paste the resulting message into `#thanks` in slack, taking care to note the keystrokes: `Paste this message into slack using Cmd-v, then apply formatting using Cmd-Shift-F`
 1. Double check the message that was pasted - making sure to edit `@` mentions where slack has 'helpfully' incorrectly linked the user.
 1. If exceptions were raised in the script for missing managers attempt to track down the acting manager or the next level up report and manually cc them in the message.
 1. Send the message and join in the celebrations!
-1. Record the PI numbers from the message in the [tracking issue](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/85) if necessary.
+1. Record the PI numbers from the message in the [tracking issue](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/85) if necessary.
 1. Update the assignee of the tracking issue and due date.
 
 To generate the external community message:
 
-1. Execute the script following the 'wider' example [here](https://gitlab.com/gitlab-org/community-relations/contributor-success/toolbox/#community-mr-participants)
+1. Execute the script following the 'wider' example [here](https://gitlab.com/gitlab-org/developer-relations/contributor-success/toolbox/#community-mr-participants)
 1. Make sure to check the duration for which you want to run the report.
 1. Paste the resulting message into `#thanks` in discord.
 1. Double check the message that was pasted - to ensure the users/names all look 'right'.
 1. Send the message and join in the celebrations!
-1. Record the PI numbers from the message in the [tracking issue](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/186) if necessary.
+1. Record the PI numbers from the message in the [tracking issue](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/186) if necessary.
 1. Update the assignee of the tracking issue and due date.
 
 ## Organizing and promoting events
@@ -232,9 +232,9 @@ To generate the external community message:
 
 There will be a quarterly [Hackathon](/community/hackathon/) for GitLab community members to come together to work on merge requests, participate in tutorial sessions, and support each other on the [GitLab Discord](https://discord.gg/gitlab).  Agenda, logistics, materials, recordings, and other information for Hackathons will be available on the [GitLab Community Hackathon](/community/hackathon/) page.
 
-The event planning will be done following the [Hackathon issue template](https://gitlab.com/gitlab-org/community-relations/gitlab-hackathon/-/issues/new?issuable_template=hackathon%20event%20plan) in the [GitLab Hackathon project](https://gitlab.com/gitlab-org/community-relations/gitlab-hackathon).
+The event planning will be done following the [Hackathon issue template](https://gitlab.com/gitlab-org/developer-relations/gitlab-hackathon/-/issues/new?issuable_template=hackathon%20event%20plan) in the [GitLab Hackathon project](https://gitlab.com/gitlab-org/developer-relations/gitlab-hackathon).
 
-GitLab teams are encouraged to use the following [Hackathon issue template](https://gitlab.com/gitlab-org/community-relations/gitlab-hackathon/-/issues/new?issuable_template=hackathon%20team%20plan) to plan and prepare.
+GitLab teams are encouraged to use the following [Hackathon issue template](https://gitlab.com/gitlab-org/developer-relations/gitlab-hackathon/-/issues/new?issuable_template=hackathon%20team%20plan) to plan and prepare.
 
 ### Virtual hackathons/hackathon-in-a-box
 

@@ -137,7 +137,7 @@ Once individuals have ordered swag, Boundless updates the spreadsheet to let us 
 
 ### Is there a documented process how to request new codes?
 
-Create an issue within the [Developer Relations - Community Building](https://gitlab.com/gitlab-com/marketing/community-relations/community-building/-/issues) project and assign to @sugaroverflow (Fatima), and ping `@gitlab-org/community-relations/contributor-success`
+Create an issue within the [Developer Relations - Community Building](https://gitlab.com/gitlab-com/marketing/community-relations/community-building/-/issues) project and assign to @sugaroverflow (Fatima), and ping `@gitlab-org/developer-relations/contributor-success`
 
 ### I don't understand why we should plan ahead.
 
