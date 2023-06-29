@@ -414,9 +414,12 @@ _Note, Partner Sourced Deal Registration incentives do not apply to alliance par
 - **GitLab SLAs**
   - The SLA for GitLab to communicate with partners on a Partner Sourced Deal Registration is two business days. There must be contact with the registering partner within two business days, whether it be initial outreach to discuss the registration, a request for more information, approval, or rejection.
   - The GitLab ASM has one business day to either approve or reject the Registration, which begins when the Registration hits their queue for approval. The ASM _must_ communicate with the GitLab Partner Manager if their approval is anticipated to push beyond the one business day SLA.
-- **Assigning a Delegated Approver**
-  - GitLab Partner Managers and ASMs _always_ need to assign a delegated approver in SFDC prior to being out of office. This ensures approval requests are received and can be actioned in your absence, and is crucial to hitting our SLAs (see **GitLab SLAs** above).
-  - Refer to the step-by-step process to [assign a delegated approver](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#reassign-quote-approvals) for details. Note, the delegated approver will be assigned to any/all of your approval processes in SFDC (e.g., registrations, quotes, etc).
+- **Identify and Notify Backup Approvers**
+  - GitLab Partner Managers and ASMs should _always_ identify a backup approver prior to being out of office. This ensures approval requests can be actioned in your absence, and is crucial to meeting our SLAs (see **GitLab SLAs** above). 
+  - Partner Managers 
+    - Communicate that you will be out of office to your backup approver. The backup approver should monitor the `Pending Deal Reg's by PM` component of their [Partner Forecast Dashboard](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-forecast-salesforce-dashboards) to identify and action Deal Registrations in Pending Sales Review for the Partner Manager they are covering.
+    - If you find an ASM is out of office while communicating with the Sales Rep and ASM during your approval process (see **Approval Criteria** above), align with their backup approver. If you approve the Deal Registration, chatter the backup approver to request their final approval on the record, as aligned to your discussion.
+  - ASMs - Communicate that you will be out of office to your backup approver. Partner Managers will raise Deal Registrations for their review in your absence. Ensure your backup approver is prepared to action these requests while you are out.
 - **Standard Term and Extension**
   - Approved deal registrations have a standard 90-day expiration from the date of original approval. 
   - Deal Registration extensions beyond the initial 90-day approval are at the sole discretion of GitLab. To grant a standard 30-day extension, GitLab Partner and/or Field Sales can click the `Extend DR 30 Days` button on the Registration. For non-standard extensions beyond 30 days, please chatter `@Partner Operations` on the registration record and provide the new date that the registration should expire.
