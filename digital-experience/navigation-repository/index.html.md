@@ -37,14 +37,16 @@ We avoid deploying minor or major releases of the navigation on release post day
 
 ### Detailed instructions
 
-1. Create a new issue titled `Navigation release: Version x.x.xx` and include links to the MRs and Issues included in this release. This navigation issue should be added to the quarterly navigation release epic (ex. [FY23Q3 epic](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/155))
+1. Create a new issue titled `Navigation release: Version x.x.xx` and include links to the MRs and Issues included in this release. This navigation issue should be added to the quarterly navigation release epic (ex. [FY23Q3 epic](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/155)). If this has been assigned to you already, you can skip this step. 
 1. Create a new branch from `main`, with all changes
 1. Increment the version number in `package.json`
 1. Build /dist folder - ```npm run build-library``` (optionally use `yarn link` [for a detailed local review](#detailed-local-review-before-a-nav-release-with-yarn-link))
 1. Publish to npm - ```npm publish``` (Note: You may need to login with your npm credentials using ```npm login```)
 1. Merge changes to `origin/main`
-1. Once the package has been published it's now ready to be [updated in the consuming repositories](#using-navigation-in-other-repositories). Include links to those MRs in your Navigation Release Issue 
+1. Once the package has been published it's now ready to be [updated in the consuming repositories](#using-navigation-in-other-repositories). This should include the `Buyer Experience` and `www` repositories. Open an MR in those repos using the `navigation-change` description template. Include links to those MRs in your Navigation Release Issue assigned to you. 
 1. Close the Navigation Release Issue
+
+If you see "Please Choose a version of be-navigation from this list:", this means that there is an issue with the npm package version you specified. You should double check that your package was published and that the `package.json` contains the correct `be-navigation` version
 
 ## Using Navigation in Other Repositories
 
