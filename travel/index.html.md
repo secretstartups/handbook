@@ -166,7 +166,11 @@ Check with your health plan to see if you are eligible for reimbursement for the
 If you decide to stay with friends or family instead of a hotel / Airbnb for a business trip, the company will pay you 50% of what would have been
 the cost of a reasonable hotel. A reasonable hotel would be the negotiated hotel rate a conference provides. This is in keeping with our values of frugality and freedom, and intended to reward you for saving company money on accommodation expenses. Contractors should take a screenshot of a hotel search from the same location in TripActions and submit this along with your expense report or invoice. Team Members Employed through a GitLab Entity should submit the screenshot for approval via [Navan Expense](https://about.gitlab.com/handbook/finance/expenses/#-introduction).
 
+## Travel Safety and Security Policy
 
+Team member safety and security are a top priority for GitLab. If a team member feels uncomfortable or unsafe traveling to a location on GitLab's behalf due to concerns about the location, region, personal health, or other safety or security risks, please contact [People Connect](https://gitlab.slack.com/archives/C02360SQQFR) via Slack or email. The People Connect team will assist by helping to connect the team member with the right resources.
+
+** Please note that team member travel is not required unless deemed essential to the role. Please speak to your manager about whether the travel is mandatory and required for your role.
 
 ## Travel Insurance
 
