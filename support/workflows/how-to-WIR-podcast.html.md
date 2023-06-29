@@ -25,11 +25,12 @@ Much of this is done in the [Support Week in Review Project](https://gitlab.com/
 1. Determine who will be responsible for each of the following roles. One person can be responsible for them all.
    - Editor:
       - Before the Recording
+         - Create a new pipeline in the SWIR project.
          - Prepare the SSAT input
             - parse the SSAT issue in the [SWIR project](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/issues).  If there is no content, run `populate_ssat` pipeline - this will gather any open positive SSAT into the SSAT issue
             - review the content (automated or other) and make corrections and remove anything that is not actually positive. If there is a lot of content, consider reducing the number down by removing some that are short and not personalised - use your judgement here.
          - prepare the digest issue
-            - run the `create_digest_issue` pipeline
+            - run the `create_digest_issue` job.
             - edit the digest issue and add a phrase of the week
             - ask the `Metrics Analyst` to edit and add the metrics data (see below)
       - After the recording
