@@ -42,9 +42,9 @@ Also take into account the situational need: a simple solution in one situation 
 Taking every opportunity to reduce complexity in an organization increases the speed and frequency at which that organization can innnovate. Embracing boring solutions and shipping the [minimum viable change (MVC)](/handbook/values/#move-fast-by-shipping-the-minimal-viable-change) also means [accepting mistakes](/handbook/values/#accept-mistakes) if that solution doesn't work, then moving on to the next [iteration](/handbook/values/#iteration). Because changes are small, mistakes are far less costly. This encourages more decision-making in a shorter span of time.
 
 {{% details summary="Example of boring solutions" %}}
-**Example 1:** [Solving a GitLab attribution problem by improving git commit message](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/3)
+**Example 1:** [Solving a GitLab attribution problem by improving git commit message](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/3)
 
-Nick V., a director at GitLab, [proposed a boring solution](https://gitlab.com/gitlab-org/community-relations/contributor-success/team-task/-/issues/3) to use existing functionality in new ways. By modifying a few lines in an automated message, he was able to solve an organization-wide problem with attribution.
+Nick V., a director at GitLab, [proposed a boring solution](https://gitlab.com/gitlab-org/developer-relations/contributor-success/team-task/-/issues/3) to use existing functionality in new ways. By modifying a few lines in an automated message, he was able to solve an organization-wide problem with attribution.
 
 In a TeamOps organization, boring solutions are celebrated _because of_ their simplicity. There is always a possibility to add more polish or functionality, if it's needed in the future. The initial boring solution enables more decisions to be made, more quickly.
 {{% /details %}}
