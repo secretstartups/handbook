@@ -155,6 +155,15 @@ When speaking at an event, on a webinar or at a Meetup, if you are open to being
 
 For ways to amplify your speaking opportunity, check out the “[How to make your content work harder for you](/handbook/marketing/corporate-communications/resources-trainings/#how-to-make-your-content-work-harder-for-you)” presentation.
 
+**Pursuing Speaking Opportunities Separate from GitLab**
+
+We know GitLab team members are multi-faceted and there may be opportunities to speak publicly that don’t overlap with your role at GitLab. In these cases, it is okay to do that assuming the opportunity will not be in conflict with GitLab’s [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
+
+In these instances, it’s necessary to keep your role at GitLab and affiliation with the company separate from the presentation. Additionally, you should not use GitLab branding, resources, or time allocated to your work at GitLab to prepare or deliver your presentation. Please add “these views are my own” to your comments, presentation, or social media. 
+
+If you’re considering a speaking opportunity that could be perceived as being associated with GitLab even if it is not, please share the opportunity with your manager and #external-comms for review before accepting it to avoid any potential conflicts.  
+
+
 **Event Booth Staffing**
 
 If you are staffing the GitLab booth at an in-person or virtual event, you are representing GitLab. Please follow the company’s [SAFE framework](/handbook/legal/safe-framework/) when engaging with booth visitors and event attendees.
