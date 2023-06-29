@@ -21,6 +21,16 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 </div>
 </div>
 
+<div class="panel panel-gitlab-purple">
+**Not a GitLab team member but want to provide feedback on our StORM program?**
+{: .panel-heading}
+<div class="panel-body">
+
+We receive [feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#feedback-at-gitlab) from GitLab team members regularly and we wanted to provide a mechanism for non-GitLab team members to provide feedback as well to help us [iterate](https://handbook.gitlab.com/handbook/values/#iteration) and align more closely with [our values](https://handbook.gitlab.com/handbook/values). If you are not a GitLab team member and would like to provide feedback on our Security Operational Risk Management (StORM) program or methodology, plese use this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfmD4G6CTdpbCe5Aymoz0oD6Z3Oi1X-2xxYzGNbJ2wcYh6uOA/viewform?usp=sf_link) to submit anonymous feedback.
+
+</div>
+</div>
+
 ## Purpose
 
 The purpose of the Security Operational Risk Management (“StORM”) program at GitLab is to identify, monitor, treat and report upon security operational risks in support of GitLab's [strategy](https://about.gitlab.com/company/strategy/). The Security Risk Team utilizes the procedures below to ensure that security risks that may impact GitLab's ability to achieve its customer commitments and operational objectives are effectively managed. 
@@ -48,7 +58,7 @@ A risk governance structure has been put in place to outline the overall roles a
 
 ## StORM Procedures
 
-### Annual Risk Assessment Procedures
+### Risk Assessment Procedures
 
 #### Step 1: Risk Appetite and Tolerance
 
@@ -72,7 +82,7 @@ For each risk identified above, a formal risk response decision is made to deter
 
 #### Step 5: StORM Detailed Report
 
-Once the annual security operational risk assessment is completed, a detailed report is prepared to provide an overview of the Security Risk landscape and risk-specific information, including the incorporation of information gathered as part of our risk assessment.
+Once the security operational risk assessment is completed, a detailed report is prepared to provide an overview of the Security Risk landscape and risk-specific information, including the incorporation of information gathered as part of our risk assessment. The template we've used can be found [here](https://docs.google.com/presentation/d/1uwz8sKnf9sWY9Of_GKPtIU2dDa3i6k6xekZENPW41NY/edit?usp=sharing) for reference.
 
 ### Ad-hoc Risk Identification and Assessment
 There may be times that risks are identified outside of the annual StORM process - such as risks that arise from a security incident, risk identified through regular day-to-day business operations, etc. All security operational risks identified ad-hoc are discussed with the Security Risk Team, an inherent risk score is assigned, and a qualitative analysis done to determine if it should be escalated to the risk register. 
