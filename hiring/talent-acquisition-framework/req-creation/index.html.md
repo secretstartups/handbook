@@ -320,6 +320,8 @@ There are set location options in Greenhouse to make this possible. Recruiters c
 | Remote, France | France |
 | Remote, Japan | Japan |
 | Remote, Germany | Germany |
+| Remote, Netherlands | Netherlands |
+| Remote, Sweden | Sweden |
 | Remote, United Kingdom | United Kingdom |
 | Remote, Australia | Australia |
 | Remote, Europe-North/Central | Austria, Finland, Hungary, Latvia |
