@@ -100,8 +100,9 @@ The survey factors for FY24 were as follows with each section including three to
 - 2023-06-16: Results shared with e-group
 - 2023-06-21: Results shared with VPs
 - 2023-06-22: Managers with 5+ responses receive reports via Culture Amp
+- 2023-06-22: Initial results at the Q2 Assembly
 - 2023-06-22 through 2023-07-04: Leaders/Managers review their reports and discuss/brainstorm action plans in Staff/team meetings
-- 2023-06-28 and 2023-06-29: Target date for results shared company-wide
+- 2023-07-17: Target date for full results shared company-wide
 - 2023-07-30: Finalize Action items and document in epics/issues
 - 2023-08-01: Division action plans added to FY'24 Q3 OKRs and Division epics
 - 2023-08-31: Department action plans (if applicable) complete
