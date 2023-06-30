@@ -313,4 +313,6 @@ My customer did not receive the purchase confirmation email with license/activat
 
 The partner that received the Gitlab invoice (i.e., Distributor for two-tier deal, Reseller for one-tier deal) needs to [submit the support ticket](https://support.gitlab.com/hc/en-us/requests/new) with the GitLab invoice attached to request the purchase confirmation email be sent to a new end user contact.
 
+**Important to note**, the GitLab Sales Rep cannot change the end user contact post-sale on behalf of the partner or customer. The request to change the end user contact must either be submitted by the (i) partner that received the GitLab invoice as outlined above or (ii) customer contact listed on the final GitLab quote (i.e., the person that received the license).
+
 </details>
