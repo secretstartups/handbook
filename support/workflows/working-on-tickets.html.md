@@ -29,7 +29,6 @@ The views within Zendesk are arranged as follows:
 | Name | Purpose |
 |------|---------|
 | [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) | Use this view to manage all of your assigned tickets that are not yet in a `Closed` state. |
-| [Needs Org](https://gitlab.zendesk.com/agent/filters/360076150200) | This view shows all new tickets that will not get assigned to an SGG group and that do not have an organization associated with them. |
 | SGG: [group name] | You'll see an alphabetical list of group views here. Each view shows all the non-solved, non-pending tickets for its group. |
 
 ## Selecting tickets
