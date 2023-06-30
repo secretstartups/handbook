@@ -345,6 +345,7 @@ For more information on how the entire process works for security releases, see 
   - Maintainer reviews take place with any back and forth as necessary and attempts to resolve any open threads.
   - The last maintainer to approve the MR, follows the [Merging a merge request](https://docs.gitlab.com/ee/development/code_review.html#merging-a-merge-request) guidelines.
   - (Optionally) Change the workflow label of the issue to `workflow::verification`, to indicate all the development work for the issue has been done and it is waiting to be deployed and verified. We will use this label in cases where the work was requested to be verified by product OR we determined we need to perform this verification in production.
+  - When the change has been verified, change the workflow label to `workflow::complete` and close the issue.
 1. You are responsible for the issues assigned to you. This means it has to ship with the milestone it's associated with. If you are not able to do this, you have to communicate it early to your manager and other stakeholders (e.g. the product manager, other engineers working on dependent issues). In teams, the team is responsible for this (see [Working in Teams](#working-in-teams)). If you are uncertain, err on the side of overcommunication. It's always better to communicate doubts than to wait.
 1. You (and your team, if applicable) are responsible for:
   - Ensuring that your changes [apply cleanly to GitLab Enterprise Edition][ce-ee-docs].
@@ -358,6 +359,19 @@ Be sure to read general guidelines about [issues](https://docs.gitlab.com/ee/dev
 [priority-issues]: https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=%23started&assignee_id=None&sort=priority
 [ce-ee-docs]: https://docs.gitlab.com/ee/development/ee_features.html
 [gitlab-workflow]: /handbook/communication/#gitlab-workflow
+
+## Updating Workflow Labels Throughout Development
+
+Team members use labels to track issues throughout development. This gives visibility to other developers, product managers, and designers, so that they can adjust their plans during a monthly iteration. An issue should follow these stages:
+
+- `workflow::in dev`: A developer indicates they are developing an issue by applying the `in dev` label.
+- `workflow::in review`: A developer indicates the issue is in code review and UX review by replacing the `in dev` label with the `in review` label.
+- `workflow::verification`: A developer indicates that all the development work for the issue has been done and is waiting to be deployed, then verified.
+- `workflow::complete`: A developer indicates the issue has been verified and everything is working by adding the `workflow::complete` label and closing the issue.
+
+Workflow labels are described in our [Development Documentation][development-docs-labels] and [Product Development Flow](/handbook/product-development-flow/).
+
+[development-docs-labels]: https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/labels/index.md#workflow-labels
 
 ## Working in Teams
 
@@ -413,12 +427,6 @@ This should be to be part of your daily routine. For instance, every morning you
 Make sure to follow our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 
 [developers' responsibilities]: /job-families/engineering/backend-engineer/#responsibilities
-
-## Workflow Labels
-
-Labels are described in our [Contribution guide][contrib-labels-guide] and [Product Development Flow](/handbook/product-development-flow/).
-
-[contrib-labels-guide]: https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md
 
 ## Working with GitLab.com
 
@@ -511,15 +519,6 @@ Refer to [release post content reviews](/handbook/marketing/blog/release-posts/#
 
 Note that deployments to GitLab.com are more frequent than monthly major/minor releases on the 22nd.
 See [auto deploy transition](https://gitlab.com/gitlab-org/release/docs/blob/21cbd409dd5f157fe252f254f3e897f01908abe2/general/deploy/auto-deploy-transition.md#transition) guidance for details.
-
-## Updating Issues Throughout Development
-
-Team members use labels to track issues throughout development. This gives visibility to other developers, product managers, and designers, so that they can adjust their plans during a monthly iteration. An issue should follow these stages:
-
-- `workflow::in dev`: A developer indicates they are developing an issue by applying the `in dev` label.
-- `workflow::in review`: A developer indicates the issue is in code review and UX review by removing the `in dev` label, and applying the `in review` label.
-- `workflow::verification`: A developer indicates that all the development work for the issue has been done and is waiting to be deployed and verified.
-- `workflow::complete`: A developer indicates the issue has been verified and everything is working by adding the `workflow::complete` label and closing the issue.
 
 ## Kickoff
 
