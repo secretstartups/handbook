@@ -145,27 +145,6 @@ Last 7 calendar days and first 7** calendar days of each quarter
 *Significant Enterprise Applications are: Coupa, NetSuite, Salesforce, Zuora
 
 **Finance impacted systems.
-
-### Business Technology Change Request Workflow
-
-Business Technology change requests are important because they help us track and manage the risk of making wide-reaching configuration and setting changes. All requests for Application, Process, and/or Policy changes are initiated by the requestor submitting a [Business Technology Change Request](https://gitlab.com/gitlab-com/business-ops/change-management/issues/new?issuable_template=Business%20Technology%20Change%20Management) issue.
-
-To make a global configuration or settings change to a [third-party application or service](/handbook/business-technology/tech-stack-applications/):
-
-- [Create an issue in the Change Management project](https://gitlab.com/gitlab-com/business-ops/change-management/-/issues)
-- Dependent on the Change Type:
-    - [Standard Change](https://gitlab.com/gitlab-com/business-ops/change-management/-/issues/new?issuable_template=Standard_Change): Will require Peer Review and Team Member Enablement Manager review and approval.
-    - [Comprehensive change](https://gitlab.com/gitlab-com/business-ops/change-management/-/issues/new?issuable_template=Comprehensive_Change): Will require Peer Review, Team Member Enablement Manager review, and A Change Advisory Board review and approval.
-    - [Emergency Change](https://gitlab.com/gitlab-com/business-ops/change-management/-/issues/new?issuable_template=Emergency_Change): Change can be completed prior to review and approval from the Change Advisory Board (CAB). Once the change has been implemented, the CAB will review during the next weekly CAB review.
-        - A Change Advisory Board, consisting of:
-            - Sr Director of Enterprise Applications
-            - Sr Director of Data and Analytics
-            - Team Member Enablement Manager
-            - Head of IT
-            - Legal (as needed)
-        - IT will review the change request and engage Legal as needed. Additional participants will be included during weekly CAB reviews to include team members requesting change(s) and their managers. 
-- In the event a change request is not approved, IT will work with the individual submitting the change request to address any blockers/concerns.
-
 ### Rollout of Mass Deployments
 
 Where possible, mass deployments such as macOS operating system upgrades (i.e. Monterey to Ventura) or net new software rollouts will be done by Department. Smaller changes such as security patches or minor updates of existing software are not subject to the same schedule and can be deployed globally after Phase 1 testing is complete.  The order of mass deployments will be as follows:
