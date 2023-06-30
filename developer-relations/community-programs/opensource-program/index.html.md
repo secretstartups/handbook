@@ -61,7 +61,7 @@ Benefits of the GitLab for Open Source Program apply to a namespace. To qualify,
 
 * **Private Project Exceptions:** In some cases, we allow program members to host a small number of private projects if those projects contain sensitive data. Members should send an email to `opensource@gitlab.com` in order to discuss this exemption. Program members must obtain written permission from the GitLab Open Source Program team in order to use their licenses outside of program requirements.
 * **Federal Exception Policy:** Unfortunately, we are not able to accept all open source projects that are affiliated with the US Federal government. Projects that are affiliated must work with a Sales representative to see if they qualify.
-* **Strategic Qualification Exceptions:** We may make strategic exceptions to our program requirements. A GitLab Sales team member must make this request on behalf of an open source project. To request an execption, file an issue in the [GitLab for Open Source Program project](https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/gitlab-for-open-source). Please select the `program-qualification-exception-request` template. when filing the issue. Account Executives and their managers must approve the exception request. Customer Success Managers (CSMs) associated with the account should also be notified of the exception request.
+* **Strategic Qualification Exceptions:** We may make strategic exceptions to our program requirements. A GitLab Sales team member must make this request on behalf of an open source project. To request an execption, [create an issue in the GitLab for Open Source Program project](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/gitlab-for-open-source/-/issues/new?issuable_template=program-qualification-exception-request) using the `program-qualification-exception-request` template. Account Executives and their managers must approve the exception request. Customer Success Managers (CSMs) associated with the account should also be notified of the exception request.
 
 ### What are the terms of the GitLab for Open Source Program?
 
@@ -77,11 +77,11 @@ As part of the application process, applicants must provide screenshots to confi
 * The project's license contents
 * The project's public visibility settings
 
-For more specific instructions on obtaining and submitting required screenshots, [see GitLab Docs](https://docs.gitlab.com/ee/subscriptions/#gitlab-for-open-source).
+For more specific instructions on obtaining and submitting required screenshots, [see GitLab Docs](https://docs.gitlab.com/ee/subscriptions/community_programs.html#gitlab-for-open-source).
 
 ### How are GitLab for Open Source Program applications processed?
 
-Gitlab uses SheerID, a trusted partner, to verify that applicants meet the GitLab for Open Source Program requirements. In most cases, applicants receive a decision on their application within three to five business days of submission. During periods of high submission volume, processing an application requires up to ten business days. When verified, applicants receive a verification email containing specific instructions for obtaining their license.
+Gitlab uses SheerID, a trusted partner, to verify that applicants meet the GitLab for Open Source Program requirements. In most cases, applicants receive a decision on their application within three to five business days of submission. During periods of high submission volume, processing an application requires up to ten business days. When verified, applicants receive a verification email containing specific instructions for activating their subscription.
 
 The GitLab for Open Source team processes applications according to the [Community Programs application workflow](/handbook/marketing/developer-relations/community-programs/automated-community-programs/).
 
@@ -102,7 +102,7 @@ To request a renewal, program members should complete the [program application](
 The person claiming the renewal for the subscription must be the same person who created the subscription for this open source project or organization in the GitLab Customer Portal. If a different person wishes to initiate the renewal, the existing owner needs to [transfer ownership of the Customers Portal account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-account-owner-information). If the existing owner is no longer able to transfer ownership or renew, the project should [open a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293) to change the owner of the subscription before initiating renewal.
 {: .alert .alert-danger}
 
-After completing application form, verified applicants receive a verification email with instructions to obtain their subscription licenses.
+After completing application form, verified applicants receive a verification email with instructions for activating subscription.
 
 ### How else can GitLab assist open source projects?
 
@@ -122,9 +122,13 @@ While GitLab for Open Source Program benefits do not include product [support](/
 
 ## Program management resources
 
-### Application page location
+### Updating the program application page
 
 When seeking to edit the GitLab for Open Source application page, find the appropriate file at `data/solution_children/join.yml`.
+
+### Managing the program support queue
+
+Members of the [Developer Relations team](/handbook/marketing/developer-relations/) use GitLab Service Desk to manage program members' support requests. Because these requests often contain sensitive data and personally identifying information, we file them as issues in [a private project](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/open-source-program-support). When a new request arrives, Service Desk will label the issue as `OS Program Support::Intake`. When the ticket is under active review and remediation with a team member, that team member should assign it to themselves and add the `OS Program Support::Open` label. When a support issue is pending program member review and/or additional details, it should receive the `OS Program Supprt::Pending` label. And when a a support issue has been resolved, it should receive the `OS Program Support::Closed` label. View the current status of all open program support issues on [a private project board](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/open-source-program-support/-/boards/5749258).
 
 # GitLab Open Source Partners
 
