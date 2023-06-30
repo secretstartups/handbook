@@ -36,6 +36,8 @@ Account Manager, [Expand AE] (in copy).
 → Once you receive your ‘Thanks for Purchasing’ email from GitLab, please link the
 subscription to the namespace using the steps listed [*here*](https://docs.google.com/document/d/e/2PACX-1vRJ7bvONCdfuvfl26ZFDleiDTZv5LwSzB4sloOu9wCEM3lVK-zSZiCqQJPX3IPI4i_KHJ7E4JbZacfF/pub). A video tutorial can also be found [*here*](https://www.youtube.com/watch?v=qAq8pyFP-a0).  You can also add your payment info to your account [*here*](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-your-payment-method).
 
+→ As a part of your purchase a named set of contacts have access to Priority Support. To get your support contacts set up, please submit a ticket using the instructions in the [Managing Support Contacts](https://about.gitlab.com/support/managing-support-contacts/) section of our Statement of Support. All team members are required to be pre-listed in order to engage with GitLab Support.
+
 → *Setup a time to meet* <https://calendly.com/XXXXX> with
 [Expand AE] to ensure you have everything you need to set up your GitLab and onboard successfully
 
@@ -54,6 +56,8 @@ Account Manager, [Expand AE] (in copy).
 
 *ACTION NEEDED*
 → Once you receive your ‘Thanks for Purchasing’ email from GitLab, please be sure to apply your license keys???
+
+→ As a part of your purchase a named set of contacts have access to Priority Support. To get your support contacts set up, please submit a ticket using the instructions in the [Managing Support Contacts](https://about.gitlab.com/support/managing-support-contacts/) section of our Statement of Support. All team members are required to be pre-listed in order to engage with GitLab Support.
 
 → *Setup a time to meet* <https://calendly.com/XXXXX> with
 [Expand AE] to ensure you have everything you need to set up your GitLab and onboard successfully
@@ -111,7 +115,7 @@ In the meantime, here are some helpful resources that you might want to bookmark
     - [Renew your subscription](https://docs.google.com/document/d/1GvKxTGQo9e4h0AOcuBRhIRH5tI4vBCn0kK1ITCe39yY/edit)
     - [Change personal or account details](https://docs.gitlab.com/ee/subscriptions/index.html#change-your-personal-details)
     - [Update your payment method](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-your-payment-method) 
-    - [Raise a support ticket](https://www.google.com/url?q=https://support.gitlab.com/hc/en-us/requests/new&sa=D&source=docs&ust=1668619970099729&usg=AOvVaw0tLRKHMifwIeECBUyDypYS)
+    - [Raise a support ticket](https://support.gitlab.com/) (Before raising a support ticket, please [set up your named support contacts](https://about.gitlab.com/support/managing-support-contacts/))
     - Technical webinar calendar
 
 We look forward to hearing from you!
