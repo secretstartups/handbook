@@ -80,7 +80,13 @@ The Director of Product and Director of Infrastructure for Platforms conduct wee
 
 ### Projects
 
-We endevour to keep issues and epics up to date with the latest status of our work. Every Wednesday, the DRI for a project is expected to update the status block in the epic description. This enables other engineers and other managers to have good information about projects in an asynchronous fashion. 
+We endeavor to keep issues and epics up to date with the latest status of our work. Every Wednesday, the DRI for a project is expected to update the status block in the epic description to: 
+1. Indicate any project blockers.
+2. Briefly highlight progress since the last update.
+3. Indicate planned next steps, or mitigations required to progress.
+This enables other engineers and other managers to have good information about projects in an asynchronous fashion. 
+
+Completed epics should remain "Open" with the ~"workflow-infra::In Progress" label. Update the status block in the epic description to summarize the project and share the completed status. Completed epics will be reviewed, celebrated, and updated to closed in the next `Platforms Grand Review`.  
 
 ### Tools
 
