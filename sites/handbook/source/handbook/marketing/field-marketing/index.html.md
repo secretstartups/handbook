@@ -817,8 +817,6 @@ To find out what upcoming events GitLab will be involved in please visit our [Ev
 
 For details on how we handle events please visit the [GitLab Event Information](/handbook/marketing/events/) page.
 
-## [Marketing SSOT calendar](/handbook/marketing/#marketing-calendar) 
-
 ## [AMER Field Marketing Event Tracker for Sales](https://docs.google.com/spreadsheets/d/1-McecmJ7MVgdmVrjzBdrxrx6CfJ6U0dqnMILBNl67j0/edit#gid=0)
 
 It is the responsibility of each field marketing manager to ensure that this tracker is up to date with all AMER Field Marketing initiatives. Sales should consider this spreadsheet live and current daily.
@@ -875,16 +873,17 @@ This deck should also be used to present the regional plans to the sales teams.
 ## Next Steps after Quarterly  plans are complete
 In an effort to share the FMM team plans with the rest of the marketing team, the below steps will be followed.
 
-### Marketing Calendar
-Within two days of the FMM plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the Director of Field Marketing will download the team's plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar).
+### [Marketing SSOT calendar](/handbook/marketing/#marketing-calendar) 
 
-If any dates change after the upload has happened the FMC will make the date update within the [marketing calendar](/handbook/marketing/#marketing-calendar).
+Within two days of the FMM plan being [locked by Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/#important-dates) in Allocadia, the WW Field & Channel Marketing Director will download the team's plans from Allocadia and will upload to the shared [marketing calendar](/handbook/marketing/#marketing-calendar).
 
 In order to ensure the formulas carry over properly, the download from Allocadia will need to be cleaned, similiar to how we clean our leads for list upload. 
 
 The [Calendar cleaner spreadsheet](https://docs.google.com/spreadsheets/d/19XsjDlnAJ_lmWysIcD1XSL1JT3R0awDUd_7MRCGgMgs/edit#gid=777223734&range=A1) should be used to do this. Once the data is cleaned, it then can be copied into the [marketing calendar](/handbook/marketing/#marketing-calendar). 
 
-[Video walk through on how to clean.](https://youtu.be/xiABH1Gjkw4) *on GitLab Unfiltered.  
+[Video walk through on how to clean.](https://youtu.be/xiABH1Gjkw4) *on GitLab Unfiltered. 
+
+After the initial pull, the FMMs are responsible for adding any new tactics for the quarter. The FMCs will handle adjusting the existing tactics in the SSoT calendar based on the event [rescheduling or cancellation guidelines](https://about.gitlab.com/handbook/marketing/field-marketing/#rescheduling-or-cancelling-events).
 
 ### Channel plans 
 All plans with the various channel partners can be found within the [marketing calendar](/handbook/marketing/#marketing-calendar). 
