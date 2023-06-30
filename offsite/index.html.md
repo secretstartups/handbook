@@ -257,11 +257,16 @@ If you are the person who owns a topic, you are responsible for:
 
 ### Team norms
 
-We agreed to E-Group team norms at our 2022-01 offsite. In our discussions, we'll consider the following:
+In our discussions, we'll consider the following:
 
 1. Is this topic worth debating?
 1. What should we do to evaluate the priority of this idea?
 1. The why behind the what. How will we communicate the rationale behind change/priority/direction via multi-modal communication and repetition?
+
+We agreed that we'd use some chosen words to signal that we should pause and reorient. Specifically:
+
+1. Delegate: something is being discussed that should be solved below the E-Group level
+1. Telephone: this conversation is not happening directly with folks who should be involved and should be revisited with the appropriate people
 
 ### Break guidelines 
 
