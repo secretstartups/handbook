@@ -16,7 +16,7 @@ title: GitLab Event Information
 
 There are 3 groups within marketing who handle external events. Each group has a specific purpose. Please review each page for specific details.
 
-- [Developer Relations](/handbook/marketing/developer-relations/evangelist-program/)
+- [Developer Relations](/handbook/marketing/developer-relations/events/)
 - [Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/)
 - [Field Marketing](/handbook/marketing/field-marketing/)
 
