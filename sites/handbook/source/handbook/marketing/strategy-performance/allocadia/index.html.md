@@ -285,8 +285,8 @@ Allocadia comes with a lot of standard fields & definitions associated with thos
 
 ## Integrations (behind the scenes)
 
-### GitLab Field Marketing issues 
-An efficiency we are able to gain by using Allocaida is that we create a GitLab issue and can push information gathered in the details panel directly to that issue. This saves the Field Marketer time in not having to reenter information which has already been entered. 
+### Allocadia - GitLab Issue Integration
+An efficiency we are able to gain by using Allocaida is that we create a GitLab issue and can push information gathered in the details panel directly to that issue. This saves the team's time by not having to reenter information which has already been entered. 
 
 #### How to create a FMM issue from within Allocadia 
 1. Create a **sub-category** and fill in all information in the details panel 
@@ -299,17 +299,40 @@ By creating the FMM issue at the sub category level, this still allows the marke
 
 Please be mindful of where you are creating a sub-category. The system will allow you to create a sub-category within a sub-category, and you will realize this because upon creation of the what you believe to be a new sub category, you will notice the details panel is already filled in. Do NOT go through and start changing out the data in the details panel, as you are only allowed to create one FMM issue within the sub-category. What you’ll need to do is delete the newly already filled in sub-category and then ensure you're in the category level and create a new sub-category. 
 
-##### Date/Name changes 
-Should a date on a campaign need to change and the issue has already been created, you can systematically change the date & name. In order to do so, all changes must be made in Allocadia and then overnight will push the change to the GitLab FMM issue. Should you want to manually change both the issue AND Allocadia, you should feel empowered to do so. The automation is there to help you. 
-
-#### Help! The feature to create a GitLab issue is missing from the details panel 
+##### Help! The feature to create a GitLab issue is missing from the details panel 
 You can **ONLY** create a GitLab issue from within a **SUB-CATEGORY**. Please double check you have created a subcategory, and a line item as listed in the [instructions here.](/handbook/marketing/strategy-performance/allocadia/#how-to-create-a-fmm-issue-from-within-allocadia) 
 
 [Video walk through](https://www.youtube.com/watch?v=D-rxIHhbF0Q) of how to diagnose this problem and then how to also correct the problem if you've created a Category and need to move it to a sub-category. 
 
 If you have tried to create from the subcategory and you're still not able to create the issue, please ask in the #allocadia_mktg-budget-holders slack channel. 
 
-#### Making changes to the Field Marketing issues
+#### How to Create a Channel Marketing Epic/Issues from Allocadia
+
+1. Create a new subcategory with a naming convention: `YYYYMMDD  Partner Name  Activity Name`
+2. In the details panel under subcategory, input the following fields:
+   - `Spend Type` = `Partner Rebates`
+   - `Start Date` and `End Date`
+   - `Is a Channel Partner Involved?` = `Yes`
+   - `Channel Partner Name` = `Select Partner`
+   - `Is an Alliance Partner Involved?` = `No`
+   - `Will there be MDF funding?` = `Yes`
+   - `Partner MDF Region Budget`
+   - `Campaign Owner` = `Select CMM`
+   - `Operational Program Owner` = `Select Operational Campaign Owner`
+3. Create a Line Item with a naming convention: `MDF 000  Partner Name  Details Related to Spend`
+   Note, 000 indicates being bookmarked once MDF has been approved and the fund request received in SFDC, the MDF Program Owner will change from 000 to the fund request number.
+4. In the etails panel under Line Item, scroll to actions and select `Create MDF Epic & Issues` to create the corresponding epic and issues:
+   - Marketing Campaign epic
+   - Proof of Performance issue
+   - List Import issue
+5. In the marketing campaign epic, update the campaign details, user journey, joint messaging and all sections.
+
+Watch the [video](https://youtu.be/Xis0KDi-Iy4) for a step to step walkthrough.
+
+#### Date/Name changes 
+Should a date on a campaign need to change and the issue has already been created, you can systematically change the date & name. In order to do so, all changes must be made in Allocadia and then overnight will push the change to the GitLab FMM issue. Should you want to manually change both the issue AND Allocadia, you should feel empowered to do so. The automation is there to help you. 
+
+#### Making changes to the GitLab issues
 
 If you find yourself needing to update a procurement issue template for any of the issues above - please [submit an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) for the Marketing Operations team, as this must be done through our Allocadia CSM.
 
