@@ -156,7 +156,7 @@ If you would like the Hiring Manager to receive an email when the form has been 
 
 During this time, you will also submit your offer for approvals.
 
-If the candidate for the position is internal, you should wait until you've presented an offer to merge the applicants' profiles. Please visit the [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions. 
+If the candidate for the position is internal, you should wait until you've presented an offer to merge the applicants' profiles. Please visit the [Candidate Hygiene Instructions](/handbook/hiring/#interview-stages) for details. 
 
 If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval.
 
