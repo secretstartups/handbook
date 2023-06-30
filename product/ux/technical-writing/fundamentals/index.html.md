@@ -14,7 +14,7 @@ The Technical Writing Fundamentals course is available to help both GitLab and c
 
 This class is **not required** to contribute to docs.gitlab.com. Everybody can contribute!
 
-You can review the training materials on this page, or you can take [the course in Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/gitlab-technical-writing-fundamentals) (requires a [Level Up account](/handbook/people-group/learning-and-development/level-up/)).
+You can review the training materials on this page, or you can take [the course in Level Up](https://levelup.gitlab.com/courses/gitlab-technical-writing-fundamentals).
 
 ## Technical Writing Fundamentals course
 
