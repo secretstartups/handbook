@@ -286,6 +286,21 @@ To highlight issues that would be good for new contributors, you can add a [labe
 
 ## Supporting the Wider Community Contributors
 
+### Unblocking wider community contributions
+Following GitLab's mission that [Everyone can contribute](https://about.gitlab.com/company/mission/#contribute-with-gitlab), the Contributor Success team helps unblock wider community contributors and move contributions forward. Sometimes other teams at GitLab do not have the capacity to support community contributions, but this should not stop the community from contributing.
+
+These 10 GitLab values support efforts to unblock the wider community and push forward:
+1. [Do it yourself](https://handbook.gitlab.com/handbook/values/#do-it-yourself)
+1. [Short toes](https://handbook.gitlab.com/handbook/values/#short-toes)
+1. [Collaboration is not consensus](https://handbook.gitlab.com/handbook/values/#collaboration-is-not-consensus)
+1. [Bias for action](https://handbook.gitlab.com/handbook/values/#bias-for-action)
+1. [Disagree, commit, and disagree](https://handbook.gitlab.com/handbook/values/#disagree-commit-and-disagree)
+1. [Escalate to unblock](https://handbook.gitlab.com/handbook/values/#escalate-to-unblock)
+1. [Cleanup over sign-up](https://handbook.gitlab.com/handbook/values/#cleanup-over-sign-off)
+1. [Minimal viable change](https://handbook.gitlab.com/handbook/values/#minimal-viable-change-mvc)
+1. [Everything is in draft](https://handbook.gitlab.com/handbook/values/#everything-is-in-draft)
+1. [Make two-way door decisions](https://handbook.gitlab.com/handbook/values/#make-two-way-door-decisions)
+
 ### First-time contributors
 The first-time contributors can be identified after each release in the [First time contributors MRs dashboard](https://gitlab.biterg.io/app/kibana#/dashboard/df97f810-f397-11e8-8fe1-b354a33b38be).
 
