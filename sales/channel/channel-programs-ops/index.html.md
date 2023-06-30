@@ -390,7 +390,7 @@ NOD is used to communicate to Partners via targeted emails and the Partner Flash
 **Partner communication resources and standard delivery dates.** 
 
 * **Partner Flash Newsletter** - delivered to Partner users on the **1st Thursday of the month** (occasional exceptions due to holidays or other considerations.) A Partner can elect to receive the newsletter daily, weekly, or bi-weekly. The majority of our Partners receive the newsletter Monthly. If you want to contribute an article, kindly submit it three days before publication.  
-* **Partner Webcast series** - At times, Channel Programs or Channel Leadership might host a Partner webcast to announce a program change or essential updates.  Channel Marketing hosts a monthly Marketing Webcast; other Channel facing teams might elect to host a Webcast for our Partners. 
+* **Partner Webcast series** - At times, Channel Programs or Channel Leadership might host a Partner webcast to announce a program change or essential updates.  Channel Marketing hosts a quarterly Marketing Webcast; other Channel facing teams might elect to host a Webcast for our Partners. 
 * **Partner Portal Notifications** - these alerts can go to all users or a subset; we do not find this a practical stand-alone communication vehicle. Using this notification to augment one of the above resources is more effective.
 * **Special Notifications via email** - using NOD we can create a one-off notification if there is an urgent need to communicate out-of-cycle announcements or send surveys or Partner SKO/Summit notifications.  \
 
