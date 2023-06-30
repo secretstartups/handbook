@@ -55,8 +55,8 @@ Follow the tips on [resizing images](/handbook/tools-and-tips/#resizing-images) 
 Use the social card validators to verify the social preview of included URLs before sharing. 
 
 - [OpenGraph validator](https://opengraph.xyz) to debug the tags, including social previews. 
-- [Twitter card validator](https://cards-dev.twitter.com/validator)
 - [LinkedIn post inspector](https://www.linkedin.com/post-inspector/) 
+- Twitter suggests using the tweet composer. The card validator was [deprecated and removed in August 2022](https://twittercommunity.com/t/card-validator-preview-removal/175006).
 
 #### Fast Emojis Workflows
 
