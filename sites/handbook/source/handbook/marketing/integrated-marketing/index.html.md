@@ -44,13 +44,15 @@ We are innovative, strategic, and data-driven, delivering a cohesive high qualit
 {: #teams .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-### Field Marketing
+### Regional Marketing
+
+#### Field Marketing
 
 [Field Marketing](/handbook/marketing/field-marketing/): Be the feet on the street, creating local and regional experiences, learning and evangelism in close partnership with Sales.
 
-### Channel & Alliances Marketing 
+#### Channel Marketing 
 
-[Channel & Alliances Marketing ](/handbook/marketing/channel-marketing/): Exponentially grow GitLab’s reach through the ecosystem to build awareness and generate demand. 
+[Channel](/handbook/marketing/channel-marketing/): Exponentially grow GitLab’s reach through the ecosystem to build awareness and generate demand. 
 
 ### Corporate Events
 
@@ -80,8 +82,7 @@ We are innovative, strategic, and data-driven, delivering a cohesive high qualit
 
 Integrated Marketing OKRs cascade from CMO OKRs
 
-- [FY24 Q3 Integrated Marketing OKRs](https://docs.google.com/document/d/18o3GodnsVbCsBsv8sVSqmAV6aQW363QAdxsOZ3_CbGg/edit#heading=h.dw8cm0z05l9a)
-- [FY24 Q3 Corporate Communications OKRs](https://gitlab.com/groups/gitlab-com/marketing/corporate_marketing/-/epics/220)
+[FY24 IM strategy](https://docs.google.com/presentation/d/1vzIYexQ2rnU-wglyC7uaLcQ1v3zLzxSCn6pianJxw2E/edit#slide=id.g1ae252b3905_0_0) 
 
 ## How to Communicate with integrated Marketing
 {: #communication .gitlab-purple}
@@ -111,3 +112,17 @@ Each month, Integrated Marketing meets with regional Sales Leadership to discuss
 {: #publisher-programs .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->  
 Due to the fact that teams outside of the digital marketing team are only allowed to run three paid social campaigns a month, we would not want to use one of our three slots for the month to run a publisher program with a publication that we already have relationship with. This is for two reasons: 1. To work with our 3rd party ad agency, there is 12-15% fee that is based off the ad spend of the publisher engagement to accommodate their services and reporting 2. because we do not want to take the place of a paid social campaign. Should we go down the route of wanting to work with a publisher, then the team member should collaborate by tagging the Campaign Manager & Digital team manager who you normally work with in the campaign issue. By tagging this team in your issue, the Campaign Manager & Digital team member will be able to ensure the publisher engagement does not conflict with existing activities running.
+
+### Regional Sales leaders seeking approval for activity outside of Mktg Supported countries 
+For strategic reasons, a regional leader may desire marketing activity outside of the agreed upon [marketing countries of focus](https://internal-handbook.gitlab.io/handbook/marketing/fy24-strategy/#marketing-support-levels). As such, [this issue template](LINK) should be used to seek approval.
+
+
+
+
+
+
+
+
+
+
+
