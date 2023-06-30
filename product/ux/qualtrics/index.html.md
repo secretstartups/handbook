@@ -239,6 +239,7 @@ There will be studies where you wish to target specific populations of users bas
 1. A1 will show `processed`.  Your mailing list should now be in Qualtrics at this point.
 1. Add `processed_` to the filename in order to make it clear which files have been completed, as well as to keep the process executing as quickly as possible in the future.
 1. The list will show up as a shared list for the *UX Research & Product* directory. You can access the list itself from the *Contacts* section of Qualtrics, or you can select the list as part of the process of sending an email distribution.
+1. **IMPORTANT:** Create a sample of the list you just created to filter out users who have opted-out. To do this navigate to the new list in Qualtrics, click the `List Options` dropdown, select `Create sample from list`, name the sample, click `Add sampling criteria`, choose `Opt-out status` from the dropdown, and make sure `Is opted-in` is selected. This will ensure that no users who have opted-out of email communication will be contacted.
  
 * The GitLab.com user ID you specified in your Google Sheet will be included in the Qualtrics mailing list as embedded data. You can use this to associate any responses you get with your original user list.
 
