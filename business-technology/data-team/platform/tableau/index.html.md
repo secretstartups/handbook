@@ -672,6 +672,14 @@ Tableau offers several [certifications](https://www.tableau.com/learn/certificat
 
 </details>
 
+<summary><b>GitLab Training Videos</b></summary>
+
+* [Creating a Tableau Data Source: Custom SQL](https://youtu.be/dE0fnhYcyDA)
+* [Creating a Tableau Data Source: Tableau Modeling](https://youtu.be/BSUJgQmqsDA)
+* [Creating a Tableau Data Source: Virtual Connections](https://youtu.be/BMXJhNwEjs0)
+
+</details>
+
 ## Support
 
 In addition to the proactive steps we’ve taken with self-service help resources and education initiatives, we want to provide our user community with the support they need in case these two approaches do not answer their question or resolve the issue. 
