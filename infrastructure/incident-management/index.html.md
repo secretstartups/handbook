@@ -592,15 +592,14 @@ Service labeling examples:
 | A site-wide outage caused by a configuration change to Patroni. | Use `~Service::Patroni` |
 | A degradation in service due to missing index on a table. | Use `~Service::GitLab Rails` |
 
-#### "Needs" labeling
+#### "Needed" and "NotNeeded" Scoped Labels
 
-The following labels are added and removed by [triage-ops](https://gitlab.com/gitlab-com/gl-infra/triage-ops/) automation depending on whether the corresponding label has been been added.
+The following labels are added and removed automatically by [triage-ops](https://gitlab.com/gitlab-com/gl-infra/triage-ops/):
 
 | Needs Label | Description |
 | ----------- | ----------- |
-| `~NeedsRootCause` | Will be added/removed automatically based on there being a `~RootCause::*` label |
-| `~NeedsService` | Will be added/removed automatically based on there being a `~Service::*` label |
-| `~NeedsCorrectiveActions` | Will be added/removed automatically based on there being at least one link on the `Corrective Actions` section of the Issue description |
+| `~{RootCause,Service,CorrectiveActions}::Needed` | Will be added automatically if the corresponding label has not been set. If this label persists the DRI of the incident will be mentioned on a note to correctly label the incident |
+| `~{RootCause,Service,CorrectiveActions}::NotNeeded` | In rare cases, the corresponding label won't be needed, this label can be used to disable the periodic notes to remind the DRI to update the label |
 
 #### Required Labeling
 
@@ -608,17 +607,17 @@ These labels are always required on incident issues.
 
 | **Label** | **Purpose** |
 | ----- | ------- |
-| `~incident` (automatically applied) | Label used for metrics tracking and immediate identification of incident issues. |
 | `~Service::*` | Scoped label for service attribution. Used in metrics and error budgeting. |
 | `~Severity::*` (automatically applied) | Scoped label for severity assignment. Details on severity selection can be found in the [availability severities](/handbook/engineering/quality/issue-triage/#availability) section. |
 | `~RootCause::*` | Scoped label indicating root cause of the incident. |
 
-#### Optional Labeling
+#### Other Incident Labels
 
-In certain cases, additional labels will be added as a mechanism to add metadata to an incident issue for the purposes of metrics and tracking.
+These labels are added to incident issues as a mechanism to add metadata for the purposes of metrics and tracking.
 
 | **Label** | **Purpose** |
 | ----- | ------- |
+| `~incident` (automatically applied) | Label used for metrics tracking and immediate identification of incident issues. |
 | `~self-managed` | Indicates that an incident is **exclusively** an incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
 | `~incident-type::automated traffic` | The incident occurred due to activity from security scanners, crawlers, or other automated traffic |
 | `~backstage` | Indicates that the incident is internally facing, rather than having a direct impact on customers. Examples include issues with monitoring, backups, failing tests, self-managed release or general deploy pipeline problems. |
