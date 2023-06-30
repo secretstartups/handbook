@@ -147,6 +147,14 @@ This is a quick walkthrough on how to check your MacBook's disk and run First Ai
 
 Please work with #it_help before reaching out to Apple Support or going to the Apple Genius Bar. For hardware issues, please see [laptop repair](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-repair) and [laptop replacement](/handbook/business-technology/end-user-services/onboarding-access-requests/#gitlab-laptop-replacement-program). 
 
+## Zoom
+
+IT Ops are the tech stack owners of Zoom. If you are needing support with Zoom please contact us in the #it_help channel in Slack. 
+
+If you are requiring an application to be added to Zoom you'll need to first go through the [App Integrations Approval Process](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new#) using the `app_integrations` template
+
+Once that has been approved please then open a change management [request](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/new#) using the `it_general_change` template. Please follow the template instructions and if you have any questions please contact us in slack in the #it_help channel
+
 ## Okta
 
 Want to know how as an organization we leverage Okta as a Single Sign On tool? Please click [here](/handbook/business-technology/okta/)
