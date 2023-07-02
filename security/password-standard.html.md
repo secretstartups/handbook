@@ -103,4 +103,4 @@ Exceptions to this standard will be tracked as per the [Information Security Pol
 ## References
 
 - Parent Policy: [Information Security Policy](/handbook/security/)
-- [Token Management Standard](/handbook/security/token-management-standard)
+- [Token Management Standard](/handbook/security/token-management-standard.html)
