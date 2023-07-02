@@ -62,5 +62,3 @@ To those ends, we’ve mapped out our Partner Capabilities Journey that aligns t
 ### **Training and Accreditation Program and Requirements**
 
 GitLab has developed core training, accreditation and certification for sales, solution architects (pre-sales engineers), and post sales engineers and consultants. The GitLab Partner Enablement Program is designed to provide our partners with similar training as GitLab employees themselves. For details on available training resources visit the [Channel Training, Certifications and Enablement](https://about.gitlab.com/handbook/resellers/training/) page.
-
-[Partner Training, Accreditations, and Enablement | GitLab](https://about.gitlab.com/handbook/resellers/training/)
