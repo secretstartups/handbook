@@ -148,7 +148,7 @@ Auto-enrollment is a scheme brought in by the Government as they want everyone t
 - Employees are aged 22 or over; and
 - Are under the state pension age
 
-If an employee does not meet these criteria then they will be considered an **Entitled Worker** (earn less than £5,824 p.a) or a **Non-Eligible Jobholder** (earn between £5,824 and £10,000 p.a).
+If an employee does not meet these criteria then they will be considered an **Entitled Worker** (earn less than £6,240 p.a) or a **Non-Eligible Jobholder** (earn between £6,240 and £10,000 p.a).
 
 - **Entitled workers** must be offered the opportunity to join the pension scheme. They can make contributions to the pension scheme if they choose. However, there is no requirement for GitLab to make a contribution
 - **Non-Eligible jobholders** must be offered the opportunity to opt in to an automatic enrollment scheme.
@@ -324,7 +324,7 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
 Team members can receive Statutory Maternity Pay for up to 39 weeks:
 * To be eligible for Statutory Maternity Pay, team members must have continuous employment with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the expected week of childbirth). Eligible team members are entitled to:
 * 90% of the team member's average weekly earnings (before tax) for the first 6 weeks.
-* £156.66 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks. This also applies to the leave amounts provided for Paternity Leave and Adoption Leave.
+* £172.48 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks. This also applies to the leave amounts provided for Paternity Leave and Adoption Leave.
 
 If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of their leave.
 
@@ -340,7 +340,7 @@ If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternit
  
 #### Paternity Leave Payment
  
-* Team members can receive Statutory Paternity Pay for up to 2 weeks which is £151.97 or 90% of the team member's average weekly earnings (whichever is lower) OR Shared Parental Leave Pay for up to 37 weeks which is £151.97 a week or 90% of the team member's average weekly earnings, whichever is lower.
+* Team members can receive Statutory Paternity Pay for up to 2 weeks which is £172.48 or 90% of the team member's average weekly earnings (whichever is lower) OR Shared Parental Leave Pay for up to 37 weeks which is £172.48 a week or 90% of the team member's average weekly earnings, whichever is lower.
  
 * To qualify, team members must have been continuously employed with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the baby is due or the matching week if adopting).
  
@@ -353,8 +353,8 @@ If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternit
   
 #### Adoption Leave Payment
 * Team members can receive statutory adoption pay for up to 39 weeks:
-   * 90% of the team member's average weekly earnings (before tax) for the first 6 weeks.
-   * £151.97 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks.
+   * 90% of your average weekly earnings (before tax) for the first 6 weeks
+   * £172.48 or 90% of your average weekly earnings (whichever is lower) for the next 33 weeks
    * To be eligible for statutory adoption pay, team members must have had continuous employment with GitLab for at least 26 weeks leading up to the week they were matched with the child.
  
 #### Unpaid Parental Leave
