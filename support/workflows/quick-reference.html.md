@@ -28,6 +28,7 @@ However, the source of truth in order:
 | [Account Blocked](reinstating-blocked-accounts.html) | Yes |  |
 | [Data Restoration](restore_requests.html) | [No](/support/gitlab-com-policies/#restoration-of-deleted-data) | See [gitlab#357175](https://gitlab.com/gitlab-org/gitlab/-/issues/357175) |
 | [Email release](account_changes.html#releasing-an-email-address) | Yes | See [gitlab#352514](https://gitlab.com/gitlab-org/gitlab/-/issues/352514) |
+| [Email swap](account_changes.html#account-access-requests) | Yes | This is an interim solution until [gitlab#416451](https://gitlab.com/gitlab-org/gitlab/-/issues/416451) get solved. <BR><BR>Free users are eligible to request this. But reasoning must be carefully considered, and manager approval is needed. |
 | [Email typo](confirmation_emails.html#typo-fix) | No | See [gitlab#325525](https://gitlab.com/gitlab-org/gitlab/-/issues/325525) & [gitlab#350498](https://gitlab.com/gitlab-org/gitlab/-/issues/350498) |
 | [Emails not received](confirmation_emails.html#removing-a-suppression-in-zendesk) | Yes |  |
 | [Log request](log_requests.html) | [Only if GitLab initiated](/support/statement-of-support/#free-users) |  |

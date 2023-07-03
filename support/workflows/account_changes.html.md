@@ -55,6 +55,7 @@ If ownership is verified, then:
 
 Example cases include:
 
+1. Swapping secondary email with primary email due to primary email being unconfirmed or non-existent. If the requester is a free user, manager approval is needed. Available until [gitlab#416451](https://gitlab.com/gitlab-org/gitlab/-/issues/416451) is implemented.
 1. Removing an identity tied to the user account. The identity should also be verified in these cases.
 
 ## Releasing an Email Address
