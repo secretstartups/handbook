@@ -117,6 +117,7 @@ To change access for a specific bundle, click the 3 dots next to the bundle name
 {: .alert .alert-info}
 
 These are the most used bundles:
+
 | Bundle Name                | Description                                                  |
 | -------------------------- | ------------------------------------------------------------ |
 | Default                    | Bundle assigned to GS admins, provides access to all areas of Gainsight. |
@@ -135,8 +136,8 @@ In order for a user to access Gainsight data they need to be assigned to a shari
 2. From the list, find the appropriate group for the user. 
     1. The most important consideration is whether or not the user is PubSec or not. Most users are not PubSec and will be added to the Non_PubSec group. But in order for a PubSec user to access PubSec records in Gainsight, they must be added to a PubSec group.
 3. Click the pencil icon to edit the group
-4. If you have added the User Role on the user’s record, you can click on the ************************************Refresh User Group************************************ button and the user should be added to the correct group automatically. You can search for the user at the top of the list of users
-5. To add a user manually, click ******************************Add Users Manually******************************. From there you can search for the user, check the box by their name, and click Save.
+4. If you have added the User Role on the user’s record, you can click on the *Refresh User Group* button and the user should be added to the correct group automatically. You can search for the user at the top of the list of users
+5. To add a user manually, click *Add Users Manually*. From there you can search for the user, check the box by their name, and click Save.
 
 You can see which account records are displayed to which sharing groups by navigating to Data permissions → Company → Rule based.
 
@@ -162,7 +163,7 @@ To deactive a user's Gainsight account:
 You may also need to remove the user's Gainsight license in Salesforce:
 1. Click Setup → Installed Packages → Gainsight CSM
 2. Click **Manage Licenses**
-3. Search for the user on the list and click the **Remove* next to their name.
+3. Search for the user on the list and click the *Remove* next to their name.
 
 # User Access to Gainsight
 Users can access Gainsight directly from Okta or through Salesforce.
