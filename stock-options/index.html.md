@@ -74,7 +74,9 @@ In September 2021, the Company’s board of directors and its stockholders appro
   * Inc. & Federal (United States) 
   * Ltd (United Kingdom)
   * PTY Ltd (Australia/New Zealand) 
-  * Ireland Ltd (Ireland)
+  * Ireland Ltd (Ireland) - as of 2023-06-01
+  * BV (Finland)  - as of 2023-06-01  
+
 6. Changing Contribution Amounts 
   * Contribution increases and decreases are limited during Offering and Purchase Periods
   * Increases: Team members may not increase their contributions after the Offering Period begins.
