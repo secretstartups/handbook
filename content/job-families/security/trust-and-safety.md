@@ -41,10 +41,12 @@ The Security Analyst, Trust and Safety is a [grade 6](https://about.gitlab.com/h
 
 #### Security Analyst, Trust and Safety (Intermediate) Responsibilities
 
+- Respond to incidents of abusive activity originating from `GitLab.com`
+- Participate in the Trust and Safety Team [on-call rotation](https://about.gitlab.com/handbook/security/secops-oncall.html)
 - Process abuse reports and DMCA notices relating to GitLab.com
-- Contribute to the creation of documentation, runbooks and workflows
 - Mitigate detected abusive activity on GitLab.com and it's related products and services
 - Manage internal requests from other teams inside and outside the Security Department
+- Contribute to the creation of documentation, runbooks and workflows
 
 #### Security Analyst, Trust and Safety (Intermediate) Requirements
 
@@ -134,6 +136,7 @@ The Security Engineer, Trust and Safety is a [grade 6](https://about.gitlab.com/
 #### Security Engineer, Trust and Safety (Intermediate) Responsibilities
 
 - Respond to incidents of abusive activity originating from GitLab.com
+- Participate in the Trust and Safety Team [on-call rotation](https://about.gitlab.com/handbook/security/secops-oncall.html)
 - Utilize log ingestion platforms for analyzing and identifying the tactics, techniques and patterns of abusive users
 - Contribute to the creation of documentation and runbooks
 - Contribute to the production and tuning of anti-abuse detection and mitigation tooling
@@ -210,6 +213,7 @@ The Trust and Safety Manager is a [grade 8](https://about.gitlab.com/handbook/to
 #### Manager, Trust and Safety Responsibilities
 
 - Hire a world class team of security engineers to work on their team
+- Participate in the Trust and Safety Team [on-call rotation](https://about.gitlab.com/handbook/security/secops-oncall.html) as the `Trust and Safety Manager On-call (TSMOC)`
 - Help their team grow their skills and experience
 - Provide input on security architecture, issues, and features
 - Hold regular 1:1's with all members of their team
