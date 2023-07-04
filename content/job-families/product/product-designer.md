@@ -151,12 +151,6 @@ standards into our workflows, and defining guidelines and best practices that wi
 designing and building products. A breakdown of the vision you’ll be helping to deliver within the UX
 Foundation category can be found on our [product direction page](https://about.gitlab.com/direction/manage/foundations/).
 
-#### Foundations Responsibilities
-
-Product Designers on the Foundations team adhere to the same responsibilities listed above for the Product Designer role.
-View our [performance factor worksheets](https://drive.google.com/drive/folders/169u53pk_r8AOsmxtndzJvJ8-Z5SQjclY?usp=sharing)
-for more details on how individual responsibilities relate to Foundations.
-
 ## Tools
 
 Tools used by the UX department are flexible depending on the needs of the work. Please see the [Product Designer Onboarding](http://about.gitlab.com/handbook/product/ux/product-designer-onboarding/) page for more details.
