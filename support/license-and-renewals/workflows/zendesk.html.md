@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Workflows
+title: Zendesk L&R Ticket Form
 category: General
-description: This page is about Zendesk workflows for L&R.
+description: This page is about Zendesk workflows for the L&R form.
 ---
 
 ## On this page
@@ -15,19 +15,28 @@ This page outlines workflows relevant to folks using the `L&R` form in Zendesk.
 
 ## Working on tickets
 
-### Assignment and hot queue model
+### Selecting, Assigning and Responding to Tickets
 
-We accept that tickets in the L&R queue may require a different approach than tickets in other queues. Acknowledging and drawing inspiration from the [existing Working on Tickets workflow](/handbook/support/workflows/working-on-tickets.html), we have opted to adopt a "hybrid model". The hybrid model has an emphasis on assignment of tickets, while also allowing a "hot queue" (i.e taking the next-to-breach ticket from the top of the queue) methodology.
+Support Engineers that work on Licensing and Renewal (L&R) tickets should apply the same guidelines documented within the [Support - Working on Tickets workflow](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html):
+1. [Selecting tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#selecting-tickets)
+1. [Assigning tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#assigning-tickets)
+1. Responding to next-to-breach ticket, both your own and [responding to other SEs tickets](https://about.gitlab.com/handbook/support/support-global-groups/sgg-faq.html#1-should-ses-respond-to-other-ses-tickets)
 
 ### The workflow
 
-1. Start at the top of your own view and work on next-to-breach tickets that are assigned to you
-1. Check the main view for New tickets in your region or all regions of preferred support
-1. If you are able to make a public reply on the ticket, do so, assign the ticket to yourself, and complete the form data
-1. If there is a New ticket that will breach in your timezone, but it is not in your region or all regions of preferred support, make a public reply if you can and leave the ticket unassigned
-1. If there are Open tickets that are unassigned, with all regions or your region of preferred support, assign to yourself, complete the form data, and make a public reply if you can
-1. If you are not able to make a public reply, please ask for assistance from your colleagues to drive the ticket forward
-1. If there is an Open ticket that is assigned to someone outside of your timezone and the ticket will breach before the start of their working hours, make a public reply if you can and let them know if you have done so via Slack
+1. Check the main L&R view and work on the next-to-breach ticket: 
+  1. Take assignment of the ticket if it is currently unassigned
+  1. Write your public reply
+  1. **If the ticket is an Internal Request**, review whether the [Priority](https://about.gitlab.com/handbook/support/internal-support/#internal-request-slo) is appropriate. If it is not, set the `Priority` field to the appropriate value and notify the requester of the change and of your reasoning. (A macro for this may soon be available)
+  1. Complete the remaining form data
+1. If you are not able to make a public reply, please ask for assistance from your colleagues to take assignment and drive the ticket forward
+1. If you are waiting on internal stakeholders and processes to be completed before being able to set a ticket to Solved: 
+  1. Advise the customer that we will reply in X days. 
+  2. Set Status: `On-hold`
+  3. Set Type: `Task` 
+  4. Click: `Submit as On-hold`
+  5. Use the Calendar on the sidebar to set a reminder for yourself to check in with the customer X days
+  6. Click: `Submit as On-hold`
 
 ## Zendesk form data overview
 
