@@ -112,12 +112,11 @@ Going forward, every milestone, we will ask Product Designers and Engineers to v
 
 | Milestone          | Product Designer  | Engineer          |
 | ------------------ | ----------------- | ----------------- |
-| 15.9 (2023-01-18)  |                   |                   |
-| 15.10 (2023-02-18) |                   |                   |
-| [15.11 (2023-03-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/387070) | Annabel Gray | Phil Hughes |
-| 16.0 (2023-04-18)  |                   |                   |
-| [16.1 (2023-05-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/394768)  |  Veethika M   |   Payton Burdette |
-| 16.2 (2023-06-18)  |                   |                   |
+| 16.3               |                   |                   |
+| 16.4               |                   |                   |
+| 16.5               |                   |                   |
+| 16.6               |                   |                   |
+| 16.7               |                   |                   |
 
 <details>
 <summary>
@@ -128,6 +127,12 @@ Previous Volunteers
 
 | Milestone         | Product Designer  | Engineer          |
 | ----------------- | ----------------- | ----------------- |
+| 16.2 (2023-06-18)                                                         | -                  | -               |
+| [16.1 (2023-05-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/394768) | Veethika M         | Payton Burdette |
+| 16.0 (2023-04-18)                                                         | -                  | -               |
+| [15.11 (2023-03-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/387070)| Annabel Gray       | Phil Hughes     |
+| 15.10 (2023-02-18)                                                        | -                  | -               |
+| 15.9 (2023-01-18)                                                         | -                  | -               |
 | 15.8 (2022-12-18)                                                         | -                  | -               |
 | 15.7 (2022-11-18)                                                         | -                  | -               |
 | [15.6 (2022-10-18)](https://gitlab.com/gitlab-org/gitlab/-/issues/378259) | Matej Latin        | Deepika Guliani |
