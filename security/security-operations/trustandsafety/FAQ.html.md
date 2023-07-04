@@ -94,7 +94,10 @@ Examples of disruptive activity include, but are not limited to:
 
 1. Port scanning 
 1. Intrusion Attempts
-1. Denial of Service Attack. 
+1. Denial of Service Attack
+
+When testing on GitLab.com, your `@wearehackerone.com` address must be associated with the testing gitlab.com user account. If separate accounts are necessary, you can use an alias. This will help us separate testing from other forms of abuse, and help inform the decision of blocking an account. Note that this does not provide immunity, and the [Rules of engagement](https://hackerone.com/gitlab?type=team) must be followed at all times.
+
 </details>
 
 ### Reporting Abuse 

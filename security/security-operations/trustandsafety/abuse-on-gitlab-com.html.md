@@ -71,13 +71,15 @@ Disruptive activity such as that listed above can be researched freely on your o
 
 * **Testing on GitLab.com**
 
-  -When testing on GitLab.com, your @wearehackerone.com address must be associated with the testing gitlab.com user account. If
+  When testing on GitLab.com, your @wearehackerone.com address must be associated with the testing gitlab.com user account. If
   separate accounts are necessary, you can use an alias. This will help us separate testing from other forms of abuse, and help
   inform the decision of blocking an account. Note that this does not provide immunity, and the Rules of engagement must be followed
   at all times.
   
   GitLab reporters with 3 or more valid reports are eligible for a 1-year Ultimate license for up to 5 users. As per the 
   [H1 policy](https://gitlab.com/gitlab-com/gl-security/hackerone/configuration/-/blob/master/program-policy.md#gitlab-ultimate-license), reporters will request the license through a comment on one of their issues. 
+
+  For more information, please refer to our [FAQ page](https://about.gitlab.com/handbook/security/security-operations/trustandsafety/FAQ.html#security-testing).
 
 ### Abuse Categories
 
