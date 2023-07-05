@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: Documentation
 ---
 
@@ -20,13 +19,6 @@ it should be easy to contribute to the documentation itself.
 
 All standards and practices for contributing documentation are in the
 [GitLab Documentation guidelines](https://docs.gitlab.com/ee/development/documentation/).
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Documentation is the single source of truth (SSOT)
 
@@ -83,5 +75,5 @@ repositories and builds docs.gitlab.com
 ## The Technical Writing team
 
 For more information about the team and how we continually improve
-the GitLab documentation, see [Technical Writing](../product/technical-writing/)
+the GitLab documentation, see [Technical Writing](https://about.gitlab.com/product/ux/technical-writing/)
 in the Product section of the handbook.
