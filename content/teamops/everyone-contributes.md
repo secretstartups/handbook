@@ -37,20 +37,6 @@ In many organizations, altering the expense report policy would require —at mi
 Scaled across an organization, this meeting-free approach to making decisions enables more decisions to be made. This approach allows a more diverse array of perspectives to influence the decision, as there was no requirement to align thirteen individuals to a single time slot on a given day for a synchronous meeting.
 {{% /details %}}
 
-## Give agency
-
-Efficient execution [requires granting agency by default](/handbook/values/#give-agency). A critical component of workforce autonomy, agency empowers team members to independently and proactively make decisions without permission, review, or approval—in other words, to self-govern as a [manager of one](https://about.gitlab.com/handbook/leadership/#managers-of-one). Leaders who grant this kind of agency also communicate their trust in individual team members to do what they feel is necessary to accommodate their unique needs and to design custom strategies to focus their time and attention on what they deem most important for the organization's success.
-
-Valuing agency so highly doesn't mean assuming _**all**_ organizational decisions will be made completely independently. Collaboration is still a critical component of TeamOps. But does every organizational decision require collaboration? To enhance their teammates' sense of agency, leaders can start by removing rules or permissions for smaller operational components such as meeting attendance, personal task management systems, or working schedules.
-
-Agency is the antidote to micromanagement, which crushes execution, stifles creativity, and diminishes retention. Greater individual autonomy brings about a shared reality in which all team members feel encouraged to design how and when they want to contribute—and that fuels both individual and collective success.
-
-{{% details summary="Example of give agency" %}}
-**Example 1:** [Normalizing that it's OK to look away in video calls](https://about.gitlab.com/company/culture/all-remote/meetings/#9-its-ok-to-look-away)
-
-Giving agency begins in the most typical of places. Video calls are a natural part of day-to-day work for many knowledge workers, yet cultural expectations about presenteeism and attentiveness may restrict agency. GitLab explicitly documents that [it's OK to look away](https://about.gitlab.com/company/culture/all-remote/meetings/#9-its-ok-to-look-away) during meetings and that no one should be embarrassed to occasionally ask for something to be repeated. By creating a culture where people are free to manage their own time and attention, they're able to direct energy on a minute-by-minute basis to execute. No one's path to execution looks the same. It may involve breaks to connect with friends, taking a walk outside, or watching a recording of a meeting during a more suitable time.
-{{% /details %}}
-
 ## Directly responsible individual (DRI)
 
 In organizations practicing TeamOps, every project or decision has a single [directly responsible individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). Assigning this person is crucial. The DRI is the person solely responsible for a project's success or failure. To be clear: that person isn't responsible for doing all of the work; the DRI is simply the ultimate decision-maker.
@@ -65,22 +51,6 @@ It's important to note that TeamOps still allows flexibility for team members to
 **Example 1:** [Learning & Development team member owns decisions related to her result metrics](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24)
 
 A member of GitLab's Learning & Development team was responsible for [developing mental health awareness content](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24). Given that she was the one doing the work and was responsible for her results, she was given latitude to be the Directly Responsible Individual. This enabled her to make fast decisions about content type and structure, as opposed to waiting for a more senior person to sign off or appoint her as the lead for this piece of work.
-{{% /details %}}
-
-## Push decisions to the lowest possible level
-
-As many decisions as possible should be made by the person doing the work (the [DRI](/teamops/everyone-contributes/#directly-responsible-individual-dri)), not by their manager or their manager's manager. Fostering this kind of ownership can:
-
-- enhance [agency](/teamops/everyone-contributes/#give-agency) by empowering people to directly and immediately make necessary changes to their work,
-- increase efficiency by eliminating delays while waiting for approval, and
-- free senior leaders from the burden of making decisions that stunt their own productivity.
-
-In the spirit of [iteration](/teamops/measurement-clarity/#iteration), TeamOps encourages executing a sub-optimal decision with full conviction—then returning to it later to improve upon it based on [post-decision feedback](/teamops/everyone-contributes/#disagree-commit-and-disagree)—rather than executing on a full decision with sub-optimal conviction. Each project's DRI knows that project's moving parts and the impacts of a particular choice more than anyone else does; that person should be trusted with full accountability over it.
-
-{{% details summary="Example of push decisions to the lowest possible level" %}}
-**Example 1:** [Updating Developer Evangelism mentoring guidelines](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107903)
-
-A Senior Developer Evangelist at GitLab recognized that many coaching and mentoring sessions are shared in private 1:1 conversations. In an effort to add context and transparency to the process — thereby enabling other developer evangelists to make more decisions on their own — he [documented and merged feedback examples](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107903). The person doing the work is empowered to make the decision. In this example, the decision involved many micro decisions: to document or not, what context to add, where to document, what examples to share, and how to share within the company.
 {{% /details %}}
 
 ## Well-managed meetings
