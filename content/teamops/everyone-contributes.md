@@ -15,9 +15,9 @@ This page is about one of the four Guiding Principles of TeamOps: Everyone Contr
 
 _Instead of relying on hierarchical management, organizations must create systems and channels where everyone can equally consume and contribute information, regardless of level, function, or location._
 
-If people don't have the opportunity to contribute because of their background, where they live, or their life stage, we miss out not only on team members' valuable perspectives but also on the creative solutions and essential productivity each provides.
+If people don't have the opportunity to contribute because of their background, where they live, or their stage of life, we miss out not only on team members' valuable perspectives but also on the creative solutions and essential productivity each provides.
 
-When building a foundation for equal contributions, the goal is to create a model where everyone _**can**_ contribute, but not everyone _**is required**_ to contribute. This is especially important when preparing for decision making. Anyone is welcome to voice their ideas and opinions, but if all voices are required to agree before implementation begins, operational efficiency will be sabotaged.
+When building a foundation for equal contributions, the goal is to create a model where everyone _**can**_ contribute, but not everyone _**is required**_ to contribute. This is especially important when preparing for decision making. Anyone is welcome to voice their ideas and opinions, but requiring universal consensus prior to implementation undermines operational efficiency.
 
 Action tenets of facilitating equal contributions, including real-world examples of each, are below.
 
@@ -25,16 +25,16 @@ Action tenets of facilitating equal contributions, including real-world examples
 
 Working asynchronously does more than free up calendar space. TeamOps prioritizes asynchronous communication as a way of enabling equal opportunities for team members to participate in conversations, receive updates, share insights, or deliver results no matter where or when they are working. In conventional organizations, information exchanges are tightly linked to meetings, which severely limits contributions to only those who are in attendance and are comfortable in a live, spontaneous discussion dynamic.
 
-Instead of spending time scouring schedules and time zone differences to discuss something synchronously, shift the focus to creating clear documentation that will allow team members to contribute both on their own time and with greater intentionality. This [gives agency](/handbook/values/#give-agency), reinforces a [bias for action](/handbook/values/#bias-for-action), and [bridges the knowledge gap](https://about.gitlab.com/company/culture/all-remote/asynchronous/#6-asynchronous-work-bridges-the-knowledge-gap), resulting in more total iterations.
+Instead of spending time scouring schedules and time zone differences to discuss something synchronously, shift the focus to creating clear documentation that will allow team members to contribute both on their own time and with greater intentionality. This [gives agency](/handbook/values/#give-agency), reinforces a [bias for action](/handbook/values/#bias-for-action), and [bridges the knowledge gap](https://about.gitlab.com/company/culture/all-remote/asynchronous/#6-asynchronous-work-bridges-the-knowledge-gap), resulting in more total [iterations](/handbook/values/#iteration).
 
 Establishing a thriving asynchronous culture also requires leaders to [celebrate incremental improvements](https://about.gitlab.com/company/culture/all-remote/asynchronous/#celebrate-incremental-improvements) and fight the urge to seek immediate gratification. To do this, they can encourage their team to strive for [iteration](/handbook/values/#iteration); [transparency](/teamops/shared-reality/#public-by-default); and [progress, not perfection](https://about.gitlab.com/company/culture/all-remote/asynchronous/#aim-for-progress-not-perfection).
 
 {{% details summary="Example of asynchronous workflows" %}}
 **Example 1:** [Adjusting expensable entries in GitLab's expense report policy](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/104471)
 
-In many organizations, altering the expense report policy would require — at minimum — one meeting. In an organization powered by TeamOps, the proposal [begins as documentation](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/104471). Robert M., a senior engineer at GitLab, identified the need to reverse a policy change. He documented his reasoning in a merge request, and notified the Procurement team and other stakeholders. This allowed feedback to be gathered and the appropriate owners of the policy to consider the changes at a time that worked best for them.
+In many organizations, altering the expense report policy would require —at minimum— one meeting. In an organization powered by TeamOps, the proposal [begins as documentation](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/104471). Robert M., a senior engineer at GitLab, identified the need to reverse a policy change. He documented his reasoning in a merge request, and notified the Procurement team and other stakeholders. This allowed feedback to be gathered and the appropriate owners of the policy to consider the changes at a time that worked best for them.
 
-Scaled across an organization, this meeting-free approach to making decisions enables more decisions to be made. This approach allows a more diverse array of perspectives to influence the decision, as there was no requirement to align 13 individuals to a single time slot on a given day for a synchronous meeting.
+Scaled across an organization, this meeting-free approach to making decisions enables more decisions to be made. This approach allows a more diverse array of perspectives to influence the decision, as there was no requirement to align thirteen individuals to a single time slot on a given day for a synchronous meeting.
 {{% /details %}}
 
 ## Give agency
@@ -51,23 +51,21 @@ Agency is the antidote to micromanagement, which crushes execution, stifles crea
 Giving agency begins in the most typical of places. Video calls are a natural part of day-to-day work for many knowledge workers, yet cultural expectations about presenteeism and attentiveness may restrict agency. GitLab explicitly documents that [it's OK to look away](https://about.gitlab.com/company/culture/all-remote/meetings/#9-its-ok-to-look-away) during meetings and that no one should be embarrassed to occasionally ask for something to be repeated. By creating a culture where people are free to manage their own time and attention, they're able to direct energy on a minute-by-minute basis to execute. No one's path to execution looks the same. It may involve breaks to connect with friends, taking a walk outside, or watching a recording of a meeting during a more suitable time.
 {{% /details %}}
 
-
 ## Directly responsible individual (DRI)
 
 In organizations practicing TeamOps, every project or decision has a single [directly responsible individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). Assigning this person is crucial. The DRI is the person solely responsible for a project's success or failure. To be clear: that person isn't responsible for doing all of the work; the DRI is simply the ultimate decision-maker.
 
-This decision-making model [combinines beneficial dynamics from both hierarchical and consensus-guided organizations](https://about.gitlab.com/company/culture/all-remote/management/#separating-decision-gathering-from-decision-making). It opens decisions to a wider collection of voices and perspectives while avoiding unclear expectations and delays that might result from having too many people involved in reaching a conclusion.
+This decision-making model [combines beneficial dynamics from both hierarchical and consensus-guided organizations](https://about.gitlab.com/company/culture/all-remote/management/#separating-decision-gathering-from-decision-making). It opens decisions to a wider collection of voices and perspectives while avoiding unclear expectations and delays that might result from having too many people involved in reaching a conclusion.
 
 Leaders must foster a culture where DRIs are empowered, able to [escalate to unblock](/handbook/values/#escalate-to-unblock), and willing to share their ideas in the open. This unlocks the team's highest potential. A successful DRI should consult and collaborate with all teams and stakeholders and welcome input from a broad range of diverse perspectives as they form their thoughts.
 
-It's important to note that TeamOps still allows flexibility for team members to [disagree, commit, and disagree](/teamops/everyone-contributes/#disagree-commit-and-disagree), but it reduces the risk that disagreement or dissent will prevent a [bias for action](/handbook/values/#bias-for-action).
+It's important to note that TeamOps still allows flexibility for team members to [disagree, commit, and disagree](/handbook/values/#disagree-commit-and-disagree), but it reduces the risk that disagreement or dissent will prevent a [bias for action](/handbook/values/#bias-for-action).
 
 {{% details summary="Example of DRI" %}}
 **Example 1:** [Learning & Development team member owns decisions related to her result metrics](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24)
 
-A member of GitLab's Learning & Development team was responsible for [developing mental health awareness content](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24). Given that she was the one doing the work, and her result metric was the one impacted, she was given latitude to be the Directly Responsible Individual. This enabled her to make fast decisions about content type and structure, as opposed to waiting for a more senior person to sign off or appoint her as the lead for this piece of work.
+A member of GitLab's Learning & Development team was responsible for [developing mental health awareness content](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24). Given that she was the one doing the work and was responsible for her results, she was given latitude to be the Directly Responsible Individual. This enabled her to make fast decisions about content type and structure, as opposed to waiting for a more senior person to sign off or appoint her as the lead for this piece of work.
 {{% /details %}}
-
 
 ## Push decisions to the lowest possible level
 
@@ -87,9 +85,9 @@ A Senior Developer Evangelist at GitLab recognized that many coaching and mentor
 
 ## Well-managed meetings
 
-Even though TeamOps teams prioritize asynchronous workflows, it still treats synchronous discussions as a critical element of organizational operations. [Well-managed meetings]((/handbook/communication/#meetings)) maximize the efficiency and productivity that shared time permits, so meetings shouldn't just be gatherings of people for a conversation. They should be a resource for decisions and tasks that are best made with immediate feedback and collaboration from multiple people. This means that any conversations that _could_ be facilitated asynchronously _should_ be, including unidirectional presentations, company announcements, results reporting, or brainstorming.
+Even though TeamOps teams prioritize asynchronous workflows, it still treats synchronous discussions as a critical element of organizational operations. [Well-managed meetings](/handbook/communication/#meetings) maximize the efficiency and productivity that shared time permits, so meetings shouldn't just be gatherings of people for a conversation. They should be a resource for decisions and tasks that are best made with immediate feedback and collaboration from multiple people. This means that any conversations that _could_ be facilitated asynchronously _should_ be, including unidirectional presentations, company announcements, results reporting, and brainstorming.
 
-Documenting paramaters for meeting management and participation help maximize the investment of time for all participants, and prevent meeting fatigue throughout the company. These guidelines could include rituals such as 25- or 50-minute ["speedy meetings"](https://about.gitlab.com/handbook/communication/#meetings), [mandatory agendas](https://about.gitlab.com/company/culture/all-remote/meetings/#4-all-meetings-must-have-an-agenda), or thorough [note taking in a live doc](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/).
+Documenting parameters for meeting management and participation help maximize the investment of time for all participants, and prevent meeting fatigue throughout the company. These guidelines could include rituals such as 25- or 50-minute ["speedy meetings"](https://about.gitlab.com/handbook/communication/#meetings), [mandatory agendas](https://about.gitlab.com/company/culture/all-remote/meetings/#4-all-meetings-must-have-an-agenda), or thorough [note taking in a live doc](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/).
 
 When working with [external teams](https://about.gitlab.com/company/culture/all-remote/asynchronous/#working-async-outside-of-your-company), follow our three main points to foster communication and education regarding our [shared values](/teamops/shared-reality/#shared-values).
 
@@ -101,15 +99,17 @@ GitLab's [Group Conversations](https://about.gitlab.com/handbook/group-conversat
 The editable agenda document, which is attached to the company-wide calendar invite, is also used to gather questions ahead of the meeting and organize the order of speakers. The agenda itself becomes an artifact to share or reference later. Plus, recordings of the sync sessions are uploaded as [videos on the GitLab Unfiltered YouTube channel](https://www.youtube.com/@GitLabUnfiltered/search?query=group%20conversation).
 {{% /details %}}
 
-## Key review meetings
+## Cross-functional collaboration
 
-In addition to standard communication channels, recurring opportunities dedicated exclusively to updates and knowledge sharing can help optimize awareness, questions, and feedback about an ongoing project. These [Key Review Meetings](https://about.gitlab.com/handbook/key-review/) allow a functional group to stay updated on and discuss essential success measurements, such as: OKRs, KPIs, how the team is trending toward achieving goals, blocked tasks, new assignments, workstream changes, etc.
+To address the challenge cross-functional execution at high velocity, TeamOps advocates a [stable counterparts](/blog/2018/10/16/an-ode-to-stable-counterparts/) model. It works like this: every functional team (e.g., Support) works with the same team members from a different functional team (e.g., Development), so each member of one function always knows who their partner in another function will be. Stable counterparts enable greater trust and familiarity across the organization, which in turn [speed up decision making](/teamops/decision-velocity/), facilitate stronger communication flows, and reduce the risk of conflicts.
 
-In conventional organizations, this is apt to be a more informal conversation between a department head and their manager. Broadening the audience of attendees for a Key review Meeting—to include, for example, the Chief Executive Officer (CEO), Chief Financial Officer (CFO), the function head, [stable counterparts](https://about.gitlab.com/handbook/teamops/decision-velocity/#stable-counterparts), and (optionally) all other executives and their direct reports—broadens the pool of people who can contribute feedback, insights, and advice. It also forces the presenting department to be more mindful of execution, consider areas where they are falling short, and gather input for potential iterations toward progress.
+In addition to standard communication channels, recurring opportunities dedicated exclusively to updates and knowledge sharing can help optimize awareness, questions, and feedback about an ongoing project. These [Key Review Meetings](https://about.gitlab.com/handbook/key-review/) allow a functional group to stay updated on and discuss essential success measurements, such as: progress towards goals such as [OKRs and KPIs](/teamops/everyone-contributes/), blocked tasks, new assignments, workstream changes, etc.
 
-Similarly, cross-departmental conversations—known as [Group Conversations](https://about.gitlab.com/handbook/group-conversations/) within GitLab—can provide the same visibility and inclusion to other projects and teams, to help consider how a project may impact OKRs for teams throughout the organization. Such recurring meetings offer regular updates across all teams on a rotating schedule. It's the same concept and content as key review meetings with one major difference: all team members are invited! These meetings are designed to give the entire workforce context on what other teams outside of their own are focused on (and how they're executing). In this way, TeamOps stresses that execution isn't solely about executing your own goals goals; it's about understanding what and how others are executing, too.
+In conventional organizations, this is apt to be a more informal conversation between a department head and their manager. Broadening the audience of attendees for a Key Review Meeting—to include, for example, the Chief Executive Officer (CEO), Chief Financial Officer (CFO), the function head, stable counterparts, and (optionally) all other executives and their direct reports—broadens the pool of people who can contribute feedback, insights, and advice. It also forces the presenting department to be more mindful of execution, consider areas where they are falling short, and gather input for potential iterations toward progress.
 
-Both key review meetings and cross-departmental conversations help keep operational pace, policies, and practices consistent throughout the organization, while also fostering a sense of [inclusion](/teamops/shared-reality/#inclusivity).
+Similarly, cross-departmental conversations—known as [Group Conversations](https://about.gitlab.com/handbook/group-conversations/) within GitLab—can provide the same visibility and inclusion to other projects and teams, to help consider how a project may impact OKRs for teams throughout the organization. Such recurring meetings offer regular updates across all teams on a rotating schedule. It's the same concept and content as key review meetings with one major difference: all team members are invited! These meetings are designed to give the entire workforce context on what other teams outside of their own are focused on (and how they're executing). In this way, TeamOps stresses that execution isn't solely about executing your own goals; it's about understanding what and how others are executing, too.
+
+Stable counterparts, key review meetings, and cross-departmental conversations help keep operational pace, policies, and practices consistent throughout the organization, while also fostering a sense of [inclusion](/teamops/shared-reality/#inclusivity).
 
 {{% details summary="Example of key review meetings" %}}
 **Example 1:** [GitLab's User Experience (UX) department Key Review meeting](https://youtu.be/54LAX8UFU9s)
@@ -121,16 +121,45 @@ GitLab's User Experience (UX) department [livestreamed a Key Review meeting on G
 GitLab's Learning and Development team hosted a [livestreamed Group Conversation](https://youtu.be/OX15Rknk7tM) in June 2021. [No presentations are allowed](https://about.gitlab.com/handbook/communication/#no-presenting-in-meetings) in Group Conversations. Attendees look at the prepared presentation deck in advance and document questions in a shared Google Doc. At the 6:35 mark, an attendee (who is sharing their screen) [notices that a button does not link to the appropriate place](https://youtu.be/OX15Rknk7tM?t=395). This enables the L&D team to create an action item, plan an iteration, and continue to execute on their OKRs/KPIs.
 {{% /details %}}
 
-## Short toes
+## Tool prioritization
 
-An organization's speed of decision-making slows dramatically if its members worry excessively about "stepping on others' toes" when proposing an idea or contributing to work outside of their immediate job descriptions. Often the source of such worry is a fear of conflict, which is one of the [five dysfunctions](/handbook/values/#five-dysfunctions) of a team.
+In virtual-first environments, software becomes the shared workplace – instead of an office, it’s a new, digital location for information to be shared, results to be stored, and team members to collaborate together. The tool stacks that comprise these work environments can often be infrastructures built from a combination of dozens (or even hundreds!) of tools.
+
+To create an efficient navigation experience and prevent information overload for your team members, it’s important to classify and prioritize each of the tools that you use. In TeamOps, three categories are recommended:
+
+- **Primary** – Your core digital infrastructure, or the few tools that all of your staff members use every day and have full [public access](/teamops/shared-reality/#public-by-default) to.
+- **Supplemental** – Tools that enhance the user experience of one of your primary tools or provide a niche functionality for certain departments. For example, bots that you might integrate into an [asynchronous communication](/teamops/everyone-contributes/#asynchronous-workflows) platform (like Slack), or graphic design software for the marketing department.
+- **Substitute** – Tools to use instead of the primary tool for certain scenarios. Use these sparingly to prevent redundant costs and conflicting [sources of truth](/teamops/shared-reality/#single-source-of-truth-ssot).
+
+{{% details summary="Examples of tool prioritization" %}}
+**Example 1:** [Doist’s Pyramid of Remote Team Communication Tools](https://blog.doist.com/remote-team-communication-tools/)
+
+As a visual guide for when to use which tools in their digital infrastructure, fully-remote company [Doist](doist.com) created a [Pyramid of Remote Team Communication Tools](https://blog.doist.com/remote-team-communication-tools/) that has not only made their company operations more efficient, but also inspired all-remote teams from around the world to do the same.
+{{% /details %}}
+
+## Psychological safety
+
+An organization’s speed of decision-making slows dramatically if its members are worried about sharing their thoughts quickly and honestly. This hesitation typically stems from an absence of trust or fear of conflict, which are two of the [five dysfunctions](/handbook/values/#five-dysfunctions) of a team.
 
 Adopting a TeamOps mentality means having [short toes](/handbook/values/#short-toes) and feeling comfortable with feedback, suggestions, and contributions to the work you "own." It also means speaking up when you see an opportunity for iteration. Eliminating a territorial mindset allows for better [collaboration](/handbook/values/#collaboration), greater [diversity of thought](/handbook/values/#seek-diverse-perspectives), and ultimately faster decisions.
 
-{{% details summary="Example of short toes" %}}
-**Example 1:** [Marketing team member contributing a proposal to improve a People function process](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues/555)
+Adopting a TeamOps mentality means providing the psychological safety necessary for all team members to feel confident while sharing ideas, [giving transparent feedback](/teamops/measurement-clarity/#transparent-feedback), [owning impactful project decisions](/teamops/everyone-contributes/#directly-responsible-individual-dri), and [managing themselves independently](/teamops/decision-velocity/#give-agency). Eliminating a territorial mindset allows for better [collaboration](/handbook/values/#collaboration), greater [diversity of thought](/handbook/values/#seek-diverse-perspectives), and ultimately faster results.
 
-In a People Group Conversation at GitLab, the following question was asked: "_What can we do from a company side to make sure people aren’t overworking?_" At conventional organizations, people outside of the People Group may not risk "stepping on their toes" by proposing iterations and solutions. At GitLab, [a proposal was offered](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues/555) by a team member in Marketing. This proposal added an automated message within Slack to remind people to consider taking time off, and to add the note to their next manager 1:1 if they felt that they could not take PTO. Following a healthy discussion, the proposal was [added to GitLab's handbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/37624) and implemented in its tool stack.
+To create stronger psychological safety in a virtual-first team, try communication-based tactics, such as:  
+- Create internal catchphrases and code words to use as reinforcing language
+- Leverage [shared values](/teamops/shared-reality/) and [informal communication](/teamops/shared-reality/#informal-communication) to express care, get to know your team members’ various working styles, and remind your team what they have in common
+- Provide [positive feedback](/teamops/measurement-clarity/#transparent-feedback) when you see courageous behaviors and impressive contributions, just as much as you provide constructive feedback when you see results that need improvement
+- Create time and prompts in both [synchronous](/teamops/everyone-contributes/#well-managed-meetings) and [asynchronous](/teamops/everyone-contributes/#asynchronous-workflows) channels for collaborative support and questions
+- Include conflict resolution training in both onboarding and leadership development curriculum
+
+{{% details summary="Examples of psychological safety" %}}
+**Example 1:** [GitLab’s Team Members Operate with Short Toes](/handbook/values/#short-toes)
+
+Often, the polite feeling of “I don’t want to step on anyone’s toes,” can contribute to stifled contributions, which is a direct contradiction to [GitLab’s mission](/company/mission/). To foster a company culture that encourages employees to take initiative in driving positive change, the organization adopted a [“short toes”](/handbook/values/#short-toes) operating principle that empowers team members to contribute to projects and objectives outside of their direct domain.
+
+**Example 2:** [Help Scout Reminds Employees to “Assume Miscommunication Over Malice”](www.helpscout.com/blog/asynchronous-communication-remote-teams/)
+
+During employee onboarding, [Help Scout](www.helpscout.com) teaches new team members that if they ever feel like their integrity is being questioned, to assume it’s a communication misfire, and not because their team member actually thinks they’re bad at their job. It helps to remind staff that the way people share concerns or feedback is often informed culturally, and critical feedback is rarely personal.
 {{% /details %}}
 
 ---
