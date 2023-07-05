@@ -59,7 +59,8 @@ More details on definitions of outage, and degradation are on the [incident-mana
 
 | **Year Month** | **Availability** | **Comments** |
 | ---- | ----------- | ---- |
-| 2023 June | TBD |  |
+| 2023 July | TBD |  |
+| 2023 June | 100% |  |
 | 2023 May | 99.92% |  |
 | 2023 April | 99.98% |  |
 | 2023 March | 99.99% |  |
