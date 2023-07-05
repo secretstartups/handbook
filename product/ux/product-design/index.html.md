@@ -92,7 +92,7 @@ Are you a new GitLab Product Designer? If so, welcome! Make sure you see the [Pr
 
 In Q4 FY22 and Q1 FY23, we ran an experiment called "Macro UX," in which we paired a Product Designer and an Engineer to make self-directed improvements to a product workflow (Kubernetes Agent). The idea was to empower the pair to make changes they identified themselves and resolved directly with MRs, rather than following our existing [Product Development Flow](/handbook/product-development-flow/). 
 
-The result of the experiment was that the pair was able to resolve low-hanging usability problems, but they ran into challenges when attempting to address larger, more complex problems. However, they did find value in the ability to identify usability problems through heuristic reviews and then quickly partner to fix them. (See the [retro issue](https://gitlab.com/gitlab-org/gitlab/-/issues/351288) for details).
+The result of the experiment was that the pair was able to resolve low-hanging usability problems, but they ran into challenges when attempting to address larger, more complex problems. However, they did find value in the ability to identify usability problems through heuristic reviews and then quickly partner to fix them. See the [retro issue](https://gitlab.com/gitlab-org/gitlab/-/issues/351288) for details.
 
 In the *Beautifying our UI* initiative, we'd like to take the best parts of the Macro UX experiment and apply them to making usability improvements in our product.
 
@@ -163,12 +163,12 @@ The point of this initiative is to move fast, often in product areas you may not
 
 - **Use feature flags**. To more quickly and easily revert changes, it can make sense to use feature flags. Annabel Dunstone Gray recorded a [UX showcase around how to do so and why it might be beneficial](https://www.youtube.com/watch?v=M9pgdTlqBmw).
 - **How will this change impact our self-managed customers?** Because we use our SaaS product, we're not always personally aware of nuanced differences between our Self-Managed and SaaS offerings. Make sure to consider the possible implications of any changes to all of our deployment options. Start by reviewing the docs related to the feaure, and ask questions if you're still unsure.
-- **How can I crowd source feedback on a significant change?** Sometimes there will be dependencies that aren't obvious. Consider opening up feedback issues (like [this one](https://gitlab.com/gitlab-org/gitlab/-/issues/363276)) and use our internal Slack to make the company aware of significant upcoming changes, so that people can offer feedback. Channels like #product, #whats-happening-at-gitlab, and #is-this-known can be good places to publicize these messages.
+- **How can I crowd source feedback on a significant change?** Sometimes there will be dependencies that aren't obvious. Consider opening up feedback issues (like [this one](https://gitlab.com/gitlab-org/gitlab/-/issues/363276)) and use our internal Slack to make the company aware of significant upcoming changes, so that people can offer feedback. Channels like `#product`, `#whats-happening-at-gitlab`, and `#is-this-known` can be good places to publicize these messages.
 - **Use the [Pajamas Design System](https://design.gitlab.com/).** Make sure your changes align with the design system and leverage available components. If there's a need to update an exisitng component or propose a new one, follow the [component lifecycle](https://design.gitlab.com/get-started/lifecycle). If you have questions, ask a member of the [Foundations group](/handbook/product/categories/#foundations-group).
 
 ### How will we measure success?
 
-The team will track total number of MRs merged with the `Beautifying our UI` label. 
+The team will track the total number of MRs merged with the [Beautifying our UI](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=merged&label_name[]=Beautifying%20our%20UI) label. 
 
 ### Risks
 
@@ -186,6 +186,7 @@ You can find changes made by the UX Paper Cuts by following along in the [GitLab
 ### UX Paper Cuts team workflow
 
 #### General workflow
+
 One of our goals is to deliver changes as efficiently as possible. With that in mind:
 - Try to review ~"UX Paper Cuts" MRs assigned to you as soon as you can
 - Keep your merge requests small and focused
@@ -193,23 +194,27 @@ One of our goals is to deliver changes as efficiently as possible. With that in 
   - Cross-link each MR if they're related
 
 #### Milestone theme work
+
 Each milestone we focus on a specific area of the product (previous milestone themes include Merge request UI, AI feature polish, and labels & lists). Focusing on smaller areas like this maximizes the impact of our changes. Each milestone planning issue will include a list of ideas and issues we think we can work on.
 - Look at list in description; if you see one you'd like to work on, assign yourself
 - In your merge request:
   - Link MR back to the issue
-  - Add labels ~"group::ux paper cuts" ~"UX Paper Cuts" ~frontend ~UX ~"type::maintenance" ~"maintenance::usability" ~"section::dev" ~"SUS::Impacting" ~"severity::4" (adjust to use correct number)
+  - Add labels `~"group::ux paper cuts"` `~"UX Paper Cuts"` `~frontend ~UX` `~"type::maintenance"` `~"maintenance::usability"` `~"section::dev"` `~"SUS::Impacting"` `~"severity::4"` _(adjust to use correct severity number)_
 - Assign a paper cuts designer to review ~"UX"
 - Use reviewer roulette for developer reviews
 
 #### Other fixes
+
 - If you want to fix something that's _not_ on the list, feel free! Just link the MR back to milestone planning issue
 - Look at Slack channel #is-this-known for recent bugs
 
 #### Useful links & tips
+
 - [Open UX Paper Cuts MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name%5B%5D=UX%20Paper%20Cuts) 
 - All available [utility classes](https://unpkg.com/browse/@gitlab/ui@64.10.1/src/scss/utilities.scss)
 - You can speed up your workflow a bit by creating [comment templates](https://docs.gitlab.com/ee/user/profile/comment_templates.html) for commonly used actions, like assigning a reviewer or approving an MR  (for example, you could create an "Approve" comment template including the `/approve`, `/remove_reviewer`, and `/unsubscribe` quick actions)
 
 #### For help
+
 - Try pinging the developers on your MR suggested by reviewer roulette
-- People are super helpful in Slack channels #g_manage_foundations and #gitlab-ui
+- People are super helpful in Slack channels `#g_manage_foundations` and `#gitlab-ui`
