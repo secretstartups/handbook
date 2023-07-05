@@ -53,7 +53,7 @@ Programs follow the lifecycle of the customer, from onboarding to enablement to 
 ![Customer Lifecycle](https://lucid.app/publicSegments/view/7e994704-484f-4d32-a083-6c052b07ba66/image.png)
 Segment specific journey - [Tech Touch](https://lucid.app/lucidchart/6e790ff2-fc61-4617-acb2-81980f7b1d2e/edit?viewport_loc=-3837%2C-567%2C8991%2C5379%2C0_0&invitationId=inv_86701091-2076-4f69-8bfe-3b28e57c4dba) | [Scale](https://lucid.app/lucidchart/38da04cd-67e0-4c74-b9a9-f18a9147ade2/edit?viewport_loc=-3461%2C-874%2C6004%2C4973%2C0_0&invitationId=inv_6df3da57-83b4-4b79-abdb-7e0ec031fb17) | [CSM-Managed](https://lucid.app/lucidchart/30feecd2-a4c6-4ec4-8acd-9ee2a0205a26/edit?viewport_loc=-494%2C307%2C3645%2C2181%2C0_0&invitationId=inv_975a10dc-7079-4715-8342-2d1617aab98a)
 
-## Programs overview
+### Programs Overview
 
 Please refer to the [Available Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/available-programs/) page for a list of active DCS Programs. A program can be any of the following:
 
@@ -78,9 +78,9 @@ If the information requested is already available in Gainsight, please expect _1
 
 If a new dashboard or report must be created, [CS Ops](/handbook/sales/field-operations/customer-success-operations/) will provide more accurate time expectations.
 
-### Program recipients
+## Program Recipients
 
-## GitLab Admin contacts
+### GitLab Admin contacts
 
 The GitLab Admin contact user is the primary recipient of communication sent by the Digital Customer Success (DCS) Team. This contact receives all primary communication regarding onboarding, enablement, and overall customer health from DCS. More than one GitLab Admin may be configured on an account.
 
@@ -88,14 +88,14 @@ Configuring the GitLab Admin contact is a required step in the Sales process. Gi
 
 Learn more about the GitLab Admin contact role requirement [on the Gainsight Go-To-Market Technical Documentation page](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gitlab-admin-contact-required).
 
-## Owner and Maintainer users (SaaS Customers Only)
+### Owner and Maintainer users (SaaS Customers Only)
 
 On accounts using the GitLab SaaS product, individual users with Owner and Maintainer permissions in an organization may receive email programs from the DCS Team.
 
 Targeting individual users at the account level enables the DCS Team to ensure customer enablement programs reach contacts most likely to take action on individual features of GitLab. 
 
 
-## Sold-To Contacts
+### Sold-To Contacts
 If a customer purchases GitLab without the assistance of the Sales team directly from GitLab’s website, there may be no GitLab Admin user configured to the account. If so, communications normally designed for the GitLab Admin contacts will be sent to the contact that directly purchased GitLab products and services (the Sold-To contact). These contacts do not receive NPS or CSAT communication.
 
 ## How to configure a GitLab Admin 

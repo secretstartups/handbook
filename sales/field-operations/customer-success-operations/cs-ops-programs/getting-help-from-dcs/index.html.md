@@ -29,8 +29,6 @@ You may request a potential new program, such as an email series, contribute to 
 
 CS Programs will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator or ask in the `#cs_ops_and_programs` Slack channel.
 
-<details>
-<summary markdown='span'>Program and copywriting timelines</summary>
 
 ### New program timeline
 
