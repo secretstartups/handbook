@@ -443,6 +443,38 @@ We do our best to assist team members but do not operate as an internal agency s
 
 Beginning in FY23Q3, all changes to the marketing site made by team members outside of Digital Experience will need to go through the [Marketing Site Approval Process](/handbook/marketing/digital-experience/marketing-site-approval-process). This ensures all changes align with the goals our Marketing team is working towards. Merge requests created in the [Buyer Experience Repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) should utilize the `marketing-site-change` [MR template](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/.gitlab/merge_request_templates/marketing-site-change.md). 
 
+
+### Lightning Strikes 
+
+#### What are lightning strikes? 
+
+Lightning strikes are when [work outside of iteration planning](https://about.gitlab.com/handbook/marketing/digital-experience/#planning-iteration-plan-sync) must be performed; these are usually both business critical and time sensitive tasks. 
+
+#### How do you know if a lightning strike is necessary? 
+
+There are no specific guidelines we have set in place to what warrants a lightning strike, but these are general guidelines to follow:
+
+1. Has an issue been created?
+1. Can this wait until the next iteration planning session?
+1. Will the digital experience be blocked by anything not supplied to them?
+1. Is this work devoid of significant risks to success in the marketplace?
+
+If you have answered no to all of these questions, it is likely to be a lightining strike. There are exceptions to this heuristic that may exist and can change as our work does. Generally speaking, anything outside of this definition will **not warrant a lightning strike**
+
+
+Just because something isn’t a lightning strike doesn’t mean we won’t get to that work. However, that body of work will have to go through the [normal triage process](https://about.gitlab.com/handbook/marketing/digital-experience/#triage) and be [prioritized there](https://about.gitlab.com/handbook/marketing/digital-experience/#requesting-support).
+
+
+#### Are there any risks to operating under a lighting strike?
+
+Be aware that lightning strikes under quick turnarounds are at a higher risk of error due to the nature of time-sensitive work. It can lead to [ineffiency in code](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#technical-debt-ineffectively-managed) which will [slow down our velocity](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#loss-of-velocity).
+
+It is worth noting that the majority of our churn originates from discussions initiated in a Slack thread, and can [improperly set expectations to other teams to what our team can deliver](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#setting-expectations-incorrectly). Starting in Slack threads leaves room for [interpretation to the deliverable](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#confusion-about-the-expected-output). To maintain efficiency in our operations, we need to acknowledge and address these factors accordingly.
+
+### The importance of providing assets and content on time
+
+An essential aspect of our work efficiency revolves around receiving approved content and assets in a timely manner. By providing the team with these necessary resources promptly, you not only expedite the engineering process but also contribute to the overall smooth progress of our projects. **Please note that delays in this process can impact project delivery dates scope of work.**
+
 ### Things we don't do
 
 1. **Content changes**. You can do these yourself, it's one of the many awesome things about GitLab!
