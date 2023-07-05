@@ -32,7 +32,7 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
-| August, 2023  | AMER / EMEA | Virtual | [SQS 34 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/2056) | 
+| August 21st - September 1st, 2023  | AMER / EMEA | Virtual | [SQS 34 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/2056) | 
 
 ## Past Sales Quick Start (SQS) Workshops
 
@@ -84,9 +84,7 @@ Click on a link below to begin your role based journey.
 - Enterprise Strategic Account Executive - [Enterprise Sales Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/enterprise-sales-onboarding-journey) 
 - Commercial Account Executive - [Commercial Sales - Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/commercial-sales-onboarding-journey)
 - Solutions Architect - [Solutions Architect: 30-60-90 Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/solutions-architect-30-60-90-onboarding-journey)
-- Customer Success Managers
-    - [ Strategic Customer Success Manager (CSM) Onboarding](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/technical-account-manager-tam-onboarding) 
-    - [Growth CSM and Scale CSE Onboarding](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/scale-and-mid-touch-tam-onboarding)
+- Customer Success Management: [CSM/CSE: Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/technical-account-manager-tam-onboarding)
 - Inside Sales - [Inside Sales: Onboarding Learner Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/inside-sales-onboarding-learner-journey)
 - Sales Development - [Tanuki Tech - Level 1](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/tanuki-tech-level-1)
 - Channel - [Channel Sales Onboarding Journey](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/learning-path/channel-sales-on-boarding)
