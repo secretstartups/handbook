@@ -63,6 +63,7 @@ There are several "types" of CTAs, which will have different corresponding playb
   * New Customer Onboarding - SaaS email assist
   * New Customer Onboarding - Self-Managed email assist
   * Usage Data Enablement
+  * Webinar Attended by Customer  
 * Activity
   * [New Account Handoff](/handbook/customer-success/csm/account-handoff/#account-handoff-cta)
 * Renewal
