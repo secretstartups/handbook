@@ -81,6 +81,12 @@ Thanks for your interest in GitLab! Our team will reach out if they need more in
 
 If your experience is a good fit for the role, we will be in touch soon. Please note that it's not possible for us to respond to every candidate, but we aim to review every application.
 
+### A recruiter reached out. How do I know they're real?
+
+Scammers often target job seekers by impersonating companies like GitLab, using the GitLab name and GitLab team member names. Scammers have been observed requesting job seekers pay thousands of dollars for "technology equipment" after job seekers completed an in-depth, fake job application interview process. 
+
+Check out the ["What to know about a fake job scam impersonating GitLab"](https://about.gitlab.com/blog/2023/06/29/fake-gitlab-job-scam/) blog post for warning signs and tips on how to protect yourself.
+
 ## Screening Call
 
 ### Screening Call expectations
