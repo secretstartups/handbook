@@ -75,7 +75,7 @@ Under California law, the transmission of cookie identifiers and browsing behavi
 
 | Categories of Personal Information Sold or Shared                                                                                    | Categories of Third-Party Recipients                                                                | Purpose of Disclosure                                                  |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-|<ul><li>Identifiers/Contact information</li><li>Internet or other electronic network activity information</li><li>Geolocation data</li><li>Inferred information</li><ul> | Data Analytics Providers, Advertising Networks, Social Networks | Interest based advertising, data enrichment</li><ul>                            |
+|Identifiers/Contact information<br>Internet or other electronic network activity information<br>Geolocation data<br>Inferred information | Data Analytics Providers, Advertising Networks, Social Networks | Interest based advertising, data enrichment                            |
 
 
 ### Retention and Deletion
