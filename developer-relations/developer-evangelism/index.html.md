@@ -137,6 +137,19 @@ The Developer Evangelism team works with the Developer Relations Team [UTM Strat
 
 You can use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) on the Community UTM Page to easily generate UTM Codes for your campaigns.
 
+We use the following campaigns:
+
+1. [Blog posts (general)](https://campaign-manager.gitlab.com/campaigns/view/17) - All GitLab blog where we are not authors. Content tracking for social media. 
+1. [Blog posts (authors)](https://campaign-manager.gitlab.com/campaigns/view/18) - GitLab blog posts where we are authors. Content tracking for social media. 
+1. [Talk resources (general)](https://campaign-manager.gitlab.com/campaigns/view/13) - QR codes and short URLs for talk slides. 
+1. [Community newsletter](https://campaign-manager.gitlab.com/campaigns/view/27) - community newsletter short URLs. 
+1. [Demos (TMM, DE)](https://campaign-manager.gitlab.com/campaigns/view/50) - technical demos with standalone URLs. 
+1. [Release Evangelism](https://campaign-manager.gitlab.com/campaigns/view/3) - [Release evangelism activities](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism). 
+1. [Podcast resources](https://campaign-manager.gitlab.com/campaigns/view/38) - URLs shared with podcast hosts. 
+1. [Contributed articles](https://campaign-manager.gitlab.com/campaigns/view/47) - external articles shared on social media. 
+
+Event and content specific tracking examples are [KubeCon EU 2023](https://campaign-manager.gitlab.com/campaigns/view/36), [External articles - infoq eBPF](https://campaign-manager.gitlab.com/campaigns/view/37), [Newsletter - opsindev.news (external)](https://campaign-manager.gitlab.com/campaigns/view/43). 
+
 #### Blog Post PostType
 
 We write across diverse platforms, but a primary destination for our writings is the [GitLab Blog](/blog/), where all our blogposts include the `dev-evangelism` [postType](/handbook/marketing/blog/#post-type) in their [frontmatter](/handbook/marketing/blog/#frontmatter) for proper tracking.
