@@ -89,22 +89,31 @@ fixes must be requested and agreed upon by the release managers and the requeste
 
 ### Patch release process
 
-Patches are released on an as-needed basis in order to fix regressions in the
-current self-managed release. The end-to-end process consists on the following stages:
+Patches are released on an as-needed basis in order to fix regressions in the current self-managed release.
+
+If you're a GitLab engineer looking to include a bug fix in a release, please follow the steps on the [patch release runbook for GitLab engineers]. 
+
+Overview of the steps involved with creating a patch release:  
+
+![Patch release overview](patch_release_overview.png)
+* [Diagram source](https://docs.google.com/presentation/d/1YRjA1dYCXNXp06VltDYlik1MdFyzUvaeXKk69mMPcA4/edit#slide=id.g226a611e9ec_0_0)
+
+The end-to-end process consists on the following stages:
 
 1. **Prepare** - A merge request backporting a bug fix to the current version is prepared by
    GitLab engineers.
 1. **Test** - The merge request executes end-to-end tests via package-and-test pipeline
-   to guarantee the bug fix meets the quality standards.
+   to guarantee the bug fix meets the quality standards. If the package-and-test pipeline fails, a review from
+   a Software Engineer in Test is required.
 1. **Merge** - The merge request is merged by a GitLab maintainer in the stable branch associated
    with the current version.
 1. **Analysis** - To determine if a patch release is required, release managers analyze the severity and number of backports waiting to be patch along other release pressures.
 1. **Tag** - Release managers tag a new patch release package for the current version.
 1. **Deploy** - The patch release package is deployed and tested to the GitLab Release instance.
-1. **Publish** - Release managers publish the packages associated with the patch release.
+1. **Release** - Release managers publish the packages associated with the patch release.
 
-Details of steps 1 to 3 can be found on the [patch release runbook for GitLab engineers] while details for steps 4 to 7
-can be found on the [patch release runbook for release managers].
+Details of the patch release lifecycle can be found on the [patch release documentation], including the
+[patch release runbook for GitLab engineers] and the [patch release runbook for release managers].
 
 ## Backports overview
 
@@ -301,6 +310,7 @@ If you need any additional help please ask the Release Managers in the [#release
 [post-deploy migration pipeline documentation]: https://gitlab.com/gitlab-org/release/docs/-/tree/master/general/post_deploy_migration
 [internal-pilot-question]: #where-i-can-learn-more-about-the-internal-patch-release-pilot-for-gitlab-engineers
 [backporting to versions outside the maintenance policy]: https://docs.gitlab.com/ee/policy/maintenance.html#backporting-to-older-releases
+[patch release documentation]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/process.md
 [patch release runbook for GitLab engineers]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/engineers.md
 [patch release runbook for release managers]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/release_managers.md
 [patch release policy]: https://docs.gitlab.com/ee/policy/maintenance.html#patch-releases
