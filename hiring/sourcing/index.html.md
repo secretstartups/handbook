@@ -26,6 +26,93 @@ This person is of interest, but has not interacted with the Talent Acquisition (
 * **Prospect** - a person is qualified for a potential future or current role at GitLab, but has not yet formally engaged with moving forward to enter the interview process. There is basic information available (LinkedIn, Blogs, Conference Talks, etc.) and are housed in our CRM talent community.
 * **Candidate** - a person that is interested in an active position at GitLab and is engaged in the interview process (which starts with a recruiter phone screen). These individuals are then tracked in our Applicant Tracking System to engage through the interview process. 
 
+## Sources & Their Defintions
+
+<table>
+<tr>
+<td>
+
+#### [Sourcing Strategy/Type \[Greenhouse\]](https://support.greenhouse.io/hc/en-us/articles/115003931231-Sourcing-the-basics)
+</td>
+<td>
+
+**Definition**
+</td>
+<td>
+
+**Sub Custom Sources**
+</td>
+</tr>
+<tr>
+<td>Company Marketing</td>
+<td>Candidates that applied directly to a job post.</td>
+<td>
+
+* Internal Applicant
+* Job Pages On Your Website
+</td>
+</tr>
+<tr>
+<td>Prospecting</td>
+<td>Prospects that have yet to express interest in GitLab/a role reached out to by a current GitLab team member.</td>
+<td>
+
+* Paid External Tools \[_broken out individually_\]
+  * LinkedIn (Prospecting i.e. LinkedIn Recruiter)
+  * SeekOut
+* Social Media
+* Greenhouse Sourcing \[Prospecting via our CRM\]
+* Other Sourcing Tools - this indicates any tool we used that we do not have a paid agreement.
+</td>
+</tr>
+<tr>
+<td>In-Person Event</td>
+<td>Prospects and/or candidates we met at an event, conference, or otherwise whether in person or remotely.</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Referrals</td>
+<td>Prospects that enter a role’s pipeline via a Greenhouse referral submission by a current GitLab team member.</td>
+<td>
+
+* Referral
+* Note: Social Referrals (applications via a link shared by team members) are not counted as referrals in our metrics.
+</td>
+</tr>
+<tr>
+<td>Agencies</td>
+<td>
+
+Similar to Outbound Sourcing, however, this pool includes prospects found using 3rd party vendors. _This is most applicable to Executive TA_.
+</td>
+<td>
+
+_See Greenhouse for the complete list._
+</td>
+</tr>
+<tr>
+<td>Third-Party Boards</td>
+<td>Job boards we pay for, or AAP-related partners that we use for EEOC compliance.</td>
+<td>
+
+* Direct Employers 1-5
+* BuiltIn
+* Glassdoor
+* LinkedIn
+* LinkedIn (Ad Posting)
+</td>
+</tr>
+<tr>
+<td>Social Media</td>
+<td>Any social media utilized that is not a sourced candidate. </td>
+<td>
+
+* Social Media
+  * Example: someone responding to a LinkedIn post that isn’t a referral or someone actively sourced by a recruiter.
+</td>
+</tr>
+</table>
+
 ## Our Top of Funnel Commitment
 
 GitLab uses the term ["underrepresented"](https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups) and it is meant to be a way of recognizing that we need more of what we do not have in all aspects of our business. There are many studies that have focused on understanding the benefits of representation in the workforce, and one worth noting is a McKinsey & Company study from 2020. This study found that companies in the top quartile for ethnic and cultural diversity were 36% more likely to have above-average profitability than companies in the bottom quartile. The study analyzed data from more than 1,000 companies in 15 countries*.
