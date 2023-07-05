@@ -111,7 +111,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
     <li>Allow time for silence when the coachee is processing your question.</li>
     <li>Pay attention to body language through video chat: Make eye contact in the camera, smile, make gestures such as nodding your head to show you are present and lean into the discussion.</li>
     <li>Provide focus and try to clarify for the coachee.</li>
-    <li>Without judgement, offer an obseration, hold up the mirror to show what you are hearing and to deepen insight for the other person.</li>
+    <li>Without judgement, offer an observation, hold up the mirror to show what you are hearing and to deepen insight for the other person.</li>
     <li> Without judgement, confront or challenge what might be a limiting belief to open up new opportunities for the coachee. </li>
   </ul>
   </p>
@@ -143,7 +143,7 @@ Encourage and show enthusiasm by identifying strengths in the coachee to build t
     <ul>
     <li>At the beginning of a coaching conversation, acknowledge progress made or an accomplishment achieved.</li>
     <li>During a conversation, acknowledge when the coachee makes a connection or gains new insight.</li>
-    <li>During brainstorming, acknowledge when somone has sretched beyond their comfort zone.</li>
+    <li>During brainstorming, acknowledge when somone has stretched beyond their comfort zone.</li>
     <li>During planning for action, acknowledge someone's commitment to change.</li>
     </ul>
     </p>
@@ -243,7 +243,7 @@ The trust equation has one variable in the denominator (self-orientation) and th
 
 #### Neuroscience of Trust
 
-The neuroscience studies show that recognition has the largest effect on trust when it occurs after a [goal has been met](https://hbr.org/2017/01/the-neuroscience-of-trust). The neuroscience of trust can help team members increase empathy, plann efficiently, and decrease thread and fear responses.
+The neuroscience studies show that recognition has the largest effect on trust when it occurs after a [goal has been met](https://hbr.org/2017/01/the-neuroscience-of-trust). The neuroscience of trust can help team members increase empathy, plan efficiently, and decrease thread and fear responses.
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxZWO97gkIShmnZ-Ue7C9tbHVMT9BcuUx643pcGKrV29EQiXnpZ6yzTIZIuCUscwhTsT5ZoR6Gn-ZL/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
