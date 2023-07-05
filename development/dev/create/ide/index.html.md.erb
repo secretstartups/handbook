@@ -293,6 +293,11 @@ See the [following discussion thread](https://gitlab.com/gitlab-org/create-stage
 1. During each Pre-IPM meeting, we will (temporarily) [filter the Iteration Planning board on the `~refined` label](https://gitlab.com/groups/gitlab-org/-/boards/5283620?label_name[]=Category%3ARemote%20Development&label_name[]=refined), so that only refined issues appear in the `~"rd-workflow::unprioritized"` list.
 1. The goal of each Pre-IPM sync meeting will be to prioritize all of these issues into the `~"rd-workflow::prioritized"` list, based on their
    relative importance, whether they are blocking other issues, etc. They are prioritized by dragging them into the appropriate order in the `~"rd-workflow::prioritized"` list, with the highest-priority issues being at the top, and the lowest-priority issues being at the bottom.
+1. After an issue has been moved to the `~"rd-workflow::prioritized"` list, it should be assigned to the current `Iteration` of the `Iteration Cadence`. 
+   We will eventually create an automation for this, but for now it must be done manually. The easiest way to do this is to search for `RD` in the `Iteration` field,
+   and pick the top-most iteration. Then, the `Iteration Cadence` feature functionality will handle automatically rolling over any incomplete issues to the next
+   iteration once the current iteration ends. Note that this only applies to `Done` iterations - for future iterations, we use the chrome extension to 
+   automatically split the actual current iteration in the database into multiple future "virtual" iterations based on velocity.
 
 **Explanation:**
 
@@ -490,6 +495,7 @@ We have the following automation goals for the Remote Development Workflow. Unle
 **Goal:** To ensure prioritized issues are in the correct state
 
 **Automation:**
+- Issues in ~rd-workflow::prioritized but not assigned to the current Iteration of the Iteration Cadence should automatically get assigned to the Current Iteration (TODO: implement)
 - Issues in ~rd-workflow::prioritized and with weight assigned but no assignee should get a warning comment (TODO: implement)
 - Issues in ~rd-workflow::prioritized and specific milestone but no weight assigned should get a warning comment (TODO: implement)
 
