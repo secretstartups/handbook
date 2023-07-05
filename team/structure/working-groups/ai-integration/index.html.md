@@ -182,5 +182,17 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Igor Drozdov | Staff Backend Engineer | Source Code |
 | Patrick Cyiza | Backend Engineer | Source Code | 
 | Natalia Radina | Frontend Engineer | Source Code | 
-| Allison Browne | Senior Backend Engineer | Verify:Pipeline Execution |
-| Andrei Zubov | Senior Frontend Engineer | Deploy:Environments |
+| Mike Eddington | Staff Backend Engineer | Editor Extensions (Visual Studio) |
+| Ross Fuhrman | Senior Backend Engineer | Editor Extensions (Visual Studio) |
+| Gabriel Mazetto | Senior Backend Engineer | Editor Extensions (JetBrains) |
+| Naman Gala | Senior Backend Engineer | Editor Extensions (JetBrains) |
+| Marshall Cottrell | Principal | Editor Extensions (Code Suggestions/VS Code) |
+| Illya Klymov | Senior Frontend Engineer | Editor Extensions (Code Suggestions/VS Code) |
+| Lena Horal-Koretska | Senior Frontend Engineer | Editor Extensions (Language Server) |
+| Erran Carey | Staff Incubation Engineer | Editor Extensions (Neovim) |
+| Ash McKenzie | Staff Backend Engineer | Editor Extensions (Neovim) |
+| Andrei Zubov | Senior Frontend Engineer | Deploy:Environments, Model Evaluation |
+| Allison Browne | Senior Backend Engineer | Model Evaluation, Verify:Pipeline Execution |
+| Dylan Bernardi | Associate Backend Engineer | Model Evaluation |
+| Stephan Rayner | Senior Backend Engineer | Model Evaluation |
+| Igor Wiedler | Staff Site Reliability Engineer | Model Evaluation |
