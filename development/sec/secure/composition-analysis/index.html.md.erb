@@ -144,6 +144,7 @@ We use the Vulnerability Report with filters to focus on items matching [our pol
   - To configure the report manually, select all [shared](#shared), [container scanning](#container-scanning), [dependency scanning](#dependency-scanning) and [license compliance](#license-compliance) projects.
 1. [Upstream Scanners Vulnerability Report][Upstream Scanners Vulnerability Report]
   - To configure the report manually, select all [upstream scanner](#upstream-scanner-mirrors) projects.
+1. [License-db Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/license-db/-/security/vulnerabilities/?state=DETECTED&severity=CRITICAL,HIGH&projectId=39193358,39229232,39233486,39298809,39622674,40857363,45266022)
 
 For each "Detected" item, investigate and either [dismiss](#dismissing-a-vulnerability) or [confirm](#confirming-a-vulnerability) it. If it's not clear whether there's indeed a threat, escalate to our [Application Security team](/handbook/security/security-engineering/application-security/).
 
@@ -327,6 +328,16 @@ needed for [Operational Container Scanning](https://docs.gitlab.com/ee/user/clus
 ### License Compliance
 
 - [License-finder analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/license-finder)
+
+### License-db
+
+- [advisory-processor](https://gitlab.com/gitlab-org/security-products/license-db/advisory-processor)
+- [deployment](https://gitlab.com/gitlab-org/security-products/license-db/deployment)
+- [license-exporter](https://gitlab.com/gitlab-org/security-products/license-db/license-exporter)
+- [license-feeder](https://gitlab.com/gitlab-org/security-products/license-db/license-feeder)
+- [license-interfacer](https://gitlab.com/gitlab-org/security-products/license-db/license-interfacer)
+- [license-processor](https://gitlab.com/gitlab-org/security-products/license-db/license-processor)
+- [schema](https://gitlab.com/gitlab-org/security-products/license-db/schema)
 
 ### Upstream scanner mirrors
 
