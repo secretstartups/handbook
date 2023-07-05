@@ -21,17 +21,22 @@ Topics:
 - Community best practices and GitLab insights.
 - Contributions to GitLab and the cloud native ecosystem.
 
+### UTM Tracking
+
+Developer Evangelists at GitLab are encouraged to add [UTMs for URL tagging and tracking](/handbook/marketing/developer-relations/developer-evangelism/#utms-for-url-tagging-and-tracking) to provide analytics and insights on how well content shares are performing. This method helps to verify [KPI metrics](/handbook/marketing/developer-relations/developer-evangelism/metrics/).
+
 ## Target Platforms
 
-Twitter and LinkedIn are the target platforms. Both platforms have different target audiences and content distribution.
+LinkedIn and Twitter are the target platforms. Both platforms have different target audiences and content distribution.
 
 > Wil Spillane in Slack:
 >
 > Tweets are more fleeting. I think a lot of folks choose to view tweets in reverse chronological order. For LinkedIn, the default is “top” posts and it’s not very visible to many to switch to “recent”. Also, LinkedIn shows posts with recent activity in the recent feed, not just the plain reverse chronological order that Twitter does. So in some ways, LinkedIn posts linger across feeds longer than a tweet. 
 
-### UTM Tracking
+Experimental platforms:
 
-Developer Evangelists at GitLab are encouraged to add [UTMs for URL tagging and tracking](/handbook/marketing/developer-relations/developer-evangelism/#utms-for-url-tagging-and-tracking) to provide analytics and insights on how well content shares are performing. This method helps to verify [KPI metrics](/handbook/marketing/developer-relations/developer-evangelism/metrics/).
+- Mastodon (requires an account on a specific instance in the Fediverse). [Evaluation issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/de-tmm-meta/-/issues/123).
+- Bluesky Social (invite only). [Evaluation issue](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/de-tmm-meta/-/issues/277).
 
 ### General Social Media Tips 
 
@@ -46,9 +51,14 @@ Developer Evangelists at GitLab are encouraged to add [UTMs for URL tagging and 
 - Too many emojis can hide key messages.
 - Use an appealing screenshot image or animated GIF to make people stop when scrolling. 
   - When attaching images to your posts, make sure to include an ALT text describing the content. 
-- Do not start with an `@` character on Twitter, this can be hidden as reply and hinder audience reach on Twitter. Escape it with a leading `.` or an emoji. Example: `.@gitlab 13.9 adds ...`.
+- Do not start with an `@` character on Twitter, this will be hidden as reply and hinder audience reach on Twitter. Escape it with a leading `.` or an emoji. Example: `.@gitlab 13.9 adds ...`.
 
 Follow the tips on [resizing images](/handbook/tools-and-tips/#resizing-images) and [creating GIFs](/handbook/product/making-gifs/) to learn more about image and video conversions for social media, [resizing GIFs](/handbook/product/making-gifs/#resizing-gifs), etc. 
+
+When tagging users, find a balance to not spam them with notifications. Instead, share the post URL in Slack and ask team members to amplify it.  
+
+- On LinkedIn, type `@` to start searching for companies, brand accounts and users to tag. Buffer requires you to copy the full company URL into the composer window (the LinkedIn API does not allow user tagging). 
+- On Twitter, Mastodon and Bluesky, you can use `@` to mention users. 
 
 #### Social Card Validators
 
@@ -60,25 +70,13 @@ Use the social card validators to verify the social preview of included URLs bef
 
 #### Fast Emojis Workflows
 
-[Raycast](https://www.raycast.com/) is a productivity app and can replace Spotlight on macOS. Install the [Emoji Search](https://www.raycast.com/FezVrasta/emoji) extension, open Raycast with your preferred shortcut (`option + space` by default) and start typing `emoji`, press `enter` and type the emoji name. 
+[Raycast](https://www.raycast.com/) is a productivity app and can replace Spotlight on macOS. Open Raycast with your preferred shortcut (`option + space` by default) and start typing `emoji`, press `enter` and type the emoji name. You can also assign a shortcut to the emoji view by opening the extensions settings. Open Raycast and type `extensions` and select `Extensions Raycast Settings` in the prompt. Search for `emoji` and assign a keyboard shortcur, for example `cmd 2`. 
+
+![Raycast extensions: Emoki keyboard shortcut](/images/handbook/marketing/developer-relations/developer-evangelism/social-media/raycast_extensions_settings_emojis_keyboard_shortcut.png)
 
 If you are using Alfred on macOS, you can use [Alfred's Powerpack with the emoji workflow](https://dev.to/dnsmichi/emojis-everywhere-supercharged-with-alfred-workflows-1o3n) to quickly access common emojis for tweets. 
 
-[Rocket](https://matthewpalmer.net/rocket/) is another alternative which provides an emoji search on macOS. 
-
-Alternatively, [Better Tweetdeck](https://better.tw/) as browser extension offers the same auto-complete mechanism known from GitLab and Slack: Start with a `:` and type the emoji name to start the live search. 
-
-### Twitter Tips
-
-#### Twitter: Allow direct messages from everyone
-
-On Twitter, you need to follow another user to allow them for sending you a direct message. Sometimes, invitation to events, wider community highlights or new opportunities may come from direct messages, and it is desirable to [enable them for everyone](https://help.twitter.com/en/using-twitter/direct-message-faqs). Users you do not follow yet are then able to send so-called "Message requests" that will show up in a separate section inside the direct messages view.
-
-Navigate to `Settings > Privacy and Safety > Direct Messages` to enable the `Allow message requests from everyone` checkbox. 
-
-New message requests will show up in your Twitter DMs on top, saying `Message requests. X people you may know.`. You can review the request without the users seeing a read notification, and accept the request to continue the conversation. 
-
-Note: be cautious of phishing, spam, and other undesirable messages arriving via Message requests. 
+[Rocket](https://matthewpalmer.net/rocket/) is another alternative which provides an emoji search on macOS.  
 
 ### LinkedIn Tips
 
@@ -86,7 +84,8 @@ Note: be cautious of phishing, spam, and other undesirable messages arriving via
 
 LinkedIn provides [groups](https://www.linkedin.com/help/linkedin/answer/a540824/linkedin-groups-membership-overview?lang=en) where users can join to follow a stream of community curated content. Identify groups that are relevant for thought leadership strategies and engaging with the wider community.
 
-- [DevOps](https://www.linkedin.com/groups/2825397/): 172,000 members as of 2022-12-09
+- [DevOps and SRE discussions](https://www.linkedin.com/groups/6585254/): 137,000 members as of 2023-07-04
+- [Artificial Intelligence (AI), Digital Transformation, Data Science, Automation, Machine Learning, and Analytics Group](https://www.linkedin.com/groups/4376214/): 101,000 members as of 2023-07-04
 
 Benefits: Increase reach of content shares (e.g. the [GitLab blog](https://about.gitlab.com/blog/)), attract new followers using the [creator mode profile](/handbook/marketing/developer-relations/developer-evangelism/social-media/#linkedin-use-creator-mode-profile). 
 
@@ -100,7 +99,7 @@ Example: The [GitLab CLI announcement post by Michael](https://www.linkedin.com/
 
 #### LinkedIn: Use Creator Mode Profile 
 
-LinkedIn defaults to connections between users, and everyone uses a different strategy to manage connections, i.e. only having met in person, etc. Sometimes users want to follow and engage with your content, without the direct need of a LinkedIn connection. This is a great strategy to share thought leadership content on LinkedIn too, for example [automated schedules](#scheduled-content) in the same way as Twitter. 
+LinkedIn defaults to connections between users, and everyone uses a different strategy to manage connections, i.e. only having met in person, etc. Sometimes users want to follow and engage with your content, without the direct need of a LinkedIn connection. This is a great strategy to share thought leadership content on LinkedIn too, for example [automated schedules](/handbook/marketing/developer-relations/developer-evangelism/social-media/#sharing-content) in the same way as Twitter. 
 
 LinkedIn provides the [Creator Mode](https://www.linkedin.com/help/linkedin/answer/a522537/creator-mode) for profiles which brings multiple benefits: 
 
@@ -108,6 +107,7 @@ LinkedIn provides the [Creator Mode](https://www.linkedin.com/help/linkedin/answ
 - Users can follow you as the default action.
   - Connections are an extra step in the dotted menu. This can also be helpful to reduce connection requests to review. 
   - Your followers will see your content in their feed and can engage. 
+  - Connection requests are automatically following you, even if you decline the request. 
 - Number of followers are displayed on the profile. Your profile might be shown to others as influencer profile and suggestion to follow.
 - Possibility to [add a URL to your profile introduction](https://www.linkedin.com/help/linkedin/answer/a727760) to drive traffic there. 
 - [Creator Analytics](https://www.linkedin.com/help/linkedin/answer/a701208)
@@ -117,6 +117,49 @@ LinkedIn provides the [Creator Mode](https://www.linkedin.com/help/linkedin/answ
 Example profile from [Michael Friedrich](https://www.linkedin.com/in/dnsmichi/) with Creator Mode enabled:
 
 ![LinkedIn Profile with creator mode enabled: Michael Friedrich](/images/handbook/marketing/developer-relations/developer-evangelism/social-media/linkedin_creator_mode_profile_michael_friedrich.png)
+
+#### LinkedIn: QR Code Connect on Mobile 
+
+When attending events, networking and connecting to new folks often is a thing. The LinkedIn mobile app provides a [QR code for your profile](https://www.linkedin.com/help/linkedin/answer/a525286/using-a-linkedin-qr-code-to-connect-with-members?lang=en), and an in-app feature to scan other QR codes. This makes in-person connections more efficient.
+
+1. Open the LinkedIn mobile app on iOS or Android.
+2. Tap into the search bar.
+
+![LinkedIn iOS app: Search bar](/images/handbook/marketing/developer-relations/developer-evangelism/social-media/linkedin_mobile_app_qr_code_connect_01_search_bar.png)
+
+3. This action brings up the QR code icon on the right side of the search bar.
+
+![LinkedIn iOS app: Search bar, QR Icon](/images/handbook/marketing/developer-relations/developer-evangelism/social-media/linkedin_mobile_app_qr_code_connect_02_search_bar_qr_icon.png)
+
+4. Tap on the QR code icon to bring up the QR code to share.
+
+![LinkedIn iOS app: QR Code view](/images/handbook/marketing/developer-relations/developer-evangelism/social-media/linkedin_mobile_app_qr_code_connect_03_qr_code_view.png)
+
+5. The QR Code view also has a tab to scan other QR codes. If you don't want to grant access to the camera to the LinkedIn app, you can also scan the QR code using your mobile camera and open the LinkedIn app from the scanned profile URL. 
+
+### Twitter Tips
+
+#### Twitter: Allow direct messages from everyone
+
+On Twitter, you need to follow another user to allow them for sending you a direct message. Sometimes, invitation to events, wider community highlights or new opportunities may come from direct messages, and it is desirable to [enable them for everyone](https://help.twitter.com/en/using-twitter/direct-message-faqs). Users you do not follow yet are then able to send so-called "Message requests" that will show up in a separate section inside the direct messages view.
+
+Navigate to `Settings > Privacy and Safety > Direct Messages` to enable the `Allow message requests from everyone` checkbox. 
+
+New message requests will show up in your Twitter DMs on top, saying `Message requests. X people you may know.`. You can review the request without the users seeing a read notification, and accept the request to continue the conversation. 
+
+Note: be cautious of phishing, spam, and other undesirable messages arriving via Message requests. 
+
+### Mastodon Tips
+
+1. Choose a Mastodon server with a trusted community and moderation, and create an account.
+    - [hachyderm.io](https://hachyderm.io): [@sugaroverflow](https://hachyderm.io/@sugaroverflow), [@john_cogs](https://hachyderm.io/@john_cogs)
+    - [crashloop.social](https://crashloop.social) (small community instance operated by #EveryoneCanContribute cafe members): [@dnsmichi](https://crashloop.social/@dnsmichi)
+1. Mobile apps
+    - Mastodon on [iOS](https://apps.apple.com/de/app/mastodon-for-iphone-and-ipad/id1571998974?l=en), [Android](https://play.google.com/store/apps/details?id=org.joinmastodon.android&hl=en&gl=US&pli=1)
+    - Metatext on [iOS](https://apps.apple.com/de/app/metatext/id1523996615?l=en)
+1. A Tweetdeck alternative is built into the Mastodon web interface.
+    - Navigate into [`Preference > Appearance`](https://docs.joinmastodon.org/user/preferences/) and select `enable advanced web interface`. 
+1. Mastodon does not track post impressions. **Always** use [UTM tracking with short URLs](/handbook/marketing/developer-relations/developer-evangelism/social-media/#utm-tracking) for GitLab owned content.     
 
 ### Polywork Tips
 
@@ -140,50 +183,45 @@ Please be kind on everyone's time, and provide full context and URLs to start as
 
 ## Content
 
-### Scheduled Content
+### Sharing Content 
 
-You can use [Tweetdeck for scheduling tweets](https://help.twitter.com/en/using-twitter/advanced-tweetdeck-features).
+The composer features of Twitter, Linked, Mastodon, etc. are available for posting live content. **Note** When sharing content that points to GitLab blog posts or the marketing website, always create short URLs with UTM tracking. 
 
-Alternatively, you can use [Buffer](/handbook/marketing/developer-relations/developer-evangelism/tools/#buffer) to create scheduling queues from browser extensions, mobile apps, and managed campaigns. 
+- [LinkedIn web app](https://www.linkedin.com/). Start a new post to find the clock icon in the lower-right corner to [schedule posts](https://www.linkedin.com/help/linkedin/answer/a1347212/schedule-posts?lang=en).
+- [Twitter web app](https://twitter.com/home). The composer also allows to send scheduled tweets.
+- Mastodon: Log into your instance and use the composer form. The [Mastodon scheduler](https://www.scheduler.mastodon.tools/) allows to schedule posts. 
+- Bluesky Social: Log into the app and post content.
 
-### Live Content
+Paid platforms provide more features, such as scheduling content shares with calendar views, threads on Twitter, live sharing across multiple social media platforms, etc. You can use [Buffer](/handbook/marketing/developer-relations/developer-evangelism/tools/#buffer) to create scheduling queues from browser extensions, mobile apps, and managed campaigns for LinkedIn, Twitter and Mastodon. In July 2023, Twitter announced a [new Tweetdeck feature exclusively for Twitter Blue subscribers](https://www.theverge.com/2023/7/3/23783092/twitter-tweetdeck-new-preview-force-legacy-apis) and deprecated the old free versions. 
 
-Buffer can be used to "live tweet" with the `Share now` functionality.
-
-#### Twitter
-
-- [Twitter web app](https://twitter.com/home)
-- [TweetDeck](https://tweetdeck.twitter.com/) with the [Better TweetDeck](https://better.tw/) extension for a column based view
-  - Auto-completed emojis, GIFs and media preview
-  - Add more columns with custom searches, list subscriptions and notifications
-
-The TweetDeck search allows for logical expressions:
-
-```
-gitlab OR gitlabcommit
-```
-
-#### LinkedIn
-
-- [Web app](https://www.linkedin.com/)
+_2023-07-01:_ Twitter [announced rate limits](https://techcrunch.com/2023/07/01/twitter-imposes-limits-on-the-number-of-tweets-users-can-read-amid-extended-outage/) for all users on the platform, and only authenticated users can see tweets. This introduces an accessibility problem: Website-embedded tweets and previews are visible, but additional engagement requires a Twitter account and login. According to Twitter, these limits are temporary. 
 
 ### Content Sources
 
 #### Newsletters
 
-- [Developer Avocados 🥑 Weekly](https://tinyletter.com/developeravocados) (DevRel)
+DevSecOps 
+
+- [CloudSecList](https://cloudseclist.com/) (Cloud, Security)
 - [Seven-Day DevOps](https://anaisurl.com) (DevOps, Cloud, SRE)
-- [o11y.news](https://o11y.news/) (Observability, Monitoring, SRE)
 - [Devops'ish](https://devopsish.com/) (DevOps, Cloud, Dev) (paused)
-- [The Cloud Security Reading List](https://cloudseclist.com/) (Cloud, DevSecOps)
 - [Last week in AWS](https://www.lastweekinaws.com/) (Cloud)
 - [The New Stack](https://thenewstack.io/newsletter-archive/) (Cloud Native, DevOps)
-- [Heavybit](https://www.heavybit.com/subscribe/) (Monitoring/Observability)
-- [Cassidy Williams - cassidoo](https://cassidoo.co/newsletter/) (Dev)
 - [allesnurgegloud.com](https://allesnurgecloud.com/) (Cloud, German)
 - [opsindev.news](https://opsindev.news/) (Dev, DevOps, SRE, day-2-ops - @dnsmichi)
-- [eCHO news](https://cilium.io/newsletter/) (Cloud, Network, Observability, eBPF)
 - [GitLab Community newsletter](https://about.gitlab.com/community/newsletter/) (GitLab, DevOps, Cloud)
+
+Observability
+
+- [o11y.news](https://o11y.news/) (Observability, Monitoring, SRE)
+- [eCHO news](https://cilium.io/newsletter/) (Cloud, Network, Observability, eBPF)
+- [Monitoring Weekly](https://monitoring.love/) (Monitoring/Observability) 
+- [Heavybit](https://www.heavybit.com/subscribe/) (Monitoring/Observability)
+
+General topics 
+
+- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) (Big Tech and high-growth startups - paid subscription required)
+- [Developer Avocados 🥑 Weekly](https://tinyletter.com/developeravocados) (DevRel)
 
 #### Community platforms 
 
@@ -191,6 +229,7 @@ gitlab OR gitlabcommit
   - Search example: [Rust](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=rust&sort=byDate&type=story)
   - Slack: [#hn-mention](https://gitlab.slack.com/archives/CBL93C22D) (internal)
 - Learning websites
+  - [o11y.love - learn Obsrvability](https://o11y.love/) (@dnsmichi maintainer)
   - [learnk8s.io](https://learnk8s.io/) (Kubernetes, email subscription option)
   - [100daysofkubernetes.io](https://100daysofkubernetes.io/) (Kubernetes)
 - Blogs & News
@@ -282,7 +321,7 @@ The following tips evolved from @dnsmichi experimenting with thought leadership 
 - Repurpose everyone's content and use it as a way to learn and educate. 
 - Subscribe to the [newsletters](/handbook/marketing/developer-relations/developer-evangelism/social-media/#content-sources) and extract your focus topics and content.
 - Do not immediately retweet/reshare tweets or content you see in your social streams. Collect them in a GitLab issue, Markdown file in Git, etc. 
-  - Evaluate potential trending topics and prioritize the [scheduled tweets queue](/handbook/marketing/developer-relations/developer-evangelism/social-media/#scheduled-content).
+  - Evaluate potential trending topics and prioritize the [scheduled tweets queue](/handbook/marketing/developer-relations/developer-evangelism/social-media/#sharing-content).
 - Collect all blog articles, tweets, and tools for daily use and compile them into a monthly blog post or newsletter issue.
   - Create 1-2 sentences sharing your thoughts on the article, its content, what you liked, what you see as a emerging trend, etc. 
   - Publish the newsletter / blog post and tag all folks who contributed to your success in a Twitter thread / LinkedIn post. This shows appreciation and helps with engagement and reshares. Example: Dotan appreciated his talk being shared, and [reshared the newsletter post](https://www.linkedin.com/posts/horovits_how-much-observability-is-enough-activity-6935487128235569152-beqn/).
