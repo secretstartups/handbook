@@ -57,8 +57,7 @@ following guidelines as necessary:
     - Verify the report yourself
 - When a report contains externally-hosted static content for reproduction (for example some HTML file triggering a CSRF or a vulnerability exploiting a `postMessage` issue), follow the instructions in [this project](https://gitlab.com/gitlab-com/gl-security/appsec/vuln-repro-static-pages) to re-host it internally
 - Potential, non-bounty outcomes:
-    - Report is out-of-scope. If actionable, issues may still be created, but
-    further process may not be followed see [violating the rules](#if-a-report-violates-the-rules-of-engagement).
+    - Report is out-of-scope. If actionable, issues may still be created.
     - Report is a `~"type::feature"` as defined above and would not need to be
     made confidential or scheduled for remediation. An issue can be created, or
     requested that the reporter creates one if desired, but the report can be
@@ -278,10 +277,6 @@ If a report is unclear, or the reviewer has any questions about the validity of 
 
 One the report has been clarified, follow the "regular flow" described above.
 
-#### If a Report Violates the Rules of Engagement
-
-If a report violates the rules of GitLab's bug bounty program use good judgement in deciding how to proceed. For instance, if a researcher has tested a vulnerability against GitLab production systems (a violation), but the vulnerability has not placed GitLab user data at risk, notify them that they have violated the terms of the bounty program but you are still taking the report seriously and will treat it normally. If the researcher has acted in a dangerous or malicious way, inform them that they have violated the terms of the bug bounty program and will not receive credit. Then continue with the "regular flow" as you normally would.
-
 #### Breakdown of Effective Communication
 
 Sometimes there will be a breakdown in effective communication with a reporter. While this could happen for multiple reasons, it is important that further communication follows [GitLab's Guidelines for Effective and Responsible Communication](/handbook/communication/#effective--responsible-communication-guidelines). If communication with a reporter has gotten to this point, the following steps should be taken to help meet this goal.
@@ -293,9 +288,9 @@ Sometimes there will be a breakdown in effective communication with a reporter. 
 
 If the situation leads to a code of conduct violation, follow the process for addressing Code of Conduct violations.
 
-#### Addressing Code of Conduct violations
+#### Addressing Rules of Engagement or Code of Conduct violations
 
-When behavior violates HackerOne's [Code of Conduct](https://www.hackerone.com/policies/code-of-conduct) we use the Bug Bounty Council to discuss, agree on, and document our response. Add a comment to the current Bug Bounty Council Issue using the template found in the issue description.
+When behavior violates our [Rules of Engagement](https://hackerone.com/gitlab?type=team#user-content-rules-of-engagement-testing-and-proof-of-concepts) or HackerOne's [Code of Conduct](https://www.hackerone.com/policies/code-of-conduct) we use the Bug Bounty Council to discuss, agree on, and document our response. Add a comment to the current Bug Bounty Council Issue using the template found in the issue description.
 
 In line with our Transparency value, we should try to explain to the researcher why we've taken action and what those actions were. However in some instances (e.g. program bans) it may be appropriate to let HackerOne handle all communication, to keep our team members safe from potential abuse or retribution.
 
