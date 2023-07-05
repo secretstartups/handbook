@@ -74,34 +74,6 @@ Guidelines should be included in your team's [Single Source of Truth (SSoT)](/ha
 To minimize miscommunications that can stem from cultural diversity, contextual interpretations, or various levels of software experience, GitLab maintains a handbook page about [internal communication guidelines](https://about.gitlab.com/handbook/communication/). These rules, instructions, and examples ensure that our internationally distributed workforce is using the same tools in the same way, and handing off results to one another without the risk of important information getting “lost in translation.”
 {{% /details %}}
 
-
-## Low-context communication
-
-[Low-context communication](https://about.gitlab.com/company/culture/all-remote/effective-communication/) assumes that the person you're communicating with has little or no context about the topic at hand. This means the person delivering the information is responsible for providing everything the recipient will need to understand the situation and make an informed response—such as SSoT links, definitions, relevant team members, or updates. This empowers individuals to make decisions and take action without needing to ask unnecessary follow-up questions that could have been avoided.
-
-Assuming that recipients of your communication do not know anything about the topic at hand and wish to learn as much as possible in as little time as possible, all low-context communication should be:
-- Explicit, not implicit
-- Direct, not indirect
-- Simple, not complex
-- Comprehensive, not narrow.
-
-A critical principle of low-context communication is to [Say Why, not just What](/handbook/values/#transparency). TeamOps organizations recognize that up-front transparency is a foundational element to team member autonomy, transparent documentation, and business continuity. This requires announcements, updates, and decisions to be shared not only with _**what**_ the change is, but also [_**why**_](/handbook/values/#say-why-not-just-what) it's being made. While saying "why" does not mean justifying every decision against other alternatives, it does require a leader to [articulate their reasoning](/handbook/values/#articulate-when-you-change-your-mind). This prevents speculation, contributes to institutional memory, and [builds trust](/handbook/leadership/building-trust/), which is one of the traits of being a [great remote manager](https://about.gitlab.com/company/culture/all-remote/being-a-great-remote-manager/).
-
-Also note that each business function may have unique expectations on low-context communication (e.g. what classifies as low-context in sales may not in engineering). If decisions within a function appear to be ill-informed, audit the expectations on context first.
-
-{{% details summary="Examples of low-context communication" %}}
-**Example 1:** [Making a company-wide announcement that meaningfully changes a policy](https://about.gitlab.com/handbook/communication/#how-to-make-a-company-wide-announcement)
-
-At GitLab, a department leader will typically send out a [company-wide message](https://about.gitlab.com/handbook/communication/#how-to-make-a-company-wide-announcement) to a Slack channel that includes every team member. Crucially, this message does not include _only_ the news, but a link to a GitLab merge request _detailing what changed_ ([diffs](https://docs.gitlab.com/ee/development/merge_request_concepts/diffs/)).
-
-The [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/104440) which added the very copy you're reading now is an example of low-context communication in practice. Darren M., the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for the change, also shares a link to the handbook and/or project page ("the news"). The merge request includes context on what's changing, and details on where to ask questions and contribute new iterations (including an optional [Ask Me Anything (AMA)](https://about.gitlab.com/handbook/communication/ask-me-anything/) session). This gives any team member enough context to share feedback and apply these changes to their own teams in an informed way.
-
-**Example 2:** [Updating GitLab's recruitment privacy policy](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107652)
-
-GitLab's Recruitment Privacy Policy was updated. Rather than updating the policy behind closed doors, the [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107652)  outlines the _why_. It provides context into how the change enables cross-functional groups to work more efficiently. The explanation of _why_ enables more thoughtful conversation around a potentially polarizing topic (privacy).
-{{% /details %}}
-
-
 ## Shared values
 
 The reality of your teams’ day-to-day life at work – or team member experience – is influenced by more than company operations; it’s manifested as team behaviors that can be observed, recorded, and quantified. These behaviors are best designed and managed in the context of a shared set of organizational values, which are one of the prerequisites for TeamOps. Without explicit cultural values, there is no group identity or basis for group cohesiveness.
