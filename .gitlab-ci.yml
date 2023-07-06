@@ -22,6 +22,7 @@ stages:
 
 include:
   - template: Security/Secret-Detection.gitlab-ci.yml
+  - template: Code-Quality.gitlab-ci.yml
 
 default:
   interruptible: true # All jobs are interruptible by default
@@ -67,7 +68,8 @@ variables:
   script:
     - apk update
     - apk upgrade
-    - apk add go npm
+    - apk add go npm yq curl coreutils
+    - ./scripts/update-counts.sh
     - ./scripts/sync-data.sh
     - npm ci
     - hugo
@@ -95,6 +97,7 @@ pages-review:
     on_stop: stop-pages-review
   variables:
     HUGO_ENVIRONMENT: review
+    RUN_TYPE: MR
 
 stop-pages-review:
   image: busybox
