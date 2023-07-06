@@ -37,6 +37,7 @@ legacy_handbook_count () {
 push_to_main () {
     git config --global user.email "${GIT_USER_EMAIL:-$CI_EMAIL}"
     git config --global user.name "${GIT_USER_NAME:-$CI_USERNAME}"
+    git add data/about-count.csv data/about-count.csv
     git commit -m "Update handbook word and page counts"
     git push origin "${CI_COMMIT_BRANCH}"
 }
