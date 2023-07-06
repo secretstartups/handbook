@@ -194,8 +194,8 @@ We realize that if you are going on adoptive parental leave, a 30 day notice per
 Your manager and the Absence Management team will be notified after you submit your leave. The Absence Management team will send you an e-mail within 48 hours (whenever possible) confirming that they've been notified of your Parental Leave dates, and provide you wtih additional follow-up items (if applicable).
 
 **A few things to note:**
-* Parental leave includes public holidays and scheduled Family and Friends Days that occur within the start and end date of parental leave, but some countries allow team members to rollover holidays that occured while on Parental Leave. Be sure to review your country's policy on this when planning the dates of your leave.
-    * If eligible to roll over these holidays, and you'd like to use them to extend your time away, please enter this as `Public Holiday` in Time Off by Deel and add a note indicating "rolling over holidays which occured while on parental leave".
+* Parental leave includes public holidays and scheduled Family and Friends Days that occur within the start and end date of parental leave, but some countries allow team members to rollover public holidays that occured while on Parental Leave. Be sure to review your country's policy on this when planning the dates of your leave.
+    * If eligible to roll over public holidays, and you'd like to use them to extend your time away, please enter this as `Public Holiday` in Time Off by Deel and add a note indicating "rolling over holidays which occured while on parental leave".
 * Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your [country's leave policy](#entity-benefits).
 
 ### Taking PTO After Taking Parental Leave
@@ -310,22 +310,6 @@ Parents at GitLab who are reentering work following parental leave are encourage
 Managers of soon to be parents should check out this [Parental Leave Manager Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#manager-tool-kit) for best practices in supporting your team members as they prepare for and return from Parental Leave.
 
 If you're interested in learning about how other GitLab team members approach parenthood, take a look at [the parenting resources wiki page](https://gitlab.com/gitlab-com/gitlab-team-member-resources/wikis/parenting) and [#intheparenthood](https://gitlab.slack.com/messages/CHADS8G12/) on Slack.
-
-
-### Administration of Parental Leave Requests
-
-For the Absence Management team:
-
-  * Time Off by Deel will notify the Absence Management Team of any upcoming parental leave.
-  * Log and monitor upcoming parental leave in the "Leave Log" Google sheet on the drive.
-  * Notify the team member that the parental leave request was received by sending the confirmation e-mail template (only send this e-mail if the team member is starting their parental leave. Team members who are taking their leave intermittently or changing the dates of their original leave request do not need to receive the confirmation e-mail again).
-  * Notify payroll - add the start date and end date on the payroll changes file ("Payroll Changes" sheet for team members in the US, "Canada Payroll Changes" sheet for team members in Canada and "Non-US Payroll Changes" sheet for everyone else). Ensure the entry is under the appropriate pay cycle date.
-  * Time Off by Deel will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually. 
-  * Check local statutory requirements and if applicable, arrange any paperwork and liaise with appropriate parties (such as the PEO and payroll team) to initiate the parental leave.
-  * 3 days after the End of Parental Leave date, BambooHR will send a notification to the Absence Management team. Check if the team member has confirmed their return via email. If not, send the Return to Work e-mail to the team member and manager.
-  * Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.
-  * If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
-  * If the dates in Time Off by Deel change, update the payroll changes file and the BambooHR status accordingly.
 
 ## Team Member Relief Program
 
