@@ -136,11 +136,11 @@ and generates an invoice if seat usage has increased over the current maximum.
 The L&R team handles a lot of different types of purchases, and also assists with troubleshooting
 one-off or recurring **add-ons**. While GitLab Self-Managed predominantly consists of just a
 subscription purchase, GitLab.com provides a variety of add-ons for purchase including
-**Units of Compute** and **Storage and Transfer**.
+**Compute Minutes** and **Storage and Transfer**.
 
-#### Units of Compute
+#### Compute Minutes
 
-Formerly known as "CI/CD Minutes" or "Compute Credits", Units of Compute allow for usage of
+Formerly known as "CI/CD Minutes" or "Compute Credits", Compute Minutes allow for usage of
 GitLab-managed Runners (Shared Runners) on GitLab.com (SaaS). Different tiers receive units
 as part of their subscription, which refresh every month:
 
@@ -357,7 +357,7 @@ The queue should not be used for the following:
 
 |Term|Description|
 |--|--|
-|Add-on|An optional extra that can be purchased to increase the limits of what is available in GitLab. Common examples of this are a `Seat add-on` where additional seats are purchased during the subscription term, or an additional `Storage` or `Units of Compute` purchase (on SaaS only).|
+|Add-on|An optional extra that can be purchased to increase the limits of what is available in GitLab. Common examples of this are a `Seat add-on` where additional seats are purchased during the subscription term, or an additional `Storage` or `Compute Minutes` purchase (on SaaS only).|
 |[Cloud Licensing](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/) / Cloud Activation *(SM Only)* | The preferred method of activating a self managed subscription where [subscription data is synchronized daily](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-data-synchronization) from the customer instance to Customers.gitlab.com.  Unlike a License File, a cloud activation code does not need to be re-applied when the subscription is modified or renewed.|
 |Customers Portal / CustomersDOT / customers.gitlab.com|Available at [customers.gitlab.com](https://customers.gitlab.com), the customers portal allows customers to view, manage and purchase subscriptions. L&R Engineers can generate, modify and send subscription information from here.|
 |[GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/)|Provides the benefits of SaaS (fully managed maintenance and operations) with infrastructure-level isolation while the customer has access to Administrator account on their instance.|

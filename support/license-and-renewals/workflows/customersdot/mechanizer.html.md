@@ -29,22 +29,22 @@ In the app you will have the option to select from the following request types:
 
 **Your GitLab Username** will be automatically added to the form.
 
-### Set units of compute to namespace
+### Set compute minutes to namespace
 
-Allows setting additional units of compute to a customer namespace to the value specified in the `Extra minutes` field.
+Allows setting additional compute minutes to a customer namespace to the value specified in the `Extra minutes` field.
 
-> **WARNING:** Additional units of compute added this way will last **indefinitely** until used. If the request is to provide "extra units of compute" during the trial period only, use the [Manage GitLab Plan and Trials option](#manage-gitlabcom-plan-and-trials) which will change the *usage quota* to match a paid plan quota for the duration of the trial.
+> **WARNING:** Additional compute minutes added this way will last **indefinitely** until used. If the request is to provide "extra compute minutes" during the trial period only, use the [Manage GitLab Plan and Trials option](#manage-gitlabcom-plan-and-trials) which will change the *usage quota* to match a paid plan quota for the duration of the trial.
 
 The form has two required fields:
 
 - **Namespace**: The customer namespace as it appears in the URL.
-- **Extra minutes**: The value of units of compute to add. (_**Note:** This will update the 'Additional Minutes' value._ )
+- **Extra minutes**: The value of compute minutes to add. (_**Note:** This will update the 'Additional Minutes' value._ )
 
-### Enable units of compute
+### Enable compute minutes
 
 _Currently labeled: `Enable CI Minutes` in the ZD Mechanizer App._
 
-Remove the restrictions for using units of compute for groups who are part of a sales assisted trial.
+Remove the restrictions for using compute minutes for groups who are part of a sales assisted trial.
 
 - **Namespace**: The customer namespace as it appears in the URL.
 
