@@ -13,7 +13,7 @@ description: "Gitlab Dedicated Support - Working with logs"
 
 # Working with logs
 
-Support can access GitLab Dedicated tenant logs through our [OpenSearch](https://opensearch.org/) infrastructure. See [Accessings logs](#accessing-logs) to get started. 
+Support can access GitLab Dedicated tenant logs through our [OpenSearch](https://opensearch.org/) infrastructure. See [Accessing logs](#accessing-logs) to get started. 
 
 [OpenSearch](https://opensearch.org/) can be used like [Kibana](./kibana.html) but read about [searching logs](#searching-logs) for information on the differences.
 
@@ -59,17 +59,22 @@ GitLab Dedicated customers can request [access to application logs](https://docs
 
 Since GitLab Dedicated uses [Cloud Native Hybrid reference architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative), searching logs on OpenSearch is a bit different from [Kibana](./kibana.html).
 
-- Terms can be freely typed in the search bar
+- In OpenSearch, terms can be freely typed in the search bar.
+  - By comparison, freely typing in the search bar is [discouraged](kibana.html#fields-and-filters) in Kibana.
 - Fields can also be used as filters, similarly to [Kibana](./kibana.html).
 
 ### Fields and Filters
+
+The **fields** and **filters** available in OpenSearch can help you to find log entries more easily. 
+
+#### Fields
 
 General fields:
 
 - `host:` The GitLab host of the log. It can be `<tenant name>-gitaly-*`  or  `<tenant name>-consul-2`, etc.
 - `referrer:` holds the project path. `https://tenant.gitlab-dedicated.com/example-group/test123`
 - `message:` is the message that would be seen in the logs of a self-managed instance.  `xxx.xxx.xxx.xxx - - [08/Jul/2020:13:24:43 +0000] "GET /assets/webpack/commons-pages.projects.show-pages.projects.tree.show.21909065.chunk.js HTTP/1.1" 200 9316 "https://tenant.gitlab-dedicated.com/example-group/test123" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" 1343 0.001 [default-gitlab-webservice-default-8181] [] xxx.xxx.xxx.xxx:8181 9309 0.000 200 fe130eac78314cwf352g3762397572cb`
-- `kubernetes.labels.app:` used to filter Kubernetes pods. `nginx-ingress`, `webservice`, etc.
+
 
 Gitaly related fields:
 
@@ -82,3 +87,11 @@ SAML related fields:
 - `path: /users/auth/saml/callback`
 - `controller: OmniauthCallbacksController`
 - `location: https://tenant.gitlab-dedicated.com/`
+
+#### Filters
+
+- `kubernetes.labels.app:` used to filter Kubernetes pods. `nginx-ingress`, `webservice`, etc.
+
+Use this OpenSearch filter to find logs related to the GitLab application:
+
+- `kubernetes.labels.release: gitlab` 
