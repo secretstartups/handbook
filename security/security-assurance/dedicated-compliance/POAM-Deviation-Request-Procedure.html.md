@@ -109,7 +109,9 @@ Multiple related vulnerability tracking issues can be grouped in a single DR if 
 - All detected vulnerabilities covered by the DR have their issues linked to the DR as related issues
 
 ### Closing Vulnerability Issues and DR Issues
-Deviation requests are often not permanent, as patches are eventually made available by vendors or deployed according to risk adjusted SLAs. Patches can also be released in the middle of the DR approval process. If a patch has been released and deployed, please provide evidence in the deviation request issue comments indicating that the vulnerability is fixed in production. Once provided, the DR issue can be closed. Acceptable evidence can include:
+
+#### Typical issue closure timeline
+Deviation requests are often not permanent, as patches are eventually made available by vendors or deployed according to risk adjusted SLAs. Patches can also be released in the middle of the DR approval process. If a patch has been released and deployed, please provide evidence in the deviation request issue comments indicating that the vulnerability is fixed in production. Once provided, the issue tracking the security finding can be closed. Acceptable evidence can include:
 - Updated vulnerability scans showing the vulnerability is no longer present on systems
 - Updated container scan results showing a vulnerability is not longer present in a container image, and evidence that update container has been deployed to production
 - A Merge Request (merged) showing that the patch has been applied to the codebase where it was detected, and evidence that the updated versions has been released to production
@@ -118,7 +120,11 @@ Deviation requests are often not permanent, as patches are eventually made avail
 
 Once the vulnerability is remediated, apply the label `FedRAMP::DR Status::Vuln Remediated` to both the vulnerability issue and the DR issue.
 
-Issues with the label `Vulnerability::Vendor Package::Will Not Be Fixed` may be closed until a vendor patch is made available. 
+#### Situations where issues can be closed without remediation
+Some types of DR naturally mean that a fix will not be made available (due to vendor analysis of impact) or due to a false positive detection.
+In specific situations, to reduce the burden on development groups of handling issues where no further action will be needed from them, the issue may be closed. These situations are:
+ - Software vendor has assessed the vulnerability impact, and will not be releasing a security update. These issues have the label `Vulnerability::Vendor Package::Will Not Be Fixed`, and may be closed.
+ - False positive detections. Once the DR has been opened providing evidence showing a detection is a false positive and does not impact the project, the issue can be closed.
 
 ## Exceptions
 There are no exceptions allowed to this procedure. 
