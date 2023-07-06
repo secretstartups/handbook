@@ -26,28 +26,28 @@ This [SQS 2023 Agenda sheet](https://docs.google.com/spreadsheets/d/1f64fZCKbrz7
 ## Sales Quick Start Remote Agenda:
 
 
-### SQS 33 - May 2023
+### SQS 34 - August 2023
 
 * Workshop times quoted are United States Eastern Standard Time (Atlanta, Georgia) (UTC -4)
 
 | DATE | START TIME | END TIME | ACTIVITY | SME ASSIGNED |
 | ------ | ------ | ------ | ------ | ------ |
-| May 11, 2023 | 11:00a ET | 11:50a ET | SQS Welcome Call | Field Enablement  |
-| May 15, 2023 | 10:30a ET | 11:50a ET | Essential Questions Exercise | Field Enablement  |
-| May 16, 2023 | 10:00a ET | 11:20a ET | Value Card Exercise | Field Enablement  |
-| May 17, 2023 | 10:00a ET | 11:20a ET | Discovery Question Exercise | Field Enablement  |
-| May 18, 2023 | 10:30a ET | 11:50a ET | Differentiator Exercise | Field Enablement  |
-| May 19, 2023 | 10:00a ET | 11:20a ET | MEDDPPICC & Breakout Call Prep |  Field Enablement |
-| May 22, 2023 | 10:30a ET | 11:00a ET | Field Security | Field Security Team  |
-| May 22, 2023 | 11:00a ET | 11:50a ET | Intro to Competition |  Competitive Intelligence  |
-| May 23, 2023 | 11:00a ET | 11:50a ET | Discovery Call 1 |  Mock Customers  |
-| May 23, 2023 | 12:00p ET | 12:50p ET | Better Together: GitLab Alliances |  Alliances Team  |
-| May 24, 2023 | 10:00a ET | 10:50a ET | Discovery Call 2 |  Mock Customers |
-| May 24, 2023 | 11:00a ET | 11:50a ET  | Operational Excellence: Legal / Sales Ops | Legal & Sales Ops Team  |
-| May 25, 2023 | 10:00a ET | 10:50a ET | Partners In Closing: Intro to Channel Sales |  Channel Team  |
-| May 25, 2023 | 11:00a ET | 11:50a ET  | Customer Success Manager Overview | Customer Success Team  |
-| May 30, 2023 | 10:00a ET | 10:50a ET | Discovery Call 3 |  Mock Customers |
-| May 30, 2023 | 11:00a ET | 11:50a ET  | Customer Focus: Professional Services | Professioanl Services Team   |
+| Aug 11, 2023 | 10:30a ET | 11:20a ET | Welcome Call | Field Enablement  |
+| Aug 21, 2023 | 10:30a ET | 11:50a ET | Essential Questions Exercise | Field Enablement  |
+| Aug 22, 2023 | 10:30a ET | 11:50a ET | Value Card Exercise | Field Enablement   |
+| Aug 23, 2023 | 10:30a ET | 11:50a ET | Discovery Question Exercise | Field Enablement   |
+| Aug 24, 2023 | 10:30a ET | 11:50a ET | Differentiator Exercise | Field Enablement   |
+| Aug 25, 2023 | 10:30a ET | 11:50a ET | MEDDPPICC & Breakout Call Prep | Field Enablement   |
+| Aug 28, 2023 | 10:30a ET | 11:00a ET | Field Security | Field Security Team   |
+| Aug 28, 2023 | 11:00a ET | 11:50a ET | Intro to Competition |  Competitive Intelligence   |
+| Aug 29, 2023 | 10:30a ET | 11:20a ET | Better Together: GitLab Alliances |   Alliances Team  |
+| Aug 29, 2023 | 11:30a ET | 12:20p ET | Discovery Call 1 | Mock Customers  |
+| Aug 30, 2023 | 10:30a ET | 11:20p ET | Partners In Closing: Intro to Channel Sales |  Channel Team    |
+| Aug 30, 2023 | 11:30a ET | 12:20p ET | Operational Excellence: Legal / Sales Ops | Sales Ops Team  |
+| Aug 31, 2023 | 10:00a ET | 10:50a ET  | Customer Success Manager Overview |  Customer Success Team  |
+| Aug 31, 2023 | 11:00a ET | 11:50a ET | Discovery Call 2 | Mock Customers |
+| Sep 1, 2023 | 10:30a ET | 11:20a ET | Customer Focus: Professional Services | Professional Services Team   |
+| Sep 1, 2023 | 11:30a ET | 12:20p ET | Discovery Call 3 | Mock Customers |
 
 
 
