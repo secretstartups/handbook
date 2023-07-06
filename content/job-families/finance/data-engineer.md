@@ -59,7 +59,7 @@ The Data Engineer (Intermediate) is a [grade 6](https://about.gitlab.com/handboo
 - Constantly improve product quality, security, and performance
 - Desire to continually keep up with advancements in data engineering practices
 - Catch bugs and style issues in code reviews
-- Ship small features independently
+- Ship medium features independently
 - Ability to use GitLab
 
 ### Data Engineer (Intermediate) Responsibilities
@@ -88,7 +88,7 @@ The Senior Data Engineer is a [grade 7](https://about.gitlab.com/handbook/total-
 - Understand and implement data engineering best practices
 - Improve, manage, and teach standards for code maintainability and performance in code submitted and reviewed
 - Create smaller merge requests and issues by collaborating with stakeholders to reduce scope and focus on iteration
-- Ship medium to large features independently
+- Ship large features independently
 - Generate architecture recommendations and the ability to implement them
 - Great communication: Regularly achieve consensus amongst teams
 - Perform technical interviews
