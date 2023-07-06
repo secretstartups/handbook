@@ -104,7 +104,7 @@ To meet [its goal](#goals) of strengthening the product and its training, a deep
 
 The first and most important artifact it'll produce is the link to its recording, made easily accessible.
 
-If it has a [related modules](#earn-the-expert-badge-by-completing-any-of-these-modules), another will be the merge request creating a step to watch the recording.
+If it has a [related module](#earn-the-expert-badge-by-completing-any-of-these-modules), another artifact will be the merge request creating a step to watch the recording.
 
 At the end of the deep dive, the resulting notes should be moved from the working Google doc to a more permanent location. This will take the form of issues and/or merge requests.  Here are some examples of what they can look like:
 - Issues to create a new feature or file a bug report
