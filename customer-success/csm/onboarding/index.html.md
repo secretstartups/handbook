@@ -43,8 +43,6 @@ These emails will automatically be sent to any customer contacts who are labeled
 
 Review email copy [here](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) (internal only).
 
-Please review this course on [Introducing the Customer Success Manager](https://gitlab.edcast.com/insights/ECL-c2cdd326-7f29-43f2-9a11-484b8dc6584f). 
-
 ### Kickoff call
 
 ⏰ [**Target time:** within 14 days of customer start date](#time-to-engage)
@@ -55,13 +53,13 @@ The goal of the kickoff call is to align on desired business outcomes, key upcom
 
 CSMs select from the following templates for their kick off call, depending on the customer handover:
 
-1. If a strategy roadmap was completed with the SAs, use this [kickoff slide deck](https://docs.google.com/presentation/d/1LShY62EHCZLNjS0Z6MBzTsYF_GllNwH7Rbw3_PJQUOo/edit#slide=id.g129f8c95ce4_0_569) (internal only) Please [click here](https://youtu.be/iYfs5Le053Y) for a video overview of how to best utilize the deck. 
+1. If a _strategy roadmap_ was completed with the SAs, use this [kickoff slide deck](https://docs.google.com/presentation/d/1LShY62EHCZLNjS0Z6MBzTsYF_GllNwH7Rbw3_PJQUOo/edit#slide=id.g129f8c95ce4_0_569) (internal only). Please [click here](https://youtu.be/iYfs5Le053Y) for a video overview of how to best utilize the deck (private video on GitLab Unfiltered). 
 2. If not, use this [kickoff slide deck](https://docs.google.com/presentation/d/1fsIFLcecs6nQxR7g5MHDTT71tx3b1aW9b3d2RX6ZOLk/edit#slide=id.g129f8c95ce4_0_569) (internal only), and is available as part of the [onboarding CTA](#cta-content-and-process).
 
 The CSM should review and revise this deck in advance of the kickoff call based on what they already know about the customer and what they are still looking to understand. 
 
 There are 4 primary questions you always want to have answered coming out of a kickoff call:
-1.` Why did you buy GitLab?` Ideally you've already answered this question in your handoff from pre-sales, so if that's the case, reframe the question to validate that you understand they purchased GitLab for X reason and confirm your understanding of what challenges the customer is looking to solve.
+1. ` Why did you buy GitLab?` Ideally you've already answered this question in your handoff from pre-sales, so if that's the case, reframe the question to validate that you understand they purchased GitLab for X reason and confirm your understanding of what challenges the customer is looking to solve.
 1. `What other tools are you using?` Understanding what the tool landscape is for the customer is crucial in being able to help them adopt GitLab in relation to their desired use cases. Try to write down their tool for each of the following use cases: SCM, CI, CD, Package, Security, Monitoring, Agile
 1. `What are your business goals?` After they achieve their immediate goal of whatever they want to use GitLab for, what's next for them?
 1. `Are there other stakeholders to involve?` Is there anyone else who would benefit from having business discussions with GitLab? CSMs should always have at least 2 regular contacts they speak with, ideally in line with our [target personas](/handbook/customer-success/csm/engagement/#customer-personas).
@@ -72,7 +70,7 @@ One of the most important action items coming out of the kickoff call is [establ
 
 #### Major Enterprise CSM Journey Spreadsheet
 
-It is recommended for Major Enterprise CSMs to use a [Customer Journey Spreadsheet](https://docs.google.com/spreadsheets/d/1H6gGlsCAZoHKy27kPhJfZE8v4039_lI6pW9nif-um-A) to identify the customer's entry point and better identify the enablement needed. The spreadsheet aims to cover the multiple onboarding steps we see as CSMs, from the infrastructure build review, to the required migration steps and expansion to DevSecOps. Scale and Growth CSMs are not recommended to create and maintain these spreadsheets.
+It is recommended for Major Enterprise CSMs to use a [Customer Journey Spreadsheet](https://docs.google.com/spreadsheets/d/1H6gGlsCAZoHKy27kPhJfZE8v4039_lI6pW9nif-um-A) (internal only) to identify the customer's entry point and better identify the enablement needed. The spreadsheet aims to cover the multiple onboarding steps we see as CSMs, from the infrastructure build review, to the required migration steps and expansion to DevSecOps. Scale and Growth CSMs are not recommended to create and maintain these spreadsheets.
 
 ### Success plan development (document key attributes)
 
@@ -102,7 +100,7 @@ By accomplishing the following tasks, you'll know you have completed onboarding:
    - [ ] Asks about the customer's DevSecOps toolstack
    - [ ] Asks about any additional customer stakeholders
    - [ ] Advises the customer on how to get [support](/support/)
-- [ ] Complete initial draft of success plan, with the objective being their primary use case with the relevant [Stage Enablement playbook](/handbook/customer-success/csm/stage-enablement-and-expansion/)
+- [ ] Complete initial draft of success plan, with the objective being their primary use case with the relevant [Stage Enablement playbook](/handbook/customer-success/playbooks/)
 - [ ] Complete second call (first cadence), where the CSM:
    - [ ] Discusses how they will work with the customer towards their goals, collecting metrics for success, milestones/timelines, and establishing next steps
    - [ ] Discusses enablement opportunities (e.g. [workshops](/handbook/customer-success/csm/workshops/), Professional Services, GitLab documentation, etc.)
@@ -201,14 +199,15 @@ Given the importance of onboarding to the customer's journey and our ability to 
 The details around why onboarding is delayed should be documented in the following places:
 
 - Onboarding CTA comments field
-- Update timeline entry, with a [revised CSM Sentiment](/handbook/customer-success/csm/health-score-triage/#health-assessment-guidelines)
+- Update timeline entry, with a [revised CSM Sentiment](/handbook/customer-success/csm/health-score-triage/#tracking-customer-health) 
 
 ### Risk and triage
 
-If the delay is caused by the customer (e.g. disinterest, lack of engagement/"going dark") then the [account has risk](/handbook/customer-success/csm/health-score-triage/#health-assessment-guidelines) and should be flagged.
+If the delay is caused by the customer (e.g. disinterest, lack of engagement/"going dark") then the [account has risk](/handbook/customer-success/csm/health-score-triage/#tracking-customer-health) and should be flagged.
 
-- Add an Update timeline entry with [updated CSM Sentiment](/handbook/customer-success/csm/health-score-triage/#health-assessment-guidelines)
-- [Open a triage issue](/handbook/customer-success/csm/health-score-triage/#gitlab-account-triage-project)
+- Add an [At-Risk timeline entry](https://about.gitlab.com/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries)
+- [Communicate the customer risk](/handbook/customer-success/csm/health-score-triage/#at-risk-communication-guidelines)
+- Determine if an [account escalation](/handbook/customer-success/csm/health-score-triage/#when-to-open-an-account-escalation) is required.
 
 ## Gainsight for Onboarding
 
