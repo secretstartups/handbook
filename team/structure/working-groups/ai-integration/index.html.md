@@ -174,11 +174,7 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Aleksei Lipniagov | Senior Backend Engineer | Application Performance |
 | Matthias Käppler | Staff Backend Engineer | Application Performance |
 | Roy Zwambag | Backend Engineer | Application Performance |
-| Dmitry Gruzd | Staff Backend Engineer | Global Search |
-| Terri Chu | Senior Backend Engineer | Global Search |
-| Madelein van Niekerk | Backend Engineer | Global Search |
-| John Mason | Senior Backend Engineer | Global Search |
-| Matt Kasa | Senior Backend Engineer | Database |
+| Paul Phillips | Engineering Manager | Application Performance |
 | Igor Drozdov | Staff Backend Engineer | Source Code |
 | Patrick Cyiza | Backend Engineer | Source Code | 
 | Natalia Radina | Frontend Engineer | Source Code | 
