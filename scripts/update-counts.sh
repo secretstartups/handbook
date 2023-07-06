@@ -45,9 +45,11 @@ quarterly_count () {
 # }
 
 push_to_main () {
-    git add data/about-count.csv data/about-count.csv
+    cd /tmp/handbook
+    git add data/about-count.csv
+    git add data/handbook-count.csv
     git commit -m "Update handbook word and page counts"
-    git push origin "${CI_COMMIT_BRANCH}"
+    git push origin main
 }
 
 if [ "$RUN_TYPE" = "quarterly" ]; then
