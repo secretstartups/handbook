@@ -15,7 +15,7 @@ mr_count () {
 clone_repo () {
     git config --global user.email "${GIT_USER_EMAIL:-$CI_EMAIL}"
     git config --global user.name "${GIT_USER_NAME:-$CI_USERNAME}"
-    git clone https://gitlab-ci-token:$CI_JOB_TOKEN@gitlab.com/gitlab-com/content-sites/handbook.git /tmp/handbook
+    git clone https://$PROJECT_USERNAME:$PROJECT_TOKEN@gitlab.com/gitlab-com/content-sites/handbook.git /tmp/handbook
     cd /tmp/handbook
 }
 
