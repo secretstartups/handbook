@@ -149,7 +149,7 @@ child
     - Include a medical certificate or statutory declaration noting you weren’t able to work because of an illness or injury, or needed to provide care or support to an immediate family or household member (because of an illness, injury, or unexpected emergency affecting the family member).
 
 2. Select `Out Sick` in Time Off by Deel to ensure that leave entitlements are properly tracked.      
-    - If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to leaves@gitlab.com and the Absence Management team will manually add your leave to BambooHR and notify payroll.
+    - If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to leaves@gitlab.com and the Absence Management team will manually add your leave to Workday and notify payroll.
 
 **Unpaid Carer's Leave:**
 
@@ -191,7 +191,7 @@ Unpaid carer’s leave can be taken:
     - Include a medical certificate or statutory declaration noting you weren’t able to work because of an illness or injury, or needed to provide care or support to an immediate family or household member (because of an illness, injury, or unexpected emergency affecting the member).
 
 2. Select `Out Sick` in Time Off by Deel to ensure that leave entitlements are properly tracked.      
-    - If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to leaves@gitlab.com and the Absence Management team will manually add your leave to BambooHR and notify payroll.
+    - If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to leaves@gitlab.com and the Absence Management team will manually add your leave to Workday and notify payroll.
 
 #### Long Service Leave
 * Team members may be eligible for long service leave in accordance with state/territory based legislation as varied from time to time.

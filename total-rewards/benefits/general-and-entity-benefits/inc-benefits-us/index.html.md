@@ -516,14 +516,14 @@ Short-term disability insurance has a 7-calendar day waiting period before payme
 1. Team member will submit the Claimant portion of the [Short-Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) application and remit to their physician to complete the rest. 
      - The completed application can be sent directly to NYLife (using the mail or fax number at the top of the form) or can be returned to the Absence Management team and will be submitted on the team member's behalf. 
      - This is completely at the preference of the team member or the requirement from the doctor, but the team member should confirm the choice with the Absence Management team.
-2. If the team member opts to send the form directly to NYLife, the Absence Management team will email the completed employer portion of the Short-Term Disability form to NYLife via email: `dallasfco.intake2@cigna.com`and `TeamArakeliansMailbox@Cigna.com`.
+2. If the team member opts to send the form directly to NYLife, the Absence Management team will email the completed employer portion of the Short-Term Disability form to NYLife via email: `GBSIntakePaper@newyorklife.com`.
 3. NYLife Claims Process:  
      - Within 3 business days of NYLife receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed. 
      - The claims team will also contact the Absence Management team to confirm eligibility and verify job responsibilities, if needed. 
      - The NYLife claims team will immediately begin reviewing the information available to make a decision. NYLife may also contact the team member's physician (if needed) once NYLife has the team members authorization to do so. 
      - If the claim is denied, the team member will receive a call from NYLife explaining the decision. The Absence Management team will also receive a notification of the denial and process any pay owed to the team member.
      - If approved, communication is sent to the Absence Management team and claim status reports with approval date and estimated return-to-work date is provided.  
-5. The Absence Management team will process the approval or denial and file all related paperwork in BambooHR. 
+5. The Absence Management team will process the approval or denial and file all related paperwork in Workday. 
  
 ## Employee Assistance Program
  
