@@ -32,7 +32,7 @@ This person is of interest, but has not interacted with the Talent Acquisition (
 <tr>
 <td>
 
-#### [Sourcing Strategy/Type \[Greenhouse\]](https://support.greenhouse.io/hc/en-us/articles/115003931231-Sourcing-the-basics)
+#### **Sourcing Strategy/Type [Greenhouse](https://support.greenhouse.io/hc/en-us/articles/115003931231-Sourcing-the-basics)**
 </td>
 <td>
 
@@ -57,11 +57,11 @@ This person is of interest, but has not interacted with the Talent Acquisition (
 <td>Prospects that have yet to express interest in GitLab/a role reached out to by a current GitLab team member.</td>
 <td>
 
-* Paid External Tools \[_broken out individually_\]
+* Paid External Tools (_broken out individually_)
   * LinkedIn (Prospecting i.e. LinkedIn Recruiter)
   * SeekOut
 * Social Media
-* Greenhouse Sourcing \[Prospecting via our CRM\]
+* Greenhouse Sourcing (Prospecting via our CRM)
 * Other Sourcing Tools - this indicates any tool we used that we do not have a paid agreement.
 </td>
 </tr>
@@ -76,7 +76,7 @@ This person is of interest, but has not interacted with the Talent Acquisition (
 <td>
 
 * Referral
-* Note: Social Referrals (applications via a link shared by team members) are not counted as referrals in our metrics.
+* Note: Social Referrals (applications via a link shared by team members) are counted as direct applicants in our metrics.
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ Similar to Outbound Sourcing, however, this pool includes prospects found using 
 </td>
 <td>
 
-_See Greenhouse for the complete list._
+See Greenhouse for the complete list.
 </td>
 </tr>
 <tr>
