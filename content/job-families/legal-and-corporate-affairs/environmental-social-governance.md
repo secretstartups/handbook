@@ -39,41 +39,41 @@ The ideal candidate has deep expertise in environment, social, and governance pr
 - Embrace GitLab Values of [Collaboration](/handbook/values/#collaboration[), [Results](/handbook/values/#results), [Efficiency](/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion), [Iteration](/handbook/values/#iteration), and [Transparency](/handbook/values/#transparency)
 
 
-## Senior ESG Manager 
+## Senior ESG Manager
 
-### Senior ESG Manager Job Grade 
+### Senior ESG Manager Job Grade
 
 The Senior ESG Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Senior ESG Manager 
+## Senior ESG Manager
 
 The Senior ESG Manager reports to the Senior Director, ESG, and is responsible for contributing to GitLab’s sustainability programs, policies, and initiatives. The Senior ESG Manager has deep expertise in environmental, social, and governance reporting, disclosures, and programs. This individual focuses on work across multiple teams and is a strategic leader within the organization.
 
 ### Senior ESG Manager Responsibilities
 
-- Participate in the development and implementation of the company’s ESG strategy 
-- Manage a minimum of one ESG program and is responsible for all day-to-day program management 
-- Track trends related to program and proactively present ideas to advance program goals 
-- Lead annual greenhouse gas inventory including external auditing procedure and verification 
-- Regularly acts as a DRI with regard to cross-collaborative projects 
-- Manage external partnerships as it relates to program development and management 
-- Present ideas and solutions to team leadership to advance goals 
+- Participate in the development and implementation of the company’s ESG strategy
+- Manage a minimum of one ESG program and is responsible for all day-to-day program management
+- Track trends related to program and proactively present ideas to advance program goals
+- Lead annual greenhouse gas inventory including external auditing procedure and verification
+- Regularly acts as a DRI with regard to cross-collaborative projects
+- Manage external partnerships as it relates to program development and management
+- Present ideas and solutions to team leadership to advance goals
 - Contribute to the development and publication of ESG reports including collecting data, material metrics, and consolidating information requests
 - Collect, manage, and submit content to key ESG rating firms and track score progress
-- Work with sales and field teams to ensure proper protocol and efficiency when submitting ESG-related questionnaires via customer requests and RFPs 
+- Work with sales and field teams to ensure proper protocol and efficiency when submitting ESG-related questionnaires via customer requests and RFPs
 - Collaborate with key internal teams on relevant data and target setting
 - Advise on and develop ESG standards, principles, and policies
 - Develop and maintain tools and mechanisms to evaluate, track, and report on progress against company ESG goals
 
 ### Senior ESG Manager Requirements
 
-- 5+ years’ experience in non-financial reporting, corporate social responsibility, ESG disciplines, or sustainability 
+- 5+ years’ experience in non-financial reporting, corporate social responsibility, ESG disciplines, or sustainability
 - Extensive knowledge of key reporting frameworks including; GRI, SASB, CDP, and TCFD
-- Experience in conducting greenhouse gas inventories and building climate action plans 
+- Experience in conducting greenhouse gas inventories and building climate action plans
 - Experience in managing ESG issues and disclosures, preferably in the tech industry
 - Excellent written and oral communication skills
 - Excellent organizational skills as well as creativity and resourcefulness
-- Ability to work on significant and unique issues where coming to a resolution requires complex analysis 
+- Ability to work on significant and unique issues where coming to a resolution requires complex analysis
 - Ability to work in a deadline-oriented environment
 - Attention to detail and ability to prioritize
 - Superior research and analytical skills
