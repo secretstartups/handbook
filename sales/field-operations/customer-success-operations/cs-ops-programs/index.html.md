@@ -36,7 +36,6 @@ You can see more information about what we do and our strategy in the following 
 ## Related Content
 * [Available Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/available-programs/)
 * [Getting Help from Digital Customer Success](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/getting-help-from-dcs/)
-* [Available Programs](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/available-programs/)
 * [NPS/CSAT Surveys](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores/)
 * [CS Content Guide](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/cs-content-guide.html)
 
@@ -51,7 +50,7 @@ We support all customers with our programs but primarily serve customers that do
 Programs follow the lifecycle of the customer, from onboarding to enablement to retention.
 
 ![Customer Lifecycle](https://lucid.app/publicSegments/view/7e994704-484f-4d32-a083-6c052b07ba66/image.png)
-Segment specific journey - [Tech Touch](https://lucid.app/lucidchart/6e790ff2-fc61-4617-acb2-81980f7b1d2e/edit?viewport_loc=-3837%2C-567%2C8991%2C5379%2C0_0&invitationId=inv_86701091-2076-4f69-8bfe-3b28e57c4dba) | [Scale](https://lucid.app/lucidchart/38da04cd-67e0-4c74-b9a9-f18a9147ade2/edit?viewport_loc=-3461%2C-874%2C6004%2C4973%2C0_0&invitationId=inv_6df3da57-83b4-4b79-abdb-7e0ec031fb17) | [CSM-Managed](https://lucid.app/lucidchart/30feecd2-a4c6-4ec4-8acd-9ee2a0205a26/edit?viewport_loc=-494%2C307%2C3645%2C2181%2C0_0&invitationId=inv_975a10dc-7079-4715-8342-2d1617aab98a)
+Segment specific journey - [Tech Touch](https://lucid.app/documents/embedded/6e790ff2-fc61-4617-acb2-81980f7b1d2e#) | [Scale](https://lucid.app/documents/embedded/38da04cd-67e0-4c74-b9a9-f18a9147ade2) | [CSM-Managed](https://lucid.app/documents/embedded/30feecd2-a4c6-4ec4-8acd-9ee2a0205a26)
 
 ### Programs Overview
 
