@@ -24,6 +24,7 @@ The Quality team currently works cross-functionally and our task ownership spans
   - **Ruby gems**
     - [GitLab Styles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles)
     - [GitLab Dangerfiles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles)
+    - [GitLab Quality Test Tooling](https://gitlab.com/gitlab-org/ruby/gems/gitlab_quality-test_tooling)
   - **Quality Group**
     - [Quality team tasks](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks)
     - [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops)
@@ -57,6 +58,8 @@ Upon joining the Quality department, team members are granted either developer, 
 - [GitLab Styles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles)
   - Authored or reviewed 2 MRs in total.
 - [GitLab Dangerfiles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles)
+  - Authored or reviewed 5 MRs in total.
+- [GitLab Quality Test Tooling](https://gitlab.com/gitlab-org/ruby/gems/gitlab_quality-test_tooling)
   - Authored or reviewed 5 MRs in total.
 - [Triage Ops](https://gitlab.com/gitlab-org/quality/triage-ops)
   - Authored or reviewed 10 MRs in total.
