@@ -88,12 +88,12 @@ Registered Agent: Corporation Service Company, 251 Little Falls Dr., Wilmington 
 
 GitLab will review and respond to requsts for User Information pursuant only to a valid, enforceable government request, such as a subpoena, court order, and/or warrant, depending on the type of information requestion, which GitLab has determined has been issued within the scop of the power of the requesting authority or law enforcement body.
 
- #### User Information Responsive to a Subpoena
+   **User Information Responsive to a Subpoena**
 
    * Basic subscriber information available under ECPA; and
    * Customer support records.
 
- #### User Information Responsive to a 2703(d) Court Order
+   **User Information Responsive to a 2703(d) Court Order**
 
    * Basic subscriber information available under ECPA;
    * Customer support records;
