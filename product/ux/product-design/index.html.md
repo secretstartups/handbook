@@ -46,13 +46,21 @@ Information about product categories and links to team members and direction pag
 Some UX teams have documented detailed information about their ways of working and stage groups, and these can be found here: 
 * [Dev](/direction/dev/)
     * [Create](/handbook/product/ux/stage-group-ux-strategy/create/)
-* [Ops](/direction/ops/) (`@gitlab-com/gitlab-ux/ops-ux`)
+* CI/CD and [Saas Platforms](/direction/saas-platforms/)
     * [CI/CD](/handbook/product/ux/stage-group-ux-strategy/ci-cd/) (`@gitlab-com/gitlab-ux/cicd-ux`)
 * [Sec](/direction/security/)
     * [Secure and Govern](/handbook/engineering/ux/stage-group-ux-strategy/sec/) (`@gitlab-com/gitlab-ux/secure-govern-ux`)
 * Fulfillment and Growth UX
     * Growth UX team: [How we approach experiments](/handbook/product/ux/ux-resources/experimentation/)
     * Fulfillment UX team: [How we work](/handbook/product/ux/stage-group-ux-strategy/fulfillment/)
+
+### UX Paper Cuts Team
+
+The UX Paper Cuts team is a small team responsible for identifying and fixing small, but impactful, usability issues in the GitLab product. The term "paper cut" refers to a small, seemingly insignificant problem that can cause annoyance or frustration for users. When considered as a collective, these problems can reduce the overall impression users have of the product.
+
+The UX Paper Cuts team continuously improves the user experience by creating merge requests to address these small issues. By focusing on small details, the team helps create a more polished and user-friendly interface, leading to increased user satisfaction, engagement, and, ultimately, a more successful product. 
+
+You can find changes made by the UX Paper Cuts by following along in the [GitLab Polish Gallery](https://nicolasdular.gitlab.io/gitlab-polish-gallery/), the internal Slack channel `#ux_paper_cuts_mrs`, or by searching the GitLab label [UX Paper Cuts](https://gitlab.com/dashboard/merge_requests?scope=all&state=all&label_name[]=UX%20Paper%20Cuts). 
 
 ## Learn about UX and see our work
 
@@ -88,7 +96,13 @@ Learning and Development
 
 Are you a new GitLab Product Designer? If so, welcome! Make sure you see the [Product Designer Workflow](/handbook/product/ux/product-designer/) handbook page that will help you get started.
 
-## Beautifying our UI
+## Design Principles
+
+Our [design principles](https://design.gitlab.com/get-started/principles) can be found with the Pajamas Design System.
+
+## Cross-functional Initiatives
+
+### Beautifying our UI
 
 In Q4 FY22 and Q1 FY23, we ran an experiment called "Macro UX," in which we paired a Product Designer and an Engineer to make self-directed improvements to a product workflow (Kubernetes Agent). The idea was to empower the pair to make changes they identified themselves and resolved directly with MRs, rather than following our existing [Product Development Flow](/handbook/product-development-flow/). 
 
@@ -96,7 +110,7 @@ The result of the experiment was that the pair was able to resolve low-hanging u
 
 In the *Beautifying our UI* initiative, we'd like to take the best parts of the Macro UX experiment and apply them to making usability improvements in our product.
 
-### Next steps
+#### Next steps
 
 Going forward, every milestone, we will ask Product Designers and Engineers to volunteer to partner in making self-directed usability improvements. It is an opportunity to fix the things that have been bugging you or that you've heard from users without worrying about prioritization. 
 
@@ -108,7 +122,7 @@ Going forward, every milestone, we will ask Product Designers and Engineers to v
 * **Prioritization:** The Product Designer and Engineer will inform their direct managers and discuss prioritization and capacity planning prior of their involvement in the initiative, so that they can make time for it during milestone planning. They'll make sure their stage group team is also aware of their involvement.
 * **Documentation:** UI changes can impact the documentation to varying extents. The Product Designer or Engineer will follow the [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), with any docs changes required documented in the `/doc` directory by the Product Designer or Engineer. Assign the [relevant Technical Writer](/handbook/product/ux/technical-writing/#assignments) as Reviewer.   
 
-### Volunteers
+#### Volunteers
 
 | Milestone          | Product Designer  | Engineer          |
 | ------------------ | ----------------- | ----------------- |
@@ -145,11 +159,11 @@ Previous Volunteers
 
 </details>
 
-### How do I volunteer?
+#### How do I volunteer?
 
 If you are a Product Designer or Engineer who wants to volunteer, please create an [MR to update the table above](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/handbook/source/handbook/product/ux/product-design/index.html.md) by adding your name, and assign it to your manager to review/merge. In the MR description, please include what percentage of your capacity you plan to dedicate to this initiative. If you have any questions, please feel free to reach out to the VP of User Experience or the Director of Product Design.
 
-### I signed up. Great! What's next?
+#### I signed up. Great! What's next?
 
 Create an issue, assign it to both Product Designer and Engineer and add it to this [epic](https://gitlab.com/groups/gitlab-org/-/epics/7781). Tag the appropriate Product Design Manager and Engineering Manager for awareness. As you progress through the milestone, make sure to link all merge requests to your issue. This will help other stakeholders quickly understand the reason behind the sudden influx of MRs.
 
@@ -157,7 +171,7 @@ You should also keep track of any needed documentation updates. Work with the re
 
 Every MR should follow the [approval guidelines](https://docs.gitlab.com/ee/development/code_review.html#approval-guidelines). If you created an MR, please use the Reviewer Roulette to assign another designer to conduct a UX MR review.
 
-### Remember to assess the possible impact of your changes
+#### Remember to assess the possible impact of your changes
 
 The point of this initiative is to move fast, often in product areas you may not be familiar with. Because these fixes don't go through our regular [product development flow](/handbook/product-development-flow/), it's important to take reasonable steps to reduce risk. Consider things like:
 
@@ -166,55 +180,11 @@ The point of this initiative is to move fast, often in product areas you may not
 - **How can I crowd source feedback on a significant change?** Sometimes there will be dependencies that aren't obvious. Consider opening up feedback issues (like [this one](https://gitlab.com/gitlab-org/gitlab/-/issues/363276)) and use our internal Slack to make the company aware of significant upcoming changes, so that people can offer feedback. Channels like `#product`, `#whats-happening-at-gitlab`, and `#is-this-known` can be good places to publicize these messages.
 - **Use the [Pajamas Design System](https://design.gitlab.com/).** Make sure your changes align with the design system and leverage available components. If there's a need to update an exisitng component or propose a new one, follow the [component lifecycle](https://design.gitlab.com/get-started/lifecycle). If you have questions, ask a member of the [Foundations group](/handbook/product/categories/#foundations-group).
 
-### How will we measure success?
+#### How will we measure success?
 
 The team will track the total number of MRs merged with the [Beautifying our UI](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=merged&label_name[]=Beautifying%20our%20UI) label. 
 
-### Risks
+#### Risks
 
 * We don't know how much time will be required during the experiment for these pairings to be successful, so we can't predict the impact to participants' regular milestone work, OKRs, and so on.
 * The experiment will focus on fixing friction points identified during heuristic reviews, which means that we won't conduct user research. There is a possibility that we will inadvertently introduce new friction points.
-
-## UX Paper Cuts Team
-
-The UX Paper Cuts team is a small team responsible for identifying and fixing small, but impactful, usability issues in the GitLab product. The term "paper cut" refers to a small, seemingly insignificant problem that can cause annoyance or frustration for users. When considered as a collective, these problems can reduce the overall impression users have of the product.
-
-The UX Paper Cuts team continuously improves the user experience by creating merge requests to address these small issues. By focusing on small details, the team helps create a more polished and user-friendly interface, leading to increased user satisfaction, engagement, and, ultimately, a more successful product. 
-
-You can find changes made by the UX Paper Cuts by following along in the [GitLab Polish Gallery](https://nicolasdular.gitlab.io/gitlab-polish-gallery/), the internal Slack channel `#ux_paper_cuts_mrs`, or by searching the GitLab label [UX Paper Cuts](https://gitlab.com/dashboard/merge_requests?scope=all&state=all&label_name[]=UX%20Paper%20Cuts). 
-
-### UX Paper Cuts team workflow
-
-#### General workflow
-
-One of our goals is to deliver changes as efficiently as possible. With that in mind:
-- Try to review ~"UX Paper Cuts" MRs assigned to you as soon as you can
-- Keep your merge requests small and focused
-  - If you have a larger initiative in mind, plan on breaking it into smaller MRs
-  - Cross-link each MR if they're related
-
-#### Milestone theme work
-
-Each milestone we focus on a specific area of the product (previous milestone themes include Merge request UI, AI feature polish, and labels & lists). Focusing on smaller areas like this maximizes the impact of our changes. Each milestone planning issue will include a list of ideas and issues we think we can work on.
-- Look at list in description; if you see one you'd like to work on, assign yourself
-- In your merge request:
-  - Link MR back to the issue
-  - Add labels `~"group::ux paper cuts"` `~"UX Paper Cuts"` `~frontend ~UX` `~"type::maintenance"` `~"maintenance::usability"` `~"section::dev"` `~"SUS::Impacting"` `~"severity::4"` _(adjust to use correct severity number)_
-- Assign a paper cuts designer to review ~"UX"
-- Use reviewer roulette for developer reviews
-
-#### Other fixes
-
-- If you want to fix something that's _not_ on the list, feel free! Just link the MR back to milestone planning issue
-- Look at Slack channel #is-this-known for recent bugs
-
-#### Useful links & tips
-
-- [Open UX Paper Cuts MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name%5B%5D=UX%20Paper%20Cuts) 
-- All available [utility classes](https://unpkg.com/browse/@gitlab/ui@64.10.1/src/scss/utilities.scss)
-- You can speed up your workflow a bit by creating [comment templates](https://docs.gitlab.com/ee/user/profile/comment_templates.html) for commonly used actions, like assigning a reviewer or approving an MR  (for example, you could create an "Approve" comment template including the `/approve`, `/remove_reviewer`, and `/unsubscribe` quick actions)
-
-#### For help
-
-- Try pinging the developers on your MR suggested by reviewer roulette
-- People are super helpful in Slack channels `#g_manage_foundations` and `#gitlab-ui`
