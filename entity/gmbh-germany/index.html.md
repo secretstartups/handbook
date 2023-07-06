@@ -201,7 +201,7 @@ Per the [Family Care Leave Act and the Care Leave Act](https://www.bundesgesundh
 * Team members who care for a close relative in need of care in a home environment are entitled to family care leave, i.e. to a partial leave of absence for one continuous period of up to 24 months with a minimum of 15 working hours per week;
 * If the relative is underage, there is an entitlement to leave even if care takes place outside the home environment. 
 
-This leave runs concurrently with GitLab's PTO policy. When partial paid leave is claimed, GitLab will supplement the team member's benefit so that they receive 100% of their pay for the first 25 days of leave. Please contact the Absence Management team at `leaves@domain` to ensure your eligibility and provide awareness of your proposed leave. 
+This leave runs concurrently with GitLab's Sick Time policy. When partial paid leave is claimed, GitLab will supplement the team member's benefit so that they receive 100% of their pay for the first 25 days of leave. Please contact the Absence Management team at `leaves@domain` to ensure your eligibility and provide awareness of your proposed leave. 
 
 How to Apply:
 - Team members must email leaves@domain proof of the relevant illness of the close relative by means of a medical certificate. 
@@ -218,7 +218,7 @@ Beginning January 1, 2023 team members with statutory health insurance are not r
 * Team Members with private health insurance will still be required to email leaves@domain a hard copy of their certificate no later than the 4th day of illness.
 
 ##### Reporting Guidelines
-Team members are still required to report their absence(s) to GitLab, but AU certificates are not required until after the 3rd day of an absence.  Beginning the first day, team members should enter their time away into Time Off by Deel by selecting the label `Out Sick` and notifying their Manager of their absence.  After 3 days of continuous absences, team members should first notify the Absence Management team (leaves@domain) of their sick leave (including the start and anticipated end date) and then enter the time away into Time Off by Deel using the label `Out Sick`.  The Absence Management Team will then "call up" the AU certficiate on behalf of the team member.  
+Team members are still required to report their absence(s) to GitLab, but AU certificates are not required until after the 3rd day of an absence.  Beginning the first day, team members should notify their Manager first, and then enter the time away into Time Off by Deel by selecting the label `Out Sick.  After 3 days of continuous absences, team members should first notify the Absence Management team (leaves@domain) of their sick leave (including the start and anticipated end date) and then enter the time away into Time Off by Deel using the label `Out Sick`.  The Absence Management Team will then "call up" the AU certficiate on behalf of the team member.  
 * Team Members with private health insurance will still be required to email leaves@domain a hard copy of their certificate no later than the 4th day of illness.
 
 #### During COVID-19
