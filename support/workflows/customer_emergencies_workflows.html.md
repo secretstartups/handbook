@@ -250,9 +250,7 @@ As soon as the emergency is resolved, mark the emergency ticket as solved. Consi
    1. The new ticket will now be picked up by the round robin automation and assigned to an SGG, like any other ticket. Optionally, an engineer involved in the emergency can take ownership of the ticket instead.
 
 Why do follow up work in another ticket?      
-- Emergency tickets have specific ZenDesk settings that exclude them from the SGG views, which effectively makes them "invisible" to anyone other than the ticket assignee. The consequences are:
-   - If the assignee is on PTO, nobody will see customer responses.
-   - Collaboration on follow up work becomes unlikely.
+- We are at risk of missing customer responses that may come in to the ticket after the original assignee's shift ends.
 - Emergency tickets have a shorter internal NRT SLO to encourage us to respond very quickly.
 - Emergency tickets count differently in our statistics.
 
