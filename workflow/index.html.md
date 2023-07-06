@@ -67,7 +67,7 @@ There are two phases for fixing a broken `master` incident which have a target S
 
 | Phase | Service level objective | DRI |
 | --- | --- | --- |
-| [Triage](#triage-broken-master) | 4 hours from the initial broken `master` incident creation until assignment | Engineering Productivity team |
+| [Triage](#triage-broken-master) | 4 hours from the initial broken `master` incident creation until assignment | group labelled on the incident |
 | [Resolution](#resolution-of-broken-master) | 4 hours from assignment to DRI until incident is resolved | Merge request author or team of merge request author or dev on-call engineer |
 
 Additional details about the phases are listed below.
@@ -77,12 +77,12 @@ Additional details about the phases are listed below.
 If a broken `master` is blocking your team (such as creating a security release) then you should:
 
 1. See if there is a non-resolved [broken `master` incident](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/issues) with a DRI assigned and check discussions there.
-1. Check discussions on the failure notification in the Slack [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) channel. If there isn't a discussion, ask in `#master-broken` if there's anyone investigating the incident you are looking at
-1. If there is not a clear DRI or action to resolve then use the [dev escalation](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) process to solicit help in the broken `master` incident.
+1. Check discussions on the failure notification in the triage DRI's group Slack channel to see if anyone is investigating the incident you are looking at. See [Triage broken master](#triage-broken-master) for information on who the triage DRI is.
+1. If there is not a clear DRI or action to resolve, use the [dev escalation](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) process to solicit help in the broken `master` incident.
 
 ### Triage broken master
 
-The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) is the triage DRI for monitoring, identification, and communication of broken `master` incidents.
+If a failed test can be traced to a group through its `feature_category` metadata, the broken `master` incident associated with that test will be automatically labeled with this group as the triage DRI through [this line of code](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/5ad6a19bd1b37a304fbd02701a002f4dd83e1fcf/triage/triage/pipeline_failure/incident_creator.rb#L23). In addition, Slack notifications will be posted to the group's Slack channel to notify them about ongoing incidents. The triage DRI is responsible for monitoring, identifying, and communicating the incident. The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) is the backup triage DRI if the failure cannot be traced to a group, or if the current triage DRI requires assistance. For now, all broken master incidents are also reported in the `#master-broken` channel, in addition to the triage DRI's group channel. In the future, we may consider removing alerts in the `#master-broken` channel if a triage DRI group is identified to ensure this workflow is scalable.
 
 #### Definitions
 
@@ -94,7 +94,7 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
 #### Triage DRI Responsibilities
 
 1. Monitor
-   * Pipeline failures are sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) and will be reviewed by the team.
+   * Pipeline failures are sent to the triage DRI's group channel, if one is identified, and will be reviewed by its group members. The failures will also be sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) as a backup channel, in case the failure cannot be traced to a group, or if the triage DRI requires asssitance. To maintain a scalable workflow, notifications posted in [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) does not require a manual acknolwedgement from the Engineering Productivity team if the incident is announced in another DRI group's Slack channel.
    * If the incident is a duplicate of an existing incident, use the following quick actions to close the duplicate incident:
 
       ```shell
@@ -113,7 +113,7 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
    * If this incident is **due to non-flaky reasons**, communicate in `#development`, `#backend`, and `#frontend` using the Slack Workflow.
       * Click the "lightning bolt" shortcut icon in the `#master-broken` channel and select `Broadcast Master Broken`, then click `Continue the broadcast`.
       * [Create a revert MR directly](#reverting-a-merge-request) to save some time in case we need to revert down the line.
-        * If you are reverting an MR that performs a database migration, you need to follow the [Deployment blockers process](https://about.gitlab.com/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) to prevent the migration from proceeding to deploy and running on staging and production. 
+        * If you are reverting an MR that performs a database migration, you need to follow the [Deployment blockers process](https://about.gitlab.com/handbook/engineering/deployments-and-releases/deployments/#deployment-blockers) to prevent the migration from proceeding to deploy and running on staging and production.
         * If the migration is executed in any environments, communicate to the release managers in `#releases` channel and discuss whether it's appropriate to create another migration to roll back the first migration or turn the migration into a no-op by following [Disabling a data migration steps](https://docs.gitlab.com/ee/development/database/deleting_migrations.html#how-to-disable-a-data-migration).
    * If you identified that `master` fails **for a flaky reason**, and it cannot be reliably reproduced (i.e. running the failing spec locally or retry the failing job):
       * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test.
@@ -123,22 +123,21 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
 
         ```shell
         # Add those labels
-        /label ~"master-broken::flaky-test" 
-        /label ~"failure::flaky-test" 
+        /label ~"master-broken::flaky-test"
+        /label ~"failure::flaky-test"
 
         # Pick one of those labels
-        /label ~"flaky-test::dataset-specific" 
-        /label ~"flaky-test::datetime-sensitive" 
-        /label ~"flaky-test::ordering assertion" 
-        /label ~"flaky-test::random input" 
-        /label ~"flaky-test::transient bug" 
-        /label ~"flaky-test::unclean environment" 
-        /label ~"flaky-test::unreliable dom selector" 
-        /label ~"flaky-test::unstable infrastructure" 
+        /label ~"flaky-test::dataset-specific"
+        /label ~"flaky-test::datetime-sensitive"
+        /label ~"flaky-test::state leak"
+        /label ~"flaky-test::random input"
+        /label ~"flaky-test::transient bug"
+        /label ~"flaky-test::unreliable dom selector"
+        /label ~"flaky-test::unstable infrastructure"
         ```
 
       * Close the incident
-   * Add the stacktrace of the error to the incident, as well as Capybara screenshots if available in the job artifacts.
+   * Add the stacktrace of the error to the incident (if it is not already posted by gitlab-bot), as well as Capybara screenshots if available in the job artifacts.
      * To find the screenshot: download the job artifact, and copy the screenshot in `artifacts/tmp/capybara` to the incident if one is available.
    * Identify the merge request that introduced the failures. There are a few possible approaches to try:
       * Check the commit in the failed job, and find the associated MR, if any (it’s not as simple most of the times though).
@@ -152,11 +151,11 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
     * Please set the appropriate `~master-broken:*` label from the list below:
 
       ```shell
-      /label ~"master-broken::caching" 
-      /label ~"master-broken::ci-config" 
+      /label ~"master-broken::caching"
+      /label ~"master-broken::ci-config"
       /label ~"master-broken::dependency-upgrade"
-      /label ~"master-broken::flaky-test" 
-      /label ~"master-broken::fork-repo-test-gap" 
+      /label ~"master-broken::flaky-test"
+      /label ~"master-broken::fork-repo-test-gap"
       /label ~"master-broken::pipeline-skipped-before-merge"
       /label ~"master-broken::test-selection-gap"
       /label ~"master-broken::need-merge-train"
@@ -635,7 +634,7 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 
 ### Utilizing Internal Notes in Retrospective Issues
 
-Monthly retrospectives are usually performed in a confidential issue made public upon close. Content of these issues while public aligns with [GitLab SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/). 
+Monthly retrospectives are usually performed in a confidential issue made public upon close. Content of these issues while public aligns with [GitLab SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/).
 
 Where unSAFE information must be discussed in a retrospective, [Internal Notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note) should be utilized in order to adhere to SAFE Guidelines. Internal notes remain confidential to participants of the retrospective even after the issue is made public, including Guest users of the parent group.
 
