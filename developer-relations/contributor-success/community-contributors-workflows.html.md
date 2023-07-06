@@ -317,9 +317,9 @@ More information on the [Core Team](/community/core-team/) is available in the [
 
 For contributors who don't own a credit card and need to be manually verified, a GitLab team member can open an [internal request](https://gitlab-com.gitlab.io/support/internal-requests-form/) using the `Other -> Other (nothing else fits the request)` template. GitLab Support will follow the [Manual credit card validation process described in the handbook](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/ci_minutes.html#manual-credit-card-validation-for-community-contributors) to complete the request.
 
-### For contributors who run out of compute units or other CI/CD resources
+### For contributors who run out of compute minutes or other CI/CD resources
 
-Wider community members may run out of monthly compute units, or run into other [GitLab CI/CD limits](https://docs.gitlab.com/ee/user/gitlab_com/index.html#gitlab-cicd) if they are working from a personal fork.
+Wider community members may run out of monthly compute minutes, or run into other [GitLab CI/CD limits](https://docs.gitlab.com/ee/user/gitlab_com/index.html#gitlab-cicd) if they are working from a personal fork.
 
 The solution is to work from the [GitLab community forks](https://gitlab.com/gitlab-community/meta#about).
 

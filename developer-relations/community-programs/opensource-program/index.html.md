@@ -18,7 +18,7 @@ description: Learn about the GitLab for Open Source Program and other open sourc
 
 GitLab's open source program is part of the [Developer Relations team](/handbook/marketing/developer-relations/). It consists of three sub-programs:
 
-* [**GitLab for Open Source Program**](/handbook/marketing/developer-relations/community-programs/opensource-program/#gitlab-for-open-source-program), through which qualifying open source projects [receive benefits](/solutions/open-source/) like GitLab Ultimate with 50,000 units of compute for free.
+* [**GitLab for Open Source Program**](/handbook/marketing/developer-relations/community-programs/opensource-program/#gitlab-for-open-source-program), through which qualifying open source projects [receive benefits](/solutions/open-source/) like GitLab Ultimate with 50,000 compute minutes for free.
 * [**GitLab Open Source Partners**](/handbook/marketing/developer-relations/community-programs/opensource-program/#gitlab-open-source-partners), a [partnership program](/solutions/open-source/partners) designed for large or prominent open source projects and organizations.
 * [**Consortium Memberships**](/handbook/marketing/developer-relations/community-programs/opensource-program/#consortium-memberships-and-sponsorships), which allow us to [extend GitLab's leadership in key open source initiatives](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/consortium-memberships), enhance GitLab's brand, and/or improve engineering alignment
 
@@ -41,7 +41,7 @@ Send questions about the GitLab for Open Source Program to `opensource@gitlab.co
 
 ### What are the benefits of the GitLab for Open Source Program?
 
-At no cost, members of the GitLab for Open Source Program receive a [GitLab Ultimate](/pricing/) subscription (self-managed or SaaS), which includes 50,000 units of compute (users can purchase 1,000 [additional units of compute](https://docs.gitlab.com/ee/ci/pipelines/cicd_minutes.html#purchase-additional-cicd-minutes) for a one-time, $8 fee). Product support is not included as part of this subscription.
+At no cost, members of the GitLab for Open Source Program receive a [GitLab Ultimate](/pricing/) subscription (self-managed or SaaS), which includes 50,000 compute minutes (users can purchase 1,000 [additional compute minutes](https://docs.gitlab.com/ee/ci/pipelines/cicd_minutes.html#purchase-additional-cicd-minutes) for a one-time, $8 fee). Product support is not included as part of this subscription.
 
 While members of the GitLab for Open Source Program receive features of GitLab Ultimate at no cost, they do not receive support as part of their subscription.
 {: .alert .alert-info}
