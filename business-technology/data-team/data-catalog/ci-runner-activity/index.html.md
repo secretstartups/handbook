@@ -14,15 +14,15 @@ title: "CI Runner Activity"
 
 Previously, there wasn't an easy way to tie cost directly to CI usage without making assumptions. And the process was not scalable, so a better solution was needed for the future.
 
-For this purpose, a Unified model for **Units of Compute/Cost** has been created as a part of [Enterprise Dimensional Model](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) that ties the cost from app usage table (Postgres) to `gcp_billing` and labels our runners in GCP with `job_id` labels to join to `ci_builds` table.
+For this purpose, a Unified model for **Compute minutes/Cost** has been created as a part of [Enterprise Dimensional Model](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) that ties the cost from app usage table (Postgres) to `gcp_billing` and labels our runners in GCP with `job_id` labels to join to `ci_builds` table.
 
 ### Business Use Cases/Example KPIs:
 
 - Cost of All CI Pipelines run in gitlab-org-gitlab project in January 2021
 - Average Cost per pipeline for all GitLab.com CI usage
 - Count of CI pipelines run by namespace X last month
-- Count of units of compute run in project X over past year
-- Cost of units of compute run in project X over past year
+- Count of compute minutes used in project X over past year
+- Cost of compute minutes used in project X over past year
 
 ### Key Field Descriptions
 
