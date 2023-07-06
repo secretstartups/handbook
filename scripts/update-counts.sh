@@ -29,20 +29,20 @@ quarterly_count () {
     echo $TODAY,$WORDCOUNT,$PAGECOUNT,,,, >> $COUNT_FILE
 }
 
-# legacy_handbook_count () {
-#     echo Starting www-gitlab-com quartly count
-#     COUNT_FILE=/tmp/handbook/data/about-count.csv
-#     REPO="https://gitlab.com/gitlab-com/www-gitlab-com.git"
-#     # Clone legacy repo
-#     echo "Cloning the www-gitlab-com repo"
-#     git clone $REPO /tmp/www-gitlab-com
-#     echo Performing word count...
-#     LEGACY_WORD_COUNT=$(find /tmp/www-gitlab-com/sites/handbook/source/handbook -type f \( -name "*.md" -or -name "*.md.erb" \) -exec cat {} + | LC_ALL=C wc -w)
-#     echo Performing page count...
-#     LEGACY_PAGE_COUNT=$(grep -l -r "\- TOC" /tmp/www-gitlab-com/* | wc -l)
-#     echo $TODAY,$LEGACY_WORD_COUNT,$LEGACY_PAGE_COUNT,,,, >> $COUNT_FILE
-#     echo www-gitlab-com quarterly count complete.
-# }
+legacy_handbook_count () {
+    echo Starting www-gitlab-com quartly count
+    COUNT_FILE=/tmp/handbook/data/about-count.csv
+    REPO="https://gitlab.com/gitlab-com/www-gitlab-com.git"
+    # Clone legacy repo
+    echo "Cloning the www-gitlab-com repo"
+    git clone $REPO /tmp/www-gitlab-com
+    echo Performing word count...
+    LEGACY_WORD_COUNT=$(find /tmp/www-gitlab-com/sites/handbook/source/handbook -type f \( -name "*.md" -or -name "*.md.erb" \) -exec cat {} + | LC_ALL=C wc -w)
+    echo Performing page count...
+    LEGACY_PAGE_COUNT=$(grep -l -r "\- TOC" /tmp/www-gitlab-com/* | wc -l)
+    echo $TODAY,$LEGACY_WORD_COUNT,$LEGACY_PAGE_COUNT,,,, >> $COUNT_FILE
+    echo www-gitlab-com quarterly count complete.
+}
 
 push_to_main () {
     cd /tmp/handbook
@@ -55,7 +55,7 @@ push_to_main () {
 if [ "$RUN_TYPE" = "quarterly" ]; then
     clone_repo
     quarterly_count
-    #legacy_handbook_count
+    legacy_handbook_count
     push_to_main
 else
     mr_count
