@@ -26,6 +26,7 @@ Below is a full list of our UX Research team handbook content:
 
 ### Conducting UX Research at GitLab
 
+- [When to conduct UX Research](/handbook/product/ux/ux-research/when-to-conduct-ux-research/)
 - [Defining goals, objectives, and hypotheses](/handbook/product/ux/ux-research/defining-goals-objectives-and-hypotheses/)
 - [Problem Validation and methods](/handbook/product/ux/ux-research/problem-validation-and-methods/)
 - [Solution Validation and methods](/handbook/product/ux/ux-research/solution-validation-and-methods/)
