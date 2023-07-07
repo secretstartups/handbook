@@ -31,7 +31,7 @@ This page details processes and general guidelines specific to the Executive Bus
 | [Product](https://about.gitlab.com/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (Sr Director of Product Monetization)<br>Christie Lenneville (VP of UX)<br>Hillary Benson (Sr Director of Product Management) 
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Michael McBride (CRO)  
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Nima Badiey (VP of Alliances) 
-| [Sales](https://about.gitlab.com/handbook/sales/) | **TO BE HIRED - contact @sales-eba-team*<br>Sr EBA | *as of 6/15* Jake Bielecki (VP of Field Operations) <br> Patty Cheung (VP of WW Channels - *starts 6/26*)
+| [Sales](https://about.gitlab.com/handbook/sales/) | **Kiran Gill**<br>Sr EBA | Jake Bielecki (VP of Field Operations) <br> Patty Cheung (VP of WW Channels & Alliances)
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Victoria Reinhardt**<br>Sr EBA | Ryan O’Nell (VP of Commercial Sales)<br>Mike Pyle (VP of Enterprise Sales) 
 | [Security](https://about.gitlab.com/handbook/security/) | **Marisa Carlson**<br>Sr EBA  | Josh Lemos (CISO) 
 
@@ -52,11 +52,11 @@ If you would like to schedule a meeting with a Leader at GitLab, please slack th
 1. Duration: 25 mins, 50 mins, etc.
 1. Subject of the meeting
 1. Desired outcome of the meeting
-1. Provide context: include a link to the [agenda doc](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit) and provide context in the document so that the EBA can adequately understand and prioritize your meeting with E-Group. The google doc is required to be included in the calendar invite. If you're requesting the meeting, it is your responsibility to prepare the agenda document. 
+1. Provide context: include a link to the [agenda doc](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU/edit?usp=sharing) and provide context in the document so that the EBA can adequately understand and prioritize your meeting with E-Group. The google doc is required to be included in the calendar invite. If you're requesting the meeting, it is your responsibility to prepare the agenda document. 
 1. When scheduling an internal call with the CEO, confirm that there are attendees in non-United States time zones before requesting meetings before 10am PST.
 
 ### Agenda Document Templates 
-1. [Agenda Document Template](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit) should be used for all meetings with members of our E-Group and provided at the time of the meeting request. Select file > make a copy to use this template. If relevant to your meeting request, the agenda document should include links relevant MRs, issues, slides, or helpful background material and information. This document is sufficient for most internal meetings. 
+1. [Agenda Document Template](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU/edit?usp=sharing) should be used for all meetings with members of our E-Group and provided at the time of the meeting request. Select file > make a copy to use this template. If relevant to your meeting request, the agenda document should include links relevant MRs, issues, slides, or helpful background material and information. This document is sufficient for most internal meetings. 
 
 
 ### Customer, Prospect and Partner Meetings with an E-Group Member 
