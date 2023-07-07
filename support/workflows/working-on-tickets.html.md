@@ -37,9 +37,21 @@ Support Engineers should make decisions about what to work on based on the SGG
 description of [prioritizing work](/handbook/support/support-global-groups/#prioritizing-work).
 Through that process you may:
 
-1. Select a new, unassigned ticket in your group's view
+1. Select a new, unassigned ticket in your group's view using the following approach:
 
-   There are no special considerations here. Proceed to
+   a. Prioritize paid High priority tickets in your SGG FRT stage view first, even if it is further down the line from “next-to-breach”. 
+   
+   NOTE: Free user tickets submitted as High priority are the exception. All free user tickets should be prioritized last.
+
+   b. If there aren’t any new High priority tickets, work with your group to assign any *unassigned* High NRT’s.
+
+   c. If all High NRT's are assigned, focus on your assigned High priority NRTs.
+
+   d. If all High priority tickets are addressed, help with Normal or Low priority tickets that are at risk of breaching.
+
+   e. If the next ticket to breach is > 2 hrs, focus on your NRTs, your groups NRTs, or free user tickets (tickets that have no SLA).
+   
+   Proceed to
    [ticket assignment](#assigning-tickets)
 
 1. Select a new, unassigned ticket in another group's view
