@@ -45,13 +45,13 @@ Sometimes the fix is very simple, sometimes it's not. If the impact to users is 
 1. Once the short term solution has been delivered, validate that the fix was effective.
 
 Some past short term options have been:
-* HA proxy to block certain endpoints.
+* Cloudflare rule to block certain endpoints.
 * Disable a specific feature using feature flags or application configuration.
 * Deploy a [hotpatch](https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md).
 
 ### Long term
 
-1. Handle it like you normally would for a [critical security release](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/security-engineer.md#critical).
+1. Follow the [flowchart](./deciding-gitlab-com-deployment.html) to decide which type of release is best suited for the current issue.
 1. Open an [RCA issue](https://gitlab.com/gitlab-com/gl-security/rcas/-/issues/) to start the RCA process.
 
 ## Handoff

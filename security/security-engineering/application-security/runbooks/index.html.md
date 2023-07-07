@@ -33,6 +33,7 @@ title: "Application Security Runbooks"
 - [FedRAMP vulnerabilities triage runbook and guidance][11]
 - [How to handle upstream security patches?][12]
 - [Working with SIRT][13]
+- [Deciding which type of deployment is needed to fix a GitLab.com security issue][14]
 
 ## Note for New team members
 
@@ -55,6 +56,7 @@ Whenever you are on a rotation ([HackerOne][1] or [Triage Rotation][4]) or doing
 [11]: ./fedramp-scanners-process.html
 [12]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/runbooks/upstream_security_patches.md
 [13]: ./working-with-sirt.html
+[14]: ./deciding-gitlab-com-deployment.html
 [Verifying Security Fixes]: ./verifying-security-fixes.html
 [AppSec Review Template Process]: ./review-process.html
 [Investigating Package Hunter Findings]: ./investigating-package-hunter-findings.html
