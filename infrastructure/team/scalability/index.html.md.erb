@@ -99,7 +99,7 @@ Our ability to deliver this information and expand our offering lies with having
 In order of criticality, we will expand the information we offer for services and link this to the Service Maturity Model.
 By offering additional features to services that are more mature we hope to encourage service owners to continually improve the maturity of their services. 
 
-Intial thoughts for this are:
+Initial thoughts for this are:
 - ownership of the Service Catalog and refreshing it to match current needs
 - create definitions for service criticality and maturity
 - let the problems that we are trying to resolve guide us towards the services that we need to make more mature
@@ -163,7 +163,7 @@ The broad nature of work undertaken by the Scalability group can make prioritiza
 2. **Horizontal Scalability**. The most obvious scaling bottlenecks in our infrastructure are those that can only be scaled *vertically* instead of *horizontally*. Horizontal scaling brings the benefit of *elasticity*, which increases confidence that we can meet future demand while keeping costs linear - both of these elements are strongly aligned with the vision of the Scalability group.
 3. **Increasing Plaform Capacity**. Delivering foundational project work in the GitLab application and infrastructure to support service capacity needs for GitLab SaaS. 
 4. **Scalability Advocacy and Facilitation**. An effective method for the Scalability group to leverage its output is by collaborating closely with other engineering teams to promote scalability best practises. This might include building tools to enable wider engagement in GitLab SaaS operations (e.g. [Stage Dashboards](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/406)), or serving as a point of contact to other teams for scaling questions relating to their own initiatives. 
-5. **Eliminating Toil**. We want to make our output as efficient as possible by spending more time on engineering projects and less time on manual, repetitive, or automatable tasks. An effective way of achieving this is by considering how future toil can be avoid when delivering projects. However, inline with our Iteration value, we don’t want to over-optimize and we cant consider all eventualities ahead of time. We should always be mindful of opportunities to reduce toil, which will make us more effective in the long-term.
+5. **Eliminating Toil**. We want to make our output as efficient as possible by spending more time on engineering projects and less time on manual, repetitive, or automatable tasks. An effective way of achieving this is by considering how future toil can be avoid when delivering projects. However, inline with our Iteration value, we don’t want to over-optimize and we can't consider all eventualities ahead of time. We should always be mindful of opportunities to reduce toil, which will make us more effective in the long-term.
 
 The above list is not comprehensive, nor does it outline a formal process. We should remain pragmatic when prioritizing work, while using the themes as a guideline.
 
@@ -191,10 +191,10 @@ The Engineering Roles section of the handbook lists the responsbilies of these r
 We work with all engineering teams across all departments as a representative of GitLab.com as one of the largest
 GitLab installations, to ensure that GitLab continues to scale in a safe and sustainable way.
 
-[The Memory team](/handbook/engineering/development/enablement/data_stores/application_performance/) is a natural counterpart to the Scalability
+The [Application Performance group](/handbook/engineering/development/enablement/data_stores/application_performance/) is a natural counterpart to the Scalability
 group, but their missions are complementing each other rather than overlap:
 
-| Scalability Teams | Memory Team |
+| Scalability Teams | Application Performance group |
 | ---              | ---         |
 | Focused on GitLab's SaaS platforms first, self-managed only when necessary. | Focused on resolving application bottlenecks for all types of GitLab installations. |
 | Driven by set SLO objectives, regardless of the nature of the issue. | Focused on application performance and resource consumption, in all environments. |
@@ -203,7 +203,7 @@ group, but their missions are complementing each other rather than overlap:
 Simply put:
 
 - The Scalability group is focused on all work that affects GitLab SaaS platforms SLOs.
-- The Memory team is focused on general GitLab resource consumption and performance.
+- The Application Performance group is focused on general GitLab resource consumption and performance.
 
 ## Working with us
 
@@ -450,7 +450,7 @@ We also determine which of the teams would be the more appropriate owner for tha
 We need to effectively triage these issues so that they can be handled appropriately. This means:
 1. Critically assess the issue to understand the problem
 1. Determine if this impacts .com or Self-Managed instances.
-   1. If this primarily affects Self-Managed instances, the issue can usually be redirected to the [Memory team](/handbook/engineering/development/enablement/data_stores/application_performance/).
+   1. If this primarily affects Self-Managed instances, the issue can usually be redirected to the [Application Performance group](/handbook/engineering/development/enablement/data_stores/application_performance/).
 1. If this is a scaling issue, assign it into our backlog using workflow labels and place it on the planning board if necessary.
 1. If this is not a scaling issue, find the most appropriate owner in either Infrastructure or Development, or any other department.
 
