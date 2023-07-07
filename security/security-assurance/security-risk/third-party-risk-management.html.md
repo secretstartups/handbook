@@ -17,7 +17,7 @@ title: "Security Third Party Risk Management"
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+In line with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
@@ -42,7 +42,7 @@ This procedure applies to all third party providers that access, store, process 
 | Role | Responsibility |
 | ------ | ------ |
 | Security Risk Team |  Maintain a mechanism to intake and respond to TPRM Activities <br> Assess Third Party inherent and residual security risk <br> Inform business owners of the result of TPRM assessments |
-| Business or System Owner |  [Describe the nature of the Third Party Relationship](https://about.gitlab.com/handbook/finance/procurement/#step-2-submit-your-zip-request) <br> Work with the Security Risk team to facilitate the TPRM review, to include remediation activities <br>* Ensure the responsiveness of the thrid party as part of the security review requirements |
+| Business or System Owner |  [Describe the nature of the Third Party Relationship](https://about.gitlab.com/handbook/finance/procurement/#step-2-submit-your-zip-request) <br> Work with the Security Risk team to facilitate the TPRM review, to include remediation activities <br>* Ensure the responsiveness of the third party as part of the security review requirements |
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure | 
 
 ## Third Party Minimum Security Standards
@@ -136,7 +136,7 @@ graph TB
 
 ### TPRM Assessment Requirements
 
-The following table describes the procedures followed by TPRM engineers for vendors receiving/processing different [classifications of GitLab data](/handbook/security/data-classification-standard.html). Instances where gitlab teammembers provide an authorized third party their own data ([controller to controller](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms)) do not require a TPRM assessment. The below procedures are initiated by the [Procurement](/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab) process and are followed in all instances where applicable vendors have not been reviewed in the past 12 months.
+The following table describes the procedures followed by TPRM engineers for vendors receiving/processing different [classifications of GitLab data](/handbook/security/data-classification-standard.html). Instances where gitlab team members provide an authorized third party their own data ([controller to controller](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms)) do not require a TPRM assessment. The below procedures are initiated by the [Procurement](/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab) process and are followed in all instances where applicable vendors have not been reviewed in the past 12 months.
 
 If a vendor has been reviewed and approved within 12 months of a new procurement request, GitLab TPRM Engineers must review the request to determine that no material changes have occurred which may require a new assessment before approving. Material changes include:
 
@@ -255,9 +255,9 @@ Independent Contractors requiring access to Orange or Red data in the provision 
 
 #### Third Party Application Integrations
 
-Integrations between systems within GitLab's environment are subject to the above-defined TPRM assessment procedures to obtain assurance over the security of data transmitted between each system. The Security Risk team will review the request to obtain an understanding of the data being shared. Application integration requests can be opened using the 'app_integrations' template located [here](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new).
+Integrations between systems within GitLab's environment are subject to the above-defined TPRM assessment procedures to obtain assurance over the security of data transmitted between each system. The Security Risk team will review the request to obtain an understanding of the data being shared. Application Integration Requests can be opened using the 'app_integrations' template located [here](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=app_integrations).
 
-Each system within the request should be reviewed to determine whether an assessment has previously been completed to address the sensitivity of data being transmitted as a result of the proposed integration. Changes to the scope of data shared resulting in a higher level of sensitivity of data transmitted will require a TPRM review be completed prior to approval of the request. If each system listed within the request has been previously assessed in alignment with the data shared in the new integration, the request can be approved prior to additional review. If either review has aged out of the 12-month approval window, the request can be approved with a new review of either system being launched and completed afterwards. Deficiencies identified should be reported to the Business Owner of the related application, which may or may not be the individual that opened the Integration Request. _Note: Assessors are advised to use professional judgment and are encouraged to perform additional review prior to approval of the request if there is potential for an increased risk to the data transmitted, or if other factors may exist requiring additional diligence._
+The Application Integration Request process functions to allow visibility and oversite of systems interacting with each other in support of GitLab. This process also functions as a "soft gate" for the Security Risk team to identify and assess existing systems that have aged out of our 12-month approval window. Each system within the integration request is reviewed to determine whether an assessment has previously been completed to address the sensitivity of data being transmitted as a result of the proposed integration. New systems, or integrations resulting in increased sensitivity of data being transmitted to a system, will require a TPRM review be completed prior to approval of the request. If each system listed within the request has been previously assessed in alignment with the data shared in the new integration, the request can be approved prior to additional review. If either review has aged out of the 12-month approval window, the request can be approved with a new review of either system being launched and completed afterwards. This is intended to support GitLab's values of Iteration and Results by not delaying integrations that we believe to be of lower risk. If our review criteria has been met, but red flags have otherwise been identified, assessors are encouraged to use professional judgment in not approving the request until the items are resolved or until a new assessment has been completed. Deficiencies identified as a result of Application Integration Requests are reported to the Business Owner of the related system, which may or may not be the individual that opened the Integration Request. 
 
 
 #### Independent Assessments
