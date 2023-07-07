@@ -48,7 +48,7 @@ We are allowed to issue trial licenses because they:
 1. Set the `License type` to `Legacy License`.
 1. Delete the contents of `Zuora subscription ID` field if present.
 1. Set the `Users count` number to what is requested.
-1. Set the `Previous users count` number to the previous license **if there are trueups**. Otherwise, delete the contents.
+1. Set the `Previous users count` number to the previous license **if there are trueups OR if the requested `User Count` is less than the `Previous User Count`**. Otherwise, delete the contents. 
 1. Set the `Trueup count` number if present.
 1. Set the `Plan code` to what is requested.
 1. Ensure the `Trial` checkbox is checked. 
