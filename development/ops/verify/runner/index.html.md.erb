@@ -81,6 +81,15 @@ is added to each project with maintainer permission. We also try to align tools 
 
 - [DinD image tests](https://gitlab.com/gitlab-org/ci-cd/tests/dind-image-tests)
 
+## GitLab projects that rely on Runner public-facing APIs
+
+The following projects depend on the public Runner APIs, and should be taken
+into consideration in the scope of any changes/deprecations to the public API surface:
+
+| Project | API |
+|---------| --- |
+| [GitLab Terraform Provider](https://gitlab.com/gitlab-org/terraform-provider-gitlab) | [REST API](https://docs.gitlab.com/ee/api/api_resources.html) |
+| [GitLab CLI](https://gitlab.com/gitlab-org/cli) | [REST API](https://docs.gitlab.com/ee/api/api_resources.html) |
 
 ## Technologies
 
@@ -118,7 +127,7 @@ The commitments for the iteration plan are directly related to the capacity of t
 1. The PM adds the scoped label `~candidate::x.y` to each issue. For example `~candidate::16.0`
 1. The PM assigns the iteration planning issues to the runner EM, UX, QE and TW counterparts.
 1. The EM reviews all candidate tech debt, bugs, security and feature issues and applies the `deliverable` label to issues based on team capacity. The deliverable label signals a commitment for delivery and is tied directly to our team KPIs. Any issue not receiving the `deliverable` label will be treated as stretch and pulled in as team members have capacity.
-1. At minimum, three business days prior to GitLab's monthly release [kickoff](https://about.gitlab.com/handbook/engineering/workflow/#kickoff) livestream, the PM, EM, Quality and UX leads finalize the iteration plan for the upcoming milestone. 
+1. At minimum, three business days prior to GitLab's monthly release [kickoff](https://about.gitlab.com/handbook/engineering/workflow/#kickoff) livestream, the PM, EM, Quality and UX leads finalize the iteration plan for the upcoming milestone.
 
 As we have a lot of involvement with our stable counterparts and reliability team, we also add a section to our iteration plan to reflect any `blocking` or `relating` issues.
 1. The engineering team adds all `blocking` or `related` reliability issues to the iteration plan.
@@ -142,15 +151,15 @@ At a minimum we will always identify our top priorities using `~"Runner::P1"`.
 
 ### Design and development process
 
-We follow the [product development flow](/handbook/product-development-flow/). Our team uses one issue as SSOT for design, backend, and frontend work. 
+We follow the [product development flow](/handbook/product-development-flow/). Our team uses one issue as SSOT for design, backend, and frontend work.
 
-Once a problem is [validated](/handbook/product-development-flow/#validation-phase-2-problem-validation), the issue enters the [design phase](/handbook/product-development-flow/#validation-phase-3-design) where the product designer collaborates with the team to ideate solutions and explore different approaches before converging on a single solution that is feasible and has requirements meet the business goals. 
+Once a problem is [validated](/handbook/product-development-flow/#validation-phase-2-problem-validation), the issue enters the [design phase](/handbook/product-development-flow/#validation-phase-3-design) where the product designer collaborates with the team to ideate solutions and explore different approaches before converging on a single solution that is feasible and has requirements meet the business goals.
 
 Sometimes we need to increase our confidence that the proposed solution meets the user's needs and expectations. This confidence can be obtained from additional research during the [solution validation](/handbook/product-development-flow/#validation-phase-4-solution-validation) phase.
 
 Following the design and validation phases, the problem should already be broken down into the quickest change possible to improve the user's outcome and be ready for a more detailed review by engineering before moving to the [build track](/handbook/product-development-flow/#build-track).
 
-Once the PM intends to prioritize the issue for the next milestone, the `~"workflow::planning breakdown"` label is applied and the EM will assign a developer to further break down and apply weights to that work so that the issue can be `~"workflow::ready for development"`. 
+Once the PM intends to prioritize the issue for the next milestone, the `~"workflow::planning breakdown"` label is applied and the EM will assign a developer to further break down and apply weights to that work so that the issue can be `~"workflow::ready for development"`.
 
 ### Guidelines for Merge Requests
 
