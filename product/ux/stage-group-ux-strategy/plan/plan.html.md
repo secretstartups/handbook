@@ -23,7 +23,7 @@ Some UX specific processes we follow. All groups in Plan don't have to work exac
     - Product requirement discussions should continue to happen in the main Issue or Epic as much as possible.
     - When the Product Designer wants to indicate that the design is ready for ~"workflow::planning breakdown", they should apply this label to their issue, notify the PM and EM, and close the issue.
 - UX issues should have a weight before work is scheduled for a milestone. 
-    - Issue weights should follow the [UX Department's definitions](https://about.gitlab.com/handbook/product/ux/product-designer/#ux-issue-weights).
+    - Issue weights should follow the [UX Department's definitions](/handbook/product/ux/product-designer/#ux-issue-weights).
     - The issue weight can be added to the `weight` field, but should be duplicated as a ~'design weight:" label. This is for UX Department planning purposes.
     - Product Managers and Product Designers can use issue weights to ensure the milestone has the right amount of work, to discuss tradeoffs, or to initiate conversations about breaking work into smaller pieces for high-weight items.
 
@@ -34,7 +34,7 @@ When designing for objects that use the [work items architecture](https://docs.g
 
 ### About work items
 
-The first objects built using the work items architecture support the [Parker](https://about.gitlab.com/handbook/product/personas/#parker-product-manager), [Delaney](https://about.gitlab.com/handbook/product/personas/#delaney-development-team-lead) and [Sasha](https://about.gitlab.com/handbook/product/personas/#sasha-software-developer) personas in tasks related to planning and tracking work. Additional objects will be added in the future, supporting a variety of user personas.
+The first objects built using the work items architecture support the [Parker](/handbook/product/personas/#parker-product-manager), [Delaney](/handbook/product/personas/#delaney-development-team-lead) and [Sasha](/handbook/product/personas/#sasha-software-developer) personas in tasks related to planning and tracking work. Additional objects will be added in the future, supporting a variety of user personas.
 
 Read more about work items
 - [Work items architecture](https://docs.gitlab.com/ee/architecture/blueprints/work_items/) 
@@ -58,10 +58,10 @@ This enables us to differentiate these by persona and workflow. While they may s
 
 ### Guiding principles
 - The DRI for the user experience is the Product Designer assigned to the group that is using the work item architecture for their object(s).
-- We work in a user-first mindset, rather then technology-first. To support this, we have created a research plan (link TBD) for supporting work item initiatives.
+- We work in a user-first mindset, rather then technology-first. To support this, we have created a [research plan](/handbook/product/ux/stage-group-ux-strategy/plan/plan.html#ux-research-for-work-items) for supporting work item initiatives.
 - [Pajamas](https://design.gitlab.com/) is our design system and new patterns introduced via work item efforts need to solve a real problem that users have, be validated by user research, and follow the [Pajamas contribution process](https://design.gitlab.com/get-started/contributing).
 - We follow [Pajamas principles](https://design.gitlab.com/get-started/principles) for the user experience. 
-- MVCs provide value to users, are bug-free and a highly usable experience, as described in [Product Principles](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc). 
+- MVCs provide value to users, are bug-free and a highly usable experience, as described in [Product Principles](/handbook/product/product-principles/#the-minimal-viable-change-mvc). 
 
 
 #### How the architecture is intended to work
@@ -87,6 +87,26 @@ After the quad decides the work item architecture is suitable, the Product Desig
     2. Define how users will access this work item. Design how this work item will appear in existing views, such as lists, or any new views needed for this work item.
         - Ensure new components and patterns are contributed back to Pajamas.
     3. Solution validation should be conducted as needed to ensure the workflow and usability meets the user needs.
+### Strategically Introduce Design Changes to Work Items
+Change can be expensive, so we should consider the value of each design pattern and layout we're changing during migration, and why we're changing it. Our approach will be to weight the value of the improvement against risks of change, and select the most valuable experience improvements:
+Consider the cost - With every change, there are these aspects:
+- There's more for us to test
+- More for users to re-learn
+- More potential for inconsistency in the product
+- More potential to introduce new bugs during development
+
+Consider the value to users: 
+- How much usability improvement is there?
+- Are we solving a known issue?
+- Would it be very inefficient to make the change post-migration? 
+- Is it something we can iterate into?
+- Do the benefits outweigh the downsides?
+
+If the Product Designer decides the change is worth going forward with, then we need to follow these steps:
+- Compare the change with the rest of the product (not just epics, issues and tasks, but also MRs and anywhere else it applies) and list the differences.
+- If introducing an inconsistency we should collaborate with the team involved (probably Create or Foundations) to review the change and get support.
+- We need to decide and document in an issue how we will be fixing the inconsistency and when that follow up will occur, and which team is responsible for doing it. 
+If we decide not to make the improvement during the phase where we are migrating epics and issues to work items, we'll create follow-up issues for making these improvements later.
 
 
 
