@@ -178,6 +178,12 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Igor Drozdov | Staff Backend Engineer | Source Code |
 | Patrick Cyiza | Backend Engineer | Source Code | 
 | Natalia Radina | Frontend Engineer | Source Code | 
+| Alper Akgun| Staff Fullstack Engineer | VS Code Extension |
+| Tomas Vik| Staff Fullstack Engineer | VS Code Extension |
+| Enrique| Staff Frontend Engineer | VS Code Extension |
+| Paul Slaughter| Staff Frontend Engineer | VS Code Extension |
+| André Luís | Engineering Manager | Editor Extensions  |
+| Shekhar Patnaik | Staff Fullstack Engineer | Editor Extensions  |
 | Mike Eddington | Staff Backend Engineer | Editor Extensions (Visual Studio) |
 | Ross Fuhrman | Senior Backend Engineer | Editor Extensions (Visual Studio) |
 | Gabriel Mazetto | Senior Backend Engineer | Editor Extensions (JetBrains) |
@@ -187,6 +193,7 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Lena Horal-Koretska | Senior Frontend Engineer | Editor Extensions (Language Server) |
 | Erran Carey | Staff Incubation Engineer | Editor Extensions (Neovim) |
 | Ash McKenzie | Staff Backend Engineer | Editor Extensions (Neovim) |
+| Sean Carroll | Engineering Manager |  Model Evaluation |
 | Andrei Zubov | Senior Frontend Engineer | Deploy:Environments, Model Evaluation |
 | Allison Browne | Senior Backend Engineer | Model Evaluation, Verify:Pipeline Execution |
 | Dylan Bernardi | Associate Backend Engineer | Model Evaluation |
