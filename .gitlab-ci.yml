@@ -164,25 +164,8 @@ post_comment_on_failure:
     entrypoint: ["/bin/sh", "-c"]
   script:
     - apk add yq
-    - |
-      echo "## ⚠️ Pipeline Failure - Markdown Lint Errors" > /tmp/msg
-      echo "Markdown Lint has reported errors and as a result the pipeline has failed.  Once the pipeline completes you'll find the code quality report above which can link you to where the error is in your code.  Additionally below you'll find a table of the errors.  The table has links to the markdown lint rules so you can find more information on how to fix the issue(s)." >> /tmp/msg
-      echo "" >> /tmp/msg
-      echo "| Rule | File | Line | Error | Help |" >> /tmp/msg
-      echo "|------|------|------|-------|------|" >> /tmp/msg
-      for i in $(seq 0 $(($(yq 'length' markdownlint-cli2-codequality.json -o yaml)-1))); do
-          ERROR=$(yq ".[$i].check_name" markdownlint-cli2-codequality.json -o yaml | cut -d '/' -f 1)
-          DESCRIPTION=$(yq ".[$i].description" markdownlint-cli2-codequality.json -o yaml | cut -d ':' -f 2-)
-          URL="https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md#$ERROR"
-          FILE=$(yq ".[$i].location.path" markdownlint-cli2-codequality.json -o yaml)
-          LINE=$(yq ".[$i].location.lines.begin" markdownlint-cli2-codequality.json -o yaml)
-          LOC="https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/$CI_COMMIT_SHA/$FILE#L$LINE"
-          echo "| [$ERROR]($URL) | [$FILE]($LOC) | [$LINE]($LOC) | $DESCRIPTION | [➡️]($URL) |" >> /tmp/msg
-      done
-      echo "" >> /tmp/msg
-      echo "If you need more help please reach out on Slack in [#mr-buddies](https://gitlab.slack.com/archives/CLM8K5LF4) or [#handbook](https://gitlab.slack.com/archives/C81PT2ALD)." >> /tmp/msg
     - glab auth login -t $MR_UPDATE_TOKEN
-    - glab mr note $CI_MERGE_REQUEST_IID -m "$(cat /tmp/msg)"
+    - glab mr note $CI_MERGE_REQUEST_IID -m "$(./scripts/parse-codequality-report.sh -r ./markdownlint-cli2-codequality.json)"
   rules:
   - <<: *security-scanning-rules
 
