@@ -85,7 +85,7 @@ The following 5-minute video shows how to start a livestream from a Zoom Meeting
   <iframe src="https://www.youtube.com/embed/mWWWdbS2q9U" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-If you receive a permission error when attempting to start a livestream (i.e. "Please grant necessary privilege for live streaming"), you may need to first select your `user@gitlab.com` account in step 4 above. It will prompt you to grant permissions, and you should do so. After that, return to step 3 but this time select GitLab / GitLab Unfiltired at step 4. If the problem persists, reach out in #it-help.
+If you receive a permission error when attempting to start a livestream (i.e. "Please grant necessary privilege for live streaming"), you may need to first select your `user@gitlab.com` account in step 4 above. It will prompt you to grant permissions, and you should do so. After that, return to step 3 but this time select GitLab / GitLab Unfiltered at step 4. If the problem persists, reach out in #it-help.
 
 ### Livestream with OBS
 
@@ -120,7 +120,7 @@ We found that it helps with:
 
 You don't need to be worried that something is not of the high enough quality because:
 
-1. The [GitLab Unfiltered YouTube account](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/) is our casual space for communicating and sharing with the public. Content on the Unfiltered channel includes, but is not limited to, team meetings, discussions, monthly release kick-offs, office hours, CEO 101 meetings, and nonformal demos.
+1. The [GitLab Unfiltered YouTube account](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/) is our casual space for communicating and sharing with the public. Content on the Unfiltered channel includes, but is not limited to, team meetings, discussions, monthly release kick-offs, office hours, CEO 101 meetings, and informal demos.
 1. Algorithms will ensure that a video will be distributed to the right-sized audience.
 1. We can embed videos if and where they are relevant, for example in docs.
 1. Enhance videos later if we need to ([trim it so it starts immediately](https://support.google.com/youtube/answer/9057455?hl=en), add transcript, extensive description, links to relevant materials).
@@ -142,7 +142,7 @@ If you mark a video private when it doesn't need to be, it is be easy to undo: s
 
 ## Why not Google Drive
 
-Google Drive is not intended to process video distrubtion and, as a result, lengthy uploading and processing times are common. Google drive can create a number of issues including the following:
+Google Drive is not intended to process video distribution and, as a result, lengthy uploading and processing times are common. Google drive can create a number of issues including the following:
 
 1. Long upload times (in some cases up to 10 hours for longer content) that risk failing before completion.
 1. Extended processing time, as Google Drive is not intended to quickly turn around video for playback.
@@ -151,7 +151,7 @@ Google Drive is not intended to process video distrubtion and, as a result, leng
 1. Not indexed for searching.
 1. Less transparent to both other employees and to the public.
 1. Difficult to view across multiple devices.
-1. No support for other critical features such as playlist, chaptering, descriptions, embedding, or timecodes.
+1. No support for other critical features such as playlist, chaptering, descriptions, embedding, or time codes.
 
 Always use YouTube and never use Google Drive, even for [private videos](#visibility), because YouTube videos:
 
@@ -159,7 +159,7 @@ Always use YouTube and never use Google Drive, even for [private videos](#visibi
 1. have mouse-over thumbnails.
 1. can be played at a higher speed.
 1. can be fast forwarded and rewound in 10-second blocks.
-1. can be timeshifted by adding them to a watch later list.
+1. can be time-shifted by adding them to a watch later list.
 1. can be embedded, for example in the handbook.
 1. restart at the right spot after being reloaded.
 1. can be easily viewed on other devices, like TVs or streaming devices, with YouTube support.
@@ -184,7 +184,7 @@ There are three types of visibility:
 3. Private
 
 The level of visibility should be displayed clearly in the titles of calendar invites.
-For example, when you do a livesteam to the public channel say: "Public stream" at the start of the invite.
+For example, when you do a livestream to the public channel say: "Public stream" at the start of the invite.
 You can skip live in livestream since every stream is live.
 Do not say Unfiltered stream since it is ambiguous.
 Do not say just livestream since people don't know what the level of access is.
@@ -207,15 +207,15 @@ If you get a "Video unavailable This video is private." error on youtube, the er
 In order to see the video,
 1. Click your photo or icon in the upper right corner of YouTube.
 
-2. Then Click > Switch Account
+1. Then Click > Switch Account
 
 ![Switch-Account](/handbook/marketing/marketing-operations/youtube/Switch_account.png)
 
-3. Now Select > GitLab Unfiltered. Do not select the account with your name. If GitLab Unfiltered is not an option, see [Access](/handbook/marketing/marketing-operations/youtube/#access)
+1. Now Select > GitLab Unfiltered. Do not select the account with your name. If GitLab Unfiltered is not an option, see [Access](/handbook/marketing/marketing-operations/youtube/#access)
 
 ![Select-User](/handbook/marketing/marketing-operations/youtube/YouTube_account.png)
 
-3. Once you are on GitLab unfiltered, **reload** the page and you can view the video
+1. Once you are on GitLab unfiltered, **reload** the page and you can view the video
 
 Check out [this video](https://www.youtube.com/watch?v=dZtCuOf5aGk) for a visual walk through of how to access private videos on GitLab Unfiltered.
 
@@ -228,11 +228,12 @@ For People Connect troubleshooting:
 
 1. If a team member reaches out that they have not received their GitLab Unfiltered invite, resend the invite via the `Manage Permissions`
 1. Should the team member still not see the invite under `Pending Invitations`, revoke the original invite by doing `command f` in the `Manage Permissions` section for the team members email address. You can revoke by clicking the `X` next to the email address.
-1. Once you have revoked the invite, close the YouTube Unfiltered page and reopen. 
+1. Once you have revoked the invite, close the YouTube Unfiltered page and reopen.
 1. Once reopen, select `Manage Permissions` and reinvite the team member by clicking on the `Add` option and enter the team members email address.
-1. This should now appear in the `Pending Invitations` section [here](https://myaccount.google.com/brandaccounts). 
+1. This should now appear in the `Pending Invitations` section [here](https://myaccount.google.com/brandaccounts).
 
 ## Commenting & Subscribing to Channels
+
 Please remember that if you find a user comment to respond to on one of our channel videos, that it will be perceived as official communication from the company. **In almost all cases, unless your job specifically requires you to interact in a community manager role or capacity, it is best to switch to a personal account prior to engaging with a video or user on YouTube.**
 
 Consider switching to your personal account, responding to the comment, and identifying yourself as a GitLab employee offering help.
@@ -300,7 +301,7 @@ The below instructions apply to livestreams to YouTube.
 1. Drag and drop your recording into the window to upload it. Keep the privacy dropdown on the default 'Public' setting (unless there is confidential material). Use the dropdown menu to set the video to private if it the video contains confidential material.
 1. While it's uploading, edit the title and description. Place "Confidential:" at the beginning of the video's title if the video will be kept private on our YouTube channel.
 1. Be sure to include relevant links (for example a handbook page or presentation) in the description, and add the video to any relevant playlists.
-2. In the "Comments and ratings" section, select "Hold potentially inappropriate comments for review" - this allows all valid comments to be posted, allowing everyone to contribute, but holds spam or derogatory comments for review. There may be videos where we do not wish to open the comments section or need to moderate each comment. If you think your video would potentially need to go this route, add your question to the #marketing Slack channel.
+1. In the "Comments and ratings" section, select "Hold potentially inappropriate comments for review" - this allows all valid comments to be posted, allowing everyone to contribute, but holds spam or derogatory comments for review. There may be videos where we do not wish to open the comments section or need to moderate each comment. If you think your video would potentially need to go this route, add your question to the #marketing Slack channel.
 1. When it is done uploading, press publish, then click on the Embed tab and copy the code, and insert that in the relevant part of the handbook or documentation.
 1. After uploading a video to the GitLab Unfiltered channel, be sure to add a link to the new video in the #content-updates channel in Slack.
 
@@ -320,9 +321,11 @@ Depending on your needs, you might want use software to provide overlays and/or 
 99% of the people at GitLab don't use this, but see below for instructions if you do want to use it.
 
 ### Encoder
+
 - [OBS Studio Win/Mac/Lin Open Source](https://obsproject.com/) or install with 'brew cask install obs' on mac
 
 ### Audio Rerouting
+
 - [Soundflower Mac Open Source](https://github.com/mattingalls/Soundflower) or install with `brew cask install soundflower`
 - [Loopback Mac Closed Source](http://www.rogueamoeba.com/loopback/) - Great closed source alternative
 - [Windows alternatives](https://www.reddit.com/r/audioengineering/comments/3geqse/soundflower_alternative_on_windows/)
