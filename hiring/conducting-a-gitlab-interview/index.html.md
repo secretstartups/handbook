@@ -21,7 +21,11 @@ New internal interviewers will partake in [interviewing training](https://gitlab
 
 As part of the training, team members will shadow an interviewer and be shadowed by one in order to make sure all GitLab team-members are following our interviewing processes and creating an excellent candidate experience. The interviewer who will work with the team member should be aligned with either their timezone or the role they'll be helping interview for. Feel free to ping `@gl-talent-acquisition` in your training issue or [review our talent acquisition alignment ](/handbook/hiring/recruiting-alignment/) page if you are not sure which interviewer to contact, or send a message in the `#talent-acquisition` channel in Slack. 
 
-When you shadow an interviewer, you will receive a scorecard to provide [interview feedback](https://about.gitlab.com/handbook/hiring/conducting-a-gitlab-interview/#interview-feedback). This is a great opportunity to add your feedback and compare notes with the Recruiting team and/or the interviewer you're shadowing. To ensure it's clear you're shadowing to the hiring team, please add a note in the "Key Takeaways" section that you were shadowing the interview, and don't choose a rating (Yes/No).
+When you shadow an interviewer, you will receive a scorecard to provide [interview feedback](https://about.gitlab.com/handbook/hiring/conducting-a-gitlab-interview/#interview-feedback). This is a great opportunity to add your feedback and compare notes with the Recruiting team and/or the interviewer you're shadowing. As an interview training best practice, we recommend that a debrief meeting occur between the interviewer and shadow trainee after the interview to compare feedback notes (ideally in a sync meeting). Only one official scorecard, from the actual interviewer, should be submitted per interview. Notes (both from the interviewer and shadow trainee) should only be taken in our ATS, Greenhouse.
+
+
+Marissa Ferber
+  9:43 AM
 
 Interviews should not be recorded. For interview training, we encourage our GitLab Hiring Managers to conduct mock interviews internally, or have no more than one GitLab team member at a time shadowing live interviews.
 
