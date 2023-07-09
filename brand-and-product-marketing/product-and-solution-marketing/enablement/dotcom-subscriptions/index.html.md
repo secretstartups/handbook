@@ -61,7 +61,7 @@ a subscription to an internal group or internal project, please submit an
 ](https://gitlab.com/groups/gitlab-org/-/epics/2747).
 1. Dealing with Add-ons Users
    - In contrast to Dealing with True-ups, if the customer purchased `Add-on users` while there's only a few weeks left before their renewal, please reconcile the `Users over license`/`True-ups` at the renewal instead.
-   - Assisting the customer on purchasing `Add-on users` when there's only a few week left until the license expires will resulted in an error license once the purchase is processed. Please take into consideration the existing license Service Period, the time it taks to process the purchase, and the time for the customer to upload the license.
+   - Assisting the customer on purchasing `Add-on users` when there's only a few week left until the license expires will resulted in an error license once the purchase is processed. Please take into consideration the existing license Service Period, the time it takes to process the purchase, and the time for the customer to upload the license.
 
 ## How we can set the customer up for success
 
