@@ -19,24 +19,49 @@ It could be a table, but markdown tables are hard to maintain, and headers have 
 Here's a template example:
 
 ```markdown
-## RUBY-30422
+### RUBY-30422
 
 - Title: Rename can be invoked in empty string shared_examples
 - Link: https://youtrack.jetbrains.com/issue/RUBY-30422/Rename-can-be-invoked-in-empty-string-sharedexamples
-- Available In: 2022.3 (will be blank if the issue is not yet resolved)
+- Available In: 2022.3 (if the issue is closed, omit this line if the issue is still open)
 - Notes: (anything for easy searching within this page, e.g. mention `noinspection` if this is a
   bug for a false positive `noinspection` comment.
 ```
 
-When an issue is resolved, the entry can be kept around for a few more releases, then deleted.
+When an issue is fixed, verify it yourself, and move the issue's entry from the [Open Issues](#open-issues) to the [Closed Issues](#closed-issues) section for reference by people who may still be on an older IDE version. It can be deleted after it has been fixed for one or two IDE releases.
 
-## Issues
+## Handling of issues related to `noinspection` comments
+
+Many of these issues are related to the [suppression of Code Inspection false positives via `# noinspection ...` comments](https://handbook.gitlab.com/handbook/tools-and-tips/editors-and-ides/jetbrains-ides/code-inspection/#suppressing-false-positives-with-noinspection-comments)
+
+When an issue related to `noinspection` is resolved and included in a released version of the IDE:
+
+1. Search the codebase for the corresponding `noinspection` using the issue id (e.g. `RUBY-25400`)
+1. Remove the `noinspection` comment and run `Inspect Code` on the file to ensure it is fixed.
+1. Move the issue's entry from the [Open Issues](#open-issues) to the [Closed Issues](#closed-issues) section as described above.
+
+## Open Issues
 
 Keep these sections sorted alphabetically. They are headers so that they can be directly linked.
 
-### PLACEHOLDER-1
+### RUBY-31540
 
-### PLACEHOLDER-2
+- Title: Invalid RailsParamDefResolve warning when table name does not match class name
+- Link: https://youtrack.jetbrains.com/issue/RUBY-31540/Invalid-RailsParamDefResolve-warning-when-table-name-does-not-match-class-name
+- Available In:
+- Notes:
+  - Requires `# noinspection RailsParamDefResolve` and other noinspection comments.
+  - This is likely due to our non-standard naming of the `Clusters::Agent` model, where
+    the table is named `cluster_agents` and must be overridden with
+    `self.table_name = 'cluster_agents'`. This also requires overrides and non-standard
+    handling in GraphQL mutations. We should consider renaming this table or model to match
+    standard rails naming conventions.
 
-### PLACEHOLDER-3
+### RUBY-25400
 
+- Title: Programmatically defined constants always produce 'Unresolved reference' error
+- Link: https://youtrack.jetbrains.com/issue/RUBY-25400/Programmatically-defined-constants-always-produce-Unresolved-reference-error#focus=Comments-27-7812554.0-0
+- Available In:
+- Notes: Requires `# noinspection RubyResolve`
+
+## Closed Issues

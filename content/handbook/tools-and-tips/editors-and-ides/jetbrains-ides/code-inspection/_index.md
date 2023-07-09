@@ -3,6 +3,10 @@ title: "Code Inspection"
 no_list: true
 ---
 
+## Sub-pages
+
+{{< subpages >}}
+
 ## Code Inspections
 
 One of the nice features of JetBrains IDEs is "Inspect Code" (`Code -> Inspect Code`).
