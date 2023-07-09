@@ -13,23 +13,65 @@ Jetbrains IDEs in general, and for specific usage of IDEs.
 ## Overview
 
 Jetbrains offers a [suite of powerful integrated development environments(IDEs)](https://www.jetbrains.com/products/)
-for all major software development ecosystems. Although they are separate applications, each IDE shares a common UI and controls, which allows you to easily switch between them without re-learning UX or keybindings.
+for all major software development ecosystems.
 
-## Quick Start
+While they have a somewhat steep learning curve, JetBrains IDEs have many benefits which can make the investment worth it:
 
-1. Decide what IDE you need to use for the project you are working on:
-    - [RubyMine](rubymine) for Ruby/Rails/JS
-    - [GoLand](goland) for golang
-    - [Webstorm](webstorm) for pure-Javascript/Typescript.
-    - Idea for JVM/Java/Kotlin
-    - CLion for Rust
-1. If you are an GitLab employee, you can request and obtain a [License](#licenses) for the IDE(s) you need to use.
-1. Install [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app/).
-1. Use Jetbrains Toolbox to install the IDE you need.
-1. At this point, you should be able to open the project you need to work on. For basic tasks, most things "just work" by default out of the box - that's one of the nice things about using Jetbrains IDEs! **_However, note that very large and complex projects such as the GitLab Rails monolith under RubyMine may an exception to this. See the [RubyMine](rubymine) page for details_**.
-1. For more information, see the [Common Jetbrains Setup and Configuration](setup-and-config) page for details and more advanced info.
-😃.
-1. If you need help, ask in one of the [Chat Groups](#chat-groups)!
+1. **Common UI**: Although they are separate applications, each IDE shares a common UI and controls, which allows you to
+   easily switch between them without re-learning UX or keybindings.
+1. **Powerful proprietary features**: The proprietary support for refactoring, indexing, searching, type checking, code navigation, etc., especially
+   for languages without official language server support, is often much more powerful and faster than what is available
+   from other editor ecosystems.
+1. **Works out of the box**: Since they are language/ecosystem specific, many features work "out of the box", without the
+   need to find, install, or configure any custom plugins or extensions. For example, ESLint and RuboCop have native
+   support, with no plugins required. However, "power users" or complex projects
+   will often want to customize their configurations.
+1. **Curated plugin ecosystem** The Jetbrains plugin ecosystem is (subjectively) more "curated" than other editor ecosystems.
+   Most important tools which are not built into the IDE have officially supported plugins provided by JetBrains
+   (e.g. VueJS, Prettier, NodeJS, etc.), and most popular non-Jetbrains plugins only have one or a small number to choose from.
+   This is in contrast to plugin ecosystems such as VS Codes, where there can be dozens of different plugins for each key tool
+   or library, without a clear way to choose between them, and sometimes they will conflict with each other in keybindings or
+   behavior.
+
+JetBrains IDEs are widely used by many developers. The actual usage numbers are often hard to interpret,
+because most surveys and polls compare each individual IDE (e.g. RubyMine vs. PyCharm vs. IDE) against
+other non-specialized editors (e.g. vim, emacs, VS Code). But, based on recent surveys,
+a rough estimate is that about 15% of professional software developers today use one or more JetBrains IDEs.
+
+## Setup and Configuration
+
+See the the [Common Jetbrains Setup and Configuration](setup-and-config) page for instructions on installing and
+configuring JetBrains IDEs.
+
+## Keymaps
+
+There's a lot of keybindings in JetBrains IDEs. Here's a list for RubyMine: https://www.jetbrains.com/help/ruby/mastering-keyboard-shortcuts.html. You can find the ones for their other IDEs too.
+
+But if you only memorize one keyboard shortcut in JetBrains, make it this one:
+
+- "Find Action": `Cmd-Shift-A" (`Ctrl-Shift-A` on Windows/Linux)
+
+This will let you find a command and execute it, open a tool window, or search for a setting
+just by typing its name, and you can also see the menu location and shortcut (if defined) next to it.
+It is similar to "Command Palette" (`Cmd-Shift-P`) in VS Code.
+
+## Code Inspections
+
+One of the powerful and productivity-enhancing features of JetBrains IDEs is
+[Code Inspections](https://www.jetbrains.com/help/ruby/running-inspections.html
+
+See more details at [Code Inspection](code-inspection)
+
+## Tracked Jetbrains Issues
+
+We keep a list of all JetBrains issues which are relevant to GitLab, and we want to follow/upvote
+in hopes that they eventually get fixed.
+
+See the list here: [Tracked JetBrains Issues](tracked-jetbrains-issues)
+
+## Getting Help
+
+If you need help, ask in one of the [Chat Groups](#chat-groups)!
 
 ## Chat Groups
 
