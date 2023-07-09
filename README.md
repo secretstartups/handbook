@@ -128,7 +128,7 @@ the site using Docker you use this command:
 docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.107.0-ext-ubuntu-onbuild
 ```
 
-or if you have Hugo insalled locally:
+or if you have Hugo installed locally:
 
 ```sh
 hugo

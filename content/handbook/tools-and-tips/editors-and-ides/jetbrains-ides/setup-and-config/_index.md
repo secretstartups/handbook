@@ -7,11 +7,7 @@ no_list: true
 
 Jetbrains IDEs are standardized, so much of the setup and configuration information applies to all IDEs, and is consolidated on this page.
 
-Any setup and configuration and other info that is specific to individual IDEs will be found on these sub-pages. If this is the case, a link will be provided to the specific section in the sub-page.
-
-- [GoLand](../goland)
-- [RubyMine](../rubymine)
-- [WebStorm](../webstorm)
+Any setup and configuration and other info that is specific to individual IDEs will be found on these sub-page under [Individual IDEs](../individual-ides). If this is the case, a link will be provided to the relevant section in the specific IDE's sub-page.
 
 ## Getting Help
 
@@ -20,9 +16,9 @@ Any setup and configuration and other info that is specific to individual IDEs w
 ## Install the IDE
 
 1. Decide what IDE you need to use for the project you are working on:
-    - [RubyMine](rubymine) for Ruby/Rails/JS
-    - [GoLand](goland) for golang
-    - [Webstorm](webstorm) for pure-Javascript/Typescript.
+    - [RubyMine](../individual-ides/rubymine) for Ruby/Rails/JS
+    - [GoLand](../individual-ides/goland) for golang
+    - [Webstorm](../individual-ides/webstorm) for pure-Javascript/Typescript.
     - Idea for JVM/Java/Kotlin
     - CLion for Rust
 1. If you are an GitLab employee, you can request and obtain a [License](#licenses) for the IDE(s) you need to use.
