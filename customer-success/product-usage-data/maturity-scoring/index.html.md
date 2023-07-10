@@ -122,7 +122,7 @@ The following metrics are used to determine a customer's Security Adoption Score
 - Additional CSM Enablement - [Session 1](https://youtu.be/VXtiPVrOzS4) (internal only).  [Session 2](https://youtu.be/xwj-vHMYcUE) (internal only)
 
 ### CD Adoption Scoring
-The following metrics are used to determine a customer's Security Adoption Score:
+The following metrics are used to determine a customer's CD Adoption Score:
 <br>
 ![CD Adoption Scoring](https://lucid.app/publicSegments/view/52a3c35f-a4c0-4632-ab89-258a02d78042/image.jpeg)
 <br>
@@ -150,7 +150,12 @@ In this (internal) [enablement session](https://youtu.be/MQkIlvlsBUA), CSOps & a
 
 ### SCM Adoption Scoring
 # WIP - Target Launch Date: 2023-07-31
-
+The following metrics will be used to determine a customer's SCM Adoption Score:
+<br>
+![SCM Adoption Scoring](https://lucid.app/publicSegments/view/effa9559-1048-4d9f-9fa6-636a2a018221/image.png)
+<br>
+[Adoption Guide Reference Link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#adoption-recommendation)
+<br>
 <br>
 
 ##### **Disclaimer:**  The scoring criterias & thresholds will continue to evolve as we iterate
