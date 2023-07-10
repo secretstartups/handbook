@@ -131,7 +131,7 @@ White Paper or other content offer.
 
 #### Inbound - offline
 
-**Bizible:** This is tracked as an _offline_ channel because touchpoints cannot be applied directly via online means, e.g. Drift and PQL handraises. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
+**Bizible:** This is tracked as an _offline_ channel because touchpoints cannot be applied directly via online means, e.g. Qualified and PQL handraises. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
@@ -464,7 +464,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - **Partner Campaigns** will need to also to update the `{{my.partner name}}` and `{{my.partner crm id}}` for proper routing 
 - For live events, be sure to update the `reply email` token. This is used in the confirmation email. You need to add the correct email address for cancellations or special accomodations, and update the subject to something descriptive. Keep the `%20` between each word in the subject so the subject populates correctly.
 
-### Step 4a: Activate Marketo smart campaign(s)
+### Step 4: Activate Marketo smart campaign(s)
 * If this is a `Vendor Arranged Meeting`:
      * Click the `Smart Campaigns` folder
      * Select the `01 Interesting Moments` smart campaign
@@ -512,7 +512,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing` or `Viewed on Demand` campaigns.
 - For `Speaking Sessions` with pre-registration, find the `Pre-Registration` folder, and activate the `01 - Form Fill` step after populating the smart list with the correct form and landing page.
 
-### Step 4b: Setting Landing Page / Smart Campaign Expiration (Asset Expiration)
+### Step 5: Setting Landing Page / Smart Campaign Expiration (Asset Expiration)
 As of early 2022, Adobe has introduced a new feature to Marketo called `asset expiration`, which can be read about in Marketo's documentation [here](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.html?lang=en#:~:text=Right%2Dclick%20on%20your%20desired,Choose%20an%20expiration%20date). This applies to smart campaigns and landing pages. For GitLab's use case, we have enabled this feature for the following role permissions: `Field Marketing User`, `Marketing Program Managers` and `Marketing User`. If you do not have these permissions would like this feature enabled, please submit an `access request`. 
 
 ##### Asset Expiration Use Cases 
@@ -532,8 +532,16 @@ All programs have different necessities so it will be important to determine how
   - Be mindful of which smart campaigns are set to expire and when because such an event will disable program `registation` and `on-demand` flows.
 - To remove expirations at a later date, right click on the program to return to the capable assets and submit changes. 
 
+### Step 6 Setting up optional self-service cancellation 
+*This option is only available on specific program templates: the Owned Event template and the Executive Roundtable template. Workshop templates may be added at a later time.*
+- Included in the mentioned templates are 2 landing pages and 3 email templates - in the `Self Service Cancellation Assets` folder. To provide a self-service option for recipients to cancel their reservation, these landing pages and email templates will need to be updated.
+- The `Confirm - Register w/ cancellation option` email template needs to be substituted into the `01 Registration Flow` smart campaign on the `Send Email` step. This will send registrants a link to the cancellation landing page when they receive their registration confirmation email. 
+- Grab the URL of the `Cancel Page` landing page and place it in the token called `my.cancellation page`. **If this is not done, the link included in the registration confirmtation email will be broken**.
+- Activate the `01 Cancellation Flow` smart campaign
+- Update the `Send Alert` step to the preferred internal GitLab email address that will receive the cancellation alert. This notifies stakeholders of cancellations. 
+- Activate asset expirations for 2-3 days after the event is over for all live cancellation assets
 
-### Step 5: Update the Salesforce campaign
+### Step 7: Update the Salesforce campaign
 *If you are utilizing the Allocadia, please see below instructions.*  
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
@@ -554,7 +562,7 @@ All programs have different necessities so it will be important to determine how
 - For all SFDC campaign types run by Corporate Events or Field Marketing, please check the `High Priority` check box on the campaign level. 
         * Details on our [pilot](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/6905) we ran with the business development team which led us to add this!
 
-### Step 5: Update the Salesforce campaign - Using Allocadia 
+### Step 8: Update the Salesforce campaign - Using Allocadia 
 Using an integration from Allocadia > Marketo, Marketo > SFDC, the information you've provided in Allocadia will push to your SFDC campaign.  
 
 **Please Note:** You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from Marketo Integration to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed. For additional Allocadia details [go here](/handbook/marketing/strategy-performance/allocadia/#salesforcecom-sfdc).    
@@ -586,6 +594,15 @@ Use these instructions to move people from the waiting list to Registered.
 - Select `Registered`
 Once you click `Registered`, the status will change and the `01c Waitlist to Registered` Smart Campaign will send the Registration Confirmation email.
 
+### Setting up assets for Late/In-person Registration
+This is an _optional_ feature only available for the `Owned Event` program template. Utilize this feature if a team wants flexibility to `register` unregistered attendees that have appeared `in-person` to an `owned event` but the normal registration process through the landing page form has been prevously closed down. **The teams in charge of the event should agree on whether to use this feature _before_ the event and setup should be done prior to when the event starts**. This allows the landing page/form to be manually added as a bookmark on `check-in` devices, such as on GitLab owned `tablets` and `laptops`.
+- Locate the `Late Registration Assets` sub-folder found in the `Assets` folder. This only exists in the `YYYYMMDD_OwnedEvent_EventType_Template` template
+- Request in the MktgOps Slack channel that someone with the needed permissions to approve Marketo program assets activate the `Late Registration page` and `Late Thank you page` landing pages. These are by default `not` approved in the program template. Be sure to check beforehand for anything that needs to be changed, such as the included `form` on the landing page. 
+    - It's highly suggested to change the landing page URL to something short and easier to type before approving the landing page, e.g. `https://page.gitlab.com/EventNameLateReg.html`
+- Take the `Late Registration page` URL and place it in the program `token` named {{my.late registration page}}, leaving out the `https://`. This allows there to be a circular pattern on the registration `Thank you` page. The `Thank you` page displays a return link to the `late registration page` for the next registrant to utilize
+- Activate the `01 Late Registration` smart campaign to activate the flow 
+- Right click on the program to set up the asset expiration dates for **all** `late registration` assets. These are not meant to be left on and should be set to expire the day after the event ends or when it is estimated no more regsitrants will be accepted
+- Share the `late registration page` URL with the appropriate team participating in the upcoming event so the page can be added to check-in devices, such as GitLab owned `tablets` and `laptops`, where it can be accessed on the event floor with ease
 
 ## Steps to Setup in-person Conferences
 
@@ -637,7 +654,7 @@ These steps are not yet configured. If you are planning to do this for your next
 - Add the Marketo program link and SFDC campaign link to the epic.
 - If the program is being ran by Digital Marketing, add the SFDC campaign under the parent campaign `Demand Gen Pulishers/Sponsorships`  
 
-**If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign---using-allocadia).**  
+**If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
 
 ## Steps to Setup Content Syndication in Marketo and SFDC
 
@@ -698,7 +715,7 @@ These steps are not yet configured. If you are planning to do this for your next
 - Add the Marketo program link and SFDC campaign link to the epic.
 - If the program is being ran by Digital Marketing, add the SFDC campaign under the parent campaign `Demand Gen Pulishers/Sponsorships`  
 
-**If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign---using-allocadia).**  
+**If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
 
 ## Steps to Setup Surveys in Marketo and SFDC
 There are two templates to consider when setting up surveys in Marketo, one being specific to Simply Direct and the other a more general survey template. For this section and where instructions diverge, Simply Direct instructions will be labeled with `a` and the more general set up with `b`. 
@@ -748,7 +765,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
-**If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign---using-allocadia).**  
+**If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
 
 ### Step 5: Troubleshooting:
 1. Look at the `Results` tab of the smart campaign, if there are errors, you will clearly see them there.
@@ -941,7 +958,7 @@ In general, the [YYYYMMDD_SurveyName](https://engage-ab.marketo.com/?munchkinId=
 - Sync to SFDC at the program main screen in Marketo, where it says Salesforce Sync with "not set", click on "not set", Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything except click `Save`. 
    - If you are a user of Allocadia, you will need to add the Allocadia raffle line item ID to the `Description` field. Click `Save`.
 - [Update the SFDC campaign](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4-update-the-salesforce-campaign) and associate it to the [parent campaign](/handbook/marketing/marketing-operations/campaigns-and-programs/#parentchild-campaigns) where applicable.
-   - If you are a user of Allocadia, please see instructions [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign---using-allocadia).
+   - If you are a user of Allocadia, please see instructions [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).
 - Go back to the Marketo program and complete the tokens. Update the {{my.Survey Name}} token with the word "Default" - do not use another entry on this token.
 - If you are using a landing page: Update your [Registration page](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#general-marketo-landing-page-creation-instructions), thank you page, and registration confirmation email.
 - If you are using a landing page: Click into the `01a Registration Flow` and change the Smart List to "Form Name is any" and "Web page is" should already be populated with the registration page for this program. The Flow should already be populated for you, but update Step 5 - Interesting Moment to read: "Filled out form to enter raffle {{my.Survey Title}}" in the `Description` field of Step 5. Go to `Schedule` and click "Activate".
@@ -998,54 +1015,6 @@ This program type has a mailbox icon.
 You can view screenshots and further documentation from Marketo here:
 - [Aborting an email program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.html?lang=en)
 - [Unapproving an email program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.html?lang=en)
-
-
-## Pushing DemandBase Lists to Marketo
-Notes: 
-- DB1 Can only pass over existing leads to Marketo, if the prospect doesn't exist in Marketo, it will be skipped.
-- You still need to include email compliance filters on your email sends. This action passes a list, some people may not have consent to email.
-
-### Checklist before initiating push to Marketo:
-1. Check your list type. DB1 can only pass `person` lists, not `account` lists. 
-1. Make sure your list filters contain `Compliance Segment Value` not equal to `NULL` or empty, `Default`, `Do Not Email`
-1. Check your numbers on the list. The following applies:
-    - **Any list over 10k** - you need ops approval to send - Add label ~"MktgOps::00: Triage" in the issue if you need to send over 10k 
-    - Please try to not include over 100 people at a single account to avoid triggering SPAM filters at that account
-        - Add the `Engagement Minutes` filter at the person level to get down under 100 people per account. If you send to more than 100 people per account, it will trigger spam filters.
-    - For *geo wide* - i.e. all of AMER West - send should be no more than 10K
-    - For *Sub-geo* - i.e all of NorCal - no more than 5k sends
-    - For *territory* - i.e. Bay Area - no more than 2,500k
-
-
-### Instructions:  (some lists and campaigns may already exist, we are in the process of updating templates to speed up this process) 
-[Refer to this video](https://www.youtube.com/watch?v=pjL1nNheheA&list=PL05JrBw4t0KrFeuJ4JbrDZKlp6gWX0uFf&index=6) for a walkthrough of the below steps.
-
-1. Ensure your list fits the criteria above.
-1. Navigate to the Marketo Program that you would like to add your DB1 list to.
-1. Under the `Lists` folder, find the list called `DB Push List - [Update event name]`. Click on this list and change `[Update event name]` to the name of your event. 
-     1. If there is no list already created, create a static list by right-clicking on `Lists` and then click `New Local Asset` and select `List` from the pop up box. Name your new list`DB List Push - Name of your Event`. No `Description` is needed. Click `Create`.
-1. A Smart Campaign has already been created in the `Smart Campaigns` folder to push the list from DB1. Under the `Smart Campaigns` folder, find the Smart Campaign called `DB1 List Push`. Click on this campaign, then click on `Flow`. Confirm that the name of the list you modified or created above is in the first flow step. Once you have confirmed this, skip to step 5.
-     1. If there is no Smart Campaign for the list push, create a new smart campaign by right-clicking `Smart Campaigns` and selecting `New Campaign`. The campaign name should be easily identifiable to you, as you will be searching for it in DB1. Please use `DB` prefix so it's purpose is easily identifiable in Marketo. You do not need to fill in `Description` or click `Executable`. Click `Create`.
-     1. Update the Smart List in the campaign by clicking `Smart List` at the top of the page
-        1. On the right hand side of the screen, type in `Campaign` in the search field
-        1. Drag `Campaign is Requested` from the right side of the page to the middle section of the page
-        1. Update the source in the drop down to `Web Service API`
-        1. You can add other filters here as necessary. Since your list will be made in DB1, you likely won't need any additional filters here.
-    1. Update Flow by clicking on `Flow` at the top of the page
-        1. Drag `Add to List` from the right side of the page to the middle of the page 
-        1. Find the list you created in the step above in the drop down by typing in name of the list. Note that your list name will include the name of the program as well. For example - if your list name is DB1 List Push - East Event, the full name that will pull is 20210610_EastEvent.DB1 List Push - East Event
-        1. If you need this group to have a specific member status, you can add that step as well by dragging over `Change Program Status` and update the new status. However, this is generally not recommended.
-1. Turn on the program by clicking `Schedule` at the top of the page and clicking `Activate` and then `Activate` again in the pop up box. People should only pass through once.
-1. Log into the DB1 platform and navigate to your list in the `Database` section of DB1 - *Must be a person list*
-    1. You want to select all the names by clicking the checkbox at the top of the list next to `Name`. This will only select the page you are on so if you want to select all of the names on the list, click `Select All Rows` at the top of the list. Click the `Take Action` button.
-    1. A sidebar on the right will pop up. Select `Add to Marketo Campaign` under `Partner Actions` section. Confirm that the number of records in the sidebar closely matches the number of records you selected. If it is off by a few records, this is fine. If it is off by hundreds or thousands, notify MOps before you complete the list push.
-    1. Select the campaign in the drop down that you created a few steps ago. If you do not see your campaign, click the wheel next to the drop down to re-load the campaigns from Marketo. If it still does not show up, make sure that you activated the Marketo Smart Campaign in the previous steps above.
-    1. Click `Confirm`
-    1. Leads will momentarily populate your Marketo static list. In the sidebar, there will be a link to check the status of the push by clicking `See action history for status` and clicking `Job Status`. You can also view this in `Settings>History>Action History` in DB1. Loading the list may take some time but usually should take no longer than 15-20 minutes. Once your list is available, all the people in your list will show up under `Action Status` with a checkmark by `status`.
-1. Go back to your Marketo program to make sure your list is available. To do this, go to the `List` folder and click on the list you created (DB1 List Push - East Event). Select `People` at the top of the page. This is where you will see all of the people in your list and can confirm the pull was successful.
-    1. Once your list has successfully pulled to Marketo, deactivate the smart campaign. To do this, go to your Marketo program, click the `Smart Campaigns` folder on the left hand side of the screen under your program, click the name of your DB1 list push that you created steps above, click `Schedule` at the top of the page and click `Deactivate`.
-
-Once your list is pushed from DB1 to Marketo, you will need to reference the static list that you created under the Marketo `List` folder (DB1 List Push - East Event) in your target lists. This reference is already built into the templates on the `Target List`, you only need to confirm the name of the DB list is correct in the filters. **If you are working with Verticurl:** You will want to reference the static list you created under the Marketo `List` folder (DB1 List Push - East Event) in your invite issues so they know which list to pull for your email sends. Verticurl will also make sure all the correct compliancy filters have been applied in Marketo before scheduling your send. **You still need to have the proper email compliance filters on any of your email programs.
 
 ### Instructions: How to update Conferences with more than 5,000 attendees
 For conferences list loads with more than 5,000 attendees, consider not marking them as `success`. If the acting `Field Marketing Director` agrees to avoid marking these members as `success`, these are the steps to avoid that from happening. **This can only be done by a member of the MktgOps team!**

@@ -59,6 +59,24 @@ The following teams have role-based access to 6sense:
 
 Training schedule TBD. Schedule of trainings and recordings of trainings will be posted here.
 
+### Orchestration
+
+#### Add Lead to Sequence from the Account
+
+With 6Sense, you can use segments to monitor the intent and engagement of target accounts from the Sales Intelligence dashboard in Salesforce.
+
+1. In the Sales Intelligence dashboard, review the `Profile Fit`, `Account Reach` and `Buying Stage` for accounts showing signals for buyer intent. 
+2. Under Persona Map, you’ll be able to identify the leads that fit the ideal customer profiles with a strong `Engagement Grade`.
+3. Select the lead and `add to Outreach` 
+4. Outreach will prompt you with Outreach Sequence, pick the sequence you would like to add the lead to.
+
+#### Acquire New Contacts to Outreach Sequence
+
+You can add a segment to an Outreach Sequence directly on the 6Sense Naive Web Application. To do so, you’ll need to create a new orchestration with the criteria: I want to `acquire new contacts` and add them to `an Outreach Sequence`. 
+
+Refer to the [Knowledge Base](https://support.6sense.com/knowledge-base/360062650793-getting-started-with-acquire-new-contacts-to-outreach-sequence/) (you must be logged in to access the knowledge base) for the step to step instructions.
+
+
 ## Best Practices 
 
 ### Folder Naming Convention
@@ -92,6 +110,11 @@ Generally means that the Account has been participating in MAP / CRM activities 
 Qualified by 6sense, a 6QA is an account that is primed for sales engagement.
 
 Due to increases in intent, profile fit and engagement, a 6QA occurs when an account moves from an earlier buying stage (Target, Awareness or Consideration) to a later buying stage (Decision or Purchase), making them qualified for sales activity. It is marketing’s goal to drive accounts to either inbound or 6QA.
+
+6QA status is true when 1 AND 2 are met:
+
+1. `Account Profile Fit` for Gitlab is equal to Moderate or Strong.
+2. `Account In-Market Stage` for Gitlab is equal to Decision or Purchase.
 
 **6sense Account Buying Stage Definitions**
 - **Target** - The buyer may not realize a problem exists, but may fit within the seller’s TAM.
