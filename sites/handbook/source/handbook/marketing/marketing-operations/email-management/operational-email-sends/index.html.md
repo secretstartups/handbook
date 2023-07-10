@@ -1,4 +1,3 @@
-
 ---
 layout: handbook-page-toc
 title: "Email Management"
@@ -170,7 +169,7 @@ The requestor (Security, CSM, etc.) will follow the process below to create the 
 * Requestor is responsible for approving test email and providing send time and date
 
 /confidential
-/label ~"Customer Success" ~CSM 
+/label ~"Customer Success" ~"CSM" ~"email-calendar" ~"operational-email"
 /cc @amy.waller @bweatherford
 ```
 

@@ -13,16 +13,16 @@ We have nine Lead / Contact Statuses to represent where the lead currently sits 
 
 | Status | Definition | Related Salesforce queue, if applicable |
 |--------|--------|--------|
-| Raw | Untouched prospect, default status | N/A, `Raw` leads should always be owned by the XDR who sourced them while they're being worked |
+| Raw | Untouched prospect, default status | `Raw Queue` |
 | Inquiry | Action was taken by the record to specifically give their contact information to GitLab | `Inquiry Queue` |
 | MQL | Marketing Qualified through systematic means | N/A, `MQL`s are owned by the XDR responsible for engaging and qualifying them  |
 | Accepted | Actively working to get in touch with the lead/contact | N/A, `Accepted` leads are owned by the XDR engaging and qualifying them |
 | Qualifying | In 2-way conversation with lead/contact | N/A, `Qualifying` leads are owned by the XDR engaging and qualifying them |
 | Qualified | SAO created & hand off to Sales team | N/A, `Qualified` leads represent leads that have been converted, most often to create an opportunity |
-| Disqualified | Person has been disqualified from our sales cycle | `Unqualified Queue` (name change in progress) |
-| Recycle | Record is not ready for our services or buying conversation now, possibly later | `Nurture Queue` (name change in progress) |
+| Disqualified | Person has been disqualified from our sales cycle | `Disqualified Queue` |
+| Recycle | Record is not ready for our services or buying conversation now, possibly later | `Recycle Queue` |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means | `Bad Data Queue` |
-| Ineligible | All leads/contacts that are ineligible to go through the sales process after an initial review | N/A at the moment, queue creation in progress |
+| Ineligible | All leads/contacts that are ineligible to go through the sales process after an initial review | `Ineligible Queue` | 
 
 In addition to our statuses, there are substatus that are required for XDRs to use. The substates are in use for the following Statuses: Disqualified, Ineligilble, Recycle & Bad Data:
 
@@ -47,6 +47,7 @@ In addition to our statuses, there are substatus that are required for XDRs to u
 | ECCN |
 | Open Source Program |
 | GitLab Employee or Candidate |
+| Customer Success |
 
 | Recycle |
 | ----- |
@@ -59,6 +60,7 @@ In addition to our statuses, there are substatus that are required for XDRs to u
 | Product limitation |
 | Staying with subversion option |
 | No data aollected |
+| Recalled from Partner |
 
 | Bad Data |
 |---- |

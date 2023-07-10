@@ -61,11 +61,12 @@ The Marketing Operations team is responsible for managing access requests & prov
 
 ### User Roles
 
-There are four levels of access - `Admin`, `Author`, `Reporter`, and `Viewer` - which are granted based on the persons' role and team function within GitLab. All access levels have the ability to view analtyics within the tool. 
+There are four levels of access - `Admin`, `Author`, `Reporter`, `Viewer`, and `Uploader` - which are granted based on the persons' role and team function within GitLab. All access levels have the ability to view analtyics within the tool. 
 
 - `Admin` access is granted to Marketing Operations and at times, other teams such as sales or business operations to manage integrations between systems.
 - `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
 - `Viewer` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access. 
+- `Uploader` access allows users to create, edit, and delete content within tracks that have already been created, but does not allow users to create, edit, or delete tracks 
 - `Reporter` access allows users to view all analytics pages within our instance of PathFactory. 
 - `Sales User` is anyone who has a valid email domain associated with our PathFactory instance, but who does not have a login. These users are not able to login to PathFactory, but they will be able to share any content tracks that `Admins` select on the `Sales Configuration` page.
 

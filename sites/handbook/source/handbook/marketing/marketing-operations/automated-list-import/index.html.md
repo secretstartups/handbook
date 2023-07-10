@@ -13,7 +13,7 @@ description: "Automated process developed by Marketing Operations to facilitate 
 - TOC
   {:toc .hidden-md .hidden-lg}
 
-With the purpose of increasing efficiency through the use of automation, Marketing Operations has developed a self-service process for list imports, to be used by campaign managers when they have third party vendor lists from events.
+With the purpose of increasing efficiency through the use of automation, Marketing Operations has developed a self-service process for list imports, to be used by campaign managers when they have third party vendor lists from events/other campaigns or to update the member status on field marketing events.
 
 The objective of this process is to reduce the SLA for list imports to a minimum, allowing leads to be followed up as soon as possible by SDR/BDR teams while minimising the busy work of the various teams involved.
 
@@ -184,7 +184,7 @@ The following data cleanup is required for any list prior to sending it to the M
 
 1. `Zip Codes` contain five (5) numbers, States in US East may start with a `0`, make sure the `Zip/Postal Code` field is **plain text** and the leading `0` appears.
 
-1. Member Statuses must match exactly to the program type and member status [listed](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status).
+1. Member Statuses must match exactly to the program type and member status [listed](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status). If you are updating the member status for an event where we collected registrations through a form, you must include both `No Show` and `Attended` records.
 
 1. If list contains non-Latin characters (ex. Asian languages), it must be uploaded to Marketo using UTF-8 and UTF-16. [Marketo instructions here](https://docs.marketo.com/display/public/DOCS/Import+a+Non-Latin+Characters+List). Salesforce Data Loader requires UTF-8 encoding, [instructions here](https://help.salesforce.com/articleView?id=faq_import_dataloader_specialchars.htm&type=5).
 
