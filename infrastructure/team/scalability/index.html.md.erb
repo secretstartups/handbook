@@ -74,73 +74,7 @@ for each of GitLab's services.
 
 ## Direction for FY24
 
-The Scalability Group aligns with the [Platforms Department direction for FY24](https://about.gitlab.com/handbook/engineering/infrastructure/platforms/#fy24-direction).
-We are framing our direction using our Themes, having selected Horizontal Scalability and Advocacy/Facilitation as our main focus for the year. 
-
-### Horizontal Scalability
-
-#### Transition Redis to a low-touch service
-
-In FY23, the Scalability Group has focused quite heavily on making sure that none of our Redis instances are at risk of saturation, with several projects in process to support this goal. 
-In the year ahead, we need to achieve a lower-touch model, similar to what we achieved with Sidekiq. 
-When we have defined a scaling strategy per instance and automated as many of the scaling options as possible, we will have a clearer path to defining what is required for long-term ownership of this service. 
-
-From a practical perspective, this means:
-- setting and achieving a set of key saturation targets (eg, cpu, memory) per cluster 
-- determining which scaling options are suitable for each instance
-- automating scaling activities for Redis
-
-### Scalability Advocacy and Facilitation
-
-#### Establish best practises for service maturity
-We have developed processes and systems for delivering information to stage groups and reliability teams about the services used to deliver GitLab.com.
-To the stage groups, we deliver availability information through Error Budgets and to the Reliability teams we deliver capacity planning information with the help of Tamland. 
-Our ability to deliver this information and expand our offering lies with having good data emitted from mature services. 
-In order of criticality, we will expand the information we offer for services and link this to the Service Maturity Model.
-By offering additional features to services that are more mature we hope to encourage service owners to continually improve the maturity of their services. 
-
-Initial thoughts for this are:
-- ownership of the Service Catalog and refreshing it to match current needs
-- create definitions for service criticality and maturity
-- let the problems that we are trying to resolve guide us towards the services that we need to make more mature
-- ensuring that mature services include usage information per stage group, inclusion in the Error Budget, and scaling information
-- demonstrating the value that a service owner will receive as they improve the maturity of their service
-
-#### Share cost data with resource owners and users
-
-We already share certain elements of resource usage information with the stage groups to raise awareness about the resources required to support their feature categories.
-We will expand on the data we provide and include resource cost information. 
-This can take the form of cost per service (for example, how is the storage cost of the database attributed to each feature category),
-or per feature category (for example, what is the sum of all resources used to deliver GitLab Pages). 
-Access to this information can support product leadership in investment decisions.
-
-A future iteration for another year might be to incorporate usage information into a projections tool (like Tamland) to estimate future costs. 
-
-#### Incorporate more data sources into Error Budgets
-
-We are establishing a [performance indicator for Error Budgets](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/880).
-This includes a score for the "completeness" of the Error Budget data. 
-We will include the remaining operation types into Error Budgets and provide the necessary tools for the stage groups to inspect these operations.
-
-#### Expand our domain to include other SaaS Platforms
-
-Currently our focus is on GitLab.com but we must expand our focus to include other SaaS platforms such as Dedicated. 
-Scalability group has focused on GitLab.com exclusively while it was the sole SaaS platform operated by GitLab Inc. With the introduction of GitLab Dedicated we must expand our expertise and reach to this single tenant offering. The scale there is measured in a number of instances running at any given time, and to a lesser extent, the size of those instances.
-
-Throughout FY24, we need to provide help to GitLab Dedicated teams to ensure that individual tenant SLA's are consistently met, and offer our expertise in creating a set of views that allow the team to quickly identify operational bottlenecks.   
-### Eliminating Toil
-
-#### Adjust the capacity planning process to more closely model that of the Error Budgets
-
-In FY23, the Scalability Group took ownership of the capacity planning process. 
-We improved the process to make it simpler to operate, but there is still a large amount of manual intervention required by the Scalability Group. 
-Our time available for these activities should rather be spent on supporting service owners with their capacity needs.
-This enables us to monitor the outliers and prove support where needed. 
-
-First steps may include:
-- establishing service owners and ownership models and including this in the Service Catalog
-- automated routing of warnings to service owners
-- determine the best way to support owners and follow up on overdue warnings
+We've moved the direction to the direction section [here](/direction/saas-platforms/scalability/) so that it's in the same place as the rest of our product direction.
 
 ## Indicators
 
