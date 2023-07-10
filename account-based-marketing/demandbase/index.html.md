@@ -227,7 +227,6 @@ You can find a guide for Field Marketing Lists [below](/handbook/marketing/accou
 1. Click create. From there, you will be taken to the selector tab. Navigate from the basic tab to the advanced tab. 
 1. Click the + sign in the center to add your first selector or search at the right hand side and drag the selector into the center. You will build out your list the same way you would build a Salesforce report. 
 
-**IMPORTANT: IF YOU ARE BUILDING A PERSON LIST TO BE PUSHED TO MARKETO - PLEASE ALSO FOLLOW THESE INSTRUCTIONS [HERE](/handbook/marketing/marketing-operations/campaigns-and-programs#pushing-demandbase-lists-to-marketo).**
 
 #### Common Selectors to Use
 Any information or fields in Salesforce will be available in Demandbase. If you are wanting to use a Salesforce filed in your Demandbase list but don't see it in the platform, please ping in the #abmteam slack channel.
@@ -376,7 +375,7 @@ Demandbase is a direct reflection of Salesforce. Any lead, contact, or opportuni
 ## Demandbase & Marketo
 {: #demandbase-marketo}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-There is an integration between DemandBase and Marketo that allows marketers to push people lists from DemandBase to Marketo for targeting. For instructions on how to do this, go to the [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs#pushing-demandbase-lists-to-marketo).
+There is an integration between DemandBase and Marketo that allows marketers to push people lists from DemandBase to Marketo for targeting, however we are no longer using this. If you require assistance, please contact Marketing Ops. 
 
 ## Field Marketing Use Cases within DB1
 {: #field-marketing-use-cases .gitlab-purple}
@@ -470,7 +469,7 @@ Once you’ve decided to move forward with a direct mail campaign, you will need
 
 Next you build a Persons List in Demandbase. This will allow you to dive deeper into your account lists on an individual level and/or search for individuals to build a targeted list. You can reference your Account List to assist in building your Persons List. Allow for 60 days prior to the campaign launch date. Templates for selectors can be found below. Why is your persons list important? This data will show you which individuals from your account list are of interest; deeper understanding as to who you should be targeting. This will also be the list you refer to for email invitations.
 
-How do I get the individuals from my persons list into Marketo for email invitations / sends? _Training Material Coming Soon (including DB1 to_[Marketo integration video](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#pushing-demandbase-lists-to-marketo)_).*
+How do I get the individuals from my persons list into Marketo for email invitations / sends? Contact Marketing Ops for assistance.
 
 Once you've completed your Demandbase account list/ persons list and filled out the FM issue, you will need to notify your SDR manager(s) of the campaign by filling out a SDR Request Issue for a SDR DRI to work with you to not only build out the Outreach sequence template but to ensure that the flow of the campaign is user friendly for the SDR team. Allow for 45 days from SDR Manager(s).
 
@@ -497,7 +496,6 @@ Selectors:
 - Compliance Segment Value not equal to NULL or empty, Default, Do Not Email
 - People with Any Activity: Drills down to activity date of which you'll have a drop down menu of how you'd like to segment the list. Example: People with Any Activity --> Activity Date In the Past 1 Month
 - Account Rank = List out the account ranks you wish to work with. You can select multiple ranks if you'd like
-- If you will be pushing this list to Marketo, you will also need the fields listed [here](/handbook/marketing/marketing-operations/campaigns-and-programs#pushing-demandbase-lists-to-marketo).
 
 [Template](https://web.demandbase.com/o/d/p/l/260442/s) - Template is a cloned version of the Security Direct Mailer Campaign Persons List. View the Details panel for more information (issue, SFDC Campaign, etc).
 
