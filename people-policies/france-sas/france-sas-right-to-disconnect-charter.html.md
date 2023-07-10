@@ -193,7 +193,7 @@ Si un membre de l'équipe:
 
 - estime que son supérieur hiérarchique ne respecte pas la charte ou ne se sent pas à l'aise pour soulever une question relative à la charte auprès de son supérieur hiérarchique;
 
-Ledit Salarié peut contacter le service des ressources humaines (ou [Team Member Relations](teammemberrelations@gitlab.com)). 
+Ledit Salarié peut contacter le service des ressources humaines ou Team Member Relations au teammemberrelations@gitlab.com. 
 
 Les membres de l'équipe qui ne respectent pas la présente charte peuvent faire l'objet de mesures disciplinaires.
 
