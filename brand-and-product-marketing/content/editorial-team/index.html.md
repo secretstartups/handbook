@@ -600,6 +600,8 @@ How to spell and style commonly used words.
     - D and O always capitalized
 - E-Group
     - references to E-Group should always include a capital E, hyphen, and a capital G
+- emoji
+    - use emoji for singular and plural
 - Git
     - always capitalized
 - GitHub
