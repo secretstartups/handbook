@@ -142,9 +142,13 @@ Find us on Slack at #customer-advocacy-and-references.
   - Survey feedback / NPS
   - Associated pipeline
 
-### Approved Customer Logos for promotion
+# Approved Customer Logos for promotion
 We are actively working on a single source of truth document. In the meantime, please contact the advocacy team for any logo inquiries.
 
-### Which customer reference team member should I contact?
+# Which customer reference team member should I contact?
 
 While the team is growing, please start in the #customer-advocacy-and-references channel and your question will be triaged.
+
+# Base Customer Advocacy Platform
+
+Base is a B2B Customer Marketing & Advocacy automation platform that uses AI to enable marketers to streamline engagement, generate customer references, gain insights, capture VoC, and scale advocacy. The team is currently working to implement Base. Stay tuned on this page for more info soon. If you have questions, feel free to reach out on #customer-advocacy-and-references slack channel. 
