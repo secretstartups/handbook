@@ -18,14 +18,21 @@ The Plan UX team supports [Product Planning](/handbook/product/categories/#produ
 Some UX specific processes we follow. All groups in Plan don't have to work exactly the same way, but standardizing opens up some efficiencies for us. When it's possible to standardize, we should.
 
 ### UX issue management, weights and capacity planning
-- As a pilot starting in June 2023, Product Planning, Project Management and Optimize will consistently create issues for UX work and pre-pend the title with [UX]. Here is an example - https://gitlab.com/groups/gitlab-org/-/epics/10224#note_1337213171+
-    - UX issues are the SSOT for design goals, design drafts, design conversation and critique, and the chosen design direction that will be implemented. 
-    - Product requirement discussions should continue to happen in the main Issue or Epic as much as possible.
-    - When the Product Designer wants to indicate that the design is ready for ~"workflow::planning breakdown", they should apply this label to their issue, notify the PM and EM, and close the issue.
-- UX issues should have a weight before work is scheduled for a milestone. 
-    - Issue weights should follow the [UX Department's definitions](/handbook/product/ux/product-designer/#ux-issue-weights).
-    - The issue weight can be added to the `weight` field, but should be duplicated as a ~'design weight:" label. This is for UX Department planning purposes.
-    - Product Managers and Product Designers can use issue weights to ensure the milestone has the right amount of work, to discuss tradeoffs, or to initiate conversations about breaking work into smaller pieces for high-weight items.
+As a pilot starting in June 2023, Product Planning, Project Management and Optimize will consistently create issues for UX work and pre-pend the title with [UX]. Here is an example - https://gitlab.com/groups/gitlab-org/-/epics/10224#note_1337213171+
+
+- UX issues are the SSOT for design goals, design drafts, design conversation and critique, and the chosen design direction that will be implemented. 
+- Product requirement discussions should continue to happen in the main Issue or Epic as much as possible.
+- When the Product Designer wants to indicate that the design is ready for ~"workflow::planning breakdown", they should apply this label to their issue, notify the PM and EM, and close the issue.
+
+#### When should a UX issue be used?
+UX issues should be used for medium or large projects that will take more than one dev issue to implement (e.g., end-to-end flows, complicated logic, or multiple use cases / states that will be broken down by engineering into several implementation issues). If the work is small enough that implementation can happen in a single issue, then a separate [UX] issue is not needed, and the designer should assign themselves to the issue and use workflow labels to indicate that it's in the design phase.
+
+#### Weighting UX issues
+All issues worked on by a designer should have a UX weight before work is scheduled for a milestone. 
+
+- Issue weights should follow the [UX Department's definitions](/handbook/product/ux/product-designer/#ux-issue-weights).
+- If the issue is a dedicated [UX] issue, then the issue weight can be added to the `weight` field, but it should also be duplicated as a ~'design weight:" label. This is for UX Department planning purposes. For smaller issues where implementation and UX work happen in the same issue, UX weight should be added using the ~'design weight:" label (the `weight` field is used by engineering).
+- Product Managers and Product Designers can use issue weights to ensure the milestone has the right amount of work, to discuss tradeoffs, or to initiate conversations about breaking work into smaller pieces for high-weight items.
 
 
 
