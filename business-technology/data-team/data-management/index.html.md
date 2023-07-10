@@ -148,6 +148,11 @@ Here is a sample checklist of activities:
 - Review Data Siren to confirm known existence of RED data.
 - Generate a report of Business logic changes to the TD: Sales Funnel dashboard in the quarter. Business logic such as adding new dimensions, new facts, new marts, changing joins, adding new calculated fields.
 
+#### Airflow
+
+- Remove log files older than 90 days.
+     - Following [this runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/airflow_infrastructure/archival_pvc_volume/delete_pvc_volume.md) remove old Airflow logfiles to reduce PVC. If we run out of disk space Airflow stops working.
+
 ## Exceptions
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
 
