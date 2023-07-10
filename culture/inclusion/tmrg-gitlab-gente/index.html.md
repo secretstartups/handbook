@@ -31,6 +31,7 @@ To promote advancement, cultural awareness, talent recruitment, retention, and p
 * [Pilar Mejia](https://gitlab.com/pmejia)
 * [Hugo Azevedo](https://gitlab.com/hugoazevedo) - Co Lead 
 * [Romer Gonzalez](https://gitlab.com/romerg) - Co Lead
+* [Leo Curiel](https://gitlab.com/leocuriel) - Co Lead
 
 ## Founding alumni 
 * Chris Cruz - Co Lead
