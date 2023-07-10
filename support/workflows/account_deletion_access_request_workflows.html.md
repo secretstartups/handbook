@@ -130,7 +130,7 @@ At this stage, do the following:
 
 ##### No Response
 
-If the user fails to respond within 7 calendar days, apply the `Account Verification Failed` and `deletion request:: denied` labels to the issue, and close it using the following snippet:
+If the user fails to respond within 7 calendar days, close it using the following snippet (note the 2 labels that are set: `Account Verification Failed` and `deletion request:: denied`):
 
 <details>
   <summary markdown="span">Request Closed - No Response</summary>
@@ -140,6 +140,8 @@ If the user fails to respond within 7 calendar days, apply the `Account Verifica
   <p>We have not heard back from you with responses to our verification challenge questions, which are required in order to verify your identity before we process your request. We will now close this request. If you still wish to proceed please feel free to submit a new request via our [Personal Data Request Form](https://support.gitlab.io/account-deletion/).</p>
 
   <p>Regards,</p>
+
+  /label ~"Account Verification Failed" ~"deletion request:: denied" 
 </details>
 
 #### **Step 1.5:** Blocked or Banned Accounts
