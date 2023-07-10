@@ -1002,6 +1002,7 @@ Submit a test lead using your GitLab email on the LIVE landing page to make sure
 ON24 will automatically convert the video to on-demand in the ON24 platform. The steps below allow us to further leverage the webcast in Pathfactory. If you are going to drive to On24 directly for On-demand viewing (such as for large corporate events), skip to the instructions below starting at `Using On24 for On-Demand Viewing`.
 
 1. **Vimeo**: vimeo provides an ads free user expierence, therefore should be primary video platform used for on-demand recording uploads. To request an upload, open [an issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request) with Digital Production Team.
+   - Instructions on uploading Vimeo videos to Pathfactory can be found [here](/handbook/marketing/marketing-operations/pathfactory/content-library/#vimeo-links)
 1. **YouTube**: upload the recording to our main GitLab channel:
    * Fill in the title with the webcast title matching the Marketo token (`{{my.webcastTitle}}`)
    * Fill in the description with the short description matching the Marketo tokens (`{{my.contentDescription}}`)
