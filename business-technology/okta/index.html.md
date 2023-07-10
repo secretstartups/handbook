@@ -143,7 +143,7 @@ Please fill open up the Slack form using /yubikey in a DM to yourself, ([check o
 
 ## Device Trust
 
-Okta Device Trust ensures that team members are acccessing Okta applications from a managed device. For additional details and timelines, please see the [internal handbook](https://internal-handbook.gitlab.io/handbook/it/okta-device-trust/).
+Okta Device Trust ensures that team members are acccessing Okta applications from a managed device. For additional details and timelines, please see the [internal handbook](https://internal.gitlab.com/handbook/it/okta-device-trust/).
 
 ### Device Trust Setup on macOS
 
