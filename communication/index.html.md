@@ -410,7 +410,7 @@ Below are a few things to remember when creating issues:
 1. Assign an issue to yourself as soon as you start to work on it, but not before that time. If you complete part of an issue and need someone else to take the next step, **re-assign** the issue to that person.
 1. Ensure the issue **title** states what the desired outcome should be. For instance, for bugs make sure the issue states the desired result, not the current behavior.
 1. **Regularly update** the issue description with the latest information and its current status, especially when important decisions were made during the discussion. The issue description should be the **single source of truth**.
-1. If you want someone to review an issue, do not assign them to it. Instead, @-mention them in an issue comment. Being assigned to an issue is a signal that the assignee should or intends to work on it. So you should not assign someone to an issue and mis-represent this with a false signal.
+1. If you want someone to review an issue, do not assign them to it. Instead, @-mention them in an issue comment. Being assigned to an issue is a signal that the assignee should or intends to work on it. So you should not assign someone to an issue and misrepresent this with a false signal.
 1. If you'd like to inform someone about an issue or assign a task to them, do so via an issue comment, not only by adding them to the description. The to-do item generated when you mention someone in an issue description provides little context for the action you're requesting. But using a comment to explicitly inform someone of the action you'd like them to take ensures that when they read the associated to-do item they won't need to read the entire issue to gather the context they need to complete the work.
 1. Do not close an issue until it is [**done**](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done). It's okay to explicitly ask if everyone is on board and in agreement on how to move forward, whether to iterate, close the open issue, or create a subsequent MR to implement a MVC.
 1. Once a feature is [**done**](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), update the description to add a link to the corresponding documentation. When using a Search Engine, issues often appear before documentation pages, which makes it harder to find the relevant information about the feature.
@@ -596,14 +596,14 @@ In the video below, GitLab CEO Sid Sijbrandij explains why there are no presenta
 
 There are times when presenting during a meeting is needed. This may occur when adding more context to a specific topic on slides. If this is the case, consider the following:
 
-- A presentation, with optional attendance and mandatory recording. This will allow clarifying questions to be asked and answered efficently and enables team members to watch async.
+- A presentation, with optional attendance and mandatory recording. This will allow clarifying questions to be asked and answered efficiently and enables team members to watch async.
 - Include an async Q&A doc for team members who did not attend the presentation.
 - Ensure the async Q&A doc is linked in the YouTube description.
 
 **Best Practices for Pre-Recorded Presentations**
 
 1. Use Zoom to create a pre-recorded video presentation.
-1. Post the recrding to the GitLab [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and attach it to the meeting agenda.
+1. Post the recording to the GitLab [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and attach it to the meeting agenda.
 1. At least 24 hours in advance of the meeting, announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand.
 
 ### Meeting introduction guidelines
@@ -635,7 +635,7 @@ In this example, the introductions would be:
 1. For team members working in AMER timezones who regularly collaborate with APAC team members:
    - If all meeting attendees are located in AMER timezones, the meeting should be scheduled outside of the [PST afternoon block](/handbook/communication/#apacamer).
    - The PST afternoon block should be reserved for [cross-regional collaboration](https://about.gitlab.com/handbook/communication/#cross-regional-working-hours-recommendations) with team members whose timezones make it harder for them to meet earlier in the day.
-   - Due to the number of timezones covered in APAC, the [PST afternoon block](/handbook/communication/#apacamer) will only overlap with the Eastern most APAC countires
+   - Due to the number of timezones covered in APAC, the [PST afternoon block](/handbook/communication/#apacamer) will only overlap with the Eastern most APAC countries
 1. If you want to ask GitLab team members if they are available for an event please send a calendar invite with Google Calendar using your Google GitLab account to their Google GitLab account. When you add a GitLab team member as a “Guest” in Google Calendar, you can click the See Guest Availability button to check availability and find a time on their calendar. These calendar invites will automatically show up on all parties calendars even when the email is not opened. It is an easier way to ensure everyone has visibility to the meeting and member’s status. Please respond quickly to invites so people can make necessary plans.
 1. If you want to check if a team member is available for an outside meeting, create a calendar appointment and invite the team member only after they respond yes. Then invite outside people.
 1. When scheduling a call with multiple people, invite them using a Google Calendar that is your own, or one specific to the people joining, so the calendar item doesn't unnecessarily appear on other people's calendars.
@@ -1143,7 +1143,7 @@ We have a low internal email culture, as we see greater efficiency in other form
 1. Only Google Workspace domain admins are allowed to provision Google Groups and email distributions.
 1. Emails are asynchronous, for example, if your manager emails you on a weekend it is fine to reply during the workweek.
 1. If an email is or has become **urgent** feel free to ping people via chat referencing the subject of the email.
-1. If you or your team needs to send an email to a group of team members, not grouped in a current [Google email group](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members), and specifically related to personally identifiable information (location, state, country, etc) please contact a Total Rewards Analyst at total-rewards@gitlab who can create an email list from Workday data, with approval.
+1. If you or your team needs to send an email to a group of team members, not grouped in a current [Google email group](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members), and specifically related to personally identifiable information (location, state, country, etc.) please contact a Total Rewards Analyst at total-rewards@gitlab who can create an email list from Workday data, with approval.
 1. Where appropriate, consider using professional salutations including Hi or Hello and avoid colloquial expressions such as Hey, Oh, or Sup. Sometimes only the person's name is suitable. The level of formality should often mirror the formality from previous messages when communicating with internal team members as well as external persons.
 1. Try to always use a person's name when starting or responding to a message, especially if there are multiple persons cc'd, so that the addressee knows you are addressing them.
 1. Make sure all relevant letters and words that need capitalization are capitalized, such as the start of sentences or the word "I".
@@ -1411,7 +1411,7 @@ The Yerbo app has been discontinued, and therefore removed from GitLab's resourc
 ### Frequently Asked Questions regarding why we upgraded to the Enterprise Grid Plan?
 
 1. **Why are we upgrading our Slack Workspace?**
-     - Extend and strengthen Gitlab Values, Mission and Culture to Core Team while maintaining compliance as a publicly traded company
+     - Extend and strengthen GitLab Values, Mission and Culture to Core Team while maintaining compliance as a publicly traded company
      - Support customer engagement with Slack Connect channels for customer facing teams
      - Expansion of user roles and additional admin features to reduce IT approval bottlenecks and expedite internal IT requests
      - Leverage to enterprise compliance and security features to unlock trust across devices, teams, customers, and shareholders.
