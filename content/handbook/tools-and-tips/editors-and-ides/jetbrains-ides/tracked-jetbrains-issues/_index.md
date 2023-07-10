@@ -61,14 +61,18 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
 
 - Title: Programmatically defined constants always produce 'Unresolved reference' error
 - Link: https://youtrack.jetbrains.com/issue/RUBY-25400/Programmatically-defined-constants-always-produce-Unresolved-reference-error#focus=Comments-27-7812554.0-0
-- Notes: Requires `# noinspection RubyResolve`
+- Notes:
+  - Requires `# noinspection RubyResolve`
+  - UPDATE 2023-07-10: Got a response from JetBrains here: https://youtrack.jetbrains.com/issue/RUBY-25400/Programmatically-defined-constants-always-produce-Unresolved-reference-error#focus=Comments-27-7813280.0-0 stating limitations and potential workarounds.
 
 ### RUBY-31542
 
 - Title: Cannot resolve attributes on ActiveRecord model which is not in standard location
 - Link: https://youtrack.jetbrains.com/issue/RUBY-31542/Cannot-resolve-attributes-on-ActiveRecord-model-which-is-not-in-standard-location
-- Notes: Requires `# noinspection SqlResolve`. It's just a guess that the non-standard model
-  location is the root cause.
+- Notes:
+  - Requires `# noinspection SqlResolve`. It's just a guess that the non-standard model
+    location is the root cause.
+  - UPDATE 2023-07-10: Got a response from JetBrains here: https://youtrack.jetbrains.com/issue/RUBY-31542/Cannot-resolve-attributes-on-ActiveRecord-model-which-is-not-in-standard-location#focus=Comments-27-7813387.0-0 providing some information and requesting more info and follow-up
 
 ### RUBY-31543
 
