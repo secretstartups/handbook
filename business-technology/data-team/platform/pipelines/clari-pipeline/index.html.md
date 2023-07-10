@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: "Clari data pipeline"
+description: "The Clari data pipeline extracts data from the API via custom script and uploads it into Snowflake."
+---
+
 The Clari data pipeline extracts data from the API via custom [script](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/clari/src/clari.py) and uploads it into Snowflake.
 
 This page documents some specifics such as:
