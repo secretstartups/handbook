@@ -35,14 +35,21 @@ Below are a few key points to think through when determining in which situations
 - **Single Data Point:** It is important to remember that the 360 represents a single, anonymous point in time. While it can be helpful to supplement existing IGPs, it should not be the core data point. 
 - **Uncover Blind Spots:** A 360 is best used when trying to uncover blind spots. If team members and their managers already have a good understanding of the growth areas, direct, transparent feedback is the most productive way to support continued growth and development. 
 
+
+### Eligibility
+
+For 360 feedback cycle we will only include team members with at least 6 months of tenure (start date on or before January 28th, 2023). 
+
+Participants should also ensure that they meet the [requirements to participate](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-requirements) in the process. 
+
+
 ## 360 Feedback Requirements
 
 Team members who opt-in for the 360 feedback review cycle will be asked to:
-
-- **(optional)** We have a [Feedback Training enablement issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/feedback_training.md) available for all team members interested in learning more about giving and providing feedback, in addition to our 360 feedback process. We recommend team members that are requesting feedback or providing feedback complete this training. 
-- **(required)** Contact team members who you are requesting feedback from to state your goals for the 360 process. For ex/ 1) why you are seeking feedback and 2) what you hope to achieve from the feedback. This will help the reviewer think about how to provide the right kind of information to support you. This can be done via Slack or email.
 - **(required)** Complete an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) (or equivalent) in partnership with your manager _prior to the 360 cycle launch_. 360 feedback should support your growth plan to ensure the investment of time drives results.
-- **(optional)** Following the 360, share the themes you heard and resulting actions you plan to take with stakeholders who can support your growth throughout the year.   
+- **(required)** Contact team members who you are requesting feedback from to state your goals for the 360 process. For ex/ 1) why you are seeking feedback and 2) what you hope to achieve from the feedback. This will help the reviewer think about how to provide the right kind of information to support you. This can be done via Slack or email.
+- **(optional)** We have a [Feedback Training enablement issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/feedback_training.md) available for all team members interested in learning more about giving and providing feedback, in addition to our 360 feedback process. We recommend team members that are requesting feedback or providing feedback complete this training. 
+- **(optional)** Following the 360, share the themes you heard and resulting actions you plan to take with stakeholders who can support your growth throughout the year.  Update your [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) with your new development items and actions that you will take as a result of the feedback received in the 360 process.  
 
 
 ## Timeline FY'24
@@ -53,7 +60,7 @@ The 360 feedback process will be ongoing from July 31, 2023 - September 22, 2023
 |------------|------------|
 | 2023-07-10 through 2023-07-28 @ 5pm PT | Sign Up Window |
 | 2023-07-31 | Feedback Cycle Launch | 
-| 2023-07-25 through 2023-08-11 @ 5pm PT | Nomination Phase |
+| 2023-07-31 through 2023-08-11 @ 5pm PT | Nomination Phase |
 | 2023-08-14 through 2023-09-01 | Feedback Phase |
 | 2023-09-04 through 2023-09-22 | Review & Discussion Phase | 
 
@@ -65,15 +72,10 @@ The 360 feedback process will be ongoing from July 31, 2023 - September 22, 2023
 - **Review Phase** -  At the close of the 360 feedback session CultureAmp will open the feedback report for the coach (direct manager) to review and share with the team member. 
 - **Discussion Phase** - Manager and team member schedule a 360 [feedback meeting](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-conversation).
 
-### Eligibility
-
-For 360 feedback cycle we will only include team members with at least 6 months of tenure (start date on or before January 28th, 2023). 
-
-Participants should also ensure that they meet the [requirements to participate](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-requirements) in the process. 
 
 ### Sign Up Process
 
-The FY'24 360 Feedback Cycle will be optional company-wide. To sign up, **all team members must complete [this Google Form](https://forms.gle/aqLLbKrkbyV9g3DM8) to participate**. There are a few important things to keep in mind before signing up:
+The FY'24 360 Feedback Cycle will be optional company-wide. To sign up, **all team members must complete [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfxIji54UF-u4cRXF80obTJ6VoaylrrbLqjDuxzStzNmjoCCA/viewform?usp=sf_link) to participate**. There are a few important things to keep in mind before signing up:
 
 - **You must sign up before the [Sign Up Window due date](https://about.gitlab.com/handbook/people-group/360-feedback/#timeline-fy24) or you will not be able to participate in the cycle.** This is to ensure we are able to launch the review cycle on time
 - Ensure you meet the [tenure eligibility](https://about.gitlab.com/handbook/people-group/360-feedback/#eligibility) requirement 
@@ -84,7 +86,7 @@ The FY'24 360 Feedback Cycle will be optional company-wide. To sign up, **all te
 
 We utilize [Culture Amp](https://gitlab.cultureamp.com/) to administer 360 Feedback. The 360 Feedback cycle in CultureAmp consists of a Self review, Manager review and Peer reviews. 
 
-Managers will be assigned as the coach for their direct reports. Managers should review and send out the 360 feedback within 48 hours once the feedback cycle closes and you are sent the results.
+Managers will be assigned as the coach for their direct reports. Managers should review and send out the 360 feedback within 48 hours once the feedback cycle closes and you are sent the results. For more information on the role a manager will play as the team member's coach, please review [Culture Amp Resources for Coaches](https://about.gitlab.com/handbook/people-group/360-feedback/#culture-amp-resources-for-coaches)
 
 - If a team member is in the process of migrating to a new role, the current manager and new manager should arrange a successful handover of the feedback, whether sync or async.
 - If your manager changes throughout the 360 process, please contact [People Connect](https://about.gitlab.com/handbook/people-group/people-connect/) to make this change on Culture Amp.
