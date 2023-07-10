@@ -49,7 +49,7 @@ Through that process you may:
 
    d. If all High priority tickets are addressed, help with Normal or Low priority tickets that are at risk of breaching.
 
-   e. If the next ticket to breach is > 2 hrs, focus on your NRTs, your groups NRTs, or free user tickets (tickets that have no SLA).
+   e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, and finally free user tickets (tickets with no SLA).
    
    Proceed to
    [ticket assignment](#assigning-tickets)
