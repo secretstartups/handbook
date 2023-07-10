@@ -16,6 +16,10 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q2-FY24
 
+### 2023-07-10 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/346))
+
+**Renewal Ops: [Renaming Clari fields in Salesforce](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/4204#note_1451891184)**
+
 ### 2023-06-26 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/336))
 
 **Sales Ops: [Change to Clari Forecast Reset Date](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/)**
