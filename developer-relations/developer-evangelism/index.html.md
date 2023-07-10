@@ -160,6 +160,24 @@ The Developer Evangelism team creates alot of content that can be reused for any
 
 </details>
 
+<details>
+<summary markdown='span'>
+Learn about the steps we take to share our content.
+</summary>
+
+#### Content Distribution
+
+After content has been crafted and published, the next step is distribution. Here are some steps to assist in the process:
+
+1. Use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) to create UTM codes for your content. Further insights about this can be found in the Developer Evangelism [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/). 
+1. Draft some copy for sharing your content on social media. See [Content Sharing](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#content) for tips and an overview of different platforms. 
+1. Suggest your content as a story on Bambu so other GitLab team members can also share it. [Details on how to suggest content on Bambu](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
+1. Consider sharing your content on one of our community platforms like the [GitLab Forum](https://forum.gitlab.com/) or the [r/gitlab](https://www.reddit.com/r/gitlab) subreddit. If you're covering a topic that's broader than GitLab, you can also consider other subreddits or cross-posting your content on blogging sites like dev.to.
+1. After posting your content on social media, share a link in the `social-media-action` slack channel to request promotion from the social media team. 
+1. Content that can be useful to our Field Teams, should also be posted in [Highspot](https://gitlab.highspot.com/). 
+
+</details>
+
 ### Presentations and events
 
 Speaking at events is an essential path for our team to connect with the wider GitLab community and the tech community at large. We love to support to team members and members of the wider community on their presentations, too. We also help with the organization and execution of GitLab events and other tech community events.
