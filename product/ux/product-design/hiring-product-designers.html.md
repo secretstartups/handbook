@@ -25,7 +25,7 @@ General resources:
 Each Product Designer candidate is interviewed by a panel of interviewers that include:
 - Product Designer
 - Product Design Manager
-- Director of Product Design
+- Senior Manager of Product Design
 - Product Manager, Engineering Manager
 
 A [detailed description of each stage of our interview process](https://handbook.gitlab.com/job-families/product/product-designer/#hiring-process) is available along with the job description.
