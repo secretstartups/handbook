@@ -313,14 +313,14 @@ Please see process [here](/handbook/marketing/virtual-events/#calendar-reschedul
 
 ## Marketo Asset Expiration
 
-As of Nov 2022, when applicable, please follow the instructions found on the [campaigns and programs](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration) handbook page to set expirations on program assets during program set up.
+Please follow the instructions found on the [campaigns and programs](/handbook/marketing/marketing-operations/campaigns-and-programs/#asset-expiration-use-cases) handbook page to set expirations on program assets during program set up.
 
 ## Options for Closing LPs and LP Forms
 
 There are two options for closing Marketo landing pages:
 
 1. Closing the LP registration form (which removes the registration form from the LP so registrations can no longer be accepted) and updating the LP to explain why the registration form is no longer available (either the event has reached capacity or the event has occurred).
-2. Closing the entire LP. If someone clicks on the LP link, it will take them to our about.gitlab.com page instead of a registration LP. This option is now done automatically during the [Marketo Asset Expiration process](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration). Asset expiration occurs 4 weeks after the event date, so it is important to close the registration form and update the LP verbiage once an event reaches capacity or has occurred so the LP does not remain open and active during this time.
+2. Closing the entire LP. If someone clicks on the LP link, it will take them to our about.gitlab.com page instead of a registration LP. This option is now done automatically during the [Marketo Asset Expiration process](/handbook/marketing/marketing-operations/campaigns-and-programs/#asset-expiration-use-cases). Asset expiration occurs 4 weeks after the event date, so it is important to close the registration form and update the LP verbiage once an event reaches capacity or has occurred so the LP does not remain open and active during this time.
 
 The FMC will track all open Marketo LPs and will be responsible for requesting the LP form be closed by Marketing Ops once the event occurs or if an event reaches capacity.
 
@@ -371,7 +371,7 @@ Marketing Ops will add EMEA workshops only to the [EMEA Tech Demos and Workshop 
 For more information regarding the regional workshop/demo pages, please visit [this handbook page](/handbook/marketing/virtual-events/webcasts/#technical-demo-landing-pages).
 
 ## Closing a Marketo LP
-These instructions are standard across all campaign types and will close down the entire LP and re-routes visitors to our about.gitlab.com page. If you have set up [asset expiration](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration) previously, this step will occur automatically.
+These instructions are standard across all campaign types and will close down the entire LP and re-routes visitors to our about.gitlab.com page. If you have set up [asset expiration](/handbook/marketing/marketing-operations/campaigns-and-programs/#asset-expiration-use-cases) previously, this step will occur automatically.
 
 - Sign into Marketo
 - Click into the Marketo program for the landing page you wish to close
