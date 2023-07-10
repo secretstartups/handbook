@@ -121,26 +121,11 @@ Everything in the Staff Product Designer role, plus:
 through improved user experiences, leading to increased adoption of [stages per organization](http://about.gitlab.com/handbook/product/performance-indicators/#stages-per-organization-spo)
 and increased [ARR](http://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr).
 
-## Specialties
-
-### Growth
-
-The Growth team at GitLab focuses on unlocking the value of GitLab for as many customers and potential customers as possible. The Growth team pays close attention to the experiences users have with buying and trialing GitLab, as well as key product experiences that a user must have with the product in order to understand the value of GitLab as a DevOps lifecycle application.
-
-In addition to the other Product Designer responsibilities, Growth Product Designers are also expected to:
-
-- Understand the Growth team’s KPIs and continuously look for high impact UX work that will meet business objectives while providing a great user experience.
-- Gain familiarity with the end-to-end experience of GitLab, including a deep understanding of new and existing user journeys and a-ha moments.
-- Participate in the experimentation process, including assisting Product Managers with crafting hypotheses, designing experiments, and interpreting results.
-- Work with Product Managers to prioritize the experiment backlog using the [ICE Framework](https://blog.growthhackers.com/the-practical-advantage-of-the-ice-score-as-a-test-prioritization-framework-cdd5f0808d64).
-- Develop a working understanding of GitLab’s experimentation capabilities.
-- Understand how to use quantitative and qualitative data to drive design decisions, and understand the values and shortcomings of each.
-- Understand the breadth of user personas of GitLab customers, including both buyer and user personas of different stages.
-- As the Growth team matures, mentor other Product Designers on how to incorporate experimentation into their design work.
+## Foundations Specialty
 
 ### Foundations
 
-The Foundations team works on building a cohesive and consistent user experience, both visually and
+In addition to embedding in [groups](https://about.gitlab.com/handbook/product/categories/#hierarchy) that focus on a specific product area, we also have a small Foundations team that works on building a cohesive and consistent user experience across platform experiences like navigation, both visually and
 functionally. You’ll be responsible for leading the direction of the experience design, visual style,
 and technical tooling of the GitLab product. You’ll act as a centralized resource, helping to triage
 large-scale experience problems as the need arises.
