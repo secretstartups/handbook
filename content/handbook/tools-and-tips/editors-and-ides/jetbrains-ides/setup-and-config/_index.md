@@ -31,6 +31,11 @@ At this point, you should be able to run the IDE and open the project you need t
 
 ## Indexes
 
+The most important thing to do related to indexing is to set up the proper excluded folders. See the
+[Set up excluded folders](#set-up-excluded-folders) section below.
+
+### Indexing Overview
+
 One of the things that makes JetBrains IDEs powerful is their proprietary indexing
 technology, which indexes all of your project and dependency code, and
 allows for powerful and near-instantaneous searches and navigation across the project.
@@ -45,7 +50,8 @@ of gem code dependency, the very first indexing can take a _very_ long time, up 
 subsequent incremental indexing after pulling new changes or switching branches usually
 takes no more than a minute or so.
 
-The best advice here is to just "be patient" - the good news is that it is only
+As long as you've already [set up the proper excluded folders](#set-up-excluded-folders),
+the best advice here is to just "be patient" - the good news is that it is only
 required once, when you first open the project or pull in new changes. Use this opportunity
 to take a little break, do a little stretching... 🧘🏼
 
@@ -56,6 +62,22 @@ JetBrains does offer support for [Shared Indexes for RubyMine](https://www.jetbr
 However, this seems to be an involved setup process. If you are interested in helping
 set up and maintain shared indexes, please let us know in one of the
 [Chat Groups](../#chat-groups)!
+
+## Set up excluded folders
+
+It's important to set up the excluded folders, otherwise indexing and searching will take much longer
+than necessary.
+
+This will be under `Settings -> Project Structure` in RubyMine and GoLand, and under
+`Settings -> Directories` under WebStorm.
+
+If you want to see a current example of the RubyMine excluded folders for the `gitlab` project,
+you can see Chad's `gitlab.iml` module at
+https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/dotidea/gitlab.iml,
+and search for `excludeFolder`.
+
+Alternately, these would be included in the config if you use one of the "copy someone else's config"
+Configuration approaches under [Configuration](#configuration).
 
 ## Configuration
 

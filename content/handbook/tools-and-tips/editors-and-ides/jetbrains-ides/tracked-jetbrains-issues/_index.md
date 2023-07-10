@@ -15,7 +15,8 @@ Here's the main issue trackers to look for existing issues before reporting a ne
 - WebStorm: https://youtrack.jetbrains.com/issues/WEB
 
 Each issue we track should have a `H3` section under the [Issues](#issues) section below.
-It could be a table, but markdown tables are hard to maintain, and headers have automatic anchor links.
+This could be in table format, but markdown tables are hard to maintain, and headers have automatic anchor links.
+
 Here's a template example:
 
 ```markdown
@@ -48,7 +49,6 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
 
 - Title: Invalid RailsParamDefResolve warning when table name does not match class name
 - Link: https://youtrack.jetbrains.com/issue/RUBY-31540/Invalid-RailsParamDefResolve-warning-when-table-name-does-not-match-class-name
-- Available In:
 - Notes:
   - Requires `# noinspection RailsParamDefResolve` and other noinspection comments.
   - This is likely due to our non-standard naming of the `Clusters::Agent` model, where
@@ -61,7 +61,25 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
 
 - Title: Programmatically defined constants always produce 'Unresolved reference' error
 - Link: https://youtrack.jetbrains.com/issue/RUBY-25400/Programmatically-defined-constants-always-produce-Unresolved-reference-error#focus=Comments-27-7812554.0-0
-- Available In:
+- Notes: Requires `# noinspection RubyResolve`
+
+### RUBY-31542
+
+- Title: Cannot resolve attributes on ActiveRecord model which is not in standard location
+- Link: https://youtrack.jetbrains.com/issue/RUBY-31542/Cannot-resolve-attributes-on-ActiveRecord-model-which-is-not-in-standard-location
+- Notes: Requires `# noinspection SqlResolve`. It's just a guess that the non-standard model
+  location is the root cause.
+
+### RUBY-31543
+
+- Title: Fixtures declared with `let_it_be` from `test-prof` gem cannot be found, and give `RubyResolve` warning
+- Link: https://youtrack.jetbrains.com/issue/RUBY-31543/Fixtures-declared-with-letitbe-from-test-prof-gem-cannot-be-found-and-give-RubyResolve-warning
+- Notes: Requires `# noinspection RubyResolve`
+
+### RUBY-31544
+
+- Title: Cannot find fixtures defined with `RSpec::Parameterized::TableSyntax`, causes `RubyResolve` warning
+- Link: https://youtrack.jetbrains.com/issue/RUBY-31544/Cannot-find-fixtures-defined-with-RSpecParameterizedTableSyntax-causes-RubyResolve-warning
 - Notes: Requires `# noinspection RubyResolve`
 
 ## Closed Issues
