@@ -139,8 +139,8 @@ All Marketo templates will have 2 tokens added to them that the campaign owner s
    - The partner MUST HAVE this utm on their link to the landing page otherwise they will not be routed leads
 1. Processing Campaign for partner campaings is separate from the typical one. Do not activate both.
     1. Processing smart campaign's smart list must reference `FORM 3146: Partners w/ consent+token` or another partner form (translations)
-1. Set up asset expiration as [described here](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4b-setting-landing-page--smart-campaign-expiration-asset-expiration), if needed.
- 1.  (no setup needed) Marketo will process.
+1. Set up asset expiration as [described here](/handbook/marketing/marketing-operations/campaigns-and-programs/#asset-expiration-use-cases), if needed.
+ 1. (no setup needed) Marketo will process.
     1. If there is a `CRM Partner ID`
         1. Set `Vartopia Partner Account`
         1. Set `Partner Consent` = `True` 
