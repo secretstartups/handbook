@@ -61,13 +61,39 @@ The above defined sales-initiated exemption process is intended to be the only m
 
 In a situation where a customer requires a Legacy License or a Offline License post-sale, the customer must first reach out to their sales account manager for them to [open an Internal Request with Support](https://about.gitlab.com/handbook/support/internal-support/#internal-requests). The customer's sales account manager will then need to obtain sales VP approval for a Cloud Licensing exemption in order for L&R support to be able to process the internal request and provide the customer with the required license file. If an emergency situation occurs where the customer requires access during the approval process, a support engineer should
 [provide the customer with a trial license](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies.html)
-until approval is received. Once approved, the correct license type can be issued to the customer.
+until approval is received. Once approved, the correct license type [can be issued](#how-to-process-a-cloud-licensing-exemption-internal-request) to the customer through a `Cloud Licensing Exemption` internal request.
 
-If approved, the support engineer will need to first update the `Cloud Licensing` flag within [CustomersDot's Admin](https://customers.gitlab.com/admin).
-Under "admin/customer/CUSTOMER_ID/zuora_subscriptions", the flag needs to be set to either "Offline" or "No", as shown in the screenshot below.
+#### How to process a Cloud Licensing exemption internal request
 
-![Zuora](/images/support/ZuoraImage.png)
+1. Click on the `Chattr with approval` link then:
+    1. Verify the following:
+        - The chatter is on a Salesforce **Opportunity** page.
+        - The Opportunity is marked as `Closed-Won` (see [FAQ #5](#5-what-if-the-exemption-is-on-an-opportunity-that-is-not-closed-won) if it is not).
+        - The chatter thread includes an **Approval** message.
+        - The exemption approval is provided by a **VP**. Hover on the approver's name to see their title.
+    1. If any of the above requirements are not met, let the requester know what should be corrected and then close the Internal Request. Otherwise proceed to step 2.
+1. While on the Opportunity page, [find the related subscription details](#find-the-related-subscription-details)
+1. Using the `Sold To Email`, search for the customer account in CustomersDot [Customers](https://customers.gitlab.com/admin/customer) page.
+1. Click on the bookmark icon to navigate to the account's `Zuora Subscriptions` tab.
+1. Confirm the subscription that should be updated by verifying the `Subscription Name` from step 2.
+1. Go back to the IR ticket and note the `GitLab Version` value:
+    - If the version < 15.0, set the `Cloud Licensing` flag value to `No`.
+    - If the version >= 15.0, set the `Cloud Licensing` flag value to `Offline`.
+1. Click `Update`.
+1. Click the `Impersonate` tab.
+1. Click `Copy license key to clipboard`. Using this method will ensure all license details are auto-populated correctly.
+    - If you see `An error occurred...` message, try to click the `Copy license key to clipboard` once more.
+    - If it fails again, check the logs for the issue or ask for assistance.
+1. Click the `Back` button on your browser to stop impersonating the customer account.
+1. Navigate to the [Licenses](https://customers.gitlab.com/admin/license) page.
+1. Locate the new generated license:
+    - The license should be one of the first licenses at the top.
+    - If it is not, search for the license using the `Sold To Email` from step 2.
+1. [Resend the license](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html)
+because the automatically generated license does not trigger license email notification.
+1. Reply to the IR ticket with a link to the license and mark the ticket as `Solved`.
 
+##### Note
 The matrix below defines the impact of setting the `Cloud Licensing` flag value to `Yes`, `Offline` or `No` on the eligibility of three license types.
 
 | Cloud Licensing Flag value | Cloud License | Offline Cloud | Legacy License |
@@ -76,9 +102,30 @@ The matrix below defines the impact of setting the `Cloud Licensing` flag value 
 | Offline | Eligible | Eligible | Not Eligible | 
 | No  | Eligible | Eligible | Eligible |
 
-Once updated, the support engineer should then generate the license manually by impersonating the customer and selecting `Download license file` from the "Manage Purchases" view. Using this method will ensure all license details are auto-populated correctly. Note that the download license option will only be visible _after_ the `Cloud Licensing` flag has been updated. After the license is generated, [search for the license and resend the license](/handbook/support/license-and-renewals/workflows/self-managed/sending_license_to_different_email.html) because the automatically generated license does not trigger license email notification.
 
-Once these steps are completed, please be sure to flag the ZenDesk ticket using the above macro to ensure these missed approvals are being tracked appropriately.
+#### Find the related subscription details
+There are a few ways to locate the subscription in a closed-won opportunity.
+Refer to the alternative methods below for guidance on different cases.
+
+##### Customer Subscription (CS-0000000000)
+1. Scroll down on the Opportunity page to the `Subscription Information` section.
+1. Click on the `Customer Subscription` value which has the format `CS-0000000000` to go to **Customer Subscription** page.
+1. Click the `Current Zuora Subscription` value to go to the **Subscription** page.
+1. Note the `Sold To Email` and the `Subscription Name` from the **Subscription** page.
+
+##### Quote
+1. Scroll down on the Opportunity page to the `Quotes` section.
+1. Locate the most relevant Quote which has the `Status` as `Sent to Z-Billing`.
+    - If **all** quotes have the `Status` as `New`, this indicates a web-direct purchase. For cases with **multiple** quotes that all have `Status` as `New`, use the quote that has been marked as `Primary`.
+1. Open the quote.
+    - If you encounter a `Content cannot be displayed...` error, try using the [Customer Subscription (CS-0000000000)](#customer-subscription-cs-0000000000) process instead or ask for assistance.
+1. Note the Sold To contact's email:
+    1. Scroll down to `Sold to Contact` in the quote details.
+    1. Hover on the name which opens a contact modal then right click on the email and copy the email address
+1. Note the Subscription Name:
+    - Check the `Subscription Name` in the quote which is at the 4th row of the top section.
+    - If it is empty, or does not show up in CustomersDot, find the subscription by locating the customer account using the Sold To contact's email and verifying the subscription seat count matches the quote you opened.
+    
 
 ## Support FAQ
 #### 1. Which license type should I provide for an approved opt out?
