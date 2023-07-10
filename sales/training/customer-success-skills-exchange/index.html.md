@@ -40,7 +40,9 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | Date   | Topic and Recording  | 
 | ------   | ------    |   
-| 2023-06-07 | [DAST Best Practices](https://youtu.be/1RuDoQPuDmU)
+| 2023-07-05 | [Google Suite Best Practices](https://youtu.be/IwngC9NmcRs) |
+| 2023-06-21 | [How to sell Remote Development](https://youtu.be/fluP-s4mTW4) |
+| 2023-06-07 | [DAST Best Practices](https://youtu.be/1RuDoQPuDmU) |
 | 2023-05-10 | [GitLab and GCP Partnership Overview](https://youtu.be/qTWgNsc3Ets) |
 | 2023-04-05 | [GitLab Dedicated](https://youtu.be/lHDsTjRTDLg) |  
 
