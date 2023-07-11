@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Marketing Enablement"
-description: "This page hosts the framework and sessions for marketing enablement."
+title: "Intra-Department Learning: Marketing Functional Conversations"
+description: "The goal of Intra-Department Learning is to create, conduct, and host cross-department learning sessions to drive collaboration and understanding of marketing functional team priorities."
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
