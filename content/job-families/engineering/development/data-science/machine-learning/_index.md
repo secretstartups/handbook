@@ -6,11 +6,6 @@ Machine Learning (ML) Engineers at GitLab develop and implement models to suppor
 
 Engineers work as part of a team in the Data Science section, and collaborate with counterparts across Product, Engineering, UX and Data, and work closely with Backend, Frontend, and Fullstack engineers to integrate their work into GitLab.
 
-Requirments for a machine learning engineer:
-
-- 3 or more years of experience in ML, and/or
-- Master's or PhD degree with a focus on Machine Learning
-
 
 ## Levels
 
