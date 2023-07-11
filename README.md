@@ -105,7 +105,7 @@ To fire up and the Hugo Development server you can use
 the following Command:
 
 ```sh
-docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.107.0-ext-ubuntu-onbuild server
+docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.111.3-ext-ubuntu-onbuild server
 ```
 
 or if you've installed Hugo locally:
@@ -125,7 +125,7 @@ need to do this if you are trying to debug the site for any reason. To build
 the site using Docker you use this command:
 
 ```sh
-docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.107.0-ext-ubuntu-onbuild
+docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.111.3-ext-ubuntu-onbuild
 ```
 
 or if you have Hugo installed locally:
