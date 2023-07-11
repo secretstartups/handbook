@@ -37,7 +37,7 @@ Our promotion philosophy comprises core pillars surrounding the approach and pro
 ### Pillars
 
 
-- Promotions are based on performance, not on growth potential. If being considered for an in-line promotion, Team members should already be executing at the next level [job frameworks level](https://docs.google.com/document/d/1TQZEWMRKmiD1ghWBCG0AoWe9W6DMldNmJetmgts1JzM/edit#)) prior to promotion.
+- Promotions are based on performance, not on growth potential. If being considered for an in-line promotion, Team members should already be executing at the next level [job frameworks level](https://about.gitlab.com/company/team/structure/#job-frameworks) prior to promotion.
 - Career growth should be a partnership between team member and manager. As a manager, it is important to create space to regularly discuss your team members' development and career aspirations, and identify opportunities to support them in their advancement and growth.
 - When reviewing a proposed promotion, we consider: 1) readiness of the individual, and 2) business justification/opportunity.
 - All in-line promotions at GitLab require a [promotion document](https://docs.google.com/document/d/1nDkYGK2yhe8pD-lnMGmEF-Cf0IlGgVOznjXMq9FxGiQ/edit?usp=sharing). We believe in [transparency](https://about.gitlab.com/handbook/values/#transparency) within the promotion process.
