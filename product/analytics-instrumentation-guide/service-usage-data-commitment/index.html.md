@@ -20,13 +20,13 @@ Based on this analysis, the team prioritized two bug issues related to deploy to
  
 ### Our Commitment to GitLab Users
 
-Over the past few years GitLab has made commitments to our community around the collection, processing, and use of [service usage data](/handbook/legal/privacy/services-usage-data/). This page summarizes those commitments and provides guidance to team members working on projects that involve the collection of product analytics data from our customers. 
+Over the past few years GitLab has made commitments to our community around the collection, processing, and use of [service usage data](/handbook/legal/privacy/customer-product-usage-information/). This page summarizes those commitments and provides guidance to team members working on projects that involve the collection of product analytics data from our customers. 
 
-1. We will not sell your [service usage data](/handbook/legal/privacy/services-usage-data/).
+1. We will not sell your [service usage data](/handbook/legal/privacy/customer-product-usage-information/).
 1. GitLab will only add free JavaScript (as in [freedom](https://www.gnu.org/philosophy/free-sw.html)) to its core product. ([source](https://mikegerwitz.com/2016/01/google-analytics-removed-from-gitlabcom-instance)) 
 1. We pseudonymize personally identifying information about you, the user.
 1. We will transparently document the data we collect, how it is used and how it is pseudonymized.
-1. We will alert the community when any changes to our [service usage data](/handbook/legal/privacy/services-usage-data/) processes and/or policies occur.
+1. We will alert the community when any changes to our [service usage data](/handbook/legal/privacy/customer-product-usage-information/) processes and/or policies occur.
 1. We will not implement telemetry in our products which sends identifiable usage data to a third-party product analytics service [source](https://about.gitlab.com/blog/2019/10/10/update-free-software-and-telemetry/)
 
 
@@ -45,7 +45,7 @@ Analytics Data can be too generic of a term. The list below are the specific typ
 
 As many other organizations offering digital products, GitLab strives to get better understanding on utility of its offering. In order to build the best DevOps platform for everyone, we try to understand what are the most used areas, which get overlooked, which are in need of improvement, and which we can be proud of. 
 
-To get to such understanding, we look to collected [service usage data](/handbook/legal/privacy/services-usage-data/). And as part of collecting usage data, we aim to provide robust privacy protection, and assurance that this data would not be ill-used. With that obligation in mind, we are working to prepare a privacy protection mechanism that would include technical tools and various policies.
+To get to such understanding, we look to collected [service usage data](/handbook/legal/privacy/customer-product-usage-information/). And as part of collecting usage data, we aim to provide robust privacy protection, and assurance that this data would not be ill-used. With that obligation in mind, we are working to prepare a privacy protection mechanism that would include technical tools and various policies.
 
 #### Pseudonymization Isn’t Perfect
 
