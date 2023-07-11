@@ -105,10 +105,21 @@ _last updated: April 2023_
 | **Links** | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/97807) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#pre-enforcement-banner-notification) | See [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387958) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#banner-notification-1) | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#cli-1) |  See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114325) and [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383393) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#emails)  | 
 
 
-
 ## User cap for groups on SaaS
 
 We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups) built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html#user-cap). As of now, this feature is not ready for production use. GitLab team members can learn more about the feature in the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/fulfillment/saas-user-caps/). 
+
+## Experience for customers that purchased through a reseller
+
+As of 2023-06-28, customers who have purchased a GitLab subscription through an authorized reseller (including GCP and AWS marketplaces) have access to the Customers Portal. 
+
+* [Customer documentation in GitLab Docs](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#customers-that-purchased-through-a-reseller)
+* [Internal video demo](https://youtu.be/LVhG8JzD8oY)
+* [Related epic](https://gitlab.com/groups/gitlab-org/-/epics/8941)
+
+Please keep in mind:
+* Customers do not have access to the invoices, because those are owned by the reseller.
+* Resellers do not have access to the Customers Portal or to their customers' accounts.
 
 ## Billing & Subscription Management Features
 
