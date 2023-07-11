@@ -153,7 +153,7 @@ The Engineering Manager in the Engineering Division is a [grade 8](/handbook/tot
 
 ### Engineering Manager Requirements
 
-- Master's or PhD degree with a focus on Machine Learning and 5 or more years of experience in ML
+- Master's or PhD degree with a focus on Machine Learning or 5 or more years of experience in ML
 - Demonstrated experience leading teams that are developing and implementing deep learning models
 - Expert level experience with Python
 - Expert experience with performance and optimization problems for Machine Learning models and a demonstrated ability to both diagnose and prevent these problems
