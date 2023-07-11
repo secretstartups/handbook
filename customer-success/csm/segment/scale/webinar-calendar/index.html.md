@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Git Basics
-##### July 7th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Are you new to Git? Attend this webinar targeted at beginners working with source code, where we will review the basics of using Git for version control and how it works with GitLab to help you get started quickly.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_bYSLBmvZS1O_46rwKMUEDA#)
-
 #### Intro to GitLab
 ##### July 11th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
