@@ -151,7 +151,7 @@ The Data Directory is designed to provide quick access to / better organize key 
   * [Product sections, stages, groups, and categories](/handbook/product/categories/)
   * [Product Handbook](/handbook/product/)
   * [Product Performance Indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/) (internal handbook)
-  * [Services Usage Data](/handbook/legal/privacy/services-usage-data/)
+  * [Services Usage Data](/handbook/legal/privacy/customer-product-usage-information/)
   * [Our Commitment to Individual User Privacy in relation to Service Usage Data](/handbook/product/analytics-instrumentation-guide/service-usage-data-commitment/)
 
 </details>
