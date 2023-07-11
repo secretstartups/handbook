@@ -256,7 +256,7 @@ According to DPA (Data Processing Agreement) that we have with Jamf in the event
 
 ### Why keep my Mac up-to-date with the latest OS?
 
-According to [Apple](https://arstechnica.com/gadgets/2022/10/apple-clarifies-security-update-policy-only-the-latest-oses-are-fully-patched/), a fully upgraded and updated system is more likely to be patched for security vulnerabilities than an older up-to-date major version. For example, a Big Sur/Catalina vulnerability that was [patched much later]((https://arstechnica.com/gadgets/2021/11/psa-apple-isnt-actually-patching-all-the-security-holes-in-older-versions-of-macos/) for Catalina, which was still supported at the time.
+According to [Apple](https://arstechnica.com/gadgets/2022/10/apple-clarifies-security-update-policy-only-the-latest-oses-are-fully-patched/), a fully upgraded and updated system is more likely to be patched for security vulnerabilities than an older up-to-date major version. For example, a Big Sur/Catalina vulnerability that was [patched much later](https://arstechnica.com/gadgets/2021/11/psa-apple-isnt-actually-patching-all-the-security-holes-in-older-versions-of-macos/) for Catalina, which was still supported at the time.
 
 ## Safeguards and controls
 
