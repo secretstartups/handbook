@@ -12,7 +12,7 @@ GitLab Channel Partners are the primary audience for this handbook page.
 
 ## Working with GitLab Introduction for Partners
 
- In this section you will be given a deep dive into working with and managing the Four Main aspects of the GitLab: (1) Working with GitLab - Administration, (2)Working with GitLab - Sales, (3) Working with GitLab - Marketing, and (4) Working with GitLab - Technical.
+ In this section you will be given a deep dive into working with and managing the Five Main aspects of the GitLab: (1) Working with GitLab - Administration, (2) Working with GitLab - Sales, (3) Working with GitLab - Marketing, (4) Working with GitLab - Technical, and (5) Working with GitLab - Distributors.
 
 
 
@@ -48,10 +48,10 @@ _If a partner organization already exists in the partner portal, but a new partn
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![GitLab Partner Portal](~/sites/handbook/source/handbook/resellers/Channel-Program-Guide/images/GitLab_PSP_logo.png)
 
 
-![alt_text](images/image2.png "image_tooltip")
+
 
 
 The partner user will be directed to a page that asks them to confirm the organization they work for. After they confirm, they should click next, and fill in their information. After submitting the information, they'll receive login credentials if it is an active partner account with GitLab. Email partnersupport@gitlab.com if you have any problems.
@@ -484,6 +484,35 @@ For technical and solution enablement see our Developing your
 as well as our [Channel Partner Technical Presales Enablement](https://about.gitlab.com/handbook/resellers/partner-enablement/)     page.
 
 
+### Working with GitLab - Distributors 
+
+
+#### [**Transacting Through Distribution**](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#transacting-through-distribution)
+
+
+
+##### **Why Does GitLab Leverage Distribution?**
+
+GitLab is building out a global Authorized Distributor network similar to many other tier-one software companies. Distributors bring GitLab, our partners, and our customers several valuable offerings:
+
+
+
+* Accelerate market reach with joint growth plans and execution including:
+    * recruiting GitLab partners and driving completion of their GitLab sales and technical training
+    * generating in-market customer awareness and passing qualified leads
+* Augment GitLab sales capacity and coverage. Distributor sales teams:
+    * work with partners and GitLab sales teams to aid in co-selling
+    * are often in-market and speak local languages
+* Offload transaction administration from GitLab sales, freeing time for more valuable selling activities
+    * Distributor e-Marketplaces allow GitLab orders to be placed by customers and partners that are delivered in minutes, with zero touch by GitLab teams
+    * Provide a single point of contact that is an expert in the GitLab Quote to Cash process, driving efficiencies throughout the sales cycle
+    * Enable GitLab to scale our operations to allow for increased transaction volume without significant headcount additions (e.g., Deal Desk, Order Management, Billing)
+* Credit management
+    * Reduce credit management cost and risk for GitLab
+    * Offer an array of financing options including the ability for our partners/customers to transact in local currency, which reduces their risk
+* Extend GitLab technical services, training capacity, and coverage, both pre and post-sale
+
+https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#transacting-through-distribution
 ## Contact Us
 
 All authorized GitLab resellers are invited to the GitLab #resellers Slack channel. This slack channel allows you to reach out to our Sales and Marketing Teams in a timely manner, as well as other resellers. Additionally, you can reach the GitLab channel team at PartnerSupport@GitLab.com and the GitLab Parnter Marketing 
