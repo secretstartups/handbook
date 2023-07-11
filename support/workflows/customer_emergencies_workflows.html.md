@@ -256,7 +256,7 @@ Why do follow up work in another ticket?
 
 #### Optional: create pairing issue 
 
-Another option to consider is creating a [pairing issue](https://gitlab.com/gitlab-com/support/support-pairing/-/issues/new) with the label `pairing-customer_emergency`, including the support engineer(s) who provided assistance during the emergency. If your capacity is limited, you can request any engineer who was involved in the emergency to create the pairing issue on your behalf. This way, we can ensure that the necessary collaboration efforts get tracked.
+Another option to consider is creating a [pairing issue](https://gitlab.com/gitlab-com/support/support-pairing/-/issues/new?issuable_template=Ticket%20Pairing%20-%20Emergencies) with the label `pairing-customer_emergency`, including the support engineer(s) who provided assistance during the emergency. If your capacity is limited, you can request any engineer who was involved in the emergency to create the pairing issue on your behalf. This way, we can ensure that the necessary collaboration efforts get tracked.
 
 ## What to do if you don't know what to do
 
