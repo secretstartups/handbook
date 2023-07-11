@@ -478,7 +478,7 @@ The process for creating and sending an agreement is as follows:
 
 ## Remote.com
 
-GitLab has partnered with [Remote.com](https://remote.com/) to hire in South Africa, Mexico, Austria, Denmark, Switzerland, Spain, Italy, and Hungary. The actual employment contracts will be sent and issued by Remote and are in accordance with local labor law.  The offer details will be provided to Remote by GitLab's hiring team.
+GitLab has partnered with [Remote.com](https://remote.com/) to hire in Brazil, South Africa, Mexico, Austria, Denmark, Switzerland, Spain, Italy, and Hungary. The actual employment contracts will be sent and issued by Remote and are in accordance with local labor law.  The offer details will be provided to Remote by GitLab's hiring team.
 
 To create the contract:
 
