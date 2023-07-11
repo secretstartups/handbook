@@ -125,6 +125,11 @@ With a [few exceptions](#exceptions-for-breaking-changes), if the answer is yes 
 - Does this change cause a disruption to a customer's workflows or tasks? (For example, removing support for the "WIP" prefix in MRs meant users would need to use the "Draft:" prefix instead)
 - Does this change cause other parts of the product to fail? (For example, removing certificate-based cluster integration means users can no longer install additional applications via GitLab Managed Apps)
 
+For special definitions of what constitutes a breaking change for our APIs, see:
+
+- [REST API breaking changes](https://docs.gitlab.com/ee/development/api_styleguide.html#what-is-a-breaking-change).
+- [GraphQL API breaking changes](https://docs.gitlab.com/ee/development/api_graphql_styleguide.html#breaking-changes).
+
 #### Exceptions for breaking changes
 
 - Security fixes resulting in a breaking change can be introduced during minor releases.
