@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Testing Agreement"
+title: "GitLab Testing Agreement v2"
 description: "Learn more about the GitLab Testing Agreement v2"
 ---
 
