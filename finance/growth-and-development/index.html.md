@@ -26,7 +26,7 @@ Finance Team Member on-boarding will include specific tasks and information to f
 
 -   a link to read GitLab's take on [Career Development](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#what-is-career-development)
 
--   an overview of the mentorship programs, shadowing opportunities and [internship programs](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internship-for-learning)
+-   an overview of the mentorship programs, shadowing opportunities and [internship programs](/handbook/people-group/learning-and-development/internship-for-learning/)
 
 -   links to the GitLab training tools available from the People group :[External Resources (with no cost)](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#external-resources-some-with-no-cost) &  [Internal Resources](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources-1)
 
