@@ -1293,7 +1293,7 @@ If "PO Required" = "YES" and the customer's PO will be provided to GitLab at a f
 
 1. The opportunity is submitted for approval no more than 5 days before the last day of the quarter, and all other booking requirements have been met.
 2. The customer provides written confirmation that the PO will be issued to GitLab within 10 days. This written confirmation is attached to the opportunity.
-3. Approval is obtained in chatter from both the Manager, Deal Desk and Director, Billing & Accounts Receivable.
+3. Approval is obtained in chatter from both the Manager, Deal Desk and Director, Sales Operations.
 
 Note: If an exception is granted and the PO is not received within 10 days, on the 11th day the opportunity will be decommissioned, reversing all credit given for the booking. 
 
