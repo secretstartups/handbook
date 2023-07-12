@@ -81,7 +81,7 @@ The configuration file that the Data Team uses can be found in the [GitLab Data 
 
 ### Best Practices
 
-- No tabs should be used - only spaces. Your editor should be setup to convert tabs to spaces - see our [onboarding template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md) for more details.
+- No tabs should be used - only spaces. Your editor should be setup to convert tabs to spaces - see our [onboarding template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Team%3A%20Data%20Onboarding.md) for more details.
 
 - Wrap long lines of code, between 80 and 100, to a new line.
 

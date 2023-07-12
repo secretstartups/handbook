@@ -52,7 +52,7 @@ graph
 - For defintions of some of the terms used, please refer to [Common Data Science Terms](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/#common-data-science-terms). For definitions around sizing, please see [T-Shirt Sizing Approach](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#t-shirt-sizing-approach).
 
 
-- **Create a new issue using the [Data Science Process Template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Science%20Project%20Process.md)**
+- **Create a new issue using the [Data Science Process Template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Science%3A%20Project%20Process.md)**
 
 ## 1: Requirements Gathering
 **Sizing:** Small (with on-going refinements through Implementation Plan Phase) 
@@ -276,7 +276,7 @@ In the project issue, document the following:
 - Now you can run your code with your scoring dataset. Be sure update your sql code so it is parameterized to use the most current data available.
 - Examine the model decile distribution of your scored records. They should be roughly equal. If they are wildly off, or if they vary widely in each scoring run, it could be a sign that your model is overfit/underfit and cannot generalize beyond the training dataset.
 - Add .sql file, parameters.yml, model artifacts, and jupyter notebook to a production directory in your repo. See [here](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-expand/-/tree/main/prod) for an example
-- Create a new issue using the [Scheduling Notebook Request](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Scheduling%20Notebook%20Request.md) template, follow any additional steps, and tag `@gitlab-data/engineers` when ready to operationalize
+- Create a new issue using the [Scheduling Notebook Request](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Science%3A%20Project%20Process.md) template, follow any additional steps, and tag `@gitlab-data/engineers` when ready to operationalize
 
 **Considerations**:
 - This step is prone to a lot of human error, so completing the tasks outlined above is helpful to ensure accurate scoring of the model.

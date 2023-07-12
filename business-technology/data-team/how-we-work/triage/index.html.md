@@ -211,7 +211,7 @@ A triage roundup will take place at the end of every milestone by the data leade
 
 The Data Platform Team follows a weekly rotation schedule which means that by the end of the triage week the triager will hand over the triage responsibilities.
  
-- Even though we still use the [triage issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Triage.md) on a daily basis, the triager will only write up the week a-sync in the central data team triage issue on Friday end of day. 
+- Even though we still use the [triage issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Triage%3A%20Data%20Triage.md) on a daily basis, the triager will only write up the week a-sync in the central data team triage issue on Friday end of day. 
 - The triager will report/verbalize in the Weekly Data Platform Team meeting any notable things happened on triage on Tuesday in the next week.
  
 Although running a weekly rotation, we expect the triager to post an EOD announcement in the applicable Slack channels.

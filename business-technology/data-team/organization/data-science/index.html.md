@@ -269,7 +269,7 @@ graph
     F --> |ODBC| E
 ```
 
-- For putting a model into production, please create an new [data issue](https://gitlab.com/gitlab-data/analytics/-/issues/new#) using the [Scheduling Notebook Request Template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Scheduling%20Notebook%20Request.md)
+- For putting a model into production, please create an new [data issue](https://gitlab.com/gitlab-data/analytics/-/issues/new#) using the [Scheduling Notebook Request Template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Science%3A%20Scheduling%20Notebook%20Request.md)
 
 ### Data Science Tools at GitLab
 

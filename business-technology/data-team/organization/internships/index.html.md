@@ -20,7 +20,7 @@ Welcome to the **Data Team Internship Program** page. The Program is launching i
 
 - **Slack Channel**: `#data`
 - **[Internship for Learning](/handbook/people-group/learning-and-development/internship-for-learning/)**
-- **[Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md)**
+- **[Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Team%3A%20Data%20Onboarding.md)**
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> The 2022 Data Team Internship Program
 

@@ -115,7 +115,7 @@ In the Data Platform at GitLab we have multiple categories. Its good to highligh
 
 A **Quarterly Audit** is performed to validate system security, such as ensuring the right people have correct data access configuration and data pipelines are running correctly.
 
-The process is supported by the [Quarterly Data Health and Security issue template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). The label `~"Quarterly Data Health and Security Audit"` is used for all issues and merge requests related to the Quarterly audit.  
+The process is supported by the [Quarterly Data Health and Security issue template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Platform%3A%20Quarterly%20Data%20Health%20and%20Security%20Audit.md). The label `~"Quarterly Data Health and Security Audit"` is used for all issues and merge requests related to the Quarterly audit.  
  
 Here is a sample checklist of activities:
  
@@ -136,7 +136,7 @@ Here is a sample checklist of activities:
 
 #### Sisense
 - Deactivate off-boarded employees from Sisense.
-     - All Sisense accounts from GitLab team members that are off-boarded, should be deactivated from the day they are off-boarded. This activity checks for any active accounts for off-boarded GitLab team members. Subsequently any active account will be deactivated. To compare off-boarded employees with the actual users, 2 sources needs to be combined. This is done to extract the list of users from Sisense and load this via sheetload into Snowflake. The queries and details for this process are in the [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
+     - All Sisense accounts from GitLab team members that are off-boarded, should be deactivated from the day they are off-boarded. This activity checks for any active accounts for off-boarded GitLab team members. Subsequently any active account will be deactivated. To compare off-boarded employees with the actual users, 2 sources needs to be combined. This is done to extract the list of users from Sisense and load this via sheetload into Snowflake. The queries and details for this process are in the [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Platform%3A%20Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
 - Deactivate any account, that has not logged-in within the past 90 days from the moment of performing an audit, from Sisense.
      - Any Sisense account that hasn't logged-in for more than 90 days will be deactivated. If a GitLab team member wants to have access provisioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
 - Deprovision `SAFE Dashboard` Space access after 90 days not logged-in within the past 90 days from the moment of performing an audit.

@@ -41,7 +41,7 @@ This increases the number of people that can contribute since SQL is becoming su
 
 Finally, it enables teams to move faster by integrating [testing and documentation](https://docs.getdbt.com/docs/building-a-dbt-project/building-models/#testing-and-documenting-models) from the start.
 
-For even more information about the basics of dbt, see our [data analyst onboarding issue template](https://gitlab.com/gitlab-data/analytics/blob/master/.gitlab/issue_templates/Data%20Onboarding.md#what-is-dbt)
+For even more information about the basics of dbt, see our [data analyst onboarding issue template](https://gitlab.com/gitlab-data/analytics/blob/master/.gitlab/issue_templates/Team%3A%20Data%20Onboarding.md)
 
 At times, we rely on dbt packages for some data transformation.
 [Package management](https://docs.getdbt.com/docs/building-a-dbt-project/package-management/) is built-in to dbt.
