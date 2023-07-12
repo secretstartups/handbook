@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Security Awards Leaderboard"
+title: "Security Awards Leaderboard FY22"
 ---
 
 ### On this page
