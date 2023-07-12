@@ -52,19 +52,21 @@ We also do not require that non-JetBrains users maintain these comments - the Je
 team will take responsibility for maintaining them, adding explanatory comments/TODOs, tracking any
 associated JetBrains issues, and removing fixed or obsolete ones.
 
-**_The only request is that there are not
+We do request is that there are no
 [requests from non-JetBrains users to remove these comments](https://gitlab.com/gitlab-org/gitlab/-/issues/409823),
-just because they are not useful in their editors. It goes against our values of Efficiency, Results,
-and Diversity/Inclusion/Belonging if one team member attempts to prevent other team members and contributors
-from leveraging this powerful feature, just to eliminate some innocuous comments which have clear
-explanations/TODOs, and are easily ignored by non-JetBrains users._**
+unless the [JetBrains Issue](../../tracked-jetbrains-issues) tracking the comment has already been resolved.
 
-Some have made the argument that _"If we allow these comments, we will have to allow these type of
-comments from all sorts of other editors"_. However, given that JetBrains is by far the industry leader
-in IDEs as [described above](#jetbrains-is-widely-used), and no other mainstream "non-IDE" editors have
-this sort of standardized and proprietary feature, we are unlikely to have this problem. And even if
-this did happen, the same case could be made that those comments should be allowed as well, for the
-same value-based reasons.
+While it may not be useful for folks not using JetBrains IDEs, it does provide benefits to JetBrains users to write
+quality code by ensuring no such warnings are present and it is in support of our values of Efficiency, Results,
+and Diversity/Inclusion/Belonging.
+
+If you are using a non-JetBrains IDE which has significant usage at GitLab and it has similar support in that IDE, we encourage
+you to create such documentation on its benefits and how they should be used and how will they be tracked.
+
+Concerns about proliferation of such comments in our codebase for different editors are well-founded and we take them seriously.
+Thus, team members are encouraged to open issues inviting discussion to remove comments from an IDE which is not being actively used at GitLab, or for
+JetBrains `noinspection` comments in areas of the code which are not being
+actively maintained/curated.
 
 In reality, these comments are currently restricted in scope in the `gitlab` codebase. Currently, as of
 [this MR in July 2023](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/125831), all `noinspection`
