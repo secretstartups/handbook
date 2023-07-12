@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Career Development and Mobility
-description: "Resources and direction for career development and mobility for all GitLab team members"
+title: Internship for Learning
+description: "Resources and direction for internship for learning for all GitLab team members"
 ---
 
 ## On this page

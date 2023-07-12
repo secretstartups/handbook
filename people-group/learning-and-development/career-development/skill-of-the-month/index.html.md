@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Career Development and Mobility
-description: "Resources and direction for career development and mobility for all GitLab team members"
+title: Career Development Skill of the Month
+description: "Resources and direction for career development skill of the month for all GitLab team members"
 ---
 
 ## On this page
