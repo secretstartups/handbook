@@ -19,19 +19,19 @@ description: "GitLab Data Team Internships"
 Welcome to the **Data Team Internship Program** page. The Program is launching in 2022 and we are excited to help interested GitLab team members experience life in the fast-paced, results-oriented, and rapidly-evolving world of Data!
 
 - **Slack Channel**: `#data`
-- **[Internship for Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internship-for-learning)**
+- **[Internship for Learning](/handbook/people-group/learning-and-development/internship-for-learning/)**
 - **[Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md)**
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> The 2022 Data Team Internship Program
 
-The initial focus of the 2022 Program will be **Data Internship for Learning**, following the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) and focused on supporting career development for existing GitLab Team Members. Later in 2022 we will evaluate extending the program to support non-GitLab Team Members and traditional undergraduate internships.
+The initial focus of the 2022 Program will be **Data Internship for Learning**, following the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/internship-for-learning/) and focused on supporting career development for existing GitLab Team Members. Later in 2022 we will evaluate extending the program to support non-GitLab Team Members and traditional undergraduate internships.
 
 ### How Does Data Internship For Learning Work?
 
-The Data Internship for Learning follows [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) guidelines. In addition, given the rapid growth of the Data Team, we seek to partner every Intern with a current [individual contributor](/handbook/engineering/development/dev/training/ic-to-manager/) Data Team member who is interested in exploring their own career development towards a [Leadership](/handbook/people-group/learning-and-development/new-to-leadership/#new-to-leadership-and-management) role, such as a Team Lead specialization or [Data Management](https://handbook.gitlab.com/job-families/finance/manager-data/) role. In this model, both team members share a commitment to support each other's success. 
+The Data Internship for Learning follows [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/internship-for-learning/) guidelines. In addition, given the rapid growth of the Data Team, we seek to partner every Intern with a current [individual contributor](/handbook/engineering/development/dev/training/ic-to-manager/) Data Team member who is interested in exploring their own career development towards a [Leadership](/handbook/people-group/learning-and-development/new-to-leadership/#new-to-leadership-and-management) role, such as a Team Lead specialization or [Data Management](https://handbook.gitlab.com/job-families/finance/manager-data/) role. In this model, both team members share a commitment to support each other's success. 
 
 At launch in January 2022, **Data Internship for Learning** will be structured as follows:
-- Follows the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning)
+- Follows the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/internship-for-learning/)
 - Open to only current GitLab Team Members
 - Intern time allocation should range from 25%-50%, with a 3-month commitment
 - Data Team Mentor time allocation should range from 15-25%, with a 3-month commitment
@@ -46,7 +46,7 @@ subgraph "Shared Responsibility and Commitment"
 
 ### How Do I Get Started?
 
-Follow the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) instructions.
+Follow the [GitLab Internship for Learning Program](/handbook/people-group/learning-and-development/internship-for-learning/) instructions.
 
 ### Criteria For Creating A Data Team Internship
 
