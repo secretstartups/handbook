@@ -189,6 +189,22 @@ Virtual card requests will go through Zip as a regular purchase request.
 {: .alert .alert-info}
 
 
+
+### How to check status of a new request?
+
+1. Login to your [Okta home page.](https://gitlab.okta.com/app/UserHome)
+2. Open ZIP
+3. On the Zip home page click on `Requests` on the left side of the page.
+4. Select a Request you want to check the status on.
+- If the Request in ZIP has reached the `Coupa Approval and Execute Contract` node, you can check the status of a Request in Coupa:
+   -  Click on the "Create Purchase Requisition" icon on the top left corner of the approval flow
+   - Then, click on "View in Coupa"
+   - You will be redirected to Coupa, where you can check the approval flow and the current approver.
+
+![zip-image-status](/handbook/business-technology/enterprise-applications/guides/zip-guide/zip_status.png)
+
+
+
 ### How to cancel a request?
 
 1. On the Zip home page click on the `Submitted` tab.
