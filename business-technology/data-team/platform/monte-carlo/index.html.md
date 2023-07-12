@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Monte Carlo Guide"
-description: "Monte Carlo Guide"
+description: "Monte Carlo (MC) is our Data Observability tool and helps us deliver better results more efficiently."
 ---
 
 ## On this page

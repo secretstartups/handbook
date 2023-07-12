@@ -1,7 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Monte Carlo Guide"
-description: "Monte Carlo Guide"
+title: "Data Pipeline"
 ---
 
 ## On this page
