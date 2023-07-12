@@ -5,12 +5,19 @@ no_list: true
 
 ## What are all the `noinspection` comments in the code?
 
-(_**If you were given this referred to this page in response to asking that question, please read this section.**
+(_**If you were given this referred to this page in response to asking that question, please read this page for a thorough explanation.**
 But if you just want to learn how to use Code Inspection effectively in JetBrains, please see the [Code Inspection main page](..)_)
 
 ### JetBrains is widely used
 
-JetBrains is a powerful IDE, and is by far the industry leader in traditional "IDEs" (as opposed to all-purpose editors), with various surveys showing around 15% of developers using JetBrains IDEs (it is hard to get specific numbers, because most surveys split them into separate IDEs per ecosystem such as RubyMine, Webstorm, etc., but compare these to multi-ecosystem editors such as VSCode, Vim, etc.).
+JetBrains is a powerful IDE, and is by far the industry leader in traditional "IDEs" (as opposed to all-purpose editors), with various surveys showing a significant percentage of developers using JetBrains IDEs (it is hard to get specific numbers, because most surveys split them into separate IDEs per ecosystem/platform/language such as RubyMine, Webstorm, etc., but compare these to multi-ecosystem editors such as VSCode, Vim, etc.).
+
+Here's some various surveys showing usage of JetBrains editors:
+
+- [StackOverflow 2023 Developer Survey](https://survey.stackoverflow.co/2023/#section-most-popular-technologies-integrated-development-environment)
+- [Ruby on Rails 2022 Community Survey](https://rails-hosting.com/2022/#what-is-your-preferred-editor)
+- [JetBrains 2022 Developer Ecosystem Survey](https://www.jetbrains.com/lp/devecosystem-2022/ruby/#what-editor-ide-do-you-mostly-use-for-ruby-development-)
+- [GitLab 2023 IDE/Editor usage (INTERNAL DOCUMENT LINK)](https://docs.google.com/document/d/1tITdhdkJm5xaPiPpXQ9wW1X6M3SAMhncJYaNmQfja70/edit)
 
 ### JetBrains supports powerful Code Inspection above and beyond what is provided by git hooks or CI
 
