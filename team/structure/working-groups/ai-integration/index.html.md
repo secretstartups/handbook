@@ -157,18 +157,22 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Name | Role | Area of Work | 
 | ---- | ---- | ------------ | 
 | Alexandru Croitor | Senior Backend Engineer | AI Enablement | 
-| George Koltsov | Senior Backend Engineer | AI Enablement | 
+| Eulyeon Ko | Backend Engineer | AI Enablement | 
 | Gosia Ksionek  | Staff Backend Engineer | AI Enablement | 
 | Nicolas Dular |  Senior Backend Engineer | AI Enablement | 
 | Denys Mishunov | Staff Frontend Engineer | AI Enablement | 
-| Patrick Bajao | Senior Backend Engineer | AI Enablement | 
 | Bojan Marjanović | Senior Backend Engineer | AI Enablement | 
 | Jan Provaznik | Staff Backend Engineer | AI Enablement | 
+| Mikołaj Wawrzyniak | Staff Backend Engineer | AI Enablement |
+| Pavel Shutsin | Senior Backend Engineer | AI Enablement |
+| Max Woolf | Staff Backend Engineer | AI Enablement |
+| Tan Le | Senior Fullstack Engineer | AI Enablement |
+| Andras Herczeg | Backend Engineer | AI Enablement |
+| Sebastian Rehm | Engineering Manager | AI Enablement |
 | Daniel Tian | Senior Frontend Engineer | Threat Insights |
 | Gregory Havenga | Backend Engineer | Threat Insights |
 | Kerri Miller | Staff Backend Engineer | Code Review |
 | Stanislav Lashmanov | Senior Frontend Engineer | Code Review |
-| Pavel Shutsin | Senior Backend Engineer | Plan:Optimize |
 | Simon Knox | Senior Frontend Engineer | Plan:Project Management |
 | Nikola Milojevic | Senior Backend Engineer | Application Performance |
 | Aleksei Lipniagov | Senior Backend Engineer | Application Performance |
