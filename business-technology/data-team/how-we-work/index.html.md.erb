@@ -24,26 +24,55 @@ description: "GitLab Data Team Workflow"
 - [Data Team Programs](/handbook/business-technology/data-team/programs/#data-programs)
 - [Weekly Roll Up with Rolly Bot](/handbook/business-technology/data-team/how-we-work/#weekly-roll-up-reporting)
 
-## Working With The Data Team
+## How We Work
 
-We're happy to help you achieve your goals with Data. Most of our work is driven through our [Data Fusion Teams](/handbook/business-technology/data-team/#how-data-teams-work-together), but we do [reserve some capacity](/handbook/business-technology/data-team/how-we-work/#standing-priorities) to work on  requests not linked to these initiatives. Here's the process to follow to create a new Data issue:
+We're happy to help you achieve your goals with Data. As a central shared service with finite time and capacity and with a responsibility to operate and develop the company's central Enterprise Data, the Data Team must focus its time and energy on initiatives that will yield the greatest positive impact to the [overall global organization](/handbook/values/#global-optimization) towards [improving customer results](/handbook/values/#customer-results).
 
-1. Open a **New Issue** in the [Data Team Analytics Project](https://gitlab.com/gitlab-data/analytics/-/issues)
-2. Choose a **Template** from the table below that best matches the work you'd like us to perform
+### Work Categorization and Prioritization
+
+The Data Team strives to spend the majority of its time developing and operating the Enterprise Data Platform and related systems, keeping fresh data flowing through the system, regularly expanding the breadth of data available for analysis, and delivering high-impact strategic projects. We categorize our work using the framework outlined below.
+
+| Rank | Priority | Description| Target Allocation | Prioritization Method |
+| --- | --- | --- | --- | --- |
+| 1  | Production Operations | Activities required to maintain efficient and reliable data services, including triage, bug fixes, and patching to meet established [Service Level Objectives](/handbook/business-technology/data-team/platform/#slos-service-level-objectives-by-data-source). | 10-20% (may fluctuate depending on incident frequency and complexity) | As needed
+| 2  | Data Team OKRs | The Data Team identifies strategic-level OKRs in collaboration with partner teams each quarter. | 60-75% | Prioritized through the monthly [Data Leadership Forum](/handbook/business-technology/data-team/how-we-work/#data-leadership-forum) and committed to during our [quarterly planning process](/handbook/business-technology/data-team/how-we-work/planning/) |
+| 3  | Other | Other tactical work that is requested on an ad-hoc basis throughout the quarter | 15-25% | Prioritized on an ongoing basis and committed to during our [milestone planning process](handbook/business-technology/data-team/how-we-work/#quarterly-and-milestone-planning)|
+
+We use [scoped labels in GitLab](/handbook/business-technology/data-team/how-we-work/#issue-labeling) to track our issues across these priorities.
+
+### Project Intake
+
+Here's the process to follow to create a new Data issue:
+
+1. Open a **New Issue** in the [Data Team Analytics Project](https://gitlab.com/gitlab-data/analytics/-/issues).
+2. Choose a **Template** from the table below that best matches the work you are requesting.
 3. Complete the templated **Description** as completely as possible.
 4. Leave the **Assignees** blank. The Data Team will process your request as a part of our [Daily Triage](/handbook/business-technology/data-team/how-we-work/triage/).
+<!--need to review the activities that are part of triage process -->
 
 **New Issue**
-
-| Request Type | Template To Choose |
+| Request Type | Issue Template To Choose |
 | ----- | ----- |
-| [New Dashboard](https://gitlab.com/gitlab-data/analytics/-/issues) | 'Visualization or Dashboard - New Request' |
-| [Add Data Source](https://gitlab.com/gitlab-data/analytics/-/issues) | 'New Data Source' |
-| [Data Export](https://gitlab.com/gitlab-data/analytics/-/issues) | 'Data Export Request' |
-| [New KPI](https://gitlab.com/gitlab-data/analytics/-/issues) | 'KPI Template' |
-| [Data Quality Issue](https://gitlab.com/gitlab-data/analytics/-/issues) | `Coming soon` |
+| [General Data Team Support](https://gitlab.com/gitlab-data/analytics/-/issues) | `[Request] Create Standard Data Team Issue` _(note: this is the default, most commonly used template for P3 / tactical requests and Data Team support. If you are not sure where to start, start here)_ |
+| [OKR-Level Project Request](https://gitlab.com/gitlab-data/analytics/-/issues) | `[Request] Create Opportunity Canvas` _(note: this template is required for large-scale, P2 work like OKRs to be reviewed and prioritized in the Data Leadership Forum)_|
+| [Add Data Source](https://gitlab.com/gitlab-data/analytics/-/issues) | `[Request] New Data Source` |
+| [Data Quality Issue](https://gitlab.com/gitlab-data/analytics/-/issues) | `[Report] Data Quality Problem` |
 
-## How we Work
+### Data Leadership Forum
+
+The monthly Data Leadership Forum includes representation from partner teams across GitLab (Marketing, Sales, Customer Success, Finance, IT, Support, Product, Engineering, People, Security, Legal) and is used to oversee and drive the strategic direction of GitLab data management and analytics initiatives, including project prioritization. The forum ensures that data is leveraged effectively to support business goals, improve decision-making processes, and drive innovation. It acts as a governing body to establish policies, standards, and best practices for data governance, data quality, data privacy, and data security.
+
+In order for OKRs / projects to be prioritized through the Data Leadership Forum, an opportunity canvas is required. An opportunity canvas is a specific [issue template](https://gitlab.com/gitlab-data/analytics/-/issues) that contains detailed information about the work that is being requested, the expected business impact from that work, a rough estimate of the level of effort to accomplish the work, and known risks/dependencies. The opportunity canvas also includes a business value score based on our [Value Calculator](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator), which is one factor in prioritizing and ranking our backlog of work. 
+
+In the instance that a new project is raised mid-quarter and is proposed to be prioritized sooner than the next quarterly planning cycle, the forum will review the Opportunity Canvas for the new project, determine if the business value and impact warrants re-prioritization, and will come to a decision on the necessary trade-offs (i.e. to prioritize that new work, other planned work must be deprioritized). 
+
+### Request to Expedite Responses
+
+Requests to expedite responses, triage issues, or MR reviews are rare. Given the Data Team's shared-service model, expediting one task necessarily de-prioritizes other work. To request an expedited response:
+
+1. Confirm there is a valid reason for moving your request ahead of others.
+1. Post a note to #data, along with a link to your Issue and a reason why you need an expedited response. Please do not DM an individual on the Data Team directly.
+1. A member of the Data Team will respond within 1 business day.
 
 ### Deciding What And How To Build
 
@@ -65,29 +94,10 @@ The below steps should be followed when performing a **Design Spike**:
 
 The Data Team, like the rest of GitLab, works hard to document as much as possible. We believe [this framework](https://documentation.divio.com/) for types of documentation from Divio is quite valuable. For the most part, what's captured in the handbook are tutorials, how-to guides, and explanations, while reference documentation lives within in the primary analytics project. We have aspirations to tag our documentation with the appropriate function as well as clearly articulate the [assumed audiences](https://v4.chriskrycho.com/2018/assumed-audiences.html) for each piece of documentation.
 
-### Prioritization
-
-As a central shared service with finite time and capacity and with a responsibility to operate and develop the company's central Enterprise Data Warehouse, the Data Team must focus its time and energy on initiatives that will yield the greatest positive impact to the [overall global organization](/handbook/values/#global-optimization) towards [improving customer results](/handbook/values/#customer-results).
-
-The Data Team uses a **Value Calculator** to quantify the business value of new initiatives (issue, epic, OKR, strategic project) to enable prioritization and ranking of the Data Team development queue. The Value Calculator provides a uniform and transparent mechanism for ranking and enables all work to be evaluated on equal terms. The value calculator approach is similar to the [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/) for Product Managers and the [Demand Metric Prioritization Model](https://blog.demandmetric.com/2009/02/06/prioritize-your-strategic-initiatives/) for Marketing.
-
-### Standing Priorities
-
-Every day in Data brings a new challenge or opportunity. However, The Data Team strives to spend the majority of its time developing and operating the Enterprise Data Warehouse and related systems, keeping fresh data flowing through the system, regularly expanding the breadth of data available for analysis, and delivering high-impact strategic projects. Our standing priorities are listed below.
-
-| Rank | Priority | Description| Target Allocation |
-| --- | --- | --- | --- |
-| 1  | Production Operations | Activities required to maintain efficient and reliable data services, including triage, bug fixes, and patching to meet established [Service Level Objectives](/handbook/business-technology/data-team/platform/#slos-service-level-objectives-by-data-source). | 10-20%, though will fluctuate as driven by incident frequency and complexity |
-| 2  | Data Team OKRs | The Data Team identifies 3-4 strategic-level OKRs per quarter, primarily focused on core infrastructure and data development that will be beneficial to the entire company. | 60-75%, though this will fluctuate as driven by larger Functional Team OKRs  |
-| 3  | Other | Other work, including Functional Team OKRs, as prioritized and ranked using the Value Calculator | 15-25% |
-
-We use [scoped labels in GitLab](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=priority%3A%3A) to track our issues across these priorities.
-
-### Resolving Prioritization and Blocking Issues
-
-In rare situations [established SLOs](/handbook/business-technology/data-team/how-we-work/#slo-for-issues-and-merge-requests) do not meet turnaround needs and in these cases the Data Team provides an [expedite response](/handbook/business-technology/data-team/how-we-work/#request-to-expedite-responses) capability. The Data Team will provide an date estimate if expedited request cannot be handled per the expedite response SLO.
-
 ### Data Team Value Calculator
+<!-- read through this and make adjustments -->
+
+The Value Calculator provides a uniform and transparent mechanism for ranking and enables all work to be evaluated on equal terms. The value calculator approach is similar to the [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/) for Product Managers and the [Demand Metric Prioritization Model](https://blog.demandmetric.com/2009/02/06/prioritize-your-strategic-initiatives/) for Marketing.
 
 The calculator below is based on the following [Value Calculator](https://docs.google.com/spreadsheets/d/1FROB7j0YfNS_cQM6qQD0CPkE0Emuf77EJwTb96UduWs/edit?usp=sharing) spreadsheet. Please select the values below to define the value of new work.
 
@@ -110,7 +120,7 @@ Process:
     - Data Fusion Team: `Data-Fusion-weekly-rollup`
     - Data Science Team: `Data-Science-weekly-rollup`
     - Data Collaboration Team: `Data-Collaboration-weekly-rollup`
-3. Add the following text in each Epic description, filling in the details for each KR:
+3. Add the following text in each Epic description, filling in the details for each KR: 
     ```
     <!-- Status Start -->
     1. **DRI:** [Team member(s) tags responsible for completing the KR]
@@ -135,39 +145,11 @@ Current limits:
 1. Only Epics can be added to the weekly roll up (i.e. not Issues)
 1. Only 20 Epics can be added to the weekly roll up
 
-### Issue Types
-
-There are three _general_ types of issues:
-
-- Discovery
-- Introducing a new data source
-- Work
-
-Not all issues will fall into one of these buckets but 85% should.
-
-##### Discovery issues
-
-Some issues may need a discovery period to understand requirements, gather feedback, or explore the work that needs to be done.
-Discovery issues are usually 2 points.
-
 ##### Introducing a new data source
-
+<!-- Amie to check with Dennis on this -->
 Introducing a new data source requires a _heavy lift_ of understanding that new data source, mapping field names to logic, documenting those, and understanding what issues are being delivered.
 Usually introducing a new data source is coupled with replicating an existing dashboard from the other data source.
 This helps verify that numbers are accurate and the original data source and the data team's analysis are using the same definitions.
-
-##### Work
-
-This umbrella term helps capture:
-
-- inbound requests from GitLab team-members that usually materialize into a report, dashboard, model, or new data source
-- housekeeping improvements/technical debt from the data team
-- goals of the data team
-- documentation notes
-
-It is the responsibility of the assignee to be clear on what the scope of their issue is.
-A well-defined issue has a clearly outlined problem statement. Complex or new issues may also include an outline (not all encompassing list) of what steps need to be taken.
-If an issue is not well-scoped as its assigned, it is the responsibility of the assignee to understand how to scope that issue properly and approach the appropriate team members for guidance early in the milestone.
 
 ### Incidents
 
@@ -220,19 +202,19 @@ Think of each of these groups of labels as ways of bucketing the work done.
 
 All issues should get the following classes of labels assigned to them:
 
-- **Who** ([Brown](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=Team%3A%3A)): Which team performs the work ([Fusion Team](/handbook/business-technology/data-team/#data-fusion-teams) or [Data Platform Team](/handbook/business-technology/data-team/#the-data-platform-team))
-- **When**: [Workflow Status](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow) and [Prioritization Type](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=Priority+Label%3A+)
+- **Team:** The Data Team that will perform the work ([Fusion Team](/handbook/business-technology/data-team/#data-fusion-teams) or [Data Platform Team](/handbook/business-technology/data-team/#the-data-platform-team))
+- **Champion:** The team who has requested the work (may be a functional partner team, or the Data Team itself)
+- **Workflow:** The status of the work
+- **Priority:** Whether the work is P1 (Operational), P2 (OKR), or P3 (Other)
 
-Optional labels that are useful to communicate state or other priority
-- **What** - Data or Tool
-    - Data (Light Green): Data being touched (Salesforce, Zuora, Zendesk, GitLab.com, etc.)
-    - Tool (Light Blue) (Sisense, dbt, Stitch, Airflow, etc.)
-- **How** (Orange): Type of work (Documentation, Break-fix, Enhancement, Refactor, Testing, Review)
-- State (Red) (Won't Do, Blocked, Needs Consensus, etc.)
-- Inbound: For issues created by GitLab team members who are not on the Data Team; not for asks created by data team members on behalf of others.
-- [Business Logic change](https://gitlab.com/gitlab-data/analytics/-/labels?subscribed=&search=business+logic+change): This label is applied for any business logic changes such as adding new dimensions, facts, marts, changing joins, adding new calculated fields.
+Optional labels that are useful to communicate state or other priority:
+- **What:** 
+    - Data: Data being touched (Salesforce, Zuora, Zendesk, GitLab.com, etc.)
+    - Tool: (Sisense, dbt, Stitch, Airflow, etc.)
+- **Business Logic Change**: This label is applied for any business logic changes such as adding new dimensions, facts, marts, changing joins, adding new calculated fields.
+- **Opportunity Canvas**: This label is auto-applied on the Opportunity Canvas template, but can also be applied to work that has converted into a large-scale project. This label will be used to identify topics for discussion and prioritization at the [monthly Data Leadership forum](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#prioritization). 
 
-##### Merge Request Workflow
+##### Merge Request Workflow 
 
 _Ideally_, your workflow should be as follows:
 
@@ -275,22 +257,13 @@ Other tips:
 
 ##### KPI Development Workflow
 
-1. Once a KPI or other Performance Indicate is defined and assigned a prioritization, the metric will need to be added to Sisense by the data team.
-1. **Before** syncing with the data team to add a KPI to Sisense, the metric must be:
-    - Clearly defined in the relevant section in the handbook and added to the GitLab KPIs [with all of its parts](/company/kpis/#parts-of-a-kpi).
-    - Reviewed with the Financial Business Partner for the group.
-    - Approved and reviewed by the executive of the group.
-1. Once the KPI is ready to be added into Sisense, create an issue on the [GitLab Data Team Issue Tracker](https://gitlab.com/gitlab-data/analytics/issues) using the [KPI Template](https://gitlab.com/gitlab-data/analytics/blob/master/.gitlab/issue_templates/KPI%20Template.md) or [PI Request Template](https://gitlab.com/gitlab-data/analytics/blob/master/.gitlab/issue_templates/Visualization%20or%20Dashboard-%20New%20Request.md).
+The Data Team will work to add KPIs and Performance Indicators to our enterprise database models and BI reports once the following steps have been completed.
+    - The DRI should ensure the KPI definition, business logic, and calculation steps are documented in the relevant section of the handbook and added to the GitLab KPIs [with all of its parts](/company/kpis/#parts-of-a-kpi) 
+    - The handbook definition should be reviewed by the necessary [Consulted & Informed](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#dri-consulted-informed-dci) cross-functional partners. In some cases, the definition may also require [approval](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#circumstances-requiring-the-rare-need-for-approvals) from those cross-functional partners
+    - Once the KPI is ready to be added into our enterprise reporting, the DRI should create an issue using the standard Data Team Issue template on the [GitLab Data Team Issue Tracker](https://gitlab.com/gitlab-data/analytics/issues).
     - The Data team will verify the data sources and help to find a way to automate (if necessary).
-    - Once the import is complete, the data team will present the information to the owner of the KPI for approval who will document in the relevant section of the handbook.
 
-##### Data Quality Issue Workflow
-
-_Ideally_, your workflow should be as follows:
-
-1. Create an issue, open an existing issue, or assign yourself to an existing issue. The issue is assigned to the person(s) who will be doing the work.
-1. Add appropriate labels to the issue (see above)
-    - The Data Team will Triage the issue and assign it a priority.
+Once the KPI has been added to our enterprise BI platform, the Data Team will present it to the DRI for testing and final approval.
 
 ### SLO for Issues and Merge Requests
 
@@ -301,11 +274,11 @@ _Ideally_, your workflow should be as follows:
 - MR Review SLO
     - 4 weeks (2 milestones)
 
-### Removal and deletion process
+### Removal and deletion process <!-- @dennis is there an iteration on this one, get @chris and @peter to contribute here -->
 
 After some time, environments will have software/code/components that are not needed any more. It feels risky to delete software and code, even when its not being used, seems not being used or asked not to being used (i.e. users access).
 
-There are multiple reasons to perform deletions. I.e:
+There are multiple reasons to perform deletions:
 1. We see software (or parts of software) that is not used anymore
 2. There is a request to remove user access
 3. There is a request to delete a user account
@@ -400,20 +373,9 @@ Each variables will be scored 1 to 3.
 | 3 - 4      | Create a MR, tag `@gitlab-data/engineers` with a deadline to object and have it reviewed by 2 code owners |
 | 6 - 9      | Create a MR, to be discussed in the DE-Team meeting and have it reviewed by 2 code owners |
 
-### Request to Expedite Responses
+### Annual Data & Analytics Maturity Assessment
 
-Requests to expedite responses, triage issues, or review MRs is rare. Given the Data Team's shared-service model, expediting an item is asking to de-prioritize other work. To request an expedited response:
-
-1. Confirm there is a valid reason for moving your request ahead of others.
-1. Post a note to #data, along with a link to your Issue and a reason why you need an expedited response. Please do not DM an individual on the Data Team directly.
-1. A member of the Data Team will respond within 1 business day.
-
-### Customer Satisfaction Survey (CSAT)
-
-We regularly measure how ow satisfied our internal customers are with the services and products we provide.
-
-- Our standing [Survey Results Dashboard](https://app.periscopedata.com/app/gitlab/798574/Data-Team-CSAT-Survey-Dashboard) presents trends of CSAT results over time.
-- Our [FY21 CSAT Survey Results and Takeaways](https://docs.google.com/presentation/d/1OPfoF4qzzCTiPZb9EeXHEpB6kDEpZ4CwV4lzg26L6Uw/edit?usp=sharing) presents a summary of our FY21 program.
+Each year beginning in FY24, the Data Team will facilitate a survey to solicit anonymous feedback about the Data program from GitLab team members. This survey will help drive our focus areas and track our maturity over time.
 
 ### YouTube
 
