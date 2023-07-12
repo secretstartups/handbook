@@ -25,9 +25,11 @@ The L&D team uses Thought Industries to support training for GitLab team members
 
 ### Education Services
 
+The primary mission of Education Services is to plan and implement effective and scalable educational offerings to accelerate customer time to value and drive expanding product adoption. Education Services deliver [Technical Ceritifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) via Level Up.
+
 ### Field Enablement
 
-### Partner Enablement
+Field Enablement's mission is to inspire the field organization and partners to achieve high levels of success through the acquisition and application of knowledge, skills and behaviors that improve productivity and accelerate growth. They utilise Level Up to deliver onboarding and digital training for Sales teams.
 
 ## Platform Training and Support from Thought Industries
 <!-- blank line -->
@@ -63,9 +65,9 @@ The admin home page is a place for platform administrators to access:
 1. Opt-in subscriptions for system updates, outages, and scheduled maintence (suggested for all admin)
 1. The `Control Panel` that lists all features enabled in the Level Up instance
 
-## Platform Settings
+# Platform Settings
 
-### Notifications
+## Notifications
 <!-- blank line -->
 1. **Emails:** [Refer to this list of default emails sent to users](https://support.thoughtindustries.com/hc/en-us/articles/4404293128215-Default-Platform-Emails-to-Learners)]. Emails are branded for Level Up
 
@@ -87,7 +89,7 @@ The admin home page is a place for platform administrators to access:
 1. A `.jpg` or .`jpeg` blank certificate must be uploaded when authoring a course
 1. When building a course, drag and drop criteria to be auto-filled into the blank certificate file
 
-### Gamification (these are gained as people earn points in the system)
+## Gamification (these are gained as people earn points in the system)
 <!-- blank line -->
 1. Navigate to `settings` -> `gamification` to edit.
 
@@ -133,14 +135,7 @@ Add custom content fields directly to each course in the `Design` tab.
 
 ![Adding custom content field in Thought Industries](course-content.jpg){: .medium.center}
 
-Please review the **application rules** and **best practices** below:
-
-**Application Rules:**
-<!-- blank line -->
-1. All content should be tagged with `Audience` custom content field + appropriate sub field
-2. Most content should be tagged with `Topic` custom field + appropriate sub field
-3. Some content should be tagged with `Role` customfield + appropriate sub field
-4. To create a new custom content field, it must be documented in this Google sheet and communicated to the entire TI implementation team
+Please review the **best practices** below:
 
 **Best Practices:**
 <!-- blank line -->
@@ -148,7 +143,7 @@ Please review the **application rules** and **best practices** below:
 1. Wherever possible, use existing custom content fields and sub fields as opposed to creating new ones
 1. Review [TI support docs](https://support.thoughtindustries.com/hc/en-us/articles/360046307213-Using-Custom-Fields-vs-Curated-Categories) when questions arise
 
-### Publishing a course for internal team members
+## Publishing a course for internal team members
 
 1. From the admin view, navigate to the course by choosing Content > Manage Content, then finding the relevant course
 1. Once in the course editor, in the `Content` page check all relevant changes have been published.
@@ -262,17 +257,6 @@ Here is an [example](https://docs.google.com/spreadsheets/d/1ZmRT-9XzN0WBXZ2p6kz
      1. Apply `Division` as your `Rows` value
      1. Apply your choice of values for each column. Most common will be `Completions` and `Division Total`
 
-# Content Design & Creation: Best Practices
-
-### Measureable Learning Objectives and Alignment
-
-### Instructional Design Methodology
-
-### Recommendations for Content Duration and Scope
-
-### Recommended Course Authoring Tools
-
-### Recommended External Resources for Contet Development
 
 
 
