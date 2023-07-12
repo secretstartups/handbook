@@ -193,7 +193,7 @@ To apply, please reach out to both Hillary Benson (`@hbenson`) and the mentor li
 1. Schedule a coffee chat with one of the mentors above to go through your
   interests, your availability (both calendar time and in % of your work hours),
   and see if there is a good fit.
-1. Create a new issue for an [Internship for Learning](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internship-for-learning)
+1. Create a new issue for an [Internship for Learning](/handbook/people-group/learning-and-development/internship-for-learning/)
   and follow that process.
 
 ### Mentors
