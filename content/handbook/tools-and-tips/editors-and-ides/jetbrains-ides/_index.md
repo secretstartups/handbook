@@ -43,6 +43,12 @@ a rough estimate is that about 15% of professional software developers today use
 See the the [Common Jetbrains Setup and Configuration](setup-and-config) page for instructions on installing and
 configuring JetBrains IDEs.
 
+## Debugging
+
+See the following IDE-specific pages for tips on debugging:
+
+- [RubyMine debugging](individual-ides/rubymine#debugging)
+
 ## Keymaps
 
 There's a lot of keybindings in JetBrains IDEs. Here's a list for RubyMine: https://www.jetbrains.com/help/ruby/mastering-keyboard-shortcuts.html. You can find the ones for their other IDEs too.

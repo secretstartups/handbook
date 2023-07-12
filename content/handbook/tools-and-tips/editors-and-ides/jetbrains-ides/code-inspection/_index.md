@@ -61,7 +61,17 @@ If you use
 you will have to manually add a space after the `#` to avoid a RuboCop
 warning in the `gitlab` project.
 
-These comments might confuse some non-JetBrains users.
+Use the following process to automatically add a `noinspection` comment:
+
+1. Either hit `Option-Enter` while on the warning line in the code (after pressing `F2` to find it),
+   or else in the "Inspect Code" `Problems` pane report right click on the error.
+1. In the menu that comes up, find the `Suppress for statement` option and click it.
+1. Note that there is currently a bug that doesn't put a space after the `#` comment in Ruby, you'll have to add one to avoid a rubocop error (TODO: Open an issue for this against RubyMine)
+1. This enables you to have a nice, clean report and green check with no false positives :)
+
+## Each `noinspection` should be accompanied by an explanation or link
+
+These `noinspection` comments might confuse some non-JetBrains users.
 
 Therefore, each of these comments should be accompanied by a comment explaining why it
 was needed, with a reference to any supporting information.
@@ -70,3 +80,29 @@ If it was needed due to a JetBrains bug or limitation, you can reference the spe
 [Tracked JetBrains Issues](../tracked-jetbrains-issues) page.
 
 If one doesn't exist yet, you should open an issue against JetBrains and add it to that page.
+
+### Using `Inspect Code` with custom scopes
+
+One way you can make Code Inspections (and other JetBrains operations) faster and more powerful is through
+the use of _custom scopes_
+
+If you curate a custom "Scope" which only selects the files related to the feature you are currently working on, you can
+also use this report to find all warnings/errors in any of those files.
+
+Here's a quick list of steps to set this up (TODO: add more details/links):
+
+1. Ensure you have all the linting plugins enabled and configured: rubocop, eslint, prettier (search for these in the Preferences search, some are enabled by default)
+1. In Preferences -> Editor -> Code Editing -> Error Highlighting section -> Change `The 'Next Error' action goes through` to `All problems`
+1. Then you can see all the highlighting in the current file by default.
+1. Press `F2` (next error) to cycle through all errors in the current file. Press `Option+Return` while on the error to open a menu of possible fixes.
+1. To check multiple files, you can use the `Inspect Code` function (Cmd-shift-A -> "Inspect Code")
+   and pick an individual file or custom scope to inspect.
+1. You can also set up a custom scope to only include the files for the Feature or area of code you are working on
+    1. Preferences -> Appearance and Behavior -> Scopes
+    1. `+` to add a scope and give it a name (e.g. `remote_dev`)
+    1. Use the Include/Exclude/Recursively buttons to define what files should be included in the scope.
+    1. Here's a current example of the `remote_dev` scope definition which could be shared with other team members: `file[gitlab]:ee/lib/remote_development//*||file[gitlab]:ee/spec/factories/remote_development//*||file[gitlab]:ee/spec/lib/remote_development//*||file[gitlab]:ee/app/services/remote_development//*||file[gitlab]:app/models/remote_development//*||file[gitlab]:ee/app/graphql/mutations/remote_development//*||file[gitlab]:ee/app/graphql/resolvers/remote_development//*||file[gitlab]:ee/app/graphql/types/remote_development//*||file[gitlab]:ee/app/models/remote_development//*||file[gitlab]:ee/spec/graphql/types/remote_development//*||file[gitlab]:ee/spec/models/remote_development//*||file[gitlab]:ee/spec/services/remote_development//*||file[gitlab]:ee/app/finders/remote_development//*||file[gitlab]:ee/spec/features/remote_development//*||file[gitlab]:ee/spec/support/shared_contexts/remote_development//*||file[gitlab]:ee/app/graphql/ee/types/user_interface.rb||file[gitlab]:ee/app/graphql/resolvers/concerns/remote_development//*||file[gitlab]:ee/app/graphql/resolvers/projects/workspaces_resolver.rb||file[gitlab]:ee/app/graphql/resolvers/users/workspaces_resolver.rb||file[gitlab]:ee/spec/requests/api/graphql/mutations/remote_development//*||file[gitlab]:ee/spec/requests/api/graphql/remote_development//*||file[gitlab]:ee/spec/finders/remote_development//*||file[gitlab]:ee/app/assets/javascripts/remote_development//*||file[gitlab]:ee/spec/frontend/remote_development//*||file[gitlab]:ee/spec/graphql/api/workspace_spec.rb`
+    1. You can also share the XML file for the directly, it will be under `.idea/scopes/SCOPE_NAME.xml`.
+    1. Here's Chad's current examples of two scopes related to Remote Development:
+       1. All remote dev files: https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/dotidea/scopes/remote_dev.xml
+       1. Only remote dev services and lib files: https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/dotidea/scopes/remote_dev_services___lib.xml
