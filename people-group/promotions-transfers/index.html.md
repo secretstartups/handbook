@@ -207,8 +207,8 @@ We have built in a few additional touchpoints into the company-wide [promotion c
 1. *NEW* Promotion Feedback Obtained: _The promotion feeback portion of the cycle should kick off **after** department level calibration has concluded._ Manager and Team Members collaboratively select 2-3 team members to participate in the feedback collection process. Once the team members to participate are selected, the Manager engages another Indirect Manager to collect the feedback objectively.   
 1. The selected Indirect Manager reaches out to the 2-3 team members selected to request their participation in the promotion feedback process using [Promotion Feedback template](https://docs.google.com/document/d/1SZwFzL64JWEYUM2SWr-eBgJCaSjaDEOaxOm6OckRsH8/edit#). A separate copy of the [template](https://docs.google.com/document/d/1SZwFzL64JWEYUM2SWr-eBgJCaSjaDEOaxOm6OckRsH8/edit#) should be shared with each individual providing feedback. Feedback can be provided asynchronously, or synchronously in a session set up by the Indirect Manager.  
 1. Indirect Managers review this content and can schedule follow up interviews to gain additional clarity and dig into any themes that have arisen if necessary. 
-1. Indirect Manager compiles a summary of written feedback along with any relevant interview notes that is presented at CTO calibration by their department leader in conjunction with the promotion document. Indirect Manager should share the feedback overview with the direct Manager. **Due date for Indirect Managers to complete feedback process and have final summary compiled and shared with direct Manager is 2023-07-07 EOD PT.**
-1. As soon as the direct Managers confirm they have received and reviewd the feedback summary document provided by the Indirect Manager, the Indirect Manager should share the summary with CTO Staff (I.E. CTO direct reports) via the `cto-leadership@gitlab.com` email alias, and the Engineering People Business Partners via the `pbp-r-and-d@gitlab.com` email alias to ensure appropriate access is in place ahead of CTO level calibration. **Feedback summary documents should be shared with the aliases above by 2023-07-10 @ 12pm PT latest.**
+1. Indirect Manager compiles a summary of written feedback along with any relevant interview notes that is presented at CTO calibration by their department leader in conjunction with the promotion document. Indirect Manager should share the feedback overview with the direct Manager. **Due date for Indirect Managers to complete the feedback process and have the final summary compiled and shared with direct Manager is 2023-07-07 EOD PT.**
+1. As soon as the direct Managers confirm they have received and reviewed the feedback summary document provided by the Indirect Manager, the Indirect Manager should share the summary with CTO Staff (I.E. CTO direct reports) via the `cto-leadership@gitlab.com` email alias, and the Engineering People Business Partners via the `pbp-r-and-d@gitlab.com` email alias to ensure appropriate access is in place ahead of CTO level calibration. **Feedback summary documents should be shared with the aliases above by 2023-07-10 @ 12pm PT latest.**
 1. Week of 2023-07-10: CTO Calibration, Promotions Approved within Engineering and submitted for final company approval and processing
 1. Upon final [approval of promotions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline): The direct manager will provide a consolidated summary of the themes collected in the promotion feedback process to the team member directly. The goal of this conversation is to aid in the ongoing growth of the team member and should be presented in a way that provides the team member with actionable insights for development. Unless specifically agreed upon with the team member who provided feedback, feedback should be presented thematically vs directly attributable. The Indirect Manager who collected the feedback should plan to meet with the direct manager to share the findings. Managers should plan to discuss promotion feedback with all promotion candidates for whom feedback was solicited, not just those whose promotions were approved. If a promotion was not approved, the collective feedback from calibration and the promotion feedback process should inform a discussion about growth areas for the team member to focus on to be more ready for future promotion.
 
@@ -221,7 +221,7 @@ Philosophically, all promotions at GitLab are approached in the same way, follow
 Promotions to Senior Director+ level ([job grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above) have the following differences:
 
 1. **Planning**: Senior Director+ promotions need to be added to E-group's promotion project sheet at least two quarters ahead of the desired promotion quarter for visibility. For example, if I want to promote an individual effective in Q1 (February), then I need to have this team member added to E-group's projection sheet within Q3 (latest October). Please work with your aligned People Business Partner, who will ensure the promotion projection is added. 
-1. **Calibration**: All Senior Director+ level promotions are calibrated at the E-group level, as opposed to at the Department level. Calibration timeline will align to the timing of the [E-group offiste](https://about.gitlab.com/company/offsite/#schedule), and will thus differ from the Calibration timeline of the rest of the organization. All promotion documents need to be completed and shared with the E-group for visibility and preparation at least _2 weeks before the off-site date_. 
+1. **Calibration**: All Senior Director+ level promotions are calibrated at the E-group level, as opposed to at the Department level. Calibration timeline will align to the timing of the [E-group offsite](https://about.gitlab.com/company/offsite/#schedule), and will thus differ from the Calibration timeline of the rest of the organization. All promotion documents need to be completed and shared with the E-group for visibility and preparation at least _2 weeks before the off-site date_. 
 
 The only exception to this process is when there is an open budgeted and publicly advertised vacancy for a Director or above level role that an internal team member interviews for and is offered. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
 
@@ -231,7 +231,7 @@ GitLab tracks the following promotion metrics in [Sisense](https://app.periscope
 
 ##### Internal Mobility
 
-GitLab tracks Internal Mobility rate. Market data indicates that a 15% rolling promotion rate as the guideline for what we should see on average across the company for promotions. This is a guideline, not a cap. 
+GitLab tracks Internal Mobility rate. Market data indicates a 15% rolling promotion rate as the guideline for what we should see on average across the company for promotions. This is a guideline, not a cap. 
 
 ##### Average % Compensation Change
 
@@ -243,7 +243,7 @@ FP&A tracks budget impact by Department/Division twice per year.
 
 ### Promotion Budget
 
-Promotion budget is held at the division leader level, and optionally scaled down to department heads twice per year depending on department size. Decision to scale budget  down is at the division leader's discretion.
+Promotion budget is held at the division leader level, and optionally scaled down to department heads twice per year depending on department size. Decision to scale the budget down is at the division leader's discretion.
 
 Please review the [Compensation Program Budget](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-program-budget) to understand how the promotion budget is allocated and the process to review potential tradeoffs if divisions/departments are over/under budget for any given quarter. 
 
@@ -291,7 +291,7 @@ The following types of transfers can be processed through Workday:
     3. Job family is within the team member's current department (Example: Backend Engineer changes job title to Fullstack Engineer within the Development department)
     4. Role is an individual contributor position (not a people management role)
 
-Rationale for this scenario could be that responsiblities have shifted and the goal is to map job title more closely to the actual day-to-day responsiblities of the team member. This process can be initiated by the team member directly or by the team member's manager.
+Rationale for this scenario could be that responsibilities have shifted and the goal is to map job title more closely to the actual day-to-day responsibilities of the team member. This process can be initiated by the team member directly or by the team member's manager.
 
 Steps:
 1. Manager to document how the team member is (and will continue to) execute in their current role more closely aligned with the requested job family
@@ -309,7 +309,7 @@ For any transfer being submitted through Greenhouse [hiring process](/handbook/h
 
 ## Hiring for VP+ Roles
 
-In order to ensure a consistent level of review for both internal promotions and new leadership roles, any net new VP and above "To be Hired" roles will be reviewed and approved by e-group. Senior leaders should partner with their People Business Partner to create a justficiation document for their proposed role. The [justification document](https://docs.google.com/document/d/1feA04oVpXYa1QWAnQA0OB1zC_KuaDNDq97gtmEJMUIk/edit#heading=h.o7rctrz9uxl7) allows for e-group to better understand the business need for the role and how it will align within the organization. 
+In order to ensure a consistent level of review for both internal promotions and new leadership roles, any net new VP and above "To be Hired" roles will be reviewed and approved by e-group. Senior leaders should partner with their People Business Partner to create a justification document for their proposed role. The [justification document](https://docs.google.com/document/d/1feA04oVpXYa1QWAnQA0OB1zC_KuaDNDq97gtmEJMUIk/edit#heading=h.o7rctrz9uxl7) allows for e-group to better understand the business need for the role and how it will align within the organization. 
 
 This review is part of our organizational design discussions that occur during the e-group offsite. 
 
@@ -371,19 +371,19 @@ This section describes the approval chain after the People Business Partner subm
 1. If the request is approved through Workday, the People Connect Team will create the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed. 
 1
 1. Notify Payroll of the changes. This can be done in the following google docs: United States: "Payroll Changes", Everyone else: "Monthly payroll changes for non-US international team members". Payroll does not need to be notified for Contractors.
-1. If the team member is employed in Canada notify Total Rewards of the salary change (so they can update their salaries on Canada Life and Collage platforms).
+1. If the team member is employed in Canada, notify Total Rewards of the salary change (so they can update their salaries on Canada Life and Collage platforms).
 
 #### Letter of Adjustment
 
 
-1. For all the [GitLab entities](https://about.gitlab.com/handbook/people-group/employment-solutions/#gitlab-entities) and [Independant Contractors](https://about.gitlab.com/handbook/people-group/employment-solutions/#team-members-hired-as-contractors-via-our-gitlab-it-bv-entity) create letter of adjustment as per the steps mentioned below. For [PEO's](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity), check if a notification to the PEO is required for the creation of letter of adjustment. Currently only Remote Technology requires a notification to generate the letter of adjustment for their respective team members.  
+1. For all the [GitLab entities](https://about.gitlab.com/handbook/people-group/employment-solutions/#gitlab-entities) and [Independent Contractors](https://about.gitlab.com/handbook/people-group/employment-solutions/#team-members-hired-as-contractors-via-our-gitlab-it-bv-entity) create a letter of adjustment as per the steps mentioned below. For [PEO's](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity), check if a notification to the PEO is required for the creation of a letter of adjustment. Currently only Remote Technology requires a notification to generate the letter of adjustment for their respective team members.  
 1. Make a copy of the [Letter of Adjustment template](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/edit) and enter all applicable information based on the Workday request. The effective date is as follows:
     - For sales personnel with a variable change, the effective date is always the 1st of the month regardless of their entity.
     - For US team members, the effective date should be either the 1st or the 16th. If the [payroll cut off date](/handbook/finance/payroll/#payroll-cut-off-date) has passed for the current pay period, the effective date should be made for the start of the next pay period. The GitLab Inc and Federal Payroll calendar should be referenced when determining the effective date.
     - For example, if the change is being processed on June 22, since this date is before the payroll cut off date of June 23, the effective date should be June 16.
     - If the change instead is being processed on June 25, the effective date should be July 1 since this is after the payroll cut off date.
     - For Canada team members, the effective should be the start of the pay period closest to, but not after the [payroll cut off date](/handbook/finance/payroll/#payroll-cut-off-date) depending on when the change is processed. The GitLab Canada Corp Payroll calendar should be referenced when determining the effective date.
-    - For example, if the change is being processed on June 15, since the payroll cut off date of June 6 has passed, this would go to the next pay period with cut off date of June 20. The corresponding start of the pay period for the June 20 cut off date is June 21 so June 21 should be the effective date.
+    - For example, if the change is being processed on June 15, since the payroll cut off date of June 6 has passed, this would go to the next pay period with a cut off date of June 20. The corresponding start of the pay period for the June 20 cut off date is June 21 so June 21 should be the effective date.
     - For all other changes, the effective date should be the first of the current month if processed on or before the 8th of the month and the first of the next month if processed after the 8th of the month.
     - For example, if a GitLab Ltd team member has a change being processed on June 7, this would be effective June 1.
     - If the change was instead being processed on June 15, this would be effective July 1.
@@ -399,7 +399,7 @@ This section describes the approval chain after the People Business Partner subm
 1. the People Connect Team members will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 1. The previous manager will be prompted to create an [Access Change Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request) and the new manager will create an [Access Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) to ensure the correct access is given for the new role and deprovisioned for the previous role, if need be.
 
-**Note** Letter of adjustment is sent to team member's GitLab email address.  
+**Note** Letter of adjustment is sent to the team member's GitLab email address.  
 
 ## Interim and Acting Roles
 
@@ -409,7 +409,7 @@ As part of the career development structure within the Engineering division, int
 
 #### Beginning Interim Period
 
-As highlighted in the Defition section, all interim roles (regardless of the number of applicants) should go through the Greenhouse application and interview process. The interview process steps will be determined by the hiring manager and next level leader. This will contain several steps of the standard [GitLab hiring process](https://about.gitlab.com/handbook/hiring/). The process for team members interested in applying for an interim role is as follows:
+As highlighted in the Definition section, all interim roles (regardless of the number of applicants) should go through the Greenhouse application and interview process. The interview process steps will be determined by the hiring manager and next level leader. This will contain several steps of the standard [GitLab hiring process](https://about.gitlab.com/handbook/hiring/). The process for team members interested in applying for an interim role is as follows:
 
 1. _Team Member_: Apply for the interim position in Greenhouse.
 
@@ -426,9 +426,9 @@ When the interim period comes to a close, one of two outcomes can occur:
 - The team member successfully completes the interim period aligned with [the success criteria](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) and moves into the interim role permanently.
 
   - As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months .
-  - The People Business Partner should submit the promotion request through Workday using the [Change Job](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit) job aid including the promotion document to make the change official. In Workday, the reason for the change should be `Promotion - Promotion`. The accomplishments leading up to the interim and during the interim can be used for the promotion document. The manager is responsible for creating the promotion document and [recommending a compensation increase](https://about.gitlab.com/handbook/people-group/promotions-transfers/#recommending-a-compensation-increase). _Note: Promotion documents are only required if the team member move results in a promotion. For lateral moves, we do not require promotion documents._
+  - The People Business Partner should submit the promotion request through Workday using the [Change Job](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit) job aid including the promotion document to make the change official. In Workday, the reason for the change should be `Promotion - Promotion`. The accomplishments leading up to the interim and during the interim can be used for the promotion document. The manager is responsible for creating the promotion document and [recommending a compensation increase](https://about.gitlab.com/handbook/people-group/promotions-transfers/#recommending-a-compensation-increase). _Note: Promotion documents are only required if the team member's move results in a promotion. For lateral moves, we do not require promotion documents._
 
-- The team member does not complete the interim period successful or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period.
+- The team member does not complete the interim period successfully or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period.
 
   - A feedback session between the team member and hiring manager should take place, so it is clear to the team member why the interim period was not successful.
   - The People Business Partner at the request of the Manager should submit a [Workday Change Job Process and Approval Flow](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit) in Workday to revert the team member's job title once the interim period comes to an end.
