@@ -160,15 +160,15 @@ Each work-related call should begin with an earnest, genuine "How are you?", or 
 
 We should welcome pets, children, deliveries, neighbors, or partners interrupting a call. This is an opportunity to bond and to humanize the work experience. Take a few minutes to talk to the person if they are open to it, or ask the team member to share more about their pets/family.
 
-## Using emojis to convey emotion
+## Using emoji to convey emotion
 
-Though emojis have commonly been reserved for personal conversations that occur outside of the workplace, all-remote employees should feel comfortable using them in everyday discourse with team members.
+Though emoji have commonly been reserved for personal conversations that occur outside of the workplace, all-remote employees should feel comfortable using them in everyday discourse with team members.
 
-[Perception has shifted on using emojis in professional settings](https://www.wsj.com/articles/yes-you-actually-should-be-using-emojis-at-work-11563595262). In Slack alone, north of 26 million custom emojis have been created since the feature was introduced. In all-remote settings, where you may never meet a colleague in person, leveraging visual tools to convey nuance in tone, emphasis, and emotion can lead to more empathy and a tighter human connection.
+[Perception has shifted on using emoji in professional settings](https://www.wsj.com/articles/yes-you-actually-should-be-using-emojis-at-work-11563595262). In Slack alone, more than 26 million custom emoji have been created since the feature was introduced. In all-remote settings, where you may never meet a colleague in person, leveraging visual tools to convey nuance in tone, emphasis, and emotion can lead to more empathy and a tighter human connection.
 
 > Using emoticons, emoji, and stickers can supplement the lack of human nonverbal cues in computer-mediated environment. The [results](https://link.springer.com/chapter/10.1007/978-981-10-8896-4_16?mod=article_inline) show that proper use of emoticons, emoji, and stickers, especially positive emoticons, is conducive to both relationship formation and cognitive understanding. They not only help participants express emotions and manage interrelations but also function as words to aid message comprehension. - *Ying Tang and Khe Foon Hew, researchers at the University of Hong Kong*
 
-Emojis can create a more [inclusive](/company/culture/inclusion/) communication environment. When you're working with colleagues where the de facto business language isn't someone's first language, more universal indicators (e.g. "eyes" for "I've seen this" or "smile" for positivity) can reduce the mental burden of deciphering a message.
+Emoji can create a more [inclusive](/company/culture/inclusion/) communication environment. When you're working with colleagues where the de facto business language isn't someone's first language, more universal indicators (e.g. "eyes" for "I've seen this" or "smile" for positivity) can reduce the mental burden of deciphering a message.
 
 Consider also using the [Giphy](https://slack.com/help/articles/204714258-Giphy-in-Slack) Slack app to communicate. The app lets you search a library of animated GIFs and send them in Slack.
 

@@ -404,7 +404,7 @@ As an all remote organisation, having sync meetings can be very difficult to eng
 
 Active TMRG Member:
 
-A team member who provides meaningful interactions with the TMRG through decision making, discussion participation or interactions. These need not be spoken or written but could be other avenues such as slack emojis to indicate support, participation in decisions via a poll etc.
+A team member who provides meaningful interactions with the TMRG through decision making, discussion participation or interactions. These need not be spoken or written but could be other avenues such as slack emoji to indicate support, participation in decisions via a poll etc.
 
 This does not take away the need for synchronous meetings but allows everyone to contribute in the way they feel most comfortable and is inclusive of all geographics.
 
