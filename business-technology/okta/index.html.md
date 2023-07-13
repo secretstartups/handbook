@@ -56,7 +56,7 @@ GitLab requires all team members to use either Biometrics or YubiKey as your [Ok
 1. In the 'Security Methods' section of the page, choose `Set up` or `Set up another` next to `Security Key or Biometric`.
 1. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt.
 1. After pressing `Enroll`, a prompt from your web browser will appear.
-1. For Touch ID or Face ID, choose `This Device`. For a [YubiKey](https://about.gitlab.com/handbook/tools-and-tips/#u2f-devices), choose `USB security key`.
+1. For Touch ID or Face ID, choose `This Device`. For a [YubiKey](https://handbook.gitlab.com/handbook/tools-and-tips/#fido2webauthn-devices), choose `USB security key`.
 
     <img src="/handbook/business-technology/Okta-Add-Biometric-1.png" alt="Okta Add Biometric #1" width="300"/>
 
