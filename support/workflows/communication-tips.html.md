@@ -31,7 +31,7 @@ welcome here. It is meant to be an extension of the
 In addition to the `:white_check_mark:` emoji that is mentioned in
 [General Guidelines for Communication at GitLab](/handbook/communication/#general-guidelines)
 and [Slack Workflows](/handbook/support/#slack-emoji-reaction-workflows),
-consider utilizing the following emojis within Support Slack channels as well.
+consider utilizing the following emoji within Support Slack channels as well.
 
 1. `:idontknow:` - when another Support Engineer is asking a question to which
    you don't know the answer

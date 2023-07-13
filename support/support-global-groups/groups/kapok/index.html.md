@@ -57,7 +57,7 @@ If a handover to a customer's preferred region is requested, either due to a tro
      - There's no availability within your timezone.
 - Add an internal note on the ticket with the current status, what has been done so far for troubleshooting, and the next steps.
 - Alert the folks on the daily standup bot thread *or* [schedule slack a message](https://slack.com/help/articles/1500012915082-Schedule-messages-to-send-later) to be sent when folks in the requested region are online.
-- Engineers in the region will add the availability emojis to communicate the availability.
+- Engineers in the region will add the availability emoji to communicate the availability.
 - If no engineer has the bandwidth to handle the ticket, request help from the larger team in the proper channel (for dotcom tickets: `#support_gitlab-com`, and self-managed: `#support_self-managed`)
 
 ### PTO

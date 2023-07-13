@@ -80,7 +80,7 @@ Tickets are assigned as they come in based on [a round-robin tool built by Suppo
 
 **For in office, but occupied:** `Training`, `Overburdened`, `Project Deliverable`, `IT Problems`
 
-**Emojis also work** palm_tree, beach, beach_umbrella, beach_with_umbrella, ferris_wheel, thermometer, face_with_thermometer, red_circle, bulb, sun_with_face
+**Emoji also work** palm_tree, beach, beach_umbrella, beach_with_umbrella, ferris_wheel, thermometer, face_with_thermometer, red_circle, bulb, sun_with_face
 
 ### Setting gitlab.com status to avoid ticket assignment when needed
 
