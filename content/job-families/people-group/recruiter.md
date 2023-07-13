@@ -12,38 +12,31 @@ The Recruiter is a [grade 6](https://about.gitlab.com/handbook/total-rewards/com
 
 ### Responsibilities
 
-- Collaborate with managers to understand requirements and establish effective recruiting strategies
+- Collaborate with crossfunctional partners and hiring teams to establish effective recruiting strategies
+- Engage in Full Lifecycle Recruting, with a focus on developing a balanced candidate source mix (passive, active and referral candidates)
 - Develop and advertise accurate job descriptions to attract a highly qualified candidate pool
-- Identify creative and strategic ways to source great people
-- Apply effective recruiting practices to passive and active candidates
-- Source, Screen, interview and evaluate candidates
-- Assess candidate interest and ability to thrive in an open source culture
-- Foster lasting relationships with candidates
-- Share best practice interviewing techniques with managers
-- Build an effective network of internal and external resources to call on as needed
-- Ensure candidates receive timely, thoughtful and engaging messaging throughout the hiring process
-- Partner with Marketing to develop and deliver a disruptive employer brand strategy
-- Promote our values, culture and remote only passion
-- Distribute thoughtful and engaging employer brand content
-- Design and monitor key metrics to evaluate the effectiveness of our employment practices
-- Develop recommendations for course corrections by leveraging data from our ATS, post interview and post hire surveys and other feedback loops
-- Continually search for opportunities to elevate our brand by identifying industry best practices, evaluating competitors and nurturing networks and partnerships
+- Utilize talent market insights and research to influence sourcing strategy
+- Proactively build and use personal resources and assets to enable high quality, accurate conversations
+- Utilize data to develop and execute effective hiring team management strategies
+- Cultivate postive candidate experience by ensuring timely, thoughtful and engaging communication throughout the hiring process
+- Leverage a data driven approach to pipeline management by monitoring key metrics to evaluate the effectiveness of recruiting process
+- Develop recommendations for course corrections by utilizing data from our ATS, candidate surveys and other feedback loops
+- Contribute to TA processes interation, with a focus on continuous improvement
+- Employ deep recruiting pipeline knowledge or experience to identify industry best practices and evaluate competitors 
+- Promote GitLab values and culture in day-to-day work and in external-facing settings
+- Partner with Talent Brand to deliver engaging employer brand content and ehance networks and partnerships
 
 ### Requirements
 
-- Experience recruiting at all levels, preferably in a global capacity within the software industry, open source experience is a plus
-- Proven success in recruiting and filling technical positions
-- Demonstrated ability to effectively source and place candidates for all positions at all levels
-- Experience with competitive global job markets preferred
+- Experience recruiting at all levels, preferably within the technology sector
+- Proven success in recruiting for positions in competitive global job markets
 - Focused on delivering an excellent candidate experience
 - Ambitious, efficient and stable under tight deadlines and competing priorities
-- Remote working experience in a technology startup will be an added advantage
-- Ability to build relationships with managers and colleagues across multiple disciplines and timezones
-- Working knowledge using an candidate tracking systems
-- Outstanding written and verbal communication skills across all levels
+- Ability to build collaborative crossfunctional relationships across multiple timezones
+- Working knowledge using a candidate tracking system
+- Outstanding written and verbal communication skills 
 - Willingness to learn and use software tools including Git and GitLab
-- College / University degree in Marketing, Human Resources or related field from an accredited institution preferred
-- Ability to use GitLab
+- Remote working experience in a public technology company setting is an added advantage
 
 ### Levels
 
