@@ -46,7 +46,7 @@ Participants should also ensure that they meet the [requirements to participate]
 ## 360 Feedback Requirements
 
 Team members who opt-in for the 360 feedback review cycle will be asked to:
-- **(required)** Complete an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) (or equivalent) in partnership with your manager _prior to the 360 cycle launch_. 360 feedback should support your growth plan to ensure the investment of time drives results.
+- **(required)** Complete an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan)  in partnership with your manager _prior to the 360 nomination phase launch_. 360 feedback should support your growth plan to ensure the investment of time drives results.
 - **(required)** Contact team members who you are requesting feedback from to state your goals for the 360 process. For ex/ 1) why you are seeking feedback and 2) what you hope to achieve from the feedback. This will help the reviewer think about how to provide the right kind of information to support you. This can be done via Slack or email.
 - **(optional)** We have a [Feedback Training enablement issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/feedback_training.md) available for all team members interested in learning more about giving and providing feedback, in addition to our 360 feedback process. We recommend team members that are requesting feedback or providing feedback complete this training. 
 - **(optional)** Following the 360, share the themes you heard and resulting actions you plan to take with stakeholders who can support your growth throughout the year.  Update your [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) with your new development items and actions that you will take as a result of the feedback received in the 360 process.  
@@ -140,7 +140,7 @@ In Culture Amp, a reviewer is anyone who is requested to provide feedback for a 
 
 **If you are unsure who to nominate as a reviewer, consider saving your nominations as a `Draft` in CultureAmp.** This will allow you to sign back in and add or delete your nominations. 
 
-Reviewers can be managers, direct reports or co-workers. Here are some best practices for selecting reviewers:
+Reviewers can be managers, direct reports or co-workers(no participants outside of GitLab). Here are some best practices for selecting reviewers:
 
 - Nominate your manager, all of your direct reports (if applicable) and a selection of around three peers. Three peers is not a hard limit but we want to make sure the process remains managable for all.  
 - If you are in heavily cross-functional or in leadership roles, ensure you have cross-functional representation in line with your level of collaboration.
@@ -149,6 +149,7 @@ Reviewers can be managers, direct reports or co-workers. Here are some best prac
 - Reviewers need to be in a position to provide meaningful feedback, supported by examples, that will help you find a focus.
 - Choose people who you have worked closely with for at least 3 months. An exception is where you may have worked very closely with someone, say on a project, but for a shorter amount of time.
 - Select reviewers who will provide you with honest and perhaps even "difficult to hear" feedback.
+- Due to licensing, provisioning and security concerns we cannot include external stakeholders that are not GitLab team members in the 360 feedback process.
 
 Example of a reviewer selection of a Backend Engineer: 
 1. 1x Manager 
