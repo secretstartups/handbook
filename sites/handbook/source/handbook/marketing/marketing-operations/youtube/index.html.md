@@ -140,6 +140,10 @@ You don't have to wait for any permission, just go to the channel specific YouTu
 Please note that there is another tab for live videos.
 If you mark a video private when it doesn't need to be, it is be easy to undo: simply mark the video public.
 
+### Don't share secrets
+
+Secrets (e.g. access tokens, private keys, passwords, and credentials to systems running on GitLab infrastructure) and GitLab team member personal data (phone numbers, home address) should never be shared in public. Any video that exposes secrets or team member personal data should not be shared as a public YouTube recording.
+
 ## Why not Google Drive
 
 Google Drive is not intended to process video distrubtion and, as a result, lengthy uploading and processing times are common. Google drive can create a number of issues including the following:
