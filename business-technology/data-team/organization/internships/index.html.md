@@ -148,7 +148,7 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
      - Understanding of CRISP-DM framework
      - Understanding of software industry
 
-### Data Engineering Internship for Learning
+### Data Platform Team Internship for Learning
 
 #### Openings
 
@@ -158,6 +158,10 @@ An internship gives you insight into a [Data Team role](/handbook/business-techn
 | [FY23Q2](https://gitlab.com/groups/gitlab-data/-/epics/427) | 0 | 0 | 0 |
 | FY23Q3 | 0 | 0 | 0 |
 | FY23Q4 | 1 | 1 | 0 |
+| FY24Q1 | 0 | 0 | 0 |
+| FY24Q2 | 0 | 0 | 0 |
+| FY24Q3 | 0 | 0 | 0 |
+| FY24Q4 | TBD | TBD | TBD |
 
 #### Requirements
 
