@@ -63,7 +63,9 @@ Watch this video for a walk through of each step:
 
 **Apply what you've learned in Elevate to real life challenges - then contribute your findings to the wider GitLab community for real impact!**
 
-The Elevate Project is your opportunity to contribute new ideas for managers at GitLab and in the wider GitLab community. You'll be assigned to work with a group of other Elevate participants. In your group, you'll discuss a prompt, record a video outlining your solution, and submit a merge request to the handbook to document your findings. Projects are due by the conclusion of Module 4. _Completion of this project is required to earn the Elevate certification._
+The Elevate Project is your opportunity to contribute new ideas for managers at GitLab and in the wider GitLab community. You'll be assigned to work with a group of other Elevate participants. In your group, you'll discuss a prompt, record a video outlining your solution, and submit a merge request to the handbook to document your findings. _Completion of this project is required to earn the Elevate certification._
+
+For Elevate cohorts 1 through 10, your Project is due before your Certification session. For all other Elevate cohortss your Project is at the conclusion of Module 4.
 
 #### Prompts
 
@@ -76,6 +78,14 @@ Each group will select **one prompt** to focus on. The prompts are as follows:
 | 1 | Identify a current business initiative or challenge at GitLab- within your group or outside of it - that you feel you could move the needle on. How would you use what you learned in Elevate to do so? |
 | 2 | Identify a current challenge that our external stakeholders are facing and that you feel you could move the needle on. How would you use what you learned in Elevate to do so? |
 | 3 | Compile a multi-disciplinary set of globally-based resources (at least 5 articles, videos, ted talks, etc) to illustrate one of the modules and the skills / concepts included |
+
+Need help getting started? Consider these questions:
+
+1. How can the skills you've learned in Elevate help you collaborate better, achieve greater restuls, be more efficient, demonstrate diversity, inclusion, and beloning, iterate more, and be more transparent in your work?
+1. Consider how you’d apply strategies you’ve learned to improve cross-functional collaboration in order to partner on internal business initiatives or challenges
+1. Consider how you could provide more consistent feedback to your teams so they can drive business results quicker / more effectively
+1. Consider the ways you’d break down barriers in working better with your peers
+
 
 #### Results
 
