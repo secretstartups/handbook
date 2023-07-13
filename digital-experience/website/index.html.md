@@ -489,7 +489,7 @@ authentication_and_authorization:
 
 #### Proposing a change
 
-Due to their importance and wide usage throughout the company, changes to Stages, Groups, and Categories need to be reviewed. Open a merge request [using the `Category-Change` template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Category-Change.md) to get started.
+Due to their importance and wide usage throughout the company, changes to Stages, Groups, and Categories need to be reviewed. Open a merge request [using the `Group-Stage-Category-Change` template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Group-Stage-Category-Change.md) to get started.
 
 **Major changes**
 
