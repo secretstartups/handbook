@@ -33,6 +33,7 @@ The following people are permanent members of the SIRT
 |Joaquin Fuentes|[Director, Security Operations](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
 |Valentine Mairet|[Security Manager, SIRT](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
 |Matt Coons|[Security Manager, SIRT](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
+|Shrishti Choudhary|[Security Manager, SIRT](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
 |Mitra Jozenazemian|[Staff Security Engineer, SIRT](/job-families/security/security-incident-response-team/#staff-security-incident-response-team-engineer)|
 |Harjeet Sharma|[Staff Security Engineer, SIRT](/job-families/security/security-incident-response-team/#staff-security-incident-response-team-engineer)|
 |Janina Roppelt|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
