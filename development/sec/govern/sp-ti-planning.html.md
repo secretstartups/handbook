@@ -260,7 +260,7 @@ discovery process.
 issues. An exception is when a single engineer agrees to work on both tech stacks.
 
 
-**Q:** What's the meaning of the emojis in issues?
+**Q:** What's the meaning of the emoji in issues?
 
 **A:** we use them to communicate certain steps in our process.
 - 🥕 you have reviewed an issue in preparation for [Planning
