@@ -139,13 +139,13 @@ Analogy: a reference encyclopaedia article
 
 ## Usage
 
-You'll notice there are emojis next to both the persona and documentation type headers. We use the emojis in the rest of the data team portion of the handbook to help readers quickly understand the audience and purpose of different sections. For example:
+You'll notice there are emoji next to both the persona and documentation type headers. We use the emoji in the rest of the data team portion of the handbook to help readers quickly understand the audience and purpose of different sections. For example:
 
 - 🛠🏁 Indicates this is a how-to guide probably for somebody on the data team. An example would be how to provision somebody in Snowflake
 - 💻📚 Indicates this is a reference for our user persona. An example would be the tips and tricks section for working in Sisense
 - 🌎💡 Indicates this is an explanation for all personas. An example would be the charter of the data team.
 
-Note that the emojis will not be inclusive of everyone who may in fact be interested in the section. Our aim is only to provide a quick guide to help orient the reader for what they're reading.
+Note that the emoji will not be inclusive of everyone who may in fact be interested in the section. Our aim is only to provide a quick guide to help orient the reader for what they're reading.
 
 ## Contribution to the Data Team Handbook
 Every team member on the Data Team is encouraged to contribute to the handbook. Everybody in the `@data-team` is a **[code owner](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS)** of our Data Team Handbook pages, but with duties:
