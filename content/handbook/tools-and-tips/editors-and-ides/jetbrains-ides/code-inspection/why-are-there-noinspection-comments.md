@@ -53,6 +53,13 @@ comments should all include the relevant issue entry as a reference. Once the un
 resolved and included in a new IDE release,
 [the corresponding `noinspection` comments can be removed](../../tracked-jetbrains-issues#handling-of-issues-related-to-noinspection-comments).
 
+But other `noinspection` comments are due to default JetBrains inspection rules we don't want to
+enforce because we are intentionally making an exception to the default rule. An example of this is
+warnings about class/variable/module/method/constant names being too long or too short.
+One option would be to just change the settings for the inspection, for example to allow longer
+names. However, this would require that everyone have these same overrides in their JetBrains
+configuration, which we do not want to require or rely on, especially for external contributors.
+
 ### Not everyone has to use them, but please don't try to prevent others from using them
 
 We also do not require that non-JetBrains users maintain these comments - the JetBrains users on the
@@ -64,13 +71,13 @@ We do request is that there are no
 unless the [JetBrains Issue](../../tracked-jetbrains-issues) tracking the comment has already been resolved.
 
 While it may not be useful for folks not using JetBrains IDEs, it does provide benefits to JetBrains users to write
-quality code by ensuring no such warnings are present and it is in support of our values of Efficiency, Results,
+quality code by ensuring no such warnings are present, and it is in support of our values of Efficiency, Results,
 and Diversity/Inclusion/Belonging.
 
-If you are using a non-JetBrains IDE which has significant usage at GitLab and it has similar support in that IDE, we encourage
+If you are using a non-JetBrains IDE which has significant usage at GitLab, and it has similar support in that IDE, we encourage
 you to create such documentation on its benefits and how they should be used and how will they be tracked.
 
-Concerns about proliferation of such comments in our codebase for different editors are well-founded and we take them seriously.
+Concerns about proliferation of such comments in our codebase for different editors are well-founded, and we take them seriously.
 Thus, team members are encouraged to open issues inviting discussion to remove comments from an IDE which is not being actively used at GitLab, or for
 JetBrains `noinspection` comments in areas of the code which are not being
 actively maintained/curated.

@@ -9,6 +9,9 @@ no_list: true
 
 ## Code Inspections
 
+(_**If you are here to ask "What are all the `noinspection` comments in the code?", please read the ["Why are there `noinspection` comments"](./why-are-there-noinspection-comments) page for a thorough explanation.**
+But if you just want to learn how to use Code Inspection effectively in JetBrains, this is the page you're looking for..._)
+
 One of the nice features of JetBrains IDEs is "Inspect Code" (`Code -> Inspect Code`).
 
 See a description of this feature here: https://www.jetbrains.com/help/ruby/running-inspections.html
@@ -20,7 +23,7 @@ advantage of this feature.
 
 This allows you to run all code inspections, including project-configured supported linters
 such as RuboCop/ESLint, as well as custom IDE inspections such as type safety, potential bugs,
-etc, which will show up in the "Problems" pane after you run "Inspect Code".
+etc., which will show up in the "Problems" pane after you run "Inspect Code".
 
 In addition to the "Problems" pane, you get instant feedback in the editor with the problems
 being underlined, as well as a summary of all problems with icons in the upper-right of each file.
@@ -64,7 +67,7 @@ warning in the `gitlab` project.
 Use the following process to automatically add a `noinspection` comment:
 
 1. Either hit `Option-Enter` while on the warning line in the code (after pressing `F2` to find it),
-   or else in the "Inspect Code" `Problems` pane report right click on the error.
+   or else in the "Inspect Code" `Problems` pane report right-click on the error.
 1. In the menu that comes up, find the `Suppress for statement` option and click it.
 1. Note that there is currently a bug that doesn't put a space after the `#` comment in Ruby, you'll have to add one to avoid a rubocop error (TODO: Open an issue for this against RubyMine)
 1. This enables you to have a nice, clean report and green check with no false positives :)

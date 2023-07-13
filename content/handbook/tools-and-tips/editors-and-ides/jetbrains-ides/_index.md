@@ -40,14 +40,14 @@ a rough estimate is that about 15% of professional software developers today use
 
 ## Setup and Configuration
 
-See the the [Common Jetbrains Setup and Configuration](setup-and-config) page for instructions on installing and
+See the [Common Jetbrains Setup and Configuration](setup-and-config) page for instructions on installing and
 configuring JetBrains IDEs.
 
 ## Debugging
 
 See the following IDE-specific pages for tips on debugging:
 
-- [RubyMine debugging](individual-ides/rubymine#debugging)
+- [RubyMine debugging](individual-ides/rubymine#using-rubymine-debugger-for-gitlab-running-under-gdk)
 
 ## Keymaps
 

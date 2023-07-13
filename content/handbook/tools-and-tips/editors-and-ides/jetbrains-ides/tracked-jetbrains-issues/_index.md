@@ -14,8 +14,8 @@ Here's the main issue trackers to look for existing issues before reporting a ne
 - GoLand: https://youtrack.jetbrains.com/issues/GO
 - WebStorm: https://youtrack.jetbrains.com/issues/WEB
 
-Each issue we track should have a `H3` section under the [Issues](#issues) section below.
-This could be in table format, but markdown tables are hard to maintain, and headers have automatic anchor links.
+Each issue we track should have a `H3` section under the [Open Issues](#open-issues) section below.
+This could be in table format, but Markdown tables are hard to maintain, and headers have automatic anchor links.
 
 Here's a template example:
 
