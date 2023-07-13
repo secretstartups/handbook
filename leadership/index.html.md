@@ -192,6 +192,16 @@ Giving people a **stable counterpart** allows for more social trust and familiar
 
 We want the best combination of [a factory and a studio](https://medium.com/@mcgd/factory-vs-studio-fb83b3fe9e14). The studio element means anyone can chime in about anything, from a user to the CEO. You can step outside your work area and contribute. The factory element means everyone has a clearly assigned task and authority.
 
+## Effective escalations
+
+Team members should understand when and how to escalate issues. Effective escalations are good, because they speed up decision making. When team members escalate an issue, another person is brought in as a decision maker or adviser as other team members disagree or need help with alignment. Escalation can offer clarity and a path forward. 
+
+Folks who are escalating an issue should avoid surprising folks in the management chain. This means that other relevant team members should be aware that an escalation is occurring. For example, in E-Group, members agree that they will not go to the CEO with an escalation without first notifying other relevant members that this is happening. 
+
+There may be some exceptions to first notifying managers or peers. For example, a team member [feels unsafe](/leadership/emotional-intelligence/psychological-safety/) in voicing a concern to a manager and feels that it is important to escalate. While exceptions may be appropriate, they should be rare.
+
+When team members escalate an issue they should [disagree, commit, and disagree](/handbook/values/#disagree-commit-and-disagree) with decisions made by the person they escalated to.
+
 ## Process gets a bad rep
 
 Process has a bad reputation. It has that reputation for things that we try to avoid doing at GitLab. When you have processes that are not needed it turns into a bureaucracy. A good example are approval processes. We should keep approval processes to a minimum, by both giving people the authority to make decisions by themselves and by having a quick lightweight approval process where needed.
