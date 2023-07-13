@@ -381,8 +381,22 @@ To ensure that we capture information from across the entire Product Design sub-
 
 Our RCAs are located in the [UX RCA project](https://gitlab.com/gitlab-com/gitlab-ux/ux-rca). When preparing for an RCA, an issue is created using the [UX RCA template](https://gitlab.com/gitlab-com/gitlab-ux/ux-rca/-/blob/main/.gitlab/issue_templates/root_cause_analysis.md).
 
-## Figma provisioning/deprovisioning
+## Figma
+
+### Provisioning/deprovisioning
 
 [Learn more about provisioning and deprovisioning Figma](/handbook/product/ux/how-we-work/figma-provisioning/index.html.md).
+
+### Admins
+
+Figma admins and their role scope are defined as:
+
+|Admin|Scope|
+|-----|-----|
+|@tauriedavis|Tech stack owner, user management (Provisioning/deprovisioning), billing|
+|@clenneville|User management (Provisioning/deprovisioning), billing|
+|@vkarnes|User management (Provisioning/deprovisioning)|
+|@jeldergl|User management (Provisioning/deprovisioning), design ops|
+|@danmh|Design ops|
 
 [pajamas]: https://design.gitlab.com/
