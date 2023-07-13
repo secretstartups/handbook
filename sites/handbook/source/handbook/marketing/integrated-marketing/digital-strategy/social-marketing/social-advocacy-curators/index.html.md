@@ -72,7 +72,7 @@ When you add content into Bambu, consider the following:
 - Include suggested social post copy
    - 1-2 versions for Twitter
    - 1-2 versions that cover both Facebook and LinkedIn
-   - Diversify options: one copy for “professional” use (full words, no emojis, sounds clean and clear) and one copy for “fun” (emojis, exclamation points, light and fun).
+   - Diversify options: one copy for “professional” use (full words, no emoji, sounds clean and clear) and one copy for “fun” (emoji, exclamation points, light and fun).
 - Add start and end date
    - Stories should be available for a minimum of 1 month from publishing (e.g, Sept 28th to Oct 28) however, consider your campaigns and communications focuses - big deal content could go on longer.
 

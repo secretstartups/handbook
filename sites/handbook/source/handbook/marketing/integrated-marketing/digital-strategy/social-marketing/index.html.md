@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Social Marketing Handbook
-description: 'Strategies, Workflows, and Emojis for Social Media at GitLab'
+description: 'Strategies, Workflows, and Emoji for Social Media at GitLab'
 twitter_image: /images/opengraph/handbook/social-marketing/social-handbook-top.png
 twitter_image_alt: GitLab's Social Media Handbook branded image
 twitter_site: gitlab
@@ -295,7 +295,7 @@ Creating space to interact with the GitLab community has always been a priority 
    Emoji & GIF use
  </summary>
  
-Our tone of voice on social media is human and friendly. All devs are friends; no matter the tool they use. That’s why we use emojis whenever we can. The overuse of emojis allows us to participate in a universally used language. GitLab believes that everyone can contribute. That’s why being better communicators is crucial for our audience- no message should go misunderstood.
+Our tone of voice on social media is human and friendly. All devs are friends; no matter the tool they use. That’s why we use emoji whenever we can. The overuse of emoji allows us to participate in a universally used language. GitLab believes that everyone can contribute. That’s why being better communicators is crucial for our audience- no message should go misunderstood.
 
 When the opportunity presents itself, using GIFs in quote tweets, comments, or celebratory posts has proven to increase engagement. 
 </details>

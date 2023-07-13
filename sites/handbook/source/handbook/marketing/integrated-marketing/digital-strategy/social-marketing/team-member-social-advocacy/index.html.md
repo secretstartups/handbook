@@ -329,7 +329,7 @@ Make sure your copy follows the AIDA Model, a copywriting formula to drive inter
 - Interest: Drive interest by connecting with your reader.
 - Desire: Generate desire by explaining what they get out of it.
 - Action: Move your reader to take action. (ex. ‘Learn more’)
-- Try to visually break it into paragraphs or one-liners (even using emojis/bullets) for longer copy. For example:
+- Try to visually break it into paragraphs or one-liners (even using emoji/bullets) for longer copy. For example:
 ```
 GitLab has been a catalyst for change when it comes to the evolution of #DevSecOps.
 
