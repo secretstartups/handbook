@@ -2237,7 +2237,7 @@ they can render differently than expected and can cause other issues.
 - Prefer short titles and headings. Do not punctuate them (unless they require a question mark or an exclamation).
 - Try not to punctuate list items, but if you do, be consistent and do that throughout the list.
 - If you have to mention a non-clickable URL, prefer using backticks: `http://an-example.com`.
-- To add fancy emojis to your file, click `control+cmd+space` on your Mac and check the ⭐️ **magic** ⭐ or use a website like [Emoji Finder](https://emojifinder.com/). Do not overuse them, please!
+- To add fancy emoji to your file, click `control+cmd+space` on your Mac and check the ⭐️ **magic** ⭐ or use a website like [Emoji Finder](https://emojifinder.com/). Do not overuse them, please!
 - If you are confused about any markup that you've found in this file, you can check its [`raw` file] for reference,
 where you'll be able to see exactly how everything was written to produce the results you are seeing on this page.
 
