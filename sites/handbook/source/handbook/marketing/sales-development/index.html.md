@@ -48,7 +48,7 @@ As a Sales Development Representative (SDR) or Business Development Representati
 * **SDR APAC - (Manager - Glenn Perez)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
 * **BDR ENTG APAC - (Manager - Peter Voon)** = [`#bdr_entg_apac`](https://gitlab.slack.com/archives/C0327R1NZBK)
 
-**Please acknowledge any Slack messages from your managers in your Slack channels, if you have nothing to say at least be creative and funny with emojis so they know you are seeing their requests and updates and are not talking to an empty room!**
+**Please acknowledge any Slack messages from your managers in your Slack channels, if you have nothing to say at least be creative and funny with emoji so they know you are seeing their requests and updates and are not talking to an empty room!**
 
 ## Quick Reference Guide
 
