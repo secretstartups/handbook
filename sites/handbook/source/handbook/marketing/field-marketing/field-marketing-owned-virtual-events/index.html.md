@@ -850,7 +850,7 @@ Note: Cloning a track will pull over all settings from that initial track. All w
 * If a question looks good to answer live, mark it as “Answer Live” in Slack (so no one else starts work on it), then in the Q&A window.
 * Only the Q&A Coordinator should enter answers into the Q&A box in Zoom. SAs will answer in the thread and indicate the answer is ready to give to attendees using the emoji system noted in the channel.
 * If a question is marked to answer live, do not touch it until AFTER it is read and fully answered.
-* Q&A support will respond in threaded comments while using the following emojis:
+* Q&A support will respond in threaded comments while using the following emoji:
    - Working: :thumbsup: 
    - Answered and ready to be posted into Zoom: :heavy_check_mark:  
    - Answer has been posted in Zoom: :white_check_mark: 
