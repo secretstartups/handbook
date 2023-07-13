@@ -386,7 +386,7 @@ description: "short sentence overview of press release"
 twitter_image: "/images/opengraph/Press-Releases/image.png"
 twitter_creator: "@gitlab"
 twitter_site: "@gitlab"
-twitter_image_alt: "Celebrating GitLab's press release about xx with fun emojis"
+twitter_image_alt: "Celebrating GitLab's press release about xx with fun emoji"
 ---
 ```
 
