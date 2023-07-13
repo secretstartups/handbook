@@ -21,7 +21,7 @@ The Recruiter is a [grade 6](https://about.gitlab.com/handbook/total-rewards/com
 - Cultivate postive candidate experience by ensuring timely, thoughtful and engaging communication throughout the hiring process
 - Leverage a data driven approach to pipeline management by monitoring key metrics to evaluate the effectiveness of recruiting process
 - Develop recommendations for course corrections by utilizing data from our ATS, candidate surveys and other feedback loops
-- Contribute to TA processes interation, with a focus on continuous improvement
+- Contribute to TA processes iteration, with a focus on continuous improvement
 - Employ deep recruiting pipeline knowledge or experience to identify industry best practices and evaluate competitors 
 - Promote GitLab values and culture in day-to-day work and in external-facing settings
 - Partner with Talent Brand to deliver engaging employer brand content and ehance networks and partnerships
