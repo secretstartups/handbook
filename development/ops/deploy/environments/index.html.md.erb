@@ -225,6 +225,28 @@ Team members should use their best judgment to determine whether to assign the f
 - Does the MR require a lot of dev environments setup that team members outside the Environments group are likely to not have?
 - Is the MR part of a larger effort for which a specific team member already has all the context?
 
+### Epic Ownership
+
+The Environments group uses epics to describe features or capabilities that will increase the maturity of the Environments categories over time.
+
+Each epic should be owned by an engineer who is responsible for all technical aspects of that epic. The engineering DRI will work closely with the Product Manager and Product Designer to understand the requirements and create issues that encapsulate the technical work required during the [design](/handbook/product-development-flow/#validation-phase-3-design)/[solution validation](/handbook/product-development-flow/#validation-phase-4-solution-validation) phases and [build](/handbook/product-development-flow/#build-track) track of the [Product Development Flow](/handbook/product-development-flow/). Each issue needs to be weighted and contain enough information in the description area for any other engineer on the team to be able to pick up that work.
+
+**For the duration of building the epic**, the engineer does not need to be the only person implementing the issues. They should keep watch of the work that is done on the issues so that they can verify that the work is progressing correctly. If there are problems with the work, or lengthy delays,
+they need to make sure the Product Manager and Engineering Manager are aware.
+
+**When work is nearing completion**, the engineer should make sure that any additional issues that may have come up during the build process are either
+addressed, or scheduled for work. Additional issues should be created and added to the epic. This will help to make sure that we do not build up technical debt while building.
+
+**Finally**, they should also monitor any work that needs to occur while rolling out the Epic in production. If there are
+rake tasks, database migrations, or other tasks that need to be run, they need to see those through to being
+run on the production systems with the help of the Site Reliability counterpart.
+
+This places a lot of responsibility with the DRI, but the PM and EM are always there to support them. This ownerships
+removes bottlenecks and situations where only the PM or EM is able to advance an idea. In addition, the best people
+to decide on how to implement an issue are often the people who will actually perform the work.
+
+To declare an ownership, insert `DRI: <your-gitlab-handle>` at the top of the epic description. [Example](https://gitlab.com/groups/gitlab-org/-/epics/9859).
+
 ## Quality Processes
 
 Maintaining a high standard of quality is a critical factor to delivering winning products.
