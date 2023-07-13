@@ -1,9 +1,10 @@
 ---
-title: "Director of Field Marketing"
+title: "Field Marketing Leadership"
 summary: Support our Sales Teams, globally, build and lead a global team of field marketers aligned to our regional sales directors.
 ---
 
-GitLab is looking for a highly motivated, sales-focused field marketing leader to support our Sales Teams, globally. The Director, Field Marketing position is responsible for building and leading a global team of field marketers aligned to our regional sales directors.
+
+The Director, Field Marketing position is responsible for building and leading a global team of field marketers aligned to our regional sales directors.
 
 A qualified Director, Field Marketing has strong understanding of sales-focused marketing as well as our audiences of enterprise IT leaders, IT ops practitioners, and developers. They enjoy working with sales leaders to understand the needs of the sales teams, and meeting those needs through effective partnership, strategy, and execution.
 
@@ -48,16 +49,59 @@ The Director, Field Marketing is a [grade 10](https://about.gitlab.com/handbook/
 
 ## Career Ladder
 
-The next step in the Director, Field Marketing job family is not yet defined at GitLab.
+The next step in the Field Marketing Leadership job family is to Senior Director, Regional Marketing.
+
+## Senior Director, Regional Marketing
+
+The Senior Director, Regional Marketing reports to the VP, Integrated Marketing.
+
+
+## Summary
+
+The Senior Director, Regional Marketing leads the strategy and execution of marketing programs performed at the regional and local level, impacting both the direct and indirect sales motions. Leading a combined team of both field marketing and channel marketing regional leaders and practitioners, the Senior Director works closely with regional sales leadership to generate and progress demand through events, programs and local insights.  
+
+## Job Grade
+
+The Senior Director, Regional Marketing is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+## Responsibilities
+
+- Lead the development of regional and local marketing strategies, creating a unified approach for both field and partner motions in market
+- Scale field marketing activities and impact, while balancing the unique needs and characteristics of local markets
+- Create a defined and programmatic approach to channel marketing to support the growth of GitLab and the role of marketing in building the partner ecosystem
+- Be the voice of the field to the broader marketing team, including sales insights and inputs to directly impact marketing strategy and in turn be the primary representative of the broader marketing team to field sales
+- Analyze and report on the impact and performance of regional marketing to a range of audiences, from local leadership to the executive level and tailor the insights accordingly
+- Active role as part of the Integrated Marketing Leadership team; including aligning and connecting strategy to top of funnel of motions, collaborating with ABM to extend and amplify efforts and contribute to local success
+- Develop and grow Regional Marketing team as a unified team while also developing community of practice and specialist skills of Field and Channel Marketing respectively
+- Coaching and leading people managers and create a strong culture of development and growth
+- Achieve high and consistent ROI from Regional Marketing programs, through operational rigor, measurement and budget and financial management
+- Continually experiment, test and iterate programs to define best practice and evolve program as the business grows
+
+## Requirements
+
+- 12-15 years progressive experience in the B2B tech industry with a focus on regional, field, channel and partner marketing; working directly with sales teams
+- Skilled at building and maintaining relationships, being strategic partner to sales and engaging with senior leadership; strong communicator and proven ability to articulate and evangelize team strategy
+- Skilled at identifying strategic opportunities for improvement and problem solving
+- Extensive team management and development skills, including career development and coaching; experience managing people managers
+- Track record of delivering results in line with overall business objectives through operational excellence, including accelerating and progressing pipeline
+- Experience in analyzing and reporting on marketing performance and ability to customize the message and identify relevant metrics depending on stakeholder
+- Skilled at partnering cross-functionally across marketing, internal stakeholders and agency partners as well as external stakeholders, including channel partners and customers
+- Deep understanding of channel ecosystem and related processes
+
+
+## Career Ladder
+
+The next step in the Field Marketing Leadership job family is to VP, Integrated Marketing.
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
+
 - Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- Next, candidates will be invited to schedule an interview with the Senior Director of Revenue Marketing.
-- Candidates will then be invited to schedule interviews with the Senior Director of Corporate Marketing and the Manager of Marketing Programs.
-- Finally, our CMO may conduct a final interview.
+- Next, candidates will be invited to schedule an interview with the VP, Integrated Marketing
+- Candidates will then be invited to schedule interviews with key stakeholders for the role at GitLab.
+- Finally, our CMO and People Business partner will conduct final interviews.
 - Successful candidates will subsequently be made an offer via email.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
