@@ -37,14 +37,18 @@ The logistics phase will define detailed rules for each specific operation. The 
 
 ### Deconfliction Process
 
-- Red Team members will refer to ["Is This The Red Team?"](/handbook/security/threat-management/red-team/#is-this-the-red-team) if asked about specific activities.
-- Trusted participants can use private channels (Slack, phone calls, etc) to directly contact any Red Team member to inquire about specific activities. It is important not to do this in view of team members not designated as trusted participants.
-- Stealth operation activities will be paused until the Red Team can provide proof of whether or not a specific activity or indicator of compromise (IoC) belongs to them.
-- The logistics phase will define what happens if the Red Team is detected during a stealth operation and the incident is escalated to the trusted participants. Some examples are:
-  - The operations continue in stealth, with the trusted participant helping to ensure any escalation is in-line with the operation goals.
-  - The operation is disclosed internally and continues in the open to further validate security controls and detection mechanisms. Incident response is discontinued for known Red Team activities.
-  - The entire operation is not disclosed internally, but the trusted participant informs the team that a specific activity or IoC belongs to the Red Team. The systems involved are considered "virtually contained" and the Red Team relinquishes any access to those systems.
-  - The operation ceases completely.
+- Active stealth operations will have a dedicated Slack channel where all trusted participants are invited.
+- The private `#is-this-the-redteam` channel is always available for Security Directors and above to inqure about Red Team activities.
+- If team members ask whether a specific activity or IoC belongs to the Red Team outside of these designated channels, we will follow the process documented in ["Is This The Red Team?"](/handbook/security/threat-management/red-team/#is-this-the-red-team).
+- If asked in one of the designated Slack channels, the following will happen:
+  - Any ongoing stealth activities will be paused until a definitive answer can be provided.
+  - If it was not the Red Team, the requestor can still ask that all activities remain paused until the issue is resolved.
+  - If it was the Red Team performing a stealth operation, there will be a documented plan (from the "logistics" phase) on what happens next. Some examples are:
+    - The operation continues in stealth, with the trusted participant helping to ensure any escalation is in-line with the operation goals.
+    - The operation is disclosed internally and continues in the open to further validate security controls and detection mechanisms. Incident response is discontinued for known Red Team activities.
+    - The entire operation is not disclosed internally, but the trusted participant informs the team that a specific activity or IoC belongs to the Red Team. The systems involved are considered "virtually contained" and the Red Team relinquishes any access to those systems.
+    - The operation ceases completely.
+- We should always prioritize the security of the organization and the wellbeing of our team members. There may be times when we need to make a judgement call and answer these questions quickly, outside of the official channels.
 
 ### Engaging with SIRT
 
