@@ -74,7 +74,23 @@ There are two helpful questions to ask yourself to determine where you are in th
 
 There are many times where research is appropriate, but oftentimes we fail to consider reasons to NOT conduct research: 
 
-![Should-I-conduct-UX-Research](/handbook/product/ux/ux-research/when-to-conduct-ux-research/Should-I-conduct-UX-Research.png){: .shadow.medium.center}
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart TB
+   node1["`Consider whether to do UX Research`"] --> node2{"`Do you have enough time and/or resources?`"}
+   node2 --> |Yes| node3{"`Are there clear goals and/or action plans?`"}
+   node2 --> |No| node2no{{"`Consider a scrappy research approach like getting internal feedback.`"}}
+   node3 --> |No| node3no{{"`Rethink the goals of the research and determine what you would do with different answers.`"}}
+   node3 --> |Yes| node4{"`Am I open to changing course based on the outcome of this research?`"}
+   node4 --> |Yes| node5{"`Do I know who my target user is?`"}
+   node4 --> |No| node4no{{"`Skip this research, so time can be spent on other efforts.`"}}
+   node5 --> |No| node5no{{"`Leverage internal data or past research to determine what user personas to target. If no internal data exists, collaborate with other team members to make a 'best guess'.`"}}
+   node5 --> |Yes| node6{"`Have I looked for past research on this topic?`"}
+   node6 --> |Yes| node7{"`Are my research questions specific and focused?`"}
+   node6 --> |No| node6no{{"`Look for existing research in Dovetail and the GitLab UX Research project.`"}}
+   node7 --> |No| node7no{{"`Work with UX Research to distill questions down to a specific user, user pain point or user benefit.`"}}
+   node7 --> |Yes| nodex(("`Proceed with UX Research planning`"))
+```
 
 * **Time or resource constraints**: Situations where studies have very tight due dates, adequate funds are not available to answer research questions, or team members are at capacity. That being said, scrappy research (for example: fewer participants/data than desired, getting feedback from team members instead of recruiting users) when these kinds of limitations happen is always better than no research at all.
 * **Research questions are too broad**: In some cases, research questions can be too complex to undertake (example: what do our customers want in a DevOps platform). UX Researchers should determine whether the questions can be distilled into ones they can feasibly answer.
