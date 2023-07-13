@@ -19,7 +19,7 @@ The Recruiter is a [grade 6](https://about.gitlab.com/handbook/total-rewards/com
 - Proactively build and use personal resources and assets to enable high quality, accurate conversations
 - Utilize data to develop and execute effective hiring team management strategies
 - Cultivate postive candidate experience by ensuring timely, thoughtful and engaging communication throughout the hiring process
-- Leverage a data driven approach to pipeline management by monitoring key metrics to evaluate the effectiveness of recruiting process
+- Leverage a data driven approach to pipeline management by monitoring key metrics to evaluate the effectiveness of recruiting processes
 - Develop recommendations for course corrections by utilizing data from our ATS, candidate surveys and other feedback loops
 - Contribute to TA processes iteration, with a focus on continuous improvement
 - Employ deep recruiting pipeline knowledge or experience to identify industry best practices and evaluate competitors 
@@ -33,7 +33,7 @@ The Recruiter is a [grade 6](https://about.gitlab.com/handbook/total-rewards/com
 - Focused on delivering an excellent candidate experience
 - Ambitious, efficient and stable under tight deadlines and competing priorities
 - Ability to build collaborative crossfunctional relationships across multiple timezones
-- Working knowledge using a candidate tracking system
+- Working knowledge using a candidate tracking system (ideally Greenhouse) and various sourcing tools (including LinkedIn Recruiter)
 - Outstanding written and verbal communication skills 
 - Willingness to learn and use software tools including Git and GitLab
 - Remote working experience in a public technology company setting is an added advantage
