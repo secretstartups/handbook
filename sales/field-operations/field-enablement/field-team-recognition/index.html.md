@@ -156,7 +156,7 @@ Use the below guidance to help you build an insightful recognition post. Feel fr
 
 **A few things to consider when drafting your recognition:**
 
-1. **Use emojis when possible.** Emojis can make your post more visually interesting and help break up large blocks of text.
+1. **Use emoji when possible.** Emoji can make your post more visually interesting and help break up large blocks of text.
 1. **Bold important text.** If your post is longer, consider highlighting who you’re recognizing, key aspects of the deal and any best practices you’ve shared.
 1. **Tell a story.** People are drawn to stories with a natural beginning, middle and end. The provided guidance will help you craft this story but feel free to adapt based on your own style, experience or the situation. 
 
