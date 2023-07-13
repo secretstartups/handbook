@@ -231,7 +231,7 @@ Please consider reviewing and applying our [GitLab Team Member Social Media Guid
 * Do’s
    * DO use 1-3 hashtags in your posts, across social channels
       * Example: I’m so excited to announce that I’ll be speaking about #remote #DevOps at my webcast later this week! Join me and learn how @GitLab can help.
-   * DO write in your own voice, be creative, and use emojis
+   * DO write in your own voice, be creative, and use emoji
       * Example: 🗣Everyone is talking about #remote #DevOps and at @GitLab it’s all I work on. 💻 Join me for a webinar to learn how we make it all work.
 * Don’ts
     * DON’T hashtags the predicate, object, or complements in a sentence unless it’s a direct topic of your event.

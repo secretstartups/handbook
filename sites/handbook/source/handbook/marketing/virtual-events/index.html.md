@@ -423,7 +423,7 @@ You may also want to review the [GitLab Video Playbook](https://about.gitlab.com
 * Guide and enable people to share on social .
 * Remind them how they will be able to access content post-event.
 * Teach them how to use the platform you are doing the event on.
-* Add “- GitLab” and the end of your name or “- your title” to your event profile depending on what is displayed in the event when in chat rooms or other interactive areas. If the event platform accepts emojis (often possible if there is a mobile app) feel free to use the fox emoji or something else that shows your personality.
+* Add “- GitLab” and the end of your name or “- your title” to your event profile depending on what is displayed in the event when in chat rooms or other interactive areas. If the event platform accepts emoji (often possible if there is a mobile app) feel free to use the fox emoji or something else that shows your personality.
 * Add a profile picture to your virtual profile if you have the option. It adds a more humanistic touch. If you do not feel comfortable using your image, please use one of the company logos instead.
 
 ### Attendee/Staff Best Practices (Virtual sponsored conferences) - Simulating Hallway Traffic and Connections
