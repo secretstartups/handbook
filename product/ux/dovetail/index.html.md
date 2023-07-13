@@ -284,8 +284,8 @@ To properly manage research insights within Dovetail, here are some do's and don
 
 - Do not use full sentences
     - A tag should be 1-3 words long. Using multiple different tags will result in more useful insights than one longer tag.
-- Do not use emojis 
-    - Emojis are naturally more ambiguous than text, and tags should be as clear as possible.
+- Do not use emoji 
+    - Emoji are naturally more ambiguous than text, and tags should be as clear as possible.
 
 | Poor Tag Examples     | Better Tag Examples  |
 | ----- | ------ |
