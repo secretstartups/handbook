@@ -66,7 +66,7 @@ Next step 2
 1. Bold key pieces of information or to call out particular information.
 1. Separate your sections into the headings listed in the template.
 1. Use bullet points within each section to break up the information so it’s not just a wall of text. 
-1. Use emojis! Use different emojis to break up the info or to highlight different things such as: 
+1. Use emoji! Use different emoji to break up the info or to highlight different things such as: 
 	- :google_slides: for Research Reports
 	- :youtube: for video readouts
 	- :dovetail_logo: for Dovetail links
