@@ -43,12 +43,12 @@ Experimental platforms:
 #### Message Tips
 
 - Keep the message short and appealing. If you have multiple sentences, break them down into a list.
-  - 💡 Use emojis as list markers, this one to learn something. 
+  - 💡 Use emoji as list markers, this one to learn something. 
   - 🏗 This way users learn what you want to share and build together.
   - 🔥 Pick the right emoji, this one expresses a fast success for example. 
 - Use 3-4 hashtags at maximum, at the end of the message. Twitter/LinkedIn are not Instagram and use different algorithms to amplify shares.
   - `#development` and `#DevSecOps` are good examples, avoid them to include in every tweet though. 
-- Too many emojis can hide key messages.
+- Too many emoji can hide key messages.
 - Use an appealing screenshot image or animated GIF to make people stop when scrolling. 
   - When attaching images to your posts, make sure to include an ALT text describing the content. 
 - Do not start with an `@` character on Twitter, this will be hidden as reply and hinder audience reach on Twitter. Escape it with a leading `.` or an emoji. Example: `.@gitlab 13.9 adds ...`.
@@ -68,7 +68,7 @@ Use the social card validators to verify the social preview of included URLs bef
 - [LinkedIn post inspector](https://www.linkedin.com/post-inspector/) 
 - Twitter suggests using the tweet composer. The card validator was [deprecated and removed in August 2022](https://twittercommunity.com/t/card-validator-preview-removal/175006).
 
-#### Fast Emojis Workflows
+#### Fast Emoji Workflows
 
 [Raycast](https://www.raycast.com/) is a productivity app and can replace Spotlight on macOS. Open Raycast with your preferred shortcut (`option + space` by default) and start typing `emoji`, press `enter` and type the emoji name. You can also assign a shortcut to the emoji view by opening the extensions settings. Open Raycast and type `extensions` and select `Extensions Raycast Settings` in the prompt. Search for `emoji` and assign a keyboard shortcur, for example `cmd 2`. 
 
@@ -363,7 +363,7 @@ Tips:
 - 1-2 shares stretched over 1 week around the release
   - If you are on PTO, engage later. Do not schedule shares into your spare time. 
 - Message format: `Problem? -> Solution`
-- Add emojis and a CTA URL. 
+- Add emoji and a CTA URL. 
 - Animated Gifs or videos can help with people stopping "doom scrolling". 
 - Target a time window for PT and CEST (9-11am PT)
 

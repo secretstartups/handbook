@@ -124,7 +124,7 @@ _Tip_: Talks are stories that evolve each time they are told. Think of a rock ba
 Events and CFP forms collect different information, and also have different character limits for abstracts, etc. Iterate on collecting all details in a Google doc for the abstract as a single source of truth. 
 
 - Context (inspiration sources, other talks, community feedback)
-- Submissions (list of events with URLs into CFP issues, acceptance state with emojis)
+- Submissions (list of events with URLs into CFP issues, acceptance state with emoji)
 - Title
 - Abstract
    - 1000 chars (fits KubeCon)

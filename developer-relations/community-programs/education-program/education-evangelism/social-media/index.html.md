@@ -31,18 +31,18 @@ Twitter and LinkedIn are the target platforms. Both platforms have different tar
 ### Message Tips
 
 - Keep the message short and appealing. If you have multiple sentences, break them down into a list.
-  - 💡 Use emojis as list markers, this one to learn something. 
+  - 💡 Use emoji as list markers, this one to learn something. 
   - 🏗 This way users learn what you want to share and build together.
   - 🔥 Pick the right emoji, this one expresses a fast success for example. 
 - Minimize hashtag use. Often a single hashtag is good enough, but too many clutters the message. 
   - `#education` or `#DevOps` can be used, but make sure to only include relevant tags.  
-- Too many emojis can hide key messages.
+- Too many emoji can hide key messages.
 - Use an appealing screenshot image or funny animated GIF to make people stop when scrolling. 
 - Do not start with an `@` character on Twitter, this can be hidden as reply and hinder audience reach on Twitter. You can add a period at the end, or restructure your sentence to work better with an intro. `Hey @gitlab, how's the new release looking?`
 
 ### Quick emoji access
 
-If you're on MacOS, you can use `cmd+control+spacebar` to bring up the emoji list. Your most used will be at the top, and you can use the search bar to find emojis to liven up your tweet.
+If you're on MacOS, you can use `cmd+control+spacebar` to bring up the emoji list. Your most used will be at the top, and you can use the search bar to find emoji to liven up your tweet.
 
 ## Content
 
