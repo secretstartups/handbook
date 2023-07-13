@@ -111,6 +111,16 @@ flowchart TD;
   C --> |No| B
 ```
 
+### Remote Development Workspaces 
+
+The [remote-development sub group](https://gitlab.com/gitlab-de/use-cases/remote-development) has an agent for Kubernetes installed, which is documented in the [agent-kubernetes-gke](https://gitlab.com/gitlab-de/use-cases/remote-development/agent-kubernetes-gke) project. This includes troubleshooting when the agent becomes unresponsive, and workspaces are not created.
+
+Assigned resources:
+
+1. The Kubernetes cluster [`de-remote-development-1`](https://console.cloud.google.com/kubernetes/list/overview?project=group-community-a29572) is running in GKE. Current resources: 3 nodes. Total 6 vCPU, 12 GB memory. 
+1. The domain `remote-dev.dev` has been purchased through the Google DNS service and points to the Kubernetes cluster's public IP.
+1. The TLS certificates have been generated manually with Let's Encrypt and need to be renewed quarterly (2023-08-15), following the [documentation steps](https://gitlab.com/gitlab-de/use-cases/remote-development/agent-kubernetes-gke).
+
 
 ## Learning Collections
 
