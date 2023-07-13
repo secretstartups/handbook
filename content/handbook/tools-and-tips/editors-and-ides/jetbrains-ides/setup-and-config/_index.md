@@ -21,7 +21,7 @@ Any setup and configuration and other info that is specific to individual IDEs w
     - [Webstorm](../individual-ides/webstorm) for pure-Javascript/Typescript.
     - Idea for JVM/Java/Kotlin
     - CLion for Rust
-1. If you are an GitLab employee, you can request and obtain a [License](#licenses) for the IDE(s) you need to use.
+1. If you are an GitLab employee, you can request and obtain a [License](../licenses) for the IDE(s) you need to use.
 1. Install [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app/).
 1. Use Jetbrains Toolbox to install the IDE you need.
 

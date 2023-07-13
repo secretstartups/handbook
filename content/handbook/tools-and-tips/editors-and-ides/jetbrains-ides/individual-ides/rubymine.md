@@ -13,7 +13,7 @@ web technologies.
 
 Jetbrains IDEs are standardized, so much of the setup and configuration information applies to all IDEs, and can be found under [Common Jetbrains Setup and Configuration](../../setup-and-config).
 
-Specific config for this RubyMine can be found below at [RubyMine-specific Setup and Configuration](#rubymine-specific-setup-and-config)
+Specific config for this RubyMine can be found below at [RubyMine-specific Setup and Configuration](#rubymine-specific-setup-and-configuration)
 
 ## RubyMine-specific Setup and Configuration
 
