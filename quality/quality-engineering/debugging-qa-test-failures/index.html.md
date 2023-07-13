@@ -71,9 +71,9 @@ flowchart TB
         click quarantine_tests "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#quarantining-tests"
         click open_incident "https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#failure-needs-escalation"
         click tag_pipeline "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#linking-issue"
-        click eyes "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#emojis-used"
-        click fire_engine "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#emojis-used"
-        click boom "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#emojis-used"
+        click eyes "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#emoji-used"
+        click fire_engine "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#emoji-used"
+        click boom "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#emoji-used"
       	click tag_issue_for_report "https://gitlab.com/gitlab-org/quality/dri#configuration"
 			  click publish_results "https://gitlab.com/gitlab-org/quality/dri#4-publish"
         click notify_incident "https://about.gitlab.com/handbook/engineering/quality/quality-engineering/debugging-qa-test-failures/#failure-needs-escalation"
@@ -149,7 +149,7 @@ The test pipelines run on a scheduled basis, and their results are posted to Sla
 | [GitLab `master`'s `e2e:package-and-test-nightly`](https://gitlab.com/gitlab-org/gitlab/-/pipeline_schedules)           | Full                          | [Daily at 4:00 am UTC](https://gitlab.com/gitlab-org/gitlab/-/pipeline_schedules) | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) | [Master Nightly](https://gitlab-qa-allure-reports.s3.amazonaws.com/nightly/master/index.html) |
 | [GitLab `master` review app](https://gitlab.com/gitlab-org/gitlab/pipelines)                      | Smoke, Reliable                | When the `review-app` job executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab/pipeline_schedules) | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) | [Master](https://gitlab-qa-allure-reports.s3.amazonaws.com/e2e-review-qa/master/index.html) |
 
-#### Emojis used
+#### Emoji used
 For each pipeline there is a notification of success or failure (except for `master` pipelines, which only report failures).
 If there's a failure, we use emoji to indicate the state of its investigation:
 
