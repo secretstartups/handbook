@@ -37,6 +37,47 @@ The Absence Management Specialist is a [grade 5](https://about.gitlab.com/handbo
 
 
 
+## Role
+
+Senior Absence Management Specialist
+The Senior Absence Management Specialist reports to the Manager, Absence Management.
+
+### Job Grade
+
+The Senior Absence Management Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+
+- Responsible for the full life-cycle administration of all leave of absence programs including but not limited to remitting and collecting required documentation, reporting leave wages to both the US and Non-US payroll teams, and ensuring compliance by accurately completing all requests in a timely manner.
+- Stays up to date with regulatory time away changes, and suggests both company and statutory time away policy and practice revisions as needed.
+- Ensures proper tracking of leave requests in all internal HRIS systems, identifies process dependencies, and suggests remediation of those dependencies.
+- Acts as a team member’s first point of contact to facilitate a smooth departure as well as a smooth transition back to work.
+- Answers complex leave-related questions and concerns from Team Members, working closely with the Manager, People Business Partner, Legal, and other key stakeholders as needed.
+- Acts as the first point of contact for Managers, People Business Partners, and other key stakeholders related to the team members’ time away request(s).
+- Responsible for leading the interactive process related to all requested accommodations as prescribed under the Americans with Disabilities Act. This may also include religious, lactation, and other work-related accommodations.
+- Champions a [handbook first](/handbook/handbook-usage/) mentality keeping all internal processes and policies up to date at all times.
+- Maintains LOA trend data and status reports as needed.
+- Must exercise confidentiality and discretion in dealing with sensitive, complex, and time-sensitive time-away requests.
+
+### Requirements
+
+- Excellent verbal and written communication skills.
+- Strong problem-solving and critical thinking skills.
+- 1-3 years of absence management experience in U.S and/or Non-U.S countries.
+- Independent worker with proven organizational skills able to complete tasks at a relatively quick pace with strong attention to detail.
+- Proven track record of adhering to and meeting strict deadlines.
+- Experienced in learning and thriving in a constantly changing global environment and able to cultivate relationships across Global teams.
+- Ability to learn and use the GitLab tool to maintain internal documentation related to statutory leave policies and processes.
+- Aligns with GitLabs values.
+- Experience using GSuite (google doc, sheets, mail, etc).
+
+### Hiring Process
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
 ### Senior Absence Management Partner
 
 The Senior Absence Management Partner reports to Manager, Absence Management.
