@@ -183,7 +183,7 @@ No, not at this time.
 | July 31    |  Available | |
 | August 7   |  [Julia Lopez](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadow -  Manager for Animation & Gaming Technical Support at [Netflix](https://www.netflix.com)  |
 | August 14  |  Available | |
-| August 21  |  Reserved for team member D.B. TBD | |
+| August 21  |  [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
 | August 28  |  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
 | September 4|  Not Available | |
 | September 11 |  Available     |       |
