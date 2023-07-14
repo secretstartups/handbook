@@ -46,14 +46,45 @@ By ensuring that good ESG practices are embedded into the organization, this wil
 ### GitLab's 6 Key Topcs
 
 - Environment
-  - Greenhouse gas emissions 
+  - Greenhouse gas emissions
+    - Measurement and reduction of scope 1, 2 and 3 emissions
+    - Greenhouse gas reduction targets, goals and commitments
 - Social
   - Diversity, Inclusion and Belonging (DIB)
+    - Diverse hiring and recruitment of underrepresented groups
+    - Culture of DIB (events, TMRGs, courses, etc.)
+    - Pay and promotion equity and inclusive benefits
+    - Board, leadership and workforce diversity KPIs
+    - Product accessibility
   - Talent Management and Engagement
+    - Talent attraction and recruitment
+    - Team member learning and development
+    - Leadership programs
+    - Succession planning
+    - Talent retention
+    - Workplace culture and remote work
+    - Comp and benefits
 - Governance
-  - Information Security and Data Privacy 
+  - Information Security and Data Privacy
+    - Data, system and network breaches
+    - Monitoring of emerging threats
+    - Information security training
+    - Customer data use transparency
+    - Data processing and storage
+    - PII
   - Responsible Product Development
+    - Open source
+    - Ethical AI
+    - Human rights issues from product use
+    - Environmental impact considerations for product
+    - Data processing and storage
   - Business Ethics
+    - Up to date code of conduct, anti-corruption, anti-bribery policies
+    - Regulatory compliance
+    - Legal proceedings and monetary losses
+    - Internal compliance
+    - Oversight and ethics training
+    - Human rights policies, risk assessments and due diligence
 
         
 ## Developing an ESG Strategy
@@ -67,8 +98,14 @@ By ensuring that good ESG practices are embedded into the organization, this wil
     - [GRI](https://www.globalreporting.org/) 
     - [SASB](https://www.sasb.org/) 
 
+## GitLab Philanthropy 
+
+In 2023, GitLab launched its first philanthropy policy. The goal of this policy is to provide guidance for GitLab’s philanthropic giving and activities to Registered Nonprofit Organizations that align with GitLab’s [Values](https://handbook.gitlab.com/handbook/values/), environmental, social, and governance [(ESG) strategy](https://about.gitlab.com/handbook/legal/ESG/), and help advance GitLab’s [mission](https://about.gitlab.com/company/mission/) to make it so that everyone can contribute.
+
+To learn more about how GitLab supports and encourages team members to support Nonprofit Organizations, please review our [policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/#gitlab-inc-philanthropy-policy) and [program information,](https://about.gitlab.com/handbook/legal/ESG/#esg-request-process) including how to request support. 
+
 ## Responding to customer requests for ESG information
-- If a customer reaches out to you for information on our ESG practices, please direct them to our [handbook page](https://about.gitlab.com/handbook/legal/ESG/) or provide them with our report. Please also advise them that we utilize [EcoVadis](https://ecovadis.com/) for ESG reporting and they can request a full copy of our ESG report.
+- If a customer reaches out to you for information on our ESG practices, please direct them to our [handbook page](https://about.gitlab.com/handbook/legal/ESG/) or provide them with [our report](https://about.gitlab.com/handbook/esg/). Please also advise them that we utilize [EcoVadis](https://ecovadis.com/) for ESG reporting and they can request a full copy of our ESG report.
 
 ## Responding to ESG questions in RFPs
  - Please follow the steps outlined in the [RFP process](https://about.gitlab.com/handbook/security/security-assurance/field-security/Field-Security-RFP.html). Frequently asked questions and answers are available in AnswerBase. 
@@ -77,11 +114,7 @@ By ensuring that good ESG practices are embedded into the organization, this wil
  - If an investor contacts you regarding ESG, please advise them to reach out via the [IR page](https://ir.gitlab.com/ir-resources/contact-ir).
 
  ## Where to get more info 
- - Learn more about GitLab’s current progress on [ESG initiatives](https://about.gitlab.com/handbook/legal/ESG/). Follow #ESG on slack.
-
-## Additional Training and Resources
-- LinkedIn Learning: [Introduction to ESG](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting?autoplay=true&resume=false&u=2255073)
-- Project Drawdown: [Climate Solutions at Work](https://drawdown.org/publications/climate-solutions-at-work?gclid=CjwKCAjw3ueiBhBmEiwA4BhspLmPKlJnOPiWzwAA_yItmDruXROVvBByZN3fgVZoE_G32c94fvxtnRoCGUUQAvD_BwE)
+ - Learn more about GitLab’s current progress on [ESG initiatives](https://about.gitlab.com/handbook/legal/ESG/) and read our first ESG report [here](https://about.gitlab.com/handbook/esg/). Follow #ESG on slack.
 
  
 
