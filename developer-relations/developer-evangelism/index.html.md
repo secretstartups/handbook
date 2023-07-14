@@ -248,6 +248,7 @@ The Developer Evangelism team is the DRI for questions and strategy on the platf
 | StackOverflow | Use [gitlab tags](https://stackoverflow.com/questions/tagged/gitlab) for programming questions related to GitLab or the GitLab API.| [GitLab on StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/) |
 | Discord | A [GitLab Community Discord](https://discord.gg/gitlab) is a place to connect with the community, join pair coding sessions and live streams, and discuss all things GitLab and contribution. | [Community Discord Workflows](/handbook/marketing/developer-relations/workflows-tools/discord/) |
 | Meetup | Our [GitLab Virtual Meetup](https://www.meetup.com/gitlab-virtual-meetups/) includes Office hours, GitLab deep dives, Hackathon calls, project specific office hours, and more!  | [GitLab Meetups](/handbook/marketing/developer-relations/evangelist-program/#meetups), [GitLab Meetups Checklist](https://about.gitlab.com/community/meetups/checklist/) |
+| Common Room | We use [Common Room](https://www.commonroom.io) to aggregate and review insights from our community engagement. | [Common Room Workflows](/handbook/marketing/developer-relations/workflows-tools/common-room/)
 
 #### Community Engagement Initiatives
 
