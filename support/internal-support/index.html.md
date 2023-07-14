@@ -95,9 +95,20 @@ According to our [privacy policies](/privacy/), Support does not provide any inf
 
 A Zendesk Light Agent account is required to view Support Tickets and can be obtained without manager approval.
 
-To request a 'Light Agent' Zendesk account, please send an email to `gitlablightagent.2lba7m@zapiermail.com`. **You must send your request from your GitLab Google / Gmail account. No other addresses will work.** The Subject and Body fields of the email can be empty.
+To request a Zendesk  Global light agent account, please send an email to [contact-project+gitlab-com-support-support-ops-zendesk-global-light-agent-provi-46606987-issue-@incoming.gitlab.com](mailto:contact-project+gitlab-com-support-support-ops-zendesk-global-light-agent-provi-46606987-issue-@incoming.gitlab.com).
 
-You'll receive an automated reply with the result of your request. Once set up, it takes between 2-24 hours for your account to be assigned to Zendesk in Okta. Once Zendesk is assigned, you should be able to [log in](https://gitlab.zendesk.com/agent). If your account is not assigned within 24h, please reach out to `#support-operations` in Slack. In most cases, people who don't receive access within 24 hours already had an end-user account, which prevents the automation from working as expected.
+- **You must send your request from your GitLab Google / Gmail account. No other addresses will work.**
+  - Please use gmail to send this. Other email clients often strip vital information from the email headers.
+- The Subject should be along the lines of "Light Agent Provisioning".
+- The Body should be along the lines of "Light Agent Provisioning".
+
+This will create an issue via Service Desk (which you will be notified about). An automated process will take it from there to setup the Zendesk light agent account.
+
+Once set up, it takes up to 24 hours for your account to be assigned to Zendesk Global in Okta.
+
+Once Zendesk is assigned, you should be able to [log in](https://gitlab.zendesk.com/agent).
+
+If your account is not assigned within 24 hours, please reach out via the Service Desk issue.
 
 Note that you cannot send public replies to customers with a Light Agent account. If you need to do this, please submit a [new Access Request issue for a paid full agent account](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and tag your manager for budget approval. If needed, you can [read more information](https://www.zendesk.com/company/collaboration-add-on-additional-features/) on Light Agent accounts from Zendesk.
 
