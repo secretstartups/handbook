@@ -53,7 +53,7 @@ Build upon our current platform to meet current and future user needs.
     1. Storage measurement 
     1. [Disaster Recovery time](/company/team/structure/working-groups/disaster-recovery/) 
     1. Standardize Usage data 
-    1. [Pods](/direction/pods/) 
+    1. [Cells](/direction/enablement/tenant-scale/cell/) 
     1. Data archival 
     1. Import sandbox 
 1. Curated experience 
