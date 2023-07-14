@@ -138,12 +138,14 @@ graph TB
 
 The following table describes the procedures followed by TPRM engineers for vendors receiving/processing different [classifications of GitLab data](/handbook/security/data-classification-standard.html). Instances where gitlab team members provide an authorized third party their own data ([controller to controller](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms)) do not require a TPRM assessment. The below procedures are initiated by the [Procurement](/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab) process and are followed in all instances where applicable vendors have not been reviewed in the past 12 months.
 
-If a vendor has been reviewed and approved within 12 months of a new procurement request, GitLab TPRM Engineers must review the request to determine that no material changes have occurred which may require a new assessment before approving. Material changes include:
+If a vendor has been reviewed and approved within 12 months of a new procurement request, GitLab TPRM Engineers must perform the following:
 
-1. Change in data classification (e.g., going from Yellow to Orange data classification)
-1. New system from vendor not previously reviewed (e.g., we've reviewed XYZ for the purchase of their Billing system, but a new request has come in for the purchase of their Revenue system)
-1. Change of location where data is stored or accessed from (e.g., moving data from GitLab-hosted app to vendor-hosted SaaS)
-1. New contractor from a vendor that is not responsible for their contractor's security controls
+1. Review the request to determine that no material changes have occurred which may require a new assessment before approving. Material changes include:
+   - Change in data classification (e.g., going from Yellow to Orange data classification)
+   - New system from vendor not previously reviewed (e.g., we've reviewed XYZ for the purchase of their Billing system, but a new request has come in for the purchase of their Revenue system)
+   - Change of location where data is stored or accessed from (e.g., moving data from GitLab-hosted app to vendor-hosted SaaS)
+   - New contractor from a vendor that is not responsible for their contractor's security controls
+1. If a Risk Acceptance was put in place at the time of the previous assessment, inquiry should be performed with the vendor or relevant stakeholder to determine the current status of the risk. Any updates should be documented within the Risk Object. This can be performed in tandem with the requisition or after its approval.
 
 GitLab TPRM Engineers reserve the right to perform additional procedures at their professional discretion.
 
