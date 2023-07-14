@@ -37,22 +37,46 @@ highlighted cells, and then drag your mouse down a good number of rows. This
 will auto-generate it for you. You can then remove any extra rows at the bottom
 you do not need for the following quarter.
 
-With that done, you need to clean out the drop-downs you just created. Highlight
-then and hit the `DEL` key on your keyboard to do so (do **not** his the
-backspace key, as it will completely remove the drop-down itself).
+With that done, you need to clean out the dropdowns you just created. Highlight
+then and hit the `DEL` key on your keyboard to do so (do **not** hit the
+backspace key, as it will completely remove the dropdown itself).
+
+After doing so, you need to use either Pagerduty or the previous quarter's
+values to determine the values for all the blank dropdowns. Your aim is to show
+what the various schedules will look like for the next quarter
+_without any changes_.
 
 After that is done, highlight the previous quarters cells, right click, and
 hover over `Delete cells`, and click on `Delete cells and shift up`.
 
 You will do this for every schedule on every sheet.
 
-After doing so, you need to use Pagerduty to determine the values for all the
-blank drop-downs. Your aim is to show what the various schedules will look like
-for the next quarter _without any changes_.
-
 After doing all this, make sure to update the issue you are working out of by
 checking the box for `Prepare the spreadsheet` and adding the time spent doing
 all this.
+
+#### Unlock the sheet for edits
+
+At the start of the second month of the quarter, you will be asking those
+approved to make changes to the dropdowns. For this to occur, you need to unlock
+the dropdowns for the approved users.
+
+To do this, go to a sheet you need to unlock, click `Data` at the top menu of
+the page, and select `Protect sheets & ranges`. This will bring up all the
+protections currently in place.
+
+Locate the one for dropdowns, click on it, and then click `Change permissions`.
+Doing so will bring up a modal displaying our custom protections.
+
+For unlocking it, you need to ensure the following boxes are checked:
+
+- Kate Grechishkina khrechyshkina@gitlab.com
+- support-managers support-managers@gitlab.com
+
+After checking the boxes by those entries, click the green `Done` button.
+
+You will need to do this for all locked sheets (the ones with a lock symbol by
+their name on the tabs at the bottom of the page).
 
 #### Request edits
 
@@ -64,71 +88,36 @@ On your issue, ping managers with the following message:
 
 > Greetings @gitlab-com/support/managers !
 >
-> We are now opening the
-> \[Support Pagerduty Worksheet](https://docs.google.com/spreadsheets/d/1FdUzVXCZleopfteC2QxW7LJwyylGWGl9hwXHMPkRHbQ/edit?usp=sharing)
-> for edits for the next quarter!
+> We are now opening the \[Support Pagerduty Worksheet](https://docs.google.com/spreadsheets/d/1FdUzVXCZleopfteC2QxW7LJwyylGWGl9hwXHMPkRHbQ/edit?usp=sharing) for edits for the next quarter!
 >
-> Please review the spreadsheet and add any edits you wish to see occur for next
-> quarter. The due date for this is YYYY-MM-01
+> Please review the spreadsheet and add any edits you wish to see occur for next quarter. The due date for this is YYYY-MM-01
 
 Replacing `YYYY-MM` with the year and month of the last month of the quarter.
 
 After doing all this, make sure to update the issue you are working out of by
 checking the box for `Request edits` and adding the time spent doing all this.
 
-##### Requests to add people to a schedule
-
-When a support manager wants someone added to the schedule, they should manually
-type out the email of the person they want added to the schedule. This will
-cause a validation error to appear on the cell. As Operations, you will need to
-[edit the drop-down](#editing-the-drop-down) to add the person. After doing so,
-the validation error should no longer be present.
-
-##### Requests to remove people from a schedule
-
-When a support manager wants someone removed from a schedule, they should not
-use that person's email in any of the drop-downs. We will manually remove the
-person from the schedule when
-[implementing the changes](#implement-the-changes).
-
 #### Lock in the edits
 
-During the final month of the quarter, you need to first lock the requested
-changes into place to prevent further editing.
+At the start of the third month of the quarter, you will need to lock the sheets
+back down.
 
-You will need to do this on each of the sheets present on the spreadsheet.
+To do this, go to a sheet you need to unlock, click `Data` at the top menu of
+the page, and select `Protect sheets & ranges`. This will bring up all the
+protections currently in place.
 
-To protect the drop-downs on a sheet, you will click `Data` at the top of the
-page and then select `Protected sheets and ranges`. This will bring up a sidebar
-on the right side of the page.
+Locate the one for dropdowns, click on it, and then click `Change permissions`.
+Doing so will bring up a modal displaying our custom protections.
 
-Click the `+ Add a sheet or range`, put the description as `Locked for FY##Q#"`
-(replacing `#` signs with the fiscal year and quarter number, such as FY24Q3),
-then put the corresponding value in the box (depending on the sheet you are
-currently working on):
+For locking it, you need to ensure the following boxes are not checked:
 
-| Sheet      | Value to use          |
-|------------|-----------------------|
-| AMER       | `AMER!3:1001`         |
-| US Federal | `'US Federal'!3:1001` |
-| APAC       | `APAC!3:1001`         |
-| EMEA       | `EMEA!3:1001`         |
-| Managers   | `Managers!3:1001`     |
+- Kate Grechishkina khrechyshkina@gitlab.com
+- support-managers support-managers@gitlab.com
 
-After doing so, click the green `Set permissions` button. Doing so will make a
-pop-up appear asking who has editing permissions for the protected ranges.
-Ensure `Restrict who can edit this range` is checked and click the drop-down
-below it, then select `Custom`.  This will show all the currently invited groups
-and people on the sheet. Uncheck `GitLab` and ensure the other are checked (they
-should only be members of Support Readiness). After doing so, click the green
-`Done` button.
+After un-checking the boxes by those entries, click the green `Done` button.
 
-After doing all this, make sure to update the issue you are working out of by
-checking the box for `Lock in the edits` and adding the time spent doing all
-this.
-
-After that, you are now ready to
-[implement the changes](#implement-the-changes).
+You will need to do this for all locked sheets (the ones with a lock symbol by
+their name on the tabs at the bottom of the page).
 
 #### Implement the changes
 
@@ -136,14 +125,95 @@ During the final month of the quarter, your objective is to setup all the
 schedules we use to align with the requested changes in the
 [Support Pagerduty Worksheet](https://docs.google.com/spreadsheets/d/1FdUzVXCZleopfteC2QxW7LJwyylGWGl9hwXHMPkRHbQ/edit?usp=sharing).
 
-The exact way to do this will vary, but some suggestions are:
+To do this, there is a script located in our
+[Pagerduty project](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty)
+called
+[handle_pd_changes](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/blob/master/handle_pd_changes).
 
-- Make it align as best as possible with the rotation system in Pagerduty
-- Use overrides where variances in the normal rotation occurs
+To utilize this, you will need to download a CSV of each of the locked sheets.
+To do that, you will go to the sheet in question, click `File` at the top menu,
+hover over `Download`, and then click `Comma Separate Values (.csv)`. Doing so
+will download that specific sheet to your computer.
 
-For more information on doing all this, please see
-[modifying a schedule](/handbook/support/readiness/operations/docs/pagerduty/schedules/#modifying-a-schedule)
-in our Pagerduty documentation for more information.
+You will then navigate to the location of the
+[Pagerduty project](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty)
+repo on your local computer.
+
+Run the `bundle` command to download the needed gems. An example out this would
+look like:
+
+```bash
+jason@laptop:~/dev/gitlab-com/support/support-ops/other-software/pagerduty$ bundle
+Using concurrent-ruby 1.2.2
+Using i18n 1.14.1
+Using minitest 5.18.1
+Using tzinfo 2.0.6
+Using activesupport 7.0.6
+Using bundler 2.4.10
+Using faraday-em_http 1.0.0
+Using faraday-em_synchrony 1.0.0
+Using faraday-excon 1.1.0
+Using faraday-httpclient 1.0.1
+Using multipart-post 2.3.0
+Using faraday-multipart 1.0.4
+Using faraday-net_http 1.0.1
+Using faraday-net_http_persistent 1.2.0
+Using faraday-patron 1.0.0
+Using faraday-rack 1.0.0
+Using faraday-retry 1.0.3
+Using ruby2_keywords 0.0.5
+Using faraday 1.10.3
+Using faraday_middleware 1.2.0
+Using json 2.6.3
+Using oj 3.13.23
+Using yaml 0.2.1
+Bundle complete! 5 Gemfile dependencies, 23 gems now installed.
+Use `bundle info [gemname]` to see where a bundled gem is installed.
+```
+
+After doing so, you should verify you have the two needed environment variables
+set in your local environment (see the project's
+[README](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/tree/master#variables-needed)
+for more details).
+
+After that has been done, you will run the script with the needed parameters to
+create all the overrides needed for the next quarter (again, see the project's
+[README](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/tree/master#definitions-for-running-the-script)
+for more details).
+
+The output should show you if each override was created correctly. If you see a
+status of 201, it was successful. If you see anything else, it did not succeed
+(and manual intervention will be required).
+
+An example of the script running would look like:
+
+```bash
+jason@laptop:~/dev/gitlab-com/support/support-ops/other-software/pagerduty$ ./handle_pd_changes AMER Emergencies 1 temp.csv
+Status 201 for 2024-01-29T16:00:00Z to 2024-01-29T22:00:00Z
+Status 201 for 2024-01-30T16:00:00Z to 2024-01-30T22:00:00Z
+Status 201 for 2024-01-31T16:00:00Z to 2024-01-31T22:00:00Z
+```
+
+After you have run that script, go into Pagerduty and check the corresponding
+schedule for accuracy.
+
+Once you have done this for all schedules, check off the corresponding boxes on
+the issue you are working out of (and add the time spent).
+
+#### Announce the implementation
+
+The final step is to announce the implementation and close out the issue. You
+will first make a comment to ping the managers
+
+> Greetings @gitlab-com/support/managers !
+>
+> We have now implemented the changes requested from the \[Support Pagerduty Worksheet](https://docs.google.com/spreadsheets/d/1FdUzVXCZleopfteC2QxW7LJwyylGWGl9hwXHMPkRHbQ/edit?usp=sharing) into Pagerduty.
+>
+> Please help communicate this to your reports and remind them to check the schedules for their oncall periods next quarter.
+
+You will then add the time spent for this last bit, add the tag
+`SupportOps::Completed`, and close out the issue (ensuring you check off the
+corresponding boxes on the issue you are working out of).
 
 ## Shadow schedule changes
 
@@ -171,27 +241,34 @@ The
 is setup in a very specific way to facilitate planning for the next quarter's
 changes.
 
-#### Drop-downs reflect who is in the rotation
+#### Dropdowns reflect the entire pool of possible people for that dropdown
 
-Each drop-down showing reflects who is in the schedule it is for.
+Each dropdown's content is determined based on the pool of possible people that
+could be used. This is done via a range on the People sheet.
 
-#### Only drop-down areas are editable
+Never make edits directly to the dropdown values. If you need to add or remove
+someone from the possible options, please do so on the People sheet.
+
+#### We have many protections in place
 
 We have several protections in place on the sheet to prevent editing cells that
 are not meant to be edited:
 
-| Name of protection | Sheet      | Except for                   |
-|--------------------|------------|------------------------------|
-| AMER headers       | AMER       | D3:F1001, K3:K1001, P3:Q1001 |
-| US Federal headers | US Federal | D2:E1001, J2:J1001           |
-| APAC headers       | APAC       | D3:E1001, J3:K1001           |
-| EMEA headers       | EMEA       | D3:D1001, I3:I1001           |
-| Managers headers   | Managers   | D3:D1001, I3:J1001, O3:O1001 |
-
-#### Editing the drop-down
-
-To edit a drop-down that is in use, go to the sheet the drop-down is used on,
-then click the `Data` option at the top of the screen, then click on
-`Data validation`. Locate the drop-down in question by looking over the cells
-used on the sheet and click on it. After doing so, you can make the needed
-edits. Once you have done so, click the green `Done` button.
+| Name of protection                    | Sheet              | Definition                                      |
+|---------------------------------------|--------------------|-------------------------------------------------|
+| AMER - Customer Emergencies headers   | AMER - Emergencies | Whole sheet except F2:F1000, M2:M1000, T2:T1000 |
+| AMER - Customer Emergencies dropdowns | AMER - Emergencies | 2:1000                                          |
+| AMER - CMOC headers                   | AMER - CMOC        | Whole sheet except F2:F1000                     |
+| AMER - CMOC dropdowns                 | AMER - CMOC        | 2:1000                                          |
+| US Federal headers                    | US Federal         | Whole sheet except F2:F1000, M2:M1000, T2:T1000 |
+| US Federal dropdowns                  | US Federal         | 2:1000                                          |
+| APAC - Customer Emergencies headers   | APAC - Emergencies | Whole sheet except F2:F1000, M2:M1000           |
+| APAC - Customer Emergencies dropdowns | APAC - Emergencies | 2:1000                                          |
+| APAC - CMOC headers                   | APAC - CMOC        | Whole sheet except F2:F1000, M2:M1000           |
+| APAC - CMOC dropdowns                 | APAC - CMOC        | 2:1000                                          |
+| EMEA headers                          | EMEA               | Whole sheet except F2:F1000, M2:M1000           |
+| EMEA dropdowns                        | EMEA               | 2:1000                                          |
+| Managers headers                      | Managers           | Whole sheet except F2:F1000, M2:M1000, T2:T1000 |
+| Managers dropdowns                    | Managers           | 2:1000                                          |
+| SSAT headers                          | SSAT               | Whole sheet except F2:F1000                     |
+| SSAT dropdowns                        | SSAT               | 2:1000                                          |
