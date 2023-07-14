@@ -37,7 +37,7 @@ To promote advancement, cultural awareness, talent recruitment, retention, and p
 * Chris Cruz - Co Lead
 
 ## Executive Sponsors
-Looking for nominations!
+* [Josh Lemos](https://gitlab.com/joshlemos)
 
 ## How To Get Involved
 * [Join our Google Group here](https://groups.google.com/a/gitlab.com/g/latinxtmrg)
