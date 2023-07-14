@@ -74,24 +74,16 @@ Meetings are integral to interfacing with customers; whether we are joining a ca
 
 ## Scale Engagement Request Process
 
-Account owners (AEs, SAEs) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to track ad-hoc engagement requests through the [Scale Engagement Request](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/scale-engagement-request) GitLab project to help qualify the engagement and help the CSE prepare for a productive conversation with the customer.
+Account owners (AEs, SAEs) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to submit ad-hoc engagement requests through Salesforce. You can submit a case for a CSE to engage with you on an account by clicking on "CSE Help" at the top of the Salesforce account page chatter (click "Show Feed" to open it first ). This will help to qualify the engagement and help the CSE prepare for a productive conversation with the customer.
 
 ### Requesting Scale CSE Engagement (Account Owners only - AEs, SAEs)
 
 Only account owners should file a new issue requesting a Scale CSE engagement for their customer. Other stakeholders at GitLab (Solutions Architects, Support, Professional Services) may identify a potential opportunity for Scale CSE engagement, but ultimately the account owner should be notified to follow through the request process and communicate to the customer that a request has been made.
 
-To make a request, [open an issue](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/scale-engagement-request/-/issues/new#) and select the appropriate description template based on the Sales Segmentation/Region of your customer. Currently you have 4 options to select from (PubSec customers are not included in this request process, there may be a separate process for those customers with the appropriate visibility/confidentiality as needed):
-
-- **scale_engagement_request_ent_amr**
-- **scale_engagement_request_mm_amr**
-- **scale_engagement_request_smbeast_amr**
-- **scale_engagement_request_smbwest_amr**
-
-Once a template has been selected, please populate the description with as much information as possible to help the Scale CSE team qualify the request, and prepare for engagement. Selecting the appropriate template will automatically assign to the covering CSE for that segmentation and region. The CSE will let you know if the engagement is accepted and if they have any follow-up questions.
+To make a request, click "CSE Help" at the top of the Salesforce account page chatter (click "Show Feed" to open it first ), populate and the form with as much information as possible to help the Scale CSE team qualify the request, and prepare for engagement. 
 
 - For more information about the scope and qualifications for Scale CSE engagement, refer to [Scale CSM: Qualifications/Scope Document for Scale CSM Engagement](https://docs.google.com/document/d/1UVUPVTpEd3uYN8X1a_-LgB0GVY3fW6Y-S8sXfh-W65M/edit#)
 
-Once the engagement has completed, the CSE will mark the issue as closed
 
 ### Tracking Ad-Hoc Scale CSE Engagements in Gainsight (CSEs only)
 
