@@ -392,7 +392,7 @@ Recommended for email lists. `Person Region` uses the country of the lead/contac
 </summary>
 
 - Raw > INQ - `Status = NULL, Inquiry or Raw` OR (`Status = Recycle` AND `Person Score < 75`)
-- INQ > MQL - `Status = MQL, Accepted or Qualifying` OR (`Status = Recucle` AND `Person Score > 74`)
+- INQ > MQL - `Status = MQL, Accepted or Qualifying` OR (`Status = Recycle` AND `Person Score > 74`)
 - MQL > SAO - `Status = Qualified` OR `1 Open Opportunity` OR `Has an Open Opportunity`
 - Customer - `Current Customer = TRUE` OR `Status = Web Portal Purchase` OR `Is Paid Tier = True`
 - Disqualified - Status is `Disqualified or Bad Data`
