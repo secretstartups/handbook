@@ -170,11 +170,42 @@ Learn about the steps we take to share our content.
 After content has been crafted and published, the next step is distribution. Here are some steps to assist in the process:
 
 1. Use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) to create UTM codes for your content. Further insights about this can be found in the Developer Evangelism [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/). 
-1. Draft some copy for sharing your content on social media. See [Content Sharing](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#content) for tips and an overview of different platforms. 
+1. Draft some copy for sharing your content on social media. See [Content Sharing](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#content) for tips and an overview of different platforms. Review the [message tips](/handbook/marketing/developer-relations/developer-evangelism/social-media/#message-tips) for additional engagement ideas, e.g. emojis.
 1. Suggest your content as a story on Bambu so other GitLab team members can also share it. [Details on how to suggest content on Bambu](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
 1. Consider sharing your content on one of our community platforms like the [GitLab Forum](https://forum.gitlab.com/) or the [r/gitlab](https://www.reddit.com/r/gitlab) subreddit. If you're covering a topic that's broader than GitLab, you can also consider other subreddits or cross-posting your content on blogging sites like dev.to.
-1. After posting your content on social media, share a link in the `social-media-action` slack channel to request promotion from the social media team. 
+1. After posting your content on social media, share a link in the [`#social-media-action`](https://gitlab.slack.com/archives/C01AZ9C8Z4G) Slack channel to request promotion from the social media team. 
 1. Content that can be useful to our Field Teams, should also be posted in [Highspot](https://gitlab.highspot.com/). 
+1. Share an update in the [#dev-evangelism-and-technical-marketing](https://app.slack.com/client/T02592416/CMELFQS4B) Slack channel using the following message template:
+
+```
+:results-tanuki: <Content type> published: <title>
+
+Social short UTM URLs:
+
+1. LinkedIn:
+2. Twitter:
+3. Mastodon: 
+
+Content epic: <URL>
+
+Thanks/cc @teammembers
+```
+
+Example:
+
+```
+:results-tanuki:  Blog published: Set up your infrastructure for on-demand, cloud-based development environments in GitLab
+
+Social short UTM URLs:
+
+1. LinkedIn: https://go.gitlab.com/EHIjRt
+2. Twitter: https://go.gitlab.com/uz7OSE
+3. Mastodon: https://go.gitlab.com/pFxdKa
+
+Content epic: <URL>
+
+Thanks a lot @HelpfulCoworker for editing this long read :handshake: :purple_heart:  
+```
 
 </details>
 
