@@ -205,4 +205,4 @@ Note that IP addresses may be blocked if they are identified as being from a [cu
 
 If a customer has concerns about being rate limited, work with them as much as possible to lower their traffic from a single IP address.
 
-In rare cases, all traffic must be routed through a single IP address. If this is a concern for the customer, please have them speak to their CSM, who can open an [issue in the reliability tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues) to ask for an exception.
+In rare cases, all traffic must be routed through a single IP address. If this is a concern for the customer, please work with a support manager to consider opening an [issue in the reliability tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues) to ask for an exception.
