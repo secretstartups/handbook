@@ -278,7 +278,7 @@ Please let us know how you would prefer to learn by [filling out this form](http
 
 ### Brandon Hall Award
 
-The launch of the GitLab Learn LXP was awarded a Silver Excellence in Learning by the [Brandon Hall Group](http://www.brandonhall.com/excellenceawards/) for the Best Launch of a Corporate Learning University. 
+The launch of the GitLab Learn LXP was awarded a Silver Excellence in Learning by the [Brandon Hall Group](https://excellenceawards.brandonhall.com/) for the Best Launch of a Corporate Learning University. 
 
 ![silver brandon hall group award logo](silver-award.png){: .shadow.medium.center}
 
