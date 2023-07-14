@@ -9,9 +9,9 @@ title: Monitoring of GitLab.com
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## GitLab.com Service Level Availability
+## GitLab.com Service Availability
 
-Service Level Availability (SLA) is the percentage of time during which the platform is in an available state. Other states are _degraded_ and _outage_.
+Service Availability is the percentage of time during which the platform is in an available state. Other states are _degraded_ and _outage_.
 
 Each of the _user facing_ services have two Service Level Indicators (SLI): the [Apdex] score, and the [Error rate].
 The Apdex score is generally a measure of the service performance (latency).
@@ -32,9 +32,9 @@ A service is unavailable, if, for 5 minutes:
 * Less than 90% of requests have a latency within their "satisfactory" threshold
 * **OR**, more than 0.5% of requests return a 5XX error status response.
 
-In other words, a service needs to simultaneously meet both of its SLO targets in order to be considered available. If either target is not met, the service is considered unavailable.
+In other words, a service needs to simultaneously meet both of its Service Level Objectives (SLO) targets in order to be considered available. If either target is not met, the service is considered unavailable.
 
-The availability score for a service is then calculated as the percentage of time that it is available. The Availability score for _each_ service combined define the platform Service Level Availability (SLA). The SLA number indicates availability of GitLab.com for a select period of time.
+The availability score for a service is then calculated as the percentage of time that it is available. The Availability score for _each_ service combined define the platform Service Availability. This number indicates availability of GitLab.com for a select period of time.
 
 For example, if service becomes unavailable for a 10 minute period, the availability score will be:
 
@@ -51,11 +51,11 @@ Finally, the availability metric for GitLab.com is calculated as a weighted aver
 1. `pages` (0)
 1. `sidekiq` (0)
 
-The SLA score can be seen on the [SLA dashboard], and the SLA target is set as an [Infrastructure key performance indicator][KPI].
+The availability score can be seen on the [SLA dashboard], and the Service Availability target is set as an [Infrastructure key performance indicator][KPI].
 
 More details on definitions of outage, and degradation are on the [incident-management page](/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption)
 
-## Historical Service Level Availability
+## Historical Service Availability
 
 | **Year Month** | **Availability** | **Comments** |
 | ---- | ----------- | ---- |
