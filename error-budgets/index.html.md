@@ -129,7 +129,7 @@ With the current target of `99.95%` availability, allowed unavailability window 
 
 We elected to use the 28 day period to match Product reporting methods.
 
-The budget is set on the SaaS platform and is shared between stage and infrastructure teams. Service Level Availability calculation methodology is covered in details at [the GitLab.com SLA page][SLA methodology].
+The budget is set on the SaaS platform and is shared between stage and infrastructure teams. Service Availability calculation methodology is covered in details at [the GitLab.com Service Availability page][SLA methodology].
 
 This includes all Rails Controllers, API Endpoints, Sidekiq workers, and other SLIs defined in the service catalog. This is attributed to groups by defining a feature category. Documentation about feature categorization is available in the [developer guide](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization).
 
@@ -153,9 +153,9 @@ Feature categories with monthly spend above the allocated budget for three conse
 
 ## Budget spend(by service)
 
-The current budget spend can be found on the [general SLA dashboard][SLA dashboard].
+The current budget spend can be found on the [general Service Availability dashboard][SLA dashboard].
 
-Spent budget is the time (in minutes) during which user facing services have experienced a percentage of errors below the specified threshold and latency is above the specified objectives for the service. The details on how SLA is calculated can be found at [the GitLab.com SLA page][SLA methodology].
+Spent budget is the time (in minutes) during which user facing services have experienced a percentage of errors below the specified threshold and latency is above the specified objectives for the service. The details on how Service  Availability is calculated can be  found at [the GitLab.com Service Availability page][SLA methodology].
 
 The budget spend is currently aggregated at the primary service level.
 
@@ -355,7 +355,7 @@ explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/39
 [product strategy]: /direction/enablement/dotcom/
 [availability]: /handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability
 [performance]: /handbook/engineering/infrastructure/performance-indicators/#gitlabcom-performance
-[SLA methodology]: /handbook/engineering/monitoring/#gitlabcom-service-level-availability
+[SLA methodology]: /handbook/engineering/monitoring/#gitlabcom-service-availability
 [embracing risk]: https://landing.google.com/sre/sre-book/chapters/embracing-risk/#id-AnCDFmtB
 [velocity]: /handbook/engineering/development/principles/#the-importance-of-velocity
 [motivation]: https://landing.google.com/sre/sre-book/chapters/embracing-risk/#id-na2u1S2SKi1
