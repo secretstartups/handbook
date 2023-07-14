@@ -24,7 +24,7 @@ The optional 360 feedback cycle is timed _after_ the [Mid-Year Check In](https:/
 
 ## Is The 360 Process Right For Me?
 
-A 360 can be a very helpful development tool, but it should not be a supplement for regular, ongoing feedback that team members receive throughout the year. There may be situations and points in team member development where a 360 can supplement development and individual growth plans, and times when development areas are clear and 360 feedback may not be needed. 
+A 360 can be a very helpful development tool, but it should not be a replacement for regular, ongoing feedback that team members receive throughout the year. There may be situations and points in team member development where a 360 can supplement development and individual growth plans, and times when development areas are clear and 360 feedback may not be needed. 
 
 Below are a few key points to think through when determining in which situations the 360 tool may or may not be useful: 
 
