@@ -123,7 +123,7 @@ These are changes with high impact or high risk. If a change is going to cause d
 1. Ensure there is Due Date set on the issue and to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
 1. Changes which include downtime must be pre-communicated to users. Follow the guidance for [Communicating a change that requires downtime](/handbook/engineering/infrastructure/change-management/#communicating-a-change-that-requires-downtime-maintenance-window)
 1. All the database changes related should have a review by a DBRE.
-1. Have the change approved by Infrastructure management at the Sr. Manager level or above by obtaining the `manager_approved` label on the Change Request issue.
+1. Have the change approved by Infrastructure management at the Director level or above by obtaining the `manager_approved` label on the Change Request issue. This will return to the Sr. Manager or above level after 2023-08-01.
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and make them aware the change plan.
 (The source is pagerduty, if you don't have access try [getting assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance)) 
 1. Announce the start of the plan execution in the `#production` Slack channel directly notifying the EOC using the `@sre-oncall` alias to ensure there are no ongoing incidents that could impact the timing of the change.  Once confirmed the EOC will apply the `eoc_approved` label and the change can proceed.
@@ -153,7 +153,7 @@ These are changes that are not expected to cause downtime in Production, but whi
 1. Ensure there is a Due Date to the issue and an event to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
 1. Changes which include downtime must be pre-communicated to users. Follow the guidance for [Communicating a change that requires downtime](/handbook/engineering/infrastructure/change-management/#communicating-a-change-that-requires-downtime-maintenance-window)
 1. All the database changes related should have a review by a DBRE.
-1. Have the change approved by Infrastructure management at the manager level or above by obtaining the `manager_approved` label on the Change Request issue.
+1. Have the change approved by Infrastructure management at the Director level or above by obtaining the `manager_approved` label on the Change Request issue. This will return to the Manager or above level after 2023-08-01.
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
 (The source is pagerduty, if you don't have access try [getting assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance))
    * [APAC EOC Schedule](https://gitlab.pagerduty.com/schedules/PF02RF0)
@@ -177,6 +177,7 @@ These are changes with either no or very-low risk of negative impact, but where 
 
 1. Add a Due Date to the issue.
 1. Ensure that the plan is reviewed by someone else in Reliability.
+1. Have the change reviewed by a Staff engineer or above.
 
 ### Criticality 4
 
