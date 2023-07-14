@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "RFP Process"
+title: "Request for Information Process"
 ---
 
 ## On this page
@@ -9,6 +9,9 @@ title: "RFP Process"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Request for Information / Details
+
+If a customer, or potential customer, has questions related to Product, Marketing, Legal and/or ESG--including for renewals or during an active term--please follow the Request for [Proposal (RFP) Process](#request-for-proposal-rfp-process) below.
 
 ## Request for Proposal (RFP) Process
 
