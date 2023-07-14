@@ -252,4 +252,4 @@ There are sample brew files in the [Infrastructure Project](https://gitlab.com/g
 List of relevant reference material that an engineer may need to brush up on
 
 1. [Chef](https://docs.chef.io)
-1. [Terraform Docs](https://www.terraform.io/docs/index.html) or [getting started guide](https://www.terraform.io/intro/index.html)
+1. [Terraform Docs](https://developer.hashicorp.com/terraform/docs) or [getting started guide](https://www.terraform.io/intro/index.html)
