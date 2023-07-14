@@ -94,7 +94,7 @@ Many airlines offer [basic economy](https://en.wikipedia.org/wiki/Basic_economy)
 
 To ensure a trouble-free experience with air travel booked through Navan:
 
-- If basic economy conditions are unsuitable, [filter out basic economy fares](https://tripactions.com/blog/basic-economy-fares-in-tripactions) from search results.
+- If basic economy conditions are unsuitable, filter out basic economy fares from search results.
 - Ahead of time, using the value in the `CONFIRMATION` field in a TripActions trip entry, look up your flights with the airline's own website to ensure times and conditions are what you expect.
 - Check in using the airline's website (not Navan) as soon as check-in becomes available. This will make it clear ahead of time if checked baggage must be added to a flight at additional cost, and provide time to contact the airline in case of any other issues.
 
@@ -207,7 +207,7 @@ What if you find a cheaper flight outside TripActions? If you are able to find a
 
 Offline navigation content is key when you are not certain of an internet connection.
 
-- [Maps.me](http://maps.me/en/home) - Large offline maps, lots of destination content
+- [Maps.me](https://maps.me/) - Large offline maps, lots of destination content
 - [Google Maps](https://www.google.com/maps) - Google maps allows offline downloads for self selectable areas
 
 ### Communication
