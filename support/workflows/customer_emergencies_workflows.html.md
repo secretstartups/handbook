@@ -232,21 +232,37 @@ When the call has ended:
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
 
-#### When the emergency is resolved
+#### When the customer incident is not resolved
 
-As soon as the emergency is resolved, mark the emergency ticket as solved. Consider whether an emergency summary is necessary to add in an internal comment. Any follow up work should be in a separate ticket.
+Situations may arise where a customer incident has not been resolved but they need to step away for an extended time period, such as a night to get rest. Before ending the call in such a scenario, explain to the customer that follow up should happen with a _new_ emergency. That will ensure th a DRI for the next time they're available.
+
+For example:
+
+> We were not able to get to a resolution today and I understand you will be away until tomorrow morning. If you come back to this and need any help, I'll be on-call for the next two hours. Feel free to **open a new emergency ticket** and I'll get back on a call with you right away. If it's after two hours, my colleague Francesca will be responding. I'll make sure that she has the background of the situation before I leave for the day.
+
+When the call has ended:
+
+1. Write post-call notes (using macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
+2. Add all relevant internal-only information as an internal note on the ticket.
+3. Tag the next on-call engineer in the emergency's Slack thread.
+4. Merge into non-emergency ticket to consolidate and link everything.
+
+#### When the customer incident is resolved
+
+As soon as the customer incident is resolved, mark the emergency ticket as solved. Consider whether an emergency summary is necessary to add in an internal comment. Any follow up work should be **in a separate ticket** – do **NOT** continue work within the emergency ticket.
 
 - **Option 1: A related ticket already exists:**
-   1. Add an internal comment linking to the (closed) emergency ticket.
-   1. Add an internal comment in the emergency ticket, linking to this ticket as the follow up ticket.
-   1. Check that the priority of the ticket fits
-   1. Add a comment letting customer know that follow up work will continue in this ticket
+   1. Add an internal comment linking to the (solved) emergency ticket.
+   1. Add an internal comment in the emergency ticket, linking to this ticket as the follow-up ticket.
+   1. Check that the priority of the follow-up ticket fits.
+   1. Write post-call notes (using macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the follow-up ticket.
+     - Be sure to let the customer know that follow up work will continue in this ticket.
 
 - **Option 2: There is no related ticket:**
    1. Use a browser incognito window to create a new ticket via the [support portal](https://support.gitlab.com) (not via Zendesk itself). Use the customer email address in the "Your email address" field. Review the new ticket to ensure it is properly associated to the correct customer Organization.
-   1. Let customer know in the ticket description, that follow up work will continue in this ticket.
+   1. Let customer know in the ticket description that follow-up work will continue in this ticket.
    1. Add an internal comment linking to the (closed) emergency ticket.
-   1. Add an internal comment in the emergency ticket, linking to this ticket as the follow up ticket.
+   1. Add an internal comment in the emergency ticket, linking to this ticket as the follow-up ticket.
    1. The new ticket will now be picked up by the round robin automation and assigned to an SGG, like any other ticket. Optionally, an engineer involved in the emergency can take ownership of the ticket instead.
 
 Why do follow up work in another ticket?      
