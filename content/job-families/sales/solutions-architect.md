@@ -67,6 +67,7 @@ The Solutions Architect is a [grade 6](https://about.gitlab.com/handbook/total-r
 - Serve as the customer advocate to other GitLab teams, including Product Development, Sales, and Marketing.
 - Continuously improve your professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others.
 - Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners.
+- Run Value Stream Assessments in your account with support of a Senior SA leading the engagement
 
 #### Solutions Architect Requirements
 
@@ -100,11 +101,13 @@ The Senior Solutions Architect is a [grade 7](https://about.gitlab.com/handbook/
 - Share subject matter expertise through Slack posts, documentation updates, communities of practice, issue and MR participation and other common GitLab collaboration mechanisms.
 - Coach sales team-members on deal qualification when necessary.
 - Assists with specific objectives and key result associated tasks
+- Leading Value Stream Assessments with your accounts or another team member's, while the team member shadows
 
 #### Senior Solutions Architect Requirements
 
 - Extends the Solutions Architect requirements
 - Has experience with the additional responsibilities of a Senior Solutions Architect
+- Experience in Workshop facilitation
 
 ### Staff Solutions Architect
 
@@ -123,6 +126,7 @@ The Staff Solutions Architect is a [grade 9](https://about.gitlab.com/handbook/t
 - Deliver product roadmap discussions.
 - Architect innovative solutions leveraging 3rd party and GitLab technologies that lead to new use cases and revenue opportunities.
 - Maintain a positive personal brand through GitLab-relevant participation in channels such as conferences, blogging, social media, or volunteering for external technical committees or communities of practice.
+- Run full Value Stream Assessment enablement sessions with team members, both new (training) and existing (best practices)
 
 #### Staff Solutions Architect Requirements
 
