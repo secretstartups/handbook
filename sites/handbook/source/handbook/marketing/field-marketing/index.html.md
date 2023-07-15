@@ -255,22 +255,26 @@ This section will continue to be fleshed out as we rollout to the global Field M
 
 The following is the process for when a Field Marketing issue moves from `mktg-status::plan` to `mktg-status::wip`.
 
-## SLA
+## SLAs
 
-FMMs are to provide a 5 business day lead time for all plan to WIP requests in order to give FMCs time to complete the request. Also keep in mind that we have a 5 business day [SLA with Marketing Ops](/handbook/marketing/marketing-operations/campaign-operations/#slas), so please plan ahead accordingly.
+FMMs are to provide a 3 business day lead time for contract requests and a 5 business day lead time for all plan to WIP requests in order to give their FMCs time to complete the requests. Also keep in mind that we have a 5 business day [SLA with Marketing Ops](/handbook/marketing/marketing-operations/campaign-operations/#slas), so please plan ahead accordingly.
 
 ## Items required by FMM to request moving an issue from Plan to WIP
 
-- If a contract is required, the FMM has obtained their Regional Manager's approval and the [Contract Request](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-contract-requests) has been submitted to their FMC. - For contract approval, FMM is to obtain the agreement from the vendor, review and make any changes needed with the vendor, then submit a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) to the FMC for processing through Zip.
-- Event Details and FMC Checklist sections in the main issue are updated and finalized (specifically the date of the event)
-- Allocadia sub-category and line item detail panels are updated and complete
+- If a contract is required, the FMM is to obtain the agreement from the vendor, review and make any changes needed with the vendor, then submit a [Contract Request](/handbook/marketing/field-marketing/#field-marketing-contract-requests) to their FMC for processing through Zip. Please note the contract request issue template has very detailed instructions for our finance and procurement process. The FMM should contact their FMC if they have any special requests or specific questions.
+- The Event Details and FMC Checklist sections in the main issue must be completed in full and finalized (specifically the date of the event, as shifting dates after moving from Plan to WIP requires many adjustments by the FMC).
+- The Allocadia sub-category and line item detail panels must be updated and finalized and the FMM will include their correct forecast cost that matches the amount stated in their contract request, as well as check that the forecasted cost is in the correct month (according to the [prepaid policy](/handbook/finance/accounting/#prepaid-expense-policy)).
+
+Once the FMM has submitted the Contract Request to their FMC and the remaining above items have also been completed, the FMM can proceed with requesting the FMC move from [Plan to WIP](/handbook/marketing/field-marketing/#moving-from-plan-to-wip).
+
+**PLEASE NOTE**: While we are able to move an issue to WIP after the above items have been completed, note that travel should not be booked and additional event costs should not be charged until the contract has been fully approved via the procurement process.
 
 ## Moving from Plan to WIP
 
 - FMM pings the FMC in the main Field Marketing issue and requests the FMC move the issue to WIP (FMM keeps issue label `mktg-status::plan`)
-- FMC reviews the Allocadia sub-category and line item panel details for the tactic and makes any changes necessary
+- FMC reviews the Allocadia sub-category and line item panel details, as well as checks that the forecasted cost is in the correct month (according to the [prepaid policy](/handbook/finance/accounting/#prepaid-expense-policy)) for the tactic and makes any changes necessary
 - FMC requests the Allocadia line item ID for the tactic be added to NetSuite in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wBqvCvmou4afnb0p8lBXVvFmsl-j0IehS7GdfJybGzg/edit#gid=518252060) (if not already completed during the contract process)
-- FMC adds the Allocadia line item ID and the campaign name to the event details section of the issue, where indicated, as well as checks off the box that the Allocadia ID has been created in NetSuite
+- FMC adds the Allocadia line item ID to the Event Details section of the issue, where indicated, as well as checks off the box that the Allocadia ID has been created in NetSuite
 - FMC creates the epic and sub-issues utilizing [this list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)
 - FMC creates the [Marketo program and SFDC campaign](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status) utilizing the [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/program-tracking.md) sub-issue previously created
    - FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
