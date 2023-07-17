@@ -114,7 +114,7 @@ Each month, Integrated Marketing meets with regional Sales Leadership to discuss
 Due to the fact that teams outside of the digital marketing team are only allowed to run three paid social campaigns a month, we would not want to use one of our three slots for the month to run a publisher program with a publication that we already have relationship with. This is for two reasons: 1. To work with our 3rd party ad agency, there is 12-15% fee that is based off the ad spend of the publisher engagement to accommodate their services and reporting 2. because we do not want to take the place of a paid social campaign. Should we go down the route of wanting to work with a publisher, then the team member should collaborate by tagging the Campaign Manager & Digital team manager who you normally work with in the campaign issue. By tagging this team in your issue, the Campaign Manager & Digital team member will be able to ensure the publisher engagement does not conflict with existing activities running.
 
 ### Regional Sales leaders seeking approval for activity outside of Mktg Supported countries 
-For strategic reasons, a regional leader may desire marketing activity outside of the agreed upon [marketing countries of focus](https://internal-handbook.gitlab.io/handbook/marketing/fy24-strategy/#marketing-support-levels). As such, [this issue template](LINK) should be used to seek approval.
+For strategic reasons, a regional leader may desire marketing activity outside of the agreed upon [marketing countries of focus](https://internal.gitlab.com/handbook/marketing/fy24-strategy/#marketing-support-levels). As such, [this issue template](LINK) should be used to seek approval.
 
 
 
