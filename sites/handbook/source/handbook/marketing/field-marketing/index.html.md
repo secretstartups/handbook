@@ -33,7 +33,7 @@ We want to be the most innovative and pipeline centric team within the marketing
     - Test out new messaging or positioning
 
 # Countries of Focus
-In alignment with the FY24 Marketing strategy, Field Marketing focuses on specific countries. Details can be found here in our [internal handbook](https://internal-handbook.gitlab.io/handbook/marketing/fy24-strategy/#target-markets-and-marketing-prioritization).
+In alignment with the FY24 Marketing strategy, Field Marketing focuses on specific countries. Details can be found here in our [internal handbook](https://internal.gitlab.com/handbook/marketing/fy24-strategy/#target-markets-and-marketing-prioritization).
 
 # Cities of Focus
 
