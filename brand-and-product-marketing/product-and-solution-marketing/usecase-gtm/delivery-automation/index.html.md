@@ -1,7 +1,7 @@
 ---
 description: "How GitLab approaches the Automated Software Delivery solution including messaging and key resources to help marketing and sales."
 layout: markdown_page
-title: "DevOps Solution Resource: Automated Software Delivery"
+title: "DevSecOps Solution Resource: Automated Software Delivery"
 ---
 
 
@@ -21,27 +21,24 @@ The page below is intended to align GitLab sales and marketing efforts with a si
 
 |     Product Marketing    |    Technical Marketing    |
 | ------------------------ | ------------------------- |
-| Heather Simpson (@heather)  | Itzik Gan Baruch (@iganbaruch) |
+| Saumya Upadhyaya (@supadhyaya)  | Itzik Gan Baruch (@iganbaruch) |
 
 
 ## Background (2 min read)
 
-**Automated Software Delivery** allows organizations to automate manual, repetitive tasks from their SDLC to improve the overall velocity of the software factory and increase collaboration across dev and ops. This includes both application and infrastructure automation.
-- From a GitLab capabilities point of view - it includes DevOps essentials like SCM, CI, CD, GitOps and AutoDevOps
+**Automated Software Delivery** allows organizations to develop software faster by making teams more productive, unlocking operational efficiencies, accelerating app modernization, and unleashing the value of digital transformation.
+- From a GitLab capabilities point of view - it includes DevOps essentials like SCM, CI, CD, GitOps, AutoDevOps and Observability
 
-Automated Software Delivery allows Elite performers to (as per [State of DevOps 2021](https://cloud.google.com/blog/products/devops-sre/announcing-dora-2021-accelerate-state-of-devops-report) report)
-- Deploy on demand (multiple deploys per day)
-- Take less than an hour from code commit to deploy
-- Take less than an hour to restore services
-- Have less than 15% change failure rate (changes that lead to service degradations)
 
-The opportunity is huge. As per the [GitLab DevSecOps survey 2021](https://about.gitlab.com/developer-survey/) -
-- Only 25% have achieved test automation
-- Not enough code review is done
-- Only 19% of ops teams have achieved full automation
+The opportunity is huge. As per the [GitLab DevSecOps survey 2022](https://about.gitlab.com/developer-survey/previous/2022/) -
+- 85% of organizations are using 2-10 DevOps tools
+- 69% of organizations would like to consolidate their toolchains
+- Devs are spending more time than ever before on maintaining or integrating toolchains. Nearly 40% said they spend between one-quarter and one-half of their time on these tasks (more than double the 2021 percentage), while 33% are spending at least half their time and as much as all of their time on toolchain integration and maintenance
+
 
 Cloud transformation and application modernization is a key CIO initiative for 2022
 - Automated Software Delivery becomes key to support the increase in cloud instances (microservices and ephemeral instances mean manually setting up, configuring and tearing down these instances is not feasible anymore)
+
 
 ## Getting Started {#getting-started}
 
@@ -150,12 +147,14 @@ These value statements are used to measure of GitLab Adoption by the customer an
 
 ### Elevator pitch
 
-Automated Software Delivery with GitLab enables your teams to eliminate manual and repetitive tasks to improve velocity of your SDLC, deliver high quality applications at-scale - particularly essential for cloud-native applications, and improve collaboration between dev and ops. Automated Software Delivery is typically the starting point of your DevOps Platform journey.
+GitLab enables you to deliver better software, faster. Unleash team productivity and efficiency, and accelerate the velocity of software development by automating the build, test, and deployment of your applications. Accelerate your digital transformation and app modernization goals with automated provisioning and maintenance of cloud-native infrastructure Finally, GitLab allows you to easily start where you are, and reduce tooling and complexity as your adoption matures with our flexible platform that has built-in, end-to-end security and out-of-the-box integrations
 
 ### Value Proposition (How GitLab does it?)
 
+- **GitLab helps you deliver better software, faster**
+> "Instead of spending a full day setting up for production and doing manual tests, those simple tasks are now automated. This allowed release time to go from 24 hours to just 10 minutes." - [Airbus](https://about.gitlab.com/customers/airbus/)
 - **GitLab is one of the easiest platforms to get started with your DevOps journey**
-> “It just worked. That was the biggest success because we didn’t have any problems with installing GitLab, with updating it and it was really simple to start for us,” [MGA]
+> "It just worked. That was the biggest success because we didn’t have any problems with installing GitLab, with updating it and it was really simple to start for us," [MGA]
 - **GitLab allows you to start where you are in your journey and reduce other tools as your adoption matures**
 > "As per the Forrester Total Economic Impact study, customers were able to eliminate at least 3 tools per year" [TEI](https://about.gitlab.com/resources/report-forrester-tei/)
 - **GitLab supports your cloud-native application transformations (as well as your traditional applications!)**
