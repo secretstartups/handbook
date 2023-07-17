@@ -360,9 +360,9 @@ Steps to add AE’s to Closed Opps and accounts owned by Sales Admin (Hard Fixes
 
  </details>
 
- ### Process to Request Updates to Territory Ownership
+### Process to Request Updates to Territory Ownership
 
- #### Territory Ownership (Sales)
+#### Territory Ownership (Sales)
 
 1. Create an issue in the Sales Operations project - utilizing the [Territory Change Request template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=Territory_Change_Request).
 2. Follow the directions within the template and provide all requested details.
