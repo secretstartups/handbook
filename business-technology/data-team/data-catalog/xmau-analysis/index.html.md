@@ -24,7 +24,7 @@ upwards in the order noted above.
 xMAU metrics are derived from Service Ping (installation-level granularity), GitLab.com
 Postgres replica (gitlab.com db event-level granularity), and Snowplow events (event-level 
 granularity). This workflow enables the analysis of each level of xMAU metric across various 
-segments of customers and sets the foundation for reporting on [Reported, Estimated, and Predicted](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#three-versions-of-xmau) 
+segments of customers and sets the foundation for reporting on [Reported, Estimated, and Predicted](https://internal.gitlab.com/handbook/company/performance-indicators/product/#three-versions-of-xmau) 
 metrics. We use the same methodology to generate PIs (Performance Indicators), which is a 
 catch-all term for any other metric.
  
@@ -52,15 +52,15 @@ the total number of registered non-blocked users on an installation
   - This metric is _NOT_ synonymous with what we consider "active users" for xMAU and PIs. 
   This value represents the number of registered users on an installation, not the number 
   of users who perform a specific action or event.
-- [xMAU metrics](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure)
-  - [Action Monthly Active Users (AMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure)
-  - [Group Monthly Active Users (GMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#group-monthly-active-users-gmau)
-  - [Stage Monthly Active Users (SMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#stage-monthly-active-users-smau)
-  - [Section Monthly Active Users (Section MAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure)
-  - [Section Total Monthly Active Users (Section CMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure)
-  - [Combined Monthly Active Users (CMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure)
-  - [Unique Monthly Active Users (UMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#unique-monthly-active-users-umau)
-- [xMAU versions (Recorded, Estimated, Predicted)]((https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#three-versions-of-xmau))
+- [xMAU metrics](https://internal.gitlab.com/handbook/company/performance-indicators/product/#structure)
+  - [Action Monthly Active Users (AMAU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#structure)
+  - [Group Monthly Active Users (GMAU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#group-monthly-active-users-gmau)
+  - [Stage Monthly Active Users (SMAU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#stage-monthly-active-users-smau)
+  - [Section Monthly Active Users (Section MAU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#structure)
+  - [Section Total Monthly Active Users (Section CMAU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#structure)
+  - [Combined Monthly Active Users (CMAU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#structure)
+  - [Unique Monthly Active Users (UMAU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#unique-monthly-active-users-umau)
+- [xMAU versions (Recorded, Estimated, Predicted)]((https://internal.gitlab.com/handbook/company/performance-indicators/product/#three-versions-of-xmau))
   - The majority of analyses only look at Recorded and Estimated xMAU
 
 ## How are xMAU and PIs calculated?
@@ -152,7 +152,7 @@ flowchart TD
 ### Paid xMAU definition
  
 Paid xMAU is defined as Monthly Active Users on a Self-Managed installation or gitlab.com 
-namespace on a paid tier. See [Paid Unique Monthly Active Users (UMAU)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#unique-monthly-active-users-umau)
+namespace on a paid tier. See [Paid Unique Monthly Active Users (UMAU)](https://internal.gitlab.com/handbook/company/performance-indicators/product/#unique-monthly-active-users-umau)
 as an example.
 
 Since we define "paid" using the tier instead of presence of ARR, EDU/OSS subscriptions 
@@ -185,7 +185,7 @@ has more details about xMAU-related snippets.
 ### Data Classification
  
 Due to the sensitive nature of metrics like user counts, PI charts are not publicly accessible
-and must reside in the [internal handbook](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/).
+and must reside in the [internal handbook](https://internal.gitlab.com/handbook/company/performance-indicators/product/).
 However, this data is not considered to be [SAFE](/handbook/legal/safe-framework/) and therefore
 is visible to all GitLab team members and is available in the [general GitLab space in Sisense](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
  

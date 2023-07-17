@@ -150,7 +150,7 @@ The Data Directory is designed to provide quick access to / better organize key 
   * [Product Data Insights Direction Page](https://about.gitlab.com/direction/product-analysis/)
   * [Product sections, stages, groups, and categories](/handbook/product/categories/)
   * [Product Handbook](/handbook/product/)
-  * [Product Performance Indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/) (internal handbook)
+  * [Product Performance Indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/) (internal handbook)
   * [Services Usage Data](/handbook/legal/privacy/customer-product-usage-information/)
   * [Our Commitment to Individual User Privacy in relation to Service Usage Data](/handbook/product/analytics-instrumentation-guide/service-usage-data-commitment/)
 
@@ -217,7 +217,7 @@ The Data Directory is designed to provide quick access to / better organize key 
   * [TD Product Usage Data Model 2.0 - dbt and Sisense Cutover](https://docs.google.com/spreadsheets/d/1Hlv5vGO_XSSuDQl_nhCDtx_kINVTKDw1bls0YLBYkWg/edit#gid=1568303793)
   * [TD Product Usage Data Model 2.0 - xMAU Reporting Readout](https://docs.google.com/presentation/d/11S-MAGqY1aWhtYX8ZXNMwYunRyyL5n1LV_sX16-r5CE/edit?usp=sharing)
   * [TD Product Usage Data Models - Use This Not That](https://docs.google.com/spreadsheets/d/1KA2YIkwaKpSGFMfskrympN7Cdn-yGoe0bjvxpxFmRBk/edit?usp=sharing)
-  * [Product PI Structure](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/#structure) (internal handbook)
+  * [Product PI Structure](https://internal.gitlab.com/handbook/company/performance-indicators/product/#structure) (internal handbook)
 
 </details>
 

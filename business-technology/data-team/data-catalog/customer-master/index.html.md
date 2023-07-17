@@ -14,7 +14,7 @@ description: "This page provides the methodology for creating the Customer Maste
 
 ## Customer Master Prototype
 
-The Customer Master Prototype is defined in the [Customer Happy Paths Direction Page](https://internal-handbook.gitlab.io/handbook/finance/customer-happy-paths-direction/). This Definitive Guide provides a detailed overview of the technical implementation of Customer Master Prototype in Snowflake. The Customer Master being defined in source system applications through the [Quote to Cash work stream](https://about.gitlab.com/company/quote-to-cash/); however, it is not fully built in the source system applications yet. The Customer Master Prototype is the first iteration and proof of concept of Customer Master and it has been defined in Snowflake. What follows is a guide to the techinical implementation of the Customer Master Prototype in Snowflake and provides guidance on how to query this data set. 
+The Customer Master Prototype is defined in the [Customer Happy Paths Direction Page](https://internal.gitlab.com/handbook/finance/customer-happy-paths-direction/). This Definitive Guide provides a detailed overview of the technical implementation of Customer Master Prototype in Snowflake. The Customer Master being defined in source system applications through the [Quote to Cash work stream](https://about.gitlab.com/company/quote-to-cash/); however, it is not fully built in the source system applications yet. The Customer Master Prototype is the first iteration and proof of concept of Customer Master and it has been defined in Snowflake. What follows is a guide to the techinical implementation of the Customer Master Prototype in Snowflake and provides guidance on how to query this data set. 
 
 ## Training and Enablement
 
@@ -22,7 +22,7 @@ You can reference the [Customer Master Prototype Training and Workshop Deck](htt
 
 ## Data Dictionary
 
-Please reference the [Happy Paths Direction Page](https://internal-handbook.gitlab.io/handbook/finance/customer-happy-paths-direction/) for entity definitions. Some key terms are provided below with links back to the direction page for the definitions.
+Please reference the [Happy Paths Direction Page](https://internal.gitlab.com/handbook/finance/customer-happy-paths-direction/) for entity definitions. Some key terms are provided below with links back to the direction page for the definitions.
 
 ### Company Entity
 

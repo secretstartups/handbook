@@ -648,7 +648,7 @@ If for any reason the API Key needs to be rotated it needs to be rotated in the 
 
 - The Periscope API Key in the Data Team Secure vault
 - [The Handbook Project](https://gitlab.com/gitlab-com/www-gitlab-com/)
-- [The Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io)
+- [The Internal Handbook Project](https://gitlab.com/internal-handbook/internal.gitlab.com)
   - _you will need maintainer access, or help from a maintainer to do this_
 - [The KPI Slides Project](https://gitlab.com/gitlab-com/kpi-slides/)
 

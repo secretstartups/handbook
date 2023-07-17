@@ -119,7 +119,7 @@ graph BT;
 | Backlog | Community Sentiment Analysis | Unplanned | - | | TBD | 
 | Backlog | Feature $ARR Uplift Prediction | Unplanned | Attribute incremental ARR lift based on feature adoption | | TBD |
 
-- For implementation details and where to find model predictions/scores, please see the [Propensity Models Internal Handbook Page](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/)
+- For implementation details and where to find model predictions/scores, please see the [Propensity Models Internal Handbook Page](https://internal.gitlab.com/handbook/sales/propensity_models/)
 
 
 **Maturity**
