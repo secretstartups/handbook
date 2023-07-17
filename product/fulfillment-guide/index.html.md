@@ -17,9 +17,9 @@ description: "The Fulfillment Sub-department is responsible for the infrastructu
 | [docs.gitlab.com Subscription](https://docs.gitlab.com/ee/subscriptions/) | Customer-facing documentation around GitLab subscriptions, including Customer Portal (customers.gitlab.com) information. |
 | Fulfillment Guide (this page) | Documentation around CustomersDot Admin tools and process documentation that is not part of the docs.gitlab.com Subscription documentation above. |
 | [Fulfillment Development Sub-Department](/handbook/engineering/development/fulfillment/) | Team members, stable counterparts (PM, UX, Quality, Security, EntApps, Field Ops, Sales, Billing, Customer Success, Support Engineering), project management processes, and more. | 
-| [Internal Handbook - Fulfillment](https://internal-handbook.gitlab.io/handbook/product/fulfillment/) | Documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information. |
+| [Internal Handbook - Fulfillment](https://internal.gitlab.com/handbook/product/fulfillment/) | Documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information. |
 | [Cloud Licesing Overview (External)](/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites | 
-| [Cloud Licensing (Internal)](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing | 
+| [Cloud Licensing (Internal)](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing | 
 | [Deal Desk Handbook](/handbook/sales/field-operations/sales-operations/deal-desk/) | Standard Quote Configuration (new subscription, amend subscription, add-on quote creation, upgrade or product switch during subscription term, renewal, channel deals, true-ups, co-terms, Starter/Bronze End of Availability, SuperSonics, Professional Services), Non-Standard Quotes (Contract Resets, Concurrent Subscriptions, Multi-year Deals, Ramp deals), Alliance Marketplace Private Offers, and more.  | 
 | [Sales Order Processing](/handbook/sales/field-operations/order-processing/) | Account and opportunity creation, quote configuration, approvals process, opportunity booking requirements, closing an opportunity. |
 | [Internal Support](/handbook/support/internal-support/) | Submitting all requests around licensing, subscription, trials, and grace periods. | 
@@ -107,7 +107,7 @@ _last updated: April 2023_
 
 ## User cap for groups on SaaS
 
-We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups) built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html#user-cap). As of now, this feature is not ready for production use. GitLab team members can learn more about the feature in the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/fulfillment/saas-user-caps/). 
+We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups) built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html#user-cap). As of now, this feature is not ready for production use. GitLab team members can learn more about the feature in the [internal handbook](https://internal.gitlab.com/handbook/product/fulfillment/saas-user-caps/). 
 
 ## Experience for customers that purchased through a reseller
 

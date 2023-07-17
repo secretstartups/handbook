@@ -38,7 +38,7 @@ each analyst is assigned to one or more sections or teams to support.
 | [Emma Neuberger](/company/team/#eneuberger) | [Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#product-analyst-intermediate) | [Growth](/handbook/product/categories/#growth-section), [Enablement](/handbook/product/categories/#enablement-section), [SaaS Platforms](/handbook/product/categories/#saas-platforms-section) |
 | [Matthew Petersen](/company/team/#matthewpetersen) | [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst) | [Dev](/handbook/product/categories/#dev-section) |
 | [Dave Peterson](/company/team/#dpeterson1) | [Staff Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#staff-product-analyst) | [Sec](/handbook/product/categories/#sec-section) |
-| [Neil Raisinghani](/company/team/#nraisinghani) | [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst) | [Fulfillment](/handbook/product/categories/#fulfillment-section), [Pricing](https://internal-handbook.gitlab.io/handbook/product/pricing/) |
+| [Neil Raisinghani](/company/team/#nraisinghani) | [Senior Product Analyst](https://handbook.gitlab.com/job-families/product/product-analyst/#senior-product-analyst) | [Fulfillment](/handbook/product/categories/#fulfillment-section), [Pricing](https://internal.gitlab.com/handbook/product/pricing/) |
 
 ## Handbook contents
 

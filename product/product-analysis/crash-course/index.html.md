@@ -19,7 +19,7 @@ If this page serves it's purpose, Product Analysts should be able to visit this 
 
 ## Helpful places to start
 
-* [Internal handbook performance indicators (PIs)](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/) - This internal handbook page is a great place to understand the PIs for each Stage / Group to understand what results each team is trying to acheive.
+* [Internal handbook performance indicators (PIs)](https://internal.gitlab.com/handbook/company/performance-indicators/) - This internal handbook page is a great place to understand the PIs for each Stage / Group to understand what results each team is trying to acheive.
 
 * [Sisense Usage Insights](https://app.periscopedata.com/app/gitlab/1013112/Sisense-Usage-Insights) is a Dashboard that provides a high level analysis of most commonly used Sisesnse Dashboards, Data Sources, and Snippets.
 
@@ -153,7 +153,7 @@ A great handbook page to skim to understand the roadmap and focus for Plan
 
 **Performance indicators**
 
-[Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/dev-section/)
+[Link to performance indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/dev-section/)
 
 Resource to understand the Performance Indicators for the Dev Section - Page can be searched by Stage and Group
 
@@ -189,7 +189,7 @@ Create provides tools that support the beginning of the DevOps Life Cycle. Sourc
 
 * [Editor Extension Category MAU Metrics](https://app.periscopedata.com/app/gitlab/825329/Editor-Extension-Category-MAU-Metrics)  Used frequently by Create : Code Review Group
 
-* [Performance indicators internal handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/dev-section/)  The Create : Gitaly Group primarily uses the Performance Indicators Internal Handbook Page to guide decisions
+* [Performance indicators internal handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/dev-section/)  The Create : Gitaly Group primarily uses the Performance Indicators Internal Handbook Page to guide decisions
 
 * [Handbook page containing engineering analytics dashboards](https://about.gitlab.com/handbook/engineering/development/dev/create/engineering-managers/dashboards/)  Used by Create Stage Engineering Managers
 
@@ -219,7 +219,7 @@ Resource to understand the goals for this team
 
 **Performance indicators**
 
-[Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/dev-section/)
+[Link to performance indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/dev-section/)
 
 Resource to understand the Performance Indicators for the Dev Section - Page can be searched by Stage and Group
 
@@ -284,7 +284,7 @@ Resource to understand the long-term goals for the Verify team
 
 **Performance indicators**
 
-[Ops Section PI](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/ops-section/)
+[Ops Section PI](https://internal.gitlab.com/handbook/company/performance-indicators/product/ops-section/)
 An internal handbook page that lists all performance indicators under the Operations section
 
 **Key handbook pages**
@@ -429,7 +429,7 @@ Resource to understand the long-term goals for this team
 
 **Performance indicators**
 
-[Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/ops-section/)
+[Link to performance indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/ops-section/)
 
 Resource to understand the Performance Indicators for the Ops Section - Page can be searched by Stage and Group
 
@@ -485,7 +485,7 @@ Resource to understand the long-term goals for this team
 
 **Performance indicators**
 
-[Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/ops-section/)
+[Link to performance indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/ops-section/)
 Resource to understand the Performance Indicators for the Ops Section - Page can be searched by Stage and Group
 
 **Key handbook pages**
@@ -537,7 +537,7 @@ Resource to understand the long-term goals for this team
 
 **Performance indicators**
 
-[Link to performance indicators](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/ops-section/)
+[Link to performance indicators](https://internal.gitlab.com/handbook/company/performance-indicators/product/ops-section/)
 
 Resource to understand the Performance Indicators for the Ops Section - Page can be searched by Stage and Group
 
@@ -655,7 +655,7 @@ WHERE field = stage_name
 
 **Performance indicators**
 
-[Internal handbook performance indicators for the Secure section](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/sec-section/)
+[Internal handbook performance indicators for the Secure section](https://internal.gitlab.com/handbook/company/performance-indicators/product/sec-section/)
 
 **Key handbook pages**
 
@@ -719,7 +719,7 @@ Includes Stage and Group level details
 
 **Performance indicators**
 
-[Enablement Section PI handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/enablement-section/) 
+[Enablement Section PI handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/enablement-section/) 
 
 **Key handbook pages**
 
@@ -786,7 +786,7 @@ Includes Stage and Group level details
 
 **Performance indicators**
 
-[Enablement Section PI handbook page](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/product/enablement-section/) 
+[Enablement Section PI handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/enablement-section/) 
 
 **Key handbook pages**
 
