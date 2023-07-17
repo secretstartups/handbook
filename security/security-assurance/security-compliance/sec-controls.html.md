@@ -69,7 +69,7 @@ The GitLab Security Compliance team is responsible for ensuring the consistency 
 
 ## GitLab IT General Controls (ITGCs) 
 
-ITGCs are a subset of the GCF controls. Please refer to [GitLab SOX ITGC Compliance](https://internal-handbook.gitlab.io/handbook/finance/sox-internal-controls/) (internal only) for details. 
+ITGCs are a subset of the GCF controls. Please refer to [GitLab SOX ITGC Compliance](https://internal.gitlab.com/handbook/finance/sox-internal-controls/) (internal only) for details. 
 
 
 # List of NIST 800-53 controls by family (Used by Commercial and Dedicated teams beginning FY24 Q1):

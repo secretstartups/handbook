@@ -91,7 +91,7 @@ To engage with the team:
 1. [Create an issue](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security/bau/-/issues) in our issue tracker dedicated to Business as Usual (BAU) activities and general inquiries.
     * It is not necessary to `@mention` anyone. In case you want to mention the whole team, use the `@gitlab-com/gl-security/security-operations/infrastructure-security` handle on GitLab.com.
     * You can also chat with us on Slack in the dedicated `#security-infrasec` channel or by tagging us `@infrasec-team`.
-    * You can also refer to the **[InfraSec Team Wiki](https://internal-handbook.gitlab.io/handbook/security/infrastructure_security/#team-information)** (internal only) for general information about the team and current projects.
+    * You can also refer to the **[InfraSec Team Wiki](https://internal.gitlab.com/handbook/security/infrastructure_security/#team-information)** (internal only) for general information about the team and current projects.
 1. The team will triage (and prioritise accordingly) all incoming request during the weekly team sync (usually happening on Tuesday).
 
 
@@ -110,7 +110,7 @@ The team does have set of regular synchronous calls:
 
 ### Team Pages
 * This [Handbook Page](https://about.gitlab.com/handbook/security/security-engineering/infrastructure-security/), which contains general information about the team
-* The [Internal Handbook](https://internal-handbook.gitlab.io/handbook/security/infrastructure_security/), which is the operational source of truth for the team. Everyone is **encouraged** to check it out for team's information
+* The [Internal Handbook](https://internal.gitlab.com/handbook/security/infrastructure_security/), which is the operational source of truth for the team. Everyone is **encouraged** to check it out for team's information
 * The [Infrastructure Security GitLab Sub-Group](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security), which contains EPICs and repositories
 * The [Infrastructure Security **Public** Sub-Group](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security-public), which contains publicly facing resources (e.g., Docker images, etc.)
 

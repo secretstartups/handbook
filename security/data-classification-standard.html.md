@@ -64,7 +64,7 @@ Regardless of whether customer uploaded/created/generated data exists within pri
 
 ### Data Classification Levels
 
-Examples of each data type: [See Data Classification Index](https://internal-handbook.gitlab.io/handbook/security/data_classification/) (internal only)
+Examples of each data type: [See Data Classification Index](https://internal.gitlab.com/handbook/security/data_classification/) (internal only)
 
 #### RED
 Restricted and must remain confidential. This is GitLab’s most sensitive data and access to it should be considered privileged and must be explicitly approved. Exposure of this data to unauthorized parties could cause extreme loss to GitLab and/or its customers. In the gravest scenario, exposure of this data could trigger or cause a business extinction event. 
@@ -81,7 +81,7 @@ Examples include:
      * Any vendor who is in possession of any form of Personal Data must have appropriate contractual terms that address GitLab data protection requirements (e.g. a Data Processing Agreement).
      * If Personal Data comprises a part of the data set to be processed, then the data classification for that data set should be Orange and the classification cannot be Yellow or Green, even if the majority of the data set is Yellow or Green data.  
      * The source of the Personal Data should not change its classification to a level below Orange since Personal data gathered from public sources is not exempt from protection under certain data protection laws.
-     * If you have doubts as to whether something is Personal Data, please see an exhaustive list of Personal Data elements in the [Data Classification Index](https://internal-handbook.gitlab.io/handbook/security/data_classification/) (internal only)
+     * If you have doubts as to whether something is Personal Data, please see an exhaustive list of Personal Data elements in the [Data Classification Index](https://internal.gitlab.com/handbook/security/data_classification/) (internal only)
 * GitLab Intellectual property
 * Customer metadata
 * Audit logs
@@ -183,4 +183,4 @@ Exceptions to this policy will be tracked as per the [Information Security Polic
 ## References
 
 * [Controlled Document Procedure](/handbook/security/controlled-document-procedure.html)
-* [Data Classification Index](https://internal-handbook.gitlab.io/handbook/security/data_classification/) (internal only)
+* [Data Classification Index](https://internal.gitlab.com/handbook/security/data_classification/) (internal only)
