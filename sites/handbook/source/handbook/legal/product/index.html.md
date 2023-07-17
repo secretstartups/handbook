@@ -19,7 +19,7 @@ description: "Legal Product team page"
 
 * Visit the [GitLab Patent Program](https://about.gitlab.com/handbook/legal/patent-program/) for information on how to participate in this initiative.
 
-* Visit the [Guidelines for reviewing third-party patents](https://internal-handbook.gitlab.io/handbook/legal-and-corporate-affairs/legal-and-compliance/productguidance/#guidelines-on-reviewing-third-party-patents) (accessible to team members only).
+* Visit the [Guidelines for reviewing third-party patents](https://internal.gitlab.com/handbook/legal-and-corporate-affairs/legal-and-compliance/productguidance/#guidelines-on-reviewing-third-party-patents) (accessible to team members only).
 
 ## Trademark
 
@@ -29,7 +29,7 @@ description: "Legal Product team page"
 
 ## Cleanroom Development Process
 
-* Visit this guidance (accessible to team members only) for further information on the [Cleanroom Development Process](https://internal-handbook.gitlab.io/handbook/engineering/cleanroom-development/).
+* Visit this guidance (accessible to team members only) for further information on the [Cleanroom Development Process](https://internal.gitlab.com/handbook/engineering/cleanroom-development/).
 
 ## Using Open Source Software
 

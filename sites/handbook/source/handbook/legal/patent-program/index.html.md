@@ -72,7 +72,7 @@ Follow the guidelines below related to the discussion of inventions, treatment o
 | Rejected patents. This includes disclosed inventions and improvements that are determined to not qualify for patent protection as communicated by LACA.  | Open source or source available as appropriate. | The rejected patent may be discussed publicly.                                                                                                             | Software can be licensed under the EE or MIT license with no additional considerations required from a patent perspective.  |
 
 If you have any questions or concerns, reach out to #legal.
-For guidance on how to review third-party patent functionality, visit the [Guidelines for reviewing third-party patents](https://internal-handbook.gitlab.io/handbook/legal-and-corporate-affairs/legal-and-compliance/productguidance/#guidelines-on-reviewing-third-party-patents) (accessible to GitLab team members only).
+For guidance on how to review third-party patent functionality, visit the [Guidelines for reviewing third-party patents](https://internal.gitlab.com/handbook/legal-and-corporate-affairs/legal-and-compliance/productguidance/#guidelines-on-reviewing-third-party-patents) (accessible to GitLab team members only).
 
 ### Conditions of participation
 - Inventors must be current GitLab Team Members to participate in the GitLab Patent Program and be eligible for the receipt of Patent Awards.

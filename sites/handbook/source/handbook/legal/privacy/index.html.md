@@ -172,7 +172,7 @@ graph TD
 <summary markdown="span">Internal Product Feature/Release Privacy Review Process</summary>
 
 
-Anytime a new feature or a change to an existing feature is planned, Product Managers and Engineering Managers should evaluate if the planned development presents a legal risk where personal data is involved. If Personal Data is impliciated, utilize the [Legal Risk Checklist and Workflow](https://internal-handbook.gitlab.io/handbook/legal-and-corporate-affairs/legal-and-compliance/legal-risk-checklist/#product-and-feature-development---legal-risk-checklist) (_internal only_)
+Anytime a new feature or a change to an existing feature is planned, Product Managers and Engineering Managers should evaluate if the planned development presents a legal risk where personal data is involved. If Personal Data is impliciated, utilize the [Legal Risk Checklist and Workflow](https://internal.gitlab.com/handbook/legal-and-corporate-affairs/legal-and-compliance/legal-risk-checklist/#product-and-feature-development---legal-risk-checklist) (_internal only_)
 
 </details>
 

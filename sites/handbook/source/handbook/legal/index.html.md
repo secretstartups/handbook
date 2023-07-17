@@ -136,4 +136,4 @@ The Foreign Corrupt Practices Act (“FCPA”) is a United States federal law th
 </details>
 
 
-### For additional General Legal FAQs, please refer to the [Internal Handbook](https://internal-handbook.gitlab.io/handbook/legal-and-compliance/#general-legal-faqs).
+### For additional General Legal FAQs, please refer to the [Internal Handbook](https://internal.gitlab.com/handbook/legal-and-compliance/#general-legal-faqs).
