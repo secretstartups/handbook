@@ -36,6 +36,8 @@ _**NB:** Support should be able to rely on the Salesforce `Account Owner` field 
 
 ### 3. Escalation procedure
 
+**Before escalating consider checking the "Activity" section of the account's Salesforce page to see if someone has reached out to the customer. If you see activity since your first chatter, consider confirming status with the customer or the sales rep instead of escalating.** To confirm with Sales, just reply to the original chatter asking them whether they reached out. If you see no activity since you started the chatter, escalate as described below.
+
 ##### If the Salesforce `Account Owner` is incorrect or unable/unwilling to assist
 
 * Mention the account owner's direct manager in a Chatter comment.
