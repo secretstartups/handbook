@@ -209,7 +209,7 @@ The Staff Auditor, IT and Security is a [grade 8](https://about.gitlab.com/handb
 - Assist and make recommendations in evaluation of new processes, policies and systems to determine relevance to and impact on the SOX program, including assessing design of controls based on identified risks
 - Evaluate audit findings and coordinate remediation of deficiencies
 - Manage and/or contribute to special projects both on-going and recurring (e.g., scaling controls, segregation of duties, implementation - support/advisory), as needed, in an effective and efficient manner
-- Provide guidance to and mentor interns and junior SOX testers or audit staff 
+- Provide guidance to and mentor interns and junior SOX testers or audit staff
 
 ## Requirements
 
